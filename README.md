@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shhh...](http://9gag.com/gag/aYVnN1V)
- - 🚯 [Heartwarming story, but Rebecca.](http://9gag.com/gag/aA0NBO2)
- - 🚯 [Steven Ogg is a legend for this](http://9gag.com/gag/az2D7rx)<!-- MEMES:END -->
+ - 6️⃣ [Me neither](http://9gag.com/gag/aBdvqPZ)
+ - 😝 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
+ - 👉 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)<!-- MEMES:END -->
 
 --- 
 
