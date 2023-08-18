@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me neither](http://9gag.com/gag/aBdvqPZ)
- - 😝 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
+ - 6️⃣ [This guy has lived](http://9gag.com/gag/aMEWp8P)
+ - 😝 [A UFC Fighter Won His First Fight, Tweeted That He Had $7 In His Account, The Rock Showed Up, Pretended They Were Going To A Friend&#39;s House, Then The Rock Gave Him They Keys To His New House.](http://9gag.com/gag/agoZrBW)
  - 👉 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)<!-- MEMES:END -->
 
 --- 
