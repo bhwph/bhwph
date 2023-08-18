@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Most Sought After Elden Ring Sword Has A Storied History](https://kotaku.com/fromsoftware-elden-ring-kings-field-sword-of-moonlight-1850749163)
- - [Baldur’s Gate 3: This Monk Build Lets You Deal A Couple Hundred Damage Per Turn](https://kotaku.com/baldurs-gate-3-bg3-monk-build-best-op-1850752068)
- - [Barbie Fever Is About To Blue Shell Super Mario Bros. Movie’s High Score](https://kotaku.com/barbie-ken-mario-bros-peaches-box-office-kill-me-now-1850752088)<!-- GAME:END -->
+ - [This Legend Of Zelda Movie Mockup Will Activate Your ‘80s Nostalgia](https://kotaku.com/legend-of-zelda-movie-trailer-fanmade-80s-films-youtube-1850752580)
+ - [Official PlayStation Podcast Episode 466: Track and Field](https://blog.playstation.com/2023/08/18/official-playstation-podcast-episode-466-track-and-field/)
+ - [Glorious Model I 2 Wireless](https://www.pcgamer.com/Glorious-Model-I-2-Wireless-gaming-mouse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
