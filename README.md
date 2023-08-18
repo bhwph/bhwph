@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How an Iowa School District Used ChatGPT to Ban Books](https://www.wired.com/story/chatgpt-ban-books-iowa-schools-sf-496/)
- - [25 Years Ago Steve Jobs Launched the First iMac—and the Strategy That Saved Apple](https://www.wired.com/story/plaintext-imac-anniversary-25-years-steve-jobs-strategy-apple/)
- - [Baldur’s Gate 3 on the Steam Deck looks bad but plays great](https://www.theverge.com/2023/8/18/23836236/baldurs-gate-3-steam-deck-looks-bad-plays-great)<!-- TECH:END -->
+ - [Leaked images reveal Lenovo’s Steam Deck competitor that may connect to AR glasses](https://www.theverge.com/2023/8/16/23835191/lenovo-legion-go-leaked-images-steam-deck-competitor)
+ - [Cruise robotaxi collides with fire truck in San Francisco, leaving one injured](https://www.theverge.com/2023/8/18/23837217/cruise-robotaxi-driverless-crash-fire-truck-san-francisco)
+ - [Big companies use AI-generated ads because they’re cheap](https://www.theverge.com/2023/8/18/23837273/generative-ai-advertising-oreos-cadbury-watermarking)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
