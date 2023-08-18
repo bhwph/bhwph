@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Venba is so short — and confidently so](https://www.polygon.com/gaming/23835632/venba-length-how-long)
- - [Total War: Warhammer 3 DLC is getting more expensive and the community is rebelling: &#39;Remember they need us more than we need them&#39;](https://www.pcgamer.com/total-war-warhammer-3-dlc-is-getting-more-expensive-and-the-community-is-rebelling-remember-they-need-us-more-than-we-need-them)
- - [Starfield&#39;s preload files suggest there is no sign of DLSS or XeSS support amid AMD sponsorship](https://www.pcgamer.com/starfield-no-dlss-support-at-launch)<!-- GAME:END -->
+ - [The Most Sought After Elden Ring Sword Has A Storied History](https://kotaku.com/fromsoftware-elden-ring-kings-field-sword-of-moonlight-1850749163)
+ - [Baldur’s Gate 3: This Monk Build Lets You Deal A Couple Hundred Damage Per Turn](https://kotaku.com/baldurs-gate-3-bg3-monk-build-best-op-1850752068)
+ - [Barbie Fever Is About To Blue Shell Super Mario Bros. Movie’s High Score](https://kotaku.com/barbie-ken-mario-bros-peaches-box-office-kill-me-now-1850752088)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
