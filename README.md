@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Legend Of Zelda Movie Mockup Will Activate Your ‘80s Nostalgia](https://kotaku.com/legend-of-zelda-movie-trailer-fanmade-80s-films-youtube-1850752580)
- - [Official PlayStation Podcast Episode 466: Track and Field](https://blog.playstation.com/2023/08/18/official-playstation-podcast-episode-466-track-and-field/)
- - [Glorious Model I 2 Wireless](https://www.pcgamer.com/Glorious-Model-I-2-Wireless-gaming-mouse)<!-- GAME:END -->
+ - [The best Baldur&#39;s Gate 3 mods](https://www.pcgamer.com/the-best-baldurs-gate-3-mods)
+ - [Overwatch 2 director opens up about having the worst-reviewed game on Steam: &#39;Being review-bombed isn&#39;t a fun experience&#39;](https://www.pcgamer.com/overwatch-2-director-opens-up-about-having-the-worst-reviewed-game-on-steam-being-review-bombed-isnt-a-fun-experience)
+ - [Watch this Diablo 4 Barbarian deal 7 billion damage to Uber Lilith while she&#39;s already down](https://www.pcgamer.com/watch-this-diablo-4-barbarian-deal-7-billion-damage-to-uber-lilith-while-shes-already-down)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
