@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Baldur&#39;s Gate 3 mods](https://www.pcgamer.com/the-best-baldurs-gate-3-mods)
- - [Overwatch 2 director opens up about having the worst-reviewed game on Steam: &#39;Being review-bombed isn&#39;t a fun experience&#39;](https://www.pcgamer.com/overwatch-2-director-opens-up-about-having-the-worst-reviewed-game-on-steam-being-review-bombed-isnt-a-fun-experience)
- - [Watch this Diablo 4 Barbarian deal 7 billion damage to Uber Lilith while she&#39;s already down](https://www.pcgamer.com/watch-this-diablo-4-barbarian-deal-7-billion-damage-to-uber-lilith-while-shes-already-down)<!-- GAME:END -->
+ - [Broken Roads is a post-apocalyptic CRPG in the classic vein: &#39;We are unashamedly copying Fallout 2, Planescape: Torment, Pillars 2, Baldur&#39;s Gate&#39;](https://www.pcgamer.com/broken-roads-is-a-post-apocalyptic-crpg-in-the-classic-vein-we-are-unashamedly-copying-fallout-2-planescape-torment-pillars-2-baldurs-gate)
+ - [Today&#39;s Wordle hint and answer #791: Saturday, August 19](https://www.pcgamer.com/wordle-answer-today-hint-791-august-19)
+ - [The best Baldur&#39;s Gate 3 mods](https://www.pcgamer.com/the-best-baldurs-gate-3-mods)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
