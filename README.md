@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you meet someone who matches your energy.](http://9gag.com/gag/aGENww6)
- - 😝 [Excuse me\u2026. Lemme\u2026..Lemme just yoink that out for a second\u2026\u2026\u2026..because of reasons](http://9gag.com/gag/aOxNb6y)
- - 👉 [50:50](http://9gag.com/gag/agoZNgg)<!-- MEMES:END -->
+ - 6️⃣ [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
+ - 😝 [Jackie Chan doesn&#39;t know who the Kardashians are \ud83d\ude02](http://9gag.com/gag/abvmyv8)
+ - 👉 [This aged well](http://9gag.com/gag/ay2V7YX)<!-- MEMES:END -->
 
 --- 
 
