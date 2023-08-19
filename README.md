@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This guy has lived](http://9gag.com/gag/aMEWp8P)
- - 😝 [A UFC Fighter Won His First Fight, Tweeted That He Had $7 In His Account, The Rock Showed Up, Pretended They Were Going To A Friend&#39;s House, Then The Rock Gave Him They Keys To His New House.](http://9gag.com/gag/agoZrBW)
- - 👉 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)<!-- MEMES:END -->
+ - 6️⃣ [To all you europeans complaining about immigrants. Im a Saudi citizen, I applied for schengen visa. Got rejected. &lpar;Proved im wealthy and with a stable job&rpar;Is it me or is europe allowing certain type of useless people in to fulfill some agenda? I just wanna see the colosseum.](http://9gag.com/gag/ajVMrPx)
+ - 😝 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
+ - 👉 [Where is the hentay version?](http://9gag.com/gag/aeQP39Q)<!-- MEMES:END -->
 
 --- 
 
