@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Would](http://9gag.com/gag/aNw2rG0)
- - 😝 [. . .](http://9gag.com/gag/az2B6Gp)
- - 👉 [Testicular cancer here we go. They will cut one of my balls off tomorrow. I&#39;ve been a part of this cancerous community for some years now so it&#39;s your fault. I expect the stupidest comments and memes. Don&#39;t let me down. Also test youselves when you reach wizard age.](http://9gag.com/gag/armr1q0)<!-- MEMES:END -->
+ - 6️⃣ [When you meet someone who matches your energy.](http://9gag.com/gag/aGENww6)
+ - 😝 [Excuse me\u2026. Lemme\u2026..Lemme just yoink that out for a second\u2026\u2026\u2026..because of reasons](http://9gag.com/gag/aOxNb6y)
+ - 👉 [50:50](http://9gag.com/gag/agoZNgg)<!-- MEMES:END -->
 
 --- 
 
