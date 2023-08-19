@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive: This is how Google Camera will look on the Pixel 8](https://www.androidauthority.com/exclusive-google-camera-pixel-8-3356147/)
- - [Montana Youth Win a Historic Climate Case](https://www.wired.com/story/montana-youth-win-a-historic-climate-case/)
- - [12 Best Early Labor Day Deals &lpar;2023&rpar;: Luggage, Grills, and Outdoor Gear](https://www.wired.com/story/best-labor-day-deals-2023/)<!-- TECH:END -->
+ - [Cellebrite trains law enforcement to maintain iPhone-hacking secrets](https://appleinsider.com/articles/23/08/19/cellebrite-trains-law-enforcement-to-maintain-iphone-hacking-secrets?utm_medium=rss)
+ - [Windows file archiver utility WinRAR fixed a high-severity vulnerability that could give remote attackers arbitrary code execution, after researchers flagged it &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230819/p6#a230819p6)
+ - [Daily Deals Aug. 19: $150 off Mac Studio, 50% off JBL Tune 230NL TWS Headphones, Up to 25% off Keurig Brewers and Accessories](https://appleinsider.com/articles/23/08/19/daily-deals-aug-19-150-off-mac-studio-50-off-jbl-tune-230nl-tws-headphones-up-to-25-off-keurig-brewers-and-accessories?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
