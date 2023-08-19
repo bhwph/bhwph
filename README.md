@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Broken Roads is a post-apocalyptic CRPG in the classic vein: &#39;We are unashamedly copying Fallout 2, Planescape: Torment, Pillars 2, Baldur&#39;s Gate&#39;](https://www.pcgamer.com/broken-roads-is-a-post-apocalyptic-crpg-in-the-classic-vein-we-are-unashamedly-copying-fallout-2-planescape-torment-pillars-2-baldurs-gate)
- - [Today&#39;s Wordle hint and answer #791: Saturday, August 19](https://www.pcgamer.com/wordle-answer-today-hint-791-august-19)
- - [The best Baldur&#39;s Gate 3 mods](https://www.pcgamer.com/the-best-baldurs-gate-3-mods)<!-- GAME:END -->
+ - [&#39;A triumph&#39;: Brian Fargo, Mike Laidlaw, and other RPG architects weigh in on Baldur&#39;s Gate 3](https://www.pcgamer.com/a-triumph-brian-fargo-mike-laidlaw-and-other-rpg-architects-weigh-in-on-baldurs-gate-3)
+ - [Coraline was my first horror story, and it’s only become spookier](https://www.polygon.com/entertainment/23835999/coraline-neil-gaiman-horror-stop-motion-animation-laika-watch-streaming)
+ - [Turning popular video games into great board games is a lot harder than it sounds](https://www.polygon.com/tabletop-games/23831873/video-games-based-on-board-games-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
