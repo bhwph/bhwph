@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US intelligence agencies warn China and Russia are targeting private US space companies and preparing cyberattacks that could disable satellites in a conflict &lpar;Julian E. Barnes/New York Times&rpar;](http://www.techmeme.com/230819/p1#a230819p1)
- - [Western Digital refused to answer questions about how its portable SanDisk Extreme SSDs might lose all the data; the company is being sued over data-loss issues &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230818/p20#a230818p20)
- - [Cruise is complying with a California DMV request to cut its fleet by 50% as the regulator probes &quot;recent concerning incidents&quot; involving Cruise robotaxis &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230818/p19#a230818p19)<!-- TECH:END -->
+ - [Exclusive: This is how Google Camera will look on the Pixel 8](https://www.androidauthority.com/exclusive-google-camera-pixel-8-3356147/)
+ - [Montana Youth Win a Historic Climate Case](https://www.wired.com/story/montana-youth-win-a-historic-climate-case/)
+ - [12 Best Early Labor Day Deals &lpar;2023&rpar;: Luggage, Grills, and Outdoor Gear](https://www.wired.com/story/best-labor-day-deals-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
