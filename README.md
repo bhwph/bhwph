@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank has acquired a 25% stake in Arm from its Vision Fund unit at a $64B valuation and will make the chip designer&#39;s IPO filing public on Monday &lpar;Anirban Sen/Reuters&rpar;](http://www.techmeme.com/230818/p12#a230818p12)
- - [PSA: Your smartwatch band may have dangerous bacteria on it](https://www.androidauthority.com/smartwatch-band-bacteria-3356261/)
- - [Lamborghini Lanzador: Price, Specs, Release Date](https://www.wired.com/story/lamborghini-lanzador-all-electric-most-powerful-car-ever/)<!-- TECH:END -->
+ - [The best Samsung Galaxy Watch 6 faces](https://www.androidauthority.com/best-samsung-galaxy-watch-6-faces-3355979/)
+ - [A district court judge upheld a US Copyright Office finding that artwork created by AI isn&#39;t eligible for copyright protection because it lacks human authorship &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/230818/p18#a230818p18)
+ - [Baldur’s Gate 3 on the Steam Deck plays better than it looks](https://www.theverge.com/2023/8/18/23836236/baldurs-gate-3-steam-deck-looks-bad-plays-great)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
