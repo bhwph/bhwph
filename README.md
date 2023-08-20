@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kat Dennings](http://9gag.com/gag/aMENrNV)
- - 😝 [Stand-up comedy heckler](http://9gag.com/gag/aBdNQ8P)
- - 👉 [`I&#39;m not a sheep, I&#39;m a wolf`](http://9gag.com/gag/aeQP38B)<!-- MEMES:END -->
+ - 6️⃣ [Full send!](http://9gag.com/gag/aPgdDoq)
+ - 😝 [`I&#39;m not a sheep, I&#39;m a wolf`](http://9gag.com/gag/aeQP38B)
+ - 👉 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)<!-- MEMES:END -->
 
 --- 
 
