@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;A triumph&#39;: Brian Fargo, Mike Laidlaw, and other RPG architects weigh in on Baldur&#39;s Gate 3](https://www.pcgamer.com/a-triumph-brian-fargo-mike-laidlaw-and-other-rpg-architects-weigh-in-on-baldurs-gate-3)
- - [Coraline was my first horror story, and it’s only become spookier](https://www.polygon.com/entertainment/23835999/coraline-neil-gaiman-horror-stop-motion-animation-laika-watch-streaming)
- - [Turning popular video games into great board games is a lot harder than it sounds](https://www.polygon.com/tabletop-games/23831873/video-games-based-on-board-games-interview)<!-- GAME:END -->
+ - [Twitch streamers can soon stop banned people from watching altogether](https://www.pcgamer.com/twitch-streamers-can-soon-stop-banned-people-from-watching-altogether)
+ - [Vampire Survivors has couch co-op now](https://www.pcgamer.com/vampire-survivors-has-couch-co-op-now)
+ - [&#39;A triumph&#39;: Brian Fargo, Mike Laidlaw, and other RPG architects weigh in on Baldur&#39;s Gate 3](https://www.pcgamer.com/a-triumph-brian-fargo-mike-laidlaw-and-other-rpg-architects-weigh-in-on-baldurs-gate-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
