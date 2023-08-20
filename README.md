@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #792: Sunday, August 20](https://www.pcgamer.com/wordle-answer-today-hint-792-august-20)
- - [Twitch streamers can soon stop banned people from watching altogether](https://www.pcgamer.com/twitch-streamers-can-soon-stop-banned-people-from-watching-altogether)
- - [Vampire Survivors has couch co-op now](https://www.pcgamer.com/vampire-survivors-has-couch-co-op-now)<!-- GAME:END -->
+ - [Rainbow Six Siege keeps reinventing itself in ways other games are too scared to try](https://www.pcgamer.com/rainbow-six-siege-keeps-reinventing-itself-in-ways-other-games-are-too-scared-to-try)
+ - [Astarion’s charms convinced me to play Baldur’s Gate 3](https://www.polygon.com/23835927/baldurs-gate-3-astarion-tiktok-bg3)
+ - [Max is removing one of its best shows at the worst possible time](https://www.polygon.com/23833259/over-garden-wall-max-leaving-tv-show-its-fall-girl)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
