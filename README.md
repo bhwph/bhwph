@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X glitch wipes out most pictures and links tweeted before December 2014](https://www.theverge.com/2023/8/20/23838823/twitter-x-deleted-pictures-links-2014-metadata-t-co-shortener)
- - [KEF R3 Meta Review: Solid Bass, Premium Sound](https://www.wired.com/review/kef-r3-meta/)
- - [Google&#39;s New Feature Ensures Your Pixel Phone Hasn&#39;t Been Hacked. Here’s How It Works](https://www.wired.com/story/google-pixel-binary-transparency-security-feature/)<!-- TECH:END -->
+ - [A look at online trading scams, which have cost European consumers billions, being perpetrated by fraudsters working from call centers, dubbed &quot;boiler rooms&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230820/p7#a230820p7)
+ - [Yaber K2s projector review: streaming made easy with integrated apps](https://appleinsider.com/articles/23/08/20/yaber-k2s-projector-review-streaming-made-easy-with-integrated-apps?utm_medium=rss)
+ - [Apple AirPods Pro 3: Release date, price, rumors, features we want to see](https://www.androidauthority.com/apple-airpods-pro-3-3352080/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
