@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When details were made not only for posting them online](http://9gag.com/gag/aqep5YY)
+ - 6️⃣ [Kat Dennings](http://9gag.com/gag/aMENrNV)
  - 😝 [Stand-up comedy heckler](http://9gag.com/gag/aBdNQ8P)
- - 👉 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)<!-- MEMES:END -->
+ - 👉 [`I&#39;m not a sheep, I&#39;m a wolf`](http://9gag.com/gag/aeQP38B)<!-- MEMES:END -->
 
 --- 
 
