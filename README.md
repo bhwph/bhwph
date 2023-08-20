@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Big Tech companies compel employees back to the office, some companies, like Atlassian, Airbnb, Dropbox, and Twilio, remain steadfast backers of remote work &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230820/p2#a230820p2)
- - [X appears to have deleted all images posted directly on the website between 2011 and 2014; links that used Twitter&#39;s native shortening service are also broken &lpar;Matt Novak/Forbes&rpar;](http://www.techmeme.com/230820/p1#a230820p1)
- - [Analysis: Books3, a dataset used to train Meta&#39;s Llama, BloombergGPT, and EleutherAI&#39;s GPT-J, contains 170K+ books from Stephen King and other authors &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/230819/p10#a230819p10)<!-- TECH:END -->
+ - [X glitch wipes out most pictures and links tweeted before December 2014](https://www.theverge.com/2023/8/20/23838823/twitter-x-deleted-pictures-links-2014-metadata-t-co-shortener)
+ - [KEF R3 Meta Review: Solid Bass, Premium Sound](https://www.wired.com/review/kef-r3-meta/)
+ - [Google&#39;s New Feature Ensures Your Pixel Phone Hasn&#39;t Been Hacked. Here’s How It Works](https://www.wired.com/story/google-pixel-binary-transparency-security-feature/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
