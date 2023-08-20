@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cellebrite trains law enforcement to maintain iPhone-hacking secrets](https://appleinsider.com/articles/23/08/19/cellebrite-trains-law-enforcement-to-maintain-iphone-hacking-secrets?utm_medium=rss)
- - [Windows file archiver utility WinRAR fixed a high-severity vulnerability that could give remote attackers arbitrary code execution, after researchers flagged it &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230819/p6#a230819p6)
- - [Daily Deals Aug. 19: $150 off Mac Studio, 50% off JBL Tune 230NL TWS Headphones, Up to 25% off Keurig Brewers and Accessories](https://appleinsider.com/articles/23/08/19/daily-deals-aug-19-150-off-mac-studio-50-off-jbl-tune-230nl-tws-headphones-up-to-25-off-keurig-brewers-and-accessories?utm_medium=rss)<!-- TECH:END -->
+ - [Best Android VPN 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)
+ - [AI-generated art cannot be copyrighted, rules a US Federal Judge](https://www.theverge.com/2023/8/19/23838458/ai-generated-art-no-copyright-district-court)
+ - [Analysis: daily trading volumes surge on Coinbase International, an offshore derivatives exchange Coinbase launched in May 2023, reaching $287M on August 18 &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/230819/p9#a230819p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
