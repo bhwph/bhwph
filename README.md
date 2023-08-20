@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
- - 😝 [Jackie Chan doesn&#39;t know who the Kardashians are \ud83d\ude02](http://9gag.com/gag/abvmyv8)
- - 👉 [This aged well](http://9gag.com/gag/ay2V7YX)<!-- MEMES:END -->
+ - 6️⃣ [When details were made not only for posting them online](http://9gag.com/gag/aqep5YY)
+ - 😝 [Stand-up comedy heckler](http://9gag.com/gag/aBdNQ8P)
+ - 👉 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)<!-- MEMES:END -->
 
 --- 
 
