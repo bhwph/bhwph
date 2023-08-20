@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #792: Sunday, August 20](https://www.pcgamer.com/wordle-answer-today-hint-792-august-20)
  - [Twitch streamers can soon stop banned people from watching altogether](https://www.pcgamer.com/twitch-streamers-can-soon-stop-banned-people-from-watching-altogether)
- - [Vampire Survivors has couch co-op now](https://www.pcgamer.com/vampire-survivors-has-couch-co-op-now)
- - [&#39;A triumph&#39;: Brian Fargo, Mike Laidlaw, and other RPG architects weigh in on Baldur&#39;s Gate 3](https://www.pcgamer.com/a-triumph-brian-fargo-mike-laidlaw-and-other-rpg-architects-weigh-in-on-baldurs-gate-3)<!-- GAME:END -->
+ - [Vampire Survivors has couch co-op now](https://www.pcgamer.com/vampire-survivors-has-couch-co-op-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
