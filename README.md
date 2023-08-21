@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Angela Merkel visiting Saudi Arabia](http://9gag.com/gag/adP47ND)
- - 😝 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)
- - 👉 [Recently I went to the shop and bought some oil paint, canvas and roughly followed Bob Ross&#39; painting &lpar;Northern Lights&rpar;. I know that it&#39;s not even close to maestro&#39;s work, but I think it&#39;s OKish, given the fact that I never tried painting before, except in the elementary school](http://9gag.com/gag/avQXGGb)<!-- MEMES:END -->
+ - 6️⃣ [Matt Damon actually rules.](http://9gag.com/gag/aA0NdYR)
+ - 😝 [Today collected 20kg of garbage. Total is 2955kg. Last time people hate me a lot because of my nationality.But I have no difference where to collect. Your Cleaning Guy.](http://9gag.com/gag/amAbYN9)
+ - 👉 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)<!-- MEMES:END -->
 
 --- 
 
