@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sling cards to save the planet in this free ecological strategy game](https://www.pcgamer.com/sling-cards-to-save-the-planet-in-this-free-ecological-strategy-game)
- - [Wayfinder devs apologize as server woes lead to a poor launch reception](https://www.pcgamer.com/wayfinder-devs-apologize-as-server-woes-lead-to-a-poor-launch-reception)
- - [Baldur&#39;s Gate 3 is a great RPG, but also a victory for the immersive sim](https://www.pcgamer.com/baldurs-gate-3-is-a-great-rpg-but-its-also-a-victory-for-the-immersive-sim)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #793: Monday, August 21](https://www.pcgamer.com/wordle-answer-today-hint-793-august-21)
+ - [Five new Steam games you probably missed &lpar;August 21, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-21-2023)
+ - [Sling cards to save the planet in this free ecological strategy game](https://www.pcgamer.com/sling-cards-to-save-the-planet-in-this-free-ecological-strategy-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
