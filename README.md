@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at online trading scams, which have cost European consumers billions, being perpetrated by fraudsters working from call centers, dubbed &quot;boiler rooms&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230820/p7#a230820p7)
- - [Yaber K2s projector review: streaming made easy with integrated apps](https://appleinsider.com/articles/23/08/20/yaber-k2s-projector-review-streaming-made-easy-with-integrated-apps?utm_medium=rss)
- - [Apple AirPods Pro 3: Release date, price, rumors, features we want to see](https://www.androidauthority.com/apple-airpods-pro-3-3352080/)<!-- TECH:END -->
+ - [Meta may launch a Threads web version early this week](https://www.theverge.com/2023/8/20/23839495/meta-threads-web-version-coming-this-week)
+ - [Sources: Meta plans to launch a web version of Threads early this week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230820/p10#a230820p10)
+ - [Some clinicians think unrealistic depictions of dissociative identity disorder on TikTok are influencing young people to self-diagnose or imitate the disorder &lpar;Jessica Lucas/The Verge&rpar;](http://www.techmeme.com/230820/p9#a230820p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
