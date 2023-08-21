@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhones now support RCS messages for the first time thanks to this app!](https://www.androidauthority.com/iphone-rcs-support-beeper-3356511/)
- - [This is how Google’s upcoming eSIM transfer tool will work on Android](https://www.androidauthority.com/android-esim-transfer-3356508/)
- - [Meta may launch a Threads web version early this week](https://www.theverge.com/2023/8/20/23839495/meta-threads-web-version-coming-this-week)<!-- TECH:END -->
+ - [Interviews with 30+ of Elon Musk&#39;s colleagues and others detail his growing international power, childhood, career, politics, role in the Ukraine war, and more &lpar;Ronan Farrow/New Yorker&rpar;](http://www.techmeme.com/230821/p8#a230821p8)
+ - [A notice from Maine&#39;s AG says Tesla&#39;s May 2023 data breach impacted 75,735 people, included employee-related records, and was a result of &quot;insider wrongdoing&quot; &lpar;Dana Hull/Bloomberg&rpar;](http://www.techmeme.com/230821/p7#a230821p7)
+ - [NFT platform Recur plans to shut down by November 16, 2023, less than two years after raising a $50M Series A, and tells owners to move NFT metadata to the IPFS &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230821/p6#a230821p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
