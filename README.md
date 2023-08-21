@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with 30+ of Elon Musk&#39;s colleagues and others detail his growing international power, childhood, career, politics, role in the Ukraine war, and more &lpar;Ronan Farrow/New Yorker&rpar;](http://www.techmeme.com/230821/p8#a230821p8)
- - [A notice from Maine&#39;s AG says Tesla&#39;s May 2023 data breach impacted 75,735 people, included employee-related records, and was a result of &quot;insider wrongdoing&quot; &lpar;Dana Hull/Bloomberg&rpar;](http://www.techmeme.com/230821/p7#a230821p7)
- - [NFT platform Recur plans to shut down by November 16, 2023, less than two years after raising a $50M Series A, and tells owners to move NFT metadata to the IPFS &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230821/p6#a230821p6)<!-- TECH:END -->
+ - [Ghost, a B2B surplus inventory marketplace with 1,000+ members, raised a $30M Series B led by Cathay Innovation and plans to expand to Europe and Asia &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230821/p17#a230821p17)
+ - [Mysterious Fitbit tracker stops by the FCC, but what is it?](https://www.androidauthority.com/fitbit-tracker-2023-3356731/)
+ - [How to use the new Kanban feature in Reminders on macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-the-new-kanban-feature-in-reminders-on-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
