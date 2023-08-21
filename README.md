@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rainbow Six Siege keeps reinventing itself in ways other games are too scared to try](https://www.pcgamer.com/rainbow-six-siege-keeps-reinventing-itself-in-ways-other-games-are-too-scared-to-try)
- - [Astarion’s charms convinced me to play Baldur’s Gate 3](https://www.polygon.com/23835927/baldurs-gate-3-astarion-tiktok-bg3)
- - [Max is removing one of its best shows at the worst possible time](https://www.polygon.com/23833259/over-garden-wall-max-leaving-tv-show-its-fall-girl)<!-- GAME:END -->
+ - [Sling cards to save the planet in this free ecological strategy game](https://www.pcgamer.com/sling-cards-to-save-the-planet-in-this-free-ecological-strategy-game)
+ - [Wayfinder devs apologize as server woes lead to a poor launch reception](https://www.pcgamer.com/wayfinder-devs-apologize-as-server-woes-lead-to-a-poor-launch-reception)
+ - [Baldur&#39;s Gate 3 is a great RPG, but also a victory for the immersive sim](https://www.pcgamer.com/baldurs-gate-3-is-a-great-rpg-but-its-also-a-victory-for-the-immersive-sim)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
