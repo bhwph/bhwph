@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
- - 😝 [Just a moment](http://9gag.com/gag/adP4jnQ)
- - 👉 [Im not saying any names](http://9gag.com/gag/armrR8X)<!-- MEMES:END -->
+ - 6️⃣ [Angela Merkel visiting Saudi Arabia](http://9gag.com/gag/adP47ND)
+ - 😝 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)
+ - 👉 [Recently I went to the shop and bought some oil paint, canvas and roughly followed Bob Ross&#39; painting &lpar;Northern Lights&rpar;. I know that it&#39;s not even close to maestro&#39;s work, but I think it&#39;s OKish, given the fact that I never tried painting before, except in the elementary school](http://9gag.com/gag/avQXGGb)<!-- MEMES:END -->
 
 --- 
 
