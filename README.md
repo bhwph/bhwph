@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #793: Monday, August 21](https://www.pcgamer.com/wordle-answer-today-hint-793-august-21)
- - [Five new Steam games you probably missed &lpar;August 21, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-21-2023)
- - [Sling cards to save the planet in this free ecological strategy game](https://www.pcgamer.com/sling-cards-to-save-the-planet-in-this-free-ecological-strategy-game)<!-- GAME:END -->
+ - [Grab yourself a 48-inch 4K LG OLED for a ridiculous $650](https://www.pcgamer.com/grab-yourself-a-48-inch-4k-lg-oled-for-a-ridiculous-dollar650)
+ - [The next game from the Battle Brothers devs is a sci-fi tactical RPG that &#39;takes everything beloved&#39; about their last game and &#39;improves it tenfold&#39;](https://www.pcgamer.com/the-next-game-from-the-battle-brothers-devs-is-a-sci-fi-tactical-rpg-that-takes-everything-beloved-about-their-last-game-and-improves-it-tenfold)
+ - [How to solve the Sarin skeleton puzzle in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-sarin-skeleton-solution)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
