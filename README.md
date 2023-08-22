@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Diver realises a freighter just went by inches overhead](http://9gag.com/gag/aMENwmx)
- - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
+ - 6️⃣ [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
+ - 😝 [We were lied to](http://9gag.com/gag/avQXoOE)
  - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
 
 --- 
