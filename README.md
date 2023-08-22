@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Selling Activision Blizzard Cloud Gaming Rights To Ubisoft In Last-Ditch Effort To Get Merger Approved](https://kotaku.com/call-duty-microsoft-activision-blizzard-ubisoft-cma-uk-1850761011)
- - [D&amp;D&#39;s clunky exhaustion rules are in Baldur&#39;s Gate 3, but they only apply to one unlucky &lpar;and very tired&rpar; bird](https://www.pcgamer.com/dandds-clunky-exhaustion-rules-are-in-baldurs-gate-3-but-they-only-apply-to-one-unlucky-and-very-tired-bird)
- - [How to escape the Djinni Lamp in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-djinni-lamp-escape)<!-- GAME:END -->
+ - [A First Look at Little Nightmares III’s Necropolis](https://news.xbox.com/en-us/2023/08/22/little-nightmares-3-reveal/)
+ - [Little Nightmares III introduces co-op to the franchise](https://blog.playstation.com/2023/08/22/little-nightmares-iii-introduces-co-op-to-the-franchise/)
+ - [How Shadow Gambit: The Cursed Crew is an Immersive Controller Experience on Xbox Series X|S](https://news.xbox.com/en-us/2023/08/22/shadow-gambit-the-cursed-crew-on-xbox-series-xs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
