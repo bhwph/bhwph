@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cerby, which manages access to &quot;nonstandard&quot; enterprise apps, like those without modern identity protocols, raised a $17M Series A led by Two Sigma Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230822/p11#a230822p11)
- - [Poll results: You don’t think high-resolution cameras have lived up to the hype](https://www.androidauthority.com/ultra-high-resolution-cameras-hype-poll-results-3357009/)
- - [Future Apple Watch could color-coordinate itself automatically](https://appleinsider.com/articles/23/08/22/future-apple-watch-could-color-coordinate-itself-automatically?utm_medium=rss)<!-- TECH:END -->
+ - [Age of Empires IV arrives on Xbox consoles and Game Pass today](https://www.theverge.com/2023/8/22/23841238/age-of-empires-iv-xbox-game-pass-console-launch)
+ - [How to delete your Twitter history](https://www.theverge.com/23833347/twitter-x-history-delete-how-to)
+ - [Q&amp;A with Fandom CEO Perkins Miller on the wiki hosting service&#39;s origin as Wikipedia&#39;s sister company, Pottermore, acquiring TV Guide, ads, FanDNA, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230822/p22#a230822p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
