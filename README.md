@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ghost, a B2B surplus inventory marketplace with 1,000+ members, raised a $30M Series B led by Cathay Innovation and plans to expand to Europe and Asia &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230821/p17#a230821p17)
- - [Mysterious Fitbit tracker stops by the FCC, but what is it?](https://www.androidauthority.com/fitbit-tracker-2023-3356731/)
- - [How to use the new Kanban feature in Reminders on macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-the-new-kanban-feature-in-reminders-on-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 15 Pro Max not shipping until October says analyst](https://appleinsider.com/articles/23/08/22/iphone-15-pro-max-not-shipping-until-october-says-analyst?utm_medium=rss)
+ - [Adobe Co-founder Dr. John Warnock dies at 82](https://appleinsider.com/articles/23/08/20/adobe-co-founder-dr-john-warnock-dies-at-82?utm_medium=rss)
+ - [Genesis Therapeutics, which uses AI to discover and develop new medicines, raised a $200M Series B co-led by a16z, bringing its total funding to $280M &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230821/p26#a230821p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
