@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Matt Damon actually rules.](http://9gag.com/gag/aA0NdYR)
- - 😝 [Today collected 20kg of garbage. Total is 2955kg. Last time people hate me a lot because of my nationality.But I have no difference where to collect. Your Cleaning Guy.](http://9gag.com/gag/amAbYN9)
- - 👉 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)<!-- MEMES:END -->
+ - 6️⃣ [Diver realises a freighter just went by inches overhead](http://9gag.com/gag/aMENwmx)
+ - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
+ - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
 
 --- 
 
