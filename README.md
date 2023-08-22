@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max not shipping until October says analyst](https://appleinsider.com/articles/23/08/22/iphone-15-pro-max-not-shipping-until-october-says-analyst?utm_medium=rss)
- - [Adobe Co-founder Dr. John Warnock dies at 82](https://appleinsider.com/articles/23/08/20/adobe-co-founder-dr-john-warnock-dies-at-82?utm_medium=rss)
- - [Genesis Therapeutics, which uses AI to discover and develop new medicines, raised a $200M Series B co-led by a16z, bringing its total funding to $280M &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230821/p26#a230821p26)<!-- TECH:END -->
+ - [Microsoft to sell off Activision cloud gaming rights to Ubisoft in bid for UK approval](https://www.theverge.com/2023/8/22/23828302/microsoft-activision-blizzard-acquisition-ubisoft-cloud-gaming-rights-uk-cma)
+ - [A look at Worldcoin from a privacy-skeptical point of view, including likely risks and how the project doesn&#39;t link users&#39; transaction data with its ID database &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/230822/p2#a230822p2)
+ - [X reportedly tests removing headlines from links to news articles](https://www.theverge.com/2023/8/22/23841012/x-twitter-remove-headlines-news-elon-musk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
