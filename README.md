@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/08/21/this-weeks-deals-with-gold-and-spotlight-sale-285/)
- - [Immortals of Aveum fades into the AAA scenery](https://www.polygon.com/reviews/23840401/immortals-of-aveum-review-call-of-duty-magic)
- - [Today&#39;s Wordle hint and answer #794: Tuesday, August 22](https://www.pcgamer.com/wordle-answer-today-hint-794-august-22)<!-- GAME:END -->
+ - [Microsoft Selling Activision Blizzard Cloud Gaming Rights To Ubisoft In Last-Ditch Effort To Get Merger Approved](https://kotaku.com/call-duty-microsoft-activision-blizzard-ubisoft-cma-uk-1850761011)
+ - [D&amp;D&#39;s clunky exhaustion rules are in Baldur&#39;s Gate 3, but they only apply to one unlucky &lpar;and very tired&rpar; bird](https://www.pcgamer.com/dandds-clunky-exhaustion-rules-are-in-baldurs-gate-3-but-they-only-apply-to-one-unlucky-and-very-tired-bird)
+ - [How to escape the Djinni Lamp in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-djinni-lamp-escape)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
