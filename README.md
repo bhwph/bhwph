@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft to sell off Activision cloud gaming rights to Ubisoft in bid for UK approval](https://www.theverge.com/2023/8/22/23828302/microsoft-activision-blizzard-acquisition-ubisoft-cloud-gaming-rights-uk-cma)
- - [A look at Worldcoin from a privacy-skeptical point of view, including likely risks and how the project doesn&#39;t link users&#39; transaction data with its ID database &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/230822/p2#a230822p2)
- - [X reportedly tests removing headlines from links to news articles](https://www.theverge.com/2023/8/22/23841012/x-twitter-remove-headlines-news-elon-musk)<!-- TECH:END -->
+ - [Cerby, which manages access to &quot;nonstandard&quot; enterprise apps, like those without modern identity protocols, raised a $17M Series A led by Two Sigma Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230822/p11#a230822p11)
+ - [Poll results: You don’t think high-resolution cameras have lived up to the hype](https://www.androidauthority.com/ultra-high-resolution-cameras-hype-poll-results-3357009/)
+ - [Future Apple Watch could color-coordinate itself automatically](https://appleinsider.com/articles/23/08/22/future-apple-watch-could-color-coordinate-itself-automatically?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
