@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A First Look at Little Nightmares III’s Necropolis](https://news.xbox.com/en-us/2023/08/22/little-nightmares-3-reveal/)
- - [Little Nightmares III introduces co-op to the franchise](https://blog.playstation.com/2023/08/22/little-nightmares-iii-introduces-co-op-to-the-franchise/)
- - [How Shadow Gambit: The Cursed Crew is an Immersive Controller Experience on Xbox Series X|S](https://news.xbox.com/en-us/2023/08/22/shadow-gambit-the-cursed-crew-on-xbox-series-xs/)<!-- GAME:END -->
+ - [Ahsoka’s place in the Star Wars timeline is immediately confusing](https://www.polygon.com/star-wars/23841485/when-does-ahsoka-take-place-star-wars-rebels)
+ - [Who are Star Wars’ Witches of Dathomir?](https://www.polygon.com/star-wars/23840577/star-wars-ahsoka-witches-of-dathomir-clone-wars)
+ - [Ahsoka is promising the return of one of Star Wars’ best villains](https://www.polygon.com/star-wars/2020/11/27/21722488/the-mandalorian-admiral-thrawn-explained-star-wars-ezra-bridger)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
