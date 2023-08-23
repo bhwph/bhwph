@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #795: Wednesday, August 23](https://www.pcgamer.com/wordle-answer-today-hint-795-august-23)
- - [Ahsoka’s Jedi apprentice isn’t like any we’ve seen before](https://www.polygon.com/star-wars/23841682/ahsoka-sabine-apprentice-force-sensitive-jedi)
- - [Ahsoka’s place in the Star Wars timeline is immediately confusing](https://www.polygon.com/star-wars/23841485/when-does-ahsoka-take-place-star-wars-rebels)<!-- GAME:END -->
+ - [Typical Valve: Left 4 Dead 2 gets a &#39;minor update&#39; with notes as long as your arm, and names an alligator](https://www.pcgamer.com/typical-valve-left-4-dead-2-gets-a-minor-update-with-notes-as-long-as-your-arm-and-names-an-alligator)
+ - [Lone wolf destroys Baldur&#39;s Gate 3&#39;s toughest boss in two turns with nothing but a bow, a bag of busted magic items, and D&amp;D&#39;s least flashy class](https://www.pcgamer.com/lone-wolf-destroys-baldurs-gate-3s-toughest-boss-in-two-turns-with-nothing-but-a-bow-a-bag-of-busted-magic-items-and-dandds-least-flashy-class)
+ - [Ace of the Belfry: How Stoic is Developing Towerborne to be an Epic Action-RPG with a Focus on Fun](https://news.xbox.com/en-us/2023/08/23/towerborne-an-epic-action-rpg-with-a-focus-on-fun/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
