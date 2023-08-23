@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)
- - 😝 [Good girl](http://9gag.com/gag/a2KjZo9)
- - 👉 [A 20 years old Afghan refugee has raped an 18 year old Man for hours, camera has filmed the complete crime. WTF?! And nobody helped the victim? What is worse, if they don&#39;t rape Women, they start rape Man?! WTF Germany?!](http://9gag.com/gag/aWGNYvK)<!-- MEMES:END -->
+ - 6️⃣ [Classic prank](http://9gag.com/gag/aYVnyWV)
+ - 😝 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
+ - 👉 [After the Netherlands invented the speed camera, the whole world uses those b*tches. We now have something new again, the sound speed camera. above 80 decibels you can soon be fined about 400 euros. Soon also in your city, you&#39;re welcome ; &rpar;](http://9gag.com/gag/aDYN4zZ)<!-- MEMES:END -->
 
 --- 
 
