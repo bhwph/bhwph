@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon shoppers can save up to $600 on MacBook Pro, plus deep discounts on M2 MacBook Air, iPad Pro](https://appleinsider.com/articles/23/08/23/amazon-shoppers-can-save-up-to-600-on-macbook-pro-plus-deep-discounts-on-m2-macbook-air-ipad-pro?utm_medium=rss)
- - [India’s Chandrayaan-3 probe successfully lands on the lunar south pole](https://www.theverge.com/2023/8/23/23842669/chandrayaan3-india-moon-mission-successful-lunar-south-pole)
- - [Bank for International Settlements: crypto has amplified rather than reduced financial risks in less developed economies, offering only an &quot;illusory&quot; appeal &lpar;Laura Noonan/Financial Times&rpar;](http://www.techmeme.com/230823/p13#a230823p13)<!-- TECH:END -->
+ - [How to clean Apple Watch bands](https://appleinsider.com/inside/apple-watch/tips/heres-how-to-clean-apple-watch-bands?utm_medium=rss)
+ - [BioWare is laying off ‘approximately’ 50 people](https://www.theverge.com/2023/8/23/23843096/bioware-layoffs-dragon-age-dreadwolf-mass-effect)
+ - [Hollywood writers say producers want them to ‘cave’ after the public release of proposals](https://www.theverge.com/2023/8/23/23842892/hollywood-producers-amptp-proposals-wga-strike)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
