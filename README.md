@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap names former Google Pay exec Pulkit Trivedi as the new India head and grants the country&#39;s leadership greater autonomy in a market where it has 200M+ MAUs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230823/p4#a230823p4)
- - [Arm&#39;s IPO prospectus says the company has a 10% share of the $18B market for cloud processors, up from 7% in 2020, and a 41% share of the automotive market &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230823/p3#a230823p3)
- - [Details leak about Project Moohan, Samsung and Google’s upcoming XR headset](https://www.androidauthority.com/samsung-google-xr-headset-project-moohan-3357275/)<!-- TECH:END -->
+ - [Amazon shoppers can save up to $600 on MacBook Pro, plus deep discounts on M2 MacBook Air, iPad Pro](https://appleinsider.com/articles/23/08/23/amazon-shoppers-can-save-up-to-600-on-macbook-pro-plus-deep-discounts-on-m2-macbook-air-ipad-pro?utm_medium=rss)
+ - [India’s Chandrayaan-3 probe successfully lands on the lunar south pole](https://www.theverge.com/2023/8/23/23842669/chandrayaan3-india-moon-mission-successful-lunar-south-pole)
+ - [Bank for International Settlements: crypto has amplified rather than reduced financial risks in less developed economies, offering only an &quot;illusory&quot; appeal &lpar;Laura Noonan/Financial Times&rpar;](http://www.techmeme.com/230823/p13#a230823p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
