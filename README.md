@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Typical Valve: Left 4 Dead 2 gets a &#39;minor update&#39; with notes as long as your arm, and names an alligator](https://www.pcgamer.com/typical-valve-left-4-dead-2-gets-a-minor-update-with-notes-as-long-as-your-arm-and-names-an-alligator)
- - [Lone wolf destroys Baldur&#39;s Gate 3&#39;s toughest boss in two turns with nothing but a bow, a bag of busted magic items, and D&amp;D&#39;s least flashy class](https://www.pcgamer.com/lone-wolf-destroys-baldurs-gate-3s-toughest-boss-in-two-turns-with-nothing-but-a-bow-a-bag-of-busted-magic-items-and-dandds-least-flashy-class)
- - [Ace of the Belfry: How Stoic is Developing Towerborne to be an Epic Action-RPG with a Focus on Fun](https://news.xbox.com/en-us/2023/08/23/towerborne-an-epic-action-rpg-with-a-focus-on-fun/)<!-- GAME:END -->
+ - [Blasphemous 2 Is 2023&#39;s Most Sickening Metroidvania, And I Love It](https://kotaku.com/blasphemous-2-review-metroidvania-soulslike-platformer-1850767035)
+ - [Dragon Age And Mass Effect Studio Lays Off 50 Devs, Claims Games Are Unaffected](https://kotaku.com/dragon-age-dreadwolf-mass-effect-4-bioware-layoffs-1850766754)
+ - [Lara Croft Is Coming To Call Of Duty](https://kotaku.com/call-of-duty-tomb-raider-lara-croft-modern-warfare-warz-1850767072)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
