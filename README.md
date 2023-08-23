@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mendaera, which is developing a collaborative robotic system for healthcare providers that uses real-time imaging and AI, raised a $24M Series A led by Lux &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/230822/p34#a230822p34)
- - [SIA: Huawei is building secret chip fabrication facilities across China that would let the company skirt US sanctions and is receiving ~$30B in state funding &lpar;Bloomberg&rpar;](http://www.techmeme.com/230822/p33#a230822p33)
- - [IBM unveils watsonx Code Assistant for IBM Z, which uses a code-generating AI model to translate COBOL code into Java, set for general availability in Q4 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230822/p32#a230822p32)<!-- TECH:END -->
+ - [Snap names former Google Pay exec Pulkit Trivedi as the new India head and grants the country&#39;s leadership greater autonomy in a market where it has 200M+ MAUs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230823/p4#a230823p4)
+ - [Arm&#39;s IPO prospectus says the company has a 10% share of the $18B market for cloud processors, up from 7% in 2020, and a 41% share of the automotive market &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230823/p3#a230823p3)
+ - [Details leak about Project Moohan, Samsung and Google’s upcoming XR headset](https://www.androidauthority.com/samsung-google-xr-headset-project-moohan-3357275/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
