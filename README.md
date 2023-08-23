@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Age of Empires IV arrives on Xbox consoles and Game Pass today](https://www.theverge.com/2023/8/22/23841238/age-of-empires-iv-xbox-game-pass-console-launch)
- - [How to delete your Twitter history](https://www.theverge.com/23833347/twitter-x-history-delete-how-to)
- - [Q&amp;A with Fandom CEO Perkins Miller on the wiki hosting service&#39;s origin as Wikipedia&#39;s sister company, Pottermore, acquiring TV Guide, ads, FanDNA, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230822/p22#a230822p22)<!-- TECH:END -->
+ - [Mendaera, which is developing a collaborative robotic system for healthcare providers that uses real-time imaging and AI, raised a $24M Series A led by Lux &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/230822/p34#a230822p34)
+ - [SIA: Huawei is building secret chip fabrication facilities across China that would let the company skirt US sanctions and is receiving ~$30B in state funding &lpar;Bloomberg&rpar;](http://www.techmeme.com/230822/p33#a230822p33)
+ - [IBM unveils watsonx Code Assistant for IBM Z, which uses a code-generating AI model to translate COBOL code into Java, set for general availability in Q4 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230822/p32#a230822p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
