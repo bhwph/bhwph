@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
- - 😝 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
- - 👉 [Quantum entanglement of photons captured in real-time](http://9gag.com/gag/az2Dedm)<!-- MEMES:END -->
+ - 6️⃣ [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
+ - 😝 [Nobody got nothing dawg](http://9gag.com/gag/a2Kj19w)
+ - 👉 [Bro was like wait wait WAIT](http://9gag.com/gag/aNw2g10)<!-- MEMES:END -->
 
 --- 
 
