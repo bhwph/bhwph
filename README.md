@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
- - 😝 [Hold your horses](http://9gag.com/gag/a4oroM1)
- - 👉 [Nobody got nothing dawg](http://9gag.com/gag/a2Kj19w)<!-- MEMES:END -->
+ - 6️⃣ [AfD isn&#39;t a good choice, but it might be the only choice.](http://9gag.com/gag/anzWR8E)
+ - 😝 [If your not first your last](http://9gag.com/gag/a3ZpZAv)
+ - 👉 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)<!-- MEMES:END -->
 
 --- 
 
