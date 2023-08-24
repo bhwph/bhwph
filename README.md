@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s when Armored Core 6 unlocks in your time zone](https://www.pcgamer.com/armored-core-6-release-time-date-pc-console)
- - [Today&#39;s Wordle hint and answer #796: Thursday, August 24](https://www.pcgamer.com/wordle-answer-today-hint-796-august-24)
- - [Alan Wake 2 feels like Remedy&#39;s attempt to combine the best games it&#39;s ever made](https://www.pcgamer.com/alan-wake-2--hands-on-gamescom)<!-- GAME:END -->
+ - [Qualcomm&#39;s new gaming handheld chip has Steam Deck and AMD in its sights](https://www.pcgamer.com/qualcomms-new-gaming-handheld-chip-has-steam-deck-and-amd-in-its-sights)
+ - [D&amp;D&#39;s favourite spellblade subclass has been modded into Baldur&#39;s Gate 3, along with its much-desired &#39;blade&#39; cantrips](https://www.pcgamer.com/dandds-favourite-spellblade-subclass-has-been-modded-into-baldurs-gate-3-along-with-its-much-desired-blade-cantrips)
+ - [How twisted and how metal is each episode of Twisted Metal?](https://www.polygon.com/23842927/twisted-metal-episodes-how-twisted-how-metal-exactly-comrade-sweet-tooth)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
