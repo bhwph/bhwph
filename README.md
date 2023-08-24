@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Qualcomm&#39;s new gaming handheld chip has Steam Deck and AMD in its sights](https://www.pcgamer.com/qualcomms-new-gaming-handheld-chip-has-steam-deck-and-amd-in-its-sights)
- - [D&amp;D&#39;s favourite spellblade subclass has been modded into Baldur&#39;s Gate 3, along with its much-desired &#39;blade&#39; cantrips](https://www.pcgamer.com/dandds-favourite-spellblade-subclass-has-been-modded-into-baldurs-gate-3-along-with-its-much-desired-blade-cantrips)
- - [How twisted and how metal is each episode of Twisted Metal?](https://www.polygon.com/23842927/twisted-metal-episodes-how-twisted-how-metal-exactly-comrade-sweet-tooth)<!-- GAME:END -->
+ - [The Barbie movie is headed to IMAX theaters, now with new post-credits footage](https://www.polygon.com/23844524/barbie-movie-post-credits-scene-imax)
+ - [Logan Paul Promised To Repay Crypto Victims $1.3 Million, Tracker Shows It’s Not Happening](https://kotaku.com/logan-paul-crypto-scam-nft-game-dillon-danis-fight-1850770903?utm_source=regular)
+ - [The Gran Turismo movie’s most important true story: Its hero really does love Kenny G](https://www.polygon.com/23844183/gran-turismo-movie-jann-mardenborough-interview-kenny-g)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
