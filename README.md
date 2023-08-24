@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games announces Epic First Run program, which will give developers 100% of net revenue for six months if they launch exclusively on the Epic Games Store &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230824/p4#a230824p4)
- - [Details leak about Apple’s USB-C cable for the iPhone 15 series](https://www.androidauthority.com/apple-iphone-15-usb-c-cable-specs-3357623/)
- - [Sources say TikTok plans to bar links to Amazon and other e-commerce sites in a bid to force people to use TikTok Shop to buy items they see on the app &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230824/p3#a230824p3)<!-- TECH:END -->
+ - [Study: in May 2023, ~150K nonconsensual porn deepfakes, with 3.8B total views, appeared on 30 sites, up 9x since 2019, aided by services from big tech companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/230824/p14#a230824p14)
+ - [MSI shares an unlisted video confirming Intel&#39;s upcoming 14th Gen CPUs will see no major core count upgrades and will be 3% faster than 13th Gen CPUs on average &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/230824/p13#a230824p13)
+ - [Q&amp;A with Phil Spencer on growing Game Pass, Microsoft&#39;s mobile focus, streaming Starfield and other games on mobile, Xbox generations, console prices, and more &lpar;Tom Phillips/Eurogamer.net&rpar;](http://www.techmeme.com/230824/p12#a230824p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
