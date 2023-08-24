@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blasphemous 2 Is 2023&#39;s Most Sickening Metroidvania, And I Love It](https://kotaku.com/blasphemous-2-review-metroidvania-soulslike-platformer-1850767035)
- - [Dragon Age And Mass Effect Studio Lays Off 50 Devs, Claims Games Are Unaffected](https://kotaku.com/dragon-age-dreadwolf-mass-effect-4-bioware-layoffs-1850766754)
- - [Lara Croft Is Coming To Call Of Duty](https://kotaku.com/call-of-duty-tomb-raider-lara-croft-modern-warfare-warz-1850767072)<!-- GAME:END -->
+ - [Alan Wake 2 feels like Remedy&#39;s attempt to combine the best games it&#39;s ever made](https://www.pcgamer.com/alan-wake-2--hands-on-gamescom)
+ - [The Lord of the Rings game we&#39;re actually excited to play is coming in October](https://www.pcgamer.com/the-lord-of-the-rings-game-were-actually-excited-to-play-is-coming-in-october)
+ - [My favorite plane of all time is now in Microsoft Flight Simulator and oh I think I&#39;ve got something in my eye](https://www.pcgamer.com/my-favorite-plane-of-all-time-is-now-in-microsoft-flight-simulator-and-oh-i-think-ive-got-something-in-my-eye)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
