@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [AfD isn&#39;t a good choice, but it might be the only choice.](http://9gag.com/gag/anzWR8E)
- - 😝 [If your not first your last](http://9gag.com/gag/a3ZpZAv)
- - 👉 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)<!-- MEMES:END -->
+ - 6️⃣ [Realistic](http://9gag.com/gag/ay2V9XV)
+ - 😝 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
+ - 👉 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
 
 --- 
 
