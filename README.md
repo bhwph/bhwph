@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Atari announces the $130 Atari 2600+, with HDMI and a slot for Atari 2600 and 7800 cartridges, the $25 CX40+ joystick, and a $40 CX30+ paddle controller bundle &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/230823/p32#a230823p32)
- - [Razer Kishi V2 Pro Mobile Game Controller Vibrates HyperSensically     - CNET](https://www.cnet.com/tech/gaming/razer-kishi-v2-pro-mobile-game-controller-vibrates-hypersensically/#ftag=CAD590a51e)
- - [How to watch La Liga in the USA](https://www.androidauthority.com/how-to-watch-la-liga-in-usa-3357563/)<!-- TECH:END -->
+ - [Epic Games announces Epic First Run program, which will give developers 100% of net revenue for six months if they launch exclusively on the Epic Games Store &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230824/p4#a230824p4)
+ - [Details leak about Apple’s USB-C cable for the iPhone 15 series](https://www.androidauthority.com/apple-iphone-15-usb-c-cable-specs-3357623/)
+ - [Sources say TikTok plans to bar links to Amazon and other e-commerce sites in a bid to force people to use TikTok Shop to buy items they see on the app &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230824/p3#a230824p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
