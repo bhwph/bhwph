@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #797: Friday, August 25](https://www.pcgamer.com/wordle-answer-today-hint-797-august-25)
- - [Gigabyte&#39;s new Z790 X motherboards are all about speed](https://www.pcgamer.com/gigabytes-new-z790-x-motherboards-are-all-about-speed)
- - [Armored Core 6 Smart Cleaner boss: How to beat the lava-spewing Chapter 2 monster](https://www.pcgamer.com/armored-core-6-cleaner-boss-how-to-beat-best-build)<!-- GAME:END -->
+ - [Cherry&#39;s new MX2A mechanical keyboard switch is good for 100 million mashings](https://www.pcgamer.com/cheerys-new-mx2a-mechanical-keyboard-switch-is-good-for-100-million-mashings)
+ - [Fortnite Chapter 4 Season 4: Last Resort arrives today, details revealed](https://blog.playstation.com/2023/08/25/fortnite-chapter-4-season-4-last-resort-arrives-today-details-revealed/)
+ - [Fortnite Chapter 4 Season 4: Last Resort arrives today, details revealed](https://blog.playstation.com/2023/08/25/fortnite-chapter-4-season-4-last-resort-arrives-today-details-revealed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
