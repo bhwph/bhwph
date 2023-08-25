@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Welp, it&#39;s materialistic life .](http://9gag.com/gag/amAbGVo)
- - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
- - 👉 [Must be high on meth](http://9gag.com/gag/adP4O2j)<!-- MEMES:END -->
+ - 6️⃣ [A promising one](http://9gag.com/gag/aDYN8ew)
+ - 😝 [This teacher handling the situation](http://9gag.com/gag/anzWxX5)
+ - 👉 [Putin not only killed Prigozhin, but also demolishes now all the graves of the Wagnerites so that they don\u2019t even exist in history](http://9gag.com/gag/a7q69Mm)<!-- MEMES:END -->
 
 --- 
 
