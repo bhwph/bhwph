@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
- - 😝 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
- - 👉 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
+ - 6️⃣ [Welp, it&#39;s materialistic life .](http://9gag.com/gag/amAbGVo)
+ - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
+ - 👉 [Must be high on meth](http://9gag.com/gag/adP4O2j)<!-- MEMES:END -->
 
 --- 
 
