@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cherry&#39;s new MX2A mechanical keyboard switch is good for 100 million mashings](https://www.pcgamer.com/cheerys-new-mx2a-mechanical-keyboard-switch-is-good-for-100-million-mashings)
- - [Fortnite Chapter 4 Season 4: Last Resort arrives today, details revealed](https://blog.playstation.com/2023/08/25/fortnite-chapter-4-season-4-last-resort-arrives-today-details-revealed/)
- - [Fortnite Chapter 4 Season 4: Last Resort arrives today, details revealed](https://blog.playstation.com/2023/08/25/fortnite-chapter-4-season-4-last-resort-arrives-today-details-revealed/)<!-- GAME:END -->
+ - [The Barbz Are Taking Over Call Of Duty: Warzone](https://kotaku.com/nicki-minaj-barbie-call-of-duty-skin-price-how-much-1850775467?utm_source=regular)
+ - [So Just Who Is That Masked Inquisitor In Star Wars: Ahsoka?](https://kotaku.com/star-wars-ahsoka-who-inquisitor-masked-ezra-marrok-mara-1850775454?utm_source=regular)
+ - [Like a Hurricane, the unofficial oral history of Street Fighter 2, is now on our merch shop](https://www.polygon.com/deals/23845757/like-a-hurricane-street-fighter-2-polygon-merch-shop-vinyl)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
