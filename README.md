@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile keeps doing the thing it said it wouldn’t do](https://www.androidauthority.com/t-mobile-layoffs-2023-3357846/)
- - [Astropad&#39;s new Rock Paper Pencil iPad screen protector mimics the pen-on-paper experience](https://appleinsider.com/articles/23/08/24/astropads-new-rock-paper-pencil-ipad-screen-protector-mimics-the-pen-on-paper-experience?utm_medium=rss)
- - [Dropbox ends its unlimited option, capping its highest tier &quot;all the space you need&quot; storage plan to 5TB, after some abused it to resell the storage and more &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230824/p25#a230824p25)<!-- TECH:END -->
+ - [Reddit launches the &quot;Mod Helper Program&quot;, a tiered system that rewards moderators with trophies and flairs for helping other moderators in r/ModSupport &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/230824/p33#a230824p33)
+ - [Donald Trump returns to X / Twitter to post his mug shot](https://www.theverge.com/2023/8/24/23468581/donald-trump-twitter-x-return-mug-shot)
+ - [Toronto-based Ideogram raised a $16.5M seed led by a16z and Index Ventures and launches a public beta of its generative AI-based text-to-image product &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230824/p32#a230824p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
