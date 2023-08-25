@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 USB-C, Apple Vision Pro labs, Tesla app Shortcuts and more on the AppleInsider Podcast](https://appleinsider.com/articles/23/08/25/iphone-15-usb-c-apple-vision-pro-labs-tesla-app-shortcuts-and-more-on-the-appleinsider-podcast?utm_medium=rss)
- - [NYT, CNN, and some other news outlets block OpenAI&#39;s GPTBot web crawler from accessing their content; some have also blocked Common Crawl Foundation&#39;s CCBot &lpar;Ariel Bogle/The Guardian&rpar;](http://www.techmeme.com/230825/p7#a230825p7)
- - [Fortnite’s island gets a luxury makeover thanks to a vampire](https://www.theverge.com/2023/8/25/23844876/fortnite-chapter-4-season-4-last-resort-island-map-battle-pass)<!-- TECH:END -->
+ - [Instacart files for a US IPO, set for September; the company was valued at $39B in 2021 but has repeatedly reset its valuation, most recently to a reported $13B &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230825/p15#a230825p15)
+ - [WhatsApp finally rolling out support for HD video today to Android and iOS](https://www.androidauthority.com/whatsapp-hd-video-3358221/)
+ - [How Meta and YouTube, battered by content moderation battles, are following X in receding from fighting political misinformation, raising US 2024 election fears &lpar;Washington Post&rpar;](http://www.techmeme.com/230825/p14#a230825p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
