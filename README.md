@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I heard some men there too](http://9gag.com/gag/aDYN8jx)
- - 😝 [Old buddy bandit, he thought he&#39;s being replaced by a calf](http://9gag.com/gag/ajVMOGx)
- - 👉 [Male Privilege](http://9gag.com/gag/a9qNv4W)<!-- MEMES:END -->
+ - 6️⃣ [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
+ - 😝 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
+ - 👉 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
 
 --- 
 
