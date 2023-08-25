@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new limited edition Galaxy Watch 6 Classic marries space and time](https://www.androidauthority.com/samsung-galaxy-watch-6-classic-astro-edition-3357972/)
- - [Customs data shows China&#39;s chip production tool imports in June and July 2023 totaled nearly $5B, up 70% YoY from $2.9B, mostly from Netherlands and Japan &lpar;Financial Times&rpar;](http://www.techmeme.com/230825/p2#a230825p2)
- - [How YouTube plans to integrate creators into its NFL Sunday Ticket programming, as the company looks to be a &quot;one-stop shop for multiple types of video content&quot; &lpar;Ainsley Harris/Fast Company&rpar;](http://www.techmeme.com/230825/p1#a230825p1)<!-- TECH:END -->
+ - [iPhone 15 USB-C, Apple Vision Pro labs, Tesla app Shortcuts and more on the AppleInsider Podcast](https://appleinsider.com/articles/23/08/25/iphone-15-usb-c-apple-vision-pro-labs-tesla-app-shortcuts-and-more-on-the-appleinsider-podcast?utm_medium=rss)
+ - [NYT, CNN, and some other news outlets block OpenAI&#39;s GPTBot web crawler from accessing their content; some have also blocked Common Crawl Foundation&#39;s CCBot &lpar;Ariel Bogle/The Guardian&rpar;](http://www.techmeme.com/230825/p7#a230825p7)
+ - [Fortnite’s island gets a luxury makeover thanks to a vampire](https://www.theverge.com/2023/8/25/23844876/fortnite-chapter-4-season-4-last-resort-island-map-battle-pass)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
