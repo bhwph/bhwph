@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Realistic](http://9gag.com/gag/ay2V9XV)
- - 😝 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
- - 👉 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
+ - 6️⃣ [I heard some men there too](http://9gag.com/gag/aDYN8jx)
+ - 😝 [Old buddy bandit, he thought he&#39;s being replaced by a calf](http://9gag.com/gag/ajVMOGx)
+ - 👉 [Male Privilege](http://9gag.com/gag/a9qNv4W)<!-- MEMES:END -->
 
 --- 
 
