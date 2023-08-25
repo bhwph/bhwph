@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit launches the &quot;Mod Helper Program&quot;, a tiered system that rewards moderators with trophies and flairs for helping other moderators in r/ModSupport &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/230824/p33#a230824p33)
- - [Donald Trump returns to X / Twitter to post his mug shot](https://www.theverge.com/2023/8/24/23468581/donald-trump-twitter-x-return-mug-shot)
- - [Toronto-based Ideogram raised a $16.5M seed led by a16z and Index Ventures and launches a public beta of its generative AI-based text-to-image product &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230824/p32#a230824p32)<!-- TECH:END -->
+ - [Samsung’s new limited edition Galaxy Watch 6 Classic marries space and time](https://www.androidauthority.com/samsung-galaxy-watch-6-classic-astro-edition-3357972/)
+ - [Customs data shows China&#39;s chip production tool imports in June and July 2023 totaled nearly $5B, up 70% YoY from $2.9B, mostly from Netherlands and Japan &lpar;Financial Times&rpar;](http://www.techmeme.com/230825/p2#a230825p2)
+ - [How YouTube plans to integrate creators into its NFL Sunday Ticket programming, as the company looks to be a &quot;one-stop shop for multiple types of video content&quot; &lpar;Ainsley Harris/Fast Company&rpar;](http://www.techmeme.com/230825/p1#a230825p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
