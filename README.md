@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Barbie movie is headed to IMAX theaters, now with new post-credits footage](https://www.polygon.com/23844524/barbie-movie-post-credits-scene-imax)
- - [Logan Paul Promised To Repay Crypto Victims $1.3 Million, Tracker Shows It’s Not Happening](https://kotaku.com/logan-paul-crypto-scam-nft-game-dillon-danis-fight-1850770903?utm_source=regular)
- - [The Gran Turismo movie’s most important true story: Its hero really does love Kenny G](https://www.polygon.com/23844183/gran-turismo-movie-jann-mardenborough-interview-kenny-g)<!-- GAME:END -->
+ - [Gigabyte&#39;s new Z790 X motherboards are all about speed](https://www.pcgamer.com/gigabytes-new-z790-x-motherboards-are-all-about-speed)
+ - [Armored Core 6 Smart Cleaner boss: How to beat the lava-spewing Chapter 2 monster](https://www.pcgamer.com/armored-core-6-cleaner-boss-how-to-beat-best-build)
+ - [All Combat Log enemy locations in Armored Core 6: Fires of Rubicon](https://www.polygon.com/guides/23844949/armored-core-6-combat-logs-enemies-loghunts-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
