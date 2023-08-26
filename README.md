@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
- - 😝 [Title](http://9gag.com/gag/aoKqRMn)
- - 👉 [Gender reveal](http://9gag.com/gag/aQEN74e)<!-- MEMES:END -->
+ - 6️⃣ [I would...](http://9gag.com/gag/abvmWBX)
+ - 😝 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)
+ - 👉 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)<!-- MEMES:END -->
 
 --- 
 
