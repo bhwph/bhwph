@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A promising one](http://9gag.com/gag/aDYN8ew)
- - 😝 [This teacher handling the situation](http://9gag.com/gag/anzWxX5)
- - 👉 [Putin not only killed Prigozhin, but also demolishes now all the graves of the Wagnerites so that they don\u2019t even exist in history](http://9gag.com/gag/a7q69Mm)<!-- MEMES:END -->
+ - 6️⃣ [She was so beautiful!!](http://9gag.com/gag/awZGLdy)
+ - 😝 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
+ - 👉 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)<!-- MEMES:END -->
 
 --- 
 
