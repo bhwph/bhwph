@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This scene hit harder after gotg3](http://9gag.com/gag/aWGNbv4)
- - 😝 [Can believe what this creature turned into](http://9gag.com/gag/aA0NX1g)
- - 👉 [I will be a Billionaire now](http://9gag.com/gag/az2DOwK)<!-- MEMES:END -->
+ - 6️⃣ [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
+ - 😝 [Title](http://9gag.com/gag/aoKqRMn)
+ - 👉 [Gender reveal](http://9gag.com/gag/aQEN74e)<!-- MEMES:END -->
 
 --- 
 
