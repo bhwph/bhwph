@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hey Google and Samsung, why can’t I rent a Fold to test it out?](https://www.androidauthority.com/google-samsung-rent-pixel-fold-galazy-z-fold-5-3357511/)
- - [Welcome to the Republic of Cows](https://www.wired.com/story/welcome-to-the-republic-of-cows/)
- - [What’s the Matter with the smart home?](https://www.theverge.com/2023/8/26/23844529/smart-home-matter-ifa-2023-tech-show)<!-- TECH:END -->
+ - [WatchOS 10 killed my favorite Apple Watch features](https://www.androidauthority.com/watchos-10-apple-watch-3356776/)
+ - [Linus Sebastian addresses error handling and ethics in a new video](https://www.theverge.com/2023/8/26/23846889/linus-tech-tips-gamersnexus-harassment-controversy-response)
+ - [WordPress.com debuts a 100-year domain name registration for $38K, offering managed hosting and 24/7 customer service; domains are typically capped at 10 years &lpar;Roger Montti/Search Engine Journal&rpar;](http://www.techmeme.com/230826/p6#a230826p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
