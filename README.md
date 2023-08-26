@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Barbz Are Taking Over Call Of Duty: Warzone](https://kotaku.com/nicki-minaj-barbie-call-of-duty-skin-price-how-much-1850775467?utm_source=regular)
- - [So Just Who Is That Masked Inquisitor In Star Wars: Ahsoka?](https://kotaku.com/star-wars-ahsoka-who-inquisitor-masked-ezra-marrok-mara-1850775454?utm_source=regular)
- - [Like a Hurricane, the unofficial oral history of Street Fighter 2, is now on our merch shop](https://www.polygon.com/deals/23845757/like-a-hurricane-street-fighter-2-polygon-merch-shop-vinyl)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #798: Saturday, August 26](https://www.pcgamer.com/wordle-answer-today-hint-798-august-26)
+ - [Pokémon Go Fest 2023: Global Special Research Task guide](https://www.polygon.com/pokemon-go-guide/23844525/go-fest-2023-global-special-research-task-fascinating-facets)
+ - [Pokémon Go Fest 2023: Global event guide and habitat schedule](https://www.polygon.com/pokemon-go-guide/2023/8/25/23844439/fest-2023-global-event-habitat-schedule-ticket-perks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
