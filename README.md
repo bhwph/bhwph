@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart files for a US IPO, set for September; the company was valued at $39B in 2021 but has repeatedly reset its valuation, most recently to a reported $13B &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230825/p15#a230825p15)
- - [WhatsApp finally rolling out support for HD video today to Android and iOS](https://www.androidauthority.com/whatsapp-hd-video-3358221/)
- - [How Meta and YouTube, battered by content moderation battles, are following X in receding from fighting political misinformation, raising US 2024 election fears &lpar;Washington Post&rpar;](http://www.techmeme.com/230825/p14#a230825p14)<!-- TECH:END -->
+ - [Huawei and Ericsson renew a multiyear global patent cross-licensing deal for 5G and other technologies; Huawei owns 20% of global 5G patents &lpar;Eri Sugiura/Financial Times&rpar;](http://www.techmeme.com/230825/p22#a230825p22)
+ - [Cisco Talos: North Korea&#39;s Lazarus is using a new malware variant to target internet backbone infrastructure and healthcare entities in Europe and the US &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230825/p21#a230825p21)
+ - [Best Surge Protector of 2023     - CNET](https://www.cnet.com/news/best-surge-protector/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
