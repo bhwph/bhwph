@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She was so beautiful!!](http://9gag.com/gag/awZGLdy)
- - 😝 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
- - 👉 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)<!-- MEMES:END -->
+ - 6️⃣ [This scene hit harder after gotg3](http://9gag.com/gag/aWGNbv4)
+ - 😝 [Can believe what this creature turned into](http://9gag.com/gag/aA0NX1g)
+ - 👉 [I will be a Billionaire now](http://9gag.com/gag/az2DOwK)<!-- MEMES:END -->
 
 --- 
 
