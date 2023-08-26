@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nansen: ~90% of PYUSD is held in issuer Paxos Trust&#39;s wallets, indicating a &quot;lack of demand from crypto users&quot; for PayPal&#39;s stablecoin that launched on August 7 &lpar;Ana Paula Pereira/Cointelegraph&rpar;](http://www.techmeme.com/230826/p2#a230826p2)
- - [X launches its job posting feature X Hiring in beta for verified organizations, allowing them to &quot;organically reach millions of relevant candidates&quot; &lpar;Joe Wituschek/BGR&rpar;](http://www.techmeme.com/230826/p1#a230826p1)
- - [Sources: Oracle employees reviewing TikTok&#39;s source code sit at desks beneath cameras controlled by TikTok, a requirement that came from the Chinese government &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/230825/p24#a230825p24)<!-- TECH:END -->
+ - [Hey Google and Samsung, why can’t I rent a Fold to test it out?](https://www.androidauthority.com/google-samsung-rent-pixel-fold-galazy-z-fold-5-3357511/)
+ - [Welcome to the Republic of Cows](https://www.wired.com/story/welcome-to-the-republic-of-cows/)
+ - [What’s the Matter with the smart home?](https://www.theverge.com/2023/8/26/23844529/smart-home-matter-ifa-2023-tech-show)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
