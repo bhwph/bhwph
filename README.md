@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei and Ericsson renew a multiyear global patent cross-licensing deal for 5G and other technologies; Huawei owns 20% of global 5G patents &lpar;Eri Sugiura/Financial Times&rpar;](http://www.techmeme.com/230825/p22#a230825p22)
- - [Cisco Talos: North Korea&#39;s Lazarus is using a new malware variant to target internet backbone infrastructure and healthcare entities in Europe and the US &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230825/p21#a230825p21)
- - [Best Surge Protector of 2023     - CNET](https://www.cnet.com/news/best-surge-protector/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nansen: ~90% of PYUSD is held in issuer Paxos Trust&#39;s wallets, indicating a &quot;lack of demand from crypto users&quot; for PayPal&#39;s stablecoin that launched on August 7 &lpar;Ana Paula Pereira/Cointelegraph&rpar;](http://www.techmeme.com/230826/p2#a230826p2)
+ - [X launches its job posting feature X Hiring in beta for verified organizations, allowing them to &quot;organically reach millions of relevant candidates&quot; &lpar;Joe Wituschek/BGR&rpar;](http://www.techmeme.com/230826/p1#a230826p1)
+ - [Sources: Oracle employees reviewing TikTok&#39;s source code sit at desks beneath cameras controlled by TikTok, a requirement that came from the Chinese government &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/230825/p24#a230825p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
