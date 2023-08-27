@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Smart Answers, an AI chatbot trained only on Macworld, PCWorld, Tech Advisor, and TechHive content, and offered to the outlets&#39; readers on August 1 &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230827/p3#a230827p3)
- - [Does the larger display on the Galaxy Watch 6 improve the experience?](https://www.androidauthority.com/does-the-larger-display-on-the-galaxy-watch-6-improve-the-experience-3357928/)
- - [Using Solar-Powered AI Sensors to Detect Wildfires Earlier     - CNET](https://www.cnet.com/science/climate/using-solar-powered-ai-sensors-to-detect-wildfires-earlier/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the ethical and legal issues around generative AI, as it makes practical at a massive scale things that were previously only possible on a small scale &lpar;Benedict Evans&rpar;](http://www.techmeme.com/230827/p5#a230827p5)
+ - [Fitbit&#39;s Most Advanced Smartwatch Is Over $70 Off Right Now at Amazon     - CNET](https://www.cnet.com/deals/optimize-your-workouts-this-summer-with-a-discounted-fitbit-sense-2-for-229/#ftag=CAD590a51e)
+ - [Save $15 on an Echo Pop Smart Speaker and Get a Free Smart Bulb Too     - CNET](https://www.cnet.com/deals/save-15-on-an-echo-pop-smart-speaker-and-get-a-free-smart-bulb-too/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
