@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stephen King reflects on his books being used for AI training, arguing the sum is lesser than its parts, so far, as creativity can&#39;t happen without sentience &lpar;Stephen King/The Atlantic&rpar;](http://www.techmeme.com/230827/p2#a230827p2)
- - [A Pepe memecoin team member says three ex-colleagues stole about 16T Pepe tokens worth $15M from the project&#39;s multisig before selling them on crypto exchanges &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/230827/p1#a230827p1)
- - [Linus Tech Tips founder Linus Sebastian addresses errors and ethics but not sexual harassment claims, responding to accusations that prompted a production pause &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230826/p9#a230826p9)<!-- TECH:END -->
+ - [A look at Smart Answers, an AI chatbot trained only on Macworld, PCWorld, Tech Advisor, and TechHive content, and offered to the outlets&#39; readers on August 1 &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230827/p3#a230827p3)
+ - [Does the larger display on the Galaxy Watch 6 improve the experience?](https://www.androidauthority.com/does-the-larger-display-on-the-galaxy-watch-6-improve-the-experience-3357928/)
+ - [Using Solar-Powered AI Sensors to Detect Wildfires Earlier     - CNET](https://www.cnet.com/science/climate/using-solar-powered-ai-sensors-to-detect-wildfires-earlier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
