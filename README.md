@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WatchOS 10 killed my favorite Apple Watch features](https://www.androidauthority.com/watchos-10-apple-watch-3356776/)
- - [Linus Sebastian addresses error handling and ethics in a new video](https://www.theverge.com/2023/8/26/23846889/linus-tech-tips-gamersnexus-harassment-controversy-response)
- - [WordPress.com debuts a 100-year domain name registration for $38K, offering managed hosting and 24/7 customer service; domains are typically capped at 10 years &lpar;Roger Montti/Search Engine Journal&rpar;](http://www.techmeme.com/230826/p6#a230826p6)<!-- TECH:END -->
+ - [Linus Tech Tips founder Linus Sebastian addresses errors and ethics but not sexual harassment claims, responding to accusations that prompted a production pause &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230826/p9#a230826p9)
+ - [Hackers breached WebDetetive, an Android spyware app used mainly in Brazil, and deleted data on its victims; Poland-based LetMeSpy was similarly hacked in June &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230826/p8#a230826p8)
+ - [Meross Outdoor Dimmer Plug review: Further control your outdoor lights at a budget-friendly price](https://appleinsider.com/articles/23/08/26/meross-outdoor-dimmer-plug-review-further-control-your-outdoor-lights-at-a-budget-friendly-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
