@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #799: Sunday, August 27](https://www.pcgamer.com/wordle-answer-today-hint-799-august-27)
  - [That stylish-looking Hellboy roguelike will release on October 4th](https://www.pcgamer.com/that-stylish-looking-hellboy-roguelike-will-release-on-october-4th)
- - [Pokémon Go Fest 2023: Global Special Research Task guide](https://www.polygon.com/pokemon-go-guide/23844525/go-fest-2023-global-special-research-task-fascinating-facets)
- - [Baldur&#39;s Gate 3 used motion capture from 248 actors to bring its NPCs to life: &#39;You’re not only hearing the actors&#39; voices, but you’re also seeing their physical performances&#39;](https://www.pcgamer.com/baldurs-gate-3-used-motion-capture-from-248-actors-to-bring-its-npcs-to-life-youre-not-only-hearing-the-actors-voices-but-youre-also-seeing-their-physical-performances)<!-- GAME:END -->
+ - [Pokémon Go Fest 2023: Global Special Research Task guide](https://www.polygon.com/pokemon-go-guide/23844525/go-fest-2023-global-special-research-task-fascinating-facets)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
