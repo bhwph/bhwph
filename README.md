@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
- - 😝 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
- - 👉 [Funny coz](http://9gag.com/gag/aZDVQB9)<!-- MEMES:END -->
+ - 6️⃣ [What do you expect them to do](http://9gag.com/gag/a8qXK01)
+ - 😝 [Hahaha](http://9gag.com/gag/a6q3B12)
+ - 👉 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)<!-- MEMES:END -->
 
 --- 
 
