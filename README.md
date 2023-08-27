@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I would...](http://9gag.com/gag/abvmWBX)
- - 😝 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)
- - 👉 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)<!-- MEMES:END -->
+ - 6️⃣ [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
+ - 😝 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
+ - 👉 [Funny coz](http://9gag.com/gag/aZDVQB9)<!-- MEMES:END -->
 
 --- 
 
