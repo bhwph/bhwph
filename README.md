@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I turned my &lpar;dark&rpar; fantasy of a Zelda movie into reality](https://www.polygon.com/what-to-watch/23844563/dark-fantasy-movies-zelda-fan-trailer)
- - [$4 movie tickets for this Sunday? Sick!](https://www.polygon.com/deals/2023/8/26/23844706/best-movie-deals-tickets-fandango-humble-gaming-monitor)
- - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of August 2023](https://www.polygon.com/what-to-watch/2023/8/26/23840420/best-movies-netflix-amazon-hulu-max-leaving-august-2023)<!-- GAME:END -->
+ - [That stylish-looking Hellboy roguelike will release on October 4th](https://www.pcgamer.com/that-stylish-looking-hellboy-roguelike-will-release-on-october-4th)
+ - [Pokémon Go Fest 2023: Global Special Research Task guide](https://www.polygon.com/pokemon-go-guide/23844525/go-fest-2023-global-special-research-task-fascinating-facets)
+ - [Baldur&#39;s Gate 3 used motion capture from 248 actors to bring its NPCs to life: &#39;You’re not only hearing the actors&#39; voices, but you’re also seeing their physical performances&#39;](https://www.pcgamer.com/baldurs-gate-3-used-motion-capture-from-248-actors-to-bring-its-npcs-to-life-youre-not-only-hearing-the-actors-voices-but-youre-also-seeing-their-physical-performances)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
