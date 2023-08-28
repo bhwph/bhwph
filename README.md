@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Didi says it has agreed to sell its smart car development arm to Xpeng, one of China&#39;s largest EV makers, for ~$744M &lpar;Bloomberg&rpar;](http://www.techmeme.com/230827/p7#a230827p7)
- - [How LLMs are impacting computational humor, an AI subfield that uses computers to create jokes, as some comedians begin using AI chatbots for improv and roasts &lpar;Gillian Tett/Financial Times&rpar;](http://www.techmeme.com/230827/p6#a230827p6)
- - [NASA’s Crew-7 mission launched four astronauts to the ISS](https://www.theverge.com/2023/8/26/23847081/spacex-falcon-9-launch-iss-crew-7-dragon-endurance-astronauts)<!-- TECH:END -->
+ - [Apple could really spruce up the next iPad Pro: M3 chip, OLED, and more expected](https://www.androidauthority.com/apple-ipad-pro-m3-chip-3358502/)
+ - [Google Messages could bring satellite texting to 150+ countries at launch](https://www.androidauthority.com/google-messages-satellite-messaging-garmin-3358491/)
+ - [Filing: Didi plans to sell its smart car development arm to Xpeng, one of China&#39;s largest EV makers, for ~$744M in Xpeng stock, or a ~3.25% stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/230827/p7#a230827p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
