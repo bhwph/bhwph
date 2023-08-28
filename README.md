@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The time of Warhaven is almost upon us](https://www.pcgamer.com/the-time-of-warhaven-is-almost-upon-us)
- - [David Gaider says Baldur’s Gate 3 is a &#39;monumental achievement&#39;](https://www.pcgamer.com/david-gaider-says-baldurs-gate-3-is-a-monumental-achievement)
- - [Intel 14th Gen CPUs are set to receive a price hike](https://www.pcgamer.com/intel-14th-gen-cpus-are-set-to-receive-a-price-hike)<!-- GAME:END -->
+ - [Armored Core Is So Back And It&#39;s Awesome](https://kotaku.com/armored-core-6-balteus-elden-ring-ps5-steam-reviews-1850781108?utm_source=regular)
+ - [A Netflix fantasy, Amazon fantasy, wacky Max fantasy, and more new TV this week](https://www.polygon.com/2023/8/28/23832081/new-tv-wheel-time-season-2-netflix-one-piece-adventure-time-spinoff)
+ - [Struggling with Armored Core 6? Do the coolest thing possible](https://www.polygon.com/23849203/armored-core-6-best-boss-fight-strategy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
