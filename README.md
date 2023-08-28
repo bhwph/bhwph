@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk appearance at Valorant Champions tournament met with boos, crowd chanting &#39;Bring back Twitter&#39;](https://www.pcgamer.com/elon-musk-appearance-at-valorant-champions-tournament-met-with-boos-crowd-chanting-bring-back-twitter)
- - [Blasphemous 2 lands with yet more disturbingly Catholic horrors to kill](https://www.pcgamer.com/blasphemous-2-lands-with-yet-more-disturbingly-catholic-horrors-to-kill)
- - [Here&#39;s a really weird puzzle platformer where you&#39;re a hand](https://www.pcgamer.com/heres-a-really-weird-puzzle-platformer-where-youre-a-hand)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;August 28, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-28-2023)
+ - [Diablo 4&#39;s toning down monsters&#39; power to slow, stun, chill and otherwise cramp your style](https://www.pcgamer.com/diablo-4s-toning-down-monsters-power-to-slow-stun-chill-and-otherwise-cramp-your-style)
+ - [The mod that saves one of the best RPGs ever made quietly added a mini-campaign where you play as the &#39;good guys&#39;](https://www.pcgamer.com/the-mod-that-saves-one-of-the-best-rpgs-ever-made-quietly-added-a-mini-campaign-where-you-play-as-the-good-guys)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
