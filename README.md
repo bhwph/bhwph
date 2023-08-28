@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK flights delayed after air traffic control suffers ‘technical issue’](https://www.theverge.com/2023/8/28/23848721/uk-air-traffic-control-issues-flight-delays)
- - [Undercharged: iPhone 14 owners complain about lower battery endurance](https://appleinsider.com/articles/23/08/28/undercharged-iphone-14-owners-complain-about-lower-battery-endurance?utm_medium=rss)
- - [Dolby might have found a way to make built-in TV speakers sound much better](https://www.theverge.com/2023/8/28/23848678/dolby-atmos-flexconnect-tv-speakers-tcl)<!-- TECH:END -->
+ - [Samsung&#39;s Apple Studio Display competitor is now available in the US](https://appleinsider.com/articles/23/08/28/samsungs-viewfinity-s9-is-now-available-in-the-us?utm_medium=rss)
+ - [New &#39;Ted Lasso&#39; shortbread cookies let fans experience biscuits with the boss](https://appleinsider.com/articles/23/08/28/new-ted-lasso-shortbread-cookies-let-fans-experience-biscuits-with-the-boss?utm_medium=rss)
+ - [Elon Musk’s FSD v12 demo includes a near miss at a red light and doxxing Mark Zuckerberg](https://www.theverge.com/2023/8/28/23848882/elon-musk-tesla-fsd-v12-demo-red-light-zuckerberg-house)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
