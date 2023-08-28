@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could really spruce up the next iPad Pro: M3 chip, OLED, and more expected](https://www.androidauthority.com/apple-ipad-pro-m3-chip-3358502/)
- - [Google Messages could bring satellite texting to 150+ countries at launch](https://www.androidauthority.com/google-messages-satellite-messaging-garmin-3358491/)
- - [Filing: Didi plans to sell its smart car development arm to Xpeng, one of China&#39;s largest EV makers, for ~$744M in Xpeng stock, or a ~3.25% stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/230827/p7#a230827p7)<!-- TECH:END -->
+ - [UK flights delayed after air traffic control suffers ‘technical issue’](https://www.theverge.com/2023/8/28/23848721/uk-air-traffic-control-issues-flight-delays)
+ - [Undercharged: iPhone 14 owners complain about lower battery endurance](https://appleinsider.com/articles/23/08/28/undercharged-iphone-14-owners-complain-about-lower-battery-endurance?utm_medium=rss)
+ - [Dolby might have found a way to make built-in TV speakers sound much better](https://www.theverge.com/2023/8/28/23848678/dolby-atmos-flexconnect-tv-speakers-tcl)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
