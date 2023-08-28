@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meanwhile in fc24](http://9gag.com/gag/aREND4B)
- - 😝 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
- - 👉 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)<!-- MEMES:END -->
+ - 6️⃣ [Nobody cares, but I&#39;m f**king proud.](http://9gag.com/gag/a8qXnxY)
+ - 😝 [Weren&#39;t expecting that, were you?](http://9gag.com/gag/adP4rPj)
+ - 👉 [Silence](http://9gag.com/gag/aWGNPP2)<!-- MEMES:END -->
 
 --- 
 
