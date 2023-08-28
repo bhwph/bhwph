@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
- - 😝 [Meanwhile in fc24](http://9gag.com/gag/aREND4B)
- - 👉 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)<!-- MEMES:END -->
+ - 6️⃣ [Goofing around](http://9gag.com/gag/aA0NO3g)
+ - 😝 [Escalated so Quickly](http://9gag.com/gag/awZGvER)
+ - 👉 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)<!-- MEMES:END -->
 
 --- 
 
