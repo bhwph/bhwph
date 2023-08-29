@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Cloud announces its 5th generation Tensor Processing Units, promising 2x training performance improvement per dollar compared to 2021&#39;s 4th gen TPUs &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230829/p17#a230829p17)
- - [Google unveils SynthID, which embeds an invisible digital &quot;watermark&quot; directly into AI-generated images, available now to Cloud customers for Imagen-made images &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/230829/p16#a230829p16)
- - [Google plans to update Chat with a new design, Duet AI collaboration tools, &quot;huddles&quot; for audio and video calls, capacity for 500K in group channels, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230829/p15#a230829p15)<!-- TECH:END -->
+ - [Meta’s avatar legs roll out to beta testers, but only in Quest Home](https://www.theverge.com/2023/8/29/23850750/meta-avatar-legs-beta-testers-quest-home)
+ - [Meta rejects the Oversight Board&#39;s recommendation to suspend former Cambodian PM Hun Sen&#39;s account, determining it wouldn&#39;t &quot;be consistent with our policies&quot; &lpar;Rebecca Klar/The Hill&rpar;](http://www.techmeme.com/230829/p29#a230829p29)
+ - [Google launches Duet AI in Mandiant Threat Intelligence, Duet AI for Chronicle Security Operations, and Duet AI in Security Command Center, all in preview &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230829/p28#a230829p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
