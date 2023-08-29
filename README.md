@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s great news and bad news for Galaxy S24 Ultra storage](https://www.androidauthority.com/samsung-galaxy-s24-ultra-2tb-3358871/)
- - [Google could leave Samsung behind with longer Android updates for Pixel 8 series](https://www.androidauthority.com/google-pixel-8-software-updates-3358870/)
- - [Omdia: Apple shipped 26.5M iPhone 14 Pro Max phones in H1 2023, the most out of any model from any manufacturer; Apple had all four of the top-shipping models &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230829/p2#a230829p2)<!-- TECH:END -->
+ - [Google Cloud announces its 5th generation Tensor Processing Units, promising 2x training performance improvement per dollar compared to 2021&#39;s 4th gen TPUs &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230829/p17#a230829p17)
+ - [Google unveils SynthID, which embeds an invisible digital &quot;watermark&quot; directly into AI-generated images, available now to Cloud customers for Imagen-made images &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/230829/p16#a230829p16)
+ - [Google plans to update Chat with a new design, Duet AI collaboration tools, &quot;huddles&quot; for audio and video calls, capacity for 500K in group channels, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230829/p15#a230829p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
