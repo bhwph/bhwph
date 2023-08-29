@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Savage](http://9gag.com/gag/a6q3e4A)
- - 😝 [Sandwich maker!](http://9gag.com/gag/aQENBqW)
- - 👉 [Interesting title](http://9gag.com/gag/a8qXNMQ)<!-- MEMES:END -->
+ - 6️⃣ [Pepper spraying the innocent soul . Hehehe](http://9gag.com/gag/aXnG3pb)
+ - 😝 [This is a climate protest that makes more sense. ---- Instead of blocking traffic of regular people trying to get to work, block the super-polluting private jets of rich folk.](http://9gag.com/gag/aL1N33M)
+ - 👉 [Truth or lie?](http://9gag.com/gag/aL1N3ng)<!-- MEMES:END -->
 
 --- 
 
