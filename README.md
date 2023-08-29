@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nobody cares, but I&#39;m f**king proud.](http://9gag.com/gag/a8qXnxY)
- - 😝 [Weren&#39;t expecting that, were you?](http://9gag.com/gag/adP4rPj)
- - 👉 [Silence](http://9gag.com/gag/aWGNPP2)<!-- MEMES:END -->
+ - 6️⃣ [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
+ - 😝 [The stare...](http://9gag.com/gag/aqepAZ7)
+ - 👉 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)<!-- MEMES:END -->
 
 --- 
 
