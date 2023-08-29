@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Armored Core 6&#39;s mech editor has already been used to make some cursed &lpar;and blessed&rpar; creations](https://www.pcgamer.com/armored-core-6s-mech-editor-has-already-been-used-to-make-some-cursedand-blessedcreations)
- - [Modern Warfare 2&#39;s Lara Croft crossover has me yearning for an original Tomb Raider remake](https://www.pcgamer.com/modern-warfare-2s-lara-croft-crossover-has-me-yearning-for-an-original-tomb-raider-remake)
- - [How to enter Burrow Holes in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-burrow-hole-rocky-crevice)<!-- GAME:END -->
+ - [How Digital Eclipse Set the Standard for Preserving Video Game Classics with Their First Gold Master Series Title – The Making of Karateka](https://news.xbox.com/en-us/2023/08/29/gold-master-series-the-making-of-karateka/)
+ - [Baldur&#39;s Gate 3 Is Even Better When You Speak With Animals](https://kotaku.com/baldurs-gate-3-speak-with-animals-scratch-rats-druid-1850784308?utm_source=regular)
+ - [GeForce Now is shutting down in Russia](https://www.pcgamer.com/geforce-now-is-shutting-down-in-russia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
