@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
- - 😝 [The stare...](http://9gag.com/gag/aqepAZ7)
- - 👉 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)<!-- MEMES:END -->
+ - 6️⃣ [Show me your IDs](http://9gag.com/gag/aNw2243)
+ - 😝 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
+ - 👉 [It is indeed in your hands.](http://9gag.com/gag/a2KjAWE)<!-- MEMES:END -->
 
 --- 
 
