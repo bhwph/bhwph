@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/08/28/this-weeks-deals-with-gold-and-spotlight-sale-286/)
- - [Today&#39;s Wordle hint and answer #801: Tuesday, August 29](https://www.pcgamer.com/wordle-answer-today-hint-801-august-29)
- - [All of my friends are playing Baldur&#39;s Gate 3 completely wrong, but I love that it lets them](https://www.pcgamer.com/all-of-my-friends-are-playing-baldurs-gate-3-completely-wrong-but-i-love-that-it-lets-them)<!-- GAME:END -->
+ - [Armored Core 6&#39;s mech editor has already been used to make some cursed &lpar;and blessed&rpar; creations](https://www.pcgamer.com/armored-core-6s-mech-editor-has-already-been-used-to-make-some-cursedand-blessedcreations)
+ - [Modern Warfare 2&#39;s Lara Croft crossover has me yearning for an original Tomb Raider remake](https://www.pcgamer.com/modern-warfare-2s-lara-croft-crossover-has-me-yearning-for-an-original-tomb-raider-remake)
+ - [How to enter Burrow Holes in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-burrow-hole-rocky-crevice)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
