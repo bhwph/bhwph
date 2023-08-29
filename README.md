@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Show me your IDs](http://9gag.com/gag/aNw2243)
- - 😝 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
- - 👉 [It is indeed in your hands.](http://9gag.com/gag/a2KjAWE)<!-- MEMES:END -->
+ - 6️⃣ [Savage](http://9gag.com/gag/a6q3e4A)
+ - 😝 [Sandwich maker!](http://9gag.com/gag/aQENBqW)
+ - 👉 [Interesting title](http://9gag.com/gag/a8qXNMQ)<!-- MEMES:END -->
 
 --- 
 
