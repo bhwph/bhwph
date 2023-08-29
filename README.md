@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max periscope camera to be major selling point, says Kuo](https://appleinsider.com/articles/23/08/29/iphone-15-pro-max-periscope-camera-to-be-major-selling-point-says-kuo?utm_medium=rss)
- - [watchOS 10: Release date, features, and what we hope to see](https://www.androidauthority.com/watchos-10-3358760/)
- - [Intel details its Xeon chips Sierra Forest and Granite Rapids set for 2024, claiming Sierra Forest has a 2.4x higher performance per watt than fourth-gen Xeons &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230828/p18#a230828p18)<!-- TECH:END -->
+ - [There’s great news and bad news for Galaxy S24 Ultra storage](https://www.androidauthority.com/samsung-galaxy-s24-ultra-2tb-3358871/)
+ - [Google could leave Samsung behind with longer Android updates for Pixel 8 series](https://www.androidauthority.com/google-pixel-8-software-updates-3358870/)
+ - [Omdia: Apple shipped 26.5M iPhone 14 Pro Max phones in H1 2023, the most out of any model from any manufacturer; Apple had all four of the top-shipping models &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230829/p2#a230829p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
