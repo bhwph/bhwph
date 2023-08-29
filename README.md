@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&#39;s Apple Studio Display competitor is now available in the US](https://appleinsider.com/articles/23/08/28/samsungs-viewfinity-s9-is-now-available-in-the-us?utm_medium=rss)
- - [New &#39;Ted Lasso&#39; shortbread cookies let fans experience biscuits with the boss](https://appleinsider.com/articles/23/08/28/new-ted-lasso-shortbread-cookies-let-fans-experience-biscuits-with-the-boss?utm_medium=rss)
- - [Elon Musk’s FSD v12 demo includes a near miss at a red light and doxxing Mark Zuckerberg](https://www.theverge.com/2023/8/28/23848882/elon-musk-tesla-fsd-v12-demo-red-light-zuckerberg-house)<!-- TECH:END -->
+ - [iPhone 15 Pro Max periscope camera to be major selling point, says Kuo](https://appleinsider.com/articles/23/08/29/iphone-15-pro-max-periscope-camera-to-be-major-selling-point-says-kuo?utm_medium=rss)
+ - [watchOS 10: Release date, features, and what we hope to see](https://www.androidauthority.com/watchos-10-3358760/)
+ - [Intel details its Xeon chips Sierra Forest and Granite Rapids set for 2024, claiming Sierra Forest has a 2.4x higher performance per watt than fourth-gen Xeons &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230828/p18#a230828p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
