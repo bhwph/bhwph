@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Armored Core Is So Back And It&#39;s Awesome](https://kotaku.com/armored-core-6-balteus-elden-ring-ps5-steam-reviews-1850781108?utm_source=regular)
- - [A Netflix fantasy, Amazon fantasy, wacky Max fantasy, and more new TV this week](https://www.polygon.com/2023/8/28/23832081/new-tv-wheel-time-season-2-netflix-one-piece-adventure-time-spinoff)
- - [Struggling with Armored Core 6? Do the coolest thing possible](https://www.polygon.com/23849203/armored-core-6-best-boss-fight-strategy)<!-- GAME:END -->
+ - [All of my friends are playing Baldur&#39;s Gate 3 completely wrong, but I love that it lets them](https://www.pcgamer.com/all-of-my-friends-are-playing-baldurs-gate-3-completely-wrong-but-i-love-that-it-lets-them)
+ - [Some of Steam&#39;s best strategy games are on sale right now](https://www.pcgamer.com/some-of-steams-best-strategy-games-are-on-sale-now)
+ - [GOG starts its Autumn Sale with a free game about rescuing your sister from bloodthirsty pirates](https://www.pcgamer.com/gog-starts-its-autumn-sale-with-a-free-game-about-rescuing-your-sister-from-bloodthirsty-pirates)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
