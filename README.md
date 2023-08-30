@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [As a guy who does batch cooking or at least perpetrations, these helped me alot!](http://9gag.com/gag/aEqN5Ex)
- - 😝 [Shit happen](http://9gag.com/gag/aMENLg6)
- - 👉 [They&#39;re sleeping now](http://9gag.com/gag/anzWo85)<!-- MEMES:END -->
+ - 6️⃣ [Predict this B!](http://9gag.com/gag/abvm8rB)
+ - 😝 [Lol i just jumped like a scared cat](http://9gag.com/gag/a1Pq6z2)
+ - 👉 [Dude builds entire &#39;universe&#39; in Minecraft](http://9gag.com/gag/avQXj3M)<!-- MEMES:END -->
 
 --- 
 
