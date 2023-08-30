@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Digital Eclipse Set the Standard for Preserving Video Game Classics with Their First Gold Master Series Title – The Making of Karateka](https://news.xbox.com/en-us/2023/08/29/gold-master-series-the-making-of-karateka/)
- - [Baldur&#39;s Gate 3 Is Even Better When You Speak With Animals](https://kotaku.com/baldurs-gate-3-speak-with-animals-scratch-rats-druid-1850784308?utm_source=regular)
- - [GeForce Now is shutting down in Russia](https://www.pcgamer.com/geforce-now-is-shutting-down-in-russia)<!-- GAME:END -->
+ - [PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/08/29/playstation-plus-double-discounts-promotion-comes-to-playstation-store-5/)
+ - [PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/08/29/playstation-plus-double-discounts-promotion-comes-to-playstation-store-5/)
+ - [All Combat Log enemy locations in Armored Core 6: Fires of Rubicon](https://www.polygon.com/guides/23844949/armored-core-6-combat-logs-enemies-loghunts-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
