@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Robinhood, whose entry into crypto was powered by Jump Trading, split ways with the firm in early July, as Jump reportedly backs away from the US market &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/230829/p43#a230829p43)
- - [The Ayaneo Kun nearly doubles the Steam Deck’s battery for nearly twice the price](https://www.theverge.com/2023/8/29/23732435/ayaneo-kun-announcement-price-battery-life)
- - [Meta&#39;s Oversight Board took 234 days to get a ruling in an incitement to violence case involving Hun Sen, revealing a problem with the board&#39;s glacial pace &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230829/p42#a230829p42)<!-- TECH:END -->
+ - [An image with the alt text &quot;A person takes a call on a Pixel 8 Pro phone in Porcelain&quot; popped up on a Google Store page displaying the as-yet-unannounced device &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230830/p5#a230830p5)
+ - [Meet Aleph Alpha, Europe’s Answer to OpenAI](https://www.wired.com/story/aleph-alpha-europe-openai/)
+ - [Despite a rough year for memory-chip business, SK Hynix&#39;s stock rose ~60% in 2023, benefiting from the rise of AI chips that rely on high-bandwidth memory &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230830/p4#a230830p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
