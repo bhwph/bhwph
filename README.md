@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cooling gel ear pads are the cheap gaming headset upgrade I never knew I needed](https://www.pcgamer.com/cooling-gel-ear-pads-are-the-cheap-gaming-headset-upgrade-i-never-knew-i-needed)
- - [Remnant 2 player loses hardcore character to the game&#39;s most annoying ledge, which is becoming condemned territory for permadeath runs](https://www.pcgamer.com/remnant-2-player-loses-hardcore-character-to-the-games-most-annoying-ledge-which-is-becoming-condemned-territory-for-permadeath-runs)
- - [A 1/500 limited edition Starfield graphics card and CPU bundle is up for auction](https://www.pcgamer.com/a-1500-limited-edition-starfield-graphics-card-and-cpu-bundle-is-up-for-auction)<!-- GAME:END -->
+ - [The Best Star Wars Easter Eggs In The Ahsoka TV Series](https://kotaku.com/star-wars-ahsoka-easter-eggs-cast-release-date-show-1850766489?utm_source=regular)
+ - [Google begins trialling tool that adds a watermark to AI-generated images](https://www.pcgamer.com/google-begins-trialling-tool-that-adds-a-watermark-to-ai-generated-images)
+ - [13 great games to try if you loved Baldur’s Gate 3](https://www.polygon.com/gaming/23850889/13-great-games-to-try-if-you-loved-baldurs-gate-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
