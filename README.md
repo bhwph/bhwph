@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An image with the alt text &quot;A person takes a call on a Pixel 8 Pro phone in Porcelain&quot; popped up on a Google Store page displaying the as-yet-unannounced device &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230830/p5#a230830p5)
- - [Meet Aleph Alpha, Europe’s Answer to OpenAI](https://www.wired.com/story/aleph-alpha-europe-openai/)
- - [Despite a rough year for memory-chip business, SK Hynix&#39;s stock rose ~60% in 2023, benefiting from the rise of AI chips that rely on high-bandwidth memory &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230830/p4#a230830p4)<!-- TECH:END -->
+ - [Meta’s avatar legs roll out to VR beta testers, but only in Quest Home for now](https://www.theverge.com/2023/8/29/23850750/meta-avatar-legs-beta-testers-quest-home)
+ - [This may be the best look yet at the iPhone 15 color assortment](https://appleinsider.com/articles/23/08/30/this-is-the-best-look-yet-at-the-iphone-15-color-assortment?utm_medium=rss)
+ - [OnePlus’ impressive first tablet just received its first discount](https://www.theverge.com/2023/8/30/23851051/oneplus-pad-tablet-amazon-echo-show-5-tears-of-the-kingdom-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
