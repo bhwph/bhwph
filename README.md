@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mysterious](http://9gag.com/gag/aEqNbxM)
- - 😝 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
- - 👉 [How can you be this dense](http://9gag.com/gag/awZGP88)<!-- MEMES:END -->
+ - 6️⃣ [As a guy who does batch cooking or at least perpetrations, these helped me alot!](http://9gag.com/gag/aEqN5Ex)
+ - 😝 [Shit happen](http://9gag.com/gag/aMENLg6)
+ - 👉 [They&#39;re sleeping now](http://9gag.com/gag/anzWo85)<!-- MEMES:END -->
 
 --- 
 
