@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Farewell AMD RX 6600-series. AMD pulls the plug on Navi 32 chip production.](https://www.pcgamer.com/farewell-amd-rx-6600-series-amd-pulls-the-plug-on-navi-32-chip-production)
- - [Today&#39;s Wordle hint and answer #802: Wednesday, August 30](https://www.pcgamer.com/wordle-answer-today-hint-802-august-30)
- - [PSA: Starfield preloads are now live on Steam](https://www.pcgamer.com/psa-starfield-preloads-are-now-live-on-steam)<!-- GAME:END -->
+ - [Cooling gel ear pads are the cheap gaming headset upgrade I never knew I needed](https://www.pcgamer.com/cooling-gel-ear-pads-are-the-cheap-gaming-headset-upgrade-i-never-knew-i-needed)
+ - [Remnant 2 player loses hardcore character to the game&#39;s most annoying ledge, which is becoming condemned territory for permadeath runs](https://www.pcgamer.com/remnant-2-player-loses-hardcore-character-to-the-games-most-annoying-ledge-which-is-becoming-condemned-territory-for-permadeath-runs)
+ - [A 1/500 limited edition Starfield graphics card and CPU bundle is up for auction](https://www.pcgamer.com/a-1500-limited-edition-starfield-graphics-card-and-cpu-bundle-is-up-for-auction)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
