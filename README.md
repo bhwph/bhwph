@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s avatar legs roll out to beta testers, but only in Quest Home](https://www.theverge.com/2023/8/29/23850750/meta-avatar-legs-beta-testers-quest-home)
- - [Meta rejects the Oversight Board&#39;s recommendation to suspend former Cambodian PM Hun Sen&#39;s account, determining it wouldn&#39;t &quot;be consistent with our policies&quot; &lpar;Rebecca Klar/The Hill&rpar;](http://www.techmeme.com/230829/p29#a230829p29)
- - [Google launches Duet AI in Mandiant Threat Intelligence, Duet AI for Chronicle Security Operations, and Duet AI in Security Command Center, all in preview &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230829/p28#a230829p28)<!-- TECH:END -->
+ - [Source: Robinhood, whose entry into crypto was powered by Jump Trading, split ways with the firm in early July, as Jump reportedly backs away from the US market &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/230829/p43#a230829p43)
+ - [The Ayaneo Kun nearly doubles the Steam Deck’s battery for nearly twice the price](https://www.theverge.com/2023/8/29/23732435/ayaneo-kun-announcement-price-battery-life)
+ - [Meta&#39;s Oversight Board took 234 days to get a ruling in an incitement to violence case involving Hun Sen, revealing a problem with the board&#39;s glacial pace &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230829/p42#a230829p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
