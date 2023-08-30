@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s avatar legs roll out to VR beta testers, but only in Quest Home for now](https://www.theverge.com/2023/8/29/23850750/meta-avatar-legs-beta-testers-quest-home)
- - [This may be the best look yet at the iPhone 15 color assortment](https://appleinsider.com/articles/23/08/30/this-is-the-best-look-yet-at-the-iphone-15-color-assortment?utm_medium=rss)
- - [OnePlus’ impressive first tablet just received its first discount](https://www.theverge.com/2023/8/30/23851051/oneplus-pad-tablet-amazon-echo-show-5-tears-of-the-kingdom-deal-sale)<!-- TECH:END -->
+ - [Instagram is internally testing the ability to create Reels up to 10 minutes long; TikTok expanded its maximum video length to 10 minutes in February 2022 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230830/p25#a230830p25)
+ - [Windows 11 Pro is on sale for just $32.97 until Friday &lpar;83% off&rpar;](https://www.androidauthority.com/microsoft-windows-11-pro-deal-3359476/)
+ - [Google Pixel 8: all of the leaks and rumors so far](https://www.theverge.com/2023/8/30/23852507/google-pixel-8-pro-rumors-leaks-camera-display)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
