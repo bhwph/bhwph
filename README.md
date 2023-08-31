@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a coincidence](http://9gag.com/gag/az2DpDZ)
- - 😝 [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)
- - 👉 [Only 93](http://9gag.com/gag/aYVnX4v)<!-- MEMES:END -->
+ - 6️⃣ [Facts beats opinions](http://9gag.com/gag/aVb1NKM)
+ - 😝 [Did you just bark at me?!](http://9gag.com/gag/aMENgWP)
+ - 👉 [Nice](http://9gag.com/gag/aBdNA5O)<!-- MEMES:END -->
 
 --- 
 
