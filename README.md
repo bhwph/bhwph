@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [15 years after announcing the sequel, Ubisoft is gonna try to remember how to release a Beyond Good and Evil game with a new edition of the first one](https://www.pcgamer.com/15-years-after-announcing-the-sequel-ubisoft-is-gonna-try-to-remember-how-to-release-a-beyond-good-and-evil-game-with-a-new-edition-of-the-first-one)
- - [From wafer to your PC: Behind the curtain of some of Intel&#39;s most advanced manufacturing facilities](https://www.pcgamer.com/from-wafer-to-your-pc-behind-the-curtain-of-some-of-intels-most-advanced-manufacturing-facilities)
- - [Succession writer says she&#39;s considering a return to games because they&#39;re ‘genuinely, massively exciting in a way that other forms aren&#39;t&#39;](https://www.pcgamer.com/succession-writer-says-shes-considering-a-return-to-games-because-theyre-genuinely-massively-exciting-in-a-way-that-other-forms-arent)<!-- GAME:END -->
+ - [Armored Core VI: How Does It Run On Steam Deck?](https://kotaku.com/armored-core-6-reddit-steam-deck-pc-performance-fps-1850792906?utm_source=regular)
+ - [Baldur&#39;s Gate 3&#39;s New Karlach Ending Is A Small But Meaningful Improvement](https://kotaku.com/baldurs-gate-3-new-karlach-ending-epilogue-avernus-wyll-1850792933?utm_source=regular)
+ - [Super Mario Bros. Wonder brings awe back to 2D Mario](https://www.polygon.com/23853005/super-mario-bros-wonder-nintendo-switch-impressions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
