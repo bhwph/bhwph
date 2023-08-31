@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is internally testing the ability to create Reels up to 10 minutes long; TikTok expanded its maximum video length to 10 minutes in February 2022 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230830/p25#a230830p25)
- - [Windows 11 Pro is on sale for just $32.97 until Friday &lpar;83% off&rpar;](https://www.androidauthority.com/microsoft-windows-11-pro-deal-3359476/)
- - [Google Pixel 8: all of the leaks and rumors so far](https://www.theverge.com/2023/8/30/23852507/google-pixel-8-pro-rumors-leaks-camera-display)<!-- TECH:END -->
+ - [Google launches its Search Generative Experience in India and Japan via Search Labs opt-in, following the US launch of the AI search feature in May 2023 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230830/p35#a230830p35)
+ - [Google finally launches AI-powered Search outside US](https://www.androidauthority.com/google-sge-launch-outside-us-3359338/)
+ - [Google kills Pixel Pass without ever upgrading subscriber’s phones](https://www.theverge.com/2023/8/30/23851107/google-graveyard-pixel-pass-subscription-phone-upgrades)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
