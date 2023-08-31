@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mark Zuckerberg&#39;s Avatar Legs Saga Ends With A Whimper, Not A Bang](https://kotaku.com/meta-horizon-worlds-mark-zuckerberg-avatar-legs-quest-1850789924?utm_source=regular)
- - [A.K.I. slithers into Street Fighter 6 on September 27 – full gameplay details revealed](https://blog.playstation.com/2023/08/30/a-k-i-slithers-into-street-fighter-6-on-september-27-full-gameplay-details-revealed/)
- - [A.K.I. slithers into Street Fighter 6 on September 27 – full gameplay details revealed](https://blog.playstation.com/2023/08/30/a-k-i-slithers-into-street-fighter-6-on-september-27-full-gameplay-details-revealed/)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #803: Thursday, August 31](https://www.pcgamer.com/wordle-answer-today-hint-803-august-31)
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/08/30/20230830-psstore/)
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/08/30/20230830-psstore/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
