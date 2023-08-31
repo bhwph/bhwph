@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Predict this B!](http://9gag.com/gag/abvm8rB)
- - 😝 [Lol i just jumped like a scared cat](http://9gag.com/gag/a1Pq6z2)
- - 👉 [Dude builds entire &#39;universe&#39; in Minecraft](http://9gag.com/gag/avQXj3M)<!-- MEMES:END -->
+ - 6️⃣ [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
+ - 😝 [Netflix being babysitted as they should be](http://9gag.com/gag/avQXMAO)
+ - 👉 [Anyone remember this Game? It&#39;s called Diablo 4. It was fun for about 3 days and then disappeared.](http://9gag.com/gag/avQXw6O)<!-- MEMES:END -->
 
 --- 
 
