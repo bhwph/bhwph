@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They get stiches](http://9gag.com/gag/az2DWgK)
- - 😝 [African mosquito burger](http://9gag.com/gag/a4orgmZ)
- - 👉 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)<!-- MEMES:END -->
+ - 6️⃣ [Just a coincidence](http://9gag.com/gag/az2DpDZ)
+ - 😝 [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)
+ - 👉 [Only 93](http://9gag.com/gag/aYVnX4v)<!-- MEMES:END -->
 
 --- 
 
