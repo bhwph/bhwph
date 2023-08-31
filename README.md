@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at cybercrime writing contests, which Russian-language cybercrime forums have hosted for over a decade, that offer the winners up to $80K in prize money &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/230831/p5#a230831p5)
- - [Google partners with enterprise messaging interoperability provider Mio to enable messaging between Chat and platforms like Slack and Teams, available in beta &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230831/p4#a230831p4)
- - [Google Chrome could soon let you share passwords with up to 6 people](https://www.androidauthority.com/google-chrome-password-sharing-3359736/)<!-- TECH:END -->
+ - [We wish this rollable phone concept was a thing you could buy](https://www.androidauthority.com/tecno-phantom-ultimate-rollable-phone-3359859/)
+ - [Eve announces AirPlay 2 adapter Eve Play](https://appleinsider.com/articles/23/08/31/eve-announces-airplay-2-adapter-eve-play?utm_medium=rss)
+ - [Researcher claims MTA subway flaw beats Apple Pay security](https://appleinsider.com/articles/23/08/31/researcher-claims-mta-subway-flaw-beats-apple-pay-security?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
