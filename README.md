@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Star Wars Easter Eggs In The Ahsoka TV Series](https://kotaku.com/star-wars-ahsoka-easter-eggs-cast-release-date-show-1850766489?utm_source=regular)
- - [Google begins trialling tool that adds a watermark to AI-generated images](https://www.pcgamer.com/google-begins-trialling-tool-that-adds-a-watermark-to-ai-generated-images)
- - [13 great games to try if you loved Baldur’s Gate 3](https://www.polygon.com/gaming/23850889/13-great-games-to-try-if-you-loved-baldurs-gate-3)<!-- GAME:END -->
+ - [Mark Zuckerberg&#39;s Avatar Legs Saga Ends With A Whimper, Not A Bang](https://kotaku.com/meta-horizon-worlds-mark-zuckerberg-avatar-legs-quest-1850789924?utm_source=regular)
+ - [A.K.I. slithers into Street Fighter 6 on September 27 – full gameplay details revealed](https://blog.playstation.com/2023/08/30/a-k-i-slithers-into-street-fighter-6-on-september-27-full-gameplay-details-revealed/)
+ - [A.K.I. slithers into Street Fighter 6 on September 27 – full gameplay details revealed](https://blog.playstation.com/2023/08/30/a-k-i-slithers-into-street-fighter-6-on-september-27-full-gameplay-details-revealed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
