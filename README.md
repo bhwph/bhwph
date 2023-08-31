@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We wish this rollable phone concept was a thing you could buy](https://www.androidauthority.com/tecno-phantom-ultimate-rollable-phone-3359859/)
- - [Eve announces AirPlay 2 adapter Eve Play](https://appleinsider.com/articles/23/08/31/eve-announces-airplay-2-adapter-eve-play?utm_medium=rss)
- - [Researcher claims MTA subway flaw beats Apple Pay security](https://appleinsider.com/articles/23/08/31/researcher-claims-mta-subway-flaw-beats-apple-pay-security?utm_medium=rss)<!-- TECH:END -->
+ - [Fairphone 5 hands-on: Feels like the best phone for a small group of people](https://www.androidauthority.com/fairphone-5-hands-on-3359027/)
+ - [Labor Day deals: up to $1,600 in Apple savings from Amazon, B&amp;H, Best Buy &amp; more](https://appleinsider.com/articles/23/08/31/labor-day-deals-up-to-1600-in-apple-savings-from-amazon-bh-best-buy-more?utm_medium=rss)
+ - [Investigation: IBM signed a &amp;pound;54.7M deal to develop a UK biometrics platform, including for facial recognition, in July, despite a 2020 pledge to quit such work &lpar;Mark Wilding/The Verge&rpar;](http://www.techmeme.com/230831/p36#a230831p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
