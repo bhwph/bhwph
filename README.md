@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #803: Thursday, August 31](https://www.pcgamer.com/wordle-answer-today-hint-803-august-31)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/08/30/20230830-psstore/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/08/30/20230830-psstore/)<!-- GAME:END -->
+ - [15 years after announcing the sequel, Ubisoft is gonna try to remember how to release a Beyond Good and Evil game with a new edition of the first one](https://www.pcgamer.com/15-years-after-announcing-the-sequel-ubisoft-is-gonna-try-to-remember-how-to-release-a-beyond-good-and-evil-game-with-a-new-edition-of-the-first-one)
+ - [From wafer to your PC: Behind the curtain of some of Intel&#39;s most advanced manufacturing facilities](https://www.pcgamer.com/from-wafer-to-your-pc-behind-the-curtain-of-some-of-intels-most-advanced-manufacturing-facilities)
+ - [Succession writer says she&#39;s considering a return to games because they&#39;re ‘genuinely, massively exciting in a way that other forms aren&#39;t&#39;](https://www.pcgamer.com/succession-writer-says-shes-considering-a-return-to-games-because-theyre-genuinely-massively-exciting-in-a-way-that-other-forms-arent)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
