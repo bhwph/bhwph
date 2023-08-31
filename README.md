@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches its Search Generative Experience in India and Japan via Search Labs opt-in, following the US launch of the AI search feature in May 2023 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230830/p35#a230830p35)
- - [Google finally launches AI-powered Search outside US](https://www.androidauthority.com/google-sge-launch-outside-us-3359338/)
- - [Google kills Pixel Pass without ever upgrading subscriber’s phones](https://www.theverge.com/2023/8/30/23851107/google-graveyard-pixel-pass-subscription-phone-upgrades)<!-- TECH:END -->
+ - [A look at cybercrime writing contests, which Russian-language cybercrime forums have hosted for over a decade, that offer the winners up to $80K in prize money &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/230831/p5#a230831p5)
+ - [Google partners with enterprise messaging interoperability provider Mio to enable messaging between Chat and platforms like Slack and Teams, available in beta &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230831/p4#a230831p4)
+ - [Google Chrome could soon let you share passwords with up to 6 people](https://www.androidauthority.com/google-chrome-password-sharing-3359736/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
