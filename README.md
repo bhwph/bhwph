@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s already a Starfield mod that swaps FSR for DLSS](https://www.pcgamer.com/theres-already-a-starfield-mod-that-swaps-fsr-for-dlss)
- - [The Lenovo Legion Go can turn one of its controllers into a gaming mouse. Wait, what?](https://www.pcgamer.com/lenovo-legion-go-hands-on)
- - [Lenovo’s Legion Go is a handheld PC with Switch-like tricks](https://www.polygon.com/23852815/lenovo-legion-go-portable-pc-switch-features-specs-price)<!-- GAME:END -->
+ - [Having issues with Starfield&#39;s FOV? Well you&#39;re not alone, but luckily there&#39;s already a fix](https://www.pcgamer.com/having-issues-with-starfields-fov-well-youre-not-alone-but-luckily-theres-already-a-fix)
+ - [Final Fantasy 14 player loves their Warrior of Light so much that they built a life-sized bronze statue to immortalise them](https://www.pcgamer.com/final-fantasy-14-player-loves-their-warrior-of-light-so-much-that-they-built-a-life-sized-bronze-statue-to-immortalise-them)
+ - [A PC parts company is dumping golden tickets across the UK from space in a bizarre competition to celebrate Starfield](https://www.pcgamer.com/a-pc-parts-company-is-dumping-golden-tickets-across-the-uk-from-space-in-a-bizarre-competition-to-celebrate-starfield)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
