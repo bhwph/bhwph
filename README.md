@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could bring Night Sight to video on the Pixel 8 series](https://www.androidauthority.com/google-pixel-8-sim-slot-night-sight-video-3360242/)
- - [OnePlus will roll out Android 14 to its phones later this month](https://www.androidauthority.com/oneplus-oxygenos-14-android-14-update-3360215/)
- - [Hands-on with the Lenovo Legion Go: The Windows Nintendo Switch?](https://www.androidauthority.com/lenovo-legion-go-hands-on-3359533/)<!-- TECH:END -->
+ - [Lenovo unveils $329 Legion Glasses with 60Hz displays, equivalent to a 27&quot; monitor, that works with Legion Go, Android phones, iPhones, and Windows and Mac PCs &lpar;Tom Pritchard/Tom&#39;s Guide&rpar;](http://www.techmeme.com/230901/p7#a230901p7)
+ - [Apple AirPods Pro 2 return to $199 at Amazon](https://appleinsider.com/articles/23/09/01/apple-airpods-pro-2-return-to-199-at-amazon?utm_medium=rss)
+ - [iPhone 15, M3 Macs, and 2024 iPad Pro on the AppleInsider Podcast](https://appleinsider.com/articles/23/09/01/iphone-15-m3-macs-and-2024-ipad-pro-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
