@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo unveils $329 Legion Glasses with 60Hz displays, equivalent to a 27&quot; monitor, that works with Legion Go, Android phones, iPhones, and Windows and Mac PCs &lpar;Tom Pritchard/Tom&#39;s Guide&rpar;](http://www.techmeme.com/230901/p7#a230901p7)
- - [Apple AirPods Pro 2 return to $199 at Amazon](https://appleinsider.com/articles/23/09/01/apple-airpods-pro-2-return-to-199-at-amazon?utm_medium=rss)
- - [iPhone 15, M3 Macs, and 2024 iPad Pro on the AppleInsider Podcast](https://appleinsider.com/articles/23/09/01/iphone-15-m3-macs-and-2024-ipad-pro-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Sony Xperia 5 V vs Xperia 1 V: What’s the difference and which should you buy?](https://www.androidauthority.com/sony-xperia-5-v-vs-xperia-1-v-3360375/)
+ - [Meta may offer paid ad-free Facebook and Instagram in Europe](https://www.theverge.com/2023/9/1/23855820/meta-paid-ad-free-facebook-and-instagram-eu)
+ - [Canada tries to address C-18 bill concerns, saying Google would pay ~$126.6M and Meta would pay ~$44M a year to publishers; Meta says it will keep blocking news &lpar;Reuters&rpar;](http://www.techmeme.com/230901/p17#a230901p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
