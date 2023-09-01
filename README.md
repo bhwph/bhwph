@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Having issues with Starfield&#39;s FOV? Well you&#39;re not alone, but luckily there&#39;s already a fix](https://www.pcgamer.com/having-issues-with-starfields-fov-well-youre-not-alone-but-luckily-theres-already-a-fix)
- - [Final Fantasy 14 player loves their Warrior of Light so much that they built a life-sized bronze statue to immortalise them](https://www.pcgamer.com/final-fantasy-14-player-loves-their-warrior-of-light-so-much-that-they-built-a-life-sized-bronze-statue-to-immortalise-them)
- - [A PC parts company is dumping golden tickets across the UK from space in a bizarre competition to celebrate Starfield](https://www.pcgamer.com/a-pc-parts-company-is-dumping-golden-tickets-across-the-uk-from-space-in-a-bizarre-competition-to-celebrate-starfield)<!-- GAME:END -->
+ - [Starfield Chat: Our First Few Hours With Bethesda’s Space Epic](https://kotaku.com/starfield-release-gameplay-impressions-opening-xbox-1850796928?utm_source=regular)
+ - [Why is Babylon Berlin’s season 4 U.S. release date such a mystery?](https://www.polygon.com/23852870/babylon-berlin-season-4-netflix-release-date-when-us)
+ - [7 Horny Fantasy Games To Play After Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-nsfw-romance-bg3-pc-ps5-god-of-war-1850797112?utm_source=regular)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
