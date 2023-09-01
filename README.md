@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the Starfield Official Live Action Trailer](https://news.xbox.com/en-us/2023/08/31/watch-the-starfield-live-action-trailer/)
- - [Play Starfield Now with Early Access](https://news.xbox.com/en-us/2023/08/31/play-starfield-now-with-early-access/)
- - [Starfield ‘Revelation’ quest walkthrough, and how to defeat the Starborn Guardians](https://www.polygon.com/starfield-guide/23851833/revelation-quest-walkthrough)<!-- GAME:END -->
+ - [There&#39;s already a Starfield mod that swaps FSR for DLSS](https://www.pcgamer.com/theres-already-a-starfield-mod-that-swaps-fsr-for-dlss)
+ - [The Lenovo Legion Go can turn one of its controllers into a gaming mouse. Wait, what?](https://www.pcgamer.com/lenovo-legion-go-hands-on)
+ - [Lenovo’s Legion Go is a handheld PC with Switch-like tricks](https://www.polygon.com/23852815/lenovo-legion-go-portable-pc-switch-features-specs-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
