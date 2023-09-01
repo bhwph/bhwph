@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
- - 😝 [It was made with love](http://9gag.com/gag/aZDVG6V)
- - 👉 [Always be careful guys.](http://9gag.com/gag/armrjZp)<!-- MEMES:END -->
+ - 6️⃣ [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
+ - 😝 [GO WOKE...](http://9gag.com/gag/aGEN3Ew)
+ - 👉 [Better be a passport bro nowadays](http://9gag.com/gag/aA0NjPd)<!-- MEMES:END -->
 
 --- 
 
