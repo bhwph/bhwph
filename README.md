@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based telehealth startup Babylon Health, once valued at ~$2B after being backed by DeepMind and others, is being sold for parts after going bankrupt &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230831/p43#a230831p43)
- - [Magic Leap tells customers the Magic Leap 1 AR headset, which launched in August 2018, and its apps will &quot;cease to function&quot; from December 31, 2024 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230831/p42#a230831p42)
- - [A US district judge temporarily blocks an Arkansas law requiring parental consent for minors to open social media accounts that was set to take effect on Sep. 1 &lpar;Andrew DeMillo/Associated Press&rpar;](http://www.techmeme.com/230831/p41#a230831p41)<!-- TECH:END -->
+ - [Google could bring Night Sight to video on the Pixel 8 series](https://www.androidauthority.com/google-pixel-8-sim-slot-night-sight-video-3360242/)
+ - [OnePlus will roll out Android 14 to its phones later this month](https://www.androidauthority.com/oneplus-oxygenos-14-android-14-update-3360215/)
+ - [Hands-on with the Lenovo Legion Go: The Windows Nintendo Switch?](https://www.androidauthority.com/lenovo-legion-go-hands-on-3359533/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
