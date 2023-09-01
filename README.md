@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Armored Core VI: How Does It Run On Steam Deck?](https://kotaku.com/armored-core-6-reddit-steam-deck-pc-performance-fps-1850792906?utm_source=regular)
- - [Baldur&#39;s Gate 3&#39;s New Karlach Ending Is A Small But Meaningful Improvement](https://kotaku.com/baldurs-gate-3-new-karlach-ending-epilogue-avernus-wyll-1850792933?utm_source=regular)
- - [Super Mario Bros. Wonder brings awe back to 2D Mario](https://www.polygon.com/23853005/super-mario-bros-wonder-nintendo-switch-impressions)<!-- GAME:END -->
+ - [Watch the Starfield Official Live Action Trailer](https://news.xbox.com/en-us/2023/08/31/watch-the-starfield-live-action-trailer/)
+ - [Play Starfield Now with Early Access](https://news.xbox.com/en-us/2023/08/31/play-starfield-now-with-early-access/)
+ - [Starfield ‘Revelation’ quest walkthrough, and how to defeat the Starborn Guardians](https://www.polygon.com/starfield-guide/23851833/revelation-quest-walkthrough)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
