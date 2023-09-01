@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Facts beats opinions](http://9gag.com/gag/aVb1NKM)
- - 😝 [Did you just bark at me?!](http://9gag.com/gag/aMENgWP)
- - 👉 [Nice](http://9gag.com/gag/aBdNA5O)<!-- MEMES:END -->
+ - 6️⃣ [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
+ - 😝 [It was made with love](http://9gag.com/gag/aZDVG6V)
+ - 👉 [Always be careful guys.](http://9gag.com/gag/armrjZp)<!-- MEMES:END -->
 
 --- 
 
