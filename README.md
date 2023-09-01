@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fairphone 5 hands-on: Feels like the best phone for a small group of people](https://www.androidauthority.com/fairphone-5-hands-on-3359027/)
- - [Labor Day deals: up to $1,600 in Apple savings from Amazon, B&amp;H, Best Buy &amp; more](https://appleinsider.com/articles/23/08/31/labor-day-deals-up-to-1600-in-apple-savings-from-amazon-bh-best-buy-more?utm_medium=rss)
- - [Investigation: IBM signed a &amp;pound;54.7M deal to develop a UK biometrics platform, including for facial recognition, in July, despite a 2020 pledge to quit such work &lpar;Mark Wilding/The Verge&rpar;](http://www.techmeme.com/230831/p36#a230831p36)<!-- TECH:END -->
+ - [London-based telehealth startup Babylon Health, once valued at ~$2B after being backed by DeepMind and others, is being sold for parts after going bankrupt &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230831/p43#a230831p43)
+ - [Magic Leap tells customers the Magic Leap 1 AR headset, which launched in August 2018, and its apps will &quot;cease to function&quot; from December 31, 2024 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230831/p42#a230831p42)
+ - [A US district judge temporarily blocks an Arkansas law requiring parental consent for minors to open social media accounts that was set to take effect on Sep. 1 &lpar;Andrew DeMillo/Associated Press&rpar;](http://www.techmeme.com/230831/p41#a230831p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
