@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield players agree that its first dozen hours are its weakest: &#39;OK, 12 hours in, and I love it&#39;](https://www.pcgamer.com/starfield-players-agree-that-its-first-dozen-hours-are-its-weakest-ok-12-hours-in-and-i-love-it)
- - [Nope, not a bug: Starfield&#39;s city maps just look like that](https://www.pcgamer.com/starfield-city-maps)
- - [Barely a day after launch, Starfield already has over 100 mods](https://www.pcgamer.com/best-starfield-mods)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #805: Saturday, September 2](https://www.pcgamer.com/wordle-answer-today-hint-805-september-2)
+ - [Pokémon Go Charmander Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/2023/9/1/23853815/charmander-community-day-classic-moveset-evolution-mega-shiny)
+ - [Starfield players agree that its first dozen hours are its weakest: &#39;OK, 12 hours in, and I love it&#39;](https://www.pcgamer.com/starfield-players-agree-that-its-first-dozen-hours-are-its-weakest-ok-12-hours-in-and-i-love-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
