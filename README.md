@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Media Matters for America report on PragerU Kids: Meta isn&#39;t consistently enforcing transparency rules for ads around &quot;social issues, elections, or politics&quot; &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/230902/p4#a230902p4)
- - [The Samsung Galaxy Watch 6’s sleep tracking is adorable but just alright](https://www.androidauthority.com/galaxy-watch-6-series-sleep-tracking-3357229/)
- - [What Ever Happened to the Tiny House Movement?](https://www.wired.com/story/what-ever-happened-to-the-tiny-house-movement/)<!-- TECH:END -->
+ - [Microsoft PowerToys’ Crop and Lock lets you make mini app windows](https://www.theverge.com/2023/9/2/23856744/microsoft-windows-powertoys-crop-and-lock-feature)
+ - [Standby Mode on the iPhone 14 Pro replaced my Google Nest Hub](https://www.androidauthority.com/iphone-standby-mode-vs-google-nest-hub-3359363/)
+ - [8 Yoga Poses You Can Add to Your Bedtime Routine for Better Sleep     - CNET](https://www.cnet.com/health/sleep/8-yoga-poses-you-can-add-to-your-bedtime-routine-for-better-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
