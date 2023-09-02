@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Xperia 5 V vs Xperia 1 V: What’s the difference and which should you buy?](https://www.androidauthority.com/sony-xperia-5-v-vs-xperia-1-v-3360375/)
- - [Meta may offer paid ad-free Facebook and Instagram in Europe](https://www.theverge.com/2023/9/1/23855820/meta-paid-ad-free-facebook-and-instagram-eu)
- - [Canada tries to address C-18 bill concerns, saying Google would pay ~$126.6M and Meta would pay ~$44M a year to publishers; Meta says it will keep blocking news &lpar;Reuters&rpar;](http://www.techmeme.com/230901/p17#a230901p17)<!-- TECH:END -->
+ - [Sources: Apple, Nvidia, Alphabet, Intel, Samsung, and AMD have agreed to invest between $25M and $100M each in Arm&#39;s IPO &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/230901/p23#a230901p23)
+ - [Google Maps Updates UI With Brighter Colors Not Everyone Will Love     - CNET](https://www.cnet.com/tech/mobile/google-maps-updates-ui-with-brighter-colors-not-everyone-will-love/#ftag=CAD590a51e)
+ - [Child advocacy group Heat Initiative is starting a $2M campaign calling on Apple to detect, report, and remove child sexual abuse materials from iCloud &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/230901/p22#a230901p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
