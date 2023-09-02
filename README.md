@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
- - 😝 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
- - 👉 [How? s1](http://9gag.com/gag/a6q4rKR)<!-- MEMES:END -->
+ - 6️⃣ [Only legends will know this masterpiece.](http://9gag.com/gag/a3ZePRv)
+ - 😝 [It was made with love](http://9gag.com/gag/aZDVG6V)
+ - 👉 [What should he do tho](http://9gag.com/gag/aKEn4Ab)<!-- MEMES:END -->
 
 --- 
 
