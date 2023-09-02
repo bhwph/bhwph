@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only legends will know this masterpiece.](http://9gag.com/gag/a3ZePRv)
- - 😝 [It was made with love](http://9gag.com/gag/aZDVG6V)
- - 👉 [What should he do tho](http://9gag.com/gag/aKEn4Ab)<!-- MEMES:END -->
+ - 6️⃣ [Took me a while](http://9gag.com/gag/aoKqBWX)
+ - 😝 [Douchebags](http://9gag.com/gag/aMENpVR)
+ - 👉 [What&#39;s this new occupation](http://9gag.com/gag/aeQyjxv)<!-- MEMES:END -->
 
 --- 
 
