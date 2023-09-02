@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Took me a while](http://9gag.com/gag/aoKqBWX)
- - 😝 [Douchebags](http://9gag.com/gag/aMENpVR)
- - 👉 [What&#39;s this new occupation](http://9gag.com/gag/aeQyjxv)<!-- MEMES:END -->
+ - 6️⃣ [What&#39;s this new occupation](http://9gag.com/gag/aeQyjxv)
+ - 😝 [Squint and you&#39;ll be disappointed](http://9gag.com/gag/aEqywG9)
+ - 👉 [I hate my life.](http://9gag.com/gag/anz8YPo)<!-- MEMES:END -->
 
 --- 
 
