@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 bestiary: The origins of D&amp;D&#39;s odder creatures](https://www.pcgamer.com/baldurs-gate-bestiary-the-origins-of-dandds-odder-creatures)
- - [Today&#39;s Wordle hint and answer #805: Saturday, September 2](https://www.pcgamer.com/wordle-answer-today-hint-805-september-2)
- - [Pokémon Go Charmander Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/2023/9/1/23853815/charmander-community-day-classic-moveset-evolution-mega-shiny)<!-- GAME:END -->
+ - [How to smuggle and sell contraband in Starfield](https://www.polygon.com/starfield-guide/23850749/smuggle-sell-contraband-patrolled-areas-cargo-upgrade)
+ - [Netflix’s live-action One Piece shows the story is best as a slow burn](https://www.polygon.com/23852346/one-piece-live-action-netflix-adaptation)
+ - [All Starfield factions and how to join them](https://www.polygon.com/starfield-guide/23856681/all-factions-list-best-faction-how-to-join)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
