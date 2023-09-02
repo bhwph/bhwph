@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield Chat: Our First Few Hours With Bethesda’s Space Epic](https://kotaku.com/starfield-release-gameplay-impressions-opening-xbox-1850796928?utm_source=regular)
- - [Why is Babylon Berlin’s season 4 U.S. release date such a mystery?](https://www.polygon.com/23852870/babylon-berlin-season-4-netflix-release-date-when-us)
- - [7 Horny Fantasy Games To Play After Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-nsfw-romance-bg3-pc-ps5-god-of-war-1850797112?utm_source=regular)<!-- GAME:END -->
+ - [Starfield players agree that its first dozen hours are its weakest: &#39;OK, 12 hours in, and I love it&#39;](https://www.pcgamer.com/starfield-players-agree-that-its-first-dozen-hours-are-its-weakest-ok-12-hours-in-and-i-love-it)
+ - [Nope, not a bug: Starfield&#39;s city maps just look like that](https://www.pcgamer.com/starfield-city-maps)
+ - [Barely a day after launch, Starfield already has over 100 mods](https://www.pcgamer.com/best-starfield-mods)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
