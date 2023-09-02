@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Social engineering?](http://9gag.com/gag/aA0qBRZ)
- - 😝 [Did you just bark at me?!](http://9gag.com/gag/aMENgWP)
- - 👉 [Play of the century](http://9gag.com/gag/armrPq6)<!-- MEMES:END -->
+ - 6️⃣ [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
+ - 😝 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
+ - 👉 [How? s1](http://9gag.com/gag/a6q4rKR)<!-- MEMES:END -->
 
 --- 
 
