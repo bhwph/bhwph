@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG and Samsung say their smart home apps will soon be able to control each other&#39;s appliances and TVs, as part of the Home Connectivity Alliance formed in 2021 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230902/p2#a230902p2)
- - [Serie A Italian Soccer Livestream: How to Watch Napoli vs. Lazio From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/serie-a-italian-soccer-livestream-how-to-watch-napoli-vs-lazio-from-anywhere/#ftag=CAD590a51e)
- - [California Forever, the company backed by tech billionaires that wants to build a city in the Bay Area&#39;s Solano County, unveiled a website explaining its plans &lpar;New York Times&rpar;](http://www.techmeme.com/230902/p1#a230902p1)<!-- TECH:END -->
+ - [A Media Matters for America report on PragerU Kids: Meta isn&#39;t consistently enforcing transparency rules for ads around &quot;social issues, elections, or politics&quot; &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/230902/p4#a230902p4)
+ - [The Samsung Galaxy Watch 6’s sleep tracking is adorable but just alright](https://www.androidauthority.com/galaxy-watch-6-series-sleep-tracking-3357229/)
+ - [What Ever Happened to the Tiny House Movement?](https://www.wired.com/story/what-ever-happened-to-the-tiny-house-movement/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
