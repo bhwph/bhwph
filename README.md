@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What&#39;s this new occupation](http://9gag.com/gag/aeQyjxv)
- - 😝 [Squint and you&#39;ll be disappointed](http://9gag.com/gag/aEqywG9)
- - 👉 [I hate my life.](http://9gag.com/gag/anz8YPo)<!-- MEMES:END -->
+ - 6️⃣ [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)
+ - 😝 [I watched WATERWORLD many times, and always I thought that something is missing there. Now I watched this 3h version, GOD F**KING DAMN is this movie great! So, who f**ked it up in first place? Why wasn&#39;t this version in cinemas from the beginning? Who f**ked it up?](http://9gag.com/gag/aA0qrEp)
+ - 👉 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)<!-- MEMES:END -->
 
 --- 
 
