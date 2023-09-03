@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 15 Pro Could Soon Show Why Periscope Cameras Are Great     - CNET](https://www.cnet.com/tech/mobile/the-iphone-15-pro-could-soon-show-why-periscope-cameras-are-great/#ftag=CAD590a51e)
- - [Best Google Pixel Phone to Buy in 2023     - CNET](https://www.cnet.com/tech/mobile/best-google-pixel-phone-to-buy-in-2023/#ftag=CAD590a51e)
- - [I Visited Samsung&#39;s Home Turf to See if Foldable Phones Are Really the Future     - CNET](https://www.cnet.com/tech/mobile/features/are-foldables-phones-really-the-future-my-trip-to-samsungs-home-turf-gave-me-a-glimpse/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Disney blames Charter for the ESPN blackout](https://www.theverge.com/2023/9/3/23857501/disney-charter-spectrum-espn-blackout-cable-carriage-dispute)
+ - [Apple Vision Pro execs talk about developer headset accessibility](https://appleinsider.com/articles/23/09/03/apple-vision-pro-execs-talk-about-developer-headset-accessibility?utm_medium=rss)
+ - [Trade in your used iPhone, Apple Watch &amp; get bonus cash ahead of the Apple event](https://appleinsider.com/articles/23/09/03/trade-in-your-used-iphone-apple-watch-get-bonus-cash-ahead-of-the-apple-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
