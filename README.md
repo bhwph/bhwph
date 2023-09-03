@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve banned 90,000 smurf accounts from Dota 2—then got the main accounts too](https://www.pcgamer.com/valve-banned-90000-smurf-accounts-from-dota-2then-got-the-main-accounts-too)
- - [All Combat Log enemy locations in Armored Core 6: Fires of Rubicon](https://www.polygon.com/guides/23844949/armored-core-6-combat-logs-enemies-loghunts-locations)
- - [There&#39;s a way to steal things with a bucket in Starfield after all](https://www.pcgamer.com/theres-a-way-to-steal-things-with-a-bucket-in-starfield-after-all)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #806: Sunday, September 3](https://www.pcgamer.com/wordle-answer-today-hint-806-september-3)
+ - [Bethesda hired a noted modder to help with Starfield&#39;s clutter and lighting](https://www.pcgamer.com/bethesda-hired-a-noted-modder-to-help-with-starfields-clutter-and-lighting)
+ - [PSA: Shut down Armored Core 6 before putting your PC to sleep or risk your saves](https://www.pcgamer.com/psa-shut-down-armored-core-6-before-putting-your-pc-to-sleep-or-risk-your-saves)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
