@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)
- - 😝 [I watched WATERWORLD many times, and always I thought that something is missing there. Now I watched this 3h version, GOD F**KING DAMN is this movie great! So, who f**ked it up in first place? Why wasn&#39;t this version in cinemas from the beginning? Who f**ked it up?](http://9gag.com/gag/aA0qrEp)
- - 👉 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)<!-- MEMES:END -->
+ - 6️⃣ [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)
+ - 😝 [Starboring](http://9gag.com/gag/a8qQY2Z)
+ - 👉 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)<!-- MEMES:END -->
 
 --- 
 
