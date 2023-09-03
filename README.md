@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #806: Sunday, September 3](https://www.pcgamer.com/wordle-answer-today-hint-806-september-3)
- - [Bethesda hired a noted modder to help with Starfield&#39;s clutter and lighting](https://www.pcgamer.com/bethesda-hired-a-noted-modder-to-help-with-starfields-clutter-and-lighting)
- - [PSA: Shut down Armored Core 6 before putting your PC to sleep or risk your saves](https://www.pcgamer.com/psa-shut-down-armored-core-6-before-putting-your-pc-to-sleep-or-risk-your-saves)<!-- GAME:END -->
+ - [SAG-AFTRA is holding a vote to potentially strike against major videogame publishers](https://www.pcgamer.com/sag-aftra-is-holding-a-vote-to-potentially-strike-against-major-videogame-publishers)
+ - [Starfield companions list, crew members, and how to recruit them](https://www.polygon.com/starfield-guide/23853471/companion-crew-member-hire-recruit)
+ - [Man up all night playing Starfield saves his family from an apartment fire](https://www.pcgamer.com/man-up-all-night-playing-starfield-saves-his-family-from-an-apartment-fire)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
