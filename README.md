@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Number one customer](http://9gag.com/gag/aKEnznb)
- - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
- - 👉 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)<!-- MEMES:END -->
+ - 6️⃣ [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
+ - 😝 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
+ - 👉 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)<!-- MEMES:END -->
 
 --- 
 
