@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn founder Terry Gou resigns as a company board member due to &quot;personal reasons&quot;, less than a week after announcing a bid to be Taiwan&#39;s next president &lpar;Reuters&rpar;](http://www.techmeme.com/230903/p4#a230903p4)
- - [Senior YouTube staff express concerns over Shorts drawing away audiences from long-form videos, which produce more revenue but may be &quot;dying out&quot; as a format &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230903/p3#a230903p3)
- - [The SF Fire Department says two Cruise driverless taxis blocked an ambulance carrying a patient who later died at a hospital; Cruise claims it was not at fault &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/230903/p2#a230903p2)<!-- TECH:END -->
+ - [The iPhone 15 Pro Could Soon Show Why Periscope Cameras Are Great     - CNET](https://www.cnet.com/tech/mobile/the-iphone-15-pro-could-soon-show-why-periscope-cameras-are-great/#ftag=CAD590a51e)
+ - [Best Google Pixel Phone to Buy in 2023     - CNET](https://www.cnet.com/tech/mobile/best-google-pixel-phone-to-buy-in-2023/#ftag=CAD590a51e)
+ - [I Visited Samsung&#39;s Home Turf to See if Foldable Phones Are Really the Future     - CNET](https://www.cnet.com/tech/mobile/features/are-foldables-phones-really-the-future-my-trip-to-samsungs-home-turf-gave-me-a-glimpse/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
