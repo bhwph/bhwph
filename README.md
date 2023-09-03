@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)
- - 😝 [Starboring](http://9gag.com/gag/a8qQY2Z)
- - 👉 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)<!-- MEMES:END -->
+ - 6️⃣ [Number one customer](http://9gag.com/gag/aKEnznb)
+ - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
+ - 👉 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)<!-- MEMES:END -->
 
 --- 
 
