@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X updated its privacy policy to let the company use data X collects to train its AI models; Musk says X may use &quot;just public data, not DMs or anything private&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230902/p9#a230902p9)
- - [Burning Man access is closed as heavy rains muddy the playa](https://www.theverge.com/2023/9/2/23856894/burning-man-2023-mud-rain-playa-shelter-in-place)
- - [Best Internet Providers in Pittsburgh     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-pittsburgh-pa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Foxconn founder Terry Gou resigns as a company board member due to &quot;personal reasons&quot;, less than a week after announcing a bid to be Taiwan&#39;s next president &lpar;Reuters&rpar;](http://www.techmeme.com/230903/p4#a230903p4)
+ - [Senior YouTube staff express concerns over Shorts drawing away audiences from long-form videos, which produce more revenue but may be &quot;dying out&quot; as a format &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230903/p3#a230903p3)
+ - [The SF Fire Department says two Cruise driverless taxis blocked an ambulance carrying a patient who later died at a hospital; Cruise claims it was not at fault &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/230903/p2#a230903p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
