@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft PowerToys’ Crop and Lock lets you make mini app windows](https://www.theverge.com/2023/9/2/23856744/microsoft-windows-powertoys-crop-and-lock-feature)
- - [Standby Mode on the iPhone 14 Pro replaced my Google Nest Hub](https://www.androidauthority.com/iphone-standby-mode-vs-google-nest-hub-3359363/)
- - [8 Yoga Poses You Can Add to Your Bedtime Routine for Better Sleep     - CNET](https://www.cnet.com/health/sleep/8-yoga-poses-you-can-add-to-your-bedtime-routine-for-better-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X updated its privacy policy to let the company use data X collects to train its AI models; Musk says X may use &quot;just public data, not DMs or anything private&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230902/p9#a230902p9)
+ - [Burning Man access is closed as heavy rains muddy the playa](https://www.theverge.com/2023/9/2/23856894/burning-man-2023-mud-rain-playa-shelter-in-place)
+ - [Best Internet Providers in Pittsburgh     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-pittsburgh-pa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
