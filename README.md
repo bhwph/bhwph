@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to smuggle and sell contraband in Starfield](https://www.polygon.com/starfield-guide/23850749/smuggle-sell-contraband-patrolled-areas-cargo-upgrade)
- - [Netflix’s live-action One Piece shows the story is best as a slow burn](https://www.polygon.com/23852346/one-piece-live-action-netflix-adaptation)
- - [All Starfield factions and how to join them](https://www.polygon.com/starfield-guide/23856681/all-factions-list-best-faction-how-to-join)<!-- GAME:END -->
+ - [Valve banned 90,000 smurf accounts from Dota 2—then got the main accounts too](https://www.pcgamer.com/valve-banned-90000-smurf-accounts-from-dota-2then-got-the-main-accounts-too)
+ - [All Combat Log enemy locations in Armored Core 6: Fires of Rubicon](https://www.polygon.com/guides/23844949/armored-core-6-combat-logs-enemies-loghunts-locations)
+ - [There&#39;s a way to steal things with a bucket in Starfield after all](https://www.pcgamer.com/theres-a-way-to-steal-things-with-a-bucket-in-starfield-after-all)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
