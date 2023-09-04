@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Ayaneo Kun has a mode that delivers near twice the power of the ROG Ally handheld gaming PC](https://www.pcgamer.com/the-ayaneo-kun-has-a-mode-that-delivers-near-twice-the-power-of-the-rog-ally-handheld-gaming-pc)
- - [WoW Classic hardcore player feigns death for so long they actually die](https://www.pcgamer.com/wow-classic-hardcore-player-feigns-death-for-so-long-they-actually-die)
- - [Final Fantasy 16 is coming to PC after all — and there’s new story DLC on the way](https://www.polygon.com/23858225/final-fantasy-16-update-pc-version-dlc-announced)<!-- GAME:END -->
+ - [Drunk with power, modders have started putting Armored Cores in Elden Ring](https://www.pcgamer.com/drunk-with-power-modders-have-started-putting-armored-cores-in-elden-ring)
+ - [New Star Trek, Daryl’s Walking Dead spinoff, and more TV to watch this week](https://www.polygon.com/2023/9/4/23843393/new-tv-schedule-netflix-reality-walking-dead-daryl-dixon-star-trek)
+ - [Starfield gets the mod of mods, the granddaddy of them all: script extender](https://www.pcgamer.com/starfield-gets-the-mod-of-mods-the-granddaddy-of-them-all-script-extender)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
