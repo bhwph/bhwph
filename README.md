@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [SAG-AFTRA is holding a vote to potentially strike against major videogame publishers](https://www.pcgamer.com/sag-aftra-is-holding-a-vote-to-potentially-strike-against-major-videogame-publishers)
- - [Starfield companions list, crew members, and how to recruit them](https://www.polygon.com/starfield-guide/23853471/companion-crew-member-hire-recruit)
- - [Man up all night playing Starfield saves his family from an apartment fire](https://www.pcgamer.com/man-up-all-night-playing-starfield-saves-his-family-from-an-apartment-fire)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;September 4, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-4-2023)
+ - [After 28 years of service, Microsoft is killing WordPad](https://www.pcgamer.com/after-28-years-microsoft-is-killing-wordpad)
+ - [Starfield fans are already recreating some classic sci-fi ships](https://www.pcgamer.com/starfield-fans-classic-ships)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
