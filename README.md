@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [27 Best Labor Day Mattress and Sheet Deals: Hybrid Beds, Budget, Innerspring](https://www.wired.com/story/best-labor-day-mattress-deals-2023-2/)
- - [After ADL&#39;s CEO noted talking to X CEO Yaccarino last week, anti-Semitic X posts surged and #BanTheADL trended as Elon Musk replied to and liked far-right posts &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230903/p9#a230903p9)
- - [‘California Forever’ website touts the city tech billionaires are trying to build](https://www.theverge.com/2023/9/3/23857664/california-forever-tech-billionaire-secret-city)<!-- TECH:END -->
+ - [India’s IITs Are a Golden Ticket With a Dark Side](https://www.wired.com/story/indias-elite-tech-schools-are-a-golden-ticket-with-a-dark-side/)
+ - [New Pixel Buds Pro colors could be coming to Pixel fall launch](https://www.androidauthority.com/google-pixel-buds-pro-new-colors-3359239/)
+ - [Pixel 8, Pixel 8 Pro European prices leak for all storage versions](https://www.androidauthority.com/pixel-8-pixel-8-pro-prices-leak-3360776/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
