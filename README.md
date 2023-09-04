@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Omg, it\u2019s so true](http://9gag.com/gag/a6q4QeL)
- - 😝 [Cute dress](http://9gag.com/gag/aVb4epO)
- - 👉 [Is this fair?](http://9gag.com/gag/az2oj6K)<!-- MEMES:END -->
+ - 6️⃣ [Horse girl stuff](http://9gag.com/gag/aOxAzVD)
+ - 😝 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
+ - 👉 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)<!-- MEMES:END -->
 
 --- 
 
