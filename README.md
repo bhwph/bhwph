@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You know the rules.](http://9gag.com/gag/ajVGnQx)
- - 😝 [Title](http://9gag.com/gag/aDYr0eK)
+ - 6️⃣ [Just a heads-up](http://9gag.com/gag/aBdjreP)
+ - 😝 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)
  - 👉 [Confiscator](http://9gag.com/gag/aXnQX6b)<!-- MEMES:END -->
 
 --- 
