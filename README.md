@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s OLED iPad Pro revamp could gain 4TB option, claims dubious rumor](https://appleinsider.com/articles/23/09/04/apples-oled-ipad-pro-revamp-could-gain-4tb-option-claims-dubious-rumor?utm_medium=rss)
- - [Spotify is reportedly limiting ad payouts for white noise podcasters](https://www.theverge.com/2023/9/4/23858268/spotify-ambient-white-noise-podcasts-ad-revenue-crackdown)
- - [A first look at Atmos FlexConnect, Dolby’s latest attempt to fix bad TV audio](https://www.theverge.com/2023/9/4/23858244/dolby-atmos-flexconnect-hands-on-tcl-spatial-audio-speakers)<!-- TECH:END -->
+ - [Razer&#39;s Compact BlackWidow V3 Mechanical Keyboard Is 45% Off at Amazon     - CNET](https://www.cnet.com/deals/razers-compact-blackwidow-v3-mechanical-keyboard-is-45-off-at-amazon/#ftag=CAD590a51e)
+ - [8 Back-to-School College Essentials to Keep in Your Backpack     - CNET](https://www.cnet.com/news/8-back-to-school-college-essentials-to-keep-in-your-backpack/#ftag=CAD590a51e)
+ - [Climate Change Has Finally Come For Burning Man](https://www.wired.com/story/climate-change-has-finally-come-for-burning-man/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
