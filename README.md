@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #807: Monday, September 4](https://www.pcgamer.com/wordle-answer-today-hint-807-september-4)
- - [NYT Connections puzzle hint and answer for Monday, September 4 &lpar;#85&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answer-for-monday-september-4-84)
- - [Five new Steam games you probably missed &lpar;September 4, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-4-2023)<!-- GAME:END -->
+ - [The Ayaneo Kun has a mode that delivers near twice the power of the ROG Ally handheld gaming PC](https://www.pcgamer.com/the-ayaneo-kun-has-a-mode-that-delivers-near-twice-the-power-of-the-rog-ally-handheld-gaming-pc)
+ - [WoW Classic hardcore player feigns death for so long they actually die](https://www.pcgamer.com/wow-classic-hardcore-player-feigns-death-for-so-long-they-actually-die)
+ - [Final Fantasy 16 is coming to PC after all — and there’s new story DLC on the way](https://www.polygon.com/23858225/final-fantasy-16-update-pc-version-dlc-announced)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
