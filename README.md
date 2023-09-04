@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a heads-up](http://9gag.com/gag/aBdjreP)
- - 😝 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)
- - 👉 [Confiscator](http://9gag.com/gag/aXnQX6b)<!-- MEMES:END -->
+ - 6️⃣ [Omg, it\u2019s so true](http://9gag.com/gag/a6q4QeL)
+ - 😝 [Cute dress](http://9gag.com/gag/aVb4epO)
+ - 👉 [Is this fair?](http://9gag.com/gag/az2oj6K)<!-- MEMES:END -->
 
 --- 
 
