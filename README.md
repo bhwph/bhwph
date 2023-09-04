@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
- - 😝 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
- - 👉 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)<!-- MEMES:END -->
+ - 6️⃣ [You know the rules.](http://9gag.com/gag/ajVGnQx)
+ - 😝 [Title](http://9gag.com/gag/aDYr0eK)
+ - 👉 [Confiscator](http://9gag.com/gag/aXnQX6b)<!-- MEMES:END -->
 
 --- 
 
