@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk threatens to file a defamation suit against the ADL for &quot;falsely accusing&quot; X and him of being antisemitic, and blames the ADL for X&#39;s US ad sales drop &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230904/p15#a230904p15)
- - [Report: Meta has partnered with LG to launch a new Quest Pro in 2025 to compete with Apple&#39;s Vision Pro; Meta also plans to release a sub-$200 headset in 2024 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230904/p14#a230904p14)
- - [Apple and Microsoft reportedly want iMessage and Bing off the EU’s tech ‘gatekeeper’ list](https://www.theverge.com/2023/9/4/23858948/eu-microsoft-apple-bing-imessage-dma-gatekeepers-list-dispute)<!-- TECH:END -->
+ - [Apple Music acquires famed classical label BIS](https://appleinsider.com/articles/23/09/05/apple-music-acquires-famed-classical-label-bis?utm_medium=rss)
+ - [Israel-based Upwind, which helps detect and counter cloud infrastructure threats, raised $50M led by Greylock at a $300M valuation, taking its funding to $80M &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/230905/p13#a230905p13)
+ - [Apple arguing iMessage isn&#39;t big enough to be EU gatekeeper service](https://appleinsider.com/articles/23/09/04/apple-allegedly-arguing-imessage-isnt-big-enough-to-be-eu-gatekeeper-service?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
