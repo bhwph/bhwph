@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Have a good day man!](http://9gag.com/gag/aqeBrvQ)
- - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 👉 [Horse girl stuff](http://9gag.com/gag/aOxAzVD)<!-- MEMES:END -->
+ - 6️⃣ [Billionaires asking money is disgusting. Oprah and The Rock hire private firemen.](http://9gag.com/gag/aEqyBPo)
+ - 😝 [HAve A nICe DaY!](http://9gag.com/gag/awZPX7r)
+ - 👉 [It took me a bit to get this one...](http://9gag.com/gag/aDYrxVN)<!-- MEMES:END -->
 
 --- 
 
