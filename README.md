@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Contra-like is a celebration of spread guns and gnarly flesh](https://www.pcgamer.com/this-contra-like-is-a-celebration-of-spread-guns-and-gnarly-flesh)
- - [Check out the demo for this slimy survival horror and its reckless disregard for the rules of game point-of-view](https://www.pcgamer.com/check-out-the-demo-for-this-slimy-survival-horror-and-its-reckless-disregard-for-the-rules-of-game-point-of-view)
- - [Item description reveals Starfield as a dark future without Labrador retrievers](https://www.pcgamer.com/item-description-reveals-starfield-as-a-dark-future-without-labrador-retrievers)<!-- GAME:END -->
+ - [Everyone’s horniness in launch Baldur’s Gate 3 was a bug, not a feature](https://www.polygon.com/23858507/baldurs-gate-3-horny-bug-gale)
+ - [A $5 Starfield mod to enable DLSS Frame Generation has been cracked to remove modder&#39;s DRM](https://www.pcgamer.com/a-dollar5-starfield-mod-to-enable-dlss-frame-generation-has-been-cracked-to-remove-modders-drm)
+ - [How to complete the Free the Artist quest in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-free-the-artist-portrait)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
