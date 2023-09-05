@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Horse girl stuff](http://9gag.com/gag/aOxAzVD)
- - 😝 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
- - 👉 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)<!-- MEMES:END -->
+ - 6️⃣ [Have a good day man!](http://9gag.com/gag/aqeBrvQ)
+ - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
+ - 👉 [Horse girl stuff](http://9gag.com/gag/aOxAzVD)<!-- MEMES:END -->
 
 --- 
 
