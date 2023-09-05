@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer&#39;s Compact BlackWidow V3 Mechanical Keyboard Is 45% Off at Amazon     - CNET](https://www.cnet.com/deals/razers-compact-blackwidow-v3-mechanical-keyboard-is-45-off-at-amazon/#ftag=CAD590a51e)
- - [8 Back-to-School College Essentials to Keep in Your Backpack     - CNET](https://www.cnet.com/news/8-back-to-school-college-essentials-to-keep-in-your-backpack/#ftag=CAD590a51e)
- - [Climate Change Has Finally Come For Burning Man](https://www.wired.com/story/climate-change-has-finally-come-for-burning-man/)<!-- TECH:END -->
+ - [Elon Musk threatens to file a defamation suit against the ADL for &quot;falsely accusing&quot; X and him of being antisemitic, and blames the ADL for X&#39;s US ad sales drop &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230904/p15#a230904p15)
+ - [Report: Meta has partnered with LG to launch a new Quest Pro in 2025 to compete with Apple&#39;s Vision Pro; Meta also plans to release a sub-$200 headset in 2024 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230904/p14#a230904p14)
+ - [Apple and Microsoft reportedly want iMessage and Bing off the EU’s tech ‘gatekeeper’ list](https://www.theverge.com/2023/9/4/23858948/eu-microsoft-apple-bing-imessage-dma-gatekeepers-list-dispute)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
