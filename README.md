@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music acquires famed classical label BIS](https://appleinsider.com/articles/23/09/05/apple-music-acquires-famed-classical-label-bis?utm_medium=rss)
- - [Israel-based Upwind, which helps detect and counter cloud infrastructure threats, raised $50M led by Greylock at a $300M valuation, taking its funding to $80M &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/230905/p13#a230905p13)
- - [Apple arguing iMessage isn&#39;t big enough to be EU gatekeeper service](https://appleinsider.com/articles/23/09/04/apple-allegedly-arguing-imessage-isnt-big-enough-to-be-eu-gatekeeper-service?utm_medium=rss)<!-- TECH:END -->
+ - [Harmonya, which offers software to help retail and consumer packaged goods companies decipher their product data, raised a $20M Series A led by Bright Pixel &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230905/p36#a230905p36)
+ - [Apple signs new agreement with Arm that goes past 2040](https://www.theverge.com/2023/9/5/23860697/apple-arm-agreement-2040)
+ - [Here’s Google CEO Sundar Pichai’s public memo on Google at 25](https://www.theverge.com/2023/9/5/23860683/google-25-memo-sundar-pichai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
