@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to get rid of nuclear waste in Finland \ud83c\uddeb\ud83c\uddee](http://9gag.com/gag/adPr9DM)
- - 😝 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)
- - 👉 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)<!-- MEMES:END -->
+ - 6️⃣ [If she was from any other country doing same things to american citizens, US would have been seeking death penalty](http://9gag.com/gag/aZDom3V)
+ - 😝 [Who are you??](http://9gag.com/gag/aMED876)
+ - 👉 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)<!-- MEMES:END -->
 
 --- 
 
