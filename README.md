@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What do the names of bestselling Steam games have in common? Words like Manager, Tycoon, Remastered, and HD](https://www.pcgamer.com/what-do-the-names-of-bestselling-steam-games-have-in-common-words-like-manager-tycoon-remastered-and-hd)
- - [How to assign crew to ships and outposts in Starfield](https://www.polygon.com/starfield-guide/23860449/how-to-assign-crew-members-ships-outposts)
- - [Starfield player stuffs thousands of potatoes into a room to marvel at how much better Bethesda&#39;s physics have gotten](https://www.pcgamer.com/starfield-player-stuffs-thousands-of-potatoes-into-a-room-to-marvel-at-how-much-better-bethesdas-physics-have-gotten)<!-- GAME:END -->
+ - [Remnant 2 will get a &#39;potato mode&#39; soon, alongside other quality of life improvements](https://www.pcgamer.com/remnant-2-will-get-a-potato-mode-soon-alongside-other-quality-of-life-improvements)
+ - [Blizzard bigwig seems to offhandedly confirm Diablo 4 is adopting Destiny&#39;s expansion model](https://www.pcgamer.com/blizzard-bigwig-seems-to-offhandedly-confirm-diablo-4-is-adopting-destinys-expansion-model)
+ - [How to find the Apollo Landing site in Starfield](https://www.pcgamer.com/starfield-apollo-landing-site)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
