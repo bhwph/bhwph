@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Harmonya, which offers software to help retail and consumer packaged goods companies decipher their product data, raised a $20M Series A led by Bright Pixel &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230905/p36#a230905p36)
- - [Apple signs new agreement with Arm that goes past 2040](https://www.theverge.com/2023/9/5/23860697/apple-arm-agreement-2040)
- - [Here’s Google CEO Sundar Pichai’s public memo on Google at 25](https://www.theverge.com/2023/9/5/23860683/google-25-memo-sundar-pichai)<!-- TECH:END -->
+ - [Apple&#39;s iMessage gets a reprieve from EU digital gatekeeper law](https://appleinsider.com/articles/23/09/06/apples-imessage-gets-a-reprieve-from-eu-law?utm_medium=rss)
+ - [d-Matrix, which designs chips aimed at the &quot;inference&quot; part of AI processing, raised a $110M Series B led by Temasek, taking its total funding to $154M &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/230906/p21#a230906p21)
+ - [A profile of Kent Walker, Google&#39;s top lawyer, who helped negotiate the 2013 FTC settlement, as Google prepares to defend itself against DOJ antitrust claims &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/230906/p20#a230906p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
