@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone’s horniness in launch Baldur’s Gate 3 was a bug, not a feature](https://www.polygon.com/23858507/baldurs-gate-3-horny-bug-gale)
- - [A $5 Starfield mod to enable DLSS Frame Generation has been cracked to remove modder&#39;s DRM](https://www.pcgamer.com/a-dollar5-starfield-mod-to-enable-dlss-frame-generation-has-been-cracked-to-remove-modders-drm)
- - [How to complete the Free the Artist quest in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-free-the-artist-portrait)<!-- GAME:END -->
+ - [What do the names of bestselling Steam games have in common? Words like Manager, Tycoon, Remastered, and HD](https://www.pcgamer.com/what-do-the-names-of-bestselling-steam-games-have-in-common-words-like-manager-tycoon-remastered-and-hd)
+ - [How to assign crew to ships and outposts in Starfield](https://www.polygon.com/starfield-guide/23860449/how-to-assign-crew-members-ships-outposts)
+ - [Starfield player stuffs thousands of potatoes into a room to marvel at how much better Bethesda&#39;s physics have gotten](https://www.pcgamer.com/starfield-player-stuffs-thousands-of-potatoes-into-a-room-to-marvel-at-how-much-better-bethesdas-physics-have-gotten)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
