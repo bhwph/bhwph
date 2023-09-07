@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If she was from any other country doing same things to american citizens, US would have been seeking death penalty](http://9gag.com/gag/aZDom3V)
- - 😝 [Who are you??](http://9gag.com/gag/aMED876)
- - 👉 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)<!-- MEMES:END -->
+ - 6️⃣ [What a lovely man](http://9gag.com/gag/aDYrgOO)
+ - 😝 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
+ - 👉 [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)<!-- MEMES:END -->
 
 --- 
 
