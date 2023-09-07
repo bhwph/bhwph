@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Remnant 2 will get a &#39;potato mode&#39; soon, alongside other quality of life improvements](https://www.pcgamer.com/remnant-2-will-get-a-potato-mode-soon-alongside-other-quality-of-life-improvements)
- - [Blizzard bigwig seems to offhandedly confirm Diablo 4 is adopting Destiny&#39;s expansion model](https://www.pcgamer.com/blizzard-bigwig-seems-to-offhandedly-confirm-diablo-4-is-adopting-destinys-expansion-model)
- - [How to find the Apollo Landing site in Starfield](https://www.pcgamer.com/starfield-apollo-landing-site)<!-- GAME:END -->
+ - [They found him: Bethesda&#39;s most prolific voice actor returns in Starfield](https://www.pcgamer.com/they-found-him-bethesdas-most-prolific-voice-actor-returns-in-starfield)
+ - [Boundary broken: Starfield sleuths bypass invisible walls, prove planet tiles are connected like No Man&#39;s Sky](https://www.pcgamer.com/boundary-broken-starfield-sleuths-bypass-invisible-walls-prove-planet-tiles-are-connected-like-no-mans-sky)
+ - [The best ships in Starfield](https://www.polygon.com/starfield-guide/23862276/best-ships-shieldbreaker-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
