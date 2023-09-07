@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based Ibex Medical Analytics, which uses AI for cancer diagnostics, raised a $55M Series C led by 83North, bringing its total funding to $100M+ &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230906/p42#a230906p42)
- - [iPhone 15 dummy models provide real life look at new, muted colors](https://appleinsider.com/articles/23/09/07/iphone-15-dummy-models-provide-real-life-look-at-new-muted-colors?utm_medium=rss)
- - [The CWA files charges with the US NLRB against Grindr, alleging the company laid off 82 workers, or 46% of its staff, for rejecting a return-to-office mandate &lpar;Caitlin Harrington/Wired&rpar;](http://www.techmeme.com/230906/p41#a230906p41)<!-- TECH:END -->
+ - [The Galaxy Z Fold 5 Thom Browne Edition is a bold new look for the foldable](https://www.androidauthority.com/samsung-galaxy-z-fold-5-thom-browne-edition-3361873/)
+ - [A test of ChatGPT&#39;s ability to respond in underrepresented languages like Bengali and Kurdish found translation errors, fabricated words, and illogical answers &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/230907/p8#a230907p8)
+ - [From battery to titanium design, Galaxy S24 Ultra leak reveals key specs](https://www.androidauthority.com/samsung-galaxy-s24-ultra-specs-leak-3361427/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
