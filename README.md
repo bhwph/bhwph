@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #810: Thursday, September 7](https://www.pcgamer.com/wordle-answer-today-hint-810-september-7)
- - [NYT Connections puzzle hint and answers for Thursday, September 7 &lpar;#88&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-thursday-september-7-88)
- - [They found him: Bethesda&#39;s most prolific voice actor returns in Starfield](https://www.pcgamer.com/they-found-him-bethesdas-most-prolific-voice-actor-returns-in-starfield)<!-- GAME:END -->
+ - [Netflix’s One Piece owes so much to actor Iñaki Godoy’s take on Luffy](https://www.polygon.com/23861914/one-piece-luffy-actor-inaki-godoy-cast-netflix)
+ - [Starfield’s Intricate Physics Are Blowing Fans’ Minds](https://kotaku.com/starfield-physics-open-world-rpg-bethesda-xbox-1850813531)
+ - [Castlevania: Nocturne’s trailer reboots the Netflix series without Warren Ellis](https://www.polygon.com/23862968/castlevania-nocturne-trailer-september-premiere-warren-ellis)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
