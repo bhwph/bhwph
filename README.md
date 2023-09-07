@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iMessage gets a reprieve from EU digital gatekeeper law](https://appleinsider.com/articles/23/09/06/apples-imessage-gets-a-reprieve-from-eu-law?utm_medium=rss)
- - [d-Matrix, which designs chips aimed at the &quot;inference&quot; part of AI processing, raised a $110M Series B led by Temasek, taking its total funding to $154M &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/230906/p21#a230906p21)
- - [A profile of Kent Walker, Google&#39;s top lawyer, who helped negotiate the 2013 FTC settlement, as Google prepares to defend itself against DOJ antitrust claims &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/230906/p20#a230906p20)<!-- TECH:END -->
+ - [Tel Aviv-based Ibex Medical Analytics, which uses AI for cancer diagnostics, raised a $55M Series C led by 83North, bringing its total funding to $100M+ &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230906/p42#a230906p42)
+ - [iPhone 15 dummy models provide real life look at new, muted colors](https://appleinsider.com/articles/23/09/07/iphone-15-dummy-models-provide-real-life-look-at-new-muted-colors?utm_medium=rss)
+ - [The CWA files charges with the US NLRB against Grindr, alleging the company laid off 82 workers, or 46% of its staff, for rejecting a return-to-office mandate &lpar;Caitlin Harrington/Wired&rpar;](http://www.techmeme.com/230906/p41#a230906p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
