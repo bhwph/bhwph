@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Fold 5 Thom Browne Edition is a bold new look for the foldable](https://www.androidauthority.com/samsung-galaxy-z-fold-5-thom-browne-edition-3361873/)
- - [A test of ChatGPT&#39;s ability to respond in underrepresented languages like Bengali and Kurdish found translation errors, fabricated words, and illogical answers &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/230907/p8#a230907p8)
- - [From battery to titanium design, Galaxy S24 Ultra leak reveals key specs](https://www.androidauthority.com/samsung-galaxy-s24-ultra-specs-leak-3361427/)<!-- TECH:END -->
+ - [The ESA says it will not work with organizer ReedPop on future E3 events and informs the LA Convention Center that 2024&#39;s E3 will not be held at the center &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/230907/p29#a230907p29)
+ - [This is the cheapest way to pick up the Sonos One &lpar;Gen 2&rpar;](https://www.androidauthority.com/sonos-one-gen-2-deal-3362052/)
+ - [The founders of shuttered AV startup Argo AI launch Stack AV, an autonomous trucking startup, a Pittsburgh official estimates with $1B+ funding from SoftBank &lpar;Bloomberg&rpar;](http://www.techmeme.com/230907/p28#a230907p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
