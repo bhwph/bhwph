@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Girl gets arrested for drunk driving and expects her father &lpar;who\u2019s a sheriff&rpar; to help.](http://9gag.com/gag/a6q4qRN)
- - 😝 [For all the hater.. 10/10 fix](http://9gag.com/gag/a8qQq7e)
- - 👉 [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)<!-- MEMES:END -->
+ - 6️⃣ [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)
+ - 😝 [`Jump, jump!`](http://9gag.com/gag/a9qZn81)
+ - 👉 [Every russian still being silent is responsible. Every company still doing business with Russia is responsible. Ukraine today, missile attack on local market. Just sad.](http://9gag.com/gag/aL1Vpy6)<!-- MEMES:END -->
 
 --- 
 
