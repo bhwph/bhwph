@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)
- - 😝 [`Jump, jump!`](http://9gag.com/gag/a9qZn81)
- - 👉 [Every russian still being silent is responsible. Every company still doing business with Russia is responsible. Ukraine today, missile attack on local market. Just sad.](http://9gag.com/gag/aL1Vpy6)<!-- MEMES:END -->
+ - 6️⃣ [LOL! Their reactions when the journalist questions about the lack of diversity in their movie.](http://9gag.com/gag/a2K9M9O)
+ - 😝 [Things that are](http://9gag.com/gag/a4omEqZ)
+ - 👉 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)<!-- MEMES:END -->
 
 --- 
 
