@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An excerpt from Walter Isaacson&#39;s Elon Musk biography says Musk cut off Starlink internet service access to disrupt a Ukrainian sneak attack on a Russian fleet &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/230907/p44#a230907p44)
- - [Valve’s next mystery gadget may be imminent](https://www.theverge.com/2023/9/7/23863862/valve-galileo-sephiroth-1030-south-korea-radio-certification)
- - [TikTok&#39;s Shop marketplace goes live for some US users, presenting a feed of &quot;recommended&quot; random products, including several counterfeit Chinese goods &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230907/p43#a230907p43)<!-- TECH:END -->
+ - [Similarweb: ChatGPT&#39;s desktop and mobile website visits fell 3.2% MoM to 1.43B in August, following 10% drops from each of the previous two months &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/230908/p3#a230908p3)
+ - [iPhone 15 release date: When will it be available?](https://www.androidauthority.com/iphone-15-release-date-3345850/)
+ - [The iPhone 15 Pro Max could become the most expensive iPhone ever](https://www.androidauthority.com/apple-iphone-15-pro-max-leaked-prices-3362289/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
