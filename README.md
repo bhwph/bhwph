@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The RØDE Streamer X is the ultimate all-in-one streaming platform](https://www.pcgamer.com/the-rode-streamer-x-is-the-ultimate-all-in-one-streaming-platform)
- - [&lpar;For Southeast Asia&rpar; PlayStation Stars campaigns and digital collectibles for September 2023](https://blog.playstation.com/2023/09/07/20230907-psstars/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Stars campaigns and digital collectibles for September 2023](https://blog.playstation.com/2023/09/07/20230907-psstars/)<!-- GAME:END -->
+ - [I’ll miss the Baldur’s Gate 3 where Gale was a horny disaster man](https://www.polygon.com/23863221/baldurs-gate-3-gale-romance-bug-awkward-moments)
+ - [US Open Star Coco Gauff Celebrated Reaching Finals By Watching My Hero Academia](https://kotaku.com/coco-gauff-us-open-finals-anime-my-hero-academia-tennis-1850818277)
+ - [Goosebumps returns to its horror roots with an all-new series this October](https://www.polygon.com/23864498/goosebumps-series-teaser-trailer-premiere-date-disney-plus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
