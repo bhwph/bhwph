@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Similarweb: ChatGPT&#39;s desktop and mobile website visits fell 3.2% MoM to 1.43B in August, following 10% drops from each of the previous two months &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/230908/p3#a230908p3)
- - [iPhone 15 release date: When will it be available?](https://www.androidauthority.com/iphone-15-release-date-3345850/)
- - [The iPhone 15 Pro Max could become the most expensive iPhone ever](https://www.androidauthority.com/apple-iphone-15-pro-max-leaked-prices-3362289/)<!-- TECH:END -->
+ - [Ant Group unveils a financial LLM for wealth management and insurance services, powering two tools: Zhixiaobao, for consumers, and Zhixiaozhu, for professionals &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/230908/p15#a230908p15)
+ - [The world’s first climate change report card is in](https://www.theverge.com/2023/9/8/23864365/united-nations-climate-change-report-card-global-stocktake)
+ - [SpaceX’s next Starship launch is on hold as FAA lists 63 ‘corrective actions’ needed](https://www.theverge.com/2023/9/8/23864393/spacex-starship-orbital-flight-test-faa-hold)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
