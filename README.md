@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ESA says it will not work with organizer ReedPop on future E3 events and informs the LA Convention Center that 2024&#39;s E3 will not be held at the center &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/230907/p29#a230907p29)
- - [This is the cheapest way to pick up the Sonos One &lpar;Gen 2&rpar;](https://www.androidauthority.com/sonos-one-gen-2-deal-3362052/)
- - [The founders of shuttered AV startup Argo AI launch Stack AV, an autonomous trucking startup, a Pittsburgh official estimates with $1B+ funding from SoftBank &lpar;Bloomberg&rpar;](http://www.techmeme.com/230907/p28#a230907p28)<!-- TECH:END -->
+ - [An excerpt from Walter Isaacson&#39;s Elon Musk biography says Musk cut off Starlink internet service access to disrupt a Ukrainian sneak attack on a Russian fleet &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/230907/p44#a230907p44)
+ - [Valve’s next mystery gadget may be imminent](https://www.theverge.com/2023/9/7/23863862/valve-galileo-sephiroth-1030-south-korea-radio-certification)
+ - [TikTok&#39;s Shop marketplace goes live for some US users, presenting a feed of &quot;recommended&quot; random products, including several counterfeit Chinese goods &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230907/p43#a230907p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
