@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tokyo Game Show 2023: Xbox Digital Broadcast Returns](https://news.xbox.com/en-us/2023/09/07/xbox-tokyo-game-show-2023/)
- - [Nobody asked, but this Starfield modder delivered—here&#39;s the most innocent companion as Thomas the Tank Engine](https://www.pcgamer.com/nobody-asked-but-this-starfield-modder-deliveredheres-the-most-innocent-companion-as-thomas-the-tank-engine)
- - [Watch the animated adventures of Baldur&#39;s Gate 3 continue as they travel from the land of &#39;Earlay Axes&#39; to the region of &#39;L&#39;awnch&#39;](https://www.pcgamer.com/watch-the-animated-adventures-of-baldurs-gate-3-continue-as-they-travel-from-the-land-of-earlay-axes-to-the-region-of-lawnch)<!-- GAME:END -->
+ - [The RØDE Streamer X is the ultimate all-in-one streaming platform](https://www.pcgamer.com/the-rode-streamer-x-is-the-ultimate-all-in-one-streaming-platform)
+ - [&lpar;For Southeast Asia&rpar; PlayStation Stars campaigns and digital collectibles for September 2023](https://blog.playstation.com/2023/09/07/20230907-psstars/)
+ - [&lpar;For Southeast Asia&rpar; PlayStation Stars campaigns and digital collectibles for September 2023](https://blog.playstation.com/2023/09/07/20230907-psstars/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
