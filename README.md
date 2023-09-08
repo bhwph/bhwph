@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [DO NOT REDEEM IT MAM](http://9gag.com/gag/a3ZewA8)
- - 😝 [What a lovely man](http://9gag.com/gag/aDYrgOO)
- - 👉 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)<!-- MEMES:END -->
+ - 6️⃣ [Girl gets arrested for drunk driving and expects her father &lpar;who\u2019s a sheriff&rpar; to help.](http://9gag.com/gag/a6q4qRN)
+ - 😝 [For all the hater.. 10/10 fix](http://9gag.com/gag/a8qQq7e)
+ - 👉 [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)<!-- MEMES:END -->
 
 --- 
 
