@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s One Piece owes so much to actor Iñaki Godoy’s take on Luffy](https://www.polygon.com/23861914/one-piece-luffy-actor-inaki-godoy-cast-netflix)
- - [Starfield’s Intricate Physics Are Blowing Fans’ Minds](https://kotaku.com/starfield-physics-open-world-rpg-bethesda-xbox-1850813531)
- - [Castlevania: Nocturne’s trailer reboots the Netflix series without Warren Ellis](https://www.polygon.com/23862968/castlevania-nocturne-trailer-september-premiere-warren-ellis)<!-- GAME:END -->
+ - [Tokyo Game Show 2023: Xbox Digital Broadcast Returns](https://news.xbox.com/en-us/2023/09/07/xbox-tokyo-game-show-2023/)
+ - [Nobody asked, but this Starfield modder delivered—here&#39;s the most innocent companion as Thomas the Tank Engine](https://www.pcgamer.com/nobody-asked-but-this-starfield-modder-deliveredheres-the-most-innocent-companion-as-thomas-the-tank-engine)
+ - [Watch the animated adventures of Baldur&#39;s Gate 3 continue as they travel from the land of &#39;Earlay Axes&#39; to the region of &#39;L&#39;awnch&#39;](https://www.pcgamer.com/watch-the-animated-adventures-of-baldurs-gate-3-continue-as-they-travel-from-the-land-of-earlay-axes-to-the-region-of-lawnch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
