@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [LOL! Their reactions when the journalist questions about the lack of diversity in their movie.](http://9gag.com/gag/a2K9M9O)
- - 😝 [Things that are](http://9gag.com/gag/a4omEqZ)
- - 👉 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)<!-- MEMES:END -->
+ - 6️⃣ [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
+ - 😝 [Now this is poetic and satisfying](http://9gag.com/gag/aWGPLe3)
+ - 👉 [Lol](http://9gag.com/gag/ago6oRn)<!-- MEMES:END -->
 
 --- 
 
