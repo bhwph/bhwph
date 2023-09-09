@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I’ll miss the Baldur’s Gate 3 where Gale was a horny disaster man](https://www.polygon.com/23863221/baldurs-gate-3-gale-romance-bug-awkward-moments)
- - [US Open Star Coco Gauff Celebrated Reaching Finals By Watching My Hero Academia](https://kotaku.com/coco-gauff-us-open-finals-anime-my-hero-academia-tennis-1850818277)
- - [Goosebumps returns to its horror roots with an all-new series this October](https://www.polygon.com/23864498/goosebumps-series-teaser-trailer-premiere-date-disney-plus)<!-- GAME:END -->
+ - [&#39;I&#39;m sorry you&#39;re like this, I wish you weren&#39;t&#39;: Starfield voice actor reacts to console war discourse busting down his digital door](https://www.pcgamer.com/im-sorry-youre-like-this-i-wish-you-werent-starfield-voice-actor-reacts-to-console-war-discourse-busting-down-his-digital-door)
+ - [Runescape community claims &#39;supreme victory&#39; as developer apologizes and cuts pay-to-win features from hated battle pass](https://www.pcgamer.com/runescape-community-claims-supreme-victory-as-developer-apologizes-and-cuts-pay-to-win-features-from-hated-battle-pass)
+ - [I&#39;m finally enjoying Starfield&#39;s combat after giving guns a giant buff](https://www.pcgamer.com/im-finally-enjoying-starfields-combat-after-giving-guns-a-giant-buff)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
