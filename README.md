@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I&#39;m sorry you&#39;re like this, I wish you weren&#39;t&#39;: Starfield voice actor reacts to console war discourse busting down his digital door](https://www.pcgamer.com/im-sorry-youre-like-this-i-wish-you-werent-starfield-voice-actor-reacts-to-console-war-discourse-busting-down-his-digital-door)
- - [Runescape community claims &#39;supreme victory&#39; as developer apologizes and cuts pay-to-win features from hated battle pass](https://www.pcgamer.com/runescape-community-claims-supreme-victory-as-developer-apologizes-and-cuts-pay-to-win-features-from-hated-battle-pass)
- - [I&#39;m finally enjoying Starfield&#39;s combat after giving guns a giant buff](https://www.pcgamer.com/im-finally-enjoying-starfields-combat-after-giving-guns-a-giant-buff)<!-- GAME:END -->
+ - [Starfield ‘Into the Unknown’ quest walkthrough, how to ‘follow distortions on the scanner’](https://www.polygon.com/starfield-guide/23842996/into-the-unknown-walkthrough)
+ - [Today&#39;s Wordle hint and answer #812: Saturday, September 9](https://www.pcgamer.com/wordle-answer-today-hint-812-september-9)
+ - [NYT Connections puzzle hint and answers for Saturday, September 9 &lpar;#90&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-saturday-september-9-90)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
