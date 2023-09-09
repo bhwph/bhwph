@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ant Group unveils a financial LLM for wealth management and insurance services, powering two tools: Zhixiaobao, for consumers, and Zhixiaozhu, for professionals &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/230908/p15#a230908p15)
- - [The world’s first climate change report card is in](https://www.theverge.com/2023/9/8/23864365/united-nations-climate-change-report-card-global-stocktake)
- - [SpaceX’s next Starship launch is on hold as FAA lists 63 ‘corrective actions’ needed](https://www.theverge.com/2023/9/8/23864393/spacex-starship-orbital-flight-test-faa-hold)<!-- TECH:END -->
+ - [Reddit can now translate posts into eight languages, including Spanish and French, when viewing them on its mobile apps or on the web while logged out &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230908/p28#a230908p28)
+ - [Your Wyze webcam might have let other owners peek into your house](https://www.theverge.com/2023/9/8/23865255/wyze-security-camera-feeds-web-view-issue)
+ - [The Best Blood Pressure Monitors     - CNET](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
