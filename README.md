@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
- - 😝 [Now this is poetic and satisfying](http://9gag.com/gag/aWGPLe3)
- - 👉 [Lol](http://9gag.com/gag/ago6oRn)<!-- MEMES:END -->
+ - 6️⃣ [Pepsi inside](http://9gag.com/gag/aKEnv81)
+ - 😝 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
+ - 👉 [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)<!-- MEMES:END -->
 
 --- 
 
