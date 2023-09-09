@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield ‘Into the Unknown’ quest walkthrough, how to ‘follow distortions on the scanner’](https://www.polygon.com/starfield-guide/23842996/into-the-unknown-walkthrough)
- - [Today&#39;s Wordle hint and answer #812: Saturday, September 9](https://www.pcgamer.com/wordle-answer-today-hint-812-september-9)
- - [NYT Connections puzzle hint and answers for Saturday, September 9 &lpar;#90&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-saturday-september-9-90)<!-- GAME:END -->
+ - [Starfield makes space travel feel way too safe](https://www.polygon.com/23864881/space-exploration-sci-fi-games-outer-wilds-metroid)
+ - [For the best Starfield experience, don&#39;t blow up enemy ships: board them](https://www.pcgamer.com/for-the-best-starfield-experience-dont-blow-up-enemy-ships-board-them)
+ - [Margot Robbie knew Harley Quinn’s potential, and an amazing new DC comic proves it](https://www.polygon.com/23859741/harley-quinn-birds-of-prey-comic-art-1-dc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
