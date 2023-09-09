@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit can now translate posts into eight languages, including Spanish and French, when viewing them on its mobile apps or on the web while logged out &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230908/p28#a230908p28)
- - [Your Wyze webcam might have let other owners peek into your house](https://www.theverge.com/2023/9/8/23865255/wyze-security-camera-feeds-web-view-issue)
- - [The Best Blood Pressure Monitors     - CNET](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Maltese politician Alex Agius Saliba, who led the EU legislation making USB-C the standard, which may force Apple to replace its Lightning port &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230909/p4#a230909p4)
+ - [Best Samsung Galaxy S21, S21 Plus and S21 Ultra Cases of 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s21-s21-plus-s21-ultra-cases/#ftag=CAD590a51e)
+ - [Best Carbon Monoxide Detector for 2023     - CNET](https://www.cnet.com/news/best-carbon-monoxide-detector-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
