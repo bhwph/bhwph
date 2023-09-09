@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Maltese politician Alex Agius Saliba, who led the EU legislation making USB-C the standard, which may force Apple to replace its Lightning port &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230909/p4#a230909p4)
- - [Best Samsung Galaxy S21, S21 Plus and S21 Ultra Cases of 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s21-s21-plus-s21-ultra-cases/#ftag=CAD590a51e)
- - [Best Carbon Monoxide Detector for 2023     - CNET](https://www.cnet.com/news/best-carbon-monoxide-detector-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PowerPoint co-creator Dennis Austin is dead at 76](https://www.theverge.com/2023/9/9/23865578/dennis-austin-powerpoint-co-creator-died)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-500-3362045/)
+ - [8 Best Lubes &lpar;2023&rpar;: Water-Based, Silicone, and Dispensers](https://www.wired.com/gallery/best-lubes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
