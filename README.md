@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PowerPoint co-creator Dennis Austin is dead at 76](https://www.theverge.com/2023/9/9/23865578/dennis-austin-powerpoint-co-creator-died)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-500-3362045/)
- - [8 Best Lubes &lpar;2023&rpar;: Water-Based, Silicone, and Dispensers](https://www.wired.com/gallery/best-lubes/)<!-- TECH:END -->
+ - [Summer Sizzles On, With Triple-Digit Heat Waves Breaking Records     - CNET](https://www.cnet.com/science/climate/summer-sizzles-on-with-triple-digit-heat-waves-breaking-records/#ftag=CAD590a51e)
+ - [A profile of Rene Haas, who Arm appointed as CEO in February 2022 after Nvidia&#39;s Arm acquisition was scrapped and SoftBank shared plans to pursue an IPO instead &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230909/p10#a230909p10)
+ - [Apple&#39;s iPhone 15 event is on September 12, here&#39;s what to expect](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
