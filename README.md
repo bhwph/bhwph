@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Activity from a children&#39;s book.. wtf is this supposed to be?!](http://9gag.com/gag/awZPgZ8)
- - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
- - 👉 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)<!-- MEMES:END -->
+ - 6️⃣ [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
+ - 😝 [This morning there was heavy rain. Then I pulled over to avoid the rain. What a surprise, there was a beautiful woman who stepped out of the rain with me. Then I offered the woman an umbrella so that she could continue her activities later.](http://9gag.com/gag/aVb4LXP)
+ - 👉 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)<!-- MEMES:END -->
 
 --- 
 
