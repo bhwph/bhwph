@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Repost.](http://9gag.com/gag/a2K9M2p)
- - 😝 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)
- - 👉 [Diversity](http://9gag.com/gag/ajVG1px)<!-- MEMES:END -->
+ - 6️⃣ [Activity from a children&#39;s book.. wtf is this supposed to be?!](http://9gag.com/gag/awZPgZ8)
+ - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
+ - 👉 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)<!-- MEMES:END -->
 
 --- 
 
