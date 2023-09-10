@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield makes space travel feel way too safe](https://www.polygon.com/23864881/space-exploration-sci-fi-games-outer-wilds-metroid)
- - [For the best Starfield experience, don&#39;t blow up enemy ships: board them](https://www.pcgamer.com/for-the-best-starfield-experience-dont-blow-up-enemy-ships-board-them)
- - [Margot Robbie knew Harley Quinn’s potential, and an amazing new DC comic proves it](https://www.polygon.com/23859741/harley-quinn-birds-of-prey-comic-art-1-dc)<!-- GAME:END -->
+ - [Sifu&#39;s final content update lets you customize your arena fights](https://www.pcgamer.com/sifus-final-content-update-lets-you-customize-your-arena-fights)
+ - [I look away for ten seconds and Starfield&#39;s modders have already pumped out way too many meme flashlight mods](https://www.pcgamer.com/i-look-away-for-ten-seconds-and-starfields-modders-have-already-pumped-out-way-too-many-meme-flashlight-mods)
+ - [Stalker 2 developer&#39;s latest setback is a fire gutting a third of its office, but it insists the team&#39;s &#39;dealt with worse than that before&#39;](https://www.pcgamer.com/stalker-2-developers-latest-setback-is-a-fire-gutting-a-third-of-its-office-but-it-insists-the-teams-dealt-with-worse-than-that-before)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
