@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Bethesda RPG prologue, ranked from worst to best](https://www.pcgamer.com/every-bethesda-rpg-prologue-ranked-from-worst-to-best)
- - [Today&#39;s Wordle hint and answer #813: Sunday, September 10](https://www.pcgamer.com/wordle-answer-today-hint-813-september-10)
- - [NYT Connections puzzle hint and answers for Sunday, September 10 &lpar;#91&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-sunday-september-10-91)<!-- GAME:END -->
+ - [The Walking Dead: Daryl Dixon lets Daryl be his true self: Wolverine](https://www.polygon.com/23864310/walking-dead-daryl-dixon-wolverine-cast)
+ - [The best anime to watch on Hulu right now](https://www.polygon.com/what-to-watch/23848792/best-anime-hulu-watch-stream-chainsaw-man-fullmetal-alchemist)
+ - [Madden has become the iPhone of video games](https://www.polygon.com/reviews/23864886/madden-24-review-nfl-new-iphone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
