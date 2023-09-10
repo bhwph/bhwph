@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sifu&#39;s final content update lets you customize your arena fights](https://www.pcgamer.com/sifus-final-content-update-lets-you-customize-your-arena-fights)
- - [I look away for ten seconds and Starfield&#39;s modders have already pumped out way too many meme flashlight mods](https://www.pcgamer.com/i-look-away-for-ten-seconds-and-starfields-modders-have-already-pumped-out-way-too-many-meme-flashlight-mods)
- - [Stalker 2 developer&#39;s latest setback is a fire gutting a third of its office, but it insists the team&#39;s &#39;dealt with worse than that before&#39;](https://www.pcgamer.com/stalker-2-developers-latest-setback-is-a-fire-gutting-a-third-of-its-office-but-it-insists-the-teams-dealt-with-worse-than-that-before)<!-- GAME:END -->
+ - [Every Bethesda RPG prologue, ranked from worst to best](https://www.pcgamer.com/every-bethesda-rpg-prologue-ranked-from-worst-to-best)
+ - [Today&#39;s Wordle hint and answer #813: Sunday, September 10](https://www.pcgamer.com/wordle-answer-today-hint-813-september-10)
+ - [NYT Connections puzzle hint and answers for Sunday, September 10 &lpar;#91&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-sunday-september-10-91)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
