@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TECNO Pova 5 Pro review: Should you buy it?](https://www.androidauthority.com/tecno-pova-5-pro-review-3355627/)
- - [How Meta and Google held back their tech to recognize unknown people&#39;s faces due to privacy worries, opening the door for startups like Clearview AI and PimEyes &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/230910/p2#a230910p2)
- - [Dennis Austin, the principal developer of PowerPoint who led development of the presentation software until he retired in 1996, died on September 1 aged 76 &lpar;Michael S. Rosenwald/Washington Post&rpar;](http://www.techmeme.com/230910/p1#a230910p1)<!-- TECH:END -->
+ - [Coros Pace 3 review: Should you buy it?](https://www.androidauthority.com/coros-pace-3-review-3361183/)
+ - [Vitalik Buterin&#39;s X account was hacked to promote a crypto scam, leading to an estimated $650K+ of assets being stolen; the tweet was deleted within 20 minutes &lpar;Molly White/Web3 is Going Just Great&rpar;](http://www.techmeme.com/230910/p6#a230910p6)
+ - [Daily deals Sept. 10: 15&quot; MacBook Pro for $588, 32% off Beats Studio Buds Plus, 37% off a Shark IQ Robot Vacuum, more](https://appleinsider.com/articles/23/09/10/daily-deals-sept-10-15-macbook-pro-for-588-32-off-beats-studio-buds-plus-37-off-a-shark-iq-robot-vacuum-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
