@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We need more underground stuff](http://9gag.com/gag/arm9xKX)
- - 😝 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
- - 👉 [One of the greatest drag races.](http://9gag.com/gag/aqeBWPp)<!-- MEMES:END -->
+ - 6️⃣ [I used to be awesome at video games \u201cShoutout\u201d](http://9gag.com/gag/a3Ze0D5)
+ - 😝 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
+ - 👉 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)<!-- MEMES:END -->
 
 --- 
 
