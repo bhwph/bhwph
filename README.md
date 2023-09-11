@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Todd Howard mentions that the official Starfield mod tools are coming in 2024, with the DLC&#39;s release still TBA](https://www.pcgamer.com/todd-howard-mentions-that-the-official-starfield-mod-tools-are-coming-in-2024-with-the-dlcs-release-still-tba)
- - [Payday 3 reveals two new characters and a year of post-launch DLC](https://www.pcgamer.com/payday-3-reveals-two-new-characters-and-a-year-of-post-launch-dlc)
- - [Baldur&#39;s Gate 3 is the first game that met me halfway in roleplaying a they/them causing mayhem, and that feels like the future of RPGs](https://www.pcgamer.com/baldurs-gate-3-is-the-first-game-that-met-me-halfway-in-roleplaying-a-theythem-causing-mayhem-and-that-feels-like-the-future-of-rpgs)<!-- GAME:END -->
+ - [AMD&#39;s upcoming hybrid APU smiles for the camera](https://www.pcgamer.com/amds-upcoming-hybrid-apu-smiles-for-the-camera)
+ - [Today&#39;s Wordle hint and answer #814: Monday, September 11](https://www.pcgamer.com/wordle-answer-today-hint-814-september-11)
+ - [NYT Connections puzzle hint and answers for Monday, September 11 &lpar;#92&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-monday-september-11-92)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
