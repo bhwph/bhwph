@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta sets GPT-4 as the bar for its next AI model, says a new report](https://www.theverge.com/2023/9/10/23867323/meta-new-ai-model-gpt-4-openai-chatbot-google-apple)
- - [Sources: Meta plans to begin training an LLM in Q1 2024 on its own infrastructure that it hopes will be roughly as capable as OpenAI&#39;s GPT-4 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230910/p9#a230910p9)
- - [Apple may discontinue silicone iPhone case in eco-friendly push](https://appleinsider.com/articles/23/09/10/apple-may-discontinue-silicone-iphone-case-in-eco-friendly-push?utm_medium=rss)<!-- TECH:END -->
+ - [How cybercriminals in Turkey teamed up with Russian &amp;eacute;migr&amp;eacute; hackers to steal and sell tens of millions of credit card numbers, passwords, &quot;hot&quot; cookies, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/230911/p3#a230911p3)
+ - [WhatsApp prepares to play nice with other messaging apps](https://www.androidauthority.com/whatsapp-third-party-messaging-apps-interoperability-3362939/)
+ - [The Galaxy S23 FE looks like a Galaxy A54 in these real-world images](https://www.androidauthority.com/samsung-galaxy-s23-fe-tenaa-listing-3362284/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
