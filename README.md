@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s upcoming hybrid APU smiles for the camera](https://www.pcgamer.com/amds-upcoming-hybrid-apu-smiles-for-the-camera)
- - [Today&#39;s Wordle hint and answer #814: Monday, September 11](https://www.pcgamer.com/wordle-answer-today-hint-814-september-11)
- - [NYT Connections puzzle hint and answers for Monday, September 11 &lpar;#92&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-monday-september-11-92)<!-- GAME:END -->
+ - [Forza Motorsport is the Competitive Ground for Building Skill](https://news.xbox.com/en-us/2023/09/11/forza-motorsport-preview/)
+ - [Forza Motorsport returns in familiar style — with a few weird choices](https://www.polygon.com/23864410/forza-motorsport-preview-xbox-pc)
+ - [Mario Kart Tour Will No Longer Get New Updates](https://kotaku.com/mario-kart-tour-new-content-end-mobile-racer-spinoff-1850825190)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
