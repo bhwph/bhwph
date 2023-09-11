@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coros Pace 3 review: Should you buy it?](https://www.androidauthority.com/coros-pace-3-review-3361183/)
- - [Vitalik Buterin&#39;s X account was hacked to promote a crypto scam, leading to an estimated $650K+ of assets being stolen; the tweet was deleted within 20 minutes &lpar;Molly White/Web3 is Going Just Great&rpar;](http://www.techmeme.com/230910/p6#a230910p6)
- - [Daily deals Sept. 10: 15&quot; MacBook Pro for $588, 32% off Beats Studio Buds Plus, 37% off a Shark IQ Robot Vacuum, more](https://appleinsider.com/articles/23/09/10/daily-deals-sept-10-15-macbook-pro-for-588-32-off-beats-studio-buds-plus-37-off-a-shark-iq-robot-vacuum-more?utm_medium=rss)<!-- TECH:END -->
+ - [Meta sets GPT-4 as the bar for its next AI model, says a new report](https://www.theverge.com/2023/9/10/23867323/meta-new-ai-model-gpt-4-openai-chatbot-google-apple)
+ - [Sources: Meta plans to begin training an LLM in Q1 2024 on its own infrastructure that it hopes will be roughly as capable as OpenAI&#39;s GPT-4 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230910/p9#a230910p9)
+ - [Apple may discontinue silicone iPhone case in eco-friendly push](https://appleinsider.com/articles/23/09/10/apple-may-discontinue-silicone-iphone-case-in-eco-friendly-push?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
