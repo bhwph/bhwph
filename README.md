@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I used to be awesome at video games \u201cShoutout\u201d](http://9gag.com/gag/a3Ze0D5)
- - 😝 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
- - 👉 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)<!-- MEMES:END -->
+ - 6️⃣ [Female comedian disguises as a man to prove she is just as funny. Had mental breakdown when no one laughed.](http://9gag.com/gag/a3Zeb2r)
+ - 😝 [All my homo friends think the same](http://9gag.com/gag/ago62Zg)
+ - 👉 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)<!-- MEMES:END -->
 
 --- 
 
