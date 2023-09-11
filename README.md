@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Female comedian disguises as a man to prove she is just as funny. Had mental breakdown when no one laughed.](http://9gag.com/gag/a3Zeb2r)
- - 😝 [All my homo friends think the same](http://9gag.com/gag/ago62Zg)
- - 👉 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)<!-- MEMES:END -->
+ - 6️⃣ [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
+ - 😝 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
+ - 👉 [Do not touch grapes without consent.](http://9gag.com/gag/aEqyXKo)<!-- MEMES:END -->
 
 --- 
 
