@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Walking Dead: Daryl Dixon lets Daryl be his true self: Wolverine](https://www.polygon.com/23864310/walking-dead-daryl-dixon-wolverine-cast)
- - [The best anime to watch on Hulu right now](https://www.polygon.com/what-to-watch/23848792/best-anime-hulu-watch-stream-chainsaw-man-fullmetal-alchemist)
- - [Madden has become the iPhone of video games](https://www.polygon.com/reviews/23864886/madden-24-review-nfl-new-iphone)<!-- GAME:END -->
+ - [Todd Howard mentions that the official Starfield mod tools are coming in 2024, with the DLC&#39;s release still TBA](https://www.pcgamer.com/todd-howard-mentions-that-the-official-starfield-mod-tools-are-coming-in-2024-with-the-dlcs-release-still-tba)
+ - [Payday 3 reveals two new characters and a year of post-launch DLC](https://www.pcgamer.com/payday-3-reveals-two-new-characters-and-a-year-of-post-launch-dlc)
+ - [Baldur&#39;s Gate 3 is the first game that met me halfway in roleplaying a they/them causing mayhem, and that feels like the future of RPGs](https://www.pcgamer.com/baldurs-gate-3-is-the-first-game-that-met-me-halfway-in-roleplaying-a-theythem-causing-mayhem-and-that-feels-like-the-future-of-rpgs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
