@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pizza chef stopped playing Starfield on his day off to turn his breakfast into cubes](https://www.pcgamer.com/pizza-chef-stopped-playing-starfield-on-his-day-off-to-turn-his-breakfast-into-cubes)
- - [Baldur&#39;s Gate 3 has a secret, brutal game over scene for players who somehow overcome every safeguard to permanently lose a critical item](https://www.pcgamer.com/baldurs-gate-3-has-a-secret-brutal-game-over-scene-for-players-who-somehow-overcome-every-safeguard-to-permanently-lose-a-critical-item)
- - [Can&#39;t shoot in Starfield? Cure this bug with some plastic surgery](https://www.pcgamer.com/starfield-cant-shoot-bug-fix)<!-- GAME:END -->
+ - [Can Mankey be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23869026/can-mankey-be-shiny-primeape)
+ - [Start saving, because Intel&#39;s 14th Gen CPUs are reportedly launching in just a few weeks](https://www.pcgamer.com/start-saving-because-intels-14th-gen-cpus-are-reportedly-launching-in-just-a-few-weeks)
+ - [Nvidia owners can get a big FPS boost in Starfield with this tweak](https://www.pcgamer.com/nvidia-owners-can-get-a-big-fps-boost-in-starfield-with-this-tweak)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
