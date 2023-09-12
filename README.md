@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fly Gang.nam style](http://9gag.com/gag/anz8WAz)
- - 😝 [Back to where you started](http://9gag.com/gag/aRE9D15)
- - 👉 [Martin Bryant murdered 35 people and injured 23 others in a mass shooting in the Port Arthur massacre in 1996, one of the world&#39;s deadliest shooting sprees. After months of denying, he unexpectedly admitted being guilty thinking the police stopped recording.](http://9gag.com/gag/anz8VOq)<!-- MEMES:END -->
+ - 6️⃣ [Can you see their point?](http://9gag.com/gag/aZDoVdW)
+ - 😝 [3y/o toddler saves his dad](http://9gag.com/gag/a9qZNQK)
+ - 👉 [It is unknown how much more forest fires there would be in the world if not for birds\ud83d\udc40](http://9gag.com/gag/aOxAjBE)<!-- MEMES:END -->
 
 --- 
 
