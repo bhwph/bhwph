@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Mankey be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23869026/can-mankey-be-shiny-primeape)
- - [Start saving, because Intel&#39;s 14th Gen CPUs are reportedly launching in just a few weeks](https://www.pcgamer.com/start-saving-because-intels-14th-gen-cpus-are-reportedly-launching-in-just-a-few-weeks)
- - [Nvidia owners can get a big FPS boost in Starfield with this tweak](https://www.pcgamer.com/nvidia-owners-can-get-a-big-fps-boost-in-starfield-with-this-tweak)<!-- GAME:END -->
+ - [The must-watch anime to look out for in fall 2023](https://www.polygon.com/2023/1/3/23466614/new-anime-2023-how-to-watch)
+ - [Crash Team Rumble: Breaking Down All the New Activities in Season 2’s Party Mode](https://news.xbox.com/en-us/2023/09/12/crash-team-rumble-party-mode/)
+ - [The Midnight Mass creator is back on Netflix with a scary-looking Poe adaptation](https://www.polygon.com/23870067/the-fall-of-the-house-of-usher-netflix-cast-trailer-summary-mike-flanagan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
