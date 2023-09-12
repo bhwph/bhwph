@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Motorsport is the Competitive Ground for Building Skill](https://news.xbox.com/en-us/2023/09/11/forza-motorsport-preview/)
- - [Forza Motorsport returns in familiar style — with a few weird choices](https://www.polygon.com/23864410/forza-motorsport-preview-xbox-pc)
- - [Mario Kart Tour Will No Longer Get New Updates](https://kotaku.com/mario-kart-tour-new-content-end-mobile-racer-spinoff-1850825190)<!-- GAME:END -->
+ - [Pizza chef stopped playing Starfield on his day off to turn his breakfast into cubes](https://www.pcgamer.com/pizza-chef-stopped-playing-starfield-on-his-day-off-to-turn-his-breakfast-into-cubes)
+ - [Baldur&#39;s Gate 3 has a secret, brutal game over scene for players who somehow overcome every safeguard to permanently lose a critical item](https://www.pcgamer.com/baldurs-gate-3-has-a-secret-brutal-game-over-scene-for-players-who-somehow-overcome-every-safeguard-to-permanently-lose-a-critical-item)
+ - [Can&#39;t shoot in Starfield? Cure this bug with some plastic surgery](https://www.pcgamer.com/starfield-cant-shoot-bug-fix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
