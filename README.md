@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)
- - 😝 [Whatever happened to fireflies? I don\u2019t see them anymore.](http://9gag.com/gag/aoKAY1n)
- - 👉 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)<!-- MEMES:END -->
+ - 6️⃣ [Fly Gang.nam style](http://9gag.com/gag/anz8WAz)
+ - 😝 [Back to where you started](http://9gag.com/gag/aRE9D15)
+ - 👉 [Martin Bryant murdered 35 people and injured 23 others in a mass shooting in the Port Arthur massacre in 1996, one of the world&#39;s deadliest shooting sprees. After months of denying, he unexpectedly admitted being guilty thinking the police stopped recording.](http://9gag.com/gag/anz8VOq)<!-- MEMES:END -->
 
 --- 
 
