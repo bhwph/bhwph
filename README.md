@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $1,400 on Samsung Galaxy Fold 5, Bespoke appliances &amp; monitors during fall sale](https://appleinsider.com/articles/23/09/11/save-up-to-1400-on-samsung-galaxy-fold-5-bespoke-appliances-monitors-during-fall-sale?utm_medium=rss)
- - [ESPN’s standalone streaming channel is included in Charter and Disney’s new deal](https://www.theverge.com/2023/9/11/23868117/disney-charter-carriage-dispute-espn-standalone-streaming)
- - [US Copyright Office denies protection for an AI-made image that won a fine arts competition, despite many prompt revisions and it being altered with Photoshop &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230911/p21#a230911p21)<!-- TECH:END -->
+ - [Survey of 2,203 US adults: 53% say AI misinformation will impact who wins the 2024 election, and 35% say AI will decrease their trust in election ads &lpar;Ryan Heath/Axios&rpar;](http://www.techmeme.com/230911/p29#a230911p29)
+ - [Final hours: get a loaded M1 Max MacBook Pro 16-inch &lpar;64GB, 2TB&rpar; for $2,599](https://appleinsider.com/articles/23/09/11/extended-for-1-day-get-a-loaded-m1-max-macbook-pro-16-inch-64gb-2tb-for-2799?utm_medium=rss)
+ - [&#39;Ring of Fire&#39; Eclipse Will Be Visible From 8 States in October     - CNET](https://www.cnet.com/science/ring-of-fire-eclipse-will-be-visible-from-8-states-in-october/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
