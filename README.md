@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 8 series could keep its cool thanks to a new Tensor G3 improvement](https://www.androidauthority.com/google-pixel-8-tensor-g3-heat-management-3363337/)
- - [Q&amp;A with Sundar Pichai on 25 years of Google, competition in AI, ChatGPT in Bing, DeepMind and Google Brain, AI chips, staff&#39;s bureaucracy complaints, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/230912/p5#a230912p5)
- - [Spigen cheekily confirms iPhone 15 action button hours before launch](https://www.androidauthority.com/spigen-confirms-iphone-15-action-button-3363338/)<!-- TECH:END -->
+ - [Save up to $500 on Mac, iPad, Apple Watch with Apple Event deals at Amazon](https://appleinsider.com/articles/23/09/12/save-up-to-500-on-mac-ipad-apple-watch-with-apple-event-deals-at-amazon?utm_medium=rss)
+ - [Amazon will pay an oil company to help it meet climate goals](https://www.theverge.com/2023/9/12/23869817/amazon-climate-carbon-removal-purchase-occidental-petroleum)
+ - [More than Sally Ride: Loren Grush explains how NASA’s first women astronauts changed space](https://www.theverge.com/23869799/sally-ride-nichelle-nichols-six-women-astronauts-nasa-space-spacex)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
