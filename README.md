@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
- - 😝 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
- - 👉 [Do not touch grapes without consent.](http://9gag.com/gag/aEqyXKo)<!-- MEMES:END -->
+ - 6️⃣ [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)
+ - 😝 [Whatever happened to fireflies? I don\u2019t see them anymore.](http://9gag.com/gag/aoKAY1n)
+ - 👉 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)<!-- MEMES:END -->
 
 --- 
 
