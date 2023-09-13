@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We thought AMD&#39;s RX 7000-series was complete, but now the RX 7600 XT has broken cover](https://www.pcgamer.com/we-thought-amds-rx-7000-series-was-complete-but-now-the-rx-7600-xt-has-broken-cover)
- - [PAX Australia&#39;s turning 10, and putting on a big birthday show for the occasion](https://www.pcgamer.com/pax-australias-turning-10-and-putting-on-a-big-birthday-show-for-the-occasion)
- - [Today&#39;s Wordle hint and answer #816: Wednesday, September 13](https://www.pcgamer.com/wordle-answer-today-hint-816-september-13)<!-- GAME:END -->
+ - [Ayaneo&#39;s new handheld gaming PC looks like a souped-up Nintendo DS](https://www.pcgamer.com/ayaneos-new-handheld-gaming-pc-looks-like-a-souped-up-nintendo-ds)
+ - [Play as aliens or agents in suspenseful sci-fi multiplayer title Mannequin, coming to PS VR2 in 2024](https://blog.playstation.com/2023/09/13/play-as-aliens-or-agents-in-suspenseful-sci-fi-multiplayer-title-mannequin-coming-to-ps-vr2-in-2024/)
+ - [Bethesda says Nvidia DLSS support will come to Starfield in a &#39;regular interval of updates that have top community requested features&#39;](https://www.pcgamer.com/bethesda-says-nvidia-dlss-support-will-come-in-a-regular-interval-of-updates-that-have-top-community-requested-features)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
