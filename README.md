@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The must-watch anime to look out for in fall 2023](https://www.polygon.com/2023/1/3/23466614/new-anime-2023-how-to-watch)
- - [Crash Team Rumble: Breaking Down All the New Activities in Season 2’s Party Mode](https://news.xbox.com/en-us/2023/09/12/crash-team-rumble-party-mode/)
- - [The Midnight Mass creator is back on Netflix with a scary-looking Poe adaptation](https://www.polygon.com/23870067/the-fall-of-the-house-of-usher-netflix-cast-trailer-summary-mike-flanagan)<!-- GAME:END -->
+ - [Nvidia driver update should improve Starfield performance for many](https://www.pcgamer.com/nvidia-driver-update-should-improve-starfield-performance-for-many)
+ - [Big Games Big deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/09/12/big-games-big-deals-promotion-comes-to-playstation-store-2/)
+ - [The best way to earn credits in Starfield is laughably simple: here&#39;s the ultimate way to get space-rich](https://www.pcgamer.com/starfield-how-to-make-money)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
