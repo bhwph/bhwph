@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance.US CEO Brian Shroder departs, replaced on an interim basis by Chief Legal Officer Norman Reed, as the company cuts 100+ jobs, a third of its workforce &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230912/p53#a230912p53)
- - [New firmware released for AirPods Pro, AirPods, &amp; AirPods Max](https://appleinsider.com/articles/23/09/13/new-firmware-released-for-airpods-pro-airpods-airpods-max?utm_medium=rss)
- - [EV Mania Hasn&#39;t Killed Hunger for Hybrid Trucks](https://www.wired.com/story/ev-mania-hybrid-trucks-ford-f150/)<!-- TECH:END -->
+ - [Q&amp;A with Alexandr Wang, co-founder of Scale AI that has contracts with the DoD, on why US technologists should help preserve US military and economic leadership &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/230913/p10#a230913p10)
+ - [These are the best iPhone 15 chargers you can buy right now](https://www.androidauthority.com/best-apple-iphone-15-chargers-3363259/)
+ - [A look at the &quot;hectic evolution&quot; of Steam, 20 years after Valve launched the beta, as rivals like the Epic Games Store and Itch.io fail to make much of a dent &lpar;Edwin Evans-Thirlwell/Rock, Paper ...&rpar;](http://www.techmeme.com/230913/p9#a230913p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
