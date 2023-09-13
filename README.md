@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $500 on Mac, iPad, Apple Watch with Apple Event deals at Amazon](https://appleinsider.com/articles/23/09/12/save-up-to-500-on-mac-ipad-apple-watch-with-apple-event-deals-at-amazon?utm_medium=rss)
- - [Amazon will pay an oil company to help it meet climate goals](https://www.theverge.com/2023/9/12/23869817/amazon-climate-carbon-removal-purchase-occidental-petroleum)
- - [More than Sally Ride: Loren Grush explains how NASA’s first women astronauts changed space](https://www.theverge.com/23869799/sally-ride-nichelle-nichols-six-women-astronauts-nasa-space-spacex)<!-- TECH:END -->
+ - [Binance.US CEO Brian Shroder departs, replaced on an interim basis by Chief Legal Officer Norman Reed, as the company cuts 100+ jobs, a third of its workforce &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230912/p53#a230912p53)
+ - [New firmware released for AirPods Pro, AirPods, &amp; AirPods Max](https://appleinsider.com/articles/23/09/13/new-firmware-released-for-airpods-pro-airpods-airpods-max?utm_medium=rss)
+ - [EV Mania Hasn&#39;t Killed Hunger for Hybrid Trucks](https://www.wired.com/story/ev-mania-hybrid-trucks-ford-f150/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
