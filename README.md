@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can you see their point?](http://9gag.com/gag/aZDoVdW)
- - 😝 [3y/o toddler saves his dad](http://9gag.com/gag/a9qZNQK)
- - 👉 [It is unknown how much more forest fires there would be in the world if not for birds\ud83d\udc40](http://9gag.com/gag/aOxAjBE)<!-- MEMES:END -->
+ - 6️⃣ [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)
+ - 😝 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
+ - 👉 [Imagine getting excited over 9 years old techology...](http://9gag.com/gag/aDYrL2x)<!-- MEMES:END -->
 
 --- 
 
