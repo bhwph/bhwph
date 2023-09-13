@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia driver update should improve Starfield performance for many](https://www.pcgamer.com/nvidia-driver-update-should-improve-starfield-performance-for-many)
- - [Big Games Big deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/09/12/big-games-big-deals-promotion-comes-to-playstation-store-2/)
- - [The best way to earn credits in Starfield is laughably simple: here&#39;s the ultimate way to get space-rich](https://www.pcgamer.com/starfield-how-to-make-money)<!-- GAME:END -->
+ - [We thought AMD&#39;s RX 7000-series was complete, but now the RX 7600 XT has broken cover](https://www.pcgamer.com/we-thought-amds-rx-7000-series-was-complete-but-now-the-rx-7600-xt-has-broken-cover)
+ - [PAX Australia&#39;s turning 10, and putting on a big birthday show for the occasion](https://www.pcgamer.com/pax-australias-turning-10-and-putting-on-a-big-birthday-show-for-the-occasion)
+ - [Today&#39;s Wordle hint and answer #816: Wednesday, September 13](https://www.pcgamer.com/wordle-answer-today-hint-816-september-13)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
