@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Alexandr Wang, co-founder of Scale AI that has contracts with the DoD, on why US technologists should help preserve US military and economic leadership &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/230913/p10#a230913p10)
- - [These are the best iPhone 15 chargers you can buy right now](https://www.androidauthority.com/best-apple-iphone-15-chargers-3363259/)
- - [A look at the &quot;hectic evolution&quot; of Steam, 20 years after Valve launched the beta, as rivals like the Epic Games Store and Itch.io fail to make much of a dent &lpar;Edwin Evans-Thirlwell/Rock, Paper ...&rpar;](http://www.techmeme.com/230913/p9#a230913p9)<!-- TECH:END -->
+ - [MGM ‘cybersecurity issue’ shuts down slot machines and ATMs in Las Vegas casinos](https://www.theverge.com/2023/9/11/23869020/mgm-resorts-hacked-casino-shut-down-las-vegas)
+ - [California passes right-to-repair act guaranteeing seven years of parts for your phone](https://www.theverge.com/2023/9/13/23871712/california-right-to-repair-act-sb-244)
+ - [Analysts say iPhone 15 incremental update will still attract buyers](https://appleinsider.com/articles/23/09/13/analysts-say-iphone-15-incremental-update-will-still-attract-buyers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
