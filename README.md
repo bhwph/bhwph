@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ayaneo&#39;s new handheld gaming PC looks like a souped-up Nintendo DS](https://www.pcgamer.com/ayaneos-new-handheld-gaming-pc-looks-like-a-souped-up-nintendo-ds)
- - [Play as aliens or agents in suspenseful sci-fi multiplayer title Mannequin, coming to PS VR2 in 2024](https://blog.playstation.com/2023/09/13/play-as-aliens-or-agents-in-suspenseful-sci-fi-multiplayer-title-mannequin-coming-to-ps-vr2-in-2024/)
- - [Bethesda says Nvidia DLSS support will come to Starfield in a &#39;regular interval of updates that have top community requested features&#39;](https://www.pcgamer.com/bethesda-says-nvidia-dlss-support-will-come-in-a-regular-interval-of-updates-that-have-top-community-requested-features)<!-- GAME:END -->
+ - [Wilds of Eldraine is Magic&#39;s first Standard-legal set in months](https://www.pcgamer.com/wilds-of-eldraine-is-magics-first-standard-legal-set-in-months)
+ - [Starfield modder adds dark mode to its terminal screens, which is also something a modder in 2330 would do](https://www.pcgamer.com/starfield-dark-mode-mod)
+ - [Call of Duty: Modern Warfare 3 is a total nostalgia play, but dammit, it&#39;s working](https://www.pcgamer.com/call-of-duty-modern-warfare-3-is-a-total-nostalgia-play-but-dammit-its-working)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
