@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Dreamcast rail shooter from 2000 that never released in the west is coming to PC](https://www.pcgamer.com/a-dreamcast-rail-shooter-from-2000-that-never-released-in-the-west-is-coming-to-pc)
- - [AMD&#39;s next gen Threadripper Pro 7000-series chips come with up to 96 cores, and I long for consumer versions](https://www.pcgamer.com/amds-next-gen-threadripper-pro-7000-series-chips-come-with-up-to-96-cores-and-i-long-for-consumer-versions)
- - [Today&#39;s Wordle hint and answer #817: Thursday, September 14](https://www.pcgamer.com/wordle-answer-today-hint-817-september-14)<!-- GAME:END -->
+ - [The greatest movie title in the history of sequels is no more](https://www.polygon.com/23873403/plane-movie-sequel-title-stowaway-whither-ship-gerard-butler)
+ - [Forget Phantom Liberty, Cyberpunk 2077&#39;s free 2.0 patch is a staggering upgrade on its own](https://www.pcgamer.com/forget-phantom-liberty-cyberpunk-2077s-free-20-patch-is-a-staggering-upgrade-on-its-own)
+ - [Tomb Raider I-III Remastered launches Feb 14 on PS4 &amp; PS5](https://blog.playstation.com/2023/09/14/tomb-raider-i-iii-remastered-launches-feb-14-on-ps4-ps5/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
