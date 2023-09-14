@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What\u2019s your next move?](http://9gag.com/gag/az2ov9m)
- - 😝 [The one and only](http://9gag.com/gag/ay2Zm18)
+ - 6️⃣ [R.I.P.](http://9gag.com/gag/a7qPx9r)
+ - 😝 [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)
  - 👉 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)<!-- MEMES:END -->
 
 --- 
