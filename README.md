@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MGM ‘cybersecurity issue’ shuts down slot machines and ATMs in Las Vegas casinos](https://www.theverge.com/2023/9/11/23869020/mgm-resorts-hacked-casino-shut-down-las-vegas)
- - [California passes right-to-repair act guaranteeing seven years of parts for your phone](https://www.theverge.com/2023/9/13/23871712/california-right-to-repair-act-sb-244)
- - [Analysts say iPhone 15 incremental update will still attract buyers](https://appleinsider.com/articles/23/09/13/analysts-say-iphone-15-incremental-update-will-still-attract-buyers?utm_medium=rss)<!-- TECH:END -->
+ - [Starfield on GeForce Now is among the best and worst ways to play](https://www.theverge.com/2023/9/13/23872416/starfield-geforce-now-pc-mobile-cloud-gaming)
+ - [TikTok expands its revamped creator fund Creativity Program Beta beyond the US to eligible creators in Brazil, France, Germany, Japan, South Korea, and the UK &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230913/p46#a230913p46)
+ - [Biden Administration Provides $100 Million to Fix and Replace Broken EV Chargers     - CNET](https://www.cnet.com/roadshow/news/biden-administration-provides-100-million-to-fix-and-replace-broken-ev-chargers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
