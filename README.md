@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)
- - 😝 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
- - 👉 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)<!-- MEMES:END -->
+ - 6️⃣ [Polish Super Bowl](http://9gag.com/gag/a8qQRee)
+ - 😝 [Yeah](http://9gag.com/gag/aGE64AZ)
+ - 👉 [Dont forget to check on your parents guys :&rpar;](http://9gag.com/gag/aA0qzog)<!-- MEMES:END -->
 
 --- 
 
