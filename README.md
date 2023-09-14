@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starfield on GeForce Now is among the best and worst ways to play](https://www.theverge.com/2023/9/13/23872416/starfield-geforce-now-pc-mobile-cloud-gaming)
- - [TikTok expands its revamped creator fund Creativity Program Beta beyond the US to eligible creators in Brazil, France, Germany, Japan, South Korea, and the UK &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230913/p46#a230913p46)
- - [Biden Administration Provides $100 Million to Fix and Replace Broken EV Chargers     - CNET](https://www.cnet.com/roadshow/news/biden-administration-provides-100-million-to-fix-and-replace-broken-ev-chargers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Extremely Online book excerpt: how Julia Allison invented the concept of a content creator in the mid-2000s, for which journalists and others villainized her &lpar;Taylor Lorenz/Rolling Stone&rpar;](http://www.techmeme.com/230914/p6#a230914p6)
+ - [Intel&#39;s Thunderbolt 5 Doubles Speeds to Give Gamers Better, Faster Displays     - CNET](https://www.cnet.com/tech/computing/intels-thunderbolt-5-doubles-speeds-to-give-gamers-better-faster-displays/#ftag=CAD590a51e)
+ - [Child content creators, or &quot;kidfluencers&quot;, some of whom make $20M+/year, show that protecting kids from labor exploitation is difficult in the social media age &lpar;Tyler Cowen/Bloomberg&rpar;](http://www.techmeme.com/230914/p5#a230914p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
