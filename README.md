@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wilds of Eldraine is Magic&#39;s first Standard-legal set in months](https://www.pcgamer.com/wilds-of-eldraine-is-magics-first-standard-legal-set-in-months)
- - [Starfield modder adds dark mode to its terminal screens, which is also something a modder in 2330 would do](https://www.pcgamer.com/starfield-dark-mode-mod)
- - [Call of Duty: Modern Warfare 3 is a total nostalgia play, but dammit, it&#39;s working](https://www.pcgamer.com/call-of-duty-modern-warfare-3-is-a-total-nostalgia-play-but-dammit-its-working)<!-- GAME:END -->
+ - [A Dreamcast rail shooter from 2000 that never released in the west is coming to PC](https://www.pcgamer.com/a-dreamcast-rail-shooter-from-2000-that-never-released-in-the-west-is-coming-to-pc)
+ - [AMD&#39;s next gen Threadripper Pro 7000-series chips come with up to 96 cores, and I long for consumer versions](https://www.pcgamer.com/amds-next-gen-threadripper-pro-7000-series-chips-come-with-up-to-96-cores-and-i-long-for-consumer-versions)
+ - [Today&#39;s Wordle hint and answer #817: Thursday, September 14](https://www.pcgamer.com/wordle-answer-today-hint-817-september-14)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
