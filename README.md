@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Extremely Online book excerpt: how Julia Allison invented the concept of a content creator in the mid-2000s, for which journalists and others villainized her &lpar;Taylor Lorenz/Rolling Stone&rpar;](http://www.techmeme.com/230914/p6#a230914p6)
- - [Intel&#39;s Thunderbolt 5 Doubles Speeds to Give Gamers Better, Faster Displays     - CNET](https://www.cnet.com/tech/computing/intels-thunderbolt-5-doubles-speeds-to-give-gamers-better-faster-displays/#ftag=CAD590a51e)
- - [Child content creators, or &quot;kidfluencers&quot;, some of whom make $20M+/year, show that protecting kids from labor exploitation is difficult in the social media age &lpar;Tyler Cowen/Bloomberg&rpar;](http://www.techmeme.com/230914/p5#a230914p5)<!-- TECH:END -->
+ - [Butt-dial of iPhone Emergency SOS via satellite still summons helicopter rescue](https://appleinsider.com/articles/23/09/14/butt-dial-of-iphone-emergency-sos-via-satellite-still-summons-helicopter-rescue?utm_medium=rss)
+ - [Unity cancels a town hall and closes two offices after receiving what the company says was a credible death threat, following huge backlash to its install fees &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/230914/p23#a230914p23)
+ - [Chromebooks will now get updates for twice as long as Pixel phones](https://www.androidauthority.com/google-chromebook-updates-3364119/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
