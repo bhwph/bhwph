@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Butt-dial of iPhone Emergency SOS via satellite still summons helicopter rescue](https://appleinsider.com/articles/23/09/14/butt-dial-of-iphone-emergency-sos-via-satellite-still-summons-helicopter-rescue?utm_medium=rss)
- - [Unity cancels a town hall and closes two offices after receiving what the company says was a credible death threat, following huge backlash to its install fees &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/230914/p23#a230914p23)
- - [Chromebooks will now get updates for twice as long as Pixel phones](https://www.androidauthority.com/google-chromebook-updates-3364119/)<!-- TECH:END -->
+ - [Microsoft unveils EvoDiff, a novel protein-generating AI framework that the company says can help create enzymes for new therapeutics and drug delivery methods &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230914/p39#a230914p39)
+ - [At trial, the US DOJ asserted Googlers are trained to have sensitive conversations over chat with history off and avoid phrases like &quot;market share&quot; and &quot;bundle&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p38#a230914p38)
+ - [Google won’t repair cracked Pixel Watch screens](https://www.theverge.com/23874281/google-pixel-watch-cracks-no-repairs-warranty)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
