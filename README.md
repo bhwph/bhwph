@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Polish Super Bowl](http://9gag.com/gag/a8qQRee)
- - 😝 [Yeah](http://9gag.com/gag/aGE64AZ)
- - 👉 [Dont forget to check on your parents guys :&rpar;](http://9gag.com/gag/aA0qzog)<!-- MEMES:END -->
+ - 6️⃣ [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
+ - 😝 [I want to know both answer](http://9gag.com/gag/amAKEqv)
+ - 👉 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)<!-- MEMES:END -->
 
 --- 
 
