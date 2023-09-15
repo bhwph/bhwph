@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
- - 😝 [I want to know both answer](http://9gag.com/gag/amAKEqv)
- - 👉 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)<!-- MEMES:END -->
+ - 6️⃣ [Pedestrians attack road workers.](http://9gag.com/gag/a5Xv8XO)
+ - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
+ - 👉 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)<!-- MEMES:END -->
 
 --- 
 
