@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pedestrians attack road workers.](http://9gag.com/gag/a5Xv8XO)
- - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
- - 👉 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)<!-- MEMES:END -->
+ - 6️⃣ [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
+ - 😝 [Daddy chill...](http://9gag.com/gag/aZDo66n)
+ - 👉 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)<!-- MEMES:END -->
 
 --- 
 
