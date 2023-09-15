@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NYT Connections today: hint and answers for September 15 &lpar;#96&rpar;](https://www.pcgamer.com/nyt-connections-today-hint-and-answers-for-september-15-96)
- - [&lpar;For Southeast Asia&rpar; Introducing the Deep Earth Collection, a new metallic colorway for PS5 accessories available starting later this year](https://blog.playstation.com/2023/09/14/20230914-ps5/)
- - [&lpar;For Southeast Asia&rpar; Introducing the Deep Earth Collection, a new metallic colorway for PS5 accessories available starting later this year](https://blog.playstation.com/2023/09/14/20230914-ps5/)<!-- GAME:END -->
+ - [Looks like Nvidia has effectively cut the RTX 4070 price to $550 in response to the RX 7800 XT](https://www.pcgamer.com/looks-like-nvidia-has-effectively-cut-the-rtx-4070-price-to-dollar550-in-response-to-the-rx-7800-xt)
+ - [Get the full lowdown on Warhammer Age of Sigmar: Realms of Ruin in its latest trailer](https://www.pcgamer.com/get-the-full-lowdown-on-warhammer-age-of-sigmar-realms-of-ruin-in-its-latest-trailer)
+ - [Share of the Week: Baldur’s Gate 3 – Original Character](https://blog.playstation.com/2023/09/15/share-of-the-week-baldurs-gate-3-original-character/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
