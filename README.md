@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft unveils EvoDiff, a novel protein-generating AI framework that the company says can help create enzymes for new therapeutics and drug delivery methods &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230914/p39#a230914p39)
- - [At trial, the US DOJ asserted Googlers are trained to have sensitive conversations over chat with history off and avoid phrases like &quot;market share&quot; and &quot;bundle&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p38#a230914p38)
- - [Google won’t repair cracked Pixel Watch screens](https://www.theverge.com/23874281/google-pixel-watch-cracks-no-repairs-warranty)<!-- TECH:END -->
+ - [Samsung Galaxy S24 series listing reveals charging speeds](https://www.androidauthority.com/galaxy-s24-series-charging-speeds-3364692/)
+ - [iPhone 15 case roundup: protect your investment with the perfect case](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-case?utm_medium=rss)
+ - [Don’t break your Pixel Watch display because Google won’t repair it](https://www.androidauthority.com/pixel-watch-display-repair-3364686/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
