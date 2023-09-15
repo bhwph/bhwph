@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The greatest movie title in the history of sequels is no more](https://www.polygon.com/23873403/plane-movie-sequel-title-stowaway-whither-ship-gerard-butler)
- - [Forget Phantom Liberty, Cyberpunk 2077&#39;s free 2.0 patch is a staggering upgrade on its own](https://www.pcgamer.com/forget-phantom-liberty-cyberpunk-2077s-free-20-patch-is-a-staggering-upgrade-on-its-own)
- - [Tomb Raider I-III Remastered launches Feb 14 on PS4 &amp; PS5](https://blog.playstation.com/2023/09/14/tomb-raider-i-iii-remastered-launches-feb-14-on-ps4-ps5/)<!-- GAME:END -->
+ - [Final Fantasy 7 Rebirth PC version might release within months of the PS5 version](https://www.pcgamer.com/final-fantasy-7-rebirth-is-nearly-100-hours-long-says-director)
+ - [Every Starfield player should use these 3 essential mods](https://www.pcgamer.com/every-starfield-player-should-use-these-3-mods)
+ - [The best armor in Starfield](https://www.polygon.com/starfield-guide/23874405/best-armor-spacesuits)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
