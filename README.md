@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S24 series listing reveals charging speeds](https://www.androidauthority.com/galaxy-s24-series-charging-speeds-3364692/)
- - [iPhone 15 case roundup: protect your investment with the perfect case](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-case?utm_medium=rss)
- - [Don’t break your Pixel Watch display because Google won’t repair it](https://www.androidauthority.com/pixel-watch-display-repair-3364686/)<!-- TECH:END -->
+ - [Here are the best Verizon iPhone 15 deals you can get on launch day](https://www.androidauthority.com/verizon-iphone-15-deals-3364858/)
+ - [Samsung Galaxy S23 FE leak reveals every color option](https://www.androidauthority.com/samsung-galaxy-s23-fe-colors-3364849/)
+ - [If Elon Musk Had Been a Happy Child, Would He Still Be Launching Rockets?](https://www.wired.com/story/plaintext-elon-musk-happy-child-launching-rockets/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
