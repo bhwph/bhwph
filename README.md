@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)
- - 😝 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)
- - 👉 [Georgia Meloni prime minister of Italy. Promised that she won&#39;t tolerate migrants. Video after yesterday&#39;s invasion of 7.000 migrants in the island of Lampedusa &lpar;6.000 Italians live there&rpar;](http://9gag.com/gag/aMEDg5V)<!-- MEMES:END -->
+ - 6️⃣ [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
+ - 😝 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
+ - 👉 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)<!-- MEMES:END -->
 
 --- 
 
