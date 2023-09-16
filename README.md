@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Verizon iPhone 15 deals you can get on launch day](https://www.androidauthority.com/verizon-iphone-15-deals-3364858/)
- - [Samsung Galaxy S23 FE leak reveals every color option](https://www.androidauthority.com/samsung-galaxy-s23-fe-colors-3364849/)
- - [If Elon Musk Had Been a Happy Child, Would He Still Be Launching Rockets?](https://www.wired.com/story/plaintext-elon-musk-happy-child-launching-rockets/)<!-- TECH:END -->
+ - [A look at Buenos Aires&#39; legal battle to turn back on a facial recognition system that activists criticized for its misuse and the city shut down in March 2020 &lpar;Karen Naundorf/Wired&rpar;](http://www.techmeme.com/230915/p19#a230915p19)
+ - [Meta’s next smart glasses may have just shown up in FCC filings](https://www.theverge.com/2023/9/15/23875925/meta-next-smart-glasses-fcc-ray-ban-stories)
+ - [Best Quest 2 Head Strap     - CNET](https://www.cnet.com/tech/gaming/best-oculus-quest-2-head-strap/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
