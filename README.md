@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Looks like Nvidia has effectively cut the RTX 4070 price to $550 in response to the RX 7800 XT](https://www.pcgamer.com/looks-like-nvidia-has-effectively-cut-the-rtx-4070-price-to-dollar550-in-response-to-the-rx-7800-xt)
- - [Get the full lowdown on Warhammer Age of Sigmar: Realms of Ruin in its latest trailer](https://www.pcgamer.com/get-the-full-lowdown-on-warhammer-age-of-sigmar-realms-of-ruin-in-its-latest-trailer)
- - [Share of the Week: Baldur’s Gate 3 – Original Character](https://blog.playstation.com/2023/09/15/share-of-the-week-baldurs-gate-3-original-character/)<!-- GAME:END -->
+ - [Helldivers 2 has a cool new gameplay trailer, but it&#39;s delayed to 2024](https://www.pcgamer.com/helldivers-2-has-a-cool-new-gameplay-trailer-but-its-delayed-to-2024)
+ - [Barbie, John Wick 4, Netflix’s El Conde, and every new movie to watch at home this weekend](https://www.polygon.com/2023/9/15/23868067/new-movies-watch-barbie-netflix-el-conde-john-wick-4-talk-to-me)
+ - [Payday 3 developer drops Denuvo from the game before it&#39;s even out](https://www.pcgamer.com/payday-3-developer-drops-denuvo-from-the-game-before-its-even-out)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
