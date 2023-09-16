@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Buenos Aires&#39; legal battle to turn back on a facial recognition system that activists criticized for its misuse and the city shut down in March 2020 &lpar;Karen Naundorf/Wired&rpar;](http://www.techmeme.com/230915/p19#a230915p19)
- - [Meta’s next smart glasses may have just shown up in FCC filings](https://www.theverge.com/2023/9/15/23875925/meta-next-smart-glasses-fcc-ray-ban-stories)
- - [Best Quest 2 Head Strap     - CNET](https://www.cnet.com/tech/gaming/best-oculus-quest-2-head-strap/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Thoughts on Apple&#39;s Wonderlust event, including the Mother Nature skit, FineWoven iPhone cases and Watch straps, iPhone 15 and 15 Pro lineup, and AirPods Pro 2 &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/230916/p4#a230916p4)
+ - [Apple&#39;s Mother Nature skit at the Wonderlust event was awkward, but every fact or position put forth is a strategic, money-saving, and innovative effort &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/230916/p3#a230916p3)
+ - [TikTok Shop plans to give steep holiday discounts between October 27 and November 30, and is offering to subsidize discounts of as much as 50% to entice sellers &lpar;Bloomberg&rpar;](http://www.techmeme.com/230916/p2#a230916p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
