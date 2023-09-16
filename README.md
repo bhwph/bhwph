@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NYT Connections hint and answers today: September 16 &lpar;#97&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-16-97)
- - [Today&#39;s Wordle hint and answer #819: Saturday, September 16](https://www.pcgamer.com/wordle-answer-today-hint-819-september-16)
- - [Helldivers 2 has a cool new gameplay trailer, but it&#39;s delayed to 2024](https://www.pcgamer.com/helldivers-2-has-a-cool-new-gameplay-trailer-but-its-delayed-to-2024)<!-- GAME:END -->
+ - [Foundation season 2’s finale is great in a way streaming shows rarely get to be](https://www.polygon.com/23873497/foundation-season-2-finale-ending-apple-tv-plus-interview)
+ - [Baldur&#39;s Gate 3&#39;s hardest difficulty setting turns every fight into creative chaos and now it&#39;s the only way I can play](https://www.pcgamer.com/baldurs-gate-3s-hardest-difficulty-setting-turns-every-fight-into-creative-chaos-and-now-its-the-only-way-i-can-play)
+ - [For Steam’s 20th birthday, the Steam Deck is 20% off](https://www.polygon.com/deals/2023/9/16/23873639/gaming-deals-steam-deck-starfield-star-trek-ghibli-blu-ray-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
