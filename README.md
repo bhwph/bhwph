@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
- - 😝 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
- - 👉 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)<!-- MEMES:END -->
+ - 6️⃣ [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)
+ - 😝 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)
+ - 👉 [Georgia Meloni prime minister of Italy. Promised that she won&#39;t tolerate migrants. Video after yesterday&#39;s invasion of 7.000 migrants in the island of Lampedusa &lpar;6.000 Italians live there&rpar;](http://9gag.com/gag/aMEDg5V)<!-- MEMES:END -->
 
 --- 
 
