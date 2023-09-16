@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thoughts on Apple&#39;s Wonderlust event, including the Mother Nature skit, FineWoven iPhone cases and Watch straps, iPhone 15 and 15 Pro lineup, and AirPods Pro 2 &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/230916/p4#a230916p4)
- - [Apple&#39;s Mother Nature skit at the Wonderlust event was awkward, but every fact or position put forth is a strategic, money-saving, and innovative effort &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/230916/p3#a230916p3)
- - [TikTok Shop plans to give steep holiday discounts between October 27 and November 30, and is offering to subsidize discounts of as much as 50% to entice sellers &lpar;Bloomberg&rpar;](http://www.techmeme.com/230916/p2#a230916p2)<!-- TECH:END -->
+ - [Apple Watch Ultra 2 vs Apple Watch Ultra - Specs, price, and features, compared](https://appleinsider.com/inside/apple-watch-ultra/vs/apple-watch-ultra-2-vs-apple-watch-ultra---specs-price-and-features-compared?utm_medium=rss)
+ - [OnePlus’ next tablet is a budget model called the OnePlus Pad Go](https://www.theverge.com/2023/9/16/23876282/oneplus-next-tablet-is-a-budget-model-called-the-oneplus-pad-go)
+ - [German prosecutors say Musk&#39;s X has complied with hundreds of hate-crime user data requests; Twitter used to push back if such requests threatened free speech &lpar;Max Hoppenstedt/Washington Post&rpar;](http://www.techmeme.com/230916/p7#a230916p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
