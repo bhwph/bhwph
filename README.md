@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 has a cool new gameplay trailer, but it&#39;s delayed to 2024](https://www.pcgamer.com/helldivers-2-has-a-cool-new-gameplay-trailer-but-its-delayed-to-2024)
- - [Barbie, John Wick 4, Netflix’s El Conde, and every new movie to watch at home this weekend](https://www.polygon.com/2023/9/15/23868067/new-movies-watch-barbie-netflix-el-conde-john-wick-4-talk-to-me)
- - [Payday 3 developer drops Denuvo from the game before it&#39;s even out](https://www.pcgamer.com/payday-3-developer-drops-denuvo-from-the-game-before-its-even-out)<!-- GAME:END -->
+ - [NYT Connections hint and answers today: September 16 &lpar;#97&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-16-97)
+ - [Today&#39;s Wordle hint and answer #819: Saturday, September 16](https://www.pcgamer.com/wordle-answer-today-hint-819-september-16)
+ - [Helldivers 2 has a cool new gameplay trailer, but it&#39;s delayed to 2024](https://www.pcgamer.com/helldivers-2-has-a-cool-new-gameplay-trailer-but-its-delayed-to-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
