@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
- - 😝 [MFers with bullshit articles.](http://9gag.com/gag/aVb9j2n)
- - 👉 [Nice Kitty](http://9gag.com/gag/a8qQP6O)<!-- MEMES:END -->
+ - 6️⃣ [A little bit, maybe a LOT !](http://9gag.com/gag/abvLq6X)
+ - 😝 [So much eye candy](http://9gag.com/gag/avQ4b4q)
+ - 👉 [So you had a bad day](http://9gag.com/gag/aGE63n6)<!-- MEMES:END -->
 
 --- 
 
