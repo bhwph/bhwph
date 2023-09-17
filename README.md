@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Out of the blue, seven-year-old FPS Titanfall 2 has fully working multiplayer again](https://www.pcgamer.com/out-of-the-blue-seven-year-old-fps-titanfall-2-has-fully-working-multiplayer-again)
- - [An unprecedented Destiny glitch is letting players craft game-breaking &#39;Frankenguns&#39; like machine gun grenade launchers, and Bungie says &#39;let&#39;s all have some fun&#39;](https://www.pcgamer.com/an-unprecedented-destiny-glitch-is-letting-players-craft-game-breaking-frankenguns-like-machine-gun-grenade-launchers-and-bungie-says-lets-all-have-some-fun)
- - [If you like inventory grids they&#39;ve made an action roguelike specifically for you](https://www.pcgamer.com/if-you-like-inventory-grids-theyve-made-an-action-roguelike-specifically-for-you)<!-- GAME:END -->
+ - [One Baldur&#39;s Gate 3 character can break the fourth wall like the goddamn Kool-Aid Man](https://www.pcgamer.com/one-baldurs-gate-3-character-can-break-the-fourth-wall-like-the-goddamn-kool-aid-man)
+ - [NYT Connections hint and answers today: September 17 &lpar;#98&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-17-98)
+ - [Today&#39;s Wordle hint and answer #820: Sunday, September 17](https://www.pcgamer.com/wordle-answer-today-hint-820-september-17)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
