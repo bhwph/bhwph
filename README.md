@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One Baldur&#39;s Gate 3 character can break the fourth wall like the goddamn Kool-Aid Man](https://www.pcgamer.com/one-baldurs-gate-3-character-can-break-the-fourth-wall-like-the-goddamn-kool-aid-man)
- - [NYT Connections hint and answers today: September 17 &lpar;#98&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-17-98)
- - [Today&#39;s Wordle hint and answer #820: Sunday, September 17](https://www.pcgamer.com/wordle-answer-today-hint-820-september-17)<!-- GAME:END -->
+ - [Here&#39;s a puzzle game about a small dog with a very long stick](https://www.pcgamer.com/heres-a-puzzle-game-about-a-small-dog-with-a-very-long-stick)
+ - [Wheel of Time’s Seanchan act like colonizers — exactly as they’re supposed to](https://www.polygon.com/23873981/wheel-of-time-season-2-seanchan-bad-guys-explained)
+ - [The best shows to watch on Max](https://www.polygon.com/what-to-watch/23870121/best-tv-shows-series-max-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
