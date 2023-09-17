@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the proliferation of pirated movies and TV shows on TikTok, posted as small clips by accounts that don&#39;t appear to make any money from the content &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/230917/p2#a230917p2)
- - [Formula 1 Racing 2023: How to Watch and Livestream the Singapore GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-singapore-gp-today/#ftag=CAD590a51e)
- - [One year after Ethereum&#39;s Merge, developers approve a change to slow down staking, which has emerged as one of a few reliable ways to earn returns in crypto &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230917/p1#a230917p1)<!-- TECH:END -->
+ - [How Spotify and other streaming services have transformed the sound of music: songs are shorter, albums are longer, and artists collaborate more across genres &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230917/p4#a230917p4)
+ - [Should you buy Apple Watch Series 9 or wait for the Watch X?](https://www.androidauthority.com/apple-watch-series-9-vs-watch-x-3364486/)
+ - [Raiders vs. Bills Livestream: How to Watch NFL Week 2 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/raiders-vs-bills-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
