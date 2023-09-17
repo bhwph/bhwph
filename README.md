@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra 2 vs Apple Watch Ultra - Specs, price, and features, compared](https://appleinsider.com/inside/apple-watch-ultra/vs/apple-watch-ultra-2-vs-apple-watch-ultra---specs-price-and-features-compared?utm_medium=rss)
- - [OnePlus’ next tablet is a budget model called the OnePlus Pad Go](https://www.theverge.com/2023/9/16/23876282/oneplus-next-tablet-is-a-budget-model-called-the-oneplus-pad-go)
- - [German prosecutors say Musk&#39;s X has complied with hundreds of hate-crime user data requests; Twitter used to push back if such requests threatened free speech &lpar;Max Hoppenstedt/Washington Post&rpar;](http://www.techmeme.com/230916/p7#a230916p7)<!-- TECH:END -->
+ - [N. Korea-linked Lazarus Group stole ~$240M in crypto in the past 104 days, as it ramps up hacks and shifts focus from decentralized services to centralized ones &lpar;Elliptic&rpar;](http://www.techmeme.com/230916/p10#a230916p10)
+ - [New malware strain stealing business data from Intel Macs](https://appleinsider.com/articles/23/09/16/macos-metastealer-attacks-go-after-business-user-data?utm_medium=rss)
+ - [TikTok&#39;s US staff complain about a new internal app to track office attendance; TikTok requires most staff to be in the office three times a week from October &lpar;New York Times&rpar;](http://www.techmeme.com/230916/p9#a230916p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
