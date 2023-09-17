@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Foundation season 2’s finale is great in a way streaming shows rarely get to be](https://www.polygon.com/23873497/foundation-season-2-finale-ending-apple-tv-plus-interview)
- - [Baldur&#39;s Gate 3&#39;s hardest difficulty setting turns every fight into creative chaos and now it&#39;s the only way I can play](https://www.pcgamer.com/baldurs-gate-3s-hardest-difficulty-setting-turns-every-fight-into-creative-chaos-and-now-its-the-only-way-i-can-play)
- - [For Steam’s 20th birthday, the Steam Deck is 20% off](https://www.polygon.com/deals/2023/9/16/23873639/gaming-deals-steam-deck-starfield-star-trek-ghibli-blu-ray-deal-sale)<!-- GAME:END -->
+ - [Out of the blue, seven-year-old FPS Titanfall 2 has fully working multiplayer again](https://www.pcgamer.com/out-of-the-blue-seven-year-old-fps-titanfall-2-has-fully-working-multiplayer-again)
+ - [An unprecedented Destiny glitch is letting players craft game-breaking &#39;Frankenguns&#39; like machine gun grenade launchers, and Bungie says &#39;let&#39;s all have some fun&#39;](https://www.pcgamer.com/an-unprecedented-destiny-glitch-is-letting-players-craft-game-breaking-frankenguns-like-machine-gun-grenade-launchers-and-bungie-says-lets-all-have-some-fun)
+ - [If you like inventory grids they&#39;ve made an action roguelike specifically for you](https://www.pcgamer.com/if-you-like-inventory-grids-theyve-made-an-action-roguelike-specifically-for-you)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
