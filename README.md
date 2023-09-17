@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
- - 😝 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
- - 👉 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)<!-- MEMES:END -->
+ - 6️⃣ [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
+ - 😝 [MFers with bullshit articles.](http://9gag.com/gag/aVb9j2n)
+ - 👉 [Nice Kitty](http://9gag.com/gag/a8qQP6O)<!-- MEMES:END -->
 
 --- 
 
