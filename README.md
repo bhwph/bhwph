@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A little bit, maybe a LOT !](http://9gag.com/gag/abvLq6X)
- - 😝 [So much eye candy](http://9gag.com/gag/avQ4b4q)
- - 👉 [So you had a bad day](http://9gag.com/gag/aGE63n6)<!-- MEMES:END -->
+ - 6️⃣ [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
+ - 😝 [Twins](http://9gag.com/gag/aRE86Bq)
+ - 👉 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)<!-- MEMES:END -->
 
 --- 
 
