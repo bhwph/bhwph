@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [N. Korea-linked Lazarus Group stole ~$240M in crypto in the past 104 days, as it ramps up hacks and shifts focus from decentralized services to centralized ones &lpar;Elliptic&rpar;](http://www.techmeme.com/230916/p10#a230916p10)
- - [New malware strain stealing business data from Intel Macs](https://appleinsider.com/articles/23/09/16/macos-metastealer-attacks-go-after-business-user-data?utm_medium=rss)
- - [TikTok&#39;s US staff complain about a new internal app to track office attendance; TikTok requires most staff to be in the office three times a week from October &lpar;New York Times&rpar;](http://www.techmeme.com/230916/p9#a230916p9)<!-- TECH:END -->
+ - [A look at the proliferation of pirated movies and TV shows on TikTok, posted as small clips by accounts that don&#39;t appear to make any money from the content &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/230917/p2#a230917p2)
+ - [Formula 1 Racing 2023: How to Watch and Livestream the Singapore GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-singapore-gp-today/#ftag=CAD590a51e)
+ - [One year after Ethereum&#39;s Merge, developers approve a change to slow down staking, which has emerged as one of a few reliable ways to earn returns in crypto &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230917/p1#a230917p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
