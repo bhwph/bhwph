@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
- - 😝 [Twins](http://9gag.com/gag/aRE86Bq)
- - 👉 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)<!-- MEMES:END -->
+ - 6️⃣ [Hard fall](http://9gag.com/gag/a1P8eMw)
+ - 😝 [I could watch this for hours](http://9gag.com/gag/aGErw20)
+ - 👉 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)<!-- MEMES:END -->
 
 --- 
 
