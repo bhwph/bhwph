@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Amazon&#39;s bets across industries, including health care, as some analysts and investors question the company&#39;s scattershot efforts and its poor returns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230918/p3#a230918p3)
- - [OnePlus Pad Go design and launch date revealed](https://www.androidauthority.com/oneplus-pad-go-design-launch-window-3364666/)
- - [Prosus and Naspers CEO Bob van Dijk steps down and plans to remain as a consultant for a year; Prosus executive Ervin Tu will temporarily take over as CEO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230918/p2#a230918p2)<!-- TECH:END -->
+ - [Moment’s T-Series lenses give your smartphone’s camera superpowers](https://www.theverge.com/2023/9/18/23862233/moment-t-series-smartphone-lenses-hands-on-iphone-galaxy-pixel)
+ - [Disney is releasing a very expensive 100-movie Blu-ray collection](https://www.theverge.com/2023/9/10/23866610/disney-legacy-animated-film-collection-100-film-blu-ray-pixar-preorder)
+ - [iPhone 15 Pro Max production hindered by tetraprism camera lens](https://appleinsider.com/articles/23/09/18/main-iphone-15-pro-max-production-bottleneck-is-the-tetraprism-camera-lens?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
