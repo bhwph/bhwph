@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel&#39;s Avengers goes on sale one last time before being delisted forever](https://www.pcgamer.com/marvels-avengers-goes-on-sale-one-last-time-before-being-delisted-forever)
- - [NYT Connections hint and answers today: September 18 &lpar;#99&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-18-99)
- - [Unity apologizes for controversial new pricing scheme, &#39;will be making changes to the policy&#39;](https://www.pcgamer.com/unity-apologizes-for-controversial-new-pricing-scheme-will-be-making-changes-to-the-policy)<!-- GAME:END -->
+ - [Mortal Kombat 1’s Switch port is getting eviscerated by players](https://www.polygon.com/23878568/mortal-kombat-1-nintendo-switch-graphics-frame-rate-loading)
+ - [DC Comics adamant The Wolf Among Us&#39; source material is not in the public domain, as its creator calls them &#39;thugs and conmen&#39; and insists it is](https://www.pcgamer.com/dc-comics-adamant-the-wolf-among-us-source-material-is-not-in-the-public-domain-as-its-creator-calls-them-thugs-and-conmen-and-insists-it-is)
+ - [Microsoft&#39;s product chief for Windows 11 is leaving after nearly 20 years at the company](https://www.pcgamer.com/microsofts-product-chief-for-windows-11-is-leaving-after-nearly-20-years-at-the-company)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
