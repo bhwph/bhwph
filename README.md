@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Spotify and other streaming services have transformed the sound of music: songs are shorter, albums are longer, and artists collaborate more across genres &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230917/p4#a230917p4)
- - [Should you buy Apple Watch Series 9 or wait for the Watch X?](https://www.androidauthority.com/apple-watch-series-9-vs-watch-x-3364486/)
- - [Raiders vs. Bills Livestream: How to Watch NFL Week 2 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/raiders-vs-bills-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with DeepMind co-founder Mustafa Suleyman on maintaining AI optimism, how &quot;interactive&quot; AI will follow the generative AI wave, AI regulation, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230917/p5#a230917p5)
+ - [Grand Theft Auto V is now 10 years old](https://www.theverge.com/2023/9/17/23877777/grand-theft-auto-v-now-10-years-old)
+ - [Tim Cook talks advertising on X, Vision Pro, and more in a new interview](https://www.theverge.com/2023/9/17/23877433/tim-cook-talks-advertising-on-x-vision-pro-and-more-in-a-new-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
