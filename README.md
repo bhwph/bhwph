@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hard fall](http://9gag.com/gag/a1P8eMw)
- - 😝 [I could watch this for hours](http://9gag.com/gag/aGErw20)
- - 👉 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)<!-- MEMES:END -->
+ - 6️⃣ [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
+ - 😝 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
+ - 👉 [What position were they in?](http://9gag.com/gag/aKEXwGj)<!-- MEMES:END -->
 
 --- 
 
