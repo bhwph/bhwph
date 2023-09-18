@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
- - 😝 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
- - 👉 [What position were they in?](http://9gag.com/gag/aKEXwGj)<!-- MEMES:END -->
+ - 6️⃣ [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
+ - 😝 [Imagine being such a fat f**k you can&#39;t climb int bed and then you blame everyone else for it.](http://9gag.com/gag/a6qeyve)
+ - 👉 [Help me](http://9gag.com/gag/a8qvjK6)<!-- MEMES:END -->
 
 --- 
 
