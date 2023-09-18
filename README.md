@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with DeepMind co-founder Mustafa Suleyman on maintaining AI optimism, how &quot;interactive&quot; AI will follow the generative AI wave, AI regulation, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230917/p5#a230917p5)
- - [Grand Theft Auto V is now 10 years old](https://www.theverge.com/2023/9/17/23877777/grand-theft-auto-v-now-10-years-old)
- - [Tim Cook talks advertising on X, Vision Pro, and more in a new interview](https://www.theverge.com/2023/9/17/23877433/tim-cook-talks-advertising-on-x-vision-pro-and-more-in-a-new-interview)<!-- TECH:END -->
+ - [A look at Amazon&#39;s bets across industries, including health care, as some analysts and investors question the company&#39;s scattershot efforts and its poor returns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230918/p3#a230918p3)
+ - [OnePlus Pad Go design and launch date revealed](https://www.androidauthority.com/oneplus-pad-go-design-launch-window-3364666/)
+ - [Prosus and Naspers CEO Bob van Dijk steps down and plans to remain as a consultant for a year; Prosus executive Ervin Tu will temporarily take over as CEO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230918/p2#a230918p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
