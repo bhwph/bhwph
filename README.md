@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a puzzle game about a small dog with a very long stick](https://www.pcgamer.com/heres-a-puzzle-game-about-a-small-dog-with-a-very-long-stick)
- - [Wheel of Time’s Seanchan act like colonizers — exactly as they’re supposed to](https://www.polygon.com/23873981/wheel-of-time-season-2-seanchan-bad-guys-explained)
- - [The best shows to watch on Max](https://www.polygon.com/what-to-watch/23870121/best-tv-shows-series-max-watch)<!-- GAME:END -->
+ - [Brazen Blaze is a VR Smash Bros. where you can punch people into space](https://www.pcgamer.com/brazen-blaze-is-a-vr-smash-bros-where-you-can-punch-people-into-space)
+ - [Enjoy minimalist stealth-action, Splinter Cell and MGS style, in No Sun to Worship](https://www.pcgamer.com/enjoy-minimalist-stealth-action-splinter-cell-and-mgs-style-in-no-sun-to-worship)
+ - [Armored Core 6&#39;s biggest boss is so huge, it&#39;d be its own landmark on Elden Ring&#39;s world map](https://www.pcgamer.com/armored-core-6s-biggest-boss-is-so-huge-itd-be-its-own-landmark-on-elden-rings-world-map)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
