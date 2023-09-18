@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Brazen Blaze is a VR Smash Bros. where you can punch people into space](https://www.pcgamer.com/brazen-blaze-is-a-vr-smash-bros-where-you-can-punch-people-into-space)
- - [Enjoy minimalist stealth-action, Splinter Cell and MGS style, in No Sun to Worship](https://www.pcgamer.com/enjoy-minimalist-stealth-action-splinter-cell-and-mgs-style-in-no-sun-to-worship)
- - [Armored Core 6&#39;s biggest boss is so huge, it&#39;d be its own landmark on Elden Ring&#39;s world map](https://www.pcgamer.com/armored-core-6s-biggest-boss-is-so-huge-itd-be-its-own-landmark-on-elden-rings-world-map)<!-- GAME:END -->
+ - [Marvel&#39;s Avengers goes on sale one last time before being delisted forever](https://www.pcgamer.com/marvels-avengers-goes-on-sale-one-last-time-before-being-delisted-forever)
+ - [NYT Connections hint and answers today: September 18 &lpar;#99&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-18-99)
+ - [Unity apologizes for controversial new pricing scheme, &#39;will be making changes to the policy&#39;](https://www.pcgamer.com/unity-apologizes-for-controversial-new-pricing-scheme-will-be-making-changes-to-the-policy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
