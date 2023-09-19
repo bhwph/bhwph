@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Girafarig be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23878739/can-girafarig-be-shiny)
- - [Intel quietly launches its speedy Wi-Fi 7 chipsets](https://www.pcgamer.com/intel-quietly-launches-its-speedy-wi-fi-7-chipsets)
- - [NYT Connections hint and answers today: September 19 &lpar;#100&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-19-100)<!-- GAME:END -->
+ - [The new Percy Jackson show looks like it’s gonna rule, judging by the trailer](https://www.polygon.com/23880336/percy-jackson-trailer-release-date-riptide)
+ - [Tekken 8 is getting another bigger, better beta next month](https://www.pcgamer.com/tekken-8-is-getting-another-bigger-better-beta-next-month)
+ - [Forget Starfield, we were supposed to have an Oblivion remaster by now](https://www.pcgamer.com/forget-starfield-we-were-supposed-to-have-an-oblivion-remaster-by-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
