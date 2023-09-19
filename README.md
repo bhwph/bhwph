@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Baldur&#39;s Gate 3 cast will play their characters in a D&amp;D livestream this week](https://www.pcgamer.com/baldurs-gate-3-dnd-livestream-sep)
- - [Cyberpunk 2077 2.0&#39;s single best change is letting me become a chromed-up cyborg](https://www.pcgamer.com/cyberpunk-2077-20s-single-best-change-is-letting-me-become-a-chromed-up-cyborg)
- - [How to evolve Feebas into Milotic in Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23878953/how-to-evolve-feebas-milotic-prism-scale-location-trade-codes)<!-- GAME:END -->
+ - [Can Girafarig be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23878739/can-girafarig-be-shiny)
+ - [Intel quietly launches its speedy Wi-Fi 7 chipsets](https://www.pcgamer.com/intel-quietly-launches-its-speedy-wi-fi-7-chipsets)
+ - [NYT Connections hint and answers today: September 19 &lpar;#100&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-19-100)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
