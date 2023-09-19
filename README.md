@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moment’s T-Series lenses give your smartphone’s camera superpowers](https://www.theverge.com/2023/9/18/23862233/moment-t-series-smartphone-lenses-hands-on-iphone-galaxy-pixel)
- - [Disney is releasing a very expensive 100-movie Blu-ray collection](https://www.theverge.com/2023/9/10/23866610/disney-legacy-animated-film-collection-100-film-blu-ray-pixar-preorder)
- - [iPhone 15 Pro Max production hindered by tetraprism camera lens](https://appleinsider.com/articles/23/09/18/main-iphone-15-pro-max-production-bottleneck-is-the-tetraprism-camera-lens?utm_medium=rss)<!-- TECH:END -->
+ - [Best Wi-Fi 6 Router of 2023     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)
+ - [Monday Night Football: How to Watch Browns vs. Steelers, Saints vs. Panthers Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-browns-vs-steelers-saints-vs-panthers-tonight-without-cable/#ftag=CAD590a51e)
+ - [Filing: CEO of Block&#39;s Square unit Alyssa Henry plans to step down on October 2 after nine years at the company; Jack Dorsey will become the &quot;Square Head&quot; &lpar;Catherine Thorbecke/CNN&rpar;](http://www.techmeme.com/230918/p33#a230918p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
