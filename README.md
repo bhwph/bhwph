@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Help me](http://9gag.com/gag/a8qvjK6)
- - 😝 [A man burned a stranger&#39;s hair for no reason in Turkey](http://9gag.com/gag/az2vVLz)
- - 👉 [WTF?!](http://9gag.com/gag/ap9nL1n)<!-- MEMES:END -->
+ - 6️⃣ [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
+ - 😝 [Help me](http://9gag.com/gag/a8qvjK6)
+ - 👉 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)<!-- MEMES:END -->
 
 --- 
 
