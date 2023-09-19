@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
- - 😝 [Help me](http://9gag.com/gag/a8qvjK6)
- - 👉 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)<!-- MEMES:END -->
+ - 😝 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
+ - 👉 [Ah, I see you&#39;re a man of culture as well](http://9gag.com/gag/a3ZzMRr)<!-- MEMES:END -->
 
 --- 
 
