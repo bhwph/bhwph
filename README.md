@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Wi-Fi 6 Router of 2023     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)
- - [Monday Night Football: How to Watch Browns vs. Steelers, Saints vs. Panthers Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-browns-vs-steelers-saints-vs-panthers-tonight-without-cable/#ftag=CAD590a51e)
- - [Filing: CEO of Block&#39;s Square unit Alyssa Henry plans to step down on October 2 after nine years at the company; Jack Dorsey will become the &quot;Square Head&quot; &lpar;Catherine Thorbecke/CNN&rpar;](http://www.techmeme.com/230918/p33#a230918p33)<!-- TECH:END -->
+ - [Trend Micro: Chinese cyberespionage group Earth Lusca used a new Linux malware dubbed SprySOCKS to target government agencies in multiple countries in H1 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230919/p9#a230919p9)
+ - [Microsoft’s next Xbox, coming 2028, envisions hybrid computing](https://www.theverge.com/2023/9/19/23880138/microsoft-xbox-2028-hybrid-cloud-games-platform)
+ - [FTC v. Microsoft: in mid-2020, Phil Spencer discussed acquiring Warner Bros Interactive alongside Bethesda and said buying Nintendo would be a &quot;career moment&quot; &lpar;Push Square&rpar;](http://www.techmeme.com/230919/p8#a230919p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
