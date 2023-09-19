@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
- - 😝 [Imagine being such a fat f**k you can&#39;t climb int bed and then you blame everyone else for it.](http://9gag.com/gag/a6qeyve)
- - 👉 [Help me](http://9gag.com/gag/a8qvjK6)<!-- MEMES:END -->
+ - 6️⃣ [Help me](http://9gag.com/gag/a8qvjK6)
+ - 😝 [A man burned a stranger&#39;s hair for no reason in Turkey](http://9gag.com/gag/az2vVLz)
+ - 👉 [WTF?!](http://9gag.com/gag/ap9nL1n)<!-- MEMES:END -->
 
 --- 
 
