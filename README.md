@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trend Micro: Chinese cyberespionage group Earth Lusca used a new Linux malware dubbed SprySOCKS to target government agencies in multiple countries in H1 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230919/p9#a230919p9)
- - [Microsoft’s next Xbox, coming 2028, envisions hybrid computing](https://www.theverge.com/2023/9/19/23880138/microsoft-xbox-2028-hybrid-cloud-games-platform)
- - [FTC v. Microsoft: in mid-2020, Phil Spencer discussed acquiring Warner Bros Interactive alongside Bethesda and said buying Nintendo would be a &quot;career moment&quot; &lpar;Push Square&rpar;](http://www.techmeme.com/230919/p8#a230919p8)<!-- TECH:END -->
+ - [High Blood Pressure Is the World’s Biggest Killer. Now There’s a Plan to Tackle It](https://www.wired.com/story/high-blood-pressure-is-the-worlds-biggest-killer-now-theres-a-plan-to-tackle-it/)
+ - [Score a $500 credit when you pre-order this elite Samsung 57-inch monitor](https://www.androidauthority.com/samsung-57-inch-odyssey-neo-g9-monitor-deal-3365861/)
+ - [Austin-based HiddenLayer, which focuses on hardening the security of AI models used by companies, raised a $50M Series A led by M12 and Moore Strategic Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230919/p35#a230919p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
