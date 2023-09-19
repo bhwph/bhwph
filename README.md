@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mortal Kombat 1’s Switch port is getting eviscerated by players](https://www.polygon.com/23878568/mortal-kombat-1-nintendo-switch-graphics-frame-rate-loading)
- - [DC Comics adamant The Wolf Among Us&#39; source material is not in the public domain, as its creator calls them &#39;thugs and conmen&#39; and insists it is](https://www.pcgamer.com/dc-comics-adamant-the-wolf-among-us-source-material-is-not-in-the-public-domain-as-its-creator-calls-them-thugs-and-conmen-and-insists-it-is)
- - [Microsoft&#39;s product chief for Windows 11 is leaving after nearly 20 years at the company](https://www.pcgamer.com/microsofts-product-chief-for-windows-11-is-leaving-after-nearly-20-years-at-the-company)<!-- GAME:END -->
+ - [The Baldur&#39;s Gate 3 cast will play their characters in a D&amp;D livestream this week](https://www.pcgamer.com/baldurs-gate-3-dnd-livestream-sep)
+ - [Cyberpunk 2077 2.0&#39;s single best change is letting me become a chromed-up cyborg](https://www.pcgamer.com/cyberpunk-2077-20s-single-best-change-is-letting-me-become-a-chromed-up-cyborg)
+ - [How to evolve Feebas into Milotic in Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23878953/how-to-evolve-feebas-milotic-prism-scale-location-trade-codes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
