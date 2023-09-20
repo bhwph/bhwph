@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stacked 3D cache is coming to Intel CPUs, and gamers should be excited](https://www.pcgamer.com/stacked-3d-cache-is-coming-to-intel-cpus-and-gamers-should-be-excited)
- - [A new survey finds the public are growing increasingly wary of AI](https://www.pcgamer.com/a-new-survey-finds-the-public-are-growing-increasingly-wary-of-ai)
- - [NYT Connections hint and answers today: September 20 &lpar;#101&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-20-101)<!-- GAME:END -->
+ - [iFixit says Apple&#39;s iPhone 14 is &#39;literally not repairable&#39; due to strict parts validation rule](https://www.pcgamer.com/ifixit-says-apples-iphone-14-is-literally-not-repairable-due-to-strict-parts-validation-rule)
+ - [Infinity Strash: Dragon Quest The Adventure of Dai Is The Perfect Adaptation Of A Beloved Series](https://news.xbox.com/en-us/2023/09/20/infinity-strash-dragon-quest-the-adventure-of-dai-launches-september-28/)
+ - [This charming magic zoo game is all about keeping misbehaving critters in check long enough to help them](https://www.pcgamer.com/this-charming-magic-zoo-game-is-all-about-keeping-misbehaving-critters-in-check-long-enough-to-help-them)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
