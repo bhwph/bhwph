@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
- - 😝 [One of the best scenes](http://9gag.com/gag/a04DbYO)
- - 👉 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)<!-- MEMES:END -->
+ - 6️⃣ [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
+ - 😝 [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)
+ - 👉 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)<!-- MEMES:END -->
 
 --- 
 
