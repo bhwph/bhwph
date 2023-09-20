@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FTC says Microsoft leaked its own stuff, Phil Spencer downplays relevance of confidential docs](https://www.pcgamer.com/ftc-says-microsoft-leaked-its-own-stuff-phil-spencer-downplays-relevance-of-confidential-docs)
- - [Assassin&#39;s Creed Mirage has very reasonable system requirements, thank god](https://www.pcgamer.com/assassins-creed-mirage-has-very-reasonable-system-requirements-thank-god)
- - [The Silly Story Behind The Weirdest Xbox Exclusive](https://kotaku.com/yakuza-like-a-dragon-ps5-xbox-series-x-s-exclusive-why-1850854888)<!-- GAME:END -->
+ - [Stacked 3D cache is coming to Intel CPUs, and gamers should be excited](https://www.pcgamer.com/stacked-3d-cache-is-coming-to-intel-cpus-and-gamers-should-be-excited)
+ - [A new survey finds the public are growing increasingly wary of AI](https://www.pcgamer.com/a-new-survey-finds-the-public-are-growing-increasingly-wary-of-ai)
+ - [NYT Connections hint and answers today: September 20 &lpar;#101&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-20-101)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
