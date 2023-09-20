@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Percy Jackson show looks like it’s gonna rule, judging by the trailer](https://www.polygon.com/23880336/percy-jackson-trailer-release-date-riptide)
- - [Tekken 8 is getting another bigger, better beta next month](https://www.pcgamer.com/tekken-8-is-getting-another-bigger-better-beta-next-month)
- - [Forget Starfield, we were supposed to have an Oblivion remaster by now](https://www.pcgamer.com/forget-starfield-we-were-supposed-to-have-an-oblivion-remaster-by-now)<!-- GAME:END -->
+ - [FTC says Microsoft leaked its own stuff, Phil Spencer downplays relevance of confidential docs](https://www.pcgamer.com/ftc-says-microsoft-leaked-its-own-stuff-phil-spencer-downplays-relevance-of-confidential-docs)
+ - [Assassin&#39;s Creed Mirage has very reasonable system requirements, thank god](https://www.pcgamer.com/assassins-creed-mirage-has-very-reasonable-system-requirements-thank-god)
+ - [The Silly Story Behind The Weirdest Xbox Exclusive](https://kotaku.com/yakuza-like-a-dragon-ps5-xbox-series-x-s-exclusive-why-1850854888)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
