@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
- - 😝 [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)
- - 👉 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)<!-- MEMES:END -->
+ - 6️⃣ [Would this also apply to humans?](http://9gag.com/gag/aBdb0Zz)
+ - 😝 [I am sphinx today :3](http://9gag.com/gag/a2KAo99)
+ - 👉 [Ah, I see you&#39;re a man of culture as well](http://9gag.com/gag/a3ZzMRr)<!-- MEMES:END -->
 
 --- 
 
