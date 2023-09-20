@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bard&#39;s &quot;Google it&quot; feature adds the ability to &quot;double check&quot; answers by highlighting phrases with supporting or contradicting information found by Search &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230919/p48#a230919p48)
- - [Google Bard AI Dips into Gmail, Google Maps, YouTube     - CNET](https://www.cnet.com/tech/google-bard-ai-dips-into-gmail-google-maps-youtube/#ftag=CAD590a51e)
- - [OpenAI launches the Red Teaming Network, a contracted group of experts to help inform the company&#39;s AI model risk assessment and mitigation strategies &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230919/p47#a230919p47)<!-- TECH:END -->
+ - [A profile of Japan-based Soramitsu, which helped build Cambodia&#39;s &quot;quasi-digital currency&quot; system and is running CBDC studies in other Southeast Asian countries &lpar;Rest of World&rpar;](http://www.techmeme.com/230920/p8#a230920p8)
+ - [OxygenOS 14 beta roadmap released: Here’s when it’ll arrive on your device](https://www.androidauthority.com/oxygenos-14-beta-roadmap-3366100/)
+ - [Watch: Someone connected an iPhone 15 to an Android phone via USB-C](https://www.androidauthority.com/connect-iphone-15-to-android-phone-usb-c-3366099/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
