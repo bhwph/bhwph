@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
- - 😝 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
- - 👉 [Ah, I see you&#39;re a man of culture as well](http://9gag.com/gag/a3ZzMRr)<!-- MEMES:END -->
+ - 6️⃣ [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
+ - 😝 [One of the best scenes](http://9gag.com/gag/a04DbYO)
+ - 👉 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)<!-- MEMES:END -->
 
 --- 
 
