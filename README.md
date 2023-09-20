@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Japan-based Soramitsu, which helped build Cambodia&#39;s &quot;quasi-digital currency&quot; system and is running CBDC studies in other Southeast Asian countries &lpar;Rest of World&rpar;](http://www.techmeme.com/230920/p8#a230920p8)
- - [OxygenOS 14 beta roadmap released: Here’s when it’ll arrive on your device](https://www.androidauthority.com/oxygenos-14-beta-roadmap-3366100/)
- - [Watch: Someone connected an iPhone 15 to an Android phone via USB-C](https://www.androidauthority.com/connect-iphone-15-to-android-phone-usb-c-3366099/)<!-- TECH:END -->
+ - [Does your Mac, iPad, or iPhone make the cut for &#39;Death Stranding Director&#39;s Cut?&#39;](https://appleinsider.com/articles/23/09/20/does-your-mac-ipad-or-iphone-make-the-cut-for-death-stranding-directors-cut?utm_medium=rss)
+ - [Amazon Alexa Emergency Assist lets users call for help from an Echo](https://www.theverge.com/2023/9/20/23882337/amazon-alexa-emergency-assist-echo)
+ - [Amazon announces faster, smarter streaming sticks and new Fire TV Soundbar](https://www.theverge.com/2023/9/20/23882154/amazon-fire-tv-stick-4k-max-soundbar-announced)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
