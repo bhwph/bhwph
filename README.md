@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Be careful !!!](http://9gag.com/gag/aVb937n)
+ - 6️⃣ [Women](http://9gag.com/gag/aYVv7bV)
  - 😝 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
- - 👉 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)<!-- MEMES:END -->
+ - 👉 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)<!-- MEMES:END -->
 
 --- 
 
