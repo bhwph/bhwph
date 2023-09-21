@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Would this also apply to humans?](http://9gag.com/gag/aBdb0Zz)
- - 😝 [I am sphinx today :3](http://9gag.com/gag/a2KAo99)
- - 👉 [Ah, I see you&#39;re a man of culture as well](http://9gag.com/gag/a3ZzMRr)<!-- MEMES:END -->
+ - 6️⃣ [Germany](http://9gag.com/gag/aqeVg17)
+ - 😝 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
+ - 👉 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)<!-- MEMES:END -->
 
 --- 
 
