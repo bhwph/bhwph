@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Just 48 hours left to score 20% off a Lifetime Plex Pass](https://www.androidauthority.com/lifetime-plex-pass-deal-3366392/)
- - [Samsung could add to a busy Techtober with the Galaxy S23 FE launch](https://www.androidauthority.com/samsung-galaxy-s23-fe-october-launch-3366480/)
- - [Google Helped Spark a Phone Revolution by Doing a Simple but Radical Thing     - CNET](https://www.cnet.com/tech/mobile/google-helped-spark-a-phone-revolution-by-doing-a-simple-but-radical-thing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft unveils new Surface laptops, AI-powered Windows Copilot](https://appleinsider.com/articles/23/09/21/microsoft-unveils-new-surface-laptops-ai-powered-windows-copilot?utm_medium=rss)
+ - [Luxshare doubles iPhone production, prepares for Apple Vision Pro](https://appleinsider.com/articles/23/09/21/luxshare-doubles-iphone-production-prepares-for-apple-vision-pro?utm_medium=rss)
+ - [Microsoft announces the Surface Go 4 with a four-core Intel N200 chip and plans to sell the 2-in-1 only to businesses, available on October 3, starting at $579 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230921/p32#a230921p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
