@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iconic League of Legends team TSM replaced by Shopify in pro league](https://www.theverge.com/2023/9/20/23883238/league-of-legends-lcs-tsm-replaced-shopify-rebellion)
- - [iPhone 15 users can see battery cycle count &amp; more in Settings](https://appleinsider.com/articles/23/09/21/iphone-15-users-can-see-battery-cycle-count-more-in-settings?utm_medium=rss)
- - [With blistering public attacks against a lesser-known accelerator and investors, Y Combinator appears curiously on the defensive lately &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230920/p40#a230920p40)<!-- TECH:END -->
+ - [Just 48 hours left to score 20% off a Lifetime Plex Pass](https://www.androidauthority.com/lifetime-plex-pass-deal-3366392/)
+ - [Samsung could add to a busy Techtober with the Galaxy S23 FE launch](https://www.androidauthority.com/samsung-galaxy-s23-fe-october-launch-3366480/)
+ - [Google Helped Spark a Phone Revolution by Doing a Simple but Radical Thing     - CNET](https://www.cnet.com/tech/mobile/google-helped-spark-a-phone-revolution-by-doing-a-simple-but-radical-thing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
