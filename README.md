@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Germany](http://9gag.com/gag/aqeVg17)
- - 😝 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
- - 👉 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)<!-- MEMES:END -->
+ - 6️⃣ [Be careful !!!](http://9gag.com/gag/aVb937n)
+ - 😝 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
+ - 👉 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)<!-- MEMES:END -->
 
 --- 
 
