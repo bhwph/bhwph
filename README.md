@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [iFixit says Apple&#39;s iPhone 14 is &#39;literally not repairable&#39; due to strict parts validation rule](https://www.pcgamer.com/ifixit-says-apples-iphone-14-is-literally-not-repairable-due-to-strict-parts-validation-rule)
- - [Infinity Strash: Dragon Quest The Adventure of Dai Is The Perfect Adaptation Of A Beloved Series](https://news.xbox.com/en-us/2023/09/20/infinity-strash-dragon-quest-the-adventure-of-dai-launches-september-28/)
- - [This charming magic zoo game is all about keeping misbehaving critters in check long enough to help them](https://www.pcgamer.com/this-charming-magic-zoo-game-is-all-about-keeping-misbehaving-critters-in-check-long-enough-to-help-them)<!-- GAME:END -->
+ - [Here&#39;s when to expect the Cyberpunk 2077 2.0 patch to release in your time zone](https://www.pcgamer.com/cyberpunk-2077-20-patch-release-time-sept-21-unlock)
+ - [Trailer for disastrous Mortal Kombat 1 Switch release contains a Steam achievement popup](https://www.pcgamer.com/trailer-for-disastrous-mortal-kombat-1-switch-release-contains-a-steam-achievement-popup)
+ - [Your iPad can now serve as a gaming monitor](https://www.polygon.com/23882885/ipad-orion-gaming-monitor-app-usb-c-hdmi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
