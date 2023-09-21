@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NYT Connections hint and answers today: September 21 &lpar;#102&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-21-102)
- - [&lpar;For Southeast Asia&rpar; PlayStation 5 Console – EA Sports FC 24 Bundle coming September 29](https://blog.playstation.com/2023/09/20/20230920-eafc24/)
- - [&lpar;For Southeast Asia&rpar; PlayStation 5 Console – EA Sports FC 24 Bundle coming September 29](https://blog.playstation.com/2023/09/20/20230920-eafc24/)<!-- GAME:END -->
+ - [Meet The Early Lies Of P Mini-Boss That’s Terrifying Players](https://kotaku.com/lies-of-p-chapter-3-mini-boss-venigni-work-shovel-flame-1850860809)
+ - [You Can Finally Change Your Appearance In Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-magic-mirror-update-3-change-appearance-1850861103)
+ - [Final Fantasy 14 is getting an official tabletop RPG](https://www.polygon.com/23883894/final-fantasy-14-ttrpg-announce)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
