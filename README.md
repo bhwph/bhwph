@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s when to expect the Cyberpunk 2077 2.0 patch to release in your time zone](https://www.pcgamer.com/cyberpunk-2077-20-patch-release-time-sept-21-unlock)
- - [Trailer for disastrous Mortal Kombat 1 Switch release contains a Steam achievement popup](https://www.pcgamer.com/trailer-for-disastrous-mortal-kombat-1-switch-release-contains-a-steam-achievement-popup)
- - [Your iPad can now serve as a gaming monitor](https://www.polygon.com/23882885/ipad-orion-gaming-monitor-app-usb-c-hdmi)<!-- GAME:END -->
+ - [NYT Connections hint and answers today: September 21 &lpar;#102&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-21-102)
+ - [&lpar;For Southeast Asia&rpar; PlayStation 5 Console – EA Sports FC 24 Bundle coming September 29](https://blog.playstation.com/2023/09/20/20230920-eafc24/)
+ - [&lpar;For Southeast Asia&rpar; PlayStation 5 Console – EA Sports FC 24 Bundle coming September 29](https://blog.playstation.com/2023/09/20/20230920-eafc24/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
