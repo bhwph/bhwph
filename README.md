@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Keanu Reeves looks more like Keanu Reeves now thanks to Cyberpunk 2077&#39;s latest update](https://www.pcgamer.com/keanu-reeves-looks-more-like-keanu-reeves-now-thanks-to-cyberpunk-2077s-latest-update)
- - [I know someone told you it was time to play Cyberpunk 2077 every time it got a patch, but for real, it&#39;s time now](https://www.pcgamer.com/i-know-someone-told-you-it-was-time-to-play-cyberpunk-2077-every-time-it-got-a-patch-but-for-real-its-time-now)
- - [Modder Dav0r, creator of the iconic Garry&#39;s Mod toolgun, has died](https://www.pcgamer.com/modder-dav0r-creator-of-the-iconic-garrys-mod-toolgun-has-died)<!-- GAME:END -->
+ - [The EU says &#39;prove it&#39; to companies that are dubiously claiming their products are environmentally friendly](https://www.pcgamer.com/the-eu-says-prove-it-to-companies-that-are-dubiously-claiming-their-products-are-environmentally-friendly)
+ - [Assassin&#39;s Creed Mirage will support DLSS and FSR after all](https://www.pcgamer.com/assassins-creed-mirage-will-support-dlss-and-fsr-after-all)
+ - [NYT Connections hint and answers today: September 22 &lpar;#103&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-22-103)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
