@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Checkmate Leftists](http://9gag.com/gag/ap9n9GM)
- - 😝 [It\u2019s those little things that make us happy](http://9gag.com/gag/a8qv16Q)
- - 👉 [Daddy-daughter camping trip](http://9gag.com/gag/aRE80nQ)<!-- MEMES:END -->
+ - 6️⃣ [Cant stop watching](http://9gag.com/gag/aOxn3XR)
+ - 😝 [Relax song](http://9gag.com/gag/az2v1ex)
+ - 👉 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)<!-- MEMES:END -->
 
 --- 
 
