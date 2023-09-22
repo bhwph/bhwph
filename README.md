@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meet The Early Lies Of P Mini-Boss That’s Terrifying Players](https://kotaku.com/lies-of-p-chapter-3-mini-boss-venigni-work-shovel-flame-1850860809)
- - [You Can Finally Change Your Appearance In Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-magic-mirror-update-3-change-appearance-1850861103)
- - [Final Fantasy 14 is getting an official tabletop RPG](https://www.polygon.com/23883894/final-fantasy-14-ttrpg-announce)<!-- GAME:END -->
+ - [Keanu Reeves looks more like Keanu Reeves now thanks to Cyberpunk 2077&#39;s latest update](https://www.pcgamer.com/keanu-reeves-looks-more-like-keanu-reeves-now-thanks-to-cyberpunk-2077s-latest-update)
+ - [I know someone told you it was time to play Cyberpunk 2077 every time it got a patch, but for real, it&#39;s time now](https://www.pcgamer.com/i-know-someone-told-you-it-was-time-to-play-cyberpunk-2077-every-time-it-got-a-patch-but-for-real-its-time-now)
+ - [Modder Dav0r, creator of the iconic Garry&#39;s Mod toolgun, has died](https://www.pcgamer.com/modder-dav0r-creator-of-the-iconic-garrys-mod-toolgun-has-died)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
