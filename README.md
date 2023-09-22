@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This might be the cheapest Flip foldable on the market](https://www.androidauthority.com/tecno-phantom-v-flip-3366964/)
- - [Almost 500 brands &lpar;!&rpar; have exited the smartphone market since 2017](https://www.androidauthority.com/500-brands-exit-smartphone-market-3366975/)
- - [Microsoft’s Activision Blizzard deal gets preliminary approval from UK regulator](https://www.theverge.com/2023/9/22/23885176/microsofts-activision-blizzard-uk-cma-preliminary-approval)<!-- TECH:END -->
+ - [Google Pixel 9: Release date, price, specs, and rumors](https://www.androidauthority.com/google-pixel-9-3365966/)
+ - [&#39;Majority&#39; Imagines Internet Hate Mobs to the Extreme](https://www.wired.com/2023/09/geeks-guide-abby-goldsmith/)
+ - [Why the new AirPods Pro 2 are needed for Apple Vision Pro lossless audio](https://appleinsider.com/articles/23/09/22/why-the-new-airpods-pro-2-are-needed-for-apple-vision-pro-lossless-audio?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
