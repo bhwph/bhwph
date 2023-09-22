@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft unveils new Surface laptops, AI-powered Windows Copilot](https://appleinsider.com/articles/23/09/21/microsoft-unveils-new-surface-laptops-ai-powered-windows-copilot?utm_medium=rss)
- - [Luxshare doubles iPhone production, prepares for Apple Vision Pro](https://appleinsider.com/articles/23/09/21/luxshare-doubles-iphone-production-prepares-for-apple-vision-pro?utm_medium=rss)
- - [Microsoft announces the Surface Go 4 with a four-core Intel N200 chip and plans to sell the 2-in-1 only to businesses, available on October 3, starting at $579 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230921/p32#a230921p32)<!-- TECH:END -->
+ - [6 Best Early Prime Day Apple Deals &lpar;2023&rpar;: MacBooks and Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)
+ - [Prime Day Deals Return in October 2023. Here’s What to Know](https://www.wired.com/story/best-october-prime-day-deals-2023/)
+ - [11 Best Early Prime Day Laptop Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-laptop-deals-october-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
