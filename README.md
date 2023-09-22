@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The EU says &#39;prove it&#39; to companies that are dubiously claiming their products are environmentally friendly](https://www.pcgamer.com/the-eu-says-prove-it-to-companies-that-are-dubiously-claiming-their-products-are-environmentally-friendly)
- - [Assassin&#39;s Creed Mirage will support DLSS and FSR after all](https://www.pcgamer.com/assassins-creed-mirage-will-support-dlss-and-fsr-after-all)
- - [NYT Connections hint and answers today: September 22 &lpar;#103&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-22-103)<!-- GAME:END -->
+ - [Every Change In Baldur&#39;s Gate 3&#39;s Third Giant Update](https://kotaku.com/baldurs-gate-3-d-d-rpg-patch-notes-update-ps5-xbox-1850865062)
+ - [Cyberpunk 2077&#39;s New Edgerunners Easter Egg Brings The Waterworks](https://kotaku.com/cyberpunk-2077-2-0-update-edgerunners-anime-easter-egg-1850864822)
+ - [Monster Hunter Now ‘Diablos Invasion’ event guide](https://www.polygon.com/monster-hunter-now-guides/2023/9/22/23885388/diablos-event-time-date-invasion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
