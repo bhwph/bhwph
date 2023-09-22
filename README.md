@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Early Prime Day Apple Deals &lpar;2023&rpar;: MacBooks and Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)
- - [Prime Day Deals Return in October 2023. Here’s What to Know](https://www.wired.com/story/best-october-prime-day-deals-2023/)
- - [11 Best Early Prime Day Laptop Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-laptop-deals-october-2023/)<!-- TECH:END -->
+ - [This might be the cheapest Flip foldable on the market](https://www.androidauthority.com/tecno-phantom-v-flip-3366964/)
+ - [Almost 500 brands &lpar;!&rpar; have exited the smartphone market since 2017](https://www.androidauthority.com/500-brands-exit-smartphone-market-3366975/)
+ - [Microsoft’s Activision Blizzard deal gets preliminary approval from UK regulator](https://www.theverge.com/2023/9/22/23885176/microsofts-activision-blizzard-uk-cma-preliminary-approval)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
