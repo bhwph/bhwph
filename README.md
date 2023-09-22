@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 😝 [Relax song](http://9gag.com/gag/az2v1ex)
- - 👉 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)<!-- MEMES:END -->
+ - 6️⃣ [Silence Ankle Biter, I do not listen to people smaller than me](http://9gag.com/gag/abvLgEp)
+ - 😝 [My daughter is born 1h ago](http://9gag.com/gag/aA0LGnL)
+ - 👉 [I would argument and act as a child too.](http://9gag.com/gag/aDYq25x)<!-- MEMES:END -->
 
 --- 
 
