@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NYT Connections hint and answers today: September 23 &lpar;#104&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-23-104)
- - [Today&#39;s Wordle hint and answer #826: Saturday, September 23](https://www.pcgamer.com/wordle-answer-today-hint-826-september-23)
- - [Pokémon Go Grubbin Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/9/22/23885542/grubbin-community-day-shiny-vikavolt)<!-- GAME:END -->
+ - [Robert Rodriguez had to bring video games back for his new Spy Kids](https://www.polygon.com/23883921/spy-kids-armageddon-game-over-video-games-robert-rodriguez)
+ - [Cyberpunk 2077: How to start Phantom Liberty](https://www.pcgamer.com/cyberpunk-2077-how-to-start-phantom-liberty)
+ - [Cyberpunk 2077 is 40% off before next week’s launch of Phantom Liberty](https://www.polygon.com/deals/2023/9/23/23884055/gaming-deals-cyberpunk-2077-phantom-liberty-titanfall-2-blu-ray-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
