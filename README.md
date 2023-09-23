@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Fall of the House of Usher turns Poe’s classic into Gothic opioid horror](https://www.polygon.com/23884213/the-fall-of-house-usher-teaser-review-release-date)
- - [Payday 3 slammed on Steam by players forced to wait in server queues just to play by themselves](https://www.pcgamer.com/payday-3-nebula-server-errors)
- - [Bottoms, new TMNT movie, The Machine on Netflix, and every new movie to watch at home this weekend](https://www.polygon.com/2023/9/22/23878537/new-movies-watch-bottoms-tmnt-mutant-mayhem-paramount-plus-the-machine-netflix)<!-- GAME:END -->
+ - [NYT Connections hint and answers today: September 23 &lpar;#104&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-23-104)
+ - [Today&#39;s Wordle hint and answer #826: Saturday, September 23](https://www.pcgamer.com/wordle-answer-today-hint-826-september-23)
+ - [Pokémon Go Grubbin Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/9/22/23885542/grubbin-community-day-shiny-vikavolt)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
