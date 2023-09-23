@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Talk about job security](http://9gag.com/gag/a2KAwYe)
- - 😝 [A short and witty title](http://9gag.com/gag/agopg2n)
- - 👉 [His name was Stew](http://9gag.com/gag/a3ZzG53)<!-- MEMES:END -->
+ - 6️⃣ [End of discussion](http://9gag.com/gag/a7qmORe)
+ - 😝 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
+ - 👉 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)<!-- MEMES:END -->
 
 --- 
 
