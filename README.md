@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Silence Ankle Biter, I do not listen to people smaller than me](http://9gag.com/gag/abvLgEp)
- - 😝 [My daughter is born 1h ago](http://9gag.com/gag/aA0LGnL)
- - 👉 [I would argument and act as a child too.](http://9gag.com/gag/aDYq25x)<!-- MEMES:END -->
+ - 6️⃣ [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
+ - 😝 [Not a single second to be wasted](http://9gag.com/gag/aME0dVM)
+ - 👉 [Talk about job security](http://9gag.com/gag/a2KAwYe)<!-- MEMES:END -->
 
 --- 
 
