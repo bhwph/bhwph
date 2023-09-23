@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Change In Baldur&#39;s Gate 3&#39;s Third Giant Update](https://kotaku.com/baldurs-gate-3-d-d-rpg-patch-notes-update-ps5-xbox-1850865062)
- - [Cyberpunk 2077&#39;s New Edgerunners Easter Egg Brings The Waterworks](https://kotaku.com/cyberpunk-2077-2-0-update-edgerunners-anime-easter-egg-1850864822)
- - [Monster Hunter Now ‘Diablos Invasion’ event guide](https://www.polygon.com/monster-hunter-now-guides/2023/9/22/23885388/diablos-event-time-date-invasion)<!-- GAME:END -->
+ - [The Fall of the House of Usher turns Poe’s classic into Gothic opioid horror](https://www.polygon.com/23884213/the-fall-of-house-usher-teaser-review-release-date)
+ - [Payday 3 slammed on Steam by players forced to wait in server queues just to play by themselves](https://www.pcgamer.com/payday-3-nebula-server-errors)
+ - [Bottoms, new TMNT movie, The Machine on Netflix, and every new movie to watch at home this weekend](https://www.polygon.com/2023/9/22/23878537/new-movies-watch-bottoms-tmnt-mutant-mayhem-paramount-plus-the-machine-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
