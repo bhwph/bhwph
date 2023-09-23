@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Microsoft&#39;s Surface business as device revenue plunged in FY 2023 after growing steadily since FY 2014, as a major correction hits the wider PC market &lpar;Ed Bott/ZDNet&rpar;](http://www.techmeme.com/230923/p3#a230923p3)
- - [A writer whose AI-assisted essay went viral reflects on testing GPT-3 early, Sudowrite&#39;s novel generator, and whether AI is good for writers and literature &lpar;Vauhini Vara/Wired&rpar;](http://www.techmeme.com/230923/p2#a230923p2)
- - [Doc: Booking.com accuses the EU of using &quot;misleading&quot; and &quot;selective&quot; facts to block its &amp;euro;1.63B Etraveli acquisition and plans to challenge any ban in court &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230923/p1#a230923p1)<!-- TECH:END -->
+ - [Researchers and US agencies are overhauling or ending the study of political and medical misinfo due to pressure from Rep. Jim Jordan and other conservatives &lpar;Washington Post&rpar;](http://www.techmeme.com/230923/p7#a230923p7)
+ - [Samsung’s new ploy to get kids off iPhones is a MrBeast sponsorship](https://www.theverge.com/2023/9/23/23886657/samsung-mrbeast-sponsorhip-galaxy-apple-iphone)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-501-3367057/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
