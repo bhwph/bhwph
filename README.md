@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
- - 😝 [Not a single second to be wasted](http://9gag.com/gag/aME0dVM)
- - 👉 [Talk about job security](http://9gag.com/gag/a2KAwYe)<!-- MEMES:END -->
+ - 6️⃣ [Talk about job security](http://9gag.com/gag/a2KAwYe)
+ - 😝 [A short and witty title](http://9gag.com/gag/agopg2n)
+ - 👉 [His name was Stew](http://9gag.com/gag/a3ZzG53)<!-- MEMES:END -->
 
 --- 
 
