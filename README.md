@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9: Release date, price, specs, and rumors](https://www.androidauthority.com/google-pixel-9-3365966/)
- - [&#39;Majority&#39; Imagines Internet Hate Mobs to the Extreme](https://www.wired.com/2023/09/geeks-guide-abby-goldsmith/)
- - [Why the new AirPods Pro 2 are needed for Apple Vision Pro lossless audio](https://appleinsider.com/articles/23/09/22/why-the-new-airpods-pro-2-are-needed-for-apple-vision-pro-lossless-audio?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: SpaceX isn&#39;t planning to test its direct to cell service with T-Mobile until 2024 as SpaceX works on technical kinks, after a planned late 2023 rollout &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/230922/p20#a230922p20)
+ - [TCL&#39;s $200 5G Phone Is Now Available Unlocked     - CNET](https://www.cnet.com/tech/mobile/tcls-200-5g-phone-is-now-available-unlocked/#ftag=CAD590a51e)
+ - [Best Power Bank for iPhone for 2023     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
