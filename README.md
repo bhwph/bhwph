@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX isn&#39;t planning to test its direct to cell service with T-Mobile until 2024 as SpaceX works on technical kinks, after a planned late 2023 rollout &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/230922/p20#a230922p20)
- - [TCL&#39;s $200 5G Phone Is Now Available Unlocked     - CNET](https://www.cnet.com/tech/mobile/tcls-200-5g-phone-is-now-available-unlocked/#ftag=CAD590a51e)
- - [Best Power Bank for iPhone for 2023     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Microsoft&#39;s Surface business as device revenue plunged in FY 2023 after growing steadily since FY 2014, as a major correction hits the wider PC market &lpar;Ed Bott/ZDNet&rpar;](http://www.techmeme.com/230923/p3#a230923p3)
+ - [A writer whose AI-assisted essay went viral reflects on testing GPT-3 early, Sudowrite&#39;s novel generator, and whether AI is good for writers and literature &lpar;Vauhini Vara/Wired&rpar;](http://www.techmeme.com/230923/p2#a230923p2)
+ - [Doc: Booking.com accuses the EU of using &quot;misleading&quot; and &quot;selective&quot; facts to block its &amp;euro;1.63B Etraveli acquisition and plans to challenge any ban in court &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230923/p1#a230923p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
