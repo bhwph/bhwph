@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a countersuit, chip startup Rivos and six ex-Apple employees claim Apple intimidates workers who &quot;dare to leave&quot;; Apple accuses Rivos of trade secrets theft &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230923/p13#a230923p13)
- - [Three major US voting equipment makers grant some researchers access to their software and hardware, to fight conspiracy theories with greater transparency &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/230923/p12#a230923p12)
- - [How to merge albums of the same person or pet in Photos for iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-merge-albums-of-the-same-person-or-pet-in-photos-for-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [Thunderbolt 5: Release date, bandwidth, display support and more](https://www.androidauthority.com/thunderbolt-5-3367422/)
+ - [Some employees reminisce about Netflix&#39;s DVD subscription service, which upended the entertainment industry and is shutting down on September 29 after 25 years &lpar;New York Times&rpar;](http://www.techmeme.com/230924/p1#a230924p1)
+ - [Formula 1 Racing 2023: How to Watch and Livestream the Japanese GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-singapore-gp-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
