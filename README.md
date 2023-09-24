@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [His name was Stew](http://9gag.com/gag/a3ZzG53)
- - 😝 [Do I make you proud grandpa?](http://9gag.com/gag/a9q45go)
- - 👉 [Old but still cold](http://9gag.com/gag/a6qeD9q)<!-- MEMES:END -->
+ - 6️⃣ [Do I make you proud grandpa?](http://9gag.com/gag/a9q45go)
+ - 😝 [Should&#39;ve known the first time](http://9gag.com/gag/aME0me1)
+ - 👉 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)<!-- MEMES:END -->
 
 --- 
 
