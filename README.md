@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NYT Connections hint and answers today: September 24 &lpar;#105&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-24-105)
- - [No, that wasn&#39;t Elon Musk in Cyberpunk 2077, says senior quest designer](https://www.pcgamer.com/no-that-wasnt-elon-musk-in-cyberpunk-2077-says-senior-quest-designer)
- - [Today&#39;s Wordle hint and answer #827: Sunday, September 24](https://www.pcgamer.com/wordle-answer-today-hint-827-september-24)<!-- GAME:END -->
+ - [Expend4bles director wants you to have as much fun watching the movie as he did making it](https://www.polygon.com/23882557/expend4bles-action-fight-scenes-jason-statham-director-interview-scott-waugh)
+ - [Life looks peaceful in these pages from Demon Slayer’s official epilogue](https://www.polygon.com/23884313/preview-new-demon-slayer-manga)
+ - [Johnny Cage can never die](https://www.polygon.com/23883703/mortal-kombat-1-johnny-cage-brief-history)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
