@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thunderbolt 5: Release date, bandwidth, display support and more](https://www.androidauthority.com/thunderbolt-5-3367422/)
- - [Some employees reminisce about Netflix&#39;s DVD subscription service, which upended the entertainment industry and is shutting down on September 29 after 25 years &lpar;New York Times&rpar;](http://www.techmeme.com/230924/p1#a230924p1)
- - [Formula 1 Racing 2023: How to Watch and Livestream the Japanese GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-singapore-gp-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EV maker Nio launches the Nio Phone in China with a Snapdragon 8 Gen 2 chipset and 30+ car-specific features, including automatic parking, starting at ~$890 &lpar;Chethan Rao/Android Police&rpar;](http://www.techmeme.com/230924/p4#a230924p4)
+ - [Here’s what you miss out on by not buying the iPhone 15 Pro](https://www.androidauthority.com/iphone-15-vs-iphone-15-pro-3365302/)
+ - [Bears vs. Chiefs Livestream: How to Watch NFL Week 3 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/bears-vs-chiefs-livestream-how-to-watch-nfl-week-3-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
