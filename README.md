@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers and US agencies are overhauling or ending the study of political and medical misinfo due to pressure from Rep. Jim Jordan and other conservatives &lpar;Washington Post&rpar;](http://www.techmeme.com/230923/p7#a230923p7)
- - [Samsung’s new ploy to get kids off iPhones is a MrBeast sponsorship](https://www.theverge.com/2023/9/23/23886657/samsung-mrbeast-sponsorhip-galaxy-apple-iphone)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-501-3367057/)<!-- TECH:END -->
+ - [In a countersuit, chip startup Rivos and six ex-Apple employees claim Apple intimidates workers who &quot;dare to leave&quot;; Apple accuses Rivos of trade secrets theft &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230923/p13#a230923p13)
+ - [Three major US voting equipment makers grant some researchers access to their software and hardware, to fight conspiracy theories with greater transparency &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/230923/p12#a230923p12)
+ - [How to merge albums of the same person or pet in Photos for iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-merge-albums-of-the-same-person-or-pet-in-photos-for-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
