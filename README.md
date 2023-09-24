@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Robert Rodriguez had to bring video games back for his new Spy Kids](https://www.polygon.com/23883921/spy-kids-armageddon-game-over-video-games-robert-rodriguez)
- - [Cyberpunk 2077: How to start Phantom Liberty](https://www.pcgamer.com/cyberpunk-2077-how-to-start-phantom-liberty)
- - [Cyberpunk 2077 is 40% off before next week’s launch of Phantom Liberty](https://www.polygon.com/deals/2023/9/23/23884055/gaming-deals-cyberpunk-2077-phantom-liberty-titanfall-2-blu-ray-sale)<!-- GAME:END -->
+ - [26 staff have been laid off at Baldur&#39;s Gate: Enhanced Edition studio Beamdog](https://www.pcgamer.com/26-staff-have-been-laid-off-at-baldurs-gate-enhanced-edition-studio-beamdog)
+ - [Defend your interstellar factory when Dyson Sphere Program gets combat this December](https://www.pcgamer.com/defend-your-interstellar-factory-when-dyson-sphere-program-gets-combat-this-december)
+ - [The ambitious mod to recreate a 23-year-old vampire RPG in Skyrim shows off its take on medieval Prague](https://www.pcgamer.com/the-ambitious-mod-to-recreate-a-23-year-old-vampire-rpg-in-skyrim-shows-off-its-take-on-medieval-prague)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
