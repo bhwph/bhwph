@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [End of discussion](http://9gag.com/gag/a7qmORe)
- - 😝 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
- - 👉 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)<!-- MEMES:END -->
+ - 6️⃣ [His name was Stew](http://9gag.com/gag/a3ZzG53)
+ - 😝 [Do I make you proud grandpa?](http://9gag.com/gag/a9q45go)
+ - 👉 [Old but still cold](http://9gag.com/gag/a6qeD9q)<!-- MEMES:END -->
 
 --- 
 
