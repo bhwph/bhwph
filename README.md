@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [26 staff have been laid off at Baldur&#39;s Gate: Enhanced Edition studio Beamdog](https://www.pcgamer.com/26-staff-have-been-laid-off-at-baldurs-gate-enhanced-edition-studio-beamdog)
- - [Defend your interstellar factory when Dyson Sphere Program gets combat this December](https://www.pcgamer.com/defend-your-interstellar-factory-when-dyson-sphere-program-gets-combat-this-december)
- - [The ambitious mod to recreate a 23-year-old vampire RPG in Skyrim shows off its take on medieval Prague](https://www.pcgamer.com/the-ambitious-mod-to-recreate-a-23-year-old-vampire-rpg-in-skyrim-shows-off-its-take-on-medieval-prague)<!-- GAME:END -->
+ - [NYT Connections hint and answers today: September 24 &lpar;#105&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-24-105)
+ - [No, that wasn&#39;t Elon Musk in Cyberpunk 2077, says senior quest designer](https://www.pcgamer.com/no-that-wasnt-elon-musk-in-cyberpunk-2077-says-senior-quest-designer)
+ - [Today&#39;s Wordle hint and answer #827: Sunday, September 24](https://www.pcgamer.com/wordle-answer-today-hint-827-september-24)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
