@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [US to introduce &#39;guardrails&#39; to ensure that companies benefitting from CHIPS Act funding spend it where they should be](https://www.pcgamer.com/us-to-introduce-guardrails-to-ensure-that-companies-benefitting-from-chips-act-funding-spend-it-where-they-should-be)
- - [NYT Connections hint and answers today: September 25 &lpar;#106&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-25-106)
- - [A lost first-person Pokémon browser game has been found and restored](https://www.pcgamer.com/a-lost-first-person-pokemon-browser-game-has-been-found-and-restored)<!-- GAME:END -->
+ - [Pokémon’s Mega Evolutions Are Cool But Cruel](https://kotaku.com/pokemon-mega-evolution-timeline-hurts-houndoom-scizor-1850870401)
+ - [Star Wars Jedi: Survivor sequel in the works, star says](https://www.polygon.com/23889211/star-wars-jedi-3-trilogy-cal-kestis-cameron-monaghan)
+ - [The god game that flew too close to the sun](https://www.pcgamer.com/the-god-game-that-flew-too-close-to-the-sun)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
