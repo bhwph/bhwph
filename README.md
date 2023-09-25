@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Kevin Systrom about Artifact&#39;s Links discovery feature, moderation, the bear case and bull case for Threads, the current state of Instagram, and more &lpar;Jody Serrano/The Messenger&rpar;](http://www.techmeme.com/230924/p7#a230924p7)
- - [Resident Evil Village’s iPhone port might launch a day before Halloween](https://www.theverge.com/2023/9/24/23888326/resident-evil-village-iphone-15-pro-ipad-pro-air-m1-m2-release-date)
- - [A profile of Hank Asher, the &quot;father of data fusion&quot; who died in 2013 after initiating a vast shift in privacy norms through his data mining software companies &lpar;McKenzie Funk/New York Times&rpar;](http://www.techmeme.com/230924/p6#a230924p6)<!-- TECH:END -->
+ - [Amazon to invest up to $4B in Anthropic, with an initial investment of $1.25B for a minority stake in the AI startup, and an option to increase the total to $4B &lpar;Financial Times&rpar;](http://www.techmeme.com/230925/p1#a230925p1)
+ - [Pixel Watch 2 appears in black, UK price leaked](https://www.androidauthority.com/pixel-watch-2-price-leak-3367624/)
+ - [Full Pixel 8 specs leak, suggests Pro will have better durability](https://www.androidauthority.com/google-pixel-8-series-spec-sheets-leak-3367600/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
