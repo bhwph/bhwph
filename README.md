@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s Meteor Lake chips are coming to desktops after all](https://www.pcgamer.com/intels-meteor-lake-chips-are-coming-to-desktops-after-all)
- - [Third Star Wars: Jedi game confirmed by Cal Kestis actor Cameron Monaghan](https://www.pcgamer.com/third-star-wars-jedi-game-confirmed-by-cal-kestis-actor-cameron-monaghan)
- - [Here&#39;s when Cyberpunk 2077: Phantom Liberty unlocks in your time zone](https://www.pcgamer.com/cyberpunk-2077-phantom-liberty-release-time-steam-unlock)<!-- GAME:END -->
+ - [US to introduce &#39;guardrails&#39; to ensure that companies benefitting from CHIPS Act funding spend it where they should be](https://www.pcgamer.com/us-to-introduce-guardrails-to-ensure-that-companies-benefitting-from-chips-act-funding-spend-it-where-they-should-be)
+ - [NYT Connections hint and answers today: September 25 &lpar;#106&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-25-106)
+ - [A lost first-person Pokémon browser game has been found and restored](https://www.pcgamer.com/a-lost-first-person-pokemon-browser-game-has-been-found-and-restored)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
