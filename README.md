@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Expend4bles director wants you to have as much fun watching the movie as he did making it](https://www.polygon.com/23882557/expend4bles-action-fight-scenes-jason-statham-director-interview-scott-waugh)
- - [Life looks peaceful in these pages from Demon Slayer’s official epilogue](https://www.polygon.com/23884313/preview-new-demon-slayer-manga)
- - [Johnny Cage can never die](https://www.polygon.com/23883703/mortal-kombat-1-johnny-cage-brief-history)<!-- GAME:END -->
+ - [Intel&#39;s Meteor Lake chips are coming to desktops after all](https://www.pcgamer.com/intels-meteor-lake-chips-are-coming-to-desktops-after-all)
+ - [Third Star Wars: Jedi game confirmed by Cal Kestis actor Cameron Monaghan](https://www.pcgamer.com/third-star-wars-jedi-game-confirmed-by-cal-kestis-actor-cameron-monaghan)
+ - [Here&#39;s when Cyberpunk 2077: Phantom Liberty unlocks in your time zone](https://www.pcgamer.com/cyberpunk-2077-phantom-liberty-release-time-steam-unlock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
