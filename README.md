@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)
- - 😝 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
- - 👉 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)<!-- MEMES:END -->
+ - 6️⃣ [Christopher Reeve. All aboard the feels train.](http://9gag.com/gag/avQBEdq)
+ - 😝 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 👉 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)<!-- MEMES:END -->
 
 --- 
 
