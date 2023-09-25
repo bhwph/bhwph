@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EV maker Nio launches the Nio Phone in China with a Snapdragon 8 Gen 2 chipset and 30+ car-specific features, including automatic parking, starting at ~$890 &lpar;Chethan Rao/Android Police&rpar;](http://www.techmeme.com/230924/p4#a230924p4)
- - [Here’s what you miss out on by not buying the iPhone 15 Pro](https://www.androidauthority.com/iphone-15-vs-iphone-15-pro-3365302/)
- - [Bears vs. Chiefs Livestream: How to Watch NFL Week 3 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/bears-vs-chiefs-livestream-how-to-watch-nfl-week-3-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Kevin Systrom about Artifact&#39;s Links discovery feature, moderation, the bear case and bull case for Threads, the current state of Instagram, and more &lpar;Jody Serrano/The Messenger&rpar;](http://www.techmeme.com/230924/p7#a230924p7)
+ - [Resident Evil Village’s iPhone port might launch a day before Halloween](https://www.theverge.com/2023/9/24/23888326/resident-evil-village-iphone-15-pro-ipad-pro-air-m1-m2-release-date)
+ - [A profile of Hank Asher, the &quot;father of data fusion&quot; who died in 2013 after initiating a vast shift in privacy norms through his data mining software companies &lpar;McKenzie Funk/New York Times&rpar;](http://www.techmeme.com/230924/p6#a230924p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
