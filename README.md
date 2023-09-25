@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon to invest up to $4B in Anthropic, with an initial investment of $1.25B for a minority stake in the AI startup, and an option to increase the total to $4B &lpar;Financial Times&rpar;](http://www.techmeme.com/230925/p1#a230925p1)
- - [Pixel Watch 2 appears in black, UK price leaked](https://www.androidauthority.com/pixel-watch-2-price-leak-3367624/)
- - [Full Pixel 8 specs leak, suggests Pro will have better durability](https://www.androidauthority.com/google-pixel-8-series-spec-sheets-leak-3367600/)<!-- TECH:END -->
+ - [Pay almost $0 upfront for the iPhone 15 Pro with a $60 Boost Infinite plan](https://www.androidauthority.com/free-iphone-15-pro-boost-infinite-plan-3367749/)
+ - [Boston-based Openly, which uses AI to generate home insurance quotes in 20+ US states, raised a $100M Series D led by Eden, bringing its total funding to $240M &lpar;Lucia Maffei/Boston Business Journal&rpar;](http://www.techmeme.com/230925/p12#a230925p12)
+ - [Apple’s discontinued MagSafe Duo charger is on sale for $35 off](https://www.theverge.com/2023/9/25/23888976/apple-magsafe-duo-beats-studio-buds-plus-macbook-air-m2-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
