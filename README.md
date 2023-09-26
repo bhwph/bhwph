@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pay almost $0 upfront for the iPhone 15 Pro with a $60 Boost Infinite plan](https://www.androidauthority.com/free-iphone-15-pro-boost-infinite-plan-3367749/)
- - [Boston-based Openly, which uses AI to generate home insurance quotes in 20+ US states, raised a $100M Series D led by Eden, bringing its total funding to $240M &lpar;Lucia Maffei/Boston Business Journal&rpar;](http://www.techmeme.com/230925/p12#a230925p12)
- - [Apple’s discontinued MagSafe Duo charger is on sale for $35 off](https://www.theverge.com/2023/9/25/23888976/apple-magsafe-duo-beats-studio-buds-plus-macbook-air-m2-deal-sale)<!-- TECH:END -->
+ - [Email: YouTube plans to stop offering its ad-free &amp;euro;6.99/month Premium Lite tier, launched in select European countries in August 2021, after October 25, 2023 &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/230925/p19#a230925p19)
+ - [Google plans to support the Basic HTML version of Gmail only until January 2024, saying it does not include &quot;full Gmail feature functionality&quot; &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/230925/p18#a230925p18)
+ - [Getty Images Plunges Into the Generative AI Pool](https://www.wired.com/story/getty-images-generative-ai-photo-tool/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
