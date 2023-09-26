@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon’s Mega Evolutions Are Cool But Cruel](https://kotaku.com/pokemon-mega-evolution-timeline-hurts-houndoom-scizor-1850870401)
- - [Star Wars Jedi: Survivor sequel in the works, star says](https://www.polygon.com/23889211/star-wars-jedi-3-trilogy-cal-kestis-cameron-monaghan)
- - [The god game that flew too close to the sun](https://www.pcgamer.com/the-god-game-that-flew-too-close-to-the-sun)<!-- GAME:END -->
+ - [CCP knows Dust 514 should never have been a console exclusive: &#39;If we had been on PC the whole time the game would literally be alive&#39;](https://www.pcgamer.com/ccp-knows-dust-514-should-never-have-been-a-console-exclusive-if-we-had-been-on-pc-the-whole-time-the-game-would-literally-be-alive)
+ - [Should you kill Jacob and Taylor in Cyberpunk 2077?](https://www.pcgamer.com/cyberpunk-2077-jacob-taylor-choice-kill)
+ - [How To Unlock Cyberpunk 2077’s New Ending In Phantom Liberty](https://kotaku.com/cyberpunk-2077-phantom-liberty-how-to-unlock-new-ending-1850871301)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
