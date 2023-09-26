@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lucky](http://9gag.com/gag/aA0LvM2)
- - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
- - 👉 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)<!-- MEMES:END -->
+ - 6️⃣ [Clean split](http://9gag.com/gag/aVb9Vv8)
+ - 😝 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
+ - 👉 [Take that](http://9gag.com/gag/aXnmK3g)<!-- MEMES:END -->
 
 --- 
 
