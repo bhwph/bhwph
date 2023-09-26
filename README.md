@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is that the freeway?](http://9gag.com/gag/a04D6GL)
- - 😝 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
- - 👉 [Take that](http://9gag.com/gag/aXnmK3g)<!-- MEMES:END -->
+ - 6️⃣ [Lucky](http://9gag.com/gag/aA0LvM2)
+ - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
+ - 👉 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)<!-- MEMES:END -->
 
 --- 
 
