@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [CCP knows Dust 514 should never have been a console exclusive: &#39;If we had been on PC the whole time the game would literally be alive&#39;](https://www.pcgamer.com/ccp-knows-dust-514-should-never-have-been-a-console-exclusive-if-we-had-been-on-pc-the-whole-time-the-game-would-literally-be-alive)
- - [Should you kill Jacob and Taylor in Cyberpunk 2077?](https://www.pcgamer.com/cyberpunk-2077-jacob-taylor-choice-kill)
- - [How To Unlock Cyberpunk 2077’s New Ending In Phantom Liberty](https://kotaku.com/cyberpunk-2077-phantom-liberty-how-to-unlock-new-ending-1850871301)<!-- GAME:END -->
+ - [Can Growlithe be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889276/can-growlithe-be-shiny-arcanine)
+ - [ChatGPT update gives it eyes and ears](https://www.pcgamer.com/chatgpt-update-gives-it-eyes-and-ears)
+ - [Radeon boss Scott Herkelman will leave AMD at the end of the year](https://www.pcgamer.com/radeon-boss-scott-herkelman-will-leave-amd-at-the-end-of-the-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
