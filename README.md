@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Growlithe be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889276/can-growlithe-be-shiny-arcanine)
- - [ChatGPT update gives it eyes and ears](https://www.pcgamer.com/chatgpt-update-gives-it-eyes-and-ears)
- - [Radeon boss Scott Herkelman will leave AMD at the end of the year](https://www.pcgamer.com/radeon-boss-scott-herkelman-will-leave-amd-at-the-end-of-the-year)<!-- GAME:END -->
+ - [Squealing pigs, disgruntled bison, and the most beautiful frying meat I&#39;ve ever seen: Dragon&#39;s Dogma 2 is just as wonderfully weird as the first game](https://www.pcgamer.com/squealing-pigs-disgruntled-bison-and-the-most-beautiful-frying-meat-ive-ever-seen-dragons-dogma-2-is-just-as-wonderfully-weird-as-the-first-game)
+ - [Behind the Scenes of Cyberpunk 2077: Phantom Liberty’s Launch Trailer](https://news.xbox.com/en-us/2023/09/26/cyberpunk-2077-phantom-liberty-launch-trailer/)
+ - [Elon Musk doesn’t know his Mercy fetish is boring](https://www.polygon.com/23884737/elon-musk-amber-heard-mercy-cosplay-sexism-overwatch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
