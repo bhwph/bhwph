@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Windows 11 Pro License Costs Just $27 While This Deal Lasts     - CNET](https://www.cnet.com/deals/windows-11-pro-license-costs-27-while-this-deal-lasts/#ftag=CAD590a51e)
- - [Samsung Galaxy S24 series launch date possibly leaked](https://www.androidauthority.com/samsung-galaxy-s24-series-launch-date-3368161/)
- - [Spotify Jam Makes Real-Time Playlists With Your Friends     - CNET](https://www.cnet.com/tech/services-and-software/spotify-jam-makes-real-time-playlists-with-friends/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US FTC and 17 states sue Amazon, alleging it wields monopoly power that keeps prices artificially high, locks in sellers, and harms its rivals &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230926/p14#a230926p14)
+ - [This code drops 20% off Spigen’s new iPhone 15 cases](https://www.androidauthority.com/spigen-iphone-15-cases-deals-3368384/)
+ - [FTC files a massive antitrust lawsuit against Amazon](https://www.theverge.com/2023/9/26/23809817/amazon-ftc-antitrust-lawsuit-monopoly)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
