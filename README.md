@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Email: YouTube plans to stop offering its ad-free &amp;euro;6.99/month Premium Lite tier, launched in select European countries in August 2021, after October 25, 2023 &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/230925/p19#a230925p19)
- - [Google plans to support the Basic HTML version of Gmail only until January 2024, saying it does not include &quot;full Gmail feature functionality&quot; &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/230925/p18#a230925p18)
- - [Getty Images Plunges Into the Generative AI Pool](https://www.wired.com/story/getty-images-generative-ai-photo-tool/)<!-- TECH:END -->
+ - [A Windows 11 Pro License Costs Just $27 While This Deal Lasts     - CNET](https://www.cnet.com/deals/windows-11-pro-license-costs-27-while-this-deal-lasts/#ftag=CAD590a51e)
+ - [Samsung Galaxy S24 series launch date possibly leaked](https://www.androidauthority.com/samsung-galaxy-s24-series-launch-date-3368161/)
+ - [Spotify Jam Makes Real-Time Playlists With Your Friends     - CNET](https://www.cnet.com/tech/services-and-software/spotify-jam-makes-real-time-playlists-with-friends/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
