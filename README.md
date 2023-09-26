@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 😝 [\u20ac25,000 Fine To Lando For Touching Oscar&#39;s Rear End](http://9gag.com/gag/aRE8zP2)
- - 👉 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
+ - 6️⃣ [Is that the freeway?](http://9gag.com/gag/a04D6GL)
+ - 😝 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
+ - 👉 [Take that](http://9gag.com/gag/aXnmK3g)<!-- MEMES:END -->
 
 --- 
 
