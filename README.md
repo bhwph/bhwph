@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US FTC and 17 states sue Amazon, alleging it wields monopoly power that keeps prices artificially high, locks in sellers, and harms its rivals &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230926/p14#a230926p14)
- - [This code drops 20% off Spigen’s new iPhone 15 cases](https://www.androidauthority.com/spigen-iphone-15-cases-deals-3368384/)
- - [FTC files a massive antitrust lawsuit against Amazon](https://www.theverge.com/2023/9/26/23809817/amazon-ftc-antitrust-lawsuit-monopoly)<!-- TECH:END -->
+ - [Hollywood’s actors are still on strike](https://www.theverge.com/2023/7/17/23798246/strike-hollywoods-writers-actors-wga-sag-aftra)
+ - [The Writers Guild of America’s strike ends at midnight](https://www.theverge.com/2023/9/26/23889334/wga-strike-end-hollywood-writers)
+ - [Sources: Palo Alto Networks is in negotiations to acquire Dig Security for between $300M and $400M and Talon Cyber Security for between $600M and $700M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230926/p31#a230926p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
