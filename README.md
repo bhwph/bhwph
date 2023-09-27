@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stick the D in crazy](http://9gag.com/gag/ap9nVK5)
- - 😝 [Learning to drive properly](http://9gag.com/gag/awZ9vKB)
- - 👉 [Take that](http://9gag.com/gag/aXnmK3g)<!-- MEMES:END -->
+ - 6️⃣ [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
+ - 😝 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
+ - 👉 [Man EDUCATES A WOKE Professor On CULTURAL APPROPRIATION](http://9gag.com/gag/aNwG8A3)<!-- MEMES:END -->
 
 --- 
 
