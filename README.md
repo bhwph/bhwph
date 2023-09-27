@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Squealing pigs, disgruntled bison, and the most beautiful frying meat I&#39;ve ever seen: Dragon&#39;s Dogma 2 is just as wonderfully weird as the first game](https://www.pcgamer.com/squealing-pigs-disgruntled-bison-and-the-most-beautiful-frying-meat-ive-ever-seen-dragons-dogma-2-is-just-as-wonderfully-weird-as-the-first-game)
- - [Behind the Scenes of Cyberpunk 2077: Phantom Liberty’s Launch Trailer](https://news.xbox.com/en-us/2023/09/26/cyberpunk-2077-phantom-liberty-launch-trailer/)
- - [Elon Musk doesn’t know his Mercy fetish is boring](https://www.polygon.com/23884737/elon-musk-amber-heard-mercy-cosplay-sexism-overwatch)<!-- GAME:END -->
+ - [Ahead of update, Vampire Survivors creator insists &#39;graphically ugly third person devoid-of-narrative single player games will continue to be the foundation of our business&#39;](https://www.pcgamer.com/ahead-of-update-vampire-survivors-creator-insists-graphically-ugly-third-person-devoid-of-narrative-single-player-games-will-continue-to-be-the-foundation-of-our-business)
+ - [Extended Play promotion comes to PlayStation Store](https://blog.playstation.com/2023/09/26/extended-play-promotion-comes-to-playstation-store-4/)
+ - [George R.R. Martin and other authors say OpenAI stole their books to train ChatGPT: &#39;We are here to fight&#39;](https://www.pcgamer.com/george-rr-martin-and-other-authors-say-openai-stole-their-books-to-train-chatgpt-we-are-here-to-fight)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
