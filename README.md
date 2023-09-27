@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ahead of update, Vampire Survivors creator insists &#39;graphically ugly third person devoid-of-narrative single player games will continue to be the foundation of our business&#39;](https://www.pcgamer.com/ahead-of-update-vampire-survivors-creator-insists-graphically-ugly-third-person-devoid-of-narrative-single-player-games-will-continue-to-be-the-foundation-of-our-business)
- - [Extended Play promotion comes to PlayStation Store](https://blog.playstation.com/2023/09/26/extended-play-promotion-comes-to-playstation-store-4/)
- - [George R.R. Martin and other authors say OpenAI stole their books to train ChatGPT: &#39;We are here to fight&#39;](https://www.pcgamer.com/george-rr-martin-and-other-authors-say-openai-stole-their-books-to-train-chatgpt-we-are-here-to-fight)<!-- GAME:END -->
+ - [NYT Connections hint and answers today: September 27 &lpar;#108&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-27-108)
+ - [Newegg announces a hassle-free GPU trade-in program](https://www.pcgamer.com/newegg-announces-a-hassle-free-gpu-trade-in-program)
+ - [Today&#39;s Wordle hint and answer #830: Wednesday, September 27](https://www.pcgamer.com/wordle-answer-today-hint-830-september-27)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
