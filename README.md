@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hollywood’s actors are still on strike](https://www.theverge.com/2023/7/17/23798246/strike-hollywoods-writers-actors-wga-sag-aftra)
- - [The Writers Guild of America’s strike ends at midnight](https://www.theverge.com/2023/9/26/23889334/wga-strike-end-hollywood-writers)
- - [Sources: Palo Alto Networks is in negotiations to acquire Dig Security for between $300M and $400M and Talon Cyber Security for between $600M and $700M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230926/p31#a230926p31)<!-- TECH:END -->
+ - [Linda Yaccarino reflects on her first 100 days as X CEO, says intense public scrutiny is &quot;hard on me&quot;, as sources describe her relationship with Elon Musk &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230927/p8#a230927p8)
+ - [Study: 88% of S&amp;P 500 company boards don&#39;t have a director with direct cybersecurity experience; only seven companies have a current or former CISO on the board &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/230927/p7#a230927p7)
+ - [Idris Elba Is Ready to Talk About Crypto](https://www.wired.com/story/idris-elba-crypto-stellar-development-foundation/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
