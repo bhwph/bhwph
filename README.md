@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Linda Yaccarino reflects on her first 100 days as X CEO, says intense public scrutiny is &quot;hard on me&quot;, as sources describe her relationship with Elon Musk &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230927/p8#a230927p8)
- - [Study: 88% of S&amp;P 500 company boards don&#39;t have a director with direct cybersecurity experience; only seven companies have a current or former CISO on the board &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/230927/p7#a230927p7)
- - [Idris Elba Is Ready to Talk About Crypto](https://www.wired.com/story/idris-elba-crypto-stellar-development-foundation/)<!-- TECH:END -->
+ - [Young people are suing Europe’s governments over climate change](https://www.theverge.com/2023/9/27/23892294/climate-change-lawsuit-young-people-sue-europe-governments-human-rights-hearing)
+ - [Apple&#39;s long-term demand for 3nm chips may be lower than expected](https://appleinsider.com/articles/23/09/27/apples-long-term-demand-for-3nm-chips-may-be-lower-than-expected?utm_medium=rss)
+ - [Filing: the US FTC revives its challenge against Microsoft&#39;s $69B acquisition of Activision Blizzard, a move which may seek to unwind the deal after it closes &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/230927/p21#a230927p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
