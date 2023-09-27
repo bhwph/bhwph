@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
- - 😝 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
- - 👉 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)<!-- MEMES:END -->
+ - 6️⃣ [Stick the D in crazy](http://9gag.com/gag/ap9nVK5)
+ - 😝 [Learning to drive properly](http://9gag.com/gag/awZ9vKB)
+ - 👉 [Take that](http://9gag.com/gag/aXnmK3g)<!-- MEMES:END -->
 
 --- 
 
