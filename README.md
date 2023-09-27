@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NYT Connections hint and answers today: September 27 &lpar;#108&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-27-108)
- - [Newegg announces a hassle-free GPU trade-in program](https://www.pcgamer.com/newegg-announces-a-hassle-free-gpu-trade-in-program)
- - [Today&#39;s Wordle hint and answer #830: Wednesday, September 27](https://www.pcgamer.com/wordle-answer-today-hint-830-september-27)<!-- GAME:END -->
+ - [Bonus Xbox Update for September: A Simplified Experience to Back Up Your Game Captures to OneDrive and More](https://news.xbox.com/en-us/2023/09/27/bonus-xbox-update-for-september/)
+ - [In Gen V, superpowers are nothing if your posts aren’t good](https://www.polygon.com/23891544/gen-v-the-boys-prime-video-early-impression-review)
+ - [Starfield ‘Nerfed The Hell’ Out Of Environmental Damage During Development](https://kotaku.com/starfield-game-ships-xbox-series-pc-planets-affliction-1850877767)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
