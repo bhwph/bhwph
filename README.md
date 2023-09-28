@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will have to face an antitrust lawsuit alleging iOS Apple Pay dominance](https://www.theverge.com/2023/9/27/23893434/apple-pay-antitrust-lawsuit-tap-to-pay-digital-wallet)
- - [Kia’s three-row EV9 electric SUV will start at $54,900](https://www.theverge.com/2023/9/27/23893352/kia-ev9-2024-starting-price-cost-announcement)
- - [Paris-based Mistral AI makes its first LLM, Mistral 7B, which the company claims outperforms open models up to 13B parameters, free to all without restrictions &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230927/p50#a230927p50)<!-- TECH:END -->
+ - [Google has doubled its market share for Pixel phones in the US since last year](https://www.androidauthority.com/google-pixel-us-market-share-q2-2023-3369219/)
+ - [Raspberry Pi 5 launches with 64-bit quad-core Arm Cortex-A76 processor, up to 8GB of RAM, two 4K HDMI ports with HDR, available in October for $60 for 4GB model &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230928/p9#a230928p9)
+ - [Counterpoint: Pixel had a record 12% market share in Japan in Q2 2023, up from 2% YoY, while the iPhone&#39;s share fell from 58% to 46% during the same period &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/230928/p8#a230928p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
