@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Young people are suing Europe’s governments over climate change](https://www.theverge.com/2023/9/27/23892294/climate-change-lawsuit-young-people-sue-europe-governments-human-rights-hearing)
- - [Apple&#39;s long-term demand for 3nm chips may be lower than expected](https://appleinsider.com/articles/23/09/27/apples-long-term-demand-for-3nm-chips-may-be-lower-than-expected?utm_medium=rss)
- - [Filing: the US FTC revives its challenge against Microsoft&#39;s $69B acquisition of Activision Blizzard, a move which may seek to unwind the deal after it closes &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/230927/p21#a230927p21)<!-- TECH:END -->
+ - [Apple will have to face an antitrust lawsuit alleging iOS Apple Pay dominance](https://www.theverge.com/2023/9/27/23893434/apple-pay-antitrust-lawsuit-tap-to-pay-digital-wallet)
+ - [Kia’s three-row EV9 electric SUV will start at $54,900](https://www.theverge.com/2023/9/27/23893352/kia-ev9-2024-starting-price-cost-announcement)
+ - [Paris-based Mistral AI makes its first LLM, Mistral 7B, which the company claims outperforms open models up to 13B parameters, free to all without restrictions &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230927/p50#a230927p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
