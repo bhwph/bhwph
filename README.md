@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
- - 😝 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
- - 👉 [Man EDUCATES A WOKE Professor On CULTURAL APPROPRIATION](http://9gag.com/gag/aNwG8A3)<!-- MEMES:END -->
+ - 6️⃣ [Huehuehue](http://9gag.com/gag/a04Dzbn)
+ - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
+ - 👉 [I wonder why?](http://9gag.com/gag/aeQqPym)<!-- MEMES:END -->
 
 --- 
 
