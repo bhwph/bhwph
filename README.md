@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google has doubled its market share for Pixel phones in the US since last year](https://www.androidauthority.com/google-pixel-us-market-share-q2-2023-3369219/)
- - [Raspberry Pi 5 launches with 64-bit quad-core Arm Cortex-A76 processor, up to 8GB of RAM, two 4K HDMI ports with HDR, available in October for $60 for 4GB model &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230928/p9#a230928p9)
- - [Counterpoint: Pixel had a record 12% market share in Japan in Q2 2023, up from 2% YoY, while the iPhone&#39;s share fell from 58% to 46% during the same period &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/230928/p8#a230928p8)<!-- TECH:END -->
+ - [Garmin Vivoactive 5 vs Venu 3: Which is best for you?](https://www.androidauthority.com/garmin-vivoactive-5-vs-venu-3-which-is-best-for-you-3367799/)
+ - [Garmin Vivoactive 4 vs Vivoactive 5: What’s new and which should you buy?](https://www.androidauthority.com/garmin-vivoactive-4-vs-vivoactive-5-3367886/)
+ - [Six Months Ago Elon Musk Called for a Pause on AI. Instead Development Sped Up](https://www.wired.com/story/fast-forward-elon-musk-letter-pause-ai-development/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
