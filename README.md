@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Castlevania: Nocturne Raises The Bar For Video Game Adaptations To New Heights](https://kotaku.com/castlevania-nocturne-richter-belmont-netflix-anime-1850878250)
- - [NYT Connections hint and answers today: September 28 &lpar;#109&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-28-109)
- - [Stardew Valley&#39;s 1.6 update was supposed to be for modders, but it&#39;s adding 8-player support, three festivals, over 100 lines of dialogue, and more](https://www.pcgamer.com/stardew-valleys-16-update-was-supposed-to-be-for-modders-but-its-adding-8-player-support-three-festivals-over-100-lines-of-dialogue-and-more)<!-- GAME:END -->
+ - [Fortnite maker Epic Games, worth billions, cuts its staff by 16%](https://www.polygon.com/23894267/epic-games-fortnite-unreal-engine-layoffs-2023)
+ - [Epic Games is laying off more than 800 people](https://www.pcgamer.com/epic-games-is-laying-off-more-than-800-people)
+ - [Epic Games Cutting 870 Jobs, 16 Percent Of Its Workforce](https://kotaku.com/epic-games-store-fortnite-unreal-engine-layoffs-1850882501)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
