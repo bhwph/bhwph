@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bonus Xbox Update for September: A Simplified Experience to Back Up Your Game Captures to OneDrive and More](https://news.xbox.com/en-us/2023/09/27/bonus-xbox-update-for-september/)
- - [In Gen V, superpowers are nothing if your posts aren’t good](https://www.polygon.com/23891544/gen-v-the-boys-prime-video-early-impression-review)
- - [Starfield ‘Nerfed The Hell’ Out Of Environmental Damage During Development](https://kotaku.com/starfield-game-ships-xbox-series-pc-planets-affliction-1850877767)<!-- GAME:END -->
+ - [MSI&#39;s green themed RTX 4060 NV Edition graphics card is perfect for showing the world just how much you love Nvidia](https://www.pcgamer.com/msis-green-themed-rtx-4060-nv-edition-graphics-card-is-perfect-for-showing-the-world-just-how-much-you-love-nvidia)
+ - [Starfield&#39;s infinite weapon glitch is your path to farming epic guns](https://www.pcgamer.com/starfields-infinite-weapon-glitch-is-your-path-to-farming-epic-guns)
+ - [Jujutsu Kaisen fans love Gojo so much they built him a shrine](https://www.polygon.com/23893045/jujutsu-kaisen-gojo-shrine-manga-chapter-236)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
