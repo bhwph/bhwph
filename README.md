@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI&#39;s green themed RTX 4060 NV Edition graphics card is perfect for showing the world just how much you love Nvidia](https://www.pcgamer.com/msis-green-themed-rtx-4060-nv-edition-graphics-card-is-perfect-for-showing-the-world-just-how-much-you-love-nvidia)
- - [Starfield&#39;s infinite weapon glitch is your path to farming epic guns](https://www.pcgamer.com/starfields-infinite-weapon-glitch-is-your-path-to-farming-epic-guns)
- - [Jujutsu Kaisen fans love Gojo so much they built him a shrine](https://www.polygon.com/23893045/jujutsu-kaisen-gojo-shrine-manga-chapter-236)<!-- GAME:END -->
+ - [Castlevania: Nocturne Raises The Bar For Video Game Adaptations To New Heights](https://kotaku.com/castlevania-nocturne-richter-belmont-netflix-anime-1850878250)
+ - [NYT Connections hint and answers today: September 28 &lpar;#109&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-28-109)
+ - [Stardew Valley&#39;s 1.6 update was supposed to be for modders, but it&#39;s adding 8-player support, three festivals, over 100 lines of dialogue, and more](https://www.pcgamer.com/stardew-valleys-16-update-was-supposed-to-be-for-modders-but-its-adding-8-player-support-three-festivals-over-100-lines-of-dialogue-and-more)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
