@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2310.230927-2200&rpar;](https://news.xbox.com/en-us/2023/09/29/xbox-insider-release-notes-alpha-2310-230927-2200/)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.230927-2000&rpar;](https://news.xbox.com/en-us/2023/09/29/xbox-insider-release-notes-alpha-skip-ahead-2408-230927-2000/)
- - [The 3 Best And 3 Worst Korok Challenges In Tears Of The Kingdom](https://kotaku.com/zelda-tears-of-the-kingdom-korok-challenges-best-worst-1850879962)<!-- GAME:END -->
+ - [Cyberpunk 2077&#39;s next patch promises to fix the &#39;Johnny vision&#39; bug and other in-game headaches](https://www.pcgamer.com/cyberpunk-2077s-next-patch-promises-to-fix-the-johnny-vision-bug-and-other-in-game-headaches)
+ - [This Week on Xbox: Kickin’ It on the Pitch, Wrapping Up Tokyo Game Show, and D&amp;D in Minecraft](https://youtu.be/7MWazLSsa3c#new_tab)
+ - [Cyberpunk 2077 director says studio&#39;s switch from REDengine to Unreal Engine 5 &#39;isn&#39;t starting from scratch&#39;](https://www.pcgamer.com/cyberpunk-2077-director-says-studios-switch-from-redengine-to-unreal-engine-5-isnt-starting-from-scratch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
