@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford accuses UAW of holding contract negotiations ‘hostage’ over EV battery plants](https://www.theverge.com/2023/9/29/23896139/ford-uaw-strike-contract-hostage-ev-battery-factory)
- - [Now you can water-cool your PS5, too](https://www.theverge.com/2023/9/29/23895967/water-cooled-ps5-ek-water-blocks-quantum-x)
- - [BeReal says its app has 25M+ DAUs, up from 20M in October 2022, disputing a Similarweb report estimating that BeReal&#39;s MAUs declined to 16.06M in August 2023 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230929/p13#a230929p13)<!-- TECH:END -->
+ - [iPhone 16 Pro may get larger displays than iPhone 15 Pro counterparts](https://appleinsider.com/articles/23/09/29/iphone-16-pro-may-get-larger-displays-than-iphone-15-pro-counterparts?utm_medium=rss)
+ - [October’s video game release calendar is a little too stacked](https://www.theverge.com/2023/9/29/23896119/october-2023-video-games-release-date)
+ - [Sources: Jasper, which offers AI writing tools for marketers, has cut its $140M 2023 ARR projections by 30%+ and slashed internal valuation by 20% from $1.5B &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/230929/p15#a230929p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
