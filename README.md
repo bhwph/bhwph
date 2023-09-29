@@ -3,22 +3,12 @@
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
  
 
-![profile count](https://komarev.com/ghpvc/?username=garett09&color=red) 
-[![GitHub Garettl](https://img.shields.io/github/followers/garett09?label=follow&style=social)](https://github.com/garett09) 
+![profile count](https://komarev.com/ghpvc/?username=bhwwph&color=red) 
+[![GitHub Garettl](https://img.shields.io/github/followers/garett09?label=follow&style=social)](https://github.com/bhwph) 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChAoCAh1jVTaMz0Sc61X5Xw?style=social) 
 [![Wakatime updates](https://github.com/garett09/garett09/actions/workflows/update-commits.yml/badge.svg?branch=main)](https://github.com/garett09/garett09/actions/workflows/update-commits.yml) 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/62999bf4-98d2-4882-a325-da266023bf2b/deploy-status)](https://app.netlify.com/sites/cocky-mccarthy-7a67fb/deploys)
 &nbsp;
-    
-### Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=tapos-na-ba-ang-covid-ph&show_owner=true)](https://github.com/garett09/tapos-na-ba-ang-covid-ph)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=project-COVID&show_owner=true)](https://github.com/garett09/project-COVID)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=afk-hotel&show_owner=true)](https://github.com/garett09/afk-hotel)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=garett09&show_owner=true)](https://github.com/garett09/garett09)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=myhub&show_owner=true)](https://github.com/garett09/myhub)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=techfolio&show_owner=true)](https://github.com/garett09/techfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=Hulo&show_owner=true)](https://github.com/garett09/Hulo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=iesu-artisan&show_owner=true)](https://github.com/garett09/Iesu-artisan)
 
 
     
@@ -34,7 +24,7 @@
 -   ⚡  Fun fact: There are two ways to write error-free programs; only the third one works.
 
 ```javascript
-const name = 'Adrian Garett Sian';
+const name = 'BHW PH';
 document.write("Hello, friend");
 
 var status = 
@@ -71,10 +61,7 @@ while(dev.isCoding() && dev.isStuck())
 
 ## <img src="https://media.giphy.com/media/c5vDr1rkcbcrBwG9SX/giphy.gif" width="30">&nbsp; Contact me
 
-<a href="mailto:adriansian@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/adriansian"><img src="https://img.shields.io/badge/@adriansian_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
-<a href="https://t.me/garett_09"><img src="https://img.shields.io/badge/@garett_09_-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/adrian-garett-sian-766775159/"><img src="https://img.shields.io/badge/-Adrian%20Garett%20Sian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-garett-sian-766775159/"/></a> &nbsp;
+<a href="mailto:mail@bhwpartylist.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 
 ---
     
@@ -83,16 +70,16 @@ while(dev.isCoding() && dev.isStuck())
 <table>
 <tr>
 <td>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D](http://github-readme-streak-stats.herokuapp.com?user=garett09&theme=highcontrast&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D](http://github-readme-streak-stats.herokuapp.com?user=garett09&theme=bear&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D](http://github-readme-streak-stats.herokuapp.com?user=bhwph&theme=highcontrast&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D](http://github-readme-streak-stats.herokuapp.com?user=bhwph&theme=bear&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D" />
 </td>
 <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garett09&langs_count=10&layout=compact&theme=material-palenight&hide=html,Tcl" alt="Garett's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhwph&langs_count=10&layout=compact&theme=material-palenight&hide=html,Tcl" alt="BHW's GitHub Stats" />
 </td>
 </tr>
 </table>
     
 
-![Garett's Activity Graph](https://activity-graph.herokuapp.com/graph?username=garett09&bg_color=1d1f21&color=ffffff&line=ffed00&point=ffffff&area=true&count_private=true&)
+![BHW's Activity Graph](https://activity-graph.herokuapp.com/graph?username=bhwph&bg_color=1d1f21&color=ffffff&line=ffed00&point=ffffff&area=true&count_private=true&)
     
 ---
 
