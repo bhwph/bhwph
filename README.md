@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Greatest manager ever](http://9gag.com/gag/abvLKDB)
+ - 6️⃣ [Huehuehue](http://9gag.com/gag/a04Dzbn)
  - 😝 [Clock alarm](http://9gag.com/gag/axoewjM)
- - 👉 [What are the odds?](http://9gag.com/gag/a8qvQeO)<!-- MEMES:END -->
+ - 👉 [THIS IS THE WAY FORWARD.](http://9gag.com/gag/a4oBB3d)<!-- MEMES:END -->
 
 --- 
 
