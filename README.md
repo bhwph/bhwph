@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
- - 😝 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - 👉 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)<!-- MEMES:END -->
+ - 6️⃣ [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
+ - 😝 [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)
+ - 👉 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)<!-- MEMES:END -->
 
 --- 
 
