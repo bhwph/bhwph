@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077&#39;s next patch promises to fix the &#39;Johnny vision&#39; bug and other in-game headaches](https://www.pcgamer.com/cyberpunk-2077s-next-patch-promises-to-fix-the-johnny-vision-bug-and-other-in-game-headaches)
- - [This Week on Xbox: Kickin’ It on the Pitch, Wrapping Up Tokyo Game Show, and D&amp;D in Minecraft](https://youtu.be/7MWazLSsa3c#new_tab)
- - [Cyberpunk 2077 director says studio&#39;s switch from REDengine to Unreal Engine 5 &#39;isn&#39;t starting from scratch&#39;](https://www.pcgamer.com/cyberpunk-2077-director-says-studios-switch-from-redengine-to-unreal-engine-5-isnt-starting-from-scratch)<!-- GAME:END -->
+ - [Pokémon merch causes chaos at Van Gogh museum, which will soon implement purchase limits](https://www.polygon.com/23894429/pokemon-van-gogh-collab-scalpers)
+ - [Players Are Having Trouble Activating The Cyberpunk 2077 Expansion’s Final Mission](https://kotaku.com/cyberpunk-2077-phantom-liberty-the-killing-moon-wait-1850888385)
+ - [Doom&#39;s Iconic Super Shotty Looks Right At Home In Call Of Duty](https://kotaku.com/call-of-duty-doom-tracer-pack-shotgun-chainsaw-warzone-1850888137)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
