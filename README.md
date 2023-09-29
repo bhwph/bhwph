@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield&#39;s cursed rain orb lifts the veil on an old game design trick: &#39;pack it up boys, it&#39;s over&#39;](https://www.pcgamer.com/starfields-cursed-rain-orb-lifts-the-veil-on-an-old-game-design-trick-pack-it-up-boys-its-over)
- - [PlayStation Stars campaigns and digital collectibles for October 2023](https://blog.playstation.com/2023/09/29/playstation-stars-campaigns-and-digital-collectibles-for-october-2023/)
- - [The Knights of the Old Republic Remake is either dead or about to become more powerful than you can possibly imagine](https://www.pcgamer.com/the-knights-of-the-old-republic-remake-is-either-dead-or-about-to-become-more-powerful-than-you-can-possibly-imagine)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for October 2 to 6](https://news.xbox.com/en-us/2023/09/29/next-week-on-xbox-new-games-for-october-2-to-6/)
+ - [Fionna and Cake is Adventure Time’s most impressive transformation yet](https://www.polygon.com/23894698/adventure-time-fionna-cake-review-ice-king-finale-explained-simon-betty)
+ - [Crunchyroll’s Latest Fantasy Anime Will Make You Call A Friend Just To Catch Up](https://kotaku.com/crunchyroll-fantasy-anime-frieren-review-madhouse-1850884841)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
