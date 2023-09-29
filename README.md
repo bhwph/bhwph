@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What are silicon anode batteries?](https://www.androidauthority.com/silicon-anode-batteries-3369698/)
- - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [Progress Software, the company behind the widely exploited MOVEit file transfer tool, patches critical vulnerabilities in its WS_FTP Server file transfer tool &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230929/p2#a230929p2)<!-- TECH:END -->
+ - [French authorities says they have approved Apple&#39;s iPhone 12 software update to address radiation concerns; Apple submitted the update on September 26 &lpar;Elizabeth Pineau/Reuters&rpar;](http://www.techmeme.com/230929/p5#a230929p5)
+ - [Apple iPhone SE 4: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/iphone-se-4-3351760/)
+ - [7 Best National Coffee Day Deals &lpar;2023: Espresso Machines and Coffee Beans](https://www.wired.com/story/national-coffee-day-deals-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
