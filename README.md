@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Huehuehue](http://9gag.com/gag/a04Dzbn)
- - 😝 [Clock alarm](http://9gag.com/gag/axoewjM)
- - 👉 [THIS IS THE WAY FORWARD.](http://9gag.com/gag/a4oBB3d)<!-- MEMES:END -->
+ - 6️⃣ [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)
+ - 😝 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
+ - 👉 [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)<!-- MEMES:END -->
 
 --- 
 
