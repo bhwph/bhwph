@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every iPhone screen has a barcode to prevent a manufacturing scam](https://appleinsider.com/articles/23/09/29/every-iphone-screen-has-a-barcode-to-prevent-a-manufacturing-scam?utm_medium=rss)
- - [The Supreme Court agrees to hear two cases concerning whether Florida and Texas can restrict how social media companies moderate content &lpar;Washington Post&rpar;](http://www.techmeme.com/230929/p8#a230929p8)
- - [15 Best Hair Straighteners We&#39;ve Tested &lpar;2023&rpar;: Flat Irons, Hot Combs, and Straightening Brushes](https://www.wired.com/gallery/best-hair-straighteners/)<!-- TECH:END -->
+ - [Flash deal: get Apple&#39;s M2 MacBook Air 13-inch with 16GB RAM for just $1,099](https://appleinsider.com/articles/23/09/29/flash-deal-get-apples-m2-macbook-air-13-inch-with-16gb-ram-for-just-1099?utm_medium=rss)
+ - [Linda Yaccarino says X has paid out nearly $20M to creators; Musk said in July that first payments totaled $5M &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230929/p11#a230929p11)
+ - [Report: Apple uses microscopic QR codes on iPhone screens to track defects, which helped reduce faulty screen report rates from its suppliers from 30% to 10% &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/230929/p10#a230929p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
