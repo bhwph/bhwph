@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What are the odds?](http://9gag.com/gag/a8qvQeO)
- - 😝 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
- - 👉 [Greatest manager ever](http://9gag.com/gag/abvLKDB)<!-- MEMES:END -->
+ - 6️⃣ [If ever there was an excuse to buy a printer](http://9gag.com/gag/awZ994r)
+ - 😝 [Ai will touch our brain](http://9gag.com/gag/a8qvQ3p)
+ - 👉 [There&#39;s no better place for a date...wy](http://9gag.com/gag/aKEXy8g)<!-- MEMES:END -->
 
 --- 
 
