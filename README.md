@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oktoberfest, Stuttgart. 2023](http://9gag.com/gag/aWGePmx)
- - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
- - 👉 [I wonder why?](http://9gag.com/gag/aeQqPym)<!-- MEMES:END -->
+ - 6️⃣ [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
+ - 😝 [A sad day for Brits everywhere. One of the most famous trees in the UK was felled by unknown persons last night.](http://9gag.com/gag/a3ZzDL8)
+ - 👉 [9gag community living in horny mode](http://9gag.com/gag/aA0L71g)<!-- MEMES:END -->
 
 --- 
 
