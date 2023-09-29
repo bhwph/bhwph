@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deal: get Apple&#39;s M2 MacBook Air 13-inch with 16GB RAM for just $1,099](https://appleinsider.com/articles/23/09/29/flash-deal-get-apples-m2-macbook-air-13-inch-with-16gb-ram-for-just-1099?utm_medium=rss)
- - [Linda Yaccarino says X has paid out nearly $20M to creators; Musk said in July that first payments totaled $5M &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230929/p11#a230929p11)
- - [Report: Apple uses microscopic QR codes on iPhone screens to track defects, which helped reduce faulty screen report rates from its suppliers from 30% to 10% &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/230929/p10#a230929p10)<!-- TECH:END -->
+ - [Ford accuses UAW of holding contract negotiations ‘hostage’ over EV battery plants](https://www.theverge.com/2023/9/29/23896139/ford-uaw-strike-contract-hostage-ev-battery-factory)
+ - [Now you can water-cool your PS5, too](https://www.theverge.com/2023/9/29/23895967/water-cooled-ps5-ek-water-blocks-quantum-x)
+ - [BeReal says its app has 25M+ DAUs, up from 20M in October 2022, disputing a Similarweb report estimating that BeReal&#39;s MAUs declined to 16.06M in August 2023 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230929/p13#a230929p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
