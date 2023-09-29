@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel begins high-volume production of Intel 4 node chips this week](https://www.pcgamer.com/intel-begins-high-volume-production-of-intel-4-node-chips-this-week)
- - [Want to try a new playstyle in Cyberpunk 2077: Phantom Liberty? Here&#39;s the director&#39;s &#39;warlock netrunner&#39; build](https://www.pcgamer.com/want-to-try-a-new-playstyle-in-cyberpunk-2077-phantom-liberty-heres-the-directors-warlock-netrunner-build)
- - [Bethesda just released a new Elder Scrolls mobile game that&#39;s basically Fallout Shelter meets Skyrim](https://www.pcgamer.com/bethesda-just-released-a-new-elder-scrolls-mobile-game-inspired-by-fallout-shelter-called-the-elder-scrolls-castles)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #832: Friday, September 29](https://www.pcgamer.com/wordle-answer-today-hint-832-september-29)
+ - [Sony Deletes Mentions Of Troubled Star Wars: KotOR PS5 Remake, Hides Trailer](https://kotaku.com/star-wars-knights-republic-kotor-remake-ps5-canceled-1850885369)
+ - [Thanks to a bug, players have found a &#39;realm of naked men&#39; in Baldur&#39;s Gate 3](https://www.pcgamer.com/thanks-to-a-bug-players-have-found-a-realm-of-naked-men-in-baldurs-gate-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
