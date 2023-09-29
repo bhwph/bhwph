@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s Quest 3 is scheduled to get upper body tracking and AI estimated legs, called Generative Legs, in a software update in December &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230928/p42#a230928p42)
- - [Sources: on October 5, Linda Yaccarino plans to meet with the seven banks that helped fund Elon Musk&#39;s takeover of X to lay out her plans to revive the company &lpar;Financial Times&rpar;](http://www.techmeme.com/230928/p41#a230928p41)
- - [The Cyberspace Administration of China unveils rules to relax some cross-border data controls, in a bid to reassure businesses worried about US-China relations &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/230928/p40#a230928p40)<!-- TECH:END -->
+ - [Progress Software, the company behind the widely exploited MOVEit file transfer tool, patches critical vulnerabilities in its WS_FTP Server file transfer tool &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230929/p2#a230929p2)
+ - [It’s only September but we’ve already got our first look at the Galaxy S24](https://www.androidauthority.com/samsung-galaxy-s24-leaked-renders-3368259/)
+ - [An abandoned Apple-Microsoft deal is now making trouble for Google](https://www.androidauthority.com/microsoft-bing-apple-google-search-deal-3369622/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
