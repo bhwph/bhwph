@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 No Easy Way Out: Should you side with Aaron or Angie?](https://www.pcgamer.com/cyberpunk-2077-no-easy-way-out-angie-aaron)
- - [Straightening out Gen V’s timeline and what’s next on The Boys season 4](https://www.polygon.com/23894052/gen-v-when-timeline-boys-season-4-clues-connections)
- - [AMD FSR 3 and frame generation support is debuting in two games this week](https://www.pcgamer.com/amd-fsr-3-and-frame-generation-support-is-debuting-in-two-games-this-week)<!-- GAME:END -->
+ - [Starfield&#39;s cursed rain orb lifts the veil on an old game design trick: &#39;pack it up boys, it&#39;s over&#39;](https://www.pcgamer.com/starfields-cursed-rain-orb-lifts-the-veil-on-an-old-game-design-trick-pack-it-up-boys-its-over)
+ - [PlayStation Stars campaigns and digital collectibles for October 2023](https://blog.playstation.com/2023/09/29/playstation-stars-campaigns-and-digital-collectibles-for-october-2023/)
+ - [The Knights of the Old Republic Remake is either dead or about to become more powerful than you can possibly imagine](https://www.pcgamer.com/the-knights-of-the-old-republic-remake-is-either-dead-or-about-to-become-more-powerful-than-you-can-possibly-imagine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
