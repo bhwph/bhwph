@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for October 2 to 6](https://news.xbox.com/en-us/2023/09/29/next-week-on-xbox-new-games-for-october-2-to-6/)
- - [Fionna and Cake is Adventure Time’s most impressive transformation yet](https://www.polygon.com/23894698/adventure-time-fionna-cake-review-ice-king-finale-explained-simon-betty)
- - [Crunchyroll’s Latest Fantasy Anime Will Make You Call A Friend Just To Catch Up](https://kotaku.com/crunchyroll-fantasy-anime-frieren-review-madhouse-1850884841)<!-- GAME:END -->
+ - [EA Sports FC 24 review](https://www.pcgamer.com/ea-sports-fc-24-review)
+ - [Rez Dogs went out like it lived: on top](https://www.polygon.com/23895734/reservation-dogs-rez-finale-season-3-best-show-tv)
+ - [Sony’s PlayStation Portal is now available to pre-order](https://www.polygon.com/2023/8/23/23842770/playstation-portal-handheld-price-features-pulse-elite-explore)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
