@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Sports FC 24 review](https://www.pcgamer.com/ea-sports-fc-24-review)
- - [Rez Dogs went out like it lived: on top](https://www.polygon.com/23895734/reservation-dogs-rez-finale-season-3-best-show-tv)
- - [Sony’s PlayStation Portal is now available to pre-order](https://www.polygon.com/2023/8/23/23842770/playstation-portal-handheld-price-features-pulse-elite-explore)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha &lpar;2310.230927-2200&rpar;](https://news.xbox.com/en-us/2023/09/29/xbox-insider-release-notes-alpha-2310-230927-2200/)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.230927-2000&rpar;](https://news.xbox.com/en-us/2023/09/29/xbox-insider-release-notes-alpha-skip-ahead-2408-230927-2000/)
+ - [The 3 Best And 3 Worst Korok Challenges In Tears Of The Kingdom](https://kotaku.com/zelda-tears-of-the-kingdom-korok-challenges-best-worst-1850879962)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
