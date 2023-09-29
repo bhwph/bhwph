@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin Vivoactive 5 vs Venu 3: Which is best for you?](https://www.androidauthority.com/garmin-vivoactive-5-vs-venu-3-which-is-best-for-you-3367799/)
- - [Garmin Vivoactive 4 vs Vivoactive 5: What’s new and which should you buy?](https://www.androidauthority.com/garmin-vivoactive-4-vs-vivoactive-5-3367886/)
- - [Six Months Ago Elon Musk Called for a Pause on AI. Instead Development Sped Up](https://www.wired.com/story/fast-forward-elon-musk-letter-pause-ai-development/)<!-- TECH:END -->
+ - [Watch Linda Yaccarino’s wild interview at the Code Conference](https://www.theverge.com/2023/9/28/23895150/linda-yaccarino-code-conference-2023-x-twitter)
+ - [In an interview using Meta&#39;s photorealistic Codec Avatars, Mark Zuckerberg talks about the metaverse, Quest 3, the nature of reality, AI, and humanity&#39;s future &lpar;Lex Fridman/Lex Fridman Podcast&rpar;](http://www.techmeme.com/230928/p39#a230928p39)
+ - [PS5 Pro: Release date, rumors, price, what we want from Sony’s next-gen console](https://www.androidauthority.com/sony-ps5-pro-3337407/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
