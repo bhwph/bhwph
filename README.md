@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There&#39;s no better place for a date...wy](http://9gag.com/gag/aKEXy8g)
- - 😝 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)
- - 👉 [What are the odds?](http://9gag.com/gag/a8qvQeO)<!-- MEMES:END -->
+ - 6️⃣ [What are the odds?](http://9gag.com/gag/a8qvQeO)
+ - 😝 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
+ - 👉 [Greatest manager ever](http://9gag.com/gag/abvLKDB)<!-- MEMES:END -->
 
 --- 
 
