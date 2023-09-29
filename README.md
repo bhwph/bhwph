@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cyberpunk 2077 No Easy Way Out: Should you side with Aaron or Angie?](https://www.pcgamer.com/cyberpunk-2077-no-easy-way-out-angie-aaron)
  - [Straightening out Gen V’s timeline and what’s next on The Boys season 4](https://www.polygon.com/23894052/gen-v-when-timeline-boys-season-4-clues-connections)
- - [AMD FSR 3 and frame generation support is debuting in two games this week](https://www.pcgamer.com/amd-fsr-3-and-frame-generation-support-is-debuting-in-two-games-this-week)
- - [NYT Connections hint and answers today: September 29 &lpar;#110&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-29-110)<!-- GAME:END -->
+ - [AMD FSR 3 and frame generation support is debuting in two games this week](https://www.pcgamer.com/amd-fsr-3-and-frame-generation-support-is-debuting-in-two-games-this-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
