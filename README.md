@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 9 review: Solid upgrade even with features still coming](https://appleinsider.com/articles/23/09/29/apple-watch-series-9-review-solid-upgrade-even-with-features-still-coming?utm_medium=rss)
- - [Which Spider-Man Is Stronger: Tobey Maguire or Tom Holland?](https://www.wired.com/story/which-spider-man-is-stronger-tobey-maguire-or-tom-holland/)
- - [iPhone 15 Pro Max review, iOS 17.1 beta, macOS Sonoma details on the AppleInsider Podcast](https://appleinsider.com/articles/23/09/29/iphone-15-pro-max-review-ios-171-beta-macos-sonoma-details-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Every iPhone screen has a barcode to prevent a manufacturing scam](https://appleinsider.com/articles/23/09/29/every-iphone-screen-has-a-barcode-to-prevent-a-manufacturing-scam?utm_medium=rss)
+ - [The Supreme Court agrees to hear two cases concerning whether Florida and Texas can restrict how social media companies moderate content &lpar;Washington Post&rpar;](http://www.techmeme.com/230929/p8#a230929p8)
+ - [15 Best Hair Straighteners We&#39;ve Tested &lpar;2023&rpar;: Flat Irons, Hot Combs, and Straightening Brushes](https://www.wired.com/gallery/best-hair-straighteners/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
