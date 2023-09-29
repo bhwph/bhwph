@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro may get larger displays than iPhone 15 Pro counterparts](https://appleinsider.com/articles/23/09/29/iphone-16-pro-may-get-larger-displays-than-iphone-15-pro-counterparts?utm_medium=rss)
- - [October’s video game release calendar is a little too stacked](https://www.theverge.com/2023/9/29/23896119/october-2023-video-games-release-date)
- - [Sources: Jasper, which offers AI writing tools for marketers, has cut its $140M 2023 ARR projections by 30%+ and slashed internal valuation by 20% from $1.5B &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/230929/p15#a230929p15)<!-- TECH:END -->
+ - [Meta quietly unveils Llama 2 Long, which has been trained with long sequences, outperforming GPT-3.5 Turbo and Claude 2 in responding to long user prompts &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230929/p17#a230929p17)
+ - [Why New York and other cities still aren’t prepared for floods](https://www.theverge.com/2023/9/29/23896228/new-york-city-flooding-brooklyn-urban-climate)
+ - [The co-founder of a collapsed crypto hedge fund was arrested in Singapore](https://www.theverge.com/2023/9/29/23896188/crypto-hedge-fund-three-arrows-captial-su-zhu-arrest)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
