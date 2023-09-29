@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
- - 😝 [A sad day for Brits everywhere. One of the most famous trees in the UK was felled by unknown persons last night.](http://9gag.com/gag/a3ZzDL8)
- - 👉 [9gag community living in horny mode](http://9gag.com/gag/aA0L71g)<!-- MEMES:END -->
+ - 6️⃣ [There&#39;s no better place for a date...wy](http://9gag.com/gag/aKEXy8g)
+ - 😝 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)
+ - 👉 [What are the odds?](http://9gag.com/gag/a8qvQeO)<!-- MEMES:END -->
 
 --- 
 
