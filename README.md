@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [French authorities says they have approved Apple&#39;s iPhone 12 software update to address radiation concerns; Apple submitted the update on September 26 &lpar;Elizabeth Pineau/Reuters&rpar;](http://www.techmeme.com/230929/p5#a230929p5)
- - [Apple iPhone SE 4: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/iphone-se-4-3351760/)
- - [7 Best National Coffee Day Deals &lpar;2023: Espresso Machines and Coffee Beans](https://www.wired.com/story/national-coffee-day-deals-2023/)<!-- TECH:END -->
+ - [Apple Watch Series 9 review: Solid upgrade even with features still coming](https://appleinsider.com/articles/23/09/29/apple-watch-series-9-review-solid-upgrade-even-with-features-still-coming?utm_medium=rss)
+ - [Which Spider-Man Is Stronger: Tobey Maguire or Tom Holland?](https://www.wired.com/story/which-spider-man-is-stronger-tobey-maguire-or-tom-holland/)
+ - [iPhone 15 Pro Max review, iOS 17.1 beta, macOS Sonoma details on the AppleInsider Podcast](https://appleinsider.com/articles/23/09/29/iphone-15-pro-max-review-ios-171-beta-macos-sonoma-details-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
