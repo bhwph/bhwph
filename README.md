@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG is dropping ATSC 3.0 from its TVs next year](https://www.theverge.com/2023/9/30/23897460/lg-drops-atsc-3-0-support-fcc-broadcast-tv)
  - [Did you know there are way more than 3 independent mobile networks in the USA?](https://www.androidauthority.com/mobile-networks-cspire-us-cellular-3355820/)
- - [Filing: Robinhood says it expects a $100M charge in Q3 to resolve some legal and regulatory matters that were previously disclosed &lpar;Reuters&rpar;](http://www.techmeme.com/230930/p11#a230930p11)
- - [Apple blames iOS 17 bugs and apps like Instagram for making iPhone 15s run hot](https://www.theverge.com/2023/9/30/23897273/apple-iphone-15-overheating-ios-17-1-bug-fix)<!-- TECH:END -->
+ - [The 6 Best Melatonin Supplements of 2023     - CNET](https://www.cnet.com/health/nutrition/6-best-melatonin-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
