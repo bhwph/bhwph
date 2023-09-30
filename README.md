@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with YouTube Chief Business Officer Mary Ellen Coe on NFL Sunday Ticket &quot;exceeding expectations&quot;, Multiview interest, the Charter-Disney dispute, and more &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/230930/p5#a230930p5)
- - [A history of Vine&#39;s failure to build relationships with its top creators, who Vine leadership resented for gaming the app&#39;s ranking algorithm and their humor &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230930/p4#a230930p4)
- - [Best iPad Drawing Apps to Try in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-ipad-drawing-apps-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony Xperia 5 V review: Should you buy it?](https://www.androidauthority.com/sony-xperia-5-v-review-3366564/)
+ - [Everything Should Be As Easy to Upgrade As the Steam Deck &lpar;2023&rpar;](https://www.wired.com/story/steam-deck-upgrade-rave/)
+ - [Sweat Is Helping You Survive Climate Change](https://www.wired.com/story/sweat-is-helping-you-survive-climate-change/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
