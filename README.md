@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
- - 😝 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
- - 👉 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)<!-- MEMES:END -->
+ - 6️⃣ [Boy got the wrong order](http://9gag.com/gag/aeQqEzv)
+ - 😝 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
+ - 👉 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)<!-- MEMES:END -->
 
 --- 
 
