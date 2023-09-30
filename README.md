@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you’re not talking to animals in Baldur’s Gate 3, what even is the point?](https://www.polygon.com/23894644/baldurs-gate-3-speak-to-animals-scratch-owlbear-his-majesty)
- - [As CDPR resurrected Cyberpunk 2077, it focused on one word: &#39;believability&#39;](https://www.pcgamer.com/as-cdpr-resurrected-cyberpunk-2077-it-focused-on-one-word-believability)
- - [Both the Xbox Series X and PlayStation 5 come with a free game this weekend](https://www.polygon.com/deals/23894762/best-gaming-deals-xbox-series-x-ps5-free-games-humble-gamestop-manga-blu-ray-deal-sale)<!-- GAME:END -->
+ - [Twisted Tower takes BioShock and turns it into a deadly game show run by a disturbed toymaker](https://www.pcgamer.com/twisted-towers-takes-bioshock-and-turns-it-into-a-deadly-game-show-run-by-a-disturbed-toymaker)
+ - [An earthquake changed one of Pokémon’s most promising seasons](https://www.polygon.com/pokemon/23895988/pokemon-black-white-anime-lost-episodes-fukushima)
+ - [Missing faces, levitating bodies, and NPCs with no respect for personal space: A celebration of Bethesda jank](https://www.pcgamer.com/missing-faces-levitating-bodies-and-npcs-with-no-respect-for-personal-space-a-celebration-of-bethesda-jank)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
