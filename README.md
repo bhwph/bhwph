@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
+ - 6️⃣ [Neil did his best](http://9gag.com/gag/a5X9YDq)
  - 😝 [Lmao](http://9gag.com/gag/a3ZzgW5)
- - 👉 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)<!-- MEMES:END -->
+ - 👉 [Monkey: Don&#39;t mess with Monkey. Human: I am monkey](http://9gag.com/gag/aPgVq4w)<!-- MEMES:END -->
 
 --- 
 
