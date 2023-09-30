@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [No one should buy the Pixel Watch 2 unless Google fixes its repairability issue](https://www.androidauthority.com/google-pixel-watch-2-repairability-3366979/)
- - [‘The Android of agriculture’: Monarch Tractor CEO Praveen Penmetsa on the future of farming](https://www.theverge.com/23895900/praveen-penmetsa-monarch-tractor-autonomous-ev-interview-decoder)
- - [The Pixel 8 is Google’s best opportunity to bring its AI ideas together under one roof](https://www.theverge.com/2023/9/30/23896256/google-pixel-8-pro-assistant-ai-bard)<!-- TECH:END -->
+ - [Apple Pencil 3 leak claims changeable magnetic tips are on the way](https://appleinsider.com/articles/23/09/30/apple-pencil-3-leak-claims-changeable-magnetic-tips-are-on-the-way?utm_medium=rss)
+ - [NSA&#39;s outgoing director Paul Nakasone announces an AI security center, after an NSA study identified protecting American AI models as a national security issue &lpar;Associated Press&rpar;](http://www.techmeme.com/230930/p8#a230930p8)
+ - [These are the biggest wins in the WGA’s new labor contract](https://www.theverge.com/2023/9/30/23892324/these-are-the-biggest-wins-in-the-wgas-new-labor-contract)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
