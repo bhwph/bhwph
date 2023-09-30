@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple confirms iOS 17 fix for overheating iPhones is on the way](https://appleinsider.com/articles/23/09/30/apple-confirms-ios-17-fix-for-overheating-iphones-is-on-the-way?utm_medium=rss)
- - [A Canadian appeals court rules that Google&#39;s search engine is covered by federal privacy law, which could give Canadians the &quot;right to be forgotten&quot; on Google &lpar;Sean Fine/Globe and Mail&rpar;](http://www.techmeme.com/230930/p10#a230930p10)
- - [Apple Pencil 3 leak claims changeable magnetic tips are on the way](https://appleinsider.com/articles/23/09/30/apple-pencil-3-leak-claims-changeable-magnetic-tips-are-on-the-way?utm_medium=rss)<!-- TECH:END -->
+ - [Did you know there are way more than 3 independent mobile networks in the USA?](https://www.androidauthority.com/mobile-networks-cspire-us-cellular-3355820/)
+ - [Filing: Robinhood says it expects a $100M charge in Q3 to resolve some legal and regulatory matters that were previously disclosed &lpar;Reuters&rpar;](http://www.techmeme.com/230930/p11#a230930p11)
+ - [Apple blames iOS 17 bugs and apps like Instagram for making iPhone 15s run hot](https://www.theverge.com/2023/9/30/23897273/apple-iphone-15-overheating-ios-17-1-bug-fix)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
