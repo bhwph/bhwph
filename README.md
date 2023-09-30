@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
- - 😝 [Heartbreaking video shows a tearing 10-year-old White girl tell her grandmother that her mother\u2019s black boyfriend ra*es her while the mother watches. Sophie was forcefully removed from her father\u2019s custody by child support and given to her mother and her would-be-abuser.](http://9gag.com/gag/aGEr5M6)
- - 👉 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)<!-- MEMES:END -->
+ - 6️⃣ [Ouch!](http://9gag.com/gag/ap9nZQ5)
+ - 😝 [Should I be racist or?](http://9gag.com/gag/a04DyvL)
+ - 👉 [Balanced\u2026.. just as all things should be\u2026..](http://9gag.com/gag/aA0L8wL)<!-- MEMES:END -->
 
 --- 
 
