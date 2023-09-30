@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ouch!](http://9gag.com/gag/ap9nZQ5)
- - 😝 [Should I be racist or?](http://9gag.com/gag/a04DyvL)
+ - 6️⃣ [Should I be racist or?](http://9gag.com/gag/a04DyvL)
+ - 😝 [Always has been....](http://9gag.com/gag/aRE8bVA)
  - 👉 [Balanced\u2026.. just as all things should be\u2026..](http://9gag.com/gag/aA0L8wL)<!-- MEMES:END -->
 
 --- 
