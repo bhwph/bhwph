@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oprah&#39;s mates](http://9gag.com/gag/a4oB8OQ)
+ - 6️⃣ [It is almost the weekend.](http://9gag.com/gag/aDYq5LG)
  - 😝 [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
- - 👉 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)<!-- MEMES:END -->
+ - 👉 [Lmao](http://9gag.com/gag/a3ZzgW5)<!-- MEMES:END -->
 
 --- 
 
