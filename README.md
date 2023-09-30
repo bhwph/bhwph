@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twisted Tower takes BioShock and turns it into a deadly game show run by a disturbed toymaker](https://www.pcgamer.com/twisted-towers-takes-bioshock-and-turns-it-into-a-deadly-game-show-run-by-a-disturbed-toymaker)
- - [An earthquake changed one of Pokémon’s most promising seasons](https://www.polygon.com/pokemon/23895988/pokemon-black-white-anime-lost-episodes-fukushima)
- - [Missing faces, levitating bodies, and NPCs with no respect for personal space: A celebration of Bethesda jank](https://www.pcgamer.com/missing-faces-levitating-bodies-and-npcs-with-no-respect-for-personal-space-a-celebration-of-bethesda-jank)<!-- GAME:END -->
+ - [Carrion meets Castlevania in Necrofugitive—a 2D stealth-action game where your enemies can set traps and learn from your slaughter](https://www.pcgamer.com/carrion-meets-castlevania-in-necrofugitivea-2d-stealth-action-game-where-your-enemies-can-set-traps-and-learn-from-your-slaughter)
+ - [Our favorite mini-Morrowind is adding a mysterious realm ruled by a clockwork god in its next update](https://www.pcgamer.com/our-favorite-mini-morrowind-is-adding-a-mysterious-realm-ruled-by-a-clockwork-god-in-its-next-update)
+ - [Prodeus&#39; new expansion hands you a spear and a grappling hook before sending you to attack and dethrone god](https://www.pcgamer.com/prodeus-new-expansion-hands-you-a-spear-and-a-grappling-hook-before-sending-you-to-attack-and-dethrone-god)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
