@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wtf was that](http://9gag.com/gag/aGEr4e6)
- - 😝 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
- - 👉 [Lmao](http://9gag.com/gag/a3ZzgW5)<!-- MEMES:END -->
+ - 6️⃣ [Boy got the wrong order](http://9gag.com/gag/aeQqEzv)
+ - 😝 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
+ - 👉 [Hell no](http://9gag.com/gag/adPWAQ9)<!-- MEMES:END -->
 
 --- 
 
