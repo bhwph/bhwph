@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hell no](http://9gag.com/gag/adPWAQ9)
- - 😝 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
- - 👉 [Lmao](http://9gag.com/gag/a3ZzgW5)<!-- MEMES:END -->
+ - 6️⃣ [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
+ - 😝 [Lmao](http://9gag.com/gag/a3ZzgW5)
+ - 👉 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)<!-- MEMES:END -->
 
 --- 
 
