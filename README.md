@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [If you’re not talking to animals in Baldur’s Gate 3, what even is the point?](https://www.polygon.com/23894644/baldurs-gate-3-speak-to-animals-scratch-owlbear-his-majesty)
  - [As CDPR resurrected Cyberpunk 2077, it focused on one word: &#39;believability&#39;](https://www.pcgamer.com/as-cdpr-resurrected-cyberpunk-2077-it-focused-on-one-word-believability)
- - [Both the Xbox Series X and PlayStation 5 come with a free game this weekend](https://www.polygon.com/deals/23894762/best-gaming-deals-xbox-series-x-ps5-free-games-humble-gamestop-manga-blu-ray-deal-sale)
- - [The Creator is the first real post-‘war on terror’ movie](https://www.polygon.com/23895997/creator-analysis-politics-war-on-terror-ai-us-military)<!-- GAME:END -->
+ - [Both the Xbox Series X and PlayStation 5 come with a free game this weekend](https://www.polygon.com/deals/23894762/best-gaming-deals-xbox-series-x-ps5-free-games-humble-gamestop-manga-blu-ray-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
