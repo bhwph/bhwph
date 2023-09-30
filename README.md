@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pencil 3 leak claims changeable magnetic tips are on the way](https://appleinsider.com/articles/23/09/30/apple-pencil-3-leak-claims-changeable-magnetic-tips-are-on-the-way?utm_medium=rss)
- - [NSA&#39;s outgoing director Paul Nakasone announces an AI security center, after an NSA study identified protecting American AI models as a national security issue &lpar;Associated Press&rpar;](http://www.techmeme.com/230930/p8#a230930p8)
- - [These are the biggest wins in the WGA’s new labor contract](https://www.theverge.com/2023/9/30/23892324/these-are-the-biggest-wins-in-the-wgas-new-labor-contract)<!-- TECH:END -->
+ - [Apple confirms iOS 17 fix for overheating iPhones is on the way](https://appleinsider.com/articles/23/09/30/apple-confirms-ios-17-fix-for-overheating-iphones-is-on-the-way?utm_medium=rss)
+ - [A Canadian appeals court rules that Google&#39;s search engine is covered by federal privacy law, which could give Canadians the &quot;right to be forgotten&quot; on Google &lpar;Sean Fine/Globe and Mail&rpar;](http://www.techmeme.com/230930/p10#a230930p10)
+ - [Apple Pencil 3 leak claims changeable magnetic tips are on the way](https://appleinsider.com/articles/23/09/30/apple-pencil-3-leak-claims-changeable-magnetic-tips-are-on-the-way?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
