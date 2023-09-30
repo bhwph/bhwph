@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [NYT Connections hint and answers today: September 30 &lpar;#111&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-30-111)
  - [Today&#39;s Wordle hint and answer #833: Saturday, September 30](https://www.pcgamer.com/wordle-answer-today-hint-833-september-30)
- - [Call of Duty continues aggressive Fortnite-ification with new skins from Diablo, Spawn, and He-Man](https://www.pcgamer.com/call-of-duty-continues-aggressive-fortnite-ification-with-new-skins-from-diablo-spawn-and-he-man)
- - [Justice for melee weapons: a Cyberpunk 2077 modder has rectified the game&#39;s biggest oversight for stealth play](https://www.pcgamer.com/justice-for-melee-weapons-a-cyberpunk-2077-modder-has-rectified-the-games-biggest-oversight-for-stealth-play)<!-- GAME:END -->
+ - [Call of Duty continues aggressive Fortnite-ification with new skins from Diablo, Spawn, and He-Man](https://www.pcgamer.com/call-of-duty-continues-aggressive-fortnite-ification-with-new-skins-from-diablo-spawn-and-he-man)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
