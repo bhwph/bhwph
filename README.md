@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Xperia 5 V review: Should you buy it?](https://www.androidauthority.com/sony-xperia-5-v-review-3366564/)
- - [Everything Should Be As Easy to Upgrade As the Steam Deck &lpar;2023&rpar;](https://www.wired.com/story/steam-deck-upgrade-rave/)
- - [Sweat Is Helping You Survive Climate Change](https://www.wired.com/story/sweat-is-helping-you-survive-climate-change/)<!-- TECH:END -->
+ - [No one should buy the Pixel Watch 2 unless Google fixes its repairability issue](https://www.androidauthority.com/google-pixel-watch-2-repairability-3366979/)
+ - [‘The Android of agriculture’: Monarch Tractor CEO Praveen Penmetsa on the future of farming](https://www.theverge.com/23895900/praveen-penmetsa-monarch-tractor-autonomous-ev-interview-decoder)
+ - [The Pixel 8 is Google’s best opportunity to bring its AI ideas together under one roof](https://www.theverge.com/2023/9/30/23896256/google-pixel-8-pro-assistant-ai-bard)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
