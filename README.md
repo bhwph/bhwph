@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best anime movies to watch right now](https://www.polygon.com/what-to-watch/23891489/best-anime-movies-watch-streaming-netflix-hulu-prime-max)
- - [Pokémon Go Azurill Hatch Day event guide](https://www.polygon.com/pokemon-go-guide/2023/9/30/23896077/azurill-hatch-day-event-shiny-marill-azumarill-timed-research)
- - [NYT Connections hint and answers today: September 30 &lpar;#111&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-30-111)<!-- GAME:END -->
+ - [As CDPR resurrected Cyberpunk 2077, it focused on one word: &#39;believability&#39;](https://www.pcgamer.com/as-cdpr-resurrected-cyberpunk-2077-it-focused-on-one-word-believability)
+ - [Both the Xbox Series X and PlayStation 5 come with a free game this weekend](https://www.polygon.com/deals/23894762/best-gaming-deals-xbox-series-x-ps5-free-games-humble-gamestop-manga-blu-ray-deal-sale)
+ - [The Creator is the first real post-‘war on terror’ movie](https://www.polygon.com/23895997/creator-analysis-politics-war-on-terror-ai-us-military)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
