@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go Azurill Hatch Day event guide](https://www.polygon.com/pokemon-go-guide/2023/9/30/23896077/azurill-hatch-day-event-shiny-marill-azumarill-timed-research)
  - [NYT Connections hint and answers today: September 30 &lpar;#111&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-september-30-111)
- - [Today&#39;s Wordle hint and answer #833: Saturday, September 30](https://www.pcgamer.com/wordle-answer-today-hint-833-september-30)
- - [Call of Duty continues aggressive Fortnite-ification with new skins from Diablo, Spawn, and He-Man](https://www.pcgamer.com/call-of-duty-continues-aggressive-fortnite-ification-with-new-skins-from-diablo-spawn-and-he-man)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #833: Saturday, September 30](https://www.pcgamer.com/wordle-answer-today-hint-833-september-30)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
