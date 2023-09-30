@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It is almost the weekend.](http://9gag.com/gag/aDYq5LG)
- - 😝 [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
- - 👉 [Lmao](http://9gag.com/gag/a3ZzgW5)<!-- MEMES:END -->
+ - 6️⃣ [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
+ - 😝 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
+ - 👉 [Musk is picking up a fight with the German government.](http://9gag.com/gag/anz0PXL)<!-- MEMES:END -->
 
 --- 
 
