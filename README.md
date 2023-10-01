@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallen Aces looks like pulp comics Dishonored in a new extended gameplay trailer](https://www.pcgamer.com/fallen-aces-looks-like-pulp-comics-dishonored-in-a-new-extended-gameplay-trailer)
- - [Carrion meets Castlevania in Necrofugitive—a 2D stealth-action game where your enemies can set traps and learn from your slaughter](https://www.pcgamer.com/carrion-meets-castlevania-in-necrofugitivea-2d-stealth-action-game-where-your-enemies-can-set-traps-and-learn-from-your-slaughter)
- - [Our favorite mini-Morrowind is adding a mysterious realm ruled by a clockwork god in its next update](https://www.pcgamer.com/our-favorite-mini-morrowind-is-adding-a-mysterious-realm-ruled-by-a-clockwork-god-in-its-next-update)<!-- GAME:END -->
+ - [Darktide&#39;s new talent trees let you throw an &#39;Ogryn-sized&#39; grenade with a blast radius of 16 meters](https://www.pcgamer.com/darktides-new-talent-trees-let-you-throw-an-ogryn-sized-grenade-with-a-blast-radius-of-16-meters)
+ - [Get in the robot, kill some space angels, in this turn-based tactical mecha battler](https://www.pcgamer.com/get-in-the-robot-kill-some-space-angels-in-this-turn-based-tactical-mecha-battler)
+ - [Fallen Aces looks like pulp comics Dishonored in a new extended gameplay trailer](https://www.pcgamer.com/fallen-aces-looks-like-pulp-comics-dishonored-in-a-new-extended-gameplay-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
