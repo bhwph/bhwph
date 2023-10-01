@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
+ - 6️⃣ [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
  - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
- - 👉 [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)<!-- MEMES:END -->
+ - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
 
 --- 
 
