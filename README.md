@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let&#39;s be honest, it had to end like this](http://9gag.com/gag/aBdbBnN)
- - 😝 [NowWhichOneOfYouDidThis](http://9gag.com/gag/axoeqzK)
- - 👉 [2 brain cells at work here](http://9gag.com/gag/a6qeY5e)<!-- MEMES:END -->
+ - 6️⃣ [Should I be racist or?](http://9gag.com/gag/a04DyvL)
+ - 😝 [Balanced\u2026.. just as all things should be\u2026..](http://9gag.com/gag/aA0L8wL)
+ - 👉 [Always has been....](http://9gag.com/gag/aRE8bVA)<!-- MEMES:END -->
 
 --- 
 
