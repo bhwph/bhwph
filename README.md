@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Insects, Akira, and Pink Floyd: Inside The Creator’s eerie design mood board](https://www.polygon.com/23892583/the-creator-production-designer-interview-nomad-pink-floyd)
  - [10 great horror books to read this October](https://www.polygon.com/2023/10/1/23880586/best-horror-books-read-halloween)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
- - [Wordle today: Hint and answer for #834 Sunday, October 1](https://www.pcgamer.com/wordle-today-answer-834-october-1)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
