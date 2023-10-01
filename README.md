@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every movie and show coming to Netflix in October](https://www.polygon.com/entertainment/2023/10/1/23892382/new-netflix-movies-tv-shows-watch-october-2023)
- - [Insects, Akira, and Pink Floyd: Inside The Creator’s eerie design mood board](https://www.polygon.com/23892583/the-creator-production-designer-interview-nomad-pink-floyd)
- - [10 great horror books to read this October](https://www.polygon.com/2023/10/1/23880586/best-horror-books-read-halloween)<!-- GAME:END -->
+ - [Try to remain calm but Factorio is adding elevated trains](https://www.pcgamer.com/try-to-remain-calm-but-factorio-is-adding-elevated-trains)
+ - [The PC game releases we&#39;re most excited about in October](https://www.pcgamer.com/the-pc-game-releases-were-most-excited-about-in-october)
+ - [Heat: Pedal to the Metal is a tabletop racing masterpiece](https://www.polygon.com/tabletop-games/23895918/heat-pedal-to-the-metal-tabletop-racing-masterpiece-letsplay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
