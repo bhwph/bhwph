@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukrainians fear new Chinese rules restricting the export of cheap consumer drone components could worsen Ukraine&#39;s supply chain woes in their &quot;war of drones&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/231001/p6#a231001p6)
- - [I really miss the dual-tone colored Pixel phones](https://www.androidauthority.com/dual-tone-google-pixel-phones-3368874/)
- - [Tim Cook calls spatial computing in Apple Vision Pro an &#39;aha moment&#39; in a user&#39;s life](https://appleinsider.com/articles/23/10/01/tim-cook-calls-spatial-computing-in-apple-vision-pro-an-aha-moment-in-a-users-life?utm_medium=rss)<!-- TECH:END -->
+ - [Mark Zuckerberg wants Meta to be the Android of XR](https://www.androidauthority.com/meta-xr-opinion-3369498/)
+ - [Apple confirms iOS 17 fix for overheating iPhones is on the way](https://appleinsider.com/articles/23/09/30/apple-confirms-ios-17-fix-for-overheating-iphones-is-on-the-way?utm_medium=rss)
+ - [How to Watch Taylor Swift, Travis Kelce at Kansas City Chiefs vs. New York Jets Tonight     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-taylor-swift-travis-kelce-at-kansas-city-chiefs-vs-new-york-jets-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
