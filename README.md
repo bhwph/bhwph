@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Right them feels..](http://9gag.com/gag/a3ZzO65)
- - 😝 [We need more of this](http://9gag.com/gag/a2KA3Qe)
- - 👉 [My coworker showed me this and i think everyone should know this](http://9gag.com/gag/aGErmXn)<!-- MEMES:END -->
+ - 6️⃣ [Where are my \ud83c\udf49](http://9gag.com/gag/aEqj3PG)
+ - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
+ - 👉 [Try it! Lucid dreaming is awesome. I am having Sci-Fi adventures every other night.](http://9gag.com/gag/a04D3VZ)<!-- MEMES:END -->
 
 --- 
 
