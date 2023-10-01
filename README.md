@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: LG suspends the inclusion of ATSC 3.0, an IP-based broadcast system, in its 2024 lineup of US TVs due to a &quot;challenging and uncertain patent landscape&quot; &lpar;Jeff Baumgartner/Light Reading&rpar;](http://www.techmeme.com/231001/p1#a231001p1)
- - [Best PopSockets for 2023     - CNET](https://www.cnet.com/tech/mobile/best-popsockets-for-2023/#ftag=CAD590a51e)
- - [Thronmax Space wireless mic kit review: an almost-great option for vloggers &amp; more](https://appleinsider.com/articles/23/09/30/thronmax-space-wireless-mic-kit-review-an-almost-great-option-for-vloggers-more?utm_medium=rss)<!-- TECH:END -->
+ - [Fact-checking sites have been declining worldwide as social media platforms cut back on disinformation efforts, and bogus AI-generated content thrives online &lpar;New York Times&rpar;](http://www.techmeme.com/231001/p4#a231001p4)
+ - [Q&amp;A with Microsoft&#39;s consumer chief marketing officer Yusuf Mehdi on AI trends, competition, taking over some of Panos Panay&#39;s responsibilities, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231001/p3#a231001p3)
+ - [Nick Clegg says Meta used public Facebook and Instagram posts to train its new AI assistant and took steps to filter private details from training datasets &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/231001/p2#a231001p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
