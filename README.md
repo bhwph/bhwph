@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Check out free retro-RPG Moonring, made by an industry vet and Fable designer in classic Ultima style](https://www.pcgamer.com/check-out-free-retro-rpg-moonring-made-by-an-industry-vet-and-fable-designer-classic-in-ultima-style)
  - [Try to remain calm but Factorio is adding elevated trains](https://www.pcgamer.com/try-to-remain-calm-but-factorio-is-adding-elevated-trains)
- - [The PC game releases we&#39;re most excited about in October](https://www.pcgamer.com/the-pc-game-releases-were-most-excited-about-in-october)
- - [Heat: Pedal to the Metal is a tabletop racing masterpiece](https://www.polygon.com/tabletop-games/23895918/heat-pedal-to-the-metal-tabletop-racing-masterpiece-letsplay)<!-- GAME:END -->
+ - [The PC game releases we&#39;re most excited about in October](https://www.pcgamer.com/the-pc-game-releases-were-most-excited-about-in-october)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
