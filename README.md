@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer for #834 Sunday, October 1](https://www.pcgamer.com/wordle-today-answer-834-october-1)
- - [Darktide&#39;s new talent trees let you throw an &#39;Ogryn-sized&#39; grenade with a blast radius of 16 meters](https://www.pcgamer.com/darktides-new-talent-trees-let-you-throw-an-ogryn-sized-grenade-with-a-blast-radius-of-16-meters)
- - [Get in the robot, kill some space angels, in this turn-based tactical mecha battler](https://www.pcgamer.com/get-in-the-robot-kill-some-space-angels-in-this-turn-based-tactical-mecha-battler)<!-- GAME:END -->
+ - [10 great horror books to read this October](https://www.polygon.com/2023/10/1/23880586/best-horror-books-read-halloween)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
+ - [Wordle today: Hint and answer for #834 Sunday, October 1](https://www.pcgamer.com/wordle-today-answer-834-october-1)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
