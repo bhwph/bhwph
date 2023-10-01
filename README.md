@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The cheapest countries to buy a Samsung Galaxy Z Flip 5](https://www.androidauthority.com/cheapest-place-to-buy-samsung-galaxy-z-flip-5-3370173/)
- - [Apple plans to upgrade the App Store’s search engine, and it might not stop there](https://www.theverge.com/2023/10/1/23898280/apple-google-pegasus-search-engine-competition-generative-ai)
- - [Save an Extra $15 During the Final Hours of QVC&#39;s Holiday Preseason Sale     - CNET](https://www.cnet.com/deals/save-an-extra-15-during-the-final-hours-of-qvcs-holiday-preseason-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla rolls out an updated Model Y in China but keeps the same starting price](https://www.theverge.com/2023/10/1/23898419/tesla-model-y-updated-china-ambient-lighting-long-range)
+ - [Q&amp;A with Monarch Tractor CEO Praveen Penmetsa on licensing the autonomous electric tractor startup&#39;s tech to other companies, the future of farming, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231001/p8#a231001p8)
+ - [Cardinals vs. 49ers Livestream: How to Watch NFL Week 4 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/cardinals-vs-49ers-livestream-how-to-watch-nfl-week-4-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
