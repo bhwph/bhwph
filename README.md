@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
- - 😝 [NowWhichOneOfYouDidThis](http://9gag.com/gag/axoeqzK)
- - 👉 [They are lying to us!](http://9gag.com/gag/armDQvy)<!-- MEMES:END -->
+ - 6️⃣ [Right them feels..](http://9gag.com/gag/a3ZzO65)
+ - 😝 [We need more of this](http://9gag.com/gag/a2KA3Qe)
+ - 👉 [My coworker showed me this and i think everyone should know this](http://9gag.com/gag/aGErmXn)<!-- MEMES:END -->
 
 --- 
 
