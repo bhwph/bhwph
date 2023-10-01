@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Harry Potter but in America.](http://9gag.com/gag/a9q4oz1)
- - 😝 [Priority](http://9gag.com/gag/agopP5K)
+ - 6️⃣ [Priority](http://9gag.com/gag/agopP5K)
+ - 😝 [Self adjusting hydropneumatic suspension in an almost 3 decades old car](http://9gag.com/gag/ap9nWxn)
  - 👉 [He really said that.](http://9gag.com/gag/aGErWnX)<!-- MEMES:END -->
 
 --- 
