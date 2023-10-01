@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)
- - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
+ - 6️⃣ [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
+ - 😝 [NowWhichOneOfYouDidThis](http://9gag.com/gag/axoeqzK)
  - 👉 [They are lying to us!](http://9gag.com/gag/armDQvy)<!-- MEMES:END -->
 
 --- 
