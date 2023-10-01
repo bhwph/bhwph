@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with AMD CEO Lisa Su on competing with Nvidia&#39;s H100, PyTorch, AI regulation, the CHIPS Act, diversifying from TSMC, the global supply chain, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231001/p5#a231001p5)
- - [Your Project Management Software Can&#39;t Save You](https://www.wired.com/story/project-management-software-productivity/)
- - [Fact-checking sites have been declining worldwide as social media platforms cut back on disinformation efforts, and bogus AI-generated content thrives online &lpar;New York Times&rpar;](http://www.techmeme.com/231001/p4#a231001p4)<!-- TECH:END -->
+ - [Oura Ring 4: Release date, rumors, specs, price, and features we want to see](https://www.androidauthority.com/oura-ring-4-3368927/)
+ - [8 Best Sunrise Alarm Clocks &lpar;2023&rpar;: Homelabs, Philips, Casper](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
+ - [How to Stop Google Bard From Storing Your Data and Location](https://www.wired.com/story/google-bard-location-data-tracking-ai/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
