@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Should I be racist or?](http://9gag.com/gag/a04DyvL)
- - 😝 [Balanced\u2026.. just as all things should be\u2026..](http://9gag.com/gag/aA0L8wL)
- - 👉 [Always has been....](http://9gag.com/gag/aRE8bVA)<!-- MEMES:END -->
+ - 6️⃣ [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)
+ - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
+ - 👉 [They are lying to us!](http://9gag.com/gag/armDQvy)<!-- MEMES:END -->
 
 --- 
 
