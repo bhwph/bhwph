@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
- - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
- - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
+ - 6️⃣ [He has a point](http://9gag.com/gag/aoKGXOA)
+ - 😝 [No one reads the title anyways](http://9gag.com/gag/aDYqvQ9)
+ - 👉 [With this cat dreams come true](http://9gag.com/gag/anz0oOV)<!-- MEMES:END -->
 
 --- 
 
