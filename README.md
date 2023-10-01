@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg wants Meta to be the Android of XR](https://www.androidauthority.com/meta-xr-opinion-3369498/)
- - [Apple confirms iOS 17 fix for overheating iPhones is on the way](https://appleinsider.com/articles/23/09/30/apple-confirms-ios-17-fix-for-overheating-iphones-is-on-the-way?utm_medium=rss)
- - [How to Watch Taylor Swift, Travis Kelce at Kansas City Chiefs vs. New York Jets Tonight     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-taylor-swift-travis-kelce-at-kansas-city-chiefs-vs-new-york-jets-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The cheapest countries to buy a Samsung Galaxy Z Flip 5](https://www.androidauthority.com/cheapest-place-to-buy-samsung-galaxy-z-flip-5-3370173/)
+ - [Apple plans to upgrade the App Store’s search engine, and it might not stop there](https://www.theverge.com/2023/10/1/23898280/apple-google-pegasus-search-engine-competition-generative-ai)
+ - [Save an Extra $15 During the Final Hours of QVC&#39;s Holiday Preseason Sale     - CNET](https://www.cnet.com/deals/save-an-extra-15-during-the-final-hours-of-qvcs-holiday-preseason-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
