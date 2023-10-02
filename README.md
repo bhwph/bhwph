@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Without irony, Microsoft CEO says Google unfairly dominates search](https://appleinsider.com/articles/23/10/02/without-irony-microsoft-ceo-says-google-unfairly-dominates-search?utm_medium=rss)
- - [Microsoft okay with losing billions if Bing can be Apple’s search default](https://www.androidauthority.com/microsoft-bing-default-search-3370545/)
- - [Apple hasn&#39;t leaked a MacBook Pro with Dynamic Island](https://appleinsider.com/articles/23/10/02/apple-hasnt-leaked-a-macbook-pro-with-dynamic-island?utm_medium=rss)<!-- TECH:END -->
+ - [X Social Media is suing X, a social media company](https://www.theverge.com/2023/10/2/23900434/x-lawsuit-trademark-unfair-competition-elon-musk-twitter-florida)
+ - [Filing: Virginia-based cybersecurity startup IronNet, which was founded in 2014 by an ex-NSA director and raised over $400M, has shut down and laid off staff &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/231002/p16#a231002p16)
+ - [The next foldable Pixel might not be the Pixel Fold 2](https://www.androidauthority.com/pixel-fold-2-potential-codename-3370587/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
