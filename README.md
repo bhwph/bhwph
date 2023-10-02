@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: What’s Coming Out Beyond Assassin&#39;s Creed Mirage](https://kotaku.com/october-games-this-week-assassins-creed-mirage-pikachu-1850891921)
- - [Xbox’s Celebration of the Gaming &amp; Disability Community Continues to Flourish with Special Olympics Partnership](https://news.xbox.com/en-us/2023/10/02/xbox-gaming-disability-special-olympics/)
- - [Mortal Kombat 1 is a blast, but needed more time to cook](https://www.polygon.com/reviews/23896521/mortal-kombat-1-review)<!-- GAME:END -->
+ - [How to obtain Credit Coupons for ‘Unfinished Comedy’ in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23894248/obtain-credit-coupons-unfinished-comedy-quest-locations-map)
+ - [Xbox Insider Release Notes – Alpha &lpar;2310.230928-1038&rpar;](https://news.xbox.com/en-us/2023/10/02/xbox-insider-release-notes-alpha-2310-230928-1038/)
+ - [A canceled Netflix horror-thriller is the perfect way to usher in spooky season](https://www.polygon.com/23886034/netflix-marianne-spooky-best-watches-tv-show)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
