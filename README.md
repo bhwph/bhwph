@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
- - 😝 [No Title](http://9gag.com/gag/aVb9nWM)
- - 👉 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)<!-- MEMES:END -->
+ - 😝 [\u2757\ufe0fAbout a million demonstrators gathered today at an anti-government rally in the Polish capital Warsaw Let us remind you that the population of Warsaw is just under two million people.](http://9gag.com/gag/ajV3oN0)
+ - 👉 [No Title](http://9gag.com/gag/aVb9nWM)<!-- MEMES:END -->
 
 --- 
 
