@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s Leave the World Behind is a tense post-apocalyptic thriller in first trailer](https://www.theverge.com/23896161/leave-the-world-behind-trailer-date-netflix)
- - [This Exec Is Forcing Google Into Its First Trial Over Sexist Pay Discrimination](https://www.wired.com/story/exec-google-trial-sexist-pay-discrimination/)
- - [How Google Alters Search Queries to Get at Your Wallet](https://www.wired.com/story/google-antitrust-lawsuit-search-results/)<!-- TECH:END -->
+ - [Apple is still slow to purge scam apps in the Mac App Store](https://appleinsider.com/articles/23/10/02/apple-is-still-slow-to-purge-scam-apps-in-the-mac-app-store?utm_medium=rss)
+ - [Predictive Policing Software Terrible at Predicting Crimes](https://www.wired.com/story/plainfield-geolitica-crime-predictions/)
+ - [How I Use Sleep Deprivation as a Productivity Tool, and Why That&#39;s a Horrible Idea     - CNET](https://www.cnet.com/health/sleep/how-i-use-sleep-deprivation-as-a-productivity-tool-and-why-thats-a-horrible-idea/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
