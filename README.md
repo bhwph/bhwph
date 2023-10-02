@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google has partnered with HP to manufacture Chromebooks in India for the first time; the Chromebooks will mainly cater to the demand for affordable PCs in India &lpar;Times of India&rpar;](http://www.techmeme.com/231002/p2#a231002p2)
- - [Leaked promo video shows how easy it is to switch to Pixel 8](https://www.androidauthority.com/google-pixel-8-video-leak-switch-3370254/)
- - [Galaxy S24 Plus renders leak: iPhone-style flat edges, but what else?](https://www.androidauthority.com/samsung-galaxy-s24-plus-renders-3370236/)<!-- TECH:END -->
+ - [BMW’s in-car wireless charging will break your new iPhone 15](https://www.androidauthority.com/bmw-wireless-charging-iphone-15-apple-pay-3370296/)
+ - [Vertex, a SPAC backed by Singapore&#39;s Temasek, plans to buy live streaming service 17LIVE for ~$676M; 17LIVE had revenue of $363.7M in 2022 and is profitable &lpar;Reuters&rpar;](http://www.techmeme.com/231002/p4#a231002p4)
+ - [We asked, you told us: You overwhelmingly still have hope for Wear OS](https://www.androidauthority.com/hope-wear-os-poll-results-3370274/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
