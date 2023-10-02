@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Priority](http://9gag.com/gag/agopP5K)
- - 😝 [Self adjusting hydropneumatic suspension in an almost 3 decades old car](http://9gag.com/gag/ap9nWxn)
- - 👉 [He really said that.](http://9gag.com/gag/aGErWnX)<!-- MEMES:END -->
+ - 6️⃣ [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
+ - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
+ - 👉 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)<!-- MEMES:END -->
 
 --- 
 
