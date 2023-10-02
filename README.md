@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to obtain Credit Coupons for ‘Unfinished Comedy’ in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23894248/obtain-credit-coupons-unfinished-comedy-quest-locations-map)
- - [Xbox Insider Release Notes – Alpha &lpar;2310.230928-1038&rpar;](https://news.xbox.com/en-us/2023/10/02/xbox-insider-release-notes-alpha-2310-230928-1038/)
- - [A canceled Netflix horror-thriller is the perfect way to usher in spooky season](https://www.polygon.com/23886034/netflix-marianne-spooky-best-watches-tv-show)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3&#39;s last patch quietly clothed a formerly-nude cat, and some players are demanding their little naked man back](https://www.pcgamer.com/baldurs-gate-3s-last-patch-quietly-clothed-a-formerly-nude-cat-and-some-players-are-demanding-their-little-naked-man-back)
+ - [You can finally have an entire Sea of Thieves server to yourself with the new Safer Seas game mode](https://www.pcgamer.com/you-can-finally-have-an-entire-sea-of-thieves-server-to-yourself-with-the-new-safer-seas-game-mode)
+ - [The Overwatch League Grand Finals Were Both Beautiful And Depressing](https://kotaku.com/overwatch-league-grand-finals-2023-owl-ending-mvp-1850892928)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
