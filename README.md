@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3&#39;s last patch quietly clothed a formerly-nude cat, and some players are demanding their little naked man back](https://www.pcgamer.com/baldurs-gate-3s-last-patch-quietly-clothed-a-formerly-nude-cat-and-some-players-are-demanding-their-little-naked-man-back)
- - [You can finally have an entire Sea of Thieves server to yourself with the new Safer Seas game mode](https://www.pcgamer.com/you-can-finally-have-an-entire-sea-of-thieves-server-to-yourself-with-the-new-safer-seas-game-mode)
- - [The Overwatch League Grand Finals Were Both Beautiful And Depressing](https://kotaku.com/overwatch-league-grand-finals-2023-owl-ending-mvp-1850892928)<!-- GAME:END -->
+ - [Epic Games head of publishing strategy Sergiy Galyonkin has left the company: &#39;I am not a good fit for this new version of Epic&#39;](https://www.pcgamer.com/epic-games-head-of-publishing-strategy-sergiy-galyonkin-has-left-the-company-i-am-not-a-good-fit-for-this-new-version-of-epic)
+ - [A New Spider-Man 2 PS5 Bundle Is Coming](https://kotaku.com/spider-man-2-ps5-bundle-release-date-pre-order-price-1850892991)
+ - [Overwatch 2&#39;s Diablo IV Crossover Finally Gives Moira A Good Skin](https://kotaku.com/overwatch-2-season-7-release-date-skins-diablo-4-1850893221)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
