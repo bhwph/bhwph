@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blizzard says it’s building ‘revitalized’ Overwatch esports after OWL season ends](https://www.theverge.com/2023/10/2/23899985/overwatch-league-disbands-esports)
- - [MrBeast is putting his snack brand’s logo on NBA jerseys](https://www.theverge.com/2023/10/2/23899984/mrbeast-feastables-charlotte-hornets-nba-jersey-logo)
- - [Amazon&#39;s October Prime Day starts in 1 week, but early deals knock up to $700 off Apple gear today](https://appleinsider.com/articles/23/10/02/amazons-october-prime-day-starts-in-1-week-but-early-deals-knock-up-to-700-off-apple-gear-today?utm_medium=rss)<!-- TECH:END -->
+ - [Without irony, Microsoft CEO says Google unfairly dominates search](https://appleinsider.com/articles/23/10/02/without-irony-microsoft-ceo-says-google-unfairly-dominates-search?utm_medium=rss)
+ - [Microsoft okay with losing billions if Bing can be Apple’s search default](https://www.androidauthority.com/microsoft-bing-default-search-3370545/)
+ - [Apple hasn&#39;t leaked a MacBook Pro with Dynamic Island](https://appleinsider.com/articles/23/10/02/apple-hasnt-leaked-a-macbook-pro-with-dynamic-island?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
