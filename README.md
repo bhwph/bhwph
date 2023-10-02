@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
- - 😝 [\u2757\ufe0fAbout a million demonstrators gathered today at an anti-government rally in the Polish capital Warsaw Let us remind you that the population of Warsaw is just under two million people.](http://9gag.com/gag/ajV3oN0)
- - 👉 [No Title](http://9gag.com/gag/aVb9nWM)<!-- MEMES:END -->
+ - 6️⃣ [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - 😝 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
+ - 👉 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)<!-- MEMES:END -->
 
 --- 
 
