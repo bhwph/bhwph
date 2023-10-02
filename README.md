@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Intel&#39;s GM of the Data Center and AI Group Sandra Rivera about the Metaverse, competing with Nvidia, brain-like architectures, generative AI, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231002/p8#a231002p8)
- - [Apple has stopped offering customer support on X](https://www.theverge.com/2023/10/2/23899814/apple-customer-support-x-twitter-end)
- - [Humane shows off its wearable AI pin at Paris Fashion Week](https://appleinsider.com/articles/23/10/02/humane-shows-off-its-wearable-ai-pin-at-paris-fashion-week?utm_medium=rss)<!-- TECH:END -->
+ - [Blizzard says it’s building ‘revitalized’ Overwatch esports after OWL season ends](https://www.theverge.com/2023/10/2/23899985/overwatch-league-disbands-esports)
+ - [MrBeast is putting his snack brand’s logo on NBA jerseys](https://www.theverge.com/2023/10/2/23899984/mrbeast-feastables-charlotte-hornets-nba-jersey-logo)
+ - [Amazon&#39;s October Prime Day starts in 1 week, but early deals knock up to $700 off Apple gear today](https://appleinsider.com/articles/23/10/02/amazons-october-prime-day-starts-in-1-week-but-early-deals-knock-up-to-700-off-apple-gear-today?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
