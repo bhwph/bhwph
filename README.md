@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 years after launch, one player has nabbed every one of Final Fantasy 14&#39;s 2,751 achievements](https://www.pcgamer.com/10-years-after-launch-one-player-has-nabbed-every-one-of-final-fantasy-14s-2751-achievements)
- - [The Drifter is a point-and-click adventure that&#39;s also a fast-paced thriller](https://www.pcgamer.com/the-drifter-is-a-point-and-click-adventure-thats-also-a-fast-paced-thriller)
- - [Wordle today: Hint and answer for #835 Monday, October 2](https://www.pcgamer.com/wordle-today-answer-835-october-2)<!-- GAME:END -->
+ - [Should you frame Yuri during Balls to the Wall in Cyberpunk 2077: Phantom Liberty?](https://www.pcgamer.com/cyberpunk-2077-balls-to-the-wall-choice)
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
+ - [Fallout 76’s Atlantic City update: Factions, locations detailed–out December 5 on PS5 and PS4](https://blog.playstation.com/2023/10/02/fallout-76s-atlantic-city-update-factions-locations-detailed-out-december-5-on-ps5-and-ps4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
