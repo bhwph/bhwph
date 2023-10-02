@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
- - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
- - 👉 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)<!-- MEMES:END -->
+ - 6️⃣ [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - 😝 [Historically accurate costumes](http://9gag.com/gag/agopWg6)
+ - 👉 [Wait a minute...](http://9gag.com/gag/aeQqn6B)<!-- MEMES:END -->
 
 --- 
 
