@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sorry for that.](http://9gag.com/gag/a6qePom)
- - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
- - 👉 [A little suck and f**k - An Oscar nominee](http://9gag.com/gag/aDYqp1w)<!-- MEMES:END -->
+ - 6️⃣ [They are lying to us!](http://9gag.com/gag/armDQvy)
+ - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - 👉 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)<!-- MEMES:END -->
 
 --- 
 
