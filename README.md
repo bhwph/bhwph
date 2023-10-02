@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monetary Authority of Singapore grants Coinbase license to offer a wide range of digital payment services to retail and institutional customers in the country &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/231002/p1#a231002p1)
- - [The Pixel 8 launches later this week, but we’ve already got an unboxing clip](https://www.androidauthority.com/google-pixel-8-unboxing-3370227/)
- - [Epic vs Apple trial - all you need to know about the trial, verdict, and aftermath](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_medium=rss)<!-- TECH:END -->
+ - [Google has partnered with HP to manufacture Chromebooks in India for the first time; the Chromebooks will mainly cater to the demand for affordable PCs in India &lpar;Times of India&rpar;](http://www.techmeme.com/231002/p2#a231002p2)
+ - [Leaked promo video shows how easy it is to switch to Pixel 8](https://www.androidauthority.com/google-pixel-8-video-leak-switch-3370254/)
+ - [Galaxy S24 Plus renders leak: iPhone-style flat edges, but what else?](https://www.androidauthority.com/samsung-galaxy-s24-plus-renders-3370236/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
