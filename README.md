@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
- - 😝 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
- - 👉 [Wait a minute...](http://9gag.com/gag/aeQqn6B)<!-- MEMES:END -->
+ - 6️⃣ [Sorry for that.](http://9gag.com/gag/a6qePom)
+ - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
+ - 👉 [A little suck and f**k - An Oscar nominee](http://9gag.com/gag/aDYqp1w)<!-- MEMES:END -->
 
 --- 
 
