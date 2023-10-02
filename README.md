@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
- - 😝 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
- - 👉 [They are lying to us!](http://9gag.com/gag/armDQvy)<!-- MEMES:END -->
+ - 6️⃣ [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
+ - 😝 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
+ - 👉 [Wait a minute...](http://9gag.com/gag/aeQqn6B)<!-- MEMES:END -->
 
 --- 
 
