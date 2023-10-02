@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why are you in horny jail? post the pics](http://9gag.com/gag/ajV3oop)
+ - 6️⃣ [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
  - 😝 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
- - 👉 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)<!-- MEMES:END -->
+ - 👉 [\u2757\ufe0fAbout a million demonstrators gathered today at an anti-government rally in the Polish capital Warsaw Let us remind you that the population of Warsaw is just under two million people.](http://9gag.com/gag/ajV3oN0)<!-- MEMES:END -->
 
 --- 
 
