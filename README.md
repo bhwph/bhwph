@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is still slow to purge scam apps in the Mac App Store](https://appleinsider.com/articles/23/10/02/apple-is-still-slow-to-purge-scam-apps-in-the-mac-app-store?utm_medium=rss)
- - [Predictive Policing Software Terrible at Predicting Crimes](https://www.wired.com/story/plainfield-geolitica-crime-predictions/)
- - [How I Use Sleep Deprivation as a Productivity Tool, and Why That&#39;s a Horrible Idea     - CNET](https://www.cnet.com/health/sleep/how-i-use-sleep-deprivation-as-a-productivity-tool-and-why-thats-a-horrible-idea/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Intel&#39;s GM of the Data Center and AI Group Sandra Rivera about the Metaverse, competing with Nvidia, brain-like architectures, generative AI, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231002/p8#a231002p8)
+ - [Apple has stopped offering customer support on X](https://www.theverge.com/2023/10/2/23899814/apple-customer-support-x-twitter-end)
+ - [Humane shows off its wearable AI pin at Paris Fashion Week](https://appleinsider.com/articles/23/10/02/humane-shows-off-its-wearable-ai-pin-at-paris-fashion-week?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
