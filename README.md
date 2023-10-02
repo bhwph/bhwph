@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m so proud of this community](http://9gag.com/gag/a6qevQL)
- - 😝 [Johnny Somali being transported in a Japanese police van recently. He&#39;s not smiling, he faces up to 3 years in jail for trespassing](http://9gag.com/gag/aVb9nb2)
+ - 6️⃣ [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
+ - 😝 [No Title](http://9gag.com/gag/aVb9nWM)
  - 👉 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)<!-- MEMES:END -->
 
 --- 
