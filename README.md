@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BMW’s in-car wireless charging will break your new iPhone 15](https://www.androidauthority.com/bmw-wireless-charging-iphone-15-apple-pay-3370296/)
- - [Vertex, a SPAC backed by Singapore&#39;s Temasek, plans to buy live streaming service 17LIVE for ~$676M; 17LIVE had revenue of $363.7M in 2022 and is profitable &lpar;Reuters&rpar;](http://www.techmeme.com/231002/p4#a231002p4)
- - [We asked, you told us: You overwhelmingly still have hope for Wear OS](https://www.androidauthority.com/hope-wear-os-poll-results-3370274/)<!-- TECH:END -->
+ - [Netflix’s Leave the World Behind is a tense post-apocalyptic thriller in first trailer](https://www.theverge.com/23896161/leave-the-world-behind-trailer-date-netflix)
+ - [This Exec Is Forcing Google Into Its First Trial Over Sexist Pay Discrimination](https://www.wired.com/story/exec-google-trial-sexist-pay-discrimination/)
+ - [How Google Alters Search Queries to Get at Your Wallet](https://www.wired.com/story/google-antitrust-lawsuit-search-results/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
