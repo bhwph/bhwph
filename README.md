@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Should you frame Yuri during Balls to the Wall in Cyberpunk 2077: Phantom Liberty?](https://www.pcgamer.com/cyberpunk-2077-balls-to-the-wall-choice)
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [Fallout 76’s Atlantic City update: Factions, locations detailed–out December 5 on PS5 and PS4](https://blog.playstation.com/2023/10/02/fallout-76s-atlantic-city-update-factions-locations-detailed-out-december-5-on-ps5-and-ps4/)<!-- GAME:END -->
+ - [The Week In Games: What’s Coming Out Beyond Assassin&#39;s Creed Mirage](https://kotaku.com/october-games-this-week-assassins-creed-mirage-pikachu-1850891921)
+ - [Xbox’s Celebration of the Gaming &amp; Disability Community Continues to Flourish with Special Olympics Partnership](https://news.xbox.com/en-us/2023/10/02/xbox-gaming-disability-special-olympics/)
+ - [Mortal Kombat 1 is a blast, but needed more time to cook](https://www.polygon.com/reviews/23896521/mortal-kombat-1-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
