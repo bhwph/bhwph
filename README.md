@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shine From the Shadows With the Gold Shadow Special Edition Controller](https://news.xbox.com/en-us/2023/10/03/xbox-gold-shadow-controller-special-edition/)
- - [Fullmetal Alchemist’s messy changes are exactly what make it better than Brotherhood](https://www.polygon.com/23894643/fullmetal-alchemist-original-anime-2003-brotherhood-fma-fmab-manga)
- - [Why CS:GO was the greatest competitive FPS ever—and how CS2 will eclipse it](https://www.pcgamer.com/why-csgo-was-the-greatest-competitive-fps-everand-how-cs2-will-eclipse-it)<!-- GAME:END -->
+ - [Fly the PS VR2-powered skies of Project Wingman: Frontline 59, out today](https://blog.playstation.com/2023/10/03/fly-the-ps-vr2-powered-skies-of-project-wingman-frontline-59-out-today/)
+ - [Being the Best of the Worst: Tips and Strategies for The Lamplighters League](https://news.xbox.com/en-us/2023/10/03/best-of-the-worst-tips-and-strategies-the-lamplighters-league/)
+ - [John Woo will reinvent action movies &lpar;and Christmas&rpar; once again with Silent Night](https://www.polygon.com/23900521/silent-night-john-woo-trailer-hell-yeah)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
