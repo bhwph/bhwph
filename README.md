@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;October 2, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-2-2023)
  - [Give your old PC the boot with Cooler Master&#39;s Sneaker X gaming PC](https://www.pcgamer.com/give-your-old-pc-the-boot-with-cooler-masters-sneaker-x-gaming-pc)
- - [As longtime hosts say thanks for the memories, the Overwatch League as we know it is dead—but Activision promises a &#39;revitalized esports program&#39; is in the works](https://www.pcgamer.com/as-longtime-hosts-say-thanks-for-the-memories-the-overwatch-league-as-we-know-it-is-deadbut-activision-promises-a-revitalized-esports-program-is-in-the-works)
- - [This modder made such a great change to Starfield&#39;s food it&#39;s actually making me hungry](https://www.pcgamer.com/this-modder-made-such-a-great-change-to-starfields-food-its-actually-making-me-hungry)<!-- GAME:END -->
+ - [As longtime hosts say thanks for the memories, the Overwatch League as we know it is dead—but Activision promises a &#39;revitalized esports program&#39; is in the works](https://www.pcgamer.com/as-longtime-hosts-say-thanks-for-the-memories-the-overwatch-league-as-we-know-it-is-deadbut-activision-promises-a-revitalized-esports-program-is-in-the-works)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
