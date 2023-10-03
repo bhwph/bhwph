@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What did Mj do to the kid?](http://9gag.com/gag/aPgVOoq)
- - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aBdM9YD)
- - 👉 [A proud padre](http://9gag.com/gag/avQBbEq)<!-- MEMES:END -->
+ - 6️⃣ [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
+ - 😝 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
+ - 👉 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)<!-- MEMES:END -->
 
 --- 
 
