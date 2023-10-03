@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 devs sheepishly shave His Majesty, a fan favorite cat](https://www.polygon.com/23901347/baldurs-gate-3-hotfix-8-his-majesty-shaved-sphynx)
- - [Dragon’s Dogma 2 Hands-On: We’re So Back](https://kotaku.com/dragon-s-dogma-2-preview-impressions-release-date-1850896206)
- - [These adorable Sanrio Switch cases are cozy gaming perfection](https://www.polygon.com/gaming/23901618/hello-kitty-switch-cases-sanrio)<!-- GAME:END -->
+ - [A New Spider-Man 2 PS5 Bundle Is Coming](https://kotaku.com/spider-man-2-ps5-bundle-release-date-pre-order-price-1850892991)
+ - [Oops, Microsoft&#39;s AI chatbot is offering up malvertisements in responses](https://www.pcgamer.com/oops-microsofts-ai-chatbot-is-offering-up-malvertisements-in-responses)
+ - [Sony Now Giving Away Free Games To Sell PS5s [Update: Only To Some Players]](https://kotaku.com/sony-playstation-ps5-spider-man-2-free-deal-discount-1850870042)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
