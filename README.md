@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
- - 😝 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
- - 👉 [\u2757\ufe0fAbout a million demonstrators gathered today at an anti-government rally in the Polish capital Warsaw Let us remind you that the population of Warsaw is just under two million people.](http://9gag.com/gag/ajV3oN0)<!-- MEMES:END -->
+ - 6️⃣ [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
+ - 😝 [Yeah, Trump might win again](http://9gag.com/gag/aA0LWw2)
+ - 👉 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)<!-- MEMES:END -->
 
 --- 
 
