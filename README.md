@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Apple should explain how it defines product &quot;carbon neutrality&quot; after it stopped requiring suppliers to disclose greenhouse gas emissions data this year &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231003/p26#a231003p26)
- - [Google Outlines New Efforts to Keep Spam Out of Your Inbox     - CNET](https://www.cnet.com/tech/services-and-software/google-outlines-new-efforts-to-keep-spam-out-of-your-inbox/#ftag=CAD590a51e)
- - [Zoom Docs launches in 2024 with built-in AI collaboration features](https://www.theverge.com/2023/10/3/23901656/zoom-docs-ai-companion-meeting-summaries-project-management)<!-- TECH:END -->
+ - [Developers take note: Apple Silicon is required to develop apps for visionOS](https://appleinsider.com/articles/23/10/03/developers-take-note-apple-silicon-is-required-to-develop-apps-for-visionos?utm_medium=rss)
+ - [A US judge rules X violated its duties to cover employee legal expenses and must pay $1.1M in fees to Parag Agrawal, Vijaya Gadde, and other former executives &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/231003/p33#a231003p33)
+ - [Microsoft rolls out DALL-E 3 to all Bing Chat and Bing Image Creator users; OpenAI plans to roll out DALL-E 3 to paying ChatGPT subscribers later in October &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231003/p32#a231003p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
