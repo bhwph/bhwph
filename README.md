@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Physics.](http://9gag.com/gag/anz0Ajb)
- - 😝 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)
- - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
+ - 6️⃣ [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
+ - 😝 [Wait, that&#39;s freed Britney??](http://9gag.com/gag/aBdbqdN)
+ - 👉 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)<!-- MEMES:END -->
 
 --- 
 
