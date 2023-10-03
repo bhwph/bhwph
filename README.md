@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants to use your mattress as a body temperature sensor](https://appleinsider.com/articles/23/10/03/apple-wants-to-use-your-mattress-as-a-body-temperature-sensor?utm_medium=rss)
- - [Apple&#39;s carbon-neutral product claims deemed a &#39;climate-wash&#39;](https://appleinsider.com/articles/23/10/03/apples-carbon-neutral-product-claims-deemed-a-climate-wash?utm_medium=rss)
- - [Pretty Soon, Your VR Headset Will Know Exactly What Your Bedroom Looks Like](https://www.wired.com/story/virtual-reality-meta-wearables-privacy/)<!-- TECH:END -->
+ - [OnePlus Open: all the news and rumors about the company’s first foldable](https://www.theverge.com/2023/10/3/23901313/oneplus-open-foldable-leaks-news-rumors-oppo)
+ - [Naughty Dog is reportedly the latest studio to cut developer jobs](https://www.theverge.com/2023/10/3/23901251/naughty-dog-layoffs-developers-last-of-us-multiplayer)
+ - [Here is your Google Pixel 8 launch event bingo card!](https://www.androidauthority.com/google-pixel-8-launch-event-bingo-3369903/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
