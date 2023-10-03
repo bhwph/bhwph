@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [C. Can&#39;t tell](http://9gag.com/gag/aBdM9YD)
- - 😝 [Polished data for any profession\u2026](http://9gag.com/gag/aBdbqAZ)
- - 👉 [We dont control the media](http://9gag.com/gag/aGEqKDw)<!-- MEMES:END -->
+ - 6️⃣ [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - 😝 [She does not want to be a Mother to her three kids anymore because her new boyfriend doesn&#39;t want kids](http://9gag.com/gag/aWGeK72)
+ - 👉 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)<!-- MEMES:END -->
 
 --- 
 
