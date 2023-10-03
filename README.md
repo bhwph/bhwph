@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft overhauls OneDrive with a big new design, AI Copilot integration, and more](https://www.theverge.com/2023/10/3/23901682/microsoft-onedrive-new-design-copilot-offline-features)
- - [Researchers find critical now-patched flaws allowing RCE in open-source AI model-serving tool TorchServe and vulnerable instances at tens of thousands of IPs &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231003/p22#a231003p22)
- - [Apple doles out fourth visionOS beta to developers](https://appleinsider.com/articles/23/10/03/apple-doles-out-fourth-visionos-beta-to-developers?utm_medium=rss)<!-- TECH:END -->
+ - [Report: Apple should explain how it defines product &quot;carbon neutrality&quot; after it stopped requiring suppliers to disclose greenhouse gas emissions data this year &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231003/p26#a231003p26)
+ - [Google Outlines New Efforts to Keep Spam Out of Your Inbox     - CNET](https://www.cnet.com/tech/services-and-software/google-outlines-new-efforts-to-keep-spam-out-of-your-inbox/#ftag=CAD590a51e)
+ - [Zoom Docs launches in 2024 with built-in AI collaboration features](https://www.theverge.com/2023/10/3/23901656/zoom-docs-ai-companion-meeting-summaries-project-management)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
