@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Minecraft DLC is a fully voiced D&amp;D adventure](https://www.pcgamer.com/the-new-minecraft-dlc-is-a-fully-voiced-dandd-adventure)
- - [Can Slowpoke be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889390/can-slowpoke-be-shiny-slowbro-slowking-mega-galarian)
- - [There&#39;s a new king of the GPUs in Steam&#39;s September hardware survey](https://www.pcgamer.com/theres-a-new-king-of-the-gpus-in-steams-september-hardware-survey)<!-- GAME:END -->
+ - [This Week’s Xbox Sales and Specials, Including the Action Adventure Sale and Open World Sale](https://news.xbox.com/en-us/2023/10/03/this-weeks-xbox-sales-and-specials-including-the-action-adventure-sale-and-open-world-sale/)
+ - [Last Of Us Studio Naughty Dog Is Cutting Developers](https://kotaku.com/naughty-dog-ps5-playstation-sony-last-us-part-3-layoffs-1850893794)
+ - [Baldur&#39;s Gate 3&#39;s new hotfix reverses history&#39;s most controversial feline glow-up and stops your companions acting &#39;like a toddler in a grocery store&#39;](https://www.pcgamer.com/baldurs-gate-3s-new-hotfix-reverses-historys-most-controversial-feline-glow-up-and-stops-your-companions-acting-like-a-toddler-in-a-grocery-store)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
