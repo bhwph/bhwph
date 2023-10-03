@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The new Minecraft DLC is a fully voiced D&amp;D adventure](https://www.pcgamer.com/the-new-minecraft-dlc-is-a-fully-voiced-dandd-adventure)
  - [Can Slowpoke be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889390/can-slowpoke-be-shiny-slowbro-slowking-mega-galarian)
- - [There&#39;s a new king of the GPUs in Steam&#39;s September hardware survey](https://www.pcgamer.com/theres-a-new-king-of-the-gpus-in-steams-september-hardware-survey)
- - [Wordle today: Hint and answer #836 for Tuesday, October 3](https://www.pcgamer.com/wordle-today-answer-836-october-3)<!-- GAME:END -->
+ - [There&#39;s a new king of the GPUs in Steam&#39;s September hardware survey](https://www.pcgamer.com/theres-a-new-king-of-the-gpus-in-steams-september-hardware-survey)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
