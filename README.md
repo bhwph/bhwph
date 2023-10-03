@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X Social Media is suing X, a social media company](https://www.theverge.com/2023/10/2/23900434/x-lawsuit-trademark-unfair-competition-elon-musk-twitter-florida)
- - [Filing: Virginia-based cybersecurity startup IronNet, which was founded in 2014 by an ex-NSA director and raised over $400M, has shut down and laid off staff &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/231002/p16#a231002p16)
- - [The next foldable Pixel might not be the Pixel Fold 2](https://www.androidauthority.com/pixel-fold-2-potential-codename-3370587/)<!-- TECH:END -->
+ - [TikTok says it is running a limited-scale test of an ad-free subscription plan in a non-US market, but declines to reveal the market and the price &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231002/p18#a231002p18)
+ - [OnePlus Folding Phone Shown Off in YouTube Video     - CNET](https://www.cnet.com/tech/mobile/oneplus-folding-phone-shown-off-in-youtube-video/#ftag=CAD590a51e)
+ - [Source: Instagram seeks to revive interest in Threads by meeting with creators, working to make Threads a place for real-time updates on big events, and more &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/231002/p17#a231002p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
