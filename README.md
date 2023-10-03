@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - 😝 [She does not want to be a Mother to her three kids anymore because her new boyfriend doesn&#39;t want kids](http://9gag.com/gag/aWGeK72)
- - 👉 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)<!-- MEMES:END -->
+ - 6️⃣ [What did Mj do to the kid?](http://9gag.com/gag/aPgVOoq)
+ - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aBdM9YD)
+ - 👉 [A proud padre](http://9gag.com/gag/avQBbEq)<!-- MEMES:END -->
 
 --- 
 
