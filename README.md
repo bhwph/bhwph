@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
- - 😝 [Wait, that&#39;s freed Britney??](http://9gag.com/gag/aBdbqdN)
- - 👉 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)<!-- MEMES:END -->
+ - 6️⃣ [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)
+ - 😝 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
+ - 👉 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)<!-- MEMES:END -->
 
 --- 
 
