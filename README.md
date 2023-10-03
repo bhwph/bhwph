@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Physics.](http://9gag.com/gag/anz0Ajb)
  - 😝 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)
- - 👉 [Wait, that&#39;s freed Britney??](http://9gag.com/gag/aBdbqdN)<!-- MEMES:END -->
+ - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
 
 --- 
 
