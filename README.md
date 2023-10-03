@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Xbox Sales and Specials, Including the Action Adventure Sale and Open World Sale](https://news.xbox.com/en-us/2023/10/03/this-weeks-xbox-sales-and-specials-including-the-action-adventure-sale-and-open-world-sale/)
- - [Last Of Us Studio Naughty Dog Is Cutting Developers](https://kotaku.com/naughty-dog-ps5-playstation-sony-last-us-part-3-layoffs-1850893794)
- - [Baldur&#39;s Gate 3&#39;s new hotfix reverses history&#39;s most controversial feline glow-up and stops your companions acting &#39;like a toddler in a grocery store&#39;](https://www.pcgamer.com/baldurs-gate-3s-new-hotfix-reverses-historys-most-controversial-feline-glow-up-and-stops-your-companions-acting-like-a-toddler-in-a-grocery-store)<!-- GAME:END -->
+ - [Shine From the Shadows With the Gold Shadow Special Edition Controller](https://news.xbox.com/en-us/2023/10/03/xbox-gold-shadow-controller-special-edition/)
+ - [Fullmetal Alchemist’s messy changes are exactly what make it better than Brotherhood](https://www.polygon.com/23894643/fullmetal-alchemist-original-anime-2003-brotherhood-fma-fmab-manga)
+ - [Why CS:GO was the greatest competitive FPS ever—and how CS2 will eclipse it](https://www.pcgamer.com/why-csgo-was-the-greatest-competitive-fps-everand-how-cs2-will-eclipse-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
