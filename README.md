@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A New Spider-Man 2 PS5 Bundle Is Coming](https://kotaku.com/spider-man-2-ps5-bundle-release-date-pre-order-price-1850892991)
- - [Oops, Microsoft&#39;s AI chatbot is offering up malvertisements in responses](https://www.pcgamer.com/oops-microsofts-ai-chatbot-is-offering-up-malvertisements-in-responses)
- - [Sony Now Giving Away Free Games To Sell PS5s [Update: Only To Some Players]](https://kotaku.com/sony-playstation-ps5-spider-man-2-free-deal-discount-1850870042)<!-- GAME:END -->
+ - [5 years after it closed for good, Gearbox confirms that the hero shooter Gigantic is coming back for a &#39;limited time throwback event&#39;](https://www.pcgamer.com/5-years-after-it-closed-for-good-gearbox-confirms-that-the-hero-shooter-gigantic-is-coming-back-for-a-limited-time-throwback-event)
+ - [Attack On Titan Is Getting A ‘Bonus’ Manga Chapter 2.5 Years After Its Divisive Ending](https://kotaku.com/attack-on-titan-volume-35-eren-jaeger-hajime-isayama-1850897216)
+ - [Old School Runescape player goes on an emotional roller coaster after hackers strip his account of items worth 4.8 billion in gold](https://www.pcgamer.com/old-school-runescape-player-goes-on-an-emotional-roller-coaster-after-hackers-strip-his-account-of-items-worth-48-billion-in-gold)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
