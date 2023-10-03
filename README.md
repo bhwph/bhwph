@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta pitched a plan to EU regulators to charge European users a subscription fee to use Facebook and Instagram without ads starting at &amp;euro;10 per month &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/231002/p21#a231002p21)
- - [How to use the new spirit level in the iOS 17 Camera app](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-spirit-level-in-the-ios-17-camera-app?utm_medium=rss)
- - [Investigation: several Taiwanese tech companies are secretly helping Huawei build chip plants in southern China, an unusual collaboration with political risks &lpar;Bloomberg&rpar;](http://www.techmeme.com/231002/p20#a231002p20)<!-- TECH:END -->
+ - [Cape Town-based Stitch, which enables businesses to build, optimize, and scale financial products using its APIs, raised a $25M Series A extension led by Ribbit &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/231003/p2#a231003p2)
+ - [This Website Exposes the Truth About Soaring Food Prices](https://www.wired.com/story/heisse-preise-food-prices/)
+ - [The ‘Green’ Future of Furniture Is a Sofa Stuffed With Seaweed](https://www.wired.com/story/agoprene-seaweed-furniture-stuffing/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
