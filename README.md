@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A preview of the Sam Bankman-Fried trial, which begins Tuesday with jury selection, the seven charges, key witnesses, the legal strategies, and more &lpar;Molly White&rpar;](http://www.techmeme.com/231003/p3#a231003p3)
- - [TikTok is testing an ad-free monthly subscription plan &lpar;Update: Confirmation&rpar;](https://www.androidauthority.com/tiktok-testing-ad-free-monthly-subscription-plan-3370353/)
- - [The Tensor G3 could be a surprisingly big upgrade for the Pixel 8](https://www.androidauthority.com/google-tensor-g3-specs-leak-3369648/)<!-- TECH:END -->
+ - [Patrick Stewart Boldly Explores His Own Final Frontier](https://www.wired.com/story/patrick-stewart-memoir/)
+ - [AI Watermarks Are No Match for Attackers](https://www.wired.com/story/artificial-intelligence-watermarking-issues/)
+ - [Your Internet Browser Does Not Belong to You](https://www.wired.com/story/browser-online-search-surveillance-psychology/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
