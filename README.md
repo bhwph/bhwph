@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fly the PS VR2-powered skies of Project Wingman: Frontline 59, out today](https://blog.playstation.com/2023/10/03/fly-the-ps-vr2-powered-skies-of-project-wingman-frontline-59-out-today/)
- - [Being the Best of the Worst: Tips and Strategies for The Lamplighters League](https://news.xbox.com/en-us/2023/10/03/best-of-the-worst-tips-and-strategies-the-lamplighters-league/)
- - [John Woo will reinvent action movies &lpar;and Christmas&rpar; once again with Silent Night](https://www.polygon.com/23900521/silent-night-john-woo-trailer-hell-yeah)<!-- GAME:END -->
+ - [Baldur’s Gate 3 devs sheepishly shave His Majesty, a fan favorite cat](https://www.polygon.com/23901347/baldurs-gate-3-hotfix-8-his-majesty-shaved-sphynx)
+ - [Dragon’s Dogma 2 Hands-On: We’re So Back](https://kotaku.com/dragon-s-dogma-2-preview-impressions-release-date-1850896206)
+ - [These adorable Sanrio Switch cases are cozy gaming perfection](https://www.polygon.com/gaming/23901618/hello-kitty-switch-cases-sanrio)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
