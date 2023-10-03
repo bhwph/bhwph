@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok says it is running a limited-scale test of an ad-free subscription plan in a non-US market, but declines to reveal the market and the price &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231002/p18#a231002p18)
- - [OnePlus Folding Phone Shown Off in YouTube Video     - CNET](https://www.cnet.com/tech/mobile/oneplus-folding-phone-shown-off-in-youtube-video/#ftag=CAD590a51e)
- - [Source: Instagram seeks to revive interest in Threads by meeting with creators, working to make Threads a place for real-time updates on big events, and more &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/231002/p17#a231002p17)<!-- TECH:END -->
+ - [Email: Chainalysis lays off ~150 employees, or 15%+ of its staff, and plans to focus on government contracting; the company cut staff by ~5% in February 2023 &lpar;Steven Ehrlich/Forbes&rpar;](http://www.techmeme.com/231002/p19#a231002p19)
+ - [Cook the &#39;perfect&#39; lasagna and other recipes from &#39;Lessons in Chemistry&#39; on Apple TV+](https://appleinsider.com/articles/23/10/03/cook-the-perfect-lasagna-and-other-recipes-from-lessons-in-chemistry-on-apple-tv?utm_medium=rss)
+ - [Best Chromebook of 2023     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
