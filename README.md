@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Open: all the news and rumors about the company’s first foldable](https://www.theverge.com/2023/10/3/23901313/oneplus-open-foldable-leaks-news-rumors-oppo)
- - [Naughty Dog is reportedly the latest studio to cut developer jobs](https://www.theverge.com/2023/10/3/23901251/naughty-dog-layoffs-developers-last-of-us-multiplayer)
- - [Here is your Google Pixel 8 launch event bingo card!](https://www.androidauthority.com/google-pixel-8-launch-event-bingo-3369903/)<!-- TECH:END -->
+ - [Catch the first price drop on Jabra’s most advanced earbuds ever](https://www.androidauthority.com/jabra-elite-10-deal-3371189/)
+ - [Jony Ive invests in blender company](https://www.theverge.com/2023/10/3/23901470/jony-ive-cruz-blendercap-investment-portable-bottle-blender)
+ - [The ad-free version of Discovery Plus is getting a price hike](https://www.theverge.com/2023/10/3/23901448/discovery-plus-price-increase-monthly-cost)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
