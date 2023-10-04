@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the carriers that get you a Google Pixel 8 free](https://www.androidauthority.com/google-pixel-8-free-3370619/)
- - [Detective Pikachu Returns is a super effective story let down by dated visuals](https://www.theverge.com/23902541/detective-pikachu-returns-review-nintendo-switch)
- - [Apple TV+ welcomes &#39;The Buccaneers&#39; with first trailer](https://appleinsider.com/articles/23/10/04/apple-tv-welcomes-the-buccaneers-with-first-trailer?utm_medium=rss)<!-- TECH:END -->
+ - [Former BioWare employees sue for better severance packages](https://www.theverge.com/2023/10/4/23903348/bioware-lawsuit-fair-severance-dragon-age-dreadwolf)
+ - [Where to preorder the Pixel 8 and Pixel 8 Pro](https://www.androidauthority.com/preorder-pixel-8-pro-3371844/)
+ - [Apple addresses iPhone 15 overheating with a new iOS 17 update](https://www.theverge.com/2023/10/4/23903409/iphone-15-pro-overheating-ios-17-0-3-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
