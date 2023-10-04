@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Bing AI Generates Images Of Kirby Doing 9/11](https://kotaku.com/microsoft-bing-ai-image-art-kirby-mario-9-11-nintendo-1850899895)
- - [Diablo 4’s Season of Blood lets players become vampires just ahead of Halloween](https://www.polygon.com/23901915/diablo-4-season-of-blood-2-vampire-powers-pact-livestream)
- - [Diablo 4 season 2’s biggest draw is its quality-of-life updates](https://www.polygon.com/gaming/23901914/diablo-4-season-blood-2-quality-life-blizzard-interview)<!-- GAME:END -->
+ - [Dragon Age And Mass Effect Studio Lays Off 50 Devs, Claims Games Are Unaffected [Update]](https://kotaku.com/dragon-age-dreadwolf-mass-effect-4-bioware-layoffs-1850766754)
+ - [All unionized Dragon Age: Dreadwolf QA workers have been laid off](https://www.polygon.com/23903782/dragon-age-dreadwolf-qa-workers-laid-off-keywords-studios)
+ - [Magic: The Gathering&#39;s Doctor Who set understands what the show is about](https://www.pcgamer.com/magic-the-gatherings-doctor-who-set-understands-what-the-show-is-about)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
