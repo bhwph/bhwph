@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former BioWare employees sue for better severance packages](https://www.theverge.com/2023/10/4/23903348/bioware-lawsuit-fair-severance-dragon-age-dreadwolf)
- - [Where to preorder the Pixel 8 and Pixel 8 Pro](https://www.androidauthority.com/preorder-pixel-8-pro-3371844/)
- - [Apple addresses iPhone 15 overheating with a new iOS 17 update](https://www.theverge.com/2023/10/4/23903409/iphone-15-pro-overheating-ios-17-0-3-update)<!-- TECH:END -->
+ - [There’s already a Pixel 8 teardown video](https://www.theverge.com/2023/10/4/23903597/pixel-8-teardown-video-google)
+ - [Memo: Amazon is shutting down Amp, its live audio streaming app launched in March 2022 that let users act like DJs by playing music and talking alongside songs &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/231004/p37#a231004p37)
+ - [Google’s latest statue has Bugdroid flipping for some upside-down cake](https://www.androidauthority.com/googles-latest-android-14-statue-3371902/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
