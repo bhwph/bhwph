@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait, that&#39;s freed Britney??](http://9gag.com/gag/aBdbqdN)
+ - 6️⃣ [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
  - 😝 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
- - 👉 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)<!-- MEMES:END -->
+ - 👉 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)<!-- MEMES:END -->
 
 --- 
 
