@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Take care of yourself.](http://9gag.com/gag/aoK6mgx)
- - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 👉 [Two guys attempt to rob a grocery store in England and promptly apprehended by locals](http://9gag.com/gag/aPg0wpR)<!-- MEMES:END -->
+ - 6️⃣ [Wait, that&#39;s freed Britney??](http://9gag.com/gag/aBdbqdN)
+ - 😝 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
+ - 👉 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)<!-- MEMES:END -->
 
 --- 
 
