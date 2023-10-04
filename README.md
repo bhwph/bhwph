@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Its back!](http://9gag.com/gag/aYVBbQq)
- - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
- - 👉 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)<!-- MEMES:END -->
+ - 6️⃣ [He held on for dear life](http://9gag.com/gag/aA07Yp2)
+ - 😝 [Strong and Independent Women](http://9gag.com/gag/a4o89K1)
+ - 👉 [I don&#39;t look like Austin Powers](http://9gag.com/gag/aDYL0G9)<!-- MEMES:END -->
 
 --- 
 
