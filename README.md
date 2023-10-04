@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
- - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
- - 👉 [Peaceful israelis at their finest](http://9gag.com/gag/ajVjQ8q)<!-- MEMES:END -->
+ - 6️⃣ [This Halloween costume is wild!](http://9gag.com/gag/a9qeMBm)
+ - 😝 [Imagine having pride parade instead of this, imagine your whole city destroyed in a riot instead of, imagine women could not walk safely at night, your kids are minority at school and your street is filled with goat breeder worshipper, IMAGINE HATING YOUR OWN SKIN AND TRADITION](http://9gag.com/gag/a3ZDYV7)
+ - 👉 [Emanual?](http://9gag.com/gag/aOxOy72)<!-- MEMES:END -->
 
 --- 
 
