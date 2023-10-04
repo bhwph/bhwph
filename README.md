@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He held on for dear life](http://9gag.com/gag/aA07Yp2)
- - 😝 [Strong and Independent Women](http://9gag.com/gag/a4o89K1)
- - 👉 [I don&#39;t look like Austin Powers](http://9gag.com/gag/aDYL0G9)<!-- MEMES:END -->
+ - 6️⃣ [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
+ - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
+ - 👉 [Peaceful israelis at their finest](http://9gag.com/gag/ajVjQ8q)<!-- MEMES:END -->
 
 --- 
 
