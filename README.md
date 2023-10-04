@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Commission starts collective risk assessments on advanced chips, AI, quantum, and biotech, the most sensitive areas for security and tech leakage &lpar;J&amp;aacute;nos Allenbach-Ammann/Euractiv&rpar;](http://www.techmeme.com/231004/p1#a231004p1)
- - [Ripple&#39;s Singapore arm secures a license as a major payment institution from the Monetary Authority of Singapore, after an in-principle approval in June 2023 &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/231003/p39#a231003p39)
- - [Flip Phone Face-off: Phantom V Flip 5G vs. Motorola Razr vs. Galaxy Z Flip 5     - CNET](https://www.cnet.com/tech/mobile/flip-phone-face-off-phantom-v-flip-5g-vs-motorola-razr-vs-galaxy-z-flip-5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Samsung Galaxy S23 FE chargers you can get](https://www.androidauthority.com/best-samsung-galaxy-s23-fe-chargers-3370706/)
+ - [Apple’s upcoming iOS 17 update could fix iPhone 15 Pro overheating issue](https://www.androidauthority.com/apples-ios-17-0-3-update-iphone-15-pro-overheating-3371482/)
+ - [PE firm Vista, with another backer, acquires a majority stake in TRG Screen, which makes subscription spend management software; sources say for about $250M &lpar;Kamaron Leach/Bloomberg&rpar;](http://www.techmeme.com/231004/p4#a231004p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
