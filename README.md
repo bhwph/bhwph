@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo will turn off all online play for 3DS and Wii U next year](https://www.polygon.com/23902744/nintendo-3ds-wii-u-online-switchoff)
- - [Horizon Forbidden West Complete Edition arrives Oct 6 on PS5 — bringing the characters to life](https://blog.playstation.com/2023/10/04/horizon-forbidden-west-complete-edition-arrives-oct-6-on-ps5-bringing-the-characters-to-life/)
- - [Forza Motorsport: How and When to Get Early Access](https://forza.net/news/forza-motorsport-early-access)<!-- GAME:END -->
+ - [Detective Pikachu Returns gives Pokémon more personality](https://www.polygon.com/reviews/23902070/detective-pikachu-returns-review-nintendo-switch-pokemon)
+ - [Try not to piss off your clones in this survival game from the developers of  Frostpunk and This War of Mine](https://www.pcgamer.com/try-not-to-piss-off-your-own-clones-in-the-frostpunk-developers-new-sci-fi-survival-game)
+ - [Ahsoka Episode 8 Review: Right Where We Need To Be](https://kotaku.com/ahsoka-tano-series-show-episode-8-review-recap-reaction-1850898559)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
