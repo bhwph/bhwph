@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber expands Uber Connect with a &quot;return a package&quot; feature, allowing customers to send up to five packages for a $5 fee to UPS, FedEx, or USPS locations &lpar;Melina Khan/CNBC&rpar;](http://www.techmeme.com/231004/p10#a231004p10)
- - [AI Chatbots Are Learning to Spout Authoritarian Propaganda](https://www.wired.com/story/chatbot-censorship-china-freedom-house/)
- - [AI bias tests gloss over a crucial aspect of skin color, Sony research claims](https://www.theverge.com/2023/10/4/23902728/ai-bias-skin-tone-hue-sony-research-artificial-intelligence-ethics)<!-- TECH:END -->
+ - [Yahoo announces that it&#39;s spinning off the business around Vespa, an open source tool powering the company&#39;s search and ad tech, into an independent venture &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231004/p16#a231004p16)
+ - [Apple TV Plus will stream free Charlie Brown classics for the holidays again](https://www.theverge.com/23902821/apple-tv-plus-charlie-brown-holiday-specials-free)
+ - [Watch the Pixel 8 and Pixel Watch 2 launch live here](https://www.androidauthority.com/watch-google-pixel-8-pixel-watch-2-launch-live-3370176/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
