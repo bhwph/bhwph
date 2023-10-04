@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yahoo announces that it&#39;s spinning off the business around Vespa, an open source tool powering the company&#39;s search and ad tech, into an independent venture &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231004/p16#a231004p16)
- - [Apple TV Plus will stream free Charlie Brown classics for the holidays again](https://www.theverge.com/23902821/apple-tv-plus-charlie-brown-holiday-specials-free)
- - [Watch the Pixel 8 and Pixel Watch 2 launch live here](https://www.androidauthority.com/watch-google-pixel-8-pixel-watch-2-launch-live-3370176/)<!-- TECH:END -->
+ - [Here are the carriers that get you a Google Pixel 8 free](https://www.androidauthority.com/google-pixel-8-free-3370619/)
+ - [Detective Pikachu Returns is a super effective story let down by dated visuals](https://www.theverge.com/23902541/detective-pikachu-returns-review-nintendo-switch)
+ - [Apple TV+ welcomes &#39;The Buccaneers&#39; with first trailer](https://appleinsider.com/articles/23/10/04/apple-tv-welcomes-the-buccaneers-with-first-trailer?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
