@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new League of Legends yearly Worlds anthem is a bop from NewJeans](https://www.polygon.com/23903136/league-of-legends-worlds-anthem-2023-gods-newjeans)
- - [The Spy x Family season 2 opening is infectiously bubbly and beautiful](https://www.polygon.com/23903200/spy-x-family-season-2-opening-title-song-animation-sequence)
- - [Phantom Liberty&#39;s New Ending Is The Perfect Coda To Cyberpunk 2077](https://kotaku.com/cyberpunk-2077-new-ending-phantom-liberty-misty-v-lives-1850899228)<!-- GAME:END -->
+ - [Gearbox Is Reviving A Dead Hero Shooter For 3 Days &lpar;No, Not Battleborn&rpar;](https://kotaku.com/gigantic-gearbox-battleborn-hero-shooter-pc-free-to-pla-1850900044)
+ - [Five former Ubisoft employees arrested following investigation into sexual misconduct complaints at the company](https://www.pcgamer.com/five-former-ubisoft-employees-arrested-following-investigation-into-sexual-misconduct-complaints-at-the-company)
+ - [Grandpa’s Tale of Adventure Comes to Xbox](https://news.xbox.com/en-us/2023/10/04/blossom-tales-2-comes-to-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
