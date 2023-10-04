@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A road without a turn for 200 Km .](http://9gag.com/gag/az2zLWp)
- - 😝 [I might be late to the party but i finally have a gaming pc.](http://9gag.com/gag/aXnzEv6)
- - 👉 [I mean, they confirm dinosaur have feather and is more closer to bird right? And trex is closer to chicken right?](http://9gag.com/gag/avQVZ1E)<!-- MEMES:END -->
+ - 6️⃣ [Emanual?](http://9gag.com/gag/aOxOy72)
+ - 😝 [Wait so actions can have consequences?](http://9gag.com/gag/a1PneLb)
+ - 👉 [Maga shaman is free from prison](http://9gag.com/gag/anz3KOn)<!-- MEMES:END -->
 
 --- 
 
