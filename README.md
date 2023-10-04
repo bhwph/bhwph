@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How Portugal deals with eco-trolls](http://9gag.com/gag/aBdMRyz)
- - 😝 [He held on for dear life](http://9gag.com/gag/aA07Yp2)
- - 👉 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)<!-- MEMES:END -->
+ - 6️⃣ [Take care of yourself.](http://9gag.com/gag/aoK6mgx)
+ - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 👉 [Two guys attempt to rob a grocery store in England and promptly apprehended by locals](http://9gag.com/gag/aPg0wpR)<!-- MEMES:END -->
 
 --- 
 
