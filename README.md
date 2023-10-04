@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developers take note: Apple Silicon is required to develop apps for visionOS](https://appleinsider.com/articles/23/10/03/developers-take-note-apple-silicon-is-required-to-develop-apps-for-visionos?utm_medium=rss)
- - [A US judge rules X violated its duties to cover employee legal expenses and must pay $1.1M in fees to Parag Agrawal, Vijaya Gadde, and other former executives &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/231003/p33#a231003p33)
- - [Microsoft rolls out DALL-E 3 to all Bing Chat and Bing Image Creator users; OpenAI plans to roll out DALL-E 3 to paying ChatGPT subscribers later in October &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231003/p32#a231003p32)<!-- TECH:END -->
+ - [A US judge rejects the SEC&#39;s motion to file an interlocutory appeal against the Ripple ruling and sets an April 2024 trial date for resolution of other issues &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/231003/p38#a231003p38)
+ - [Samsung announces the 6.4&quot; Galaxy S23 FE for $599, the 10.9&quot; Galaxy Tab S9 FE for $449, the 12.4&quot; Galaxy Tab S9 FE+, and the Galaxy Buds FE for $99 &lpar;Timi Cantisano/XDA Developers&rpar;](http://www.techmeme.com/231003/p37#a231003p37)
+ - [Best Internet Providers in St. Paul, Minnesota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-st-paul-mn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
