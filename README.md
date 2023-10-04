@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [96 core AMD Threadripper Pro 7000-series chips reportedly ready for launch on October 19](https://www.pcgamer.com/96-core-amd-threadripper-pro-7000-series-chips-reportedly-ready-for-launch-on-october-19)
- - [&lpar;For Southeast Asia&rpar; Extended Play Sale comes to PlayStation Store](https://blog.playstation.com/2023/10/04/20231004-psstore/)
- - [&lpar;For Southeast Asia&rpar; Extended Play Sale comes to PlayStation Store](https://blog.playstation.com/2023/10/04/20231004-psstore/)<!-- GAME:END -->
+ - [Nintendo will turn off all online play for 3DS and Wii U next year](https://www.polygon.com/23902744/nintendo-3ds-wii-u-online-switchoff)
+ - [Horizon Forbidden West Complete Edition arrives Oct 6 on PS5 — bringing the characters to life](https://blog.playstation.com/2023/10/04/horizon-forbidden-west-complete-edition-arrives-oct-6-on-ps5-bringing-the-characters-to-life/)
+ - [Forza Motorsport: How and When to Get Early Access](https://forza.net/news/forza-motorsport-early-access)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
