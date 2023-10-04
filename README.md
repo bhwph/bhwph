@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Detective Pikachu Returns gives Pokémon more personality](https://www.polygon.com/reviews/23902070/detective-pikachu-returns-review-nintendo-switch-pokemon)
- - [Try not to piss off your clones in this survival game from the developers of  Frostpunk and This War of Mine](https://www.pcgamer.com/try-not-to-piss-off-your-own-clones-in-the-frostpunk-developers-new-sci-fi-survival-game)
- - [Ahsoka Episode 8 Review: Right Where We Need To Be](https://kotaku.com/ahsoka-tano-series-show-episode-8-review-recap-reaction-1850898559)<!-- GAME:END -->
+ - [The new League of Legends yearly Worlds anthem is a bop from NewJeans](https://www.polygon.com/23903136/league-of-legends-worlds-anthem-2023-gods-newjeans)
+ - [The Spy x Family season 2 opening is infectiously bubbly and beautiful](https://www.polygon.com/23903200/spy-x-family-season-2-opening-title-song-animation-sequence)
+ - [Phantom Liberty&#39;s New Ending Is The Perfect Coda To Cyberpunk 2077](https://kotaku.com/cyberpunk-2077-new-ending-phantom-liberty-misty-v-lives-1850899228)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
