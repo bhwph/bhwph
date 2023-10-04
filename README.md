@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based fintech Slice, which was valued at $1.5B in 2022, secures a rare approval from India&#39;s central bank to merge with North East Small Finance Bank &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231004/p6#a231004p6)
- - [Google Home will soon let you create advanced automations with the help of AI](https://www.androidauthority.com/google-home-help-me-script-3371508/)
- - [Last-minute Pixel 8 series leak dishes out pricing for all variants](https://www.androidauthority.com/google-pixel-8-series-pricing-leak-3371497/)<!-- TECH:END -->
+ - [Your Cheap Android TV Streaming Box May Have a Dangerous Backdoor](https://www.wired.com/story/android-tv-streaming-boxes-china-backdoor/)
+ - [How Neuralink Keeps Dead Monkey Photos Secret](https://www.wired.com/story/neuralink-uc-davis-monkey-photos-videos-secret/)
+ - [Stockholm-based digital bank Brite Payments raised a $60M Series A led by Dawn Capital with Headline and Incore participating &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/231004/p8#a231004p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
