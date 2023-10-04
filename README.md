@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
- - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 👉 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)<!-- MEMES:END -->
+ - 6️⃣ [Its back!](http://9gag.com/gag/aYVBbQq)
+ - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
+ - 👉 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)<!-- MEMES:END -->
 
 --- 
 
