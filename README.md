@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This Halloween costume is wild!](http://9gag.com/gag/a9qeMBm)
- - 😝 [Imagine having pride parade instead of this, imagine your whole city destroyed in a riot instead of, imagine women could not walk safely at night, your kids are minority at school and your street is filled with goat breeder worshipper, IMAGINE HATING YOUR OWN SKIN AND TRADITION](http://9gag.com/gag/a3ZDYV7)
- - 👉 [Emanual?](http://9gag.com/gag/aOxOy72)<!-- MEMES:END -->
+ - 6️⃣ [Its back!](http://9gag.com/gag/aYVBbQq)
+ - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
 
 --- 
 
