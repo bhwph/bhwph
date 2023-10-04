@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gearbox Is Reviving A Dead Hero Shooter For 3 Days &lpar;No, Not Battleborn&rpar;](https://kotaku.com/gigantic-gearbox-battleborn-hero-shooter-pc-free-to-pla-1850900044)
- - [Five former Ubisoft employees arrested following investigation into sexual misconduct complaints at the company](https://www.pcgamer.com/five-former-ubisoft-employees-arrested-following-investigation-into-sexual-misconduct-complaints-at-the-company)
- - [Grandpa’s Tale of Adventure Comes to Xbox](https://news.xbox.com/en-us/2023/10/04/blossom-tales-2-comes-to-xbox/)<!-- GAME:END -->
+ - [Microsoft Bing AI Generates Images Of Kirby Doing 9/11](https://kotaku.com/microsoft-bing-ai-image-art-kirby-mario-9-11-nintendo-1850899895)
+ - [Diablo 4’s Season of Blood lets players become vampires just ahead of Halloween](https://www.polygon.com/23901915/diablo-4-season-of-blood-2-vampire-powers-pact-livestream)
+ - [Diablo 4 season 2’s biggest draw is its quality-of-life updates](https://www.polygon.com/gaming/23901914/diablo-4-season-blood-2-quality-life-blizzard-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
