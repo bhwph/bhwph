@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s already a Pixel 8 teardown video](https://www.theverge.com/2023/10/4/23903597/pixel-8-teardown-video-google)
- - [Memo: Amazon is shutting down Amp, its live audio streaming app launched in March 2022 that let users act like DJs by playing music and talking alongside songs &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/231004/p37#a231004p37)
- - [Google’s latest statue has Bugdroid flipping for some upside-down cake](https://www.androidauthority.com/googles-latest-android-14-statue-3371902/)<!-- TECH:END -->
+ - [Amazon’s first Project Kuiper test satellites are headed to space on October 6th](https://www.theverge.com/2023/10/4/23903758/amazon-project-kuiper-test-satellites-space-launch)
+ - [Sam Bankman-Fried Made Reasonable Business Decisions, Lawyers Claim](https://www.wired.com/story/ftx-trial-sam-bankman-fried-opening-arguments/)
+ - [X stops showing headlines because Elon Musk thinks it will make posts look better](https://www.theverge.com/2023/10/4/23903859/x-elon-musk-headlines-links-image-twitter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
