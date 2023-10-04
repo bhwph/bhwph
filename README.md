@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Cheap Android TV Streaming Box May Have a Dangerous Backdoor](https://www.wired.com/story/android-tv-streaming-boxes-china-backdoor/)
- - [How Neuralink Keeps Dead Monkey Photos Secret](https://www.wired.com/story/neuralink-uc-davis-monkey-photos-videos-secret/)
- - [Stockholm-based digital bank Brite Payments raised a $60M Series A led by Dawn Capital with Headline and Incore participating &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/231004/p8#a231004p8)<!-- TECH:END -->
+ - [Uber expands Uber Connect with a &quot;return a package&quot; feature, allowing customers to send up to five packages for a $5 fee to UPS, FedEx, or USPS locations &lpar;Melina Khan/CNBC&rpar;](http://www.techmeme.com/231004/p10#a231004p10)
+ - [AI Chatbots Are Learning to Spout Authoritarian Propaganda](https://www.wired.com/story/chatbot-censorship-china-freedom-house/)
+ - [AI bias tests gloss over a crucial aspect of skin color, Sony research claims](https://www.theverge.com/2023/10/4/23902728/ai-bias-skin-tone-hue-sony-research-artificial-intelligence-ethics)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
