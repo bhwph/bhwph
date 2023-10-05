@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Pixel 8 trade-in offers are insultingly bad](https://www.androidauthority.com/google-pixel-8-trade-in-offers-3372276/)
- - [The CMA announces an investigation into public cloud providers in the UK, following a referral from Ofcom, and says the probe will conclude by April 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231005/p6#a231005p6)
- - [Microsoft and Amazon face UK regulator investigation over cloud services](https://www.theverge.com/2023/10/5/23904375/uk-cma-microsoft-amazon-cloud-investigation)<!-- TECH:END -->
+ - [In the War Against Russia, Some Ukrainians Carry AK-47s. Andrey Liscovich Carries a Shopping List](https://www.wired.com/story/ukraine-russia-war-military-retail/)
+ - [How Double Tap compares to Quick Actions and AssistiveTouch](https://appleinsider.com/inside/apple-watch-series-9/vs/how-double-tap-compares-to-quick-actions-and-assistivetouch?utm_medium=rss)
+ - [Hyundai’s future EVs will also have Tesla’s EV charging port](https://www.theverge.com/2023/10/5/23904089/hyundai-tesla-nacs-ev-charging-plug)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
