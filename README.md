@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ad analytics firm Guideline: monthly US ad revenue fell 55%+ YoY in each of the 10 months since Elon Musk bought Twitter in October 2022 through August 2023 &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/231005/p1#a231005p1)
- - [How a contractual cap on interest payments and X&#39;s bad performance have given Elon Musk the upper hand ahead of Linda Yaccarino&#39;s October 5 meeting with banks &lpar;Shawn Tully/Fortune&rpar;](http://www.techmeme.com/231004/p43#a231004p43)
- - [NY-based Headway, which connects patients with therapists who provide care covered by insurance, raised a $125M Series C led by Spark Capital at a $1B valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/231004/p42#a231004p42)<!-- TECH:END -->
+ - [In its opening statement, SBF&#39;s defense said FTX was a futures exchange that &quot;didn&#39;t have a chief risk officer, which became an issue&quot; when the crypto crash hit &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/231005/p3#a231005p3)
+ - [Belgium&#39;s intelligence service has been monitoring Alibaba&#39;s logistics hub in Europe at Li&amp;egrave;ge&#39;s cargo airport to detect &quot;possible espionage&quot; by Chinese entities &lpar;Financial Times&rpar;](http://www.techmeme.com/231005/p2#a231005p2)
+ - [Guideline: X&#39;s monthly US ad revenue has declined 55%+ YoY in each of the 10 months since Elon Musk&#39;s Twitter takeover in October 2022 through August 2023 &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/231005/p1#a231005p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
