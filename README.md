@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [His mum is a master crusher!](http://9gag.com/gag/aOxObZN)
- - 😝 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
- - 👉 [Its back!](http://9gag.com/gag/aYVBbQq)<!-- MEMES:END -->
+ - 6️⃣ [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
+ - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
+ - 👉 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)<!-- MEMES:END -->
 
 --- 
 
