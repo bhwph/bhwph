@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
- - 😝 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
- - 👉 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)<!-- MEMES:END -->
+ - 6️⃣ [This Halloween costume is wild!](http://9gag.com/gag/a9qeMBm)
+ - 😝 [There is something fascinating about the way they dance.](http://9gag.com/gag/aQEK4ew)
+ - 👉 [Well well well](http://9gag.com/gag/aKEygqO)<!-- MEMES:END -->
 
 --- 
 
