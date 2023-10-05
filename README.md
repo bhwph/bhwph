@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The time PC Gamer gave a Star Trek game 8%: ‘If this were any worse, it would be offensive’](https://www.pcgamer.com/the-time-pc-gamer-gave-a-star-trek-game-8-if-this-were-any-worse-it-would-be-offensive)
- - [A Gift for You Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/guides/23903626/a-gift-for-you-enigma-solution-treasure-location)
- - [Just Rewards Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/guides/23903604/just-rewards-enigma-solution-treasure-location)<!-- GAME:END -->
+ - [Diablo 4 rendered unplayable as Blizzard struggles with Battle.net login woes](https://www.pcgamer.com/diablo-4-rendered-unplayable-as-blizzard-struggles-with-battlenet-login-woes)
+ - [New Intel Arc GPU driver boosts frame rates in 20 DX11 and DX12 games by up to 119%](https://www.pcgamer.com/new-intel-arc-gpu-driver-boosts-frame-rates-in-20-dx11-and-dx12-games-by-up-to-119)
+ - [Cabal of &#39;gay furry hackers&#39; claims NATO website breach](https://www.pcgamer.com/gay-furry-hackers-claim-nato-website-breach)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
