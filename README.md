@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [BREAKING: Three dead after a Filipino fishing boat was rammed by an unidentified commercial vessel near the Scarborough Shoal early morning Monday, October 2, according to the Philippine Coast Guard. Take a guess on who rammed it ?](http://9gag.com/gag/ajVj6nq)
- - 😝 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
- - 👉 [Certainly my dragon is bigger](http://9gag.com/gag/aeQE3Lv)<!-- MEMES:END -->
+ - 6️⃣ [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
+ - 😝 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
+ - 👉 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)<!-- MEMES:END -->
 
 --- 
 
