@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Delta &lpar;2310.231001-2200&rpar;](https://news.xbox.com/en-us/2023/10/05/xbox-insider-release-notes-delta-2310-231001-2200/)
- - [Metal Gear Solid Paid Voice Actor Jennifer Hale Only $1,200](https://kotaku.com/metal-gear-solid-mgs-collection-jennifer-hale-naomi-ps5-1850903494)
- - [Sony Suffers Two Hacks In Four Months, Thousands Of Employees&#39; Info Exposed](https://kotaku.com/sony-playstation-hack-psn-ransomware-data-ps5-1850903625)<!-- GAME:END -->
+ - [Call of Duty Next: Everything Announced for Modern Warfare III, From the Beta to Zombies](https://news.xbox.com/en-us/2023/10/05/call-of-duty-next-everything-announced/)
+ - [Armored Core 6 players hit with intense emotional whiplash as new patch buffs nearly ever weapon but nerfs beloved shotgun and grenade cannon](https://www.pcgamer.com/armored-core-6-players-hit-with-intense-emotional-whiplash-as-new-patch-buffs-nearly-ever-weapon-but-nerfs-beloved-shotgun-and-grenade-cannon)
+ - [Surrender Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23904748/surrender-enigma-solution-treasure-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
