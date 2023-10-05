@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This Halloween costume is wild!](http://9gag.com/gag/a9qeMBm)
- - 😝 [There is something fascinating about the way they dance.](http://9gag.com/gag/aQEK4ew)
+ - 6️⃣ [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
+ - 😝 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
  - 👉 [Well well well](http://9gag.com/gag/aKEygqO)<!-- MEMES:END -->
 
 --- 
