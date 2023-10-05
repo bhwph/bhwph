@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Normality is settling back again.](http://9gag.com/gag/aQEKnn2)
- - 😝 [Nike \ud83d\udfe0](http://9gag.com/gag/a7qBbqL)
- - 👉 [I think he&#39;s gonna kill himself with 3 shots on his back](http://9gag.com/gag/aqeO297)<!-- MEMES:END -->
+ - 6️⃣ [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 😝 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
+ - 👉 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)<!-- MEMES:END -->
 
 --- 
 
