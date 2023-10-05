@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
- - 😝 [Do not post halloween themed tetten in comments please](http://9gag.com/gag/aXnzbWg)
- - 👉 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)<!-- MEMES:END -->
+ - 6️⃣ [Normality is settling back again.](http://9gag.com/gag/aQEKnn2)
+ - 😝 [Nike \ud83d\udfe0](http://9gag.com/gag/a7qBbqL)
+ - 👉 [I think he&#39;s gonna kill himself with 3 shots on his back](http://9gag.com/gag/aqeO297)<!-- MEMES:END -->
 
 --- 
 
