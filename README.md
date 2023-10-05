@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In its opening statement, SBF&#39;s defense said FTX was a futures exchange that &quot;didn&#39;t have a chief risk officer, which became an issue&quot; when the crypto crash hit &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/231005/p3#a231005p3)
- - [Belgium&#39;s intelligence service has been monitoring Alibaba&#39;s logistics hub in Europe at Li&amp;egrave;ge&#39;s cargo airport to detect &quot;possible espionage&quot; by Chinese entities &lpar;Financial Times&rpar;](http://www.techmeme.com/231005/p2#a231005p2)
- - [Guideline: X&#39;s monthly US ad revenue has declined 55%+ YoY in each of the 10 months since Elon Musk&#39;s Twitter takeover in October 2022 through August 2023 &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/231005/p1#a231005p1)<!-- TECH:END -->
+ - [Does the Google Pixel 8 support eSIM and dual-SIM?](https://www.androidauthority.com/google-pixel-8-esim-dual-sim-3371469/)
+ - [The UK&#39;s Ofcom finds that Amazon and Microsoft make it difficult for UK businesses to switch cloud providers or use multiple and refers the case to the CMA &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/231005/p5#a231005p5)
+ - [Google confirms the Pixel 8 series will get 7 years of spare parts](https://www.androidauthority.com/google-pixel-8-series-spare-parts-7-years-3372278/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
