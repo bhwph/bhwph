@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Emanual?](http://9gag.com/gag/aOxOy72)
- - 😝 [Wait so actions can have consequences?](http://9gag.com/gag/a1PneLb)
- - 👉 [Maga shaman is free from prison](http://9gag.com/gag/anz3KOn)<!-- MEMES:END -->
+ - 6️⃣ [BREAKING: Three dead after a Filipino fishing boat was rammed by an unidentified commercial vessel near the Scarborough Shoal early morning Monday, October 2, according to the Philippine Coast Guard. Take a guess on who rammed it ?](http://9gag.com/gag/ajVj6nq)
+ - 😝 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
+ - 👉 [Certainly my dragon is bigger](http://9gag.com/gag/aeQE3Lv)<!-- MEMES:END -->
 
 --- 
 
