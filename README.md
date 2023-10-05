@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metropolis, which provides AI-powered parking services, raised $650M in debt and $1.05B in Series C financing to buy parking management company SP Plus &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231005/p15#a231005p15)
- - [Wear OS 4 is coming to the original Pixel Watch, but not for a while](https://www.androidauthority.com/wear-os-4-pixel-watch-3372470/)
- - [Early iPhone 15 tests after overheat-fixing patch don&#39;t show any performance losses](https://appleinsider.com/articles/23/10/04/early-iphone-15-tests-after-overheat-fixing-patch-dont-show-any-performance-losses?utm_medium=rss)<!-- TECH:END -->
+ - [A look at the impact of Shein and Temu on China&#39;s exports; government data shows exports via e-commerce grew 19.9% YoY in H1 2023, while overall exports fell &lpar;South China Morning Post&rpar;](http://www.techmeme.com/231005/p19#a231005p19)
+ - [Everybody&#39;s Talking About the Wrong Sam Bankman-Fried Book](https://www.wired.com/story/sam-bankman-fried-ftx-trial-going-infinite-number-go-up/)
+ - [Here’s the first proof a refreshed Steam Deck is nigh](https://www.theverge.com/2023/10/5/23904795/steam-deck-1030-fcc-certification-6ghz-wifi)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
