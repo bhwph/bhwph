@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Counter-Strike 2 pulls off a monumental task](https://www.polygon.com/reviews/23903391/counter-strike-2-cs2-review-updates-patches)
- - [New Pokémon Live-Action Drama Gets First Trailer](https://kotaku.com/pokemon-live-action-pack-your-pocket-with-adventure-1850902421)
- - [Every Change In Cyberpunk 2077&#39;s New 2.01 Patch](https://kotaku.com/cyberpunk-2077-phantom-liberty-2-01-patch-notes-ps5-1850902336)<!-- GAME:END -->
+ - [The Gift Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23904654/the-gift-enigma-solution-treasure-location)
+ - [Left Behind Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23904495/left-behind-enigma-solution-treasure-location)
+ - [Solve This Problem Quickly For Me Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23903667/solve-this-problem-quickly-enigma-solution-treasure-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
