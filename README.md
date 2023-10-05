@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hol up](http://9gag.com/gag/avQVP0n)
- - 😝 [Me, Me, Me, Me\u2018 she doesn\u2018t want to know what he wants, it\u2018s all about her](http://9gag.com/gag/abvob5p)
- - 👉 [Perfect timing](http://9gag.com/gag/anz3BpV)<!-- MEMES:END -->
+ - 6️⃣ [His mum is a master crusher!](http://9gag.com/gag/aOxObZN)
+ - 😝 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
+ - 👉 [Its back!](http://9gag.com/gag/aYVBbQq)<!-- MEMES:END -->
 
 --- 
 
