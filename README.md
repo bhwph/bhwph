@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty Next: Everything Announced for Modern Warfare III, From the Beta to Zombies](https://news.xbox.com/en-us/2023/10/05/call-of-duty-next-everything-announced/)
- - [Armored Core 6 players hit with intense emotional whiplash as new patch buffs nearly ever weapon but nerfs beloved shotgun and grenade cannon](https://www.pcgamer.com/armored-core-6-players-hit-with-intense-emotional-whiplash-as-new-patch-buffs-nearly-ever-weapon-but-nerfs-beloved-shotgun-and-grenade-cannon)
- - [Surrender Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23904748/surrender-enigma-solution-treasure-location)<!-- GAME:END -->
+ - [CD Projekt Red Spent Over $120 Million Saving Cyberpunk 2077’s Reputation](https://kotaku.com/cdpr-cyberpunk-2077-dlc-phantom-liberty-budget-2-0-cost-1850904809)
+ - [Warhammer 40,000: Darktide’s latest patch feels like the game’s 2.0](https://www.polygon.com/2023/10/5/23905352/warhammer-40k-darktide-skill-tree-class-build-patch-13)
+ - [Cyberpunk 2077 sequel is officially in early development, CD Projekt says](https://www.pcgamer.com/cyberpunk-2077-sequel-is-officially-in-early-development-cd-projekt-says)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
