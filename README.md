@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Google Pixel 8 cases to keep your phone safe and stylish](https://www.androidauthority.com/best-google-pixel-8-cases-3371642/)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Sony’s high-bitrate movie service is now available on PS5 and PS4](https://www.theverge.com/2023/10/5/23904557/sony-pictures-core-now-available-ps5-ps4-ps-plus)<!-- TECH:END -->
+ - [Metropolis, which provides AI-powered parking services, raised $650M in debt and $1.05B in Series C financing to buy parking management company SP Plus &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231005/p15#a231005p15)
+ - [Wear OS 4 is coming to the original Pixel Watch, but not for a while](https://www.androidauthority.com/wear-os-4-pixel-watch-3372470/)
+ - [Early iPhone 15 tests after overheat-fixing patch don&#39;t show any performance losses](https://appleinsider.com/articles/23/10/04/early-iphone-15-tests-after-overheat-fixing-patch-dont-show-any-performance-losses?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
