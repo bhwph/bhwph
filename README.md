@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s when Forza Motorsport unlocks in your time zone](https://www.pcgamer.com/forza-motorsport-launch-unlock-time-early-access-premium)
- - [Nothing will go wrong with all these new vampire powers in Diablo 4 season 2](https://www.pcgamer.com/nothing-will-go-wrong-with-all-these-vampire-powers-in-diablo-4-season-2)
- - [Forza Motorsport review](https://www.pcgamer.com/forza-motorsport-pc-2023-review)<!-- GAME:END -->
+ - [A Gift for You Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/guides/23903626/a-gift-for-you-enigma-solution-treasure-location)
+ - [Just Rewards Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/guides/23903604/just-rewards-enigma-solution-treasure-location)
+ - [Find What I Stole! Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/guides/23903586/find-what-i-stole-enigma-solution-treasure-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
