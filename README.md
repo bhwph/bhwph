@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
- - 😝 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
- - 👉 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)<!-- MEMES:END -->
+ - 6️⃣ [Hol up](http://9gag.com/gag/avQVP0n)
+ - 😝 [Me, Me, Me, Me\u2018 she doesn\u2018t want to know what he wants, it\u2018s all about her](http://9gag.com/gag/abvob5p)
+ - 👉 [Perfect timing](http://9gag.com/gag/anz3BpV)<!-- MEMES:END -->
 
 --- 
 
