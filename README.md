@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the impact of Shein and Temu on China&#39;s exports; government data shows exports via e-commerce grew 19.9% YoY in H1 2023, while overall exports fell &lpar;South China Morning Post&rpar;](http://www.techmeme.com/231005/p19#a231005p19)
- - [Everybody&#39;s Talking About the Wrong Sam Bankman-Fried Book](https://www.wired.com/story/sam-bankman-fried-ftx-trial-going-infinite-number-go-up/)
- - [Here’s the first proof a refreshed Steam Deck is nigh](https://www.theverge.com/2023/10/5/23904795/steam-deck-1030-fcc-certification-6ghz-wifi)<!-- TECH:END -->
+ - [If you want to spend $150 per strand on smart Christmas lights, Nanoleaf has a solution](https://appleinsider.com/articles/23/10/05/if-you-want-to-spend-150-per-strand-on-smart-christmas-lights-nanoleaf-has-a-solution?utm_medium=rss)
+ - [After many long years, the ‘Check for Updates’ page gets redesigned for Pixels](https://www.androidauthority.com/google-pixel-check-for-updates-page-3372681/)
+ - [Filing: the US SEC sues Elon Musk to force him to testify in its probe into his Twitter takeover in 2022, after Musk failed to appear for testimony in September &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/231005/p22#a231005p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
