@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 rendered unplayable as Blizzard struggles with Battle.net login woes](https://www.pcgamer.com/diablo-4-rendered-unplayable-as-blizzard-struggles-with-battlenet-login-woes)
- - [New Intel Arc GPU driver boosts frame rates in 20 DX11 and DX12 games by up to 119%](https://www.pcgamer.com/new-intel-arc-gpu-driver-boosts-frame-rates-in-20-dx11-and-dx12-games-by-up-to-119)
- - [Cabal of &#39;gay furry hackers&#39; claims NATO website breach](https://www.pcgamer.com/gay-furry-hackers-claim-nato-website-breach)<!-- GAME:END -->
+ - [Counter-Strike 2 pulls off a monumental task](https://www.polygon.com/reviews/23903391/counter-strike-2-cs2-review-updates-patches)
+ - [New Pokémon Live-Action Drama Gets First Trailer](https://kotaku.com/pokemon-live-action-pack-your-pocket-with-adventure-1850902421)
+ - [Every Change In Cyberpunk 2077&#39;s New 2.01 Patch](https://kotaku.com/cyberpunk-2077-phantom-liberty-2-01-patch-notes-ps5-1850902336)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
