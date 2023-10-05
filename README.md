@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In the War Against Russia, Some Ukrainians Carry AK-47s. Andrey Liscovich Carries a Shopping List](https://www.wired.com/story/ukraine-russia-war-military-retail/)
- - [How Double Tap compares to Quick Actions and AssistiveTouch](https://appleinsider.com/inside/apple-watch-series-9/vs/how-double-tap-compares-to-quick-actions-and-assistivetouch?utm_medium=rss)
- - [Hyundai’s future EVs will also have Tesla’s EV charging port](https://www.theverge.com/2023/10/5/23904089/hyundai-tesla-nacs-ev-charging-plug)<!-- TECH:END -->
+ - [The best Google Pixel 8 cases to keep your phone safe and stylish](https://www.androidauthority.com/best-google-pixel-8-cases-3371642/)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Sony’s high-bitrate movie service is now available on PS5 and PS4](https://www.theverge.com/2023/10/5/23904557/sony-pictures-core-now-available-ps5-ps4-ps-plus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
