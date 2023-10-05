@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you want to spend $150 per strand on smart Christmas lights, Nanoleaf has a solution](https://appleinsider.com/articles/23/10/05/if-you-want-to-spend-150-per-strand-on-smart-christmas-lights-nanoleaf-has-a-solution?utm_medium=rss)
- - [After many long years, the ‘Check for Updates’ page gets redesigned for Pixels](https://www.androidauthority.com/google-pixel-check-for-updates-page-3372681/)
- - [Filing: the US SEC sues Elon Musk to force him to testify in its probe into his Twitter takeover in 2022, after Musk failed to appear for testimony in September &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/231005/p22#a231005p22)<!-- TECH:END -->
+ - [New rumor suggests four iPad Air models could be on the way](https://appleinsider.com/articles/23/10/05/new-rumor-suggests-four-ipad-air-models-could-be-on-the-way?utm_medium=rss)
+ - [Bing’s AI image generator apparently blocks prompts about the Twin Towers](https://www.theverge.com/2023/10/5/23905311/microsoft-bing-dalle3-generative-ai-images-twin-towers)
+ - [Google Pixel Watch 2 vs Fitbit Sense 2: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-2-vs-fitbit-sense-2-3372463/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
