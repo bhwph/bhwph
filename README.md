@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s first Project Kuiper test satellites are headed to space on October 6th](https://www.theverge.com/2023/10/4/23903758/amazon-project-kuiper-test-satellites-space-launch)
- - [Sam Bankman-Fried Made Reasonable Business Decisions, Lawyers Claim](https://www.wired.com/story/ftx-trial-sam-bankman-fried-opening-arguments/)
- - [X stops showing headlines because Elon Musk thinks it will make posts look better](https://www.theverge.com/2023/10/4/23903859/x-elon-musk-headlines-links-image-twitter)<!-- TECH:END -->
+ - [Taiwanese authorities plan to investigate four local companies that are reportedly assisting Huawei in establishing chipmaking infrastructure in southern China &lpar;Hideaki Ryugen/Nikkei Asia&rpar;](http://www.techmeme.com/231004/p40#a231004p40)
+ - [DuckDuckGo could have been Apple&#39;s private search engine](https://appleinsider.com/articles/23/10/05/duckduckgo-could-have-been-apples-private-search-engine?utm_medium=rss)
+ - [Gas station convenience stores might survive the EV future with help from these chargers](https://www.theverge.com/2023/10/4/23903815/electric-era-ev-charging-stations-gas-convenience-stores)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
