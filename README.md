@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Gift Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23904654/the-gift-enigma-solution-treasure-location)
- - [Left Behind Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23904495/left-behind-enigma-solution-treasure-location)
- - [Solve This Problem Quickly For Me Enigma solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23903667/solve-this-problem-quickly-enigma-solution-treasure-location)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Delta &lpar;2310.231001-2200&rpar;](https://news.xbox.com/en-us/2023/10/05/xbox-insider-release-notes-delta-2310-231001-2200/)
+ - [Metal Gear Solid Paid Voice Actor Jennifer Hale Only $1,200](https://kotaku.com/metal-gear-solid-mgs-collection-jennifer-hale-naomi-ps5-1850903494)
+ - [Sony Suffers Two Hacks In Four Months, Thousands Of Employees&#39; Info Exposed](https://kotaku.com/sony-playstation-hack-psn-ransomware-data-ps5-1850903625)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
