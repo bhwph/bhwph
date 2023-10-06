@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best price ever on Sharge’s transparent batteries and retro Mac chargers](https://www.theverge.com/2023/10/6/23906552/sharge-sharegeek-storm-retro-mac-sale-best-price)
- - [Celebrate Spooky Season With These Upcoming Titles on Netflix Games     - CNET](https://www.cnet.com/tech/gaming/celebrate-spooky-season-with-these-upcoming-titles-on-netflix-games/#ftag=CAD590a51e)
- - [X appears to be rolling out a new mobile ad format that can&#39;t be reported or blocked, lacks an ad label and user profile, and doesn&#39;t disclose the advertiser &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/231006/p16#a231006p16)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S7 FE vs Galaxy Tab S9 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-tab-s7-fe-vs-galaxy-tab-s9-fe-should-you-upgrade-3373076/)
+ - [23andMe User Data Stolen in Targeted Attack on Ashkenazi Jews](https://www.wired.com/story/23andme-credential-stuffing-data-stolen/)
+ - [Cloud software company Blackbaud reaches a $49.5M agreement with AGs from 49 US states to settle a probe into a May 2020 ransomware attack and data breach &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231006/p18#a231006p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
