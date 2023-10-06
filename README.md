@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea threatens to fine Apple over App Store dominance](https://appleinsider.com/articles/23/10/06/south-korea-threatens-to-fine-apple-over-app-store-dominance?utm_medium=rss)
- - [Google’s Magnifier accessibility app is ready for download to Pixel phones](https://www.theverge.com/2023/10/6/23905966/google-pixel-magnifier-accessibility-app-zoom-release-date)
- - [Microsoft Office Home &amp; Business 2021 for Mac dips to $32.97, a discount of 87% off](https://appleinsider.com/articles/23/10/06/microsoft-office-home-business-2021-for-mac-dips-to-3297-a-discount-of-87-off?utm_medium=rss)<!-- TECH:END -->
+ - [How to use screen sharing in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-screen-sharing-in-macos-sonoma?utm_medium=rss)
+ - [Hiking with Apple Watch Ultra 2 &amp; zooming with iPhone 15 Pro Max on the AppleInsider podcast](https://appleinsider.com/articles/23/10/06/hiking-with-apple-watch-ultra-2-zooming-with-iphone-15-pro-max-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Leaked renders of Galaxy Tab A9 show off Samsung’s upcoming affordable tablet](https://www.androidauthority.com/samsung-galaxy-tab-a9-leaked-renders-3373000/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
