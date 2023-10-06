@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Linda Yaccarino told the banks that helped fund Elon Musk&#39;s X takeover that X is testing three tiers of premium service that vary how many ads are shown &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/231005/p28#a231005p28)
- - [Was Sam Bankman-Fried’s bean bag chair a lie too?](https://www.theverge.com/2023/10/5/23905665/sam-bankman-fried-fraud-trial-wang-yedidia-testimony)
- - [Samsung Galaxy Tab A8 vs Samsung Galaxy Tab S9 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-tab-a8-vs-samsung-galaxy-tab-s9-fe-should-you-upgrade-3372562/)<!-- TECH:END -->
+ - [In his testimony, FTX co-founder Gary Wang says Alameda Research had &quot;special privileges&quot; that gave the firm a $65B line of credit, of which it withdrew $8B &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231005/p30#a231005p30)
+ - [Sources: OpenAI is exploring making its own AI chips and has evaluated a potential acquisition target, as Sam Altman makes acquiring more chips a top priority &lpar;Reuters&rpar;](http://www.techmeme.com/231005/p29#a231005p29)
+ - [Source: Linda Yaccarino told the banks that helped fund Elon Musk&#39;s X takeover that X is testing three tiers of premium service that vary how many ads are shown &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/231005/p28#a231005p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
