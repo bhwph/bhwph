@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to use DLSS Swapper: a handy frame rate boosting tool if you know what you&#39;re doing](https://www.pcgamer.com/how-to-use-dlss-swapper)
- - [Major Patch Nerfs Armored Core VI’s Most OP Guns](https://kotaku.com/armored-core-6-fromsoftware-patch-notes-zimmerman-1850906860)
- - [When Evil Lurks is 2023’s scariest possession movie — no exorcisms required](https://www.polygon.com/23905198/when-evil-lurks-review-scariest-horror-movie-of-2023)<!-- GAME:END -->
+ - [Stardew Valley creator reveals a new and very important addition coming in the 1.6 update: &#39;Hats on cats &lpar;and dogs&rpar;&#39;](https://www.pcgamer.com/stardew-valley-creator-reveals-a-new-and-very-important-addition-coming-in-the-16-update-hats-on-cats-and-dogs)
+ - [Making Exorcist movies has always been a nightmare, but they’ve all been great](https://www.polygon.com/23903756/exorcist-movie-series-making-of-good-stuff-scary)
+ - [Redfall Finally Gets 60fps Mode On Console In Its Biggest Update Yet](https://kotaku.com/redfall-xbox-game-pass-60fps-patch-notes-bethesda-1850907241)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
