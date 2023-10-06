@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What are best friends for](http://9gag.com/gag/a6qzLg9)
- - 😝 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
- - 👉 [Attempt to not be impressed](http://9gag.com/gag/aPg0DKG)<!-- MEMES:END -->
+ - 6️⃣ [When your body wake up but your mind is not quite right yet...](http://9gag.com/gag/adPMjPM)
+ - 😝 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
+ - 👉 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)<!-- MEMES:END -->
 
 --- 
 
