@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer for #839 Friday, October 6](https://www.pcgamer.com/wordle-today-answer-839-october-6)
- - [Stay tuned after Loki’s season 2 premiere, because it has a post-credits scene](https://www.polygon.com/23901561/loki-post-credits-scene-season-2-episode-1-sylvie-broxton-oklahoma)
- - [Second Wave is now available in Preview for Xbox Insiders!](https://news.xbox.com/en-us/2023/10/05/second-wave-is-now-available-in-preview-for-xbox-insiders/)<!-- GAME:END -->
+ - [Epic only realized it had ‘financial problem’ that led to layoffs 10 weeks ago](https://www.polygon.com/23905950/epic-layoffs-tim-sweeney-fortnite)
+ - [Dungeons &amp; Dragons’ Planescape campaign should be played as quickly as possible](https://www.polygon.com/reviews/23903056/dnd-dungeons-dragons-planescape-5e-adventures-in-the-multiverse-review)
+ - [I was obsessed with real-time ray tracing in Cyberpunk 2077, until playing it on an older laptop delivered a sorely needed slap to the face](https://www.pcgamer.com/i-was-obsessed-with-real-time-ray-tracing-in-cyberpunk-2077-until-playing-it-on-an-older-laptop-delivered-a-sorely-needed-slap-to-the-face)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
