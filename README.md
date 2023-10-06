@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Rip](http://9gag.com/gag/aeQE0gQ)
- - 😝 [Hehe](http://9gag.com/gag/a9qeYGo)
- - 👉 [Everyday where I live](http://9gag.com/gag/aGEqDAw)<!-- MEMES:END -->
+ - 6️⃣ [Best policy](http://9gag.com/gag/amAy9Q2)
+ - 😝 [11 years ago](http://9gag.com/gag/aQEK8LW)
+ - 👉 [Hehe](http://9gag.com/gag/a9qeYGo)<!-- MEMES:END -->
 
 --- 
 
