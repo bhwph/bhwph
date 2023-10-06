@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New rumor suggests four iPad Air models could be on the way](https://appleinsider.com/articles/23/10/05/new-rumor-suggests-four-ipad-air-models-could-be-on-the-way?utm_medium=rss)
- - [Bing’s AI image generator apparently blocks prompts about the Twin Towers](https://www.theverge.com/2023/10/5/23905311/microsoft-bing-dalle3-generative-ai-images-twin-towers)
- - [Google Pixel Watch 2 vs Fitbit Sense 2: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-2-vs-fitbit-sense-2-3372463/)<!-- TECH:END -->
+ - [Source: Linda Yaccarino told the banks that helped fund Elon Musk&#39;s X takeover that X is testing three tiers of premium service that vary how many ads are shown &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/231005/p28#a231005p28)
+ - [Was Sam Bankman-Fried’s bean bag chair a lie too?](https://www.theverge.com/2023/10/5/23905665/sam-bankman-fried-fraud-trial-wang-yedidia-testimony)
+ - [Samsung Galaxy Tab A8 vs Samsung Galaxy Tab S9 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-tab-a8-vs-samsung-galaxy-tab-s9-fe-should-you-upgrade-3372562/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
