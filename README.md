@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use screen sharing in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-screen-sharing-in-macos-sonoma?utm_medium=rss)
- - [Hiking with Apple Watch Ultra 2 &amp; zooming with iPhone 15 Pro Max on the AppleInsider podcast](https://appleinsider.com/articles/23/10/06/hiking-with-apple-watch-ultra-2-zooming-with-iphone-15-pro-max-on-the-appleinsider-podcast?utm_medium=rss)
- - [Leaked renders of Galaxy Tab A9 show off Samsung’s upcoming affordable tablet](https://www.androidauthority.com/samsung-galaxy-tab-a9-leaked-renders-3373000/)<!-- TECH:END -->
+ - [Galaxy S24 Exynos/Snapdragon country split is likely back with slight changes](https://www.androidauthority.com/samsung-galaxy-s24-exynos-snapdragon-3373053/)
+ - [Yale Assure Lock 2 review: almost perfect](https://www.theverge.com/23367464/yale-assure-lock-2-touchscreen-keypad-wifi-review)
+ - [11 Best Electric Kettles &lpar;2023&rpar;: Gooseneck, Temperature Control, Cheap](https://www.wired.com/gallery/best-electric-kettles/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
