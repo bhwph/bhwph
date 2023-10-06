@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [WTF Dude](http://9gag.com/gag/aBdM1wQ)
- - 😝 [Dogs in adoption](http://9gag.com/gag/anz3XqB)
- - 👉 [Best policy](http://9gag.com/gag/amAy9Q2)<!-- MEMES:END -->
+ - 6️⃣ [Orange](http://9gag.com/gag/a5XAPgo)
+ - 😝 [WTF Dude](http://9gag.com/gag/aBdM1wQ)
+ - 👉 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)<!-- MEMES:END -->
 
 --- 
 
