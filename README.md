@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic only realized it had ‘financial problem’ that led to layoffs 10 weeks ago](https://www.polygon.com/23905950/epic-layoffs-tim-sweeney-fortnite)
- - [Dungeons &amp; Dragons’ Planescape campaign should be played as quickly as possible](https://www.polygon.com/reviews/23903056/dnd-dungeons-dragons-planescape-5e-adventures-in-the-multiverse-review)
- - [I was obsessed with real-time ray tracing in Cyberpunk 2077, until playing it on an older laptop delivered a sorely needed slap to the face](https://www.pcgamer.com/i-was-obsessed-with-real-time-ray-tracing-in-cyberpunk-2077-until-playing-it-on-an-older-laptop-delivered-a-sorely-needed-slap-to-the-face)<!-- GAME:END -->
+ - [Watch the powerful firebender Azula kick the crap out of Stimpy in the final Nickelodeon All-Star Brawl 2 character reveal](https://www.pcgamer.com/watch-the-powerful-firebender-azula-kick-the-crap-out-of-stimpy-in-the-final-nickelodeon-all-star-brawl-2-character-reveal)
+ - [Next Week on Xbox: New Games for October 9 to 13](https://news.xbox.com/en-us/2023/10/06/next-week-on-xbox-new-games-for-october-9-to-13/)
+ - [Fionna and Cake creator says Marceline — and Marshall Lee — were always Black](https://www.polygon.com/23901648/adventure-time-fionna-cake-marshall-lee-marceline-black-race-adam-muto)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
