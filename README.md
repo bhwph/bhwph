@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EV buyers will get an instant rebate of as much as $7,500 starting in 2024](https://www.theverge.com/2023/10/6/23906238/ev-tax-credit-instant-rebate-dealership-irs-guidance)
- - [Prime Day comes early with the best Galaxy Watch 6 Classic deal yet](https://www.androidauthority.com/sasmung-galaxy-watch-6-classic-deal-3373092/)
- - [&#39;Blindsight&#39; Is the Epitome of Science Fiction Horror](https://www.wired.com/2023/10/geeks-guide-peter-watts/)<!-- TECH:END -->
+ - [How to master the camera app on iPhone 15 Pro &amp; iPhone 15 Pro Max](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-master-the-camera-app-on-iphone-15-pro-iphone-15-pro-max?utm_medium=rss)
+ - [Amazon has Apple Watch models on sale for as low as $219.99 ahead of Fall Prime Day](https://appleinsider.com/articles/23/10/06/amazon-has-apple-watch-models-on-sale-for-as-low-as-21999-ahead-of-fall-prime-day?utm_medium=rss)
+ - [THORSwap moves to a &quot;maintenance mode&quot; after criminals linked to the FTX hack last year used the decentralized exchange to swap $38M worth of ether for bitcoin &lpar;Tim Craig/DL News&rpar;](http://www.techmeme.com/231006/p11#a231006p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
