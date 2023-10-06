@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt Red Spent Over $120 Million Saving Cyberpunk 2077’s Reputation](https://kotaku.com/cdpr-cyberpunk-2077-dlc-phantom-liberty-budget-2-0-cost-1850904809)
- - [Warhammer 40,000: Darktide’s latest patch feels like the game’s 2.0](https://www.polygon.com/2023/10/5/23905352/warhammer-40k-darktide-skill-tree-class-build-patch-13)
- - [Cyberpunk 2077 sequel is officially in early development, CD Projekt says](https://www.pcgamer.com/cyberpunk-2077-sequel-is-officially-in-early-development-cd-projekt-says)<!-- GAME:END -->
+ - [Second Wave is now available in Preview for Xbox Insiders!](https://news.xbox.com/en-us/2023/10/05/second-wave-is-now-available-in-preview-for-xbox-insiders/)
+ - [AMD APUs are set to make their AM5 debut after support was added to AMD&#39;s latest BIOS microcode](https://www.pcgamer.com/amd-apus-are-set-to-make-their-am5-debut-after-support-was-added-to-amds-latest-bios-microcode)
+ - [The Modern Warfare 3 multiplayer reveal was a glimpse into the sweatiest possible future for Call of Duty](https://www.pcgamer.com/the-modern-warfare-3-multiplayer-reveal-was-a-glimpse-into-the-sweatiest-possible-future-for-call-of-duty)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
