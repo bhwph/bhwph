@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
- - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
- - 👉 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)<!-- MEMES:END -->
+ - 6️⃣ [WTF Dude](http://9gag.com/gag/aBdM1wQ)
+ - 😝 [Dogs in adoption](http://9gag.com/gag/anz3XqB)
+ - 👉 [Best policy](http://9gag.com/gag/amAy9Q2)<!-- MEMES:END -->
 
 --- 
 
