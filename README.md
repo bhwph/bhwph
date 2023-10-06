@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to master the camera app on iPhone 15 Pro &amp; iPhone 15 Pro Max](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-master-the-camera-app-on-iphone-15-pro-iphone-15-pro-max?utm_medium=rss)
- - [Amazon has Apple Watch models on sale for as low as $219.99 ahead of Fall Prime Day](https://appleinsider.com/articles/23/10/06/amazon-has-apple-watch-models-on-sale-for-as-low-as-21999-ahead-of-fall-prime-day?utm_medium=rss)
- - [THORSwap moves to a &quot;maintenance mode&quot; after criminals linked to the FTX hack last year used the decentralized exchange to swap $38M worth of ether for bitcoin &lpar;Tim Craig/DL News&rpar;](http://www.techmeme.com/231006/p11#a231006p11)<!-- TECH:END -->
+ - [The best price ever on Sharge’s transparent batteries and retro Mac chargers](https://www.theverge.com/2023/10/6/23906552/sharge-sharegeek-storm-retro-mac-sale-best-price)
+ - [Celebrate Spooky Season With These Upcoming Titles on Netflix Games     - CNET](https://www.cnet.com/tech/gaming/celebrate-spooky-season-with-these-upcoming-titles-on-netflix-games/#ftag=CAD590a51e)
+ - [X appears to be rolling out a new mobile ad format that can&#39;t be reported or blocked, lacks an ad label and user profile, and doesn&#39;t disclose the advertiser &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/231006/p16#a231006p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
