@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S24 Exynos/Snapdragon country split is likely back with slight changes](https://www.androidauthority.com/samsung-galaxy-s24-exynos-snapdragon-3373053/)
- - [Yale Assure Lock 2 review: almost perfect](https://www.theverge.com/23367464/yale-assure-lock-2-touchscreen-keypad-wifi-review)
- - [11 Best Electric Kettles &lpar;2023&rpar;: Gooseneck, Temperature Control, Cheap](https://www.wired.com/gallery/best-electric-kettles/)<!-- TECH:END -->
+ - [EV buyers will get an instant rebate of as much as $7,500 starting in 2024](https://www.theverge.com/2023/10/6/23906238/ev-tax-credit-instant-rebate-dealership-irs-guidance)
+ - [Prime Day comes early with the best Galaxy Watch 6 Classic deal yet](https://www.androidauthority.com/sasmung-galaxy-watch-6-classic-deal-3373092/)
+ - [&#39;Blindsight&#39; Is the Epitome of Science Fiction Horror](https://www.wired.com/2023/10/geeks-guide-peter-watts/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
