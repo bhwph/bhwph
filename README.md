@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: The Pixel Watch 2 can’t use cases meant for the first-gen Pixel Watch](https://www.androidauthority.com/pixel-watch-2-incompatible-cases-3372876/)
- - [Google’s handy Magnifier app is now available for Pixels](https://www.androidauthority.com/google-magnifier-app-launched-3372858/)
- - [Forget the new Pixels, Google’s made a wearable Gboard hat that actually types](https://www.androidauthority.com/google-gboard-hat-3372855/)<!-- TECH:END -->
+ - [South Korea threatens to fine Apple over App Store dominance](https://appleinsider.com/articles/23/10/06/south-korea-threatens-to-fine-apple-over-app-store-dominance?utm_medium=rss)
+ - [Google’s Magnifier accessibility app is ready for download to Pixel phones](https://www.theverge.com/2023/10/6/23905966/google-pixel-magnifier-accessibility-app-zoom-release-date)
+ - [Microsoft Office Home &amp; Business 2021 for Mac dips to $32.97, a discount of 87% off](https://appleinsider.com/articles/23/10/06/microsoft-office-home-business-2021-for-mac-dips-to-3297-a-discount-of-87-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
