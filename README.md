@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No sauce](http://9gag.com/gag/a2KVqzO)
+ - 6️⃣ [Better in this way](http://9gag.com/gag/aNwXWqv)
  - 😝 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
- - 👉 [She got fired](http://9gag.com/gag/a6qzQZA)<!-- MEMES:END -->
+ - 👉 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)<!-- MEMES:END -->
 
 --- 
 
