@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Orange](http://9gag.com/gag/a5XAPgo)
- - 😝 [WTF Dude](http://9gag.com/gag/aBdM1wQ)
- - 👉 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)<!-- MEMES:END -->
+ - 6️⃣ [What are best friends for](http://9gag.com/gag/a6qzLg9)
+ - 😝 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
+ - 👉 [Attempt to not be impressed](http://9gag.com/gag/aPg0DKG)<!-- MEMES:END -->
 
 --- 
 
