@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the powerful firebender Azula kick the crap out of Stimpy in the final Nickelodeon All-Star Brawl 2 character reveal](https://www.pcgamer.com/watch-the-powerful-firebender-azula-kick-the-crap-out-of-stimpy-in-the-final-nickelodeon-all-star-brawl-2-character-reveal)
- - [Next Week on Xbox: New Games for October 9 to 13](https://news.xbox.com/en-us/2023/10/06/next-week-on-xbox-new-games-for-october-9-to-13/)
- - [Fionna and Cake creator says Marceline — and Marshall Lee — were always Black](https://www.polygon.com/23901648/adventure-time-fionna-cake-marshall-lee-marceline-black-race-adam-muto)<!-- GAME:END -->
+ - [How to use DLSS Swapper: a handy frame rate boosting tool if you know what you&#39;re doing](https://www.pcgamer.com/how-to-use-dlss-swapper)
+ - [Major Patch Nerfs Armored Core VI’s Most OP Guns](https://kotaku.com/armored-core-6-fromsoftware-patch-notes-zimmerman-1850906860)
+ - [When Evil Lurks is 2023’s scariest possession movie — no exorcisms required](https://www.polygon.com/23905198/when-evil-lurks-review-scariest-horror-movie-of-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
