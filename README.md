@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Joy Beneath Weeping Palms solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23906643/joy-beneath-weeping-palms-solution-treasure-location)
- - [Reap from the Ruins solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23906407/reap-from-the-ruins-solution-treasure-location)
- - [Redfall gets its long-awaited performance mode on Xbox](https://www.polygon.com/23906655/redfall-performance-mode-xbox-steam)<!-- GAME:END -->
+ - [Where to find Dervis’ Artifacts locations in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23905221/dervis-artifacts-locations-where-to-find-rewards)
+ - [This Last of Us Clicker Bread Sculpture Is Scary As Hell](https://kotaku.com/last-of-us-clicker-bread-sculpture-joel-ellie-1850908509)
+ - [One of Baldur&#39;s Gate 3&#39;s sound designers studied blacksmithing and made a pair of metal shoes just to record armor clanking noises for the game](https://www.pcgamer.com/one-of-baldurs-gate-3s-sound-designers-studied-blacksmithing-and-made-a-pair-of-metal-shoes-just-to-record-armor-clanking-noises-for-the-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
