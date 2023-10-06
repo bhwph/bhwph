@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What is wrong with these American women ? Why in the world would you debase yourself &amp; your heritage in such a vulgar fashion.](http://9gag.com/gag/aGEq0QX)
+ - 6️⃣ [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)
  - 😝 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
- - 👉 [Villain boss : `You have no power here`](http://9gag.com/gag/az2zrQN)<!-- MEMES:END -->
+ - 👉 [How every normal man should react](http://9gag.com/gag/aL13Mez)<!-- MEMES:END -->
 
 --- 
 
