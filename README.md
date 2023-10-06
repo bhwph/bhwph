@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Due to the rapid change of frames, the brain doesn&#39;t have time to process the changing faces and fills in the details by itself leading to distortion. You&#39;re literally hallucinating.](http://9gag.com/gag/aBdM182)
- - 😝 [Double standards in action](http://9gag.com/gag/az2zVqN)
- - 👉 [Boy pulls prank on his father](http://9gag.com/gag/a9qe7VD)<!-- MEMES:END -->
+ - 6️⃣ [What is wrong with these American women ? Why in the world would you debase yourself &amp; your heritage in such a vulgar fashion.](http://9gag.com/gag/aGEq0QX)
+ - 😝 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
+ - 👉 [Villain boss : `You have no power here`](http://9gag.com/gag/az2zrQN)<!-- MEMES:END -->
 
 --- 
 
