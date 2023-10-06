@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best policy](http://9gag.com/gag/amAy9Q2)
- - 😝 [11 years ago](http://9gag.com/gag/aQEK8LW)
- - 👉 [Hehe](http://9gag.com/gag/a9qeYGo)<!-- MEMES:END -->
+ - 6️⃣ [Due to the rapid change of frames, the brain doesn&#39;t have time to process the changing faces and fills in the details by itself leading to distortion. You&#39;re literally hallucinating.](http://9gag.com/gag/aBdM182)
+ - 😝 [Double standards in action](http://9gag.com/gag/az2zVqN)
+ - 👉 [Boy pulls prank on his father](http://9gag.com/gag/a9qe7VD)<!-- MEMES:END -->
 
 --- 
 
