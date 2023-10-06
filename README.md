@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley creator reveals a new and very important addition coming in the 1.6 update: &#39;Hats on cats &lpar;and dogs&rpar;&#39;](https://www.pcgamer.com/stardew-valley-creator-reveals-a-new-and-very-important-addition-coming-in-the-16-update-hats-on-cats-and-dogs)
- - [Making Exorcist movies has always been a nightmare, but they’ve all been great](https://www.polygon.com/23903756/exorcist-movie-series-making-of-good-stuff-scary)
- - [Redfall Finally Gets 60fps Mode On Console In Its Biggest Update Yet](https://kotaku.com/redfall-xbox-game-pass-60fps-patch-notes-bethesda-1850907241)<!-- GAME:END -->
+ - [Joy Beneath Weeping Palms solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23906643/joy-beneath-weeping-palms-solution-treasure-location)
+ - [Reap from the Ruins solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23906407/reap-from-the-ruins-solution-treasure-location)
+ - [Redfall gets its long-awaited performance mode on Xbox](https://www.polygon.com/23906655/redfall-performance-mode-xbox-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
