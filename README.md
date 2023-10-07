@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How every normal man should react](http://9gag.com/gag/aL13Mez)
- - 😝 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
- - 👉 [Wait\u2026](http://9gag.com/gag/aOxOBzN)<!-- MEMES:END -->
+ - 6️⃣ [They&#39;re in deep trouble because they have big things coming up](http://9gag.com/gag/aOxOzpN)
+ - 😝 [Not one of us!](http://9gag.com/gag/anz3bLV)
+ - 👉 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)<!-- MEMES:END -->
 
 --- 
 
