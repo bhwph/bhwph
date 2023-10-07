@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer for #840: Saturday, October 7](https://www.pcgamer.com/wordle-today-answer-840-october-7)
- - [Hail Dracula, Netflix&#39;s new Castlevania series has already been renewed for season 2](https://www.pcgamer.com/hail-dracula-netflixs-new-castlevania-series-has-already-been-renewed-for-season-2)
- - [Netflix’s Fair Play, The Nun II, and every new movie to watch at home this weekend](https://www.polygon.com/23899610/new-movies-watch-nun-2-fair-play-netflix-haunted-mansion-disney-plus)<!-- GAME:END -->
+ - [Get Animal Crossing: New Horizons for free with Nintendo’s new Switch Lite bundle](https://www.polygon.com/deals/23904942/gaming-deals-nintendo-animal-crossing-bundle-cyberpunk-2077-battletech-dungeons-dragons)
+ - [The 7 best movies new to streaming in October 2023](https://www.polygon.com/what-to-watch/23901165/best-new-movies-netflix-amazon-prime-max-hulu-october-2023)
+ - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
