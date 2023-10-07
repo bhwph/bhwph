@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Political advertisers have raised concerns about X&#39;s Community Notes after major brands like Apple, Samsung, and Uber had critical notes attached to their ads &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231007/p4#a231007p4)
- - [Several users on Seller Central, Amazon&#39;s forum for merchants, welcomed the FTC&#39;s lawsuit against the company, while others remain skeptical about its outcome &lpar;CNBC&rpar;](http://www.techmeme.com/231007/p3#a231007p3)
- - [Genshin Impact developer miHoYo has made two short-lived attempts since August to set up a payment system for iOS users, to avoid Apple&#39;s 30% App Store cut &lpar;Zhao Yuanyuan/The China Project&rpar;](http://www.techmeme.com/231007/p2#a231007p2)<!-- TECH:END -->
+ - [Even though the Pixel 8 and Pixel 8 Pro have the same Tensor G3 chip, features like Night Sight Video and enhanced Magic Eraser are exclusive to the Pixel 8 Pro &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/231007/p6#a231007p6)
+ - [AllianceBernstein: Netflix has ~6.5M subscribers in India, Prime Video has 20M, and Disney+ Hotstar has 40M+; Netflix&#39;s slow growth due to lack of local content &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231007/p5#a231007p5)
+ - [Political advertisers have raised concerns about X&#39;s Community Notes after major brands like Apple, Samsung, and Uber had critical notes attached to their ads &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231007/p4#a231007p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
