@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every Google Pixel gimmick ranked, from best to worst](https://www.androidauthority.com/google-pixel-gimmicks-ranked-3370812/)
- - [In Defense of the Rat](https://www.wired.com/story/in-defense-of-the-rat/)
- - [16 Best Gaming Mice and Mousepads &lpar;2023&rpar;: Wireless, Wired, and Under $50](https://www.wired.com/gallery/best-gaming-mouse/)<!-- TECH:END -->
+ - [The US adds 42 Chinese companies and seven companies from India, the UK, and other countries to an export control list over their support for Russia&#39;s military &lpar;Reuters&rpar;](http://www.techmeme.com/231007/p8#a231007p8)
+ - [The iPhone 15 has basic specs that Android phones wouldn’t get away with](https://www.androidauthority.com/iphone-15-basic-specs-3369915/)
+ - [12 Best Umbrellas &lpar;2023&rpar;: Windproof, Cheap, Tiny, and Clear Bubble](https://www.wired.com/gallery/best-umbrellas/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
