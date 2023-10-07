@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S7 FE vs Galaxy Tab S9 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-tab-s7-fe-vs-galaxy-tab-s9-fe-should-you-upgrade-3373076/)
- - [23andMe User Data Stolen in Targeted Attack on Ashkenazi Jews](https://www.wired.com/story/23andme-credential-stuffing-data-stolen/)
- - [Cloud software company Blackbaud reaches a $49.5M agreement with AGs from 49 US states to settle a probe into a May 2020 ransomware attack and data breach &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231006/p18#a231006p18)<!-- TECH:END -->
+ - [Amazon&#39;s Starlink Rival Completes First Launch of Its Satellite Internet Network     - CNET](https://www.cnet.com/home/internet/amazons-starlink-rival-completes-first-launch-of-its-satellite-internet-network/#ftag=CAD590a51e)
+ - [October Prime Day 2023: 85 Best Early Deals You Can Shop Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-2023/#ftag=CAD590a51e)
+ - [Redfall finally gets a performance mode on Xbox](https://www.theverge.com/2023/10/6/23906978/redfall-update-2-performance-mode-xbox)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
