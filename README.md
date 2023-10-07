@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)
- - 😝 [Tight](http://9gag.com/gag/aL13MO5)
- - 👉 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)<!-- MEMES:END -->
+ - 😝 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
+ - 👉 [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)<!-- MEMES:END -->
 
 --- 
 
