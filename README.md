@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Watch 2 vs Apple Watch Series 9: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-2-vs-apple-watch-series-9-3371693/)
- - [Intel teases Windows ‘refresh’ for 2024 amid Windows 12 launch rumors](https://www.theverge.com/2023/10/7/23907234/intel-windows-12-2024-refresh-launch)
- - [Everything to Know About Buy With Prime: How to Snag Prime Day Deals From Other Retailers     - CNET](https://www.cnet.com/tech/everything-to-know-about-buy-with-prime-how-to-snag-prime-day-deals-from-other-retailers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Every Google Pixel gimmick ranked, from best to worst](https://www.androidauthority.com/google-pixel-gimmicks-ranked-3370812/)
+ - [In Defense of the Rat](https://www.wired.com/story/in-defense-of-the-rat/)
+ - [16 Best Gaming Mice and Mousepads &lpar;2023&rpar;: Wireless, Wired, and Under $50](https://www.wired.com/gallery/best-gaming-mouse/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
