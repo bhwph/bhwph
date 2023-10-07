@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [It turns out good guys can rescue Baldur&#39;s Gate 3&#39;s evil playthrough companion mod-free by turning her into a sheep and making the sheep stand trial](https://www.pcgamer.com/it-turns-out-good-guys-can-rescue-baldurs-gate-3s-evil-playthrough-companion-mod-free-by-turning-her-into-a-sheep-and-making-the-sheep-stand-trial)
  - [The Creator has a very strange intersection with the Russia-Ukraine war](https://www.polygon.com/23904903/the-creator-russo-ukrainian-war-tank-scene-gareth-edwards-interview)
- - [The Continental matched up Malignant’s contortionist with an MMA fighter for one of the best fights of the year](https://www.polygon.com/23901893/continental-john-wick-show-best-fight-gretel-yen-rooftop-contortionist-marina-mazepa)
- - [One of Cocoon’s easiest puzzles was the hardest to design](https://www.polygon.com/gaming/23902311/cocoon-hardest-puzzle-creation)<!-- GAME:END -->
+ - [The Continental matched up Malignant’s contortionist with an MMA fighter for one of the best fights of the year](https://www.polygon.com/23901893/continental-john-wick-show-best-fight-gretel-yen-rooftop-contortionist-marina-mazepa)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
