@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t take her back](http://9gag.com/gag/aVb8Mjn)
- - 😝 [How every normal man should react](http://9gag.com/gag/aL13Mez)
- - 👉 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)<!-- MEMES:END -->
+ - 6️⃣ [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)
+ - 😝 [Tight](http://9gag.com/gag/aL13MO5)
+ - 👉 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)<!-- MEMES:END -->
 
 --- 
 
