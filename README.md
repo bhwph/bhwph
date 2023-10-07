@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s Alexa has been claiming that the 2020 election was stolen citing sources from Rumble and Substack; Amazon says the errors were fixed &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/231007/p10#a231007p10)
- - [Hackers are selling the data of millions lifted from 23andMe’s genetic database](https://www.theverge.com/2023/10/7/23907330/23andme-leak-hackers-selling-user-dna-data)
- - [Best Coffee Subscriptions for 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-subscriptions-and-coffee-clubs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [IDC says Google shipped 37.9M Pixel phones between 2016 and 2023, suggesting the company shipped a record ~10M phones over the last 12 months &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231007/p11#a231007p11)
+ - [Understanding Agentized LLMs: How to avoid making rogue AI](https://appleinsider.com/inside/xcode/tips/understanding-agentized-llms-how-to-avoid-making-rogue-ai?utm_medium=rss)
+ - [Hisense’s affordable, HDR-ready U6K TV has hit an all-time low](https://www.theverge.com/2023/10/7/23906288/hisense-u6k-tv-nintendo-switch-lite-bundle-bose-noise-cancelling-headphones-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
