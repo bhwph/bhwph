@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of Cocoon’s easiest puzzles was the hardest to design](https://www.polygon.com/gaming/23902311/cocoon-hardest-puzzle-creation)
- - [V/H/S/85’s directors explain why they were so excited to make ‘fuck-you movies’](https://www.polygon.com/23906539/vhs-85-director-interview-horror-anthology-shudder)
- - [Get Animal Crossing: New Horizons for free with Nintendo’s new Switch Lite bundle](https://www.polygon.com/deals/23904942/gaming-deals-nintendo-animal-crossing-bundle-cyberpunk-2077-battletech-dungeons-dragons)<!-- GAME:END -->
+ - [The Creator has a very strange intersection with the Russia-Ukraine war](https://www.polygon.com/23904903/the-creator-russo-ukrainian-war-tank-scene-gareth-edwards-interview)
+ - [The Continental matched up Malignant’s contortionist with an MMA fighter for one of the best fights of the year](https://www.polygon.com/23901893/continental-john-wick-show-best-fight-gretel-yen-rooftop-contortionist-marina-mazepa)
+ - [One of Cocoon’s easiest puzzles was the hardest to design](https://www.polygon.com/gaming/23902311/cocoon-hardest-puzzle-creation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
