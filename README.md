@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer for #840: Saturday, October 7](https://www.pcgamer.com/wordle-today-answer-840-october-7)
  - [Hail Dracula, Netflix&#39;s new Castlevania series has already been renewed for season 2](https://www.pcgamer.com/hail-dracula-netflixs-new-castlevania-series-has-already-been-renewed-for-season-2)
- - [Netflix’s Fair Play, The Nun II, and every new movie to watch at home this weekend](https://www.polygon.com/23899610/new-movies-watch-nun-2-fair-play-netflix-haunted-mansion-disney-plus)
- - [A heroic Starfield modder just straight-up deleted those repetitive temple &#39;puzzles&#39; from the game](https://www.pcgamer.com/a-heroic-starfield-modder-just-straight-up-deleted-those-repetitive-temple-puzzles-from-the-game)<!-- GAME:END -->
+ - [Netflix’s Fair Play, The Nun II, and every new movie to watch at home this weekend](https://www.polygon.com/23899610/new-movies-watch-nun-2-fair-play-netflix-haunted-mansion-disney-plus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
