@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Better in this way](http://9gag.com/gag/aNwXWqv)
- - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
- - 👉 [How every normal man should react](http://9gag.com/gag/aL13Mez)<!-- MEMES:END -->
+ - 6️⃣ [11 years ago](http://9gag.com/gag/aQEK8LW)
+ - 😝 [Road rage escalates](http://9gag.com/gag/aYVBxZ7)
+ - 👉 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)<!-- MEMES:END -->
 
 --- 
 
