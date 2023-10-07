@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US adds 42 Chinese companies and seven companies from India, the UK, and other countries to an export control list over their support for Russia&#39;s military &lpar;Reuters&rpar;](http://www.techmeme.com/231007/p8#a231007p8)
- - [The iPhone 15 has basic specs that Android phones wouldn’t get away with](https://www.androidauthority.com/iphone-15-basic-specs-3369915/)
- - [12 Best Umbrellas &lpar;2023&rpar;: Windproof, Cheap, Tiny, and Clear Bubble](https://www.wired.com/gallery/best-umbrellas/)<!-- TECH:END -->
+ - [Amazon&#39;s Alexa has been claiming that the 2020 election was stolen citing sources from Rumble and Substack; Amazon says the errors were fixed &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/231007/p10#a231007p10)
+ - [Hackers are selling the data of millions lifted from 23andMe’s genetic database](https://www.theverge.com/2023/10/7/23907330/23andme-leak-hackers-selling-user-dna-data)
+ - [Best Coffee Subscriptions for 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-subscriptions-and-coffee-clubs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
