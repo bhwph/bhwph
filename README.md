@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)
- - 😝 [Don&#39;t take her back](http://9gag.com/gag/aVb8Mjn)
- - 👉 [How every normal man should react](http://9gag.com/gag/aL13Mez)<!-- MEMES:END -->
+ - 6️⃣ [How every normal man should react](http://9gag.com/gag/aL13Mez)
+ - 😝 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
+ - 👉 [Wait\u2026](http://9gag.com/gag/aOxOBzN)<!-- MEMES:END -->
 
 --- 
 
