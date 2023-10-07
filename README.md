@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Wait\u2026](http://9gag.com/gag/aOxOBzN)
  - 😝 [German police, no surprise, still apply the &#39;Pain Grip&#39; to eco-protest guys.](http://9gag.com/gag/a9qeAmL)
- - 👉 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)<!-- MEMES:END -->
+ - 👉 [Hehe](http://9gag.com/gag/a9qeYGo)<!-- MEMES:END -->
 
 --- 
 
