@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Animal Crossing: New Horizons for free with Nintendo’s new Switch Lite bundle](https://www.polygon.com/deals/23904942/gaming-deals-nintendo-animal-crossing-bundle-cyberpunk-2077-battletech-dungeons-dragons)
- - [The 7 best movies new to streaming in October 2023](https://www.polygon.com/what-to-watch/23901165/best-new-movies-netflix-amazon-prime-max-hulu-october-2023)
- - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)<!-- GAME:END -->
+ - [One of Cocoon’s easiest puzzles was the hardest to design](https://www.polygon.com/gaming/23902311/cocoon-hardest-puzzle-creation)
+ - [V/H/S/85’s directors explain why they were so excited to make ‘fuck-you movies’](https://www.polygon.com/23906539/vhs-85-director-interview-horror-anthology-shudder)
+ - [Get Animal Crossing: New Horizons for free with Nintendo’s new Switch Lite bundle](https://www.polygon.com/deals/23904942/gaming-deals-nintendo-animal-crossing-bundle-cyberpunk-2077-battletech-dungeons-dragons)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
