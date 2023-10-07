@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait\u2026](http://9gag.com/gag/aOxOBzN)
- - 😝 [German police, no surprise, still apply the &#39;Pain Grip&#39; to eco-protest guys.](http://9gag.com/gag/a9qeAmL)
- - 👉 [Hehe](http://9gag.com/gag/a9qeYGo)<!-- MEMES:END -->
+ - 6️⃣ [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
+ - 😝 [MPs in Iran rising from their seats to chant \u201cDeath to Israel\u201d and \u201cPalestine is victorious, Israel will be destroyed\u201d.](http://9gag.com/gag/abvozjB)
+ - 👉 [Hamas launches rockets towards Tel Aviv in Israel.](http://9gag.com/gag/aeQEMVj)<!-- MEMES:END -->
 
 --- 
 
