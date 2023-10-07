@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
  - [A research paper details how decomposing groups of neurons in a neural network into interpretable &quot;features&quot; may improve safety by enabling monitoring of LLMs &lpar;Anthropic&rpar;](http://www.techmeme.com/231007/p12#a231007p12)
- - [Google Pixel 8 Pro vs. iPhone 15 Pro Max, Galaxy S23 Ultra: Top-End Phones Compared     - CNET](https://www.cnet.com/tech/mobile/google-pixel-8-pro-vs-iphone-15-pro-max-galaxy-s23-ultra-top-end-phones-compared/#ftag=CAD590a51e)
- - [iPhone 15 Pro review: Is Apple’s flagship Android alternative worth buying?](https://www.androidauthority.com/apple-iphone-15-pro-review-3368360/)<!-- TECH:END -->
+ - [Google Pixel 8 Pro vs. iPhone 15 Pro Max, Galaxy S23 Ultra: Top-End Phones Compared     - CNET](https://www.cnet.com/tech/mobile/google-pixel-8-pro-vs-iphone-15-pro-max-galaxy-s23-ultra-top-end-phones-compared/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
