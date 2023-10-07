@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meanwhile, in France](http://9gag.com/gag/amAyrm6)
- - 😝 [Where&#39;s funny?](http://9gag.com/gag/a6qzbEm)
- - 👉 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)<!-- MEMES:END -->
+ - 6️⃣ [Better in this way](http://9gag.com/gag/aNwXWqv)
+ - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
+ - 👉 [How every normal man should react](http://9gag.com/gag/aL13Mez)<!-- MEMES:END -->
 
 --- 
 
