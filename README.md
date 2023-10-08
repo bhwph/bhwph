@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)
- - 😝 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
- - 👉 [Women in 2023. be like](http://9gag.com/gag/aME6wrA)<!-- MEMES:END -->
+ - 6️⃣ [The world needs more Indian police &lpar;and their sticks&rpar;](http://9gag.com/gag/aKEyjpO)
+ - 😝 [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)
+ - 👉 [Apparently they have an issue with her not covering her head. Pretty comical behaviour.](http://9gag.com/gag/aKEyD3N)<!-- MEMES:END -->
 
 --- 
 
