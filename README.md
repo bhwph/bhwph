@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Weirdo indie RPG Knuckle Sandwich will finally release in November](https://www.pcgamer.com/weirdo-indie-rpg-knuckle-sandwich-will-finally-release-in-november)
  - [The Exorcist: Believer’s carefully crafted demon was cut to keep the movie grounded](https://www.polygon.com/23905461/exorcist-believer-lamashtu-demon-makeup)
- - [Wheel of Time’s showrunner wanted you to be ‘100% in love’ with those bad guys](https://www.polygon.com/23905161/wheel-of-time-rafe-judkins-interview-season-2-ending-3-spoilers)
- - [Wordle today: Hint and answer for #841 Sunday, October 8](https://www.pcgamer.com/wordle-today-answer-841-october-8)<!-- GAME:END -->
+ - [Wheel of Time’s showrunner wanted you to be ‘100% in love’ with those bad guys](https://www.polygon.com/23905161/wheel-of-time-rafe-judkins-interview-season-2-ending-3-spoilers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
