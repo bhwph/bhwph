@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077: Phantom Liberty has one of the most terrifying missions this side of Alien: Isolation](https://www.polygon.com/23905305/cyberpunk-2077-phantom-liberty-alien-isolation-horror-mission)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
- - [A single flop couldn’t kill the Dark Universe](https://www.polygon.com/what-to-watch/23885540/dark-universe-movies-universal-monsters-dracula-frankenstein-mummy)<!-- GAME:END -->
+ - [The Exorcist: Believer’s carefully crafted demon was cut to keep the movie grounded](https://www.polygon.com/23905461/exorcist-believer-lamashtu-demon-makeup)
+ - [Wheel of Time’s showrunner wanted you to be ‘100% in love’ with those bad guys](https://www.polygon.com/23905161/wheel-of-time-rafe-judkins-interview-season-2-ending-3-spoilers)
+ - [Wordle today: Hint and answer for #841 Sunday, October 8](https://www.pcgamer.com/wordle-today-answer-841-october-8)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
