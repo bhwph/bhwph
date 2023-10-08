@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A history of Digital Equipment Corporation, which pioneered minicomputers after being founded in 1957 and was acquired by Compaq in 1998 &lpar;Andy Patrizio/Ars Technica&rpar;](http://www.techmeme.com/231008/p2#a231008p2)
- - [The UK FCA plans to name firms violating its crypto promotion rules, which will be widened on October 8 to include cryptoasset providers regardless of location &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/231008/p1#a231008p1)
- - [Y Combinator hires Yelp policy chief Luther Lowe, best known for his public criticism of Google, to lead public policy, as the accelerator embraces politics &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/231007/p13#a231007p13)<!-- TECH:END -->
+ - [Google Pixel 6 Pro vs Pixel 8 Pro: What’s the difference and should you upgrade?](https://www.androidauthority.com/google-pixel-6-pro-vs-pixel-8-pro-3371171/)
+ - [101 Best October Prime Day Deals You Can Grab Early     - CNET](https://www.cnet.com/deals/october-prime-day-2023/#ftag=CAD590a51e)
+ - [Amazon Layaway Could Be Your Ace in the Hole for This Week&#39;s Prime Day Event     - CNET](https://www.cnet.com/tech/mobile/amazon-layaway-could-be-your-ace-in-the-hole-for-this-weeks-prime-day-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
