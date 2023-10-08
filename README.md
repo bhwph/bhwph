@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Weirdo indie RPG Knuckle Sandwich will finally release in November](https://www.pcgamer.com/weirdo-indie-rpg-knuckle-sandwich-will-finally-release-in-november)
- - [The Exorcist: Believer’s carefully crafted demon was cut to keep the movie grounded](https://www.polygon.com/23905461/exorcist-believer-lamashtu-demon-makeup)
- - [Wheel of Time’s showrunner wanted you to be ‘100% in love’ with those bad guys](https://www.polygon.com/23905161/wheel-of-time-rafe-judkins-interview-season-2-ending-3-spoilers)<!-- GAME:END -->
+ - [Your whole life is secretly a deadly reality show in American Arcadia](https://www.pcgamer.com/your-whole-life-is-secretly-a-deadly-reality-show-in-american-arcadia)
+ - [Upcoming RTS-RPG fusion dares to ask big questions like &#39;What if the Vikings were riding dinosaurs?&#39;](https://www.pcgamer.com/upcoming-rts-rpg-fusion-dares-to-ask-big-questions-like-what-if-the-vikings-were-riding-dinosaurs)
+ - [Arkane shows it hasn&#39;t given up on Redfall with a substantial new update, but it&#39;s hard to imagine a Cyberpunk-style turnaround is in the cards](https://www.pcgamer.com/arkane-shows-it-hasnt-given-up-on-redfall-with-a-substantial-new-update-but-its-hard-to-imagine-a-cyberpunk-style-turnaround-is-in-the-cards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
