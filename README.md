@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
- - [A research paper details how decomposing groups of neurons in a neural network into interpretable &quot;features&quot; may improve safety by enabling monitoring of LLMs &lpar;Anthropic&rpar;](http://www.techmeme.com/231007/p12#a231007p12)
- - [Google Pixel 8 Pro vs. iPhone 15 Pro Max, Galaxy S23 Ultra: Top-End Phones Compared     - CNET](https://www.cnet.com/tech/mobile/google-pixel-8-pro-vs-iphone-15-pro-max-galaxy-s23-ultra-top-end-phones-compared/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Y Combinator hires Yelp policy chief Luther Lowe, best known for his public criticism of Google, to lead public policy, as the accelerator embraces politics &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/231007/p13#a231007p13)
+ - [PlayStation Plus Deals: Get Sony&#39;s Gaming Subscription for Less     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
+ - [MGM didn’t pay up after hackers broke into its system and stole customer data](https://www.theverge.com/2023/10/7/23907776/mgm-refused-pay-customer-data-stolen-cyberattack-ransom)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
