@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 9 review: Should you buy it?](https://www.androidauthority.com/apple-watch-series-9-review-3367079/)
- - [Microsoft Office Home &amp; Business 2021 for Mac dips to $29.97, a discount of 87% off](https://appleinsider.com/articles/23/10/06/microsoft-office-home-business-2021-for-mac-dips-to-3297-a-discount-of-87-off?utm_medium=rss)
- - [Best Early October Prime Day Deals You Can Grab for Under $10     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Israel&#39;s Failure to Stop the Hamas Attack Shows the Danger of Too Much Surveillance](https://www.wired.com/story/israel-hamas-war-surveillance/)
+ - [The 6 Best TVs to Give for the Holidays 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-tvs-to-give-for-the-holidays-2023/#ftag=CAD590a51e)
+ - [October Prime Day: The Best Under $25 Deals You Can Shop Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
