@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)
+ - 6️⃣ [Thanks to whoever recommended me to visit the city around this time, I hope you have such a good time in the bathroom](http://9gag.com/gag/aqeO7xY)
  - 😝 [RIP Gaza](http://9gag.com/gag/az2zXWj)
- - 👉 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)<!-- MEMES:END -->
+ - 👉 [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)<!-- MEMES:END -->
 
 --- 
 
