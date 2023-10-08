@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amid a legendary autumn for PC gaming, a team of three developers quietly released one of the best shooters you can play right now into early access](https://www.pcgamer.com/amid-a-legendary-autumn-for-pc-gaming-a-team-of-three-developers-quietly-released-one-of-the-best-shooters-you-can-play-right-now-into-early-access)
- - [It turns out good guys can rescue Baldur&#39;s Gate 3&#39;s evil playthrough companion mod-free by turning her into a sheep and making the sheep stand trial](https://www.pcgamer.com/it-turns-out-good-guys-can-rescue-baldurs-gate-3s-evil-playthrough-companion-mod-free-by-turning-her-into-a-sheep-and-making-the-sheep-stand-trial)
- - [The Creator has a very strange intersection with the Russia-Ukraine war](https://www.polygon.com/23904903/the-creator-russo-ukrainian-war-tank-scene-gareth-edwards-interview)<!-- GAME:END -->
+ - [Warfare MMO Foxhole is adding naval combat complete with huge multi-person ships](https://www.pcgamer.com/warfare-mmo-foxhole-is-adding-naval-combat-complete-with-multi-person-ships)
+ - [Amid a legendary autumn for PC gaming, a team of two developers quietly released one of the best shooters you can play right now into early access](https://www.pcgamer.com/amid-a-legendary-autumn-for-pc-gaming-a-team-of-three-developers-quietly-released-one-of-the-best-shooters-you-can-play-right-now-into-early-access)
+ - [It turns out good guys can rescue Baldur&#39;s Gate 3&#39;s evil playthrough companion mod-free by turning her into a sheep and making the sheep stand trial](https://www.pcgamer.com/it-turns-out-good-guys-can-rescue-baldurs-gate-3s-evil-playthrough-companion-mod-free-by-turning-her-into-a-sheep-and-making-the-sheep-stand-trial)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
