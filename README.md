@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The world needs more Indian police &lpar;and their sticks&rpar;](http://9gag.com/gag/aKEyjpO)
- - 😝 [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)
- - 👉 [Apparently they have an issue with her not covering her head. Pretty comical behaviour.](http://9gag.com/gag/aKEyD3N)<!-- MEMES:END -->
+ - 6️⃣ [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)
+ - 😝 [Emotional damage!](http://9gag.com/gag/ajVjqBw)
+ - 👉 [RIP Gaza](http://9gag.com/gag/az2zXWj)<!-- MEMES:END -->
 
 --- 
 
