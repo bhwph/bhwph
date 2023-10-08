@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thanks to whoever recommended me to visit the city around this time, I hope you have such a good time in the bathroom](http://9gag.com/gag/aqeO7xY)
- - 😝 [RIP Gaza](http://9gag.com/gag/az2zXWj)
- - 👉 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)<!-- MEMES:END -->
+ - 6️⃣ [So cruel!](http://9gag.com/gag/ajVj5A0)
+ - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
+ - 👉 [T-90M found out](http://9gag.com/gag/anz34eb)<!-- MEMES:END -->
 
 --- 
 
