@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even Apple makes mistakes: 4 glorious iPhone blunders](https://www.androidauthority.com/apple-iphone-blunders-fails-3368346/)
- - [Panthers vs. Lions Livestream: How to Watch NFL Week 5 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/panthers-vs-lions-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)
- - [Texans vs. Falcons Livestream: How to Watch NFL Week 5 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/texans-vs-falcons-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Series 9 review: Should you buy it?](https://www.androidauthority.com/apple-watch-series-9-review-3367079/)
+ - [Microsoft Office Home &amp; Business 2021 for Mac dips to $29.97, a discount of 87% off](https://appleinsider.com/articles/23/10/06/microsoft-office-home-business-2021-for-mac-dips-to-3297-a-discount-of-87-off?utm_medium=rss)
+ - [Best Early October Prime Day Deals You Can Grab for Under $10     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
