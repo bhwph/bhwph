@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6 Pro vs Pixel 8 Pro: What’s the difference and should you upgrade?](https://www.androidauthority.com/google-pixel-6-pro-vs-pixel-8-pro-3371171/)
- - [101 Best October Prime Day Deals You Can Grab Early     - CNET](https://www.cnet.com/deals/october-prime-day-2023/#ftag=CAD590a51e)
- - [Amazon Layaway Could Be Your Ace in the Hole for This Week&#39;s Prime Day Event     - CNET](https://www.cnet.com/tech/mobile/amazon-layaway-could-be-your-ace-in-the-hole-for-this-weeks-prime-day-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [One in four people in the US who reported losing money to fraud between January 2021-June 2023 said it started on social media, resulting in losses worth $2.7B &lpar;Emma Fletcher/Federal Trade Commission&rpar;](http://www.techmeme.com/231008/p3#a231008p3)
+ - [Have Google and Samsung just slain the flagship killers?](https://www.androidauthority.com/pixel-8-galaxy-s23-fe-flagship-killer-3371590/)
+ - [Best Amazon Fire Tablet &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-amazon-fire-tablet/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
