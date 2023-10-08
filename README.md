@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warfare MMO Foxhole is adding naval combat complete with huge multi-person ships](https://www.pcgamer.com/warfare-mmo-foxhole-is-adding-naval-combat-complete-with-multi-person-ships)
- - [Amid a legendary autumn for PC gaming, a team of two developers quietly released one of the best shooters you can play right now into early access](https://www.pcgamer.com/amid-a-legendary-autumn-for-pc-gaming-a-team-of-three-developers-quietly-released-one-of-the-best-shooters-you-can-play-right-now-into-early-access)
- - [It turns out good guys can rescue Baldur&#39;s Gate 3&#39;s evil playthrough companion mod-free by turning her into a sheep and making the sheep stand trial](https://www.pcgamer.com/it-turns-out-good-guys-can-rescue-baldurs-gate-3s-evil-playthrough-companion-mod-free-by-turning-her-into-a-sheep-and-making-the-sheep-stand-trial)<!-- GAME:END -->
+ - [Following layoffs at CD Projekt Red, staff have formed a union for Polish game developers](https://www.pcgamer.com/following-layoffs-at-cd-projekt-red-staff-have-formed-a-union-for-polish-game-developers)
+ - [Dave the Diver gets crabs and lobsters this month, among other new stuff, in its first content update](https://www.pcgamer.com/dave-the-diver-gets-crabs-and-lobsters-this-month-among-other-new-stuff-in-its-first-content-update)
+ - [Warfare MMO Foxhole is adding naval combat complete with huge multi-person ships](https://www.pcgamer.com/warfare-mmo-foxhole-is-adding-naval-combat-complete-with-multi-person-ships)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
