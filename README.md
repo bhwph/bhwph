@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [RIP Gaza](http://9gag.com/gag/az2zXWj)
- - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
- - 👉 [Not that shocked](http://9gag.com/gag/aeQErAW)<!-- MEMES:END -->
+ - 6️⃣ [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
+ - 😝 [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)
+ - 👉 [RIP Gaza](http://9gag.com/gag/az2zXWj)<!-- MEMES:END -->
 
 --- 
 
