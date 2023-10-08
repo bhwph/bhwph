@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So cruel!](http://9gag.com/gag/ajVj5A0)
- - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
- - 👉 [T-90M found out](http://9gag.com/gag/anz34eb)<!-- MEMES:END -->
+ - 6️⃣ [T-90M found out](http://9gag.com/gag/anz34eb)
+ - 😝 [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)
+ - 👉 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)<!-- MEMES:END -->
 
 --- 
 
