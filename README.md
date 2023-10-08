@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Following layoffs at CD Projekt Red, staff have formed a union for Polish game developers](https://www.pcgamer.com/following-layoffs-at-cd-projekt-red-staff-have-formed-a-union-for-polish-game-developers)
- - [Dave the Diver gets crabs and lobsters this month, among other new stuff, in its first content update](https://www.pcgamer.com/dave-the-diver-gets-crabs-and-lobsters-this-month-among-other-new-stuff-in-its-first-content-update)
- - [Warfare MMO Foxhole is adding naval combat complete with huge multi-person ships](https://www.pcgamer.com/warfare-mmo-foxhole-is-adding-naval-combat-complete-with-multi-person-ships)<!-- GAME:END -->
+ - [Cyberpunk 2077: Phantom Liberty has one of the most terrifying missions this side of Alien: Isolation](https://www.polygon.com/23905305/cyberpunk-2077-phantom-liberty-alien-isolation-horror-mission)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
+ - [A single flop couldn’t kill the Dark Universe](https://www.polygon.com/what-to-watch/23885540/dark-universe-movies-universal-monsters-dracula-frankenstein-mummy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
