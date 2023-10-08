@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [T-90M found out](http://9gag.com/gag/anz34eb)
- - 😝 [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)
- - 👉 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)<!-- MEMES:END -->
+ - 6️⃣ [I wouldn&#39;t leave after they started playing Satisfaction](http://9gag.com/gag/aBdMm6P)
+ - 😝 [T-90M found out](http://9gag.com/gag/anz34eb)
+ - 👉 [The Solution](http://9gag.com/gag/aVb80gM)<!-- MEMES:END -->
 
 --- 
 
