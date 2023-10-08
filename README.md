@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
- - 😝 [MPs in Iran rising from their seats to chant \u201cDeath to Israel\u201d and \u201cPalestine is victorious, Israel will be destroyed\u201d.](http://9gag.com/gag/abvozjB)
- - 👉 [Hamas launches rockets towards Tel Aviv in Israel.](http://9gag.com/gag/aeQEMVj)<!-- MEMES:END -->
+ - 6️⃣ [Super comeback](http://9gag.com/gag/aYVBgL2)
+ - 😝 [Candace shut &#39;em down cold.](http://9gag.com/gag/a1Pnomb)
+ - 👉 [The angel](http://9gag.com/gag/adPMKVZ)<!-- MEMES:END -->
 
 --- 
 
