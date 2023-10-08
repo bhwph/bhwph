@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One in four people in the US who reported losing money to fraud between January 2021-June 2023 said it started on social media, resulting in losses worth $2.7B &lpar;Emma Fletcher/Federal Trade Commission&rpar;](http://www.techmeme.com/231008/p3#a231008p3)
- - [Have Google and Samsung just slain the flagship killers?](https://www.androidauthority.com/pixel-8-galaxy-s23-fe-flagship-killer-3371590/)
- - [Best Amazon Fire Tablet &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-amazon-fire-tablet/)<!-- TECH:END -->
+ - [Meta’s plans to beat Apple’s Vision Pro include cheaper headsets and no controllers](https://www.theverge.com/2023/10/8/23908290/meta-quest-headset-no-controllers-cheaper-ar-vr-apple-vision-pro)
+ - [Who has the best software update policy in the mobile world?](https://www.androidauthority.com/best-software-update-policy-mobile-3371276/)
+ - [Premier League Soccer Livestream: How to Watch Arsenal vs. Man City From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-arsenal-vs-man-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
