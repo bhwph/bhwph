@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The most expensive coffee in the world ladies and gentlemen...](http://9gag.com/gag/amAyv0j)
- - 😝 [Queen](http://9gag.com/gag/aoK6PAg)
- - 👉 [Just imagine , GTA in mafia style done by rockstar, full mafia gangs war , controlling districts, managing stores .](http://9gag.com/gag/aWGA1Eq)<!-- MEMES:END -->
+ - 6️⃣ [Going to hell. See ya!](http://9gag.com/gag/aKEyjz6)
+ - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
+ - 👉 [The most expensive coffee in the world ladies and gentlemen...](http://9gag.com/gag/amAyv0j)<!-- MEMES:END -->
 
 --- 
 
