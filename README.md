@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes MacBook Air 13-inch to $749, 15-inch to $1,049 ahead of Prime Day](https://appleinsider.com/articles/23/10/09/amazon-slashes-macbook-air-13-inch-to-749-15-inch-to-1049-ahead-of-prime-day?utm_medium=rss)
- - [The Pixel 8A is curvy and colorful in these first-look leaks](https://www.theverge.com/2023/10/9/23910301/google-pixel-8a-leak-unofficial-renders-photo)
- - [How to build the ultimate iPhone 15 Pro 4K60 ProRes video recording rig](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-build-the-ultimate-iphone-15-pro-4k60-prores-video-recording-rig?utm_medium=rss)<!-- TECH:END -->
+ - [Unity CEO John Riccitiello Steps Down After Pricing Blowup](https://www.wired.com/story/john-riccitello-retires-unity-ceo-controversy/)
+ - [California Gov. Gavin Newsom signs AB 1394, a bill to hold social media platforms and other web services liable for &quot;knowingly facilitating&quot; commercial CSAM &lpar;Queenie Wong/Los Angeles Times&rpar;](http://www.techmeme.com/231009/p19#a231009p19)
+ - [X CEO Linda Yaccarino drops out of the WSJ Tech Live conference](https://www.theverge.com/2023/10/9/23910453/linda-yaccarino-wsj-tech-live-twitter-x)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
