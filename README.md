@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will stock Pixel 8 spare parts for seven years](https://www.theverge.com/2023/10/9/23910082/google-will-stock-pixel-8-spare-parts-for-seven-years)
- - [The best Sonos speakers to buy right now](https://www.theverge.com/23507492/sonos-best-speaker-one-roam-move-five-arc-beam-ray-sub)
- - [Google Pixel 6 vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-6-vs-pixel-8-3372445/)<!-- TECH:END -->
+ - [Amazon slashes MacBook Air 13-inch to $749, 15-inch to $1,049 ahead of Prime Day](https://appleinsider.com/articles/23/10/09/amazon-slashes-macbook-air-13-inch-to-749-15-inch-to-1049-ahead-of-prime-day?utm_medium=rss)
+ - [The Pixel 8A is curvy and colorful in these first-look leaks](https://www.theverge.com/2023/10/9/23910301/google-pixel-8a-leak-unofficial-renders-photo)
+ - [How to build the ultimate iPhone 15 Pro 4K60 ProRes video recording rig](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-build-the-ultimate-iphone-15-pro-4k60-prores-video-recording-rig?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
