@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail version 1.4 brings the space-fantasy RPG to PS5 on Oct 10](https://blog.playstation.com/2023/10/09/honkai-star-rail-version-1-4-brings-the-space-fantasy-rpg-to-ps5-on-oct-10/)
- - [Loki wants you to care about the MCU at its lowest point](https://www.polygon.com/reviews/23904875/loki-season-2-review-episode)
- - [The 10 Most Anticipated Pokémon TCG Cards From Paradox Rift](https://kotaku.com/pokemon-tcg-paradox-rift-151-best-cards-parasol-lady-1850907042)<!-- GAME:END -->
+ - [Portal player achieves fastest-ever test subject death thanks to a speed-boosting cup](https://www.pcgamer.com/portal-player-achieves-fastest-ever-test-subject-death-thanks-to-a-speed-boosting-cup)
+ - [Get Your First Look at Halo Infinite Season 5: Reckoning, Arriving on October 17](https://www.youtube.com/watch?v=QORZtiws6Sk#new_tab)
+ - [Our Flag Means Death’s creator says these 5 Westerns are key to his big gay pirate show](https://www.polygon.com/what-to-watch/23904815/our-flag-means-death-creator-david-jenkins-westerns-movies-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
