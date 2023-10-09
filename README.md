@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
- - 😝 [HAMAS SUPPORTERS ATTACK SYDNEY OPERA HOUSE](http://9gag.com/gag/aWGAg92)
+ - 6️⃣ [How to piss off 100% of people with one picture.](http://9gag.com/gag/ajVj5M0)
+ - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
  - 👉 [So, How is your multiculturalism going?](http://9gag.com/gag/anz3zYq)<!-- MEMES:END -->
 
 --- 
