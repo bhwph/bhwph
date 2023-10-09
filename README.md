@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney’s Loki faces backlash over reported use of generative AI](https://www.theverge.com/2023/10/9/23909529/disney-marvel-loki-generative-ai-poster-backlash-season-2)
- - [An investigation details FTX staff&#39;s all-night race to stop a crypto heist as the exchange collapsed, ultimately losing $415M to $432M to unidentified hackers &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231009/p9#a231009p9)
- - [Heat Waves in the Ground Are Getting More Extreme—and Perilous](https://www.wired.com/story/heat-waves-in-the-ground-are-getting-more-extreme-and-perilous/)<!-- TECH:END -->
+ - [What&#39;s really going on with Apple&#39;s modem chip efforts?](https://appleinsider.com/articles/23/10/09/whats-really-going-on-with-apples-modem-chip-efforts?utm_medium=rss)
+ - [Samsung SmartThings, Nanoleaf holiday lights, and smart smoke detector on HomeKit Insider](https://appleinsider.com/articles/23/10/09/samsung-smartthings-nanoleaf-holiday-lights-and-smart-smoke-detector-on-homekit-insider?utm_medium=rss)
+ - [As the UK FCA widens its crypto marketing rules, Coinbase, OKX, Binance, and others partner with UK companies, expecting to continue serving UK customers &lpar;Brian McGleenon/The Block&rpar;](http://www.techmeme.com/231009/p10#a231009p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
