@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Portal player achieves fastest-ever test subject death thanks to a speed-boosting cup](https://www.pcgamer.com/portal-player-achieves-fastest-ever-test-subject-death-thanks-to-a-speed-boosting-cup)
- - [Get Your First Look at Halo Infinite Season 5: Reckoning, Arriving on October 17](https://www.youtube.com/watch?v=QORZtiws6Sk#new_tab)
- - [Our Flag Means Death’s creator says these 5 Westerns are key to his big gay pirate show](https://www.polygon.com/what-to-watch/23904815/our-flag-means-death-creator-david-jenkins-westerns-movies-watch-stream)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha &lpar;2310.231005-2200&rpar;](https://news.xbox.com/en-us/2023/10/09/xbox-insider-release-notes-alpha-2310-231005-2200/)
+ - [Netflix’s House of Usher, John Carpenter true crime, and more new TV this week](https://www.polygon.com/2023/10/9/23903001/new-tv-netflix-fall-house-usher-true-crime-frasier-anime-crunchyroll)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231005-2000&rpar;](https://news.xbox.com/en-us/2023/10/09/xbox-insider-release-notes-alpha-skip-ahead-2408-231005-2000/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
