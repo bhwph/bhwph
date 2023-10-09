@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Going to hell. See ya!](http://9gag.com/gag/aKEyjz6)
- - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 👉 [The most expensive coffee in the world ladies and gentlemen...](http://9gag.com/gag/amAyv0j)<!-- MEMES:END -->
+ - 6️⃣ [US CVN 78 Speed Last Week vs Today Heading Toward Israel](http://9gag.com/gag/arm0MyK)
+ - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
+ - 👉 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)<!-- MEMES:END -->
 
 --- 
 
