@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [T-90M found out](http://9gag.com/gag/anz34eb)
- - 😝 [When you get called out on your bullshit](http://9gag.com/gag/ap9XN7E)
- - 👉 [Not that shocked](http://9gag.com/gag/aeQErAW)<!-- MEMES:END -->
+ - 6️⃣ [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)
+ - 😝 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
+ - 👉 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)<!-- MEMES:END -->
 
 --- 
 
