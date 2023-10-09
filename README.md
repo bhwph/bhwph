@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based care home marketplace Lottie, which claims 500K monthly users, raised a &amp;pound;16.35M Series A led by Accel, after raising &amp;pound;6M in July 2022 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231009/p4#a231009p4)
- - [Inside FTX’s All-Night Race to Stop a $1 Billion Crypto Heist](https://www.wired.com/story/ftx-1-billion-crypto-heist/)
- - [China outlines a plan to target 300+ exaflops of computing capacity, up from 220 in 2023, bigger optical networks, advanced data storage, and more by 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231009/p3#a231009p3)<!-- TECH:END -->
+ - [Disney’s Loki faces backlash over reported use of generative AI](https://www.theverge.com/2023/10/9/23909529/disney-marvel-loki-generative-ai-poster-backlash-season-2)
+ - [An investigation details FTX staff&#39;s all-night race to stop a crypto heist as the exchange collapsed, ultimately losing $415M to $432M to unidentified hackers &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231009/p9#a231009p9)
+ - [Heat Waves in the Ground Are Getting More Extreme—and Perilous](https://www.wired.com/story/heat-waves-in-the-ground-are-getting-more-extreme-and-perilous/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
