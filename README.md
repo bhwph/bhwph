@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This crab soulslike allows you to whip out a pistol and one shot the boss once you&#39;ve had enough](https://www.pcgamer.com/this-crab-soulslike-allows-you-to-whip-out-a-pistol-and-one-shot-the-boss-once-youve-had-enough)
- - [WoW Classic hardcore duel goes horribly wrong when player is ganked by a Horde guard in the ultimate act of betrayal](https://www.pcgamer.com/wow-classic-hardcore-duel-goes-horribly-wrong-when-player-is-ganked-by-a-horde-guard-in-the-ultimate-act-of-betrayal)
- - [Now is your last chance to claim D&amp;D&#39;s intro adventure Lost Mine of Phandelver for free](https://www.pcgamer.com/now-is-your-last-chance-to-claim-dandds-intro-adventure-lost-mine-of-phandelver-for-free)<!-- GAME:END -->
+ - [Honkai: Star Rail version 1.4 brings the space-fantasy RPG to PS5 on Oct 10](https://blog.playstation.com/2023/10/09/honkai-star-rail-version-1-4-brings-the-space-fantasy-rpg-to-ps5-on-oct-10/)
+ - [Loki wants you to care about the MCU at its lowest point](https://www.polygon.com/reviews/23904875/loki-season-2-review-episode)
+ - [The 10 Most Anticipated Pokémon TCG Cards From Paradox Rift](https://kotaku.com/pokemon-tcg-paradox-rift-151-best-cards-parasol-lady-1850907042)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
