@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 😝 [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)
- - 👉 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)<!-- MEMES:END -->
+ - 6️⃣ [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
+ - 😝 [HAMAS SUPPORTERS ATTACK SYDNEY OPERA HOUSE](http://9gag.com/gag/aWGAg92)
+ - 👉 [So, How is your multiculturalism going?](http://9gag.com/gag/anz3zYq)<!-- MEMES:END -->
 
 --- 
 
