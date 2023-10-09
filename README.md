@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Google Pixel Watch deal slashes the price to just $279.99](https://www.androidauthority.com/google-pixel-watch-deal-3373740/)
- - [Drop test shows iPhone 15 Pro Max glass no more fragile than other premium phones](https://appleinsider.com/articles/23/10/09/drop-test-shows-iphone-15-pro-max-glass-no-more-fragile-than-other-premium-phones?utm_medium=rss)
- - [Stranger Things season 5: Expected release date and the latest rumors](https://www.androidauthority.com/stranger-things-season-5-release-date-3372283/)<!-- TECH:END -->
+ - [Google will stock Pixel 8 spare parts for seven years](https://www.theverge.com/2023/10/9/23910082/google-will-stock-pixel-8-spare-parts-for-seven-years)
+ - [The best Sonos speakers to buy right now](https://www.theverge.com/23507492/sonos-best-speaker-one-roam-move-five-arc-beam-ray-sub)
+ - [Google Pixel 6 vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-6-vs-pixel-8-3372445/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
