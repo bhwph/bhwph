@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Your whole life is secretly a deadly reality show in American Arcadia](https://www.pcgamer.com/your-whole-life-is-secretly-a-deadly-reality-show-in-american-arcadia)
- - [Upcoming RTS-RPG fusion dares to ask big questions like &#39;What if the Vikings were riding dinosaurs?&#39;](https://www.pcgamer.com/upcoming-rts-rpg-fusion-dares-to-ask-big-questions-like-what-if-the-vikings-were-riding-dinosaurs)
- - [Arkane shows it hasn&#39;t given up on Redfall with a substantial new update, but it&#39;s hard to imagine a Cyberpunk-style turnaround is in the cards](https://www.pcgamer.com/arkane-shows-it-hasnt-given-up-on-redfall-with-a-substantial-new-update-but-its-hard-to-imagine-a-cyberpunk-style-turnaround-is-in-the-cards)<!-- GAME:END -->
+ - [Promising indie games we saw at PAX Australia 2023](https://www.pcgamer.com/promising-indie-games-we-saw-at-pax-australia-2023)
+ - [Russia seeks to stop access to unfiltered information by attempting to ban VPNs](https://www.pcgamer.com/russia-seeks-to-stop-access-to-unfiltered-information-by-attempting-to-ban-vpns)
+ - [This Pathfinder RPG&#39;s weakest class is a poisoner in a game where nearly everyone is immune to poison, but after two years it&#39;s about get a lifesaving overhaul](https://www.pcgamer.com/this-pathfinder-rpgs-weakest-class-is-a-poisoner-in-a-game-where-nearly-everyone-is-immune-to-poison-but-after-two-years-its-about-get-a-lifesaving-overhaul)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
