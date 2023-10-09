@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s really going on with Apple&#39;s modem chip efforts?](https://appleinsider.com/articles/23/10/09/whats-really-going-on-with-apples-modem-chip-efforts?utm_medium=rss)
- - [Samsung SmartThings, Nanoleaf holiday lights, and smart smoke detector on HomeKit Insider](https://appleinsider.com/articles/23/10/09/samsung-smartthings-nanoleaf-holiday-lights-and-smart-smoke-detector-on-homekit-insider?utm_medium=rss)
- - [As the UK FCA widens its crypto marketing rules, Coinbase, OKX, Binance, and others partner with UK companies, expecting to continue serving UK customers &lpar;Brian McGleenon/The Block&rpar;](http://www.techmeme.com/231009/p10#a231009p10)<!-- TECH:END -->
+ - [This Google Pixel Watch deal slashes the price to just $279.99](https://www.androidauthority.com/google-pixel-watch-deal-3373740/)
+ - [Drop test shows iPhone 15 Pro Max glass no more fragile than other premium phones](https://appleinsider.com/articles/23/10/09/drop-test-shows-iphone-15-pro-max-glass-no-more-fragile-than-other-premium-phones?utm_medium=rss)
+ - [Stranger Things season 5: Expected release date and the latest rumors](https://www.androidauthority.com/stranger-things-season-5-release-date-3372283/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
