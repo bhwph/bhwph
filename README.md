@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new AirPods Pro 2 with USB-C are back on sale for $199 at Amazon ahead of Prime Day](https://appleinsider.com/articles/23/10/08/apples-new-airpods-pro-2-with-usb-c-are-back-on-sale-for-199-at-amazon-ahead-of-prime-day?utm_medium=rss)
- - [iPhone 15 product mix concerns caused by reduced shipment times](https://appleinsider.com/articles/23/10/08/iphone-15-product-mix-concerns-caused-by-reduced-shipment-times?utm_medium=rss)
- - [Israel&#39;s Failure to Stop the Hamas Attack Shows the Danger of Too Much Surveillance](https://www.wired.com/story/israel-hamas-war-surveillance/)<!-- TECH:END -->
+ - [LLMs trained on voice, text, and video chats can now detect and mimic emotions like empathy, which could impact fields like customer service, HR, mental health &lpar;Lisa Bannon/Wall Street Journal&rpar;](http://www.techmeme.com/231008/p6#a231008p6)
+ - [How to get started using Metal Developer Tools for Windows](https://appleinsider.com/articles/23/10/08/how-to-get-started-using-metal-developer-tools-for-windows?utm_medium=rss)
+ - [Save $100 off Bose&#39;s Noise Cancelling Headphones 700     - CNET](https://www.cnet.com/deals/save-100-off-boses-noise-cancelling-headphones-700/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
