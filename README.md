@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2310.231005-2200&rpar;](https://news.xbox.com/en-us/2023/10/09/xbox-insider-release-notes-alpha-2310-231005-2200/)
- - [Netflix’s House of Usher, John Carpenter true crime, and more new TV this week](https://www.polygon.com/2023/10/9/23903001/new-tv-netflix-fall-house-usher-true-crime-frasier-anime-crunchyroll)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231005-2000&rpar;](https://news.xbox.com/en-us/2023/10/09/xbox-insider-release-notes-alpha-skip-ahead-2408-231005-2000/)<!-- GAME:END -->
+ - [Daedelic&#39;s bizarre Gollum apology was apparently written by ChatGPT and the studio didn&#39;t even get approval on it](https://www.pcgamer.com/daedelics-bizarre-gollum-apology-was-apparently-written-by-chatgpt-and-the-studio-didnt-even-get-approval-on-it)
+ - [Check out mindbending puzzles in The Talos Principle 2&#39;s specially made demo](https://www.pcgamer.com/check-out-mindbending-puzzles-in-the-talos-principle-2s-specially-made-demo)
+ - [Xbox Insider Release Notes – Alpha &lpar;2310.231005-2200&rpar;](https://news.xbox.com/en-us/2023/10/09/xbox-insider-release-notes-alpha-2310-231005-2200/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
