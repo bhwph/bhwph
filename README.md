@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [US CVN 78 Speed Last Week vs Today Heading Toward Israel](http://9gag.com/gag/arm0MyK)
- - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
- - 👉 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)<!-- MEMES:END -->
+ - 6️⃣ [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
+ - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 👉 [Mark Waid and George Perez waited their whole lives to write this](http://9gag.com/gag/aGEqpL5)<!-- MEMES:END -->
 
 --- 
 
