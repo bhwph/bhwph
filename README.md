@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)
+ - 6️⃣ [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
  - 😝 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
- - 👉 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)<!-- MEMES:END -->
+ - 👉 [Queen](http://9gag.com/gag/aoK6PAg)<!-- MEMES:END -->
 
 --- 
 
