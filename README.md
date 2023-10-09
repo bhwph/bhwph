@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
+ - 6️⃣ [Semen under the microscope](http://9gag.com/gag/anz39Yo)
  - 😝 [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)
- - 👉 [Voda](http://9gag.com/gag/a6qzE08)<!-- MEMES:END -->
+ - 👉 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)<!-- MEMES:END -->
 
 --- 
 
