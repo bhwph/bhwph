@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
- - 😝 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
- - 👉 [Savages](http://9gag.com/gag/aYVB77w)<!-- MEMES:END -->
+ - 6️⃣ [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
+ - 😝 [Voda](http://9gag.com/gag/a6qzE08)
+ - 👉 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)<!-- MEMES:END -->
 
 --- 
 
