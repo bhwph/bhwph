@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe is upgrading Photoshop’s generative AI model — and releasing more for Illustrator and Express](https://www.theverge.com/2023/10/10/23911114/adobe-max-firefly-generative-ai-model-photoshop-illustrator-express)
- - [Sony’s new PS5 with a removable disc drive launches in November](https://www.theverge.com/2023/10/10/23831415/new-ps5-model-removable-disc-drive-sony-price-release-date)
- - [The best phone deals of Prime Big Deal Days](https://www.theverge.com/23910382/amazon-october-prime-day-best-phone-deals-2023)<!-- TECH:END -->
+ - [Save up to 45% on SSD &amp; hard drive storage options for Mac during Amazon Prime Big Deal Days](https://appleinsider.com/articles/23/10/10/save-up-to-45-on-ssd-hard-drive-storage-options-for-mac-during-amazon-prime-big-deal-days?utm_medium=rss)
+ - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
+ - [The 148 best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
