@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Now Pink Rathian event times, armor and weapon list](https://www.polygon.com/monster-hunter-now-guides/23910975/pink-rathian-armor-weapons-weakness-event)
- - [Total War: Pharaoh is more of a pretender than a true heir](https://www.polygon.com/reviews/23899816/total-war-pharaoh-review-creative-assembly)
- - [Total War: Pharaoh review](https://www.pcgamer.com/total-war-pharaoh-review)<!-- GAME:END -->
+ - [Unity CEO out following widely criticized pricing model update](https://www.polygon.com/23911204/unity-ceo-john-riccitiello-retirement-pricing-model-controversy)
+ - [Prey upended expectations — now there are high ones for Prey 2](https://www.polygon.com/23906146/prey-2-sequel-director-dan-trachtenberg-prey-4k)
+ - [How Endless Dungeon And Artist Lera Lynn Created The Perfect Space Western Refuge](https://news.xbox.com/en-us/2023/10/10/endless-dungeon-lera-lynn-soundtrack/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
