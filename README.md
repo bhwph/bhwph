@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #843 for Tuesday, October 10](https://www.pcgamer.com/wordle-today-answer-843-october-10)
- - [Build some sick castles in the demo for fantasy survival game Enshrouded](https://www.pcgamer.com/build-some-sick-castles-in-the-demo-for-fantasy-survival-game-enshrouded)
- - [Unity CEO Riccitiello steps down, effective immediately](https://www.pcgamer.com/unity-ceo-steps-down-effective-immediately)<!-- GAME:END -->
+ - [Can Shroomish be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889426/can-shroomish-be-shiny-breloom)
+ - [The Best October Prime Day Deals On Storage Upgrades For PS5, Xbox, Switch, And PC](https://kotaku.com/amazon-prime-day-october-big-deal-storage-ps5-switch-pc-1850907400)
+ - [All The Best Game Deals From Amazon’s October Prime Day](https://kotaku.com/amazon-prime-big-deals-games-xbox-ps5-switch-october-1850906842)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
