@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - 😝 [But why tho?](http://9gag.com/gag/a2KVv9e)
- - 👉 [Maybe just maybe mass migration wasn&#39;t the best idea for Europe...?](http://9gag.com/gag/aOxO8pv)<!-- MEMES:END -->
+ - 6️⃣ [So it begins](http://9gag.com/gag/a1PnPKv)
+ - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - 👉 [Imagine witnessing your boyfriend being killed right in front of you and still defending your BLM cause. How damaged is your brain.](http://9gag.com/gag/aDYL2QZ)<!-- MEMES:END -->
 
 --- 
 
