@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CA Gov. Newsom signs a bill into law forcing VC firms to report on the diversity of founders they back; some worry about liability from releasing sensitive info &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/231010/p22#a231010p22)
- - [Hurry! Samsung Galaxy Tab S7 FE down to $399.99 in Lightning Deal](https://www.androidauthority.com/samsung-galaxy-tab-s7-fe-lightning-deal-3374353/)
- - [India&#39;s antitrust regulator investigating Apple&#39;s &amp; Google&#39;s business practices](https://appleinsider.com/articles/23/10/10/indias-antitrust-regulator-investigating-apples-googles-business-practices?utm_medium=rss)<!-- TECH:END -->
+ - [You can get the Galaxy Watch 5 Pro at an all time low right now](https://www.androidauthority.com/galaxy-watch-5-pro-deal-3374366/)
+ - [Google Meet adds support for 1080p in group video calls](https://www.theverge.com/2023/10/10/23911773/google-meet-workspace-1080p-full-hd-group-video-calls)
+ - [Is the Pixel Watch 2 a hit? Google is already running low on stock](https://www.androidauthority.com/pixel-watch-2-out-of-stock-3374385/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
