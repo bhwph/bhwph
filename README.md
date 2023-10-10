@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some people just can&#39;t handle their own company](http://9gag.com/gag/agobQBv)
- - 😝 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
- - 👉 [Those who know](http://9gag.com/gag/aVb8gKP)<!-- MEMES:END -->
+ - 6️⃣ [Sweden&#39;s far-right pushes for a change in citizenship laws and the ability to sentence minors to life in prison - `We should be able to revoke citizenships of terrorists and gang criminals. Integration policy is based on a lie. They have no connection to Swedish society.`](http://9gag.com/gag/aREGLGj)
+ - 😝 [Those who know](http://9gag.com/gag/aVb8gKP)
+ - 👉 [Go playboy!](http://9gag.com/gag/amAyoDV)<!-- MEMES:END -->
 
 --- 
 
