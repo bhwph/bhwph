@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)
- - 😝 [So it begins](http://9gag.com/gag/a1PnPKv)
- - 👉 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)<!-- MEMES:END -->
+ - 6️⃣ [So it begins](http://9gag.com/gag/a1PnPKv)
+ - 😝 [Hamas spoksman Abu Ubida: ` If Israel does not stop with the bombing, we will execute a hostage every hour and film it, so his family could watch`. Woman and children... Hamas=ISIS](http://9gag.com/gag/a1PnPYD)
+ - 👉 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)<!-- MEMES:END -->
 
 --- 
 
