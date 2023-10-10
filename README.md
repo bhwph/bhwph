@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - 😝 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
- - 👉 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)<!-- MEMES:END -->
+ - 😝 [But why tho?](http://9gag.com/gag/a2KVv9e)
+ - 👉 [Maybe just maybe mass migration wasn&#39;t the best idea for Europe...?](http://9gag.com/gag/aOxO8pv)<!-- MEMES:END -->
 
 --- 
 
