@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Tablet just dropped to lowest price ever for Prime members](https://www.androidauthority.com/google-pixel-tablet-amazon-prime-big-deal-days-sale-3373990/)
- - [Apple Watch Ultra 2, SE drop to as low as $199 during Amazon Prime Day](https://appleinsider.com/articles/23/10/10/apple-watch-ultra-2-se-drop-to-as-low-as-199-during-amazon-prime-day?utm_medium=rss)
- - [The Samsung Galaxy A54 5G is just $329.99 for the first time](https://www.androidauthority.com/samsung-galaxy-a54-5g-prime-deal-3373947/)<!-- TECH:END -->
+ - [9 Best Prime Day Kindle Deals &lpar;2023&rpar; for Book Lovers](https://www.wired.com/story/best-amazon-kindle-deals-prime-day-october-2023-1/)
+ - [Activision Blizzard’s latest games will start arriving on Xbox Game Pass in 2024 if Microsoft deal closes](https://www.theverge.com/2023/10/10/23910961/microsoft-activision-blizzard-xbox-game-pass-2024-titles)
+ - [X now lets users block unverified accounts from replying to their posts, potentially limiting how the community can push back on misinformation &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/231010/p5#a231010p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
