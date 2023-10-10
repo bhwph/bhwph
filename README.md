@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global PC shipments fell 7.6% YoY to 68.2M in Q3 2023; among the top five vendors, Apple experienced the largest decline, down 23.1%, and only HP grew, up 6.4% &lpar;IDC&rpar;](http://www.techmeme.com/231010/p2#a231010p2)
- - [Animal Crossing: New Horizons Is The Cozy Game I Needed This Year     - CNET](https://www.cnet.com/tech/gaming/animal-crossing-new-horizons-is-the-cozy-game-i-needed-this-year/#ftag=CAD590a51e)
- - [Austin-based Saronic, a startup developing autonomous ships for the US Navy and US-aligned defense customers, raised a $55M Series A led by Caffeinated Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231010/p1#a231010p1)<!-- TECH:END -->
+ - [Google Pixel Tablet just dropped to lowest price ever for Prime members](https://www.androidauthority.com/google-pixel-tablet-amazon-prime-big-deal-days-sale-3373990/)
+ - [Apple Watch Ultra 2, SE drop to as low as $199 during Amazon Prime Day](https://appleinsider.com/articles/23/10/10/apple-watch-ultra-2-se-drop-to-as-low-as-199-during-amazon-prime-day?utm_medium=rss)
+ - [The Samsung Galaxy A54 5G is just $329.99 for the first time](https://www.androidauthority.com/samsung-galaxy-a54-5g-prime-deal-3373947/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
