@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)
- - [The OnePlus Open foldable could be arriving in the US as soon as next week](https://www.theverge.com/2023/10/10/23911042/oneplus-open-folding-phone-us-release-price-android-leak)
- - [Judge blasts Sonos for abusing patent system and throws out $32.5 million win against Google](https://www.theverge.com/2023/10/10/23910694/sonos-google-patent-verdict-thrown-out-alsup)<!-- TECH:END -->
+ - [Adobe is upgrading Photoshop’s generative AI model — and releasing more for Illustrator and Express](https://www.theverge.com/2023/10/10/23911114/adobe-max-firefly-generative-ai-model-photoshop-illustrator-express)
+ - [Sony’s new PS5 with a removable disc drive launches in November](https://www.theverge.com/2023/10/10/23831415/new-ps5-model-removable-disc-drive-sony-price-release-date)
+ - [The best phone deals of Prime Big Deal Days](https://www.theverge.com/23910382/amazon-october-prime-day-best-phone-deals-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
