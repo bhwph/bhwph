@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So it begins](http://9gag.com/gag/a1PnPKv)
- - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - 👉 [Imagine witnessing your boyfriend being killed right in front of you and still defending your BLM cause. How damaged is your brain.](http://9gag.com/gag/aDYL2QZ)<!-- MEMES:END -->
+ - 6️⃣ [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)
+ - 😝 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
+ - 👉 [But why tho?](http://9gag.com/gag/a2KVv9e)<!-- MEMES:END -->
 
 --- 
 
