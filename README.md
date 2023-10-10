@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best October Prime Day TV Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-tv-deals-october-2023-1/)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [Passkeys are here to make your Google account password obsolete](https://www.androidauthority.com/google-account-passkeys-default-3374099/)<!-- TECH:END -->
+ - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)
+ - [The OnePlus Open foldable could be arriving in the US as soon as next week](https://www.theverge.com/2023/10/10/23911042/oneplus-open-folding-phone-us-release-price-android-leak)
+ - [Judge blasts Sonos for abusing patent system and throws out $32.5 million win against Google](https://www.theverge.com/2023/10/10/23910694/sonos-google-patent-verdict-thrown-out-alsup)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
