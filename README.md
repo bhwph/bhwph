@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Excellent stealth game Spirited Thief was so sneaky it came out on Steam and nobody noticed](https://www.pcgamer.com/spirited-thief-stealth-game-was-so-sneaky-it-came-out-on-steam-and-nobody-noticed)
- - [Rocket League Will Ban Item Trading, Nuking Market For Secondhand Skins](https://kotaku.com/rocket-league-item-trading-alpha-boost-epic-season-13-1850915360)
- - [The best horror movies of 2023, ranked by scariness](https://www.polygon.com/23640102/best-horror-movies-2023-how-scary)<!-- GAME:END -->
+ - [RIP Rocket League economy: player-to-player item trading is being removed in December](https://www.pcgamer.com/rocket-league-player-trading)
+ - [Sorry, but the 8-hour demo of co-op survival RPG Enshrouded isn&#39;t long enough for me](https://www.pcgamer.com/sorry-but-the-8-hour-demo-of-co-op-survival-rpg-enshrouded-isnt-long-enough-for-me)
+ - [Stardew Valley&#39;s beloved soundtrack is going on an international concert tour in the &#39;Festival of Seasons&#39;](https://www.pcgamer.com/stardew-valleys-beloved-soundtrack-is-going-on-an-international-concert-tour-in-the-festival-of-seasons)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
