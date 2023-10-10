@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unity CEO John Riccitiello Steps Down After Pricing Blowup](https://www.wired.com/story/john-riccitello-retires-unity-ceo-controversy/)
- - [California Gov. Gavin Newsom signs AB 1394, a bill to hold social media platforms and other web services liable for &quot;knowingly facilitating&quot; commercial CSAM &lpar;Queenie Wong/Los Angeles Times&rpar;](http://www.techmeme.com/231009/p19#a231009p19)
- - [X CEO Linda Yaccarino drops out of the WSJ Tech Live conference](https://www.theverge.com/2023/10/9/23910453/linda-yaccarino-wsj-tech-live-twitter-x)<!-- TECH:END -->
+ - [8 Best All-Clad Cookware Deals Right Now &lpar;October 2023&rpar;](https://www.wired.com/story/all-clad-deals/)
+ - [Best Fitness Deals for October Prime Day Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-fitness-deals-2023/#ftag=CAD590a51e)
+ - [Best Prime Day Laptop Deals Available Right Now     - CNET](https://www.cnet.com/deals/best-prime-day-laptop-deals-available-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
