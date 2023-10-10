@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Squishmallows, Lego, and more discounted for Prime Day](https://www.polygon.com/amazon-prime-day/23891080/best-toy-plushie-deals)
- - [Fall-ing for Lil Gator Game](https://news.xbox.com/en-us/2023/10/10/fall-ing-for-lil-gator-game/)
- - [Mission: Impossible 7 used a jet engine as a secret weapon for its sandstorm shootout](https://www.polygon.com/23911358/mission-impossible-dead-reckoning-part-1-behind-the-scenes-4k-release)<!-- GAME:END -->
+ - [Excellent stealth game Spirited Thief was so sneaky it came out on Steam and nobody noticed](https://www.pcgamer.com/spirited-thief-stealth-game-was-so-sneaky-it-came-out-on-steam-and-nobody-noticed)
+ - [Rocket League Will Ban Item Trading, Nuking Market For Secondhand Skins](https://kotaku.com/rocket-league-item-trading-alpha-boost-epic-season-13-1850915360)
+ - [The best horror movies of 2023, ranked by scariness](https://www.polygon.com/23640102/best-horror-movies-2023-how-scary)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
