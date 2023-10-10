@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to piss off 100% of people with one picture.](http://9gag.com/gag/ajVj5M0)
- - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
- - 👉 [So, How is your multiculturalism going?](http://9gag.com/gag/anz3zYq)<!-- MEMES:END -->
+ - 6️⃣ [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)
+ - 😝 [So it begins](http://9gag.com/gag/a1PnPKv)
+ - 👉 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)<!-- MEMES:END -->
 
 --- 
 
