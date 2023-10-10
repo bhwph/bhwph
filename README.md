@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Prime Day Kindle Deals &lpar;2023&rpar; for Book Lovers](https://www.wired.com/story/best-amazon-kindle-deals-prime-day-october-2023-1/)
- - [Activision Blizzard’s latest games will start arriving on Xbox Game Pass in 2024 if Microsoft deal closes](https://www.theverge.com/2023/10/10/23910961/microsoft-activision-blizzard-xbox-game-pass-2024-titles)
- - [X now lets users block unverified accounts from replying to their posts, potentially limiting how the community can push back on misinformation &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/231010/p5#a231010p5)<!-- TECH:END -->
+ - [12 Best October Prime Day TV Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-tv-deals-october-2023-1/)
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
+ - [Passkeys are here to make your Google account password obsolete](https://www.androidauthority.com/google-account-passkeys-default-3374099/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
