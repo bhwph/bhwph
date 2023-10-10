@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unity CEO out following widely criticized pricing model update](https://www.polygon.com/23911204/unity-ceo-john-riccitiello-retirement-pricing-model-controversy)
- - [Prey upended expectations — now there are high ones for Prey 2](https://www.polygon.com/23906146/prey-2-sequel-director-dan-trachtenberg-prey-4k)
- - [How Endless Dungeon And Artist Lera Lynn Created The Perfect Space Western Refuge](https://news.xbox.com/en-us/2023/10/10/endless-dungeon-lera-lynn-soundtrack/)<!-- GAME:END -->
+ - [Squishmallows, Lego, and more discounted for Prime Day](https://www.polygon.com/amazon-prime-day/23891080/best-toy-plushie-deals)
+ - [Fall-ing for Lil Gator Game](https://news.xbox.com/en-us/2023/10/10/fall-ing-for-lil-gator-game/)
+ - [Mission: Impossible 7 used a jet engine as a secret weapon for its sandstorm shootout](https://www.polygon.com/23911358/mission-impossible-dead-reckoning-part-1-behind-the-scenes-4k-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
