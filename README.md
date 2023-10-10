@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #843 for Tuesday, October 10](https://www.pcgamer.com/wordle-today-answer-843-october-10)
  - [Build some sick castles in the demo for fantasy survival game Enshrouded](https://www.pcgamer.com/build-some-sick-castles-in-the-demo-for-fantasy-survival-game-enshrouded)
- - [Unity CEO Riccitiello steps down, effective immediately](https://www.pcgamer.com/unity-ceo-steps-down-effective-immediately)
- - [Activision Blizzard Games Should Hit Game Pass In 2024](https://kotaku.com/game-pass-xbox-activision-blizzard-microsoft-cod-1850913118)<!-- GAME:END -->
+ - [Unity CEO Riccitiello steps down, effective immediately](https://www.pcgamer.com/unity-ceo-steps-down-effective-immediately)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
