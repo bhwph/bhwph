@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to 45% on SSD &amp; hard drive storage options for Mac during Amazon Prime Big Deal Days](https://appleinsider.com/articles/23/10/10/save-up-to-45-on-ssd-hard-drive-storage-options-for-mac-during-amazon-prime-big-deal-days?utm_medium=rss)
- - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
- - [The 148 best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)<!-- TECH:END -->
+ - [CA Gov. Newsom signs a bill into law forcing VC firms to report on the diversity of founders they back; some worry about liability from releasing sensitive info &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/231010/p22#a231010p22)
+ - [Hurry! Samsung Galaxy Tab S7 FE down to $399.99 in Lightning Deal](https://www.androidauthority.com/samsung-galaxy-tab-s7-fe-lightning-deal-3374353/)
+ - [India&#39;s antitrust regulator investigating Apple&#39;s &amp; Google&#39;s business practices](https://appleinsider.com/articles/23/10/10/indias-antitrust-regulator-investigating-apples-googles-business-practices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
