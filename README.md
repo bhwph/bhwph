@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Xbox Sales and Specials, Including the Wish List Sale](https://news.xbox.com/en-us/2023/10/10/this-weeks-xbox-sales-and-specials-including-the-wish-list-sale/)
- - [If you buy one thing for Prime Day, make it the Mörk Borg TTRPG](https://www.polygon.com/amazon-prime-day/23901291/mork-borg-ttrpg-tabletop-game)
- - [October Prime Day is bustling with great board game deals](https://www.polygon.com/amazon-prime-day/23891084/board-games-tabletop-deals)<!-- GAME:END -->
+ - [Monster Hunter Now Pink Rathian event times, armor and weapon list](https://www.polygon.com/monster-hunter-now-guides/23910975/pink-rathian-armor-weapons-weakness-event)
+ - [Total War: Pharaoh is more of a pretender than a true heir](https://www.polygon.com/reviews/23899816/total-war-pharaoh-review-creative-assembly)
+ - [Total War: Pharaoh review](https://www.pcgamer.com/total-war-pharaoh-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
