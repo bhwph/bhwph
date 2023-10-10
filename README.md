@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So it begins](http://9gag.com/gag/a1PnPKv)
- - 😝 [Hamas spoksman Abu Ubida: ` If Israel does not stop with the bombing, we will execute a hostage every hour and film it, so his family could watch`. Woman and children... Hamas=ISIS](http://9gag.com/gag/a1PnPYD)
- - 👉 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)<!-- MEMES:END -->
+ - 6️⃣ [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
+ - 😝 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
+ - 👉 [Savages](http://9gag.com/gag/aYVB77w)<!-- MEMES:END -->
 
 --- 
 
