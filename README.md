@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)
- - 😝 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
- - 👉 [Wow!!](http://9gag.com/gag/axo8v6b)<!-- MEMES:END -->
+ - 6️⃣ [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
+ - 😝 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - 👉 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)<!-- MEMES:END -->
 
 --- 
 
