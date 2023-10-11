@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Geralt of Rivia, Clive Rosfield, and Mr. Hands walk into a tavern: a new Dungeons &amp; Dragons web series is in the works](https://www.pcgamer.com/geralt-of-rivia-clive-rosfield-and-mr-hands-walk-into-a-tavern-a-new-dungeons-and-dragons-web-series-is-in-the-works)
- - [Feel the Road Beneath Your Wheels in Forza Motorsport with Designed for Xbox Racing Setups](https://news.xbox.com/en-us/2023/10/11/designed-for-xbox-racing-wheels/)
- - [Follow the Fiery Trail quest walkthrough in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23911373/follow-the-fiery-trail-walkthrough-book-burner-caretaker-scriptorium-zahra)<!-- GAME:END -->
+ - [Baldur’s Gate 3 Players Found An Incredible Way To Keep Minthara Alive In A ‘Good’ Playthrough](https://kotaku.com/baldurs-gate-3-recruit-minthara-sheep-save-tieflings-1850917976)
+ - [Hoto’s electric screwdriver for DIY repairs is 65% off during Prime Day](https://www.polygon.com/deals/2023/7/19/23800223/electric-screwdriver-console-controller-repair-hoto-diy-deal)
+ - [Dragon Ball Xenoverse 2 Celebrates Its 7th Birthday With a Huge Update](https://news.xbox.com/en-us/2023/10/11/dragon-ball-xenoverse-2-7th-birthday-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
