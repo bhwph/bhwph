@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research: Palestinian Islamic Jihad-linked crypto wallets received ~$93M between August 2021-June 2023; Hamas-linked ones received ~$41M over a similar period &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231010/p35#a231010p35)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [October Amazon Prime Day Vacuum Deals Are Here     - CNET](https://www.cnet.com/deals/the-prime-day-vacuum-deals-are-here/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus 12 camera specs leak: A major zoom upgrade for OnePlus?](https://www.androidauthority.com/oneplus-12-camera-specs-leak-3374538/)
+ - [Some chemicals suppliers to TSMC plan to enter Europe, claiming EU chipmakers&#39; manufacturing processes had become inefficient and their supply chains atrophied &lpar;Financial Times&rpar;](http://www.techmeme.com/231011/p2#a231011p2)
+ - [California adopts Right-to-Repair law: Here’s what’s changing for you](https://www.androidauthority.com/california-right-to-repair-law-3374535/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
