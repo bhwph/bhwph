@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe made an animated dress &lpar;and a bunch of wild AI editing tools&rpar;](https://www.theverge.com/2023/10/11/23912614/adobe-max-sneaks-generative-ai-audio-3d-tech-preview)
- - [Razer has so many crazy discounts right now, we don’t even know where to begin](https://www.androidauthority.com/razer-deals-big-deal-days-2023-3374899/)
- - [The best phone deals of Prime Big Deal Days](https://www.theverge.com/23910382/amazon-october-prime-day-best-phone-deals-2023)<!-- TECH:END -->
+ - [One of our favorite smartwatches for Android users is down to $170](https://www.theverge.com/2023/10/11/23909154/amazfit-gtr-4-android-smartwatch-fitness-tracker-october-prime-day-deal-sale)
+ - [The best Prime Day smart home deals](https://www.theverge.com/23906464/amazon-october-prime-day-best-smart-home-deals-device-google-alexa-2023)
+ - [MacBook Pro will get OLED in 2026 from new Samsung factory](https://appleinsider.com/articles/23/04/04/samsung-invests-31b-into-oled-production-for-ipad-and-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
