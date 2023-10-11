@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sweden&#39;s far-right pushes for a change in citizenship laws and the ability to sentence minors to life in prison - `We should be able to revoke citizenships of terrorists and gang criminals. Integration policy is based on a lie. They have no connection to Swedish society.`](http://9gag.com/gag/aREGLGj)
- - 😝 [Those who know](http://9gag.com/gag/aVb8gKP)
+ - 6️⃣ [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)
+ - 😝 [What would we do without](http://9gag.com/gag/aVb8gpO)
  - 👉 [Go playboy!](http://9gag.com/gag/amAyoDV)<!-- MEMES:END -->
 
 --- 
