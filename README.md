@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Squishmallows, Lego, and more discounted for Prime Day](https://www.polygon.com/amazon-prime-day/23891080/best-toy-plushie-deals)
- - [Destiny 2 Offers Players $45 Credit After Banning Them By Mistake](https://kotaku.com/destiny-2-bungie-ban-cheating-trials-osiris-appeal-ps5-1850917629)
- - [In the new PUBG update, chicken is for losers too](https://www.polygon.com/23912908/pubg-kfc-meal-erangel-update)<!-- GAME:END -->
+ - [You can watch the biggest panels from New York Comic Con 2023 from home](https://www.polygon.com/nycc/23912747/new-york-comic-con-2023-nycc-streaming-schedule-panels)
+ - [PS5 Finally Gets Cloud Gaming Later This Month](https://kotaku.com/sony-playstation-ps5-ps-plus-cloud-gaming-spider-man-1850919228)
+ - [Apple’s iPad, a great companion for comics, gaming, and more, is $80 off](https://www.polygon.com/amazon-prime-day/23913309/apple-ipad-deal-october)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
