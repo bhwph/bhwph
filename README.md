@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)
- - 😝 [Genuine question, Egypt could theoretically open up the Rafah border crossing and let in some innocent refugees from Gaza. What&#39;s stopping them](http://9gag.com/gag/aWGAGz6)
+ - 6️⃣ [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
+ - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
  - 👉 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
 
 --- 
