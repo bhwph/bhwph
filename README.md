@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of our favorite smartwatches for Android users is down to $170](https://www.theverge.com/2023/10/11/23909154/amazfit-gtr-4-android-smartwatch-fitness-tracker-october-prime-day-deal-sale)
- - [The best Prime Day smart home deals](https://www.theverge.com/23906464/amazon-october-prime-day-best-smart-home-deals-device-google-alexa-2023)
- - [MacBook Pro will get OLED in 2026 from new Samsung factory](https://appleinsider.com/articles/23/04/04/samsung-invests-31b-into-oled-production-for-ipad-and-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Google triumphant over Sonos in smart speaker patent battle](https://appleinsider.com/articles/23/10/11/google-triumphant-over-sonos-in-smart-speaker-patent-battle?utm_medium=rss)
+ - [The latest Apple Watch SE is matching its best price to date for Prime Day](https://www.theverge.com/good-deals/2023/10/11/23913116/apple-watch-se-smartwatch-october-prime-day-2023-deal-sale)
+ - [The EU’s Threats to Elon Musk Are Empty, Sources Say](https://www.wired.com/story/the-eu-is-playing-by-elon-musks-rules/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
