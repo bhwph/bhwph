@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RIP Rocket League economy: player-to-player item trading is being removed in December](https://www.pcgamer.com/rocket-league-player-trading)
- - [Sorry, but the 8-hour demo of co-op survival RPG Enshrouded isn&#39;t long enough for me](https://www.pcgamer.com/sorry-but-the-8-hour-demo-of-co-op-survival-rpg-enshrouded-isnt-long-enough-for-me)
- - [Stardew Valley&#39;s beloved soundtrack is going on an international concert tour in the &#39;Festival of Seasons&#39;](https://www.pcgamer.com/stardew-valleys-beloved-soundtrack-is-going-on-an-international-concert-tour-in-the-festival-of-seasons)<!-- GAME:END -->
+ - [Polygon’s favorite October Prime Day deals](https://www.polygon.com/amazon-prime-day/23885361/deals-gaming-toys-board-games-october-2023)
+ - [October Prime Day is bustling with great board game deals](https://www.polygon.com/amazon-prime-day/23891084/board-games-tabletop-deals)
+ - [Diablo 4&#39;s strongest builds are being nerfed in the name of increasing build variety: &#39;Our goal is not to make you weaker&#39;](https://www.pcgamer.com/diablo-4s-strongest-builds-are-being-nerfed-in-the-name-of-increasing-build-variety-our-goal-is-not-to-make-you-weaker)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
