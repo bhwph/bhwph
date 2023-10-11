@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google triumphant over Sonos in smart speaker patent battle](https://appleinsider.com/articles/23/10/11/google-triumphant-over-sonos-in-smart-speaker-patent-battle?utm_medium=rss)
- - [The latest Apple Watch SE is matching its best price to date for Prime Day](https://www.theverge.com/good-deals/2023/10/11/23913116/apple-watch-se-smartwatch-october-prime-day-2023-deal-sale)
- - [The EU’s Threats to Elon Musk Are Empty, Sources Say](https://www.wired.com/story/the-eu-is-playing-by-elon-musks-rules/)<!-- TECH:END -->
+ - [Here are three Pixel 8 features that didn’t make the cut](https://www.androidauthority.com/pixel-8-features-scrapped-3375014/)
+ - [3 of the best Samsung gaming monitors are at their lowest price of the year](https://www.androidauthority.com/samsung-gaming-monitor-deals-3374984/)
+ - [46 Best Prime Day Apple Deals &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-day-apple-deals-october-2023-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
