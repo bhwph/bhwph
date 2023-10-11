@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can get the Galaxy Watch 5 Pro at an all time low right now](https://www.androidauthority.com/galaxy-watch-5-pro-deal-3374366/)
- - [Google Meet adds support for 1080p in group video calls](https://www.theverge.com/2023/10/10/23911773/google-meet-workspace-1080p-full-hd-group-video-calls)
- - [Is the Pixel Watch 2 a hit? Google is already running low on stock](https://www.androidauthority.com/pixel-watch-2-out-of-stock-3374385/)<!-- TECH:END -->
+ - [Best Prime Day router deals: save up to 55% on networking gear](https://appleinsider.com/articles/23/10/11/best-prime-day-router-deals-save-up-to-55-on-networking-gear?utm_medium=rss)
+ - [October Amazon Prime Day&#39;s Best Amazon Device Deals Are Live Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-amazon-device-deals/#ftag=CAD590a51e)
+ - [Gordon Ramsay-Endorsed Pan That Went Viral on TikTok Now 37% Off     - CNET](https://www.cnet.com/news/gordon-ramsay-endorsed-pan-that-went-viral-on-tiktok-now-37-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
