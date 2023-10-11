@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
- - 😝 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)
- - 👉 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)<!-- MEMES:END -->
+ - 6️⃣ [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 😝 [Jake Brown Falls 50ft and walks away](http://9gag.com/gag/aGEqzDz)
+ - 👉 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
 
 --- 
 
