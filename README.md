@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [7 things I wish I knew before playing Total War: Pharaoh](https://www.pcgamer.com/7-things-i-wish-i-knew-before-playing-total-war-pharaoh)
- - [How Zoo Tycoon Became a Fully-Licensed Xbox Board Game](https://news.xbox.com/en-us/2023/10/11/zoo-tycoon-xbox-board-game/)
- - [Your favourite Baldur&#39;s Gate 2 companions were &#39;a bunch of cardboard cutouts&#39; until the game&#39;s director played Final Fantasy 7 and felt the heat of competition](https://www.pcgamer.com/your-favourite-baldurs-gate-2-companions-were-a-bunch-of-cardboard-cut-outs-until-the-games-director-played-final-fantasy-7-and-felt-the-heat-of-competition)<!-- GAME:END -->
+ - [Geralt of Rivia, Clive Rosfield, and Mr. Hands walk into a tavern: a new Dungeons &amp; Dragons web series is in the works](https://www.pcgamer.com/geralt-of-rivia-clive-rosfield-and-mr-hands-walk-into-a-tavern-a-new-dungeons-and-dragons-web-series-is-in-the-works)
+ - [Feel the Road Beneath Your Wheels in Forza Motorsport with Designed for Xbox Racing Setups](https://news.xbox.com/en-us/2023/10/11/designed-for-xbox-racing-wheels/)
+ - [Follow the Fiery Trail quest walkthrough in Assassin’s Creed Mirage](https://www.polygon.com/assassins-creed-mirage-guides/23911373/follow-the-fiery-trail-walkthrough-book-burner-caretaker-scriptorium-zahra)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
