@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 Players Found An Incredible Way To Keep Minthara Alive In A ‘Good’ Playthrough](https://kotaku.com/baldurs-gate-3-recruit-minthara-sheep-save-tieflings-1850917976)
- - [Hoto’s electric screwdriver for DIY repairs is 65% off during Prime Day](https://www.polygon.com/deals/2023/7/19/23800223/electric-screwdriver-console-controller-repair-hoto-diy-deal)
- - [Dragon Ball Xenoverse 2 Celebrates Its 7th Birthday With a Huge Update](https://news.xbox.com/en-us/2023/10/11/dragon-ball-xenoverse-2-7th-birthday-update/)<!-- GAME:END -->
+ - [Squishmallows, Lego, and more discounted for Prime Day](https://www.polygon.com/amazon-prime-day/23891080/best-toy-plushie-deals)
+ - [Destiny 2 Offers Players $45 Credit After Banning Them By Mistake](https://kotaku.com/destiny-2-bungie-ban-cheating-trials-osiris-appeal-ps5-1850917629)
+ - [In the new PUBG update, chicken is for losers too](https://www.polygon.com/23912908/pubg-kfc-meal-erangel-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
