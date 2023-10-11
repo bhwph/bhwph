@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple spent $200M to $250M on Killers of the Flower Moon, debuting October 20, the first test of Apple&#39;s plans to spend $1B per year on movies for theaters &lpar;Bloomberg&rpar;](http://www.techmeme.com/231011/p11#a231011p11)
- - [41 Best Amazon Prime Day Deals Under $50 &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-october-2023-4/)
- - [Sam Bankman-Fried wrote a series of unpublished posts in 2022 announcing Alameda&#39;s closure due to the &quot;burden&quot; of &quot;FUD around Alameda&#39;s relationship with FTX&quot; &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/231011/p10#a231011p10)<!-- TECH:END -->
+ - [OLED displays are coming to iPad mini &amp; iPad Air soon, says obvious rumor](https://appleinsider.com/articles/23/10/11/oled-displays-are-coming-to-ipad-mini-ipad-air-soon-says-obvious-rumor?utm_medium=rss)
+ - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
+ - [The FTC proposes a new rule to require ticket sellers and others to show the total price to users upfront; Ticketmaster and SeatGeek have pledged all-in pricing &lpar;Caitlin Huston/Hollywood Reporter&rpar;](http://www.techmeme.com/231011/p17#a231011p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
