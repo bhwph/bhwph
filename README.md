@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OLED displays are coming to iPad mini &amp; iPad Air soon, says obvious rumor](https://appleinsider.com/articles/23/10/11/oled-displays-are-coming-to-ipad-mini-ipad-air-soon-says-obvious-rumor?utm_medium=rss)
- - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
- - [The FTC proposes a new rule to require ticket sellers and others to show the total price to users upfront; Ticketmaster and SeatGeek have pledged all-in pricing &lpar;Caitlin Huston/Hollywood Reporter&rpar;](http://www.techmeme.com/231011/p17#a231011p17)<!-- TECH:END -->
+ - [FTC lays out new rule that could end hidden fees](https://www.theverge.com/2023/10/11/23912563/ftc-proposal-junk-hidden-fees)
+ - [Polar announces new Vantage V3 watch for preorder](https://www.theverge.com/2023/10/11/23912623/polar-new-vantage-v3-watch-fitness-wearables)
+ - [Bernstein estimates Google pays Apple $18B to $20B per year, or 14% to 16% of Apple&#39;s operating profits, for default search; the DOJ values the deal at ~$10B &lpar;Paul Kunert/The Register&rpar;](http://www.techmeme.com/231011/p23#a231011p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
