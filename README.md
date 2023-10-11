@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
- - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - 👉 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
+ - 6️⃣ [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
+ - 😝 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)
+ - 👉 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)<!-- MEMES:END -->
 
 --- 
 
