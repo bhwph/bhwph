@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can watch the biggest panels from New York Comic Con 2023 from home](https://www.polygon.com/nycc/23912747/new-york-comic-con-2023-nycc-streaming-schedule-panels)
- - [PS5 Finally Gets Cloud Gaming Later This Month](https://kotaku.com/sony-playstation-ps5-ps-plus-cloud-gaming-spider-man-1850919228)
- - [Apple’s iPad, a great companion for comics, gaming, and more, is $80 off](https://www.polygon.com/amazon-prime-day/23913309/apple-ipad-deal-october)<!-- GAME:END -->
+ - [Elephant Peach just awakened something in Bowser](https://www.polygon.com/23913530/super-mario-bros-wonder-bowser-peach-elephant-fetish)
+ - [Valve adds new security check after attackers compromise Steam accounts of multiple game devs and update their games with malware](https://www.pcgamer.com/steam-malware-attack-new-security)
+ - [Bungie is giving Destiny 2 players $45 of in-game currency to say sorry for accidentally banning them from the game](https://www.pcgamer.com/bungie-is-giving-destiny-2-players-dollar45-of-in-game-currency-to-say-sorry-for-accidentally-banning-them-from-the-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
