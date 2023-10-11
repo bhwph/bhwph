@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day router deals: save up to 55% on networking gear](https://appleinsider.com/articles/23/10/11/best-prime-day-router-deals-save-up-to-55-on-networking-gear?utm_medium=rss)
- - [October Amazon Prime Day&#39;s Best Amazon Device Deals Are Live Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-amazon-device-deals/#ftag=CAD590a51e)
- - [Gordon Ramsay-Endorsed Pan That Went Viral on TikTok Now 37% Off     - CNET](https://www.cnet.com/news/gordon-ramsay-endorsed-pan-that-went-viral-on-tiktok-now-37-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save up to 45% on SSD &amp; hard drive storage options for Mac during Amazon Prime Big Deal Days](https://appleinsider.com/articles/23/10/10/save-up-to-45-on-ssd-hard-drive-storage-options-for-mac-during-amazon-prime-big-deal-days?utm_medium=rss)
+ - [Apple-backed right to repair bill now law in California](https://appleinsider.com/articles/23/10/11/apple-backed-right-to-repair-bill-now-law-in-california?utm_medium=rss)
+ - [Online used car marketplace Shift files for Chapter 11 bankruptcy and begins the process to shut down its business, after going public via a SPAC merger in 2020 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/231010/p33#a231010p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
