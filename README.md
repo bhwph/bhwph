@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When is Call of Duty coming to Game Pass?](https://www.polygon.com/gaming/23911151/call-of-duty-game-pass-release)
- - [Under the Hood with Turn 10 Studios: Forza Motorsport](https://news.microsoft.com/source/?post_type=shortform&p=5570#new_tab)
- - [Honkai: Star Rail codes for October 2023](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
+ - [7 things I wish I knew before playing Total War: Pharaoh](https://www.pcgamer.com/7-things-i-wish-i-knew-before-playing-total-war-pharaoh)
+ - [How Zoo Tycoon Became a Fully-Licensed Xbox Board Game](https://news.xbox.com/en-us/2023/10/11/zoo-tycoon-xbox-board-game/)
+ - [Your favourite Baldur&#39;s Gate 2 companions were &#39;a bunch of cardboard cutouts&#39; until the game&#39;s director played Final Fantasy 7 and felt the heat of competition](https://www.pcgamer.com/your-favourite-baldurs-gate-2-companions-were-a-bunch-of-cardboard-cut-outs-until-the-games-director-played-final-fantasy-7-and-felt-the-heat-of-competition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
