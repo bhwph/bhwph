@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC lays out new rule that could end hidden fees](https://www.theverge.com/2023/10/11/23912563/ftc-proposal-junk-hidden-fees)
- - [Polar announces new Vantage V3 watch for preorder](https://www.theverge.com/2023/10/11/23912623/polar-new-vantage-v3-watch-fitness-wearables)
- - [Bernstein estimates Google pays Apple $18B to $20B per year, or 14% to 16% of Apple&#39;s operating profits, for default search; the DOJ values the deal at ~$10B &lpar;Paul Kunert/The Register&rpar;](http://www.techmeme.com/231011/p23#a231011p23)<!-- TECH:END -->
+ - [Adobe made an animated dress &lpar;and a bunch of wild AI editing tools&rpar;](https://www.theverge.com/2023/10/11/23912614/adobe-max-sneaks-generative-ai-audio-3d-tech-preview)
+ - [Razer has so many crazy discounts right now, we don’t even know where to begin](https://www.androidauthority.com/razer-deals-big-deal-days-2023-3374899/)
+ - [The best phone deals of Prime Big Deal Days](https://www.theverge.com/23910382/amazon-october-prime-day-best-phone-deals-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
