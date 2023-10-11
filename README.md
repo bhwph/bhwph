@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 12 camera specs leak: A major zoom upgrade for OnePlus?](https://www.androidauthority.com/oneplus-12-camera-specs-leak-3374538/)
- - [Some chemicals suppliers to TSMC plan to enter Europe, claiming EU chipmakers&#39; manufacturing processes had become inefficient and their supply chains atrophied &lpar;Financial Times&rpar;](http://www.techmeme.com/231011/p2#a231011p2)
- - [California adopts Right-to-Repair law: Here’s what’s changing for you](https://www.androidauthority.com/california-right-to-repair-law-3374535/)<!-- TECH:END -->
+ - [Sources: several startups, VCs, and PE firms are exploring investments in Indian banks, which may help cut capital acquisition costs for local fintech startups &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231011/p7#a231011p7)
+ - [An investigation details the Intellexa Alliance, a shady group of European companies that marketed and sold spyware like Predator to authoritarian regimes &lpar;Spiegel Online&rpar;](http://www.techmeme.com/231011/p6#a231011p6)
+ - [Best Amazon Prime Day tech deals to shop on Day 2](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
