@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A short and witty title does the trick.](http://9gag.com/gag/aEqbVxK)
- - 😝 [Genuine question, Egypt could theoretically open up the Rafah border crossing and let in some innocent refugees from Gaza. What&#39;s stopping them](http://9gag.com/gag/aWGAGz6)
- - 👉 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)<!-- MEMES:END -->
+ - 6️⃣ [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 😝 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)
+ - 👉 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)<!-- MEMES:END -->
 
 --- 
 
