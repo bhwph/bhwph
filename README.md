@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: several startups, VCs, and PE firms are exploring investments in Indian banks, which may help cut capital acquisition costs for local fintech startups &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231011/p7#a231011p7)
- - [An investigation details the Intellexa Alliance, a shady group of European companies that marketed and sold spyware like Predator to authoritarian regimes &lpar;Spiegel Online&rpar;](http://www.techmeme.com/231011/p6#a231011p6)
- - [Best Amazon Prime Day tech deals to shop on Day 2](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)<!-- TECH:END -->
+ - [Apple spent $200M to $250M on Killers of the Flower Moon, debuting October 20, the first test of Apple&#39;s plans to spend $1B per year on movies for theaters &lpar;Bloomberg&rpar;](http://www.techmeme.com/231011/p11#a231011p11)
+ - [41 Best Amazon Prime Day Deals Under $50 &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-october-2023-4/)
+ - [Sam Bankman-Fried wrote a series of unpublished posts in 2022 announcing Alameda&#39;s closure due to the &quot;burden&quot; of &quot;FUD around Alameda&#39;s relationship with FTX&quot; &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/231011/p10#a231011p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
