@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 could be first to get new thinner &amp; lighter motherboard tech](https://appleinsider.com/articles/23/10/12/iphone-17-could-be-first-to-get-new-thinner-lighter-motherboard-tech?utm_medium=rss)
- - [Sources: EU launched a probe into X over hosting misinformation in the wake of Hamas&#39; attack on Israel; X could be fined up to 5% of its daily global turnover &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231012/p29#a231012p29)
- - [The best October Prime Day deals you can still grab for under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)<!-- TECH:END -->
+ - [Netflix plans to open permanent stores for fans, initially in the US; the stores, named Netflix House, will offer a mix of retail, dining, and live experiences &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/231012/p33#a231012p33)
+ - [Netflix is planning to launch retail destinations in 2025](https://www.theverge.com/2023/10/12/23914796/netflix-house-retail-stores-2025)
+ - [T-Mobile forcing customers to more expensive plans instead of hiking prices](https://appleinsider.com/articles/23/10/12/t-mobile-forcing-customers-to-more-expensive-plans-instead-of-hiking-prices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
