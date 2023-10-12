@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I want two plates of this and a large beer](http://9gag.com/gag/avQVE4X)
- - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 6️⃣ [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 😝 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
  - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
 
 --- 
