@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Trolls game looks like a LittleBigPlanet spinoff in disguise](https://www.polygon.com/23914152/trolls-video-game-remix-rescue-release-date)
- - [Pokémon Go ‘Harvest Festival’ event guide, Collection Research and tasks](https://www.polygon.com/pokemon-go-guide/23913008/harvest-festival-event-guide-collection-challenge)
- - [Netflix’s The Fall of the House of Usher is just oozing with Poe references](https://www.polygon.com/23911428/netflix-fall-house-usher-poe-references-easter-eggs)<!-- GAME:END -->
+ - [Saltsea Chronicles’ creators tracked the game’s climate impact — and now hope to change the industry](https://www.polygon.com/23914267/saltsea-chronicles-climate-impact-report-studio-die-gute-fabrik)
+ - [Trackmania changes its subs model after belatedly realising it was too generous, dev says it has &#39;to be realistic&#39;](https://www.pcgamer.com/trackmania-changes-its-subs-model-after-belatedly-realising-it-was-too-generous-dev-says-it-has-to-be-realistic)
+ - [This new indie game mashes up Diablo with Escape From Tarkov in a &#39;PvPvE fantasy extraction RPG&#39;](https://www.pcgamer.com/this-new-indie-game-mashes-up-diablo-with-escape-from-tarkov-in-a-pvpve-fantasy-extraction-rpg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
