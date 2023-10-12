@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are three Pixel 8 features that didn’t make the cut](https://www.androidauthority.com/pixel-8-features-scrapped-3375014/)
- - [3 of the best Samsung gaming monitors are at their lowest price of the year](https://www.androidauthority.com/samsung-gaming-monitor-deals-3374984/)
- - [46 Best Prime Day Apple Deals &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-day-apple-deals-october-2023-1/)<!-- TECH:END -->
+ - [The Fitbit app has been having some issues for hours](https://www.theverge.com/2023/10/11/23913740/fitbit-issues-app-down-problems-outage)
+ - [Internal memo: NPR traffic loss has been negligible in the six months since it left Twitter, after the platform labeled NPR &quot;US state-affiliated media&quot; &lpar;Gabe Bullard/Nieman Reports&rpar;](http://www.techmeme.com/231011/p36#a231011p36)
+ - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
