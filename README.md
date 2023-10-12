@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2&#39;s Hanzo temporarily removed for turning his bow into a machine gun](https://www.pcgamer.com/overwatch-2s-hanzo-temporarily-removed-for-turning-his-bow-into-a-machine-gun)
- - [CS2 ranks and premier ratings: the new system explained](https://www.pcgamer.com/counter-strike-2-ranks-premier)
- - [Take A Tour Through Halo Infinite&#39;s Newest Arena Maps](https://kotaku.com/halo-infinite-season-5-reckoning-forbidden-prism-xbox-1850922823)<!-- GAME:END -->
+ - [EA’s Next Soccer Game Is Turn-Based And Looks Like An RPG](https://kotaku.com/ea-fc-24-tactical-fifa-mobile-rpg-release-date-soccer-1850923492)
+ - [The Strangers is getting a trilogy of new movies from the director of Die Hard 2](https://www.polygon.com/nycc/23914822/strangers-trilogy-chapter-1-remake-new-york-comic-con)
+ - [Arma 3 footage is being used as disinformation in the wake of Israel-Hamas war: &#39;It’s disheartening for us to see the game we all love being used in this way,&#39; says developer](https://www.pcgamer.com/arma-3-footage-is-being-used-as-disinformation-in-the-wake-of-israel-hamas-war-its-disheartening-for-us-to-see-the-game-we-all-love-being-used-in-this-way-says-developer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
