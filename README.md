@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Baldur’s Gate 3 voted September’s best new game](https://blog.playstation.com/2023/10/12/players-choice-vote-for-septembers-best-new-game-3/)
- - [Where to find every outfit in Assassin&#39;s Creed Mirage](https://www.pcgamer.com/ac-mirage-outfit-locations)
- - [Team Fortress 2 community loses it, decides to &#39;meme a character into existence through the power of mass gaslighting&#39; while Valve focuses on Counter-Strike](https://www.pcgamer.com/team-fortress-2-community-loses-it-decides-to-meme-a-character-into-existence-through-the-power-of-mass-gaslighting-while-valve-focuses-on-counter-strike)<!-- GAME:END -->
+ - [The new Trolls game looks like a LittleBigPlanet spinoff in disguise](https://www.polygon.com/23914152/trolls-video-game-remix-rescue-release-date)
+ - [Pokémon Go ‘Harvest Festival’ event guide, Collection Research and tasks](https://www.polygon.com/pokemon-go-guide/23913008/harvest-festival-event-guide-collection-challenge)
+ - [Netflix’s The Fall of the House of Usher is just oozing with Poe references](https://www.polygon.com/23911428/netflix-fall-house-usher-poe-references-easter-eggs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
