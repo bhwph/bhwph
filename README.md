@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
- - 😝 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)
- - 👉 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)<!-- MEMES:END -->
+ - 6️⃣ [He&#39;s the chosen one](http://9gag.com/gag/anz32AV)
+ - 😝 [More than 700 000 people die due to suicide every year. 77%&lpar;539,000&rpar; are men](http://9gag.com/gag/abvoOyX)
+ - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
 
 --- 
 
