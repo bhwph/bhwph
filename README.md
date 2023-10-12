@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - 😝 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
- - 👉 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)<!-- MEMES:END -->
+ - 6️⃣ [2 Blondes](http://9gag.com/gag/aeQExAv)
+ - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
+ - 👉 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)<!-- MEMES:END -->
 
 --- 
 
