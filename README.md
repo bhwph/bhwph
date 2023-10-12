@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Starlink page launched to promote cellular service coming in 2024](https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity)
- - [At SBF&#39;s trial, the personal dynamics between him and his friends are a vital component of the case, making clear how much his inner circle has turned on him &lpar;New York Times&rpar;](http://www.techmeme.com/231012/p18#a231012p18)
- - [As Pat Gelsinger tries to revive Intel, a self-imposed deadline to add a big foundry client in 2023 looms and, even then, revenue from a deal may be years away &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p17#a231012p17)<!-- TECH:END -->
+ - [CEO David Baszucki’s mission to make Roblox a billion-player platform](https://www.theverge.com/23913044/roblox-baszucki-platform-playstation-ai-vr-ar-china-gucci)
+ - [Microsoft Surface Laptop Go 3 review: why does this exist?](https://www.theverge.com/23906932/microsoft-surface-laptop-go-3-review)
+ - [Emirates airline equips staff of 20,000 with iPhones, iPads to streamline flying process](https://appleinsider.com/articles/23/10/12/emirates-airline-equips-staff-of-20000-with-iphones-ipads-to-streamline-flying-process?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
