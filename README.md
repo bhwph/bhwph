@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Got your worm](http://9gag.com/gag/a4o8njm)
- - 😝 [Both are Killers in my eyes. Both.](http://9gag.com/gag/a2KV8Gw)
- - 👉 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)<!-- MEMES:END -->
+ - 6️⃣ [I want two plates of this and a large beer](http://9gag.com/gag/avQVE4X)
+ - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
 
 --- 
 
