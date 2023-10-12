@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elephant Peach just awakened something in Bowser](https://www.polygon.com/23913530/super-mario-bros-wonder-bowser-peach-elephant-fetish)
- - [Valve adds new security check after attackers compromise Steam accounts of multiple game devs and update their games with malware](https://www.pcgamer.com/steam-malware-attack-new-security)
- - [Bungie is giving Destiny 2 players $45 of in-game currency to say sorry for accidentally banning them from the game](https://www.pcgamer.com/bungie-is-giving-destiny-2-players-dollar45-of-in-game-currency-to-say-sorry-for-accidentally-banning-them-from-the-game)<!-- GAME:END -->
+ - [The wealthiest player in Old School Runescape, with more than 1 trillion &lpar;yes, trillion&rpar; gold, has been banned](https://www.pcgamer.com/the-wealthiest-player-in-old-school-runescape-with-more-than-1-trillion-yes-trillion-gold-has-been-banned)
+ - [Overwatch fans unite to hate on $40 Diablo skins in its latest season](https://www.pcgamer.com/overwatch-season-7-is-off-to-a-rough-start-as-fans-unite-to-hate-on-dollar40-diablo-skins)
+ - [October Prime Day is bustling with great board game deals](https://www.polygon.com/amazon-prime-day/23891084/board-games-tabletop-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
