@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why?](http://9gag.com/gag/a1Pn0LP)
- - 😝 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
- - 👉 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)<!-- MEMES:END -->
+ - 6️⃣ [Darwin Awards](http://9gag.com/gag/aVb8KKn)
+ - 😝 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
+ - 👉 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)<!-- MEMES:END -->
 
 --- 
 
