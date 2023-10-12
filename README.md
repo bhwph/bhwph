@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X defends itself over EU accusations of playing host to Israel-Hamas war disinformation](https://www.theverge.com/2023/10/12/23914020/x-twitter-israel-hamas-war-disinformation-misinformation-european-union-dsa-commissioner)
- - [Hands-on with Best Take for Pixel 8, which uses AI to replace people&#39;s faces, a fun camera tool that worryingly helps AI standardize what happiness looks like &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/231012/p11#a231012p11)
- - [Sources: several key ex-Arm staff in China depart for Borui Jingxin, a local government-backed chip design firm, worrying Arm investors over future China sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p10#a231012p10)<!-- TECH:END -->
+ - [New Starlink page launched to promote cellular service coming in 2024](https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity)
+ - [At SBF&#39;s trial, the personal dynamics between him and his friends are a vital component of the case, making clear how much his inner circle has turned on him &lpar;New York Times&rpar;](http://www.techmeme.com/231012/p18#a231012p18)
+ - [As Pat Gelsinger tries to revive Intel, a self-imposed deadline to add a big foundry client in 2023 looms and, even then, revenue from a deal may be years away &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p17#a231012p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
