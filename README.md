@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CEO David Baszucki’s mission to make Roblox a billion-player platform](https://www.theverge.com/23913044/roblox-baszucki-platform-playstation-ai-vr-ar-china-gucci)
- - [Microsoft Surface Laptop Go 3 review: why does this exist?](https://www.theverge.com/23906932/microsoft-surface-laptop-go-3-review)
- - [Emirates airline equips staff of 20,000 with iPhones, iPads to streamline flying process](https://appleinsider.com/articles/23/10/12/emirates-airline-equips-staff-of-20000-with-iphones-ipads-to-streamline-flying-process?utm_medium=rss)<!-- TECH:END -->
+ - [Google&#39;s Search Generative Experience adds the ability to generate images using prompts and to write drafts by customizing their tone and length &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231012/p25#a231012p25)
+ - [The Galaxy Watch 5 LTE is cheaper than Prime Day at just $249.99](https://www.androidauthority.com/samsung-galaxy-watch-5-lte-deal-3375376/)
+ - [Pixel 8 Pro earns best display title in new ranking](https://www.androidauthority.com/pixel-8-pro-display-ranking-3375337/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
