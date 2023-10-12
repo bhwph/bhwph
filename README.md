@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new Pixel Troubleshooting app is now available on the Pixel 8 series](https://www.androidauthority.com/googles-pixel-troubleshooting-app-pixel-8-3375193/)
- - [Pixel 8 finally gets a beloved iPhone feature: eSIM conversion and transfer!](https://www.androidauthority.com/google-pixel-8-esim-conversion-and-transfer-3375184/)
- - [October Prime Day 2023: Sign Up for Amazon Prime and Take Advantage of Remaining Deals     - CNET](https://www.cnet.com/tech/october-prime-day-2023-sign-up-for-amazon-prime-and-take-advantage-of-remaining-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X defends itself over EU accusations of playing host to Israel-Hamas war disinformation](https://www.theverge.com/2023/10/12/23914020/x-twitter-israel-hamas-war-disinformation-misinformation-european-union-dsa-commissioner)
+ - [Hands-on with Best Take for Pixel 8, which uses AI to replace people&#39;s faces, a fun camera tool that worryingly helps AI standardize what happiness looks like &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/231012/p11#a231012p11)
+ - [Sources: several key ex-Arm staff in China depart for Borui Jingxin, a local government-backed chip design firm, worrying Arm investors over future China sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p10#a231012p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
