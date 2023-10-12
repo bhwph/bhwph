@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Omega &lpar;2310.231009-2200&rpar;](https://news.xbox.com/en-us/2023/10/12/xbox-insider-release-notes-omega-2310-231009-2200/)
- - [The Beast is the purest science fiction experience a movie can offer](https://www.polygon.com/23912037/the-beast-review-henry-james-sci-fi-time-travel)
- - [Xbox Insider Release Notes – Delta &lpar;2310.231009-2200&rpar;](https://news.xbox.com/en-us/2023/10/12/xbox-insider-release-notes-delta-2310-231009-2200/)<!-- GAME:END -->
+ - [Overwatch 2&#39;s Hanzo temporarily removed for turning his bow into a machine gun](https://www.pcgamer.com/overwatch-2s-hanzo-temporarily-removed-for-turning-his-bow-into-a-machine-gun)
+ - [CS2 ranks and premier ratings: the new system explained](https://www.pcgamer.com/counter-strike-2-ranks-premier)
+ - [Take A Tour Through Halo Infinite&#39;s Newest Arena Maps](https://kotaku.com/halo-infinite-season-5-reckoning-forbidden-prism-xbox-1850922823)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
