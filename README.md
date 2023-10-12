@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [a16z-backed Character.AI launches Character Group Chat, which allows paying subscribers to create group chats with AI chatbots or with humans and AI characters &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231011/p40#a231011p40)
- - [Sources: Sequoia&#39;s China spin off HongShan is seeking global business opportunities and investments for its portfolio companies, as China&#39;s economy slows down &lpar;Financial Times&rpar;](http://www.techmeme.com/231011/p39#a231011p39)
- - [Best Fitness Deals for October Prime Day: Check Them Out Before They End     - CNET](https://www.cnet.com/deals/october-prime-day-fitness-deals-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus Open doppelganger OPPO Find N3 now has a launch date](https://www.androidauthority.com/oppo-find-n3-oneplus-open-launch-date-3375164/)
+ - [US v. SBF: Caroline Ellison says Alameda paid $100M to $150M in crypto transfers to Chinese officials to unfreeze its OKX and Huobi trading accounts, worth ~$1B &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231012/p3#a231012p3)
+ - [Sources: the US Department of Commerce is considering new export controls for general-purpose AI programs, a move that experts say could weaken US AI innovation &lpar;Karen Hao/The Atlantic&rpar;](http://www.techmeme.com/231012/p2#a231012p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
