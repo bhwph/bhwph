@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Open doppelganger OPPO Find N3 now has a launch date](https://www.androidauthority.com/oppo-find-n3-oneplus-open-launch-date-3375164/)
- - [US v. SBF: Caroline Ellison says Alameda paid $100M to $150M in crypto transfers to Chinese officials to unfreeze its OKX and Huobi trading accounts, worth ~$1B &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231012/p3#a231012p3)
- - [Sources: the US Department of Commerce is considering new export controls for general-purpose AI programs, a move that experts say could weaken US AI innovation &lpar;Karen Hao/The Atlantic&rpar;](http://www.techmeme.com/231012/p2#a231012p2)<!-- TECH:END -->
+ - [Google’s new Pixel Troubleshooting app is now available on the Pixel 8 series](https://www.androidauthority.com/googles-pixel-troubleshooting-app-pixel-8-3375193/)
+ - [Pixel 8 finally gets a beloved iPhone feature: eSIM conversion and transfer!](https://www.androidauthority.com/google-pixel-8-esim-conversion-and-transfer-3375184/)
+ - [October Prime Day 2023: Sign Up for Amazon Prime and Take Advantage of Remaining Deals     - CNET](https://www.cnet.com/tech/october-prime-day-2023-sign-up-for-amazon-prime-and-take-advantage-of-remaining-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
