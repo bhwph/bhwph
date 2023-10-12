@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 6️⃣ [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
  - 😝 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
  - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
 
