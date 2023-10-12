@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Even before the placenta drops](http://9gag.com/gag/avQV6vX)
- - 😝 [Karma b1tch !](http://9gag.com/gag/ajVjOKw)
- - 👉 [Hamas leader calls for global day of jihad for tomorrow How many governments have raised their alert levels or are warning the people?](http://9gag.com/gag/arm0qE6)<!-- MEMES:END -->
+ - 6️⃣ [Why?](http://9gag.com/gag/a1Pn0LP)
+ - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 👉 [2 Blondes](http://9gag.com/gag/aeQExAv)<!-- MEMES:END -->
 
 --- 
 
