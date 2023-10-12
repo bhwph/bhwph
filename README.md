@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Saltsea Chronicles’ creators tracked the game’s climate impact — and now hope to change the industry](https://www.polygon.com/23914267/saltsea-chronicles-climate-impact-report-studio-die-gute-fabrik)
- - [Trackmania changes its subs model after belatedly realising it was too generous, dev says it has &#39;to be realistic&#39;](https://www.pcgamer.com/trackmania-changes-its-subs-model-after-belatedly-realising-it-was-too-generous-dev-says-it-has-to-be-realistic)
- - [This new indie game mashes up Diablo with Escape From Tarkov in a &#39;PvPvE fantasy extraction RPG&#39;](https://www.pcgamer.com/this-new-indie-game-mashes-up-diablo-with-escape-from-tarkov-in-a-pvpve-fantasy-extraction-rpg)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Omega &lpar;2310.231009-2200&rpar;](https://news.xbox.com/en-us/2023/10/12/xbox-insider-release-notes-omega-2310-231009-2200/)
+ - [The Beast is the purest science fiction experience a movie can offer](https://www.polygon.com/23912037/the-beast-review-henry-james-sci-fi-time-travel)
+ - [Xbox Insider Release Notes – Delta &lpar;2310.231009-2200&rpar;](https://news.xbox.com/en-us/2023/10/12/xbox-insider-release-notes-delta-2310-231009-2200/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
