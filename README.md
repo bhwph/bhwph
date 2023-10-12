@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Fitbit app has been having some issues for hours](https://www.theverge.com/2023/10/11/23913740/fitbit-issues-app-down-problems-outage)
- - [Internal memo: NPR traffic loss has been negligible in the six months since it left Twitter, after the platform labeled NPR &quot;US state-affiliated media&quot; &lpar;Gabe Bullard/Nieman Reports&rpar;](http://www.techmeme.com/231011/p36#a231011p36)
- - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)<!-- TECH:END -->
+ - [Automattic adds the ActivityPub feature to WordPress.com hosted sites, allowing site owners to tie into fediverse platforms including Mastodon &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231011/p38#a231011p38)
+ - [The best October Prime Day deals under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)
+ - [The best October Prime Day deals you can still get](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
