@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Franchise Xbox Now Owns After Buying Activision](https://kotaku.com/xbox-activision-blizzard-bethesda-deal-every-franchise-1850925890)
- - [AVerMedia Live Gamer Ultra 2.1 review](https://www.pcgamer.com/avermedia-live-gamer-ultra-2-1-review)
- - [The Nightmare Before Christmas’ Devil May Cry clone was a gift to rabid Japanese fans](https://www.polygon.com/gaming/23913274/nightmare-before-christmas-sequel-video-game-capcom)<!-- GAME:END -->
+ - [Nintendo sold a single new Wii U this year](https://www.polygon.com/23916234/nintendo-september-2023-wii-u-sales)
+ - [Kaiju No. 8 Anime Comes To Crunchyroll Spring 2024](https://kotaku.com/kaiju-no-8-release-date-crunchyroll-nycc-comic-con-1850925266)
+ - [It’s hard to get controls right in sports games](https://www.polygon.com/gaming/23916070/nhl-24-new-controls-ps5-xbox-series-x)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
