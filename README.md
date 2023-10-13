@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Franz is the creepy thing that lives in your phone](https://www.theverge.com/23914680/franz-virtual-companion-horror-game-ice-pick-lodge-ios-review)
- - [&#39;Dear David&#39; Is the Final Gasp of a Dying Internet](https://www.wired.com/story/dear-david-most-internet-movie/)
- - [How will driverless cars ‘talk’ to pedestrians? Waymo has a few ideas](https://www.theverge.com/2023/10/13/23913251/waymo-roof-dome-communicate-intent-pedestrian-driver)<!-- TECH:END -->
+ - [Microsoft’s Activision Blizzard Deal Changes the Game](https://www.wired.com/story/microsoft-activision-blizzard-deal-closes/)
+ - [Mojo Vision, which pivoted from smart contact lenses to making microLED display tech, raised a $21.1M Series A extension, bringing its Series A to $43.5M &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231013/p17#a231013p17)
+ - [Apple’s new Godzilla series crushes its biggest challenge](https://www.theverge.com/23913217/monarch-legacy-of-monsters-apple-nycc-preview-godzilla)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
