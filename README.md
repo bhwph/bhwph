@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo sold a single new Wii U this year](https://www.polygon.com/23916234/nintendo-september-2023-wii-u-sales)
- - [Kaiju No. 8 Anime Comes To Crunchyroll Spring 2024](https://kotaku.com/kaiju-no-8-release-date-crunchyroll-nycc-comic-con-1850925266)
- - [It’s hard to get controls right in sports games](https://www.polygon.com/gaming/23916070/nhl-24-new-controls-ps5-xbox-series-x)<!-- GAME:END -->
+ - [How GTA Online’s Halloween Update Made A GTA V Urban Legend Real](https://kotaku.com/gta-online-halloween-update-ghosts-johnny-klebitz-1850926802)
+ - [Bad Omens: David Tennant cast a Shakespearean curse at New York Comic Con](https://www.polygon.com/nycc/23915921/david-tennant-nycc-2023-macbeth-ncuti-gatwa-doctor-who)
+ - [The Lollipop Chainsaw remake is now just a Lollipop Chainsaw remaster, but that&#39;s apparently what the fans demanded](https://www.pcgamer.com/the-lollipop-chainsaw-remake-is-now-just-a-lollipop-chainsaw-remaster-but-thats-apparently-what-the-fans-demanded)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
