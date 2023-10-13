@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I am dying to know who purchased a new Wii U in September](https://www.theverge.com/2023/10/13/23915974/new-wii-u-sold-september-2023)
- - [Nvidia plans to raise the price of GeForce Now game streaming service in Canada and European countries in November, citing &quot;increased operational costs&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231013/p20#a231013p20)
- - [A look at Microsoft&#39;s deal with Ubisoft, which has the cloud gaming rights for Call of Duty and other Activision games outside of the EU for the next 15 years &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231013/p19#a231013p19)<!-- TECH:END -->
+ - [Nvidia is raising the price of GeForce Now, but not in the US](https://www.theverge.com/2023/10/13/23916159/nvidia-geforce-now-price-increase)
+ - [A student wins a contest to read the text inside a carbonized Roman scroll, which had been unreadable since a volcanic eruption in AD 79, using an ML algorithm &lpar;Jo Marchant/Nature&rpar;](http://www.techmeme.com/231013/p21#a231013p21)
+ - [Here’s Mario’s new voice actor](https://www.theverge.com/2023/10/13/23916232/super-mario-bros-wonder-new-voice-kevin-afghani)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
