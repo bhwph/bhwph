@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
- - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
- - 👉 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)<!-- MEMES:END -->
+ - 6️⃣ [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
+ - 😝 [Slash not giving a f about up staging MJ](http://9gag.com/gag/a8q92re)
+ - 👉 [Just in case...](http://9gag.com/gag/aYVBP1V)<!-- MEMES:END -->
 
 --- 
 
