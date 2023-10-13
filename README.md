@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer for #846 Friday, October 13](https://www.pcgamer.com/wordle-today-answer-846-october-13)
- - [Magic: The Gathering turns Doctor Who&#39;s heroes and villains into cardboard while remaining impressively accurate to their core](https://www.pcgamer.com/magic-the-gathering-turns-doctor-whos-heroes-and-villains-into-cardboard-while-remaining-impressively-accurate-to-their-core)
- - [Loki’s Mobius already got his Jet Ski &lpar;in Marvel Snap&rpar;](https://www.polygon.com/23914863/loki-mobius-jet-ski-marvel-snap)<!-- GAME:END -->
+ - [Heroes of Might and Magic 3 is having a crossover with World of Warships for some reason](https://www.pcgamer.com/heroes-of-might-and-magic-3-is-having-a-crossover-with-world-of-warships-for-some-reason)
+ - [Starfield&#39;s unofficial radio stations have made me want to keep playing](https://www.pcgamer.com/starfields-unofficial-radio-stations-have-made-me-want-to-keep-playing)
+ - [Wordle today: Hint and answer for #846 Friday, October 13](https://www.pcgamer.com/wordle-today-answer-846-october-13)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
