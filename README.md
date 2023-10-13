@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This ever happened to you?](http://9gag.com/gag/ap9XYxp)
- - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
- - 👉 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)<!-- MEMES:END -->
+ - 6️⃣ [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
+ - 😝 [2 Blondes](http://9gag.com/gag/aeQExAv)
+ - 👉 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)<!-- MEMES:END -->
 
 --- 
 
