@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Baldur’s Gate 3 cast love their characters so much that they made them playlists](https://www.polygon.com/23915773/baldurs-gate-3-character-playlists-astarion-halsin-karlach-gale-cast)
- - [Video game ants have never looked better, thanks to Unreal Engine 5](https://www.polygon.com/23915787/empire-of-the-ants-game-trailer-unreal-engine-5)
- - [Monarch: Legacy of Monsters trailer explains how Godzilla fits into the show’s big mystery](https://www.polygon.com/nycc/23915052/monarch-legacy-monsters-trailer-apple-tv-plus-new-york-comic-con)<!-- GAME:END -->
+ - [Every Franchise Xbox Now Owns After Buying Activision](https://kotaku.com/xbox-activision-blizzard-bethesda-deal-every-franchise-1850925890)
+ - [AVerMedia Live Gamer Ultra 2.1 review](https://www.pcgamer.com/avermedia-live-gamer-ultra-2-1-review)
+ - [The Nightmare Before Christmas’ Devil May Cry clone was a gift to rabid Japanese fans](https://www.polygon.com/gaming/23913274/nightmare-before-christmas-sequel-video-game-capcom)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
