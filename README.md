@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best weapons in the Modern Warfare 3 beta](https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3)
- - [Best AMR9 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23915543/best-amr9-loadout-class-build-mw3)
- - [Monster Hunter Now Pink Rathian event times, armor and weapon list](https://www.polygon.com/monster-hunter-now-guides/23910975/pink-rathian-armor-weapons-weakness-event)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for October 16 to 20](https://news.xbox.com/en-us/2023/10/13/next-week-on-xbox-new-games-for-october-16-to-20/)
+ - [30 years on, The Nightmare Before Christmas still slaps](https://www.polygon.com/23913258/nightmare-before-christmas-30th-anniversary)
+ - [Hot Topic and The Nightmare Before Christmas needed each other](https://www.polygon.com/23911787/hot-topic-nightmare-before-christmas-emo-kid-legacy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
