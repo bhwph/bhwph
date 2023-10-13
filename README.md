@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Activision Blizzard Deal Changes the Game](https://www.wired.com/story/microsoft-activision-blizzard-deal-closes/)
- - [Mojo Vision, which pivoted from smart contact lenses to making microLED display tech, raised a $21.1M Series A extension, bringing its Series A to $43.5M &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231013/p17#a231013p17)
- - [Apple’s new Godzilla series crushes its biggest challenge](https://www.theverge.com/23913217/monarch-legacy-of-monsters-apple-nycc-preview-godzilla)<!-- TECH:END -->
+ - [I am dying to know who purchased a new Wii U in September](https://www.theverge.com/2023/10/13/23915974/new-wii-u-sold-september-2023)
+ - [Nvidia plans to raise the price of GeForce Now game streaming service in Canada and European countries in November, citing &quot;increased operational costs&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231013/p20#a231013p20)
+ - [A look at Microsoft&#39;s deal with Ubisoft, which has the cloud gaming rights for Call of Duty and other Activision games outside of the EU for the next 15 years &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231013/p19#a231013p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
