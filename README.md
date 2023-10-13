@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PC streaming service Shadow discloses security breach](https://www.theverge.com/2023/10/12/23915206/shadow-pc-streaming-service-security-breach)
- - [Over 40 October Amazon Prime Day Deals Under $25 That Are Still Available     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-25-still-remaining/#ftag=CAD590a51e)
- - [Over 70 Great Post-Prime Day Deals You Can Still Grab for $50 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-under-50-still-available/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the Biden administration is considering closing a loophole that gives Chinese companies access to US AI chips through overseas subsidiaries &lpar;Reuters&rpar;](http://www.techmeme.com/231012/p39#a231012p39)
+ - [How to turn off your active status on Facebook](https://www.androidauthority.com/turn-off-active-status-facebook-3143035/)
+ - [Best October Prime Day Deals on Earbuds and Headphones: These Prices Won&#39;t Stick Around     - CNET](https://www.cnet.com/deals/best-october-prime-day-deals-on-earbuds-and-headphones-airpods-pro-2-hit-189-but-the-clock-is-ticking/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
