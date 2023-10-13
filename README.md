@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 👉 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)<!-- MEMES:END -->
+ - 6️⃣ [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
+ - 👉 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)<!-- MEMES:END -->
 
 --- 
 
