@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why were these weird accounts following a bunch of people on Spotify?](https://www.theverge.com/2023/10/12/23914995/spotify-weird-accounts-follow-lucas-lucasrpx-vitornovaes)
- - [Popular porn sites now display unproven health warnings thanks to Texas law](https://www.theverge.com/2023/10/12/23914832/texas-hb-1181-porn-age-verification-vixen-media-group)
- - [Memo: Flexport plans to cut approximately 20% of its global workforce as part of a new round of layoffs that&#39;s expected to begin on October 13 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231012/p35#a231012p35)<!-- TECH:END -->
+ - [PC streaming service Shadow discloses security breach](https://www.theverge.com/2023/10/12/23915206/shadow-pc-streaming-service-security-breach)
+ - [Over 40 October Amazon Prime Day Deals Under $25 That Are Still Available     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-25-still-remaining/#ftag=CAD590a51e)
+ - [Over 70 Great Post-Prime Day Deals You Can Still Grab for $50 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-under-50-still-available/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
