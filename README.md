@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why?](http://9gag.com/gag/a1Pn0LP)
+ - 6️⃣ [Wow, just wow](http://9gag.com/gag/agob4Ox)
  - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 👉 [2 Blondes](http://9gag.com/gag/aeQExAv)<!-- MEMES:END -->
+ - 👉 [Just in case...](http://9gag.com/gag/aYVBP1V)<!-- MEMES:END -->
 
 --- 
 
