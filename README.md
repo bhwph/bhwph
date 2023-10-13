@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC expects to receive US permission to supply its China plant with US chipmaking tools indefinitely, in an easing of US restrictions on chipmakers in China &lpar;Reuters&rpar;](http://www.techmeme.com/231013/p12#a231013p12)
- - [How the next generation of semiconductor factories kicked up a fight over environmental review](https://www.theverge.com/2023/10/13/23895050/semiconductor-factory-nepa-environmental-review)
- - [Google Pixel Watch 2 Review: About Time](https://www.wired.com/review/google-pixel-watch-2/)<!-- TECH:END -->
+ - [Franz is the creepy thing that lives in your phone](https://www.theverge.com/23914680/franz-virtual-companion-horror-game-ice-pick-lodge-ios-review)
+ - [&#39;Dear David&#39; Is the Final Gasp of a Dying Internet](https://www.wired.com/story/dear-david-most-internet-movie/)
+ - [How will driverless cars ‘talk’ to pedestrians? Waymo has a few ideas](https://www.theverge.com/2023/10/13/23913251/waymo-roof-dome-communicate-intent-pedestrian-driver)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
