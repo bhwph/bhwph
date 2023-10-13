@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A wild Golbat appears. The wild Golbat used Attract.](http://9gag.com/gag/amAyMN6)
- - 😝 [I knew america would have war withdraws.](http://9gag.com/gag/aPg0Q5B)
- - 👉 [Wtf defense move.](http://9gag.com/gag/az2zOVK)<!-- MEMES:END -->
+ - 6️⃣ [Darwin Awards](http://9gag.com/gag/aVb8KKn)
+ - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 👉 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)<!-- MEMES:END -->
 
 --- 
 
