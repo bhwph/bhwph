@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He found the TURBO Button](http://9gag.com/gag/az2zY6N)
- - 😝 [This ever happened to you?](http://9gag.com/gag/ap9XYxp)
- - 👉 [Point at someone and blow them up](http://9gag.com/gag/aeQE7Lq)<!-- MEMES:END -->
+ - 6️⃣ [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
+ - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
+ - 👉 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)<!-- MEMES:END -->
 
 --- 
 
