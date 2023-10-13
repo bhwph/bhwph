@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for October 16 to 20](https://news.xbox.com/en-us/2023/10/13/next-week-on-xbox-new-games-for-october-16-to-20/)
- - [30 years on, The Nightmare Before Christmas still slaps](https://www.polygon.com/23913258/nightmare-before-christmas-30th-anniversary)
- - [Hot Topic and The Nightmare Before Christmas needed each other](https://www.polygon.com/23911787/hot-topic-nightmare-before-christmas-emo-kid-legacy)<!-- GAME:END -->
+ - [The Baldur’s Gate 3 cast love their characters so much that they made them playlists](https://www.polygon.com/23915773/baldurs-gate-3-character-playlists-astarion-halsin-karlach-gale-cast)
+ - [Video game ants have never looked better, thanks to Unreal Engine 5](https://www.polygon.com/23915787/empire-of-the-ants-game-trailer-unreal-engine-5)
+ - [Monarch: Legacy of Monsters trailer explains how Godzilla fits into the show’s big mystery](https://www.polygon.com/nycc/23915052/monarch-legacy-monsters-trailer-apple-tv-plus-new-york-comic-con)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
