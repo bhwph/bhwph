@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wow, just wow](http://9gag.com/gag/agob4Ox)
- - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 👉 [Just in case...](http://9gag.com/gag/aYVBP1V)<!-- MEMES:END -->
+ - 6️⃣ [A wild Golbat appears. The wild Golbat used Attract.](http://9gag.com/gag/amAyMN6)
+ - 😝 [I knew america would have war withdraws.](http://9gag.com/gag/aPg0Q5B)
+ - 👉 [Wtf defense move.](http://9gag.com/gag/az2zOVK)<!-- MEMES:END -->
 
 --- 
 
