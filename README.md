@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [U,K. regulator formally clears Microsoft-Activision deal to go ahead](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
- - [Cities: Skylines 2 devs say they &#39;learned a lot from the feedback from the community&#39;](https://www.pcgamer.com/cities-skylines-2-devs-say-they-learned-a-lot-from-the-feedback-from-the-community)
- - [Heroes of Might and Magic 3 is having a crossover with World of Warships for some reason](https://www.pcgamer.com/heroes-of-might-and-magic-3-is-having-a-crossover-with-world-of-warships-for-some-reason)<!-- GAME:END -->
+ - [Best weapons in the Modern Warfare 3 beta](https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3)
+ - [Best AMR9 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23915543/best-amr9-loadout-class-build-mw3)
+ - [Monster Hunter Now Pink Rathian event times, armor and weapon list](https://www.polygon.com/monster-hunter-now-guides/23910975/pink-rathian-armor-weapons-weakness-event)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
