@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia is raising the price of GeForce Now, but not in the US](https://www.theverge.com/2023/10/13/23916159/nvidia-geforce-now-price-increase)
- - [A student wins a contest to read the text inside a carbonized Roman scroll, which had been unreadable since a volcanic eruption in AD 79, using an ML algorithm &lpar;Jo Marchant/Nature&rpar;](http://www.techmeme.com/231013/p21#a231013p21)
- - [Here’s Mario’s new voice actor](https://www.theverge.com/2023/10/13/23916232/super-mario-bros-wonder-new-voice-kevin-afghani)<!-- TECH:END -->
+ - [Comcast cable internet with 2-gigabit uploads is rolling out soon](https://www.theverge.com/2023/10/13/23916047/comcast-2gbps-internet-symmetrical-upload-docsis-4-0)
+ - [Google Photos Magic Editor: What is it and how does it work?](https://www.androidauthority.com/what-is-google-photos-magic-editor-3329779/)
+ - [After Adobe announced its $20B Figma acquisition in September 2022, the deal has stalled due to regulatory challenges and Adobe has shifted its attention to AI &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231013/p22#a231013p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
