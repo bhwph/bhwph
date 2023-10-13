@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check your cable stashes, because this old Apple dongle is worth $200](https://appleinsider.com/articles/23/10/11/check-your-cable-stashes-because-this-apple-dongle-is-worth-200?utm_medium=rss)
- - [The Whole of the &#39;Whole Earth Catalog&#39; Is Now Online](https://www.wired.com/story/whole-earth-catalog-now-online-internet-archive/)
- - [In five hours of cross-examination, SBF&#39;s lawyers did not elicit any revelations or inconsistencies from Caroline Ellison, who said SBF made &quot;terrible mistakes&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/231013/p8#a231013p8)<!-- TECH:END -->
+ - [TSMC expects to receive US permission to supply its China plant with US chipmaking tools indefinitely, in an easing of US restrictions on chipmakers in China &lpar;Reuters&rpar;](http://www.techmeme.com/231013/p12#a231013p12)
+ - [How the next generation of semiconductor factories kicked up a fight over environmental review](https://www.theverge.com/2023/10/13/23895050/semiconductor-factory-nepa-environmental-review)
+ - [Google Pixel Watch 2 Review: About Time](https://www.wired.com/review/google-pixel-watch-2/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
