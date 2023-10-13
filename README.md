@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Roblox CEO David Baszucki on launching the game on PlayStation, ads that leverage a 3D experience, building an &quot;autonomous network&quot; for China, and more &lpar;The Verge&rpar;](http://www.techmeme.com/231013/p5#a231013p5)
- - [The Tensor G3 was supposed to be more powerful than what it currently is](https://www.androidauthority.com/google-tensor-g3-nerfed-3375665/)
- - [Google dropped UWB support for the Pixel Watch 2, and that’s a shame](https://www.androidauthority.com/google-pixel-watch-2-uwb-support-3373449/)<!-- TECH:END -->
+ - [Check your cable stashes, because this old Apple dongle is worth $200](https://appleinsider.com/articles/23/10/11/check-your-cable-stashes-because-this-apple-dongle-is-worth-200?utm_medium=rss)
+ - [The Whole of the &#39;Whole Earth Catalog&#39; Is Now Online](https://www.wired.com/story/whole-earth-catalog-now-online-internet-archive/)
+ - [In five hours of cross-examination, SBF&#39;s lawyers did not elicit any revelations or inconsistencies from Caroline Ellison, who said SBF made &quot;terrible mistakes&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/231013/p8#a231013p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
