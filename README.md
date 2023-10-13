@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA’s Next Soccer Game Is Turn-Based And Looks Like An RPG](https://kotaku.com/ea-fc-24-tactical-fifa-mobile-rpg-release-date-soccer-1850923492)
- - [The Strangers is getting a trilogy of new movies from the director of Die Hard 2](https://www.polygon.com/nycc/23914822/strangers-trilogy-chapter-1-remake-new-york-comic-con)
- - [Arma 3 footage is being used as disinformation in the wake of Israel-Hamas war: &#39;It’s disheartening for us to see the game we all love being used in this way,&#39; says developer](https://www.pcgamer.com/arma-3-footage-is-being-used-as-disinformation-in-the-wake-of-israel-hamas-war-its-disheartening-for-us-to-see-the-game-we-all-love-being-used-in-this-way-says-developer)<!-- GAME:END -->
+ - [You can still play CS:GO, at least if you consider bizarre custom servers where you fight Final Fantasy summons &#39;playing CS:GO&#39;](https://www.pcgamer.com/you-can-still-play-csgo-at-least-if-you-consider-custom-servers-where-you-fight-final-fantasy-summons-playing-csgo)
+ - [The Modern Warfare 3 beta shows just how important it is who makes Call of Duty](https://www.pcgamer.com/the-modern-warfare-3-beta-shows-just-how-important-it-is-who-makes-call-of-duty)
+ - [Itty-bitty Goku and Akira Toriyama and are back for new series Dragon Ball: Daima](https://www.polygon.com/nycc/23914239/dragon-ball-daima-trailer-announcement-toriyama)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
