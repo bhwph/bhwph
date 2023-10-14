@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer for #847 Saturday, October 14](https://www.pcgamer.com/wordle-today-answer-847-october-14)
  - [This Week on Xbox: Minecraft Live, Forza on Game Pass, and Call of Duty Open Beta!](https://youtu.be/Q6LVsqNBqSc#new_tab)
- - [Final Fantasy VII Rebirth Fan Theory Hints At A Major Story Change](https://kotaku.com/final-fantasy-7-vii-remake-rebirth-cid-playable-theory-1850926877)
- - [Mission Impossible: Dead Reckoning, Netflix’s The Conference, and every new movie to watch at home this weekend](https://www.polygon.com/2023/10/13/23911259/new-movies-watch-mission-impossible-dead-reckoning-netflix-the-conference-expendables-4)<!-- GAME:END -->
+ - [Final Fantasy VII Rebirth Fan Theory Hints At A Major Story Change](https://kotaku.com/final-fantasy-7-vii-remake-rebirth-cid-playable-theory-1850926877)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
