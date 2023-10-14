@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best apps for Google Pixel 8: FlashDim, Google One, and more](https://www.androidauthority.com/google-pixel-8-best-apps-3372729/)
- - [How Dustin Moskovitz&#39;s Open Philanthropy is pushing policymakers to focus on AI&#39;s long-term risks by funding salaries of staff in Congress and federal agencies &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/231014/p8#a231014p8)
- - [The Pixel Buds Pro’ new conversation mode is a game changer](https://www.androidauthority.com/pixel-buds-pro-conversation-detection-3375789/)<!-- TECH:END -->
+ - [Caltech ends its Wi-Fi lawsuit against Apple and Broadcom](https://www.theverge.com/2023/10/14/23917210/caltech-ends-apple-broadcom-lawsuit-wi-fi-patent)
+ - [Apple TV+ cancels &#39;The Afterparty&#39; after two seasons](https://appleinsider.com/articles/23/10/14/apple-tv-cancels-the-afterparty-after-two-seasons?utm_medium=rss)
+ - [Some AI image detecting tools are labeling real photographs from the Israel-Hamas war as fake, creating what an expert calls a &quot;second level of disinformation&quot; &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/231014/p9#a231014p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
