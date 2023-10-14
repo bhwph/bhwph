@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Comcast cable internet with 2-gigabit uploads is rolling out soon](https://www.theverge.com/2023/10/13/23916047/comcast-2gbps-internet-symmetrical-upload-docsis-4-0)
- - [Google Photos Magic Editor: What is it and how does it work?](https://www.androidauthority.com/what-is-google-photos-magic-editor-3329779/)
- - [After Adobe announced its $20B Figma acquisition in September 2022, the deal has stalled due to regulatory challenges and Adobe has shifted its attention to AI &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231013/p22#a231013p22)<!-- TECH:END -->
+ - [Filing: the US NLRB alleges that X illegally fired an employee in November 2022 in retaliation for her posts challenging the company&#39;s RTO policy &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/231013/p24#a231013p24)
+ - [Beats Fit Pro vs Beats Studio Buds Plus: What’s the difference?](https://www.androidauthority.com/beats-fit-pro-vs-beats-studio-buds-plus-3375920/)
+ - [Is your X ad revenue sharing payment smaller than you expected?](https://www.theverge.com/2023/10/13/23916539/x-twitter-ad-sharing-revenue-premium-accounts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
