@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
- - 😝 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
- - 👉 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)<!-- MEMES:END -->
+ - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 👉 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)<!-- MEMES:END -->
 
 --- 
 
