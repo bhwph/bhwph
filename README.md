@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Aight, imma head out](http://9gag.com/gag/az2z4bK)
- - 😝 [Water in Gaza](http://9gag.com/gag/abvodMr)
- - 👉 [Men want only one thing...and it is disgusting!](http://9gag.com/gag/ajVjdr8)<!-- MEMES:END -->
+ - 6️⃣ [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
+ - 😝 [WOMEN](http://9gag.com/gag/axo8A8M)
+ - 👉 [Even 9gag supports islam.. 2posts down this is 3rd](http://9gag.com/gag/anz3dKq)<!-- MEMES:END -->
 
 --- 
 
