@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I was excited for the Galaxy S23 FE but I bought a Pixel 8 instead](https://www.androidauthority.com/pixel-8-vs-galaxy-s23-fe-value-3375486/)
- - [How Influencers played a key role in boosting the popularity of Riot Game&#39;s Valorant among Gen Z gamers; Riot says 70% of Valorant players are Generation Z &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231014/p5#a231014p5)
- - [7 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)<!-- TECH:END -->
+ - [X accused of illegally firing employee who criticized Elon’s return-to-work plan](https://www.theverge.com/2023/10/14/23916931/x-labor-law-violation-nlrb-complaint-fired-return-to-work)
+ - [LG’s desk-friendly C3 OLED has dipped below $1,000 for the first time](https://www.theverge.com/2023/10/14/23915891/lg-c3-oled-tv-lego-atari-2600-google-pixel-tablet-deal-sale)
+ - [The Microsoft-Activision deal closure shows that tech giants can still grow by getting &quot;vertical mergers&quot; through courts and regulators relatively unscathed &lpar;New York Times&rpar;](http://www.techmeme.com/231014/p6#a231014p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
