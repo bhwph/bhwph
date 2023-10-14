@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
- - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
- - 👉 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)<!-- MEMES:END -->
+ - 6️⃣ [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
+ - 😝 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
+ - 👉 [We need more people like that in 9gag](http://9gag.com/gag/ay2A1ep)<!-- MEMES:END -->
 
 --- 
 
