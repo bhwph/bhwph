@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Abandoned Farms Are a Hidden Resource for Restoring Biodiversity](https://www.wired.com/story/abandoned-farms-are-a-hidden-resource-for-restoring-biodiversity/)
- - [REI Co-op Cycles DRT e3.1 Electric Mountain Bike Review: Nimble E-MTB Hits the Dirt Hard](https://www.wired.com/review/rei-co-op-cycles-drt-e31-electric-mountain-bike/)
- - [I’m Charging My Toothbrush With Wireless Power Over Distance—and It’s a Trip](https://www.wired.com/story/wi-charge-hands-on-wireless-power-over-distance/)<!-- TECH:END -->
+ - [I was excited for the Galaxy S23 FE but I bought a Pixel 8 instead](https://www.androidauthority.com/pixel-8-vs-galaxy-s23-fe-value-3375486/)
+ - [How Influencers played a key role in boosting the popularity of Riot Game&#39;s Valorant among Gen Z gamers; Riot says 70% of Valorant players are Generation Z &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231014/p5#a231014p5)
+ - [7 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
