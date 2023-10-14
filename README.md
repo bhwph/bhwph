@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
- - 😝 [WOMEN](http://9gag.com/gag/axo8A8M)
- - 👉 [Even 9gag supports islam.. 2posts down this is 3rd](http://9gag.com/gag/anz3dKq)<!-- MEMES:END -->
+ - 6️⃣ [Riding with the boys](http://9gag.com/gag/aXnzR0z)
+ - 😝 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
+ - 👉 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)<!-- MEMES:END -->
 
 --- 
 
