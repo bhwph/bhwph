@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone is so wrong about Netflix’s ‘erotic thriller’ Fair Play](https://www.polygon.com/23914746/fair-play-netflix-movie-erotic-thriller)
- - [How Honkai: Star Rail localizers brought Rickrolls and shitposting to its sci-fi world](https://www.polygon.com/gaming/23914544/honkai-star-rail-rickrolls-shitposting-writing-localization)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [The Fall of the House of Usher’s lemon speech is embarrassingly out of touch](https://www.polygon.com/23915870/fall-house-usher-lemon-monologue-bad-mike-flanagan)
+ - [There&#39;s finally a Baldur&#39;s Gate 3 mod that will let you play as a stinky little Goblin](https://www.pcgamer.com/theres-finally-a-baldurs-gate-3-mod-that-will-let-you-play-as-a-stinky-little-goblin)
+ - [Rocket League trading site founder will never &#39;build a product based on the decisions of another company&#39; again after one decision from Epic puts him out of a job](https://www.pcgamer.com/rocket-league-trading-site-founder-will-never-build-a-product-based-on-the-decisions-of-another-company-again-after-one-decision-from-epic-puts-him-out-of-a-job)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
