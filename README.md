@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X accused of illegally firing employee who criticized Elon’s return-to-work plan](https://www.theverge.com/2023/10/14/23916931/x-labor-law-violation-nlrb-complaint-fired-return-to-work)
- - [LG’s desk-friendly C3 OLED has dipped below $1,000 for the first time](https://www.theverge.com/2023/10/14/23915891/lg-c3-oled-tv-lego-atari-2600-google-pixel-tablet-deal-sale)
- - [The Microsoft-Activision deal closure shows that tech giants can still grow by getting &quot;vertical mergers&quot; through courts and regulators relatively unscathed &lpar;New York Times&rpar;](http://www.techmeme.com/231014/p6#a231014p6)<!-- TECH:END -->
+ - [The Pixel Buds Pro’ new conversation mode is a game changer](https://www.androidauthority.com/pixel-buds-pro-conversation-detection-3375789/)
+ - [Deeno X1500 Portable Power Station review: Good balance of cost and flexibility](https://appleinsider.com/articles/23/10/14/deeno-x1500-portable-power-station-review-good-balance-of-cost-and-flexibility?utm_medium=rss)
+ - [AMD’s Anti-Lag feature is getting gamers banned from Counter-Strike 2](https://www.theverge.com/2023/10/14/23916966/cs2-counter-strike-2-anti-lag-plus-ban-amd-gpu-radeon-rx-7000)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
