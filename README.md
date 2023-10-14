@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer for #847 Saturday, October 14](https://www.pcgamer.com/wordle-today-answer-847-october-14)
- - [This Week on Xbox: Minecraft Live, Forza on Game Pass, and Call of Duty Open Beta!](https://youtu.be/Q6LVsqNBqSc#new_tab)
- - [Final Fantasy VII Rebirth Fan Theory Hints At A Major Story Change](https://kotaku.com/final-fantasy-7-vii-remake-rebirth-cid-playable-theory-1850926877)<!-- GAME:END -->
+ - [How Honkai: Star Rail localizers brought Rickrolls and shitposting to its sci-fi world](https://www.polygon.com/gaming/23914544/honkai-star-rail-rickrolls-shitposting-writing-localization)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
+ - [Our Flag Means Death’s creator on his pirates’ romance: ‘They’re 14-year-olds, emotionally’](https://www.polygon.com/23914899/our-flag-means-death-interview-david-jenkins-taika-waititi-rhys-darby-season-2-relationships)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
