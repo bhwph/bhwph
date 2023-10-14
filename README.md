@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [His lawyer got a nice setup tho](http://9gag.com/gag/a4o8xR1)
- - 😝 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
- - 👉 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)<!-- MEMES:END -->
+ - 6️⃣ [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)
+ - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the one for today](http://9gag.com/gag/a4o8wp1)
+ - 👉 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)<!-- MEMES:END -->
 
 --- 
 
