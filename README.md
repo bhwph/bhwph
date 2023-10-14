@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Riding with the boys](http://9gag.com/gag/aXnzR0z)
+ - 6️⃣ [His lawyer got a nice setup tho](http://9gag.com/gag/a4o8xR1)
  - 😝 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
  - 👉 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)<!-- MEMES:END -->
 
