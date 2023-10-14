@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17 Has a Fix for All of Those Annoying Two-Factor Authentication Codes in Your Inbox     - CNET](https://www.cnet.com/tech/mobile/ios-17-has-a-fix-for-all-of-those-annoying-two-factor-authentication-codes-in-your-inbox/#ftag=CAD590a51e)
- - [A look at the efforts of companies and governments to build their own satellite networks that can deliver internet connectivity anywhere on Earth &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/231014/p3#a231014p3)
- - [Cricket World Cup 2023 Livestream: How to Watch India vs. Pakistan From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/cricket-world-cup-2023-livestream-how-to-watch-india-vs-pakistan-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Abandoned Farms Are a Hidden Resource for Restoring Biodiversity](https://www.wired.com/story/abandoned-farms-are-a-hidden-resource-for-restoring-biodiversity/)
+ - [REI Co-op Cycles DRT e3.1 Electric Mountain Bike Review: Nimble E-MTB Hits the Dirt Hard](https://www.wired.com/review/rei-co-op-cycles-drt-e31-electric-mountain-bike/)
+ - [I’m Charging My Toothbrush With Wireless Power Over Distance—and It’s a Trip](https://www.wired.com/story/wi-charge-hands-on-wireless-power-over-distance/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
