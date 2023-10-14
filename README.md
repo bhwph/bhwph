@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)
- - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
- - 👉 [In London this lady\u2019s removes posters of children who got kidnapped in Israel of Hamas](http://9gag.com/gag/ajVjyQw)<!-- MEMES:END -->
+ - 6️⃣ [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
+ - 😝 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
+ - 👉 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)<!-- MEMES:END -->
 
 --- 
 
