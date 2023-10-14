@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Everyone is so wrong about Netflix’s ‘erotic thriller’ Fair Play](https://www.polygon.com/23914746/fair-play-netflix-movie-erotic-thriller)
  - [How Honkai: Star Rail localizers brought Rickrolls and shitposting to its sci-fi world](https://www.polygon.com/gaming/23914544/honkai-star-rail-rickrolls-shitposting-writing-localization)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
- - [Our Flag Means Death’s creator on his pirates’ romance: ‘They’re 14-year-olds, emotionally’](https://www.polygon.com/23914899/our-flag-means-death-interview-david-jenkins-taika-waititi-rhys-darby-season-2-relationships)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
