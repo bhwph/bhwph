@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
- - 😝 [So it begins. Arras, France.](http://9gag.com/gag/aME6OLW)
- - 👉 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)<!-- MEMES:END -->
+ - 6️⃣ [Aight, imma head out](http://9gag.com/gag/az2z4bK)
+ - 😝 [Water in Gaza](http://9gag.com/gag/abvodMr)
+ - 👉 [Men want only one thing...and it is disgusting!](http://9gag.com/gag/ajVjdr8)<!-- MEMES:END -->
 
 --- 
 
