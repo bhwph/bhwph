@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That was fun](http://9gag.com/gag/ay2AvVX)
- - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
- - 👉 [Rules of war by Prophet Muhammad](http://9gag.com/gag/aDYLVBx)<!-- MEMES:END -->
+ - 6️⃣ [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)
+ - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
+ - 👉 [In London this lady\u2019s removes posters of children who got kidnapped in Israel of Hamas](http://9gag.com/gag/ajVjyQw)<!-- MEMES:END -->
 
 --- 
 
