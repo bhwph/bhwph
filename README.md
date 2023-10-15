@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A&amp;W Settles for $15M Over Misleading Ad Claims: Days Left to File for Your Money     - CNET](https://www.cnet.com/personal-finance/a-w-settles-for-15m-over-misleading-ad-claims-days-left-to-file-for-your-money/#ftag=CAD590a51e)
  - [How social media is inducing a fog of war surpassing previous clashes between Israel and Hamas, shaping the views of panicked citizens and a global public &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/231015/p3#a231015p3)
- - [How Brad Smith, who became Microsoft&#39;s top legal officer in 2002, used a legal, policy, and influence machine costing $1B+ a year to close the Activision deal &lpar;Financial Times&rpar;](http://www.techmeme.com/231015/p2#a231015p2)
- - [Hands-on with Wi-Charge&#39;s wireless charging system that delivers power of up to 2 or 3 watts but requires a line of sight between transmitter and receiver &lpar;Simon Hill/Wired&rpar;](http://www.techmeme.com/231015/p1#a231015p1)<!-- TECH:END -->
+ - [How Brad Smith, who became Microsoft&#39;s top legal officer in 2002, used a legal, policy, and influence machine costing $1B+ a year to close the Activision deal &lpar;Financial Times&rpar;](http://www.techmeme.com/231015/p2#a231015p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
