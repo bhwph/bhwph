@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 😝 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
- - 👉 [A Tet a day, keeps the doctor away](http://9gag.com/gag/anz3dmz)<!-- MEMES:END -->
+ - 6️⃣ [How stupid are you?](http://9gag.com/gag/a5XAx1o)
+ - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
+ - 👉 [Who wears flip flops to a gym though](http://9gag.com/gag/aWGANDd)<!-- MEMES:END -->
 
 --- 
 
