@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s the Latest from Minecraft Live 2023](https://minecraft.net/article/minecraft-live-2023--the-recap-#new_tab)
- - [When does Halo Infinite season 5 release?](https://www.polygon.com/halo-infinite-guide-walkthrough/2023/10/15/23914673/season-5-release-time-date)
- - [13 movies that define the spoopy canon](https://www.polygon.com/23914691/best-horror-movies-for-kids-spoopy-halloween-movies-watch)<!-- GAME:END -->
+ - [Judging by the NYCC Percy Jackson panel, the show is going to rule](https://www.polygon.com/nycc/23918162/nycc-percy-jackson-show-disney-plus-panel-rick-riordan)
+ - [Baldur&#39;s Gate 3 players surprised to discover that, due to Elf shenanigans, Shadowheart is actually over 40 years old](https://www.pcgamer.com/baldurs-gate-3-players-surprised-to-discover-that-due-to-elf-shenanigans-shadowheart-is-actually-over-40-years-old)
+ - [Here’s the Latest from Minecraft Live 2023](https://minecraft.net/article/minecraft-live-2023--the-recap-#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
