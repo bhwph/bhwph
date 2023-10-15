@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer: The Old World will be out next year](https://www.pcgamer.com/warhammer-the-old-world-will-be-out-next-year)
- - [Pokémon Go Timburr Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/10/15/23915727/timburr-community-day-guide-shiny-tips-move)
- - [Monster Train dev cuts all the monetization from its tactical battler, Inkbound](https://www.pcgamer.com/monster-train-dev-cuts-all-the-monetization-from-its-tactical-battler-inkbound)<!-- GAME:END -->
+ - [How Love Island, sudoku, and ’90s malls fit into the Roguelike Celebration](https://www.polygon.com/gaming/23914172/roguelike-celebration-october-2023-love-island-sudoku)
+ - [The best horror TV to watch on Netflix](https://www.polygon.com/what-to-watch/23905028/best-horror-tv-shows-series-netflix-watch-streaming)
+ - [Warhammer: The Old World will be out next year](https://www.pcgamer.com/warhammer-the-old-world-will-be-out-next-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
