@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 15: M1 Max 16&quot; MacBook Pro 32GB RAM $2,399, $112 off iPhone 14 Plus, 30% off Lego Star Wars set, more](https://appleinsider.com/articles/23/10/15/daily-deals-oct-15-m1-max-16-macbook-pro-32gb-ram-2399-112-off-iphone-14-plus-30-off-lego-star-wars-set-more?utm_medium=rss)
- - [Should you buy a Pixel 8 or wait for the Pixel 8a?](https://www.androidauthority.com/google-pixel-8-vs-pixel-8a-3373333/)
- - [Apple&#39;s corporate reshuffle includes many VP promotions](https://appleinsider.com/articles/23/10/15/apples-corporate-reshuffle-includes-many-vp-promotions?utm_medium=rss)<!-- TECH:END -->
+ - [How to turn off FaceTime video reactions in iOS 17 and macOS Sonoma](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-facetime-video-reactions-in-ios-17-and-macos-sonoma?utm_medium=rss)
+ - [Minecraft has sold over 300 million copies](https://www.theverge.com/2023/10/15/23916349/minecraft-mojang-sold-300-million-copies-live-2023)
+ - [TSMC founder Morris Chang says the company expects competition from Intel and others, and Japan and Singapore have the best chance of winning the chip race &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/231015/p6#a231015p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
