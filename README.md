@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Judging by the NYCC Percy Jackson panel, the show is going to rule](https://www.polygon.com/nycc/23918162/nycc-percy-jackson-show-disney-plus-panel-rick-riordan)
- - [Baldur&#39;s Gate 3 players surprised to discover that, due to Elf shenanigans, Shadowheart is actually over 40 years old](https://www.pcgamer.com/baldurs-gate-3-players-surprised-to-discover-that-due-to-elf-shenanigans-shadowheart-is-actually-over-40-years-old)
- - [Here’s the Latest from Minecraft Live 2023](https://minecraft.net/article/minecraft-live-2023--the-recap-#new_tab)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3&#39;s voice actors can&#39;t get enough of their characters either, and have started making them playlists for our enjoyment](https://www.pcgamer.com/baldurs-gate-3s-voice-actors-cant-get-enough-of-their-characters-either-and-have-started-making-them-playlists-for-our-enjoyment)
+ - [Build a big tower, get punished by God, in incremental clicker Microcivilization](https://www.pcgamer.com/build-a-big-tower-get-punished-by-god-in-incremental-clicker-microcivilization)
+ - [Judging by the NYCC Percy Jackson panel, the show is going to rule](https://www.polygon.com/nycc/23918162/nycc-percy-jackson-show-disney-plus-panel-rick-riordan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
