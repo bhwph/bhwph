@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The best](http://9gag.com/gag/aKEynvZ)
- - 😝 [Improvisational theatre \ud83c\udfad](http://9gag.com/gag/aGEq6m6)
- - 👉 [Guy SHOCKED at \u201clife outside the hood\u201d \u203c\ufe0f](http://9gag.com/gag/aGEq66X)<!-- MEMES:END -->
+ - 6️⃣ [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
+ - 😝 [Female delusional calculon](http://9gag.com/gag/anz38on)
+ - 👉 [I don\u2019t play second chances\u2026..](http://9gag.com/gag/aREGy87)<!-- MEMES:END -->
 
 --- 
 
