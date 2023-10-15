@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rhys Darby and the Our Flag Means Death cast have a lot of paranormal opinions](https://www.polygon.com/nycc/23917409/our-flag-means-death-cast-rhys-darby-nycc-2023)
- - [Cyberpunk 2077 celebrity showdown: who&#39;s got the cooler character, Idris Elba or Keanu Reeves?](https://www.pcgamer.com/cyberpunk-2077-celebrity-showdown-whos-got-the-cooler-character-idris-elba-or-keanu-reeves)
- - [Final Fantasy VII Rebirth: Matt Mercer Is Vincent Valentine](https://kotaku.com/final-fantasy-7-rebirth-ff7-valentine-matt-mercer-ps5-1850927862)<!-- GAME:END -->
+ - [Sam Lake says Alan Wake 2 will get free DLC that is &#39;pretty significant&#39;](https://www.pcgamer.com/sam-lake-says-alan-wake-2-will-get-free-dlc-that-is-pretty-significant)
+ - [Next city-builder from the creator of The Settlers is looking pretty good in a new demo](https://www.pcgamer.com/next-city-builder-from-the-creator-of-the-settlers-is-looking-pretty-good-in-a-new-demo)
+ - [Rhys Darby and the Our Flag Means Death cast have a lot of paranormal opinions](https://www.polygon.com/nycc/23917409/our-flag-means-death-cast-rhys-darby-nycc-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
