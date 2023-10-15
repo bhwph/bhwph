@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How stupid are you?](http://9gag.com/gag/a5XAx1o)
- - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 👉 [Who wears flip flops to a gym though](http://9gag.com/gag/aWGANDd)<!-- MEMES:END -->
+ - 6️⃣ [Captain Niobe](http://9gag.com/gag/aGEqN4G)
+ - 😝 [Indian street food videoes be like:](http://9gag.com/gag/aME6y2R)
+ - 👉 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)<!-- MEMES:END -->
 
 --- 
 
