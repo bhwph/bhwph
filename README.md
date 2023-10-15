@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy VII Rebirth: Matt Mercer Is Vincent Valentine](https://kotaku.com/final-fantasy-7-rebirth-ff7-valentine-matt-mercer-ps5-1850927862)
- - [Here’s Mortal Kombat 1’s first DLC fighter, Omni-Man, in bloody action](https://www.polygon.com/23917201/mortal-kombat-1-omni-man-dlc-release-date-mk1)
- - [The Fall of the House of Usher’s lemon speech is embarrassingly out of touch](https://www.polygon.com/23915870/fall-house-usher-lemon-monologue-bad-mike-flanagan)<!-- GAME:END -->
+ - [Rhys Darby and the Our Flag Means Death cast have a lot of paranormal opinions](https://www.polygon.com/nycc/23917409/our-flag-means-death-cast-rhys-darby-nycc-2023)
+ - [Cyberpunk 2077 celebrity showdown: who&#39;s got the cooler character, Idris Elba or Keanu Reeves?](https://www.pcgamer.com/cyberpunk-2077-celebrity-showdown-whos-got-the-cooler-character-idris-elba-or-keanu-reeves)
+ - [Final Fantasy VII Rebirth: Matt Mercer Is Vincent Valentine](https://kotaku.com/final-fantasy-7-rebirth-ff7-valentine-matt-mercer-ps5-1850927862)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
