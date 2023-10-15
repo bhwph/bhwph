@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sam Lake says Alan Wake 2 will get free DLC that is &#39;pretty significant&#39;](https://www.pcgamer.com/sam-lake-says-alan-wake-2-will-get-free-dlc-that-is-pretty-significant)
- - [Next city-builder from the creator of The Settlers is looking pretty good in a new demo](https://www.pcgamer.com/next-city-builder-from-the-creator-of-the-settlers-is-looking-pretty-good-in-a-new-demo)
- - [Rhys Darby and the Our Flag Means Death cast have a lot of paranormal opinions](https://www.polygon.com/nycc/23917409/our-flag-means-death-cast-rhys-darby-nycc-2023)<!-- GAME:END -->
+ - [Pokémon Go Timburr Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/10/15/23915727/timburr-community-day-guide-shiny-tips-move)
+ - [Monster Train dev cuts all the monetization from its tactical battler, Inkbound](https://www.pcgamer.com/monster-train-dev-cuts-all-the-monetization-from-its-tactical-battler-inkbound)
+ - [I&#39;m kinda liking this badly translated action roguelike where you can wield an extra gun with your butt](https://www.pcgamer.com/im-kinda-liking-this-badly-translated-action-roguelike-where-you-can-wield-an-extra-gun-with-your-butt)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
