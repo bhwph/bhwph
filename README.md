@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don\u2019t play second chances\u2026..](http://9gag.com/gag/aREGy87)
- - 😝 [Do the cat](http://9gag.com/gag/aqeOdm7)
- - 👉 [Party in your 30s...](http://9gag.com/gag/a5XAvdo)<!-- MEMES:END -->
+ - 6️⃣ [A Tet a day, keeps the doctor away](http://9gag.com/gag/anz3dmz)
+ - 😝 [Indian street food videoes be like:](http://9gag.com/gag/aME6y2R)
+ - 👉 [Post your cursed images!](http://9gag.com/gag/a1PnxK8)<!-- MEMES:END -->
 
 --- 
 
