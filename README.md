@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Disney’s Once Upon a Studio brought back Robin Williams’ Genie — without AI](https://www.polygon.com/23915430/once-upon-a-studio-disney-short-robin-williams-genie-ai)
- - [Pete Davidson’s Barbie parody completes his Pete Davidson trilogy](https://www.polygon.com/23917803/pete-davidson-snl-barbie-parody-im-just-pete)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [Here’s the Latest from Minecraft Live 2023](https://minecraft.net/article/minecraft-live-2023--the-recap-#new_tab)
+ - [When does Halo Infinite season 5 release?](https://www.polygon.com/halo-infinite-guide-walkthrough/2023/10/15/23914673/season-5-release-time-date)
+ - [13 movies that define the spoopy canon](https://www.polygon.com/23914691/best-horror-movies-for-kids-spoopy-halloween-movies-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
