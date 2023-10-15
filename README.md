@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You Can Still Snag the 2nd-Gen AirPods Pro at a Record-Low Price From Walmart     - CNET](https://www.cnet.com/deals/usb-c-or-lightning-both-airpods-pro-2-versions-still-on-sale/#ftag=CAD590a51e)
- - [How to turn off FaceTime video reactions in iOS 17 and macOS Sonoma](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-facetime-video-reactions-in-ios-17-and-macos-sonoma?utm_medium=rss)
- - [Get Your Hands on a 20W Apple Power Adapter for Just $13     - CNET](https://www.cnet.com/deals/get-your-hands-on-a-20w-apple-power-adapter-for-just-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Competing rumors cast doubt on October iPad update](https://appleinsider.com/articles/23/10/15/competing-rumors-cast-doubt-on-october-ipad-update?utm_medium=rss)
+ - [Capturing Yosemite: A Deep Dive With the iPhone 15 Pro Max and 13 Pro Max Cameras     - CNET](https://www.cnet.com/tech/mobile/capturing-yosemite-deep-dive-with-iphone-15-pro-max-13-pro-max-camera/#ftag=CAD590a51e)
+ - [ADT Solar Review: Strong Warranties and a Price Match Put It Over the Top     - CNET](https://www.cnet.com/home/energy-and-utilities/is-adt-solar-the-best-solar-installer-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
