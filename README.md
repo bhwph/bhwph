@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
- - [Low-cost Apple Vision Pro could drop external display](https://appleinsider.com/articles/23/10/15/low-cost-apple-vision-pro-could-drop-external-display?utm_medium=rss)
- - [Apple’s cheaper Vision Pro follow-up still won’t be cheap](https://www.theverge.com/2023/10/15/23917710/apple-vision-pro-cheaper-no-eyesight-external-display)<!-- TECH:END -->
+ - [Daily deals Oct. 15: M1 Max 16&quot; MacBook Pro 32GB RAM $2,399, $112 off iPhone 14 Plus, 30% off Lego Star Wars set, more](https://appleinsider.com/articles/23/10/15/daily-deals-oct-15-m1-max-16-macbook-pro-32gb-ram-2399-112-off-iphone-14-plus-30-off-lego-star-wars-set-more?utm_medium=rss)
+ - [Should you buy a Pixel 8 or wait for the Pixel 8a?](https://www.androidauthority.com/google-pixel-8-vs-pixel-8a-3373333/)
+ - [Apple&#39;s corporate reshuffle includes many VP promotions](https://appleinsider.com/articles/23/10/15/apples-corporate-reshuffle-includes-many-vp-promotions?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
