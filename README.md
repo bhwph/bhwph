@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Magnetic Minerals May Have Given Life Its Molecular Asymmetry](https://www.wired.com/story/magnetic-minerals-may-have-given-life-its-molecular-asymmetry/)
- - [Best Gear and Tips to Keep Your Home Warm in the Winter &lpar;2023&rpar;](https://www.wired.com/story/gear-to-winter-proof-your-home/)
- - [Everything you need to track your movies, music, books, and more](https://www.theverge.com/23915813/sequel-sofa-media-tracking-apps-roblox-razr-big-vape-installer-newsletter)<!-- TECH:END -->
+ - [15 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
+ - [Low-cost Apple Vision Pro could drop external display](https://appleinsider.com/articles/23/10/15/low-cost-apple-vision-pro-could-drop-external-display?utm_medium=rss)
+ - [Apple’s cheaper Vision Pro follow-up still won’t be cheap](https://www.theverge.com/2023/10/15/23917710/apple-vision-pro-cheaper-no-eyesight-external-display)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
