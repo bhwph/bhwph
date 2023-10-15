@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
- - 😝 [Female delusional calculon](http://9gag.com/gag/anz38on)
- - 👉 [I don\u2019t play second chances\u2026..](http://9gag.com/gag/aREGy87)<!-- MEMES:END -->
+ - 6️⃣ [I don\u2019t play second chances\u2026..](http://9gag.com/gag/aREGy87)
+ - 😝 [Do the cat](http://9gag.com/gag/aqeOdm7)
+ - 👉 [Party in your 30s...](http://9gag.com/gag/a5XAvdo)<!-- MEMES:END -->
 
 --- 
 
