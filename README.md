@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is the scream of pure terror](http://9gag.com/gag/agobKV1)
- - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 👉 [Wait... I have seen this movie before](http://9gag.com/gag/anz3W7B)<!-- MEMES:END -->
+ - 6️⃣ [The best](http://9gag.com/gag/aKEynvZ)
+ - 😝 [Improvisational theatre \ud83c\udfad](http://9gag.com/gag/aGEq6m6)
+ - 👉 [Guy SHOCKED at \u201clife outside the hood\u201d \u203c\ufe0f](http://9gag.com/gag/aGEq66X)<!-- MEMES:END -->
 
 --- 
 
