@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Tet a day, keeps the doctor away](http://9gag.com/gag/anz3dmz)
- - 😝 [Indian street food videoes be like:](http://9gag.com/gag/aME6y2R)
- - 👉 [Post your cursed images!](http://9gag.com/gag/a1PnxK8)<!-- MEMES:END -->
+ - 6️⃣ [Slavic minimalism](http://9gag.com/gag/aDYLqKx)
+ - 😝 [Autumn fun](http://9gag.com/gag/agobpe6)
+ - 👉 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)<!-- MEMES:END -->
 
 --- 
 
