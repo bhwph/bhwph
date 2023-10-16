@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)
- - 😝 [It was a good day.](http://9gag.com/gag/a4o8red)
- - 👉 [Slavic minimalism](http://9gag.com/gag/aDYLqKx)<!-- MEMES:END -->
+ - 6️⃣ [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
+ - 😝 [Rosted and destroyed \u2713](http://9gag.com/gag/aVb89PP)
+ - 👉 [Yeah](http://9gag.com/gag/anz3ZM5)<!-- MEMES:END -->
 
 --- 
 
