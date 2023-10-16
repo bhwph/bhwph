@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man 2 toys with Marvel history to be as much fun as possible](https://www.polygon.com/reviews/23910756/spider-man-2-review-insomniac-release-date-ps5)
- - [Spider-Man 2: The Kotaku Review](https://kotaku.com/marvel-spider-man-2-review-ps5-venom-miles-morales-1850929271)
- - [AGGRO DR1FT is what would happen if 2009 Xbox Live voice chat made a movie](https://www.polygon.com/reviews/23916193/aggro-dr1ft-review-travis-scott-harmony-korine)<!-- GAME:END -->
+ - [Taylor Swift’s Eras Tour movie is already breaking box office records](https://www.polygon.com/23919202/taylor-swift-eras-tour-movie-box-office-records-opening-total)
+ - [Like A Dragon Gaiden Won’t Include a Key Feature At Launch](https://kotaku.com/like-dragon-gaiden-yakuza-english-dub-patch-1850929805)
+ - [What is Party Play in Pokémon Go? Release date, bonuses, Party Power explained](https://www.polygon.com/pokemon-go-guide/23918919/party-play-party-power-damage-co-op-multiplayer-bonus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
