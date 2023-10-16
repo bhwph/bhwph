@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
- - 😝 [Autumn fun](http://9gag.com/gag/agobpe6)
- - 👉 [Remember?](http://9gag.com/gag/a1Pn80G)<!-- MEMES:END -->
+ - 6️⃣ [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)
+ - 😝 [Remember?](http://9gag.com/gag/a1Pn80G)
+ - 👉 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)<!-- MEMES:END -->
 
 --- 
 
