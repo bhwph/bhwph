@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Probably a repost, but I need captain to explain how it end up. &lpar;Not my video&rpar;](http://9gag.com/gag/aPg0LjQ)
- - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
+ - 6️⃣ [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)
+ - 😝 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)
  - 👉 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)<!-- MEMES:END -->
 
 --- 
