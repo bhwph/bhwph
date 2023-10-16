@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After relaxing political ad rules in January, X begins aggressively pitching political advertisers; AdImpact estimates 2023-24 US election spending at $10.2B &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/231016/p11#a231016p11)
- - [The case for Taylor Swift&#39;s &#39;Eras Tour&#39; on Apple TV+ in January](https://appleinsider.com/articles/23/10/16/the-case-for-taylor-swifts-eras-tour-on-apple-tv-in-january?utm_medium=rss)
- - [Goldman Sachs regrets Apple Card, and is trying to escape the deal](https://appleinsider.com/articles/23/10/16/goldman-sachs-regrets-apple-card-and-is-trying-to-escape-the-deal?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 15 Pro Max costs 12% more to make than iPhone 14 counterpart](https://appleinsider.com/articles/23/10/16/iphone-15-pro-max-costs-12-more-to-make-than-iphone-14-counterpart?utm_medium=rss)
+ - [Spider-Man 2 on the PS5 has twice the spider-men, twice the emo fun](https://www.theverge.com/23915605/spider-man-2-review-ps5)
+ - [Some influencers and CEOs are taking their brands to LinkedIn, enticed by less competition among creators, a committed user base, and a safer feel than X &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/231016/p14#a231016p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
