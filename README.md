@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will soon be able to update unopened iPhones](https://www.androidauthority.com/apple-update-unopened-iphones-sealed-boxes-3375640/)
- - [Google Camera now has a new name to give you next level Pixel envy](https://www.androidauthority.com/google-camera-pixel-camera-3376160/)
- - [Millions of Workers Are Training AI Models for Pennies](https://www.wired.com/story/millions-of-workers-are-training-ai-models-for-pennies/)<!-- TECH:END -->
+ - [Mojang announces 300M+ copies of Minecraft sold in ~15 years; Rockstar&#39;s GTA V is the second best-selling game ever after reportedly selling ~185M in ~10 years &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/231016/p2#a231016p2)
+ - [You told us: Most of you don’t care that the Pixel 8 lacks ray tracing](https://www.androidauthority.com/google-pixel-8-lack-ray-tracing-poll-results-3376169/)
+ - [Google confirms Pixel 8 series will support lossless USB audio in the future](https://www.androidauthority.com/pixel-8-lossless-audio-update-3376171/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
