@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Autumn fun](http://9gag.com/gag/agobpe6)
- - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 👉 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)<!-- MEMES:END -->
+ - 6️⃣ [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 😝 [Autumn fun](http://9gag.com/gag/agobpe6)
+ - 👉 [Remember?](http://9gag.com/gag/a1Pn80G)<!-- MEMES:END -->
 
 --- 
 
