@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)
- - 😝 [Remember?](http://9gag.com/gag/a1Pn80G)
- - 👉 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)<!-- MEMES:END -->
+ - 6️⃣ [Are you ok?](http://9gag.com/gag/aQEKrmK)
+ - 😝 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
+ - 👉 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)<!-- MEMES:END -->
 
 --- 
 
