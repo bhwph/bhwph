@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mackenzie Limited Ted Lasso shortbread biscuits review: A delicious collaboration](https://appleinsider.com/articles/23/10/16/mackenzie-limited-ted-lasso-shortbread-biscuits-review-a-delicious-collaboration?utm_medium=rss)
- - [SolanaFM: the FTX estate staked 5.5M SOL, valued at $122M, from a principal wallet, delegating the coins to network validator Figment; FTX has $1B+ in SOL &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/231016/p4#a231016p4)
- - [Spotify has been experiencing performance issues on iOS since weeks](https://www.androidauthority.com/spotify-crashing-ios-3376194/)<!-- TECH:END -->
+ - [After relaxing political ad rules in January, X begins aggressively pitching political advertisers; AdImpact estimates 2023-24 US election spending at $10.2B &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/231016/p11#a231016p11)
+ - [The case for Taylor Swift&#39;s &#39;Eras Tour&#39; on Apple TV+ in January](https://appleinsider.com/articles/23/10/16/the-case-for-taylor-swifts-eras-tour-on-apple-tv-in-january?utm_medium=rss)
+ - [Goldman Sachs regrets Apple Card, and is trying to escape the deal](https://appleinsider.com/articles/23/10/16/goldman-sachs-regrets-apple-card-and-is-trying-to-escape-the-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
