@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gary Gensler says it&#39;s &quot;nearly unavoidable&quot; that AI will cause a financial crisis if many institutions rely on the same underlying base model or data aggregator &lpar;Financial Times&rpar;](http://www.techmeme.com/231016/p1#a231016p1)
- - [Lakers legend Rick Fox built a house that can suck CO2 out of the atmosphere](https://www.theverge.com/2023/10/16/23916106/nba-lakers-rick-fox-concrete-alternative-house-partanna-climate-change)
- - [Australia says it fined X ~$384K and warned Google after they failed to give adequate info on their efforts to fight CSAM despite a law requiring the disclosure &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/231015/p8#a231015p8)<!-- TECH:END -->
+ - [Apple will soon be able to update unopened iPhones](https://www.androidauthority.com/apple-update-unopened-iphones-sealed-boxes-3375640/)
+ - [Google Camera now has a new name to give you next level Pixel envy](https://www.androidauthority.com/google-camera-pixel-camera-3376160/)
+ - [Millions of Workers Are Training AI Models for Pennies](https://www.wired.com/story/millions-of-workers-are-training-ai-models-for-pennies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
