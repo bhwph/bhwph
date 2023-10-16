@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Beta &lpar;2310.231012-2200&rpar;](https://news.xbox.com/en-us/2023/10/16/xbox-insider-release-notes-beta-2310-231012-2200/)
- - [Rick and Morty soundalikes, a Netflix mystery thriller, and more new TV this week](https://www.polygon.com/2023/10/16/23903002/netflix-new-tv-mystery-thriller-rick-morty-soundalikes-kristen-stewart-gay-ghost-show)
- - [New Microsoft Flight Simulator DLC Adds Dune Buggies🤔](https://kotaku.com/microsoft-flight-sim-simulator-new-dlc-dune-buggy-utv-1850930215)<!-- GAME:END -->
+ - [Epic Games&#39; Messy Bandcamp Sale Ends With Mass Layoffs](https://kotaku.com/epic-games-bandcamp-layoffs-songtradr-fortnite-music-1850931222)
+ - [Minecraft Still The Best-Selling Video Game Of All Time &lpar;It&#39;s Not Even Close&rpar;](https://kotaku.com/minecraft-live-2023-300-million-number-copies-sold-1850931010)
+ - [League of Legends has a boy band now, &#39;a group of dynamic daredevils dedicated to unapologetic individuality and creative expression&#39;](https://www.pcgamer.com/league-of-legends-has-a-boy-band-now-a-group-of-dynamic-daredevils-dedicated-to-unapologetic-individuality-and-creative-expression)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
