@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3&#39;s voice actors can&#39;t get enough of their characters either, and have started making them playlists for our enjoyment](https://www.pcgamer.com/baldurs-gate-3s-voice-actors-cant-get-enough-of-their-characters-either-and-have-started-making-them-playlists-for-our-enjoyment)
- - [Build a big tower, get punished by God, in incremental clicker Microcivilization](https://www.pcgamer.com/build-a-big-tower-get-punished-by-god-in-incremental-clicker-microcivilization)
- - [Judging by the NYCC Percy Jackson panel, the show is going to rule](https://www.polygon.com/nycc/23918162/nycc-percy-jackson-show-disney-plus-panel-rick-riordan)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;October 16, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-16-2023)
+ - [Manage your inventory to PvP glory in the demo of autobattler Backpack Battles](https://www.pcgamer.com/manage-your-inventory-to-pvp-glory-in-the-demo-of-autobattler-backpack-battles)
+ - [Minecraft 1.21: everything we know about the next major Minecraft update](https://www.pcgamer.com/minecraft-121-update-features-blocks-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
