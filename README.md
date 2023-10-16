@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)
- - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 👉 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)<!-- MEMES:END -->
+ - 😝 [It was a good day.](http://9gag.com/gag/a4o8red)
+ - 👉 [Slavic minimalism](http://9gag.com/gag/aDYLqKx)<!-- MEMES:END -->
 
 --- 
 
