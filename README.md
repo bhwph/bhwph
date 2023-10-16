@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Climate activists land devastating blow against big oil by disrupting minor Tekken tournament](https://www.pcgamer.com/climate-activists-land-devastating-blow-against-big-oil-by-disrupting-minor-tekken-tournament)
- - [Blizzard pulls Diablo Season 2 trailer that got almost everything wrong, its fumbled sums stunlocking this streamer with laughter](https://www.pcgamer.com/blizzard-pulls-diablo-season-2-trailer-that-got-almost-everything-wrong-its-fumbled-sums-stunlocking-this-streamer-with-laughter)
- - [How to free Gerlinde and upgrade weapons in Lords of the Fallen](https://www.pcgamer.com/lords-of-the-fallen-gerlinde-upgrade-weapons)<!-- GAME:END -->
+ - [Spider-Man 2 toys with Marvel history to be as much fun as possible](https://www.polygon.com/reviews/23910756/spider-man-2-review-insomniac-release-date-ps5)
+ - [Spider-Man 2: The Kotaku Review](https://kotaku.com/marvel-spider-man-2-review-ps5-venom-miles-morales-1850929271)
+ - [AGGRO DR1FT is what would happen if 2009 Xbox Live voice chat made a movie](https://www.polygon.com/reviews/23916193/aggro-dr1ft-review-travis-scott-harmony-korine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
