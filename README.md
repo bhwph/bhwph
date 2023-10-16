@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Top notch safety video](http://9gag.com/gag/aBdMMBx)
- - 😝 [A man in Austria was out for a walk, doggo disappeared, found to be getting drowned by a kangaroo. Man punched kangaroo, which then attempted to drown him.](http://9gag.com/gag/aQEKbxq)
- - 👉 [Beach creatures](http://9gag.com/gag/aqeOVVP)<!-- MEMES:END -->
+ - 6️⃣ [The face of happiness](http://9gag.com/gag/aWGA506)
+ - 😝 [Me too](http://9gag.com/gag/a04Gg0Z)
+ - 👉 [Get it?](http://9gag.com/gag/amAyQvy)<!-- MEMES:END -->
 
 --- 
 
