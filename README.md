@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max costs 12% more to make than iPhone 14 counterpart](https://appleinsider.com/articles/23/10/16/iphone-15-pro-max-costs-12-more-to-make-than-iphone-14-counterpart?utm_medium=rss)
- - [Spider-Man 2 on the PS5 has twice the spider-men, twice the emo fun](https://www.theverge.com/23915605/spider-man-2-review-ps5)
- - [Some influencers and CEOs are taking their brands to LinkedIn, enticed by less competition among creators, a committed user base, and a safer feel than X &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/231016/p14#a231016p14)<!-- TECH:END -->
+ - [Epic is offering a big incentive for developers to bring older games to its store](https://www.theverge.com/2023/10/16/23919265/epic-games-store-now-on-older-games)
+ - [Buyers complain of burn-in on iPhone 15 Pro Max display](https://appleinsider.com/articles/23/10/16/buyers-complain-of-burn-in-on-iphone-15-pro-max-display?utm_medium=rss)
+ - [Samsung welcomes two more phones to the One UI 6 beta program](https://www.androidauthority.com/samsung-one-ui-6-beta-rollout-3376301/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
