@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic Games&#39; Messy Bandcamp Sale Ends With Mass Layoffs](https://kotaku.com/epic-games-bandcamp-layoffs-songtradr-fortnite-music-1850931222)
- - [Minecraft Still The Best-Selling Video Game Of All Time &lpar;It&#39;s Not Even Close&rpar;](https://kotaku.com/minecraft-live-2023-300-million-number-copies-sold-1850931010)
- - [League of Legends has a boy band now, &#39;a group of dynamic daredevils dedicated to unapologetic individuality and creative expression&#39;](https://www.pcgamer.com/league-of-legends-has-a-boy-band-now-a-group-of-dynamic-daredevils-dedicated-to-unapologetic-individuality-and-creative-expression)<!-- GAME:END -->
+ - [Starfield lead quest designer leaves Bethesda to work on the open-world RPG Wyrdsong](https://www.pcgamer.com/starfield-lead-quest-designer-leaves-bethesda-to-work-on-the-open-world-rpg-wyrdsong)
+ - [The Week In Games: What’s Coming Out Beyond Marvel&#39;s Spider-Man 2](https://kotaku.com/october-games-this-week-spider-man-2-mario-bros-wonder-1850930187)
+ - [World of Warcraft: Dragonflight’s next update adds an ancient realm players have wanted to explore for years](https://www.pcgamer.com/world-of-warcraft-dragonflights-next-update-adds-an-ancient-realm-players-have-wanted-to-explore-for-years)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
