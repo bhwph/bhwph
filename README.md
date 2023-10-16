@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden campaign joins Donald Trump’s Truth Social platform](https://www.theverge.com/2023/10/16/23919770/trump-biden-truth-social-media-platform-gop-primary)
- - [Google Wallet’s new ‘Photo’ pass feature spotted on the Pixel 8 Pro](https://www.androidauthority.com/google-wallet-photo-feature-3376414/)
- - [WhatsApp turns on passwordless logins with passkeys for Android users](https://www.theverge.com/2023/10/16/23919609/whatsapp-passkey-android-update-passwordless-security)<!-- TECH:END -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
