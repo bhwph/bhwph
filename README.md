@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Taylor Swift’s Eras Tour movie is already breaking box office records](https://www.polygon.com/23919202/taylor-swift-eras-tour-movie-box-office-records-opening-total)
- - [Like A Dragon Gaiden Won’t Include a Key Feature At Launch](https://kotaku.com/like-dragon-gaiden-yakuza-english-dub-patch-1850929805)
- - [What is Party Play in Pokémon Go? Release date, bonuses, Party Power explained](https://www.polygon.com/pokemon-go-guide/23918919/party-play-party-power-damage-co-op-multiplayer-bonus)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Beta &lpar;2310.231012-2200&rpar;](https://news.xbox.com/en-us/2023/10/16/xbox-insider-release-notes-beta-2310-231012-2200/)
+ - [Rick and Morty soundalikes, a Netflix mystery thriller, and more new TV this week](https://www.polygon.com/2023/10/16/23903002/netflix-new-tv-mystery-thriller-rick-morty-soundalikes-kristen-stewart-gay-ghost-show)
+ - [New Microsoft Flight Simulator DLC Adds Dune Buggies🤔](https://kotaku.com/microsoft-flight-sim-simulator-new-dlc-dune-buggy-utv-1850930215)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
