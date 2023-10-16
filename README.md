@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Beeper is trying to make sense of all your messaging apps](https://www.theverge.com/23919378/beeper-universal-messaging-app-whatsapp-imessage-slack-twitter)
- - [Catch the best 2023 deal on the Jabra Elite 7 Pro](https://www.androidauthority.com/jabra-elite-7-pro-deal-3376398/)
- - [Snap shares jumped 11%+ following a report that Snap&#39;s internal &quot;stretch&quot; goal was to have over 475M DAUs in 2024, above Wall St. expectations of ~447M &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231016/p22#a231016p22)<!-- TECH:END -->
+ - [Biden campaign joins Donald Trump’s Truth Social platform](https://www.theverge.com/2023/10/16/23919770/trump-biden-truth-social-media-platform-gop-primary)
+ - [Google Wallet’s new ‘Photo’ pass feature spotted on the Pixel 8 Pro](https://www.androidauthority.com/google-wallet-photo-feature-3376414/)
+ - [WhatsApp turns on passwordless logins with passkeys for Android users](https://www.theverge.com/2023/10/16/23919609/whatsapp-passkey-android-update-passwordless-security)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
