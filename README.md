@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic is offering a big incentive for developers to bring older games to its store](https://www.theverge.com/2023/10/16/23919265/epic-games-store-now-on-older-games)
- - [Buyers complain of burn-in on iPhone 15 Pro Max display](https://appleinsider.com/articles/23/10/16/buyers-complain-of-burn-in-on-iphone-15-pro-max-display?utm_medium=rss)
- - [Samsung welcomes two more phones to the One UI 6 beta program](https://www.androidauthority.com/samsung-one-ui-6-beta-rollout-3376301/)<!-- TECH:END -->
+ - [How Beeper is trying to make sense of all your messaging apps](https://www.theverge.com/23919378/beeper-universal-messaging-app-whatsapp-imessage-slack-twitter)
+ - [Catch the best 2023 deal on the Jabra Elite 7 Pro](https://www.androidauthority.com/jabra-elite-7-pro-deal-3376398/)
+ - [Snap shares jumped 11%+ following a report that Snap&#39;s internal &quot;stretch&quot; goal was to have over 475M DAUs in 2024, above Wall St. expectations of ~447M &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231016/p22#a231016p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
