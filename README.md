@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ultimate showdown: New Apple Pencil USB-C vs old Apple Pencils](https://appleinsider.com/inside/apple-pencil/vs/ultimate-showdown-new-apple-pencil-usb-c-vs-old-apple-pencils?utm_medium=rss)
- - [NYC Mayor Eric Adams uses AI to make robocalls in languages he doesn’t speak](https://www.theverge.com/2023/10/17/23920733/nyc-mayor-eric-adams-ai-robocalls-spanish-mandarin)
- - [Google updates accessibility features in Maps, Chrome on mobile, Assistant, more](https://www.androidauthority.com/google-accessibility-updates-2023-3376374/)<!-- TECH:END -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [Sources: internal Microsoft data shows Windows 11 is now in use on 400M+ monthly active devices and on pace to surpass 500M in early 2024 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231017/p35#a231017p35)
+ - [Hannah Waddingham takes Apple TV+ &#39;Home for Christmas&#39; in new special](https://appleinsider.com/articles/23/10/17/hannah-waddingham-takes-apple-tv-home-for-christmas-in-new-special?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
