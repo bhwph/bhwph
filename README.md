@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Christian Bale returns to Studio Ghibli in The Boy and the Heron](https://www.polygon.com/23921020/the-boy-and-the-heron-voice-cast-english-ghibli-christian-bale)
- - [Slay Vampires in Diablo IV’s Season of Blood](https://news.xbox.com/en-us/2023/10/17/diablo-4-season-of-blood/)
- - [Xbox Insider Release Notes – Omega &lpar;2310.231012-2200&rpar;](https://news.xbox.com/en-us/2023/10/17/xbox-insider-release-notes-omega-2310-231012-2200/)<!-- GAME:END -->
+ - [What time does Diablo 4 season 2 start?](https://www.polygon.com/diablo-4-guides/23919067/season-2-release-time-date)
+ - [Fortnite put a whole other dang game in Fortnite](https://www.polygon.com/23921047/fortnite-alan-wake-flashback-recap)
+ - [Elite Dangerous studio Frontier Developments announces layoffs &#39;following a period of disappointing financial performance&#39;](https://www.pcgamer.com/elite-dangerous-studio-frontier-developments-announces-layoffs-following-a-period-of-disappointing-financial-performance)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
