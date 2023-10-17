@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Diablo 4 season 2 start?](https://www.polygon.com/diablo-4-guides/23919067/season-2-release-time-date)
- - [Fortnite put a whole other dang game in Fortnite](https://www.polygon.com/23921047/fortnite-alan-wake-flashback-recap)
- - [Elite Dangerous studio Frontier Developments announces layoffs &#39;following a period of disappointing financial performance&#39;](https://www.pcgamer.com/elite-dangerous-studio-frontier-developments-announces-layoffs-following-a-period-of-disappointing-financial-performance)<!-- GAME:END -->
+ - [Super Mario Bros. Wonder’s Goombas Actually Bite, Just Like Miyamoto Always Wanted](https://kotaku.com/super-mario-bros-wonder-s-goombas-actually-bite-just-1850935650)
+ - [Epic Games&#39; Messy Bandcamp Sale Ends With Mass Layoffs [Update]](https://kotaku.com/epic-games-bandcamp-layoffs-songtradr-fortnite-music-1850931222)
+ - [Xbox Boss Says There&#39;s No &#39;Secret&#39; Call Of Duty Drop Coming To Game Pass In 2023](https://kotaku.com/call-duty-modern-warfare-3-diablo-4-xbox-game-pass-mwii-1850935619)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
