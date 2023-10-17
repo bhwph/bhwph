@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
- - 😝 [I don&#39;t appreciate being called out like this](http://9gag.com/gag/aWGA3G4)
- - 👉 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)<!-- MEMES:END -->
+ - 6️⃣ [Legend lives on](http://9gag.com/gag/aA078r2)
+ - 😝 [Asian American couple in Washington close their door milliseconds before a man with a gun tries to follow them in](http://9gag.com/gag/aeQE8B5)
+ - 👉 [I am so proud if this community!](http://9gag.com/gag/aME6obM)<!-- MEMES:END -->
 
 --- 
 
