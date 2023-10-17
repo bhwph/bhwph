@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)
- - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
- - 👉 [Get it?](http://9gag.com/gag/amAyQvy)<!-- MEMES:END -->
+ - 6️⃣ [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
+ - 😝 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
+ - 👉 [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)<!-- MEMES:END -->
 
 --- 
 
