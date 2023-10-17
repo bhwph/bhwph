@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat now lets you embed videos and lenses on the web](https://www.theverge.com/2023/10/17/23920623/snapchat-embed-videos-lenses-web)
- - [17 Best Wireless Earbuds &lpar;2023&rpar;: Truly Wireless, Cheap, Luxe, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [Bose QuietComfort Ultra Headphones review: predictable excellence](https://www.theverge.com/23920591/bose-quietcomfort-ultra-headphones-review)<!-- TECH:END -->
+ - [Ultimate showdown: New Apple Pencil USB-C vs old Apple Pencils](https://appleinsider.com/inside/apple-pencil/vs/ultimate-showdown-new-apple-pencil-usb-c-vs-old-apple-pencils?utm_medium=rss)
+ - [NYC Mayor Eric Adams uses AI to make robocalls in languages he doesn’t speak](https://www.theverge.com/2023/10/17/23920733/nyc-mayor-eric-adams-ai-robocalls-spanish-mandarin)
+ - [Google updates accessibility features in Maps, Chrome on mobile, Assistant, more](https://www.androidauthority.com/google-accessibility-updates-2023-3376374/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
