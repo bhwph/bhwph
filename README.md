@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic Games&#39; Messy Bandcamp Sale Ends With Mass Layoffs](https://kotaku.com/epic-games-bandcamp-layoffs-songtradr-fortnite-music-1850931222)
- - [Mail Time: cozy cottagecore adventure delivered to PS5 and PS4 October 19](https://blog.playstation.com/2023/10/17/mail-time-cozy-cottagecore-adventure-delivered-to-ps5-and-ps4-october-19/)
- - [Critical Role’s take on D&amp;D, Candela Obscura, goes on sale in November](https://www.polygon.com/23920732/candela-obscura-release-date-critical-role-dungeons-and-dragons-dnd)<!-- GAME:END -->
+ - [Christian Bale returns to Studio Ghibli in The Boy and the Heron](https://www.polygon.com/23921020/the-boy-and-the-heron-voice-cast-english-ghibli-christian-bale)
+ - [Slay Vampires in Diablo IV’s Season of Blood](https://news.xbox.com/en-us/2023/10/17/diablo-4-season-of-blood/)
+ - [Xbox Insider Release Notes – Omega &lpar;2310.231012-2200&rpar;](https://news.xbox.com/en-us/2023/10/17/xbox-insider-release-notes-omega-2310-231012-2200/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
