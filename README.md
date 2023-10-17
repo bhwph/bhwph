@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The face you make when you Find Out](http://9gag.com/gag/a4o8gBQ)
+ - 6️⃣ [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
  - 😝 [Not Another Teen Movie &lpar;2001&rpar;. Best scene](http://9gag.com/gag/aWGA5Xq)
  - 👉 [Terro attack Brussels Belgium just now. 2 dead, 1 critical](http://9gag.com/gag/a8q9OOO)<!-- MEMES:END -->
 
