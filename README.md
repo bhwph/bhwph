@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deathmatch Island RPG fuses Lost with Squid Game, and a little Severance too](https://www.polygon.com/tabletop-games/23919694/deathmatch-island-rpg-backerkit-announcement-release-date-price)
- - [The Coolest Merch We Saw At New York Comic Con 2023](https://kotaku.com/ny-comic-con-merch-assassins-fantasy-godzilla-1850931913)
- - [How one gun company partnered with Call of Duty to attract &#39;young potential shooters&#39;](https://www.pcgamer.com/how-one-gun-company-partnered-with-call-of-duty-to-attract-young-potential-shooters)<!-- GAME:END -->
+ - [Epic Games&#39; Messy Bandcamp Sale Ends With Mass Layoffs](https://kotaku.com/epic-games-bandcamp-layoffs-songtradr-fortnite-music-1850931222)
+ - [Mail Time: cozy cottagecore adventure delivered to PS5 and PS4 October 19](https://blog.playstation.com/2023/10/17/mail-time-cozy-cottagecore-adventure-delivered-to-ps5-and-ps4-october-19/)
+ - [Critical Role’s take on D&amp;D, Candela Obscura, goes on sale in November](https://www.polygon.com/23920732/candela-obscura-release-date-critical-role-dungeons-and-dragons-dnd)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
