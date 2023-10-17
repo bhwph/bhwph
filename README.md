@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Store online officially launches in Chile](https://appleinsider.com/articles/23/10/17/apple-store-online-officially-launches-in-chile?utm_medium=rss)
  - [Marc Andreessen&#39;s &quot;Techno-Optimist Manifesto&quot; lists &quot;enemies&quot; such as trust and safety and tech ethics, says AI is &quot;our Philosopher&#39;s Stone&quot;, and more &lpar;Rachyl Jones/Fortune&rpar;](http://www.techmeme.com/231016/p30#a231016p30)
- - [As Telegram allows Hamas to use its service, CEO Pavel Durov says Telegram channels are a &quot;source of first-hand information&quot; for researchers and journalists &lpar;CNN&rpar;](http://www.techmeme.com/231016/p29#a231016p29)
- - [The Meta glassholes have arrived](https://www.theverge.com/23920102/meta-quest-3-in-public-privacy-recording-glassholes)<!-- TECH:END -->
+ - [As Telegram allows Hamas to use its service, CEO Pavel Durov says Telegram channels are a &quot;source of first-hand information&quot; for researchers and journalists &lpar;CNN&rpar;](http://www.techmeme.com/231016/p29#a231016p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
