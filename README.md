@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)<!-- TECH:END -->
+ - [Marc Andreessen&#39;s &quot;Techno-Optimist Manifesto&quot; lists &quot;enemies&quot; such as trust and safety and tech ethics, says AI is &quot;our Philosopher&#39;s Stone&quot;, and more &lpar;Rachyl Jones/Fortune&rpar;](http://www.techmeme.com/231016/p30#a231016p30)
+ - [As Telegram allows Hamas to use its service, CEO Pavel Durov says Telegram channels are a &quot;source of first-hand information&quot; for researchers and journalists &lpar;CNN&rpar;](http://www.techmeme.com/231016/p29#a231016p29)
+ - [The Meta glassholes have arrived](https://www.theverge.com/23920102/meta-quest-3-in-public-privacy-recording-glassholes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
