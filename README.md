@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC drops plans to build a new chip plant in Longtan, a rural part of Taiwan, after local opposition; the company reportedly planned to build 1nm chips there &lpar;Sarah Wu/Reuters&rpar;](http://www.techmeme.com/231017/p16#a231017p16)
- - [Job Hunting Sucks. This Programmer Filled Out 250 Applications to Find Out Why](https://www.wired.com/story/job-hunting-sucks-programmer-filled-out-250-applications/)
- - [Best Google Pixel Phone &lpar;2023&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
+ - [Snapchat now lets you embed videos and lenses on the web](https://www.theverge.com/2023/10/17/23920623/snapchat-embed-videos-lenses-web)
+ - [17 Best Wireless Earbuds &lpar;2023&rpar;: Truly Wireless, Cheap, Luxe, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
+ - [Bose QuietComfort Ultra Headphones review: predictable excellence](https://www.theverge.com/23920591/bose-quietcomfort-ultra-headphones-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
