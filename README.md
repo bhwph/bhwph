@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Sources: internal Microsoft data shows Windows 11 is now in use on 400M+ monthly active devices and on pace to surpass 500M in early 2024 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231017/p35#a231017p35)
- - [Hannah Waddingham takes Apple TV+ &#39;Home for Christmas&#39; in new special](https://appleinsider.com/articles/23/10/17/hannah-waddingham-takes-apple-tv-home-for-christmas-in-new-special?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Pencil joins the iPad confusion zone](https://www.theverge.com/2023/10/17/23920790/apple-pencil-usb-c-confusing-lineup-ipads)
+ - [BMW, Mini, and Rolls-Royce are the latest to sync up with Tesla’s EV charging plug](https://www.theverge.com/2023/10/17/23921374/bmw-mini-rolls-royce-tesla-nacs-ev-charging-standard)
+ - [Nvidia’s H800 AI chip for China is blocked by new export rules](https://www.theverge.com/2023/10/17/23921131/us-china-restrictions-ai-chip-sales-nvidia)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
