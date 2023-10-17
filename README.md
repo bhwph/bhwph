@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Pumpkaboo be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889444/can-pumpkaboo-be-shiny-gourgeist)
- - [&lpar;For Southeast Asia&rpar; New look for PS5 console later this year](https://blog.playstation.com/2023/10/16/20231016-ps5/)
- - [&lpar;For Southeast Asia&rpar; New look for PS5 console later this year](https://blog.playstation.com/2023/10/16/20231016-ps5/)<!-- GAME:END -->
+ - [How to get an environmental kill in Assassin&#39;s Creed Mirage](https://www.pcgamer.com/ac-mirage-environmental-kill)
+ - [This Week’s Xbox Sales and Specials, Including the Shocktober Sale](https://news.xbox.com/en-us/2023/10/17/this-weeks-xbox-sales-and-specials-including-the-shocktober-sale/)
+ - [AMD yeets its latest GPU driver in response to Anti-Lag+ causing bans in Counter-Strike 2](https://www.pcgamer.com/amd-yeets-its-latest-gpu-driver-in-response-to-anti-lag-causing-bans-in-counter-strike-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
