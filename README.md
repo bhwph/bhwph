@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get an environmental kill in Assassin&#39;s Creed Mirage](https://www.pcgamer.com/ac-mirage-environmental-kill)
- - [This Week’s Xbox Sales and Specials, Including the Shocktober Sale](https://news.xbox.com/en-us/2023/10/17/this-weeks-xbox-sales-and-specials-including-the-shocktober-sale/)
- - [AMD yeets its latest GPU driver in response to Anti-Lag+ causing bans in Counter-Strike 2](https://www.pcgamer.com/amd-yeets-its-latest-gpu-driver-in-response-to-anti-lag-causing-bans-in-counter-strike-2)<!-- GAME:END -->
+ - [Deathmatch Island RPG fuses Lost with Squid Game, and a little Severance too](https://www.polygon.com/tabletop-games/23919694/deathmatch-island-rpg-backerkit-announcement-release-date-price)
+ - [The Coolest Merch We Saw At New York Comic Con 2023](https://kotaku.com/ny-comic-con-merch-assassins-fantasy-godzilla-1850931913)
+ - [How one gun company partnered with Call of Duty to attract &#39;young potential shooters&#39;](https://www.pcgamer.com/how-one-gun-company-partnered-with-call-of-duty-to-attract-young-potential-shooters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
