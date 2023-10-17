@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wholesome](http://9gag.com/gag/adPMwpD)
- - 😝 [An Israeli-Arab law school graduate &lpar;funded by taxpayers&rpar; was celebrating the attack on Israel. She isn&#39;t a lawyer anymore.](http://9gag.com/gag/aKEyov1)
- - 👉 [That was literally the most perfect way to explain the makeup on women](http://9gag.com/gag/aoK6QjX)<!-- MEMES:END -->
+ - 6️⃣ [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
+ - 😝 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
+ - 👉 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)<!-- MEMES:END -->
 
 --- 
 
