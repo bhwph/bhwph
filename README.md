@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at sexism in the video games industry; State of the Game Industry 2023 report: ~23% are women, up from 20% in 2022, 5% are non-binary, and 70% are men &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231017/p3#a231017p3)
- - [One Punch Man season 3: Expected release date and the latest rumors](https://www.androidauthority.com/one-punch-man-season-3-release-date-3374997/)
- - [Does your Pixel 6 have major issues after Android 14? You’re not alone.](https://www.androidauthority.com/pixel-6-phones-bugs-android-14-3376675/)<!-- TECH:END -->
+ - [Meta identifies and fixes a bug after thousands of Palestinian supporters say their posts were suppressed or removed from Facebook and Instagram &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/231017/p10#a231017p10)
+ - [Twitch launches Stories, expiring after 48 hours, for Partners and Affiliates who have streamed at least once for 45 minutes or longer in the last 30 days &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/231017/p9#a231017p9)
+ - [‘Someone Is Using Photos of Me to Talk to Men’](https://www.wired.com/story/online-harassment-canada-cyberbullying/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
