@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The face of happiness](http://9gag.com/gag/aWGA506)
- - 😝 [Me too](http://9gag.com/gag/a04Gg0Z)
- - 👉 [Get it?](http://9gag.com/gag/amAyQvy)<!-- MEMES:END -->
+ - 6️⃣ [The face you make when you Find Out](http://9gag.com/gag/a4o8gBQ)
+ - 😝 [Not Another Teen Movie &lpar;2001&rpar;. Best scene](http://9gag.com/gag/aWGA5Xq)
+ - 👉 [Terro attack Brussels Belgium just now. 2 dead, 1 critical](http://9gag.com/gag/a8q9OOO)<!-- MEMES:END -->
 
 --- 
 
