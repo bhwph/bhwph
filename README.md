@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)
- - 😝 [This is funny af](http://9gag.com/gag/adPMw2V)
- - 👉 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)<!-- MEMES:END -->
+ - 6️⃣ [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
+ - 😝 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
+ - 👉 [Me too](http://9gag.com/gag/a04Gg0Z)<!-- MEMES:END -->
 
 --- 
 
