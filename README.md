@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pencil joins the iPad confusion zone](https://www.theverge.com/2023/10/17/23920790/apple-pencil-usb-c-confusing-lineup-ipads)
- - [BMW, Mini, and Rolls-Royce are the latest to sync up with Tesla’s EV charging plug](https://www.theverge.com/2023/10/17/23921374/bmw-mini-rolls-royce-tesla-nacs-ev-charging-standard)
- - [Nvidia’s H800 AI chip for China is blocked by new export rules](https://www.theverge.com/2023/10/17/23921131/us-china-restrictions-ai-chip-sales-nvidia)<!-- TECH:END -->
+ - [Phil Spencer says Activision Blizzard games won&#39;t come to Xbox Game Pass until 2024, in part due to the time it took for the Activision acquisition to be closed &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231017/p44#a231017p44)
+ - [The US IRS plans to offer a free direct e-filing option in 13 states in 2024, for taxpayers with simpler tax situations &lpar;Rob Pegoraro/PCMag&rpar;](http://www.techmeme.com/231017/p43#a231017p43)
+ - [Chrome on iOS and Android will now detect URL typos](https://www.theverge.com/2023/10/17/23921281/chrome-ios-android-url-typos-accessibility-google-maps)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
