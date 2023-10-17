@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
- - 😝 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
- - 👉 [Me too](http://9gag.com/gag/a04Gg0Z)<!-- MEMES:END -->
+ - 6️⃣ [Wholesome](http://9gag.com/gag/adPMwpD)
+ - 😝 [An Israeli-Arab law school graduate &lpar;funded by taxpayers&rpar; was celebrating the attack on Israel. She isn&#39;t a lawyer anymore.](http://9gag.com/gag/aKEyov1)
+ - 👉 [That was literally the most perfect way to explain the makeup on women](http://9gag.com/gag/aoK6QjX)<!-- MEMES:END -->
 
 --- 
 
