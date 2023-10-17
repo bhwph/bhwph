@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield lead quest designer leaves Bethesda to work on the open-world RPG Wyrdsong](https://www.pcgamer.com/starfield-lead-quest-designer-leaves-bethesda-to-work-on-the-open-world-rpg-wyrdsong)
- - [The Week In Games: What’s Coming Out Beyond Marvel&#39;s Spider-Man 2](https://kotaku.com/october-games-this-week-spider-man-2-mario-bros-wonder-1850930187)
- - [World of Warcraft: Dragonflight’s next update adds an ancient realm players have wanted to explore for years](https://www.pcgamer.com/world-of-warcraft-dragonflights-next-update-adds-an-ancient-realm-players-have-wanted-to-explore-for-years)<!-- GAME:END -->
+ - [PS5 Streaming for PlayStation Plus Premium members launches starting today in Japan; Europe and North America to follow](https://blog.playstation.com/2023/10/16/ps5-streaming-for-playstation-plus-premium-members-launches-starting-today-in-japan-europe-and-north-america-to-follow/)
+ - [PS5 Streaming for PlayStation Plus Premium members launches starting today in Japan; Europe and North America to follow](https://blog.playstation.com/2023/10/16/ps5-streaming-for-playstation-plus-premium-members-launches-starting-today-in-japan-europe-and-north-america-to-follow/)
+ - [Disney Plus is making a live-action Gargoyles series, skeptical question mark?](https://www.polygon.com/23920015/live-action-gargoyles-tv-show-disney-plus-annabelle-conjuring)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
