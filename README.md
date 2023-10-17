@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta identifies and fixes a bug after thousands of Palestinian supporters say their posts were suppressed or removed from Facebook and Instagram &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/231017/p10#a231017p10)
- - [Twitch launches Stories, expiring after 48 hours, for Partners and Affiliates who have streamed at least once for 45 minutes or longer in the last 30 days &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/231017/p9#a231017p9)
- - [‘Someone Is Using Photos of Me to Talk to Men’](https://www.wired.com/story/online-harassment-canada-cyberbullying/)<!-- TECH:END -->
+ - [TSMC drops plans to build a new chip plant in Longtan, a rural part of Taiwan, after local opposition; the company reportedly planned to build 1nm chips there &lpar;Sarah Wu/Reuters&rpar;](http://www.techmeme.com/231017/p16#a231017p16)
+ - [Job Hunting Sucks. This Programmer Filled Out 250 Applications to Find Out Why](https://www.wired.com/story/job-hunting-sucks-programmer-filled-out-250-applications/)
+ - [Best Google Pixel Phone &lpar;2023&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
