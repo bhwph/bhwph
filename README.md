@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Legend lives on](http://9gag.com/gag/aA078r2)
- - 😝 [Asian American couple in Washington close their door milliseconds before a man with a gun tries to follow them in](http://9gag.com/gag/aeQE8B5)
- - 👉 [I am so proud if this community!](http://9gag.com/gag/aME6obM)<!-- MEMES:END -->
+ - 6️⃣ [I don&#39;t appreciate being called out like this](http://9gag.com/gag/aWGA3G4)
+ - 😝 [This Did Not Feel Good](http://9gag.com/gag/anz3m5E)
+ - 👉 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)<!-- MEMES:END -->
 
 --- 
 
