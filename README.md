@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hollywood is going to come for D&amp;D actual plays sooner or later — will they survive?](https://www.polygon.com/23919779/dnd-dungeons-dragons-actual-play-tv-show-encounter-party)
- - [NYC Transit App Is Like Pokémon Go For Rats](https://kotaku.com/rats-nyc-transit-app-pokemon-go-1850937411)
- - [&#39;Ruin his life&#39;—Old School Runescape player gets such unhinged advice from community that showing their cousin the responses is all it takes to get a 96 million gold wand back](https://www.pcgamer.com/ruin-his-lifeold-school-runescape-player-gets-such-unhinged-advice-from-community-that-showing-their-cousin-the-responses-is-all-it-takes-to-get-a-96-million-gold-wand-back)<!-- GAME:END -->
+ - [Kingdom Eighties is Out Now on Xbox](https://news.xbox.com/en-us/2023/10/18/kingdom-eighties-is-out-now-on-xbox/)
+ - [This forgotten Lynchian nightmare should be a cult classic, and you can watch it for free](https://www.polygon.com/23915669/reflecting-skin-movie-watch-stream-cult-classic-weird-like-david-lynch)
+ - [Super Mario Bros. Wonder is Nintendo’s Mickey moment](https://www.polygon.com/23920809/super-mario-wonder-reboot-remake-nintendo-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
