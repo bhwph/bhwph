@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
- - 😝 [She f\u00b5ck around &amp; find out. &lpar;context in the comment&rpar;](http://9gag.com/gag/aREGbgj)
- - 👉 [The waitress know the rules](http://9gag.com/gag/amAy3Ay)<!-- MEMES:END -->
+ - 6️⃣ [She told him before the wedding, `I&#39;ve spent months planning this wedding and I have an expensive dress, if you put cake in my face I will leave you`. He promised not to do it. Then he did it.](http://9gag.com/gag/avQVNqb)
+ - 😝 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
+ - 👉 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)<!-- MEMES:END -->
 
 --- 
 
