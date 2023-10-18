@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Russian studio fled country to finish game](https://www.polygon.com/23921305/odd-meter-11-bit-studios-indika-announcement)
- - [Microsoft is making its Series 2 pad like a mini Adaptive Controller with a new wave of PC gaming accessibility updates](https://www.pcgamer.com/microsoft-is-making-its-series-2-pad-like-a-mini-adaptive-controller-with-a-new-wave-of-pc-gaming-accessibility-updates)
- - [Meet the leaders of Egypt, Canaan, and Hattusa in Total War: Pharaoh](https://www.pcgamer.com/meet-the-leaders-of-egypt-canaan-and-hattusa-in-total-war-pharaoh)<!-- GAME:END -->
+ - [Hollywood is going to come for D&amp;D actual plays sooner or later — will they survive?](https://www.polygon.com/23919779/dnd-dungeons-dragons-actual-play-tv-show-encounter-party)
+ - [NYC Transit App Is Like Pokémon Go For Rats](https://kotaku.com/rats-nyc-transit-app-pokemon-go-1850937411)
+ - [&#39;Ruin his life&#39;—Old School Runescape player gets such unhinged advice from community that showing their cousin the responses is all it takes to get a 96 million gold wand back](https://www.pcgamer.com/ruin-his-lifeold-school-runescape-player-gets-such-unhinged-advice-from-community-that-showing-their-cousin-the-responses-is-all-it-takes-to-get-a-96-million-gold-wand-back)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
