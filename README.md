@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When I see videos from Gaza I remind myself of this video](http://9gag.com/gag/aL13onA)
- - 😝 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
- - 👉 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)<!-- MEMES:END -->
+ - 6️⃣ [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
+ - 😝 [Gained 30 pounds &amp; living off of government assistance in a shitty neighbourhood with a 1yr old kid. While I&#39;m visiting Europe next month.karma is a b*tch.](http://9gag.com/gag/aeQEnKQ)
+ - 👉 [Justice served!](http://9gag.com/gag/aQEKWze)<!-- MEMES:END -->
 
 --- 
 
