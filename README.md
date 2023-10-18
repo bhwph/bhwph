@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US&#39; new 400-page chip export rules show officials are open to chip sector input on ways to keep sending AI chips to China for small and medium-sized uses &lpar;Reuters&rpar;](http://www.techmeme.com/231018/p12#a231018p12)
- - [Sources: SK Hynix refused to approve the merger of Kioxia and Western Digital, a blow to Bain Capital&#39;s ambitions of creating a US-Japan chip company &lpar;Financial Times&rpar;](http://www.techmeme.com/231018/p11#a231018p11)
- - [15-inch MacBook Air demand drops &#39;significantly,&#39; says Kuo](https://appleinsider.com/articles/23/10/18/15-inch-macbook-air-demand-drops-significantly-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [15-inch MacBook Air demand drops significantly, says Kuo](https://appleinsider.com/articles/23/10/18/15-inch-macbook-air-demand-drops-significantly-says-kuo?utm_medium=rss)
+ - [Federated networks like Mastodon and a growing acceptance of paying for content may help move people away from big social platforms and improve online discourse &lpar;Katie Notopoulos/MIT Technology Review&rpar;](http://www.techmeme.com/231018/p19#a231018p19)
+ - [Apple focusing on foldable iPad for possible late 2024 launch](https://appleinsider.com/articles/23/10/18/apple-focusing-on-foldable-ipad-for-possible-late-2024-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
