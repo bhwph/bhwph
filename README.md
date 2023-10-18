@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
- - 😝 [Gained 30 pounds &amp; living off of government assistance in a shitty neighbourhood with a 1yr old kid. While I&#39;m visiting Europe next month.karma is a b*tch.](http://9gag.com/gag/aeQEnKQ)
- - 👉 [Justice served!](http://9gag.com/gag/aQEKWze)<!-- MEMES:END -->
+ - 6️⃣ [This is funny af](http://9gag.com/gag/adPMw2V)
+ - 😝 [Tranderella](http://9gag.com/gag/aeQEwMv)
+ - 👉 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)<!-- MEMES:END -->
 
 --- 
 
