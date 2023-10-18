@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Eighties is Out Now on Xbox](https://news.xbox.com/en-us/2023/10/18/kingdom-eighties-is-out-now-on-xbox/)
- - [This forgotten Lynchian nightmare should be a cult classic, and you can watch it for free](https://www.polygon.com/23915669/reflecting-skin-movie-watch-stream-cult-classic-weird-like-david-lynch)
- - [Super Mario Bros. Wonder is Nintendo’s Mickey moment](https://www.polygon.com/23920809/super-mario-wonder-reboot-remake-nintendo-switch)<!-- GAME:END -->
+ - [Wizarding Together is Better in Wizard with a Gun – Now Available for Xbox Series X|S](https://news.xbox.com/en-us/2023/10/18/wizard-with-a-gun-now-available/)
+ - [Lords of the Fallen&#39;s latest patch promises &#39;substantial performance improvements&#39; for struggling GPUs](https://www.pcgamer.com/lords-of-the-fallens-latest-patch-promises-substantial-performance-improvements-for-struggling-gpus)
+ - [How to complete the Twilight Triumph in Destiny 2 Festival of the Lost 2023](https://www.polygon.com/destiny-2-guide-walkthrough/23922513/twilight-triumph-lost-memento-unlock-objectives)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
