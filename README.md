@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Israel has pushed dozens of ads, including graphic videos, on X and YouTube in the EU, the UK, and the US to drum up support for its actions in Gaza &lpar;Politico&rpar;](http://www.techmeme.com/231018/p5#a231018p5)
- - [Alibaba announces S Plan, which offers &quot;traffic flow, operations, and logistics&quot; support to merchants affected by Indonesia&#39;s ban of e-commerce on social media &lpar;Tracy Qu/South China Morning Post&rpar;](http://www.techmeme.com/231018/p4#a231018p4)
- - [Pixel 7 series trade-in values have gone from bad to worse at the Google Store](https://www.androidauthority.com/pixel-7-trade-in-google-store-3377097/)<!-- TECH:END -->
+ - [Android’s upcoming “repair mode” will keep your data safe from snoopy techs](https://www.androidauthority.com/android-repair-mode-2-3377125/)
+ - [Ruling paves way for teens to sue companies for social media addiction](https://www.androidauthority.com/social-media-addiction-teens-3377100/)
+ - [Nothing Phone 1 update alert! New features and security patch incoming](https://www.androidauthority.com/nothing-phone-1-nothing-os-2-0-4-update-3377116/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
