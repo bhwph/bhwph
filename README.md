@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Phil Spencer says Activision Blizzard games won&#39;t come to Xbox Game Pass until 2024, in part due to the time it took for the Activision acquisition to be closed &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231017/p44#a231017p44)
- - [The US IRS plans to offer a free direct e-filing option in 13 states in 2024, for taxpayers with simpler tax situations &lpar;Rob Pegoraro/PCMag&rpar;](http://www.techmeme.com/231017/p43#a231017p43)
- - [Chrome on iOS and Android will now detect URL typos](https://www.theverge.com/2023/10/17/23921281/chrome-ios-android-url-typos-accessibility-google-maps)<!-- TECH:END -->
+ - [Best Fitness Trackers for 2023     - CNET](https://www.cnet.com/tech/mobile/best-fitness-tracker/#ftag=CAD590a51e)
+ - [X will start charging new users in two countries $1 per year](https://www.theverge.com/2023/10/17/23921752/x-not-a-bot-charge-new-users-elon-musk)
+ - [Sam Bankman-Fried’s defense finally woke up](https://www.theverge.com/2023/10/17/23921745/sam-bankman-fried-nishad-singh-house-loan)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
