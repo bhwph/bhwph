@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gwent&#39;s official development ends, leaving future balance patches in the hands of the community](https://www.pcgamer.com/gwents-official-development-ends-leaving-future-balance-patches-in-the-hands-of-the-community)
  - [The new worst gaming trend: killing our favorite games to replace them with sequels](https://www.pcgamer.com/the-new-worst-gaming-trend-killing-our-favorite-games-to-replace-them-with-sequels)
- - [These were the 10 most-played demos on Steam this month](https://www.pcgamer.com/popular-steam-demos-october-2023)
- - [Super Mario Bros. Wonder’s Goombas Actually Bite, Just Like Miyamoto Always Wanted](https://kotaku.com/super-mario-bros-wonder-s-goombas-actually-bite-just-1850935650)<!-- GAME:END -->
+ - [These were the 10 most-played demos on Steam this month](https://www.pcgamer.com/popular-steam-demos-october-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
