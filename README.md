@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 states join the IRS direct-file test after tax prep firms dropped the ball](https://www.theverge.com/2023/10/18/23922150/irs-direct-file-pilot-available-13-states-income-tax-2024)
- - [China App Store employees fired over relationships with developers](https://appleinsider.com/articles/23/10/18/china-app-store-employees-fired-over-relationships-with-developers?utm_medium=rss)
- - [Experts say misinformation from &quot;verified&quot; pseudo-OSINT accounts on X, driven by profit and engagement, is destroying the Israel-Palestine information ecosystem &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/231018/p28#a231018p28)<!-- TECH:END -->
+ - [Here comes another Netflix price hike](https://www.theverge.com/2023/10/18/23922319/netflix-q3-earnings-2023-price-hike-increase-basic-premium)
+ - [Amazon announces the launch of drone deliveries of medicines purchased through Amazon Pharmacy for customers in College Station, Texas &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231018/p30#a231018p30)
+ - [Skydance Animation parts ways with Apple TV+, taking &#39;Spellbound&#39; with it](https://appleinsider.com/articles/23/10/18/skydance-animation-parts-ways-with-apple-tv-taking-spellbound-with-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
