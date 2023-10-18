@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [15-inch MacBook Air demand drops significantly, says Kuo](https://appleinsider.com/articles/23/10/18/15-inch-macbook-air-demand-drops-significantly-says-kuo?utm_medium=rss)
- - [Federated networks like Mastodon and a growing acceptance of paying for content may help move people away from big social platforms and improve online discourse &lpar;Katie Notopoulos/MIT Technology Review&rpar;](http://www.techmeme.com/231018/p19#a231018p19)
- - [Apple focusing on foldable iPad for possible late 2024 launch](https://appleinsider.com/articles/23/10/18/apple-focusing-on-foldable-ipad-for-possible-late-2024-launch?utm_medium=rss)<!-- TECH:END -->
+ - [13 states join the IRS direct-file test after tax prep firms dropped the ball](https://www.theverge.com/2023/10/18/23922150/irs-direct-file-pilot-available-13-states-income-tax-2024)
+ - [9 Best Touchscreen Gloves &lpar;2023&rpar;: Knitted, Leather, Thin](https://www.wired.com/gallery/best-touchscreen-gloves/)
+ - [YouTube adds a news page on its mobile apps to suggest content from &quot;authoritative sources&quot;, and plans to spend $1.6M to promote the creation of news on Shorts &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231018/p23#a231018p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
