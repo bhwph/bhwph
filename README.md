@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here comes another Netflix price hike](https://www.theverge.com/2023/10/18/23922319/netflix-q3-earnings-2023-price-hike-increase-basic-premium)
- - [Amazon announces the launch of drone deliveries of medicines purchased through Amazon Pharmacy for customers in College Station, Texas &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231018/p30#a231018p30)
- - [Skydance Animation parts ways with Apple TV+, taking &#39;Spellbound&#39; with it](https://appleinsider.com/articles/23/10/18/skydance-animation-parts-ways-with-apple-tv-taking-spellbound-with-it?utm_medium=rss)<!-- TECH:END -->
+ - [Here we go: all the news about Super Mario Bros. Wonder](https://www.theverge.com/23923151/super-mario-bros-wonder-nintendo-switch-news-review-trailer)
+ - [The Hydro Flask Tracker puts your fancy water bottle on Apple’s Find My network](https://www.theverge.com/2023/10/18/23922622/hydro-flask-tracker-airtag-find-my-water-bottle)
+ - [Who’s Responsible for the Gaza Hospital Explosion? Here’s Why It’s Hard to Know What’s Real](https://www.wired.com/story/al-ahli-baptist-hospital-explosion-disinformation-osint/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
