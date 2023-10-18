@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play has a new way to protect you from malicious apps](https://www.androidauthority.com/google-play-malicious-app-scan-3376928/)
- - [Google is tweaking Chrome’s search bar to make it easier to navigate the web](https://www.theverge.com/2023/10/18/23922396/google-chrome-search-typos-bookmarks-autocomplete)
- - [Google bulks up Android’s malware defenses to combat new tricks, including AI](https://www.theverge.com/2023/10/18/23922111/google-play-protect-malware-detection-apps-malicious-software-ai-polymorphic)<!-- TECH:END -->
+ - [13 states join the IRS direct-file test after tax prep firms dropped the ball](https://www.theverge.com/2023/10/18/23922150/irs-direct-file-pilot-available-13-states-income-tax-2024)
+ - [China App Store employees fired over relationships with developers](https://appleinsider.com/articles/23/10/18/china-app-store-employees-fired-over-relationships-with-developers?utm_medium=rss)
+ - [Experts say misinformation from &quot;verified&quot; pseudo-OSINT accounts on X, driven by profit and engagement, is destroying the Israel-Palestine information ecosystem &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/231018/p28#a231018p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
