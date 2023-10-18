@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t appreciate being called out like this](http://9gag.com/gag/aWGA3G4)
- - 😝 [This Did Not Feel Good](http://9gag.com/gag/anz3m5E)
- - 👉 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)<!-- MEMES:END -->
+ - 6️⃣ [Asian American couple in Washington close their door milliseconds before a man with a gun tries to follow them in](http://9gag.com/gag/aeQE8B5)
+ - 😝 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
+ - 👉 [Black Jesus has returned and he is on a mission to bless women&#39;s bathrooms](http://9gag.com/gag/ay2AKxX)<!-- MEMES:END -->
 
 --- 
 
