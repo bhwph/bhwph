@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There was no reason to make THAT sound effect](http://9gag.com/gag/adPMEVZ)
- - 😝 [We now have new record as Shoikot Mahmud had only been here 3 days &amp; was arrested for trying to groom what he thought was a 13 year old child. He asked whether she has had a period, so that would allow him to `f**k her`. The Bangladeshi living in Chester is on a student visa.](http://9gag.com/gag/a8q9gPe)
- - 👉 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)<!-- MEMES:END -->
+ - 6️⃣ [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
+ - 😝 [She f\u00b5ck around &amp; find out. &lpar;context in the comment&rpar;](http://9gag.com/gag/aREGbgj)
+ - 👉 [The waitress know the rules](http://9gag.com/gag/amAy3Ay)<!-- MEMES:END -->
 
 --- 
 
