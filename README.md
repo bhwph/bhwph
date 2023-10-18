@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is funny af](http://9gag.com/gag/adPMw2V)
- - 😝 [Tranderella](http://9gag.com/gag/aeQEwMv)
- - 👉 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)<!-- MEMES:END -->
+ - 6️⃣ [There was no reason to make THAT sound effect](http://9gag.com/gag/adPMEVZ)
+ - 😝 [We now have new record as Shoikot Mahmud had only been here 3 days &amp; was arrested for trying to groom what he thought was a 13 year old child. He asked whether she has had a period, so that would allow him to `f**k her`. The Bangladeshi living in Chester is on a student visa.](http://9gag.com/gag/a8q9gPe)
+ - 👉 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)<!-- MEMES:END -->
 
 --- 
 
