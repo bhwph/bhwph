@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s upcoming “repair mode” will keep your data safe from snoopy techs](https://www.androidauthority.com/android-repair-mode-2-3377125/)
- - [Ruling paves way for teens to sue companies for social media addiction](https://www.androidauthority.com/social-media-addiction-teens-3377100/)
- - [Nothing Phone 1 update alert! New features and security patch incoming](https://www.androidauthority.com/nothing-phone-1-nothing-os-2-0-4-update-3377116/)<!-- TECH:END -->
+ - [The US&#39; new 400-page chip export rules show officials are open to chip sector input on ways to keep sending AI chips to China for small and medium-sized uses &lpar;Reuters&rpar;](http://www.techmeme.com/231018/p12#a231018p12)
+ - [Sources: SK Hynix refused to approve the merger of Kioxia and Western Digital, a blow to Bain Capital&#39;s ambitions of creating a US-Japan chip company &lpar;Financial Times&rpar;](http://www.techmeme.com/231018/p11#a231018p11)
+ - [15-inch MacBook Air demand drops &#39;significantly,&#39; says Kuo](https://appleinsider.com/articles/23/10/18/15-inch-macbook-air-demand-drops-significantly-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
