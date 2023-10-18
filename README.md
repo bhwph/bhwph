@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Podcast: Phil Spencer on Activision Blizzard King + Xbox](https://news.xbox.com/en-us/podcast/phil-spencer-on-activision-blizzard-king-xbox/#new_tab)
- - [ThunderX3 Core gaming chair review](https://www.pcgamer.com/thunderx3-core-gaming-chair-review)
- - [Enjoy Superior Comfort with the new ThunderX3 premium ergonomic gaming chair](https://www.pcgamer.com/hi.switchy.io/pcgamercore)<!-- GAME:END -->
+ - [Asus breaks the overclocking world record with 9.044GHz Intel 14900KF CPU](https://www.pcgamer.com/asus-breaks-the-overclocking-world-record-with-9044ghz-intel-14900kf-cpu)
+ - [Baldur&#39;s Gate 3 player thinks they&#39;ve fooled a god with a first level spell, right until they realise they&#39;ve stumbled into Act 2&#39;s new worst ending](https://www.pcgamer.com/baldurs-gate-3-player-thinks-theyve-fooled-a-god-with-a-first-level-spell-right-until-they-realise-theyve-stumbled-into-act-2s-new-worst-ending)
+ - [How to equip Vampiric Powers in Diablo 4 and use them](https://www.pcgamer.com/diablo-4-vampiric-powers-equip)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
