@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pure wife material](http://9gag.com/gag/aWGAKZA)
- - 😝 [Anime Tennis Match](http://9gag.com/gag/aBdMAMZ)
- - 👉 [Fatzooo](http://9gag.com/gag/a9qe9DK)<!-- MEMES:END -->
+ - 6️⃣ [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
+ - 😝 [ActiBlizz](http://9gag.com/gag/aL13yjv)
+ - 👉 [Sugma](http://9gag.com/gag/aEqbrYo)<!-- MEMES:END -->
 
 --- 
 
