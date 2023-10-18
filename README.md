@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wizarding Together is Better in Wizard with a Gun – Now Available for Xbox Series X|S](https://news.xbox.com/en-us/2023/10/18/wizard-with-a-gun-now-available/)
- - [Lords of the Fallen&#39;s latest patch promises &#39;substantial performance improvements&#39; for struggling GPUs](https://www.pcgamer.com/lords-of-the-fallens-latest-patch-promises-substantial-performance-improvements-for-struggling-gpus)
- - [How to complete the Twilight Triumph in Destiny 2 Festival of the Lost 2023](https://www.polygon.com/destiny-2-guide-walkthrough/23922513/twilight-triumph-lost-memento-unlock-objectives)<!-- GAME:END -->
+ - [Why is the internet ripping a new King Kong game to shreds?](https://www.pcgamer.com/why-is-the-internet-ripping-a-new-king-kong-game-to-shreds)
+ - [A dog named Peanut Butter is going to speedrun a Nintendo platformer at AGDQ 2024](https://www.pcgamer.com/a-dog-named-peanut-butter-is-going-to-speedrun-a-nintendo-platformer-at-agdq-2024)
+ - [Breaking: Do NOT try to eat the Wonka float at the 97th Macy’s Thanksgiving Day Parade](https://www.polygon.com/23923110/wonka-float-macys-thanksgiving-day-parade-not-real-candy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
