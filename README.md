@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
- - 😝 [ActiBlizz](http://9gag.com/gag/aL13yjv)
- - 👉 [Sugma](http://9gag.com/gag/aEqbrYo)<!-- MEMES:END -->
+ - 6️⃣ [Like watching a computer glitch](http://9gag.com/gag/az2zNpK)
+ - 😝 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
+ - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
 
 --- 
 
