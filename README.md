@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tony Hawk&#39;s Pro Skater 1+2 finally gets an offline mode, but only for the Steam Deck](https://www.pcgamer.com/tony-hawks-pro-skater-12-finally-gets-an-offline-mode-but-only-for-the-steam-deck)
- - [PC ports were once an afterthought, but we&#39;ve slowly clawed our way to the top of the food chain](https://www.pcgamer.com/pc-ports-were-once-an-afterthought-but-weve-slowly-clawed-our-way-to-the-top-of-the-food-chain)
- - [Where to pre-order Magic: The Gathering’s new Fallout decks](https://www.polygon.com/deals/23923754/magic-the-gathering-fallout-cards-pre-order-buy)<!-- GAME:END -->
+ - [My favorite Titanic adventure game is remarkably faithful to the historic disaster, except for how it floats above Tokyo circa 2026 stuffed with demons](https://www.pcgamer.com/my-favorite-titanic-adventure-game-is-remarkably-faithful-to-the-historic-disaster-except-for-how-it-floats-above-tokyo-circa-2026-stuffed-with-demons)
+ - [Learn More About FixyText, Coming to Xbox in The Jackbox Party Pack 10](https://news.xbox.com/en-us/2023/10/19/learn-more-about-the-jackbox-party-pack-10/)
+ - [How queerness became calamity in Tears of the Kingdom](https://www.polygon.com/23922313/legend-of-zelda-tears-kingdom-totk-queer-gender-link)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
