@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US House China committee asks Sequoia about its investments since 2010 in AI, quantum, and chip companies based in or having significant operations in China &lpar;Financial Times&rpar;](http://www.techmeme.com/231018/p41#a231018p41)
- - [How to access Apple News+ crossword puzzles in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-access-apple-news-crossword-puzzles-in-ios-17?utm_medium=rss)
- - [Sources: YouTube is building an AI tool to let creators record audio using famous musicians&#39; voices and is seeking rights from companies for training the tool &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/231018/p40#a231018p40)<!-- TECH:END -->
+ - [The US GSA plans to add facial recognition tech to Login.gov in 2024 and a digital identity verification option for those who don&#39;t want to use facial matching &lpar;Natalie Alms/Nextgov/FCW&rpar;](http://www.techmeme.com/231019/p1#a231019p1)
+ - [SecureW2, which offers a passwordless authentication service to companies, raised $80M from Insight Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/231018/p44#a231018p44)
+ - [Sydney-based Employment Hero, which provides a recruitment and HR platform, raised a A$263M Series F at a A$2.13B valuation, taking its total funding to A$650M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231018/p43#a231018p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
