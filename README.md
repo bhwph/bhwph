@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PS5 Slim launch date revealed in new leak](https://www.androidauthority.com/ps5-slim-launch-leak-3377954/)
- - [The HyperX Cloud III Wireless gaming headset gets its first price drop](https://www.androidauthority.com/hyperx-cloud-iii-wireless-deal-3377952/)
- - [Amazon has renewed Gen V for a sophomore season](https://www.theverge.com/23924179/gen-v-the-boys-season-2-renewal)<!-- TECH:END -->
+ - [Google may have brought its AR glasses project back from the dead](https://www.androidauthority.com/project-iris-ar-glasses-3377985/)
+ - [India&#39;s Central Bureau of Investigation collaborates with Microsoft and Amazon to raid 76 locations in a crackdown on tech support scams and crypto fraud &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231019/p37#a231019p37)
+ - [The latest AI copyright lawsuit involves Mike Huckabee and his books](https://www.theverge.com/2023/10/19/23924246/mike-huckabee-books-lawsuit-generative-ai-microsoft-meta-bloomberg-eleutherai-books3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
