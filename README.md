@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Yoshua Bengio on nuance in headlines about AI, taboos among AI researchers, and why top researchers may disagree about AI&#39;s potential risks to humanity &lpar;Susan D&#39;Agostino/Bulletin of the ...&rpar;](http://www.techmeme.com/231019/p4#a231019p4)
- - [Sources: the UK plans to announce an international advisory group on AI, loosely modeled on the UN&#39;s IPCC, at the November 2023 AI summit in Bletchley Park &lpar;Financial Times&rpar;](http://www.techmeme.com/231019/p3#a231019p3)
- - [Google updates Play Protect with real-time scanning at the code level, which prompts users to scan unknown Android apps before sideloading, starting with India &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231019/p2#a231019p2)<!-- TECH:END -->
+ - [DALL-E 2 vs DALL-E 3: How do they compare?](https://www.androidauthority.com/dall-e-2-vs-dall-e-3-3377650/)
+ - [OPPO Find X7 Pro rumors: Expected release date and what we want to see](https://www.androidauthority.com/oppo-find-x7-pro-3355763/)
+ - [TSMC reports Q3 revenue down 14.6% YoY to ~$17.28B, net income down 24.9% YoY to ~$6.5B, and expects to spend $32B on growing and upgrading capacity in 2023 &lpar;Jane Lee/Bloomberg&rpar;](http://www.techmeme.com/231019/p8#a231019p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
