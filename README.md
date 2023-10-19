@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google may have brought its AR glasses project back from the dead](https://www.androidauthority.com/project-iris-ar-glasses-3377985/)
- - [India&#39;s Central Bureau of Investigation collaborates with Microsoft and Amazon to raid 76 locations in a crackdown on tech support scams and crypto fraud &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231019/p37#a231019p37)
- - [The latest AI copyright lawsuit involves Mike Huckabee and his books](https://www.theverge.com/2023/10/19/23924246/mike-huckabee-books-lawsuit-generative-ai-microsoft-meta-bloomberg-eleutherai-books3)<!-- TECH:END -->
+ - [Israel-Hamas war: how social media companies are handling the response](https://www.theverge.com/2023/10/19/23924409/israel-hamas-war-crisis-tech-companies)
+ - [&#39;The Problem With Jon Stewart&#39; canceled after two seasons on Apple TV+](https://appleinsider.com/articles/23/10/19/the-problem-with-jon-stewart-canceled-after-two-seasons-on-apple-tv?utm_medium=rss)
+ - [Filing: the US SEC drops charges alleging Ripple executives Brad Garlinghouse and Chris Larsen aided and abetted the company in violating securities laws &lpar;CoinDesk&rpar;](http://www.techmeme.com/231019/p39#a231019p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
