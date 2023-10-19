@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DALL-E 2 vs DALL-E 3: How do they compare?](https://www.androidauthority.com/dall-e-2-vs-dall-e-3-3377650/)
- - [OPPO Find X7 Pro rumors: Expected release date and what we want to see](https://www.androidauthority.com/oppo-find-x7-pro-3355763/)
- - [TSMC reports Q3 revenue down 14.6% YoY to ~$17.28B, net income down 24.9% YoY to ~$6.5B, and expects to spend $32B on growing and upgrading capacity in 2023 &lpar;Jane Lee/Bloomberg&rpar;](http://www.techmeme.com/231019/p8#a231019p8)<!-- TECH:END -->
+ - [Filing: China took a &quot;golden share&quot; in Tencent&#39;s local subsidiary Shenzhen Yayue, buying a 1% stake for ~$82K, the latest move to expand tech sector control &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231019/p14#a231019p14)
+ - [Inside a TikTok Talent Factory for Misfit Stars](https://www.wired.com/story/tiktok-talent-factory-ursus-magana-creator-economy/)
+ - [The US has new clean energy and efficiency programs for low-income housing](https://www.theverge.com/2023/10/19/23922915/biden-administration-clean-energy-efficiency-programs-low-income-housing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
