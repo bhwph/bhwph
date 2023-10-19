@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice farewell card](http://9gag.com/gag/axo85pM)
- - 😝 [Hellohohoo](http://9gag.com/gag/aPg0Exn)
- - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
+ - 6️⃣ [I need it](http://9gag.com/gag/a6qzvM9)
+ - 😝 [Nice farewell card](http://9gag.com/gag/axo85pM)
+ - 👉 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)<!-- MEMES:END -->
 
 --- 
 
