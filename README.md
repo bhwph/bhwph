@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I need it](http://9gag.com/gag/a6qzvM9)
- - 😝 [Nice farewell card](http://9gag.com/gag/axo85pM)
- - 👉 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)<!-- MEMES:END -->
+ - 6️⃣ [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
+ - 😝 [Trying to catch the chicken thief](http://9gag.com/gag/ay2Agz8)
+ - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
 
 --- 
 
