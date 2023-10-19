@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In Killers of the Flower Moon, Martin Scorsese aims a righteous fury at American history](https://www.polygon.com/reviews/23922955/killers-of-the-flower-moon-review-martin-scorsese-leonardo-dicaprio)
- - [Marvel’s Spider-Man 2 Photo Mode features detailed: tips to get started](https://blog.playstation.com/2023/10/19/marvels-spider-man-2-photo-mode-features-detailed-tips-to-get-started/)
- - [The first Intel Meteor Lake handheld gaming PC breaks cover as does the most Nintendo DS PC you will ever see](https://www.pcgamer.com/the-first-intel-meteor-lake-handheld-gaming-pc-breaks-cover-as-does-the-most-nintendo-ds-pc-you-will-ever-see)<!-- GAME:END -->
+ - [Apex Legends’ new character is here to break Titanfall fans’ hearts](https://www.polygon.com/23923979/apex-legends-conduit-ignite-season-19-titanfall)
+ - [We’re headed to Twitchcon 2023](https://www.polygon.com/23896633/twitchcon-2023)
+ - [VTubers have reached their inevitable conclusion](https://www.polygon.com/23919506/vtuber-hololive-gawr-gura-nijisanji-agency-model)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
