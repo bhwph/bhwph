@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bye bye Chrome/YouTube move to FreeTube!](http://9gag.com/gag/a4o8XPw)
- - 😝 [Meme class](http://9gag.com/gag/aQEK0xw)
- - 👉 [Old but memorable](http://9gag.com/gag/aGEqWAG)<!-- MEMES:END -->
+ - 6️⃣ [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)
+ - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - 👉 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)<!-- MEMES:END -->
 
 --- 
 
