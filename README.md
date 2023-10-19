@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s Yann LeCun says regulating R&amp;D for AI &quot;is incredibly counterproductive&quot; and only serves to reinforce the dominance of Big Tech and stifle competition &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/231019/p21#a231019p21)
- - [Misinformation Is Soaring Online. Don’t Fall for It](https://www.wired.com/story/gadget-lab-podcast-617/)
- - [18 Best Cheap Headphones and Earbuds for $100 or Less &lpar;2023&rpar;](https://www.wired.com/gallery/best-headphones-under-100/)<!-- TECH:END -->
+ - [A researcher details a malicious and convincing Google ad linking to a fake site for password manager Keepass; Google shows a verified advertiser paid for them &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231019/p26#a231019p26)
+ - [AMD’s Threadripper CPUs return with a 96-core monster chip](https://www.theverge.com/2023/10/19/23923758/amd-threadripper-zen-4-release-date-price)
+ - [Swiss luxury firm adds 7,586 diamonds to Apple devices for some reason](https://appleinsider.com/articles/23/10/19/swiss-luxury-firm-adds-7586-diamonds-to-apple-devices-for-some-reason?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
