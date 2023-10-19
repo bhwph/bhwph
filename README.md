@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Slay the Spire dev releases free groovy autobattler where your deck is dance moves and that&#39;s the tea, sis](https://www.pcgamer.com/slay-the-spire-dev-releases-free-groovy-autobattler-where-your-deck-is-dance-moves-and-thats-the-tea-sis)
- - [Spider-Man 2 Has One Hell Of An Opening](https://kotaku.com/spider-man-2-sandman-opening-ps5-villains-cutscenes-1850939620)
- - [I had more fun with Ubisoft’s Captain Laserhawk than most Ubisoft games](https://www.polygon.com/23922741/captain-laserhawk-netflix-ubisoft-review-cartoon-tv)<!-- GAME:END -->
+ - [In Killers of the Flower Moon, Martin Scorsese aims a righteous fury at American history](https://www.polygon.com/reviews/23922955/killers-of-the-flower-moon-review-martin-scorsese-leonardo-dicaprio)
+ - [Marvel’s Spider-Man 2 Photo Mode features detailed: tips to get started](https://blog.playstation.com/2023/10/19/marvels-spider-man-2-photo-mode-features-detailed-tips-to-get-started/)
+ - [The first Intel Meteor Lake handheld gaming PC breaks cover as does the most Nintendo DS PC you will ever see](https://www.pcgamer.com/the-first-intel-meteor-lake-handheld-gaming-pc-breaks-cover-as-does-the-most-nintendo-ds-pc-you-will-ever-see)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
