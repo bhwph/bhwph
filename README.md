@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here we go: all the news about Super Mario Bros. Wonder](https://www.theverge.com/23923151/super-mario-bros-wonder-nintendo-switch-news-review-trailer)
- - [The Hydro Flask Tracker puts your fancy water bottle on Apple’s Find My network](https://www.theverge.com/2023/10/18/23922622/hydro-flask-tracker-airtag-find-my-water-bottle)
- - [Who’s Responsible for the Gaza Hospital Explosion? Here’s Why It’s Hard to Know What’s Real](https://www.wired.com/story/al-ahli-baptist-hospital-explosion-disinformation-osint/)<!-- TECH:END -->
+ - [WhatsApp is rolling out a view once mode for voice notes to some iOS and Android users in beta, after launching the feature for photos and videos in August 2021 &lpar;WABetaInfo&rpar;](http://www.techmeme.com/231018/p39#a231018p39)
+ - [Elon Musk answers Tesla pricing question with anti work-from-home rant](https://www.theverge.com/2023/10/18/23923218/elon-musk-q3-tesla-earnings-work-from-home)
+ - [Amazon plans to expand its Prime Air drone delivery system to the UK, Italy, and a third US city beginning in late 2024 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/231018/p38#a231018p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
