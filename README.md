@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 has ditched the lifeless grind and entered a new loot-filled era in season 2](https://www.pcgamer.com/diablo-4-has-ditched-the-lifeless-grind-and-entered-a-new-loot-filled-era-in-season-2)
- - [Why is the internet ripping a new King Kong game to shreds?](https://www.pcgamer.com/why-is-the-internet-ripping-a-new-king-kong-game-to-shreds)
- - [A dog named Peanut Butter is going to speedrun a Nintendo platformer at AGDQ 2024](https://www.pcgamer.com/a-dog-named-peanut-butter-is-going-to-speedrun-a-nintendo-platformer-at-agdq-2024)<!-- GAME:END -->
+ - [Every Bethesda RPG, ranked from worst to best](https://www.pcgamer.com/every-bethesda-rpg-ranked-from-worst-to-best)
+ - [Zotac’s new Mini PC will hopefully usher in a new era of device cooling](https://www.pcgamer.com/zotacs-new-mini-pc-will-hopefully-usher-in-a-new-era-of-device-cooling)
+ - [Diablo 4 has ditched the lifeless grind and entered a new loot-filled era in season 2](https://www.pcgamer.com/diablo-4-has-ditched-the-lifeless-grind-and-entered-a-new-loot-filled-era-in-season-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
