@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: China took a &quot;golden share&quot; in Tencent&#39;s local subsidiary Shenzhen Yayue, buying a 1% stake for ~$82K, the latest move to expand tech sector control &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231019/p14#a231019p14)
- - [Inside a TikTok Talent Factory for Misfit Stars](https://www.wired.com/story/tiktok-talent-factory-ursus-magana-creator-economy/)
- - [The US has new clean energy and efficiency programs for low-income housing](https://www.theverge.com/2023/10/19/23922915/biden-administration-clean-energy-efficiency-programs-low-income-housing)<!-- TECH:END -->
+ - [Meta&#39;s Yann LeCun says regulating R&amp;D for AI &quot;is incredibly counterproductive&quot; and only serves to reinforce the dominance of Big Tech and stifle competition &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/231019/p21#a231019p21)
+ - [Misinformation Is Soaring Online. Don’t Fall for It](https://www.wired.com/story/gadget-lab-podcast-617/)
+ - [18 Best Cheap Headphones and Earbuds for $100 or Less &lpar;2023&rpar;](https://www.wired.com/gallery/best-headphones-under-100/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
