@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)
- - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
- - 👉 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)<!-- MEMES:END -->
+ - 6️⃣ [Nice farewell card](http://9gag.com/gag/axo85pM)
+ - 😝 [Hellohohoo](http://9gag.com/gag/aPg0Exn)
+ - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
 
 --- 
 
