@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
- - 😝 [Still no clue](http://9gag.com/gag/a7qBYZq)
- - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
+ - 6️⃣ [9gag gold](http://9gag.com/gag/adPMmdN)
+ - 😝 [Saving for 7 years finally own my own home.](http://9gag.com/gag/aBdM70Q)
+ - 👉 [Real slave](http://9gag.com/gag/aqeO37P)<!-- MEMES:END -->
 
 --- 
 
