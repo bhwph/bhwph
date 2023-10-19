@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9gag gold](http://9gag.com/gag/adPMmdN)
+ - 6️⃣ [Blair White is a Transgender who gets it](http://9gag.com/gag/aWGAK53)
  - 😝 [Saving for 7 years finally own my own home.](http://9gag.com/gag/aBdM70Q)
  - 👉 [Real slave](http://9gag.com/gag/aqeO37P)<!-- MEMES:END -->
 
