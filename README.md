@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [$10,000 up for grabs in the Talking Angela Fashion Contest](https://www.pcgamer.com/dollar10000-up-for-grabs-in-the-talking-angela-fashion-contest)
- - [Enjoy Superior Comfort with the new ThunderX3 premium ergonomic gaming chair](https://www.pcgamer.com/new-ThunderX3-premium-ergonomic-gaming-chair)
- - [Intel Core i5 14600K review](https://www.pcgamer.com/intel-core-i5-14600k-review-performance-benchmarks)<!-- GAME:END -->
+ - [Slay the Spire dev releases free groovy autobattler where your deck is dance moves and that&#39;s the tea, sis](https://www.pcgamer.com/slay-the-spire-dev-releases-free-groovy-autobattler-where-your-deck-is-dance-moves-and-thats-the-tea-sis)
+ - [Spider-Man 2 Has One Hell Of An Opening](https://kotaku.com/spider-man-2-sandman-opening-ps5-villains-cutscenes-1850939620)
+ - [I had more fun with Ubisoft’s Captain Laserhawk than most Ubisoft games](https://www.polygon.com/23922741/captain-laserhawk-netflix-ubisoft-review-cartoon-tv)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
