@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
- - 😝 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)
- - 👉 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)<!-- MEMES:END -->
+ - 6️⃣ [Old but memorable](http://9gag.com/gag/aGEqWAG)
+ - 😝 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
+ - 👉 [Still no clue](http://9gag.com/gag/a7qBYZq)<!-- MEMES:END -->
 
 --- 
 
