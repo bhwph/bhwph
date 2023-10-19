@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Blair White is a Transgender who gets it](http://9gag.com/gag/aWGAK53)
- - 😝 [Saving for 7 years finally own my own home.](http://9gag.com/gag/aBdM70Q)
- - 👉 [Real slave](http://9gag.com/gag/aqeO37P)<!-- MEMES:END -->
+ - 6️⃣ [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
+ - 😝 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)
+ - 👉 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)<!-- MEMES:END -->
 
 --- 
 
