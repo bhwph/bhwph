@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple allegedly has a 12.9-inch iPad Air in the works](https://appleinsider.com/articles/23/10/19/apple-allegedly-has-a-129-inch-ipad-air-in-the-works?utm_medium=rss)
- - [AI Is Becoming More Powerful—but Also More Secretive](https://www.wired.com/story/fast-forward-ai-powerful-secretive/)
- - [Rumors of all iPhone 16 models having an A18 processor make no sense](https://appleinsider.com/articles/23/10/19/rumors-of-all-iphone-16-models-having-an-a18-processor-make-no-sense?utm_medium=rss)<!-- TECH:END -->
+ - [PS5 Slim launch date revealed in new leak](https://www.androidauthority.com/ps5-slim-launch-leak-3377954/)
+ - [The HyperX Cloud III Wireless gaming headset gets its first price drop](https://www.androidauthority.com/hyperx-cloud-iii-wireless-deal-3377952/)
+ - [Amazon has renewed Gen V for a sophomore season](https://www.theverge.com/23924179/gen-v-the-boys-season-2-renewal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
