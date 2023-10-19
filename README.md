@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Old but memorable](http://9gag.com/gag/aGEqWAG)
- - 😝 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
- - 👉 [Still no clue](http://9gag.com/gag/a7qBYZq)<!-- MEMES:END -->
+ - 6️⃣ [Bye bye Chrome/YouTube move to FreeTube!](http://9gag.com/gag/a4o8XPw)
+ - 😝 [Meme class](http://9gag.com/gag/aQEK0xw)
+ - 👉 [Old but memorable](http://9gag.com/gag/aGEqWAG)<!-- MEMES:END -->
 
 --- 
 
