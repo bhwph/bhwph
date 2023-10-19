@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)
- - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
- - 👉 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)<!-- MEMES:END -->
+ - 6️⃣ [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
+ - 😝 [Still no clue](http://9gag.com/gag/a7qBYZq)
+ - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
 
 --- 
 
