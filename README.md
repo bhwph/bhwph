@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends’ new character is here to break Titanfall fans’ hearts](https://www.polygon.com/23923979/apex-legends-conduit-ignite-season-19-titanfall)
- - [We’re headed to Twitchcon 2023](https://www.polygon.com/23896633/twitchcon-2023)
- - [VTubers have reached their inevitable conclusion](https://www.polygon.com/23919506/vtuber-hololive-gawr-gura-nijisanji-agency-model)<!-- GAME:END -->
+ - [Tony Hawk&#39;s Pro Skater 1+2 finally gets an offline mode, but only for the Steam Deck](https://www.pcgamer.com/tony-hawks-pro-skater-12-finally-gets-an-offline-mode-but-only-for-the-steam-deck)
+ - [PC ports were once an afterthought, but we&#39;ve slowly clawed our way to the top of the food chain](https://www.pcgamer.com/pc-ports-were-once-an-afterthought-but-weve-slowly-clawed-our-way-to-the-top-of-the-food-chain)
+ - [Where to pre-order Magic: The Gathering’s new Fallout decks](https://www.polygon.com/deals/23923754/magic-the-gathering-fallout-cards-pre-order-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
