@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM researchers unveil a &quot;brain-inspired&quot; NorthPole chip prototype that removes the need to frequently access external memory and consumes vastly less power &lpar;Davide Castelvecchi/Nature&rpar;](http://www.techmeme.com/231020/p16#a231020p16)
- - [Frying pan company sued for claiming temperatures that rival the Sun](https://www.theverge.com/2023/10/20/23925424/sharkninja-lawsuit-frying-pan-temperatures-hotter-than-sun)
- - [‘Nothing is changing’: Reddit flatly denies report that it might wall off its content](https://www.theverge.com/2023/10/20/23925504/reddit-deny-force-log-in-see-posts-ai-companies-deals)<!-- TECH:END -->
+ - [Q&amp;A with Chris Cox on Meta&#39;s plans to incorporate AI into its products, making AI chatbots with personality, like Snoop Dogg playing a dungeon master, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231020/p18#a231020p18)
+ - [Apple rolls out iOS 17.1 Release Candidate 2 for iPhone 15](https://appleinsider.com/articles/23/10/20/apple-rolls-out-ios-171-release-candidate-2-for-iphone-15?utm_medium=rss)
+ - [Samsung Galaxy Tab S9 Deals: Save $120 on Storage Upgrades and Up to $350 With Trade-In Credit     - CNET](https://www.cnet.com/deals/samsung-galaxy-tab-s9-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
