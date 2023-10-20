@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to add iPhone widgets to macOS Sonoma and how to use them](https://appleinsider.com/articles/23/06/23/how-to-add-widgets-to-macos-sonoma-and-how-to-use-them?utm_medium=rss)
- - [Blue checkmarks on X are ‘superspreaders of misinformation’ about Israel-Hamas war](https://www.theverge.com/2023/10/20/23925086/x-verified-blue-checkmarks-superspreader-misinformation-israel-hamas-war)
- - [Skylum adding trio of AI-powered photo editing features to Luminar Neo](https://appleinsider.com/articles/23/10/20/skylum-gears-up-to-add-generative-ai-powered-photo-features-to-luminar-neo?utm_medium=rss)<!-- TECH:END -->
+ - [Hands on with HomePod &amp; HomePod mini&#39;s new features in software update 17](https://appleinsider.com/articles/23/10/20/hands-on-with-homepod-homepod-minis-new-features-in-software-update-17?utm_medium=rss)
+ - [15 Best Smart Home Lighting &lpar;2023&rpar;: Decorative Panels, LED Strips, and Ambient Lamps](https://www.wired.com/gallery/best-smart-lighting/)
+ - [The Ray-Ban Meta smart glasses actually make the future look cool](https://www.theverge.com/23922425/ray-ban-meta-smart-glasses-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
