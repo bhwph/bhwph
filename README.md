@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with HomePod &amp; HomePod mini&#39;s new features in software update 17](https://appleinsider.com/articles/23/10/20/hands-on-with-homepod-homepod-minis-new-features-in-software-update-17?utm_medium=rss)
- - [15 Best Smart Home Lighting &lpar;2023&rpar;: Decorative Panels, LED Strips, and Ambient Lamps](https://www.wired.com/gallery/best-smart-lighting/)
- - [The Ray-Ban Meta smart glasses actually make the future look cool](https://www.theverge.com/23922425/ray-ban-meta-smart-glasses-review)<!-- TECH:END -->
+ - [DreamCloud Is Knocking 50% Off Mattresses During Its Flash Sale     - CNET](https://www.cnet.com/deals/dreamcloud-is-knocking-50-off-mattresses-during-its-flash-sale/#ftag=CAD590a51e)
+ - [Best Portable Power Stations for October 2023     - CNET](https://www.cnet.com/home/energy-and-utilities/best-portable-power-stations/#ftag=CAD590a51e)
+ - [Apple&#39;s Killers of the Flower Moon hits cinemas globally, after Tim Cook personally attended the Cannes premiere, ahead of Ridley Scott&#39;s Napoleon in November &lpar;Financial Times&rpar;](http://www.techmeme.com/231020/p12#a231020p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
