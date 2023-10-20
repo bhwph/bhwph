@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: EU antitrust regulators resume their investigation into Adobe&#39;s $20B Figma acquisition, setting a February 5, 2024 deadline for their decision &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231020/p5#a231020p5)
- - [Save While Shopping at Your Favorite Hardware Stores     - CNET](https://www.cnet.com/deals/save-while-shopping-at-your-favorite-hardware-stores/#ftag=CAD590a51e)
- - [Writers and publishers need to band together to lobby against OpenAI, Google, Microsoft, and Meta, fighting for proper compensation and a share of AI&#39;s value &lpar;William D. Cohan/Washington Post&rpar;](http://www.techmeme.com/231020/p4#a231020p4)<!-- TECH:END -->
+ - [How to add iPhone widgets to macOS Sonoma and how to use them](https://appleinsider.com/articles/23/06/23/how-to-add-widgets-to-macos-sonoma-and-how-to-use-them?utm_medium=rss)
+ - [Blue checkmarks on X are ‘superspreaders of misinformation’ about Israel-Hamas war](https://www.theverge.com/2023/10/20/23925086/x-verified-blue-checkmarks-superspreader-misinformation-israel-hamas-war)
+ - [Skylum adding trio of AI-powered photo editing features to Luminar Neo](https://appleinsider.com/articles/23/10/20/skylum-gears-up-to-add-generative-ai-powered-photo-features-to-luminar-neo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
