@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israel-Hamas war: how social media companies are handling the response](https://www.theverge.com/2023/10/19/23924409/israel-hamas-war-crisis-tech-companies)
- - [&#39;The Problem With Jon Stewart&#39; canceled after two seasons on Apple TV+](https://appleinsider.com/articles/23/10/19/the-problem-with-jon-stewart-canceled-after-two-seasons-on-apple-tv?utm_medium=rss)
- - [Filing: the US SEC drops charges alleging Ripple executives Brad Garlinghouse and Chris Larsen aided and abetted the company in violating securities laws &lpar;CoinDesk&rpar;](http://www.techmeme.com/231019/p39#a231019p39)<!-- TECH:END -->
+ - [The US Treasury&#39;s FinCEN proposes labeling international crypto mixing as a &quot;primary money laundering concern&quot;, citing its use by Hamas and other illicit actors &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/231019/p42#a231019p42)
+ - [Slack is retiring its status account on X](https://www.theverge.com/2023/10/19/23924662/slack-status-account-retiring-x-twitter)
+ - [Best VPN Deals: Top VPN Subscriptions From $2 a Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
