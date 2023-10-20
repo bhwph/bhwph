@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Chris Cox on Meta&#39;s plans to incorporate AI into its products, making AI chatbots with personality, like Snoop Dogg playing a dungeon master, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231020/p18#a231020p18)
- - [Apple rolls out iOS 17.1 Release Candidate 2 for iPhone 15](https://appleinsider.com/articles/23/10/20/apple-rolls-out-ios-171-release-candidate-2-for-iphone-15?utm_medium=rss)
- - [Samsung Galaxy Tab S9 Deals: Save $120 on Storage Upgrades and Up to $350 With Trade-In Credit     - CNET](https://www.cnet.com/deals/samsung-galaxy-tab-s9-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My six-month dive into podcasting’s very chaotic year](https://www.theverge.com/2023/10/20/23925917/youtube-hot-pod-goodbye-podcasting-bust)
+ - [Friday news dumps: all the news companies hoped you wouldn’t notice](https://www.theverge.com/2023/10/20/23925862/friday-bad-news-dumps-companies)
+ - [SCOTUS pauses a ruling that banned Biden administration officials from engaging in many kinds of contact with social media platforms as it hears a DOJ appeal &lpar;Adam Liptak/New York Times&rpar;](http://www.techmeme.com/231020/p21#a231020p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
