@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DreamCloud Is Knocking 50% Off Mattresses During Its Flash Sale     - CNET](https://www.cnet.com/deals/dreamcloud-is-knocking-50-off-mattresses-during-its-flash-sale/#ftag=CAD590a51e)
- - [Best Portable Power Stations for October 2023     - CNET](https://www.cnet.com/home/energy-and-utilities/best-portable-power-stations/#ftag=CAD590a51e)
- - [Apple&#39;s Killers of the Flower Moon hits cinemas globally, after Tim Cook personally attended the Cannes premiere, ahead of Ridley Scott&#39;s Napoleon in November &lpar;Financial Times&rpar;](http://www.techmeme.com/231020/p12#a231020p12)<!-- TECH:END -->
+ - [IBM researchers unveil a &quot;brain-inspired&quot; NorthPole chip prototype that removes the need to frequently access external memory and consumes vastly less power &lpar;Davide Castelvecchi/Nature&rpar;](http://www.techmeme.com/231020/p16#a231020p16)
+ - [Frying pan company sued for claiming temperatures that rival the Sun](https://www.theverge.com/2023/10/20/23925424/sharkninja-lawsuit-frying-pan-temperatures-hotter-than-sun)
+ - [‘Nothing is changing’: Reddit flatly denies report that it might wall off its content](https://www.theverge.com/2023/10/20/23925504/reddit-deny-force-log-in-see-posts-ai-companies-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
