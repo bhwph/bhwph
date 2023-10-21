@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [So long, small phones](https://www.theverge.com/23913658/best-small-phone-dead-iphone-mini-z-flip-pixel-8)
- - [Everything to Know About NameDrop, Apple&#39;s Quick, New Way to Share Your Contact Info     - CNET](https://www.cnet.com/tech/mobile/everything-to-know-about-namedrop-apples-quick-new-way-to-share-your-contact-info/#ftag=CAD590a51e)
- - [Liverpool vs. Everton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-everton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Have Climate Catastrophes Toppled Some Civilizations but Not Others?](https://www.wired.com/story/why-have-climate-catastrophes-toppled-some-civilizations-but-not-others/)
+ - [Lenovo Flex 5i Chromebook Plus Review: A Cheap Touchscreen Chromebook](https://www.wired.com/review/lenovo-flex-5i-chromebook-plus/)
+ - [Learn About Your Pup With This $85 DNA Test Kit for Dogs From Basepaws &lpar;Save $64&rpar;     - CNET](https://www.cnet.com/deals/learn-about-your-pup-with-this-85-dna-test-kit-for-dogs-from-basepaws-save-64/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
