@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch now lets creators simulcast across any live streaming service, with caveats, and adds doxxing and swatting to its Off-Service Conduct enforcement list &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231020/p23#a231020p23)
- - [Twitch will now let streamers simultaneously stream on any service they want](https://www.theverge.com/2023/10/20/23926013/twitch-simultaneously-stream-any-service-platform-twitchcon)
- - [Best Android Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google expands consumer and merchant credit features on Google Pay in India, launches new generative AI-based visual and local capabilities in Search, and more &lpar;Sanjay Gupta/The Keyword India&rpar;](http://www.techmeme.com/231021/p1#a231021p1)
+ - [London-based Samaya AI unveils an AI tool that suggests better Wikipedia references for citations the tool identifies as unlikely to support associated claims &lpar;Chris Stokel-Walker/Nature&rpar;](http://www.techmeme.com/231020/p24#a231020p24)
+ - [Best Smart Thermostat Deals: Options From Google, Amazon and More Starting at $80     - CNET](https://www.cnet.com/deals/best-smart-thermostat-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
