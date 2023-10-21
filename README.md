@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My six-month dive into podcasting’s very chaotic year](https://www.theverge.com/2023/10/20/23925917/youtube-hot-pod-goodbye-podcasting-bust)
- - [Friday news dumps: all the news companies hoped you wouldn’t notice](https://www.theverge.com/2023/10/20/23925862/friday-bad-news-dumps-companies)
- - [SCOTUS pauses a ruling that banned Biden administration officials from engaging in many kinds of contact with social media platforms as it hears a DOJ appeal &lpar;Adam Liptak/New York Times&rpar;](http://www.techmeme.com/231020/p21#a231020p21)<!-- TECH:END -->
+ - [Twitch now lets creators simulcast across any live streaming service, with caveats, and adds doxxing and swatting to its Off-Service Conduct enforcement list &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231020/p23#a231020p23)
+ - [Twitch will now let streamers simultaneously stream on any service they want](https://www.theverge.com/2023/10/20/23926013/twitch-simultaneously-stream-any-service-platform-twitchcon)
+ - [Best Android Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
