@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palestinians Claim Social Media &#39;Censorship&#39; Is Endangering Lives](https://www.wired.com/story/palestinians-claim-social-media-censorship-is-endangering-lives/)
- - [Research: ChatGPT, GPT-4, Bard, and Claude had instances of promoting harmful, inaccurate, race-based content when responding to nine medical questions &lpar;Associated Press&rpar;](http://www.techmeme.com/231021/p3#a231021p3)
- - [Bugs in the ChatGPT app reveal internal natural language prompts shared between DALL-E 3 and ChatGPT, including some commands written in all-caps for emphasis &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/231021/p2#a231021p2)<!-- TECH:END -->
+ - [So long, small phones](https://www.theverge.com/23913658/best-small-phone-dead-iphone-mini-z-flip-pixel-8)
+ - [Everything to Know About NameDrop, Apple&#39;s Quick, New Way to Share Your Contact Info     - CNET](https://www.cnet.com/tech/mobile/everything-to-know-about-namedrop-apples-quick-new-way-to-share-your-contact-info/#ftag=CAD590a51e)
+ - [Liverpool vs. Everton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-everton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
