@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Allen Institute for AI&#39;s plan to build &quot;open&quot; generative AI model OLMo; the nonprofit research center is led by former Apple ML leader Ali Farhadi &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/231021/p5#a231021p5)
- - [Apple bails out of troubled Toronto retail construction project](https://appleinsider.com/articles/23/10/20/apple-bails-out-of-troubled-toronto-retail-construction-project?utm_medium=rss)
- - [YouTube Music adds HomePod integration to its iOS app](https://appleinsider.com/articles/23/10/21/youtube-music-adds-homepod-integration-to-its-ios-app?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Oct. 21: $100 off M2 12.9&quot; iPad Pro, $150 off M2 MacBook Air, $200 off Bose Smart Soundbar 900, more](https://appleinsider.com/articles/23/10/21/daily-deals-oct-21-100-off-m2-129-ipad-pro-150-off-m2-macbook-air-200-off-bose-smart-soundbar-900-more?utm_medium=rss)
+ - [Pitaka MagEZ Slider 2 review: Innovative, but slow](https://appleinsider.com/articles/23/10/21/pitaka-magez-slider-2-review-innovative-but-slow?utm_medium=rss)
+ - [Apple bails out of troubled Toronto retail construction project](https://appleinsider.com/articles/23/10/20/apple-bails-out-of-troubled-toronto-retail-construction-project?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
