@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Have Climate Catastrophes Toppled Some Civilizations but Not Others?](https://www.wired.com/story/why-have-climate-catastrophes-toppled-some-civilizations-but-not-others/)
- - [Lenovo Flex 5i Chromebook Plus Review: A Cheap Touchscreen Chromebook](https://www.wired.com/review/lenovo-flex-5i-chromebook-plus/)
- - [Learn About Your Pup With This $85 DNA Test Kit for Dogs From Basepaws &lpar;Save $64&rpar;     - CNET](https://www.cnet.com/deals/learn-about-your-pup-with-this-85-dna-test-kit-for-dogs-from-basepaws-save-64/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the Allen Institute for AI&#39;s plan to build &quot;open&quot; generative AI model OLMo; the nonprofit research center is led by former Apple ML leader Ali Farhadi &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/231021/p5#a231021p5)
+ - [Apple bails out of troubled Toronto retail construction project](https://appleinsider.com/articles/23/10/20/apple-bails-out-of-troubled-toronto-retail-construction-project?utm_medium=rss)
+ - [YouTube Music adds HomePod integration to its iOS app](https://appleinsider.com/articles/23/10/21/youtube-music-adds-homepod-integration-to-its-ios-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
