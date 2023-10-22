@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gurman: Apple is planning a &quot;Mac-centered product launch&quot; by the end of October that could see the release of an updated 24-inch iMac &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/231022/p5#a231022p5)
- - [Sources: Apple was caught off guard by the generative AI fever and is on course to spend ~$1B/year to deploy the tech across iOS 18, Siri, Music, and other apps &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231022/p4#a231022p4)
- - [Apple Vision Pro employee training starts very early in 2024](https://appleinsider.com/articles/23/10/22/apple-plans-employee-training-ahead-of-apple-vision-pro-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Q&amp;A with Fei-Fei Li and NTIA head Alan Davidson on regulating AI, tech competition between the US and China, representation of women and PoC in AI, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231022/p6#a231022p6)
+ - [How to use PDF Debugger to inspect a PDF file&#39;s code](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-pdf-debugger-to-inspect-a-pdf-files-code?utm_medium=rss)
+ - [The best Android phone to buy in 2023](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
