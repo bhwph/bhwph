@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Fei-Fei Li and NTIA head Alan Davidson on regulating AI, tech competition between the US and China, representation of women and PoC in AI, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231022/p6#a231022p6)
- - [How to use PDF Debugger to inspect a PDF file&#39;s code](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-pdf-debugger-to-inspect-a-pdf-files-code?utm_medium=rss)
- - [The best Android phone to buy in 2023](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
+ - [Best Roku Deals: Up to $11 Off Top-Rated Streaming Devices     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)
+ - [Q&amp;A with Fei-Fei Li and NTIA head Alan Davidson on regulating AI, US and China tech competition, the representation of women and PoC in AI discussions, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231022/p6#a231022p6)
+ - [How to use PDF Debugger to inspect a PDF file&#39;s code](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-pdf-debugger-to-inspect-a-pdf-files-code?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
