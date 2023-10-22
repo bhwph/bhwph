@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ultrahuman Ring Air Review: A Subscription-Free Smart Ring](https://www.wired.com/review/ultrahuman-ring-air/)
- - [This Contest Put Theories of Consciousness to the Test. Here’s What It Really Proved](https://www.wired.com/story/this-contest-put-theories-of-consciousness-to-the-test-heres-what-it-really-proved/)
- - [Mario and Spider-Man are both back in a big way](https://www.theverge.com/2023/10/22/23925495/super-mario-bros-wonder-oneplus-open-spiderman-2-installer-newsletter)<!-- TECH:END -->
+ - [Apple plans more AI in iOS, improved Siri in $1B technology push](https://appleinsider.com/articles/23/10/22/apple-plans-more-ai-in-ios-improved-siri-in-1b-technology-push?utm_medium=rss)
+ - [The Global Times: China launches an investigation into Foxconn over tax and land use and inspects multiple sites; Foxconn plans to cooperate &lpar;Financial Times&rpar;](http://www.techmeme.com/231022/p3#a231022p3)
+ - [Larger 32-inch iMac Pro rumored to hit store shelves in late 2024](https://appleinsider.com/articles/23/10/22/larger-32-inch-imac-pro-rumored-to-hit-store-shelves-in-late-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
