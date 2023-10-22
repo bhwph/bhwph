@@ -129,7 +129,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [&#39;The Black Book&#39; Is Nigeria’s First Runaway Netflix Hit](https://www.wired.com/story/the-black-book-is-nigerias-first-runaway-netflix-hit/)
  - [How Russia helped overthrow governments in Burkina Faso and the surrounding French-speaking Sahel region of Africa using online disinformation campaigns &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/231022/p1#a231022p1)
- - [Today Only: QVC Is Offering the Ninja Foodi Double Oven for $240 &lpar;Save $90&rpar;     - CNET](https://www.cnet.com/deals/today-only-qvc-is-offering-the-ninja-foodi-double-oven-for-240-save-90/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Packers vs. Broncos Livestream: How to Watch NFL Week 7 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/packers-vs-broncos-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
