@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Not a Fan of NameDrop? Here&#39;s How You Can Disable Apple&#39;s Latest Contact-Sharing Feature     - CNET](https://www.cnet.com/tech/mobile/not-a-fan-of-namedrop-heres-how-you-can-disable-apples-latest-contact-sharing-feature/#ftag=CAD590a51e)
- - [&#39;The Black Book&#39; Is Nigeria’s First Runaway Netflix Hit](https://www.wired.com/story/the-black-book-is-nigerias-first-runaway-netflix-hit/)
- - [How Russia helped overthrow governments in Burkina Faso and the surrounding French-speaking Sahel region of Africa using online disinformation campaigns &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/231022/p1#a231022p1)<!-- TECH:END -->
+ - [Ultrahuman Ring Air Review: A Subscription-Free Smart Ring](https://www.wired.com/review/ultrahuman-ring-air/)
+ - [This Contest Put Theories of Consciousness to the Test. Here’s What It Really Proved](https://www.wired.com/story/this-contest-put-theories-of-consciousness-to-the-test-heres-what-it-really-proved/)
+ - [Mario and Spider-Man are both back in a big way](https://www.theverge.com/2023/10/22/23925495/super-mario-bros-wonder-oneplus-open-spiderman-2-installer-newsletter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
