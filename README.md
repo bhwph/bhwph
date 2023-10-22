@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best King-Size Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
  - [Hivebrite, a SaaS community engagement platform used by Boeing, the Obama Foundation, and others, raised a $37M Series B, bringing its total funding to $60M &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/231021/p11#a231021p11)
- - [Best Garmin Deals: Save Up to $500 on Garmin Wearables and More     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)
- - [Report: seven unreliable X accounts, some promoted by Elon Musk, dominated English-language news on X around the Israel-Hamas war from October 7 to October 10 &lpar;Brandy Zadrozny/NBC News&rpar;](http://www.techmeme.com/231021/p10#a231021p10)<!-- TECH:END -->
+ - [Best Garmin Deals: Save Up to $500 on Garmin Wearables and More     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
