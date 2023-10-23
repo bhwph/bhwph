@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China investigating Foxconn over land use and tax issues](https://appleinsider.com/articles/23/10/23/china-investigating-foxconn-over-land-use-and-tax-issues?utm_medium=rss)
- - [Uber plans to let users in Turkey&#39;s touristic Cappadocia region buy a &amp;euro;150 air balloon ride; ~10% of Turkey&#39;s 44.6M visitors in 2022 stayed in the region &lpar;Patrick Sykes/Bloomberg&rpar;](http://www.techmeme.com/231023/p5#a231023p5)
- - [Tinder now lets mom pick your next date](https://www.theverge.com/2023/10/23/23928363/tinder-matchmaker-dating-app-feature-recommendations)<!-- TECH:END -->
+ - [Microsoft updates Excel to fix automatic conversions, after scientists reworked the alphanumeric symbols to represent genes in 2020 to avoid Excel issues &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231023/p13#a231023p13)
+ - [The British Museum plans to digitize its entire collection to boost security and public access over the next five years, after 2,000 items were recently stolen &lpar;Karen K. Ho/ARTnews&rpar;](http://www.techmeme.com/231023/p12#a231023p12)
+ - [Sony Xperia 5 V Review: Small and Mighty but Too Pricey](https://www.wired.com/review/sony-xperia-5-v/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
