@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony says Marvel&#39;s Spider-Man 2 sold 2.5M copies in the first 24 hours after its October 20 release, becoming the fastest-selling PlayStation Studios game ever &lpar;Push Square&rpar;](http://www.techmeme.com/231023/p21#a231023p21)
- - [DOJ probing Tesla’s EV range after reports of exaggerated numbers](https://www.theverge.com/2023/10/23/23928563/tesla-doj-ev-range-exaggerate-investigation)
- - [Apple&#39;s epic &#39;Killers of the Flower Moon&#39; is a hit in theaters](https://appleinsider.com/articles/23/10/23/apples-epic-killers-of-the-flower-moon-is-a-hit-in-theaters?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon now lets you log in with Apple&#39;s Face ID or Touch ID and Passkeys](https://appleinsider.com/articles/23/10/23/amazon-now-lets-you-log-in-with-apples-face-id-or-touch-id-and-passkeys?utm_medium=rss)
+ - [League’s new boy band looks ripped out of Arcane](https://www.theverge.com/2023/10/23/23928774/league-of-legends-heartsteel-paranoia-music-video-arcane)
+ - [Junji Ito has a terrifying new short story collection just in time for Halloween](https://www.theverge.com/23925649/junji-ito-mimis-tales-of-terror-review-horror-manga)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
