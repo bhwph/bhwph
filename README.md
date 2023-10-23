@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Error 4013: common causes and proven solutions](https://appleinsider.com/articles/23/10/23/iphone-error-4013-common-causes-and-proven-solutions?utm_medium=rss)
- - [Apple prepares to open 46th Chinese Apple Store on November 4](https://appleinsider.com/articles/23/10/23/apple-prepares-to-open-46th-chinese-apple-store-on-november-4?utm_medium=rss)
- - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)<!-- TECH:END -->
+ - [Nvidia and AMD plan to launch Arm PC chips as soon as 2025, Reuters reports](https://www.theverge.com/2023/10/23/23929240/nvidia-amd-cpu-arm-pc-chips-2025-release-rumors)
+ - [Samsung TVs had Steam Link, but now the game streaming app is going away](https://www.theverge.com/2023/10/23/23928965/steam-link-app-samsung-tvs-discontinued)
+ - [Final Fantasy XIV has a new class and a couple of new crossovers coming soon](https://www.theverge.com/2023/10/23/23929066/final-fantasy-xiv-dawntrail-viper-class-fall-guys-ffxvi)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
