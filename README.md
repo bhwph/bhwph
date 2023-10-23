@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia and AMD plan to launch Arm PC chips as soon as 2025, Reuters reports](https://www.theverge.com/2023/10/23/23929240/nvidia-amd-cpu-arm-pc-chips-2025-release-rumors)
- - [Samsung TVs had Steam Link, but now the game streaming app is going away](https://www.theverge.com/2023/10/23/23928965/steam-link-app-samsung-tvs-discontinued)
- - [Final Fantasy XIV has a new class and a couple of new crossovers coming soon](https://www.theverge.com/2023/10/23/23929066/final-fantasy-xiv-dawntrail-viper-class-fall-guys-ffxvi)<!-- TECH:END -->
+ - [Parity Technologies, developer of Polkadot, which helps different blockchains communicate with each other, is laying off ~100 staff or 30% of its employees &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/231023/p37#a231023p37)
+ - [Meta says it is &quot;listening to feedback&quot; after some users found that it is cross-posting Threads posts to users&#39; Facebook feeds without an opt-out &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231023/p36#a231023p36)
+ - [Toyota made a Land Cruiser EV concept that probably won’t see the light of day](https://www.theverge.com/2023/10/23/23928817/toyota-land-cruiser-se-ev-epu-electric-suv-truck-concept)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
