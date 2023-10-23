@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft updates Excel to fix automatic conversions, after scientists reworked the alphanumeric symbols to represent genes in 2020 to avoid Excel issues &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231023/p13#a231023p13)
- - [The British Museum plans to digitize its entire collection to boost security and public access over the next five years, after 2,000 items were recently stolen &lpar;Karen K. Ho/ARTnews&rpar;](http://www.techmeme.com/231023/p12#a231023p12)
- - [Sony Xperia 5 V Review: Small and Mighty but Too Pricey](https://www.wired.com/review/sony-xperia-5-v/)<!-- TECH:END -->
+ - [Sony says Marvel&#39;s Spider-Man 2 sold 2.5M copies in the first 24 hours after its October 20 release, becoming the fastest-selling PlayStation Studios game ever &lpar;Push Square&rpar;](http://www.techmeme.com/231023/p21#a231023p21)
+ - [DOJ probing Tesla’s EV range after reports of exaggerated numbers](https://www.theverge.com/2023/10/23/23928563/tesla-doj-ev-range-exaggerate-investigation)
+ - [Apple&#39;s epic &#39;Killers of the Flower Moon&#39; is a hit in theaters](https://appleinsider.com/articles/23/10/23/apples-epic-killers-of-the-flower-moon-is-a-hit-in-theaters?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
