@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon now lets you log in with Apple&#39;s Face ID or Touch ID and Passkeys](https://appleinsider.com/articles/23/10/23/amazon-now-lets-you-log-in-with-apples-face-id-or-touch-id-and-passkeys?utm_medium=rss)
- - [League’s new boy band looks ripped out of Arcane](https://www.theverge.com/2023/10/23/23928774/league-of-legends-heartsteel-paranoia-music-video-arcane)
- - [Junji Ito has a terrifying new short story collection just in time for Halloween](https://www.theverge.com/23925649/junji-ito-mimis-tales-of-terror-review-horror-manga)<!-- TECH:END -->
+ - [iPhone Error 4013: common causes and proven solutions](https://appleinsider.com/articles/23/10/23/iphone-error-4013-common-causes-and-proven-solutions?utm_medium=rss)
+ - [Apple prepares to open 46th Chinese Apple Store on November 4](https://appleinsider.com/articles/23/10/23/apple-prepares-to-open-46th-chinese-apple-store-on-november-4?utm_medium=rss)
+ - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
