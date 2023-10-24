@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple will update tvOS with a redesigned TV app around December and remove some of its dedicated apps on the Apple TV to steer more users to the TV app &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231024/p30#a231024p30)
- - [Ming-Chi Kuo flip-flops, now expects new M3 MacBook Pro in October](https://appleinsider.com/articles/23/10/24/ming-chi-kuo-changes-tune-on-new-m3-macbook-pros?utm_medium=rss)
- - [California DMV suspends Cruise’s robotaxi permit ‘effective immediately’](https://www.theverge.com/2023/10/24/23930629/california-dmv-suspends-cruise-robotaxi-permit-safety)<!-- TECH:END -->
+ - [Alphabet Announces Third Quarter 2023 Results &lpar;Alphabet&rpar;](http://www.techmeme.com/231024/p35#a231024p35)
+ - [Verizon&#39;s stock jumped 9.2% after reporting Q3 revenue of $33.34B, vs. $33.25B est., 100K postpaid phone net additions, vs. 60K est., and ~10.3M broadband subs &lpar;Jake Piazza/CNBC&rpar;](http://www.techmeme.com/231024/p34#a231024p34)
+ - [Microsoft reports Q1 revenue up 13% YoY to $56.5B, net income up 27% YoY to $22.3B, Office Commercial revenue up 15% YoY, and LinkedIn revenue up 8% YoY &lpar;Microsoft&rpar;](http://www.techmeme.com/231024/p33#a231024p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
