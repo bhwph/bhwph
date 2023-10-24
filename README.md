@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WIPO: in 2022, Chinese entities applied for 29,853 AI patents, up from 29,000 in 2021, almost 80% more than the 16,800 US filings, down from 17,800 in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231024/p16#a231024p16)
- - [A Twitter user since 2007 reflects on leaving due to Elon Musk swapping stasis at the company for chaos, his constant bullshitting, and spreading toxic content &lpar;Benedict Evans&rpar;](http://www.techmeme.com/231024/p15#a231024p15)
- - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)<!-- TECH:END -->
+ - [Canadian Broadcasters want government to make Apple pay for news](https://appleinsider.com/articles/23/10/24/canadian-broadcasters-want-government-to-make-apple-pay-for-news?utm_medium=rss)
+ - [How to Play Your Favorite Google Play Mobile Games on PC &lpar;2023&rpar;](https://www.wired.com/story/google-play-games-for-pc/)
+ - [Harvard professor Lawrence Lessig on why AI and social media are causing a free speech crisis for the internet](https://www.theverge.com/23929233/lawrence-lessig-free-speech-first-amendment-ai-content-moderation-decoder-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
