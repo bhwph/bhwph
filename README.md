@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple plans ‘Scary Fast’ product event just before Halloween](https://www.theverge.com/2023/10/24/23930407/apple-scary-fast-halloween-imac-event-macbook-pro-rumors)
- - [Pebble, the Twitter alternative formerly known as T2, plans to shut down, having maxed out at 3,000 DAUs, despite decent early retention and invite conversion &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231024/p24#a231024p24)
- - [Apple promises &#39;scary fast&#39; Mac announcement the night of October 30](https://appleinsider.com/articles/23/10/24/apple-promises-scary-fast-mac-announcement-the-night-of-october-30?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apple will update tvOS with a redesigned TV app around December and remove some of its dedicated apps on the Apple TV to steer more users to the TV app &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231024/p30#a231024p30)
+ - [Ming-Chi Kuo flip-flops, now expects new M3 MacBook Pro in October](https://appleinsider.com/articles/23/10/24/ming-chi-kuo-changes-tune-on-new-m3-macbook-pros?utm_medium=rss)
+ - [California DMV suspends Cruise’s robotaxi permit ‘effective immediately’](https://www.theverge.com/2023/10/24/23930629/california-dmv-suspends-cruise-robotaxi-permit-safety)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
