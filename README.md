@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google disables live traffic conditions in Israel and the Gaza Strip for its Maps and Waze apps, a source says at the request of the Israel Defense Forces &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/231024/p7#a231024p7)
- - [They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird](https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/)
- - [Workers training AI demand protections from Congress](https://www.theverge.com/2023/10/24/23929411/schumer-ai-insight-forum-marc-andreesen-mturk)<!-- TECH:END -->
+ - [WIPO: in 2022, Chinese entities applied for 29,853 AI patents, up from 29,000 in 2021, almost 80% more than the 16,800 US filings, down from 17,800 in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231024/p16#a231024p16)
+ - [A Twitter user since 2007 reflects on leaving due to Elon Musk swapping stasis at the company for chaos, his constant bullshitting, and spreading toxic content &lpar;Benedict Evans&rpar;](http://www.techmeme.com/231024/p15#a231024p15)
+ - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
