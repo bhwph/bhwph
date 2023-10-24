@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Parity Technologies, developer of Polkadot, which helps different blockchains communicate with each other, is laying off ~100 staff or 30% of its employees &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/231023/p37#a231023p37)
- - [Meta says it is &quot;listening to feedback&quot; after some users found that it is cross-posting Threads posts to users&#39; Facebook feeds without an opt-out &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231023/p36#a231023p36)
- - [Toyota made a Land Cruiser EV concept that probably won’t see the light of day](https://www.theverge.com/2023/10/23/23928817/toyota-land-cruiser-se-ev-epu-electric-suv-truck-concept)<!-- TECH:END -->
+ - [MangoBoost, which develops data processing units for data centers, raised a $55M Series A, sources say at a ~$300M valuation, bringing its total funding to $65M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/231023/p41#a231023p41)
+ - [Streaming services, including Hulu, Peacock, and Max, are increasingly showing &quot;pause ads&quot;, which appear a few seconds after a viewer pauses the programming &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/231023/p40#a231023p40)
+ - [Best Internet Providers in Tennessee     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-tennessee/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
