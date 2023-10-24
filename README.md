@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [1Password says it detected &quot;suspicious activity&quot; on its Okta tenant that it uses to manage employee-facing apps, and found that no user data was accessed &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231023/p42#a231023p42)
  - [MangoBoost, which develops data processing units for data centers, raised a $55M Series A, sources say at a ~$300M valuation, bringing its total funding to $65M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/231023/p41#a231023p41)
- - [Streaming services, including Hulu, Peacock, and Max, are increasingly showing &quot;pause ads&quot;, which appear a few seconds after a viewer pauses the programming &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/231023/p40#a231023p40)
- - [Best Internet Providers in Tennessee     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-tennessee/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Streaming services, including Hulu, Peacock, and Max, are increasingly showing &quot;pause ads&quot;, which appear a few seconds after a viewer pauses the programming &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/231023/p40#a231023p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
