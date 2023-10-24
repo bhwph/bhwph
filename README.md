@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canadian Broadcasters want government to make Apple pay for news](https://appleinsider.com/articles/23/10/24/canadian-broadcasters-want-government-to-make-apple-pay-for-news?utm_medium=rss)
- - [How to Play Your Favorite Google Play Mobile Games on PC &lpar;2023&rpar;](https://www.wired.com/story/google-play-games-for-pc/)
- - [Harvard professor Lawrence Lessig on why AI and social media are causing a free speech crisis for the internet](https://www.theverge.com/23929233/lawrence-lessig-free-speech-first-amendment-ai-content-moderation-decoder-interview)<!-- TECH:END -->
+ - [Apple plans ‘Scary Fast’ product event just before Halloween](https://www.theverge.com/2023/10/24/23930407/apple-scary-fast-halloween-imac-event-macbook-pro-rumors)
+ - [Pebble, the Twitter alternative formerly known as T2, plans to shut down, having maxed out at 3,000 DAUs, despite decent early retention and invite conversion &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231024/p24#a231024p24)
+ - [Apple promises &#39;scary fast&#39; Mac announcement the night of October 30](https://appleinsider.com/articles/23/10/24/apple-promises-scary-fast-mac-announcement-the-night-of-october-30?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
