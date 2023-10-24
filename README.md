@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [1Password says it detected &quot;suspicious activity&quot; on its Okta tenant that it uses to manage employee-facing apps, and found that no user data was accessed &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231023/p42#a231023p42)
- - [Adult Cheshire Cat Onesie     - CNET](https://www.cnet.com/culture/fashion/adult-cheshire-cat-onesie-dpnl/#ftag=CAD590a51e)
- - [Adult Baby Yoda Onesie     - CNET](https://www.cnet.com/culture/fashion/adult-baby-yoda-onesie-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Glacial Lakes Threaten Millions in a Warming World](https://www.wired.com/story/glacial-lake-outburst-flood-glof-india-sikkim/)
+ - [South Korea-based Naver signs a 2024 to 2029 deal, sources say for $100M+, with Saudi Arabia to build digital twins of Riyadh, Medina, Jeddah, Dammam, and Mecca &lpar;Kim Na-young/Yonhap News Agency&rpar;](http://www.techmeme.com/231024/p1#a231024p1)
+ - [Best Solar-Powered Home Security Cameras for 2023     - CNET](https://www.cnet.com/home/security/best-solar-powered-home-security-camera/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
