@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Byju&#39;s CFO Ajay Goel resigns after six months as the edtech delays its FY 2022 earnings; Byju&#39;s President of Finance Nitin Golani takes over on October 30 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231024/p3#a231024p3)
- - [Hands-on with DALL-E 3: suggests more detailed prompts, restrictive, denies art requests in the style of living artists, and shows how quickly AI is improving &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231024/p2#a231024p2)
- - [Glacial Lakes Threaten Millions in a Warming World](https://www.wired.com/story/glacial-lake-outburst-flood-glof-india-sikkim/)<!-- TECH:END -->
+ - [Google disables live traffic conditions in Israel and the Gaza Strip for its Maps and Waze apps, a source says at the request of the Israel Defense Forces &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/231024/p7#a231024p7)
+ - [They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird](https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/)
+ - [Workers training AI demand protections from Congress](https://www.theverge.com/2023/10/24/23929411/schumer-ai-insight-forum-marc-andreesen-mturk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
