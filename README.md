@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet Announces Third Quarter 2023 Results &lpar;Alphabet&rpar;](http://www.techmeme.com/231024/p35#a231024p35)
- - [Verizon&#39;s stock jumped 9.2% after reporting Q3 revenue of $33.34B, vs. $33.25B est., 100K postpaid phone net additions, vs. 60K est., and ~10.3M broadband subs &lpar;Jake Piazza/CNBC&rpar;](http://www.techmeme.com/231024/p34#a231024p34)
- - [Microsoft reports Q1 revenue up 13% YoY to $56.5B, net income up 27% YoY to $22.3B, Office Commercial revenue up 15% YoY, and LinkedIn revenue up 8% YoY &lpar;Microsoft&rpar;](http://www.techmeme.com/231024/p33#a231024p33)<!-- TECH:END -->
+ - [Qualcomm turns to Wi-Fi to take wireless earbuds and headphones to the next level](https://www.theverge.com/2023/10/24/23930039/qualcomm-snapdragon-sound-s7-pro-announced-earbuds-wifi)
+ - [Snapdragon claims its new X Elite processor will beat Apple, Intel, and AMD](https://www.theverge.com/2023/10/24/23930366/qualcomm-snapdragon-x-elite-processor-availability-release-date)
+ - [Qualcomm unveils Snapdragon Seamless, a technology integrated in its newest chips to better enable cross-device communication between different OEMs and OSes &lpar;Derrek Lee/Android Central&rpar;](http://www.techmeme.com/231024/p43#a231024p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
