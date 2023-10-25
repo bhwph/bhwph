@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Harvard professor and Creative Commons co-founder Lawrence Lessig on AI&#39;s impact on social media and free speech, copyright issues, TikTok, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231025/p7#a231025p7)
- - [Best Apple iPhone SE Case for 2023     - CNET](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)
- - [Blued, China&#39;s largest gay dating app, plans to expand to Southeast Asia and the US in a bid to take on Grindr, while facing censorship and competition in China &lpar;Rest of World&rpar;](http://www.techmeme.com/231025/p6#a231025p6)<!-- TECH:END -->
+ - [OLED iPad Pro may use new two-stack display technology](https://appleinsider.com/articles/23/10/24/oled-ipad-pro-may-use-new-two-stack-display-technology?utm_medium=rss)
+ - [Bankruptcy hearing: FTX is considering proposals from three bidders to restart trading, without disclosing the names, and will make a decision by mid-December &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/231025/p11#a231025p11)
+ - [AWS plans to launch a sovereign cloud in Europe for governments and customers in regulated industries, storing data on EU servers and first available in Germany &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231025/p10#a231025p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
