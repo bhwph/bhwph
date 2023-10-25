@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [First footage of the Metal Gear Solid 3 remake looks amazing](https://www.polygon.com/23931980/metal-gear-solid-3-remake-snake-eater-unreal-engine-5-konami)
- - [2023&#39;s most slept-on horror game is getting an absolutely sadistic new mode where nearly everything&#39;s randomized and you have to spend precious fuel just to save](https://www.pcgamer.com/2023s-most-slept-on-horror-game-is-getting-an-absolutely-sadistic-new-mode-where-nearly-everythings-randomized-and-you-have-to-spend-precious-fuel-just-to-save)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231023-2000&rpar;](https://news.xbox.com/en-us/2023/10/25/xbox-insider-release-notes-alpha-skip-ahead-2408-231023-2000/)<!-- GAME:END -->
+ - [Sega put a whole Animal Crossing into the new Yakuza game](https://www.polygon.com/23932084/yakuza-like-a-dragon-infinite-wealth-animal-crossing)
+ - [Still Wakes the Deep&#39;s debut gameplay trailer asks, &#39;What if Dear Esther was set on an oil rig, and also something was trying to eat you?&#39;](https://www.pcgamer.com/still-wakes-the-deeps-debut-gameplay-trailer-asks-what-if-dear-esther-was-set-on-an-oil-rig-and-also-something-was-trying-to-eat-you)
+ - [Metal Gear Solid 3 Gets Unreal Glow-Up In New Remake Trailer](https://kotaku.com/metal-gear-solid-3-snake-eater-remake-gameplay-trailer-1850959355)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
