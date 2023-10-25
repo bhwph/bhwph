@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stick to 9GAG](http://9gag.com/gag/aBdz2ex)
- - 😝 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)
- - 👉 [Based Christian interrupts a Muslim meeting with an important message](http://9gag.com/gag/aEqKpmK)<!-- MEMES:END -->
+ - 6️⃣ [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)
+ - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
+ - 👉 [Full of degenerates](http://9gag.com/gag/armEM30)<!-- MEMES:END -->
 
 --- 
 
