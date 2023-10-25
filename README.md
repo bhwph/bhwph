@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm turns to Wi-Fi to take wireless earbuds and headphones to the next level](https://www.theverge.com/2023/10/24/23930039/qualcomm-snapdragon-sound-s7-pro-announced-earbuds-wifi)
- - [Snapdragon claims its new X Elite processor will beat Apple, Intel, and AMD](https://www.theverge.com/2023/10/24/23930366/qualcomm-snapdragon-x-elite-processor-availability-release-date)
- - [Qualcomm unveils Snapdragon Seamless, a technology integrated in its newest chips to better enable cross-device communication between different OEMs and OSes &lpar;Derrek Lee/Android Central&rpar;](http://www.techmeme.com/231024/p43#a231024p43)<!-- TECH:END -->
+ - [Kaiko: in 2023, 3,400+ crypto tokens or trading pairs have been delisted from exchanges or been inactive for a long time, 15% more than for all of 2022 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/231024/p46#a231024p46)
+ - [Microsoft now thirstily injects a poll when you download Google Chrome](https://www.theverge.com/23930960/microsoft-edge-google-chrome-poll-why-try-another-browser)
+ - [BlockFi says it has emerged from bankruptcy and has begun the process of repaying its creditors according to the terms of its bankruptcy plan &lpar;Andrew Throuvalas/Decrypt&rpar;](http://www.techmeme.com/231024/p45#a231024p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
