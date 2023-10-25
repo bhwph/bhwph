@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario Bros. Wonder’s credits do everything all at once](https://www.polygon.com/gaming/23931773/super-mario-bros-wonder-credits-easter-egg)
- - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)
- - [Need a last-minute Halloween costume? Look no further](https://www.polygon.com/deals/23929139/halloween-costumes-gamer-barbie-last-of-us-one-piece-mario)<!-- GAME:END -->
+ - [First footage of the Metal Gear Solid 3 remake looks amazing](https://www.polygon.com/23931980/metal-gear-solid-3-remake-snake-eater-unreal-engine-5-konami)
+ - [2023&#39;s most slept-on horror game is getting an absolutely sadistic new mode where nearly everything&#39;s randomized and you have to spend precious fuel just to save](https://www.pcgamer.com/2023s-most-slept-on-horror-game-is-getting-an-absolutely-sadistic-new-mode-where-nearly-everythings-randomized-and-you-have-to-spend-precious-fuel-just-to-save)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.231023-2000&rpar;](https://news.xbox.com/en-us/2023/10/25/xbox-insider-release-notes-alpha-skip-ahead-2408-231023-2000/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
