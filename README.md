@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)
- - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
- - 👉 [Full of degenerates](http://9gag.com/gag/armEM30)<!-- MEMES:END -->
+ - 6️⃣ [I like happy endings...](http://9gag.com/gag/aA0AGv2)
+ - 😝 [Not smart](http://9gag.com/gag/aVbrxov)
+ - 👉 [Could you f**king stop](http://9gag.com/gag/aqeMj3L)<!-- MEMES:END -->
 
 --- 
 
