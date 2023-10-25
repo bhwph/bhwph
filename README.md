@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple plans major overhaul for AirPods line in 2024 and 2025](https://appleinsider.com/articles/23/10/25/apple-plans-major-overhaul-for-airpods-line-in-2024-and-2025?utm_medium=rss)
- - [Apple’s future AirPods roadmap just leaked, and big changes are coming](https://www.theverge.com/2023/10/25/23931989/apple-airpods-4-max-pro-rumor-new-features)
- - [Sources: a Biden EO on AI is expected on Monday, requiring AI models undergo testing before use by federal workers, easing highly skilled immigration, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/231025/p34#a231025p34)<!-- TECH:END -->
+ - [DJI’s launches Osmo Pocket 3 with major upgrades over its predecessor](https://www.androidauthority.com/osmo-pocket-3-launch-3379405/)
+ - [Google adds foundation and hair dye options to its AR shopping tool for trying beauty products, and expands the tool to mobile browsers and Google Shopping ads &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231025/p37#a231025p37)
+ - [Spotify is reportedly making major changes to its royalty model](https://www.theverge.com/2023/10/25/23932312/spotify-royalties-swift-deezer-universal-white-noise)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
