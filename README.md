@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI’s launches Osmo Pocket 3 with major upgrades over its predecessor](https://www.androidauthority.com/osmo-pocket-3-launch-3379405/)
- - [Google adds foundation and hair dye options to its AR shopping tool for trying beauty products, and expands the tool to mobile browsers and Google Shopping ads &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231025/p37#a231025p37)
- - [Spotify is reportedly making major changes to its royalty model](https://www.theverge.com/2023/10/25/23932312/spotify-royalties-swift-deezer-universal-white-noise)<!-- TECH:END -->
+ - [Mark Zuckerberg says Threads has hit &quot;just under&quot; 100M monthly users since it was released in early July &lpar;The Verge&rpar;](http://www.techmeme.com/231025/p43#a231025p43)
+ - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
+ - [Zuckerberg says Threads has almost 100 million monthly users](https://www.theverge.com/2023/10/25/23932473/mark-zuckerberg-threads-100-million-monthly-users-earnings)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
