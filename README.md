@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OLED iPad Pro may use new two-stack display technology](https://appleinsider.com/articles/23/10/24/oled-ipad-pro-may-use-new-two-stack-display-technology?utm_medium=rss)
- - [Bankruptcy hearing: FTX is considering proposals from three bidders to restart trading, without disclosing the names, and will make a decision by mid-December &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/231025/p11#a231025p11)
- - [AWS plans to launch a sovereign cloud in Europe for governments and customers in regulated industries, storing data on EU servers and first available in Germany &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231025/p10#a231025p10)<!-- TECH:END -->
+ - [TikTok announces its first live global music event, set for December 10 in Mesa, Arizona, with Cardi B, Niall Horan, Anitta and Charlie Puth headlining &lpar;Rania Aniftos/Billboard&rpar;](http://www.techmeme.com/231025/p20#a231025p20)
+ - [A survey of 1,484 US Amazon workers at 451 facilities finds injury and pain &quot;are far more widespread&quot; than previously known; 69% took unpaid time off to recover &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/231025/p19#a231025p19)
+ - [How to Use Nearby Share on Android &lpar;2023&rpar;](https://www.wired.com/story/how-to-use-nearby-share-android/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
