@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok announces its first live global music event, set for December 10 in Mesa, Arizona, with Cardi B, Niall Horan, Anitta and Charlie Puth headlining &lpar;Rania Aniftos/Billboard&rpar;](http://www.techmeme.com/231025/p20#a231025p20)
- - [A survey of 1,484 US Amazon workers at 451 facilities finds injury and pain &quot;are far more widespread&quot; than previously known; 69% took unpaid time off to recover &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/231025/p19#a231025p19)
- - [How to Use Nearby Share on Android &lpar;2023&rpar;](https://www.wired.com/story/how-to-use-nearby-share-android/)<!-- TECH:END -->
+ - [The tragically millennial vocabulary of the Sam Bankman-Fried trial](https://www.theverge.com/2023/10/25/23930673/sam-bankman-fried-trial-sbf-language-yolo-yup-stuff-things)
+ - [Apple increases the monthly price of Apple TV+ from $6.99 to $9.99, News+ from $9.99 to $12.99, Arcade from $4.99 to $6.99, and Apple One from $16.95 to $19.95 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/231025/p28#a231025p28)
+ - [Apple TV Plus is getting a price hike — and other Apple subscriptions are, too](https://www.theverge.com/2023/10/25/23931577/apple-tv-plus-news-arcade-one-subscription-price-increase)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
