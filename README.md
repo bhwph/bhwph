@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My favorite Titanic adventure game is remarkably faithful to the historic disaster, except for how it floats above Tokyo circa 2026 stuffed with demons](https://www.pcgamer.com/my-favorite-titanic-adventure-game-is-remarkably-faithful-to-the-historic-disaster-except-for-how-it-floats-above-tokyo-circa-2026-stuffed-with-demons)
- - [Learn More About FixyText, Coming to Xbox in The Jackbox Party Pack 10](https://news.xbox.com/en-us/2023/10/19/learn-more-about-the-jackbox-party-pack-10/)
- - [How queerness became calamity in Tears of the Kingdom](https://www.polygon.com/23922313/legend-of-zelda-tears-kingdom-totk-queer-gender-link)<!-- GAME:END -->
+ - [Monster Hunter Now Hunter Rank rewards and unlocks list](https://www.polygon.com/monster-hunter-now-guides/23871598/hunter-rank-rewards-unlocks-list-hrp)
+ - [Please, Spider-Man games, stop making me play Mary Jane stealth missions](https://www.polygon.com/gaming/23930425/spider-man-2-mary-jane-stealth-missions-why)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
