@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The tragically millennial vocabulary of the Sam Bankman-Fried trial](https://www.theverge.com/2023/10/25/23930673/sam-bankman-fried-trial-sbf-language-yolo-yup-stuff-things)
- - [Apple increases the monthly price of Apple TV+ from $6.99 to $9.99, News+ from $9.99 to $12.99, Arcade from $4.99 to $6.99, and Apple One from $16.95 to $19.95 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/231025/p28#a231025p28)
- - [Apple TV Plus is getting a price hike — and other Apple subscriptions are, too](https://www.theverge.com/2023/10/25/23931577/apple-tv-plus-news-arcade-one-subscription-price-increase)<!-- TECH:END -->
+ - [How to watch Apple&#39;s &#39;Scary Fast&#39; Mac event on October 30](https://appleinsider.com/inside/apple-event/tips/how-to-watch-apples-scary-fast-mac-event-on-october-30?utm_medium=rss)
+ - [The new, ‘efficient’ Spotify has a very different approach to podcasting](https://www.theverge.com/2023/10/25/23931833/spotify-efficient-daniel-ek-rogan-cooper-ai)
+ - [Google Image Search Will Now Show a Photo’s History. Can It Spot Fakes?](https://www.wired.com/story/google-about-this-image-misinformation/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
