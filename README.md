@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FOIA documents: ICE used a tool called GOST to decide if US visa applicants&#39; social media posts are &quot;derogatory&quot; to the US, as part of immigration enforcement &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/231024/p49#a231024p49)
- - [How to use iOS 17&#39;s new Shortcuts features to control displays, record spending, and more](https://appleinsider.com/inside/ios-17/tips/how-to-use-ios-17s-new-shortcuts-features-to-control-displays-record-spending-and-more?utm_medium=rss)
- - [Matrix, an open protocol for decentralized messaging, says its network has 115M+ users, up from 60M in July 2022, after releasing Matrix 2.0 in September 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231024/p48#a231024p48)<!-- TECH:END -->
+ - [China says Foxconn probe is &quot;normal law enforcement&quot; activity, and urges Taiwan businesses to &quot;play a more active role&quot; in promoting peaceful cross-strait ties &lpar;Bloomberg&rpar;](http://www.techmeme.com/231025/p4#a231025p4)
+ - [The Internet Watch Foundation warns that generative AI is being used to create child sexual abuse imagery, and finds ~3K AI-made abuse images breaking UK law &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/231025/p3#a231025p3)
+ - [Texas Instruments reports Q3 revenue down 14% YoY to $4.53B v. $4.58B est., and forecasts Q4 revenue and profit below estimates as its industrial demand worsens &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231025/p2#a231025p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
