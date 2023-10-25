@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This guacamole tastes odd.](http://9gag.com/gag/a2Kg1de)
- - 😝 [The riddler](http://9gag.com/gag/aGEvg3K)
- - 👉 [Nice](http://9gag.com/gag/aVbrwVy)<!-- MEMES:END -->
+ - 6️⃣ [Stick to 9GAG](http://9gag.com/gag/aBdz2ex)
+ - 😝 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)
+ - 👉 [Based Christian interrupts a Muslim meeting with an important message](http://9gag.com/gag/aEqKpmK)<!-- MEMES:END -->
 
 --- 
 
