@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I like happy endings...](http://9gag.com/gag/aA0AGv2)
- - 😝 [Not smart](http://9gag.com/gag/aVbrxov)
- - 👉 [Could you f**king stop](http://9gag.com/gag/aqeMj3L)<!-- MEMES:END -->
+ - 6️⃣ [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - 👉 [Nice](http://9gag.com/gag/aVbrwVy)<!-- MEMES:END -->
 
 --- 
 
