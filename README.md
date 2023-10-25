@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Apple&#39;s &#39;Scary Fast&#39; Mac event on October 30](https://appleinsider.com/inside/apple-event/tips/how-to-watch-apples-scary-fast-mac-event-on-october-30?utm_medium=rss)
- - [The new, ‘efficient’ Spotify has a very different approach to podcasting](https://www.theverge.com/2023/10/25/23931833/spotify-efficient-daniel-ek-rogan-cooper-ai)
- - [Google Image Search Will Now Show a Photo’s History. Can It Spot Fakes?](https://www.wired.com/story/google-about-this-image-misinformation/)<!-- TECH:END -->
+ - [Apple plans major overhaul for AirPods line in 2024 and 2025](https://appleinsider.com/articles/23/10/25/apple-plans-major-overhaul-for-airpods-line-in-2024-and-2025?utm_medium=rss)
+ - [Apple’s future AirPods roadmap just leaked, and big changes are coming](https://www.theverge.com/2023/10/25/23931989/apple-airpods-4-max-pro-rumor-new-features)
+ - [Sources: a Biden EO on AI is expected on Monday, requiring AI models undergo testing before use by federal workers, easing highly skilled immigration, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/231025/p34#a231025p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
