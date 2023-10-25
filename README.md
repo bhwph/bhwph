@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Now Hunter Rank rewards and unlocks list](https://www.polygon.com/monster-hunter-now-guides/23871598/hunter-rank-rewards-unlocks-list-hrp)
- - [Please, Spider-Man games, stop making me play Mary Jane stealth missions](https://www.polygon.com/gaming/23930425/spider-man-2-mary-jane-stealth-missions-why)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [Super Mario Bros. Wonder’s credits do everything all at once](https://www.polygon.com/gaming/23931773/super-mario-bros-wonder-credits-easter-egg)
+ - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)
+ - [Need a last-minute Halloween costume? Look no further](https://www.polygon.com/deals/23929139/halloween-costumes-gamer-barbie-last-of-us-one-piece-mario)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
