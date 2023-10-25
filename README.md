@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega put a whole Animal Crossing into the new Yakuza game](https://www.polygon.com/23932084/yakuza-like-a-dragon-infinite-wealth-animal-crossing)
- - [Still Wakes the Deep&#39;s debut gameplay trailer asks, &#39;What if Dear Esther was set on an oil rig, and also something was trying to eat you?&#39;](https://www.pcgamer.com/still-wakes-the-deeps-debut-gameplay-trailer-asks-what-if-dear-esther-was-set-on-an-oil-rig-and-also-something-was-trying-to-eat-you)
- - [Metal Gear Solid 3 Gets Unreal Glow-Up In New Remake Trailer](https://kotaku.com/metal-gear-solid-3-snake-eater-remake-gameplay-trailer-1850959355)<!-- GAME:END -->
+ - [Valve is dropping local currency support for Turkey and Argentina amid &#39;exchange rate volatility,&#39; moving to &#39;regionalized USD pricing&#39; for 25 countries](https://www.pcgamer.com/valve-is-dropping-local-currency-support-for-turkey-and-argentina-amid-exchange-rate-volatility-moving-to-regionalized-usd-pricing-for-25-countries)
+ - [How to get the Hang Ten trophy in Spider-Man 2](https://www.polygon.com/spider-man-2-guides/23931708/hang-ten-trophy-how-to-get)
+ - [How to get the Soar trophy in Spider-Man 2](https://www.polygon.com/spider-man-2-guides/23931705/soar-trophy-how-to-get)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
