@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2023&#39;s Best Horror Remake Just Landed On Xbox Game Pass](https://kotaku.com/xbox-game-pass-dead-space-remake-halloween-1850962591)
- - [This single Switch cart is $200 — and worth the price](https://www.polygon.com/deals/23933333/switch-annapurna-12-game-collection-buy-pre-order)
- - [Blink-182’s Tom DeLonge is back with his first movie, a new album, and a Bigfoot theory you need to hear](https://www.polygon.com/23931532/blink-182-tom-delonge-interview-monsters-california-ufos-bigfoot)<!-- GAME:END -->
+ - [Halo Infinite Season 5 has the makings of an honest-to-god comeback](https://www.pcgamer.com/halo-infinite-season-5-has-the-makings-of-an-honest-to-god-comeback)
+ - [Ghostunner 2 chased AAA games and came up short](https://www.polygon.com/23932103/ghostunner-2-impressions)
+ - [The Night Cage makes co-op board gaming scary fun](https://www.polygon.com/tabletop-games/23930641/the-night-cage-board-game-overboard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
