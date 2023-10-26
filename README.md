@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What ?](http://9gag.com/gag/axoK7qb)
- - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
- - 👉 [What should I do next time?](http://9gag.com/gag/aME7x96)<!-- MEMES:END -->
+ - 6️⃣ [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
+ - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
+ - 👉 [I like happy endings...](http://9gag.com/gag/aA0AGv2)<!-- MEMES:END -->
 
 --- 
 
