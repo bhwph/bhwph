@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Martin Scorsese’s late-stage career has proved Quentin Tarantino wrong](https://www.polygon.com/23929489/martin-scorsese-best-movies-killers-flower-moon-career)
- - [Free Play Days – Fallout 76, Meet Your Maker, Deep Rock Galactic, and MLB The Show 23](https://news.xbox.com/en-us/2023/10/26/free-play-days-fallout-76-meet-your-maker-deep-rock-galactic-and-mlb-the-show-23/)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [2023&#39;s Best Horror Remake Just Landed On Xbox Game Pass](https://kotaku.com/xbox-game-pass-dead-space-remake-halloween-1850962591)
+ - [This single Switch cart is $200 — and worth the price](https://www.polygon.com/deals/23933333/switch-annapurna-12-game-collection-buy-pre-order)
+ - [Blink-182’s Tom DeLonge is back with his first movie, a new album, and a Bigfoot theory you need to hear](https://www.polygon.com/23931532/blink-182-tom-delonge-interview-monsters-california-ufos-bigfoot)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
