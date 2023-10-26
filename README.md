@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
- - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
- - 👉 [Nice](http://9gag.com/gag/aVbrwVy)<!-- MEMES:END -->
+ - 6️⃣ [That one girl who teases you back at school](http://9gag.com/gag/ago9g71)
+ - 😝 [I like happy endings...](http://9gag.com/gag/aA0AGv2)
+ - 👉 [What ?](http://9gag.com/gag/axoK7qb)<!-- MEMES:END -->
 
 --- 
 
