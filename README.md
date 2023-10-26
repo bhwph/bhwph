@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That one girl who teases you back at school](http://9gag.com/gag/ago9g71)
+ - 6️⃣ [Full of degenerates](http://9gag.com/gag/armEM30)
  - 😝 [I like happy endings...](http://9gag.com/gag/aA0AGv2)
  - 👉 [What ?](http://9gag.com/gag/axoK7qb)<!-- MEMES:END -->
 
