@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Timb-err: Old School Runescape&#39;s new forestry update gets panned for being &#39;too convoluted for its own good&#39;](https://www.pcgamer.com/timb-err-old-school-runescapes-new-forestry-update-gets-panned-for-being-too-convoluted-for-its-own-good)
- - [A GPU datacentre company agreed to buy a cannabis business last month in what could be described as a new joint venture](https://www.pcgamer.com/a-gpu-datacentre-company-agreed-to-buy-a-cannabis-business-last-month-in-what-could-be-described-as-a-new-joint-venture)
- - [How Star Ocean: The Second Story R modernizes a classic PlayStation adventure 25 years later](https://blog.playstation.com/2023/10/26/how-star-ocean-the-second-story-r-modernizes-a-classic-playstation-adventure-25-years-later/)<!-- GAME:END -->
+ - [Martin Scorsese’s late-stage career has proved Quentin Tarantino wrong](https://www.polygon.com/23929489/martin-scorsese-best-movies-killers-flower-moon-career)
+ - [Free Play Days – Fallout 76, Meet Your Maker, Deep Rock Galactic, and MLB The Show 23](https://news.xbox.com/en-us/2023/10/26/free-play-days-fallout-76-meet-your-maker-deep-rock-galactic-and-mlb-the-show-23/)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
