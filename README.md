@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Full of degenerates](http://9gag.com/gag/armEM30)
- - 😝 [I like happy endings...](http://9gag.com/gag/aA0AGv2)
- - 👉 [What ?](http://9gag.com/gag/axoK7qb)<!-- MEMES:END -->
+ - 6️⃣ [What ?](http://9gag.com/gag/axoK7qb)
+ - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - 👉 [What should I do next time?](http://9gag.com/gag/aME7x96)<!-- MEMES:END -->
 
 --- 
 
