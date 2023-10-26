@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now make audio and video calls on X &lpar;formerly Twitter&rpar;](https://www.androidauthority.com/x-audio-video-calling-rollout-3379512/)
- - [Apple reportedly planning major AirPods overhaul starting next year](https://www.androidauthority.com/apple-airpods-4th-generation-airpods-pro-3rd-generation-airpods-max-redesign-3379507/)
- - [Leaked UK&#39;s final AI Safety Summit communiqu&amp;eacute; does not mention a new scientific body to study AI risks, and says it should be done using existing collaborations &lpar;Joseph Bambridge/Politico&rpar;](http://www.techmeme.com/231026/p2#a231026p2)<!-- TECH:END -->
+ - [Bluesky Social vs Threads by Meta: Which one offers more?](https://www.androidauthority.com/bluesky-social-vs-threads-3367718/)
+ - [Analysis of 1,800 AI datasets: ~70% didn&#39;t state what license should be used or had been mislabeled with more permissive guidelines than their creators intended &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/231026/p3#a231026p3)
+ - [Google Photos will soon let you better organize similar photos](https://www.androidauthority.com/google-photos-photo-stack-3379517/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
