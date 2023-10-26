@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [20 Everyday Products Made of Recycled Materials &lpar;2023&rpar;: Chargers, Watches, Toys](https://www.wired.com/gallery/our-favorite-upcycled-and-recycled-products/)
- - [The 14 Best Barefoot Shoes &lpar;2023&rpar;: For Running or Walking](https://www.wired.com/gallery/best-barefoot-shoes/)
- - [You can now build your own awesome Game Boy Mini Camera](https://www.theverge.com/2023/10/26/23923057/game-boy-camera-mini-mod-diy-price-release-date)<!-- TECH:END -->
+ - [Xiaomi’s HyperOS brings it entire ecosystem experience under one branding](https://www.androidauthority.com/xiaomi-hyperos-ecosystem-3379601/)
+ - [Xiaomi unveils the 6.3&quot; Xiaomi 14 and 6.7&quot; Xiaomi 14 Pro, offering the Snapdragon 8 Gen 3, 50MP main sensors, a Lecia lens on the Pro, and LTPO 120Hz panels &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231026/p24#a231026p24)
+ - [Read Phil Spencer’s full Microsoft memo on the new Xbox leadership changes](https://www.theverge.com/2023/10/26/23933447/microsoft-gaming-xbox-phil-spencer-leadership-changes-memo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
