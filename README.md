@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice](http://9gag.com/gag/aVbrwVy)
- - 😝 [YYYAAAAA](http://9gag.com/gag/aL1opM6)
- - 👉 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)<!-- MEMES:END -->
+ - 6️⃣ [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
+ - 😝 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
+ - 👉 [Serious question though](http://9gag.com/gag/abvDvLE)<!-- MEMES:END -->
 
 --- 
 
