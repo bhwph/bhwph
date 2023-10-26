@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)
- - 😝 [Oden](http://9gag.com/gag/ay2re2p)
- - 👉 [What should I do next time?](http://9gag.com/gag/aME7x96)<!-- MEMES:END -->
+ - 6️⃣ [22 dead, 50-60 injured in mass shooting in Lewiston](http://9gag.com/gag/a04geZd)
+ - 😝 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 👉 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)<!-- MEMES:END -->
 
 --- 
 
