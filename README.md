@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Showdown in the Shadows’ Special Research quest steps, rewards](https://www.polygon.com/pokemon-go-guide/23933056/showdown-in-the-shadows-special-research-shadow-regigigas)
- - [Elden Ring fans discover &#39;cut&#39; sword behind frenzied speculation has, in fact, been hiding in plain sight the whole time](https://www.pcgamer.com/elden-ring-fans-discover-cut-sword-behind-frenzied-speculation-has-in-fact-been-hiding-in-plain-sight-the-whole-time)
- - [All of the Our Flag Means Death season 3 news we’ve heard so far](https://www.polygon.com/23930556/our-flag-means-death-season-3-max-release-cast-news)<!-- GAME:END -->
+ - [Timb-err: Old School Runescape&#39;s new forestry update gets panned for being &#39;too convoluted for its own good&#39;](https://www.pcgamer.com/timb-err-old-school-runescapes-new-forestry-update-gets-panned-for-being-too-convoluted-for-its-own-good)
+ - [A GPU datacentre company agreed to buy a cannabis business last month in what could be described as a new joint venture](https://www.pcgamer.com/a-gpu-datacentre-company-agreed-to-buy-a-cannabis-business-last-month-in-what-could-be-described-as-a-new-joint-venture)
+ - [How Star Ocean: The Second Story R modernizes a classic PlayStation adventure 25 years later](https://blog.playstation.com/2023/10/26/how-star-ocean-the-second-story-r-modernizes-a-classic-playstation-adventure-25-years-later/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
