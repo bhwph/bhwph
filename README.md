@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram blocks two channels used by Hamas for Android users, blaming Google Play Store guidelines, after Pavel Durov resisted calls to shut down Hamas channels &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231025/p46#a231025p46)
- - [Valve officially releases SteamVR 2.0](https://www.theverge.com/2023/10/25/23932715/valve-steamvr-2-0)
- - [Honor says its new phone lets you open apps with your eyes](https://www.theverge.com/2023/10/25/23932319/honor-magic-6-eye-tracking-magic-capsule-snapdragon-8-gen-3)<!-- TECH:END -->
+ - [Singapore-based YouTrip, which offers multi-currency wallet and payments services, raised a $50M Series B led by Lightspeed, bringing its total funding to $100M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/231025/p48#a231025p48)
+ - [Best Dishwasher Features of 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-dishwasher-features/#ftag=CAD590a51e)
+ - [Ford and UAW reach tentative agreement to end strike](https://www.theverge.com/2023/10/25/23932799/ford-uaw-auto-worker-end-strike-gm-stellantis)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
