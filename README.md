@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi’s HyperOS brings it entire ecosystem experience under one branding](https://www.androidauthority.com/xiaomi-hyperos-ecosystem-3379601/)
- - [Xiaomi unveils the 6.3&quot; Xiaomi 14 and 6.7&quot; Xiaomi 14 Pro, offering the Snapdragon 8 Gen 3, 50MP main sensors, a Lecia lens on the Pro, and LTPO 120Hz panels &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231026/p24#a231026p24)
- - [Read Phil Spencer’s full Microsoft memo on the new Xbox leadership changes](https://www.theverge.com/2023/10/26/23933447/microsoft-gaming-xbox-phil-spencer-leadership-changes-memo)<!-- TECH:END -->
+ - [A live blog of FTX co-founder Sam Bankman-Fried&#39;s testimony at his own criminal fraud trial in NYC over the collapse of his cryptocurrency exchange &lpar;Bloomberg&rpar;](http://www.techmeme.com/231026/p27#a231026p27)
+ - [TikTok Streamers Are Staging ‘Israel vs. Palestine’ Live Matches to Cash In on Virtual Gifts](https://www.wired.com/story/tiktok-live-matches-israel-hamas-war/)
+ - [France&#39;s iPhone 12 ban remains in place for some territories](https://appleinsider.com/articles/23/10/26/frances-iphone-12-ban-remains-in-place-for-some-territories?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
