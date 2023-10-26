@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg says Threads has hit &quot;just under&quot; 100M monthly users since it was released in early July &lpar;The Verge&rpar;](http://www.techmeme.com/231025/p43#a231025p43)
- - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
- - [Zuckerberg says Threads has almost 100 million monthly users](https://www.theverge.com/2023/10/25/23932473/mark-zuckerberg-threads-100-million-monthly-users-earnings)<!-- TECH:END -->
+ - [Telegram blocks two channels used by Hamas for Android users, blaming Google Play Store guidelines, after Pavel Durov resisted calls to shut down Hamas channels &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231025/p46#a231025p46)
+ - [Valve officially releases SteamVR 2.0](https://www.theverge.com/2023/10/25/23932715/valve-steamvr-2-0)
+ - [Honor says its new phone lets you open apps with your eyes](https://www.theverge.com/2023/10/25/23932319/honor-magic-6-eye-tracking-magic-capsule-snapdragon-8-gen-3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
