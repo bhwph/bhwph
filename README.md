@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite Season 5 has the makings of an honest-to-god comeback](https://www.pcgamer.com/halo-infinite-season-5-has-the-makings-of-an-honest-to-god-comeback)
- - [Ghostunner 2 chased AAA games and came up short](https://www.polygon.com/23932103/ghostunner-2-impressions)
- - [The Night Cage makes co-op board gaming scary fun](https://www.polygon.com/tabletop-games/23930641/the-night-cage-board-game-overboard)<!-- GAME:END -->
+ - [A Heartwarming Game with a Rich Story – A Perfect Dayis Now Available on Xbox](https://news.xbox.com/en-us/2023/10/26/a-perfect-dayis-now-available-on-xbox/)
+ - [Remedy reassures PC gamers worried about Alan Wake 2 system requirements: &#39;We played real safe on those PC settings&#39;](https://www.pcgamer.com/remedy-reassures-pc-gamers-worried-about-alan-wake-2-system-requirements-we-played-real-safe-on-those-pc-settings)
+ - [Work of Wyrd – Bringing Hellboy Web of Wyrd to Life](https://news.xbox.com/en-us/2023/10/26/bringing-hellboy-web-of-wyrd-to-life/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
