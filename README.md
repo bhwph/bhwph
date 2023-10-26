@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Be careful: Samsung is playing loose with the Galaxy S23 FE’s price](https://www.androidauthority.com/galaxy-s23-fe-price-discrepancy-3379834/)
- - [Amazon Q3: ad revenue up 26% YoY to $12.1B, vs. $11.6B est., subscription revenue up 14% YoY to $10.2B, and North America segment sales up 11% YoY to $87.9B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231026/p30#a231026p30)
- - [In 2024, entry-tier Samsung Galaxy A phones will likely get a huge upgrade](https://www.androidauthority.com/samsung-galaxy-a15-display-3379845/)<!-- TECH:END -->
+ - [The best screen recorder Chrome extensions](https://www.androidauthority.com/best-screen-recorder-chrome-extensions-3379829/)
+ - [Best Cocktail Gear: Shakers, Strainers, Juicers, and More &lpar;2023&rpar;](https://www.wired.com/gallery/best-cocktail-gear/)
+ - [Poll: What do you think of generative AI?](https://www.androidauthority.com/what-think-generative-ai-poll-3379467/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
