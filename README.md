@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)
- - 😝 [Serious question though](http://9gag.com/gag/abvDvLE)
- - 👉 [Feels](http://9gag.com/gag/aA0AeAL)<!-- MEMES:END -->
+ - 😝 [?????](http://9gag.com/gag/aZDXy26)
+ - 👉 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)<!-- MEMES:END -->
 
 --- 
 
