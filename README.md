@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A live blog of FTX co-founder Sam Bankman-Fried&#39;s testimony at his own criminal fraud trial in NYC over the collapse of his cryptocurrency exchange &lpar;Bloomberg&rpar;](http://www.techmeme.com/231026/p27#a231026p27)
- - [TikTok Streamers Are Staging ‘Israel vs. Palestine’ Live Matches to Cash In on Virtual Gifts](https://www.wired.com/story/tiktok-live-matches-israel-hamas-war/)
- - [France&#39;s iPhone 12 ban remains in place for some territories](https://appleinsider.com/articles/23/10/26/frances-iphone-12-ban-remains-in-place-for-some-territories?utm_medium=rss)<!-- TECH:END -->
+ - [Be careful: Samsung is playing loose with the Galaxy S23 FE’s price](https://www.androidauthority.com/galaxy-s23-fe-price-discrepancy-3379834/)
+ - [Amazon Q3: ad revenue up 26% YoY to $12.1B, vs. $11.6B est., subscription revenue up 14% YoY to $10.2B, and North America segment sales up 11% YoY to $87.9B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231026/p30#a231026p30)
+ - [In 2024, entry-tier Samsung Galaxy A phones will likely get a huge upgrade](https://www.androidauthority.com/samsung-galaxy-a15-display-3379845/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
