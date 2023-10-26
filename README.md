@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
- - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
- - 👉 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)<!-- MEMES:END -->
+ - 6️⃣ [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)
+ - 😝 [Serious question though](http://9gag.com/gag/abvDvLE)
+ - 👉 [Feels](http://9gag.com/gag/aA0AeAL)<!-- MEMES:END -->
 
 --- 
 
