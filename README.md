@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)
- - 😝 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
- - 👉 [?????](http://9gag.com/gag/aZDXy26)<!-- MEMES:END -->
+ - 😝 [Oden](http://9gag.com/gag/ay2re2p)
+ - 👉 [What should I do next time?](http://9gag.com/gag/aME7x96)<!-- MEMES:END -->
 
 --- 
 
