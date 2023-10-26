@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Although creators are an economic juggernaut in the US, the industry remains broadly unregulated and largely fails to appear in the Census Bureau&#39;s job index &lpar;Washington Post&rpar;](http://www.techmeme.com/231026/p12#a231026p12)
- - [Samsung brings unlimited cloud backups to Galaxy flagships, but there’s a catch](https://www.androidauthority.com/samsung-temporary-cloud-backup-3379526/)
- - [What to Do When Hackers Crash Your Gene Pool Party](https://www.wired.com/story/gadget-lab-podcast-618/)<!-- TECH:END -->
+ - [20 Everyday Products Made of Recycled Materials &lpar;2023&rpar;: Chargers, Watches, Toys](https://www.wired.com/gallery/our-favorite-upcycled-and-recycled-products/)
+ - [The 14 Best Barefoot Shoes &lpar;2023&rpar;: For Running or Walking](https://www.wired.com/gallery/best-barefoot-shoes/)
+ - [You can now build your own awesome Game Boy Mini Camera](https://www.theverge.com/2023/10/26/23923057/game-boy-camera-mini-mod-diy-price-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
