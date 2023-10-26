@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
- - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
- - 👉 [I like happy endings...](http://9gag.com/gag/aA0AGv2)<!-- MEMES:END -->
+ - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - 👉 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)<!-- MEMES:END -->
 
 --- 
 
