@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford is testing drone deliveries at the derelict train station in Detroit it’s rehabbing](https://www.theverge.com/2023/10/26/23931854/ford-michigan-central-drone-delivery-airspace-train-station)
- - [Franco-Italian chipmaker STMicro reports Q3 revenue up 2.5% to $4.43B, beating $4.38B est., net income down 0.8% YoY to ~$1B, and predicts demand rising in Q1 &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/231026/p5#a231026p5)
- - [Kioxia investor SK Hynix says the company didn&#39;t agree to the Kioxia-Western Digital merger due to &quot;the overall impact on the value of the company&#39;s investment&quot; &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231026/p4#a231026p4)<!-- TECH:END -->
+ - [Although creators are an economic juggernaut in the US, the industry remains broadly unregulated and largely fails to appear in the Census Bureau&#39;s job index &lpar;Washington Post&rpar;](http://www.techmeme.com/231026/p12#a231026p12)
+ - [Samsung brings unlimited cloud backups to Galaxy flagships, but there’s a catch](https://www.androidauthority.com/samsung-temporary-cloud-backup-3379526/)
+ - [What to Do When Hackers Crash Your Gene Pool Party](https://www.wired.com/story/gadget-lab-podcast-618/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
