@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X remains the go-to place for live updates and hot takes for sports fans and reporters and claims sports fans represent 42% of its audience &lpar;Jesus Jim&amp;eacute;nez/New York Times&rpar;](http://www.techmeme.com/231027/p16#a231027p16)
- - [If You Didn’t Care About Antarctica’s Icy Belly, You Will Now](https://www.wired.com/story/if-you-didnt-care-about-antarcticas-icy-belly-you-will-now/)
- - [Galaxy S24 series rumored brighter screen might have a new trick](https://www.androidauthority.com/galaxy-s24-series-ultra-hdr-3380215/)<!-- TECH:END -->
+ - [Filing: Gemini sues Genesis Global, its former business partner for Gemini Earn, over 60M shares, worth $1.6B+, of GBTC that were pledged as collateral &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/231027/p21#a231027p21)
+ - [Instagram tests collaborative carousels your friends can add to](https://www.theverge.com/2023/10/27/23935363/instagram-collaborative-carousels-friends-meta-test)
+ - [Sources: Google invested $500M upfront in Anthropic and agreed to add $1.5B more over time &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231027/p20#a231027p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
