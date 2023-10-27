@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What happens to Victor Timely now?](https://www.polygon.com/23930514/marvel-loki-season-2-timely-kang-variants-mcu-jonathan-majors)
- - [Thank god they didn&#39;t overwrite Payday 2 with Payday 3](https://www.pcgamer.com/thank-god-they-didnt-overwrite-payday-2-with-payday-3)
- - [Spooky new Battlefield mode lets you 3D print a bunch of terrifying naked dudes](https://www.polygon.com/23934025/battlefield-2042-season-6-dark-creations-zombies)<!-- GAME:END -->
+ - [How to find and solve Cult Stashes in Alan Wake 2](https://www.pcgamer.com/alan-wake-2-cult-stash-locations)
+ - [Where to find Manuscript Fragments in Alan Wake 2](https://www.pcgamer.com/alan-wake-2-manuscript-fragment-locations)
+ - [How to enter Caldera St. Station in Alan Wake 2](https://www.pcgamer.com/alan-wake-2-caldera-st-station-how-to-enter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
