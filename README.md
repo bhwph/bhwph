@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pepsi](http://9gag.com/gag/aBdzyGN)
- - 😝 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
- - 👉 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)<!-- MEMES:END -->
+ - 6️⃣ [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
+ - 😝 [Dad got roasted by daughter](http://9gag.com/gag/aYV6OOq)
+ - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
 
 --- 
 
