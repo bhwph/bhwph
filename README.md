@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meanwhile in the UK, London](http://9gag.com/gag/a1PgmZ8)
- - 😝 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)
- - 👉 [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)<!-- MEMES:END -->
+ - 6️⃣ [Have you seen this human?](http://9gag.com/gag/axoKoAn)
+ - 😝 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
+ - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
 
 --- 
 
