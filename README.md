@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
- - 😝 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
- - 👉 [When you don&#39;t take care of the crazies, the crazies will take care of you.](http://9gag.com/gag/aME7VzR)<!-- MEMES:END -->
+ - 6️⃣ [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
+ - 😝 [Serious question though](http://9gag.com/gag/abvDvLE)
+ - 👉 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)<!-- MEMES:END -->
 
 --- 
 
