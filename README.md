@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake 2 is a stunning example of what the future of PC gaming looks like—but only on Nvidia](https://www.pcgamer.com/alan-wake-2-is-a-stunning-example-of-what-the-future-of-pc-gaming-looks-likebut-only-on-nvidia)
- - [How to find and solve Cult Stashes in Alan Wake 2](https://www.pcgamer.com/alan-wake-2-cult-stash-locations)
- - [Where to find Manuscript Fragments in Alan Wake 2](https://www.pcgamer.com/alan-wake-2-manuscript-fragment-locations)<!-- GAME:END -->
+ - [The Lord of the Rings: Return to Moria review](https://www.pcgamer.com/the-lord-of-the-rings-return-to-moria-review)
+ - [This Fallout 4 no-hit 100% permadeath run took more than 2 years, 415 attempts and over 2,000 hours: &#39;this is by far the most challenging Fallout 4 run that will ever be completed&#39;](https://www.pcgamer.com/this-fallout-4-no-hit-100-permadeath-run-took-more-than-2-years-415-attempts-and-over-13000-hours-this-is-by-far-the-most-challenging-fallout-4-run-that-will-ever-be-completed)
+ - [Unity&#39;s disastrously unpopular fees were &#39;rushed out&#39;, according to anonymous sources: &#39;we were not told a date. And then before we knew it, it was out there&#39;](https://www.pcgamer.com/unitys-disastrously-unpopular-fees-were-rushed-out-according-to-anonymous-sources-we-were-not-told-a-date-and-then-before-we-knew-it-it-was-out-there)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
