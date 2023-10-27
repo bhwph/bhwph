@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why the big prize for a bike?](http://9gag.com/gag/ap97Dvn)
- - 😝 [Pepsi](http://9gag.com/gag/aBdzyGN)
- - 👉 [C. Can&#39;t tell](http://9gag.com/gag/awZjmzx)<!-- MEMES:END -->
+ - 6️⃣ [Good morning .](http://9gag.com/gag/abvD1XE)
+ - 😝 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
+ - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
 
 --- 
 
