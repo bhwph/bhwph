@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
- - 😝 [Dad got roasted by daughter](http://9gag.com/gag/aYV6OOq)
- - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
+ - 6️⃣ [Why the big prize for a bike?](http://9gag.com/gag/ap97Dvn)
+ - 😝 [Pepsi](http://9gag.com/gag/aBdzyGN)
+ - 👉 [C. Can&#39;t tell](http://9gag.com/gag/awZjmzx)<!-- MEMES:END -->
 
 --- 
 
