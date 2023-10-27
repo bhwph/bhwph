@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro Action Button is getting a new function](https://www.androidauthority.com/iphone-15-pro-action-button-translate-ios-17-2-beta-3379991/)
  - [Sources detail the rushed timeline for the UK&#39;s AI Summit, its expanded scope, which now covers everything from healthcare to deepfakes, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/231027/p1#a231027p1)
- - [The OnePlus Open supports a stylus even better than the Galaxy Z Fold 5](https://www.androidauthority.com/oneplus-open-stylus-support-3379978/)
- - [Samsung video all but confirms cool camera tricks coming to Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-ai-camera-features-zoom-anyplace-3379977/)<!-- TECH:END -->
+ - [The OnePlus Open supports a stylus even better than the Galaxy Z Fold 5](https://www.androidauthority.com/oneplus-open-stylus-support-3379978/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
