@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best screen recorder Chrome extensions](https://www.androidauthority.com/best-screen-recorder-chrome-extensions-3379829/)
- - [Best Cocktail Gear: Shakers, Strainers, Juicers, and More &lpar;2023&rpar;](https://www.wired.com/gallery/best-cocktail-gear/)
- - [Poll: What do you think of generative AI?](https://www.androidauthority.com/what-think-generative-ai-poll-3379467/)<!-- TECH:END -->
+ - [Apple Watch import ban up to Biden administration after ITC order](https://appleinsider.com/articles/23/10/27/apple-watch-import-ban-up-to-biden-administration-after-itc-order?utm_medium=rss)
+ - [Cranium, which provides enterprise AI security and trust software and spun out of KPMG in April 2023, raised a $25M Series A led by Telstra Ventures &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231026/p34#a231026p34)
+ - [Sam Bankman-Fried is going to talk himself right into jail](https://www.theverge.com/2023/10/26/23934195/sam-bankman-fried-self-testimony-deleted-signal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
