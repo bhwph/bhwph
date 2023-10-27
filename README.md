@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
- - [Hertz is scaling back its EV ambitions because its Teslas keep getting damaged](https://www.theverge.com/2023/10/27/23934691/hertz-tesla-uber-ev-plans-damage-repair-price-cuts)
- - [Latest &#39;Scary Fast&#39; leaks double down on M3 iMac and MacBook Pro launches](https://appleinsider.com/articles/23/10/27/latest-scary-fast-leaks-double-down-on-m3-imac-and-macbook-pro-launches?utm_medium=rss)<!-- TECH:END -->
+ - [Sonos is taking up to $385 off Arc, Beam, and Ray home theater sets](https://www.theverge.com/2023/10/27/23934836/sonos-arc-beam-ray-era-300-soundbars-smart-speakers)
+ - [Sources: Flexport is in talks to buy the tech of collapsed digital freight startup Convoy, a move that would expand Flexport&#39;s push into the US trucking market &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/231027/p11#a231027p11)
+ - [Source: Elon Musk and Linda Yaccarino referenced ambitions to create a news wire service called XWire, akin to Cision&#39;s PR Newswire, during an all-hands &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/231027/p10#a231027p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
