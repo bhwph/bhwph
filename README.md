@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Filters](https://blog.playstation.com/2023/10/27/share-of-the-week-filters/)
- - [Sam Lake Interview: How Alan Wake 2 Connects Remedy’s Universe](https://news.xbox.com/en-us/2023/10/27/alan-wake-2-sam-lake-interview/)
- - [Gen V’s giant dick wasn’t even the hardest thing to build](https://www.polygon.com/23931800/gen-v-dick-the-boys-interview)<!-- GAME:END -->
+ - [Netflix’s Pain Hustlers crams Wolf of Wall Street and Erin Brockovich into one mismatched movie](https://www.polygon.com/reviews/23933899/netflix-pain-hustlers-review-emily-blunt-chris-evans)
+ - [A Star Trek Crossover Event](https://news.xbox.com/en-us/2023/10/27/a-star-trek-crossover-event/)
+ - [What is the shotgun code in Alan Wake 2?](https://www.polygon.com/guides/23933819/alan-wake-2-shotgun-code-solution)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
