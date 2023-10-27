@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei reports Q3 revenue up 1% YoY to ~$19.9B, revenue for Q1 to Q3 2023 up 2.4% YoY to ~$62.3B, and a 16% profit margin in Q1 to Q3, up from 15% in H1 2023 &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/231027/p4#a231027p4)
- - [Inside Elon Musk’s First Election Crisis—a Day After He ‘Freed’ the Bird](https://www.wired.com/story/twitter-brazil-elections-musk/)
- - [Want the New iPhone 15? Here&#39;s Everything You&#39;ll Want to Know About Apple&#39;s iPhone Upgrade Program     - CNET](https://www.cnet.com/deals/want-the-new-iphone-15-heres-everything-youll-want-to-know-about-apples-iphone-upgrade-program/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [No M3 13-inch MacBook Pro at &#39;Scary Fast&#39; event, says Gurman](https://appleinsider.com/articles/23/10/27/no-m3-13-inch-macbook-pro-at-scary-fast-event-says-gurman?utm_medium=rss)
+ - [7 Best Garmin Watches &lpar;2023&rpar;: Which Is Best for Running, Cycling, and More](https://www.wired.com/gallery/best-garmin-watch/)
+ - [GoPro Hero 12 Black Review: Refined and Improved](https://www.wired.com/review/gopro-hero-12-black/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
