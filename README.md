@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;re not playing Alan Wake 2 this weekend, one of the best survival horror games of the last decade is currently free to keep](https://www.pcgamer.com/if-youre-not-playing-alan-wake-2-this-weekend-one-of-the-best-survival-horror-games-of-the-last-decade-is-currently-free-to-keep)
- - [Xbox Insider Release Notes – Xbox App [2311.1000.41.0]](https://news.xbox.com/en-us/2023/10/27/xbox-insider-release-notes-xbox-app-2311-1000-41-0/)
- - [This Week on Xbox: Solve a Spooky String of Crimes and Unravel the Mysteries of a Haunted Town](https://youtu.be/sa9UcyBRAD8#new_tab)<!-- GAME:END -->
+ - [One Of 2022’s Best Horror Movies Will Soon Be A Video Game](https://kotaku.com/barbarian-movie-video-game-1850968524)
+ - [Our favorite horror game of 2022 is on sale for Steam&#39;s horror sale and just fixed our biggest issue](https://www.pcgamer.com/our-favorite-horror-game-of-2022-is-on-sale-for-steams-horror-sale-and-just-fixed-our-biggest-issue-with-it)
+ - [Don&#39;t Sleep On These Great Steam Halloween Sale Deals](https://kotaku.com/steam-halloween-sale-best-creepy-horror-cheap-games-1850968437)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
