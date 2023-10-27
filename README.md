@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Five Nights at Freddy’s movie is a dizzying mashup of decades of culture](https://www.polygon.com/reviews/23934016/five-nights-at-freddys-movie-review-horror-streamers)
- - [Next Week on Xbox: New Games for October 30 to November 3](https://news.xbox.com/en-us/2023/10/27/next-week-on-xbox-new-games-for-october-30-to-november-3/)
- - [Alan Wake 2 charms list and how they work](https://www.pcgamer.com/alan-wake-2-charms-list)<!-- GAME:END -->
+ - [Share of the Week: Filters](https://blog.playstation.com/2023/10/27/share-of-the-week-filters/)
+ - [Sam Lake Interview: How Alan Wake 2 Connects Remedy’s Universe](https://news.xbox.com/en-us/2023/10/27/alan-wake-2-sam-lake-interview/)
+ - [Gen V’s giant dick wasn’t even the hardest thing to build](https://www.polygon.com/23931800/gen-v-dick-the-boys-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
