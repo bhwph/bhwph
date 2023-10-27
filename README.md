@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos is taking up to $385 off Arc, Beam, and Ray home theater sets](https://www.theverge.com/2023/10/27/23934836/sonos-arc-beam-ray-era-300-soundbars-smart-speakers)
- - [Sources: Flexport is in talks to buy the tech of collapsed digital freight startup Convoy, a move that would expand Flexport&#39;s push into the US trucking market &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/231027/p11#a231027p11)
- - [Source: Elon Musk and Linda Yaccarino referenced ambitions to create a news wire service called XWire, akin to Cision&#39;s PR Newswire, during an all-hands &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/231027/p10#a231027p10)<!-- TECH:END -->
+ - [X remains the go-to place for live updates and hot takes for sports fans and reporters and claims sports fans represent 42% of its audience &lpar;Jesus Jim&amp;eacute;nez/New York Times&rpar;](http://www.techmeme.com/231027/p16#a231027p16)
+ - [If You Didn’t Care About Antarctica’s Icy Belly, You Will Now](https://www.wired.com/story/if-you-didnt-care-about-antarcticas-icy-belly-you-will-now/)
+ - [Galaxy S24 series rumored brighter screen might have a new trick](https://www.androidauthority.com/galaxy-s24-series-ultra-hdr-3380215/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
