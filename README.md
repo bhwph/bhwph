@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Gemini sues Genesis Global, its former business partner for Gemini Earn, over 60M shares, worth $1.6B+, of GBTC that were pledged as collateral &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/231027/p21#a231027p21)
- - [Instagram tests collaborative carousels your friends can add to](https://www.theverge.com/2023/10/27/23935363/instagram-collaborative-carousels-friends-meta-test)
- - [Sources: Google invested $500M upfront in Anthropic and agreed to add $1.5B more over time &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231027/p20#a231027p20)<!-- TECH:END -->
+ - [The best ad blocker Chrome extensions](https://www.androidauthority.com/best-ad-blocker-chrome-extensions-3380268/)
+ - [Google’s Bard chatbot now responds in real time — and you can shut it up mid-sentence](https://www.theverge.com/2023/10/27/23935437/google-bard-chatbot-real-time-responses)
+ - [Adam Mosseri says he wants Threads to be the &quot;de facto platform for public conversations online&quot; and web app is not a &quot;primary focus&quot; as mobile usage is higher &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231027/p24#a231027p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
