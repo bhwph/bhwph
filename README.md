@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Pain Hustlers crams Wolf of Wall Street and Erin Brockovich into one mismatched movie](https://www.polygon.com/reviews/23933899/netflix-pain-hustlers-review-emily-blunt-chris-evans)
- - [A Star Trek Crossover Event](https://news.xbox.com/en-us/2023/10/27/a-star-trek-crossover-event/)
- - [What is the shotgun code in Alan Wake 2?](https://www.polygon.com/guides/23933819/alan-wake-2-shotgun-code-solution)<!-- GAME:END -->
+ - [If you&#39;re not playing Alan Wake 2 this weekend, one of the best survival horror games of the last decade is currently free to keep](https://www.pcgamer.com/if-youre-not-playing-alan-wake-2-this-weekend-one-of-the-best-survival-horror-games-of-the-last-decade-is-currently-free-to-keep)
+ - [Xbox Insider Release Notes – Xbox App [2311.1000.41.0]](https://news.xbox.com/en-us/2023/10/27/xbox-insider-release-notes-xbox-app-2311-1000-41-0/)
+ - [This Week on Xbox: Solve a Spooky String of Crimes and Unravel the Mysteries of a Haunted Town](https://youtu.be/sa9UcyBRAD8#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
