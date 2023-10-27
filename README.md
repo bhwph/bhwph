@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m part of 9gag community](http://9gag.com/gag/az2y5Vx)
- - 😝 [It&#39;s not fun anymore](http://9gag.com/gag/aVbrgdw)
- - 👉 [YYYAAAAA](http://9gag.com/gag/aL1opM6)<!-- MEMES:END -->
+ - 6️⃣ [Poor Daddy](http://9gag.com/gag/aREWBGB)
+ - 😝 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
+ - 👉 [It&#39;s not fun anymore](http://9gag.com/gag/aVbrgdw)<!-- MEMES:END -->
 
 --- 
 
