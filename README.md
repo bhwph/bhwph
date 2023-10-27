@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [No M3 13-inch MacBook Pro at &#39;Scary Fast&#39; event, says Gurman](https://appleinsider.com/articles/23/10/27/no-m3-13-inch-macbook-pro-at-scary-fast-event-says-gurman?utm_medium=rss)
- - [7 Best Garmin Watches &lpar;2023&rpar;: Which Is Best for Running, Cycling, and More](https://www.wired.com/gallery/best-garmin-watch/)
- - [GoPro Hero 12 Black Review: Refined and Improved](https://www.wired.com/review/gopro-hero-12-black/)<!-- TECH:END -->
+ - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
+ - [Hertz is scaling back its EV ambitions because its Teslas keep getting damaged](https://www.theverge.com/2023/10/27/23934691/hertz-tesla-uber-ev-plans-damage-repair-price-cuts)
+ - [Latest &#39;Scary Fast&#39; leaks double down on M3 iMac and MacBook Pro launches](https://appleinsider.com/articles/23/10/27/latest-scary-fast-leaks-double-down-on-m3-imac-and-macbook-pro-launches?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
