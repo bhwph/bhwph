@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good morning .](http://9gag.com/gag/abvD1XE)
- - 😝 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
- - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
+ - 6️⃣ [Wholesome moment](http://9gag.com/gag/aNwMQdv)
+ - 😝 [True innit](http://9gag.com/gag/aA0AQgE)
+ - 👉 [How we use to troll people](http://9gag.com/gag/a7qgeoz)<!-- MEMES:END -->
 
 --- 
 
