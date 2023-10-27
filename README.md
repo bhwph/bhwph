@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
- - 😝 [Serious question though](http://9gag.com/gag/abvDvLE)
- - 👉 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)<!-- MEMES:END -->
+ - 6️⃣ [Meanwhile in the UK, London](http://9gag.com/gag/a1PgmZ8)
+ - 😝 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
+ - 👉 [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)<!-- MEMES:END -->
 
 --- 
 
