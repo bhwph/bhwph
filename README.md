@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Have you seen this human?](http://9gag.com/gag/axoKoAn)
- - 😝 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
- - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
+ - 6️⃣ [Pepsi](http://9gag.com/gag/aBdzyGN)
+ - 😝 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
+ - 👉 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)<!-- MEMES:END -->
 
 --- 
 
