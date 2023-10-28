@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best ad blocker Chrome extensions](https://www.androidauthority.com/best-ad-blocker-chrome-extensions-3380268/)
- - [Google’s Bard chatbot now responds in real time — and you can shut it up mid-sentence](https://www.theverge.com/2023/10/27/23935437/google-bard-chatbot-real-time-responses)
- - [Adam Mosseri says he wants Threads to be the &quot;de facto platform for public conversations online&quot; and web app is not a &quot;primary focus&quot; as mobile usage is higher &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231027/p24#a231027p24)<!-- TECH:END -->
+ - [The jury finally hears from Sam Bankman-Fried](https://www.theverge.com/2023/10/27/23935683/sam-bankman-fried-ftx-fraud-direct-testimony-jury)
+ - [Best 3D-Printing Accessories: Level Up Your 3D Printer     - CNET](https://www.cnet.com/tech/computing/best-3d-printing-accessories-make-the-most-of-your-3d-printer/#ftag=CAD590a51e)
+ - [Best TV for PS5 and Xbox Series X, Series S for 2023: LG OLED, Samsung QLED, Vizio     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-for-ps5-and-xbox-series-x-series-s/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
