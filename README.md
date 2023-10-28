@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)
- - 😝 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)
- - 👉 [Guy freed from jail, assaulted a reporter in front of the police station, was rearrested and sent back to jail](http://9gag.com/gag/a3ZgA2v)<!-- MEMES:END -->
+ - 6️⃣ [Wholesome moment](http://9gag.com/gag/aNwMQdv)
+ - 😝 [Guy freed from jail, assaulted a reporter in front of the police station, was rearrested and sent back to jail](http://9gag.com/gag/a3ZgA2v)
+ - 👉 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)<!-- MEMES:END -->
 
 --- 
 
