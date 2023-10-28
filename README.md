@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Re-Animator fans, rejoice: The horror movie Suitable Flesh was made specifically for you](https://www.polygon.com/reviews/23935418/suitable-flesh-movie-review)
  - [Why the original, 1999 version of EverQuest is still one of the best MMOs to play today](https://www.pcgamer.com/why-the-original-1999-version-of-everquest-is-still-one-of-the-best-mmos-to-play-today)
- - [All the ways Insomniac Games is teasing the next Spider-Man game in Spider-Man 2](https://www.polygon.com/23933808/spider-man-2-ending-easter-egg-sequel-spinoff-teases)
- - [Cyberpunk 2077&#39;s 2.0 overhaul was inspired by the &#39;old school design&#39; of Diablo 2&#39;s skill trees and Doom&#39;s &#39;relentless&#39; combat](https://www.pcgamer.com/cyberpunk-2077s-20-overhaul-was-inspired-by-the-old-school-design-of-diablo-2s-skill-trees-and-dooms-relentless-combat)<!-- GAME:END -->
+ - [All the ways Insomniac Games is teasing the next Spider-Man game in Spider-Man 2](https://www.polygon.com/23933808/spider-man-2-ending-easter-egg-sequel-spinoff-teases)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
