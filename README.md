@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #861 for Saturday, October 28](https://www.pcgamer.com/wordle-today-answer-861-october-28)
  - [Getting The Deck of Many Things? These are the card sleeves you need](https://www.polygon.com/deals/23933743/deck-of-many-things-wizards-of-the-coast-wotc-card-sleeves-pre-order)
- - [Mortal Kombat 1&#39;s New Microtransactions Are Scarier Than Its Fatalities [Update]](https://kotaku.com/mortal-kombat-1-patch-notes-halloween-fatality-mk1-1850958227)
- - [South Park makes Baldur&#39;s Gate 3 joke, Larian quickly corrects it](https://www.pcgamer.com/baldurs-gate-3-south-park)<!-- GAME:END -->
+ - [Mortal Kombat 1&#39;s New Microtransactions Are Scarier Than Its Fatalities [Update]](https://kotaku.com/mortal-kombat-1-patch-notes-halloween-fatality-mk1-1850958227)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
