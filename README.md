@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Remember they called him a saint and painted murals of him lol](http://9gag.com/gag/adPAOAB)
+ - 6️⃣ [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
  - 😝 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
- - 👉 [A hot girl with humor. Where can i get one?](http://9gag.com/gag/aREWZ5Q)<!-- MEMES:END -->
+ - 👉 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)<!-- MEMES:END -->
 
 --- 
 
