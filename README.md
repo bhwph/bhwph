@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a Microsoft Office license for under $50 right now](https://appleinsider.com/articles/23/10/28/get-a-microsoft-office-license-for-under-50-right-now?utm_medium=rss)
- - [Google is investigating Android 14’s multiple profile update bug](https://www.theverge.com/2023/10/28/23936313/google-android-14-bug-multiple-profiles-storage-crashing-stability)
- - [I shouldn’t need to pay a premium for an unlocked Samsung phone](https://www.androidauthority.com/samsung-phone-pricing-commentary-3380178/)<!-- TECH:END -->
+ - [HackerOne says its bug bounty programs have awarded $300M+ in rewards since the platform&#39;s inception, with 30 hackers earning $1M+ and one receiving $4M+ &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231028/p9#a231028p9)
+ - [PlayStation Plus Deals: Get Access to Sony&#39;s Gaming Subscription for Less     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
+ - [Get a Microsoft Office license for under $50 right now](https://appleinsider.com/articles/23/10/28/get-a-microsoft-office-license-for-under-50-right-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
