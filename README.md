@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
- - 😝 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
- - 👉 [Daddy\u2019ll buy me a new one](http://9gag.com/gag/a5XgGnL)<!-- MEMES:END -->
+ - 6️⃣ [How we use to troll people](http://9gag.com/gag/a7qgeoz)
+ - 😝 [YES SIR](http://9gag.com/gag/aeQzV0q)
+ - 👉 [Wholesome moment](http://9gag.com/gag/aNwMQdv)<!-- MEMES:END -->
 
 --- 
 
