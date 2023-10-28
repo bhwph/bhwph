@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A big, fast battery to power your Steam Deck doesn’t cost as much as you might think it does](https://www.polygon.com/deals/23934818/best-gaming-deals-steam-deck-rog-ally-battery-playstation-sale)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
- - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of October 2023](https://www.polygon.com/what-to-watch/2023/10/28/23928568/best-movies-netflix-amazon-hulu-max-leaving-october-2023)<!-- GAME:END -->
+ - [Why the original, 1999 version of EverQuest is still one of the best MMOs to play today](https://www.pcgamer.com/why-the-original-1999-version-of-everquest-is-still-one-of-the-best-mmos-to-play-today)
+ - [All the ways Insomniac Games is teasing the next Spider-Man game in Spider-Man 2](https://www.polygon.com/23933808/spider-man-2-ending-easter-egg-sequel-spinoff-teases)
+ - [Cyberpunk 2077&#39;s 2.0 overhaul was inspired by the &#39;old school design&#39; of Diablo 2&#39;s skill trees and Doom&#39;s &#39;relentless&#39; combat](https://www.pcgamer.com/cyberpunk-2077s-20-overhaul-was-inspired-by-the-old-school-design-of-diablo-2s-skill-trees-and-dooms-relentless-combat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
