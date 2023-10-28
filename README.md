@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BP Buying $100M Worth of Tesla EV Chargers: What&#39;s the Big Deal?     - CNET](https://www.cnet.com/roadshow/news/bp-buying-100m-worth-of-tesla-ev-chargers-whats-the-big-deal/#ftag=CAD590a51e)
- - [Daily deals Oct. 28: $100 off iPad Air 5, Apple Pencil 2 $89, $100 off Samsung Galaxy Watch 6, more](https://appleinsider.com/articles/23/10/28/daily-deals-oct-28-100-off-ipad-air-5-apple-pencil-2-89-100-off-samsung-galaxy-watch-6-more?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-507-3380164/)<!-- TECH:END -->
+ - [AI fakes related to the Israel-Hamas war have been limited and unconvincing, but the possibility of such fakes circulating leads some to dismiss genuine content &lpar;New York Times&rpar;](http://www.techmeme.com/231028/p8#a231028p8)
+ - [Keychron Q5 Pro Knob Version review: Heavy-duty keyboard convenience](https://appleinsider.com/articles/23/10/28/keychron-q5-pro-knob-version-review-heavy-duty-keyboard-convenience?utm_medium=rss)
+ - [Apple says BMW wireless chargers really are messing with iPhone 15s](https://www.theverge.com/2023/10/28/23936220/apple-says-bmw-wireless-chargers-really-are-messing-with-iphone-15s)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
