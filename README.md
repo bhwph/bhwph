@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #861 for Saturday, October 28](https://www.pcgamer.com/wordle-today-answer-861-october-28)
- - [Getting The Deck of Many Things? These are the card sleeves you need](https://www.polygon.com/deals/23933743/deck-of-many-things-wizards-of-the-coast-wotc-card-sleeves-pre-order)
- - [Mortal Kombat 1&#39;s New Microtransactions Are Scarier Than Its Fatalities [Update]](https://kotaku.com/mortal-kombat-1-patch-notes-halloween-fatality-mk1-1850958227)<!-- GAME:END -->
+ - [A big, fast battery to power your Steam Deck doesn’t cost as much as you might think it does](https://www.polygon.com/deals/23934818/best-gaming-deals-steam-deck-rog-ally-battery-playstation-sale)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
+ - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of October 2023](https://www.polygon.com/what-to-watch/2023/10/28/23928568/best-movies-netflix-amazon-hulu-max-leaving-october-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
