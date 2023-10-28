@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
- - 😝 [Romanian X-Files. Exactly 5 years ago, an incredible incident occurred in Romania. Scientists are still wondering what it was.](http://9gag.com/gag/ap97DLn)
- - 👉 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)<!-- MEMES:END -->
+ - 6️⃣ [YES SIR](http://9gag.com/gag/aeQzV0q)
+ - 😝 [She was raised well, He\u2019s a great father. I love this](http://9gag.com/gag/anzZv2n)
+ - 👉 [True innit](http://9gag.com/gag/aA0AQgE)<!-- MEMES:END -->
 
 --- 
 
