@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The jury finally hears from Sam Bankman-Fried](https://www.theverge.com/2023/10/27/23935683/sam-bankman-fried-ftx-fraud-direct-testimony-jury)
- - [Best 3D-Printing Accessories: Level Up Your 3D Printer     - CNET](https://www.cnet.com/tech/computing/best-3d-printing-accessories-make-the-most-of-your-3d-printer/#ftag=CAD590a51e)
- - [Best TV for PS5 and Xbox Series X, Series S for 2023: LG OLED, Samsung QLED, Vizio     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-for-ps5-and-xbox-series-x-series-s/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After state AGs sued Meta for not using age-verification methods to safeguard kids, privacy groups raise concerns about security and the tech&#39;s untested nature &lpar;Tonya Riley/Bloomberg Law&rpar;](http://www.techmeme.com/231027/p26#a231027p26)
+ - [Best Luxury Mattress in 2023     - CNET](https://www.cnet.com/health/sleep/best-luxury-mattress/#ftag=CAD590a51e)
+ - [The jury finally hears from Sam Bankman-Fried](https://www.theverge.com/2023/10/27/23935683/sam-bankman-fried-ftx-fraud-direct-testimony-jury)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
