@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How we use to troll people](http://9gag.com/gag/a7qgeoz)
- - 😝 [YES SIR](http://9gag.com/gag/aeQzV0q)
- - 👉 [Wholesome moment](http://9gag.com/gag/aNwMQdv)<!-- MEMES:END -->
+ - 6️⃣ [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)
+ - 😝 [Wholesome moment](http://9gag.com/gag/aNwMQdv)
+ - 👉 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)<!-- MEMES:END -->
 
 --- 
 
