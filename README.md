@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Hops on the Passkey Train. Here&#39;s How You Can Set Yours Up     - CNET](https://www.cnet.com/tech/amazon-hops-on-the-passkey-train-heres-how-you-can-set-yours-up/#ftag=CAD590a51e)
- - [A profile of, and interview with, OpenAI Chief Scientist Ilya Sutskever, who made a &quot;superalignment&quot; team to safely build and control superintelligent AI models &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/231028/p3#a231028p3)
- - [Rocket Alert Apps Warn Israelis of Incoming Attacks While Gaza Is Left in the Dark](https://www.wired.com/story/rocket-alert-apps-warn-israelis-attacks-gaza-left-in-the-dark/)<!-- TECH:END -->
+ - [Families of Hostages Kidnapped by Hamas Turn to Phone Pings for Proof of Life](https://www.wired.com/story/israel-hamas-hostages-phone-location/)
+ - [Adam Mosseri says Threads is working on an API, despite concerns that &quot;it&#39;ll mean a lot more publisher content and not much more creator content&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231028/p4#a231028p4)
+ - [Sonoma &lpar;Finally&rpar; Catches Your Mac Up to Your iPhone     - CNET](https://www.cnet.com/tech/computing/sonoma-finally-catches-your-mac-up-to-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
