@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Open review: Should you buy it?](https://www.androidauthority.com/oneplus-open-review-3378603/)
- - [That’s one pricey subscription](https://www.theverge.com/2023/10/28/23934629/streaming-price-hikes-netflix-hulu-disney-plus-expensive)
- - [Q&amp;A with Discord&#39;s head of trust and safety John Redgrave on the content moderation challenges in the age of generative AI, exploring E2EE on Discord, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231028/p5#a231028p5)<!-- TECH:END -->
+ - [BP Buying $100M Worth of Tesla EV Chargers: What&#39;s the Big Deal?     - CNET](https://www.cnet.com/roadshow/news/bp-buying-100m-worth-of-tesla-ev-chargers-whats-the-big-deal/#ftag=CAD590a51e)
+ - [Daily deals Oct. 28: $100 off iPad Air 5, Apple Pencil 2 $89, $100 off Samsung Galaxy Watch 6, more](https://appleinsider.com/articles/23/10/28/daily-deals-oct-28-100-off-ipad-air-5-apple-pencil-2-89-100-off-samsung-galaxy-watch-6-more?utm_medium=rss)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-507-3380164/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
