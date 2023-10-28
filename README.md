@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One Of 2022’s Best Horror Movies Will Soon Be A Video Game](https://kotaku.com/barbarian-movie-video-game-1850968524)
- - [Our favorite horror game of 2022 is on sale for Steam&#39;s horror sale and just fixed our biggest issue](https://www.pcgamer.com/our-favorite-horror-game-of-2022-is-on-sale-for-steams-horror-sale-and-just-fixed-our-biggest-issue-with-it)
- - [Don&#39;t Sleep On These Great Steam Halloween Sale Deals](https://kotaku.com/steam-halloween-sale-best-creepy-horror-cheap-games-1850968437)<!-- GAME:END -->
+ - [Mortal Kombat 1&#39;s New Microtransactions Are Scarier Than Its Fatalities [Update]](https://kotaku.com/mortal-kombat-1-patch-notes-halloween-fatality-mk1-1850958227)
+ - [South Park makes Baldur&#39;s Gate 3 joke, Larian quickly corrects it](https://www.pcgamer.com/baldurs-gate-3-south-park)
+ - [Defects torpedo the launch of D&amp;D’s Deck of Many Things](https://www.polygon.com/23935376/dnd-dungeons-dragons-deck-of-many-things-delay-defective-recall-reprint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
