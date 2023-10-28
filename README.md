@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wholesome moment](http://9gag.com/gag/aNwMQdv)
- - 😝 [True innit](http://9gag.com/gag/aA0AQgE)
- - 👉 [How we use to troll people](http://9gag.com/gag/a7qgeoz)<!-- MEMES:END -->
+ - 6️⃣ [Remember they called him a saint and painted murals of him lol](http://9gag.com/gag/adPAOAB)
+ - 😝 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
+ - 👉 [A hot girl with humor. Where can i get one?](http://9gag.com/gag/aREWZ5Q)<!-- MEMES:END -->
 
 --- 
 
