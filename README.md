@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bird Flu Reaches the Antarctic for the First Time](https://www.wired.com/story/bird-flu-reaches-the-antarctic-for-the-first-time/)
- - [Razer BlackWidow V4 75% Review: A Colorful Entrance](https://www.wired.com/review/razer-blackwidow-v4-75-percent/)
- - [Best Steam Deck Accessories &lpar;2023&rpar;: Docks, Battery, Storage](https://www.wired.com/story/best-steam-deck-accessories/)<!-- TECH:END -->
+ - [OnePlus Open review: Should you buy it?](https://www.androidauthority.com/oneplus-open-review-3378603/)
+ - [That’s one pricey subscription](https://www.theverge.com/2023/10/28/23934629/streaming-price-hikes-netflix-hulu-disney-plus-expensive)
+ - [Q&amp;A with Discord&#39;s head of trust and safety John Redgrave on the content moderation challenges in the age of generative AI, exploring E2EE on Discord, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231028/p5#a231028p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
