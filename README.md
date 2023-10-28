@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How we use to troll people](http://9gag.com/gag/a7qgeoz)
+ - 6️⃣ [Except Wakanda](http://9gag.com/gag/aWGy7Pn)
  - 😝 [He was right](http://9gag.com/gag/aeQzVnB)
- - 👉 [This sparks joy](http://9gag.com/gag/avQq6pZ)<!-- MEMES:END -->
+ - 👉 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)<!-- MEMES:END -->
 
 --- 
 
