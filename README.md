@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Families of Hostages Kidnapped by Hamas Turn to Phone Pings for Proof of Life](https://www.wired.com/story/israel-hamas-hostages-phone-location/)
- - [Adam Mosseri says Threads is working on an API, despite concerns that &quot;it&#39;ll mean a lot more publisher content and not much more creator content&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231028/p4#a231028p4)
- - [Sonoma &lpar;Finally&rpar; Catches Your Mac Up to Your iPhone     - CNET](https://www.cnet.com/tech/computing/sonoma-finally-catches-your-mac-up-to-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bird Flu Reaches the Antarctic for the First Time](https://www.wired.com/story/bird-flu-reaches-the-antarctic-for-the-first-time/)
+ - [Razer BlackWidow V4 75% Review: A Colorful Entrance](https://www.wired.com/review/razer-blackwidow-v4-75-percent/)
+ - [Best Steam Deck Accessories &lpar;2023&rpar;: Docks, Battery, Storage](https://www.wired.com/story/best-steam-deck-accessories/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
