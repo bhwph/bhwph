@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [YES SIR](http://9gag.com/gag/aeQzV0q)
- - 😝 [She was raised well, He\u2019s a great father. I love this](http://9gag.com/gag/anzZv2n)
- - 👉 [True innit](http://9gag.com/gag/aA0AQgE)<!-- MEMES:END -->
+ - 6️⃣ [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
+ - 😝 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
+ - 👉 [Daddy\u2019ll buy me a new one](http://9gag.com/gag/a5XgGnL)<!-- MEMES:END -->
 
 --- 
 
