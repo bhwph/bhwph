@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Except Wakanda](http://9gag.com/gag/aWGy7Pn)
+ - 6️⃣ [MJ&#39;s first ever Moonwalk shown to the world [1983]](http://9gag.com/gag/aoKoVZm)
  - 😝 [He was right](http://9gag.com/gag/aeQzVnB)
- - 👉 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)<!-- MEMES:END -->
+ - 👉 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)<!-- MEMES:END -->
 
 --- 
 
