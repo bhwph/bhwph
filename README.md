@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [London has fallen...](http://9gag.com/gag/aZDXE19)
- - 😝 [Grandma don&#39;t give a F.](http://9gag.com/gag/ajVvZMG)
- - 👉 [Another legend resting. Could he BE any more dead.](http://9gag.com/gag/ap97beB)<!-- MEMES:END -->
+ - 6️⃣ [Guess who just won an annual Holloween costume event?](http://9gag.com/gag/aGEvMOZ)
+ - 😝 [One ticket to hell pls](http://9gag.com/gag/aA0A2rR)
+ - 👉 [How to maintain your dignity](http://9gag.com/gag/aYV6MwO)<!-- MEMES:END -->
 
 --- 
 
