@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I just can’t put down the Google Pixel Fold](https://www.androidauthority.com/cant-put-down-pixel-fold-3380097/)
- - [AirPods range refresh to start in late 2024 with ANC, USB-C changes](https://appleinsider.com/articles/23/10/29/airpods-range-refresh-to-start-in-late-2024-with-anc-usb-c-changes?utm_medium=rss)
- - [Apple is getting ready for Prime Time](https://www.theverge.com/2023/10/29/23932031/apple-prime-time-event-tv-halloween)<!-- TECH:END -->
+ - [Daily deals Oct. 29: $1,000 off M1 MacBook Pro, $70 off AirPods 3, 38% off JBL Boombox 2](https://appleinsider.com/articles/23/10/29/daily-deals-oct-29-1000-off-m1-macbook-pro-70-off-airpods-3-38-off-jbl-boombox-2?utm_medium=rss)
+ - [Android 14 will make it easier for apps to support passkeys soon](https://www.theverge.com/2023/10/29/23937095/android-14-passkey-support-credential-manager-api-third-party-apps)
+ - [Buying a Pixel Watch 2? Get the LTE version if you care about safety](https://www.androidauthority.com/pixel-watch-2-lte-safety-3379172/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
