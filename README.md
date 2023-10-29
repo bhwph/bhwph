@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at physics-informed approaches to machine learning, which are in early stages and can help AI tackle hard problems in robotics, science, and engineering &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/231029/p5#a231029p5)
- - [Apple Journal is nice, but it’s no Journey or Day One alternative yet](https://www.androidauthority.com/apple-journal-vs-journey-day-one-3380137/)
- - [Samsung QN900C Review: Awesome Looking, Awesomely Expensive](https://www.wired.com/review/samsung-qn900c/)<!-- TECH:END -->
+ - [I just can’t put down the Google Pixel Fold](https://www.androidauthority.com/cant-put-down-pixel-fold-3380097/)
+ - [AirPods range refresh to start in late 2024 with ANC, USB-C changes](https://appleinsider.com/articles/23/10/29/airpods-range-refresh-to-start-in-late-2024-with-anc-usb-c-changes?utm_medium=rss)
+ - [Apple is getting ready for Prime Time](https://www.theverge.com/2023/10/29/23932031/apple-prime-time-event-tv-halloween)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
