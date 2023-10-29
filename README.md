@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 29: $1,000 off M1 MacBook Pro, $70 off AirPods 3, 38% off JBL Boombox 2](https://appleinsider.com/articles/23/10/29/daily-deals-oct-29-1000-off-m1-macbook-pro-70-off-airpods-3-38-off-jbl-boombox-2?utm_medium=rss)
- - [Android 14 will make it easier for apps to support passkeys soon](https://www.theverge.com/2023/10/29/23937095/android-14-passkey-support-credential-manager-api-third-party-apps)
- - [Buying a Pixel Watch 2? Get the LTE version if you care about safety](https://www.androidauthority.com/pixel-watch-2-lte-safety-3379172/)<!-- TECH:END -->
+ - [Kuxiu X36 iPad foldable magnetic stand review: a must-have iPad desk accessory](https://appleinsider.com/articles/23/10/29/kuxiu-x36-ipad-foldable-magnetic-stand-review-a-must-have-ipad-desk-accessory?utm_medium=rss)
+ - [Ravens vs. Cardinals Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/ravens-vs-cardinals-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
+ - [Chiefs vs. Broncos Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chiefs-vs-broncos-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
