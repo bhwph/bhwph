@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guess who just won an annual Holloween costume event?](http://9gag.com/gag/aGEvMOZ)
- - 😝 [One ticket to hell pls](http://9gag.com/gag/aA0A2rR)
- - 👉 [How to maintain your dignity](http://9gag.com/gag/aYV6MwO)<!-- MEMES:END -->
+ - 6️⃣ [Confused](http://9gag.com/gag/aNwMQnA)
+ - 😝 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
+ - 👉 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)<!-- MEMES:END -->
 
 --- 
 
