@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When it hasn&#39;t been your day your week your month or even your year [Matthew Perry has passed away]](http://9gag.com/gag/aGEvAXZ)
- - 😝 [He&#39;s got a point](http://9gag.com/gag/aZDXjW3)
- - 👉 [She was raised well, He\u2019s a great father. I love this](http://9gag.com/gag/anzZv2n)<!-- MEMES:END -->
+ - 6️⃣ [The mighty programmer](http://9gag.com/gag/az2yZnp)
+ - 😝 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)
+ - 👉 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)<!-- MEMES:END -->
 
 --- 
 
