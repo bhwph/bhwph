@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He was right](http://9gag.com/gag/aeQzVnB)
- - 😝 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)
- - 👉 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)<!-- MEMES:END -->
+ - 6️⃣ [London has fallen...](http://9gag.com/gag/aZDXE19)
+ - 😝 [Grandma don&#39;t give a F.](http://9gag.com/gag/ajVvZMG)
+ - 👉 [Another legend resting. Could he BE any more dead.](http://9gag.com/gag/ap97beB)<!-- MEMES:END -->
 
 --- 
 
