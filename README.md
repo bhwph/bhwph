@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
+ - 6️⃣ [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
  - 😝 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)
- - 👉 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)<!-- MEMES:END -->
+ - 👉 [Are you hungry?](http://9gag.com/gag/a9qwOAK)<!-- MEMES:END -->
 
 --- 
 
