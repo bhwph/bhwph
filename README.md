@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #862 for Sunday, October 29](https://www.pcgamer.com/wordle-today-answer-862-october-29)
  - [Cities: Skylines 2 has 8 packs of regional buildings on the way, for free](https://www.pcgamer.com/cities-skylines-2-has-8-packs-of-regional-buildings-on-the-way-for-free)
- - [Fly hard, fly fast, drop nukes in this accessible near-future flight combat sim](https://www.pcgamer.com/fly-hard-fly-fast-drop-nukes-in-this-accessible-near-future-flight-combat-sim)
- - [Re-Animator fans, rejoice: The horror movie Suitable Flesh was made specifically for you](https://www.polygon.com/reviews/23935418/suitable-flesh-movie-review)<!-- GAME:END -->
+ - [Fly hard, fly fast, drop nukes in this accessible near-future flight combat sim](https://www.pcgamer.com/fly-hard-fly-fast-drop-nukes-in-this-accessible-near-future-flight-combat-sim)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
