@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best stuff to watch after Alan Wake](https://www.polygon.com/what-to-watch/23930127/movies-tv-like-alan-wake-2-horror-mystery-supernatural-thriller-movies-tv)
- - [ASRock Z790 Riptide WiFi review](https://www.pcgamer.com/asrock-z790-riptide-wifi-review)
- - [Wordle today: Hint and answer #862 for Sunday, October 29](https://www.pcgamer.com/wordle-today-answer-862-october-29)<!-- GAME:END -->
+ - [YouTube has AI creator tools, but creators are too busy battling AI to care](https://www.polygon.com/23933664/youtube-ai-plagiarism-creator-tools)
+ - [When Evil Lurks’ director says his staggering horror movie is really about pesticide](https://www.polygon.com/23935228/when-evil-lurks-director-interview-demian-rugna-meaning)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
