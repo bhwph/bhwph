@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Re-Animator fans, rejoice: The horror movie Suitable Flesh was made specifically for you](https://www.polygon.com/reviews/23935418/suitable-flesh-movie-review)
- - [Why the original, 1999 version of EverQuest is still one of the best MMOs to play today](https://www.pcgamer.com/why-the-original-1999-version-of-everquest-is-still-one-of-the-best-mmos-to-play-today)
- - [All the ways Insomniac Games is teasing the next Spider-Man game in Spider-Man 2](https://www.polygon.com/23933808/spider-man-2-ending-easter-egg-sequel-spinoff-teases)<!-- GAME:END -->
+ - [Cities: Skylines 2 has 8 packs of regional buildings on the way, for free](https://www.pcgamer.com/cities-skylines-2-has-8-packs-of-regional-buildings-on-the-way-for-free)
+ - [Fly hard, fly fast, drop nukes in this accessible near-future flight combat sim](https://www.pcgamer.com/fly-hard-fly-fast-drop-nukes-in-this-accessible-near-future-flight-combat-sim)
+ - [Re-Animator fans, rejoice: The horror movie Suitable Flesh was made specifically for you](https://www.polygon.com/reviews/23935418/suitable-flesh-movie-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
