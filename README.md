@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Confused](http://9gag.com/gag/aNwMQnA)
- - 😝 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
- - 👉 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)<!-- MEMES:END -->
+ - 6️⃣ [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
+ - 😝 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
+ - 👉 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)<!-- MEMES:END -->
 
 --- 
 
