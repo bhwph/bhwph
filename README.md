@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Always have a good work-wife balance](http://9gag.com/gag/aNwMOA6)
- - 😝 [Mana from heaven](http://9gag.com/gag/ajVvKdp)
- - 👉 [Happy Halloween, and remember peoples traditions are not costumes](http://9gag.com/gag/aBdzO8x)<!-- MEMES:END -->
+ - 6️⃣ [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
+ - 😝 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)
+ - 👉 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)<!-- MEMES:END -->
 
 --- 
 
