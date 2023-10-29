@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s a cute, free economic real-time strategy about colonizing and defending a solar system](https://www.pcgamer.com/heres-a-cute-free-economic-real-time-strategy-about-colonizing-and-defending-a-solar-system)
  - [Enter an abandoned amusement park to solve a horror mystery in this upcoming bit of indie psychological horror](https://www.pcgamer.com/enter-an-abandoned-amusement-park-to-solve-a-horror-mystery-in-this-upcoming-bit-of-indie-psychological-horror)
- - [YouTube has AI creator tools, but creators are too busy battling AI to care](https://www.polygon.com/23933664/youtube-ai-plagiarism-creator-tools)
- - [When Evil Lurks’ director says his staggering horror movie is really about pesticide](https://www.polygon.com/23935228/when-evil-lurks-director-interview-demian-rugna-meaning)<!-- GAME:END -->
+ - [YouTube has AI creator tools, but creators are too busy battling AI to care](https://www.polygon.com/23933664/youtube-ai-plagiarism-creator-tools)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
