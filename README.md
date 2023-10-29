@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best stuff to watch after Alan Wake](https://www.polygon.com/what-to-watch/23930127/movies-tv-like-alan-wake-2-horror-mystery-supernatural-thriller-movies-tv)
  - [ASRock Z790 Riptide WiFi review](https://www.pcgamer.com/asrock-z790-riptide-wifi-review)
- - [Wordle today: Hint and answer #862 for Sunday, October 29](https://www.pcgamer.com/wordle-today-answer-862-october-29)
- - [Cities: Skylines 2 has 8 packs of regional buildings on the way, for free](https://www.pcgamer.com/cities-skylines-2-has-8-packs-of-regional-buildings-on-the-way-for-free)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #862 for Sunday, October 29](https://www.pcgamer.com/wordle-today-answer-862-october-29)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
