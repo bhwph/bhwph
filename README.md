@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [MJ&#39;s first ever Moonwalk shown to the world [1983]](http://9gag.com/gag/aoKoVZm)
- - 😝 [He was right](http://9gag.com/gag/aeQzVnB)
- - 👉 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)<!-- MEMES:END -->
+ - 6️⃣ [He was right](http://9gag.com/gag/aeQzVnB)
+ - 😝 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)
+ - 👉 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)<!-- MEMES:END -->
 
 --- 
 
