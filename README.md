@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
- - 😝 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
- - 👉 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)<!-- MEMES:END -->
+ - 6️⃣ [Always have a good work-wife balance](http://9gag.com/gag/aNwMOA6)
+ - 😝 [Mana from heaven](http://9gag.com/gag/ajVvKdp)
+ - 👉 [Happy Halloween, and remember peoples traditions are not costumes](http://9gag.com/gag/aBdzO8x)<!-- MEMES:END -->
 
 --- 
 
