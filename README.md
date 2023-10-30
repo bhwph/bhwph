@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook and Instagram launch a paid ad-free subscription](https://www.theverge.com/2023/10/30/23938283/facebook-instagram-ad-free-subscription-eu)
- - [Meta plans to offer Instagram and Facebook users in the EU, EEA, and Switzerland an ad-free option for &amp;euro;9.99 or &amp;euro;12.99 per month, alongside free with ads &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/231030/p10#a231030p10)
- - [These Plants Change Color When Exposed to a Pesticide](https://www.wired.com/story/these-plants-change-color-when-exposed-to-a-pesticide/)<!-- TECH:END -->
+ - [Western Digital is spinning off its flash memory business as sales decline](https://www.theverge.com/2023/10/30/23938334/western-digital-separating-hard-drive-flash-business)
+ - [Microsoft tells Xbox users that unauthorized third-party accessories cannot be used from November 12; sources say Microsoft plans to expand its approved program &lpar;Jennifer Young/Windows Central&rpar;](http://www.techmeme.com/231030/p14#a231030p14)
+ - [10 Best Action Cameras &lpar;2023&rpar;: Underwater, 360, Compact, and More](https://www.wired.com/gallery/best-action-cameras/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
