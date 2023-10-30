@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Western Digital is spinning off its flash memory business as sales decline](https://www.theverge.com/2023/10/30/23938334/western-digital-separating-hard-drive-flash-business)
- - [Microsoft tells Xbox users that unauthorized third-party accessories cannot be used from November 12; sources say Microsoft plans to expand its approved program &lpar;Jennifer Young/Windows Central&rpar;](http://www.techmeme.com/231030/p14#a231030p14)
- - [10 Best Action Cameras &lpar;2023&rpar;: Underwater, 360, Compact, and More](https://www.wired.com/gallery/best-action-cameras/)<!-- TECH:END -->
+ - [How to use Translate with the Action Button in iOS 17.2](https://appleinsider.com/inside/ios-17/vs/how-to-use-translate-with-the-action-button-in-ios-172?utm_medium=rss)
+ - [Samsung adds DisplayPort and more Multi View options to second massive Ark monitor](https://www.theverge.com/2023/10/30/23938589/samsung-55-inch-odyssey-ark-2nd-gen-g97nc-gaming-monitor-price-release-date-specs-features)
+ - [Three M3 chips could land in Monday&#39;s Mac line refresh](https://appleinsider.com/articles/23/10/29/three-m3-chips-could-land-in-mondays-mac-line-refresh?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
