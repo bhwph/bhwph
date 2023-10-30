@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How EA Sports WRC brings realism to rally driving on PS5– out Nov 3](https://blog.playstation.com/2023/10/30/how-ea-sports-wrc-brings-realism-to-rally-driving-on-ps5-out-nov-3/)
- - [The Week In Games: What’s Coming Out Beyond WarioWare: Move It!](https://kotaku.com/november-games-this-week-star-ocean-robocop-warioware-1850937696)
- - [It’s Halloween, Let’s Rank The Best Ghost-Type Pokémon](https://kotaku.com/pokemon-ghost-type-gengar-mimikyu-giratina-yamask-1850968054)<!-- GAME:END -->
+ - [Xbox Is Banning &#39;Unauthorized&#39; Controllers And Accessories](https://kotaku.com/microsoft-xbox-series-one-x-s-controller-error-ps5-1850972075)
+ - [Avatar: Frontiers of Pandora is really hoping you&#39;ll show up already loving Avatar](https://www.pcgamer.com/avatar-frontiers-of-pandora-hands-on-preview)
+ - [Taking to the skies in Avatar: Frontiers of Pandora – hands-on report](https://blog.playstation.com/2023/10/30/taking-to-the-skies-in-avatar-frontiers-of-pandora-hands-on-report/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
