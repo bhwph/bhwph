@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
- - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
- - 👉 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)<!-- MEMES:END -->
+ - 6️⃣ [Cornelius sucks his thumb and immediately falls asleep \ud83d\ude29](http://9gag.com/gag/aDY9VQB)
+ - 😝 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
+ - 👉 [Are you hungry?](http://9gag.com/gag/a9qwOAK)<!-- MEMES:END -->
 
 --- 
 
