@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How the tables are turning...](http://9gag.com/gag/avQqmpM)
- - 😝 [Thank you and have a safe flight](http://9gag.com/gag/ay2rvbV)
- - 👉 [Food for thought?](http://9gag.com/gag/aNwM396)<!-- MEMES:END -->
+ - 6️⃣ [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - 😝 [Is she into me?](http://9gag.com/gag/aZDXvG6)
+ - 👉 [Are you hungry?](http://9gag.com/gag/a9qwOAK)<!-- MEMES:END -->
 
 --- 
 
