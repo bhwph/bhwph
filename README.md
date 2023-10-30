@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 😝 [Is she into me?](http://9gag.com/gag/aZDXvG6)
- - 👉 [Are you hungry?](http://9gag.com/gag/a9qwOAK)<!-- MEMES:END -->
+ - 6️⃣ [Birbs are retards](http://9gag.com/gag/ay2rz7V)
+ - 😝 [Tmnt](http://9gag.com/gag/aoKoDqw)
+ - 👉 [Its worth it](http://9gag.com/gag/aME7OwP)<!-- MEMES:END -->
 
 --- 
 
