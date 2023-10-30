@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s the kid Bill Burr was talking about in the film...](http://9gag.com/gag/aBdz4Ax)
- - 😝 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
- - 👉 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)<!-- MEMES:END -->
+ - 6️⃣ [Aragorn:\u00a0`You&#39;ve already had a final boss.` Pippin: `We&#39;ve had one, yes.\u00a0But what about second final boss?` Merry: `I don&#39;t think he knows about second final boss, Pip.`](http://9gag.com/gag/aME7qR6)
+ - 😝 [What city is this?](http://9gag.com/gag/a2KgLnp)
+ - 👉 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)<!-- MEMES:END -->
 
 --- 
 
