@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scary-good deals from Amazon has shoppers saving hundreds this Halloween](https://appleinsider.com/articles/23/10/30/scary-good-deals-from-amazon-has-shoppers-saving-hundreds-this-halloween?utm_medium=rss)
- - [I went hands-on with a Chromebook Plus to find out what a Plus can do for you](https://www.androidauthority.com/lenovo-ideapad-flex-5i-chromebook-plus-3377899/)
- - [Source: X is giving employees RSUs at a share price of $45, implying a valuation of $19B; in March 2023, X offered employees stock at a $20B valuation &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/231030/p19#a231030p19)<!-- TECH:END -->
+ - [Matthew Perry Deserved Better Than #DiedSuddenly](https://www.wired.com/story/matthew-perry-death-died-suddenly-conspiracy-theory-online/)
+ - [Hands on with Apple&#39;s new Journal app for iPhone](https://appleinsider.com/articles/23/10/30/hands-on-with-apples-new-journal-app-for-iphone?utm_medium=rss)
+ - [Porsche is adding Google to its cars as VW’s software problems worsen](https://www.theverge.com/2023/10/30/23938741/porsche-google-built-in-vw-cariad-layoffs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
