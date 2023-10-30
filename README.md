@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Translate with the Action Button in iOS 17.2](https://appleinsider.com/inside/ios-17/vs/how-to-use-translate-with-the-action-button-in-ios-172?utm_medium=rss)
- - [Samsung adds DisplayPort and more Multi View options to second massive Ark monitor](https://www.theverge.com/2023/10/30/23938589/samsung-55-inch-odyssey-ark-2nd-gen-g97nc-gaming-monitor-price-release-date-specs-features)
- - [Three M3 chips could land in Monday&#39;s Mac line refresh](https://appleinsider.com/articles/23/10/29/three-m3-chips-could-land-in-mondays-mac-line-refresh?utm_medium=rss)<!-- TECH:END -->
+ - [Scary-good deals from Amazon has shoppers saving hundreds this Halloween](https://appleinsider.com/articles/23/10/30/scary-good-deals-from-amazon-has-shoppers-saving-hundreds-this-halloween?utm_medium=rss)
+ - [I went hands-on with a Chromebook Plus to find out what a Plus can do for you](https://www.androidauthority.com/lenovo-ideapad-flex-5i-chromebook-plus-3377899/)
+ - [Source: X is giving employees RSUs at a share price of $45, implying a valuation of $19B; in March 2023, X offered employees stock at a $20B valuation &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/231030/p19#a231030p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
