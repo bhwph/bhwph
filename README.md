@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matthew Perry Deserved Better Than #DiedSuddenly](https://www.wired.com/story/matthew-perry-death-died-suddenly-conspiracy-theory-online/)
- - [Hands on with Apple&#39;s new Journal app for iPhone](https://appleinsider.com/articles/23/10/30/hands-on-with-apples-new-journal-app-for-iphone?utm_medium=rss)
- - [Porsche is adding Google to its cars as VW’s software problems worsen](https://www.theverge.com/2023/10/30/23938741/porsche-google-built-in-vw-cariad-layoffs)<!-- TECH:END -->
+ - [BlackBerry CEO John Chen plans to retire on November 4 after serving in the role for a decade; board member Richard Lynch will be the interim CEO &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/231030/p25#a231030p25)
+ - [The US SEC charges SolarWinds for failing to disclose alleged cybersecurity failures ahead of a breach by suspected Russian hackers that began as early as 2019 &lpar;Tim Starks/Washington Post&rpar;](http://www.techmeme.com/231030/p24#a231030p24)
+ - [iPhone 16 Pro could get thinner, lighter camera lenses that improve optical zoom](https://appleinsider.com/articles/23/10/30/iphone-16-pro-could-get-thinner-lighter-camera-lenses-that-improve-optical-zoom?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
