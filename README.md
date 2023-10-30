@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Birbs are retards](http://9gag.com/gag/ay2rz7V)
- - 😝 [Tmnt](http://9gag.com/gag/aoKoDqw)
- - 👉 [Its worth it](http://9gag.com/gag/aME7OwP)<!-- MEMES:END -->
+ - 6️⃣ [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - 😝 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)
+ - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
 
 --- 
 
