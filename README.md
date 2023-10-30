@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - 😝 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
- - 👉 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s the kid Bill Burr was talking about in the film...](http://9gag.com/gag/aBdz4Ax)
+ - 😝 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
+ - 👉 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)<!-- MEMES:END -->
 
 --- 
 
