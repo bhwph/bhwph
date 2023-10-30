@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a cute, free economic real-time strategy about colonizing and defending a solar system](https://www.pcgamer.com/heres-a-cute-free-economic-real-time-strategy-about-colonizing-and-defending-a-solar-system)
- - [Enter an abandoned amusement park to solve a horror mystery in this upcoming bit of indie psychological horror](https://www.pcgamer.com/enter-an-abandoned-amusement-park-to-solve-a-horror-mystery-in-this-upcoming-bit-of-indie-psychological-horror)
- - [YouTube has AI creator tools, but creators are too busy battling AI to care](https://www.polygon.com/23933664/youtube-ai-plagiarism-creator-tools)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;October 30, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-30-2023)
+ - [Your new co-op survival horror obsession is about being underpaid and overworked space scavengers](https://www.pcgamer.com/your-new-co-op-survival-horror-obsession-is-about-being-underpaid-and-overworked-space-scavengers)
+ - [Here&#39;s a cute, free economic real-time strategy about colonizing and defending a solar system](https://www.pcgamer.com/heres-a-cute-free-economic-real-time-strategy-about-colonizing-and-defending-a-solar-system)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
