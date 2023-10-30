@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - 😝 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
- - 👉 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)<!-- MEMES:END -->
+ - 6️⃣ [How the tables are turning...](http://9gag.com/gag/avQqmpM)
+ - 😝 [Thank you and have a safe flight](http://9gag.com/gag/ay2rvbV)
+ - 👉 [Food for thought?](http://9gag.com/gag/aNwM396)<!-- MEMES:END -->
 
 --- 
 
