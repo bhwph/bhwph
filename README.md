@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
- - 😝 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)
+ - 6️⃣ [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
+ - 😝 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)
  - 👉 [Are you hungry?](http://9gag.com/gag/a9qwOAK)<!-- MEMES:END -->
 
 --- 
