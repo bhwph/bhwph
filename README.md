@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cornelius sucks his thumb and immediately falls asleep \ud83d\ude29](http://9gag.com/gag/aDY9VQB)
+ - 6️⃣ [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
  - 😝 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
- - 👉 [Are you hungry?](http://9gag.com/gag/a9qwOAK)<!-- MEMES:END -->
+ - 👉 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)<!-- MEMES:END -->
 
 --- 
 
