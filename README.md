@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Are you hungry?](http://9gag.com/gag/a9qwOAK)
- - 😝 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
- - 👉 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)<!-- MEMES:END -->
+ - 6️⃣ [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
+ - 😝 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
+ - 👉 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)<!-- MEMES:END -->
 
 --- 
 
