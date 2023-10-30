@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at blue-collar influencers, including a trucker, a shepherd, and a fisherman, who have amassed large audiences by posting short videos of their workday &lpar;Steven Kurutz/New York Times&rpar;](http://www.techmeme.com/231030/p1#a231030p1)
- - [Google’s new tech can turn any existing ANC earbuds into heart rate monitors](https://www.androidauthority.com/google-apg-tech-for-anc-earbuds-3380383/)
- - [This new Galaxy Z Flip 5 Retro edition lets you flip your phone old school style](https://www.androidauthority.com/samsung-galaxy-z-flip-5-retro-edition-3380378/)<!-- TECH:END -->
+ - [Generative AI Is Playing a Surprising Role in Israel-Hamas Disinformation](https://www.wired.com/story/israel-hamas-war-generative-artificial-intelligence-disinformation/)
+ - [Microsoft really doesn’t want you using that third-party knockoff controller](https://www.androidauthority.com/microsoft-blocking-third-party-xbox-controller-3380400/)
+ - [Google details its research into audioplethysmography &lpar;APG&rpar;, which can add heart rate sensing capabilities to ANC headphones &quot;with a simple software upgrade&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231030/p4#a231030p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
