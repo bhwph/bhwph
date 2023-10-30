@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil Village On iPhone Is Impressive, But Not A Great Way To Play](https://kotaku.com/resident-evil-village-iphone-15-pro-review-performance-1850973260)
- - [Join PlayStation Studios for Extra Life 2023 livestream gaming and fundraising](https://blog.playstation.com/2023/10/30/join-playstation-studios-for-extra-life-2023-livestream-gaming-and-fundraising/)
- - [All the new TV this week](https://www.polygon.com/2023/10/30/23923279/new-tv-netflix-anime-gen-v-finale-invincible-yellowstone-bass-reeves-star-trek)<!-- GAME:END -->
+ - [Ticket to Ride Legacy: Legends of the West leaves the station Nov. 3](https://www.polygon.com/deals/2023/10/30/23938894/ticket-to-ride-legacy-legends-of-the-west-pre-order-release)
+ - [Steam is hiding a treasure trove of great games you&#39;ll tragically never be able to play without a VPN](https://www.pcgamer.com/6-fantastic-steam-games-you-cant-play-without-a-vpn)
+ - [Players Love This New FPS, Except For The Cheaters And AI Voice Acting](https://kotaku.com/finals-fps-game-ai-voice-acting-steam-1850973764)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
