@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Asus&#39; Dual RTX 4060 Ti with an integrated M.2 SSD slot answers a question few thought to ask](https://www.pcgamer.com/asus-dual-rtx-4060-ti-with-an-integrated-m2-ssd-slot-answers-a-question-few-thought-to-ask)
  - [Wordle today: Hint and answer #863 for Monday, October 30](https://www.pcgamer.com/wordle-today-answer-863-october-30)
- - [Five new Steam games you probably missed &lpar;October 30, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-30-2023)
- - [Your new co-op survival horror obsession is about being underpaid and overworked space scavengers](https://www.pcgamer.com/your-new-co-op-survival-horror-obsession-is-about-being-underpaid-and-overworked-space-scavengers)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;October 30, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-30-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
