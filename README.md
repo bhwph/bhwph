@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best VPNs for Xbox in 2023: Top Picks by Our VPN Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-xbox/#ftag=CAD590a51e)
- - [Android 14 review: an unexciting release for consumers, featuring a lightly customizable lock screen and improved back button functionality &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231029/p13#a231029p13)
- - [Q&amp;A with Amazon Robotics Chief Technologist Tye Brady on testing Agility&#39;s bipedal robot Digit at Amazon, coding robotic systems with CodeWhisperer, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231029/p12#a231029p12)<!-- TECH:END -->
+ - [Stable One UI 6 update based on Android 14 is finally here!](https://www.androidauthority.com/samsung-one-ui-6-android-14-rolling-out-3379316/)
+ - [Watch out! One UI 6 stable release could happen today &lpar;Updated: Out now!&rpar;](https://www.androidauthority.com/one-ui-6-stable-rollout-3380365/)
+ - [Best Samsung Galaxy S23, S23 Plus and S23 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s23-s23-plus-and-s23-ultra-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
