@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Generative AI Is Playing a Surprising Role in Israel-Hamas Disinformation](https://www.wired.com/story/israel-hamas-war-generative-artificial-intelligence-disinformation/)
- - [Microsoft really doesn’t want you using that third-party knockoff controller](https://www.androidauthority.com/microsoft-blocking-third-party-xbox-controller-3380400/)
- - [Google details its research into audioplethysmography &lpar;APG&rpar;, which can add heart rate sensing capabilities to ANC headphones &quot;with a simple software upgrade&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231030/p4#a231030p4)<!-- TECH:END -->
+ - [Facebook and Instagram launch a paid ad-free subscription](https://www.theverge.com/2023/10/30/23938283/facebook-instagram-ad-free-subscription-eu)
+ - [Meta plans to offer Instagram and Facebook users in the EU, EEA, and Switzerland an ad-free option for &amp;euro;9.99 or &amp;euro;12.99 per month, alongside free with ads &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/231030/p10#a231030p10)
+ - [These Plants Change Color When Exposed to a Pesticide](https://www.wired.com/story/these-plants-change-color-when-exposed-to-a-pesticide/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
