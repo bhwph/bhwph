@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Is Banning &#39;Unauthorized&#39; Controllers And Accessories](https://kotaku.com/microsoft-xbox-series-one-x-s-controller-error-ps5-1850972075)
- - [Avatar: Frontiers of Pandora is really hoping you&#39;ll show up already loving Avatar](https://www.pcgamer.com/avatar-frontiers-of-pandora-hands-on-preview)
- - [Taking to the skies in Avatar: Frontiers of Pandora – hands-on report](https://blog.playstation.com/2023/10/30/taking-to-the-skies-in-avatar-frontiers-of-pandora-hands-on-report/)<!-- GAME:END -->
+ - [Resident Evil Village On iPhone Is Impressive, But Not A Great Way To Play](https://kotaku.com/resident-evil-village-iphone-15-pro-review-performance-1850973260)
+ - [Join PlayStation Studios for Extra Life 2023 livestream gaming and fundraising](https://blog.playstation.com/2023/10/30/join-playstation-studios-for-extra-life-2023-livestream-gaming-and-fundraising/)
+ - [All the new TV this week](https://www.polygon.com/2023/10/30/23923279/new-tv-netflix-anime-gen-v-finale-invincible-yellowstone-bass-reeves-star-trek)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
