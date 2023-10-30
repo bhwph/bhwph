@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Confirmed RTX 4080 Super GPU means at best you&#39;re getting just 5.3% more Ada for the money](https://www.pcgamer.com/confirmed-rtx-4080-super-gpu-means-at-best-youre-getting-just-53-more-ada-for-the-money)
- - [Asus&#39; Dual RTX 4060 Ti with an integrated M.2 SSD slot answers a question few thought to ask](https://www.pcgamer.com/asus-dual-rtx-4060-ti-with-an-integrated-m2-ssd-slot-answers-a-question-few-thought-to-ask)
- - [Wordle today: Hint and answer #863 for Monday, October 30](https://www.pcgamer.com/wordle-today-answer-863-october-30)<!-- GAME:END -->
+ - [How EA Sports WRC brings realism to rally driving on PS5– out Nov 3](https://blog.playstation.com/2023/10/30/how-ea-sports-wrc-brings-realism-to-rally-driving-on-ps5-out-nov-3/)
+ - [The Week In Games: What’s Coming Out Beyond WarioWare: Move It!](https://kotaku.com/november-games-this-week-star-ocean-robocop-warioware-1850937696)
+ - [It’s Halloween, Let’s Rank The Best Ghost-Type Pokémon](https://kotaku.com/pokemon-ghost-type-gengar-mimikyu-giratina-yamask-1850968054)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
