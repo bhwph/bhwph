@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Telegram Became a Terrifying Weapon in the Israel-Hamas War](https://www.wired.com/story/telegram-hamas-israel-conflict/)
- - [Tesla wins another court case by arguing fatal Autopilot crash was caused by human error](https://www.theverge.com/2023/10/31/23940693/tesla-jury-autopilot-win-liable-micah-lee)
- - [Watermarks aren’t the silver bullet for AI misinformation](https://www.theverge.com/2023/10/31/23940626/artificial-intelligence-ai-digital-watermarks-biden-executive-order)<!-- TECH:END -->
+ - [Nothing Phone 2 gets new tricks including new widget and the ability to hide apps](https://www.androidauthority.com/nothing-phone-2-nothing-os-2-0-4-3380975/)
+ - [DoorDash now warns you that your food might get cold if you don’t tip](https://www.theverge.com/2023/10/31/23940442/doordash-delivery-delayed-no-tip-warning)
+ - [Microsoft debuts a Windows 11 2023 Update that replaces Chat with Microsoft Teams &lpar;Free&rpar;; big features like Copilot and AI-powered Paint rolled out last month &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231031/p32#a231031p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
