@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How the kid on the right only got third place?](http://9gag.com/gag/aNwM27G)
- - 😝 [Sad](http://9gag.com/gag/anzZGX0)
- - 👉 [This is doggo 6 ice cream acquired going NOM](http://9gag.com/gag/a1PgOvP)<!-- MEMES:END -->
+ - 6️⃣ [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - 👉 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)<!-- MEMES:END -->
 
 --- 
 
