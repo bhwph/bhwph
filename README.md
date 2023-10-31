@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple discontinues the 13-inch MacBook Pro, the last Mac with a Touch Bar, with the company only offering 14-inch and 16-inch Macbook Pro models &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/231030/p32#a231030p32)
  - [New 14-inch &amp; 16-inch MacBook Pro sport M3, and come in black](https://appleinsider.com/articles/23/10/31/new-14-inch-macbook-pro-16-inch-macbook-pro-sport-m3-m3-pro-max-chips?utm_medium=rss)
- - [New Apple Silicon has arrived with M3, M3 Pro, and M3 Max chips](https://appleinsider.com/articles/23/10/31/new-apple-silicon-has-arrived-with-m3-m3-pro-and-m3-max-chips?utm_medium=rss)<!-- TECH:END -->
+ - [Apple just launched gaming computers &lpar;at least, that’s what it wants you to think&rpar;](https://www.androidauthority.com/apple-m3-macs-scary-fast-3380628/)
+ - [Apple announces three new M3 processors and really wants you to game with them](https://www.androidauthority.com/apple-m3-processors-3380626/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
