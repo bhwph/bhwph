@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 31: LG OLED TV $549, Beats Studio Buds $99, Amazon Fire TV Stick $19, more](https://appleinsider.com/articles/23/10/31/daily-deals-oct-31-lg-oled-tv-549-beats-studio-buds-99-amazon-fire-tv-stick-19-more?utm_medium=rss)
- - [Silent Hill: Ascension is a streaming show with the frills of a multiplayer game](https://www.theverge.com/2023/10/31/23938524/silent-hill-ascension-iphone-android-release-date)
- - [AI is on a collision course with music — Reservoir’s Golnar Khosrowshahi thinks there’s a way through](https://www.theverge.com/23938498/golnar-khosrowshahi-reservoir-media-ai-music-copyright-publishing-decoder-interview)<!-- TECH:END -->
+ - [Despite several video games with record sales in 2023 and strong overall sales, the industry is still facing layoffs, fewer job openings, and studio closures &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/231031/p23#a231031p23)
+ - [The best cheap Android phone just got $125 cheaper!](https://www.androidauthority.com/google-pixel-7a-buds-pro-deal-3380867/)
+ - [Chrome on iOS now lets you move the address bar to the bottom](https://www.theverge.com/2023/10/31/23940005/chrome-ios-address-bar-bottom-of-the-screen)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
