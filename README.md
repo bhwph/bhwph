@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [For those who love optimizing PC games as much as playing them, Modern Warfare 3 promises more than 500 settings to fiddle with](https://www.pcgamer.com/modern-warfare-3-2023-pc-system-requirements)
- - [Ubisoft Shutting Down Online Service For Old Assassin&#39;s Creed Games And More](https://kotaku.com/ubisoft-assassin-s-creed-splinter-cell-servers-shutdown-1850974513)
- - [How to find and solve Nursery Rhymes in Alan Wake 2](https://www.polygon.com/guides/23935291/alan-wake-2-nursery-rhyme-locations-solutions)<!-- GAME:END -->
+ - [Cities: Skylines 2: How to fix the &#39;Not Enough Customers&#39; problem](https://www.pcgamer.com/cities-skylines-2-not-enough-customers)
+ - [US President Joe Biden signs executive order &#39;to protect Americans from the potential risks of AI systems&#39;](https://www.pcgamer.com/us-president-joe-biden-signs-executive-order-to-protect-americans-from-the-potential-risks-of-ai-systems)
+ - [Call of Duty&#39;s new stupid launcher is a data management nightmare, and it may get worse with Modern Warfare 3](https://www.pcgamer.com/call-of-dutys-new-stupid-launcher-is-a-data-management-nightmare-and-it-may-get-worse-with-modern-warfare-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
