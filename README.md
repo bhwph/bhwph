@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Traps, traps everywhere](http://9gag.com/gag/a3Zgb01)
- - 😝 [Project Mayhem](http://9gag.com/gag/a3ZgnrN)
- - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
+ - 6️⃣ [Speaking from experience](http://9gag.com/gag/adPAbXB)
+ - 😝 [Traps, traps everywhere](http://9gag.com/gag/a3Zgb01)
+ - 👉 [What city is this?](http://9gag.com/gag/a2KgLnp)<!-- MEMES:END -->
 
 --- 
 
