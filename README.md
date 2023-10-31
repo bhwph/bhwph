@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Scott Pilgrim anime opening credits are a real banger, of course](https://www.polygon.com/23940363/scott-pilgrim-anime-takes-off-music-opening-credits)
- - [Lenovo Legion Slim 5 Gen 8 review](https://www.pcgamer.com/lenovo-legion-slim-5-gaming-laptop-review)
- - [Vampire: The Masquerade - Bloodlines 2 will have a voiced main character: &#39;it draws the player in that much more&#39;, says the game&#39;s ex-Bioware narrative designer](https://www.pcgamer.com/vampire-the-masquerade-bloodlines-2-will-have-a-voiced-main-character-it-draws-the-player-in-that-much-more-says-the-games-ex-bioware-narrative-designer)<!-- GAME:END -->
+ - [Yakuza’s Devs Love The Memes As Much As You Do](https://kotaku.com/yakuza-like-dragon-gaiden-infinite-wealth-kiryu-1850977356)
+ - [Get every game in the Batman Arkham series and more for just $15](https://www.polygon.com/deals/2023/10/31/23940237/humble-bundle-batman-arkham-middle-earth-mortal-kombat-wb-games)
+ - [Gears of War Creator Thinks Series Needs ‘A Bit Of A Reboot’](https://kotaku.com/gears-of-war-sequel-6-reboot-cliffy-b-bleszinski-xbox-1850977099)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
