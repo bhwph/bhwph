@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
- - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 👉 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)<!-- MEMES:END -->
+ - 6️⃣ [What city is this?](http://9gag.com/gag/a2KgLnp)
+ - 😝 [Spell Attic](http://9gag.com/gag/aEqKEex)
+ - 👉 [Are you hungry?](http://9gag.com/gag/a9qwOAK)<!-- MEMES:END -->
 
 --- 
 
