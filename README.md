@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite several video games with record sales in 2023 and strong overall sales, the industry is still facing layoffs, fewer job openings, and studio closures &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/231031/p23#a231031p23)
- - [The best cheap Android phone just got $125 cheaper!](https://www.androidauthority.com/google-pixel-7a-buds-pro-deal-3380867/)
- - [Chrome on iOS now lets you move the address bar to the bottom](https://www.theverge.com/2023/10/31/23940005/chrome-ios-address-bar-bottom-of-the-screen)<!-- TECH:END -->
+ - [How Telegram Became a Terrifying Weapon in the Israel-Hamas War](https://www.wired.com/story/telegram-hamas-israel-conflict/)
+ - [Tesla wins another court case by arguing fatal Autopilot crash was caused by human error](https://www.theverge.com/2023/10/31/23940693/tesla-jury-autopilot-win-liable-micah-lee)
+ - [Watermarks aren’t the silver bullet for AI misinformation](https://www.theverge.com/2023/10/31/23940626/artificial-intelligence-ai-digital-watermarks-biden-executive-order)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
