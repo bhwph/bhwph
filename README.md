@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What city is this?](http://9gag.com/gag/a2KgLnp)
- - 😝 [Spell Attic](http://9gag.com/gag/aEqKEex)
- - 👉 [Are you hungry?](http://9gag.com/gag/a9qwOAK)<!-- MEMES:END -->
+ - 6️⃣ [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
+ - 😝 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)
+ - 👉 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)<!-- MEMES:END -->
 
 --- 
 
