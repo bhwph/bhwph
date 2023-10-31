@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Its worth it](http://9gag.com/gag/aME7OwP)
- - 😝 [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)
- - 👉 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)<!-- MEMES:END -->
+ - 6️⃣ [How the kid on the right only got third place?](http://9gag.com/gag/aNwM27G)
+ - 😝 [Sad](http://9gag.com/gag/anzZGX0)
+ - 👉 [This is doggo 6 ice cream acquired going NOM](http://9gag.com/gag/a1PgOvP)<!-- MEMES:END -->
 
 --- 
 
