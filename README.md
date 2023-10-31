@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yakuza’s Devs Love The Memes As Much As You Do](https://kotaku.com/yakuza-like-dragon-gaiden-infinite-wealth-kiryu-1850977356)
- - [Get every game in the Batman Arkham series and more for just $15](https://www.polygon.com/deals/2023/10/31/23940237/humble-bundle-batman-arkham-middle-earth-mortal-kombat-wb-games)
- - [Gears of War Creator Thinks Series Needs ‘A Bit Of A Reboot’](https://kotaku.com/gears-of-war-sequel-6-reboot-cliffy-b-bleszinski-xbox-1850977099)<!-- GAME:END -->
+ - [Remedy&#39;s Max Payne remakes and Control spinoff are now in &#39;production readiness&#39; but the success of Alan Wake 2 might mean they&#39;re still a long way off](https://www.pcgamer.com/remedys-max-payne-remakes-and-control-spinoff-are-now-in-production-readiness-but-the-success-of-alan-wake-2-might-mean-theyre-still-a-long-way-off)
+ - [Capcom: PC Game Mods Are ‘No Different’ Than Cheating](https://kotaku.com/capcom-pc-game-mods-cheat-cheating-resident-evil-piracy-1850977967)
+ - [Alt-history multiplayer FPS &#39;83 is back from the dead under a new studio, and they&#39;re looking for testers](https://www.pcgamer.com/alt-history-multiplayer-fps-83-is-back-from-the-dead-under-a-new-studio-and-theyre-looking-for-testers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
