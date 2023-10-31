@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Speaking from experience](http://9gag.com/gag/adPAbXB)
- - 😝 [Traps, traps everywhere](http://9gag.com/gag/a3Zgb01)
- - 👉 [What city is this?](http://9gag.com/gag/a2KgLnp)<!-- MEMES:END -->
+ - 6️⃣ [Its worth it](http://9gag.com/gag/aME7OwP)
+ - 😝 [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)
+ - 👉 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)<!-- MEMES:END -->
 
 --- 
 
