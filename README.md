@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Owala HallOwalaween Sale &lpar;2023&rpar;: 25 Percent off FreeSip Water Bottle, Pet Water Bowl, and More](https://www.wired.com/story/owala-deals-october-31-2023/)
- - [Wait, What! Did Samsung just confirm One UI 6 update for Galaxy S20 and Note 20?](https://www.androidauthority.com/samsung-galaxy-s20-note-20-one-ui-6-3380708/)
- - [Alibaba unveils Tongyi Qianwen 2 LLM with &quot;hundreds of billions of&quot; parameters and 8 industry-specific models for entertainment, finance, healthcare, and legal &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231031/p3#a231031p3)<!-- TECH:END -->
+ - [Xiaomi 14 series can run 32-bit ARM apps like Flappy Bird with this cool trick](https://www.androidauthority.com/xiaomi-14-series-32-bit-app-support-3380733/)
+ - [IBM research: AI can make phishing, already used in ~90% of cyberattacks, more effective at scale, though widespread use has not yet been detected &lpar;Eric Geller/The Messenger&rpar;](http://www.techmeme.com/231031/p5#a231031p5)
+ - [Apple kills the Touch Bar for good as 13-inch MacBook Pro goes out to pasture](https://www.androidauthority.com/apple-touch-bar-macbook-pro-end-of-life-3380730/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
