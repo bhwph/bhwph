@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Remedy&#39;s Max Payne remakes and Control spinoff are now in &#39;production readiness&#39; but the success of Alan Wake 2 might mean they&#39;re still a long way off](https://www.pcgamer.com/remedys-max-payne-remakes-and-control-spinoff-are-now-in-production-readiness-but-the-success-of-alan-wake-2-might-mean-theyre-still-a-long-way-off)
- - [Capcom: PC Game Mods Are ‘No Different’ Than Cheating](https://kotaku.com/capcom-pc-game-mods-cheat-cheating-resident-evil-piracy-1850977967)
- - [Alt-history multiplayer FPS &#39;83 is back from the dead under a new studio, and they&#39;re looking for testers](https://www.pcgamer.com/alt-history-multiplayer-fps-83-is-back-from-the-dead-under-a-new-studio-and-theyre-looking-for-testers)<!-- GAME:END -->
+ - [Megan Thee Stallion’s Halloween cosplay shows off peak anime taste](https://www.polygon.com/23940797/megan-thee-stallion-halloween-cosplay-anime-taste-death-the-kid)
+ - [Xbox Insider Release Notes – Alpha &lpar;2311.231030-2200&rpar;](https://news.xbox.com/en-us/2023/10/31/xbox-insider-release-notes-alpha-2311-231030-2200/)
+ - [Overwatch 2’s Latest Patch Is Nerfing The Support Heroes](https://kotaku.com/overwatch-2-season-7-k-pop-le-sserafim-new-patch-notes-1850978195)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
