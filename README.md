@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BlackBerry CEO John Chen plans to retire on November 4 after serving in the role for a decade; board member Richard Lynch will be the interim CEO &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/231030/p25#a231030p25)
- - [The US SEC charges SolarWinds for failing to disclose alleged cybersecurity failures ahead of a breach by suspected Russian hackers that began as early as 2019 &lpar;Tim Starks/Washington Post&rpar;](http://www.techmeme.com/231030/p24#a231030p24)
- - [iPhone 16 Pro could get thinner, lighter camera lenses that improve optical zoom](https://appleinsider.com/articles/23/10/30/iphone-16-pro-could-get-thinner-lighter-camera-lenses-that-improve-optical-zoom?utm_medium=rss)<!-- TECH:END -->
+ - [Apple discontinues the 13-inch MacBook Pro, the last Mac with a Touch Bar, with the company only offering 14-inch and 16-inch Macbook Pro models &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/231030/p32#a231030p32)
+ - [New 14-inch &amp; 16-inch MacBook Pro sport M3, and come in black](https://appleinsider.com/articles/23/10/31/new-14-inch-macbook-pro-16-inch-macbook-pro-sport-m3-m3-pro-max-chips?utm_medium=rss)
+ - [New Apple Silicon has arrived with M3, M3 Pro, and M3 Max chips](https://appleinsider.com/articles/23/10/31/new-apple-silicon-has-arrived-with-m3-m3-pro-and-m3-max-chips?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
