@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stephen King’s scariest novels, ranked](https://www.polygon.com/23939201/stephen-king-scariest-novels-books-ranked)
- - [Silent Hill: Ascension’s pricing explained ahead of Halloween premiere](https://www.polygon.com/23935116/silent-hill-ascension-how-to-watch-cost-season-pass)
- - [Alan Wake 2 Fans Need To Watch This Free Movie ASAP](https://kotaku.com/alan-wake-2-best-horror-movies-streaming-1850976130)<!-- GAME:END -->
+ - [The Scott Pilgrim anime opening credits are a real banger, of course](https://www.polygon.com/23940363/scott-pilgrim-anime-takes-off-music-opening-credits)
+ - [Lenovo Legion Slim 5 Gen 8 review](https://www.pcgamer.com/lenovo-legion-slim-5-gaming-laptop-review)
+ - [Vampire: The Masquerade - Bloodlines 2 will have a voiced main character: &#39;it draws the player in that much more&#39;, says the game&#39;s ex-Bioware narrative designer](https://www.pcgamer.com/vampire-the-masquerade-bloodlines-2-will-have-a-voiced-main-character-it-draws-the-player-in-that-much-more-says-the-games-ex-bioware-narrative-designer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
