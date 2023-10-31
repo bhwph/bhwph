@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Alibaba is pressuring Tmall and Taobao merchants to offer rock-bottom prices during Singles Day, which ends on November 11, or risk losing traffic &lpar;Reuters&rpar;](http://www.techmeme.com/231031/p10#a231031p10)
- - [‘Stranger Things 5,’ ‘Deadpool 3,’ a New ‘Star Wars’ &lpar;10?!&rpar;, and Taylor Swift Have One Man in Common](https://www.wired.com/story/shawn-levy-deadpool-3-stranger-things-star-wars-netflix/)
- - [8BitDo’s NES buttons are a big, red, Nintendo-themed invitation to experiment](https://www.theverge.com/23934698/8bitdo-nes-keyboard-experiment-button-of-the-month)<!-- TECH:END -->
+ - [M1 24-inch iMac vs M3 21-inch iMac -- Specs, price, and features, compared](https://appleinsider.com/inside/24-inch-imac/vs/m1-24-inch-imac-vs-m3-21-inch-imac----specs-price-and-features-compared?utm_medium=rss)
+ - [Apple&#39;s stock dropped 11% since its Q3 results on August 3, erasing nearly $400B in value, the first year since 2015 that AAPL slid between WWDC and Q4 earnings &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/231031/p18#a231031p18)
+ - [Brazilian banking-as-a-service startup QI Tech raised a $200M Series B led by General Atlantic, for $262M in total funding, and reports $21M H1 2023 net revenue &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/231031/p17#a231031p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
