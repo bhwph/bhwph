@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Foglands delivers immersive, atmospheric roguelite action today on PS VR2 and PS5](https://blog.playstation.com/2023/10/31/the-foglands-delivers-immersive-atmospheric-roguelite-action-today-on-ps-vr2-and-ps5/)
- - [Introducing Little Goody Two Shoes: A Fairy Tale RPG packed with Thrills, Sapphic Romance, and Witchy Rituals](https://news.xbox.com/en-us/2023/10/31/little-goody-two-shoes-fairytale-rpg/)
- - [This FF14 animation mod turns the ninja into a high-tech John Wick, and it&#39;s the coolest thing I can&#39;t recommend](https://www.pcgamer.com/this-ff14-animation-mod-turns-the-ninja-into-a-high-tech-john-wick-and-its-the-coolest-thing-i-cant-recommend)<!-- GAME:END -->
+ - [Stephen King’s scariest novels, ranked](https://www.polygon.com/23939201/stephen-king-scariest-novels-books-ranked)
+ - [Silent Hill: Ascension’s pricing explained ahead of Halloween premiere](https://www.polygon.com/23935116/silent-hill-ascension-how-to-watch-cost-season-pass)
+ - [Alan Wake 2 Fans Need To Watch This Free Movie ASAP](https://kotaku.com/alan-wake-2-best-horror-movies-streaming-1850976130)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
