@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A new fountain has been unveiled in Vienna, celebrating 150 years of the city&#39;s spring water supply. This cost \u20ac1.8 million.](http://9gag.com/gag/a8qNn8d)
- - 😝 [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)
- - 👉 [Its worth it](http://9gag.com/gag/aME7OwP)<!-- MEMES:END -->
+ - 6️⃣ [Traps, traps everywhere](http://9gag.com/gag/a3Zgb01)
+ - 😝 [Project Mayhem](http://9gag.com/gag/a3ZgnrN)
+ - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
 
 --- 
 
