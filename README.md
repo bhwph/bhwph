@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 2 gets new tricks including new widget and the ability to hide apps](https://www.androidauthority.com/nothing-phone-2-nothing-os-2-0-4-3380975/)
- - [DoorDash now warns you that your food might get cold if you don’t tip](https://www.theverge.com/2023/10/31/23940442/doordash-delivery-delayed-no-tip-warning)
- - [Microsoft debuts a Windows 11 2023 Update that replaces Chat with Microsoft Teams &lpar;Free&rpar;; big features like Copilot and AI-powered Paint rolled out last month &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231031/p32#a231031p32)<!-- TECH:END -->
+ - [On his final day of testimony, SBF denied knowing that billions of dollars in customer money had been misappropriated until shortly before FTX collapsed &lpar;New York Times&rpar;](http://www.techmeme.com/231031/p39#a231031p39)
+ - [These might be the first photos of the slimmer new PS5 and original side-by-side](https://www.theverge.com/2023/10/31/23941001/ps5-slim-original-sony-playstation-images)
+ - [Match drops out of Google Play antitrust showdown](https://www.theverge.com/2023/10/31/23941071/google-play-match-group-antitrust-settlement-epic-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
