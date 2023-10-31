@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M1 24-inch iMac vs M3 21-inch iMac -- Specs, price, and features, compared](https://appleinsider.com/inside/24-inch-imac/vs/m1-24-inch-imac-vs-m3-21-inch-imac----specs-price-and-features-compared?utm_medium=rss)
- - [Apple&#39;s stock dropped 11% since its Q3 results on August 3, erasing nearly $400B in value, the first year since 2015 that AAPL slid between WWDC and Q4 earnings &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/231031/p18#a231031p18)
- - [Brazilian banking-as-a-service startup QI Tech raised a $200M Series B led by General Atlantic, for $262M in total funding, and reports $21M H1 2023 net revenue &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/231031/p17#a231031p17)<!-- TECH:END -->
+ - [Daily deals Oct. 31: LG OLED TV $549, Beats Studio Buds $99, Amazon Fire TV Stick $19, more](https://appleinsider.com/articles/23/10/31/daily-deals-oct-31-lg-oled-tv-549-beats-studio-buds-99-amazon-fire-tv-stick-19-more?utm_medium=rss)
+ - [Silent Hill: Ascension is a streaming show with the frills of a multiplayer game](https://www.theverge.com/2023/10/31/23938524/silent-hill-ascension-iphone-android-release-date)
+ - [AI is on a collision course with music — Reservoir’s Golnar Khosrowshahi thinks there’s a way through](https://www.theverge.com/23938498/golnar-khosrowshahi-reservoir-media-ai-music-copyright-publishing-decoder-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
