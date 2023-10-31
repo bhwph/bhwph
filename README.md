@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
- - 😝 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)
- - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
+ - 6️⃣ [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
+ - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - 👉 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)<!-- MEMES:END -->
 
 --- 
 
