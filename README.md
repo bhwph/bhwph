@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 14 series can run 32-bit ARM apps like Flappy Bird with this cool trick](https://www.androidauthority.com/xiaomi-14-series-32-bit-app-support-3380733/)
- - [IBM research: AI can make phishing, already used in ~90% of cyberattacks, more effective at scale, though widespread use has not yet been detected &lpar;Eric Geller/The Messenger&rpar;](http://www.techmeme.com/231031/p5#a231031p5)
- - [Apple kills the Touch Bar for good as 13-inch MacBook Pro goes out to pasture](https://www.androidauthority.com/apple-touch-bar-macbook-pro-end-of-life-3380730/)<!-- TECH:END -->
+ - [Sources: Alibaba is pressuring Tmall and Taobao merchants to offer rock-bottom prices during Singles Day, which ends on November 11, or risk losing traffic &lpar;Reuters&rpar;](http://www.techmeme.com/231031/p10#a231031p10)
+ - [‘Stranger Things 5,’ ‘Deadpool 3,’ a New ‘Star Wars’ &lpar;10?!&rpar;, and Taylor Swift Have One Man in Common](https://www.wired.com/story/shawn-levy-deadpool-3-stranger-things-star-wars-netflix/)
+ - [8BitDo’s NES buttons are a big, red, Nintendo-themed invitation to experiment](https://www.theverge.com/23934698/8bitdo-nes-keyboard-experiment-button-of-the-month)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
