@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spooky Halloween deals from B&amp;H Photo bring $1,900 in sweet savings to your trick or treat bucket](https://appleinsider.com/articles/23/11/01/spooky-halloween-deals-from-bh-photo-bring-1900-in-sweet-savings-to-your-trick-or-treat-bucket?utm_medium=rss)
- - [Best Multipoint Bluetooth Headphones and Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)
- - [Google completes its switch to mobile-first indexing of Search, a process that began in November 2016, and plans to reduce use of its legacy desktop crawler &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/231031/p42#a231031p42)<!-- TECH:END -->
+ - [Executives at Intel, TSMC, and Samsung say the global chip industry is bottoming out; IBS: the chip market is expected to grow in 2024 after shrinking in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231031/p44#a231031p44)
+ - [YouTube confirms ad blocking crackdown is going global &lpar;Updated&rpar;](https://www.androidauthority.com/youtube-ad-blocker-crackdown-growing-3380809/)
+ - [Hands on with the Apple TV app redesign in tvOS 17.2](https://appleinsider.com/articles/23/11/01/hands-on-with-the-apple-tv-app-redesign-in-tvos-172?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
