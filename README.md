@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I Use My Xbox Series S For Shooters And My PS5 For Everything Else](https://kotaku.com/xbox-series-s-playstation-5-ps5-games-more-popular-1850981929)
- - [Disney Dreamlight Valley finally announces &#39;ValleyVerse&#39; multiplayer coming in December](https://www.pcgamer.com/disney-dreamlight-valley-finally-announces-valleyverse-multiplayer-coming-in-december)
- - [A RoboCop lesson to remember for Rogue City: Shoot ’em in the dick](https://www.polygon.com/gaming/23941986/robocop-rogue-city-dickshots)<!-- GAME:END -->
+ - [When does early access to the Modern Warfare 3 campaign start?](https://www.polygon.com/modern-warfare-3-guides/23940423/mw3-early-access-campaign-release-date-time)
+ - [Adidas Is Selling Miles Morales&#39; &#39;Worst&#39; Spider-Man 2 Suit](https://kotaku.com/adidas-miles-morales-collab-evolved-suit-collection-1850983029)
+ - [When does Fortnite OG Chapter 4 Season 5 launch?](https://www.polygon.com/fortnite-guide/2023/10/31/23940281/chapter-4-season-5-release-time-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
