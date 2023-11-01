@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft&#39;s using hideous AI-generated Assassin&#39;s Creed art on social media, and everyone hates it](https://www.pcgamer.com/ubisofts-using-hideous-ai-generated-assassins-creed-art-on-social-media-and-everyone-hates-it)
- - [PlayStation Stars campaigns and digital collectibles for November 2023](https://blog.playstation.com/2023/11/01/playstation-stars-campaigns-and-digital-collectibles-for-november-2023/)
- - [WarioWare: Move It! is a twist on one of the best WarioWare games ever made](https://www.polygon.com/reviews/23940843/warioware-move-it-review-nintendo-switch)<!-- GAME:END -->
+ - [Critical Role reveals Candela Obscura character classes](https://www.polygon.com/23941761/critical-role-candela-obscura-character-classes-roles-specialties)
+ - [Metal Gear Solid Actor Weighs In On Controversial &#39;Revealing Costume&#39;](https://kotaku.com/metal-gear-mgs-quiet-outfit-controversy-design-1850980602)
+ - [Thirsty Suitors review](https://www.pcgamer.com/thirsty-suitors-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
