@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s third quarter financial results show growth, but it&#39;ll be AI that determines its future trajectory](https://www.pcgamer.com/amds-third-quarter-financial-results-show-growth-but-itll-be-ai-that-determines-its-future-trajectory)
- - [Wordle today: Hint and answer #865 for Wednesday, November 1](https://www.pcgamer.com/wordle-today-answer-865-november-1)
- - [Bungie fans outraged as beloved Destiny composers and other veteran employees are put out of work](https://www.pcgamer.com/bungie-fans-outraged-as-beloved-destiny-composers-and-other-veteran-employees-are-put-out-of-work)<!-- GAME:END -->
+ - [Forget the musical numbers and tense battles against evil—the coolest thing in Alan Wake 2 is pinning bits of paper to a wall](https://www.pcgamer.com/forget-the-musical-numbers-and-tense-battles-against-evilthe-coolest-thing-in-alan-wake-2-is-pinning-bits-of-paper-to-a-wall)
+ - [Every movie and show coming to Netflix in November](https://www.polygon.com/entertainment/2023/11/1/23931641/new-netflix-movies-tv-shows-watch-november-2023)
+ - [After a naked Chun Li scandalised a fighting game tournament, Capcom sounds the alarm about PC game modding: &#39;There are a number of mods that are offensive to public order and morals&#39;](https://www.pcgamer.com/after-a-naked-chun-li-scandalised-a-fighting-game-tournament-capcom-sounds-the-alarm-about-pc-game-modding-there-are-a-number-of-mods-that-are-offensive-to-public-order-and-morals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
