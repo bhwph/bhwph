@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US v. Google: Google internally declared &quot;Code Yellow&quot; emergency in February 2019 for seven weeks to figure out why user search queries have slowed down &lpar;Bloomberg&rpar;](http://www.techmeme.com/231101/p4#a231101p4)
- - [Pixel Watch 2 apparently has a charging problem and Google knows about it](https://www.androidauthority.com/pixel-watch-2-charging-issue-3381096/)
- - [Ahead of India&#39;s 2024 elections, politicians are using voice cloning tools to deliver personalized messages, as AI-generated songs featuring Modi gain traction &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/231101/p3#a231101p3)<!-- TECH:END -->
+ - [You’ll soon be able to make an Alternate Profile on WhatsApp](https://www.androidauthority.com/whatsapp-alternate-profile-feature-beta-3381170/)
+ - [Ahead of the UK&#39;s AI summit, Chinese scientists warn of AI&#39;s &quot;existential risk to humanity&quot;; sources: the UK plans to announce South Korea as Summit&#39;s 2024 host &lpar;Financial Times&rpar;](http://www.techmeme.com/231101/p6#a231101p6)
+ - [Riyadh-based BNPL startup Tabby raised a $200M Series D at a $1.5B valuation, bringing its total funding to over $950M; CEO Hosam Arab says Tabby is profitable &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/231101/p5#a231101p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
