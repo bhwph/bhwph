@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Arcade adds hit &#39;Dreamlight Valley&#39;, and more in November](https://appleinsider.com/articles/23/11/01/apple-arcade-adds-eight-new-games-including-sonic-dream-team?utm_medium=rss)
- - [TP-Link’s teeny-tiny security camera offers a lot for very little](https://www.theverge.com/2023/11/1/23941020/tp-link-tapo-c120-indoor-outdoor-security-camera-price-release-date)
- - [&#39;Thirsty Suitors&#39; Review: A Hilarious and Refreshing Game Made for the South Asian Community](https://www.wired.com/review/thirsty-suitors-review/)<!-- TECH:END -->
+ - [Coinbase announces that eligible US retail customers can now access bitcoin and ether futures contracts through Coinbase Financial Markets &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/231101/p25#a231101p25)
+ - [Best Solar Panel Installation Companies in Chicago     - CNET](https://www.cnet.com/home/energy-and-utilities/chicago-solar-panels/#ftag=CAD590a51e)
+ - [I played Resident Evil Village on the iPhone 15 Pro Max and it terrified me](https://www.androidauthority.com/resident-evil-village-iphone-15-pro-max-3380846/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
