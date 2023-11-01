@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There has to be more?????](http://9gag.com/gag/adPArnj)
- - 😝 [This is a diamond Pepe, only appears when you really need him. Up vote and you will get a peaceful day.](http://9gag.com/gag/aeQzPZv)
- - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
+ - 6️⃣ [Lesson for artists](http://9gag.com/gag/aVbr1zw)
+ - 😝 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
+ - 👉 [We aren&#39;t the same people. Poland is right.](http://9gag.com/gag/aeQzd4O)<!-- MEMES:END -->
 
 --- 
 
