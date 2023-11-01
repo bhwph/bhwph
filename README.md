@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Amateur.](http://9gag.com/gag/a4ogr9y)
- - 😝 [Goodbye bird](http://9gag.com/gag/aME70rX)
- - 👉 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)<!-- MEMES:END -->
+ - 6️⃣ [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)
+ - 😝 [Good old times](http://9gag.com/gag/aA0ANWg)
+ - 👉 [Proud dad](http://9gag.com/gag/awZjvmR)<!-- MEMES:END -->
 
 --- 
 
