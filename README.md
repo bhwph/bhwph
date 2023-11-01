@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shipped 2.5M iPhones in India in Q3, its highest quarterly shipments; Samsung remained top with a 17.2% share, followed by Xiaomi &lpar;16.6%&rpar; and Vivo &lpar;15.9%&rpar; &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/231101/p19#a231101p19)
- - [India clears Apple, others after import imbroglio](https://appleinsider.com/articles/23/11/01/india-clears-apple-others-after-import-imbroglio?utm_medium=rss)
- - [Surprise! Plex just became the best social media platform for film/TV lovers.](https://www.androidauthority.com/plex-discover-together-3380932/)<!-- TECH:END -->
+ - [Apple Arcade adds hit &#39;Dreamlight Valley&#39;, and more in November](https://appleinsider.com/articles/23/11/01/apple-arcade-adds-eight-new-games-including-sonic-dream-team?utm_medium=rss)
+ - [TP-Link’s teeny-tiny security camera offers a lot for very little](https://www.theverge.com/2023/11/1/23941020/tp-link-tapo-c120-indoor-outdoor-security-camera-price-release-date)
+ - [&#39;Thirsty Suitors&#39; Review: A Hilarious and Refreshing Game Made for the South Asian Community](https://www.wired.com/review/thirsty-suitors-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
