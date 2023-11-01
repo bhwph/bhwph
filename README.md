@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)
- - 😝 [Good old times](http://9gag.com/gag/aA0ANWg)
- - 👉 [Proud dad](http://9gag.com/gag/awZjvmR)<!-- MEMES:END -->
+ - 6️⃣ [What is it?](http://9gag.com/gag/aeQzPyj)
+ - 😝 [We aren&#39;t the same people. Poland is right.](http://9gag.com/gag/aeQzd4O)
+ - 👉 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)<!-- MEMES:END -->
 
 --- 
 
