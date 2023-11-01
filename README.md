@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No ambiguity allowed in archaeology](https://www.reddit.com/r/funny/comments/17ldjs3/no_ambiguity_allowed_in_archaeology/)
- - 😝 [Ouroboros](https://www.reddit.com/r/funny/comments/17ld7th/ouroboros/)
- - 👉 [Sports cars](https://www.reddit.com/r/memes/comments/17ld1f0/sports_cars/)<!-- MEMES:END -->
+ - 6️⃣ [Chilling with the homie Sheep](https://www.reddit.com/r/funny/comments/17lhkxr/chilling_with_the_homie_sheep/)
+ - 😝 [Mmmhhh 🤔](https://www.reddit.com/r/funny/comments/17lh03k/mmmhhh/)
+ - 👉 [Shout out to all the Dad&#39;s out there](https://www.reddit.com/r/funny/comments/17lgk2v/shout_out_to_all_the_dads_out_there/)<!-- MEMES:END -->
 
 --- 
 
