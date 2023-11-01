@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What is it?](http://9gag.com/gag/aeQzPyj)
- - 😝 [We aren&#39;t the same people. Poland is right.](http://9gag.com/gag/aeQzd4O)
- - 👉 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)<!-- MEMES:END -->
+ - 6️⃣ [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
+ - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - 👉 [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)<!-- MEMES:END -->
 
 --- 
 
