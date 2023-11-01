@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look back at testimony from Caroline Ellison, Gary Wang, and Nishad Singh and SBF&#39;s counterclaims, as the jury prepares to deliberate over who told the truth &lpar;Joshua Oliver/Financial Times&rpar;](http://www.techmeme.com/231101/p8#a231101p8)
- - [X &lpar;Twitter&rpar; will soon let you pin hashtags to organize posts within Communities](https://www.androidauthority.com/x-twitter-pin-hashtags-within-communities-3381267/)
- - [Data: African startups raised only $1.3B in the first nine months of 2023, below the $3.3B and $2.9B raised over the same period in 2022 and 2021, respectively &lpar;Sultan Quadri/Rest of World&rpar;](http://www.techmeme.com/231101/p7#a231101p7)<!-- TECH:END -->
+ - [70mai 4K A810 Dash Cam boasts 4K video, dual-channel recording, AI smarts](https://appleinsider.com/articles/23/11/01/70mai-4k-a810-dash-cam-boasts-4k-video-dual-channel-recording-ai-smarts?utm_medium=rss)
+ - [TikToker claims he was accidentally sent $96k worth of iPhone 15 Pro Max’s](https://www.androidauthority.com/tiktoker-iphone-15-pro-max-accident-3381301/)
+ - [Meta is investigating Quest 3 issues after controller tracking complaints](https://www.theverge.com/2023/11/1/23941613/meta-investigating-quest-3-controller-tracking-issues)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
