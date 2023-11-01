@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What is it?](http://9gag.com/gag/aeQzPyj)
- - 😝 [Police ad in The Netherlands: Do you see the kid in picture 2? Dress your children in bright clothes in the winter!](http://9gag.com/gag/adPA44M)
- - 👉 [A wholesome family preparing Halloween decorations](http://9gag.com/gag/aYV6ZD2)<!-- MEMES:END -->
+ - 6️⃣ [There has to be more?????](http://9gag.com/gag/adPArnj)
+ - 😝 [This is a diamond Pepe, only appears when you really need him. Up vote and you will get a peaceful day.](http://9gag.com/gag/aeQzPZv)
+ - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
 
 --- 
 
