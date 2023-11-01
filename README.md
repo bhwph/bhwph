@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [70mai 4K A810 Dash Cam boasts 4K video, dual-channel recording, AI smarts](https://appleinsider.com/articles/23/11/01/70mai-4k-a810-dash-cam-boasts-4k-video-dual-channel-recording-ai-smarts?utm_medium=rss)
- - [TikToker claims he was accidentally sent $96k worth of iPhone 15 Pro Max’s](https://www.androidauthority.com/tiktoker-iphone-15-pro-max-accident-3381301/)
- - [Meta is investigating Quest 3 issues after controller tracking complaints](https://www.theverge.com/2023/11/1/23941613/meta-investigating-quest-3-controller-tracking-issues)<!-- TECH:END -->
+ - [Apple shipped 2.5M iPhones in India in Q3, its highest quarterly shipments; Samsung remained top with a 17.2% share, followed by Xiaomi &lpar;16.6%&rpar; and Vivo &lpar;15.9%&rpar; &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/231101/p19#a231101p19)
+ - [India clears Apple, others after import imbroglio](https://appleinsider.com/articles/23/11/01/india-clears-apple-others-after-import-imbroglio?utm_medium=rss)
+ - [Surprise! Plex just became the best social media platform for film/TV lovers.](https://www.androidauthority.com/plex-discover-together-3380932/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
