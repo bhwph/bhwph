@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Crew Pack and skin for November 2023](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)
- - [Remedy’s Return To Max Payne Is An Opportunity To Reinvent The Series](https://kotaku.com/max-payne-remake-remedy-alan-wake-control-1850981091)
- - [Cities: Skylines 2 devs are investigating faster patches and a fix for the &#39;huge&#39; packs of abandoned feral dogs](https://www.pcgamer.com/cities-skylines-2-devs-are-investigating-faster-patches-and-a-fix-for-the-huge-packs-of-abandoned-feral-dogs)<!-- GAME:END -->
+ - [I Use My Xbox Series S For Shooters And My PS5 For Everything Else](https://kotaku.com/xbox-series-s-playstation-5-ps5-games-more-popular-1850981929)
+ - [Disney Dreamlight Valley finally announces &#39;ValleyVerse&#39; multiplayer coming in December](https://www.pcgamer.com/disney-dreamlight-valley-finally-announces-valleyverse-multiplayer-coming-in-december)
+ - [A RoboCop lesson to remember for Rogue City: Shoot ’em in the dick](https://www.polygon.com/gaming/23941986/robocop-rogue-city-dickshots)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
