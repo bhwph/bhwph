@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [On his final day of testimony, SBF denied knowing that billions of dollars in customer money had been misappropriated until shortly before FTX collapsed &lpar;New York Times&rpar;](http://www.techmeme.com/231031/p39#a231031p39)
- - [These might be the first photos of the slimmer new PS5 and original side-by-side](https://www.theverge.com/2023/10/31/23941001/ps5-slim-original-sony-playstation-images)
- - [Match drops out of Google Play antitrust showdown](https://www.theverge.com/2023/10/31/23941071/google-play-match-group-antitrust-settlement-epic-games)<!-- TECH:END -->
+ - [Best Android Tablet for 2023     - CNET](https://www.cnet.com/tech/computing/best-android-tablet/#ftag=CAD590a51e)
+ - [Save $200 on AppleCare for Apple&#39;s new M3 MacBook Pro 16-inch](https://appleinsider.com/articles/23/11/01/save-200-on-applecare-for-apples-new-m3-macbook-pro-16-inch?utm_medium=rss)
+ - [Best USB-C Monitor Deals: Save Up to $111 on Monitors From LG, Pixio and More     - CNET](https://www.cnet.com/deals/best-usb-c-monitor-deals-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
