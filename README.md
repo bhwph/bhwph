@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase announces that eligible US retail customers can now access bitcoin and ether futures contracts through Coinbase Financial Markets &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/231101/p25#a231101p25)
- - [Best Solar Panel Installation Companies in Chicago     - CNET](https://www.cnet.com/home/energy-and-utilities/chicago-solar-panels/#ftag=CAD590a51e)
- - [I played Resident Evil Village on the iPhone 15 Pro Max and it terrified me](https://www.androidauthority.com/resident-evil-village-iphone-15-pro-max-3380846/)<!-- TECH:END -->
+ - [Apple Music has quietly discontinued its $4.99/month Voice Plan, which was introduced in 2021 and let users access the Apple Music catalog exclusively via Siri &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/231101/p30#a231101p30)
+ - [Apple quietly kills off Siri-only Apple Music Voice Plan](https://appleinsider.com/articles/23/11/01/apple-quietly-kills-off-siri-only-apple-music-voice-plan?utm_medium=rss)
+ - [CRM platform HubSpot announces it&#39;s acquiring the B2B data provider Clearbit, which has 400K+ users and was valued at $250M as of January 2019, per PitchBook &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231101/p29#a231101p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
