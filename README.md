@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Executives at Intel, TSMC, and Samsung say the global chip industry is bottoming out; IBS: the chip market is expected to grow in 2024 after shrinking in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231031/p44#a231031p44)
- - [YouTube confirms ad blocking crackdown is going global &lpar;Updated&rpar;](https://www.androidauthority.com/youtube-ad-blocker-crackdown-growing-3380809/)
- - [Hands on with the Apple TV app redesign in tvOS 17.2](https://appleinsider.com/articles/23/11/01/hands-on-with-the-apple-tv-app-redesign-in-tvos-172?utm_medium=rss)<!-- TECH:END -->
+ - [US v. Google: Google internally declared &quot;Code Yellow&quot; emergency in February 2019 for seven weeks to figure out why user search queries have slowed down &lpar;Bloomberg&rpar;](http://www.techmeme.com/231101/p4#a231101p4)
+ - [Pixel Watch 2 apparently has a charging problem and Google knows about it](https://www.androidauthority.com/pixel-watch-2-charging-issue-3381096/)
+ - [Ahead of India&#39;s 2024 elections, politicians are using voice cloning tools to deliver personalized messages, as AI-generated songs featuring Modi gain traction &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/231101/p3#a231101p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
