@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role reveals Candela Obscura character classes](https://www.polygon.com/23941761/critical-role-candela-obscura-character-classes-roles-specialties)
- - [Metal Gear Solid Actor Weighs In On Controversial &#39;Revealing Costume&#39;](https://kotaku.com/metal-gear-mgs-quiet-outfit-controversy-design-1850980602)
- - [Thirsty Suitors review](https://www.pcgamer.com/thirsty-suitors-review)<!-- GAME:END -->
+ - [Fortnite Crew Pack and skin for November 2023](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)
+ - [Remedy’s Return To Max Payne Is An Opportunity To Reinvent The Series](https://kotaku.com/max-payne-remake-remedy-alan-wake-control-1850981091)
+ - [Cities: Skylines 2 devs are investigating faster patches and a fix for the &#39;huge&#39; packs of abandoned feral dogs](https://www.pcgamer.com/cities-skylines-2-devs-are-investigating-faster-patches-and-a-fix-for-the-huge-packs-of-abandoned-feral-dogs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
