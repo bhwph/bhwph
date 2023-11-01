@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [🦸‍♂️ Iron-Deficiency Man](https://www.reddit.com/r/funny/comments/17la018/irondeficiency_man/)
- - 😝 [Rules are rules buddy.](https://www.reddit.com/r/memes/comments/17l9b97/rules_are_rules_buddy/)
- - 👉 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)<!-- MEMES:END -->
+ - 6️⃣ [R_I_P THE economy](https://www.reddit.com/r/memes/comments/17lc1jd/r_i_p_the_economy/)
+ - 😝 [Man has talent](https://www.reddit.com/r/funny/comments/17lbwno/man_has_talent/)
+ - 👉 [Fool](https://www.reddit.com/r/funny/comments/17laugf/fool/)<!-- MEMES:END -->
 
 --- 
 
