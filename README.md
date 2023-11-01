@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget the musical numbers and tense battles against evil—the coolest thing in Alan Wake 2 is pinning bits of paper to a wall](https://www.pcgamer.com/forget-the-musical-numbers-and-tense-battles-against-evilthe-coolest-thing-in-alan-wake-2-is-pinning-bits-of-paper-to-a-wall)
- - [Every movie and show coming to Netflix in November](https://www.polygon.com/entertainment/2023/11/1/23931641/new-netflix-movies-tv-shows-watch-november-2023)
- - [After a naked Chun Li scandalised a fighting game tournament, Capcom sounds the alarm about PC game modding: &#39;There are a number of mods that are offensive to public order and morals&#39;](https://www.pcgamer.com/after-a-naked-chun-li-scandalised-a-fighting-game-tournament-capcom-sounds-the-alarm-about-pc-game-modding-there-are-a-number-of-mods-that-are-offensive-to-public-order-and-morals)<!-- GAME:END -->
+ - [Ubisoft&#39;s using hideous AI-generated Assassin&#39;s Creed art on social media, and everyone hates it](https://www.pcgamer.com/ubisofts-using-hideous-ai-generated-assassins-creed-art-on-social-media-and-everyone-hates-it)
+ - [PlayStation Stars campaigns and digital collectibles for November 2023](https://blog.playstation.com/2023/11/01/playstation-stars-campaigns-and-digital-collectibles-for-november-2023/)
+ - [WarioWare: Move It! is a twist on one of the best WarioWare games ever made](https://www.polygon.com/reviews/23940843/warioware-move-it-review-nintendo-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
