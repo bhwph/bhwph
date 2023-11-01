@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chilling with the homie Sheep](https://www.reddit.com/r/funny/comments/17lhkxr/chilling_with_the_homie_sheep/)
- - 😝 [Mmmhhh 🤔](https://www.reddit.com/r/funny/comments/17lh03k/mmmhhh/)
- - 👉 [Shout out to all the Dad&#39;s out there](https://www.reddit.com/r/funny/comments/17lgk2v/shout_out_to_all_the_dads_out_there/)<!-- MEMES:END -->
+ - 6️⃣ [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)
+ - 😝 [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)
+ - 👉 [Still would...buy It of course](http://9gag.com/gag/amAQQXy)<!-- MEMES:END -->
 
 --- 
 
