@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lesson for artists](http://9gag.com/gag/aVbr1zw)
- - 😝 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
- - 👉 [We aren&#39;t the same people. Poland is right.](http://9gag.com/gag/aeQzd4O)<!-- MEMES:END -->
+ - 6️⃣ [Amateur.](http://9gag.com/gag/a4ogr9y)
+ - 😝 [Goodbye bird](http://9gag.com/gag/aME70rX)
+ - 👉 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)<!-- MEMES:END -->
 
 --- 
 
