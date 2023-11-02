@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the Ghost House safe code in RoboCop: Rogue City](https://www.pcgamer.com/robocop-rogue-city-ghost-house-safe-code)
- - [Sofia Coppola’s Priscilla directly rebukes Baz Luhrmann’s Elvis](https://www.polygon.com/23942592/priscilla-analysis-history-sofia-coppola-elvis-presley)
- - [Modern Warfare III’s Ambitious New Campaign Mode Lets You Play How You Want](https://news.xbox.com/en-us/2023/11/02/modern-warfare-3-ambitious-new-campaign-mode/)<!-- GAME:END -->
+ - [12 Years After The GTA V Trailer, So Much Has Changed](https://kotaku.com/gta-5-v-first-trailer-teaser-12-year-anniversary-gta-6-1850986820)
+ - [Bungie issues statement to Destiny community following layoffs: &#39;We know we have lost a lot of your trust&#39;](https://www.pcgamer.com/bungie-issues-statement-to-destiny-community-following-layoffs-we-know-we-have-lost-a-lot-of-your-trust)
+ - [Robocop: Rogue City review](https://www.pcgamer.com/robocop-rogue-city-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
