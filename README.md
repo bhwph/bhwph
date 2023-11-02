@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 Trophies Treat Call Of Duty: Modern Warfare 3 Like DLC For MW2](https://kotaku.com/call-of-duty-modern-warfare-iii-mw3-trophies-ps5-pc-dlc-1850985639)
- - [The Talos Principle 2 review](https://www.pcgamer.com/the-talos-principle-2-review)
- - [Explore the Fearless Art of the Le Sserafim x Overwatch 2 Collaboration](https://news.xbox.com/en-us/2023/11/02/art-of-the-le-sserafim-overwatch-2-collaboration/)<!-- GAME:END -->
+ - [Where to find the Ghost House safe code in RoboCop: Rogue City](https://www.pcgamer.com/robocop-rogue-city-ghost-house-safe-code)
+ - [Sofia Coppola’s Priscilla directly rebukes Baz Luhrmann’s Elvis](https://www.polygon.com/23942592/priscilla-analysis-history-sofia-coppola-elvis-presley)
+ - [Modern Warfare III’s Ambitious New Campaign Mode Lets You Play How You Want](https://news.xbox.com/en-us/2023/11/02/modern-warfare-3-ambitious-new-campaign-mode/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
