@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shopify reports Q3 revenue up 25% YoY to $1.71B, beating $1.68B est., a $56.2B GMV, beating $54.42B est., and expects ~25% 2023 revenue growth; SHOP jumps 18%+ &lpar;Ilya Banares/Bloomberg&rpar;](http://www.techmeme.com/231102/p13#a231102p13)
- - [Elon Musk Has Owned Twitter for a Year. Let’s Talk About How It’s Going](https://www.wired.com/story/gadget-lab-podcast-619/)
- - [19 Piping-Hot Gifts for Coffee Lovers &lpar;2023&rpar;](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2023/)<!-- TECH:END -->
+ - [7 Best Pickleball Paddles &lpar;2023&rpar;: Budget, Pro, and Stylish](https://www.wired.com/gallery/best-pickleball-paddles/)
+ - [11 Best Wi-Fi Routers &lpar;2023&rpar;: Budget, Gaming Routers, Large Homes, Mesh](https://www.wired.com/gallery/best-wifi-routers/)
+ - [7 Best Portable External Storage Drives &lpar;2023&rpar;: SSDs, Hard Drives, Rugged](https://www.wired.com/story/best-portable-external-storage-drives/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
