@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US v. Google: Mozilla CEO Mitchell Baker says Firefox&#39;s switch to Yahoo in 2014 degraded UX and Firefox had difficulty competing on mobile because of defaults &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231102/p3#a231102p3)
- - [The 23 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Even the latest flagships can’t bring cheer to Samsung and Google in the US](https://www.androidauthority.com/smartphone-shipments-us-q3-2023-3381599/)<!-- TECH:END -->
+ - [YouTube begins raising Premium&#39;s price globally, including in Argentina, Australia, Austria, Germany, Poland, and Turkey, after raising the US price in July &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231102/p6#a231102p6)
+ - [YouTube is increasing Premium prices in multiple countries, right after an ad-blocker crackdown](https://www.androidauthority.com/youtube-premium-global-price-increase-3381637/)
+ - [Boeing investigates a cyber incident that impacted its parts and distribution business, days after LockBit announced stealing &quot;a tremendous amount&quot; of data &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p5#a231102p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
