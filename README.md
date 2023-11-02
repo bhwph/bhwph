@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Greg Street, who quit working on the League of Legends MMO to do &#39;something new,&#39; has revealed that the new thing is another MMO](https://www.pcgamer.com/greg-street-who-quit-working-on-the-league-of-legends-mmo-to-do-something-new-has-revealed-that-the-new-thing-is-another-mmo)
- - [Legendary World of Warcraft designer Greg Street is building a new fantasy MMO](https://www.polygon.com/23940126/world-of-warcraft-league-of-legends-greg-street-ghostcrawler-new-mmo)
- - [2023 gets even better for Morrowind fans as Skyrim port project gives a spooktacular look at its magical leprosy village](https://www.pcgamer.com/2023-gets-even-better-for-morrowind-fans-as-skyrim-port-project-gives-a-spooktacular-look-at-its-magical-leprosy-village)<!-- GAME:END -->
+ - [Ghostbusters: Rise of the Ghost Lord introduces two free game modes](https://blog.playstation.com/2023/11/02/ghostbusters-rise-of-the-ghost-lord-introduces-two-free-game-modes/)
+ - [It’s still wild that Nintendo signed off on Super Mario RPG](https://www.polygon.com/23941820/super-mario-rpg-switch-remake-impressions)
+ - [Baldur’s Gate 3’s Latest Big Patch Brings Over 1,000 More Tweaks And Fixes](https://kotaku.com/baldurs-gate-3-patch-4-hireling-color-blind-1850984912)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
