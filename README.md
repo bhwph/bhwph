@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Chrome team stops considering a Web Integrity API proposal that aimed to help enforce IP rights, count ad views, and more, after comparisons to DRM &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231102/p34#a231102p34)
- - [The new Sims expansion lets your Sim be a landlord](https://www.theverge.com/2023/11/2/23943819/sims-rent-expansion-pack-game-landlord-renter)
- - [Grey’s Anatomy season 20: Plot, release window, and more](https://www.androidauthority.com/greys-anatomy-season-20-release-date-3378885/)<!-- TECH:END -->
+ - [Elon Musk says Starlink is cash-flow breakeven; in 2021, Musk said SpaceX would spin off and take Starlink public once its cash flow was reasonably predictable &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p40#a231102p40)
+ - [Apple expects strong Mac growth but wearable deceleration in the holiday quarter](https://appleinsider.com/articles/23/11/02/apple-expects-strong-mac-growth-but-wearable-deceleration-in-the-holiday-quarter?utm_medium=rss)
+ - [Apple suffers fourth consecutive quarter of declining sales, beat Wall Street anyway](https://appleinsider.com/articles/23/11/02/apple-suffers-fourth-consecutive-quarter-of-declining-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
