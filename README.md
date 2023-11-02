@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghostbusters: Rise of the Ghost Lord introduces two free game modes](https://blog.playstation.com/2023/11/02/ghostbusters-rise-of-the-ghost-lord-introduces-two-free-game-modes/)
- - [It’s still wild that Nintendo signed off on Super Mario RPG](https://www.polygon.com/23941820/super-mario-rpg-switch-remake-impressions)
- - [Baldur’s Gate 3’s Latest Big Patch Brings Over 1,000 More Tweaks And Fixes](https://kotaku.com/baldurs-gate-3-patch-4-hireling-color-blind-1850984912)<!-- GAME:END -->
+ - [PS5 Trophies Treat Call Of Duty: Modern Warfare 3 Like DLC For MW2](https://kotaku.com/call-of-duty-modern-warfare-iii-mw3-trophies-ps5-pc-dlc-1850985639)
+ - [The Talos Principle 2 review](https://www.pcgamer.com/the-talos-principle-2-review)
+ - [Explore the Fearless Art of the Le Sserafim x Overwatch 2 Collaboration](https://news.xbox.com/en-us/2023/11/02/art-of-the-le-sserafim-overwatch-2-collaboration/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
