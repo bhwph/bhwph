@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 6 hands-on: Samsung keeps it fresh with Android 14](https://www.androidauthority.com/one-ui-6-review-3381345/)
- - [Amazon adds advertisements for physical products, such as earbuds, to Fire TV&#39;s top feature carousel, which until now has only promoted streaming video content &lpar;Jared Newman/TechHive&rpar;](http://www.techmeme.com/231102/p23#a231102p23)
- - [The Boy and the Heron’s English dub trailer keeps the secret magic intact](https://www.theverge.com/23940251/the-boy-and-the-herons-trailer-english-dub)<!-- TECH:END -->
+ - [If this is what Lenovo thinks is the future for tablet owners, count us out](https://www.androidauthority.com/lenovo-tablet-fashion-3381846/)
+ - [Nomad aims for the elegance of leather with new iPad folio cases](https://appleinsider.com/articles/23/11/02/nomad-aims-for-the-elegance-of-leather-with-new-ipad-folio-cases?utm_medium=rss)
+ - [Newly unsealed details of an FTC complaint from September: Amazon monitored its sellers and punished them if they offered lower prices on other platforms &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p29#a231102p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
