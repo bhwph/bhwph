@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When does early access to the Modern Warfare 3 campaign start?](https://www.polygon.com/modern-warfare-3-guides/23940423/mw3-early-access-campaign-release-date-time)
- - [Adidas Is Selling Miles Morales&#39; &#39;Worst&#39; Spider-Man 2 Suit](https://kotaku.com/adidas-miles-morales-collab-evolved-suit-collection-1850983029)
- - [When does Fortnite OG Chapter 4 Season 5 launch?](https://www.polygon.com/fortnite-guide/2023/10/31/23940281/chapter-4-season-5-release-time-date)<!-- GAME:END -->
+ - [&#39;No expense spared and not a single corner cut&#39;: After 11 months of work, one of Japan&#39;s most beloved PS2 games is finally playable in English](https://www.pcgamer.com/no-expense-spared-and-not-a-single-corner-cut-after-11-months-of-work-one-of-japans-most-beloved-ps2-games-is-finally-playable-in-english)
+ - [63 corpses lie at the feet of WoW Classic Hardcore permadeath tournament winner as he claims $50,000 prize](https://www.pcgamer.com/63-corpses-lie-at-the-feet-of-wow-classic-hardcore-permadeath-tournament-winner-as-he-claims-dollar50000-prize)
+ - [When does early access to the Modern Warfare 3 campaign start?](https://www.polygon.com/modern-warfare-3-guides/23940423/mw3-early-access-campaign-release-date-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
