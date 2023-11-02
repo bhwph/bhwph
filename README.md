@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Probably going to trigger a few folk here.](http://9gag.com/gag/awZjjX1)
- - 😝 [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)
- - 👉 [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)<!-- MEMES:END -->
+ - 6️⃣ [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)
+ - 😝 [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)
+ - 👉 [Her parents raised her well](http://9gag.com/gag/aeQzqYv)<!-- MEMES:END -->
 
 --- 
 
