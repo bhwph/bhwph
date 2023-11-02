@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If this is what Lenovo thinks is the future for tablet owners, count us out](https://www.androidauthority.com/lenovo-tablet-fashion-3381846/)
- - [Nomad aims for the elegance of leather with new iPad folio cases](https://appleinsider.com/articles/23/11/02/nomad-aims-for-the-elegance-of-leather-with-new-ipad-folio-cases?utm_medium=rss)
- - [Newly unsealed details of an FTC complaint from September: Amazon monitored its sellers and punished them if they offered lower prices on other platforms &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p29#a231102p29)<!-- TECH:END -->
+ - [Google&#39;s Chrome team stops considering a Web Integrity API proposal that aimed to help enforce IP rights, count ad views, and more, after comparisons to DRM &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231102/p34#a231102p34)
+ - [The new Sims expansion lets your Sim be a landlord](https://www.theverge.com/2023/11/2/23943819/sims-rent-expansion-pack-game-landlord-renter)
+ - [Grey’s Anatomy season 20: Plot, release window, and more](https://www.androidauthority.com/greys-anatomy-season-20-release-date-3378885/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
