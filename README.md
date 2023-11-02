@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [12 Years After The GTA V Trailer, So Much Has Changed](https://kotaku.com/gta-5-v-first-trailer-teaser-12-year-anniversary-gta-6-1850986820)
- - [Bungie issues statement to Destiny community following layoffs: &#39;We know we have lost a lot of your trust&#39;](https://www.pcgamer.com/bungie-issues-statement-to-destiny-community-following-layoffs-we-know-we-have-lost-a-lot-of-your-trust)
- - [Robocop: Rogue City review](https://www.pcgamer.com/robocop-rogue-city-review)<!-- GAME:END -->
+ - [Cult Stash locations and puzzle solutions in Alan Wake 2](https://www.polygon.com/guides/23933673/alan-wake-2-cult-stash-locations-puzzle-solutions)
+ - [How to find and solve Nursery Rhymes in Alan Wake 2](https://www.polygon.com/guides/23935291/alan-wake-2-nursery-rhyme-locations-solutions)
+ - [Payday 3&#39;s long-overdue first patch is live: &#39;We’re finally up and running as things should be&#39;](https://www.pcgamer.com/payday-3s-long-overdue-first-patch-is-live-were-finally-up-and-running-as-things-should-be)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
