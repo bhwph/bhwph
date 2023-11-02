@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I had to check because I&#39;ve heard it in series and that meme poped out](http://9gag.com/gag/a6qgzYL)
- - 😝 [Wuttt?](http://9gag.com/gag/aoKow9n)
- - 👉 [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)<!-- MEMES:END -->
+ - 6️⃣ [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
+ - 😝 [Her parents raised her well](http://9gag.com/gag/aeQzqYv)
+ - 👉 [Banana Peel](http://9gag.com/gag/aNwMMzA)<!-- MEMES:END -->
 
 --- 
 
