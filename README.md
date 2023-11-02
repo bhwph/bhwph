@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EDPB instructs the Irish DPC to ban Meta&#39;s use of personal data for behavioral ads on the legal base of contract and legitimate interest in the EU and EEA &lpar;Joe Duball/International Association ...&rpar;](http://www.techmeme.com/231101/p38#a231101p38)
- - [Scarlett Johansson hits AI app with legal action for cloning her voice in an ad](https://www.theverge.com/2023/11/1/23942557/scarlett-johansson-ai-app-developers-lawsuit)
- - [Here’s our first look at what the OnePlus 12’s cameras can do](https://www.androidauthority.com/oneplus-12-photos-3381485/)<!-- TECH:END -->
+ - [A critical look at the SEO industry, as users complain that Google isn&#39;t as useful anymore and some SEO experts say it&#39;s now harder to game Google&#39;s algorithm &lpar;Amanda Chicago Lewis/The Verge&rpar;](http://www.techmeme.com/231101/p41#a231101p41)
+ - [Closing time for Sam Bankman-Fried](https://www.theverge.com/2023/11/1/23942828/sam-bankman-fried-trial-closing-arguments)
+ - [Chainguard, which helps companies secure their open-source software supply chain, raised a $61M Series B led by Spark Capital, taking its total funding to $116M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/231101/p40#a231101p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
