@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Pickleball Paddles &lpar;2023&rpar;: Budget, Pro, and Stylish](https://www.wired.com/gallery/best-pickleball-paddles/)
- - [11 Best Wi-Fi Routers &lpar;2023&rpar;: Budget, Gaming Routers, Large Homes, Mesh](https://www.wired.com/gallery/best-wifi-routers/)
- - [7 Best Portable External Storage Drives &lpar;2023&rpar;: SSDs, Hard Drives, Rugged](https://www.wired.com/story/best-portable-external-storage-drives/)<!-- TECH:END -->
+ - [One UI 6 hands-on: Samsung keeps it fresh with Android 14](https://www.androidauthority.com/one-ui-6-review-3381345/)
+ - [Amazon adds advertisements for physical products, such as earbuds, to Fire TV&#39;s top feature carousel, which until now has only promoted streaming video content &lpar;Jared Newman/TechHive&rpar;](http://www.techmeme.com/231102/p23#a231102p23)
+ - [The Boy and the Heron’s English dub trailer keeps the secret magic intact](https://www.theverge.com/23940251/the-boy-and-the-herons-trailer-english-dub)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
