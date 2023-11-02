@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #866 for Thursday, November 2](https://www.pcgamer.com/wordle-today-answer-866-november-2)
- - [&#39;No expense spared and not a single corner cut&#39;: After 11 months of work, one of Japan&#39;s most beloved PS2 games is finally playable in English](https://www.pcgamer.com/no-expense-spared-and-not-a-single-corner-cut-after-11-months-of-work-one-of-japans-most-beloved-ps2-games-is-finally-playable-in-english)
- - [63 corpses lie at the feet of WoW Classic Hardcore permadeath tournament winner as he claims $50,000 prize](https://www.pcgamer.com/63-corpses-lie-at-the-feet-of-wow-classic-hardcore-permadeath-tournament-winner-as-he-claims-dollar50000-prize)<!-- GAME:END -->
+ - [Greg Street, who quit working on the League of Legends MMO to do &#39;something new,&#39; has revealed that the new thing is another MMO](https://www.pcgamer.com/greg-street-who-quit-working-on-the-league-of-legends-mmo-to-do-something-new-has-revealed-that-the-new-thing-is-another-mmo)
+ - [Legendary World of Warcraft designer Greg Street is building a new fantasy MMO](https://www.polygon.com/23940126/world-of-warcraft-league-of-legends-greg-street-ghostcrawler-new-mmo)
+ - [2023 gets even better for Morrowind fans as Skyrim port project gives a spooktacular look at its magical leprosy village](https://www.pcgamer.com/2023-gets-even-better-for-morrowind-fans-as-skyrim-port-project-gives-a-spooktacular-look-at-its-magical-leprosy-village)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
