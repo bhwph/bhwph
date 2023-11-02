@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OMB releases draft rules that require federal agencies to monitor AI use in health care, law enforcement, and housing for potential harms against citizens &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/231101/p45#a231101p45)
- - [The UK plans to invest &amp;pound;225M into Isambard-AI, an AI supercomputer 10x faster than the UK&#39;s current quickest machine, to be built by the University of Bristol &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/231101/p44#a231101p44)
- - [M3 Max benchmarks show M2 Ultra performance in a MacBook](https://appleinsider.com/articles/23/11/02/m3-max-benchmarks-show-m2-ultra-performance-in-a-macbook?utm_medium=rss)<!-- TECH:END -->
+ - [On the UK&#39;s AI Safety Summit first day, there were closed-door discussions about whether to pause the development of next-generation &quot;frontier&quot; AI models &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/231102/p1#a231102p1)
+ - [Déjà vu: Pixel 8 owners report ‘terrible’ battery and connectivity issues](https://www.androidauthority.com/pixel-8-battery-drain-connectivity-issues-3381576/)
+ - [NASA is launching a streaming service on November 8](https://www.androidauthority.com/nasa-plus-streaming-service-3381565/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
