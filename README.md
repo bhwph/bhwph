@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube begins raising Premium&#39;s price globally, including in Argentina, Australia, Austria, Germany, Poland, and Turkey, after raising the US price in July &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231102/p6#a231102p6)
- - [YouTube is increasing Premium prices in multiple countries, right after an ad-blocker crackdown](https://www.androidauthority.com/youtube-premium-global-price-increase-3381637/)
- - [Boeing investigates a cyber incident that impacted its parts and distribution business, days after LockBit announced stealing &quot;a tremendous amount&quot; of data &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p5#a231102p5)<!-- TECH:END -->
+ - [Shopify reports Q3 revenue up 25% YoY to $1.71B, beating $1.68B est., a $56.2B GMV, beating $54.42B est., and expects ~25% 2023 revenue growth; SHOP jumps 18%+ &lpar;Ilya Banares/Bloomberg&rpar;](http://www.techmeme.com/231102/p13#a231102p13)
+ - [Elon Musk Has Owned Twitter for a Year. Let’s Talk About How It’s Going](https://www.wired.com/story/gadget-lab-podcast-619/)
+ - [19 Piping-Hot Gifts for Coffee Lovers &lpar;2023&rpar;](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
