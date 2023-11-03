@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Genshin Impact codes from the version 4.2 livestream](https://www.pcgamer.com/genshin-impact-codes-4-2-livestream)
- - [FF14 player scores 100 wins in Fall Guys crossover in under a week, just by being really dang good at it](https://www.pcgamer.com/ff14-player-scores-100-wins-in-fall-guys-crossover-in-under-a-week-just-by-being-really-dang-good-at-it)
- - [Fortnite honors its past in Chapter 4 Season OG](https://blog.playstation.com/2023/11/03/fortnite-honors-its-past-in-chapter-4-season-og/)<!-- GAME:END -->
+ - [Honkai: Star Rail version 1.5 livestream codes](https://www.polygon.com/honkai-star-rail-guides/23943533/version-patch-1-5-livestream-codes-redeem)
+ - [Genshin Impact version 4.2 livestream codes](https://www.polygon.com/genshin-impact-guides/23943499/patch-version-4-2-livestream-codes-redeem)
+ - [Next Week on Xbox: New Games for November 6 to 10](https://news.xbox.com/en-us/2023/11/03/next-week-on-xbox-new-games-for-november-6-to-10/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
