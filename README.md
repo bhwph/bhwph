@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Halloween costumes done right](http://9gag.com/gag/armE7qd)
- - 😝 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
- - 👉 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)<!-- MEMES:END -->
+ - 6️⃣ [What is happening here?](http://9gag.com/gag/aQEbbm2)
+ - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 👉 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)<!-- MEMES:END -->
 
 --- 
 
