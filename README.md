@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3’s latest patch is bad news for sex speedrunners](https://www.polygon.com/23944976/baldurs-gate-3-patch-4-sex-nerf)
- - [Thirsty Suitors has one of the best dog petting sequences in a game I’ve ever seen](https://www.polygon.com/gaming/23944931/thirsty-suitors-best-dog-petting-sequences-ever)
- - [Co-op RTS Dwarfheim is going offline, and the singleplayer mode can&#39;t be saved because nobody has the source code](https://www.pcgamer.com/co-op-rts-dwarfheim-is-going-offline-and-the-singleplayer-mode-cant-be-saved-because-nobody-has-the-source-code)<!-- GAME:END -->
+ - [Fortnite Blows Up Again After Original Map Returns](https://kotaku.com/fornite-og-map-season-chapter-4-update-1850990645)
+ - [Overwatch 2&#39;s next hero is a massive tank packing two chainguns, and he&#39;s free to try this weekend](https://www.pcgamer.com/overwatch-2s-next-hero-is-a-massive-tank-packing-two-chainguns-and-hes-free-to-try-this-weekend)
+ - [How Brothers in Hell Went from a Dream to Reality](https://news.xbox.com/en-us/2023/11/03/brothers-in-hell-from-dream-to-reality/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
