@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Mozilla&#39;s Senior Director of Content Carolyn O&#39;Hara about joining the fediverse, technical hurdles for onboarding users, future plans, more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231103/p15#a231103p15)
- - [In a first, Marvel’s Echo is coming to both Disney Plus and Hulu at the same time](https://www.theverge.com/2023/11/3/23945203/marvel-echo-disney-plus-hulu-dual-release-date)
- - [Free OWC Drive Speed app tests video transfers for iPhone videographers](https://appleinsider.com/articles/23/11/03/free-owc-drive-speed-app-tests-video-transfers-for-iphone-videographers?utm_medium=rss)<!-- TECH:END -->
+ - [VIP members get up to $200 off Apple&#39;s new M3 MacBook Pro &amp; iMac right now](https://appleinsider.com/articles/23/11/03/vip-members-get-up-to-200-off-apples-new-m3-macbook-pro-imac-right-now?utm_medium=rss)
+ - [Washington D.C. rolling out Apple AirTag program to help curb car theft](https://appleinsider.com/articles/23/11/03/washington-dc-rolling-out-apple-airtag-program-to-help-curb-car-theft?utm_medium=rss)
+ - [Google Play rolls out an &quot;Independent security review&quot; badge for apps that conduct a Mobile Application Security Assessment audit, starting with VPN apps &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231103/p17#a231103p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
