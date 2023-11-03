@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [VIP members get up to $200 off Apple&#39;s new M3 MacBook Pro &amp; iMac right now](https://appleinsider.com/articles/23/11/03/vip-members-get-up-to-200-off-apples-new-m3-macbook-pro-imac-right-now?utm_medium=rss)
- - [Washington D.C. rolling out Apple AirTag program to help curb car theft](https://appleinsider.com/articles/23/11/03/washington-dc-rolling-out-apple-airtag-program-to-help-curb-car-theft?utm_medium=rss)
- - [Google Play rolls out an &quot;Independent security review&quot; badge for apps that conduct a Mobile Application Security Assessment audit, starting with VPN apps &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231103/p17#a231103p17)<!-- TECH:END -->
+ - [China says it attended the UK AI Safety Summit&#39;s ministerial meeting on its second day, despite not being listed by the UK among the &quot;like-minded&quot; participants &lpar;Reuters&rpar;](http://www.techmeme.com/231103/p19#a231103p19)
+ - [Microsoft employees will keep free access to Xbox Game Pass Ultimate after complaints](https://www.theverge.com/2023/11/3/23945294/microsoft-xbox-game-pass-ultimate-free-employee-perk-restored)
+ - [Get a 1-year Sam&#39;s Club membership for $20 &amp; take the pain out of holiday shopping](https://appleinsider.com/articles/23/11/03/get-a-1-year-sams-club-membership-for-20-take-the-pain-out-of-holiday-shopping?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
