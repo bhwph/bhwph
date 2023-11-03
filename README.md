@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail version 1.5 livestream codes](https://www.polygon.com/honkai-star-rail-guides/23943533/version-patch-1-5-livestream-codes-redeem)
- - [Genshin Impact version 4.2 livestream codes](https://www.polygon.com/genshin-impact-guides/23943499/patch-version-4-2-livestream-codes-redeem)
- - [Next Week on Xbox: New Games for November 6 to 10](https://news.xbox.com/en-us/2023/11/03/next-week-on-xbox-new-games-for-november-6-to-10/)<!-- GAME:END -->
+ - [Baldur’s Gate 3’s latest patch is bad news for sex speedrunners](https://www.polygon.com/23944976/baldurs-gate-3-patch-4-sex-nerf)
+ - [Thirsty Suitors has one of the best dog petting sequences in a game I’ve ever seen](https://www.polygon.com/gaming/23944931/thirsty-suitors-best-dog-petting-sequences-ever)
+ - [Co-op RTS Dwarfheim is going offline, and the singleplayer mode can&#39;t be saved because nobody has the source code](https://www.pcgamer.com/co-op-rts-dwarfheim-is-going-offline-and-the-singleplayer-mode-cant-be-saved-because-nobody-has-the-source-code)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
