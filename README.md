@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [What is happening here?](http://9gag.com/gag/aQEbbm2)
  - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
- - 👉 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)<!-- MEMES:END -->
+ - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
 
 --- 
 
