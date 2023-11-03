@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surface Pro 10 wishlist: All the features I want to see](https://www.androidauthority.com/microsoft-surface-pro-10-3357886/)
- - [China warms to Micron, saying the company deepening its footprint would be welcome, after banning its equipment in key infrastructure in May 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231103/p2#a231103p2)
- - [Need to Take a Screenshot With Windows 11? Here&#39;s How     - CNET](https://www.cnet.com/tech/computing/need-to-take-a-screenshot-with-windows-11-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bluetti introduces AC2A and AC70 Portable Generators perfect for your autumn excursions](https://appleinsider.com/articles/23/11/03/bluetti-introduces-ac2a-and-ac70-portable-generators-perfect-for-your-autumn-excursions?utm_medium=rss)
+ - [Elon Musk says xAI will release its first AI model to a select group on November 4 and &quot;in some important respects, it is the best that currently exists&quot; &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231103/p5#a231103p5)
+ - [Fortnite’s new season is a trip through the game’s history](https://www.theverge.com/2023/11/3/23943701/fortnite-og-new-season-tilted-towers-baller)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
