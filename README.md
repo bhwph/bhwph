@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lena Anderson.. went to dentist](http://9gag.com/gag/aBdzerO)
- - 😝 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)
- - 👉 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)<!-- MEMES:END -->
+ - 6️⃣ [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
+ - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
+ - 👉 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)<!-- MEMES:END -->
 
 --- 
 
