@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Blows Up Again After Original Map Returns](https://kotaku.com/fornite-og-map-season-chapter-4-update-1850990645)
- - [Overwatch 2&#39;s next hero is a massive tank packing two chainguns, and he&#39;s free to try this weekend](https://www.pcgamer.com/overwatch-2s-next-hero-is-a-massive-tank-packing-two-chainguns-and-hes-free-to-try-this-weekend)
- - [How Brothers in Hell Went from a Dream to Reality](https://news.xbox.com/en-us/2023/11/03/brothers-in-hell-from-dream-to-reality/)<!-- GAME:END -->
+ - [BlizzCon 2023: All the news from Blizzard’s opening ceremony](https://www.polygon.com/23945048/blizzcon-2023-announcements-news-wow-diablo-4)
+ - [Blizzard announces World of Warcraft&#39;s next 3 expansions: &#39;We ain&#39;t screwing around,&#39; declares Chris Metzen](https://www.pcgamer.com/world-of-warcraft-worldsoul-saga-announcement)
+ - [This Week on Xbox: Race Rally Cars, Defend the Streets of Detroit, and Save London!](https://youtu.be/ODJlogiWRvY#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
