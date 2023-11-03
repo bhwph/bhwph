@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [S.W.A.T. season 7: Plot, release window, and more](https://www.androidauthority.com/swat-season-7-release-date-3379203/)
- - [As EU was preparing to designate Apple as a gatekeeper under the DMA, Apple has argued that it has three separate browsers: Safari for iOS, iPadOS, and macOS &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/231103/p13#a231103p13)
- - [A US school district banned smartphones completely, and students are &lpar;mostly&rpar; OK with it](https://www.androidauthority.com/school-banned-smartphones-3382264/)<!-- TECH:END -->
+ - [An interview with Mozilla&#39;s Senior Director of Content Carolyn O&#39;Hara about joining the fediverse, technical hurdles for onboarding users, future plans, more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231103/p15#a231103p15)
+ - [In a first, Marvel’s Echo is coming to both Disney Plus and Hulu at the same time](https://www.theverge.com/2023/11/3/23945203/marvel-echo-disney-plus-hulu-dual-release-date)
+ - [Free OWC Drive Speed app tests video transfers for iPhone videographers](https://appleinsider.com/articles/23/11/03/free-owc-drive-speed-app-tests-video-transfers-for-iphone-videographers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
