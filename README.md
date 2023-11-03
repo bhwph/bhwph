@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Abbott Elementary season 3: Plot, release window, and more](https://www.androidauthority.com/abbott-elementary-season-3-release-date-3379188/)
- - [Samsung Galaxy S24 series US launch date leaked](https://www.androidauthority.com/samsung-galaxy-s24-series-us-launch-date-leaked-3381976/)
- - [Apple expects its revenue in the holiday quarter, normally the company&#39;s biggest sales period, to stay the same as last year; Wall Street projected ~5% growth &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231103/p1#a231103p1)<!-- TECH:END -->
+ - [Surface Pro 10 wishlist: All the features I want to see](https://www.androidauthority.com/microsoft-surface-pro-10-3357886/)
+ - [China warms to Micron, saying the company deepening its footprint would be welcome, after banning its equipment in key infrastructure in May 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231103/p2#a231103p2)
+ - [Need to Take a Screenshot With Windows 11? Here&#39;s How     - CNET](https://www.cnet.com/tech/computing/need-to-take-a-screenshot-with-windows-11-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
