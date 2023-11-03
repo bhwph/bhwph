@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When to watch the BlizzCon 2023 opening ceremony](https://www.pcgamer.com/blizzcon-how-to-watch-2023)
- - [Wordle today: Hint and answer #867 for Friday, November 3](https://www.pcgamer.com/wordle-today-answer-867-november-3)
- - [A new 25 minute Skyblivion video shows the spooky side of a reimagined Cyrodiil](https://www.pcgamer.com/a-new-25-minute-skyblivion-video-shows-the-spooky-side-of-a-reimagined-cyrodiil)<!-- GAME:END -->
+ - [All Genshin Impact codes from the version 4.2 livestream](https://www.pcgamer.com/genshin-impact-codes-4-2-livestream)
+ - [FF14 player scores 100 wins in Fall Guys crossover in under a week, just by being really dang good at it](https://www.pcgamer.com/ff14-player-scores-100-wins-in-fall-guys-crossover-in-under-a-week-just-by-being-really-dang-good-at-it)
+ - [Fortnite honors its past in Chapter 4 Season OG](https://blog.playstation.com/2023/11/03/fortnite-honors-its-past-in-chapter-4-season-og/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
