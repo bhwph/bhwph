@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says Starlink is cash-flow breakeven; in 2021, Musk said SpaceX would spin off and take Starlink public once its cash flow was reasonably predictable &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p40#a231102p40)
- - [Apple expects strong Mac growth but wearable deceleration in the holiday quarter](https://appleinsider.com/articles/23/11/02/apple-expects-strong-mac-growth-but-wearable-deceleration-in-the-holiday-quarter?utm_medium=rss)
- - [Apple suffers fourth consecutive quarter of declining sales, beat Wall Street anyway](https://appleinsider.com/articles/23/11/02/apple-suffers-fourth-consecutive-quarter-of-declining-sales?utm_medium=rss)<!-- TECH:END -->
+ - [Apple reports Q4 revenue down 2.5% YoY to $15.1B in Greater China, down 3.4% YoY to $5.5B in Japan, and down 0.7% YoY to $6.3B in the rest of Asia-Pacific &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231102/p43#a231102p43)
+ - [Live Updates: FTX Founder Sam Bankman-Fried Found Guilty of Fraud](https://www.wired.com/live/sam-bankman-fried-sbf-ftx-trial-live-blog-verdict/)
+ - [FTX founder Sam Bankman-Fried is guilty of fraud](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
