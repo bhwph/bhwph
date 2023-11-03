@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [BlizzCon 2023: All the news from Blizzard’s opening ceremony](https://www.polygon.com/23945048/blizzcon-2023-announcements-news-wow-diablo-4)
- - [Blizzard announces World of Warcraft&#39;s next 3 expansions: &#39;We ain&#39;t screwing around,&#39; declares Chris Metzen](https://www.pcgamer.com/world-of-warcraft-worldsoul-saga-announcement)
- - [This Week on Xbox: Race Rally Cars, Defend the Streets of Detroit, and Save London!](https://youtu.be/ODJlogiWRvY#new_tab)<!-- GAME:END -->
+ - [Worst fear confirmed: You can&#39;t launch Modern Warfare 3 without first launching Modern Warfare 2](https://www.pcgamer.com/worst-fear-confirmed-you-cant-launch-modern-warfare-3-without-first-launching-modern-warfare-2)
+ - [Embracer&#39;s implosion continues as Star Trek Online developer Cryptic Studios lays off employees](https://www.pcgamer.com/embracers-implosion-continues-as-star-trek-online-developer-cryptic-studios-lays-off-employees)
+ - [The new voice of Mario is also the new voice of Wario](https://www.polygon.com/23945633/nitnendo-wario-voice-actor-charles-martinet-kevin-afghani)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
