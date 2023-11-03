@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluetti introduces AC2A and AC70 Portable Generators perfect for your autumn excursions](https://appleinsider.com/articles/23/11/03/bluetti-introduces-ac2a-and-ac70-portable-generators-perfect-for-your-autumn-excursions?utm_medium=rss)
- - [Elon Musk says xAI will release its first AI model to a select group on November 4 and &quot;in some important respects, it is the best that currently exists&quot; &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231103/p5#a231103p5)
- - [Fortnite’s new season is a trip through the game’s history](https://www.theverge.com/2023/11/3/23943701/fortnite-og-new-season-tilted-towers-baller)<!-- TECH:END -->
+ - [Take Advantage of These Fall Sales on Cozy Loungewear     - CNET](https://www.cnet.com/deals/take-advantage-of-these-fall-sales-on-cozy-loungewear/#ftag=CAD590a51e)
+ - [Amazon settles UK CMA probes over use of third-party data, agreeing not to use &quot;non-public&quot; third-party seller data to benefit its own products, and more &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231103/p8#a231103p8)
+ - [M3 Max performance, iOS 17.2&#39;s Journal, new Apple TV app on the AppleInsider Podcast](https://appleinsider.com/articles/23/11/03/m3-max-performance-ios-172s-journal-new-apple-tv-app-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
