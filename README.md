@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)
- - 😝 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
- - 👉 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)<!-- MEMES:END -->
+ - 6️⃣ [Return of the King](http://9gag.com/gag/a04g3PB)
+ - 😝 [A hostage situation\u2026](http://9gag.com/gag/a8qNgGV)
+ - 👉 [It aint much...](http://9gag.com/gag/anzZoEL)<!-- MEMES:END -->
 
 --- 
 
