@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What is happening here?](http://9gag.com/gag/aQEbbm2)
- - 😝 [A close call](http://9gag.com/gag/a04g35z)
- - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
+ - 6️⃣ [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
+ - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 👉 [Where butts?](http://9gag.com/gag/avQqqbX)<!-- MEMES:END -->
 
 --- 
 
