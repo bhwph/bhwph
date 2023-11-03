@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [What is happening here?](http://9gag.com/gag/aQEbbm2)
- - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
- - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
+ - 😝 [A close call](http://9gag.com/gag/a04g35z)
+ - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
 
 --- 
 
