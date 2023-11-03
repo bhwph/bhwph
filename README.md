@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 👉 [Where butts?](http://9gag.com/gag/avQqqbX)<!-- MEMES:END -->
+ - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 👉 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)<!-- MEMES:END -->
 
 --- 
 
