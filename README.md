@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
- - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
+ - 6️⃣ [Halloween costumes done right](http://9gag.com/gag/armE7qd)
+ - 😝 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
  - 👉 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)<!-- MEMES:END -->
 
 --- 
