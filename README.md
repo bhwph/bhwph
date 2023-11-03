@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Halloween costumes done right](http://9gag.com/gag/armE7qd)
- - 😝 [Bye.](http://9gag.com/gag/awZjWeQ)
- - 👉 [It aint much...](http://9gag.com/gag/anzZoEL)<!-- MEMES:END -->
+ - 6️⃣ [Lena Anderson.. went to dentist](http://9gag.com/gag/aBdzerO)
+ - 😝 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)
+ - 👉 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)<!-- MEMES:END -->
 
 --- 
 
