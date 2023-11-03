@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take Advantage of These Fall Sales on Cozy Loungewear     - CNET](https://www.cnet.com/deals/take-advantage-of-these-fall-sales-on-cozy-loungewear/#ftag=CAD590a51e)
- - [Amazon settles UK CMA probes over use of third-party data, agreeing not to use &quot;non-public&quot; third-party seller data to benefit its own products, and more &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231103/p8#a231103p8)
- - [M3 Max performance, iOS 17.2&#39;s Journal, new Apple TV app on the AppleInsider Podcast](https://appleinsider.com/articles/23/11/03/m3-max-performance-ios-172s-journal-new-apple-tv-app-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [S.W.A.T. season 7: Plot, release window, and more](https://www.androidauthority.com/swat-season-7-release-date-3379203/)
+ - [As EU was preparing to designate Apple as a gatekeeper under the DMA, Apple has argued that it has three separate browsers: Safari for iOS, iPadOS, and macOS &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/231103/p13#a231103p13)
+ - [A US school district banned smartphones completely, and students are &lpar;mostly&rpar; OK with it](https://www.androidauthority.com/school-banned-smartphones-3382264/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
