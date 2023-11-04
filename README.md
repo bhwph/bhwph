@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus’ powerful ROG Ally handheld is $80 off for the first time](https://www.polygon.com/deals/23944050/best-gaming-deals-asus-rog-ally-xbox-elite-controller-sale)
- - [The best movies new to streaming in November 2023](https://www.polygon.com/what-to-watch/2023/11/4/23939141/best-new-movies-netflix-amazon-prime-max-hulu-november-2023)
- - [Wordle today: Hint and answer #868 for Saturday, November 4](https://www.pcgamer.com/wordle-today-answer-868-november-4)<!-- GAME:END -->
+ - [The Lord of the Rings: Return to Moria still has fathoms to go](https://www.polygon.com/reviews/23945521/lord-of-the-rings-return-to-moria-game-review)
+ - [Gen V is the rare show that’s shorter than it should be](https://www.polygon.com/23945317/gen-v-season-1-ending-too-short)
+ - [A Parent’s Guide to Super Mario Bros. Wonder](https://kotaku.com/super-mario-bros-wonder-parents-guide-tips-kids-1850989760)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
