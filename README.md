@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Grounded&#39;s next update will add full-on creative tools allowing custom backyards and game modes](https://www.pcgamer.com/groundeds-next-update-will-add-a-full-on-creative-mode-allowing-custom-backyards-and-game-modes)
  - [Tommy Gun Witches is a free detective adventure about exactly what it sounds like](https://www.pcgamer.com/tommy-gun-witches-is-a-free-detective-adventure-about-exactly-what-it-sounds-like)
- - [The Talos Principle 2 brings in GLaDOS to roast itself for copying Portal: &quot;You came up with that? Oh. No, wait. I did.&quot;](https://www.pcgamer.com/the-talos-principle-2-brings-in-glados-to-roast-itself-for-copying-portal-you-came-up-with-that-oh-no-wait-i-did)
- - [The Lord of the Rings: Return to Moria still has fathoms to go](https://www.polygon.com/reviews/23945521/lord-of-the-rings-return-to-moria-game-review)<!-- GAME:END -->
+ - [The Talos Principle 2 brings in GLaDOS to roast itself for copying Portal: &quot;You came up with that? Oh. No, wait. I did.&quot;](https://www.pcgamer.com/the-talos-principle-2-brings-in-glados-to-roast-itself-for-copying-portal-you-came-up-with-that-oh-no-wait-i-did)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
