@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Talos Principle 2 brings in GLaDOS to roast itself for copying Portal: &quot;You came up with that? Oh. No, wait. I did.&quot;](https://www.pcgamer.com/the-talos-principle-2-brings-in-glados-to-roast-itself-for-copying-portal-you-came-up-with-that-oh-no-wait-i-did)
  - [The Lord of the Rings: Return to Moria still has fathoms to go](https://www.polygon.com/reviews/23945521/lord-of-the-rings-return-to-moria-game-review)
- - [Gen V is the rare show that’s shorter than it should be](https://www.polygon.com/23945317/gen-v-season-1-ending-too-short)
- - [A Parent’s Guide to Super Mario Bros. Wonder](https://kotaku.com/super-mario-bros-wonder-parents-guide-tips-kids-1850989760)<!-- GAME:END -->
+ - [Gen V is the rare show that’s shorter than it should be](https://www.polygon.com/23945317/gen-v-season-1-ending-too-short)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
