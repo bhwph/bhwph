@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 👉 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)<!-- MEMES:END -->
+ - 6️⃣ [A close call](http://9gag.com/gag/a04g35z)
+ - 😝 [Let&#39;s see them](http://9gag.com/gag/aeQzL5m)
+ - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
 
 --- 
 
