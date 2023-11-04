@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources say Cruise CEO Kyle Vogt told employees he does not know when the company could resume operations and that layoffs could be coming &lpar;New York Times&rpar;](http://www.techmeme.com/231103/p23#a231103p23)
- - [Best T-Mobile Deals To Grab Right Now     - CNET](https://www.cnet.com/deals/best-t-mobile-deals/#ftag=CAD590a51e)
- - [Apple Watch SE &lpar;2022&rpar; Deals: Save With Direct Discounts, Trade-In Credits and More     - CNET](https://www.cnet.com/deals/best-apple-watch-se-2022-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [On Instagram, journalists and creators inside Gaza see a surge in followers as they document the Israel-Hamas war, even as Meta has broadly moved away from news &lpar;NBC News&rpar;](http://www.techmeme.com/231104/p1#a231104p1)
+ - [Sources: GM spent an average of $588M a quarter on Cruise in the past year, up 42% YoY, and staff intervened to assist Cruise&#39;s vehicles every 2.5 to five miles &lpar;New York Times&rpar;](http://www.techmeme.com/231103/p23#a231103p23)
+ - [Best T-Mobile Deals To Grab Right Now     - CNET](https://www.cnet.com/deals/best-t-mobile-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
