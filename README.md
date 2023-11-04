@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #868 for Saturday, November 4](https://www.pcgamer.com/wordle-today-answer-868-november-4)
  - [Modern Warfare 3&#39;s rushed campaign isn&#39;t going over well with fans who pre-ordered: &#39;This is hands down the worst CoD campaign I&#39;ve ever played&#39;](https://www.pcgamer.com/modern-warfare-3s-rushed-campaign-isnt-going-over-well-with-fans-who-pre-ordered-this-is-hands-down-the-worst-cod-campaign-ive-ever-played)
- - [Fortnite rockets to the top of Twitch on the back of nostalgia for 5 years ago](https://www.pcgamer.com/fortnite-season-og-ninja-twitch)
- - [For the King 2 review](https://www.pcgamer.com/for-the-king-2-review)<!-- GAME:END -->
+ - [Fortnite rockets to the top of Twitch on the back of nostalgia for 5 years ago](https://www.pcgamer.com/fortnite-season-og-ninja-twitch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
