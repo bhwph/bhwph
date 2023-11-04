@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [FFS youtube.](http://9gag.com/gag/aOxEL72)
- - 😝 [Mtsv v home](http://9gag.com/gag/armEQGX)
- - 👉 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)<!-- MEMES:END -->
+ - 6️⃣ [What Are You Doing In My Swamp?](http://9gag.com/gag/aGEvmjX)
+ - 😝 [An absolute chad](http://9gag.com/gag/aqeMqWR)
+ - 👉 [Mtsv v home](http://9gag.com/gag/armEQGX)<!-- MEMES:END -->
 
 --- 
 
