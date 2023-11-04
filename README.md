@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Worst fear confirmed: You can&#39;t launch Modern Warfare 3 without first launching Modern Warfare 2](https://www.pcgamer.com/worst-fear-confirmed-you-cant-launch-modern-warfare-3-without-first-launching-modern-warfare-2)
- - [Embracer&#39;s implosion continues as Star Trek Online developer Cryptic Studios lays off employees](https://www.pcgamer.com/embracers-implosion-continues-as-star-trek-online-developer-cryptic-studios-lays-off-employees)
- - [The new voice of Mario is also the new voice of Wario](https://www.polygon.com/23945633/nitnendo-wario-voice-actor-charles-martinet-kevin-afghani)<!-- GAME:END -->
+ - [Modern Warfare 3&#39;s rushed campaign isn&#39;t going over well with fans who pre-ordered: &#39;This is hands down the worst CoD campaign I&#39;ve ever played&#39;](https://www.pcgamer.com/modern-warfare-3s-rushed-campaign-isnt-going-over-well-with-fans-who-pre-ordered-this-is-hands-down-the-worst-cod-campaign-ive-ever-played)
+ - [Fortnite rockets to the top of Twitch on the back of nostalgia for 5 years ago](https://www.pcgamer.com/fortnite-season-og-ninja-twitch)
+ - [For the King 2 review](https://www.pcgamer.com/for-the-king-2-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
