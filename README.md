@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My roll blunt...](http://9gag.com/gag/a2KgeBD)
- - 😝 [I need...](http://9gag.com/gag/aGEvmW0)
- - 👉 [Clutch](http://9gag.com/gag/ap97WO9)<!-- MEMES:END -->
+ - 6️⃣ [FFS youtube.](http://9gag.com/gag/aOxEL72)
+ - 😝 [Mtsv v home](http://9gag.com/gag/armEQGX)
+ - 👉 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)<!-- MEMES:END -->
 
 --- 
 
