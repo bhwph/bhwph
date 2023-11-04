@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What Are You Doing In My Swamp?](http://9gag.com/gag/aGEvmjX)
- - 😝 [Arsenal Women are facing criticism for all-white squad photo. I think they look great.](http://9gag.com/gag/aqeMqbQ)
- - 👉 [I did it! Married this awesome Thai lady. Got her hooked on 9gag 6 years back so help me out with a upvote so she can see herself!](http://9gag.com/gag/aEqK9Ex)<!-- MEMES:END -->
+ - 6️⃣ [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
+ - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 👉 [Lena Anderson.. went to dentist](http://9gag.com/gag/aBdzerO)<!-- MEMES:END -->
 
 --- 
 
