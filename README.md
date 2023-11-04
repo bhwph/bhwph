@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
+ - 6️⃣ [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
  - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 👉 [Lena Anderson.. went to dentist](http://9gag.com/gag/aBdzerO)<!-- MEMES:END -->
+ - 👉 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)<!-- MEMES:END -->
 
 --- 
 
