@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Pixel 8 Pro’s manual shutter speed is excellent… in some conditions](https://www.androidauthority.com/google-pixel-8-pro-manual-shutter-speed-3381704/)
- - [Apple is &#39;very pleased&#39; with its movie box office, says theater chain](https://appleinsider.com/articles/23/11/04/apple-is-very-pleased-with-its-movie-box-office-says-theater-chain?utm_medium=rss)
- - [The Echo Show 8 is still the smart display to beat](https://www.theverge.com/23945192/amazon-echo-show-8-alexa-smart-display-review)<!-- TECH:END -->
+ - [Daily deals Nov. 4: MacBooks from $360, AirTag 4-pack for $87, $270 off Roborock Q7 Max Robot Vacuum &amp; Mop, more](https://appleinsider.com/articles/23/11/04/daily-deals-nov-4-macbooks-from-360-airtag-4-pack-for-87-270-off-roborock-q7-max-robot-vacuum-mop-more?utm_medium=rss)
+ - [Best Fitting T-Shirts for Men &lpar;According to a Savile Row Tailor&rpar;](https://www.wired.com/gallery/best-fitting-t-shirts-men/)
+ - [Byju&#39;s files much-delayed financial results: $270.9M operating loss and revenue of $429.18M for FY ending March 2022, missing revenue projections of $1.25B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231104/p4#a231104p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
