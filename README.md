@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Crash Detection saves another life: mine](https://appleinsider.com/articles/23/11/04/apples-crash-detection-saves-another-life-mine?utm_medium=rss)
- - [Macs can now detect water in USB-C ports and spot warranty fraud](https://appleinsider.com/articles/23/11/04/macs-can-now-detect-water-in-usb-c-ports-and-spot-warranty-fraud?utm_medium=rss)
- - [The Good Doctor season 7: Plot, cast, release window, and more](https://www.androidauthority.com/the-good-doctor-season-7-release-date-3379221/)<!-- TECH:END -->
+ - [The Google Pixel 8 Pro’s manual shutter speed is excellent… in some conditions](https://www.androidauthority.com/google-pixel-8-pro-manual-shutter-speed-3381704/)
+ - [Apple is &#39;very pleased&#39; with its movie box office, says theater chain](https://appleinsider.com/articles/23/11/04/apple-is-very-pleased-with-its-movie-box-office-says-theater-chain?utm_medium=rss)
+ - [The Echo Show 8 is still the smart display to beat](https://www.theverge.com/23945192/amazon-echo-show-8-alexa-smart-display-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
