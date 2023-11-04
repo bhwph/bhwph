@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What Are You Doing In My Swamp?](http://9gag.com/gag/aGEvmjX)
- - 😝 [An absolute chad](http://9gag.com/gag/aqeMqWR)
- - 👉 [Mtsv v home](http://9gag.com/gag/armEQGX)<!-- MEMES:END -->
+ - 6️⃣ [Clutch](http://9gag.com/gag/ap97WO9)
+ - 😝 [Woke culture at it&#39;s best](http://9gag.com/gag/a7qg4qA)
+ - 👉 [Wake up Europe! On 03.11.2023: 3000 Islamists marched unopposed in Essen German calling for the establishment of a Kalifat.](http://9gag.com/gag/aOxEgBv)<!-- MEMES:END -->
 
 --- 
 
