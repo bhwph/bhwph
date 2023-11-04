@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kicked Off Someone Else&#39;s Netflix Account? Check Out This Tip to Save Your Netflix Profile     - CNET](https://www.cnet.com/tech/home-entertainment/kicked-off-of-someone-elses-netflix-account-check-out-this-tip-to-save-your-netflix-profile/#ftag=CAD590a51e)
- - [Android Phone Running Slow? Check Out These 7 Tips and Help Give Your Phone a Boost     - CNET](https://www.cnet.com/tech/mobile/android-phone-running-slow-check-out-these-7-tips-and-help-give-your-phone-a-boost/#ftag=CAD590a51e)
- - [Maximize Your Bars: 10 Ways to Improve Cellphone Signal on iPhone and Android     - CNET](https://www.cnet.com/tech/mobile/maximize-your-bars-10-ways-to-improve-cellphone-signal-on-iphone-and-android/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s Crash Detection saves another life: mine](https://appleinsider.com/articles/23/11/04/apples-crash-detection-saves-another-life-mine?utm_medium=rss)
+ - [Macs can now detect water in USB-C ports and spot warranty fraud](https://appleinsider.com/articles/23/11/04/macs-can-now-detect-water-in-usb-c-ports-and-spot-warranty-fraud?utm_medium=rss)
+ - [The Good Doctor season 7: Plot, cast, release window, and more](https://www.androidauthority.com/the-good-doctor-season-7-release-date-3379221/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
