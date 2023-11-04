@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China says it attended the UK AI Safety Summit&#39;s ministerial meeting on its second day, despite not being listed by the UK among the &quot;like-minded&quot; participants &lpar;Reuters&rpar;](http://www.techmeme.com/231103/p19#a231103p19)
- - [Microsoft employees will keep free access to Xbox Game Pass Ultimate after complaints](https://www.theverge.com/2023/11/3/23945294/microsoft-xbox-game-pass-ultimate-free-employee-perk-restored)
- - [Get a 1-year Sam&#39;s Club membership for $20 &amp; take the pain out of holiday shopping](https://appleinsider.com/articles/23/11/03/get-a-1-year-sams-club-membership-for-20-take-the-pain-out-of-holiday-shopping?utm_medium=rss)<!-- TECH:END -->
+ - [Emails: X has begun work on an account handle marketplace for purchasing handles left unused, requesting a flat fee of $50K from potential buyers in some cases &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231103/p22#a231103p22)
+ - [Best Xbox Cloud Gaming Controllers and Accessories in 2023     - CNET](https://www.cnet.com/tech/mobile/best-controllers-and-accessories-for-xbox-cloud-gaming/#ftag=CAD590a51e)
+ - [A security researcher says that a Flipper Zero device can carry out DoS attacks on iPhones running iOS 17 by continuously sending Bluetooth pairing requests &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231103/p21#a231103p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
