@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
+ - 6️⃣ [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
+ - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
  - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
 
 --- 
