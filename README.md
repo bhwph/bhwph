@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Six common US carrier practices you’d never see in most other countries](https://www.androidauthority.com/six-common-us-carrier-practices-youd-never-see-in-most-other-countries-3379418/)
- - [How chip companies are experimenting with new materials, including synthetic diamonds and ultrapure glass, to improve performance and combat heat in microchips &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/231104/p5#a231104p5)
- - [Best Ski Accessories for 2023: High-Tech Gear for the Winter     - CNET](https://www.cnet.com/tech/mobile/best-ski-gear-tech/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An eulogy for the Touch Bar, which held incredible promise but never got out of the proof-of-concept phase due to a lack of interest from developers and Apple &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/231104/p7#a231104p7)
+ - [Samsung T9 SSD review: Next-generation portable storage](https://appleinsider.com/articles/23/11/04/samsung-t9-ssd-review-next-generation-portable-storage?utm_medium=rss)
+ - [Discord plans to switch to temporary file links for all users by the end of 2023 to block attackers from using its CDN for hosting and pushing malware &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231104/p6#a231104p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
