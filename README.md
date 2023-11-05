@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m trying bros](http://9gag.com/gag/aYV69Gm)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 👉 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)<!-- MEMES:END -->
+ - 6️⃣ [Nice](http://9gag.com/gag/a6qgvne)
+ - 😝 [How the tables have turned](http://9gag.com/gag/aBdz7qx)
+ - 👉 [Never forget](http://9gag.com/gag/aBdzq0A)<!-- MEMES:END -->
 
 --- 
 
