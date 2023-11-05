@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Still no reported arrests in Burlingame Apple Store thefts](https://appleinsider.com/articles/23/11/05/crime-blotter-still-no-reported-arrests-in-burlingame-apple-store-thefts?utm_medium=rss)
- - [Where the Hell Is X CEO Linda Yaccarino?](https://www.wired.com/story/linda-yaccarino-elon-musk-x/)
- - [Here’s Everything You Can Do With Copilot, the Generative AI Assistant on Windows 11](https://www.wired.com/story/microsoft-windows-11-copilot-generative-ai-assistant-tips/)<!-- TECH:END -->
+ - [Snapdragon 8 Gen 3 vs Snapdragon 8 Gen 2: What’s new and should you upgrade?](https://www.androidauthority.com/snapdragon-8-gen-3-vs-snapdragon-8-gen-2-3381660/)
+ - [20 Best Tech Books to Gift &lpar;2023&rpar;: Biographies, Startup Histories, Exposés](https://www.wired.com/gallery/best-tech-books-to-gift/)
+ - [5 Best GoPro Cameras &lpar;2023&rpar;: Compact, Budget, Accessories, and Tips](https://www.wired.com/gallery/best-gopro-hero-camera/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
