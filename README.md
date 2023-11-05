@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fake news and ridiculing the dead — what’s wrong with Microsoft’s AI news](https://www.theverge.com/2023/11/5/23947228/msn-microsoft-ai-news-false-headlines)
- - [Monochrome themes aren’t boring. The Nothing Phone 2 convinced me of that.](https://www.androidauthority.com/nothing-phone-2-monochrome-theme-3382235/)
- - [Despite limited progress, delegates at the UK&#39;s AI Safety Summit welcomed the discussions as a first step toward international collaboration on regulating AI &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/231105/p7#a231105p7)<!-- TECH:END -->
+ - [Kingston IronKey USB Type-C Keypad 200 review: Heavy security in a lightweight design](https://appleinsider.com/articles/23/11/05/kingston-ironkey-usb-type-c-keypad-200-review-heavy-security-in-a-lightweight-design?utm_medium=rss)
+ - [Giants vs. Raiders Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/giants-vs-raiders-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)
+ - [Cowboys vs. Eagles Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/cowboys-vs-eagles-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
