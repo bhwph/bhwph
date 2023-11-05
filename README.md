@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Everyone actually recognizes this instantly](http://9gag.com/gag/ay2rb58)
- - 😝 [Never forget](http://9gag.com/gag/aBdzq0A)
- - 👉 [An absolute chad](http://9gag.com/gag/aqeMqWR)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m trying bros](http://9gag.com/gag/aYV69Gm)
+ - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 👉 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)<!-- MEMES:END -->
 
 --- 
 
