@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you know you know](http://9gag.com/gag/ago9Rxv)
- - 😝 [OP martial arts of choice](http://9gag.com/gag/ay2ryyM)
- - 👉 [A different breed of trick or treater](http://9gag.com/gag/a8qNBb3)<!-- MEMES:END -->
+ - 6️⃣ [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
+ - 😝 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
+ - 👉 [It\u2019s so fluffy I\u2019m gonna die!](http://9gag.com/gag/aBdzANx)<!-- MEMES:END -->
 
 --- 
 
