@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 17 Can Auto-Delete Those Pesky Two-Factor Authentication Codes. Here&#39;s How     - CNET](https://www.cnet.com/tech/mobile/ios-17-can-auto-delete-those-pesky-two-factor-authentication-codes-heres-how/#ftag=CAD590a51e)
  - [Elon Musk&#39;s xAI releases its AI model Grok, which it says surpasses other models in its compute class, including ChatGPT-3.5, to a &quot;limited number&quot; of US users &lpar;xAI&rpar;](http://www.techmeme.com/231105/p3#a231105p3)
- - [A look at AI companies&#39; responses, including from Meta, Google, Microsoft, and Apple, to possible US Copyright Office changes around AI and copyrighted content &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231105/p4#a231105p4)
- - [Okta&#39;s autopsy report on its support system breach understated the role of a badly configured service account, the biggest contributing factor for the breach &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231105/p2#a231105p2)<!-- TECH:END -->
+ - [A look at AI companies&#39; responses, including from Meta, Google, Microsoft, and Apple, to possible US Copyright Office changes around AI and copyrighted content &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231105/p4#a231105p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
