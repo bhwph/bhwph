@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Putting inspirational and motivational quotes on pictures of people drinking alcohol can create hilarious effects. Give it a try, comment with your best results.](http://9gag.com/gag/agowrjv)
- - 😝 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)
- - 👉 [An absolute chad](http://9gag.com/gag/aqeMqWR)<!-- MEMES:END -->
+ - 6️⃣ [Wholesome Couple.... Let The Search Begin!](http://9gag.com/gag/aBdzqeA)
+ - 😝 [An absolute chad](http://9gag.com/gag/aqeMqWR)
+ - 👉 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)<!-- MEMES:END -->
 
 --- 
 
