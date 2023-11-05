@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 8 Gen 3 vs Snapdragon 8 Gen 2: What’s new and should you upgrade?](https://www.androidauthority.com/snapdragon-8-gen-3-vs-snapdragon-8-gen-2-3381660/)
- - [20 Best Tech Books to Gift &lpar;2023&rpar;: Biographies, Startup Histories, Exposés](https://www.wired.com/gallery/best-tech-books-to-gift/)
- - [5 Best GoPro Cameras &lpar;2023&rpar;: Compact, Budget, Accessories, and Tips](https://www.wired.com/gallery/best-gopro-hero-camera/)<!-- TECH:END -->
+ - [Apple couldn&#39;t get new iPads, AirPods ready for 2023 launches](https://appleinsider.com/articles/23/11/05/apple-couldnt-get-new-ipads-airpods-ready-for-2023-launches?utm_medium=rss)
+ - [Apple Car expected to arrive sometime before 2030](https://appleinsider.com/articles/23/11/05/apple-car-expected-to-arrive-sometime-before-2030?utm_medium=rss)
+ - [Daily deals Nov. 5: 15&quot; MacBook Air $1,049, $1,900 off M1 Max MacBook Pro, 26% off iPad mini, more](https://appleinsider.com/articles/23/11/05/daily-deals-nov-5-15-macbook-air-1049-1900-off-m1-max-macbook-pro-26-off-ipad-mini-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
