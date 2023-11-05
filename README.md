@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
- - 😝 [Post your finds my fellow degenerates!](http://9gag.com/gag/aeQzLAm)
- - 👉 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)<!-- MEMES:END -->
+ - 6️⃣ [If you know you know](http://9gag.com/gag/ago9Rxv)
+ - 😝 [OP martial arts of choice](http://9gag.com/gag/ay2ryyM)
+ - 👉 [A different breed of trick or treater](http://9gag.com/gag/a8qNBb3)<!-- MEMES:END -->
 
 --- 
 
