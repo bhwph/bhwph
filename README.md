@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
- - 😝 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
- - 👉 [It\u2019s so fluffy I\u2019m gonna die!](http://9gag.com/gag/aBdzANx)<!-- MEMES:END -->
+ - 6️⃣ [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
+ - 😝 [How the tables have turned](http://9gag.com/gag/aBdz7qx)
+ - 👉 [Good old memories](http://9gag.com/gag/a8qNPw6)<!-- MEMES:END -->
 
 --- 
 
