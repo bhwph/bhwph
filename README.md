@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wholesome Couple.... Let The Search Begin!](http://9gag.com/gag/aBdzqeA)
- - 😝 [An absolute chad](http://9gag.com/gag/aqeMqWR)
- - 👉 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)<!-- MEMES:END -->
+ - 6️⃣ [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
+ - 😝 [Error 404 white male not found](http://9gag.com/gag/a7qXLL2)
+ - 👉 [Old but gold](http://9gag.com/gag/az2y62Z)<!-- MEMES:END -->
 
 --- 
 
