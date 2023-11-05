@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Check out this open world martial arts tactical RPG with dozens of story paths](https://www.pcgamer.com/check-out-this-open-world-martial-arts-tactical-rpg-with-dozens-of-story-paths)
  - [Overwatch 2’s Mauga always had two guns — but it took time to get them ‘just right’](https://www.polygon.com/blizzcon/23947446/overwatch-2-mauga-abilities-ult-how-to-play-blizzcon-ow2)
- - [Pokémon Go Wooper Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/11/4/23944989/wooper-paldean-community-day-shiny-quagsire-clodsire)
- - [The return of Fortnite&#39;s original map brings a record-setting 6M concurrent players to the battle royale island](https://www.pcgamer.com/the-return-of-fortnites-original-map-brings-a-record-setting-6m-players-to-the-game)<!-- GAME:END -->
+ - [Pokémon Go Wooper Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/11/4/23944989/wooper-paldean-community-day-shiny-quagsire-clodsire)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
