@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is the way](http://9gag.com/gag/aL15RQx)
- - 😝 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
- - 👉 [In London, veterans holding the British flag are cautioned by Police.](http://9gag.com/gag/a7qXLXz)<!-- MEMES:END -->
+ - 6️⃣ [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
+ - 😝 [I got bamboozled, big time. Or maybe he is right](http://9gag.com/gag/aBd5R4O)
+ - 👉 [Best Halloween costume](http://9gag.com/gag/aYV5j8m)<!-- MEMES:END -->
 
 --- 
 
