@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Baldur&#39;s Gate 3 lets you use sausages as weapons, so of course one audacious player built a dual wielding &#39;Salami-mancer&#39; ready to take on the game&#39;s hardest difficulty](https://www.pcgamer.com/baldurs-gate-3-lets-you-use-sausages-as-weapons-so-of-course-one-audacious-player-built-a-dual-wielding-salami-mancer-ready-to-take-on-the-games-hardest-difficulty)
  - [Grounded&#39;s next update will add full-on creative tools allowing custom backyards and game modes](https://www.pcgamer.com/groundeds-next-update-will-add-a-full-on-creative-mode-allowing-custom-backyards-and-game-modes)
- - [Tommy Gun Witches is a free detective adventure about exactly what it sounds like](https://www.pcgamer.com/tommy-gun-witches-is-a-free-detective-adventure-about-exactly-what-it-sounds-like)
- - [The Talos Principle 2 brings in GLaDOS to roast itself for copying Portal: &quot;You came up with that? Oh. No, wait. I did.&quot;](https://www.pcgamer.com/the-talos-principle-2-brings-in-glados-to-roast-itself-for-copying-portal-you-came-up-with-that-oh-no-wait-i-did)<!-- GAME:END -->
+ - [Tommy Gun Witches is a free detective adventure about exactly what it sounds like](https://www.pcgamer.com/tommy-gun-witches-is-a-free-detective-adventure-about-exactly-what-it-sounds-like)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
