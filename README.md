@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #869 for Sunday, November 5](https://www.pcgamer.com/wordle-today-answer-869-november-5)
  - [Pokémon Go Wooper Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/11/4/23944989/wooper-paldean-community-day-shiny-quagsire-clodsire)
- - [Baldur&#39;s Gate 3 lets you use sausages as weapons, so of course one audacious player built a dual wielding &#39;Salami-mancer&#39; ready to take on the game&#39;s hardest difficulty](https://www.pcgamer.com/baldurs-gate-3-lets-you-use-sausages-as-weapons-so-of-course-one-audacious-player-built-a-dual-wielding-salami-mancer-ready-to-take-on-the-games-hardest-difficulty)
- - [Grounded&#39;s next update will add full-on creative tools allowing custom backyards and game modes](https://www.pcgamer.com/groundeds-next-update-will-add-a-full-on-creative-mode-allowing-custom-backyards-and-game-modes)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 lets you use sausages as weapons, so of course one audacious player built a dual wielding &#39;Salami-mancer&#39; ready to take on the game&#39;s hardest difficulty](https://www.pcgamer.com/baldurs-gate-3-lets-you-use-sausages-as-weapons-so-of-course-one-audacious-player-built-a-dual-wielding-salami-mancer-ready-to-take-on-the-games-hardest-difficulty)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
