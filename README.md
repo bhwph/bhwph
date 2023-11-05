@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go Wooper Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/11/4/23944989/wooper-paldean-community-day-shiny-quagsire-clodsire)
  - [Baldur&#39;s Gate 3 lets you use sausages as weapons, so of course one audacious player built a dual wielding &#39;Salami-mancer&#39; ready to take on the game&#39;s hardest difficulty](https://www.pcgamer.com/baldurs-gate-3-lets-you-use-sausages-as-weapons-so-of-course-one-audacious-player-built-a-dual-wielding-salami-mancer-ready-to-take-on-the-games-hardest-difficulty)
- - [Grounded&#39;s next update will add full-on creative tools allowing custom backyards and game modes](https://www.pcgamer.com/groundeds-next-update-will-add-a-full-on-creative-mode-allowing-custom-backyards-and-game-modes)
- - [Tommy Gun Witches is a free detective adventure about exactly what it sounds like](https://www.pcgamer.com/tommy-gun-witches-is-a-free-detective-adventure-about-exactly-what-it-sounds-like)<!-- GAME:END -->
+ - [Grounded&#39;s next update will add full-on creative tools allowing custom backyards and game modes](https://www.pcgamer.com/groundeds-next-update-will-add-a-full-on-creative-mode-allowing-custom-backyards-and-game-modes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
