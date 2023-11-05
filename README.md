@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the disparity between Amazon&#39;s drone delivery claims and the mundane reality, as only some small objects are delivered in perfect weather conditions &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/231104/p10#a231104p10)
- - [Researchers say AI models like GPT-4 respond with improved performance when prompted with emotional context, because of how such models handle nuanced prompts &lpar;Mike Young/AIModels.fyi&rpar;](http://www.techmeme.com/231104/p9#a231104p9)
- - [Analyst Analysis: Q4 2023 was OK, Q1 2024 could be surprisingly good](https://appleinsider.com/articles/23/11/04/analyst-analysis-q4-2023-was-ok-q1-2024-could-be-surprisingly-good?utm_medium=rss)<!-- TECH:END -->
+ - [A look at BlizzCon 2023, the first in-person since 2019, which saw updates for WoW and more, and wasn&#39;t sold out before the event began, unlike prior iterations &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/231105/p1#a231105p1)
+ - [Best Garmin Deals: Save Up to $500 on Garmin Wearables, Sporting Equipment and More     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)
+ - [A look at the disparity between Amazon&#39;s drone delivery claims and the mundane reality, as only some small objects are delivered in perfect weather conditions &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/231104/p10#a231104p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
