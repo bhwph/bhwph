@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Retro game streamer AshSaidHi built a lively community out of nostalgia](https://www.polygon.com/23922255/twitch-retro-stream-oblivion-ashsaidhi-twitchcon-2023)
- - [38 Years Ago, Nintendo Changed Pop Culture Forever](https://kotaku.com/nintendo-nes-38-anniversary-1850990829)
- - [The Marvels is a great reason to catch up on the MCU’s most underrated show](https://www.polygon.com/23943461/the-marvels-ms-marvel-kamala-khan-iman-vellani)<!-- GAME:END -->
+ - [Overwatch 2’s Mauga always had two guns — but it took time to get them ‘just right’](https://www.polygon.com/blizzcon/23947446/overwatch-2-mauga-abilities-ult-how-to-play-blizzcon-ow2)
+ - [Pokémon Go Wooper Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/11/4/23944989/wooper-paldean-community-day-shiny-quagsire-clodsire)
+ - [The return of Fortnite&#39;s original map brings a record-setting 6M concurrent players to the battle royale island](https://www.pcgamer.com/the-return-of-fortnites-original-map-brings-a-record-setting-6m-players-to-the-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
