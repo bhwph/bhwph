@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Google&#39;s real-time scanning in Play Protect for sideloaded apps: it didn&#39;t restrict five predatory loan apps and two fake apps from installing &lpar;TechCrunch&rpar;](http://www.techmeme.com/231104/p8#a231104p8)
- - [Apple sends threat alerts to iPhone users in Armenia](https://appleinsider.com/articles/23/11/04/apple-sends-threat-alerts-to-iphone-users-in-armenia?utm_medium=rss)
- - [The copyright fight over Fortnite dance moves is back on](https://www.theverge.com/2023/11/4/23946260/epic-fortnite-choreography-emote-lawsuit-ruling-overturned)<!-- TECH:END -->
+ - [Researchers say AI models like GPT-4 respond with improved performance when prompted with emotional context, because of how such models handle nuanced prompts &lpar;Mike Young/AIModels.fyi&rpar;](http://www.techmeme.com/231104/p9#a231104p9)
+ - [Analyst Analysis: Q4 2023 was OK, Q1 2024 could be surprisingly good](https://appleinsider.com/articles/23/11/04/analyst-analysis-q4-2023-was-ok-q1-2024-could-be-surprisingly-good?utm_medium=rss)
+ - [Best Password managers to protect your data on iOS and macOS](https://appleinsider.com/inside/ios/best/best-password-managers-to-protect-your-data-on-ios-and-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
