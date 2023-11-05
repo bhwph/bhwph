@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice](http://9gag.com/gag/a6qgvne)
- - 😝 [How the tables have turned](http://9gag.com/gag/aBdz7qx)
- - 👉 [Never forget](http://9gag.com/gag/aBdzq0A)<!-- MEMES:END -->
+ - 6️⃣ [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
+ - 😝 [Post your finds my fellow degenerates!](http://9gag.com/gag/aeQzLAm)
+ - 👉 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)<!-- MEMES:END -->
 
 --- 
 
