@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
- - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
- - 👉 [An absolute chad](http://9gag.com/gag/aqeMqWR)<!-- MEMES:END -->
+ - 6️⃣ [This is the way](http://9gag.com/gag/aL15RQx)
+ - 😝 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
+ - 👉 [In London, veterans holding the British flag are cautioned by Police.](http://9gag.com/gag/a7qXLXz)<!-- MEMES:END -->
 
 --- 
 
