@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I watched the forbidden episode of Bluey that Disney refuses to stream](https://www.polygon.com/23944767/bluey-disney-plus-dad-baby-deleted-episode)
- - [Wordle today: Hint and answer #869 for Sunday, November 5](https://www.pcgamer.com/wordle-today-answer-869-november-5)
- - [Pokémon Go Wooper Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/11/4/23944989/wooper-paldean-community-day-shiny-quagsire-clodsire)<!-- GAME:END -->
+ - [Retro game streamer AshSaidHi built a lively community out of nostalgia](https://www.polygon.com/23922255/twitch-retro-stream-oblivion-ashsaidhi-twitchcon-2023)
+ - [38 Years Ago, Nintendo Changed Pop Culture Forever](https://kotaku.com/nintendo-nes-38-anniversary-1850990829)
+ - [The Marvels is a great reason to catch up on the MCU’s most underrated show](https://www.polygon.com/23943461/the-marvels-ms-marvel-kamala-khan-iman-vellani)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
