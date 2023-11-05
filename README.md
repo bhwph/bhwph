@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I watched the forbidden episode of Bluey that Disney refuses to stream](https://www.polygon.com/23944767/bluey-disney-plus-dad-baby-deleted-episode)
  - [Wordle today: Hint and answer #869 for Sunday, November 5](https://www.pcgamer.com/wordle-today-answer-869-november-5)
- - [Pokémon Go Wooper Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/11/4/23944989/wooper-paldean-community-day-shiny-quagsire-clodsire)
- - [Baldur&#39;s Gate 3 lets you use sausages as weapons, so of course one audacious player built a dual wielding &#39;Salami-mancer&#39; ready to take on the game&#39;s hardest difficulty](https://www.pcgamer.com/baldurs-gate-3-lets-you-use-sausages-as-weapons-so-of-course-one-audacious-player-built-a-dual-wielding-salami-mancer-ready-to-take-on-the-games-hardest-difficulty)<!-- GAME:END -->
+ - [Pokémon Go Wooper Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/11/4/23944989/wooper-paldean-community-day-shiny-quagsire-clodsire)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
