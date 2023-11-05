@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17 Can Auto-Delete Those Pesky Two-Factor Authentication Codes. Here&#39;s How     - CNET](https://www.cnet.com/tech/mobile/ios-17-can-auto-delete-those-pesky-two-factor-authentication-codes-heres-how/#ftag=CAD590a51e)
- - [Elon Musk&#39;s xAI releases its AI model Grok, which it says surpasses other models in its compute class, including ChatGPT-3.5, to a &quot;limited number&quot; of US users &lpar;xAI&rpar;](http://www.techmeme.com/231105/p3#a231105p3)
- - [A look at AI companies&#39; responses, including from Meta, Google, Microsoft, and Apple, to possible US Copyright Office changes around AI and copyrighted content &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231105/p4#a231105p4)<!-- TECH:END -->
+ - [Crime blotter: Still no reported arrests in Burlingame Apple Store thefts](https://appleinsider.com/articles/23/11/05/crime-blotter-still-no-reported-arrests-in-burlingame-apple-store-thefts?utm_medium=rss)
+ - [Where the Hell Is X CEO Linda Yaccarino?](https://www.wired.com/story/linda-yaccarino-elon-musk-x/)
+ - [Here’s Everything You Can Do With Copilot, the Generative AI Assistant on Windows 11](https://www.wired.com/story/microsoft-windows-11-copilot-generative-ai-assistant-tips/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
