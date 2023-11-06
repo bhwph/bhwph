@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blue Eye Samurai is ‘revenge’ for one of Hollywood’s most underappreciated action directors](https://www.polygon.com/23945186/blue-eye-samurai-action-jane-wu-animation)
- - [Disney Lorcana’s second Cheshire Cat card hits hard](https://www.polygon.com/23944957/disney-lorcana-cheshire-cat-from-the-shadows-card-reveal-floodborn)
- - [Turns out you can speedrun Duolingo, and someone did an entire course in 24 hours](https://www.pcgamer.com/turns-out-you-can-speedrun-duolingo-and-someone-did-an-entire-course-in-24-hours)<!-- GAME:END -->
+ - [Venture Is Overwatch 2’s First Non-Binary Hero](https://kotaku.com/overwatch-2-venture-non-binary-blizzcon-1850994939)
+ - [The best action movies to watch at home right now](https://www.polygon.com/what-to-watch/23445652/best-action-movies-netflix-streaming-watch)
+ - [Nintendo&#39;s New Super Smash Bros. Ultimate OLED Switch Bundle Is A Great Holiday Deal](https://kotaku.com/nintendo-switch-super-smash-bros-ultimate-black-friday-1850994728)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
