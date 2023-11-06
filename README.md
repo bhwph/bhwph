@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Good old memories](http://9gag.com/gag/a8qNPw6)
- - 😝 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
+ - 😝 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
  - 👉 [Mental Abuse](http://9gag.com/gag/anzZpdL)<!-- MEMES:END -->
 
 --- 
