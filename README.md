@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [TikTok’s $1 billion creator fund is shutting down](https://www.theverge.com/2023/11/6/23949290/tiktok-creator-fund-discontinued-monetization-creativity-program)
- - [PlayStation is cutting off X sharing options](https://www.theverge.com/2023/11/6/23949343/playstation-x-sharing-options-ps5-ps4)<!-- TECH:END -->
+ - [Apple MacBook Pro &lpar;M3 Max, 16 Inch&rpar; Review: Untouchable Performance and Battery Life](https://www.wired.com/review/apple-macbook-pro-m3-max-16-inch/)
+ - [Lifetime access to Windows 11 Pro is on sale for $24.97 &lpar;85% off&rpar;](https://appleinsider.com/articles/23/07/06/lifetime-access-to-windows-11-professional-is-now-84-off-dropping-the-price-to-2997?utm_medium=rss)
+ - [Apple unveils trailer for heartwarming &#39;Velveteen Rabbit&#39; film coming November 22](https://appleinsider.com/articles/23/11/06/apple-unveils-trailer-for-heartwarming-velveteen-rabbit-film-coming-november-22?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
