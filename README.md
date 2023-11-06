@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Venture Is Overwatch 2’s First Non-Binary Hero](https://kotaku.com/overwatch-2-venture-non-binary-blizzcon-1850994939)
- - [The best action movies to watch at home right now](https://www.polygon.com/what-to-watch/23445652/best-action-movies-netflix-streaming-watch)
- - [Nintendo&#39;s New Super Smash Bros. Ultimate OLED Switch Bundle Is A Great Holiday Deal](https://kotaku.com/nintendo-switch-super-smash-bros-ultimate-black-friday-1850994728)<!-- GAME:END -->
+ - [Starfield community patchers are frustrated by the game’s lack of mod support: &#39;A lot of stuff is really broken compared to the other games&#39;](https://www.pcgamer.com/starfield-community-patchers-are-frustrated-by-the-games-lack-of-mod-support-a-lot-of-stuff-is-really-broken-compared-to-the-other-games)
+ - [20 years later, School of Rock still defines Richard Linklater’s career — and Jack Black’s](https://www.polygon.com/23945401/school-of-rock-jack-black-richard-linklater-20th-anniversary)
+ - [Modern Warfare III and Starfield Highlight An Obnoxious Trend](https://kotaku.com/install-size-modern-warfare-3-starfield-1850995344)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
