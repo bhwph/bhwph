@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WatchOS 10.1 killing your Apple Watch battery? A fix is coming soon!](https://www.androidauthority.com/apple-watch-watchos-10-1-battery-drain-fix-3382638/)
- - [Samsung to take on Apple with ambitious targets for AI-powered Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-series-ai-targets-3382608/)
- - [Musk’s ChatGPT rival ‘Grok’ can humor your requests for drug recipes](https://www.androidauthority.com/grok-xai-elon-musk-3382597/)<!-- TECH:END -->
+ - [WhatsApp&#39;s AI generates stickers of kids with guns when prompted with &quot;Palestine&quot;, but prompts for &quot;Israeli&quot; generate stickers of people who are mostly smiling &lpar;Johana Bhuiyan/The Guardian&rpar;](http://www.techmeme.com/231106/p2#a231106p2)
+ - [Updating to iOS 17? You&#39;ll Want to Check Out These Steps First     - CNET](https://www.cnet.com/tech/mobile/updating-to-ios-17-youll-want-to-check-out-these-steps-first/#ftag=CAD590a51e)
+ - [The World’s Broken Food System Costs $12.7 Trillion a Year](https://www.wired.com/story/hidden-cost-world-food-system/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
