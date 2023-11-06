@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Road rage in Austria](http://9gag.com/gag/a2KpNAY)
- - 😝 [Culture enrichment](http://9gag.com/gag/aDY5RGO)
- - 👉 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)<!-- MEMES:END -->
+ - 6️⃣ [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)
+ - 😝 [Road rage in Austria](http://9gag.com/gag/a2KpNAY)
+ - 👉 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)<!-- MEMES:END -->
 
 --- 
 
