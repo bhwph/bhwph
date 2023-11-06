@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)
- - 😝 [We are here](http://9gag.com/gag/aBd5RoO)
- - 👉 [Americlap](http://9gag.com/gag/aBd5KWO)<!-- MEMES:END -->
+ - 6️⃣ [Keep horror alive](http://9gag.com/gag/aME523P)
+ - 😝 [Americlap](http://9gag.com/gag/aBd5KWO)
+ - 👉 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)<!-- MEMES:END -->
 
 --- 
 
