@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We are here](http://9gag.com/gag/aBd5RoO)
- - 😝 [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
- - 👉 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)<!-- MEMES:END -->
+ - 6️⃣ [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
+ - 😝 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
+ - 👉 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)<!-- MEMES:END -->
 
 --- 
 
