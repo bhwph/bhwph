@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Palo Alto Networks is close to acquiring Tel Aviv-based startup Talon Cyber Security for $600M to $700M, and may announce the deal as soon as Monday &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/231105/p8#a231105p8)
- - [Best Multi-Gig Internet Plans of 2023     - CNET](https://www.cnet.com/home/internet/best-multi-gig-internet-plan/#ftag=CAD590a51e)
- - [Best Roku Deals: Up to $10 Off Top-Rated Streaming Devices     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp’s sticker AI is adding guns to prompts for Palestinian children](https://www.theverge.com/2023/11/5/23946732/whatsapp-ai-sticker-guns-palestine-israel)
+ - [Chinese startup 01.AI, launched in March 2023 by computer scientist Kai-Fu Lee, reaches a $1B+ valuation and releases its AI model Yi-34B in Chinese and English &lpar;Bloomberg&rpar;](http://www.techmeme.com/231105/p10#a231105p10)
+ - [ChatGPT subscribers may get a ‘GPT builder’ option soon](https://www.theverge.com/2023/11/5/23947720/openai-chatgpt-gpt-builder-chatbot-creator-gizmo-tool-rumor-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
