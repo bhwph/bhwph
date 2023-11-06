@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
- - 😝 [I got bamboozled, big time. Or maybe he is right](http://9gag.com/gag/aBd5R4O)
- - 👉 [Best Halloween costume](http://9gag.com/gag/aYV5j8m)<!-- MEMES:END -->
+ - 6️⃣ [We are here](http://9gag.com/gag/aBd5RoO)
+ - 😝 [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
+ - 👉 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)<!-- MEMES:END -->
 
 --- 
 
