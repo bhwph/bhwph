@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp&#39;s AI generates stickers of kids with guns when prompted with &quot;Palestine&quot;, but prompts for &quot;Israeli&quot; generate stickers of people who are mostly smiling &lpar;Johana Bhuiyan/The Guardian&rpar;](http://www.techmeme.com/231106/p2#a231106p2)
- - [Updating to iOS 17? You&#39;ll Want to Check Out These Steps First     - CNET](https://www.cnet.com/tech/mobile/updating-to-ios-17-youll-want-to-check-out-these-steps-first/#ftag=CAD590a51e)
- - [The World’s Broken Food System Costs $12.7 Trillion a Year](https://www.wired.com/story/hidden-cost-world-food-system/)<!-- TECH:END -->
+ - [German generative AI startup Aleph Alpha raised $500M+ from Schwarz Group, Bosch, and others to build data protection and security tools for sensitive sectors &lpar;Financial Times&rpar;](http://www.techmeme.com/231106/p7#a231106p7)
+ - [OLED for MacBook Air in 2027, iMac in 2028 claims dubious rumor](https://appleinsider.com/articles/23/11/06/oled-for-macbook-air-in-2027-imac-in-2028-claims-dubious-rumor?utm_medium=rss)
+ - [How to type special characters on your Mac](https://appleinsider.com/inside/macos/tips/how-to-type-special-characters-on-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
