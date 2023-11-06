@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Man&#39;s small iPhone order turns into $100,000 iPhone 15 Pro Max mix-up](https://appleinsider.com/articles/23/11/06/mans-small-iphone-order-turns-into-100000-iphone-15-pro-max-mix-up?utm_medium=rss)
- - [Huge Motorola deals knock up to $300 off the Edge and Razr flagships](https://www.androidauthority.com/motorola-deals-2023-3382830/)
- - [Fortnite’s new season shows just how much the game has changed](https://www.theverge.com/2023/11/6/23948555/fortnite-og-new-season)<!-- TECH:END -->
+ - [OpenAI is letting anyone create their own version of ChatGPT](https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform)
+ - [OpenAI turbocharges GPT-4 and makes it cheaper](https://www.theverge.com/2023/11/6/23948426/openai-gpt4-turbo-generative-ai-new-model)
+ - [OpenAI says ChatGPT has 100M weekly users and that over 2M developers are currently building on OpenAI&#39;s API, including over 92% of Fortune 500 companies &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231106/p25#a231106p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
