@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Football Manager 2024 best wonderkids and free transfers](https://www.pcgamer.com/football-manager-2024-best-wonderkids)
- - [Football Manager 2024 best free agents](https://www.pcgamer.com/football-manager-2024-best-free-agents)
- - [Intel CEO Pat Gelsinger candidly reveals where Intel dropped the ball in recent years](https://www.pcgamer.com/intel-ceo-pat-gelsinger-candidly-reveals-where-intel-dropped-the-ball-in-recent-years)<!-- GAME:END -->
+ - [Overwatch 2&#39;s latest hero doesn’t just look like the Moana guy, he directly references him too](https://www.pcgamer.com/overwatch-2s-latest-hero-doesnt-just-look-like-the-moana-guy-he-directly-references-him-too)
+ - [Baldur&#39;s Gate 3&#39;s incubus love fiend has a very revealing message printed on their bondage gear](https://www.pcgamer.com/baldurs-gate-3s-incubus-love-fiend-has-a-very-revealing-message-printed-on-their-bondage-gear)
+ - [Deus Ex: Human Revolution&#39;s flawless gameplay has aged better than its goofy vision of a future obsessed with robot arms](https://www.pcgamer.com/deus-ex-human-revolutions-flawless-gameplay-has-aged-better-than-its-goofy-vision-of-a-future-obsessed-with-robot-arms)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
