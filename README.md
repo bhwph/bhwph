@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good old memories](http://9gag.com/gag/a8qNPw6)
- - 😝 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
- - 👉 [Mental Abuse](http://9gag.com/gag/anzZpdL)<!-- MEMES:END -->
+ - 6️⃣ [Road rage in Austria](http://9gag.com/gag/a2KpNAY)
+ - 😝 [Culture enrichment](http://9gag.com/gag/aDY5RGO)
+ - 👉 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)<!-- MEMES:END -->
 
 --- 
 
