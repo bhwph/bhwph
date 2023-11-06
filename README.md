@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield community patchers are frustrated by the game’s lack of mod support: &#39;A lot of stuff is really broken compared to the other games&#39;](https://www.pcgamer.com/starfield-community-patchers-are-frustrated-by-the-games-lack-of-mod-support-a-lot-of-stuff-is-really-broken-compared-to-the-other-games)
- - [20 years later, School of Rock still defines Richard Linklater’s career — and Jack Black’s](https://www.polygon.com/23945401/school-of-rock-jack-black-richard-linklater-20th-anniversary)
- - [Modern Warfare III and Starfield Highlight An Obnoxious Trend](https://kotaku.com/install-size-modern-warfare-3-starfield-1850995344)<!-- GAME:END -->
+ - [Marvel quietly admits there’s too much MCU homework](https://www.polygon.com/23948889/marvel-spotlight-mcu-echo-standalone-too-many-movies-man)
+ - [Bored Ape owners suffer eye and skin injuries from UV lighting at a weekend NFT festival: &#39;Had so much pain and my whole skin is burned&#39;](https://www.pcgamer.com/bored-ape-owners-suffer-eye-and-skin-injuries-from-uv-lighting-at-a-weekend-nft-festival-had-so-much-pain-and-my-whole-skin-is-burned)
+ - [Latest Baldur’s Gate 3 Patch Nerfs Sex Speedruns](https://kotaku.com/bg3-patch-4-sex-speedrun-baldurs-gate-3-laezel-romance-1850989939)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
