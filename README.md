@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iOS 17.2 updates, more Matter devices, &amp; a smart wallet on HomeKit Insider](https://appleinsider.com/articles/23/11/06/new-ios-172-updates-more-matter-devices-a-smart-wallet-on-homekit-insider?utm_medium=rss)
- - [Apple does not have plans to release an Apple silicon version of the 27-inch iMac, encouraging buyers to consider a Mac Studio or Mac mini and Studio Display &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/231106/p15#a231106p15)
- - [8 Best Theraguns and Other Massage Guns &lpar;2023&rpar;: Top Alternatives and Tips](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)<!-- TECH:END -->
+ - [Man&#39;s small iPhone order turns into $100,000 iPhone 15 Pro Max mix-up](https://appleinsider.com/articles/23/11/06/mans-small-iphone-order-turns-into-100000-iphone-15-pro-max-mix-up?utm_medium=rss)
+ - [Huge Motorola deals knock up to $300 off the Edge and Razr flagships](https://www.androidauthority.com/motorola-deals-2023-3382830/)
+ - [Fortnite’s new season shows just how much the game has changed](https://www.theverge.com/2023/11/6/23948555/fortnite-og-new-season)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
