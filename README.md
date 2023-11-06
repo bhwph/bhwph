@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel quietly admits there’s too much MCU homework](https://www.polygon.com/23948889/marvel-spotlight-mcu-echo-standalone-too-many-movies-man)
- - [Bored Ape owners suffer eye and skin injuries from UV lighting at a weekend NFT festival: &#39;Had so much pain and my whole skin is burned&#39;](https://www.pcgamer.com/bored-ape-owners-suffer-eye-and-skin-injuries-from-uv-lighting-at-a-weekend-nft-festival-had-so-much-pain-and-my-whole-skin-is-burned)
- - [Latest Baldur’s Gate 3 Patch Nerfs Sex Speedruns](https://kotaku.com/bg3-patch-4-sex-speedrun-baldurs-gate-3-laezel-romance-1850989939)<!-- GAME:END -->
+ - [After Nickmercs reveals gambling is part of his new contract, xQc admits ‘everybody knows I am’ paid to gamble on-stream](https://www.pcgamer.com/after-nickmercs-reveals-gambling-is-part-of-his-new-contract-xqc-admits-everybody-knows-i-am-paid-to-gamble-on-stream)
+ - [Cities: Skylines 2 boss says there won&#39;t be paid DLC until &#39;performance issues are fixed&#39;](https://www.pcgamer.com/cities-skylines-2-boss-says-there-wont-be-paid-dlc-until-performance-issues-are-fixed)
+ - [New Burnout Game On Switch Eshop Is Just A Shameless Knockoff](https://kotaku.com/burnout-clone-knock-off-crappy-switch-game-last-of-us-1850996660)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
