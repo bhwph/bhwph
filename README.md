@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2&#39;s latest hero doesn’t just look like the Moana guy, he directly references him too](https://www.pcgamer.com/overwatch-2s-latest-hero-doesnt-just-look-like-the-moana-guy-he-directly-references-him-too)
- - [Baldur&#39;s Gate 3&#39;s incubus love fiend has a very revealing message printed on their bondage gear](https://www.pcgamer.com/baldurs-gate-3s-incubus-love-fiend-has-a-very-revealing-message-printed-on-their-bondage-gear)
- - [Deus Ex: Human Revolution&#39;s flawless gameplay has aged better than its goofy vision of a future obsessed with robot arms](https://www.pcgamer.com/deus-ex-human-revolutions-flawless-gameplay-has-aged-better-than-its-goofy-vision-of-a-future-obsessed-with-robot-arms)<!-- GAME:END -->
+ - [Blue Eye Samurai is ‘revenge’ for one of Hollywood’s most underappreciated action directors](https://www.polygon.com/23945186/blue-eye-samurai-action-jane-wu-animation)
+ - [Disney Lorcana’s second Cheshire Cat card hits hard](https://www.polygon.com/23944957/disney-lorcana-cheshire-cat-from-the-shadows-card-reveal-floodborn)
+ - [Turns out you can speedrun Duolingo, and someone did an entire course in 24 hours](https://www.pcgamer.com/turns-out-you-can-speedrun-duolingo-and-someone-did-an-entire-course-in-24-hours)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
