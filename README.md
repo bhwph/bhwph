@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [German generative AI startup Aleph Alpha raised $500M+ from Schwarz Group, Bosch, and others to build data protection and security tools for sensitive sectors &lpar;Financial Times&rpar;](http://www.techmeme.com/231106/p7#a231106p7)
- - [OLED for MacBook Air in 2027, iMac in 2028 claims dubious rumor](https://appleinsider.com/articles/23/11/06/oled-for-macbook-air-in-2027-imac-in-2028-claims-dubious-rumor?utm_medium=rss)
- - [How to type special characters on your Mac](https://appleinsider.com/inside/macos/tips/how-to-type-special-characters-on-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [New iOS 17.2 updates, more Matter devices, &amp; a smart wallet on HomeKit Insider](https://appleinsider.com/articles/23/11/06/new-ios-172-updates-more-matter-devices-a-smart-wallet-on-homekit-insider?utm_medium=rss)
+ - [Apple does not have plans to release an Apple silicon version of the 27-inch iMac, encouraging buyers to consider a Mac Studio or Mac mini and Studio Display &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/231106/p15#a231106p15)
+ - [8 Best Theraguns and Other Massage Guns &lpar;2023&rpar;: Top Alternatives and Tips](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
