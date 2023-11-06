@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is letting anyone create their own version of ChatGPT](https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform)
- - [OpenAI turbocharges GPT-4 and makes it cheaper](https://www.theverge.com/2023/11/6/23948426/openai-gpt4-turbo-generative-ai-new-model)
- - [OpenAI says ChatGPT has 100M weekly users and that over 2M developers are currently building on OpenAI&#39;s API, including over 92% of Fortune 500 companies &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231106/p25#a231106p25)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [TikTok’s $1 billion creator fund is shutting down](https://www.theverge.com/2023/11/6/23949290/tiktok-creator-fund-discontinued-monetization-creativity-program)
+ - [PlayStation is cutting off X sharing options](https://www.theverge.com/2023/11/6/23949343/playstation-x-sharing-options-ps5-ps4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
