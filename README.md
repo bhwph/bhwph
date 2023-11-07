@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hol up..](http://9gag.com/gag/aGE5VeX)
- - 😝 [Suddenly](http://9gag.com/gag/a8qOWDp)
- - 👉 [It may be full.](http://9gag.com/gag/aGE5w1w)<!-- MEMES:END -->
+ - 6️⃣ [Anti-dad spell against him](http://9gag.com/gag/a2KpYPd)
+ - 😝 [This is the way forward.](http://9gag.com/gag/aME5bw1)
+ - 👉 [Darude fanstorm](http://9gag.com/gag/axowZMW)<!-- MEMES:END -->
 
 --- 
 
