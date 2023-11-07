@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)
- - [A look at Neuralink after FDA trial approval: huge media coverage compared to rivals and worries over hype, but its tech is exciting and potentially miraculous &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/231107/p20#a231107p20)
- - [Jamf uncovers new Mac malware linked to known hacking group](https://appleinsider.com/articles/23/11/07/jamf-uncovers-new-mac-malware-linked-to-known-hacking-group?utm_medium=rss)<!-- TECH:END -->
+ - [Sony claims to fix the rolling shutter problem with its latest A9 III mirrorless camera](https://www.theverge.com/2023/11/7/23950504/sony-a9-iii-mirrorless-camera-global-shutter-price-release)
+ - [Galaxy S24’s biggest rumored feature may require a subscription](https://www.androidauthority.com/galaxy-s24-ai-subscription-3383330/)
+ - [Google Photos&#39; Magic Editor will now refuse to edit photos of ID cards, human faces and body parts, receipts, and other images of personally identifiable info &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/231107/p24#a231107p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
