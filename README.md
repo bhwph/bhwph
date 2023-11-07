@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This guy is my new spirit animal](http://9gag.com/gag/a8qOYXV)
- - 😝 [To denounce Islamophobia, the Italian leftist artist Pippa Bacca decided to hitchhike across the Middle East, in order to prove that its inhabitants were peaceful. Once she arrived in Turkey, she was raped and murdered. She was 33 years old.](http://9gag.com/gag/ajVw0Ww)
- - 👉 [If you know, you know what\u2019s going on.](http://9gag.com/gag/aeQwpA5)<!-- MEMES:END -->
+ - 6️⃣ [To denounce Islamophobia, the Italian leftist artist Pippa Bacca decided to hitchhike across the Middle East, in order to prove that its inhabitants were peaceful. Once she arrived in Turkey, she was raped and murdered. She was 33 years old.](http://9gag.com/gag/ajVw0Ww)
+ - 😝 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)
+ - 👉 [Syrian shot by Polish soldier after crossing Belarus border in \u201cunfortunate accident\u201d, say authorities](http://9gag.com/gag/ap9wBN8)<!-- MEMES:END -->
 
 --- 
 
