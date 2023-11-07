@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ancestry, MyHeritage, and 23andMe have begun notifying customers that their accounts will use 2FA by default, following the theft of millions of 23andMe records &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/231107/p30#a231107p30)
- - [Apple pauses iOS 18, macOS 15 work to stomp bugs now](https://appleinsider.com/articles/23/11/07/apple-pauses-ios-18-macos-15-work-to-stomp-bugs?utm_medium=rss)
- - [I went to Google’s new Visitor Experience in Mountain View, and here’s what it’s like!](https://www.androidauthority.com/google-visitor-experience-2023-3383005/)<!-- TECH:END -->
+ - [The Asus ROG Ally has fallen to an all-time low ahead of Black Friday](https://www.theverge.com/2023/11/7/23949043/asus-rog-ally-ember-smart-mug-philips-hue-festavia-christmas-lights-deal-sale)
+ - [Resident Evil 4 Remake on iPhone 15 Pro gets release date, pre-orders open](https://www.androidauthority.com/resident-evil-4-iphone-15-3383457/)
+ - [The 19 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
