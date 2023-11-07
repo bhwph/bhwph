@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Steam Deck&#39;s budget price tag is the reason I still rate it nearly two years on](https://www.pcgamer.com/the-steam-decks-budget-price-tag-is-the-reason-i-still-rate-it-nearly-two-years-on)
- - [Microsoft Flight Simulator Releases Local Legend 13: The SAAB B-17A](https://www.flightsimulator.com/microsoft-flight-simulator-releases-local-legend-13-the-saab-b-17a#new_tab)
- - [Asus and ASRock BIOS files provide yet more evidence AMD&#39;s cheap Phoenix laptop APU will rise on desktop](https://www.pcgamer.com/asus-and-asrock-bios-files-provide-yet-more-evidence-amds-cheap-phoenix-laptop-apu-will-rise-on-desktop)<!-- GAME:END -->
+ - [New Mass Effect Teasers Finally Confirm What We’ve All Been Guessing](https://kotaku.com/mass-effect-teaser-n7-day-andromeda-1850999958)
+ - [Night In The Woods Devs Cancel Highly Anticipated Follow-Up](https://kotaku.com/night-woods-revenant-hill-canceled-2017-indie-goty-1850999850)
+ - [BioWare is teasing the new Mass Effect for N7 Day, and I really wish they&#39;d just tell us what&#39;s going on](https://www.pcgamer.com/bioware-is-teasing-the-new-mass-effect-for-n7-day-and-i-really-wish-theyd-just-tell-us-whats-going-on)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
