@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Useless High effort](http://9gag.com/gag/a8qOW8e)
- - 😝 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
- - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
+ - 6️⃣ [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)
+ - 😝 [This guy is my new spirit animal](http://9gag.com/gag/a8qOYXV)
+ - 👉 [Cursed Title](http://9gag.com/gag/aGE5VO5)<!-- MEMES:END -->
 
 --- 
 
