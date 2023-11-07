@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Canon challenges ASML dominance with new chipmaking tech that could lead to cheaper chips](https://www.pcgamer.com/canon-challenges-asml-dominance-with-new-chipmaking-tech-that-could-lead-to-cheaper-chips)
- - [Can Chinchou be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23948692/can-chinchou-be-shiny-lanturn)
- - [Wordle today: Hint and answer #871 for Tuesday, November 7](https://www.pcgamer.com/wordle-today-answer-871-november-7)<!-- GAME:END -->
+ - [Jensen Huang thinks Jackie Chan would play him best in a biopic but he would &#39;do his own stunts&#39;](https://www.pcgamer.com/jensen-huang-thinks-jackie-chan-would-play-him-best-in-a-biopic-but-he-would-do-his-own-stunts)
+ - [Scarlett Johansson launches legal action in a case of AI imitating life imitating art](https://www.pcgamer.com/scarlett-johansson-launches-legal-action-in-a-case-of-ai-imitating-life-imitating-art)
+ - [Pokémon Go ‘Festival of Lights’ event guide, Timed Research steps and rewards](https://www.polygon.com/pokemon-go-guide/23950304/festival-of-lights-event-guide-timed-field-research-rewards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
