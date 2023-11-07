@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Last day on the job](http://9gag.com/gag/a9q07ML)
+ - 6️⃣ [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)
  - 😝 [Cursed Title](http://9gag.com/gag/aGE5VO5)
- - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
+ - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
 
 --- 
 
