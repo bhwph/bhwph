@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Modern Warfare 3’s campaign has finally unmoored Call of Duty](https://www.polygon.com/reviews/23949450/call-of-duty-modern-warfare-3-campaign-review)
- - [5 years after trying for a &#39;Valve-Counterstrike moment&#39; with Fortnite, the Epic Games Store still isn&#39;t turning a profit](https://www.pcgamer.com/5-years-after-trying-for-a-valve-counterstrike-moment-with-fortnite-the-epic-games-store-still-isnt-turning-a-profit)
- - [StarCraft could return, according to Blizzard president, but not necessarily as an RTS](https://www.pcgamer.com/starcraft-could-return-according-to-blizzard-president-but-not-necessarily-as-an-rts)<!-- GAME:END -->
+ - [New Burnout Game On Switch Eshop Is Just A Shameless Knockoff](https://kotaku.com/burnout-clone-knock-off-crappy-switch-game-last-of-us-1850996660)
+ - [Nintendo Disputes Switch 2 Rumors, Despite Credible Evidence](https://kotaku.com/nintendo-switch-2-rumors-activision-1850998489)
+ - [Assassin’s Creed Publisher Continues To Downsize, Lays Off More Staff](https://kotaku.com/assassin-s-creed-far-cry-ubisoft-montreal-layoffs-1850998477)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
