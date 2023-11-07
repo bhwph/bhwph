@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jensen Huang thinks Jackie Chan would play him best in a biopic but he would &#39;do his own stunts&#39;](https://www.pcgamer.com/jensen-huang-thinks-jackie-chan-would-play-him-best-in-a-biopic-but-he-would-do-his-own-stunts)
- - [Scarlett Johansson launches legal action in a case of AI imitating life imitating art](https://www.pcgamer.com/scarlett-johansson-launches-legal-action-in-a-case-of-ai-imitating-life-imitating-art)
- - [Pokémon Go ‘Festival of Lights’ event guide, Timed Research steps and rewards](https://www.polygon.com/pokemon-go-guide/23950304/festival-of-lights-event-guide-timed-field-research-rewards)<!-- GAME:END -->
+ - [Modern Warfare 3’s campaign has finally unmoored Call of Duty](https://www.polygon.com/reviews/23949450/call-of-duty-modern-warfare-3-campaign-review)
+ - [5 years after trying for a &#39;Valve-Counterstrike moment&#39; with Fortnite, the Epic Games Store still isn&#39;t turning a profit](https://www.pcgamer.com/5-years-after-trying-for-a-valve-counterstrike-moment-with-fortnite-the-epic-games-store-still-isnt-turning-a-profit)
+ - [StarCraft could return, according to Blizzard president, but not necessarily as an RTS](https://www.pcgamer.com/starcraft-could-return-according-to-blizzard-president-but-not-necessarily-as-an-rts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
