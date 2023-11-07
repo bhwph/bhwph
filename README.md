@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese authorities took away game-streaming site DouYu&#39;s founder Chen Shaojie in October 2023; a source says to probe porn and gambling on DouYu &lpar;Financial Times&rpar;](http://www.techmeme.com/231107/p1#a231107p1)
- - [A recap of the first day of the Epic v. Google antitrust trial, where both sides made their opening statements and Epic Games Store head Steve Allison testified &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231106/p43#a231106p43)
- - [OpenAI&#39;s Custom GPT Apps Do Your Bidding video     - CNET](https://www.cnet.com/videos/openais-custom-gpt-apps-do-your-bidding/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the hurdles tech startups like Shield AI, which makes autonomous drones, face in competing for Pentagon funding against more entrenched weapons makers &lpar;New York Times&rpar;](http://www.techmeme.com/231107/p2#a231107p2)
+ - [Google is pushing out a fix for the troublesome Android 14 storage bug on Pixels](https://www.androidauthority.com/google-pixel-android-14-storage-bug-fix-rollout-3383177/)
+ - [Intensified Israeli Surveillance Has Put the West Bank on Lockdown](https://www.wired.com/story/israel-surveillance-state-out-of-control-west-bank/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
