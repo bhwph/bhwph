@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Intel scrapped a planned Vietnam investment in July 2023 that could have nearly doubled its operations, citing power supply and bureaucracy concerns &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/231107/p5#a231107p5)
- - [YouTube is testing generative AI in more places, including a chatbot of its own](https://www.androidauthority.com/youtube-generative-ai-comments-chatbot-3383195/)
- - [An interview with Blizzard President Mike Ybarra about the studio&#39;s future under Microsoft, the idea of releasing a game without live components, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231107/p4#a231107p4)<!-- TECH:END -->
+ - [Samsung launches a $99 S Pen Creator Edition in the US, offering a larger, Apple Pencil-like design while lacking some smart features from other S Pen models &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231107/p14#a231107p14)
+ - [Holiday Gifts Your In-Laws Will Love in 2023     - CNET](https://www.cnet.com/news/gifts-for-in-laws/#ftag=CAD590a51e)
+ - [Uber reports Q3 revenue up 11% YoY to $9.3B, a $221M net income, gross bookings up 21% YoY to $35.3B, trips up 25% YoY to 2.4B, and a record 6.5M drivers &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/231107/p13#a231107p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
