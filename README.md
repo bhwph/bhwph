@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI startup Vectara&#39;s Hallucination Evaluation Model: OpenAI&#39;s LLMs had the lowest hallucination rates, followed by Meta&#39;s; Google&#39;s PaLM-Chat had the highest &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/231106/p38#a231106p38)
- - [Sony says it&#39;s terminating X integration for PS5 and PS4 starting November 13, 2023, meaning users won&#39;t be able to post and view content on X from the consoles &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231106/p37#a231106p37)
- - [Meta says it is barring political advertisers from using its new generative AI advertising products &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/231106/p36#a231106p36)<!-- TECH:END -->
+ - [The WeWork soap opera’s latest episode includes filing for bankruptcy](https://www.theverge.com/2023/11/6/23948568/wework-bankruptcy-filing-chapter-11)
+ - [A look at OpenAI&#39;s custom GPT builder, which Sam Altman says the company wants to keep simple for now, and the risks in allowing anyone to create GPT agents &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231106/p41#a231106p41)
+ - [Understanding &#39;Hey Siri&#39; -- how to use it, commands, and more](https://appleinsider.com/inside/siri/tips/understanding-hey-siri----how-to-use-it-commands-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
