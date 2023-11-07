@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Keep horror alive](http://9gag.com/gag/aME523P)
- - 😝 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
- - 👉 [Its all lies!](http://9gag.com/gag/a9q0bxj)<!-- MEMES:END -->
+ - 6️⃣ [Hol up..](http://9gag.com/gag/aGE5VeX)
+ - 😝 [Suddenly](http://9gag.com/gag/a8qOWDp)
+ - 👉 [It may be full.](http://9gag.com/gag/aGE5w1w)<!-- MEMES:END -->
 
 --- 
 
