@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Mass Effect Teasers Finally Confirm What We’ve All Been Guessing](https://kotaku.com/mass-effect-teaser-n7-day-andromeda-1850999958)
- - [Night In The Woods Devs Cancel Highly Anticipated Follow-Up](https://kotaku.com/night-woods-revenant-hill-canceled-2017-indie-goty-1850999850)
- - [BioWare is teasing the new Mass Effect for N7 Day, and I really wish they&#39;d just tell us what&#39;s going on](https://www.pcgamer.com/bioware-is-teasing-the-new-mass-effect-for-n7-day-and-i-really-wish-theyd-just-tell-us-whats-going-on)<!-- GAME:END -->
+ - [Diablo IV Patch Brings Back Legendary Season One Buffs](https://kotaku.com/diablo-4-patch-notes-season-2-malignant-rings-1851000602)
+ - [Gnome locations in Fortnite OG Chapter 4 Season 5](https://www.polygon.com/fortnite-guide/23950688/gnome-locations-fortnite-og-chapter-4-season-5)
+ - [The Invincible: a Mind-Boggling, Hard Sci-Fi Adventure Set in a Retrofuture Timeline](https://news.xbox.com/en-us/2023/11/07/the-invincible-a-mind-boggling-hard-sci-fi-adventure/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
