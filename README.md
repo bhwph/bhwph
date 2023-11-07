@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple MacBook Pro &lpar;M3 Max, 16 Inch&rpar; Review: Untouchable Performance and Battery Life](https://www.wired.com/review/apple-macbook-pro-m3-max-16-inch/)
- - [Lifetime access to Windows 11 Pro is on sale for $24.97 &lpar;85% off&rpar;](https://appleinsider.com/articles/23/07/06/lifetime-access-to-windows-11-professional-is-now-84-off-dropping-the-price-to-2997?utm_medium=rss)
- - [Apple unveils trailer for heartwarming &#39;Velveteen Rabbit&#39; film coming November 22](https://appleinsider.com/articles/23/11/06/apple-unveils-trailer-for-heartwarming-velveteen-rabbit-film-coming-november-22?utm_medium=rss)<!-- TECH:END -->
+ - [Sony says it&#39;s terminating X integration for PS5 and PS4 starting November 13, 2023, meaning users won&#39;t be able to post and view content on X from the consoles &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231106/p37#a231106p37)
+ - [Meta says it is barring political advertisers from using its new generative AI advertising products &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/231106/p36#a231106p36)
+ - [Best VPN Deals: Top VPN Subscriptions From $2 a Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
