@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung launches a $99 S Pen Creator Edition in the US, offering a larger, Apple Pencil-like design while lacking some smart features from other S Pen models &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231107/p14#a231107p14)
- - [Holiday Gifts Your In-Laws Will Love in 2023     - CNET](https://www.cnet.com/news/gifts-for-in-laws/#ftag=CAD590a51e)
- - [Uber reports Q3 revenue up 11% YoY to $9.3B, a $221M net income, gross bookings up 21% YoY to $35.3B, trips up 25% YoY to 2.4B, and a record 6.5M drivers &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/231107/p13#a231107p13)<!-- TECH:END -->
+ - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)
+ - [A look at Neuralink after FDA trial approval: huge media coverage compared to rivals and worries over hype, but its tech is exciting and potentially miraculous &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/231107/p20#a231107p20)
+ - [Jamf uncovers new Mac malware linked to known hacking group](https://appleinsider.com/articles/23/11/07/jamf-uncovers-new-mac-malware-linked-to-known-hacking-group?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
