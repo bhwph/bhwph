@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)
- - 😝 [This guy is my new spirit animal](http://9gag.com/gag/a8qOYXV)
- - 👉 [Cursed Title](http://9gag.com/gag/aGE5VO5)<!-- MEMES:END -->
+ - 6️⃣ [Last day on the job](http://9gag.com/gag/a9q07ML)
+ - 😝 [Cursed Title](http://9gag.com/gag/aGE5VO5)
+ - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
 
 --- 
 
