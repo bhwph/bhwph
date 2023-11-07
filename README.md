@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [To denounce Islamophobia, the Italian leftist artist Pippa Bacca decided to hitchhike across the Middle East, in order to prove that its inhabitants were peaceful. Once she arrived in Turkey, she was raped and murdered. She was 33 years old.](http://9gag.com/gag/ajVw0Ww)
- - 😝 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)
- - 👉 [Syrian shot by Polish soldier after crossing Belarus border in \u201cunfortunate accident\u201d, say authorities](http://9gag.com/gag/ap9wBN8)<!-- MEMES:END -->
+ - 6️⃣ [Cursed Title](http://9gag.com/gag/aGE5VO5)
+ - 😝 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
+ - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
 
 --- 
 
