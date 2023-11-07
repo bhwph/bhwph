@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
- - 😝 [Americlap](http://9gag.com/gag/aBd5KWO)
- - 👉 [Keep horror alive](http://9gag.com/gag/aME523P)<!-- MEMES:END -->
+ - 6️⃣ [Keep horror alive](http://9gag.com/gag/aME523P)
+ - 😝 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
+ - 👉 [Its all lies!](http://9gag.com/gag/a9q0bxj)<!-- MEMES:END -->
 
 --- 
 
