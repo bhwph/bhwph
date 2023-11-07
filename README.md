@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After Nickmercs reveals gambling is part of his new contract, xQc admits ‘everybody knows I am’ paid to gamble on-stream](https://www.pcgamer.com/after-nickmercs-reveals-gambling-is-part-of-his-new-contract-xqc-admits-everybody-knows-i-am-paid-to-gamble-on-stream)
- - [Cities: Skylines 2 boss says there won&#39;t be paid DLC until &#39;performance issues are fixed&#39;](https://www.pcgamer.com/cities-skylines-2-boss-says-there-wont-be-paid-dlc-until-performance-issues-are-fixed)
- - [New Burnout Game On Switch Eshop Is Just A Shameless Knockoff](https://kotaku.com/burnout-clone-knock-off-crappy-switch-game-last-of-us-1850996660)<!-- GAME:END -->
+ - [Roblox Players Say Pro-Palestinian Games Are Being Taken Down [Update]](https://kotaku.com/roblox-pro-free-palestine-flag-israel-1850995445)
+ - [Diablo 4 still has 4 crucial issues to fix before the expansion launches next year](https://www.pcgamer.com/diablo-4-still-has-4-crucial-issues-to-fix-before-the-expansion-launches-next-year)
+ - [One of Embracer&#39;s top executives resigns and announces his own gaming company at the same time](https://www.pcgamer.com/one-of-embracers-top-executives-resigns-and-announces-his-own-gaming-company-at-the-same-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
