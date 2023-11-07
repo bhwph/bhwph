@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Asus ROG Ally has fallen to an all-time low ahead of Black Friday](https://www.theverge.com/2023/11/7/23949043/asus-rog-ally-ember-smart-mug-philips-hue-festavia-christmas-lights-deal-sale)
- - [Resident Evil 4 Remake on iPhone 15 Pro gets release date, pre-orders open](https://www.androidauthority.com/resident-evil-4-iphone-15-3383457/)
- - [The 19 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
+ - [macOS Sonoma and macOS Ventura updates are here with fixes for M3 Macs](https://appleinsider.com/articles/23/11/07/macos-sonoma-and-macos-ventura-updates-are-here-with-fixes-for-m3-macs?utm_medium=rss)
+ - [Apple rolls out HomePod software version 17.1.1](https://appleinsider.com/articles/23/11/07/apple-rolls-out-homepod-software-version-1711?utm_medium=rss)
+ - [Theo Von’s podcast is climbing the charts, with a little help from TikTok](https://www.theverge.com/2023/11/7/23951228/theo-vons-this-past-weekend-podcast-tiktok-james-corden-israel-palestine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
