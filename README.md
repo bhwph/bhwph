@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony claims to fix the rolling shutter problem with its latest A9 III mirrorless camera](https://www.theverge.com/2023/11/7/23950504/sony-a9-iii-mirrorless-camera-global-shutter-price-release)
- - [Galaxy S24’s biggest rumored feature may require a subscription](https://www.androidauthority.com/galaxy-s24-ai-subscription-3383330/)
- - [Google Photos&#39; Magic Editor will now refuse to edit photos of ID cards, human faces and body parts, receipts, and other images of personally identifiable info &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/231107/p24#a231107p24)<!-- TECH:END -->
+ - [Ancestry, MyHeritage, and 23andMe have begun notifying customers that their accounts will use 2FA by default, following the theft of millions of 23andMe records &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/231107/p30#a231107p30)
+ - [Apple pauses iOS 18, macOS 15 work to stomp bugs now](https://appleinsider.com/articles/23/11/07/apple-pauses-ios-18-macos-15-work-to-stomp-bugs?utm_medium=rss)
+ - [I went to Google’s new Visitor Experience in Mountain View, and here’s what it’s like!](https://www.androidauthority.com/google-visitor-experience-2023-3383005/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
