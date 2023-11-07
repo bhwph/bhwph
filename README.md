@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Burnout Game On Switch Eshop Is Just A Shameless Knockoff](https://kotaku.com/burnout-clone-knock-off-crappy-switch-game-last-of-us-1850996660)
- - [Nintendo Disputes Switch 2 Rumors, Despite Credible Evidence](https://kotaku.com/nintendo-switch-2-rumors-activision-1850998489)
- - [Assassin’s Creed Publisher Continues To Downsize, Lays Off More Staff](https://kotaku.com/assassin-s-creed-far-cry-ubisoft-montreal-layoffs-1850998477)<!-- GAME:END -->
+ - [The Steam Deck&#39;s budget price tag is the reason I still rate it nearly two years on](https://www.pcgamer.com/the-steam-decks-budget-price-tag-is-the-reason-i-still-rate-it-nearly-two-years-on)
+ - [Microsoft Flight Simulator Releases Local Legend 13: The SAAB B-17A](https://www.flightsimulator.com/microsoft-flight-simulator-releases-local-legend-13-the-saab-b-17a#new_tab)
+ - [Asus and ASRock BIOS files provide yet more evidence AMD&#39;s cheap Phoenix laptop APU will rise on desktop](https://www.pcgamer.com/asus-and-asrock-bios-files-provide-yet-more-evidence-amds-cheap-phoenix-laptop-apu-will-rise-on-desktop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
