@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the hurdles tech startups like Shield AI, which makes autonomous drones, face in competing for Pentagon funding against more entrenched weapons makers &lpar;New York Times&rpar;](http://www.techmeme.com/231107/p2#a231107p2)
- - [Google is pushing out a fix for the troublesome Android 14 storage bug on Pixels](https://www.androidauthority.com/google-pixel-android-14-storage-bug-fix-rollout-3383177/)
- - [Intensified Israeli Surveillance Has Put the West Bank on Lockdown](https://www.wired.com/story/israel-surveillance-state-out-of-control-west-bank/)<!-- TECH:END -->
+ - [Sources: Intel scrapped a planned Vietnam investment in July 2023 that could have nearly doubled its operations, citing power supply and bureaucracy concerns &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/231107/p5#a231107p5)
+ - [YouTube is testing generative AI in more places, including a chatbot of its own](https://www.androidauthority.com/youtube-generative-ai-comments-chatbot-3383195/)
+ - [An interview with Blizzard President Mike Ybarra about the studio&#39;s future under Microsoft, the idea of releasing a game without live components, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231107/p4#a231107p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
