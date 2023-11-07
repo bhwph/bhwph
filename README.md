@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anti-dad spell against him](http://9gag.com/gag/a2KpYPd)
- - 😝 [This is the way forward.](http://9gag.com/gag/aME5bw1)
- - 👉 [Darude fanstorm](http://9gag.com/gag/axowZMW)<!-- MEMES:END -->
+ - 6️⃣ [Alternate Universe at its finest](http://9gag.com/gag/ap9wqXE)
+ - 😝 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
+ - 👉 [Useless High effort](http://9gag.com/gag/a8qOW8e)<!-- MEMES:END -->
 
 --- 
 
