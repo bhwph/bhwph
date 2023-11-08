@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: October 2023’s top downloads](https://blog.playstation.com/2023/11/08/playstation-store-october-2023s-top-downloads/)
- - [For QTCinderella, events are a way to ease the toxicity of the internet](https://www.polygon.com/23949548/qtcinderella-interview-twitch-controversy)
- - [Grand Theft Auto VI Trailer Reveal Everyone&#39;s Waiting For Officially Happening In December](https://kotaku.com/grand-theft-auto-6-gta-trailer-release-date-1851002299)<!-- GAME:END -->
+ - [The Marvels Director Took Inspiration From A Final Fantasy Movie](https://kotaku.com/the-marvels-final-fantasy-7-advent-children-movie-1851002940)
+ - [Attack on Titan’s ending isn’t supposed to feel good](https://www.polygon.com/23950770/attack-on-titan-final-ending-episode-series-finale-eren)
+ - [Starfield’s Player Character Was Almost Voiced By These Companions](https://kotaku.com/starfield-voice-actor-sam-andreja-deus-ex-1851002744)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
