@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Marvels Director Took Inspiration From A Final Fantasy Movie](https://kotaku.com/the-marvels-final-fantasy-7-advent-children-movie-1851002940)
- - [Attack on Titan’s ending isn’t supposed to feel good](https://www.polygon.com/23950770/attack-on-titan-final-ending-episode-series-finale-eren)
- - [Starfield’s Player Character Was Almost Voiced By These Companions](https://kotaku.com/starfield-voice-actor-sam-andreja-deus-ex-1851002744)<!-- GAME:END -->
+ - [The best movies you can stream on Prime Video this month](https://www.polygon.com/streaming/22298985/best-movies-on-amazon-prime-video)
+ - [GigaBash Ultraman DLC, Ultra-Heroes &amp; Villains, Crosses over, and Patch 1.3 Updates](https://news.xbox.com/en-us/2023/11/08/gigabash-ultraman-dlc-and-patch-1-3-updates/)
+ - [Starfield&#39;s big DLSS update is now available in Steam beta](https://www.pcgamer.com/starfields-big-dlss-update-is-now-available-in-steam-beta)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
