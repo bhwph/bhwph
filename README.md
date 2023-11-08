@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)
- - 😝 [Cursed Title](http://9gag.com/gag/aGE5VO5)
- - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
+ - 6️⃣ [Does the deed but doesn&#39;t want to be famous...](http://9gag.com/gag/aoKw9eg)
+ - 😝 [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)
+ - 👉 [Just 5 minutes he said](http://9gag.com/gag/awZ2rp4)<!-- MEMES:END -->
 
 --- 
 
