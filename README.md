@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)
- - 😝 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
- - 👉 [Who the heck is running SVT?](http://9gag.com/gag/az2wjPq)<!-- MEMES:END -->
+ - 6️⃣ [True.](http://9gag.com/gag/agowGZq)
+ - 😝 [An Iranian holds `Hamas is Terrorist` sign in middle of Pro-Gaza protests.](http://9gag.com/gag/a1PjMRG)
+ - 👉 [True Love](http://9gag.com/gag/a4oyj6A)<!-- MEMES:END -->
 
 --- 
 
