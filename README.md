@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stars Wars Returns for a New Mission in Minecraft!](https://minecraft.net/article/star-wars-returns-new-mission#new_tab)
- - [GTA 6 will reportedly be announced this week ahead of December trailer](https://www.pcgamer.com/gta-6-will-reportedly-be-announced-this-week-ahead-of-december-trailer)
- - [Wordle today: Hint and answer #872 for Wednesday, November 8](https://www.pcgamer.com/wordle-today-answer-872-november-8)<!-- GAME:END -->
+ - [Tactical squad shooter Zero Hour has just got a chaotic new game mode](https://www.pcgamer.com/tactical-squad-shooter-zero-hour-has-just-got-a-chaotic-new-game-mode)
+ - [Critical Role&#39;s homegrown RPG, Candela Obscura, is a spooky secret society simulator that wears its influences on its sleeve—and that&#39;s a good thing](https://www.pcgamer.com/critical-roles-homegrown-rpg-candela-obscura-is-a-spooky-secret-society-simulator-that-wears-its-influences-on-its-sleeveand-thats-a-good-thing)
+ - [Stars Wars Returns for a New Mission in Minecraft!](https://minecraft.net/article/star-wars-returns-new-mission#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
