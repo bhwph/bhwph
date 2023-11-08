@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [True.](http://9gag.com/gag/agowGZq)
- - 😝 [An Iranian holds `Hamas is Terrorist` sign in middle of Pro-Gaza protests.](http://9gag.com/gag/a1PjMRG)
- - 👉 [True Love](http://9gag.com/gag/a4oyj6A)<!-- MEMES:END -->
+ - 6️⃣ [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
+ - 😝 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)
+ - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
 
 --- 
 
