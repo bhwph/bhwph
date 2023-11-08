@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
- - 😝 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)
- - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
+ - 6️⃣ [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
+ - 😝 [Burn the witch!](http://9gag.com/gag/aZD5po9)
+ - 👉 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)<!-- MEMES:END -->
 
 --- 
 
