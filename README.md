@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Does the deed but doesn&#39;t want to be famous...](http://9gag.com/gag/aoKw9eg)
- - 😝 [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)
- - 👉 [Just 5 minutes he said](http://9gag.com/gag/awZ2rp4)<!-- MEMES:END -->
+ - 6️⃣ [Lasers being used to prevent drivers from falling asleep on Chinese highway](http://9gag.com/gag/abvwyPv)
+ - 😝 [This one goes out for the boys. You guys have a chance now.](http://9gag.com/gag/aQE5xP8)
+ - 👉 [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)<!-- MEMES:END -->
 
 --- 
 
