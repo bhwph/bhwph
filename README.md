@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The CFTC says 47 of its 96 enforcement cases brought in 2023 were related to digital assets, including against SBF, Binance, CZ, Celsius, and Alex Mashinsky &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/231108/p33#a231108p33)
- - [15 Best Mattresses You Can Buy Online &lpar;2023&rpar;](https://www.wired.com/gallery/best-mattresses-3/)
- - [US DHS OIG report covering April 27 to August 17: &quot;thousands&quot; of apps installed on ICE-managed devices, likely including TikTok, may compromise DHS security &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/231108/p32#a231108p32)<!-- TECH:END -->
+ - [GitHub CEO Thomas Dohmke says Copilot has &quot;growing positive margins&quot; &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231108/p36#a231108p36)
+ - [Google is bringing its AI-powered search to more than 120 new countries and territories](https://www.theverge.com/2023/11/8/23951134/google-search-generative-experience-sge-expansion-120-countries-territories)
+ - [After silent update, the Kindle’s built-in web browser is no longer shit](https://www.androidauthority.com/amazon-kindle-web-browser-update-3383765/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
