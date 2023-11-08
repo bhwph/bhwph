@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [After you convince yourself you need it](http://9gag.com/gag/a1PjdwD)
- - 😝 [Burn the witch!](http://9gag.com/gag/aZD5po9)
- - 👉 [How many times!?](http://9gag.com/gag/axowgpp)<!-- MEMES:END -->
+ - 6️⃣ [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
+ - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
+ - 👉 [Why do women do this?](http://9gag.com/gag/amAwrZV)<!-- MEMES:END -->
 
 --- 
 
