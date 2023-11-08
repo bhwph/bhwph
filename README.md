@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies you can stream on Prime Video this month](https://www.polygon.com/streaming/22298985/best-movies-on-amazon-prime-video)
- - [GigaBash Ultraman DLC, Ultra-Heroes &amp; Villains, Crosses over, and Patch 1.3 Updates](https://news.xbox.com/en-us/2023/11/08/gigabash-ultraman-dlc-and-patch-1-3-updates/)
- - [Starfield&#39;s big DLSS update is now available in Steam beta](https://www.pcgamer.com/starfields-big-dlss-update-is-now-available-in-steam-beta)<!-- GAME:END -->
+ - [Valve is working on a new Steam feature that will let you hide all those weird sex games from your friends](https://www.pcgamer.com/valve-is-working-on-a-new-steam-feature-that-will-let-you-hide-all-those-weird-sex-games-from-your-friends)
+ - [Kotaku’s Top 10 Anime Of 2023, Ranked](https://kotaku.com/best-anime-2023-jujutsu-kaisen-one-piece-1851004166)
+ - [Fortnite OG is super weird as a Zero Build player](https://www.polygon.com/23952544/fortnite-og-map-zero-build-impressions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
