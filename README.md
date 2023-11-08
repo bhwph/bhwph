@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Amazon is developing a new LLM, codenamed Olympus, which could be announced by December and may power new features for the online store, Alexa, and AWS &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/231107/p48#a231107p48)
- - [Sources: employees at X are increasingly being asked to spend time working on xAI initiatives, as xAI is using GPUs that once belonged to Twitter &lpar;Platformer&rpar;](http://www.techmeme.com/231107/p47#a231107p47)
- - [Best Apple Watch Bands for 2023     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-bands/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AirPods discounted up to 50% in India with eligible iPhone 14 purchase](https://appleinsider.com/articles/23/11/08/airpods-discounted-up-to-50-in-india-with-eligible-iphone-14-purchase?utm_medium=rss)
+ - [Nintendo and Sony are making a live-action Legend of Zelda film](https://www.androidauthority.com/nintendo-legend-of-zelda-film-3383552/)
+ - [Samsung unveils a generative AI model called Gauss, which is being used for employee productivity internally and will be expanded to product applications &lpar;Cho Mu-Hyun/ZDNet&rpar;](http://www.techmeme.com/231107/p51#a231107p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
