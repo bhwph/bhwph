@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HSBC partners with Ripple to offer institutional clients a custody service for digital assets, expected to launch in 2024, complementing its HSBC Orion service &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/231108/p24#a231108p24)
- - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)
- - [Amazon’s latest Prime perk is a $100 discount on One Medical](https://www.theverge.com/2023/11/8/23952017/amazon-one-medical-prime-discount)<!-- TECH:END -->
+ - [The CFTC says 47 of its 96 enforcement cases brought in 2023 were related to digital assets, including against SBF, Binance, CZ, Celsius, and Alex Mashinsky &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/231108/p33#a231108p33)
+ - [15 Best Mattresses You Can Buy Online &lpar;2023&rpar;](https://www.wired.com/gallery/best-mattresses-3/)
+ - [US DHS OIG report covering April 27 to August 17: &quot;thousands&quot; of apps installed on ICE-managed devices, likely including TikTok, may compromise DHS security &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/231108/p32#a231108p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
