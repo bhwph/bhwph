@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What ??](http://9gag.com/gag/aKE5PZg)
- - 😝 [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)
- - 👉 [Jewish man killed by hamas supporter in LA.. no coverage in media.](http://9gag.com/gag/a9q0Pnj)<!-- MEMES:END -->
+ - 6️⃣ [After you convince yourself you need it](http://9gag.com/gag/a1PjdwD)
+ - 😝 [Burn the witch!](http://9gag.com/gag/aZD5po9)
+ - 👉 [How many times!?](http://9gag.com/gag/axowgpp)<!-- MEMES:END -->
 
 --- 
 
