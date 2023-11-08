@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitHub CEO Thomas Dohmke says Copilot has &quot;growing positive margins&quot; &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231108/p36#a231108p36)
- - [Google is bringing its AI-powered search to more than 120 new countries and territories](https://www.theverge.com/2023/11/8/23951134/google-search-generative-experience-sge-expansion-120-countries-territories)
- - [After silent update, the Kindle’s built-in web browser is no longer shit](https://www.androidauthority.com/amazon-kindle-web-browser-update-3383765/)<!-- TECH:END -->
+ - [Google’s generative AI search feature is now available in over 120 countries](https://www.androidauthority.com/google-search-ai-feature-3383827/)
+ - [Atlassian raises the severity rating of a vulnerability in its Confluence Data Center and Server to maximum, and confirms the flaw is being actively exploited &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/231108/p39#a231108p39)
+ - [YouTube pages are getting a TikTok-like For You feed](https://www.theverge.com/2023/11/8/23952539/youtube-for-you-channel-personalized-mix)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
