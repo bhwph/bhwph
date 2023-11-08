@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Watch 2 gets disappointing first ever update](https://www.androidauthority.com/pixel-watch-2-november-update-3383574/)
- - [In a letter, Google and EU telcos called on the European Commission to designate iMessage as a &quot;core&quot; service to make the chat app fully compatible with rivals &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231108/p3#a231108p3)
- - [Apple rolls out much-needed fix for Apple Watch battery drain issue](https://www.androidauthority.com/apple-watch-battery-drain-update-3383570/)<!-- TECH:END -->
+ - [How .tk, the ccTLD for New Zealand&#39;s Tokelau territory that until recently had more users than any other ccTLD, became a domain of choice for cybercriminals &lpar;Jacob Judah/MIT Technology Review&rpar;](http://www.techmeme.com/231108/p8#a231108p8)
+ - [Apple hits rare pause on iOS 18 development to kill bugs](https://www.androidauthority.com/apple-pauses-ios-18-development-3383597/)
+ - [Leica helped Xiaomi create a flagship phone that takes better photos than iPhone, and their partnership makes sense despite Xiaomi copying some elements of iOS &lpar;Sam Byford/Multicore&rpar;](http://www.techmeme.com/231108/p7#a231108p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
