@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s generative AI search feature is now available in over 120 countries](https://www.androidauthority.com/google-search-ai-feature-3383827/)
- - [Atlassian raises the severity rating of a vulnerability in its Confluence Data Center and Server to maximum, and confirms the flaw is being actively exploited &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/231108/p39#a231108p39)
- - [YouTube pages are getting a TikTok-like For You feed](https://www.theverge.com/2023/11/8/23952539/youtube-for-you-channel-personalized-mix)<!-- TECH:END -->
+ - [Unsealed court documents allegedly show how Mark Zuckerberg repeatedly thwarted initiatives meant to improve the well-being of teens on Facebook and Instagram &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/231108/p46#a231108p46)
+ - [Disney will start testing a combined Disney Plus and Hulu app next month](https://www.theverge.com/2023/11/8/23952835/disney-plus-hulu-combined-app-q4-2023-earnings)
+ - [Instacart reports Q3 revenue up 14% YoY to $764M, adjusted EBITDA up 120% to $163M vs. $119.5M est., and gross transaction value up 6% to $7.49B vs. $7.42B est. &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/231108/p45#a231108p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
