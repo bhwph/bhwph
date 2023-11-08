@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy S24 will likely include on-device generative AI called Samsung Gauss](https://www.theverge.com/2023/11/8/23951930/samsung-galaxy-s24-generative-ai-model-samsung-gauss)
- - [Ahead of the 2024 US election, Microsoft plans to offer a new free tool to help US politicians fight deepfakes by authenticating their videos and photos &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/231108/p11#a231108p11)
- - [Adobe&#39;s site for stock images lists AI-generated images of the Israel-Palestine conflict, and some small outlets have used them without labeling them as AI &lpar;Matt Growcoot/PetaPixel&rpar;](http://www.techmeme.com/231108/p10#a231108p10)<!-- TECH:END -->
+ - [Letters: Samsung, Qualcomm, and others oppose India&#39;s plan to use ATSC 3.0 to bring live TV to phones, saying the hardware changes will add $30+ to each device &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/231108/p19#a231108p19)
+ - [Microsoft offers politicians protection against deepfakes](https://www.theverge.com/2023/11/8/23951955/microsoft-elections-generative-ai-content-watermarks)
+ - [Amazon cuts the price of an annual One Medical membership from $199 to $99 for Prime users, part of its plans to significantly expand its health care footprint &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/231108/p18#a231108p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
