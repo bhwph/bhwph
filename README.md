@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Sonoma and macOS Ventura updates are here with fixes for M3 Macs](https://appleinsider.com/articles/23/11/07/macos-sonoma-and-macos-ventura-updates-are-here-with-fixes-for-m3-macs?utm_medium=rss)
- - [Apple rolls out HomePod software version 17.1.1](https://appleinsider.com/articles/23/11/07/apple-rolls-out-homepod-software-version-1711?utm_medium=rss)
- - [Theo Von’s podcast is climbing the charts, with a little help from TikTok](https://www.theverge.com/2023/11/7/23951228/theo-vons-this-past-weekend-podcast-tiktok-james-corden-israel-palestine)<!-- TECH:END -->
+ - [Document: Coatue cut the value of its $120M stake in OpenSea to $13M as of Q2 2023, implying a valuation of $1.4B or less, down from $13.3B in January 2022 &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/231107/p46#a231107p46)
+ - [Best Pixel 7 and Pixel 7 Pro Deals: $100 Off Pixel 7, Trade-In Savings and More     - CNET](https://www.cnet.com/deals/pixel-7-deals/#ftag=CAD590a51e)
+ - [Grab a Windows 11 Pro Lifetime License for just $24.97](https://appleinsider.com/articles/23/11/07/grab-a-windows-11-pro-lifetime-license-for-just-2497?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
