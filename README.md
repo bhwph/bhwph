@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve is working on a new Steam feature that will let you hide all those weird sex games from your friends](https://www.pcgamer.com/valve-is-working-on-a-new-steam-feature-that-will-let-you-hide-all-those-weird-sex-games-from-your-friends)
- - [Kotaku’s Top 10 Anime Of 2023, Ranked](https://kotaku.com/best-anime-2023-jujutsu-kaisen-one-piece-1851004166)
- - [Fortnite OG is super weird as a Zero Build player](https://www.polygon.com/23952544/fortnite-og-map-zero-build-impressions)<!-- GAME:END -->
+ - [It’s Time To Prove You Could Actually Kick Chucky’s Butt](https://kotaku.com/chucky-dead-by-daylight-killer-perks-steam-1851004968)
+ - [Everything we’ve heard about Grand Theft Auto 6, Rockstar’s next game](https://www.polygon.com/23952805/gta-6-grand-theft-auto-leaks-release-date-trailer)
+ - [How to complete the Imbaru Engine final puzzle in Destiny 2: Season of the Witch](https://www.polygon.com/destiny-2-guide-walkthrough/23952611/imbaru-engine-test-truth-lies-puzzle-solution-15th-wish)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
