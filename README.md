@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV Patch Brings Back Legendary Season One Buffs](https://kotaku.com/diablo-4-patch-notes-season-2-malignant-rings-1851000602)
- - [Gnome locations in Fortnite OG Chapter 4 Season 5](https://www.polygon.com/fortnite-guide/23950688/gnome-locations-fortnite-og-chapter-4-season-5)
- - [The Invincible: a Mind-Boggling, Hard Sci-Fi Adventure Set in a Retrofuture Timeline](https://news.xbox.com/en-us/2023/11/07/the-invincible-a-mind-boggling-hard-sci-fi-adventure/)<!-- GAME:END -->
+ - [Nintendo is making a live-action Zelda movie](https://www.pcgamer.com/nintendo-is-making-a-live-action-zelda-movie)
+ - [New Mass Effect teaser gives fans something to chew on for N7 Day](https://www.polygon.com/23951402/mass-effect-5-teaser-trailer-bioware-n7-day)
+ - [New Halo 1 cosmetic armor in Halo Infinite costs twice as much as Halo 1 itself, straining recent fan goodwill](https://www.pcgamer.com/new-halo-1-cosmetic-armor-in-halo-infinite-costs-twice-as-much-as-halo-1-itself-straining-recent-fan-goodwill)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
