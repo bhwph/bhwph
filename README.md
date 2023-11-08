@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Letters: Samsung, Qualcomm, and others oppose India&#39;s plan to use ATSC 3.0 to bring live TV to phones, saying the hardware changes will add $30+ to each device &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/231108/p19#a231108p19)
- - [Microsoft offers politicians protection against deepfakes](https://www.theverge.com/2023/11/8/23951955/microsoft-elections-generative-ai-content-watermarks)
- - [Amazon cuts the price of an annual One Medical membership from $199 to $99 for Prime users, part of its plans to significantly expand its health care footprint &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/231108/p18#a231108p18)<!-- TECH:END -->
+ - [HSBC partners with Ripple to offer institutional clients a custody service for digital assets, expected to launch in 2024, complementing its HSBC Orion service &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/231108/p24#a231108p24)
+ - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)
+ - [Amazon’s latest Prime perk is a $100 discount on One Medical](https://www.theverge.com/2023/11/8/23952017/amazon-one-medical-prime-discount)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
