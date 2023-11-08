@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods discounted up to 50% in India with eligible iPhone 14 purchase](https://appleinsider.com/articles/23/11/08/airpods-discounted-up-to-50-in-india-with-eligible-iphone-14-purchase?utm_medium=rss)
- - [Nintendo and Sony are making a live-action Legend of Zelda film](https://www.androidauthority.com/nintendo-legend-of-zelda-film-3383552/)
- - [Samsung unveils a generative AI model called Gauss, which is being used for employee productivity internally and will be expanded to product applications &lpar;Cho Mu-Hyun/ZDNet&rpar;](http://www.techmeme.com/231107/p51#a231107p51)<!-- TECH:END -->
+ - [Pixel Watch 2 gets disappointing first ever update](https://www.androidauthority.com/pixel-watch-2-november-update-3383574/)
+ - [In a letter, Google and EU telcos called on the European Commission to designate iMessage as a &quot;core&quot; service to make the chat app fully compatible with rivals &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231108/p3#a231108p3)
+ - [Apple rolls out much-needed fix for Apple Watch battery drain issue](https://www.androidauthority.com/apple-watch-battery-drain-update-3383570/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
