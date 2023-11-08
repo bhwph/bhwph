@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lasers being used to prevent drivers from falling asleep on Chinese highway](http://9gag.com/gag/abvwyPv)
+ - 6️⃣ [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)
  - 😝 [This one goes out for the boys. You guys have a chance now.](http://9gag.com/gag/aQE5xP8)
  - 👉 [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)<!-- MEMES:END -->
 
