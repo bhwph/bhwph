@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How .tk, the ccTLD for New Zealand&#39;s Tokelau territory that until recently had more users than any other ccTLD, became a domain of choice for cybercriminals &lpar;Jacob Judah/MIT Technology Review&rpar;](http://www.techmeme.com/231108/p8#a231108p8)
- - [Apple hits rare pause on iOS 18 development to kill bugs](https://www.androidauthority.com/apple-pauses-ios-18-development-3383597/)
- - [Leica helped Xiaomi create a flagship phone that takes better photos than iPhone, and their partnership makes sense despite Xiaomi copying some elements of iOS &lpar;Sam Byford/Multicore&rpar;](http://www.techmeme.com/231108/p7#a231108p7)<!-- TECH:END -->
+ - [Samsung’s Galaxy S24 will likely include on-device generative AI called Samsung Gauss](https://www.theverge.com/2023/11/8/23951930/samsung-galaxy-s24-generative-ai-model-samsung-gauss)
+ - [Ahead of the 2024 US election, Microsoft plans to offer a new free tool to help US politicians fight deepfakes by authenticating their videos and photos &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/231108/p11#a231108p11)
+ - [Adobe&#39;s site for stock images lists AI-generated images of the Israel-Palestine conflict, and some small outlets have used them without labeling them as AI &lpar;Matt Growcoot/PetaPixel&rpar;](http://www.techmeme.com/231108/p10#a231108p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
