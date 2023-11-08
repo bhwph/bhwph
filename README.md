@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tactical squad shooter Zero Hour has just got a chaotic new game mode](https://www.pcgamer.com/tactical-squad-shooter-zero-hour-has-just-got-a-chaotic-new-game-mode)
- - [Critical Role&#39;s homegrown RPG, Candela Obscura, is a spooky secret society simulator that wears its influences on its sleeve—and that&#39;s a good thing](https://www.pcgamer.com/critical-roles-homegrown-rpg-candela-obscura-is-a-spooky-secret-society-simulator-that-wears-its-influences-on-its-sleeveand-thats-a-good-thing)
- - [Stars Wars Returns for a New Mission in Minecraft!](https://minecraft.net/article/star-wars-returns-new-mission#new_tab)<!-- GAME:END -->
+ - [PlayStation Store: October 2023’s top downloads](https://blog.playstation.com/2023/11/08/playstation-store-october-2023s-top-downloads/)
+ - [For QTCinderella, events are a way to ease the toxicity of the internet](https://www.polygon.com/23949548/qtcinderella-interview-twitch-controversy)
+ - [Grand Theft Auto VI Trailer Reveal Everyone&#39;s Waiting For Officially Happening In December](https://kotaku.com/grand-theft-auto-6-gta-trailer-release-date-1851002299)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
