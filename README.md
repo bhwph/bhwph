@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)
- - [Free Play Days – Anno 1800, Naruto to Boruto: Shinobi Striker, Train Sim World 4, and Exoprimal](https://news.xbox.com/en-us/2023/11/09/free-play-days-anno-1800-naruto-to-boruto-shinobi-striker-train-sim-world-4-and-exoprimal/)
- - [A weak year for rom-coms finally gets a truly great one](https://www.polygon.com/23951958/colin-from-accounts-review-paramount-plus-best-rom-com)<!-- GAME:END -->
+ - [Braid: Anniversary Edition is finally coming in 2024 with 15 hours of developer commentary, and no I am not kidding](https://www.pcgamer.com/braid-anniversary-edition-is-coming-in-2024-with-15-hours-of-developer-commentary-and-no-i-am-not-kidding)
+ - [Steam Deck OLED vs Steam Deck LCD: what&#39;s inside](https://www.pcgamer.com/steam-deck-oled-vs-steam-deck-lcd-internal-comparison)
+ - [Valve just unveiled &#39;the definitive first generation Steam Deck&#39; with an OLED screen and new Sephiroth APU](https://www.pcgamer.com/valve-steam-deck-oled-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
