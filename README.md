@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Second watchOS 10.2 beta build now available to developers](https://appleinsider.com/articles/23/11/09/second-watchos-102-beta-build-now-available-to-developers?utm_medium=rss)
- - [Sources: Amazon is working on Vega, a new OS to replace Android on Fire TVs, smart displays, and other devices and could ship devices with the OS in 2024 &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/231109/p33#a231109p33)
- - [Apple&#39;s second tvOS 17.2 developer beta issued to testers](https://appleinsider.com/articles/23/11/09/apples-second-tvos-172-developer-beta-issued-to-testers?utm_medium=rss)<!-- TECH:END -->
+ - [A bankruptcy court allows Celsius Network to end its bankruptcy case, return some of its users&#39; deposits, and form a new company focused on mining and staking &lpar;Soma Biswas/Wall Street Journal&rpar;](http://www.techmeme.com/231109/p38#a231109p38)
+ - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)
+ - [The 18 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
