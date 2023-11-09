@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Free Map Set in the Icy Marmolada Glacier Tunnels in WW1 Isonzo: White War](https://news.xbox.com/en-us/2023/11/09/new-free-map-set-in-the-icy-marmolada-glacier-tunnels-in-ww1-isonzo-white-war/)
- - [Take-Two boss says Grand Theft Auto games rake in so much money, making a GTA movie isn&#39;t even worth the hassle](https://www.pcgamer.com/take-two-boss-says-grand-theft-auto-games-rake-in-so-much-money-making-a-gta-movie-isnt-even-worth-the-hassle)
- - [Xbox Insider Release Notes – Omega &lpar;2311.231106-1030&rpar;](https://news.xbox.com/en-us/2023/11/09/xbox-insider-release-notes-omega-2311-231106-1030/)<!-- GAME:END -->
+ - [Netflix’s live-action Avatar comes out February](https://www.polygon.com/23952601/avatar-last-airbender-netflix-release-date-live-action-trailer)
+ - [Report: New Mass Effect Release So Far Away &#39;It&#39;s In Another Galaxy&#39;](https://kotaku.com/mass-effect-4-5-bioware-teaser-release-date-2029-1851009417)
+ - [The Steam Deck&#39;s new clear plastic limited edition is giving me overpowering OLED envy, but I can&#39;t keep blowing money on these things](https://www.pcgamer.com/the-steam-decks-new-clear-plastic-limited-edition-is-giving-me-overpowering-oled-envy-but-i-cant-keep-blowing-money-on-these-things)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
