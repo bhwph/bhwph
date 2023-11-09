@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s redesigned TV app works more like your phone](https://www.theverge.com/2023/11/9/23953719/spotify-tv-app-redesign-update)
- - [Buzzy VR Startup Spatial Pivots Again—This Time to Games](https://www.wired.com/story/spatial-social-gaming/)
- - [12 Best Subscription Boxes for Kids &lpar;2023&rpar;: All Ages, STEM, Books, and Snacks](https://www.wired.com/gallery/best-subscription-boxes-for-kids/)<!-- TECH:END -->
+ - [Apple, Google, and Samsung are working with Schlage, Yale, Qualcomm, and others, to build Aliro, an open standard for smart locks and digital keys &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/231109/p28#a231109p28)
+ - [Your car can keep collecting your data after a judge dismissed a privacy lawsuit](https://www.theverge.com/2023/11/9/23953798/automakers-collect-record-text-messages-federal-judge-ruling)
+ - [Google is pulling Fitbit from loads of markets &lpar;Updated: Even more markets exited&rpar;](https://www.androidauthority.com/google-fitbit-exit-countries-3384006/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
