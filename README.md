@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
- - 😝 [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)
- - 👉 [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)<!-- MEMES:END -->
+ - 6️⃣ [Careful what you wish for](http://9gag.com/gag/a8qOy5Z)
+ - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
+ - 👉 [Replay: Old man and Jesus](http://9gag.com/gag/aBd5wqQ)<!-- MEMES:END -->
 
 --- 
 
