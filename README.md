@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wingspan designer’s The Fox Experiment helps evolve nature-themed board games](https://www.polygon.com/reviews/23952260/the-fox-experiment-review-board-game-hargrave-wingspan-creator)
- - [Why I dressed like a Castlevania vampire for an entire year](https://www.polygon.com/23935095/castlevania-cosplay-vampire-goth-fashion)
- - [Baldur&#39;s Gate 3 dev shows off the level of optimization achieved for the Xbox Series S port, which bodes well for future PC updates](https://www.pcgamer.com/baldurs-gate-3-dev-shows-off-the-level-of-optimization-achieved-for-the-xbox-series-s-port-which-bodes-well-for-future-pc-updates)<!-- GAME:END -->
+ - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)
+ - [Free Play Days – Anno 1800, Naruto to Boruto: Shinobi Striker, Train Sim World 4, and Exoprimal](https://news.xbox.com/en-us/2023/11/09/free-play-days-anno-1800-naruto-to-boruto-shinobi-striker-train-sim-world-4-and-exoprimal/)
+ - [A weak year for rom-coms finally gets a truly great one](https://www.polygon.com/23951958/colin-from-accounts-review-paramount-plus-best-rom-com)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
