@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unsealed court documents allegedly show how Mark Zuckerberg repeatedly thwarted initiatives meant to improve the well-being of teens on Facebook and Instagram &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/231108/p46#a231108p46)
- - [Disney will start testing a combined Disney Plus and Hulu app next month](https://www.theverge.com/2023/11/8/23952835/disney-plus-hulu-combined-app-q4-2023-earnings)
- - [Instacart reports Q3 revenue up 14% YoY to $764M, adjusted EBITDA up 120% to $163M vs. $119.5M est., and gross transaction value up 6% to $7.49B vs. $7.42B est. &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/231108/p45#a231108p45)<!-- TECH:END -->
+ - [Activision Blizzard is transitioning away from the Overwatch League to evolve the esports competition in a &quot;new direction&quot;; exiting teams may get a $6M payout &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/231108/p50#a231108p50)
+ - [Disney Swears It Can Make Streaming Profitable and Promises a Combined Disney+, Hulu Service](https://www.wired.com/story/disney-plus-streaming-profitability-hulu/)
+ - [Samsung details ‘Galaxy AI’ and a feature that can translate phone calls in real time](https://www.theverge.com/2023/11/8/23953198/samsung-galaxy-ai-live-translate-call)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
