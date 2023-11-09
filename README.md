@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is pulling Fitbit from loads of markets](https://www.androidauthority.com/google-fitbit-exit-countries-3384006/)
- - [Signal tests usernames so you can avoid sharing your phone number](https://www.theverge.com/2023/11/9/23953603/signal-username-feature-test-phone-numbers-privacy-security-pre-beta-2024-launch)
- - [A key advisor to the CJEU recommends setting aside a 2020 EU ruling that said Apple did not owe Ireland &amp;euro;13B+ in back taxes, a major blow to Apple and Ireland &lpar;Joe Brennan/The Irish Times&rpar;](http://www.techmeme.com/231109/p8#a231109p8)<!-- TECH:END -->
+ - [At what age should a kid get a phone?](https://www.androidauthority.com/what-age-should-a-kid-get-a-phone-3383821/)
+ - [&#39;Loki&#39; Season 2 Finale: Release Date and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/loki-season-2-finale-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)
+ - [US v. Google exposes Google&#39;s deepening rift with Microsoft, despite Satya Nadella&#39;s early attempts to make nice; four Microsoft witnesses have testified &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231109/p17#a231109p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
