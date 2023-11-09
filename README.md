@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At what age should a kid get a phone?](https://www.androidauthority.com/what-age-should-a-kid-get-a-phone-3383821/)
- - [&#39;Loki&#39; Season 2 Finale: Release Date and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/loki-season-2-finale-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)
- - [US v. Google exposes Google&#39;s deepening rift with Microsoft, despite Satya Nadella&#39;s early attempts to make nice; four Microsoft witnesses have testified &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231109/p17#a231109p17)<!-- TECH:END -->
+ - [Spotify’s redesigned TV app works more like your phone](https://www.theverge.com/2023/11/9/23953719/spotify-tv-app-redesign-update)
+ - [Buzzy VR Startup Spatial Pivots Again—This Time to Games](https://www.wired.com/story/spatial-social-gaming/)
+ - [12 Best Subscription Boxes for Kids &lpar;2023&rpar;: All Ages, STEM, Books, and Snacks](https://www.wired.com/gallery/best-subscription-boxes-for-kids/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
