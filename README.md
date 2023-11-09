@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hollywood Actors Strike Ends With a Deal That Will Impact AI and Streaming for Decades](https://www.wired.com/story/hollywood-actors-strike-ends-ai-streaming/)
- - [Twilio reports Q3 revenue up 5% YoY to $1.03B, vs. $985M est., 306K+ active customer accounts, vs. 280K+ YoY, and a Q4 guidance above estimates; TWLO jumps 7%+ &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/231108/p51#a231108p51)
- - [Hollywood actors reach tentative deal to end their strike](https://www.theverge.com/2023/11/8/23945647/hollywood-actors-sag-aftra-strike-contract-deal)<!-- TECH:END -->
+ - [A US judge rules that automakers&#39; use of on-board infotainment systems to record and intercept owners&#39; texts and call logs doesn&#39;t violate Washington state law &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/231108/p54#a231108p54)
+ - [NuPhy Air75 V2 review: Expanding wireless freedom while lessening latency](https://appleinsider.com/articles/23/11/09/nuphy-air75-v2-review-expanding-wireless-freedom-while-lessening-latency?utm_medium=rss)
+ - [Forget Bixby, Samsung announces ‘Galaxy AI’ for Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-ai-3383914/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
