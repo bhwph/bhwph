@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Braid: Anniversary Edition is finally coming in 2024 with 15 hours of developer commentary, and no I am not kidding](https://www.pcgamer.com/braid-anniversary-edition-is-coming-in-2024-with-15-hours-of-developer-commentary-and-no-i-am-not-kidding)
- - [Steam Deck OLED vs Steam Deck LCD: what&#39;s inside](https://www.pcgamer.com/steam-deck-oled-vs-steam-deck-lcd-internal-comparison)
- - [Valve just unveiled &#39;the definitive first generation Steam Deck&#39; with an OLED screen and new Sephiroth APU](https://www.pcgamer.com/valve-steam-deck-oled-announcement)<!-- GAME:END -->
+ - [New Free Map Set in the Icy Marmolada Glacier Tunnels in WW1 Isonzo: White War](https://news.xbox.com/en-us/2023/11/09/new-free-map-set-in-the-icy-marmolada-glacier-tunnels-in-ww1-isonzo-white-war/)
+ - [Take-Two boss says Grand Theft Auto games rake in so much money, making a GTA movie isn&#39;t even worth the hassle](https://www.pcgamer.com/take-two-boss-says-grand-theft-auto-games-rake-in-so-much-money-making-a-gta-movie-isnt-even-worth-the-hassle)
+ - [Xbox Insider Release Notes – Omega &lpar;2311.231106-1030&rpar;](https://news.xbox.com/en-us/2023/11/09/xbox-insider-release-notes-omega-2311-231106-1030/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
