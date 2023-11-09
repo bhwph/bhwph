@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Having to live in a building like this.](http://9gag.com/gag/ap9wQEp)
- - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
- - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
+ - 6️⃣ [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
+ - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - 👉 [Well bummer](http://9gag.com/gag/a04qbdv)<!-- MEMES:END -->
 
 --- 
 
