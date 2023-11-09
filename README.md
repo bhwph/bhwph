@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
- - 😝 [Well bummer](http://9gag.com/gag/a04qbdv)
- - 👉 [We both going down.](http://9gag.com/gag/aREdK7B)<!-- MEMES:END -->
+ - 6️⃣ [Oh dear](http://9gag.com/gag/ajVwqvp)
+ - 😝 [Good it didn&#39;t die from a heart attack](http://9gag.com/gag/aeQwGEv)
+ - 👉 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)<!-- MEMES:END -->
 
 --- 
 
