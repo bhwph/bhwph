@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
- - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 👉 [Well bummer](http://9gag.com/gag/a04qbdv)<!-- MEMES:END -->
+ - 6️⃣ [Secret handshake](http://9gag.com/gag/axowV2b)
+ - 😝 [We both going down.](http://9gag.com/gag/aREdK7B)
+ - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
 
 --- 
 
