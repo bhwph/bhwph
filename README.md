@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Careful what you wish for](http://9gag.com/gag/a8qOy5Z)
- - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
- - 👉 [Replay: Old man and Jesus](http://9gag.com/gag/aBd5wqQ)<!-- MEMES:END -->
+ - 6️⃣ [I don&#39;t think the car driver will be ever allowed to drive again](http://9gag.com/gag/aDY5zW9)
+ - 😝 [Omg everything is about you,and the things that can offend you.](http://9gag.com/gag/aVb5qqw)
+ - 👉 [No title](http://9gag.com/gag/aqew5DR)<!-- MEMES:END -->
 
 --- 
 
