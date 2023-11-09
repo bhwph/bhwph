@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Google, and Samsung are working with Schlage, Yale, Qualcomm, and others, to build Aliro, an open standard for smart locks and digital keys &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/231109/p28#a231109p28)
- - [Your car can keep collecting your data after a judge dismissed a privacy lawsuit](https://www.theverge.com/2023/11/9/23953798/automakers-collect-record-text-messages-federal-judge-ruling)
- - [Google is pulling Fitbit from loads of markets &lpar;Updated: Even more markets exited&rpar;](https://www.androidauthority.com/google-fitbit-exit-countries-3384006/)<!-- TECH:END -->
+ - [Second watchOS 10.2 beta build now available to developers](https://appleinsider.com/articles/23/11/09/second-watchos-102-beta-build-now-available-to-developers?utm_medium=rss)
+ - [Sources: Amazon is working on Vega, a new OS to replace Android on Fire TVs, smart displays, and other devices and could ship devices with the OS in 2024 &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/231109/p33#a231109p33)
+ - [Apple&#39;s second tvOS 17.2 developer beta issued to testers](https://appleinsider.com/articles/23/11/09/apples-second-tvos-172-developer-beta-issued-to-testers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
