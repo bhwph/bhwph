@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Magazine&#39;s 30th Anniversary Collector&#39;s Special Issue Is On Sale Now](https://www.pcgamer.com/pc-gamer-magazines-30th-anniversary-collectors-special-issue-is-on-sale-now)
- - [AMD&#39;s pre-RDNA graphics products are ready to be put out to pasture as active driver support winds down](https://www.pcgamer.com/amds-pre-rdna-graphics-products-are-ready-to-be-put-out-to-pasture-as-active-driver-support-winds-down)
- - [Wordle today: Hint and answer #873 for Thursday, November 9](https://www.pcgamer.com/wordle-today-answer-873-november-9)<!-- GAME:END -->
+ - [Wingspan designer’s The Fox Experiment helps evolve nature-themed board games](https://www.polygon.com/reviews/23952260/the-fox-experiment-review-board-game-hargrave-wingspan-creator)
+ - [Why I dressed like a Castlevania vampire for an entire year](https://www.polygon.com/23935095/castlevania-cosplay-vampire-goth-fashion)
+ - [Baldur&#39;s Gate 3 dev shows off the level of optimization achieved for the Xbox Series S port, which bodes well for future PC updates](https://www.pcgamer.com/baldurs-gate-3-dev-shows-off-the-level-of-optimization-achieved-for-the-xbox-series-s-port-which-bodes-well-for-future-pc-updates)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
