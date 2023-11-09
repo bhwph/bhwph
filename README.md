@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)
- - 😝 [Ready for a workout](http://9gag.com/gag/a4oy7y6)
- - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
+ - 6️⃣ [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - 😝 [Carnival practice in Brasil. The band and the dancers have to be always synchronized. They train themselves to perfection.](http://9gag.com/gag/a9q0A1Z)
+ - 👉 [Well bummer](http://9gag.com/gag/a04qbdv)<!-- MEMES:END -->
 
 --- 
 
