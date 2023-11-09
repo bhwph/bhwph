@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge rules that automakers&#39; use of on-board infotainment systems to record and intercept owners&#39; texts and call logs doesn&#39;t violate Washington state law &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/231108/p54#a231108p54)
- - [NuPhy Air75 V2 review: Expanding wireless freedom while lessening latency](https://appleinsider.com/articles/23/11/09/nuphy-air75-v2-review-expanding-wireless-freedom-while-lessening-latency?utm_medium=rss)
- - [Forget Bixby, Samsung announces ‘Galaxy AI’ for Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-ai-3383914/)<!-- TECH:END -->
+ - [Tech executives and officials detail how the Indian government used new rules, censorship, and law enforcement to break Twitter&#39;s resistance to takedown orders &lpar;Washington Post&rpar;](http://www.techmeme.com/231109/p3#a231109p3)
+ - [Bob Iger says Disney &quot;would like to stay&quot; in India as Hotstar struggles to avoid churn; Hotstar lost ~23M subscribers in the past year including 2.8M in Q4 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231109/p2#a231109p2)
+ - [WhatsApp confirms ads could be coming to the platform](https://www.androidauthority.com/whatsapp-ads-status-channels-3383928/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
