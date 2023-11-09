@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Secret handshake](http://9gag.com/gag/axowV2b)
- - 😝 [We both going down.](http://9gag.com/gag/aREdK7B)
- - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
+ - 😝 [When reality hits.](http://9gag.com/gag/aYV5xXq)
+ - 👉 [Damn women](http://9gag.com/gag/aA05Dyo)<!-- MEMES:END -->
 
 --- 
 
