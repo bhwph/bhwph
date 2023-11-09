@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Secret handshake](http://9gag.com/gag/axowV2b)
- - 😝 [When reality hits.](http://9gag.com/gag/aYV5xXq)
- - 👉 [Damn women](http://9gag.com/gag/aA05Dyo)<!-- MEMES:END -->
+ - 6️⃣ [Stefanie Germanotta &lpar;Lady Gaga&rpar; before she was famous](http://9gag.com/gag/avQwr1X)
+ - 😝 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
+ - 👉 [Well bummer](http://9gag.com/gag/a04qbdv)<!-- MEMES:END -->
 
 --- 
 
