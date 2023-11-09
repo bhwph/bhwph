@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t think the car driver will be ever allowed to drive again](http://9gag.com/gag/aDY5zW9)
- - 😝 [Omg everything is about you,and the things that can offend you.](http://9gag.com/gag/aVb5qqw)
- - 👉 [No title](http://9gag.com/gag/aqew5DR)<!-- MEMES:END -->
+ - 6️⃣ [Having to live in a building like this.](http://9gag.com/gag/ap9wQEp)
+ - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
+ - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
 
 --- 
 
