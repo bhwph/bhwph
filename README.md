@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU launches European Crowdfunding Service Provider Regulation, a uniform set of rules all crowdfunding platforms wishing to operate in the bloc must adhere to &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231110/p9#a231110p9)
- - [Microsoft wants answers on why you dare close OneDrive &lpar;Update: Changes reverted&rpar;](https://www.androidauthority.com/microsoft-onedrive-windows-forced-feedback-3384467/)
- - [The Marvel Movies From Worst to Best—and Where to Stream Them](https://www.wired.com/story/best-marvel-movies-ranked/)<!-- TECH:END -->
+ - [15 Best Apple Watch Accessories &lpar;2023&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
+ - [Fei-Fei Li Started an AI Revolution By Seeing Like an Algorithm](https://www.wired.com/story/plaintext-fei-fei-li-ai-revolution-seeing-imagenet-algorithm/)
+ - [Tech Disrupted Hollywood. AI Almost Destroyed It](https://www.wired.com/story/hollywood-actors-strike-ai-future-distruption/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
