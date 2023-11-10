@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 Best Apple Watch Accessories &lpar;2023&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
- - [Fei-Fei Li Started an AI Revolution By Seeing Like an Algorithm](https://www.wired.com/story/plaintext-fei-fei-li-ai-revolution-seeing-imagenet-algorithm/)
- - [Tech Disrupted Hollywood. AI Almost Destroyed It](https://www.wired.com/story/hollywood-actors-strike-ai-future-distruption/)<!-- TECH:END -->
+ - [Omegle was forced to shut down as part of a settlement of a user&#39;s lawsuit claiming its design enabled her to be sexually abused since when she was 11 &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/231110/p14#a231110p14)
+ - [Fresh OnePlus Watch 2 leak gives us first look at the design](https://www.androidauthority.com/onplus-watch-2-render-leak-3384581/)
+ - [Arlo’s new home security subscription service covers both hardware and monitoring](https://www.theverge.com/2023/11/10/23955231/arlo-diy-total-security-subscription-2k-pro-5s-cameras)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
