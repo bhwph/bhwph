@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Omegle was forced to shut down as part of a settlement of a user&#39;s lawsuit claiming its design enabled her to be sexually abused since when she was 11 &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/231110/p14#a231110p14)
- - [Fresh OnePlus Watch 2 leak gives us first look at the design](https://www.androidauthority.com/onplus-watch-2-render-leak-3384581/)
- - [Arlo’s new home security subscription service covers both hardware and monitoring](https://www.theverge.com/2023/11/10/23955231/arlo-diy-total-security-subscription-2k-pro-5s-cameras)<!-- TECH:END -->
+ - [The Garmin Black Friday sale launches with $250 off the Fenix 7S](https://www.androidauthority.com/garmin-black-friday-3384631/)
+ - [Future ANC headphones may let you pick which real world sounds to filter](https://www.androidauthority.com/headphone-selective-noise-cancelation-3384616/)
+ - [Verizon had a ‘No service’ and ‘SOS only’ outage today &lpar;Update: Back up&rpar;](https://www.androidauthority.com/verizon-is-down-3384515/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
