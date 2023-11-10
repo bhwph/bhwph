@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s live-action Avatar comes out February](https://www.polygon.com/23952601/avatar-last-airbender-netflix-release-date-live-action-trailer)
- - [Report: New Mass Effect Release So Far Away &#39;It&#39;s In Another Galaxy&#39;](https://kotaku.com/mass-effect-4-5-bioware-teaser-release-date-2029-1851009417)
- - [The Steam Deck&#39;s new clear plastic limited edition is giving me overpowering OLED envy, but I can&#39;t keep blowing money on these things](https://www.pcgamer.com/the-steam-decks-new-clear-plastic-limited-edition-is-giving-me-overpowering-oled-envy-but-i-cant-keep-blowing-money-on-these-things)<!-- GAME:END -->
+ - [WoW director says its most controversial new class specialization is OP because it had to be: &#39;The community is naturally skeptical of things they don&#39;t understand&#39;](https://www.pcgamer.com/wow-augmentation-evoker-overpowered-explanation)
+ - [World of Warcraft director says players who pay for early access to the next expansion won&#39;t have a &#39;long-term advantage&#39;](https://www.pcgamer.com/world-of-warcraft-director-says-players-who-pay-for-early-access-to-the-next-expansion-wont-have-a-long-term-advantage)
+ - [I can&#39;t believe this worked: There&#39;s a Task Manager trick to get into Modern Warfare 3 multiplayer hours before launch on Steam](https://www.pcgamer.com/modern-warfare-3-early-release-trick)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
