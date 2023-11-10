@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hans, you did it again!](http://9gag.com/gag/a9q0Ky1)
- - 😝 [Residents in Gaza blame Hamas for the current situation, claiming they are using them as human shields](http://9gag.com/gag/agow5oq)
- - 👉 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)<!-- MEMES:END -->
+ - 6️⃣ [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)
+ - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
+ - 👉 [Well bummer](http://9gag.com/gag/a04qbdv)<!-- MEMES:END -->
 
 --- 
 
