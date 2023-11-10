@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung might launch mid-range foldable phones next year](https://www.androidauthority.com/samsung-mid-range-foldable-phones-2024-3383935/)
- - [Update alert! One UI 6 finally rolling out in the US](https://www.androidauthority.com/one-ui-6-us-release-3384394/)
- - [Kai-Fu Lee, CEO of Chinese startup 01.AI, says the company stockpiled enough Nvidia chips to last for next 18 months before the US&#39;s China chip ban kicked in &lpar;Bloomberg&rpar;](http://www.techmeme.com/231110/p3#a231110p3)<!-- TECH:END -->
+ - [Apple now gives higher trade-ins for your Android, but Samsung still does it better](https://www.androidauthority.com/apple-increase-trade-in-values-products-android-3384407/)
+ - [This New Tool Aims to Keep Terrorism Content Off the Internet](https://www.wired.com/story/altitude-terrorism-content-removal-tool/)
+ - [Microsoft: MOVEit hackers are exploiting a zero-day flaw in IT support tool SysAid in &quot;limited&quot; attacks to access corporate servers and deploy Clop ransomware &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231110/p5#a231110p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
