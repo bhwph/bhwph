@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple now gives higher trade-ins for your Android, but Samsung still does it better](https://www.androidauthority.com/apple-increase-trade-in-values-products-android-3384407/)
- - [This New Tool Aims to Keep Terrorism Content Off the Internet](https://www.wired.com/story/altitude-terrorism-content-removal-tool/)
- - [Microsoft: MOVEit hackers are exploiting a zero-day flaw in IT support tool SysAid in &quot;limited&quot; attacks to access corporate servers and deploy Clop ransomware &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231110/p5#a231110p5)<!-- TECH:END -->
+ - [OPPO teases satellite connectivity in Find X7 Pro, but global launch remains uncertain](https://www.androidauthority.com/oppo-find-x7-pro-satellite-connectivity-3384431/)
+ - [Samsung’s first mid-range foldable could be cheaper than the Galaxy A54](https://www.androidauthority.com/samsung-mid-range-foldable-galaxy-z-flip-3384438/)
+ - [iPhone 16 to challenge Galaxy S24 with AI smarts next year: Leak](https://www.androidauthority.com/apple-iphone-16-ai-siri-3384406/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
