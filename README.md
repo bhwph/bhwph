@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)
+ - 6️⃣ [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
  - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
- - 👉 [Well bummer](http://9gag.com/gag/a04qbdv)<!-- MEMES:END -->
+ - 👉 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)<!-- MEMES:END -->
 
 --- 
 
