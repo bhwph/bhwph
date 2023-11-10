@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is the Feminism the world needs](http://9gag.com/gag/a4oy741)
- - 😝 [&#39;There always time for lubricant!&#39;](http://9gag.com/gag/a9q0pbj)
- - 👉 [Perfection!](http://9gag.com/gag/az2wqQm)<!-- MEMES:END -->
+ - 6️⃣ [Ready for a workout](http://9gag.com/gag/a4oy7y6)
+ - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
+ - 👉 [The video is called Bicycle Race](http://9gag.com/gag/a8qO3eY)<!-- MEMES:END -->
 
 --- 
 
