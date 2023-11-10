@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO teases satellite connectivity in Find X7 Pro, but global launch remains uncertain](https://www.androidauthority.com/oppo-find-x7-pro-satellite-connectivity-3384431/)
- - [Samsung’s first mid-range foldable could be cheaper than the Galaxy A54](https://www.androidauthority.com/samsung-mid-range-foldable-galaxy-z-flip-3384438/)
- - [iPhone 16 to challenge Galaxy S24 with AI smarts next year: Leak](https://www.androidauthority.com/apple-iphone-16-ai-siri-3384406/)<!-- TECH:END -->
+ - [EU launches European Crowdfunding Service Provider Regulation, a uniform set of rules all crowdfunding platforms wishing to operate in the bloc must adhere to &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231110/p9#a231110p9)
+ - [Microsoft wants answers on why you dare close OneDrive &lpar;Update: Changes reverted&rpar;](https://www.androidauthority.com/microsoft-onedrive-windows-forced-feedback-3384467/)
+ - [The Marvel Movies From Worst to Best—and Where to Stream Them](https://www.wired.com/story/best-marvel-movies-ranked/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
