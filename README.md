@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)
- - 😝 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
- - 👉 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)<!-- MEMES:END -->
+ - 6️⃣ [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
+ - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
+ - 👉 [Balenciaga](http://9gag.com/gag/a04qRzv)<!-- MEMES:END -->
 
 --- 
 
