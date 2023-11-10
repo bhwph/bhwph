@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
- - 😝 [Shocker](http://9gag.com/gag/aDY5z87)
- - 👉 [Uh uh...](http://9gag.com/gag/aBd5091)<!-- MEMES:END -->
+ - 6️⃣ [Oh dear](http://9gag.com/gag/ajVwqvp)
+ - 😝 [We both going down.](http://9gag.com/gag/aREdK7B)
+ - 👉 [Having to live in a building like this.](http://9gag.com/gag/ap9wQEp)<!-- MEMES:END -->
 
 --- 
 
