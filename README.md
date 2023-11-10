@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
- - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
- - 👉 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)<!-- MEMES:END -->
+ - 6️⃣ [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
+ - 😝 [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)
+ - 👉 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)<!-- MEMES:END -->
 
 --- 
 
