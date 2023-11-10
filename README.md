@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)
- - [The 42 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 43 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [New teaser for Netflix’s 3 Body Problem series will make you want to play the game](https://www.theverge.com/23955973/netflix-3-body-problem-teaser-trailer-release-date)
+ - [Netflix debuts Yu Yu Hakusho live-action trailer](https://www.theverge.com/23955649/netflix-yu-yu-hakusho-live-action-trailer)
+ - [LockBit leaks ~50GB of data that the ransomware gang claims to have stolen from Boeing in October, after the company apparently refused to pay the ransom demand &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/231110/p22#a231110p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
