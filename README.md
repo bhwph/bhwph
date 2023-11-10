@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh dear](http://9gag.com/gag/ajVwqvp)
- - 😝 [We both going down.](http://9gag.com/gag/aREdK7B)
- - 👉 [Having to live in a building like this.](http://9gag.com/gag/ap9wQEp)<!-- MEMES:END -->
+ - 6️⃣ [This is the Feminism the world needs](http://9gag.com/gag/a4oy741)
+ - 😝 [&#39;There always time for lubricant!&#39;](http://9gag.com/gag/a9q0pbj)
+ - 👉 [Perfection!](http://9gag.com/gag/az2wqQm)<!-- MEMES:END -->
 
 --- 
 
