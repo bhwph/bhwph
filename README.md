@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I cant believe this is a real headline.](http://9gag.com/gag/abvwpv8)
- - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
- - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
+ - 6️⃣ [Hans, you did it again!](http://9gag.com/gag/a9q0Ky1)
+ - 😝 [Residents in Gaza blame Hamas for the current situation, claiming they are using them as human shields](http://9gag.com/gag/agow5oq)
+ - 👉 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)<!-- MEMES:END -->
 
 --- 
 
