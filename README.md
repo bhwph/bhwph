@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The slim PlayStation 5 is now available to buy](https://www.polygon.com/deals/23954250/slim-ps5-playstation-5-where-to-buy)
- - [Movie delay be damned, Dune: Imperium - Uprising brings the battle for Arrakis home](https://www.polygon.com/reviews/23951334/dune-imperium-uprising-review)
- - [The best MMOs in 2023](https://www.pcgamer.com/the-best-mmos)<!-- GAME:END -->
+ - [Why Modern Warfare 3’s Vault Edition battle pass unlock is ‘not working’ at launch](https://www.polygon.com/modern-warfare-3-guides/2023/11/10/23955352/mw3-vault-edition-not-working-no-battle-pass)
+ - [The best early Black Friday deals](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)
+ - [Microsoft wants AI to solve problems devs say they don’t actually have](https://www.polygon.com/23954172/microsoft-inworld-ai-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
