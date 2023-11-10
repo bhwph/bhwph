@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta strikes a preliminary deal with Tencent to sell a new, lower-priced VR headset in China, beginning in late 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231109/p49#a231109p49)
- - [Adonit Note+ 2 review: A cost-effective alternative stylus](https://appleinsider.com/articles/23/11/10/adonit-note-2-review-a-cost-effective-alternative-stylus?utm_medium=rss)
- - [Qualcomm ends its partnership with Iridium to bring satellite connectivity to Android phones, after launching the Snapdragon Satellite platform in January 2023 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/231109/p48#a231109p48)<!-- TECH:END -->
+ - [Samsung might launch mid-range foldable phones next year](https://www.androidauthority.com/samsung-mid-range-foldable-phones-2024-3383935/)
+ - [Update alert! One UI 6 finally rolling out in the US](https://www.androidauthority.com/one-ui-6-us-release-3384394/)
+ - [Kai-Fu Lee, CEO of Chinese startup 01.AI, says the company stockpiled enough Nvidia chips to last for next 18 months before the US&#39;s China chip ban kicked in &lpar;Bloomberg&rpar;](http://www.techmeme.com/231110/p3#a231110p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
