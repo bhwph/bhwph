@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [SteamOS will be coming to other handhelds before you can install it on your PC &#39;because right now, it&#39;s very, very tuned for Steam Deck&#39;](https://www.pcgamer.com/steamos-on-handheld-pcs)
- - [New Cycle is a post-apocalyptic colony builder where each decision matters](https://www.pcgamer.com/new-cycle-is-a-post-apocalyptic-colony-builder-where-each-decision-matters)
- - [How to unlock all Mastery Camo in Call of Duty: Modern Warfare 3](https://www.pcgamer.com/call-of-duty-modern-warfare-2-mastery-camo-challenges)<!-- GAME:END -->
+ - [The slim PlayStation 5 is now available to buy](https://www.polygon.com/deals/23954250/slim-ps5-playstation-5-where-to-buy)
+ - [Movie delay be damned, Dune: Imperium - Uprising brings the battle for Arrakis home](https://www.polygon.com/reviews/23951334/dune-imperium-uprising-review)
+ - [The best MMOs in 2023](https://www.pcgamer.com/the-best-mmos)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
