@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
- - 😝 [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)
- - 👉 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)<!-- MEMES:END -->
+ - 6️⃣ [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)
+ - 😝 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
+ - 👉 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)<!-- MEMES:END -->
 
 --- 
 
