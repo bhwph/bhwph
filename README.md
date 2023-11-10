@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s David Fincher thriller The Killer never pays off its brilliant setup](https://www.polygon.com/reviews/23860173/the-killer-review-david-fincher-netflix-thriller-michael-fassbender)
- - [Modern Warfare III Maps Removed Due To Deadly Spawn Points](https://kotaku.com/cod-modern-warfare-3-maps-rundown-scrapyard-quarry-1851012260)
- - [Every Marvel Cinematic Universe TV show, ranked](https://www.polygon.com/tv/22561233/mcu-tv-shows-ranked-marvel-cinematic-universe)<!-- GAME:END -->
+ - [Steam Deck has sold &#39;multiple millions&#39; of units, Valve says](https://www.pcgamer.com/steam-deck-has-sold-multiple-millions-of-units-valve-says)
+ - [The Witcher: Sirens of the Deep brings Geralt back to Netflix in anime form](https://www.polygon.com/23954380/the-witcher-sirens-of-the-deep-netflix-anime-trailer-release-date)
+ - [Chaos At Domino’s After Free Pizza Glitch Goes Viral](https://kotaku.com/free-pizza-glitch-code-promo-dominos-canceled-orders-1851012935)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
