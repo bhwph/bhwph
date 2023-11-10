@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ready for a workout](http://9gag.com/gag/a4oy7y6)
- - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
- - 👉 [The video is called Bicycle Race](http://9gag.com/gag/a8qO3eY)<!-- MEMES:END -->
+ - 6️⃣ [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
+ - 😝 [Omg everything is about you,and the things that can offend you.](http://9gag.com/gag/aVb5qqw)
+ - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
 
 --- 
 
