@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Omegle Was Forced to Shut Down by a Lawsuit From a Sexual Abuse Survivor](https://www.wired.com/story/omegle-shutdown-lawsuit-child-sexual-abuse/)
- - [SpaceX found a legal workaround to block the DOJ’s discrimination lawsuit](https://www.theverge.com/2023/11/9/23954357/spacex-doj-hiring-discrimination-lawsuit-blocked-unconstitutional)
- - [Obamacare Call Center Staff Strike Over Steep Health Care Costs and Scarce Bathroom Breaks](https://www.wired.com/story/obamacare-call-center-strike-maximus/)<!-- TECH:END -->
+ - [Helsinki-based Noice, a game livestreaming service that lets viewers participate in the gameplay experience, raised a $21M Series A &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231109/p45#a231109p45)
+ - [Sundar Pichai will take the stand in Epic v. Google](https://www.theverge.com/2023/11/9/23954812/sundar-pichai-testify-epic-v-google)
+ - [Valve Index 2 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/valve-index-2-3378735/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
