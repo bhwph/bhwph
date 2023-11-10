@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 😝 [Carnival practice in Brasil. The band and the dancers have to be always synchronized. They train themselves to perfection.](http://9gag.com/gag/a9q0A1Z)
- - 👉 [Well bummer](http://9gag.com/gag/a04qbdv)<!-- MEMES:END -->
+ - 6️⃣ [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
+ - 😝 [Shocker](http://9gag.com/gag/aDY5z87)
+ - 👉 [Uh uh...](http://9gag.com/gag/aBd5091)<!-- MEMES:END -->
 
 --- 
 
