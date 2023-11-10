@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Modern Warfare 3’s Vault Edition battle pass unlock is ‘not working’ at launch](https://www.polygon.com/modern-warfare-3-guides/2023/11/10/23955352/mw3-vault-edition-not-working-no-battle-pass)
- - [The best early Black Friday deals](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)
- - [Microsoft wants AI to solve problems devs say they don’t actually have](https://www.polygon.com/23954172/microsoft-inworld-ai-announcement)<!-- GAME:END -->
+ - [Call of Duty: Modern Warfare III – How to Get Started in the New Zombies Mode](https://news.xbox.com/en-us/2023/11/10/call-of-duty-how-to-get-started-in-zombies/)
+ - [Scavengers Reign fans should check out this sci-fi eco-horror adventure game](https://www.polygon.com/23952818/the-invincible-impressions-pc-scavengers-reign)
+ - [Mortal Kombat Players Are Having A Blast With Busted Omni-Man](https://kotaku.com/mortal-kombat-1-omni-man-invincible-patch-notes-1851011786)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
