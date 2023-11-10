@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Modern Warfare III – How to Get Started in the New Zombies Mode](https://news.xbox.com/en-us/2023/11/10/call-of-duty-how-to-get-started-in-zombies/)
- - [Scavengers Reign fans should check out this sci-fi eco-horror adventure game](https://www.polygon.com/23952818/the-invincible-impressions-pc-scavengers-reign)
- - [Mortal Kombat Players Are Having A Blast With Busted Omni-Man](https://kotaku.com/mortal-kombat-1-omni-man-invincible-patch-notes-1851011786)<!-- GAME:END -->
+ - [Netflix’s David Fincher thriller The Killer never pays off its brilliant setup](https://www.polygon.com/reviews/23860173/the-killer-review-david-fincher-netflix-thriller-michael-fassbender)
+ - [Modern Warfare III Maps Removed Due To Deadly Spawn Points](https://kotaku.com/cod-modern-warfare-3-maps-rundown-scrapyard-quarry-1851012260)
+ - [Every Marvel Cinematic Universe TV show, ranked](https://www.polygon.com/tv/22561233/mcu-tv-shows-ranked-marvel-cinematic-universe)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
