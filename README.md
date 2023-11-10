@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Garmin Black Friday sale launches with $250 off the Fenix 7S](https://www.androidauthority.com/garmin-black-friday-3384631/)
- - [Future ANC headphones may let you pick which real world sounds to filter](https://www.androidauthority.com/headphone-selective-noise-cancelation-3384616/)
- - [Verizon had a ‘No service’ and ‘SOS only’ outage today &lpar;Update: Back up&rpar;](https://www.androidauthority.com/verizon-is-down-3384515/)<!-- TECH:END -->
+ - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)
+ - [The 42 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 43 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
