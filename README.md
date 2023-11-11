@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New teaser for Netflix’s 3 Body Problem series will make you want to play the game](https://www.theverge.com/23955973/netflix-3-body-problem-teaser-trailer-release-date)
- - [Netflix debuts Yu Yu Hakusho live-action trailer](https://www.theverge.com/23955649/netflix-yu-yu-hakusho-live-action-trailer)
- - [LockBit leaks ~50GB of data that the ransomware gang claims to have stolen from Boeing in October, after the company apparently refused to pay the ransom demand &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/231110/p22#a231110p22)<!-- TECH:END -->
+ - [SAG-AFTRA&#39;s deal would require studios to obtain consent before creating digital replicas of living and deceased actors, disclose their use, and pay to use them &lpar;Rolling Stone&rpar;](http://www.techmeme.com/231110/p25#a231110p25)
+ - [Arch, which provides operations and reporting services for private investments, raised a $20M Series A led by Menlo Ventures, taking its total funding to $25M+ &lpar;Diana Britton/Wealth Management&rpar;](http://www.techmeme.com/231110/p24#a231110p24)
+ - [Coach Mini Jacquard Wristlet     - CNET](https://www.cnet.com/culture/fashion/coach-mini-jacquard-wristlet-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
