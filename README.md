@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fun times at home](http://9gag.com/gag/ajVw9Vg)
- - 😝 [Plan](http://9gag.com/gag/amAwvvy)
- - 👉 [Did Simpsons predict the Las Vegas sphere ?](http://9gag.com/gag/a3Zrw95)<!-- MEMES:END -->
+ - 6️⃣ [The look](http://9gag.com/gag/aREdXv2)
+ - 😝 [F**k your kid](http://9gag.com/gag/abvwgbr)
+ - 👉 [Finally, it has begun](http://9gag.com/gag/aeQw5Qm)<!-- MEMES:END -->
 
 --- 
 
