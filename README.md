@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [After a surprise cyberattack, the world&#39;s largest bank had to shuffle a USB stick around Manhattan to do business](https://www.pcgamer.com/after-a-surprise-cyberattack-the-worlds-largest-bank-had-to-shuffle-a-usb-stick-around-manhattan-to-do-business)
  - [The Lost Boys paired vampire camp with real teenage fears](https://www.polygon.com/23953038/the-lost-boys-movie-retrospective)
- - [Sonic the Hedgehog’s new game melds Inception and Tony Hawk’s Pro Skater](https://www.polygon.com/23954423/sonic-dream-team-preview-release-date)
- - [The MCU teases a reboot for a new generation in The Marvels](https://www.polygon.com/23954016/marvels-young-avengers-kamala-khan-final-scene)<!-- GAME:END -->
+ - [Sonic the Hedgehog’s new game melds Inception and Tony Hawk’s Pro Skater](https://www.polygon.com/23954423/sonic-dream-team-preview-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
