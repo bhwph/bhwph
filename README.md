@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam Deck has sold &#39;multiple millions&#39; of units, Valve says](https://www.pcgamer.com/steam-deck-has-sold-multiple-millions-of-units-valve-says)
- - [The Witcher: Sirens of the Deep brings Geralt back to Netflix in anime form](https://www.polygon.com/23954380/the-witcher-sirens-of-the-deep-netflix-anime-trailer-release-date)
- - [Chaos At Domino’s After Free Pizza Glitch Goes Viral](https://kotaku.com/free-pizza-glitch-code-promo-dominos-canceled-orders-1851012935)<!-- GAME:END -->
+ - [Skip the grind: Call of Duty: Modern Warfare 3 Zombies lets you unlock any multiplayer gun in minutes](https://www.pcgamer.com/call-of-duty-modern-warfare-3-unlock-guns-zombies-exploit)
+ - [Deus Ex protagonist Adam Jensen&#39;s signature voice actor also wanted to do his motion capture, but was rejected for being too short: &#39;apparently, it was a lot of work to stretch me a couple inches&#39;](https://www.pcgamer.com/deus-ex-protagonist-adam-jensens-signature-voice-actor-also-wanted-to-do-his-motion-capture-but-was-rejected-for-being-too-short-apparently-it-was-a-lot-of-work-to-stretch-me-a-couple-inches)
+ - [Samwise Didier, who &#39;helped build Blizzard&#39;s signature art style,&#39; is retiring after more than 30 years at the company](https://www.pcgamer.com/samwise-didier-who-helped-build-blizzards-signature-art-style-is-retiring-after-more-than-30-years-at-the-company)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
