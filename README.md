@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-509-3384653/)
- - [Daily deals Nov. 11: $1,600 off M1 Max MacBook Pro, $250 off M3 Max MacBook, $10 Xbox Game Pass Ultimate, 25% off Parallels Desktop, more](https://appleinsider.com/articles/23/11/11/daily-deals-nov-11-1600-off-m1-max-macbook-pro-250-off-m3-max-macbook-10-xbox-game-pass-ultimate-25-off-parallels-desktop-more?utm_medium=rss)
- - [Pushy checkout screens are helping ‘tipflation’](https://www.theverge.com/2023/11/11/23955381/checkout-screens-tipping-pos-kiosk)<!-- TECH:END -->
+ - [&#39;The Beast Adjoins&#39; Is Seriously Creepy Sci-Fi](https://www.wired.com/2021/11/geeks-guide-beast-adjoins/)
+ - [Google&#39;s Jigsaw and Tech Against Terrorism launch Altitude, a free tool for smaller platforms to detect terrorist content on their networks and remove it &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/231111/p7#a231111p7)
+ - [Heybike Mars 2.0 e-bike review: a foldable with a pegboard rack that lacks some features](https://appleinsider.com/articles/23/11/11/heybike-mars-20-e-bike-review-a-foldable-with-a-pegboard-rack-that-lacks-some-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
