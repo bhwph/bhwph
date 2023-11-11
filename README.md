@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You hit WHAT!?](http://9gag.com/gag/avQwzbZ)
- - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
- - 👉 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)<!-- MEMES:END -->
+ - 6️⃣ [Fun times at home](http://9gag.com/gag/ajVw9Vg)
+ - 😝 [Plan](http://9gag.com/gag/amAwvvy)
+ - 👉 [Did Simpsons predict the Las Vegas sphere ?](http://9gag.com/gag/a3Zrw95)<!-- MEMES:END -->
 
 --- 
 
