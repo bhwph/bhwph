@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
+ - 6️⃣ [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
  - 😝 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
- - 👉 [Fun times at home](http://9gag.com/gag/ajVw9Vg)<!-- MEMES:END -->
+ - 👉 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)<!-- MEMES:END -->
 
 --- 
 
