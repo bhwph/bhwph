@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 8 Gen 3 vs Apple A17 Pro: A surprisingly even match-up](https://www.androidauthority.com/snapdragon-8-gen-3-vs-apple-a17-pro-3383666/)
- - [Loki’s season 2 finale dug deep to find a meaning in all of Marvel’s madness](https://www.theverge.com/23955559/loki-season-2-finale-review-disney-plus-marvel-mcu-kang)
- - [Signal Is Finally Testing Usernames](https://www.wired.com/story/signal-usernames/)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-509-3384653/)
+ - [Daily deals Nov. 11: $1,600 off M1 Max MacBook Pro, $250 off M3 Max MacBook, $10 Xbox Game Pass Ultimate, 25% off Parallels Desktop, more](https://appleinsider.com/articles/23/11/11/daily-deals-nov-11-1600-off-m1-max-macbook-pro-250-off-m3-max-macbook-10-xbox-game-pass-ultimate-25-off-parallels-desktop-more?utm_medium=rss)
+ - [Pushy checkout screens are helping ‘tipflation’](https://www.theverge.com/2023/11/11/23955381/checkout-screens-tipping-pos-kiosk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
