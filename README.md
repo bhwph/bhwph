@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After a surprise cyberattack, the world&#39;s largest bank had to shuffle a USB stick around Manhattan to do business](https://www.pcgamer.com/after-a-surprise-cyberattack-the-worlds-largest-bank-had-to-shuffle-a-usb-stick-around-manhattan-to-do-business)
- - [The Lost Boys paired vampire camp with real teenage fears](https://www.polygon.com/23953038/the-lost-boys-movie-retrospective)
- - [Sonic the Hedgehog’s new game melds Inception and Tony Hawk’s Pro Skater](https://www.polygon.com/23954423/sonic-dream-team-preview-release-date)<!-- GAME:END -->
+ - [Hades leads a major wave of game announcements from Netflix](https://www.polygon.com/23949285/netflix-games-2024-trailers-reveals)
+ - [Netflix’s new Terminator series gives the unstoppable killing machine its own anime](https://www.polygon.com/23955474/terminator-netflix-streaming-anime-release-date)
+ - [Netflix shows off its new Devil May Cry anime at Geeked Week](https://www.polygon.com/23955701/devil-may-cry-netflix-anime-trailer-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
