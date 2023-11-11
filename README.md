@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Online Grocery Stores &lpar;2023&rpar;: Produce, Snacks, Healthy Food](https://www.wired.com/gallery/best-online-grocery-stores/)
- - [Skiing Is Getting Riskier](https://www.wired.com/story/avalanche-threat-ski-risk/)
- - [35 Best Early Black Friday Deals &lpar;2023&rpar;: iPads and Scooters](https://www.wired.com/story/absolute-best-black-friday-deals/)<!-- TECH:END -->
+ - [Snapdragon 8 Gen 3 vs Apple A17 Pro: A surprisingly even match-up](https://www.androidauthority.com/snapdragon-8-gen-3-vs-apple-a17-pro-3383666/)
+ - [Loki’s season 2 finale dug deep to find a meaning in all of Marvel’s madness](https://www.theverge.com/23955559/loki-season-2-finale-review-disney-plus-marvel-mcu-kang)
+ - [Signal Is Finally Testing Usernames](https://www.wired.com/story/signal-usernames/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
