@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)
- - 😝 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
- - 👉 [Feminist Climbers](http://9gag.com/gag/aREdXqj)<!-- MEMES:END -->
+ - 6️⃣ [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
+ - 👉 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)<!-- MEMES:END -->
 
 --- 
 
