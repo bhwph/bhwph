@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
- - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
- - 👉 [Balenciaga](http://9gag.com/gag/a04qRzv)<!-- MEMES:END -->
+ - 😝 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
+ - 👉 [Fun times at home](http://9gag.com/gag/ajVw9Vg)<!-- MEMES:END -->
 
 --- 
 
