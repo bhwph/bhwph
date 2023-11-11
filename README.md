@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Marvel Comics killed Dracula over and over again](https://www.polygon.com/23945234/how-marvel-comics-killed-dracula-over-and-over-again)
- - [The best thrillers to watch on Netflix this November](https://www.polygon.com/what-to-watch/2023/11/11/23948633/best-thriller-movies-netflix-watch-november-2023)
- - [Wordle today: Hint and answer #875 for Saturday, November 11](https://www.pcgamer.com/wordle-today-answer-875-november-11)<!-- GAME:END -->
+ - [The MCU teases a reboot for a new generation in The Marvels](https://www.polygon.com/23954016/marvels-young-avengers-kamala-khan-final-scene)
+ - [Every color of Sony’s DualSense controller is $49.99](https://www.polygon.com/deals/23954493/best-gaming-deals-dualsense-xbox-series-x-ps5-free-games-black-friday)
+ - [Final Fantasy VII Rebirth Could Be Setting Up A Wild Zack Twist](https://kotaku.com/final-fantasy-vii-rebirth-ff7-zack-twist-1851009362)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
