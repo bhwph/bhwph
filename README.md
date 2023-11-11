@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
- - 😝 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
- - 👉 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)<!-- MEMES:END -->
+ - 6️⃣ [You hit WHAT!?](http://9gag.com/gag/avQwzbZ)
+ - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
+ - 👉 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)<!-- MEMES:END -->
 
 --- 
 
