@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
- - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
- - 👉 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)<!-- MEMES:END -->
+ - 6️⃣ [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)
+ - 😝 [Charcuterie\u2026 in THIS economy?!](http://9gag.com/gag/aXn1oyP)
+ - 👉 [Prada Villains Fashion Walk. Why don&#39;t we have more of these..](http://9gag.com/gag/agowBZ1)<!-- MEMES:END -->
 
 --- 
 
