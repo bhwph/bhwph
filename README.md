@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The look](http://9gag.com/gag/aREdXv2)
- - 😝 [F**k your kid](http://9gag.com/gag/abvwgbr)
- - 👉 [Finally, it has begun](http://9gag.com/gag/aeQw5Qm)<!-- MEMES:END -->
+ - 6️⃣ [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)
+ - 😝 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
+ - 👉 [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)<!-- MEMES:END -->
 
 --- 
 
