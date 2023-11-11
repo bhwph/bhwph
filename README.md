@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #875 for Saturday, November 11](https://www.pcgamer.com/wordle-today-answer-875-november-11)
- - [Skip the grind: Call of Duty: Modern Warfare 3 Zombies lets you unlock any multiplayer gun in minutes](https://www.pcgamer.com/call-of-duty-modern-warfare-3-unlock-guns-zombies-exploit)
- - [Deus Ex protagonist Adam Jensen&#39;s signature voice actor also wanted to do his motion capture, but was rejected for being too short: &#39;apparently, it was a lot of work to stretch me a couple inches&#39;](https://www.pcgamer.com/deus-ex-protagonist-adam-jensens-signature-voice-actor-also-wanted-to-do-his-motion-capture-but-was-rejected-for-being-too-short-apparently-it-was-a-lot-of-work-to-stretch-me-a-couple-inches)<!-- GAME:END -->
+ - [How Marvel Comics killed Dracula over and over again](https://www.polygon.com/23945234/how-marvel-comics-killed-dracula-over-and-over-again)
+ - [The best thrillers to watch on Netflix this November](https://www.polygon.com/what-to-watch/2023/11/11/23948633/best-thriller-movies-netflix-watch-november-2023)
+ - [Wordle today: Hint and answer #875 for Saturday, November 11](https://www.pcgamer.com/wordle-today-answer-875-november-11)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
