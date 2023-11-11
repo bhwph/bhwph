@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lofree Block Wireless Mechanical Keyboard review: Retro, with modern elements sprinkled throughout](https://appleinsider.com/articles/23/11/11/lofree-block-wireless-mechanical-keyboard-review-retro-with-modern-elements-sprinkled-throughout?utm_medium=rss)
- - [Ex-FTX execs, including general counsel Can Sun, launch crypto exchange Backpack and say they will protect user funds with lessons learned from FTX&#39;s failure &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231111/p8#a231111p8)
- - [How to view Apple Notes attachments in small view in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-view-apple-notes-attachments-in-small-view-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
+ - [Spatial Video shot on iPhone for Apple Vision Pro previewed for a select few](https://appleinsider.com/articles/23/11/10/spatial-video-shot-on-iphone-for-apple-vision-pro-previewed-for-a-select-few?utm_medium=rss)
+ - [Hades is coming to Netflix](https://www.theverge.com/23955772/hades-netflix-reveal-geeked-week-2023)
+ - [Netflix’s Terminator anime gets the briefest of teasers](https://www.theverge.com/2023/11/11/23956950/terminator-anime-teaser-netflix)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
