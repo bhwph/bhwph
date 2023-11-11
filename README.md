@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The MCU teases a reboot for a new generation in The Marvels](https://www.polygon.com/23954016/marvels-young-avengers-kamala-khan-final-scene)
- - [Every color of Sony’s DualSense controller is $49.99](https://www.polygon.com/deals/23954493/best-gaming-deals-dualsense-xbox-series-x-ps5-free-games-black-friday)
- - [Final Fantasy VII Rebirth Could Be Setting Up A Wild Zack Twist](https://kotaku.com/final-fantasy-vii-rebirth-ff7-zack-twist-1851009362)<!-- GAME:END -->
+ - [The Lost Boys paired vampire camp with real teenage fears](https://www.polygon.com/23953038/the-lost-boys-movie-retrospective)
+ - [Sonic the Hedgehog’s new game melds Inception and Tony Hawk’s Pro Skater](https://www.polygon.com/23954423/sonic-dream-team-preview-release-date)
+ - [The MCU teases a reboot for a new generation in The Marvels](https://www.polygon.com/23954016/marvels-young-avengers-kamala-khan-final-scene)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
