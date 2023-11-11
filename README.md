@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&#39;s How to Watch the 2023 Macy&#39;s Thanksgiving Day Parade     - CNET](https://www.cnet.com/culture/entertainment/heres-how-to-watch-the-2023-macys-thanksgiving-day-parade/#ftag=CAD590a51e)
- - [Humane&#39;s Ai Pin seems like a bizarre cross between Google Glass and a pager, the lack of apps feels extremely limiting, and the $699 price is hard to understand &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231111/p4#a231111p4)
- - [FTX sues crypto exchange Bybit and two affiliates to recover ~$953M in cash and digital assets that was withdrawn using &quot;VIP&quot; status before FTX filed Chapter 11 &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/231111/p3#a231111p3)<!-- TECH:END -->
+ - [6 Best Online Grocery Stores &lpar;2023&rpar;: Produce, Snacks, Healthy Food](https://www.wired.com/gallery/best-online-grocery-stores/)
+ - [Skiing Is Getting Riskier](https://www.wired.com/story/avalanche-threat-ski-risk/)
+ - [35 Best Early Black Friday Deals &lpar;2023&rpar;: iPads and Scooters](https://www.wired.com/story/absolute-best-black-friday-deals/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
