@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Last Day in prison](http://9gag.com/gag/aME549P)
- - 😝 [Burn the Witch](http://9gag.com/gag/aVb5w4K)
+ - 6️⃣ [Just a bit support.](http://9gag.com/gag/aeQwARm)
+ - 😝 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
  - 👉 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)<!-- MEMES:END -->
 
 --- 
