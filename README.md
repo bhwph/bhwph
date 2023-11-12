@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)
- - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 6️⃣ [U dont read titles... u wanne c tetten](http://9gag.com/gag/a7qXEnm)
+ - 😝 [Just a bit support.](http://9gag.com/gag/aeQwARm)
  - 👉 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)<!-- MEMES:END -->
 
 --- 
