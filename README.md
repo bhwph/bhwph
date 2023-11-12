@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Any bricklayer here](http://9gag.com/gag/a4oyRxQ)
- - 😝 [Did Simpsons predict the Las Vegas sphere ?](http://9gag.com/gag/a3Zrw95)
- - 👉 [Just a bit support.](http://9gag.com/gag/aeQwARm)<!-- MEMES:END -->
+ - 6️⃣ [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)
+ - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 👉 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)<!-- MEMES:END -->
 
 --- 
 
