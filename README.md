@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Limit Your Dropped Calls: 10 Tips to Improve Your Cellphone Signal Strength This Holiday Season     - CNET](https://www.cnet.com/tech/mobile/limit-your-dropped-calls-10-tips-to-improve-your-cellphone-signal-strength-this-holiday-season/#ftag=CAD590a51e)
- - [Experts say terrorist groups are using generative AI tools to evade the hashing algorithms used by tech companies to automatically remove extremist content &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/231112/p2#a231112p2)
- - [An in-depth look at a covert Russian operation to get dual-use specialist microchips, which are protected by EU export controls, into the hands of the state &lpar;Financial Times&rpar;](http://www.techmeme.com/231112/p1#a231112p1)<!-- TECH:END -->
+ - [Best Nut Milk Makers &lpar;2023&rpar;: Nutr, Soyabella, Almond Cow, MioMat](https://www.wired.com/gallery/best-nut-milk-makers/)
+ - [7 Great USB-C Accessories for Your New iPhone 15](https://www.wired.com/gallery/7-usb-c-accessories-new-iphone-15/)
+ - [What to Do If You Get Emails for the Wrong Person](https://www.wired.com/story/what-to-do-emails-for-wrong-person/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
