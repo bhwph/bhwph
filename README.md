@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guilty as charged](http://9gag.com/gag/amAwgLy)
- - 😝 [Burn the Witch](http://9gag.com/gag/aVb5w4K)
- - 👉 [Zero](http://9gag.com/gag/a4oy1Vd)<!-- MEMES:END -->
+ - 6️⃣ [Last Day in prison](http://9gag.com/gag/aME549P)
+ - 😝 [Zero](http://9gag.com/gag/a4oy1Vd)
+ - 👉 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)<!-- MEMES:END -->
 
 --- 
 
