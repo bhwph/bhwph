@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The look](http://9gag.com/gag/aREdXv2)
- - 😝 [Absolute chaos from start to finish &lpar;China?&rpar;](http://9gag.com/gag/aGE5EDG)
- - 👉 [F**k your kid](http://9gag.com/gag/abvwgbr)<!-- MEMES:END -->
+ - 6️⃣ [Definitely Abrupt.](http://9gag.com/gag/aME5Eo6)
+ - 😝 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
+ - 👉 [How we want it](http://9gag.com/gag/aEq5qOn)<!-- MEMES:END -->
 
 --- 
 
