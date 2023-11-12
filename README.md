@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a bit support.](http://9gag.com/gag/aeQwARm)
- - 😝 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
- - 👉 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)<!-- MEMES:END -->
+ - 6️⃣ [Guilty as charged](http://9gag.com/gag/amAwgLy)
+ - 😝 [Burn the Witch](http://9gag.com/gag/aVb5w4K)
+ - 👉 [Zero](http://9gag.com/gag/a4oy1Vd)<!-- MEMES:END -->
 
 --- 
 
