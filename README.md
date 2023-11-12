@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Curse introduces us to Dark Nathan Fielder](https://www.polygon.com/23955524/the-curse-nathan-fielder-a24-show)
- - [Wordle today: Hint and answer #876 for Sunday, November 12](https://www.pcgamer.com/wordle-today-answer-876-november-12)
- - [It only took hours for modders to crowbar 4k support into the Metal Gear Solid: Master Collection—now they&#39;ve added ultrawide, high-res UI support, and more](https://www.pcgamer.com/it-only-took-hours-for-modders-to-crowbar-4k-support-into-the-metal-gear-solid-master-collectionnow-theyve-added-ultrawide-high-res-ui-support-and-more)<!-- GAME:END -->
+ - [Hellboy Web of Wyrd’s creators on working with Lance Reddick: ‘We were just in awe’](https://www.polygon.com/23955271/hellboy-web-of-wyrd-interview-lance-reddick-mike-mignola)
+ - [How to tackle Black Friday shopping like a boss](https://www.polygon.com/23934751/black-friday-cyber-monday-2023-time-price-matching-returns)
+ - [The Curse introduces us to Dark Nathan Fielder](https://www.polygon.com/23955524/the-curse-nathan-fielder-a24-show)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
