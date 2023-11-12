@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Darkest Dungeon 2&#39;s first DLC is finally bringing back one of the original&#39;s strongest heroes](https://www.pcgamer.com/darkest-dungeon-2s-first-dlc-is-finally-bringing-back-one-of-the-originals-strongest-heroes)
- - [Rainbow Six Siege&#39;s next operator has the intimidating ability to press pause on nearly every gadget in the game](https://www.pcgamer.com/rainbow-six-sieges-next-operator-has-the-intimidating-ability-to-press-pause-on-nearly-every-gadget-in-the-game)
- - [Rainbow Six Siege is getting a skin marketplace in the style of Counter-Strike](https://www.pcgamer.com/rainbow-six-siege-is-getting-a-skin-marketplace-in-the-style-of-counter-strike)<!-- GAME:END -->
+ - [The PC Gamer 2023 Holiday Gift Guide](https://www.pcgamer.com/gifts-for-gamers-2023)
+ - [After nearly 10 years, Australian developer Samurai Punk is shutting down](https://www.pcgamer.com/after-nearly-10-years-australian-developer-samurai-punk-is-shutting-down)
+ - [Darkest Dungeon 2&#39;s first DLC is finally bringing back one of the original&#39;s strongest heroes](https://www.pcgamer.com/darkest-dungeon-2s-first-dlc-is-finally-bringing-back-one-of-the-originals-strongest-heroes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
