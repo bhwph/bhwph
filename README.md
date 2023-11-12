@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Gift Ideas for the Home Chef &lpar;2023&rpar;: Vitamix, Cookbooks, and More](https://www.wired.com/gallery/gift-ideas-for-the-home-chef-2023/)
- - [18 Best Tech Gifts for Kids &lpar;2023&rpar;: Tablets, Speakers, Smartwatches](https://www.wired.com/gallery/tech-gifts-for-kids-2023/)
- - [Test-Driving the 100% Electric Arc One Speedboat     - CNET](https://www.cnet.com/roadshow/news/test-driving-the-100-electric-arc-one-speedboat/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It’s been almost a decade: Give us more base Google One storage already](https://www.androidauthority.com/give-us-more-base-google-one-storage-opinion-3384038/)
+ - [Apple&#39;s bug-squashing week was part of its efforts to minimize errors](https://appleinsider.com/articles/23/11/12/apples-bug-squashing-week-was-part-of-its-efforts-to-minimize-errors?utm_medium=rss)
+ - [Daily deals Nov. 12: M3 iMac $100-$150 off, Beats Studio 3 Headphones $169, Apple Magic Keyboard &amp; Mouse sale](https://appleinsider.com/articles/23/11/12/daily-deals-nov-12-m3-imac-100-150-off-beats-studio-3-headphones-169-apple-magic-keyboard-mouse-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
