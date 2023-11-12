@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Last Day in prison](http://9gag.com/gag/aME549P)
- - 😝 [Zero](http://9gag.com/gag/a4oy1Vd)
- - 👉 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)
+ - 😝 [The look](http://9gag.com/gag/aREdXv2)
+ - 👉 [\u2018It\u2019s my first time\u2019](http://9gag.com/gag/aQE5Eyd)<!-- MEMES:END -->
 
 --- 
 
