@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Curse introduces us to Dark Nathan Fielder](https://www.polygon.com/23955524/the-curse-nathan-fielder-a24-show)
  - [Wordle today: Hint and answer #876 for Sunday, November 12](https://www.pcgamer.com/wordle-today-answer-876-november-12)
- - [It only took hours for modders to crowbar 4k support into the Metal Gear Solid: Master Collection—now they&#39;ve added ultrawide, high-res UI support, and more](https://www.pcgamer.com/it-only-took-hours-for-modders-to-crowbar-4k-support-into-the-metal-gear-solid-master-collectionnow-theyve-added-ultrawide-high-res-ui-support-and-more)
- - [Warcraft’s game director explains why Blizzard debuted three expansions at once: &#39;Speaking it out loud makes it real&#39;](https://www.pcgamer.com/warcrafts-game-director-explains-why-blizzard-debuted-three-expansions-at-once-speaking-it-out-loud-makes-it-real)<!-- GAME:END -->
+ - [It only took hours for modders to crowbar 4k support into the Metal Gear Solid: Master Collection—now they&#39;ve added ultrawide, high-res UI support, and more](https://www.pcgamer.com/it-only-took-hours-for-modders-to-crowbar-4k-support-into-the-metal-gear-solid-master-collectionnow-theyve-added-ultrawide-high-res-ui-support-and-more)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
