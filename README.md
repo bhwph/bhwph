@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many Threads users report that they now have the ability to opt out of having their posts shown on Instagram and Facebook &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231112/p6#a231112p6)
- - [Here&#39;s How Many Solar Panels You&#39;ll Need to Charge Your EV     - CNET](https://www.cnet.com/home/energy-and-utilities/heres-how-many-solar-panels-youll-need-to-charge-your-ev/#ftag=CAD590a51e)
- - [Purple&#39;s Black Friday Sale Knocks Up to $900 Off Mattress and Base Bundles     - CNET](https://www.cnet.com/deals/purples-black-friday-sale-knocks-up-to-900-off-mattress-and-base-bundles/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SwitchBot Smart Switch Button Pusher review: A small way to make a basic button smart](https://appleinsider.com/articles/23/11/12/switchbot-smart-switch-button-pusher-review-a-small-way-to-make-a-basic-button-smart?utm_medium=rss)
+ - [Commanders vs. Seahawks Livestream: How to Watch NFL Week 10 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/commanders-vs-seahawks-livestream-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)
+ - [Giants vs. Cowboys Livestream: How to Watch NFL Week 10 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/giants-vs-cowboys-livestream-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
