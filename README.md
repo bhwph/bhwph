@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SwitchBot Smart Switch Button Pusher review: A small way to make a basic button smart](https://appleinsider.com/articles/23/11/12/switchbot-smart-switch-button-pusher-review-a-small-way-to-make-a-basic-button-smart?utm_medium=rss)
- - [Commanders vs. Seahawks Livestream: How to Watch NFL Week 10 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/commanders-vs-seahawks-livestream-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)
- - [Giants vs. Cowboys Livestream: How to Watch NFL Week 10 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/giants-vs-cowboys-livestream-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Apple&#39;s work on its &quot;ambitious and compelling&quot; OS updates for 2024, paused for a week after hitting a key milestone in iOS 18 and macOS 15 development &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231112/p7#a231112p7)
+ - [An OLED iPad Pro is the upgrade I’ve been waiting for](https://www.theverge.com/2023/11/12/23957715/apple-ipad-pro-oled-upgrade-next-year)
+ - [The Bose NC Headphones 700 hit an all-time low price of just $259](https://www.androidauthority.com/bose-headphones-700-deal-3384859/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
