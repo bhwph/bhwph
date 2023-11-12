@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [U dont read titles... u wanne c tetten](http://9gag.com/gag/a7qXEnm)
- - 😝 [Just a bit support.](http://9gag.com/gag/aeQwARm)
- - 👉 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)<!-- MEMES:END -->
+ - 6️⃣ [The look](http://9gag.com/gag/aREdXv2)
+ - 😝 [I find her esthetically pleasing](http://9gag.com/gag/a7qX17e)
+ - 👉 [Just a bit support.](http://9gag.com/gag/aeQwARm)<!-- MEMES:END -->
 
 --- 
 
