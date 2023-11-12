@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hellboy Web of Wyrd’s creators on working with Lance Reddick: ‘We were just in awe’](https://www.polygon.com/23955271/hellboy-web-of-wyrd-interview-lance-reddick-mike-mignola)
- - [How to tackle Black Friday shopping like a boss](https://www.polygon.com/23934751/black-friday-cyber-monday-2023-time-price-matching-returns)
- - [The Curse introduces us to Dark Nathan Fielder](https://www.polygon.com/23955524/the-curse-nathan-fielder-a24-show)<!-- GAME:END -->
+ - [Dimension 20’s Coffin Run is a nearly flawless Dracula adaptation](https://www.polygon.com/23941905/dimension-20-dropout-coffin-run)
+ - [Blue Eye Samurai’s sex scenes required as much consideration as the fights](https://www.polygon.com/23955415/blue-eye-samurai-sex-scenes)
+ - [Hellboy Web of Wyrd’s creators on working with Lance Reddick: ‘We were just in awe’](https://www.polygon.com/23955271/hellboy-web-of-wyrd-interview-lance-reddick-mike-mignola)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
