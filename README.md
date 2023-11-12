@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Definitely Abrupt.](http://9gag.com/gag/aME5Eo6)
- - 😝 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
- - 👉 [How we want it](http://9gag.com/gag/aEq5qOn)<!-- MEMES:END -->
+ - 6️⃣ [Last Day in prison](http://9gag.com/gag/aME549P)
+ - 😝 [Burn the Witch](http://9gag.com/gag/aVb5w4K)
+ - 👉 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)<!-- MEMES:END -->
 
 --- 
 
