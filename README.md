@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dimension 20’s Coffin Run is a nearly flawless Dracula adaptation](https://www.polygon.com/23941905/dimension-20-dropout-coffin-run)
- - [Blue Eye Samurai’s sex scenes required as much consideration as the fights](https://www.polygon.com/23955415/blue-eye-samurai-sex-scenes)
- - [Hellboy Web of Wyrd’s creators on working with Lance Reddick: ‘We were just in awe’](https://www.polygon.com/23955271/hellboy-web-of-wyrd-interview-lance-reddick-mike-mignola)<!-- GAME:END -->
+ - [Darkest Dungeon 2&#39;s first DLC is finally bringing back one of the original&#39;s strongest heroes](https://www.pcgamer.com/darkest-dungeon-2s-first-dlc-is-finally-bringing-back-one-of-the-originals-strongest-heroes)
+ - [Rainbow Six Siege&#39;s next operator has the intimidating ability to press pause on nearly every gadget in the game](https://www.pcgamer.com/rainbow-six-sieges-next-operator-has-the-intimidating-ability-to-press-pause-on-nearly-every-gadget-in-the-game)
+ - [Rainbow Six Siege is getting a skin marketplace in the style of Counter-Strike](https://www.pcgamer.com/rainbow-six-siege-is-getting-a-skin-marketplace-in-the-style-of-counter-strike)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
