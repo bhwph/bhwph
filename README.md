@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [The look](http://9gag.com/gag/aREdXv2)
- - 😝 [I find her esthetically pleasing](http://9gag.com/gag/a7qX17e)
- - 👉 [Just a bit support.](http://9gag.com/gag/aeQwARm)<!-- MEMES:END -->
+ - 😝 [Absolute chaos from start to finish &lpar;China?&rpar;](http://9gag.com/gag/aGE5EDG)
+ - 👉 [F**k your kid](http://9gag.com/gag/abvwgbr)<!-- MEMES:END -->
 
 --- 
 
