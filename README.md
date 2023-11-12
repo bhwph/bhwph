@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Nut Milk Makers &lpar;2023&rpar;: Nutr, Soyabella, Almond Cow, MioMat](https://www.wired.com/gallery/best-nut-milk-makers/)
- - [7 Great USB-C Accessories for Your New iPhone 15](https://www.wired.com/gallery/7-usb-c-accessories-new-iphone-15/)
- - [What to Do If You Get Emails for the Wrong Person](https://www.wired.com/story/what-to-do-emails-for-wrong-person/)<!-- TECH:END -->
+ - [16 Gift Ideas for the Home Chef &lpar;2023&rpar;: Vitamix, Cookbooks, and More](https://www.wired.com/gallery/gift-ideas-for-the-home-chef-2023/)
+ - [18 Best Tech Gifts for Kids &lpar;2023&rpar;: Tablets, Speakers, Smartwatches](https://www.wired.com/gallery/tech-gifts-for-kids-2023/)
+ - [Test-Driving the 100% Electric Arc One Speedboat     - CNET](https://www.cnet.com/roadshow/news/test-driving-the-100-electric-arc-one-speedboat/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
