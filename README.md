@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;ve got an inactive Google account you don&#39;t want to lose, log into it by December 1 or it&#39;s at risk of being deleted](https://www.pcgamer.com/if-youve-got-an-inactive-google-account-you-dont-want-to-lose-log-into-it-by-december-1-or-its-at-risk-of-being-deleted)
- - [Disney Lorcana Rise of the Floodborn’s two new starter sets are excellent](https://www.polygon.com/23955587/rise-of-the-floodborn-starter-decks)
- - [Tekken 8 game director reveals details on new characters Reina and Victor](https://blog.playstation.com/2023/11/12/tekken-8-game-director-reveals-details-on-new-characters-reina-and-victor/)<!-- GAME:END -->
+ - [Ken Levine hails cancelled Irrational project as &#39;the best game we never got to make&#39;](https://www.pcgamer.com/ken-levine-hails-cancelled-irrational-project-as-the-best-game-we-never-got-to-make)
+ - [How to find and destroy a Mercenary Convoy in Call of Duty: Modern Warfare 3 zombies](https://www.pcgamer.com/call-of-duty-modern-warfare-3-mercenary-convoy-location)
+ - [This is the spiritual successor to the best graphics card ever made](https://www.pcgamer.com/this-is-the-spiritual-successor-to-the-best-graphics-card-ever-made)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
