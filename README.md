@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrating 30 years of PC Gamer](https://www.pcgamer.com/celebrating-30-years-of-pc-gamer)
- - [How to choose houses in the Hogwarts Legacy sorting quiz](https://www.polygon.com/hogwarts-legacy-guide/23581208/house-sorting-quiz-test-gryffindor-slytherin-ravenclaw-hufflepuff-daring-curiosity-ambition-loyalty)
- - [How wand selection works in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23581903/wand-selection-quiz-change-ollivanders-style-wood-length-flexibility-core)<!-- GAME:END -->
+ - [The most important games and moments in 30 years of PC gaming part 3: 2014 - 2023](https://www.pcgamer.com/the-most-important-games-and-moments-in-30-years-of-pc-gaming-part-3-2014-2023)
+ - [The Game Awards 2023: Every Nominated Game Available on Xbox](https://news.xbox.com/en-us/2023/11/13/the-game-awards-2023-xbox-nominations/)
+ - [When does Hogwarts Legacy come out on Nintendo Switch?](https://www.polygon.com/23552621/hogwarts-legacy-release-date-play-early-access-versions-deluxe-collectors)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
