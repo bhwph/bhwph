@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not AI](http://9gag.com/gag/a9q0qxm)
- - 😝 [Guilty as charged](http://9gag.com/gag/amAwgLy)
- - 👉 [Nice Catalog Spesification](http://9gag.com/gag/a04qowZ)<!-- MEMES:END -->
+ - 6️⃣ [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 😝 [Proofs of Natural Selection process](http://9gag.com/gag/a1PjP0Y)
+ - 👉 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)<!-- MEMES:END -->
 
 --- 
 
