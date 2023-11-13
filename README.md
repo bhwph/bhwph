@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ken Levine hails cancelled Irrational project as &#39;the best game we never got to make&#39;](https://www.pcgamer.com/ken-levine-hails-cancelled-irrational-project-as-the-best-game-we-never-got-to-make)
- - [How to find and destroy a Mercenary Convoy in Call of Duty: Modern Warfare 3 zombies](https://www.pcgamer.com/call-of-duty-modern-warfare-3-mercenary-convoy-location)
- - [This is the spiritual successor to the best graphics card ever made](https://www.pcgamer.com/this-is-the-spiritual-successor-to-the-best-graphics-card-ever-made)<!-- GAME:END -->
+ - [Nightdive says Dark Forces has been &quot;difficult to change&quot; because LucasArts created its own version of multi-threading years before it became popular](https://www.pcgamer.com/nightdive-says-dark-forces-has-been-difficult-to-change-because-lucasarts-created-its-own-version-of-multi-threading-years-before-it-became-popular)
+ - [Absolutely ancient Nvidia GPU used to decode even more antediluvian Roman scroll](https://www.pcgamer.com/absolutely-ancient-nvidia-gpu-used-to-decode-even-more-antediluvian-roman-scroll)
+ - [First Ever Official Edible Chocolate Xbox Controller and Wonka-Inspired Console](https://news.xbox.com/en-us/2023/11/13/xbox-wonka-chocolate-controller/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
