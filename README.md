@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - 😝 [Yeah, leave the button](http://9gag.com/gag/aDY5YEN)
- - 👉 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)<!-- MEMES:END -->
+ - 6️⃣ [Yeah, leave the button](http://9gag.com/gag/aDY5YEN)
+ - 😝 [Nice Catalog Spesification](http://9gag.com/gag/a04qowZ)
+ - 👉 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)<!-- MEMES:END -->
 
 --- 
 
