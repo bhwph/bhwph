@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is banking on software, not hardware, to sell the iPhone 16](https://www.androidauthority.com/apple-sell-iphone-16-software-3384391/)
- - [YouTube facing criminal ‘spying’ charges for ad blocker detection](https://www.androidauthority.com/youtube-criminal-spying-charges-ad-blocker-detection-3384885/)
- - [Xiaomi is up 60%+, gaining about $20B in market value since June 2023 on the back of strong Xiaomi 14 series sales and its foray into EV and other businesses &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/231113/p1#a231113p1)<!-- TECH:END -->
+ - [Gboard is finally fixing its annoying landscape typing problem](https://www.androidauthority.com/gboard-landscape-floating-window-rollout-3384909/)
+ - [We asked, you told us: Most of you prefer monochrome themes over color](https://www.androidauthority.com/monochrome-color-themes-poll-results-3384888/)
+ - [Sam Altman says he expected &quot;to raise a lot more&quot; from Microsoft and other investors to keep up with the punishing costs of building more sophisticated LLMs &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/231113/p3#a231113p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
