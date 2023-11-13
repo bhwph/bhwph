@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar: Frontiers of Pandora utilizes PS5’s unique features to become Na’vi](https://blog.playstation.com/2023/11/13/avatar-frontiers-of-pandora-utilizes-ps5s-unique-features-to-become-navi/)
- - [Why Debut DLC The Awakened King Makes Remnant II Even Better for All Players](https://news.xbox.com/en-us/2023/11/13/remnant-2-dlc-the-awakened-king/)
- - [Modern Warfare III Is Currently The Worst-Reviewed Call of Duty Ever](https://kotaku.com/call-of-duty-modern-warfare-3-reviews-metacritic-1851016787)<!-- GAME:END -->
+ - [Celebrating 30 years of PC Gamer](https://www.pcgamer.com/celebrating-30-years-of-pc-gamer)
+ - [How to choose houses in the Hogwarts Legacy sorting quiz](https://www.polygon.com/hogwarts-legacy-guide/23581208/house-sorting-quiz-test-gryffindor-slytherin-ravenclaw-hufflepuff-daring-curiosity-ambition-loyalty)
+ - [How wand selection works in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23581903/wand-selection-quiz-change-ollivanders-style-wood-length-flexibility-core)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
