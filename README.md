@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Fit 3 leak reveals big battery upgrade](https://www.androidauthority.com/galaxy-fit-3-battery-3385112/)
- - [Divergent Technologies, which created a digital manufacturing system that uses 3D printing and AI-driven software, raised a $230M Series D led by Hexagon AB &lpar;Michael Molitch-Hou/3DPrint&rpar;](http://www.techmeme.com/231113/p21#a231113p21)
- - [Einride’s drone truck has its first full-time job moving GE appliances around](https://www.theverge.com/2023/11/13/23959030/einride-driverless-trucks-ge-appliances-autonomous-delivery)<!-- TECH:END -->
+ - [The Samsung Galaxy Tab S7 FE drops within $3 of its all-time low](https://www.androidauthority.com/samsung-galaxy-tab-s7-fe-deal-3385142/)
+ - [Threads finally lets you delete your account separately from Instagram](https://www.theverge.com/2023/11/13/23959709/threads-delete-account-instagram-keep-meta)
+ - [Too many organizations have chosen to obfuscate, mislead, or be too tight-lipped in data breach disclosures, and new regulations should force more transparency &lpar;DataBreaches.net&rpar;](http://www.techmeme.com/231113/p23#a231113p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
