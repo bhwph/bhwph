@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
- - 😝 [Proofs of Natural Selection process](http://9gag.com/gag/a1PjP0Y)
- - 👉 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)
+ - 😝 [Choose your side.](http://9gag.com/gag/aGE5yqK)
+ - 👉 [You spin me right round](http://9gag.com/gag/a3ZrG7r)<!-- MEMES:END -->
 
 --- 
 
