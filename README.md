@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC Gamer 2023 Holiday Gift Guide](https://www.pcgamer.com/gifts-for-gamers-2023)
- - [After nearly 10 years, Australian developer Samurai Punk is shutting down](https://www.pcgamer.com/after-nearly-10-years-australian-developer-samurai-punk-is-shutting-down)
- - [Darkest Dungeon 2&#39;s first DLC is finally bringing back one of the original&#39;s strongest heroes](https://www.pcgamer.com/darkest-dungeon-2s-first-dlc-is-finally-bringing-back-one-of-the-originals-strongest-heroes)<!-- GAME:END -->
+ - [After her videos inspired by surreal &#39;90s pre-rendered horror games blew up, this TikTok star is making an actual surreal pre-rendered horror game](https://www.pcgamer.com/after-her-videos-inspired-by-surreal-90s-pre-rendered-horror-games-blew-up-this-tiktok-star-is-making-an-actual-surreal-pre-rendered-horror-game)
+ - [Rebel Moon’s trailer gives us more time to appreciate those sick laser butcher swords](https://www.polygon.com/23955948/rebel-moons-full-trailer-release-date-netflix-geeked-week-2023)
+ - [Cliff Bleszinski recalls his &#39;90s FPS beef with John Romero was so intense he wanted to &#39;take that guy down&#39;](https://www.pcgamer.com/cliff-bleszinski-recalls-his-90s-fps-beef-with-john-romero-was-so-intense-he-wanted-to-take-that-guy-down)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
