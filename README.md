@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gboard is finally fixing its annoying landscape typing problem](https://www.androidauthority.com/gboard-landscape-floating-window-rollout-3384909/)
- - [We asked, you told us: Most of you prefer monochrome themes over color](https://www.androidauthority.com/monochrome-color-themes-poll-results-3384888/)
- - [Sam Altman says he expected &quot;to raise a lot more&quot; from Microsoft and other investors to keep up with the punishing costs of building more sophisticated LLMs &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/231113/p3#a231113p3)<!-- TECH:END -->
+ - [Q&amp;A with Microsoft EVP of Business Development Chris Young on the AI hype, Microsoft making a business out of AI, the non-tech early adopters of AI, and more &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/231113/p4#a231113p4)
+ - [You still cannot bootloader unlock and root the ASUS Zenfone 10](https://www.androidauthority.com/asus-zenfone-10-bootloader-unlock-root-impossible-3384936/)
+ - [2023 Black Friday: Here&#39;s How to Avoid This Year&#39;s Elaborate Scams     - CNET](https://www.cnet.com/tech/services-and-software/2023-black-friday-heres-how-to-avoid-this-years-elaborate-scams/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
