@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Microsoft EVP of Business Development Chris Young on the AI hype, Microsoft making a business out of AI, the non-tech early adopters of AI, and more &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/231113/p4#a231113p4)
- - [You still cannot bootloader unlock and root the ASUS Zenfone 10](https://www.androidauthority.com/asus-zenfone-10-bootloader-unlock-root-impossible-3384936/)
- - [2023 Black Friday: Here&#39;s How to Avoid This Year&#39;s Elaborate Scams     - CNET](https://www.cnet.com/tech/services-and-software/2023-black-friday-heres-how-to-avoid-this-years-elaborate-scams/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snapchat is testing a “Friends &amp; Family” subscription plan](https://www.androidauthority.com/snapchat-friends-family-subscription-plan-apk-teardown-3384961/)
+ - [Google sues unnamed individuals in India and Vietnam for tricking US-based SMB owners with Facebook accounts into clicking fake Bard ads that install malware &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/231113/p7#a231113p7)
+ - [Nearly Everyone With Mild Cognitive Impairment Goes Undiagnosed](https://www.wired.com/story/nearly-everyone-with-mild-cognitive-impairment-goes-undiagnosed/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
