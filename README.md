@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nightdive says Dark Forces has been &quot;difficult to change&quot; because LucasArts created its own version of multi-threading years before it became popular](https://www.pcgamer.com/nightdive-says-dark-forces-has-been-difficult-to-change-because-lucasarts-created-its-own-version-of-multi-threading-years-before-it-became-popular)
- - [Absolutely ancient Nvidia GPU used to decode even more antediluvian Roman scroll](https://www.pcgamer.com/absolutely-ancient-nvidia-gpu-used-to-decode-even-more-antediluvian-roman-scroll)
- - [First Ever Official Edible Chocolate Xbox Controller and Wonka-Inspired Console](https://news.xbox.com/en-us/2023/11/13/xbox-wonka-chocolate-controller/)<!-- GAME:END -->
+ - [Avatar: Frontiers of Pandora utilizes PS5’s unique features to become Na’vi](https://blog.playstation.com/2023/11/13/avatar-frontiers-of-pandora-utilizes-ps5s-unique-features-to-become-navi/)
+ - [Why Debut DLC The Awakened King Makes Remnant II Even Better for All Players](https://news.xbox.com/en-us/2023/11/13/remnant-2-dlc-the-awakened-king/)
+ - [Modern Warfare III Is Currently The Worst-Reviewed Call of Duty Ever](https://kotaku.com/call-of-duty-modern-warfare-3-reviews-metacritic-1851016787)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
