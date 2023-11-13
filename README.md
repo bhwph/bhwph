@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Copenhagen, Denmark. Filmed this Saturday.](http://9gag.com/gag/anzw7wq)
- - 😝 [Vegas baby](http://9gag.com/gag/a5X3B3L)
- - 👉 [Advice?](http://9gag.com/gag/a5X3VBV)<!-- MEMES:END -->
+ - 6️⃣ [When you are stupid enough to choke Eben Etzebeth...but he just calmly starts breaking your neck.](http://9gag.com/gag/a8qOmWY)
+ - 😝 [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)
+ - 👉 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)<!-- MEMES:END -->
 
 --- 
 
