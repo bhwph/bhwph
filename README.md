@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - 😝 [Copenhagen, Denmark. Filmed this Saturday.](http://9gag.com/gag/anzw7wq)
+ - 😝 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
  - 👉 [How we want it](http://9gag.com/gag/aEq5qOn)<!-- MEMES:END -->
 
 --- 
