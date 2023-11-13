@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)
- - 😝 [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)
- - 👉 [It has been confirmed by the IDF the guy with all the talents as been eliminated.](http://9gag.com/gag/aoKwVYg)<!-- MEMES:END -->
+ - 6️⃣ [Copenhagen, Denmark. Filmed this Saturday.](http://9gag.com/gag/anzw7wq)
+ - 😝 [Vegas baby](http://9gag.com/gag/a5X3B3L)
+ - 👉 [Advice?](http://9gag.com/gag/a5X3VBV)<!-- MEMES:END -->
 
 --- 
 
