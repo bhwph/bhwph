@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Copenhagen, Denmark. Filmed this Saturday.](http://9gag.com/gag/anzw7wq)
- - 😝 [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - 👉 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)<!-- MEMES:END -->
+ - 6️⃣ [Nice Catalog Spesification](http://9gag.com/gag/a04qowZ)
+ - 😝 [Lol what&#39;s Power Rangers](http://9gag.com/gag/aVb5oz2)
+ - 👉 [Problem solved](http://9gag.com/gag/aREdBQ5)<!-- MEMES:END -->
 
 --- 
 
