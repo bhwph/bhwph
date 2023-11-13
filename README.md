@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is already working on a Vision Pro sequel leak says](https://www.androidauthority.com/vision-pro-successor-3385047/)
- - [Nvidia is launching a new must-have AI chip — as customers still scramble for its last one](https://www.theverge.com/2023/11/13/23958823/nvidia-h200-ai-gpu-announced-specs-release-date)
- - [The Biden administration directs agencies to work on giving up airwaves to make room for commercial 5G networks, part of the National Spectrum Strategy &lpar;Todd Shields/Bloomberg&rpar;](http://www.techmeme.com/231113/p15#a231113p15)<!-- TECH:END -->
+ - [Apple highlights research into diabetes, activity and menstrual cycles](https://appleinsider.com/articles/23/11/13/apple-highlights-research-into-diabetes-activity-and-menstrual-cycles?utm_medium=rss)
+ - [The best early Black Friday tech deals you can already get](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
+ - [In an email to employees, Amazon says it is restructuring its games unit to focus on free streaming games offered with Prime and is cutting about 180 jobs &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/231113/p19#a231113p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
