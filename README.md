@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat is testing a “Friends &amp; Family” subscription plan](https://www.androidauthority.com/snapchat-friends-family-subscription-plan-apk-teardown-3384961/)
- - [Google sues unnamed individuals in India and Vietnam for tricking US-based SMB owners with Facebook accounts into clicking fake Bard ads that install malware &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/231113/p7#a231113p7)
- - [Nearly Everyone With Mild Cognitive Impairment Goes Undiagnosed](https://www.wired.com/story/nearly-everyone-with-mild-cognitive-impairment-goes-undiagnosed/)<!-- TECH:END -->
+ - [Adorama slashes prices on Apple gear by up to $1,000 &amp; even M3 MacBooks are included](https://appleinsider.com/articles/23/11/13/adorama-slashes-prices-on-apple-gear-by-up-to-1000-even-m3-macbooks-are-included?utm_medium=rss)
+ - [The fight to save old video games](https://www.theverge.com/23958715/video-game-emulation-preservation-vergecast)
+ - [MyQ blocks third-party support, Matic is a new style of vacuum, &amp; more on HomeKit Insider](https://appleinsider.com/articles/23/11/13/myq-blocks-third-party-support-matic-is-a-new-style-of-vacuum-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
