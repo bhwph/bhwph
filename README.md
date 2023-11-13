@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple highlights research into diabetes, activity and menstrual cycles](https://appleinsider.com/articles/23/11/13/apple-highlights-research-into-diabetes-activity-and-menstrual-cycles?utm_medium=rss)
- - [The best early Black Friday tech deals you can already get](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
- - [In an email to employees, Amazon says it is restructuring its games unit to focus on free streaming games offered with Prime and is cutting about 180 jobs &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/231113/p19#a231113p19)<!-- TECH:END -->
+ - [Samsung Galaxy Fit 3 leak reveals big battery upgrade](https://www.androidauthority.com/galaxy-fit-3-battery-3385112/)
+ - [Divergent Technologies, which created a digital manufacturing system that uses 3D printing and AI-driven software, raised a $230M Series D led by Hexagon AB &lpar;Michael Molitch-Hou/3DPrint&rpar;](http://www.techmeme.com/231113/p21#a231113p21)
+ - [Einride’s drone truck has its first full-time job moving GE appliances around](https://www.theverge.com/2023/11/13/23959030/einride-driverless-trucks-ge-appliances-autonomous-delivery)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
