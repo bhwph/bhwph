@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adorama slashes prices on Apple gear by up to $1,000 &amp; even M3 MacBooks are included](https://appleinsider.com/articles/23/11/13/adorama-slashes-prices-on-apple-gear-by-up-to-1000-even-m3-macbooks-are-included?utm_medium=rss)
- - [The fight to save old video games](https://www.theverge.com/23958715/video-game-emulation-preservation-vergecast)
- - [MyQ blocks third-party support, Matic is a new style of vacuum, &amp; more on HomeKit Insider](https://appleinsider.com/articles/23/11/13/myq-blocks-third-party-support-matic-is-a-new-style-of-vacuum-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Apple is already working on a Vision Pro sequel leak says](https://www.androidauthority.com/vision-pro-successor-3385047/)
+ - [Nvidia is launching a new must-have AI chip — as customers still scramble for its last one](https://www.theverge.com/2023/11/13/23958823/nvidia-h200-ai-gpu-announced-specs-release-date)
+ - [The Biden administration directs agencies to work on giving up airwaves to make room for commercial 5G networks, part of the National Spectrum Strategy &lpar;Todd Shields/Bloomberg&rpar;](http://www.techmeme.com/231113/p15#a231113p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
