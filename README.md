@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - 😝 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
- - 👉 [How we want it](http://9gag.com/gag/aEq5qOn)<!-- MEMES:END -->
+ - 😝 [Yeah, leave the button](http://9gag.com/gag/aDY5YEN)
+ - 👉 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)<!-- MEMES:END -->
 
 --- 
 
