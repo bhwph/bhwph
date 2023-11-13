@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)
- - 😝 [Choose your side.](http://9gag.com/gag/aGE5yqK)
- - 👉 [You spin me right round](http://9gag.com/gag/a3ZrG7r)<!-- MEMES:END -->
+ - 6️⃣ [How it began...](http://9gag.com/gag/a3ZrGnQ)
+ - 😝 [Copenhagen, Denmark. Filmed this Saturday.](http://9gag.com/gag/anzw7wq)
+ - 👉 [How we want it](http://9gag.com/gag/aEq5qOn)<!-- MEMES:END -->
 
 --- 
 
