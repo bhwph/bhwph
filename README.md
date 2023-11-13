@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The most important games and moments in 30 years of PC gaming part 3: 2014 - 2023](https://www.pcgamer.com/the-most-important-games-and-moments-in-30-years-of-pc-gaming-part-3-2014-2023)
- - [The Game Awards 2023: Every Nominated Game Available on Xbox](https://news.xbox.com/en-us/2023/11/13/the-game-awards-2023-xbox-nominations/)
- - [When does Hogwarts Legacy come out on Nintendo Switch?](https://www.polygon.com/23552621/hogwarts-legacy-release-date-play-early-access-versions-deluxe-collectors)<!-- GAME:END -->
+ - [Xbox creates Wonka-themed controller you can... eat](https://www.polygon.com/23959406/xbox-wonka-chocolate-controller-sure)
+ - [Baldur&#39;s Gate 3 and Alan Wake 2 lead The Game Awards with 8 nominations each](https://www.pcgamer.com/baldurs-gate-3-and-alan-wake-2-lead-the-game-awards-with-8-nominations-each)
+ - [It looks like modding tools for Cities: Skylines 2 are still several months away](https://www.pcgamer.com/it-looks-like-modding-tools-for-cities-skylines-2-are-still-several-months-away)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
