@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to open eye chests in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23590147/unlock-open-eye-chests-rewards-disillusionment-spell)
- - [How to get a broom in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23590906/all-brooms-list-unlocks-differences-upgrades-side-quests-arn-leopold-priya-rohan-albie)
- - [Coming Soon to Game Pass: Persona 5 Tactica, Rollerdrome, and Dune: Spice Wars](https://news.xbox.com/en-us/2023/11/14/game-pass-november-2023-wave-2-announce/)<!-- GAME:END -->
+ - [New Access controller accessibility consultants spotlight video and setup tutorials](https://blog.playstation.com/2023/11/14/new-access-controller-accessibility-consultants-spotlight-video-and-setup-tutorials/)
+ - [Captain Marvel should have been the MCU’s first true jock](https://www.polygon.com/23955835/marvels-captain-marvel-should-be-a-jock)
+ - [YouTubers Put Anal Bead Chess Conspiracy To The Test](https://kotaku.com/youtube-chess-anal-beads-magnus-carlsen-hans-niemann-1851020457)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
