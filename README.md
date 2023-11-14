@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Circa 2016-2017 the beginning](http://9gag.com/gag/aL15e5A)
- - 😝 [F**k around and find out...](http://9gag.com/gag/a9q06VK)
- - 👉 [Exactly!!!](http://9gag.com/gag/a6q6Dre)<!-- MEMES:END -->
+ - 6️⃣ [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
+ - 😝 [And for less money too](http://9gag.com/gag/aA05EAo)
+ - 👉 [Shut up and take my money](http://9gag.com/gag/axow67M)<!-- MEMES:END -->
 
 --- 
 
