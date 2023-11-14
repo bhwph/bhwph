@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox creates Wonka-themed controller you can... eat](https://www.polygon.com/23959406/xbox-wonka-chocolate-controller-sure)
- - [Baldur&#39;s Gate 3 and Alan Wake 2 lead The Game Awards with 8 nominations each](https://www.pcgamer.com/baldurs-gate-3-and-alan-wake-2-lead-the-game-awards-with-8-nominations-each)
- - [It looks like modding tools for Cities: Skylines 2 are still several months away](https://www.pcgamer.com/it-looks-like-modding-tools-for-cities-skylines-2-are-still-several-months-away)<!-- GAME:END -->
+ - [The YA dystopia craze died because it didn’t evolve](https://www.polygon.com/22449675/ya-dystopia-fad-ended)
+ - [Timothée Chalamet captured Troye Sivan’s full essence on SNL](https://www.polygon.com/23959028/timothee-chalamet-snl-skit-troye-sivan-captured-the-internets-love-for-the-pop-star)
+ - [This strategy city builder clicker may be small, but it&#39;s eating up massive chunks of my time](https://www.pcgamer.com/this-strategy-city-builder-clicker-may-be-small-but-its-eating-up-massive-chunks-of-my-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
