@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds third watchOS 10.2 developer beta](https://appleinsider.com/articles/23/11/14/apple-seeds-third-watchos-102-developer-beta?utm_medium=rss)
- - [32 Best Black Friday Deals on Outdoor Gear &lpar;2023&rpar;: REI, Garmin, and More](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023/)
- - [Truck bloat is killing us, new crash data reveals](https://www.theverge.com/2023/11/14/23960624/truck-suv-hood-height-pedestrian-death-report-iihs)<!-- TECH:END -->
+ - [Apple Pencil USB-C gets its first firmware update](https://appleinsider.com/articles/23/11/14/apple-pencil-usb-c-gets-its-first-firmware-update?utm_medium=rss)
+ - [The 41 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
+ - [Samsung denies rumors of cheap foldables, says ‘nothing decided’ about Galaxy Z FE phones](https://www.androidauthority.com/cheap-foldables-samsung-denial-3385446/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
