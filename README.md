@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Score 45% off this Anker 240W 4-Port GaN Charger ahead of Black Friday](https://www.androidauthority.com/anker-prime-charger-black-friday-3385361/)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Apple shares 2023 App Store Awards finalists](https://appleinsider.com/articles/23/11/14/apple-shares-2023-app-store-awards-finalists?utm_medium=rss)<!-- TECH:END -->
+ - [Apple seeds third watchOS 10.2 developer beta](https://appleinsider.com/articles/23/11/14/apple-seeds-third-watchos-102-developer-beta?utm_medium=rss)
+ - [32 Best Black Friday Deals on Outdoor Gear &lpar;2023&rpar;: REI, Garmin, and More](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023/)
+ - [Truck bloat is killing us, new crash data reveals](https://www.theverge.com/2023/11/14/23960624/truck-suv-hood-height-pedestrian-death-report-iihs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
