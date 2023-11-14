@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8 and Pixel 8 Pro problems and how to fix them](https://www.androidauthority.com/google-pixel-8-pro-problems-fixes-3384863/)
- - [14 Great Gifts for Mom: Ideas for the Mother in Your Life](https://www.wired.com/gallery/gifts-for-mom/)
- - [Venmo Groups aims to make it easier to split up and track expenses](https://www.theverge.com/2023/11/14/23959776/venmo-groups-shared-expenses-feature-update)<!-- TECH:END -->
+ - [Score 45% off this Anker 240W 4-Port GaN Charger ahead of Black Friday](https://www.androidauthority.com/anker-prime-charger-black-friday-3385361/)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Apple shares 2023 App Store Awards finalists](https://appleinsider.com/articles/23/11/14/apple-shares-2023-app-store-awards-finalists?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
