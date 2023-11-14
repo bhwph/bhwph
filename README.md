@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
- - 😝 [Circa 2016-2017 the beginning](http://9gag.com/gag/aL15e5A)
- - 👉 [I wonder why](http://9gag.com/gag/a5X3wyq)<!-- MEMES:END -->
+ - 6️⃣ [They/was](http://9gag.com/gag/aL15Lxz)
+ - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
+ - 👉 [Exactly!!!](http://9gag.com/gag/a6q6Dre)<!-- MEMES:END -->
 
 --- 
 
