@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best BAS-B loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23958874/best-bas-b-loadout-class-build-mw3)
- - [A new Evangelion anime tribute motherboard from Asus is getting plenty of attention but not quite for the right reasons](https://www.pcgamer.com/a-new-evangelion-anime-tribute-motherboard-from-asus-is-getting-plenty-of-attention-but-not-quite-for-the-right-reasons)
- - [I played Baldur&#39;s Gate 3 by flipping a coin whenever violence was an option, and it&#39;s my new favourite way to play The Dark Urge](https://www.pcgamer.com/i-played-baldurs-gate-3-by-flipping-a-coin-whenever-violence-was-an-option-and-its-my-new-favourite-way-to-play-the-dark-urge)<!-- GAME:END -->
+ - [How to open eye chests in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23590147/unlock-open-eye-chests-rewards-disillusionment-spell)
+ - [How to get a broom in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23590906/all-brooms-list-unlocks-differences-upgrades-side-quests-arn-leopold-priya-rohan-albie)
+ - [Coming Soon to Game Pass: Persona 5 Tactica, Rollerdrome, and Dune: Spice Wars](https://news.xbox.com/en-us/2023/11/14/game-pass-november-2023-wave-2-announce/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
