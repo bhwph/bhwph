@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s How Bad Climate Change Will Get in the US—and Why There’s Still Hope](https://www.wired.com/story/heres-how-bad-climate-change-will-get-in-the-us-and-why-theres-still-hope/)
- - [Latest US climate assessment shows the extreme toll taken by climate change](https://www.theverge.com/2023/11/14/23958824/us-national-climate-assessment-unequal-costs-climate-change)
- - [A profile of Geoffrey Hinton, who argues that LLMs like GPT can comprehend the meanings of words and learn how the world works by analyzing human writing &lpar;Joshua Rothman/New Yorker&rpar;](http://www.techmeme.com/231114/p4#a231114p4)<!-- TECH:END -->
+ - [A eulogy for coding, which has always felt like an endlessly deep and rich domain, after ChatGPT swallowed knowledge and skills that take lifetimes to master &lpar;James Somers/New Yorker&rpar;](http://www.techmeme.com/231114/p12#a231114p12)
+ - [Counterpoint: Chinese smartphone sales grew 11% YoY in October, led by Huawei, up 83% due to the Mate 60, and Xiaomi, up 33%; iPhone sales were unusually muted &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/231114/p11#a231114p11)
+ - [Màkku Review: an Ancient Korean Libation Transformed for the Modern Drinker](https://www.wired.com/story/makku-makgeolli/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
