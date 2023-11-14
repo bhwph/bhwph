@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pencil USB-C gets its first firmware update](https://appleinsider.com/articles/23/11/14/apple-pencil-usb-c-gets-its-first-firmware-update?utm_medium=rss)
- - [The 41 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
- - [Samsung denies rumors of cheap foldables, says ‘nothing decided’ about Galaxy Z FE phones](https://www.androidauthority.com/cheap-foldables-samsung-denial-3385446/)<!-- TECH:END -->
+ - [Notion unveils Q&amp;A, an AI assistant that gives answers using information from a user&#39;s workspace, as part of the $8-$10/month-per-person Notion AI add-on &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231114/p34#a231114p34)
+ - [Volvo to focus on value adds outside the infotainment system, will leave CarPlay alone](https://appleinsider.com/articles/23/11/14/volvo-to-focus-on-value-adds-outside-the-infotainment-system-will-leave-carplay-alone?utm_medium=rss)
+ - [EU lawmakers struggle to reach a compromise on the final shape of the AI Act, as France and Germany push for a regulatory carve-out for foundational models &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231114/p33#a231114p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
