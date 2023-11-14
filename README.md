@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Elder Scrolls Online: Endless Archive &amp; Update 40 Now Live on Xbox Series X|S &amp; Xbox One](https://www.elderscrollsonline.com/en-us/news/post/64849)
- - [Scott Pilgrim was never the guy the movie made him out to be](https://www.polygon.com/23952977/scott-pilgrim-vs-world-movie-comic-changes)
- - [The best early Black Friday deals](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)<!-- GAME:END -->
+ - [Why it’s OK that so many top Pokémon players ‘cheat’](https://www.polygon.com/pokemon/23955708/pokemon-scarlet-violet-cheating-scandal-competitive-explained)
+ - [The Epic Vs. Google Courtroom Battle Sounds Bonkers](https://kotaku.com/epic-google-legal-fight-destroying-evidence-fortnite-1851021637)
+ - [Dear Video Game Industry, Please Name A Woman](https://kotaku.com/pc-gamer-30th-anniversary-women-games-1851021562)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
