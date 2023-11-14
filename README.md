@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
- - 😝 [And for less money too](http://9gag.com/gag/aA05EAo)
- - 👉 [Shut up and take my money](http://9gag.com/gag/axow67M)<!-- MEMES:END -->
+ - 😝 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)
+ - 👉 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)<!-- MEMES:END -->
 
 --- 
 
