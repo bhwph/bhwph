@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Here at the March for Israel, nobody is covering their faces, destroying public property, or calling for genocide.](http://9gag.com/gag/armwxdd)
- - 😝 [C-Cant Tell](http://9gag.com/gag/a6q6BQm)
- - 👉 [This is Mudd . He is my best friend. And tomorrow is my Last day with my best friend ever. For 16 years he was by my side and now I have to let him go to. Please be kind fellow degenerates . I just want his spirit to live on in the place I go to escape. I Love you Muddmuffin.](http://9gag.com/gag/a4oyNgA)<!-- MEMES:END -->
+ - 6️⃣ [Always a dinner option](http://9gag.com/gag/aVb5opM)
+ - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
+ - 👉 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)<!-- MEMES:END -->
 
 --- 
 
