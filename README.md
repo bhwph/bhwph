@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Go From Game Pass to Game Day With Xbox, Football Manager &amp; Bromley FC](https://news.xbox.com/en-us/2023/11/14/football-manager-2024-everyday-tactician-competition/)
- - [Can Buneary be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23958955/can-buneary-be-shiny-lopunny-mega)
- - [Wordle today: Hint and answer #878 for Tuesday, November 14](https://www.pcgamer.com/wordle-today-answer-878-november-14)<!-- GAME:END -->
+ - [Best BAS-B loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23958874/best-bas-b-loadout-class-build-mw3)
+ - [A new Evangelion anime tribute motherboard from Asus is getting plenty of attention but not quite for the right reasons](https://www.pcgamer.com/a-new-evangelion-anime-tribute-motherboard-from-asus-is-getting-plenty-of-attention-but-not-quite-for-the-right-reasons)
+ - [I played Baldur&#39;s Gate 3 by flipping a coin whenever violence was an option, and it&#39;s my new favourite way to play The Dark Urge](https://www.pcgamer.com/i-played-baldurs-gate-3-by-flipping-a-coin-whenever-violence-was-an-option-and-its-my-new-favourite-way-to-play-the-dark-urge)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
