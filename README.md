@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy Tab S7 FE drops within $3 of its all-time low](https://www.androidauthority.com/samsung-galaxy-tab-s7-fe-deal-3385142/)
- - [Threads finally lets you delete your account separately from Instagram](https://www.theverge.com/2023/11/13/23959709/threads-delete-account-instagram-keep-meta)
- - [Too many organizations have chosen to obfuscate, mislead, or be too tight-lipped in data breach disclosures, and new regulations should force more transparency &lpar;DataBreaches.net&rpar;](http://www.techmeme.com/231113/p23#a231113p23)<!-- TECH:END -->
+ - [Amazon restructures its games division to focus on free streaming games offered with Prime and cuts ~180 jobs, the unit&#39;s second round of layoffs in 2023 &lpar;Nathan Grayson/Aftermath&rpar;](http://www.techmeme.com/231113/p27#a231113p27)
+ - [Uber plans to test Uber Tasks, a TaskRabbit-like service that lets users hire people to complete household tasks, in Fort Myers and Edmonton in the coming weeks &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/231113/p26#a231113p26)
+ - [Amazon Black Friday Deals: Shop Early Savings on Tech, Kitchen Appliances and More     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
