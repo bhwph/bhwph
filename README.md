@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A eulogy for coding, which has always felt like an endlessly deep and rich domain, after ChatGPT swallowed knowledge and skills that take lifetimes to master &lpar;James Somers/New Yorker&rpar;](http://www.techmeme.com/231114/p12#a231114p12)
- - [Counterpoint: Chinese smartphone sales grew 11% YoY in October, led by Huawei, up 83% due to the Mate 60, and Xiaomi, up 33%; iPhone sales were unusually muted &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/231114/p11#a231114p11)
- - [Màkku Review: an Ancient Korean Libation Transformed for the Modern Drinker](https://www.wired.com/story/makku-makgeolli/)<!-- TECH:END -->
+ - [Google Pixel 8 and Pixel 8 Pro problems and how to fix them](https://www.androidauthority.com/google-pixel-8-pro-problems-fixes-3384863/)
+ - [14 Great Gifts for Mom: Ideas for the Mother in Your Life](https://www.wired.com/gallery/gifts-for-mom/)
+ - [Venmo Groups aims to make it easier to split up and track expenses](https://www.theverge.com/2023/11/14/23959776/venmo-groups-shared-expenses-feature-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
