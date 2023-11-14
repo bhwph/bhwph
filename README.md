@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A new level of cheat on gambling.](http://9gag.com/gag/aZD58pW)
- - 😝 [Any sex offenders here?](http://9gag.com/gag/a1PjNVb)
- - 👉 [A photo of Gaza babies has appeared all over social media saying they were taken out of their incubators because the hospital doesn\u2019t have electricity. The thing is there\u2019s also an uncropped photo that clearly shows a functional electrical monitor in the background.](http://9gag.com/gag/aoKw3AA)<!-- MEMES:END -->
+ - 6️⃣ [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
+ - 😝 [Circa 2016-2017 the beginning](http://9gag.com/gag/aL15e5A)
+ - 👉 [I wonder why](http://9gag.com/gag/a5X3wyq)<!-- MEMES:END -->
 
 --- 
 
