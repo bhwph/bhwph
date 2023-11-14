@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
- - 😝 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)
- - 👉 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)<!-- MEMES:END -->
+ - 6️⃣ [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)
+ - 😝 [I see this as an absolute win](http://9gag.com/gag/aXn1Ngb)
+ - 👉 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)<!-- MEMES:END -->
 
 --- 
 
