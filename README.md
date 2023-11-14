@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They/was](http://9gag.com/gag/aL15Lxz)
- - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
- - 👉 [Exactly!!!](http://9gag.com/gag/a6q6Dre)<!-- MEMES:END -->
+ - 6️⃣ [Facts](http://9gag.com/gag/ay2w6LY)
+ - 😝 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
+ - 👉 [It has been confirmed by the IDF the guy with all the talents as been eliminated.](http://9gag.com/gag/aoKwVYg)<!-- MEMES:END -->
 
 --- 
 
