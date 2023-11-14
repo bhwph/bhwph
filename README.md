@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Access controller accessibility consultants spotlight video and setup tutorials](https://blog.playstation.com/2023/11/14/new-access-controller-accessibility-consultants-spotlight-video-and-setup-tutorials/)
- - [Captain Marvel should have been the MCU’s first true jock](https://www.polygon.com/23955835/marvels-captain-marvel-should-be-a-jock)
- - [YouTubers Put Anal Bead Chess Conspiracy To The Test](https://kotaku.com/youtube-chess-anal-beads-magnus-carlsen-hans-niemann-1851020457)<!-- GAME:END -->
+ - [The Elder Scrolls Online: Endless Archive &amp; Update 40 Now Live on Xbox Series X|S &amp; Xbox One](https://www.elderscrollsonline.com/en-us/news/post/64849)
+ - [Scott Pilgrim was never the guy the movie made him out to be](https://www.polygon.com/23952977/scott-pilgrim-vs-world-movie-comic-changes)
+ - [The best early Black Friday deals](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
