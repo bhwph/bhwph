@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube gives AI chatbot early access to select Premium subscribers](https://www.androidauthority.com/youtube-premium-new-features-3385878/)
- - [Apple &amp; other tech giants appeal Maryland&#39;s digital advertising tax](https://appleinsider.com/articles/23/11/15/apple-other-tech-giants-appeal-marylands-digital-advertising-tax?utm_medium=rss)
- - [Amazon&#39;s early Black Friday deal drops Apple&#39;s 15-inch MacBook Air to $1,049](https://appleinsider.com/articles/23/11/15/amazons-early-black-friday-deal-drops-apples-15-inch-macbook-air-to-1049?utm_medium=rss)<!-- TECH:END -->
+ - [Eligible Apple Music subscribers get up to six months free on PlayStation 5](https://appleinsider.com/articles/23/11/15/eligible-apple-music-subscribers-get-up-to-six-months-free-on-playstation-5?utm_medium=rss)
+ - [Get a sneak peek at the cool new features coming with first 2024 Pixel feature drop](https://www.androidauthority.com/android-14-qpr2-beta-1-3385947/)
+ - [Sonos teases a major new product coming next year](https://www.theverge.com/2023/11/15/23962936/sonos-major-new-product-coming-2024-tease)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
