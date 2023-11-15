@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)
- - 😝 [Always a dinner option](http://9gag.com/gag/aVb5opM)
- - 👉 [Arrest for manslaughter in connection with the death of a hockey player. The hockey career of the Petgrave perpetrator pictured is apparently over. Finally.](http://9gag.com/gag/ajVwxMp)<!-- MEMES:END -->
+ - 6️⃣ [As simple as that](http://9gag.com/gag/abvwWYp)
+ - 😝 [Muslim Immigrants patrolling street in France with AK-47s.](http://9gag.com/gag/aME5zyP)
+ - 👉 [This is Mudd . He is my best friend. And tomorrow is my Last day with my best friend ever. For 16 years he was by my side and now I have to let him go to. Please be kind fellow degenerates . I just want his spirit to live on in the place I go to escape. I Love you Muddmuffin.](http://9gag.com/gag/a4oyNgA)<!-- MEMES:END -->
 
 --- 
 
