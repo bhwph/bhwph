@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Notion unveils Q&amp;A, an AI assistant that gives answers using information from a user&#39;s workspace, as part of the $8-$10/month-per-person Notion AI add-on &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231114/p34#a231114p34)
- - [Volvo to focus on value adds outside the infotainment system, will leave CarPlay alone](https://appleinsider.com/articles/23/11/14/volvo-to-focus-on-value-adds-outside-the-infotainment-system-will-leave-carplay-alone?utm_medium=rss)
- - [EU lawmakers struggle to reach a compromise on the final shape of the AI Act, as France and Germany push for a regulatory carve-out for foundational models &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231114/p33#a231114p33)<!-- TECH:END -->
+ - [Cruise says it will pause all supervised and manual car trips in the US while it undergoes a full safety review and that it will hire an outside safety expert &lpar;Reuters&rpar;](http://www.techmeme.com/231114/p37#a231114p37)
+ - [The FBI dismantled the IPStorm botnet proxy network and its infrastructure as part of a September plea deal with Sergei Makinin, the hacker behind the operation &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231114/p36#a231114p36)
+ - [YouTube’s non-solution for AI podcasts](https://www.theverge.com/2023/11/14/23961391/youtube-ai-podcast-israel-gaza-tosh-iheart)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
