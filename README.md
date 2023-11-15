@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Oligarch’ item and weapon locations in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23960488/oligarch-item-weapon-locations-mw3)
- - [PlayStation Indies promotion comes to PlayStation Store](https://blog.playstation.com/2023/11/14/playstation-indies-promotion-comes-to-playstation-store/)
- - [PlayStation Indies promotion comes to PlayStation Store](https://blog.playstation.com/2023/11/14/playstation-indies-promotion-comes-to-playstation-store/)<!-- GAME:END -->
+ - [Black Friday: Save $50 on Select Xbox Series X|S Consoles, 1,000+ Games on Sale, and More!](https://news.xbox.com/en-us/2023/11/15/xbox-black-friday-cyber-monday-2023/)
+ - [Super Mario RPG is an endearing, perplexing relic](https://www.polygon.com/reviews/23960636/super-mario-rpg-2023-switch-remake-review)
+ - [Where to find Dogweed and Deathcap’s location in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23956081/dogweed-deathcap-location-where-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
