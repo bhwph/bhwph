@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best early Black Friday MacBook deals you can shop right now](https://appleinsider.com/articles/23/11/15/best-early-black-friday-macbook-deals-you-can-shop-right-now?utm_medium=rss)
- - [Cruise says it will pause all supervised and manual car trips in the US while it undergoes a full safety review and that it will hire an outside safety expert &lpar;Reuters&rpar;](http://www.techmeme.com/231114/p37#a231114p37)
- - [The FBI dismantled the IPStorm botnet proxy network and its infrastructure as part of a September plea deal with Sergei Makinin, the hacker behind the operation &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231114/p36#a231114p36)<!-- TECH:END -->
+ - [Epic v. Google: Sundar Pichai confirms Google paid Apple 36% of the search revenue generated on iPhones, saying the total payment &quot;was well over $10B&quot; in 2022 &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/231114/p40#a231114p40)
+ - [Japan to require companies like Apple to pay taxes in place of developers](https://appleinsider.com/articles/23/11/15/japan-to-require-companies-like-apple-to-pay-taxes-in-place-of-developers?utm_medium=rss)
+ - [Japan proposes making Apple, Google, and other app store operators responsible for paying consumption taxes on content sold by foreign developers &lpar;Ko Fujioka/Nikkei Asia&rpar;](http://www.techmeme.com/231114/p39#a231114p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
