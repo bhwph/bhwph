@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cristy Ren](http://9gag.com/gag/amAwxNy)
- - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
- - 👉 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)<!-- MEMES:END -->
+ - 6️⃣ [The Riddler](http://9gag.com/gag/aA05Xeo)
+ - 😝 [3 gentleman, 0 words](http://9gag.com/gag/aREd2VM)
+ - 👉 [Behold, Dragon LAN](http://9gag.com/gag/aeQw2yb)<!-- MEMES:END -->
 
 --- 
 
