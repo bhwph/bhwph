@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Riddler](http://9gag.com/gag/aA05Xeo)
- - 😝 [3 gentleman, 0 words](http://9gag.com/gag/aREd2VM)
- - 👉 [Behold, Dragon LAN](http://9gag.com/gag/aeQw2yb)<!-- MEMES:END -->
+ - 6️⃣ [Pixels are hard to find.](http://9gag.com/gag/a7qXV8z)
+ - 😝 [8.5](http://9gag.com/gag/amAwmqv)
+ - 👉 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)<!-- MEMES:END -->
 
 --- 
 
