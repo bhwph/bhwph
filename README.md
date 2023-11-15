@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We’re giving away 100 tickets to Polygon’s screening of Godzilla Minus One](https://www.polygon.com/23961026/godzilla-minus-one-polygon-screening-frida)
- - [The Best Soulslike Of 2023 Just Got Easier](https://kotaku.com/lies-of-p-new-update-1-3-0-0-rising-dodge-easy-1851024162)
- - [Analogue’s back with another limited edition Pocket lineup](https://www.polygon.com/2023/11/15/23962223/analogue-pocket-limited-editions-gaming-console-2023)<!-- GAME:END -->
+ - [How Suicide Squad: Kill the Justice League taps into PS5’s immersive power](https://blog.playstation.com/2023/11/15/how-suicide-squad-kill-the-justice-league-taps-into-ps5s-immersive-power/)
+ - [Pokémon Go Fashion Week 2023 event guide](https://www.polygon.com/pokemon-go-guide/23962294/fashion-week-2023-timed-research-collection-challenge-shiny)
+ - [The best surprise vampires in things you did not expect to see vampires](https://www.polygon.com/23959378/best-surprise-vampires-boo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
