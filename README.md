@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Suicide Squad: Kill the Justice League taps into PS5’s immersive power](https://blog.playstation.com/2023/11/15/how-suicide-squad-kill-the-justice-league-taps-into-ps5s-immersive-power/)
- - [Pokémon Go Fashion Week 2023 event guide](https://www.polygon.com/pokemon-go-guide/23962294/fashion-week-2023-timed-research-collection-challenge-shiny)
- - [The best surprise vampires in things you did not expect to see vampires](https://www.polygon.com/23959378/best-surprise-vampires-boo)<!-- GAME:END -->
+ - [Suicide Squad Game Resurfaces With Big Map And Live-Service Plans](https://kotaku.com/suicide-squad-justice-league-new-gameplay-map-size-1851025482)
+ - [Suicide Squad&#39;s Seasonal Content And Characters Will Be Free](https://kotaku.com/suicide-squad-battle-pass-free-characters-early-access-1851025270)
+ - [Rocksteady’s Suicide Squad game looks a lot more fun now](https://www.polygon.com/23960892/suicide-squad-kill-justice-league-new-gameplay-story)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
