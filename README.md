@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s New Titan Security Key Adds Another Piece to the Password-Killing Puzzle](https://www.wired.com/story/google-titan-security-key-passkeys/)
- - [Sources: Shein&#39;s revenue grew 40%+ YoY to $24B between January and September and is likely on track to reach Shein&#39;s goal of $32B-$33B for all of 2023, up 40% &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/231115/p38#a231115p38)
- - [Qi2’s MagSafe-like wireless charging is finally almost here](https://www.theverge.com/2023/11/15/23961310/qi2-magnetic-wireless-charging-open-standard-certification)<!-- TECH:END -->
+ - [YouTube gives AI chatbot early access to select Premium subscribers](https://www.androidauthority.com/youtube-premium-new-features-3385878/)
+ - [Apple &amp; other tech giants appeal Maryland&#39;s digital advertising tax](https://appleinsider.com/articles/23/11/15/apple-other-tech-giants-appeal-marylands-digital-advertising-tax?utm_medium=rss)
+ - [Amazon&#39;s early Black Friday deal drops Apple&#39;s 15-inch MacBook Air to $1,049](https://appleinsider.com/articles/23/11/15/amazons-early-black-friday-deal-drops-apples-15-inch-macbook-air-to-1049?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
