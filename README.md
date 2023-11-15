@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces Copilot Studio, a no-code tool to build on 365 Copilot to let businesses create a custom copilot or integrate a custom ChatGPT chatbot &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231115/p27#a231115p27)
- - [Norway&#39;s Privacy Battle With Meta Is Just Getting Started](https://www.wired.com/story/norways-privacy-battle-with-meta-is-just-getting-started/)
- - [Microsoft rebrands Bing Chat to Microsoft Copilot to compete with ChatGPT, pitching Copilot as the free version and Copilot for Microsoft 365 as paid version &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231115/p26#a231115p26)<!-- TECH:END -->
+ - [Google’s New Titan Security Key Adds Another Piece to the Password-Killing Puzzle](https://www.wired.com/story/google-titan-security-key-passkeys/)
+ - [Sources: Shein&#39;s revenue grew 40%+ YoY to $24B between January and September and is likely on track to reach Shein&#39;s goal of $32B-$33B for all of 2023, up 40% &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/231115/p38#a231115p38)
+ - [Qi2’s MagSafe-like wireless charging is finally almost here](https://www.theverge.com/2023/11/15/23961310/qi2-magnetic-wireless-charging-open-standard-certification)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
