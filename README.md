@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reveals its Black Friday deals, and the Pixel 8 is unbeatable at this price](https://www.androidauthority.com/google-black-friday-deals-pixel-8-pro-3385635/)
- - [Three young hackers behind Mirai talk about building the DDoS botnet, losing control of their monster, their work for the FBI as part of a plea deal, and more &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231115/p5#a231115p5)
- - [Why I’m &lpar;Cautiously&rpar; Optimistic About COP28](https://www.wired.com/story/wired-impact-hannah-ritchie-cop28-optimism-pessimism/)<!-- TECH:END -->
+ - [Tencent reports Q3 revenue up 10% YoY to ~$21.4B, in line with ~$21.37B est., and net profit down 9% YoY to ~$5B, beating ~$4.7B est., as game sales recover &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231115/p9#a231115p9)
+ - [Apple extends free usage of Emergency SOS on iPhone 14 for two more years, to September 2025; the company has not yet announced how much Emergency SOS will cost &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/231115/p8#a231115p8)
+ - [An in-depth look at how platforms like Shein, Pinduoduo-owned Temu, and TikTok Shop are heralding a new era for Chinese e-commerce by expanding overseas &lpar;Rest of World&rpar;](http://www.techmeme.com/231115/p7#a231115p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
