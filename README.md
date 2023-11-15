@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday: Save $50 on Select Xbox Series X|S Consoles, 1,000+ Games on Sale, and More!](https://news.xbox.com/en-us/2023/11/15/xbox-black-friday-cyber-monday-2023/)
- - [Super Mario RPG is an endearing, perplexing relic](https://www.polygon.com/reviews/23960636/super-mario-rpg-2023-switch-remake-review)
- - [Where to find Dogweed and Deathcap’s location in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23956081/dogweed-deathcap-location-where-to-find)<!-- GAME:END -->
+ - [We’re giving away 100 tickets to Polygon’s screening of Godzilla Minus One](https://www.polygon.com/23961026/godzilla-minus-one-polygon-screening-frida)
+ - [The Best Soulslike Of 2023 Just Got Easier](https://kotaku.com/lies-of-p-new-update-1-3-0-0-rising-dodge-easy-1851024162)
+ - [Analogue’s back with another limited edition Pocket lineup](https://www.polygon.com/2023/11/15/23962223/analogue-pocket-limited-editions-gaming-console-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
