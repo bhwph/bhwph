@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Playing Brazilian ten-string guitar with rattlesnake tails](http://9gag.com/gag/adPwxx9)
- - 😝 [As simple as that](http://9gag.com/gag/abvwWYp)
- - 👉 [Another not hate crime](http://9gag.com/gag/az2wOYN)<!-- MEMES:END -->
+ - 6️⃣ [Cap?](http://9gag.com/gag/aeQwOdO)
+ - 😝 [Feminist we love you](http://9gag.com/gag/az2wPZp)
+ - 👉 [9 years old afghan girl was married off to a 50 year old man. Her screams are the only thing to describe the pain and fear in her heart. This is sharia law.](http://9gag.com/gag/a3ZryK3)<!-- MEMES:END -->
 
 --- 
 
