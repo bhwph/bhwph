@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei and China Mobile have built a 3,000 km network that they claim is the world&#39;s first internet network to achieve a &quot;stable and reliable&quot; 1.2Tbps bandwidth &lpar;Bloomberg&rpar;](http://www.techmeme.com/231115/p2#a231115p2)
- - [Sam Altman says OpenAI is pausing new ChatGPT Plus signups &quot;for a bit&quot; as &quot;the surge in usage post devday has exceeded our capacity&quot; &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/231115/p1#a231115p1)
- - [Best Solar Panel Installation Companies in North Carolina     - CNET](https://www.cnet.com/home/energy-and-utilities/north-carolina-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google reveals its Black Friday deals, and the Pixel 8 is unbeatable at this price](https://www.androidauthority.com/google-black-friday-deals-pixel-8-pro-3385635/)
+ - [Three young hackers behind Mirai talk about building the DDoS botnet, losing control of their monster, their work for the FBI as part of a plea deal, and more &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231115/p5#a231115p5)
+ - [Why I’m &lpar;Cautiously&rpar; Optimistic About COP28](https://www.wired.com/story/wired-impact-hannah-ritchie-cop28-optimism-pessimism/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
