@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad Game Resurfaces With Big Map And Live-Service Plans](https://kotaku.com/suicide-squad-justice-league-new-gameplay-map-size-1851025482)
- - [Suicide Squad&#39;s Seasonal Content And Characters Will Be Free](https://kotaku.com/suicide-squad-battle-pass-free-characters-early-access-1851025270)
- - [Rocksteady’s Suicide Squad game looks a lot more fun now](https://www.polygon.com/23960892/suicide-squad-kill-justice-league-new-gameplay-story)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Delta &lpar;2311.231114-2200&rpar;](https://news.xbox.com/en-us/2023/11/15/xbox-insider-release-notes-delta-2311-231114-2200/)
+ - [Xbox Insider Release Notes – Beta &lpar;2311.231114-2200&rpar;](https://news.xbox.com/en-us/2023/11/15/xbox-insider-release-notes-beta-2311-231114-2200/)
+ - [Valve Has A Plan To Stop Bots And Resellers Buying Out The New Steam Deck](https://kotaku.com/valve-bots-resellers-steam-deck-oled-limited-edition-1851026007)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
