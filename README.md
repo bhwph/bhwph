@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Always a dinner option](http://9gag.com/gag/aVb5opM)
- - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
- - 👉 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)<!-- MEMES:END -->
+ - 6️⃣ [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)
+ - 😝 [Always a dinner option](http://9gag.com/gag/aVb5opM)
+ - 👉 [Arrest for manslaughter in connection with the death of a hockey player. The hockey career of the Petgrave perpetrator pictured is apparently over. Finally.](http://9gag.com/gag/ajVwxMp)<!-- MEMES:END -->
 
 --- 
 
