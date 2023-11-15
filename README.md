@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best early Black Friday MacBook deals you can shop right now](https://appleinsider.com/articles/23/11/15/best-early-black-friday-macbook-deals-you-can-shop-right-now?utm_medium=rss)
  - [Cruise says it will pause all supervised and manual car trips in the US while it undergoes a full safety review and that it will hire an outside safety expert &lpar;Reuters&rpar;](http://www.techmeme.com/231114/p37#a231114p37)
- - [The FBI dismantled the IPStorm botnet proxy network and its infrastructure as part of a September plea deal with Sergei Makinin, the hacker behind the operation &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231114/p36#a231114p36)
- - [YouTube’s non-solution for AI podcasts](https://www.theverge.com/2023/11/14/23961391/youtube-ai-podcast-israel-gaza-tosh-iheart)<!-- TECH:END -->
+ - [The FBI dismantled the IPStorm botnet proxy network and its infrastructure as part of a September plea deal with Sergei Makinin, the hacker behind the operation &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231114/p36#a231114p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
