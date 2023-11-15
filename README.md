@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent reports Q3 revenue up 10% YoY to ~$21.4B, in line with ~$21.37B est., and net profit down 9% YoY to ~$5B, beating ~$4.7B est., as game sales recover &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231115/p9#a231115p9)
- - [Apple extends free usage of Emergency SOS on iPhone 14 for two more years, to September 2025; the company has not yet announced how much Emergency SOS will cost &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/231115/p8#a231115p8)
- - [An in-depth look at how platforms like Shein, Pinduoduo-owned Temu, and TikTok Shop are heralding a new era for Chinese e-commerce by expanding overseas &lpar;Rest of World&rpar;](http://www.techmeme.com/231115/p7#a231115p7)<!-- TECH:END -->
+ - [Asus apologizes for accidentally printing &quot;Evangenlion&quot;, not &quot;Evangelion&quot;, on new $700 ROG Maximus Z790 Hero EVA-02 Edition motherboards and offers replacements &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/231115/p13#a231115p13)
+ - [How to secure NameDrop and keep safe in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-secure-namedrop-and-keep-safe-in-ios-17?utm_medium=rss)
+ - [Google originally did not want to make any money from Android’s app store](https://www.androidauthority.com/google-android-market-profit-center-play-store-3385746/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
