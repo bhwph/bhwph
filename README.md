@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat and NYX launch new beauty filter that’s also a stealth shopping tool](https://www.theverge.com/2023/11/15/23962092/snapchat-beauty-bestie-ar-filter-nyx-makeup-shop-online)
- - [Google Maps announces updates, including improved transit directions for &quot;lowest cost&quot;, &quot;less walking&quot;, and more, emoji reactions, and collaborative lists &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231115/p16#a231115p16)
- - [Eureka E10S review: an ideal solution for everyday cleaning](https://appleinsider.com/articles/23/11/15/eureka-e10s-review-an-ideal-solution-for-everyday-cleaning?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft announces Copilot Studio, a no-code tool to build on 365 Copilot to let businesses create a custom copilot or integrate a custom ChatGPT chatbot &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231115/p27#a231115p27)
+ - [Norway&#39;s Privacy Battle With Meta Is Just Getting Started](https://www.wired.com/story/norways-privacy-battle-with-meta-is-just-getting-started/)
+ - [Microsoft rebrands Bing Chat to Microsoft Copilot to compete with ChatGPT, pitching Copilot as the free version and Copilot for Microsoft 365 as paid version &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231115/p26#a231115p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
