@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus apologizes for accidentally printing &quot;Evangenlion&quot;, not &quot;Evangelion&quot;, on new $700 ROG Maximus Z790 Hero EVA-02 Edition motherboards and offers replacements &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/231115/p13#a231115p13)
- - [How to secure NameDrop and keep safe in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-secure-namedrop-and-keep-safe-in-ios-17?utm_medium=rss)
- - [Google originally did not want to make any money from Android’s app store](https://www.androidauthority.com/google-android-market-profit-center-play-store-3385746/)<!-- TECH:END -->
+ - [Snapchat and NYX launch new beauty filter that’s also a stealth shopping tool](https://www.theverge.com/2023/11/15/23962092/snapchat-beauty-bestie-ar-filter-nyx-makeup-shop-online)
+ - [Google Maps announces updates, including improved transit directions for &quot;lowest cost&quot;, &quot;less walking&quot;, and more, emoji reactions, and collaborative lists &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231115/p16#a231115p16)
+ - [Eureka E10S review: an ideal solution for everyday cleaning](https://appleinsider.com/articles/23/11/15/eureka-e10s-review-an-ideal-solution-for-everyday-cleaning?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
