@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cap?](http://9gag.com/gag/aeQwOdO)
- - 😝 [Feminist we love you](http://9gag.com/gag/az2wPZp)
- - 👉 [9 years old afghan girl was married off to a 50 year old man. Her screams are the only thing to describe the pain and fear in her heart. This is sharia law.](http://9gag.com/gag/a3ZryK3)<!-- MEMES:END -->
+ - 6️⃣ [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
+ - 😝 [It has been confirmed by the IDF the guy with all the talents as been eliminated.](http://9gag.com/gag/aoKwVYg)
+ - 👉 [Today is birthday of one of the best MVP - Astrid Lindgren. Person, who made our childhood awesome.](http://9gag.com/gag/a5X3GVV)<!-- MEMES:END -->
 
 --- 
 
