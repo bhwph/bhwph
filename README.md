@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eligible Apple Music subscribers get up to six months free on PlayStation 5](https://appleinsider.com/articles/23/11/15/eligible-apple-music-subscribers-get-up-to-six-months-free-on-playstation-5?utm_medium=rss)
- - [Get a sneak peek at the cool new features coming with first 2024 Pixel feature drop](https://www.androidauthority.com/android-14-qpr2-beta-1-3385947/)
- - [Sonos teases a major new product coming next year](https://www.theverge.com/2023/11/15/23962936/sonos-major-new-product-coming-2024-tease)<!-- TECH:END -->
+ - [Google rolls out Bard access for teens that &quot;meet the minimum age requirement to manage their own Google Account&quot; and have English set, with safeguards in place &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231115/p48#a231115p48)
+ - [T20 Wireless Earbuds     - CNET](https://www.cnet.com/tech/mobile/t20-wireless-earbuds-dpnl/#ftag=CAD590a51e)
+ - [Threads is testing hashtags with a side of trending topics](https://www.theverge.com/2023/11/15/23963101/meta-threads-instagram-hashtags-trending-topics)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
