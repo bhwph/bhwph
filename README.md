@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s flavor of RCS won&#39;t support Google&#39;s end-to-end encryption extension](https://appleinsider.com/articles/23/11/16/apples-flavor-of-rcs-wont-support-googles-end-to-end-encryption-extension?utm_medium=rss)
- - [Sources: Apple may postpone the release of its own iPhone modem chip until at least the end of 2025 or early 2026, the final year of its contract with Qualcomm &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231116/p43#a231116p43)
- - [Microsoft details planned changes to Windows 11 in the EEA to comply with the DMA, including letting users disable Bing web search and remove Microsoft Edge &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231116/p42#a231116p42)<!-- TECH:END -->
+ - [MediaTek announces a partnership with Meta to develop chips for AR smart glasses; Ray-Ban Meta Smart Glasses are equipped with Qualcomm&#39;s Snapdragon AR1 Gen 1 &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/231116/p46#a231116p46)
+ - [Google&#39;s RCS messaging is coming to iPhone in 2024](https://appleinsider.com/articles/23/11/16/googles-rcs-messaging-is-coming-to-iphone-in-2024?utm_medium=rss)
+ - [Apple&#39;s flavor of RCS won&#39;t support Google&#39;s end-to-end encryption extension](https://appleinsider.com/articles/23/11/16/apples-flavor-of-rcs-wont-support-googles-end-to-end-encryption-extension?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
