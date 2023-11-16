@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Memphis, Tennessee](http://9gag.com/gag/a9q080D)
- - 😝 [Sharia law for me not for thee](http://9gag.com/gag/aGE5OL5)
+ - 6️⃣ [Guess I die](http://9gag.com/gag/az2wRYj)
+ - 😝 [Chaos in comments](http://9gag.com/gag/aPg2e7P)
  - 👉 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)<!-- MEMES:END -->
 
 --- 
