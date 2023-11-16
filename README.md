@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Chinese imports of chip manufacturing equipment rose 93% YoY to $8.7B in Q3 2023 and imports of lithography equipment from the Netherlands jumped 6x &lpar;Ryosuke Eguchi/Nikkei Asia&rpar;](http://www.techmeme.com/231116/p3#a231116p3)
- - [An extremely pornographic ad is making the rounds on YouTube &lpar;Updated: Official statement&rpar;](https://www.androidauthority.com/youtube-porn-ad-3385786/)
- - [Lenovo reports Q2 revenue down 16% YoY to $14.4B, meeting estimates but marking the fifth straight quarterly sales decline, net income down 60% YoY to $249M &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231116/p2#a231116p2)<!-- TECH:END -->
+ - [Google’s killer Black Friday sale includes the Pixel 8 for $549, and much more](https://www.androidauthority.com/google-black-friday-pixel-8-3385908/)
+ - [Paxos and StraitsX get in-principle approvals from the Monetary Authority of Singapore to issue USD-backed stablecoins &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/231116/p9#a231116p9)
+ - [Spotify’s podcast and audiobook discovery will get a boost from Google Cloud’s AI](https://www.theverge.com/2023/11/16/23963112/spotify-podcast-audiobook-discovery-personalized-recommendations-google-cloud-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
