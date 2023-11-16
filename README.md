@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could be working on ways to help you discover new apps and content on the Play Store](https://www.androidauthority.com/google-play-store-discover-new-apps-content-3386101/)
- - [Microsoft launches a Windows App on iOS, iPadOS, macOS, Windows, and the web, letting enterprise customers stream a copy of Windows, available in preview &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231116/p19#a231116p19)
- - [Alibaba filing: Jack Ma&#39;s family trust plans to sell 10M American Depository Shares of Alibaba for around $871M; BABA drops 8%+ &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231116/p18#a231116p18)<!-- TECH:END -->
+ - [Soon, you&#39;ll be able to stream Windows through a Microsoft app on iPad, Mac, and iPhone](https://appleinsider.com/articles/23/11/16/soon-youll-be-able-to-stream-windows-through-a-microsoft-app-on-ipad-mac-and-iphone?utm_medium=rss)
+ - [Android’s new Private Space feature could let you hide apps and data on your phone](https://www.androidauthority.com/android-new-private-space-feature-3386138/)
+ - [16 Best Laptops &lpar;2023&rpar;: MacBooks, Windows, Chromebooks](https://www.wired.com/gallery/best-laptops/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
