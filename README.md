@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
- - 😝 [Memphis, Tennessee](http://9gag.com/gag/a9q080D)
+ - 6️⃣ [We know](http://9gag.com/gag/a7qXVQq)
+ - 😝 [Sharia law for me not for thee](http://9gag.com/gag/aGE5OL5)
  - 👉 [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)<!-- MEMES:END -->
 
 --- 
