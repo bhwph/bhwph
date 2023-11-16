@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Goal Wins fully fumbles its trans character’s arc](https://www.polygon.com/23963009/next-goal-wins-jaiyah-saelua-trans-character-real-life-story)
- - [The 14 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)
- - [Jagged Alliance 3: Come for the Gun Fights, Stay for the Stories](https://news.xbox.com/en-us/2023/11/16/jagged-alliance-3-come-for-the-gun-fights-stay-for-the-stories/)<!-- GAME:END -->
+ - [Super Mario Bros. Wonder’s new bad guys make the Mario bestiary feel fresh](https://www.polygon.com/gaming/23962972/super-mario-bros-wonder-best-new-enemies)
+ - [This Is What It Looks Like When A Massive Video Game Publisher Messes Up](https://kotaku.com/embracer-dead-island-2-remnant-2-layoffs-lord-rings-1851028963)
+ - [Where to find planes in Fortnite OG’s Season 7 update](https://www.polygon.com/fortnite-guide/23963995/planes-locations-x4-stormwing-fortnite-og-season-7)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
