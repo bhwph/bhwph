@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s latest AI experiment lets you turn text into a John Legend song](https://www.androidauthority.com/youtube-ai-experiment-3386170/)
- - [Report: Americans are spending 5% more on mobile phone bills compared to 2022](https://www.androidauthority.com/mobile-phone-bills-2023-3386189/)
- - [Apple teases Black Friday promotions, but there are much better deals](https://appleinsider.com/articles/23/11/16/apple-teases-black-friday-promotions-but-there-are-much-better-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Apple caves, will bring RCS to iMessage in 2024](https://www.androidauthority.com/apple-rcs-2024-3386292/)
+ - [Apple says iPhones will support RCS in 2024](https://www.theverge.com/2023/11/16/23964171/apple-iphone-rcs-support)
+ - [Apple plans to adopt the GSM&#39;s RCS messaging standard by releasing a software update &quot;later next year&quot;, bringing iMessage-style features to cross-platform texts &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231116/p35#a231116p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
