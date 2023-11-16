@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Free junk food](http://9gag.com/gag/aREd225)
- - 😝 [That f***ing word again.](http://9gag.com/gag/aL15d5M)
- - 👉 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)<!-- MEMES:END -->
+ - 😝 [People are starting to see](http://9gag.com/gag/a4oyq5Z)
+ - 👉 [That\u2019s cool](http://9gag.com/gag/ajVwZqg)<!-- MEMES:END -->
 
 --- 
 
