@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
- - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
- - 👉 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)<!-- MEMES:END -->
+ - 6️⃣ [Free junk food](http://9gag.com/gag/aREd225)
+ - 😝 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
+ - 👉 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)<!-- MEMES:END -->
 
 --- 
 
