@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Free junk food](http://9gag.com/gag/aREd225)
- - 😝 [People are starting to see](http://9gag.com/gag/a4oyq5Z)
- - 👉 [That\u2019s cool](http://9gag.com/gag/ajVwZqg)<!-- MEMES:END -->
+ - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
+ - 👉 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)<!-- MEMES:END -->
 
 --- 
 
