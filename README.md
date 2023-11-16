@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok joins Meta in challenging its EU DMA &quot;gatekeeper&quot; status, saying the service is &quot;arguably the most capable challenger to more entrenched&quot; rivals &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231116/p11#a231116p11)
- - [The Mystery of Iceland’s Non-Erupting Volcano](https://www.wired.com/story/iceland-volcano-explode-eruption-when/)
- - [Epic is going to let you report voice conversations in Fortnite](https://www.theverge.com/2023/11/16/23962354/epic-games-fortnite-report-voice-conversations)<!-- TECH:END -->
+ - [Google could be working on ways to help you discover new apps and content on the Play Store](https://www.androidauthority.com/google-play-store-discover-new-apps-content-3386101/)
+ - [Microsoft launches a Windows App on iOS, iPadOS, macOS, Windows, and the web, letting enterprise customers stream a copy of Windows, available in preview &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231116/p19#a231116p19)
+ - [Alibaba filing: Jack Ma&#39;s family trust plans to sell 10M American Depository Shares of Alibaba for around $871M; BABA drops 8%+ &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231116/p18#a231116p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
