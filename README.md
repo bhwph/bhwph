@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s killer Black Friday sale includes the Pixel 8 for $549, and much more](https://www.androidauthority.com/google-black-friday-pixel-8-3385908/)
- - [Paxos and StraitsX get in-principle approvals from the Monetary Authority of Singapore to issue USD-backed stablecoins &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/231116/p9#a231116p9)
- - [Spotify’s podcast and audiobook discovery will get a boost from Google Cloud’s AI](https://www.theverge.com/2023/11/16/23963112/spotify-podcast-audiobook-discovery-personalized-recommendations-google-cloud-ai)<!-- TECH:END -->
+ - [TikTok joins Meta in challenging its EU DMA &quot;gatekeeper&quot; status, saying the service is &quot;arguably the most capable challenger to more entrenched&quot; rivals &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231116/p11#a231116p11)
+ - [The Mystery of Iceland’s Non-Erupting Volcano](https://www.wired.com/story/iceland-volcano-explode-eruption-when/)
+ - [Epic is going to let you report voice conversations in Fortnite](https://www.theverge.com/2023/11/16/23962354/epic-games-fortnite-report-voice-conversations)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
