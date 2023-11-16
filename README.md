@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku&#39;s Best Gifts Of 2023 For Nintendo Fans](https://kotaku.com/best-nintendo-switch-games-gifts-guide-zelda-mario-1851025658)
- - [What’s the new map and weapon loot pool changes in Fortnite OG’s Season 7 update?](https://www.polygon.com/fortnite-guide/23963830/new-map-weapon-loot-pool-fortnite-og-season-7)
- - [Former Mass Effect Lead Forms New Studio To Make Narrative-Focused Games](https://kotaku.com/mac-walters-mass-effect-bioware-netease-untold-worlds-1851027773)<!-- GAME:END -->
+ - [Next Goal Wins fully fumbles its trans character’s arc](https://www.polygon.com/23963009/next-goal-wins-jaiyah-saelua-trans-character-real-life-story)
+ - [The 14 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)
+ - [Jagged Alliance 3: Come for the Gun Fights, Stay for the Stories](https://news.xbox.com/en-us/2023/11/16/jagged-alliance-3-come-for-the-gun-fights-stay-for-the-stories/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
