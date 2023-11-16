@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We know](http://9gag.com/gag/a7qXVQq)
- - 😝 [That f***ing word again.](http://9gag.com/gag/aL15d5M)
- - 👉 [Free junk food](http://9gag.com/gag/aREd225)<!-- MEMES:END -->
+ - 6️⃣ [When you love Subway](http://9gag.com/gag/a6q6Gqq)
+ - 😝 [Free junk food](http://9gag.com/gag/aREd225)
+ - 👉 [People are starting to see](http://9gag.com/gag/a4oyq5Z)<!-- MEMES:END -->
 
 --- 
 
