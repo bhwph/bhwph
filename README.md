@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Soon, you&#39;ll be able to stream Windows through a Microsoft app on iPad, Mac, and iPhone](https://appleinsider.com/articles/23/11/16/soon-youll-be-able-to-stream-windows-through-a-microsoft-app-on-ipad-mac-and-iphone?utm_medium=rss)
- - [Android’s new Private Space feature could let you hide apps and data on your phone](https://www.androidauthority.com/android-new-private-space-feature-3386138/)
- - [16 Best Laptops &lpar;2023&rpar;: MacBooks, Windows, Chromebooks](https://www.wired.com/gallery/best-laptops/)<!-- TECH:END -->
+ - [YouTube’s latest AI experiment lets you turn text into a John Legend song](https://www.androidauthority.com/youtube-ai-experiment-3386170/)
+ - [Report: Americans are spending 5% more on mobile phone bills compared to 2022](https://www.androidauthority.com/mobile-phone-bills-2023-3386189/)
+ - [Apple teases Black Friday promotions, but there are much better deals](https://appleinsider.com/articles/23/11/16/apple-teases-black-friday-promotions-but-there-are-much-better-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
