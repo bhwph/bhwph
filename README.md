@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario Bros. Wonder’s new bad guys make the Mario bestiary feel fresh](https://www.polygon.com/gaming/23962972/super-mario-bros-wonder-best-new-enemies)
- - [This Is What It Looks Like When A Massive Video Game Publisher Messes Up](https://kotaku.com/embracer-dead-island-2-remnant-2-layoffs-lord-rings-1851028963)
- - [Where to find planes in Fortnite OG’s Season 7 update](https://www.polygon.com/fortnite-guide/23963995/planes-locations-x4-stormwing-fortnite-og-season-7)<!-- GAME:END -->
+ - [7 things to know before watching the Hunger Games movie Ballad of Songbirds &amp; Snakes](https://www.polygon.com/23959095/new-hunger-games-movie-prequel-young-snow-ballad-of-songbirds-snakes)
+ - [The Joker: Year One will reveal a new secret history of Batman’s archfoe in 2024](https://www.polygon.com/23964415/batman-joker-year-one-dc-comics)
+ - [Genshin Impact ‘Through the Looking Glass’ hidden mirror locations and walkthrough](https://www.polygon.com/genshin-impact-guides/23964168/through-looking-glass-mirror-locations-walkthrough)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
