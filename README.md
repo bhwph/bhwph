@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyundai’s Ioniq 5 N performance EV is coming March 2024](https://www.theverge.com/2023/11/15/23962310/hyundai-ioniq-5-n-perfomance-ev-specs-la-auto-show)
- - [Google is going to let teens use Bard, though with some guardrails](https://www.theverge.com/2023/11/15/23963230/google-bard-teens-guardrails)
- - [The Wireless Power Consortium says the first Qi v2.0 devices are arriving in time for the holidays and over 100 are in certification testing or waiting in line &lpar;Nathan Edwards/The Verge&rpar;](http://www.techmeme.com/231115/p49#a231115p49)<!-- TECH:END -->
+ - [Paxos gets in-principle approval from the Monetary Authority of Singapore to issue a USD-backed stablecoin; Paxos claims it is the only company to get approval &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/231115/p54#a231115p54)
+ - [Color OS 14 goes global: Fast, but with some rough edges](https://www.androidauthority.com/color-os-14-release-date-eligible-devices-features-hands-on-3385593/)
+ - [Security researchers detail the largest cyberattack against Danish critical infrastructure, which involved Zyxel zero-days and affected 22 companies in May 2023 &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/231115/p53#a231115p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
