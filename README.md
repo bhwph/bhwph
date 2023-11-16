@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Compete for the Skull of Siren Song as Sea of Thieves Season Ten Continues](https://news.xbox.com/en-us/2023/11/16/sea-of-thieves-season-10-skull-of-siren-song-voyage/)
- - [Godzilla reigns eternal thanks to years of tiny design changes](https://www.polygon.com/23960731/godzilla-monarch-minus-one-tv-show-movie-history)
- - [How to level up fast in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23963586/level-up-guns-fast-xp-mw3)<!-- GAME:END -->
+ - [Kotaku&#39;s Best Gifts Of 2023 For Nintendo Fans](https://kotaku.com/best-nintendo-switch-games-gifts-guide-zelda-mario-1851025658)
+ - [What’s the new map and weapon loot pool changes in Fortnite OG’s Season 7 update?](https://www.polygon.com/fortnite-guide/23963830/new-map-weapon-loot-pool-fortnite-og-season-7)
+ - [Former Mass Effect Lead Forms New Studio To Make Narrative-Focused Games](https://kotaku.com/mac-walters-mass-effect-bioware-netease-untold-worlds-1851027773)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
