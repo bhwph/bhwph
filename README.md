@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple caves, will bring RCS to iMessage in 2024](https://www.androidauthority.com/apple-rcs-2024-3386292/)
- - [Apple says iPhones will support RCS in 2024](https://www.theverge.com/2023/11/16/23964171/apple-iphone-rcs-support)
- - [Apple plans to adopt the GSM&#39;s RCS messaging standard by releasing a software update &quot;later next year&quot;, bringing iMessage-style features to cross-platform texts &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231116/p35#a231116p35)<!-- TECH:END -->
+ - [Apple&#39;s flavor of RCS won&#39;t support Google&#39;s end-to-end encryption extension](https://appleinsider.com/articles/23/11/16/apples-flavor-of-rcs-wont-support-googles-end-to-end-encryption-extension?utm_medium=rss)
+ - [Sources: Apple may postpone the release of its own iPhone modem chip until at least the end of 2025 or early 2026, the final year of its contract with Qualcomm &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231116/p43#a231116p43)
+ - [Microsoft details planned changes to Windows 11 in the EEA to comply with the DMA, including letting users disable Bing web search and remove Microsoft Edge &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231116/p42#a231116p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
