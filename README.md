@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [We know](http://9gag.com/gag/a7qXVQq)
- - 😝 [Sharia law for me not for thee](http://9gag.com/gag/aGE5OL5)
- - 👉 [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)<!-- MEMES:END -->
+ - 😝 [That f***ing word again.](http://9gag.com/gag/aL15d5M)
+ - 👉 [Free junk food](http://9gag.com/gag/aREd225)<!-- MEMES:END -->
 
 --- 
 
