@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Starting chemotherapy today. Hope I can still he around to suck dick for another 10 years](http://9gag.com/gag/aoKwYqx)
- - 😝 [I didn&#39;t even knew his name...](http://9gag.com/gag/a04qE1B)
- - 👉 [Free junk food](http://9gag.com/gag/aREd225)<!-- MEMES:END -->
+ - 6️⃣ [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
+ - 😝 [Memphis, Tennessee](http://9gag.com/gag/a9q080D)
+ - 👉 [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)<!-- MEMES:END -->
 
 --- 
 
