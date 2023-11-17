@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monarch’s most tantalizing bit of casting was a happy surprise for the creators](https://www.polygon.com/23962565/monarch-legacy-monsters-apple-tv-godzilla-show-kurt-russell-wyatt-lee-shaw-casting)
- - [Massive Half-Life Update Adds Steam Deck Support, Cut Content, And More](https://kotaku.com/new-half-life-1-free-update-patch-25-steam-deck-maps-pc-1851031923)
- - [The best Black Friday deals are happening now](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)<!-- GAME:END -->
+ - [The Shrek kissing TikTok filter is a blight upon society](https://www.polygon.com/23966069/shrek-kissing-tiktok-filter)
+ - [The best Black Friday deals are happening now](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)
+ - [Crash Team Rumble’s Latest Cameo Makes Me Want A New Spyro Game](https://kotaku.com/crash-team-rumble-spyro-dragon-4-season-3-1851032384)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
