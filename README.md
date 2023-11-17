@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monarch: Legacy of Monsters hits Apple TV+ today – Director Q&amp;A](https://blog.playstation.com/2023/11/17/monarch-legacy-of-monsters-hits-apple-tv-today-director-qa/)
- - [Scott Pilgrim Takes Off delivers an all-time great bait-and-switch](https://www.polygon.com/23943353/netflix-scott-pilgrim-takes-off-anime-same-different-movie-comics)
- - [The Best-Selling, Most Expensive Cards In Pokémon TCG Paradox Rift Set](https://kotaku.com/pokemon-tcg-paradox-rift-best-selling-highest-price-1851030970)<!-- GAME:END -->
+ - [Dream Scenario is exactly the goofy Nightmare on Elm Street prequel we needed](https://www.polygon.com/reviews/23868824/dream-scenario-review-nicolas-cage-meta-movie)
+ - [Black Friday is bustling with great board game deals on Amazon](https://www.polygon.com/23950645/black-friday-board-game-deals-sale-tabletop-cyber-monday)
+ - [Super Mario RPG best level up bonus stats](https://www.polygon.com/guides/23965564/super-mario-rpg-best-level-up-bonus-stats)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
