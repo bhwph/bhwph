@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you love Subway](http://9gag.com/gag/a6q6Gqq)
- - 😝 [Clock tf out](http://9gag.com/gag/aWG5RZx)
- - 👉 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)<!-- MEMES:END -->
+ - 6️⃣ [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
+ - 😝 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)
+ - 👉 [Why they throw big words like that around and then Start to cry, wanting to go home....](http://9gag.com/gag/amAwd4X)<!-- MEMES:END -->
 
 --- 
 
