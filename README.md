@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Someone pls share more like this!!](http://9gag.com/gag/aVb52vv)
- - 😝 [Animate blooper reels](http://9gag.com/gag/a2KpxbY)
- - 👉 [This old gem...](http://9gag.com/gag/aOx5GxR)<!-- MEMES:END -->
+ - 6️⃣ [Clock tf out](http://9gag.com/gag/aWG5RZx)
+ - 😝 [Not my hand](http://9gag.com/gag/abvwR8E)
+ - 👉 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)<!-- MEMES:END -->
 
 --- 
 
