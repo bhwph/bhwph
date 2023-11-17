@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages prepares a feature that will do your ears a favor](https://www.androidauthority.com/google-messages-noise-cancelation-3386575/)
- - [Bellroy’s iPhone 15 Pro case has a proper Action Button now](https://www.theverge.com/2023/11/17/23965171/bellroy-iphone-15-pro-case-action-button-cutout)
- - [Google Pixel 9 rumors: Expected release date and what we want to see](https://www.androidauthority.com/google-pixel-9-3365966/)<!-- TECH:END -->
+ - [Making a 5G modem is super difficult, even for Apple](https://www.androidauthority.com/apple-5g-modem-delayed-again-3386608/)
+ - [Amazon slashes MacBook Air to $749.99 with hidden Black Friday discount](https://appleinsider.com/articles/23/11/17/amazon-slashes-macbook-air-to-74999-with-hidden-black-friday-discount?utm_medium=rss)
+ - [Dr. Jessie Christiansen Wants to Help You Discover the Next Exoplanet](https://www.wired.com/story/women-in-science-jessie-christansen/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
