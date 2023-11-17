@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Making a 5G modem is super difficult, even for Apple](https://www.androidauthority.com/apple-5g-modem-delayed-again-3386608/)
- - [Amazon slashes MacBook Air to $749.99 with hidden Black Friday discount](https://appleinsider.com/articles/23/11/17/amazon-slashes-macbook-air-to-74999-with-hidden-black-friday-discount?utm_medium=rss)
- - [Dr. Jessie Christiansen Wants to Help You Discover the Next Exoplanet](https://www.wired.com/story/women-in-science-jessie-christansen/)<!-- TECH:END -->
+ - [The Case for Using AI to Log Your Every Living Moment](https://www.wired.com/story/the-case-for-using-ai-to-log-your-every-living-moment/)
+ - [Google DeepMind’s AI Pop Star Clone Will Freak You Out](https://www.wired.com/story/google-deepminds-ai-pop-star-clone-will-freak-you-out/)
+ - [&#39;Baldur’s Gate 3&#39; Is Even More Magical With a D&amp;D Player’s Handbook](https://www.wired.com/story/baldurs-gate-3-play-it-with-the-dungeons-dragons-handbook-rave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
