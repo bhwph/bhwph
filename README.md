@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
- - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
- - [Screens are good, actually](https://www.theverge.com/23965540/humane-ai-pin-screen-phone-ambient-computing)<!-- TECH:END -->
+ - [Join Us for LiveWIRED](https://www.wired.com/story/livewired-wired30-2023-conference/)
+ - [Sources: Apple is pausing advertising on X after outcry over Musk&#39;s endorsement of an antisemitic tweet and reports that Apple ads ran next to pro-Nazi content &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/231117/p17#a231117p17)
+ - [16 Walmart Black Friday Deals &lpar;2023&rpar;: TVs, Cookware.](https://www.wired.com/story/best-walmart-black-friday-deals-2023-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
