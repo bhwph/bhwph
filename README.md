@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Clock tf out](http://9gag.com/gag/aWG5RZx)
- - 😝 [Not my hand](http://9gag.com/gag/abvwR8E)
- - 👉 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)<!-- MEMES:END -->
+ - 6️⃣ [Tired of buying vegetables that taste like plastic?](http://9gag.com/gag/a9q0VQK)
+ - 😝 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
+ - 👉 [The clown,](http://9gag.com/gag/aDY5ObG)<!-- MEMES:END -->
 
 --- 
 
