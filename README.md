@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Snapdragon 7 Gen 3 is here, and it is better than the 7 Gen 1 at least](https://www.androidauthority.com/qualcomm-snapdragon-7-gen-3-3386527/)
- - [11 Best Black Friday Sonos Deals &lpar;2023&rpar;: Soundbars, Subwoofers, Bluetooth Speakers](https://www.wired.com/story/best-black-friday-sonos-deals-2023/)
- - [Bought a Pixel just before Google’s Black Friday Sale? You can get the discounted amount back!](https://www.androidauthority.com/google-black-friday-sale-refund-3386524/)<!-- TECH:END -->
+ - [Google Messages prepares a feature that will do your ears a favor](https://www.androidauthority.com/google-messages-noise-cancelation-3386575/)
+ - [Bellroy’s iPhone 15 Pro case has a proper Action Button now](https://www.theverge.com/2023/11/17/23965171/bellroy-iphone-15-pro-case-action-button-cutout)
+ - [Google Pixel 9 rumors: Expected release date and what we want to see](https://www.androidauthority.com/google-pixel-9-3365966/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
