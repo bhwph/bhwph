@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 leak suggests Apple doesn’t want a repeat of the iPhone 15 overheating problem](https://www.androidauthority.com/iphone-16-heating-thermals-3386494/)
- - [Alibaba&#39;s market value drops to $201B, about half of Tencent&#39;s $391B, as it faces sluggish demand and increased competition; Alibaba was valued at $850B in 2020 &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/231117/p1#a231117p1)
- - [Best Solar Panel Installation Companies in Delaware     - CNET](https://www.cnet.com/home/energy-and-utilities/delaware-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Snapdragon 7 Gen 3 is here, and it is better than the 7 Gen 1 at least](https://www.androidauthority.com/qualcomm-snapdragon-7-gen-3-3386527/)
+ - [11 Best Black Friday Sonos Deals &lpar;2023&rpar;: Soundbars, Subwoofers, Bluetooth Speakers](https://www.wired.com/story/best-black-friday-sonos-deals-2023/)
+ - [Bought a Pixel just before Google’s Black Friday Sale? You can get the discounted amount back!](https://www.androidauthority.com/google-black-friday-sale-refund-3386524/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
