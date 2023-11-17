@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Seriously](http://9gag.com/gag/a3ZrpYQ)
- - 😝 [How the turn tables](http://9gag.com/gag/aL15b7g)
- - 👉 [Sometimes you just have to give people what they want](http://9gag.com/gag/aOx5NVM)<!-- MEMES:END -->
+ - 6️⃣ [When you love Subway](http://9gag.com/gag/a6q6Gqq)
+ - 😝 [Clock tf out](http://9gag.com/gag/aWG5RZx)
+ - 👉 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)<!-- MEMES:END -->
 
 --- 
 
