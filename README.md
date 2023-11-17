@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Would you pay for iMessage on Android?](https://www.androidauthority.com/pay-imessage-android-poll-3384922/)
- - [A US judge rejects X&#39;s bid to overturn a May 2022 FTC order imposing restrictions on its data security practices and declines to stop a deposition of Elon Musk &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/231116/p49#a231116p49)
- - [Best Early Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)<!-- TECH:END -->
+ - [Apple says green bubbles will be used for RCS messages, while iMessages will be blue to denote what it considers the safest way for iPhone users to communicate &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231116/p52#a231116p52)
+ - [You&#39;re still going to be bullied for being a green bubble, even with RCS](https://appleinsider.com/articles/23/11/17/youre-still-going-to-be-bullied-for-being-a-green-bubble-even-with-rcs?utm_medium=rss)
+ - [A huge stable Steam Deck update gives the Dock a brand-new feature](https://www.theverge.com/2023/11/16/23964870/steam-deck-steamos-3-5-5-stable-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
