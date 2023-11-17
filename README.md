@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)
- - 😝 [He deserved the Oscar back then](http://9gag.com/gag/ajVwMpw)
- - 👉 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)<!-- MEMES:END -->
+ - 6️⃣ [Mackelmore reminded of an important life lesson from a fan at his concert.](http://9gag.com/gag/aEq5EBo)
+ - 😝 [Thanks for the advice](http://9gag.com/gag/aXn1QEz)
+ - 👉 [Free Bird](http://9gag.com/gag/amAwbzd)<!-- MEMES:END -->
 
 --- 
 
