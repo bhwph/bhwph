@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Owned](http://9gag.com/gag/az2w4zz)
- - 😝 [Someone pls share more like this!!](http://9gag.com/gag/aVb52vv)
- - 👉 [Europe will be Islamic in a decade... Terrorists have invaded it under guise of refugees and illegal immigrants.](http://9gag.com/gag/a5X35vo)<!-- MEMES:END -->
+ - 6️⃣ [Turn up the music,turn down the drama.](http://9gag.com/gag/a8qOK5Y)
+ - 😝 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
+ - 👉 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)<!-- MEMES:END -->
 
 --- 
 
