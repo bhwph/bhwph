@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says green bubbles will be used for RCS messages, while iMessages will be blue to denote what it considers the safest way for iPhone users to communicate &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231116/p52#a231116p52)
- - [You&#39;re still going to be bullied for being a green bubble, even with RCS](https://appleinsider.com/articles/23/11/17/youre-still-going-to-be-bullied-for-being-a-green-bubble-even-with-rcs?utm_medium=rss)
- - [A huge stable Steam Deck update gives the Dock a brand-new feature](https://www.theverge.com/2023/11/16/23964870/steam-deck-steamos-3-5-5-stable-update)<!-- TECH:END -->
+ - [Forever Companions, which let paying users speak to an AI girlfriend modeled after influencer Caryn Marjorie, stopped working after CEO John Meyer was arrested &lpar;404 Media&rpar;](http://www.techmeme.com/231116/p55#a231116p55)
+ - [Dear Redditors, a YouTube Premium family plan has always required address verification &lpar;Updated&rpar;](https://www.androidauthority.com/youtube-premium-family-plan-address-verification-3385564/)
+ - [Sources: Google told some cloud customers not to expect access to its Gemini AI model until Q1 2024, after previously saying they would get access by Nov. 2023 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231116/p54#a231116p54)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
