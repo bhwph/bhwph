@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail for Android may soon make it easier to unsubscribe from annoying spam](https://www.androidauthority.com/gmail-for-android-unsubscribe-button-3386648/)
- - [Game developer Scopely, citing data.ai, says Monopoly Go reached $1B+ in revenue in seven months, faster than any other casual game in mobile game history &lpar;Eddie Makuch/GameSpot&rpar;](http://www.techmeme.com/231117/p14#a231117p14)
- - [The Bin Laden Letter Is Being Weaponized by the Far-Right](https://www.wired.com/story/far-right-bin-laden-letter-to-america-conspiracies/)<!-- TECH:END -->
+ - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
+ - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
+ - [Screens are good, actually](https://www.theverge.com/23965540/humane-ai-pin-screen-phone-ambient-computing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
