@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 beginner tips to know before you start Persona 5 Tactica](https://www.polygon.com/guides/23962654/persona-5-tactica-beginner-tips)
- - [How to get through the Forest Maze in Super Mario RPG](https://www.polygon.com/guides/23959101/super-mario-rpg-forest-maze-route-secret-path)
- - [What to use Frog Coins on in Super Mario RPG](https://www.polygon.com/guides/23956006/super-mario-rpg-frog-coins-buy-use-shops)<!-- GAME:END -->
+ - [Xbox Gives Fans A Chance To Win A Bluey Custom Xbox Series X](https://news.xbox.com/en-us/2023/11/17/xbox-bluey-custom-xbox-series-x/)
+ - [Behold the Bluey Xbox](https://www.polygon.com/23965263/bluey-video-game-xbox-series-x)
+ - [The best gaming keyboards](https://www.polygon.com/what-to-buy/23717326/best-gaming-keyboards-mechanical)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
