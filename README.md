@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Gives Fans A Chance To Win A Bluey Custom Xbox Series X](https://news.xbox.com/en-us/2023/11/17/xbox-bluey-custom-xbox-series-x/)
- - [Behold the Bluey Xbox](https://www.polygon.com/23965263/bluey-video-game-xbox-series-x)
- - [The best gaming keyboards](https://www.polygon.com/what-to-buy/23717326/best-gaming-keyboards-mechanical)<!-- GAME:END -->
+ - [Monarch: Legacy of Monsters hits Apple TV+ today – Director Q&amp;A](https://blog.playstation.com/2023/11/17/monarch-legacy-of-monsters-hits-apple-tv-today-director-qa/)
+ - [Scott Pilgrim Takes Off delivers an all-time great bait-and-switch](https://www.polygon.com/23943353/netflix-scott-pilgrim-takes-off-anime-same-different-movie-comics)
+ - [The Best-Selling, Most Expensive Cards In Pokémon TCG Paradox Rift Set](https://kotaku.com/pokemon-tcg-paradox-rift-best-selling-highest-price-1851030970)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
