@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MediaTek announces a partnership with Meta to develop chips for AR smart glasses; Ray-Ban Meta Smart Glasses are equipped with Qualcomm&#39;s Snapdragon AR1 Gen 1 &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/231116/p46#a231116p46)
- - [Google&#39;s RCS messaging is coming to iPhone in 2024](https://appleinsider.com/articles/23/11/16/googles-rcs-messaging-is-coming-to-iphone-in-2024?utm_medium=rss)
- - [Apple&#39;s flavor of RCS won&#39;t support Google&#39;s end-to-end encryption extension](https://appleinsider.com/articles/23/11/16/apples-flavor-of-rcs-wont-support-googles-end-to-end-encryption-extension?utm_medium=rss)<!-- TECH:END -->
+ - [Poll: Would you pay for iMessage on Android?](https://www.androidauthority.com/pay-imessage-android-poll-3384922/)
+ - [A US judge rejects X&#39;s bid to overturn a May 2022 FTC order imposing restrictions on its data security practices and declines to stop a deposition of Elon Musk &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/231116/p49#a231116p49)
+ - [Best Early Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
