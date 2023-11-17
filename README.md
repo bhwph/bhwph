@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Turn up the music,turn down the drama.](http://9gag.com/gag/a8qOK5Y)
- - 😝 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
- - 👉 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)<!-- MEMES:END -->
+ - 6️⃣ [Someone pls share more like this!!](http://9gag.com/gag/aVb52vv)
+ - 😝 [Animate blooper reels](http://9gag.com/gag/a2KpxbY)
+ - 👉 [This old gem...](http://9gag.com/gag/aOx5GxR)<!-- MEMES:END -->
 
 --- 
 
