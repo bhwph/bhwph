@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Join Us for LiveWIRED](https://www.wired.com/story/livewired-wired30-2023-conference/)
- - [Sources: Apple is pausing advertising on X after outcry over Musk&#39;s endorsement of an antisemitic tweet and reports that Apple ads ran next to pro-Nazi content &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/231117/p17#a231117p17)
- - [16 Walmart Black Friday Deals &lpar;2023&rpar;: TVs, Cookware.](https://www.wired.com/story/best-walmart-black-friday-deals-2023-1/)<!-- TECH:END -->
+ - [Nothing Chats seems even less secure than we thought](https://www.androidauthority.com/nothing-chats-security-issues-3386829/)
+ - [Daily deals Nov. 17: $250 off M1 MacBook Air, Amazon Fire TV Stick 4K for $25, 50% off 2023 Ring Indoor Camera, more](https://appleinsider.com/articles/23/11/17/daily-deals-nov-17-250-off-m1-macbook-air-amazon-fire-tv-stick-4k-for-25-50-off-2023-ring-indoor-camera-more?utm_medium=rss)
+ - [Italy&#39;s competition watchdog opens an investigation into whether Meta has failed to provide adequate information on how to mark branded content on Instagram &lpar;Giulia Petroni/Wall Street Journal&rpar;](http://www.techmeme.com/231117/p20#a231117p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
