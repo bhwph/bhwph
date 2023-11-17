@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tired of buying vegetables that taste like plastic?](http://9gag.com/gag/a9q0VQK)
- - 😝 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
- - 👉 [The clown,](http://9gag.com/gag/aDY5ObG)<!-- MEMES:END -->
+ - 6️⃣ [Seriously](http://9gag.com/gag/a3ZrpYQ)
+ - 😝 [How the turn tables](http://9gag.com/gag/aL15b7g)
+ - 👉 [Sometimes you just have to give people what they want](http://9gag.com/gag/aOx5NVM)<!-- MEMES:END -->
 
 --- 
 
