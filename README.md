@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forever Companions, which let paying users speak to an AI girlfriend modeled after influencer Caryn Marjorie, stopped working after CEO John Meyer was arrested &lpar;404 Media&rpar;](http://www.techmeme.com/231116/p55#a231116p55)
- - [Dear Redditors, a YouTube Premium family plan has always required address verification &lpar;Updated&rpar;](https://www.androidauthority.com/youtube-premium-family-plan-address-verification-3385564/)
- - [Sources: Google told some cloud customers not to expect access to its Gemini AI model until Q1 2024, after previously saying they would get access by Nov. 2023 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231116/p54#a231116p54)<!-- TECH:END -->
+ - [iPhone 16 leak suggests Apple doesn’t want a repeat of the iPhone 15 overheating problem](https://www.androidauthority.com/iphone-16-heating-thermals-3386494/)
+ - [Alibaba&#39;s market value drops to $201B, about half of Tencent&#39;s $391B, as it faces sluggish demand and increased competition; Alibaba was valued at $850B in 2020 &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/231117/p1#a231117p1)
+ - [Best Solar Panel Installation Companies in Delaware     - CNET](https://www.cnet.com/home/energy-and-utilities/delaware-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
