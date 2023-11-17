@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dream Scenario is exactly the goofy Nightmare on Elm Street prequel we needed](https://www.polygon.com/reviews/23868824/dream-scenario-review-nicolas-cage-meta-movie)
- - [Black Friday is bustling with great board game deals on Amazon](https://www.polygon.com/23950645/black-friday-board-game-deals-sale-tabletop-cyber-monday)
- - [Super Mario RPG best level up bonus stats](https://www.polygon.com/guides/23965564/super-mario-rpg-best-level-up-bonus-stats)<!-- GAME:END -->
+ - [Monarch’s most tantalizing bit of casting was a happy surprise for the creators](https://www.polygon.com/23962565/monarch-legacy-monsters-apple-tv-godzilla-show-kurt-russell-wyatt-lee-shaw-casting)
+ - [Massive Half-Life Update Adds Steam Deck Support, Cut Content, And More](https://kotaku.com/new-half-life-1-free-update-patch-25-steam-deck-maps-pc-1851031923)
+ - [The best Black Friday deals are happening now](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
