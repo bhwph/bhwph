@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $250 on the 14-inch MacBook Pro M3 Max at Adorama](https://appleinsider.com/articles/23/11/18/save-250-on-the-14-inch-macbook-pro-m3-max-at-adorama?utm_medium=rss)
- - [It’s not enough to just factory reset an Android phone before selling it](https://www.androidauthority.com/data-recovery-after-android-factory-reset-3384980/)
- - [Taiga Orca jet ski: Fast, Furious and Eco-Friendly](https://www.wired.com/story/humanitys-most-obnoxious-vehicle-gets-an-electric-and-nearly-silent-makeover/)<!-- TECH:END -->
+ - [Source: Ilya Sutskever defended Altman&#39;s ouster at an all-hands meeting, saying it was necessary to protect OpenAI&#39;s mission of making AI beneficial to humanity &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/231118/p10#a231118p10)
+ - [Nothing pulls its Sunbird-based iMessage app Nothing Chats from Play Store after a researcher found the app is not e2e encrypted, attachments are public, more &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231118/p9#a231118p9)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-510-3386686/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
