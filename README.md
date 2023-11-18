@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Quick math](http://9gag.com/gag/awZ2vO4)
- - 😝 [Well as long as it works, Ima right](http://9gag.com/gag/aDY5M5G)
- - 👉 [He deserved the Oscar back then](http://9gag.com/gag/ajVwMpw)<!-- MEMES:END -->
+ - 6️⃣ [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)
+ - 😝 [Dude jumps into aquarium and finds out](http://9gag.com/gag/aEq5NVo)
+ - 👉 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)<!-- MEMES:END -->
 
 --- 
 
