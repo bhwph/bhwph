@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Of Us Part II Remastered Is Real, Out Next Year [Update: Full Details]](https://kotaku.com/last-of-us-part-2-remastered-ii-leak-trailer-2024-ps5-1851032694)
- - [The Last of Us Part II Remastered coming to PS5 on January 19, 2024](https://blog.playstation.com/2023/11/17/the-last-of-us-part-ii-remastered-coming-to-ps5-on-january-19-2024/)
- - [The Last of Us Part II Remastered coming to PS5 on January 19, 2024](https://blog.playstation.com/2023/11/17/the-last-of-us-part-ii-remastered-coming-to-ps5-on-january-19-2024/)<!-- GAME:END -->
+ - [The best Black Friday deals are happening now](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)
+ - [The best sci-fi movies to watch on Netflix this November](https://www.polygon.com/what-to-watch/2023/11/18/23961193/best-sci-fi-movies-watch-netflix-november-2023)
+ - [The Scott Pilgrim anime leaves its ending open](https://www.polygon.com/23963914/netflix-scott-pilgrim-anime-takes-off-ending-explained-tv-show-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
