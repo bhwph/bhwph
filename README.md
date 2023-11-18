@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well as long as it works, Ima right](http://9gag.com/gag/aDY5M5G)
- - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
- - 👉 [Damn son](http://9gag.com/gag/aXn1GR2)<!-- MEMES:END -->
+ - 6️⃣ [Blinken&#39;s reaction when Biden calls Xi a dictator.](http://9gag.com/gag/a8qOVOd)
+ - 😝 [I can&#39;t even...](http://9gag.com/gag/aA05q60)
+ - 👉 [Quick math](http://9gag.com/gag/awZ2vO4)<!-- MEMES:END -->
 
 --- 
 
