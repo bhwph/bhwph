@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Ilya Sutskever defended Altman&#39;s ouster at an all-hands meeting, saying it was necessary to protect OpenAI&#39;s mission of making AI beneficial to humanity &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/231118/p10#a231118p10)
- - [Nothing pulls its Sunbird-based iMessage app Nothing Chats from Play Store after a researcher found the app is not e2e encrypted, attachments are public, more &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231118/p9#a231118p9)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-510-3386686/)<!-- TECH:END -->
+ - [OpenAI memo: Altman&#39;s firing was not due to &quot;malfeasance&quot; or related to financial, business, safety, or security practices but a &quot;breakdown in communication&quot; &lpar;Axios&rpar;](http://www.techmeme.com/231118/p12#a231118p12)
+ - [Nothing Chats has already been pulled from Google Play over privacy issues](https://www.theverge.com/2023/11/18/23966781/nothing-chats-imessage-unencrypted-sunbird-plaintext)
+ - [A look at OpenAI&#39;s complicated relationship with Microsoft, which does not have a seat on the OpenAI board due to OpenAI&#39;s origins as a non-profit organization &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/231118/p11#a231118p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
