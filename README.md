@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mackelmore reminded of an important life lesson from a fan at his concert.](http://9gag.com/gag/aEq5EBo)
- - 😝 [Thanks for the advice](http://9gag.com/gag/aXn1QEz)
- - 👉 [Free Bird](http://9gag.com/gag/amAwbzd)<!-- MEMES:END -->
+ - 6️⃣ [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - 😝 [Anyone knows the name of the interviewer](http://9gag.com/gag/amAwK9V)
+ - 👉 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)<!-- MEMES:END -->
 
 --- 
 
