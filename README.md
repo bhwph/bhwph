@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
- - 😝 [Anyone knows the name of the interviewer](http://9gag.com/gag/amAwK9V)
- - 👉 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)<!-- MEMES:END -->
+ - 6️⃣ [Quick math](http://9gag.com/gag/awZ2vO4)
+ - 😝 [Well as long as it works, Ima right](http://9gag.com/gag/aDY5M5G)
+ - 👉 [He deserved the Oscar back then](http://9gag.com/gag/ajVwMpw)<!-- MEMES:END -->
 
 --- 
 
