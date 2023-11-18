@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Sam Altman has been telling investors that he is planning to launch a new venture, and Greg Brockman is expected to join the effort &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/231118/p15#a231118p15)
- - [Sam Altman&#39;s firing jeopardizes the sale of OpenAI employees&#39; shares; a source says the tender offer values OpenAI at ~$86B and was set to happen in December &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/231118/p14#a231118p14)
- - [7 best early Black Friday TV deals to snap up today](https://appleinsider.com/articles/23/11/18/7-best-early-black-friday-tv-deals-to-snap-up-today?utm_medium=rss)<!-- TECH:END -->
+ - [A look at the challenges that OpenAI and its new CEO Mura Murati face in assuaging staff and investors, raising new funding, attracting AI talent, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/231118/p18#a231118p18)
+ - [Meta disbanded its Responsible AI team](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)
+ - [Sources: OpenAI got only a fraction of Microsoft&#39;s $10B investment and a big portion of the funding is in cloud purchases, giving Microsoft significant leverage &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231118/p17#a231118p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
