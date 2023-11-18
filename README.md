@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Chats seems even less secure than we thought](https://www.androidauthority.com/nothing-chats-security-issues-3386829/)
- - [Daily deals Nov. 17: $250 off M1 MacBook Air, Amazon Fire TV Stick 4K for $25, 50% off 2023 Ring Indoor Camera, more](https://appleinsider.com/articles/23/11/17/daily-deals-nov-17-250-off-m1-macbook-air-amazon-fire-tv-stick-4k-for-25-50-off-2023-ring-indoor-camera-more?utm_medium=rss)
- - [Italy&#39;s competition watchdog opens an investigation into whether Meta has failed to provide adequate information on how to mark branded content on Instagram &lpar;Giulia Petroni/Wall Street Journal&rpar;](http://www.techmeme.com/231117/p20#a231117p20)<!-- TECH:END -->
+ - [Sony announces The Last of Us Part II remaster for PS5](https://www.theverge.com/2023/11/17/23966254/the-last-of-us-part-ii-ps5-remaster-leaks)
+ - [OpenAI co-founder and President Greg Brockman says he has quit the company &quot;based on today&#39;s news&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231117/p26#a231117p26)
+ - [OpenAI co-founder Greg Brockman is leaving, too](https://www.theverge.com/2023/11/17/23966277/openai-co-founder-greg-brockman-leaving)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
