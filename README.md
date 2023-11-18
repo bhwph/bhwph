@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI memo: Altman&#39;s firing was not due to &quot;malfeasance&quot; or related to financial, business, safety, or security practices but a &quot;breakdown in communication&quot; &lpar;Axios&rpar;](http://www.techmeme.com/231118/p12#a231118p12)
- - [Nothing Chats has already been pulled from Google Play over privacy issues](https://www.theverge.com/2023/11/18/23966781/nothing-chats-imessage-unencrypted-sunbird-plaintext)
- - [A look at OpenAI&#39;s complicated relationship with Microsoft, which does not have a seat on the OpenAI board due to OpenAI&#39;s origins as a non-profit organization &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/231118/p11#a231118p11)<!-- TECH:END -->
+ - [Source: Sam Altman has been telling investors that he is planning to launch a new venture, and Greg Brockman is expected to join the effort &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/231118/p15#a231118p15)
+ - [Sam Altman&#39;s firing jeopardizes the sale of OpenAI employees&#39; shares; a source says the tender offer values OpenAI at ~$86B and was set to happen in December &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/231118/p14#a231118p14)
+ - [7 best early Black Friday TV deals to snap up today](https://appleinsider.com/articles/23/11/18/7-best-early-black-friday-tv-deals-to-snap-up-today?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
