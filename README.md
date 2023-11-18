@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Her allah seems to like Israel a lot](http://9gag.com/gag/avQwBxO)
- - 😝 [A group of legends](http://9gag.com/gag/a3ZrzB5)
- - 👉 [Pride takes many forms](http://9gag.com/gag/aEq5jon)<!-- MEMES:END -->
+ - 6️⃣ [Pro Parasites shut their cars off on the Bay Bridge and dumped their keys in the bay, causing a huge traffic jam. California](http://9gag.com/gag/anzwdzB)
+ - 😝 [I can&#39;t even...](http://9gag.com/gag/aA05q60)
+ - 👉 [This must be a Guinness world record](http://9gag.com/gag/aA05LO0)<!-- MEMES:END -->
 
 --- 
 
