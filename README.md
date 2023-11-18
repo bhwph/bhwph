@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [47 Best Black Friday Tech Deals &lpar;2023&rpar;: Folding Phones, Laptops, Headphones](https://www.wired.com/story/best-black-friday-tech-deals-2023/)
- - [Gen Z Is Leaving Dating Apps Behind](https://www.wired.com/story/end-of-dating-apps/)
- - [15 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)<!-- TECH:END -->
+ - [Save $250 on the 14-inch MacBook Pro M3 Max at Adorama](https://appleinsider.com/articles/23/11/18/save-250-on-the-14-inch-macbook-pro-m3-max-at-adorama?utm_medium=rss)
+ - [It’s not enough to just factory reset an Android phone before selling it](https://www.androidauthority.com/data-recovery-after-android-factory-reset-3384980/)
+ - [Taiga Orca jet ski: Fast, Furious and Eco-Friendly](https://www.wired.com/story/humanitys-most-obnoxious-vehicle-gets-an-electric-and-nearly-silent-makeover/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
