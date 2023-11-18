@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
- - 😝 [Never forget what muslims did to Spain.](http://9gag.com/gag/aME5646)
- - 👉 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)<!-- MEMES:END -->
+ - 😝 [Anyone knows the name of the interviewer](http://9gag.com/gag/amAwK9V)
+ - 👉 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)<!-- MEMES:END -->
 
 --- 
 
