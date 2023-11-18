@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Black Friday deals are happening now](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)
- - [The best sci-fi movies to watch on Netflix this November](https://www.polygon.com/what-to-watch/2023/11/18/23961193/best-sci-fi-movies-watch-netflix-november-2023)
- - [The Scott Pilgrim anime leaves its ending open](https://www.polygon.com/23963914/netflix-scott-pilgrim-anime-takes-off-ending-explained-tv-show-movie)<!-- GAME:END -->
+ - [Monarch: Legacy of Monsters takes the Watchmen approach to a Godzilla show](https://www.polygon.com/23966023/monarch-legacy-of-monsters-watchmen-lore)
+ - [Classic Zelda has never felt as big as the Oracle games](https://www.polygon.com/zelda/23966001/zelda-oracle-of-ages-oracle-of-seasons-rock)
+ - [Kotaku’s Biggest Gaming Culture News For The Week November 18, 2023](https://kotaku.com/kotaku-s-biggest-gaming-culture-news-for-the-week-novem-1851032502)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
