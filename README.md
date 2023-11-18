@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)
+ - 6️⃣ [Well as long as it works, Ima right](http://9gag.com/gag/aDY5M5G)
  - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
- - 👉 [Not my hand](http://9gag.com/gag/abvwR8E)<!-- MEMES:END -->
+ - 👉 [Damn son](http://9gag.com/gag/aXn1GR2)<!-- MEMES:END -->
 
 --- 
 
