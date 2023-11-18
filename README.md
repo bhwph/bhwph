@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pro Parasites shut their cars off on the Bay Bridge and dumped their keys in the bay, causing a huge traffic jam. California](http://9gag.com/gag/anzwdzB)
- - 😝 [I can&#39;t even...](http://9gag.com/gag/aA05q60)
- - 👉 [This must be a Guinness world record](http://9gag.com/gag/aA05LO0)<!-- MEMES:END -->
+ - 6️⃣ [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
+ - 😝 [Never forget what muslims did to Spain.](http://9gag.com/gag/aME5646)
+ - 👉 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)<!-- MEMES:END -->
 
 --- 
 
