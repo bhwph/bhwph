@@ -120,8 +120,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us Part 2 PS5 remaster unveiled with trailer, release date](https://www.polygon.com/23966207/the-last-of-us-part-2-ps5-remastered-leak-psn)
  - [The Last Of Us Part II Remastered Is Real, Out Next Year [Update: Full Details]](https://kotaku.com/last-of-us-part-2-remastered-ii-leak-trailer-2024-ps5-1851032694)
+ - [The Last of Us Part II Remastered coming to PS5 on January 19, 2024](https://blog.playstation.com/2023/11/17/the-last-of-us-part-ii-remastered-coming-to-ps5-on-january-19-2024/)
  - [The Last of Us Part II Remastered coming to PS5 on January 19, 2024](https://blog.playstation.com/2023/11/17/the-last-of-us-part-ii-remastered-coming-to-ps5-on-january-19-2024/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
