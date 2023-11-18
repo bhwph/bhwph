@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well as long as it works, Ima right](http://9gag.com/gag/aDY5M5G)
- - 😝 [Why they throw big words like that around and then Start to cry, wanting to go home....](http://9gag.com/gag/amAwd4X)
- - 👉 [Quick math](http://9gag.com/gag/awZ2vO4)<!-- MEMES:END -->
+ - 6️⃣ [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)
+ - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
+ - 👉 [Not my hand](http://9gag.com/gag/abvwR8E)<!-- MEMES:END -->
 
 --- 
 
