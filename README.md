@@ -128,7 +128,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Tim Cook defends privacy focus in APEC discussion group](https://appleinsider.com/articles/23/11/19/tim-cook-defends-privacy-focus-in-apec-discussion-group?utm_medium=rss)
- - [Sources: Satya Nadella has been in touch with Sam Altman and pledged to support Altman with whatever steps he takes next &lpar;Bloomberg&rpar;](http://www.techmeme.com/231118/p23#a231118p23)
+ - [Sources: Satya Nadella, blindsided by the OpenAI board&#39;s decision, has been in touch with Sam Altman and pledged to support him in whatever steps he takes next &lpar;Bloomberg&rpar;](http://www.techmeme.com/231118/p23#a231118p23)
  - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
