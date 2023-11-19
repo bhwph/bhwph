@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Use the iPhone 15’s Emergency Satellite SOS](https://www.wired.com/story/how-to-use-emergency-satellite-sos-iphone/)
- - [30 Gifts for a Digital Detox &lpar;2023&rpar;: Analog Gift Ideas From WIRED](https://www.wired.com/gallery/analog-gift-guide/)
- - [The Real Reason EV Repairs Are So Expensive](https://www.wired.com/story/ev-repair-batteries-expensive-insurance/)<!-- TECH:END -->
+ - [How to turn off active status on Instagram](https://www.androidauthority.com/disable-active-status-instagram-3137350/)
+ - [A look at Apple&#39;s quest to build key device components in-house, including a cellular modem and other wireless chips, displays, batteries, and camera sensors &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231119/p4#a231119p4)
+ - [Most of ESPN’s accounts went dark after Disney dropped advertising on X](https://www.theverge.com/2023/11/19/23967681/espn-x-accounts-not-posting-disney-no-longer-advertising-musk-antisemitic-posts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
