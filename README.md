@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Wait what!?](http://9gag.com/gag/armwE0V)
- - 😝 [A noodle factory in Kolkata from the state of West Bengal, India. As an Indian myself, I would advise everyone NOT to eat Indian street food. Video by an Indian food channel.](http://9gag.com/gag/aME56Px)
- - 👉 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)<!-- MEMES:END -->
+ - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
+ - 👉 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)<!-- MEMES:END -->
 
 --- 
 
