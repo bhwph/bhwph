@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the challenges that OpenAI and its new CEO Mura Murati face in assuaging staff and investors, raising new funding, attracting AI talent, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/231118/p18#a231118p18)
- - [Meta disbanded its Responsible AI team](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)
- - [Sources: OpenAI got only a fraction of Microsoft&#39;s $10B investment and a big portion of the funding is in cloud purchases, giving Microsoft significant leverage &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231118/p17#a231118p17)<!-- TECH:END -->
+ - [Tim Cook defends privacy focus in APEC discussion group](https://appleinsider.com/articles/23/11/19/tim-cook-defends-privacy-focus-in-apec-discussion-group?utm_medium=rss)
+ - [Sources: Satya Nadella has been in touch with Sam Altman and pledged to support Altman with whatever steps he takes next &lpar;Bloomberg&rpar;](http://www.techmeme.com/231118/p23#a231118p23)
+ - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
