@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Gaming Seat Brought My Formula 1 Racing Fantasies to Life](https://www.wired.com/story/logitech-racing-sim-rave/)
- - [The Precarious Rise of Disposable Vapes](https://www.wired.com/story/disposable-vapes-elf-bar-lost-mary-regulation/)
- - [How to Charge Your Phone Faster With Adaptive Charging](https://www.wired.com/story/how-to-charge-phone-faster-adaptive-charging/)<!-- TECH:END -->
+ - [How to Use the iPhone 15’s Emergency Satellite SOS](https://www.wired.com/story/how-to-use-emergency-satellite-sos-iphone/)
+ - [30 Gifts for a Digital Detox &lpar;2023&rpar;: Analog Gift Ideas From WIRED](https://www.wired.com/gallery/analog-gift-guide/)
+ - [The Real Reason EV Repairs Are So Expensive](https://www.wired.com/story/ev-repair-batteries-expensive-insurance/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
