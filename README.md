@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook defends privacy focus in APEC discussion group](https://appleinsider.com/articles/23/11/19/tim-cook-defends-privacy-focus-in-apec-discussion-group?utm_medium=rss)
- - [Sources: Satya Nadella, blindsided by the OpenAI board&#39;s decision, has been in touch with Sam Altman and pledged to support him in whatever steps he takes next &lpar;Bloomberg&rpar;](http://www.techmeme.com/231118/p23#a231118p23)
- - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)<!-- TECH:END -->
+ - [An interview with DeepMind&#39;s Shane Legg and Meredith Ringel Morris, who propose five levels of AGI taxonomy and say the first, &quot;emerging&quot;, has been achieved &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/231118/p24#a231118p24)
+ - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)
+ - [Tim Cook defends privacy focus in APEC discussion group](https://appleinsider.com/articles/23/11/19/tim-cook-defends-privacy-focus-in-apec-discussion-group?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
