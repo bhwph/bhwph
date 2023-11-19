@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Drag Me to Hell, now on Netflix, perfected the lost art of Looney Tunes horror](https://www.polygon.com/23962657/drag-me-to-hell-watch-movie-new-netflix-horror)
- - [Monarch: Legacy of Monsters takes the Watchmen approach to a Godzilla show](https://www.polygon.com/23966023/monarch-legacy-of-monsters-watchmen-lore)
- - [Classic Zelda has never felt as big as the Oracle games](https://www.polygon.com/zelda/23966001/zelda-oracle-of-ages-oracle-of-seasons-rock)<!-- GAME:END -->
+ - [Steven Universe taught me I didn’t have to be a boy or a girl — I could be ‘an experience’](https://www.polygon.com/23964548/steven-universe-stevonnie-queer-animation)
+ - [Every Xbox console is at least $50 off for Black Friday](https://www.polygon.com/23962727/xbox-series-x-black-friday-deal-best-buy)
+ - [The best Black Friday deals are happening now](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
