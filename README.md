@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
- - 😝 [There is no title](http://9gag.com/gag/anzw3V0)
- - 👉 [Based Nadal](http://9gag.com/gag/a9q0wmm)<!-- MEMES:END -->
+ - 6️⃣ [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
+ - 😝 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
+ - 👉 [Wait what!?](http://9gag.com/gag/armwE0V)<!-- MEMES:END -->
 
 --- 
 
