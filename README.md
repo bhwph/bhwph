@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Drag Me to Hell, now on Netflix, perfected the lost art of Looney Tunes horror](https://www.polygon.com/23962657/drag-me-to-hell-watch-movie-new-netflix-horror)
  - [Monarch: Legacy of Monsters takes the Watchmen approach to a Godzilla show](https://www.polygon.com/23966023/monarch-legacy-of-monsters-watchmen-lore)
- - [Classic Zelda has never felt as big as the Oracle games](https://www.polygon.com/zelda/23966001/zelda-oracle-of-ages-oracle-of-seasons-rock)
- - [Kotaku’s Biggest Gaming Culture News For The Week November 18, 2023](https://kotaku.com/kotaku-s-biggest-gaming-culture-news-for-the-week-novem-1851032502)<!-- GAME:END -->
+ - [Classic Zelda has never felt as big as the Oracle games](https://www.polygon.com/zelda/23966001/zelda-oracle-of-ages-oracle-of-seasons-rock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
