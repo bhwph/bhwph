@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best early Black Friday AirPods sales drop prices to as low as $79](https://appleinsider.com/articles/23/11/19/best-early-black-friday-airpods-sales-drop-prices-to-as-low-as-79?utm_medium=rss)
- - [Crime blotter: iPhone and iPad seized from New York Mayor Eric Adams](https://appleinsider.com/articles/23/11/19/crime-blotter-iphone-and-ipad-seized-from-new-york-mayor-eric-adams?utm_medium=rss)
- - [How the very unusual governance structure of OpenAI, born out of effective altruism, led to the firing of Sam Altman, as the philosophy clashed with reality &lpar;James Ball/Techtris&rpar;](http://www.techmeme.com/231119/p7#a231119p7)<!-- TECH:END -->
+ - [A look at two content moderation startups founded by ex-Meta and Google staffers as the Israel-Hamas war leads to a surge in demand for trust and safety tech &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231119/p10#a231119p10)
+ - [How OpenAI’s Bizarre Structure Gave 4 People the Power to Fire Sam Altman](https://www.wired.com/story/openai-bizarre-structure-4-people-the-power-to-fire-sam-altman/)
+ - [Tim Cook defends Apple Watch privacy focus in mental health talk](https://appleinsider.com/articles/23/11/19/tim-cook-defends-privacy-focus-in-apec-discussion-group?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
