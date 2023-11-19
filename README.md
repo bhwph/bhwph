@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
- - 😝 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
- - 👉 [A noodle factory in Kolkata from the state of West Bengal, India. As an Indian myself, I would advise everyone NOT to eat Indian street food. Video by an Indian food channel.](http://9gag.com/gag/aME56Px)<!-- MEMES:END -->
+ - 6️⃣ [Damn son](http://9gag.com/gag/aXn1GR2)
+ - 😝 [Wait what!?](http://9gag.com/gag/armwE0V)
+ - 👉 [This must be a Guinness world record](http://9gag.com/gag/aA05LO0)<!-- MEMES:END -->
 
 --- 
 
