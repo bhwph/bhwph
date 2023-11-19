@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku’s Biggest Gaming Culture News For The Week November 18, 2023](https://kotaku.com/kotaku-s-biggest-gaming-culture-news-for-the-week-novem-1851032502)
- - [Kotaku’s Opinions For The Week November 18, 2023](https://kotaku.com/kotaku-s-opinions-for-the-week-november-18-2023-1851032509)
- - [The Last Of Us Part II Remastered Is Real, Out Next Year [Update: Full Details]](https://kotaku.com/last-of-us-part-2-remastered-ii-leak-trailer-2024-ps5-1851032694)<!-- GAME:END -->
+ - [Monarch: Legacy of Monsters takes the Watchmen approach to a Godzilla show](https://www.polygon.com/23966023/monarch-legacy-of-monsters-watchmen-lore)
+ - [Classic Zelda has never felt as big as the Oracle games](https://www.polygon.com/zelda/23966001/zelda-oracle-of-ages-oracle-of-seasons-rock)
+ - [Kotaku’s Biggest Gaming Culture News For The Week November 18, 2023](https://kotaku.com/kotaku-s-biggest-gaming-culture-news-for-the-week-novem-1851032502)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
