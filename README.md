@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Railway builder Station to Station harnesses the joy of minimalism](https://www.polygon.com/23965690/station-to-station-impression-puzzle-train-railway-sim-choo-choooooo)
- - [The best video game books of 2023](https://www.polygon.com/23940553/best-video-game-books-2023)
- - [Steven Universe taught me I didn’t have to be a boy or a girl — I could be ‘an experience’](https://www.polygon.com/23964548/steven-universe-stevonnie-queer-animation)<!-- GAME:END -->
+ - [Books, movies, vinyl, and more are buy two, get one free at Target](https://www.polygon.com/23965639/target-buy-2-get-1-black-friday-deals-movies-music-books)
+ - [A24’s Nicolas Cage movie Dream Scenario was originally an Adam Sandler film](https://www.polygon.com/23965605/dream-scenario-adam-sandler-nicolas-cage-alternate-casting)
+ - [Railway builder Station to Station harnesses the joy of minimalism](https://www.polygon.com/23965690/station-to-station-impression-puzzle-train-railway-sim-choo-choooooo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
