@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steven Universe taught me I didn’t have to be a boy or a girl — I could be ‘an experience’](https://www.polygon.com/23964548/steven-universe-stevonnie-queer-animation)
- - [Every Xbox console is at least $50 off for Black Friday](https://www.polygon.com/23962727/xbox-series-x-black-friday-deal-best-buy)
- - [The best Black Friday deals are happening now](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)<!-- GAME:END -->
+ - [Railway builder Station to Station harnesses the joy of minimalism](https://www.polygon.com/23965690/station-to-station-impression-puzzle-train-railway-sim-choo-choooooo)
+ - [The best video game books of 2023](https://www.polygon.com/23940553/best-video-game-books-2023)
+ - [Steven Universe taught me I didn’t have to be a boy or a girl — I could be ‘an experience’](https://www.polygon.com/23964548/steven-universe-stevonnie-queer-animation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
