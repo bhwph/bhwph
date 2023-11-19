@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
- - 😝 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
- - 👉 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)<!-- MEMES:END -->
+ - 6️⃣ [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
+ - 😝 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
+ - 👉 [A noodle factory in Kolkata from the state of West Bengal, India. As an Indian myself, I would advise everyone NOT to eat Indian street food. Video by an Indian food channel.](http://9gag.com/gag/aME56Px)<!-- MEMES:END -->
 
 --- 
 
