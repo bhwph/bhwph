@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: in a memo, OpenAI Chief Strategy Officer Jason Kwon told employees that the company is &quot;optimistic&quot; it can bring back Sam Altman and Greg Brockman &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/231119/p2#a231119p2)
- - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)
- - [Google announces plans to eliminate third-party cookies in Chrome, starting with a 1% user testing period early in 2024 and leading to a broader phase-out in Q3 &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/231119/p1#a231119p1)<!-- TECH:END -->
+ - [This Gaming Seat Brought My Formula 1 Racing Fantasies to Life](https://www.wired.com/story/logitech-racing-sim-rave/)
+ - [The Precarious Rise of Disposable Vapes](https://www.wired.com/story/disposable-vapes-elf-bar-lost-mary-regulation/)
+ - [How to Charge Your Phone Faster With Adaptive Charging](https://www.wired.com/story/how-to-charge-phone-faster-adaptive-charging/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
