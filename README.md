@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait what!?](http://9gag.com/gag/armwE0V)
- - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
- - 👉 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)<!-- MEMES:END -->
+ - 6️⃣ [I can completely relate to this](http://9gag.com/gag/aZD54ZQ)
+ - 😝 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)
+ - 👉 [Interesting, shocking and not for everyone.](http://9gag.com/gag/agowwOv)<!-- MEMES:END -->
 
 --- 
 
