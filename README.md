@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A noodle factory in Kolkata from the state of West Bengal, India. As an Indian myself, I would advise everyone NOT to eat Indian street food. Video by an Indian food channel.](http://9gag.com/gag/aME56Px)
- - 😝 [I can completely relate to this](http://9gag.com/gag/aZD54ZQ)
- - 👉 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)<!-- MEMES:END -->
+ - 6️⃣ [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
+ - 😝 [There is no title](http://9gag.com/gag/anzw3V0)
+ - 👉 [Based Nadal](http://9gag.com/gag/a9q0wmm)<!-- MEMES:END -->
 
 --- 
 
