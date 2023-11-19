@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
- - 😝 [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
- - 👉 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)<!-- MEMES:END -->
+ - 6️⃣ [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
+ - 😝 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
+ - 👉 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)<!-- MEMES:END -->
 
 --- 
 
