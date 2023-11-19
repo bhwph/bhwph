@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to turn off active status on Instagram](https://www.androidauthority.com/disable-active-status-instagram-3137350/)
- - [A look at Apple&#39;s quest to build key device components in-house, including a cellular modem and other wireless chips, displays, batteries, and camera sensors &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231119/p4#a231119p4)
- - [Most of ESPN’s accounts went dark after Disney dropped advertising on X](https://www.theverge.com/2023/11/19/23967681/espn-x-accounts-not-posting-disney-no-longer-advertising-musk-antisemitic-posts)<!-- TECH:END -->
+ - [Crime blotter: iPhone and iPad seized from New York Mayor Eric Adams](https://appleinsider.com/articles/23/11/19/crime-blotter-iphone-and-ipad-seized-from-new-york-mayor-eric-adams?utm_medium=rss)
+ - [Adobe Creative Cloud 2023 gets hefty 50% off discount for Black Friday](https://appleinsider.com/articles/23/11/19/adobe-creative-cloud-2023-gets-hefty-50-off-discount-for-black-friday?utm_medium=rss)
+ - [My Google Nest Cam with Floodlight provides security as well as entertainment](https://www.androidauthority.com/my-google-nest-cam-with-floodlight-provides-security-as-well-as-entertainment-3385993/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
