@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Look again](http://9gag.com/gag/ap9wzMn)
- - 😝 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
- - 👉 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)<!-- MEMES:END -->
+ - 6️⃣ [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
+ - 😝 [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
+ - 👉 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)<!-- MEMES:END -->
 
 --- 
 
