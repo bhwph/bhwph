@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I can completely relate to this](http://9gag.com/gag/aZD54ZQ)
- - 😝 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)
- - 👉 [Interesting, shocking and not for everyone.](http://9gag.com/gag/agowwOv)<!-- MEMES:END -->
+ - 6️⃣ [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
+ - 😝 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
+ - 👉 [Polina](http://9gag.com/gag/aL155vM)<!-- MEMES:END -->
 
 --- 
 
