@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods start at just $79.99 as Black Friday sends prices tumbling](https://www.androidauthority.com/apple-airpods-black-friday-3387210/)
- - [7 Best Philips Hue Smart Lights &lpar;2023&rpar;: Gradient Lightstrip, Go Lamp, and More Tips](https://www.wired.com/gallery/best-philips-hue-smart-lights/)
- - [The New Jackrabbit XG Ebike Is a Pint-Size Prankster](https://www.wired.com/story/jackrabbit-xg-rave/)<!-- TECH:END -->
+ - [Apple’s last-gen iPad falls to a new low of $229.99 for early Black Friday buyers](https://www.theverge.com/2023/11/20/23969050/apple-ipad-ninth-generation-early-black-friday-budget-deal-sale)
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
+ - [Meet Emmett Shear, OpenAI’s ‘Highly Intelligent, Socially Awkward’ Interim CEO](https://www.wired.com/story/emmett-shear-twitch-open-ai-ceo/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
