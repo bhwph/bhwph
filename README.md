@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Glorious](http://9gag.com/gag/ap9wwjp)
- - 😝 [Will have to change underwear](http://9gag.com/gag/az2wzXN)
- - 👉 [When she forgot to handshake and almost died](http://9gag.com/gag/a2KppxZ)<!-- MEMES:END -->
+ - 6️⃣ [They ended up disappointed](http://9gag.com/gag/aPg22BB)
+ - 😝 [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)
+ - 👉 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)<!-- MEMES:END -->
 
 --- 
 
