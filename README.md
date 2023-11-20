@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The top three Call of Duty: Modern Warfare III maps, according to PlayStation players](https://blog.playstation.com/2023/11/20/the-top-three-call-of-duty-modern-warfare-iii-maps-according-to-playstation-players/)
- - [Arma Reforger introduces immersive military simulator cross play to Xbox](https://news.xbox.com/en-us/2023/11/20/arma-reforger-xbox-launch/)
- - [Scott Pilgrim Takes Off remixes what you think you know about Scott Pilgrim](https://www.polygon.com/23965502/scott-pilgrim-takes-off-review-anime-netflix-tv-show)<!-- GAME:END -->
+ - [Five Nights at Freddy’s: Help Wanted 2 seeks new employees December 14](https://blog.playstation.com/2023/11/20/five-nights-at-freddys-help-wanted-2-seeks-new-employees-december-14/)
+ - [November games you might have missed](https://www.polygon.com/deals/23940711/new-games-november-2023-robocop-teardown-song-of-nunu)
+ - [Where to find ‘Staff-Wielding Opponents’ in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23969159/graph-adversarial-technology-experiment-log-event-staff-wielding-opponent)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
