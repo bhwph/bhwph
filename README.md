@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s last-gen iPad falls to a new low of $229.99 for early Black Friday buyers](https://www.theverge.com/2023/11/20/23969050/apple-ipad-ninth-generation-early-black-friday-budget-deal-sale)
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [Meet Emmett Shear, OpenAI’s ‘Highly Intelligent, Socially Awkward’ Interim CEO](https://www.wired.com/story/emmett-shear-twitch-open-ai-ceo/)<!-- TECH:END -->
+ - [Why the latest temperature check on climate change is still terrifying](https://www.theverge.com/2023/11/20/23969101/temperature-check-climate-change-united-nations-negotiations-dubai)
+ - [Chicago Med season 9: Plot, cast, release window, and more](https://www.androidauthority.com/chicago-med-season-9-release-date-3382108/)
+ - [Black Friday 16-inch MacBook Pro deal drives price of M3 Max, 48GB RAM spec down to $3,749](https://appleinsider.com/articles/23/11/20/black-friday-16-inch-macbook-pro-deal-drives-price-of-m3-max-48gb-ram-spec-down-to-3749?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
