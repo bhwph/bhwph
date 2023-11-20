@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku’s Biggest Gaming Culture News For The Week November 18, 2023](https://kotaku.com/kotaku-s-biggest-gaming-culture-news-for-the-week-novem-1851032502)
- - [Kotaku’s Opinions For The Week November 18, 2023](https://kotaku.com/kotaku-s-opinions-for-the-week-november-18-2023-1851032509)
- - [The Last Of Us Part II Remastered Is Real, Out Next Year [Update: Full Details]](https://kotaku.com/last-of-us-part-2-remastered-ii-leak-trailer-2024-ps5-1851032694)<!-- GAME:END -->
+ - [The top three Call of Duty: Modern Warfare III maps, according to PlayStation players](https://blog.playstation.com/2023/11/20/the-top-three-call-of-duty-modern-warfare-iii-maps-according-to-playstation-players/)
+ - [Arma Reforger introduces immersive military simulator cross play to Xbox](https://news.xbox.com/en-us/2023/11/20/arma-reforger-xbox-launch/)
+ - [Scott Pilgrim Takes Off remixes what you think you know about Scott Pilgrim](https://www.polygon.com/23965502/scott-pilgrim-takes-off-review-anime-netflix-tv-show)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
