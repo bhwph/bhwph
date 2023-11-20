@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to 45% with Roborock Black Friday robot vacuum and mop discounts](https://appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts?utm_medium=rss)
- - [Lenovo Legion Go review: nice screen, detachable controllers, and FPS mode that simulates a mouse but using Windows is frustrating and terrible battery life &lpar;Eric Ravenscraft/Wired&rpar;](http://www.techmeme.com/231120/p5#a231120p5)
- - [OpenAI’s new CEO is Twitch co-founder Emmett Shear](https://www.theverge.com/2023/11/20/23968848/openai-new-ceo-emmett-shear-twitch-co-founder-hiring)<!-- TECH:END -->
+ - [A look at OpenAI&#39;s wild weekend, as an internal debate over its future became public; investors say OpenAI still has not said why Altman was fired so abruptly &lpar;Financial Times&rpar;](http://www.techmeme.com/231120/p11#a231120p11)
+ - [While the White House may condemn Elon Musk, the US recently signed a $1.2B SpaceX deal for Starshield, a key China deterrent, showing its dependence on him &lpar;New York Times&rpar;](http://www.techmeme.com/231120/p10#a231120p10)
+ - [BioBlack Is a Cleaner Alternative to the Filthy and Toxic Carbon Black Pigment](https://www.wired.com/story/bioblack-nature-coatings/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
