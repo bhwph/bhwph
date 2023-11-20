@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kid! wtf?](http://9gag.com/gag/a9q00XK)
- - 😝 [Shadow Magic](http://9gag.com/gag/awZ29wD)
- - 👉 [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)<!-- MEMES:END -->
+ - 6️⃣ [What kind of eldritch debauchery is this? It gets worse every time I look at it.](http://9gag.com/gag/aL15oEz)
+ - 😝 [Polina](http://9gag.com/gag/aL155vM)
+ - 👉 [Protect your children at all cost from Islam](http://9gag.com/gag/a2KpXWp)<!-- MEMES:END -->
 
 --- 
 
