@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is when you can expect to buy the new Samsung Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-series-pre-orders-sales-3387081/)
- - [Sources describe how ChatGPT&#39;s success widened ideological rifts at OpenAI, and Ilya Sutskever began behaving like a spiritual leader expecting AGI&#39;s arrival &lpar;Karen Hao/The Atlantic&rpar;](http://www.techmeme.com/231119/p16#a231119p16)
- - [Cruise co-founder and CEO Kyle Vogt resigns, a month after California&#39;s DMV suspended Cruise&#39;s permits to operate self-driving cars on public roads &lpar;TechCrunch&rpar;](http://www.techmeme.com/231119/p15#a231119p15)<!-- TECH:END -->
+ - [Google Maps has changed its colors and people are upset](https://www.androidauthority.com/google-maps-color-change-3387097/)
+ - [OpenAI co-founder and board director Ilya Sutskever told staff that Sam Altman will not return as CEO; Twitch co-founder Emmett Shear to be interim CEO &lpar;The Information&rpar;](http://www.techmeme.com/231120/p1#a231120p1)
+ - [Nothing Chats pulled from Play Store after investigations find serious security flaws](https://www.androidauthority.com/nothing-chats-security-issues-launch-delayed-3387086/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
