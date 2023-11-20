@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breaking: OpenAI ex-CEO Sam Altman joins Microsoft](https://www.androidauthority.com/openai-ex-ceo-joins-microsoft-3387144/)
- - [Satya Nadella says Sam Altman, Greg Brockman, and colleagues will join Microsoft to lead a new AI research team and Microsoft remains committed to OpenAI &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231120/p3#a231120p3)
- - [Microsoft hires former OpenAI CEO Sam Altman](https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai)<!-- TECH:END -->
+ - [Save up to 45% with Roborock Black Friday robot vacuum and mop discounts](https://appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts?utm_medium=rss)
+ - [Lenovo Legion Go review: nice screen, detachable controllers, and FPS mode that simulates a mouse but using Windows is frustrating and terrible battery life &lpar;Eric Ravenscraft/Wired&rpar;](http://www.techmeme.com/231120/p5#a231120p5)
+ - [OpenAI’s new CEO is Twitch co-founder Emmett Shear](https://www.theverge.com/2023/11/20/23968848/openai-new-ceo-emmett-shear-twitch-co-founder-hiring)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
