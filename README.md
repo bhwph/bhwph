@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - 😝 [Absolute &amp; Immediate B A N G E R](http://9gag.com/gag/aNw55e6)
- - 👉 [Can&#39;t tell](http://9gag.com/gag/adPwDNd)<!-- MEMES:END -->
+ - 6️⃣ [He loves his bike \ud83d\udeb3](http://9gag.com/gag/amAw4wX)
+ - 😝 [It will rain...](http://9gag.com/gag/az2wpwN)
+ - 👉 [THE BOYS \ud83e\udd0c\ud83c\udffb](http://9gag.com/gag/aPg2q0n)<!-- MEMES:END -->
 
 --- 
 
