@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Nights at Freddy’s: Help Wanted 2 seeks new employees December 14](https://blog.playstation.com/2023/11/20/five-nights-at-freddys-help-wanted-2-seeks-new-employees-december-14/)
- - [November games you might have missed](https://www.polygon.com/deals/23940711/new-games-november-2023-robocop-teardown-song-of-nunu)
- - [Where to find ‘Staff-Wielding Opponents’ in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23969159/graph-adversarial-technology-experiment-log-event-staff-wielding-opponent)<!-- GAME:END -->
+ - [D&amp;D’s Deck of Many Things launch delayed until January 2024](https://www.polygon.com/23969669/dnd-dungeons-dragons-deck-of-many-things-launch-delay-release-date-price)
+ - [Mortal Kombat 1 players are still beating the game’s toughest bosses with farts](https://www.polygon.com/gaming/23969540/mortal-kombat-1-fart-talisman-windbreaker-invasions-nitara)
+ - [The New Division Game Has A Feature Every Game Should Steal](https://kotaku.com/the-division-2-resurgence-beta-fast-forward-cutscenes-1851036426)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
