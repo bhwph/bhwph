@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What kind of eldritch debauchery is this? It gets worse every time I look at it.](http://9gag.com/gag/aL15oEz)
- - 😝 [Polina](http://9gag.com/gag/aL155vM)
- - 👉 [Protect your children at all cost from Islam](http://9gag.com/gag/a2KpXWp)<!-- MEMES:END -->
+ - 6️⃣ [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
+ - 😝 [Absolute &amp; Immediate B A N G E R](http://9gag.com/gag/aNw55e6)
+ - 👉 [Can&#39;t tell](http://9gag.com/gag/adPwDNd)<!-- MEMES:END -->
 
 --- 
 
