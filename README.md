@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at OpenAI&#39;s wild weekend, as an internal debate over its future became public; investors say OpenAI still has not said why Altman was fired so abruptly &lpar;Financial Times&rpar;](http://www.techmeme.com/231120/p11#a231120p11)
- - [While the White House may condemn Elon Musk, the US recently signed a $1.2B SpaceX deal for Starshield, a key China deterrent, showing its dependence on him &lpar;New York Times&rpar;](http://www.techmeme.com/231120/p10#a231120p10)
- - [BioBlack Is a Cleaner Alternative to the Filthy and Toxic Carbon Black Pigment](https://www.wired.com/story/bioblack-nature-coatings/)<!-- TECH:END -->
+ - [AirPods start at just $79.99 as Black Friday sends prices tumbling](https://www.androidauthority.com/apple-airpods-black-friday-3387210/)
+ - [7 Best Philips Hue Smart Lights &lpar;2023&rpar;: Gradient Lightstrip, Go Lamp, and More Tips](https://www.wired.com/gallery/best-philips-hue-smart-lights/)
+ - [The New Jackrabbit XG Ebike Is a Pint-Size Prankster](https://www.wired.com/story/jackrabbit-xg-rave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
