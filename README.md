@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps has changed its colors and people are upset](https://www.androidauthority.com/google-maps-color-change-3387097/)
- - [OpenAI co-founder and board director Ilya Sutskever told staff that Sam Altman will not return as CEO; Twitch co-founder Emmett Shear to be interim CEO &lpar;The Information&rpar;](http://www.techmeme.com/231120/p1#a231120p1)
- - [Nothing Chats pulled from Play Store after investigations find serious security flaws](https://www.androidauthority.com/nothing-chats-security-issues-launch-delayed-3387086/)<!-- TECH:END -->
+ - [Breaking: OpenAI ex-CEO Sam Altman joins Microsoft](https://www.androidauthority.com/openai-ex-ceo-joins-microsoft-3387144/)
+ - [Satya Nadella says Sam Altman, Greg Brockman, and colleagues will join Microsoft to lead a new AI research team and Microsoft remains committed to OpenAI &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231120/p3#a231120p3)
+ - [Microsoft hires former OpenAI CEO Sam Altman](https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
