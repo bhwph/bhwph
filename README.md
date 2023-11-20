@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)
- - 😝 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)
- - 👉 [Damn dog](http://9gag.com/gag/aEq55KO)<!-- MEMES:END -->
+ - 6️⃣ [Kid! wtf?](http://9gag.com/gag/a9q00XK)
+ - 😝 [Shadow Magic](http://9gag.com/gag/awZ29wD)
+ - 👉 [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)<!-- MEMES:END -->
 
 --- 
 
