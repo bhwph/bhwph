@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at two content moderation startups founded by ex-Meta and Google staffers as the Israel-Hamas war leads to a surge in demand for trust and safety tech &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231119/p10#a231119p10)
- - [How OpenAI’s Bizarre Structure Gave 4 People the Power to Fire Sam Altman](https://www.wired.com/story/openai-bizarre-structure-4-people-the-power-to-fire-sam-altman/)
- - [Tim Cook defends Apple Watch privacy focus in mental health talk](https://appleinsider.com/articles/23/11/19/tim-cook-defends-privacy-focus-in-apec-discussion-group?utm_medium=rss)<!-- TECH:END -->
+ - [SpaceX’s new Starlink satellite internet terminal has a kickstand](https://www.theverge.com/2023/11/19/23968395/spacex-starlink-satellite-internet-terminal-kickstand-improved-fov-ip67-weather-rating)
+ - [Optus CEO Kelly Bayer Rosmarin resigns, after the Australian telco&#39;s crippling nationwide outage that began on Nov. 8; CFO Michael Venter to act as interim CEO &lpar;Asha Barbaschow/Gizmodo Australia&rpar;](http://www.techmeme.com/231119/p13#a231119p13)
+ - [Amazon&#39;s MacBook Air with AppleCare bundles start at $888, a Black Friday steal](https://appleinsider.com/articles/23/11/20/amazons-macbook-air-with-applecare-bundles-start-at-888-a-black-friday-steal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
