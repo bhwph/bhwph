@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why the latest temperature check on climate change is still terrifying](https://www.theverge.com/2023/11/20/23969101/temperature-check-climate-change-united-nations-negotiations-dubai)
- - [Chicago Med season 9: Plot, cast, release window, and more](https://www.androidauthority.com/chicago-med-season-9-release-date-3382108/)
- - [Black Friday 16-inch MacBook Pro deal drives price of M3 Max, 48GB RAM spec down to $3,749](https://appleinsider.com/articles/23/11/20/black-friday-16-inch-macbook-pro-deal-drives-price-of-m3-max-48gb-ram-spec-down-to-3749?utm_medium=rss)<!-- TECH:END -->
+ - [Cook wanted Apple and Google to be &#39;deep, deep partners&#39;](https://appleinsider.com/articles/23/11/20/cook-wanted-apple-and-google-to-be-deep-deep-partners?utm_medium=rss)
+ - [Worlds 2023 had K-pop stars, an AR boy band, and one big screen](https://www.theverge.com/2023/11/20/23969182/worlds-2023-newjeans-heartsteel-opening-ceremony-tech)
+ - [Cruise co-founder and Chief Product Officer Daniel Kan resigns, a day after CEO Kyle Vogt quit &lpar;Reuters&rpar;](http://www.techmeme.com/231120/p24#a231120p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
