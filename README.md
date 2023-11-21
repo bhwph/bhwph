@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 8 users are reporting ‘bumps’ and ‘ripples’ forming on the display](https://www.androidauthority.com/pixel-8-display-bumps-3387522/)
- - [Mid-range phones will get generative AI thanks to this new chipset](https://www.androidauthority.com/mediatek-dimensity-8300-3386430/)
- - [CISA debuts a pilot program offering &quot;cybersecurity shared services&quot; to non-federal critical infrastructure entities in healthcare, education, and other sectors &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231121/p6#a231121p6)<!-- TECH:END -->
+ - [Wait, now Sam Altman wants to go back to OpenAI…?!](https://www.androidauthority.com/sam-altman-could-return-openai-3387545/)
+ - [An interview with Carl Pei and lead designers at Nothing, which marked its third anniversary in October, on the design process, US&#39; smartphone market, and more &lpar;James Pero/Inverse&rpar;](http://www.techmeme.com/231121/p8#a231121p8)
+ - [Braun: Designed to Keep is a book worth holding onto](https://www.theverge.com/23966605/braun-designed-to-keep-book-review-klaus-kemp)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
