@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance criminal settlement could include a $4 billion fine and CEO’s guilty plea](https://www.theverge.com/2023/11/21/23971066/binance-ceo-changpeng-zhao-step-down)
- - [Sources: Richard Teng, Binance&#39;s head of regional markets outside the US, is a leading candidate being considered to take over as Binance CEO &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/231121/p32#a231121p32)
- - [Temu Is Burning Cash to Challenge Shein and Amazon on Black Friday](https://www.wired.com/story/temu-is-burning-cash-to-challenge-shein-and-amazon-on-black-friday/)<!-- TECH:END -->
+ - [OpenAI rival Anthropic makes its Claude chatbot even more useful](https://www.theverge.com/2023/11/21/23971070/anthropic-claude-2-1-openai-ai-chatbot-update-beta-tools)
+ - [15 Best Black Friday Coffee Deals &lpar;2023&rpar;: Fellow Gear, Coffee Beans, Espresso Machines](https://www.wired.com/story/best-black-friday-coffee-deals-2023/)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
