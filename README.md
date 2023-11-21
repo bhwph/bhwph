@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
+ - 6️⃣ [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
  - 😝 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
- - 👉 [That door close tho](http://9gag.com/gag/ay2wjbV)<!-- MEMES:END -->
+ - 👉 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)<!-- MEMES:END -->
 
 --- 
 
