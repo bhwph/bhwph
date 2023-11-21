@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best early Black Friday monitor savings you can buy right now](https://appleinsider.com/articles/23/11/18/best-early-black-friday-monitor-savings?utm_medium=rss)
- - [OpenAI storm continues as Microsoft may not have hired Altman after all](https://appleinsider.com/articles/23/11/20/openai-is-imploding-as-staff-rebel-over-shock-firing-of-ceo?utm_medium=rss)
- - [5 Best Folding Phones &lpar;2023&rpar;: Flip Phones, Book-Like Folds, Cheap](https://www.wired.com/gallery/best-folding-phones/)<!-- TECH:END -->
+ - [First Nothing Chats, now Sunbird takes down its iMessage for Android app](https://www.androidauthority.com/sunbird-app-shut-down-3387639/)
+ - [Greenpeace slams Apple supplier Foxconn over inadequate carbon effort](https://appleinsider.com/articles/23/11/21/greenpeace-slams-apple-supplier-foxconn-over-inadequate-carbon-effort?utm_medium=rss)
+ - [Amazon Prime Video plans &quot;shoppable ads&quot; where viewers can scan QR codes for instant purchases, during NFL&#39;s first-ever &quot;Black Friday&quot; game, which it&#39;s carrying &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231121/p24#a231121p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
