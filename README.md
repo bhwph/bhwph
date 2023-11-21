@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 surprisingly good prequel movies that help balance out all the bad ones](https://www.polygon.com/23969917/best-movie-prequels-indiana-jones-alien-planet-of-the-apes)
- - [The Best Games Of 2023 &lpar;So Far&rpar; [Updated]](https://kotaku.com/best-video-games-2023-ps5-xbox-series-switch-pc-gaming-1850124419)
- - [Undersea survival game Subnautica is getting a sequel in 2025](https://www.pcgamer.com/undersea-survival-game-subnautica-is-getting-a-sequel-in-2025)<!-- GAME:END -->
+ - [Where to find all the Purveyors of Curiosity in Diablo 4](https://www.polygon.com/diablo-4-guides/23754285/purveyor-curiosity-vendor-locations-maps)
+ - [Mortal Kombat 1 Players Are Time Traveling To Avoid Buying Skins](https://kotaku.com/mortal-kombat-1-console-date-change-free-skins-1851040158)
+ - [I&#39;m So Tired Of Crossover &#39;Skins&#39; Cluttering Up Video Games](https://kotaku.com/crossover-skins-destiny-2-witcher-halo-rainbow-six-bad-1851039973)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
