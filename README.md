@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI rival Anthropic makes its Claude chatbot even more useful](https://www.theverge.com/2023/11/21/23971070/anthropic-claude-2-1-openai-ai-chatbot-update-beta-tools)
- - [15 Best Black Friday Coffee Deals &lpar;2023&rpar;: Fellow Gear, Coffee Beans, Espresso Machines](https://www.wired.com/story/best-black-friday-coffee-deals-2023/)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
+ - [A US district judge dismisses most claims in a lawsuit by Sarah Silverman and other authors against Meta&#39;s use of copyrighted material to train Llama models &lpar;Winston Cho/Hollywood Reporter&rpar;](http://www.techmeme.com/231121/p46#a231121p46)
+ - [14 Best Black Friday Sonos Deals &lpar;2023&rpar;: Soundbars, Subwoofers, Bluetooth Speakers](https://www.wired.com/story/best-black-friday-sonos-deals-2023/)
+ - [Sources: fruitful negotiations between OpenAI&#39;s board and Sam Altman&#39;s side are taking place; Microsoft is being kept apprised and is likely to get board seats &lpar;Kara Swisher/@karaswisher&rpar;](http://www.techmeme.com/231121/p45#a231121p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
