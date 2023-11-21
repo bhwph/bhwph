@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
- - 😝 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)
- - 👉 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)<!-- MEMES:END -->
+ - 6️⃣ [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
+ - 😝 [Polina](http://9gag.com/gag/aL155vM)
+ - 👉 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)<!-- MEMES:END -->
 
 --- 
 
