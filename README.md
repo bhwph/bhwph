@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
- - 😝 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
- - 👉 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)<!-- MEMES:END -->
+ - 6️⃣ [That door close tho](http://9gag.com/gag/ay2wjbV)
+ - 😝 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)
+ - 👉 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)<!-- MEMES:END -->
 
 --- 
 
