@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
- - 😝 [Yep... another candidates for the Darwin award](http://9gag.com/gag/aME556x)
- - 👉 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)<!-- MEMES:END -->
+ - 6️⃣ [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
+ - 😝 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
+ - 👉 [That door close tho](http://9gag.com/gag/ay2wjbV)<!-- MEMES:END -->
 
 --- 
 
