@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D’s Deck of Many Things launch delayed until January 2024](https://www.polygon.com/23969669/dnd-dungeons-dragons-deck-of-many-things-launch-delay-release-date-price)
- - [Mortal Kombat 1 players are still beating the game’s toughest bosses with farts](https://www.polygon.com/gaming/23969540/mortal-kombat-1-fart-talisman-windbreaker-invasions-nitara)
- - [The New Division Game Has A Feature Every Game Should Steal](https://kotaku.com/the-division-2-resurgence-beta-fast-forward-cutscenes-1851036426)<!-- GAME:END -->
+ - [Controversial ‘pay-to-win’ Gaia skin will be temporarily removed from Modern Warfare 3](https://www.polygon.com/23970024/modern-warfare-3-gaia-skin-removed-temporarily)
+ - [New Starfield Patch Finally Adds Those Graphics Options You Wanted](https://kotaku.com/starfield-patch-1-8-86-update-notes-dlss-pc-brightness-1851037171)
+ - [Kotaku Asks: How Soon Is Too Soon For A Video Game Remaster Or Remake?](https://kotaku.com/the-last-of-us-part-ii-2-remaster-remake-ps5-tlou-1851036983)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
