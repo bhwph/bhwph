@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
+ - 6️⃣ [Worst Job Ever !](http://9gag.com/gag/aXn1y02)
  - 😝 [Polina](http://9gag.com/gag/aL155vM)
- - 👉 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)<!-- MEMES:END -->
+ - 👉 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)<!-- MEMES:END -->
 
 --- 
 
