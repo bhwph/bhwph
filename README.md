@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic v. Google: a Google exec confirms that Spotify pays no commission when users buy subscriptions via Spotify&#39;s payment system and 4% when they pay via Google &lpar;The Verge&rpar;](http://www.techmeme.com/231121/p3#a231121p3)
- - [OpenAI exec Anna Makanju told staff the company is in &quot;intense discussions&quot; to unify, is in touch with Sam Altman, and there will be &quot;no final response&quot; tonight &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/231121/p2#a231121p2)
- - [Blowout Black Friday MacBook Pro deal drops 16-inch M2 Pro laptop to $2,099](https://appleinsider.com/articles/23/11/21/blowout-black-friday-macbook-pro-deal-drops-16-inch-m2-pro-laptop-to-2099?utm_medium=rss)<!-- TECH:END -->
+ - [Pixel 8 users are reporting ‘bumps’ and ‘ripples’ forming on the display](https://www.androidauthority.com/pixel-8-display-bumps-3387522/)
+ - [Mid-range phones will get generative AI thanks to this new chipset](https://www.androidauthority.com/mediatek-dimensity-8300-3386430/)
+ - [CISA debuts a pilot program offering &quot;cybersecurity shared services&quot; to non-federal critical infrastructure entities in healthcare, education, and other sectors &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231121/p6#a231121p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
