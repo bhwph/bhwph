@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
- - 😝 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
- - 👉 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)<!-- MEMES:END -->
+ - 6️⃣ [Share here your best wallpaper for a phone... Please](http://9gag.com/gag/anzwP4B)
+ - 😝 [Trying to to enter your own country](http://9gag.com/gag/a8qOB21)
+ - 👉 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)<!-- MEMES:END -->
 
 --- 
 
