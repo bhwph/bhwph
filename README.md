@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto zealots lead frivolous lawsuit against &#39;Apple led cartel&#39;](https://appleinsider.com/articles/23/11/20/crypto-zealots-lead-frivolous-lawsuit-against-apple-led-cartel?utm_medium=rss)
- - [95 Percent of OpenAI Employees Threaten to Follow Sam Altman Out the Door](https://www.wired.com/story/95-percent-of-openai-employees-threaten-to-follow-sam-altman-out-the-door/)
- - [Marc Benioff says Salesforce will provide matching compensation to any researcher who has quit OpenAI and joins Salesforce&#39;s Einstein Trusted AI research team &lpar;Ben Purvis/Bloomberg&rpar;](http://www.techmeme.com/231120/p27#a231120p27)<!-- TECH:END -->
+ - [X files a defamation lawsuit against Media Matters, claiming it &quot;knowingly and maliciously&quot; misrepresented the amount of antisemitic content on the platform &lpar;Sharon Knolle/The Wrap&rpar;](http://www.techmeme.com/231120/p33#a231120p33)
+ - [The 59 Black Friday Deals to Shop Right Now](https://www.wired.com/story/absolute-best-black-friday-deals-3/)
+ - [Samsung&#39;s Decarbonization Efforts Rank Last Among Top Electronics Makers     - CNET](https://www.cnet.com/tech/mobile/samsungs-decarbonisation-efforts-rank-last-among-top-tech-brands/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
