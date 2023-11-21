@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Both the US and China see advanced chip packaging, once an afterthought, as a path to higher performance; Intel says the US has just 3% of global capacity &lpar;Bloomberg&rpar;](http://www.techmeme.com/231121/p16#a231121p16)
- - [A profile of Sam Altman, the AI industry&#39;s de facto ambassador despite lacking a scientific background; a source says &quot;his superpower is getting people on side&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/231121/p15#a231121p15)
- - [New York Wants More Electric Ubers. Everyone Is Mad](https://www.wired.com/story/new-york-city-electric-uber-lyft-license/)<!-- TECH:END -->
+ - [Best early Black Friday monitor savings you can buy right now](https://appleinsider.com/articles/23/11/18/best-early-black-friday-monitor-savings?utm_medium=rss)
+ - [OpenAI storm continues as Microsoft may not have hired Altman after all](https://appleinsider.com/articles/23/11/20/openai-is-imploding-as-staff-rebel-over-shock-firing-of-ceo?utm_medium=rss)
+ - [5 Best Folding Phones &lpar;2023&rpar;: Flip Phones, Book-Like Folds, Cheap](https://www.wired.com/gallery/best-folding-phones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
