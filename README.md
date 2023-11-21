@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Steam Autumn Sale 2023 is live](https://www.pcgamer.com/steam-autumn-sale-2023-live)
- - [The OA’s success made Murder at the End of the World’s culprit clear to its creators](https://www.polygon.com/23969731/murder-at-end-of-world-oa-brit-marling-new-tv-batmanglij)
- - [I&#39;m glad Scott Pilgrim Takes Off did its own thing, and I think you should be too](https://www.pcgamer.com/im-glad-scott-pilgrim-takes-off-did-its-own-thing-and-i-think-you-should-be-too)<!-- GAME:END -->
+ - [10 surprisingly good prequel movies that help balance out all the bad ones](https://www.polygon.com/23969917/best-movie-prequels-indiana-jones-alien-planet-of-the-apes)
+ - [The Best Games Of 2023 &lpar;So Far&rpar; [Updated]](https://kotaku.com/best-video-games-2023-ps5-xbox-series-switch-pc-gaming-1850124419)
+ - [Undersea survival game Subnautica is getting a sequel in 2025](https://www.pcgamer.com/undersea-survival-game-subnautica-is-getting-a-sequel-in-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
