@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wait, now Sam Altman wants to go back to OpenAI…?!](https://www.androidauthority.com/sam-altman-could-return-openai-3387545/)
- - [An interview with Carl Pei and lead designers at Nothing, which marked its third anniversary in October, on the design process, US&#39; smartphone market, and more &lpar;James Pero/Inverse&rpar;](http://www.techmeme.com/231121/p8#a231121p8)
- - [Braun: Designed to Keep is a book worth holding onto](https://www.theverge.com/23966605/braun-designed-to-keep-book-review-klaus-kemp)<!-- TECH:END -->
+ - [Both the US and China see advanced chip packaging, once an afterthought, as a path to higher performance; Intel says the US has just 3% of global capacity &lpar;Bloomberg&rpar;](http://www.techmeme.com/231121/p16#a231121p16)
+ - [A profile of Sam Altman, the AI industry&#39;s de facto ambassador despite lacking a scientific background; a source says &quot;his superpower is getting people on side&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/231121/p15#a231121p15)
+ - [New York Wants More Electric Ubers. Everyone Is Mad](https://www.wired.com/story/new-york-city-electric-uber-lyft-license/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
