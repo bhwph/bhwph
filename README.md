@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Worst Job Ever !](http://9gag.com/gag/aXn1y02)
- - 😝 [Polina](http://9gag.com/gag/aL155vM)
- - 👉 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)<!-- MEMES:END -->
+ - 6️⃣ [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
+ - 😝 [Yep... another candidates for the Darwin award](http://9gag.com/gag/aME556x)
+ - 👉 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)<!-- MEMES:END -->
 
 --- 
 
