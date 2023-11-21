@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Nothing Chats, now Sunbird takes down its iMessage for Android app](https://www.androidauthority.com/sunbird-app-shut-down-3387639/)
- - [Greenpeace slams Apple supplier Foxconn over inadequate carbon effort](https://appleinsider.com/articles/23/11/21/greenpeace-slams-apple-supplier-foxconn-over-inadequate-carbon-effort?utm_medium=rss)
- - [Amazon Prime Video plans &quot;shoppable ads&quot; where viewers can scan QR codes for instant purchases, during NFL&#39;s first-ever &quot;Black Friday&quot; game, which it&#39;s carrying &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231121/p24#a231121p24)<!-- TECH:END -->
+ - [Binance criminal settlement could include a $4 billion fine and CEO’s guilty plea](https://www.theverge.com/2023/11/21/23971066/binance-ceo-changpeng-zhao-step-down)
+ - [Sources: Richard Teng, Binance&#39;s head of regional markets outside the US, is a leading candidate being considered to take over as Binance CEO &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/231121/p32#a231121p32)
+ - [Temu Is Burning Cash to Challenge Shein and Amazon on Black Friday](https://www.wired.com/story/temu-is-burning-cash-to-challenge-shein-and-amazon-on-black-friday/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
