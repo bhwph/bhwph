@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
+ - 6️⃣ [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
  - 😝 [Polina](http://9gag.com/gag/aL155vM)
- - 👉 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)<!-- MEMES:END -->
+ - 👉 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)<!-- MEMES:END -->
 
 --- 
 
