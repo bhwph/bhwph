@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When safety officer is not around](http://9gag.com/gag/a9q03Wo)
- - 😝 [Poland City of Zakopane](http://9gag.com/gag/aVb5GNy)
- - 👉 [The little one lost his gun and shirt, but cowboy never even lost his hat.](http://9gag.com/gag/aREdxjG)<!-- MEMES:END -->
+ - 6️⃣ [Japanese Convenience Store Sandwich](http://9gag.com/gag/aDYvREw)
+ - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
+ - 👉 [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)<!-- MEMES:END -->
 
 --- 
 
