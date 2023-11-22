@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kinda chubby](http://9gag.com/gag/anzwL2q)
- - 😝 [Love my country!](http://9gag.com/gag/avQwNob)
- - 👉 [Good Or bad\u2026 and why?](http://9gag.com/gag/aOx5M8D)<!-- MEMES:END -->
+ - 6️⃣ [One `OOF` size large please](http://9gag.com/gag/aDY5EvN)
+ - 😝 [Warning, this is gonna hurt](http://9gag.com/gag/aDY5yPN)
+ - 👉 [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)<!-- MEMES:END -->
 
 --- 
 
