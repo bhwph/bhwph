@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A35 leaked renders indicate Samsung will continue with its boxy design](https://www.androidauthority.com/samsung-galaxy-a35-leaked-renders-3387985/)
- - [Apple illegally denied benefits to union workers, says US labor board](https://appleinsider.com/articles/23/11/22/apple-illegally-denied-benefits-to-union-workers-says-us-labor-board?utm_medium=rss)
- - [Sources: in 2019, Paul Graham flew from the UK to San Francisco to fire his prot&amp;eacute;g&amp;eacute; Sam Altman from YC, worried that Altman put his interests ahead of YC &lpar;Washington Post&rpar;](http://www.techmeme.com/231122/p14#a231122p14)<!-- TECH:END -->
+ - [Best Black Friday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
+ - [Apple iPhone 15 problems and how to fix them](https://www.androidauthority.com/apple-iphone-15-problems-fixes-3387796/)
+ - [Laptop-ready power banks are getting smaller and lighter, and this is my fav](https://www.androidauthority.com/laptop-ready-power-banks-3387390/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
