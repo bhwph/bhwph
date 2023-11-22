@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mimimi&#39;s swan song is 2 same-day expansions for Shadow Gambit before the studio shuts its doors forever](https://www.pcgamer.com/mimimis-swan-song-is-2-same-day-expansions-for-shadow-gambit-before-the-studio-shuts-its-doors-forever)
- - [Stardew Valley Expanded exceeded its creator’s wildest dreams](https://www.polygon.com/23962402/stardew-valley-expanded-mod-creator-backstory-nexus)
- - [LG OLED Flex 42 review](https://www.pcgamer.com/lg-oled-flex-42-gaming-tv-review)<!-- GAME:END -->
+ - [Can The Upcoming Zelda Movie Be Like This Ghibli-Style Ocarina Of Time Animation?](https://kotaku.com/zelda-ocarina-of-time-anniversary-ghibli-movie-1851042243)
+ - [It&#39;s 2023 and my PC should be a better console](https://www.pcgamer.com/its-2023-and-my-pc-should-be-a-better-console)
+ - [The holiday deal you didn&#39;t know you needed](https://www.pcgamer.com/the-holiday-deal-you-didnt-know-you-needed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
