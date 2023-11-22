@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday gaming console deals on PS5, Nintendo Switch, Xbox](https://appleinsider.com/articles/23/11/22/best-black-friday-gaming-console-deals-on-ps5-nintendo-switch-xbox?utm_medium=rss)
- - [Best Black Friday TV Deals: $800 Savings on 85-Inch, OLED, and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)
- - [Get a Microsoft Windows 11 Pro license for just $22.97](https://appleinsider.com/articles/23/11/22/get-a-microsoft-windows-11-pro-license-for-just-2297?utm_medium=rss)<!-- TECH:END -->
+ - [What is Grok and how it compares to ChatGPT?](https://www.androidauthority.com/what-is-grok-3385411/)
+ - [This Mini Rechargeable Lantern Is My Perfect Camping Lighting Source. It&#39;s on Sale This Black Friday     - CNET](https://www.cnet.com/deals/this-mini-rechargeable-lantern-is-my-perfect-camping-lighting-source-its-on-sale-this-black-friday/#ftag=CAD590a51e)
+ - [I Have a Drawerful of Expensive Knives. This Cheap Knife Is the One I Always Use     - CNET](https://www.cnet.com/deals/i-have-a-drawerful-of-expensive-knives-this-cheap-knife-is-the-one-i-always-use/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
