@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says that it has reached a deal in principle for Sam Altman to return as CEO, with a new board chaired by former Salesforce president Bret Taylor &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/231122/p5#a231122p5)
- - [The US Department of Energy&#39;s Idaho National Laboratory confirms a data breach after &quot;SiegedSec&quot; hacktivists leaked stolen HR data on hacker forums and Telegram &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231122/p4#a231122p4)
- - [Breaking: Sam Altman to return as CEO of OpenAI](https://www.theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai)<!-- TECH:END -->
+ - [Best Black Friday gaming console deals on PS5, Nintendo Switch, Xbox](https://appleinsider.com/articles/23/11/22/best-black-friday-gaming-console-deals-on-ps5-nintendo-switch-xbox?utm_medium=rss)
+ - [Best Black Friday TV Deals: $800 Savings on 85-Inch, OLED, and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)
+ - [Get a Microsoft Windows 11 Pro license for just $22.97](https://appleinsider.com/articles/23/11/22/get-a-microsoft-windows-11-pro-license-for-just-2297?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
