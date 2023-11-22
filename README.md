@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris Hilton&#39;s 11:11 Media suspends an ad campaign on X one month after announcing a partnership with X; it&#39;s unclear whether the partnership is still on &lpar;CNN&rpar;](http://www.techmeme.com/231121/p54#a231121p54)
- - [Elon Musk Trolls His Way Into the OpenAI Drama](https://www.wired.com/story/elon-musk-troll-openai-drama/)
- - [Samsung Galaxy Watch 4 Has Everything I Need in a $129 Black Friday Deal     - CNET](https://www.cnet.com/deals/samsung-galaxy-watch-4-has-everything-i-need-in-a-129-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Australia unveils a A$587M seven-year cyber resilience plan that includes cyber health checks for small businesses and mandatory reporting of ransomware attacks &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/231121/p56#a231121p56)
+ - [ChatGPT back up after hours long outage, company to publish a ‘public postmortem’](https://www.androidauthority.com/chatgpt-outage-restored-3387833/)
+ - [Get an M2 Max Mac Studio for just $1,795, plus 3 years of AppleCare for $139 with coupon](https://appleinsider.com/articles/23/11/22/get-an-m2-max-mac-studio-for-just-1795-plus-3-years-of-applecare-for-139-with-coupon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
