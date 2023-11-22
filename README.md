@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find all the Purveyors of Curiosity in Diablo 4](https://www.polygon.com/diablo-4-guides/23754285/purveyor-curiosity-vendor-locations-maps)
- - [Mortal Kombat 1 Players Are Time Traveling To Avoid Buying Skins](https://kotaku.com/mortal-kombat-1-console-date-change-free-skins-1851040158)
- - [I&#39;m So Tired Of Crossover &#39;Skins&#39; Cluttering Up Video Games](https://kotaku.com/crossover-skins-destiny-2-witcher-halo-rainbow-six-bad-1851039973)<!-- GAME:END -->
+ - [Diablo 4 player defies death itself with sorcerer build so unkillable they went AFK for 20 minutes against the Butcher](https://www.pcgamer.com/diablo-4-player-defies-death-itself-with-sorcerer-build-so-unkillable-they-went-afk-for-20-minutes-against-the-butcher)
+ - [People are trying to resell Baldur&#39;s Gate 3 Deluxe Editions for a profit even though supplies aren&#39;t limited and there&#39;s plenty of stock](https://www.pcgamer.com/people-are-trying-to-resell-baldurs-gate-3-deluxe-editions-for-a-profit-even-though-supplies-arent-limited-and-theres-plenty-of-stock)
+ - [As GTA 6 trailer reveal approaches, Rockstar Games whacks the name &#39;Rockstar Social Club&#39;](https://www.pcgamer.com/as-gta-6-trailer-reveal-approaches-rockstar-games-whacks-the-name-rockstar-social-club)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
