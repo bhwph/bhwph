@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One of the many migrants arriving daily in Italy. `Water is not good, food is not good, hotel is not good! We haven&#39;t received any pocket money for three months!`. These people see Europe as an all-inclusive buffet. Meanwhile more and more Italians are relying on food banks.](http://9gag.com/gag/avQwNbO)
- - 😝 [When you have some serious OCD](http://9gag.com/gag/adPwm7V)
- - 👉 [Little shower for little Ferret](http://9gag.com/gag/aQE501e)<!-- MEMES:END -->
+ - 6️⃣ [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
+ - 😝 [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
+ - 👉 [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)<!-- MEMES:END -->
 
 --- 
 
