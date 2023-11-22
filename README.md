@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2023 gaming and entertainment holiday gift guide](https://www.theverge.com/23959483/gaming-entertainment-gifts-ideas-2023-playstation-nintendo-xbox-tv-accessories)
- - [Shop the best Black Friday iPhone 15 case deals](https://appleinsider.com/articles/23/11/22/shop-the-best-black-friday-iphone-15-case-deals?utm_medium=rss)
- - [The Verge’s 2023 PC gift guide](https://www.theverge.com/23919557/holiday-gift-ideas-2023-pc-desktop-laptop-wfh-content-creator-tech-gadgets)<!-- TECH:END -->
+ - [PSA: One UI 6 may not have screen burn-in protection](https://www.androidauthority.com/one-ui-6-burn-in-risk-3388111/)
+ - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
+ - [45 Best Apple Black Friday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-black-friday-deals-2023-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
