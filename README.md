@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oof](http://9gag.com/gag/aL15y7v)
+ - 6️⃣ [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
  - 😝 [Love my country!](http://9gag.com/gag/avQwNob)
- - 👉 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)<!-- MEMES:END -->
+ - 👉 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)<!-- MEMES:END -->
 
 --- 
 
