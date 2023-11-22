@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Nintendo Switch games for grown-ups](https://www.polygon.com/what-to-play/23960695/best-nintendo-switch-games-for-adults)
- - [Pokémon Go ‘Party Up’ event, Timed Research guide](https://www.polygon.com/pokemon-go-guide/2023/11/22/23972533/party-up-event-timed-research-field-tasks)
- - [Bluey: The Videogame review](https://www.pcgamer.com/bluey-the-videogame-review)<!-- GAME:END -->
+ - [Warhammer 40,000: Space Marine 2 is delayed, and hoo boy it&#39;s a long one](https://www.pcgamer.com/warhammer-40000-space-marine-2-is-delayed-and-hoo-boy-its-a-long-one)
+ - [PUBG is getting an extraction shooter spinoff next year](https://www.pcgamer.com/pubg-is-getting-an-extraction-shooter-spinoff-next-year)
+ - [Hulu, Max, Peacock, and Paramount Plus subscriptions are cheaper for Black Friday](https://www.polygon.com/23969334/hulu-max-paramount-plus-streaming-black-friday-deal-sale-cyber-monday)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
