@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Laugh at 9gag meme go to hell.....](http://9gag.com/gag/a7qXQWb)
- - 😝 [The judo](http://9gag.com/gag/aBd5A7N)
- - 👉 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)<!-- MEMES:END -->
+ - 6️⃣ [Juicy Melons](http://9gag.com/gag/a9q09X6)
+ - 😝 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
+ - 👉 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)<!-- MEMES:END -->
 
 --- 
 
