@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #886 for Wednesday, November 22](https://www.pcgamer.com/wordle-today-answer-886-november-22)
- - [Diablo 4 player defies death itself with sorcerer build so unkillable they went AFK for 20 minutes against the Butcher](https://www.pcgamer.com/diablo-4-player-defies-death-itself-with-sorcerer-build-so-unkillable-they-went-afk-for-20-minutes-against-the-butcher)
- - [People are trying to resell Baldur&#39;s Gate 3 Deluxe Editions for a profit even though supplies aren&#39;t limited and there&#39;s plenty of stock](https://www.pcgamer.com/people-are-trying-to-resell-baldurs-gate-3-deluxe-editions-for-a-profit-even-though-supplies-arent-limited-and-theres-plenty-of-stock)<!-- GAME:END -->
+ - [OpenAI co-founder makes spectacular return mere days after ousting, with the board that fired him mostly swept away](https://www.pcgamer.com/openai-co-founder-makes-spectacular-return-mere-days-after-ousting-with-the-board-that-fired-him-swept-away)
+ - [Witcher author Andrzej Sapkowski says Netflix &#39;never listened&#39; to his ideas, and as for the games &#39;I have no time for this&#39;](https://www.pcgamer.com/witcher-author-andrzej-sapkowski-says-netflix-never-listened-to-his-ideas-and-as-for-the-games-i-have-no-time-for-this)
+ - [Worldless: Making a Game That Won’t Allow You To Die](https://news.xbox.com/en-us/2023/11/22/worldless-design-death/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
