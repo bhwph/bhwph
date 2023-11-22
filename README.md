@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
- - 😝 [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
- - 👉 [Love my country!](http://9gag.com/gag/avQwNob)<!-- MEMES:END -->
+ - 6️⃣ [Kinda chubby](http://9gag.com/gag/anzwL2q)
+ - 😝 [Love my country!](http://9gag.com/gag/avQwNob)
+ - 👉 [Good Or bad\u2026 and why?](http://9gag.com/gag/aOx5M8D)<!-- MEMES:END -->
 
 --- 
 
