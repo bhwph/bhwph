@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Space Marine 2 is delayed, and hoo boy it&#39;s a long one](https://www.pcgamer.com/warhammer-40000-space-marine-2-is-delayed-and-hoo-boy-its-a-long-one)
- - [PUBG is getting an extraction shooter spinoff next year](https://www.pcgamer.com/pubg-is-getting-an-extraction-shooter-spinoff-next-year)
- - [Hulu, Max, Peacock, and Paramount Plus subscriptions are cheaper for Black Friday](https://www.polygon.com/23969334/hulu-max-paramount-plus-streaming-black-friday-deal-sale-cyber-monday)<!-- GAME:END -->
+ - [Five things to know before watching Disney’s Wish](https://www.polygon.com/23972979/wish-post-credits-scene-disney-movie-animation-style-songs)
+ - [Kotaku&#39;s Best Gifts Of 2023 For Xbox Fans](https://kotaku.com/best-xbox-series-x-s-gift-ideas-starfield-halo-1851043551)
+ - [Squid Game: The Challenge isn’t even the best branded reality show this month](https://www.polygon.com/23972965/squid-game-challenge-reality-show-netflix-review-007-road-million)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
