@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And then there was 3](http://9gag.com/gag/aBd5722)
- - 😝 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)
- - 👉 [One hell of a drug](http://9gag.com/gag/aXn1562)<!-- MEMES:END -->
+ - 6️⃣ [Kinda chubby](http://9gag.com/gag/anzwL2q)
+ - 😝 [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
+ - 👉 [Laugh at 9gag meme go to hell.....](http://9gag.com/gag/a7qXQWb)<!-- MEMES:END -->
 
 --- 
 
