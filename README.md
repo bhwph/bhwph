@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can The Upcoming Zelda Movie Be Like This Ghibli-Style Ocarina Of Time Animation?](https://kotaku.com/zelda-ocarina-of-time-anniversary-ghibli-movie-1851042243)
- - [It&#39;s 2023 and my PC should be a better console](https://www.pcgamer.com/its-2023-and-my-pc-should-be-a-better-console)
- - [The holiday deal you didn&#39;t know you needed](https://www.pcgamer.com/the-holiday-deal-you-didnt-know-you-needed)<!-- GAME:END -->
+ - [Best Nintendo Switch games for grown-ups](https://www.polygon.com/what-to-play/23960695/best-nintendo-switch-games-for-adults)
+ - [Pokémon Go ‘Party Up’ event, Timed Research guide](https://www.polygon.com/pokemon-go-guide/2023/11/22/23972533/party-up-event-timed-research-field-tasks)
+ - [Bluey: The Videogame review](https://www.pcgamer.com/bluey-the-videogame-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
