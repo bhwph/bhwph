@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One `OOF` size large please](http://9gag.com/gag/aDY5EvN)
- - 😝 [Warning, this is gonna hurt](http://9gag.com/gag/aDY5yPN)
- - 👉 [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)<!-- MEMES:END -->
+ - 6️⃣ [Oof](http://9gag.com/gag/aL15y7v)
+ - 😝 [Love my country!](http://9gag.com/gag/avQwNob)
+ - 👉 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)<!-- MEMES:END -->
 
 --- 
 
