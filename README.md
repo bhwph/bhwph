@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US district judge dismisses most claims in a lawsuit by Sarah Silverman and other authors against Meta&#39;s use of copyrighted material to train Llama models &lpar;Winston Cho/Hollywood Reporter&rpar;](http://www.techmeme.com/231121/p46#a231121p46)
- - [14 Best Black Friday Sonos Deals &lpar;2023&rpar;: Soundbars, Subwoofers, Bluetooth Speakers](https://www.wired.com/story/best-black-friday-sonos-deals-2023/)
- - [Sources: fruitful negotiations between OpenAI&#39;s board and Sam Altman&#39;s side are taking place; Microsoft is being kept apprised and is likely to get board seats &lpar;Kara Swisher/@karaswisher&rpar;](http://www.techmeme.com/231121/p45#a231121p45)<!-- TECH:END -->
+ - [In a letter to Elon Musk, 27 US lawmakers, all Democrats, express concern that X seems to be profiting from anti-Israel propaganda via ads and subscriptions &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/231121/p52#a231121p52)
+ - [Paramount Plus Black Friday deal: save 67% on 3 months of service](https://appleinsider.com/articles/23/11/22/paramount-plus-black-friday-deal-save-67-on-3-months-of-service?utm_medium=rss)
+ - [Sources: before his ousting, Sam Altman made a move to push out board member Helen Toner because he thought a paper she had co-written was critical of OpenAI &lpar;New York Times&rpar;](http://www.techmeme.com/231121/p51#a231121p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
