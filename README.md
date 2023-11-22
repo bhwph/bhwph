@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia unveils a A$587M seven-year cyber resilience plan that includes cyber health checks for small businesses and mandatory reporting of ransomware attacks &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/231121/p56#a231121p56)
- - [ChatGPT back up after hours long outage, company to publish a ‘public postmortem’](https://www.androidauthority.com/chatgpt-outage-restored-3387833/)
- - [Get an M2 Max Mac Studio for just $1,795, plus 3 years of AppleCare for $139 with coupon](https://appleinsider.com/articles/23/11/22/get-an-m2-max-mac-studio-for-just-1795-plus-3-years-of-applecare-for-139-with-coupon?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI says that it has reached a deal in principle for Sam Altman to return as CEO, with a new board chaired by former Salesforce president Bret Taylor &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/231122/p5#a231122p5)
+ - [The US Department of Energy&#39;s Idaho National Laboratory confirms a data breach after &quot;SiegedSec&quot; hacktivists leaked stolen HR data on hacker forums and Telegram &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231122/p4#a231122p4)
+ - [Breaking: Sam Altman to return as CEO of OpenAI](https://www.theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
