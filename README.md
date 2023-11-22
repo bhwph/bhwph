@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Graphcore lays off most of its staff in China and discontinues sales in the country, citing US export rules; China made up 20% to 25% of Graphcore&#39;s business &lpar;Bloomberg&rpar;](http://www.techmeme.com/231122/p21#a231122p21)
- - [Pick up Apple&#39;s M1 MacBook Air for as low as $599.99 at Amazon-owned Woot](https://appleinsider.com/articles/23/11/22/pick-up-apples-m1-macbook-air-for-as-low-as-59999-at-amazon-owned-woot?utm_medium=rss)
- - [Mods Are Asleep. Quick, Everyone Release AI Products](https://www.wired.com/story/new-artificial-intelligence-products-openai-anthropic-stability-ai/)<!-- TECH:END -->
+ - [The Verge’s 2023 gaming and entertainment holiday gift guide](https://www.theverge.com/23959483/gaming-entertainment-gifts-ideas-2023-playstation-nintendo-xbox-tv-accessories)
+ - [Shop the best Black Friday iPhone 15 case deals](https://appleinsider.com/articles/23/11/22/shop-the-best-black-friday-iphone-15-case-deals?utm_medium=rss)
+ - [The Verge’s 2023 PC gift guide](https://www.theverge.com/23919557/holiday-gift-ideas-2023-pc-desktop-laptop-wfh-content-creator-tech-gadgets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
