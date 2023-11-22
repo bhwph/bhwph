@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Juicy Melons](http://9gag.com/gag/a9q09X6)
- - 😝 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
- - 👉 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)<!-- MEMES:END -->
+ - 6️⃣ [When safety officer is not around](http://9gag.com/gag/a9q03Wo)
+ - 😝 [Poland City of Zakopane](http://9gag.com/gag/aVb5GNy)
+ - 👉 [The little one lost his gun and shirt, but cowboy never even lost his hat.](http://9gag.com/gag/aREdxjG)<!-- MEMES:END -->
 
 --- 
 
