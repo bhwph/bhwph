@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [OpenAI co-founder makes spectacular return mere days after ousting, with the board that fired him mostly swept away](https://www.pcgamer.com/openai-co-founder-makes-spectacular-return-mere-days-after-ousting-with-the-board-that-fired-him-swept-away)
- - [Witcher author Andrzej Sapkowski says Netflix &#39;never listened&#39; to his ideas, and as for the games &#39;I have no time for this&#39;](https://www.pcgamer.com/witcher-author-andrzej-sapkowski-says-netflix-never-listened-to-his-ideas-and-as-for-the-games-i-have-no-time-for-this)
- - [Worldless: Making a Game That Won’t Allow You To Die](https://news.xbox.com/en-us/2023/11/22/worldless-design-death/)<!-- GAME:END -->
+ - [Mimimi&#39;s swan song is 2 same-day expansions for Shadow Gambit before the studio shuts its doors forever](https://www.pcgamer.com/mimimis-swan-song-is-2-same-day-expansions-for-shadow-gambit-before-the-studio-shuts-its-doors-forever)
+ - [Stardew Valley Expanded exceeded its creator’s wildest dreams](https://www.polygon.com/23962402/stardew-valley-expanded-mod-creator-backstory-nexus)
+ - [LG OLED Flex 42 review](https://www.pcgamer.com/lg-oled-flex-42-gaming-tv-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
