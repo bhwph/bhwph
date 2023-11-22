@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Grok and how it compares to ChatGPT?](https://www.androidauthority.com/what-is-grok-3385411/)
- - [This Mini Rechargeable Lantern Is My Perfect Camping Lighting Source. It&#39;s on Sale This Black Friday     - CNET](https://www.cnet.com/deals/this-mini-rechargeable-lantern-is-my-perfect-camping-lighting-source-its-on-sale-this-black-friday/#ftag=CAD590a51e)
- - [I Have a Drawerful of Expensive Knives. This Cheap Knife Is the One I Always Use     - CNET](https://www.cnet.com/deals/i-have-a-drawerful-of-expensive-knives-this-cheap-knife-is-the-one-i-always-use/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy A35 leaked renders indicate Samsung will continue with its boxy design](https://www.androidauthority.com/samsung-galaxy-a35-leaked-renders-3387985/)
+ - [Apple illegally denied benefits to union workers, says US labor board](https://appleinsider.com/articles/23/11/22/apple-illegally-denied-benefits-to-union-workers-says-us-labor-board?utm_medium=rss)
+ - [Sources: in 2019, Paul Graham flew from the UK to San Francisco to fire his prot&amp;eacute;g&amp;eacute; Sam Altman from YC, worried that Altman put his interests ahead of YC &lpar;Washington Post&rpar;](http://www.techmeme.com/231122/p14#a231122p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
