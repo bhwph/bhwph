@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
- - [Apple iPhone 15 problems and how to fix them](https://www.androidauthority.com/apple-iphone-15-problems-fixes-3387796/)
- - [Laptop-ready power banks are getting smaller and lighter, and this is my fav](https://www.androidauthority.com/laptop-ready-power-banks-3387390/)<!-- TECH:END -->
+ - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
+ - [Black Friday brings first huge savings on the Nothing Phone 2](https://www.androidauthority.com/black-friday-nothing-phone-2-3388012/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
