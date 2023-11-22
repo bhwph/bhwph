@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
  - 😝 [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
- - 👉 [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)<!-- MEMES:END -->
+ - 👉 [Love my country!](http://9gag.com/gag/avQwNob)<!-- MEMES:END -->
 
 --- 
 
