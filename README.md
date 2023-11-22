@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
- - 😝 [Love my country!](http://9gag.com/gag/avQwNob)
- - 👉 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)<!-- MEMES:END -->
+ - 6️⃣ [And then there was 3](http://9gag.com/gag/aBd5722)
+ - 😝 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)
+ - 👉 [One hell of a drug](http://9gag.com/gag/aXn1562)<!-- MEMES:END -->
 
 --- 
 
