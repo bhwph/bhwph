@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Classic](http://9gag.com/gag/a6qRmbm)
- - 😝 [This guy is a master at negotiation](http://9gag.com/gag/aQEj6M7)
- - 👉 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)<!-- MEMES:END -->
+ - 6️⃣ [Oof](http://9gag.com/gag/aL15y7v)
+ - 😝 [Who would have known?](http://9gag.com/gag/aA05nYR)
+ - 👉 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)<!-- MEMES:END -->
 
 --- 
 
