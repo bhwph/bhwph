@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who would have known?](http://9gag.com/gag/aA05nYR)
- - 😝 [Laugh at 9gag meme go to hell.....](http://9gag.com/gag/a7qXQWb)
- - 👉 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)<!-- MEMES:END -->
+ - 6️⃣ [Classic](http://9gag.com/gag/a6qRmbm)
+ - 😝 [This guy is a master at negotiation](http://9gag.com/gag/aQEj6M7)
+ - 👉 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)<!-- MEMES:END -->
 
 --- 
 
