@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: One UI 6 may not have screen burn-in protection](https://www.androidauthority.com/one-ui-6-burn-in-risk-3388111/)
- - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
- - [45 Best Apple Black Friday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-black-friday-deals-2023-1/)<!-- TECH:END -->
+ - [Best Black Friday Mattress Deals: Sleep Well Knowing You Saved Hundreds on a Brand New Mattress     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)
+ - [Arlo vs Ring: Which offers the best smart home security?](https://www.androidauthority.com/arlo-vs-ring-3388054/)
+ - [Best Black Friday TV Deals: Save Up to $800 on 85-Inch, OLED, and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
