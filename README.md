@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Intel executive VP and GM of Technology Development Ann Kelleher on the company&#39;s new Fab 34 in Ireland, upcoming nodes, Intel&#39;s roadmap, and more &lpar;Dr. Ian Cutress/More Than Moore&rpar;](http://www.techmeme.com/231123/p15#a231123p15)
- - [The 37 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [The best secret codes for Android phones](https://www.androidauthority.com/best-secret-codes-for-android-phones-3388361/)<!-- TECH:END -->
+ - [The Verge’s 2023 home tech holiday gift guide](https://www.theverge.com/23933231/smart-home-tech-gift-guide-2023-video-doorbells-plugs-robot-vacuums)
+ - [The Verge’s 2023 digital gift guide](https://www.theverge.com/23958480/digital-gift-ideas-2023-last-minute-subscriptions-unique-memberships-boxes)
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/23951136/gifts-under-100-best-cheap-tech-ideas-2023-budget)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
