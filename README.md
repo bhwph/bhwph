@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese social platforms like Weibo and Douyin require popular users to reveal their real names, forcing some influencers to either cull their followers or quit &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/231123/p4#a231123p4)
- - [OpenAI reportedly made a potentially scary AI breakthrough](https://www.androidauthority.com/openai-potentially-scary-ai-breakthrough-3388217/)
- - [Save Big on Clothing With Black Friday Deals From DSW, Boden and Others     - CNET](https://www.cnet.com/deals/save-big-on-clothing-with-black-friday-deals-from-dsw-boden-and-others/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US asks a court to reverse its decision to let Changpeng Zhao return to the UAE ahead of his February 2024 sentencing, citing his &quot;substantial&quot; flight risk &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/231123/p7#a231123p7)
+ - [It&#39;s Time to Log Off](https://www.wired.com/story/doomscrolling-bad-news-mental-health/)
+ - [What is Android System Intelligence, and why is it on your phone?](https://www.androidauthority.com/android-system-intelligence-3325187/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
