@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday Mattress Deals: Sleep Well Knowing You Saved Hundreds on a Brand New Mattress     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)
- - [Arlo vs Ring: Which offers the best smart home security?](https://www.androidauthority.com/arlo-vs-ring-3388054/)
- - [Best Black Friday TV Deals: Save Up to $800 on 85-Inch, OLED, and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: an OpenAI employee share sale valuing the company at $86B is back on track after Sam Altman&#39;s reinstatement and is expected to close in December &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/231122/p29#a231122p29)
+ - [How to Find Safe Eye Drops     - CNET](https://www.cnet.com/health/personal-care/how-to-find-safe-eye-drops/#ftag=CAD590a51e)
+ - [For Black Friday, Prusa Is Offering Free Shipping and Free Gifts With Every Mk4 and Mk3s 3D Printer Purchase     - CNET](https://www.cnet.com/deals/for-black-friday-prusa-is-offering-free-shipping-and-free-gifts-with-every-mk4-and-mk3s-3d-printer-purchase/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
