@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best iPad Black Friday deals deliver record low prices starting at $229](https://appleinsider.com/articles/23/11/23/best-ipad-black-friday-deals-deliver-record-low-prices-starting-at-229?utm_medium=rss)
- - [Klarna wins approval to offer credit and payment products in the UK, but not BNPL loans; temporary approval for UK operations post-Brexit expires in five weeks &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/231123/p12#a231123p12)
- - [The Galaxy S23 Ultra plunges almost $400 in Thanksgiving deal](https://www.androidauthority.com/galaxy-s23-ultra-deal-3388356/)<!-- TECH:END -->
+ - [B&amp;H Photo Black Friday Apple deals slash up to $2,900 off MacBook, iPad, desktop Mac devices](https://appleinsider.com/articles/23/11/23/bh-photo-black-friday-apple-deals-slash-up-to-2900-off-macbook-ipad-desktop-mac-devices?utm_medium=rss)
+ - [Pokémon is no longer just a game — it’s a lifestyle](https://www.theverge.com/23970890/pokemon-poketsume-transformation-games-brand)
+ - [The best Black Friday deals you can get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
