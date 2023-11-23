@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Japanese Convenience Store Sandwich](http://9gag.com/gag/aDYvREw)
- - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
- - 👉 [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)<!-- MEMES:END -->
+ - 6️⃣ [One hell of a drug](http://9gag.com/gag/aXn1562)
+ - 😝 [Oof](http://9gag.com/gag/aL15y7v)
+ - 👉 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)<!-- MEMES:END -->
 
 --- 
 
