@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy Book 3 line hits record low for Black Friday](https://www.androidauthority.com/samsung-galaxy-book-3-series-black-friday-2023-3386885/)
- - [Elevate your HomeKit smart home with futuristic tech at irresistible prices during the Aqara Black Friday sale](https://appleinsider.com/articles/23/11/23/elevate-your-homekit-smart-home-with-futuristic-tech-at-irresistible-prices-during-the-aqara-black-friday-sale?utm_medium=rss)
- - [Bose QuietComfort 45 hits all-time low price for Black Friday 2023](https://www.androidauthority.com/bose-black-friday-2023-deals-3388182/)<!-- TECH:END -->
+ - [A profile of Matthew Butterick, a lawyer leading cases against OpenAI, Meta, Stability AI, and others, alleging they broke the law when building their AI tools &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/231123/p3#a231123p3)
+ - [A US state gave out 133,000 Chromebooks to people for free](https://www.androidauthority.com/maryland-gives-out-free-chromebooks-3387995/)
+ - [Hard Drives, YouTube, and Murder: India’s Dark History of Digital Hate](https://www.wired.com/story/india-election-youtube-murder-dark-history-digital-hate/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
