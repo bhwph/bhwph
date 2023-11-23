@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US asks a court to reverse its decision to let Changpeng Zhao return to the UAE ahead of his February 2024 sentencing, citing his &quot;substantial&quot; flight risk &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/231123/p7#a231123p7)
- - [It&#39;s Time to Log Off](https://www.wired.com/story/doomscrolling-bad-news-mental-health/)
- - [What is Android System Intelligence, and why is it on your phone?](https://www.androidauthority.com/android-system-intelligence-3325187/)<!-- TECH:END -->
+ - [The Motorola Razr Plus is still the most fun foldable I’ve used](https://www.androidauthority.com/motorola-razr-plus-fun-3387633/)
+ - [Urbanista Malibu Review: Superb Solar, Average Audio](https://www.wired.com/review/review-urbanista-malibu-wireless-solar-speaker/)
+ - [Black Friday special lands you a 3-month Boost Mobile plan for just $15!](https://www.androidauthority.com/black-friday-boost-mobile-3388151/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
