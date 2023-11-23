@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H Photo Black Friday Apple deals slash up to $2,900 off MacBook, iPad, desktop Mac devices](https://appleinsider.com/articles/23/11/23/bh-photo-black-friday-apple-deals-slash-up-to-2900-off-macbook-ipad-desktop-mac-devices?utm_medium=rss)
- - [Pokémon is no longer just a game — it’s a lifestyle](https://www.theverge.com/23970890/pokemon-poketsume-transformation-games-brand)
- - [The best Black Friday deals you can get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)<!-- TECH:END -->
+ - [Q&amp;A with Intel executive VP and GM of Technology Development Ann Kelleher on the company&#39;s new Fab 34 in Ireland, upcoming nodes, Intel&#39;s roadmap, and more &lpar;Dr. Ian Cutress/More Than Moore&rpar;](http://www.techmeme.com/231123/p15#a231123p15)
+ - [The 37 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [The best secret codes for Android phones](https://www.androidauthority.com/best-secret-codes-for-android-phones-3388361/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
