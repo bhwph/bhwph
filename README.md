@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There is no break :&lpar;](http://9gag.com/gag/aGEQ9bZ)
- - 😝 [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)
- - 👉 [It will take 10-15 years but I\u2019m sure honey n kids will forgive daddy eventually.. just to good opportunity after the dentist](http://9gag.com/gag/aVb6O9y)<!-- MEMES:END -->
+ - 6️⃣ [She found out](http://9gag.com/gag/aPgq6WB)
+ - 😝 [Love](http://9gag.com/gag/avQj2LM)
+ - 👉 [There is no break :&lpar;](http://9gag.com/gag/aGEQ9bZ)<!-- MEMES:END -->
 
 --- 
 
