@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #887 for Thursday, November 23](https://www.pcgamer.com/wordle-today-answer-887-november-23)
- - [This year’s Macy’s Thanksgiving Day Parade balloons: Adam Sandler, Luffy, and a floating NFT](https://www.polygon.com/2023/11/22/23970838/thanksgiving-day-parade-how-watch-stream-time-2023-guide-balloons)
- - [Oppenheimer, Good Burger 2, Netflix’s Leo, and every new movie to watch this weekend](https://www.polygon.com/entertainment/2023/11/22/23969026/new-movies-oppenheimer-netflix-leo-good-burger-2-paramount-plus-streaming)<!-- GAME:END -->
+ - [Thanksgiving is Spider-Man’s holiday](https://www.polygon.com/23971196/spider-man-thanksgiving-connection-holiday)
+ - [Dave the Diver studio&#39;s zombie survival sim gets its pre-alpha playtest next week](https://www.pcgamer.com/dave-the-diver-studios-zombie-survival-sim-gets-its-pre-alpha-playtest-next-week)
+ - [Former GTA Developer Silenced By Rockstar For Sharing Fun Anecdotes](https://kotaku.com/gta-6-vice-city-rockstar-developer-blog-secrets-1851044987)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
