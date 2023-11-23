@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One hell of a drug](http://9gag.com/gag/aXn1562)
- - 😝 [Oof](http://9gag.com/gag/aL15y7v)
- - 👉 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)<!-- MEMES:END -->
+ - 6️⃣ [Who would have known?](http://9gag.com/gag/aA05nYR)
+ - 😝 [Laugh at 9gag meme go to hell.....](http://9gag.com/gag/a7qXQWb)
+ - 👉 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)<!-- MEMES:END -->
 
 --- 
 
