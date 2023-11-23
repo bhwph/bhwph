@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oof](http://9gag.com/gag/aL15y7v)
- - 😝 [Who would have known?](http://9gag.com/gag/aA05nYR)
- - 👉 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)<!-- MEMES:END -->
+ - 6️⃣ [How to pick out flooring](http://9gag.com/gag/a9qGbKL)
+ - 😝 [Noce Education system..lol](http://9gag.com/gag/aXnO0RV)
+ - 👉 [Brutal](http://9gag.com/gag/aWGXZK6)<!-- MEMES:END -->
 
 --- 
 
