@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says X will start showing preview headlines for links again, but does not provide details on the timeline or give an example of how the card will look &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231122/p31#a231122p31)
- - [Snap up keyboards, mice and computing essentials at Black Friday bargain prices](https://appleinsider.com/articles/23/11/23/snap-up-keyboards-mice-and-computing-essentials-at-black-friday-bargain-prices?utm_medium=rss)
- - [The UK plans to boost spending on computing power to develop AI by &amp;pound;500M over two years, bringing its total planned investment to more than &amp;pound;1.5B &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/231122/p30#a231122p30)<!-- TECH:END -->
+ - [Samsung’s Galaxy Book 3 line hits record low for Black Friday](https://www.androidauthority.com/samsung-galaxy-book-3-series-black-friday-2023-3386885/)
+ - [Elevate your HomeKit smart home with futuristic tech at irresistible prices during the Aqara Black Friday sale](https://appleinsider.com/articles/23/11/23/elevate-your-homekit-smart-home-with-futuristic-tech-at-irresistible-prices-during-the-aqara-black-friday-sale?utm_medium=rss)
+ - [Bose QuietComfort 45 hits all-time low price for Black Friday 2023](https://www.androidauthority.com/bose-black-friday-2023-deals-3388182/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
