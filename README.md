@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Motorola Razr Plus is still the most fun foldable I’ve used](https://www.androidauthority.com/motorola-razr-plus-fun-3387633/)
- - [Urbanista Malibu Review: Superb Solar, Average Audio](https://www.wired.com/review/review-urbanista-malibu-wireless-solar-speaker/)
- - [Black Friday special lands you a 3-month Boost Mobile plan for just $15!](https://www.androidauthority.com/black-friday-boost-mobile-3388151/)<!-- TECH:END -->
+ - [Best iPad Black Friday deals deliver record low prices starting at $229](https://appleinsider.com/articles/23/11/23/best-ipad-black-friday-deals-deliver-record-low-prices-starting-at-229?utm_medium=rss)
+ - [Klarna wins approval to offer credit and payment products in the UK, but not BNPL loans; temporary approval for UK operations post-Brexit expires in five weeks &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/231123/p12#a231123p12)
+ - [The Galaxy S23 Ultra plunges almost $400 in Thanksgiving deal](https://www.androidauthority.com/galaxy-s23-ultra-deal-3388356/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
