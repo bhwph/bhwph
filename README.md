@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals on Amazon devices](https://www.theverge.com/23963020/black-friday-2023-amazon-deals-cyber-monday)
- - [Best Black Friday headphone deals drop AirPods Pro 2 to $189, plus up to $130 off Bose &amp; Sony](https://appleinsider.com/articles/23/11/24/best-black-friday-headphone-deals-drop-airpods-pro-2-to-189-plus-up-to-130-off-bose-sony?utm_medium=rss)
- - [Filing: Nvidia says regulators in the EU and China requested information about its sale of GPUs and how it allocates their supply &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/231124/p8#a231124p8)<!-- TECH:END -->
+ - [59 Walmart Black Friday Deals &lpar;2023&rpar;: TVs, Soundbars](https://www.wired.com/story/best-walmart-black-friday-deals-2023-1/)
+ - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
+ - [The 29 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
