@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [There&#39;s still time to join the Fleet Battles in World of Warships: Legends](https://www.pcgamer.com/theres-still-time-to-join-the-fleet-battles-in-world-of-warships-legends)
  - [Wordle today: Hint and answer #888 for Friday, November 24](https://www.pcgamer.com/wordle-today-answer-888-november-24)
- - [PSA: You Shouldn&#39;t Cook Your Steam Deck](https://kotaku.com/valve-steam-deck-melted-pc-gaming-1851045461)
- - [Remember when Frozen helped solve the Dyaltov Pass incident?](https://www.polygon.com/entertainment/23971564/frozen-dyatlov-pass-incident-avalanche-technology-explorer-mysteries)<!-- GAME:END -->
+ - [PSA: You Shouldn&#39;t Cook Your Steam Deck](https://kotaku.com/valve-steam-deck-melted-pc-gaming-1851045461)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
