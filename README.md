@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H launches $1,749 M3 Pro MacBook Pro deal, plus more steep Apple discounts](https://appleinsider.com/articles/23/11/24/bh-launches-1749-m3-pro-macbook-pro-deal-plus-more-steep-apple-discounts?utm_medium=rss)
- - [The Galaxy Z Fold 5 is almost as cheap as the S23 Ultra for Black Friday](https://www.androidauthority.com/samsung-galaxy-z-fold-5-black-friday-deal-3388482/)
- - [B&amp;H Photo Black Friday Apple deals slash up to $2,900 off MacBook, iPad, desktop Mac devices](https://appleinsider.com/articles/23/11/23/bh-photo-black-friday-apple-deals-slash-up-to-2900-off-macbook-ipad-desktop-mac-devices?utm_medium=rss)<!-- TECH:END -->
+ - [PSA: Some of last year’s best phones are a steal for Black Friday](https://www.androidauthority.com/2022-phones-black-friday-deals-3388508/)
+ - [Bring home an Amazon Fire TV for as low as $109 this Black Friday](https://www.androidauthority.com/amazon-fire-tv-black-friday-2023-deals-3388542/)
+ - [50 Black Friday Apple discounts you won&#39;t want to miss](https://appleinsider.com/articles/23/11/24/50-black-friday-apple-discounts-you-wont-want-to-miss?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
