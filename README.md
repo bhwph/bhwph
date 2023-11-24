@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
- - [Best Lego sales for Black Friday, get big savings on giant sets](https://appleinsider.com/articles/23/11/24/best-lego-sales-for-black-friday-get-big-savings-on-giant-sets?utm_medium=rss)
- - [Go on a Psychedelic Journey of the Internet&#39;s Growth and Evolution](https://www.wired.com/story/ipv6-data-visualization/)<!-- TECH:END -->
+ - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
+ - [18 months later, I’m still using the Galaxy S22 Ultra as my daily phone](https://www.androidauthority.com/samsung-galaxy-s22-ultra-2023-3386151/)
+ - [Hallmark Channel Won the Streaming Wars](https://www.wired.com/hallmark-channel-countdown-to-christmas-streaming-wars/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
