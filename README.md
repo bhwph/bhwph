@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
- - [18 months later, I’m still using the Galaxy S22 Ultra as my daily phone](https://www.androidauthority.com/samsung-galaxy-s22-ultra-2023-3386151/)
- - [Hallmark Channel Won the Streaming Wars](https://www.wired.com/hallmark-channel-countdown-to-christmas-streaming-wars/)<!-- TECH:END -->
+ - [Best iPad Black Friday deals deliver record low prices starting at $229](https://appleinsider.com/articles/23/11/23/best-ipad-black-friday-deals-deliver-record-low-prices-starting-at-229?utm_medium=rss)
+ - [Kuxiu foldable magnetic wireless chargers review: excellent compact travel chargers](https://appleinsider.com/articles/23/11/24/kuxiu-foldable-magnetic-wireless-chargers-review-excellent-compact-travel-chargers?utm_medium=rss)
+ - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
