@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The World&#39;s Most Expensive Pikachu &lpar;Birthday&rpar; Card](https://kotaku.com/pokemon-center-pikachu-birthday-card-price-1851046420)
- - [&#39;A**holes&#39; swat GTA 5 actor&#39;s house during Thanksgiving livestream](https://www.pcgamer.com/aholes-swat-gta-5-actors-house-during-thanksgiving-livestream)
- - [Share of the Week: Marvel’s Spider-Man 2 – Villains](https://blog.playstation.com/2023/11/24/share-of-the-week-marvels-spider-man-2-villains/)<!-- GAME:END -->
+ - [There’s a Highlander tabletop RPG adventure, and it’s on sale for Black Friday](https://www.polygon.com/23974854/evil-genius-highlander-crow-total-recall-pacific-rim-d20-modern-deals-sale-black-friday-cyber-monday)
+ - [Suitable Flesh’s director explains the ludicrous kill scene he sat on for a decade](https://www.polygon.com/23962373/suitable-flesh-director-interview-behind-the-scenes-bts-backup-cam-kill-shot)
+ - [There&#39;s A New Shiny Charizard And It&#39;s Going To Cost Everything](https://kotaku.com/pokemon-tcg-shiny-charizard-paldean-fates-1851046497)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
