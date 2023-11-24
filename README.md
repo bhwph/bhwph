@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech entrepreneur Anthony Levandowski says he&#39;s rebooting his AI-focused church, Way of the Future, and that the congregation has &quot;a couple thousand people&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/231123/p20#a231123p20)
- - [TK Best Amazon Kindle Black Friday Deals &lpar;2023&rpar;](https://www.wired.com/story/best-black-friday-kindle-deals-2023/)
- - [It&#39;s Thanksgiving, but Walmart&#39;s Black Friday Sale Is Already Going Strong     - CNET](https://www.cnet.com/deals/walmart-black-friday-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [B&amp;H launches $1,749 M3 Pro MacBook Pro deal, plus more steep Apple discounts](https://appleinsider.com/articles/23/11/24/bh-launches-1749-m3-pro-macbook-pro-deal-plus-more-steep-apple-discounts?utm_medium=rss)
+ - [The Galaxy Z Fold 5 is almost as cheap as the S23 Ultra for Black Friday](https://www.androidauthority.com/samsung-galaxy-z-fold-5-black-friday-deal-3388482/)
+ - [B&amp;H Photo Black Friday Apple deals slash up to $2,900 off MacBook, iPad, desktop Mac devices](https://appleinsider.com/articles/23/11/23/bh-photo-black-friday-apple-deals-slash-up-to-2900-off-macbook-ipad-desktop-mac-devices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
