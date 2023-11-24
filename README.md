@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The biggest Black Friday deals have officially launched](https://www.polygon.com/23954379/black-friday-best-gaming-deals-games-tabletop-ssd)
- - [Super Mario Bros. Wonder includes a free year of Nintendo Switch Online](https://www.polygon.com/23974459/super-mario-bros-wonder-black-friday-nintendo-switch-online-deal-sale)
- - [Save 25% on Polygon’s merch store through Cyber Monday](https://www.polygon.com/23972689/polygon-merch-sale-t-shirts-hoodies-hats-mugs-black-friday-cyber-monday)<!-- GAME:END -->
+ - [Starfield player completes the main story by whacking every enemy to death with his gun, an ability some players didn&#39;t know was in the game at all](https://www.pcgamer.com/starfield-player-completes-the-main-story-by-whacking-every-enemy-to-death-with-his-gun-an-ability-some-players-didnt-know-was-in-the-game-at-all)
+ - [Get Call of Duty: Modern Warfare 3 for as low as $50 this Black Friday](https://www.polygon.com/2023/11/24/23974562/call-of-duty-modern-warfare-3-black-friday-cyber-monday-2023)
+ - [Black Friday is bustling with great board game deals on Amazon](https://www.polygon.com/23950645/black-friday-board-game-deals-sale-tabletop-cyber-monday)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
