@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s still time to join the Fleet Battles in World of Warships: Legends](https://www.pcgamer.com/theres-still-time-to-join-the-fleet-battles-in-world-of-warships-legends)
- - [Wordle today: Hint and answer #888 for Friday, November 24](https://www.pcgamer.com/wordle-today-answer-888-november-24)
- - [PSA: You Shouldn&#39;t Cook Your Steam Deck](https://kotaku.com/valve-steam-deck-melted-pc-gaming-1851045461)<!-- GAME:END -->
+ - [Score 2023’s best deals yet on gaming monitors](https://www.polygon.com/23952402/black-friday-gaming-monitor-deals-sale-pc-ps5-xbox)
+ - [Virtual and real-life medieval warfare clashed in Lords Mobile&#39;s latest event](https://www.pcgamer.com/virtual-and-real-life-medieval-warfare-clashed-in-lords-mobiles-latest-event)
+ - [Black Friday’s best deals on toys for the young and young at heart](https://www.polygon.com/23958981/black-friday-toy-deals-cyber-monday-lego-barbie-nerf-funko)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
