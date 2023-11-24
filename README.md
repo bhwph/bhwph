@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sadly, the evil CIA agents got the poor woman](http://9gag.com/gag/aPgqyeB)
- - 😝 [Killing a child just because you got flipped off is crazy tbh](http://9gag.com/gag/amAwD46)
- - 👉 [I&#39;m Asian and it scares me](http://9gag.com/gag/aDYvmzB)<!-- MEMES:END -->
+ - 6️⃣ [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
+ - 😝 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)
+ - 👉 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)<!-- MEMES:END -->
 
 --- 
 
