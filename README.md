@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield player completes the main story by whacking every enemy to death with his gun, an ability some players didn&#39;t know was in the game at all](https://www.pcgamer.com/starfield-player-completes-the-main-story-by-whacking-every-enemy-to-death-with-his-gun-an-ability-some-players-didnt-know-was-in-the-game-at-all)
- - [Get Call of Duty: Modern Warfare 3 for as low as $50 this Black Friday](https://www.polygon.com/2023/11/24/23974562/call-of-duty-modern-warfare-3-black-friday-cyber-monday-2023)
- - [Black Friday is bustling with great board game deals on Amazon](https://www.polygon.com/23950645/black-friday-board-game-deals-sale-tabletop-cyber-monday)<!-- GAME:END -->
+ - [The World&#39;s Most Expensive Pikachu &lpar;Birthday&rpar; Card](https://kotaku.com/pokemon-center-pikachu-birthday-card-price-1851046420)
+ - [&#39;A**holes&#39; swat GTA 5 actor&#39;s house during Thanksgiving livestream](https://www.pcgamer.com/aholes-swat-gta-5-actors-house-during-thanksgiving-livestream)
+ - [Share of the Week: Marvel’s Spider-Man 2 – Villains](https://blog.playstation.com/2023/11/24/share-of-the-week-marvels-spider-man-2-villains/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
