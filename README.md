@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Are you planning to buy something for Black Friday/Cyber Monday?](https://www.androidauthority.com/plan-buy-black-friday-cyber-monday-poll-3388613/)
- - [Sources: Nvidia told its Chinese customers it&#39;s delaying the launch of H20, its most powerful of three AI chips designed to comply with US&#39; ban, until Q1 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/231124/p1#a231124p1)
- - [54 Best Apple Black Friday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-black-friday-deals-2023-2/)<!-- TECH:END -->
+ - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
+ - [Best Lego sales for Black Friday, get big savings on giant sets](https://appleinsider.com/articles/23/11/24/best-lego-sales-for-black-friday-get-big-savings-on-giant-sets?utm_medium=rss)
+ - [Go on a Psychedelic Journey of the Internet&#39;s Growth and Evolution](https://www.wired.com/story/ipv6-data-visualization/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
