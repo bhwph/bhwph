@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Some of last year’s best phones are a steal for Black Friday](https://www.androidauthority.com/2022-phones-black-friday-deals-3388508/)
- - [Bring home an Amazon Fire TV for as low as $109 this Black Friday](https://www.androidauthority.com/amazon-fire-tv-black-friday-2023-deals-3388542/)
- - [50 Black Friday Apple discounts you won&#39;t want to miss](https://appleinsider.com/articles/23/11/24/50-black-friday-apple-discounts-you-wont-want-to-miss?utm_medium=rss)<!-- TECH:END -->
+ - [Poll: Are you planning to buy something for Black Friday/Cyber Monday?](https://www.androidauthority.com/plan-buy-black-friday-cyber-monday-poll-3388613/)
+ - [Sources: Nvidia told its Chinese customers it&#39;s delaying the launch of H20, its most powerful of three AI chips designed to comply with US&#39; ban, until Q1 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/231124/p1#a231124p1)
+ - [54 Best Apple Black Friday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-black-friday-deals-2023-2/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
