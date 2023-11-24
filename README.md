@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Score 2023’s best deals yet on gaming monitors](https://www.polygon.com/23952402/black-friday-gaming-monitor-deals-sale-pc-ps5-xbox)
- - [Virtual and real-life medieval warfare clashed in Lords Mobile&#39;s latest event](https://www.pcgamer.com/virtual-and-real-life-medieval-warfare-clashed-in-lords-mobiles-latest-event)
- - [Black Friday’s best deals on toys for the young and young at heart](https://www.polygon.com/23958981/black-friday-toy-deals-cyber-monday-lego-barbie-nerf-funko)<!-- GAME:END -->
+ - [The biggest Black Friday deals have officially launched](https://www.polygon.com/23954379/black-friday-best-gaming-deals-games-tabletop-ssd)
+ - [Super Mario Bros. Wonder includes a free year of Nintendo Switch Online](https://www.polygon.com/23974459/super-mario-bros-wonder-black-friday-nintendo-switch-online-deal-sale)
+ - [Save 25% on Polygon’s merch store through Cyber Monday](https://www.polygon.com/23972689/polygon-merch-sale-t-shirts-hoodies-hats-mugs-black-friday-cyber-monday)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
