@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
- - 😝 [Adventure](http://9gag.com/gag/aA09Y5d)
- - 👉 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)<!-- MEMES:END -->
+ - 6️⃣ [Navy seals box breathe 3x a day for 5 minutes to reduce stress levels exponentially](http://9gag.com/gag/axorGLp)
+ - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
+ - 👉 [Adventure](http://9gag.com/gag/aA09Y5d)<!-- MEMES:END -->
 
 --- 
 
