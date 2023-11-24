@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You CAN Do Pushups](http://9gag.com/gag/axorZYD)
- - 😝 [Sometimes, words hit harder than fists.](http://9gag.com/gag/a9qG7dW)
- - 👉 [A true legend](http://9gag.com/gag/aL1EP0M)<!-- MEMES:END -->
+ - 6️⃣ [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
+ - 😝 [Adventure](http://9gag.com/gag/aA09Y5d)
+ - 👉 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)<!-- MEMES:END -->
 
 --- 
 
