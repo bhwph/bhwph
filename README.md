@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Savage](http://9gag.com/gag/aZDYWoW)
- - 😝 [It will take 10-15 years but I\u2019m sure honey n kids will forgive daddy eventually.. just to good opportunity after the dentist](http://9gag.com/gag/aVb6O9y)
- - 👉 [A true legend](http://9gag.com/gag/aL1EP0M)<!-- MEMES:END -->
+ - 6️⃣ [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)
+ - 😝 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
+ - 👉 [Killing a child just because you got flipped off is crazy tbh](http://9gag.com/gag/amAwD46)<!-- MEMES:END -->
 
 --- 
 
