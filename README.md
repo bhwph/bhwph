@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
- - 😝 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)
- - 👉 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m Asian and it scares me](http://9gag.com/gag/aDYvmzB)
+ - 😝 [There is an outpouring of rage on the streets of Dublin, Ireland as the people demand action against mass immigration following a mass stabbing incident against children by an Algerian migrant.](http://9gag.com/gag/aBdeQBN)
+ - 👉 [Neither do Arabs and Africans. There I said it.](http://9gag.com/gag/ay2Kpo8)<!-- MEMES:END -->
 
 --- 
 
