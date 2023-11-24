@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best iPad Black Friday deals deliver record low prices starting at $229](https://appleinsider.com/articles/23/11/23/best-ipad-black-friday-deals-deliver-record-low-prices-starting-at-229?utm_medium=rss)
- - [Kuxiu foldable magnetic wireless chargers review: excellent compact travel chargers](https://appleinsider.com/articles/23/11/24/kuxiu-foldable-magnetic-wireless-chargers-review-excellent-compact-travel-chargers?utm_medium=rss)
- - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)<!-- TECH:END -->
+ - [The best Black Friday deals on Amazon devices](https://www.theverge.com/23963020/black-friday-2023-amazon-deals-cyber-monday)
+ - [Best Black Friday headphone deals drop AirPods Pro 2 to $189, plus up to $130 off Bose &amp; Sony](https://appleinsider.com/articles/23/11/24/best-black-friday-headphone-deals-drop-airpods-pro-2-to-189-plus-up-to-130-off-bose-sony?utm_medium=rss)
+ - [Filing: Nvidia says regulators in the EU and China requested information about its sale of GPUs and how it allocates their supply &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/231124/p8#a231124p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
