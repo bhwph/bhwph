@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m Asian and it scares me](http://9gag.com/gag/aDYvmzB)
- - 😝 [There is an outpouring of rage on the streets of Dublin, Ireland as the people demand action against mass immigration following a mass stabbing incident against children by an Algerian migrant.](http://9gag.com/gag/aBdeQBN)
- - 👉 [Neither do Arabs and Africans. There I said it.](http://9gag.com/gag/ay2Kpo8)<!-- MEMES:END -->
+ - 6️⃣ [You CAN Do Pushups](http://9gag.com/gag/axorZYD)
+ - 😝 [Sometimes, words hit harder than fists.](http://9gag.com/gag/a9qG7dW)
+ - 👉 [A true legend](http://9gag.com/gag/aL1EP0M)<!-- MEMES:END -->
 
 --- 
 
