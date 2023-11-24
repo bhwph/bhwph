@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2023 home tech holiday gift guide](https://www.theverge.com/23933231/smart-home-tech-gift-guide-2023-video-doorbells-plugs-robot-vacuums)
- - [The Verge’s 2023 digital gift guide](https://www.theverge.com/23958480/digital-gift-ideas-2023-last-minute-subscriptions-unique-memberships-boxes)
- - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/23951136/gifts-under-100-best-cheap-tech-ideas-2023-budget)<!-- TECH:END -->
+ - [US lawmakers scramble to enact measures to punish people targeting women with AI-generated nudes, amid a rise of such cases involving teen girls worldwide &lpar;NBC News&rpar;](http://www.techmeme.com/231123/p18#a231123p18)
+ - [Apple Black Friday Deals: Must-Grab Deals on AirPods, Apple Watch, iPad and Much More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)
+ - [Best Black Friday Robot Vacuum Deals: Score Savings Early on Roomba, Shark and Others     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-robot-vacuum-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
