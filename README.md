@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There’s a Highlander tabletop RPG adventure, and it’s on sale for Black Friday](https://www.polygon.com/23974854/evil-genius-highlander-crow-total-recall-pacific-rim-d20-modern-deals-sale-black-friday-cyber-monday)
- - [Suitable Flesh’s director explains the ludicrous kill scene he sat on for a decade](https://www.polygon.com/23962373/suitable-flesh-director-interview-behind-the-scenes-bts-backup-cam-kill-shot)
- - [There&#39;s A New Shiny Charizard And It&#39;s Going To Cost Everything](https://kotaku.com/pokemon-tcg-shiny-charizard-paldean-fates-1851046497)<!-- GAME:END -->
+ - [The best D&amp;D Black Friday deals include the best D&amp;D adventures](https://www.polygon.com/23954541/dnd-dungeons-dragons-black-friday-deals-sale-cyber-monday)
+ - [Scoop up these Magic: The Gathering deals in Amazon’s Black Friday sale](https://www.polygon.com/23962160/black-friday-mtg-magic-the-gathering-deals-sale-cyber-monday)
+ - [You’ll be surprised how many great gaming gifts cost well under $100](https://www.polygon.com/23958798/black-friday-gaming-game-deals-under-100-cyber-monday-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
