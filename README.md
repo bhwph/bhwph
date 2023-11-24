@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [59 Walmart Black Friday Deals &lpar;2023&rpar;: TVs, Soundbars](https://www.wired.com/story/best-walmart-black-friday-deals-2023-1/)
- - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
- - [The 29 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
+ - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
+ - [28 Home Depot Black Friday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-black-friday-deals-2023-1/)
+ - [These huge Beats Black Friday deals are music to our ears](https://www.androidauthority.com/beats-black-friday-deals-3388856/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
