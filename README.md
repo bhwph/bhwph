@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Saltburn is a ‘lick the rich, suck the rich’ movie, says Emerald Fennell](https://www.polygon.com/23973198/saltburn-interview-emerald-fennell-eat-the-rich-internet-fame)
  - [‘I don’t want to revisit myself at 25’: The story behind Netflix’s bold Scott Pilgrim anime](https://www.polygon.com/23972677/scott-pilgrim-takes-off-netflix-anime-bryan-lee-omalley-interview-why)
- - [Who says Black Friday has ended? These are our favorite deals you can still grab](https://www.pcgamer.com/who-says-black-friday-has-ended-these-are-our-favorite-deals-you-can-still-grab)
- - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of November 2023](https://www.polygon.com/what-to-watch/2023/11/25/23969163/best-movies-netflix-amazon-hulu-max-leaving-november-2023)<!-- GAME:END -->
+ - [Who says Black Friday has ended? These are our favorite deals you can still grab](https://www.pcgamer.com/who-says-black-friday-has-ended-these-are-our-favorite-deals-you-can-still-grab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
