@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week&#39;s Hottest Takes, From Scott Pilgrim To TLOU 2](https://kotaku.com/kotaku-opinion-scott-pilgrim-tlou-2-open-ai-1851046382)
- - [Wordle today: Hint and answer #889 for Saturday, November 25](https://www.pcgamer.com/wordle-today-answer-889-november-25)
- - [Black Friday is now so spread out, this year&#39;s deals feel like a complete non-event](https://www.pcgamer.com/black-friday-is-now-so-spread-out-this-years-deals-feel-like-a-complete-non-event)<!-- GAME:END -->
+ - [Who says Black Friday has ended? These are our favorite deals you can still grab](https://www.pcgamer.com/who-says-black-friday-has-ended-these-are-our-favorite-deals-you-can-still-grab)
+ - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of November 2023](https://www.polygon.com/what-to-watch/2023/11/25/23969163/best-movies-netflix-amazon-hulu-max-leaving-november-2023)
+ - [The Week&#39;s Best Gaming Stories, From Pokimane to Adults-Only N64](https://kotaku.com/video-game-news-pokimane-n64-destiny-mortal-kombat-1851046381)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
