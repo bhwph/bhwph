@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday 2023 deals you can still get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
- - [An investigation identifies four secret bitcoin mining facilities in Bhutan, built using $220M in chips imported from China between 2021 and 2022 &lpar;Forbes&rpar;](http://www.techmeme.com/231124/p14#a231124p14)
- - [22 Black Friday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-black-friday-kitchen-deals-2023-1/)<!-- TECH:END -->
+ - [Apple Black Friday Deals 2023](https://appleinsider.com/live/apple-black-friday-deals-2023)
+ - [Some of our favorite devices are on sale for Black Friday](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
+ - [Best Black Friday Mattress Deals: Score 44 Top Mattress Brands at Discount Pricing     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
