@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our Favorite Smart Bird Feeders Are on Sale For Black Friday](https://www.wired.com/story/smart-bird-feeder-black-friday-deals-2023/)
- - [Satya Nadella and Microsoft CTO Kevin Scott were instrumental to reinstating Sam Altman atop OpenAI, which a source says was the ideal outcome for Microsoft &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231125/p1#a231125p1)
- - [Best Buy Black Friday: 83 Top Deals Including KitchenAid, Sonos, Lego and More     - CNET](https://www.cnet.com/deals/best-buy-black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [94 Best Black Friday Tech Deals &lpar;2023&rpar;: Phones, Laptops](https://www.wired.com/story/best-black-friday-tech-deals-2023-1/)
+ - [AI development will likely move faster and be more dispersed and less controlled after a failed coup at OpenAI, accelerating what the coup was trying to prevent &lpar;Benedict Evans/Financial Times&rpar;](http://www.techmeme.com/231125/p2#a231125p2)
+ - [27 Best Black Friday Coffee Deals &lpar;2023&rpar;: Fellow Gear, Coffee Beans, Espresso Machines](https://www.wired.com/story/best-black-friday-coffee-deals-2023-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
