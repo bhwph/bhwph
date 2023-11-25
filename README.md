@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Black Friday Deals 2023](https://appleinsider.com/live/apple-black-friday-deals-2023)
- - [Some of our favorite devices are on sale for Black Friday](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
- - [Best Black Friday Mattress Deals: Score 44 Top Mattress Brands at Discount Pricing     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Our Favorite Smart Bird Feeders Are on Sale For Black Friday](https://www.wired.com/story/smart-bird-feeder-black-friday-deals-2023/)
+ - [Satya Nadella and Microsoft CTO Kevin Scott were instrumental to reinstating Sam Altman atop OpenAI, which a source says was the ideal outcome for Microsoft &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231125/p1#a231125p1)
+ - [Best Buy Black Friday: 83 Top Deals Including KitchenAid, Sonos, Lego and More     - CNET](https://www.cnet.com/deals/best-buy-black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
