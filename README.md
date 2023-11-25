@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [‘I don’t want to revisit myself at 25’: The story behind Netflix’s bold Scott Pilgrim anime](https://www.polygon.com/23972677/scott-pilgrim-takes-off-netflix-anime-bryan-lee-omalley-interview-why)
  - [Who says Black Friday has ended? These are our favorite deals you can still grab](https://www.pcgamer.com/who-says-black-friday-has-ended-these-are-our-favorite-deals-you-can-still-grab)
- - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of November 2023](https://www.polygon.com/what-to-watch/2023/11/25/23969163/best-movies-netflix-amazon-hulu-max-leaving-november-2023)
- - [The Week&#39;s Best Gaming Stories, From Pokimane to Adults-Only N64](https://kotaku.com/video-game-news-pokimane-n64-destiny-mortal-kombat-1851046381)<!-- GAME:END -->
+ - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of November 2023](https://www.polygon.com/what-to-watch/2023/11/25/23969163/best-movies-netflix-amazon-hulu-max-leaving-november-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
