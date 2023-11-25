@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dorm room Thanksgiving dinner](http://9gag.com/gag/aXnOwvD)
- - 😝 [Subnautica was my last true gaming love](http://9gag.com/gag/aL1E9RW)
- - 👉 [Some bro stuff](http://9gag.com/gag/a5XYZwL)<!-- MEMES:END -->
+ - 6️⃣ [Cops POV](http://9gag.com/gag/awZpVE8)
+ - 😝 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
+ - 👉 [Birthmark covers most her torso](http://9gag.com/gag/aKEMqxg)<!-- MEMES:END -->
 
 --- 
 
