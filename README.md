@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t Tell These 169 Black Friday Deals That It&#39;s Saturday](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
- - [Adobe: US online Black Friday sales hit $9.8B, up 7.5% YoY; Salesforce, which uses different metrics, says online sales hit $16.4B in the US and $70.9B globally &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231125/p7#a231125p7)
- - [82 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)<!-- TECH:END -->
+ - [Black Friday 2023 Live Blog: 169 Deals to Shop Right Now     - CNET](https://www.cnet.com/deals/black-friday-2023-live-ongoing/#ftag=CAD590a51e)
+ - [The 19 Best Black Friday Bluetooth Speaker Deals That Are Still Available     - CNET](https://www.cnet.com/deals/the-13-best-early-black-friday-deals-on-bluetooth-speakers/#ftag=CAD590a51e)
+ - [29 Best Black Friday Coffee Deals &lpar;2023&rpar;: Fellow Gear, Coffee Beans, Espresso Machines](https://www.wired.com/story/best-black-friday-coffee-deals-2023-2/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
