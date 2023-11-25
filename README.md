@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Navy seals box breathe 3x a day for 5 minutes to reduce stress levels exponentially](http://9gag.com/gag/axorGLp)
+ - 6️⃣ [People say girls sre dumb, but this one proves them wrong](http://9gag.com/gag/aOxWmz3)
  - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
- - 👉 [Adventure](http://9gag.com/gag/aA09Y5d)<!-- MEMES:END -->
+ - 👉 [Savage](http://9gag.com/gag/aZDYWoW)<!-- MEMES:END -->
 
 --- 
 
