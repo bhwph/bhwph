@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [37 Home Depot Black Friday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-black-friday-deals-2023-2/)
- - [These are my favorite Nothing OS 2.5 features](https://www.androidauthority.com/favorite-nothing-os-2-5-features-3388372/)
- - [Fan-favorite Adobe Creative Cloud 50% off deal is extended for Cyber Monday](https://appleinsider.com/articles/23/11/25/fan-favorite-adobe-creative-cloud-50-off-deal-is-extended-for-cyber-monday?utm_medium=rss)<!-- TECH:END -->
+ - [Don&#39;t Tell These 169 Black Friday Deals That It&#39;s Saturday](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
+ - [Adobe: US online Black Friday sales hit $9.8B, up 7.5% YoY; Salesforce, which uses different metrics, says online sales hit $16.4B in the US and $70.9B globally &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231125/p7#a231125p7)
+ - [82 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
