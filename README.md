@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It was my home, and it was beautiful](http://9gag.com/gag/aZDYxAz)
+ - 6️⃣ [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
  - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
- - 👉 [Should I be worried?](http://9gag.com/gag/amAZ0v2)<!-- MEMES:END -->
+ - 👉 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)<!-- MEMES:END -->
 
 --- 
 
