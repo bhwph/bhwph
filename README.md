@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Black Friday is now so spread out, this year&#39;s deals feel like a complete non-event](https://www.pcgamer.com/black-friday-is-now-so-spread-out-this-years-deals-feel-like-a-complete-non-event)
  - [Pokémon Go Mareep Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/23971189/mareep-community-day-classic-ampharos-shiny)
- - [Black Friday deals on the stuff behind the most popular Twitch streamers](https://www.pcgamer.com/black-friday-deals-on-the-stuff-behind-the-most-popular-twitch-streamers)
- - [The biggest Black Friday deals have officially launched](https://www.polygon.com/23954379/black-friday-best-gaming-deals-games-tabletop-ssd)<!-- GAME:END -->
+ - [Black Friday deals on the stuff behind the most popular Twitch streamers](https://www.pcgamer.com/black-friday-deals-on-the-stuff-behind-the-most-popular-twitch-streamers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
