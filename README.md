@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [75 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)
- - [Nicolas Cage on Memes, Myths, and Why He Thinks AI Is a ‘Nightmare’](https://www.wired.com/story/nicolas-cage-interview-artificial-intelligence-memes/)
- - [Best Small Business Saturday Shops &lpar;2023&rpar;: Here Are Our Favorite Local Stores](https://www.wired.com/story/small-business-saturday-favorite-businesses-2023/)<!-- TECH:END -->
+ - [The best Black Friday deals you can still grab for less than $50](https://www.theverge.com/23972578/black-friday-2023-tech-deals-under-50-cyber-monday)
+ - [How to Stop Google From Deleting Your Inactive Account](https://www.wired.com/story/how-to-stop-google-delete-account-inactive/)
+ - [Google’s Ad Blocker Crackdown Is Growing](https://www.wired.com/story/google-chrome-youtube-ad-blocker-crackdown/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
