@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Forget the Dark Urge: if you want to feel like a monster in Baldur&#39;s Gate 3, it has over an hour of different gut wrenching breakup conversations](https://www.pcgamer.com/forget-the-dark-urge-if-you-want-to-feel-like-a-monster-in-baldurs-gate-3-it-has-over-an-hour-of-different-gut-wrenching-breakup-conversations)
  - [Assassin&#39;s Creed players started having their games interrupted by full-screen pop-up ads, but Ubisoft says it was a &#39;technical error&#39; and quickly patched it](https://www.pcgamer.com/assassins-creed-players-started-having-their-games-interrupted-by-full-screen-pop-up-ads-but-ubisoft-says-it-was-a-technical-error-and-quickly-patched-it)
- - [Saltburn is a ‘lick the rich, suck the rich’ movie, says Emerald Fennell](https://www.polygon.com/23973198/saltburn-interview-emerald-fennell-eat-the-rich-internet-fame)
- - [‘I don’t want to revisit myself at 25’: The story behind Netflix’s bold Scott Pilgrim anime](https://www.polygon.com/23972677/scott-pilgrim-takes-off-netflix-anime-bryan-lee-omalley-interview-why)<!-- GAME:END -->
+ - [Saltburn is a ‘lick the rich, suck the rich’ movie, says Emerald Fennell](https://www.polygon.com/23973198/saltburn-interview-emerald-fennell-eat-the-rich-internet-fame)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
