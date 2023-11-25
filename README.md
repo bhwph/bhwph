@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals you can still grab for less than $50](https://www.theverge.com/23972578/black-friday-2023-tech-deals-under-50-cyber-monday)
- - [How to Stop Google From Deleting Your Inactive Account](https://www.wired.com/story/how-to-stop-google-delete-account-inactive/)
- - [Google’s Ad Blocker Crackdown Is Growing](https://www.wired.com/story/google-chrome-youtube-ad-blocker-crackdown/)<!-- TECH:END -->
+ - [Early Cyber Monday deals: 41% off M1 MacBook Pro, HomePod mini $79, iPad 10th Generation $349, more](https://appleinsider.com/articles/23/11/25/early-cyber-monday-deals-41-off-m1-macbook-pro-homepod-mini-79-ipad-10th-generation-349-more?utm_medium=rss)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-511-3388764/)
+ - [Google’s killer Black Friday sale includes the Pixel 8 for $549, and much more](https://www.androidauthority.com/google-black-friday-pixel-8-3385908/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
