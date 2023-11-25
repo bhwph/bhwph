@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Compound V not even once](http://9gag.com/gag/awZpbmQ)
- - 😝 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
- - 👉 [YouTube is now blocking Ad Blockers - So I just make ads run 16x faster](http://9gag.com/gag/aqeE2mj)<!-- MEMES:END -->
+ - 6️⃣ [People say girls sre dumb, but this one proves them wrong](http://9gag.com/gag/aOxWmz3)
+ - 😝 [YouTube is now blocking Ad Blockers - So I just make ads run 16x faster](http://9gag.com/gag/aqeE2mj)
+ - 👉 [LMAO](http://9gag.com/gag/aQEj8jr)<!-- MEMES:END -->
 
 --- 
 
