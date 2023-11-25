@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Man City vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [171 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
- - [Formula 1 Racing 2023: How to Watch and Livestream the Abu Dhabi GP     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-abu-dhabi-gp/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [75 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)
+ - [Nicolas Cage on Memes, Myths, and Why He Thinks AI Is a ‘Nightmare’](https://www.wired.com/story/nicolas-cage-interview-artificial-intelligence-memes/)
+ - [Best Small Business Saturday Shops &lpar;2023&rpar;: Here Are Our Favorite Local Stores](https://www.wired.com/story/small-business-saturday-favorite-businesses-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
