@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let&#39;s go bankrupt mouse](http://9gag.com/gag/a043YNB)
- - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
- - 👉 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)<!-- MEMES:END -->
+ - 6️⃣ [LMAO](http://9gag.com/gag/aQEj8jr)
+ - 😝 [Gordon gets beaten by convict](http://9gag.com/gag/aGEQ0VX)
+ - 👉 [Raise&#39;em Right](http://9gag.com/gag/aREpAm2)<!-- MEMES:END -->
 
 --- 
 
