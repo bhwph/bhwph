@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
- - 😝 [I do not know a sexier sport than volleyball](http://9gag.com/gag/ajV4nP8)
+ - 😝 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
  - 👉 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)<!-- MEMES:END -->
 
 --- 
