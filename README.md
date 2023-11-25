@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
- - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
- - 👉 [Nice](http://9gag.com/gag/avQjnLb)<!-- MEMES:END -->
+ - 6️⃣ [It was my home, and it was beautiful](http://9gag.com/gag/aZDYxAz)
+ - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
+ - 👉 [Should I be worried?](http://9gag.com/gag/amAZ0v2)<!-- MEMES:END -->
 
 --- 
 
