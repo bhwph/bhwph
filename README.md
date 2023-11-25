@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Cyber Monday deals: 41% off M1 MacBook Pro, HomePod mini $79, iPad 10th Generation $349, more](https://appleinsider.com/articles/23/11/25/early-cyber-monday-deals-41-off-m1-macbook-pro-homepod-mini-79-ipad-10th-generation-349-more?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-511-3388764/)
- - [Google’s killer Black Friday sale includes the Pixel 8 for $549, and much more](https://www.androidauthority.com/google-black-friday-pixel-8-3385908/)<!-- TECH:END -->
+ - [37 Home Depot Black Friday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-black-friday-deals-2023-2/)
+ - [These are my favorite Nothing OS 2.5 features](https://www.androidauthority.com/favorite-nothing-os-2-5-features-3388372/)
+ - [Fan-favorite Adobe Creative Cloud 50% off deal is extended for Cyber Monday](https://appleinsider.com/articles/23/11/25/fan-favorite-adobe-creative-cloud-50-off-deal-is-extended-for-cyber-monday?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
