@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best D&amp;D Black Friday deals include the best D&amp;D adventures](https://www.polygon.com/23954541/dnd-dungeons-dragons-black-friday-deals-sale-cyber-monday)
- - [Scoop up these Magic: The Gathering deals in Amazon’s Black Friday sale](https://www.polygon.com/23962160/black-friday-mtg-magic-the-gathering-deals-sale-cyber-monday)
- - [You’ll be surprised how many great gaming gifts cost well under $100](https://www.polygon.com/23958798/black-friday-gaming-game-deals-under-100-cyber-monday-2023)<!-- GAME:END -->
+ - [Pokémon Go Mareep Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/23971189/mareep-community-day-classic-ampharos-shiny)
+ - [Black Friday deals on the stuff behind the most popular Twitch streamers](https://www.pcgamer.com/black-friday-deals-on-the-stuff-behind-the-most-popular-twitch-streamers)
+ - [The biggest Black Friday deals have officially launched](https://www.polygon.com/23954379/black-friday-best-gaming-deals-games-tabletop-ssd)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
