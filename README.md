@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cops POV](http://9gag.com/gag/awZpVE8)
- - 😝 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
- - 👉 [Birthmark covers most her torso](http://9gag.com/gag/aKEMqxg)<!-- MEMES:END -->
+ - 6️⃣ [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
+ - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
+ - 👉 [Nice](http://9gag.com/gag/avQjnLb)<!-- MEMES:END -->
 
 --- 
 
