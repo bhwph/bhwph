@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [People say girls sre dumb, but this one proves them wrong](http://9gag.com/gag/aOxWmz3)
- - 😝 [YouTube is now blocking Ad Blockers - So I just make ads run 16x faster](http://9gag.com/gag/aqeE2mj)
- - 👉 [LMAO](http://9gag.com/gag/aQEj8jr)<!-- MEMES:END -->
+ - 6️⃣ [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
+ - 😝 [I do not know a sexier sport than volleyball](http://9gag.com/gag/ajV4nP8)
+ - 👉 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)<!-- MEMES:END -->
 
 --- 
 
