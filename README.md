@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [LMAO](http://9gag.com/gag/aQEj8jr)
- - 😝 [Gordon gets beaten by convict](http://9gag.com/gag/aGEQ0VX)
- - 👉 [Raise&#39;em Right](http://9gag.com/gag/aREpAm2)<!-- MEMES:END -->
+ - 6️⃣ [Dorm room Thanksgiving dinner](http://9gag.com/gag/aXnOwvD)
+ - 😝 [Subnautica was my last true gaming love](http://9gag.com/gag/aL1E9RW)
+ - 👉 [Some bro stuff](http://9gag.com/gag/a5XYZwL)<!-- MEMES:END -->
 
 --- 
 
