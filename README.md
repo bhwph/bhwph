@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How &#39;Baldur&#39;s Gate 3&#39; Became the Horniest Game of the Year](https://www.wired.com/story/baldurs-gate-3-horny-sex-speedruns-bug/)
- - [4 Tips to Spot Misinformation on the Web](https://www.wired.com/story/4-tips-spot-misinformation/)
- - [We Found 21 Early Cyber Monday Laptop Deals on Samsung, Lenovo, Apple, and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Private and Secure Web Search Engines: DuckDuckGo, Brave, Kagi, Startpage](https://www.wired.com/story/how-to-make-web-searches-secure-private/)
+ - [Save $200 on M2 13-inch MacBook Air in this B&amp;H Cyber Monday deal](https://appleinsider.com/articles/23/11/26/save-200-on-m2-13-inch-macbook-air-in-this-bh-cyber-monday-deal?utm_medium=rss)
+ - [Premier League Soccer Livestream: How to Watch Everton vs. Man United From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-everton-vs-man-united-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
