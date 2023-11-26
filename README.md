@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
- - 😝 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)
- - 👉 [Uh oh](http://9gag.com/gag/aBdewB1)<!-- MEMES:END -->
+ - 6️⃣ [\u201cIreland, we are at war\u201d](http://9gag.com/gag/ap9MQoM)
+ - 😝 [The reflection in the mirror is always the same size no matter what you do](http://9gag.com/gag/aeQBerm)
+ - 👉 [Just selling some oil](http://9gag.com/gag/a0435Dn)<!-- MEMES:END -->
 
 --- 
 
