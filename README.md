@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [When does Destiny 2: Season of the Wish release?](https://www.polygon.com/destiny-2-guide-walkthrough/2023/11/26/23969244/season-of-the-wish-release-time-date)
  - [Wordle today: Hint and answer #890 for Sunday, November 26](https://www.pcgamer.com/wordle-today-answer-890-november-26)
- - [Great moments in PC Gaming: Being 25 hours into Dave the Diver and still finding new stuff to do](https://www.pcgamer.com/great-moments-in-pc-gaming-being-25-hours-into-dave-the-diver-and-still-finding-new-stuff-to-do)
- - [No, Cult of the Lamb&#39;s next free expansion won&#39;t be &#39;the sex update&#39;](https://www.pcgamer.com/no-cult-of-the-lambs-next-free-expansion-wont-be-the-sex-update)<!-- GAME:END -->
+ - [Great moments in PC Gaming: Being 25 hours into Dave the Diver and still finding new stuff to do](https://www.pcgamer.com/great-moments-in-pc-gaming-being-25-hours-into-dave-the-diver-and-still-finding-new-stuff-to-do)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
