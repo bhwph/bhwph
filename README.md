@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Choose your fighter](http://9gag.com/gag/aL1E2QV)
- - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
- - 👉 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)<!-- MEMES:END -->
+ - 6️⃣ [Don&#39;t have word to express title.....](http://9gag.com/gag/aVb6q4d)
+ - 😝 [The reflection in the mirror is always the same size no matter what you do](http://9gag.com/gag/aeQBerm)
+ - 👉 [Geert Wilders, winner of the election in the Netherlands, on the Turks: \u201cYou are not Europeans and you never will be. An Islamic state like Turkey does not belong to Europe&#39;&#39;](http://9gag.com/gag/aXnOqRz)<!-- MEMES:END -->
 
 --- 
 
