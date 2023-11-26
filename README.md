@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [35 Best Black Friday Mattress Deals &lpar;2023&rpar;: Foam, Hybrid, and Sheets](https://www.wired.com/story/best-black-friday-mattress-deals-2023-2/)
- - [12 Best Black Friday Monitor Deals &lpar;2023&rpar;: Portable, Vertical, Desktop](https://www.wired.com/story/best-black-friday-monitor-deals-2023-1/)
- - [21 Best Black Friday Sex Toy Deals &lpar;2023&rpar;: Vibrators, Suction Toys, Lube](https://www.wired.com/story/best-black-friday-sex-toy-deals-2023-1/)<!-- TECH:END -->
+ - [How &#39;Baldur&#39;s Gate 3&#39; Became the Horniest Game of the Year](https://www.wired.com/story/baldurs-gate-3-horny-sex-speedruns-bug/)
+ - [4 Tips to Spot Misinformation on the Web](https://www.wired.com/story/4-tips-spot-misinformation/)
+ - [We Found 21 Early Cyber Monday Laptop Deals on Samsung, Lenovo, Apple, and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
