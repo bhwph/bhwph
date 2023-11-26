@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Dutch people have decided...](http://9gag.com/gag/a9qGpOD)
+ - 6️⃣ [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
  - 😝 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
- - 👉 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)<!-- MEMES:END -->
+ - 👉 [High school in the 1990s before social media](http://9gag.com/gag/a3ZOKjN)<!-- MEMES:END -->
 
 --- 
 
