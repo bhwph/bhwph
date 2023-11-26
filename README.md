@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
- - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
- - 👉 [The reflection in the mirror is always the same size no matter what you do](http://9gag.com/gag/aeQBerm)<!-- MEMES:END -->
+ - 6️⃣ [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
+ - 😝 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)
+ - 👉 [Uh oh](http://9gag.com/gag/aBdewB1)<!-- MEMES:END -->
 
 --- 
 
