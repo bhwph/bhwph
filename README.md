@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
  - 😝 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
- - 👉 [High school in the 1990s before social media](http://9gag.com/gag/a3ZOKjN)<!-- MEMES:END -->
+ - 👉 [Sit](http://9gag.com/gag/a0435nX)<!-- MEMES:END -->
 
 --- 
 
