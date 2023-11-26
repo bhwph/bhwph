@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Starfield mod lets you disable the dialogue camera](https://www.pcgamer.com/starfield-mod-lets-you-disable-the-dialogue-camera)
  - [Hunger Games’ director says Tom Blyth ‘caught me off guard’ as Coriolanus Snow](https://www.polygon.com/23971450/hunger-games-the-ballad-of-songbirds-and-snakes-casting-rachel-zegler-tom-blyth)
- - [You’ve seen Scott Pilgrim Takes Off, now watch these other great Science Saru anime](https://www.polygon.com/23961348/scott-pilgrim-takes-off-netflix-anime-studio-science-saru-shows-movies)
- - [When does Destiny 2: Season of the Wish release?](https://www.polygon.com/destiny-2-guide-walkthrough/2023/11/26/23969244/season-of-the-wish-release-time-date)<!-- GAME:END -->
+ - [You’ve seen Scott Pilgrim Takes Off, now watch these other great Science Saru anime](https://www.polygon.com/23961348/scott-pilgrim-takes-off-netflix-anime-studio-science-saru-shows-movies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
