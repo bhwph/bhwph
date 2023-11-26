@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Private and Secure Web Search Engines: DuckDuckGo, Brave, Kagi, Startpage](https://www.wired.com/story/how-to-make-web-searches-secure-private/)
- - [Save $200 on M2 13-inch MacBook Air in this B&amp;H Cyber Monday deal](https://appleinsider.com/articles/23/11/26/save-200-on-m2-13-inch-macbook-air-in-this-bh-cyber-monday-deal?utm_medium=rss)
- - [Premier League Soccer Livestream: How to Watch Everton vs. Man United From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-everton-vs-man-united-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Verge’s guide to Cyber Monday 2023](https://www.theverge.com/23939216/black-friday-guide-cyber-monday-tech-gadgets-2023)
+ - [Clock ticking on the standout Sony WH-1000XM5 Black Friday deal](https://www.androidauthority.com/sony-wh-1000xm5-black-friday-deal-3385075/)
+ - [The best early Cyber Monday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
