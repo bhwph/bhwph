@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget the Dark Urge: if you want to feel like a monster in Baldur&#39;s Gate 3, it has over an hour of different gut wrenching breakup conversations](https://www.pcgamer.com/forget-the-dark-urge-if-you-want-to-feel-like-a-monster-in-baldurs-gate-3-it-has-over-an-hour-of-different-gut-wrenching-breakup-conversations)
- - [Assassin&#39;s Creed players started having their games interrupted by full-screen pop-up ads, but Ubisoft says it was a &#39;technical error&#39; and quickly patched it](https://www.pcgamer.com/assassins-creed-players-started-having-their-games-interrupted-by-full-screen-pop-up-ads-but-ubisoft-says-it-was-a-technical-error-and-quickly-patched-it)
- - [Saltburn is a ‘lick the rich, suck the rich’ movie, says Emerald Fennell](https://www.polygon.com/23973198/saltburn-interview-emerald-fennell-eat-the-rich-internet-fame)<!-- GAME:END -->
+ - [Chief producer of the Yakuza series wasn&#39;t worried about going turn-based back in Yakuza: Like a Dragon, saying, &#39;we are confident that we can make an enjoyable game, even if it is in a genre we have never made before&#39;](https://www.pcgamer.com/chief-producer-of-the-yakuza-series-wasnt-worried-about-going-turn-based-back-in-yakuza-like-a-dragon-saying-we-are-confident-that-we-can-make-an-enjoyable-game-even-if-it-is-in-a-genre-we-have-never-made-before)
+ - [Make Resident Evil 4 Remake look like Silent Hill with these mods](https://www.pcgamer.com/make-resident-evil-4-remake-look-like-silent-hill-with-these-mods)
+ - [Forget the Dark Urge: if you want to feel like a monster in Baldur&#39;s Gate 3, it has over an hour of different gut wrenching breakup conversations](https://www.pcgamer.com/forget-the-dark-urge-if-you-want-to-feel-like-a-monster-in-baldurs-gate-3-it-has-over-an-hour-of-different-gut-wrenching-breakup-conversations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
