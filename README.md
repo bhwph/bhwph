@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s AirTags are still receiving a rare discount ahead of Cyber Monday](https://www.theverge.com/2023/11/21/23969948/apple-airtag-bluetooth-tracker-black-friday-deal-sale)
- - [The Garmin Black Friday sale slashes $250 off the Fenix 7S](https://www.androidauthority.com/garmin-black-friday-3384631/)
- - [The best early Cyber Monday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)<!-- TECH:END -->
+ - [A look at Shein&#39;s NYC pop-up store, which resembled its website and may have only reinforced Shein&#39;s image of being quick, cheap, and not quite as it seems &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/231126/p4#a231126p4)
+ - [Google Pixel Fold 2 wishlist: All the features I want to see](https://www.androidauthority.com/google-pixel-fold-2-3385460/)
+ - [Best Early Cyber Monday Soundbar Deals: Upgrade Your TV Setup With Sonos, Bose, LG and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-soundbar-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
