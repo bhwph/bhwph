@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H Cyber Monday Apple deals slash up to $2,900 off MacBook, iPad, desktop Mac devices](https://appleinsider.com/articles/23/11/23/bh-photo-black-friday-apple-deals-slash-up-to-2900-off-macbook-ipad-desktop-mac-devices?utm_medium=rss)
- - [30 Best Black Friday Camera Deals &lpar;2023&rpar;: GoPro, Canon, DJI](https://www.wired.com/story/best-black-friday-camera-deals-2023-1/)
- - [34 Home Depot Black Friday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-black-friday-deals-2023-2/)<!-- TECH:END -->
+ - [35 Best Black Friday Mattress Deals &lpar;2023&rpar;: Foam, Hybrid, and Sheets](https://www.wired.com/story/best-black-friday-mattress-deals-2023-2/)
+ - [12 Best Black Friday Monitor Deals &lpar;2023&rpar;: Portable, Vertical, Desktop](https://www.wired.com/story/best-black-friday-monitor-deals-2023-1/)
+ - [21 Best Black Friday Sex Toy Deals &lpar;2023&rpar;: Vibrators, Suction Toys, Lube](https://www.wired.com/story/best-black-friday-sex-toy-deals-2023-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
