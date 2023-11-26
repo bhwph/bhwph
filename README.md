@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A decade after launching as a free game on Xbox One, Killer Instinct is going free-to-play on PC](https://www.pcgamer.com/a-decade-after-launching-as-a-free-game-on-xbox-one-killer-instinct-is-going-free-to-play-on-pc)
- - [Our favorite 1440p 165Hz gaming monitor is $100 cheaper for Black Friday](https://www.pcgamer.com/our-favorite-1440p-165hz-gaming-monitor-is-at-its-lowest-price-ever-for-black-friday)
- - [Chief producer of the Yakuza series wasn&#39;t worried about going turn-based back in Yakuza: Like a Dragon, saying, &#39;we are confident that we can make an enjoyable game, even if it is in a genre we have never made before&#39;](https://www.pcgamer.com/chief-producer-of-the-yakuza-series-wasnt-worried-about-going-turn-based-back-in-yakuza-like-a-dragon-saying-we-are-confident-that-we-can-make-an-enjoyable-game-even-if-it-is-in-a-genre-we-have-never-made-before)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #890 for Sunday, November 26](https://www.pcgamer.com/wordle-today-answer-890-november-26)
+ - [Great moments in PC Gaming: Being 25 hours into Dave the Diver and still finding new stuff to do](https://www.pcgamer.com/great-moments-in-pc-gaming-being-25-hours-into-dave-the-diver-and-still-finding-new-stuff-to-do)
+ - [No, Cult of the Lamb&#39;s next free expansion won&#39;t be &#39;the sex update&#39;](https://www.pcgamer.com/no-cult-of-the-lambs-next-free-expansion-wont-be-the-sex-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
