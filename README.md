@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)
- - 😝 [Getting handie with those will be fire](http://9gag.com/gag/aDYvmyZ)
- - 👉 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)<!-- MEMES:END -->
+ - 6️⃣ [Choose your fighter](http://9gag.com/gag/aL1E2QV)
+ - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
+ - 👉 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)<!-- MEMES:END -->
 
 --- 
 
