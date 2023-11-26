@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cops POV](http://9gag.com/gag/awZpVE8)
- - 😝 [Geert Wilders, winner of the election in the Netherlands, on the Turks: \u201cYou are not Europeans and you never will be. An Islamic state like Turkey does not belong to Europe&#39;&#39;](http://9gag.com/gag/aXnOqRz)
- - 👉 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)
+ - 😝 [Getting handie with those will be fire](http://9gag.com/gag/aDYvmyZ)
+ - 👉 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)<!-- MEMES:END -->
 
 --- 
 
