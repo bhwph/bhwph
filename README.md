@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chief producer of the Yakuza series wasn&#39;t worried about going turn-based back in Yakuza: Like a Dragon, saying, &#39;we are confident that we can make an enjoyable game, even if it is in a genre we have never made before&#39;](https://www.pcgamer.com/chief-producer-of-the-yakuza-series-wasnt-worried-about-going-turn-based-back-in-yakuza-like-a-dragon-saying-we-are-confident-that-we-can-make-an-enjoyable-game-even-if-it-is-in-a-genre-we-have-never-made-before)
- - [Make Resident Evil 4 Remake look like Silent Hill with these mods](https://www.pcgamer.com/make-resident-evil-4-remake-look-like-silent-hill-with-these-mods)
- - [Forget the Dark Urge: if you want to feel like a monster in Baldur&#39;s Gate 3, it has over an hour of different gut wrenching breakup conversations](https://www.pcgamer.com/forget-the-dark-urge-if-you-want-to-feel-like-a-monster-in-baldurs-gate-3-it-has-over-an-hour-of-different-gut-wrenching-breakup-conversations)<!-- GAME:END -->
+ - [A decade after launching as a free game on Xbox One, Killer Instinct is going free-to-play on PC](https://www.pcgamer.com/a-decade-after-launching-as-a-free-game-on-xbox-one-killer-instinct-is-going-free-to-play-on-pc)
+ - [Our favorite 1440p 165Hz gaming monitor is $100 cheaper for Black Friday](https://www.pcgamer.com/our-favorite-1440p-165hz-gaming-monitor-is-at-its-lowest-price-ever-for-black-friday)
+ - [Chief producer of the Yakuza series wasn&#39;t worried about going turn-based back in Yakuza: Like a Dragon, saying, &#39;we are confident that we can make an enjoyable game, even if it is in a genre we have never made before&#39;](https://www.pcgamer.com/chief-producer-of-the-yakuza-series-wasnt-worried-about-going-turn-based-back-in-yakuza-like-a-dragon-saying-we-are-confident-that-we-can-make-an-enjoyable-game-even-if-it-is-in-a-genre-we-have-never-made-before)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
