@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u201cIreland, we are at war\u201d](http://9gag.com/gag/ap9MQoM)
- - 😝 [The reflection in the mirror is always the same size no matter what you do](http://9gag.com/gag/aeQBerm)
- - 👉 [Just selling some oil](http://9gag.com/gag/a0435Dn)<!-- MEMES:END -->
+ - 6️⃣ [Cops POV](http://9gag.com/gag/awZpVE8)
+ - 😝 [Geert Wilders, winner of the election in the Netherlands, on the Turks: \u201cYou are not Europeans and you never will be. An Islamic state like Turkey does not belong to Europe&#39;&#39;](http://9gag.com/gag/aXnOqRz)
+ - 👉 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)<!-- MEMES:END -->
 
 --- 
 
