@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday 2023 Live Blog: 169 Deals to Shop Right Now     - CNET](https://www.cnet.com/deals/black-friday-2023-live-ongoing/#ftag=CAD590a51e)
- - [The 19 Best Black Friday Bluetooth Speaker Deals That Are Still Available     - CNET](https://www.cnet.com/deals/the-13-best-early-black-friday-deals-on-bluetooth-speakers/#ftag=CAD590a51e)
- - [29 Best Black Friday Coffee Deals &lpar;2023&rpar;: Fellow Gear, Coffee Beans, Espresso Machines](https://www.wired.com/story/best-black-friday-coffee-deals-2023-2/)<!-- TECH:END -->
+ - [Black Friday continues: pick up an M1 MacBook Air for only $749.99](https://appleinsider.com/articles/23/11/26/black-friday-continues-pick-up-an-m1-macbook-air-for-only-74999?utm_medium=rss)
+ - [A Bitcoin user seems to have accidentally paid a record $3M fee for a $5M transaction and sent $2M; in September, Paxos paid $500K, now returned, to send $2,000 &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/231125/p10#a231125p10)
+ - [Don&#39;t Tell These 181 Black Friday Deals That It&#39;s Saturday](https://www.wired.com/story/absolute-best-black-friday-deals-5/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
