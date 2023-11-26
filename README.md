@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s guide to Cyber Monday 2023](https://www.theverge.com/23939216/black-friday-guide-cyber-monday-tech-gadgets-2023)
- - [Clock ticking on the standout Sony WH-1000XM5 Black Friday deal](https://www.androidauthority.com/sony-wh-1000xm5-black-friday-deal-3385075/)
- - [The best early Cyber Monday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)<!-- TECH:END -->
+ - [Apple’s AirTags are still receiving a rare discount ahead of Cyber Monday](https://www.theverge.com/2023/11/21/23969948/apple-airtag-bluetooth-tracker-black-friday-deal-sale)
+ - [The Garmin Black Friday sale slashes $250 off the Fenix 7S](https://www.androidauthority.com/garmin-black-friday-3384631/)
+ - [The best early Cyber Monday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
