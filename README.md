@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
- - 😝 [Stabbed in Prison](http://9gag.com/gag/a9qGYBo)
+ - 6️⃣ [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)
+ - 😝 [What do you think?](http://9gag.com/gag/aNwbd93)
  - 👉 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)<!-- MEMES:END -->
 
 --- 
