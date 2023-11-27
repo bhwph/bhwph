@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 12 launch date just changed without warning](https://www.androidauthority.com/oneplus-12-launch-date-3387146/)
- - [6 Best Amazon Kindle Cyber Monday Deals &lpar;2023&rpar;](https://www.wired.com/story/best-cyber-monday-kindle-deals-2023/)
- - [Verizon’s Visible wants you to save $10 on your phone bill forever with this deal](https://www.androidauthority.com/visible-deal-cyber-monday-2023-3388724/)<!-- TECH:END -->
+ - [Here are all the Cyber Monday deals for 2023](https://www.wired.com/live/cyber-monday-deals-2023/)
+ - [Nice: The low-end Galaxy A14 5G is now getting One UI 6](https://www.androidauthority.com/samsung-galaxy-a14-5g-stable-one-ui-6-3389145/)
+ - [An interview with AWS CEO Adam Selipsky, ahead of re:Invent, on the multifaceted impact of generative AI, the role of AI chips, the OpenAI fiasco, and more &lpar;John Furrier/SiliconANGLE&rpar;](http://www.techmeme.com/231127/p2#a231127p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
