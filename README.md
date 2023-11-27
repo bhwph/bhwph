@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m tracking all the best Cyber Monday SSD deals live right now, join me in my palace of storage dreams](https://www.pcgamer.com/live/news/cyber-monday-ssd-deals-live-now)
- - [The best thing I did this deals season was revive my old desktop with a cheap SSD](https://www.pcgamer.com/the-best-thing-i-did-this-deals-season-was-revive-my-old-desktop-with-a-cheap-ssd)
- - [Silent Hill 2 remake devs try to calm down fans, saying &lpar;for the second time&rpar; that it&#39;s on Konami to share anything: &#39;we kindly ask for a bit more patience&#39;](https://www.pcgamer.com/silent-hill-2-remake-devs-try-to-calm-down-fans-saying-for-the-second-time-that-its-on-konami-to-share-anything-we-kindly-ask-for-a-bit-more-patience)<!-- GAME:END -->
+ - [Scoop up these Magic: The Gathering deals in Amazon’s Cyber Monday sale](https://www.polygon.com/23962160/black-friday-mtg-magic-the-gathering-deals-sale-cyber-monday)
+ - [Hideki Kamiya breaks out the tiny violin for the 9 Bayonetta games he once imagined: &#39;I may have to take the full saga to the grave&#39;](https://www.pcgamer.com/hideki-kamiya-breaks-out-the-tiny-violin-for-the-9-bayonetta-games-he-once-imagined-i-may-have-to-take-the-full-saga-to-the-grave)
+ - [Spider-Man 2 Reportedly Cut A Ton Of Venom Content](https://kotaku.com/spider-man-2-miles-morales-venom-symbiote-cut-content-1851048904)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
