@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
- - 😝 [Europe by 2030.](http://9gag.com/gag/a1P6dmD)
- - 👉 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)<!-- MEMES:END -->
+ - 6️⃣ [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)
+ - 😝 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)
+ - 👉 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)<!-- MEMES:END -->
 
 --- 
 
