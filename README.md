@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 5 best tablet deals of Cyber Monday 2023](https://www.androidauthority.com/5-best-tablet-deals-cyber-monday-2023-3388185/)
- - [Samsung’s latest A-series phone brings an OLED display at just $139](https://www.androidauthority.com/samsung-galaxy-a15-5g-price-specs-features-availability-3389075/)
- - [Grab an M2 Mac mini for just $499 in a Cyber Monday price war](https://appleinsider.com/articles/23/11/24/grab-an-m2-mac-mini-for-just-499-in-a-black-friday-price-war?utm_medium=rss)<!-- TECH:END -->
+ - [The OnePlus 12 launch date just changed without warning](https://www.androidauthority.com/oneplus-12-launch-date-3387146/)
+ - [6 Best Amazon Kindle Cyber Monday Deals &lpar;2023&rpar;](https://www.wired.com/story/best-cyber-monday-kindle-deals-2023/)
+ - [Verizon’s Visible wants you to save $10 on your phone bill forever with this deal](https://www.androidauthority.com/visible-deal-cyber-monday-2023-3388724/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
