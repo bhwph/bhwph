@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 144 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)
- - [How Apple&#39;s 40 years of learning &amp; iteration is powering Vision Pro](https://appleinsider.com/articles/23/11/27/how-apples-40-years-of-learning-iteration-is-powering-vision-pro?utm_medium=rss)
- - [The best Cyber Monday phone deals](https://www.theverge.com/23971338/black-friday-2023-best-phone-deals-cyber-monday-apple-android)<!-- TECH:END -->
+ - [75+ Cyber Monday deals for Apple fans to save you up to $1,800](https://appleinsider.com/articles/23/11/27/75-cyber-monday-deals-for-apple-fans-to-save-you-up-to-1800?utm_medium=rss)
+ - [Tesla Is Suing Sweden](https://www.wired.com/story/tesla-sues-sweden-union-action/)
+ - [Start your New Year&#39;s fitness goals early with these discounts from Amazon](https://appleinsider.com/articles/23/11/27/start-your-new-years-fitness-goals-early-with-these-discounts-from-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
