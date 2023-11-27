@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best early Cyber Monday deals](https://www.theverge.com/23976342/cyber-monday-2023-best-early-deals-tech-speakers-gadgets)
- - [Amazon&#39;s Cyber Monday Apple deals drop prices to as low as $23.99](https://appleinsider.com/articles/23/11/26/amazons-cyber-monday-apple-deals-drop-prices-to-as-low-as-2399?utm_medium=rss)
- - [The second-generation Apple Pencil has dropped to a new all-time low](https://www.theverge.com/2023/11/26/23976752/apple-pencil-cyber-monday-deal-sale)<!-- TECH:END -->
+ - [The 29 Best Cyber Monday Nintendo Switch Deals You Can Snag Right Now     - CNET](https://www.cnet.com/deals/nintendo-switch-black-friday-cyber-monday-deals/#ftag=CAD590a51e)
+ - [Best Cyber Monday Deals Under $50: Save Big on Tech, Toys and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-50/#ftag=CAD590a51e)
+ - [The Best PS5 Cyber Monday Deals: Save Up to $200 on Consoles, Games and Accessories     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ps5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
