@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
- - 😝 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
- - 👉 [Don&#39;t push people to a point where they no longer care about the consequences.](http://9gag.com/gag/armLbnp)<!-- MEMES:END -->
+ - 6️⃣ [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
+ - 😝 [Europe by 2030.](http://9gag.com/gag/a1P6dmD)
+ - 👉 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)<!-- MEMES:END -->
 
 --- 
 
