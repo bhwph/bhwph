@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
- - 😝 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
- - 👉 [Sit](http://9gag.com/gag/a0435nX)<!-- MEMES:END -->
+ - 6️⃣ [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
+ - 😝 [Stabbed in Prison](http://9gag.com/gag/a9qGYBo)
+ - 👉 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)<!-- MEMES:END -->
 
 --- 
 
