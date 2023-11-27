@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)
- - 😝 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
- - 👉 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)<!-- MEMES:END -->
+ - 6️⃣ [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 😝 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
+ - 👉 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)<!-- MEMES:END -->
 
 --- 
 
