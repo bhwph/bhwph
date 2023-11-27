@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [36 Home Depot Cyber Monday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-cyber-monday-deals-2023/)
- - [32 Best Coffee Deals for Cyber Monday—Makers, Grinders, Mugs](https://www.wired.com/story/best-cyber-monday-coffee-deals-2023/)
- - [32 Cyber Monday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2023/)<!-- TECH:END -->
+ - [The 5 best tablet deals of Cyber Monday 2023](https://www.androidauthority.com/5-best-tablet-deals-cyber-monday-2023-3388185/)
+ - [Samsung’s latest A-series phone brings an OLED display at just $139](https://www.androidauthority.com/samsung-galaxy-a15-5g-price-specs-features-availability-3389075/)
+ - [Grab an M2 Mac mini for just $499 in a Cyber Monday price war](https://appleinsider.com/articles/23/11/24/grab-an-m2-mac-mini-for-just-499-in-a-black-friday-price-war?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
