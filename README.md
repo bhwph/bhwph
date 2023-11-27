@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scoop up these Magic: The Gathering deals in Amazon’s Cyber Monday sale](https://www.polygon.com/23962160/black-friday-mtg-magic-the-gathering-deals-sale-cyber-monday)
- - [Wordle today: Hint and answer #891 for Monday, November 27](https://www.pcgamer.com/wordle-today-answer-891-november-27)
- - [Pony-inspired fighting game Them&#39;s Fightin&#39; Herds abandons its unfinished story mode](https://www.pcgamer.com/pony-inspired-fighting-game-thems-fightin-herds-abandons-its-unfinished-story-mode)<!-- GAME:END -->
+ - [By the Emperor! Joytoy Warhammer 40K action figures are on sale for Cyber Monday](https://www.polygon.com/2023/11/24/23974597/black-friday-warhammer-40k-joytoy-action-figures-deal-sale)
+ - [There’s a Highlander tabletop RPG adventure, and it’s on sale for Cyber Monday](https://www.polygon.com/23974854/evil-genius-highlander-crow-total-recall-pacific-rim-d20-modern-deals-sale-black-friday-cyber-monday)
+ - [You’ll be surprised how many great gaming gifts cost well under $100](https://www.polygon.com/23958798/black-friday-gaming-game-deals-under-100-cyber-monday-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
