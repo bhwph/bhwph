@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2’s The Final Shape expansion delayed to summer 2024](https://www.polygon.com/23978086/destiny-2-final-shape-expansion-delay-release-date-content-update)
- - [The best Cyber Monday 2023 deals](https://www.polygon.com/23974596/cyber-monday-best-gaming-deals-games-tabletop-ssd)
- - [Kids Want Digital Currency And Subscriptions More Than New Games This Xmas](https://kotaku.com/video-game-esa-report-digital-currency-vbucks-christmas-1851049230)<!-- GAME:END -->
+ - [Audible is 60% off for Cyber Monday, and is a great way to load up on Warhammer books](https://www.polygon.com/23978135/audible-cyber-monday-deal-subscription-credits-warhammer-black-library)
+ - [Cyber Monday is bustling with great board game deals at Amazon and Target](https://www.polygon.com/23950645/black-friday-board-game-deals-sale-tabletop-cyber-monday)
+ - [Assassin&#39;s Creed: Syndicate, the one about murderous siblings in London during the Industrial Revolution, is free to keep from Ubisoft](https://www.pcgamer.com/assassins-creed-syndicate-the-one-about-murderous-siblings-in-london-during-the-industrial-revolution-is-free-to-keep-from-ubisoft)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
