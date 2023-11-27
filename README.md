@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Scoop up these Magic: The Gathering deals in Amazon’s Cyber Monday sale](https://www.polygon.com/23962160/black-friday-mtg-magic-the-gathering-deals-sale-cyber-monday)
  - [Wordle today: Hint and answer #891 for Monday, November 27](https://www.pcgamer.com/wordle-today-answer-891-november-27)
- - [Pony-inspired fighting game Them&#39;s Fightin&#39; Herds abandons its unfinished story mode](https://www.pcgamer.com/pony-inspired-fighting-game-thems-fightin-herds-abandons-its-unfinished-story-mode)
- - [Starfield mod lets you disable the dialogue camera](https://www.pcgamer.com/starfield-mod-lets-you-disable-the-dialogue-camera)<!-- GAME:END -->
+ - [Pony-inspired fighting game Them&#39;s Fightin&#39; Herds abandons its unfinished story mode](https://www.pcgamer.com/pony-inspired-fighting-game-thems-fightin-herds-abandons-its-unfinished-story-mode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
