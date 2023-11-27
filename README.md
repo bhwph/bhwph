@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
+ - 6️⃣ [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
  - 😝 [Stabbed in Prison](http://9gag.com/gag/a9qGYBo)
  - 👉 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)<!-- MEMES:END -->
 
