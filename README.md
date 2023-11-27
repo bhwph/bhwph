@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)
- - 😝 [Sit](http://9gag.com/gag/a0435nX)
- - 👉 [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)<!-- MEMES:END -->
+ - 6️⃣ [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
+ - 😝 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)
+ - 👉 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)<!-- MEMES:END -->
 
 --- 
 
