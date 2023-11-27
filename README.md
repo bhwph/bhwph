@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scoop up these Magic: The Gathering deals in Amazon’s Cyber Monday sale](https://www.polygon.com/23962160/black-friday-mtg-magic-the-gathering-deals-sale-cyber-monday)
- - [Hideki Kamiya breaks out the tiny violin for the 9 Bayonetta games he once imagined: &#39;I may have to take the full saga to the grave&#39;](https://www.pcgamer.com/hideki-kamiya-breaks-out-the-tiny-violin-for-the-9-bayonetta-games-he-once-imagined-i-may-have-to-take-the-full-saga-to-the-grave)
- - [Spider-Man 2 Reportedly Cut A Ton Of Venom Content](https://kotaku.com/spider-man-2-miles-morales-venom-symbiote-cut-content-1851048904)<!-- GAME:END -->
+ - [Destiny 2’s The Final Shape expansion delayed to summer 2024](https://www.polygon.com/23978086/destiny-2-final-shape-expansion-delay-release-date-content-update)
+ - [The best Cyber Monday 2023 deals](https://www.polygon.com/23974596/cyber-monday-best-gaming-deals-games-tabletop-ssd)
+ - [Kids Want Digital Currency And Subscriptions More Than New Games This Xmas](https://kotaku.com/video-game-esa-report-digital-currency-vbucks-christmas-1851049230)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
