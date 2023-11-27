@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)
- - 😝 [What do you think?](http://9gag.com/gag/aNwbd93)
- - 👉 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)<!-- MEMES:END -->
+ - 6️⃣ [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
+ - 😝 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
+ - 👉 [Don&#39;t push people to a point where they no longer care about the consequences.](http://9gag.com/gag/armLbnp)<!-- MEMES:END -->
 
 --- 
 
