@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best AI tools for music production](https://www.androidauthority.com/best-ai-tools-for-music-production-3389255/)
- - [B&amp;H unveils steeper Cyber Monday Apple discounts, prices from $479](https://appleinsider.com/articles/23/11/27/bh-unveils-steeper-cyber-monday-apple-discounts-prices-from-479?utm_medium=rss)
- - [20 Best Cyber Monday Deals on the Apple Watch and Fitness Trackers](https://www.wired.com/story/best-cyber-monday-smartwatch-fitness-tracker-deals-2023/)<!-- TECH:END -->
+ - [The best Cyber Monday deals for some of The Verge staff’s favorite stuff](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
+ - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
+ - [These 15 Amazon Deals on WIRED-Tested Gear Have Never Been Cheaper](https://www.wired.com/story/best-cyber-monday-amazon-deals-lowest-price-ever/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
