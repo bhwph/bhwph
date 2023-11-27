@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)
- - 😝 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)
- - 👉 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)<!-- MEMES:END -->
+ - 6️⃣ [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)
+ - 😝 [Sit](http://9gag.com/gag/a0435nX)
+ - 👉 [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)<!-- MEMES:END -->
 
 --- 
 
