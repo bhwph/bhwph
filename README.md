@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live From Cyberspace: Killer Cyber Monday Deals](https://www.wired.com/live/cyber-monday-deals-2023/)
- - [Experts say Tron has overtaken bitcoin as the go-to funding method for Israel-designated terror groups; Israel froze 143 Tron wallets between 2021 and 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231127/p7#a231127p7)
- - [Get up to 50% off these Thunderbolt docks for Cyber Monday](https://appleinsider.com/articles/23/11/21/save-up-to-50-on-these-black-friday-deals-on-thunderbolt-docks?utm_medium=rss)<!-- TECH:END -->
+ - [75 Cyber Monday deals for Apple fans to save you up to $1,800](https://appleinsider.com/articles/23/11/27/75-cyber-monday-deals-for-apple-fans-to-save-you-up-to-1800?utm_medium=rss)
+ - [How Do You Hide Secret Codes In Diamonds? Space Lasers!](https://www.wired.com/story/opsydia-hide-secret-codes-in-diamonds-space-lasers/)
+ - [Dust Is So Much More Than You Realize](https://www.wired.com/story/dust-is-so-much-more-than-you-realize/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
