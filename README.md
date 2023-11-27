@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are all the Cyber Monday deals for 2023](https://www.wired.com/live/cyber-monday-deals-2023/)
- - [Nice: The low-end Galaxy A14 5G is now getting One UI 6](https://www.androidauthority.com/samsung-galaxy-a14-5g-stable-one-ui-6-3389145/)
- - [An interview with AWS CEO Adam Selipsky, ahead of re:Invent, on the multifaceted impact of generative AI, the role of AI chips, the OpenAI fiasco, and more &lpar;John Furrier/SiliconANGLE&rpar;](http://www.techmeme.com/231127/p2#a231127p2)<!-- TECH:END -->
+ - [Live From Cyberspace: Killer Cyber Monday Deals](https://www.wired.com/live/cyber-monday-deals-2023/)
+ - [Experts say Tron has overtaken bitcoin as the go-to funding method for Israel-designated terror groups; Israel froze 143 Tron wallets between 2021 and 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231127/p7#a231127p7)
+ - [Get up to 50% off these Thunderbolt docks for Cyber Monday](https://appleinsider.com/articles/23/11/21/save-up-to-50-on-these-black-friday-deals-on-thunderbolt-docks?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
