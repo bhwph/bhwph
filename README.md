@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Cyber Monday deals for some of The Verge staff’s favorite stuff](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
- - [These 15 Amazon Deals on WIRED-Tested Gear Have Never Been Cheaper](https://www.wired.com/story/best-cyber-monday-amazon-deals-lowest-price-ever/)<!-- TECH:END -->
+ - [The Hottest Cyber Monday Sex Toy Deals](https://www.wired.com/story/best-cyber-monday-sex-toy-deals-2023/)
+ - [How OpenAI&#39;s leadership chaos points to lingering governance issues and could affect its business prospects as it moves forward fundraising at an $86B valuation &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/231127/p30#a231127p30)
+ - [Best Cyber Monday robot vacuum deals](https://www.theverge.com/2023/11/24/23971647/black-friday-2023-robot-vacuum-deals-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
