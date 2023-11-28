@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All these time??!](http://9gag.com/gag/aZDY7DW)
- - 😝 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
+ - 6️⃣ [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)
+ - 😝 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
  - 👉 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)<!-- MEMES:END -->
 
 --- 
