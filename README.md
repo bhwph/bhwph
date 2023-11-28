@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sketchy report says 400,000 Apple Vision Pro units to ship initially, 10 million by 2026](https://appleinsider.com/articles/23/11/28/sketchy-report-says-400000-apple-vision-pro-units-to-ship-initially-10-million-by-2026?utm_medium=rss)
- - [The best Cyber Monday deals you can still grab before midnight](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
- - [Mozaic, whose API helps creators split and automate payments with collaborators, raised a $20M Series A from Volition Capital, taking its total funding to $27M+ &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231127/p33#a231127p33)<!-- TECH:END -->
+ - [Omdia: Meta and Microsoft are expected to have received 150K Nvidia H100 GPUs each by the end of 2023, three times as many as Google, Amazon, or Oracle &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/231127/p36#a231127p36)
+ - [The 163 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)
+ - [AWS announces AI foundation model enhancements to its automated speech recognition service Transcribe, now supporting 100+ languages, and to Personalize and Lex &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231127/p35#a231127p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
