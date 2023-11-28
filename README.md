@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus confirms wireless charging for OnePlus 12](https://www.androidauthority.com/oneplus-12-wireless-charging-confirmed-3389458/)
- - [Q&amp;A with Jeff Dean, chief scientist of Google DeepMind and Google Research, on Bard&#39;s launch, Gemini LLM, DeepMind-Brain merger, AI misinformation, and more &lpar;Samidha Sharma/The Economic Times&rpar;](http://www.techmeme.com/231128/p7#a231128p7)
- - [A Damning Report Claims a Major Gig Economy Union Had a Culture of Abuse and Toxicity](https://www.wired.com/story/adcu-gig-economy-union-toxic-report/)<!-- TECH:END -->
+ - [Europol, the US, Ukraine, and other countries arrest members of a ransomware group in Ukraine linked to attacks on organizations in 71 countries &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231128/p9#a231128p9)
+ - [We really dig&lpar;lett&rpar; Samsung’s Poke Ball cases, now available in more regions](https://www.androidauthority.com/samsung-galaxy-buds-poke-ball-cases-europe-3389474/)
+ - [Worried About Privacy on Your iPhone? The Truth About NameDrop on iOS 17     - CNET](https://www.cnet.com/tech/mobile/worried-about-privacy-on-your-iphone-the-truth-about-namedrop-on-ios-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
