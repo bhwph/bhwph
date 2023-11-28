@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That poor child and man](http://9gag.com/gag/aYV0ovN)
- - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 👉 [All these time??!](http://9gag.com/gag/aZDY7DW)<!-- MEMES:END -->
+ - 6️⃣ [Exhales suicidely](http://9gag.com/gag/a5XY1ZE)
+ - 😝 [I guess that means I am black.](http://9gag.com/gag/ay2Ke6M)
+ - 👉 [Raising Sons Right](http://9gag.com/gag/aDYv41N)<!-- MEMES:END -->
 
 --- 
 
