@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
- - 😝 [All these time??!](http://9gag.com/gag/aZDY7DW)
- - 👉 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)<!-- MEMES:END -->
+ - 6️⃣ [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 😝 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)
+ - 👉 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)<!-- MEMES:END -->
 
 --- 
 
