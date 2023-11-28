@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Surprise: Lionsgate is reportedly working on a Naruto movie](https://www.polygon.com/23979396/naruto-movie-lionsgate)
- - [Scott Pilgrim Anime Ending Isn&#39;t the Season 2 Tease You Think](https://kotaku.com/scott-pilgrim-netflix-anime-post-credits-gideon-julie-1851053160)
- - [John Woo on returning to Hollywood at 77 and trying ‘to do it a bit different’](https://www.polygon.com/23972576/john-woo-silent-night-movie-interview-hollywood-return)<!-- GAME:END -->
+ - [Self-hosted media app starts narcing on its own users&#39; anime and X-rated habits with an opt-out service, and it&#39;s going terribly](https://www.pcgamer.com/self-hosted-media-app-starts-narcing-on-its-own-users-anime-and-x-rated-habits-with-an-opt-out-service-and-its-going-terribly)
+ - [Fallout TV series first look: it&#39;s &#39;dramatic and dark&#39; but with &#39;a little bit of a wink,&#39; says Todd Howard](https://www.pcgamer.com/fallout-tv-series-first-look-its-dramatic-and-dark-but-with-a-little-bit-of-a-wink-says-todd-howard)
+ - [The Witcher 3&#39;s Most Famous Meme Is Now In Destiny 2](https://kotaku.com/destiny-2-witcher-3-geralt-armor-price-1851054771)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
