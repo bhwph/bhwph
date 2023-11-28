@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
- - 😝 [I choose you](http://9gag.com/gag/agoeAvg)
- - 👉 [I will just leave this here](http://9gag.com/gag/a5XYW0G)<!-- MEMES:END -->
+ - 6️⃣ [That poor child and man](http://9gag.com/gag/aYV0ovN)
+ - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 👉 [All these time??!](http://9gag.com/gag/aZDY7DW)<!-- MEMES:END -->
 
 --- 
 
