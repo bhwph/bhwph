@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All these time??!](http://9gag.com/gag/aZDY7DW)
- - 😝 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)
- - 👉 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)<!-- MEMES:END -->
+ - 6️⃣ [That poor child and man](http://9gag.com/gag/aYV0ovN)
+ - 😝 [Share your cursed](http://9gag.com/gag/aREp74j)
+ - 👉 [I swear I&#39;m normal](http://9gag.com/gag/armLnpX)<!-- MEMES:END -->
 
 --- 
 
