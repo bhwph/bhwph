@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Omdia: Meta and Microsoft are expected to have received 150K Nvidia H100 GPUs each by the end of 2023, three times as many as Google, Amazon, or Oracle &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/231127/p36#a231127p36)
- - [The 163 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)
- - [AWS announces AI foundation model enhancements to its automated speech recognition service Transcribe, now supporting 100+ languages, and to Personalize and Lex &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231127/p35#a231127p35)<!-- TECH:END -->
+ - [Amazon launches Amazon One Enterprise in preview, allowing US businesses use its palm-scanning tech as an authentication tool to let employees into the office &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231128/p4#a231128p4)
+ - [86 Best Cyber Monday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/cyber-monday-outdoor-deals-rei-2023/)
+ - [38 Cyber Monday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
