@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s an entire Remnant 2 build dedicated to belly flopping your enemies so hard, they get drowned in acid and bleed to death](https://www.pcgamer.com/theres-an-entire-remnant-2-build-dedicated-to-belly-flopping-your-enemies-so-hard-they-get-drowned-in-acid-and-bleed-to-death)
- - [When the makers of Pokémon Go and Sleep No More tried to reinvent theater](https://www.polygon.com/23939497/niantic-punchdrunk-canceled-game-hamlet)
- - [With Sam Bankman-Fried in the slammer, now the fugitive crypto &#39;Lunatic&#39; behind 2022&#39;s $40B crash is being extradited from his Montenegrin getaway](https://www.pcgamer.com/with-sam-bankman-fried-in-the-slammer-now-the-fugitive-crypto-lunatic-behind-2022s-dollar40b-crash-is-being-extradited-from-his-montenegrin-getaway)<!-- GAME:END -->
+ - [Surprise: Lionsgate is reportedly working on a Naruto movie](https://www.polygon.com/23979396/naruto-movie-lionsgate)
+ - [Scott Pilgrim Anime Ending Isn&#39;t the Season 2 Tease You Think](https://kotaku.com/scott-pilgrim-netflix-anime-post-credits-gideon-julie-1851053160)
+ - [John Woo on returning to Hollywood at 77 and trying ‘to do it a bit different’](https://www.polygon.com/23972576/john-woo-silent-night-movie-interview-hollywood-return)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
