@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Exhales suicidely](http://9gag.com/gag/a5XY1ZE)
- - 😝 [I guess that means I am black.](http://9gag.com/gag/ay2Ke6M)
- - 👉 [Raising Sons Right](http://9gag.com/gag/aDYv41N)<!-- MEMES:END -->
+ - 6️⃣ [All these time??!](http://9gag.com/gag/aZDY7DW)
+ - 😝 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
+ - 👉 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)<!-- MEMES:END -->
 
 --- 
 
