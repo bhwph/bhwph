@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That poor child and man](http://9gag.com/gag/aYV0ovN)
+ - 6️⃣ [But it&#39;s ok](http://9gag.com/gag/aGEQz6n)
  - 😝 [Share your cursed](http://9gag.com/gag/aREp74j)
- - 👉 [I swear I&#39;m normal](http://9gag.com/gag/armLnpX)<!-- MEMES:END -->
+ - 👉 [F in the chat](http://9gag.com/gag/aOxWQ8D)<!-- MEMES:END -->
 
 --- 
 
