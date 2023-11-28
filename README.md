@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Great way to giveparents aneurysm](http://9gag.com/gag/a1P6Prw)
- - 😝 [For the 100th anniversary celebration no less](http://9gag.com/gag/aVb6YdM)
- - 👉 [Button](http://9gag.com/gag/aVb6bQP)<!-- MEMES:END -->
+ - 6️⃣ [All these time??!](http://9gag.com/gag/aZDY7DW)
+ - 😝 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)
+ - 👉 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)<!-- MEMES:END -->
 
 --- 
 
