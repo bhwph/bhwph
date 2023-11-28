@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Audible is 60% off for Cyber Monday, and is a great way to load up on Warhammer books](https://www.polygon.com/23978135/audible-cyber-monday-deal-subscription-credits-warhammer-black-library)
- - [Cyber Monday is bustling with great board game deals at Amazon and Target](https://www.polygon.com/23950645/black-friday-board-game-deals-sale-tabletop-cyber-monday)
- - [Assassin&#39;s Creed: Syndicate, the one about murderous siblings in London during the Industrial Revolution, is free to keep from Ubisoft](https://www.pcgamer.com/assassins-creed-syndicate-the-one-about-murderous-siblings-in-london-during-the-industrial-revolution-is-free-to-keep-from-ubisoft)<!-- GAME:END -->
+ - [Marvel Snap reassures players it will &#39;continue to operate&#39; despite closure of publisher Nuverse as TikTok parent ByteDance looks to exit gaming](https://www.pcgamer.com/marvel-snap-reassures-players-it-will-continue-to-operate-despite-closure-of-publisher-nuverse-as-tiktok-parent-bytedance-looks-to-exit-gaming)
+ - [6 things PC Gamer&#39;s team actually bought on Black Friday and Cyber Monday](https://www.pcgamer.com/6-things-pc-gamers-team-actually-bought-on-black-friday-and-cyber-monday)
+ - [Laser-cut board game organizers are a surprisingly thoughtful gift idea](https://www.polygon.com/23974616/board-game-organizer-tabletop-deal-smonex-black-friday-cyber-monday-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
