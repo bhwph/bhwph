@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Self-hosted media app starts narcing on its own users&#39; anime and X-rated habits with an opt-out service, and it&#39;s going terribly](https://www.pcgamer.com/self-hosted-media-app-starts-narcing-on-its-own-users-anime-and-x-rated-habits-with-an-opt-out-service-and-its-going-terribly)
- - [Fallout TV series first look: it&#39;s &#39;dramatic and dark&#39; but with &#39;a little bit of a wink,&#39; says Todd Howard](https://www.pcgamer.com/fallout-tv-series-first-look-its-dramatic-and-dark-but-with-a-little-bit-of-a-wink-says-todd-howard)
- - [The Witcher 3&#39;s Most Famous Meme Is Now In Destiny 2](https://kotaku.com/destiny-2-witcher-3-geralt-armor-price-1851054771)<!-- GAME:END -->
+ - [Among Us gets cosmetics inspired by big indie games like Undertale and Celeste](https://www.polygon.com/23979836/among-us-undertale-sans-celeste-cosmetics)
+ - [Celebrate 10 Years of Killer Instinct With The New Anniversary Edition](https://news.xbox.com/en-us/2023/11/28/killer-instinct-10th-anniversary-edition/)
+ - [I Want To Smooch Every Man In This Disney-Inspired Farming Sim](https://kotaku.com/coral-island-romance-options-farming-sim-stardew-1851055236)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
