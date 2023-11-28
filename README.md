@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 😝 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)
- - 👉 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)<!-- MEMES:END -->
+ - 6️⃣ [That poor child and man](http://9gag.com/gag/aYV0ovN)
+ - 😝 [All these time??!](http://9gag.com/gag/aZDY7DW)
+ - 👉 [I will just leave this here](http://9gag.com/gag/a5XYW0G)<!-- MEMES:END -->
 
 --- 
 
