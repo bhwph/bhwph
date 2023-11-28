@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hands out fourth macOS 14.2 Sonoma developer beta](https://appleinsider.com/articles/23/11/28/apple-hands-out-fourth-macos-142-sonoma-developer-beta?utm_medium=rss)
- - [Apple distributes fourth iOS 17.2 &amp; iPadOS 17.2 developer betas](https://appleinsider.com/articles/23/11/28/apple-distributes-fourth-ios-172-ipados-172-developer-betas?utm_medium=rss)
- - [Verizon’s holiday deals can land you $1,900 of tech for any old phone](https://www.androidauthority.com/verizon-holiday-deals-3389606/)<!-- TECH:END -->
+ - [Elon Musk last week and today, in a now-deleted tweet, boosted the debunked Pizzagate conspiracy theory that led a man to fire an AR-15 in a DC eatery in 2016 &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231128/p32#a231128p32)
+ - [A Civil Rights Firestorm Erupts Around a Looming Surveillance Power Grab](https://www.wired.com/story/2023-ndaa-privacy-lobbying/)
+ - [AWS re:Invent 2023: the biggest news and announcements](https://www.theverge.com/2023/11/28/23978323/aws-re-invent-2023-news-announcements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
