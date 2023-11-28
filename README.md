@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Among Us gets cosmetics inspired by big indie games like Undertale and Celeste](https://www.polygon.com/23979836/among-us-undertale-sans-celeste-cosmetics)
- - [Celebrate 10 Years of Killer Instinct With The New Anniversary Edition](https://news.xbox.com/en-us/2023/11/28/killer-instinct-10th-anniversary-edition/)
- - [I Want To Smooch Every Man In This Disney-Inspired Farming Sim](https://kotaku.com/coral-island-romance-options-farming-sim-stardew-1851055236)<!-- GAME:END -->
+ - [Among Us Is Crossing Over With Goose Game, Celeste, Undertale, And More](https://kotaku.com/among-us-indie-cosmicube-bundle-goose-game-undertale-1851055845)
+ - [Lawsuit filed by 33 US states alleges Meta knew Facebook and Instagram&#39;s &#39;addictive features harmed young people’s physical and mental health&#39;](https://www.pcgamer.com/lawsuit-filed-by-33-us-states-alleges-meta-knew-facebook-and-instagrams-addictive-features-harmed-young-peoples-physical-and-mental-health)
+ - [60 Games Have Already Been Killed, And 2023 Ain’t Over Yet [Update]](https://kotaku.com/dead-games-2023-delisted-servers-offline-1850083031)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
