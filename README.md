@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe: US Cyber Monday sales rose 9.6% YoY to a record $12.4B, driven by deep discounts that peaked at 31% in electronics and 23% for apparel &lpar;Reuters&rpar;](http://www.techmeme.com/231128/p22#a231128p22)
- - [Google says a first-of-its-kind geothermal energy project in Nevada, to power its data centers with clean energy in partnership with Fervo, is up and running &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231128/p21#a231128p21)
- - [How to Use Obsidian for Writing and Productivity](https://www.wired.com/story/how-to-use-obsidian-writing-productivity-markdown/)<!-- TECH:END -->
+ - [These 123 Last-Chance Cyber Monday Deals Are Still Going Strong Right Now](https://www.wired.com/story/cyber-monday-leftover-deals-2023/)
+ - [The Samsung Galaxy Tab S9 is now cheaper than it was on Black Friday](https://www.androidauthority.com/galaxy-tab-s9-deal-3389584/)
+ - [Sources: Chinese payments group Alipay plans to sell its 3.4% stake in Indian food delivery giant Zomato for ~$400M; Zomato shares have surged 90%+ in 2023 &lpar;M. Sriram/Reuters&rpar;](http://www.techmeme.com/231128/p24#a231128p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
