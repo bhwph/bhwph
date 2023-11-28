@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 123 Last-Chance Cyber Monday Deals Are Still Going Strong Right Now](https://www.wired.com/story/cyber-monday-leftover-deals-2023/)
- - [The Samsung Galaxy Tab S9 is now cheaper than it was on Black Friday](https://www.androidauthority.com/galaxy-tab-s9-deal-3389584/)
- - [Sources: Chinese payments group Alipay plans to sell its 3.4% stake in Indian food delivery giant Zomato for ~$400M; Zomato shares have surged 90%+ in 2023 &lpar;M. Sriram/Reuters&rpar;](http://www.techmeme.com/231128/p24#a231128p24)<!-- TECH:END -->
+ - [Apple hands out fourth macOS 14.2 Sonoma developer beta](https://appleinsider.com/articles/23/11/28/apple-hands-out-fourth-macos-142-sonoma-developer-beta?utm_medium=rss)
+ - [Apple distributes fourth iOS 17.2 &amp; iPadOS 17.2 developer betas](https://appleinsider.com/articles/23/11/28/apple-distributes-fourth-ios-172-ipados-172-developer-betas?utm_medium=rss)
+ - [Verizon’s holiday deals can land you $1,900 of tech for any old phone](https://www.androidauthority.com/verizon-holiday-deals-3389606/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
