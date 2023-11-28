@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hottest Cyber Monday Sex Toy Deals](https://www.wired.com/story/best-cyber-monday-sex-toy-deals-2023/)
- - [How OpenAI&#39;s leadership chaos points to lingering governance issues and could affect its business prospects as it moves forward fundraising at an $86B valuation &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/231127/p30#a231127p30)
- - [Best Cyber Monday robot vacuum deals](https://www.theverge.com/2023/11/24/23971647/black-friday-2023-robot-vacuum-deals-cyber-monday)<!-- TECH:END -->
+ - [Sketchy report says 400,000 Apple Vision Pro units to ship initially, 10 million by 2026](https://appleinsider.com/articles/23/11/28/sketchy-report-says-400000-apple-vision-pro-units-to-ship-initially-10-million-by-2026?utm_medium=rss)
+ - [The best Cyber Monday deals you can still grab before midnight](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
+ - [Mozaic, whose API helps creators split and automate payments with collaborators, raised a $20M Series A from Volition Capital, taking its total funding to $27M+ &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231127/p33#a231127p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
