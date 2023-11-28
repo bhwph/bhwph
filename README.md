@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Europol, the US, Ukraine, and other countries arrest members of a ransomware group in Ukraine linked to attacks on organizations in 71 countries &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231128/p9#a231128p9)
- - [We really dig&lpar;lett&rpar; Samsung’s Poke Ball cases, now available in more regions](https://www.androidauthority.com/samsung-galaxy-buds-poke-ball-cases-europe-3389474/)
- - [Worried About Privacy on Your iPhone? The Truth About NameDrop on iOS 17     - CNET](https://www.cnet.com/tech/mobile/worried-about-privacy-on-your-iphone-the-truth-about-namedrop-on-ios-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PDD, which runs Temu and Pinduoduo, reports Q3 revenue up 94% YoY to ~$9.6B vs. ~$7.7B est., and net income up 47%, after grabbing Shein users; PDD jumps 15%+ &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231128/p16#a231128p16)
+ - [Ikea announces new smart sensors: Parasoll, for doors and windows, Vallhorn, for motion, and Badring, for water leakages, available in H1 2024 for under $10 &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/231128/p15#a231128p15)
+ - [Oxford Internet Institute study of 2M+ people&#39;s internet use: no &quot;smoking gun&quot; for widespread mental health harms, contradicting the &quot;popular ideas&quot; of risks &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231128/p14#a231128p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
