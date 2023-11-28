@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk last week and today, in a now-deleted tweet, boosted the debunked Pizzagate conspiracy theory that led a man to fire an AR-15 in a DC eatery in 2016 &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231128/p32#a231128p32)
- - [A Civil Rights Firestorm Erupts Around a Looming Surveillance Power Grab](https://www.wired.com/story/2023-ndaa-privacy-lobbying/)
- - [AWS re:Invent 2023: the biggest news and announcements](https://www.theverge.com/2023/11/28/23978323/aws-re-invent-2023-news-announcements)<!-- TECH:END -->
+ - [Source: OpenAI&#39;s revamped board doesn&#39;t plan to include representatives from outside investors such as Microsoft, Thrive Capital, and Sequoia Capital &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231128/p37#a231128p37)
+ - [CrowdStrike reports Q3 revenue up 35% YoY to $786M, vs. $777M est., ARR up 35% YoY to $3.15B, and net income of $26.7M, vs. a net loss of $55M a year ago &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/231128/p36#a231128p36)
+ - [Dragon’s Dogma 2 gets a March release date and tricky new class](https://www.theverge.com/23979909/dragons-dogma-2-release-date-trailer-capcom)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
