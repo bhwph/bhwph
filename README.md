@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches Amazon One Enterprise in preview, allowing US businesses use its palm-scanning tech as an authentication tool to let employees into the office &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231128/p4#a231128p4)
- - [86 Best Cyber Monday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/cyber-monday-outdoor-deals-rei-2023/)
- - [38 Cyber Monday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2023/)<!-- TECH:END -->
+ - [OnePlus confirms wireless charging for OnePlus 12](https://www.androidauthority.com/oneplus-12-wireless-charging-confirmed-3389458/)
+ - [Q&amp;A with Jeff Dean, chief scientist of Google DeepMind and Google Research, on Bard&#39;s launch, Gemini LLM, DeepMind-Brain merger, AI misinformation, and more &lpar;Samidha Sharma/The Economic Times&rpar;](http://www.techmeme.com/231128/p7#a231128p7)
+ - [A Damning Report Claims a Major Gig Economy Union Had a Culture of Abuse and Toxicity](https://www.wired.com/story/adcu-gig-economy-union-toxic-report/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
