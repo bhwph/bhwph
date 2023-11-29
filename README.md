@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: OpenAI&#39;s revamped board doesn&#39;t plan to include representatives from outside investors such as Microsoft, Thrive Capital, and Sequoia Capital &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231128/p37#a231128p37)
- - [CrowdStrike reports Q3 revenue up 35% YoY to $786M, vs. $777M est., ARR up 35% YoY to $3.15B, and net income of $26.7M, vs. a net loss of $55M a year ago &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/231128/p36#a231128p36)
- - [Dragon’s Dogma 2 gets a March release date and tricky new class](https://www.theverge.com/23979909/dragons-dogma-2-release-date-trailer-capcom)<!-- TECH:END -->
+ - [A look at Foxconn&#39;s struggles to manufacture the iPhone 15 in India, contending with language barriers, labor disputes, regulatory hurdles, and more &lpar;Rest of World&rpar;](http://www.techmeme.com/231128/p41#a231128p41)
+ - [Uber announces a plan to start listing London&#39;s famed black cabs in early 2024, despite objections from the Licensed Taxi Drivers&#39; Association trade group &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231128/p40#a231128p40)
+ - [London’s famed black cabs will be listed on Uber’s app in big win for the ridehail company](https://www.theverge.com/2023/11/28/23979409/uber-london-black-cab-app-referrals-taxi-ltda)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
