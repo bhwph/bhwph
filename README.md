@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google and Canada have reached an agreement in their dispute over the Online News Act; source: Google will pay news companies around $100M per year &lpar;CBC News&rpar;](http://www.techmeme.com/231129/p32#a231129p32)
- - [Google TV’s version of Wrapped is here, and The Last of Us dominates](https://www.androidauthority.com/google-tv-wrapped-2023-3389936/)
- - [The US sanctions Sinbad, a crypto mixer allegedly used by North Korean Lazarus hackers, and seizes its service in an international law enforcement operation &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/231129/p31#a231129p31)<!-- TECH:END -->
+ - [Mailchimp plans to shut down TinyLetter on February 29, 2024, to focus on its core Mailchimp product, according to messages from Mailchimp to TinyLetter users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231129/p37#a231129p37)
+ - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)
+ - [Tens of billions of dollars of IRA funding will now be earmarked for environmental justice](https://www.theverge.com/2023/11/29/23981137/biden-ira-inflation-reduction-act-programs-justice40-initiative-exclusive)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
