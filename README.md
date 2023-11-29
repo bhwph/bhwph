@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 14 Ultra leaked specifications indicate a big upgrade for the main camera](https://www.androidauthority.com/xiaomi-14-ultra-leaked-camera-specifications-3389757/)
- - [PSA: You should update Chrome on your PC due to this serious flaw](https://www.androidauthority.com/psa-update-google-chrome-pc-zero-day-3389752/)
- - [Investigation: Palestinians are excluded from or face barriers when trying to monetize via Google services, bringing the region&#39;s digital divide under scrutiny &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231129/p5#a231129p5)<!-- TECH:END -->
+ - [Unity plans to cut 265 jobs, or 3.8% of its staff, and end its services deal with VFX company W&amp;#275;t&amp;amacr; FX to focus on its &quot;core business&quot; &lpar;Mike Seymour/fxguide&rpar;](http://www.techmeme.com/231129/p7#a231129p7)
+ - [Is the Apple Card dead? Not really, even if Goldman Sachs leaves](https://www.androidauthority.com/apple-card-potential-goldman-sachs-exit-3389762/)
+ - [Google beefs up Drive’s document scanning feature and brings it to iPhone](https://www.theverge.com/2023/11/29/23980739/google-drive-document-scanner-ios-android)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
