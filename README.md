@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Share your cursed](http://9gag.com/gag/aREp74j)
- - 😝 [A picture is worth a thousand words](http://9gag.com/gag/aMELVL1)
- - 👉 [I will just leave this here](http://9gag.com/gag/a5XYW0G)<!-- MEMES:END -->
+ - 6️⃣ [I choose you](http://9gag.com/gag/agoeAvg)
+ - 😝 [Can anyone confirm if she also apologized to those immigrants for having to stand trial?](http://9gag.com/gag/a4o0nzZ)
+ - 👉 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)<!-- MEMES:END -->
 
 --- 
 
