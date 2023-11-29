@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unity plans to cut 265 jobs, or 3.8% of its staff, and end its services deal with VFX company W&amp;#275;t&amp;amacr; FX to focus on its &quot;core business&quot; &lpar;Mike Seymour/fxguide&rpar;](http://www.techmeme.com/231129/p7#a231129p7)
- - [Is the Apple Card dead? Not really, even if Goldman Sachs leaves](https://www.androidauthority.com/apple-card-potential-goldman-sachs-exit-3389762/)
- - [Google beefs up Drive’s document scanning feature and brings it to iPhone](https://www.theverge.com/2023/11/29/23980739/google-drive-document-scanner-ios-android)<!-- TECH:END -->
+ - [Robert De Niro criticizes Apple and the Gotham Awards, after sources say Apple cut part of his speech that was critical of Donald Trump, which he read anyway &lpar;Variety&rpar;](http://www.techmeme.com/231129/p15#a231129p15)
+ - [Confusion reigns about the future of Apple&#39;s 5G modem project](https://appleinsider.com/articles/23/11/29/confusion-reigns-about-the-future-of-apples-5g-modem-project?utm_medium=rss)
+ - [Google fixes the sixth Chrome zero-day vulnerability in 2023 in an emergency update, related to the Skia open-source 2D graphics library, found by Google TAG &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231129/p14#a231129p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
