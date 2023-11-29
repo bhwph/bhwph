@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Triggered trans in the comments](http://9gag.com/gag/axorWg2)
- - 😝 [Women for a year vs guys for a week](http://9gag.com/gag/avQjyeb)
- - 👉 [Smart guy](http://9gag.com/gag/abv8A6B)<!-- MEMES:END -->
+ - 6️⃣ [The Krab](http://9gag.com/gag/a9qGnq1)
+ - 😝 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
+ - 👉 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)<!-- MEMES:END -->
 
 --- 
 
