@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t believe that rumor: Samsung says it isn’t rebranding Exynos chips](https://www.androidauthority.com/samsung-exynos-no-rebranding-3389743/)
- - [Best Buy launches 20 days of holiday deals, MacBooks from $949](https://appleinsider.com/articles/23/11/29/best-buy-launches-20-days-of-holiday-deals-macbooks-from-949?utm_medium=rss)
- - [Apple Replay 2023 is here! Spotify Wrapped ‘coming soon’](https://www.androidauthority.com/apple-replay-2023-spotify-wrapped-2023-3389742/)<!-- TECH:END -->
+ - [Xiaomi 14 Ultra leaked specifications indicate a big upgrade for the main camera](https://www.androidauthority.com/xiaomi-14-ultra-leaked-camera-specifications-3389757/)
+ - [PSA: You should update Chrome on your PC due to this serious flaw](https://www.androidauthority.com/psa-update-google-chrome-pc-zero-day-3389752/)
+ - [Investigation: Palestinians are excluded from or face barriers when trying to monetize via Google services, bringing the region&#39;s digital divide under scrutiny &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231129/p5#a231129p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
