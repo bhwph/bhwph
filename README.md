@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s where you can grab Oppenheimer on 4K Blu-ray, if you’ve had trouble finding it](https://www.polygon.com/23923945/oppenheimer-blu-ray-4k-uhd-pre-order-guide-where-to-buy)
- - [Massive Game Microtransaction Company Sounds Super Shady](https://kotaku.com/xsolla-ubisoft-epic-games-fortnite-roblox-1851058729)
- - [Rockstar Co-Founder &amp; GTA Lead Writer Finally Reveals What He&#39;s Been Working On](https://kotaku.com/rockstar-games-gta-6-what-is-dan-houser-nexts-game-1851058701)<!-- GAME:END -->
+ - [The Game Awards Future Class members call for a statement on the Gaza crisis at this year&#39;s awards show](https://www.pcgamer.com/the-game-awards-future-class-members-call-for-a-statement-on-the-gaza-crisis-at-this-years-awards-show)
+ - [PS Plus’ December Lineup Wants You To Cozy Up For Christmas](https://kotaku.com/december-ps-plus-lego-2k-drive-powerwash-sim-sable-1851059251)
+ - [Palia’s winter update brings festive celebrations, a new wind temple](https://www.polygon.com/23981497/palia-winter-update-winterlights-holiday-temple-winds)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
