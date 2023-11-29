@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
- - 😝 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)
- - 👉 [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)<!-- MEMES:END -->
+ - 6️⃣ [Great success](http://9gag.com/gag/amAZWyy)
+ - 😝 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
+ - 👉 [The battle of Tet Ten](http://9gag.com/gag/aVb6xyw)<!-- MEMES:END -->
 
 --- 
 
