@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kidnapped](http://9gag.com/gag/a3ZOZ11)
- - 😝 [The Krab](http://9gag.com/gag/a9qGnq1)
- - 👉 [I will just leave this here](http://9gag.com/gag/a5XYW0G)<!-- MEMES:END -->
+ - 6️⃣ [Triggered trans in the comments](http://9gag.com/gag/axorWg2)
+ - 😝 [Women for a year vs guys for a week](http://9gag.com/gag/avQjyeb)
+ - 👉 [Smart guy](http://9gag.com/gag/abv8A6B)<!-- MEMES:END -->
 
 --- 
 
