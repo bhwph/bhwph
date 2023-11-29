@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How K-dramas came to and dominated America](https://www.polygon.com/entertainment/23964539/k-drama-history-american-korean-popularity-success-hallyu)
- - [This year&#39;s ugly Windows sweater is here and it&#39;s one of the best in a long line of gloriously ugly jumpers](https://www.pcgamer.com/this-years-ugly-windows-sweater-is-here-and-its-one-of-the-best-in-a-long-line-of-gloriously-ugly-jumpers)
- - [Silent Hill: Ascension&#39;s terrible Jam Man &lpar;who likes to make jams&rpar; was not written by AI, says Genvid CEO: &#39;every word in Ascension was written by real people&#39;](https://www.pcgamer.com/silent-hill-ascensions-terrible-jam-man-who-likes-to-make-jams-was-not-written-by-ai-says-genvid-ceo-every-word-in-ascension-was-written-by-real-people)<!-- GAME:END -->
+ - [The Goldfinger reunites two legends for a Hong Kong take on The Wolf of Wall Street](https://www.polygon.com/23981020/the-goldfinger-trailer-andy-lau-tony-leung-hell-yeah)
+ - [Taika Waititi is really ready for you to buy into the Taikaverse](https://www.polygon.com/23978442/taika-waititi-interview-next-goal-wins-taikaverse)
+ - [All Starcat locations in Destiny 2&#39;s Season of the Wish](https://www.pcgamer.com/destiny-2-starcat-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
