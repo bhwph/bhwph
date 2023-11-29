@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic 3 Movie Teaser Sparks Fan Freak-Out About Shadow&#39;s Shoes](https://kotaku.com/sonic-movie-3-teaser-shadow-hedgehog-voice-actor-1851058188)
- - [Unwrap Your New World of Tanks Holiday Ops with Vinnie Jones!](https://news.xbox.com/en-us/2023/11/29/world-of-tanks-vinnie-jones/)
- - [Game Awards Honorees Demand Show Acknowledge Gaza Humanitarian Crisis](https://kotaku.com/game-awards-2023-future-class-open-letter-palestine-1851058054)<!-- GAME:END -->
+ - [Here’s where you can grab Oppenheimer on 4K Blu-ray, if you’ve had trouble finding it](https://www.polygon.com/23923945/oppenheimer-blu-ray-4k-uhd-pre-order-guide-where-to-buy)
+ - [Massive Game Microtransaction Company Sounds Super Shady](https://kotaku.com/xsolla-ubisoft-epic-games-fortnite-roblox-1851058729)
+ - [Rockstar Co-Founder &amp; GTA Lead Writer Finally Reveals What He&#39;s Been Working On](https://kotaku.com/rockstar-games-gta-6-what-is-dan-houser-nexts-game-1851058701)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
