@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: British AI startup Stability AI held early-stage talks with multiple companies about a sale, as executives face investor pressure over its finances &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p21#a231129p21)
- - [GM CEO Mary Barra says the company plans to slow Cruise&#39;s expansion and significantly cut spending at the self-driving unit in response to safety concerns &lpar;New York Times&rpar;](http://www.techmeme.com/231129/p20#a231129p20)
- - [This budgeting app is shutting down. Here are the best alternatives to switch to](https://www.androidauthority.com/best-mint-alternatives-3384692/)<!-- TECH:END -->
+ - [Google DeepMind finds 2.2M crystal structures using GNoME, more than 45x larger than all substances ever found, and plans to make 381K available to scientists &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/231129/p27#a231129p27)
+ - [Together AI, which helps pre-train and fine-tune open source foundation models more efficiently, raised a $102.5M Series A led by Kleiner Perkins &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/231129/p26#a231129p26)
+ - [An AI Dreamed Up 380,000 New Materials. The Next Challenge Is Making Them](https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
