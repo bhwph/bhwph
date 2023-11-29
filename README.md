@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I choose you](http://9gag.com/gag/agoeAvg)
- - 😝 [Can anyone confirm if she also apologized to those immigrants for having to stand trial?](http://9gag.com/gag/a4o0nzZ)
- - 👉 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)<!-- MEMES:END -->
+ - 6️⃣ [Kidnapped](http://9gag.com/gag/a3ZOZ11)
+ - 😝 [The Krab](http://9gag.com/gag/a9qGnq1)
+ - 👉 [I will just leave this here](http://9gag.com/gag/a5XYW0G)<!-- MEMES:END -->
 
 --- 
 
