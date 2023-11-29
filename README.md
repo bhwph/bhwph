@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
- - 😝 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
- - 👉 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)<!-- MEMES:END -->
+ - 6️⃣ [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
+ - 😝 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)
+ - 👉 [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)<!-- MEMES:END -->
 
 --- 
 
