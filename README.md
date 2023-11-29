@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [But it&#39;s ok](http://9gag.com/gag/aGEQz6n)
- - 😝 [Share your cursed](http://9gag.com/gag/aREp74j)
- - 👉 [F in the chat](http://9gag.com/gag/aOxWQ8D)<!-- MEMES:END -->
+ - 6️⃣ [F in the chat](http://9gag.com/gag/aOxWQ8D)
+ - 😝 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
+ - 👉 [That poor child and man](http://9gag.com/gag/aYV0ovN)<!-- MEMES:END -->
 
 --- 
 
