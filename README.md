@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Goldfinger reunites two legends for a Hong Kong take on The Wolf of Wall Street](https://www.polygon.com/23981020/the-goldfinger-trailer-andy-lau-tony-leung-hell-yeah)
- - [Taika Waititi is really ready for you to buy into the Taikaverse](https://www.polygon.com/23978442/taika-waititi-interview-next-goal-wins-taikaverse)
- - [All Starcat locations in Destiny 2&#39;s Season of the Wish](https://www.pcgamer.com/destiny-2-starcat-locations)<!-- GAME:END -->
+ - [Sonic 3 Movie Teaser Sparks Fan Freak-Out About Shadow&#39;s Shoes](https://kotaku.com/sonic-movie-3-teaser-shadow-hedgehog-voice-actor-1851058188)
+ - [Unwrap Your New World of Tanks Holiday Ops with Vinnie Jones!](https://news.xbox.com/en-us/2023/11/29/world-of-tanks-vinnie-jones/)
+ - [Game Awards Honorees Demand Show Acknowledge Gaza Humanitarian Crisis](https://kotaku.com/game-awards-2023-future-class-open-letter-palestine-1851058054)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
