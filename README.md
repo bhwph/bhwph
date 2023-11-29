@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Honestly it&#39;s looking really comfy](http://9gag.com/gag/a6qREMA)
+ - 6️⃣ [Share your cursed](http://9gag.com/gag/aREp74j)
  - 😝 [A picture is worth a thousand words](http://9gag.com/gag/aMELVL1)
- - 👉 [Share your cursed](http://9gag.com/gag/aREp74j)<!-- MEMES:END -->
+ - 👉 [I will just leave this here](http://9gag.com/gag/a5XYW0G)<!-- MEMES:END -->
 
 --- 
 
