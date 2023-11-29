@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mailchimp plans to shut down TinyLetter on February 29, 2024, to focus on its core Mailchimp product, according to messages from Mailchimp to TinyLetter users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231129/p37#a231129p37)
- - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)
- - [Tens of billions of dollars of IRA funding will now be earmarked for environmental justice](https://www.theverge.com/2023/11/29/23981137/biden-ira-inflation-reduction-act-programs-justice40-initiative-exclusive)<!-- TECH:END -->
+ - [Windows 11 tests energy saver mode for both laptops and desktop PCs](https://www.theverge.com/2023/11/29/23981581/windows-11-energy-saver-mode-laptops-pcs)
+ - [Salesforce reports Q3 revenue up 11% YoY to $8.72B, vs. $8.72B est., and raises its FY 2024 forecast for operating cash flow growth; CRM jumps 6%+ &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/231129/p42#a231129p42)
+ - [Snowflake reports Q3 revenue up 32% YoY to $734.2M, vs. $714M est., and projects Q4 product revenue of $716M to $721M, vs. $696M est.; SNOW jumps 6%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/231129/p41#a231129p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
