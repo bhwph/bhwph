@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers discover six attacks that can break the secrecy of Bluetooth sessions, impacting the Bluetooth Core Specification 4.2 through the latest 5.4 spec &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231128/p44#a231128p44)
- - [Automate Pulse 2 Hub review: An expensive way to control your curtains](https://appleinsider.com/articles/23/11/29/automate-pulse-2-hub-review-an-expensive-way-to-control-your-curtains?utm_medium=rss)
- - [Okta tells customers that hackers who breached its network stole information on all users of its customer support system, greater than the 1% claimed previously &lpar;Graham Starr/Bloomberg&rpar;](http://www.techmeme.com/231128/p43#a231128p43)<!-- TECH:END -->
+ - [Don’t believe that rumor: Samsung says it isn’t rebranding Exynos chips](https://www.androidauthority.com/samsung-exynos-no-rebranding-3389743/)
+ - [Best Buy launches 20 days of holiday deals, MacBooks from $949](https://appleinsider.com/articles/23/11/29/best-buy-launches-20-days-of-holiday-deals-macbooks-from-949?utm_medium=rss)
+ - [Apple Replay 2023 is here! Spotify Wrapped ‘coming soon’](https://www.androidauthority.com/apple-replay-2023-spotify-wrapped-2023-3389742/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
