@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robert De Niro criticizes Apple and the Gotham Awards, after sources say Apple cut part of his speech that was critical of Donald Trump, which he read anyway &lpar;Variety&rpar;](http://www.techmeme.com/231129/p15#a231129p15)
- - [Confusion reigns about the future of Apple&#39;s 5G modem project](https://appleinsider.com/articles/23/11/29/confusion-reigns-about-the-future-of-apples-5g-modem-project?utm_medium=rss)
- - [Google fixes the sixth Chrome zero-day vulnerability in 2023 in an emergency update, related to the Skia open-source 2D graphics library, found by Google TAG &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231129/p14#a231129p14)<!-- TECH:END -->
+ - [Sources: British AI startup Stability AI held early-stage talks with multiple companies about a sale, as executives face investor pressure over its finances &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p21#a231129p21)
+ - [GM CEO Mary Barra says the company plans to slow Cruise&#39;s expansion and significantly cut spending at the self-driving unit in response to safety concerns &lpar;New York Times&rpar;](http://www.techmeme.com/231129/p20#a231129p20)
+ - [This budgeting app is shutting down. Here are the best alternatives to switch to](https://www.androidauthority.com/best-mint-alternatives-3384692/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
