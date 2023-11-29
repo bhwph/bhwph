@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind finds 2.2M crystal structures using GNoME, more than 45x larger than all substances ever found, and plans to make 381K available to scientists &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/231129/p27#a231129p27)
- - [Together AI, which helps pre-train and fine-tune open source foundation models more efficiently, raised a $102.5M Series A led by Kleiner Perkins &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/231129/p26#a231129p26)
- - [An AI Dreamed Up 380,000 New Materials. The Next Challenge Is Making Them](https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them/)<!-- TECH:END -->
+ - [Sources: Google and Canada have reached an agreement in their dispute over the Online News Act; source: Google will pay news companies around $100M per year &lpar;CBC News&rpar;](http://www.techmeme.com/231129/p32#a231129p32)
+ - [Google TV’s version of Wrapped is here, and The Last of Us dominates](https://www.androidauthority.com/google-tv-wrapped-2023-3389936/)
+ - [The US sanctions Sinbad, a crypto mixer allegedly used by North Korean Lazarus hackers, and seizes its service in an international law enforcement operation &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/231129/p31#a231129p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
