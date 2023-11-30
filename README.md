@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit’s Android app could let you increase font size &lpar;Update: Reddit statement&rpar;](https://www.androidauthority.com/reddit-font-size-android-app-3390056/)
- - [SoFi tells its crypto customers to liquidate their accounts or move holdings to Blockchain.com by December 19, as it exits crypto due to regulatory scrutiny &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/231129/p45#a231129p45)
- - [Microsoft joins OpenAI’s board with Sam Altman officially back as CEO](https://www.theverge.com/2023/11/29/23981848/sam-altman-back-open-ai-ceo-microsoft-board)<!-- TECH:END -->
+ - [Substack rolls out video creation and editing tools to enable creators to publish video podcasts, create interactive AI-made transcripts, and customize clips &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/231129/p48#a231129p48)
+ - [Activision Blizzard had a plan — or ploy — to launch its own Android game store](https://www.theverge.com/23981939/activision-blizzard-king-project-boston-android-app-store-games-candy-crush)
+ - [Sam Altman Officially Returns to OpenAI—With a New Board Seat for Microsoft](https://www.wired.com/story/sam-altman-officially-returns-to-openai-board-seat-microsoft/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
