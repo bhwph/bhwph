@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 😝 [A funny story tuching CC](http://9gag.com/gag/anzoOxn)
- - 👉 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)
+ - 😝 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
+ - 👉 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)<!-- MEMES:END -->
 
 --- 
 
