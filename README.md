@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Game Awards Future Class members call for a statement on the Gaza crisis at this year&#39;s awards show](https://www.pcgamer.com/the-game-awards-future-class-members-call-for-a-statement-on-the-gaza-crisis-at-this-years-awards-show)
- - [PS Plus’ December Lineup Wants You To Cozy Up For Christmas](https://kotaku.com/december-ps-plus-lego-2k-drive-powerwash-sim-sable-1851059251)
- - [Palia’s winter update brings festive celebrations, a new wind temple](https://www.polygon.com/23981497/palia-winter-update-winterlights-holiday-temple-winds)<!-- GAME:END -->
+ - [Among Us is doing a collab with some of the most popular indie games ever released](https://www.pcgamer.com/among-us-is-doing-a-collab-with-too-many-big-indie-games-to-fit-in-my-little-brain)
+ - [Todd Howard says the Fallout TV show is &#39;canon,&#39; so of course fans are already picking it apart](https://www.pcgamer.com/todd-howard-says-the-fallout-tv-show-is-canon-so-of-course-fans-are-already-picking-it-apart)
+ - [Shadow the Hedgehog is in the next Sonic movie and all I can think about now is which Hollywood tough guy will voice him](https://www.pcgamer.com/shadow-the-hedgehog-is-in-the-next-sonic-movie-and-all-i-can-think-about-now-is-which-hollywood-tough-guy-will-voice-him)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
