@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega admits Creative Assembly&#39;s live service push happened because it was drunk on &#39;the favorable winds of the early Covid-19 period,&#39; says the studio will focus on RTS games from now on](https://www.pcgamer.com/sega-admits-creative-assemblys-live-service-push-happened-because-it-was-drunk-on-the-favorable-winds-of-the-early-covid-19-period-says-the-studio-will-focus-on-rts-games-from-now-on)
- - [PC gamers in China to get new RTX 4090 cards after all, just not the versions they might have hoped for](https://www.pcgamer.com/pc-gamers-in-china-to-get-new-rtx-4090-cards-after-all-just-not-the-versions-they-might-have-hoped-for)
- - [Acer’s Predator Orion X is a compact monster of a gaming PC that you can pre-order in a great Currys deal right now](https://www.pcgamer.com/acers-predator-orion-x-is-a-compact-monster-of-a-gaming-pc-that-you-can-pre-order-in-a-great-currys-deal-right-now)<!-- GAME:END -->
+ - [Coming Soon to Game Pass: Far Cry 6, Remnant II, SteamWorld Build, and More](https://news.xbox.com/en-us/2023/11/30/game-pass-december-2023-announce/)
+ - [One of my favourite soulslike shoot-&#39;em-ups—Remnant 2—just quietly dropped on PC Game Pass, and it&#39;s a really good time to subscribe anyway](https://www.pcgamer.com/one-of-my-favourite-soulslike-shoot-em-upsremnant-2just-quietly-dropped-on-pc-game-pass-and-its-a-really-good-time-to-subscribe-anyway)
+ - [The Intel Core i9 14900K vs AMD Ryzen 9 7950X3D gaming shootout](https://www.pcgamer.com/intel-core-i9-14900k-vs-amd-ryzen-9-7950x3d)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
