@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything You Need to Know About Call of Duty: Modern Warfare III and Warzone Season 1](https://www.callofduty.com/blog/2023/11/call-of-duty-modern-warfare-III-warzone-season-1-announcement#new_tab)
- - [I already know Unrailed 2: Back on Track&#39;s chaotic co-op is going to ruin friendships](https://www.pcgamer.com/i-already-know-unrailed-2-back-on-tracks-chaotic-co-op-is-going-to-ruin-friendships)
- - [Persona 3 Reload shows off its youngest party member, and he&#39;s just as adorable as I remember](https://www.pcgamer.com/persona-3-reload-shows-off-its-youngest-party-member-and-hes-just-as-adorable-as-i-remember)<!-- GAME:END -->
+ - [Unravel the gameplay loop of Pacific Drive, launching on PS5 Feb 22](https://blog.playstation.com/2023/11/30/unravel-the-gameplay-loop-of-pacific-drive-launching-on-ps5-feb-22/)
+ - [Explore The Gritty Combat of Flintlock: The Siege of Dawn In New Gameplay Trailer](https://news.xbox.com/en-us/2023/11/30/flintlock-the-siege-of-dawn-new-gameplay-trailer/)
+ - [IRL Squid Game So Depraved Players Used Condoms For Chapstick](https://kotaku.com/netflix-squid-game-challenge-condom-chapstick-lubricant-1851062238)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
