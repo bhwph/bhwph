@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 tests energy saver mode for both laptops and desktop PCs](https://www.theverge.com/2023/11/29/23981581/windows-11-energy-saver-mode-laptops-pcs)
- - [Salesforce reports Q3 revenue up 11% YoY to $8.72B, vs. $8.72B est., and raises its FY 2024 forecast for operating cash flow growth; CRM jumps 6%+ &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/231129/p42#a231129p42)
- - [Snowflake reports Q3 revenue up 32% YoY to $734.2M, vs. $714M est., and projects Q4 product revenue of $716M to $721M, vs. $696M est.; SNOW jumps 6%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/231129/p41#a231129p41)<!-- TECH:END -->
+ - [Reddit’s Android app could let you increase font size &lpar;Update: Reddit statement&rpar;](https://www.androidauthority.com/reddit-font-size-android-app-3390056/)
+ - [SoFi tells its crypto customers to liquidate their accounts or move holdings to Blockchain.com by December 19, as it exits crypto due to regulatory scrutiny &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/231129/p45#a231129p45)
+ - [Microsoft joins OpenAI’s board with Sam Altman officially back as CEO](https://www.theverge.com/2023/11/29/23981848/sam-altman-back-open-ai-ceo-microsoft-board)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
