@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Substack rolls out video creation and editing tools to enable creators to publish video podcasts, create interactive AI-made transcripts, and customize clips &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/231129/p48#a231129p48)
- - [Activision Blizzard had a plan — or ploy — to launch its own Android game store](https://www.theverge.com/23981939/activision-blizzard-king-project-boston-android-app-store-games-candy-crush)
- - [Sam Altman Officially Returns to OpenAI—With a New Board Seat for Microsoft](https://www.wired.com/story/sam-altman-officially-returns-to-openai-board-seat-microsoft/)<!-- TECH:END -->
+ - [Q&amp;A with Sam Altman on why he was fired from OpenAI, returning to the company, improving the governance structure, the Q* model, lessons from the saga, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231129/p50#a231129p50)
+ - [OWC miniStack STX is 10% off with purchase of refurbished Apple product](https://appleinsider.com/articles/23/11/30/owc-ministack-stx-is-10-off-with-purchase-of-refurbished-apple-product?utm_medium=rss)
+ - [Apple reveals 2023 App Store Award winners, highlights AI as the year&#39;s biggest trend](https://appleinsider.com/articles/23/11/30/apple-reveals-2023-app-store-award-winners-highlights-ai-as-the-years-biggest-trend?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
