@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Among Us is doing a collab with some of the most popular indie games ever released](https://www.pcgamer.com/among-us-is-doing-a-collab-with-too-many-big-indie-games-to-fit-in-my-little-brain)
- - [Todd Howard says the Fallout TV show is &#39;canon,&#39; so of course fans are already picking it apart](https://www.pcgamer.com/todd-howard-says-the-fallout-tv-show-is-canon-so-of-course-fans-are-already-picking-it-apart)
- - [Shadow the Hedgehog is in the next Sonic movie and all I can think about now is which Hollywood tough guy will voice him](https://www.pcgamer.com/shadow-the-hedgehog-is-in-the-next-sonic-movie-and-all-i-can-think-about-now-is-which-hollywood-tough-guy-will-voice-him)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #894 for Thursday, November 30](https://www.pcgamer.com/wordle-today-answer-894-november-30)
+ - [Rising NAND and DDR chip prices mean SSD and memory prices are sure to increase in 2024](https://www.pcgamer.com/rising-nand-and-ddr-chip-prices-mean-ssd-and-memory-prices-are-sure-to-increase-in-2024)
+ - [Among Us is doing a collab with some of the most popular indie games ever released](https://www.pcgamer.com/among-us-is-doing-a-collab-with-too-many-big-indie-games-to-fit-in-my-little-brain)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
