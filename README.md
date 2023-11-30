@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tourist Idiots Standing so Close and Watching Volcano in Iceland](http://9gag.com/gag/ap9MR8B)
- - 😝 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)
- - 👉 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)<!-- MEMES:END -->
+ - 6️⃣ [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
+ - 😝 [Husky with an Italian accent](http://9gag.com/gag/ajV4OVx)
+ - 👉 [Mind your business?](http://9gag.com/gag/aOxWZLR)<!-- MEMES:END -->
 
 --- 
 
