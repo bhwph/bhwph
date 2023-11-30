@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today is the last day to save your unused Gmail account!](https://www.androidauthority.com/gmail-account-deletion-december-2023-3390181/)
- - [ASML CEO Peter Wennink plans to step down in April 2024 after over 10 years at the chip equipment giant, replaced by industry veteran Christophe Fouquet &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231130/p8#a231130p8)
- - [Worried About NameDrop and Safety? Here&#39;s How the Feature Actually Works     - CNET](https://www.cnet.com/tech/mobile/worried-about-privacy-on-your-iphone-the-truth-about-namedrop-on-ios-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [At an event, Xbox CFO Tim Stuart says Microsoft wants to bring Xbox Game Pass to PlayStation, Nintendo, and &quot;every screen that can play games&quot; &lpar;Eddie Makuch/GameSpot&rpar;](http://www.techmeme.com/231130/p15#a231130p15)
+ - [The CDC&#39;s Gun Violence Research Is in Danger](https://www.wired.com/story/cdc-gun-violence-research-gop-proposal/)
+ - [Dr. Ishwaria Subbiah Is Reimagining Cancer Care](https://www.wired.com/story/women-in-science-ishwaria-subbiah/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
