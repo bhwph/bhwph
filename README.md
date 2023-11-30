@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unravel the gameplay loop of Pacific Drive, launching on PS5 Feb 22](https://blog.playstation.com/2023/11/30/unravel-the-gameplay-loop-of-pacific-drive-launching-on-ps5-feb-22/)
- - [Explore The Gritty Combat of Flintlock: The Siege of Dawn In New Gameplay Trailer](https://news.xbox.com/en-us/2023/11/30/flintlock-the-siege-of-dawn-new-gameplay-trailer/)
- - [IRL Squid Game So Depraved Players Used Condoms For Chapstick](https://kotaku.com/netflix-squid-game-challenge-condom-chapstick-lubricant-1851062238)<!-- GAME:END -->
+ - [How to get the Fierce Deity Armor set and Sword in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23725340/fierce-deity-armor-sword-locations-head-chest-legs-upgrade-cost)
+ - [Baldur’s Gate 3’s New Ending Is The One It Deserves](https://kotaku.com/baldurs-gate-3-bg3-new-ending-epilogue-patch-5-1851063292)
+ - [Silent Hill, Naruto Games Deny AI Usage Amid Fan Freakouts](https://kotaku.com/naruto-boruto-silent-hill-ascension-ai-generated-1851063256)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
