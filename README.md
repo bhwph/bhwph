@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The BEUC and 18 others target Meta&#39;s &amp;euro;9.99+ Europe subscription in a complaint, two days after a similar noyb complaint, saying the option charges for privacy &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231130/p21#a231130p21)
- - [Amazon&#39;s Black Friday AirPods Pro 2 USB-C deal is back for $189.99](https://appleinsider.com/articles/23/11/30/amazons-black-friday-airpods-pro-2-usb-c-deal-is-back-for-18999?utm_medium=rss)
- - [As ChatGPT turns one, it’s still the best assistant I’ve ever used](https://www.androidauthority.com/chatgpt-one-year-best-assistant-3390215/)<!-- TECH:END -->
+ - [Facebook, Instagram, Google, Amazon, TikTok, YouTube, Microsoft, and others sign UK&#39;s Online Fraud Charter to fight online scams, fake ads, and romance fraud &lpar;Ben Mitchell/The Independent&rpar;](http://www.techmeme.com/231130/p27#a231130p27)
+ - [Google Fixes a Seventh Zero-Day Flaw in Chrome—Update Now](https://www.wired.com/story/google-chrome-seven-zero-day-flaws-critical-update-november-2023/)
+ - [Startlingly good iPhone 15 Pro Max fake is hard to spot](https://appleinsider.com/articles/23/11/30/startlingly-good-iphone-15-pro-max-fake-is-hard-to-spot?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
