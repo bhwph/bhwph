@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
- - 😝 [Husky with an Italian accent](http://9gag.com/gag/ajV4OVx)
- - 👉 [Mind your business?](http://9gag.com/gag/aOxWZLR)<!-- MEMES:END -->
+ - 6️⃣ [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
+ - 😝 [A funny story tuching CC](http://9gag.com/gag/anzoOxn)
+ - 👉 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)<!-- MEMES:END -->
 
 --- 
 
