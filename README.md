@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Siuuuu](http://9gag.com/gag/avQjWWM)
- - 😝 [Great success](http://9gag.com/gag/amAZWyy)
- - 👉 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)<!-- MEMES:END -->
+ - 6️⃣ [Tourist Idiots Standing so Close and Watching Volcano in Iceland](http://9gag.com/gag/ap9MR8B)
+ - 😝 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)
+ - 👉 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)<!-- MEMES:END -->
 
 --- 
 
