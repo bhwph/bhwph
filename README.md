@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom’s Dragon’s Dogma 2 Joins Joins A Divisive Gaming Trend](https://kotaku.com/capcom-dragons-dogma-2-70-dollar-game-price-increase-1851061262)
- - [I&#39;ve taken my Baldur&#39;s Gate 3 character creation to an even higher level thanks to these three great cosmetic mods](https://www.pcgamer.com/ive-taken-my-baldurs-gate-3-character-creation-to-an-even-higher-level-thanks-to-these-three-great-cosmetic-mods)
- - [Free Play Days – Rainbow Six Siege, Dead by Daylight, DriftCE and Hell Let Loose](https://news.xbox.com/en-us/2023/11/30/free-play-days-rainbow-six-siege-dead-by-daylight-driftce-and-hell-let-loose/)<!-- GAME:END -->
+ - [Everything You Need to Know About Call of Duty: Modern Warfare III and Warzone Season 1](https://www.callofduty.com/blog/2023/11/call-of-duty-modern-warfare-III-warzone-season-1-announcement#new_tab)
+ - [I already know Unrailed 2: Back on Track&#39;s chaotic co-op is going to ruin friendships](https://www.pcgamer.com/i-already-know-unrailed-2-back-on-tracks-chaotic-co-op-is-going-to-ruin-friendships)
+ - [Persona 3 Reload shows off its youngest party member, and he&#39;s just as adorable as I remember](https://www.pcgamer.com/persona-3-reload-shows-off-its-youngest-party-member-and-hes-just-as-adorable-as-i-remember)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
