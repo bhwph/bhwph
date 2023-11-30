@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [2X Combo in 30 seconds](http://9gag.com/gag/a8qg6Vd)
- - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 👉 [A funny story tuching CC](http://9gag.com/gag/anzoOxn)<!-- MEMES:END -->
+ - 6️⃣ [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
+ - 😝 [Bobr is famous](http://9gag.com/gag/aeQBVmW)
+ - 👉 [All rational people are with you ireland](http://9gag.com/gag/aBdePAx)<!-- MEMES:END -->
 
 --- 
 
