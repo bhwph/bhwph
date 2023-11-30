@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook, Instagram, Google, Amazon, TikTok, YouTube, Microsoft, and others sign UK&#39;s Online Fraud Charter to fight online scams, fake ads, and romance fraud &lpar;Ben Mitchell/The Independent&rpar;](http://www.techmeme.com/231130/p27#a231130p27)
- - [Google Fixes a Seventh Zero-Day Flaw in Chrome—Update Now](https://www.wired.com/story/google-chrome-seven-zero-day-flaws-critical-update-november-2023/)
- - [Startlingly good iPhone 15 Pro Max fake is hard to spot](https://appleinsider.com/articles/23/11/30/startlingly-good-iphone-15-pro-max-fake-is-hard-to-spot?utm_medium=rss)<!-- TECH:END -->
+ - [Apple releases iOS 17.1.2 &amp; iPadOS 17.1.2](https://appleinsider.com/articles/23/11/30/apple-releases-ios-1712-ipados-1712?utm_medium=rss)
+ - [How OpenAI&#39;s low-key ChatGPT launch a year ago kickstarted AI&#39;s generational shift in the tech industry and what it means for the future of AI and the world &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231130/p35#a231130p35)
+ - [Yet another pornographic ad is making the rounds on YouTube](https://www.androidauthority.com/youtube-porn-ad-2-3390335/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
