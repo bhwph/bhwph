@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases iOS 17.1.2 &amp; iPadOS 17.1.2](https://appleinsider.com/articles/23/11/30/apple-releases-ios-1712-ipados-1712?utm_medium=rss)
- - [How OpenAI&#39;s low-key ChatGPT launch a year ago kickstarted AI&#39;s generational shift in the tech industry and what it means for the future of AI and the world &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231130/p35#a231130p35)
- - [Yet another pornographic ad is making the rounds on YouTube](https://www.androidauthority.com/youtube-porn-ad-2-3390335/)<!-- TECH:END -->
+ - [Meta expands the keyword search feature of Threads to all markets where the app is available, with support for &quot;all languages&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231130/p38#a231130p38)
+ - [The latest Baldur’s Gate 3 patch introduces a new epilogue and lets you wear slutty crab armor](https://www.theverge.com/2023/11/30/23982661/baldurs-gate-3-patch-5-details)
+ - [An interview with Amazon CTO Werner Vogels on culturally aware LLMs, developer productivity with generative AI, women&#39;s health tech, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/231130/p37#a231130p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
