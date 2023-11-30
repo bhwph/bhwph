@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Jose-based DuploCloud, which provides tools to provision apps to public clouds like AWS, raised a $32M Series B co-led by WestBridge Capital and StepStone &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231130/p3#a231130p3)
- - [Former associates of Linda Yaccarino describe her as difficult, volatile, but hardworking, and say high self-regard made her think she could manage Elon Musk &lpar;Kim Masters/The Hollywood Reporter&rpar;](http://www.techmeme.com/231130/p2#a231130p2)
- - [Samsung is going big on the Galaxy Z Fold 6 and Galaxy Z Flip 6…literally](https://www.androidauthority.com/samsung-galaxy-z-fold-6-galaxy-z-flip-6-display-sizes-3390116/)<!-- TECH:END -->
+ - [What is Sony Pictures Core, and how much does it cost?](https://www.androidauthority.com/what-is-sony-pictures-core-3380021/)
+ - [One UI 6 stable update for Galaxy S22 series is finally available in the US](https://www.androidauthority.com/samsung-galaxy-s22-one-ui-6-stable-update-us-3390145/)
+ - [10 year old calls on Apple to change ‘nerd face’ emoji](https://www.androidauthority.com/10-year-old-apple-nerd-face-emoji-3390147/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
