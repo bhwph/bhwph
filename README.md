@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Great success](http://9gag.com/gag/amAZWyy)
- - 😝 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
- - 👉 [The battle of Tet Ten](http://9gag.com/gag/aVb6xyw)<!-- MEMES:END -->
+ - 6️⃣ [Ready the ships! + orcas](http://9gag.com/gag/aOxW4BM)
+ - 😝 [Perfection.](http://9gag.com/gag/aGEQL3z)
+ - 👉 [I have a new hero](http://9gag.com/gag/aA096N2)<!-- MEMES:END -->
 
 --- 
 
