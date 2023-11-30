@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ready the ships! + orcas](http://9gag.com/gag/aOxW4BM)
- - 😝 [Perfection.](http://9gag.com/gag/aGEQL3z)
- - 👉 [I have a new hero](http://9gag.com/gag/aA096N2)<!-- MEMES:END -->
+ - 6️⃣ [Kidnapped](http://9gag.com/gag/a3ZOZ11)
+ - 😝 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
+ - 👉 [BH n food seems popular](http://9gag.com/gag/aDYv7Nd)<!-- MEMES:END -->
 
 --- 
 
