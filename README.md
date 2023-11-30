@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Game Pass: Far Cry 6, Remnant II, SteamWorld Build, and More](https://news.xbox.com/en-us/2023/11/30/game-pass-december-2023-announce/)
- - [One of my favourite soulslike shoot-&#39;em-ups—Remnant 2—just quietly dropped on PC Game Pass, and it&#39;s a really good time to subscribe anyway](https://www.pcgamer.com/one-of-my-favourite-soulslike-shoot-em-upsremnant-2just-quietly-dropped-on-pc-game-pass-and-its-a-really-good-time-to-subscribe-anyway)
- - [The Intel Core i9 14900K vs AMD Ryzen 9 7950X3D gaming shootout](https://www.pcgamer.com/intel-core-i9-14900k-vs-amd-ryzen-9-7950x3d)<!-- GAME:END -->
+ - [Capcom’s Dragon’s Dogma 2 Joins Joins A Divisive Gaming Trend](https://kotaku.com/capcom-dragons-dogma-2-70-dollar-game-price-increase-1851061262)
+ - [I&#39;ve taken my Baldur&#39;s Gate 3 character creation to an even higher level thanks to these three great cosmetic mods](https://www.pcgamer.com/ive-taken-my-baldurs-gate-3-character-creation-to-an-even-higher-level-thanks-to-these-three-great-cosmetic-mods)
+ - [Free Play Days – Rainbow Six Siege, Dead by Daylight, DriftCE and Hell Let Loose](https://news.xbox.com/en-us/2023/11/30/free-play-days-rainbow-six-siege-dead-by-daylight-driftce-and-hell-let-loose/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
