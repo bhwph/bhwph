@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta expands the keyword search feature of Threads to all markets where the app is available, with support for &quot;all languages&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231130/p38#a231130p38)
- - [The latest Baldur’s Gate 3 patch introduces a new epilogue and lets you wear slutty crab armor](https://www.theverge.com/2023/11/30/23982661/baldurs-gate-3-patch-5-details)
- - [An interview with Amazon CTO Werner Vogels on culturally aware LLMs, developer productivity with generative AI, women&#39;s health tech, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/231130/p37#a231130p37)<!-- TECH:END -->
+ - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
+ - [Tesla Cybertruck will usher in a new ‘Powershare’ bidirectional charging feature](https://www.theverge.com/2023/11/30/23983226/tesla-cybertruck-powershare-bidirectional-vehicle-to-load)
+ - [The PlayStation Portal at least makes stick drift easier to repair](https://www.theverge.com/2023/11/30/23983014/playstation-portal-stick-drift-repairability-ifixit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
