@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Sony Pictures Core, and how much does it cost?](https://www.androidauthority.com/what-is-sony-pictures-core-3380021/)
- - [One UI 6 stable update for Galaxy S22 series is finally available in the US](https://www.androidauthority.com/samsung-galaxy-s22-one-ui-6-stable-update-us-3390145/)
- - [10 year old calls on Apple to change ‘nerd face’ emoji](https://www.androidauthority.com/10-year-old-apple-nerd-face-emoji-3390147/)<!-- TECH:END -->
+ - [Today is the last day to save your unused Gmail account!](https://www.androidauthority.com/gmail-account-deletion-december-2023-3390181/)
+ - [ASML CEO Peter Wennink plans to step down in April 2024 after over 10 years at the chip equipment giant, replaced by industry veteran Christophe Fouquet &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231130/p8#a231130p8)
+ - [Worried About NameDrop and Safety? Here&#39;s How the Feature Actually Works     - CNET](https://www.cnet.com/tech/mobile/worried-about-privacy-on-your-iphone-the-truth-about-namedrop-on-ios-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
