@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At an event, Xbox CFO Tim Stuart says Microsoft wants to bring Xbox Game Pass to PlayStation, Nintendo, and &quot;every screen that can play games&quot; &lpar;Eddie Makuch/GameSpot&rpar;](http://www.techmeme.com/231130/p15#a231130p15)
- - [The CDC&#39;s Gun Violence Research Is in Danger](https://www.wired.com/story/cdc-gun-violence-research-gop-proposal/)
- - [Dr. Ishwaria Subbiah Is Reimagining Cancer Care](https://www.wired.com/story/women-in-science-ishwaria-subbiah/)<!-- TECH:END -->
+ - [The BEUC and 18 others target Meta&#39;s &amp;euro;9.99+ Europe subscription in a complaint, two days after a similar noyb complaint, saying the option charges for privacy &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231130/p21#a231130p21)
+ - [Amazon&#39;s Black Friday AirPods Pro 2 USB-C deal is back for $189.99](https://appleinsider.com/articles/23/11/30/amazons-black-friday-airpods-pro-2-usb-c-deal-is-back-for-18999?utm_medium=rss)
+ - [As ChatGPT turns one, it’s still the best assistant I’ve ever used](https://www.androidauthority.com/chatgpt-one-year-best-assistant-3390215/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
