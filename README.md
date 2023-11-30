@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
+ - 6️⃣ [I have a new hero](http://9gag.com/gag/aA096N2)
  - 😝 [Cause why not](http://9gag.com/gag/anzonO5)
- - 👉 [I have a new hero](http://9gag.com/gag/aA096N2)<!-- MEMES:END -->
+ - 👉 [Perfection.](http://9gag.com/gag/aGEQL3z)<!-- MEMES:END -->
 
 --- 
 
