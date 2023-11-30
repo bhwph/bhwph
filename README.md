@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Acer’s Predator Orion X is a compact monster of a gaming PC that you can pre-order in a great Currys deal right now](https://www.pcgamer.com/acers-predator-orion-x-is-a-compact-monster-of-a-gaming-pc-that-you-can-pre-order-in-a-great-currys-deal-right-now)
- - [Wordle today: Hint and answer #894 for Thursday, November 30](https://www.pcgamer.com/wordle-today-answer-894-november-30)
- - [Rising NAND and DDR chip prices mean SSD and memory prices are sure to increase in 2024](https://www.pcgamer.com/rising-nand-and-ddr-chip-prices-mean-ssd-and-memory-prices-are-sure-to-increase-in-2024)<!-- GAME:END -->
+ - [Sega admits Creative Assembly&#39;s live service push happened because it was drunk on &#39;the favorable winds of the early Covid-19 period,&#39; says the studio will focus on RTS games from now on](https://www.pcgamer.com/sega-admits-creative-assemblys-live-service-push-happened-because-it-was-drunk-on-the-favorable-winds-of-the-early-covid-19-period-says-the-studio-will-focus-on-rts-games-from-now-on)
+ - [PC gamers in China to get new RTX 4090 cards after all, just not the versions they might have hoped for](https://www.pcgamer.com/pc-gamers-in-china-to-get-new-rtx-4090-cards-after-all-just-not-the-versions-they-might-have-hoped-for)
+ - [Acer’s Predator Orion X is a compact monster of a gaming PC that you can pre-order in a great Currys deal right now](https://www.pcgamer.com/acers-predator-orion-x-is-a-compact-monster-of-a-gaming-pc-that-you-can-pre-order-in-a-great-currys-deal-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
