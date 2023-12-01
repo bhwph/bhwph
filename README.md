@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reaches a $27M settlement with employees who accused the company of unfair labor practices in a 2016 lawsuit following the termination of a Nest staffer &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231201/p19#a231201p19)
- - [Bluesky rolls out &quot;more advanced&quot; automated moderation tools, along with moderation lists, which let users mute or block many users at once, user lists, more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231201/p18#a231201p18)
- - [OpenAI’s GPT store delayed to next year](https://www.theverge.com/2023/12/1/23984497/openai-gpt-store-delayed-ai-gpt)<!-- TECH:END -->
+ - [SpaceX will take some Amazon satellites to space](https://www.theverge.com/2023/12/1/23984684/spacex-amazon-project-kuiper-satellites-space)
+ - [Best Buy slashes M2 MacBook Air prices to as low as $899 today only](https://appleinsider.com/articles/23/12/01/best-buy-slashes-m2-macbook-air-prices-to-as-low-as-899-today-only?utm_medium=rss)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
