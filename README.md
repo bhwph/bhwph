@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Dec. 1: $1,700 off M1 Max MacBook Pro, 4-pack AirTags $79, $210 off Xbox Series X Diablo IV Bundle, more](https://appleinsider.com/articles/23/12/01/daily-deals-dec-1-1700-off-m1-max-macbook-pro-4-pack-airtags-79-210-off-xbox-series-x-diablo-iv-bundle-more?utm_medium=rss)
- - [The iPhone 15 Pro Action Button might come to all iPhone 16 models](https://www.androidauthority.com/iphone-16-action-button-3390613/)
- - [D.C. police suggest using AirTags to thwart thefts of $1000 jackets](https://appleinsider.com/articles/23/12/01/dc-police-suggest-using-airtags-to-thwart-thefts-of-1000-jackets?utm_medium=rss)<!-- TECH:END -->
+ - [Dungeons &amp; Dragons Is a Household Name Again](https://www.wired.com/2023/12/geeks-guide-dnd-household-name/)
+ - [This M3 Max MacBook Pro 14-inch with 96GB RAM is down to $3,749, plus $50 off AppleCare](https://appleinsider.com/articles/23/12/01/this-m3-max-macbook-pro-14-inch-with-96gb-ram-is-down-to-3749?utm_medium=rss)
+ - [Best Internet Providers in Sioux Falls, South Dakota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-sioux-falls-sd/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
