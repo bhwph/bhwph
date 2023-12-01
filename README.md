@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [Tesla Cybertruck will usher in a new ‘Powershare’ bidirectional charging feature](https://www.theverge.com/2023/11/30/23983226/tesla-cybertruck-powershare-bidirectional-vehicle-to-load)
- - [The PlayStation Portal at least makes stick drift easier to repair](https://www.theverge.com/2023/11/30/23983014/playstation-portal-stick-drift-repairability-ifixit)<!-- TECH:END -->
+ - [Filings: Broadcom plans to lay off 1,267 VMware employees in California starting on January 26 and about 600 workers in Washington, Colorado, and Georgia &lpar;Aidin Vaziri/San Francisco Chronicle&rpar;](http://www.techmeme.com/231130/p45#a231130p45)
+ - [Furiosa’s first trailer teases the origins of one of the Mad Max saga’s best characters](https://www.theverge.com/2023/11/30/23983452/furiosa-mad-max-trailer)
+ - [&#39;Criminal Record&#39; gets first trailer, premieres January 10 on Apple TV+](https://appleinsider.com/articles/23/12/01/criminal-record-gets-first-trailer-premieres-january-10-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
