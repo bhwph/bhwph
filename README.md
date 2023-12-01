@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A 14-year old Swedish girl, who was raped by a Middle Eastern man, hanged the offender, with the help of her boyfriend and his brothers. The girl and her boyfriend were sentenced to 3.5 years, two brothers were sentenced to 4 years and one brother was sentenced to life.](http://9gag.com/gag/a7qxeez)
- - 😝 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
- - 👉 [Wow](http://9gag.com/gag/aqeExNv)<!-- MEMES:END -->
+ - 6️⃣ [The Terror of the Sky](http://9gag.com/gag/aXnO74g)
+ - 😝 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)
+ - 👉 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)<!-- MEMES:END -->
 
 --- 
 
