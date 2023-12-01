@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My Baldur&#39;s Gate 3 character creation just leveled up thanks to these three great cosmetic mod upgrades](https://www.pcgamer.com/ive-taken-my-baldurs-gate-3-character-creation-to-an-even-higher-level-thanks-to-these-three-great-cosmetic-mods)
- - [Wordle today: Hint and answer #895 for Friday, December 1](https://www.pcgamer.com/wordle-today-answer-895-december-1)
- - [Furiosa trailer takes Mad Max fans back to the Fury Road](https://www.polygon.com/23981365/furiosa-mad-max-trailer-fury-road-anya-taylor-joy-hemsworth-george-miller)<!-- GAME:END -->
+ - [Chrome and Chromium-based browser zero-day exploit that &#39;exists in the wild&#39; has been patched but an estimated 4 billion people may still be affected](https://www.pcgamer.com/chrome-and-chromium-based-browser-zero-day-exploit-that-exists-in-the-wild-has-been-patched-but-an-estimated-4-billion-people-may-still-be-affected)
+ - [You think you have imposter syndrome: Nvidia CEO is worried his trillion dollar company might go bust overnight](https://www.pcgamer.com/you-think-you-have-imposter-syndrome-nvidia-ceo-is-worried-his-trillion-dollar-company-might-go-bust-overnight)
+ - [You&#39;re fine to load up your dusty old save for Baldur&#39;s Gate 3&#39;s new epilogue, especially if you quicksave as much as I do](https://www.pcgamer.com/youre-fine-to-load-up-your-dusty-old-save-for-baldurs-gate-3s-new-epilogue-especially-if-you-quicksave-as-much-as-i-do)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
