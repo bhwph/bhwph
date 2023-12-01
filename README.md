@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked ChatGPT to make an Android phone more Android, and more Android, and…](https://www.androidauthority.com/chatgpt-dall-e-more-android-3390491/)
- - [‘Authentic’ Is 2023’s Word of the Year. You Read That Right](https://www.wired.com/authentc-word-of-the-year-artificial-intelligence-pop-culture-politics/)
- - [How to Deter Thieves and Improve Your Smart Home Security](https://www.wired.com/story/smart-home-security-tips/)<!-- TECH:END -->
+ - [Daily deals Dec. 1: $1,700 off M1 Max MacBook Pro, 4-pack AirTags $79, $210 off Xbox Series X Diablo IV Bundle, more](https://appleinsider.com/articles/23/12/01/daily-deals-dec-1-1700-off-m1-max-macbook-pro-4-pack-airtags-79-210-off-xbox-series-x-diablo-iv-bundle-more?utm_medium=rss)
+ - [The iPhone 15 Pro Action Button might come to all iPhone 16 models](https://www.androidauthority.com/iphone-16-action-button-3390613/)
+ - [D.C. police suggest using AirTags to thwart thefts of $1000 jackets](https://appleinsider.com/articles/23/12/01/dc-police-suggest-using-airtags-to-thwart-thefts-of-1000-jackets?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
