@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Fierce Deity Armor set and Sword in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23725340/fierce-deity-armor-sword-locations-head-chest-legs-upgrade-cost)
- - [Baldur’s Gate 3’s New Ending Is The One It Deserves](https://kotaku.com/baldurs-gate-3-bg3-new-ending-epilogue-patch-5-1851063292)
- - [Silent Hill, Naruto Games Deny AI Usage Amid Fan Freakouts](https://kotaku.com/naruto-boruto-silent-hill-ascension-ai-generated-1851063256)<!-- GAME:END -->
+ - [Furiosa trailer takes Mad Max fans back to the Fury Road](https://www.polygon.com/23981365/furiosa-mad-max-trailer-fury-road-anya-taylor-joy-hemsworth-george-miller)
+ - [I thought I was tough stuff for beating Baldur&#39;s Gate 3&#39;s hardest difficulty, but this new permadeath &#39;Honour&#39; mode has me quaking in my bardic boots](https://www.pcgamer.com/i-thought-i-was-tough-stuff-for-beating-baldurs-gate-3s-hardest-difficulty-but-this-new-permadeath-honour-mode-has-me-quaking-in-my-bardic-boots)
+ - [Diablo 4 has &#39;plans for a really really big update&#39; to give you better loot, but you&#39;ll have to wait until next year](https://www.pcgamer.com/diablo-4-has-plans-for-a-really-really-big-update-to-loot-but-youll-have-to-wait-until-next-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
