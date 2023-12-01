@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK has a rash of iPhone 15 Pro Max orders swapped for fakes during shipment](https://appleinsider.com/articles/23/12/01/uk-has-a-rash-of-iphone-15-pro-max-orders-swapped-for-fakes-during-shipment?utm_medium=rss)
- - [Sources: Apple and Paramount have talked about offering a bundle of Apple TV+ and Paramount+ that would cost less than subscribing to both services separately &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/231201/p7#a231201p7)
- - [Dr. Nergis Mavalvala Detected the First Gravitational Wave. Her Work Doesn’t Stop There](https://www.wired.com/story/women-in-science-nergis-mavalvala/)<!-- TECH:END -->
+ - [We asked ChatGPT to make an Android phone more Android, and more Android, and…](https://www.androidauthority.com/chatgpt-dall-e-more-android-3390491/)
+ - [‘Authentic’ Is 2023’s Word of the Year. You Read That Right](https://www.wired.com/authentc-word-of-the-year-artificial-intelligence-pop-culture-politics/)
+ - [How to Deter Thieves and Improve Your Smart Home Security](https://www.wired.com/story/smart-home-security-tips/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
