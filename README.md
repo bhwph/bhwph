@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nightingale, the neo-Victorian survival game being made by former BioWare devs, is taking signups for a server stress test](https://www.pcgamer.com/nightingale-the-neo-victorian-survival-game-being-made-by-former-bioware-devs-is-taking-signups-for-a-server-stress-test)
- - [Tears Of The Kingdom&#39;s Furniture Is Surprisingly Well-Made, Expert Says](https://kotaku.com/zelda-tears-of-the-kingdom-totk-wood-furniture-1851066511)
- - [Call Of Duty Is Killing Its Best Mode](https://kotaku.com/call-of-duty-dmz-beta-warzone-dead-activision-1851066541)<!-- GAME:END -->
+ - [Zelda: Tears of the Kingdom player remakes an entire Godzilla movie in the game](https://www.polygon.com/legend-zelda-tears-kingdom/23984473/zelda-totk-tears-of-the-kingdom-godzilla-movie)
+ - [How The KotOR Remake Can Revive The Best Star Wars Game Ever](https://kotaku.com/star-wars-knights-of-the-old-republic-kotor-bioware-1851067094)
+ - [Remedy teases an Alan Wake 2 New Game+ update in the most obvious way possible](https://www.pcgamer.com/remedy-teases-an-alan-wake-2-new-game-update-in-the-most-obvious-way-possible)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
