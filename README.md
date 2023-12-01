@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia is still committed to its stalwart RTX 3060, making the prospect of a truly budget Ada card ever more distant](https://www.pcgamer.com/nvidia-is-still-committed-to-its-stalwart-rtx-3060-making-the-prospect-of-a-truly-budget-ada-card-ever-more-distant)
- - [Pokémon Go Spotlight Hour schedule for December 2023](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)
- - [The Halo TV show is going free-to-play in hopes you’ll watch season 2](https://www.polygon.com/23984110/halo-tv-show-season-2-releaes-date-free-youtube)<!-- GAME:END -->
+ - [Lofi Girl now has chill beats to play chess to](https://www.polygon.com/23978495/lofi-girl-beats-to-play-chess-to)
+ - [How Jurassic World Evolution 2 Brings Four Cretaceous Predators To Life](https://news.xbox.com/en-us/2023/12/01/how-jurassic-world-evolution-2-brings-four-cretaceous-predators-to-life/)
+ - [Street Fighter 6 Players Drag Capcom For ‘Insane’ New Costume Prices](https://kotaku.com/street-fighter-6-outfit-3-skin-price-monetization-1851066046)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
