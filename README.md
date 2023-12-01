@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s and YouTube&#39;s use of celebrities&#39; likenesses for AI chatbots and songs raises tough questions about identity, IP, safeguards, and licensing &lpar;Alex Weprin/Hollywood Reporter&rpar;](http://www.techmeme.com/231201/p2#a231201p2)
- - [Qualcomm could stick with a trusted partner for Snapdragon 8 Gen 4](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-4-tsmc-samsung-3390475/)
- - [Telegram’s voice transcription feature is now available to everyone, but it’s not all good news.](https://www.androidauthority.com/telegram-update-voice-transcription-similar-channels-3390468/)<!-- TECH:END -->
+ - [UK has a rash of iPhone 15 Pro Max orders swapped for fakes during shipment](https://appleinsider.com/articles/23/12/01/uk-has-a-rash-of-iphone-15-pro-max-orders-swapped-for-fakes-during-shipment?utm_medium=rss)
+ - [Sources: Apple and Paramount have talked about offering a bundle of Apple TV+ and Paramount+ that would cost less than subscribing to both services separately &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/231201/p7#a231201p7)
+ - [Dr. Nergis Mavalvala Detected the First Gravitational Wave. Her Work Doesn’t Stop There](https://www.wired.com/story/women-in-science-nergis-mavalvala/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
