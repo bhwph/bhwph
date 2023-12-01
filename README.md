@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chrome and Chromium-based browser zero-day exploit that &#39;exists in the wild&#39; has been patched but an estimated 4 billion people may still be affected](https://www.pcgamer.com/chrome-and-chromium-based-browser-zero-day-exploit-that-exists-in-the-wild-has-been-patched-but-an-estimated-4-billion-people-may-still-be-affected)
- - [You think you have imposter syndrome: Nvidia CEO is worried his trillion dollar company might go bust overnight](https://www.pcgamer.com/you-think-you-have-imposter-syndrome-nvidia-ceo-is-worried-his-trillion-dollar-company-might-go-bust-overnight)
- - [You&#39;re fine to load up your dusty old save for Baldur&#39;s Gate 3&#39;s new epilogue, especially if you quicksave as much as I do](https://www.pcgamer.com/youre-fine-to-load-up-your-dusty-old-save-for-baldurs-gate-3s-new-epilogue-especially-if-you-quicksave-as-much-as-i-do)<!-- GAME:END -->
+ - [Grand Theft Auto VI Trailer Drops December 5](https://kotaku.com/grand-theft-auto-6-gta-vi-trailer-release-date-1851064985)
+ - [Now that the sex update is real, Cult of the Lamb turns to Pokemon and The Sims for inspiration](https://www.pcgamer.com/now-that-the-sex-update-is-real-cult-of-the-lamb-turns-to-pokemon-and-the-sims-for-inspiration)
+ - [Maestro captures Bradley Cooper’s struggle to define what he really wants to be](https://www.polygon.com/reviews/23983210/maestro-review-netflix-bradley-cooper)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
