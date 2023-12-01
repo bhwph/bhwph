@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dungeons &amp; Dragons Is a Household Name Again](https://www.wired.com/2023/12/geeks-guide-dnd-household-name/)
- - [This M3 Max MacBook Pro 14-inch with 96GB RAM is down to $3,749, plus $50 off AppleCare](https://appleinsider.com/articles/23/12/01/this-m3-max-macbook-pro-14-inch-with-96gb-ram-is-down-to-3749?utm_medium=rss)
- - [Best Internet Providers in Sioux Falls, South Dakota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-sioux-falls-sd/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google reaches a $27M settlement with employees who accused the company of unfair labor practices in a 2016 lawsuit following the termination of a Nest staffer &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231201/p19#a231201p19)
+ - [Bluesky rolls out &quot;more advanced&quot; automated moderation tools, along with moderation lists, which let users mute or block many users at once, user lists, more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231201/p18#a231201p18)
+ - [OpenAI’s GPT store delayed to next year](https://www.theverge.com/2023/12/1/23984497/openai-gpt-store-delayed-ai-gpt)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
