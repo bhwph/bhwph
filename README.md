@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram’s voice transcription feature is now available to everyone, but it’s not all good news.](https://www.androidauthority.com/telegram-update-voice-transcription-similar-channels-3390468/)
- - [Galaxy S24 series passes through FCC, putting an end to chipset confusion](https://www.androidauthority.com/samsung-galaxy-s24-s24-plus-snapdragon-power-3390447/)
- - [You all need to update your iPhones and Macs, like right away](https://www.androidauthority.com/apple-ios-17-1-2-security-fix-3390462/)<!-- TECH:END -->
+ - [Meta&#39;s and YouTube&#39;s use of celebrities&#39; likenesses for AI chatbots and songs raises tough questions about identity, IP, safeguards, and licensing &lpar;Alex Weprin/Hollywood Reporter&rpar;](http://www.techmeme.com/231201/p2#a231201p2)
+ - [Qualcomm could stick with a trusted partner for Snapdragon 8 Gen 4](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-4-tsmc-samsung-3390475/)
+ - [Telegram’s voice transcription feature is now available to everyone, but it’s not all good news.](https://www.androidauthority.com/telegram-update-voice-transcription-similar-channels-3390468/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
