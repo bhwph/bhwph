@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)
- - 😝 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)
- - 👉 [Indiana Souf](http://9gag.com/gag/a6qRng9)<!-- MEMES:END -->
+ - 6️⃣ [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)
+ - 😝 [Knock knock](http://9gag.com/gag/amAZx0o)
+ - 👉 [He will treat her like a queen](http://9gag.com/gag/a5XYBwV)<!-- MEMES:END -->
 
 --- 
 
