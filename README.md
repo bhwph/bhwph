@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)
- - 😝 [Knock knock](http://9gag.com/gag/amAZx0o)
- - 👉 [He will treat her like a queen](http://9gag.com/gag/a5XYBwV)<!-- MEMES:END -->
+ - 6️⃣ [Behind the scene](http://9gag.com/gag/aQEjZxe)
+ - 😝 [Mind your business?](http://9gag.com/gag/aOxWZLR)
+ - 👉 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)<!-- MEMES:END -->
 
 --- 
 
