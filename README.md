@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google asks the UK CMA to take action against Microsoft, claiming the company&#39;s licensing practices unfairly discouraged customers from using rivals&#39; services &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231130/p47#a231130p47)
- - [Repeat rumor claims iPhone 16 models to have Action button with force sensor](https://appleinsider.com/articles/23/12/01/repeat-rumor-claims-iphone-16-models-to-have-action-button-with-force-sensor?utm_medium=rss)
- - [On-chain data and sources: Polygon gave DraftKings millions of MATIC to run a validator; the validator underperformed, and DraftKings was kicked off the network &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/231130/p46#a231130p46)<!-- TECH:END -->
+ - [Meta Chief AI Scientist Yann LeCun says &quot;there is really no commercial downside&quot; to sharing Meta&#39;s AI tech openly, even as many peers take the opposite approach &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/231130/p49#a231130p49)
+ - [Nenotoh Switch Controller review: Impressive controller at an excellent price](https://appleinsider.com/articles/23/12/01/nenotoh-switch-controller-review-impressive-controller-at-an-excellent-price?utm_medium=rss)
+ - [Kodak PIXPRO Digital Camera     - CNET](https://www.cnet.com/tech/computing/kodak-pixpro-digital-camera-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
