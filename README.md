@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 😝 [Bobr is famous](http://9gag.com/gag/aeQBVmW)
- - 👉 [All rational people are with you ireland](http://9gag.com/gag/aBdePAx)<!-- MEMES:END -->
+ - 6️⃣ [I knew it would come to this sooner or later.](http://9gag.com/gag/a9qG5rm)
+ - 😝 [Mind your business?](http://9gag.com/gag/aOxWZLR)
+ - 👉 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)<!-- MEMES:END -->
 
 --- 
 
