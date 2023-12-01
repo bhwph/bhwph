@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grand Theft Auto VI Trailer Drops December 5](https://kotaku.com/grand-theft-auto-6-gta-vi-trailer-release-date-1851064985)
- - [Now that the sex update is real, Cult of the Lamb turns to Pokemon and The Sims for inspiration](https://www.pcgamer.com/now-that-the-sex-update-is-real-cult-of-the-lamb-turns-to-pokemon-and-the-sims-for-inspiration)
- - [Maestro captures Bradley Cooper’s struggle to define what he really wants to be](https://www.polygon.com/reviews/23983210/maestro-review-netflix-bradley-cooper)<!-- GAME:END -->
+ - [Nvidia is still committed to its stalwart RTX 3060, making the prospect of a truly budget Ada card ever more distant](https://www.pcgamer.com/nvidia-is-still-committed-to-its-stalwart-rtx-3060-making-the-prospect-of-a-truly-budget-ada-card-ever-more-distant)
+ - [Pokémon Go Spotlight Hour schedule for December 2023](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)
+ - [The Halo TV show is going free-to-play in hopes you’ll watch season 2](https://www.polygon.com/23984110/halo-tv-show-season-2-releaes-date-free-youtube)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
