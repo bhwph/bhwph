@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lofi Girl now has chill beats to play chess to](https://www.polygon.com/23978495/lofi-girl-beats-to-play-chess-to)
- - [How Jurassic World Evolution 2 Brings Four Cretaceous Predators To Life](https://news.xbox.com/en-us/2023/12/01/how-jurassic-world-evolution-2-brings-four-cretaceous-predators-to-life/)
- - [Street Fighter 6 Players Drag Capcom For ‘Insane’ New Costume Prices](https://kotaku.com/street-fighter-6-outfit-3-skin-price-monetization-1851066046)<!-- GAME:END -->
+ - [Nightingale, the neo-Victorian survival game being made by former BioWare devs, is taking signups for a server stress test](https://www.pcgamer.com/nightingale-the-neo-victorian-survival-game-being-made-by-former-bioware-devs-is-taking-signups-for-a-server-stress-test)
+ - [Tears Of The Kingdom&#39;s Furniture Is Surprisingly Well-Made, Expert Says](https://kotaku.com/zelda-tears-of-the-kingdom-totk-wood-furniture-1851066511)
+ - [Call Of Duty Is Killing Its Best Mode](https://kotaku.com/call-of-duty-dmz-beta-warzone-dead-activision-1851066541)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
