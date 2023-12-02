@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My fellow otaku..](http://9gag.com/gag/aVb6VOO)
- - 😝 [Behind the scene](http://9gag.com/gag/aQEjZxe)
- - 👉 [Knock knock](http://9gag.com/gag/amAZx0o)<!-- MEMES:END -->
+ - 6️⃣ [The chosen one](http://9gag.com/gag/aYV01Rq)
+ - 😝 [That f*ckg voice!](http://9gag.com/gag/aMELOWW)
+ - 👉 [Happy Birthday Romania!](http://9gag.com/gag/aOxW16v)<!-- MEMES:END -->
 
 --- 
 
