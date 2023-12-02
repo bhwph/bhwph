@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deckbuilder fans owe themselves some time with the brilliant Cobalt Core](https://www.pcgamer.com/deckbuilder-fans-owe-themselves-some-time-with-the-brilliant-cobalt-core)
- - [What time does Fortnite’s live event ‘The Big Bang’ start?](https://www.polygon.com/fortnite-guide/23982350/live-event-the-big-bang-start-time-release-begin-time-zone)
- - [House of the Dragon season 2 has the Targaryens preparing for an all-out civil war](https://www.polygon.com/23984835/house-dragon-season-2-trailer-cast-news-game-thrones-hbo)<!-- GAME:END -->
+ - [Gatekeeper is like an isometric Risk of Rain 2, so go ahead and try the free prologue](https://www.pcgamer.com/gatekeeper-is-like-an-isometric-risk-of-rain-2-so-go-ahead-and-try-the-free-prologue)
+ - [It looks like Baldur&#39;s Gate 3&#39;s composer just got a cheeky in-game cameo as the god of music](https://www.pcgamer.com/it-looks-like-baldurs-gate-3s-composer-just-got-a-cheeky-in-game-cameo-as-the-god-of-music)
+ - [Deckbuilder fans owe themselves some time with the brilliant Cobalt Core](https://www.pcgamer.com/deckbuilder-fans-owe-themselves-some-time-with-the-brilliant-cobalt-core)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
