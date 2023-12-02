@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A bride-to-be discovers a reality-bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography?utm_medium=rss)
- - [Android Apps Weekly: Google rolls out Android 14 feature drop, and more](https://www.androidauthority.com/android-apps-weekly-512-3390692/)
- - [How to manage notifications in iOS 17 and iPadOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-manage-notifications-in-ios-17-and-ipados-17?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Bending Spoons, which acquired Filmic in September 2022, laid off the entire team at the maker of photo and video apps, including its founder and CEO &lpar;Jaron Schneider/PetaPixel&rpar;](http://www.techmeme.com/231202/p10#a231202p10)
+ - [Daily deals Dec. 2: iPhones from $114, M2 MacBook Air $949, Asus ROG Ally $399, more](https://appleinsider.com/articles/23/12/02/daily-deals-dec-2-iphones-from-114-m2-macbook-air-949-asus-rog-ally-399-more?utm_medium=rss)
+ - [How to master the camera app on iPhone 15 Pro &amp; iPhone 15 Pro Max](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-master-the-camera-app-on-iphone-15-pro-iphone-15-pro-max?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
