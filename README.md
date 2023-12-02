@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
- - 😝 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
+ - 6️⃣ [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)
+ - 😝 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)
  - 👉 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)<!-- MEMES:END -->
 
 --- 
