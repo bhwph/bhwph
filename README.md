@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Bending Spoons, which acquired Filmic in September 2022, laid off the entire team at the maker of photo and video apps, including its founder and CEO &lpar;Jaron Schneider/PetaPixel&rpar;](http://www.techmeme.com/231202/p10#a231202p10)
- - [Daily deals Dec. 2: iPhones from $114, M2 MacBook Air $949, Asus ROG Ally $399, more](https://appleinsider.com/articles/23/12/02/daily-deals-dec-2-iphones-from-114-m2-macbook-air-949-asus-rog-ally-399-more?utm_medium=rss)
- - [How to master the camera app on iPhone 15 Pro &amp; iPhone 15 Pro Max](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-master-the-camera-app-on-iphone-15-pro-iphone-15-pro-max?utm_medium=rss)<!-- TECH:END -->
+ - [Fortnite’s Eminem concert teased the future of the game](https://www.theverge.com/2023/12/2/23978521/fortnite-the-big-bang-eminem-chapter-5)
+ - [Fortnite and Lego join forces for ‘survival crafting’ game](https://www.theverge.com/2023/12/2/23983057/lego-fortnite-release-date-survival-crafting)
+ - [Sources: Google delayed the public launch of Gemini from next week to January 2024, after finding that the LLM didn&#39;t reliably handle some non-English queries &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231202/p11#a231202p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
