@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Knowledge is power](http://9gag.com/gag/armLB7X)
- - 😝 [What can it be?](http://9gag.com/gag/a3ZObW1)
- - 👉 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)<!-- MEMES:END -->
+ - 6️⃣ [My fellow otaku..](http://9gag.com/gag/aVb6VOO)
+ - 😝 [Behind the scene](http://9gag.com/gag/aQEjZxe)
+ - 👉 [Knock knock](http://9gag.com/gag/amAZx0o)<!-- MEMES:END -->
 
 --- 
 
