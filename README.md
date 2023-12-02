@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies new to streaming this December](https://www.polygon.com/what-to-watch/2023/12/2/23977919/best-new-movies-netflix-amazon-prime-max-hulu-december-2023)
- - [The Week&#39;s Biggest Gaming News, From The Fallout TV Show To The Game Awards](https://kotaku.com/video-game-news-this-week-fallout-tv-game-awards-gta-1851065729)
- - [Wordle today: Hint and answer #896 for Saturday, December 2](https://www.pcgamer.com/wordle-today-answer-896-december-2)<!-- GAME:END -->
+ - [Like the best Christmas movies, Candy Cane Lane goes full-throttle on the weirdness](https://www.polygon.com/23984652/candy-cane-lane-weird-christmas-movie-eddie-murphy)
+ - [There are still plenty of leftover Black Friday gaming deals, turns out](https://www.polygon.com/deals/23984005/best-gaming-deals-xbox-series-x-rog-ally-game-pass)
+ - [The Week&#39;s Best Game Tips and Deals, From Baldur&#39;s Gate 3 to Assassin&#39;s Creed](https://kotaku.com/video-game-tips-deals-baldurs-gate-3-assassins-creed-1851065730)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
