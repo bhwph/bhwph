@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Behind the scene](http://9gag.com/gag/aQEjZxe)
- - 😝 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
- - 👉 [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)<!-- MEMES:END -->
+ - 6️⃣ [Knowledge is power](http://9gag.com/gag/armLB7X)
+ - 😝 [What can it be?](http://9gag.com/gag/a3ZObW1)
+ - 👉 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)<!-- MEMES:END -->
 
 --- 
 
