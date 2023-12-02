@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Guillaume Verdon, founder of stealth AI startup Extropic who is behind the @BasedBeffJezos persona at the center of effective accelerationism &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/231201/p27#a231201p27)
- - [Best Mac Studio Deals: Top Discounts on Apple&#39;s Powerful Compact Desktop     - CNET](https://www.cnet.com/deals/best-mac-studio-deals/#ftag=CAD590a51e)
- - [Internal documents: Amazon&#39;s AI chatbot Q, out in preview, experiences &quot;severe hallucinations&quot; and leaks &quot;confidential data&quot; like AWS data center locations &lpar;Platformer&rpar;](http://www.techmeme.com/231201/p26#a231201p26)<!-- TECH:END -->
+ - [The judge overseeing Epic v. Google vows to investigate Google for systemically suppressing evidence by deleting internal chats, including those by Pichai &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/231202/p3#a231202p3)
+ - [Sources: EU lawmakers can&#39;t agree on how to regulate systems like ChatGPT, with foundation models becoming the main hurdle in talks over the proposed AI Act &lpar;Reuters&rpar;](http://www.techmeme.com/231202/p2#a231202p2)
+ - [The US, UK, and Australia plan to test a new way to track Chinese submarines using AI to rapidly process sonar data, as part of the AUKUS security alliance &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/231202/p1#a231202p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
