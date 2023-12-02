@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The chosen one](http://9gag.com/gag/aYV01Rq)
- - 😝 [That f*ckg voice!](http://9gag.com/gag/aMELOWW)
- - 👉 [Happy Birthday Romania!](http://9gag.com/gag/aOxW16v)<!-- MEMES:END -->
+ - 6️⃣ [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
+ - 😝 [Close-up of the rare Golden Langur. Researchers have said that this species works hard to avoid human interaction.](http://9gag.com/gag/adPze4D)
+ - 👉 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)<!-- MEMES:END -->
 
 --- 
 
