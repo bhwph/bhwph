@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
- - 😝 [Close-up of the rare Golden Langur. Researchers have said that this species works hard to avoid human interaction.](http://9gag.com/gag/adPze4D)
+ - 6️⃣ [Knock knock](http://9gag.com/gag/amAZx0o)
+ - 😝 [What can it be?](http://9gag.com/gag/a3ZObW1)
  - 👉 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)<!-- MEMES:END -->
 
 --- 
