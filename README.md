@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Was Bobi the World’s Oldest Dog—or a Fraud?](https://www.wired.com/story/bobi-worlds-oldest-dog-fraud/)
- - [Ozempic Could Also Help You Drink Less Alcohol](https://www.wired.com/story/ozempic-alcohol-drink-less/)
- - [Withings ScanWatch 2 Review: Attractive Smartwatch Hybrid, Pricey Subscription](https://www.wired.com/review/withings-scanwatch-2/)<!-- TECH:END -->
+ - [ChatGPT Spit Out Sensitive Data When Told to Repeat ‘Poem’ Forever](https://www.wired.com/story/chatgpt-poem-forever-security-roundup/)
+ - [Best Ebook Subscription and Audiobook Services &lpar;2023&rpar;](https://www.wired.com/gallery/best-ebook-subscription-services/)
+ - [The Ember Tumbler is a cool, high-tech travel mug — but it can’t handle the heat](https://www.theverge.com/23983931/ember-tumbler-travel-mug-review-coffee-tea)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
