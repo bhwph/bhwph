@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon season 2 has the Targaryens preparing for an all-out civil war](https://www.polygon.com/23984835/house-dragon-season-2-trailer-cast-news-game-thrones-hbo)
- - [Rick and Morty opened a portal to the multiverse and the rest of pop culture jumped through](https://www.polygon.com/23983297/rick-morty-10th-anniversary-mcu-multiverse)
- - [The Boys season 4 will not make you feel better about the state of democracy](https://www.polygon.com/23984773/the-boys-season-4-trailer-2024-prime-video-release)<!-- GAME:END -->
+ - [Deckbuilder fans owe themselves some time with the brilliant Cobalt Core](https://www.pcgamer.com/deckbuilder-fans-owe-themselves-some-time-with-the-brilliant-cobalt-core)
+ - [What time does Fortnite’s live event ‘The Big Bang’ start?](https://www.polygon.com/fortnite-guide/23982350/live-event-the-big-bang-start-time-release-begin-time-zone)
+ - [House of the Dragon season 2 has the Targaryens preparing for an all-out civil war](https://www.polygon.com/23984835/house-dragon-season-2-trailer-cast-news-game-thrones-hbo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
