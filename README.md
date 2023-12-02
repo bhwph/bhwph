@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)
- - 😝 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)
- - 👉 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)<!-- MEMES:END -->
+ - 6️⃣ [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
+ - 😝 [Find her and press charges](http://9gag.com/gag/awZpYEQ)
+ - 👉 [Fail](http://9gag.com/gag/avQjvon)<!-- MEMES:END -->
 
 --- 
 
