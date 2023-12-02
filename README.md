@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Knock knock](http://9gag.com/gag/amAZx0o)
- - 😝 [What can it be?](http://9gag.com/gag/a3ZObW1)
- - 👉 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)<!-- MEMES:END -->
+ - 6️⃣ [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)
+ - 😝 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
+ - 👉 [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)<!-- MEMES:END -->
 
 --- 
 
