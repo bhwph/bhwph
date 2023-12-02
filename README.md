@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal documents: Amazon&#39;s AI chatbot Q, out in preview, experiences &quot;severe hallucinations&quot; and leaks &quot;confidential data&quot; like AWS data center locations &lpar;Platformer&rpar;](http://www.techmeme.com/231201/p26#a231201p26)
- - [Meta announces Seamless Communication, a suite of AI translation models that aim to enable more natural and authentic communication across languages &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/231201/p25#a231201p25)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [An interview with Guillaume Verdon, founder of stealth AI startup Extropic who is behind the @BasedBeffJezos persona at the center of effective accelerationism &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/231201/p27#a231201p27)
+ - [Best Mac Studio Deals: Top Discounts on Apple&#39;s Powerful Compact Desktop     - CNET](https://www.cnet.com/deals/best-mac-studio-deals/#ftag=CAD590a51e)
+ - [Internal documents: Amazon&#39;s AI chatbot Q, out in preview, experiences &quot;severe hallucinations&quot; and leaks &quot;confidential data&quot; like AWS data center locations &lpar;Platformer&rpar;](http://www.techmeme.com/231201/p26#a231201p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
