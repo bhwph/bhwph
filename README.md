@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #896 for Saturday, December 2](https://www.pcgamer.com/wordle-today-answer-896-december-2)
- - [It&#39;s the perfect weekend to try co-op survival game Icarus, because it&#39;s free on Steam](https://www.pcgamer.com/its-the-perfect-weekend-to-try-co-op-survival-game-icarus-because-its-totally-free)
- - [Is Neopets making a comeback? How its new owners plan to revive a &#39;living relic&#39;](https://www.pcgamer.com/is-neopets-making-a-comeback-how-its-new-owners-plan-to-revive-a-living-relic)<!-- GAME:END -->
+ - [The best movies new to streaming this December](https://www.polygon.com/what-to-watch/2023/12/2/23977919/best-new-movies-netflix-amazon-prime-max-hulu-december-2023)
+ - [The Week&#39;s Biggest Gaming News, From The Fallout TV Show To The Game Awards](https://kotaku.com/video-game-news-this-week-fallout-tv-game-awards-gta-1851065729)
+ - [Wordle today: Hint and answer #896 for Saturday, December 2](https://www.pcgamer.com/wordle-today-answer-896-december-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
