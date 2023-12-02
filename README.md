@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX will take some Amazon satellites to space](https://www.theverge.com/2023/12/1/23984684/spacex-amazon-project-kuiper-satellites-space)
- - [Best Buy slashes M2 MacBook Air prices to as low as $899 today only](https://appleinsider.com/articles/23/12/01/best-buy-slashes-m2-macbook-air-prices-to-as-low-as-899-today-only?utm_medium=rss)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [Meta announces Seamless Communication, a suite of AI translation models that aim to enable more natural and authentic communication across languages &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/231201/p25#a231201p25)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Federal judge vows to investigate Google for intentionally destroying chats](https://www.theverge.com/2023/12/1/23984902/judge-james-donato-investigate-google)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
