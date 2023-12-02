@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite’s Eminem concert teased the future of the game](https://www.theverge.com/2023/12/2/23978521/fortnite-the-big-bang-eminem-chapter-5)
- - [Fortnite and Lego join forces for ‘survival crafting’ game](https://www.theverge.com/2023/12/2/23983057/lego-fortnite-release-date-survival-crafting)
- - [Sources: Google delayed the public launch of Gemini from next week to January 2024, after finding that the LLM didn&#39;t reliably handle some non-English queries &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231202/p11#a231202p11)<!-- TECH:END -->
+ - [The second ‘Halo’ season has a release date and a teaser trailer](https://www.theverge.com/2023/12/2/23985650/halo-season-two-streaming-paramount-plus-master-chief-spartan)
+ - [How a California college is employing data collection tools to track students&#39; daily movements, including e-proctoring software and license plate readers &lpar;Tara Garc&amp;iacute;a Mathewson/The Markup&rpar;](http://www.techmeme.com/231202/p13#a231202p13)
+ - [Best Garmin Deals: Snag Discounted Garmin Wearables, Sporting Equipment and More     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
