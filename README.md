@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Like the best Christmas movies, Candy Cane Lane goes full-throttle on the weirdness](https://www.polygon.com/23984652/candy-cane-lane-weird-christmas-movie-eddie-murphy)
- - [There are still plenty of leftover Black Friday gaming deals, turns out](https://www.polygon.com/deals/23984005/best-gaming-deals-xbox-series-x-rog-ally-game-pass)
- - [The Week&#39;s Best Game Tips and Deals, From Baldur&#39;s Gate 3 to Assassin&#39;s Creed](https://kotaku.com/video-game-tips-deals-baldurs-gate-3-assassins-creed-1851065730)<!-- GAME:END -->
+ - [House of the Dragon season 2 has the Targaryens preparing for an all-out civil war](https://www.polygon.com/23984835/house-dragon-season-2-trailer-cast-news-game-thrones-hbo)
+ - [Rick and Morty opened a portal to the multiverse and the rest of pop culture jumped through](https://www.polygon.com/23983297/rick-morty-10th-anniversary-mcu-multiverse)
+ - [The Boys season 4 will not make you feel better about the state of democracy](https://www.polygon.com/23984773/the-boys-season-4-trailer-2024-prime-video-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
