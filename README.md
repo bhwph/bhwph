@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Tears of the Kingdom player remakes an entire Godzilla movie in the game](https://www.polygon.com/legend-zelda-tears-kingdom/23984473/zelda-totk-tears-of-the-kingdom-godzilla-movie)
- - [How The KotOR Remake Can Revive The Best Star Wars Game Ever](https://kotaku.com/star-wars-knights-of-the-old-republic-kotor-bioware-1851067094)
- - [Remedy teases an Alan Wake 2 New Game+ update in the most obvious way possible](https://www.pcgamer.com/remedy-teases-an-alan-wake-2-new-game-update-in-the-most-obvious-way-possible)<!-- GAME:END -->
+ - [It&#39;s the perfect weekend to try co-op survival game Icarus, because it&#39;s totally free](https://www.pcgamer.com/its-the-perfect-weekend-to-try-co-op-survival-game-icarus-because-its-totally-free)
+ - [Is Neopets making a comeback? How its new owners plan to revive a &#39;living relic&#39;](https://www.pcgamer.com/is-neopets-making-a-comeback-how-its-new-owners-plan-to-revive-a-living-relic)
+ - [Path of Exile stream reveals some of the biggest balance changes ever and teases a new class for its sequel](https://www.pcgamer.com/path-of-exile-stream-reveals-some-of-the-biggest-balance-changes-ever-and-teases-a-new-class-for-its-sequel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
