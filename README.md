@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT Spit Out Sensitive Data When Told to Repeat ‘Poem’ Forever](https://www.wired.com/story/chatgpt-poem-forever-security-roundup/)
- - [Best Ebook Subscription and Audiobook Services &lpar;2023&rpar;](https://www.wired.com/gallery/best-ebook-subscription-services/)
- - [The Ember Tumbler is a cool, high-tech travel mug — but it can’t handle the heat](https://www.theverge.com/23983931/ember-tumbler-travel-mug-review-coffee-tea)<!-- TECH:END -->
+ - [A bride-to-be discovers a reality-bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography?utm_medium=rss)
+ - [Android Apps Weekly: Google rolls out Android 14 feature drop, and more](https://www.androidauthority.com/android-apps-weekly-512-3390692/)
+ - [How to manage notifications in iOS 17 and iPadOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-manage-notifications-in-ios-17-and-ipados-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
