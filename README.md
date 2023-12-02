@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
- - 😝 [That kid needs some slapping](http://9gag.com/gag/a8qgzp3)
- - 👉 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)<!-- MEMES:END -->
+ - 6️⃣ [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
+ - 😝 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
+ - 👉 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)<!-- MEMES:END -->
 
 --- 
 
