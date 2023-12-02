@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
- - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
- - 👉 [Wow](http://9gag.com/gag/aqeExNv)<!-- MEMES:END -->
+ - 6️⃣ [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
+ - 😝 [He&#39;s right you know...](http://9gag.com/gag/aNwbRew)
+ - 👉 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)<!-- MEMES:END -->
 
 --- 
 
