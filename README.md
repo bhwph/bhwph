@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
- - 😝 [Anger Management](http://9gag.com/gag/a9qGNyL)
+ - 6️⃣ [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)
+ - 😝 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
  - 👉 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)<!-- MEMES:END -->
 
 --- 
