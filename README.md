@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anger Management](http://9gag.com/gag/a9qGNyL)
- - 😝 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
- - 👉 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)<!-- MEMES:END -->
+ - 6️⃣ [*Lol :D](http://9gag.com/gag/a043xrB)
+ - 😝 [He made a day of the whole store](http://9gag.com/gag/a5XYxBO)
+ - 👉 [Mega based](http://9gag.com/gag/aEq4QYG)<!-- MEMES:END -->
 
 --- 
 
