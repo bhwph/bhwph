@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Emerald Fennell explains why Saltburn’s ending had to be so… naked](https://www.polygon.com/23984716/saltburn-ending-explained-barry-keoghan-full-frontal-nudity)
  - [Dickens’ A Christmas Carol has a Metroidvania sequel in big year for Christmas games](https://www.polygon.com/gaming/23978378/christmas-games-2023-ebenezer-christmas-carol-game)
- - [The best gaming gifts for racing sim fans](https://www.polygon.com/23978539/car-gaming-chair-cockpit-setup-racing-f1-pc-gifts)
- - [The 6 best Korean dramas to stream on Netflix this winter](https://www.polygon.com/what-to-watch/2023/12/3/23982484/best-korean-dramas-netflix-watch-winter-2023-2024)<!-- GAME:END -->
+ - [The best gaming gifts for racing sim fans](https://www.polygon.com/23978539/car-gaming-chair-cockpit-setup-racing-f1-pc-gifts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
