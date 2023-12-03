@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&#39;s Everything to Know About Taylor Swift&#39;s Eras Tour Concert Film     - CNET](https://www.cnet.com/culture/entertainment/heres-everything-to-know-about-taylor-swifts-eras-tour-concert-film/#ftag=CAD590a51e)
- - [Here&#39;s What Happens if You Don&#39;t Pay Your Student Loans     - CNET](https://www.cnet.com/personal-finance/loans/heres-what-happens-if-you-dont-pay-your-student-loans/#ftag=CAD590a51e)
- - [The threat to Intel now comes from a whole ecosystem of companies, including nearly every tech giant, although the company is still a strong competitor &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/231203/p3#a231203p3)<!-- TECH:END -->
+ - [Researchers show AI misalignment in a GPT-4-based stock trading AI that engaged in insider trading in a simulated environment without being instructed to do so &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/231203/p4#a231203p4)
+ - [The Viral Baggu Crescent Bag Is Worth the TikTok Hype](https://www.wired.com/story/baggu-medium-nylon-crescent-bag-rave/)
+ - [Steam Deck SSD Upgrade: How to, Instructions, Parts, Photos](https://www.wired.com/story/how-to-install-ssd-steam-deck/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
