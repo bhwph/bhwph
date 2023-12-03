@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Playing some video game and chill...](http://9gag.com/gag/aA09Zy0)
- - 😝 [What opinion will you defend like this?](http://9gag.com/gag/aZDYz5n)
- - 👉 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)<!-- MEMES:END -->
+ - 6️⃣ [Delusional illusion](http://9gag.com/gag/armLze5)
+ - 😝 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
+ - 👉 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)<!-- MEMES:END -->
 
 --- 
 
