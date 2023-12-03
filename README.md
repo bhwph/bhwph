@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers show AI misalignment in a GPT-4-based stock trading AI that engaged in insider trading in a simulated environment without being instructed to do so &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/231203/p4#a231203p4)
- - [The Viral Baggu Crescent Bag Is Worth the TikTok Hype](https://www.wired.com/story/baggu-medium-nylon-crescent-bag-rave/)
- - [Steam Deck SSD Upgrade: How to, Instructions, Parts, Photos](https://www.wired.com/story/how-to-install-ssd-steam-deck/)<!-- TECH:END -->
+ - [5 Best Linux Laptops &lpar;2023&rpar;: Repairable, Budget, Powerful](https://www.wired.com/story/best-linux-laptops/)
+ - [Bending Spoons lays off entire team behind Filmic Pro](https://appleinsider.com/articles/23/12/03/bending-spoons-lays-off-entire-team-behind-filmic-pro?utm_medium=rss)
+ - [Premier League Soccer Livestream: How to Watch Man City vs. Spurs From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-man-city-vs-spurs-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
