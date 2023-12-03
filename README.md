@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gatekeeper is like an isometric Risk of Rain 2, so go ahead and try the free prologue](https://www.pcgamer.com/gatekeeper-is-like-an-isometric-risk-of-rain-2-so-go-ahead-and-try-the-free-prologue)
- - [It looks like Baldur&#39;s Gate 3&#39;s composer just got a cheeky in-game cameo as the god of music](https://www.pcgamer.com/it-looks-like-baldurs-gate-3s-composer-just-got-a-cheeky-in-game-cameo-as-the-god-of-music)
- - [Deckbuilder fans owe themselves some time with the brilliant Cobalt Core](https://www.pcgamer.com/deckbuilder-fans-owe-themselves-some-time-with-the-brilliant-cobalt-core)<!-- GAME:END -->
+ - [Be a frog, kill bugs, collect cool dice in the demo for dicebuilding roguelike Die in the Dungeon](https://www.pcgamer.com/be-a-frog-kill-bugs-collect-cool-dice-in-the-demo-for-dicebuilding-roguelike-die-in-the-dungeon)
+ - [The Halo show&#39;s second season is coming in February, and it&#39;s teasing an actual, you know, Halo](https://www.pcgamer.com/the-halo-shows-second-season-is-coming-in-february-and-its-teasing-an-actual-you-know-halo)
+ - [Stealth classic Thief: The Dark Project just got a 10-mission fan campaign called The Black Parade from a team led by an Arkane Lyon level designer](https://www.pcgamer.com/stealth-classic-thief-the-dark-project-just-got-a-10-mission-fan-campaign-called-the-black-parade-from-a-team-led-by-an-arkane-lyon-level-designer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
