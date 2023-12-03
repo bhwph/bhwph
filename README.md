@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)
- - 😝 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)
- - 👉 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)<!-- MEMES:END -->
+ - 6️⃣ [Anger Management](http://9gag.com/gag/a9qGNyL)
+ - 😝 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
+ - 👉 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)<!-- MEMES:END -->
 
 --- 
 
