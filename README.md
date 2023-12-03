@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Best Linux Laptops &lpar;2023&rpar;: Repairable, Budget, Powerful](https://www.wired.com/story/best-linux-laptops/)
- - [Bending Spoons lays off entire team behind Filmic Pro](https://appleinsider.com/articles/23/12/03/bending-spoons-lays-off-entire-team-behind-filmic-pro?utm_medium=rss)
- - [Premier League Soccer Livestream: How to Watch Man City vs. Spurs From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-man-city-vs-spurs-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bending Spoons laid off the entirety of Filmic](https://www.theverge.com/2023/12/3/23986187/filmic-staff-laid-off-bending-spoons)
+ - [Sonos plans wave of audio product launches for 2024](https://appleinsider.com/articles/23/12/03/sonos-plans-wave-of-audio-product-launches-for-2024?utm_medium=rss)
+ - [Daily deals Dec. 3: Apple Watch Series 7 from $219, HomePod mini for $69, Ninja Air Fryer for $99, more](https://appleinsider.com/articles/23/12/03/daily-deals-dec-3-apple-watch-series-7-from-219-homepod-mini-for-69-ninja-air-fryer-for-99-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
