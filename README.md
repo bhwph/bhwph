@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
- - 😝 [Im a gemini](http://9gag.com/gag/aXnOdez)
- - 👉 [Peter Lammer is chef in a restaurant in Germany. He was involved in a motorcycle accident and, after rehabilitation, doctors advised him to retire. Together with his friends, he came up with this effective mobile seat.](http://9gag.com/gag/aYV0dvw)<!-- MEMES:END -->
+ - 😝 [Peter Lammer is chef in a restaurant in Germany. He was involved in a motorcycle accident and, after rehabilitation, doctors advised him to retire. Together with his friends, he came up with this effective mobile seat.](http://9gag.com/gag/aYV0dvw)
+ - 👉 [Im a gemini](http://9gag.com/gag/aXnOdez)<!-- MEMES:END -->
 
 --- 
 
