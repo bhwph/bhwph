@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)
- - 😝 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
- - 👉 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)<!-- MEMES:END -->
+ - 6️⃣ [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)
+ - 😝 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)
+ - 👉 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)<!-- MEMES:END -->
 
 --- 
 
