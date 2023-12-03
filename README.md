@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [*Lol :D](http://9gag.com/gag/a043xrB)
- - 😝 [He made a day of the whole store](http://9gag.com/gag/a5XYxBO)
- - 👉 [Mega based](http://9gag.com/gag/aEq4QYG)<!-- MEMES:END -->
+ - 6️⃣ [Playing some video game and chill...](http://9gag.com/gag/aA09Zy0)
+ - 😝 [What opinion will you defend like this?](http://9gag.com/gag/aZDYz5n)
+ - 👉 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)<!-- MEMES:END -->
 
 --- 
 
