@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #897 for Sunday, December 3](https://www.pcgamer.com/wordle-today-answer-897-december-3)
- - [Be a frog, kill bugs, collect cool dice in the demo for dicebuilding roguelike Die in the Dungeon](https://www.pcgamer.com/be-a-frog-kill-bugs-collect-cool-dice-in-the-demo-for-dicebuilding-roguelike-die-in-the-dungeon)
- - [The Halo show&#39;s second season is coming in February, and it&#39;s teasing an actual, you know, Halo](https://www.pcgamer.com/the-halo-shows-second-season-is-coming-in-february-and-its-teasing-an-actual-you-know-halo)<!-- GAME:END -->
+ - [The 6 best Korean dramas to stream on Netflix this winter](https://www.polygon.com/what-to-watch/2023/12/3/23982484/best-korean-dramas-netflix-watch-winter-2023-2024)
+ - [The Week&#39;s Hottest Gaming Takes, From GTA 6 To Starfield](https://kotaku.com/video-game-opinion-gta-6-starfield-gamestop-bg3-1851065731)
+ - [What time does the GTA 6 trailer release?](https://www.polygon.com/gta-6-guide/23983993/grand-theft-auto-6-trailer-release-time-date-when-coming-out-9-am-et)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
