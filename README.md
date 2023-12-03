@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The second ‘Halo’ season has a release date and a teaser trailer](https://www.theverge.com/2023/12/2/23985650/halo-season-two-streaming-paramount-plus-master-chief-spartan)
- - [How a California college is employing data collection tools to track students&#39; daily movements, including e-proctoring software and license plate readers &lpar;Tara Garc&amp;iacute;a Mathewson/The Markup&rpar;](http://www.techmeme.com/231202/p13#a231202p13)
- - [Best Garmin Deals: Snag Discounted Garmin Wearables, Sporting Equipment and More     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Zoom app for Apple TV surfaces in the App Store](https://appleinsider.com/articles/23/12/02/zoom-app-for-apple-tv-surfaces-in-the-app-store?utm_medium=rss)
+ - [Global smartwatch shipments grew 9% YoY in Q3 2023: Apple had its best-ever Q3 performance with shipments up 7% YoY, Huawei grew 56%, and Samsung fell 19% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/231202/p14#a231202p14)
+ - [Boox Palma review: a pint-sized e-ink reader made to go wherever you do](https://appleinsider.com/articles/23/12/02/boox-palma-review-a-pint-sized-e-ink-reader-made-to-go-wherever-you-do?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
