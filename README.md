@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 6 best Korean dramas to stream on Netflix this winter](https://www.polygon.com/what-to-watch/2023/12/3/23982484/best-korean-dramas-netflix-watch-winter-2023-2024)
- - [The Week&#39;s Hottest Gaming Takes, From GTA 6 To Starfield](https://kotaku.com/video-game-opinion-gta-6-starfield-gamestop-bg3-1851065731)
- - [What time does the GTA 6 trailer release?](https://www.polygon.com/gta-6-guide/23983993/grand-theft-auto-6-trailer-release-time-date-when-coming-out-9-am-et)<!-- GAME:END -->
+ - [Dickens’ A Christmas Carol has a Metroidvania sequel in big year for Christmas games](https://www.polygon.com/gaming/23978378/christmas-games-2023-ebenezer-christmas-carol-game)
+ - [The best gaming gifts for racing sim fans](https://www.polygon.com/23978539/car-gaming-chair-cockpit-setup-racing-f1-pc-gifts)
+ - [The 6 best Korean dramas to stream on Netflix this winter](https://www.polygon.com/what-to-watch/2023/12/3/23982484/best-korean-dramas-netflix-watch-winter-2023-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
