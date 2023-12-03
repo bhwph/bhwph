@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Delusional illusion](http://9gag.com/gag/armLze5)
- - 😝 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
- - 👉 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)<!-- MEMES:END -->
+ - 6️⃣ [This makes sense](http://9gag.com/gag/a6qR8x2)
+ - 😝 [Anger Management](http://9gag.com/gag/a9qGNyL)
+ - 👉 [Still happening](http://9gag.com/gag/aXnOe4z)<!-- MEMES:END -->
 
 --- 
 
