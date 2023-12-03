@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chase could be a potential partner for Apple Card](https://appleinsider.com/articles/23/12/03/chase-named-as-a-potential-partner-for-apple-card?utm_medium=rss)
- - [A deep dive into the founding of DeepMind, OpenAI, and Anthropic, as many of their backers feared the risks of advanced AI, but hoped to safely shape it &lpar;New York Times&rpar;](http://www.techmeme.com/231203/p6#a231203p6)
- - [Samsung Galaxy Watch 7 wishlist: All the features I want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)<!-- TECH:END -->
+ - [Documents: OpenAI signed a letter of intent in 2019 to spend $51M on brain-inspired chips developed by startup Rain AI, in which Sam Altman had invested $1M+ &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231203/p8#a231203p8)
+ - [CoreWeave, which offers Nvidia GPUs in the cloud, says it closed a minority stake sale to investors led by Fidelity; sources: the sale values CoreWeave at $7B &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/231203/p7#a231203p7)
+ - [Elgato Prompter review: gamechanging and close to perfect for YouTubers](https://appleinsider.com/articles/23/12/03/elgato-prompter-review-gamechanging-and-close-to-perfect-for-youtubers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
