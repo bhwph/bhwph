@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
- - 😝 [Find her and press charges](http://9gag.com/gag/awZpYEQ)
- - 👉 [Fail](http://9gag.com/gag/avQjvon)<!-- MEMES:END -->
+ - 6️⃣ [Sacha Baron Cohen was absolutely wild doing this \ud83d\ude05](http://9gag.com/gag/a9qGBD0)
+ - 😝 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
+ - 👉 [Peter Lammer is chef in a restaurant in Germany. He was involved in a motorcycle accident and, after rehabilitation, doctors advised him to retire. Together with his friends, he came up with this effective mobile seat.](http://9gag.com/gag/aYV0dvw)<!-- MEMES:END -->
 
 --- 
 
