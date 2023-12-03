@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #897 for Sunday, December 3](https://www.pcgamer.com/wordle-today-answer-897-december-3)
  - [Be a frog, kill bugs, collect cool dice in the demo for dicebuilding roguelike Die in the Dungeon](https://www.pcgamer.com/be-a-frog-kill-bugs-collect-cool-dice-in-the-demo-for-dicebuilding-roguelike-die-in-the-dungeon)
- - [The Halo show&#39;s second season is coming in February, and it&#39;s teasing an actual, you know, Halo](https://www.pcgamer.com/the-halo-shows-second-season-is-coming-in-february-and-its-teasing-an-actual-you-know-halo)
- - [Stealth classic Thief: The Dark Project just got a 10-mission fan campaign called The Black Parade from a team led by an Arkane Lyon level designer](https://www.pcgamer.com/stealth-classic-thief-the-dark-project-just-got-a-10-mission-fan-campaign-called-the-black-parade-from-a-team-led-by-an-arkane-lyon-level-designer)<!-- GAME:END -->
+ - [The Halo show&#39;s second season is coming in February, and it&#39;s teasing an actual, you know, Halo](https://www.pcgamer.com/the-halo-shows-second-season-is-coming-in-february-and-its-teasing-an-actual-you-know-halo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
