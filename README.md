@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
- - 😝 [Peter Lammer is chef in a restaurant in Germany. He was involved in a motorcycle accident and, after rehabilitation, doctors advised him to retire. Together with his friends, he came up with this effective mobile seat.](http://9gag.com/gag/aYV0dvw)
- - 👉 [Im a gemini](http://9gag.com/gag/aXnOdez)<!-- MEMES:END -->
+ - 6️⃣ [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
+ - 😝 [Anger Management](http://9gag.com/gag/a9qGNyL)
+ - 👉 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)<!-- MEMES:END -->
 
 --- 
 
