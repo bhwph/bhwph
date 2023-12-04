@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Access controller for PS5 starter’s guide](https://blog.playstation.com/2023/12/04/the-access-controller-for-ps5-starters-guide/)
- - [Comixology was never going to save comics, but it tried](https://www.polygon.com/23984204/comixology-app-gone-amazon-kindle)
- - [The Grand Theft Auto 6 announcement graphic has become the new CD Projekt Red apology as brands scramble to snag some hype of their own](https://www.pcgamer.com/the-grand-theft-auto-6-announcement-graphic-has-become-the-new-cd-projekt-red-apology-as-brands-scramble-to-snag-some-hype-of-their-own)<!-- GAME:END -->
+ - [10 tips for surviving Baldur&#39;s Gate 3&#39;s  Honour Mode](https://www.pcgamer.com/baldurs-gate-3-honour-mode-tips)
+ - [Woot’s 8BitDo Arcade Stick deal has me grappling with my budget](https://www.polygon.com/deals/2023/12/4/23987574/8bitdo-arcade-stick-fighting-game-xbox-pc-deal-sale)
+ - [Reminder: There&#39;s already a Fallout TV series you can watch right now, and it&#39;s pretty darn good](https://www.pcgamer.com/theres-already-a-fallout-tv-series-and-its-pretty-good)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
