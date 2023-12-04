@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s next ‘Ultra’ device with AI smarts could launch this month, specs leak](https://www.androidauthority.com/samsung-galaxy-book-4-series-launch-specs-ai-features-3391061/)
- - [Spotify CEO Daniel Ek says the company is laying off about 17% of its workforce due to slow economic growth and more expensive capital &lpar;Daniel Ek/Spotify&rpar;](http://www.techmeme.com/231204/p1#a231204p1)
- - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
+ - [Kick, a Twitch rival that has generous creator deals, online gambling, and lax moderation, tries to move beyond edgy content amid public and regulatory pressure &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/231204/p3#a231204p3)
+ - [Samsung Galaxy A55 5G rumors: Expected release date and what we want to see](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)
+ - [Pixel Watch 2 problems and how to fix them](https://www.androidauthority.com/google-pixel-watch-2-problems-fixes-3390988/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
