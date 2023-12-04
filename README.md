@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
- - 😝 [Poor fat Woah man. Emotional damage.](http://9gag.com/gag/aBdeN1D)
- - 👉 [It seems there is a pattern](http://9gag.com/gag/aMELDeX)<!-- MEMES:END -->
+ - 6️⃣ [Blackwashing](http://9gag.com/gag/aBdeNbD)
+ - 😝 [Lindsey Stirling&#39;s crowd synchrony](http://9gag.com/gag/aPgqz2q)
+ - 👉 [Funny guy](http://9gag.com/gag/a8qgvwQ)<!-- MEMES:END -->
 
 --- 
 
