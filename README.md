@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That is 100% true.](http://9gag.com/gag/aL1EOEM)
- - 😝 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
- - 👉 [Title](http://9gag.com/gag/agoeZwW)<!-- MEMES:END -->
+ - 6️⃣ [Lindsey Stirling&#39;s crowd synchrony](http://9gag.com/gag/aPgqz2q)
+ - 😝 [Funny guy](http://9gag.com/gag/a8qgvwQ)
+ - 👉 [Milkies](http://9gag.com/gag/a8qgQO1)<!-- MEMES:END -->
 
 --- 
 
