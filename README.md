@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Barring unforeseen shocks, the signs point towards a strong 2024 for the global PC market](https://www.pcgamer.com/barring-unforeseen-shocks-the-signs-point-towards-a-strong-2024-for-the-global-pc-market)
- - [Put on your bunny ears and go to bullet hell in indie metroidvania Tevi](https://www.pcgamer.com/put-on-your-bunny-ears-and-go-to-bullet-hell-in-indie-metroidvania-tevi)
- - [Wordle today: Hint and answer #898 for Monday, December 4](https://www.pcgamer.com/wordle-today-answer-898-december-4)<!-- GAME:END -->
+ - [Peter Griffin drinks the expired Fortnite slurp juice in a lore explainer, in case you were worried about Family Guy&#39;s continuity for some reason](https://www.pcgamer.com/peter-griffin-drinks-the-expired-fortnite-slurp-juice-in-a-lore-explainer-in-case-you-were-worried-about-family-guys-continuity-for-some-reason)
+ - [Teamgroup T-Force Xtreem DDR5-8200 review](https://www.pcgamer.com/teamgroup-tforce-xtreem-ddr5-8200-memory-review)
+ - [US gov fires a warning shot at Nvidia: &#39;We cannot let China get these chips... If you redesign a chip that enables them to do AI, I&#39;m going to control it the very next day&#39;](https://www.pcgamer.com/us-gov-fires-a-warning-shot-at-nvidia-we-cannot-let-china-get-these-chips-if-you-redesign-a-chip-that-enables-them-to-do-ai-im-going-to-control-it-the-very-next-day)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
