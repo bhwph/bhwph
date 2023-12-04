@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Do you use Strava? You now have a new WhatsApp-like Messaging feature](https://www.androidauthority.com/strava-messaging-3391139/)
- - [Sony Access Controller Review: A Beautiful Addition for All Gamers](https://www.wired.com/review/sony-access-controller-review/)
- - [Now you can slide into Strava DMs](https://www.theverge.com/2023/12/4/23984181/strava-direct-messaging-fitness-routes)<!-- TECH:END -->
+ - [Price war drops M3 14-inch MacBook Pro to as low as $1,399](https://appleinsider.com/articles/23/12/04/price-war-drops-m3-14-inch-macbook-pro-to-as-low-as-1399?utm_medium=rss)
+ - [Zach Gage’s Puzzmo gets acquired as the newspaper games space heats up](https://www.theverge.com/2023/12/4/23984103/puzzmo-acquired-hearst-zach-gage)
+ - [The Google Pixel Watch 2 is selling for its lowest price of $299.99](https://www.theverge.com/2023/12/4/23987423/google-pixel-watch-amazon-echo-dot-tunic-nintendo-switch-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
