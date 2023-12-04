@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title](http://9gag.com/gag/agoeZwW)
+ - 6️⃣ [Anger Management](http://9gag.com/gag/a9qGNyL)
  - 😝 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
- - 👉 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)<!-- MEMES:END -->
+ - 👉 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)<!-- MEMES:END -->
 
 --- 
 
