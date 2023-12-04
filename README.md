@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US regulators are proposing a labeling system for AI healthcare apps, including requiring disclosure of how the tools are trained and how they perform &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231203/p10#a231203p10)
- - [Kiss debuts ‘immortal’ digital avatars and plans to go ‘fully virtual’](https://www.theverge.com/2023/12/3/23986652/kiss-final-show-farewell-tour-digital-avatars)
- - [Final day: save 67% on 3 months of Paramount Plus](https://appleinsider.com/articles/23/11/22/paramount-plus-black-friday-deal-save-67-on-3-months-of-service?utm_medium=rss)<!-- TECH:END -->
+ - [OnePlus 12 IP rating revealed: An improvement, but is it, really?](https://www.androidauthority.com/oneplus-12-ip-rating-3390123/)
+ - [Simple Mobile Tools sold off to Israeli publisher ZipoApps. All apps now marked as containing ads.](https://www.androidauthority.com/simple-mobile-tools-acquisition-3391041/)
+ - [Galaxy A55 leak shows off Samsung’s next mid-range superstar in all its glory](https://www.androidauthority.com/samsung-galaxy-a55-design-leak-3391034/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
