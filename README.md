@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify Is Screwed](https://www.wired.com/story/spotify-layoffs-music-streaming-future/)
- - [Tesla warns that the Model 3 is about to lose half of its tax credit in the US](https://www.theverge.com/2023/12/4/23988031/tesla-elon-musk-ev-tax-credit-model-3)
- - [The Apple TV just got its first big native VPN app](https://www.theverge.com/2023/12/4/23987742/expressvpn-apple-tv-vpn-app-tvos-17)<!-- TECH:END -->
+ - [23andMe admits hackers accessed 6.9 million users’ DNA Relatives data](https://www.theverge.com/2023/12/4/23988050/23andme-hackers-accessed-user-data-confirmed)
+ - [Meta says cross-app chatting between Messenger and Instagram will be discontinued in &quot;mid-December 2023&quot;, three years after it announced the feature &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/231204/p23#a231204p23)
+ - [Google is starting to roll out Photomoji feature for its Messages app](https://www.androidauthority.com/google-messages-photomoji-3391392/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
