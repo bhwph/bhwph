@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM announces 10 quantum computing projects, focusing on areas like simulating quantum physics and solving problems in chemistry and materials science &lpar;Financial Times&rpar;](http://www.techmeme.com/231204/p7#a231204p7)
- - [Google could be working on a shared phone number blocklist for Android](https://www.androidauthority.com/google-phone-shared-phone-number-blocklist-android-3391140/)
- - [Innovation-Killing Noncompete Agreements Are Finally Dying](https://www.wired.com/story/innovation-killing-noncompete-agreements-finally-dying/)<!-- TECH:END -->
+ - [Do you use Strava? You now have a new WhatsApp-like Messaging feature](https://www.androidauthority.com/strava-messaging-3391139/)
+ - [Sony Access Controller Review: A Beautiful Addition for All Gamers](https://www.wired.com/review/sony-access-controller-review/)
+ - [Now you can slide into Strava DMs](https://www.theverge.com/2023/12/4/23984181/strava-direct-messaging-fitness-routes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
