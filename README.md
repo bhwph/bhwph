@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Price war drops M3 14-inch MacBook Pro to as low as $1,399](https://appleinsider.com/articles/23/12/04/price-war-drops-m3-14-inch-macbook-pro-to-as-low-as-1399?utm_medium=rss)
- - [Zach Gage’s Puzzmo gets acquired as the newspaper games space heats up](https://www.theverge.com/2023/12/4/23984103/puzzmo-acquired-hearst-zach-gage)
- - [The Google Pixel Watch 2 is selling for its lowest price of $299.99](https://www.theverge.com/2023/12/4/23987423/google-pixel-watch-amazon-echo-dot-tunic-nintendo-switch-deal-sale)<!-- TECH:END -->
+ - [Halide plans first iPhone video app &#39;Kino&#39; for February 2024 release](https://appleinsider.com/articles/23/12/04/halide-plans-first-iphone-video-app-kino-for-february-2024-release?utm_medium=rss)
+ - [Dragon Age: Dreadwolf has another new trailer, and promises more details in ‘Summer 2024’](https://www.theverge.com/2023/12/4/23987808/dragon-age-dreadwolf-trailer-summer-2024-bioware)
+ - [Eve brings energy monitoring to its SmartThings integration](https://www.theverge.com/2023/12/4/23987467/eve-energy-smart-plug-samsung-smartthings-energy-monitoring-integration)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
