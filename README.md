@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pro hockey player hits the griddy after OT goal, shouts out Fortnite](https://www.polygon.com/fortnite/23987776/nhl-hockey-jake-walman-red-wings-griddy)
- - [Build Your Perfect Xbox Stocking](https://news.xbox.com/en-us/2023/12/04/build-your-perfect-xbox-stocking/)
- - [What time does the GTA 6 trailer release?](https://www.polygon.com/gta-6-guide/23983993/grand-theft-auto-6-trailer-release-time-date-when-coming-out-9-am-et)<!-- GAME:END -->
+ - [Dragon Age: Dreadwolf video teases new lands &#39;you&#39;ve never heard of before,&#39; full reveal coming next year](https://www.pcgamer.com/dragon-age-dreadwolf-video-teases-new-lands-youve-never-heard-of-before-full-reveal-coming-next-year)
+ - [Cross Blitz delivers charming Hearthstone-lite fun for the single-player crowd](https://www.pcgamer.com/cross-blitz-delivers-charming-hearthstone-lite-fun-for-the-single-player-crowd)
+ - [Phil Spencer Wants You To Play Starfield For A Decade](https://kotaku.com/starfield-shattered-space-dlc-phil-spencer-skyrim-1851071038)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
