@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lindsey Stirling&#39;s crowd synchrony](http://9gag.com/gag/aPgqz2q)
- - 😝 [Funny guy](http://9gag.com/gag/a8qgvwQ)
- - 👉 [Milkies](http://9gag.com/gag/a8qgQO1)<!-- MEMES:END -->
+ - 6️⃣ [`I turn left now, good luck everyone else`](http://9gag.com/gag/aL1EOxV)
+ - 😝 [Be like Poland.](http://9gag.com/gag/aPgqzmK)
+ - 👉 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)<!-- MEMES:END -->
 
 --- 
 
