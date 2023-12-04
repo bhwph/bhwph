@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Halide plans first iPhone video app &#39;Kino&#39; for February 2024 release](https://appleinsider.com/articles/23/12/04/halide-plans-first-iphone-video-app-kino-for-february-2024-release?utm_medium=rss)
- - [Dragon Age: Dreadwolf has another new trailer, and promises more details in ‘Summer 2024’](https://www.theverge.com/2023/12/4/23987808/dragon-age-dreadwolf-trailer-summer-2024-bioware)
- - [Eve brings energy monitoring to its SmartThings integration](https://www.theverge.com/2023/12/4/23987467/eve-energy-smart-plug-samsung-smartthings-energy-monitoring-integration)<!-- TECH:END -->
+ - [Spotify Is Screwed](https://www.wired.com/story/spotify-layoffs-music-streaming-future/)
+ - [Tesla warns that the Model 3 is about to lose half of its tax credit in the US](https://www.theverge.com/2023/12/4/23988031/tesla-elon-musk-ev-tax-credit-model-3)
+ - [The Apple TV just got its first big native VPN app](https://www.theverge.com/2023/12/4/23987742/expressvpn-apple-tv-vpn-app-tvos-17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
