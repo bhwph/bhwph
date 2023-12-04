@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 tips for surviving Baldur&#39;s Gate 3&#39;s  Honour Mode](https://www.pcgamer.com/baldurs-gate-3-honour-mode-tips)
- - [Woot’s 8BitDo Arcade Stick deal has me grappling with my budget](https://www.polygon.com/deals/2023/12/4/23987574/8bitdo-arcade-stick-fighting-game-xbox-pc-deal-sale)
- - [Reminder: There&#39;s already a Fallout TV series you can watch right now, and it&#39;s pretty darn good](https://www.pcgamer.com/theres-already-a-fallout-tv-series-and-its-pretty-good)<!-- GAME:END -->
+ - [Pro hockey player hits the griddy after OT goal, shouts out Fortnite](https://www.polygon.com/fortnite/23987776/nhl-hockey-jake-walman-red-wings-griddy)
+ - [Build Your Perfect Xbox Stocking](https://news.xbox.com/en-us/2023/12/04/build-your-perfect-xbox-stocking/)
+ - [What time does the GTA 6 trailer release?](https://www.polygon.com/gta-6-guide/23983993/grand-theft-auto-6-trailer-release-time-date-when-coming-out-9-am-et)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
