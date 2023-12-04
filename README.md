@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Chosen One](http://9gag.com/gag/a2KXOAe)
- - 😝 [This makes sense](http://9gag.com/gag/a6qR8x2)
- - 👉 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)<!-- MEMES:END -->
+ - 6️⃣ [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
+ - 😝 [Poor fat Woah man. Emotional damage.](http://9gag.com/gag/aBdeN1D)
+ - 👉 [It seems there is a pattern](http://9gag.com/gag/aMELDeX)<!-- MEMES:END -->
 
 --- 
 
