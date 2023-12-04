@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anger Management](http://9gag.com/gag/a9qGNyL)
- - 😝 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
- - 👉 [I have questions, but can ask later](http://9gag.com/gag/adPz4yd)<!-- MEMES:END -->
+ - 6️⃣ [The Chosen One](http://9gag.com/gag/a2KXOAe)
+ - 😝 [This makes sense](http://9gag.com/gag/a6qR8x2)
+ - 👉 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)<!-- MEMES:END -->
 
 --- 
 
