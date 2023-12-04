@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kick, a Twitch rival that has generous creator deals, online gambling, and lax moderation, tries to move beyond edgy content amid public and regulatory pressure &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/231204/p3#a231204p3)
- - [Samsung Galaxy A55 5G rumors: Expected release date and what we want to see](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)
- - [Pixel Watch 2 problems and how to fix them](https://www.androidauthority.com/google-pixel-watch-2-problems-fixes-3390988/)<!-- TECH:END -->
+ - [IBM announces 10 quantum computing projects, focusing on areas like simulating quantum physics and solving problems in chemistry and materials science &lpar;Financial Times&rpar;](http://www.techmeme.com/231204/p7#a231204p7)
+ - [Google could be working on a shared phone number blocklist for Android](https://www.androidauthority.com/google-phone-shared-phone-number-blocklist-android-3391140/)
+ - [Innovation-Killing Noncompete Agreements Are Finally Dying](https://www.wired.com/story/innovation-killing-noncompete-agreements-finally-dying/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
