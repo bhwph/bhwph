@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: Dreadwolf video teases new lands &#39;you&#39;ve never heard of before,&#39; full reveal coming next year](https://www.pcgamer.com/dragon-age-dreadwolf-video-teases-new-lands-youve-never-heard-of-before-full-reveal-coming-next-year)
- - [Cross Blitz delivers charming Hearthstone-lite fun for the single-player crowd](https://www.pcgamer.com/cross-blitz-delivers-charming-hearthstone-lite-fun-for-the-single-player-crowd)
- - [Phil Spencer Wants You To Play Starfield For A Decade](https://kotaku.com/starfield-shattered-space-dlc-phil-spencer-skyrim-1851071038)<!-- GAME:END -->
+ - [All Ahamkara Bones locations in Destiny 2’s Warlord’s Ruin dungeon](https://www.polygon.com/destiny-2-guide-walkthrough/23986824/ahamkara-bones-locations-warlords-ruin-collectibles)
+ - [Destiny 2 Warlord’s Ruin dungeon guide and walkthrough](https://www.polygon.com/destiny-2-guide-walkthrough/23985733/warlords-ruin-dungeon-walkthrough-cell-puzzle-solution-secret-chest-locations)
+ - [Where to find Peter Griffin in Fortnite Chapter 5 Season 1](https://www.polygon.com/fortnite-guide/23988187/peter-griffin-location-skin-how-to-get)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
