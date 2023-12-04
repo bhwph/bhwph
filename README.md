@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Peter Griffin drinks the expired Fortnite slurp juice in a lore explainer, in case you were worried about Family Guy&#39;s continuity for some reason](https://www.pcgamer.com/peter-griffin-drinks-the-expired-fortnite-slurp-juice-in-a-lore-explainer-in-case-you-were-worried-about-family-guys-continuity-for-some-reason)
- - [Teamgroup T-Force Xtreem DDR5-8200 review](https://www.pcgamer.com/teamgroup-tforce-xtreem-ddr5-8200-memory-review)
- - [US gov fires a warning shot at Nvidia: &#39;We cannot let China get these chips... If you redesign a chip that enables them to do AI, I&#39;m going to control it the very next day&#39;](https://www.pcgamer.com/us-gov-fires-a-warning-shot-at-nvidia-we-cannot-let-china-get-these-chips-if-you-redesign-a-chip-that-enables-them-to-do-ai-im-going-to-control-it-the-very-next-day)<!-- GAME:END -->
+ - [The Access controller for PS5 starter’s guide](https://blog.playstation.com/2023/12/04/the-access-controller-for-ps5-starters-guide/)
+ - [Comixology was never going to save comics, but it tried](https://www.polygon.com/23984204/comixology-app-gone-amazon-kindle)
+ - [The Grand Theft Auto 6 announcement graphic has become the new CD Projekt Red apology as brands scramble to snag some hype of their own](https://www.pcgamer.com/the-grand-theft-auto-6-announcement-graphic-has-become-the-new-cd-projekt-red-apology-as-brands-scramble-to-snag-some-hype-of-their-own)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
