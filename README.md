@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #899 for Tuesday, December 5](https://www.pcgamer.com/wordle-today-answer-899-december-5)
- - [If GTA 6 isn&#39;t coming until 2026 this is what a top-end gaming PC is going to look like when it does](https://www.pcgamer.com/if-gta-6-isnt-coming-until-2026-this-is-what-a-top-end-gaming-pc-is-going-to-look-like-when-it-does)
- - [How Arizona Sunshine 2 brings its arsenal and Buddy the dog to life with PS VR2, out Dec 7](https://blog.playstation.com/2023/12/05/how-arizona-sunshine-2-brings-its-arsenal-and-buddy-the-dog-to-life-with-ps-vr2-out-dec-7/)<!-- GAME:END -->
+ - [Among Us VR launches on PlayStation VR2 today](https://blog.playstation.com/2023/12/05/among-us-vr-launches-on-playstation-vr2-today/)
+ - [A Glamorous New Expedition Awaits in Fallout 76: Atlantic City – Boardwalk Paradise](https://fallout.bethesda.net/en/article/2VYdp0JUeNKi1ut4jxQgEO/fallout-76-atlantic-city-boardwalk-paradise-release)
+ - [One Piece’s Wano arc was when the anime finally lived up to the manga](https://www.polygon.com/23988029/one-piece-wano-arc-anime-new-season-egghead)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
