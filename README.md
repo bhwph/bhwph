@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cheering people at the bar then eating fake glass bottle](http://9gag.com/gag/a6qR6wL)
- - 😝 [Works everytime](http://9gag.com/gag/adPzwoB)
+ - 6️⃣ [Facial treatment](http://9gag.com/gag/a3ZODV3)
+ - 😝 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)
  - 👉 [Breaking News: Video from Arlington, Virginia Arlington police officers were attempting to execute a search warrant at a residence in Ballston when the suspect discharged several rounds inside the home then an explosion occurred\ud83d\udca5.](http://9gag.com/gag/a6qR6Y9)<!-- MEMES:END -->
 
 --- 
