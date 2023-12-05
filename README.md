@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta, IBM, and 50+ other companies and organizations form AI Alliance, a coalition dedicated to work on open source AI including to share tech and reduce risks &lpar;Alexandra Barinka/Bloomberg&rpar;](http://www.techmeme.com/231205/p1#a231205p1)
- - [PlayStation account permanently suspended without warning? You’re one of many facing the problem](https://www.androidauthority.com/playstation-account-permanently-suspended-3391507/)
- - [Premier League Soccer Livestream: How to Watch Luton vs. Arsenal From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-luton-vs-arsenal-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The new Astro A50 X headset switches between your consoles and PC using HDMI passthrough](https://www.theverge.com/2023/12/5/23988405/astro-a50x-gaming-headset-xbox-playstation-pc-hdmi-passthrough-switcher-price-availability)
+ - [The best Roblox horror games you should play](https://www.androidauthority.com/best-roblox-horror-games-3386255/)
+ - [Verizon to offer Netflix + Max bundle for just $10 starting December 7](https://www.androidauthority.com/verizon-netflix-max-bundle-10-dollars-3391553/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
