@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Ahamkara Bones locations in Destiny 2’s Warlord’s Ruin dungeon](https://www.polygon.com/destiny-2-guide-walkthrough/23986824/ahamkara-bones-locations-warlords-ruin-collectibles)
- - [Destiny 2 Warlord’s Ruin dungeon guide and walkthrough](https://www.polygon.com/destiny-2-guide-walkthrough/23985733/warlords-ruin-dungeon-walkthrough-cell-puzzle-solution-secret-chest-locations)
- - [Where to find Peter Griffin in Fortnite Chapter 5 Season 1](https://www.polygon.com/fortnite-guide/23988187/peter-griffin-location-skin-how-to-get)<!-- GAME:END -->
+ - [EA announces layoffs at F1 developer Codemasters &#39;to meet evolving business needs and priorities&#39;](https://www.pcgamer.com/ea-announces-layoffs-at-f1-developer-codemasters-to-meet-evolving-business-needs-and-priorities)
+ - [Introducing Polygon’s puzzle partner, Puzzmo](https://www.polygon.com/2023/12/4/23987549/polygon-puzzles-puzzmo)
+ - [GTA VI Confirmed Next-Gen Only, Skipping PC At Launch](https://kotaku.com/gta-6-vi-pc-port-next-gen-ps5-xbox-series-x-trailer-1851072350)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
