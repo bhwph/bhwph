@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t look it up.](http://9gag.com/gag/a2KXg3D)
- - 😝 [Give this gentleman a hug.](http://9gag.com/gag/aqeEM7P)
+ - 6️⃣ [I\u2019m glad it ended this way, it would have been really sad](http://9gag.com/gag/axorK8L)
+ - 😝 [`Parkour`](http://9gag.com/gag/aQEjb1w)
  - 👉 [Facial treatment](http://9gag.com/gag/a3ZODV3)<!-- MEMES:END -->
 
 --- 
