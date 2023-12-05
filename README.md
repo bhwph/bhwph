@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Astro A50 X headset switches between your consoles and PC using HDMI passthrough](https://www.theverge.com/2023/12/5/23988405/astro-a50x-gaming-headset-xbox-playstation-pc-hdmi-passthrough-switcher-price-availability)
- - [The best Roblox horror games you should play](https://www.androidauthority.com/best-roblox-horror-games-3386255/)
- - [Verizon to offer Netflix + Max bundle for just $10 starting December 7](https://www.androidauthority.com/verizon-netflix-max-bundle-10-dollars-3391553/)<!-- TECH:END -->
+ - [The conversational nature of AI chatbots makes them more trustworthy, which could result in problems including &quot;hidden exploitation&quot; and outright fraud &lpar;Bruce Schneier/Schneier on Security&rpar;](http://www.techmeme.com/231205/p4#a231205p4)
+ - [OnePlus 12 vs OnePlus 11: Should you upgrade?](https://www.androidauthority.com/oneplus-12-vs-oneplus-11-3391062/)
+ - [Foxconn reports November revenue up 18% YoY to ~$20.6B, the first YoY improvement since January 2023, and forecasts Q4 revenue to be better than expected &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/231205/p3#a231205p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
