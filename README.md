@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba&#39;s paper on its Animate Anyone AI model went viral as users saw how the model could replace TikTok influencers and that it&#39;s trained on TikTokers&#39; videos &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/231205/p25#a231205p25)
- - [The 20 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Apple&#39;s new AirPods Pro 2 firmware is only for Lightning models](https://appleinsider.com/articles/23/12/05/apples-new-airpods-pro-2-firmware-is-only-for-lightning-models?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s new AirPods Pro 2 firmware is here for USB-C and Lightning models](https://appleinsider.com/articles/23/12/05/apples-new-airpods-pro-2-firmware-is-only-for-lightning-models?utm_medium=rss)
+ - [Microsoft says it will offer three additional years of Windows 10 security updates as a paid upgrade after the OS&#39; end-of-support date on October 14, 2025 &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/231205/p29#a231205p29)
+ - [iOS 17.2 RC brings Qi2 wireless charging support to iPhone 13 and iPhone 14-series devices; Apple hasn&#39;t said if the phones will charge at 15W on Qi2 chargers &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231205/p28#a231205p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
