@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Score a 16-inch MacBook Pro for $1,799 with free 2-day shipping](https://appleinsider.com/articles/23/12/05/score-a-16-inch-macbook-pro-for-1799-with-free-2-day-shipping?utm_medium=rss)
- - [How to organize Safari tabs using tab groups in iPadOS 17](https://appleinsider.com/inside/ipados-17/tips/how-to-organize-safari-tabs-using-tab-groups-in-ipados-17?utm_medium=rss)
- - [ArmorCode, which consolidates vulnerability data from connected apps and software infrastructure for analysis, raised a $40M Series B led by HighlandX &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231204/p32#a231204p32)<!-- TECH:END -->
+ - [Meta, IBM, and 50+ other companies and organizations form AI Alliance, a coalition dedicated to work on open source AI including to share tech and reduce risks &lpar;Alexandra Barinka/Bloomberg&rpar;](http://www.techmeme.com/231205/p1#a231205p1)
+ - [PlayStation account permanently suspended without warning? You’re one of many facing the problem](https://www.androidauthority.com/playstation-account-permanently-suspended-3391507/)
+ - [Premier League Soccer Livestream: How to Watch Luton vs. Arsenal From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-luton-vs-arsenal-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
