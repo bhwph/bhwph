@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [23andMe admits hackers accessed 6.9 million users’ DNA Relatives data](https://www.theverge.com/2023/12/4/23988050/23andme-hackers-accessed-user-data-confirmed)
- - [Meta says cross-app chatting between Messenger and Instagram will be discontinued in &quot;mid-December 2023&quot;, three years after it announced the feature &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/231204/p23#a231204p23)
- - [Google is starting to roll out Photomoji feature for its Messages app](https://www.androidauthority.com/google-messages-photomoji-3391392/)<!-- TECH:END -->
+ - [Ofcom launches a consultation on draft guidelines on how porn sites should lock out underage users, including having a bank or mobile network confirm users&#39; age &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231204/p28#a231204p28)
+ - [The &#39;Grand Theft Auto VI&#39; Trailer Is Here. And It’s Already Causing Mayhem](https://www.wired.com/story/grand-theft-auto-6-trailer/)
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/23951136/gifts-under-100-best-cheap-tech-ideas-2023-budget)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
