@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The conversational nature of AI chatbots makes them more trustworthy, which could result in problems including &quot;hidden exploitation&quot; and outright fraud &lpar;Bruce Schneier/Schneier on Security&rpar;](http://www.techmeme.com/231205/p4#a231205p4)
- - [OnePlus 12 vs OnePlus 11: Should you upgrade?](https://www.androidauthority.com/oneplus-12-vs-oneplus-11-3391062/)
- - [Foxconn reports November revenue up 18% YoY to ~$20.6B, the first YoY improvement since January 2023, and forecasts Q4 revenue to be better than expected &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/231205/p3#a231205p3)<!-- TECH:END -->
+ - [GM, EVgo, and Pilot are making progress on their big coast-to-coast EV charging network](https://www.theverge.com/2023/12/5/23988171/gm-ev-charging-station-progress-pilot-evgo)
+ - [A detailed look at the OnePlus 12 ahead of its global launch](https://www.theverge.com/2023/12/5/23988905/oneplus-12-china-launch-price-specs-features)
+ - [Crypto mining hardware retailer Phoenix Group jumps 50%+ after raising $371M in an Abu Dhabi IPO; Abu Dhabi&#39;s largest conglomerate bought a 10% share in October &lpar;Julia Fioretti/Bloomberg&rpar;](http://www.techmeme.com/231205/p10#a231205p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
