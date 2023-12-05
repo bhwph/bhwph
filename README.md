@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best video games of the year so far](https://www.polygon.com/23648669/best-video-games-2023)
- - [GTA 6 trailer sends fans into frenzy, earns game dev praise, and leads people to ponder their inevitable demise: &#39;What if we die before GTA 6 releases in 2025?&#39;](https://www.pcgamer.com/gta-6-trailer-sends-fans-into-frenzy-earns-game-dev-praise-and-leads-people-to-ponder-their-inevitable-demise-what-if-we-die-before-gta-6-releases-in-2025)
- - [Cyberpunk 2077&#39;s surprise 2.1 update aims to make Adam Smasher live up to his name, adds new racing missions, and gives love interests a life with you after their questlines](https://www.pcgamer.com/cyberpunk-2077s-surprise-21-update-aims-to-make-adam-smasher-live-up-to-his-name-adds-new-racing-missions-and-gives-love-interests-a-life-with-you-after-their-questlines)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #899 for Tuesday, December 5](https://www.pcgamer.com/wordle-today-answer-899-december-5)
+ - [If GTA 6 isn&#39;t coming until 2026 this is what a top-end gaming PC is going to look like when it does](https://www.pcgamer.com/if-gta-6-isnt-coming-until-2026-this-is-what-a-top-end-gaming-pc-is-going-to-look-like-when-it-does)
+ - [How Arizona Sunshine 2 brings its arsenal and Buddy the dog to life with PS VR2, out Dec 7](https://blog.playstation.com/2023/12/05/how-arizona-sunshine-2-brings-its-arsenal-and-buddy-the-dog-to-life-with-ps-vr2-out-dec-7/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
