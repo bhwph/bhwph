@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jamf shares exploit that fools users into believing their hacked iPhone is safe](https://appleinsider.com/articles/23/12/05/jamf-shares-exploit-that-fools-users-into-believing-their-hacked-iphone-is-safe?utm_medium=rss)
- - [Beeper Mini promises blue speech bubbles for Android users](https://appleinsider.com/articles/23/12/05/beeper-mini-promises-blue-speech-bubbles-for-android-users?utm_medium=rss)
- - [Philips Hue’s Festavia and Nanoleaf’s Essentials Matter smart string lights are up to 25 percent off](https://www.theverge.com/2023/12/5/23987734/philips-hue-festavia-smart-string-lights-amazfit-gtr-4-deal-sale)<!-- TECH:END -->
+ - [We could see Google’s true ChatGPT competitor as soon as next week](https://www.androidauthority.com/google-gemini-preview-3391721/)
+ - [Toyota reveals two new EV concepts as it plods along on its path to electrification](https://www.theverge.com/2023/12/5/23988111/toyota-ev-concept-urban-suv-sport-crossover)
+ - [Microsoft to offer consumers paid Windows 10 security updates for the first time](https://www.theverge.com/2023/12/5/23988896/microsoft-windows-10-extended-security-updates-consumers-paid)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
