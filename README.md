@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Password Managers &lpar;2023&rpar;: Features, Pricing, and Tips](https://www.wired.com/story/best-password-managers/)
- - [This new 2-in-1 charger is the MagSafe Duo replacement I didn’t know I wanted](https://www.theverge.com/2023/12/5/23988368/twelvesouth-butterfly-iphone-magsafe-charger-2in1-apple-watch-price-availability)
- - [Here’s what intentionally crashing a plane for YouTube clicks gets you](https://www.theverge.com/2023/12/5/23988937/youtuber-sponsored-plane-crash-six-month-prison-sentence)<!-- TECH:END -->
+ - [Jamf shares exploit that fools users into believing their hacked iPhone is safe](https://appleinsider.com/articles/23/12/05/jamf-shares-exploit-that-fools-users-into-believing-their-hacked-iphone-is-safe?utm_medium=rss)
+ - [Beeper Mini promises blue speech bubbles for Android users](https://appleinsider.com/articles/23/12/05/beeper-mini-promises-blue-speech-bubbles-for-android-users?utm_medium=rss)
+ - [Philips Hue’s Festavia and Nanoleaf’s Essentials Matter smart string lights are up to 25 percent off](https://www.theverge.com/2023/12/5/23987734/philips-hue-festavia-smart-string-lights-amazfit-gtr-4-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
