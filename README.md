@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ofcom launches a consultation on draft guidelines on how porn sites should lock out underage users, including having a bank or mobile network confirm users&#39; age &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231204/p28#a231204p28)
- - [The &#39;Grand Theft Auto VI&#39; Trailer Is Here. And It’s Already Causing Mayhem](https://www.wired.com/story/grand-theft-auto-6-trailer/)
- - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/23951136/gifts-under-100-best-cheap-tech-ideas-2023-budget)<!-- TECH:END -->
+ - [Google upgrades Gmail&#39;s spam filters with RETVec, a text vectorizer that understands &quot;adversarial text manipulations&quot;, like emojis and special characters &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231204/p31#a231204p31)
+ - [PlayStation accounts are being ‘permanently suspended’ and no one knows why](https://www.theverge.com/2023/12/4/23988621/sony-playstation-account-ps5-bans-permanent-suspension)
+ - [Ted Sarandos says Netflix didn&#39;t see significant &quot;interruption&quot; due to Hollywood strikes and is still targeting a $17B content budget for 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231204/p30#a231204p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
