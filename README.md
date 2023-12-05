@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Give this gentleman a hug.](http://9gag.com/gag/aqeEM7P)
- - 😝 [Facial treatment](http://9gag.com/gag/a3ZODV3)
- - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
+ - 6️⃣ [Check your globe](http://9gag.com/gag/aXnO3QV)
+ - 😝 [Survival monday is here](http://9gag.com/gag/aBdeMvx)
+ - 👉 [The cream of the crop](http://9gag.com/gag/aQEjbz7)<!-- MEMES:END -->
 
 --- 
 
