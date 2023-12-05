@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA announces layoffs at F1 developer Codemasters &#39;to meet evolving business needs and priorities&#39;](https://www.pcgamer.com/ea-announces-layoffs-at-f1-developer-codemasters-to-meet-evolving-business-needs-and-priorities)
- - [Introducing Polygon’s puzzle partner, Puzzmo](https://www.polygon.com/2023/12/4/23987549/polygon-puzzles-puzzmo)
- - [GTA VI Confirmed Next-Gen Only, Skipping PC At Launch](https://kotaku.com/gta-6-vi-pc-port-next-gen-ps5-xbox-series-x-trailer-1851072350)<!-- GAME:END -->
+ - [GTA 6 reveal trailer scene-by-scene breakdown: dogs, dadbods and social agitation](https://www.pcgamer.com/gta-6-reveal-trailer-scene-by-scene-breakdown-dogs-dadbods-and-social-agitation)
+ - [Rockstar devs react to Grand Theft Auto 6 trailer leak: &#39;This f***ing sucks&#39;](https://www.pcgamer.com/rockstar-devs-react-to-grand-theft-auto-6-trailer-leak-this-fing-sucks)
+ - [Grand Theft Auto VI Proves 2023&#39;s Best Video Game Trend Is Here To Stay](https://kotaku.com/gta-6-vi-trailer-best-video-game-trend-1851072463)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
