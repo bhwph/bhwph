@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Grand Theft Auto 6 trailer has smashed through 60 million YouTube views in 12 hours](https://www.pcgamer.com/the-grand-theft-auto-6-trailer-has-smashed-through-60-million-youtube-views-in-12-hours)
- - [Cut down on cables in your car with the Motorola MA1 Android Auto Adapter](https://www.pcgamer.com/cut-down-on-cables-in-your-car-with-the-motorola-ma1-android-auto-adapter)
- - [10 Things to Do In Night City With Cyberpunk 2077: Ultimate Edition](https://news.xbox.com/en-us/2023/12/05/cyberpunk-2077-ultimate-edition-exclusive/)<!-- GAME:END -->
+ - [The best video games of the year so far](https://www.polygon.com/23648669/best-video-games-2023)
+ - [GTA 6 trailer sends fans into frenzy, earns game dev praise, and leads people to ponder their inevitable demise: &#39;What if we die before GTA 6 releases in 2025?&#39;](https://www.pcgamer.com/gta-6-trailer-sends-fans-into-frenzy-earns-game-dev-praise-and-leads-people-to-ponder-their-inevitable-demise-what-if-we-die-before-gta-6-releases-in-2025)
+ - [Cyberpunk 2077&#39;s surprise 2.1 update aims to make Adam Smasher live up to his name, adds new racing missions, and gives love interests a life with you after their questlines](https://www.pcgamer.com/cyberpunk-2077s-surprise-21-update-aims-to-make-adam-smasher-live-up-to-his-name-adds-new-racing-missions-and-gives-love-interests-a-life-with-you-after-their-questlines)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
