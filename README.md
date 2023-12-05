@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox, Forza Motorsport, and SoundCloud Turn Up the Volume with Overdrive Creator Contest](https://news.xbox.com/en-us/2023/12/05/xbox-forza-motorsport-and-soundcloud-turn-up-the-volume-with-overdrive-creator-contest/)
- - [GTA 6 Trailer Is Full Of Hilarious Little Details](https://kotaku.com/grand-theft-auto-gta-6-vi-trailer-jokes-florida-1851074373)
- - [Overwatch 2’s Latest Mercy Skin Sparks Fan Backlash](https://kotaku.com/overwatch-2-mercy-thai-lunar-new-year-skin-lifeweaver-1851074642)<!-- GAME:END -->
+ - [When Grand Theft Auto 6 takes place: a maybe-I’m-overthinking-this investigation](https://www.polygon.com/23989701/gta-6-year-takes-place-lucia-2025-grand-theft-auto)
+ - [Community Update December 2023 – Virtually Optimized Month](https://news.xbox.com/en-us/2023/12/05/community-update-december-2023-virtually-optimized-month/)
+ - [Oops! Blizzard accidentally nerfs every Diablo 4 player on the same day its brutally hard new dungeon releases](https://www.pcgamer.com/oops-blizzard-accidentally-nerfs-every-diablo-4-player-on-the-same-day-its-brutally-hard-new-dungeon-releases)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
