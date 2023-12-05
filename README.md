@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Among Us VR launches on PlayStation VR2 today](https://blog.playstation.com/2023/12/05/among-us-vr-launches-on-playstation-vr2-today/)
- - [A Glamorous New Expedition Awaits in Fallout 76: Atlantic City – Boardwalk Paradise](https://fallout.bethesda.net/en/article/2VYdp0JUeNKi1ut4jxQgEO/fallout-76-atlantic-city-boardwalk-paradise-release)
- - [One Piece’s Wano arc was when the anime finally lived up to the manga](https://www.polygon.com/23988029/one-piece-wano-arc-anime-new-season-egghead)<!-- GAME:END -->
+ - [Xbox, Forza Motorsport, and SoundCloud Turn Up the Volume with Overdrive Creator Contest](https://news.xbox.com/en-us/2023/12/05/xbox-forza-motorsport-and-soundcloud-turn-up-the-volume-with-overdrive-creator-contest/)
+ - [GTA 6 Trailer Is Full Of Hilarious Little Details](https://kotaku.com/grand-theft-auto-gta-6-vi-trailer-jokes-florida-1851074373)
+ - [Overwatch 2’s Latest Mercy Skin Sparks Fan Backlash](https://kotaku.com/overwatch-2-mercy-thai-lunar-new-year-skin-lifeweaver-1851074642)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
