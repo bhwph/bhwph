@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM, EVgo, and Pilot are making progress on their big coast-to-coast EV charging network](https://www.theverge.com/2023/12/5/23988171/gm-ev-charging-station-progress-pilot-evgo)
- - [A detailed look at the OnePlus 12 ahead of its global launch](https://www.theverge.com/2023/12/5/23988905/oneplus-12-china-launch-price-specs-features)
- - [Crypto mining hardware retailer Phoenix Group jumps 50%+ after raising $371M in an Abu Dhabi IPO; Abu Dhabi&#39;s largest conglomerate bought a 10% share in October &lpar;Julia Fioretti/Bloomberg&rpar;](http://www.techmeme.com/231205/p10#a231205p10)<!-- TECH:END -->
+ - [9 Best Password Managers &lpar;2023&rpar;: Features, Pricing, and Tips](https://www.wired.com/story/best-password-managers/)
+ - [This new 2-in-1 charger is the MagSafe Duo replacement I didn’t know I wanted](https://www.theverge.com/2023/12/5/23988368/twelvesouth-butterfly-iphone-magsafe-charger-2in1-apple-watch-price-availability)
+ - [Here’s what intentionally crashing a plane for YouTube clicks gets you](https://www.theverge.com/2023/12/5/23988937/youtuber-sponsored-plane-crash-six-month-prison-sentence)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
