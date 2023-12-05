@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Facial treatment](http://9gag.com/gag/a3ZODV3)
- - 😝 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
- - 👉 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)<!-- MEMES:END -->
+ - 6️⃣ [Give this gentleman a hug.](http://9gag.com/gag/aqeEM7P)
+ - 😝 [Facial treatment](http://9gag.com/gag/a3ZODV3)
+ - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
 
 --- 
 
