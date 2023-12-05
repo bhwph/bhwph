@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We could see Google’s true ChatGPT competitor as soon as next week](https://www.androidauthority.com/google-gemini-preview-3391721/)
- - [Toyota reveals two new EV concepts as it plods along on its path to electrification](https://www.theverge.com/2023/12/5/23988111/toyota-ev-concept-urban-suv-sport-crossover)
- - [Microsoft to offer consumers paid Windows 10 security updates for the first time](https://www.theverge.com/2023/12/5/23988896/microsoft-windows-10-extended-security-updates-consumers-paid)<!-- TECH:END -->
+ - [Alibaba&#39;s paper on its Animate Anyone AI model went viral as users saw how the model could replace TikTok influencers and that it&#39;s trained on TikTokers&#39; videos &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/231205/p25#a231205p25)
+ - [The 20 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [Apple&#39;s new AirPods Pro 2 firmware is only for Lightning models](https://appleinsider.com/articles/23/12/05/apples-new-airpods-pro-2-firmware-is-only-for-lightning-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
