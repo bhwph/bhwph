@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asana reports Q3 revenue up 18% YoY to $166.5M, vs. $164.1M est., but warns of macroeconomic headwinds; ASAN drops 10%+ &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231205/p35#a231205p35)
- - [Q&amp;A with IBM Quantum Director Jerry Chow on the state of quantum computing, IBM&#39;s 10-year quantum roadmap, the IBM Quantum Heron processor, qubits, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231205/p34#a231205p34)
- - [Cisco debuts new security tools, including Cisco AI Assistant for Security, which can understand event triage, root cause analysis, policy design, and more &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231205/p33#a231205p33)<!-- TECH:END -->
+ - [Ring in the savings: $250 off Apple&#39;s new 16&quot; M3 MacBook Pro](https://appleinsider.com/articles/23/12/06/ring-in-the-savings-250-off-apples-new-16-m3-macbook-pro?utm_medium=rss)
+ - [At an all-hands meeting, Cruise President Mo Elshenawy said the company has hit an &quot;all time low&quot; and its tech needed to be &quot;significantly better&quot; than humans &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/231205/p36#a231205p36)
+ - [We Tried Pizzacraft&#39;s $280 Pronto Pizza Oven. See How the Budget-Friendly Model Performed     - CNET](https://www.cnet.com/home/yard-and-outdoors/we-tried-pizzacrafts-280-pronto-pizza-oven-see-how-the-budget-friendly-model-performed/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
