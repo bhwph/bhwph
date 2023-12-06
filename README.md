@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new AirPods Pro 2 firmware is here for USB-C and Lightning models](https://appleinsider.com/articles/23/12/05/apples-new-airpods-pro-2-firmware-is-only-for-lightning-models?utm_medium=rss)
- - [Microsoft says it will offer three additional years of Windows 10 security updates as a paid upgrade after the OS&#39; end-of-support date on October 14, 2025 &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/231205/p29#a231205p29)
- - [iOS 17.2 RC brings Qi2 wireless charging support to iPhone 13 and iPhone 14-series devices; Apple hasn&#39;t said if the phones will charge at 15W on Qi2 chargers &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231205/p28#a231205p28)<!-- TECH:END -->
+ - [Asana reports Q3 revenue up 18% YoY to $166.5M, vs. $164.1M est., but warns of macroeconomic headwinds; ASAN drops 10%+ &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231205/p35#a231205p35)
+ - [Q&amp;A with IBM Quantum Director Jerry Chow on the state of quantum computing, IBM&#39;s 10-year quantum roadmap, the IBM Quantum Heron processor, qubits, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231205/p34#a231205p34)
+ - [Cisco debuts new security tools, including Cisco AI Assistant for Security, which can understand event triage, root cause analysis, policy design, and more &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231205/p33#a231205p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
