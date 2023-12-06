@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
- - 😝 [It&#39;s official](http://9gag.com/gag/a7qxx9m)
- - 👉 [What? An normal N?](http://9gag.com/gag/aqeEMdZ)<!-- MEMES:END -->
+ - 6️⃣ [The eyes of darkness.](http://9gag.com/gag/aKEMRG6)
+ - 😝 [Democracy](http://9gag.com/gag/aPgqEow)
+ - 👉 [Defeated male leaves](http://9gag.com/gag/ap9M4bb)<!-- MEMES:END -->
 
 --- 
 
