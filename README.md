@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Check your globe](http://9gag.com/gag/aXnO3QV)
- - 😝 [Survival monday is here](http://9gag.com/gag/aBdeMvx)
- - 👉 [The cream of the crop](http://9gag.com/gag/aQEjbz7)<!-- MEMES:END -->
+ - 6️⃣ [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
+ - 😝 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
+ - 👉 [I\u2019m glad it ended this way, it would have been really sad](http://9gag.com/gag/axorK8L)<!-- MEMES:END -->
 
 --- 
 
