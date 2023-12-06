@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Raven Software Created Urzikstan, the Definitive Call of Duty: Warzone Map](https://news.xbox.com/en-us/2023/12/06/how-raven-software-created-urzikstan-the-definitive-call-of-duty-warzone-map/)
- - [All the Warhammer 40K lore you need to know for Rogue Trader](https://www.polygon.com/23984636/warhammer-40k-rogue-trader-starting-lore-explainer)
- - [GTA 6 Trailer Packed With Moments Inspired By Actual Florida Shenanigans](https://kotaku.com/grand-theft-auto-6-gta-florida-man-real-life-references-1851077498)<!-- GAME:END -->
+ - [Have a Nice Death Brings Roguelike Fun and Challenge to Xbox](https://news.xbox.com/en-us/2023/12/06/have-a-nice-death-brings-roguelike-fun-and-challenge-to-xbox/)
+ - [GTA 6 Trailer Makes Tom Petty Song Explode On Spotify](https://kotaku.com/gta-6-vi-trailer-song-tom-petty-love-is-a-long-road-1851077993)
+ - [Xbox Insider Release Notes – Alpha &lpar;2402.231204-2200&rpar;](https://news.xbox.com/en-us/2023/12/06/xbox-insider-release-notes-alpha-2402-231204-2200/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
