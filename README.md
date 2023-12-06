@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may have a busy March with a rumored larger iPad Air, OLED iPad Pros, and new Macs](https://appleinsider.com/articles/23/12/06/apple-may-have-a-busy-march-with-a-rumored-larger-ipad-air-oled-ipad-pros-and-new-macs?utm_medium=rss)
- - [The Verge’s favorite splurge-worthy gifts for 2023](https://www.theverge.com/23920823/expensive-holiday-gifts-wishes-extravagant-ideas-presents-2023)
- - [Disney Plus and Hulu’s one-app experience is launching in beta](https://www.theverge.com/2023/12/6/23990787/disney-plus-hulu-one-app-experience-beta-launch)<!-- TECH:END -->
+ - [The best Xbox 360 emulators for PC](https://www.androidauthority.com/best-xbox-360-emulators-for-pc-3392044/)
+ - [Goodbye, green bubbles: How to send blue iMessages from Android with Beeper Mini](https://appleinsider.com/articles/23/12/06/goodbye-green-bubbles-how-to-send-blue-imessages-from-android-with-beeper-mini?utm_medium=rss)
+ - [You can still nab Nintendo’s Smash Bros.-themed Switch OLED for $325](https://www.theverge.com/2023/12/6/23989396/nintendo-switch-oled-smash-bros-bundle-samsung-smarttag2-bluetooth-tracker-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
