@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon Spaces brings us closer to ubiquitous Spatial Computing](https://www.androidauthority.com/snapdragon-spaces-brings-us-closer-to-ubiquitous-spatial-computing-3387938/)
- - [Women Buy More Cars, So Why Are the Designs So Macho?](https://www.wired.com/story/women-buy-more-cars-so-why-are-the-designs-so-macho/)
- - [26 Gifts Teens May Actually Like](https://www.wired.com/gallery/best-gift-ideas-for-teens/)<!-- TECH:END -->
+ - [Rare chance to slash $400 off the Google Pixel 7 Pro](https://www.androidauthority.com/google-pixel-7-pro-woot-deal-3392041/)
+ - [AI data startup VAST Data, which unifies storage, databases, and more, raised a $118M Series E led by Fidelity at a $9B valuation, up from $3.7B in May 2021 &lpar;Globes Online&rpar;](http://www.techmeme.com/231206/p27#a231206p27)
+ - [Google details AlphaCode 2, an update to AlphaCode, announced in February 2022, powered by Gemini that beats ~85% of competitors in Codeforces competitions &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231206/p26#a231206p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
