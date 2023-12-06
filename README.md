@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Mexico sues Meta, alleging the company let Facebook and Instagram &quot;become a marketplace for predators in search of children&quot;, and blames Mark Zuckerberg &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231206/p14#a231206p14)
- - [Amazon slams Microsoft’s business practices in UK cloud market probe](https://www.theverge.com/2023/12/6/23990374/amazon-microsoft-uk-cloud-market-competition-probe)
- - [Teardown reveals Assistant with Bard is moving closer to Android release](https://www.androidauthority.com/assistant-with-bard-android-features-apk-teardown-3391889/)<!-- TECH:END -->
+ - [Snapdragon Spaces brings us closer to ubiquitous Spatial Computing](https://www.androidauthority.com/snapdragon-spaces-brings-us-closer-to-ubiquitous-spatial-computing-3387938/)
+ - [Women Buy More Cars, So Why Are the Designs So Macho?](https://www.wired.com/story/women-buy-more-cars-so-why-are-the-designs-so-macho/)
+ - [26 Gifts Teens May Actually Like](https://www.wired.com/gallery/best-gift-ideas-for-teens/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
