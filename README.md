@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rare chance to slash $400 off the Google Pixel 7 Pro](https://www.androidauthority.com/google-pixel-7-pro-woot-deal-3392041/)
- - [AI data startup VAST Data, which unifies storage, databases, and more, raised a $118M Series E led by Fidelity at a $9B valuation, up from $3.7B in May 2021 &lpar;Globes Online&rpar;](http://www.techmeme.com/231206/p27#a231206p27)
- - [Google details AlphaCode 2, an update to AlphaCode, announced in February 2022, powered by Gemini that beats ~85% of competitors in Codeforces competitions &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231206/p26#a231206p26)<!-- TECH:END -->
+ - [Apple may have a busy March with a rumored larger iPad Air, OLED iPad Pros, and new Macs](https://appleinsider.com/articles/23/12/06/apple-may-have-a-busy-march-with-a-rumored-larger-ipad-air-oled-ipad-pros-and-new-macs?utm_medium=rss)
+ - [The Verge’s favorite splurge-worthy gifts for 2023](https://www.theverge.com/23920823/expensive-holiday-gifts-wishes-extravagant-ideas-presents-2023)
+ - [Disney Plus and Hulu’s one-app experience is launching in beta](https://www.theverge.com/2023/12/6/23990787/disney-plus-hulu-one-app-experience-beta-launch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
