@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The eyes of darkness.](http://9gag.com/gag/aKEMRG6)
- - 😝 [Democracy](http://9gag.com/gag/aPgqEow)
- - 👉 [Defeated male leaves](http://9gag.com/gag/ap9M4bb)<!-- MEMES:END -->
+ - 6️⃣ [Witchcraft banned from Rwandan soccer matches after bizarre incident &lpar;2016 but still WTF&rpar;](http://9gag.com/gag/awZp2zR)
+ - 😝 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)
+ - 👉 [Disney has lost 1.4 billion this year. &lpar;Source: Dan Murrell&rpar;](http://9gag.com/gag/aGEQ4E6)<!-- MEMES:END -->
 
 --- 
 
