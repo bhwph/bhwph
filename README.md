@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When dream comes true](http://9gag.com/gag/aMELLO1)
- - 😝 [School is for the weak](http://9gag.com/gag/adPzzZQ)
- - 👉 [It&#39;s official: Israel has began to flood the hamas tunnels with the terr\u00f3rist inside](http://9gag.com/gag/aZDYO5Q)<!-- MEMES:END -->
+ - 6️⃣ [What happend to the egyptian lawsuit against Netflix ?](http://9gag.com/gag/ap9M76E)
+ - 😝 [It&#39;s official](http://9gag.com/gag/a7qxx9m)
+ - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
 
 --- 
 
