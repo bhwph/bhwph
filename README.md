@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When Grand Theft Auto 6 takes place: a maybe-I’m-overthinking-this investigation](https://www.polygon.com/23989701/gta-6-year-takes-place-lucia-2025-grand-theft-auto)
- - [Community Update December 2023 – Virtually Optimized Month](https://news.xbox.com/en-us/2023/12/05/community-update-december-2023-virtually-optimized-month/)
- - [Oops! Blizzard accidentally nerfs every Diablo 4 player on the same day its brutally hard new dungeon releases](https://www.pcgamer.com/oops-blizzard-accidentally-nerfs-every-diablo-4-player-on-the-same-day-its-brutally-hard-new-dungeon-releases)<!-- GAME:END -->
+ - [The PC game releases we&#39;re most excited about in December](https://www.pcgamer.com/PC-game-releases-december-2023)
+ - [6 burning questions we have after seeing the GTA 6 trailer](https://www.pcgamer.com/6-burning-questions-we-have-after-seeing-the-gta-6-trailer)
+ - [Grand Theft Auto 6’s hype has been defined by leaks](https://www.polygon.com/23989793/grand-theft-auto-6-gta6-leaks-who-leaked-trailer-hack)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
