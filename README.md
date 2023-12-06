@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bruh](http://9gag.com/gag/amAZ43j)
- - 😝 [Hehe](http://9gag.com/gag/aQEj5PK)
- - 👉 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)<!-- MEMES:END -->
+ - 6️⃣ [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
+ - 😝 [That&#39;s a clean hit](http://9gag.com/gag/a5XYYAE)
+ - 👉 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)<!-- MEMES:END -->
 
 --- 
 
