@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to exchange a gift with Mateo in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23988910/mateo-exchange-gift-location-find)
- - [Wordle today: Hint and answer #900 for Wednesday, December 6](https://www.pcgamer.com/wordle-today-answer-900-december-6)
- - [The PC game releases we&#39;re most excited about in December](https://www.pcgamer.com/PC-game-releases-december-2023)<!-- GAME:END -->
+ - [Armello studio lays off over half its staff and &#39;indefinitely&#39; pauses development on its ongoing early access game because &#39;almost all funding and investment has evaporated from the videogame industry&#39;](https://www.pcgamer.com/armello-studio-lays-off-half-its-staff-and-indefinitely-pauses-development-on-its-ongoing-early-access-game-because-almost-all-funding-and-investment-has-evaporated-from-the-videogame-industry)
+ - [A Chatbot from the 1960s has thoroughly beaten OpenAI&#39;s GPT-3.5 in a Turing test, because people thought it was just &#39;too bad&#39; to be an actual AI](https://www.pcgamer.com/a-chatbot-from-the-1960s-has-thoroughly-beaten-openais-gpt-35-in-a-turing-test-because-people-thought-it-was-just-too-bad-to-be-an-actual-ai)
+ - [A cool PvP event in WoW Classic&#39;s Season of Discovery has spiralled into a complete zergfest—with huge swarms of players ending it in minutes](https://www.pcgamer.com/a-cool-pvp-event-in-wow-classics-season-of-discovery-has-spiralled-into-a-complete-zergfestwith-huge-swarms-of-players-ending-it-in-minutes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
