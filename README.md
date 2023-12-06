@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to solve the Electrodynamic Cenobium riddle in Warhammer 40K: Rogue Trader](https://www.pcgamer.com/warhammer-40k-rogue-trader-electrodynamic-cenobium-riddle-galvanic-hymn)
- - [Warhammer 40K: Rogue Trader companions and where to recruit each](https://www.pcgamer.com/warhammer-40k-rogue-trader-companions)
- - [How to solve the Eurac V laboratory puzzle in Warhammer 40K: Rogue Trader](https://www.pcgamer.com/warhammer-40k-rogue-trader-lab-puzzle-eurac-v)<!-- GAME:END -->
+ - [Masters of the Air trailer goes well beyond recreating stock footage from WWII](https://www.polygon.com/23990612/masters-of-the-air-combat-trailer)
+ - [Report: Bungie Will Lose Independence Within Sony If Destiny 2 Fails Financial Goals](https://kotaku.com/bungie-destiny-2-sony-final-shape-playstation-1851077097)
+ - [You can play 10 nominees for The Game Awards for only $10 with PC Game Pass](https://www.pcgamer.com/you-can-play-10-nominees-for-the-game-awards-for-only-dollar10-with-pc-game-pass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
