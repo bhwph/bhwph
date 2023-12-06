@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Xbox 360 emulators for PC](https://www.androidauthority.com/best-xbox-360-emulators-for-pc-3392044/)
- - [Goodbye, green bubbles: How to send blue iMessages from Android with Beeper Mini](https://appleinsider.com/articles/23/12/06/goodbye-green-bubbles-how-to-send-blue-imessages-from-android-with-beeper-mini?utm_medium=rss)
- - [You can still nab Nintendo’s Smash Bros.-themed Switch OLED for $325](https://www.theverge.com/2023/12/6/23989396/nintendo-switch-oled-smash-bros-bundle-samsung-smarttag2-bluetooth-tracker-deal-sale)<!-- TECH:END -->
+ - [Google posts instructions for restoring files in Google Drive for desktop, after users reported that some of their files disappeared &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231206/p40#a231206p40)
+ - [iPhone SE 4 to inherit iPhone 14 battery, according to rumor](https://appleinsider.com/articles/23/12/06/iphone-se-4-to-inherit-iphone-14-battery-according-to-rumor?utm_medium=rss)
+ - [McDonald’s will use Google AI to make sure your fries are fresh, or something?](https://www.theverge.com/2023/12/6/23990900/mcdonalds-google-ai-cloud-generative)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
