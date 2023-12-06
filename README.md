@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Have a Nice Death Brings Roguelike Fun and Challenge to Xbox](https://news.xbox.com/en-us/2023/12/06/have-a-nice-death-brings-roguelike-fun-and-challenge-to-xbox/)
- - [GTA 6 Trailer Makes Tom Petty Song Explode On Spotify](https://kotaku.com/gta-6-vi-trailer-song-tom-petty-love-is-a-long-road-1851077993)
- - [Xbox Insider Release Notes – Alpha &lpar;2402.231204-2200&rpar;](https://news.xbox.com/en-us/2023/12/06/xbox-insider-release-notes-alpha-2402-231204-2200/)<!-- GAME:END -->
+ - [Fortnite’s new map is too bougie for me](https://www.polygon.com/23990967/fortnite-chapter-5-season-1-map-too-fancy)
+ - [Avatar: Frontiers of Pandora proves that all humans talk to Na’vi groins](https://www.polygon.com/gaming/23991007/avatar-frontiers-of-pandora-crouch-button)
+ - [Worst Version Of Batman: Arkham Trilogy Pays Tribute To Beloved Actor](https://kotaku.com/batman-arkham-trilogy-nintendo-switch-kevin-conroy-1851078683)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
