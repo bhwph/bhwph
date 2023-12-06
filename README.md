@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Disney has lost 1.4 billion this year. &lpar;Source: Dan Murrell&rpar;](http://9gag.com/gag/aGEQ4E6)
- - 😝 [Witchcraft banned from Rwandan soccer matches after bizarre incident &lpar;2016 but still WTF&rpar;](http://9gag.com/gag/awZp2zR)
- - 👉 [What? An normal N?](http://9gag.com/gag/aqeEMdZ)<!-- MEMES:END -->
+ - 6️⃣ [When dream comes true](http://9gag.com/gag/aMELLO1)
+ - 😝 [Hehe](http://9gag.com/gag/aQEj5PK)
+ - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
 
 --- 
 
