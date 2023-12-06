@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 12R could be an Ace up the company’s sleeve this month](https://www.androidauthority.com/oneplus-12r-ace-3-specs-launch-date-leak-3391861/)
- - [Q&amp;A with Waymo CPO Saswat Panigrahi on simulating 25K+ vehicles 24/7 to improve AI driving, growing San Francisco and Phoenix users amid Cruise&#39;s woes, and more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231206/p7#a231206p7)
- - [Sources: ByteDance is offering to buy back up to $5B worth of shares from existing investors at $160 per share, which puts the company&#39;s valuation at $268B &lpar;Zhou Xin/South China Morning Post&rpar;](http://www.techmeme.com/231206/p6#a231206p6)<!-- TECH:END -->
+ - [Sources: Apple tells component suppliers of its preference to source iPhone 16 batteries from Indian factories, as part of plans to diversify from China &lpar;Financial Times&rpar;](http://www.techmeme.com/231206/p9#a231206p9)
+ - [Budget OnePlus phones could get a camera zoom boost &lpar;Updated&rpar;](https://www.androidauthority.com/cheap-oneplus-oppo-realme-phones-camera-zoom-3391043/)
+ - [The internet enabled mass surveillance, and AI will enable mass spying, once limited by human labor, by making troves of data searchable and understandable &lpar;Bruce Schneier/Schneier on Security&rpar;](http://www.techmeme.com/231206/p8#a231206p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
