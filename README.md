@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Armello studio lays off over half its staff and &#39;indefinitely&#39; pauses development on its ongoing early access game because &#39;almost all funding and investment has evaporated from the videogame industry&#39;](https://www.pcgamer.com/armello-studio-lays-off-half-its-staff-and-indefinitely-pauses-development-on-its-ongoing-early-access-game-because-almost-all-funding-and-investment-has-evaporated-from-the-videogame-industry)
- - [A Chatbot from the 1960s has thoroughly beaten OpenAI&#39;s GPT-3.5 in a Turing test, because people thought it was just &#39;too bad&#39; to be an actual AI](https://www.pcgamer.com/a-chatbot-from-the-1960s-has-thoroughly-beaten-openais-gpt-35-in-a-turing-test-because-people-thought-it-was-just-too-bad-to-be-an-actual-ai)
- - [A cool PvP event in WoW Classic&#39;s Season of Discovery has spiralled into a complete zergfest—with huge swarms of players ending it in minutes](https://www.pcgamer.com/a-cool-pvp-event-in-wow-classics-season-of-discovery-has-spiralled-into-a-complete-zergfestwith-huge-swarms-of-players-ending-it-in-minutes)<!-- GAME:END -->
+ - [How to solve the Electrodynamic Cenobium riddle in Warhammer 40K: Rogue Trader](https://www.pcgamer.com/warhammer-40k-rogue-trader-electrodynamic-cenobium-riddle-galvanic-hymn)
+ - [Warhammer 40K: Rogue Trader companions and where to recruit each](https://www.pcgamer.com/warhammer-40k-rogue-trader-companions)
+ - [How to solve the Eurac V laboratory puzzle in Warhammer 40K: Rogue Trader](https://www.pcgamer.com/warhammer-40k-rogue-trader-lab-puzzle-eurac-v)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
