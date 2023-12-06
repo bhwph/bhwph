@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring in the savings: $250 off Apple&#39;s new 16&quot; M3 MacBook Pro](https://appleinsider.com/articles/23/12/06/ring-in-the-savings-250-off-apples-new-16-m3-macbook-pro?utm_medium=rss)
- - [At an all-hands meeting, Cruise President Mo Elshenawy said the company has hit an &quot;all time low&quot; and its tech needed to be &quot;significantly better&quot; than humans &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/231205/p36#a231205p36)
- - [We Tried Pizzacraft&#39;s $280 Pronto Pizza Oven. See How the Budget-Friendly Model Performed     - CNET](https://www.cnet.com/home/yard-and-outdoors/we-tried-pizzacrafts-280-pronto-pizza-oven-see-how-the-budget-friendly-model-performed/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hollywood’s strikes are over](https://www.theverge.com/2023/7/17/23798246/strike-hollywoods-writers-actors-wga-sag-aftra)
+ - [Massachusetts-based Dust Identity, which links physical items to digital records with diamond dust marks, raised a $40M Series B led by Castle Island Ventures &lpar;Kim Bhasin/Bloomberg&rpar;](http://www.techmeme.com/231205/p39#a231205p39)
+ - [Jensen Huang says Nvidia has been &quot;working very closely with the US government&quot; to create products that comply with US curbs on high-end chip exports to China &lpar;Reuters&rpar;](http://www.techmeme.com/231205/p38#a231205p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
