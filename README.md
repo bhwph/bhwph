@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple tells component suppliers of its preference to source iPhone 16 batteries from Indian factories, as part of plans to diversify from China &lpar;Financial Times&rpar;](http://www.techmeme.com/231206/p9#a231206p9)
- - [Budget OnePlus phones could get a camera zoom boost &lpar;Updated&rpar;](https://www.androidauthority.com/cheap-oneplus-oppo-realme-phones-camera-zoom-3391043/)
- - [The internet enabled mass surveillance, and AI will enable mass spying, once limited by human labor, by making troves of data searchable and understandable &lpar;Bruce Schneier/Schneier on Security&rpar;](http://www.techmeme.com/231206/p8#a231206p8)<!-- TECH:END -->
+ - [New Mexico sues Meta, alleging the company let Facebook and Instagram &quot;become a marketplace for predators in search of children&quot;, and blames Mark Zuckerberg &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231206/p14#a231206p14)
+ - [Amazon slams Microsoft’s business practices in UK cloud market probe](https://www.theverge.com/2023/12/6/23990374/amazon-microsoft-uk-cloud-market-competition-probe)
+ - [Teardown reveals Assistant with Bard is moving closer to Android release](https://www.androidauthority.com/assistant-with-bard-android-features-apk-teardown-3391889/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
