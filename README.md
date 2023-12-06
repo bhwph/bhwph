@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [When dream comes true](http://9gag.com/gag/aMELLO1)
- - 😝 [Hehe](http://9gag.com/gag/aQEj5PK)
- - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
+ - 😝 [School is for the weak](http://9gag.com/gag/adPzzZQ)
+ - 👉 [It&#39;s official: Israel has began to flood the hamas tunnels with the terr\u00f3rist inside](http://9gag.com/gag/aZDYO5Q)<!-- MEMES:END -->
 
 --- 
 
