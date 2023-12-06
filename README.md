@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Masters of the Air trailer goes well beyond recreating stock footage from WWII](https://www.polygon.com/23990612/masters-of-the-air-combat-trailer)
- - [Report: Bungie Will Lose Independence Within Sony If Destiny 2 Fails Financial Goals](https://kotaku.com/bungie-destiny-2-sony-final-shape-playstation-1851077097)
- - [You can play 10 nominees for The Game Awards for only $10 with PC Game Pass](https://www.pcgamer.com/you-can-play-10-nominees-for-the-game-awards-for-only-dollar10-with-pc-game-pass)<!-- GAME:END -->
+ - [How Raven Software Created Urzikstan, the Definitive Call of Duty: Warzone Map](https://news.xbox.com/en-us/2023/12/06/how-raven-software-created-urzikstan-the-definitive-call-of-duty-warzone-map/)
+ - [All the Warhammer 40K lore you need to know for Rogue Trader](https://www.polygon.com/23984636/warhammer-40k-rogue-trader-starting-lore-explainer)
+ - [GTA 6 Trailer Packed With Moments Inspired By Actual Florida Shenanigans](https://kotaku.com/grand-theft-auto-6-gta-florida-man-real-life-references-1851077498)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
