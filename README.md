@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [YOU BETTER WATCH OUT](http://9gag.com/gag/a9qGodD)
- - 😝 [A picture is worth a thousand words.](http://9gag.com/gag/anzoLdb)
- - 👉 [Who&#39;s on first?](http://9gag.com/gag/aGEQ3m6)<!-- MEMES:END -->
+ - 6️⃣ [This is why american cars are so big](http://9gag.com/gag/a2KXedd)
+ - 😝 [Alabama!](http://9gag.com/gag/amAZeWo)
+ - 👉 [Wait..](http://9gag.com/gag/aeQBorW)<!-- MEMES:END -->
 
 --- 
 
