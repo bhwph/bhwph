@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says Russia-linked propagandists duped at least seven Western celebrities via Cameo into recording videos later used to attack Volodymyr Zelensky &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231207/p19#a231207p19)
- - [OWC reveals Express 1M2, an ultra-fast USB 4 NVMe SSD enclosure](https://appleinsider.com/articles/23/12/07/owc-reveals-express-1m2-an-ultra-fast-usb-4-nvme-ssd-enclosure?utm_medium=rss)
- - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2023&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)<!-- TECH:END -->
+ - [Gemini Ultra vs Gemini Pro vs Gemini Nano: Google’s Gemini versions explained](https://www.androidauthority.com/gemini-ultra-vs-gemini-pro-vs-gemini-nano-3392135/)
+ - [Google’s 4K-ready Chromecast has returned to its Cyber Monday price](https://www.theverge.com/2023/12/7/23990867/google-pixel-7-pro-chromecast-with-google-tv-4k-ecoflow-delta-pro-deal-sale)
+ - [WhatsApp is rolling out self-destructing voice messages](https://www.theverge.com/2023/12/7/23992008/whatsapp-view-once-voice-notes-messages-self-destruct-privacy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
