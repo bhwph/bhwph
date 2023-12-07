@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
- - 😝 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
- - 👉 [Wait..](http://9gag.com/gag/aeQBorW)<!-- MEMES:END -->
+ - 6️⃣ [YOU BETTER WATCH OUT](http://9gag.com/gag/a9qGodD)
+ - 😝 [A picture is worth a thousand words.](http://9gag.com/gag/anzoLdb)
+ - 👉 [Who&#39;s on first?](http://9gag.com/gag/aGEQ3m6)<!-- MEMES:END -->
 
 --- 
 
