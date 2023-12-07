@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Car block ambulance](http://9gag.com/gag/aGEQ4g0)
- - 😝 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
- - 👉 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)<!-- MEMES:END -->
+ - 6️⃣ [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 😝 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
+ - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
 
 --- 
 
