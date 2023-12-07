@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google posts instructions for restoring files in Google Drive for desktop, after users reported that some of their files disappeared &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231206/p40#a231206p40)
- - [iPhone SE 4 to inherit iPhone 14 battery, according to rumor](https://appleinsider.com/articles/23/12/06/iphone-se-4-to-inherit-iphone-14-battery-according-to-rumor?utm_medium=rss)
- - [McDonald’s will use Google AI to make sure your fries are fresh, or something?](https://www.theverge.com/2023/12/6/23990900/mcdonalds-google-ai-cloud-generative)<!-- TECH:END -->
+ - [Sources: Microsoft plans the next major Windows version for 2024, with an AI-powered Windows Shell, an &quot;advanced Copilot&quot;, natural language search, and more &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231206/p44#a231206p44)
+ - [Messenger is finally getting end-to-end encryption by default](https://www.theverge.com/2023/12/6/23991501/facebook-messenger-default-end-to-end-encryption-meta)
+ - [Best Apple Watch Deals: Series 9 for $330, Up to $425 in Trade-In Credit and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
