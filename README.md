@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bruh](http://9gag.com/gag/amAZ43j)
- - 😝 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
- - 👉 [It&#39;s official](http://9gag.com/gag/a7qxx9m)<!-- MEMES:END -->
+ - 6️⃣ [Car block ambulance](http://9gag.com/gag/aGEQ4g0)
+ - 😝 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
+ - 👉 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)<!-- MEMES:END -->
 
 --- 
 
