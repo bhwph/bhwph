@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Ultra vs Gemini Pro vs Gemini Nano: Google’s Gemini versions explained](https://www.androidauthority.com/gemini-ultra-vs-gemini-pro-vs-gemini-nano-3392135/)
- - [Google’s 4K-ready Chromecast has returned to its Cyber Monday price](https://www.theverge.com/2023/12/7/23990867/google-pixel-7-pro-chromecast-with-google-tv-4k-ecoflow-delta-pro-deal-sale)
- - [WhatsApp is rolling out self-destructing voice messages](https://www.theverge.com/2023/12/7/23992008/whatsapp-view-once-voice-notes-messages-self-destruct-privacy)<!-- TECH:END -->
+ - [Apple seeds second macOS 14.2 Sonoma release candidate beta](https://appleinsider.com/articles/23/12/07/apple-seeds-second-macos-142-sonoma-release-candidate-beta?utm_medium=rss)
+ - [The Roku Ultra just dived 33% in this unprecedented deal](https://www.androidauthority.com/roku-ultra-deal-3392458/)
+ - [WhatsApp voice messages disappear now, keeping your private messages private](https://www.androidauthority.com/whatsapp-voice-messages-3392406/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
