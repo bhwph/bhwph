@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK accuses a unit of Russia&#39;s FSB of using cyberattacks in a &quot;sustained but unsuccessful&quot; campaign to undermine democratic institutions since 2015 &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/231207/p14#a231207p14)
- - [Satellite SOS is a game changer, says LA Search and Rescue](https://appleinsider.com/articles/23/12/07/satellite-sos-is-a-game-changer-says-la-search-and-rescue?utm_medium=rss)
- - [What is an emulator? Everything you need to know](https://www.androidauthority.com/what-is-an-emulator-3392300/)<!-- TECH:END -->
+ - [Microsoft says Russia-linked propagandists duped at least seven Western celebrities via Cameo into recording videos later used to attack Volodymyr Zelensky &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231207/p19#a231207p19)
+ - [OWC reveals Express 1M2, an ultra-fast USB 4 NVMe SSD enclosure](https://appleinsider.com/articles/23/12/07/owc-reveals-express-1m2-an-ultra-fast-usb-4-nvme-ssd-enclosure?utm_medium=rss)
+ - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2023&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
