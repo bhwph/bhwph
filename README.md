@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [GTA 6 detectives think its first trailer actually plays out in reverse—all thanks to an ankle bracelet with some grim, real-world implications](https://www.pcgamer.com/gta-6-detectives-think-its-first-trailer-actually-plays-out-in-reverseall-thanks-to-an-ankle-bracelet-with-some-grim-real-world-implications)<!-- GAME:END -->
+ - [The Among Us crewmates are coming to Vampire Survivors as its developer booms &#39;no realm or plane of reality is off limits&#39;](https://www.pcgamer.com/the-among-us-crewmates-are-coming-to-vampire-survivors-as-its-developer-booms-no-realm-or-plane-of-reality-is-off-limits)
+ - [How to use the Locked Diary in Call of Duty: Modern Warfare 3 zombies](https://www.pcgamer.com/call-of-duty-modern-warfare-3-locked-diary)
+ - [AMD announces refreshed Ryzen 8040 &#39;Hawk Point&#39; mobile chips and the excitement is, well, not particularly exciting](https://www.pcgamer.com/amd-announces-refreshed-ryzen-8040-hawk-point-mobile-chips-and-the-excitement-is-well-not-particularly-exciting)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
