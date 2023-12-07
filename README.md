@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Honest relationship advice from the brilliant Beckham](http://9gag.com/gag/aZDY6e3)
- - 😝 [Dont eat stolen food.](http://9gag.com/gag/anzoLm5)
- - 👉 [Laat Dovahkiin](http://9gag.com/gag/adPzZVB)<!-- MEMES:END -->
+ - 6️⃣ [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
+ - 😝 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
+ - 👉 [Wait..](http://9gag.com/gag/aeQBorW)<!-- MEMES:END -->
 
 --- 
 
