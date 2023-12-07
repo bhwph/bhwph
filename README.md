@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds second macOS 14.2 Sonoma release candidate beta](https://appleinsider.com/articles/23/12/07/apple-seeds-second-macos-142-sonoma-release-candidate-beta?utm_medium=rss)
- - [The Roku Ultra just dived 33% in this unprecedented deal](https://www.androidauthority.com/roku-ultra-deal-3392458/)
- - [WhatsApp voice messages disappear now, keeping your private messages private](https://www.androidauthority.com/whatsapp-voice-messages-3392406/)<!-- TECH:END -->
+ - [The 19 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [One day, your EV might power your home’s A/C](https://www.theverge.com/2023/12/7/23992267/ford-resideo-ev-home-power-partnership-bidirectional-charging)
+ - [Google gives users a way move their podcasts before Google Podcasts ends](https://www.androidauthority.com/google-podcasts-migration-tool-3392468/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
