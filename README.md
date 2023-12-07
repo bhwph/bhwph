@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Mother visiting the statue of her Son Oleksandr Matsievskyi](http://9gag.com/gag/aEq4r7G)
- - 😝 [You hired](http://9gag.com/gag/aVb6NAw)
- - 👉 [This should be the replay to all the `what you going to do if I break in your home ` videos](http://9gag.com/gag/aL1EZ6z)<!-- MEMES:END -->
+ - 6️⃣ [Honest relationship advice from the brilliant Beckham](http://9gag.com/gag/aZDY6e3)
+ - 😝 [Dont eat stolen food.](http://9gag.com/gag/anzoLm5)
+ - 👉 [Laat Dovahkiin](http://9gag.com/gag/adPzZVB)<!-- MEMES:END -->
 
 --- 
 
