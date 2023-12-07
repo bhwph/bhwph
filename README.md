@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
- - 😝 [That&#39;s a clean hit](http://9gag.com/gag/a5XYYAE)
- - 👉 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)<!-- MEMES:END -->
+ - 6️⃣ [Average night out in Thailand](http://9gag.com/gag/aVb6N7w)
+ - 😝 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
+ - 👉 [Cartel leader threatens police squad to stand down.](http://9gag.com/gag/a3ZOOXN)<!-- MEMES:END -->
 
 --- 
 
