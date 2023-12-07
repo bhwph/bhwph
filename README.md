@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Among Us crewmates are coming to Vampire Survivors as its developer booms &#39;no realm or plane of reality is off limits&#39;](https://www.pcgamer.com/the-among-us-crewmates-are-coming-to-vampire-survivors-as-its-developer-booms-no-realm-or-plane-of-reality-is-off-limits)
- - [How to use the Locked Diary in Call of Duty: Modern Warfare 3 zombies](https://www.pcgamer.com/call-of-duty-modern-warfare-3-locked-diary)
- - [AMD announces refreshed Ryzen 8040 &#39;Hawk Point&#39; mobile chips and the excitement is, well, not particularly exciting](https://www.pcgamer.com/amd-announces-refreshed-ryzen-8040-hawk-point-mobile-chips-and-the-excitement-is-well-not-particularly-exciting)<!-- GAME:END -->
+ - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)
+ - [Batman: Arkham Trilogy pays tribute to the late Kevin Conroy](https://www.pcgamer.com/batman-arkham-trilogy-pays-tribute-to-the-late-kevin-conroy)
+ - [How to beat the Gormgant boss in Call of Duty: Modern Warfare 3 Zombies](https://www.pcgamer.com/call-of-duty-modern-warfare-3-gormgant-boss-tips)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
