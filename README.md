@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is why american cars are so big](http://9gag.com/gag/a2KXedd)
- - 😝 [Alabama!](http://9gag.com/gag/amAZeWo)
- - 👉 [Wait..](http://9gag.com/gag/aeQBorW)<!-- MEMES:END -->
+ - 6️⃣ [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
+ - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
+ - 👉 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)<!-- MEMES:END -->
 
 --- 
 
