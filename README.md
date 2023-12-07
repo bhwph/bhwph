@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)
- - [Batman: Arkham Trilogy pays tribute to the late Kevin Conroy](https://www.pcgamer.com/batman-arkham-trilogy-pays-tribute-to-the-late-kevin-conroy)
- - [How to beat the Gormgant boss in Call of Duty: Modern Warfare 3 Zombies](https://www.pcgamer.com/call-of-duty-modern-warfare-3-gormgant-boss-tips)<!-- GAME:END -->
+ - [The Game Awards is doing another Steam Deck giveaway, now with OLED](https://www.polygon.com/game-awards-tga/23992204/game-awards-steam-deck-go-giveaway-lenovo-legion-go-sweepstakes)
+ - [How to watch The Game Awards 2023](https://www.polygon.com/23969879/game-awards-2023-when-start-time-where-to-watch-nominees)
+ - [From Coquette to the Cheetah Classic, here are all the GTA 6 cars we spotted in the trailer](https://www.pcgamer.com/gta-6-cars-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
