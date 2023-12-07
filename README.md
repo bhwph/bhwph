@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reuters temporarily removes its article titled &quot;How an Indian startup hacked the world&quot; to comply with an Indian court order, and plans to appeal the decision &lpar;Reuters&rpar;](http://www.techmeme.com/231207/p8#a231207p8)
- - [You can now talk to AI on WhatsApp, Messenger and Instagram](https://www.androidauthority.com/meta-ai-rollout-whatsapp-facebook-messenger-instagram-3392249/)
- - [Officials attribute a DDoS attack against the HHS in March 2020 to a state-level actor; docs: the DDoS attack was largest the US government had ever experienced &lpar;Bloomberg&rpar;](http://www.techmeme.com/231207/p7#a231207p7)<!-- TECH:END -->
+ - [The UK accuses a unit of Russia&#39;s FSB of using cyberattacks in a &quot;sustained but unsuccessful&quot; campaign to undermine democratic institutions since 2015 &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/231207/p14#a231207p14)
+ - [Satellite SOS is a game changer, says LA Search and Rescue](https://appleinsider.com/articles/23/12/07/satellite-sos-is-a-game-changer-says-la-search-and-rescue?utm_medium=rss)
+ - [What is an emulator? Everything you need to know](https://www.androidauthority.com/what-is-an-emulator-3392300/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
