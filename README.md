@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
- - 😝 [Bruh](http://9gag.com/gag/amAZ43j)
- - 👉 [Why would you only change one number \ud83d\ude02](http://9gag.com/gag/aYV03V2)<!-- MEMES:END -->
+ - 6️⃣ [New football skill](http://9gag.com/gag/aYV03PO)
+ - 😝 [Honest relationship advice from the brilliant Beckham](http://9gag.com/gag/aZDY6e3)
+ - 👉 [Trying to catch a spider goes wrong &lpar;NOPE&rpar;](http://9gag.com/gag/aVb6y1v)<!-- MEMES:END -->
 
 --- 
 
