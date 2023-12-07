@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Game Awards is doing another Steam Deck giveaway, now with OLED](https://www.polygon.com/game-awards-tga/23992204/game-awards-steam-deck-go-giveaway-lenovo-legion-go-sweepstakes)
- - [How to watch The Game Awards 2023](https://www.polygon.com/23969879/game-awards-2023-when-start-time-where-to-watch-nominees)
- - [From Coquette to the Cheetah Classic, here are all the GTA 6 cars we spotted in the trailer](https://www.pcgamer.com/gta-6-cars-list)<!-- GAME:END -->
+ - [How to play multiplayer with friends in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23992273/multiplayer-play-invite-friends-key-holder-shared-world)
+ - [The best anime of 2023](https://www.polygon.com/what-to-watch/23593277/best-anime-2023)
+ - [The Alone in the Dark reboot is delayed until March so developers can &#39;avoid any potential crunch over the Christmas holidays&#39;](https://www.pcgamer.com/the-alone-in-the-dark-reboot-is-delayed-until-march-so-developers-can-avoid-any-potential-crunch-over-the-christmas-holidays)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
