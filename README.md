@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite’s new map is too bougie for me](https://www.polygon.com/23990967/fortnite-chapter-5-season-1-map-too-fancy)
- - [Avatar: Frontiers of Pandora proves that all humans talk to Na’vi groins](https://www.polygon.com/gaming/23991007/avatar-frontiers-of-pandora-crouch-button)
- - [Worst Version Of Batman: Arkham Trilogy Pays Tribute To Beloved Actor](https://kotaku.com/batman-arkham-trilogy-nintendo-switch-kevin-conroy-1851078683)<!-- GAME:END -->
+ - [This beautiful 16-player co-op survival game from former Riot devs just got a new trailer and an official name](https://www.pcgamer.com/this-beautiful-16-player-co-op-survival-game-from-former-riot-devs-just-got-a-new-trailer-and-an-official-name)
+ - [Xbox Insider Release Notes – Omega &lpar;2311.231205-1910&rpar;](https://news.xbox.com/en-us/2023/12/06/xbox-insider-release-notes-omega-2311-231205-1910/)
+ - [Xbox Insider Release Notes – Delta &lpar;2311.231205-1910&rpar;](https://news.xbox.com/en-us/2023/12/06/xbox-insider-release-notes-delta-2311-231205-1910/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
