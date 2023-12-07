@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iMessage is just the start: Beeper Mini to soon get Facetime, SMS, RCS, more](https://www.androidauthority.com/beeper-mini-facetime-sms-rcs-3392214/)
- - [You can now force apps to go fullscreen on your Pixel Fold and Pixel Tablet](https://www.androidauthority.com/pixel-feature-drop-per-app-aspect-ratio-pixel-fold-tablet-3392228/)
- - [How tech giants like Google and Meta ramped up university donations over the years, giving them influence over research in AI, social media, and disinformation &lpar;Washington Post&rpar;](http://www.techmeme.com/231207/p6#a231207p6)<!-- TECH:END -->
+ - [Reuters temporarily removes its article titled &quot;How an Indian startup hacked the world&quot; to comply with an Indian court order, and plans to appeal the decision &lpar;Reuters&rpar;](http://www.techmeme.com/231207/p8#a231207p8)
+ - [You can now talk to AI on WhatsApp, Messenger and Instagram](https://www.androidauthority.com/meta-ai-rollout-whatsapp-facebook-messenger-instagram-3392249/)
+ - [Officials attribute a DDoS attack against the HHS in March 2020 to a state-level actor; docs: the DDoS attack was largest the US government had ever experienced &lpar;Bloomberg&rpar;](http://www.techmeme.com/231207/p7#a231207p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
