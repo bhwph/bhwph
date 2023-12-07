@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 19 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [One day, your EV might power your home’s A/C](https://www.theverge.com/2023/12/7/23992267/ford-resideo-ev-home-power-partnership-bidirectional-charging)
- - [Google gives users a way move their podcasts before Google Podcasts ends](https://www.androidauthority.com/google-podcasts-migration-tool-3392468/)<!-- TECH:END -->
+ - [Steve Jobs $4.01 check for RadioShack sold for $46,063 at auction](https://appleinsider.com/articles/23/12/07/steve-jobs-401-check-for-radioshack-sold-for-46063-at-auction?utm_medium=rss)
+ - [YouTube Premium’s price is going up in yet another country](https://www.androidauthority.com/youtube-premium-price-increase-3392523/)
+ - [Now Android phones can automatically send medical data during 911 calls](https://www.theverge.com/2023/12/7/23992311/google-android-12-personal-safety-emergency-responder-911-rapidsos)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
