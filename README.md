@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer magazine&#39;s latest issue is on sale now: SIGIL II and Doom&#39;s 30th anniversary](https://www.pcgamer.com/pc-gamer-magazines-latest-issue-on-sale-now-sigil-ii-and-dooms-30th-anniversary)
- - [The Day Before launch time: when you can play the open world survival MMO](https://www.pcgamer.com/the-day-before-launch-time-release-date)
- - [The best archetypes in Warhammer 40K: Rogue Trader](https://www.polygon.com/guides/23991015/warhammer-40k-rogue-trader-best-archetypes-tier-2)<!-- GAME:END -->
+ - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
+ - [GTA 6 detectives think its first trailer actually plays out in reverse—all thanks to an ankle bracelet with some grim, real-world implications](https://www.pcgamer.com/gta-6-detectives-think-its-first-trailer-actually-plays-out-in-reverseall-thanks-to-an-ankle-bracelet-with-some-grim-real-world-implications)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
