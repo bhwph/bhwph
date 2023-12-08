@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Motorola Razr Plus is now available in a vibrant Peach Fuzz option](https://www.androidauthority.com/motorola-razr-plus-peach-fuzz-3391834/)
- - [Android Auto will now let you save your parking location when you arrive at your destination](https://www.androidauthority.com/android-auto-google-maps-parking-location-3392613/)
- - [Sources: In a first, Apple is working with China&#39;s BYD to move new product development for an iPad to Vietnam, with test production to begin around early 2024 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231208/p2#a231208p2)<!-- TECH:END -->
+ - [Discord updated its mobile app layout, and users absolutely hate it](https://www.androidauthority.com/discord-new-mobile-layout-update-3392631/)
+ - [The Snapdragon 8 Gen 4 might drop little CPU cores altogether](https://www.androidauthority.com/snapdragon-8-gen-4-specs-leak-3392622/)
+ - [December Pixel Feature Drop seems to be rolling out very slowly](https://www.androidauthority.com/december-2023-pixel-feature-drop-slow-rollout-3392637/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
