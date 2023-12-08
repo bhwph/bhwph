@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Genshin Impact codes from the version 4.3 livestream](https://www.pcgamer.com/genshin-impact-codes-4-3-livestream)
- - [Microsoft, Meta and OpenAI back AMD&#39;s monstrous new 153 billion-transistor alternative to Nvidia&#39;s AI chips](https://www.pcgamer.com/microsoft-meta-and-openai-back-amds-monstrous-new-153-billion-transistor-alternative-to-nvidias-ai-chips)
- - [Every trailer and announcement from The Game Awards 2023](https://www.pcgamer.com/the-game-awards-2023-trailers-announcements)<!-- GAME:END -->
+ - [Battlestar Galactica showed fandom a better way](https://www.polygon.com/23991388/battlestar-galactica-anniversary-fandom-best-choices)
+ - [Developers blast the celeb-laden TGAs as &#39;an embarrassing indictment of a segment of the industry desperate for validation… with little respect for the devs&#39;](https://www.pcgamer.com/developers-blast-the-celeb-laden-tgas-as-an-embarrassing-indictment-of-a-segment-of-the-industry-desperate-for-validation-with-little-respect-for-the-devs)
+ - [Cyberpunk 2077 comes full circle with Sad Keanu meme](https://www.pcgamer.com/cyberpunk-2077-comes-full-circle-with-sad-keanu-meme)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
