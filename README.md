@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ori creators Moon Studios reveals its next big project at the Game Awards 2023](https://www.polygon.com/game-awards-tga/23992998/moon-studios-no-rest-for-the-wicked-private-division)
- - [Kojima reveals OD, an immersive horror game collab with Jordan Peele](https://www.polygon.com/23160488/od-trailer-kojima-horror-reveal-jordan-peele-awards)
- - [Matthew McConaughey took the stage at The Game Awards to premier an RPG from ex-BioWare vets that sounds like a Mass Effect: Andromeda do-over](https://www.pcgamer.com/matthew-mcconaughey-took-the-stage-at-the-game-awards-to-premier-an-rpg-from-ex-bioware-vets-that-sounds-like-a-mass-effect-andromeda-do-over)<!-- GAME:END -->
+ - [No Man&#39;s Sky Devs Working On Open-World Game Simulating Whole Planet](https://kotaku.com/no-mans-sky-light-no-fire-open-world-trailer-1851083189)
+ - [Baldur&#39;s Gate 3 Is Out On Xbox, Like Right Now](https://kotaku.com/baldurs-gate-3-xbox-release-date-bg3-game-awards-1851081734)
+ - [Baldur’s Gate 3 is now out on Xbox Series X](https://www.polygon.com/23991184/baldurs-gate-3-xbox-release-date-game-awards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
