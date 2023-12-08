@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Grok responses Elon Musk has highlighted on X shows an AI chatbot whose unfunny, &quot;edgy&quot;, pointlessly offensive humor feels forced and try-hard &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/231208/p12#a231208p12)
- - [iPhone 16 microphones, Apple Watch flashlight, and Emergency SOS on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/08/iphone-16-microphones-apple-watch-flashlight-and-emergency-sos-on-the-appleinsider-podcast?utm_medium=rss)
- - [Poll: Would you buy a Galaxy S24 without Snapdragon power?](https://www.androidauthority.com/buy-galaxy-s24-without-snapdragon-poll-3392812/)<!-- TECH:END -->
+ - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)
+ - [Morgan Stanley boosts Apple price to $220 over AI and Vision Pro](https://appleinsider.com/articles/23/12/08/morgan-stanley-boosts-apple-price-to-220-over-ai-and-vision-pro?utm_medium=rss)
+ - [Galaxy Fit 3 name confirmed, new Samsung fitness tracker is coming soon](https://www.androidauthority.com/samsung-galaxy-fit-3-bluetooth-3392846/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
