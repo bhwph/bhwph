@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
- - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
- - 👉 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)<!-- MEMES:END -->
+ - 6️⃣ [GTA 6](http://9gag.com/gag/aXnOByz)
+ - 😝 [Wait..](http://9gag.com/gag/aeQBorW)
+ - 👉 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)<!-- MEMES:END -->
 
 --- 
 
