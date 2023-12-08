@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final Fantasy XVI stealth launches one DLC with another on the way](https://www.theverge.com/games/23993141/final-fantasy-xvi-dlc-echoes-of-the-fallen-the-game-awards)
- - [Sources: Tata plans to build one of India&#39;s largest iPhone plants employing 50,000 workers within two years, and expects operations to begin in 12-18 months &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/231207/p45#a231207p45)
- - [Capcom announces Monster Hunter Wilds for 2025](https://www.theverge.com/23991181/monster-hunter-wilds-trailer-capcom-announce-trailer)<!-- TECH:END -->
+ - [The Motorola Razr Plus is now available in a vibrant Peach Fuzz option](https://www.androidauthority.com/motorola-razr-plus-peach-fuzz-3391834/)
+ - [Android Auto will now let you save your parking location when you arrive at your destination](https://www.androidauthority.com/android-auto-google-maps-parking-location-3392613/)
+ - [Sources: In a first, Apple is working with China&#39;s BYD to move new product development for an iPad to Vietnam, with test production to begin around early 2024 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231208/p2#a231208p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
