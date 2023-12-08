@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Fak around and what?](http://9gag.com/gag/aEq4r5O)
  - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - 👉 [They&#39;re pulling out all the stops for Deadpool 3](http://9gag.com/gag/adPzmwZ)<!-- MEMES:END -->
+ - 👉 [It&#39;ll be interesting to see if his actions follow his words, and if France will be next](http://9gag.com/gag/aZDYAvV)<!-- MEMES:END -->
 
 --- 
 
