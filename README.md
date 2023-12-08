@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man&#39;s Sky Devs Working On Open-World Game Simulating Whole Planet](https://kotaku.com/no-mans-sky-light-no-fire-open-world-trailer-1851083189)
- - [Baldur&#39;s Gate 3 Is Out On Xbox, Like Right Now](https://kotaku.com/baldurs-gate-3-xbox-release-date-bg3-game-awards-1851081734)
- - [Baldur’s Gate 3 is now out on Xbox Series X](https://www.polygon.com/23991184/baldurs-gate-3-xbox-release-date-game-awards)<!-- GAME:END -->
+ - [Every trailer and announcement from The Game Awards 2023](https://www.pcgamer.com/the-game-awards-2023-trailers-announcements)
+ - [The biggest announcements from The Game Awards 2023](https://www.polygon.com/game-awards-tga/23992648/the-game-awards-2023-biggest-game-announcements-trailers)
+ - [Suicide Squad Will Get An Offline Story Mode, Eventually](https://kotaku.com/suicide-squad-justice-league-trailer-offline-mode-1851083286)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
