@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam’s Most-Hyped Zombie Game Is Out, And It’s A Dumpster Fire](https://kotaku.com/day-before-steam-zombie-reviews-survival-horror-1851082164)
- - [The Last of Us Part 2 Remastered pre-order guide](https://www.polygon.com/deals/23992106/the-last-of-us-part-2-remastered-pre-order-wlf-edition-ps5)
- - [The new Avatar game has a graphics preset so &#39;extremely difficult to run&#39; you&#39;re probably Na&#39;vi gonna turn it on](https://www.pcgamer.com/the-new-avatar-game-has-a-graphics-preset-so-extremely-difficult-to-run-youre-probably-navi-gonna-turn-it-on)<!-- GAME:END -->
+ - [Dead Cells creators reveal their next game, Windblown](https://www.polygon.com/game-awards-tga/23991239/dead-cells-motion-twin-game-awards-windblown-release-date)
+ - [Dead Cells studio reveals its new game at The Game Awards: A fast-paced co-op roguelike in which cute animated animals get absolutely massacred](https://www.pcgamer.com/dead-cells-studio-reveals-its-new-game-at-the-game-awards-a-fast-paced-co-op-roguelike-in-which-cute-animated-animals-get-absolutely-massacred)
+ - [These are the Game Awards 2023 winners](https://www.polygon.com/game-awards-tga/23959124/game-awards-tga-2023-goty-game-of-the-year-nominees-list-totk-bg3-mario-spider-man)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
