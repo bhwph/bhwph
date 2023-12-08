@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s powerful and independent labor movement presents a challenge for Apple in its ambitions to diversify its production away from China &lpar;Megha Mandavia/Wall Street Journal&rpar;](http://www.techmeme.com/231208/p10#a231208p10)
- - [Tesla confirms Apple Podcasts coming in holiday update &#39;next week&#39;](https://appleinsider.com/articles/23/12/08/tesla-confirms-apple-podcasts-coming-in-holiday-update-next-week?utm_medium=rss)
- - [Mobile network companies have backed themselves into a corner by racing to roll out 5G, taking on piles of debt with few returns to show for their investments &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231208/p9#a231208p9)<!-- TECH:END -->
+ - [A look at Grok responses Elon Musk has highlighted on X shows an AI chatbot whose unfunny, &quot;edgy&quot;, pointlessly offensive humor feels forced and try-hard &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/231208/p12#a231208p12)
+ - [iPhone 16 microphones, Apple Watch flashlight, and Emergency SOS on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/08/iphone-16-microphones-apple-watch-flashlight-and-emergency-sos-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Poll: Would you buy a Galaxy S24 without Snapdragon power?](https://www.androidauthority.com/buy-galaxy-s24-without-snapdragon-poll-3392812/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
