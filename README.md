@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait..](http://9gag.com/gag/aeQBorW)
- - 😝 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
- - 👉 [Capt](http://9gag.com/gag/aL1EyG5)<!-- MEMES:END -->
+ - 6️⃣ [GTA 6](http://9gag.com/gag/aXnOByz)
+ - 😝 [This is BBC news!](http://9gag.com/gag/aOxWg26)
+ - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
 
 --- 
 
