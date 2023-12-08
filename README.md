@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every trailer and announcement from The Game Awards 2023](https://www.pcgamer.com/the-game-awards-2023-trailers-announcements)
- - [The biggest announcements from The Game Awards 2023](https://www.polygon.com/game-awards-tga/23992648/the-game-awards-2023-biggest-game-announcements-trailers)
- - [Suicide Squad Will Get An Offline Story Mode, Eventually](https://kotaku.com/suicide-squad-justice-league-trailer-offline-mode-1851083286)<!-- GAME:END -->
+ - [All Genshin Impact codes from the version 4.3 livestream](https://www.pcgamer.com/genshin-impact-codes-4-3-livestream)
+ - [Microsoft, Meta and OpenAI back AMD&#39;s monstrous new 153 billion-transistor alternative to Nvidia&#39;s AI chips](https://www.pcgamer.com/microsoft-meta-and-openai-back-amds-monstrous-new-153-billion-transistor-alternative-to-nvidias-ai-chips)
+ - [Every trailer and announcement from The Game Awards 2023](https://www.pcgamer.com/the-game-awards-2023-trailers-announcements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
