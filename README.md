@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Creator behind hugely popular Skyrim co-op mod gives up on the Starfield version of it because, drum roll please, &#39;this game is f***ing trash&#39;](https://www.pcgamer.com/creator-behind-hugely-popular-skyrim-co-op-mod-gives-up-on-the-starfield-version-of-it-because-drum-roll-please-this-game-is-fing-trash)
- - [How to find caves in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23993466/caves-how-to-find-where-locations)
- - [Netflix’s Leave the World Behind serves up a very privileged apocalypse](https://www.polygon.com/reviews/23992542/netflix-leave-the-world-behind-review)<!-- GAME:END -->
+ - [Xbox&#39;s Big 2024 Xbox Exclusive Looks Intense AF](https://kotaku.com/hellblade-2-senuas-saga-sacrifice-xbox-2024-1851084894)
+ - [The Sacrifice Game and The Holdovers are 2023’s best Christmas double feature](https://www.polygon.com/23992664/sacrifice-game-vs-holdovers-similarities-differences)
+ - [How to get Flexwood in Lego Fortnite](https://www.pcgamer.com/lego-fortnite-flexwood-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
