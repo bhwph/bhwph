@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fak around and what?](http://9gag.com/gag/aEq4r5O)
- - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - 👉 [It&#39;ll be interesting to see if his actions follow his words, and if France will be next](http://9gag.com/gag/aZDYAvV)<!-- MEMES:END -->
+ - 6️⃣ [Lifehack found](http://9gag.com/gag/aEq4rWx)
+ - 😝 [Why is that](http://9gag.com/gag/aKEo4Bb)
+ - 👉 [Raised a kitten](http://9gag.com/gag/aA0zBR9)<!-- MEMES:END -->
 
 --- 
 
