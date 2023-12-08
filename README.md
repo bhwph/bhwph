@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Jobs $4.01 check for RadioShack sold for $46,063 at auction](https://appleinsider.com/articles/23/12/07/steve-jobs-401-check-for-radioshack-sold-for-46063-at-auction?utm_medium=rss)
- - [YouTube Premium’s price is going up in yet another country](https://www.androidauthority.com/youtube-premium-price-increase-3392523/)
- - [Now Android phones can automatically send medical data during 911 calls](https://www.theverge.com/2023/12/7/23992311/google-android-12-personal-safety-emergency-responder-911-rapidsos)<!-- TECH:END -->
+ - [Amazon Prime tests a $9.99 per month unlimited grocery delivery subscription](https://www.theverge.com/2023/12/7/23992777/amazon-prime-unlimited-grocery-delivery-pilot)
+ - [Best Internet Providers in Fayetteville, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-fayetteville-nc/#ftag=CAD590a51e)
+ - [Best Online Glasses and Contacts Deals: These Savings Are a Sight for Sore Eyes     - CNET](https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
