@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is reorganizing its hardware engineering team as Tang Tan, its VP in charge of iPhone and Watch product design, plans to step down in February &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231208/p21#a231208p21)
- - [Tracxn: Indian startups raised ~$7B in 2023, the lowest since 2018 and down from ~$25B in 2022 and ~$37B in 2021; Bessemer made only one deal in India in 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231208/p20#a231208p20)
- - [There won’t be a small Chevy Bolt EV on GM’s Ultium platform](https://www.theverge.com/2023/12/8/23993840/chevy-bolt-ev-euv-gm-ultium-hatchback-size)<!-- TECH:END -->
+ - [Apple has seemingly found a way to block Android’s new iMessage app](https://www.theverge.com/2023/12/8/23994089/apple-beeper-mini-android-blocked-imessage-app)
+ - [Beeper Mini is down, and we’re learning what that will mean for its future](https://www.androidauthority.com/beeper-mini-down-3392963/)
+ - [As Beeper Mini experiences an outage, Beeper CEO Eric Migicovsky says that &quot;all data indicates&quot; Apple found a way to cut off the app&#39;s ability to function &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231208/p23#a231208p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
