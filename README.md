@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XVI Update Adds Heartbreaking New Detail About Your Beloved Wolf](https://kotaku.com/final-fantasy-16-ff16-update-1-21-torgal-inner-voice-1851085471)
- - [Best RAM-7 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23993792/best-ram-7-loadout-class-build-mw3)
- - [Jurassic World: Adventures DLC Now Available in the Minecraft Marketplace](https://www.minecraft.net/en-us/article/new-jurassic-world-adventures#new_tab)<!-- GAME:END -->
+ - [The best Modern Warfare 3 guns to use in Season 1](https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3)
+ - [The Best Part Of The Game Awards This Year Was The Fashion](https://kotaku.com/game-awards-2023-fashion-fit-drip-best-dressed-1851085572)
+ - [8 tips and tricks to know before starting Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23993737/tips-tricks-beginners-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
