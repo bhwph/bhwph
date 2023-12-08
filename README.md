@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox&#39;s Big 2024 Xbox Exclusive Looks Intense AF](https://kotaku.com/hellblade-2-senuas-saga-sacrifice-xbox-2024-1851084894)
- - [The Sacrifice Game and The Holdovers are 2023’s best Christmas double feature](https://www.polygon.com/23992664/sacrifice-game-vs-holdovers-similarities-differences)
- - [How to get Flexwood in Lego Fortnite](https://www.pcgamer.com/lego-fortnite-flexwood-location)<!-- GAME:END -->
+ - [Final Fantasy XVI Update Adds Heartbreaking New Detail About Your Beloved Wolf](https://kotaku.com/final-fantasy-16-ff16-update-1-21-torgal-inner-voice-1851085471)
+ - [Best RAM-7 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23993792/best-ram-7-loadout-class-build-mw3)
+ - [Jurassic World: Adventures DLC Now Available in the Minecraft Marketplace](https://www.minecraft.net/en-us/article/new-jurassic-world-adventures#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
