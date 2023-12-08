@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lifehack found](http://9gag.com/gag/aEq4rWx)
- - 😝 [Why is that](http://9gag.com/gag/aKEo4Bb)
- - 👉 [Raised a kitten](http://9gag.com/gag/aA0zBR9)<!-- MEMES:END -->
+ - 6️⃣ [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
+ - 😝 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
+ - 👉 [She\u2019s so full of shit that he leave before giver her a kid](http://9gag.com/gag/aWGXwR4)<!-- MEMES:END -->
 
 --- 
 
