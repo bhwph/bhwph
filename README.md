@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)
- - [Morgan Stanley boosts Apple price to $220 over AI and Vision Pro](https://appleinsider.com/articles/23/12/08/morgan-stanley-boosts-apple-price-to-220-over-ai-and-vision-pro?utm_medium=rss)
- - [Galaxy Fit 3 name confirmed, new Samsung fitness tracker is coming soon](https://www.androidauthority.com/samsung-galaxy-fit-3-bluetooth-3392846/)<!-- TECH:END -->
+ - [Sources: X has had preliminary talks with Amazon to make ads available via Amazon&#39;s ad-buying software, and PubMatic, as it seeks to attract smaller advertisers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p18#a231208p18)
+ - [The First Crispr Medicine Is Now Approved in the US](https://www.wired.com/story/the-first-crispr-medicine-is-now-approved-in-the-us/)
+ - [Google and McDonald’s team up to give you a side of AI with your burger](https://www.androidauthority.com/google-mcdonalds-ai-3392879/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
