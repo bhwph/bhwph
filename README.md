@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlestar Galactica showed fandom a better way](https://www.polygon.com/23991388/battlestar-galactica-anniversary-fandom-best-choices)
- - [Developers blast the celeb-laden TGAs as &#39;an embarrassing indictment of a segment of the industry desperate for validation… with little respect for the devs&#39;](https://www.pcgamer.com/developers-blast-the-celeb-laden-tgas-as-an-embarrassing-indictment-of-a-segment-of-the-industry-desperate-for-validation-with-little-respect-for-the-devs)
- - [Cyberpunk 2077 comes full circle with Sad Keanu meme](https://www.pcgamer.com/cyberpunk-2077-comes-full-circle-with-sad-keanu-meme)<!-- GAME:END -->
+ - [Creator behind hugely popular Skyrim co-op mod gives up on the Starfield version of it because, drum roll please, &#39;this game is f***ing trash&#39;](https://www.pcgamer.com/creator-behind-hugely-popular-skyrim-co-op-mod-gives-up-on-the-starfield-version-of-it-because-drum-roll-please-this-game-is-fing-trash)
+ - [How to find caves in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23993466/caves-how-to-find-where-locations)
+ - [Netflix’s Leave the World Behind serves up a very privileged apocalypse](https://www.polygon.com/reviews/23992542/netflix-leave-the-world-behind-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
