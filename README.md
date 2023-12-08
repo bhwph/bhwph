@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTubers can now pause comments after Google moderation tweaks](https://www.theverge.com/2023/12/8/23993284/youtube-pause-comment-moderation-feature-announcement)
- - [Zenfone 11 Ultra certified: Goodbye to a compact flagship?](https://www.androidauthority.com/asus-zenfone-11-ultra-certified-3392693/)
- - [A look at Alibaba&#39;s decline since China halted Ant&#39;s IPO in 2020, losing its online shopping dominance to rival PDD last week, and roadblocks in revival plans &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p4#a231208p4)<!-- TECH:END -->
+ - [India&#39;s powerful and independent labor movement presents a challenge for Apple in its ambitions to diversify its production away from China &lpar;Megha Mandavia/Wall Street Journal&rpar;](http://www.techmeme.com/231208/p10#a231208p10)
+ - [Tesla confirms Apple Podcasts coming in holiday update &#39;next week&#39;](https://appleinsider.com/articles/23/12/08/tesla-confirms-apple-podcasts-coming-in-holiday-update-next-week?utm_medium=rss)
+ - [Mobile network companies have backed themselves into a corner by racing to roll out 5G, taking on piles of debt with few returns to show for their investments &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231208/p9#a231208p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
