@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: X has had preliminary talks with Amazon to make ads available via Amazon&#39;s ad-buying software, and PubMatic, as it seeks to attract smaller advertisers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p18#a231208p18)
- - [The First Crispr Medicine Is Now Approved in the US](https://www.wired.com/story/the-first-crispr-medicine-is-now-approved-in-the-us/)
- - [Google and McDonald’s team up to give you a side of AI with your burger](https://www.androidauthority.com/google-mcdonalds-ai-3392879/)<!-- TECH:END -->
+ - [Sources: Apple is reorganizing its hardware engineering team as Tang Tan, its VP in charge of iPhone and Watch product design, plans to step down in February &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231208/p21#a231208p21)
+ - [Tracxn: Indian startups raised ~$7B in 2023, the lowest since 2018 and down from ~$25B in 2022 and ~$37B in 2021; Bessemer made only one deal in India in 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231208/p20#a231208p20)
+ - [There won’t be a small Chevy Bolt EV on GM’s Ultium platform](https://www.theverge.com/2023/12/8/23993840/chevy-bolt-ev-euv-gm-ultium-hatchback-size)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
