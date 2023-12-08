@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hideo Kojima teases mystery Xbox game OD](https://www.theverge.com/2023/12/7/23993035/hideo-kojima-od-xbox)
- - [A researcher says a years-old Bluetooth authentication flaw lets attackers inject keystrokes to run arbitrary commands on Apple, Android, and some Linux devices &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/231207/p42#a231207p42)
- - [The studio behind Ori and the Blind Forest is making a gorgeous action RPG](https://www.theverge.com/23990860/no-rest-for-the-wicked-trailer-announce-moon-studios)<!-- TECH:END -->
+ - [Final Fantasy XVI stealth launches one DLC with another on the way](https://www.theverge.com/games/23993141/final-fantasy-xvi-dlc-echoes-of-the-fallen-the-game-awards)
+ - [Sources: Tata plans to build one of India&#39;s largest iPhone plants employing 50,000 workers within two years, and expects operations to begin in 12-18 months &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/231207/p45#a231207p45)
+ - [Capcom announces Monster Hunter Wilds for 2025](https://www.theverge.com/23991181/monster-hunter-wilds-trailer-capcom-announce-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
