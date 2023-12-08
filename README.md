@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a mystery!](http://9gag.com/gag/aYVXjKN)
+ - 6️⃣ [American Pie Cast](http://9gag.com/gag/aGEQ3Q0)
  - 😝 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
- - 👉 [Peak performance](http://9gag.com/gag/a7qRLMq)<!-- MEMES:END -->
+ - 👉 [The guy in the video is not stun_gravy](http://9gag.com/gag/aqeo99R)<!-- MEMES:END -->
 
 --- 
 
