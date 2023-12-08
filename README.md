@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Cells creators reveal their next game, Windblown](https://www.polygon.com/game-awards-tga/23991239/dead-cells-motion-twin-game-awards-windblown-release-date)
- - [Dead Cells studio reveals its new game at The Game Awards: A fast-paced co-op roguelike in which cute animated animals get absolutely massacred](https://www.pcgamer.com/dead-cells-studio-reveals-its-new-game-at-the-game-awards-a-fast-paced-co-op-roguelike-in-which-cute-animated-animals-get-absolutely-massacred)
- - [These are the Game Awards 2023 winners](https://www.polygon.com/game-awards-tga/23959124/game-awards-tga-2023-goty-game-of-the-year-nominees-list-totk-bg3-mario-spider-man)<!-- GAME:END -->
+ - [Ori creators Moon Studios reveals its next big project at the Game Awards 2023](https://www.polygon.com/game-awards-tga/23992998/moon-studios-no-rest-for-the-wicked-private-division)
+ - [Kojima reveals OD, an immersive horror game collab with Jordan Peele](https://www.polygon.com/23160488/od-trailer-kojima-horror-reveal-jordan-peele-awards)
+ - [Matthew McConaughey took the stage at The Game Awards to premier an RPG from ex-BioWare vets that sounds like a Mass Effect: Andromeda do-over](https://www.pcgamer.com/matthew-mcconaughey-took-the-stage-at-the-game-awards-to-premier-an-rpg-from-ex-bioware-vets-that-sounds-like-a-mass-effect-andromeda-do-over)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
