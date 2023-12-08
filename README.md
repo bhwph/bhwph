@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [GTA 6](http://9gag.com/gag/aXnOByz)
- - 😝 [This is BBC news!](http://9gag.com/gag/aOxWg26)
- - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
+ - 6️⃣ [Fak around and what?](http://9gag.com/gag/aEq4r5O)
+ - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
+ - 👉 [They&#39;re pulling out all the stops for Deadpool 3](http://9gag.com/gag/adPzmwZ)<!-- MEMES:END -->
 
 --- 
 
