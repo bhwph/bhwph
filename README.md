@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [American Pie Cast](http://9gag.com/gag/aGEQ3Q0)
- - 😝 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
- - 👉 [The guy in the video is not stun_gravy](http://9gag.com/gag/aqeo99R)<!-- MEMES:END -->
+ - 6️⃣ [Natural selection](http://9gag.com/gag/amA4NAX)
+ - 😝 [Believe all women, or so they say.....](http://9gag.com/gag/ap9ZEYD)
+ - 👉 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)<!-- MEMES:END -->
 
 --- 
 
