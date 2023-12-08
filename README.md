@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord updated its mobile app layout, and users absolutely hate it](https://www.androidauthority.com/discord-new-mobile-layout-update-3392631/)
- - [The Snapdragon 8 Gen 4 might drop little CPU cores altogether](https://www.androidauthority.com/snapdragon-8-gen-4-specs-leak-3392622/)
- - [December Pixel Feature Drop seems to be rolling out very slowly](https://www.androidauthority.com/december-2023-pixel-feature-drop-slow-rollout-3392637/)<!-- TECH:END -->
+ - [YouTubers can now pause comments after Google moderation tweaks](https://www.theverge.com/2023/12/8/23993284/youtube-pause-comment-moderation-feature-announcement)
+ - [Zenfone 11 Ultra certified: Goodbye to a compact flagship?](https://www.androidauthority.com/asus-zenfone-11-ultra-certified-3392693/)
+ - [A look at Alibaba&#39;s decline since China halted Ant&#39;s IPO in 2020, losing its online shopping dominance to rival PDD last week, and roadblocks in revival plans &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p4#a231208p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
