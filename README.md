@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
- - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
- - 👉 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)<!-- MEMES:END -->
+ - 6️⃣ [What a mystery!](http://9gag.com/gag/aYVXjKN)
+ - 😝 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
+ - 👉 [Peak performance](http://9gag.com/gag/a7qRLMq)<!-- MEMES:END -->
 
 --- 
 
