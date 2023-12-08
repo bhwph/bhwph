@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [GTA 6](http://9gag.com/gag/aXnOByz)
- - 😝 [Wait..](http://9gag.com/gag/aeQBorW)
- - 👉 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s time for someone to speak up.](http://9gag.com/gag/a1P64nv)
+ - 😝 [Sure and indeed](http://9gag.com/gag/amAZjQ9)
+ - 👉 [If they can make an anime girl model I&#39;ll simp](http://9gag.com/gag/agoePK6)<!-- MEMES:END -->
 
 --- 
 
