@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)
- - 😝 [When Raven says THIS](http://9gag.com/gag/axoq2zW)
- - 👉 [Fak around and what?](http://9gag.com/gag/aEq4r5O)<!-- MEMES:END -->
+ - 6️⃣ [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
+ - 😝 [TODD HOWARD: `It cost $400,000,000 and 9 years to make STARFIELD`](http://9gag.com/gag/anzPXjz)
+ - 👉 [Peak performance](http://9gag.com/gag/a7qRLMq)<!-- MEMES:END -->
 
 --- 
 
