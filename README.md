@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When Raven says THIS](http://9gag.com/gag/axoq2zW)
- - 😝 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
+ - 6️⃣ [Alarm alarm!](http://9gag.com/gag/ay2j57V)
+ - 😝 [Here is the title](http://9gag.com/gag/aL17QxW)
  - 👉 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)<!-- MEMES:END -->
 
 --- 
