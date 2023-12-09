@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
- - 😝 [TODD HOWARD: `It cost $400,000,000 and 9 years to make STARFIELD`](http://9gag.com/gag/anzPXjz)
- - 👉 [Peak performance](http://9gag.com/gag/a7qRLMq)<!-- MEMES:END -->
+ - 6️⃣ [Repost from the heart](http://9gag.com/gag/abvn5pE)
+ - 😝 [RAM\u2026](http://9gag.com/gag/arm7v2X)
+ - 👉 [What is this video for?](http://9gag.com/gag/a7qRKVq)<!-- MEMES:END -->
 
 --- 
 
