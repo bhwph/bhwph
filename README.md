@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fak around and what?](http://9gag.com/gag/aEq4r5O)
- - 😝 [Truth be spoken](http://9gag.com/gag/a8qxWjQ)
- - 👉 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
+ - 6️⃣ [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
+ - 😝 [Natural selection](http://9gag.com/gag/amA4NAX)
+ - 👉 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)<!-- MEMES:END -->
 
 --- 
 
