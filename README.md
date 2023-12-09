@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Great Deals on Headphones, Wireless Earbuds, and Gaming Headsets](https://www.wired.com/story/weekend-deals-december-9-2023/)
- - [The Withings Scanwatch Light is a smartwatch for those who don’t want one](https://www.androidauthority.com/withings-scanwatch-light-review-3391231/)
- - [Best E-Bikes and Scooters to Give for the Holidays in 2023     - CNET](https://www.cnet.com/roadshow/news/best-e-bikes-and-scooters-to-give-for-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Finishing every part of Mario Wonder is no peach](https://www.theverge.com/2023/12/9/23993642/mario-wonder-100-percent-final-test-badge-marathon)
+ - [Hirokazu Kore-eda is so back](https://www.theverge.com/23992731/hirokazu-kore-eda-monster-interview)
+ - [Text Blaze is the one Chrome extension I can’t live without](https://www.androidauthority.com/text-blaze-chrome-extension-3391689/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
