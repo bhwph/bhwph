@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Alarm alarm!](http://9gag.com/gag/ay2j57V)
- - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
- - 👉 [Oh no......anyway](http://9gag.com/gag/agozrR1)<!-- MEMES:END -->
+ - 6️⃣ [Fak around and what?](http://9gag.com/gag/aEq4r5O)
+ - 😝 [Truth be spoken](http://9gag.com/gag/a8qxWjQ)
+ - 👉 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
 
 --- 
 
