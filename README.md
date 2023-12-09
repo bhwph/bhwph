@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU AI Act includes restrictions for foundation models, with some proprietary models classified as having &quot;systemic risk&quot; subjected to additional obligations &lpar;Washington Post&rpar;](http://www.techmeme.com/231208/p30#a231208p30)
- - [Malaysia&#39;s YTL Power partners with Nvidia in a $4.3B investment deal to create AI infrastructure in the country, including building a supercomputer in Malaysia &lpar;Reuters&rpar;](http://www.techmeme.com/231208/p29#a231208p29)
- - [Microsoft’s Edge Copilot AI can’t really summarize every YouTube video](https://www.theverge.com/2023/12/8/23994303/microsoft-copilot-ai-edge-video-summary-youtube-transcript)<!-- TECH:END -->
+ - [Lead attorneys for Epic and Google say Tim Sweeney and Sundar Pichai met for an hour on December 7 and the meeting &quot;did not result in a settlement&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/231209/p3#a231209p3)
+ - [Nvidia&#39;s stock has beaten every other stock in the S&amp;P 500 this year and is on pace for the best annual performance of any major stock in the past decade &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/231209/p2#a231209p2)
+ - [OpenAI says it is aware of feedback about GPT-4 getting &quot;lazier&quot; and is &quot;looking into fixing it&quot;, and explains that model behavior can be unpredictable &lpar;ChatGPT/@chatgptapp&rpar;](http://www.techmeme.com/231209/p1#a231209p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
