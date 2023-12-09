@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Edge Copilot AI can’t really summarize every YouTube video](https://www.theverge.com/2023/12/8/23994303/microsoft-copilot-ai-edge-video-summary-youtube-transcript)
- - [Axel Springer ends a deal to pre-install its Upday news aggregator on Samsung devices and plans to relaunch Upday in 2024 as an AI-driven &quot;trend news generator&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231208/p28#a231208p28)
- - [Beeper Mini Outage Disconnects the Android App from Apple&#39;s iMessage     - CNET](https://www.cnet.com/tech/mobile/beeper-mini-outage-disconnects-the-android-app-from-apples-imessage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The EU AI Act includes restrictions for foundation models, with some proprietary models classified as having &quot;systemic risk&quot; subjected to additional obligations &lpar;Washington Post&rpar;](http://www.techmeme.com/231208/p30#a231208p30)
+ - [Malaysia&#39;s YTL Power partners with Nvidia in a $4.3B investment deal to create AI infrastructure in the country, including building a supercomputer in Malaysia &lpar;Reuters&rpar;](http://www.techmeme.com/231208/p29#a231208p29)
+ - [Microsoft’s Edge Copilot AI can’t really summarize every YouTube video](https://www.theverge.com/2023/12/8/23994303/microsoft-copilot-ai-edge-video-summary-youtube-transcript)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
