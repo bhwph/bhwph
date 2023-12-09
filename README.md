@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Repost from the heart](http://9gag.com/gag/abvn5pE)
- - 😝 [RAM\u2026](http://9gag.com/gag/arm7v2X)
- - 👉 [What is this video for?](http://9gag.com/gag/a7qRKVq)<!-- MEMES:END -->
+ - 6️⃣ [TODD HOWARD: `It cost $400,000,000 and 9 years to make STARFIELD`](http://9gag.com/gag/anzPXjz)
+ - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
+ - 👉 [When Raven says THIS](http://9gag.com/gag/axoq2zW)<!-- MEMES:END -->
 
 --- 
 
