@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #903 for Saturday, December 9](https://www.pcgamer.com/wordle-today-answer-903-december-9)
  - [The Finals is getting blasted on Steam for slowing the game down, except the developer says it didn&#39;t change speeds at all](https://www.pcgamer.com/the-finals-is-getting-blasted-on-steam-for-slowing-the-game-down-except-the-developer-says-it-didnt-change-speeds-at-all)
- - [As a Rocket League purist with over 1,300 hours, I didn&#39;t expect to like its Fortnite racing spin-off so much](https://www.pcgamer.com/fortnite-rocket-racing-impressions)
- - [Netflix’s Leave the World Behind, a Batman Christmas thing, and every new movie to watch this weekend](https://www.polygon.com/2023/12/8/23989032/new-movies-watch-batman-christmas-netflix-leave-world-behind-killers-scorsese)<!-- GAME:END -->
+ - [As a Rocket League purist with over 1,300 hours, I didn&#39;t expect to like its Fortnite racing spin-off so much](https://www.pcgamer.com/fortnite-rocket-racing-impressions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
