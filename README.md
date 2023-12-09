@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Finishing every part of Mario Wonder is no peach](https://www.theverge.com/2023/12/9/23993642/mario-wonder-100-percent-final-test-badge-marathon)
- - [Hirokazu Kore-eda is so back](https://www.theverge.com/23992731/hirokazu-kore-eda-monster-interview)
- - [Text Blaze is the one Chrome extension I can’t live without](https://www.androidauthority.com/text-blaze-chrome-extension-3391689/)<!-- TECH:END -->
+ - [Android Apps Weekly: iMessage sort of comes to Android, and more](https://www.androidauthority.com/android-apps-weekly-imessage-sort-of-comes-to-android-and-more-3392842/)
+ - [The quiet plan to make the internet feel faster](https://www.theverge.com/23655762/l4s-internet-apple-comcast-latency-speed-bandwidth)
+ - [Fortnite Festival is Rock Band without the plastic instruments](https://www.theverge.com/2023/12/9/23992574/fortnite-festival-harmonix-guitar-hero-rock-band)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
