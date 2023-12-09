@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether freezes wallets of those sanctioned by the US Treasury&#39;s OFAC to prevent &quot;potential misuse&quot; of Tether tokens, the first significant move by its new CEO &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/231209/p9#a231209p9)
- - [A bear case for the AI industry, as the sectors it seems to be able to disrupt so far, like writing, digital art, and programming help, are not very lucrative &lpar;Erik Hoel/The Intrinsic Perspective&rpar;](http://www.techmeme.com/231209/p8#a231209p8)
- - [Protect Your Vision as You Age by Exercising     - CNET](https://www.cnet.com/health/personal-care/exercise-can-protect-your-vision-as-you-age/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla&#39;s 2023 Holiday Update, set for next week, includes a feature that automatically calls 911 if the car&#39;s airbags deploy in a crash, Apple Podcasts, and more &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231209/p11#a231209p11)
+ - [Apple&#39;s M1 MacBook Air drops to $749.99 with delivery before Christmas](https://appleinsider.com/articles/23/12/09/apples-m1-macbook-air-drops-to-74999-with-delivery-before-christmas?utm_medium=rss)
+ - [Beeper Mini developers say fix is &#39;coming soon&#39; for iMessage Android app](https://appleinsider.com/articles/23/12/09/beeper-mini-developers-say-fix-is-coming-soon-for-imessage-android-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
