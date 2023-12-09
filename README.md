@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fans were as influential in 2023 as the things they loved](https://www.polygon.com/23989593/fandom-activism-explained-writers-guild-strike-taylor-swift)
  - [Rogue Trader is the perfect vehicle for Warhammer 40K’s satire](https://www.polygon.com/23993946/warhammer-40k-rogue-trader-crpg-plot-characters)
- - [Save on the winners from the 2023 Game Awards this weekend](https://www.polygon.com/23993517/best-gaming-deals-game-awards-winners-xbox-series-x)
- - [The best thrillers to watch on Netflix this month](https://www.polygon.com/what-to-watch/23992620/best-thriller-movies-netflix-watch-december-2023)<!-- GAME:END -->
+ - [Save on the winners from the 2023 Game Awards this weekend](https://www.polygon.com/23993517/best-gaming-deals-game-awards-winners-xbox-series-x)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
