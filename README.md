@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Natural selection](http://9gag.com/gag/amA4NAX)
- - 😝 [Believe all women, or so they say.....](http://9gag.com/gag/ap9ZEYD)
- - 👉 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)<!-- MEMES:END -->
+ - 6️⃣ [Faaack you bladdyy](http://9gag.com/gag/a04y9xZ)
+ - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
+ - 👉 [Natural selection](http://9gag.com/gag/amA4NAX)<!-- MEMES:END -->
 
 --- 
 
