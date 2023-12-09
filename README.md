@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Apps Weekly: iMessage sort of comes to Android, and more](https://www.androidauthority.com/android-apps-weekly-imessage-sort-of-comes-to-android-and-more-3392842/)
- - [The quiet plan to make the internet feel faster](https://www.theverge.com/23655762/l4s-internet-apple-comcast-latency-speed-bandwidth)
- - [Fortnite Festival is Rock Band without the plastic instruments](https://www.theverge.com/2023/12/9/23992574/fortnite-festival-harmonix-guitar-hero-rock-band)<!-- TECH:END -->
+ - [OctoML ends its business with text-to-image AI model sharing platform Civitai, after a report found some images by Civitai users &quot;could be categorized as&quot; CSAM &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/231209/p7#a231209p7)
+ - [Daily deals Dec. 9: $699 Apple Watch Ultra 2, Magic Keyboard Folio for iPad $85, 45% off Google Pixel 7 Pro, more](https://appleinsider.com/articles/23/12/09/daily-deals-dec-9-699-apple-watch-ultra-2-magic-keyboard-folio-for-ipad-85-45-off-google-pixel-7-pro-more?utm_medium=rss)
+ - [Epic used Fortnite OG to lure players back to a very different game](https://www.theverge.com/2023/12/9/23993686/fortnite-og-new-players-lego-fortnite)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
