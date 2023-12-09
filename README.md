@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [TODD HOWARD: `It cost $400,000,000 and 9 years to make STARFIELD`](http://9gag.com/gag/anzPXjz)
- - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
- - 👉 [When Raven says THIS](http://9gag.com/gag/axoq2zW)<!-- MEMES:END -->
+ - 6️⃣ [When Raven says THIS](http://9gag.com/gag/axoq2zW)
+ - 😝 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
+ - 👉 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)<!-- MEMES:END -->
 
 --- 
 
