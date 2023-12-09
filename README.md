@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Near Intelligence, which provides data insights to companies, files for bankruptcy with plans to sell itself; Near went public via a SPAC merger in 2022 &lpar;Amelia Pollard/Bloomberg&rpar;](http://www.techmeme.com/231208/p26#a231208p26)
- - [Tencent&#39;s Lightspeed LA studio reveals Last Sentinel, an ambitious console game by GTA veteran Steve Martin and part of Tencent&#39;s push to create IP from scratch &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/231208/p25#a231208p25)
- - [EU reaches provisional agreement on AI Act, paving way for landmark law](https://www.theverge.com/2023/12/8/23991850/eu-ai-act-artificial-intelligence-regulation-provisional-deal-law-brussels)<!-- TECH:END -->
+ - [Microsoft’s Edge Copilot AI can’t really summarize every YouTube video](https://www.theverge.com/2023/12/8/23994303/microsoft-copilot-ai-edge-video-summary-youtube-transcript)
+ - [Axel Springer ends a deal to pre-install its Upday news aggregator on Samsung devices and plans to relaunch Upday in 2024 as an AI-driven &quot;trend news generator&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231208/p28#a231208p28)
+ - [Beeper Mini Outage Disconnects the Android App from Apple&#39;s iMessage     - CNET](https://www.cnet.com/tech/mobile/beeper-mini-outage-disconnects-the-android-app-from-apples-imessage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
