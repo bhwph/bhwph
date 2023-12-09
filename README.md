@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
- - 😝 [Natural selection](http://9gag.com/gag/amA4NAX)
- - 👉 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)<!-- MEMES:END -->
+ - 6️⃣ [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)
+ - 😝 [When Raven says THIS](http://9gag.com/gag/axoq2zW)
+ - 👉 [Fak around and what?](http://9gag.com/gag/aEq4r5O)<!-- MEMES:END -->
 
 --- 
 
