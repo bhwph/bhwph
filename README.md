@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #903 for Saturday, December 9](https://www.pcgamer.com/wordle-today-answer-903-december-9)
- - [The Finals is getting blasted on Steam for slowing the game down, except the developer says it didn&#39;t change speeds at all](https://www.pcgamer.com/the-finals-is-getting-blasted-on-steam-for-slowing-the-game-down-except-the-developer-says-it-didnt-change-speeds-at-all)
- - [As a Rocket League purist with over 1,300 hours, I didn&#39;t expect to like its Fortnite racing spin-off so much](https://www.pcgamer.com/fortnite-rocket-racing-impressions)<!-- GAME:END -->
+ - [The best thrillers to watch on Netflix this month](https://www.polygon.com/what-to-watch/23992620/best-thriller-movies-netflix-watch-december-2023)
+ - [Kotaku’s Best Game Tips For The Week December 09, 2023](https://kotaku.com/kotaku-s-best-game-tips-for-the-week-december-09-2023-1851085524)
+ - [The Week&#39;s Biggest Gaming News, From GTA 6 To The Game Awards](https://kotaku.com/gaming-news-gta-6-game-awards-day-before-1851085523)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
