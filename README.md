@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Faaack you bladdyy](http://9gag.com/gag/a04y9xZ)
- - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
- - 👉 [Natural selection](http://9gag.com/gag/amA4NAX)<!-- MEMES:END -->
+ - 6️⃣ [For those who have a good father who&#39;s still around, appreciate him while he is.](http://9gag.com/gag/aeQ8jQj)
+ - 😝 [An elevator in Poland](http://9gag.com/gag/a1P3vNv)
+ - 👉 [Don&#39;t let short-term happiness affect your long-term dreams](http://9gag.com/gag/ap9ZER9)<!-- MEMES:END -->
 
 --- 
 
