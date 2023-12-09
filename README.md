@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans were as influential in 2023 as the things they loved](https://www.polygon.com/23989593/fandom-activism-explained-writers-guild-strike-taylor-swift)
- - [Rogue Trader is the perfect vehicle for Warhammer 40K’s satire](https://www.polygon.com/23993946/warhammer-40k-rogue-trader-crpg-plot-characters)
- - [Save on the winners from the 2023 Game Awards this weekend](https://www.polygon.com/23993517/best-gaming-deals-game-awards-winners-xbox-series-x)<!-- GAME:END -->
+ - [There&#39;s a change buried in Baldur&#39;s Gate 3&#39;s latest patch that makes it easier than ever to recruit both of its mutually exclusive companions⁠—without breaking the game](https://www.pcgamer.com/theres-a-change-buried-in-baldurs-gate-3s-latest-patch-that-makes-it-easier-than-ever-to-recruit-both-of-its-mutually-exclusive-companionswithout-breaking-the-game)
+ - [Dave the Diver is teaming up with our other favorite nautical adventure of 2023, Dredge, for a spooky free DLC](https://www.pcgamer.com/dave-the-diver-is-teaming-up-with-our-other-favorite-nautical-adventure-of-2023-dredge-for-a-spooky-free-dlc)
+ - [Fans were as influential in 2023 as the things they loved](https://www.polygon.com/23989593/fandom-activism-explained-writers-guild-strike-taylor-swift)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
