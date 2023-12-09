@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How parametric insurance startups use data science and AI to limit their liability, as climate change makes typical kinds of coverage unprofitable &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/231209/p4#a231209p4)
- - [How to find someone on Instagram](https://www.androidauthority.com/find-people-instagram-3128677/)
- - [Lead attorneys for Epic and Google say Tim Sweeney and Sundar Pichai met for an hour on December 7 and the meeting &quot;did not result in a settlement&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/231209/p3#a231209p3)<!-- TECH:END -->
+ - [Crystal Palace vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/crystal-palace-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [EcoFlow Glacier review: a solar-powered fridge, freezer, and ice maker](https://www.theverge.com/23987611/ecoflow-glacier-review-ice-maker-refrigerator-freezer-vanlife-boatlife-specs-price)
+ - [How parametric insurance startups use data science and AI to limit their liability, as climate change makes typical kinds of coverage unprofitable &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/231209/p4#a231209p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
