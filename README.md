@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Modern Warfare 3 guns to use in Season 1](https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3)
- - [The Best Part Of The Game Awards This Year Was The Fashion](https://kotaku.com/game-awards-2023-fashion-fit-drip-best-dressed-1851085572)
- - [8 tips and tricks to know before starting Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23993737/tips-tricks-beginners-guide)<!-- GAME:END -->
+ - [The Finals is getting blasted on Steam for slowing the game down, except the developer says it didn&#39;t change speeds at all](https://www.pcgamer.com/the-finals-is-getting-blasted-on-steam-for-slowing-the-game-down-except-the-developer-says-it-didnt-change-speeds-at-all)
+ - [As a Rocket League purist with over 1,300 hours, I didn&#39;t expect to like its Fortnite racing spin-off so much](https://www.pcgamer.com/fortnite-rocket-racing-impressions)
+ - [Netflix’s Leave the World Behind, a Batman Christmas thing, and every new movie to watch this weekend](https://www.polygon.com/2023/12/8/23989032/new-movies-watch-batman-christmas-netflix-leave-world-behind-killers-scorsese)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
