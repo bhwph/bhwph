@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crystal Palace vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/crystal-palace-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [EcoFlow Glacier review: a solar-powered fridge, freezer, and ice maker](https://www.theverge.com/23987611/ecoflow-glacier-review-ice-maker-refrigerator-freezer-vanlife-boatlife-specs-price)
- - [How parametric insurance startups use data science and AI to limit their liability, as climate change makes typical kinds of coverage unprofitable &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/231209/p4#a231209p4)<!-- TECH:END -->
+ - [13 Great Deals on Headphones, Wireless Earbuds, and Gaming Headsets](https://www.wired.com/story/weekend-deals-december-9-2023/)
+ - [The Withings Scanwatch Light is a smartwatch for those who don’t want one](https://www.androidauthority.com/withings-scanwatch-light-review-3391231/)
+ - [Best E-Bikes and Scooters to Give for the Holidays in 2023     - CNET](https://www.cnet.com/roadshow/news/best-e-bikes-and-scooters-to-give-for-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
