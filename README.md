@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wild samurai appear to hunt bicycle thieves. Story in comment.](http://9gag.com/gag/aVbyX5w)
- - 😝 [Polish space program.](http://9gag.com/gag/aBdBYYQ)
- - 👉 [For those wondering how the snow gets removed from the streets in Canada](http://9gag.com/gag/axoqGMM)<!-- MEMES:END -->
+ - 6️⃣ [Orginal script](http://9gag.com/gag/aPgbGyP)
+ - 😝 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
+ - 👉 [My bad bruh I ain&#39;t know that was yo mama](http://9gag.com/gag/ap9Z0KE)<!-- MEMES:END -->
 
 --- 
 
