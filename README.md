@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Boston Dynamics latest demonstration](http://9gag.com/gag/aMEMbWA)
- - 😝 [I know the sound of the cough of death](http://9gag.com/gag/arm7eQX)
- - 👉 [Log](http://9gag.com/gag/a6qYy7A)<!-- MEMES:END -->
+ - 6️⃣ [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
+ - 😝 [AI being used to do good](http://9gag.com/gag/aDYe0RG)
+ - 👉 [Don&#39;t tell corporate that](http://9gag.com/gag/a3ZX3M5)<!-- MEMES:END -->
 
 --- 
 
