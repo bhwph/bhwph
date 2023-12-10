@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Here is the title](http://9gag.com/gag/aL17QxW)
- - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
- - 👉 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)<!-- MEMES:END -->
+ - 6️⃣ [Boston Dynamics latest demonstration](http://9gag.com/gag/aMEMbWA)
+ - 😝 [I know the sound of the cough of death](http://9gag.com/gag/arm7eQX)
+ - 👉 [Log](http://9gag.com/gag/a6qYy7A)<!-- MEMES:END -->
 
 --- 
 
