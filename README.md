@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
- - 😝 [AI being used to do good](http://9gag.com/gag/aDYe0RG)
- - 👉 [Don&#39;t tell corporate that](http://9gag.com/gag/a3ZX3M5)<!-- MEMES:END -->
+ - 😝 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
+ - 👉 [Orginal script](http://9gag.com/gag/aPgbGyP)<!-- MEMES:END -->
 
 --- 
 
