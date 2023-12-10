@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Boston Dynamics CTO Aaron Saunders on generative AI&#39;s role in robotics, when to expect true general-purpose robots, the humanoid form factor, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231210/p3#a231210p3)
- - [Biophysicists Uncover Powerful Symmetries in Living Tissue](https://www.wired.com/story/biophysicists-uncover-powerful-symmetries-in-living-tissue/)
- - [Google finally gives ChatGPT some competition](https://www.theverge.com/23993867/google-gemini-chatgpt-beeper-imessage-lego-fortnite-installer-newsletter)<!-- TECH:END -->
+ - [Apple Vision Pro launch expected before March](https://appleinsider.com/articles/23/12/10/apple-vision-pro-launch-expected-before-march?utm_medium=rss)
+ - [M3 MacBook Air update due in March, M3 Mac Pro in late 2024](https://appleinsider.com/articles/23/12/10/m3-macbook-air-update-due-in-march-m3-mac-pro-in-late-2024?utm_medium=rss)
+ - [You&#39;ve Only Got a Few Hours Left to Save 74% on a Lifetime Babbel Subscription     - CNET](https://www.cnet.com/deals/youve-only-got-a-few-hours-left-to-save-74-on-a-lifetime-babbel-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
