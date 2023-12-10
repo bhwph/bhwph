@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Mistral AI has raised &amp;euro;385M, or about $415M, with investors including a16z and Lightspeed; sources: the deal values Mistral at about $2B &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/231210/p6#a231210p6)
- - [Apple Vision Pro launch expected before March](https://appleinsider.com/articles/23/12/10/apple-vision-pro-launch-expected-before-march?utm_medium=rss)
- - [12.9-inch iPad Air display panels start shipping](https://appleinsider.com/articles/23/12/10/display-panels-for-129-inch-ipad-air-start-shipping?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro launch expected as soon as January](https://appleinsider.com/articles/23/12/10/apple-vision-pro-launch-expected-before-march?utm_medium=rss)
+ - [How to use macOS file search without using Spotlight](https://appleinsider.com/inside/macos/tips/how-to-use-macos-file-search-without-using-spotlight?utm_medium=rss)
+ - [Broncos vs. Chargers Livestream: How to Watch NFL Week 14 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/broncos-vs-chargers-livestream-how-to-watch-nfl-week-14-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
