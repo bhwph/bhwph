@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
- - 👉 [Alarm alarm!](http://9gag.com/gag/ay2j57V)<!-- MEMES:END -->
+ - 6️⃣ [I know the sound of the cough of death](http://9gag.com/gag/arm7eQX)
+ - 😝 [Boston Dynamics latest demonstration](http://9gag.com/gag/aMEMbWA)
+ - 👉 [When Raven says THIS](http://9gag.com/gag/axoq2zW)<!-- MEMES:END -->
 
 --- 
 
