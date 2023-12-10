@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Superb survival city-builder Against the Storm is finally finished and released](https://www.pcgamer.com/superb-survival-city-builder-against-the-storm-is-finally-finished-and-released)
  - [Final Fantasy 16 on PC shows signs of life, with producer Yoshi-P saying it will run best on an SSD](https://www.pcgamer.com/final-fantasy-16-on-pc-shows-signs-of-life-with-producer-yoshi-p-saying-it-will-run-best-on-an-ssd)
- - [Overwatch 2’s Mauga is part of an evolving way of adding new heroes to the game](https://www.polygon.com/23993997/overwatch-2-mauga-launch-balance-buffs-nerfs-blizzard)
- - [The new Monk movie is more like Mr. Monk’s Hallmark movie](https://www.polygon.com/23991107/monk-movie-last-case-peacock-release-review)<!-- GAME:END -->
+ - [Overwatch 2’s Mauga is part of an evolving way of adding new heroes to the game](https://www.polygon.com/23993997/overwatch-2-mauga-launch-balance-buffs-nerfs-blizzard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
