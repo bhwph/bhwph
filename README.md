@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week&#39;s Hottest Gaming Takes, From The Game Awards And Fallout To GTA 6](https://kotaku.com/gaming-opinion-commentary-gta-6-game-awards-fallout-1851085527)
- - [Great moments in PC gaming: Nailing a full combo in your favourite rhythm game](https://www.pcgamer.com/great-moments-in-pc-gaming-nailing-a-full-combo-in-your-favourite-rhythm-game)
- - [No Man&#39;s Sky will rerun all this year&#39;s time-limited events this December](https://www.pcgamer.com/no-mans-sky-will-rerun-all-this-years-time-limited-events-this-december)<!-- GAME:END -->
+ - [The new Monk movie is more like Mr. Monk’s Hallmark movie](https://www.polygon.com/23991107/monk-movie-last-case-peacock-release-review)
+ - [Eve Online player corp names ChatGPT its new leader](https://www.polygon.com/23979964/eve-online-chatgpt-ai-neural-nexus-corporation)
+ - [The Week&#39;s Hottest Gaming Takes, From The Game Awards And Fallout To GTA 6](https://kotaku.com/gaming-opinion-commentary-gta-6-game-awards-fallout-1851085527)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
