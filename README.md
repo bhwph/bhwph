@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Week&#39;s Hottest Gaming Takes, From The Game Awards And Fallout To GTA 6](https://kotaku.com/gaming-opinion-commentary-gta-6-game-awards-fallout-1851085527)
  - [Great moments in PC gaming: Nailing a full combo in your favourite rhythm game](https://www.pcgamer.com/great-moments-in-pc-gaming-nailing-a-full-combo-in-your-favourite-rhythm-game)
- - [No Man&#39;s Sky will rerun all this year&#39;s time-limited events this December](https://www.pcgamer.com/no-mans-sky-will-rerun-all-this-years-time-limited-events-this-december)
- - [Wordle today: Hint and answer #904 for Sunday, December 10](https://www.pcgamer.com/wordle-today-answer-904-december-10)<!-- GAME:END -->
+ - [No Man&#39;s Sky will rerun all this year&#39;s time-limited events this December](https://www.pcgamer.com/no-mans-sky-will-rerun-all-this-years-time-limited-events-this-december)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
