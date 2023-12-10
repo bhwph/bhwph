@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Final Fantasy 16 on PC shows signs of life, with producer Yoshi-P saying it will run best on an SSD](https://www.pcgamer.com/final-fantasy-16-on-pc-shows-signs-of-life-with-producer-yoshi-p-saying-it-will-run-best-on-an-ssd)
  - [Overwatch 2’s Mauga is part of an evolving way of adding new heroes to the game](https://www.polygon.com/23993997/overwatch-2-mauga-launch-balance-buffs-nerfs-blizzard)
- - [The new Monk movie is more like Mr. Monk’s Hallmark movie](https://www.polygon.com/23991107/monk-movie-last-case-peacock-release-review)
- - [Eve Online player corp names ChatGPT its new leader](https://www.polygon.com/23979964/eve-online-chatgpt-ai-neural-nexus-corporation)<!-- GAME:END -->
+ - [The new Monk movie is more like Mr. Monk’s Hallmark movie](https://www.polygon.com/23991107/monk-movie-last-case-peacock-release-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
