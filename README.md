@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of, and interview with, Annie Jean-Baptiste, Google&#39;s first Director of Product Inclusion &amp; Equity, on ensuring Google&#39;s products are more accessible &lpar;Emily Bobrow/Wall Street Journal&rpar;](http://www.techmeme.com/231210/p2#a231210p2)
  - [Pudgy Penguins plans to launch an early-access version of Pudgy World, an interactive digital playground for Pudgy Penguins NFT holders, before April 2024 &lpar;Elizabeth Napolitano/CoinDesk&rpar;](http://www.techmeme.com/231210/p1#a231210p1)
- - [Sources detail what happened at OpenAI in the build-up to Sam Altman&#39;s firing; some board members believed that Altman was trying to pit them against each other &lpar;New York Times&rpar;](http://www.techmeme.com/231209/p14#a231209p14)
- - [It Wasn&#39;t Just You: Apple Took Steps To Block Access to iMessage Using Fake Credentials     - CNET](https://www.cnet.com/tech/mobile/it-wasnt-just-you-apple-took-steps-to-block-access-to-imessage-using-fake-credentials/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources detail what happened at OpenAI in the build-up to Sam Altman&#39;s firing; some board members believed that Altman was trying to pit them against each other &lpar;New York Times&rpar;](http://www.techmeme.com/231209/p14#a231209p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
