@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of, and interview with, Annie Jean-Baptiste, Google&#39;s first Director of Product Inclusion &amp; Equity, on ensuring Google&#39;s products are more accessible &lpar;Emily Bobrow/Wall Street Journal&rpar;](http://www.techmeme.com/231210/p2#a231210p2)
- - [Pudgy Penguins plans to launch an early-access version of Pudgy World, an interactive digital playground for Pudgy Penguins NFT holders, before April 2024 &lpar;Elizabeth Napolitano/CoinDesk&rpar;](http://www.techmeme.com/231210/p1#a231210p1)
- - [Sources detail what happened at OpenAI in the build-up to Sam Altman&#39;s firing; some board members believed that Altman was trying to pit them against each other &lpar;New York Times&rpar;](http://www.techmeme.com/231209/p14#a231209p14)<!-- TECH:END -->
+ - [Fulham vs. West Ham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/fulham-vs-west-ham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Luton vs. Man City Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/luton-vs-man-city-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Best Home Theater Gift Ideas of 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-gifts-to-upgrade-a-home-theater/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
