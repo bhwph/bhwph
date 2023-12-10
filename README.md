@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Overwatch 2’s Mauga is part of an evolving way of adding new heroes to the game](https://www.polygon.com/23993997/overwatch-2-mauga-launch-balance-buffs-nerfs-blizzard)
  - [The new Monk movie is more like Mr. Monk’s Hallmark movie](https://www.polygon.com/23991107/monk-movie-last-case-peacock-release-review)
- - [Eve Online player corp names ChatGPT its new leader](https://www.polygon.com/23979964/eve-online-chatgpt-ai-neural-nexus-corporation)
- - [The Week&#39;s Hottest Gaming Takes, From The Game Awards And Fallout To GTA 6](https://kotaku.com/gaming-opinion-commentary-gta-6-game-awards-fallout-1851085527)<!-- GAME:END -->
+ - [Eve Online player corp names ChatGPT its new leader](https://www.polygon.com/23979964/eve-online-chatgpt-ai-neural-nexus-corporation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
