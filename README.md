@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D&#39;s Revised Player&#39;s Handbook &#39;will be the biggest Player&#39;s Handbook that D&amp;D has ever had&#39;, and like all the Revised core books will be compatible with the current edition](https://www.pcgamer.com/dandds-revised-players-handbook-will-be-the-biggest-players-handbook-that-dandd-has-ever-had-and-like-all-the-revised-core-books-will-be-compatible-with-the-current-edition)
- - [That game where you farm with your mech finally has a release date](https://www.pcgamer.com/that-game-where-you-farm-with-your-mech-finally-has-a-release-date)
- - [There&#39;s a change buried in Baldur&#39;s Gate 3&#39;s latest patch that makes it easier than ever to recruit both of its mutually exclusive companions⁠—without breaking the game](https://www.pcgamer.com/theres-a-change-buried-in-baldurs-gate-3s-latest-patch-that-makes-it-easier-than-ever-to-recruit-both-of-its-mutually-exclusive-companionswithout-breaking-the-game)<!-- GAME:END -->
+ - [No Man&#39;s Sky will rerun all this year&#39;s time-limited events this December](https://www.pcgamer.com/no-mans-sky-will-rerun-all-this-years-time-limited-events-this-december)
+ - [Wordle today: Hint and answer #904 for Sunday, December 10](https://www.pcgamer.com/wordle-today-answer-904-december-10)
+ - [Five years later, Doom megawad Eviternity just got a surprise sequel](https://www.pcgamer.com/five-years-later-doom-megawad-eviternity-just-got-a-surprise-sequel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
