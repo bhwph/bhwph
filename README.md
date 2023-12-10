@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s a change buried in Baldur&#39;s Gate 3&#39;s latest patch that makes it easier than ever to recruit both of its mutually exclusive companions⁠—without breaking the game](https://www.pcgamer.com/theres-a-change-buried-in-baldurs-gate-3s-latest-patch-that-makes-it-easier-than-ever-to-recruit-both-of-its-mutually-exclusive-companionswithout-breaking-the-game)
- - [Dave the Diver is teaming up with our other favorite nautical adventure of 2023, Dredge, for a spooky free DLC](https://www.pcgamer.com/dave-the-diver-is-teaming-up-with-our-other-favorite-nautical-adventure-of-2023-dredge-for-a-spooky-free-dlc)
- - [Fans were as influential in 2023 as the things they loved](https://www.polygon.com/23989593/fandom-activism-explained-writers-guild-strike-taylor-swift)<!-- GAME:END -->
+ - [D&amp;D&#39;s Revised Player&#39;s Handbook &#39;will be the biggest Player&#39;s Handbook that D&amp;D has ever had&#39;, and like all the Revised core books will be compatible with the current edition](https://www.pcgamer.com/dandds-revised-players-handbook-will-be-the-biggest-players-handbook-that-dandd-has-ever-had-and-like-all-the-revised-core-books-will-be-compatible-with-the-current-edition)
+ - [That game where you farm with your mech finally has a release date](https://www.pcgamer.com/that-game-where-you-farm-with-your-mech-finally-has-a-release-date)
+ - [There&#39;s a change buried in Baldur&#39;s Gate 3&#39;s latest patch that makes it easier than ever to recruit both of its mutually exclusive companions⁠—without breaking the game](https://www.pcgamer.com/theres-a-change-buried-in-baldurs-gate-3s-latest-patch-that-makes-it-easier-than-ever-to-recruit-both-of-its-mutually-exclusive-companionswithout-breaking-the-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
