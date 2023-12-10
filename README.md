@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
- - 😝 [Orginal script](http://9gag.com/gag/aPgbGyP)
+ - 6️⃣ [Orginal script](http://9gag.com/gag/aPgbGyP)
+ - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
  - 👉 [Any captains?](http://9gag.com/gag/aEqmwLM)<!-- MEMES:END -->
 
 --- 
