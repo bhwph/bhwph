@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has one too many iPads in its lineup, and it will fix this with some more new iPads](https://www.androidauthority.com/apple-new-ipad-air-pro-2024-3393228/)
- - [An upcoming phone could offer a ridiculous 160MP periscope camera](https://www.androidauthority.com/honor-magic-160mp-periscope-camera-3393211/)
- - [How Street Sense, The Salvation Army, and Samaritan are using tech to help the unhoused, as people shift to cashless payment apps and don&#39;t carry spare change &lpar;Ashraf Khalil/Associated Press&rpar;](http://www.techmeme.com/231211/p5#a231211p5)<!-- TECH:END -->
+ - [Sources: starting December 13, Biden&#39;s team plans to meet companies, labor advocates, and experts to discuss global data flows to avoid a &quot;balkanized&quot; internet &lpar;Bloomberg&rpar;](http://www.techmeme.com/231211/p11#a231211p11)
+ - [Folding displays for Apple is the focus of a new Samsung business group](https://appleinsider.com/articles/23/12/11/folding-displays-for-apple-is-the-focus-of-a-new-samsung-business-group?utm_medium=rss)
+ - [US officials: China&#39;s military is ramping up its ability to disrupt key US infrastructure, including targeting a Hawaii utility and a West Coast port in 2023 &lpar;Washington Post&rpar;](http://www.techmeme.com/231211/p10#a231211p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
