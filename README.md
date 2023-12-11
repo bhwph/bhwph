@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One ticket please](http://9gag.com/gag/aVbye22)
- - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
- - 👉 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)<!-- MEMES:END -->
+ - 6️⃣ [In case you&#39;re wondering where the meme comes from](http://9gag.com/gag/aqeorDQ)
+ - 😝 [Title](http://9gag.com/gag/aPgbMPP)
+ - 👉 [One ticket please](http://9gag.com/gag/aVbye22)<!-- MEMES:END -->
 
 --- 
 
