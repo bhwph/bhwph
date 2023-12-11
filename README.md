@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chabal, when in England a few years before this, asked if he could answer in question in French because his English wasn&#39;t that good. Reporter said no, we are in England. We speak English.](http://9gag.com/gag/aZDOpm9)
- - 😝 [B double o b s](http://9gag.com/gag/arm7RvX)
- - 👉 [Well umm?](http://9gag.com/gag/amA4zzv)<!-- MEMES:END -->
+ - 6️⃣ [Easy Garlic bread](http://9gag.com/gag/aXn6w7D)
+ - 😝 [Some bosses](http://9gag.com/gag/aGE40pz)
+ - 👉 [The AI will destroy the world... Meamtime AI be like](http://9gag.com/gag/aEqmnzo)<!-- MEMES:END -->
 
 --- 
 
