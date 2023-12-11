@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #905 for Monday, December 11](https://www.pcgamer.com/wordle-today-answer-905-december-11)
- - [Five new Steam games you probably missed &lpar;December 11, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-11-2023)
- - [There&#39;s a Starfield bug that makes it crash more often if you don&#39;t start New Game+](https://www.pcgamer.com/theres-a-starfield-bug-that-makes-it-crash-more-often-if-you-dont-start-new-game)<!-- GAME:END -->
+ - [How to get Cut Amber in Lego Fortnite](https://www.pcgamer.com/lego-fortnite-cut-amber-location)
+ - [WoW Classic&#39;s Season of Discovery revives the old-school tradition of random players ruining your day, stealing a vital item that costs five gold to access](https://www.pcgamer.com/wow-classics-season-of-discovery-revives-the-old-school-tradition-of-random-players-ruining-your-day-stealing-a-vital-item-that-costs-five-gold-to-access)
+ - [Wordle today: Hint and answer #905 for Monday, December 11](https://www.pcgamer.com/wordle-today-answer-905-december-11)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
