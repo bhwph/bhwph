@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Apple is focusing on 6G already](https://appleinsider.com/articles/23/12/11/why-apple-is-focusing-on-6g-already?utm_medium=rss)
- - [iOS 17.2 arrives with Journal app, and big Apple Music changes](https://appleinsider.com/articles/23/12/11/ios-172-arrives-with-journal-app-and-big-apple-music-changes?utm_medium=rss)
- - [iPadOS 17.2 is here with Apple Music updates, and other changes](https://appleinsider.com/articles/23/12/11/ipados-172-is-here-with-apple-music-and-other-changes?utm_medium=rss)<!-- TECH:END -->
+ - [PS5 Pro rumors: What we know so far and what we want to see](https://www.androidauthority.com/sony-ps5-pro-3337407/)
+ - [Apple delays AirPlay in Hotel, collaborative playlist iOS 17 features until 2024](https://appleinsider.com/articles/23/12/11/apple-delays-airplay-in-hotel-collaborative-playlist-ios-17-features-until-2024?utm_medium=rss)
+ - [The Verge’s 2023 holiday gift guide for moms](https://www.theverge.com/23955826/holiday-gifts-mom-unique-ideas-2023-tech-gadgets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
