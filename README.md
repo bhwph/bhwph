@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: starting December 13, Biden&#39;s team plans to meet companies, labor advocates, and experts to discuss global data flows to avoid a &quot;balkanized&quot; internet &lpar;Bloomberg&rpar;](http://www.techmeme.com/231211/p11#a231211p11)
- - [Folding displays for Apple is the focus of a new Samsung business group](https://appleinsider.com/articles/23/12/11/folding-displays-for-apple-is-the-focus-of-a-new-samsung-business-group?utm_medium=rss)
- - [US officials: China&#39;s military is ramping up its ability to disrupt key US infrastructure, including targeting a Hawaii utility and a West Coast port in 2023 &lpar;Washington Post&rpar;](http://www.techmeme.com/231211/p10#a231211p10)<!-- TECH:END -->
+ - [How to clear Terminal&#39;s command history in macOS](https://appleinsider.com/inside/macos/tips/how-to-clear-terminals-command-history-in-macos?utm_medium=rss)
+ - [BlackBerry appoints John Giamatteo, an executive since 2021, as its CEO and no longer plans to spin off its IoT and cybersecurity businesses &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231211/p12#a231211p12)
+ - [If you want to use your phone’s digital key to drive your car, look for this logo](https://www.theverge.com/2023/12/11/23994023/digital-key-nfc-certification-car-connectivity-consortium)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
