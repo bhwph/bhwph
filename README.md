@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to clear Terminal&#39;s command history in macOS](https://appleinsider.com/inside/macos/tips/how-to-clear-terminals-command-history-in-macos?utm_medium=rss)
- - [BlackBerry appoints John Giamatteo, an executive since 2021, as its CEO and no longer plans to spin off its IoT and cybersecurity businesses &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231211/p12#a231211p12)
- - [If you want to use your phone’s digital key to drive your car, look for this logo](https://www.theverge.com/2023/12/11/23994023/digital-key-nfc-certification-car-connectivity-consortium)<!-- TECH:END -->
+ - [The AV industry sends an SOS to Pete Buttigieg](https://www.theverge.com/2023/12/11/23996729/autonomous-vehicle-industry-letter-pete-buttigieg-cruise)
+ - [Apple might soon pay artists more for offering their music in Atmos](https://www.theverge.com/2023/12/11/23996735/apple-music-spatial-audio-atmos-higher-royalties)
+ - [Why Apple is focusing on 6G already](https://appleinsider.com/articles/23/12/11/why-apple-is-focusing-on-6g-already?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
