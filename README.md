@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)
+ - 6️⃣ [Chabal, when in England a few years before this, asked if he could answer in question in French because his English wasn&#39;t that good. Reporter said no, we are in England. We speak English.](http://9gag.com/gag/aZDOpm9)
  - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
- - 👉 [Don&#39;t tell corporate that](http://9gag.com/gag/a3ZX3M5)<!-- MEMES:END -->
+ - 👉 [Well umm?](http://9gag.com/gag/amA4zzv)<!-- MEMES:END -->
 
 --- 
 
