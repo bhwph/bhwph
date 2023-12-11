@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Day Before studio is closing down just four days after launch: &#39;We did everything within our power, but unfortunately, we miscalculated our capabilities&#39;](https://www.pcgamer.com/the-day-before-studio-is-closing-down-just-four-day-after-launch-we-did-everything-within-our-power-but-unfortunately-we-miscalculated-our-capabilities)
- - [Alan Wake 2 gets New Game Plus mode titled The Final Draft, available today](https://blog.playstation.com/2023/12/11/alan-wake-2-gets-new-game-plus-mode-titled-the-final-draft-available-today/)
- - [Kotaku’s 30 Most Anticipated Games Of 2024](https://kotaku.com/2024-video-games-release-ff7-rebirth-star-wars-ps5-xbox-1850972294)<!-- GAME:END -->
+ - [Scarlet And Violet DLC Breaks A Key Part of Pokémon Lore &lpar;Again&rpar;](https://kotaku.com/pokemon-scarlet-violet-indigo-disk-blueberry-legendary-1851090227)
+ - [How an old-school RPG used my assumptions about the genre against me](https://www.polygon.com/gaming/23997110/tengai-makyou-ziria-far-east-of-eden-english-translation-rpg)
+ - [Ride a Fox into Battle in Wo Long: Fallen Dynasty’s New DLC Pack – Upheaval in Jingxiang](https://news.xbox.com/en-us/2023/12/11/wo-long-fallen-dynasty-new-dlc-pack/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
