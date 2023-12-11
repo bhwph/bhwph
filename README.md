@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 Xbox Saves Are Disappearing, Here’s How To Avoid It](https://kotaku.com/baldurs-gate-3-xbox-series-save-lost-crash-update-1851089258)
- - [The Week In Games: What’s Coming Out Beyond Pokémon: The Indigo Disk](https://kotaku.com/december-games-this-week-pokemon-indigo-disk-granblue-1851089114)
- - [Analogue Duo: The Kotaku Review](https://kotaku.com/analogue-duo-review-pc-engine-turbografx-16-1851088702)<!-- GAME:END -->
+ - [The Day Before studio is closing down just four days after launch: &#39;We did everything within our power, but unfortunately, we miscalculated our capabilities&#39;](https://www.pcgamer.com/the-day-before-studio-is-closing-down-just-four-day-after-launch-we-did-everything-within-our-power-but-unfortunately-we-miscalculated-our-capabilities)
+ - [Alan Wake 2 gets New Game Plus mode titled The Final Draft, available today](https://blog.playstation.com/2023/12/11/alan-wake-2-gets-new-game-plus-mode-titled-the-final-draft-available-today/)
+ - [Kotaku’s 30 Most Anticipated Games Of 2024](https://kotaku.com/2024-video-games-release-ff7-rebirth-star-wars-ps5-xbox-1850972294)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
