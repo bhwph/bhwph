@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AV industry sends an SOS to Pete Buttigieg](https://www.theverge.com/2023/12/11/23996729/autonomous-vehicle-industry-letter-pete-buttigieg-cruise)
- - [Apple might soon pay artists more for offering their music in Atmos](https://www.theverge.com/2023/12/11/23996735/apple-music-spatial-audio-atmos-higher-royalties)
- - [Why Apple is focusing on 6G already](https://appleinsider.com/articles/23/12/11/why-apple-is-focusing-on-6g-already?utm_medium=rss)<!-- TECH:END -->
+ - [Why Apple is focusing on 6G already](https://appleinsider.com/articles/23/12/11/why-apple-is-focusing-on-6g-already?utm_medium=rss)
+ - [iOS 17.2 arrives with Journal app, and big Apple Music changes](https://appleinsider.com/articles/23/12/11/ios-172-arrives-with-journal-app-and-big-apple-music-changes?utm_medium=rss)
+ - [iPadOS 17.2 is here with Apple Music updates, and other changes](https://appleinsider.com/articles/23/12/11/ipados-172-is-here-with-apple-music-and-other-changes?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
