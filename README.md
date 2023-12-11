@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Podcasts now has a definite shutdown date](https://www.androidauthority.com/google-podcasts-shutdown-date-3393170/)
- - [Sources detail Disinfo Lab, run by an Indian intelligence officer, that is behind a covert influence operation on social media discrediting PM Modi&#39;s critics &lpar;Washington Post&rpar;](http://www.techmeme.com/231211/p3#a231211p3)
- - [NY state, IBM, and others plan to invest $10B in a chip research facility at the University at Albany, set to include ASML&#39;s advanced chip-making equipment &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231211/p2#a231211p2)<!-- TECH:END -->
+ - [We’ve come full circle with AI: ChatGPT lazily prompts users to complete their own tasks](https://www.androidauthority.com/chatgpt-lazy-3393196/)
+ - [OnePlus may have accidentally revealed OnePlus 12, 12R global launch details](https://www.androidauthority.com/oneplus-executive-oneplus-12-launch-date-3393203/)
+ - [A look at the race among chip giants to make 2nm chips, as Samsung and Intel see the next leap in chip manufacturing a chance to close the gap with TSMC &lpar;Financial Times&rpar;](http://www.techmeme.com/231211/p4#a231211p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
