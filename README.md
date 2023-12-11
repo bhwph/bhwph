@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Ohh mine god](http://9gag.com/gag/aZDOWy3)
- - 😝 [Any captains?](http://9gag.com/gag/aEqmwLM)
- - 👉 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)<!-- MEMES:END -->
+ - 😝 [Sound On, for better experience.](http://9gag.com/gag/axoqDPM)
+ - 👉 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)<!-- MEMES:END -->
 
 --- 
 
