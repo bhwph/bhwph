@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [LMAO](http://9gag.com/gag/agozGgr)
- - 😝 [Give me upvotes. upvotes upvotes! yeah!!](http://9gag.com/gag/aMEMwWW)
- - 👉 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)<!-- MEMES:END -->
+ - 6️⃣ [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 😝 [Being a man is already hard, but it&#39;s harder if you&#39;re a dickless short man.](http://9gag.com/gag/aWG3Oeq)
+ - 👉 [Reminder, Epstein didn&#39;t kill himself](http://9gag.com/gag/a2K6rPY)<!-- MEMES:END -->
 
 --- 
 
