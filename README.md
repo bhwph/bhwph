@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Cut Amber in Lego Fortnite](https://www.pcgamer.com/lego-fortnite-cut-amber-location)
- - [WoW Classic&#39;s Season of Discovery revives the old-school tradition of random players ruining your day, stealing a vital item that costs five gold to access](https://www.pcgamer.com/wow-classics-season-of-discovery-revives-the-old-school-tradition-of-random-players-ruining-your-day-stealing-a-vital-item-that-costs-five-gold-to-access)
- - [Wordle today: Hint and answer #905 for Monday, December 11](https://www.pcgamer.com/wordle-today-answer-905-december-11)<!-- GAME:END -->
+ - [December is now Shaw Brothers kung fu movie season](https://www.polygon.com/2023/12/11/23993535/watch-kung-fu-shaw-brothers-movies-streaming-mubi)
+ - [Play with the Champions finals stream this week – tune in Dec 11 to 14](https://blog.playstation.com/2023/12/11/play-with-the-champions-finals-stream-this-week-tune-in-dec-11-to-14/)
+ - [Leaked 3DMark score puts Intel&#39;s mid-tier Meteor Lake on par with AMD&#39;s best handheld PC processor, for gaming at least](https://www.pcgamer.com/leaked-3dmark-score-puts-intels-mid-tier-meteor-lake-on-par-with-amds-best-handheld-pc-processor-for-gaming-at-least)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
