@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well umm?](http://9gag.com/gag/amA4zzv)
- - 😝 [Equality](http://9gag.com/gag/aBdBY4z)
- - 👉 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)<!-- MEMES:END -->
+ - 6️⃣ [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
+ - 😝 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
+ - 👉 [Here is the title](http://9gag.com/gag/aL17QxW)<!-- MEMES:END -->
 
 --- 
 
