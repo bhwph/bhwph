@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ohh mine god](http://9gag.com/gag/aZDOWy3)
- - 😝 [Sound On, for better experience.](http://9gag.com/gag/axoqDPM)
- - 👉 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)<!-- MEMES:END -->
+ - 6️⃣ [Orginal script](http://9gag.com/gag/aPgbGyP)
+ - 😝 [Ohh mine god](http://9gag.com/gag/aZDOWy3)
+ - 👉 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)<!-- MEMES:END -->
 
 --- 
 
