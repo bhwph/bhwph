@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chabal, when in England a few years before this, asked if he could answer in question in French because his English wasn&#39;t that good. Reporter said no, we are in England. We speak English.](http://9gag.com/gag/aZDOpm9)
+ - 6️⃣ [One ticket please](http://9gag.com/gag/aVbye22)
  - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
- - 👉 [Well umm?](http://9gag.com/gag/amA4zzv)<!-- MEMES:END -->
+ - 👉 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)<!-- MEMES:END -->
 
 --- 
 
