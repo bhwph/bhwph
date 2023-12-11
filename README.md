@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PS5 Pro rumors: What we know so far and what we want to see](https://www.androidauthority.com/sony-ps5-pro-3337407/)
- - [Apple delays AirPlay in Hotel, collaborative playlist iOS 17 features until 2024](https://appleinsider.com/articles/23/12/11/apple-delays-airplay-in-hotel-collaborative-playlist-ios-17-features-until-2024?utm_medium=rss)
- - [The Verge’s 2023 holiday gift guide for moms](https://www.theverge.com/23955826/holiday-gifts-mom-unique-ideas-2023-tech-gadgets)<!-- TECH:END -->
+ - [Epic v. Google: everything we’re learning live in Fortnite court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
+ - [Android 14 QPR2 beta 2 is here to squash some bugs and improve performance](https://www.androidauthority.com/new-android-14-qpr2-beta-3393488/)
+ - [Oracle Q2: revenue up 5% YoY to $12.94B, vs. $13.05B est., net income up 44% to $2.5B, and cloud and on-prem license revenue down 18% to $1.18B; ORCL drops 8%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231211/p21#a231211p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
