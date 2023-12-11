@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scarlet And Violet DLC Breaks A Key Part of Pokémon Lore &lpar;Again&rpar;](https://kotaku.com/pokemon-scarlet-violet-indigo-disk-blueberry-legendary-1851090227)
- - [How an old-school RPG used my assumptions about the genre against me](https://www.polygon.com/gaming/23997110/tengai-makyou-ziria-far-east-of-eden-english-translation-rpg)
- - [Ride a Fox into Battle in Wo Long: Fallen Dynasty’s New DLC Pack – Upheaval in Jingxiang](https://news.xbox.com/en-us/2023/12/11/wo-long-fallen-dynasty-new-dlc-pack/)<!-- GAME:END -->
+ - [Lego Fortnite players found a way to make steerable cars and planes](https://www.polygon.com/23997415/lego-fortnite-steerable-cars-planes-how-to-build)
+ - [How to upgrade a village in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23992265/village-build-upgrade-rating-square-hub)
+ - [Warlord’s Ruin dungeon loot table in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/23989035/warlords-ruin-dungeon-loot-table)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
