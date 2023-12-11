@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In case you&#39;re wondering where the meme comes from](http://9gag.com/gag/aqeorDQ)
- - 😝 [Title](http://9gag.com/gag/aPgbMPP)
- - 👉 [One ticket please](http://9gag.com/gag/aVbye22)<!-- MEMES:END -->
+ - 6️⃣ [LMAO](http://9gag.com/gag/agozGgr)
+ - 😝 [Give me upvotes. upvotes upvotes! yeah!!](http://9gag.com/gag/aMEMwWW)
+ - 👉 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)<!-- MEMES:END -->
 
 --- 
 
