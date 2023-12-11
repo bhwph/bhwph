@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
- - 😝 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
- - 👉 [Here is the title](http://9gag.com/gag/aL17QxW)<!-- MEMES:END -->
+ - 6️⃣ [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)
+ - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
+ - 👉 [Don&#39;t tell corporate that](http://9gag.com/gag/a3ZX3M5)<!-- MEMES:END -->
 
 --- 
 
