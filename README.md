@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It doesn’t look like an Android phone will be the first with a 2nm chip](https://www.androidauthority.com/tsmc-iphone-2nm-chip-3393786/)
- - [Apple doles out first tvOS 17.3 developer beta](https://appleinsider.com/articles/23/12/12/apple-doles-out-first-tvos-173-developer-beta?utm_medium=rss)
- - [Final four: Vote now for the Reader’s Choice Award for the best phone of 2023](https://www.androidauthority.com/best-phone-2023-readers-choice-voting-3393374/)<!-- TECH:END -->
+ - [Apple inks first-look deal with David and Jessica Oyelowo&#39;s Yoruba Saxton](https://appleinsider.com/articles/23/12/12/apple-inks-first-look-deal-with-david-and-jessica-oyelowos-yoruba-saxton?utm_medium=rss)
+ - [Google plans to give users the option to store Maps Timeline data locally on their device and shorten Maps&#39; default auto-delete history feature to three months &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231212/p33#a231212p33)
+ - [The 42 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
