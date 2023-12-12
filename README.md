@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
- - 😝 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
- - 👉 [Well umm?](http://9gag.com/gag/amA4zzv)<!-- MEMES:END -->
+ - 6️⃣ [Beautiful nature](http://9gag.com/gag/amA4Y8j)
+ - 😝 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)
+ - 👉 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)<!-- MEMES:END -->
 
 --- 
 
