@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Easy Garlic bread](http://9gag.com/gag/aXn6w7D)
- - 😝 [Some bosses](http://9gag.com/gag/aGE40pz)
- - 👉 [The AI will destroy the world... Meamtime AI be like](http://9gag.com/gag/aEqmnzo)<!-- MEMES:END -->
+ - 6️⃣ [LMAO](http://9gag.com/gag/agozGgr)
+ - 😝 [Player got kicked from a professional esports team because his mom was in the final stages of her cancer.](http://9gag.com/gag/a7qRZpq)
+ - 👉 [Well umm?](http://9gag.com/gag/amA4zzv)<!-- MEMES:END -->
 
 --- 
 
