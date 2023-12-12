@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus and Xiaomi duke it out over OnePlus 12 quality control issues &lpar;Update&rpar;](https://www.androidauthority.com/oneplus-xiaomi-oneplus-12-quality-control-camera-gap-3393684/)
- - [Give the Gift of Incredible Sound with Creative’s Holiday Deals](https://www.androidauthority.com/give-the-gift-of-incredible-sound-with-creatives-holiday-deals-3393310/)
- - [The Best Eero Wi-Fi Mesh Routers &lpar;2023&rpar;: Eero 6, 6+, Pro 6, Max 7, and More Tips](https://www.wired.com/gallery/best-eero-wi-fi-mesh-router/)<!-- TECH:END -->
+ - [iPhone 17 Pro will get TSMC&#39;s first 2nm chips](https://appleinsider.com/articles/23/12/12/iphone-17-pro-will-get-tsmcs-first-2nm-chips?utm_medium=rss)
+ - [Daily deals Dec. 12: 15&quot; MacBook Air $1,049, Lego Harry Potter Hogwarts Express 30% off, Apple Watch 27% off, more](https://appleinsider.com/articles/23/12/12/daily-deals-dec-12-15-macbook-air-1049-lego-harry-potter-hogwarts-express-30-off-apple-watch-27-off-more?utm_medium=rss)
+ - [The Bose Frames will soon be no more](https://www.theverge.com/2023/12/12/23998261/bose-frames-smart-glasses-discontinued-wearables)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
