@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Beautiful nature](http://9gag.com/gag/amA4Y8j)
- - 😝 [How many times?](http://9gag.com/gag/aREq375)
- - 👉 [Immediate karma. Got heart attack after ask Allah for death of Israel supporters.](http://9gag.com/gag/aL17jdg)<!-- MEMES:END -->
+ - 6️⃣ [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)
+ - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
+ - 👉 [Lol](http://9gag.com/gag/a5X0MWo)<!-- MEMES:END -->
 
 --- 
 
