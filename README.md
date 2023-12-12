@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Netflix](http://9gag.com/gag/abvnpvB)
- - 😝 [What a waste of money](http://9gag.com/gag/amA4Ybj)
- - 👉 [How many times?](http://9gag.com/gag/aREq375)<!-- MEMES:END -->
+ - 6️⃣ [Beautiful nature](http://9gag.com/gag/amA4Y8j)
+ - 😝 [How many times?](http://9gag.com/gag/aREq375)
+ - 👉 [Immediate karma. Got heart attack after ask Allah for death of Israel supporters.](http://9gag.com/gag/aL17jdg)<!-- MEMES:END -->
 
 --- 
 
