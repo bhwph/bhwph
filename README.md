@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Fortnite players found a way to make steerable cars and planes](https://www.polygon.com/23997415/lego-fortnite-steerable-cars-planes-how-to-build)
- - [How to upgrade a village in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/23992265/village-build-upgrade-rating-square-hub)
- - [Warlord’s Ruin dungeon loot table in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/23989035/warlords-ruin-dungeon-loot-table)<!-- GAME:END -->
+ - [The Day Before saga, explained: From Steam&#39;s most wishlisted game to the end of a studio](https://www.pcgamer.com/the-day-before-saga-explained-from-steams-most-wishlisted-game-to-the-end-of-a-studio)
+ - [Blue Eye Samurai is coming back for season 2](https://www.polygon.com/23997658/blue-eye-samurai-season-2-release-date-cast-news-netflix)
+ - [How DayZ spawned a new genre: the unfinished survival game](https://www.pcgamer.com/how-dayz-spawned-a-new-genre-the-unfinished-survival-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
