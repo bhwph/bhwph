@@ -128,8 +128,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Epic v. Google: everything we’re learning live in Fortnite court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
- - [Android 14 QPR2 beta 2 is here to squash some bugs and improve performance](https://www.androidauthority.com/new-android-14-qpr2-beta-3393488/)
- - [Oracle Q2: revenue up 5% YoY to $12.94B, vs. $13.05B est., net income up 44% to $2.5B, and cloud and on-prem license revenue down 18% to $1.18B; ORCL drops 8%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231211/p21#a231211p21)<!-- TECH:END -->
+ - [Netflix is down for many people right now](https://www.theverge.com/2023/12/11/23997733/netflix-is-down-outage-checking-internet-connection-error)
+ - [Google’s App Store Ruled an Illegal Monopoly, as a Jury Sides With Epic Games](https://www.wired.com/story/googles-app-store-monopoly-ruled-illegal-jury-epic/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
