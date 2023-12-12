@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple inks first-look deal with David and Jessica Oyelowo&#39;s Yoruba Saxton](https://appleinsider.com/articles/23/12/12/apple-inks-first-look-deal-with-david-and-jessica-oyelowos-yoruba-saxton?utm_medium=rss)
- - [Google plans to give users the option to store Maps Timeline data locally on their device and shorten Maps&#39; default auto-delete history feature to three months &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231212/p33#a231212p33)
- - [The 42 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)<!-- TECH:END -->
+ - [Hot Pod Summit is back](https://www.theverge.com/2023/12/12/23998934/hot-pod-summit-2024-brooklyn-siriusxm-spotify-kcrw)
+ - [Tierra Whack Doesn’t Want Her Creativity Boxed In](https://www.wired.com/story/livewired-tierra-whack/)
+ - [Sources: X generated just over $600M in ad revenue in each of 2023&#39;s first three quarters, down from $1B+ per quarter in 2022 and on track for ~$2.5B in 2023 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/231212/p39#a231212p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
