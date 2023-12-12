@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
- - 😝 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)
- - 👉 [Sharia taking over the non-muslim world.](http://9gag.com/gag/arm75rX)<!-- MEMES:END -->
+ - 6️⃣ [Tom cruise](http://9gag.com/gag/aVbyqP8)
+ - 😝 [Took a 5 minute peebreak from France to the Netherlands..](http://9gag.com/gag/aDYeovZ)
+ - 👉 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)<!-- MEMES:END -->
 
 --- 
 
