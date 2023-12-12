@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The GTA 6 trailer is packed with little details: here are some of the most promising](https://www.pcgamer.com/the-gta-6-trailer-is-packed-with-little-details-here-are-some-of-the-most-promising-and-exciting)
  - [The Day Before saga, explained: From Steam&#39;s most wishlisted game to the end of a studio](https://www.pcgamer.com/the-day-before-saga-explained-from-steams-most-wishlisted-game-to-the-end-of-a-studio)
- - [Blue Eye Samurai is coming back for season 2](https://www.polygon.com/23997658/blue-eye-samurai-season-2-release-date-cast-news-netflix)
- - [How DayZ spawned a new genre: the unfinished survival game](https://www.pcgamer.com/how-dayz-spawned-a-new-genre-the-unfinished-survival-game)<!-- GAME:END -->
+ - [Blue Eye Samurai is coming back for season 2](https://www.polygon.com/23997658/blue-eye-samurai-season-2-release-date-cast-news-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
