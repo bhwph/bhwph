@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;This was our first big experience, sh*t happens&#39;: The Day Before&#39;s CEO is MIA, its Discord server has disintegrated, and its YouTube Channel has gone dark](https://www.pcgamer.com/this-was-our-first-big-experience-sht-happens-the-day-befores-ceo-is-mia-its-discord-server-has-disintegrated-and-its-youtube-channel-has-gone-dark)
- - [Hideo Kojima will show off all his celebrity friends in a documentary coming to Disney+ next year](https://www.pcgamer.com/hideo-kojima-will-show-off-all-his-celebrity-friends-in-a-documentary-coming-to-disney-next-year)
- - [Wordle today: Hint and answer #906 for Tuesday, December 12](https://www.pcgamer.com/wordle-today-answer-906-december-12)<!-- GAME:END -->
+ - [Tekken 8 should absolutely be the fighting game you play in 2024](https://www.pcgamer.com/tekken-8-should-absolutely-be-the-fighting-game-you-play-in-2024)
+ - [Tekken 8: hands-on with Arcade Quest, Super Ghost Battles, and Tekken Ball](https://blog.playstation.com/2023/12/12/tekken-8-hands-on-with-arcade-quest-super-ghost-battles-and-tekken-ball/)
+ - [Tekken 8 Is Going Big on Story… Twice](https://news.xbox.com/en-us/2023/12/12/tekken-8-story-mode/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
