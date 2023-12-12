@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Beautiful nature](http://9gag.com/gag/amA4Y8j)
- - 😝 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)
- - 👉 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)<!-- MEMES:END -->
+ - 6️⃣ [Netflix](http://9gag.com/gag/abvnpvB)
+ - 😝 [What a waste of money](http://9gag.com/gag/amA4Ybj)
+ - 👉 [How many times?](http://9gag.com/gag/aREq375)<!-- MEMES:END -->
 
 --- 
 
