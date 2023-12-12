@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple TV app now looks more like an all-purpose streaming hub](https://www.theverge.com/2023/12/11/23997789/apple-tv-app-update-sidebar-tvos)
- - [Get Apple&#39;s high-end M2 Pro Mac mini with 32GB RAM, 1TB SSD for $1,699](https://appleinsider.com/articles/23/12/12/m2-pro-mac-mini-now-200-off-at-bh?utm_medium=rss)
- - [Epic win: Jury decides Google has illegal monopoly in app store fight](https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play)<!-- TECH:END -->
+ - [Epic win: Jury rules Google Play app store and billing an illegal monopoly](https://appleinsider.com/articles/23/12/12/epic-win-jury-rules-google-play-app-store-and-billing-an-illegal-monopoly?utm_medium=rss)
+ - [Apple redesigns Apple TV in iOS 17.2 and tvOS 17.2 with a sidebar that unifies content; iTunes now redirects users searching for shows and movies to Apple TV &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231211/p25#a231211p25)
+ - [Best Sports Streaming Service for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
