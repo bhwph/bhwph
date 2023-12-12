@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China plans to roll out RealDID, its Blockchain-based Service Network developed by China Mobile, UnionPay, and the government, to verify its 1.4B people &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/231212/p6#a231212p6)
- - [Google&#39;s legal defeat to Epic threatens to roil an app store duopoly with Apple that generates ~$200B per year and will likely accelerate weaker app store rules &lpar;Bloomberg&rpar;](http://www.techmeme.com/231212/p5#a231212p5)
- - [OPPO Find X7 Pro rumors: Expected release date and what we want to see](https://www.androidauthority.com/oppo-find-x7-pro-3355763/)<!-- TECH:END -->
+ - [How to change the default iPhone notification sound in iOS 17.2](https://appleinsider.com/inside/ios-17/tips/how-to-change-the-default-iphone-notification-sound-in-ios-172?utm_medium=rss)
+ - [Essential AI, founded by two co-authors of Google&#39;s &quot;Attention Is All You Need&quot; paper, emerges from stealth with $56.5M and announces its Enterprise Brain tool &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/231212/p12#a231212p12)
+ - [Gina Raimondo says Nvidia &quot;can, will, and should&quot; sell commercial AI chips to China, but not advanced AI chips, and spoke to Jensen Huang about the US rules &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231212/p11#a231212p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
