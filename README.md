@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
- - 😝 [If you know you know](http://9gag.com/gag/aA0zdBR)
- - 👉 [London has fallen](http://9gag.com/gag/a8qxyNY)<!-- MEMES:END -->
+ - 😝 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)
+ - 👉 [Sharia taking over the non-muslim world.](http://9gag.com/gag/arm75rX)<!-- MEMES:END -->
 
 --- 
 
