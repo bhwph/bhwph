@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gina Raimondo says she plans to make ~12 chips awards within the next year, including some worth multi-billion dollars that could reshape US&#39; chips production &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231212/p2#a231212p2)
- - [December Pixel Feature Drop seems to be rolling out very slowly &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/december-2023-pixel-feature-drop-slow-rollout-3392637/)
- - [Apptopia: shoppers spent ~22 minutes per day on Temu in October, up from 18 minutes in Q2 2023, compared with 10 minutes on Amazon and 11 on AliExpress in Q2 &lpar;Jinshan Hong/Bloomberg&rpar;](http://www.techmeme.com/231212/p1#a231212p1)<!-- TECH:END -->
+ - [What’s better than a phone with a periscope camera? A phone with two of them](https://www.androidauthority.com/oppo-find-x7-pro-dual-periscope-cameras-3393586/)
+ - [This is what Android’s upcoming Private Space app-hiding feature looks like](https://www.androidauthority.com/android-private-space-feature-look-3393575/)
+ - [Has your Google Home or Home Mini stopped working suddenly? Google is investigating the problem](https://www.androidauthority.com/google-home-mini-bricked-2-3393591/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
