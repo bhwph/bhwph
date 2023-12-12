@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Easy Garlic bread](http://9gag.com/gag/aXn6w7D)
- - 😝 [Can we pet him? lol](http://9gag.com/gag/avQKrKd)
- - 👉 [Reminder, Epstein didn&#39;t kill himself](http://9gag.com/gag/a2K6rPY)<!-- MEMES:END -->
+ - 6️⃣ [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
+ - 😝 [If you know you know](http://9gag.com/gag/aA0zdBR)
+ - 👉 [London has fallen](http://9gag.com/gag/a8qxyNY)<!-- MEMES:END -->
 
 --- 
 
