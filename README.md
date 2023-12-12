@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro will get TSMC&#39;s first 2nm chips](https://appleinsider.com/articles/23/12/12/iphone-17-pro-will-get-tsmcs-first-2nm-chips?utm_medium=rss)
- - [Daily deals Dec. 12: 15&quot; MacBook Air $1,049, Lego Harry Potter Hogwarts Express 30% off, Apple Watch 27% off, more](https://appleinsider.com/articles/23/12/12/daily-deals-dec-12-15-macbook-air-1049-lego-harry-potter-hogwarts-express-30-off-apple-watch-27-off-more?utm_medium=rss)
- - [The Bose Frames will soon be no more](https://www.theverge.com/2023/12/12/23998261/bose-frames-smart-glasses-discontinued-wearables)<!-- TECH:END -->
+ - [It doesn’t look like an Android phone will be the first with a 2nm chip](https://www.androidauthority.com/tsmc-iphone-2nm-chip-3393786/)
+ - [Apple doles out first tvOS 17.3 developer beta](https://appleinsider.com/articles/23/12/12/apple-doles-out-first-tvos-173-developer-beta?utm_medium=rss)
+ - [Final four: Vote now for the Reader’s Choice Award for the best phone of 2023](https://www.androidauthority.com/best-phone-2023-readers-choice-voting-3393374/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
