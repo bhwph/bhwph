@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change the default iPhone notification sound in iOS 17.2](https://appleinsider.com/inside/ios-17/tips/how-to-change-the-default-iphone-notification-sound-in-ios-172?utm_medium=rss)
- - [Essential AI, founded by two co-authors of Google&#39;s &quot;Attention Is All You Need&quot; paper, emerges from stealth with $56.5M and announces its Enterprise Brain tool &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/231212/p12#a231212p12)
- - [Gina Raimondo says Nvidia &quot;can, will, and should&quot; sell commercial AI chips to China, but not advanced AI chips, and spoke to Jensen Huang about the US rules &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231212/p11#a231212p11)<!-- TECH:END -->
+ - [OnePlus and Xiaomi duke it out over OnePlus 12 quality control issues &lpar;Update&rpar;](https://www.androidauthority.com/oneplus-xiaomi-oneplus-12-quality-control-camera-gap-3393684/)
+ - [Give the Gift of Incredible Sound with Creative’s Holiday Deals](https://www.androidauthority.com/give-the-gift-of-incredible-sound-with-creatives-holiday-deals-3393310/)
+ - [The Best Eero Wi-Fi Mesh Routers &lpar;2023&rpar;: Eero 6, 6+, Pro 6, Max 7, and More Tips](https://www.wired.com/gallery/best-eero-wi-fi-mesh-router/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
