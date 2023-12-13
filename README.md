@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple updates its law enforcement guidelines to now require a judge&#39;s order before handing over users&#39; push notification data, instead of only a subpoena &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/231212/p50#a231212p50)
- - [Amazon Alexa users are having trouble controlling their lights &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/amazon-alexa-not-turning-on-lights-3393656/)
- - [Fujitsu plans to sell its chip packaging unit Shinko Electric for ~$4.8B to a group led by Japan Investment Corp., in an effort to offload non-core operations &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231212/p49#a231212p49)<!-- TECH:END -->
+ - [As Taiwan&#39;s government rejects suggestions that the chip industry was crowding out other sectors, a look at TSMC&#39;s outsized economic role ahead of the elections &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/231213/p3#a231213p3)
+ - [Kakao names Shina Chung, the head of its corporate VC arm, as its next CEO; Chung is a rare female leader in South Korea&#39;s male-dominated business sphere &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231213/p2#a231213p2)
+ - [Holiday Deals Under $25: Save Big on Stocking Stuffers and More     - CNET](https://www.cnet.com/deals/impulse-holiday-gift-ideas-on-sale-for-25-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
