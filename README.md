@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Axel Springer signs a multiyear licensing deal with OpenAI, which will pay to use content from Politico, Business Insider, and others to train its AI models &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/231213/p22#a231213p22)
- - [America is on the brink in the first trailer for Alex Garland’s Civil War](https://www.theverge.com/23999689/civil-war-trailer-alex-garland-a24)
- - [Sources: ByteDance cancels an upcoming VR headset from its Pico subsidiary, the Pico 5, after Pico 4 sales fell far short of expectations and the VR market sags &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/231213/p21#a231213p21)<!-- TECH:END -->
+ - [A profile of Nandini Jammi, co-founder of Check My Ads, a nonprofit ad watchdog that works to cut off the revenue streams of far-right creators and publishers &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/231213/p29#a231213p29)
+ - [Netflix is bringing the excellent Sonic Mania to mobile](https://www.theverge.com/2023/12/13/23999780/sonic-mania-plus-netflix-cozy-grove-2024)
+ - [Hacker Group Linked to Russian Military Claims Credit for Cyberattack on Kyivstar](https://www.wired.com/story/ukraine-kyivstar-solntsepek-sandworm-gru/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
