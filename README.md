@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)
- - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
- - 👉 [Lol](http://9gag.com/gag/a5X0MWo)<!-- MEMES:END -->
+ - 6️⃣ [Is it just me?](http://9gag.com/gag/aNwE1BK)
+ - 😝 [What did the elves see?](http://9gag.com/gag/aeQ8MnQ)
+ - 👉 [Perky side profile](http://9gag.com/gag/aMEM8AW)<!-- MEMES:END -->
 
 --- 
 
