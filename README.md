@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple beefs up Self Service Repair with new diagnostic, extended to iPhone 15 &amp; M2 Mac](https://appleinsider.com/articles/23/12/13/apple-beefs-up-self-service-repair-with-new-diagnostic-extended-to-iphone-15-m2-mac?utm_medium=rss)
- - [Google&#39;s Epic loss, where a jury found Google guilty on all 11 antitrust claims, may portend its legal fate in two, more significant US antitrust cases in 2024 &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/231213/p17#a231213p17)
- - [US Regulators Want Cars to Include Drunk-Driver Detection Technology](https://www.wired.com/story/us-regulators-cars-drunk-driver-detection/)<!-- TECH:END -->
+ - [Axel Springer signs a multiyear licensing deal with OpenAI, which will pay to use content from Politico, Business Insider, and others to train its AI models &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/231213/p22#a231213p22)
+ - [America is on the brink in the first trailer for Alex Garland’s Civil War](https://www.theverge.com/23999689/civil-war-trailer-alex-garland-a24)
+ - [Sources: ByteDance cancels an upcoming VR headset from its Pico subsidiary, the Pico 5, after Pico 4 sales fell far short of expectations and the VR market sags &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/231213/p21#a231213p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
