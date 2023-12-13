@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Nandini Jammi, co-founder of Check My Ads, a nonprofit ad watchdog that works to cut off the revenue streams of far-right creators and publishers &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/231213/p29#a231213p29)
- - [Netflix is bringing the excellent Sonic Mania to mobile](https://www.theverge.com/2023/12/13/23999780/sonic-mania-plus-netflix-cozy-grove-2024)
- - [Hacker Group Linked to Russian Military Claims Credit for Cyberattack on Kyivstar](https://www.wired.com/story/ukraine-kyivstar-solntsepek-sandworm-gru/)<!-- TECH:END -->
+ - [Abu Dhabi-based Andalusia Labs, which offers risk management services for digital assets, raised a $48M Series A led by Lightspeed at a valuation &quot;north of&quot; $1B &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231213/p33#a231213p33)
+ - [The final vote is here: Reader’s Choice Award for the best phone of 2023](https://www.androidauthority.com/best-phone-2023-readers-choice-voting-3393374/)
+ - [Apple selling a standalone second-generation AirPod Pro USB-C case for $99](https://appleinsider.com/articles/23/12/13/apple-selling-a-standalone-second-generation-airpod-pro-usb-c-case-for-99?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
