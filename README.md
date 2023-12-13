@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot Pod Summit is back](https://www.theverge.com/2023/12/12/23998934/hot-pod-summit-2024-brooklyn-siriusxm-spotify-kcrw)
- - [Tierra Whack Doesn’t Want Her Creativity Boxed In](https://www.wired.com/story/livewired-tierra-whack/)
- - [Sources: X generated just over $600M in ad revenue in each of 2023&#39;s first three quarters, down from $1B+ per quarter in 2022 and on track for ~$2.5B in 2023 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/231212/p39#a231212p39)<!-- TECH:END -->
+ - [Ukraine&#39;s defense intelligence directorate claims to have hacked Russia&#39;s state tax service and that Russia has been trying to restore the service for four days &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/231212/p45#a231212p45)
+ - [Starlink loses out on $886 million in rural broadband subsidies](https://www.theverge.com/2023/12/12/23999070/spacex-starlink-fcc-rural-digital-opportunity-fund-fcc-rejected)
+ - [ASML and Samsung plan to jointly spend ~$760M to build a research plant in South Korea using ASML&#39;s next-generation extreme ultraviolet equipment technology &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/231212/p44#a231212p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
