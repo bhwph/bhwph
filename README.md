@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google, Meta, Qualcomm, and seven other tech companies form the Coalition for Open Digital Ecosystems, aiming to promote open digital ecosystems in the EU &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231213/p9#a231213p9)
- - [GM is ditching Android Auto for safety, totally not a subscription play](https://www.androidauthority.com/gm-android-auto-carplay-safety-3394072/)
- - [Here&#39;s Everything You Should Know About NameDrop     - CNET](https://www.cnet.com/tech/mobile/what-you-need-to-know-about-namedrop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple beefs up Self Service Repair with new diagnostic, extended to iPhone 15 &amp; M2 Mac](https://appleinsider.com/articles/23/12/13/apple-beefs-up-self-service-repair-with-new-diagnostic-extended-to-iphone-15-m2-mac?utm_medium=rss)
+ - [Google&#39;s Epic loss, where a jury found Google guilty on all 11 antitrust claims, may portend its legal fate in two, more significant US antitrust cases in 2024 &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/231213/p17#a231213p17)
+ - [US Regulators Want Cars to Include Drunk-Driver Detection Technology](https://www.wired.com/story/us-regulators-cars-drunk-driver-detection/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
