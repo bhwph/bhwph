@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Taiwan&#39;s government rejects suggestions that the chip industry was crowding out other sectors, a look at TSMC&#39;s outsized economic role ahead of the elections &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/231213/p3#a231213p3)
- - [Kakao names Shina Chung, the head of its corporate VC arm, as its next CEO; Chung is a rare female leader in South Korea&#39;s male-dominated business sphere &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231213/p2#a231213p2)
- - [Holiday Deals Under $25: Save Big on Stocking Stuffers and More     - CNET](https://www.cnet.com/deals/impulse-holiday-gift-ideas-on-sale-for-25-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Poll: Do you prefer manual or automatic screen brightness?](https://www.androidauthority.com/manual-automatic-screen-brightness-poll-3394014/)
+ - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
+ - [How to take screenshots on Steam and where to find them](https://www.androidauthority.com/take-find-screenshot-steam-3154224/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
