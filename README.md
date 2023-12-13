@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Abu Dhabi-based Andalusia Labs, which offers risk management services for digital assets, raised a $48M Series A led by Lightspeed at a valuation &quot;north of&quot; $1B &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231213/p33#a231213p33)
- - [The final vote is here: Reader’s Choice Award for the best phone of 2023](https://www.androidauthority.com/best-phone-2023-readers-choice-voting-3393374/)
- - [Apple selling a standalone second-generation AirPod Pro USB-C case for $99](https://appleinsider.com/articles/23/12/13/apple-selling-a-standalone-second-generation-airpod-pro-usb-c-case-for-99?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Dec. 13: up to $400 off M3 MacBook Pro, $199 AirPods Pro USB-C, $100 off Google Pixel Tablet, more](https://appleinsider.com/articles/23/12/13/daily-deals-dec-13-up-to-400-off-m3-macbook-pro-199-airpods-pro-usb-c-100-off-google-pixel-tablet-more?utm_medium=rss)
+ - [An X outage broke all outgoing links, again](https://www.theverge.com/2023/12/13/24000170/x-outage-link-error-message-broken)
+ - [Google brings Assistant Quick Phrases to Pixel Buds Pro](https://www.androidauthority.com/pixel-buds-pro-quick-phrases-3394281/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
