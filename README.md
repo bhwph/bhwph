@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is it just me?](http://9gag.com/gag/aNwE1BK)
- - 😝 [What did the elves see?](http://9gag.com/gag/aeQ8MnQ)
- - 👉 [Title](http://9gag.com/gag/a2K6Zmw)<!-- MEMES:END -->
+ - 6️⃣ [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
+ - 😝 [Spot the difference](http://9gag.com/gag/aGE41Ew)
+ - 👉 [Radical feminists in a nutshell](http://9gag.com/gag/az2p9zN)<!-- MEMES:END -->
 
 --- 
 
