@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The pain The rage](http://9gag.com/gag/aDYe1qK)
- - 😝 [Title](http://9gag.com/gag/aQEWeGd)
- - 👉 [Is it just me?](http://9gag.com/gag/aNwE1BK)<!-- MEMES:END -->
+ - 6️⃣ [Title](http://9gag.com/gag/aQEWeGd)
+ - 😝 [RIP Captain](http://9gag.com/gag/aGE4Z5w)
+ - 👉 [Immediate karma. Got heart attack after ask Allah for death of Israel supporters.](http://9gag.com/gag/aL17jdg)<!-- MEMES:END -->
 
 --- 
 
