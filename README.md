@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [RIP Captain](http://9gag.com/gag/aGE4Z5w)
- - 😝 [The process of making a potion](http://9gag.com/gag/aREq13q)
- - 👉 [Title](http://9gag.com/gag/a2K6Zmw)<!-- MEMES:END -->
+ - 6️⃣ [Well well well...](http://9gag.com/gag/axoq7WD)
+ - 😝 [Just because...](http://9gag.com/gag/aL17gMg)
+ - 👉 [RIP Captain](http://9gag.com/gag/aGE4Z5w)<!-- MEMES:END -->
 
 --- 
 
