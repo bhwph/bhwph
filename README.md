@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why so weak?](http://9gag.com/gag/aMEMjoX)
- - 😝 [Just because...](http://9gag.com/gag/aL17gMg)
- - 👉 [Does a good deed and refuses reward](http://9gag.com/gag/aVby30M)<!-- MEMES:END -->
+ - 6️⃣ [Well well well...](http://9gag.com/gag/axoq7WD)
+ - 😝 [Does a good deed and refuses reward](http://9gag.com/gag/aVby30M)
+ - 👉 [Just because...](http://9gag.com/gag/aL17gMg)<!-- MEMES:END -->
 
 --- 
 
