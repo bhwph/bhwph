@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Dec. 13: up to $400 off M3 MacBook Pro, $199 AirPods Pro USB-C, $100 off Google Pixel Tablet, more](https://appleinsider.com/articles/23/12/13/daily-deals-dec-13-up-to-400-off-m3-macbook-pro-199-airpods-pro-usb-c-100-off-google-pixel-tablet-more?utm_medium=rss)
- - [An X outage broke all outgoing links, again](https://www.theverge.com/2023/12/13/24000170/x-outage-link-error-message-broken)
- - [Google brings Assistant Quick Phrases to Pixel Buds Pro](https://www.androidauthority.com/pixel-buds-pro-quick-phrases-3394281/)<!-- TECH:END -->
+ - [Google Keep will soon let you quickly jot notes from the lock screen](https://www.androidauthority.com/google-keep-lock-screen-notes-3394333/)
+ - [Adobe reports Q4 revenue up 12% YoY to $5.05B, vs. $5.03B est., Digital Media revenue up 13% YoY to $3.72B, FY 2024 revenue guidance below est.; ADBE drops 6%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231213/p38#a231213p38)
+ - [What’s new in AI this week? Google brings Gemini Pro to tons of new tools, and more](https://www.androidauthority.com/whats-new-in-ai-3394259/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
