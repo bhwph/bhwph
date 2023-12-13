@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you prefer manual or automatic screen brightness?](https://www.androidauthority.com/manual-automatic-screen-brightness-poll-3394014/)
- - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
- - [How to take screenshots on Steam and where to find them](https://www.androidauthority.com/take-find-screenshot-steam-3154224/)<!-- TECH:END -->
+ - [Google, Meta, Qualcomm, and seven other tech companies form the Coalition for Open Digital Ecosystems, aiming to promote open digital ecosystems in the EU &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231213/p9#a231213p9)
+ - [GM is ditching Android Auto for safety, totally not a subscription play](https://www.androidauthority.com/gm-android-auto-carplay-safety-3394072/)
+ - [Here&#39;s Everything You Should Know About NameDrop     - CNET](https://www.cnet.com/tech/mobile/what-you-need-to-know-about-namedrop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
