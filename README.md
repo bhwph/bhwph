@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spot the difference](http://9gag.com/gag/aGE41Ew)
- - 😝 [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)
- - 👉 [Tom cruise](http://9gag.com/gag/aVbyqP8)<!-- MEMES:END -->
+ - 6️⃣ [Why so weak?](http://9gag.com/gag/aMEMjoX)
+ - 😝 [Just because...](http://9gag.com/gag/aL17gMg)
+ - 👉 [Does a good deed and refuses reward](http://9gag.com/gag/aVby30M)<!-- MEMES:END -->
 
 --- 
 
