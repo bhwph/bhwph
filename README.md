@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is it just me?](http://9gag.com/gag/aNwE1BK)
- - 😝 [I asked him what those things were, but he didn&#39;t want to tell, and I didn&#39;t want to push... But the way he said it... He meant it. I agreed to let him have this way.](http://9gag.com/gag/aL170xg)
- - 👉 [Title](http://9gag.com/gag/aQEWeGd)<!-- MEMES:END -->
+ - 6️⃣ [Well well well...](http://9gag.com/gag/axoq7WD)
+ - 😝 [His own fingerprints](http://9gag.com/gag/aA0zbE0)
+ - 👉 [Love and something something](http://9gag.com/gag/avQKoNZ)<!-- MEMES:END -->
 
 --- 
 
