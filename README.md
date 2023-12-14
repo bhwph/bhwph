@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deepfake of Putin, built by a student from Saint Petersburg State University, quizzed Putin about AI and doppelgangers during a Q&amp;A session with the public &lpar;David Averre/Daily Mail&rpar;](http://www.techmeme.com/231214/p27#a231214p27)
- - [Daily deals Dec. 14: Apple Watch Ultra 2 $699, $100 off iPad Air 5, Apple TV for $45, more](https://appleinsider.com/articles/23/12/14/daily-deals-dec-14-apple-watch-ultra-2-699-100-off-ipad-air-5-apple-tv-for-45-more?utm_medium=rss)
- - [Sources: Google plans to use Gemini across its entire line of products, including an AI assistant called Pixie that will be exclusive to its Pixel devices &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231214/p26#a231214p26)<!-- TECH:END -->
+ - [Temu sues Shein, alleging ‘Mafia-style’ intimidation of manufacturers](https://www.theverge.com/2023/12/14/24001274/temu-shein-lawsuit-ecommerce-merchant-intimidation-copyright-infringement-dmca)
+ - [Neko Atsume on Quest is cute, cuddly, and a great use of mixed reality](https://www.theverge.com/2023/12/14/23999288/neko-atsume-purrfect-kitty-collector-meta-quests-trailer-release-date)
+ - [The Apple Watch Series 8 drops to an all-time low price of $279](https://www.androidauthority.com/the-apple-watch-series-8-drops-to-an-all-time-low-price-of-279-3394597/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
