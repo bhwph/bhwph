@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Keep will soon let you quickly jot notes from the lock screen](https://www.androidauthority.com/google-keep-lock-screen-notes-3394333/)
- - [Adobe reports Q4 revenue up 12% YoY to $5.05B, vs. $5.03B est., Digital Media revenue up 13% YoY to $3.72B, FY 2024 revenue guidance below est.; ADBE drops 6%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231213/p38#a231213p38)
- - [What’s new in AI this week? Google brings Gemini Pro to tons of new tools, and more](https://www.androidauthority.com/whats-new-in-ai-3394259/)<!-- TECH:END -->
+ - [The Tesla Cybertruck’s infamous wiper will reportedly cost $165 to replace](https://www.theverge.com/2023/12/13/24000685/tesla-cybertruck-windshield-wiper-replacement-part-price)
+ - [Apple Silicon M3 Pro competes with Nvidia RTX 4090 GPU in AI benchmark [u]](https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark?utm_medium=rss)
+ - [Filing: Adobe says the FTC is probing the company&#39;s subscription cancellation rules and that a settlement could have &quot;significant monetary costs or penalties&quot; &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231213/p40#a231213p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
