@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [His own fingerprints](http://9gag.com/gag/aA0zbE0)
- - 😝 [Title](http://9gag.com/gag/awZWBm8)
- - 👉 [Suposed `AAA` games and shitty multiplayer have made gaming a nasty experience. I realized that the most fun I have in games is when I play solo. With either a good story... or no story at all...](http://9gag.com/gag/aXn6o59)<!-- MEMES:END -->
+ - 6️⃣ [People just stream events now](http://9gag.com/gag/arm7o8p)
+ - 😝 [Two types of reactions...](http://9gag.com/gag/aVbywLv)
+ - 👉 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)<!-- MEMES:END -->
 
 --- 
 
