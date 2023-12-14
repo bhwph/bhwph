@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [F**k around, find out](http://9gag.com/gag/a4oOEPp)
- - 😝 [His own fingerprints](http://9gag.com/gag/aA0zbE0)
- - 👉 [That spit though](http://9gag.com/gag/ap9ZNe5)<!-- MEMES:END -->
+ - 6️⃣ [Its not big but atleast shes cute af](http://9gag.com/gag/aA0z0p9)
+ - 😝 [Never forget!](http://9gag.com/gag/aMEMY2X)
+ - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
 
 --- 
 
