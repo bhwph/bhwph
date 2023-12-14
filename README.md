@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A long-established stores that have been loved in Fukuoka for many years. The food looks amazing](http://9gag.com/gag/ay2je1y)
- - 😝 [The pain The rage](http://9gag.com/gag/aDYe1qK)
- - 👉 [RIP Captain](http://9gag.com/gag/aGE4Z5w)<!-- MEMES:END -->
+ - 6️⃣ [Is it just me?](http://9gag.com/gag/aNwE1BK)
+ - 😝 [I asked him what those things were, but he didn&#39;t want to tell, and I didn&#39;t want to push... But the way he said it... He meant it. I agreed to let him have this way.](http://9gag.com/gag/aL170xg)
+ - 👉 [Title](http://9gag.com/gag/aQEWeGd)<!-- MEMES:END -->
 
 --- 
 
