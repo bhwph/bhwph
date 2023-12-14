@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The pain The rage](http://9gag.com/gag/aDYe1qK)
- - 😝 [RIP Captain](http://9gag.com/gag/aGE4Z5w)
- - 👉 [Not on my watch](http://9gag.com/gag/aDYe4ew)<!-- MEMES:END -->
+ - 6️⃣ [When you&#39;re really happy and it&#39;s not appreciated...](http://9gag.com/gag/a7qRwjm)
+ - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 👉 [F**k around, find out](http://9gag.com/gag/a4oOEPp)<!-- MEMES:END -->
 
 --- 
 
