@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Tesla Cybertruck’s infamous wiper will reportedly cost $165 to replace](https://www.theverge.com/2023/12/13/24000685/tesla-cybertruck-windshield-wiper-replacement-part-price)
- - [Apple Silicon M3 Pro competes with Nvidia RTX 4090 GPU in AI benchmark [u]](https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark?utm_medium=rss)
- - [Filing: Adobe says the FTC is probing the company&#39;s subscription cancellation rules and that a settlement could have &quot;significant monetary costs or penalties&quot; &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231213/p40#a231213p40)<!-- TECH:END -->
+ - [Microsoft seizes US-based infrastructure and websites used by cybercrime group Storm-1152 that created ~750M fraudulent Microsoft accounts, after a court order &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/231213/p42#a231213p42)
+ - [Twitch now allows some previously prohibited sexual content, including &quot;deliberately highlighted breasts, buttocks or pelvic region&quot;, with a sexual themes label &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231213/p41#a231213p41)
+ - [Snap up Apple&#39;s M3 16-inch MacBook Pro for $2,149 &lpar;the lowest price ever&rpar;](https://appleinsider.com/articles/23/12/14/snap-up-apples-m3-16-inch-macbook-pro-for-2149-the-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
