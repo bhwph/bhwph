@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well well well...](http://9gag.com/gag/axoq7WD)
- - 😝 [His own fingerprints](http://9gag.com/gag/aA0zbE0)
- - 👉 [Love and something something](http://9gag.com/gag/avQKoNZ)<!-- MEMES:END -->
+ - 6️⃣ [Never forget!](http://9gag.com/gag/aMEMY2X)
+ - 😝 [Is it just me?](http://9gag.com/gag/aNwE1BK)
+ - 👉 [Radical feminists in a nutshell](http://9gag.com/gag/az2p9zN)<!-- MEMES:END -->
 
 --- 
 
