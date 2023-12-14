@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you&#39;re really happy and it&#39;s not appreciated...](http://9gag.com/gag/a7qRwjm)
- - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 👉 [F**k around, find out](http://9gag.com/gag/a4oOEPp)<!-- MEMES:END -->
+ - 6️⃣ [His own fingerprints](http://9gag.com/gag/aA0zbE0)
+ - 😝 [Title](http://9gag.com/gag/awZWBm8)
+ - 👉 [Suposed `AAA` games and shitty multiplayer have made gaming a nasty experience. I realized that the most fun I have in games is when I play solo. With either a good story... or no story at all...](http://9gag.com/gag/aXn6o59)<!-- MEMES:END -->
 
 --- 
 
