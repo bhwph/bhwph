@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [People just stream events now](http://9gag.com/gag/arm7o8p)
- - 😝 [Two types of reactions...](http://9gag.com/gag/aVbywLv)
- - 👉 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)<!-- MEMES:END -->
+ - 6️⃣ [His back half never lost focus....](http://9gag.com/gag/aVbyxDy)
+ - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 👉 [Was the Russian Empire actually tried to colonize Ethiopia?](http://9gag.com/gag/a5X01pO)<!-- MEMES:END -->
 
 --- 
 
