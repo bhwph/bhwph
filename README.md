@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 56 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
- - [Netflix’s Yu Yu Hakusho needed more time in the spirit world](https://www.theverge.com/24001423/yu-yu-hakusho-review-netflix-live-action)
- - [ASUS ROG Phone 8 and 8 Pro leak reveals full specs and more](https://www.androidauthority.com/rog-phone-8-specs-and-renders-3394605/)<!-- TECH:END -->
+ - [The Corsair Virtuoso gaming headset plunges by record 45%](https://www.androidauthority.com/corsair-virtuoso-gaming-headset-deal-3394720/)
+ - [The US FCC grants SpaceX temporary authorization to test its cellular Starlink system by beaming data to unmodified smartphones in over two dozen locations &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/231214/p39#a231214p39)
+ - [The EU AI Act passed — now comes the waiting](https://www.theverge.com/2023/12/14/24001919/eu-ai-act-foundation-models-regulation-data)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
