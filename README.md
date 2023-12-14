@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to start testing Tracking Protection on January 4 on ~1% of global Chrome users to block third-party cookies, ahead of a phased rollout in H2 2024 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/231214/p18#a231214p18)
- - [Even the OnePlus 12 could potentially run all your favorite old apps](https://www.androidauthority.com/oneplus-12-32-bit-app-support-3394525/)
- - [31 Techy Gifts Under $100 That We Tested and Love](https://www.wired.com/gallery/best-gifts-under-100/)<!-- TECH:END -->
+ - [A deepfake of Putin, built by a student from Saint Petersburg State University, quizzed Putin about AI and doppelgangers during a Q&amp;A session with the public &lpar;David Averre/Daily Mail&rpar;](http://www.techmeme.com/231214/p27#a231214p27)
+ - [Daily deals Dec. 14: Apple Watch Ultra 2 $699, $100 off iPad Air 5, Apple TV for $45, more](https://appleinsider.com/articles/23/12/14/daily-deals-dec-14-apple-watch-ultra-2-699-100-off-ipad-air-5-apple-tv-for-45-more?utm_medium=rss)
+ - [Sources: Google plans to use Gemini across its entire line of products, including an AI assistant called Pixie that will be exclusive to its Pixel devices &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231214/p26#a231214p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
