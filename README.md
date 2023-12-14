@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never forget!](http://9gag.com/gag/aMEMY2X)
- - 😝 [Is it just me?](http://9gag.com/gag/aNwE1BK)
- - 👉 [Radical feminists in a nutshell](http://9gag.com/gag/az2p9zN)<!-- MEMES:END -->
+ - 6️⃣ [The pain The rage](http://9gag.com/gag/aDYe1qK)
+ - 😝 [RIP Captain](http://9gag.com/gag/aGE4Z5w)
+ - 👉 [Not on my watch](http://9gag.com/gag/aDYe4ew)<!-- MEMES:END -->
 
 --- 
 
