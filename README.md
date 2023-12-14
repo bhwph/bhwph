@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Xiaomi 14 Pro may not launch globally 😭](https://www.androidauthority.com/xiaomi-14-pro-global-launch-unlikely-3394490/)
- - [Sensor Tower: 51 of the top 100 US advertisers on X in October 2022, when Elon Musk bought the platform, have ceased ad spending on X as of November 2023 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/231214/p14#a231214p14)
- - [Apple begins selling a $99 USB-C charging case for its second-generation AirPods Pro as a standalone purchase &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231214/p13#a231214p13)<!-- TECH:END -->
+ - [Google plans to start testing Tracking Protection on January 4 on ~1% of global Chrome users to block third-party cookies, ahead of a phased rollout in H2 2024 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/231214/p18#a231214p18)
+ - [Even the OnePlus 12 could potentially run all your favorite old apps](https://www.androidauthority.com/oneplus-12-32-bit-app-support-3394525/)
+ - [31 Techy Gifts Under $100 That We Tested and Love](https://www.wired.com/gallery/best-gifts-under-100/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
