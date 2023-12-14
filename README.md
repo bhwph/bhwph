@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 10 Tips Can Help Enhance Your iPhone or Android&#39;s Reception     - CNET](https://www.cnet.com/tech/mobile/these-10-tips-can-help-enhance-your-iphone-or-androids-reception/#ftag=CAD590a51e)
- - [Three Polish hackers say they fixed trains allegedly bricked by manufacturer Newag after an independent repair shop worked on them; Newag denies bricking them &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/231214/p6#a231214p6)
- - [Here&#39;s How You Can Save Your Netflix Profile Even Once You&#39;ve Been Kicked Off Someone Else&#39;s Account     - CNET](https://www.cnet.com/tech/home-entertainment/heres-how-you-can-save-your-netflix-profile-even-once-youve-been-kicked-off-someone-elses-account/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Xiaomi 14 Pro may not launch globally 😭](https://www.androidauthority.com/xiaomi-14-pro-global-launch-unlikely-3394490/)
+ - [Sensor Tower: 51 of the top 100 US advertisers on X in October 2022, when Elon Musk bought the platform, have ceased ad spending on X as of November 2023 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/231214/p14#a231214p14)
+ - [Apple begins selling a $99 USB-C charging case for its second-generation AirPods Pro as a standalone purchase &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231214/p13#a231214p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
