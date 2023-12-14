@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [His back half never lost focus....](http://9gag.com/gag/aVbyxDy)
- - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 👉 [Was the Russian Empire actually tried to colonize Ethiopia?](http://9gag.com/gag/a5X01pO)<!-- MEMES:END -->
+ - 6️⃣ [F**k around, find out](http://9gag.com/gag/a4oOEPp)
+ - 😝 [His own fingerprints](http://9gag.com/gag/aA0zbE0)
+ - 👉 [That spit though](http://9gag.com/gag/ap9ZNe5)<!-- MEMES:END -->
 
 --- 
 
