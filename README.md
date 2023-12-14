@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Temu sues Shein, alleging ‘Mafia-style’ intimidation of manufacturers](https://www.theverge.com/2023/12/14/24001274/temu-shein-lawsuit-ecommerce-merchant-intimidation-copyright-infringement-dmca)
- - [Neko Atsume on Quest is cute, cuddly, and a great use of mixed reality](https://www.theverge.com/2023/12/14/23999288/neko-atsume-purrfect-kitty-collector-meta-quests-trailer-release-date)
- - [The Apple Watch Series 8 drops to an all-time low price of $279](https://www.androidauthority.com/the-apple-watch-series-8-drops-to-an-all-time-low-price-of-279-3394597/)<!-- TECH:END -->
+ - [The 56 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
+ - [Netflix’s Yu Yu Hakusho needed more time in the spirit world](https://www.theverge.com/24001423/yu-yu-hakusho-review-netflix-live-action)
+ - [ASUS ROG Phone 8 and 8 Pro leak reveals full specs and more](https://www.androidauthority.com/rog-phone-8-specs-and-renders-3394605/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
