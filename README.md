@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Credit Karma co-founder and Chief Revenue Officer Nichole Mustard is leaving the company after 16 years, the third high-profile executive departure in 2023 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/231214/p44#a231214p44)
- - [Google confirms that it will no longer respond to geofence warrants after making changes to the way Maps stores users&#39; location data &lpar;Forbes&rpar;](http://www.techmeme.com/231214/p43#a231214p43)
- - [Intel 5th-Gen Xeon Platinum 8592+ review: the $11,600 64-core chip outperforms AMD&#39;s 64-core EPYC Genoa in several benchmarks, particularly in AI workloads &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231214/p42#a231214p42)<!-- TECH:END -->
+ - [Sources: Apple plans to deploy advanced OLED screens in high-end iPads in 2024 and in a MacBook model in H2 2025, and is also considering making foldable iPads &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231214/p47#a231214p47)
+ - [Samsung Galaxy Book 4 series launched officially with AI smarts](https://www.androidauthority.com/samsung-galaxy-book-4-series-3394409/)
+ - [Crypto wallet maker Ledger updates Connect Kit, saying a former employee &quot;fell victim to a phishing attack&quot; that let a hacker insert malicious code &lpar;Stacy Elliott/Decrypt&rpar;](http://www.techmeme.com/231214/p46#a231214p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
