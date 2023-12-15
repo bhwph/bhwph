@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Corsair Virtuoso gaming headset plunges by record 45%](https://www.androidauthority.com/corsair-virtuoso-gaming-headset-deal-3394720/)
- - [The US FCC grants SpaceX temporary authorization to test its cellular Starlink system by beaming data to unmodified smartphones in over two dozen locations &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/231214/p39#a231214p39)
- - [The EU AI Act passed — now comes the waiting](https://www.theverge.com/2023/12/14/24001919/eu-ai-act-foundation-models-regulation-data)<!-- TECH:END -->
+ - [Intel 5th-Gen Xeon Platinum 8592+ review: the $11,600 64-core chip outperforms AMD&#39;s 64-core EPYC Genoa in several benchmarks, particularly in AI workloads &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231214/p42#a231214p42)
+ - [Apple and Corellium settle legal dispute over virtualized iPhone software](https://appleinsider.com/articles/23/12/15/apple-and-corellium-settle-legal-dispute-over-virtualized-iphone-software?utm_medium=rss)
+ - [Filing: Apple and Corellium settle a copyright dispute dating to 2019 in which Apple tried to shut down Corellium&#39;s virtual iPhone software &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/231214/p41#a231214p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
