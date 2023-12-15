@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Full story below](http://9gag.com/gag/arm7nEd)
- - 😝 [Hypergamy](http://9gag.com/gag/agozA8W)
- - 👉 [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)<!-- MEMES:END -->
+ - 6️⃣ [10 years ago, Charles Ramsey saved 3 women... and gave this legendary interview.. Which became an early internet meme](http://9gag.com/gag/aeQ89Qq)
+ - 😝 [Got to roast everybody](http://9gag.com/gag/a6qYEMN)
+ - 👉 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)<!-- MEMES:END -->
 
 --- 
 
