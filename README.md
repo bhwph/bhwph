@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 😝 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
- - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
+ - 6️⃣ [4 days in Texas](http://9gag.com/gag/a04y4qQ)
+ - 😝 [Disney wife](http://9gag.com/gag/agozoQq)
+ - 👉 [New fear unlocked: Sucked Into an Oil Pipe.](http://9gag.com/gag/amA4A7y)<!-- MEMES:END -->
 
 --- 
 
