@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Krutrim, an AI startup founded by Ola&#39;s CEO Bhavish Aggarwal, unveils India&#39;s first multilingual LLM, capable of generating text in ten Indian languages &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/231215/p5#a231215p5)
- - [Netflix&#39;s Big Data Dump Shows Just OK TV Is Here to Stay](https://www.wired.com/story/netflix-viewership-data-foretells-bland-streaming-future/)
- - [School of Rock: The Physics of Waves on Guitar Strings](https://www.wired.com/story/school-of-rock-the-physics-of-waves-on-guitar-strings/)<!-- TECH:END -->
+ - [Time running out to grab the Galaxy Buds 2 Pro for under $100](https://www.androidauthority.com/galaxy-buds-2-pro-holiday-deal-3394985/)
+ - [Microsoft launches the basic Office suite on the Meta Quest store for free; all three apps run in a MR environment and all Quest headsets are supported &lpar;Nicholas Sutrich/Android Central&rpar;](http://www.techmeme.com/231215/p10#a231215p10)
+ - [Nanoleaf’s smart holiday string lights are over half off](https://www.theverge.com/2023/12/15/24001447/nanoleaf-essentials-matter-smart-holiday-string-lights-amazon-fire-tv-omni-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
