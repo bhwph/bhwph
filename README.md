@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Time running out to grab the Galaxy Buds 2 Pro for under $100](https://www.androidauthority.com/galaxy-buds-2-pro-holiday-deal-3394985/)
- - [Microsoft launches the basic Office suite on the Meta Quest store for free; all three apps run in a MR environment and all Quest headsets are supported &lpar;Nicholas Sutrich/Android Central&rpar;](http://www.techmeme.com/231215/p10#a231215p10)
- - [Nanoleaf’s smart holiday string lights are over half off](https://www.theverge.com/2023/12/15/24001447/nanoleaf-essentials-matter-smart-holiday-string-lights-amazon-fire-tv-omni-deal-sale)<!-- TECH:END -->
+ - [YouTube creators MrBeast and Chucky Appleby launch ViewStats, which uses the YouTube API to unveil detailed stats about channels for creators and fans, in beta &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/231215/p15#a231215p15)
+ - [Reader’s Choice Award for the best phone of 2023 &lpar;Update: Voting closed!&rpar;](https://www.androidauthority.com/best-phone-2023-readers-choice-voting-3393374/)
+ - [Voting has closed for the Reader’s Choice Award 2023!](https://www.androidauthority.com/readers-choice-award-2023-closed-3394989/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
