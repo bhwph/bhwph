@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s AI Chatbot Replies to Election Questions With Conspiracies, Fake Scandals, and Lies](https://www.wired.com/story/microsoft-ai-copilot-chatbot-election-conspiracy/)
- - [Samsung Keyboard could get a handy AI feature in One UI 6.1](https://www.androidauthority.com/samsung-keyboard-tone-translate-3394842/)
- - [Mozilla Firefox for Android browser brings a ton of new extensions to all users](https://www.androidauthority.com/firefox-for-android-open-extensions-3394843/)<!-- TECH:END -->
+ - [Cox Media Group claims it can listen to conversations of consumers through microphones in smartphones, smart TVs, and other devices and use it to target ads &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/231215/p4#a231215p4)
+ - [Spotify is taking AI’s help to make you a better playlist](https://www.androidauthority.com/spotify-ai-playlist-test-3394903/)
+ - [You told us: You wouldn’t buy a Galaxy S24 without Snapdragon power](https://www.androidauthority.com/samsung-galaxy-s24-snapdragon-power-poll-3394880/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
