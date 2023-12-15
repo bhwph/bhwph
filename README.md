@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube creators MrBeast and Chucky Appleby launch ViewStats, which uses the YouTube API to unveil detailed stats about channels for creators and fans, in beta &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/231215/p15#a231215p15)
- - [Reader’s Choice Award for the best phone of 2023 &lpar;Update: Voting closed!&rpar;](https://www.androidauthority.com/best-phone-2023-readers-choice-voting-3393374/)
- - [Voting has closed for the Reader’s Choice Award 2023!](https://www.androidauthority.com/readers-choice-award-2023-closed-3394989/)<!-- TECH:END -->
+ - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)
+ - [In iOS 17.2, Apple has closed off Flipper Zero devices&#39; ability to carry out DoS attacks on iPhones by continuously sending Bluetooth pairing requests &lpar;Adrian Kingsley-Hughes/ZDNet&rpar;](http://www.techmeme.com/231215/p18#a231215p18)
+ - [Google Photos cloud content will soon appear in Android’s Photo Picker, finally](https://www.androidauthority.com/google-photos-in-photo-picker-3395079/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
