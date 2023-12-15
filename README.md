@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Caught stealing. No problem. Apply #2](http://9gag.com/gag/avQKz0M)
- - 😝 [His own fingerprints](http://9gag.com/gag/aA0zbE0)
- - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
+ - 6️⃣ [I need that for things i didnt figure out rn](http://9gag.com/gag/arm7mx0)
+ - 😝 [Tibetian throat singing.](http://9gag.com/gag/aMEM4x1)
+ - 👉 [Givning it 100%](http://9gag.com/gag/ay2j9By)<!-- MEMES:END -->
 
 --- 
 
