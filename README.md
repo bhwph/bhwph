@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [10 years ago, Charles Ramsey saved 3 women... and gave this legendary interview.. Which became an early internet meme](http://9gag.com/gag/aeQ89Qq)
- - 😝 [Got to roast everybody](http://9gag.com/gag/a6qYEMN)
- - 👉 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)<!-- MEMES:END -->
+ - 6️⃣ [Nuked by community notes. When your race card has been declined.](http://9gag.com/gag/a1P37YR)
+ - 😝 [In light of the recent events:](http://9gag.com/gag/awZWyDB)
+ - 👉 [Disney wife](http://9gag.com/gag/agozoQq)<!-- MEMES:END -->
 
 --- 
 
