@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [4 days in Texas](http://9gag.com/gag/a04y4qQ)
- - 😝 [Disney wife](http://9gag.com/gag/agozoQq)
- - 👉 [New fear unlocked: Sucked Into an Oil Pipe.](http://9gag.com/gag/amA4A7y)<!-- MEMES:END -->
+ - 6️⃣ [Full story below](http://9gag.com/gag/arm7nEd)
+ - 😝 [Hypergamy](http://9gag.com/gag/agozA8W)
+ - 👉 [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)<!-- MEMES:END -->
 
 --- 
 
