@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch &#39;A Charlie Brown Christmas&#39; for free](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-christmas-for-free?utm_medium=rss)
- - [Tesla Wireless Charger Review: Convenience Has a Cost](https://www.wired.com/review/tesla-wireless-charger/)
- - [Energy Drinks Are Out of Control](https://www.wired.com/story/panera-bread-charged-lemonade-caffeine-energy-drinks/)<!-- TECH:END -->
+ - [Krutrim, an AI startup founded by Ola&#39;s CEO Bhavish Aggarwal, unveils India&#39;s first multilingual LLM, capable of generating text in ten Indian languages &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/231215/p5#a231215p5)
+ - [Netflix&#39;s Big Data Dump Shows Just OK TV Is Here to Stay](https://www.wired.com/story/netflix-viewership-data-foretells-bland-streaming-future/)
+ - [School of Rock: The Physics of Waves on Guitar Strings](https://www.wired.com/story/school-of-rock-the-physics-of-waves-on-guitar-strings/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
