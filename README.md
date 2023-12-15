@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The GTA trilogy has finally arrived on Netflix Games](https://www.androidauthority.com/gta-trilogy-netflix-games-3394392/)
- - [Some publishers estimate that Google&#39;s Search Generative Experience could cut referral traffic by 20% to 40% if the final version resembles recent iterations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231215/p1#a231215p1)
- - [Google makes it easier to fix Pixel phones with new Diagnostic app and repair manuals](https://www.androidauthority.com/google-pixel-diagnostic-app-3394805/)<!-- TECH:END -->
+ - [Microsoft’s AI Chatbot Replies to Election Questions With Conspiracies, Fake Scandals, and Lies](https://www.wired.com/story/microsoft-ai-copilot-chatbot-election-conspiracy/)
+ - [Samsung Keyboard could get a handy AI feature in One UI 6.1](https://www.androidauthority.com/samsung-keyboard-tone-translate-3394842/)
+ - [Mozilla Firefox for Android browser brings a ton of new extensions to all users](https://www.androidauthority.com/firefox-for-android-open-extensions-3394843/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
