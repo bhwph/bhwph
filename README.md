@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans to deploy advanced OLED screens in high-end iPads in 2024 and in a MacBook model in H2 2025, and is also considering making foldable iPads &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231214/p47#a231214p47)
- - [Samsung Galaxy Book 4 series launched officially with AI smarts](https://www.androidauthority.com/samsung-galaxy-book-4-series-3394409/)
- - [Crypto wallet maker Ledger updates Connect Kit, saying a former employee &quot;fell victim to a phishing attack&quot; that let a hacker insert malicious code &lpar;Stacy Elliott/Decrypt&rpar;](http://www.techmeme.com/231214/p46#a231214p46)<!-- TECH:END -->
+ - [The GTA trilogy has finally arrived on Netflix Games](https://www.androidauthority.com/gta-trilogy-netflix-games-3394392/)
+ - [Some publishers estimate that Google&#39;s Search Generative Experience could cut referral traffic by 20% to 40% if the final version resembles recent iterations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231215/p1#a231215p1)
+ - [Google makes it easier to fix Pixel phones with new Diagnostic app and repair manuals](https://www.androidauthority.com/google-pixel-diagnostic-app-3394805/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
