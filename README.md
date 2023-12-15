@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)
- - 😝 [Over the Pacific Ocean tonight](http://9gag.com/gag/aQEWz87)
- - 👉 [Disney wife](http://9gag.com/gag/agozoQq)<!-- MEMES:END -->
+ - 6️⃣ [The full clip](http://9gag.com/gag/aA0zQMZ)
+ - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
+ - 👉 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)<!-- MEMES:END -->
 
 --- 
 
