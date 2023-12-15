@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [People just stream events now](http://9gag.com/gag/arm7o8p)
- - 😝 [Full story below](http://9gag.com/gag/arm7nEd)
+ - 6️⃣ [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 😝 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
  - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
 
 --- 
