@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Its not big but atleast shes cute af](http://9gag.com/gag/aA0z0p9)
- - 😝 [Never forget!](http://9gag.com/gag/aMEMY2X)
- - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
+ - 😝 [I am sure he is doing very well](http://9gag.com/gag/abvnvxE)
+ - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
 
 --- 
 
