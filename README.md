@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)
- - [In iOS 17.2, Apple has closed off Flipper Zero devices&#39; ability to carry out DoS attacks on iPhones by continuously sending Bluetooth pairing requests &lpar;Adrian Kingsley-Hughes/ZDNet&rpar;](http://www.techmeme.com/231215/p18#a231215p18)
- - [Google Photos cloud content will soon appear in Android’s Photo Picker, finally](https://www.androidauthority.com/google-photos-in-photo-picker-3395079/)<!-- TECH:END -->
+ - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/23952179/tech-gifts-under-50-best-cheap-ideas-2023-budget)
+ - [Apple agrees to pay $25M to settle a class action lawsuit alleging Apple misrepresented the way that third-party app subscriptions worked with Family Sharing &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/231215/p22#a231215p22)
+ - [The Verge’s 2023 holiday gift guide for dads](https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
