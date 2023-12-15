@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nuked by community notes. When your race card has been declined.](http://9gag.com/gag/a1P37YR)
- - 😝 [In light of the recent events:](http://9gag.com/gag/awZWyDB)
+ - 6️⃣ [Full story below](http://9gag.com/gag/arm7nEd)
+ - 😝 [The GOAT](http://9gag.com/gag/anzPQXB)
  - 👉 [Disney wife](http://9gag.com/gag/agozoQq)<!-- MEMES:END -->
 
 --- 
