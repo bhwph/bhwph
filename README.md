@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SmileDirectClub Shut Down: What We Know About Payments and Finding New Treatment     - CNET](https://www.cnet.com/health/personal-care/smiledirectclub-shut-down-what-we-know-about-payments-and-finding-new-treatment/#ftag=CAD590a51e)
- - [Memo: Weibo sent notices warning users to &quot;avoid expressing pessimism about the economy&quot; and &quot;avoid crossing the red lines&quot; around economic or financial topics &lpar;Bloomberg&rpar;](http://www.techmeme.com/231215/p26#a231215p26)
- - [Adam Mosseri details Threads&#39; fediverse plans, including following non-Threads accounts, showing replies from other platforms, and follower portability &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231215/p25#a231215p25)<!-- TECH:END -->
+ - [Best Holiday Deals on E-Bikes: Save Hundreds on Top Brands Like BirdBike, Velowave and More     - CNET](https://www.cnet.com/roadshow/news/best-e-bike-deals/#ftag=CAD590a51e)
+ - [CGIGC: China&#39;s video games market returned to growth in 2023 with domestic revenue up 13% YoY to ~$42.6B and the number of gamers up 0.61% YoY to a record 668M &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231215/p27#a231215p27)
+ - [SmileDirectClub Shut Down: What We Know About Payments and Finding New Treatment     - CNET](https://www.cnet.com/health/personal-care/smiledirectclub-shut-down-what-we-know-about-payments-and-finding-new-treatment/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
