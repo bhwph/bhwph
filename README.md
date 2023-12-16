@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
- - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 👉 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)<!-- MEMES:END -->
+ - 😝 [This is all wrong](http://9gag.com/gag/aZDO1Y9)
+ - 👉 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)<!-- MEMES:END -->
 
 --- 
 
