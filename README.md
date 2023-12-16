@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/23952179/tech-gifts-under-50-best-cheap-ideas-2023-budget)
- - [Apple agrees to pay $25M to settle a class action lawsuit alleging Apple misrepresented the way that third-party app subscriptions worked with Family Sharing &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/231215/p22#a231215p22)
- - [The Verge’s 2023 holiday gift guide for dads](https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets)<!-- TECH:END -->
+ - [Adam Mosseri details Threads&#39; fediverse plans, including following non-Threads accounts, showing replies from other platforms, and follower portability &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231215/p25#a231215p25)
+ - [California settles Activision Blizzard gender discrimination lawsuit for $54 million](https://www.theverge.com/2023/12/15/24003556/california-activision-blizzard-gender-discrimination-lawsuit-settlement)
+ - [Philips Hue reorganizes, plans job cuts to save $218 million annually](https://www.theverge.com/2023/12/15/24003478/philips-hue-signify-restructuring-cut-218-million-annually)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
