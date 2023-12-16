@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 😝 [David Caruso 2012 / 2023](http://9gag.com/gag/arm7AMd)
- - 👉 [I\u2019d treasure them](http://9gag.com/gag/aWG3p86)<!-- MEMES:END -->
+ - 6️⃣ [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
+ - 👉 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)<!-- MEMES:END -->
 
 --- 
 
