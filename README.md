@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces contingent pricing for subscriptions, letting developers give users a discounted price if they&#39;re actively subscribed to another subscription &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231216/p6#a231216p6)
- - [The Samsung Galaxy S23 Ultra is your Reader’s Choice for best phone of 2023](https://www.androidauthority.com/best-phone-2023-readers-choice-3395023/)
- - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-514-3395110/)<!-- TECH:END -->
+ - [Marvel’s Echo: Release date and the latest rumors](https://www.androidauthority.com/marvel-echo-release-date-3395233/)
+ - [Daily deals Dec. 16: $650 off 2023 MacBook Pro, $150 off Apple Watch Series 8, Apple Watch Ultra for $530, more](https://appleinsider.com/articles/23/12/16/daily-deals-dec-16-650-off-2023-macbook-pro-150-off-apple-watch-series-8-apple-watch-ultra-for-530-more?utm_medium=rss)
+ - [An interview with Tim Sweeney about Epic&#39;s win over Google and his concerns that Google will &quot;get away with continuing their scheme&quot; through &quot;fake&quot; remedies &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/231216/p7#a231216p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
