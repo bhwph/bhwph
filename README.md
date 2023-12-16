@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - 😝 [I\u2019d treasure them](http://9gag.com/gag/aWG3p86)
- - 👉 [Disney wife](http://9gag.com/gag/agozoQq)<!-- MEMES:END -->
+ - 6️⃣ [Disney wife](http://9gag.com/gag/agozoQq)
+ - 😝 [Parked in handicap parking spot](http://9gag.com/gag/awZWggW)
+ - 👉 [One ticket please](http://9gag.com/gag/aREqLQq)<!-- MEMES:END -->
 
 --- 
 
