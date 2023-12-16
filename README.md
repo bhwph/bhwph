@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The full clip](http://9gag.com/gag/aA0zQMZ)
- - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - 👉 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)<!-- MEMES:END -->
+ - 6️⃣ [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
+ - 😝 [I\u2019d treasure them](http://9gag.com/gag/aWG3p86)
+ - 👉 [Disney wife](http://9gag.com/gag/agozoQq)<!-- MEMES:END -->
 
 --- 
 
