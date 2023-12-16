@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vera Molnar, considered the godmother of generative art for her computer-aided paintings and drawings that started in the 1960s, died on December 7 at age 99 &lpar;Alex Williams/New York Times&rpar;](http://www.techmeme.com/231216/p3#a231216p3)
- - [Tesla&#39;s Autopilot recall threatens to hurt the company&#39;s defense in six high-profile lawsuits set for 2024 over crashes linked to the driver-assistance program &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/231216/p2#a231216p2)
- - [Polygon Labs discontinues contributions to Edge, the OSS used for Dogechain, and shifts towards the Polygon CDK, which is powered by zero-knowledge cryptography &lpar;Bradley Keoun/CoinDesk&rpar;](http://www.techmeme.com/231216/p1#a231216p1)<!-- TECH:END -->
+ - [The iPhone’s Notes App Is the Purest Reflection of Our Messy Existence](https://www.wired.com/story/iphone-notes-app-purest-reflection-of-our-humanity/)
+ - [How Spamouflage Dragon, China&#39;s largest disinformation campaign per Google and Meta, infiltrates platforms to promote Chinese policies and criticize dissidents &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/231216/p4#a231216p4)
+ - [7 of the Best Board Games to Give in 2023     - CNET](https://www.cnet.com/culture/entertainment/best-board-games-to-give/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
