@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Disney wife](http://9gag.com/gag/agozoQq)
- - 😝 [Parked in handicap parking spot](http://9gag.com/gag/awZWggW)
- - 👉 [One ticket please](http://9gag.com/gag/aREqLQq)<!-- MEMES:END -->
+ - 6️⃣ [Uh oh](http://9gag.com/gag/avQK5VM)
+ - 😝 [Dota 2 rolled out its ban wave, gift-wrapped.](http://9gag.com/gag/aXn6LO6)
+ - 👉 [The full clip](http://9gag.com/gag/aA0zQMZ)<!-- MEMES:END -->
 
 --- 
 
