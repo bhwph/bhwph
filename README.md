@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
- - 😝 [This is all wrong](http://9gag.com/gag/aZDO1Y9)
- - 👉 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)<!-- MEMES:END -->
+ - 6️⃣ [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
+ - 😝 [David Caruso 2012 / 2023](http://9gag.com/gag/arm7AMd)
+ - 👉 [F**king Legend](http://9gag.com/gag/a5X06Nr)<!-- MEMES:END -->
 
 --- 
 
