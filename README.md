@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
- - 😝 [I\u2019d treasure them](http://9gag.com/gag/aWG3p86)
- - 👉 [Alligators getting fed](http://9gag.com/gag/a1P37b6)<!-- MEMES:END -->
+ - 6️⃣ [I am sure he is doing very well](http://9gag.com/gag/abvnvxE)
+ - 😝 [Allow me to unlock a new fear for you, ladies](http://9gag.com/gag/a04yo5O)
+ - 👉 [That spit though](http://9gag.com/gag/ap9ZNe5)<!-- MEMES:END -->
 
 --- 
 
