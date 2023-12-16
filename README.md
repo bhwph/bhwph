@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [19 Best Portable Battery Chargers &lpar;2023&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [Google Just Denied Cops a Key Surveillance Tool](https://www.wired.com/story/google-geofence-warrants-security-roundup/)
- - [Inside the strange and stunning alien world of Scavengers Reign](https://www.theverge.com/24003065/scavengers-reign-max-alien-world-design-influences-interview)<!-- TECH:END -->
+ - [Apple announces contingent pricing for subscriptions, letting developers give users a discounted price if they&#39;re actively subscribed to another subscription &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231216/p6#a231216p6)
+ - [The Samsung Galaxy S23 Ultra is your Reader’s Choice for best phone of 2023](https://www.androidauthority.com/best-phone-2023-readers-choice-3395023/)
+ - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-514-3395110/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
