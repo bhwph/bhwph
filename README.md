@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
- - 😝 [The full clip](http://9gag.com/gag/aA0zQMZ)
- - 👉 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)<!-- MEMES:END -->
+ - 6️⃣ [What&#39;s up my mammals](http://9gag.com/gag/aVbyv6O)
+ - 😝 [Dota 2 rolled out its ban wave, gift-wrapped.](http://9gag.com/gag/aXn6LO6)
+ - 👉 [Alligators getting fed](http://9gag.com/gag/a1P37b6)<!-- MEMES:END -->
 
 --- 
 
