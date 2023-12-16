@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone’s Notes App Is the Purest Reflection of Our Messy Existence](https://www.wired.com/story/iphone-notes-app-purest-reflection-of-our-humanity/)
- - [How Spamouflage Dragon, China&#39;s largest disinformation campaign per Google and Meta, infiltrates platforms to promote Chinese policies and criticize dissidents &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/231216/p4#a231216p4)
- - [7 of the Best Board Games to Give in 2023     - CNET](https://www.cnet.com/culture/entertainment/best-board-games-to-give/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [19 Best Portable Battery Chargers &lpar;2023&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+ - [Google Just Denied Cops a Key Surveillance Tool](https://www.wired.com/story/google-geofence-warrants-security-roundup/)
+ - [Inside the strange and stunning alien world of Scavengers Reign](https://www.theverge.com/24003065/scavengers-reign-max-alien-world-design-influences-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
