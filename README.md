@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Stanford professor Fei-Fei Li on the lack of resources for academic AI, Silicon Valley&#39;s &quot;bro&quot; culture, keeping AI safe for humanity, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/231216/p11#a231216p11)
- - [Best Free TV Streaming Services: Pluto TV, Tubi, Freevee and More     - CNET](https://www.cnet.com/tech/services-and-software/best-free-tv-streaming-services/#ftag=CAD590a51e)
- - [Ex-Amazon security engineer Shakeeb Ahmed pleads guilty to hacking and stealing over $12.3M from Nirvana Finance and an unnamed crypto exchange in July 2022 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231216/p10#a231216p10)<!-- TECH:END -->
+ - [The Startup That Transformed the Hack-for-Hire Industry](https://www.wired.com/story/indian-startup-hack-for-hire-security-roundup/)
+ - [US Congress pushes warrantless wiretapping decision off until April next year](https://www.theverge.com/2023/12/16/24004356/section-207-reauthorized-until-april-fisa-national-defence-cyber-surveillance)
+ - [As TikTok rolls out its new Creativity Program Beta, some creators say they&#39;re frustrated by its push to become a &quot;mini YouTube&quot; with videos of up to 15 minutes &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/231216/p12#a231216p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
