@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [F**king Legend](http://9gag.com/gag/a5X06Nr)
- - 😝 [Choose your keyboard](http://9gag.com/gag/aBdBLE2)
- - 👉 [You know you know](http://9gag.com/gag/aeQ8Ovm)<!-- MEMES:END -->
+ - 6️⃣ [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
+ - 😝 [Dumb and dumber](http://9gag.com/gag/a04yVVO)
+ - 👉 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)<!-- MEMES:END -->
 
 --- 
 
