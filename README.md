@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)
- - 😝 [Title](http://9gag.com/gag/anzPRmV)
- - 👉 [Take a lesson, \u20actards. Stop being weak](http://9gag.com/gag/a9qg5ro)<!-- MEMES:END -->
+ - 6️⃣ [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
+ - 😝 [He did warn here](http://9gag.com/gag/aDYe6vN)
+ - 👉 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)<!-- MEMES:END -->
 
 --- 
 
