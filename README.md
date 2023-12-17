@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [2 hours](http://9gag.com/gag/aYVXO30)
- - 😝 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)
- - 👉 [This is all wrong](http://9gag.com/gag/aZDO1Y9)<!-- MEMES:END -->
+ - 6️⃣ [Female Influencer](http://9gag.com/gag/aEqmAPN)
+ - 😝 [Simulation of Ceres hiting earth &lpar; spoiler no where to hide &rpar;](http://9gag.com/gag/a7qR0Px)
+ - 👉 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)<!-- MEMES:END -->
 
 --- 
 
