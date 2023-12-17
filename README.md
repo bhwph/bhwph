@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Female Influencer](http://9gag.com/gag/aEqmAPN)
- - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
- - 👉 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)<!-- MEMES:END -->
+ - 6️⃣ [2 hours](http://9gag.com/gag/aYVXO30)
+ - 😝 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)
+ - 👉 [This is all wrong](http://9gag.com/gag/aZDO1Y9)<!-- MEMES:END -->
 
 --- 
 
