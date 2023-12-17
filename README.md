@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Apple Store crimes in the Bay Area](https://appleinsider.com/articles/23/12/17/crime-blotter-apple-store-crimes-in-the-bay-area?utm_medium=rss)
- - [A profile of Dr. Shih Chin-tay, who led Taiwan&#39;s foray into chip production in the 1970s after joining the Industrial Technology Research Institute in Hsinchu &lpar;Rupert Wingfield-Hayes/BBC&rpar;](http://www.techmeme.com/231217/p3#a231217p3)
- - [The Best Apps for Your Foldable Phone](https://www.wired.com/story/best-apps-foldable-phone/)<!-- TECH:END -->
+ - [The Best Pet Cameras &lpar;2023&rpar;: Treat Dispensing, Laser Pointer, and 360 Degrees](https://www.wired.com/story/best-pet-cameras/)
+ - [After living with a 3-in-1 Magsafe charger for a year, there’s no going back](https://www.androidauthority.com/belkin-3-in-1-magsafe-charger-year-3393822/)
+ - [10 Best Travel Coffee Mugs &lpar;2023&rpar;: Insulated, Steel, Thermal](https://www.wired.com/gallery/best-travel-mugs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
