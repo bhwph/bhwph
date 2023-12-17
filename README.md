@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
- - 😝 [Dumb and dumber](http://9gag.com/gag/a04yVVO)
+ - 6️⃣ [You know you know](http://9gag.com/gag/aeQ8Ovm)
+ - 😝 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)
  - 👉 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)<!-- MEMES:END -->
 
 --- 
