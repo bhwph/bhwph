@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
- - 😝 [David Caruso 2012 / 2023](http://9gag.com/gag/arm7AMd)
- - 👉 [F**king Legend](http://9gag.com/gag/a5X06Nr)<!-- MEMES:END -->
+ - 6️⃣ [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 😝 [F**king Legend](http://9gag.com/gag/a5X06Nr)
+ - 👉 [Allow me to unlock a new fear for you, ladies](http://9gag.com/gag/a04yo5O)<!-- MEMES:END -->
 
 --- 
 
