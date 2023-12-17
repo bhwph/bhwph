@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
- - 😝 [F**king Legend](http://9gag.com/gag/a5X06Nr)
- - 👉 [Allow me to unlock a new fear for you, ladies](http://9gag.com/gag/a04yo5O)<!-- MEMES:END -->
+ - 6️⃣ [Female Influencer](http://9gag.com/gag/aEqmAPN)
+ - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
+ - 👉 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)<!-- MEMES:END -->
 
 --- 
 
