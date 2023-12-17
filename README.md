@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
- - 😝 [He did warn here](http://9gag.com/gag/aDYe6vN)
- - 👉 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)<!-- MEMES:END -->
+ - 6️⃣ [Choose your time traveler](http://9gag.com/gag/anzPvXz)
+ - 😝 [Choose your keyboard](http://9gag.com/gag/aBdBLE2)
+ - 👉 [You know you know](http://9gag.com/gag/aeQ8Ovm)<!-- MEMES:END -->
 
 --- 
 
