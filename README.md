@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Choose your time traveler](http://9gag.com/gag/anzPvXz)
+ - 6️⃣ [F**king Legend](http://9gag.com/gag/a5X06Nr)
  - 😝 [Choose your keyboard](http://9gag.com/gag/aBdBLE2)
  - 👉 [You know you know](http://9gag.com/gag/aeQ8Ovm)<!-- MEMES:END -->
 
