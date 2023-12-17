@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Startup That Transformed the Hack-for-Hire Industry](https://www.wired.com/story/indian-startup-hack-for-hire-security-roundup/)
- - [US Congress pushes warrantless wiretapping decision off until April next year](https://www.theverge.com/2023/12/16/24004356/section-207-reauthorized-until-april-fisa-national-defence-cyber-surveillance)
- - [As TikTok rolls out its new Creativity Program Beta, some creators say they&#39;re frustrated by its push to become a &quot;mini YouTube&quot; with videos of up to 15 minutes &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/231216/p12#a231216p12)<!-- TECH:END -->
+ - [Best Garmin Deals: Snag Garmin Wearables, Sporting Equipment and More at a Discount     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)
+ - [Best Blu-ray Player for 2023: Tested by Our Experts     - CNET](https://www.cnet.com/tech/home-entertainment/best-blu-ray-player/#ftag=CAD590a51e)
+ - [The Startup That Transformed the Hack-for-Hire Industry](https://www.wired.com/story/indian-startup-hack-for-hire-security-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
