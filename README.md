@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Dec. 17: $100 off AirPods Max, $200 off Apple Watch Series 8, Echelon Exercise Rower for $149, more](https://appleinsider.com/articles/23/12/17/daily-deals-dec-17-100-off-airpods-max-200-off-apple-watch-series-8-echelon-exercise-rower-for-149-more?utm_medium=rss)
- - [The two reasons I chose Bose over Sony’s best ANC headphones](https://www.androidauthority.com/bose-vs-sony-anc-headphones-3394955/)
- - [The Google Pixel 8 Pro is Android Authority’s pick for best phone of 2023](https://www.androidauthority.com/best-phone-2023-editors-choice-3394943/)<!-- TECH:END -->
+ - [How conservationists are using an AI tool called CeruleanAI, developed by the Coral Restoration Foundation, to analyze 3D maps of reefs and monitor restoration &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231217/p5#a231217p5)
+ - [Dangbei Mars Projector Review: Cinema at home](https://appleinsider.com/articles/23/12/17/dangbei-mars-projector-review-cinema-at-home?utm_medium=rss)
+ - [10 Record-Low Holiday Deals You Can Still Grab in Time for Christmas     - CNET](https://www.cnet.com/deals/10-record-low-holiday-deals-you-can-still-grab-in-time-for-christmas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
