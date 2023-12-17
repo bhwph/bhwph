@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Female Influencer](http://9gag.com/gag/aEqmAPN)
- - 😝 [Simulation of Ceres hiting earth &lpar; spoiler no where to hide &rpar;](http://9gag.com/gag/a7qR0Px)
- - 👉 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)<!-- MEMES:END -->
+ - 6️⃣ [Draymond Green: Officially Suspended Forever. Hoping I never see him on NBA court again!](http://9gag.com/gag/az2pdyK)
+ - 😝 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
+ - 👉 [He did warn here](http://9gag.com/gag/aDYe6vN)<!-- MEMES:END -->
 
 --- 
 
