@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Pet Cameras &lpar;2023&rpar;: Treat Dispensing, Laser Pointer, and 360 Degrees](https://www.wired.com/story/best-pet-cameras/)
- - [After living with a 3-in-1 Magsafe charger for a year, there’s no going back](https://www.androidauthority.com/belkin-3-in-1-magsafe-charger-year-3393822/)
- - [10 Best Travel Coffee Mugs &lpar;2023&rpar;: Insulated, Steel, Thermal](https://www.wired.com/gallery/best-travel-mugs/)<!-- TECH:END -->
+ - [Daily deals Dec. 17: $100 off AirPods Max, $200 off Apple Watch Series 8, Echelon Exercise Rower for $149, more](https://appleinsider.com/articles/23/12/17/daily-deals-dec-17-100-off-airpods-max-200-off-apple-watch-series-8-echelon-exercise-rower-for-149-more?utm_medium=rss)
+ - [The two reasons I chose Bose over Sony’s best ANC headphones](https://www.androidauthority.com/bose-vs-sony-anc-headphones-3394955/)
+ - [The Google Pixel 8 Pro is Android Authority’s pick for best phone of 2023](https://www.androidauthority.com/best-phone-2023-editors-choice-3394943/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
