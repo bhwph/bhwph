@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deloitte is using AI to evaluate its staff&#39;s skills and map out plans to shift employees into more in-demand roles, as a part of plans to moderate hiring growth &lpar;Irina Anghel/Bloomberg&rpar;](http://www.techmeme.com/231217/p7#a231217p7)
- - [Blue Origin will livestream its first launch in over a year tomorrow](https://www.theverge.com/2023/12/17/24005428/blue-origin-launch-december-18-livestream)
- - [The 14 Best Horror Movies on Prime Video Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-14-best-horror-movies-on-prime-video-december-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Revealed: Here’s what the new iPhone 16 ‘Capture Button’ will do](https://www.androidauthority.com/apple-iphone-16-capture-button-functions-3395322/)
+ - [Nothing Phone 2a leak reveals key specs, photos, and possible launch date](https://www.androidauthority.com/nothing-phone-2a-specs-launch-date-features-3395319/)
+ - [Western intelligence officials say that former Wirecard COO Jan Marsalek, who fled to Moscow after nearly $2B went missing, was likely a Russian agent for years &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231217/p8#a231217p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
