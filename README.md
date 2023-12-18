@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He almost died](http://9gag.com/gag/a8qxeYV)
- - 😝 [You want to sleep at night but there are noises coming from the backyard](http://9gag.com/gag/axoqRBD)
- - 👉 [Save it for never use it](http://9gag.com/gag/a8qx2XY)<!-- MEMES:END -->
+ - 6️⃣ [What outside!? No outside!](http://9gag.com/gag/aA0z2P0)
+ - 😝 [Clip from the movie \u2018The Little Death\u2019](http://9gag.com/gag/aDYebBZ)
+ - 👉 [You want to sleep at night but there are noises coming from the backyard](http://9gag.com/gag/axoqRBD)<!-- MEMES:END -->
 
 --- 
 
