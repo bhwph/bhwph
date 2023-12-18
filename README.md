@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM plans to acquire data integration platforms StreamSets and WebMethods from Germany-based Software AG for &amp;euro;2.13B in cash, expected to close in Q2 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p3#a231218p3)
- - [Look closely, and you’ll find America’s ‘climate abandonment areas’](https://www.theverge.com/2023/12/18/24003005/flood-risk-migration-climate-change-abandonment-areas)
- - [How May Mobility went fully driverless while avoiding the pitfalls of robotaxis](https://www.theverge.com/24001741/may-mobility-driverless-service-microtransit-robotaxi)<!-- TECH:END -->
+ - [OnePlus confirms it: The OnePlus 12R is coming to the US, EU](https://www.androidauthority.com/oneplus-12r-europe-usa-3395445/)
+ - [Galaxy S24 series could come with Gorilla Glass Armor, in these RAM and storage variants](https://www.androidauthority.com/samsung-galaxy-s24-series-gorilla-glass-armor-ram-storage-variants-3395439/)
+ - [Source: Coinbase, a16z, the Winklevoss twins, and more put $78M in crypto super PACs, an immense figure raised in just three months, ahead of the 2024 elections &lpar;Andrew Solender/Axios&rpar;](http://www.techmeme.com/231218/p9#a231218p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
