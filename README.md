@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pay attention to your surroundings](http://9gag.com/gag/aL17e15)
- - 😝 [It can&#39;t be only me](http://9gag.com/gag/aYVXPBm)
- - 👉 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)<!-- MEMES:END -->
+ - 6️⃣ [Merry Chrstmus](http://9gag.com/gag/adPDepZ)
+ - 😝 [Take a lesson, \u20actards. Stop being weak](http://9gag.com/gag/a9qg5ro)
+ - 👉 [Simulation of Ceres hiting earth &lpar; spoiler no where to hide &rpar;](http://9gag.com/gag/a7qR0Px)<!-- MEMES:END -->
 
 --- 
 
