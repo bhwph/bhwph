@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S Ultra camera roadmap leaks: The S25 Ultra could be a beast](https://www.androidauthority.com/samsung-galaxy-s-ultra-camera-roadmap-s25-ultra-3395330/)
- - [Beeper vs Apple battle intensifies: US lawmakers urge DOJ to investigate anti-competitive behavior](https://www.androidauthority.com/beeper-vs-apple-us-senators-letter-doj-3395333/)
- - [Tokyo-based chip equipment maker Kokusai expects nearly 50% of its revenue to come from China in the coming months; its stock is up ~66% since its October IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p1#a231218p1)<!-- TECH:END -->
+ - [The Apple Watch might soon become a great tool for hypertension and sleep apnea detection](https://www.androidauthority.com/apple-watch-hypertension-sleep-apnea-detection-2024-3395367/)
+ - [The iPhone Pro camera could start catching up to Androids, finally](https://www.androidauthority.com/the-iphone-pro-camera-could-start-catching-up-to-androids-finally-3395350/)
+ - [Google Messages is making it easier to tell SMS and RCS chats apart](https://www.androidauthority.com/google-messages-rcs-wallpaper-3395361/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
