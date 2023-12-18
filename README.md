@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to Halt Sales of the Apple Watch Series 9 and Watch Ultra 2](https://www.wired.com/story/apple-suspends-sales-watch/)
- - [Acura opens up reservations for all-electric ZDX SUV](https://www.theverge.com/2023/12/18/24006119/acura-zdx-reservation-ev-price-specs-performance)
- - [Data analytics company Alteryx says it has agreed to be acquired by PE firms Clearlake Capital and Insight Partners, in a deal valued at $4.4B including debt &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/231218/p20#a231218p20)<!-- TECH:END -->
+ - [Why Apple is pausing sales of the Apple Watch](https://appleinsider.com/articles/23/11/06/an-apple-watch-sales-ban-may-be-coming----everything-you-need-to-know?utm_medium=rss)
+ - [Apple will pause U.S. Apple Watch sales starting December 21](https://appleinsider.com/articles/23/12/18/apple-will-pause-us-apple-watch-sales-starting-december-21?utm_medium=rss)
+ - [Sources: Amazon is in talks with Diamond Sports Group, the biggest US regional-sports programmer, about an investment and a multiyear streaming partnership &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231218/p25#a231218p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
