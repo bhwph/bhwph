@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
- - 😝 [Never going to austria](http://9gag.com/gag/arm7xYX)
- - 👉 [Skipper go zooom](http://9gag.com/gag/aDYeXDK)<!-- MEMES:END -->
+ - 6️⃣ [Nostalgia](http://9gag.com/gag/a2K6y29)
+ - 😝 [I earn $10k a year. Work 12 hours a day. It&#39;s not much, but it&#39;s mine and it gives me joy in this sad af life.](http://9gag.com/gag/a8qx2qQ)
+ - 👉 [You left the toilet seat up...](http://9gag.com/gag/a4oO2Dw)<!-- MEMES:END -->
 
 --- 
 
