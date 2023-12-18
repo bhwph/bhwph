@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus confirms it: The OnePlus 12R is coming to the US, EU](https://www.androidauthority.com/oneplus-12r-europe-usa-3395445/)
- - [Galaxy S24 series could come with Gorilla Glass Armor, in these RAM and storage variants](https://www.androidauthority.com/samsung-galaxy-s24-series-gorilla-glass-armor-ram-storage-variants-3395439/)
- - [Source: Coinbase, a16z, the Winklevoss twins, and more put $78M in crypto super PACs, an immense figure raised in just three months, ahead of the 2024 elections &lpar;Andrew Solender/Axios&rpar;](http://www.techmeme.com/231218/p9#a231218p9)<!-- TECH:END -->
+ - [Apple plans to halt Apple Watch Series 9 and Ultra 2 sales in the US starting this week, to &quot;preemptively&quot; comply with an ITC ruling that Biden is reviewing &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231218/p13#a231218p13)
+ - [Apple rumored to upgrade iPhone 16 Pro ultra-wide lens to 48MP](https://appleinsider.com/articles/23/12/18/apple-rumored-to-upgrade-iphone-16-pro-ultra-wide-lens-to-48mp?utm_medium=rss)
+ - [The most underrated smartphones of 2023](https://www.androidauthority.com/underrated-smartphones-2023-3394428/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
