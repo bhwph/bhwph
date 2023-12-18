@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nostalgia](http://9gag.com/gag/a2K6y29)
- - 😝 [I earn $10k a year. Work 12 hours a day. It&#39;s not much, but it&#39;s mine and it gives me joy in this sad af life.](http://9gag.com/gag/a8qx2qQ)
- - 👉 [You left the toilet seat up...](http://9gag.com/gag/a4oO2Dw)<!-- MEMES:END -->
+ - 6️⃣ [He almost died](http://9gag.com/gag/a8qxeYV)
+ - 😝 [What&#39;s happening....](http://9gag.com/gag/aWG3oNx)
+ - 👉 [Get a haircut later](http://9gag.com/gag/a5X0jyE)<!-- MEMES:END -->
 
 --- 
 
