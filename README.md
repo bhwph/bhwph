@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple Watch might soon become a great tool for hypertension and sleep apnea detection](https://www.androidauthority.com/apple-watch-hypertension-sleep-apnea-detection-2024-3395367/)
- - [The iPhone Pro camera could start catching up to Androids, finally](https://www.androidauthority.com/the-iphone-pro-camera-could-start-catching-up-to-androids-finally-3395350/)
- - [Google Messages is making it easier to tell SMS and RCS chats apart](https://www.androidauthority.com/google-messages-rcs-wallpaper-3395361/)<!-- TECH:END -->
+ - [IBM plans to acquire data integration platforms StreamSets and WebMethods from Germany-based Software AG for &amp;euro;2.13B in cash, expected to close in Q2 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p3#a231218p3)
+ - [Look closely, and you’ll find America’s ‘climate abandonment areas’](https://www.theverge.com/2023/12/18/24003005/flood-risk-migration-climate-change-abandonment-areas)
+ - [How May Mobility went fully driverless while avoiding the pitfalls of robotaxis](https://www.theverge.com/24001741/may-mobility-driverless-service-microtransit-robotaxi)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
