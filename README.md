@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It hurts right in my meow meow](http://9gag.com/gag/aeQ87bQ)
- - 😝 [Looking for some free Palestine you got some?](http://9gag.com/gag/ap9ZYLD)
- - 👉 [.](http://9gag.com/gag/amA4xp6)<!-- MEMES:END -->
+ - 6️⃣ [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - 😝 [Uber](http://9gag.com/gag/amA4mZd)
+ - 👉 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)<!-- MEMES:END -->
 
 --- 
 
