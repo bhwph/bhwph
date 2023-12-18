@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 😝 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
- - 👉 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)<!-- MEMES:END -->
+ - 6️⃣ [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
+ - 😝 [Never going to austria](http://9gag.com/gag/arm7xYX)
+ - 👉 [Skipper go zooom](http://9gag.com/gag/aDYeXDK)<!-- MEMES:END -->
 
 --- 
 
