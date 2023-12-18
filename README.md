@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Get a haircut later](http://9gag.com/gag/a5X0jyE)
- - 😝 [Uber](http://9gag.com/gag/amA4mZd)
+ - 6️⃣ [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)
+ - 😝 [Time to hijack everyone&#39;s imagination.](http://9gag.com/gag/axoqbv2)
  - 👉 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)<!-- MEMES:END -->
 
 --- 
