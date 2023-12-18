@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple plans to halt Apple Watch Series 9 and Ultra 2 sales in the US starting this week, to &quot;preemptively&quot; comply with an ITC ruling that Biden is reviewing &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231218/p13#a231218p13)
- - [Apple rumored to upgrade iPhone 16 Pro ultra-wide lens to 48MP](https://appleinsider.com/articles/23/12/18/apple-rumored-to-upgrade-iphone-16-pro-ultra-wide-lens-to-48mp?utm_medium=rss)
- - [The most underrated smartphones of 2023](https://www.androidauthority.com/underrated-smartphones-2023-3394428/)<!-- TECH:END -->
+ - [OPPO Find X7 series leaks may have revealed design and camera specs](https://www.androidauthority.com/oppo-find-x7-render-3395502/)
+ - [NordVPN releases app for Apple TVs running tvOS 17](https://appleinsider.com/articles/23/12/18/nordvpn-releases-app-for-apple-tvs-running-tvos-17?utm_medium=rss)
+ - [Flipboard is pivoting to ActivityPub and the fediverse](https://www.theverge.com/2023/12/18/24006062/flipboard-fediverse-mastodon-activitypub-profiles-social)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
