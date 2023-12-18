@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
- - 😝 [You know you know](http://9gag.com/gag/aeQ8Ovm)
- - 👉 [Draymond Green: Officially Suspended Forever. Hoping I never see him on NBA court again!](http://9gag.com/gag/az2pdyK)<!-- MEMES:END -->
+ - 6️⃣ [Pay attention to your surroundings](http://9gag.com/gag/aL17e15)
+ - 😝 [It can&#39;t be only me](http://9gag.com/gag/aYVXPBm)
+ - 👉 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)<!-- MEMES:END -->
 
 --- 
 
