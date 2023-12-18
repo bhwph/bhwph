@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What outside!? No outside!](http://9gag.com/gag/aA0z2P0)
- - 😝 [Clip from the movie \u2018The Little Death\u2019](http://9gag.com/gag/aDYebBZ)
- - 👉 [You want to sleep at night but there are noises coming from the backyard](http://9gag.com/gag/axoqRBD)<!-- MEMES:END -->
+ - 6️⃣ [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
+ - 😝 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
+ - 👉 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)<!-- MEMES:END -->
 
 --- 
 
