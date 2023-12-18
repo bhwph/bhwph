@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [He almost died](http://9gag.com/gag/a8qxeYV)
- - 😝 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
- - 👉 [Nostalgia](http://9gag.com/gag/a2K6y29)<!-- MEMES:END -->
+ - 😝 [You want to sleep at night but there are noises coming from the backyard](http://9gag.com/gag/axoqRBD)
+ - 👉 [Save it for never use it](http://9gag.com/gag/a8qx2XY)<!-- MEMES:END -->
 
 --- 
 
