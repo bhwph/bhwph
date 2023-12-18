@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Apple is pausing sales of the Apple Watch](https://appleinsider.com/articles/23/11/06/an-apple-watch-sales-ban-may-be-coming----everything-you-need-to-know?utm_medium=rss)
- - [Apple will pause U.S. Apple Watch sales starting December 21](https://appleinsider.com/articles/23/12/18/apple-will-pause-us-apple-watch-sales-starting-december-21?utm_medium=rss)
- - [Sources: Amazon is in talks with Diamond Sports Group, the biggest US regional-sports programmer, about an investment and a multiyear streaming partnership &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231218/p25#a231218p25)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Game preservationists are digging into a 1.2TB cache of TestFlight data, from roughly 2012 to 2015, found on the Internet Archive, containing a ton of old apps &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231218/p28#a231218p28)
+ - [The US SEC sues New Jersey-based Tingo Group, which sells phones to African farmers, for allegedly booking billions in false transactions via two subsidiaries &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p27#a231218p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
