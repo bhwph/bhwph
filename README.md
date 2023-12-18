@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO Find X7 series leaks may have revealed design and camera specs](https://www.androidauthority.com/oppo-find-x7-render-3395502/)
- - [NordVPN releases app for Apple TVs running tvOS 17](https://appleinsider.com/articles/23/12/18/nordvpn-releases-app-for-apple-tvs-running-tvos-17?utm_medium=rss)
- - [Flipboard is pivoting to ActivityPub and the fediverse](https://www.theverge.com/2023/12/18/24006062/flipboard-fediverse-mastodon-activitypub-profiles-social)<!-- TECH:END -->
+ - [Apple to Halt Sales of the Apple Watch Series 9 and Watch Ultra 2](https://www.wired.com/story/apple-suspends-sales-watch/)
+ - [Acura opens up reservations for all-electric ZDX SUV](https://www.theverge.com/2023/12/18/24006119/acura-zdx-reservation-ev-price-specs-performance)
+ - [Data analytics company Alteryx says it has agreed to be acquired by PE firms Clearlake Capital and Insight Partners, in a deal valued at $4.4B including debt &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/231218/p20#a231218p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
