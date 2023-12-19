@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech group NetChoice, representing TikTok, Meta, X, and others, sues Utah over its laws requiring kids and teens to obtain parental consent to use social media &lpar;Hannah Schoenbaum/Associated Press&rpar;](http://www.techmeme.com/231219/p8#a231219p8)
- - [36 Best Cheap Gear Under $30 &lpar;2023&rpar;: Phone Cases, Camera Bags, and More](https://www.wired.com/gallery/our-favorite-gear-under-30-dollars/)
- - [Current Mortgage Interest Rates on Dec. 19, 2023: Rates Trailed Off for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-interest-rates-on-dec-19-2023-rates-trailed-off-for-homeseekers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Best Rain Jackets &lpar;2023&rpar;: Cheap, Eco-Friendly, Hiking, and Running](https://www.wired.com/story/best-rain-jackets/)
+ - [How Russia uses specialized e-commerce sites, secretive shipping workarounds, and numerous middlemen to buy Cisco and other Western tech to maintain its economy &lpar;New York Times&rpar;](http://www.techmeme.com/231219/p13#a231219p13)
+ - [Lamborghini Revuelto 2024 Review, Specs, Price, Availability](https://www.wired.com/story/lamborghini-revuelto-2024-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
