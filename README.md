@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Game preservationists are digging into a 1.2TB cache of TestFlight data, from roughly 2012 to 2015, found on the Internet Archive, containing a ton of old apps &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231218/p28#a231218p28)
- - [The US SEC sues New Jersey-based Tingo Group, which sells phones to African farmers, for allegedly booking billions in false transactions via two subsidiaries &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p27#a231218p27)<!-- TECH:END -->
+ - [Apple could avoid US Apple Watch ban with software update](https://appleinsider.com/articles/23/12/19/apple-could-avoid-us-apple-watch-ban-with-software-update?utm_medium=rss)
+ - [Sources: Figma expects to finish 2023 with $600M+ in ARR, up 40% YoY, and is considering selling employee shares in a secondary offering in the coming months &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/231218/p33#a231218p33)
+ - [The Verge’s favorite holiday gifts under $25](https://www.theverge.com/23874403/tech-gifts-under-25-best-cheap-ideas-stocking-stuffers-2023-budget)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
