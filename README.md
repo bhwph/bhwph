@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could avoid US Apple Watch ban with software update](https://appleinsider.com/articles/23/12/19/apple-could-avoid-us-apple-watch-ban-with-software-update?utm_medium=rss)
- - [Sources: Figma expects to finish 2023 with $600M+ in ARR, up 40% YoY, and is considering selling employee shares in a secondary offering in the coming months &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/231218/p33#a231218p33)
- - [The Verge’s favorite holiday gifts under $25](https://www.theverge.com/23874403/tech-gifts-under-25-best-cheap-ideas-stocking-stuffers-2023-budget)<!-- TECH:END -->
+ - [Apple banking on software fix to save latest smartwatches from US ban amid patent dispute](https://www.androidauthority.com/apple-watch-us-ban-software-fix-3395672/)
+ - [Sources: Appin co-founder Rajat Khare used law firms to threaten outlets in the US, UK, and other countries to kill stories about the Indian hack-for-hire firm &lpar;Lachlan Cartwright/The Daily Beast&rpar;](http://www.techmeme.com/231218/p35#a231218p35)
+ - [J.P. Morgan predicts marginal financial impact from Apple Watch ban](https://appleinsider.com/articles/23/12/19/jp-morgan-predicts-marginal-financial-impact-from-apple-watch-ban?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
