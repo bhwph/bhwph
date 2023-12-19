@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 😝 [Never going to austria](http://9gag.com/gag/arm7xYX)
- - 👉 [The education system at its finest.](http://9gag.com/gag/amA4xQV)<!-- MEMES:END -->
+ - 6️⃣ [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
+ - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - 👉 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)<!-- MEMES:END -->
 
 --- 
 
