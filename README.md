@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Get a haircut later](http://9gag.com/gag/a5X0jyE)
- - 😝 [This is real. This actually hapened.](http://9gag.com/gag/aYVXMom)
- - 👉 [Uber](http://9gag.com/gag/amA4mZd)<!-- MEMES:END -->
+ - 6️⃣ [Uber](http://9gag.com/gag/amA4mZd)
+ - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
+ - 👉 [The education system at its finest.](http://9gag.com/gag/amA4xQV)<!-- MEMES:END -->
 
 --- 
 
