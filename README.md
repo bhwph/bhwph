@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SimSpace, which replicates organizations&#39; tech stacks for cybersecurity training, raised $45M led by L2 Point Management, bringing its total funding to $70M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231219/p17#a231219p17)
- - [Netflix’s Carol and the End of World is a heartwarming view of the end times](https://www.theverge.com/24006568/carol-and-the-end-of-world-review-netflix)
- - [Oversight Board Criticizes Meta’s Automated Moderation in Israel-Hamas War](https://www.wired.com/story/meta-oversight-board-emergency-decision/)<!-- TECH:END -->
+ - [Deal alert: Score $500 off the Samsung Jet Bot AI+ Robot Vacuum](https://www.androidauthority.com/samsung-jet-bot-ai-plus-robot-vacuum-deal-3395866/)
+ - [Not dead yet: Beeper Mini&#39;s new fix requires Mac access](https://appleinsider.com/articles/23/12/19/not-dead-yet-beeper-minis-new-fix-requires-mac-access?utm_medium=rss)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
