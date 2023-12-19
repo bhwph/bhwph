@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 30 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [Interpol: a global law enforcement operation led by South Korea has seized $300M and led to the arrest of 3,500 cybercrime suspects between July and December &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231219/p25#a231219p25)
- - [Apple isn&#39;t standing still on generative AI, and making human models dance is proof](https://appleinsider.com/articles/23/12/19/apple-isnt-standing-still-on-generative-ai-and-making-human-models-dance-is-proof?utm_medium=rss)<!-- TECH:END -->
+ - [How to use SharePlay with CarPlay in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-shareplay-with-carplay-in-ios-17?utm_medium=rss)
+ - [White House is tracking Apple Watch ban with no sign of intervening](https://appleinsider.com/articles/23/12/19/white-house-is-tracking-apple-watch-ban-with-no-sign-of-intervening?utm_medium=rss)
+ - [Here are a few last-minute gifts you can still grab in time for the holidays](https://www.theverge.com/24005725/best-last-minute-christmas-gifts-ideas-tech-wireless-earbuds-laptops-gaming-shipping)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
