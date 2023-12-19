@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Best Rain Jackets &lpar;2023&rpar;: Cheap, Eco-Friendly, Hiking, and Running](https://www.wired.com/story/best-rain-jackets/)
- - [How Russia uses specialized e-commerce sites, secretive shipping workarounds, and numerous middlemen to buy Cisco and other Western tech to maintain its economy &lpar;New York Times&rpar;](http://www.techmeme.com/231219/p13#a231219p13)
- - [Lamborghini Revuelto 2024 Review, Specs, Price, Availability](https://www.wired.com/story/lamborghini-revuelto-2024-review/)<!-- TECH:END -->
+ - [SimSpace, which replicates organizations&#39; tech stacks for cybersecurity training, raised $45M led by L2 Point Management, bringing its total funding to $70M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231219/p17#a231219p17)
+ - [Netflix’s Carol and the End of World is a heartwarming view of the end times](https://www.theverge.com/24006568/carol-and-the-end-of-world-review-netflix)
+ - [Oversight Board Criticizes Meta’s Automated Moderation in Israel-Hamas War](https://www.wired.com/story/meta-oversight-board-emergency-decision/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
