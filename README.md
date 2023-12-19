@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Intel CVP and GM of Xeon Products Lisa Spelman on Intel&#39;s trajectory for datacenter processors, Sapphire Rapids development missteps, and more &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/231219/p2#a231219p2)
- - [Wolverine part of massive Insomniac Games leak after ransomware deadline passes](https://www.theverge.com/2023/12/19/24007570/insomniac-games-hack-wolverine-x-men-ryhsida)
- - [TSMC Chair Mark Liu plans to retire in 2024, replaced by CEO C.C. Wei, set to become one of the most influential executives in tech; shareholders must approve &lpar;Bloomberg&rpar;](http://www.techmeme.com/231219/p1#a231219p1)<!-- TECH:END -->
+ - [Tech group NetChoice, representing TikTok, Meta, X, and others, sues Utah over its laws requiring kids and teens to obtain parental consent to use social media &lpar;Hannah Schoenbaum/Associated Press&rpar;](http://www.techmeme.com/231219/p8#a231219p8)
+ - [36 Best Cheap Gear Under $30 &lpar;2023&rpar;: Phone Cases, Camera Bags, and More](https://www.wired.com/gallery/our-favorite-gear-under-30-dollars/)
+ - [Current Mortgage Interest Rates on Dec. 19, 2023: Rates Trailed Off for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-interest-rates-on-dec-19-2023-rates-trailed-off-for-homeseekers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
