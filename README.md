@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gayday?](http://9gag.com/gag/a7qRAgr)
- - 😝 [Adios](http://9gag.com/gag/a3ZXn83)
- - 👉 [A product that became a producer](http://9gag.com/gag/avQKmQM)<!-- MEMES:END -->
+ - 6️⃣ [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
+ - 😝 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
+ - 👉 [Nobody is surprised](http://9gag.com/gag/aWG3R34)<!-- MEMES:END -->
 
 --- 
 
