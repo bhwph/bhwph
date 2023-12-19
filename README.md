@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal alert: Score $500 off the Samsung Jet Bot AI+ Robot Vacuum](https://www.androidauthority.com/samsung-jet-bot-ai-plus-robot-vacuum-deal-3395866/)
- - [Not dead yet: Beeper Mini&#39;s new fix requires Mac access](https://appleinsider.com/articles/23/12/19/not-dead-yet-beeper-minis-new-fix-requires-mac-access?utm_medium=rss)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
+ - [The 30 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
+ - [Interpol: a global law enforcement operation led by South Korea has seized $300M and led to the arrest of 3,500 cybercrime suspects between July and December &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231219/p25#a231219p25)
+ - [Apple isn&#39;t standing still on generative AI, and making human models dance is proof](https://appleinsider.com/articles/23/12/19/apple-isnt-standing-still-on-generative-ai-and-making-human-models-dance-is-proof?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
