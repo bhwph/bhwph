@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 😝 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
- - 👉 [Nobody is surprised](http://9gag.com/gag/aWG3R34)<!-- MEMES:END -->
+ - 6️⃣ [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
+ - 😝 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
+ - 👉 [Yes](http://9gag.com/gag/aKEoOrb)<!-- MEMES:END -->
 
 --- 
 
