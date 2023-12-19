@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Uber](http://9gag.com/gag/amA4mZd)
- - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
- - 👉 [The education system at its finest.](http://9gag.com/gag/amA4xQV)<!-- MEMES:END -->
+ - 6️⃣ [This is real. This actually hapened.](http://9gag.com/gag/aYVXMom)
+ - 😝 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)
+ - 👉 [Mycelium growing in someone\u2019s basement](http://9gag.com/gag/agoz2gg)<!-- MEMES:END -->
 
 --- 
 
