@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
- - 😝 [I think Sony has just lost their collective shit! Resale of legally purchased physical game are no longer allowed](http://9gag.com/gag/arm784y)
+ - 6️⃣ [She is single btw.](http://9gag.com/gag/aBdBOxO)
+ - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
  - 👉 [Well x3](http://9gag.com/gag/a04yOyO)<!-- MEMES:END -->
 
 --- 
