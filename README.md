@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She is single btw.](http://9gag.com/gag/aBdBOxO)
- - 😝 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
- - 👉 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)<!-- MEMES:END -->
+ - 6️⃣ [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
+ - 😝 [She is single btw.](http://9gag.com/gag/aBdBOxO)
+ - 👉 [Nobody is surprised](http://9gag.com/gag/aWG3R34)<!-- MEMES:END -->
 
 --- 
 
