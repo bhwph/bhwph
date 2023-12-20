@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She is single btw.](http://9gag.com/gag/aBdBOxO)
- - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
- - 👉 [Well x3](http://9gag.com/gag/a04yOyO)<!-- MEMES:END -->
+ - 6️⃣ [Not the hero we need, but the one we deserve.](http://9gag.com/gag/aqeodMQ)
+ - 😝 [Facts](http://9gag.com/gag/aL17NwM)
+ - 👉 [No sauce for you](http://9gag.com/gag/a8qxz9Z)<!-- MEMES:END -->
 
 --- 
 
