@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone’s satellite now works with Verizon’s roadside assistance](https://www.androidauthority.com/iphone-satellite-verizon-roadside-assistance-3396061/)
- - [Bird files for Chapter 11 bankruptcy in Florida, listing $100M-$500M in liabilities; NYSE began delisting process against the e-scooter rental firm in September &lpar;Bloomberg&rpar;](http://www.techmeme.com/231220/p7#a231220p7)
- - [OpenAI&#39;s deals with publishers are a hedge against a scenario in which scraping becomes harder, training material more expensive, and real-time data more scarce &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/231220/p6#a231220p6)<!-- TECH:END -->
+ - [The Biden administration has a new strategy for getting federal funds to grassroots environmental groups](https://www.theverge.com/2023/12/20/24008381/epa-grantmakers-harris-biden-administration-environmental-justice)
+ - [A look at the tech sector&#39;s longevity obsession, with Jeff Bezos, Sam Altman, Larry Page, and others pledging millions of dollars to firms pursuing longer life &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/231220/p8#a231220p8)
+ - [VanMoof 2.0: a new hope](https://www.theverge.com/24009091/vanmoof-scooter-next-steps-parts-service-e-bikes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
