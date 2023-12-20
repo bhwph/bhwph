@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Meta CTO Andrew Bosworth on how generative AI is reshaping Meta, facial recognition, regulations, open source, Llama, AGI, recruiting, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231220/p24#a231220p24)
- - [A report reveals AI image-generators are being trained on child sexual abuse images](https://www.androidauthority.com/new-in-ai-3396270/)
- - [Not everyone is convinced that the Apple Watch ban will only have a small financial impact](https://appleinsider.com/articles/23/12/20/not-everyone-is-convinced-that-the-apple-watch-ban-will-only-have-a-small-financial-impact?utm_medium=rss)<!-- TECH:END -->
+ - [Micron reports Q1 revenue up 16% YoY to $4.73B, vs. $4.54B est., and forecasts Q2 revenue above estimates, after strong data center demand &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231220/p28#a231220p28)
+ - [Latest Galaxy S24 leak shows off the flagship in four colors](https://www.androidauthority.com/galaxy-s24-colors-3396300/)
+ - [Arizona&#39;s Secretary of State Is Already Sick of Election Conspiracy Theories](https://www.wired.com/story/adrian-fontes-secretary-of-state-arizona/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
