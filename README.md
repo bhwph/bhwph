@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba CEO Eddie Wu takes over for e-commerce business head Trudy Dai, one of Alibaba&#39;s earliest employees, who will now help oversee non-core assets globally &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231219/p38#a231219p38)
- - [Source: Google plans to reorganize a big part of its 30K-person ad sales unit, as the company relies more on ML techniques to help customers buy even more ads &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231219/p37#a231219p37)
- - [Pick up Microsoft Office Home &amp; Business for Mac for $39.94](https://appleinsider.com/articles/23/12/20/pick-up-microsoft-office-home-business-for-mac-for-3994?utm_medium=rss)<!-- TECH:END -->
+ - [NIST seeks public input by February 2, 2024 for setting guidelines in order to evaluate the safety of generative AI systems as directed by President Biden&#39;s EO &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231220/p2#a231220p2)
+ - [Google introduces a range of new features and updates for Google Maps in India, including Live View walking navigation, ML-powered Address Descriptors, and more &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/231220/p1#a231220p1)
+ - [Samsung now lets you self-repair your Galaxy foldables](https://www.androidauthority.com/samsung-self-repair-program-galaxy-foldables-3395992/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
