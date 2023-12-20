@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not the hero we need, but the one we deserve.](http://9gag.com/gag/aqeodMQ)
+ - 6️⃣ [Moving to Canada just to give cops death threats!](http://9gag.com/gag/abvnmEb)
  - 😝 [Facts](http://9gag.com/gag/aL17NwM)
  - 👉 [No sauce for you](http://9gag.com/gag/a8qxz9Z)<!-- MEMES:END -->
 
