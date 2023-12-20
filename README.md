@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps transit is still a frustrating experience despite the latest changes](https://www.androidauthority.com/google-maps-transit-frustrating-experience-3395123/)
- - [Pixelmator Pro update gets more speed, and opens Illustrator EPS files](https://appleinsider.com/articles/23/12/20/pixelmator-pro-update-gets-more-speed-and-opens-illustrator-eps-files?utm_medium=rss)
- - [Best Cookbooks of 2023: Grilling, Baking, Fermenting, Cocktails](https://www.wired.com/gallery/best-cookbooks-2023/)<!-- TECH:END -->
+ - [Apple Card, Apple Pay, and Wallet were hit by outages on Wednesday](https://appleinsider.com/articles/23/12/20/apple-card-apple-pay-and-wallet-hit-by-outages?utm_medium=rss)
+ - [How to build the ultimate iPhone 15 Pro 4K60 ProRes video recording rig](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-build-the-ultimate-iphone-15-pro-4k60-prores-video-recording-rig?utm_medium=rss)
+ - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
