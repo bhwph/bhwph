@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Moving to Canada just to give cops death threats!](http://9gag.com/gag/abvnmEb)
- - 😝 [Facts](http://9gag.com/gag/aL17NwM)
- - 👉 [No sauce for you](http://9gag.com/gag/a8qxz9Z)<!-- MEMES:END -->
+ - 6️⃣ [Fml...](http://9gag.com/gag/anzPW1L)
+ - 😝 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
+ - 👉 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)<!-- MEMES:END -->
 
 --- 
 
