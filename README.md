@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card, Apple Pay, and Wallet were hit by outages on Wednesday](https://appleinsider.com/articles/23/12/20/apple-card-apple-pay-and-wallet-hit-by-outages?utm_medium=rss)
- - [How to build the ultimate iPhone 15 Pro 4K60 ProRes video recording rig](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-build-the-ultimate-iphone-15-pro-4k60-prores-video-recording-rig?utm_medium=rss)
- - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)<!-- TECH:END -->
+ - [Aston Martin and Porsche preview bespoke interfaces for the next generation of Apple CarPlay, which integrates into all of the displays of the vehicle &lpar;Greg S. Fink/Car and Driver&rpar;](http://www.techmeme.com/231220/p22#a231220p22)
+ - [Tax Day 2024: The Soonest and Latest You Can File Your Taxes     - CNET](https://www.cnet.com/personal-finance/taxes/tax-day-2024-the-soonest-and-latest-you-can-file-your-taxes/#ftag=CAD590a51e)
+ - [Memo: Activision Blizzard CEO Bobby Kotick is leaving Microsoft on December 29; Activision&#39;s leadership remains and is being integrated into Microsoft Gaming &lpar;The Verge&rpar;](http://www.techmeme.com/231220/p21#a231220p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
