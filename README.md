@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fml...](http://9gag.com/gag/anzPW1L)
- - 😝 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
- - 👉 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)<!-- MEMES:END -->
+ - 6️⃣ [It will be a long night](http://9gag.com/gag/aKEoLMj)
+ - 😝 [Emmanuel just thrives on chaos .](http://9gag.com/gag/aDYer1B)
+ - 👉 [How the tents have been folded](http://9gag.com/gag/aKEonPZ)<!-- MEMES:END -->
 
 --- 
 
