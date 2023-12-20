@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aston Martin and Porsche preview bespoke interfaces for the next generation of Apple CarPlay, which integrates into all of the displays of the vehicle &lpar;Greg S. Fink/Car and Driver&rpar;](http://www.techmeme.com/231220/p22#a231220p22)
- - [Tax Day 2024: The Soonest and Latest You Can File Your Taxes     - CNET](https://www.cnet.com/personal-finance/taxes/tax-day-2024-the-soonest-and-latest-you-can-file-your-taxes/#ftag=CAD590a51e)
- - [Memo: Activision Blizzard CEO Bobby Kotick is leaving Microsoft on December 29; Activision&#39;s leadership remains and is being integrated into Microsoft Gaming &lpar;The Verge&rpar;](http://www.techmeme.com/231220/p21#a231220p21)<!-- TECH:END -->
+ - [Q&amp;A with Meta CTO Andrew Bosworth on how generative AI is reshaping Meta, facial recognition, regulations, open source, Llama, AGI, recruiting, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231220/p24#a231220p24)
+ - [A report reveals AI image-generators are being trained on child sexual abuse images](https://www.androidauthority.com/new-in-ai-3396270/)
+ - [Not everyone is convinced that the Apple Watch ban will only have a small financial impact](https://appleinsider.com/articles/23/12/20/not-everyone-is-convinced-that-the-apple-watch-ban-will-only-have-a-small-financial-impact?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
