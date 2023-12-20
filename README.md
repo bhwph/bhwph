@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stanford researchers: LAION-5B, a dataset of 5B images used by Stability AI and others, contains 1,008 instances of CSAM, possibly helping to create AI CSAM &lpar;Bloomberg&rpar;](http://www.techmeme.com/231220/p14#a231220p14)
- - [How to make Siri use WhatsApp instead of Messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-make-siri-use-whatsapp-instead-of-messages-in-ios-17?utm_medium=rss)
- - [NASA engineers streamed an HD cat video from 18.6M miles away, the farthest ever, using lasers instead of radio frequencies to achieve speeds of 267 Mbps &lpar;Sopan Deb/New York Times&rpar;](http://www.techmeme.com/231220/p13#a231220p13)<!-- TECH:END -->
+ - [Google Maps transit is still a frustrating experience despite the latest changes](https://www.androidauthority.com/google-maps-transit-frustrating-experience-3395123/)
+ - [Pixelmator Pro update gets more speed, and opens Illustrator EPS files](https://appleinsider.com/articles/23/12/20/pixelmator-pro-update-gets-more-speed-and-opens-illustrator-eps-files?utm_medium=rss)
+ - [Best Cookbooks of 2023: Grilling, Baking, Fermenting, Cocktails](https://www.wired.com/gallery/best-cookbooks-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
