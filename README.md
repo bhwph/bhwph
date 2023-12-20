@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pick up Microsoft Office Home &amp; Business for Mac for $39.94](https://appleinsider.com/articles/23/12/20/pick-up-microsoft-office-home-business-for-mac-for-3994?utm_medium=rss)
- - [The Verge’s favorite splurge-worthy gifts for 2023](https://www.theverge.com/23920823/expensive-holiday-gifts-wishes-extravagant-ideas-presents-2023)
- - [Matter&#39;s promise of an easier smart home experience has fallen short, as it suffers from poor implementation, significant backpedaling, and glacial progress &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/231219/p36#a231219p36)<!-- TECH:END -->
+ - [Alibaba CEO Eddie Wu takes over for e-commerce business head Trudy Dai, one of Alibaba&#39;s earliest employees, who will now help oversee non-core assets globally &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231219/p38#a231219p38)
+ - [Source: Google plans to reorganize a big part of its 30K-person ad sales unit, as the company relies more on ML techniques to help customers buy even more ads &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231219/p37#a231219p37)
+ - [Pick up Microsoft Office Home &amp; Business for Mac for $39.94](https://appleinsider.com/articles/23/12/20/pick-up-microsoft-office-home-business-for-mac-for-3994?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
