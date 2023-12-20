@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use SharePlay with CarPlay in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-shareplay-with-carplay-in-ios-17?utm_medium=rss)
- - [White House is tracking Apple Watch ban with no sign of intervening](https://appleinsider.com/articles/23/12/19/white-house-is-tracking-apple-watch-ban-with-no-sign-of-intervening?utm_medium=rss)
- - [Here are a few last-minute gifts you can still grab in time for the holidays](https://www.theverge.com/24005725/best-last-minute-christmas-gifts-ideas-tech-wireless-earbuds-laptops-gaming-shipping)<!-- TECH:END -->
+ - [Apple&#39;s popular Space Black M3 MacBook Pro returns to all-time best price](https://appleinsider.com/articles/23/12/20/apples-popular-space-black-m3-macbook-pro-returns-to-all-time-best-price?utm_medium=rss)
+ - [The Verge’s 2023 gaming and entertainment holiday gift guide](https://www.theverge.com/23959483/gaming-entertainment-gifts-ideas-2023-playstation-nintendo-xbox-tv-accessories)
+ - [Harvey, which builds generative AI tools for law firms, raised an $80M Series B co-led by Elad Gil and Kleiner Perkins at a $715M valuation &lpar;Isabel Gottlieb/Bloomberg Law&rpar;](http://www.techmeme.com/231219/p35#a231219p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
