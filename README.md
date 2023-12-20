@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biden administration has a new strategy for getting federal funds to grassroots environmental groups](https://www.theverge.com/2023/12/20/24008381/epa-grantmakers-harris-biden-administration-environmental-justice)
- - [A look at the tech sector&#39;s longevity obsession, with Jeff Bezos, Sam Altman, Larry Page, and others pledging millions of dollars to firms pursuing longer life &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/231220/p8#a231220p8)
- - [VanMoof 2.0: a new hope](https://www.theverge.com/24009091/vanmoof-scooter-next-steps-parts-service-e-bikes)<!-- TECH:END -->
+ - [Stanford researchers: LAION-5B, a dataset of 5B images used by Stability AI and others, contains 1,008 instances of CSAM, possibly helping to create AI CSAM &lpar;Bloomberg&rpar;](http://www.techmeme.com/231220/p14#a231220p14)
+ - [How to make Siri use WhatsApp instead of Messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-make-siri-use-whatsapp-instead-of-messages-in-ios-17?utm_medium=rss)
+ - [NASA engineers streamed an HD cat video from 18.6M miles away, the farthest ever, using lasers instead of radio frequencies to achieve speeds of 267 Mbps &lpar;Sopan Deb/New York Times&rpar;](http://www.techmeme.com/231220/p13#a231220p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
