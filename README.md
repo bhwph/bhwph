@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NIST seeks public input by February 2, 2024 for setting guidelines in order to evaluate the safety of generative AI systems as directed by President Biden&#39;s EO &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231220/p2#a231220p2)
- - [Google introduces a range of new features and updates for Google Maps in India, including Live View walking navigation, ML-powered Address Descriptors, and more &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/231220/p1#a231220p1)
- - [Samsung now lets you self-repair your Galaxy foldables](https://www.androidauthority.com/samsung-self-repair-program-galaxy-foldables-3395992/)<!-- TECH:END -->
+ - [The iPhone’s satellite now works with Verizon’s roadside assistance](https://www.androidauthority.com/iphone-satellite-verizon-roadside-assistance-3396061/)
+ - [Bird files for Chapter 11 bankruptcy in Florida, listing $100M-$500M in liabilities; NYSE began delisting process against the e-scooter rental firm in September &lpar;Bloomberg&rpar;](http://www.techmeme.com/231220/p7#a231220p7)
+ - [OpenAI&#39;s deals with publishers are a hedge against a scenario in which scraping becomes harder, training material more expensive, and real-time data more scarce &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/231220/p6#a231220p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
