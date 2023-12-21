@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best AI tools for building a website](https://www.androidauthority.com/best-ai-tools-for-building-a-website-3390075/)
- - [The best app to download videos from any website on Mac in high quality](https://appleinsider.com/articles/23/12/21/the-best-app-to-download-videos-from-any-website-on-mac-in-high-quality?utm_medium=rss)
- - [Meet Flip, the Viral Video App Giving Away Free Stuff](https://www.wired.com/story/flip-viral-video-app-shopping-free-stuff/)<!-- TECH:END -->
+ - [Apple’s 15-inch MacBook Air is $300 off and arrives in time for Christmas](https://www.theverge.com/2023/12/21/24009412/apple-macbook-air-15-baldurs-gate-3-playstation-anker-powercore-deal-sale)
+ - [France&#39;s AMF watchdog gives Coinbase virtual asset service provider approval, as the company pushes deeper into Europe amid a rift with the US SEC &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/231221/p14#a231221p14)
+ - [Best Internet Providers in Lakewood, Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-lakewood-co/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
