@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s 15-inch MacBook Air is $300 off and arrives in time for Christmas](https://www.theverge.com/2023/12/21/24009412/apple-macbook-air-15-baldurs-gate-3-playstation-anker-powercore-deal-sale)
- - [France&#39;s AMF watchdog gives Coinbase virtual asset service provider approval, as the company pushes deeper into Europe amid a rift with the US SEC &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/231221/p14#a231221p14)
- - [Best Internet Providers in Lakewood, Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-lakewood-co/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prometheum says it received the first-ever FINRA approval to offer digital asset securities clearing services through its special purpose broker dealer license &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/231221/p17#a231221p17)
+ - [Cisco acquires cloud-native security and networking startup Isovalent, which had raised $69M and has helped develop open-source projects eBPF and Cilium &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231221/p16#a231221p16)
+ - [Bird may be bankrupt, but shared micromobility is doing just fine](https://www.theverge.com/2023/12/21/24010902/bird-bankrupt-electric-scooter-micromobility-ridership-future)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
