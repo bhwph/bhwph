@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
- - 😝 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
- - 👉 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)<!-- MEMES:END -->
+ - 6️⃣ [Got this from a sweet waitress.](http://9gag.com/gag/amA4Kdv)
+ - 😝 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
+ - 👉 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)<!-- MEMES:END -->
 
 --- 
 
