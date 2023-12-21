@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung plans to invest ~$280M over five years in a chip packaging research facility in Yokohama, Japan and will receive up to ~$140M in government subsidies &lpar;Reuters&rpar;](http://www.techmeme.com/231221/p2#a231221p2)
- - [Apple’s holiday hurdle: ITC refuses company’s request to halt Apple Watch ban](https://www.androidauthority.com/apple-watch-ban-stay-rejected-3396353/)
- - [Apple AI researchers publish papers on using human gaussian splats to generate animated 3D avatars and deploying LLMs on devices with limited memory &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/231221/p1#a231221p1)<!-- TECH:END -->
+ - [X &lpar;formerly Twitter&rpar; is a ghost town: User feeds have mysteriously disappeared &lpar;Updated: Back up&rpar;](https://www.androidauthority.com/x-twitter-is-down-3396374/)
+ - [Most big brands haven&#39;t yet created AI-specific roles despite many marketers fearing AI will change their jobs; Coca-Cola promoted two execs to new AI roles &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/231221/p5#a231221p5)
+ - [X, Formerly Known As Twitter, Suffers Global Outage     - CNET](https://www.cnet.com/tech/mobile/x-formerly-known-as-twitter-suffers-global-outage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
