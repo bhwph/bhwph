@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)
- - 😝 [If you import trash, don&#39;t expect your neighborhood to smell nice. Also, why no Muslim tag 9gag?](http://9gag.com/gag/a04yzAd)
- - 👉 [Hans?!...](http://9gag.com/gag/az2pDej)<!-- MEMES:END -->
+ - 6️⃣ [Fml...](http://9gag.com/gag/anzPW1L)
+ - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
+ - 👉 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)<!-- MEMES:END -->
 
 --- 
 
