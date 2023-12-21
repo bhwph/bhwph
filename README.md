@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Smart Home Deals: Save Big on Smart Bulbs, Robot Vacuums, Thermostats and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
  - [Sources: Anthropic is in talks to raise $750M in a round led by Menlo Ventures at a $15B valuation, tripling from spring 2023; its final valuation may top $18B &lpar;The Information&rpar;](http://www.techmeme.com/231220/p30#a231220p30)
- - [Here are the shipping and return policies for all the big-name retailers](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)
- - [This Is How Much Money Solar Panels Can Save You     - CNET](https://www.cnet.com/home/energy-and-utilities/how-much-money-do-solar-panels-save/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the shipping and return policies for all the big-name retailers](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
