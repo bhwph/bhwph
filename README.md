@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you want blue iMessage bubbles that much, buy an iPhone](https://appleinsider.com/articles/23/12/21/if-you-want-blue-imessage-bubbles-that-much-buy-an-iphone?utm_medium=rss)
- - [Leaked Samsung S24 spec sheet offers complete picture of the upcoming lineup](https://www.theverge.com/2023/12/21/24010736/samsung-s24-plus-ultra-specs-images-leak)
- - [How to turn photos into iMessage stickers with iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-turn-photos-into-imessage-stickers-with-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [The best AI tools for building a website](https://www.androidauthority.com/best-ai-tools-for-building-a-website-3390075/)
+ - [The best app to download videos from any website on Mac in high quality](https://appleinsider.com/articles/23/12/21/the-best-app-to-download-videos-from-any-website-on-mac-in-high-quality?utm_medium=rss)
+ - [Meet Flip, the Viral Video App Giving Away Free Stuff](https://www.wired.com/story/flip-viral-video-app-shopping-free-stuff/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
