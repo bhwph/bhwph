@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prometheum says it received the first-ever FINRA approval to offer digital asset securities clearing services through its special purpose broker dealer license &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/231221/p17#a231221p17)
- - [Cisco acquires cloud-native security and networking startup Isovalent, which had raised $69M and has helped develop open-source projects eBPF and Cilium &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231221/p16#a231221p16)
- - [Bird may be bankrupt, but shared micromobility is doing just fine](https://www.theverge.com/2023/12/21/24010902/bird-bankrupt-electric-scooter-micromobility-ridership-future)<!-- TECH:END -->
+ - [Apple halts sales of the Apple Watch Series 9, Apple Watch Ultra 2 in its online store ahead of Dec 25 ban](https://appleinsider.com/articles/23/12/21/apple-halts-sales-of-the-apple-watch-series-9-apple-watch-ultra-2-in-its-online-store-ahead-of-dec-25-ban?utm_medium=rss)
+ - [Apple officially stops selling its latest Apple Watches online](https://www.theverge.com/2023/12/21/24010965/apple-watch-series-9-ultra-2-removed-from-online-sale-store)
+ - [Substack co-founder Hamish McKenzie defends not removing or demonetizing Nazi content after 200+ authors criticize it for &quot;platforming and monetizing Nazis&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/231221/p20#a231221p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
