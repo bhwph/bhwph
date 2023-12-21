@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [German kid humiliated and beaten. Normal school day in Germany](http://9gag.com/gag/aYVXZA7)
- - 😝 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
- - 👉 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)<!-- MEMES:END -->
+ - 6️⃣ [I was raised in Finland as a Muslim, but I am glad I woke up and managed to integrate and adopt Western values. I wish more Muslims would wake up and abandon their iron age beliefs.](http://9gag.com/gag/a9qgerW)
+ - 😝 [Again disney ...Athena from Percy Jackson and the Olympians...](http://9gag.com/gag/aBdBMLP)
+ - 👉 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)<!-- MEMES:END -->
 
 --- 
 
