@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Smart Home Deals: Save Big on Smart Bulbs, Robot Vacuums, Thermostats and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
- - [Sources: Anthropic is in talks to raise $750M in a round led by Menlo Ventures at a $15B valuation, tripling from spring 2023; its final valuation may top $18B &lpar;The Information&rpar;](http://www.techmeme.com/231220/p30#a231220p30)
- - [Here are the shipping and return policies for all the big-name retailers](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)<!-- TECH:END -->
+ - [Samsung Galaxy Unpacked 2024 date leaked via a very official-looking teaser](https://www.androidauthority.com/samsung-galaxy-unpacked-2024-date-leak-3396347/)
+ - [Best Internet Providers in Aurora, Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-co/#ftag=CAD590a51e)
+ - [Get an M2 MacBook Air 16GB for $1,099 with free next day delivery](https://appleinsider.com/articles/23/12/21/get-an-m2-macbook-air-16gb-for-1099-with-free-next-day-delivery?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
