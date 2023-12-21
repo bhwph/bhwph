@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
- - 😝 [13-year-old Wiam, a Muslim girl, married to 29-year-old Muhammad](http://9gag.com/gag/a4oOBEv)
- - 👉 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)<!-- MEMES:END -->
+ - 6️⃣ [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)
+ - 😝 [If you import trash, don&#39;t expect your neighborhood to smell nice. Also, why no Muslim tag 9gag?](http://9gag.com/gag/a04yzAd)
+ - 👉 [Hans?!...](http://9gag.com/gag/az2pDej)<!-- MEMES:END -->
 
 --- 
 
