@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micron reports Q1 revenue up 16% YoY to $4.73B, vs. $4.54B est., and forecasts Q2 revenue above estimates, after strong data center demand &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231220/p28#a231220p28)
- - [Latest Galaxy S24 leak shows off the flagship in four colors](https://www.androidauthority.com/galaxy-s24-colors-3396300/)
- - [Arizona&#39;s Secretary of State Is Already Sick of Election Conspiracy Theories](https://www.wired.com/story/adrian-fontes-secretary-of-state-arizona/)<!-- TECH:END -->
+ - [Sources: Anthropic is in talks to raise $750M in a round led by Menlo Ventures at a $15B valuation, tripling from spring 2023; its final valuation may top $18B &lpar;The Information&rpar;](http://www.techmeme.com/231220/p30#a231220p30)
+ - [Here are the shipping and return policies for all the big-name retailers](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)
+ - [This Is How Much Money Solar Panels Can Save You     - CNET](https://www.cnet.com/home/energy-and-utilities/how-much-money-do-solar-panels-save/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
