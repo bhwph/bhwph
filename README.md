@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple halts sales of the Apple Watch Series 9, Apple Watch Ultra 2 in its online store ahead of Dec 25 ban](https://appleinsider.com/articles/23/12/21/apple-halts-sales-of-the-apple-watch-series-9-apple-watch-ultra-2-in-its-online-store-ahead-of-dec-25-ban?utm_medium=rss)
- - [Apple officially stops selling its latest Apple Watches online](https://www.theverge.com/2023/12/21/24010965/apple-watch-series-9-ultra-2-removed-from-online-sale-store)
- - [Substack co-founder Hamish McKenzie defends not removing or demonetizing Nazi content after 200+ authors criticize it for &quot;platforming and monetizing Nazis&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/231221/p20#a231221p20)<!-- TECH:END -->
+ - [Email: Meta&#39;s India policy head, Shivnath Thukral, says the government could choose to apply its proposed telecom law to Meta&#39;s OTT services at a &quot;future date&quot; &lpar;Chandra R. Srikanth/@chandrarsrikant&rpar;](http://www.techmeme.com/231221/p22#a231221p22)
+ - [Discovery shows you’ve bought on PlayStation actually won’t be taken away](https://www.theverge.com/2023/12/21/24011168/sony-playstation-discovery-shows-not-removed)
+ - [The hyperloop is dead for real this time](https://www.theverge.com/2023/12/21/24011448/hyperloop-one-shut-down-layoff-closing-elon-musk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
