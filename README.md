@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What](http://9gag.com/gag/aBdBNKP)
- - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
- - 👉 [I wish you well brother! Thank you for being part of my childhood memories, wherever you are..](http://9gag.com/gag/avQKBbn)<!-- MEMES:END -->
+ - 6️⃣ [I wish you well brother! Thank you for being part of my childhood memories, wherever you are..](http://9gag.com/gag/avQKBbn)
+ - 😝 [Women](http://9gag.com/gag/amA4Og4)
+ - 👉 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)<!-- MEMES:END -->
 
 --- 
 
