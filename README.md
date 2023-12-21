@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)
- - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
- - 👉 [This one stuck with me. :/](http://9gag.com/gag/adPD4v9)<!-- MEMES:END -->
+ - 6️⃣ [Grab your popcorn !](http://9gag.com/gag/axoqnDn)
+ - 😝 [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)
+ - 👉 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)<!-- MEMES:END -->
 
 --- 
 
