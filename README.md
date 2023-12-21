@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fml...](http://9gag.com/gag/anzPW1L)
- - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
- - 👉 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)<!-- MEMES:END -->
+ - 6️⃣ [What](http://9gag.com/gag/aBdBNKP)
+ - 😝 [How the tents have been folded](http://9gag.com/gag/aKEonPZ)
+ - 👉 [Birmingham, UK. The British are shopping at the Christmas sales.](http://9gag.com/gag/anzPdVb)<!-- MEMES:END -->
 
 --- 
 
