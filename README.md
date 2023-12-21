@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How excess heat from Meta&#39;s hyperscale data center in Odense, opened in 2020, helps heat roughly 11,000 homes in the Danish city &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/231221/p6#a231221p6)
- - [Leaked Galaxy S24 series spec sheet raises 1 question: What’s a quad telephoto?](https://www.androidauthority.com/samsung-galaxy-s24-series-leaked-specs-3396392/)
- - [X &lpar;formerly Twitter&rpar; is a ghost town: User feeds have mysteriously disappeared &lpar;Updated: Back up&rpar;](https://www.androidauthority.com/x-twitter-is-down-3396374/)<!-- TECH:END -->
+ - [If you want blue iMessage bubbles that much, buy an iPhone](https://appleinsider.com/articles/23/12/21/if-you-want-blue-imessage-bubbles-that-much-buy-an-iphone?utm_medium=rss)
+ - [Leaked Samsung S24 spec sheet offers complete picture of the upcoming lineup](https://www.theverge.com/2023/12/21/24010736/samsung-s24-plus-ultra-specs-images-leak)
+ - [How to turn photos into iMessage stickers with iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-turn-photos-into-imessage-stickers-with-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
