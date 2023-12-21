@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [What](http://9gag.com/gag/aBdBNKP)
- - 😝 [How the tents have been folded](http://9gag.com/gag/aKEonPZ)
- - 👉 [Birmingham, UK. The British are shopping at the Christmas sales.](http://9gag.com/gag/anzPdVb)<!-- MEMES:END -->
+ - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - 👉 [I wish you well brother! Thank you for being part of my childhood memories, wherever you are..](http://9gag.com/gag/avQKBbn)<!-- MEMES:END -->
 
 --- 
 
