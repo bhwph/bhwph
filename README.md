@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
- - 😝 [Mom Exposed](http://9gag.com/gag/anzPowB)
- - 👉 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)<!-- MEMES:END -->
+ - 6️⃣ [Can we get rid of Nancy Faeser as the federal minister of the Interior and Community and have this based turkish guy instead?](http://9gag.com/gag/aREqpyQ)
+ - 😝 [This picture will be used in history book while discussing the fall of Western civilization.](http://9gag.com/gag/a9qgGE0)
+ - 👉 [Mom Exposed](http://9gag.com/gag/anzPowB)<!-- MEMES:END -->
 
 --- 
 
