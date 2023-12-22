@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to add HomeKit light switches without rewiring your house](https://appleinsider.com/inside/homekit/tips/how-to-add-homekit-light-switches-without-rewiring-your-house?utm_medium=rss)
- - [Facebook Marketplace Is Being Ruined by Zelle Scammers](https://www.wired.com/story/zelle-scammers-are-ruining-facebook-marketplace/)
- - [The 16 Best Books of 2023](https://www.wired.com/story/best-books-of-2023/)<!-- TECH:END -->
+ - [DOJ antitrust lawyers question Beeper over Apple&#39;s iMessage hack](https://appleinsider.com/articles/23/12/22/doj-antitrust-lawyers-question-beeper-over-apples-imessage-hack?utm_medium=rss)
+ - [5 times I used AI to make my professional photography better](https://www.androidauthority.com/use-ai-to-improve-photography-3395239/)
+ - [Review: &#39;Ferrari&#39; Is Michael Mann’s Cinematic Auto Biography](https://www.wired.com/story/ferrari-michael-mann-auto-biography/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
