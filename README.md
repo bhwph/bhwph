@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)
- - 😝 [Dindindindindin](http://9gag.com/gag/aA0zzYg)
- - 👉 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)<!-- MEMES:END -->
+ - 6️⃣ [Know the rules!](http://9gag.com/gag/aL1779z)
+ - 😝 [Free choice](http://9gag.com/gag/aoKQ7w3)
+ - 👉 [Mom Exposed](http://9gag.com/gag/anzPowB)<!-- MEMES:END -->
 
 --- 
 
