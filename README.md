@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I think I ate the dogs food](http://9gag.com/gag/abvnoML)
- - 😝 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
- - 👉 [O..kay... Thats very awesome of you miss Hitomi](http://9gag.com/gag/adPDwGj)<!-- MEMES:END -->
+ - 6️⃣ [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
+ - 😝 [Mom Exposed](http://9gag.com/gag/anzPowB)
+ - 👉 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)<!-- MEMES:END -->
 
 --- 
 
