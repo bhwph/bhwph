@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Plex is now appearing on Google TV’s ‘Top picks for you’ section](https://www.androidauthority.com/plex-google-tv-3396848/)
- - [Humane says it will begin shipping its Ai Pin in March 2024, starting with customers who placed priority orders &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231222/p13#a231222p13)<!-- TECH:END -->
+ - [The 46 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 47 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [Humane announces AI Pin will start shipping in March](https://www.androidauthority.com/ai-pin-shipment-date-3396904/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
