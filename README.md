@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I truly believe Tim Burton’s Willy Wonka movie is still the best Willy Wonka movie](https://www.polygon.com/24011109/willy-wonka-movie-comparison-johnny-depp-gene-wilder-timothee-chalamet)
- - [Best Action 2023: Armored Core 6](https://www.pcgamer.com/best-action-2023-armored-core-6)
- - [I was so wrong to sleep on Avatar: Frontiers of Pandora, because it&#39;s Ubisoft&#39;s best open world game in years](https://www.pcgamer.com/i-was-so-wrong-to-sleep-on-avatar-frontiers-of-pandora-because-its-ubisofts-best-open-world-game-in-years)<!-- GAME:END -->
+ - [Zack Snyder says Rebel Moon’s R-rated cut ‘takes place in a slightly different dimension’](https://www.polygon.com/2023/12/22/24012244/rebel-moon-r-rated-directors-cut-zack-snyder)
+ - [GotY: Kotaku&#39;s Top 12 Games Of 2023, Ranked](https://kotaku.com/goty-best-games-2023-totk-baldurs-gate-3-alan-wake-2-1851109182)
+ - [Freud’s Last Session imagines the philosophical debate of a lifetime — then flops](https://www.polygon.com/24009316/freuds-last-session-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
