@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A valuable lesson was learned that day](http://9gag.com/gag/a7qRX7m)
- - 😝 [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)
- - 👉 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)<!-- MEMES:END -->
+ - 6️⃣ [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
+ - 😝 [The compliment](http://9gag.com/gag/anzPwBB)
+ - 👉 [13-year-old Wiam, a Muslim girl, married to 29-year-old Muhammad](http://9gag.com/gag/a4oOBEv)<!-- MEMES:END -->
 
 --- 
 
