@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nature is f**king scary](http://9gag.com/gag/aKEoyqN)
- - 😝 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
- - 👉 [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)<!-- MEMES:END -->
+ - 6️⃣ [Man from future](http://9gag.com/gag/aZDOXn6)
+ - 😝 [Leonardo DiCaprio and his girlfriend celebrating her 25th birthday](http://9gag.com/gag/a2K6gXO)
+ - 👉 [Lavish lunches](http://9gag.com/gag/aNwEMnG)<!-- MEMES:END -->
 
 --- 
 
