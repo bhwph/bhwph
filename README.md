@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Email: Meta&#39;s India policy head, Shivnath Thukral, says the government could choose to apply its proposed telecom law to Meta&#39;s OTT services at a &quot;future date&quot; &lpar;Chandra R. Srikanth/@chandrarsrikant&rpar;](http://www.techmeme.com/231221/p22#a231221p22)
- - [Discovery shows you’ve bought on PlayStation actually won’t be taken away](https://www.theverge.com/2023/12/21/24011168/sony-playstation-discovery-shows-not-removed)
- - [The hyperloop is dead for real this time](https://www.theverge.com/2023/12/21/24011448/hyperloop-one-shut-down-layoff-closing-elon-musk)<!-- TECH:END -->
+ - [Insomniac&#39;s hacked files show challenges it faces juggling teams, timelines, and budgets amid possible Sony cuts; Spider-Man 2 cost ~$300M, 3x 2018&#39;s Spider-Man &lpar;Ethan Gach/Kotaku&rpar;](http://www.techmeme.com/231221/p24#a231221p24)
+ - [Google and Samsung might be merging Nearby Share and Quick Share](https://www.androidauthority.com/google-samsung-quick-share-3396681/)
+ - [Chrome’s password safety tool will now automatically run in the background](https://www.theverge.com/2023/12/21/24011655/google-chrome-safety-check-password-background)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
