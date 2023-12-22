@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Nights at Freddy&#39;s Roblox game debuts by accident because series&#39; creator &#39;approved a skin&#39;—devs say it was a beta, then nuke its Discord over unholy NSFW content](https://www.pcgamer.com/five-nights-at-freddys-roblox-game-debuts-by-accident-because-series-creator-approved-a-skindevs-say-it-was-a-beta-then-nuke-its-discord-over-unholy-nsfw-content)
- - [My PC is a mess. Is anyone else finding it difficult to manage all their files nowadays?](https://www.pcgamer.com/my-pc-is-a-mess-is-anyone-else-finding-it-difficult-to-manage-all-their-files-nowadays)
- - [It&#39;s apparently down to AMD whether Nvidia releases its RTX 50-series GPUs in 2024 or not](https://www.pcgamer.com/its-apparently-down-to-amd-whether-nvidia-releases-its-rtx-50-series-gpus-in-2024-or-not)<!-- GAME:END -->
+ - [I truly believe Tim Burton’s Willy Wonka movie is still the best Willy Wonka movie](https://www.polygon.com/24011109/willy-wonka-movie-comparison-johnny-depp-gene-wilder-timothee-chalamet)
+ - [Best Action 2023: Armored Core 6](https://www.pcgamer.com/best-action-2023-armored-core-6)
+ - [I was so wrong to sleep on Avatar: Frontiers of Pandora, because it&#39;s Ubisoft&#39;s best open world game in years](https://www.pcgamer.com/i-was-so-wrong-to-sleep-on-avatar-frontiers-of-pandora-because-its-ubisofts-best-open-world-game-in-years)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
