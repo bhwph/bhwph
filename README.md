@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Railbreak’s Ballistic Bloodshed Wreaks Arcade Havoc Today on Xbox Series X|S](https://news.xbox.com/en-us/2023/12/22/railbreak-wreaks-arcade-havoc-today-on-xbox/)
- - [7 more Seven Samurai stories to watch after Rebel Moon](https://www.polygon.com/what-to-watch/24006222/movies-like-seven-samurai-kurosawa-rebel-moon)
- - [This Time-Loop Horror Game Is Secretly One Of 2023&#39;s Best Stories](https://kotaku.com/slay-the-princess-black-tabby-games-scarlet-hollow-1851118498)<!-- GAME:END -->
+ - [Game publisher Versus Evil shuts down, fires staff days before Christmas](https://www.polygon.com/24012558/versus-evil-closure-tinybuild-banner-saga-pillars-of-eternity)
+ - [Trinity Fusion – Bring Down the Multiverse](https://news.xbox.com/en-us/2023/12/22/trinity-fusion-bring-down-the-multiverse/)
+ - [The 14 best Baldur’s Gate 3 quality-of-life and style mods](https://www.polygon.com/23993575/baldurs-gate-3-mods-best-how-to-download)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
