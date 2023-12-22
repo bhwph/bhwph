@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game publisher Versus Evil shuts down, fires staff days before Christmas](https://www.polygon.com/24012558/versus-evil-closure-tinybuild-banner-saga-pillars-of-eternity)
- - [Trinity Fusion – Bring Down the Multiverse](https://news.xbox.com/en-us/2023/12/22/trinity-fusion-bring-down-the-multiverse/)
- - [The 14 best Baldur’s Gate 3 quality-of-life and style mods](https://www.polygon.com/23993575/baldurs-gate-3-mods-best-how-to-download)<!-- GAME:END -->
+ - [One of our favorite early access shooters is approaching the finish line with the release of its creepiest chapter yet](https://www.pcgamer.com/one-of-our-favorite-early-access-shooters-is-approaching-the-finish-line-with-the-release-of-its-creepiest-chapter-yet)
+ - [Shuhei Yoshida’s favorite PlayStation indie games of 2023](https://blog.playstation.com/2023/12/22/shuhei-yoshidas-favorite-playstation-indie-games-of-2023/)
+ - [Should you save or kill the Nightsong in Baldur’s Gate 3?](https://www.polygon.com/baldurs-gate-3-guides/24012733/save-kill-nightsong-choice-bg3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
