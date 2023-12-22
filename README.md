@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
- - 😝 [The compliment](http://9gag.com/gag/anzPwBB)
- - 👉 [13-year-old Wiam, a Muslim girl, married to 29-year-old Muhammad](http://9gag.com/gag/a4oOBEv)<!-- MEMES:END -->
+ - 6️⃣ [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)
+ - 😝 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
+ - 👉 [A valuable lesson was learned that day](http://9gag.com/gag/a7qRX7m)<!-- MEMES:END -->
 
 --- 
 
