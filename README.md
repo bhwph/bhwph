@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)
- - 😝 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
- - 👉 [A valuable lesson was learned that day](http://9gag.com/gag/a7qRX7m)<!-- MEMES:END -->
+ - 6️⃣ [NEW: A man from Guinea who had just crossed illegally into Lukeville, AZ tells me he plans to go to Philadelphia. When I asked why, he didn\u2019t know, and pulled out a piece of paper w/ an address written on it he\u2019s supposed to go to. We looked it up, it\u2019s a local community center.](http://9gag.com/gag/ajVe4Yx)
+ - 😝 [He is not wrong!](http://9gag.com/gag/ay2jm0b)
+ - 👉 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)<!-- MEMES:END -->
 
 --- 
 
