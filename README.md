@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken 8 should absolutely be the fighting game you play in 2024](https://www.pcgamer.com/tekken-8-should-absolutely-be-the-fighting-game-you-play-in-2024)
- - [Tekken 8: hands-on with Arcade Quest, Super Ghost Battles, and Tekken Ball](https://blog.playstation.com/2023/12/12/tekken-8-hands-on-with-arcade-quest-super-ghost-battles-and-tekken-ball/)
- - [Tekken 8 Is Going Big on Story… Twice](https://news.xbox.com/en-us/2023/12/12/tekken-8-story-mode/)<!-- GAME:END -->
+ - [I was so determined to get into Street Fighter 6 this year I built my own hitbox &lpar;but I still didn&#39;t get into Street Fighter&rpar;](https://www.pcgamer.com/i-was-so-determined-to-get-into-street-fighter-6-this-year-i-built-my-own-hitbox-but-i-still-didnt-get-into-street-fighter)
+ - [How Bobby Kotick became &#39;the most hated man in videogames&#39;](https://www.pcgamer.com/bobby-kotick-retrospective)
+ - [The final scene in the DCEU dares you to think of it as a metaphor for the whole franchise](https://www.polygon.com/24011071/aquaman-2-credits-scene-lost-kingdom)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
