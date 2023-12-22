@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zack Snyder says Rebel Moon’s R-rated cut ‘takes place in a slightly different dimension’](https://www.polygon.com/2023/12/22/24012244/rebel-moon-r-rated-directors-cut-zack-snyder)
- - [GotY: Kotaku&#39;s Top 12 Games Of 2023, Ranked](https://kotaku.com/goty-best-games-2023-totk-baldurs-gate-3-alan-wake-2-1851109182)
- - [Freud’s Last Session imagines the philosophical debate of a lifetime — then flops](https://www.polygon.com/24009316/freuds-last-session-review)<!-- GAME:END -->
+ - [Railbreak’s Ballistic Bloodshed Wreaks Arcade Havoc Today on Xbox Series X|S](https://news.xbox.com/en-us/2023/12/22/railbreak-wreaks-arcade-havoc-today-on-xbox/)
+ - [7 more Seven Samurai stories to watch after Rebel Moon](https://www.polygon.com/what-to-watch/24006222/movies-like-seven-samurai-kurosawa-rebel-moon)
+ - [This Time-Loop Horror Game Is Secretly One Of 2023&#39;s Best Stories](https://kotaku.com/slay-the-princess-black-tabby-games-scarlet-hollow-1851118498)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
