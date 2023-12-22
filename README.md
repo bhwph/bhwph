@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 46 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 47 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Humane announces AI Pin will start shipping in March](https://www.androidauthority.com/ai-pin-shipment-date-3396904/)<!-- TECH:END -->
+ - [AI companies would be required to disclose copyrighted training data under new bill](https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation)
+ - [Court docs: Google considered changing its Play Store pricing model in 2021 but abandoned the plans over potential $1B-$2B losses for apps and $6B-$9B for games &lpar;Bloomberg&rpar;](http://www.techmeme.com/231222/p19#a231222p19)
+ - [Apple reportedly wants to use the news to help train its AI models](https://www.theverge.com/2023/12/22/24012730/apple-ai-models-news-publishers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
