@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I was raised in Finland as a Muslim, but I am glad I woke up and managed to integrate and adopt Western values. I wish more Muslims would wake up and abandon their iron age beliefs.](http://9gag.com/gag/a9qgerW)
- - 😝 [Again disney ...Athena from Percy Jackson and the Olympians...](http://9gag.com/gag/aBdBMLP)
- - 👉 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)<!-- MEMES:END -->
+ - 6️⃣ [Deep thinking](http://9gag.com/gag/aZDO4wQ)
+ - 😝 [13-year-old Wiam, a Muslim girl, married to 29-year-old Muhammad](http://9gag.com/gag/a4oOBEv)
+ - 👉 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)<!-- MEMES:END -->
 
 --- 
 
