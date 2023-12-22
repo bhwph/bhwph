@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Open is getting a pretty sizeable update](https://www.androidauthority.com/oneplus-open-patch-3396824/)
- - [Spotify pulls support for two music festivals in France, in protest against a new tax that will impose a levy of 1.5% to 1.75% on all music-streaming services &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231222/p11#a231222p11)
- - [Insomniac finally responds to hack that leaked ‘Wolverine’ game and more](https://www.theverge.com/2023/12/22/24012215/insomniac-wolverine-leak-hack-ransomware)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Plex is now appearing on Google TV’s ‘Top picks for you’ section](https://www.androidauthority.com/plex-google-tv-3396848/)
+ - [Humane says it will begin shipping its Ai Pin in March 2024, starting with customers who placed priority orders &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231222/p13#a231222p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
