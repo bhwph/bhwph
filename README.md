@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man from future](http://9gag.com/gag/aZDOXn6)
- - 😝 [Leonardo DiCaprio and his girlfriend celebrating her 25th birthday](http://9gag.com/gag/a2K6gXO)
- - 👉 [Lavish lunches](http://9gag.com/gag/aNwEMnG)<!-- MEMES:END -->
+ - 6️⃣ [A valuable lesson was learned that day](http://9gag.com/gag/a7qRX7m)
+ - 😝 [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)
+ - 👉 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)<!-- MEMES:END -->
 
 --- 
 
