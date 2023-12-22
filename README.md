@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOJ antitrust lawyers question Beeper over Apple&#39;s iMessage hack](https://appleinsider.com/articles/23/12/22/doj-antitrust-lawyers-question-beeper-over-apples-imessage-hack?utm_medium=rss)
- - [5 times I used AI to make my professional photography better](https://www.androidauthority.com/use-ai-to-improve-photography-3395239/)
- - [Review: &#39;Ferrari&#39; Is Michael Mann’s Cinematic Auto Biography](https://www.wired.com/story/ferrari-michael-mann-auto-biography/)<!-- TECH:END -->
+ - [OnePlus Open is getting a pretty sizeable update](https://www.androidauthority.com/oneplus-open-patch-3396824/)
+ - [Spotify pulls support for two music festivals in France, in protest against a new tax that will impose a levy of 1.5% to 1.75% on all music-streaming services &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231222/p11#a231222p11)
+ - [Insomniac finally responds to hack that leaked ‘Wolverine’ game and more](https://www.theverge.com/2023/12/22/24012215/insomniac-wolverine-leak-hack-ransomware)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
