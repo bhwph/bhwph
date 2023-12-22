@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toshiba sees power management chips as a profit driver and plans to spend ~$175M to double production as the company completes its $14B buyout by PE firm JIP &lpar;Makiko Yamazaki/Reuters&rpar;](http://www.techmeme.com/231222/p2#a231222p2)
- - [Android Auto can now reflect your phone icons &lpar;if you’ve got a Samsung phone&rpar;](https://www.androidauthority.com/android-auto-samsung-phone-icons-3396740/)
- - [Another OnePlus 12R leak shows this phone could be a mid-range king](https://www.androidauthority.com/oneplus-12r-leak-specs-3396735/)<!-- TECH:END -->
+ - [How to add HomeKit light switches without rewiring your house](https://appleinsider.com/inside/homekit/tips/how-to-add-homekit-light-switches-without-rewiring-your-house?utm_medium=rss)
+ - [Facebook Marketplace Is Being Ruined by Zelle Scammers](https://www.wired.com/story/zelle-scammers-are-ruining-facebook-marketplace/)
+ - [The 16 Best Books of 2023](https://www.wired.com/story/best-books-of-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
