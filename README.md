@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [O..kay... Thats very awesome of you miss Hitomi](http://9gag.com/gag/adPDwGj)
- - 😝 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
- - 👉 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)<!-- MEMES:END -->
+ - 6️⃣ [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
+ - 😝 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
+ - 👉 [Dindindindindin](http://9gag.com/gag/aA0zzYg)<!-- MEMES:END -->
 
 --- 
 
