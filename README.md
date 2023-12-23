@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Central Bank of Nigeria lifts a ban, imposed in February 2021, on cryptocurrency transactions but says global trends show a need to regulate such activities &lpar;MacDonald Dzirutwe/Reuters&rpar;](http://www.techmeme.com/231223/p7#a231223p7)
- - [Best Internet Providers in Berkeley, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-berkeley-ca/#ftag=CAD590a51e)
- - [Last Minute Holiday iPad Deals: Up to $100 in Savings on iPad Pro, Air, Mini and More     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How AI defense tech developer Rebellion Defense is struggling to survive after failing to win a US DOD contract, losing its founders, and shuttering its UK arm &lpar;Forbes&rpar;](http://www.techmeme.com/231223/p8#a231223p8)
+ - [Snapdragon 8 Gen 3 vs Dimensity 9300 benchmarked: There can only be one winner](https://www.androidauthority.com/snapdragon-8-gen-3-dimensity-9300-benchmarked-3395385/)
+ - [Bose’s QuietComfort Ultra Earbuds are still sitting at their lowest price to date](https://www.theverge.com/2023/12/23/24011716/bose-quietcomfort-ultra-earbuds-amazon-echo-show-8-anker-usb-c-hub-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
