@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget complaining about big game installs: Just the updates are over 30GB now](https://www.pcgamer.com/forget-complaining-about-big-game-installs-just-the-updates-are-over-30gb-now)
- - [Wordle today: Hint and answer #917 for Saturday, December 23](https://www.pcgamer.com/wordle-today-answer-917-december-23)
- - [Netflix’s Rebel Moon, the Hunger Games prequel, and every new movie to watch at home this weekend](https://www.polygon.com/2023/12/22/24006225/new-movies-watch-rebel-moon-netflix-hunger-games-songbirds-snakes-maestro-streaming)<!-- GAME:END -->
+ - [SIGIL II, original Doom&#39;s brand new sixth episode, is the most visceral, adrenaline-inducing and brutal PC gaming experience I&#39;ve had in 2023](https://www.pcgamer.com/sigil-ii-original-dooms-brand-new-sixth-episode-is-the-most-visceral-adrenaline-inducing-and-brutal-pc-gaming-experience-ive-had-in-2023)
+ - [Wait, was Cyberpunk 2077 just quietly in early access for three years?](https://www.pcgamer.com/wait-was-cyberpunk-2077-just-quietly-in-early-access-for-three-years)
+ - [Best Open World 2023: Tchia](https://www.pcgamer.com/best-open-world-2023-tchia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
