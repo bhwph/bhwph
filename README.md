@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Vergecast USB-C Holiday Spec-tacular](https://www.theverge.com/24012468/vergecast-podcast-holiday-special-usb-c)
- - [8 fantastic shows from 2023 to stream on Netflix](https://www.theverge.com/23979537/netflix-best-shows-2023)
- - [Undersea-Aged Champagne Is Starting to Surface](https://www.wired.com/story/undersea-aged-champagne-is-starting-to-surface/)<!-- TECH:END -->
+ - [The Central Bank of Nigeria lifts a ban, imposed in February 2021, on cryptocurrency transactions but says global trends show a need to regulate such activities &lpar;MacDonald Dzirutwe/Reuters&rpar;](http://www.techmeme.com/231223/p7#a231223p7)
+ - [Best Internet Providers in Berkeley, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-berkeley-ca/#ftag=CAD590a51e)
+ - [Last Minute Holiday iPad Deals: Up to $100 in Savings on iPad Pro, Air, Mini and More     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
