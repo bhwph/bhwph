@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [...so, is it true, actually people are not indebted?](http://9gag.com/gag/a8qxZdZ)
- - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
- - 👉 [Me paul](http://9gag.com/gag/aEqm3YG)<!-- MEMES:END -->
+ - 6️⃣ [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
+ - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
+ - 👉 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)<!-- MEMES:END -->
 
 --- 
 
