@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
+ - 6️⃣ [Really?](http://9gag.com/gag/avQKMOb)
  - 😝 [He\u2019ll be thinking about this for years to come](http://9gag.com/gag/a3ZXXGv)
- - 👉 [Whoulda thunk](http://9gag.com/gag/aQEWWEz)<!-- MEMES:END -->
+ - 👉 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)<!-- MEMES:END -->
 
 --- 
 
