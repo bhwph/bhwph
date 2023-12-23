@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
- - 😝 [A valuable lesson was learned that day](http://9gag.com/gag/a7qRX7m)
- - 👉 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)<!-- MEMES:END -->
+ - 6️⃣ [Maybe...](http://9gag.com/gag/avQKjXq)
+ - 😝 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)
+ - 👉 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)<!-- MEMES:END -->
 
 --- 
 
