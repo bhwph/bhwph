@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI defense tech developer Rebellion Defense is struggling to survive after failing to win a US DOD contract, losing its founders, and shuttering its UK arm &lpar;Forbes&rpar;](http://www.techmeme.com/231223/p8#a231223p8)
- - [Snapdragon 8 Gen 3 vs Dimensity 9300 benchmarked: There can only be one winner](https://www.androidauthority.com/snapdragon-8-gen-3-dimensity-9300-benchmarked-3395385/)
- - [Bose’s QuietComfort Ultra Earbuds are still sitting at their lowest price to date](https://www.theverge.com/2023/12/23/24011716/bose-quietcomfort-ultra-earbuds-amazon-echo-show-8-anker-usb-c-hub-deal-sale)<!-- TECH:END -->
+ - [Experts warn against unrealistic expectations for quantum computers, citing the challenges in making fault-tolerant systems, Qubits&#39; slow operating speeds, more &lpar;Edd Gent/IEEE Spectrum&rpar;](http://www.techmeme.com/231223/p9#a231223p9)
+ - [GM stops selling the Chevy Blazer EV to deal with ‘software quality issues’](https://www.theverge.com/2023/12/23/24013357/2024-chevy-blazer-ev-stop-sale-software-problems)
+ - [VOCOlinc VHI review: The nightlight that can help you breathe better](https://appleinsider.com/articles/23/12/23/vocolinc-vhi-review-the-nightlight-that-can-help-you-breathe-better?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
