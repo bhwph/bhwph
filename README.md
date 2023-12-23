@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [SIGIL II, original Doom&#39;s brand new sixth episode, is the most visceral, adrenaline-inducing and brutal PC gaming experience I&#39;ve had in 2023](https://www.pcgamer.com/sigil-ii-original-dooms-brand-new-sixth-episode-is-the-most-visceral-adrenaline-inducing-and-brutal-pc-gaming-experience-ive-had-in-2023)
- - [Wait, was Cyberpunk 2077 just quietly in early access for three years?](https://www.pcgamer.com/wait-was-cyberpunk-2077-just-quietly-in-early-access-for-three-years)
- - [Best Open World 2023: Tchia](https://www.pcgamer.com/best-open-world-2023-tchia)<!-- GAME:END -->
+ - [I&#39;m officially exhausted by all the live service games and I want to see way less next year](https://www.pcgamer.com/im-officially-exhausted-by-all-the-live-service-games-and-i-want-to-see-way-less-next-year)
+ - [What to know about Lego Fortnite if you’re just getting started](https://www.polygon.com/fortnite/24012633/lego-fortnite-download-epic-games-account-vbucks-crossplay)
+ - [Aquaman and the Lost Kingdom Flounders But Doesn&#39;t Quite Sink](https://kotaku.com/aquaman-2-review-lost-kingdom-1851117703)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
