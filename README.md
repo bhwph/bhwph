@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Really?](http://9gag.com/gag/avQKMOb)
- - 😝 [He\u2019ll be thinking about this for years to come](http://9gag.com/gag/a3ZXXGv)
- - 👉 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)<!-- MEMES:END -->
+ - 6️⃣ [He\u2019ll be thinking about this for years to come](http://9gag.com/gag/a3ZXXGv)
+ - 😝 [Widowed father of 7 has Xmas presents](http://9gag.com/gag/aREqb1M)
+ - 👉 [Mom Exposed](http://9gag.com/gag/anzPowB)<!-- MEMES:END -->
 
 --- 
 
