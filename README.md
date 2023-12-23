@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
- - 😝 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
- - 👉 [Dindindindindin](http://9gag.com/gag/aA0zzYg)<!-- MEMES:END -->
+ - 6️⃣ [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
+ - 😝 [A valuable lesson was learned that day](http://9gag.com/gag/a7qRX7m)
+ - 👉 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)<!-- MEMES:END -->
 
 --- 
 
