@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He\u2019ll be thinking about this for years to come](http://9gag.com/gag/a3ZXXGv)
- - 😝 [Widowed father of 7 has Xmas presents](http://9gag.com/gag/aREqb1M)
- - 👉 [Mom Exposed](http://9gag.com/gag/anzPowB)<!-- MEMES:END -->
+ - 6️⃣ [O..kay... Thats very awesome of you miss Hitomi](http://9gag.com/gag/adPDwGj)
+ - 😝 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
+ - 👉 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)<!-- MEMES:END -->
 
 --- 
 
