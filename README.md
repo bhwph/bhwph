@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of our favorite early access shooters is approaching the finish line with the release of its creepiest chapter yet](https://www.pcgamer.com/one-of-our-favorite-early-access-shooters-is-approaching-the-finish-line-with-the-release-of-its-creepiest-chapter-yet)
- - [Shuhei Yoshida’s favorite PlayStation indie games of 2023](https://blog.playstation.com/2023/12/22/shuhei-yoshidas-favorite-playstation-indie-games-of-2023/)
- - [Should you save or kill the Nightsong in Baldur’s Gate 3?](https://www.polygon.com/baldurs-gate-3-guides/24012733/save-kill-nightsong-choice-bg3)<!-- GAME:END -->
+ - [Netflix’s Rebel Moon, the Hunger Games prequel, and every new movie to watch at home this weekend](https://www.polygon.com/2023/12/22/24006225/new-movies-watch-rebel-moon-netflix-hunger-games-songbirds-snakes-maestro-streaming)
+ - [Should you side with He Who Was or Madeline in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23832181/he-who-was-madeline-bg3-forgive-punish-ledger-wicked)
+ - [One of our favorite early access shooters is approaching the finish line with the release of its creepiest chapter yet](https://www.pcgamer.com/one-of-our-favorite-early-access-shooters-is-approaching-the-finish-line-with-the-release-of-its-creepiest-chapter-yet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
