@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Know the rules!](http://9gag.com/gag/aL1779z)
- - 😝 [Free choice](http://9gag.com/gag/aoKQ7w3)
- - 👉 [Mom Exposed](http://9gag.com/gag/anzPowB)<!-- MEMES:END -->
+ - 6️⃣ [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
+ - 😝 [Mom Exposed](http://9gag.com/gag/anzPowB)
+ - 👉 [Maybe...](http://9gag.com/gag/avQKjXq)<!-- MEMES:END -->
 
 --- 
 
