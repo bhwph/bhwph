@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Photography Books of 2023](https://www.wired.com/gallery/best-photo-books-2023/)
- - [The Race to Put Brain Implants in People Is Heating Up](https://www.wired.com/story/the-race-to-put-brain-implants-in-people-is-heating-up/)
- - [The Internet Isn&#39;t Dead. It&#39;s &#39;Saturday Night Live&#39;](https://www.wired.com/story/the-internet-isnt-dying-its-saturday-night-live/)<!-- TECH:END -->
+ - [The Vergecast USB-C Holiday Spec-tacular](https://www.theverge.com/24012468/vergecast-podcast-holiday-special-usb-c)
+ - [8 fantastic shows from 2023 to stream on Netflix](https://www.theverge.com/23979537/netflix-best-shows-2023)
+ - [Undersea-Aged Champagne Is Starting to Surface](https://www.wired.com/story/undersea-aged-champagne-is-starting-to-surface/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
