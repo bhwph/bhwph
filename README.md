@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wearables with powerful AI models would be a much more profound invasion of personal privacy than what we have today with digital assistants like Alexa and Siri &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/231223/p3#a231223p3)
- - [Bulgaria ends criminal proceedings against crypto lender Nexo, finding no evidence of money laundering, tax crimes, computer fraud, or other criminal activity &lpar;The Block&rpar;](http://www.techmeme.com/231223/p2#a231223p2)
- - [A US federal judge rules that Twitter breached its contracts with its employees by failing to pay bonuses in 2022, despite promising to pay 50% of the amounts &lpar;Michael Gennaro/Courthouse News Service&rpar;](http://www.techmeme.com/231223/p1#a231223p1)<!-- TECH:END -->
+ - [The Best Photography Books of 2023](https://www.wired.com/gallery/best-photo-books-2023/)
+ - [The Race to Put Brain Implants in People Is Heating Up](https://www.wired.com/story/the-race-to-put-brain-implants-in-people-is-heating-up/)
+ - [The Internet Isn&#39;t Dead. It&#39;s &#39;Saturday Night Live&#39;](https://www.wired.com/story/the-internet-isnt-dying-its-saturday-night-live/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
