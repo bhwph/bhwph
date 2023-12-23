@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me paul](http://9gag.com/gag/aEqm3YG)
- - 😝 [Really?](http://9gag.com/gag/avQKMOb)
- - 👉 [Macrodactyly is a disease where a finger is greatly enlarged in girth and length.](http://9gag.com/gag/a6qY6Dq)<!-- MEMES:END -->
+ - 6️⃣ [Mom Exposed](http://9gag.com/gag/anzPowB)
+ - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
+ - 👉 [Really?](http://9gag.com/gag/avQKMOb)<!-- MEMES:END -->
 
 --- 
 
