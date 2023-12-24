@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to create your own chatbot with OpenAI custom GPTs](https://www.androidauthority.com/how-to-create-openai-custom-gpts-3397425/)
- - [Here are over 40 last-minute gifts you can still nab before Christmas](https://www.theverge.com/23642026/best-digital-gift-ideas-online-cards-subscriptions)
- - [How to troubleshoot file transfers from iPhone to Mac over a cable or AirDrop](https://appleinsider.com/inside/ios/tips/how-to-troubleshoot-file-transfers-from-iphone-to-mac-over-a-cable-or-airdrop?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Miss You&quot; ad promotes long iPhone 15 Plus battery life](https://appleinsider.com/articles/23/12/24/apples-miss-you-ad-promotes-long-iphone-15-plus-battery-life?utm_medium=rss)
+ - [Researchers extract business and personal email addresses for 30+ NYT staff by fine tuning GPT-3.5 Turbo, bypassing the safeguards for privacy-related queries &lpar;Jeremy White/New York Times&rpar;](http://www.techmeme.com/231224/p9#a231224p9)
+ - [Best Hybrid Mattresses for 2023     - CNET](https://www.cnet.com/health/sleep/best-hybrid-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
