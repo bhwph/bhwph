@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mom Exposed](http://9gag.com/gag/anzPowB)
- - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
- - 👉 [Really?](http://9gag.com/gag/avQKMOb)<!-- MEMES:END -->
+ - 6️⃣ [...so, is it true, actually people are not indebted?](http://9gag.com/gag/a8qxZdZ)
+ - 😝 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)
+ - 👉 [Mom Exposed](http://9gag.com/gag/anzPowB)<!-- MEMES:END -->
 
 --- 
 
