@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Buyout firm Leonard Green agrees to buy a stake in UK-based Iris Software, which makes payroll and HR tools, from Hg in a deal valuing Iris at ~&amp;pound;3.15B &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/231223/p12#a231223p12)
  - [12 Mistakes to Avoid When Setting Up a New TV for the Holidays     - CNET](https://www.cnet.com/tech/home-entertainment/12-mistakes-to-avoid-when-setting-up-a-new-tv-for-the-holidays/#ftag=CAD590a51e)
- - [A look at the American Journalism Project&#39;s Product &amp; AI Studio, launched with OpenAI in summer 2023 to explore how to apply emerging tech in local journalism &lpar;Trei Brundrett/American Journalism Project&rpar;](http://www.techmeme.com/231223/p11#a231223p11)
- - [How to use Xcode Previews to see how your app appears as you make it](https://appleinsider.com/inside/xcode/tips/how-to-use-xcode-previews-to-see-how-your-app-appears-as-you-make-it?utm_medium=rss)<!-- TECH:END -->
+ - [A look at the American Journalism Project&#39;s Product &amp; AI Studio, launched with OpenAI in summer 2023 to explore how to apply emerging tech in local journalism &lpar;Trei Brundrett/American Journalism Project&rpar;](http://www.techmeme.com/231223/p11#a231223p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
