@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Is Telling Bedtime Stories to Your Kids Now](https://www.wired.com/story/bluey-gpts-bedtime-stories-artificial-intelligence-copyright/)
- - [I&#39;ve Been Making Bacon Wrong. Here&#39;s the Best &lpar;and Cleanest&rpar; Way to Cook It     - CNET](https://www.cnet.com/how-to/best-way-to-cook-bacon/#ftag=CAD590a51e)
- - [A study estimates that there are 13.3B+ videos on YouTube, of which 4B+ were posted to the platform in 2023, and the median YouTube video has 39 views &lpar;Ethan Zuckerman&rpar;](http://www.techmeme.com/231224/p4#a231224p4)<!-- TECH:END -->
+ - [10 Best Strollers for Almost Every Budget and Need &lpar;2023&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)
+ - [10 great shows from 2023 to watch on Hulu](https://www.theverge.com/23965702/hulu-best-shows-2023-streaming)
+ - [The most intriguing phone I tested in 2023 was the Fairphone 5](https://www.androidauthority.com/fairphone-5-most-intriguing-phone-2023-3384563/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
