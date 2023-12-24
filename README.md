@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #918 for Sunday, December 24](https://www.pcgamer.com/wordle-today-answer-918-december-24)
  - [In roguelite city builder Against the Storm, failure is part of the process](https://www.polygon.com/24011415/against-the-storm-city-builder-roguelite-impression)
- - [Zack Snyder’s Michael Jordan movie is the secret key to his whole career](https://www.polygon.com/24010956/zack-snyder-michael-jordan-movie-playground)
- - [I&#39;m officially exhausted by all the live service games and I want to see way less next year](https://www.pcgamer.com/im-officially-exhausted-by-all-the-live-service-games-and-i-want-to-see-way-less-next-year)<!-- GAME:END -->
+ - [Zack Snyder’s Michael Jordan movie is the secret key to his whole career](https://www.polygon.com/24010956/zack-snyder-michael-jordan-movie-playground)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
