@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Really?](http://9gag.com/gag/avQKMOb)
- - 😝 [I\u2019m fine](http://9gag.com/gag/aEqm9re)
- - 👉 [A little reminder to fellow russians to not mess with nato borders](http://9gag.com/gag/aBdBq92)<!-- MEMES:END -->
+ - 6️⃣ [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
+ - 😝 [Your dad after finding your league account](http://9gag.com/gag/awZENN8)
+ - 👉 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)<!-- MEMES:END -->
 
 --- 
 
