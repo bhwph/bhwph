@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hardware execs discuss &#39;profound&#39; changes in chip business](https://appleinsider.com/articles/23/12/24/apple-hardware-execs-discuss-profound-changes-in-chip-business?utm_medium=rss)
- - [A look at Sam Altman&#39;s history at Loopt and Y Combinator, where his side activities and personal projects riled colleagues and forced his departure from YC &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231224/p8#a231224p8)
- - [Apple&#39;s in-house Wi-Fi chips probably won&#39;t make it into the iPhone 17](https://appleinsider.com/articles/23/12/24/apple-in-house-wi-fi-chips-probably-wont-make-it-into-the-iphone-17?utm_medium=rss)<!-- TECH:END -->
+ - [How to create your own chatbot with OpenAI custom GPTs](https://www.androidauthority.com/how-to-create-openai-custom-gpts-3397425/)
+ - [Here are over 40 last-minute gifts you can still nab before Christmas](https://www.theverge.com/23642026/best-digital-gift-ideas-online-cards-subscriptions)
+ - [How to troubleshoot file transfers from iPhone to Mac over a cable or AirDrop](https://appleinsider.com/inside/ios/tips/how-to-troubleshoot-file-transfers-from-iphone-to-mac-over-a-cable-or-airdrop?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
