@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice to see people get better. Bottom right hell yeah](http://9gag.com/gag/amA4j5X)
- - 😝 [Balls of steel](http://9gag.com/gag/aMEM3x1)
- - 👉 [Thousands of undocumented migrants and liberal supporters protest in Paris after the government passed a law delaying migrants&#39; access to welfare benefits, limitations on bringing family members, introducing jail time for illegally entering and deporting criminals](http://9gag.com/gag/aGE43yz)<!-- MEMES:END -->
+ - 6️⃣ [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
+ - 😝 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
+ - 👉 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)<!-- MEMES:END -->
 
 --- 
 
