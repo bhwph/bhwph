@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The biggest gaming controversies of 2023, part 1](https://www.pcgamer.com/the-biggest-gaming-controversies-of-2023-part-1)
- - [Olive the Other Reindeer deserves to a Christmas classic](https://www.polygon.com/24003258/best-christmas-special-olive-other-reindeer)
- - [Six Years Ago, The Most Stylish RPG Ever Revived A Dying Genre](https://kotaku.com/best-rpgs-persona-5-royal-1851118000)<!-- GAME:END -->
+ - [How to watch the Doctor Who holiday special](https://www.polygon.com/23998660/doctor-dr-who-christmas-special-streaming-how-watch-anniversary-2023)
+ - [I spent 3 nights at Nintendo’s original HQ](https://www.polygon.com/24009383/nintendo-hotel-marufukuro-kyoto-gojo)
+ - [Iron Man 2 partially redeemed by Marvel’s What If...? Die Hard spoof](https://www.polygon.com/24012423/what-if-die-hard-christmas-iron-man-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
