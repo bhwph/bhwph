@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Strollers for Almost Every Budget and Need &lpar;2023&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)
- - [10 great shows from 2023 to watch on Hulu](https://www.theverge.com/23965702/hulu-best-shows-2023-streaming)
- - [The most intriguing phone I tested in 2023 was the Fairphone 5](https://www.androidauthority.com/fairphone-5-most-intriguing-phone-2023-3384563/)<!-- TECH:END -->
+ - [The Best Online Hearing Tests of 2023     - CNET](https://www.cnet.com/health/medical/best-online-hearing-tests/#ftag=CAD590a51e)
+ - [Apple&#39;s &#39;Ferret&#39; is a new open-source machine learning model](https://appleinsider.com/articles/23/12/24/apples-ferret-is-a-new-open-source-machine-learning-model?utm_medium=rss)
+ - [Nvidia and its staff donated $15M to Israeli nonprofits helping civilians affected by the Israel-Hamas war, the largest humanitarian fundraiser for the company &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/231224/p6#a231224p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
