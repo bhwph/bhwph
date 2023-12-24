@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [...so, is it true, actually people are not indebted?](http://9gag.com/gag/a8qxZdZ)
- - 😝 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)
- - 👉 [Mom Exposed](http://9gag.com/gag/anzPowB)<!-- MEMES:END -->
+ - 6️⃣ [Rams QB Matthew Stafford with his four daughters pregame](http://9gag.com/gag/adPDmrM)
+ - 😝 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
+ - 👉 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)<!-- MEMES:END -->
 
 --- 
 
