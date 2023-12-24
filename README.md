@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Setting 2023: Dredge](https://www.pcgamer.com/best-setting-2023-dredge)
- - [2023 was so incredible for games that you might have missed these 12 must-plays from the first half of the year](https://www.pcgamer.com/2023-was-so-incredible-for-games-that-you-might-have-missed-these-12-must-plays-from-the-first-half-of-the-year)
- - [Hi-Fi Rush is a tubular action game that turns the rhythm up to 11, and I couldn&#39;t let 2023 go by without singing its praises](https://www.pcgamer.com/hi-fi-rush-is-a-tubular-action-game-that-turns-the-rhythm-up-to-11-and-i-couldnt-let-2023-go-by-without-singing-its-praises)<!-- GAME:END -->
+ - [The biggest gaming controversies of 2023, part 1](https://www.pcgamer.com/the-biggest-gaming-controversies-of-2023-part-1)
+ - [Olive the Other Reindeer deserves to a Christmas classic](https://www.polygon.com/24003258/best-christmas-special-olive-other-reindeer)
+ - [Six Years Ago, The Most Stylish RPG Ever Revived A Dying Genre](https://kotaku.com/best-rpgs-persona-5-royal-1851118000)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
