@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
- - 😝 [This is so appropriate.](http://9gag.com/gag/aEqm3VN)
- - 👉 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)<!-- MEMES:END -->
+ - 6️⃣ [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)
+ - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
+ - 👉 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)<!-- MEMES:END -->
 
 --- 
 
