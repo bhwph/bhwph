@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me paul](http://9gag.com/gag/aEqm3YG)
- - 😝 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
- - 👉 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)<!-- MEMES:END -->
+ - 6️⃣ [Really?](http://9gag.com/gag/avQKMOb)
+ - 😝 [I\u2019m fine](http://9gag.com/gag/aEqm9re)
+ - 👉 [A little reminder to fellow russians to not mess with nato borders](http://9gag.com/gag/aBdBq92)<!-- MEMES:END -->
 
 --- 
 
