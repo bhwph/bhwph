@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Rams QB Matthew Stafford with his four daughters pregame](http://9gag.com/gag/adPDmrM)
- - 😝 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
- - 👉 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)<!-- MEMES:END -->
+ - 6️⃣ [Wait, hol the f up bruh \ud83d\udc80](http://9gag.com/gag/aWG3znA)
+ - 😝 [Sign of true Friendship](http://9gag.com/gag/avQK3An)
+ - 👉 [Balls of steel](http://9gag.com/gag/aMEM3x1)<!-- MEMES:END -->
 
 --- 
 
