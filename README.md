@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait, hol the f up bruh \ud83d\udc80](http://9gag.com/gag/aWG3znA)
- - 😝 [Sign of true Friendship](http://9gag.com/gag/avQK3An)
- - 👉 [Balls of steel](http://9gag.com/gag/aMEM3x1)<!-- MEMES:END -->
+ - 6️⃣ [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
+ - 😝 [This is so appropriate.](http://9gag.com/gag/aEqm3VN)
+ - 👉 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)<!-- MEMES:END -->
 
 --- 
 
