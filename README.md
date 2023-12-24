@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Online Hearing Tests of 2023     - CNET](https://www.cnet.com/health/medical/best-online-hearing-tests/#ftag=CAD590a51e)
- - [Apple&#39;s &#39;Ferret&#39; is a new open-source machine learning model](https://appleinsider.com/articles/23/12/24/apples-ferret-is-a-new-open-source-machine-learning-model?utm_medium=rss)
- - [Nvidia and its staff donated $15M to Israeli nonprofits helping civilians affected by the Israel-Hamas war, the largest humanitarian fundraiser for the company &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/231224/p6#a231224p6)<!-- TECH:END -->
+ - [Apple hardware execs discuss &#39;profound&#39; changes in chip business](https://appleinsider.com/articles/23/12/24/apple-hardware-execs-discuss-profound-changes-in-chip-business?utm_medium=rss)
+ - [A look at Sam Altman&#39;s history at Loopt and Y Combinator, where his side activities and personal projects riled colleagues and forced his departure from YC &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231224/p8#a231224p8)
+ - [Apple&#39;s in-house Wi-Fi chips probably won&#39;t make it into the iPhone 17](https://appleinsider.com/articles/23/12/24/apple-in-house-wi-fi-chips-probably-wont-make-it-into-the-iphone-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
