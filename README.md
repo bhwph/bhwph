@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
- - 😝 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
- - 👉 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)<!-- MEMES:END -->
+ - 6️⃣ [Me paul](http://9gag.com/gag/aEqm3YG)
+ - 😝 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
+ - 👉 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)<!-- MEMES:END -->
 
 --- 
 
