@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #918 for Sunday, December 24](https://www.pcgamer.com/wordle-today-answer-918-december-24)
- - [In roguelite city builder Against the Storm, failure is part of the process](https://www.polygon.com/24011415/against-the-storm-city-builder-roguelite-impression)
- - [Zack Snyder’s Michael Jordan movie is the secret key to his whole career](https://www.polygon.com/24010956/zack-snyder-michael-jordan-movie-playground)<!-- GAME:END -->
+ - [Best Setting 2023: Dredge](https://www.pcgamer.com/best-setting-2023-dredge)
+ - [2023 was so incredible for games that you might have missed these 12 must-plays from the first half of the year](https://www.pcgamer.com/2023-was-so-incredible-for-games-that-you-might-have-missed-these-12-must-plays-from-the-first-half-of-the-year)
+ - [Hi-Fi Rush is a tubular action game that turns the rhythm up to 11, and I couldn&#39;t let 2023 go by without singing its praises](https://www.pcgamer.com/hi-fi-rush-is-a-tubular-action-game-that-turns-the-rhythm-up-to-11-and-i-couldnt-let-2023-go-by-without-singing-its-praises)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
