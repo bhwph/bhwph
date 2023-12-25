@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #919 for Monday, December 25](https://www.pcgamer.com/wordle-today-answer-919-december-25)
- - [How to watch the Doctor Who holiday special](https://www.polygon.com/23998660/doctor-dr-who-christmas-special-streaming-how-watch-anniversary-2023)
- - [I spent 3 nights at Nintendo’s original HQ](https://www.polygon.com/24009383/nintendo-hotel-marufukuro-kyoto-gojo)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards: The best handheld gaming PC of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-handheld-gaming-pc-of-2023)
+ - [Steam keeps on winning](https://www.pcgamer.com/steam-keeps-on-winning)
+ - [Wordle today: Hint and answer #919 for Monday, December 25](https://www.pcgamer.com/wordle-today-answer-919-december-25)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
