@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Apple&#39;s 2024 starts with Apple Vision Pro, ends with a new Mac event](https://appleinsider.com/articles/23/12/25/kuo-apples-2024-starts-with-apple-vision-pro-ends-with-a-new-mac-event?utm_medium=rss)
- - [Kuo: Apple Vision Pro shipments are estimated to be approximately 500,000 units in 2024 and will most likely be available in late January or early February &lpar;Omar Sohail/Wccftech&rpar;](http://www.techmeme.com/231225/p4#a231225p4)
- - [Christmas deals: AirTag for $23, $120 off iPad Air 5, Apple MagSafe Charger $29, more](https://appleinsider.com/articles/23/12/25/christmas-deals-airtag-for-23-120-off-ipad-air-5-apple-magsafe-charger-29-more?utm_medium=rss)<!-- TECH:END -->
+ - [Garmin Fenix 8 wishlist: All the features I want to see](https://www.androidauthority.com/garmin-fenix-8-3391386/)
+ - [Need a Cheap Home Security Camera? Try an Old iPhone or Android Smartphone     - CNET](https://www.cnet.com/home/security/need-a-cheap-home-security-camera-try-an-old-iphone-or-android-smartphone/#ftag=CAD590a51e)
+ - [Kuo: Apple&#39;s 2024 starts with Apple Vision Pro, ends with a new Mac event](https://appleinsider.com/articles/23/12/25/kuo-apples-2024-starts-with-apple-vision-pro-ends-with-a-new-mac-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
