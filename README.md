@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GTA V source code appears to have been leaked on Discord, Telegram, a dark web site, and more, a little over a year after Rockstar was hacked &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/231225/p6#a231225p6)
- - [After vocal commitments following George Floyd&#39;s murder in 2020, DEI programs at Big Tech companies, including Meta and Google, are in broad retreat in 2023 &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/231225/p5#a231225p5)
- - [How to move your data and apps to a new iPad](https://appleinsider.com/articles/20/09/14/how-to-move-your-data-and-apps-to-a-new-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Got a new phone? Here’s how to switch like a pro](https://www.androidauthority.com/how-to-switch-phones-901221/)
+ - [Google Chrome&#39;s Safety Check feature, which checks if users&#39; saved passwords have been compromised, will now run automatically in the background on desktop &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231225/p7#a231225p7)
+ - [Best Queen Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
