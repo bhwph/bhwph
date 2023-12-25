@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Christmas memories that last a lifetime](http://9gag.com/gag/a3Z6vM8)
- - 😝 [Merry Christmas to all you morons and retards who also spend Christmas eve alone. Love you guys. Life would be a lot less fun without you.](http://9gag.com/gag/abvnjmE)
- - 👉 [Tipping is not mandatory.its a way to show appreciation for the service you receive. I absolutely hate it when restaurants in the US try to force/shame you into tipping more.](http://9gag.com/gag/aNwEynr)<!-- MEMES:END -->
+ - 6️⃣ [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)
+ - 😝 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
+ - 👉 [Gym lover](http://9gag.com/gag/ay2jODV)<!-- MEMES:END -->
 
 --- 
 
