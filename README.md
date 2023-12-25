@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I played 40 hours of Sons of the Forest without the killer cannibals, and it was a blast](https://www.pcgamer.com/i-played-40-hours-of-sons-of-the-forest-without-the-killer-cannibals-and-it-was-a-blast)
- - [Best Design 2023: Dave the Diver](https://www.pcgamer.com/best-design-2023-dave-the-diver)
- - [Lethal Company is a viral hit in no small part thanks to all the intense shouting](https://www.pcgamer.com/lethal-company-is-a-viral-hit-in-no-small-part-thanks-to-all-the-intense-shouting)<!-- GAME:END -->
+ - [Mask of the Phantasm is still the best Batman movie](https://www.polygon.com/24007816/best-batman-movie-mask-of-phantasm)
+ - [Live service gaming&#39;s best new trend is actually an old one: letting players decide how to have fun](https://www.pcgamer.com/live-service-gamings-best-new-trend-is-actually-an-old-one-letting-players-decide-how-to-have-fun)
+ - [The biggest gaming controversies of 2023, part 2](https://www.pcgamer.com/the-biggest-gaming-controversies-of-2023-part-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
