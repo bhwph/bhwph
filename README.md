@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Avian Terminology...](http://9gag.com/gag/abvN50O)
- - 😝 [She ate him after that](http://9gag.com/gag/a2K3EBO)
- - 👉 [Too slow](http://9gag.com/gag/aQEL6Eq)<!-- MEMES:END -->
+ - 6️⃣ [Precise ball placement.](http://9gag.com/gag/avQMpbW)
+ - 😝 [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 👉 [Thanks paul.](http://9gag.com/gag/aREbQAG)<!-- MEMES:END -->
 
 --- 
 
