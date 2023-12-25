@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best TV Shows You Missed in 2023—and Where to Watch Them](https://www.wired.com/story/best-tv-shows-you-missed-in-2023/)
- - [The Hollywood Strikes Stopped AI From Taking Your Job. But for How Long?](https://www.wired.com/story/hollywood-saved-your-job-from-ai-2023-will-it-last/)
- - [Current Mortgage Rates for Dec. 25, 2023: Rates Cool Off for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-rates-for-dec-25-2023-rates-cool-off-for-homeseekers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 great Game Pass games for your Xbox](https://www.theverge.com/2023/12/25/23999612/xbox-games-game-pass-2023-best-roundup)
+ - [Eve Matter Devices, Next Gen CarPlay, &amp; ESR MagSafe Chargers on HomeKit Insider](https://appleinsider.com/articles/23/12/25/eve-matter-devices-next-gen-carplay-esr-magsafe-chargers-on-homekit-insider?utm_medium=rss)
+ - [You Can Fix the Most Annoying iOS 17 Features on Your iPhone     - CNET](https://www.cnet.com/tech/mobile/you-can-fix-the-most-annoying-ios-17-features-on-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
