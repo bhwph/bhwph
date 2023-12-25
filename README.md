@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
- - 😝 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)
- - 👉 [Too slow](http://9gag.com/gag/aQEL6Eq)<!-- MEMES:END -->
+ - 6️⃣ [Lost her in every universe](http://9gag.com/gag/az2pnWm)
+ - 😝 [Gym lover](http://9gag.com/gag/ay2jODV)
+ - 👉 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)<!-- MEMES:END -->
 
 --- 
 
