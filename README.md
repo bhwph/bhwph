@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s &#39;Miss You&quot; ad promotes long iPhone 15 Plus battery life](https://appleinsider.com/articles/23/12/24/apples-miss-you-ad-promotes-long-iphone-15-plus-battery-life?utm_medium=rss)
- - [Researchers extract business and personal email addresses for 30+ NYT staff by fine tuning GPT-3.5 Turbo, bypassing the safeguards for privacy-related queries &lpar;Jeremy White/New York Times&rpar;](http://www.techmeme.com/231224/p9#a231224p9)
- - [Best Hybrid Mattresses for 2023     - CNET](https://www.cnet.com/health/sleep/best-hybrid-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Merry Christmas from all of us, here at AppleInsider](https://appleinsider.com/articles/23/12/25/merry-christmas-from-all-of-us-here-at-appleinsider?utm_medium=rss)
+ - [Apple halts Apple Watch Series 9, Apple Watch Ultra 2 sales in U.S. Apple Stores ahead of ITC ban](https://appleinsider.com/articles/23/12/24/apple-halts-apple-watch-series-9-apple-watch-ultra-2-sales-in-us-apple-stores-ahead-of-itc-ban?utm_medium=rss)
+ - [A profile of Yi He, a former talk-show host, who co-founded Binance with Changpeng Zhao and has sweeping control over its marketing and investment divisions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231224/p10#a231224p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
