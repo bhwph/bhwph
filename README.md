@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
- - 😝 [Gym lover](http://9gag.com/gag/ay2jODV)
- - 👉 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)<!-- MEMES:END -->
+ - 6️⃣ [That\u2019ll show him](http://9gag.com/gag/aKEQwA1)
+ - 😝 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
+ - 👉 [Indians Take &#39;Paving the Way&#39; a Bit Too Literally, Steal Newly Laid Road!](http://9gag.com/gag/az2pNMq)<!-- MEMES:END -->
 
 --- 
 
