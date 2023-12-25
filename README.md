@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lost her in every universe](http://9gag.com/gag/az2pnWm)
+ - 6️⃣ [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
  - 😝 [Gym lover](http://9gag.com/gag/ay2jODV)
  - 👉 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)<!-- MEMES:END -->
 
