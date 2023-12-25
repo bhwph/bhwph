@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: The best handheld gaming PC of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-handheld-gaming-pc-of-2023)
- - [Steam keeps on winning](https://www.pcgamer.com/steam-keeps-on-winning)
- - [Wordle today: Hint and answer #919 for Monday, December 25](https://www.pcgamer.com/wordle-today-answer-919-december-25)<!-- GAME:END -->
+ - [I played 40 hours of Sons of the Forest without the killer cannibals, and it was a blast](https://www.pcgamer.com/i-played-40-hours-of-sons-of-the-forest-without-the-killer-cannibals-and-it-was-a-blast)
+ - [Best Design 2023: Dave the Diver](https://www.pcgamer.com/best-design-2023-dave-the-diver)
+ - [Lethal Company is a viral hit in no small part thanks to all the intense shouting](https://www.pcgamer.com/lethal-company-is-a-viral-hit-in-no-small-part-thanks-to-all-the-intense-shouting)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
