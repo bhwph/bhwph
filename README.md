@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at TikTok Shop, as big companies shun the e-commerce app, which has a clunky interface and is full of dubious merchandise, like a $50 plastic fork &lpar;Bloomberg&rpar;](http://www.techmeme.com/231225/p1#a231225p1)
  - [Researchers: an updated Chameleon trojan uses an HTML page trick to disrupt biometrics on Android like Face Unlock to steal PINs and unlock the device at will &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231224/p12#a231224p12)
- - [China approves 105 local games, including titles from Tencent and NetEase, after the announcement of a new set of restrictions led to a $80B rout last week &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/231224/p11#a231224p11)
- - [Merry Christmas from all of us, here at AppleInsider](https://appleinsider.com/articles/23/12/25/merry-christmas-from-all-of-us-here-at-appleinsider?utm_medium=rss)<!-- TECH:END -->
+ - [China approves 105 local games, including titles from Tencent and NetEase, after the announcement of a new set of restrictions led to a $80B rout last week &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/231224/p11#a231224p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
