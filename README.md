@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H Photo&#39;s year-end Mega Deal Zone knocks up to $2,000 off Apple](https://appleinsider.com/articles/23/12/26/bh-photos-year-end-mega-deal-zone-knocks-up-to-2000-off-apple?utm_medium=rss)
- - [Microsoft tests a feature that lets Windows 11 users reinstall the OS using Windows Update, a method that preserves files, settings, and installed apps &lpar;Mayank Parmar/Windows Latest&rpar;](http://www.techmeme.com/231226/p10#a231226p10)
- - [Motorola Edge Plus &lpar;2024&rpar; wishlist: All the features I want to see](https://www.androidauthority.com/motorola-edge-plus-2024-3390024/)<!-- TECH:END -->
+ - [50 Best After-Christmas Deals You Can Get Right Now     - CNET](https://www.cnet.com/deals/best-after-christmas-sales/#ftag=CAD590a51e)
+ - [Filing: xAI incorporates as a for-profit benefit corporation, allowing it to prioritize having a positive impact on society over its obligations to shareholders &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/231226/p11#a231226p11)
+ - [Best Apple Watch Deals: Where to Buy Apple&#39;s Latest and Older Versions     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
