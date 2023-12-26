@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why People Why ??](http://9gag.com/gag/aA08RR0)
+ - 6️⃣ [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
  - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
- - 👉 [This is what a winning scratch-off ticket looks like](http://9gag.com/gag/aVbpj3M)<!-- MEMES:END -->
+ - 👉 [SANTA!](http://9gag.com/gag/adPGNBV)<!-- MEMES:END -->
 
 --- 
 
