@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
- - 😝 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
- - 👉 [Women](http://9gag.com/gag/a8qRLbV)<!-- MEMES:END -->
+ - 6️⃣ [Why People Why ??](http://9gag.com/gag/aA08RR0)
+ - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
+ - 👉 [This is what a winning scratch-off ticket looks like](http://9gag.com/gag/aVbpj3M)<!-- MEMES:END -->
 
 --- 
 
