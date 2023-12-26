@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movie performances of 2023](https://www.polygon.com/24003083/best-movie-performances-actors-2023)
- - [The new PS5 owners’ guide to great gaming experiences](https://blog.playstation.com/2023/12/26/the-new-ps5-owners-guide-to-great-gaming-experiences/)
- - [Steam Users Gave Starfield A Lump Of Coal For Christmas](https://kotaku.com/starfield-steam-reviews-negative-bethesda-1851124046)<!-- GAME:END -->
+ - [The best documentaries of 2023](https://www.polygon.com/what-to-watch/23998704/best-documentaries-2023)
+ - [Nintendo appears to be shutting down Wii U, 3DS online play early](https://www.polygon.com/24015380/nintendo-wii-u-3ds-error-code-online-shut-down)
+ - [GTA 5 Leak Reveals The Single-Player DLC You Never Got To Play](https://kotaku.com/grand-theft-auto-5-leak-single-player-scrapped-dlc-1851124303)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
