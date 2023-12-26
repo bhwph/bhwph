@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future MagSafe could transmit data and authenticate users through peripherals](https://appleinsider.com/articles/22/04/14/future-magsafe-could-transmit-data-and-authenticate-users-through-peripherals?utm_medium=rss)
- - [A legal dispute about a Bitcoin mine in a small Texas town reveals how Chinese nationals are using Tether to move money to the US without drawing attention &lpar;New York Times&rpar;](http://www.techmeme.com/231226/p5#a231226p5)
- - [Here’s what we expect from smartphones in 2024](https://www.androidauthority.com/what-expect-2024-smartphones-3392795/)<!-- TECH:END -->
+ - [Apple is now banned from selling its latest Apple Watches in the US](https://www.theverge.com/2023/12/26/24012382/apple-import-ban-watch-series-9-ultra-2)
+ - [Microsoft launches Microsoft Copilot for Android, a free ChatGPT-like app that supports GPT-4 and DALL-E 3; sources: a Copilot iOS app is nearly ready &lpar;Mayank Parmar/Windows Latest&rpar;](http://www.techmeme.com/231226/p8#a231226p8)
+ - [Daily deals Dec. 26: 41% off MacBook Pro, $138 off Apple Watch S9, 42% off Aqara HomeKit lock, more](https://appleinsider.com/articles/23/12/26/daily-deals-dec-26-41-off-macbook-pro-138-off-apple-watch-s9-42-off-aqara-homekit-lock-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
