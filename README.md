@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at AI apps like Bluey-GPT, Oscar, Once Upon a Bot, and Bedtimestory.ai, which create stories for kids, and concerns over copyright, trademark, and safety &lpar;Nicole Kobie/Wired&rpar;](http://www.techmeme.com/231226/p2#a231226p2)
- - [Here&#39;s How to Create an Online IRS Account     - CNET](https://www.cnet.com/personal-finance/taxes/how-an-online-irs-account-can-help-you-get-your-taxes-finished/#ftag=CAD590a51e)
- - [How flood monitoring companies, like 7Analytics and Neara, are using AI to make real-time flooding predictions and help businesses minimize damage &lpar;Suzanne Bearne/BBC&rpar;](http://www.techmeme.com/231226/p1#a231226p1)<!-- TECH:END -->
+ - [President Biden&#39;s administration declines to veto the US ITC&#39;s decision to ban Apple Watch Series 9 and Ultra 2 imports over a Masimo patent dispute &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231226/p4#a231226p4)
+ - [How to Use OpenAI’s ChatGPT to Create Your Own Custom GPT](https://www.wired.com/story/how-to-use-chatgpt-create-custom-gpt-openai/)
+ - [WIRED&#39;s 11 Noteworthy Long-form Stories of 2023](https://www.wired.com/gallery/wired-longreads-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
