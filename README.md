@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Too slow](http://9gag.com/gag/aQEL6Eq)
- - 😝 [Wood](http://9gag.com/gag/a8qxP91)
- - 👉 [Women](http://9gag.com/gag/a8qRLbV)<!-- MEMES:END -->
+ - 6️⃣ [This is what a winning scratch-off ticket looks like](http://9gag.com/gag/aVbpj3M)
+ - 😝 [Tourist throw rock into vulcano. Vulcano goes boom.](http://9gag.com/gag/aqeP4ZY)
+ - 👉 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)<!-- MEMES:END -->
 
 --- 
 
