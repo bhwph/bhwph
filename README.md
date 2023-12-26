@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is now banned from selling its latest Apple Watches in the US](https://www.theverge.com/2023/12/26/24012382/apple-import-ban-watch-series-9-ultra-2)
- - [Microsoft launches Microsoft Copilot for Android, a free ChatGPT-like app that supports GPT-4 and DALL-E 3; sources: a Copilot iOS app is nearly ready &lpar;Mayank Parmar/Windows Latest&rpar;](http://www.techmeme.com/231226/p8#a231226p8)
- - [Daily deals Dec. 26: 41% off MacBook Pro, $138 off Apple Watch S9, 42% off Aqara HomeKit lock, more](https://appleinsider.com/articles/23/12/26/daily-deals-dec-26-41-off-macbook-pro-138-off-apple-watch-s9-42-off-aqara-homekit-lock-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s February 2023 in review: Apple Watch ban threat, layoffs, and Jony Ive&#39;s red nose](https://appleinsider.com/articles/23/03/04/apple-watch-ban-threat-layoffs-and-jony-ives-red-nose----february-2023-in-review?utm_medium=rss)
+ - [Nielsen: YouTube&#39;s share of US viewership by 2- to 11-year-olds jumped from 29.4% in September 2021 to 33% in September 2023, while Netflix fell from 25% to 21% &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/231226/p9#a231226p9)
+ - [20 Best After-Christmas Sales and Deals &lpar;2023&rpar;](https://www.wired.com/story/after-christmas-sales-and-deals-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
