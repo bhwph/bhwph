@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Biden&#39;s administration declines to veto the US ITC&#39;s decision to ban Apple Watch Series 9 and Ultra 2 imports over a Masimo patent dispute &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231226/p4#a231226p4)
- - [How to Use OpenAI’s ChatGPT to Create Your Own Custom GPT](https://www.wired.com/story/how-to-use-chatgpt-create-custom-gpt-openai/)
- - [WIRED&#39;s 11 Noteworthy Long-form Stories of 2023](https://www.wired.com/gallery/wired-longreads-2023/)<!-- TECH:END -->
+ - [Future MagSafe could transmit data and authenticate users through peripherals](https://appleinsider.com/articles/22/04/14/future-magsafe-could-transmit-data-and-authenticate-users-through-peripherals?utm_medium=rss)
+ - [A legal dispute about a Bitcoin mine in a small Texas town reveals how Chinese nationals are using Tether to move money to the US without drawing attention &lpar;New York Times&rpar;](http://www.techmeme.com/231226/p5#a231226p5)
+ - [Here’s what we expect from smartphones in 2024](https://www.androidauthority.com/what-expect-2024-smartphones-3392795/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
