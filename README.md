@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you liked 2023&#39;s soulslikes, you should go play Sekiro: Shadows Die Twice—because they&#39;re all great tutorials to its unrivalled combat](https://www.pcgamer.com/if-you-liked-2023s-soulslikes-you-should-go-play-sekiro-shadows-die-twicebecause-theyre-all-great-tutorials-to-its-unrivalled-combat)
- - [PC Gamer Hardware Awards: The best gaming laptops of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-laptops-of-2023)
- - [Can Vanillite be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24008004/can-vanillite-be-shiny-vanillish-vanilluxe)<!-- GAME:END -->
+ - [Survival colony sim Stranded: Alien Dawn has all the personal drama of The Sims, plus robots, mechs, and giant bug invasions](https://www.pcgamer.com/survival-colony-sim-stranded-alien-dawn-has-all-the-personal-drama-of-the-sims-plus-robots-mechs-and-giant-bug-invasions)
+ - [Best Shooter 2023: Remnant 2](https://www.pcgamer.com/best-shooter-2023-remnant-2)
+ - [10 great indie games you might have missed in 2023](https://www.polygon.com/what-to-play/24002753/best-indie-games-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
