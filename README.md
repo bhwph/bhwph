@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is what a winning scratch-off ticket looks like](http://9gag.com/gag/aVbpj3M)
- - 😝 [Tourist throw rock into vulcano. Vulcano goes boom.](http://9gag.com/gag/aqeP4ZY)
- - 👉 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)<!-- MEMES:END -->
+ - 6️⃣ [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 😝 [This is what a winning scratch-off ticket looks like](http://9gag.com/gag/aVbpj3M)
+ - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
 
 --- 
 
