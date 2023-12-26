@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Avian Terminology...](http://9gag.com/gag/abvN50O)
- - 😝 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)
- - 👉 [Indians Take &#39;Paving the Way&#39; a Bit Too Literally, Steal Newly Laid Road!](http://9gag.com/gag/az2pNMq)<!-- MEMES:END -->
+ - 6️⃣ [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 😝 [How To Get Attractive Girlfriend 101](http://9gag.com/gag/az2WgDN)
+ - 👉 [Avian Terminology...](http://9gag.com/gag/abvN50O)<!-- MEMES:END -->
 
 --- 
 
