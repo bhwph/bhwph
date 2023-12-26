@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Indians Take &#39;Paving the Way&#39; a Bit Too Literally, Steal Newly Laid Road!](http://9gag.com/gag/az2pNMq)
- - 😝 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
- - 👉 [F around find out](http://9gag.com/gag/a8qRb3Y)<!-- MEMES:END -->
+ - 6️⃣ [Too slow](http://9gag.com/gag/aQEL6Eq)
+ - 😝 [Wood](http://9gag.com/gag/a8qxP91)
+ - 👉 [Women](http://9gag.com/gag/a8qRLbV)<!-- MEMES:END -->
 
 --- 
 
