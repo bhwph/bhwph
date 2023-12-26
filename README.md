@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s February 2023 in review: Apple Watch ban threat, layoffs, and Jony Ive&#39;s red nose](https://appleinsider.com/articles/23/03/04/apple-watch-ban-threat-layoffs-and-jony-ives-red-nose----february-2023-in-review?utm_medium=rss)
- - [Nielsen: YouTube&#39;s share of US viewership by 2- to 11-year-olds jumped from 29.4% in September 2021 to 33% in September 2023, while Netflix fell from 25% to 21% &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/231226/p9#a231226p9)
- - [20 Best After-Christmas Sales and Deals &lpar;2023&rpar;](https://www.wired.com/story/after-christmas-sales-and-deals-2023/)<!-- TECH:END -->
+ - [B&amp;H Photo&#39;s year-end Mega Deal Zone knocks up to $2,000 off Apple](https://appleinsider.com/articles/23/12/26/bh-photos-year-end-mega-deal-zone-knocks-up-to-2000-off-apple?utm_medium=rss)
+ - [Microsoft tests a feature that lets Windows 11 users reinstall the OS using Windows Update, a method that preserves files, settings, and installed apps &lpar;Mayank Parmar/Windows Latest&rpar;](http://www.techmeme.com/231226/p10#a231226p10)
+ - [Motorola Edge Plus &lpar;2024&rpar; wishlist: All the features I want to see](https://www.androidauthority.com/motorola-edge-plus-2024-3390024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
