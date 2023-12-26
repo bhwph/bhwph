@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
- - 👉 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)<!-- MEMES:END -->
+ - 6️⃣ [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - 👉 [Lol](http://9gag.com/gag/aA08Yw0)<!-- MEMES:END -->
 
 --- 
 
