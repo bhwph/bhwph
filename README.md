@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Survival colony sim Stranded: Alien Dawn has all the personal drama of The Sims, plus robots, mechs, and giant bug invasions](https://www.pcgamer.com/survival-colony-sim-stranded-alien-dawn-has-all-the-personal-drama-of-the-sims-plus-robots-mechs-and-giant-bug-invasions)
- - [Best Shooter 2023: Remnant 2](https://www.pcgamer.com/best-shooter-2023-remnant-2)
- - [10 great indie games you might have missed in 2023](https://www.polygon.com/what-to-play/24002753/best-indie-games-2023)<!-- GAME:END -->
+ - [The best movie performances of 2023](https://www.polygon.com/24003083/best-movie-performances-actors-2023)
+ - [The new PS5 owners’ guide to great gaming experiences](https://blog.playstation.com/2023/12/26/the-new-ps5-owners-guide-to-great-gaming-experiences/)
+ - [Steam Users Gave Starfield A Lump Of Coal For Christmas](https://kotaku.com/starfield-steam-reviews-negative-bethesda-1851124046)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
