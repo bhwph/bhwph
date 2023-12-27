@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Open gets its first Android 14 beta with Oxygen OS 14](https://www.androidauthority.com/oneplus-open-first-android-14-beta-oxygen-os-3397822/)
- - [Amazon Prime Video plans to start showing ads starting on January 29, with an option for customers to pay an additional $2.99 per month to avoid the ads &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231227/p7#a231227p7)
- - [New leak sheds light on the Nothing Phone 2a’s camera specs and availability](https://www.androidauthority.com/nothing-phone-2a-camera-specs-availability-leak-3397811/)<!-- TECH:END -->
+ - [As more high-performance computing chips pushed past 1 kW in 2023, like Nvidia&#39;s GH200 Superchips, many manufacturers embraced direct liquid cooling &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/231227/p10#a231227p10)
+ - [This Clever New Idea Could Fix AirTag Stalking While Maximizing Privacy](https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/)
+ - [Cars Are Getting Bigger. Can Smarter Software Make Them Safer?](https://www.wired.com/story/bigger-cars-safety-software/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
