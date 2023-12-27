@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As more high-performance computing chips pushed past 1 kW in 2023, like Nvidia&#39;s GH200 Superchips, many manufacturers embraced direct liquid cooling &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/231227/p10#a231227p10)
- - [This Clever New Idea Could Fix AirTag Stalking While Maximizing Privacy](https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/)
- - [Cars Are Getting Bigger. Can Smarter Software Make Them Safer?](https://www.wired.com/story/bigger-cars-safety-software/)<!-- TECH:END -->
+ - [I just upgraded my parents’ phones and this is how I set them up to be foolproof](https://www.androidauthority.com/set-up-parents-new-android-phones-3392788/)
+ - [Brazilian Gamers Aren&#39;t Waiting for Hollywood. They&#39;re Building Their Own Cons](https://www.wired.com/story/brazil-games-fandom-perifacon/)
+ - [5 Best Food Processors and Choppers &lpar;2023&rpar;](https://www.wired.com/gallery/best-food-processors/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
