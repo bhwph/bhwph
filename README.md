@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [SANTA!](http://9gag.com/gag/adPGNBV)
- - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 👉 [Lol](http://9gag.com/gag/aA08Yw0)<!-- MEMES:END -->
+ - 6️⃣ [Wait a min..](http://9gag.com/gag/aQELn62)
+ - 😝 [Hmmmm interesting.](http://9gag.com/gag/aOxMm03)
+ - 👉 [All a matter of perspective](http://9gag.com/gag/a9qxPLZ)<!-- MEMES:END -->
 
 --- 
 
