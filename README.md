@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We should be getting a new Muppet Christmas Carol-alike every year](https://www.polygon.com/24012791/muppet-christmas-carol-new-muppet-movie)
- - [These were the biggest games on Steam &lpar;and Steam Deck&rpar; in 2023](https://www.polygon.com/24012749/steam-top-sellers-2023-deck-most-played-games)
- - [Genshin Impact ‘Into the Frame’ solutions and event guide](https://www.polygon.com/genshin-impact-guides/24016399/into-the-frame-event-solution-roses-and-muskets)<!-- GAME:END -->
+ - [The 10 best action scenes of 2023](https://www.polygon.com/entertainment/24002690/best-action-fight-scenes-2023-movies-tv)
+ - [The Steam Deck Crushed It In 2023](https://kotaku.com/steam-deck-valve-2023-2024-games-oled-1851126694)
+ - [2024 Is Starting Out With An Avalanche Of Video Games](https://kotaku.com/2024-game-releases-tekken-final-fantasy-7-suicide-squad-1851126639)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
