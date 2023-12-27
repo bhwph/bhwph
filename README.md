@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Adventure 2023: Star Wars Jedi – Survivor](https://www.pcgamer.com/best-adventure-2023-star-wars-jedi-survivor)
- - [In the year Doom turned 30, nothing better captured the endless imagination and creativity of its mod scene than Myhouse.wad](https://www.pcgamer.com/in-the-year-doom-turned-30-nothing-better-captured-the-endless-imagination-and-creativity-of-its-mod-scene-than-myhousewad)
- - [Hang on, because the cozy games trend hasn&#39;t even peaked yet](https://www.pcgamer.com/hang-on-because-the-cozy-games-trend-hasnt-even-peaked-yet)<!-- GAME:END -->
+ - [Pokémon Go Winter Holiday 2023 event guide](https://www.polygon.com/pokemon-go-guide/2023/12/18/24006193/winter-holiday-2023-event-timed-research-paid-ticket-cetoddle)
+ - [The best TV episodes of 2023](https://www.polygon.com/23994141/best-tv-episodes-2023)
+ - [We&#39;ve only just recovered from 2023&#39;s wild release schedule, and now the first few weeks of 2024 are going to hit us in the face with even more games](https://www.pcgamer.com/weve-only-just-recovered-from-2023s-wild-release-schedule-and-now-the-first-few-weeks-of-2024-are-going-to-hit-us-in-the-face-with-even-more-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
