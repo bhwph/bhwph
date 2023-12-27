@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
- - 😝 [A good way to handle the leftist pronoun snowflakes](http://9gag.com/gag/aeQnpyj)
- - 👉 [Not.one.single.one](http://9gag.com/gag/aMEoQbR)<!-- MEMES:END -->
+ - 6️⃣ [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - 😝 [Screensaver prank goes sideways](http://9gag.com/gag/aoKvZZe)
+ - 👉 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)<!-- MEMES:END -->
 
 --- 
 
