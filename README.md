@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I just upgraded my parents’ phones and this is how I set them up to be foolproof](https://www.androidauthority.com/set-up-parents-new-android-phones-3392788/)
- - [Brazilian Gamers Aren&#39;t Waiting for Hollywood. They&#39;re Building Their Own Cons](https://www.wired.com/story/brazil-games-fandom-perifacon/)
- - [5 Best Food Processors and Choppers &lpar;2023&rpar;](https://www.wired.com/gallery/best-food-processors/)<!-- TECH:END -->
+ - [How to protect yourself from QR code scams](https://appleinsider.com/articles/23/12/27/how-to-protect-yourself-from-qr-code-scams?utm_medium=rss)
+ - [Microsoft quietly brings Copilot AI assistant app to Android](https://www.androidauthority.com/microsoft-copilot-on-android-3397909/)
+ - [Apple&#39;s M3 Pro MacBook Pro with 36GB RAM drops to record-low $1,999](https://appleinsider.com/articles/23/12/27/apples-m3-pro-macbook-pro-with-36gb-ram-drops-to-record-low-1999?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
