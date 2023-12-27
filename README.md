@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Dec. 27: 24-inch iMac $899, MacBook Pro from $849, 30% off Plex, 50% off Mophie 3-in-1 Charging Pad, more](https://appleinsider.com/articles/23/12/27/daily-deals-dec-27-24-inch-imac-899-macbook-pro-from-849-30-off-plex-50-off-mophie-3-in-1-charging-pad-more?utm_medium=rss)
- - [US Apple Watch sales and import ban: What you need to know](https://appleinsider.com/articles/23/11/06/an-apple-watch-sales-ban-may-be-coming----everything-you-need-to-know?utm_medium=rss)
- - [US Apple Watch import ban is on hold, for now](https://appleinsider.com/articles/23/12/27/us-apple-watch-import-ban-is-on-hold-for-now?utm_medium=rss)<!-- TECH:END -->
+ - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_medium=rss)
+ - [What If…? season 2 doesn’t get good until it really lets loose](https://www.theverge.com/24015321/marvel-what-if-season-2-kahhori-captain-carter)
+ - [New York Times sues Microsoft and OpenAI for training AI on its articles](https://www.androidauthority.com/microsoft-openai-nyt-lawsuit-3397947/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
