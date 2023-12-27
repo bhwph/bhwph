@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Winter Holiday 2023 event guide](https://www.polygon.com/pokemon-go-guide/2023/12/18/24006193/winter-holiday-2023-event-timed-research-paid-ticket-cetoddle)
- - [The best TV episodes of 2023](https://www.polygon.com/23994141/best-tv-episodes-2023)
- - [We&#39;ve only just recovered from 2023&#39;s wild release schedule, and now the first few weeks of 2024 are going to hit us in the face with even more games](https://www.pcgamer.com/weve-only-just-recovered-from-2023s-wild-release-schedule-and-now-the-first-few-weeks-of-2024-are-going-to-hit-us-in-the-face-with-even-more-games)<!-- GAME:END -->
+ - [We should be getting a new Muppet Christmas Carol-alike every year](https://www.polygon.com/24012791/muppet-christmas-carol-new-muppet-movie)
+ - [These were the biggest games on Steam &lpar;and Steam Deck&rpar; in 2023](https://www.polygon.com/24012749/steam-top-sellers-2023-deck-most-played-games)
+ - [Genshin Impact ‘Into the Frame’ solutions and event guide](https://www.polygon.com/genshin-impact-guides/24016399/into-the-frame-event-solution-roses-and-muskets)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
