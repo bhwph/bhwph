@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hmmmm interesting.](http://9gag.com/gag/aOxMm03)
- - 😝 [All a matter of perspective](http://9gag.com/gag/a9qxPLZ)
- - 👉 [Wait a min..](http://9gag.com/gag/aQELn62)<!-- MEMES:END -->
+ - 6️⃣ [How dare you follow the law](http://9gag.com/gag/aL1ZBQ6)
+ - 😝 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
+ - 👉 [Avian Terminology...](http://9gag.com/gag/abvN50O)<!-- MEMES:END -->
 
 --- 
 
