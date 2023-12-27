@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to protect yourself from QR code scams](https://appleinsider.com/articles/23/12/27/how-to-protect-yourself-from-qr-code-scams?utm_medium=rss)
- - [Microsoft quietly brings Copilot AI assistant app to Android](https://www.androidauthority.com/microsoft-copilot-on-android-3397909/)
- - [Apple&#39;s M3 Pro MacBook Pro with 36GB RAM drops to record-low $1,999](https://appleinsider.com/articles/23/12/27/apples-m3-pro-macbook-pro-with-36gb-ram-drops-to-record-low-1999?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Dec. 27: 24-inch iMac $899, MacBook Pro from $849, 30% off Plex, 50% off Mophie 3-in-1 Charging Pad, more](https://appleinsider.com/articles/23/12/27/daily-deals-dec-27-24-inch-imac-899-macbook-pro-from-849-30-off-plex-50-off-mophie-3-in-1-charging-pad-more?utm_medium=rss)
+ - [US Apple Watch sales and import ban: What you need to know](https://appleinsider.com/articles/23/11/06/an-apple-watch-sales-ban-may-be-coming----everything-you-need-to-know?utm_medium=rss)
+ - [US Apple Watch import ban is on hold, for now](https://appleinsider.com/articles/23/12/27/us-apple-watch-import-ban-is-on-hold-for-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
