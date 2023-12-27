@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hear me out](http://9gag.com/gag/awZE79R)
- - 😝 [SANTA!](http://9gag.com/gag/adPGNBV)
- - 👉 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)<!-- MEMES:END -->
+ - 6️⃣ [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
+ - 😝 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
+ - 👉 [How dare you follow the law](http://9gag.com/gag/aL1ZBQ6)<!-- MEMES:END -->
 
 --- 
 
