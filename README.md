@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 10 best action scenes of 2023](https://www.polygon.com/entertainment/24002690/best-action-fight-scenes-2023-movies-tv)
- - [The Steam Deck Crushed It In 2023](https://kotaku.com/steam-deck-valve-2023-2024-games-oled-1851126694)
- - [2024 Is Starting Out With An Avalanche Of Video Games](https://kotaku.com/2024-game-releases-tekken-final-fantasy-7-suicide-squad-1851126639)<!-- GAME:END -->
+ - [January&#39;s PS Plus Games Bring B-Movie Thrills, Plague-Ridden Chills](https://kotaku.com/ps-plus-games-january-2024-plague-tale-1851127104)
+ - [Lord Of The Rings Moneyball Is the Perfect Meme To End 2023](https://kotaku.com/lord-rings-moneyball-memes-streaming-1851127017)
+ - [If Rebel Moon 2 is just the ending of Rebel Moon 1 could Rebel Moon turn out OK?](https://www.polygon.com/24016804/rebel-moon-2-trailer-scargiver-netflix-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
