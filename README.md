@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: The best CPUs of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-cpus-of-2023)
- - [Wordle today: Hint and answer #921 for Wednesday, December 27](https://www.pcgamer.com/wordle-today-answer-921-december-27)
- - [User Needed One More Steam Point To Hit 69,000 And Valve Delivered](https://kotaku.com/valve-steam-points-gift-one-69-000-nice-number-miracle-1851125133)<!-- GAME:END -->
+ - [Best Adventure 2023: Star Wars Jedi – Survivor](https://www.pcgamer.com/best-adventure-2023-star-wars-jedi-survivor)
+ - [In the year Doom turned 30, nothing better captured the endless imagination and creativity of its mod scene than Myhouse.wad](https://www.pcgamer.com/in-the-year-doom-turned-30-nothing-better-captured-the-endless-imagination-and-creativity-of-its-mod-scene-than-myhousewad)
+ - [Hang on, because the cozy games trend hasn&#39;t even peaked yet](https://www.pcgamer.com/hang-on-because-the-cozy-games-trend-hasnt-even-peaked-yet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
