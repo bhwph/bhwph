@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How dare you follow the law](http://9gag.com/gag/aL1ZBQ6)
- - 😝 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
- - 👉 [Avian Terminology...](http://9gag.com/gag/abvN50O)<!-- MEMES:END -->
+ - 6️⃣ [Screensaver prank goes sideways](http://9gag.com/gag/aoKvZZe)
+ - 😝 [Hear me out](http://9gag.com/gag/awZE79R)
+ - 👉 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)<!-- MEMES:END -->
 
 --- 
 
