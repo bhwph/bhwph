@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 😝 [Screensaver prank goes sideways](http://9gag.com/gag/aoKvZZe)
- - 👉 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)<!-- MEMES:END -->
+ - 6️⃣ [Hear me out](http://9gag.com/gag/awZE79R)
+ - 😝 [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 👉 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)<!-- MEMES:END -->
 
 --- 
 
