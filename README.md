@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
- - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 6️⃣ [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - 😝 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
  - 👉 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)<!-- MEMES:END -->
 
 --- 
