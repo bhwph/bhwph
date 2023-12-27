@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2023 was the year I got fed up with seeing those &#39;early access&#39; deluxe editions where you pay more to play the game a few days early](https://www.pcgamer.com/2023-was-the-year-i-got-fed-up-with-seeing-those-early-access-deluxe-editions-where-you-pay-more-to-play-the-game-a-few-days-early)
- - [Alan Wake 2, Zelda: TotK, And More Creative Triumphs: Carolyn Petit’s Top Games Of 2023](https://kotaku.com/alan-wake-2-zelda-totk-2023-best-games-1851124138)
- - [Netflix teen shows are trying to let ace characters come out and explain themselves](https://www.polygon.com/24012511/asexual-representation-sex-education-everything-now-heartstopper-tv)<!-- GAME:END -->
+ - [User Needed One More Steam Point To Hit 69,000 And Valve Delivered](https://kotaku.com/valve-steam-points-gift-one-69-000-nice-number-miracle-1851125133)
+ - [28 Things I Wish I Knew Before I Started Playing Starfield](https://kotaku.com/starfield-tips-guide-xbox-money-fast-travel-map-traits-1850798018)
+ - [The 17 Best Games For Sony&#39;s PlayStation 5](https://kotaku.com/the-best-games-for-the-playstation-5-1845726626)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
