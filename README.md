@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Screensaver prank goes sideways](http://9gag.com/gag/aoKvZZe)
- - 😝 [Hear me out](http://9gag.com/gag/awZE79R)
- - 👉 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)<!-- MEMES:END -->
+ - 6️⃣ [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
+ - 😝 [A good way to handle the leftist pronoun snowflakes](http://9gag.com/gag/aeQnpyj)
+ - 👉 [Not.one.single.one](http://9gag.com/gag/aMEoQbR)<!-- MEMES:END -->
 
 --- 
 
