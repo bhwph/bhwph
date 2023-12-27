@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_medium=rss)
- - [What If…? season 2 doesn’t get good until it really lets loose](https://www.theverge.com/24015321/marvel-what-if-season-2-kahhori-captain-carter)
- - [New York Times sues Microsoft and OpenAI for training AI on its articles](https://www.androidauthority.com/microsoft-openai-nyt-lawsuit-3397947/)<!-- TECH:END -->
+ - [Study: social media companies collectively made ~$11B in US ad revenue from minors in 2022; YouTube earned the most at $959.1M from users 12 and under &lpar;Associated Press&rpar;](http://www.techmeme.com/231227/p21#a231227p21)
+ - [What is Conversational AI and how does it work?](https://www.androidauthority.com/what-is-conversational-ai-3397912/)
+ - [Protect Your Amazon Echo: Don&#39;t Place Your Device in These High-Risk Areas     - CNET](https://www.cnet.com/home/smart-home/protect-your-amazon-echo-dont-place-your-device-in-these-high-risk-areas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
