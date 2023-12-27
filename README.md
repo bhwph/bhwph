@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Video will show ads in 2024 unless you’re willing to pay more](https://www.androidauthority.com/amazon-prime-video-ads-unless-pay-ad-free-3397788/)
- - [Hollywood unions resisting AI being used to recreate actors&#39; performances sets a precedent for future labor movements on how to push back against automation &lpar;Angela Watercutter/Wired&rpar;](http://www.techmeme.com/231227/p6#a231227p6)
- - [After over a year of testing, South Korean internet giant Naver plans to let companies use its Rookie office helper robots that can deliver meals and parcels &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/231227/p5#a231227p5)<!-- TECH:END -->
+ - [OnePlus Open gets its first Android 14 beta with Oxygen OS 14](https://www.androidauthority.com/oneplus-open-first-android-14-beta-oxygen-os-3397822/)
+ - [Amazon Prime Video plans to start showing ads starting on January 29, with an option for customers to pay an additional $2.99 per month to avoid the ads &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231227/p7#a231227p7)
+ - [New leak sheds light on the Nothing Phone 2a’s camera specs and availability](https://www.androidauthority.com/nothing-phone-2a-camera-specs-availability-leak-3397811/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
