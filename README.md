@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hear me out](http://9gag.com/gag/awZE79R)
- - 😝 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
- - 👉 [Grab the bat](http://9gag.com/gag/a04rPBv)<!-- MEMES:END -->
+ - 6️⃣ [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
+ - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 👉 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)<!-- MEMES:END -->
 
 --- 
 
