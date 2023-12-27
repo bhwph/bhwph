@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait a min..](http://9gag.com/gag/aQELn62)
- - 😝 [Hmmmm interesting.](http://9gag.com/gag/aOxMm03)
+ - 6️⃣ [Hmmmm interesting.](http://9gag.com/gag/aOxMm03)
+ - 😝 [Wait a min..](http://9gag.com/gag/aQELn62)
  - 👉 [All a matter of perspective](http://9gag.com/gag/a9qxPLZ)<!-- MEMES:END -->
 
 --- 
