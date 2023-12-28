@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Most Dangerous People on the Internet in 2023](https://www.wired.com/story/most-dangerous-people-2023/)
- - [Video Game Adaptations Could Keep Beating Marvel at the Box Office in 2024](https://www.wired.com/story/video-game-adaptations-overtake-superheroes/)
- - [Generative AI is repeating all of Web 2.0’s mistakes](https://www.wired.com/story/generative-ai-web-2-mistakes/)<!-- TECH:END -->
+ - [Apple Vision Pro 2 rumored to get brighter displays in 2027](https://appleinsider.com/articles/23/12/28/apple-vision-pro-2-could-get-brighter-rgb-oledos-displays?utm_medium=rss)
+ - [How to pair a new Apple TV remote](https://appleinsider.com/inside/apple-tv/tips/how-to-pair-a-new-apple-tv-remote?utm_medium=rss)
+ - [Affirm stock grew 430% in 2023, outperforming all US tech companies worth $5B+ and rebounding from 2022&#39;s 90% fall, thanks to partnerships with Amazon, others &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231228/p8#a231228p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
