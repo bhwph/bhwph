@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Life goals!](http://9gag.com/gag/ap94L7b)
- - 😝 [For you..](http://9gag.com/gag/aL1Z2LP)
- - 👉 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)<!-- MEMES:END -->
+ - 6️⃣ [For you..](http://9gag.com/gag/aL1Z2LP)
+ - 😝 [She found herself a new ride...](http://9gag.com/gag/a7qYZ4q)
+ - 👉 [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)<!-- MEMES:END -->
 
 --- 
 
