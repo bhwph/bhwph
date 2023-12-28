@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Story 2023: Alan Wake 2](https://www.pcgamer.com/best-story-2023-alan-wake-2)
- - [Counter-Strike 2 just remade my favourite game from the ground-up for free and let me keep my fancy AK-47, so of course it&#39;s the true GOTY](https://www.pcgamer.com/counter-strike-2-just-remade-my-favourite-game-from-the-ground-up-for-free-and-let-me-keep-my-fancy-ak-47-so-of-course-its-the-true-goty)
- - [2023&#39;s second-best RPG about people who are too horny for their own good was Thirsty Suitors](https://www.pcgamer.com/2023s-second-best-rpg-about-people-who-are-too-horny-for-their-own-good-was-thirsty-suitors)<!-- GAME:END -->
+ - [Pokémon Concierge is my Chicken Soup for the Soul](https://www.polygon.com/24009728/pokemon-concierge-netflix-animation-review-new-show)
+ - [Build your own bundle of great Steam games, starting at $14.99](https://www.polygon.com/deals/24017543/steam-game-bundle-death-stranding-control-ace-attorney-deal-sale-fanatical)
+ - [Xbox Slammed For AI-Generated Art Promoting Indie Games](https://kotaku.com/xbox-microsoft-xbox-ai-generated-1851128191)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
