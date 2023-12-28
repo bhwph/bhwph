@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 2a price range leaks, and it looks to be very wallet-friendly](https://www.androidauthority.com/nothing-phone-2a-price-3398189/)
- - [Apple submitted a software workaround that could let it sell noninfringing Apple Watch versions as soon as January 12, as the company appeals the ITC ban &lpar;Christopher Yasiejko/Bloomberg&rpar;](http://www.techmeme.com/231228/p10#a231228p10)
- - [Apple Watch now fully available online and in-store after import ban stay](https://appleinsider.com/articles/23/12/28/apple-watch-now-fully-available-online-and-in-store-after-import-ban-stay?utm_medium=rss)<!-- TECH:END -->
+ - [OnePlus’ first mechanical keyboard is on sale today for $40 off](https://www.theverge.com/2023/12/28/24016560/one-plus-mechanical-keyboard-81-pro-apple-pencil-echo-buds-deal-sale)
+ - [Still time to grab the Moto G Play 2023 at just $99.99 &lpar;$70 off&rpar;](https://www.androidauthority.com/motorola-moto-g-play-2023-deal-3398233/)
+ - [Nvidia launches the GeForce RTX 4090 D in China, featuring ~10% fewer processing cores than the 4090 sold in other countries, to comply with US export controls &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231228/p13#a231228p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
