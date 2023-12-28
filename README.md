@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi unveils its first EV, SU7, and says it wants to become a top global carmaker in 15 to 20 years; CEO Lei Jun calls it his final entrepreneurial bet &lpar;Bloomberg&rpar;](http://www.techmeme.com/231228/p4#a231228p4)
- - [Jony Ive’s potential AI Phone project hires iPhone Design Chief](https://www.androidauthority.com/jony-ive-potential-ai-phone-project-hires-iphone-design-chief-3398086/)
- - [Samsung’s upcoming battery protection feature actually exists on One UI 6](https://www.androidauthority.com/samsung-advanced-battery-protection-one-ui-6-3398076/)<!-- TECH:END -->
+ - [The Most Dangerous People on the Internet in 2023](https://www.wired.com/story/most-dangerous-people-2023/)
+ - [Video Game Adaptations Could Keep Beating Marvel at the Box Office in 2024](https://www.wired.com/story/video-game-adaptations-overtake-superheroes/)
+ - [Generative AI is repeating all of Web 2.0’s mistakes](https://www.wired.com/story/generative-ai-web-2-mistakes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
