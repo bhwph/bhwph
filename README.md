@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Concierge is my Chicken Soup for the Soul](https://www.polygon.com/24009728/pokemon-concierge-netflix-animation-review-new-show)
- - [Build your own bundle of great Steam games, starting at $14.99](https://www.polygon.com/deals/24017543/steam-game-bundle-death-stranding-control-ace-attorney-deal-sale-fanatical)
- - [Xbox Slammed For AI-Generated Art Promoting Indie Games](https://kotaku.com/xbox-microsoft-xbox-ai-generated-1851128191)<!-- GAME:END -->
+ - [The Best RPGs Of 2023](https://kotaku.com/best-rpgs-2023-jrpg-baldur-s-gate-3-octopath-traveler-2-1851128706)
+ - [Escape From Tarkov adds Ground Zero, a dense urban area](https://www.pcgamer.com/escape-from-tarkov-adds-ground-zero-a-dense-urban-area)
+ - [The best horror movies of 2023, ranked by scariness](https://www.polygon.com/23640102/best-horror-movies-2023-how-scary)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
