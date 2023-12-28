@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
- - 😝 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)
+ - 6️⃣ [Things were seen, decisions were regretted](http://9gag.com/gag/aREbV9q)
+ - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
  - 👉 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)<!-- MEMES:END -->
 
 --- 
