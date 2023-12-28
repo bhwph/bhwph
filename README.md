@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus’ first mechanical keyboard is on sale today for $40 off](https://www.theverge.com/2023/12/28/24016560/one-plus-mechanical-keyboard-81-pro-apple-pencil-echo-buds-deal-sale)
- - [Still time to grab the Moto G Play 2023 at just $99.99 &lpar;$70 off&rpar;](https://www.androidauthority.com/motorola-moto-g-play-2023-deal-3398233/)
- - [Nvidia launches the GeForce RTX 4090 D in China, featuring ~10% fewer processing cores than the 4090 sold in other countries, to comply with US export controls &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231228/p13#a231228p13)<!-- TECH:END -->
+ - [Apple&#39;s new M3 Pro MacBook Pro just scored a $300 price drop](https://appleinsider.com/articles/23/12/28/apples-new-m3-pro-macbook-pro-just-scored-a-300-price-drop?utm_medium=rss)
+ - [Apple still pursuing software fix to avoid Apple Watch import ban altogether](https://appleinsider.com/articles/23/12/28/apple-still-pursuing-software-fix-to-avoid-apple-watch-import-ban-altogether?utm_medium=rss)
+ - [Surface Pro 10 wishlist: All the features I want to see](https://www.androidauthority.com/microsoft-surface-pro-10-3357886/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
