@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tiny Rogues feels like someone stuffed Brotato and Binding of Isaac into a fantasy shell](https://www.pcgamer.com/tiny-rogues-feels-like-someone-stuffed-brotato-and-binding-of-isaac-into-a-fantasy-shell)
  - [January&#39;s PS Plus Games Bring B-Movie Thrills, Plague-Ridden Chills](https://kotaku.com/ps-plus-games-january-2024-plague-tale-1851127104)
- - [Lord Of The Rings Moneyball Is the Perfect Meme To End 2023](https://kotaku.com/lord-rings-moneyball-memes-streaming-1851127017)
- - [If Rebel Moon 2 is just the ending of Rebel Moon 1 could Rebel Moon turn out OK?](https://www.polygon.com/24016804/rebel-moon-2-trailer-scargiver-netflix-release)<!-- GAME:END -->
+ - [Lord Of The Rings Moneyball Is the Perfect Meme To End 2023](https://kotaku.com/lord-rings-moneyball-memes-streaming-1851127017)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
