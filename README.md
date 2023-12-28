@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Clutch](http://9gag.com/gag/a2K3mMD)
- - 😝 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)
- - 👉 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)<!-- MEMES:END -->
+ - 6️⃣ [This post contain adult gifs in the comments section, here we go..](http://9gag.com/gag/aeQnYVj)
+ - 😝 [Things were seen, decisions were regretted](http://9gag.com/gag/aREbV9q)
+ - 👉 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)<!-- MEMES:END -->
 
 --- 
 
