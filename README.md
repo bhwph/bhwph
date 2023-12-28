@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro 2 rumored to get brighter displays in 2027](https://appleinsider.com/articles/23/12/28/apple-vision-pro-2-could-get-brighter-rgb-oledos-displays?utm_medium=rss)
- - [How to pair a new Apple TV remote](https://appleinsider.com/inside/apple-tv/tips/how-to-pair-a-new-apple-tv-remote?utm_medium=rss)
- - [Affirm stock grew 430% in 2023, outperforming all US tech companies worth $5B+ and rebounding from 2022&#39;s 90% fall, thanks to partnerships with Amazon, others &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231228/p8#a231228p8)<!-- TECH:END -->
+ - [Nothing Phone 2a price range leaks, and it looks to be very wallet-friendly](https://www.androidauthority.com/nothing-phone-2a-price-3398189/)
+ - [Apple submitted a software workaround that could let it sell noninfringing Apple Watch versions as soon as January 12, as the company appeals the ITC ban &lpar;Christopher Yasiejko/Bloomberg&rpar;](http://www.techmeme.com/231228/p10#a231228p10)
+ - [Apple Watch now fully available online and in-store after import ban stay](https://appleinsider.com/articles/23/12/28/apple-watch-now-fully-available-online-and-in-store-after-import-ban-stay?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
