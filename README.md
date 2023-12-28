@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Life goals!](http://9gag.com/gag/ap94L7b)
- - 😝 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
- - 👉 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)<!-- MEMES:END -->
+ - 😝 [For you..](http://9gag.com/gag/aL1Z2LP)
+ - 👉 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)<!-- MEMES:END -->
 
 --- 
 
