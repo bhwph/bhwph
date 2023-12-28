@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #922 for Thursday, December 28](https://www.pcgamer.com/wordle-today-answer-922-december-28)
- - [Tiny Rogues feels like someone stuffed Brotato and Binding of Isaac into a fantasy shell](https://www.pcgamer.com/tiny-rogues-feels-like-someone-stuffed-brotato-and-binding-of-isaac-into-a-fantasy-shell)
- - [January&#39;s PS Plus Games Bring B-Movie Thrills, Plague-Ridden Chills](https://kotaku.com/ps-plus-games-january-2024-plague-tale-1851127104)<!-- GAME:END -->
+ - [After 2023, I&#39;ve had my fill of 100+ hour sprawling mega-games for a while](https://www.pcgamer.com/after-2023-ive-had-my-fill-of-100-hour-sprawling-mega-games-for-a-while)
+ - [PC Gamer Hardware Awards: The best SSDs of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-ssds-of-2023)
+ - [Every Pokémon that makes an appearance in Pokémon Concierge](https://www.polygon.com/pokemon/24011390/every-pokemon-in-concierge-psyduck-magikarp-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
