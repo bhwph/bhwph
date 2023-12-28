@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 😝 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
- - 👉 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)<!-- MEMES:END -->
+ - 6️⃣ [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
+ - 😝 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)
+ - 👉 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)<!-- MEMES:END -->
 
 --- 
 
