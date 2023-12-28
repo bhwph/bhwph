@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new M3 Pro MacBook Pro just scored a $300 price drop](https://appleinsider.com/articles/23/12/28/apples-new-m3-pro-macbook-pro-just-scored-a-300-price-drop?utm_medium=rss)
- - [Apple still pursuing software fix to avoid Apple Watch import ban altogether](https://appleinsider.com/articles/23/12/28/apple-still-pursuing-software-fix-to-avoid-apple-watch-import-ban-altogether?utm_medium=rss)
- - [Surface Pro 10 wishlist: All the features I want to see](https://www.androidauthority.com/microsoft-surface-pro-10-3357886/)<!-- TECH:END -->
+ - [The New York Times&#39; lawsuit against OpenAI and Microsoft relies on a false belief that copyright can limit the right to read and process data &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/231228/p17#a231228p17)
+ - [Filing: Google agrees to settle a 2020 lawsuit that accused Google of tracking activity in Chrome&#39;s incognito mode and tying it to users&#39; profiles &lpar;Eric Bangeman/Ars Technica&rpar;](http://www.techmeme.com/231228/p16#a231228p16)
+ - [Hey Alexa, quit it with the bootleg Viagra, says the FDA](https://www.theverge.com/2023/12/28/24017935/fda-warns-amazon-fake-supplements-viagra-cialis-erectile-dysfunction-drugs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
