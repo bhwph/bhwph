@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Things were seen, decisions were regretted](http://9gag.com/gag/aREbV9q)
- - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 👉 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)<!-- MEMES:END -->
+ - 6️⃣ [Clutch](http://9gag.com/gag/a2K3mMD)
+ - 😝 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)
+ - 👉 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)<!-- MEMES:END -->
 
 --- 
 
