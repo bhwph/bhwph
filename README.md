@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [For you..](http://9gag.com/gag/aL1Z2LP)
- - 😝 [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)
- - 👉 [Teach by example.](http://9gag.com/gag/aDYKWbw)<!-- MEMES:END -->
+ - 6️⃣ [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
+ - 😝 [Best day ever.](http://9gag.com/gag/aPgEDQV)
+ - 👉 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)<!-- MEMES:END -->
 
 --- 
 
