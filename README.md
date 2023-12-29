@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IVC: Israeli startups raised ~$1.5B in Q4 2023, down 15% QoQ, despite increased foreign investor participation, and ~$7B in all of 2023, vs. nearly $16B in 2022 &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/231229/p6#a231229p6)
- - [The 10 Best TV Shows of 2023—and Where to Watch Them](https://www.wired.com/story/best-tv-shows-of-2023/)
- - [Your Eco-Friendly Lifestyle Is a Big Lie](https://www.wired.com/story/eco-friendly-myth/)<!-- TECH:END -->
+ - [Rising star Luxshare secures major stake in Pegatron&#39;s iPhone factory](https://appleinsider.com/articles/23/12/29/rising-star-luxshare-secures-major-stake-in-pegatrons-iphone-factory?utm_medium=rss)
+ - [Apple Watch Series 9 review three months later: Don&#39;t buy it for Double Tap](https://appleinsider.com/articles/23/12/29/apple-watch-series-9-review-three-months-later-dont-buy-it-for-double-tap?utm_medium=rss)
+ - [The best shows on Max in 2023](https://www.theverge.com/24003340/max-best-shows-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
