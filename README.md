@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
- - 😝 [Best day ever.](http://9gag.com/gag/aPgEDQV)
- - 👉 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)<!-- MEMES:END -->
+ - 6️⃣ [She found herself a new ride...](http://9gag.com/gag/a7qYZ4q)
+ - 😝 [Delta Employee Gives Perfect Response To Pronoun Warrior](http://9gag.com/gag/aNw7A1v)
+ - 👉 [Ugly](http://9gag.com/gag/aGEm16w)<!-- MEMES:END -->
 
 --- 
 
