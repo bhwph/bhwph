@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At just $325, the Samsung Galaxy A54 5G has never been cheaper](https://www.androidauthority.com/samsung-galaxy-a54-deal-3398643/)
- - [The fourth-gen Echo and latest Echo Show 8 are up to 50 percent off](https://www.theverge.com/2023/12/29/24017751/amazon-echo-show-8-oneplus-mechanical-keyboard-81-pro-apple-ipad-deal-sale)
- - [The hottest &lpar;and coldest&rpar; smartphones of 2023, as voted by Android Authority readers](https://www.androidauthority.com/hottest-coldest-smartphones-2023-3398144/)<!-- TECH:END -->
+ - [Slide into the New Year with up to $950 in savings on Apple computers](https://appleinsider.com/articles/23/12/29/slide-into-the-new-year-with-up-to-950-in-savings-on-apple-computers?utm_medium=rss)
+ - [Sources: US intelligence officials determined that the Chinese spy balloon that flew across the US in February 2023 used a US internet provider to communicate &lpar;NBC News&rpar;](http://www.techmeme.com/231229/p14#a231229p14)
+ - [Nvidia is releasing a slower RTX 4090 in China to comply with US restrictions](https://www.theverge.com/2023/12/29/24018799/nvidia-4090d-china-slower-us-sanctions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
