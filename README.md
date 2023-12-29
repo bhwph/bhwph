@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - 👉 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)<!-- MEMES:END -->
+ - 6️⃣ [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 😝 [Best day ever.](http://9gag.com/gag/aPgEDQV)
+ - 👉 [That escalated quickly](http://9gag.com/gag/axoLjP1)<!-- MEMES:END -->
 
 --- 
 
