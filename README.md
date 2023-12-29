@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Reasons why I love Warhammer 40,000: Boltgun—you are Space Marine, Space Marine go stomp, chaos men explode](https://www.pcgamer.com/reasons-why-i-love-warhammer-40000-boltgunyou-are-space-marine-space-marine-go-stomp-chaos-men-explode)
- - [Anime finance sim Stonks-9800 is the best game you didn&#39;t play this year](https://www.pcgamer.com/anime-finance-sim-stonks-9800-is-the-best-game-you-didnt-play-this-year)
- - [Best Expansion 2023: Cyberpunk 2077 – Phantom Liberty](https://www.pcgamer.com/best-expansion-2023-cyberpunk-2077-phantom-liberty)<!-- GAME:END -->
+ - [I played 20 city builders in 2023, and these are the 4 I loved most](https://www.pcgamer.com/i-played-20-city-builders-in-2023-and-these-are-the-4-i-loved-most)
+ - [8 underappreciated games of 2023 that we think deserve way more players](https://www.pcgamer.com/8-underappreciated-games-of-2023-that-we-think-deserve-way-more-players)
+ - [Mickey Mouse really enters the public domain in 2024](https://www.polygon.com/24011348/public-domain-2024-mickey-mouse-disney)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
