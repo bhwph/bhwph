@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slide into the New Year with up to $950 in savings on Apple computers](https://appleinsider.com/articles/23/12/29/slide-into-the-new-year-with-up-to-950-in-savings-on-apple-computers?utm_medium=rss)
- - [Sources: US intelligence officials determined that the Chinese spy balloon that flew across the US in February 2023 used a US internet provider to communicate &lpar;NBC News&rpar;](http://www.techmeme.com/231229/p14#a231229p14)
- - [Nvidia is releasing a slower RTX 4090 in China to comply with US restrictions](https://www.theverge.com/2023/12/29/24018799/nvidia-4090d-china-slower-us-sanctions)<!-- TECH:END -->
+ - [Sources: BuzzFeed is close to selling most of Complex Networks to livestream shopping startup Ntwrk for ~$100M, far below what Jonah Peretti originally sought &lpar;The Information&rpar;](http://www.techmeme.com/231229/p17#a231229p17)
+ - [The 30 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
+ - [The 15 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
