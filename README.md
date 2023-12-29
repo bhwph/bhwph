@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JD.com says a Beijing court fined Alibaba ~$141M after finding that Alibaba&#39;s Tmall adopted monopolistic practices known as &quot;choosing one from two&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231229/p4#a231229p4)
- - [Financial Intelligence Unit India &lpar;FIU IND&rpar; issues compliance Show Cause Notices to nine offshore Virtual Digital Assets Service Providers &lpar;VDA SPs&rpar; &lpar;Press Information Bureau&rpar;](http://www.techmeme.com/231229/p3#a231229p3)
- - [You won’t need a Samsung phone to benefit from Galaxy S24’s AI call translation](https://www.androidauthority.com/samsung-galaxy-s24-ai-live-translate-call-details-3398446/)<!-- TECH:END -->
+ - [IVC: Israeli startups raised ~$1.5B in Q4 2023, down 15% QoQ, despite increased foreign investor participation, and ~$7B in all of 2023, vs. nearly $16B in 2022 &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/231229/p6#a231229p6)
+ - [The 10 Best TV Shows of 2023—and Where to Watch Them](https://www.wired.com/story/best-tv-shows-of-2023/)
+ - [Your Eco-Friendly Lifestyle Is a Big Lie](https://www.wired.com/story/eco-friendly-myth/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
