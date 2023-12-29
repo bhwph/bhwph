@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Welcome to Kevin Spaceys TED Talk](http://9gag.com/gag/a5XOrdg)
- - 😝 [Life goals!](http://9gag.com/gag/ap94L7b)
- - 👉 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)<!-- MEMES:END -->
+ - 6️⃣ [RIP trevor](http://9gag.com/gag/az2W8NZ)
+ - 😝 [Yeah....if you know, you know.](http://9gag.com/gag/armQgmy)
+ - 👉 [Indonesian citizenss are fed up with illegal immigrants and decide to do about it themselves...](http://9gag.com/gag/agoDXgK)<!-- MEMES:END -->
 
 --- 
 
