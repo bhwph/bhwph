@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - 😝 [Best day ever.](http://9gag.com/gag/aPgEDQV)
- - 👉 [That escalated quickly](http://9gag.com/gag/axoLjP1)<!-- MEMES:END -->
+ - 6️⃣ [Feminist baiting Snoop Dogg be like](http://9gag.com/gag/ap94rWb)
+ - 😝 [How?](http://9gag.com/gag/aREbjEB)
+ - 👉 [Audacity](http://9gag.com/gag/avQM7z5)<!-- MEMES:END -->
 
 --- 
 
