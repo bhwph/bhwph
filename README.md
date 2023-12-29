@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She found herself a new ride...](http://9gag.com/gag/a7qYZ4q)
- - 😝 [Delta Employee Gives Perfect Response To Pronoun Warrior](http://9gag.com/gag/aNw7A1v)
- - 👉 [Ugly](http://9gag.com/gag/aGEm16w)<!-- MEMES:END -->
+ - 6️⃣ [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
+ - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 👉 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)<!-- MEMES:END -->
 
 --- 
 
