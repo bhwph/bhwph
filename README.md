@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [RIP trevor](http://9gag.com/gag/az2W8NZ)
- - 😝 [Yeah....if you know, you know.](http://9gag.com/gag/armQgmy)
- - 👉 [Indonesian citizenss are fed up with illegal immigrants and decide to do about it themselves...](http://9gag.com/gag/agoDXgK)<!-- MEMES:END -->
+ - 6️⃣ [Somebody\u2019s gonna have a good time](http://9gag.com/gag/aeQnbem)
+ - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 👉 [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)<!-- MEMES:END -->
 
 --- 
 
