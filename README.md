@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - 😝 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
- - 👉 [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)<!-- MEMES:END -->
+ - 😝 [Best day ever.](http://9gag.com/gag/aPgEDQV)
+ - 👉 [That escalated quickly](http://9gag.com/gag/axoLjP1)<!-- MEMES:END -->
 
 --- 
 
