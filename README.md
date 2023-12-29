@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Somebody\u2019s gonna have a good time](http://9gag.com/gag/aeQnbem)
- - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 👉 [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)<!-- MEMES:END -->
+ - 6️⃣ [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
+ - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 👉 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)<!-- MEMES:END -->
 
 --- 
 
