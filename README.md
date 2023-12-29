@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The New York Times&#39; lawsuit against OpenAI and Microsoft relies on a false belief that copyright can limit the right to read and process data &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/231228/p17#a231228p17)
- - [Filing: Google agrees to settle a 2020 lawsuit that accused Google of tracking activity in Chrome&#39;s incognito mode and tying it to users&#39; profiles &lpar;Eric Bangeman/Ars Technica&rpar;](http://www.techmeme.com/231228/p16#a231228p16)
- - [Hey Alexa, quit it with the bootleg Viagra, says the FDA](https://www.theverge.com/2023/12/28/24017935/fda-warns-amazon-fake-supplements-viagra-cialis-erectile-dysfunction-drugs)<!-- TECH:END -->
+ - [A US judge sides with the SEC, ruling that Terraform is liable for offering and selling unregistered securities, but dismisses SEC&#39;s security-based swap claims &lpar;Reuters&rpar;](http://www.techmeme.com/231228/p20#a231228p20)
+ - [Score 3 months of Boost Mobile for only $44.99](https://www.androidauthority.com/boost-mobile-3-month-sim-kit-3398363/)
+ - [Vitalik Buterin proposes requiring only 8,192 validator signatures to make Ethereum&#39;s proof-of-stake &quot;simpler and lighter&quot;; ETH currently has ~895K validators &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/231228/p19#a231228p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
