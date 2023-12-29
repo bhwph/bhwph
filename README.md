@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: The best gaming headsets of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-headsets-of-2023)
- - [Wordle today: Hint and answer #923 for Friday, December 29](https://www.pcgamer.com/wordle-today-answer-923-december-29)
- - [Curious little turn-based medieval strategy game Rising Lords musters for a January release](https://www.pcgamer.com/curious-little-turn-based-medieval-strategy-game-rising-lords-musters-for-a-january-release)<!-- GAME:END -->
+ - [Reasons why I love Warhammer 40,000: Boltgun—you are Space Marine, Space Marine go stomp, chaos men explode](https://www.pcgamer.com/reasons-why-i-love-warhammer-40000-boltgunyou-are-space-marine-space-marine-go-stomp-chaos-men-explode)
+ - [Anime finance sim Stonks-9800 is the best game you didn&#39;t play this year](https://www.pcgamer.com/anime-finance-sim-stonks-9800-is-the-best-game-you-didnt-play-this-year)
+ - [Best Expansion 2023: Cyberpunk 2077 – Phantom Liberty](https://www.pcgamer.com/best-expansion-2023-cyberpunk-2077-phantom-liberty)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
