@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Feminist baiting Snoop Dogg be like](http://9gag.com/gag/ap94rWb)
- - 😝 [How?](http://9gag.com/gag/aREbjEB)
- - 👉 [Audacity](http://9gag.com/gag/avQM7z5)<!-- MEMES:END -->
+ - 6️⃣ [Welcome to Kevin Spaceys TED Talk](http://9gag.com/gag/a5XOrdg)
+ - 😝 [Life goals!](http://9gag.com/gag/ap94L7b)
+ - 👉 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)<!-- MEMES:END -->
 
 --- 
 
