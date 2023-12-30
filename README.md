@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
- - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 👉 [Teach by example.](http://9gag.com/gag/aDYKWbw)<!-- MEMES:END -->
+ - 6️⃣ [That was real quick...](http://9gag.com/gag/aGEmjBz)
+ - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 👉 [Top college recruits](http://9gag.com/gag/awZEXGB)<!-- MEMES:END -->
 
 --- 
 
