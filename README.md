@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game of the Year 2023: Baldur&#39;s Gate 3](https://www.pcgamer.com/game-of-the-year-2023-baldurs-gate-3)
- - [The 7 best anime openings of 2023](https://www.polygon.com/23972329/best-anime-openings-2023-credits-intros)
- - [PC Gamer Hardware Awards: The best gaming keyboards of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-keyboards-of-2023)<!-- GAME:END -->
+ - [Pika-who? Pokémon Concierge has made me a Psyduck lover now](https://www.polygon.com/pokemon/24009731/pokemon-concierge-best-psyduck-propaganda-pikachu-mascot)
+ - [8 cozy games to enjoy on PlayStation Portal this holiday](https://blog.playstation.com/2023/12/30/8-cozy-games-to-enjoy-on-playstation-portal-this-holiday/)
+ - [What we want to see from PC gaming tech in 2024](https://www.pcgamer.com/what-we-want-to-see-from-pc-gaming-tech-in-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
