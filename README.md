@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pika-who? Pokémon Concierge has made me a Psyduck lover now](https://www.polygon.com/pokemon/24009731/pokemon-concierge-best-psyduck-propaganda-pikachu-mascot)
- - [8 cozy games to enjoy on PlayStation Portal this holiday](https://blog.playstation.com/2023/12/30/8-cozy-games-to-enjoy-on-playstation-portal-this-holiday/)
- - [What we want to see from PC gaming tech in 2024](https://www.pcgamer.com/what-we-want-to-see-from-pc-gaming-tech-in-2024)<!-- GAME:END -->
+ - [Remembering all the totally normal stuff that happened in the last 365 days](https://www.polygon.com/24018116/2023-weird-news-stories-mm-spokescandies-grimace-shake-really-happened)
+ - [I&#39;ve reviewed a ton of PC components over the past 12 months but AMD&#39;s Ryzen 7 7800X3D is my pick of the year](https://www.pcgamer.com/ive-reviewed-a-ton-of-pc-components-over-the-past-12-months-but-amds-ryzen-7-7800x3d-is-my-pick-of-the-year)
+ - [All the weird ways to watch the New Year’s Eve 2023 ball drop](https://www.polygon.com/24015626/new-years-ball-drop-channel-watch-stream-live-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
