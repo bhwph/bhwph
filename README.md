@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Heart Rate Monitors &lpar;2023&rpar;: Chest Straps, EKG, Watches](https://www.wired.com/gallery/best-heart-rate-monitors/)
- - [2023’s great games were overshadowed by a dark cloud of layoffs](https://www.theverge.com/24009039/video-game-layoffs-2023)
- - [A look at Australia&#39;s maturing tech sector, which faces challenges like a shortage of late-stage capital and a scarcity of executives with scaling experience &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/231230/p4#a231230p4)<!-- TECH:END -->
+ - [Sources: OpenAI recently topped $1.6B in annualized revenue, up from $1.3B in mid-October; some OpenAI leaders believe OpenAI can reach a $5B ARR by 2024&#39;s end &lpar;The Information&rpar;](http://www.techmeme.com/231230/p7#a231230p7)
+ - [People&#39;s Bank of China lists Ant Group&#39;s Alipay as having no controller, as Ant finished removing controlling stakeholders almost a year after Jack Ma&#39;s promise &lpar;Bloomberg&rpar;](http://www.techmeme.com/231230/p6#a231230p6)
+ - [The Google Home app is finally on the right path](https://www.androidauthority.com/google-home-app-right-path-3388364/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
