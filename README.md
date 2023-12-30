@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Year the Millennial Internet Died](https://www.wired.com/story/end-of-the-millennial-internet/)
- - [WIRED’s Biggest Interviews of 2023](https://www.wired.com/story/wired-big-interviews-2023/)
- - [Some authors are embracing chatbots as the latest iteration of an ancient literary conceit: a &quot;muse&quot;, or an extra intelligence, a supplemental mental database &lpar;A.O. Scott/New York Times&rpar;](http://www.techmeme.com/231230/p3#a231230p3)<!-- TECH:END -->
+ - [8 Best Heart Rate Monitors &lpar;2023&rpar;: Chest Straps, EKG, Watches](https://www.wired.com/gallery/best-heart-rate-monitors/)
+ - [2023’s great games were overshadowed by a dark cloud of layoffs](https://www.theverge.com/24009039/video-game-layoffs-2023)
+ - [A look at Australia&#39;s maturing tech sector, which faces challenges like a shortage of late-stage capital and a scarcity of executives with scaling experience &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/231230/p4#a231230p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
