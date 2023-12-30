@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some authors are embracing chatbots as the latest iteration of an ancient literary conceit: a &quot;muse&quot;, or an extra intelligence, a supplemental mental database &lpar;A.O. Scott/New York Times&rpar;](http://www.techmeme.com/231230/p3#a231230p3)
- - [The UK&#39;s NHS deploys an AI stethoscope from Mayo Clinic spinoff Eko in 200 GP surgeries to detect heart failure, atrial fibrillation, and valvular heart disease &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/231230/p2#a231230p2)
- - [A look at Chinese startup SEIDA, which claims to be developing the optical proximity correction chip design software to help China&#39;s chip self-reliance vision &lpar;Reuters&rpar;](http://www.techmeme.com/231230/p1#a231230p1)<!-- TECH:END -->
+ - [The Year the Millennial Internet Died](https://www.wired.com/story/end-of-the-millennial-internet/)
+ - [WIRED’s Biggest Interviews of 2023](https://www.wired.com/story/wired-big-interviews-2023/)
+ - [Some authors are embracing chatbots as the latest iteration of an ancient literary conceit: a &quot;muse&quot;, or an extra intelligence, a supplemental mental database &lpar;A.O. Scott/New York Times&rpar;](http://www.techmeme.com/231230/p3#a231230p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
