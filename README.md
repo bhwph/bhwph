@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s October 2023 in review: Scary Fast new Macs, Google&#39;s trial, and The Afterparty&#39;s over](https://appleinsider.com/articles/23/12/30/apples-october-2023-in-review-scary-fast-new-macs-googles-trial-and-the-afterpartys-over?utm_medium=rss)
- - [Chinese robotaxi companies are shifting to less advanced but more commercially viable smart-driving solutions, as funding dries up and losses continue to mount &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/231230/p9#a231230p9)
- - [Refresh Your Space and Save Up to 20% with Ruggable End-of-Year Sale     - CNET](https://www.cnet.com/deals/save-up-to-20-on-ruggable-rugs-end-of-year-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In 2024, the internet is about to see the biggest reshuffling of power in 25 years, with the &quot;human web&quot; resurgent and regulators forcing tech giants to open up &lpar;Anil Dash/Rolling Stone&rpar;](http://www.techmeme.com/231230/p11#a231230p11)
+ - [Get the Cubii Under-Desk Elliptical for $148 Off Right Now at QVC     - CNET](https://www.cnet.com/deals/get-the-cubii-under-desk-elliptical-for-148-off-right-now-at-qvc/#ftag=CAD590a51e)
+ - [This New Year&#39;s Deal Gets You the Ultraloq U-Bolt Pro for Only $119     - CNET](https://www.cnet.com/deals/holiday-deal-ultraloq-u-bolt-pro-119/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
