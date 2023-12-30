@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I just don&#39;t like wide noses and sometimes how big their asses tend to be for some reason.](http://9gag.com/gag/ay2bB6q)
- - 😝 [Hopefully...](http://9gag.com/gag/aGEmZQ6)
- - 👉 [Enemy for the reason](http://9gag.com/gag/amAe7rj)<!-- MEMES:END -->
+ - 6️⃣ [Free candy](http://9gag.com/gag/aOxMB2R)
+ - 😝 [Enjoying the game?](http://9gag.com/gag/avQMGxO)
+ - 👉 [Teach by example.](http://9gag.com/gag/aDYKWbw)<!-- MEMES:END -->
 
 --- 
 
