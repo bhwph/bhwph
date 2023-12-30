@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Free candy](http://9gag.com/gag/aOxMB2R)
- - 😝 [Enjoying the game?](http://9gag.com/gag/avQMGxO)
+ - 6️⃣ [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
+ - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
  - 👉 [Teach by example.](http://9gag.com/gag/aDYKWbw)<!-- MEMES:END -->
 
 --- 
