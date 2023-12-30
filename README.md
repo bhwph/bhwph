@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Free candy](http://9gag.com/gag/aOxMB2R)
- - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - 6️⃣ [Class of 2000 you are looking rough. I just saw a few of them when I came home from Xmas.](http://9gag.com/gag/aMEojdP)
+ - 😝 [To cancel a comedian](http://9gag.com/gag/avQMz85)
  - 👉 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)<!-- MEMES:END -->
 
 --- 
