@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - 😝 [Go on and tell him](http://9gag.com/gag/aYV3K3O)
- - 👉 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)<!-- MEMES:END -->
+ - 6️⃣ [Why did he turn his head?](http://9gag.com/gag/aREb38M)
+ - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
+ - 👉 [Go on and tell him](http://9gag.com/gag/aYV3K3O)<!-- MEMES:END -->
 
 --- 
 
