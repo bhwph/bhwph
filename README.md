@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI recently topped $1.6B in annualized revenue, up from $1.3B in mid-October; some OpenAI leaders believe OpenAI can reach a $5B ARR by 2024&#39;s end &lpar;The Information&rpar;](http://www.techmeme.com/231230/p7#a231230p7)
- - [People&#39;s Bank of China lists Ant Group&#39;s Alipay as having no controller, as Ant finished removing controlling stakeholders almost a year after Jack Ma&#39;s promise &lpar;Bloomberg&rpar;](http://www.techmeme.com/231230/p6#a231230p6)
- - [The Google Home app is finally on the right path](https://www.androidauthority.com/google-home-app-right-path-3388364/)<!-- TECH:END -->
+ - [How to master the camera app on iPhone 15 &amp; iPhone 15 Plus](https://appleinsider.com/inside/iphone-15/tips/how-to-master-the-camera-app-on-iphone-15-iphone-15-plus?utm_medium=rss)
+ - [A profile of Joe Kiani, whose company Masimo spent ~$100M suing Apple, as some say his aggressive use of the US patent system stymies the innovation of others &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/231230/p8#a231230p8)
+ - [Best Fiber Internet Providers of 2024     - CNET](https://www.cnet.com/home/internet/best-fiber-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
