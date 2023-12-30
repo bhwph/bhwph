@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
+ - 6️⃣ [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
  - 👉 [Free candy](http://9gag.com/gag/aOxMB2R)<!-- MEMES:END -->
 
 --- 
