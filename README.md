@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer Hardware Awards: The best gaming mouse of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-mouse-of-2023)
  - [Wordle today: Hint and answer #924 for Saturday, December 30](https://www.pcgamer.com/wordle-today-answer-924-december-30)
- - [The Holdovers, It Lives Inside, and every new movie to watch at home this weekend](https://www.polygon.com/2023/12/29/24016234/new-movies-watch-the-holdovers-peacock-it-lives-inside-hulu)
- - [Remake of strange, rare R-Type Tactics 1 &amp; 2 to release in Fall 2024](https://www.pcgamer.com/remake-of-strange-rare-r-type-tactics-1-and-2-to-release-in-fall-2024)<!-- GAME:END -->
+ - [The Holdovers, It Lives Inside, and every new movie to watch at home this weekend](https://www.polygon.com/2023/12/29/24016234/new-movies-watch-the-holdovers-peacock-it-lives-inside-hulu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
