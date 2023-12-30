@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to master the camera app on iPhone 15 &amp; iPhone 15 Plus](https://appleinsider.com/inside/iphone-15/tips/how-to-master-the-camera-app-on-iphone-15-iphone-15-plus?utm_medium=rss)
- - [A profile of Joe Kiani, whose company Masimo spent ~$100M suing Apple, as some say his aggressive use of the US patent system stymies the innovation of others &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/231230/p8#a231230p8)
- - [Best Fiber Internet Providers of 2024     - CNET](https://www.cnet.com/home/internet/best-fiber-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s October 2023 in review: Scary Fast new Macs, Google&#39;s trial, and The Afterparty&#39;s over](https://appleinsider.com/articles/23/12/30/apples-october-2023-in-review-scary-fast-new-macs-googles-trial-and-the-afterpartys-over?utm_medium=rss)
+ - [Chinese robotaxi companies are shifting to less advanced but more commercially viable smart-driving solutions, as funding dries up and losses continue to mount &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/231230/p9#a231230p9)
+ - [Refresh Your Space and Save Up to 20% with Ruggable End-of-Year Sale     - CNET](https://www.cnet.com/deals/save-up-to-20-on-ruggable-rugs-end-of-year-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
