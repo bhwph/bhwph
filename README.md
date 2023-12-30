@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why did he turn his head?](http://9gag.com/gag/aREb38M)
- - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
- - 👉 [Go on and tell him](http://9gag.com/gag/aYV3K3O)<!-- MEMES:END -->
+ - 6️⃣ [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
+ - 😝 [Enjoying the game?](http://9gag.com/gag/avQMGxO)
+ - 👉 [Teach by example.](http://9gag.com/gag/aDYKWbw)<!-- MEMES:END -->
 
 --- 
 
