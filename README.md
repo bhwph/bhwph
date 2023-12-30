@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Zelda: Tears Of The Kingdom And Everything Else That Blew Me Away: Ethan Gach’s Top 10 Games Of 2023](https://kotaku.com/best-games-2023-zelda-cyberpunk-baldur-s-gate-3-a-1851130971)
  - [Remembering all the totally normal stuff that happened in the last 365 days](https://www.polygon.com/24018116/2023-weird-news-stories-mm-spokescandies-grimace-shake-really-happened)
- - [I&#39;ve reviewed a ton of PC components over the past 12 months but AMD&#39;s Ryzen 7 7800X3D is my pick of the year](https://www.pcgamer.com/ive-reviewed-a-ton-of-pc-components-over-the-past-12-months-but-amds-ryzen-7-7800x3d-is-my-pick-of-the-year)
- - [All the weird ways to watch the New Year’s Eve 2023 ball drop](https://www.polygon.com/24015626/new-years-ball-drop-channel-watch-stream-live-2023)<!-- GAME:END -->
+ - [I&#39;ve reviewed a ton of PC components over the past 12 months but AMD&#39;s Ryzen 7 7800X3D is my pick of the year](https://www.pcgamer.com/ive-reviewed-a-ton-of-pc-components-over-the-past-12-months-but-amds-ryzen-7-7800x3d-is-my-pick-of-the-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
