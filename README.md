@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Holdovers, It Lives Inside, and every new movie to watch at home this weekend](https://www.polygon.com/2023/12/29/24016234/new-movies-watch-the-holdovers-peacock-it-lives-inside-hulu)
  - [Remake of strange, rare R-Type Tactics 1 &amp; 2 to release in Fall 2024](https://www.pcgamer.com/remake-of-strange-rare-r-type-tactics-1-and-2-to-release-in-fall-2024)
- - [Factorio pretty much rewrote its world generation to account for new planets—like this volcanic one](https://www.pcgamer.com/factorio-pretty-much-rewrote-its-world-generation-code-to-account-for-new-worldslike-this-volcanic-one)
- - [There&#39;s plenty FromSoftware could learn from this year&#39;s crop of inventive Soulslikes—here are 7 ideas I&#39;d love to see in one of their games](https://www.pcgamer.com/theres-plenty-fromsoftware-could-learn-from-this-years-crop-of-inventive-soulslikeshere-are-7-ideas-id-love-to-see-in-one-of-their-games)<!-- GAME:END -->
+ - [Factorio pretty much rewrote its world generation to account for new planets—like this volcanic one](https://www.pcgamer.com/factorio-pretty-much-rewrote-its-world-generation-code-to-account-for-new-worldslike-this-volcanic-one)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
