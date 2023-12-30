@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
- - 👉 [Free candy](http://9gag.com/gag/aOxMB2R)<!-- MEMES:END -->
+ - 6️⃣ [Free candy](http://9gag.com/gag/aOxMB2R)
+ - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - 👉 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)<!-- MEMES:END -->
 
 --- 
 
