@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lidar sensor tech is the latest flashpoint in the US-China trade war, as the US lidar industry mounts a lobbying offensive against Chinese companies like Hesai &lpar;Tanya Snyder/Politico&rpar;](http://www.techmeme.com/231229/p22#a231229p22)
  - [Get Apple&#39;s M2 Mac mini with 16GB RAM for as low as $699](https://appleinsider.com/articles/23/12/30/get-apples-m2-mac-mini-with-16gb-ram-for-as-low-as-699?utm_medium=rss)
- - [Filing: US prosecutors have decided not to pursue a second trial against Sam Bankman-Fried, as much of the evidence was already presented at the first trial &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/231229/p21#a231229p21)
- - [Best TV Deals: Save Up to $600 on Samsung, LG, Fire TV and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: US prosecutors have decided not to pursue a second trial against Sam Bankman-Fried, as much of the evidence was already presented at the first trial &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/231229/p21#a231229p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
