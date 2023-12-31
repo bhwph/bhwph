@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget alignment: Here&#39;s where Baldur&#39;s Gate 3&#39;s companions fall on the real-life political compass](https://www.pcgamer.com/forget-alignment-heres-where-baldurs-gate-3s-companions-fall-on-the-real-life-political-compass)
- - [Wordle today: Hint and answer #925 for Sunday, December 31](https://www.pcgamer.com/wordle-today-answer-925-december-31)
- - [Grim fantasy retro-RPG Skald: Against the Black Priory has a new demo ahead of a spring 2024 release](https://www.pcgamer.com/grim-fantasy-retro-rpg-skald-against-the-black-priory-has-a-new-demo-ahead-of-a-spring-2024-release)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards 2023: The winners](https://www.pcgamer.com/pc-gamer-hardware-awards-2023-the-winners)
+ - [2023 was a decade-defining year for game releases, but so brutal for the industry it&#39;s hard to imagine another one like it happening for a long time](https://www.pcgamer.com/2023-was-a-decade-defining-year-for-game-releases-but-so-brutal-for-the-industry-its-hard-to-imagine-another-one-like-it-happening-for-a-long-time)
+ - [The Legend of Zelda games, ranked](https://www.polygon.com/zelda/24012081/best-zelda-games-ranked)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
