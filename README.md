@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait\u2026really???](http://9gag.com/gag/armQVvV)
- - 😝 [Happens all the time](http://9gag.com/gag/awZEMV4)
- - 👉 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)<!-- MEMES:END -->
+ - 6️⃣ [Always happens like this](http://9gag.com/gag/avQMAVX)
+ - 😝 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
+ - 👉 [Wait\u2026really???](http://9gag.com/gag/armQVvV)<!-- MEMES:END -->
 
 --- 
 
