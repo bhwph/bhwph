@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Mattresses for Kids in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-kids/#ftag=CAD590a51e)
- - [Daily deals Dec. 31: Desktop Macs as low as $399, Apple Watch Ultra $599, iPhone XR for $180, more](https://appleinsider.com/articles/23/12/31/daily-deals-dec-31-desktop-macs-as-low-as-399-apple-watch-ultra-599-iphone-xr-for-180-more?utm_medium=rss)
- - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Our picks for the best streaming movies of 2023](https://www.androidauthority.com/best-streaming-movies-2023-3396956/)
+ - [The lawsuits against AI companies could shape the future of copyright or may simply serve as leverage for plaintiffs to secure more favorable licensing deals &lpar;J. Edward Moreno/New York Times&rpar;](http://www.techmeme.com/231231/p5#a231231p5)
+ - [Take 30% Off Sitewide During Xtrema&#39;s New Year&#39;s Eve Sale     - CNET](https://www.cnet.com/deals/take-30-off-sitewide-during-xtremas-new-years-eve-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
