@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
- - 😝 [Pakistan is another level](http://9gag.com/gag/a7qYWBr)
- - 👉 [So?](http://9gag.com/gag/aDYKY0K)<!-- MEMES:END -->
+ - 6️⃣ [Wait\u2026really???](http://9gag.com/gag/armQVvV)
+ - 😝 [Happens all the time](http://9gag.com/gag/awZEMV4)
+ - 👉 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)<!-- MEMES:END -->
 
 --- 
 
