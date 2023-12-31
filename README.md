@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)
- - 😝 [Simp vs Cuck](http://9gag.com/gag/aVbpYGw)
- - 👉 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)<!-- MEMES:END -->
+ - 6️⃣ [Oh god, oh f**k!!](http://9gag.com/gag/az2W9PN)
+ - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
+ - 👉 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)<!-- MEMES:END -->
 
 --- 
 
