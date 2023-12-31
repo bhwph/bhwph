@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The year I read 20 Hercule Poirot mysteries and fell for Agatha Christie](https://www.polygon.com/24009421/agatha-christie-hercule-poirot-mystery-books)
  - [The PC Gamer Needlessly Terrible Hardware Naming Awards 2023: Our favourite awful names for otherwise reasonable products](https://www.pcgamer.com/the-pc-gamer-needlessly-terrible-hardware-naming-awards-2023-our-favourite-awful-names-for-otherwise-reasonable-products)
- - [Genre Bests, Personal Top 10 Lists And More: One Last Look Back At 2023](https://kotaku.com/games-goty-best-rpgs-shooters-2023-1851129069)
- - [PC Gamer Hardware Awards 2023: The winners](https://www.pcgamer.com/pc-gamer-hardware-awards-2023-the-winners)<!-- GAME:END -->
+ - [Genre Bests, Personal Top 10 Lists And More: One Last Look Back At 2023](https://kotaku.com/games-goty-best-rpgs-shooters-2023-1851129069)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
