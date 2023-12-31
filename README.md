@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Action roguelike Skul: The Hero Slayer has sold more than 2M copies](https://www.pcgamer.com/action-roguelike-skul-the-hero-slayer-has-sold-more-than-2m-copies)
- - [Buckle up, the developer of Cruelty Squad is making a game about thoughtcrime cops with mechs](https://www.pcgamer.com/buckle-up-the-developer-of-cruelty-squad-is-making-a-game-about-thoughtcrime-cops-with-mechs)
- - [Zelda: Tears Of The Kingdom And Everything Else That Blew Me Away: Ethan Gach’s Top 10 Games Of 2023](https://kotaku.com/best-games-2023-zelda-cyberpunk-baldur-s-gate-3-a-1851130971)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #925 for Sunday, December 31](https://www.pcgamer.com/wordle-today-answer-925-december-31)
+ - [Grim fantasy retro-RPG Skald: Against the Black Priory has a new demo ahead of a spring 2024 release](https://www.pcgamer.com/grim-fantasy-retro-rpg-skald-against-the-black-priory-has-a-new-demo-ahead-of-a-spring-2024-release)
+ - [Action roguelike Skul: The Hero Slayer has sold more than 2M copies](https://www.pcgamer.com/action-roguelike-skul-the-hero-slayer-has-sold-more-than-2m-copies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
