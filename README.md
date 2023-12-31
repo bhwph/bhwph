@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
- - 😝 [I beg to differ.](http://9gag.com/gag/a04r7pX)
- - 👉 [It&#39;s not the money, it&#39;s the person](http://9gag.com/gag/a9qxEG6)<!-- MEMES:END -->
+ - 6️⃣ [I beg to differ.](http://9gag.com/gag/a04r7pX)
+ - 😝 [Pakistan is another level](http://9gag.com/gag/a7qYWBr)
+ - 👉 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)<!-- MEMES:END -->
 
 --- 
 
