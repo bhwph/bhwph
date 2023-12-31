@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Wi-Fi 7, slated for certification in Q1 2024, with multi-link operations that allow devices to spread a data stream across multiple frequency bands &lpar;Michael Koziol/IEEE Spectrum&rpar;](http://www.techmeme.com/231231/p2#a231231p2)
  - [Counterpoint: about 16M foldable phones were sold in 2023, just 1.3% of the 1.2B smartphone market, as foldables start to gain traction in the US and China &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231231/p1#a231231p1)
- - [An AWS developer claims Amazon is &quot;silently sacking&quot; staff by pushing them to take a different role that they would quit later, avoiding the need for severance &lpar;Justin Garrison/Justin Garrison&rpar;](http://www.techmeme.com/231230/p14#a231230p14)
- - [Save $440 on a lifetime Babbel subscription with this year-end flash deal](https://appleinsider.com/articles/23/12/31/save-440-on-a-lifetime-babbel-subscription-with-this-year-end-flash-deal?utm_medium=rss)<!-- TECH:END -->
+ - [An AWS developer claims Amazon is &quot;silently sacking&quot; staff by pushing them to take a different role that they would quit later, avoiding the need for severance &lpar;Justin Garrison/Justin Garrison&rpar;](http://www.techmeme.com/231230/p14#a231230p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
