@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 😝 [To cancel a comedian](http://9gag.com/gag/avQMz85)
- - 👉 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)<!-- MEMES:END -->
+ - 6️⃣ [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
+ - 😝 [Apple stores in japan](http://9gag.com/gag/aYV3oxv)
+ - 👉 [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)<!-- MEMES:END -->
 
 --- 
 
