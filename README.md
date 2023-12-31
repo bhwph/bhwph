@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happens all the time](http://9gag.com/gag/awZEMV4)
- - 😝 [Who did it better](http://9gag.com/gag/a6q0KD2)
- - 👉 [Yo wtf?](http://9gag.com/gag/az2WeDb)<!-- MEMES:END -->
+ - 6️⃣ [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
+ - 😝 [Yo wtf?](http://9gag.com/gag/az2WeDb)
+ - 👉 [Who did it better](http://9gag.com/gag/a6q0KD2)<!-- MEMES:END -->
 
 --- 
 
