@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
- - 😝 [Apple stores in japan](http://9gag.com/gag/aYV3oxv)
- - 👉 [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)<!-- MEMES:END -->
+ - 6️⃣ [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
+ - 😝 [I beg to differ.](http://9gag.com/gag/a04r7pX)
+ - 👉 [It&#39;s not the money, it&#39;s the person](http://9gag.com/gag/a9qxEG6)<!-- MEMES:END -->
 
 --- 
 
