@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh god, oh f**k!!](http://9gag.com/gag/az2W9PN)
- - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
- - 👉 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)<!-- MEMES:END -->
+ - 6️⃣ [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
+ - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 👉 [Oh god, oh f**k!!](http://9gag.com/gag/az2W9PN)<!-- MEMES:END -->
 
 --- 
 
