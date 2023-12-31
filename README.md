@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [20 Things That Made the World a Better Place in 2023](https://www.wired.com/story/2023-positive-news/)
- - [WIRED Tested Miracle Hangover Cures. You&#39;re Welcome](https://www.wired.com/story/wired-tested-miracle-hangover-cures/)
- - [The 22 Most Anticipated Movies of 2024](https://www.wired.com/story/22-most-anticipated-movies-of-2024/)<!-- TECH:END -->
+ - [How to Back Up Your Digital Life &lpar;2023&rpar;: Hard Drives, Cloud-Based Tools, and Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/)
+ - [8 great Apple Arcade games for your iPhone or iPad](https://www.theverge.com/23979444/apple-arcade-best-games-2023-iphone-ipad)
+ - [Apple&#39;s November 2023 in review: Nothing on iMessage, Crash Detection, and a confusing bridal photo](https://appleinsider.com/articles/23/12/31/apples-november-2023-in-review-nothing-on-imessage-crash-detection-and-a-confusing-bridal-photo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
