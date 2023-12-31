@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An AWS developer claims Amazon is silently sacking people after enforcing a strict RTO policy, without being required to give them severance or announce layoffs &lpar;Justin Garrison/Justin Garrison&rpar;](http://www.techmeme.com/231230/p14#a231230p14)
- - [Save $440 on a lifetime Babbel subscription with this year-end flash deal](https://appleinsider.com/articles/23/12/31/save-440-on-a-lifetime-babbel-subscription-with-this-year-end-flash-deal?utm_medium=rss)
- - [LG says its new 4K projector is a ‘stylish art object’](https://www.theverge.com/2023/12/30/24019922/lg-cinebeam-qube-4k-uhd-projector-webos)<!-- TECH:END -->
+ - [Counterpoint: about 16M foldable phones were sold in 2023, just 1.3% of the 1.2B smartphone market, as foldables start to gain traction in the US and China &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231231/p1#a231231p1)
+ - [An AWS developer claims Amazon is &quot;silently sacking&quot; staff by pushing them to take a different role that they would quit later, avoiding the need for severance &lpar;Justin Garrison/Justin Garrison&rpar;](http://www.techmeme.com/231230/p14#a231230p14)
+ - [Save $440 on a lifetime Babbel subscription with this year-end flash deal](https://appleinsider.com/articles/23/12/31/save-440-on-a-lifetime-babbel-subscription-with-this-year-end-flash-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
