@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
- - 😝 [Yo wtf?](http://9gag.com/gag/az2WeDb)
- - 👉 [Who did it better](http://9gag.com/gag/a6q0KD2)<!-- MEMES:END -->
+ - 6️⃣ [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
+ - 😝 [Pakistan is another level](http://9gag.com/gag/a7qYWBr)
+ - 👉 [So?](http://9gag.com/gag/aDYKY0K)<!-- MEMES:END -->
 
 --- 
 
