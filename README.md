@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Forget alignment: Here&#39;s where Baldur&#39;s Gate 3&#39;s companions fall on the real-life political compass](https://www.pcgamer.com/forget-alignment-heres-where-baldurs-gate-3s-companions-fall-on-the-real-life-political-compass)
  - [Wordle today: Hint and answer #925 for Sunday, December 31](https://www.pcgamer.com/wordle-today-answer-925-december-31)
- - [Grim fantasy retro-RPG Skald: Against the Black Priory has a new demo ahead of a spring 2024 release](https://www.pcgamer.com/grim-fantasy-retro-rpg-skald-against-the-black-priory-has-a-new-demo-ahead-of-a-spring-2024-release)
- - [Action roguelike Skul: The Hero Slayer has sold more than 2M copies](https://www.pcgamer.com/action-roguelike-skul-the-hero-slayer-has-sold-more-than-2m-copies)<!-- GAME:END -->
+ - [Grim fantasy retro-RPG Skald: Against the Black Priory has a new demo ahead of a spring 2024 release](https://www.pcgamer.com/grim-fantasy-retro-rpg-skald-against-the-black-priory-has-a-new-demo-ahead-of-a-spring-2024-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
