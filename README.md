@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In 2024, the internet is about to see the biggest reshuffling of power in 25 years, with the &quot;human web&quot; resurgent and regulators forcing tech giants to open up &lpar;Anil Dash/Rolling Stone&rpar;](http://www.techmeme.com/231230/p11#a231230p11)
- - [Get the Cubii Under-Desk Elliptical for $148 Off Right Now at QVC     - CNET](https://www.cnet.com/deals/get-the-cubii-under-desk-elliptical-for-148-off-right-now-at-qvc/#ftag=CAD590a51e)
- - [This New Year&#39;s Deal Gets You the Ultraloq U-Bolt Pro for Only $119     - CNET](https://www.cnet.com/deals/holiday-deal-ultraloq-u-bolt-pro-119/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG says its new 4K projector is a ‘stylish art object’](https://www.theverge.com/2023/12/30/24019922/lg-cinebeam-qube-4k-uhd-projector-webos)
+ - [Nikon, Sony, and Canon are developing camera tech that embeds digital signatures in images so that they can be distinguished from realistic AI-generated fakes &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231230/p13#a231230p13)
+ - [How effective altruism, described by some as a cult obsessed with AI doomsday, is influencing White House, Congress, and others&#39; approach toward AI regulation &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/231230/p12#a231230p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
