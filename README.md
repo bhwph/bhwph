@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards 2023: The winners](https://www.pcgamer.com/pc-gamer-hardware-awards-2023-the-winners)
- - [2023 was a decade-defining year for game releases, but so brutal for the industry it&#39;s hard to imagine another one like it happening for a long time](https://www.pcgamer.com/2023-was-a-decade-defining-year-for-game-releases-but-so-brutal-for-the-industry-its-hard-to-imagine-another-one-like-it-happening-for-a-long-time)
- - [The Legend of Zelda games, ranked](https://www.polygon.com/zelda/24012081/best-zelda-games-ranked)<!-- GAME:END -->
+ - [The PC Gamer Needlessly Terrible Hardware Naming Awards 2023: Our favourite awful names for otherwise reasonable products](https://www.pcgamer.com/the-pc-gamer-needlessly-terrible-hardware-naming-awards-2023-our-favourite-awful-names-for-otherwise-reasonable-products)
+ - [Genre Bests, Personal Top 10 Lists And More: One Last Look Back At 2023](https://kotaku.com/games-goty-best-rpgs-shooters-2023-1851129069)
+ - [PC Gamer Hardware Awards 2023: The winners](https://www.pcgamer.com/pc-gamer-hardware-awards-2023-the-winners)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
