@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
- - 😝 [What fans?](http://9gag.com/gag/aBdAZR2)
- - 👉 [Better than the series](http://9gag.com/gag/axoLW7M)<!-- MEMES:END -->
+ - 6️⃣ [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
+ - 😝 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
+ - 👉 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)<!-- MEMES:END -->
 
 --- 
 
