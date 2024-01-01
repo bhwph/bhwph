@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best wearables I’m looking forward to in 2024: Samsung, Apple, Google, Garmin, and more](https://www.androidauthority.com/upcoming-wearables-smartwatches-fitness-trackers-smart-rings-3394380/)
- - [A profile of Mario and Zelda creator Shigeru Miyamoto, who joined Nintendo in the 1970s and says he has no plans to retire as game director at the company &lpar;Keza MacDonald/The Guardian&rpar;](http://www.techmeme.com/240101/p3#a240101p3)
- - [CES preview, Qi2 chargers, AI kitchens, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/01/01/ces-preview-qi2-chargers-ai-kitchens-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Save $1,600 on this loaded MacBook Pro with 64GB RAM, 2TB SSD](https://appleinsider.com/articles/24/01/01/save-1600-on-this-loaded-macbook-pro-with-64gb-ram-2tb-ssd?utm_medium=rss)
+ - [7 Beginner Workouts to Start Doing in 2024     - CNET](https://www.cnet.com/health/fitness/best-beginner-workouts/#ftag=CAD590a51e)
+ - [Best Keto Meal Delivery Services in 2024     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
