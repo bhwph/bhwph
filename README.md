@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Our boldest predictions for PC gaming in 2024](https://www.pcgamer.com/our-boldest-predictions-for-pc-gaming-in-2024)
  - [Alan Wake 2 is so stuffed with jump scares it cheapens the good horror](https://www.pcgamer.com/alan-wake-2-is-so-stuffed-with-jump-scares-it-cheapens-the-good-horror)
- - [CES 2024 preview: The future of PC gaming hardware](https://www.pcgamer.com/ces-2024-preview-the-future-of-pc-gaming-hardware)
- - [The 50 most anticipated new movies of 2024](https://www.polygon.com/24007773/best-new-movies-2024-release-calendar-schedule)<!-- GAME:END -->
+ - [CES 2024 preview: The future of PC gaming hardware](https://www.pcgamer.com/ces-2024-preview-the-future-of-pc-gaming-hardware)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
