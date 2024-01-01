@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best HP Laptop for 2024     - CNET](https://www.cnet.com/tech/computing/best-hp-laptops/#ftag=CAD590a51e)
- - [Best Cheap Alexa Devices of 2024     - CNET](https://www.cnet.com/home/smart-home/best-cheap-alexa-devices/#ftag=CAD590a51e)
- - [Best Laptop for High School Students in 2024     - CNET](https://www.cnet.com/tech/computing/best-laptop-for-high-school-students/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Samsung Galaxy S21, S21 Plus and S21 Ultra Cases of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s21-s21-plus-s21-ultra-cases/#ftag=CAD590a51e)
+ - [Best Cheap Home Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-cheap-home-security-cameras/#ftag=CAD590a51e)
+ - [Best Cheaper Rivals to Apple AirPods Max for 2024: Sony, Bose, AirPods Pro 2 and More     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods-max-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
