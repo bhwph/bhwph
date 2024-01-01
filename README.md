@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
- - 😝 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
- - 👉 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)<!-- MEMES:END -->
+ - 😝 [Shocking Baptism oof](http://9gag.com/gag/a9qxEAW)
+ - 👉 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)<!-- MEMES:END -->
 
 --- 
 
