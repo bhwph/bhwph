@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Always happens like this](http://9gag.com/gag/avQMAVX)
- - 😝 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
- - 👉 [Wait\u2026really???](http://9gag.com/gag/armQVvV)<!-- MEMES:END -->
+ - 6️⃣ [Wait\u2026really???](http://9gag.com/gag/armQVvV)
+ - 😝 [A happy new year\u2019s facepalm.](http://9gag.com/gag/abvNAzB)
+ - 👉 [He still got it](http://9gag.com/gag/aeQn9Qp)<!-- MEMES:END -->
 
 --- 
 
