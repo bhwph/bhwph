@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Budget Soundbars for 2024: Vizio, Roku and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbars-under-200/#ftag=CAD590a51e)
- - [Best Kamado Grill for 2024     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-kamado-grill/#ftag=CAD590a51e)
- - [Best M.2 SSD for PS5 in 2024: Top Storage for Your Console     - CNET](https://www.cnet.com/tech/gaming/best-m2-ssd/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: Baidu&#39;s $3.6B deal to buy Joyy&#39;s Chinese livestreaming business YY Live, announced in 2020, expires as China regulators didn&#39;t approve it by December 31 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240101/p2#a240101p2)
+ - [The 18 Best EVs Coming in 2024](https://www.wired.com/story/best-evs-2024/)
+ - [How to Start &lpar;and Keep&rpar; a Healthy Habit](https://www.wired.com/story/how-to-start-a-healthy-habit/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
