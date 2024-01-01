@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shocking Baptism oof](http://9gag.com/gag/a9qxEAW)
- - 😝 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
- - 👉 [New Years Eve. Not a woman in sight in Alexanderplatz, Berlin. We all know why.](http://9gag.com/gag/a6q0Z4b)<!-- MEMES:END -->
+ - 6️⃣ [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
+ - 😝 [What fans?](http://9gag.com/gag/aBdAZR2)
+ - 👉 [Better than the series](http://9gag.com/gag/axoLW7M)<!-- MEMES:END -->
 
 --- 
 
