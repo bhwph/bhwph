@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 50 most anticipated new games of 2024](https://www.polygon.com/gaming/24007775/best-new-games-2024-release-calendar-schedule)
- - [Every movie and show coming to Netflix in January](https://www.polygon.com/entertainment/2024/1/1/24012219/new-netflix-jan-2024-movies-tv-to-watch)
- - [This year I&#39;m finally going to tackle my gaming backlog—please take me seriously, I have a plan and everything](https://www.pcgamer.com/this-year-im-finally-going-to-tackle-my-gaming-backlogseriously-i-have-a-plan)<!-- GAME:END -->
+ - [Alan Wake 2 is so stuffed with jump scares it cheapens the good horror](https://www.pcgamer.com/alan-wake-2-is-so-stuffed-with-jump-scares-it-cheapens-the-good-horror)
+ - [CES 2024 preview: The future of PC gaming hardware](https://www.pcgamer.com/ces-2024-preview-the-future-of-pc-gaming-hardware)
+ - [The 50 most anticipated new movies of 2024](https://www.polygon.com/24007773/best-new-movies-2024-release-calendar-schedule)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
