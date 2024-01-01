@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $1,600 on this loaded MacBook Pro with 64GB RAM, 2TB SSD](https://appleinsider.com/articles/24/01/01/save-1600-on-this-loaded-macbook-pro-with-64gb-ram-2tb-ssd?utm_medium=rss)
- - [7 Beginner Workouts to Start Doing in 2024     - CNET](https://www.cnet.com/health/fitness/best-beginner-workouts/#ftag=CAD590a51e)
- - [Best Keto Meal Delivery Services in 2024     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Quit Drinking: 8 Essential Tips for Success     - CNET](https://www.cnet.com/health/medical/how-to-quit-drinking-8-essential-tips-for-success/#ftag=CAD590a51e)
+ - [Best Apple AirPods for 2024     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)
+ - [Save up to $150 on Apple&#39;s iPad Air with new 2024 discounts](https://appleinsider.com/articles/24/01/01/save-up-to-150-on-apples-ipad-air-with-new-2024-discounts?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
