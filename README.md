@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happens all the time](http://9gag.com/gag/awZEMV4)
- - 😝 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
- - 👉 [I beg to differ.](http://9gag.com/gag/a04r7pX)<!-- MEMES:END -->
+ - 6️⃣ [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
+ - 😝 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
+ - 👉 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)<!-- MEMES:END -->
 
 --- 
 
