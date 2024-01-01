@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
- - 😝 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
- - 👉 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)<!-- MEMES:END -->
+ - 6️⃣ [Shocking Baptism oof](http://9gag.com/gag/a9qxEAW)
+ - 😝 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
+ - 👉 [I beg to differ.](http://9gag.com/gag/a04r7pX)<!-- MEMES:END -->
 
 --- 
 
