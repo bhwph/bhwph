@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Samsung Galaxy S21, S21 Plus and S21 Ultra Cases of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s21-s21-plus-s21-ultra-cases/#ftag=CAD590a51e)
- - [Best Cheap Home Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-cheap-home-security-cameras/#ftag=CAD590a51e)
- - [Best Cheaper Rivals to Apple AirPods Max for 2024: Sony, Bose, AirPods Pro 2 and More     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods-max-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Budget Soundbars for 2024: Vizio, Roku and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbars-under-200/#ftag=CAD590a51e)
+ - [Best Kamado Grill for 2024     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-kamado-grill/#ftag=CAD590a51e)
+ - [Best M.2 SSD for PS5 in 2024: Top Storage for Your Console     - CNET](https://www.cnet.com/tech/gaming/best-m2-ssd/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
