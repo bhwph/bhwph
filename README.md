@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Add Apple CarPlay and Android Auto to Your Vehicle for Just $96 With This Foldable Display     - CNET](https://www.cnet.com/deals/add-apple-carplay-and-android-auto-to-your-vehicle-for-just-96-with-this-foldable-display/#ftag=CAD590a51e)
- - [The AI Doctor Is In. Here&#39;s How ChatGPT May Pave a New Era of Self-Diagnosis     - CNET](https://www.cnet.com/health/medical/the-ai-doctor-is-in-heres-how-chatgpt-may-pave-a-new-era-of-self-diagnosis/#ftag=CAD590a51e)
- - [Streaming TV on a Budget: Tips to Save Money on Netflix, Hulu and More     - CNET](https://www.cnet.com/tech/services-and-software/streaming-tv-on-budget-tips-to-save-money-netflix-hulu-other-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best wearables I’m looking forward to in 2024: Samsung, Apple, Google, Garmin, and more](https://www.androidauthority.com/upcoming-wearables-smartwatches-fitness-trackers-smart-rings-3394380/)
+ - [A profile of Mario and Zelda creator Shigeru Miyamoto, who joined Nintendo in the 1970s and says he has no plans to retire as game director at the company &lpar;Keza MacDonald/The Guardian&rpar;](http://www.techmeme.com/240101/p3#a240101p3)
+ - [CES preview, Qi2 chargers, AI kitchens, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/01/01/ces-preview-qi2-chargers-ai-kitchens-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
