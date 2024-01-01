@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
- - 😝 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
- - 👉 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)<!-- MEMES:END -->
+ - 6️⃣ [Shocking Baptism oof](http://9gag.com/gag/a9qxEAW)
+ - 😝 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
+ - 👉 [New Years Eve. Not a woman in sight in Alexanderplatz, Berlin. We all know why.](http://9gag.com/gag/a6q0Z4b)<!-- MEMES:END -->
 
 --- 
 
