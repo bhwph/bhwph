@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Korean War and casualties](http://9gag.com/gag/armQX6X)
- - 😝 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
- - 👉 [Nope](http://9gag.com/gag/aDYK8Od)<!-- MEMES:END -->
+ - 6️⃣ [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)
+ - 😝 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
+ - 👉 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)<!-- MEMES:END -->
 
 --- 
 
