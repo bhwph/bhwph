@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retiring generals and departing top Pentagon officials are increasingly flocking to VC firms that have pumped billions into defense tech startups like Anduril &lpar;Eric Lipton/New York Times&rpar;](http://www.techmeme.com/240102/p2#a240102p2)
- - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [The Galaxy S24 Ultra could get a big videography upgrade](https://www.androidauthority.com/samsung-galaxy-s24-ultra-4k120fps-videography-upgrade-3398950/)<!-- TECH:END -->
+ - [Telegram rolls out version 10.5.0, offering &quot;totally redesigned&quot; voice and video calls with new animations and backgrounds while using fewer resources &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240102/p5#a240102p5)
+ - [AI May Not Steal Your Job, but It Could Stop You Getting Hired](https://www.wired.com/story/hilke-schellmann-algorithm-book-ai-jobs-hiring/)
+ - [The Plan to Put Pig Genes in Soy Beans for Tastier Fake Meat](https://www.wired.com/story/moolecs-plant-pig-hybrids-will-make-fake-meat-taste-meatier/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
