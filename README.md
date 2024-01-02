@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Watch is finally getting a feature that was announced last month](https://www.androidauthority.com/pixel-watch-new-features-3399107/)
- - [X once again adds headlines to article links — but with tiny text](https://www.theverge.com/2024/1/2/24022563/x-twitter-headlines-article-links-tiny-text)
- - [The best upcoming Android phones in 2024 and beyond](https://www.androidauthority.com/upcoming-android-phone-690821/)<!-- TECH:END -->
+ - [Orbit Chain, which facilitates cross-blockchain transactions, loses ~$81M after an attack on its cross-chain bridge protocol, similar to hacks by Lazarus Group &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/240102/p16#a240102p16)
+ - [The 23 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+ - [Barclays says iPhone 16 won&#39;t be compelling](https://appleinsider.com/articles/24/01/02/barclays-says-iphone-16-wont-be-compelling?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
