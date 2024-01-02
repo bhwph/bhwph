@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram rolls out version 10.5.0, offering &quot;totally redesigned&quot; voice and video calls with new animations and backgrounds while using fewer resources &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240102/p5#a240102p5)
- - [AI May Not Steal Your Job, but It Could Stop You Getting Hired](https://www.wired.com/story/hilke-schellmann-algorithm-book-ai-jobs-hiring/)
- - [The Plan to Put Pig Genes in Soy Beans for Tastier Fake Meat](https://www.wired.com/story/moolecs-plant-pig-hybrids-will-make-fake-meat-taste-meatier/)<!-- TECH:END -->
+ - [BT says 99% of its UK &quot;core traffic is now being served by non-Huawei kit&quot;, missing the UK deadline to move data flows off Huawei&#39;s equipment after the 2020 ban &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/240102/p8#a240102p8)
+ - [DoJ&#39;s Apple App Store probe is &#39;firing on all cylinders&#39;](https://appleinsider.com/articles/24/01/02/dojs-apple-app-store-probe-is-firing-on-all-cylinders?utm_medium=rss)
+ - [Apple released no new iPads in 2023, the first year without a new tablet since the iPad&#39;s launch in 2010; rumors suggest all iPad models will get a 2024 update &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/240102/p7#a240102p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
