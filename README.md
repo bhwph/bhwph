@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $1,600 on this loaded MacBook Pro with 64GB RAM, 2TB SSD](https://appleinsider.com/articles/24/01/01/save-1600-on-this-loaded-macbook-pro-with-64gb-ram-2tb-ssd?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Amazon slashes $100 off the Samsung Galaxy Tab S9 for the first time](https://www.androidauthority.com/samsung-galaxy-tab-s9-amazon-deal-3399055/)<!-- TECH:END -->
+ - [Pixel Watch is finally getting a feature that was announced last month](https://www.androidauthority.com/pixel-watch-new-features-3399107/)
+ - [X once again adds headlines to article links — but with tiny text](https://www.theverge.com/2024/1/2/24022563/x-twitter-headlines-article-links-tiny-text)
+ - [The best upcoming Android phones in 2024 and beyond](https://www.androidauthority.com/upcoming-android-phone-690821/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
