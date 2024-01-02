@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
- - 😝 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
+ - 6️⃣ [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
+ - 😝 [What a Chad](http://9gag.com/gag/a6q0DrR)
  - 👉 [Can someone translate?](http://9gag.com/gag/aVbpEMn)<!-- MEMES:END -->
 
 --- 
