@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
- - 😝 [Change my mind](http://9gag.com/gag/aA086j0)
- - 👉 [Japanese Airlines aircraft crash in Haneda Airport](http://9gag.com/gag/a5XOBLq)<!-- MEMES:END -->
+ - 😝 [JAL plane collision](http://9gag.com/gag/aZD68x6)
+ - 👉 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)<!-- MEMES:END -->
 
 --- 
 
