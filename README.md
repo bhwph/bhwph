@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Graphics Card for Gamers and Creatives in 2024     - CNET](https://www.cnet.com/tech/gaming/best-graphics-card/#ftag=CAD590a51e)
- - [Best USB-C PD Chargers for 2024     - CNET](https://www.cnet.com/tech/mobile/best-usb-c-pd-chargers/#ftag=CAD590a51e)
- - [Best Speakerphone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: Fidelity marks down the value of its X stake, estimating the company is worth ~28% of the $44B that Elon Musk paid, down from 33% in May 2023 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240101/p6#a240101p6)
+ - [Best Multipoint Bluetooth Headphones and Earbuds for 2024     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)
+ - [Best Standing Desks of 2024     - CNET](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
