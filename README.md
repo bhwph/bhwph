@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;If [money] is an issue, pirate it and buy a copy later&#39;: the devs of our favourite surprise horror hit want you to play it spoiler free—by any means necessary](https://www.pcgamer.com/if-money-is-an-issue-pirate-it-and-buy-a-copy-later-the-devs-of-our-favourite-surprise-horror-hit-want-you-to-play-it-spoiler-freeby-any-means-necessary)
- - [Popular Slay the Spire mod hacked to deliver malware on Christmas Day](https://www.pcgamer.com/popular-slay-the-spire-mod-hacked-to-deliver-malware-on-christmas-day)
- - [Pokémon Go Ditto disguises list for January 2024](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)<!-- GAME:END -->
+ - [Call Of Duty Ghost Thirst Propels Character To Top Of Fanfic Site](https://kotaku.com/call-of-duty-ghost-soap-ship-ao3-gay-1851134343)
+ - [Horrifying Mickey Mouse copycats arrive as Steamboat Willie hits public domain](https://www.polygon.com/24022439/mickey-mouse-public-domain-steamboat-willie-horror-movie-games)
+ - [The Sinking City legal battle ends with victory for Frogwares, new version of the game &#39;coming soon&#39;](https://www.pcgamer.com/the-sinking-city-legal-battle-ends-with-victory-for-frogwares-new-version-of-the-game-coming-soon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
