@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BT says 99% of its UK &quot;core traffic is now being served by non-Huawei kit&quot;, missing the UK deadline to move data flows off Huawei&#39;s equipment after the 2020 ban &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/240102/p8#a240102p8)
- - [DoJ&#39;s Apple App Store probe is &#39;firing on all cylinders&#39;](https://appleinsider.com/articles/24/01/02/dojs-apple-app-store-probe-is-firing-on-all-cylinders?utm_medium=rss)
- - [Apple released no new iPads in 2023, the first year without a new tablet since the iPad&#39;s launch in 2010; rumors suggest all iPad models will get a 2024 update &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/240102/p7#a240102p7)<!-- TECH:END -->
+ - [Save $1,600 on this loaded MacBook Pro with 64GB RAM, 2TB SSD](https://appleinsider.com/articles/24/01/01/save-1600-on-this-loaded-macbook-pro-with-64gb-ram-2tb-ssd?utm_medium=rss)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Amazon slashes $100 off the Samsung Galaxy Tab S9 for the first time](https://www.androidauthority.com/samsung-galaxy-tab-s9-amazon-deal-3399055/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
