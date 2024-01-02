@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
- - 😝 [Relationship advice I found on the interweb...](http://9gag.com/gag/aMEo4xV)
- - 👉 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)<!-- MEMES:END -->
+ - 6️⃣ [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
+ - 😝 [Food is ready](http://9gag.com/gag/anzm7K5)
+ - 👉 [Relationship advice I found on the interweb...](http://9gag.com/gag/aMEo4xV)<!-- MEMES:END -->
 
 --- 
 
