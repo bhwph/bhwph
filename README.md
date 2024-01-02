@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
- - 😝 [Food is ready](http://9gag.com/gag/anzm7K5)
- - 👉 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)<!-- MEMES:END -->
+ - 6️⃣ [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
+ - 😝 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
+ - 👉 [Relationship advice I found on the interweb...](http://9gag.com/gag/aMEo4xV)<!-- MEMES:END -->
 
 --- 
 
