@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 Nude Scenes Are Getting Xbox Players Banned](https://kotaku.com/baldurs-gate-3-xbox-series-x-s-nude-sex-scene-ban-1851133578)
- - [All the movies and TV shows based on videogames coming in 2024](https://www.pcgamer.com/video-game-movies-tv-shows-2024)
- - [Matt Colville&#39;s indie RPG, a direct challenge to D&amp;D&#39;s jack-of-all-trades fumbling, has earned nearly $4 million on Kickstarter](https://www.pcgamer.com/matt-colvilles-indie-rpg-a-direct-challenge-to-dandds-jack-of-all-trades-fumbling-has-earned-nearly-dollar4-million-on-kickstarter)<!-- GAME:END -->
+ - [&#39;If [money] is an issue, pirate it and buy a copy later&#39;: the devs of our favourite surprise horror hit want you to play it spoiler free—by any means necessary](https://www.pcgamer.com/if-money-is-an-issue-pirate-it-and-buy-a-copy-later-the-devs-of-our-favourite-surprise-horror-hit-want-you-to-play-it-spoiler-freeby-any-means-necessary)
+ - [Popular Slay the Spire mod hacked to deliver malware on Christmas Day](https://www.pcgamer.com/popular-slay-the-spire-mod-hacked-to-deliver-malware-on-christmas-day)
+ - [Pokémon Go Ditto disguises list for January 2024](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
