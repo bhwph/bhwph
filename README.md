@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The must-watch anime to look out for in winter 2024](https://www.polygon.com/23960593/new-anime-2024-release-calendar-schedule-watch-streaming)
- - [Monster Hunter: World just hit its highest concurrent player count in over 3 years](https://www.pcgamer.com/monster-hunter-world-just-hit-its-highest-concurrent-player-count-in-over-3-years)
- - [Starfield enters 2024 with &#39;Mostly Negative&#39; recent reviews on Steam](https://www.pcgamer.com/starfield-enters-2024-with-mostly-negative-recent-reviews-on-steam)<!-- GAME:END -->
+ - [Baldur’s Gate 3 Nude Scenes Are Getting Xbox Players Banned](https://kotaku.com/baldurs-gate-3-xbox-series-x-s-nude-sex-scene-ban-1851133578)
+ - [All the movies and TV shows based on videogames coming in 2024](https://www.pcgamer.com/video-game-movies-tv-shows-2024)
+ - [Matt Colville&#39;s indie RPG, a direct challenge to D&amp;D&#39;s jack-of-all-trades fumbling, has earned nearly $4 million on Kickstarter](https://www.pcgamer.com/matt-colvilles-indie-rpg-a-direct-challenge-to-dandds-jack-of-all-trades-fumbling-has-earned-nearly-dollar4-million-on-kickstarter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
