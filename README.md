@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
- - 😝 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)
- - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
+ - 6️⃣ [The Korean War and casualties](http://9gag.com/gag/armQX6X)
+ - 😝 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
+ - 👉 [Nope](http://9gag.com/gag/aDYK8Od)<!-- MEMES:END -->
 
 --- 
 
