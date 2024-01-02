@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty Ghost Thirst Propels Character To Top Of Fanfic Site](https://kotaku.com/call-of-duty-ghost-soap-ship-ao3-gay-1851134343)
- - [Horrifying Mickey Mouse copycats arrive as Steamboat Willie hits public domain](https://www.polygon.com/24022439/mickey-mouse-public-domain-steamboat-willie-horror-movie-games)
- - [The Sinking City legal battle ends with victory for Frogwares, new version of the game &#39;coming soon&#39;](https://www.pcgamer.com/the-sinking-city-legal-battle-ends-with-victory-for-frogwares-new-version-of-the-game-coming-soon)<!-- GAME:END -->
+ - [Disney says Star Wars Outlaws coming &#39;late this year,&#39; then quickly takes it back](https://www.pcgamer.com/disney-says-star-wars-outlaws-coming-late-this-year-then-quickly-takes-it-back)
+ - [Where to find Starcats in Destiny 2: Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline)
+ - [‘Starcrossed’ Exotic mission and secret chests guide in Destiny 2: Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/24008173/starcrossed-secret-chest-wish-keeper-exotic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
