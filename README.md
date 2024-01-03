@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I think it was the left thing to do](http://9gag.com/gag/aeQnxZ5)
- - 😝 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
- - 👉 [Lmao](http://9gag.com/gag/ap94xD8)<!-- MEMES:END -->
+ - 6️⃣ [This is a great idea](http://9gag.com/gag/armQA3B)
+ - 😝 [I think I downloaded the wrong Skyrim](http://9gag.com/gag/aDYK8Vw)
+ - 👉 [Wild wanker](http://9gag.com/gag/awZEdmx)<!-- MEMES:END -->
 
 --- 
 
