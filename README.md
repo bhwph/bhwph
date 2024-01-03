@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mickey Mouse has left the house: Steamboat Willie enters the public domain](https://www.theverge.com/24023543/disney-mickey-mouse-steamboat-willie-public-domain)
- - [Forget Growth. Optimize for Resilience](https://www.wired.com/story/forget-growth-optimize-resilience/)
- - [LG’s 2024 OLED TVs put a bigger focus on AI processing than ever before](https://www.theverge.com/2024/1/3/24023584/lg-2024-oled-tv-lineup-m4-g4-c4-b4-features-specs)<!-- TECH:END -->
+ - [A look at the cottage industry of lawyers helping Amazon marketplace sellers reactivate their accounts after suspensions, as Amazon cracks down on millions &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240103/p17#a240103p17)
+ - [Roku Pro Series TV line launched: Premium Roku TVs with 4K QLED screens, more](https://www.androidauthority.com/roku-pro-series-tv-3398501/)
+ - [Assassin’s Creed Valhalla and Resident Evil 2 hit Xbox Game Pass this month — but no Call of Duty yet](https://www.theverge.com/2024/1/3/24023670/xbox-game-pass-2024-assassins-creed-valhalla-resident-evil-2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
