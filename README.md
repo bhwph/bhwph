@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)
- - 😝 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
- - 👉 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)<!-- MEMES:END -->
+ - 6️⃣ [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)
+ - 😝 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
+ - 👉 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)<!-- MEMES:END -->
 
 --- 
 
