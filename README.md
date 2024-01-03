@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ugreen Nexode 4-in-1 Desktop charger review: Big power on your desk or on the road](https://appleinsider.com/articles/24/01/03/ugreen-nexode-4-in-1-desktop-charger-review-big-power-on-your-desk-or-on-the-road?utm_medium=rss)
- - [This Ultrasound Bra Could Detect Cancer Sooner](https://www.wired.com/story/ultrasound-bra-breast-cancer-detection/)
- - [Former NBA Star Rick Fox Is Making a Play for Carbon-Neutral Concrete](https://www.wired.com/story/former-nba-star-rick-fox-is-shooting-for-carbon-neutral-concrete/)<!-- TECH:END -->
+ - [Mickey Mouse has left the house: Steamboat Willie enters the public domain](https://www.theverge.com/24023543/disney-mickey-mouse-steamboat-willie-public-domain)
+ - [Forget Growth. Optimize for Resilience](https://www.wired.com/story/forget-growth-optimize-resilience/)
+ - [LG’s 2024 OLED TVs put a bigger focus on AI processing than ever before](https://www.theverge.com/2024/1/3/24023584/lg-2024-oled-tv-lineup-m4-g4-c4-b4-features-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
