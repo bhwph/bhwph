@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Give me your best pethetic meme](http://9gag.com/gag/anzmnML)
- - 😝 [Chat gpt professor](http://9gag.com/gag/abvNW9B)
- - 👉 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)<!-- MEMES:END -->
+ - 6️⃣ [She will regret this](http://9gag.com/gag/a8qR0z1)
+ - 😝 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
+ - 👉 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)<!-- MEMES:END -->
 
 --- 
 
