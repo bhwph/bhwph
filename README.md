@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dozens of 4K Blu-rays are 3 for $33 at Amazon](https://www.polygon.com/deals/24023748/4k-blu-ray-titles-matrix-mad-max-amazon-deals)
- - [15 indie games to look forward to in 2024](https://www.polygon.com/gaming/24006309/best-new-indie-games-2024-release-calendar-schedule)
- - [Xbox Game Pass’ January Offerings Kick Off 2024 With A Bang](https://kotaku.com/xbox-game-pass-january-2024-ac-valhalla-resident-evil-2-1851136086)<!-- GAME:END -->
+ - [The First Omen looks like a fitting beginning for the Damien, the world’s most evil child](https://www.polygon.com/24023915/the-first-omen-trailer-teaser-release-date-cast-prequel-damien)
+ - [Best Buy Will Soon Stop Selling Blu-rays And DVDs](https://kotaku.com/best-buy-dvd-blu-ray-games-sales-stop-2024-1851136668)
+ - [Game Pass adding the best Resident Evil, Assassin’s Creed Valhalla in January](https://www.polygon.com/24023712/xbox-game-pass-pc-january-2024-games-release-dates)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
