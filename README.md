@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Want beach? Too bad, here shadow](http://9gag.com/gag/aMEoBNX)
- - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
- - 👉 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)<!-- MEMES:END -->
+ - 6️⃣ [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)
+ - 😝 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
+ - 👉 [The Korean War and casualties](http://9gag.com/gag/armQX6X)<!-- MEMES:END -->
 
 --- 
 
