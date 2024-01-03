@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israel, which has so far set aside $100M to shield its tech startups from the fallout of its war with Hamas, calls on private investors to help the sector &lpar;James Shotter/Financial Times&rpar;](http://www.techmeme.com/240103/p2#a240103p2)
- - [London-based Robin AI, which develops a free Microsoft Word add-in for creating and reviewing legal contracts using Anthropic&#39;s Claude, raised a $26M Series B &lpar;Paul Gillin/SiliconANGLE&rpar;](http://www.techmeme.com/240103/p1#a240103p1)
- - [This new fingerprint smart lock is the first to support Matter-over-Thread](https://www.theverge.com/2024/1/3/24022990/ultraloq-bolt-matter-thread-smart-lock-ces24)<!-- TECH:END -->
+ - [Galaxy A55 sneak peek shows Samsung’s new ‘Key Island’ design and color options](https://www.androidauthority.com/samsung-galaxy-a55-colors-design-3399348/)
+ - [Former employees at IRL, which is being sued by SoftBank for fraud, detail several problems that were apparent from the start, including inflated user metrics &lpar;Financial Times&rpar;](http://www.techmeme.com/240103/p6#a240103p6)
+ - [Airbus begins talks to acquire Atos&#39; cybersecurity and data unit, in a deal that could be valued up to &amp;euro;1.8B; Atos says another company had also made an offer &lpar;Wout Vergauwen/Bloomberg&rpar;](http://www.techmeme.com/240103/p5#a240103p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
