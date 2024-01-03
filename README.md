@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Got Apple Card Savings? Your interest tax form is coming very soon](https://appleinsider.com/articles/24/01/02/apple-will-soon-send-apple-card-savings-users-1099-int-tax-forms?utm_medium=rss)
- - [iPhone 16 won&#39;t be compelling, says analyst with no compelling data](https://appleinsider.com/articles/24/01/02/barclays-says-iphone-16-wont-be-compelling?utm_medium=rss)
- - [Apple Vision Pro imminent, with launch rumored at end of January](https://appleinsider.com/articles/24/01/02/apple-vision-pro-imminent-with-end-of-january-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Antenna: US customer cancellations at major streamers rose to 6.3% in November, up from 5.1% YoY; 24% of users canceled 3+ subscriptions over the past two years &lpar;Sarah Krouse/Wall Street Journal&rpar;](http://www.techmeme.com/240102/p20#a240102p20)
+ - [Pornhub blocks access in two more states, Montana and North Carolina, in protest of the states&#39; age verification laws &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240102/p19#a240102p19)
+ - [Sex, Drugs, and AI Mickey Mouse](https://www.wired.com/story/mickey-mouse-steamboat-willie-public-domain-artificial-intelligence/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
