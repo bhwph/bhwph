@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pour one out for the late great Windows 7: Steam has finally stopped supporting Windows 7, 8, and 8.1](https://www.pcgamer.com/pour-one-out-for-the-late-great-windows-7-steam-has-finally-stopped-supporting-windows-7-8-and-81)
- - [Twitch&#39;s nudity laws continue to shift: Cleavage is &#39;unrestricted&#39;, but no underboob allowed](https://www.pcgamer.com/twitchs-nudity-laws-continue-to-shift-cleavage-is-unrestricted-but-no-underboob-allowed)
- - [Pokémon Concierge Has The Best Vibes Of Any Show In The Series](https://kotaku.com/pokemon-concierge-show-series-netflix-review-1851137189)<!-- GAME:END -->
+ - [Unpacking’s secret messy mode just got a big viral boost](https://www.polygon.com/24024185/unpacking-dark-star-mode-developer-interview)
+ - [Twitch Bans Implied Nakedness In Response To ‘Nudity Meta’](https://kotaku.com/twitch-policy-change-artistic-nudity-1851137925)
+ - [Iconic Kim Kardashian: Hollywood mobile game shutting down after a decade](https://www.polygon.com/24024266/kim-kardashian-mobile-game-shutting-down-glu-mobile)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
