@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a Chad](http://9gag.com/gag/a6q0DrR)
- - 😝 [Trap](http://9gag.com/gag/adPGn6B)
- - 👉 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)<!-- MEMES:END -->
+ - 6️⃣ [Joe Rogan STUMPS Woke Comedian With A Simple Question](http://9gag.com/gag/aoKv4P2)
+ - 😝 [The Korean War and casualties](http://9gag.com/gag/armQX6X)
+ - 👉 [A ride for 9gag](http://9gag.com/gag/ay2b6z8)<!-- MEMES:END -->
 
 --- 
 
