@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)
- - 😝 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
- - 👉 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)<!-- MEMES:END -->
+ - 6️⃣ [What a Chad](http://9gag.com/gag/a6q0DrR)
+ - 😝 [Trap](http://9gag.com/gag/adPGn6B)
+ - 👉 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)<!-- MEMES:END -->
 
 --- 
 
