@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
- - 😝 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
- - 👉 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)<!-- MEMES:END -->
+ - 6️⃣ [I think it was the left thing to do](http://9gag.com/gag/aeQnxZ5)
+ - 😝 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
+ - 👉 [Lmao](http://9gag.com/gag/ap94xD8)<!-- MEMES:END -->
 
 --- 
 
