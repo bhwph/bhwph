@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The First Omen looks like a fitting beginning for the Damien, the world’s most evil child](https://www.polygon.com/24023915/the-first-omen-trailer-teaser-release-date-cast-prequel-damien)
- - [Best Buy Will Soon Stop Selling Blu-rays And DVDs](https://kotaku.com/best-buy-dvd-blu-ray-games-sales-stop-2024-1851136668)
- - [Game Pass adding the best Resident Evil, Assassin’s Creed Valhalla in January](https://www.polygon.com/24023712/xbox-game-pass-pc-january-2024-games-release-dates)<!-- GAME:END -->
+ - [Pour one out for the late great Windows 7: Steam has finally stopped supporting Windows 7, 8, and 8.1](https://www.pcgamer.com/pour-one-out-for-the-late-great-windows-7-steam-has-finally-stopped-supporting-windows-7-8-and-81)
+ - [Twitch&#39;s nudity laws continue to shift: Cleavage is &#39;unrestricted&#39;, but no underboob allowed](https://www.pcgamer.com/twitchs-nudity-laws-continue-to-shift-cleavage-is-unrestricted-but-no-underboob-allowed)
+ - [Pokémon Concierge Has The Best Vibes Of Any Show In The Series](https://kotaku.com/pokemon-concierge-show-series-netflix-review-1851137189)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
