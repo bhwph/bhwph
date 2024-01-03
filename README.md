@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Assassin’s Creed Valhalla, Resident Evil 2, Hell Let Loose, and More](https://news.xbox.com/en-us/2024/01/03/new-game-pass-games-for-january-2024/)
- - [The most anticipated new board games of 2024](https://www.polygon.com/tabletop-games/24016314/most-anticipated-board-games-2024)
- - [Intel&#39;s 6.2GHz uber CPU expected to launch at CES 2024 as new image emerges](https://www.pcgamer.com/intels-62ghz-uber-cpu-expected-to-launch-at-ces-2024-as-new-image-emerges)<!-- GAME:END -->
+ - [Dozens of 4K Blu-rays are 3 for $33 at Amazon](https://www.polygon.com/deals/24023748/4k-blu-ray-titles-matrix-mad-max-amazon-deals)
+ - [15 indie games to look forward to in 2024](https://www.polygon.com/gaming/24006309/best-new-indie-games-2024-release-calendar-schedule)
+ - [Xbox Game Pass’ January Offerings Kick Off 2024 With A Bang](https://kotaku.com/xbox-game-pass-january-2024-ac-valhalla-resident-evil-2-1851136086)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
