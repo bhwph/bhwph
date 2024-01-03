@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LastPass will finally enforce a 12-character minimum master password](https://www.theverge.com/2024/1/3/24024012/lastpass-master-password-12-character-minimum-requirement-data-breach)
- - [iOS 17.3 Beta 2 locking up iPhones for some users](https://appleinsider.com/articles/24/01/03/ios-173-beta-2-locking-up-iphones-for-some-users?utm_medium=rss)
- - [TikTok Shop will raise its US seller fees from 2% to 8% over the next few months; a source says TikTok Shop has started reducing some subsidies for merchants &lpar;The Information&rpar;](http://www.techmeme.com/240103/p21#a240103p21)<!-- TECH:END -->
+ - [The US NLRB accuses SpaceX of illegally firing eight employees in 2022 for circulating a letter critical of CEO Elon Musk &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240103/p23#a240103p23)
+ - [Fun new deepfake consequence: more convincing crypto scams](https://www.theverge.com/2024/1/3/24024262/youtube-twitter-x-crypto-solana-deepfake-scam)
+ - [California senator files bill prohibiting agencies from working with unethical AI companies](https://www.theverge.com/2024/1/3/24024258/ai-bill-unethical-ai-california-ban-regulation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
