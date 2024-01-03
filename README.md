@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We begged for more information, more details … all flatly declined&#39;: former Blizzard community development manager tears into Bobby Kotick over Overwatch 2&#39;s Steam launch](https://www.pcgamer.com/we-begged-for-more-information-more-details-all-flatly-declined-former-blizzard-community-development-manager-tears-into-bobby-kotick-over-overwatch-2s-steam-launch)
- - [The exceptional Tomb Raider reboot, a game with 140K &#39;Overwhelmingly Positive&#39; reviews, is on-sale for the price of a cup of coffee](https://www.pcgamer.com/the-exceptional-tomb-raider-reboot-a-game-with-140k-overwhelmingly-positive-reviews-is-on-sale-for-the-price-of-a-cup-of-coffee)
- - [Wordle today: Hint and answer #928 for Wednesday, January 3](https://www.pcgamer.com/wordle-today-answer-928-january-3)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Assassin’s Creed Valhalla, Resident Evil 2, Hell Let Loose, and More](https://news.xbox.com/en-us/2024/01/03/new-game-pass-games-for-january-2024/)
+ - [The most anticipated new board games of 2024](https://www.polygon.com/tabletop-games/24016314/most-anticipated-board-games-2024)
+ - [Intel&#39;s 6.2GHz uber CPU expected to launch at CES 2024 as new image emerges](https://www.pcgamer.com/intels-62ghz-uber-cpu-expected-to-launch-at-ces-2024-as-new-image-emerges)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
