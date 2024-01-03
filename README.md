@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
- - 😝 [African men cannot relate to a woman&#39;s r*pe trauma.](http://9gag.com/gag/aMEoPrR)
- - 👉 [He felt happiness for 10 seconds](http://9gag.com/gag/adPGxeV)<!-- MEMES:END -->
+ - 6️⃣ [Give me your best pethetic meme](http://9gag.com/gag/anzmnML)
+ - 😝 [Chat gpt professor](http://9gag.com/gag/abvNW9B)
+ - 👉 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)<!-- MEMES:END -->
 
 --- 
 
