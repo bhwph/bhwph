@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Social Experiment](http://9gag.com/gag/a04rnqX)
- - 😝 [5 years ago I would have told you that all races and religions are equal, and can work together. Today I&#39;m convinced that unity is an unobtainable dream.](http://9gag.com/gag/a7qY2Ke)
- - 👉 [Programmers competing to make the worst volume slider of all time &lpar;3:39&rpar;](http://9gag.com/gag/aPgEo0g)<!-- MEMES:END -->
+ - 6️⃣ [This is a great idea](http://9gag.com/gag/armQA3B)
+ - 😝 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
+ - 👉 [Wild wanker](http://9gag.com/gag/awZEdmx)<!-- MEMES:END -->
 
 --- 
 
