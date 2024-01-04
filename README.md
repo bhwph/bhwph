@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unpacking’s secret messy mode just got a big viral boost](https://www.polygon.com/24024185/unpacking-dark-star-mode-developer-interview)
- - [Twitch Bans Implied Nakedness In Response To ‘Nudity Meta’](https://kotaku.com/twitch-policy-change-artistic-nudity-1851137925)
- - [Iconic Kim Kardashian: Hollywood mobile game shutting down after a decade](https://www.polygon.com/24024266/kim-kardashian-mobile-game-shutting-down-glu-mobile)<!-- GAME:END -->
+ - [Warhammer co-creator Bryan Ansell has died](https://www.pcgamer.com/warhammer-co-creator-bryan-ansell-has-died)
+ - [The Finals players are tormenting each other with the unexpected power of the Goo Gun](https://www.pcgamer.com/the-finals-players-are-tormenting-each-other-with-the-unexpected-power-of-the-goo-gun)
+ - [Death Comes For Us All: Steam No Longer Supports Windows 7](https://kotaku.com/steam-support-windows-7-8-valve-ending-updates-1851138071)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
