@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tractors vs government](http://9gag.com/gag/amAeVV2)
- - 😝 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
- - 👉 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)<!-- MEMES:END -->
+ - 6️⃣ [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - 😝 [Tractors vs government](http://9gag.com/gag/amAeVV2)
+ - 👉 [I think I downloaded the wrong Skyrim](http://9gag.com/gag/aDYK8Vw)<!-- MEMES:END -->
 
 --- 
 
