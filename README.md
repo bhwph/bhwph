@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Villainous getting a slimmer, cheaper reboot in 2024](https://www.polygon.com/tabletop-games/24025009/disney-villainous-star-wars-expandalones-2024)
- - [Trivial Pursuit has a new Wordle-inspired &lpar;and AI-powered&rpar; version](https://www.polygon.com/24024205/trivial-pursuit-infinite-daily-challenge-game-hasbro)
- - [The Xbox Series S two-slice toaster is here and my body is b-ready](https://www.pcgamer.com/the-xbox-series-s-two-slice-toaster-is-here-and-my-body-is-b-ready)<!-- GAME:END -->
+ - [British TV Host Tells Teenage Tetris Whiz To ‘Go Outside’](https://kotaku.com/tetris-beaten-sky-news-blue-scuti-kill-screen-1851139960)
+ - [Pretending to be your D&amp;D character makes working out a lot more engaging](https://www.polygon.com/gaming/24024191/dungeons-and-dragons-fitness-workout-new-years-resolution)
+ - [It&#39;s only a few days into 2024 and Razer&#39;s already dropping a couple of &#39;world&#39;s firsts&#39; ahead of CES](https://www.pcgamer.com/its-only-a-few-days-into-2024-and-razers-already-dropping-a-couple-of-worlds-firsts-ahead-of-ces)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
