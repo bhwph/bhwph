@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mobileye stock drops 25% after the self-driving tech company warned that customer orders may fall in Q1 as automakers stocked up during chip shortages &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240104/p21#a240104p21)
- - [Apple&#39;s suppliers have so far spent $16 billion to move from China](https://appleinsider.com/articles/24/01/04/apples-suppliers-have-so-far-spent-16-billion-to-move-from-china?utm_medium=rss)
- - [Razer updates Blade 16 and 18 with new displays](https://www.theverge.com/2024/1/4/24024217/razer-gaming-laptop-updates-blade-16-18-oled-4k-ces)<!-- TECH:END -->
+ - [Google appears to be working on an ‘advanced’ version of Bard that you have to pay for](https://www.theverge.com/2024/1/4/24025270/google-bard-advanced-paid-subscription)
+ - [Software design pioneer and Pascal creator Niklaus Wirth, who devised nine programming languages and won the Turing Award in 1984, dies at 89 &lpar;Liam Proven/The Register&rpar;](http://www.techmeme.com/240104/p24#a240104p24)
+ - [Catch this chance to grab the OnePlus Open at its Black Friday price](https://www.androidauthority.com/oneplus-open-galaxy-z-fold-5-deal-3399807/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
