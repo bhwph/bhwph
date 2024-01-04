@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US NLRB accuses SpaceX of illegally firing eight employees in 2022 for circulating a letter critical of CEO Elon Musk &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240103/p23#a240103p23)
- - [Fun new deepfake consequence: more convincing crypto scams](https://www.theverge.com/2024/1/3/24024262/youtube-twitter-x-crypto-solana-deepfake-scam)
- - [California senator files bill prohibiting agencies from working with unethical AI companies](https://www.theverge.com/2024/1/3/24024258/ai-bill-unethical-ai-california-ban-regulation)<!-- TECH:END -->
+ - [LG’s unveils OLED gaming monitor with a blistering 480Hz refresh rate](https://www.androidauthority.com/lg-gaming-monitor-3399552/)
+ - [LG just made the fastest OLED gaming display yet](https://www.theverge.com/2024/1/3/24024042/lg-display-oled-480hz-oled-gaming-monitor)
+ - [Judge denies Apple a sanction it demanded on patent troll&#39;s lawyer](https://appleinsider.com/articles/24/01/04/judge-denies-apple-a-sanction-it-demanded-on-patent-trolls-lawyer?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
