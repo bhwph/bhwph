@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Heroes of the Storm comes full circle as a mod of the game of the mod](https://www.pcgamer.com/heroes-of-the-storm-comes-full-circle-as-a-mod-of-the-game-of-the-mod)
- - [Sorry, Gale—unimaginable arcane power in Baldur&#39;s Gate 3 is as simple as taking off your underwear](https://www.pcgamer.com/sorry-galeunimaginable-arcane-power-in-baldurs-gate-3-is-as-simple-as-taking-off-your-underwear)
- - [Asus teases a new ZenBook Duo reveal for CES 2024 and it looks like that second screen is going full-size OLED](https://www.pcgamer.com/asus-teases-a-new-zenbook-duo-reveal-for-ces-2024-and-it-looks-like-that-second-screen-is-going-full-size-oled)<!-- GAME:END -->
+ - [Disney Villainous getting a slimmer, cheaper reboot in 2024](https://www.polygon.com/tabletop-games/24025009/disney-villainous-star-wars-expandalones-2024)
+ - [Trivial Pursuit has a new Wordle-inspired &lpar;and AI-powered&rpar; version](https://www.polygon.com/24024205/trivial-pursuit-infinite-daily-challenge-game-hasbro)
+ - [The Xbox Series S two-slice toaster is here and my body is b-ready](https://www.pcgamer.com/the-xbox-series-s-two-slice-toaster-is-here-and-my-body-is-b-ready)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
