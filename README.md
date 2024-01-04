@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I think I downloaded the wrong Skyrim](http://9gag.com/gag/aDYK8Vw)
- - 😝 [The Simpsons](http://9gag.com/gag/a04rEVd)
- - 👉 [Social Experiment](http://9gag.com/gag/a04rnqX)<!-- MEMES:END -->
+ - 6️⃣ [Japan can you stop for a minute? Damn. Bingo card making it an everyday card.](http://9gag.com/gag/aBdAXez)
+ - 😝 [We want justice](http://9gag.com/gag/ay2b6Zq)
+ - 👉 [Wild wanker](http://9gag.com/gag/awZEdmx)<!-- MEMES:END -->
 
 --- 
 
