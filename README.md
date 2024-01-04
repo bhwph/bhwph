@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer co-creator Bryan Ansell has died](https://www.pcgamer.com/warhammer-co-creator-bryan-ansell-has-died)
- - [The Finals players are tormenting each other with the unexpected power of the Goo Gun](https://www.pcgamer.com/the-finals-players-are-tormenting-each-other-with-the-unexpected-power-of-the-goo-gun)
- - [Death Comes For Us All: Steam No Longer Supports Windows 7](https://kotaku.com/steam-support-windows-7-8-valve-ending-updates-1851138071)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #929 for Thursday, January 4](https://www.pcgamer.com/wordle-today-answer-929-january-4)
+ - [AMD&#39;s Ryzen 8000-series APUs are looking pretty darn strong](https://www.pcgamer.com/amds-ryzen-8000-series-apus-are-looking-pretty-darn-strong)
+ - [Warhammer co-creator Bryan Ansell has died](https://www.pcgamer.com/warhammer-co-creator-bryan-ansell-has-died)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
