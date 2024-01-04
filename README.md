@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eufy SmartTrack Card review: A great Find My tracker for your wallet](https://appleinsider.com/articles/24/01/04/eufy-smarttrack-card-review-a-great-find-my-tracker-for-your-wallet?utm_medium=rss)
- - [Best iPhone 15 Deals: Get Up to $1,100 in Trade-In Credit     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
- - [The CEO of collapsed crypto fund HyperVerse, introduced to investors in 2021, doesn&#39;t appear to exist; Chainalysis: HyperVerse&#39;s 2022 consumer losses were $1.3B &lpar;Sarah Martin/The Guardian&rpar;](http://www.techmeme.com/240103/p26#a240103p26)<!-- TECH:END -->
+ - [PitchBook: VC investment in the US fell 30% YoY to $170.6B in 2023, lowest since 2019, and declined 35% YoY to $345.7B globally, lowest since 2017 &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240104/p3#a240104p3)
+ - [Apple suspends latest iOS 17.3 beta after reports of bricked iPhones](https://www.androidauthority.com/apple-ios-17-3-beta-2-boot-loop-issue-3399645/)
+ - [Q&amp;A with Jacob Bakkila, who ran the popular @Horse_ebooks Twitter account for two years, on the inspiration for the language bot, AI chatbots, and more &lpar;Kari Paul/The Guardian&rpar;](http://www.techmeme.com/240104/p2#a240104p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
