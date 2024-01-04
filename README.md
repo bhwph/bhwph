@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We Know About Star Wars Outlaws](https://kotaku.com/star-wars-outlaws-release-date-pc-xbox-ps5-timeline-1851141003)
- - [One of our top games of 2021 is free to keep on the Epic Store for the next week](https://www.pcgamer.com/one-of-our-top-games-of-2021-is-free-to-keep-on-the-epic-store-for-the-next-week)
- - [Beloved superhero MMO fan server gets an official license, fans rejoice](https://www.polygon.com/24025506/city-of-heroes-homecoming-server-ncsoft-license-agreement)<!-- GAME:END -->
+ - [This city builder just shot to the top of my wishlist because it lets you design, build, and decorate every single building in your town](https://www.pcgamer.com/this-city-builder-just-shot-to-the-top-of-my-wishlist-because-it-lets-you-design-build-and-decorate-every-single-building-in-your-town)
+ - [Star Citizen&#39;s &#39;Everything Pack&#39; Costs $48,000](https://kotaku.com/star-citizen-legatus-ship-pack-cost-48-000-rsi-1851141609)
+ - [The big PC gaming events in 2024](https://www.pcgamer.com/video-game-events-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
