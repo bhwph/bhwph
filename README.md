@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google appears to be working on an ‘advanced’ version of Bard that you have to pay for](https://www.theverge.com/2024/1/4/24025270/google-bard-advanced-paid-subscription)
- - [Software design pioneer and Pascal creator Niklaus Wirth, who devised nine programming languages and won the Turing Award in 1984, dies at 89 &lpar;Liam Proven/The Register&rpar;](http://www.techmeme.com/240104/p24#a240104p24)
- - [Catch this chance to grab the OnePlus Open at its Black Friday price](https://www.androidauthority.com/oneplus-open-galaxy-z-fold-5-deal-3399807/)<!-- TECH:END -->
+ - [The European Central Bank plans to award &amp;euro;1.3B in contracts to help develop a digital euro; Amazon was selected in the past to help design the CBDC prototype &lpar;Inbar Preiss/DL News&rpar;](http://www.techmeme.com/240104/p28#a240104p28)
+ - [Display More of Your Favorite Photos with Aura Frames&#39; Buy Two, Save $15 Sale     - CNET](https://www.cnet.com/deals/aura-smart-picture-frames-buy-two-get-15-off/#ftag=CAD590a51e)
+ - [The 25 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
