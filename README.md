@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea&#39;s trade ministry says the electronics sector drew $3B in foreign direct investment in 2023; the country is building a chip cluster south of Seoul &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/240104/p6#a240104p6)
- - [Catch a Deal or Two With These End-of-Year Sales on Fashion, Tech and More     - CNET](https://www.cnet.com/deals/catch-a-deal-or-two-with-these-end-of-year-sales-on-fashion-tech-and-more/#ftag=CAD590a51e)
- - [Dell’s new 120Hz ultrawide monitors max out at 40 inches and 5K](https://www.theverge.com/2024/1/4/24024951/dell-ultrasharp-curved-thunderbolt-monitor-u4025qw-u3425we-price-release-date-specs-features)<!-- TECH:END -->
+ - [Apple stock takes another hit, as Piper Sandler downgrades stock to neutral](https://appleinsider.com/articles/24/01/04/apple-stock-takes-another-hit-as-piper-sandler-downgrades-stock-to-neutral?utm_medium=rss)
+ - [Intel appoints HPE executive Justin Hotard to lead its data center and AI group, a crucial unit to its turnaround, replacing veteran Sandra Rivera on February 1 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240104/p14#a240104p14)
+ - [The Biden administration awards $162M in federal grants to Arizona-based Microchip Technology to expand in Oregon and Colorado, the second CHIPS Act award &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/240104/p13#a240104p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
