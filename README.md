@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s riveting survival drama Society of the Snow makes winter feel a whole lot colder](https://www.polygon.com/reviews/24024525/society-of-the-snow-review-true-story-survival-movie-netflix)
- - [The Classic Pokémon TCG set is available for its lowest price ever](https://www.polygon.com/deals/24025237/classic-pokemon-tcg-collectors-box-set-amazon-best-buy)
- - [NY Times lawsuit holds OpenAI and Microsoft &#39;responsible for the billions of dollars they owe for the unlawful copying and use of The Times&#39;s uniquely valuable works&#39;](https://www.pcgamer.com/ny-times-lawsuit-holds-openai-and-microsoft-responsible-for-the-billions-of-dollars-they-owe-for-the-unlawful-copying-and-use-of-the-timess-uniquely-valuable-works)<!-- GAME:END -->
+ - [Everything We Know About Star Wars Outlaws](https://kotaku.com/star-wars-outlaws-release-date-pc-xbox-ps5-timeline-1851141003)
+ - [One of our top games of 2021 is free to keep on the Epic Store for the next week](https://www.pcgamer.com/one-of-our-top-games-of-2021-is-free-to-keep-on-the-epic-store-for-the-next-week)
+ - [Beloved superhero MMO fan server gets an official license, fans rejoice](https://www.polygon.com/24025506/city-of-heroes-homecoming-server-ncsoft-license-agreement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
