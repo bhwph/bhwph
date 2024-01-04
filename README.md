@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s new Copilot key is the first big change to Windows keyboards in 30 years](https://www.theverge.com/2024/1/4/24023809/microsoft-copilot-key-keyboard-windows-laptops-pcs)
- - [Q&amp;A with Qualcomm CEO Cristiano Amon on generative AI moving from the cloud into mobile devices, AI changing the UX of smartphones, AI coming into VR, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240104/p4#a240104p4)
- - [Starbucks accused of manipulating app payments for $900 million profit](https://www.androidauthority.com/starbucks-unfair-app-payments-900-million-dollar-profit-3399674/)<!-- TECH:END -->
+ - [South Korea&#39;s trade ministry says the electronics sector drew $3B in foreign direct investment in 2023; the country is building a chip cluster south of Seoul &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/240104/p6#a240104p6)
+ - [Catch a Deal or Two With These End-of-Year Sales on Fashion, Tech and More     - CNET](https://www.cnet.com/deals/catch-a-deal-or-two-with-these-end-of-year-sales-on-fashion-tech-and-more/#ftag=CAD590a51e)
+ - [Dell’s new 120Hz ultrawide monitors max out at 40 inches and 5K](https://www.theverge.com/2024/1/4/24024951/dell-ultrasharp-curved-thunderbolt-monitor-u4025qw-u3425we-price-release-date-specs-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
