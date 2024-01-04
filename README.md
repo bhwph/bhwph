@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
- - 😝 [They never learn\u2026. Biggest flop incoming](http://9gag.com/gag/a5XOj0G)
- - 👉 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)<!-- MEMES:END -->
+ - 😝 [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
+ - 👉 [Social Experiment](http://9gag.com/gag/a04rnqX)<!-- MEMES:END -->
 
 --- 
 
