@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [British TV Host Tells Teenage Tetris Whiz To ‘Go Outside’](https://kotaku.com/tetris-beaten-sky-news-blue-scuti-kill-screen-1851139960)
- - [Pretending to be your D&amp;D character makes working out a lot more engaging](https://www.polygon.com/gaming/24024191/dungeons-and-dragons-fitness-workout-new-years-resolution)
- - [It&#39;s only a few days into 2024 and Razer&#39;s already dropping a couple of &#39;world&#39;s firsts&#39; ahead of CES](https://www.pcgamer.com/its-only-a-few-days-into-2024-and-razers-already-dropping-a-couple-of-worlds-firsts-ahead-of-ces)<!-- GAME:END -->
+ - [Netflix’s riveting survival drama Society of the Snow makes winter feel a whole lot colder](https://www.polygon.com/reviews/24024525/society-of-the-snow-review-true-story-survival-movie-netflix)
+ - [The Classic Pokémon TCG set is available for its lowest price ever](https://www.polygon.com/deals/24025237/classic-pokemon-tcg-collectors-box-set-amazon-best-buy)
+ - [NY Times lawsuit holds OpenAI and Microsoft &#39;responsible for the billions of dollars they owe for the unlawful copying and use of The Times&#39;s uniquely valuable works&#39;](https://www.pcgamer.com/ny-times-lawsuit-holds-openai-and-microsoft-responsible-for-the-billions-of-dollars-they-owe-for-the-unlawful-copying-and-use-of-the-timess-uniquely-valuable-works)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
