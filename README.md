@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Central Bank plans to award &amp;euro;1.3B in contracts to help develop a digital euro; Amazon was selected in the past to help design the CBDC prototype &lpar;Inbar Preiss/DL News&rpar;](http://www.techmeme.com/240104/p28#a240104p28)
- - [Display More of Your Favorite Photos with Aura Frames&#39; Buy Two, Save $15 Sale     - CNET](https://www.cnet.com/deals/aura-smart-picture-frames-buy-two-get-15-off/#ftag=CAD590a51e)
- - [The 25 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
+ - [Switching from iPhone to Android? Here are 10 things you should expect](https://www.androidauthority.com/switching-iphone-to-android-3399426/)
+ - [How to configure and use hot corners on macOS](https://www.theverge.com/24025728/hot-corners-macos-how-to)
+ - [SpaceX is suing to bust up federal union protections](https://www.theverge.com/2024/1/4/24025712/spacex-nlrb-lawsuit-constitutional-violations-elon-musk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
