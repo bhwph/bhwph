@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice..](http://9gag.com/gag/az2WZNb)
- - 😝 [Unhealthy diet](http://9gag.com/gag/aPgE16V)
- - 👉 [One for the autistic audience](http://9gag.com/gag/ay2b1vW)<!-- MEMES:END -->
+ - 6️⃣ [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
+ - 😝 [They never learn\u2026. Biggest flop incoming](http://9gag.com/gag/a5XOj0G)
+ - 👉 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)<!-- MEMES:END -->
 
 --- 
 
