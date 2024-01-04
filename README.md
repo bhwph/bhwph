@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm announces Snapdragon XR2 Plus Gen 2, an update to the XR2 Gen 2 used in the Meta Quest 3, offering 4.3K resolution at 90fps per eye, up from 3K per eye &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240104/p17#a240104p17)
- - [Check out these anime wallpapers for your phone](https://www.androidauthority.com/anime-wallpapers-phone-3399627/)
- - [A Gel Injected Into the Scrotum Could Be the Next Male Contraceptive](https://www.wired.com/story/male-contraceptive-contraline-vasalgel-hydrogel/)<!-- TECH:END -->
+ - [Mobileye stock drops 25% after the self-driving tech company warned that customer orders may fall in Q1 as automakers stocked up during chip shortages &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240104/p21#a240104p21)
+ - [Apple&#39;s suppliers have so far spent $16 billion to move from China](https://appleinsider.com/articles/24/01/04/apples-suppliers-have-so-far-spent-16-billion-to-move-from-china?utm_medium=rss)
+ - [Razer updates Blade 16 and 18 with new displays](https://www.theverge.com/2024/1/4/24024217/razer-gaming-laptop-updates-blade-16-18-oled-4k-ces)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
