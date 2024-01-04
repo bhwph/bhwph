@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Japan can you stop for a minute? Damn. Bingo card making it an everyday card.](http://9gag.com/gag/aBdAXez)
- - 😝 [We want justice](http://9gag.com/gag/ay2b6Zq)
- - 👉 [Wild wanker](http://9gag.com/gag/awZEdmx)<!-- MEMES:END -->
+ - 6️⃣ [Unhealthy diet](http://9gag.com/gag/aPgE16V)
+ - 😝 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
+ - 👉 [One for the autistic audience](http://9gag.com/gag/ay2b1vW)<!-- MEMES:END -->
 
 --- 
 
