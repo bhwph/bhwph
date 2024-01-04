@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He felt happiness for 10 seconds](http://9gag.com/gag/adPGxeV)
- - 😝 [Wild wanker](http://9gag.com/gag/awZEdmx)
- - 👉 [Which movie scene do you despise the most?](http://9gag.com/gag/ap94ARn)<!-- MEMES:END -->
+ - 6️⃣ [Nice..](http://9gag.com/gag/az2WZNb)
+ - 😝 [Unhealthy diet](http://9gag.com/gag/aPgE16V)
+ - 👉 [One for the autistic audience](http://9gag.com/gag/ay2b1vW)<!-- MEMES:END -->
 
 --- 
 
