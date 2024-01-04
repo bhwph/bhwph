@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is a great idea](http://9gag.com/gag/armQA3B)
- - 😝 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
- - 👉 [Wild wanker](http://9gag.com/gag/awZEdmx)<!-- MEMES:END -->
+ - 6️⃣ [Tractors vs government](http://9gag.com/gag/amAeVV2)
+ - 😝 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
+ - 👉 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)<!-- MEMES:END -->
 
 --- 
 
