@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [There it is](http://9gag.com/gag/aQEL25r)
- - 😝 [Finally, true love.](http://9gag.com/gag/ap94VKp)
- - 👉 [Tractors vs government](http://9gag.com/gag/amAeVV2)<!-- MEMES:END -->
+ - 😝 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
+ - 👉 [Taxi driver in Bali threatening two tourists. The driver ignores the women\u2019s demands to be let out of the vehicle, tries to extort USD 50 from them, and threatens them with what appears to be a knife.](http://9gag.com/gag/a8qRzMQ)<!-- MEMES:END -->
 
 --- 
 
