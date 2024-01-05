@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There it is](http://9gag.com/gag/aQEL25r)
- - 😝 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
- - 👉 [Taxi driver in Bali threatening two tourists. The driver ignores the women\u2019s demands to be let out of the vehicle, tries to extort USD 50 from them, and threatens them with what appears to be a knife.](http://9gag.com/gag/a8qRzMQ)<!-- MEMES:END -->
+ - 6️⃣ [Ladies, always be considerate](http://9gag.com/gag/axoLm92)
+ - 😝 [The moment a 13-year-old competitive Tetris player prodigy from Oklahoma, advanced so far in the original Nintendo version of the game that it froze, and his score read \u201c999999.\u201d](http://9gag.com/gag/aOxMpQr)
+ - 👉 [Stephen Hawking as soon as the plane touched ground on Epstein&#39;s Island](http://9gag.com/gag/ajVzR0G)<!-- MEMES:END -->
 
 --- 
 
