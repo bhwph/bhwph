@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Customers left cold as Fanatec says Sony validation is delaying ClubSport DD+ wheel base: &#39;we expected to receive this approval sooner&#39;](https://www.pcgamer.com/customers-left-cold-as-fanatec-says-sony-validation-is-delaying-clubsport-dd-wheel-base-we-expected-to-receive-this-approval-sooner)
- - [Pre-order Suicide Squad: Kill the Justice League to get early access](https://www.polygon.com/deals/24024082/suicide-squad-kill-the-justice-league-pre-order-buy-deluxe-edition-early-access-costumes)
- - [Dell&#39;s new RTX 4070-powered XPS 16 laptop is an irresistible OLED beauty](https://www.pcgamer.com/dells-skinny-new-rtx-4070-powered-xps-16-laptop-is-an-irresistible-oled-beauty)<!-- GAME:END -->
+ - [League of Legends 2024 plans revealed, from Arcane to a baby dragon](https://www.polygon.com/24025336/league-of-legends-2024-plans-ambessa-smolder-champion)
+ - [Kotaku’s Weekend Guide: Four Great Games To Kick Off The New Year](https://kotaku.com/kotaku-games-to-play-sable-zelda-atomic-heart-1851143481)
+ - [The 7 city builders coming in 2024 that I can&#39;t wait to play](https://www.pcgamer.com/the-7-city-builders-coming-in-2024-that-i-cant-wait-to-play)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
