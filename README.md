@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Which movie scene do you despise the most?](http://9gag.com/gag/ap94ARn)
- - 😝 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
- - 👉 [There it is](http://9gag.com/gag/aQEL25r)<!-- MEMES:END -->
+ - 6️⃣ [There it is](http://9gag.com/gag/aQEL25r)
+ - 😝 [Finally, true love.](http://9gag.com/gag/ap94VKp)
+ - 👉 [Tractors vs government](http://9gag.com/gag/amAeVV2)<!-- MEMES:END -->
 
 --- 
 
