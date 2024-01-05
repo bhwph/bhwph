@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Awful, just awful](http://9gag.com/gag/adPGb7D)
- - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
- - 👉 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)<!-- MEMES:END -->
+ - 6️⃣ [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
+ - 😝 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
+ - 👉 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)<!-- MEMES:END -->
 
 --- 
 
