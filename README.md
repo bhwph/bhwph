@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s first smart home partner is Samsung SmartThings](https://www.theverge.com/2024/1/4/24026070/tesla-smart-home-samsung-smartthings-energy)
- - [Adobe: US online holiday sales between November 1 and December 31, 2023, reached a record $222.1B, up 4.9% YoY; BNPL contributed a record $16.6B, up 14% YoY &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240104/p31#a240104p31)
- - [Magnetic Wallet     - CNET](https://www.cnet.com/tech/magnetic-wallet-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Design software company InVision, once valued at $2B, plans to shut down at the end of 2024, after raising $350M+ from Goldman Sachs, Spark Capital, and others &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/240104/p32#a240104p32)
+ - [Samsung One UI 6.1 update: Features, release date, and what to expect](https://www.androidauthority.com/samsung-one-ui-6-1-3399958/)
+ - [Google broke labor laws when it refused to bargain with YouTube Music contract workers](https://www.theverge.com/2024/1/4/24026025/google-nlrb-youtube-music-contractors-alphabet-workers-union)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
