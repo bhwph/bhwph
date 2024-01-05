@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
- - [New iPhone 16 Pro mockups show off the capacitive Capture button](https://www.androidauthority.com/apple-iphone-16-pro-mockups-3400060/)
- - [They Had PTSD. A Psychedelic Called Ibogaine Helped Them Get Better](https://www.wired.com/story/they-had-ptsd-a-psychedelic-called-ibogaine-helped-them-get-better/)<!-- TECH:END -->
+ - [Tesla lowers Model Y, S, and X range estimations following exaggeration complaints](https://www.theverge.com/2024/1/5/24026367/tesla-lowers-range-estimations-model-x-s-y-mileage-exaggeration)
+ - [Keychron C3 Pro review: Affordable excellence in a mechanical keyboard](https://appleinsider.com/articles/24/01/05/keychron-c3-pro-review-affordable-excellence-in-a-mechanical-keyboard?utm_medium=rss)
+ - [Critical Infrastructure Is Sinking Along the US East Coast](https://www.wired.com/story/critical-infrastructure-is-sinking-along-the-us-east-coast/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
