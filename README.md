@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla lowers Model Y, S, and X range estimations following exaggeration complaints](https://www.theverge.com/2024/1/5/24026367/tesla-lowers-range-estimations-model-x-s-y-mileage-exaggeration)
- - [Keychron C3 Pro review: Affordable excellence in a mechanical keyboard](https://appleinsider.com/articles/24/01/05/keychron-c3-pro-review-affordable-excellence-in-a-mechanical-keyboard?utm_medium=rss)
- - [Critical Infrastructure Is Sinking Along the US East Coast](https://www.wired.com/story/critical-infrastructure-is-sinking-along-the-us-east-coast/)<!-- TECH:END -->
+ - [Not all financial predictions for Apple&#39;s holiday quarter are doom and gloom](https://appleinsider.com/articles/24/01/05/not-all-financial-predictions-for-apples-holiday-quarter-are-doom-and-gloom?utm_medium=rss)
+ - [Memo: Coatue closes its European office in London two years after it opened to &quot;streamline&quot; its investing and prioritize domain expertise over regional coverage &lpar;Bloomberg&rpar;](http://www.techmeme.com/240105/p6#a240105p6)
+ - [16 Best USB-C Cables &lpar;2024&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
