@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monarch: Legacy of Monsters’ new titans were inspired by the weird, freakiness of nature](https://www.theverge.com/23993939/monarch-legacy-of-monsters-sean-konrad)
- - [Incase partners with Microsoft to sell PC accessories, which Microsoft stopped making in 2022; products will include ones Microsoft designed but never shipped &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240105/p8#a240105p8)
- - [Daily deals Dec. 5: $700 off 27&quot; iMac, Mac Studio for $1,499, 512GB Mac mini $499, HP Envy printer $89, more](https://appleinsider.com/articles/24/01/05/daily-deals-dec-5-700-off-27-imac-mac-studio-for-1499-512gb-mac-mini-499-hp-envy-printer-89-more?utm_medium=rss)<!-- TECH:END -->
+ - [A developer finds that Google seems to be working on an upgraded version of Bard called Bard Advanced that will be available through a Google One subscription &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240105/p10#a240105p10)
+ - [Read up on Apple’s tremendous Godzilla series, Monarch: Legacy of Monsters](https://www.theverge.com/24025765/monarch-legacy-of-monsters-news-trailers-reviews-interviews-roundup)
+ - [How a change to US tax law Section 174, forcing amortization of software labor, led to higher tax bills, less hiring and more layoffs, IP moving abroad, more &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/240105/p9#a240105p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
