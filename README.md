@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone’s ultrawide and front cameras could finally get a hardware upgrade](https://www.androidauthority.com/iphone-16-pro-ultrawide-17-front-camera-upgrade-3400013/)
- - [Samsung could launch new chargers alongside Galaxy S24 series](https://www.androidauthority.com/samsung-new-chargers-galaxy-s24-launch-3400031/)
- - [Current and former employees detail Baidu&#39;s difficulty incubating new businesses including CEO Robin Li&#39;s leadership style and most talented staff leaving &lpar;Financial Times&rpar;](http://www.techmeme.com/240105/p1#a240105p1)<!-- TECH:END -->
+ - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
+ - [New iPhone 16 Pro mockups show off the capacitive Capture button](https://www.androidauthority.com/apple-iphone-16-pro-mockups-3400060/)
+ - [They Had PTSD. A Psychedelic Called Ibogaine Helped Them Get Better](https://www.wired.com/story/they-had-ptsd-a-psychedelic-called-ibogaine-helped-them-get-better/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
