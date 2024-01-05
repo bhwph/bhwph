@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here we go again - Apple rejects Hey Calendar app from App Store](https://appleinsider.com/articles/24/01/05/here-we-go-again---apple-rejects-hey-calendar-app-from-app-store?utm_medium=rss)
- - [Department of Justice antitrust filing against Apple said to be imminent, for the fourth consecutive year](https://appleinsider.com/articles/24/01/05/department-of-justice-antitrust-filing-against-apple-said-to-be-imminent-for-the-fourth-consecutive-year?utm_medium=rss)
- - [Coinbase and other cryptocurrency exchanges introduce risk assessments and finance tests for UK users ahead of strict new rules for digital asset products in UK &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240105/p13#a240105p13)<!-- TECH:END -->
+ - [UK&#39;s NHS probes if Palantir breached contract terms after Palantir launched an influencer campaign to counter criticism of the patient data system it&#39;s building &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240105/p18#a240105p18)
+ - [Coinbase says it has agreed to buy an unnamed holding company which holds a MiFID II license, allowing Coinbase to launch crypto derivatives in the EU &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240105/p17#a240105p17)
+ - [Get H&amp;R Block Deluxe + State 2023 for just $34.99, a 30% price cut](https://appleinsider.com/articles/24/01/05/get-hr-block-deluxe-state-2023-for-just-3499-a-30-price-cut?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
