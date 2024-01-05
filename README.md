@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s Netflix on Us changes are a lot worse than we thought](https://www.androidauthority.com/t-mobile-netflix-on-us-deal-changes-3399982/)
- - [Logan Paul says he is &quot;personally committing&quot; $2.3M+ to offer refunds for CryptoZoo, the allegedly fraudulent Pok&amp;eacute;mon-inspired NFT game that he launched in 2021 &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/240104/p36#a240104p36)
- - [Health management solutions provider HealthEC suffered a data breach between July 14 and July 23, 2023 that impacted close to 4.5M patients &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240104/p35#a240104p35)<!-- TECH:END -->
+ - [The iPhone’s ultrawide and front cameras could finally get a hardware upgrade](https://www.androidauthority.com/iphone-16-pro-ultrawide-17-front-camera-upgrade-3400013/)
+ - [Samsung could launch new chargers alongside Galaxy S24 series](https://www.androidauthority.com/samsung-new-chargers-galaxy-s24-launch-3400031/)
+ - [Current and former employees detail Baidu&#39;s difficulty incubating new businesses including CEO Robin Li&#39;s leadership style and most talented staff leaving &lpar;Financial Times&rpar;](http://www.techmeme.com/240105/p1#a240105p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
