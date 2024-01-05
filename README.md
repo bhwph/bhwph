@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail Herta Space Station treasure chest locations and map](https://www.polygon.com/honkai-star-rail-guides/23627457/herta-space-station-treasure-locations-map-warp-trotter-puzzles-challenges)
- - [Honkai: Star Rail Xianzhou Luofu treasure chest locations and map](https://www.polygon.com/honkai-star-rail-guides/24025629/xianzhou-luofu-chest-locations-trotters-puzzles-map)
- - [Halo will finish the fight on tabletops in 2024](https://www.polygon.com/24026720/halo-miniatures-game-mantic-announcement-release-date-price)<!-- GAME:END -->
+ - [After 10 years survival game Rust is finally getting backpacks, but pets &#39;will not be released this year&#39;](https://www.pcgamer.com/after-10-years-survival-game-rust-is-finally-getting-backpacks-but-pets-will-not-be-released-this-year)
+ - [Let&#39;s Rank The Assassin&#39;s Creed Games, Worst To Best](https://kotaku.com/lets-rank-the-assassins-creed-games-worst-to-best-1844019813)
+ - [Thanks to this Tamagotchi-like critter care game I now believe that bugs can be cute too](https://www.pcgamer.com/thanks-to-this-tamagotchi-like-critter-care-game-i-now-believe-that-bugs-can-be-cute-too)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
