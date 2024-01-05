@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends 2024 plans revealed, from Arcane to a baby dragon](https://www.polygon.com/24025336/league-of-legends-2024-plans-ambessa-smolder-champion)
- - [Kotaku’s Weekend Guide: Four Great Games To Kick Off The New Year](https://kotaku.com/kotaku-games-to-play-sable-zelda-atomic-heart-1851143481)
- - [The 7 city builders coming in 2024 that I can&#39;t wait to play](https://www.pcgamer.com/the-7-city-builders-coming-in-2024-that-i-cant-wait-to-play)<!-- GAME:END -->
+ - [Honkai: Star Rail Herta Space Station treasure chest locations and map](https://www.polygon.com/honkai-star-rail-guides/23627457/herta-space-station-treasure-locations-map-warp-trotter-puzzles-challenges)
+ - [Honkai: Star Rail Xianzhou Luofu treasure chest locations and map](https://www.polygon.com/honkai-star-rail-guides/24025629/xianzhou-luofu-chest-locations-trotters-puzzles-map)
+ - [Halo will finish the fight on tabletops in 2024](https://www.polygon.com/24026720/halo-miniatures-game-mantic-announcement-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
