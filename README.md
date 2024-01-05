@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 10 years survival game Rust is finally getting backpacks, but pets &#39;will not be released this year&#39;](https://www.pcgamer.com/after-10-years-survival-game-rust-is-finally-getting-backpacks-but-pets-will-not-be-released-this-year)
- - [Let&#39;s Rank The Assassin&#39;s Creed Games, Worst To Best](https://kotaku.com/lets-rank-the-assassins-creed-games-worst-to-best-1844019813)
- - [Thanks to this Tamagotchi-like critter care game I now believe that bugs can be cute too](https://www.pcgamer.com/thanks-to-this-tamagotchi-like-critter-care-game-i-now-believe-that-bugs-can-be-cute-too)<!-- GAME:END -->
+ - [Bossa Studios ended 2023 by laying off one-third of its staff](https://www.pcgamer.com/bossa-studios-ended-2023-by-laying-off-one-third-of-its-staff)
+ - [How to get sapphire in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/24026982/sapphire-locations-how-to-get)
+ - [Pokémon Go Rowlet Community Day guide](https://www.polygon.com/pokemon-go-guide/2024/1/5/24026621/rowlet-community-day-move-shiny-dartrix-decidueye)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
