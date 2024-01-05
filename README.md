@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Awful, just awful](http://9gag.com/gag/adPGb7D)
- - 😝 [I want to become like him](http://9gag.com/gag/aL1Zb9A)
- - 👉 [Amusement park hack.](http://9gag.com/gag/aNw7qow)<!-- MEMES:END -->
+ - 6️⃣ [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
+ - 😝 [Good thing the phone was in airplane mode...](http://9gag.com/gag/az2WQ5j)
+ - 👉 [Current state of Europe](http://9gag.com/gag/a8qRKKe)<!-- MEMES:END -->
 
 --- 
 
