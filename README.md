@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
- - 😝 [Good thing the phone was in airplane mode...](http://9gag.com/gag/az2WQ5j)
- - 👉 [Current state of Europe](http://9gag.com/gag/a8qRKKe)<!-- MEMES:END -->
+ - 6️⃣ [Parents watching their kid take his first steps](http://9gag.com/gag/aBdAOG2)
+ - 😝 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
+ - 👉 [Mohammed Qahtani, the winner of the Toastmasters World Championship of Public Speaking, brilliant speech!](http://9gag.com/gag/a5XOxKy)<!-- MEMES:END -->
 
 --- 
 
