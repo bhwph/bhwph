@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
- - 😝 [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
+ - 6️⃣ [Awful, just awful](http://9gag.com/gag/adPGb7D)
+ - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
  - 👉 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)<!-- MEMES:END -->
 
 --- 
