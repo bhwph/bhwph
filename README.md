@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switching from iPhone to Android? Here are 10 things you should expect](https://www.androidauthority.com/switching-iphone-to-android-3399426/)
- - [How to configure and use hot corners on macOS](https://www.theverge.com/24025728/hot-corners-macos-how-to)
- - [SpaceX is suing to bust up federal union protections](https://www.theverge.com/2024/1/4/24025712/spacex-nlrb-lawsuit-constitutional-violations-elon-musk)<!-- TECH:END -->
+ - [Tesla’s first smart home partner is Samsung SmartThings](https://www.theverge.com/2024/1/4/24026070/tesla-smart-home-samsung-smartthings-energy)
+ - [Adobe: US online holiday sales between November 1 and December 31, 2023, reached a record $222.1B, up 4.9% YoY; BNPL contributed a record $16.6B, up 14% YoY &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240104/p31#a240104p31)
+ - [Magnetic Wallet     - CNET](https://www.cnet.com/tech/magnetic-wallet-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
