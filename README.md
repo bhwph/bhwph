@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
- - 😝 [Welcome to the club](http://9gag.com/gag/aqePY8R)
- - 👉 [Look at them](http://9gag.com/gag/aBdAvQN)<!-- MEMES:END -->
+ - 😝 [Mom of the year](http://9gag.com/gag/avQMXLO)
+ - 👉 [The physics teacher meme](http://9gag.com/gag/aKEQpM3)<!-- MEMES:END -->
 
 --- 
 
