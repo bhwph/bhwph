@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bossa Studios ended 2023 by laying off one-third of its staff](https://www.pcgamer.com/bossa-studios-ended-2023-by-laying-off-one-third-of-its-staff)
- - [How to get sapphire in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/24026982/sapphire-locations-how-to-get)
- - [Pokémon Go Rowlet Community Day guide](https://www.polygon.com/pokemon-go-guide/2024/1/5/24026621/rowlet-community-day-move-shiny-dartrix-decidueye)<!-- GAME:END -->
+ - [There&#39;s an Alex Jones game on Steam, and it&#39;s just as much of an embarrassment as you&#39;d expect](https://www.pcgamer.com/theres-an-alex-jones-game-on-steam-and-its-just-as-much-of-an-embarrassment-as-youd-expect)
+ - [Wizards of the Coast denies using AI in new Magic: The Gathering image: &#39;This art was created by humans&#39;](https://www.pcgamer.com/wizards-of-the-coast-denies-using-ai-in-new-magic-the-gathering-image-this-art-was-created-by-humans)
+ - [Valorant is getting its first new gun in 4 years, a &#39;high impact, double-barreled sniper rifle&#39;](https://www.pcgamer.com/valorant-is-getting-its-first-new-gun-in-4-years-a-high-impact-double-barreled-sniper-rifle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
