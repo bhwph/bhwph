@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-516-3400198/)
- - [Adam Mosseri says Threads had some issues with &quot;low quality recommendations&quot; over the last few weeks and should get &quot;much better over the next few weeks&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240106/p9#a240106p9)
- - [Understanding Xcode Cloud, Apple&#39;s CI build service](https://appleinsider.com/inside/xcode/tips/understanding-xcode-cloud-apples-ci-build-service?utm_medium=rss)<!-- TECH:END -->
+ - [Best Google Pixel Deals Right Now: Kick Off the Year With Savings on Latest and Older Models     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
+ - [Get the Most Accurate Results. Here&#39;s the Best Time to Weigh Yourself     - CNET](https://www.cnet.com/health/fitness/whens-the-best-time-to-weigh-yourself-to-get-the-most-accurate-results/#ftag=CAD590a51e)
+ - [Apple finally sends &#39;batterygate&#39; checks to iPhone owners](https://appleinsider.com/articles/24/01/06/apple-finally-sends-batterygate-checks-to-iphone-owners?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
