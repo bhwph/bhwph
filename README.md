@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [23andMe Blames Users for Recent Data Breach as It&#39;s Hit With Dozens of Lawsuits](https://www.wired.com/story/23andme-blames-users-data-breach-security-roundup/)
- - [The 18 Best Games on PlayStation Plus &lpar;January 2024&rpar;](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)
- - [Go wild with Bluetti with the debut of industry-first power solutions at CES 2024](https://appleinsider.com/articles/24/01/06/go-wild-with-bluetti-with-the-debut-of-industry-first-power-solutions-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-516-3400198/)
+ - [Adam Mosseri says Threads had some issues with &quot;low quality recommendations&quot; over the last few weeks and should get &quot;much better over the next few weeks&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240106/p9#a240106p9)
+ - [Understanding Xcode Cloud, Apple&#39;s CI build service](https://appleinsider.com/inside/xcode/tips/understanding-xcode-cloud-apples-ci-build-service?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
