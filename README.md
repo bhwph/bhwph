@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES 2024 Preview: Get Ready for a ‘Tsunami’ of AI](https://www.wired.com/story/ces-2024-preview-a-tsunami-of-ai/)
- - [How Your Body Adapts to Extreme Cold](https://www.wired.com/story/how-your-body-adapts-to-extreme-cold/)
- - [10 Best Deals on Laptops, Routers, and Apple Watch](https://www.wired.com/story/weekend-deals-jan-6-2024/)<!-- TECH:END -->
+ - [23andMe Blames Users for Recent Data Breach as It&#39;s Hit With Dozens of Lawsuits](https://www.wired.com/story/23andme-blames-users-data-breach-security-roundup/)
+ - [The 18 Best Games on PlayStation Plus &lpar;January 2024&rpar;](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)
+ - [Go wild with Bluetti with the debut of industry-first power solutions at CES 2024](https://appleinsider.com/articles/24/01/06/go-wild-with-bluetti-with-the-debut-of-industry-first-power-solutions-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
