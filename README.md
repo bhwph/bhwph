@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Excellent 4X strategy game Old World drops its fourth DLC, adding a boatload of historical figures and wonders](https://www.pcgamer.com/excellent-4x-strategy-game-old-world-drops-its-fourth-dlc-adding-a-boatload-of-historical-figures-and-wonders)
  - [The first Humble Choice Bundle of 2024 features our favorite superhero game in years](https://www.pcgamer.com/the-first-humble-choice-bundle-of-2024-features-our-favorite-superhero-game-in-years)
- - [Rise of the Tomb Raider is still peak Lara Croft](https://www.polygon.com/sub-gems/24027046/rise-of-the-tomb-raider-game-xbox-game-pass)
- - [StoryGraph is the Goodreads alternative worth switching to](https://www.polygon.com/24026840/storygraph-goodreads-alternative-reading-book-tracking-app)<!-- GAME:END -->
+ - [Rise of the Tomb Raider is still peak Lara Croft](https://www.polygon.com/sub-gems/24027046/rise-of-the-tomb-raider-game-xbox-game-pass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
