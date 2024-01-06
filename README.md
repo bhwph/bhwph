@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What the actual f**k](http://9gag.com/gag/aeQn7eq)
- - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 6️⃣ [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
+ - 😝 [Welcome to the club](http://9gag.com/gag/aqePY8R)
  - 👉 [Look at them](http://9gag.com/gag/aBdAvQN)<!-- MEMES:END -->
 
 --- 
