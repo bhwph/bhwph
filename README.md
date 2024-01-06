@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Legal experts offer mixed opinions about how earlier copyright and fair use cases could affect The New York Times&#39; case against OpenAI and Microsoft &lpar;Washington Post&rpar;](http://www.techmeme.com/240106/p6#a240106p6)
- - [SK Hynix was second behind Samsung Electronics in the Korea Exchange&#39;s market cap ranking at the end of 2023, with its market cap rising 89% to ~$78B in 2023 &lpar;Kotaro Hosokawa/Nikkei Asia&rpar;](http://www.techmeme.com/240106/p5#a240106p5)
- - [China&#39;s newly created National Data Administration unveils a three-year action plan to boost the country&#39;s economy by growing its data sector by 20% every year &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/240106/p4#a240106p4)<!-- TECH:END -->
+ - [CES 2024 Preview: Get Ready for a ‘Tsunami’ of AI](https://www.wired.com/story/ces-2024-preview-a-tsunami-of-ai/)
+ - [How Your Body Adapts to Extreme Cold](https://www.wired.com/story/how-your-body-adapts-to-extreme-cold/)
+ - [10 Best Deals on Laptops, Routers, and Apple Watch](https://www.wired.com/story/weekend-deals-jan-6-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
