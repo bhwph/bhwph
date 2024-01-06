@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies new to streaming in January 2024](https://www.polygon.com/what-to-watch/2024/1/6/24022530/best-new-movies-netflix-amazon-prime-max-hulu-january-2024)
- - [Pokémon Go ‘Timeless Travels’ Special Research and rewards](https://www.polygon.com/pokemon-go-guide/23996844/timeless-travels-special-research-rewards)
- - [Wordle today: Hint and answer #931 for Saturday, January 6](https://www.pcgamer.com/wordle-today-answer-931-january-6)<!-- GAME:END -->
+ - [The Brothers Sun will kick your ass and make you laugh](https://www.polygon.com/24027173/brothers-sun-review-netflix-michelle-yeoh)
+ - [Persona 3, GTA 5, And More Of The Week&#39;s Essential Gaming Tips](https://kotaku.com/kotaku-persona-3-gta-5-best-video-game-tips-1851144901)
+ - [You can still get 33% off any game on the Epic Games Store through Jan. 10](https://www.polygon.com/deals/24026618/best-gaming-deals-epic-games-store-holiday-sale-amazon-4k-blu-ray)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
