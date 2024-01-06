@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK&#39;s NHS probes if Palantir breached contract terms after Palantir launched an influencer campaign to counter criticism of the patient data system it&#39;s building &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240105/p18#a240105p18)
- - [Coinbase says it has agreed to buy an unnamed holding company which holds a MiFID II license, allowing Coinbase to launch crypto derivatives in the EU &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240105/p17#a240105p17)
- - [Get H&amp;R Block Deluxe + State 2023 for just $34.99, a 30% price cut](https://appleinsider.com/articles/24/01/05/get-hr-block-deluxe-state-2023-for-just-3499-a-30-price-cut?utm_medium=rss)<!-- TECH:END -->
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
+ - [A survey of 2,778 AI researchers: 38.4% support faster development and 34.7% support slower development, AI development&#39;s pace will keep accelerating, and more &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/240105/p19#a240105p19)
+ - [The cheapest countries to buy a Nintendo Switch](https://www.androidauthority.com/cheapest-place-to-buy-nintendo-switch-3400274/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
