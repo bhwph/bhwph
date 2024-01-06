@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Strange streak of light in the sky spotted in Vietnam at night](http://9gag.com/gag/a8qRwr3)
- - 😝 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
- - 👉 [Look at them](http://9gag.com/gag/aBdAvQN)<!-- MEMES:END -->
+ - 6️⃣ [Imagine trying to humiliate a child who just achieved something no human could do in 39 years since Tetris was released](http://9gag.com/gag/avQMDRO)
+ - 😝 [I want to become like him](http://9gag.com/gag/aL1Zb9A)
+ - 👉 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)<!-- MEMES:END -->
 
 --- 
 
