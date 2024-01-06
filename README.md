@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best movies new to streaming in January 2024](https://www.polygon.com/what-to-watch/2024/1/6/24022530/best-new-movies-netflix-amazon-prime-max-hulu-january-2024)
  - [Pokémon Go ‘Timeless Travels’ Special Research and rewards](https://www.polygon.com/pokemon-go-guide/23996844/timeless-travels-special-research-rewards)
- - [Wordle today: Hint and answer #931 for Saturday, January 6](https://www.pcgamer.com/wordle-today-answer-931-january-6)
- - [Pokémon Go ‘Lustrous Odyssey’ event guide](https://www.polygon.com/2024/1/5/24026881/lustrous-odyssey-event-field-research-spawns-bonuses)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #931 for Saturday, January 6](https://www.pcgamer.com/wordle-today-answer-931-january-6)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
