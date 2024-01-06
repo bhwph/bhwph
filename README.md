@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The first Humble Choice Bundle of 2024 features our favorite superhero game in years](https://www.pcgamer.com/the-first-humble-choice-bundle-of-2024-features-our-favorite-superhero-game-in-years)
  - [Rise of the Tomb Raider is still peak Lara Croft](https://www.polygon.com/sub-gems/24027046/rise-of-the-tomb-raider-game-xbox-game-pass)
- - [StoryGraph is the Goodreads alternative worth switching to](https://www.polygon.com/24026840/storygraph-goodreads-alternative-reading-book-tracking-app)
- - [The Brothers Sun will kick your ass and make you laugh](https://www.polygon.com/24027173/brothers-sun-review-netflix-michelle-yeoh)<!-- GAME:END -->
+ - [StoryGraph is the Goodreads alternative worth switching to](https://www.polygon.com/24026840/storygraph-goodreads-alternative-reading-book-tracking-app)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
