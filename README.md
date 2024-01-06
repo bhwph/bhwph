@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)
- - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
- - 👉 [Queen you dropped this \ud83d\udc51](http://9gag.com/gag/a9qx46Z)<!-- MEMES:END -->
+ - 6️⃣ [Women Logic](http://9gag.com/gag/a9qx4pD)
+ - 😝 [Back when western animation was at its peak.](http://9gag.com/gag/a7qYmnm)
+ - 👉 [Poor girls](http://9gag.com/gag/aVbp9o2)<!-- MEMES:END -->
 
 --- 
 
