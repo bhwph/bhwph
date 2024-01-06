@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imagine trying to humiliate a child who just achieved something no human could do in 39 years since Tetris was released](http://9gag.com/gag/avQMDRO)
- - 😝 [I want to become like him](http://9gag.com/gag/aL1Zb9A)
- - 👉 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)<!-- MEMES:END -->
+ - 6️⃣ [The physics teacher meme](http://9gag.com/gag/aKEQpM3)
+ - 😝 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
+ - 👉 [What the actual f**k](http://9gag.com/gag/aeQn7eq)<!-- MEMES:END -->
 
 --- 
 
