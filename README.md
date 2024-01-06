@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best AT&amp;T Deals Available: Take Up to $1,000 Off Right Now     - CNET](https://www.cnet.com/deals/best-att-deals/#ftag=CAD590a51e)
- - [Best Verizon Deals: Get Up to $830 Off Flagship Phones From Apple, Samsung and Google     - CNET](https://www.cnet.com/deals/best-verizon-deals/#ftag=CAD590a51e)
- - [A look at the MVNO market as eSIM eases distribution; the global MVNO market is valued at $84B and is expected to grow 40% in the next five years to $116.8B &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240105/p20#a240105p20)<!-- TECH:END -->
+ - [Data from the Department of Labor shows the US IT sector grew by only 700 jobs over 2023, down from 267,000 jobs added in 2022, despite the AI boom &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240106/p3#a240106p3)
+ - [What to expect at CES 2024: laptops with Intel&#39;s new Core Ultra chips, TVs with AI processing, AI-powered smart home devices and appliances, and more &lpar;The Verge&rpar;](http://www.techmeme.com/240106/p2#a240106p2)
+ - [Peloton partners with TikTok to create an exclusive, co-branded workout content hub on the short-video platform, available in the US, UK, and Canada &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/240106/p1#a240106p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
