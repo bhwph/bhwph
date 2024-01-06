@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women Logic](http://9gag.com/gag/a9qx4pD)
- - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
- - 👉 [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)<!-- MEMES:END -->
+ - 6️⃣ [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)
+ - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
+ - 👉 [Queen you dropped this \ud83d\udc51](http://9gag.com/gag/a9qx46Z)<!-- MEMES:END -->
 
 --- 
 
