@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Brothers Sun will kick your ass and make you laugh](https://www.polygon.com/24027173/brothers-sun-review-netflix-michelle-yeoh)
- - [Persona 3, GTA 5, And More Of The Week&#39;s Essential Gaming Tips](https://kotaku.com/kotaku-persona-3-gta-5-best-video-game-tips-1851144901)
- - [You can still get 33% off any game on the Epic Games Store through Jan. 10](https://www.polygon.com/deals/24026618/best-gaming-deals-epic-games-store-holiday-sale-amazon-4k-blu-ray)<!-- GAME:END -->
+ - [Rise of the Tomb Raider is still peak Lara Croft](https://www.polygon.com/sub-gems/24027046/rise-of-the-tomb-raider-game-xbox-game-pass)
+ - [StoryGraph is the Goodreads alternative worth switching to](https://www.polygon.com/24026840/storygraph-goodreads-alternative-reading-book-tracking-app)
+ - [The Brothers Sun will kick your ass and make you laugh](https://www.polygon.com/24027173/brothers-sun-review-netflix-michelle-yeoh)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
