@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the MVNO market as eSIM eases distribution; the global MVNO market is valued at $84B and is expected to grow 40% in the next five years to $116.8B &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240105/p20#a240105p20)
  - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
- - [A survey of 2,778 AI researchers: 38.4% support faster development and 34.7% support slower development, AI development&#39;s pace will keep accelerating, and more &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/240105/p19#a240105p19)
- - [The cheapest countries to buy a Nintendo Switch](https://www.androidauthority.com/cheapest-place-to-buy-nintendo-switch-3400274/)<!-- TECH:END -->
+ - [A survey of 2,778 AI researchers: 38.4% support faster development and 34.7% support slower development, AI development&#39;s pace will keep accelerating, and more &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/240105/p19#a240105p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
