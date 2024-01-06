@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The physics teacher meme](http://9gag.com/gag/aKEQpM3)
- - 😝 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
- - 👉 [What the actual f**k](http://9gag.com/gag/aeQn7eq)<!-- MEMES:END -->
+ - 6️⃣ [What the actual f**k](http://9gag.com/gag/aeQn7eq)
+ - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 👉 [Look at them](http://9gag.com/gag/aBdAvQN)<!-- MEMES:END -->
 
 --- 
 
