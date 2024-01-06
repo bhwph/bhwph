@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good thing the phone was in airplane mode...](http://9gag.com/gag/az2WQ5j)
- - 😝 [Not in the flight logs nor have any association with any other. Men of honor and principals.](http://9gag.com/gag/amAeR3y)
- - 👉 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)<!-- MEMES:END -->
+ - 6️⃣ [Strange streak of light in the sky spotted in Vietnam at night](http://9gag.com/gag/a8qRwr3)
+ - 😝 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
+ - 👉 [Look at them](http://9gag.com/gag/aBdAvQN)<!-- MEMES:END -->
 
 --- 
 
