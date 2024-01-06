@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Filters shmilters](http://9gag.com/gag/aDYKrOB)
- - 😝 [When a Retired Veteran Soldier Play Battlefield for the first time](http://9gag.com/gag/a9qx4P0)
- - 👉 [Awww deer](http://9gag.com/gag/a1PyBNv)<!-- MEMES:END -->
+ - 6️⃣ [Women Logic](http://9gag.com/gag/a9qx4pD)
+ - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 👉 [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)<!-- MEMES:END -->
 
 --- 
 
