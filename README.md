@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
- - 😝 [Mom of the year](http://9gag.com/gag/avQMXLO)
- - 👉 [The physics teacher meme](http://9gag.com/gag/aKEQpM3)<!-- MEMES:END -->
+ - 6️⃣ [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 😝 [What&#39;s going on here](http://9gag.com/gag/aEq9NzM)
+ - 👉 [Playing on easy mode](http://9gag.com/gag/aNw7253)<!-- MEMES:END -->
 
 --- 
 
