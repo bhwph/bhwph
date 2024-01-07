@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: some executives and board members at companies run by Elon Musk fear his use of drugs, including LSD, cocaine, and ecstasy, could harm his companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240107/p1#a240107p1)
- - [Sources: Alibaba, Tencent, Baidu, and ByteDance aren&#39;t keen on buying Nvidia&#39;s lower-powered AI chips and are shifting some orders to Huawei&#39;s China-made chips &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240106/p17#a240106p17)
- - [TRM Labs: North Korea-affiliated hackers were responsible for a third of all crypto thefts in 2023, stealing $600M+, which is about 30% less than in 2022 &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240106/p16#a240106p16)<!-- TECH:END -->
+ - [Crime Blotter: Thief taunts London man via Ring after stealing iPhone](https://appleinsider.com/articles/24/01/07/crime-blotter-thief-taunts-london-man-via-ring-after-stealing-iphone?utm_medium=rss)
+ - [What’s the Value of 3 Million LPs in a Digital World?](https://www.wired.com/story/archive-of-contemporary-music-save-3-million-records-digital-streaming/)
+ - [How Midjourney v6 and DALL-E 3 produce &quot;plagiaristic outputs&quot;, even when not directly asked to do so, which could expose users to copyright infringement claims &lpar;IEEE Spectrum&rpar;](http://www.techmeme.com/240107/p2#a240107p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
