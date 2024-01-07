@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Excellent 4X strategy game Old World drops its fourth DLC, adding a boatload of historical figures and wonders](https://www.pcgamer.com/excellent-4x-strategy-game-old-world-drops-its-fourth-dlc-adding-a-boatload-of-historical-figures-and-wonders)
- - [The first Humble Choice Bundle of 2024 features our favorite superhero game in years](https://www.pcgamer.com/the-first-humble-choice-bundle-of-2024-features-our-favorite-superhero-game-in-years)
- - [Rise of the Tomb Raider is still peak Lara Croft](https://www.polygon.com/sub-gems/24027046/rise-of-the-tomb-raider-game-xbox-game-pass)<!-- GAME:END -->
+ - [Prince of Persia: The Lost Crown system requirements are pleasingly low](https://www.pcgamer.com/prince-of-persia-the-lost-crown-system-requirements-are-pleasingly-low)
+ - [A long-simmering project to run Deus Ex through Unreal Engine 5 looks to introduce a VR mode, modern lighting, and more previously impossible transformations to the PC classic](https://www.pcgamer.com/a-long-simmering-project-to-run-deus-ex-through-unreal-engine-5-looks-to-introduce-a-vr-mode-modern-lighting-and-more-previously-impossible-transformations-to-the-pc-classic)
+ - [Excellent 4X strategy game Old World drops its fourth DLC, adding a boatload of historical figures and wonders](https://www.pcgamer.com/excellent-4x-strategy-game-old-world-drops-its-fourth-dlc-adding-a-boatload-of-historical-figures-and-wonders)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
