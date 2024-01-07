@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The returning TV shows you should catch up on in 2024](https://www.polygon.com/what-to-watch/24024169/best-tv-shows-catch-up-2024-slow-horses-chucky-abbott-elementary)
- - [Planning to play Like a Dragon: Infinite Wealth? Play its predecessor first](https://www.polygon.com/sub-gems/24025662/yakuza-like-a-dragon-infinite-wealth-play-first-game-pass)
- - [Alex Jones, Infinite Wealth, And More Of The Week&#39;s Best Gaming Takes](https://kotaku.com/kotaku-opinion-alex-jones-stanley-infinite-wealth-1851144902)<!-- GAME:END -->
+ - [Paint wizards and female catfolk are coming in FF14 Dawntrail](https://www.pcgamer.com/paint-wizards-and-female-catfolk-are-coming-in-ff14-dawntrail)
+ - [Rhythm shooter Metal: Hellsinger just got a free DLC with music from FPS favorite Dusk](https://www.pcgamer.com/rhythm-shooter-metal-hellsinger-just-got-a-free-dlc-with-music-from-fps-favorite-dusk)
+ - [The returning TV shows you should catch up on in 2024](https://www.polygon.com/what-to-watch/24024169/best-tv-shows-catch-up-2024-slow-horses-chucky-abbott-elementary)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
