@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Denzel Washington’s 26 best action movies, ranked](https://www.polygon.com/23989690/best-denzel-washington-movies-action-ranked-watch-streaming)
  - [Wordle today: Hint and answer #932 for Sunday, January 7](https://www.pcgamer.com/wordle-today-answer-932-january-7)
- - [Farming adventure Tales of Seikyu invites you to entertain monsters in your inn, and become one](https://www.pcgamer.com/farming-adventure-tales-of-seikyu-invites-you-to-entertain-monsters-in-your-inn-and-become-one)
- - [Prince of Persia: The Lost Crown system requirements are pleasingly low](https://www.pcgamer.com/prince-of-persia-the-lost-crown-system-requirements-are-pleasingly-low)<!-- GAME:END -->
+ - [Farming adventure Tales of Seikyu invites you to entertain monsters in your inn, and become one](https://www.pcgamer.com/farming-adventure-tales-of-seikyu-invites-you-to-entertain-monsters-in-your-inn-and-become-one)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
