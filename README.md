@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Was a good time](http://9gag.com/gag/az2Wyjx)
- - 😝 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)
- - 👉 [I miss being young](http://9gag.com/gag/amAeyx2)<!-- MEMES:END -->
+ - 6️⃣ [Women Logic](http://9gag.com/gag/a9qx4pD)
+ - 😝 [Homeboy wanted the blood](http://9gag.com/gag/aZD6X5p)
+ - 👉 [Poor girls](http://9gag.com/gag/aVbp9o2)<!-- MEMES:END -->
 
 --- 
 
