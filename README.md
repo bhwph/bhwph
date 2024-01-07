@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #932 for Sunday, January 7](https://www.pcgamer.com/wordle-today-answer-932-january-7)
  - [Farming adventure Tales of Seikyu invites you to entertain monsters in your inn, and become one](https://www.pcgamer.com/farming-adventure-tales-of-seikyu-invites-you-to-entertain-monsters-in-your-inn-and-become-one)
- - [Prince of Persia: The Lost Crown system requirements are pleasingly low](https://www.pcgamer.com/prince-of-persia-the-lost-crown-system-requirements-are-pleasingly-low)
- - [A long-simmering project to run Deus Ex through Unreal Engine 5 looks to introduce a VR mode, modern lighting, and more previously impossible transformations to the PC classic](https://www.pcgamer.com/a-long-simmering-project-to-run-deus-ex-through-unreal-engine-5-looks-to-introduce-a-vr-mode-modern-lighting-and-more-previously-impossible-transformations-to-the-pc-classic)<!-- GAME:END -->
+ - [Prince of Persia: The Lost Crown system requirements are pleasingly low](https://www.pcgamer.com/prince-of-persia-the-lost-crown-system-requirements-are-pleasingly-low)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
