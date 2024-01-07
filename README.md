@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google downplays reports of malware abusing an undocumented Chrome API to generate new authentication cookies, saying such token theft attacks &quot;are not new&quot; &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240106/p13#a240106p13)
- - [Amerisleep Mattresses Review: A Memory Foam Feel With Multiple Firmness Options     - CNET](https://www.cnet.com/health/sleep/amerisleep-mattresses-review/#ftag=CAD590a51e)
- - [Hands-on with Midjourney v6: generates highly detailed images that sometimes seem unrealistic, a different approach to prompting compared to v5, and more &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240106/p12#a240106p12)<!-- TECH:END -->
+ - [Take home hot Apple products at discounts of up to $950 off](https://appleinsider.com/articles/24/01/07/take-home-hot-apple-products-at-discounts-of-up-to-950-off?utm_medium=rss)
+ - [A defense of AI hallucinations, which can spur human creativity and, by forcing users to fact-check, act as a firewall in the transition to superintelligent AI &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240106/p15#a240106p15)
+ - [Dockcase Smart USB-C Hub 7-in-1 Explorer Edition review: A sleek design with out-of-date USB ports](https://appleinsider.com/articles/24/01/06/dockcase-smart-usb-c-hub-7-in-1-explorer-edition-review-a-sleek-design-with-out-of-date-usb-ports?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
