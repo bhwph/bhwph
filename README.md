@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Denzel Washington’s 26 best action movies, ranked](https://www.polygon.com/23989690/best-denzel-washington-movies-action-ranked-watch-streaming)
- - [Wordle today: Hint and answer #932 for Sunday, January 7](https://www.pcgamer.com/wordle-today-answer-932-january-7)
- - [Farming adventure Tales of Seikyu invites you to entertain monsters in your inn, and become one](https://www.pcgamer.com/farming-adventure-tales-of-seikyu-invites-you-to-entertain-monsters-in-your-inn-and-become-one)<!-- GAME:END -->
+ - [Planning to play Like a Dragon: Infinite Wealth? Play its predecessor first](https://www.polygon.com/sub-gems/24025662/yakuza-like-a-dragon-infinite-wealth-play-first-game-pass)
+ - [Alex Jones, Infinite Wealth, And More Of The Week&#39;s Best Gaming Takes](https://kotaku.com/kotaku-opinion-alex-jones-stanley-infinite-wealth-1851144902)
+ - [Denzel Washington’s 26 best action movies, ranked](https://www.polygon.com/23989690/best-denzel-washington-movies-action-ranked-watch-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
