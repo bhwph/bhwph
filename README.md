@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These new AR glasses support Apple Vision Pro-like features at one-fifth the cost](https://www.androidauthority.com/xreal-air-2-ultra-3400002/)
- - [6 Best Smart Shades, Blinds, and Curtains &lpar;2023&rpar;](https://www.wired.com/gallery/best-smart-shades-blinds-curtains/)
- - [Xreal’s new AR glasses are aimed at the Apple Vision Pro](https://www.theverge.com/2024/1/7/24024442/xreal-air-2-ultra-developer-ar-glasses-6dof-tracking-pricing-availability)<!-- TECH:END -->
+ - [A look at Apple&#39;s preparations for the Vision Pro&#39;s US launch and main challenges in 2024, like lagging in generative AI, reviving revenue growth, and antitrust &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240107/p4#a240107p4)
+ - [Second-gen AirTag probably won&#39;t ship until 2025](https://appleinsider.com/articles/24/01/07/second-gen-airtag-probably-wont-ship-until-2025?utm_medium=rss)
+ - [Apple Vision Pro expected to launch in February](https://appleinsider.com/articles/24/01/07/apple-vision-pro-expected-to-launch-in-february?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
