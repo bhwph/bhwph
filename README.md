@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Queen you dropped this \ud83d\udc51](http://9gag.com/gag/a9qx46Z)
- - 😝 [Back when western animation was at its peak.](http://9gag.com/gag/a7qYmnm)
- - 👉 [Checkpoint](http://9gag.com/gag/aDYKL3K)<!-- MEMES:END -->
+ - 6️⃣ [Women Logic](http://9gag.com/gag/a9qx4pD)
+ - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 👉 [Look at them](http://9gag.com/gag/aBdAvQN)<!-- MEMES:END -->
 
 --- 
 
