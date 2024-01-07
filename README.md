@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Acer 57-inch Predator Z57 is a periphery-gobbling curved Mini LED display](https://www.theverge.com/2024/1/7/24028819/acer-predator-z57-57-inch-display-120hz-ces-2024)
- - [Samsung&#39;s New Robot Mop-Vac Hunts Down Stains and Steam Cleans Them for You     - CNET](https://www.cnet.com/home/kitchen-and-household/samsungs-new-robot-mop-vac-hunts-down-stains-and-steam-cleans-them-for-you/#ftag=CAD590a51e)
- - [How to instantly change text between upper, lower, and title case on a Mac](https://appleinsider.com/inside/macos/tips/how-to-instantly-change-text-between-upper-lower-and-title-case-on-a-mac?utm_medium=rss)<!-- TECH:END -->
+ - [The Castro podcast app and its website is gone](https://www.theverge.com/2024/1/7/24028955/castro-podcast-player-shut-down-rumor-ios-app)
+ - [Microsoft&#39;s New AI Key For Windows 11 Laptops Is A Bold Bid For AI Dominance     - CNET](https://www.cnet.com/tech/computing/microsofts-new-ai-key-for-windows-11-laptops-is-a-bold-bid-for-ai-dominance/#ftag=CAD590a51e)
+ - [Bills vs. Dolphins Livestream: How to Watch Sunday Night Football Online     - CNET](https://www.cnet.com/tech/services-and-software/bills-vs-dolphins-livestream-how-to-watch-sunday-night-football-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
