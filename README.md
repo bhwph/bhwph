@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Farming adventure Tales of Seikyu invites you to entertain monsters in your inn, and become one](https://www.pcgamer.com/farming-adventure-tales-of-seikyu-invites-you-to-entertain-monsters-in-your-inn-and-become-one)
  - [Prince of Persia: The Lost Crown system requirements are pleasingly low](https://www.pcgamer.com/prince-of-persia-the-lost-crown-system-requirements-are-pleasingly-low)
- - [A long-simmering project to run Deus Ex through Unreal Engine 5 looks to introduce a VR mode, modern lighting, and more previously impossible transformations to the PC classic](https://www.pcgamer.com/a-long-simmering-project-to-run-deus-ex-through-unreal-engine-5-looks-to-introduce-a-vr-mode-modern-lighting-and-more-previously-impossible-transformations-to-the-pc-classic)
- - [Excellent 4X strategy game Old World drops its fourth DLC, adding a boatload of historical figures and wonders](https://www.pcgamer.com/excellent-4x-strategy-game-old-world-drops-its-fourth-dlc-adding-a-boatload-of-historical-figures-and-wonders)<!-- GAME:END -->
+ - [A long-simmering project to run Deus Ex through Unreal Engine 5 looks to introduce a VR mode, modern lighting, and more previously impossible transformations to the PC classic](https://www.pcgamer.com/a-long-simmering-project-to-run-deus-ex-through-unreal-engine-5-looks-to-introduce-a-vr-mode-modern-lighting-and-more-previously-impossible-transformations-to-the-pc-classic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
