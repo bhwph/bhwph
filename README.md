@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women Logic](http://9gag.com/gag/a9qx4pD)
- - 😝 [Back when western animation was at its peak.](http://9gag.com/gag/a7qYmnm)
+ - 6️⃣ [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
+ - 😝 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
  - 👉 [Poor girls](http://9gag.com/gag/aVbp9o2)<!-- MEMES:END -->
 
 --- 
