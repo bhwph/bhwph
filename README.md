@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women Logic](http://9gag.com/gag/a9qx4pD)
- - 😝 [Homeboy wanted the blood](http://9gag.com/gag/aZD6X5p)
- - 👉 [Poor girls](http://9gag.com/gag/aVbp9o2)<!-- MEMES:END -->
+ - 6️⃣ [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 😝 [Haunt me forever](http://9gag.com/gag/ap94zED)
+ - 👉 [What magic?](http://9gag.com/gag/aeQnqN5)<!-- MEMES:END -->
 
 --- 
 
