@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
- - 😝 [Haunt me forever](http://9gag.com/gag/ap94zED)
- - 👉 [What magic?](http://9gag.com/gag/aeQnqN5)<!-- MEMES:END -->
+ - 6️⃣ [Haunt me forever](http://9gag.com/gag/ap94zED)
+ - 😝 [What magic?](http://9gag.com/gag/aeQnqN5)
+ - 👉 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)<!-- MEMES:END -->
 
 --- 
 
