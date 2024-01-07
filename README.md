@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime Blotter: Thief taunts London man via Ring after stealing iPhone](https://appleinsider.com/articles/24/01/07/crime-blotter-thief-taunts-london-man-via-ring-after-stealing-iphone?utm_medium=rss)
- - [What’s the Value of 3 Million LPs in a Digital World?](https://www.wired.com/story/archive-of-contemporary-music-save-3-million-records-digital-streaming/)
- - [How Midjourney v6 and DALL-E 3 produce &quot;plagiaristic outputs&quot;, even when not directly asked to do so, which could expose users to copyright infringement claims &lpar;IEEE Spectrum&rpar;](http://www.techmeme.com/240107/p2#a240107p2)<!-- TECH:END -->
+ - [These new AR glasses support Apple Vision Pro-like features at one-fifth the cost](https://www.androidauthority.com/xreal-air-2-ultra-3400002/)
+ - [6 Best Smart Shades, Blinds, and Curtains &lpar;2023&rpar;](https://www.wired.com/gallery/best-smart-shades-blinds-curtains/)
+ - [Xreal’s new AR glasses are aimed at the Apple Vision Pro](https://www.theverge.com/2024/1/7/24024442/xreal-air-2-ultra-developer-ar-glasses-6dof-tracking-pricing-availability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
