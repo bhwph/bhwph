@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The average 9gager](http://9gag.com/gag/axoL8zW)
- - 😝 [Earthquake filmed from an airplane](http://9gag.com/gag/a8qRQeQ)
- - 👉 [The original `they/them`](http://9gag.com/gag/ay2bVzY)<!-- MEMES:END -->
+ - 6️⃣ [Queen you dropped this \ud83d\udc51](http://9gag.com/gag/a9qx46Z)
+ - 😝 [Back when western animation was at its peak.](http://9gag.com/gag/a7qYmnm)
+ - 👉 [Checkpoint](http://9gag.com/gag/aDYKL3K)<!-- MEMES:END -->
 
 --- 
 
