@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One of those rare real ones](http://9gag.com/gag/ay2bVwq)
- - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
- - 👉 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)<!-- MEMES:END -->
+ - 6️⃣ [Was a good time](http://9gag.com/gag/az2Wyjx)
+ - 😝 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)
+ - 👉 [I miss being young](http://9gag.com/gag/amAeyx2)<!-- MEMES:END -->
 
 --- 
 
