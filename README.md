@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Queen you dropped this \ud83d\udc51](http://9gag.com/gag/a9qx46Z)
- - 😝 [So exactly as it should be](http://9gag.com/gag/az2Wv6x)
- - 👉 [Back when western animation was at its peak.](http://9gag.com/gag/a7qYmnm)<!-- MEMES:END -->
+ - 6️⃣ [One of those rare real ones](http://9gag.com/gag/ay2bVwq)
+ - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
+ - 👉 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)<!-- MEMES:END -->
 
 --- 
 
