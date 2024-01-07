@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
- - 😝 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
- - 👉 [Poor girls](http://9gag.com/gag/aVbp9o2)<!-- MEMES:END -->
+ - 6️⃣ [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)
+ - 😝 [The Internet in North Korea](http://9gag.com/gag/aOxMNv6)
+ - 👉 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)<!-- MEMES:END -->
 
 --- 
 
