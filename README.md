@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)
- - 😝 [The Internet in North Korea](http://9gag.com/gag/aOxMNv6)
- - 👉 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)<!-- MEMES:END -->
+ - 6️⃣ [The average 9gager](http://9gag.com/gag/axoL8zW)
+ - 😝 [Earthquake filmed from an airplane](http://9gag.com/gag/a8qRQeQ)
+ - 👉 [The original `they/them`](http://9gag.com/gag/ay2bVzY)<!-- MEMES:END -->
 
 --- 
 
