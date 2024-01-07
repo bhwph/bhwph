@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acer announces Intel Core Ultra-based Swift laptops, including the Swift X 14 with Nvidia RTX 4070 and 120Hz OLED display, starting at $1,399 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240107/p6#a240107p6)
- - [Xreal unveils the $699 Air 2 Ultra AR glasses, adding dual 3D cameras to map the wearer&#39;s environment and enable features like hand tracking, shipping in March &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240107/p5#a240107p5)
- - [Vikings vs. Lions Livestream: How to Watch NFL Week 18 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/vikings-vs-lions-livestream-how-to-watch-nfl-week-18-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Acer 57-inch Predator Z57 is a periphery-gobbling curved Mini LED display](https://www.theverge.com/2024/1/7/24028819/acer-predator-z57-57-inch-display-120hz-ces-2024)
+ - [Samsung&#39;s New Robot Mop-Vac Hunts Down Stains and Steam Cleans Them for You     - CNET](https://www.cnet.com/home/kitchen-and-household/samsungs-new-robot-mop-vac-hunts-down-stains-and-steam-cleans-them-for-you/#ftag=CAD590a51e)
+ - [How to instantly change text between upper, lower, and title case on a Mac](https://appleinsider.com/inside/macos/tips/how-to-instantly-change-text-between-upper-lower-and-title-case-on-a-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
