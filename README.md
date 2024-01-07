@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s the full trailer for FF14 Dawntrail, including an adorable chinchilla](https://www.pcgamer.com/heres-the-full-trailer-for-ff14-dawntrail-including-an-adorable-chinchilla)
  - [Paint wizards and female catfolk are coming in FF14 Dawntrail](https://www.pcgamer.com/paint-wizards-and-female-catfolk-are-coming-in-ff14-dawntrail)
- - [Rhythm shooter Metal: Hellsinger just got a free DLC with music from FPS favorite Dusk](https://www.pcgamer.com/rhythm-shooter-metal-hellsinger-just-got-a-free-dlc-with-music-from-fps-favorite-dusk)
- - [The returning TV shows you should catch up on in 2024](https://www.polygon.com/what-to-watch/24024169/best-tv-shows-catch-up-2024-slow-horses-chucky-abbott-elementary)<!-- GAME:END -->
+ - [Rhythm shooter Metal: Hellsinger just got a free DLC with music from FPS favorite Dusk](https://www.pcgamer.com/rhythm-shooter-metal-hellsinger-just-got-a-free-dlc-with-music-from-fps-favorite-dusk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
