@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)
- - 😝 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
- - 👉 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)<!-- MEMES:END -->
+ - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
+ - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
 
 --- 
 
