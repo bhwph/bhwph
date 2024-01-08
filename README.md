@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)
- - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
+ - 6️⃣ [My sister doesn&#39;t mess around.her rule is simple `if you embarrass me in front of people, I&#39;ll slap the silly out of you`.our mum was the same way.](http://9gag.com/gag/aDYK5xd)
+ - 😝 [Rate my wallpaper](http://9gag.com/gag/avQMqqZ)
+ - 👉 [We have been tricked](http://9gag.com/gag/aVbppj8)<!-- MEMES:END -->
 
 --- 
 
