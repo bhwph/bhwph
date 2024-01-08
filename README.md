@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends’ newest champion got a Sonic-style glow up](https://www.polygon.com/24030421/league-of-legends-smolder-baby-dragon-champion-face-edits)
- - [Apex Legends’ Final Fantasy VII Crossover Prompts Fan Outcry](https://kotaku.com/apex-legends-final-fantasy-vii-rebirth-buster-materia-1851149308)
- - [Nvidia’s AI-powered NPCs are getting better, but still sound uncanny](https://www.polygon.com/24030322/nvidia-ace-ai-npcs-convai-ces-2024)<!-- GAME:END -->
+ - [The Founders Editions of the new Super series are the best Nvidia&#39;s cards have ever looked](https://www.pcgamer.com/nvidia-rtx-4070-super-founders-edition-unboxing)
+ - [Spider-Man&#39;s MJ Face Model Asks Fans To Stop Stalking And Harassing Her](https://kotaku.com/spider-man-2-mj-face-actress-fans-harassment-stalking-1851149992)
+ - [Getting The Deck of Many Things? These are the card sleeves you need](https://www.polygon.com/deals/23933743/deck-of-many-things-wizards-of-the-coast-wotc-card-sleeves-pre-order)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
