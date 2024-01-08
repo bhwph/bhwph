@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s the full trailer for FF14 Dawntrail, including an adorable chinchilla](https://www.pcgamer.com/heres-the-full-trailer-for-ff14-dawntrail-including-an-adorable-chinchilla)
- - [Paint wizards and female catfolk are coming in FF14 Dawntrail](https://www.pcgamer.com/paint-wizards-and-female-catfolk-are-coming-in-ff14-dawntrail)
- - [Rhythm shooter Metal: Hellsinger just got a free DLC with music from FPS favorite Dusk](https://www.pcgamer.com/rhythm-shooter-metal-hellsinger-just-got-a-free-dlc-with-music-from-fps-favorite-dusk)<!-- GAME:END -->
+ - [Wizards of the Coast reverses course, admits to using AI in promotional image: &#39;Well, we made a mistake earlier&#39;](https://www.pcgamer.com/wizards-of-the-coast-reverses-course-admits-to-using-ai-in-promotional-image-well-we-made-a-mistake-earlier)
+ - [Warhammer goes back to its original fantasy setting in Warhammer: The Old World this month](https://www.pcgamer.com/warhammer-goes-back-to-its-original-fantasy-setting-in-warhammer-the-old-world-this-month)
+ - [FF14 director says there&#39;s no firm release date for new expansion because he wants to avoid another Endwalker-style delay](https://www.pcgamer.com/ff14-director-says-theres-no-firm-release-date-for-new-expansion-because-he-wants-to-avoid-another-endwalker-style-delay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
