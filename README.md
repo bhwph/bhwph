@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2023&#39;s Scariest Game Just Added A Feature We Want In Real Life](https://kotaku.com/amnesia-the-bunker-patch-frictional-rats-accessibility-1851148821)
- - [Age of Empires 2 is more vital than ever in 2024](https://www.polygon.com/sub-gems/24027042/age-of-empires-2-2024-definitive-edition-game-pass)
- - [The Last Of Us TV Series Doesn’t Need A Bill And Frank Spin-Off](https://kotaku.com/the-last-of-us-hbo-max-bill-frank-spinoff-offerman-emmy-1851149002)<!-- GAME:END -->
+ - [League of Legends’ newest champion got a Sonic-style glow up](https://www.polygon.com/24030421/league-of-legends-smolder-baby-dragon-champion-face-edits)
+ - [Apex Legends’ Final Fantasy VII Crossover Prompts Fan Outcry](https://kotaku.com/apex-legends-final-fantasy-vii-rebirth-buster-materia-1851149308)
+ - [Nvidia’s AI-powered NPCs are getting better, but still sound uncanny](https://www.polygon.com/24030322/nvidia-ace-ai-npcs-convai-ces-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
