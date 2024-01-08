@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Carta says it is investigating an internal policy violation that affected Linear and two other companies, where someone &quot;on the cap table&quot; was contacted &lpar;Anne VanderMey/Bloomberg&rpar;](http://www.techmeme.com/240107/p10#a240107p10)
- - [Belkin intros first user-tracking iPhone camera stand, Qi2 gear, &amp; more at CES 2024](https://appleinsider.com/articles/24/01/08/belkin-intros-first-user-tracking-iphone-camera-stand-qi2-gear-more-at-ces-2024?utm_medium=rss)
- - [Withings BeamO is a 4-in-1 checkup device that does more than take your temperature](https://appleinsider.com/articles/24/01/08/withings-beamo-is-a-4-in-1-checkup-device-that-does-more-than-take-your-temperature?utm_medium=rss)<!-- TECH:END -->
+ - [j5create&#39;s new Thunderbolt 4 docking station supports 8K 60Hz video](https://appleinsider.com/articles/24/01/08/j5creates-new-thunderbolt-4-docking-station-supports-8k-60hz-video?utm_medium=rss)
+ - [Samsung Teases Monitor Designed to Look Good in Multiples, Jumps into 3D Monitors     - CNET](https://www.cnet.com/tech/computing/samsung-teases-monitor-designed-to-look-good-in-multiples-jumps-into-3d-monitors/#ftag=CAD590a51e)
+ - [Samsung QLED and 8K TVs Amp Up Style, Picture and Game Bar     - CNET](https://www.cnet.com/tech/home-entertainment/samsung-qled-and-8k-tvs-amp-up-style-picture-and-game-bar/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
