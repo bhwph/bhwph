@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I cried](http://9gag.com/gag/aPgE2QB)
- - 😝 [Maybe it would help someone, a 10kg hammer and a tractor tire is also nice](http://9gag.com/gag/a04rq9B)
- - 👉 [That&#39;s a damn good idea.](http://9gag.com/gag/aZD65zQ)<!-- MEMES:END -->
+ - 6️⃣ [Now these disgusting feminists attack handicaped men...](http://9gag.com/gag/aOxMnWv)
+ - 😝 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
+ - 👉 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)<!-- MEMES:END -->
 
 --- 
 
