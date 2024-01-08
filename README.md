@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tata, Pegatron commit over $1 billion to expand iPhone production in Tamil Nadu](https://appleinsider.com/articles/24/01/08/tata-pegatron-commit-over-1-billion-to-expand-iphone-production-in-tamil-nadu?utm_medium=rss)
- - [Apple China iPhone downturn expected to continue throughout 2024](https://appleinsider.com/articles/24/01/08/apple-china-iphone-downturn-expected-to-continue-throughout-2024?utm_medium=rss)
- - [Samsung’s new 2024 TV lineup is all about AI and no glare](https://www.androidauthority.com/samsung-new-2024-tv-lineup-3400727/)<!-- TECH:END -->
+ - [Apple Vision Pro will ship to customers on February 2](https://appleinsider.com/articles/24/01/08/apple-vision-pro-will-ship-to-customers-on-february-2?utm_medium=rss)
+ - [Apple plans to start shipping the $3,499+ Vision Pro on February 2 in the US after opening pre-orders on January 19 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240108/p12#a240108p12)
+ - [OWC&#39;s ThunderBlade X8 SSD delivers unmatched performance for Apple Silicon](https://appleinsider.com/articles/24/01/08/owcs-thunderblade-x8-ssd-delivers-unmatched-performance-for-apple-silicon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
