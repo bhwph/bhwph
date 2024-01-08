@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A &#39;coyote&#39; or human smuggler drops off his clients and takes proof of delivery.](http://9gag.com/gag/adPGwVQ)
- - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - 👉 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)<!-- MEMES:END -->
+ - 6️⃣ [Anon&#39;s maternal affair](http://9gag.com/gag/awZE2L1)
+ - 😝 [As a german I agree](http://9gag.com/gag/aWGr5b4)
+ - 👉 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)<!-- MEMES:END -->
 
 --- 
 
