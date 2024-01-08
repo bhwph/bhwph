@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My sister doesn&#39;t mess around.her rule is simple `if you embarrass me in front of people, I&#39;ll slap the silly out of you`.our mum was the same way.](http://9gag.com/gag/aDYK5xd)
- - 😝 [Rate my wallpaper](http://9gag.com/gag/avQMqqZ)
- - 👉 [We have been tricked](http://9gag.com/gag/aVbppj8)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
+ - 😝 [Excellent police work...](http://9gag.com/gag/axoLrRL)
+ - 👉 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)<!-- MEMES:END -->
 
 --- 
 
