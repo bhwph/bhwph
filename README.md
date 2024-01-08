@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That laugh tho...](http://9gag.com/gag/aXny3bP)
- - 😝 [Guys only want one thing and it&#39;s awesome](http://9gag.com/gag/a04rDRd)
- - 👉 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)<!-- MEMES:END -->
+ - 6️⃣ [Perfect](http://9gag.com/gag/a8qROxV)
+ - 😝 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
+ - 👉 [Maybe it would help someone, a 10kg hammer and a tractor tire is also nice](http://9gag.com/gag/a04rq9B)<!-- MEMES:END -->
 
 --- 
 
