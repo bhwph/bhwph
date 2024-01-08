@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Larian CEO and founder Swen Vincke thinks he&#39;s cracked the first act of his next game, but &#39;it&#39;s not what you think and this is not an teaser for an announcement&#39;](https://www.pcgamer.com/larian-ceo-and-founder-swen-vincke-thinks-hes-cracked-the-first-act-of-his-next-game-but-its-not-what-you-think-and-this-is-not-an-teaser-for-an-announcement)
- - [No surprises here: Succession, Oppenheimer, The Bear dominate 2024 Golden Globes](https://www.polygon.com/24029622/golden-globes-2024-complete-winners-nominee-list-succession-oppenheimer)
- - [Wordle today: Hint and answer #933 for Monday, January 8](https://www.pcgamer.com/wordle-today-answer-933-january-8)<!-- GAME:END -->
+ - [Somehow one of Final Fantasy 14 Fan Festival&#39;s biggest surprises was its director wearing a suit](https://www.pcgamer.com/somehow-one-of-final-fantasy-14-fan-festivals-biggest-surprises-was-its-director-wearing-a-suit)
+ - [Warhammer: The Old World is the return of Warhammer Fantasy Battle](https://www.polygon.com/reviews/24025744/warhammer-the-old-world-review)
+ - [Windows Copilot doesn&#39;t get an invite to the party as HP goes all-in on AI with its 2024 Spectre and Omen laptop range](https://www.pcgamer.com/windows-copilot-doesnt-get-an-invite-to-the-party-as-hp-goes-all-in-on-ai-with-its-2024-spectre-and-omen-laptop-range)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
