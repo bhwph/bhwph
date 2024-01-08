@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple opening retail locations early on Feb. 2 for Apple Vision Pro demos](https://appleinsider.com/articles/24/01/08/apple-opening-retail-locations-early-on-feb-2-for-apple-vision-pro-demoes?utm_medium=rss)
- - [This security camera’s 1.5-mile range is perfect for your sprawling mansion](https://www.theverge.com/2024/1/8/24030379/abode-edge-camera-long-range-facial-recognition-ai-ces-2024)
- - [Final Fantasy XIV’s new class will unleash your inner Bob Ross](https://www.theverge.com/2024/1/8/24030282/final-fantasy-14-new-class-pictomancer-ffxiv-fan-fest-tokyo)<!-- TECH:END -->
+ - [Sources: former Twitter CEO Parag Agrawal&#39;s new AI startup, which is making software for LLM developers, raised ~$30M led by Khosla Ventures &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240108/p28#a240108p28)
+ - [Rumble Is Part of an &#39;Active and Ongoing&#39; SEC Investigation](https://www.wired.com/story/rumble-sec-investigation/)
+ - [Samsung finally puts the TV at the heart of its smart home](https://www.theverge.com/2024/1/8/24028857/samsung-tv-smart-display-ballie-smartthings)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
