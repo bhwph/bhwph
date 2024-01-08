@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Legendary bringer of `find out` to a world full of `f**k around`.](http://9gag.com/gag/aREbWpq)
- - 😝 [I don&#39;t recall learning this technique back in school.](http://9gag.com/gag/ay2bZ2q)
- - 👉 [A &#39;coyote&#39; or human smuggler drops off his clients and takes proof of delivery.](http://9gag.com/gag/adPGwVQ)<!-- MEMES:END -->
+ - 6️⃣ [That laugh tho...](http://9gag.com/gag/aXny3bP)
+ - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
+ - 👉 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)<!-- MEMES:END -->
 
 --- 
 
