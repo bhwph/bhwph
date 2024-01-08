@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Perfect](http://9gag.com/gag/a8qROxV)
- - 😝 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
- - 👉 [Maybe it would help someone, a 10kg hammer and a tractor tire is also nice](http://9gag.com/gag/a04rq9B)<!-- MEMES:END -->
+ - 6️⃣ [I cried](http://9gag.com/gag/aPgE2QB)
+ - 😝 [Maybe it would help someone, a 10kg hammer and a tractor tire is also nice](http://9gag.com/gag/a04rq9B)
+ - 👉 [That&#39;s a damn good idea.](http://9gag.com/gag/aZD65zQ)<!-- MEMES:END -->
 
 --- 
 
