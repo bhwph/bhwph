@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Commission urges Google, Meta, and others to help dissident Belarusian media by promoting their stories higher than those from pro-regime outlets &lpar;Raphael Minder/Financial Times&rpar;](http://www.techmeme.com/240108/p1#a240108p1)
- - [Spotted at CES 2024: This ceiling light triples up as a movie projector and a smart speaker](https://www.androidauthority.com/xgimi-ces-2024-aladdin-horizon-max-projectors-3400640/)
- - [LG&#39;s 2024 OLED TVs Cut Wires, Boost Brightness video     - CNET](https://www.cnet.com/videos/lgs-2024-oled-tvs-cut-wires-boost-brightness/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OPPO Find X7 Ultra launched: The best camera phone you can’t buy &lpar;again&rpar;](https://www.androidauthority.com/oppo-find-x7-ultra-3399738/)
+ - [I’ve looked through LG’s new transparent OLED TV, and seen something special](https://www.theverge.com/2024/1/8/24029590/lg-oled-t-transparent-tv-announced-specs-features)
+ - [Legal experts say pledges from Amazon, Microsoft, and Google to defend their customers from IP issues only extend to AI models built with their oversight &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240108/p4#a240108p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
