@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I just leave this here](http://9gag.com/gag/adPGwMZ)
- - 😝 [Science has gone too far](http://9gag.com/gag/a2K3gPe)
- - 👉 [Bjj...](http://9gag.com/gag/aEq9Ko9)<!-- MEMES:END -->
+ - 6️⃣ [That laugh tho...](http://9gag.com/gag/aXny3bP)
+ - 😝 [Guys only want one thing and it&#39;s awesome](http://9gag.com/gag/a04rDRd)
+ - 👉 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)<!-- MEMES:END -->
 
 --- 
 
