@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cult of the Lamb’s ‘sex update’ is finally coming](https://www.polygon.com/24027054/cult-of-the-lamb-sex-free-update-sins-of-the-flesh-release-date)
- - [AMD announces the $329 RX 7600 XT, bringing 16GB of VRAM to its lowliest RDNA 3 chip](https://www.pcgamer.com/amd-announces-the-radeon-rx-7600-xt-bringing-16gb-of-vram-to-its-lowliest-rdna-3-chip)
- - [At long last, AMD updates its desktop APU range with the new Ryzen 8000G series: Zen 4, RDNA 3, all in one neat package](https://www.pcgamer.com/at-long-last-amd-updates-its-desktop-apu-range-with-the-new-ryzen-8000g-series-zen-4-rdna-3-all-in-one-neat-package)<!-- GAME:END -->
+ - [2023&#39;s Scariest Game Just Added A Feature We Want In Real Life](https://kotaku.com/amnesia-the-bunker-patch-frictional-rats-accessibility-1851148821)
+ - [Age of Empires 2 is more vital than ever in 2024](https://www.polygon.com/sub-gems/24027042/age-of-empires-2-2024-definitive-edition-game-pass)
+ - [The Last Of Us TV Series Doesn’t Need A Bill And Frank Spin-Off](https://kotaku.com/the-last-of-us-hbo-max-bill-frank-spinoff-offerman-emmy-1851149002)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
