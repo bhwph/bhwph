@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Appliance makers are teaming up to reduce your electricity usage — and save you cash](https://www.theverge.com/2024/1/8/24027381/samsung-lg-ge-launch-new-connected-energy-management-interface)
- - [Volkswagen says it’s putting ChatGPT in its cars for ‘enriching conversations’](https://www.theverge.com/2024/1/8/24027112/volkswagen-chatgpt-openai-voice-assistant-cars-ces)
- - [BMW turns inward for CES, announcing new gaming, streaming, AR, and AI features](https://www.theverge.com/2024/1/8/24024146/bmw-ces-2024-gaming-streaming-ar-alexa-teleoperate)<!-- TECH:END -->
+ - [Download these winter wallpapers for your phone](https://www.androidauthority.com/winter-wallpaper-phone-3399956/)
+ - [Daily deals Jan. 8: $249 iPad 9th Gen, $100 off iPad Air 5, 50% off Beats headphones, Nanoleaf lights $59, more](https://appleinsider.com/articles/24/01/08/daily-deals-jan-8-249-ipad-9th-gen-100-off-ipad-air-5-50-off-beats-headphones-nanoleaf-lights-59-more?utm_medium=rss)
+ - [Google’s Pixel Watch 2, our favorite Fitbit smartwatch, is cheaper than ever](https://www.theverge.com/2024/1/8/24029920/google-pixel-watch-2-anker-622-magnetic-battery-maggo-tile-mate-philips-hue)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
