@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anon&#39;s maternal affair](http://9gag.com/gag/awZE2L1)
- - 😝 [As a german I agree](http://9gag.com/gag/aWGr5b4)
- - 👉 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)<!-- MEMES:END -->
+ - 6️⃣ [I just leave this here](http://9gag.com/gag/adPGwMZ)
+ - 😝 [Science has gone too far](http://9gag.com/gag/a2K3gPe)
+ - 👉 [Bjj...](http://9gag.com/gag/aEq9Ko9)<!-- MEMES:END -->
 
 --- 
 
