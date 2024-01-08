@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Castro podcast app and its website is gone](https://www.theverge.com/2024/1/7/24028955/castro-podcast-player-shut-down-rumor-ios-app)
- - [Microsoft&#39;s New AI Key For Windows 11 Laptops Is A Bold Bid For AI Dominance     - CNET](https://www.cnet.com/tech/computing/microsofts-new-ai-key-for-windows-11-laptops-is-a-bold-bid-for-ai-dominance/#ftag=CAD590a51e)
- - [Bills vs. Dolphins Livestream: How to Watch Sunday Night Football Online     - CNET](https://www.cnet.com/tech/services-and-software/bills-vs-dolphins-livestream-how-to-watch-sunday-night-football-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Belkin intros first user-tracking iPhone camera stand, Qi2 gear, &amp; more at CES 2024](https://appleinsider.com/articles/24/01/08/belkin-intros-first-user-tracking-iphone-camera-stand-qi2-gear-more-at-ces-2024?utm_medium=rss)
+ - [Withings BeamO is a 4-in-1 checkup device that does more than take your temperature](https://appleinsider.com/articles/24/01/08/withings-beamo-is-a-4-in-1-checkup-device-that-does-more-than-take-your-temperature?utm_medium=rss)
+ - [Govee debuts two new Matter-enabled devices at CES 2024](https://appleinsider.com/articles/24/01/08/govee-debuts-two-new-matter-enabled-devices-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
