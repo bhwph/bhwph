@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now these disgusting feminists attack handicaped men...](http://9gag.com/gag/aOxMnWv)
- - 😝 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
- - 👉 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)<!-- MEMES:END -->
+ - 6️⃣ [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)
+ - 😝 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
+ - 👉 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)<!-- MEMES:END -->
 
 --- 
 
