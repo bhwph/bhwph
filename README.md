@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [McAfee unveils AI-powered tool to combat deepfake audio scams](https://appleinsider.com/articles/24/01/08/mcafee-unveils-ai-powered-tool-to-combat-deepfake-audio-scams?utm_medium=rss)
- - [Q&amp;A with University of Michigan researchers about their research into the effectiveness of using prompts to assign interpersonal and professional roles to LLMs &lpar;Sisi Wei/The Markup&rpar;](http://www.techmeme.com/240108/p5#a240108p5)
- - [OnePlus 12 and 12R leaked global prices promise a bang for your buck](https://www.androidauthority.com/oneplus-12-oneplus-12r-global-prices-leak-3400717/)<!-- TECH:END -->
+ - [Tata, Pegatron commit over $1 billion to expand iPhone production in Tamil Nadu](https://appleinsider.com/articles/24/01/08/tata-pegatron-commit-over-1-billion-to-expand-iphone-production-in-tamil-nadu?utm_medium=rss)
+ - [Apple China iPhone downturn expected to continue throughout 2024](https://appleinsider.com/articles/24/01/08/apple-china-iphone-downturn-expected-to-continue-throughout-2024?utm_medium=rss)
+ - [Samsung’s new 2024 TV lineup is all about AI and no glare](https://www.androidauthority.com/samsung-new-2024-tv-lineup-3400727/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
