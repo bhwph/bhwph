@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
- - 😝 [Excellent police work...](http://9gag.com/gag/axoLrRL)
- - 👉 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)<!-- MEMES:END -->
+ - 6️⃣ [Excellent police work...](http://9gag.com/gag/axoLrRL)
+ - 😝 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
+ - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
 
 --- 
 
