@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Every strong nation can be defeated if you can convince them, they are not under attack](http://9gag.com/gag/az2WpLN)
- - 😝 [Ass is Ass](http://9gag.com/gag/axoLK3n)
- - 👉 [In the zone](http://9gag.com/gag/a04ryOn)<!-- MEMES:END -->
+ - 6️⃣ [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
+ - 😝 [Predictable](http://9gag.com/gag/aQELLPq)
+ - 👉 [Images of the man who jumped on the judge in Las Vegas reappearing in court today.](http://9gag.com/gag/ajVzzxQ)<!-- MEMES:END -->
 
 --- 
 
