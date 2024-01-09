@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok restricts Creative Center, used by advertisers to track hashtags, after it was used by critics to scrutinize content on the Israel-Hamas war and more &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/240108/p45#a240108p45)
- - [Sources: Elliott Management has built a ~$1B stake in Match Group and plans to push the online dating company to take steps to boost its languishing stock &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240108/p44#a240108p44)
- - [ByteDance says it is in talks with multiple prospective buyers, including Tencent, to sell its Nuverse gaming unit as part of a plan to exit the gaming industry &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240108/p43#a240108p43)<!-- TECH:END -->
+ - [ASUS ROG Phone 8 announced: A gaming phone that doesn’t look like one](https://www.androidauthority.com/asus-rog-phone-8-3353396/)
+ - [A look at the rising subscription prices of dating apps as competition intensifies and growth slows down; data.ai: consumers spent $5B+ on dating apps in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240109/p1#a240109p1)
+ - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
