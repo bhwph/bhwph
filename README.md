@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pennsylvania government workers will start using ChatGPT in test program](https://www.theverge.com/2024/1/9/24031904/openai-pennsylvania-chatgpt-pilot-program-ai)
- - [Asus revamps the Zenbook Duo with two 14&quot; 120Hz OLED displays and a detachable bluetooth keyboard; in the UK it will debut in late January for &amp;pound;1,699 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240109/p25#a240109p25)
- - [&#39;The Mandalorian&#39; Is Getting a Movie—Which It Should Have Been All Along](https://www.wired.com/story/the-mandalorian-and-grogu-movie-coming/)<!-- TECH:END -->
+ - [Best 4K TV Deals: Save Up to $600 on Sony, Samsung, TCL and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
+ - [Walmart Expands Dallas Drone Deliveries to Millions More Texans     - CNET](https://www.cnet.com/tech/computing/walmart-expands-dallas-drone-deliveries-to-millions-of-texans/#ftag=CAD590a51e)
+ - [Walmart is betting that AI can help you shop faster — and maybe do your shopping for you](https://www.theverge.com/2024/1/9/24032017/walmart-ai-shopping-replenishment-in-home)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
