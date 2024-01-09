@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple had a pretty good year for patent grants, but not its best](https://appleinsider.com/articles/24/01/09/apple-had-a-pretty-good-year-for-patent-grants-but-not-its-best?utm_medium=rss)
- - [9 More of the Bizarre and Wonderful Things We’ve Seen at CES 2024](https://www.wired.com/gallery/ces-2024-photo-gallery-day-2/)
- - [Here’s Why Getting Back to Work in 2024 Is So Hard—and How You Can Get Over the Slump](https://www.wired.com/story/how-to-get-over-january-slump-work-after-holidays/)<!-- TECH:END -->
+ - [Amazon announces Matter Casting, an Apple AirPlay-like feature to send video from different platforms to Amazon devices, initially supporting Echo Show devices &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240109/p13#a240109p13)
+ - [Here are the best new devices from CES Unveiled 2024](https://appleinsider.com/articles/24/01/08/here-are-the-best-new-devices-from-ces-unveiled-2024?utm_medium=rss)
+ - [Get your beer from an app-connected roving robot with the Ottobot Brew](https://appleinsider.com/articles/24/01/09/get-your-beer-from-an-app-connected-roving-robot-with-the-ottobot-brew?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
