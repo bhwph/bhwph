@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Of Us Season 2 Better Make Abby Ripped, God Dammit](https://kotaku.com/last-of-us-season-2-abby-casting-shannon-berry-muscles-1850237103)
- - [This indie game has you square off against a shotgun-wielding car dealer](https://www.polygon.com/24030565/buckshot-roulette-indie-game-itch-mike-klubnika)
- - [The Last Of Us Show Has Found Its Abby](https://kotaku.com/the-last-of-us-hbo-max-show-abby-actor-kaitlyn-dever-1851152428)<!-- GAME:END -->
+ - [‘Starcrossed’ Exotic mission and secret chests guide in Destiny 2: Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/24008173/starcrossed-secret-chest-wish-keeper-exotic)
+ - [Netflix gives us a wilder look at 3 Body Problem’s world-spanning mystery](https://www.polygon.com/24030600/3-body-problem-trailer-netflix-release-date)
+ - [Slow Horses’ excellent season 3 is the perfect place to jump in, actually](https://www.polygon.com/24026009/slow-horses-season-3-review-watch-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
