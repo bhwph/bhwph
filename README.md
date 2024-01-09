@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
- - 😝 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
- - 👉 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
+ - 😝 [When you are sick and your sisters takes care of you](http://9gag.com/gag/aYV350N)
+ - 👉 [They are soulmates](http://9gag.com/gag/aVbp6jP)<!-- MEMES:END -->
 
 --- 
 
