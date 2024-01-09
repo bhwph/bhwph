@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
- - 😝 [Predictable](http://9gag.com/gag/aQELLPq)
- - 👉 [Images of the man who jumped on the judge in Las Vegas reappearing in court today.](http://9gag.com/gag/ajVzzxQ)<!-- MEMES:END -->
+ - 6️⃣ [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
+ - 😝 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
+ - 👉 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)<!-- MEMES:END -->
 
 --- 
 
