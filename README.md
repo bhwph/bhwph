@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Eevee be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24029996/can-eevee-be-shiny-vaporeon-jolteon-flareon-espeon-umbreon-leafeon-glaceon-sylveon)
- - [Wordle today: Hint and answer #934 for Tuesday, January 9](https://www.pcgamer.com/wordle-today-answer-934-january-9)
- - [Nvidia&#39;s G-Sync Pulsar hopes to banish a form of motion blur that&#39;s plague PC gaming for years](https://www.pcgamer.com/nvidias-g-sync-pulsar-hopes-to-banish-a-form-of-motion-blur-thats-plague-pc-gaming-for-years)<!-- GAME:END -->
+ - [FF14 streamer JoCat completes year-long ultrahard charity boss gauntlet with over 1,500 deaths and $60,000 raised, begins indefinite break](https://www.pcgamer.com/ff14-streamer-jocat-completes-year-long-ultrahard-charity-boss-gauntlet-with-over-1500-deaths-and-dollar60000-raised-begins-indefinite-break)
+ - [Baldur&#39;s Gate 3 designer totally gets it if you were overwhelmed by the shift to the game&#39;s 3rd act, and don&#39;t worry: it&#39;ll be &#39;less drastic&#39; in future games](https://www.pcgamer.com/baldurs-gate-3-designer-totally-gets-it-if-you-were-overwhelmed-by-the-shift-to-the-games-3rd-act-and-dont-worry-itll-be-less-drastic-in-future-games)
+ - [&#39;World&#39;s first gaming processor with an AI accelerator&#39;: Intel&#39;s Arrow Lake will be coming to desktop PCs in the second half of this year](https://www.pcgamer.com/worlds-first-gaming-processor-with-an-ai-accelerator-intels-arrow-lake-will-be-coming-to-desktop-pcs-in-the-second-half-of-this-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
