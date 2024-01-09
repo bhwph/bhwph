@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: former Twitter CEO Parag Agrawal&#39;s new AI startup, which is making software for LLM developers, raised ~$30M led by Khosla Ventures &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240108/p28#a240108p28)
- - [Rumble Is Part of an &#39;Active and Ongoing&#39; SEC Investigation](https://www.wired.com/story/rumble-sec-investigation/)
- - [Samsung finally puts the TV at the heart of its smart home](https://www.theverge.com/2024/1/8/24028857/samsung-tv-smart-display-ballie-smartthings)<!-- TECH:END -->
+ - [Asus announces two new 480Hz OLED monitors to cover 1080p and 1440p gaming](https://www.theverge.com/2024/1/8/24030834/asus-rog-oled-monitor-480hz-1080p-1440p-gaming)
+ - [Apple plans to offer customers demos of Vision Pro at its US retail stores from February 2 through the weekend on a first-come, first-served basis &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240108/p36#a240108p36)
+ - [Hey Calendar resubmitted with spiteful Apple history feature inspired by successful Kickstarter](https://appleinsider.com/articles/24/01/09/hey-calendar-resubmitted-with-spiteful-apple-history-feature-inspired-by-successful-kickstarter?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
