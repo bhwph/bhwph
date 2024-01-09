@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
+ - 6️⃣ [I just leave this here](http://9gag.com/gag/adPGwMZ)
  - 😝 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
- - 👉 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)<!-- MEMES:END -->
+ - 👉 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)<!-- MEMES:END -->
 
 --- 
 
