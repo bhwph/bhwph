@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the internet reshaped itself around Google&#39;s algorithms, including by using SEO tricks, and the company&#39;s role in many websites now using similar designs &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240109/p3#a240109p3)
- - [Hisense has new Mini LED TVs for 2024, including a massive 110-inch TV](https://www.androidauthority.com/hisense-2024-uled-mini-led-tv-3401209/)
- - [Regain Control of Your Data in 2024. Here&#39;s Everything You Need to Know About Deleting Your Information     - CNET](https://www.cnet.com/tech/services-and-software/regain-control-of-your-data-in-2024-heres-everything-you-need-to-know-about-deleting-your-information/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple had a pretty good year for patent grants, but not its best](https://appleinsider.com/articles/24/01/09/apple-had-a-pretty-good-year-for-patent-grants-but-not-its-best?utm_medium=rss)
+ - [9 More of the Bizarre and Wonderful Things We’ve Seen at CES 2024](https://www.wired.com/gallery/ces-2024-photo-gallery-day-2/)
+ - [Here’s Why Getting Back to Work in 2024 Is So Hard—and How You Can Get Over the Slump](https://www.wired.com/story/how-to-get-over-january-slump-work-after-holidays/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
