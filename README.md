@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus announces two new 480Hz OLED monitors to cover 1080p and 1440p gaming](https://www.theverge.com/2024/1/8/24030834/asus-rog-oled-monitor-480hz-1080p-1440p-gaming)
- - [Apple plans to offer customers demos of Vision Pro at its US retail stores from February 2 through the weekend on a first-come, first-served basis &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240108/p36#a240108p36)
- - [Hey Calendar resubmitted with spiteful Apple history feature inspired by successful Kickstarter](https://appleinsider.com/articles/24/01/09/hey-calendar-resubmitted-with-spiteful-apple-history-feature-inspired-by-successful-kickstarter?utm_medium=rss)<!-- TECH:END -->
+ - [The Mayo Clinic partners with Cerebras to use Cerebras&#39; computing chips and systems to develop its own AI models based on anonymized medical records and data &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240108/p41#a240108p41)
+ - [Sony teased a ‘spatial’ VR headset with a smart control ring](https://www.theverge.com/2024/1/8/24030930/sony-vr-spatial-smart-control-ring-ces)
+ - [Razer’s new light bar is a mullet for your monitor](https://www.theverge.com/2024/1/8/24025923/razer-aether-matter-monitor-light-bar-rgb-high-cri-ces-2024)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
