@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon announces Matter Casting, an Apple AirPlay-like feature to send video from different platforms to Amazon devices, initially supporting Echo Show devices &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240109/p13#a240109p13)
- - [Here are the best new devices from CES Unveiled 2024](https://appleinsider.com/articles/24/01/08/here-are-the-best-new-devices-from-ces-unveiled-2024?utm_medium=rss)
- - [Get your beer from an app-connected roving robot with the Ottobot Brew](https://appleinsider.com/articles/24/01/09/get-your-beer-from-an-app-connected-roving-robot-with-the-ottobot-brew?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung’s Galaxy phones will soon work as a PC webcam for Microsoft Teams](https://www.theverge.com/2024/1/9/24031445/samsung-galaxy-phones-microsoft-teams-webcam-copilot-integration)
+ - [Ultrahuman Home monitors your environment to keep you healthy](https://appleinsider.com/articles/24/01/09/ultrahuman-home-monitors-your-environment-to-keep-you-healthy?utm_medium=rss)
+ - [Daily deals Jan. 9: $200 off Apple Watch Series 8, TVs from $189, Canon printer $99, more](https://appleinsider.com/articles/24/01/09/daily-deals-jan-9-200-off-apple-watch-series-8-tvs-from-189-canon-printer-99-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
