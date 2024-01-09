@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad: Kill the Justice League — hands-on with co-op and Flash boss battle](https://blog.playstation.com/2024/01/09/suicide-squad-kill-the-justice-league-hands-on-with-co-op-and-flash-boss-battle/)
- - [Suicide Squad: Kill the Justice League — hands-on with co-op and Flash boss battle](https://blog.playstation.com/2024/01/09/suicide-squad-kill-the-justice-league-hands-on-with-co-op-and-flash-boss-battle/)
- - [Disney Lorcana publisher launches the first kid-friendly Disney-themed tabletop RPG](https://www.polygon.com/tabletop-games/24030035/disney-board-game-ttrpg-chronicles-of-light-darkness-falls-lorcana-kid-friendly)<!-- GAME:END -->
+ - [Gravity Rush Film Makes Surprise Appearance At Sony CES Presentation](https://kotaku.com/sony-playstation-gravity-rush-movie-ces-psp-vita-1851151780)
+ - [AMD has finally brought software-based frame generation to handheld gaming PCs and the Radeon 700M iGPUs](https://www.pcgamer.com/amd-has-finally-brought-software-based-frame-generation-to-handheld-gaming-pcs-and-the-radeon-700m-igpus)
+ - [Cooler Master has just unveiled the most oxymoronic small form factor PC chassis I&#39;ve ever seen](https://www.pcgamer.com/cooler-master-has-just-unveiled-the-most-oxymoronic-small-form-factor-pc-chassis-ive-ever-seen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
