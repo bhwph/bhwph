@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy phones will soon work as a PC webcam for Microsoft Teams](https://www.theverge.com/2024/1/9/24031445/samsung-galaxy-phones-microsoft-teams-webcam-copilot-integration)
- - [Ultrahuman Home monitors your environment to keep you healthy](https://appleinsider.com/articles/24/01/09/ultrahuman-home-monitors-your-environment-to-keep-you-healthy?utm_medium=rss)
- - [Daily deals Jan. 9: $200 off Apple Watch Series 8, TVs from $189, Canon printer $99, more](https://appleinsider.com/articles/24/01/09/daily-deals-jan-9-200-off-apple-watch-series-8-tvs-from-189-canon-printer-99-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple seeds third macOS Sonoma 14.3 developer beta](https://appleinsider.com/articles/24/01/09/apple-seeds-third-macos-sonoma-143-developer-beta?utm_medium=rss)
+ - [Apple distributes third iOS 17.3 iPadOS 17.3 developer betas](https://appleinsider.com/articles/24/01/09/apple-distributes-third-ios-173-ipados-173-developer-betas?utm_medium=rss)
+ - [The Last of Us casts Kaitlyn Dever as Abby](https://www.theverge.com/2024/1/9/24031649/the-last-of-us-kaitlyn-dever-abby-max-casting)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
