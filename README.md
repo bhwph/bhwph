@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gravity Rush Film Makes Surprise Appearance At Sony CES Presentation](https://kotaku.com/sony-playstation-gravity-rush-movie-ces-psp-vita-1851151780)
- - [AMD has finally brought software-based frame generation to handheld gaming PCs and the Radeon 700M iGPUs](https://www.pcgamer.com/amd-has-finally-brought-software-based-frame-generation-to-handheld-gaming-pcs-and-the-radeon-700m-igpus)
- - [Cooler Master has just unveiled the most oxymoronic small form factor PC chassis I&#39;ve ever seen](https://www.pcgamer.com/cooler-master-has-just-unveiled-the-most-oxymoronic-small-form-factor-pc-chassis-ive-ever-seen)<!-- GAME:END -->
+ - [The Last Of Us Season 2 Better Make Abby Ripped, God Dammit](https://kotaku.com/last-of-us-season-2-abby-casting-shannon-berry-muscles-1850237103)
+ - [This indie game has you square off against a shotgun-wielding car dealer](https://www.polygon.com/24030565/buckshot-roulette-indie-game-itch-mike-klubnika)
+ - [The Last Of Us Show Has Found Its Abby](https://kotaku.com/the-last-of-us-hbo-max-show-abby-actor-kaitlyn-dever-1851152428)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
