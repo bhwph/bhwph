@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds third macOS Sonoma 14.3 developer beta](https://appleinsider.com/articles/24/01/09/apple-seeds-third-macos-sonoma-143-developer-beta?utm_medium=rss)
- - [Apple distributes third iOS 17.3 iPadOS 17.3 developer betas](https://appleinsider.com/articles/24/01/09/apple-distributes-third-ios-173-ipados-173-developer-betas?utm_medium=rss)
- - [The Last of Us casts Kaitlyn Dever as Abby](https://www.theverge.com/2024/1/9/24031649/the-last-of-us-kaitlyn-dever-abby-max-casting)<!-- TECH:END -->
+ - [Pennsylvania government workers will start using ChatGPT in test program](https://www.theverge.com/2024/1/9/24031904/openai-pennsylvania-chatgpt-pilot-program-ai)
+ - [Asus revamps the Zenbook Duo with two 14&quot; 120Hz OLED displays and a detachable bluetooth keyboard; in the UK it will debut in late January for &amp;pound;1,699 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240109/p25#a240109p25)
+ - [&#39;The Mandalorian&#39; Is Getting a Movie—Which It Should Have Been All Along](https://www.wired.com/story/the-mandalorian-and-grogu-movie-coming/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
