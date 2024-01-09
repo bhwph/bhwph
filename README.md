@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Starcrossed’ Exotic mission and secret chests guide in Destiny 2: Season of the Wish](https://www.polygon.com/destiny-2-guide-walkthrough/24008173/starcrossed-secret-chest-wish-keeper-exotic)
- - [Netflix gives us a wilder look at 3 Body Problem’s world-spanning mystery](https://www.polygon.com/24030600/3-body-problem-trailer-netflix-release-date)
- - [Slow Horses’ excellent season 3 is the perfect place to jump in, actually](https://www.polygon.com/24026009/slow-horses-season-3-review-watch-it)<!-- GAME:END -->
+ - [Bethesda will finally show off Indiana Jones gameplay at the Developer Direct showcase happening later this month](https://www.pcgamer.com/bethesda-will-finally-show-off-indiana-jones-gameplay-at-the-developer-direct-showcase-happening-later-this-month)
+ - [Zenless Zone Zero could be my next Genshin Impact if it would just let me skip straight to the action](https://www.pcgamer.com/zenless-zone-zero-could-be-my-next-genshin-impact-if-it-would-just-let-me-skip-straight-to-the-action)
+ - [Final Fantasy 14&#39;s director says the Dawntrail expansion will be a &#39;second rebirth&#39; similar to A Realm Reborn](https://www.pcgamer.com/final-fantasy-14s-director-says-the-dawntrail-expansion-will-be-a-second-rebirth-similar-to-a-realm-reborn)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
