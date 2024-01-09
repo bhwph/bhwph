@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS ROG Phone 8 announced: A gaming phone that doesn’t look like one](https://www.androidauthority.com/asus-rog-phone-8-3353396/)
- - [A look at the rising subscription prices of dating apps as competition intensifies and growth slows down; data.ai: consumers spent $5B+ on dating apps in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240109/p1#a240109p1)
- - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)<!-- TECH:END -->
+ - [Learn a new language for less with this $149 Babbel lifetime subscription flash deal](https://appleinsider.com/articles/24/01/09/learn-a-new-language-for-less-with-this-149-babbel-lifetime-subscription-flash-deal?utm_medium=rss)
+ - [Hyperkin has made a handheld Sega Genesis that plays original carts](https://www.theverge.com/2024/1/9/24029916/sega-genesis-emulator-cartridges-handheld-hyperkin-95-mega-drive)
+ - [Hyperkin is rereleasing the original Xbox ‘Controller S’ with Hall effect sticks and triggers](https://www.theverge.com/2024/1/9/24029712/original-xbox-controller-s-re-release-hyperkin-duchess)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
