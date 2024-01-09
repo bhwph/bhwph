@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Founders Editions of the new Super series are the best Nvidia&#39;s cards have ever looked](https://www.pcgamer.com/nvidia-rtx-4070-super-founders-edition-unboxing)
- - [Spider-Man&#39;s MJ Face Model Asks Fans To Stop Stalking And Harassing Her](https://kotaku.com/spider-man-2-mj-face-actress-fans-harassment-stalking-1851149992)
- - [Getting The Deck of Many Things? These are the card sleeves you need](https://www.polygon.com/deals/23933743/deck-of-many-things-wizards-of-the-coast-wotc-card-sleeves-pre-order)<!-- GAME:END -->
+ - [The Wi-Fi 7 era officially begins with the introduction of certified devices](https://www.pcgamer.com/the-wi-fi-7-era-officially-begins-with-the-introduction-of-certified-devices)
+ - [A fan-made, 7-hour Portal 2 prequel just hit Steam for free and it&#39;s so good that I&#39;m sad Valve stopped making Portal all over again](https://www.pcgamer.com/a-fan-made-7-hour-portal-2-prequel-just-hit-steam-for-free-and-its-so-good-that-im-sad-valve-stopped-making-portal-all-over-again)
+ - [The demo for this upcoming horror-RPG-FPS built in the Doom engine might already be the most terrifying thing I play all year, and I can&#39;t wait for more](https://www.pcgamer.com/the-demo-for-this-upcoming-horror-rpg-fps-built-in-the-doom-engine-might-already-be-the-most-terrifying-thing-i-play-all-year-and-i-cant-wait-for-more)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
