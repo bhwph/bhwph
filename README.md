@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FF14 streamer JoCat completes year-long ultrahard charity boss gauntlet with over 1,500 deaths and $60,000 raised, begins indefinite break](https://www.pcgamer.com/ff14-streamer-jocat-completes-year-long-ultrahard-charity-boss-gauntlet-with-over-1500-deaths-and-dollar60000-raised-begins-indefinite-break)
- - [Baldur&#39;s Gate 3 designer totally gets it if you were overwhelmed by the shift to the game&#39;s 3rd act, and don&#39;t worry: it&#39;ll be &#39;less drastic&#39; in future games](https://www.pcgamer.com/baldurs-gate-3-designer-totally-gets-it-if-you-were-overwhelmed-by-the-shift-to-the-games-3rd-act-and-dont-worry-itll-be-less-drastic-in-future-games)
- - [&#39;World&#39;s first gaming processor with an AI accelerator&#39;: Intel&#39;s Arrow Lake will be coming to desktop PCs in the second half of this year](https://www.pcgamer.com/worlds-first-gaming-processor-with-an-ai-accelerator-intels-arrow-lake-will-be-coming-to-desktop-pcs-in-the-second-half-of-this-year)<!-- GAME:END -->
+ - [Suicide Squad: Kill the Justice League — hands-on with co-op and Flash boss battle](https://blog.playstation.com/2024/01/09/suicide-squad-kill-the-justice-league-hands-on-with-co-op-and-flash-boss-battle/)
+ - [Suicide Squad: Kill the Justice League — hands-on with co-op and Flash boss battle](https://blog.playstation.com/2024/01/09/suicide-squad-kill-the-justice-league-hands-on-with-co-op-and-flash-boss-battle/)
+ - [Disney Lorcana publisher launches the first kid-friendly Disney-themed tabletop RPG](https://www.polygon.com/tabletop-games/24030035/disney-board-game-ttrpg-chronicles-of-light-darkness-falls-lorcana-kid-friendly)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
