@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My newest Tetten collection in the comments section, here we go](http://9gag.com/gag/aGEmXon)
- - 😝 [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)
- - 👉 [Ecuador currently in total chaos. Armed gangs storming the university to kidnap students. Live TV crew taken hostage, filmed gang executions carried out. Cartel response to Ecuador\u2019s president declaring a state of emergency because of the escape of cartel kingpin Adolfo Macias.](http://9gag.com/gag/aA08nVp)<!-- MEMES:END -->
+ - 6️⃣ [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
+ - 😝 [Uhm guys....](http://9gag.com/gag/a8qRr4V)
+ - 👉 [Thief slap](http://9gag.com/gag/aZD6eWX)<!-- MEMES:END -->
 
 --- 
 
