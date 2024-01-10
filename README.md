@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best shows to watch on Max](https://www.polygon.com/what-to-watch/23870121/best-tv-shows-series-max-watch)
- - [AMD&#39;s any-game frame generation tech is officially launching out of beta with the RX 7600 XT release on January 24](https://www.pcgamer.com/amds-any-game-frame-generation-tech-is-officially-launching-out-of-beta-with-the-rx-7600-xt-release-on-january-24)
- - [Ayaneo announces the Next Lite, the first non-Valve handheld PC with SteamOS preinstalled](https://www.pcgamer.com/ayaneo-announces-the-next-lite-the-first-non-valve-handheld-pc-with-steamos-preinstalled)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha &lpar;2402.240108-2200&rpar;](https://news.xbox.com/en-us/2024/01/10/xbox-insider-release-notes-alpha-2402-240108-2200/)
+ - [AARP&#39;s Horrible AI-Powered Mario Hologram, Explained](https://kotaku.com/ai-mario-hologram-ces-2024-aarp-target-nintendo-1851156437)
+ - [Why Video Game Voice Actors Don’t Love The New SAG-AFTRA Deal](https://kotaku.com/sag-aftra-strike-ai-voice-acting-deal-update-1851156390)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
