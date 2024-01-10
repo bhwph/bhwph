@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Mayhem! crafted one of the best elevator fight scenes in action movie history](https://www.polygon.com/24029877/mayhem-elevator-fight-scene-watch-interview-xavier-gens-jude-poyer-nassim-lyes-farang)
- - [I know I&#39;m not alone in thinking Thermaltake&#39;s RGB DDR5 memory looks way better without RGB](https://www.pcgamer.com/i-know-im-not-alone-in-thinking-thermaltakes-rgb-ddr5-memory-looks-way-better-without-rgb)
- - [You can get 25 Call of Cthulhu books for around $25 in this latest Humble Bundle—including the Starter Set, a deck of monster cards, and a colouring book](https://www.pcgamer.com/you-can-get-25-call-of-cthulhu-books-for-around-dollar25-in-this-latest-humble-bundleincluding-the-starter-set-a-deck-of-monster-cards-and-a-colouring-book)<!-- GAME:END -->
+ - [The new tabletop RPG from the creators of City of Mist is &#39;rustic fantasy&#39; but &#39;not another D&amp;D clone&#39;](https://www.pcgamer.com/the-new-tabletop-rpg-from-the-creators-of-city-of-mist-is-rustic-fantasy-but-not-another-dandd-clone)
+ - [Echo’s post-credits scene gives the MCU a villain who isn’t trying to take over the universe](https://www.polygon.com/24032434/echo-post-credit-scene-kingpin-explained)
+ - [Twitch confirms more than 500 people are being laid off: Despite earlier cuts, &#39;our organization is still meaningfully larger than it needs to be&#39;](https://www.pcgamer.com/bloomberg-reports-twitch-to-cut-35-of-staff-as-soon-as-wednesday-laying-off-500-workers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
