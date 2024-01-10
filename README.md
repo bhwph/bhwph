@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The humble Notepad app on Windows could soon get an AI upgrade](https://www.androidauthority.com/microsoft-windows-notepad-ai-upgrade-3401549/)
- - [Some startup founders are building up protections, including implementing supervoting shares or dual-class shares, to avoid getting ousted like Sam Altman &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/240110/p8#a240110p8)
- - [Demis Hassabis, chief of DeepMind spinout Isomorphic Labs, believes the company would halve drug discovery times after inking deals with Eli Lilly and Novartis &lpar;Financial Times&rpar;](http://www.techmeme.com/240110/p7#a240110p7)<!-- TECH:END -->
+ - [Aeva, founded by Apple veterans, reaches a $1B deal with Germany&#39;s Daimler Truck for self-driving sensors for trucks expected in 2027, but offers few details &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240110/p11#a240110p11)
+ - [Amazift pips the rumored Galaxy Ring to market by launching its own Helio Ring](https://www.androidauthority.com/amazift-helio-ring-3401584/)
+ - [Magnitt: startups in Saudi Arabia raised $1.4B in 2023, up 33% YoY, for a 52% share of VC funding in the MENA region, beating the UAE for the first time &lpar;Bloomberg&rpar;](http://www.techmeme.com/240110/p10#a240110p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
