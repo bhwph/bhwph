@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Terrifying](http://9gag.com/gag/avQMMNM)
- - 😝 [`Women in eastern video games aren&#39;t realistic`. Meanwhile in east asia...](http://9gag.com/gag/aZD6GDz)
- - 👉 [Thief slap](http://9gag.com/gag/aZD6eWX)<!-- MEMES:END -->
+ - 6️⃣ [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)
+ - 😝 [Terrifying](http://9gag.com/gag/avQMMNM)
+ - 👉 [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)<!-- MEMES:END -->
 
 --- 
 
