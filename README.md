@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Echo brings the best of Netflix’s Marvel era energy to Disney Plus](https://www.theverge.com/24030104/marvel-echo-review-daredevil-mcu-disney-plus-hulu)
- - [At CES 2024, Walmart unveils a generative AI search tool and says it is developing a tool to help InHome users quickly add commonly ordered items to their carts &lpar;Siddharth Cavale/Reuters&rpar;](http://www.techmeme.com/240109/p42#a240109p42)
- - [X announces new shows with former CNN host Don Lemon, former Hawaii congresswoman Tulsi Gabbard, and sports commentator Jim Rome, amid a push into video &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240109/p41#a240109p41)<!-- TECH:END -->
+ - [The Rabbit R1 is an AI-powered mobile device that’s nothing like anything you’ve ever seen](https://www.androidauthority.com/rabbit-r1-3401523/)
+ - [Binance, Kraken, Mexc, KuCoin, and four other crypto exchanges have been pulled from the App Store in India after being flagged for operating &quot;illegally&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240109/p45#a240109p45)
+ - [Vietnam-based Be Group, which provides ride-hailing, delivery, and digital financial services, raised ~$30M from VPBank, in a bid to take on Grab and GoTo &lpar;Nguyen Kieu Giang/Bloomberg&rpar;](http://www.techmeme.com/240109/p44#a240109p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
