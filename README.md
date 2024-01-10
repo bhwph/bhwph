@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Selfie GIFs could be coming to Google Messages](https://www.androidauthority.com/google-messages-selfie-gifs-3401829/)
- - [X has quietly removed the ability for paying subscribers to set an NFT as a profile picture, a feature Twitter launched in early 2022 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240110/p30#a240110p30)
- - [Internet access will go up by $30 for millions of low-income Americans: Everything you need to know](https://www.androidauthority.com/affordable-connectity-program-extension-3401808/)<!-- TECH:END -->
+ - [Thread border router fix should improve smart home networking](https://appleinsider.com/articles/24/01/10/thread-border-router-fix-should-improve-smart-home-networking?utm_medium=rss)
+ - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
+ - [Google Wallet now shows airline boarding passes on your smartwatch](https://www.androidauthority.com/google-wallet-wear-os-boarding-pass-3401887/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
