@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The wait](http://9gag.com/gag/agoDWev)
- - 😝 [The first girl was totally going to give him a chance.This will haunt him for the rest of his life.](http://9gag.com/gag/aBdA7GP)
- - 👉 [Happy Hostage.](http://9gag.com/gag/a3Z6VR1)<!-- MEMES:END -->
+ - 6️⃣ [Anyone else?](http://9gag.com/gag/aGEmW5n)
+ - 😝 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
+ - 👉 [`Women in eastern video games aren&#39;t realistic`. Meanwhile in east asia...](http://9gag.com/gag/aZD6GDz)<!-- MEMES:END -->
 
 --- 
 
