@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung has a new rugged phone and tablet, and you can use one without a battery](https://www.androidauthority.com/samsung-galaxy-xcover-7-galaxy-tab-active-5-3401273/)
- - [I Found David Lynch’s Lost &#39;Dune II&#39; Script](https://www.wired.com/story/david-lynch-dune-sequel-script-unearthed/)
- - [How UK online clothes shoppers shifting back to physical stores post-pandemic exacerbated online retailers&#39; challenges, including logistics and new upstarts &lpar;Financial Times&rpar;](http://www.techmeme.com/240110/p21#a240110p21)<!-- TECH:END -->
+ - [Daily deals Jan. 10: Apple TV 4K $115, Apple MagSafe Charger $29, 49% off Beats Studio Pro, more](https://appleinsider.com/articles/24/01/10/daily-deals-jan-10-apple-tv-4k-115-apple-magsafe-charger-29-49-off-beats-studio-pro-more?utm_medium=rss)
+ - [Our picks for the best streaming shows of 2023](https://www.androidauthority.com/best-streaming-shows-2023-year-3399789/)
+ - [Snowpack is shrinking across the Northern Hemisphere](https://www.theverge.com/2024/1/10/24031852/snow-loss-climate-change-drought-research)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
