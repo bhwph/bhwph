@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thread border router fix should improve smart home networking](https://appleinsider.com/articles/24/01/10/thread-border-router-fix-should-improve-smart-home-networking?utm_medium=rss)
- - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
- - [Google Wallet now shows airline boarding passes on your smartwatch](https://www.androidauthority.com/google-wallet-wear-os-boarding-pass-3401887/)<!-- TECH:END -->
+ - [Kia gets its first customer for the PV5 modular electric vehicle: Uber](https://www.theverge.com/2024/1/10/24033010/kia-uber-mou-pv5-modular-ev-ridehail-deal)
+ - [First Bitcoin ETFs approved by US regulators](https://www.theverge.com/2024/1/10/24026863/bitcoin-etf-sec-crypto-finance)
+ - [Poll: How often do you use a power bank for your phone?](https://www.androidauthority.com/use-power-bank-poll-3401956/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
