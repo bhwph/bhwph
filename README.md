@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
+ - 6️⃣ [Terrifying](http://9gag.com/gag/avQMMNM)
  - 😝 [`Women in eastern video games aren&#39;t realistic`. Meanwhile in east asia...](http://9gag.com/gag/aZD6GDz)
- - 👉 [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)<!-- MEMES:END -->
+ - 👉 [Thief slap](http://9gag.com/gag/aZD6eWX)<!-- MEMES:END -->
 
 --- 
 
