@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Rabbit R1 is an AI-powered mobile device that’s nothing like anything you’ve ever seen](https://www.androidauthority.com/rabbit-r1-3401523/)
- - [Binance, Kraken, Mexc, KuCoin, and four other crypto exchanges have been pulled from the App Store in India after being flagged for operating &quot;illegally&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240109/p45#a240109p45)
- - [Vietnam-based Be Group, which provides ride-hailing, delivery, and digital financial services, raised ~$30M from VPBank, in a bid to take on Grab and GoTo &lpar;Nguyen Kieu Giang/Bloomberg&rpar;](http://www.techmeme.com/240109/p44#a240109p44)<!-- TECH:END -->
+ - [Bank of America values Jio Platforms at $107B, up 64.6% from $65B in 2020 when the Indian telecoms and digital conglomerate raised $20B+ from Meta and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240110/p3#a240110p3)
+ - [Google may be planning to ship a rare upgrade to Tensor-powered Pixel phones](https://www.androidauthority.com/google-pixel-tensor-linux-kernel-upgrade-3401529/)
+ - [Tesla’s upgraded 2024 Model 3 is now available in the US](https://www.theverge.com/2024/1/10/24032562/tesla-model-3-2024-refresh-us-available-highland)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
