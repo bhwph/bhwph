@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I don&#39;t know whether to be afraid or impressed by this PCIe 5.0 SSD with a tiny liquid cooler attached](https://www.pcgamer.com/i-dont-know-whether-to-be-afraid-or-impressed-by-this-pcie-50-ssd-with-a-tiny-liquid-cooler-attached)
- - [All the Echo season 2 news we’ve heard so far](https://www.polygon.com/24030419/echo-season-2-release-date-cast-news)
- - [Valve updates its Steam policy on AI so it can &#39;release the vast majority of games that use it&#39;](https://www.pcgamer.com/valve-updates-its-steam-policy-on-ai-so-it-can-release-the-vast-majority-of-games-that-use-it)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #935 for Wednesday, January 10](https://www.pcgamer.com/wordle-today-answer-935-january-10)
+ - [Echo’s Maya Lopez is one of Marvel’s most complicated characters](https://www.polygon.com/22811806/echo-hawkeye-cast-explained-alaqua-cox)
+ - [Asus unveils its ROG NUC, packing up to a Core 9 Ultra and RTX 4070 graphics into a compact 2.5-liter chassis](https://www.pcgamer.com/asus-unveils-its-rog-nuc-packing-up-to-a-core-9-ultra-and-rtx-4070-graphics-into-a-compact-25-liter-chassis)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
