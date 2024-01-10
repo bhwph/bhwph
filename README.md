@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Humane laid off ten employees this week in a cost cutting measure and plans to lower budgets this year, as it reshuffles some of its executive positions &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240109/p39#a240109p39)
- - [FCC says low-income internet subsidies are endangered as funding runs low](https://www.theverge.com/2024/1/9/24032123/fcc-affordable-connectivity-program-extension-funding-shutdown-gop-block)
- - [Hey Calendar approved by App Review after tongue-in-cheek Apple history calendar addition](https://appleinsider.com/articles/24/01/10/hey-calendar-approved-by-app-review-after-tongue-in-cheek-apple-history-calendar-addition?utm_medium=rss)<!-- TECH:END -->
+ - [Echo brings the best of Netflix’s Marvel era energy to Disney Plus](https://www.theverge.com/24030104/marvel-echo-review-daredevil-mcu-disney-plus-hulu)
+ - [At CES 2024, Walmart unveils a generative AI search tool and says it is developing a tool to help InHome users quickly add commonly ordered items to their carts &lpar;Siddharth Cavale/Reuters&rpar;](http://www.techmeme.com/240109/p42#a240109p42)
+ - [X announces new shows with former CNN host Don Lemon, former Hawaii congresswoman Tulsi Gabbard, and sports commentator Jim Rome, amid a push into video &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240109/p41#a240109p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
