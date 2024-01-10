@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube partners with Mass General Brigham and the Mexican Red Cross to show brief, step-by-step first-aid videos atop searches about heart attacks and more &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240110/p17#a240110p17)
- - [Jackery’s rooftop tent is also a powerful solar generator](https://www.theverge.com/2024/1/6/24027729/jackerys-rooftop-tent-solar-generator-ces-concept-date)
- - [Air Pollution Is Ruining Your Skin](https://www.wired.com/story/air-pollution-is-ruining-your-skin/)<!-- TECH:END -->
+ - [Samsung has a new rugged phone and tablet, and you can use one without a battery](https://www.androidauthority.com/samsung-galaxy-xcover-7-galaxy-tab-active-5-3401273/)
+ - [I Found David Lynch’s Lost &#39;Dune II&#39; Script](https://www.wired.com/story/david-lynch-dune-sequel-script-unearthed/)
+ - [How UK online clothes shoppers shifting back to physical stores post-pandemic exacerbated online retailers&#39; challenges, including logistics and new upstarts &lpar;Financial Times&rpar;](http://www.techmeme.com/240110/p21#a240110p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
