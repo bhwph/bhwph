@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best 4K TV Deals: Save Up to $600 on Sony, Samsung, TCL and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
- - [Walmart Expands Dallas Drone Deliveries to Millions More Texans     - CNET](https://www.cnet.com/tech/computing/walmart-expands-dallas-drone-deliveries-to-millions-of-texans/#ftag=CAD590a51e)
- - [Walmart is betting that AI can help you shop faster — and maybe do your shopping for you](https://www.theverge.com/2024/1/9/24032017/walmart-ai-shopping-replenishment-in-home)<!-- TECH:END -->
+ - [Source: Humane laid off ten employees this week in a cost cutting measure and plans to lower budgets this year, as it reshuffles some of its executive positions &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240109/p39#a240109p39)
+ - [FCC says low-income internet subsidies are endangered as funding runs low](https://www.theverge.com/2024/1/9/24032123/fcc-affordable-connectivity-program-extension-funding-shutdown-gop-block)
+ - [Hey Calendar approved by App Review after tongue-in-cheek Apple history calendar addition](https://appleinsider.com/articles/24/01/10/hey-calendar-approved-by-app-review-after-tongue-in-cheek-apple-history-calendar-addition?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
