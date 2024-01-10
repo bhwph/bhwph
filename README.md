@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aeva, founded by Apple veterans, reaches a $1B deal with Germany&#39;s Daimler Truck for self-driving sensors for trucks expected in 2027, but offers few details &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240110/p11#a240110p11)
- - [Amazift pips the rumored Galaxy Ring to market by launching its own Helio Ring](https://www.androidauthority.com/amazift-helio-ring-3401584/)
- - [Magnitt: startups in Saudi Arabia raised $1.4B in 2023, up 33% YoY, for a 52% share of VC funding in the MENA region, beating the UAE for the first time &lpar;Bloomberg&rpar;](http://www.techmeme.com/240110/p10#a240110p10)<!-- TECH:END -->
+ - [YouTube partners with Mass General Brigham and the Mexican Red Cross to show brief, step-by-step first-aid videos atop searches about heart attacks and more &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240110/p17#a240110p17)
+ - [Jackery’s rooftop tent is also a powerful solar generator](https://www.theverge.com/2024/1/6/24027729/jackerys-rooftop-tent-solar-generator-ces-concept-date)
+ - [Air Pollution Is Ruining Your Skin](https://www.wired.com/story/air-pollution-is-ruining-your-skin/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
