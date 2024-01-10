@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new tabletop RPG from the creators of City of Mist is &#39;rustic fantasy&#39; but &#39;not another D&amp;D clone&#39;](https://www.pcgamer.com/the-new-tabletop-rpg-from-the-creators-of-city-of-mist-is-rustic-fantasy-but-not-another-dandd-clone)
- - [Echo’s post-credits scene gives the MCU a villain who isn’t trying to take over the universe](https://www.polygon.com/24032434/echo-post-credit-scene-kingpin-explained)
- - [Twitch confirms more than 500 people are being laid off: Despite earlier cuts, &#39;our organization is still meaningfully larger than it needs to be&#39;](https://www.pcgamer.com/bloomberg-reports-twitch-to-cut-35-of-staff-as-soon-as-wednesday-laying-off-500-workers)<!-- GAME:END -->
+ - [The best shows to watch on Max](https://www.polygon.com/what-to-watch/23870121/best-tv-shows-series-max-watch)
+ - [AMD&#39;s any-game frame generation tech is officially launching out of beta with the RX 7600 XT release on January 24](https://www.pcgamer.com/amds-any-game-frame-generation-tech-is-officially-launching-out-of-beta-with-the-rx-7600-xt-release-on-january-24)
+ - [Ayaneo announces the Next Lite, the first non-Valve handheld PC with SteamOS preinstalled](https://www.pcgamer.com/ayaneo-announces-the-next-lite-the-first-non-valve-handheld-pc-with-steamos-preinstalled)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
