@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)
- - 😝 [An attempt at carjacking](http://9gag.com/gag/aQELYYe)
- - 👉 [Camping Knowledge](http://9gag.com/gag/ajVz23g)<!-- MEMES:END -->
+ - 6️⃣ [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
+ - 😝 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)
+ - 👉 [Surgery sometimes does help wonders](http://9gag.com/gag/abvNPZ8)<!-- MEMES:END -->
 
 --- 
 
