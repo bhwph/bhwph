@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Predictable](http://9gag.com/gag/aQELLPq)
+ - 6️⃣ [He thought he was unlovable. Little did he know, that this video would lead him to meeting the love of his life.](http://9gag.com/gag/a04r2gd)
  - 😝 [Thief slap](http://9gag.com/gag/aZD6eWX)
- - 👉 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)<!-- MEMES:END -->
+ - 👉 [Dope with a knife](http://9gag.com/gag/az2W0RK)<!-- MEMES:END -->
 
 --- 
 
