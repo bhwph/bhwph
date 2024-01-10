@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2402.240108-2200&rpar;](https://news.xbox.com/en-us/2024/01/10/xbox-insider-release-notes-alpha-2402-240108-2200/)
- - [AARP&#39;s Horrible AI-Powered Mario Hologram, Explained](https://kotaku.com/ai-mario-hologram-ces-2024-aarp-target-nintendo-1851156437)
- - [Why Video Game Voice Actors Don’t Love The New SAG-AFTRA Deal](https://kotaku.com/sag-aftra-strike-ai-voice-acting-deal-update-1851156390)<!-- GAME:END -->
+ - [NFTs are so dead, even Elon Musk has dropped them: NFT avatars on Twitter are gone](https://www.pcgamer.com/nfts-are-so-dead-even-elon-musk-has-dropped-them-nft-avatars-on-twitter-are-gone)
+ - [Unhinged Sims 4 player keeps making hidden village bunkers &#39;for capturing and storing&#39; sims](https://www.pcgamer.com/unhinged-sims-4-player-keeps-making-hidden-village-bunkers-for-capturing-and-storing-sims)
+ - [Diablo 4&#39;s next season is a mystery but at least we know it starts in less than 2 weeks](https://www.pcgamer.com/diablo-4s-next-season-is-a-mystery-but-at-least-we-know-it-starts-in-less-than-2-weeks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
