@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [1st class flight](http://9gag.com/gag/a2K3QnD)
- - 😝 [Someone in a hurry to cover up all the evidence?](http://9gag.com/gag/a5XOL3L)
- - 👉 [So that&#39;s what happens when you stop allowing your device to be used for crypto mining or whatever the f**k it was doing](http://9gag.com/gag/aGEmPbZ)<!-- MEMES:END -->
+ - 6️⃣ [Getting a facial massage](http://9gag.com/gag/aVbpGdw)
+ - 😝 [Is that fella a fella???](http://9gag.com/gag/aoKvB7A)
+ - 👉 [Perfectly balanced](http://9gag.com/gag/aDYyRdK)<!-- MEMES:END -->
 
 --- 
 
