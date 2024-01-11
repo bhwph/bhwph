@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [That Portal 64 demake we liked so much has been kiboshed by Valve: &#39;They have asked me to take the project down,&#39; creator says](https://www.pcgamer.com/that-portal-64-demake-we-liked-so-much-has-been-kiboshed-by-valve-they-have-asked-me-to-take-the-project-down-creator-says)
- - [I’m Not Afraid To Say It: I’m Excited For Halo Season Two](https://kotaku.com/halo-series-season-2-trailer-reach-review-show-1851160308)
- - [The new Mean Girls has a critical charisma gap](https://www.polygon.com/reviews/24033633/mean-girls-musical-movie-review-2024-tina-fey)<!-- GAME:END -->
+ - [Prince of Persia: The Lost Crown has a free demo you can play right now](https://www.pcgamer.com/prince-of-persia-the-lost-crown-has-a-free-demo-you-can-play-right-now)
+ - [Xbox Insider Release Notes – Omega &lpar;2311.240110-1710&rpar;](https://news.xbox.com/en-us/2024/01/11/xbox-insider-release-notes-omega-2311-240110-1710/)
+ - [Xbox Insider Release Notes – Delta &lpar;2311.240110-1710&rpar;](https://news.xbox.com/en-us/2024/01/11/xbox-insider-release-notes-delta-2311-240110-1710/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
