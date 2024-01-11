@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NFTs are so dead, even Elon Musk has dropped them: NFT avatars on Twitter are gone](https://www.pcgamer.com/nfts-are-so-dead-even-elon-musk-has-dropped-them-nft-avatars-on-twitter-are-gone)
- - [Unhinged Sims 4 player keeps making hidden village bunkers &#39;for capturing and storing&#39; sims](https://www.pcgamer.com/unhinged-sims-4-player-keeps-making-hidden-village-bunkers-for-capturing-and-storing-sims)
- - [Diablo 4&#39;s next season is a mystery but at least we know it starts in less than 2 weeks](https://www.pcgamer.com/diablo-4s-next-season-is-a-mystery-but-at-least-we-know-it-starts-in-less-than-2-weeks)<!-- GAME:END -->
+ - [I just played Lies of P on Samsung&#39;s glasses-free 3D gaming monitor—and it definitely beats a 3D TV](https://www.pcgamer.com/i-just-played-lies-of-p-on-samsungs-glasses-free-3d-gaming-monitorand-it-definitely-beats-a-3d-tv)
+ - [The best D&amp;D actual-play series goes back to school for Fantasy High: Junior Year](https://www.pcgamer.com/the-best-dandd-actual-play-series-goes-back-to-school-for-fantasy-high-junior-year)
+ - [I saw many gaming laptops at CES 2024 but the redesigned Zephyrus G14 is my pick of the bunch](https://www.pcgamer.com/i-saw-many-gaming-laptops-at-ces-2024-but-the-redesigned-zephyrus-g14-is-my-pick-of-the-bunch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
