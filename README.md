@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The biggest and boldest TV launches at CES 2024](https://appleinsider.com/articles/24/01/10/the-biggest-and-boldest-tv-launches-at-ces-2024?utm_medium=rss)
- - [Android’s eSIM conversion feature gets closer to launch](https://www.androidauthority.com/android-esim-conversion-feature-qpr-2-beta-3-3402036/)
- - [Big changes at Google: Pixel, Nest, and Fitbit teams to merge under one hardware umbrella](https://www.androidauthority.com/google-pixel-nest-fitbit-hardware-restructure-3402034/)<!-- TECH:END -->
+ - [ChatGPT is down, users are reporting “Internal Server Error” message](https://www.androidauthority.com/chatgpt-is-down-3402082/)
+ - [Is ChatGPT not working for you? Here’s how you can try to fix it &lpar;Updated: New outage&rpar;](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
+ - [A look at some of the most interesting tech from CES 2024: Roxi&#39;s interactive music video channels for linear TV, Samsung&#39;s Ballie AI robot projector, and more &lpar;Chris Velazco/Washington Post&rpar;](http://www.techmeme.com/240111/p6#a240111p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
