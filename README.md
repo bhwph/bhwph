@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kia gets its first customer for the PV5 modular electric vehicle: Uber](https://www.theverge.com/2024/1/10/24033010/kia-uber-mou-pv5-modular-ev-ridehail-deal)
- - [First Bitcoin ETFs approved by US regulators](https://www.theverge.com/2024/1/10/24026863/bitcoin-etf-sec-crypto-finance)
- - [Poll: How often do you use a power bank for your phone?](https://www.androidauthority.com/use-power-bank-poll-3401956/)<!-- TECH:END -->
+ - [Here’s what we know about the SAG-AFTRA AI voice acting licensing deal](https://www.theverge.com/2024/1/10/24033258/sag-aftra-ai-video-game-voice-acting-licensing-replica-studios)
+ - [Xreal Air 2 Ultra Hands On: These Glasses Put Screens All Around You     - CNET](https://www.cnet.com/tech/mobile/xreal-air-2-ultra-hands-on-these-glasses-put-screens-all-around-you/#ftag=CAD590a51e)
+ - [All the Robot-Made Food and Drink I Tried at CES, Ranked From Worst to Best     - CNET](https://www.cnet.com/how-to/all-the-robot-made-food-and-drink-i-tried-at-ces-ranked-from-worst-to-best/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
