@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Child Abusers Are Getting Better at Using Crypto to Cover Their Tracks](https://www.wired.com/story/csam-sellers-monero-rise/)
- - [Sony’s Afeela needs to be more than a feeling](https://www.theverge.com/24033762/sony-afeela-hands-on-ces-2024)
- - [A researcher finds 800GB of data online tied to school software maker Raptor, used by 5,300+ US districts, including evacuation plans and student medical files &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240111/p19#a240111p19)<!-- TECH:END -->
+ - [Filing: ironSource founders, including CEO and Unity Grow president Tomer Bar-Zeev, are exiting Unity amid mass layoffs; Unity merged with ironSource in 2022 &lpar;Chris Kerr/gamedeveloper&rpar;](http://www.techmeme.com/240111/p24#a240111p24)
+ - [WhatsApp’s custom sticker maker on iOS is here to spice up your chats](https://www.theverge.com/2024/1/11/24034382/whatsapp-create-share-stickers-ios-17)
+ - [Daily deals Jan. 11: LG UltraFine 5K Display $899, $199 off Mac mini, Apple AirTag 4-Pack $79, more](https://appleinsider.com/articles/24/01/11/daily-deals-jan-11-lg-ultrafine-5k-display-899-199-off-mac-mini-apple-airtag-4-pack-79-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
