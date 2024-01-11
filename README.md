@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: ironSource founders, including CEO and Unity Grow president Tomer Bar-Zeev, are exiting Unity amid mass layoffs; Unity merged with ironSource in 2022 &lpar;Chris Kerr/gamedeveloper&rpar;](http://www.techmeme.com/240111/p24#a240111p24)
- - [WhatsApp’s custom sticker maker on iOS is here to spice up your chats](https://www.theverge.com/2024/1/11/24034382/whatsapp-create-share-stickers-ios-17)
- - [Daily deals Jan. 11: LG UltraFine 5K Display $899, $199 off Mac mini, Apple AirTag 4-Pack $79, more](https://appleinsider.com/articles/24/01/11/daily-deals-jan-11-lg-ultrafine-5k-display-899-199-off-mac-mini-apple-airtag-4-pack-79-more?utm_medium=rss)<!-- TECH:END -->
+ - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
+ - [Robots Made Me a Heap of Food at CES 2024. How Good Was It?     - CNET](https://www.cnet.com/how-to/robots-made-me-a-heap-of-food-at-ces-2024-how-good-was-it/#ftag=CAD590a51e)
+ - [These Harry Potter Gifts Are Perfect for Any Aspiring Wizard     - CNET](https://www.cnet.com/culture/entertainment/best-harry-potter-gifts-perfect-for-any-aspiring-wizard/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
