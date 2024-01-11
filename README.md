@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Prince Of Persia: The Lost Crown Fixes The Worst Thing About Metroidvanias](https://kotaku.com/prince-persia-lost-crown-memory-shard-screenshot-1851159804)
- - [Raccoo Venture was Created by Just One Person and Teaches Valuable Lessons](https://news.xbox.com/en-us/2024/01/11/raccoo-venture-was-created-by-just-one-person-and-teaches-valuable-lessons/)
- - [Konami’s rereleasing classic platformers, including rare Felix the Cat games](https://www.polygon.com/24034492/konami-felix-cat-rocket-knight-sparkster-limited-run-games)<!-- GAME:END -->
+ - [That Portal 64 demake we liked so much has been kiboshed by Valve: &#39;They have asked me to take the project down,&#39; creator says](https://www.pcgamer.com/that-portal-64-demake-we-liked-so-much-has-been-kiboshed-by-valve-they-have-asked-me-to-take-the-project-down-creator-says)
+ - [I’m Not Afraid To Say It: I’m Excited For Halo Season Two](https://kotaku.com/halo-series-season-2-trailer-reach-review-show-1851160308)
+ - [The new Mean Girls has a critical charisma gap](https://www.polygon.com/reviews/24033633/mean-girls-musical-movie-review-2024-tina-fey)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
