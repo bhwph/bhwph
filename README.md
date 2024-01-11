@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to remove 17 &quot;underutilized&quot; Assistant features in February, including voice-controlled Play Books audiobooks, media alarms, and Calm meditation &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240111/p14#a240111p14)
- - [Dough Spectrum One monitor with Gorilla Glass review: crystal clear 4K HDR at a good price](https://appleinsider.com/articles/24/01/11/dough-spectrum-one-monitor-with-gorilla-glass-review-crystal-clear-4k-hdr-at-a-good-price?utm_medium=rss)
- - [ChatGPT is down, users are reporting “Internal Server Error” message &lpar;Update: Back&rpar;](https://www.androidauthority.com/chatgpt-is-down-3402082/)<!-- TECH:END -->
+ - [Child Abusers Are Getting Better at Using Crypto to Cover Their Tracks](https://www.wired.com/story/csam-sellers-monero-rise/)
+ - [Sony’s Afeela needs to be more than a feeling](https://www.theverge.com/24033762/sony-afeela-hands-on-ces-2024)
+ - [A researcher finds 800GB of data online tied to school software maker Raptor, used by 5,300+ US districts, including evacuation plans and student medical files &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240111/p19#a240111p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
