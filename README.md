@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Context Matters: Clarifying the Context](http://9gag.com/gag/aL1ZqpP)
- - 😝 [Uhm guys....](http://9gag.com/gag/a8qRr4V)
- - 👉 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)<!-- MEMES:END -->
+ - 😝 [So that&#39;s what happens when you stop allowing your device to be used for crypto mining or whatever the f**k it was doing](http://9gag.com/gag/aGEmPbZ)
+ - 👉 [Uhm guys....](http://9gag.com/gag/a8qRr4V)<!-- MEMES:END -->
 
 --- 
 
