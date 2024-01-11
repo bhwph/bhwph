@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [1st class flight](http://9gag.com/gag/a2K3QnD)
- - 😝 [Getting a facial massage](http://9gag.com/gag/aVbpGdw)
- - 👉 [Someone in a hurry to cover up all the evidence?](http://9gag.com/gag/a5XOL3L)<!-- MEMES:END -->
+ - 😝 [Someone in a hurry to cover up all the evidence?](http://9gag.com/gag/a5XOL3L)
+ - 👉 [So that&#39;s what happens when you stop allowing your device to be used for crypto mining or whatever the f**k it was doing](http://9gag.com/gag/aGEmPbZ)<!-- MEMES:END -->
 
 --- 
 
