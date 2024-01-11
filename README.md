@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best thrillers to watch on Netflix this January](https://www.polygon.com/what-to-watch/2024/1/11/24030025/best-thriller-movies-netflix-watch-january-2024)
- - [The Best Survival Horror Game Ever Made Joins PlayStation Plus This Month](https://kotaku.com/playstation-plus-catalog-resident-evil-2-tiny-tina-1851159069)
- - [Alienware’s cutting-edge QD-OLED gaming monitors are now available to buy](https://www.polygon.com/deals/24034414/alienware-qd-oled-gaming-monitor-27-32-4k-1440p-2024-specs-price-buy)<!-- GAME:END -->
+ - [Prince Of Persia: The Lost Crown Fixes The Worst Thing About Metroidvanias](https://kotaku.com/prince-persia-lost-crown-memory-shard-screenshot-1851159804)
+ - [Raccoo Venture was Created by Just One Person and Teaches Valuable Lessons](https://news.xbox.com/en-us/2024/01/11/raccoo-venture-was-created-by-just-one-person-and-teaches-valuable-lessons/)
+ - [Konami’s rereleasing classic platformers, including rare Felix the Cat games](https://www.polygon.com/24034492/konami-felix-cat-rocket-knight-sparkster-limited-run-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
