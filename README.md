@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
- - [Robots Made Me a Heap of Food at CES 2024. How Good Was It?     - CNET](https://www.cnet.com/how-to/robots-made-me-a-heap-of-food-at-ces-2024-how-good-was-it/#ftag=CAD590a51e)
- - [These Harry Potter Gifts Are Perfect for Any Aspiring Wizard     - CNET](https://www.cnet.com/culture/entertainment/best-harry-potter-gifts-perfect-for-any-aspiring-wizard/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Cloud launches new generative AI tools for retailers to improve online shopping, including a chatbot that can offer product recommendations to consumers &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240111/p33#a240111p33)
+ - [The Real Problem With the Boeing 737 Max](https://www.wired.com/story/boeing-737-max-accident-alaska-airlines-as1282-united-door-plug/)
+ - [Android 15 could bring widgets back to the lock screen](https://www.androidauthority.com/android-15-lock-screen-widgets-3402342/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
