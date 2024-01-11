@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vincent D’Onofrio’s Kingpin has spent a decade as Marvel’s best villain](https://www.polygon.com/24032204/marvel-kingpin-echo-vincent-donofrio-cast-good)
- - [Momodora: Moonlit Farewell is a charming metroidvania about defending a village with your fellow magical girls via the power of friendship and a big leaf](https://www.pcgamer.com/momodora-moonlit-farewell-is-a-charming-metroidvania-about-defending-a-village-with-your-fellow-magical-girls-via-the-power-of-friendship-and-a-big-leaf)
- - [XGIMI Horizon Ultra review](https://www.pcgamer.com/xgimi-horizon-ultra-4k-projector-review)<!-- GAME:END -->
+ - [The best thrillers to watch on Netflix this January](https://www.polygon.com/what-to-watch/2024/1/11/24030025/best-thriller-movies-netflix-watch-january-2024)
+ - [The Best Survival Horror Game Ever Made Joins PlayStation Plus This Month](https://kotaku.com/playstation-plus-catalog-resident-evil-2-tiny-tina-1851159069)
+ - [Alienware’s cutting-edge QD-OLED gaming monitors are now available to buy](https://www.polygon.com/deals/24034414/alienware-qd-oled-gaming-monitor-27-32-4k-1440p-2024-specs-price-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
