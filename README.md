@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Epic toyota ad](http://9gag.com/gag/aYV9NrN)
- - 😝 [There is only one thing worse than a rapist](http://9gag.com/gag/aWGrwB3)
+ - 6️⃣ [Context Matters: Clarifying the Context](http://9gag.com/gag/aL1ZqpP)
+ - 😝 [Uhm guys....](http://9gag.com/gag/a8qRr4V)
  - 👉 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)<!-- MEMES:END -->
 
 --- 
