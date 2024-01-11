@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)
- - 😝 [How you sleep? and result ?](http://9gag.com/gag/aYV9NZ2)
+ - 6️⃣ [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
+ - 😝 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)
  - 👉 [Subjects for research. Feel free to add more in the comments](http://9gag.com/gag/aBdAq4D)<!-- MEMES:END -->
 
 --- 
