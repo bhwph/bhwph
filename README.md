@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I just played Lies of P on Samsung&#39;s glasses-free 3D gaming monitor—and it definitely beats a 3D TV](https://www.pcgamer.com/i-just-played-lies-of-p-on-samsungs-glasses-free-3d-gaming-monitorand-it-definitely-beats-a-3d-tv)
- - [The best D&amp;D actual-play series goes back to school for Fantasy High: Junior Year](https://www.pcgamer.com/the-best-dandd-actual-play-series-goes-back-to-school-for-fantasy-high-junior-year)
- - [I saw many gaming laptops at CES 2024 but the redesigned Zephyrus G14 is my pick of the bunch](https://www.pcgamer.com/i-saw-many-gaming-laptops-at-ces-2024-but-the-redesigned-zephyrus-g14-is-my-pick-of-the-bunch)<!-- GAME:END -->
+ - [2024 is already looking like a fantastic year for survival games](https://www.pcgamer.com/best-survival-games-2024)
+ - [Intel&#39;s next gen Battlemage GPUs are up and running in its labs, and work on its next-next generation Celestial architecture is well underway](https://www.pcgamer.com/intels-next-gen-battlemage-gpus-are-up-and-running-in-its-labs-and-work-its-next-next-generation-celestial-architecture-is-well-underway)
+ - [I just played Lies of P on Samsung&#39;s glasses-free 3D gaming monitor—and it definitely beats a 3D TV](https://www.pcgamer.com/i-just-played-lies-of-p-on-samsungs-glasses-free-3d-gaming-monitorand-it-definitely-beats-a-3d-tv)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
