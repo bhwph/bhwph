@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sovereign Syndicate review](https://www.pcgamer.com/sovereign-syndicate-review)
- - [Samsung and LG show off transparent screens at CES 2024 that have to be seen to be believed](https://www.pcgamer.com/samsung-and-lg-show-off-transparent-screens-at-ces-2024-that-have-to-be-seen-to-be-believed)
- - [Wordle today: Hint and answer #936 for Thursday, January 11](https://www.pcgamer.com/wordle-today-answer-936-january-11)<!-- GAME:END -->
+ - [Dell founder says calm down about SHODAN-style sentient AI because &#39;you remember the ozone layer and all&#39; and we fixed that](https://www.pcgamer.com/dell-founder-says-calm-down-about-shodan-style-sentient-ai-because-you-remember-the-ozone-layer-and-all-and-we-fixed-that)
+ - [Here&#39;s when Call of Duty: Warzone Season 1 Reloaded releases and what to expect](https://www.pcgamer.com/call-of-duty-warzone-season-1-reloaded-release-date-patch-notes)
+ - [Lenovo&#39;s Magic Bay means you can add a monster-sized removable webcam, a handy dandy perfume pump, or dedicated emoji screen to your new ThinkBook laptop](https://www.pcgamer.com/lenovos-magic-bay-means-you-can-add-a-monster-sized-removable-webcam-a-handy-dandy-perfume-pump-or-dedicated-emoji-screen-to-your-new-thinkbook-laptop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
