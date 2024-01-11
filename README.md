@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Getting a facial massage](http://9gag.com/gag/aVbpGdw)
- - 😝 [And then fighting the police that wants to fill those tunnels up. What the hell is going on?](http://9gag.com/gag/a9qxQzo)
- - 👉 [Migrants on their way to Europe proudly film how they get rid of their id&#39;s. Then when they reach Europe they are all 17 years old with no home country and can&#39;t be expelled from Europe. Notice how they are all younger men. Europe needs a new migration policy before it&#39;s to late](http://9gag.com/gag/a3Z6oXv)<!-- MEMES:END -->
+ - 6️⃣ [1st class flight](http://9gag.com/gag/a2K3QnD)
+ - 😝 [Getting a facial massage](http://9gag.com/gag/aVbpGdw)
+ - 👉 [Someone in a hurry to cover up all the evidence?](http://9gag.com/gag/a5XOL3L)<!-- MEMES:END -->
 
 --- 
 
