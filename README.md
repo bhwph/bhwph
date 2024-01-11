@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Cloud launches new generative AI tools for retailers to improve online shopping, including a chatbot that can offer product recommendations to consumers &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240111/p33#a240111p33)
- - [The Real Problem With the Boeing 737 Max](https://www.wired.com/story/boeing-737-max-accident-alaska-airlines-as1282-united-door-plug/)
- - [Android 15 could bring widgets back to the lock screen](https://www.androidauthority.com/android-15-lock-screen-widgets-3402342/)<!-- TECH:END -->
+ - [Apple Board of Directors shuffle sees Al Gore &amp; James Bell retire](https://appleinsider.com/articles/24/01/11/apple-board-of-directors-shuffle-sees-al-gore-james-bell-retire?utm_medium=rss)
+ - [Dexcom’s new continuous glucose monitor is a health tech gadget with purpose](https://www.theverge.com/2024/1/11/24034098/dexcom-stelo-cgm-diabetes-health-tech-ces-2024)
+ - [Apple says Al Gore and James Bell will retire from its board this year, and Wanda Austin, ex-president and CEO of The Aerospace Corporation, will join the board &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240111/p37#a240111p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
