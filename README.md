@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix says its ad tier has 23M+ MAUs globally, up from 15M+ in November 2023, and 85% of customers on the ad tier are streaming for over 2 hours per day &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240110/p38#a240110p38)
- - [CES 2024 Is All About AI. You Can Blame ChatGPT for That     - CNET](https://www.cnet.com/tech/ces-2024-is-all-about-ai-you-can-blame-chatgpt-for-that/#ftag=CAD590a51e)
- - [Tax Season 2024: File Your Taxes for Free With This IRS Program     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-file-your-taxes-for-free-with-this-irs-program/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is reorganizing the Devices &amp; Services teams working on the Pixel, Fitbit, and Nest; Fitbit co-founders James Park and Eric Friedman are leaving Google &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240110/p40#a240110p40)
+ - [How to use Double Tap on Apple Watch Ultra 2 &amp; Apple Watch Series 9 in watchOS 10.1](https://appleinsider.com/inside/apple-watch-series-9/tips/how-to-use-double-tap-on-apple-watch-ultra-2-apple-watch-series-9-in-watchos-101?utm_medium=rss)
+ - [Google is losing its Fitbit leaders and laying off hundreds of AR employees](https://www.theverge.com/2024/1/10/24033994/google-reorganization-fitbit-park-friedman-ar-layoffs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
