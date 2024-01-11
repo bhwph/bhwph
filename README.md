@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is reorganizing the Devices &amp; Services teams working on the Pixel, Fitbit, and Nest; Fitbit co-founders James Park and Eric Friedman are leaving Google &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240110/p40#a240110p40)
- - [How to use Double Tap on Apple Watch Ultra 2 &amp; Apple Watch Series 9 in watchOS 10.1](https://appleinsider.com/inside/apple-watch-series-9/tips/how-to-use-double-tap-on-apple-watch-ultra-2-apple-watch-series-9-in-watchos-101?utm_medium=rss)
- - [Google is losing its Fitbit leaders and laying off hundreds of AR employees](https://www.theverge.com/2024/1/10/24033994/google-reorganization-fitbit-park-friedman-ar-layoffs)<!-- TECH:END -->
+ - [The biggest and boldest TV launches at CES 2024](https://appleinsider.com/articles/24/01/10/the-biggest-and-boldest-tv-launches-at-ces-2024?utm_medium=rss)
+ - [Android’s eSIM conversion feature gets closer to launch](https://www.androidauthority.com/android-esim-conversion-feature-qpr-2-beta-3-3402036/)
+ - [Big changes at Google: Pixel, Nest, and Fitbit teams to merge under one hardware umbrella](https://www.androidauthority.com/google-pixel-nest-fitbit-hardware-restructure-3402034/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
