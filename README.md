@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Getting a facial massage](http://9gag.com/gag/aVbpGdw)
- - 😝 [Is that fella a fella???](http://9gag.com/gag/aoKvB7A)
- - 👉 [Perfectly balanced](http://9gag.com/gag/aDYyRdK)<!-- MEMES:END -->
+ - 6️⃣ [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)
+ - 😝 [How you sleep? and result ?](http://9gag.com/gag/aYV9NZ2)
+ - 👉 [Subjects for research. Feel free to add more in the comments](http://9gag.com/gag/aBdAq4D)<!-- MEMES:END -->
 
 --- 
 
