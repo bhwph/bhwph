@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT is down, users are reporting “Internal Server Error” message](https://www.androidauthority.com/chatgpt-is-down-3402082/)
- - [Is ChatGPT not working for you? Here’s how you can try to fix it &lpar;Updated: New outage&rpar;](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
- - [A look at some of the most interesting tech from CES 2024: Roxi&#39;s interactive music video channels for linear TV, Samsung&#39;s Ballie AI robot projector, and more &lpar;Chris Velazco/Washington Post&rpar;](http://www.techmeme.com/240111/p6#a240111p6)<!-- TECH:END -->
+ - [The White House Just Announced a $623 Million EV-Charging Bonanza](https://www.wired.com/story/white-house-623-million-ev-charging-bonanza/)
+ - [PitchBook: female-founded US companies raised $44.4B out of $170.59B in VC funding in 2023; companies with all-female founding teams raised ~$3.1B, down 39% YoY &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240111/p8#a240111p8)
+ - [PitchBook: VC investment in the crypto industry totaled $9.5B in 2023, less than a third of 2022; CryptoSlam says NFT sales fell 63% to $8.7B in 2023 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240111/p7#a240111p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
