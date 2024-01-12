@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice Play](http://9gag.com/gag/aOxwq5R)
- - 😝 [My childhood became a lie](http://9gag.com/gag/aNwNZ34)
- - 👉 [The future is now, old man](http://9gag.com/gag/aL1xQZP)<!-- MEMES:END -->
+ - 6️⃣ [Somebody unlock this man&#39;s chastity belt.](http://9gag.com/gag/aL1xKN5)
+ - 😝 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
+ - 👉 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)<!-- MEMES:END -->
 
 --- 
 
