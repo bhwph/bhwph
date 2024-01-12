@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Surprising Things That Helped Make 2023 the Hottest Year Ever](https://www.wired.com/story/the-surprising-things-that-helped-make-2023-the-hottest-year-ever/)
- - [The 49 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 51 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [Kevin Systrom says news sharing app Artifact will shut down after concluding that &quot;the market opportunity isn&#39;t big enough to warrant continued investment&quot; &lpar;Kevin Systrom/Artifact News&rpar;](http://www.techmeme.com/240112/p18#a240112p18)
+ - [The Last of Us: all the news about the video game franchise turned TV series](https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers)
+ - [The best Apple Vision Pro productivity apps at launch](https://appleinsider.com/inside/apple-vision-pro/best/the-best-apple-vision-pro-productivity-apps-at-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
