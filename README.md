@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
- - 😝 [She ate them all](http://9gag.com/gag/aNwNeo6)
- - 👉 [Look what they did to my Force !](http://9gag.com/gag/aVbAO8d)<!-- MEMES:END -->
+ - 6️⃣ [Parallax Effect](http://9gag.com/gag/aQEGPDK)
+ - 😝 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
+ - 👉 [Happy accident for him](http://9gag.com/gag/abv73Wv)<!-- MEMES:END -->
 
 --- 
 
