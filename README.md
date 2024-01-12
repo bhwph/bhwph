@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In a year crammed full of RPGs, The Iron Oath managed to excel](https://www.polygon.com/24034968/the-iron-oath-full-release-mercenary-management-future-updates)
- - [Pokémon Scarlet And Violet’s Epilogue Is Silly And Anticlimactic](https://kotaku.com/pokemon-scarlet-violet-epilogue-mochi-mayhem-area-zero-1851162559)
- - [Frore&#39;s AirJet Mini Slim seems like a significant fanless cooling upgrade, but the lack of adoption for the original AirJet is worrying](https://www.pcgamer.com/frores-airjet-mini-slim-seems-like-a-significant-fanless-cooling-upgrade-but-the-lack-of-adoption-for-the-original-airjet-is-worrying)<!-- GAME:END -->
+ - [Matrix Star Laurence Fishburne Will Suck Blood In Witcher Season 4](https://kotaku.com/witcher-season-4-netflix-laurence-fishburne-regis-1851163245)
+ - [Kevin Hart doesn’t even get to be Kevin Hart in Netflix’s new Kevin Hart movie](https://www.polygon.com/reviews/24034986/lift-review-netflix-kevin-hart-heist-movie)
+ - [Capcom rolls back Resident Evil Revelations update that caused performance problems and crashes as fans accuse it of trying to sneak in DRM in order to kill mod support](https://www.pcgamer.com/capcom-rolls-back-resident-evil-revelations-update-that-caused-performance-problems-and-crashes-as-fans-accuse-it-of-trying-to-sneak-in-drm-in-order-to-kill-mod-support)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
