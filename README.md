@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first two Golden Sun games arrive on Nintendo Switch Online next week](https://www.theverge.com/2024/1/12/24035626/nintendo-switch-online-expansion-pack-golden-sun-lost-age-game-boy-advance)
- - [Q&amp;A with OpenAI COO Brad Lightcap on managing deals with publishers, launching the GPT Store, OpenAI&#39;s corporate structure, Sam Altman&#39;s departure, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240112/p4#a240112p4)
- - [Here’s how you can turn your Wear OS smartwatch into a floating mouse for your PC](https://www.androidauthority.com/how-to-turn-wear-os-smartwatch-into-mouse-3402578/)<!-- TECH:END -->
+ - [&#39;Killers of the Flower Moon&#39; is now streaming on Apple TV+](https://appleinsider.com/articles/24/01/12/killers-of-the-flower-moon-is-now-streaming-on-apple-tv?utm_medium=rss)
+ - [EU antitrust chief to Tim Cook: Apple must allow third-party app stores](https://appleinsider.com/articles/24/01/12/eu-antitrust-chief-to-tim-cook-apple-must-allow-third-party-app-stores?utm_medium=rss)
+ - [Here&#39;s how to get unlimited data abroad on your iPhone with this complete eSIM guide](https://appleinsider.com/articles/24/01/12/heres-how-to-get-unlimited-data-abroad-on-your-iphone-with-this-complete-esim-guide?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
