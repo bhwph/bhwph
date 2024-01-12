@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Start 2024 the right way with the best games being added to PC Game Pass](https://www.pcgamer.com/start-2024-the-right-way-with-the-best-games-being-added-to-pc-game-pass)
- - [Wordle today: Hint and answer #937 for Friday, January 12](https://www.pcgamer.com/wordle-today-answer-937-january-12)
- - [I was already intrigued by this Disco Elysium-inspired, D&amp;D-based RPG where you play as the world&#39;s worst cleric, but its demo blew my expectations out of the water](https://www.pcgamer.com/i-was-already-intrigued-by-this-disco-elysium-inspired-dandd-based-rpg-where-you-play-as-the-worlds-worst-cleric-but-its-demo-blew-my-expectations-out-of-the-water)<!-- GAME:END -->
+ - [Minecraft Legends goes into maintenance mode 9 months after release, as devs announce they&#39;re &#39;going to take a step back from development&#39;](https://www.pcgamer.com/minecraft-legends-goes-into-maintenance-mode-9-months-after-release-as-devs-announce-theyre-going-to-take-a-step-back-from-development)
+ - [Here&#39;s how to watch the Diablo 4 Season 3 announcement livestream](https://www.pcgamer.com/diablo-4-season-3-livestream-campfire-chat)
+ - [Star Wars Jedi: Survivor adds three types of slow motion, as well as other impressive accessibility updates and performance tweaks](https://www.pcgamer.com/star-wars-jedi-survivor-adds-three-types-of-slow-motion-as-well-as-other-impressive-accessibility-updates-and-performance-tweaks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
