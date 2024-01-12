@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thoughtful boyfriend](http://9gag.com/gag/a04rmgq)
- - 😝 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
- - 👉 [Someone in a hurry to cover up all the evidence?](http://9gag.com/gag/a5XOL3L)<!-- MEMES:END -->
+ - 6️⃣ [The Windows startup sound started playing in his head.](http://9gag.com/gag/agoWveg)
+ - 😝 [War in Yemen incoming.](http://9gag.com/gag/ay2G0Yp)
+ - 👉 [Perfect place to watch a perfect movie!](http://9gag.com/gag/aMEgrrG)<!-- MEMES:END -->
 
 --- 
 
