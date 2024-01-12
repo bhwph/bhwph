@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Matrix Star Laurence Fishburne Will Suck Blood In Witcher Season 4](https://kotaku.com/witcher-season-4-netflix-laurence-fishburne-regis-1851163245)
- - [Kevin Hart doesn’t even get to be Kevin Hart in Netflix’s new Kevin Hart movie](https://www.polygon.com/reviews/24034986/lift-review-netflix-kevin-hart-heist-movie)
- - [Capcom rolls back Resident Evil Revelations update that caused performance problems and crashes as fans accuse it of trying to sneak in DRM in order to kill mod support](https://www.pcgamer.com/capcom-rolls-back-resident-evil-revelations-update-that-caused-performance-problems-and-crashes-as-fans-accuse-it-of-trying-to-sneak-in-drm-in-order-to-kill-mod-support)<!-- GAME:END -->
+ - [Sonic 3 And Knuckles Storyboards Leak, Beware Of Spoilers](https://kotaku.com/sonic-hedgehog-3-movie-leak-knuckles-show-paramount-1851163639)
+ - [The &#39;biggest Starfield update yet&#39; is coming to Steam beta next week, but it actually looks pretty small](https://www.pcgamer.com/the-biggest-starfield-update-yet-is-coming-to-steam-beta-next-week-but-it-actually-looks-pretty-small)
+ - [Humble’s $10 bundle includes several AGDQ 2024 speedrunning favorites](https://www.polygon.com/deals/24036258/humble-bundle-agdq-2024-bayonetta-sonic-celeste-bloodstained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
