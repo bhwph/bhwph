@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple quietly increased the Find My limit to 32 items](https://appleinsider.com/articles/24/01/12/apple-quietly-increased-the-find-my-limit-to-32-items?utm_medium=rss)
- - [Google plans to allow more real-money games on the Play Store, starting with India, Brazil, and Mexico in June 2024, in compliance with local laws &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240111/p44#a240111p44)
- - [Ayaneo’s Next Lite is a $299 Steam Deck competitor with unofficial SteamOS](https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos)<!-- TECH:END -->
+ - [Sources: the UK plans to publish &quot;key tests&quot; that need to be met to pass new AI laws, including if its new AI Safety Institute fails to identify risks &lpar;Financial Times&rpar;](http://www.techmeme.com/240112/p2#a240112p2)
+ - [Pixel Launcher could soon give you the freedom to choose your own web search engine](https://www.androidauthority.com/pixel-launcher-search-engine-setting-3402522/)
+ - [Notes on Meta&#39;s plans for Threads integration with the fediverse, which, at least superficially, the company is carrying out cautiously and in good faith &lpar;Tom Coates/plasticbag.org&rpar;](http://www.techmeme.com/240112/p1#a240112p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
