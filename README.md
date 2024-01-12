@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This high-tech sex toy syncs its vibes with music](https://www.theverge.com/2024/1/12/24035200/oh-ohdoki-vibrator-sex-tech-ces)
- - [The Best Luxury Gifts for Those Who Appreciate the Finer Things     - CNET](https://www.cnet.com/news/best-luxury-gifts/#ftag=CAD590a51e)
- - [Best Rowing Machines for 2024     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung’s Galaxy Buds 2 Pro have dropped to $130 for the first time](https://www.theverge.com/2024/1/12/24034852/samsung-galaxy-buds-2-pro-apple-watch-series-9-sling-tv-deal-sale)
+ - [The best Apple Vision Pro productivity apps at launch](https://appleinsider.com/inside/apple-vision-pro/best/the-best-apple-vision-pro-productivity-apps-at-launch?utm_medium=rss)
+ - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
