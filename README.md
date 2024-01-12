@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Legends goes into maintenance mode 9 months after release, as devs announce they&#39;re &#39;going to take a step back from development&#39;](https://www.pcgamer.com/minecraft-legends-goes-into-maintenance-mode-9-months-after-release-as-devs-announce-theyre-going-to-take-a-step-back-from-development)
- - [Here&#39;s how to watch the Diablo 4 Season 3 announcement livestream](https://www.pcgamer.com/diablo-4-season-3-livestream-campfire-chat)
- - [Star Wars Jedi: Survivor adds three types of slow motion, as well as other impressive accessibility updates and performance tweaks](https://www.pcgamer.com/star-wars-jedi-survivor-adds-three-types-of-slow-motion-as-well-as-other-impressive-accessibility-updates-and-performance-tweaks)<!-- GAME:END -->
+ - [The nicest community in gaming has over 8 million members and an urgent friendly fire crisis as Deep Rock Galactic releases its 2023 stats](https://www.pcgamer.com/the-nicest-community-in-gaming-has-over-8-million-members-and-an-urgent-friendly-fire-crisis-as-deep-rock-galactic-releases-its-2023-stats)
+ - [How to watch Killers of the Flower Moon in two &lpar;or more&rpar; parts](https://www.polygon.com/24034190/killers-of-the-flower-moon-streaming-apple-tv-plus-break-points)
+ - [Next-generation batteries may be coming faster than you think, thanks to an AI helping hand](https://www.pcgamer.com/next-generation-batteries-may-be-coming-faster-than-you-think-thanks-to-an-ai-helping-hand)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
