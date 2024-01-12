@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
- - 😝 [The chaos in Ecuador continues.](http://9gag.com/gag/aKERwxN)
- - 👉 [Somebody unlock this man&#39;s chastity belt.](http://9gag.com/gag/aL1xKN5)<!-- MEMES:END -->
+ - 6️⃣ [What game?](http://9gag.com/gag/agoWvzK)
+ - 😝 [What did you see?](http://9gag.com/gag/a3ZmLG5)
+ - 👉 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)<!-- MEMES:END -->
 
 --- 
 
