@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic 3 And Knuckles Storyboards Leak, Beware Of Spoilers](https://kotaku.com/sonic-hedgehog-3-movie-leak-knuckles-show-paramount-1851163639)
- - [The &#39;biggest Starfield update yet&#39; is coming to Steam beta next week, but it actually looks pretty small](https://www.pcgamer.com/the-biggest-starfield-update-yet-is-coming-to-steam-beta-next-week-but-it-actually-looks-pretty-small)
- - [Humble’s $10 bundle includes several AGDQ 2024 speedrunning favorites](https://www.polygon.com/deals/24036258/humble-bundle-agdq-2024-bayonetta-sonic-celeste-bloodstained)<!-- GAME:END -->
+ - [What To Expect From Starfield&#39;s First Beta Update Of 2024](https://kotaku.com/starfield-beta-update-features-new-bugs-fixes-1851164060)
+ - [Pokémon Go ‘Dazzling Dream’ event, Collection Challenge guide](https://www.polygon.com/pokemon-go-guide/2024/1/12/24036094/dazzling-dream-event-collection-challenge-timed-research-spawns-shiny-cutiefly)
+ - [All The New Guns, Maps, And Modes In Call Of Duty Season 1 Reloaded [Updated]](https://kotaku.com/call-of-duty-season-1-reloaded-warzone-new-gun-map-mode-1851160627)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
