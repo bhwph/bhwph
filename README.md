@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Killers of the Flower Moon&#39; is now streaming on Apple TV+](https://appleinsider.com/articles/24/01/12/killers-of-the-flower-moon-is-now-streaming-on-apple-tv?utm_medium=rss)
- - [EU antitrust chief to Tim Cook: Apple must allow third-party app stores](https://appleinsider.com/articles/24/01/12/eu-antitrust-chief-to-tim-cook-apple-must-allow-third-party-app-stores?utm_medium=rss)
- - [Here&#39;s how to get unlimited data abroad on your iPhone with this complete eSIM guide](https://appleinsider.com/articles/24/01/12/heres-how-to-get-unlimited-data-abroad-on-your-iphone-with-this-complete-esim-guide?utm_medium=rss)<!-- TECH:END -->
+ - [Your Medical Data Is Code Blue](https://www.wired.com/story/plaintext-our-medical-security-is-code-blue/)
+ - [2024 Is Going to Be a Rough Year for TV](https://www.wired.com/story/2024-is-going-to-be-a-rough-year-for-tv/)
+ - [How to report problems on the road in Apple Maps or Google Maps](https://www.theverge.com/24034847/maps-google-apple-traffic-report-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
