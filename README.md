@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
- - 😝 [My gf always thought my friends were illiterate and low class because they work construction jobs and didn&#39;t go to college but they&#39;ve been my friends for 20years.the choice was simple.](http://9gag.com/gag/aKERzr1)
- - 👉 [Nice Play](http://9gag.com/gag/aOxwq5R)<!-- MEMES:END -->
+ - 6️⃣ [Nice Play](http://9gag.com/gag/aOxwq5R)
+ - 😝 [My childhood became a lie](http://9gag.com/gag/aNwNZ34)
+ - 👉 [The future is now, old man](http://9gag.com/gag/aL1xQZP)<!-- MEMES:END -->
 
 --- 
 
