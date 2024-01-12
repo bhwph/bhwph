@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Windows startup sound started playing in his head.](http://9gag.com/gag/agoWveg)
- - 😝 [War in Yemen incoming.](http://9gag.com/gag/ay2G0Yp)
- - 👉 [Perfect place to watch a perfect movie!](http://9gag.com/gag/aMEgrrG)<!-- MEMES:END -->
+ - 6️⃣ [I guess she was better without an American citizenship](http://9gag.com/gag/anz6XPz)
+ - 😝 [Its not mine anyway](http://9gag.com/gag/a6qPLLR)
+ - 👉 [+100 situational awareness](http://9gag.com/gag/a3Zm3d3)<!-- MEMES:END -->
 
 --- 
 
