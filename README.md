@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The nicest community in gaming has over 8 million members and an urgent friendly fire crisis as Deep Rock Galactic releases its 2023 stats](https://www.pcgamer.com/the-nicest-community-in-gaming-has-over-8-million-members-and-an-urgent-friendly-fire-crisis-as-deep-rock-galactic-releases-its-2023-stats)
- - [How to watch Killers of the Flower Moon in two &lpar;or more&rpar; parts](https://www.polygon.com/24034190/killers-of-the-flower-moon-streaming-apple-tv-plus-break-points)
- - [Next-generation batteries may be coming faster than you think, thanks to an AI helping hand](https://www.pcgamer.com/next-generation-batteries-may-be-coming-faster-than-you-think-thanks-to-an-ai-helping-hand)<!-- GAME:END -->
+ - [In a year crammed full of RPGs, The Iron Oath managed to excel](https://www.polygon.com/24034968/the-iron-oath-full-release-mercenary-management-future-updates)
+ - [Pokémon Scarlet And Violet’s Epilogue Is Silly And Anticlimactic](https://kotaku.com/pokemon-scarlet-violet-epilogue-mochi-mayhem-area-zero-1851162559)
+ - [Frore&#39;s AirJet Mini Slim seems like a significant fanless cooling upgrade, but the lack of adoption for the original AirJet is worrying](https://www.pcgamer.com/frores-airjet-mini-slim-seems-like-a-significant-fanless-cooling-upgrade-but-the-lack-of-adoption-for-the-original-airjet-is-worrying)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
