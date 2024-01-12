@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Board of Directors shuffle sees Al Gore &amp; James Bell retire](https://appleinsider.com/articles/24/01/11/apple-board-of-directors-shuffle-sees-al-gore-james-bell-retire?utm_medium=rss)
- - [Dexcom’s new continuous glucose monitor is a health tech gadget with purpose](https://www.theverge.com/2024/1/11/24034098/dexcom-stelo-cgm-diabetes-health-tech-ces-2024)
- - [Apple says Al Gore and James Bell will retire from its board this year, and Wanda Austin, ex-president and CEO of The Aerospace Corporation, will join the board &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240111/p37#a240111p37)<!-- TECH:END -->
+ - [Google Play Store expands RMG app support for new ways to win money](https://www.androidauthority.com/real-money-gaming-play-store-3402491/)
+ - [The Peregrine lunar lander didn’t land, but it’s still collecting data](https://www.theverge.com/2024/1/11/24035242/astrobotic-peregrine-lunar-lander-nasa-data-payloads)
+ - [Ordering Apple Vision Pro gets more complex with face scan](https://appleinsider.com/articles/24/01/12/ordering-apple-vision-pro-gets-more-complex-with-face-scan?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
