@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Prince of Persia: The Lost Crown has a free demo you can play right now](https://www.pcgamer.com/prince-of-persia-the-lost-crown-has-a-free-demo-you-can-play-right-now)
- - [Xbox Insider Release Notes – Omega &lpar;2311.240110-1710&rpar;](https://news.xbox.com/en-us/2024/01/11/xbox-insider-release-notes-omega-2311-240110-1710/)
- - [Xbox Insider Release Notes – Delta &lpar;2311.240110-1710&rpar;](https://news.xbox.com/en-us/2024/01/11/xbox-insider-release-notes-delta-2311-240110-1710/)<!-- GAME:END -->
+ - [I was already intrigued by this Disco Elysium-inspired, D&amp;D-based RPG where you play as the world&#39;s worst cleric, but its demo blew my expectations out of the water](https://www.pcgamer.com/i-was-already-intrigued-by-this-disco-elysium-inspired-dandd-based-rpg-where-you-play-as-the-worlds-worst-cleric-but-its-demo-blew-my-expectations-out-of-the-water)
+ - [Sand Land launches April 26 – new vehicular gameplay details revealed](https://blog.playstation.com/2024/01/11/sand-land-launches-april-26-new-vehicular-gameplay-details-revealed/)
+ - [Sand Land launches April 26 – new vehicular gameplay details revealed](https://blog.playstation.com/2024/01/11/sand-land-launches-april-26-new-vehicular-gameplay-details-revealed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
