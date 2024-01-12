@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I guess she was better without an American citizenship](http://9gag.com/gag/anz6XPz)
- - 😝 [Its not mine anyway](http://9gag.com/gag/a6qPLLR)
- - 👉 [+100 situational awareness](http://9gag.com/gag/a3Zm3d3)<!-- MEMES:END -->
+ - 6️⃣ [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
+ - 😝 [How you sleep? and result ?](http://9gag.com/gag/aYV9NZ2)
+ - 👉 [The chaos in Ecuador continues.](http://9gag.com/gag/aKERwxN)<!-- MEMES:END -->
 
 --- 
 
