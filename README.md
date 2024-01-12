@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy Buds 2 Pro have dropped to $130 for the first time](https://www.theverge.com/2024/1/12/24034852/samsung-galaxy-buds-2-pro-apple-watch-series-9-sling-tv-deal-sale)
- - [The best Apple Vision Pro productivity apps at launch](https://appleinsider.com/inside/apple-vision-pro/best/the-best-apple-vision-pro-productivity-apps-at-launch?utm_medium=rss)
- - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)<!-- TECH:END -->
+ - [The Surprising Things That Helped Make 2023 the Hottest Year Ever](https://www.wired.com/story/the-surprising-things-that-helped-make-2023-the-hottest-year-ever/)
+ - [The 49 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 51 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
