@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dark and fun](http://9gag.com/gag/aYV9LEx)
- - 😝 [A loyal friend](http://9gag.com/gag/aMEg9DA)
- - 👉 [Change my opinion](http://9gag.com/gag/aL1xPAW)<!-- MEMES:END -->
+ - 6️⃣ [Change my opinion](http://9gag.com/gag/aL1xPAW)
+ - 😝 [Dark and fun](http://9gag.com/gag/aYV9LEx)
+ - 👉 [A loyal friend](http://9gag.com/gag/aMEg9DA)<!-- MEMES:END -->
 
 --- 
 
