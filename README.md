@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2, Pokémon With Guns, And More Of The Week&#39;s Biggest Gaming News](https://kotaku.com/kotaku-news-switch-2-sega-genesis-gameshark-1851163002)
- - [This weekend, save 50% on cult classic 4K Blu-rays](https://www.polygon.com/deals/24035794/best-gaming-deals-4k-blu-ray-dune-conan-xbox-series-x)
- - [Prince of Persia, Last of Us Season 2, And More Of The Week&#39;s Hottest Takes](https://kotaku.com/kotaku-opinion-prince-persia-star-wars-tlou-1851163005)<!-- GAME:END -->
+ - [David Ayer on his favorite Beekeeper bee joke and making ‘crypto bros’ the villain](https://www.polygon.com/24035803/beekeeper-david-ayer-interview-jason-statham)
+ - [Star Wars never went as hard as this X-wing-inspired fan film](https://www.polygon.com/star-wars/24031532/star-wars-wingman-fan-film)
+ - [Switch 2, Pokémon With Guns, And More Of The Week&#39;s Biggest Gaming News](https://kotaku.com/kotaku-news-switch-2-sega-genesis-gameshark-1851163002)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
