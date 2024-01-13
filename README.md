@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Drive little tanks and mechs in Sand Land, based on a world by the Dragon Ball creator](https://www.pcgamer.com/drive-little-tanks-and-mechs-in-sand-land-based-on-a-world-by-the-dragon-ball-creator)
  - [Final Fantasy 14&#39;s director loves the game so much, he says he&#39;d start over from the bottom as a contractor on it if he got fired from Square Enix](https://www.pcgamer.com/final-fantasy-14s-director-loves-the-game-so-much-he-says-hed-start-over-from-the-bottom-as-a-contractor-on-it-if-he-got-fired-from-square-enix)
- - [David Ayer on his favorite Beekeeper bee joke and making ‘crypto bros’ the villain](https://www.polygon.com/24035803/beekeeper-david-ayer-interview-jason-statham)
- - [Star Wars never went as hard as this X-wing-inspired fan film](https://www.polygon.com/star-wars/24031532/star-wars-wingman-fan-film)<!-- GAME:END -->
+ - [David Ayer on his favorite Beekeeper bee joke and making ‘crypto bros’ the villain](https://www.polygon.com/24035803/beekeeper-david-ayer-interview-jason-statham)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
