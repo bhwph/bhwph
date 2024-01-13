@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What To Expect From Starfield&#39;s First Beta Update Of 2024](https://kotaku.com/starfield-beta-update-features-new-bugs-fixes-1851164060)
- - [Pokémon Go ‘Dazzling Dream’ event, Collection Challenge guide](https://www.polygon.com/pokemon-go-guide/2024/1/12/24036094/dazzling-dream-event-collection-challenge-timed-research-spawns-shiny-cutiefly)
- - [All The New Guns, Maps, And Modes In Call Of Duty Season 1 Reloaded [Updated]](https://kotaku.com/call-of-duty-season-1-reloaded-warzone-new-gun-map-mode-1851160627)<!-- GAME:END -->
+ - [Discord&#39;s new Clips feature elicits privacy fears, but we&#39;d actually have more privacy if everyone used it](https://www.pcgamer.com/discord-clips-feature-privacy)
+ - [Killers of the Flower Moon, Napoleon, and every new movie to watch at home this weekend](https://www.polygon.com/2024/1/12/24023012/new-movies-watch-killers-of-the-flower-moon-apple-tv-lift-netflix-napoleon)
+ - [The 5 colony sims coming in 2024 I&#39;m most looking forward to](https://www.pcgamer.com/the-5-colony-sims-coming-in-2024-im-most-looking-forward-to)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
