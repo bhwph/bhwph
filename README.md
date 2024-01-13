@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Give this game a title](http://9gag.com/gag/aQEG8Z8)
- - 😝 [How to build a parkour trap](http://9gag.com/gag/a7qQbYA)
- - 👉 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)<!-- MEMES:END -->
+ - 6️⃣ [Does everyone agree that chaining a dog up 24/7 outside with no interaction to anyone is a form of animal abuse?](http://9gag.com/gag/a1P9Mb6)
+ - 😝 [My childhood became a lie](http://9gag.com/gag/aNwNZ34)
+ - 👉 [Wild and real &lpar;90s kids too&rpar;](http://9gag.com/gag/aDYyo7w)<!-- MEMES:END -->
 
 --- 
 
