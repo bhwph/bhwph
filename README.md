@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Screaming like a little girl won&#39;t help you princess..](http://9gag.com/gag/az2nV1j)
- - 😝 [She&#39;s going to be half out that TV for a while](http://9gag.com/gag/aREne3A)
- - 👉 [Why he flipped](http://9gag.com/gag/ap9OvdW)<!-- MEMES:END -->
+ - 6️⃣ [Dark and fun](http://9gag.com/gag/aYV9LEx)
+ - 😝 [A loyal friend](http://9gag.com/gag/aMEg9DA)
+ - 👉 [Change my opinion](http://9gag.com/gag/aL1xPAW)<!-- MEMES:END -->
 
 --- 
 
