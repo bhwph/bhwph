@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Change my opinion](http://9gag.com/gag/aL1xPAW)
- - 😝 [Dark and fun](http://9gag.com/gag/aYV9LEx)
- - 👉 [A loyal friend](http://9gag.com/gag/aMEg9DA)<!-- MEMES:END -->
+ - 6️⃣ [Why he flipped](http://9gag.com/gag/ap9OvdW)
+ - 😝 [Satisfying pool break](http://9gag.com/gag/aEq37EK)
+ - 👉 [She&#39;s going to be half out that TV for a while](http://9gag.com/gag/aREne3A)<!-- MEMES:END -->
 
 --- 
 
