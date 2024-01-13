@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She&#39;s going to be half out that TV for a while](http://9gag.com/gag/aREne3A)
- - 😝 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)
- - 👉 [Life hack for parents.](http://9gag.com/gag/armYNXV)<!-- MEMES:END -->
+ - 6️⃣ [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
+ - 😝 [Something foul in the air I would say my dear Watson\u2026](http://9gag.com/gag/anz6y35)
+ - 👉 [Satisfying pool break](http://9gag.com/gag/aEq37EK)<!-- MEMES:END -->
 
 --- 
 
