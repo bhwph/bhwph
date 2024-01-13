@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What game?](http://9gag.com/gag/agoWvzK)
- - 😝 [What did you see?](http://9gag.com/gag/a3ZmLG5)
- - 👉 [Somebody unlock this man&#39;s chastity belt.](http://9gag.com/gag/aL1xKN5)<!-- MEMES:END -->
+ - 6️⃣ [Screaming like a little girl won&#39;t help you princess..](http://9gag.com/gag/az2nV1j)
+ - 😝 [She&#39;s going to be half out that TV for a while](http://9gag.com/gag/aREne3A)
+ - 👉 [Why he flipped](http://9gag.com/gag/ap9OvdW)<!-- MEMES:END -->
 
 --- 
 
