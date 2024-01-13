@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-517-3402775/)
- - [Hey YouTube, a swipe or a hover is not an active view!](https://www.androidauthority.com/youtube-preview-active-view-3402654/)
- - [Boost Your Eye Health With These 10 Simple Tips     - CNET](https://www.cnet.com/health/personal-care/boost-your-eye-health-with-these-10-simple-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interoperability across ecosystems was one of CES 2024&#39;s main themes, with widespread support for Qi2 wireless charging perhaps being the most significant shift &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240113/p7#a240113p7)
+ - [WowMouse turns your smartwatch into a gesture-based Bluetooth mouse](https://www.theverge.com/2024/1/13/24037132/wowmouse-wear-os-samsung-galaxy-watch-bluetooth-mouse-gesture-control-doublepoint)
+ - [The best Meta Quest 2 deal from Black Friday is back with a $50 credit](https://www.theverge.com/2024/1/13/24036568/meta-quest-2-headset-arcade1up-cabinets-bang-olufsen-bluetooth-speaker-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
