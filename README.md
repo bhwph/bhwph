@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What time does FFXIV patch 6.55 release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24035979/what-time-patch-6-55-launch-maintenance-end)
  - [Wordle today: Hint and answer #938 for Saturday, January 13](https://www.pcgamer.com/wordle-today-answer-938-january-13)
- - [Blizzard is taking a sledgehammer to the way Overwatch 2 is played by letting everyone heal themselves](https://www.pcgamer.com/blizzard-is-taking-a-sledgehammer-to-the-way-overwatch-2-is-played-by-letting-everyone-heal-themselves)
- - [Discord&#39;s new Clips feature elicits privacy fears, but we&#39;d actually have more privacy if everyone used it](https://www.pcgamer.com/discord-clips-feature-privacy)<!-- GAME:END -->
+ - [Blizzard is taking a sledgehammer to the way Overwatch 2 is played by letting everyone heal themselves](https://www.pcgamer.com/blizzard-is-taking-a-sledgehammer-to-the-way-overwatch-2-is-played-by-letting-everyone-heal-themselves)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
