@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Final Fantasy 14&#39;s director loves the game so much, he says he&#39;d start over from the bottom as a contractor on it if he got fired from Square Enix](https://www.pcgamer.com/final-fantasy-14s-director-loves-the-game-so-much-he-says-hed-start-over-from-the-bottom-as-a-contractor-on-it-if-he-got-fired-from-square-enix)
  - [David Ayer on his favorite Beekeeper bee joke and making ‘crypto bros’ the villain](https://www.polygon.com/24035803/beekeeper-david-ayer-interview-jason-statham)
- - [Star Wars never went as hard as this X-wing-inspired fan film](https://www.polygon.com/star-wars/24031532/star-wars-wingman-fan-film)
- - [Switch 2, Pokémon With Guns, And More Of The Week&#39;s Biggest Gaming News](https://kotaku.com/kotaku-news-switch-2-sega-genesis-gameshark-1851163002)<!-- GAME:END -->
+ - [Star Wars never went as hard as this X-wing-inspired fan film](https://www.polygon.com/star-wars/24031532/star-wars-wingman-fan-film)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
