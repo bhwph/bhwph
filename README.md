@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Young Sheldon season 7: Release date and the latest rumors](https://www.androidauthority.com/young-sheldon-season-7-release-date-3401281/)
- - [New Student Loan Plan Will Speed Up Forgiveness for Low-Income Borrowers: Who Qualifies     - CNET](https://www.cnet.com/personal-finance/loans/new-student-loan-plan-will-speed-up-forgiveness-for-low-income-borrowers-who-qualifies/#ftag=CAD590a51e)
- - [Voice-Controlled Bidets, Steak Toasters and Super-Fast Ice Cream Makers: The Coolest Home Tech We&#39;ve Seen at CES 2024     - CNET](https://www.cnet.com/how-to/voice-controlled-bidets-steak-toasters-and-super-fast-ice-cream-makers-the-coolest-home-tech-weve-seen-at-ces-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Are Transparent TVs the Next Big Thing?     - CNET](https://www.cnet.com/tech/home-entertainment/are-transparent-tvs-the-next-big-thing/#ftag=CAD590a51e)
+ - [iOS 17: Everything You Should Know About Offline Maps     - CNET](https://www.cnet.com/tech/mobile/ios-17-everything-you-should-know-about-offline-maps/#ftag=CAD590a51e)
+ - [11 of the Absolute Best Anime You Should Stream in January 2024     - CNET](https://www.cnet.com/tech/services-and-software/11-absolute-best-anime-you-should-stream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
