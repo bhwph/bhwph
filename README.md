@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baseus Bowie MA10 Wireless Earbuds review: Affordable ANC with compromise](https://appleinsider.com/articles/24/01/13/baseus-bowie-ma10-wireless-earbuds-review-affordable-anc-with-compromise?utm_medium=rss)
- - [A Bloody Pig Mask Is Just Part of a Wild New Criminal Charge Against eBay](https://www.wired.com/story/ebay-criminal-charge-bloody-pig-mask/)
- - [At CES, everything was AI, even when it wasn’t](https://www.theverge.com/2024/1/13/24035152/ces-generative-ai-hype-robots)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-517-3402775/)
+ - [Hey YouTube, a swipe or a hover is not an active view!](https://www.androidauthority.com/youtube-preview-active-view-3402654/)
+ - [Boost Your Eye Health With These 10 Simple Tips     - CNET](https://www.cnet.com/health/personal-care/boost-your-eye-health-with-these-10-simple-tips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
