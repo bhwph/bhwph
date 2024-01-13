@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
- - 😝 [Cry for help from Germany. -9\u00b0C outside and the temperature in my new build house dropped below 22\u00b0C. Had to switch off the heat pump because energy is so expensive &lpar;27ct/kwh&rpar;. Can&#39;t even cook the squirrels because there is no gas.](http://9gag.com/gag/anz6X0o)
- - 👉 [What did you see?](http://9gag.com/gag/a3ZmLG5)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s so simple...](http://9gag.com/gag/a6qPLWb)
+ - 😝 [Personal collection dump 31/x](http://9gag.com/gag/a1P9Yjw)
+ - 👉 [Wild and real &lpar;90s kids too&rpar;](http://9gag.com/gag/aDYyo7w)<!-- MEMES:END -->
 
 --- 
 
