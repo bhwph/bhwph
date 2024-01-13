@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kevin Systrom says news sharing app Artifact will shut down after concluding that &quot;the market opportunity isn&#39;t big enough to warrant continued investment&quot; &lpar;Kevin Systrom/Artifact News&rpar;](http://www.techmeme.com/240112/p18#a240112p18)
- - [The Last of Us: all the news about the video game franchise turned TV series](https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers)
- - [The best Apple Vision Pro productivity apps at launch](https://appleinsider.com/inside/apple-vision-pro/best/the-best-apple-vision-pro-productivity-apps-at-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Jan. 12: $50 off Magic Keyboard &amp; Case for iPad Pro, 31% off iPad Pro, $60 off AirPods Pro 2, more](https://appleinsider.com/articles/24/01/13/daily-deals-jan-12-50-off-magic-keyboard-case-for-ipad-pro-31-off-ipad-pro-60-off-airpods-pro-2-more?utm_medium=rss)
+ - [The tech industry’s layoffs and hiring freezes: all of the news](https://www.theverge.com/2022/11/14/23458204/meta-twitter-amazon-apple-layoffs-hiring-freezes-latest-tech-industry)
+ - [A joint US-China research effort finds that graphene can act as a semiconductor, but experts say graphene chips face immense manufacturing hurdles and costs &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240112/p20#a240112p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
