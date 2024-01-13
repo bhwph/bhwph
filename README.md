@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [...](http://9gag.com/gag/aGEXRqn)
+ - 6️⃣ [Give this game a title](http://9gag.com/gag/aQEG8Z8)
  - 😝 [How to build a parkour trap](http://9gag.com/gag/a7qQbYA)
- - 👉 [What did you see?](http://9gag.com/gag/a3ZmLG5)<!-- MEMES:END -->
+ - 👉 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)<!-- MEMES:END -->
 
 --- 
 
