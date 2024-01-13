@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are Transparent TVs the Next Big Thing?     - CNET](https://www.cnet.com/tech/home-entertainment/are-transparent-tvs-the-next-big-thing/#ftag=CAD590a51e)
- - [iOS 17: Everything You Should Know About Offline Maps     - CNET](https://www.cnet.com/tech/mobile/ios-17-everything-you-should-know-about-offline-maps/#ftag=CAD590a51e)
- - [11 of the Absolute Best Anime You Should Stream in January 2024     - CNET](https://www.cnet.com/tech/services-and-software/11-absolute-best-anime-you-should-stream/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Baseus Bowie MA10 Wireless Earbuds review: Affordable ANC with compromise](https://appleinsider.com/articles/24/01/13/baseus-bowie-ma10-wireless-earbuds-review-affordable-anc-with-compromise?utm_medium=rss)
+ - [A Bloody Pig Mask Is Just Part of a Wild New Criminal Charge Against eBay](https://www.wired.com/story/ebay-criminal-charge-bloody-pig-mask/)
+ - [At CES, everything was AI, even when it wasn’t](https://www.theverge.com/2024/1/13/24035152/ces-generative-ai-hype-robots)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
