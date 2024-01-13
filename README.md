@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at TikTok&#39;s dogged e-commerce push by subsidizing sales and promoting sellers in user feeds, as ad sales weaken and social media stagnates &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/240113/p3#a240113p3)
- - [The hack of the @SECGov X account highlights security gaps at the agency, which wasn&#39;t fully adhering to the federal cybersecurity standards as of last year &lpar;Bloomberg&rpar;](http://www.techmeme.com/240113/p2#a240113p2)
- - [Security researchers at Recorded Future detail various ways criminals are frequently abusing GitHub&#39;s infrastructure to support and deliver malware &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240113/p1#a240113p1)<!-- TECH:END -->
+ - [Young Sheldon season 7: Release date and the latest rumors](https://www.androidauthority.com/young-sheldon-season-7-release-date-3401281/)
+ - [New Student Loan Plan Will Speed Up Forgiveness for Low-Income Borrowers: Who Qualifies     - CNET](https://www.cnet.com/personal-finance/loans/new-student-loan-plan-will-speed-up-forgiveness-for-low-income-borrowers-who-qualifies/#ftag=CAD590a51e)
+ - [Voice-Controlled Bidets, Steak Toasters and Super-Fast Ice Cream Makers: The Coolest Home Tech We&#39;ve Seen at CES 2024     - CNET](https://www.cnet.com/how-to/voice-controlled-bidets-steak-toasters-and-super-fast-ice-cream-makers-the-coolest-home-tech-weve-seen-at-ces-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
