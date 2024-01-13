@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SIA expects global semiconductor sales to recover and grow 13% in 2024 to $588B thanks to high-priced AI chips, but some analysts question the speed of recovery &lpar;Financial Times&rpar;](http://www.techmeme.com/240113/p8#a240113p8)
- - [Hands-on with the Clicks Creator Keyboard: Is the Blackberry back-berry?](https://www.androidauthority.com/clicks-creator-keyboard-hands-on-3401952/)
- - [Understanding CPU job scheduling for Apple Silicon game development](https://appleinsider.com/inside/apple-silicon/tips/understanding-cpu-job-scheduling-for-apple-silicon-game-development?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Jan 13: 15&quot; MacBook Air $1,049, MacBook Pro sale, Apple Watch Ultra $599, more](https://appleinsider.com/articles/24/01/13/daily-deals-jan-13-15-macbook-air-1049-macbook-pro-sale-apple-watch-ultra-599-more?utm_medium=rss)
+ - [Understanding CPU job scheduling for Apple Silicon game development](https://appleinsider.com/inside/apple-silicon/tips/understanding-cpu-job-scheduling-for-apple-silicon-game-development?utm_medium=rss)
+ - [Anthropic researchers: AI models can be trained to deceive and the most commonly used AI safety techniques had little to no effect on the deceptive behaviors &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240113/p9#a240113p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
