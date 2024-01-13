@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What did you see?](http://9gag.com/gag/a3ZmLG5)
- - 😝 [I- i&#39;d love her.](http://9gag.com/gag/aEq3Grp)
- - 👉 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)<!-- MEMES:END -->
+ - 6️⃣ [What game?](http://9gag.com/gag/agoWvzK)
+ - 😝 [What did you see?](http://9gag.com/gag/a3ZmLG5)
+ - 👉 [Somebody unlock this man&#39;s chastity belt.](http://9gag.com/gag/aL1xKN5)<!-- MEMES:END -->
 
 --- 
 
