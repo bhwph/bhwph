@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s so simple...](http://9gag.com/gag/a6qPLWb)
- - 😝 [Personal collection dump 31/x](http://9gag.com/gag/a1P9Yjw)
- - 👉 [Wild and real &lpar;90s kids too&rpar;](http://9gag.com/gag/aDYyo7w)<!-- MEMES:END -->
+ - 6️⃣ [...](http://9gag.com/gag/aGEXRqn)
+ - 😝 [How to build a parkour trap](http://9gag.com/gag/a7qQbYA)
+ - 👉 [What did you see?](http://9gag.com/gag/a3ZmLG5)<!-- MEMES:END -->
 
 --- 
 
