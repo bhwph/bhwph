@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Does everyone agree that chaining a dog up 24/7 outside with no interaction to anyone is a form of animal abuse?](http://9gag.com/gag/a1P9Mb6)
- - 😝 [My childhood became a lie](http://9gag.com/gag/aNwNZ34)
- - 👉 [Wild and real &lpar;90s kids too&rpar;](http://9gag.com/gag/aDYyo7w)<!-- MEMES:END -->
+ - 6️⃣ [What did you see?](http://9gag.com/gag/a3ZmLG5)
+ - 😝 [I- i&#39;d love her.](http://9gag.com/gag/aEq3Grp)
+ - 👉 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)<!-- MEMES:END -->
 
 --- 
 
