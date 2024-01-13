@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interoperability across ecosystems was one of CES 2024&#39;s main themes, with widespread support for Qi2 wireless charging perhaps being the most significant shift &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240113/p7#a240113p7)
- - [WowMouse turns your smartwatch into a gesture-based Bluetooth mouse](https://www.theverge.com/2024/1/13/24037132/wowmouse-wear-os-samsung-galaxy-watch-bluetooth-mouse-gesture-control-doublepoint)
- - [The best Meta Quest 2 deal from Black Friday is back with a $50 credit](https://www.theverge.com/2024/1/13/24036568/meta-quest-2-headset-arcade1up-cabinets-bang-olufsen-bluetooth-speaker-deal-sale)<!-- TECH:END -->
+ - [SIA expects global semiconductor sales to recover and grow 13% in 2024 to $588B thanks to high-priced AI chips, but some analysts question the speed of recovery &lpar;Financial Times&rpar;](http://www.techmeme.com/240113/p8#a240113p8)
+ - [Hands-on with the Clicks Creator Keyboard: Is the Blackberry back-berry?](https://www.androidauthority.com/clicks-creator-keyboard-hands-on-3401952/)
+ - [Understanding CPU job scheduling for Apple Silicon game development](https://appleinsider.com/inside/apple-silicon/tips/understanding-cpu-job-scheduling-for-apple-silicon-game-development?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
