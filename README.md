@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lara Croft cosplay](http://9gag.com/gag/adPEXQd)
- - 😝 [Why he flipped](http://9gag.com/gag/ap9OvdW)
- - 👉 [Welcome to Portugal](http://9gag.com/gag/aKER22j)<!-- MEMES:END -->
+ - 6️⃣ [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)
+ - 😝 [First post in 10 years you f**king degenerates](http://9gag.com/gag/aL1xMwA)
+ - 👉 [Life hack for parents.](http://9gag.com/gag/armYNXV)<!-- MEMES:END -->
 
 --- 
 
