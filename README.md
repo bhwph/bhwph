@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)
- - 😝 [First post in 10 years you f**king degenerates](http://9gag.com/gag/aL1xMwA)
- - 👉 [Life hack for parents.](http://9gag.com/gag/armYNXV)<!-- MEMES:END -->
+ - 6️⃣ [Title you choose](http://9gag.com/gag/a6qPM8q)
+ - 😝 [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)
+ - 👉 [Of course the GOAT has to be watching it](http://9gag.com/gag/aZDemnp)<!-- MEMES:END -->
 
 --- 
 
