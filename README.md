@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why he flipped](http://9gag.com/gag/ap9OvdW)
- - 😝 [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)
- - 👉 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)<!-- MEMES:END -->
+ - 6️⃣ [The real G](http://9gag.com/gag/az2n8OK)
+ - 😝 [Why he flipped](http://9gag.com/gag/ap9OvdW)
+ - 👉 [First post in 10 years you f**king degenerates](http://9gag.com/gag/aL1xMwA)<!-- MEMES:END -->
 
 --- 
 
