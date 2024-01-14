@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaom Mi Band 9 wishlist: All the features I want to see](https://www.androidauthority.com/xiaomi-mi-band-9-3391412/)
- - [IRS Change: Here&#39;s What PayPal, Venmo and Cash App Users Need to Know About Their 2023 Taxes     - CNET](https://www.cnet.com/personal-finance/taxes/irs-change-heres-what-paypal-venmo-and-cash-app-users-need-to-know-about-their-2023-taxes/#ftag=CAD590a51e)
- - [The Danger of Digitizing Everything](https://www.wired.com/story/the-danger-of-digitizing-everything/)<!-- TECH:END -->
+ - [Akko MOD007B Mechanical Keyboard review: beautiful design and solid quality in a near-perfect keyboard](https://appleinsider.com/articles/24/01/14/akko-mod007b-mechanical-keyboard-review-beautiful-design-complete-customizability-and-solid-quality-make-for-a-near-perfect-keyboard?utm_medium=rss)
+ - [Apple offers Austin relocation to 121 San Diego employees in office closure](https://appleinsider.com/articles/24/01/14/apple-offers-austin-relocation-to-121-san-diego-employees-in-office-closure?utm_medium=rss)
+ - [Unpicking the Mystery of the Body’s ‘Second Brain’](https://www.wired.com/story/gut-second-brain-health-glial-cells-digestion-disease-pain/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
