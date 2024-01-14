@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Jan 13: 15&quot; MacBook Air $1,049, MacBook Pro sale, Apple Watch Ultra $599, more](https://appleinsider.com/articles/24/01/13/daily-deals-jan-13-15-macbook-air-1049-macbook-pro-sale-apple-watch-ultra-599-more?utm_medium=rss)
- - [Understanding CPU job scheduling for Apple Silicon game development](https://appleinsider.com/inside/apple-silicon/tips/understanding-cpu-job-scheduling-for-apple-silicon-game-development?utm_medium=rss)
- - [Anthropic researchers: AI models can be trained to deceive and the most commonly used AI safety techniques had little to no effect on the deceptive behaviors &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240113/p9#a240113p9)<!-- TECH:END -->
+ - [CES 2024 was all about &quot;AI&quot;, with many companies rebranding anything involving algorithms as AI and running the risk of overpromising to consumers &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240113/p10#a240113p10)
+ - [QRD Stellar T3 Wireless Joycon Controller review: large and in charge, yet precise](https://appleinsider.com/articles/24/01/13/qrd-stellar-t3-wireless-joycon-controller-review-large-and-in-charge-yet-precise?utm_medium=rss)
+ - [AFCON Livestream: How to Watch Africa Cup of Nations Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/afcon-livestream-how-to-watch-africa-cup-of-nations-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
