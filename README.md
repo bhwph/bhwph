@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
- - 😝 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
- - 👉 [World is crazy place again](http://9gag.com/gag/ajVpDPG)<!-- MEMES:END -->
+ - 6️⃣ [Entertainment worthy of a man](http://9gag.com/gag/aVbAMx8)
+ - 😝 [Mishel](http://9gag.com/gag/ay2GDKY)
+ - 👉 [Yeah dude. It sucks. Escorting yourself out. Sorry the UN sold you a lie](http://9gag.com/gag/a4ovGeQ)<!-- MEMES:END -->
 
 --- 
 
