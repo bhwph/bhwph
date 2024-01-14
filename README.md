@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A new trailer for this psychedelic metroidvania confirms that cosmic womb gardening is very good videogame subject matter](https://www.pcgamer.com/a-new-trailer-for-this-psychedelic-metroidvania-confirms-that-yes-this-is-unhinged-in-the-best-way)
- - [The Max Payne remake is likely years away, but one ambitious modder cranked out an &#39;RTX on&#39; remaster of the original game&#39;s first level](https://www.pcgamer.com/the-max-payne-remake-is-likely-years-away-but-one-ambitious-modder-cranked-out-an-rtx-on-remaster-of-the-original-games-first-level)
- - [Factorio 2.0 will let items on conveyor belts stack, something long thought impossible](https://www.pcgamer.com/factorio-20-will-let-items-on-conveyor-belts-stack-something-long-thought-impossible)<!-- GAME:END -->
+ - [The creator of Delicious in Dungeon drew portraits of the Baldur&#39;s Gate 1 and 2 cast you can use in-game](https://www.pcgamer.com/the-creator-of-delicious-in-dungeon-drew-portraits-of-the-baldurs-gate-1-and-2-cast-you-can-use-in-game)
+ - [GameStop bids a final farewell to crypto with the closure of its NFT marketplace](https://www.pcgamer.com/gamestop-bids-a-final-farewell-to-crypto-with-the-closure-of-its-nft-marketplace)
+ - [A new trailer for this psychedelic metroidvania confirms that cosmic womb gardening is very good videogame subject matter](https://www.pcgamer.com/a-new-trailer-for-this-psychedelic-metroidvania-confirms-that-yes-this-is-unhinged-in-the-best-way)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
