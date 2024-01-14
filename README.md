@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
- - 😝 [Something foul in the air I would say my dear Watson\u2026](http://9gag.com/gag/anz6y35)
- - 👉 [Satisfying pool break](http://9gag.com/gag/aEq37EK)<!-- MEMES:END -->
+ - 6️⃣ [Lara Croft cosplay](http://9gag.com/gag/adPEXQd)
+ - 😝 [Why he flipped](http://9gag.com/gag/ap9OvdW)
+ - 👉 [Welcome to Portugal](http://9gag.com/gag/aKER22j)<!-- MEMES:END -->
 
 --- 
 
