@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Akko MOD007B Mechanical Keyboard review: beautiful design and solid quality in a near-perfect keyboard](https://appleinsider.com/articles/24/01/14/akko-mod007b-mechanical-keyboard-review-beautiful-design-complete-customizability-and-solid-quality-make-for-a-near-perfect-keyboard?utm_medium=rss)
- - [Apple offers Austin relocation to 121 San Diego employees in office closure](https://appleinsider.com/articles/24/01/14/apple-offers-austin-relocation-to-121-san-diego-employees-in-office-closure?utm_medium=rss)
- - [Unpicking the Mystery of the Body’s ‘Second Brain’](https://www.wired.com/story/gut-second-brain-health-glial-cells-digestion-disease-pain/)<!-- TECH:END -->
+ - [Vision Pro demos will include scanning your glasses to identify your prescription](https://www.theverge.com/2024/1/14/24037822/apple-vision-pro-store-demos-release)
+ - [Apple Vision Pro customers face a 25-minute in-store sales pitch](https://appleinsider.com/articles/24/01/14/apple-vision-pro-customers-face-a-25-minute-in-store-sales-pitch?utm_medium=rss)
+ - [Belkin will sell Apple Vision Pro battery clip in time for launch](https://appleinsider.com/articles/24/01/14/belkin-will-sell-apple-vision-pro-battery-clip-in-time-for-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
