@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [User of LG washing machine spotted that it spent 11Gb of traffic &lpar;mostly upload&rpar;](http://9gag.com/gag/aDYyG2x)
- - 😝 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
- - 👉 [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)<!-- MEMES:END -->
+ - 6️⃣ [Werewolf](http://9gag.com/gag/aZDeMGW)
+ - 😝 [Keanu Reeves as Alucard from Hellsing.](http://9gag.com/gag/abv7pEE)
+ - 👉 [Down with the system](http://9gag.com/gag/aeQLeGB)<!-- MEMES:END -->
 
 --- 
 
