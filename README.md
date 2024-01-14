@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The real G](http://9gag.com/gag/az2n8OK)
- - 😝 [Why he flipped](http://9gag.com/gag/ap9OvdW)
- - 👉 [First post in 10 years you f**king degenerates](http://9gag.com/gag/aL1xMwA)<!-- MEMES:END -->
+ - 6️⃣ [User of LG washing machine spotted that it spent 11Gb of traffic &lpar;mostly upload&rpar;](http://9gag.com/gag/aDYyG2x)
+ - 😝 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
+ - 👉 [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)<!-- MEMES:END -->
 
 --- 
 
