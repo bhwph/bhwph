@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title you choose](http://9gag.com/gag/a6qPM8q)
- - 😝 [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)
- - 👉 [Of course the GOAT has to be watching it](http://9gag.com/gag/aZDemnp)<!-- MEMES:END -->
+ - 6️⃣ [I have never thought of that](http://9gag.com/gag/a8qZj2Q)
+ - 😝 [Lara Croft cosplay](http://9gag.com/gag/adPEXQd)
+ - 👉 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)<!-- MEMES:END -->
 
 --- 
 
