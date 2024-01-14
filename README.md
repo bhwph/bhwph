@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Drive little tanks and mechs in Sand Land, based on a world by the Dragon Ball creator](https://www.pcgamer.com/drive-little-tanks-and-mechs-in-sand-land-based-on-a-world-by-the-dragon-ball-creator)
- - [Final Fantasy 14&#39;s director loves the game so much, he says he&#39;d start over from the bottom as a contractor on it if he got fired from Square Enix](https://www.pcgamer.com/final-fantasy-14s-director-loves-the-game-so-much-he-says-hed-start-over-from-the-bottom-as-a-contractor-on-it-if-he-got-fired-from-square-enix)
- - [David Ayer on his favorite Beekeeper bee joke and making ‘crypto bros’ the villain](https://www.polygon.com/24035803/beekeeper-david-ayer-interview-jason-statham)<!-- GAME:END -->
+ - [Sins of the Flesh, Cult of the Lamb&#39;s &#39;sex update&#39;, is coming out this month](https://www.pcgamer.com/sins-of-the-flesh-cult-of-the-lambs-sex-update-is-coming-out-this-month)
+ - [This stunning platformer about the only human awake on a terraformed moon has been cooking for 6+ years, and its first demo does not disappoint](https://www.pcgamer.com/this-stunning-platformer-about-the-only-human-awake-on-a-terraformed-moon-has-been-cooking-for-6-years-and-its-first-demo-does-not-disappoint)
+ - [Drive little tanks and mechs in Sand Land, based on a world by the Dragon Ball creator](https://www.pcgamer.com/drive-little-tanks-and-mechs-in-sand-land-based-on-a-world-by-the-dragon-ball-creator)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
