@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I have never thought of that](http://9gag.com/gag/a8qZj2Q)
- - 😝 [Lara Croft cosplay](http://9gag.com/gag/adPEXQd)
- - 👉 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)<!-- MEMES:END -->
+ - 6️⃣ [Why he flipped](http://9gag.com/gag/ap9OvdW)
+ - 😝 [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)
+ - 👉 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)<!-- MEMES:END -->
 
 --- 
 
