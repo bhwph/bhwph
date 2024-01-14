@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Entertainment worthy of a man](http://9gag.com/gag/aVbAMx8)
- - 😝 [Mishel](http://9gag.com/gag/ay2GDKY)
- - 👉 [Yeah dude. It sucks. Escorting yourself out. Sorry the UN sold you a lie](http://9gag.com/gag/a4ovGeQ)<!-- MEMES:END -->
+ - 6️⃣ [Anyone know how to use these things?](http://9gag.com/gag/ajVpXzw)
+ - 😝 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
+ - 👉 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)<!-- MEMES:END -->
 
 --- 
 
