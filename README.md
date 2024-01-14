@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best docks for your Mac to appear at CES 2024](https://appleinsider.com/articles/24/01/14/the-best-docks-for-your-mac-to-appear-at-ces-2024?utm_medium=rss)
- - [Apple asks its San Diego Siri quality control team to relocate to Texas](https://www.theverge.com/2024/1/14/24037904/apple-san-diego-siri-ai-team-relocating)
- - [ChatGPT for Self-Diagnosis: AI Is Changing the Way We Answer Our Own Health Questions     - CNET](https://www.cnet.com/health/medical/chatgpt-for-self-diagnosis-ai-is-changing-the-way-we-answer-our-own-health-questions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals Jan. 14: Apple Watch Series 9 $329, $100 off iPad Air, 53% off Powerbeats Pro, more](https://appleinsider.com/articles/24/01/14/daily-deals-jan-14-apple-watch-series-9-329-100-off-ipad-air-53-off-powerbeats-pro-more?utm_medium=rss)
+ - [Hands on: Belkin&#39;s Auto-Tracking Stand Pro with DockKit for iPhone](https://appleinsider.com/articles/24/01/14/hands-on-with-belkins-auto-tracking-stand-pro-with-dockkit?utm_medium=rss)
+ - [Best USB-C and Thunderbolt docks that debuted at CES 2024](https://appleinsider.com/articles/24/01/14/the-best-docks-for-your-mac-to-appear-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
