@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Call Of Duty, Starfield, And More Of The Week&#39;s Essential Gaming Tips](https://kotaku.com/kotaku-tips-guides-call-duty-starfield-fortnite-residen-1851163004)
  - [Netflix’s live-action anime and manga adaptations, ranked](https://www.polygon.com/entertainment/24031888/netflixs-live-action-anime-manga-adaptations-ranked)
- - [Wordle today: Hint and answer #939 for Sunday, January 14](https://www.pcgamer.com/wordle-today-answer-939-january-14)
- - [Spinoff of cute little Factory Town turns it into a sprawling spreadsheet exercise](https://www.pcgamer.com/spinoff-of-cute-little-factory-town-turns-it-into-a-sprawling-spreadsheet-exercise)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #939 for Sunday, January 14](https://www.pcgamer.com/wordle-today-answer-939-january-14)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
