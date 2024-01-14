@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon’s favorite picks for your home office](https://www.polygon.com/polygon-picks/24025375/home-work-office-desk-accessories)
- - [Call Of Duty, Starfield, And More Of The Week&#39;s Essential Gaming Tips](https://kotaku.com/kotaku-tips-guides-call-duty-starfield-fortnite-residen-1851163004)
- - [Netflix’s live-action anime and manga adaptations, ranked](https://www.polygon.com/entertainment/24031888/netflixs-live-action-anime-manga-adaptations-ranked)<!-- GAME:END -->
+ - [A new trailer for this psychedelic metroidvania confirms that cosmic womb gardening is very good videogame subject matter](https://www.pcgamer.com/a-new-trailer-for-this-psychedelic-metroidvania-confirms-that-yes-this-is-unhinged-in-the-best-way)
+ - [The Max Payne remake is likely years away, but one ambitious modder cranked out an &#39;RTX on&#39; remaster of the original game&#39;s first level](https://www.pcgamer.com/the-max-payne-remake-is-likely-years-away-but-one-ambitious-modder-cranked-out-an-rtx-on-remaster-of-the-original-games-first-level)
+ - [Factorio 2.0 will let items on conveyor belts stack, something long thought impossible](https://www.pcgamer.com/factorio-20-will-let-items-on-conveyor-belts-stack-something-long-thought-impossible)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
