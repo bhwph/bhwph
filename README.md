@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Only 2 Days Left to Sign Up for Affordable Care Act Health Insurance. Here&#39;s How     - CNET](https://www.cnet.com/health/only-2-days-left-to-sign-up-for-affordable-care-act-health-insurance-heres-how/#ftag=CAD590a51e)
- - [Apple is shutting a 121-person San Diego team of the Data Operations Annotations group, responsible for improving Siri&#39;s accuracy, and moving staff to Austin &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240114/p1#a240114p1)
- - [The NFL and Taylor Swift surprisingly aren’t enough to crash Peacock](https://www.theverge.com/2024/1/13/24037524/peacock-nfl-exclusive-miami-dolphins-kansas-city-chiefs-streaming)<!-- TECH:END -->
+ - [Xiaom Mi Band 9 wishlist: All the features I want to see](https://www.androidauthority.com/xiaomi-mi-band-9-3391412/)
+ - [IRS Change: Here&#39;s What PayPal, Venmo and Cash App Users Need to Know About Their 2023 Taxes     - CNET](https://www.cnet.com/personal-finance/taxes/irs-change-heres-what-paypal-venmo-and-cash-app-users-need-to-know-about-their-2023-taxes/#ftag=CAD590a51e)
+ - [The Danger of Digitizing Everything](https://www.wired.com/story/the-danger-of-digitizing-everything/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
