@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anyone know how to use these things?](http://9gag.com/gag/ajVpXzw)
- - 😝 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
- - 👉 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)<!-- MEMES:END -->
+ - 6️⃣ [Guess the country...](http://9gag.com/gag/a04BKWn)
+ - 😝 [She&#39;s going to be half out that TV for a while](http://9gag.com/gag/aREne3A)
+ - 👉 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)<!-- MEMES:END -->
 
 --- 
 
