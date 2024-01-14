@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Netflix’s live-action anime and manga adaptations, ranked](https://www.polygon.com/entertainment/24031888/netflixs-live-action-anime-manga-adaptations-ranked)
  - [Wordle today: Hint and answer #939 for Sunday, January 14](https://www.pcgamer.com/wordle-today-answer-939-january-14)
- - [Spinoff of cute little Factory Town turns it into a sprawling spreadsheet exercise](https://www.pcgamer.com/spinoff-of-cute-little-factory-town-turns-it-into-a-sprawling-spreadsheet-exercise)
- - [Sins of the Flesh, Cult of the Lamb&#39;s &#39;sex update&#39;, is coming out this month](https://www.pcgamer.com/sins-of-the-flesh-cult-of-the-lambs-sex-update-is-coming-out-this-month)<!-- GAME:END -->
+ - [Spinoff of cute little Factory Town turns it into a sprawling spreadsheet exercise](https://www.pcgamer.com/spinoff-of-cute-little-factory-town-turns-it-into-a-sprawling-spreadsheet-exercise)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
