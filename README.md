@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sins of the Flesh, Cult of the Lamb&#39;s &#39;sex update&#39;, is coming out this month](https://www.pcgamer.com/sins-of-the-flesh-cult-of-the-lambs-sex-update-is-coming-out-this-month)
- - [This stunning platformer about the only human awake on a terraformed moon has been cooking for 6+ years, and its first demo does not disappoint](https://www.pcgamer.com/this-stunning-platformer-about-the-only-human-awake-on-a-terraformed-moon-has-been-cooking-for-6-years-and-its-first-demo-does-not-disappoint)
- - [Drive little tanks and mechs in Sand Land, based on a world by the Dragon Ball creator](https://www.pcgamer.com/drive-little-tanks-and-mechs-in-sand-land-based-on-a-world-by-the-dragon-ball-creator)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #939 for Sunday, January 14](https://www.pcgamer.com/wordle-today-answer-939-january-14)
+ - [Spinoff of cute little Factory Town turns it into a sprawling spreadsheet exercise](https://www.pcgamer.com/spinoff-of-cute-little-factory-town-turns-it-into-a-sprawling-spreadsheet-exercise)
+ - [Sins of the Flesh, Cult of the Lamb&#39;s &#39;sex update&#39;, is coming out this month](https://www.pcgamer.com/sins-of-the-flesh-cult-of-the-lambs-sex-update-is-coming-out-this-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
