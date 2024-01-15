@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to help The Deserter in Prince of Persia: The Lost Crown](https://www.pcgamer.com/prince-of-persia-the-lost-crown-deserter-quest)
- - [How to solve the Sacred Archive time puzzles in Prince of Persia: The Lost Crown](https://www.pcgamer.com/prince-of-persia-the-lost-crown-sacred-archive-puzzle-secret-room)
- - [How to get past the masked monsters in Prince of Persia: The Lost Crown](https://www.pcgamer.com/prince-of-persia-the-lost-crown-masked-monsters-depths)<!-- GAME:END -->
+ - [GameStop Bails On Its NFT Marketplace](https://kotaku.com/gamestop-nft-marketplace-crypto-memestock-1851166804)
+ - [HP gets slapped with yet another lawsuit for blocking printers using anything other than its own inky liquid cash cow](https://www.pcgamer.com/hp-gets-slapped-with-yet-another-lawsuit-for-blocking-printers-using-anything-other-than-its-own-inky-liquid-cash-cow)
+ - [It&#39;s not just you: YouTube is slowing down your PC if you have AdBlock installed by making your CPU sweat, likely as part of its draconian war on ad blockers](https://www.pcgamer.com/its-not-just-you-youtube-is-slowing-down-your-pc-if-you-have-adblock-installed-by-making-your-cpu-sweat-likely-as-part-of-its-draconian-war-on-ad-blockers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
