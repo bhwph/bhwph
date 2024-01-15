@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #940 for Monday, January 15](https://www.pcgamer.com/wordle-today-answer-940-january-15)
- - [Reports of RTX 4090s being sold in China without GPUs scares the heck out of me](https://www.pcgamer.com/reports-of-rtx-4090s-being-sold-in-china-without-gpus-scares-the-heck-out-of-me)
- - [Night Country gets True Detective’s vibe better than True Detective ever has](https://www.polygon.com/24035849/true-detective-night-country-episode-1-review-ending-plot-murder)<!-- GAME:END -->
+ - [How to help The Deserter in Prince of Persia: The Lost Crown](https://www.pcgamer.com/prince-of-persia-the-lost-crown-deserter-quest)
+ - [How to solve the Sacred Archive time puzzles in Prince of Persia: The Lost Crown](https://www.pcgamer.com/prince-of-persia-the-lost-crown-sacred-archive-puzzle-secret-room)
+ - [How to get past the masked monsters in Prince of Persia: The Lost Crown](https://www.pcgamer.com/prince-of-persia-the-lost-crown-masked-monsters-depths)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
