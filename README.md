@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch drops blood oxygen features to dodge the import ban](https://www.theverge.com/2024/1/15/24034324/apple-watch-ban-us-customs-decision)
- - [This stunning Samsung 49-inch gaming monitor just got a $1,000 price drop](https://www.androidauthority.com/samsung-odyssey-neo-g9-curved-gaming-monitor-deal-3403397/)
- - [Report: Apple prepares to split its App Store in two to serve the EU, as the deadline for the DMA, which mandates sideloading support, looms on March 7 &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/240115/p12#a240115p12)<!-- TECH:END -->
+ - [Here’s OpenAI’s big plan to combat election misinformation](https://www.theverge.com/2024/1/15/24039333/openai-chatgpt-dalle-ai-2024-election-misinformation-plan)
+ - [Uber is shutting down alcohol delivery service Drizly, which had operated &quot;independently within the Uber family&quot; since its $1.1B acquisition three years ago &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240115/p15#a240115p15)
+ - [Apple prepares to enable sideloading and App Store changes in EU](https://appleinsider.com/articles/24/01/15/apple-prepares-to-enable-sideloading-and-app-store-changes-in-eu?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
