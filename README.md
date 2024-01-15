@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jake Johnson says he combined 2 really unlikely movies to make Self Reliance](https://www.polygon.com/24036265/jake-johnson-self-reliance-interview-wes-anderson-connection)
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [All hail RT-X: The global project aimed at creating an AI mega brain for all robotkind](https://www.pcgamer.com/all-hail-rt-x-the-global-project-aimed-at-creating-an-ai-mega-brain-for-all-robotkind)<!-- GAME:END -->
+ - [GTA 5 actor goes nuclear on AI company that made a voice chatbot of him: &#39;I&#39;m not worried about being replaced... I just hate these f**kers&#39;](https://www.pcgamer.com/gta-5-actor-goes-nuclear-on-ai-company-that-made-a-voice-chatbot-of-him-im-not-worried-about-being-replaced-i-just-hate-these-fkers)
+ - [Ring in the New Year With New Play List Additions: F1 23 and EA SPORTS Super Mega Baseball 4](https://news.xbox.com/en-us/2024/01/15/xbox-ea-play-january-2024/)
+ - [How to get into reading as an adult](https://www.polygon.com/24036195/how-to-get-into-reading-tips-adult-library-audiobook)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
