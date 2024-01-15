@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best monitor upgrades for your Mac from CES 2024](https://appleinsider.com/articles/24/01/15/the-best-monitor-upgrades-for-your-mac-from-ces-2024?utm_medium=rss)
- - [Apple&#39;s stripping out blood oxygen sensing from Apple Watch enough to skirt import ban](https://appleinsider.com/articles/24/01/15/us-customs-say-apple-watch-changes-are-enough-to-beat-itc-ban?utm_medium=rss)
- - [44% off the Amazfit GTS 2e can kickstart your 2024 fitness goals](https://www.androidauthority.com/amazfit-gts-2e-deal-3403253/)<!-- TECH:END -->
+ - [Apple Watch drops blood oxygen features to dodge the import ban](https://www.theverge.com/2024/1/15/24034324/apple-watch-ban-us-customs-decision)
+ - [This stunning Samsung 49-inch gaming monitor just got a $1,000 price drop](https://www.androidauthority.com/samsung-odyssey-neo-g9-curved-gaming-monitor-deal-3403397/)
+ - [Report: Apple prepares to split its App Store in two to serve the EU, as the deadline for the DMA, which mandates sideloading support, looms on March 7 &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/240115/p12#a240115p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
