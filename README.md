@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)
- - 😝 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
- - 👉 [Clear case of fck around and find out](http://9gag.com/gag/aPg59RV)<!-- MEMES:END -->
+ - 😝 [Velma?](http://9gag.com/gag/aBdpWNO)
+ - 👉 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)<!-- MEMES:END -->
 
 --- 
 
