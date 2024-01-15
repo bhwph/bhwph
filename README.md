@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [True Love](http://9gag.com/gag/a1P9Q8b)
- - 😝 [Is that a BMW?](http://9gag.com/gag/aPg5RvB)
+ - 6️⃣ [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)
+ - 😝 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
  - 👉 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)<!-- MEMES:END -->
 
 --- 
