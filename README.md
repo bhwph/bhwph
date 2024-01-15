@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
- - 😝 [I was wondering why it was slow as f**k \u201cusing edge + adblock\u201d](http://9gag.com/gag/aEq3B6N)
- - 👉 [User of LG washing machine spotted that it spent 11Gb of traffic &lpar;mostly upload&rpar;](http://9gag.com/gag/aDYyG2x)<!-- MEMES:END -->
+ - 6️⃣ [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
+ - 😝 [User of LG washing machine spotted that it spent 11Gb of traffic &lpar;mostly upload&rpar;](http://9gag.com/gag/aDYyG2x)
+ - 👉 [Clear case of fck around and find out](http://9gag.com/gag/aPg59RV)<!-- MEMES:END -->
 
 --- 
 
