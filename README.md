@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just you: TikTok is down right now](https://www.androidauthority.com/tiktok-outage-january-2024-3402952/)
- - [TikTok not working? Here’s how to fix it &lpar;Updated: Fresh outage&rpar;](https://www.androidauthority.com/fix-tiktok-not-working-3157023/)
- - [Galaxy S24 leak drops bombshell: 7 years of updates, but Galaxy AI features may not stay free](https://www.androidauthority.com/galaxy-s24-series-seven-android-updates-galaxy-ai-paid-features-3402931/)<!-- TECH:END -->
+ - [YouTube’s ad blocker war leads to major slowdowns and surge in scam ads](https://www.androidauthority.com/youtube-slowdowns-scam-ads-3402950/)
+ - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
+ - [South Korea says Samsung and SK Hynix plan to invest more than $470B by 2047 to build 13 new chip plants and three research facilities in the country &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/240115/p2#a240115p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
