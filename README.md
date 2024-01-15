@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)
- - 😝 [Guess the country...](http://9gag.com/gag/a04BKWn)
+ - 6️⃣ [True Love](http://9gag.com/gag/a1P9Q8b)
+ - 😝 [Is that a BMW?](http://9gag.com/gag/aPg5RvB)
  - 👉 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)<!-- MEMES:END -->
 
 --- 
