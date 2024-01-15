@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Texas National Guard expelled American border guards and independently closed the border with Mexico.](http://9gag.com/gag/axo511D)
- - 😝 [Cool](http://9gag.com/gag/a4ovGEp)
- - 👉 [Guess the country...](http://9gag.com/gag/a04BKWn)<!-- MEMES:END -->
+ - 6️⃣ [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
+ - 😝 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
+ - 👉 [I was wondering why it was slow as f**k \u201cusing edge + adblock\u201d](http://9gag.com/gag/aEq3B6N)<!-- MEMES:END -->
 
 --- 
 
