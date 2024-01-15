@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
- - 😝 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
- - 👉 [I was wondering why it was slow as f**k \u201cusing edge + adblock\u201d](http://9gag.com/gag/aEq3B6N)<!-- MEMES:END -->
+ - 6️⃣ [What on earth is that thing?](http://9gag.com/gag/aOxwBdR)
+ - 😝 [Clear case of fck around and find out](http://9gag.com/gag/aPg59RV)
+ - 👉 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)<!-- MEMES:END -->
 
 --- 
 
