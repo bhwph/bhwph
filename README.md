@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just you: TikTok is down right now &lpar;Update: Back online&rpar;](https://www.androidauthority.com/tiktok-outage-january-2024-3402952/)
- - [How some artists are incorporating Dall-E, Midjourney, and other AI tools into their work, while others remain anxious about AI&#39;s impact on their livelihoods &lpar;Emma Park/Financial Times&rpar;](http://www.techmeme.com/240115/p3#a240115p3)
- - [ChatGPT for Self-Diagnosis: AI Is Changing the Way We Answer Our Own Health Questions     - CNET](https://www.cnet.com/health/medical/chatgpt-for-self-diagnosis-ai-is-changing-the-way-we-answer-our-own-health-questions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft is working on a Copilot Pro subscription &lpar;APK Teardown&rpar;](https://www.androidauthority.com/microsoft-copilot-pro-edge-3403043/)
+ - [After NFT sales dropped 63% YoY to $8.7B in 2023, OpenSea CEO Devin Finzer talks OpenSea 2.0, set to offer improved differentiation between NFT categories &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240115/p6#a240115p6)
+ - [A Key to Detecting Brain Disease Earlier Than Ever](https://www.wired.com/story/a-key-to-detecting-brain-disease-earlier-than-ever/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
