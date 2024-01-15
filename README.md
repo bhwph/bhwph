@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro storage cabinets appear in stores ahead of launch](https://appleinsider.com/articles/24/01/15/apple-vision-pro-storage-cabinets-appear-in-stores-ahead-of-launch?utm_medium=rss)
- - [Redmi Note 13 series goes global: Redmi flirts with premium segment](https://www.androidauthority.com/redmi-note-13-series-global-launch-3403087/)
- - [French IT group Atos names Paul Saleh as CEO, its fourth in under two years, and forecasts H2 2024 cash flow below targets; stock drops 12%+, down ~40% in 2024 &lpar;Sudip Kar-Gupta/Reuters&rpar;](http://www.techmeme.com/240115/p7#a240115p7)<!-- TECH:END -->
+ - [HomeKit Insider&#39;s massive CES 2024 roundup episode](https://appleinsider.com/articles/24/01/15/homekit-insider-massive-ces-2024-roundup-episode?utm_medium=rss)
+ - [U.S. Customs say Apple Watch changes are enough to beat ITC ban](https://appleinsider.com/articles/24/01/15/us-customs-say-apple-watch-changes-are-enough-to-beat-itc-ban?utm_medium=rss)
+ - [The Samsung Galaxy Tab S9 FE Plus has never been cheaper](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-plus-deal-3403207/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
