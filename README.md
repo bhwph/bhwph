@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beeper Mini users find Macs banned from iMessage network](https://appleinsider.com/articles/24/01/14/beeper-mini-users-find-macs-banned-from-imessage-network?utm_medium=rss)
- - [FedEx is launching a new e-commerce platform as it competes with Amazon](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
- - [Daily deals Jan. 14: Apple Watch Series 9 $329, $100 off iPad Air, 53% off Powerbeats Pro, more](https://appleinsider.com/articles/24/01/14/daily-deals-jan-14-apple-watch-series-9-329-100-off-ipad-air-53-off-powerbeats-pro-more?utm_medium=rss)<!-- TECH:END -->
+ - [These are the certified Wi-Fi 7 devices you can buy now](https://www.theverge.com/2024/1/14/24038284/wi-fi-certified-7-products-list-wi-fi-alliance)
+ - [Sources: dozens of Chinese entities, including military bodies, AI research institutes, and universities bought small batches of Nvidia chips despite a US ban &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240114/p6#a240114p6)
+ - [InfinaCore T3 Wireless Charging Station review: affordable multi-device charging with a compact design](https://appleinsider.com/articles/24/01/14/infinacore-t3-wireless-charging-station-review-affordable-multi-device-charging-with-a-compact-design?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
