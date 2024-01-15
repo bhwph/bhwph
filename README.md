@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop Bails On Its NFT Marketplace](https://kotaku.com/gamestop-nft-marketplace-crypto-memestock-1851166804)
- - [HP gets slapped with yet another lawsuit for blocking printers using anything other than its own inky liquid cash cow](https://www.pcgamer.com/hp-gets-slapped-with-yet-another-lawsuit-for-blocking-printers-using-anything-other-than-its-own-inky-liquid-cash-cow)
- - [It&#39;s not just you: YouTube is slowing down your PC if you have AdBlock installed by making your CPU sweat, likely as part of its draconian war on ad blockers](https://www.pcgamer.com/its-not-just-you-youtube-is-slowing-down-your-pc-if-you-have-adblock-installed-by-making-your-cpu-sweat-likely-as-part-of-its-draconian-war-on-ad-blockers)<!-- GAME:END -->
+ - [Jake Johnson says he combined 2 really unlikely movies to make Self Reliance](https://www.polygon.com/24036265/jake-johnson-self-reliance-interview-wes-anderson-connection)
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
+ - [All hail RT-X: The global project aimed at creating an AI mega brain for all robotkind](https://www.pcgamer.com/all-hail-rt-x-the-global-project-aimed-at-creating-an-ai-mega-brain-for-all-robotkind)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
