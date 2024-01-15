@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu&#39;s stock drops 10%+ after an SCMP report linking Ernie Bot, which Baidu said amassed 70M users within three months of launch, to Chinese military research &lpar;Bloomberg&rpar;](http://www.techmeme.com/240114/p7#a240114p7)
- - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
- - [Magnetic cables were a sleeper hit at CES 2024](https://appleinsider.com/articles/24/01/15/magnetic-cables-were-a-sleeper-hit-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
+ - [It’s not just you: TikTok is down right now](https://www.androidauthority.com/tiktok-outage-january-2024-3402952/)
+ - [TikTok not working? Here’s how to fix it &lpar;Updated: Fresh outage&rpar;](https://www.androidauthority.com/fix-tiktok-not-working-3157023/)
+ - [Galaxy S24 leak drops bombshell: 7 years of updates, but Galaxy AI features may not stay free](https://www.androidauthority.com/galaxy-s24-series-seven-android-updates-galaxy-ai-paid-features-3402931/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
