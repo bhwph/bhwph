@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The creator of Delicious in Dungeon drew portraits of the Baldur&#39;s Gate 1 and 2 cast you can use in-game](https://www.pcgamer.com/the-creator-of-delicious-in-dungeon-drew-portraits-of-the-baldurs-gate-1-and-2-cast-you-can-use-in-game)
- - [GameStop bids a final farewell to crypto with the closure of its NFT marketplace](https://www.pcgamer.com/gamestop-bids-a-final-farewell-to-crypto-with-the-closure-of-its-nft-marketplace)
- - [A new trailer for this psychedelic metroidvania confirms that cosmic womb gardening is very good videogame subject matter](https://www.pcgamer.com/a-new-trailer-for-this-psychedelic-metroidvania-confirms-that-yes-this-is-unhinged-in-the-best-way)<!-- GAME:END -->
+ - [The creator of the canceled Portal 64 demake says, &#39;Don&#39;t be mad at Valve here&#39;](https://www.pcgamer.com/the-creator-of-the-canceled-portal-64-demake-says-dont-be-mad-at-valve-here)
+ - [Five new Steam games you probably missed &lpar;January 15, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-15-2024)
+ - [I&#39;m absolutely in love with the Atari 400 Mini, a recreation of one of the first ever gaming computers](https://www.pcgamer.com/im-absolutely-in-love-with-the-atari-400-mini-a-recreation-of-one-of-the-first-ever-gaming-computers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
