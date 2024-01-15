@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)
- - 😝 [Velma?](http://9gag.com/gag/aBdpWNO)
+ - 😝 [Guess the country...](http://9gag.com/gag/a04BKWn)
  - 👉 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)<!-- MEMES:END -->
 
 --- 
