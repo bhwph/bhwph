@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Guess the country...](http://9gag.com/gag/a04BKWn)
- - 😝 [She&#39;s going to be half out that TV for a while](http://9gag.com/gag/aREne3A)
- - 👉 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)<!-- MEMES:END -->
+ - 😝 [The Texas National Guard expelled American border guards and independently closed the border with Mexico.](http://9gag.com/gag/axo511D)
+ - 👉 [Yeah dude. It sucks. Escorting yourself out. Sorry the UN sold you a lie](http://9gag.com/gag/a4ovGeQ)<!-- MEMES:END -->
 
 --- 
 
