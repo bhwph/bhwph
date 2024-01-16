@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How?](http://9gag.com/gag/amA3BMd)
- - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
- - 👉 [Nice](http://9gag.com/gag/aQEGRj8)<!-- MEMES:END -->
+ - 6️⃣ [Nice](http://9gag.com/gag/aQEGRj8)
+ - 😝 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
+ - 👉 [True Love](http://9gag.com/gag/a1P9Q8b)<!-- MEMES:END -->
 
 --- 
 
