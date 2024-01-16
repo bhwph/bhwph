@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft makes Copilot Pro official, hours after we leaked it](https://www.androidauthority.com/microsoft-copilot-pro-3402945/)
- - [Google says YouTube’s latest slowdown isn’t linked to ad blockers](https://www.androidauthority.com/youtube-slowdown-google-statement-3403594/)
- - [Global smartphone shipments declined 3.2% YoY to 1.17B units in 2023; Apple gained the top spot for the first time with 234.6M, followed by Samsung with 226.6M &lpar;IDC&rpar;](http://www.techmeme.com/240115/p19#a240115p19)<!-- TECH:END -->
+ - [Despite nine years of music industry growth thanks to streaming, companies like Spotify and UMG are tightening payouts or laying off employees &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240116/p2#a240116p2)
+ - [Dubai&#39;s Virtual Assets Regulatory Authority grants OKX Middle East a license, allowing the crypto exchange to offer its services to retail clients in the UAE &lpar;Federico Maccioni/Reuters&rpar;](http://www.techmeme.com/240116/p1#a240116p1)
+ - [These Samsung Galaxy phones could get the One UI 6.1 update](https://www.androidauthority.com/samsung-galaxy-phones-ui-6-1-update-test-builds-3403605/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
