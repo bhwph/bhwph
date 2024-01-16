@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Drunken Girls](http://9gag.com/gag/a3ZmEG3)
- - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 👉 [Clown world](http://9gag.com/gag/aMEgxN1)<!-- MEMES:END -->
+ - 6️⃣ [How?](http://9gag.com/gag/amA3BMd)
+ - 😝 [Good bye dishwasher, hello sewing machine.](http://9gag.com/gag/amA3Byy)
+ - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
 
 --- 
 
