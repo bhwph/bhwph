@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple gets FCC approval for Apple Vision Pro ahead of pre-order start](https://appleinsider.com/articles/24/01/16/apple-gets-fcc-approval-for-apple-vision-pro-ahead-of-pre-order-start?utm_medium=rss)
- - [A new kind of climate denial has taken over on YouTube](https://www.theverge.com/2024/1/16/24040015/youtube-google-climate-change-new-denial-advertising-report)
- - [Apple Vision Pro hands-on, again, for the first time](https://www.theverge.com/24040075/apple-vision-pro-hands-on-virtual-reality)<!-- TECH:END -->
+ - [Researchers studying Google, Bing, and DuckDuckGo search results over a year: search engines are losing the cat and mouse game of SEO spam, likely boosted by AI &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240116/p22#a240116p22)
+ - [The 45 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
+ - [Apple Vision Pro hands-on roundup: Weighty with a clunky virtual keyboard, but great overall](https://appleinsider.com/articles/24/01/16/apple-vision-pro-hands-on-roundup-weighty-with-a-clunky-virtual-keyboard-but-great-overall?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
