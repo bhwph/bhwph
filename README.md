@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers studying Google, Bing, and DuckDuckGo search results over a year: search engines are losing the cat and mouse game of SEO spam, likely boosted by AI &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240116/p22#a240116p22)
- - [The 45 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
- - [Apple Vision Pro hands-on roundup: Weighty with a clunky virtual keyboard, but great overall](https://appleinsider.com/articles/24/01/16/apple-vision-pro-hands-on-roundup-weighty-with-a-clunky-virtual-keyboard-but-great-overall?utm_medium=rss)<!-- TECH:END -->
+ - [Australia unveils a plan to mandate safeguards around the use of higher-risk AI, such as self-driving technology, potentially requiring auditing and labeling &lpar;Jake Evans/ABC&rpar;](http://www.techmeme.com/240116/p25#a240116p25)
+ - [FCC filings seem to indicate Apple Vision Pro will not support Ultra Wideband, Wi-Fi 6E, or Wi-Fi 7 &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240116/p24#a240116p24)
+ - [The AI phones are coming](https://www.theverge.com/2024/1/16/24040562/samsung-unpacked-galaxy-ai-s24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
