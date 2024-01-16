@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
- - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - 👉 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)<!-- MEMES:END -->
+ - 6️⃣ [Call your dad and tell him you love him](http://9gag.com/gag/aKER6QQ)
+ - 😝 [Bro was so disappointed](http://9gag.com/gag/aQEGoEK)
+ - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
 
 --- 
 
