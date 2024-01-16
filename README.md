@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar banned T-Pain from playing GTA Online RP while he works on GTA 6, then bought the RP mod makers anyway: &#39;Y&#39;all told me I couldn&#39;t do this s*** then y&#39;all teamed up with the people that enable the RP s*** to happen?&#39;](https://www.pcgamer.com/rockstar-banned-t-pain-from-playing-gta-online-rp-while-he-works-on-gta-6-then-bought-the-rp-mod-makers-anyway-yall-told-me-i-couldnt-do-this-s-then-yall-teamed-up-with-the-people-that-enable-the-rp-s-to-happen)
- - [Wordle today: Hint and answer #941 for Tuesday, January 16](https://www.pcgamer.com/wordle-today-answer-941-january-16)
- - [Embracer-owned Lost Boys Interactive reportedly undergoes &#39;sizable&#39; layoffs](https://www.pcgamer.com/embracer-owned-lost-boys-interactive-reportedly-undergoes-sizable-layoffs)<!-- GAME:END -->
+ - [How to enjoy movies more this year](https://www.polygon.com/24035960/how-to-watch-movies)
+ - [Foamstars launches as a PlayStation Plus Monthly Game on Feb 6](https://blog.playstation.com/2024/01/16/foamstars-launches-as-a-playstation-plus-monthly-game-on-feb-6/)
+ - [Nvidia RTX 4070 Super review](https://www.pcgamer.com/nvidia-rtx-4070-super-founders-edition-review-benchmarks-performance)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
