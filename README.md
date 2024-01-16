@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How?](http://9gag.com/gag/amA3BMd)
- - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
- - 👉 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)<!-- MEMES:END -->
+ - 6️⃣ [Drunken Girls](http://9gag.com/gag/a3ZmEG3)
+ - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 👉 [Clown world](http://9gag.com/gag/aMEgxN1)<!-- MEMES:END -->
 
 --- 
 
