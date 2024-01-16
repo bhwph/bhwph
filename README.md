@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t expect Firefox for Android to get tablet UI anytime soon](https://www.androidauthority.com/firefox-for-android-ui-3403762/)
- - [Source: Google has increasingly awarded select DeepMind researchers with large grants of restricted stock worth up to millions of dollars, to fend off OpenAI &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/240116/p17#a240116p17)
- - [Quantinuum raised a $300M funding round, led by JPMorgan, that valued the quantum computing company at $5B; Honeywell remains the majority owner &lpar;Thomas Black/Bloomberg&rpar;](http://www.techmeme.com/240116/p15#a240116p15)<!-- TECH:END -->
+ - [Apple gets FCC approval for Apple Vision Pro ahead of pre-order start](https://appleinsider.com/articles/24/01/16/apple-gets-fcc-approval-for-apple-vision-pro-ahead-of-pre-order-start?utm_medium=rss)
+ - [A new kind of climate denial has taken over on YouTube](https://www.theverge.com/2024/1/16/24040015/youtube-google-climate-change-new-denial-advertising-report)
+ - [Apple Vision Pro hands-on, again, for the first time](https://www.theverge.com/24040075/apple-vision-pro-hands-on-virtual-reality)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
