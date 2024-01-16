@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix Splatoon Clone Is Using AI-Generated Art](https://kotaku.com/foamstars-ai-art-midjourney-splatoon-square-enix-1851169322)
- - [Murders at Karlov Manor MTG set introduces multiple new mechanics](https://www.polygon.com/24040255/mtg-murders-at-karlov-manor-preview-cards-new-mechanics)
- - [14 years in, modders have given me yet another reason to return to Fallout: New Vegas—an in-game multiplayer riddle contest with free games for the winner](https://www.pcgamer.com/14-years-in-modders-have-given-me-yet-another-reason-to-return-to-fallout-new-vegasan-in-game-multiplayer-riddle-contest-with-free-games-for-the-winner)<!-- GAME:END -->
+ - [Rockstar Games’ Take-Two and Remedy are fighting over an ‘R’](https://www.polygon.com/24040321/rockstar-games-take-two-remedy-trademark)
+ - [Xbox Insider Release Notes – Beta &lpar;2402.240111-2200&rpar;](https://news.xbox.com/en-us/2024/01/16/xbox-insider-release-notes-beta-2402-240111-2200/)
+ - [The Absolute Best Gadgets From CES 2024](https://kotaku.com/ces-2024-best-gadgets-tvs-lifestyle-cooking-1851169566)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
