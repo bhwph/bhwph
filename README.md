@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to enjoy movies more this year](https://www.polygon.com/24035960/how-to-watch-movies)
- - [Foamstars launches as a PlayStation Plus Monthly Game on Feb 6](https://blog.playstation.com/2024/01/16/foamstars-launches-as-a-playstation-plus-monthly-game-on-feb-6/)
- - [Nvidia RTX 4070 Super review](https://www.pcgamer.com/nvidia-rtx-4070-super-founders-edition-review-benchmarks-performance)<!-- GAME:END -->
+ - [Humble’s massive Terry Pratchett bundle includes 38 Discworld books for $18](https://www.polygon.com/deals/24036365/terry-pratchett-discworld-deal-humble-bundle)
+ - [Minecraft is gonna let you live life as &#39;the great white shark, the Arctic wolf, a leopardess, and more&#39; in a BBC team-up to teach you about life on planet Earth](https://www.pcgamer.com/minecraft-is-gonna-let-you-live-life-as-the-great-white-shark-the-arctic-wolf-a-leopardess-and-more-in-a-bbc-team-up-to-teach-you-about-life-on-planet-earth)
+ - [For a Native viewer, one moment in Killers of the Flower Moon stands out above the rest](https://www.polygon.com/24036123/killers-of-the-flower-moon-native-american-osage-viewing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
