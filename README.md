@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumor: Display production for 11-inch OLED iPad Pro begins in days](https://appleinsider.com/articles/24/01/16/rumor-display-production-for-11-inch-oled-ipad-pro-begins-in-days?utm_medium=rss)
- - [Election 2024: How to use Apple News Live Activities to track every caucus](https://appleinsider.com/articles/24/01/16/election-2024-use-apple-news-live-activities-to-track-every-caucus?utm_medium=rss)
- - [The Sad Truth of the FTC&#39;s Location Data Privacy Settlement](https://www.wired.com/story/ftc-xmode-outlogic-location-data-settlement/)<!-- TECH:END -->
+ - [Apple wants you to be able to use your iPhone better underwater](https://appleinsider.com/articles/24/01/16/apple-wants-you-to-be-able-to-use-your-iphone-better-underwater?utm_medium=rss)
+ - [Nvidia RTX 4070 Super review: a super performance bump for $599](https://www.theverge.com/24039832/nvidia-rtx-4070-super-review-gpu-graphics-card-benchmark-test)
+ - [iPhone 16 might switch to higher-density but slower flash storage](https://appleinsider.com/articles/24/01/16/iphone-16-might-switch-to-higher-density-but-slower-flash-storage?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
