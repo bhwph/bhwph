@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How?](http://9gag.com/gag/amA3BMd)
- - 😝 [Good bye dishwasher, hello sewing machine.](http://9gag.com/gag/amA3Byy)
- - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
+ - 6️⃣ [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
+ - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 👉 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)<!-- MEMES:END -->
 
 --- 
 
