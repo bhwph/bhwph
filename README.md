@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
- - 😝 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
- - 👉 [True Love](http://9gag.com/gag/a1P9Q8b)<!-- MEMES:END -->
+ - 6️⃣ [Clown world](http://9gag.com/gag/aMEgxN1)
+ - 😝 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
+ - 👉 [Nice](http://9gag.com/gag/aQEGRj8)<!-- MEMES:END -->
 
 --- 
 
