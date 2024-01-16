@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar Games’ Take-Two and Remedy are fighting over an ‘R’](https://www.polygon.com/24040321/rockstar-games-take-two-remedy-trademark)
- - [Xbox Insider Release Notes – Beta &lpar;2402.240111-2200&rpar;](https://news.xbox.com/en-us/2024/01/16/xbox-insider-release-notes-beta-2402-240111-2200/)
- - [The Absolute Best Gadgets From CES 2024](https://kotaku.com/ces-2024-best-gadgets-tvs-lifestyle-cooking-1851169566)<!-- GAME:END -->
+ - [Let’s Clear Up Those Halo Battle Royale Rumors](https://kotaku.com/halo-infinite-battle-royale-project-tatanka-br-canceled-1851170286)
+ - [A speedrunning dog named Peanut Butter just beat an obscure 1985 NES game live for charity, is the day&#39;s goodest boy](https://www.pcgamer.com/a-speedrunning-dog-named-peanut-butter-just-beat-an-obscure-1985-nes-game-live-for-charity-is-the-days-goodest-boy)
+ - [The Sims 4 is granting my castle build wishes, and goths to live in them, with 2 new DLC kits this week](https://www.pcgamer.com/the-sims-4-is-granting-my-castle-build-wishes-and-goths-to-live-in-them-with-2-new-dlc-kits-this-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
