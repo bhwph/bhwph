@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [John Deere plans to use SpaceX&#39;s Starlink service to provide satellite internet connections for tractors, harvesters, and other equipment in remote areas &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240115/p16#a240115p16)
- - [Amazon-owned Woot drops 15 months of Microsoft 365 Family to $89, Office licenses as low as $29](https://appleinsider.com/articles/24/01/16/amazon-owned-woot-drops-15-months-of-microsoft-365-family-to-89-office-licenses-as-low-as-29?utm_medium=rss)
- - [Best Gifts Under $200 for 2024     - CNET](https://www.cnet.com/news/gifts-under-200/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Election 2024: Use Apple News Live Activities to track every caucus](https://appleinsider.com/articles/24/01/16/election-2024-use-apple-news-live-activities-to-track-every-caucus?utm_medium=rss)
+ - [ASUS ROG Phone 8 review: Should you buy it?](https://www.androidauthority.com/asus-rog-phone-8-review-3399464/)
+ - [Asus ROG Phone 8 Pro Review: A Gaming Smartphone That Remembers It&#39;s a Phone     - CNET](https://www.cnet.com/tech/mobile/asus-rog-phone-8-pro-review-a-gaming-smartphone-that-remembers-its-a-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
