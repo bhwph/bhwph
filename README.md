@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s OpenAI’s big plan to combat election misinformation](https://www.theverge.com/2024/1/15/24039333/openai-chatgpt-dalle-ai-2024-election-misinformation-plan)
- - [Uber is shutting down alcohol delivery service Drizly, which had operated &quot;independently within the Uber family&quot; since its $1.1B acquisition three years ago &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240115/p15#a240115p15)
- - [Apple prepares to enable sideloading and App Store changes in EU](https://appleinsider.com/articles/24/01/15/apple-prepares-to-enable-sideloading-and-app-store-changes-in-eu?utm_medium=rss)<!-- TECH:END -->
+ - [John Deere plans to use SpaceX&#39;s Starlink service to provide satellite internet connections for tractors, harvesters, and other equipment in remote areas &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240115/p16#a240115p16)
+ - [Amazon-owned Woot drops 15 months of Microsoft 365 Family to $89, Office licenses as low as $29](https://appleinsider.com/articles/24/01/16/amazon-owned-woot-drops-15-months-of-microsoft-365-family-to-89-office-licenses-as-low-as-29?utm_medium=rss)
+ - [Best Gifts Under $200 for 2024     - CNET](https://www.cnet.com/news/gifts-under-200/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
