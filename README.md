@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants you to be able to use your iPhone better underwater](https://appleinsider.com/articles/24/01/16/apple-wants-you-to-be-able-to-use-your-iphone-better-underwater?utm_medium=rss)
- - [Nvidia RTX 4070 Super review: a super performance bump for $599](https://www.theverge.com/24039832/nvidia-rtx-4070-super-review-gpu-graphics-card-benchmark-test)
- - [iPhone 16 might switch to higher-density but slower flash storage](https://appleinsider.com/articles/24/01/16/iphone-16-might-switch-to-higher-density-but-slower-flash-storage?utm_medium=rss)<!-- TECH:END -->
+ - [Don’t expect Firefox for Android to get tablet UI anytime soon](https://www.androidauthority.com/firefox-for-android-ui-3403762/)
+ - [Source: Google has increasingly awarded select DeepMind researchers with large grants of restricted stock worth up to millions of dollars, to fend off OpenAI &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/240116/p17#a240116p17)
+ - [Quantinuum raised a $300M funding round, led by JPMorgan, that valued the quantum computing company at $5B; Honeywell remains the majority owner &lpar;Thomas Black/Bloomberg&rpar;](http://www.techmeme.com/240116/p15#a240116p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
