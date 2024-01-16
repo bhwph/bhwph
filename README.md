@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Humble’s massive Terry Pratchett bundle includes 38 Discworld books for $18](https://www.polygon.com/deals/24036365/terry-pratchett-discworld-deal-humble-bundle)
- - [Minecraft is gonna let you live life as &#39;the great white shark, the Arctic wolf, a leopardess, and more&#39; in a BBC team-up to teach you about life on planet Earth](https://www.pcgamer.com/minecraft-is-gonna-let-you-live-life-as-the-great-white-shark-the-arctic-wolf-a-leopardess-and-more-in-a-bbc-team-up-to-teach-you-about-life-on-planet-earth)
- - [For a Native viewer, one moment in Killers of the Flower Moon stands out above the rest](https://www.polygon.com/24036123/killers-of-the-flower-moon-native-american-osage-viewing)<!-- GAME:END -->
+ - [Square Enix Splatoon Clone Is Using AI-Generated Art](https://kotaku.com/foamstars-ai-art-midjourney-splatoon-square-enix-1851169322)
+ - [Murders at Karlov Manor MTG set introduces multiple new mechanics](https://www.polygon.com/24040255/mtg-murders-at-karlov-manor-preview-cards-new-mechanics)
+ - [14 years in, modders have given me yet another reason to return to Fallout: New Vegas—an in-game multiplayer riddle contest with free games for the winner](https://www.pcgamer.com/14-years-in-modders-have-given-me-yet-another-reason-to-return-to-fallout-new-vegasan-in-game-multiplayer-riddle-contest-with-free-games-for-the-winner)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
