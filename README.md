@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Call your dad and tell him you love him](http://9gag.com/gag/aKER6QQ)
- - 😝 [Bro was so disappointed](http://9gag.com/gag/aQEGoEK)
- - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
+ - 6️⃣ [You and your average peers be like.](http://9gag.com/gag/armYnqp)
+ - 😝 [You like that?](http://9gag.com/gag/ap9OGVW)
+ - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
 
 --- 
 
