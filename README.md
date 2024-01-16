@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple tops Samsung for first time in global smartphone shipments](https://www.theverge.com/2024/1/16/24039830/apple-bestselling-phone-manufacturer-2023-samsung-idc-canalys-research)
- - [Vodafone and Microsoft agree to a 10-year, $1.5B deal to develop AI, digital payments, IoT, and other businesses; Vodafone will use OpenAI for customer service &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/240116/p4#a240116p4)
- - [Watch &#39;Love Island: All Stars&#39; 2024: Stream Anywhere for Free     - CNET](https://www.cnet.com/tech/services-and-software/watch-love-island-all-stars-2024-stream-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rumor: Display production for 11-inch OLED iPad Pro begins in days](https://appleinsider.com/articles/24/01/16/rumor-display-production-for-11-inch-oled-ipad-pro-begins-in-days?utm_medium=rss)
+ - [Election 2024: How to use Apple News Live Activities to track every caucus](https://appleinsider.com/articles/24/01/16/election-2024-use-apple-news-live-activities-to-track-every-caucus?utm_medium=rss)
+ - [The Sad Truth of the FTC&#39;s Location Data Privacy Settlement](https://www.wired.com/story/ftc-xmode-outlogic-location-data-settlement/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
