@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
- - 😝 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)
- - 👉 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)<!-- MEMES:END -->
+ - 6️⃣ [How?](http://9gag.com/gag/amA3BMd)
+ - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
+ - 👉 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)<!-- MEMES:END -->
 
 --- 
 
