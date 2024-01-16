@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Embracer-owned Lost Boys Interactive reportedly undergoes &#39;sizable&#39; layoffs](https://www.pcgamer.com/embracer-owned-lost-boys-interactive-reportedly-undergoes-sizable-layoffs)
  - [The latest Baba Is You spinoff injects it with Into the Breach to create Mobile Suit Baba](https://www.pcgamer.com/the-latest-baba-is-you-spinoff-injects-it-with-into-the-breach-to-create-mobile-suit-baba)
- - [Ark: Survival Ascended gets powerful mod tools this month, expansion maps in February and April](https://www.pcgamer.com/ark-survival-ascended-gets-powerful-mod-tools-this-month-expansion-maps-in-february-and-april)
- - [Cities: Skylines 2 studio boss warns that growing toxicity could force developers to &#39;pull back our engagement&#39; with the community](https://www.pcgamer.com/cities-skylines-2-studio-boss-warns-that-growing-toxicity-could-force-developers-to-pull-back-our-engagement-with-the-community)<!-- GAME:END -->
+ - [Ark: Survival Ascended gets powerful mod tools this month, expansion maps in February and April](https://www.pcgamer.com/ark-survival-ascended-gets-powerful-mod-tools-this-month-expansion-maps-in-february-and-april)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
