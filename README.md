@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail PixieFail, a set of nine vulnerabilities in UEFI firmware from five of the top suppliers that helps hackers infect devices with malware &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240117/p18#a240117p18)
- - [WhatsApp updates Channels to add voice updates, polls, and additional admins &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240117/p17#a240117p17)
- - [Google plans to tweak search results to give comparison websites more prominence, including a new unit of links for such websites, to comply with the EU&#39;s DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240117/p16#a240117p16)<!-- TECH:END -->
+ - [Google’s Tensor chip is a step closer to being made by TSMC](https://www.androidauthority.com/google-tensor-new-chip-tester-3404499/)
+ - [Samsung Galaxy S24 Ultra vs iPhone 15 Pro Max: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s24-ultra-vs-iphone-15-pro-max-3401736/)
+ - [Apple seeds release candidates of iOS 17.3, iPadOS 17.3](https://appleinsider.com/articles/24/01/17/apple-seeds-release-candidates-of-ios-173-ipados-173?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
