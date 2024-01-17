@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Another 9gager tried to talk to the girl](http://9gag.com/gag/aPg532K)
- - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
- - 👉 [Critical Mission](http://9gag.com/gag/aNwNPZb)<!-- MEMES:END -->
+ - 6️⃣ [He finally snapped](http://9gag.com/gag/aVbAv6K)
+ - 😝 [From the man who brought you the Four Bore Rifle. This is what it looks like when a 50 cal. explodes in your face.](http://9gag.com/gag/a1P915Y)
+ - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
 
 --- 
 
