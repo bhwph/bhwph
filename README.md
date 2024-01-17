@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lamp looks weird today](http://9gag.com/gag/armYVQV)
- - 😝 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
- - 👉 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)<!-- MEMES:END -->
+ - 6️⃣ [Another 9gager tried to talk to the girl](http://9gag.com/gag/aPg532K)
+ - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 👉 [Critical Mission](http://9gag.com/gag/aNwNPZb)<!-- MEMES:END -->
 
 --- 
 
