@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia unveils a plan to mandate safeguards around the use of higher-risk AI, such as self-driving technology, potentially requiring auditing and labeling &lpar;Jake Evans/ABC&rpar;](http://www.techmeme.com/240116/p25#a240116p25)
- - [FCC filings seem to indicate Apple Vision Pro will not support Ultra Wideband, Wi-Fi 6E, or Wi-Fi 7 &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240116/p24#a240116p24)
- - [The AI phones are coming](https://www.theverge.com/2024/1/16/24040562/samsung-unpacked-galaxy-ai-s24)<!-- TECH:END -->
+ - [Apple’s App Store policies now let US developers link to outside payments](https://www.theverge.com/2024/1/16/24040881/apple-outside-payments-app-store-policies-iphone-ipad)
+ - [The Treasury and IRS say they aren&#39;t enforcing a rule requiring businesses to report the receipt of digital assets worth $10K+ within 15 days of receiving them &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/240116/p27#a240116p27)
+ - [iPhone 14 Deals: Score One for Free with Trade-In, New Line and More     - CNET](https://www.cnet.com/deals/best-iphone-14-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
