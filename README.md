@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber is working with Tesla to urge its drivers to switch to EVs in a bid to be emissions-free in the US and Canada by 2030, including by sharing trip data &lpar;Joann Muller/Axios&rpar;](http://www.techmeme.com/240116/p29#a240116p29)
- - [Magic Leap&#39;s CEO and CTO talk about the future of the company, as a filing shows it received $590M in debt funding from Saudi Arabia&#39;s Public Investment Fund &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240116/p28#a240116p28)
- - [Nvidia GeForce RTX 4070 Super Review: Still Hits the Sweet Spot     - CNET](https://www.cnet.com/tech/gaming/nvidia-geforce-rtx-4070-super-review-still-hits-the-sweet-spot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The CISA and the FBI warn that threat actors using Androxgh0st malware are building a botnet to steal credentials for AWS, Microsoft 365, and other cloud apps &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240116/p30#a240116p30)
+ - [GameSir G8 Galileo Review: A more affordable pro gaming solution for iPhone](https://appleinsider.com/articles/24/01/17/gamesir-g8-galileo-review-a-more-affordable-pro-gaming-solution-for-iphone?utm_medium=rss)
+ - [Uber is working with Tesla to urge its drivers to switch to EVs in a bid to be emissions-free in the US and Canada by 2030, including by sharing trip data &lpar;Joann Muller/Axios&rpar;](http://www.techmeme.com/240116/p29#a240116p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
