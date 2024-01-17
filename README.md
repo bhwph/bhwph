@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Marvel TV Show, Ranked From Awful To Sublime](https://kotaku.com/best-marvel-tv-shows-disney-netflix-mcu-1851173236)
- - [OpenAI knows its tech might get misused in major elections, but I&#39;m not convinced it has a clue how to stop it](https://www.pcgamer.com/openai-knows-its-tech-might-get-misused-in-major-elections-but-im-not-convinced-it-has-a-clue-how-to-stop-it)
- - [Rocksteady founders have a new, post-Suicide Squad studio](https://www.polygon.com/24040541/rocksteady-studios-founders-new-studio-hundred-star-games)<!-- GAME:END -->
+ - [Square Enix: Can Y’all Stop Comparing Foamstars and Splatoon?](https://kotaku.com/foamstars-splatoon-clone-square-enix-playstation-plus-1851174133)
+ - [Chainsaw Man, Jujutsu Kaisen dominate 2024’s Anime Awards nominations](https://www.polygon.com/24041648/anime-awards-2024-best-anime-nominees-crunchyroll)
+ - [Rock Band 4 won&#39;t get any more DLC because we&#39;re living in Fortnite&#39;s world now](https://www.pcgamer.com/rock-band-4-wont-get-any-more-dlc-because-were-living-in-fortnites-world-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
