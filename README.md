@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)
- - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 👉 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)<!-- MEMES:END -->
+ - 6️⃣ [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 😝 [You like that?](http://9gag.com/gag/ap9OGVW)
+ - 👉 [Speak up and find out](http://9gag.com/gag/amA3gEV)<!-- MEMES:END -->
 
 --- 
 
