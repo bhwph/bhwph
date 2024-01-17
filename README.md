@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro App Store is now live, ahead of Feb. 2 launch](https://appleinsider.com/articles/24/01/16/the-apple-vision-pro-app-store-is-now-live-ahead-of-feb-2-launch?utm_medium=rss)
- - [Apple opens new office in Bengaluru, India](https://appleinsider.com/articles/24/01/17/apple-opens-new-office-in-bengaluru-india?utm_medium=rss)
- - [Google updates its Chrome Incognito disclaimer after a privacy settlement, saying that Incognito mode &quot;won&#39;t change how data is collected&quot; by Google and others &lpar;Venkat Eswarlu/MSPoweruser&rpar;](http://www.techmeme.com/240117/p11#a240117p11)<!-- TECH:END -->
+ - [Amazon’s latest Fire TVs can now use AI to generate custom art backgrounds](https://www.theverge.com/24041313/amazon-fire-tv-ai-art-now-available-how-to-use)
+ - [Alphabet’s Wing unveils larger drones for heavier packages](https://www.theverge.com/2024/1/17/24040030/wing-delivery-larger-drone-payload-capacity-alphabet)
+ - [Questionable new-year iPhone production cutback reports have already started](https://appleinsider.com/articles/24/01/17/questionable-new-year-iphone-production-cutback-reports-have-already-started?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
