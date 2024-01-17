@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He finally snapped](http://9gag.com/gag/aVbAv6K)
- - 😝 [From the man who brought you the Four Bore Rifle. This is what it looks like when a 50 cal. explodes in your face.](http://9gag.com/gag/a1P915Y)
- - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
+ - 6️⃣ [I feel the same way.](http://9gag.com/gag/aDYyYDK)
+ - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 👉 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)<!-- MEMES:END -->
 
 --- 
 
