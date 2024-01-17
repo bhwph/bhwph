@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This homebrew OLED-powered PS5 &#39;tablet&#39; is ridiculously good](https://www.pcgamer.com/this-homebrew-oled-powered-ps5-tablet-is-ridiculously-good)
- - [&#39;You won’t find our games on a subscription service&#39; says the founder of Baldur&#39;s Gate 3 developer Larian, after Ubisoft forecasts a future of players &#39;not owning&#39; games](https://www.pcgamer.com/you-wont-find-our-games-on-a-subscription-service-says-the-founder-of-baldurs-gate-3-developer-larian-after-ubisoft-forecasts-a-future-of-players-not-owning-games)
- - [Meteor Lake muscles into the portable gaming PC market with the new OneXPlayer three-in-one X1](https://www.pcgamer.com/meteor-lake-muscles-into-the-portable-gaming-pc-market-with-the-new-onexplayer-three-in-one-x1)<!-- GAME:END -->
+ - [PNY RTX 4070 Super XLR8 review](https://www.pcgamer.com/pny-geforce-rtx-4070-super-xlr8-review)
+ - [Bulletstorm VR: sci-fi shooter’s PS VR2 features detailed](https://blog.playstation.com/2024/01/17/bulletstorm-vr-sci-fi-shooters-ps-vr2-features-detailed/)
+ - [Disney Lorcana World Championship coming in 2025, new starter box in 2024](https://www.polygon.com/24040657/disney-lorcana-challenge-world-championship-gateway-boxed-set)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
