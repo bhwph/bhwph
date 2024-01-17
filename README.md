@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Tensor chip is a step closer to being made by TSMC](https://www.androidauthority.com/google-tensor-new-chip-tester-3404499/)
- - [Samsung Galaxy S24 Ultra vs iPhone 15 Pro Max: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s24-ultra-vs-iphone-15-pro-max-3401736/)
- - [Apple seeds release candidates of iOS 17.3, iPadOS 17.3](https://appleinsider.com/articles/24/01/17/apple-seeds-release-candidates-of-ios-173-ipados-173?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung announces the Galaxy Ring at Galaxy Unpacked](https://www.androidauthority.com/samsung-announces-galaxy-ring-3404649/)
+ - [Up close with the Galaxy S24 Ultra: Every minor change we’ve spotted](https://www.androidauthority.com/galaxy-s24-ultra-up-close-vs-s23-ultra-s22-ultra-3404473/)
+ - [Google Updates Chrome&#39;s Incognito Warning to Admit It Tracks Users in ‘Private’ Mode](https://www.wired.com/story/chrome-incognito-mode-privacy-warning/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
