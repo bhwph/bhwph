@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s App Store policies now let US developers link to outside payments](https://www.theverge.com/2024/1/16/24040881/apple-outside-payments-app-store-policies-iphone-ipad)
- - [The Treasury and IRS say they aren&#39;t enforcing a rule requiring businesses to report the receipt of digital assets worth $10K+ within 15 days of receiving them &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/240116/p27#a240116p27)
- - [iPhone 14 Deals: Score One for Free with Trade-In, New Line and More     - CNET](https://www.cnet.com/deals/best-iphone-14-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Uber is working with Tesla to urge its drivers to switch to EVs in a bid to be emissions-free in the US and Canada by 2030, including by sharing trip data &lpar;Joann Muller/Axios&rpar;](http://www.techmeme.com/240116/p29#a240116p29)
+ - [Magic Leap&#39;s CEO and CTO talk about the future of the company, as a filing shows it received $590M in debt funding from Saudi Arabia&#39;s Public Investment Fund &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240116/p28#a240116p28)
+ - [Nvidia GeForce RTX 4070 Super Review: Still Hits the Sweet Spot     - CNET](https://www.cnet.com/tech/gaming/nvidia-geforce-rtx-4070-super-review-still-hits-the-sweet-spot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
