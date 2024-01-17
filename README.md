@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice](http://9gag.com/gag/aQEGRj8)
- - 😝 [Lamp looks weird today](http://9gag.com/gag/armYVQV)
- - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
+ - 6️⃣ [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
+ - 😝 [Speak up and find out](http://9gag.com/gag/amA3gEV)
+ - 👉 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)<!-- MEMES:END -->
 
 --- 
 
