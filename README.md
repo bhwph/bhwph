@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a waste](http://9gag.com/gag/aVbAYAv)
- - 😝 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
- - 👉 [Speak up and find out](http://9gag.com/gag/amA3gEV)<!-- MEMES:END -->
+ - 6️⃣ [Speak up and find out](http://9gag.com/gag/amA3gEV)
+ - 😝 [Lamp looks weird today](http://9gag.com/gag/armYVQV)
+ - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
 
 --- 
 
