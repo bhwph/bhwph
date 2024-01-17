@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I feel the same way.](http://9gag.com/gag/aDYyYDK)
- - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 👉 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)<!-- MEMES:END -->
+ - 6️⃣ [Lamp looks weird today](http://9gag.com/gag/armYVQV)
+ - 😝 [Critical Mission](http://9gag.com/gag/aNwNPZb)
+ - 👉 [You and your average peers be like.](http://9gag.com/gag/armYnqp)<!-- MEMES:END -->
 
 --- 
 
