@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield’s Big Update Delayed Because Of A Mysterious Issue](https://kotaku.com/starfield-2024-update-release-delay-unknown-issue-1851172317)
- - [Batman: Arkham Knight mod fills age-old plot hole about how the Dark Knight stays hydrated, blasts Dr Pepper toward thugs &#39;at a solid 112MPH&#39;](https://www.pcgamer.com/batman-arkham-knight-mod-fills-age-old-plot-hole-about-how-the-dark-knight-stays-hydrated-blasts-dr-pepper-toward-thugs-at-a-solid-112mph)
- - [Disney CCG Lorcana lets you ruin your deck with 99 copies of the puppies from 101 Dalmatians, if that&#39;s your sort of thing](https://www.pcgamer.com/disney-ccg-lorcana-lets-you-ruin-your-deck-with-99-copies-of-the-puppies-from-101-dalmatians-if-thats-your-sort-of-thing)<!-- GAME:END -->
+ - [Everything We Know About Amazon Prime’s Fallout](https://kotaku.com/fallout-tv-show-amazon-prime-bethesda-1851173053)
+ - [Diablo 4 season 3 has 2 new Uber Uniques for your companion that will give you &#39;bragging rights&#39; if you can find them](https://www.pcgamer.com/diablo-4-season-3-has-2-new-uber-uniques-for-your-companion-that-will-give-you-bragging-rights-if-you-can-find-them)
+ - [17 Days Into 2024 And 3,000+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
