@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We Know About Amazon Prime’s Fallout](https://kotaku.com/fallout-tv-show-amazon-prime-bethesda-1851173053)
- - [Diablo 4 season 3 has 2 new Uber Uniques for your companion that will give you &#39;bragging rights&#39; if you can find them](https://www.pcgamer.com/diablo-4-season-3-has-2-new-uber-uniques-for-your-companion-that-will-give-you-bragging-rights-if-you-can-find-them)
- - [17 Days Into 2024 And 3,000+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)<!-- GAME:END -->
+ - [Every Marvel TV Show, Ranked From Awful To Sublime](https://kotaku.com/best-marvel-tv-shows-disney-netflix-mcu-1851173236)
+ - [OpenAI knows its tech might get misused in major elections, but I&#39;m not convinced it has a clue how to stop it](https://www.pcgamer.com/openai-knows-its-tech-might-get-misused-in-major-elections-but-im-not-convinced-it-has-a-clue-how-to-stop-it)
+ - [Rocksteady founders have a new, post-Suicide Squad studio](https://www.polygon.com/24040541/rocksteady-studios-founders-new-studio-hundred-star-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
