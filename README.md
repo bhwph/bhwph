@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You and your average peers be like.](http://9gag.com/gag/armYnqp)
- - 😝 [You like that?](http://9gag.com/gag/ap9OGVW)
- - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
+ - 6️⃣ [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 😝 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
+ - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
 
 --- 
 
