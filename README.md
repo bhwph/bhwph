@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Omdia: the healthcare sector suffered more cyberattacks than any other sector between January and September 2023, with 241 publicly disclosed attacks &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/240117/p6#a240117p6)
- - [Verizon Customers Could Get a $100 Settlement. How to Claim the Class Action Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-get-a-100-class-action-payout-heres-how-to-claim-the-money/#ftag=CAD590a51e)
- - [January SSDI Check 2024: Will Your First COLA Increase Come Today?     - CNET](https://www.cnet.com/personal-finance/january-ssdi-check-2024-will-your-first-cola-increase-come-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Vision Pro App Store is now live, ahead of Feb. 2 launch](https://appleinsider.com/articles/24/01/16/the-apple-vision-pro-app-store-is-now-live-ahead-of-feb-2-launch?utm_medium=rss)
+ - [Apple opens new office in Bengaluru, India](https://appleinsider.com/articles/24/01/17/apple-opens-new-office-in-bengaluru-india?utm_medium=rss)
+ - [Google updates its Chrome Incognito disclaimer after a privacy settlement, saying that Incognito mode &quot;won&#39;t change how data is collected&quot; by Google and others &lpar;Venkat Eswarlu/MSPoweruser&rpar;](http://www.techmeme.com/240117/p11#a240117p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
