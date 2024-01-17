@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s latest Fire TVs can now use AI to generate custom art backgrounds](https://www.theverge.com/24041313/amazon-fire-tv-ai-art-now-available-how-to-use)
- - [Alphabet’s Wing unveils larger drones for heavier packages](https://www.theverge.com/2024/1/17/24040030/wing-delivery-larger-drone-payload-capacity-alphabet)
- - [Questionable new-year iPhone production cutback reports have already started](https://appleinsider.com/articles/24/01/17/questionable-new-year-iphone-production-cutback-reports-have-already-started?utm_medium=rss)<!-- TECH:END -->
+ - [Researchers detail PixieFail, a set of nine vulnerabilities in UEFI firmware from five of the top suppliers that helps hackers infect devices with malware &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240117/p18#a240117p18)
+ - [WhatsApp updates Channels to add voice updates, polls, and additional admins &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240117/p17#a240117p17)
+ - [Google plans to tweak search results to give comparison websites more prominence, including a new unit of links for such websites, to comply with the EU&#39;s DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240117/p16#a240117p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
