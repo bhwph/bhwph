@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PNY RTX 4070 Super XLR8 review](https://www.pcgamer.com/pny-geforce-rtx-4070-super-xlr8-review)
- - [Bulletstorm VR: sci-fi shooter’s PS VR2 features detailed](https://blog.playstation.com/2024/01/17/bulletstorm-vr-sci-fi-shooters-ps-vr2-features-detailed/)
- - [Disney Lorcana World Championship coming in 2025, new starter box in 2024](https://www.polygon.com/24040657/disney-lorcana-challenge-world-championship-gateway-boxed-set)<!-- GAME:END -->
+ - [Starfield’s Big Update Delayed Because Of A Mysterious Issue](https://kotaku.com/starfield-2024-update-release-delay-unknown-issue-1851172317)
+ - [Batman: Arkham Knight mod fills age-old plot hole about how the Dark Knight stays hydrated, blasts Dr Pepper toward thugs &#39;at a solid 112MPH&#39;](https://www.pcgamer.com/batman-arkham-knight-mod-fills-age-old-plot-hole-about-how-the-dark-knight-stays-hydrated-blasts-dr-pepper-toward-thugs-at-a-solid-112mph)
+ - [Disney CCG Lorcana lets you ruin your deck with 99 copies of the puppies from 101 Dalmatians, if that&#39;s your sort of thing](https://www.pcgamer.com/disney-ccg-lorcana-lets-you-ruin-your-deck-with-99-copies-of-the-puppies-from-101-dalmatians-if-thats-your-sort-of-thing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
