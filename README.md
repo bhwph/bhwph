@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung announces the Galaxy Ring at Galaxy Unpacked](https://www.androidauthority.com/samsung-announces-galaxy-ring-3404649/)
- - [Up close with the Galaxy S24 Ultra: Every minor change we’ve spotted](https://www.androidauthority.com/galaxy-s24-ultra-up-close-vs-s23-ultra-s22-ultra-3404473/)
- - [Google Updates Chrome&#39;s Incognito Warning to Admit It Tracks Users in ‘Private’ Mode](https://www.wired.com/story/chrome-incognito-mode-privacy-warning/)<!-- TECH:END -->
+ - [Apple Watch ban back on, court denies Apple&#39;s appeal to keep it on the market](https://appleinsider.com/articles/24/01/17/apple-watch-ban-back-on-court-denies-apples-appeal-to-keep-it-on-the-market?utm_medium=rss)
+ - [Oura responds to surprise launch of Galaxy Ring](https://www.androidauthority.com/oura-responds-to-galaxy-ring-3404718/)
+ - [Where to preorder Samsung’s new Galaxy S24, S24 Plus, and S24 Ultra](https://www.theverge.com/24036657/samsung-galaxy-s24-plus-ultra-how-to-buy-preorder-price-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
