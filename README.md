@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The CISA and the FBI warn that threat actors using Androxgh0st malware are building a botnet to steal credentials for AWS, Microsoft 365, and other cloud apps &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240116/p30#a240116p30)
- - [GameSir G8 Galileo Review: A more affordable pro gaming solution for iPhone](https://appleinsider.com/articles/24/01/17/gamesir-g8-galileo-review-a-more-affordable-pro-gaming-solution-for-iphone?utm_medium=rss)
- - [Uber is working with Tesla to urge its drivers to switch to EVs in a bid to be emissions-free in the US and Canada by 2030, including by sharing trip data &lpar;Joann Muller/Axios&rpar;](http://www.techmeme.com/240116/p29#a240116p29)<!-- TECH:END -->
+ - [Researchers describe a GPU memory vulnerability that allows attackers to exfiltrate data from some devices with Apple, Qualcomm, Intel, and other chips &lpar;Wired&rpar;](http://www.techmeme.com/240117/p1#a240117p1)
+ - [Google says YouTube’s latest slowdown isn’t linked to ad blockers &lpar;Updated: AdBlock statement&rpar;](https://www.androidauthority.com/youtube-slowdown-google-statement-3403594/)
+ - [Samsung Galaxy Unpacked 2024: What time, how to watch, and what to expect](https://www.androidauthority.com/samsung-galaxy-unpacked-2024-3399562/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
