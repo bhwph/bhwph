@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Batman: Arkham Collection, a 3-pack of Rocksteady’s finest games, costs less than $10 on PC and PS5](https://www.polygon.com/deals/24042887/batman-arkham-knight-city-asylum-collection-deal-rocksteady)
- - [Free Play Days – UFC 5, One Piece: Pirate Warriors 4, AEW: Fight Forever and Make Way](https://news.xbox.com/en-us/2024/01/18/free-play-days-ufc-5-one-piece-pirate-warriors-4-aew-fight-forever-and-make-way/)
- - [Delicious in Dungeon is the latest in an emerging genre of ‘action gourmet’ anime](https://www.polygon.com/24040123/delicious-in-dungeon-action-gourmet-anime)<!-- GAME:END -->
+ - [Square Enix Wants To Make Fewer Games](https://kotaku.com/square-enix-final-fantasy-ai-web3-ceo-1851176680)
+ - [Amulet locations in Prince of Persia: The Lost Crown](https://www.polygon.com/guides/24030869/prince-of-persia-the-lost-crown-all-amulets-locations-how-to-get)
+ - [How to unlock fast travel locations in Prince of Persia: The Lost Crown](https://www.polygon.com/guides/24032865/prince-of-persia-the-lost-crown-fast-travel-locations-unlock-how-to)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
