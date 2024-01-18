@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [From the man who brought you the Four Bore Rifle. This is what it looks like when a 50 cal. explodes in your face.](http://9gag.com/gag/a1P915Y)
- - 😝 [He finally snapped](http://9gag.com/gag/aVbAv6K)
- - 👉 [Long post, not sorry!](http://9gag.com/gag/aDYy7PG)<!-- MEMES:END -->
+ - 6️⃣ [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
+ - 😝 [That wasn&#39;t nice](http://9gag.com/gag/aBdpyXP)
+ - 👉 [The team skills and communication](http://9gag.com/gag/a4ovobQ)<!-- MEMES:END -->
 
 --- 
 
