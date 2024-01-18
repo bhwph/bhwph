@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [More bober](http://9gag.com/gag/a7qQ8Lz)
- - 😝 [Sarah Andersen cousin of Neo.](http://9gag.com/gag/aMEgdXR)
- - 👉 [Ancestors gently knocked some sense into him](http://9gag.com/gag/a2Kev9p)<!-- MEMES:END -->
+ - 6️⃣ [She is alright](http://9gag.com/gag/aeQLg55)
+ - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
+ - 👉 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)<!-- MEMES:END -->
 
 --- 
 
