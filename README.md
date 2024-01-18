@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix Wants To Make Fewer Games](https://kotaku.com/square-enix-final-fantasy-ai-web3-ceo-1851176680)
- - [Amulet locations in Prince of Persia: The Lost Crown](https://www.polygon.com/guides/24030869/prince-of-persia-the-lost-crown-all-amulets-locations-how-to-get)
- - [How to unlock fast travel locations in Prince of Persia: The Lost Crown](https://www.polygon.com/guides/24032865/prince-of-persia-the-lost-crown-fast-travel-locations-unlock-how-to)<!-- GAME:END -->
+ - [F1 23 is on Game Pass now, so play one of the best sports game story modes](https://www.polygon.com/sub-gems/24041661/f1-23-game-pass-pc-braking-point-2-sports-game-best-story-mode)
+ - [The best microSD cards for the Asus ROG Ally](https://www.polygon.com/deals/23710033/asus-rog-ally-handheld-best-microsd-card-fast-uhs-2)
+ - [Here are the best microSD cards for Steam Deck OLED](https://www.polygon.com/deals/22938610/steam-deck-best-sd-card-micro-storage-price-speed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
