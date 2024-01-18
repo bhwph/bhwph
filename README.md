@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix: Can Y’all Stop Comparing Foamstars and Splatoon?](https://kotaku.com/foamstars-splatoon-clone-square-enix-playstation-plus-1851174133)
- - [Chainsaw Man, Jujutsu Kaisen dominate 2024’s Anime Awards nominations](https://www.polygon.com/24041648/anime-awards-2024-best-anime-nominees-crunchyroll)
- - [Rock Band 4 won&#39;t get any more DLC because we&#39;re living in Fortnite&#39;s world now](https://www.pcgamer.com/rock-band-4-wont-get-any-more-dlc-because-were-living-in-fortnites-world-now)<!-- GAME:END -->
+ - [Palworld climbs the Twitch charts as streamers discover it contains bird butt grenade launchers, human trafficking, and other bizarro acts of Pal cruelty](https://www.pcgamer.com/palworld-climbs-the-twitch-charts-as-streamers-discover-it-contains-bird-butt-grenade-launchers-human-trafficking-and-other-bizarro-acts-of-pal-cruelty)
+ - [How to watch the Xbox Developer Direct 2024](https://www.polygon.com/xbox/24031418/xbox-developer-direct-event-time-when-indiana-jones)
+ - [There&#39;s a lot more beating people to death with a baseball bat in this computer repair shop sim than I expected](https://www.pcgamer.com/theres-a-lot-more-beating-people-to-death-with-a-baseball-bat-in-this-computer-repair-shop-sim-than-i-expected)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
