@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the US Data Protection Review Court, authorized in October 2022 to resume US-EU data transfers and which issues secret rulings, raising privacy fears &lpar;Politico&rpar;](http://www.techmeme.com/240118/p18#a240118p18)
- - [Here are the carriers that offer the Samsung Galaxy S24 for free](https://www.androidauthority.com/samsung-galaxy-s24-free-3404585/)
- - [‘Stablecoins’ Enabled $40 Billion in Crypto Crime Since 2022](https://www.wired.com/story/stablecoin-sanctions-violations-crypto-crime/)<!-- TECH:END -->
+ - [Google News surfaces sites that use AI to rip-off other outlets and churn out content; Google says it doesn&#39;t focus on whether articles are by humans or AI &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240118/p25#a240118p25)
+ - [BlackRock&#39;s Bitcoin ETF passes $1B in investor inflows, with $358M in inflows on January 17; Fidelity is close behind with about $880M in assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/240118/p24#a240118p24)
+ - [Older Verizon unlimited plans are getting a $4 per line, per month price hike](https://www.androidauthority.com/older-verizon-unlimited-plans-price-hike-3405046/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
