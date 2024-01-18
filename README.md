@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Small board game publishers harassed by international counterfeiters](https://www.polygon.com/24040766/counterfeit-board-games-fake-real-kelp)
- - [Tekken 8 promises to change accessibility options after potentially dangerous filters that &#39;may hospitalise players&#39; were discovered](https://www.pcgamer.com/tekken-8-promises-to-change-accessibility-options-after-potentially-dangerous-filters-that-may-hospitalise-players-were-discovered)
- - [An ex-D&amp;D designer has made a stat block for Elden Ring&#39;s hardest fight, in case you wanted to punish your players with Malenia&#39;s scarlet rot](https://www.pcgamer.com/an-ex-dandd-designer-has-made-a-stat-block-for-elden-rings-hardest-fight-in-case-you-wanted-to-punish-your-players-with-malenias-scarlet-rot)<!-- GAME:END -->
+ - [Batman: Arkham Collection, a 3-pack of Rocksteady’s finest games, costs less than $10 on PC and PS5](https://www.polygon.com/deals/24042887/batman-arkham-knight-city-asylum-collection-deal-rocksteady)
+ - [Free Play Days – UFC 5, One Piece: Pirate Warriors 4, AEW: Fight Forever and Make Way](https://news.xbox.com/en-us/2024/01/18/free-play-days-ufc-5-one-piece-pirate-warriors-4-aew-fight-forever-and-make-way/)
+ - [Delicious in Dungeon is the latest in an emerging genre of ‘action gourmet’ anime](https://www.polygon.com/24040123/delicious-in-dungeon-action-gourmet-anime)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
