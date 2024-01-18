@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy girl](http://9gag.com/gag/aPg5A9V)
- - 😝 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
- - 👉 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)<!-- MEMES:END -->
+ - 6️⃣ [At least She\u2019s pretty](http://9gag.com/gag/aeQL1nm)
+ - 😝 [What could possibly be the reason you can leave skiing and golf equipment worth thousands of dollars alone and have it not be stolen?](http://9gag.com/gag/az2ndLj)
+ - 👉 [She needs to date a dude in the military](http://9gag.com/gag/axo5vA1)<!-- MEMES:END -->
 
 --- 
 
