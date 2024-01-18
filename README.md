@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung unleashes huge savings to celebrate launch of new Galaxy S24](https://appleinsider.com/articles/24/01/18/samsung-unleashes-huge-savings-to-celebrate-launch-of-new-galaxy-s24?utm_medium=rss)
- - [Samsung Galaxy Ring: First Impressions video     - CNET](https://www.cnet.com/videos/samsung-galaxy-ring-first-impressions/#ftag=CAD590a51e)
- - [Feeling the Winter Blues? Here&#39;s How to Manage Seasonal Affective Disorder     - CNET](https://www.cnet.com/health/mental/6-ways-to-cope-with-sad/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple to sell Apple Watch with blood oxygen detection removed to bypass ITC import ban](https://appleinsider.com/articles/24/01/18/apple-to-sell-apple-watch-with-blood-oxygen-detection-removed-to-bypass-itc-import-ban?utm_medium=rss)
+ - [Google CEO tells employees to expect more job cuts this year](https://www.theverge.com/2024/1/17/24042417/google-layoffs-2024-internal-employee-memo-sundar-pichai)
+ - [The American Express 2024: TV Schedule Today, How to Watch, Stream All the PGA Tour Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-american-express-2024-tv-schedule-today-how-to-watch-stream-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
