@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Have I Been Pwned adds ~71M email addresses of stolen accounts to its service from the Naz.API dataset, which allegedly contains 1B+ lines of stolen credentials &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240118/p8#a240118p8)
- - [Meta sent 27M+ reports, or 84% of the tips, of suspected CSAM to the NCMEC in 2022; some prosecutors say the volume of AI-generated tips delays investigations &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/240118/p7#a240118p7)
- - [Meituan&#39;s stock dips below its 2018 IPO price, closing 85% down from an all-time high; Alibaba and Tencent are down 78% and 60%+ respectively from their peaks &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/240118/p6#a240118p6)<!-- TECH:END -->
+ - [Save Big on Vitamin Supplements and Healthy Treats With These Sales     - CNET](https://www.cnet.com/deals/save-big-on-vitamin-supplements-and-healthy-treats-with-these-sales/#ftag=CAD590a51e)
+ - [These One UI 6.1 camera features are coming to older phones](https://www.androidauthority.com/samsung-one-ui-6-1-camera-features-older-phones-3404887/)
+ - [Poll: Will you buy the Galaxy S23 at its reduced price over the S24?](https://www.androidauthority.com/buy-cheaper-galaxy-s23-poll-3404859/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
