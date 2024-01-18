@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save Big on Vitamin Supplements and Healthy Treats With These Sales     - CNET](https://www.cnet.com/deals/save-big-on-vitamin-supplements-and-healthy-treats-with-these-sales/#ftag=CAD590a51e)
- - [These One UI 6.1 camera features are coming to older phones](https://www.androidauthority.com/samsung-one-ui-6-1-camera-features-older-phones-3404887/)
- - [Poll: Will you buy the Galaxy S23 at its reduced price over the S24?](https://www.androidauthority.com/buy-cheaper-galaxy-s23-poll-3404859/)<!-- TECH:END -->
+ - [Dyson&#39;s Futuristic Zone Headphones Are Just $380 Today Only     - CNET](https://www.cnet.com/deals/dysons-futuristic-zone-headphones-are-just-380-today-only/#ftag=CAD590a51e)
+ - [Apple&#39;s seeming sense of entitlement to commissions from third-party iOS apps shows a confrontational stance at odds with seeking to reduce regulatory pressure &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/240118/p15#a240118p15)
+ - [Coco Chanel and Christian Dior are at war in &#39;The New Look&#39; trailer](https://appleinsider.com/articles/24/01/18/coco-chanel-and-christian-dior-are-at-war-in-the-new-look-trailer?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
