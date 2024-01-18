@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch the Xbox Direct livestream for January 2024](https://www.pcgamer.com/how-to-watch-xbox-direct-january-2024)
- - [Wordle today: Hint and answer #943 for Thursday, January 18](https://www.pcgamer.com/wordle-today-answer-943-january-18)
- - [Magic: The Gathering meets crime fiction in Murders at Karlov Manor](https://www.pcgamer.com/magic-the-gathering-meets-crime-fiction-in-murders-at-karlov-manor)<!-- GAME:END -->
+ - [An ex-D&amp;D designer has made a stat block for Elden Ring&#39;s hardest fight, in case you wanted to punish your players with Malenia&#39;s scarlet rot](https://www.pcgamer.com/an-ex-dandd-designer-has-made-a-stat-block-for-elden-rings-hardest-fight-in-case-you-wanted-to-punish-your-players-with-malenias-scarlet-rot)
+ - [Running 8GB of RAM? Now&#39;s the time to upgrade, as Microsoft seems set to make 16GB the minimum for AI PCs and Copilot](https://www.pcgamer.com/running-8gb-of-ram-nows-the-time-to-upgrade-as-microsoft-seems-set-to-make-16gb-the-minimum-for-ai-pcs-and-copilot)
+ - [Star-studded cinematic horror Until Dawn is getting a big screen adaptation, an &#39;R-rated love letter to the horror genre&#39;](https://www.pcgamer.com/star-studded-cinematic-horror-until-dawn-is-getting-a-big-screen-adaptation-an-r-rated-love-letter-to-the-horror-genre)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
