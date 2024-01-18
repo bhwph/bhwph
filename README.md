@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch ban back on, court denies Apple&#39;s appeal to keep it on the market](https://appleinsider.com/articles/24/01/17/apple-watch-ban-back-on-court-denies-apples-appeal-to-keep-it-on-the-market?utm_medium=rss)
- - [Oura responds to surprise launch of Galaxy Ring](https://www.androidauthority.com/oura-responds-to-galaxy-ring-3404718/)
- - [Where to preorder Samsung’s new Galaxy S24, S24 Plus, and S24 Ultra](https://www.theverge.com/24036657/samsung-galaxy-s24-plus-ultra-how-to-buy-preorder-price-release-date)<!-- TECH:END -->
+ - [Samsung unleashes huge savings to celebrate launch of new Galaxy S24](https://appleinsider.com/articles/24/01/18/samsung-unleashes-huge-savings-to-celebrate-launch-of-new-galaxy-s24?utm_medium=rss)
+ - [Samsung Galaxy Ring: First Impressions video     - CNET](https://www.cnet.com/videos/samsung-galaxy-ring-first-impressions/#ftag=CAD590a51e)
+ - [Feeling the Winter Blues? Here&#39;s How to Manage Seasonal Affective Disorder     - CNET](https://www.cnet.com/health/mental/6-ways-to-cope-with-sad/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
