@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [F1 23 is on Game Pass now, so play one of the best sports game story modes](https://www.polygon.com/sub-gems/24041661/f1-23-game-pass-pc-braking-point-2-sports-game-best-story-mode)
- - [The best microSD cards for the Asus ROG Ally](https://www.polygon.com/deals/23710033/asus-rog-ally-handheld-best-microsd-card-fast-uhs-2)
- - [Here are the best microSD cards for Steam Deck OLED](https://www.polygon.com/deals/22938610/steam-deck-best-sd-card-micro-storage-price-speed)<!-- GAME:END -->
+ - [The best accessories for your Steam Deck](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)
+ - [Indiana Jones Game’s Version Of Harrison Ford Is Extremely Hot](https://kotaku.com/indiana-jones-game-great-circle-xbox-harrison-ford-hot-1851177833)
+ - [The developer of strategy city builder Manor Lords expected 14,000 Steam wishlists... and wound up with 2 million](https://www.pcgamer.com/the-developer-of-strategy-city-builder-manor-lords-expected-14000-steam-wishlists-and-wound-up-with-2-million)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
