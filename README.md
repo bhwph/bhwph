@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile confirms it is revising its Price Lock policy starting now](https://www.androidauthority.com/t-mobile-new-price-lock-policy-3404851/)
- - [SEC v. Coinbase: in an opening hearing, Coinbase says that buying crypto on an exchange is more like collecting Beanie Babies than investing in a stock or bond &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/240118/p2#a240118p2)
- - [A Consumer Reports study involving 709 volunteers: a total of 186,892 companies shared the volunteers&#39; data with Facebook, averaging 2,230 companies per person &lpar;Jon Keegan/The Markup&rpar;](http://www.techmeme.com/240118/p1#a240118p1)<!-- TECH:END -->
+ - [Have I Been Pwned adds ~71M email addresses of stolen accounts to its service from the Naz.API dataset, which allegedly contains 1B+ lines of stolen credentials &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240118/p8#a240118p8)
+ - [Meta sent 27M+ reports, or 84% of the tips, of suspected CSAM to the NCMEC in 2022; some prosecutors say the volume of AI-generated tips delays investigations &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/240118/p7#a240118p7)
+ - [Meituan&#39;s stock dips below its 2018 IPO price, closing 85% down from an all-time high; Alibaba and Tencent are down 78% and 60%+ respectively from their peaks &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/240118/p6#a240118p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
