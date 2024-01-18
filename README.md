@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google News surfaces sites that use AI to rip-off other outlets and churn out content; Google says it doesn&#39;t focus on whether articles are by humans or AI &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240118/p25#a240118p25)
- - [BlackRock&#39;s Bitcoin ETF passes $1B in investor inflows, with $358M in inflows on January 17; Fidelity is close behind with about $880M in assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/240118/p24#a240118p24)
- - [Older Verizon unlimited plans are getting a $4 per line, per month price hike](https://www.androidauthority.com/older-verizon-unlimited-plans-price-hike-3405046/)<!-- TECH:END -->
+ - [Zuckerberg says Meta wants to build AGI and open source it, brings Meta&#39;s AI group FAIR closer to generative AI team; Meta will own 340K+ H100 GPUs by 2024 end &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240118/p30#a240118p30)
+ - [New survey shows game developers are very worried about layoffs and AI](https://www.theverge.com/24042070/gdc-state-of-the-video-game-industry-survey-2023-ai)
+ - [Mark Zuckerberg’s new goal is creating artificial general intelligence](https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
