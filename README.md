@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Critical Mission](http://9gag.com/gag/aNwNPZb)
- - 😝 [Mans duty](http://9gag.com/gag/aGEXEmG)
- - 👉 [Her name means `bad` right ?](http://9gag.com/gag/aDYyYxw)<!-- MEMES:END -->
+ - 6️⃣ [Not today](http://9gag.com/gag/anz6OjV)
+ - 😝 [Long post, not sorry!](http://9gag.com/gag/aDYy7PG)
+ - 👉 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)<!-- MEMES:END -->
 
 --- 
 
