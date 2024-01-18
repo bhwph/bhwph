@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She is alright](http://9gag.com/gag/aeQLg55)
- - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
- - 👉 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)<!-- MEMES:END -->
+ - 6️⃣ [Critical Mission](http://9gag.com/gag/aNwNPZb)
+ - 😝 [Mans duty](http://9gag.com/gag/aGEXEmG)
+ - 👉 [Her name means `bad` right ?](http://9gag.com/gag/aDYyYxw)<!-- MEMES:END -->
 
 --- 
 
