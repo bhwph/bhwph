@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring fans continue to embrace their nature by working themselves into a frenzy over a tiny Steam database update](https://www.pcgamer.com/elden-ring-fans-continue-to-embrace-their-nature-by-working-themselves-into-a-frenzy-over-a-tiny-steam-database-update)
- - [Palworld climbs the Twitch charts as streamers discover it contains bird butt grenade launchers, human trafficking, and other bizarro acts of Pal cruelty](https://www.pcgamer.com/palworld-climbs-the-twitch-charts-as-streamers-discover-it-contains-bird-butt-grenade-launchers-human-trafficking-and-other-bizarro-acts-of-pal-cruelty)
- - [How to watch the Xbox Developer Direct 2024](https://www.polygon.com/xbox/24031418/xbox-developer-direct-event-time-when-indiana-jones)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #943 for Thursday, January 18](https://www.pcgamer.com/wordle-today-answer-943-january-18)
+ - [Magic: The Gathering meets crime fiction in Murders at Karlov Manor](https://www.pcgamer.com/magic-the-gathering-meets-crime-fiction-in-murders-at-karlov-manor)
+ - [Elden Ring fans continue to embrace their nature by working themselves into a frenzy over a tiny Steam database update](https://www.pcgamer.com/elden-ring-fans-continue-to-embrace-their-nature-by-working-themselves-into-a-frenzy-over-a-tiny-steam-database-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
