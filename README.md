@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood settles with Massachusetts regulators for $7.5M over claims of using &quot;gamification&quot; strategies to encourage inexperienced users to place risky trades &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240118/p35#a240118p35)
- - [Masimo CEO: Apple users are better off without Apple Watch pulse oximetry](https://appleinsider.com/articles/24/01/18/masimo-ceo-apple-users-are-better-off-without-apple-watch-pulse-oximetry?utm_medium=rss)
- - [Xbox Developer Direct 2024: all the news and trailers](https://www.theverge.com/24041665/xbox-developer-direct-2024-news-announcements-trailers)<!-- TECH:END -->
+ - [Meta’s next project is open source artificial general intelligence](https://www.androidauthority.com/meta-ai-open-source-3405127/)
+ - [World leaders at the 2024 World Economic Forum fret over AI-powered misinformation and job displacement, following excitement about ChatGPT at the 2023 WEF &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240118/p37#a240118p37)
+ - [How to file for a tax extension](https://www.theverge.com/22891931/taxes-file-extension-deadline-irs-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
