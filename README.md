@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
- - 😝 [That wasn&#39;t nice](http://9gag.com/gag/aBdpyXP)
- - 👉 [The team skills and communication](http://9gag.com/gag/a4ovobQ)<!-- MEMES:END -->
+ - 6️⃣ [Wait for it...](http://9gag.com/gag/a9qoqXL)
+ - 😝 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
+ - 👉 [Another 9gager tried to talk to the girl](http://9gag.com/gag/aPg532K)<!-- MEMES:END -->
 
 --- 
 
