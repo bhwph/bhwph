@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zuckerberg says Meta wants to build AGI and open source it, brings Meta&#39;s AI group FAIR closer to generative AI team; Meta will own 340K+ H100 GPUs by 2024 end &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240118/p30#a240118p30)
- - [New survey shows game developers are very worried about layoffs and AI](https://www.theverge.com/24042070/gdc-state-of-the-video-game-industry-survey-2023-ai)
- - [Mark Zuckerberg’s new goal is creating artificial general intelligence](https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview)<!-- TECH:END -->
+ - [Robinhood settles with Massachusetts regulators for $7.5M over claims of using &quot;gamification&quot; strategies to encourage inexperienced users to place risky trades &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240118/p35#a240118p35)
+ - [Masimo CEO: Apple users are better off without Apple Watch pulse oximetry](https://appleinsider.com/articles/24/01/18/masimo-ceo-apple-users-are-better-off-without-apple-watch-pulse-oximetry?utm_medium=rss)
+ - [Xbox Developer Direct 2024: all the news and trailers](https://www.theverge.com/24041665/xbox-developer-direct-2024-news-announcements-trailers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
