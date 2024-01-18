@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to sell Apple Watch with blood oxygen detection removed to bypass ITC import ban](https://appleinsider.com/articles/24/01/18/apple-to-sell-apple-watch-with-blood-oxygen-detection-removed-to-bypass-itc-import-ban?utm_medium=rss)
- - [Google CEO tells employees to expect more job cuts this year](https://www.theverge.com/2024/1/17/24042417/google-layoffs-2024-internal-employee-memo-sundar-pichai)
- - [The American Express 2024: TV Schedule Today, How to Watch, Stream All the PGA Tour Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-american-express-2024-tv-schedule-today-how-to-watch-stream-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple will now sell Watch Series 9 and Ultra 2 without blood oxygen tracking](https://www.androidauthority.com/apple-watch-series-9-ultra-2-blood-oxygen-monitoring-ban-3404843/)
+ - [Bipartisan bills are being introduced across the US to fight AI deepfakes, especially non-consensual AI-generated porn and fake celebrity endorsements &lpar;Janus Rose/VICE&rpar;](http://www.techmeme.com/240117/p43#a240117p43)
+ - [How to preorder the Apple Vision Pro](https://appleinsider.com/articles/24/01/18/how-to-preorder-the-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
