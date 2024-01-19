@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro streaming media landscape is complicated at launch](https://appleinsider.com/articles/24/01/19/apple-vision-pro-streaming-media-landscape-is-complicated-at-launch?utm_medium=rss)
- - [Google says 404 Media&#39;s report claiming Google is &quot;boosting&quot; AI-written article is misleading since the writer sorted news content by date rather than relevance &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/240119/p17#a240119p17)
- - [The Verge is not interested in interviewing you about crypto — but scammers are](https://www.theverge.com/2024/1/19/24043482/the-verge-crypto-calendly-scam-phishing)<!-- TECH:END -->
+ - [Sources: the DOJ and FTC are in discussions over which agency can probe the Microsoft-OpenAI partnership and who can probe AI companies for scraping web content &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240119/p19#a240119p19)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Microsoft is working on a YouTube-like video copyright identifying app](https://www.androidauthority.com/microsoft-video-copyright-tool-3405396/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
