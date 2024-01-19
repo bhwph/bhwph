@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Actor Didn’t Want Master Chief To Get Laid](https://kotaku.com/halo-tv-master-chief-sex-scene-pablo-schreiber-makee-1851179655)
- - [Like a Dragon: Infinite Wealth is making the utterly bizarre decision to lock New Game+ behind a $15 upgrade](https://www.pcgamer.com/like-a-dragon-infinite-wealth-is-making-the-utterly-bizarre-decision-to-lock-new-game-behind-a-dollar15-upgrade)
- - [Hazbin Hotel creator says BoJack Horseman showed her what adult animation could be](https://www.polygon.com/24043306/hazbin-hotel-vivziepop-adult-animation-tv-interview)<!-- GAME:END -->
+ - [Lonestar&#39;s spin on deck-building helps it stand out from the pack](https://www.pcgamer.com/lonestars-spin-on-deck-building-helps-it-stand-out-from-the-pack)
+ - [Like A Dragon: Infinite Wealth’s New Game Plus Seemingly Locked Behind $15 Paywall](https://kotaku.com/like-a-dragon-infinite-wealth-new-game-plus-sega-1851180210)
+ - [How to beat the Azhdaha boss fight in Prince of Persia: The Lost Crown](https://www.polygon.com/guides/24043038/prince-of-persia-the-lost-crown-azhdaha-boss-fight-how-to-beat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
