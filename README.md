@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sometimes the world is fair](http://9gag.com/gag/aGEX8MX)
- - 😝 [Found a reaction meme for you degenerates.](http://9gag.com/gag/aBdpP8z)
- - 👉 [This is the only way i would start exercising](http://9gag.com/gag/adPEnRM)<!-- MEMES:END -->
+ - 6️⃣ [Only if I could pay myself that amount instead!](http://9gag.com/gag/aREnzDq)
+ - 😝 [Have you ever saw scorpion popping](http://9gag.com/gag/aDYyb7x)
+ - 👉 [Scandal in \u00dabeda, Spain, because a town councillor&#39;s family friend won 2 years in a row a `Christmas lottery` of 550\u20ac worth of credit for food. This is Spanish corruption in a nut shell. Just look at the right hand.](http://9gag.com/gag/aWGzLen)<!-- MEMES:END -->
 
 --- 
 
