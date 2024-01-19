@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former and current Twitch employees describe how Twitch never understood what its users wanted, failed to go mainstream, alienated its top creators, and more &lpar;Ryan Broderick/Fast Company&rpar;](http://www.techmeme.com/240118/p42#a240118p42)
- - [Plex is about to launch a store for movies and TV shows](https://www.theverge.com/2024/1/18/24043706/plex-store-movies-tv-shows)
- - [iPhone 16 Capture button could be mechanical, with pressure &amp; touch-sensitive surface](https://appleinsider.com/articles/24/01/19/iphone-16-capture-button-could-be-mechanical-with-pressure-touch-sensitive-surface?utm_medium=rss)<!-- TECH:END -->
+ - [Forta, which combines AI and a training course for parents to offer personalized therapy for autistic children, raised a $55M Series A led by Insight Partners &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/240118/p45#a240118p45)
+ - [Public opinion of Apple Vision Pro is all over the place, with some calling it a glorified dev tool](https://appleinsider.com/articles/24/01/19/public-opinion-of-apple-vision-pro-is-all-over-the-place-with-some-calling-it-a-glorified-dev-tool?utm_medium=rss)
+ - [Dubai-based online business travel service Tumodo raised a $35M pre-seed co-led by MENA-focused angel investors and plans to expand to 25 more countries by 2026 &lpar;Julian Nabil/Forbes Middle East&rpar;](http://www.techmeme.com/240118/p44#a240118p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
