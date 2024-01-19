@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;A huge mistake&#39;: Master Chief actor Pablo Schreiber rails against Halo TV show sex scene, says he &#39;wasn&#39;t listened to&#39; when he argued against it](https://www.pcgamer.com/a-huge-mistake-master-chief-actor-pablo-schreiber-rails-against-halo-tv-show-sex-scene-says-he-wasnt-listened-to-when-he-argued-against-it)
- - [The Evolution of Tekken and PlayStation](https://blog.playstation.com/2024/01/19/the-evolution-of-tekken-and-playstation/)
- - [The Evolution of Tekken and PlayStation](https://blog.playstation.com/2024/01/19/the-evolution-of-tekken-and-playstation/)<!-- GAME:END -->
+ - [Halo Actor Didn’t Want Master Chief To Get Laid](https://kotaku.com/halo-tv-master-chief-sex-scene-pablo-schreiber-makee-1851179655)
+ - [Like a Dragon: Infinite Wealth is making the utterly bizarre decision to lock New Game+ behind a $15 upgrade](https://www.pcgamer.com/like-a-dragon-infinite-wealth-is-making-the-utterly-bizarre-decision-to-lock-new-game-behind-a-dollar15-upgrade)
+ - [Hazbin Hotel creator says BoJack Horseman showed her what adult animation could be](https://www.polygon.com/24043306/hazbin-hotel-vivziepop-adult-animation-tv-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
