@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld type chart for element strengths and weaknesses](https://www.polygon.com/guides/24043450/palworld-type-chart-element-strengths-weakenesses)
- - [10 beginner’s tips to know before starting Palworld](https://www.polygon.com/guides/24043125/palworld-beginners-guide-tips-tricks)
- - [Palworld Rayne Syndicate Tower boss &lpar;Zoe and Grizzbolt&rpar; guide](https://www.polygon.com/guides/24042982/palworld-rayne-syndicate-tower-boss-zoe-grizzbolt-how-to-beat)<!-- GAME:END -->
+ - [All Genshin Impact codes from the 4.4 livestream](https://www.pcgamer.com/genshin-impact-codes-4-4-livestream)
+ - [Laptop makers just aren&#39;t interested in discrete Radeon GPUs and I really want AMD to do something about that, even though it won&#39;t](https://www.pcgamer.com/laptop-makers-just-arent-interested-in-discrete-radeon-gpus-and-i-really-want-amd-to-do-something-about-that-even-though-it-wont)
+ - [How to evolve Primeape and get Annihilape in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24043946/get-annihilape-how-to-evolve-primeape)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
