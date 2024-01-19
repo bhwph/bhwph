@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy Tab S9 is just $1 off its record-low price](https://www.androidauthority.com/deal-samsung-galaxy-tab-s9-3405333/)
- - [&#39;Making Apple Vision Pro&#39; video delves into precise aluminum cutting &amp; assembly](https://appleinsider.com/articles/24/01/19/making-apple-vision-pro-video-delves-into-precise-aluminum-cutting-assembly?utm_medium=rss)
- - [Apple Vision Pro preorders have started online, deliveries begin Feb. 2](https://appleinsider.com/articles/24/01/19/apple-vision-pro-preorders-have-started-online-deliveries-begin-feb-2?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro streaming media landscape is complicated at launch](https://appleinsider.com/articles/24/01/19/apple-vision-pro-streaming-media-landscape-is-complicated-at-launch?utm_medium=rss)
+ - [Google says 404 Media&#39;s report claiming Google is &quot;boosting&quot; AI-written article is misleading since the writer sorted news content by date rather than relevance &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/240119/p17#a240119p17)
+ - [The Verge is not interested in interviewing you about crypto — but scammers are](https://www.theverge.com/2024/1/19/24043482/the-verge-crypto-calendly-scam-phishing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
