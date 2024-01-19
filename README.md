@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some video podcasts are using AI-generated product placements from a company called Rembrand to supplement their typical host-read ads &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240119/p4#a240119p4)
- - [Samsung Galaxy S20 Ultra vs Galaxy S24 Ultra: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s20-ultra-vs-galaxy-s24-ultra-3400834/)
- - [Netflix’s app won’t work on the Vision Pro](https://www.theverge.com/2024/1/17/24042179/netflix-apple-vision-pro-app)<!-- TECH:END -->
+ - [X for Android finally supports audio/video calls](https://www.androidauthority.com/x-android-audio-video-calls-3405299/)
+ - [X rolls out audio and video calling to Android following the October 2023 iOS launch; all users can receive calls but only Premium subscribers can place them &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240119/p7#a240119p7)
+ - [Inequality Is a Health Risk—and It’s Getting Worse](https://www.wired.com/story/inequality-is-a-health-risk-and-its-getting-worse/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
