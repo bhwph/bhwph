@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Smooth](http://9gag.com/gag/aBdp6bD)
- - 😝 [Live Broadcast in real life](http://9gag.com/gag/aREnZoy)
- - 👉 [Oh no](http://9gag.com/gag/aA0jKn0)<!-- MEMES:END -->
+ - 6️⃣ [What could possibly be the reason you can leave skiing and golf equipment worth thousands of dollars alone and have it not be stolen?](http://9gag.com/gag/az2ndLj)
+ - 😝 [Meanwhile in London](http://9gag.com/gag/aDYy7rG)
+ - 👉 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)<!-- MEMES:END -->
 
 --- 
 
