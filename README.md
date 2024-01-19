@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only if I could pay myself that amount instead!](http://9gag.com/gag/aREnzDq)
- - 😝 [Have you ever saw scorpion popping](http://9gag.com/gag/aDYyb7x)
- - 👉 [Scandal in \u00dabeda, Spain, because a town councillor&#39;s family friend won 2 years in a row a `Christmas lottery` of 550\u20ac worth of credit for food. This is Spanish corruption in a nut shell. Just look at the right hand.](http://9gag.com/gag/aWGzLen)<!-- MEMES:END -->
+ - 6️⃣ [I think I saw uncle](http://9gag.com/gag/aXnB4qg)
+ - 😝 [We all need a friend like him.](http://9gag.com/gag/ajVpxqg)
+ - 👉 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)<!-- MEMES:END -->
 
 --- 
 
