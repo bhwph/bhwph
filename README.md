@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best accessories for your Steam Deck](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)
- - [Indiana Jones Game’s Version Of Harrison Ford Is Extremely Hot](https://kotaku.com/indiana-jones-game-great-circle-xbox-harrison-ford-hot-1851177833)
- - [The developer of strategy city builder Manor Lords expected 14,000 Steam wishlists... and wound up with 2 million](https://www.pcgamer.com/the-developer-of-strategy-city-builder-manor-lords-expected-14000-steam-wishlists-and-wound-up-with-2-million)<!-- GAME:END -->
+ - [I still feel like I barely know anything about Avowed, but it&#39;s looking like a rare game that nails the wizard fantasy](https://www.pcgamer.com/i-still-feel-like-i-barely-know-anything-about-avowed-but-its-looking-like-a-rare-game-that-nails-the-wizard-fantasy)
+ - [The 5 most ambitious Fallout mods in development right now](https://www.pcgamer.com/upcoming-fallout-mods)
+ - [18 Days Into 2024 And 3,100+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
