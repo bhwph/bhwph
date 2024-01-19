@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s next project is open source artificial general intelligence](https://www.androidauthority.com/meta-ai-open-source-3405127/)
- - [World leaders at the 2024 World Economic Forum fret over AI-powered misinformation and job displacement, following excitement about ChatGPT at the 2023 WEF &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240118/p37#a240118p37)
- - [How to file for a tax extension](https://www.theverge.com/22891931/taxes-file-extension-deadline-irs-how-to)<!-- TECH:END -->
+ - [TikTok is testing AI Song, a tool powered by the LLM Bloom that generates songs from text prompts and allows users to toggle the song&#39;s genre &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240118/p41#a240118p41)
+ - [Apple executives envision doctors wearing Apple Vision Pro while performing surgery](https://appleinsider.com/articles/24/01/19/apple-executives-envision-doctors-wearing-apple-vision-pro-while-performing-surgery?utm_medium=rss)
+ - [Everything You Need to Know About Your Solar Battery&#39;s Warranty     - CNET](https://www.cnet.com/home/energy-and-utilities/everything-you-need-to-know-about-your-solar-batterys-warranty/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
