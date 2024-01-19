@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forta, which combines AI and a training course for parents to offer personalized therapy for autistic children, raised a $55M Series A led by Insight Partners &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/240118/p45#a240118p45)
- - [Public opinion of Apple Vision Pro is all over the place, with some calling it a glorified dev tool](https://appleinsider.com/articles/24/01/19/public-opinion-of-apple-vision-pro-is-all-over-the-place-with-some-calling-it-a-glorified-dev-tool?utm_medium=rss)
- - [Dubai-based online business travel service Tumodo raised a $35M pre-seed co-led by MENA-focused angel investors and plans to expand to 25 more countries by 2026 &lpar;Julian Nabil/Forbes Middle East&rpar;](http://www.techmeme.com/240118/p44#a240118p44)<!-- TECH:END -->
+ - [Plex will let you rent and buy movies and TV shows starting next month](https://www.androidauthority.com/plex-store-launch-2024-3405170/)
+ - [Analysis: the total number of US startups with a $1B+ valuation grew 14x from 39 in 2013 to 532 in 2023, 78% today are B2B, 93% are privately valued, and more &lpar;TechCrunch&rpar;](http://www.techmeme.com/240119/p1#a240119p1)
+ - [Samsung is giving all Galaxy phone users a chance to win a free Galaxy Watch 6](https://www.androidauthority.com/samsung-wallet-sweepstakes-free-galaxy-watch-6-3405167/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
