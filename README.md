@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the DOJ and FTC are in discussions over which agency can probe the Microsoft-OpenAI partnership and who can probe AI companies for scraping web content &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240119/p19#a240119p19)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Microsoft is working on a YouTube-like video copyright identifying app](https://www.androidauthority.com/microsoft-video-copyright-tool-3405396/)<!-- TECH:END -->
+ - [AMD says it removed the country of diffusion labels from all new CPUs and APUs, after criticism that it removed the &quot;Diffused in Taiwan&quot; labels to appease China &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240119/p20#a240119p20)
+ - [Samsung’s smart ring might signal the start of a new wearable era](https://www.theverge.com/2024/1/19/24041922/samsung-galaxy-ring-smart-ring-wearables)
+ - [Apple Vision Pro: All the Apps That Will and Won&#39;t Run on the Mixed Reality Headset     - CNET](https://www.cnet.com/tech/computing/apple-vision-pro-all-the-apps-that-will-and-wont-run-on-the-mixed-reality-headset/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
