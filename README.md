@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and others unveil first Vision Pro accessories](https://appleinsider.com/articles/24/01/19/apple-and-others-unveil-first-vision-pro-accessories?utm_medium=rss)
- - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
- - [A Glimpse at the Future of Streaming in 4 Mind-Blowing Stats](https://www.wired.com/story/a-glimpse-at-the-future-of-streaming-in-4-mind-blowing-stats/)<!-- TECH:END -->
+ - [The Samsung Galaxy Tab S9 is just $1 off its record-low price](https://www.androidauthority.com/deal-samsung-galaxy-tab-s9-3405333/)
+ - [&#39;Making Apple Vision Pro&#39; video delves into precise aluminum cutting &amp; assembly](https://appleinsider.com/articles/24/01/19/making-apple-vision-pro-video-delves-into-precise-aluminum-cutting-assembly?utm_medium=rss)
+ - [Apple Vision Pro preorders have started online, deliveries begin Feb. 2](https://appleinsider.com/articles/24/01/19/apple-vision-pro-preorders-have-started-online-deliveries-begin-feb-2?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
