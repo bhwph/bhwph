@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X for Android finally supports audio/video calls](https://www.androidauthority.com/x-android-audio-video-calls-3405299/)
- - [X rolls out audio and video calling to Android following the October 2023 iOS launch; all users can receive calls but only Premium subscribers can place them &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240119/p7#a240119p7)
- - [Inequality Is a Health Risk—and It’s Getting Worse](https://www.wired.com/story/inequality-is-a-health-risk-and-its-getting-worse/)<!-- TECH:END -->
+ - [Apple and others unveil first Vision Pro accessories](https://appleinsider.com/articles/24/01/19/apple-and-others-unveil-first-vision-pro-accessories?utm_medium=rss)
+ - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
+ - [A Glimpse at the Future of Streaming in 4 Mind-Blowing Stats](https://www.wired.com/story/a-glimpse-at-the-future-of-streaming-in-4-mind-blowing-stats/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
