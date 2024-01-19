@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We Know About Xbox’s Big Indiana Jones Game](https://kotaku.com/indiana-jones-great-circle-release-date-xbox-game-pass-1851180750)
- - [Xbox Insider Release Notes – Alpha &lpar;2402.240117-2200&rpar;](https://news.xbox.com/en-us/2024/01/19/xbox-insider-release-notes-alpha-2402-240117-2200/)
- - [The Top 10 Most-Played Games On Steam Deck: December 2023 Edition](https://kotaku.com/steam-deck-valve-december-2023-baldurs-gate-3-cyberpunk-1851176684)<!-- GAME:END -->
+ - [AI Video Game Characters Seem As Soulless As You&#39;d Expect](https://kotaku.com/nvidia-convai-ai-video-game-npc-characters-tech-demo-1851181329)
+ - [Absurdly rare Team Fortress 2 hat called &#39;The Crone&#39;s Dome&#39; sells for a record-setting $18,000 worth of keys because &#39;it&#39;s one of a kind and will not ever be unboxed again&#39;](https://www.pcgamer.com/absurdly-rare-team-fortress-2-hat-called-the-crones-dome-sells-for-a-record-setting-dollar18000-worth-of-keys-because-its-one-of-a-kind-and-will-not-ever-be-unboxed-again)
+ - [How to play Palworld multiplayer with friends](https://www.polygon.com/guides/24044099/palworld-multiplayer-crossplay-server-co-op)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
