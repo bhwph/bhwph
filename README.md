@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Genshin Impact codes from the 4.4 livestream](https://www.pcgamer.com/genshin-impact-codes-4-4-livestream)
- - [Laptop makers just aren&#39;t interested in discrete Radeon GPUs and I really want AMD to do something about that, even though it won&#39;t](https://www.pcgamer.com/laptop-makers-just-arent-interested-in-discrete-radeon-gpus-and-i-really-want-amd-to-do-something-about-that-even-though-it-wont)
- - [How to evolve Primeape and get Annihilape in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24043946/get-annihilape-how-to-evolve-primeape)<!-- GAME:END -->
+ - [&#39;A huge mistake&#39;: Master Chief actor Pablo Schreiber rails against Halo TV show sex scene, says he &#39;wasn&#39;t listened to&#39; when he argued against it](https://www.pcgamer.com/a-huge-mistake-master-chief-actor-pablo-schreiber-rails-against-halo-tv-show-sex-scene-says-he-wasnt-listened-to-when-he-argued-against-it)
+ - [The Evolution of Tekken and PlayStation](https://blog.playstation.com/2024/01/19/the-evolution-of-tekken-and-playstation/)
+ - [The Evolution of Tekken and PlayStation](https://blog.playstation.com/2024/01/19/the-evolution-of-tekken-and-playstation/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
