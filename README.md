@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lonestar&#39;s spin on deck-building helps it stand out from the pack](https://www.pcgamer.com/lonestars-spin-on-deck-building-helps-it-stand-out-from-the-pack)
- - [Like A Dragon: Infinite Wealth’s New Game Plus Seemingly Locked Behind $15 Paywall](https://kotaku.com/like-a-dragon-infinite-wealth-new-game-plus-sega-1851180210)
- - [How to beat the Azhdaha boss fight in Prince of Persia: The Lost Crown](https://www.polygon.com/guides/24043038/prince-of-persia-the-lost-crown-azhdaha-boss-fight-how-to-beat)<!-- GAME:END -->
+ - [Everything We Know About Xbox’s Big Indiana Jones Game](https://kotaku.com/indiana-jones-great-circle-release-date-xbox-game-pass-1851180750)
+ - [Xbox Insider Release Notes – Alpha &lpar;2402.240117-2200&rpar;](https://news.xbox.com/en-us/2024/01/19/xbox-insider-release-notes-alpha-2402-240117-2200/)
+ - [The Top 10 Most-Played Games On Steam Deck: December 2023 Edition](https://kotaku.com/steam-deck-valve-december-2023-baldurs-gate-3-cyberpunk-1851176684)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
