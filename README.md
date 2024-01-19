@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meanwhile in London](http://9gag.com/gag/aDYy7rG)
- - 😝 [Vote for a clown that got into money....](http://9gag.com/gag/aWGznKA)
- - 👉 [Scandal in \u00dabeda, Spain, because a town councillor&#39;s family friend won 2 years in a row a `Christmas lottery` of 550\u20ac worth of credit for food. This is Spanish corruption in a nut shell. Just look at the right hand.](http://9gag.com/gag/aWGzLen)<!-- MEMES:END -->
+ - 6️⃣ [Smooth](http://9gag.com/gag/aBdp6bD)
+ - 😝 [Live Broadcast in real life](http://9gag.com/gag/aREnZoy)
+ - 👉 [Oh no](http://9gag.com/gag/aA0jKn0)<!-- MEMES:END -->
 
 --- 
 
