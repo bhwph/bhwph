@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Really big family!](http://9gag.com/gag/anz620b)
- - 😝 [Themfoys](http://9gag.com/gag/amA3Vg6)
- - 👉 [See the comments](http://9gag.com/gag/az2nGEq)<!-- MEMES:END -->
+ - 6️⃣ [See the comments](http://9gag.com/gag/az2nGEq)
+ - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
+ - 👉 [Sure](http://9gag.com/gag/aDYyZKx)<!-- MEMES:END -->
 
 --- 
 
