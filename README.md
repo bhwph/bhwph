@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD says it removed the country of diffusion labels from all new CPUs and APUs, after criticism that it removed the &quot;Diffused in Taiwan&quot; labels to appease China &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240119/p20#a240119p20)
- - [Samsung’s smart ring might signal the start of a new wearable era](https://www.theverge.com/2024/1/19/24041922/samsung-galaxy-ring-smart-ring-wearables)
- - [Apple Vision Pro: All the Apps That Will and Won&#39;t Run on the Mixed Reality Headset     - CNET](https://www.cnet.com/tech/computing/apple-vision-pro-all-the-apps-that-will-and-wont-run-on-the-mixed-reality-headset/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Elon Musk&#39;s xAI has secured $500M in commitments from investors toward a $1B goal and is aiming for a valuation of $15B to $20B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240119/p23#a240119p23)
+ - [In 2024, Biosensors Are Becoming More Accessible: What It Means for You     - CNET](https://www.cnet.com/health/medical/in-2024-biosensors-are-becoming-more-accessible-what-it-means-for-you/#ftag=CAD590a51e)
+ - [IRS 1099-K Delay: What PayPal, Venmo and Cash App Users Should Know for Tax Season     - CNET](https://www.cnet.com/personal-finance/taxes/irs-1099-k-delay-what-paypal-venmo-and-cash-app-users-should-know-for-tax-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
