@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ten years ago I wouldn&#39;t have believed you if you told me League of Legends would one day have a bafflingly adorable &#39;crafting RPG&#39; spinoff](https://www.pcgamer.com/ten-years-ago-i-wouldnt-have-believed-you-if-you-told-me-league-of-legends-would-one-day-have-a-bafflingly-adorable-crafting-rpg-spinoff)
  - [One More Shot’s director on trying to get an entire action movie through airport security](https://www.polygon.com/24042893/one-more-shot-director-james-nunn-interview-scott-adkins)
- - [If you can&#39;t play the Resident Evil 4 remake in VR, this first person mod might be the next best thing](https://www.pcgamer.com/if-you-cant-play-the-resident-evil-4-remake-in-vr-this-first-person-mod-might-be-the-next-best-thing)
- - [Baldur’s Gate 3 fans are still arguing about Astarion because he’s that well written](https://www.polygon.com/24044421/baldurs-gate-3-astarion-debates-ascend-memes)<!-- GAME:END -->
+ - [If you can&#39;t play the Resident Evil 4 remake in VR, this first person mod might be the next best thing](https://www.pcgamer.com/if-you-cant-play-the-resident-evil-4-remake-in-vr-this-first-person-mod-might-be-the-next-best-thing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
