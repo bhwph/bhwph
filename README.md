@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reporter mistakes mountain lion as dog](http://9gag.com/gag/ajVpB5G)
- - 😝 [North Korean pig](http://9gag.com/gag/agoW8gn)
- - 👉 [Current Year Supa Powa. What a 3rd rate.](http://9gag.com/gag/ajVpOx1)<!-- MEMES:END -->
+ - 6️⃣ [If only there was a pattern](http://9gag.com/gag/aKER9K3)
+ - 😝 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
+ - 👉 [She&#39;s not built different, she&#39;s built perfectly](http://9gag.com/gag/a8qZwYd)<!-- MEMES:END -->
 
 --- 
 
