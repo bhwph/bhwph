@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix&#39;s CEO suggests the company makes too many mid-budget games, but that&#39;s exactly where it&#39;s doing its best work](https://www.pcgamer.com/square-enixs-ceo-suggests-the-company-makes-too-many-mid-budget-games-but-thats-exactly-where-its-doing-its-best-work)
- - [Microsoft says &#39;Russian state-sponsored&#39; hackers gained access to &#39;a very small percentage of Microsoft corporate email accounts&#39;](https://www.pcgamer.com/microsoft-says-russian-state-sponsored-hackers-gained-access-to-a-very-small-percentage-of-microsoft-corporate-email-accounts)
- - [Yes, the &#39;Great Circle&#39; in the new Indiana Jones game is a real thing: Let&#39;s go down this conspiracy rabbit hole together](https://www.pcgamer.com/yes-the-great-circle-in-the-new-indiana-jones-game-is-a-real-thing-lets-go-down-this-conspiracy-rabbit-hole-together)<!-- GAME:END -->
+ - [Halo Infinite is done with seasons, will get smaller &#39;content updates&#39; from now on](https://www.pcgamer.com/halo-infinite-is-done-with-seasons-will-get-smaller-content-updates-from-now-on)
+ - [The upcoming prequel to 1999 Dreamcast game Slave Zero just got its own prequel, and it&#39;s a free Quake mod](https://www.pcgamer.com/the-upcoming-prequel-to-1999-dreamcast-game-slave-zero-just-got-its-own-prequel-and-its-a-free-quake-mod)
+ - [Square Enix&#39;s CEO suggests the company makes too many mid-budget games, but that&#39;s exactly where it&#39;s doing its best work](https://www.pcgamer.com/square-enixs-ceo-suggests-the-company-makes-too-many-mid-budget-games-but-thats-exactly-where-its-doing-its-best-work)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
