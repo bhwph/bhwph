@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple cuts back AirPlay streaming resolution from Apple Vision Pro&#39;s displays](https://appleinsider.com/articles/24/01/20/apkle-cuts-back-airplay-streaming-resolution-from-apple-vision-pros-displays?utm_medium=rss)
  - [Dave Mills, who created the Network Time Protocol in 1985 to synchronize time across different computer systems and networks, died at age 85 on January 17 &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240119/p24#a240119p24)
- - [Vision Pro cover glass repairs will set you back $799 without AppleCare Plus](https://www.theverge.com/2024/1/19/24044605/apple-vision-pro-repair-price-applecare-plus)
- - [Best Over-the-Counter Eye Drops of 2024     - CNET](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vision Pro cover glass repairs will set you back $799 without AppleCare Plus](https://www.theverge.com/2024/1/19/24044605/apple-vision-pro-repair-price-applecare-plus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
