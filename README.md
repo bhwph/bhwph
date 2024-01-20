@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Baldur’s Gate 3 fans are still arguing about Astarion because he’s that well written](https://www.polygon.com/24044421/baldurs-gate-3-astarion-debates-ascend-memes)
  - [FF7 Rebirth, TLOU 2, And More Of The Week&#39;s Essential Game Tips](https://kotaku.com/ff7-rebirth-tlou-2-and-more-of-the-weeks-essential-ga-1851180101)
- - [Indiana Jones, TLOU 2, And The Week&#39;s Hottest Gaming Takes](https://kotaku.com/kotaku-opinion-reviews-indiana-jones-tlou-2-persona-3-1851180102)
- - [The best sci-fi movies to watch on Netflix this January](https://www.polygon.com/what-to-watch/2024/1/20/24040599/best-sci-fi-movies-watch-netflix-january-2024)<!-- GAME:END -->
+ - [Indiana Jones, TLOU 2, And The Week&#39;s Hottest Gaming Takes](https://kotaku.com/kotaku-opinion-reviews-indiana-jones-tlou-2-persona-3-1851180102)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
