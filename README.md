@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Sandwiched](http://9gag.com/gag/ay2G1xV)
- - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
- - 👉 [Sure](http://9gag.com/gag/aDYyZKx)<!-- MEMES:END -->
+ - 😝 [2020 Beirut blast](http://9gag.com/gag/avQNR7E)
+ - 👉 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)<!-- MEMES:END -->
 
 --- 
 
