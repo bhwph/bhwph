@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Understanding spatial design for visionOS](https://appleinsider.com/inside/visionos/tips/understanding-spatial-design-for-visionos?utm_medium=rss)
- - [Poll: What do you think of Samsung’s decision to switch to a 5x camera?](https://www.androidauthority.com/samsung-galaxy-s24-ultra-5x-10x-camera-poll-3405256/)
- - [Security News This Week: US Agencies Urged to Patch Ivanti VPNs That Are Actively Being Hacked](https://www.wired.com/story/cisa-emergency-directive-ivanti-vpn-patch-security-roundup/)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-518-3405426/)
+ - [12.9-inch iPad Air CAD drawing alludes to new camera bump](https://appleinsider.com/articles/24/01/20/129-inch-ipad-air-cad-drawing-alludes-to-new-camera-bump?utm_medium=rss)
+ - [The Vision Pro’s first killer app is the web, whether Apple likes it or not](https://www.theverge.com/2024/1/20/24044343/apple-vision-pro-safari-killer-app)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
