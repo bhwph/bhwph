@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Audi owners during those 5 days a year when there is snow](http://9gag.com/gag/amA3xL2)
- - 😝 [Naughty boy](http://9gag.com/gag/aPg58rG)
- - 👉 [We all need a friend like him.](http://9gag.com/gag/ajVpxqg)<!-- MEMES:END -->
+ - 6️⃣ [See the comments](http://9gag.com/gag/az2nGEq)
+ - 😝 [Vote for a clown that got into money....](http://9gag.com/gag/aWGznKA)
+ - 👉 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)<!-- MEMES:END -->
 
 --- 
 
