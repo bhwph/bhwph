@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-518-3405426/)
- - [12.9-inch iPad Air CAD drawing alludes to new camera bump](https://appleinsider.com/articles/24/01/20/129-inch-ipad-air-cad-drawing-alludes-to-new-camera-bump?utm_medium=rss)
- - [The Vision Pro’s first killer app is the web, whether Apple likes it or not](https://www.theverge.com/2024/1/20/24044343/apple-vision-pro-safari-killer-app)<!-- TECH:END -->
+ - [Poll: Is the Galaxy S24’s Exynos processor a deal-breaker for you?](https://www.androidauthority.com/galaxy-s24-exynos-chip-deal-breaker-poll-3405267/)
+ - [Fujitsu Bugs That Sent Innocent People to Prison Were Known ‘From the Start’](https://www.wired.com/uk-post-office-scandal-fujitsu-bugs-known/)
+ - [How Long Will It Take to Get Your 2024 Tax Refund? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/how-soon-after-filing-your-taxes-will-your-tax-refund-arrive-find-out-here/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
