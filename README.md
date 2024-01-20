@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [See the comments](http://9gag.com/gag/az2nGEq)
- - 😝 [Vote for a clown that got into money....](http://9gag.com/gag/aWGznKA)
- - 👉 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)<!-- MEMES:END -->
+ - 6️⃣ [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
+ - 😝 [Siberian Tiger and Bengal Tiger. Who&#39;s the boss now?](http://9gag.com/gag/aPg5oZQ)
+ - 👉 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)<!-- MEMES:END -->
 
 --- 
 
