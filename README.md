@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 fans are still arguing about Astarion because he’s that well written](https://www.polygon.com/24044421/baldurs-gate-3-astarion-debates-ascend-memes)
- - [FF7 Rebirth, TLOU 2, And More Of The Week&#39;s Essential Game Tips](https://kotaku.com/ff7-rebirth-tlou-2-and-more-of-the-weeks-essential-ga-1851180101)
- - [Indiana Jones, TLOU 2, And The Week&#39;s Hottest Gaming Takes](https://kotaku.com/kotaku-opinion-reviews-indiana-jones-tlou-2-persona-3-1851180102)<!-- GAME:END -->
+ - [One More Shot’s director on trying to get an entire action movie through airport security](https://www.polygon.com/24042893/one-more-shot-director-james-nunn-interview-scott-adkins)
+ - [If you can&#39;t play the Resident Evil 4 remake in VR, this first person mod might be the next best thing](https://www.pcgamer.com/if-you-cant-play-the-resident-evil-4-remake-in-vr-this-first-person-mod-might-be-the-next-best-thing)
+ - [Baldur’s Gate 3 fans are still arguing about Astarion because he’s that well written](https://www.polygon.com/24044421/baldurs-gate-3-astarion-debates-ascend-memes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
