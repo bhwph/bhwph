@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #945 for Saturday, January 20](https://www.pcgamer.com/wordle-today-answer-945-january-20)
- - [Halo Infinite is done with seasons, will get smaller &#39;content updates&#39; from now on](https://www.pcgamer.com/halo-infinite-is-done-with-seasons-will-get-smaller-content-updates-from-now-on)
- - [The upcoming prequel to 1999 Dreamcast game Slave Zero just got its own prequel, and it&#39;s a free Quake mod](https://www.pcgamer.com/the-upcoming-prequel-to-1999-dreamcast-game-slave-zero-just-got-its-own-prequel-and-its-a-free-quake-mod)<!-- GAME:END -->
+ - [The best sci-fi movies to watch on Netflix this January](https://www.polygon.com/what-to-watch/2024/1/20/24040599/best-sci-fi-movies-watch-netflix-january-2024)
+ - [PSA: Final Fantasy 7 Rebirth pre-orders include Remake Intergrade for free](https://www.polygon.com/deals/24044098/best-gaming-deals-final-fantasy-7-remake-humble-bundle-genshin-impact)
+ - [Wordle today: Hint and answer #945 for Saturday, January 20](https://www.pcgamer.com/wordle-today-answer-945-january-20)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
