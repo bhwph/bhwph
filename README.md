@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Smart Home Products for 2024 That Aren&#39;t Made by Amazon or Google     - CNET](https://www.cnet.com/home/smart-home/best-smart-home-products-not-amazon-or-google/#ftag=CAD590a51e)
- - [Kazakhstan-based mobile app provider Kaspi.kz raised $1B+ in its US IPO, with the stock rising 4.3% on its debut, giving the company a market cap of ~$18B &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240120/p4#a240120p4)
- - [Stability AI releases Stable LM 2 1.6B, which the company says outperforms other small AI language models on most benchmarks, including Microsoft&#39;s Phi-2 &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240120/p3#a240120p3)<!-- TECH:END -->
+ - [13 Best Deals: Stand Mixers, Blenders, and More](https://www.wired.com/story/weekend-deals-jan-20-2024/)
+ - [The Stark Realities of Posting Your Layoff on TikTok](https://www.wired.com/story/the-stark-realities-of-posting-your-layoff-on-tiktok/)
+ - [How AI has been helping criminals who use deepfakes and voice cloning for financial scams, forcing banks and fintechs to invest in AI to counter fraud &lpar;Siddharth Venkataramakrishnan/Financial ...&rpar;](http://www.techmeme.com/240120/p5#a240120p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
