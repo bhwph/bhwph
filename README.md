@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Is the Galaxy S24’s Exynos processor a deal-breaker for you?](https://www.androidauthority.com/galaxy-s24-exynos-chip-deal-breaker-poll-3405267/)
- - [Fujitsu Bugs That Sent Innocent People to Prison Were Known ‘From the Start’](https://www.wired.com/uk-post-office-scandal-fujitsu-bugs-known/)
- - [How Long Will It Take to Get Your 2024 Tax Refund? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/how-soon-after-filing-your-taxes-will-your-tax-refund-arrive-find-out-here/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the Mac&#39;s evolution as it turns 40 and interviews with Alan Dey and other Apple executives about Mac&#39;s future, its influence on Vision Pro, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240120/p9#a240120p9)
+ - [Sorry, Google: After Assistant’s chaotic evolution, I can’t believe in Bard](https://www.androidauthority.com/cant-believe-bard-3405298/)
+ - [Take to the Skies With $40 Off the DJI Mini 2 SE Drone     - CNET](https://www.cnet.com/deals/take-to-the-skies-with-40-dollars-off-the-dji-mini-2-se-drone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
