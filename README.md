@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sandwiched](http://9gag.com/gag/ay2G1xV)
- - 😝 [2020 Beirut blast](http://9gag.com/gag/avQNR7E)
- - 👉 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)<!-- MEMES:END -->
+ - 6️⃣ [Reporter mistakes mountain lion as dog](http://9gag.com/gag/ajVpB5G)
+ - 😝 [North Korean pig](http://9gag.com/gag/agoW8gn)
+ - 👉 [Current Year Supa Powa. What a 3rd rate.](http://9gag.com/gag/ajVpOx1)<!-- MEMES:END -->
 
 --- 
 
