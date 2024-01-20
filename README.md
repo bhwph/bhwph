@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Mac&#39;s evolution as it turns 40 and interviews with Alan Dey and other Apple executives about Mac&#39;s future, its influence on Vision Pro, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240120/p9#a240120p9)
- - [Sorry, Google: After Assistant’s chaotic evolution, I can’t believe in Bard](https://www.androidauthority.com/cant-believe-bard-3405298/)
- - [Take to the Skies With $40 Off the DJI Mini 2 SE Drone     - CNET](https://www.cnet.com/deals/take-to-the-skies-with-40-dollars-off-the-dji-mini-2-se-drone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The latest Apple Watch SE is matching its lowest price to date this weekend](https://www.theverge.com/2024/1/20/24042338/apple-watch-se-8bitdo-pro-2-controller-surface-pro-9-deal-sale)
+ - [An interview with crypto skeptic James Block, whose damning critique of Signature Bank on his blog, Dirty Bubble Media, became the best short call of 2023 &lpar;Sam Potter/Bloomberg&rpar;](http://www.techmeme.com/240120/p10#a240120p10)
+ - [How to create custom voice commands for iPhone](https://appleinsider.com/inside/iphone/tips/how-to-create-custom-voice-commands-for-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
