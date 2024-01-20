@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #945 for Saturday, January 20](https://www.pcgamer.com/wordle-today-answer-945-january-20)
  - [Halo Infinite is done with seasons, will get smaller &#39;content updates&#39; from now on](https://www.pcgamer.com/halo-infinite-is-done-with-seasons-will-get-smaller-content-updates-from-now-on)
- - [The upcoming prequel to 1999 Dreamcast game Slave Zero just got its own prequel, and it&#39;s a free Quake mod](https://www.pcgamer.com/the-upcoming-prequel-to-1999-dreamcast-game-slave-zero-just-got-its-own-prequel-and-its-a-free-quake-mod)
- - [Square Enix&#39;s CEO suggests the company makes too many mid-budget games, but that&#39;s exactly where it&#39;s doing its best work](https://www.pcgamer.com/square-enixs-ceo-suggests-the-company-makes-too-many-mid-budget-games-but-thats-exactly-where-its-doing-its-best-work)<!-- GAME:END -->
+ - [The upcoming prequel to 1999 Dreamcast game Slave Zero just got its own prequel, and it&#39;s a free Quake mod](https://www.pcgamer.com/the-upcoming-prequel-to-1999-dreamcast-game-slave-zero-just-got-its-own-prequel-and-its-a-free-quake-mod)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
