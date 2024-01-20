@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi movies to watch on Netflix this January](https://www.polygon.com/what-to-watch/2024/1/20/24040599/best-sci-fi-movies-watch-netflix-january-2024)
- - [PSA: Final Fantasy 7 Rebirth pre-orders include Remake Intergrade for free](https://www.polygon.com/deals/24044098/best-gaming-deals-final-fantasy-7-remake-humble-bundle-genshin-impact)
- - [Wordle today: Hint and answer #945 for Saturday, January 20](https://www.pcgamer.com/wordle-today-answer-945-january-20)<!-- GAME:END -->
+ - [FF7 Rebirth, TLOU 2, And More Of The Week&#39;s Essential Game Tips](https://kotaku.com/ff7-rebirth-tlou-2-and-more-of-the-weeks-essential-ga-1851180101)
+ - [Indiana Jones, TLOU 2, And The Week&#39;s Hottest Gaming Takes](https://kotaku.com/kotaku-opinion-reviews-indiana-jones-tlou-2-persona-3-1851180102)
+ - [The best sci-fi movies to watch on Netflix this January](https://www.polygon.com/what-to-watch/2024/1/20/24040599/best-sci-fi-movies-watch-netflix-january-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
