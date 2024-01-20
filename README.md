@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple cuts back AirPlay streaming resolution from Apple Vision Pro&#39;s displays](https://appleinsider.com/articles/24/01/20/apkle-cuts-back-airplay-streaming-resolution-from-apple-vision-pros-displays?utm_medium=rss)
- - [Dave Mills, who created the Network Time Protocol in 1985 to synchronize time across different computer systems and networks, died at age 85 on January 17 &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240119/p24#a240119p24)
- - [Vision Pro cover glass repairs will set you back $799 without AppleCare Plus](https://www.theverge.com/2024/1/19/24044605/apple-vision-pro-repair-price-applecare-plus)<!-- TECH:END -->
+ - [Indian smartphone shipments in Q4 2023 grew 20% YoY to 38.9M units, after five quarters of declines; total shipments for 2023 declined 2% YoY to 148.6M units &lpar;Canalys&rpar;](http://www.techmeme.com/240120/p2#a240120p2)
+ - [How urban planners in Barcelona and others are using supercomputers and AI to create digital twins of their cities to address issues like traffic congestion &lpar;Joy Lo Dico/Financial Times&rpar;](http://www.techmeme.com/240120/p1#a240120p1)
+ - [Get $750 Off Greenworks&#39; Snow Bundle During This Best Buy Sale     - CNET](https://www.cnet.com/deals/get-750-off-greenworks-snow-bundle-during-this-best-buy-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
