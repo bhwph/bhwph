@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AI Video Game Characters Seem As Soulless As You&#39;d Expect](https://kotaku.com/nvidia-convai-ai-video-game-npc-characters-tech-demo-1851181329)
- - [Absurdly rare Team Fortress 2 hat called &#39;The Crone&#39;s Dome&#39; sells for a record-setting $18,000 worth of keys because &#39;it&#39;s one of a kind and will not ever be unboxed again&#39;](https://www.pcgamer.com/absurdly-rare-team-fortress-2-hat-called-the-crones-dome-sells-for-a-record-setting-dollar18000-worth-of-keys-because-its-one-of-a-kind-and-will-not-ever-be-unboxed-again)
- - [How to play Palworld multiplayer with friends](https://www.polygon.com/guides/24044099/palworld-multiplayer-crossplay-server-co-op)<!-- GAME:END -->
+ - [Square Enix&#39;s CEO suggests the company makes too many mid-budget games, but that&#39;s exactly where it&#39;s doing its best work](https://www.pcgamer.com/square-enixs-ceo-suggests-the-company-makes-too-many-mid-budget-games-but-thats-exactly-where-its-doing-its-best-work)
+ - [Microsoft says &#39;Russian state-sponsored&#39; hackers gained access to &#39;a very small percentage of Microsoft corporate email accounts&#39;](https://www.pcgamer.com/microsoft-says-russian-state-sponsored-hackers-gained-access-to-a-very-small-percentage-of-microsoft-corporate-email-accounts)
+ - [Yes, the &#39;Great Circle&#39; in the new Indiana Jones game is a real thing: Let&#39;s go down this conspiracy rabbit hole together](https://www.pcgamer.com/yes-the-great-circle-in-the-new-indiana-jones-game-is-a-real-thing-lets-go-down-this-conspiracy-rabbit-hole-together)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
