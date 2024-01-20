@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If only there was a pattern](http://9gag.com/gag/aKER9K3)
- - 😝 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
- - 👉 [She&#39;s not built different, she&#39;s built perfectly](http://9gag.com/gag/a8qZwYd)<!-- MEMES:END -->
+ - 6️⃣ [My goal](http://9gag.com/gag/armYx6X)
+ - 😝 [Some useful tools to maje your job easy is what you think instead of WORKING YOUR ASS OFF YOU WORTHLESS PIECE OF SHITS. GET UP AND DO SOME WORK LAZY ASS FAT B*TCH](http://9gag.com/gag/anz6EVn)
+ - 👉 [We all need a friend like him.](http://9gag.com/gag/ajVpxqg)<!-- MEMES:END -->
 
 --- 
 
