@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No shame](http://9gag.com/gag/agoW2Mv)
- - 😝 [North Korean pig](http://9gag.com/gag/agoW8gn)
+ - 6️⃣ [Really big family!](http://9gag.com/gag/anz620b)
+ - 😝 [Themfoys](http://9gag.com/gag/amA3Vg6)
  - 👉 [See the comments](http://9gag.com/gag/az2nGEq)<!-- MEMES:END -->
 
 --- 
