@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Deals: Stand Mixers, Blenders, and More](https://www.wired.com/story/weekend-deals-jan-20-2024/)
- - [The Stark Realities of Posting Your Layoff on TikTok](https://www.wired.com/story/the-stark-realities-of-posting-your-layoff-on-tiktok/)
- - [How AI has been helping criminals who use deepfakes and voice cloning for financial scams, forcing banks and fintechs to invest in AI to counter fraud &lpar;Siddharth Venkataramakrishnan/Financial ...&rpar;](http://www.techmeme.com/240120/p5#a240120p5)<!-- TECH:END -->
+ - [Understanding spatial design for visionOS](https://appleinsider.com/inside/visionos/tips/understanding-spatial-design-for-visionos?utm_medium=rss)
+ - [Poll: What do you think of Samsung’s decision to switch to a 5x camera?](https://www.androidauthority.com/samsung-galaxy-s24-ultra-5x-10x-camera-poll-3405256/)
+ - [Security News This Week: US Agencies Urged to Patch Ivanti VPNs That Are Actively Being Hacked](https://www.wired.com/story/cisa-emergency-directive-ivanti-vpn-patch-security-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
