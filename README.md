@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
- - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
- - 👉 [Sure](http://9gag.com/gag/aDYyZKx)<!-- MEMES:END -->
+ - 6️⃣ [Siberian Tiger and Bengal Tiger. Who&#39;s the boss now?](http://9gag.com/gag/aPg5oZQ)
+ - 😝 [Really big family!](http://9gag.com/gag/anz620b)
+ - 👉 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)<!-- MEMES:END -->
 
 --- 
 
