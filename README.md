@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My goal](http://9gag.com/gag/armYx6X)
- - 😝 [Some useful tools to maje your job easy is what you think instead of WORKING YOUR ASS OFF YOU WORTHLESS PIECE OF SHITS. GET UP AND DO SOME WORK LAZY ASS FAT B*TCH](http://9gag.com/gag/anz6EVn)
- - 👉 [We all need a friend like him.](http://9gag.com/gag/ajVpxqg)<!-- MEMES:END -->
+ - 6️⃣ [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
+ - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
+ - 👉 [Sure](http://9gag.com/gag/aDYyZKx)<!-- MEMES:END -->
 
 --- 
 
