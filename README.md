@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: What’s your favorite Galaxy AI feature?](https://www.androidauthority.com/favorite-galaxy-ai-feature-poll-3405285/)
- - [Bucs vs. Lions Livestream: How to Watch NFL Divisional Round Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/bucs-vs-lions-livestream-how-to-watch-nfl-divisional-round-game-online-today/#ftag=CAD590a51e)
- - [Best Mattresses for Kids in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-kids/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Garmin Lily 2 review: Should you buy it?](https://www.androidauthority.com/garmin-lily-2-review-3402870/)
+ - [Best 4K Projector for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-4k-projector/#ftag=CAD590a51e)
+ - [Best Fitbit Deals: Save on the Sense 2, Ace 3, Charge 6, and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
