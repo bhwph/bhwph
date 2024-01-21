@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today only, get Marvel’s Spider-Man 2 or Zelda: Tears of the Kingdom for just $40](https://www.polygon.com/deals/24043363/tears-of-the-kingdom-spider-man-2-qvc-deal-new-customer-sale)
  - [Wordle today: Hint and answer #946 for Sunday, January 21](https://www.pcgamer.com/wordle-today-answer-946-january-21)
- - [Ars Magica, the pioneering &#39;oops all wizards&#39; tabletop RPG, is getting a Definitive Edition](https://www.pcgamer.com/ars-magica-the-pioneering-oops-all-wizards-tabletop-rpg-is-getting-a-definitive-edition)
- - [Check out the demo for this flashy top-down stealth action game](https://www.pcgamer.com/check-out-the-demo-for-this-flashy-top-down-stealth-action-game)<!-- GAME:END -->
+ - [Ars Magica, the pioneering &#39;oops all wizards&#39; tabletop RPG, is getting a Definitive Edition](https://www.pcgamer.com/ars-magica-the-pioneering-oops-all-wizards-tabletop-rpg-is-getting-a-definitive-edition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
