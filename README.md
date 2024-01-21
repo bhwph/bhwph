@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [That Pokémon with guns game, Palworld, just sold 4 million copies in 3 days and it isn&#39;t slowing down](https://www.pcgamer.com/that-pokemon-with-guns-game-palworld-just-sold-4-million-copies-in-3-days-and-it-isnt-slowing-down)
- - [What time does Diablo 4 season 3 start?](https://www.polygon.com/diablo-4-guides/24041961/season-3-release-time-date)
- - [Palworld, Hogwarts Legacy, And More Of The Week&#39;s Biggest Gaming News](https://kotaku.com/video-game-news-palworld-hogwarts-legacy-xbox-showcase-1851180095)<!-- GAME:END -->
+ - [Even after 300 hours, I&#39;ve never met one of Baldur&#39;s Gate 3&#39;s most elusive NPCs: a half-orc named Honk who only shows up if you kill his brother then go on a date at their restaurant](https://www.pcgamer.com/even-after-300-hours-ive-never-met-one-of-baldurs-gate-3s-most-elusive-npcs-a-half-orc-named-honk-who-only-shows-up-if-you-kill-his-brother-then-go-on-a-date-at-their-restaurant)
+ - [Skill-rich action RPG Last Epoch will finally release in February](https://www.pcgamer.com/skill-rich-action-rpg-last-epoch-will-finally-release-in-february)
+ - [That Pokémon with guns game, Palworld, just sold 4 million copies in 3 days and it isn&#39;t slowing down](https://www.pcgamer.com/that-pokemon-with-guns-game-palworld-just-sold-4-million-copies-in-3-days-and-it-isnt-slowing-down)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
