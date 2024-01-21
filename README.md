@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Palworld, Hogwarts Legacy, And More Of The Week&#39;s Biggest Gaming News](https://kotaku.com/video-game-news-palworld-hogwarts-legacy-xbox-showcase-1851180095)
  - [Today only, get Marvel’s Spider-Man 2 or Zelda: Tears of the Kingdom for just $40](https://www.polygon.com/deals/24043363/tears-of-the-kingdom-spider-man-2-qvc-deal-new-customer-sale)
- - [Wordle today: Hint and answer #946 for Sunday, January 21](https://www.pcgamer.com/wordle-today-answer-946-january-21)
- - [Ars Magica, the pioneering &#39;oops all wizards&#39; tabletop RPG, is getting a Definitive Edition](https://www.pcgamer.com/ars-magica-the-pioneering-oops-all-wizards-tabletop-rpg-is-getting-a-definitive-edition)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #946 for Sunday, January 21](https://www.pcgamer.com/wordle-today-answer-946-january-21)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
