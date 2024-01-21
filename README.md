@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an unpublished manuscript, David Bunnell, co-founder of PC Magazine, PC World, and Macworld, details the origins of the enduring media brands in the 1980s &lpar;Harry McCracken/Technologizer&rpar;](http://www.techmeme.com/240121/p5#a240121p5)
- - [The Incredible Disappearing TV](https://www.wired.com/story/the-incredible-disappearing-tv/)
- - [Nex Playground Review: Family Fun and Gimmicky Games](https://www.wired.com/review/nex-playground/)<!-- TECH:END -->
+ - [Poll: Are the Galaxy S24 series’ minor hardware changes enough?](https://www.androidauthority.com/galaxy-s24-series-minor-changes-poll-3405274/)
+ - [Insta360 Ace Pro Action Camera Review &lpar;2023&rpar;: Best of Both Worlds](https://www.wired.com/review/insta360-ace-pro-action-camera/)
+ - [Why the Polar Vortex Is Bad for Balloon Artists](https://www.wired.com/story/why-the-polar-vortex-is-bad-for-balloon-artists/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
