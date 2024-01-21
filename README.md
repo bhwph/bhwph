@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld, Hogwarts Legacy, And More Of The Week&#39;s Biggest Gaming News](https://kotaku.com/video-game-news-palworld-hogwarts-legacy-xbox-showcase-1851180095)
- - [Today only, get Marvel’s Spider-Man 2 or Zelda: Tears of the Kingdom for just $40](https://www.polygon.com/deals/24043363/tears-of-the-kingdom-spider-man-2-qvc-deal-new-customer-sale)
- - [Wordle today: Hint and answer #946 for Sunday, January 21](https://www.pcgamer.com/wordle-today-answer-946-january-21)<!-- GAME:END -->
+ - [That Pokémon with guns game, Palworld, just sold 4 million copies in 3 days and it isn&#39;t slowing down](https://www.pcgamer.com/that-pokemon-with-guns-game-palworld-just-sold-4-million-copies-in-3-days-and-it-isnt-slowing-down)
+ - [What time does Diablo 4 season 3 start?](https://www.polygon.com/diablo-4-guides/24041961/season-3-release-time-date)
+ - [Palworld, Hogwarts Legacy, And More Of The Week&#39;s Biggest Gaming News](https://kotaku.com/video-game-news-palworld-hogwarts-legacy-xbox-showcase-1851180095)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
