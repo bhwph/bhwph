@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She for the streets!](http://9gag.com/gag/aeQLRrm)
- - 😝 [Boomers will get it instantly.](http://9gag.com/gag/abv7Qwv)
- - 👉 [Hmmm](http://9gag.com/gag/agoW4wv)<!-- MEMES:END -->
+ - 6️⃣ [Needle throwing](http://9gag.com/gag/a6qPpN8)
+ - 😝 [Hmmm](http://9gag.com/gag/agoW4wv)
+ - 👉 [Boomers will get it instantly.](http://9gag.com/gag/abv7Qwv)<!-- MEMES:END -->
 
 --- 
 
