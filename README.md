@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Are the Galaxy S24 series’ minor hardware changes enough?](https://www.androidauthority.com/galaxy-s24-series-minor-changes-poll-3405274/)
- - [Insta360 Ace Pro Action Camera Review &lpar;2023&rpar;: Best of Both Worlds](https://www.wired.com/review/insta360-ace-pro-action-camera/)
- - [Why the Polar Vortex Is Bad for Balloon Artists](https://www.wired.com/story/why-the-polar-vortex-is-bad-for-balloon-artists/)<!-- TECH:END -->
+ - [How to make the iPhone light flash for phone calls &amp; messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-make-the-iphone-light-flash-for-phone-calls-messages-in-ios-17?utm_medium=rss)
+ - [A look at the reasons for the less-than-expected developer enthusiasm for Apple&#39;s Vision Pro, including an uncertain ROI and anger at the App Store policies &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240121/p6#a240121p6)
+ - [Can we stop talking about titanium yet?](https://www.androidauthority.com/titanium-is-cool-but-i-dont-care-3403977/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
