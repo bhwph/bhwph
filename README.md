@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to make the iPhone light flash for phone calls &amp; messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-make-the-iphone-light-flash-for-phone-calls-messages-in-ios-17?utm_medium=rss)
- - [A look at the reasons for the less-than-expected developer enthusiasm for Apple&#39;s Vision Pro, including an uncertain ROI and anger at the App Store policies &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240121/p6#a240121p6)
- - [Can we stop talking about titanium yet?](https://www.androidauthority.com/titanium-is-cool-but-i-dont-care-3403977/)<!-- TECH:END -->
+ - [Poll: What’s your favorite Galaxy AI feature?](https://www.androidauthority.com/favorite-galaxy-ai-feature-poll-3405285/)
+ - [Bucs vs. Lions Livestream: How to Watch NFL Divisional Round Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/bucs-vs-lions-livestream-how-to-watch-nfl-divisional-round-game-online-today/#ftag=CAD590a51e)
+ - [Best Mattresses for Kids in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-kids/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
