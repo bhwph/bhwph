@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Check out the demo for this flashy top-down stealth action game](https://www.pcgamer.com/check-out-the-demo-for-this-flashy-top-down-stealth-action-game)
- - [Here&#39;s a farm life game but it&#39;s about a sect of Chinese fantasy martial artists](https://www.pcgamer.com/heres-a-farm-life-game-but-its-about-a-sect-of-chinese-fantasy-martial-artists)
- - [They&#39;re making a story-driven sequel to Lunar Lander, the 1979 Atari arcade game where all you do is land on the moon](https://www.pcgamer.com/theyre-making-a-story-driven-sequel-to-lunar-lander-the-1979-atari-arcade-game-where-all-you-do-is-land-on-the-moon)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #946 for Sunday, January 21](https://www.pcgamer.com/wordle-today-answer-946-january-21)
+ - [Ars Magica, the pioneering &#39;oops all wizards&#39; tabletop RPG, is getting a Definitive Edition](https://www.pcgamer.com/ars-magica-the-pioneering-oops-all-wizards-tabletop-rpg-is-getting-a-definitive-edition)
+ - [Check out the demo for this flashy top-down stealth action game](https://www.pcgamer.com/check-out-the-demo-for-this-flashy-top-down-stealth-action-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
