@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [See the comments](http://9gag.com/gag/az2nGEq)
- - 😝 [North Korean pig](http://9gag.com/gag/agoW8gn)
- - 👉 [Only if I could pay myself that amount instead!](http://9gag.com/gag/aREnzDq)<!-- MEMES:END -->
+ - 6️⃣ [Got a squirter](http://9gag.com/gag/aREnOEM)
+ - 😝 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)
+ - 👉 [Sandwiched](http://9gag.com/gag/ay2G1xV)<!-- MEMES:END -->
 
 --- 
 
