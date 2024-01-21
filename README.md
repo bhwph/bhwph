@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u2018\u2019Perfectly safe\u2019\u2019](http://9gag.com/gag/aQEGmbz)
- - 😝 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)
- - 👉 [Asian at grocery](http://9gag.com/gag/aREnoMB)<!-- MEMES:END -->
+ - 6️⃣ [Sandwiched](http://9gag.com/gag/ay2G1xV)
+ - 😝 [Needle throwing](http://9gag.com/gag/a6qPpN8)
+ - 👉 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)<!-- MEMES:END -->
 
 --- 
 
