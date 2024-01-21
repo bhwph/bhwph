@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sandwiched](http://9gag.com/gag/ay2G1xV)
- - 😝 [Needle throwing](http://9gag.com/gag/a6qPpN8)
+ - 6️⃣ [She for the streets!](http://9gag.com/gag/aeQLRrm)
+ - 😝 [Boomers will get it instantly.](http://9gag.com/gag/abv7Qwv)
  - 👉 [Hmmm](http://9gag.com/gag/agoW4wv)<!-- MEMES:END -->
 
 --- 
