@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest Apple Watch SE is matching its lowest price to date this weekend](https://www.theverge.com/2024/1/20/24042338/apple-watch-se-8bitdo-pro-2-controller-surface-pro-9-deal-sale)
- - [An interview with crypto skeptic James Block, whose damning critique of Signature Bank on his blog, Dirty Bubble Media, became the best short call of 2023 &lpar;Sam Potter/Bloomberg&rpar;](http://www.techmeme.com/240120/p10#a240120p10)
- - [How to create custom voice commands for iPhone](https://appleinsider.com/inside/iphone/tips/how-to-create-custom-voice-commands-for-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Nvidia and Convai&#39;s AI-powered video game NPCs, which are effectively generative AI chatbots that interact with the players &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240120/p11#a240120p11)
+ - [Best Chromebook Deals: Big Savings on Samsung, Lenovo, Acer and More     - CNET](https://www.cnet.com/deals/best-chromebook-deals/#ftag=CAD590a51e)
+ - [EufyCam 2C review: Great outdoor HomeKit camera that needs a partner](https://appleinsider.com/articles/24/01/20/eufycam-2c-review-great-outdoor-homekit-camera-that-needs-a-partner?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
