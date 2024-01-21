@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [See the comments](http://9gag.com/gag/az2nGEq)
- - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
- - 👉 [Sure](http://9gag.com/gag/aDYyZKx)<!-- MEMES:END -->
+ - 6️⃣ [Asian at grocery](http://9gag.com/gag/aREnoMB)
+ - 😝 [Affirmative action: Nothing can discredit our institutions faster than those that populate them. PhD in the bio but knows less about science than a 13th century peasant. Let&#39;s see when he will play the race card.](http://9gag.com/gag/aGEX2n5)
+ - 👉 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)<!-- MEMES:END -->
 
 --- 
 
