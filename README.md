@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone&#39;s favorite post-apocalypse beaver city builder now has horrible, polluted water](https://www.pcgamer.com/everyones-favorite-post-apocalypse-beaver-city-builder-now-has-horrible-polluted-water)
- - [Ten years ago I wouldn&#39;t have believed you if you told me League of Legends would one day have a bafflingly adorable &#39;crafting RPG&#39; spinoff](https://www.pcgamer.com/ten-years-ago-i-wouldnt-have-believed-you-if-you-told-me-league-of-legends-would-one-day-have-a-bafflingly-adorable-crafting-rpg-spinoff)
- - [One More Shot’s director on trying to get an entire action movie through airport security](https://www.polygon.com/24042893/one-more-shot-director-james-nunn-interview-scott-adkins)<!-- GAME:END -->
+ - [Check out the demo for this flashy top-down stealth action game](https://www.pcgamer.com/check-out-the-demo-for-this-flashy-top-down-stealth-action-game)
+ - [Here&#39;s a farm life game but it&#39;s about a sect of Chinese fantasy martial artists](https://www.pcgamer.com/heres-a-farm-life-game-but-its-about-a-sect-of-chinese-fantasy-martial-artists)
+ - [They&#39;re making a story-driven sequel to Lunar Lander, the 1979 Atari arcade game where all you do is land on the moon](https://www.pcgamer.com/theyre-making-a-story-driven-sequel-to-lunar-lander-the-1979-atari-arcade-game-where-all-you-do-is-land-on-the-moon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
