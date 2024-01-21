@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A dog sledding](https://www.reddit.com/r/funny/comments/19c7zg0/a_dog_sledding/)
- - 😝 [Tie on the doorknob [OC]](https://www.reddit.com/r/funny/comments/19c7ncv/tie_on_the_doorknob_oc/)
- - 👉 [You&#39;ll never get a cent out of me!](https://www.reddit.com/r/memes/comments/19c7ka1/youll_never_get_a_cent_out_of_me/)<!-- MEMES:END -->
+ - 6️⃣ [Almost thougt I would get my life back](http://9gag.com/gag/a4ovVMw)
+ - 😝 [Needle throwing](http://9gag.com/gag/a6qPpN8)
+ - 👉 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)<!-- MEMES:END -->
 
 --- 
 
