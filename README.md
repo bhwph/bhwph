@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Nvidia and Convai&#39;s AI-powered video game NPCs, which are effectively generative AI chatbots that interact with the players &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240120/p11#a240120p11)
- - [Best Chromebook Deals: Big Savings on Samsung, Lenovo, Acer and More     - CNET](https://www.cnet.com/deals/best-chromebook-deals/#ftag=CAD590a51e)
- - [EufyCam 2C review: Great outdoor HomeKit camera that needs a partner](https://appleinsider.com/articles/24/01/20/eufycam-2c-review-great-outdoor-homekit-camera-that-needs-a-partner?utm_medium=rss)<!-- TECH:END -->
+ - [Generative AI and how to regulate it dominated the discussions at the 2024 World Economic Forum; the UN Secretary-General said AI poses risks to societies &lpar;Juliette Perreard/Nikkei Asia&rpar;](http://www.techmeme.com/240121/p2#a240121p2)
+ - [Sources: Canva topped $2B in annualized revenue in 2023, as the company nears a $1.5B+ share sale at a ~$26B valuation, about the same as in its previous round &lpar;Bloomberg&rpar;](http://www.techmeme.com/240121/p1#a240121p1)
+ - [Best Speakerphone in 2024 for Working From Home     - CNET](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
