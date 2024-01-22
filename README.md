@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Need more time](http://9gag.com/gag/aPg5nKg)
- - 😝 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
- - 👉 [Your daily dose of pixels](http://9gag.com/gag/aL1xNKA)<!-- MEMES:END -->
+ - 6️⃣ [Meme origin](http://9gag.com/gag/aL1xbdP)
+ - 😝 [400 of those on A320](http://9gag.com/gag/ay2GVBr)
+ - 👉 [CCP demanded a piano player in a public place to stop filming because they were in the background](http://9gag.com/gag/amA3dEy)<!-- MEMES:END -->
 
 --- 
 
