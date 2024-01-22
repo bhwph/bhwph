@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How the Azerothian Archives event works in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-azerothian-archives)
- - [Diving Deeper into the World of Avowed](https://news.xbox.com/en-us/2024/01/22/avowed-developer-direct-side-quest-deep-dive/)
- - [CD Projekt Red is ramping up production on The Witcher 4, and of course it&#39;s looking into using AI](https://www.pcgamer.com/cd-projekt-red-is-ramping-up-production-on-the-witcher-4-and-of-course-its-looking-into-using-ai)<!-- GAME:END -->
+ - [Monster Hunter Rise Broke On Steam Deck After Capcom Added DRM](https://kotaku.com/monster-hunter-rise-pc-steam-deck-enigma-protector-drm-1851186738)
+ - [Tilted Towers resists the yoke of imperial aggression as the British Army gives up on its Fortnite livestream plan](https://www.pcgamer.com/tilted-towers-resists-the-yoke-of-imperial-aggression-as-the-british-army-gives-up-on-its-fortnite-livestream-plan)
+ - [How to get sulfur in Palworld](https://www.polygon.com/palworld-guides/24047310/how-to-get-sulfur-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
