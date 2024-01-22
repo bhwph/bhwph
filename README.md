@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Need more time](http://9gag.com/gag/aPg5nKg)
- - 😝 [Pokemon with ak-47s and murder](http://9gag.com/gag/aDYyQBx)
- - 👉 [Built different](http://9gag.com/gag/az2nQMq)<!-- MEMES:END -->
+ - 6️⃣ [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)
+ - 😝 [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)
+ - 👉 [You cant guess the country.](http://9gag.com/gag/aGEXNA5)<!-- MEMES:END -->
 
 --- 
 
