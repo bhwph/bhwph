@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple pays out nearly $13.7 million to Russia in anti-steering App Store lawsuit](https://appleinsider.com/articles/24/01/22/apple-pays-out-nearly-137-million-to-russia-in-anti-steering-app-store-lawsuit?utm_medium=rss)
- - [Sources: FTX sold 22M Grayscale Bitcoin Trust shares, worth nearly $1B, explaining the outflows after the SEC&#39;s ETF approval; BTC has tumbled since the approval &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240122/p9#a240122p9)
- - [The Razr Plus 2023 plunges $450 in limited-time deal](https://www.androidauthority.com/razr-plus-2023-deal-3406085/)<!-- TECH:END -->
+ - [Apple ships update for macOS Sonoma 14.3](https://appleinsider.com/articles/24/01/22/apple-ships-update-for-macos-sonoma-143?utm_medium=rss)
+ - [iOS 17.3, iPadOS 17.3 land with Stolen Device Protection](https://appleinsider.com/articles/24/01/22/ios-173-ipados-173-land-with-stolen-device-protection?utm_medium=rss)
+ - [Months after pulling its Surviving Barstool series from YouTube over censorship claims, Barstool Sports announces a deal with Rumble; Rumble stock jumps 30%+ &lpar;Ben Axelrod/Awful Announcing&rpar;](http://www.techmeme.com/240122/p12#a240122p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
