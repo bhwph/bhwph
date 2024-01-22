@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt Red Is Ramping Up For The Witcher 4, Investigating AI](https://kotaku.com/witcher-4-cyberpunk-2-cd-project-ai-1851185524)
- - [Warhammer 40K’s Dark Angels are enjoying a golden age of new lore](https://www.polygon.com/tabletop-games/24046814/warhammer-40k-dark-angels-lore-codex-supplement-lion-risen)
- - [All the Invincible season 2 part 2 news we’ve heard so far](https://www.polygon.com/23972993/invincible-season-2-part-2-new-episodes-release-date-return-cast-news)<!-- GAME:END -->
+ - [How the Azerothian Archives event works in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-azerothian-archives)
+ - [Diving Deeper into the World of Avowed](https://news.xbox.com/en-us/2024/01/22/avowed-developer-direct-side-quest-deep-dive/)
+ - [CD Projekt Red is ramping up production on The Witcher 4, and of course it&#39;s looking into using AI](https://www.pcgamer.com/cd-projekt-red-is-ramping-up-production-on-the-witcher-4-and-of-course-its-looking-into-using-ai)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
