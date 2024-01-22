@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple ships update for macOS Sonoma 14.3](https://appleinsider.com/articles/24/01/22/apple-ships-update-for-macos-sonoma-143?utm_medium=rss)
- - [iOS 17.3, iPadOS 17.3 land with Stolen Device Protection](https://appleinsider.com/articles/24/01/22/ios-173-ipados-173-land-with-stolen-device-protection?utm_medium=rss)
- - [Months after pulling its Surviving Barstool series from YouTube over censorship claims, Barstool Sports announces a deal with Rumble; Rumble stock jumps 30%+ &lpar;Ben Axelrod/Awful Announcing&rpar;](http://www.techmeme.com/240122/p12#a240122p12)<!-- TECH:END -->
+ - [Ford’s new in-car experience is built around the Play Store and Android Auto](https://www.androidauthority.com/ford-car-experience-android-play-store-3406252/)
+ - [&#39;Palworld&#39;: 6 Beginner Tips for Getting Started](https://www.wired.com/story/palworld-tips/)
+ - [Motorola’s flip-style Razr Plus is on sale for nearly half off right now](https://www.theverge.com/2024/1/22/24046785/motorola-razr-plus-amazon-echo-show-8-beats-studio-buds-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
