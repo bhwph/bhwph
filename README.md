@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford’s new in-car experience is built around the Play Store and Android Auto](https://www.androidauthority.com/ford-car-experience-android-play-store-3406252/)
- - [&#39;Palworld&#39;: 6 Beginner Tips for Getting Started](https://www.wired.com/story/palworld-tips/)
- - [Motorola’s flip-style Razr Plus is on sale for nearly half off right now](https://www.theverge.com/2024/1/22/24046785/motorola-razr-plus-amazon-echo-show-8-beats-studio-buds-deal-sale)<!-- TECH:END -->
+ - [Google Podcasts is going away but we’ve got some alternatives.](https://www.theverge.com/23891397/google-podcasts-youtube-spotify-alternatives-pocket-casts)
+ - [Palworld is a hit, and it’s easy to see why](https://www.theverge.com/2024/1/22/24047087/palworld-early-access-steam-xbox-gamepass)
+ - [The US SEC says the January 9 hack of its X account was via a SIM swap attack to reset its password; it had disabled 2FA in July 2023 over account access issues &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240122/p18#a240122p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
