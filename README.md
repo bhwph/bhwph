@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Organize Your Tech and Purge That Random Box of Cables](https://www.wired.com/story/how-to-tidy-your-tech/)
- - [Apple’s sci-fi thriller Constellation gets haunting first trailer](https://www.theverge.com/24044578/constellation-trailer-apple-tv-plus)
- - [iOS 18 Features: What to Expect in Apple&#39;s Next Major Software Update     - CNET](https://www.cnet.com/tech/mobile/ios-18-features-what-ro-expect-apples-next-major-update/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple pays out nearly $13.7 million to Russia in anti-steering App Store lawsuit](https://appleinsider.com/articles/24/01/22/apple-pays-out-nearly-137-million-to-russia-in-anti-steering-app-store-lawsuit?utm_medium=rss)
+ - [Sources: FTX sold 22M Grayscale Bitcoin Trust shares, worth nearly $1B, explaining the outflows after the SEC&#39;s ETF approval; BTC has tumbled since the approval &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240122/p9#a240122p9)
+ - [The Razr Plus 2023 plunges $450 in limited-time deal](https://www.androidauthority.com/razr-plus-2023-deal-3406085/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
