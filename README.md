@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [British Army Planned To Use Fortnite In Recruitment Campaign](https://kotaku.com/fortnite-epic-british-army-elzthewitch-yungfilly1-1851184946)
- - [Intel&#39;s Arrow Lake specs break cover: Say hello to DDR5-6400, wave goodbye to DDR4 and possibly Hyper-Threading](https://www.pcgamer.com/intels-arrow-lake-specs-break-cover-say-hello-to-ddr5-6400-wave-goodbye-to-ddr4-and-possibly-hyper-threading)
- - [Netflix’s Hit Man is a romantic comedy with Glen Powell in full-on movie star mode](https://www.polygon.com/24046802/hit-man-netflix-trailer-glen-powell-comedy)<!-- GAME:END -->
+ - [CD Projekt Red Is Ramping Up For The Witcher 4, Investigating AI](https://kotaku.com/witcher-4-cyberpunk-2-cd-project-ai-1851185524)
+ - [Warhammer 40K’s Dark Angels are enjoying a golden age of new lore](https://www.polygon.com/tabletop-games/24046814/warhammer-40k-dark-angels-lore-codex-supplement-lion-risen)
+ - [All the Invincible season 2 part 2 news we’ve heard so far](https://www.polygon.com/23972993/invincible-season-2-part-2-new-episodes-release-date-return-cast-news)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
