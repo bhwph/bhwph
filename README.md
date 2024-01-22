@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which countries are getting the Snapdragon and Exynos variants of the Galaxy S24?](https://www.androidauthority.com/samsung-galaxy-s24-snapdragon-vs-exynos-countries-3402659/)
- - [NCIS season 21: Release date and the latest rumors](https://www.androidauthority.com/ncis-season-21-release-date-3401417/)
- - [Cops Used DNA to Predict a Suspect’s Face—and Tried to Run Facial Recognition on It](https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/)<!-- TECH:END -->
+ - [How to Organize Your Tech and Purge That Random Box of Cables](https://www.wired.com/story/how-to-tidy-your-tech/)
+ - [Apple’s sci-fi thriller Constellation gets haunting first trailer](https://www.theverge.com/24044578/constellation-trailer-apple-tv-plus)
+ - [iOS 18 Features: What to Expect in Apple&#39;s Next Major Software Update     - CNET](https://www.cnet.com/tech/mobile/ios-18-features-what-ro-expect-apples-next-major-update/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
