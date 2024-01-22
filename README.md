@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Even after 300 hours, I&#39;ve never met one of Baldur&#39;s Gate 3&#39;s most elusive NPCs: a half-orc named Honk who only shows up if you kill his brother then go on a date at their restaurant](https://www.pcgamer.com/even-after-300-hours-ive-never-met-one-of-baldurs-gate-3s-most-elusive-npcs-a-half-orc-named-honk-who-only-shows-up-if-you-kill-his-brother-then-go-on-a-date-at-their-restaurant)
- - [Skill-rich action RPG Last Epoch will finally release in February](https://www.pcgamer.com/skill-rich-action-rpg-last-epoch-will-finally-release-in-february)
- - [That Pokémon with guns game, Palworld, just sold 4 million copies in 3 days and it isn&#39;t slowing down](https://www.pcgamer.com/that-pokemon-with-guns-game-palworld-just-sold-4-million-copies-in-3-days-and-it-isnt-slowing-down)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;January 22, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-22-2024)
+ - [Get a retired cop back in service for her only unsolved case in this point-and-click detective adventure](https://www.pcgamer.com/get-a-retired-cop-back-in-service-for-her-only-unsolved-case-in-this-point-and-click-detective-adventure)
+ - [Stack cards to captain a desperate train in this frozen, apocalyptic, and totally free roguelite demo](https://www.pcgamer.com/stack-cards-to-captain-a-desperate-train-in-this-frozen-apocalyptic-and-totally-free-roguelite-demo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
