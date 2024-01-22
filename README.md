@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 speedrunner reverse-pickpockets a boss to teleport to the dev room, defeats another boss with &#39;Shadowbear&#39;](https://www.pcgamer.com/baldurs-gate-3-speedrunner-reverse-pickpockets-a-boss-to-teleport-to-the-dev-room-defeats-a-boss-with-shadowbear)
- - [Wordle today: Hint and answer #947 for Monday, January 22](https://www.pcgamer.com/wordle-today-answer-947-january-22)
- - [What’s up with all these season 1 references in True Detective: Night Country?](https://www.polygon.com/24043472/true-detective-night-country-season-1-easter-eggs-breakdown)<!-- GAME:END -->
+ - [Little things that matter: Valve is making performance settings in its Steam Deck easier to understand](https://www.pcgamer.com/little-things-that-matter-valve-is-making-performance-settings-in-its-steam-deck-easier-to-understand)
+ - [Palword&#39;s plain worse on the Microsoft Store and Game Pass right now—devs say they&#39;re &#39;at the mercy of the certification&#39;, making for slower hotfixes](https://www.pcgamer.com/palwords-plain-worse-on-the-microsoft-store-and-game-pass-right-nowdevs-say-theyre-at-the-mercy-of-the-certification-making-for-slower-hotfixes)
+ - [Palworld&#39;s developers are currently trying to fix a game-wrecking bug that permanently nerfs your character](https://www.pcgamer.com/palworlds-developers-are-currently-trying-to-fix-a-game-wrecking-bug-that-permanently-nerfs-your-character)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
