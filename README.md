@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [True Detective: Night Country is slowly starting to thaw its icy mystery](https://www.polygon.com/24044213/true-detective-night-country-episode-2-review-corpsicle)
- - [How to get High Quality Pal Oil in Palworld](https://www.pcgamer.com/palworld-high-quality-pal-oil-location)
- - [Warhammer Fantasy is back—and now it&#39;s getting a new tabletop RPG too](https://www.pcgamer.com/warhammer-fantasy-is-backand-now-its-getting-a-new-tabletop-rpg-too)<!-- GAME:END -->
+ - [British Army Planned To Use Fortnite In Recruitment Campaign](https://kotaku.com/fortnite-epic-british-army-elzthewitch-yungfilly1-1851184946)
+ - [Intel&#39;s Arrow Lake specs break cover: Say hello to DDR5-6400, wave goodbye to DDR4 and possibly Hyper-Threading](https://www.pcgamer.com/intels-arrow-lake-specs-break-cover-say-hello-to-ddr5-6400-wave-goodbye-to-ddr4-and-possibly-hyper-threading)
+ - [Netflix’s Hit Man is a romantic comedy with Glen Powell in full-on movie star mode](https://www.polygon.com/24046802/hit-man-netflix-trailer-glen-powell-comedy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
