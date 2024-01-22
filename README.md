@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meme origin](http://9gag.com/gag/aL1xbdP)
- - 😝 [400 of those on A320](http://9gag.com/gag/ay2GVBr)
- - 👉 [CCP demanded a piano player in a public place to stop filming because they were in the background](http://9gag.com/gag/amA3dEy)<!-- MEMES:END -->
+ - 6️⃣ [Need more time](http://9gag.com/gag/aPg5nKg)
+ - 😝 [Pokemon with ak-47s and murder](http://9gag.com/gag/aDYyQBx)
+ - 👉 [Built different](http://9gag.com/gag/az2nQMq)<!-- MEMES:END -->
 
 --- 
 
