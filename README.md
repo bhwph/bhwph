@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [British Library hack lessons for the UK: ransomware is a national security issue, a national response is required, policy mitigations are available, and more &lpar;Ciaran Martin/Ciaran&#39;s Crispy Cogitations&rpar;](http://www.techmeme.com/240122/p3#a240122p3)
- - [Apple’s Spring 2024 event could bring these new iPads and MacBooks](https://www.androidauthority.com/apple-spring-2024-event-new-ipads-macbooks-3405999/)
- - [WhatsApp is working on its own version of Android’s Quick Share feature](https://www.androidauthority.com/whatsapp-nearby-share-3405992/)<!-- TECH:END -->
+ - [Which countries are getting the Snapdragon and Exynos variants of the Galaxy S24?](https://www.androidauthority.com/samsung-galaxy-s24-snapdragon-vs-exynos-countries-3402659/)
+ - [NCIS season 21: Release date and the latest rumors](https://www.androidauthority.com/ncis-season-21-release-date-3401417/)
+ - [Cops Used DNA to Predict a Suspect’s Face—and Tried to Run Facial Recognition on It](https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
