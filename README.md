@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Built different](http://9gag.com/gag/az2nQMq)
- - 😝 [I&#39;m not a Doc but i think i might be abble to help](http://9gag.com/gag/avQNDAq)
- - 👉 [Countries Where Being Gay Is A Crime](http://9gag.com/gag/agoWKZg)<!-- MEMES:END -->
+ - 6️⃣ [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)
+ - 😝 [Countries Where Being Gay Is A Crime](http://9gag.com/gag/agoWKZg)
+ - 👉 [What happened to law and order](http://9gag.com/gag/a5X4DVo)<!-- MEMES:END -->
 
 --- 
 
