@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
- - 😝 [Holup, Ultimate Dad Flex of All Time &lpar;\u2026of All Time!&rpar;](http://9gag.com/gag/ajVpWjq)
- - 👉 [It pleases me to see that the artist Jolly Jack is still insane.](http://9gag.com/gag/aEq3X6x)<!-- MEMES:END -->
+ - 6️⃣ [Need more time](http://9gag.com/gag/aPg5nKg)
+ - 😝 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
+ - 👉 [Your daily dose of pixels](http://9gag.com/gag/aL1xNKA)<!-- MEMES:END -->
 
 --- 
 
