@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Little things that matter: Valve is making performance settings in its Steam Deck easier to understand](https://www.pcgamer.com/little-things-that-matter-valve-is-making-performance-settings-in-its-steam-deck-easier-to-understand)
- - [Palword&#39;s plain worse on the Microsoft Store and Game Pass right now—devs say they&#39;re &#39;at the mercy of the certification&#39;, making for slower hotfixes](https://www.pcgamer.com/palwords-plain-worse-on-the-microsoft-store-and-game-pass-right-nowdevs-say-theyre-at-the-mercy-of-the-certification-making-for-slower-hotfixes)
- - [Palworld&#39;s developers are currently trying to fix a game-wrecking bug that permanently nerfs your character](https://www.pcgamer.com/palworlds-developers-are-currently-trying-to-fix-a-game-wrecking-bug-that-permanently-nerfs-your-character)<!-- GAME:END -->
+ - [True Detective: Night Country is slowly starting to thaw its icy mystery](https://www.polygon.com/24044213/true-detective-night-country-episode-2-review-corpsicle)
+ - [How to get High Quality Pal Oil in Palworld](https://www.pcgamer.com/palworld-high-quality-pal-oil-location)
+ - [Warhammer Fantasy is back—and now it&#39;s getting a new tabletop RPG too](https://www.pcgamer.com/warhammer-fantasy-is-backand-now-its-getting-a-new-tabletop-rpg-too)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
