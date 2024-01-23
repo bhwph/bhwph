@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple tells artists how much more money they can make with spatial audio](https://www.theverge.com/2024/1/22/24047461/apple-music-spatial-audio-royalties-dolby-atmos-streaming)
- - [Australia sanctions a Russian hacker over his role in the October 2022 hack of health insurer Medibank, marking the first use of its cyber sanctions laws &lpar;Tom Crowley/ABC&rpar;](http://www.techmeme.com/240122/p24#a240122p24)
- - [Best Mattress Deals: Big Savings on Top Mattress Brands     - CNET](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HP says updates bricking printers with third-party cartridges protect users from possible embedded viruses, but security experts deem such a threat theoretical &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/240122/p26#a240122p26)
+ - [How to use Stolen Device Protection](https://appleinsider.com/articles/24/01/23/how-to-use-stolen-device-protection?utm_medium=rss)
+ - [Apple Watch blood oxygen detection used to save son&#39;s life at 14,000 feet](https://appleinsider.com/articles/24/01/23/apple-watch-blood-oxygen-detection-used-to-save-sons-life-at-14000-feet?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
