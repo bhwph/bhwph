@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese Startup 01.AI Is Winning the Open Source AI Race](https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/)
- - [An interview with Rabbit CEO Jesse Lyu about the R1&#39;s design, collaboration with Teenage Engineering, why he didn&#39;t want to make an app, and more &lpar;Mark Wilson/Fast Company&rpar;](http://www.techmeme.com/240123/p8#a240123p8)
- - [Native Apple Vision Pro apps few and far between at launch](https://appleinsider.com/articles/24/01/23/native-apple-vision-pro-apps-few-and-far-between-at-launch?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Killers of the Flower Moon&#39; nominated for 10 Oscars, including Best Picture](https://appleinsider.com/articles/24/01/23/killers-of-the-flower-moon-nominated-for-10-oscars-including-best-picture?utm_medium=rss)
+ - [13 Best Cozy Games &lpar;2024&rpar; for Switch, PlayStation, Steam, Xbox](https://www.wired.com/gallery/best-cozy-games/)
+ - [Nvidia RTX 4070 Ti Super review: not very super](https://www.theverge.com/24046652/nvidia-rtx-4070-ti-super-review-gpu-graphics-card-benchmark-test)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
