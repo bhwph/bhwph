@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Immortality developer Sam Barlow teases 2 new projects on Steam, and one of them is survival horror](https://www.pcgamer.com/immortality-developer-sam-barlow-teases-2-new-projects-on-steam-and-one-of-them-is-survival-horror)
- - [Viral Toaster Stunt Guy Banned From Twitch For 30 Days](https://kotaku.com/toaster-challenge-fork-stunt-guy-twitch-streamer-banned-1851189959)
- - [Overwatch 2 Esports Is So Back, Baby](https://kotaku.com/overwatch-champions-series-owcs-owl-esports-dreamhack-1851189732)<!-- GAME:END -->
+ - [Call Of Duty: Best Loadout And Attachments For The HRM-9 SMG](https://kotaku.com/call-of-duty-mw3-hrm-9-smg-best-loadout-tips-1851190560)
+ - [Palworld list of Pals, types, and base skills](https://www.polygon.com/palworld-guides/24047325/pals-list-types-elements-base-skills-paldeck)
+ - [Cyberpunk 2077 Sequel Might Actually Have Multiplayer](https://kotaku.com/cyberpunk-2077-sequel-orion-multiplayer-1851190429)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
