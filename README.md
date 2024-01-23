@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GitHub has a copy of every open source project in its database during 2020 located deep inside a frozen mine](https://www.pcgamer.com/github-has-a-copy-of-every-open-source-project-in-its-database-during-2020-located-deep-inside-a-frozen-mine)
- - [Can Barboach be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24046877/can-barboach-be-shiny-whiscash)
- - [Wordle today: Hint and answer #948 for Tuesday, January 23](https://www.pcgamer.com/wordle-today-answer-948-january-23)<!-- GAME:END -->
+ - [MSI RTX 4070 Ti Super Ventus 3X review](https://www.pcgamer.com/msi-geforce-rtx-4070-ti-super-ventus-review-performance)
+ - [Tekken 8 review](https://www.pcgamer.com/tekken-8-review)
+ - [PlayStation Store’s top downloads of 2023](https://blog.playstation.com/2024/01/23/playstation-stores-top-downloads-of-2023/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
