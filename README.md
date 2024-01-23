@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)
- - 😝 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
- - 👉 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)<!-- MEMES:END -->
+ - 6️⃣ [Hey Xi, look:](http://9gag.com/gag/a6qP4XL)
+ - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
+ - 👉 [Rey Palpatine](http://9gag.com/gag/a8qZv0d)<!-- MEMES:END -->
 
 --- 
 
