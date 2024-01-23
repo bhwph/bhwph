@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey Xi, look:](http://9gag.com/gag/a6qP4XL)
- - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
- - 👉 [Rey Palpatine](http://9gag.com/gag/a8qZv0d)<!-- MEMES:END -->
+ - 6️⃣ [Chair in Croatia 218 euros, average income 1200 euros Chair in Germany 99 euros, average income 3200 euros](http://9gag.com/gag/a3Zme2N)
+ - 😝 [Meet Macaulay Culkin, wife Brenda Song and son Kevin McAllister](http://9gag.com/gag/avQNBmb)
+ - 👉 [The CCP cocksucker](http://9gag.com/gag/anz63Z0)<!-- MEMES:END -->
 
 --- 
 
