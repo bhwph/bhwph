@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Rise Broke On Steam Deck After Capcom Added DRM](https://kotaku.com/monster-hunter-rise-pc-steam-deck-enigma-protector-drm-1851186738)
- - [Tilted Towers resists the yoke of imperial aggression as the British Army gives up on its Fortnite livestream plan](https://www.pcgamer.com/tilted-towers-resists-the-yoke-of-imperial-aggression-as-the-british-army-gives-up-on-its-fortnite-livestream-plan)
- - [How to get sulfur in Palworld](https://www.polygon.com/palworld-guides/24047310/how-to-get-sulfur-location)<!-- GAME:END -->
+ - [Palworld accused of copying Pokémon models, developer pushes back, says artists are being slandered](https://www.pcgamer.com/palworld-accused-of-copying-pokemon-models-developer-pushes-back-says-artists-are-being-slandered)
+ - [Palworld list of Pals, types, and base skills](https://www.polygon.com/palworld-guides/24047325/pals-list-types-elements-base-skills-paldeck)
+ - [Diablo 4 season 3&#39;s most powerful new items all drop off of its least popular boss](https://www.pcgamer.com/diablo-4-season-3s-most-powerful-new-items-all-drop-off-of-its-least-popular-boss)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
