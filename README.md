@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP says updates bricking printers with third-party cartridges protect users from possible embedded viruses, but security experts deem such a threat theoretical &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/240122/p26#a240122p26)
- - [How to use Stolen Device Protection](https://appleinsider.com/articles/24/01/23/how-to-use-stolen-device-protection?utm_medium=rss)
- - [Apple Watch blood oxygen detection used to save son&#39;s life at 14,000 feet](https://appleinsider.com/articles/24/01/23/apple-watch-blood-oxygen-detection-used-to-save-sons-life-at-14000-feet?utm_medium=rss)<!-- TECH:END -->
+ - [‘Photo Stacks’ in Google Photos for Android now rolling out more widely](https://www.androidauthority.com/google-photos-android-photo-stacks-availability-3406512/)
+ - [A look at Palworld, a Pok&amp;eacute;mon-like game launched on January 19, which has sold 5M+ copies and is currently the most played game on Steam, amid plagiarism claims &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240123/p1#a240123p1)
+ - [OnePlus 12 global launch today: How to watch livestream and what to expect](https://www.androidauthority.com/oneplus-12-global-launch-how-to-watch-livestream-what-to-expect-3406508/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
