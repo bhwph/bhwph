@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Over 7,000 languages in the world and this man chose to speak facts](http://9gag.com/gag/armY9V5)
- - 😝 [Poor man named the ones who can&#39;t be named](http://9gag.com/gag/a6qP3xm)
- - 👉 [Playing the long game](http://9gag.com/gag/a3ZmePm)<!-- MEMES:END -->
+ - 6️⃣ [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
+ - 😝 [What\u2019s he seeing](http://9gag.com/gag/aGEX6E0)
+ - 👉 [13 year old boy schools adults on national TV \ud83e\udee5](http://9gag.com/gag/aMEgDzV)<!-- MEMES:END -->
 
 --- 
 
