@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to summon endgame bosses in Diablo 4](https://www.polygon.com/diablo-4-guides/23920830/endgame-bosses-rewards-how-to-summon)
- - [How to get leather in Palworld](https://www.polygon.com/palworld-guides/24048036/leather-how-to-get-location-where-to-find)
- - [What is the best class in Diablo 4 for you?](https://www.polygon.com/diablo-4-guides/23654552/best-class-solo-beginner-guide)<!-- GAME:END -->
+ - [Immortality developer Sam Barlow teases 2 new projects on Steam, and one of them is survival horror](https://www.pcgamer.com/immortality-developer-sam-barlow-teases-2-new-projects-on-steam-and-one-of-them-is-survival-horror)
+ - [Viral Toaster Stunt Guy Banned From Twitch For 30 Days](https://kotaku.com/toaster-challenge-fork-stunt-guy-twitch-streamer-banned-1851189959)
+ - [Overwatch 2 Esports Is So Back, Baby](https://kotaku.com/overwatch-champions-series-owcs-owl-esports-dreamhack-1851189732)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
