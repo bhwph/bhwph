@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Avatar: The Last Airbender trailer tries to check all the boxes](https://www.polygon.com/24046767/avatar-the-last-airbender-trailer-netflix-release-date)
- - [Dragon&#39;s Dogma 2 Devs Say Fast Travel Use Is A Sign Of Boring Worlds](https://kotaku.com/dragons-dogma-2-hideaki-itsuno-fast-travel-boring-1851188719)
- - [New Obsidian RPG Avowed Shows Off Slick Movement, Reveals First Companions](https://kotaku.com/avowed-rpg-obsidian-microsoft-companions-1851188715)<!-- GAME:END -->
+ - [How to summon endgame bosses in Diablo 4](https://www.polygon.com/diablo-4-guides/23920830/endgame-bosses-rewards-how-to-summon)
+ - [How to get leather in Palworld](https://www.polygon.com/palworld-guides/24048036/leather-how-to-get-location-where-to-find)
+ - [What is the best class in Diablo 4 for you?](https://www.polygon.com/diablo-4-guides/23654552/best-class-solo-beginner-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
