@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Podcasts is going away but we’ve got some alternatives.](https://www.theverge.com/23891397/google-podcasts-youtube-spotify-alternatives-pocket-casts)
- - [Palworld is a hit, and it’s easy to see why](https://www.theverge.com/2024/1/22/24047087/palworld-early-access-steam-xbox-gamepass)
- - [The US SEC says the January 9 hack of its X account was via a SIM swap attack to reset its password; it had disabled 2FA in July 2023 over account access issues &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240122/p18#a240122p18)<!-- TECH:END -->
+ - [Mortgage lender loanDepot says &quot;sensitive personal information&quot; of ~16.6M people was stolen in a January 6 ransomware attack that shut down some of its systems &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240122/p23#a240122p23)
+ - [Samsung is exploring the development of noninvasive glucose monitoring and blood pressure checking, as part of a push to put health features in various devices &lpar;Bloomberg&rpar;](http://www.techmeme.com/240122/p22#a240122p22)
+ - [AI and You: ChatGPT Helps Author Win Literary Prize, Taylor Swift Isn&#39;t Pitching Cookware     - CNET](https://www.cnet.com/tech/computing/ai-and-you-chatgpt-helps-author-win-literary-prize-taylor-swift-isnt-pitching-cookware/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
