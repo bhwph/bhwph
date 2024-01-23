@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They are coming](http://9gag.com/gag/aYV9ZLq)
- - 😝 [We need more movies like this!](http://9gag.com/gag/adPErR9)
- - 👉 [Poor man named the ones who can&#39;t be named](http://9gag.com/gag/a6qP3xm)<!-- MEMES:END -->
+ - 6️⃣ [The real Truman show](http://9gag.com/gag/a8qZz0d)
+ - 😝 [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)
+ - 👉 [Countries Where Being Gay Is A Crime](http://9gag.com/gag/agoWKZg)<!-- MEMES:END -->
 
 --- 
 
