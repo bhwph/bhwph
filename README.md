@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)
- - 😝 [Chair in Croatia 218 euros, average income 1200 euros Chair in Germany 99 euros, average income 3200 euros](http://9gag.com/gag/a3Zme2N)
- - 👉 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
+ - 😝 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)
+ - 👉 [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)<!-- MEMES:END -->
 
 --- 
 
