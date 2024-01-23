@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome&#39;s new AI update brings a smart twist to browsing &amp; text composition](https://appleinsider.com/articles/24/01/23/chromes-new-ai-update-brings-a-smart-twist-to-browsing-text-composition?utm_medium=rss)
- - [Windows 12 may not be coming anytime soon, but a major OS overhaul is](https://www.androidauthority.com/windows-12-not-coming-in-2024-3406849/)
- - [First-gen AirPods Pro update brings firmware up to 6.0](https://appleinsider.com/articles/24/01/23/first-gen-airpods-pro-update-brings-firmware-up-to-60?utm_medium=rss)<!-- TECH:END -->
+ - [X adds support for passkeys for US-based iOS users; the announcement comes shortly after the hack of the US SEC&#39;s X account &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240123/p28#a240123p28)
+ - [Netflix says it&#39;s looking to retire its ad-free Basic plan in some countries where ad-supported plans are available, starting with Canada and the UK in Q2 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240123/p27#a240123p27)
+ - [Filing: Google is terminating its contract with data-labeling firm Appen, effective March 19; Google accounted for $82.8M of Appen&#39;s $273M revenue in 2023 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240123/p26#a240123p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
