@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The real Truman show](http://9gag.com/gag/a8qZz0d)
- - 😝 [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)
- - 👉 [Countries Where Being Gay Is A Crime](http://9gag.com/gag/agoWKZg)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m not a Doc but i think i might be abble to help](http://9gag.com/gag/avQNDAq)
+ - 😝 [Need more time](http://9gag.com/gag/aPg5nKg)
+ - 👉 [The real Truman show](http://9gag.com/gag/a8qZz0d)<!-- MEMES:END -->
 
 --- 
 
