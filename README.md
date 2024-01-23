@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)
- - 😝 [Countries Where Being Gay Is A Crime](http://9gag.com/gag/agoWKZg)
- - 👉 [What happened to law and order](http://9gag.com/gag/a5X4DVo)<!-- MEMES:END -->
+ - 6️⃣ [Playing the long game](http://9gag.com/gag/a3ZmePm)
+ - 😝 [Poor man named the ones who can&#39;t be named](http://9gag.com/gag/a6qP3xm)
+ - 👉 [Over 7,000 languages in the world and this man chose to speak facts](http://9gag.com/gag/armY9V5)<!-- MEMES:END -->
 
 --- 
 
