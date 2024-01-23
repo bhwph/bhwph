@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reportedly developing a cheaper version of the Galaxy Z Fold 6](https://www.androidauthority.com/cheaper-galaxy-z-fold-6-3406766/)
- - [This baby is covered in old flip phones and chips — and you cannot afford it](https://www.theverge.com/2024/1/23/24047903/schiaparelli-couture-paris-fashion-week-robot-tech-baby-dress)
- - [The Biden Deepfake Robocall Is Only the Beginning](https://www.wired.com/story/biden-robocall-deepfake-danger/)<!-- TECH:END -->
+ - [Chrome&#39;s new AI update brings a smart twist to browsing &amp; text composition](https://appleinsider.com/articles/24/01/23/chromes-new-ai-update-brings-a-smart-twist-to-browsing-text-composition?utm_medium=rss)
+ - [Windows 12 may not be coming anytime soon, but a major OS overhaul is](https://www.androidauthority.com/windows-12-not-coming-in-2024-3406849/)
+ - [First-gen AirPods Pro update brings firmware up to 6.0](https://appleinsider.com/articles/24/01/23/first-gen-airpods-pro-update-brings-firmware-up-to-60?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
