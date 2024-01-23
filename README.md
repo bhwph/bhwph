@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Killers of the Flower Moon&#39; nominated for 10 Oscars, including Best Picture](https://appleinsider.com/articles/24/01/23/killers-of-the-flower-moon-nominated-for-10-oscars-including-best-picture?utm_medium=rss)
- - [13 Best Cozy Games &lpar;2024&rpar; for Switch, PlayStation, Steam, Xbox](https://www.wired.com/gallery/best-cozy-games/)
- - [Nvidia RTX 4070 Ti Super review: not very super](https://www.theverge.com/24046652/nvidia-rtx-4070-ti-super-review-gpu-graphics-card-benchmark-test)<!-- TECH:END -->
+ - [Surprisingly, scientists decline to move the Doomsday Clock closer to midnight](https://www.theverge.com/2024/1/23/24047902/doomsday-clock-artificial-intelligence-nuclear-war-climate-change-bulletin-atomic-scientists)
+ - [Clerk, which helps app developers authenticate and manage users, raised a $30M Series B led by CRV, says it has ~1,300 paying customers managing 16M users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240123/p17#a240123p17)
+ - [Best price ever on the Fossil Gen 6 Wellness Edition at only $99](https://www.androidauthority.com/deal-fossil-gen-6-wellness-edition-3406711/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
