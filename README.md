@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chair in Croatia 218 euros, average income 1200 euros Chair in Germany 99 euros, average income 3200 euros](http://9gag.com/gag/a3Zme2N)
- - 😝 [Meet Macaulay Culkin, wife Brenda Song and son Kevin McAllister](http://9gag.com/gag/avQNBmb)
- - 👉 [The CCP cocksucker](http://9gag.com/gag/anz63Z0)<!-- MEMES:END -->
+ - 6️⃣ [What\u2019s he seeing](http://9gag.com/gag/aGEX6E0)
+ - 😝 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)
+ - 👉 [CCP demanded a piano player in a public place to stop filming because they were in the background](http://9gag.com/gag/amA3dEy)<!-- MEMES:END -->
 
 --- 
 
