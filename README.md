@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surprisingly, scientists decline to move the Doomsday Clock closer to midnight](https://www.theverge.com/2024/1/23/24047902/doomsday-clock-artificial-intelligence-nuclear-war-climate-change-bulletin-atomic-scientists)
- - [Clerk, which helps app developers authenticate and manage users, raised a $30M Series B led by CRV, says it has ~1,300 paying customers managing 16M users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240123/p17#a240123p17)
- - [Best price ever on the Fossil Gen 6 Wellness Edition at only $99](https://www.androidauthority.com/deal-fossil-gen-6-wellness-edition-3406711/)<!-- TECH:END -->
+ - [Samsung reportedly developing a cheaper version of the Galaxy Z Fold 6](https://www.androidauthority.com/cheaper-galaxy-z-fold-6-3406766/)
+ - [This baby is covered in old flip phones and chips — and you cannot afford it](https://www.theverge.com/2024/1/23/24047903/schiaparelli-couture-paris-fashion-week-robot-tech-baby-dress)
+ - [The Biden Deepfake Robocall Is Only the Beginning](https://www.wired.com/story/biden-robocall-deepfake-danger/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
