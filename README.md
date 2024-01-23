@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI RTX 4070 Ti Super Ventus 3X review](https://www.pcgamer.com/msi-geforce-rtx-4070-ti-super-ventus-review-performance)
- - [Tekken 8 review](https://www.pcgamer.com/tekken-8-review)
- - [PlayStation Store’s top downloads of 2023](https://blog.playstation.com/2024/01/23/playstation-stores-top-downloads-of-2023/)<!-- GAME:END -->
+ - [Netflix’s Avatar: The Last Airbender trailer tries to check all the boxes](https://www.polygon.com/24046767/avatar-the-last-airbender-trailer-netflix-release-date)
+ - [Dragon&#39;s Dogma 2 Devs Say Fast Travel Use Is A Sign Of Boring Worlds](https://kotaku.com/dragons-dogma-2-hideaki-itsuno-fast-travel-boring-1851188719)
+ - [New Obsidian RPG Avowed Shows Off Slick Movement, Reveals First Companions](https://kotaku.com/avowed-rpg-obsidian-microsoft-companions-1851188715)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
