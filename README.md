@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dynamic and Vibrant Shooter Project Downfall is Coming to Xbox Consoles](https://news.xbox.com/en-us/2024/01/24/dynamic-and-vibrant-shooter-project-downfall-is-coming-to-xbox-consoles/)
- - [The first details on Eve Online’s massive new 4X board game](https://www.polygon.com/tabletop-games/24047322/eve-online-board-game-kickstarter-preview)
- - [Jon Stewart returns to host The Daily Show — part-time](https://www.polygon.com/entertainment/24049247/jon-stewart-returns-to-the-daily-show-host-2024)<!-- GAME:END -->
+ - [I want more simple, colorful strategy games like Rising Lords that people will actually play with me](https://www.pcgamer.com/i-want-more-simple-colorful-strategy-games-like-rising-lords-that-people-will-actually-play-with-me)
+ - [Xbox Insider Release Notes – Alpha &lpar;2402.240122-2000&rpar;](https://news.xbox.com/en-us/2024/01/24/xbox-insider-release-notes-alpha-2402-240122-2000/)
+ - [An Action-Packed Cyberpunk Adventure: Anomaly Agent](https://news.xbox.com/en-us/2024/01/24/an-action-packed-cyberpunk-adventure-anomaly-agent/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
