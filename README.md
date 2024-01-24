@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Death Stranding: Director&#39;s Cut&#39; hits iPhone, iPad, and Mac on January 31](https://appleinsider.com/articles/24/01/24/death-stranding-directors-cut-hits-iphone-ipad-and-mac-on-january-31?utm_medium=rss)
- - [Klarna will now let you pay them so you can pay them less money](https://www.theverge.com/2024/1/24/24049445/klarna-plus-bnpl-consumer-debt-ipo)
- - [Insta360’s auto-swiveling Link webcam has fallen to its best price to date](https://www.theverge.com/2024/1/24/24048446/insta360-link-webcam-mobvoi-ticwatch-pro-5-tcl-qm8-mini-led-tv-deal-sale)<!-- TECH:END -->
+ - [Filing: HPE says a group believed to be Russia-linked Midnight Blizzard exfiltrated data from &quot;a small percentage of HPE mailboxes&quot; beginning in May 2023 &lpar;Tom Giles/Bloomberg&rpar;](http://www.techmeme.com/240124/p32#a240124p32)
+ - [This Qi2 car mount is cheaper than a MagSafe charger and can fast-charge your iPhone 15](https://www.theverge.com/2024/1/24/24049436/esr-qi2-car-mount-15w-wireless-iphone-charging-mag-safe)
+ - [Tesla’s profits improved slightly, but still down compared to last year](https://www.theverge.com/2024/1/24/24048988/tesla-q4-earnings-revenue-margin-cybertruck)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
