@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;The key thing is that the good guys have better AIs than the bad guys&#39; says Microsoft founder Bill Gates on the threat from artificial intelligence](https://www.pcgamer.com/the-key-thing-is-that-the-good-guys-have-better-ais-than-the-bad-guys-says-microsoft-founder-bill-gates-on-the-threat-from-artificial-intelligence)
- - [Dolly Parton gave us 2023’s best needle-drop](https://www.polygon.com/24044036/dolly-parton-priscilla-best-needle-drops-2023)
- - [TSMC&#39;s upcoming 2nm chip tech could make for incredibly fast but painfully pricey graphics cards](https://www.pcgamer.com/tsmcs-upcoming-2nm-chip-tech-could-make-for-incredibly-fast-but-painfully-pricey-graphics-cards)<!-- GAME:END -->
+ - [Dynamic and Vibrant Shooter Project Downfall is Coming to Xbox Consoles](https://news.xbox.com/en-us/2024/01/24/dynamic-and-vibrant-shooter-project-downfall-is-coming-to-xbox-consoles/)
+ - [The first details on Eve Online’s massive new 4X board game](https://www.polygon.com/tabletop-games/24047322/eve-online-board-game-kickstarter-preview)
+ - [Jon Stewart returns to host The Daily Show — part-time](https://www.polygon.com/entertainment/24049247/jon-stewart-returns-to-the-daily-show-host-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
