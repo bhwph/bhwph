@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I want more simple, colorful strategy games like Rising Lords that people will actually play with me](https://www.pcgamer.com/i-want-more-simple-colorful-strategy-games-like-rising-lords-that-people-will-actually-play-with-me)
- - [Xbox Insider Release Notes – Alpha &lpar;2402.240122-2000&rpar;](https://news.xbox.com/en-us/2024/01/24/xbox-insider-release-notes-alpha-2402-240122-2000/)
- - [An Action-Packed Cyberpunk Adventure: Anomaly Agent](https://news.xbox.com/en-us/2024/01/24/an-action-packed-cyberpunk-adventure-anomaly-agent/)<!-- GAME:END -->
+ - [24 Days Into 2024 And 3,900+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)
+ - [There’s a new Death Stranding-inspired phone controller, and it’s pee-colored](https://www.polygon.com/2024/1/24/24049119/death-stranding-directors-cut-backbone-one-controller-iphone-android)
+ - [How to get Ancient Technology Points in Palworld](https://www.polygon.com/palworld-guides/24049322/ancient-technology-points-how-to-get)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
