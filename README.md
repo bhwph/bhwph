@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you only skipped 9gag for a day.](http://9gag.com/gag/aQEGbe7)
- - 😝 [The CCP cocksucker](http://9gag.com/gag/anz63Z0)
- - 👉 [This is a good one](http://9gag.com/gag/aoKXoL2)<!-- MEMES:END -->
+ - 6️⃣ [Let them fight](http://9gag.com/gag/aVbArEw)
+ - 😝 [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)
+ - 👉 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)<!-- MEMES:END -->
 
 --- 
 
