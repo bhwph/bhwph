@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)
- - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
- - 👉 [What\u2019s he seeing](http://9gag.com/gag/aGEX6E0)<!-- MEMES:END -->
+ - 6️⃣ [Fridge from 1963.](http://9gag.com/gag/aeQLEXj)
+ - 😝 [Good job mate!](http://9gag.com/gag/aVbA6O8)
+ - 👉 [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)<!-- MEMES:END -->
 
 --- 
 
