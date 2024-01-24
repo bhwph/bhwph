@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia’s RTX GPUs can now upgrade SDR content to HDR using AI](https://www.theverge.com/2024/1/24/24048892/nvidia-rtx-video-hdr-feature-ai)
- - [Rumored iOS 18 Siri boost will be driven by massive acquisitions over years](https://appleinsider.com/articles/24/01/24/rumored-ios-18-siri-boost-will-be-driven-by-massive-acquisitions-over-years?utm_medium=rss)
- - [Apple&#39;s legal fight against Pegasus spyware maker won&#39;t move to Israel](https://appleinsider.com/articles/24/01/24/apples-legal-fight-against-pegasus-spyware-maker-wont-move-to-israel?utm_medium=rss)<!-- TECH:END -->
+ - [Nokia phone maker may be working on six HMD-branded handsets](https://www.androidauthority.com/hmd-smartphone-codenames-3407200/)
+ - [Inside an Election Denial Facebook Group on Primary Day](https://www.wired.com/story/election-denial-facebook-group-new-hampshire/)
+ - [First chance to save 30% on the 256GB Samsung Galaxy Tab S9](https://www.androidauthority.com/deal-galaxy-tab-s9-3407237/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
