@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s legal fight against Pegasus spyware maker won&#39;t move to Israel](https://appleinsider.com/articles/24/01/24/apples-legal-fight-against-pegasus-spyware-maker-wont-move-to-israel?utm_medium=rss)
- - [AMD’s new frame generation technology can boost FPS on most PC games](https://www.theverge.com/2024/1/24/24048904/amd-fluid-motion-frames-frame-geneation-directx-11-12-feature-support)
- - [Social Media Is Getting Smaller—and More Treacherous](https://www.wired.com/story/social-media-is-getting-smaller-and-more-treacherous/)<!-- TECH:END -->
+ - [Nvidia’s RTX GPUs can now upgrade SDR content to HDR using AI](https://www.theverge.com/2024/1/24/24048892/nvidia-rtx-video-hdr-feature-ai)
+ - [Rumored iOS 18 Siri boost will be driven by massive acquisitions over years](https://appleinsider.com/articles/24/01/24/rumored-ios-18-siri-boost-will-be-driven-by-massive-acquisitions-over-years?utm_medium=rss)
+ - [Apple&#39;s legal fight against Pegasus spyware maker won&#39;t move to Israel](https://appleinsider.com/articles/24/01/24/apples-legal-fight-against-pegasus-spyware-maker-wont-move-to-israel?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
