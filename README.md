@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [1st guy: `I&#39;ve poured blood, sweat and tears training for this`. 2nd guy: `but will you die for it?`](http://9gag.com/gag/aREnWVA)
- - 😝 [When you only skipped 9gag for a day.](http://9gag.com/gag/aQEGbe7)
- - 👉 [It&#39;s totally unnecessary, but it&#39;s about giving you the worst diarrhea.](http://9gag.com/gag/a04BqDq)<!-- MEMES:END -->
+ - 6️⃣ [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)
+ - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
+ - 👉 [What\u2019s he seeing](http://9gag.com/gag/aGEX6E0)<!-- MEMES:END -->
 
 --- 
 
