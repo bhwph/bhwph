@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nokia phone maker may be working on six HMD-branded handsets](https://www.androidauthority.com/hmd-smartphone-codenames-3407200/)
- - [Inside an Election Denial Facebook Group on Primary Day](https://www.wired.com/story/election-denial-facebook-group-new-hampshire/)
- - [First chance to save 30% on the 256GB Samsung Galaxy Tab S9](https://www.androidauthority.com/deal-galaxy-tab-s9-3407237/)<!-- TECH:END -->
+ - [Google’s Art Selfie 2 app transforms your selfies into historic art styles](https://www.androidauthority.com/google-art-selfie-2-app-3407307/)
+ - [Streamers who rely on Twitch Prime Gaming subs are getting a slight pay cut](https://www.theverge.com/2024/1/24/24048458/twitch-prime-subscription-change-partner-plus-expansion)
+ - [Microsoft is now a $3 trillion company](https://www.theverge.com/2024/1/24/24049285/microsoft-3-trillion-dollar-market-valuation-milestone)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
