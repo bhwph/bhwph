@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Kai-Fu Lee, an AI expert who helped Microsoft and Google get established in China and whose startup 01.AI is leading the open source AI race &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240124/p8#a240124p8)
- - [Apple&#39;s acquisitions, job postings, and academic papers shed light on the company&#39;s AI plans; PitchBook; Apple has bought 21 AI startups since the start of 2017 &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240124/p7#a240124p7)
- - [ASML reports Q4 revenue of &amp;euro;6.67B and net profit up 9% YoY to &amp;euro;2B, both above est., orders grew 3x QoQ to &amp;euro;9B+, and expects 2024 net sales to be similar to 2023 &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240124/p6#a240124p6)<!-- TECH:END -->
+ - [OPPO and Nokia are friends again: Global agreement clears the way for phone sales](https://www.androidauthority.com/oppo-nokia-truce-3407050/)
+ - [As Chinese tech manufacturers flock to Vietnam to set up new factories, Bac Ninh, an industrial hub northeast of Hanoi, has become a center for Chinese culture &lpar;Rest of World&rpar;](http://www.techmeme.com/240124/p9#a240124p9)
+ - [Verizon Customers Could Get up to $100 Each in Settlement Payout. How to Claim the Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-get-a-100-settlement-payout-how-to-claim-the-class-action-money/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
