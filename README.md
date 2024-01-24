@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tower of Fantasy × Evangelion collaboration details revealed](https://blog.playstation.com/2024/01/24/tower-of-fantasy-x-evangelion-collaboration-details-revealed/)
- - [Design an Original Starfield Spacesuit and it Could Be Yours for Real](https://news.xbox.com/en-us/2024/01/24/starfield-spacesuit-competition/)
- - [Hellblade took big swings for a AAA game, and there’s never been a better time to play it](https://www.polygon.com/gaming/2024/1/24/24048335/hellblade-senuas-sacrifice-video-game-storytelling-steam-sale)<!-- GAME:END -->
+ - [&#39;The key thing is that the good guys have better AIs than the bad guys&#39; says Microsoft founder Bill Gates on the threat from artificial intelligence](https://www.pcgamer.com/the-key-thing-is-that-the-good-guys-have-better-ais-than-the-bad-guys-says-microsoft-founder-bill-gates-on-the-threat-from-artificial-intelligence)
+ - [Dolly Parton gave us 2023’s best needle-drop](https://www.polygon.com/24044036/dolly-parton-priscilla-best-needle-drops-2023)
+ - [TSMC&#39;s upcoming 2nm chip tech could make for incredibly fast but painfully pricey graphics cards](https://www.pcgamer.com/tsmcs-upcoming-2nm-chip-tech-could-make-for-incredibly-fast-but-painfully-pricey-graphics-cards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
