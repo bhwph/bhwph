@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get ready for more Netflix price hikes in the near future](https://www.androidauthority.com/netflix-price-hike-2024-3406969/)
- - [AiDash, which uses AI to search satellite images to spot fire and weather risks on power lines, raised a $50M Series C led by Lightrock &lpar;Peter Henderson/Reuters&rpar;](http://www.techmeme.com/240123/p37#a240123p37)
- - [Sources: Jack Ma and Joe Tsai become Alibaba&#39;s largest shareholders after buying shares worth ~$50M and ~$150M, respectively, in Q4, together eclipsing SoftBank &lpar;Zhou Xin/South China Morning Post&rpar;](http://www.techmeme.com/240123/p36#a240123p36)<!-- TECH:END -->
+ - [A filing in a class action suit by 10 US artists against Midjourney and others lists 16,000 artist names whose work Midjourney had allegedly used for training &lpar;James Tapper/The Guardian&rpar;](http://www.techmeme.com/240124/p3#a240124p3)
+ - [A US federal judge denies NSO Group&#39;s motion to dismiss the lawsuit from Apple and orders the Pegasus spyware maker to answer Apple&#39;s complaint by February 14 &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240124/p2#a240124p2)
+ - [Xianyu, Alibaba&#39;s online second-hand goods trading platform that claims to have 500M+ users, is opening its first bricks-and-mortar store in Hangzhou, China &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/240124/p1#a240124p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
