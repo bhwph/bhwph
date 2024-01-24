@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty: Best Loadout And Attachments For The HRM-9 SMG](https://kotaku.com/call-of-duty-mw3-hrm-9-smg-best-loadout-tips-1851190560)
- - [Palworld list of Pals, types, and base skills](https://www.polygon.com/palworld-guides/24047325/pals-list-types-elements-base-skills-paldeck)
- - [Cyberpunk 2077 Sequel Might Actually Have Multiplayer](https://kotaku.com/cyberpunk-2077-sequel-orion-multiplayer-1851190429)<!-- GAME:END -->
+ - [The only pal I want is my robot spider in Diablo 4&#39;s most challenging season yet](https://www.pcgamer.com/the-only-pal-i-want-is-my-robot-spider-in-diablo-4s-most-challenging-season-yet)
+ - [There&#39;s a new Stargate: SG-1 tactics game on Steam, because the &#39;90s are forever](https://www.pcgamer.com/theres-a-new-stargate-sg-1-tactics-game-on-steam-because-the-90s-are-forever)
+ - [Avowed&#39;s companions won&#39;t ditch you for making the &#39;wrong&#39; choices: &#39;It&#39;s not about maintaining their approval, it&#39;s about getting to know them&#39;](https://www.pcgamer.com/avoweds-companions-wont-ditch-you-for-making-the-wrong-choices-its-not-about-maintaining-their-approval-its-about-getting-to-know-them)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
