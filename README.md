@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fridge from 1963.](http://9gag.com/gag/aeQLEXj)
- - 😝 [Good job mate!](http://9gag.com/gag/aVbA6O8)
- - 👉 [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)<!-- MEMES:END -->
+ - 6️⃣ [1st guy: `I&#39;ve poured blood, sweat and tears training for this`. 2nd guy: `but will you die for it?`](http://9gag.com/gag/aREnWVA)
+ - 😝 [Egg boy](http://9gag.com/gag/a8qZO3Q)
+ - 👉 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)<!-- MEMES:END -->
 
 --- 
 
