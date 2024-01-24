@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NSA spies panicked over &#39;AI&#39; Furbies way back in the late 90s according to official document dump](https://www.pcgamer.com/nsa-spies-panicked-over-ai-furbies-way-back-in-the-late-90s-according-to-official-document-dump)
- - [Palworld releases roadmap with big promises but no dates: PvP, new islands, raid bosses, and an end to Game Pass woes](https://www.pcgamer.com/palworld-releases-roadmap-with-big-promises-but-no-dates-pvp-new-islands-raid-bosses-and-an-end-to-game-pass-woes)
- - [AMD Fluid Motion Frames finally goes official, driver-based frame generation for any DX11/12 game](https://www.pcgamer.com/amd-fluid-motion-frames-finally-goes-official-driver-based-frame-generation-for-any-dx1112-game)<!-- GAME:END -->
+ - [Tower of Fantasy × Evangelion collaboration details revealed](https://blog.playstation.com/2024/01/24/tower-of-fantasy-x-evangelion-collaboration-details-revealed/)
+ - [Design an Original Starfield Spacesuit and it Could Be Yours for Real](https://news.xbox.com/en-us/2024/01/24/starfield-spacesuit-competition/)
+ - [Hellblade took big swings for a AAA game, and there’s never been a better time to play it](https://www.polygon.com/gaming/2024/1/24/24048335/hellblade-senuas-sacrifice-video-game-storytelling-steam-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
