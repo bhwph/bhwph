@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas Instruments reports Q4 revenue down 13% YoY to $4.08B, vs. $4.13B est., and FY 2023 sales down ~13% YoY, the company&#39;s biggest fall in over a decade &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240123/p35#a240123p35)
- - [B&amp;H Photo slashes up to $1,200 off MacBooks &amp; iMacs this week](https://appleinsider.com/articles/24/01/24/bh-photo-slashes-up-to-1200-off-macbooks-imacs-this-week?utm_medium=rss)
- - [Nintendo has set the April shutdown date for 3DS and Wii U online play](https://www.theverge.com/2024/1/23/24048673/nintendo-3ds-wii-u-online-service-shutdown-date-time)<!-- TECH:END -->
+ - [Get ready for more Netflix price hikes in the near future](https://www.androidauthority.com/netflix-price-hike-2024-3406969/)
+ - [AiDash, which uses AI to search satellite images to spot fire and weather risks on power lines, raised a $50M Series C led by Lightrock &lpar;Peter Henderson/Reuters&rpar;](http://www.techmeme.com/240123/p37#a240123p37)
+ - [Sources: Jack Ma and Joe Tsai become Alibaba&#39;s largest shareholders after buying shares worth ~$50M and ~$150M, respectively, in Q4, together eclipsing SoftBank &lpar;Zhou Xin/South China Morning Post&rpar;](http://www.techmeme.com/240123/p36#a240123p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
