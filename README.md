@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO and Nokia are friends again: Global agreement clears the way for phone sales](https://www.androidauthority.com/oppo-nokia-truce-3407050/)
- - [As Chinese tech manufacturers flock to Vietnam to set up new factories, Bac Ninh, an industrial hub northeast of Hanoi, has become a center for Chinese culture &lpar;Rest of World&rpar;](http://www.techmeme.com/240124/p9#a240124p9)
- - [Verizon Customers Could Get up to $100 Each in Settlement Payout. How to Claim the Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-get-a-100-settlement-payout-how-to-claim-the-class-action-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s legal fight against Pegasus spyware maker won&#39;t move to Israel](https://appleinsider.com/articles/24/01/24/apples-legal-fight-against-pegasus-spyware-maker-wont-move-to-israel?utm_medium=rss)
+ - [AMD’s new frame generation technology can boost FPS on most PC games](https://www.theverge.com/2024/1/24/24048904/amd-fluid-motion-frames-frame-geneation-directx-11-12-feature-support)
+ - [Social Media Is Getting Smaller—and More Treacherous](https://www.wired.com/story/social-media-is-getting-smaller-and-more-treacherous/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
