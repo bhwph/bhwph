@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The only pal I want is my robot spider in Diablo 4&#39;s most challenging season yet](https://www.pcgamer.com/the-only-pal-i-want-is-my-robot-spider-in-diablo-4s-most-challenging-season-yet)
- - [There&#39;s a new Stargate: SG-1 tactics game on Steam, because the &#39;90s are forever](https://www.pcgamer.com/theres-a-new-stargate-sg-1-tactics-game-on-steam-because-the-90s-are-forever)
- - [Avowed&#39;s companions won&#39;t ditch you for making the &#39;wrong&#39; choices: &#39;It&#39;s not about maintaining their approval, it&#39;s about getting to know them&#39;](https://www.pcgamer.com/avoweds-companions-wont-ditch-you-for-making-the-wrong-choices-its-not-about-maintaining-their-approval-its-about-getting-to-know-them)<!-- GAME:END -->
+ - [Obsidian&#39;s next RPG Avowed won&#39;t have the option to do &#39;a pure pacifist run&#39;](https://www.pcgamer.com/obsidians-next-rpg-avowed-wont-have-the-option-to-do-a-pure-pacifist-run)
+ - [Framework 16 review](https://www.pcgamer.com/framework-16-modular-gaming-laptop-review)
+ - [The only pal I want is my robot spider in Diablo 4&#39;s most challenging season yet](https://www.pcgamer.com/the-only-pal-i-want-is-my-robot-spider-in-diablo-4s-most-challenging-season-yet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
