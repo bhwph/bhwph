@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: The Galaxy S24 series isn’t doing it for you](https://www.androidauthority.com/galaxy-s24-series-hot-not-poll-results-3407478/)
- - [Franco-Italian chipmaker STMicro reports Q4 revenue down 3.2% YoY to $4.28B, meeting est., and expects Q1 revenue to fall 15% YoY to $3.6B, below $4.1B est. &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/240125/p6#a240125p6)
- - [Arati Prabhakar, director of the White House Office of Science and Technology Policy, says the US will work with China on AI safety, despite trade tensions &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240125/p5#a240125p5)<!-- TECH:END -->
+ - [Fire Country season 2: Release date and the latest rumors](https://www.androidauthority.com/fire-country-season-2-release-date-3407313/)
+ - [Want to use a screen protector on curved display? OnePlus got your back with the 12 and 12R](https://www.androidauthority.com/oneplus-12-12r-screen-protector-phone-hole-seal-stickers-3407507/)
+ - [Mark your calendars: Ghosts season 3 release date and must-know spoilers are here](https://www.androidauthority.com/ghosts-season-3-release-date-3407054/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
