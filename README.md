@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gale is one of Baldur&#39;s Gate 3&#39;s best romances—and I&#39;m tired of pretending he&#39;s not](https://www.pcgamer.com/gale-is-one-of-baldurs-gate-3s-best-romancesand-im-tired-of-pretending-hes-not)
- - [The Pokémon Company is investigating Palworld](https://www.polygon.com/24050193/palworld-pokemon-company-investigation-ip)
- - [Palworld players channel their inner hunter-gatherers to fell a giant mammoth by herding it into campfires, devs call it &#39;genius&#39;](https://www.pcgamer.com/palworld-players-channel-their-inner-hunter-gatherers-to-fell-a-giant-mammoth-by-herding-it-into-campfires-devs-call-it-genius)<!-- GAME:END -->
+ - [Chronicles of Light: Darkness Falls is the Disney heroine team-up of our dreams](https://www.polygon.com/24048306/disney-board-game-chronicles-of-light-darkness-falls-preview-belle)
+ - [Train Sim World 4 and how The Sims ironically inspired the simulator&#39;s approach to community generated content](https://www.pcgamer.com/train-sim-world-4-and-how-the-sims-ironically-inspired-the-simulators-approach-to-community-generated-content)
+ - [11 years in, Old School RuneScape&#39;s toaster graphics are about to look better than ever](https://www.pcgamer.com/11-years-in-old-school-runescapes-toaster-graphics-are-about-to-look-better-than-ever)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
