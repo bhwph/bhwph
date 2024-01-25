@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The CCP cocksucker](http://9gag.com/gag/anz63Z0)
- - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
- - 👉 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)<!-- MEMES:END -->
+ - 6️⃣ [They said it couldn&#39;t be done](http://9gag.com/gag/axo5LGW)
+ - 😝 [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)
+ - 👉 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)<!-- MEMES:END -->
 
 --- 
 
