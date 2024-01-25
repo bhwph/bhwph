@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
- - 😝 [Go out for a walk with my pocket mashine gun](http://9gag.com/gag/aA0jzGo)
- - 👉 [I guess he&#39;s right](http://9gag.com/gag/agoWwZK)<!-- MEMES:END -->
+ - 6️⃣ [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
+ - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
+ - 👉 [Anxiety personified](http://9gag.com/gag/aPg5qgK)<!-- MEMES:END -->
 
 --- 
 
