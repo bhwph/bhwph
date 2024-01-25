@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
- - 😝 [Random title](http://9gag.com/gag/awZw2yr)
+ - 6️⃣ [Turns the match into ballet session](http://9gag.com/gag/aMEg566)
+ - 😝 [True love](http://9gag.com/gag/aWGzAGZ)
  - 👉 [The IQ Test](http://9gag.com/gag/a9qo4VW)<!-- MEMES:END -->
 
 --- 
