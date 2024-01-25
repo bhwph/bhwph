@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [A workable solution](http://9gag.com/gag/aEq344x)
  - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
- - 👉 [Anxiety personified](http://9gag.com/gag/aPg5qgK)<!-- MEMES:END -->
+ - 👉 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)<!-- MEMES:END -->
 
 --- 
 
