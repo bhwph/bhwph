@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fire Country season 2: Release date and the latest rumors](https://www.androidauthority.com/fire-country-season-2-release-date-3407313/)
- - [Want to use a screen protector on curved display? OnePlus got your back with the 12 and 12R](https://www.androidauthority.com/oneplus-12-12r-screen-protector-phone-hole-seal-stickers-3407507/)
- - [Mark your calendars: Ghosts season 3 release date and must-know spoilers are here](https://www.androidauthority.com/ghosts-season-3-release-date-3407054/)<!-- TECH:END -->
+ - [Sources: research group China Tech Threat, which has advocated against Lenovo, aligns with the corporate interests of Dell and Micron, both long-term funders &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240125/p11#a240125p11)
+ - [Instagram and Facebook will now prevent strangers from messaging minors by default](https://www.theverge.com/2024/1/25/24050207/meta-instagram-messenger-messaging-restrictions-minors-teens-parental-settings)
+ - [iPhone 15&#39;s Ceramic Shield survives bird attack in new ad](https://appleinsider.com/articles/24/01/25/iphone-15s-ceramic-shield-survives-bird-attack-in-new-ad?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
