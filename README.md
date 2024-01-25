@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda Producer Appears In Universal Parks Video, Prompting Speculation](https://kotaku.com/legend-of-zelda-universal-studios-parks-eiji-aunoma-1851196596)
- - [Palworld is the Pokémon this sinful world deserves](https://www.pcgamer.com/palworld-is-the-pokemon-this-sinful-world-deserves)
- - [How to get sulphur in Palworld](https://www.pcgamer.com/palworld-sulphur-farm)<!-- GAME:END -->
+ - [This co-op survival game looks like a mad scientist&#39;s mashup of Lethal Company and Half-Life—and there&#39;s a demo out now](https://www.pcgamer.com/this-co-op-survival-game-looks-like-a-mad-scientists-mashup-of-lethal-company-and-half-lifeand-theres-a-demo-out-now)
+ - [The demo for poker-based roguelike Balatro returns today with nearly 40 new jokers—plus a full release date in February](https://www.pcgamer.com/the-demo-for-poker-based-roguelike-balatro-returns-today-with-nearly-40-new-jokersplus-a-full-release-date-in-february)
+ - [Palworld Devs Are Aware Of The Game’s Growing Cheating Epidemic](https://kotaku.com/palworld-cheat-hack-exploit-steam-xbox-patch-pocketpair-1851197306)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
