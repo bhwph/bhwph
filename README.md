@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [24 Days Into 2024 And 3,900+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)
- - [There’s a new Death Stranding-inspired phone controller, and it’s pee-colored](https://www.polygon.com/2024/1/24/24049119/death-stranding-directors-cut-backbone-one-controller-iphone-android)
- - [How to get Ancient Technology Points in Palworld](https://www.polygon.com/palworld-guides/24049322/ancient-technology-points-how-to-get)<!-- GAME:END -->
+ - [The best Palworld mods so far and how to install them](https://www.pcgamer.com/best-palworld-mods)
+ - [Dungeons and Dragons is coming to VR](https://www.pcgamer.com/dungeons-and-dragons-is-coming-to-vr)
+ - [Palworld struggled to find a dev with shooter experience in Japan before stumbling on a self-taught hobbyist who worked at a convenience store](https://www.pcgamer.com/palworld-struggled-to-find-a-dev-with-shooter-experience-in-japan-before-stumbling-on-a-self-taught-hobbyist-who-worked-at-a-convenience-store)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
