@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trolls have flooded X with graphic Taylor Swift AI fakes](https://www.theverge.com/2024/1/25/24050334/x-twitter-taylor-swift-ai-fake-images-trending)
- - [Fubo TV launches Instant Headlines Beta, which uses AI to generate headlines from live news programs on Fox News, MSNBC, CNN, and other networks &lpar;Luke Bouma/Cord Cutters News&rpar;](http://www.techmeme.com/240125/p22#a240125p22)
- - [I love my GPT, but I can’t find a use for anybody else’s](https://www.theverge.com/24049623/chatgpt-openai-custom-gpt-store-assistants)<!-- TECH:END -->
+ - [Apple has new rules &amp; business terms for EU developers for the App Store and sideloading](https://appleinsider.com/articles/24/01/25/apple-will-charge-eu-developers-to-sideload-but-its-not-quite-as-bad-as-rumored?utm_medium=rss)
+ - [First developer betas of iOS 17.4, iPadOS 17.4 arrive with EU App Store changes in the EU](https://appleinsider.com/articles/24/01/25/first-developer-betas-of-ios-174-ipados-174-arrive-with-eu-app-store-changes-in-the-eu?utm_medium=rss)
+ - [Apple drops first developer beta of tvOS 17.4 for testing](https://appleinsider.com/articles/24/01/25/apple-drops-first-developer-beta-of-tvos-174-for-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
