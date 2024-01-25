@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York City issues a public health advisory officially designating social media as an &quot;environmental toxin&quot;, blaming it for a youth mental health crisis &lpar;Sareen Habeshian/Axios&rpar;](http://www.techmeme.com/240124/p34#a240124p34)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [The Pixel 8 Pro’s Thermometer app can finally record your body temperature](https://www.androidauthority.com/pixel-8-pro-temperature-sensor-update-2024-3407008/)<!-- TECH:END -->
+ - [Elon Musk Says a Cheaper Tesla Model Is Coming in 2025 as Chinese Competition Intensifies](https://www.wired.com/story/elon-musk-says-cheaper-tesla-coming-2025/)
+ - [SK Hynix reports Q4 operating profit of ~$259M, versus estimates of a ~$127M loss, and revenue up 47% YoY to ~$8.4B, beating even the highest analyst forecast &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240124/p36#a240124p36)
+ - [Toronto-based Spellbook, which offers an AI-powered contract drafting and review tool for lawyers, raised a $20M Series A led by Inovia Capital &lpar;Sara Merken/Reuters&rpar;](http://www.techmeme.com/240124/p35#a240124p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
