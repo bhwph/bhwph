@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
- - 😝 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
- - 👉 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)<!-- MEMES:END -->
+ - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
+ - 👉 [Anxiety personified](http://9gag.com/gag/aPg5qgK)<!-- MEMES:END -->
 
 --- 
 
