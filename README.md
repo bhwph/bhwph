@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chronicles of Light: Darkness Falls is the Disney heroine team-up of our dreams](https://www.polygon.com/24048306/disney-board-game-chronicles-of-light-darkness-falls-preview-belle)
- - [Train Sim World 4 and how The Sims ironically inspired the simulator&#39;s approach to community generated content](https://www.pcgamer.com/train-sim-world-4-and-how-the-sims-ironically-inspired-the-simulators-approach-to-community-generated-content)
- - [11 years in, Old School RuneScape&#39;s toaster graphics are about to look better than ever](https://www.pcgamer.com/11-years-in-old-school-runescapes-toaster-graphics-are-about-to-look-better-than-ever)<!-- GAME:END -->
+ - [Zelda Producer Appears In Universal Parks Video, Prompting Speculation](https://kotaku.com/legend-of-zelda-universal-studios-parks-eiji-aunoma-1851196596)
+ - [Palworld is the Pokémon this sinful world deserves](https://www.pcgamer.com/palworld-is-the-pokemon-this-sinful-world-deserves)
+ - [How to get sulphur in Palworld](https://www.pcgamer.com/palworld-sulphur-farm)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
