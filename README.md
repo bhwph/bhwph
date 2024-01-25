@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: HPE says a group believed to be Russia-linked Midnight Blizzard exfiltrated data from &quot;a small percentage of HPE mailboxes&quot; beginning in May 2023 &lpar;Tom Giles/Bloomberg&rpar;](http://www.techmeme.com/240124/p32#a240124p32)
- - [This Qi2 car mount is cheaper than a MagSafe charger and can fast-charge your iPhone 15](https://www.theverge.com/2024/1/24/24049436/esr-qi2-car-mount-15w-wireless-iphone-charging-mag-safe)
- - [Tesla’s profits improved slightly, but still down compared to last year](https://www.theverge.com/2024/1/24/24048988/tesla-q4-earnings-revenue-margin-cybertruck)<!-- TECH:END -->
+ - [New York City issues a public health advisory officially designating social media as an &quot;environmental toxin&quot;, blaming it for a youth mental health crisis &lpar;Sareen Habeshian/Axios&rpar;](http://www.techmeme.com/240124/p34#a240124p34)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [The Pixel 8 Pro’s Thermometer app can finally record your body temperature](https://www.androidauthority.com/pixel-8-pro-temperature-sensor-update-2024-3407008/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
