@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld is 2024&#39;s first breakout hit. Why is it so popular?](https://www.pcgamer.com/palworld-is-2024s-first-breakout-hit-why-is-it-so-popular)
- - [The best Palworld mods so far and how to install them](https://www.pcgamer.com/best-palworld-mods)
- - [Dungeons and Dragons is coming to VR](https://www.pcgamer.com/dungeons-and-dragons-is-coming-to-vr)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #950 for Thursday, January 25](https://www.pcgamer.com/wordle-today-answer-950-january-25)
+ - [Intel&#39;s Arc graphics cards receive yet another major performance uplift with the latest driver](https://www.pcgamer.com/intels-arc-graphics-cards-receive-yet-another-major-performance-uplift-with-the-latest-driver)
+ - [Palworld is 2024&#39;s first breakout hit. Why is it so popular?](https://www.pcgamer.com/palworld-is-2024s-first-breakout-hit-why-is-it-so-popular)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
