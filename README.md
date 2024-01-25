@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: research group China Tech Threat, which has advocated against Lenovo, aligns with the corporate interests of Dell and Micron, both long-term funders &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240125/p11#a240125p11)
- - [Instagram and Facebook will now prevent strangers from messaging minors by default](https://www.theverge.com/2024/1/25/24050207/meta-instagram-messenger-messaging-restrictions-minors-teens-parental-settings)
- - [iPhone 15&#39;s Ceramic Shield survives bird attack in new ad](https://appleinsider.com/articles/24/01/25/iphone-15s-ceramic-shield-survives-bird-attack-in-new-ad?utm_medium=rss)<!-- TECH:END -->
+ - [Poll: Titanium or aluminum, what do you prefer?](https://www.androidauthority.com/titanium-or-aluminum-poll-3405313/)
+ - [How to Shop for a Mechanical Keyboard &lpar;2024&rpar;: Switches, Materials, and Layouts Explained](https://www.wired.com/story/how-to-shop-for-a-mechanical-keyboard/)
+ - [GM and Honda join forces to make hydrogen fuel cells for ‘various products’](https://www.theverge.com/2024/1/25/24049470/gm-honda-hydrogen-fuel-cells-joint-venture-michigan)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
