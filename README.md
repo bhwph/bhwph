@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our way-too-early Game of the Year 2024 predictions](https://www.pcgamer.com/our-way-too-early-game-of-the-year-2024-predictions)
- - [Don&#39;t sleep on one of Enshrouded&#39;s coolest features… which is literally sleep](https://www.pcgamer.com/dont-sleep-on-one-of-enshroudeds-coolest-features-which-is-literally-sleep)
- - [10 Minutes From Infinite Wealth’s Animal Crossing-Inspired Mode](https://kotaku.com/like-a-dragon-infinite-wealth-dondoko-island-gameplay-1851197657)<!-- GAME:END -->
+ - [Not Even Call Of Duty Devs Are Safe From Layoffs](https://kotaku.com/call-of-duty-layoffs-infinity-ward-raven-sledgehammer-1851198666)
+ - [Just four months after launching into early access, Nexon&#39;s &#39;full contact sword action&#39; game Warhaven is shutting down](https://www.pcgamer.com/just-four-months-after-launching-into-early-access-nexons-full-contact-sword-action-game-warhaven-is-shutting-down)
+ - [What’s up with Metroid Prime 4?](https://www.polygon.com/24050473/metroid-prime-4-nintendo-switch-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
