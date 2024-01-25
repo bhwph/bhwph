@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
- - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
- - 👉 [Anxiety personified](http://9gag.com/gag/aPg5qgK)<!-- MEMES:END -->
+ - 6️⃣ [We are Kenough](http://9gag.com/gag/aVbAyYw)
+ - 😝 [Hehe](http://9gag.com/gag/adPEGxM)
+ - 👉 [Who have been there? I have.](http://9gag.com/gag/aL1xZMv)<!-- MEMES:END -->
 
 --- 
 
