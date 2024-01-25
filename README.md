@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Titanium or aluminum, what do you prefer?](https://www.androidauthority.com/titanium-or-aluminum-poll-3405313/)
- - [How to Shop for a Mechanical Keyboard &lpar;2024&rpar;: Switches, Materials, and Layouts Explained](https://www.wired.com/story/how-to-shop-for-a-mechanical-keyboard/)
- - [GM and Honda join forces to make hydrogen fuel cells for ‘various products’](https://www.theverge.com/2024/1/25/24049470/gm-honda-hydrogen-fuel-cells-joint-venture-michigan)<!-- TECH:END -->
+ - [Trolls have flooded X with graphic Taylor Swift AI fakes](https://www.theverge.com/2024/1/25/24050334/x-twitter-taylor-swift-ai-fake-images-trending)
+ - [Fubo TV launches Instant Headlines Beta, which uses AI to generate headlines from live news programs on Fox News, MSNBC, CNN, and other networks &lpar;Luke Bouma/Cord Cutters News&rpar;](http://www.techmeme.com/240125/p22#a240125p22)
+ - [I love my GPT, but I can’t find a use for anybody else’s](https://www.theverge.com/24049623/chatgpt-openai-custom-gpt-store-assistants)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
