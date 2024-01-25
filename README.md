@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This co-op survival game looks like a mad scientist&#39;s mashup of Lethal Company and Half-Life—and there&#39;s a demo out now](https://www.pcgamer.com/this-co-op-survival-game-looks-like-a-mad-scientists-mashup-of-lethal-company-and-half-lifeand-theres-a-demo-out-now)
- - [The demo for poker-based roguelike Balatro returns today with nearly 40 new jokers—plus a full release date in February](https://www.pcgamer.com/the-demo-for-poker-based-roguelike-balatro-returns-today-with-nearly-40-new-jokersplus-a-full-release-date-in-february)
- - [Palworld Devs Are Aware Of The Game’s Growing Cheating Epidemic](https://kotaku.com/palworld-cheat-hack-exploit-steam-xbox-patch-pocketpair-1851197306)<!-- GAME:END -->
+ - [Our way-too-early Game of the Year 2024 predictions](https://www.pcgamer.com/our-way-too-early-game-of-the-year-2024-predictions)
+ - [Don&#39;t sleep on one of Enshrouded&#39;s coolest features… which is literally sleep](https://www.pcgamer.com/dont-sleep-on-one-of-enshroudeds-coolest-features-which-is-literally-sleep)
+ - [10 Minutes From Infinite Wealth’s Animal Crossing-Inspired Mode](https://kotaku.com/like-a-dragon-infinite-wealth-dondoko-island-gameplay-1851197657)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
