@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic&#39;s Tim Sweeney is mad about Apple&#39;s EU App Store concessions](https://appleinsider.com/articles/24/01/25/epics-tim-sweeney-is-mad-about-apples-eu-app-store-concessions?utm_medium=rss)
- - [Epic’s Tim Sweeney calls Apple App Store changes ‘hot garbage’](https://www.theverge.com/2024/1/25/24050696/epic-games-tim-sweeney-apple-app-store-response)
- - [OpenAI announces lower GPT-3.5 Turbo prices, a GPT-4 Turbo preview model to reduce cases of &quot;laziness&quot;, a new generation of embedding models, and more &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240125/p40#a240125p40)<!-- TECH:END -->
+ - [OpenAI cures GPT-4 ‘laziness’ with new updates](https://www.theverge.com/2024/1/25/24050829/openai-gpt-4-turbo-lazy-ai-model)
+ - [Apple is correcting its terrible approval requirements for game streaming apps in iOS 17.4](https://appleinsider.com/articles/24/01/25/game-streaming-apps-in-ios-174-ipados-174-will-be-freed-from-approval-shackles?utm_medium=rss)
+ - [Apple&#39;s Empowering Creatives program expands to two Indigenous causes](https://appleinsider.com/articles/24/01/25/apples-empowering-creatives-program-expands-to-two-indigenous-causes?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
