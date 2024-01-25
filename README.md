@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Indian tutorial we never thought we needed.](http://9gag.com/gag/aGEXvLZ)
- - 😝 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
- - 👉 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
+ - 😝 [Yes pleasee](http://9gag.com/gag/a9qoGy0)
+ - 👉 [The IQ Test](http://9gag.com/gag/a9qo4VW)<!-- MEMES:END -->
 
 --- 
 
