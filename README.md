@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation details a spy tool called Patternz, which can track billions of phone profiles via ads in hundreds of thousands of apps, including 9gag and Kik &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240125/p1#a240125p1)
- - [OnePlus 12 Preorder Deals: Save Up to $800 When You Preorder the New OnePlus Flagship     - CNET](https://www.cnet.com/deals/oneplus-12-deals/#ftag=CAD590a51e)
- - [Sources: Sam Altman has had discussions with members of the US Congress about where and how to build fabs to increase the supply of advanced chips for AI &lpar;Washington Post&rpar;](http://www.techmeme.com/240124/p37#a240124p37)<!-- TECH:END -->
+ - [We asked, you told us: The Galaxy S24 series isn’t doing it for you](https://www.androidauthority.com/galaxy-s24-series-hot-not-poll-results-3407478/)
+ - [Franco-Italian chipmaker STMicro reports Q4 revenue down 3.2% YoY to $4.28B, meeting est., and expects Q1 revenue to fall 15% YoY to $3.6B, below $4.1B est. &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/240125/p6#a240125p6)
+ - [Arati Prabhakar, director of the White House Office of Science and Technology Policy, says the US will work with China on AI safety, despite trade tensions &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240125/p5#a240125p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
