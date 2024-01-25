@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They said it couldn&#39;t be done](http://9gag.com/gag/axo5LGW)
- - 😝 [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)
- - 👉 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)<!-- MEMES:END -->
+ - 6️⃣ [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
+ - 😝 [Go out for a walk with my pocket mashine gun](http://9gag.com/gag/aA0jzGo)
+ - 👉 [I guess he&#39;s right](http://9gag.com/gag/agoWwZK)<!-- MEMES:END -->
 
 --- 
 
