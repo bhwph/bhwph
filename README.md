@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Turns the match into ballet session](http://9gag.com/gag/aMEg566)
- - 😝 [True love](http://9gag.com/gag/aWGzAGZ)
- - 👉 [The IQ Test](http://9gag.com/gag/a9qo4VW)<!-- MEMES:END -->
+ - 6️⃣ [The CCP cocksucker](http://9gag.com/gag/anz63Z0)
+ - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
+ - 👉 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)<!-- MEMES:END -->
 
 --- 
 
