@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Review of Honor&#39;s Magic V2 foldable, launching in UK and Europe for &amp;pound;1,700: very thin and durable but has a dated OS and processor, and software issues &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240126/p18#a240126p18)
- - [The Biden administration will pause new gas export projects](https://www.theverge.com/2024/1/26/24051575/biden-gas-export-projects-pause)
- - [All the new features in iOS 17.4 -- New emoji, EU App Store changes, unreleased devices, and more!](https://appleinsider.com/articles/24/01/26/all-the-new-features-in-ios-174----new-emoji-eu-app-store-changes-unreleased-devices-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Monkey Man’s new trailer feels like a warning shot fired at John Wick](https://www.theverge.com/24051748/monkey-man-trailer-universal-blumhouse-dev-patel-jordan-peele)
+ - [Microsoft explains how Russian hackers spied on its executives](https://www.theverge.com/2024/1/26/24051708/microsoft-hack-russian-security-attack-senior-leadership-emails)
+ - [Microsoft details the techniques that Midnight Blizzard used to breach the email accounts of its executives and other organizations &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240126/p20#a240126p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
