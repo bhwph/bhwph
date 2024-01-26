@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pharrell to tell his life story... in a LEGO movie](https://www.polygon.com/24051631/pharrell-lego-movie-piece-by-piece-release)
- - [A livestreamed D&amp;D one shot will take place inside the vagina of the game&#39;s biggest monster, and it&#39;s for a good cause—science and education](https://www.pcgamer.com/a-livestreamed-dandd-one-shot-will-take-place-inside-the-vagina-of-the-games-biggest-monster-and-its-for-a-good-causescience-and-education)
- - [Share of the Week: The Last of Us Part II Remastered](https://blog.playstation.com/2024/01/26/share-of-the-week-the-last-of-us-part-ii-remastered/)<!-- GAME:END -->
+ - [Everyone Will Finally Get To Play Skull And Bones 6 Years After It Was Revealed](https://kotaku.com/skull-and-bones-open-beta-when-date-carryover-progress-1851201235)
+ - [How did Fortnite get back on iOS?](https://www.polygon.com/gaming/2024/1/26/24051692/fortnite-ios-return-how-download-app-store)
+ - [Disney Lorcana unearths Atlantis: The Lost Empire](https://www.polygon.com/24050639/disney-lorcana-into-the-inklands-atlantis-new-characters-pre-order-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
