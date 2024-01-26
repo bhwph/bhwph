@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI cures GPT-4 ‘laziness’ with new updates](https://www.theverge.com/2024/1/25/24050829/openai-gpt-4-turbo-lazy-ai-model)
- - [Apple is correcting its terrible approval requirements for game streaming apps in iOS 17.4](https://appleinsider.com/articles/24/01/25/game-streaming-apps-in-ios-174-ipados-174-will-be-freed-from-approval-shackles?utm_medium=rss)
- - [Apple&#39;s Empowering Creatives program expands to two Indigenous causes](https://appleinsider.com/articles/24/01/25/apples-empowering-creatives-program-expands-to-two-indigenous-causes?utm_medium=rss)<!-- TECH:END -->
+ - [An NSA letter to Sen. Ron Wyden reveals the agency buys logs related to Americans&#39; domestic internet activities from commercial data brokers without warrants &lpar;Charlie Savage/New York Times&rpar;](http://www.techmeme.com/240125/p49#a240125p49)
+ - [TurboTax Can&#39;t Call Its Services Free Anymore, Unless They&#39;re Free to All     - CNET](https://www.cnet.com/personal-finance/taxes/turbotax-cant-call-its-services-free-anymore-unless-theyre-free-to-all/#ftag=CAD590a51e)
+ - [Bastille, which uses hardware sensors for wireless monitoring to stop espionage in offices, raised a $44M Series C led by Goldman Sachs&#39; venture arm &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240125/p48#a240125p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
