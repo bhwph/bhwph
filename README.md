@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [China&#39;s AI chip industry shows signs of strain as two key players look like they might be in trouble](https://www.pcgamer.com/chinas-ai-chip-industry-shows-signs-of-strain-as-two-key-players-look-like-they-might-be-in-trouble)
- - [Asus plotting second-gen ROG Ally handheld for later this year](https://www.pcgamer.com/asus-plotting-second-gen-rog-ally-handheld-for-later-this-year)
- - [We regret to inform you that Palworld has a smutty lizard &#39;seeking a night of love&#39; with humans, which raids bases in hordes of &#39;rampaging fangirls&#39;](https://www.pcgamer.com/we-regret-to-inform-you-that-palworld-has-a-smutty-lizard-seeking-a-night-of-love-with-humans-which-raids-bases-in-hordes-of-rampaging-fangirls)<!-- GAME:END -->
+ - [The 18 best games on PC](https://www.polygon.com/what-to-play/23941731/best-pc-games-windows-mac-steam-epic)
+ - [Masters of the Air delivers the best WWII action in a generation](https://www.polygon.com/24044106/masters-air-review-austin-butler-apple-tv)
+ - [Apple Appstore opens up to game streaming including Nvidia&#39;s GeForce Now](https://www.pcgamer.com/apple-appstore-opens-up-to-game-streaming-including-nvidias-geforce-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
