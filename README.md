@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 😝 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
- - 👉 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)<!-- MEMES:END -->
+ - 6️⃣ [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
+ - 😝 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
+ - 👉 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)<!-- MEMES:END -->
 
 --- 
 
