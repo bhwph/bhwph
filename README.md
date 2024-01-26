@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 😝 [You got to take them young.](http://9gag.com/gag/a04BAZn)
- - 👉 [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)<!-- MEMES:END -->
+ - 6️⃣ [Nope not tonight](http://9gag.com/gag/agoWMev)
+ - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
+ - 👉 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)<!-- MEMES:END -->
 
 --- 
 
