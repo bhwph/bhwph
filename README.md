@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new phones replace Google AI with Baidu in China](https://www.theverge.com/2024/1/26/24051509/samsung-galaxy-s24-china-launch-baidu-ernie-artificial-intelligence-ai)
- - [&#39;The Last of Us&#39; Was the Most Pirated Show of 2023](https://www.wired.com/story/the-last-of-us-oppenheimer-most-pirated-2023/)
- - [How to Convince Your Flat-Earth Friends the Earth Is Round](https://www.wired.com/story/how-to-prove-the-earth-is-round/)<!-- TECH:END -->
+ - [Review of Honor&#39;s Magic V2 foldable, launching in UK and Europe for &amp;pound;1,700: very thin and durable but has a dated OS and processor, and software issues &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240126/p18#a240126p18)
+ - [The Biden administration will pause new gas export projects](https://www.theverge.com/2024/1/26/24051575/biden-gas-export-projects-pause)
+ - [All the new features in iOS 17.4 -- New emoji, EU App Store changes, unreleased devices, and more!](https://appleinsider.com/articles/24/01/26/all-the-new-features-in-ios-174----new-emoji-eu-app-store-changes-unreleased-devices-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
