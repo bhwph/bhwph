@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surprise! Google Chrome goes native for Windows on Arm](https://www.theverge.com/2024/1/26/24051485/google-chrome-windows-arm-support-canary-channel-test)
- - [Researchers Say the Deepfake Biden Robocall Was Likely Made With Tools From AI Startup ElevenLabs](https://www.wired.com/story/biden-robocall-deepfake-elevenlabs/)
- - [Apple Vision Pro vs. Sony PlayStation VR 2 - display, processing &amp; design](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-sony-playstation-vr---display-processing-design?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung’s new phones replace Google AI with Baidu in China](https://www.theverge.com/2024/1/26/24051509/samsung-galaxy-s24-china-launch-baidu-ernie-artificial-intelligence-ai)
+ - [&#39;The Last of Us&#39; Was the Most Pirated Show of 2023](https://www.wired.com/story/the-last-of-us-oppenheimer-most-pirated-2023/)
+ - [How to Convince Your Flat-Earth Friends the Earth Is Round](https://www.wired.com/story/how-to-prove-the-earth-is-round/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
