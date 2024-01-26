@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone Will Finally Get To Play Skull And Bones 6 Years After It Was Revealed](https://kotaku.com/skull-and-bones-open-beta-when-date-carryover-progress-1851201235)
- - [How did Fortnite get back on iOS?](https://www.polygon.com/gaming/2024/1/26/24051692/fortnite-ios-return-how-download-app-store)
- - [Disney Lorcana unearths Atlantis: The Lost Empire](https://www.polygon.com/24050639/disney-lorcana-into-the-inklands-atlantis-new-characters-pre-order-buy)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha &lpar;2402.240124-2200&rpar;](https://news.xbox.com/en-us/2024/01/26/xbox-insider-release-notes-alpha-2402-240124-2200/)
+ - [PUBG Publisher Sued For Sexual Assault, Wrongful Termination](https://kotaku.com/pubg-krafton-striking-distance-kevin-kimball-lawsuit-1851201746)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240123-2000&rpar;](https://news.xbox.com/en-us/2024/01/26/xbox-insider-release-notes-alpha-skip-ahead-2408-240123-2000/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
