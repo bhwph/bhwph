@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 30 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
- - [The 15 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)
- - [Apple will expand SharePlay music control to HomePod and Apple TV in iOS 17.4 and tvOS 17.4](https://appleinsider.com/articles/24/01/26/apple-will-expand-shareplay-music-control-to-homepod-and-apple-tv-in-ios-174-and-tvos-174?utm_medium=rss)<!-- TECH:END -->
+ - [The seven dirty words you can’t say with AI](https://www.theverge.com/2024/1/26/24051990/wondery-podcast-ip-george-carlin-lawsuit-ai)
+ - [Mozilla criticizes Apple&#39;s plans to restrict BrowserEngineKit to EU-specific apps, forcing &quot;Firefox to build and maintain two separate browser implementations&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240126/p30#a240126p30)
+ - [Layoffs.fyi: so far in January, around 23,670 workers have been laid off from 85 tech companies, the most since March 2023 when ~38,000 people were laid off &lpar;CNBC&rpar;](http://www.techmeme.com/240126/p29#a240126p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
