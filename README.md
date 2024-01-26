@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
- - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 👉 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)<!-- MEMES:END -->
+ - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
+ - 👉 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)<!-- MEMES:END -->
 
 --- 
 
