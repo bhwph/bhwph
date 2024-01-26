@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Dear God, may I never be so Body Positive that I watch my child slooooowly roll to their death because I literally cannot stand up and run.`](http://9gag.com/gag/aBdpqRQ)
- - 😝 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
- - 👉 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)<!-- MEMES:END -->
+ - 6️⃣ [Happens every-time](http://9gag.com/gag/aA0joKg)
+ - 😝 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
+ - 👉 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)<!-- MEMES:END -->
 
 --- 
 
