@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
- - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
- - 👉 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)<!-- MEMES:END -->
+ - 6️⃣ [`Dear God, may I never be so Body Positive that I watch my child slooooowly roll to their death because I literally cannot stand up and run.`](http://9gag.com/gag/aBdpqRQ)
+ - 😝 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
+ - 👉 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)<!-- MEMES:END -->
 
 --- 
 
