@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Not Even Call Of Duty Devs Are Safe From Layoffs](https://kotaku.com/call-of-duty-layoffs-infinity-ward-raven-sledgehammer-1851198666)
- - [Just four months after launching into early access, Nexon&#39;s &#39;full contact sword action&#39; game Warhaven is shutting down](https://www.pcgamer.com/just-four-months-after-launching-into-early-access-nexons-full-contact-sword-action-game-warhaven-is-shutting-down)
- - [What’s up with Metroid Prime 4?](https://www.polygon.com/24050473/metroid-prime-4-nintendo-switch-2)<!-- GAME:END -->
+ - [Pizza Tower, 2023&#39;s best platformer, is getting a free update where you play as one of the villains with his own music and moveset: &#39;Think of it as a sort of New Game+&#39;](https://www.pcgamer.com/pizza-tower-2023s-best-platformer-is-getting-a-free-update-where-you-play-as-one-of-the-villains-with-his-own-music-and-moveset-think-of-it-as-a-sort-of-new-game)
+ - [Blizzard&#39;s canceled survival game had been in development for over 6 years, was highly praised by employees](https://www.pcgamer.com/blizzard-survival-game-cancellation-news)
+ - [Enshrouded beginner’s tips before you start](https://www.polygon.com/enshrouded-guides/24050296/beginners-tips-before-you-start)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
