@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elon Musk&#39;s xAI is in talks to raise up to $6B from family offices in the Hong Kong and sovereign wealth funds in the Middle East at a $20B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240126/p4#a240126p4)
- - [Apple Podcasts is getting auto-generated transcripts with iOS 17.4](https://www.theverge.com/2024/1/26/24051454/apple-podcasts-transcription-ios-17-4)
- - [Galaxy AI may have helped the Galaxy S24 series break a pre-order record](https://www.androidauthority.com/samsung-galaxy-s24-pre-sale-record-korea-3407961/)<!-- TECH:END -->
+ - [Surprise! Google Chrome goes native for Windows on Arm](https://www.theverge.com/2024/1/26/24051485/google-chrome-windows-arm-support-canary-channel-test)
+ - [Researchers Say the Deepfake Biden Robocall Was Likely Made With Tools From AI Startup ElevenLabs](https://www.wired.com/story/biden-robocall-deepfake-elevenlabs/)
+ - [Apple Vision Pro vs. Sony PlayStation VR 2 - display, processing &amp; design](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-sony-playstation-vr---display-processing-design?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
