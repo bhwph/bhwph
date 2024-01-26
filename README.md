@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 18 best games on PC](https://www.polygon.com/what-to-play/23941731/best-pc-games-windows-mac-steam-epic)
- - [Masters of the Air delivers the best WWII action in a generation](https://www.polygon.com/24044106/masters-air-review-austin-butler-apple-tv)
- - [Apple Appstore opens up to game streaming including Nvidia&#39;s GeForce Now](https://www.pcgamer.com/apple-appstore-opens-up-to-game-streaming-including-nvidias-geforce-now)<!-- GAME:END -->
+ - [Pharrell to tell his life story... in a LEGO movie](https://www.polygon.com/24051631/pharrell-lego-movie-piece-by-piece-release)
+ - [A livestreamed D&amp;D one shot will take place inside the vagina of the game&#39;s biggest monster, and it&#39;s for a good cause—science and education](https://www.pcgamer.com/a-livestreamed-dandd-one-shot-will-take-place-inside-the-vagina-of-the-games-biggest-monster-and-its-for-a-good-causescience-and-education)
+ - [Share of the Week: The Last of Us Part II Remastered](https://blog.playstation.com/2024/01/26/share-of-the-week-the-last-of-us-part-ii-remastered/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
