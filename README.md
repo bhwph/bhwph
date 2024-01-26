@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monkey Man’s new trailer feels like a warning shot fired at John Wick](https://www.theverge.com/24051748/monkey-man-trailer-universal-blumhouse-dev-patel-jordan-peele)
- - [Microsoft explains how Russian hackers spied on its executives](https://www.theverge.com/2024/1/26/24051708/microsoft-hack-russian-security-attack-senior-leadership-emails)
- - [Microsoft details the techniques that Midnight Blizzard used to breach the email accounts of its executives and other organizations &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240126/p20#a240126p20)<!-- TECH:END -->
+ - [The 30 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
+ - [The 15 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [Apple will expand SharePlay music control to HomePod and Apple TV in iOS 17.4 and tvOS 17.4](https://appleinsider.com/articles/24/01/26/apple-will-expand-shareplay-music-control-to-homepod-and-apple-tv-in-ios-174-and-tvos-174?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
