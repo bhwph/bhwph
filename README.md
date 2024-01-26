@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
- - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
- - 👉 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)<!-- MEMES:END -->
+ - 6️⃣ [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - 😝 [You got to take them young.](http://9gag.com/gag/a04BAZn)
+ - 👉 [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)<!-- MEMES:END -->
 
 --- 
 
