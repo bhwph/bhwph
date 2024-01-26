@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Twitter screenshots are not memes so i guess this is a post](http://9gag.com/gag/avQNMyO)
- - 😝 [Pigeons](http://9gag.com/gag/agoWDKq)
- - 👉 [About to face consequences](http://9gag.com/gag/aeQLn0B)<!-- MEMES:END -->
+ - 6️⃣ [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
+ - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
+ - 👉 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)<!-- MEMES:END -->
 
 --- 
 
