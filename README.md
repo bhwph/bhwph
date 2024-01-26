@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Twitter screenshots are not memes so i guess this is a post](http://9gag.com/gag/avQNMyO)
- - 😝 [About to face consequences](http://9gag.com/gag/aeQLn0B)
- - 👉 [Pigeons](http://9gag.com/gag/agoWDKq)<!-- MEMES:END -->
+ - 6️⃣ [Anxiety personified](http://9gag.com/gag/aPg5qgK)
+ - 😝 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
+ - 👉 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)<!-- MEMES:END -->
 
 --- 
 
