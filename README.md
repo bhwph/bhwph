@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2402.240124-2200&rpar;](https://news.xbox.com/en-us/2024/01/26/xbox-insider-release-notes-alpha-2402-240124-2200/)
- - [PUBG Publisher Sued For Sexual Assault, Wrongful Termination](https://kotaku.com/pubg-krafton-striking-distance-kevin-kimball-lawsuit-1851201746)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240123-2000&rpar;](https://news.xbox.com/en-us/2024/01/26/xbox-insider-release-notes-alpha-skip-ahead-2408-240123-2000/)<!-- GAME:END -->
+ - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in January 2024](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)
+ - [Creating the Bahnsen Knights Universe – A Love Letter to Old-School Games and Pulps](https://news.xbox.com/en-us/2024/01/26/creating-the-bahnsen-knights-universe-a-love-letter-to-old-school-games-and-pulps/)
+ - [12 Essential Tips For Like A Dragon: Infinite Wealth](https://kotaku.com/like-a-dragon-infinite-wealth-tips-jobs-combat-1851202289)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
