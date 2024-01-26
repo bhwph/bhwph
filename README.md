@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Sierra, an enterprise-focused AI startup co-founded by Bret Taylor, plans to raise $85M led by Sequoia at a ~$1B valuation; Taylor is on OpenAI&#39;s board &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240125/p54#a240125p54)
- - [Sources: chipmaking startup Cerebras is weighing an IPO as soon as this year at a valuation higher than the $4B it achieved for its $250M Series F in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240125/p53#a240125p53)
- - [How to use Translate with the Action Button in iOS 17](https://appleinsider.com/inside/ios-17/vs/how-to-use-translate-with-the-action-button-in-ios-172?utm_medium=rss)<!-- TECH:END -->
+ - [Apple adds support for transcripts to the Podcasts app in iOS 17.4 beta and says transcripts will be generated automatically after an episode is published &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240126/p2#a240126p2)
+ - [The George Carlin estate sues Dudesy, which released a comedy special featuring an AI-generated recreation of George Carlin, alleging copyright infringement &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240126/p1#a240126p1)
+ - [What is AI-generated art? How does it work?](https://www.androidauthority.com/what-is-ai-generated-art-3407934/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
