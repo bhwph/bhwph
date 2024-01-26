@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One meme to rule them all](http://9gag.com/gag/a8qZP51)
- - 😝 [High level engineering](http://9gag.com/gag/adPEmZ2)
- - 👉 [She\u2019s been planning that move for years.](http://9gag.com/gag/a9qoo8W)<!-- MEMES:END -->
+ - 6️⃣ [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
+ - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - 👉 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)<!-- MEMES:END -->
 
 --- 
 
