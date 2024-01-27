@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft tests Windows 11 with a built-in fix for bad meeting audio](https://www.theverge.com/2024/1/27/24052759/microsoft-windows-background-noise-suppression-voice-clarity-zoom-teams-meetings-surface-x64-arm)
- - [Apple removes a requirement where apps with third-party logins must offer Sign in with Apple, but requires an equivalent option with certain privacy features &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240127/p9#a240127p9)
- - [Nomad’s 3-in-1 MagSafe Charger and the Sonos One are down to their best prices](https://www.theverge.com/2024/1/27/24051664/nomad-base-max-3-in-1-charger-samsung-frame-tv-sonos-one-speaker-deal-sale)<!-- TECH:END -->
+ - [X appears to block Taylor Swift searches... barely](https://www.theverge.com/2024/1/27/24052841/taylor-swift-search-blocked-x-twitter-ai-images)
+ - [I have high expectations for the Samsung Galaxy Ring](https://www.androidauthority.com/what-i-want-from-the-samsung-galaxy-ring-3405133/)
+ - [Daily deals Jan. 27: $200 off M2 MacBook Air 24GB RAM, Mac Studio for $1,199, $50 off Beats Studio Pro, more](https://appleinsider.com/articles/24/01/27/daily-deals-jan-27-200-off-m2-macbook-air-24gb-ram-mac-studio-for-1199-50-off-beats-studio-pro-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
