@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Greatest Night in Pop has more star power per second than any other 2024 movie](https://www.polygon.com/reviews/24050922/greatest-night-in-pop-netflix-review-movie-documentary-michael-jackson-bruce-springsteen)
- - [It&#39;s a miracle that Palworld exists, according to the studio founder: &#39;It was the antithesis of proper game development&#39;](https://www.pcgamer.com/its-a-miracle-that-palworld-exists-according-to-the-studio-founder-it-was-the-antithesis-of-proper-game-development)
- - [Palworld Breeding, Warzone Loadouts, And More Essential Guides](https://kotaku.com/kotaku-guides-palworld-warzone-halo-1851200995)<!-- GAME:END -->
+ - [Palworld creator Pocketpair has another game in the works, and it looks like Hollow Knight with co-op and base building](https://www.pcgamer.com/palworld-creator-pocketpair-has-another-game-in-the-works-and-it-looks-like-hollow-knight-with-co-op-and-base-building)
+ - [Pokémon Go ‘Timeless Travels’ Special Research and rewards](https://www.polygon.com/pokemon-go-guide/23996844/timeless-travels-special-research-rewards)
+ - [The Greatest Night in Pop has more star power per second than any other 2024 movie](https://www.polygon.com/reviews/24050922/greatest-night-in-pop-netflix-review-movie-documentary-michael-jackson-bruce-springsteen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
