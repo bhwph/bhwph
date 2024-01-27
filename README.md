@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There are 9 naturally eternal flames on earth. Here is one of them](http://9gag.com/gag/a7qzLvb)
- - 😝 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)
- - 👉 [You got to take them young.](http://9gag.com/gag/a04BAZn)<!-- MEMES:END -->
+ - 6️⃣ [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
+ - 😝 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
+ - 👉 [Dafaq did you just did?](http://9gag.com/gag/aoKbzzx)<!-- MEMES:END -->
 
 --- 
 
