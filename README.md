@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-519-3408281/)
- - [How to hide your Precise Location on iPhone and iPad](https://appleinsider.com/inside/ios/tips/how-to-hide-your-precise-location-on-iphone-and-ipad?utm_medium=rss)
- - [Google’s Lumiere brings AI video closer to real than unreal](https://www.theverge.com/2024/1/27/24052140/google-lumiere-ai-video-generation-runway-pika)<!-- TECH:END -->
+ - [Microsoft tests Windows 11 with a built-in fix for bad meeting audio](https://www.theverge.com/2024/1/27/24052759/microsoft-windows-background-noise-suppression-voice-clarity-zoom-teams-meetings-surface-x64-arm)
+ - [Apple removes a requirement where apps with third-party logins must offer Sign in with Apple, but requires an equivalent option with certain privacy features &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240127/p9#a240127p9)
+ - [Nomad’s 3-in-1 MagSafe Charger and the Sonos One are down to their best prices](https://www.theverge.com/2024/1/27/24051664/nomad-base-max-3-in-1-charger-samsung-frame-tv-sonos-one-speaker-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
