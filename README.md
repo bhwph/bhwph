@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What lesson did you learn from this?](http://9gag.com/gag/a9qo38j)
- - 😝 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)
- - 👉 [McLarens carbon fiber air brake](http://9gag.com/gag/aWGzwQq)<!-- MEMES:END -->
+ - 6️⃣ [Remember 2020?](http://9gag.com/gag/anzLe5L)
+ - 😝 [USA love guns](http://9gag.com/gag/aqe0PvM)
+ - 👉 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)<!-- MEMES:END -->
 
 --- 
 
