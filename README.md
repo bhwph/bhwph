@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nope not tonight](http://9gag.com/gag/agoWMev)
- - 😝 [This escalated quickly!](http://9gag.com/gag/a8qZPz3)
- - 👉 [Remember 2020?](http://9gag.com/gag/anzLe5L)<!-- MEMES:END -->
+ - 6️⃣ [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
+ - 😝 [USA love guns](http://9gag.com/gag/aqe0PvM)
+ - 👉 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)<!-- MEMES:END -->
 
 --- 
 
