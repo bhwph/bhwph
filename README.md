@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in January 2024](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)
- - [Creating the Bahnsen Knights Universe – A Love Letter to Old-School Games and Pulps](https://news.xbox.com/en-us/2024/01/26/creating-the-bahnsen-knights-universe-a-love-letter-to-old-school-games-and-pulps/)
- - [12 Essential Tips For Like A Dragon: Infinite Wealth](https://kotaku.com/like-a-dragon-infinite-wealth-tips-jobs-combat-1851202289)<!-- GAME:END -->
+ - [The Traitors’ Dan Gheesling has one last shot to win back my respect](https://www.polygon.com/24052291/traitors-season-2-dan-gheesling)
+ - [I have Like a Dragon: Infinite Wealth&#39;s $110 Ultimate Edition, and it&#39;s making the game less fun](https://www.pcgamer.com/i-have-like-a-dragon-infinite-wealths-dollar110-ultimate-edition-and-its-making-the-game-less-fun)
+ - [How to unlock Tekken 8&#39;s endings in The Dark Awakens story mode](https://www.pcgamer.com/tekken-8-endings)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
