@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Greatest Night in Pop has more star power per second than any other 2024 movie](https://www.polygon.com/reviews/24050922/greatest-night-in-pop-netflix-review-movie-documentary-michael-jackson-bruce-springsteen)
  - [It&#39;s a miracle that Palworld exists, according to the studio founder: &#39;It was the antithesis of proper game development&#39;](https://www.pcgamer.com/its-a-miracle-that-palworld-exists-according-to-the-studio-founder-it-was-the-antithesis-of-proper-game-development)
- - [Palworld Breeding, Warzone Loadouts, And More Essential Guides](https://kotaku.com/kotaku-guides-palworld-warzone-halo-1851200995)
- - [The best movies leaving streaming in January](https://www.polygon.com/what-to-watch/2024/1/27/24048318/best-movies-netflix-amazon-hulu-max-leaving-january-2024)<!-- GAME:END -->
+ - [Palworld Breeding, Warzone Loadouts, And More Essential Guides](https://kotaku.com/kotaku-guides-palworld-warzone-halo-1851200995)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
