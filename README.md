@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #952 for Saturday, January 27](https://www.pcgamer.com/wordle-today-answer-952-january-27)
  - [The Traitors’ Dan Gheesling has one last shot to win back my respect](https://www.polygon.com/24052291/traitors-season-2-dan-gheesling)
- - [I have Like a Dragon: Infinite Wealth&#39;s $110 Ultimate Edition, and it&#39;s making the game less fun](https://www.pcgamer.com/i-have-like-a-dragon-infinite-wealths-dollar110-ultimate-edition-and-its-making-the-game-less-fun)
- - [How to unlock Tekken 8&#39;s endings in The Dark Awakens story mode](https://www.pcgamer.com/tekken-8-endings)<!-- GAME:END -->
+ - [I have Like a Dragon: Infinite Wealth&#39;s $110 Ultimate Edition, and it&#39;s making the game less fun](https://www.pcgamer.com/i-have-like-a-dragon-infinite-wealths-dollar110-ultimate-edition-and-its-making-the-game-less-fun)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
