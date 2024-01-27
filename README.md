@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Teams went down around the world for over eight hours — it’s recovering](https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Best Over-the-Counter Eye Drops of 2024     - CNET](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best TV Deals: Take Up to $700 Off Samsung, LG, Fire TV, Sony and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
+ - [Best Workout Apps for Women in 2024     - CNET](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
+ - [Interview with Meta Oversight Board member Pamela San Mart&amp;iacute;n on preparing Meta for a critical year in elections, the weaponization of social platforms, and more &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240126/p36#a240126p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
