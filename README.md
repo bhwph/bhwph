@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [23andMe Failed to Detect Account Intrusions for Months](https://www.wired.com/story/23andme-failed-to-detect-account-intrusions-for-months/)
- - [Porsche Rolls Out Its Second All-Electric Car](https://www.wired.com/story/porsche-macan-4-electric/)
- - [Our Favorite Tote Bags and Purses &lpar;2024&rpar;: Sustainable, Weather-Proof, Durable](https://www.wired.com/gallery/best-laptop-totes-and-purses/)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-519-3408281/)
+ - [How to hide your Precise Location on iPhone and iPad](https://appleinsider.com/inside/ios/tips/how-to-hide-your-precise-location-on-iphone-and-ipad?utm_medium=rss)
+ - [Google’s Lumiere brings AI video closer to real than unreal](https://www.theverge.com/2024/1/27/24052140/google-lumiere-ai-video-generation-runway-pika)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
