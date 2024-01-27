@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
- - 😝 [USA love guns](http://9gag.com/gag/aqe0PvM)
- - 👉 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)<!-- MEMES:END -->
+ - 6️⃣ [USA love guns](http://9gag.com/gag/aqe0PvM)
+ - 😝 [Jessy we need](http://9gag.com/gag/a8qZPK3)
+ - 👉 [You got to take them young.](http://9gag.com/gag/a04BAZn)<!-- MEMES:END -->
 
 --- 
 
