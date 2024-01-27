@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dear Slim, I wrote to you but you still ain&#39;t calling](http://9gag.com/gag/awZ60XR)
- - 😝 [Remember 2020?](http://9gag.com/gag/anzLe5L)
+ - 6️⃣ [There are 9 naturally eternal flames on earth. Here is one of them](http://9gag.com/gag/a7qzLvb)
+ - 😝 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)
  - 👉 [You got to take them young.](http://9gag.com/gag/a04BAZn)<!-- MEMES:END -->
 
 --- 
