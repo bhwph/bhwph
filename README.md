@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro vs. Sony PlayStation VR 2 - display, processing &amp; design](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-sony-playstation-vr---display-processing-design?utm_medium=rss)
- - [IRS Free File for Tax Season 2024: How It Works, Who&#39;s Eligible and Is It Actually Free?     - CNET](https://www.cnet.com/personal-finance/taxes/irs-free-file-for-tax-season-2024-how-it-works-whos-eligible-and-is-it-actually-free/#ftag=CAD590a51e)
- - [Apple&#39;s proposed App Store and iOS changes seek to retain as much control over iOS as possible while staying within the letter of the EU&#39;s DMA &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/240127/p5#a240127p5)<!-- TECH:END -->
+ - [16 Best Deals: Desks, Strollers, and Baby Monitors](https://www.wired.com/story/weekend-deals-jan-27-2024/)
+ - [Apps Made the iPhone. They’re Missing on the Vision Pro](https://www.wired.com/story/apps-made-the-iphone-theyre-missing-from-the-vision-pro/)
+ - [Blue Bloods season 14: Expected release date and the latest rumors](https://www.androidauthority.com/blue-bloods-season-14-release-date-3408609/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
