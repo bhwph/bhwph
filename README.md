@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can still get 38 Discworld books from Humble for just $18](https://www.polygon.com/deals/24051666/best-gaming-deals-terry-pratchett-humble-bundle-tekken-8-sale)
- - [Where to find metal scraps in Enshrouded](https://www.pcgamer.com/enshrouded-metal-scraps)
- - [Wordle today: Hint and answer #952 for Saturday, January 27](https://www.pcgamer.com/wordle-today-answer-952-january-27)<!-- GAME:END -->
+ - [It&#39;s a miracle that Palworld exists, according to the studio founder: &#39;It was the antithesis of proper game development&#39;](https://www.pcgamer.com/its-a-miracle-that-palworld-exists-according-to-the-studio-founder-it-was-the-antithesis-of-proper-game-development)
+ - [Palworld Breeding, Warzone Loadouts, And More Essential Guides](https://kotaku.com/kotaku-guides-palworld-warzone-halo-1851200995)
+ - [The best movies leaving streaming in January](https://www.polygon.com/what-to-watch/2024/1/27/24048318/best-movies-netflix-amazon-hulu-max-leaving-january-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
