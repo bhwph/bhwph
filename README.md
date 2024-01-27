@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Deals: Desks, Strollers, and Baby Monitors](https://www.wired.com/story/weekend-deals-jan-27-2024/)
- - [Apps Made the iPhone. They’re Missing on the Vision Pro](https://www.wired.com/story/apps-made-the-iphone-theyre-missing-from-the-vision-pro/)
- - [Blue Bloods season 14: Expected release date and the latest rumors](https://www.androidauthority.com/blue-bloods-season-14-release-date-3408609/)<!-- TECH:END -->
+ - [23andMe Failed to Detect Account Intrusions for Months](https://www.wired.com/story/23andme-failed-to-detect-account-intrusions-for-months/)
+ - [Porsche Rolls Out Its Second All-Electric Car](https://www.wired.com/story/porsche-macan-4-electric/)
+ - [Our Favorite Tote Bags and Purses &lpar;2024&rpar;: Sustainable, Weather-Proof, Durable](https://www.wired.com/gallery/best-laptop-totes-and-purses/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
