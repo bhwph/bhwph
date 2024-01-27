@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 😝 [Nope not tonight](http://9gag.com/gag/agoWMev)
- - 👉 [Child screams for most of 8 hours long flight](http://9gag.com/gag/a7qQYB2)<!-- MEMES:END -->
+ - 6️⃣ [Nope not tonight](http://9gag.com/gag/agoWMev)
+ - 😝 [This escalated quickly!](http://9gag.com/gag/a8qZPz3)
+ - 👉 [Remember 2020?](http://9gag.com/gag/anzLe5L)<!-- MEMES:END -->
 
 --- 
 
