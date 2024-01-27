@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nope not tonight](http://9gag.com/gag/agoWMev)
- - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
- - 👉 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)<!-- MEMES:END -->
+ - 6️⃣ [I unironically respect the hustle](http://9gag.com/gag/adPEZRj)
+ - 😝 [No shaking](http://9gag.com/gag/aPg5Nzw)
+ - 👉 [Would !](http://9gag.com/gag/aBdpDq1)<!-- MEMES:END -->
 
 --- 
 
