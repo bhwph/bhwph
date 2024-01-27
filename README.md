@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I unironically respect the hustle](http://9gag.com/gag/adPEZRj)
- - 😝 [No shaking](http://9gag.com/gag/aPg5Nzw)
- - 👉 [Would !](http://9gag.com/gag/aBdpDq1)<!-- MEMES:END -->
+ - 6️⃣ [Happens every-time](http://9gag.com/gag/aA0joKg)
+ - 😝 [Nope not tonight](http://9gag.com/gag/agoWMev)
+ - 👉 [Child screams for most of 8 hours long flight](http://9gag.com/gag/a7qQYB2)<!-- MEMES:END -->
 
 --- 
 
