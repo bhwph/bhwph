@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 😝 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
- - 👉 [People are f**king stupid](http://9gag.com/gag/aeQvK0j)<!-- MEMES:END -->
+ - 6️⃣ [Dear Slim, I wrote to you but you still ain&#39;t calling](http://9gag.com/gag/awZ60XR)
+ - 😝 [Remember 2020?](http://9gag.com/gag/anzLe5L)
+ - 👉 [You got to take them young.](http://9gag.com/gag/a04BAZn)<!-- MEMES:END -->
 
 --- 
 
