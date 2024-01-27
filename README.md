@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
- - 😝 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
- - 👉 [Dafaq did you just did?](http://9gag.com/gag/aoKbzzx)<!-- MEMES:END -->
+ - 6️⃣ [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
+ - 😝 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)
+ - 👉 [Nevada ranger knocked down climate protester blockade](http://9gag.com/gag/aREYQ4A)<!-- MEMES:END -->
 
 --- 
 
