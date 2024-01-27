@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [You can still get 38 Discworld books from Humble for just $18](https://www.polygon.com/deals/24051666/best-gaming-deals-terry-pratchett-humble-bundle-tekken-8-sale)
  - [Where to find metal scraps in Enshrouded](https://www.pcgamer.com/enshrouded-metal-scraps)
- - [Wordle today: Hint and answer #952 for Saturday, January 27](https://www.pcgamer.com/wordle-today-answer-952-january-27)
- - [The Traitors’ Dan Gheesling has one last shot to win back my respect](https://www.polygon.com/24052291/traitors-season-2-dan-gheesling)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #952 for Saturday, January 27](https://www.pcgamer.com/wordle-today-answer-952-january-27)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
