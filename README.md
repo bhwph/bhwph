@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Remember 2020?](http://9gag.com/gag/anzLe5L)
- - 😝 [USA love guns](http://9gag.com/gag/aqe0PvM)
- - 👉 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)<!-- MEMES:END -->
+ - 6️⃣ [Happens every-time](http://9gag.com/gag/aA0joKg)
+ - 😝 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
+ - 👉 [People are f**king stupid](http://9gag.com/gag/aeQvK0j)<!-- MEMES:END -->
 
 --- 
 
