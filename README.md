@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satya Nadella says the explicit Taylor Swift AI fakes are ‘alarming and terrible’](https://www.theverge.com/2024/1/26/24052196/satya-nadella-microsoft-ai-taylor-swift-fakes-response)
- - [Microsoft says some users may be experiencing &quot;multiple issues&quot; with Microsoft Teams, and that it is applying &quot;mitigations across the affected infrastructure&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240126/p35#a240126p35)
- - [Fossil Group plans to leave the smartwatch business, and says the company will continue to keep its existing Wear OS watches updated &quot;for the next few years&quot; &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240126/p34#a240126p34)<!-- TECH:END -->
+ - [Microsoft Teams went down around the world for over eight hours — it’s recovering](https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Best Over-the-Counter Eye Drops of 2024     - CNET](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
