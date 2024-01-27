@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Where to find metal scraps in Enshrouded](https://www.pcgamer.com/enshrouded-metal-scraps)
  - [Wordle today: Hint and answer #952 for Saturday, January 27](https://www.pcgamer.com/wordle-today-answer-952-january-27)
- - [The Traitors’ Dan Gheesling has one last shot to win back my respect](https://www.polygon.com/24052291/traitors-season-2-dan-gheesling)
- - [I have Like a Dragon: Infinite Wealth&#39;s $110 Ultimate Edition, and it&#39;s making the game less fun](https://www.pcgamer.com/i-have-like-a-dragon-infinite-wealths-dollar110-ultimate-edition-and-its-making-the-game-less-fun)<!-- GAME:END -->
+ - [The Traitors’ Dan Gheesling has one last shot to win back my respect](https://www.polygon.com/24052291/traitors-season-2-dan-gheesling)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
