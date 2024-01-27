@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The seven dirty words you can’t say with AI](https://www.theverge.com/2024/1/26/24051990/wondery-podcast-ip-george-carlin-lawsuit-ai)
- - [Mozilla criticizes Apple&#39;s plans to restrict BrowserEngineKit to EU-specific apps, forcing &quot;Firefox to build and maintain two separate browser implementations&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240126/p30#a240126p30)
- - [Layoffs.fyi: so far in January, around 23,670 workers have been laid off from 85 tech companies, the most since March 2023 when ~38,000 people were laid off &lpar;CNBC&rpar;](http://www.techmeme.com/240126/p29#a240126p29)<!-- TECH:END -->
+ - [Satya Nadella says the explicit Taylor Swift AI fakes are ‘alarming and terrible’](https://www.theverge.com/2024/1/26/24052196/satya-nadella-microsoft-ai-taylor-swift-fakes-response)
+ - [Microsoft says some users may be experiencing &quot;multiple issues&quot; with Microsoft Teams, and that it is applying &quot;mitigations across the affected infrastructure&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240126/p35#a240126p35)
+ - [Fossil Group plans to leave the smartwatch business, and says the company will continue to keep its existing Wear OS watches updated &quot;for the next few years&quot; &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240126/p34#a240126p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
