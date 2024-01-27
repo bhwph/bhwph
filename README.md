@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best TV Deals: Take Up to $700 Off Samsung, LG, Fire TV, Sony and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
- - [Best Workout Apps for Women in 2024     - CNET](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
- - [Interview with Meta Oversight Board member Pamela San Mart&amp;iacute;n on preparing Meta for a critical year in elections, the weaponization of social platforms, and more &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240126/p36#a240126p36)<!-- TECH:END -->
+ - [Microsoft Teams went down around the world for over eight hours — it’s better now](https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage)
+ - [BlackRock&#39;s Bitcoin ETF becomes the first of the recently launched spot bitcoin products to reach $2B in assets under management, within 10 days of its debut &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/240127/p2#a240127p2)
+ - [iPad users in the EU will miss out on third-party app stores, browser engines, and the new iOS prompt in Safari that asks users to pick a default browser engine &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240127/p1#a240127p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
