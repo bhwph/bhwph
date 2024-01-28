@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld creator Pocketpair has another game in the works, and it looks like Hollow Knight with co-op and base building](https://www.pcgamer.com/palworld-creator-pocketpair-has-another-game-in-the-works-and-it-looks-like-hollow-knight-with-co-op-and-base-building)
- - [Pokémon Go ‘Timeless Travels’ Special Research and rewards](https://www.polygon.com/pokemon-go-guide/23996844/timeless-travels-special-research-rewards)
- - [The Greatest Night in Pop has more star power per second than any other 2024 movie](https://www.polygon.com/reviews/24050922/greatest-night-in-pop-netflix-review-movie-documentary-michael-jackson-bruce-springsteen)<!-- GAME:END -->
+ - [Trap-dodging first person runner Phantom Abyss has escaped early access](https://www.pcgamer.com/trap-dodging-first-person-runner-phantom-abyss-has-escaped-early-access)
+ - [Twin stick crafter-shooter-basebuilder The Riftbreaker aims for a very ambitious 2024 roadmap](https://www.pcgamer.com/twin-stick-crafter-shooter-basebuilder-the-riftbreaker-aims-for-a-very-ambitious-2024-roadmap)
+ - [Baldur&#39;s Gate 3&#39;s champion speedrunner just smashed two world records in as many days through the power of friendly fire, invisible bears, and throwing a guy off a bridge](https://www.pcgamer.com/baldurs-gate-3s-champion-speedrunner-just-smashed-two-world-records-in-as-many-days-through-the-power-of-friendly-fire-invisible-bears-and-throwing-a-guy-off-a-bridge)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
