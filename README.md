@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has handled its response, including the proposed App Store changes, to the EU&#39;s DMA with aplomb despite the law being an assault on Apple&#39;s brand promise &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/240128/p3#a240128p3)
  - [Researchers detail the rise of sextortion of young users on TikTok, Instagram, and other apps, driven by Yahoo Boys, an informal West African cybercriminal gang &lpar;Lora Kolodny/NBC News&rpar;](http://www.techmeme.com/240128/p2#a240128p2)
- - [The Biden admin plans to use the Defense Production Act to require companies to inform the Commerce Department when they start training high-powered AI models &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240128/p1#a240128p1)
- - [X plans to build a new &quot;Trust and Safety center of excellence&quot; in Austin, TX, aiming to hire 100 full-time moderators to fight child sexual exploitation content &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240127/p15#a240127p15)<!-- TECH:END -->
+ - [Australian Open 2024 Men&#39;s Final: How to Watch Jannik Sinner vs. Daniil Medvedev Free Tennis Livestream     - CNET](https://www.cnet.com/tech/services-and-software/australian-open-2024-mens-final-how-to-watch-a-jannik-sinner-vs-daniil-medvedev-free-tennis-livestream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
