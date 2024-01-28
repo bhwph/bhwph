@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)
- - 😝 [Jessy we need](http://9gag.com/gag/a8qZPK3)
- - 👉 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)<!-- MEMES:END -->
+ - 6️⃣ [It is what it is ...](http://9gag.com/gag/abv9XLX)
+ - 😝 [Car Is Detecting Entities In a Graveyard](http://9gag.com/gag/aeQvj0O)
+ - 👉 [Every little helps](http://9gag.com/gag/aqeqZZL)<!-- MEMES:END -->
 
 --- 
 
