@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
- - 😝 [Remember 2020?](http://9gag.com/gag/anzLe5L)
+ - 6️⃣ [How the turn tables](http://9gag.com/gag/aeQv3bQ)
+ - 😝 [Let\u2019s see 9GAG\u2019s community opinion on this](http://9gag.com/gag/aGEXPQn)
  - 👉 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)<!-- MEMES:END -->
 
 --- 
