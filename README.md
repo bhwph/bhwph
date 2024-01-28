@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
- - 😝 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)
- - 👉 [Nevada ranger knocked down climate protester blockade](http://9gag.com/gag/aREYQ4A)<!-- MEMES:END -->
+ - 6️⃣ [Uruk-bay](http://9gag.com/gag/a8qBWQO)
+ - 😝 [`It&#39;s a viking thing, you wouldn&#39;t get it`](http://9gag.com/gag/aeQvNeO)
+ - 👉 [I miss it](http://9gag.com/gag/aA0oRDo)<!-- MEMES:END -->
 
 --- 
 
