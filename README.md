@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Uruk-bay](http://9gag.com/gag/a8qBWQO)
- - 😝 [`It&#39;s a viking thing, you wouldn&#39;t get it`](http://9gag.com/gag/aeQvNeO)
- - 👉 [I miss it](http://9gag.com/gag/aA0oRDo)<!-- MEMES:END -->
+ - 6️⃣ [Dafaq did you just did?](http://9gag.com/gag/aoKbzzx)
+ - 😝 [There are 9 naturally eternal flames on earth. Here is one of them](http://9gag.com/gag/a7qzLvb)
+ - 👉 [It is what it is ...](http://9gag.com/gag/abv9XLX)<!-- MEMES:END -->
 
 --- 
 
