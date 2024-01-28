@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
- - 😝 [Every little helps](http://9gag.com/gag/aqeqZZL)
- - 👉 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)<!-- MEMES:END -->
+ - 6️⃣ [This belongs here.](http://9gag.com/gag/aqeqZVp)
+ - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
+ - 👉 [Every little helps](http://9gag.com/gag/aqeqZZL)<!-- MEMES:END -->
 
 --- 
 
