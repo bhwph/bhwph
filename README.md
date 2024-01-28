@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 10 Best Travel Adapters &lpar;2024&rpar;: Plug and Universal Adapters](https://www.wired.com/gallery/best-travel-adapters/)
- - [Netflix is different now — and there’s no going back](https://www.theverge.com/24051687/netflix-ads-password-sharing-wwe-changes)
- - [New wave of iPads expected in late March hardware wave](https://appleinsider.com/articles/24/01/28/new-wave-of-ipads-expected-in-late-march-hardware-wave?utm_medium=rss)<!-- TECH:END -->
+ - [New wave of iPads expected in late March hardware releases](https://appleinsider.com/articles/24/01/28/new-wave-of-ipads-expected-in-late-march-hardware-wave?utm_medium=rss)
+ - [Sources: Meta believes Apple&#39;s Vision Pro can reinvigorate its metaverse effort, with the Quest ecosystem filling the role Android played in smartphones &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/240128/p5#a240128p5)
+ - [These Pantry Staples Will Melt Ugly Cookware Stains in Minutes     - CNET](https://www.cnet.com/how-to/these-pantry-staples-will-melt-ugly-cookware-stains-from-your-pots-and-pans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
