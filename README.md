@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Europe&#39;s blue-chip stocks index Euro Stoxx 50 hits its highest level since 2001, with ASML and SAP, the region&#39;s two biggest tech stocks, leading the charge &lpar;Michael Msika/Bloomberg&rpar;](http://www.techmeme.com/240128/p4#a240128p4)
- - [Celebrities and Brands Are Coming to BeReal. Can They Be Real?](https://www.wired.com/story/celebrities-brands-on-bereal/)
- - [Mac&#39;s 40th year, Apple Vision Pro&#39;s first and EU App Store changes on the AppleInsider podcast](https://appleinsider.com/articles/24/01/26/macs-40th-year-apple-vision-pros-first-and-eu-app-store-changes-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [The 10 Best Travel Adapters &lpar;2024&rpar;: Plug and Universal Adapters](https://www.wired.com/gallery/best-travel-adapters/)
+ - [Netflix is different now — and there’s no going back](https://www.theverge.com/24051687/netflix-ads-password-sharing-wwe-changes)
+ - [New wave of iPads expected in late March hardware wave](https://appleinsider.com/articles/24/01/28/new-wave-of-ipads-expected-in-late-march-hardware-wave?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
