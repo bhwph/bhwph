@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plugable TBT4-UDX1 Review: Harnessing Thunderbolt 4 for maximum connectivity](https://appleinsider.com/articles/24/01/27/plugable-tbt4-udx1-review-harnessing-thunderbolt-4-for-maximum-connectivity?utm_medium=rss)
- - [In his new book, a16z VC Chris Dixon argues blockchain is a morally neutral tech that regulators must differentiate from the crypto industry&#39;s casino culture &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240127/p11#a240127p11)
- - [Keep Up With Your Fitness Goals With This Under-Desk Cycle for Just $150     - CNET](https://www.cnet.com/deals/keep-up-with-your-fitness-goals-with-this-under-desk-cycle-for-just-150/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: DJ Novotney, an Apple VP of hardware engineering who led work on home devices and helped start Apple&#39;s electric vehicle project, is leaving for Rivian &lpar;Bloomberg&rpar;](http://www.techmeme.com/240127/p13#a240127p13)
+ - [What to expect from Apple&#39;s Q1 2024 earnings report](https://appleinsider.com/articles/24/01/28/what-to-expect-from-apples-q1-2024-earnings-report?utm_medium=rss)
+ - [With high-stakes elections in 2024, some experts are worried that a piece of disinformation potentially involving a deepfake might soon have a calamitous impact &lpar;Tim Harford/Financial Times&rpar;](http://www.techmeme.com/240127/p12#a240127p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
