@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Enlisted, the 100-person shooter where everyone has a squad of NPCs, is coming to Steam](https://www.pcgamer.com/enlisted-the-100-person-shooter-where-everyone-has-a-squad-of-npcs-is-coming-to-steam)
- - [Trap-dodging first person runner Phantom Abyss has escaped early access](https://www.pcgamer.com/trap-dodging-first-person-runner-phantom-abyss-has-escaped-early-access)
- - [Twin stick crafter-shooter-basebuilder The Riftbreaker aims for a very ambitious 2024 roadmap](https://www.pcgamer.com/twin-stick-crafter-shooter-basebuilder-the-riftbreaker-aims-for-a-very-ambitious-2024-roadmap)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #953 for Sunday, January 28](https://www.pcgamer.com/wordle-today-answer-953-january-28)
+ - [Suicide Squad devs say despite being a live-service game it&#39;ll respect players&#39; time because &#39;We all love playing games, but we also have lives&#39;](https://www.pcgamer.com/suicide-squad-devs-say-despite-being-a-live-service-game-itll-respect-players-time-because-we-all-love-playing-games-but-we-also-have-lives)
+ - [Enlisted, the 100-person shooter where everyone has a squad of NPCs, is coming to Steam](https://www.pcgamer.com/enlisted-the-100-person-shooter-where-everyone-has-a-squad-of-npcs-is-coming-to-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
