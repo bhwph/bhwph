@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This belongs here.](http://9gag.com/gag/aqeqZVp)
- - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
+ - 6️⃣ [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
+ - 😝 [Who&#39;s gonna tell her?](http://9gag.com/gag/aBd7KzZ)
  - 👉 [Every little helps](http://9gag.com/gag/aqeqZZL)<!-- MEMES:END -->
 
 --- 
