@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
- - 😝 [Who&#39;s gonna tell her?](http://9gag.com/gag/aBd7KzZ)
- - 👉 [Every little helps](http://9gag.com/gag/aqeqZZL)<!-- MEMES:END -->
+ - 6️⃣ [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
+ - 😝 [Remember 2020?](http://9gag.com/gag/anzLe5L)
+ - 👉 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)<!-- MEMES:END -->
 
 --- 
 
