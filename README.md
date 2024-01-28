@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [FYI , She&#39;s Allowed To Breed As Well](http://9gag.com/gag/ay2O79X)
- - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
- - 👉 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)<!-- MEMES:END -->
+ - 6️⃣ [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)
+ - 😝 [Jessy we need](http://9gag.com/gag/a8qZPK3)
+ - 👉 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)<!-- MEMES:END -->
 
 --- 
 
