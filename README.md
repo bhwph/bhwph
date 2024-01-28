@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Great moments in PC gaming: Going back to the 1960s TV show in Lego Batman 3](https://www.pcgamer.com/great-moments-in-pc-gaming-going-back-to-the-1960s-tv-show-in-lego-batman-3)
- - [Wordle today: Hint and answer #953 for Sunday, January 28](https://www.pcgamer.com/wordle-today-answer-953-january-28)
- - [Suicide Squad devs say despite being a live-service game it&#39;ll respect players&#39; time because &#39;We all love playing games, but we also have lives&#39;](https://www.pcgamer.com/suicide-squad-devs-say-despite-being-a-live-service-game-itll-respect-players-time-because-we-all-love-playing-games-but-we-also-have-lives)<!-- GAME:END -->
+ - [Jenna Ortega’s fandom has their work cut out for them with Miller’s Girl](https://www.polygon.com/reviews/24052188/jenna-ortega-millers-girl-martin-freeman-review)
+ - [Palworld vs. Nintendo, Holodeck Tech, And More Of The Week&#39;s Biggest News](https://kotaku.com/kotaku-news-palworld-holodeck-nintendo-1851200993)
+ - [Great moments in PC gaming: Going back to the 1960s TV show in Lego Batman 3](https://www.pcgamer.com/great-moments-in-pc-gaming-going-back-to-the-1960s-tv-show-in-lego-batman-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
