@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Enlisted, the 100-person shooter where everyone has a squad of NPCs, is coming to Steam](https://www.pcgamer.com/enlisted-the-100-person-shooter-where-everyone-has-a-squad-of-npcs-is-coming-to-steam)
  - [Trap-dodging first person runner Phantom Abyss has escaped early access](https://www.pcgamer.com/trap-dodging-first-person-runner-phantom-abyss-has-escaped-early-access)
- - [Twin stick crafter-shooter-basebuilder The Riftbreaker aims for a very ambitious 2024 roadmap](https://www.pcgamer.com/twin-stick-crafter-shooter-basebuilder-the-riftbreaker-aims-for-a-very-ambitious-2024-roadmap)
- - [Baldur&#39;s Gate 3&#39;s champion speedrunner just smashed two world records in as many days through the power of friendly fire, invisible bears, and throwing a guy off a bridge](https://www.pcgamer.com/baldurs-gate-3s-champion-speedrunner-just-smashed-two-world-records-in-as-many-days-through-the-power-of-friendly-fire-invisible-bears-and-throwing-a-guy-off-a-bridge)<!-- GAME:END -->
+ - [Twin stick crafter-shooter-basebuilder The Riftbreaker aims for a very ambitious 2024 roadmap](https://www.pcgamer.com/twin-stick-crafter-shooter-basebuilder-the-riftbreaker-aims-for-a-very-ambitious-2024-roadmap)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
