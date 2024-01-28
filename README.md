@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dafaq did you just did?](http://9gag.com/gag/aoKbzzx)
- - 😝 [There are 9 naturally eternal flames on earth. Here is one of them](http://9gag.com/gag/a7qzLvb)
- - 👉 [It is what it is ...](http://9gag.com/gag/abv9XLX)<!-- MEMES:END -->
+ - 6️⃣ [FYI , She&#39;s Allowed To Breed As Well](http://9gag.com/gag/ay2O79X)
+ - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
+ - 👉 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)<!-- MEMES:END -->
 
 --- 
 
