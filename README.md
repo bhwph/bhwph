@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Hardware Engineering VP DJ Novotney exits for Rivian](https://appleinsider.com/articles/24/01/28/apple-hardware-engineering-vp-dj-novotney-exits-for-rivian?utm_medium=rss)
- - [Daily deals Jan. 28: MacBook Pro $439, iMac $399, Apple Watch Ultra $495, more](https://appleinsider.com/articles/24/01/28/daily-deals-jan-28-macbook-pro-439-imac-399-apple-watch-ultra-495-more?utm_medium=rss)
- - [Sources: Reddit is targeting a valuation &quot;in the mid-single-digit billions&quot; for its planned IPO in March, after raising funds at a $10B valuation in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240128/p6#a240128p6)<!-- TECH:END -->
+ - [Apple Vision Pro vs. Sony PlayStation VR 2 - display, processing &amp; design](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-sony-playstation-vr---display-processing-design?utm_medium=rss)
+ - [Purple Carrot Is Offering $100 Off Your First Four Mealboxes     - CNET](https://www.cnet.com/deals/purple-carrot-is-offering-100-off-your-first-four-mealboxes/#ftag=CAD590a51e)
+ - [Best Standing Desk Converters of 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-standing-desk-converter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
