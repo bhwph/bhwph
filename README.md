@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 States Are Sending Child Tax Credit Payments in 2024. Is Yours?     - CNET](https://www.cnet.com/personal-finance/taxes/14-states-are-sending-child-tax-credit-payments-in-2024-is-yours/#ftag=CAD590a51e)
- - [IRS Delays 1099-K: What PayPal, Venmo and Cash App Users Need to Know for Tax Season     - CNET](https://www.cnet.com/personal-finance/taxes/irs-delays-1099-k-what-paypal-venmo-and-cash-app-users-need-to-know-for-tax-season/#ftag=CAD590a51e)
- - [Apple has handled its response, including the proposed App Store changes, to the EU&#39;s DMA with aplomb despite the law being an assault on Apple&#39;s brand promise &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/240128/p3#a240128p3)<!-- TECH:END -->
+ - [Europe&#39;s blue-chip stocks index Euro Stoxx 50 hits its highest level since 2001, with ASML and SAP, the region&#39;s two biggest tech stocks, leading the charge &lpar;Michael Msika/Bloomberg&rpar;](http://www.techmeme.com/240128/p4#a240128p4)
+ - [Celebrities and Brands Are Coming to BeReal. Can They Be Real?](https://www.wired.com/story/celebrities-brands-on-bereal/)
+ - [Mac&#39;s 40th year, Apple Vision Pro&#39;s first and EU App Store changes on the AppleInsider podcast](https://appleinsider.com/articles/24/01/26/macs-40th-year-apple-vision-pros-first-and-eu-app-store-changes-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
