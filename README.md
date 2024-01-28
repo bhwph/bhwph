@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It is what it is ...](http://9gag.com/gag/abv9XLX)
- - 😝 [Car Is Detecting Entities In a Graveyard](http://9gag.com/gag/aeQvj0O)
- - 👉 [Every little helps](http://9gag.com/gag/aqeqZZL)<!-- MEMES:END -->
+ - 6️⃣ [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
+ - 😝 [Every little helps](http://9gag.com/gag/aqeqZZL)
+ - 👉 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)<!-- MEMES:END -->
 
 --- 
 
