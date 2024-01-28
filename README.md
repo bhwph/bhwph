@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mountain keeps, hobbit holes, and sick castles: Enshrouded players are hard at work with that excellent building system](https://www.pcgamer.com/mountain-keeps-hobbit-holes-and-sick-castles-enshrouded-players-are-hard-at-work-with-that-excellent-building-system)
- - [Jenna Ortega’s fandom has their work cut out for them with Miller’s Girl](https://www.polygon.com/reviews/24052188/jenna-ortega-millers-girl-martin-freeman-review)
- - [Palworld vs. Nintendo, Holodeck Tech, And More Of The Week&#39;s Biggest News](https://kotaku.com/kotaku-news-palworld-holodeck-nintendo-1851200993)<!-- GAME:END -->
+ - [Dark and Darker dev claims Nexon&#39;s preliminary injunction has been dismissed, court rules that the game  &#39;cannot be considered an infringement of Nexon&#39;s copyright or trade secret&#39;](https://www.pcgamer.com/dark-and-darker-dev-claims-nexons-preliminary-injunction-has-been-dismissed-court-rules-that-the-game-cannot-be-considered-an-infringement-of-nexons-copyright-or-trade-secret)
+ - [Finally, Palworld lets me catch ’em all](https://www.polygon.com/gaming/24049276/palworld-lets-me-catch-em-all-pokemon-paldeck)
+ - [Mountain keeps, hobbit holes, and sick castles: Enshrouded players are hard at work with that excellent building system](https://www.pcgamer.com/mountain-keeps-hobbit-holes-and-sick-castles-enshrouded-players-are-hard-at-work-with-that-excellent-building-system)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
