@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S24 Ultra review: bright screen, anti-glare, Circle to Search, great camera, and seven years of updates, but pricey, heavy, and AI is a mixed bag &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240129/p17#a240129p17)
- - [Daily deals Jan. 29: $160 off Apple Watch Series 9, LG 32&quot; UltraGear Gaming Monitor $187, 40% off Hisense 65&quot; 4K TV, more](https://appleinsider.com/articles/24/01/29/daily-deals-jan-29-160-off-apple-watch-series-9-lg-32-ultragear-gaming-monitor-187-40-off-hisense-65-4k-tv-more?utm_medium=rss)
- - [Samsung Galaxy S24 Ultra review: all that and AI](https://www.theverge.com/24053907/samsung-galaxy-s24-ultra-review-ai-screen-camera-battery)<!-- TECH:END -->
+ - [Anker’s MagSafe-friendly 622 Magnetic Battery is half off right now](https://www.theverge.com/2024/1/29/24054421/anker-622-magnetic-battery-maggo-magnetic-qi-charger-deal-sale)
+ - [What to expect from Apple&#39;s Q1 2024 earnings report](https://appleinsider.com/articles/24/01/28/what-to-expect-from-apples-q1-2024-earnings-report?utm_medium=rss)
+ - [Record $500 discount on Amazon’s mobile security robot](https://www.androidauthority.com/amazon-astro-mobile-security-robot-deal-3409140/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
