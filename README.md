@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Apple aims to close the smartphone AI gap with Google and Samsung](https://www.androidauthority.com/apple-ios-17-4-ai-features-3408693/)
- - [Samsung takes note: You can now hide the gesture bar in One UI 6.1 on the Galaxy S24!](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-6-1-hide-gesture-bar-3408681/)
- - [At Pwn2Own&#39;s first automotive-focused event, a total of $1.3M+ was awarded across 49 car-related zero-days, which included gaining root access to a Tesla modem &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/240129/p2#a240129p2)<!-- TECH:END -->
+ - [Nomad’s first Qi2 charger is shipping now for $10 less than its MagSafe model](https://www.theverge.com/2024/1/29/24054150/nomad-stand-qi2-price-release-date-specs-details-15w-fast-charging-magsafe-iphone-15)
+ - [Verizon Customers Could Get as Much as $100 in Settlement Payout. How to Claim the Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-get-as-much-as-100-in-settlement-payout-how-to-claim-the-money/#ftag=CAD590a51e)
+ - [China&#39;s chipmakers are ramping up production capacity, helped by the country&#39;s subsidies, raising concerns among western nations about China flooding the market &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/240129/p3#a240129p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
