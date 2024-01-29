@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s MagSafe-friendly 622 Magnetic Battery is half off right now](https://www.theverge.com/2024/1/29/24054421/anker-622-magnetic-battery-maggo-magnetic-qi-charger-deal-sale)
- - [What to expect from Apple&#39;s Q1 2024 earnings report](https://appleinsider.com/articles/24/01/28/what-to-expect-from-apples-q1-2024-earnings-report?utm_medium=rss)
- - [Record $500 discount on Amazon’s mobile security robot](https://www.androidauthority.com/amazon-astro-mobile-security-robot-deal-3409140/)<!-- TECH:END -->
+ - [Apple says proposed UK legislation could let the country try &quot;to secretly veto new user protections globally&quot;, preventing Apple from shipping them to customers &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/240129/p23#a240129p23)
+ - [Apple&#39;s 15-inch MacBook Air drops to record low $999 at Best Buy](https://appleinsider.com/articles/24/01/29/apples-15-inch-macbook-air-drops-to-record-low-999-at-best-buy?utm_medium=rss)
+ - [TikTok is testing a feature that could make all posts shoppable, by identifying objects in videos and prompting users to &quot;find similar items on TikTok Shop&quot; &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240129/p22#a240129p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
