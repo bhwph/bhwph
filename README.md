@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Leaked Footage Reveals The Sci-Fi Call Of Duty That Never Was](https://kotaku.com/call-of-duty-future-warfare-activision-leak-1851205901)
- - [29 Days Into 2024 And 6,000+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)
- - [New Deus Ex Game Reportedly Canceled By *That* Gaming Company](https://kotaku.com/embracer-group-deus-ex-cancelled-eidos-montreal-layoffs-1851205890)<!-- GAME:END -->
+ - [Call of Duty team finally ready to address players’ big complaint: ‘skill-based matchmaking’](https://www.polygon.com/24054710/call-of-duty-sbmm-skill-based-matchmaking-explained)
+ - [Xbox Insider Release Notes – Alpha &lpar;2402.240125-2000&rpar;](https://news.xbox.com/en-us/2024/01/29/xbox-insider-release-notes-alpha-2402-240125-2000/)
+ - [Deus Ex game canceled as nearly 100 Eidos-Montreal staff laid off](https://www.polygon.com/24054575/deus-ex-game-canceled-layoffs-eidos-montreal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
