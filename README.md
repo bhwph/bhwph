@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How the turn tables](http://9gag.com/gag/aeQv3bQ)
- - 😝 [The Kraken](http://9gag.com/gag/ap9WBw8)
- - 👉 [Well, she actually paid, so... ?](http://9gag.com/gag/a2KnYeY)<!-- MEMES:END -->
+ - 6️⃣ [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - 😝 [That thing is breathing](http://9gag.com/gag/aoKbZ43)
+ - 👉 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)<!-- MEMES:END -->
 
 --- 
 
