@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Kraken](http://9gag.com/gag/ap9WBw8)
- - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 👉 [Argument with mom](http://9gag.com/gag/a3ZVL6v)<!-- MEMES:END -->
+ - 6️⃣ [How the turn tables](http://9gag.com/gag/aeQv3bQ)
+ - 😝 [The Kraken](http://9gag.com/gag/ap9WBw8)
+ - 👉 [Well, she actually paid, so... ?](http://9gag.com/gag/a2KnYeY)<!-- MEMES:END -->
 
 --- 
 
