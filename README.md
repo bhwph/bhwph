@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 😝 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
- - 👉 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)<!-- MEMES:END -->
+ - 6️⃣ [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
+ - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
+ - 👉 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)<!-- MEMES:END -->
 
 --- 
 
