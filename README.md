@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #954 for Monday, January 29](https://www.pcgamer.com/wordle-today-answer-954-january-29)
- - [True Detective: Night Country is messing with us in episode 3](https://www.polygon.com/24050731/true-detective-night-country-review-episode-3-final-scene-meaning)
- - [The latest update to my favorite indie RPG adds a clockwork police state ruled by a mad god](https://www.pcgamer.com/the-latest-update-to-my-favorite-indie-rpg-adds-a-clockwork-police-state-ruled-by-a-mad-god)<!-- GAME:END -->
+ - [Suicide Squad: Kill the Justice League steps on one last rake for the road by sneaking in Denuvo DRM](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-steps-on-one-last-rake-for-the-road-by-sneaking-in-denuvo-drm)
+ - [Dragon Ball’s Budokai Tenkaichi comeback reveals 24 characters — and they’re all Goku or Vegeta](https://www.polygon.com/24054159/dragon-ball-z-budokai-tenkaichi-sparking-zero-roster-goku-vegeta)
+ - [Wordle today: Hint and answer #954 for Monday, January 29](https://www.pcgamer.com/wordle-today-answer-954-january-29)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
