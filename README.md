@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
- - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
- - 👉 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)<!-- MEMES:END -->
+ - 6️⃣ [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
+ - 😝 [Another anti-immigration rally in Japan against Kurdish migrants because of harassing school girls and Kurds want to take their lands](http://9gag.com/gag/aGEWwXn)
+ - 👉 [Well, she actually paid, so... ?](http://9gag.com/gag/a2KnYeY)<!-- MEMES:END -->
 
 --- 
 
