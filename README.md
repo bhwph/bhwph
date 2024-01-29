@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says proposed UK legislation could let the country try &quot;to secretly veto new user protections globally&quot;, preventing Apple from shipping them to customers &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/240129/p23#a240129p23)
- - [Apple&#39;s 15-inch MacBook Air drops to record low $999 at Best Buy](https://appleinsider.com/articles/24/01/29/apples-15-inch-macbook-air-drops-to-record-low-999-at-best-buy?utm_medium=rss)
- - [TikTok is testing a feature that could make all posts shoppable, by identifying objects in videos and prompting users to &quot;find similar items on TikTok Shop&quot; &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240129/p22#a240129p22)<!-- TECH:END -->
+ - [After a months-long probe, Italy&#39;s data protection authority tells OpenAI that it&#39;s suspected of violating EU privacy regulations, giving it 30 days to respond &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240129/p27#a240129p27)
+ - [Android 15 wishlist: What I want to see and what we know so far](https://www.androidauthority.com/android-15-features-3401939/)
+ - [Meta releases Code Llama 70B, a new version of its code generation model, featuring improved code correctness, a variant optimized for Python, and more &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240129/p26#a240129p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
