@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty team finally ready to address players’ big complaint: ‘skill-based matchmaking’](https://www.polygon.com/24054710/call-of-duty-sbmm-skill-based-matchmaking-explained)
- - [Xbox Insider Release Notes – Alpha &lpar;2402.240125-2000&rpar;](https://news.xbox.com/en-us/2024/01/29/xbox-insider-release-notes-alpha-2402-240125-2000/)
- - [Deus Ex game canceled as nearly 100 Eidos-Montreal staff laid off](https://www.polygon.com/24054575/deus-ex-game-canceled-layoffs-eidos-montreal)<!-- GAME:END -->
+ - [Pro gamer furry SonicFox has a cute cameo in Lil Nas X documentary](https://www.polygon.com/24054756/lil-nas-x-documentary-hbo-max-sonicfox-cameo)
+ - [Unprecedented &#39;inside look&#39; at Call of Duty matchmaking debunks fan theories on SBMM and confirms our assumptions: &#39;Skill is not the dominant variable&#39;](https://www.pcgamer.com/unprecedented-inside-look-at-call-of-duty-matchmaking-debunks-fan-theories-on-sbmm-and-confirms-our-assumptions-skill-is-not-the-dominant-variable)
+ - [Animal Crossing’s infamous froggy chair is in Palworld](https://www.polygon.com/gaming/24054816/palworld-froggy-chair-animal-crossing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
