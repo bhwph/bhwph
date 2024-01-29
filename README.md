@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best character introduction is this.](http://9gag.com/gag/aVbNOmd)
- - 😝 [Argument with mom](http://9gag.com/gag/a3ZVL6v)
- - 👉 [All good things come to end....](http://9gag.com/gag/a1PGeg2)<!-- MEMES:END -->
+ - 6️⃣ [The Kraken](http://9gag.com/gag/ap9WBw8)
+ - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
+ - 👉 [Argument with mom](http://9gag.com/gag/a3ZVL6v)<!-- MEMES:END -->
 
 --- 
 
