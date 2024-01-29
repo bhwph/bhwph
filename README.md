@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
- - 😝 [This one took me a lil while](http://9gag.com/gag/aME3QOV)
- - 👉 [Nice to see Japanese police do this to migrants](http://9gag.com/gag/a3ZVY28)<!-- MEMES:END -->
+ - 6️⃣ [G-rave.](http://9gag.com/gag/a4oDjEA)
+ - 😝 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
+ - 👉 [This one took me a lil while](http://9gag.com/gag/aME3QOV)<!-- MEMES:END -->
 
 --- 
 
