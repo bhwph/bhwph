@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dark and Darker dev claims Nexon&#39;s preliminary injunction has been dismissed, court rules that the game  &#39;cannot be considered an infringement of Nexon&#39;s copyright or trade secret&#39;](https://www.pcgamer.com/dark-and-darker-dev-claims-nexons-preliminary-injunction-has-been-dismissed-court-rules-that-the-game-cannot-be-considered-an-infringement-of-nexons-copyright-or-trade-secret)
- - [Finally, Palworld lets me catch ’em all](https://www.polygon.com/gaming/24049276/palworld-lets-me-catch-em-all-pokemon-paldeck)
- - [Mountain keeps, hobbit holes, and sick castles: Enshrouded players are hard at work with that excellent building system](https://www.pcgamer.com/mountain-keeps-hobbit-holes-and-sick-castles-enshrouded-players-are-hard-at-work-with-that-excellent-building-system)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;January 29, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-29-2024)
+ - [Vampire: The Masquerade – Bloodlines 2 creative director outlines its &#39;visceral immersive combat&#39;](https://www.pcgamer.com/vampire-the-masquerade-bloodlines-2-creative-director-outlines-its-visceral-immersive-combat)
+ - [Check out this horde survival roguelike where you and your friends are a frog riding on a mech&#39;s shoulders](https://www.pcgamer.com/check-out-this-horde-survival-roguelike-where-you-and-your-friends-are-a-frog-riding-on-a-mechs-shoulders)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
