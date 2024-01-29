@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy VII Rebirth: Square Enix discusses reimagining iconic characters Sephiroth and Aerith](https://blog.playstation.com/2024/01/29/final-fantasy-vii-rebirth-square-enix-discusses-reimagining-iconic-characters-sephiroth-and-aerith/)
- - [Obsidian’s Avowed Will Defy One Major RPG Trend](https://kotaku.com/avowed-rpg-obsidian-companion-relationships-1851205378)
- - [Alienware Aurora R16 review](https://www.pcgamer.com/alienware-aurora-r16-rtx-4080-review)<!-- GAME:END -->
+ - [Leaked Footage Reveals The Sci-Fi Call Of Duty That Never Was](https://kotaku.com/call-of-duty-future-warfare-activision-leak-1851205901)
+ - [29 Days Into 2024 And 6,000+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)
+ - [New Deus Ex Game Reportedly Canceled By *That* Gaming Company](https://kotaku.com/embracer-group-deus-ex-cancelled-eidos-montreal-layoffs-1851205890)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
