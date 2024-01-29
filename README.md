@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad’s first Qi2 charger is shipping now for $10 less than its MagSafe model](https://www.theverge.com/2024/1/29/24054150/nomad-stand-qi2-price-release-date-specs-details-15w-fast-charging-magsafe-iphone-15)
- - [Verizon Customers Could Get as Much as $100 in Settlement Payout. How to Claim the Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-get-as-much-as-100-in-settlement-payout-how-to-claim-the-money/#ftag=CAD590a51e)
- - [China&#39;s chipmakers are ramping up production capacity, helped by the country&#39;s subsidies, raising concerns among western nations about China flooding the market &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/240129/p3#a240129p3)<!-- TECH:END -->
+ - [Jony Ive wanted to combine MacBook Pro and MacBook Air lines](https://appleinsider.com/articles/24/01/29/jony-ive-wanted-to-combine-macbook-pro-and-macbook-air-lines?utm_medium=rss)
+ - [Finally! OnePlus is back in a banned European market](https://www.androidauthority.com/oneplus-back-banned-market-3408853/)
+ - [The US ODNI appointed cyber expert Jason Barrett in October 2023 to help the intel community harness open-source intel, an area US agencies have struggled with &lpar;Bloomberg&rpar;](http://www.techmeme.com/240129/p7#a240129p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
