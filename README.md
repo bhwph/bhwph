@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [The Kraken](http://9gag.com/gag/ap9WBw8)
- - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
+ - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
  - 👉 [Argument with mom](http://9gag.com/gag/a3ZVL6v)<!-- MEMES:END -->
 
 --- 
