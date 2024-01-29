@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad: Kill the Justice League steps on one last rake for the road by sneaking in Denuvo DRM](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-steps-on-one-last-rake-for-the-road-by-sneaking-in-denuvo-drm)
- - [Dragon Ball’s Budokai Tenkaichi comeback reveals 24 characters — and they’re all Goku or Vegeta](https://www.polygon.com/24054159/dragon-ball-z-budokai-tenkaichi-sparking-zero-roster-goku-vegeta)
- - [Wordle today: Hint and answer #954 for Monday, January 29](https://www.pcgamer.com/wordle-today-answer-954-january-29)<!-- GAME:END -->
+ - [AMD Ryzen 7 8700G review](https://www.pcgamer.com/amd-ryzen-7-8700g-review-performance-benchmarks)
+ - [D&amp;D’s Deck of Many Things is an experiment that failed](https://www.polygon.com/reviews/24047620/dnd-dungeons-dragons-the-book-of-many-things-review)
+ - [Blizzard employee snags a decade of WoW game time just before being laid off, will not have to pay a cent until 2033](https://www.pcgamer.com/blizzard-employee-snags-a-decade-of-wow-game-time-just-before-being-laid-off-will-not-have-to-pay-a-cent-until-2033)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
