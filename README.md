@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aurzen Boom 3 Projector review: Compact entertainment hub](https://appleinsider.com/articles/24/01/28/aurzen-boom-3-projector-review-compact-entertainment-hub?utm_medium=rss)
- - [Q&amp;A with Simon Willison, Django co-creator and an influential observer of AI software, on copyright concerns over AI, open-source AI models, LLMs, and more &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240128/p7#a240128p7)
- - [Best Nintendo Switch Deals: Big Savings on Digital Games, Nintendo Switch Lite and More     - CNET](https://www.cnet.com/deals/best-nintendo-switch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Arc Search combines browser, search engine, and AI into something new and different](https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios)
+ - [How to use Xcode&#39;s FileMerge tool to compare files](https://appleinsider.com/inside/xcode/tips/how-to-use-xcodes-filemerge-tool-to-compare-files?utm_medium=rss)
+ - [Apple Vision Pro says &#39;Hello&#39; in new ad spot](https://appleinsider.com/articles/24/01/28/apple-vision-pro-says-hello-in-new-ad-spot?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
