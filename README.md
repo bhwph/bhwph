@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jony Ive wanted to combine MacBook Pro and MacBook Air lines](https://appleinsider.com/articles/24/01/29/jony-ive-wanted-to-combine-macbook-pro-and-macbook-air-lines?utm_medium=rss)
- - [Finally! OnePlus is back in a banned European market](https://www.androidauthority.com/oneplus-back-banned-market-3408853/)
- - [The US ODNI appointed cyber expert Jason Barrett in October 2023 to help the intel community harness open-source intel, an area US agencies have struggled with &lpar;Bloomberg&rpar;](http://www.techmeme.com/240129/p7#a240129p7)<!-- TECH:END -->
+ - [AR glasses maker Xreal raised $60M from an unidentified supply chain partner at a $1B+ valuation, for $300M+ in funding, and expects $100M-$150M in 2024 revenue &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240129/p12#a240129p12)
+ - [EU says Apple could face ‘strong action’ if App Store changes aren’t good enough](https://www.androidauthority.com/eu-apple-face-strong-action-app-store-changes-3408915/)
+ - [Like a Dragon: Infinite Wealth Passes the Torch Forward](https://www.wired.com/story/like-a-dragon-infinite-wealth-passes-the-torch-forward/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
