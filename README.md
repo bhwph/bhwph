@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 😝 [That thing is breathing](http://9gag.com/gag/aoKbZ43)
- - 👉 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
+ - 😝 [This one took me a lil while](http://9gag.com/gag/aME3QOV)
+ - 👉 [Nice to see Japanese police do this to migrants](http://9gag.com/gag/a3ZVY28)<!-- MEMES:END -->
 
 --- 
 
