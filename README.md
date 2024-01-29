@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD Ryzen 7 8700G review](https://www.pcgamer.com/amd-ryzen-7-8700g-review-performance-benchmarks)
- - [D&amp;D’s Deck of Many Things is an experiment that failed](https://www.polygon.com/reviews/24047620/dnd-dungeons-dragons-the-book-of-many-things-review)
- - [Blizzard employee snags a decade of WoW game time just before being laid off, will not have to pay a cent until 2033](https://www.pcgamer.com/blizzard-employee-snags-a-decade-of-wow-game-time-just-before-being-laid-off-will-not-have-to-pay-a-cent-until-2033)<!-- GAME:END -->
+ - [Final Fantasy VII Rebirth: Square Enix discusses reimagining iconic characters Sephiroth and Aerith](https://blog.playstation.com/2024/01/29/final-fantasy-vii-rebirth-square-enix-discusses-reimagining-iconic-characters-sephiroth-and-aerith/)
+ - [Obsidian’s Avowed Will Defy One Major RPG Trend](https://kotaku.com/avowed-rpg-obsidian-companion-relationships-1851205378)
+ - [Alienware Aurora R16 review](https://www.pcgamer.com/alienware-aurora-r16-rtx-4080-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
