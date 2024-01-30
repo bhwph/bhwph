@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Adam Jensen voice actor says cancelled Deus Ex likely &#39;wasn&#39;t a Jensen story anyway&#39; and that &#39;I gotta be honest, I gave up on it a long time ago&#39;](https://www.pcgamer.com/adam-jensen-voice-actor-says-cancelled-deus-ex-likely-wasnt-a-jensen-story-anyway-and-that-i-gotta-be-honest-i-gave-up-on-it-a-long-time-ago)
- - [AMD Ryzen 5 8600G review](https://www.pcgamer.com/amd-ryzen-5-8600g-review-benchmarks-performance)
- - [Real-life Team Rocket robs 35,000 Pokémon cards from a store despite using a blocked entrance, crawling around on their hands and knees, and missing a major release by 2 whole days](https://www.pcgamer.com/real-life-team-rocket-robs-35000-pokemon-cards-from-a-store-despite-using-a-blocked-entrance-crawling-around-on-their-hands-and-knees-and-missing-a-major-release-by-2-whole-days)<!-- GAME:END -->
+ - [The Classic Pokémon TCG set is available for its lowest price ever](https://www.polygon.com/deals/24025237/classic-pokemon-tcg-collectors-box-set-amazon-best-buy)
+ - [In a Violent Nature spins out a fun, grisly slasher from the killer’s perspective](https://www.polygon.com/24051853/in-violent-nature-review-sundance-horror-movie-slasher-villain)
+ - [Elon Musk&#39;s Neuralink has stuck a device in someone&#39;s brain and he&#39;s already talking up its theoretical uses: &#39;Imagine if Stephen Hawking could communicate faster than a speed typist&#39;](https://www.pcgamer.com/elon-musks-neuralink-has-stuck-a-device-in-someones-brain-and-hes-already-talking-up-its-theoretical-uses-imagine-if-stephen-hawking-could-communicate-faster-than-a-speed-typist)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
