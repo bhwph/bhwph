@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Anker Soundcore buds are a nice ANC option at just $59](https://www.androidauthority.com/anker-soundcore-space-a40-deal-3409452/)
- - [Google Nest now allows everyone to share responsibility for Digital Wellbeing](https://www.androidauthority.com/google-nest-digital-wellbeing-controls-3409448/)
- - [iPhone 16 won&#39;t be compelling and Apple will get hurt because of it, says Kuo](https://appleinsider.com/articles/24/01/30/iphone-16-wont-be-compelling-and-apple-will-get-hurt-because-of-it-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [The New York Times is building a team to explore AI in the newsroom](https://www.theverge.com/2024/1/30/24055718/new-york-times-generative-ai-machine-learning)
+ - [YouTube TV finally lets viewers pick what games appear in Multiview](https://www.androidauthority.com/youtube-tv-build-a-multiview-3409481/)
+ - [Apple&#39;s visionOS doesn&#39;t let users rearrange home screen icons or pin web apps to the home screen, particularly limiting as Netflix and YouTube lack native apps &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240130/p20#a240130p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
