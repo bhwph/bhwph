@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Classic Pokémon TCG set is available for its lowest price ever](https://www.polygon.com/deals/24025237/classic-pokemon-tcg-collectors-box-set-amazon-best-buy)
- - [In a Violent Nature spins out a fun, grisly slasher from the killer’s perspective](https://www.polygon.com/24051853/in-violent-nature-review-sundance-horror-movie-slasher-villain)
- - [Elon Musk&#39;s Neuralink has stuck a device in someone&#39;s brain and he&#39;s already talking up its theoretical uses: &#39;Imagine if Stephen Hawking could communicate faster than a speed typist&#39;](https://www.pcgamer.com/elon-musks-neuralink-has-stuck-a-device-in-someones-brain-and-hes-already-talking-up-its-theoretical-uses-imagine-if-stephen-hawking-could-communicate-faster-than-a-speed-typist)<!-- GAME:END -->
+ - [Indie Classic Celeste Just Got A Surprise &lpar;Kinda&rpar; Sequel](https://kotaku.com/celeste-64-extremely-ok-games-free-1851208938)
+ - [The first Diablo and Warcraft games just appeared on Battle.net](https://www.pcgamer.com/the-first-diablo-and-warcraft-games-just-appeared-on-battlenet)
+ - [Microsoft Flight Simulator’s World Update XVI: Caribbean Brings Unprecedented Realism For Pilots to the exotic, tropical Caribbean region](https://flightsimulator.com/world-update-xvi-caribbean)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
