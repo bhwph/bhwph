@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 😝 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
- - 👉 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)<!-- MEMES:END -->
+ - 😝 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
+ - 👉 [All good things come to end....](http://9gag.com/gag/a1PGeg2)<!-- MEMES:END -->
 
 --- 
 
