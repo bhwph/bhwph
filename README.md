@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pro gamer furry SonicFox has a cute cameo in Lil Nas X documentary](https://www.polygon.com/24054756/lil-nas-x-documentary-hbo-max-sonicfox-cameo)
- - [Unprecedented &#39;inside look&#39; at Call of Duty matchmaking debunks fan theories on SBMM and confirms our assumptions: &#39;Skill is not the dominant variable&#39;](https://www.pcgamer.com/unprecedented-inside-look-at-call-of-duty-matchmaking-debunks-fan-theories-on-sbmm-and-confirms-our-assumptions-skill-is-not-the-dominant-variable)
- - [Animal Crossing’s infamous froggy chair is in Palworld](https://www.polygon.com/gaming/24054816/palworld-froggy-chair-animal-crossing)<!-- GAME:END -->
+ - [Enshrouded doesn&#39;t have PvP, but players are still getting robbed and griefed by strangers](https://www.pcgamer.com/enshrouded-doesnt-have-pvp-but-players-are-still-getting-robbed-and-griefed-by-strangers)
+ - [Indie games showcase Day of the Devs is now officially a non-profit organization](https://www.pcgamer.com/indie-games-showcase-day-of-the-devs-is-now-officially-a-non-profit-organization)
+ - [Relive how bad Silent Hill: Ascension was with new excellent ‘It’s Trauma’ merch](https://www.polygon.com/24054911/silent-hill-ascension-its-trauma-mug-t-shirt)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
