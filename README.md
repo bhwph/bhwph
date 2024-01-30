@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After a months-long probe, Italy&#39;s data protection authority tells OpenAI that it&#39;s suspected of violating EU privacy regulations, giving it 30 days to respond &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240129/p27#a240129p27)
- - [Android 15 wishlist: What I want to see and what we know so far](https://www.androidauthority.com/android-15-features-3401939/)
- - [Meta releases Code Llama 70B, a new version of its code generation model, featuring improved code correctness, a variant optimized for Python, and more &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240129/p26#a240129p26)<!-- TECH:END -->
+ - [Source: Alphabet execs told staffers at its moonshot X lab that the company will not convert promising investment projects into Other Bets subsidiaries in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/240129/p34#a240129p34)
+ - [Microsoft latest to weigh in on Apple&#39;s EU App Store rules with disapproval](https://appleinsider.com/articles/24/01/30/microsoft-latest-to-weigh-in-on-apples-eu-app-store-rules-with-disapproval?utm_medium=rss)
+ - [Elon Musk says Neuralink implanted its device in a human for the first time on January 28, and that the first Neuralink product is called Telepathy &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240129/p33#a240129p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
