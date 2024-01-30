@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung finally breaks silence on Galaxy AI’s fate after 2025](https://www.androidauthority.com/samsung-galaxy-ai-future-plans-3409282/)
- - [PitchBook: VCs in the US have $311B in unspent cash, as they shy away from risky bets and focus on dividends, after raising a record $435B between 2020 and 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/240130/p1#a240130p1)
- - [What episode does Glenn die in The Walking Dead, and how?](https://www.androidauthority.com/what-episode-does-glenn-die-in-the-walking-dead-3409211/)<!-- TECH:END -->
+ - [Musk’s newest product promises to let you control your phone with your brain](https://www.androidauthority.com/neuralink-first-human-control-phone-3409307/)
+ - [This Telegram-like Google Messages feature is about ready to roll out](https://www.androidauthority.com/google-messages-custom-chat-color-3409277/)
+ - [An interview with VP and General Manager of Google Play Sam Bright on Play Store curation, AI, quality gap between Android apps and their iOS counterparts, more &lpar;Daniel Bader/Android Police&rpar;](http://www.techmeme.com/240130/p2#a240130p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
