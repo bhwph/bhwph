@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 😝 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
- - 👉 [All good things come to end....](http://9gag.com/gag/a1PGeg2)<!-- MEMES:END -->
+ - 6️⃣ [Women](http://9gag.com/gag/axoXVyp)
+ - 😝 [Euro](http://9gag.com/gag/ap9WLRB)
+ - 👉 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)<!-- MEMES:END -->
 
 --- 
 
