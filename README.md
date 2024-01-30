@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Delta &lpar;2402.240125-2000&rpar;](https://news.xbox.com/en-us/2024/01/30/xbox-insider-release-notes-delta-2402-240125-2000/)
- - [Xbox Insider Release Notes – Beta &lpar;2402.240125-2000&rpar;](https://news.xbox.com/en-us/2024/01/30/xbox-insider-release-notes-beta-2402-240125-2000/)
- - [Godzilla Is Stomping into Minecraft](https://minecraft.net/article/godzilla-stomps-minecraft#new_tab)<!-- GAME:END -->
+ - [I accidentally bred one of the rarest Palworld pals, but they have the most ridiculous stats](https://www.pcgamer.com/i-accidentally-bred-one-of-the-rarest-palworld-pals-but-they-have-the-most-ridiculous-stats)
+ - [Why This Under-The-Radar AAA Title Is More Than Just A Far Cry Clone](https://kotaku.com/avatar-frontiers-of-pandora-open-world-ubisoft-far-cry-1851209744)
+ - [Four features that make Altered the year’s most interesting new trading card game reveal](https://www.polygon.com/tabletop-games/24056086/altered-tcg-kickstarter-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
