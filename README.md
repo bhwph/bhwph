@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You’ll want to take advantage of Enshrouded’s simple, clever sleep mechanic](https://www.polygon.com/gaming/24055526/enshrouded-sleep-mechanic)
- - [MLB The Show 24 cover will feature Vladimir Guerrero Jr. March 19](https://blog.playstation.com/2024/01/30/mlb-the-show-24-cover-will-feature-vladimir-guerrero-jr-march-19/)
- - [Microsoft Flight Simulator Releases Local Legend 14: The Bell 47J Ranger](https://www.flightsimulator.com/local-legend-xiv-bell-47j-ranger)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Delta &lpar;2402.240125-2000&rpar;](https://news.xbox.com/en-us/2024/01/30/xbox-insider-release-notes-delta-2402-240125-2000/)
+ - [Xbox Insider Release Notes – Beta &lpar;2402.240125-2000&rpar;](https://news.xbox.com/en-us/2024/01/30/xbox-insider-release-notes-beta-2402-240125-2000/)
+ - [Godzilla Is Stomping into Minecraft](https://minecraft.net/article/godzilla-stomps-minecraft#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
