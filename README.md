@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My new favorite way to manage my family’s calendars is getting bigger](https://www.theverge.com/2024/1/30/24054438/skylight-cal-max-smart-family-calendar-launch-pricing)
- - [Expanding iPhone could use a sliding body design and a flexible screen](https://appleinsider.com/articles/21/07/20/expanding-iphone-could-use-a-sliding-body-design-and-a-flexible-screen?utm_medium=rss)
- - [Nothing Phone 2a rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/nothing-phone-2a-3401932/)<!-- TECH:END -->
+ - [Apple Vision Pro review: marvelous display, great hand and eye tracking, and works seamlessly in the ecosystem, but pricey and video passthrough can be blurry &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240130/p11#a240130p11)
+ - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
+ - [7 Best Video Doorbell Cameras &lpar;2024&rpar;: Smart, Wireless, and a Word About Ring](https://www.wired.com/gallery/best-video-doorbells/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
