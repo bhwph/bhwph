@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk Says a Human Patient Has Received Neuralink’s Brain Implant](https://www.wired.com/story/elon-musk-neuralink-human-patient-brain-implant/)
- - [Source: Alphabet execs told staffers at its moonshot X lab that the company will not convert promising investment projects into Other Bets subsidiaries in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/240129/p34#a240129p34)
- - [Microsoft latest to weigh in on Apple&#39;s EU App Store rules with disapproval](https://appleinsider.com/articles/24/01/30/microsoft-latest-to-weigh-in-on-apples-eu-app-store-rules-with-disapproval?utm_medium=rss)<!-- TECH:END -->
+ - [A look at J.E.T, a chip equipment maker whose shares rose 166% since its September 2023 Tokyo IPO, as it eyes subsidy-fueled demand to lower reliance on China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240129/p38#a240129p38)
+ - [How to quickly make desktop aliases from Dock apps in macOS](https://appleinsider.com/inside/macos/tips/how-to-quickly-make-desktop-aliases-from-dock-apps-in-macos?utm_medium=rss)
+ - [ICANN proposes .INTERNAL, a new TLD available for internal use but never plumbed into the global DNS, taking on the same role as 192.168.x.x IPv4 bloc &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240129/p37#a240129p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
