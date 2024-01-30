@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The king reigns.](http://9gag.com/gag/awZ6xx4)
- - 😝 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
- - 👉 [The Bonuses and the Boner](http://9gag.com/gag/aeQvGqb)<!-- MEMES:END -->
+ - 6️⃣ [The Bonuses and the Boner](http://9gag.com/gag/aeQvGqb)
+ - 😝 [The king reigns.](http://9gag.com/gag/awZ6xx4)
+ - 👉 [Women falsely accusing men of rape should face jail time equal to those convicted of rape. Unfortunate most of the time they go free.](http://9gag.com/gag/az20AgK)<!-- MEMES:END -->
 
 --- 
 
