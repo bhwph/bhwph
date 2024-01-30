@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
- - 😝 [Listen dear, sometimes we gotta climb a tree cuz hyena.](http://9gag.com/gag/amAEz2d)
- - 👉 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)<!-- MEMES:END -->
+ - 6️⃣ [The king reigns.](http://9gag.com/gag/awZ6xx4)
+ - 😝 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
+ - 👉 [The Bonuses and the Boner](http://9gag.com/gag/aeQvGqb)<!-- MEMES:END -->
 
 --- 
 
