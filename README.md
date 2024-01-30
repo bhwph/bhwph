@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro: What you need to know beyond the spec sheet and before you buy](https://appleinsider.com/articles/24/01/30/apple-vision-pro-what-you-need-to-know-beyond-the-spec-sheet-and-before-you-buy?utm_medium=rss)
- - [AirPods Max get new firmware update](https://appleinsider.com/articles/24/01/30/airpods-max-get-new-firmware-update?utm_medium=rss)
- - [In a letter to employees, PayPal says it plans to lay off around 2,500 employees, or about 9% of its workforce, and will cut back on open roles &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/240130/p23#a240130p23)<!-- TECH:END -->
+ - [Filing: Dell terminates an agreement with VMware to distribute VMware&#39;s products, citing a change in control following Broadcom&#39;s $69B acquisition of VMware &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240130/p32#a240130p32)
+ - [The cheapest countries to buy the AirPods Max](https://www.androidauthority.com/cheapest-place-to-buy-airpods-max-3409213/)
+ - [Elon Musk won’t get his $55 billion pay package after all](https://www.theverge.com/2024/1/30/24056177/elon-musk-tesla-tornetta-55-billion-pay-package-rejected)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
