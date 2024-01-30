@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cool device](http://9gag.com/gag/aOxXdrR)
- - 😝 [Women falsely accusing men of rape should face jail time equal to those convicted of rape. Unfortunate most of the time they go free.](http://9gag.com/gag/az20AgK)
- - 👉 [Found out](http://9gag.com/gag/aYV2ePm)<!-- MEMES:END -->
+ - 6️⃣ [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
+ - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
+ - 👉 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)<!-- MEMES:END -->
 
 --- 
 
