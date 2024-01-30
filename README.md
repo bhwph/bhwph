@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk Says a Human Patient Has Received Neuralink’s Brain Implant](https://www.wired.com/story/elon-musk-neuralink-human-patient-brain-implant/)
  - [Source: Alphabet execs told staffers at its moonshot X lab that the company will not convert promising investment projects into Other Bets subsidiaries in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/240129/p34#a240129p34)
- - [Microsoft latest to weigh in on Apple&#39;s EU App Store rules with disapproval](https://appleinsider.com/articles/24/01/30/microsoft-latest-to-weigh-in-on-apples-eu-app-store-rules-with-disapproval?utm_medium=rss)
- - [Elon Musk says Neuralink implanted its device in a human for the first time on January 28, and that the first Neuralink product is called Telepathy &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240129/p33#a240129p33)<!-- TECH:END -->
+ - [Microsoft latest to weigh in on Apple&#39;s EU App Store rules with disapproval](https://appleinsider.com/articles/24/01/30/microsoft-latest-to-weigh-in-on-apples-eu-app-store-rules-with-disapproval?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
