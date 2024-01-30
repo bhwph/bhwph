@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Foongus be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24054702/can-foongus-be-shiny-amoongus)
- - [Wordle today: Hint and answer #955 for Tuesday, January 30](https://www.pcgamer.com/wordle-today-answer-955-january-30)
- - [Diablo 4 igneous core: How to farm season 3 boss materials](https://www.pcgamer.com/diablo-4-igneous-core-malphas)<!-- GAME:END -->
+ - [Adam Jensen voice actor says cancelled Deus Ex likely &#39;wasn&#39;t a Jensen story anyway&#39; and that &#39;I gotta be honest, I gave up on it a long time ago&#39;](https://www.pcgamer.com/adam-jensen-voice-actor-says-cancelled-deus-ex-likely-wasnt-a-jensen-story-anyway-and-that-i-gotta-be-honest-i-gave-up-on-it-a-long-time-ago)
+ - [AMD Ryzen 5 8600G review](https://www.pcgamer.com/amd-ryzen-5-8600g-review-benchmarks-performance)
+ - [Real-life Team Rocket robs 35,000 Pokémon cards from a store despite using a blocked entrance, crawling around on their hands and knees, and missing a major release by 2 whole days](https://www.pcgamer.com/real-life-team-rocket-robs-35000-pokemon-cards-from-a-store-despite-using-a-blocked-entrance-crawling-around-on-their-hands-and-knees-and-missing-a-major-release-by-2-whole-days)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
