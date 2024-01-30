@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro review: marvelous display, great hand and eye tracking, and works seamlessly in the ecosystem, but pricey and video passthrough can be blurry &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240130/p11#a240130p11)
- - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
- - [7 Best Video Doorbell Cameras &lpar;2024&rpar;: Smart, Wireless, and a Word About Ring](https://www.wired.com/gallery/best-video-doorbells/)<!-- TECH:END -->
+ - [These Anker Soundcore buds are a nice ANC option at just $59](https://www.androidauthority.com/anker-soundcore-space-a40-deal-3409452/)
+ - [Google Nest now allows everyone to share responsibility for Digital Wellbeing](https://www.androidauthority.com/google-nest-digital-wellbeing-controls-3409448/)
+ - [iPhone 16 won&#39;t be compelling and Apple will get hurt because of it, says Kuo](https://appleinsider.com/articles/24/01/30/iphone-16-wont-be-compelling-and-apple-will-get-hurt-because-of-it-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
