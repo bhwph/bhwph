@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie Classic Celeste Just Got A Surprise &lpar;Kinda&rpar; Sequel](https://kotaku.com/celeste-64-extremely-ok-games-free-1851208938)
- - [The first Diablo and Warcraft games just appeared on Battle.net](https://www.pcgamer.com/the-first-diablo-and-warcraft-games-just-appeared-on-battlenet)
- - [Microsoft Flight Simulator’s World Update XVI: Caribbean Brings Unprecedented Realism For Pilots to the exotic, tropical Caribbean region](https://flightsimulator.com/world-update-xvi-caribbean)<!-- GAME:END -->
+ - [You’ll want to take advantage of Enshrouded’s simple, clever sleep mechanic](https://www.polygon.com/gaming/24055526/enshrouded-sleep-mechanic)
+ - [MLB The Show 24 cover will feature Vladimir Guerrero Jr. March 19](https://blog.playstation.com/2024/01/30/mlb-the-show-24-cover-will-feature-vladimir-guerrero-jr-march-19/)
+ - [Microsoft Flight Simulator Releases Local Legend 14: The Bell 47J Ranger](https://www.flightsimulator.com/local-legend-xiv-bell-47j-ranger)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
