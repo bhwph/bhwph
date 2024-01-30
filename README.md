@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AI boom has spurred law firms, hospitals, insurance companies, government agencies, and others to create chief AI officer roles to navigate the use of AI &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/240130/p3#a240130p3)
- - [Chromecast with Google TV is now serving full-screen, auto-playing Chicken Tender Wrap ads](https://www.androidauthority.com/chromecast-with-google-tv-full-screen-auto-playing-ads-3409326/)
- - [Musk’s newest product promises to let you control your phone with your brain](https://www.androidauthority.com/neuralink-first-human-control-phone-3409307/)<!-- TECH:END -->
+ - [My new favorite way to manage my family’s calendars is getting bigger](https://www.theverge.com/2024/1/30/24054438/skylight-cal-max-smart-family-calendar-launch-pricing)
+ - [Expanding iPhone could use a sliding body design and a flexible screen](https://appleinsider.com/articles/21/07/20/expanding-iphone-could-use-a-sliding-body-design-and-a-flexible-screen?utm_medium=rss)
+ - [Nothing Phone 2a rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/nothing-phone-2a-3401932/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
