@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
- - 😝 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
- - 👉 [Lol.](http://9gag.com/gag/armjgV7)<!-- MEMES:END -->
+ - 😝 [Euro](http://9gag.com/gag/ap9WLRB)
+ - 👉 [Maybe 3rd wave feminism was a mistake. Shame on her.](http://9gag.com/gag/anzLbv0)<!-- MEMES:END -->
 
 --- 
 
