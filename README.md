@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
- - 😝 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)
+ - 6️⃣ [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)
+ - 😝 [Banana](http://9gag.com/gag/amAEred)
  - 👉 [Brutal](http://9gag.com/gag/aoKb9P2)<!-- MEMES:END -->
 
 --- 
