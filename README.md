@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Prana Deals Right Now: Jackets, Leggings, and Other Great Apparel on Sale](https://www.wired.com/story/prana-deals-january-31-2024/)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Unity adds Apple Vision Pro support for all game developers](https://appleinsider.com/articles/24/01/31/unity-adds-apple-vision-pro-support-for-all-game-developers?utm_medium=rss)<!-- TECH:END -->
+ - [Google Photos set to get a new ‘My Week’ feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-my-week-3409813/)
+ - [The US DOJ says eBay agreed to pay $59M to settle allegations that it violated the Controlled Substances Act by allowing sales of pill presses and other items &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/240131/p31#a240131p31)
+ - [FTX says it will pay back customers](https://www.theverge.com/2024/1/31/24056991/ftx-repay-customers-bankruptcy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
