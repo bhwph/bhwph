@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get linen in Enshrouded](https://www.polygon.com/enshrouded-guides/24056009/linen-how-to-get-craft-flax)
- - [2024’s Games Lineup Is Going to Be Incredible for Xbox Players – Here’s Why](https://news.xbox.com/en-us/2024/01/31/2024-xbox-games/)
- - [The 10 Best Fantasy Movies On Netflix Right Now](https://kotaku.com/netflix-best-fantasy-movies-1851213108)<!-- GAME:END -->
+ - [Disney Loses Lawsuit Against Florida Gov. Ron DeSantis](https://kotaku.com/disney-world-lawsuit-florida-ron-desantis-dismissed-1851214174)
+ - [PSA: Don’t Use This Palworld Item &lpar;For Now&rpar;](https://kotaku.com/palworld-respec-memory-wiping-medicine-bugged-1851214122)
+ - [I treasure obscure PC keyboard shortcuts. Here are 7 I use every day](https://www.pcgamer.com/windows-secret-keyboard-shortcuts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
