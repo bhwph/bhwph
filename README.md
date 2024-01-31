@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld Becomes the Biggest 3rd Party Game Pass Launch Ever](https://news.xbox.com/en-us/2024/01/31/palworld-biggest-3rd-party-game-pass-launch-ever/)
- - [EA earnings call show EA Sports FC was a game of two halves, as it fails to out-sell the last FIFA but still makes more money](https://www.pcgamer.com/ea-earnings-call-show-ea-sports-fc-was-a-game-of-two-halves-as-it-fails-to-out-sell-the-last-fifa-but-still-makes-more-money)
- - [The Xbox controller gets yet another irresistible wave of new colors](https://www.polygon.com/deals/24056897/xbox-wireless-controller-vapor-collection-design-lab)<!-- GAME:END -->
+ - [How to get linen in Enshrouded](https://www.polygon.com/enshrouded-guides/24056009/linen-how-to-get-craft-flax)
+ - [2024’s Games Lineup Is Going to Be Incredible for Xbox Players – Here’s Why](https://news.xbox.com/en-us/2024/01/31/2024-xbox-games/)
+ - [The 10 Best Fantasy Movies On Netflix Right Now](https://kotaku.com/netflix-best-fantasy-movies-1851213108)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
