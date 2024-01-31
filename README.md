@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sun Tzu `Art of War`](http://9gag.com/gag/avQ3GeX)
- - 😝 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
- - 👉 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)<!-- MEMES:END -->
+ - 6️⃣ [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
+ - 😝 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
+ - 👉 [Lol.](http://9gag.com/gag/armjgV7)<!-- MEMES:END -->
 
 --- 
 
