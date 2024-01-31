@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bain: as of September 2023, autonomous vehicles in China had driven a cumulative total of 70M kilometers, on par with the US, despite Beijing&#39;s safety concerns &lpar;Financial Times&rpar;](http://www.techmeme.com/240131/p4#a240131p4)
- - [Ransomware negotiation firm Coveware: the number of ransomware victims paying ransom demands dropped to a record low of 29% in Q4 2023, down from 85% in Q1 2019 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240131/p3#a240131p3)
- - [Analysis: tech layoffs in 2024, totaling 25,000 across ~100 companies so far, according to Layoffs.fyi, are more strategic than mass layoffs in 2023 &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/240131/p2#a240131p2)<!-- TECH:END -->
+ - [Bullitt bites the bullet: Company behind CAT and rugged Moto phones shuts down](https://www.androidauthority.com/the-company-behind-rugged-cat-and-motorola-phones-has-shut-down-3409638/)
+ - [Q&amp;A with Sen. Brian Schatz on Congress&#39; dysfunction in the tech space, regulating tech companies, the EU&#39;s DMA, AI, deepfakes, social media laws for kids, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240131/p6#a240131p6)
+ - [Fitbit Charge 5’s latest update is bricking the fitness tracker in some cases, once again](https://www.androidauthority.com/fitbit-charge-5-update-brick-again-3409627/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
