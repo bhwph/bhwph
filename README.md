@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ofcom: 22% of search results around basic self-injury terms on Google, Bing, DuckDuckGo, Yahoo, and AOL produced single-click links to more harmful content &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240130/p43#a240130p43)
- - [Lawmakers propose anti-nonconsensual AI porn bill after Taylor Swift controversy](https://www.theverge.com/2024/1/30/24056385/congress-defiance-act-proposed-ban-nonconsensual-ai-porn)
- - [Sources: the US stopped autonomous trucking firm TuSimple&#39;s shipment of Nvidia A100 chips to Australia to probe whether they were ultimately bound for China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240130/p42#a240130p42)<!-- TECH:END -->
+ - [Bain: as of September 2023, autonomous vehicles in China had driven a cumulative total of 70M kilometers, on par with the US, despite Beijing&#39;s safety concerns &lpar;Financial Times&rpar;](http://www.techmeme.com/240131/p4#a240131p4)
+ - [Ransomware negotiation firm Coveware: the number of ransomware victims paying ransom demands dropped to a record low of 29% in Q4 2023, down from 85% in Q1 2019 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240131/p3#a240131p3)
+ - [Analysis: tech layoffs in 2024, totaling 25,000 across ~100 companies so far, according to Layoffs.fyi, are more strategic than mass layoffs in 2023 &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/240131/p2#a240131p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
