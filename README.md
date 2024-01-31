@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Dell terminates an agreement with VMware to distribute VMware&#39;s products, citing a change in control following Broadcom&#39;s $69B acquisition of VMware &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240130/p32#a240130p32)
- - [The cheapest countries to buy the AirPods Max](https://www.androidauthority.com/cheapest-place-to-buy-airpods-max-3409213/)
- - [Elon Musk won’t get his $55 billion pay package after all](https://www.theverge.com/2024/1/30/24056177/elon-musk-tesla-tornetta-55-billion-pay-package-rejected)<!-- TECH:END -->
+ - [Samsung reports Q4 revenue down 3.8% YoY to ~$51B, vs. ~$52.1B est., and operating profit down 34.57% YoY to ~$2.1B, vs. ~$2.6B est. &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240130/p41#a240130p41)
+ - [Universal Music Group plans to cease licensing content to TikTok after their agreement expires on January 31, saying they failed to reach new licensing terms &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240130/p40#a240130p40)
+ - [US indicts a Chicago man who allegedly led a SIM-swap gang; members stole millions of dollars and posed as other people in Apple, T-Mobile, AT&amp;T, Verizon stores &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240130/p39#a240130p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
