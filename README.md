@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
- - 😝 [Euro](http://9gag.com/gag/ap9WLRB)
- - 👉 [Maybe 3rd wave feminism was a mistake. Shame on her.](http://9gag.com/gag/anzLbv0)<!-- MEMES:END -->
+ - 6️⃣ [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
+ - 😝 [Here lies balin son of fundin lord of moria](http://9gag.com/gag/a042Kon)
+ - 👉 [New wheelbarrow invention](http://9gag.com/gag/a9q9reK)<!-- MEMES:END -->
 
 --- 
 
