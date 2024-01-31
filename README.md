@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
- - 😝 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
- - 👉 [India is not for beginner](http://9gag.com/gag/a9q97KZ)<!-- MEMES:END -->
+ - 6️⃣ [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
+ - 😝 [Palworld is a good game](http://9gag.com/gag/amAE2r2)
+ - 👉 [Euro](http://9gag.com/gag/ap9WLRB)<!-- MEMES:END -->
 
 --- 
 
