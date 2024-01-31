@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bookstat: the US audiobook market grew 14% YoY in Q4 2023, excluding Spotify; with Spotify, it grew 28% YoY; Spotify had an 11% market share, behind Audible &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/240131/p9#a240131p9)
- - [The Galaxy Z Flip 6 could get a much-needed battery upgrade](https://www.androidauthority.com/samsung-galaxy-z-flip-6-battery-leak-3409656/)
- - [A look at the four major categories of apps that could emerge at the intersection of crypto and AI, and the prospects and challenges of each category &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/240131/p8#a240131p8)<!-- TECH:END -->
+ - [Apple Watch gets help for victims of incredibly violent car crash](https://appleinsider.com/articles/24/01/31/apple-watch-gets-help-for-victims-of-incredibly-violent-car-crash?utm_medium=rss)
+ - [Sources: Google splits up its 30-strong Responsible Innovation team, after leader and founder Jen Gennai suddenly left; RESIN conducted 500+ reviews in 2023 &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240131/p18#a240131p18)
+ - [The newest and best Galaxy Fit 3 leak just came from Samsung itself](https://www.androidauthority.com/samsung-galaxy-fit-3-leak-product-listing-3409688/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
