@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld player uncovers secret Mewtwo-like hidden in the game files that looks too legally actionable even for Palworld](https://www.pcgamer.com/palworld-player-uncovers-secret-mewtwo-like-hidden-in-the-game-files-that-looks-too-legally-actionable-even-for-palworld)
- - [This dizzyingly brilliant new Baldur&#39;s Gate 3 Honour Mode world record has so many elite tricks in it I&#39;m now convinced its speedrunner is a legitimate wizard](https://www.pcgamer.com/this-dizzyingly-brilliant-new-baldurs-gate-3-honour-mode-world-record-has-so-many-elite-tricks-in-it-im-now-convinced-its-speedrunner-is-a-legitimate-wizard)
- - [Doom is eternal: The immeasurable impact of gaming&#39;s greatest FPS](https://www.pcgamer.com/doom-is-eternal-the-immeasurable-impact-of-gamings-greatest-fps)<!-- GAME:END -->
+ - [Nvidia RTX 4080 Super review](https://www.pcgamer.com/nvidia-rtx-4080-super-review-performance-benchmarks)
+ - [The best sci-fi TV to watch on Netflix](https://www.polygon.com/what-to-watch/24054463/best-sci-fi-tv-series-netflix-shows-watch-streaming)
+ - [Bore Blasters&#39; brilliantly silly arcade action finally combines the mining power of dwarves and helicopters](https://www.pcgamer.com/bore-blasters-brilliantly-silly-arcade-action-finally-combines-the-mining-power-of-dwarves-and-helicopters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
