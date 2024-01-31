@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Palworld&#39; Pokémon Modder Tests the Limits of Nintendo’s Legal Reach](https://www.wired.com/story/palworld-pokemon-mod-copyright/)
- - [Ford Is Giving Away Free Tesla Charger Converters That Will Unlock a New World of EV Power](https://www.wired.com/story/ford-is-giving-away-free-tesla-ev-charger-converters/)
- - [Amazon left Roomba with a huge mess to clean up](https://www.theverge.com/2024/1/31/24057077/irobot-amazon-deal-collapse-roomba-uncertain-future)<!-- TECH:END -->
+ - [Microsoft LASERs away LLM inaccuracies](https://www.theverge.com/2024/1/31/24057362/microsoft-llm-accuracy-laser-research-ai)
+ - [All the news from PlayStation’s 2024 State of Play](https://www.theverge.com/24055776/playstation-state-of-play-january-2024-sony)
+ - [Qualcomm reports Q1 adjusted revenue up 5% YoY to $9.92B, vs. $9.51B est., handset chip sales up 16% YoY to $6.69B, and net income up 24% YoY to $2.77B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240131/p37#a240131p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
