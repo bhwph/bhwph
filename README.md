@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Two years after release, the Final Fantasy Pixel Remasters on Steam finally achieve feature-parity with the console versions](https://www.pcgamer.com/two-years-after-release-the-final-fantasy-pixel-remasters-on-steam-finally-achieve-feature-parity-with-the-console-versions)
- - [Pokimane is done streaming on Twitch](https://www.pcgamer.com/pokimane-leaves-twitch-announcement)
- - [Like A Dragon: Infinite Wealth Dondoko Island guide: How to earn $500,000 and break the economy](https://www.pcgamer.com/dondoko-island-guide-like-a-dragon-infinite-wealth)<!-- GAME:END -->
+ - [Yes, there is a post-credits scene for Percy Jackson](https://www.polygon.com/24054930/percy-jackson-and-the-olympians-disney-plus-post-credits)
+ - [Destiny 2 game director Joe Blackburn is leaving for &#39;a new adventure outside the walls of Bungie&#39;](https://www.pcgamer.com/destiny-2-game-director-joe-blackburn-is-stepping-down)
+ - [Critics’ Choice promotion comes to PlayStation Store](https://blog.playstation.com/2024/01/30/critics-choice-promotion-comes-to-playstation-store-4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
