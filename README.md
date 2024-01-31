@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spiderweb&#39;s remaster of classic CRPG Geneforge 2 gets a March release date](https://www.pcgamer.com/spiderwebs-remaster-of-classic-crpg-geneforge-2-gets-a-march-release-date)
- - [Wordle today: Hint and answer #956 for Wednesday, January 31](https://www.pcgamer.com/wordle-today-answer-956-january-31)
- - [Rainbow Six Siege players are already selling gun skins for hundreds of dollars in new marketplace beta](https://www.pcgamer.com/rainbow-six-siege-players-are-already-selling-gun-skins-for-hundreds-of-dollars-in-new-marketplace-beta)<!-- GAME:END -->
+ - [Palworld player uncovers secret Mewtwo-like hidden in the game files that looks too legally actionable even for Palworld](https://www.pcgamer.com/palworld-player-uncovers-secret-mewtwo-like-hidden-in-the-game-files-that-looks-too-legally-actionable-even-for-palworld)
+ - [This dizzyingly brilliant new Baldur&#39;s Gate 3 Honour Mode world record has so many elite tricks in it I&#39;m now convinced its speedrunner is a legitimate wizard](https://www.pcgamer.com/this-dizzyingly-brilliant-new-baldurs-gate-3-honour-mode-world-record-has-so-many-elite-tricks-in-it-im-now-convinced-its-speedrunner-is-a-legitimate-wizard)
+ - [Doom is eternal: The immeasurable impact of gaming&#39;s greatest FPS](https://www.pcgamer.com/doom-is-eternal-the-immeasurable-impact-of-gamings-greatest-fps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
