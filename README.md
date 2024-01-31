@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
- - 😝 [Here lies balin son of fundin lord of moria](http://9gag.com/gag/a042Kon)
- - 👉 [New wheelbarrow invention](http://9gag.com/gag/a9q9reK)<!-- MEMES:END -->
+ - 6️⃣ [Oh boy](http://9gag.com/gag/aA0ox80)
+ - 😝 [Women](http://9gag.com/gag/armjGA7)
+ - 👉 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)<!-- MEMES:END -->
 
 --- 
 
