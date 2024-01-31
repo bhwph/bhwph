@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch gets help for victims of incredibly violent car crash](https://appleinsider.com/articles/24/01/31/apple-watch-gets-help-for-victims-of-incredibly-violent-car-crash?utm_medium=rss)
- - [Sources: Google splits up its 30-strong Responsible Innovation team, after leader and founder Jen Gennai suddenly left; RESIN conducted 500+ reviews in 2023 &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240131/p18#a240131p18)
- - [The newest and best Galaxy Fit 3 leak just came from Samsung itself](https://www.androidauthority.com/samsung-galaxy-fit-3-leak-product-listing-3409688/)<!-- TECH:END -->
+ - [Nvidia RTX 4080 Super review: a $200 price cut to $999, 16GB of VRAM, and impressive 4K performance, but not a big performance boost over the RTX 4070 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240131/p23#a240131p23)
+ - [How to activate an eSIM on the Samsung Galaxy S24 series](https://www.androidauthority.com/how-to-activate-esim-samsung-galaxy-s24-3404249/)
+ - [The Best Sheets &lpar;2024&rpar;: Linen, Percale, and Budget Bedding](https://www.wired.com/story/best-bedsheets/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
