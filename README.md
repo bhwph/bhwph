@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
- - 😝 [Palworld is a good game](http://9gag.com/gag/amAE2r2)
- - 👉 [Euro](http://9gag.com/gag/ap9WLRB)<!-- MEMES:END -->
+ - 6️⃣ [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
+ - 😝 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
+ - 👉 [India is not for beginner](http://9gag.com/gag/a9q97KZ)<!-- MEMES:END -->
 
 --- 
 
