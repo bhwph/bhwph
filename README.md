@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
- - 😝 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
- - 👉 [India is not for beginner](http://9gag.com/gag/a9q97KZ)<!-- MEMES:END -->
+ - 6️⃣ [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
+ - 😝 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)
+ - 👉 [Brutal](http://9gag.com/gag/aoKb9P2)<!-- MEMES:END -->
 
 --- 
 
