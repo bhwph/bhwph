@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh boy](http://9gag.com/gag/aA0ox80)
- - 😝 [Women](http://9gag.com/gag/armjGA7)
- - 👉 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)<!-- MEMES:END -->
+ - 6️⃣ [Red alert girl](http://9gag.com/gag/ajVoEAG)
+ - 😝 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)
+ - 👉 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)<!-- MEMES:END -->
 
 --- 
 
