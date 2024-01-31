@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos set to get a new ‘My Week’ feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-my-week-3409813/)
- - [The US DOJ says eBay agreed to pay $59M to settle allegations that it violated the Controlled Substances Act by allowing sales of pill presses and other items &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/240131/p31#a240131p31)
- - [FTX says it will pay back customers](https://www.theverge.com/2024/1/31/24056991/ftx-repay-customers-bankruptcy)<!-- TECH:END -->
+ - [&#39;Palworld&#39; Pokémon Modder Tests the Limits of Nintendo’s Legal Reach](https://www.wired.com/story/palworld-pokemon-mod-copyright/)
+ - [Ford Is Giving Away Free Tesla Charger Converters That Will Unlock a New World of EV Power](https://www.wired.com/story/ford-is-giving-away-free-tesla-ev-charger-converters/)
+ - [Amazon left Roomba with a huge mess to clean up](https://www.theverge.com/2024/1/31/24057077/irobot-amazon-deal-collapse-roomba-uncertain-future)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
