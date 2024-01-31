@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia RTX 4080 Super review: a $200 price cut to $999, 16GB of VRAM, and impressive 4K performance, but not a big performance boost over the RTX 4070 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240131/p23#a240131p23)
- - [How to activate an eSIM on the Samsung Galaxy S24 series](https://www.androidauthority.com/how-to-activate-esim-samsung-galaxy-s24-3404249/)
- - [The Best Sheets &lpar;2024&rpar;: Linen, Percale, and Budget Bedding](https://www.wired.com/story/best-bedsheets/)<!-- TECH:END -->
+ - [6 Best Prana Deals Right Now: Jackets, Leggings, and Other Great Apparel on Sale](https://www.wired.com/story/prana-deals-january-31-2024/)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Unity adds Apple Vision Pro support for all game developers](https://appleinsider.com/articles/24/01/31/unity-adds-apple-vision-pro-support-for-all-game-developers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
