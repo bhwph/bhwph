@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia RTX 4080 Super review](https://www.pcgamer.com/nvidia-rtx-4080-super-review-performance-benchmarks)
- - [The best sci-fi TV to watch on Netflix](https://www.polygon.com/what-to-watch/24054463/best-sci-fi-tv-series-netflix-shows-watch-streaming)
- - [Bore Blasters&#39; brilliantly silly arcade action finally combines the mining power of dwarves and helicopters](https://www.pcgamer.com/bore-blasters-brilliantly-silly-arcade-action-finally-combines-the-mining-power-of-dwarves-and-helicopters)<!-- GAME:END -->
+ - [Minthara takes centre-stage as the new face of Sex% Baldur&#39;s Gate 3 speedruns: &#39;Larian tried to patch out sex speedrunning. Unfortunately for them, we are not so easily deterred&#39;](https://www.pcgamer.com/minthara-takes-centre-stage-as-the-new-face-of-sex-percent-baldurs-gate-3-speedruns-larian-tried-to-patch-out-sex-speedrunning-unfortunately-for-them-we-are-not-so-easily-deterred)
+ - [A Little to the Left: Learn About the Beloved Puzzler Coming to Game Pass in February](https://news.xbox.com/en-us/2024/01/31/a-little-to-the-left-game-pass-february/)
+ - [Tabletop revenue down for a second year on Kickstarter, Tabletop Analytics report shows](https://www.polygon.com/24054381/kickstarter-top-10-biggest-most-backed-board-games-campaigns-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
