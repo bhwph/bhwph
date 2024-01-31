@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I accidentally bred one of the rarest Palworld pals, but they have the most ridiculous stats](https://www.pcgamer.com/i-accidentally-bred-one-of-the-rarest-palworld-pals-but-they-have-the-most-ridiculous-stats)
- - [Why This Under-The-Radar AAA Title Is More Than Just A Far Cry Clone](https://kotaku.com/avatar-frontiers-of-pandora-open-world-ubisoft-far-cry-1851209744)
- - [Four features that make Altered the year’s most interesting new trading card game reveal](https://www.polygon.com/tabletop-games/24056086/altered-tcg-kickstarter-preview)<!-- GAME:END -->
+ - [Two years after release, the Final Fantasy Pixel Remasters on Steam finally achieve feature-parity with the console versions](https://www.pcgamer.com/two-years-after-release-the-final-fantasy-pixel-remasters-on-steam-finally-achieve-feature-parity-with-the-console-versions)
+ - [Pokimane is done streaming on Twitch](https://www.pcgamer.com/pokimane-leaves-twitch-announcement)
+ - [Like A Dragon: Infinite Wealth Dondoko Island guide: How to earn $500,000 and break the economy](https://www.pcgamer.com/dondoko-island-guide-like-a-dragon-infinite-wealth)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
