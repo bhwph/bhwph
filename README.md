@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nintendo Switch has received a rare discount at Amazon](https://www.theverge.com/2024/2/1/24058134/nintendo-switch-deal-sale-amazon)
- - [Meta rolls out the v62 software update for Meta Quest, adding support for Apple&#39;s spatial video playback, PlayStation controllers, and more &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240201/p31#a240201p31)
- - [The US EIA plans to begin surveying crypto miners&#39; electricity use next week; the EIA cited bitcoin rising 50% in recent months as an emergency justification &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240201/p30#a240201p30)<!-- TECH:END -->
+ - [Sources: fabless semiconductor startup Astera Labs is meeting with prospective investors ahead of a potential March IPO; Astera was valued at $3.15B in 2022 &lpar;The Information&rpar;](http://www.techmeme.com/240201/p34#a240201p34)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Apple Vision Pro app pages have started going live](https://appleinsider.com/articles/24/02/01/apple-vision-pro-app-pages-have-started-going-live?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
