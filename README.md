@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This 9.5g gaming mouse is so small I&#39;d be worried about inhaling it, cable and all](https://www.pcgamer.com/this-95g-gaming-mouse-is-so-small-id-be-worried-about-inhaling-it-cable-and-all)
- - [Wizards of the Coast dispels rumours that Tencent wants to gobble up D&amp;D like a tarrasque: &#39;To be clear: We are not looking to sell our D&amp;D IP&#39;](https://www.pcgamer.com/wizards-of-the-coast-dispels-rumours-that-tencent-wants-to-gobble-up-dandd-like-a-tarrasque-to-be-clear-we-are-not-looking-to-sell-our-dandd-ip)
- - [Redditor who posts &#39;I&#39;ve got everything I need&#39; alongside bare room with mattress and gaming PC ends up on CBS panel show: &#39;Come on, we&#39;ve all dated that guy&#39;](https://www.pcgamer.com/redditor-who-posts-ive-got-everything-i-need-alongside-bare-room-with-mattress-and-gaming-pc-ends-up-on-cbs-panel-show-come-on-weve-all-dated-that-guy)<!-- GAME:END -->
+ - [30 Under 30: Small Indie Teams Making Big Waves With ID@Xbox](https://the-indie-in-former.com/2024/01/29/30-under-30-small-indie-teams-making-big-waves-with-idxbox/#new_tab)
+ - [Where to &lpar;officially&rpar; play every Persona game](https://www.polygon.com/deals/24057267/where-to-play-persona-games-nintendo-switch-pc-ps-xbox)
+ - [Palworld update fixes save-bricking capture bug, permanently-nerfing respec juice, and Pals randomly levitating or dying to &#39;unexplained falling damage&#39;](https://www.pcgamer.com/palworld-update-fixes-save-bricking-capture-bug-permanently-nerfing-respec-juice-and-pals-randomly-levitating-or-dying-to-unexplained-falling-damage)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
