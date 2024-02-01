@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Celsius emerges from bankruptcy and plans to distribute over $3B to its creditors, who will also get a stake in the newly formed Ionic Digital mining operation &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240131/p42#a240131p42)
- - [Apple&#39;s final MacBook with an optical drive is now obsolete](https://appleinsider.com/articles/24/02/01/apples-final-macbook-with-an-optical-drive-is-now-obsolete?utm_medium=rss)
- - [Hulu is cracking down on password sharing, just like Disney Plus and Netflix](https://www.theverge.com/2024/1/31/24057641/hulu-password-sharing-crackdown)<!-- TECH:END -->
+ - [How to manage Secure Enclave card storage limits](https://appleinsider.com/inside/apple-wallet/tips/how-to-manage-secure-enclave-card-storage-limits?utm_medium=rss)
+ - [The US adds 12+ Chinese companies, including YMTC, Megvii, and lidar maker Hesai, to a DOD list to flag firms that are allegedly working with China&#39;s military &lpar;Reuters&rpar;](http://www.techmeme.com/240131/p44#a240131p44)
+ - [Best iPhone Deals 2024: Take Up to $1,050 Off a New iPhone     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
