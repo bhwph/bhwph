@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Chat Log Episode 46: The Steam Deck squad is here](https://www.pcgamer.com/pc-gamer-chat-log-episode-46-the-steam-deck-squad-is-here)
- - [Call of Duty: Modern Warfare III and Warzone Season 2 full details revealed, out February 7](https://blog.playstation.com/2024/02/01/call-of-duty-modern-warfare-iii-and-warzone-season-2-full-details-revealed-out-february-7/)
- - [Call of Duty: Modern Warfare III and Warzone Season 2 full details revealed, out February 7](https://blog.playstation.com/2024/02/01/call-of-duty-modern-warfare-iii-and-warzone-season-2-full-details-revealed-out-february-7/)<!-- GAME:END -->
+ - [If you hustle, you can get the Nintendo Switch for $264](https://www.polygon.com/deals/2024/2/1/24058328/nintendo-switch-amazon-deal-sale)
+ - [Sony’s Creator to Creator — Inside Marvel’s Spider-Man 2 &amp; Spider-Man: Across the Spider-Verse](https://blog.playstation.com/2024/02/01/sonys-creator-to-creator-inside-marvels-spider-man-2-spider-man-across-the-spider-verse/)
+ - [Feud: Capote vs. The Swans lets the rich eat themselves](https://www.polygon.com/24057019/feud-capote-vs-the-swans-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
