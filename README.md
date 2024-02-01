@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Loses Lawsuit Against Florida Gov. Ron DeSantis](https://kotaku.com/disney-world-lawsuit-florida-ron-desantis-dismissed-1851214174)
- - [PSA: Don’t Use This Palworld Item &lpar;For Now&rpar;](https://kotaku.com/palworld-respec-memory-wiping-medicine-bugged-1851214122)
- - [I treasure obscure PC keyboard shortcuts. Here are 7 I use every day](https://www.pcgamer.com/windows-secret-keyboard-shortcuts)<!-- GAME:END -->
+ - [Wayfinder studio Airship Syndicate says layoffs are necessary to ensure it &#39;can continue to operate and deliver great experiences&#39;](https://www.pcgamer.com/wayfinder-studio-airship-syndicate-says-layoffs-are-necessary-to-ensure-it-can-continue-to-operate-and-deliver-great-experiences)
+ - [Diablo 4&#39;s little robot spider is actually an apex predator who can solo bosses, and it&#39;s about to get even stronger](https://www.pcgamer.com/diablo-4s-little-robot-spider-is-actually-an-apex-predator-who-can-solo-bosses-and-its-about-to-get-even-stronger)
+ - [Pokimane&#39;s main reason for leaving Twitch: &#39;So much manosphere, red pill bulls***&#39;](https://www.pcgamer.com/pokimane-leaving-twitch-podcast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
