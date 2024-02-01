@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
- - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
- - 👉 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)<!-- MEMES:END -->
+ - 6️⃣ [Sun Tzu `Art of War`](http://9gag.com/gag/avQ3GeX)
+ - 😝 [Poor man](http://9gag.com/gag/aBd70nA)
+ - 👉 [Oh boy](http://9gag.com/gag/aA0ox80)<!-- MEMES:END -->
 
 --- 
 
