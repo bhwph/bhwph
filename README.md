@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Works for a while i guess](http://9gag.com/gag/armjVx0)
- - 😝 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
- - 👉 [Respect. True hero.](http://9gag.com/gag/a5X8Enq)<!-- MEMES:END -->
+ - 6️⃣ [Let&#39;s see Paul Allen&#39;s dice](http://9gag.com/gag/aPgK7oB)
+ - 😝 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
+ - 👉 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)<!-- MEMES:END -->
 
 --- 
 
