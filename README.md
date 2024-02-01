@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you hustle, you can get the Nintendo Switch for $264](https://www.polygon.com/deals/2024/2/1/24058328/nintendo-switch-amazon-deal-sale)
- - [Sony’s Creator to Creator — Inside Marvel’s Spider-Man 2 &amp; Spider-Man: Across the Spider-Verse](https://blog.playstation.com/2024/02/01/sonys-creator-to-creator-inside-marvels-spider-man-2-spider-man-across-the-spider-verse/)
- - [Feud: Capote vs. The Swans lets the rich eat themselves](https://www.polygon.com/24057019/feud-capote-vs-the-swans-review)<!-- GAME:END -->
+ - [NFL&#39;s Kelce Brothers Want To Bring Back Your Fave Childhood Game](https://kotaku.com/backyard-football-baseball-game-travis-jason-kelce-nfl-1851218390)
+ - [I Will Be Love Bombing My Friends With Final Fantasy XIV’s New Emote](https://kotaku.com/final-fantasy-xiv-valentiones-day-love-heart-emote-1851217811)
+ - [SpongeBob finally gets to play the Super Bowl, but he may not look how you expect](https://www.polygon.com/24058390/spongebob-super-bowl-band-geeks-sweet-victory)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
