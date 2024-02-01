@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Edge may copy Google’s new Circle to Search feature](https://www.androidauthority.com/microsoft-edge-circle-to-copilot-3410112/)
- - [CISA orders US federal agencies to disconnect all Ivanti VPN appliances vulnerable to multiple actively exploited bugs before Saturday, February 3 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240201/p24#a240201p24)
- - [Tim Cook says he always knew Apple would arrive at the Apple Vision Pro](https://appleinsider.com/articles/24/02/01/tim-cook-says-he-always-knew-apple-would-arrive-at-the-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [The Nintendo Switch has received a rare discount at Amazon](https://www.theverge.com/2024/2/1/24058134/nintendo-switch-deal-sale-amazon)
+ - [Meta rolls out the v62 software update for Meta Quest, adding support for Apple&#39;s spatial video playback, PlayStation controllers, and more &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240201/p31#a240201p31)
+ - [The US EIA plans to begin surveying crypto miners&#39; electricity use next week; the EIA cited bitcoin rising 50% in recent months as an emergency justification &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240201/p30#a240201p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
