@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft LASERs away LLM inaccuracies](https://www.theverge.com/2024/1/31/24057362/microsoft-llm-accuracy-laser-research-ai)
- - [All the news from PlayStation’s 2024 State of Play](https://www.theverge.com/24055776/playstation-state-of-play-january-2024-sony)
- - [Qualcomm reports Q1 adjusted revenue up 5% YoY to $9.92B, vs. $9.51B est., handset chip sales up 16% YoY to $6.69B, and net income up 24% YoY to $2.77B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240131/p37#a240131p37)<!-- TECH:END -->
+ - [In an email to subscribers, Hulu says the company changed its subscriber agreement to bar sharing of accounts outside the user&#39;s household &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240131/p40#a240131p40)
+ - [Apple Vision Pro immersive titles have begun showing up in Apple TV app ahead of launch](https://appleinsider.com/articles/24/02/01/apple-vision-pro-immersive-titles-have-begun-showing-up-in-apple-tv-app-ahead-of-launch?utm_medium=rss)
+ - [Metronome, which offers APIs to help SaaS companies charge customers on a usage basis, raised a $43M Series B led by NEA, bringing its total funding to $78M+ &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240131/p39#a240131p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
