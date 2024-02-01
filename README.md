@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
- - 😝 [Sun Tzu `Art of War`](http://9gag.com/gag/avQ3GeX)
- - 👉 [Gimme a f**kin gun](http://9gag.com/gag/aQE032w)<!-- MEMES:END -->
+ - 6️⃣ [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)
+ - 😝 [Poor man](http://9gag.com/gag/aBd70nA)
+ - 👉 [Oh boy](http://9gag.com/gag/aA0ox80)<!-- MEMES:END -->
 
 --- 
 
