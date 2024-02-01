@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)
- - 😝 [Poor man](http://9gag.com/gag/aBd70nA)
- - 👉 [Oh boy](http://9gag.com/gag/aA0ox80)<!-- MEMES:END -->
+ - 6️⃣ [I saw miss Bulgaria here recently and wanted to share miss Poland, to let you all know there&#39;s still hope.](http://9gag.com/gag/aDYE44G)
+ - 😝 [Just as planned](http://9gag.com/gag/armjoYX)
+ - 👉 [I would like to see her answer to that.](http://9gag.com/gag/a7qzwo2)<!-- MEMES:END -->
 
 --- 
 
