@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sun Tzu `Art of War`](http://9gag.com/gag/avQ3GeX)
- - 😝 [Poor man](http://9gag.com/gag/aBd70nA)
- - 👉 [Oh boy](http://9gag.com/gag/aA0ox80)<!-- MEMES:END -->
+ - 6️⃣ [Palworld is a good game](http://9gag.com/gag/amAE2r2)
+ - 😝 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)
+ - 👉 [Poor man](http://9gag.com/gag/aBd70nA)<!-- MEMES:END -->
 
 --- 
 
