@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: fabless semiconductor startup Astera Labs is meeting with prospective investors ahead of a potential March IPO; Astera was valued at $3.15B in 2022 &lpar;The Information&rpar;](http://www.techmeme.com/240201/p34#a240201p34)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Apple Vision Pro app pages have started going live](https://appleinsider.com/articles/24/02/01/apple-vision-pro-app-pages-have-started-going-live?utm_medium=rss)<!-- TECH:END -->
+ - [If you&#39;re in the EU, you can ask Apple about App Store changes](https://appleinsider.com/articles/24/02/01/if-youre-in-the-eu-you-can-ask-apple-about-app-store-changes?utm_medium=rss)
+ - [Tim Cook says Apple doesn&#39;t intend to license Masimo&#39;s blood oxygen detection to end the Apple Watch import ban &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/240201/p48#a240201p48)
+ - [Mark Zuckerberg says Threads now has more than 130M MAUs and is &quot;growing steadily&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240201/p47#a240201p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
