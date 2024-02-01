@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Works for a while i guess](http://9gag.com/gag/armjVx0)
- - 😝 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
- - 👉 [Make sure to save it and never watch it again.](http://9gag.com/gag/aDYEg57)<!-- MEMES:END -->
+ - 😝 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
+ - 👉 [Respect. True hero.](http://9gag.com/gag/a5X8Enq)<!-- MEMES:END -->
 
 --- 
 
