@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Red alert girl](http://9gag.com/gag/ajVoEAG)
- - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
- - 👉 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)<!-- MEMES:END -->
+ - 6️⃣ [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
+ - 😝 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
+ - 👉 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)<!-- MEMES:END -->
 
 --- 
 
