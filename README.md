@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle to Search is now available on the Pixel 8 and Pixel 8 Pro](https://www.androidauthority.com/circle-to-search-is-pixel-8-pixel-8-pro-3409886/)
- - [Owner.com, which offers an all-in-one platform for independent restaurants that includes online ordering and a website builder, raised a $33M Series B &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240201/p1#a240201p1)
- - [Google addresses January Pixel storage bug with a temporary resolution](https://www.androidauthority.com/google-january-pixel-storage-bug-fix-3409878/)<!-- TECH:END -->
+ - [Android enthusiasts, your opinion counts: Which 2024 flagship are you eyeing next?](https://www.androidauthority.com/android-flagship-phones-poll-2024-3409910/)
+ - [Apple is still using a lightning connector, this time in a Pro Max avatar on the Vision Pro](https://www.androidauthority.com/apple-vision-pro-lightning-connector-3409901/)
+ - [As the pharmaceutical industry adopts AI to speed up drug development, a look at the challenges facing the industry to prove the effectiveness of AI-aided drugs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240201/p6#a240201p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
