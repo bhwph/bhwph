@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Okta CEO Todd McKinnon says the company plans to lay off 400 employees, or ~7% of its staff, as the &quot;reality is that costs are still too high&quot; &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240201/p19#a240201p19)
- - [Elgato’s new HDMI 2.1 capture cards are finally here for Xbox Series X and PS5 streaming](https://www.theverge.com/2024/2/1/24056674/elgato-hdmi-2-1-capture-cards-usb-pci-e-xbox-series-x-ps5-streaming)
- - [Netflix’s 2024 TV lineup has more Squid Game, Arcane, and lots of reality shows](https://www.theverge.com/2024/2/1/24056196/netflix-2024-tv-streaming-schedule-squid-game-arcane-3-body-problem)<!-- TECH:END -->
+ - [Microsoft Edge may copy Google’s new Circle to Search feature](https://www.androidauthority.com/microsoft-edge-circle-to-copilot-3410112/)
+ - [CISA orders US federal agencies to disconnect all Ivanti VPN appliances vulnerable to multiple actively exploited bugs before Saturday, February 3 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240201/p24#a240201p24)
+ - [Tim Cook says he always knew Apple would arrive at the Apple Vision Pro](https://appleinsider.com/articles/24/02/01/tim-cook-says-he-always-knew-apple-would-arrive-at-the-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
