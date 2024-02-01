@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I saw miss Bulgaria here recently and wanted to share miss Poland, to let you all know there&#39;s still hope.](http://9gag.com/gag/aDYE44G)
- - 😝 [Just as planned](http://9gag.com/gag/armjoYX)
- - 👉 [I would like to see her answer to that.](http://9gag.com/gag/a7qzwo2)<!-- MEMES:END -->
+ - 6️⃣ [Red alert girl](http://9gag.com/gag/ajVoEAG)
+ - 😝 [I thought there were fake in the past, I still cant believe they are real](http://9gag.com/gag/awZ6XPr)
+ - 👉 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)<!-- MEMES:END -->
 
 --- 
 
