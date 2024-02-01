@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android enthusiasts, your opinion counts: Which 2024 flagship are you eyeing next?](https://www.androidauthority.com/android-flagship-phones-poll-2024-3409910/)
- - [Apple is still using a lightning connector, this time in a Pro Max avatar on the Vision Pro](https://www.androidauthority.com/apple-vision-pro-lightning-connector-3409901/)
- - [As the pharmaceutical industry adopts AI to speed up drug development, a look at the challenges facing the industry to prove the effectiveness of AI-aided drugs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240201/p6#a240201p6)<!-- TECH:END -->
+ - [Gocycle’s CX lineup of electric cargo bikes are lightweight and foldable](https://www.theverge.com/24054365/gocycle-f1-cargo-e-bike-cx-series-longtail-price)
+ - [After Amazon ended its acquisition, iRobot, whose market share has been steadily eroding since 2014, could quickly become an also-ran in the robot vacuum market &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240201/p8#a240201p8)
+ - [Q&amp;A with Pinterest CEO Bill Ready on why social media turned toxic, his vision for a less toxic platform that can use AI for good, activist investors, and more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240201/p7#a240201p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
