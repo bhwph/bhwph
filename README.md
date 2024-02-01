@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Red alert girl](http://9gag.com/gag/ajVoEAG)
- - 😝 [I thought there were fake in the past, I still cant believe they are real](http://9gag.com/gag/awZ6XPr)
- - 👉 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)<!-- MEMES:END -->
+ - 6️⃣ [Works for a while i guess](http://9gag.com/gag/armjVx0)
+ - 😝 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
+ - 👉 [Make sure to save it and never watch it again.](http://9gag.com/gag/aDYEg57)<!-- MEMES:END -->
 
 --- 
 
