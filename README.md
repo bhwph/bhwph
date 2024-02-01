@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [30 Under 30: Small Indie Teams Making Big Waves With ID@Xbox](https://the-indie-in-former.com/2024/01/29/30-under-30-small-indie-teams-making-big-waves-with-idxbox/#new_tab)
- - [Where to &lpar;officially&rpar; play every Persona game](https://www.polygon.com/deals/24057267/where-to-play-persona-games-nintendo-switch-pc-ps-xbox)
- - [Palworld update fixes save-bricking capture bug, permanently-nerfing respec juice, and Pals randomly levitating or dying to &#39;unexplained falling damage&#39;](https://www.pcgamer.com/palworld-update-fixes-save-bricking-capture-bug-permanently-nerfing-respec-juice-and-pals-randomly-levitating-or-dying-to-unexplained-falling-damage)<!-- GAME:END -->
+ - [Dredge dev says a mechanic that killed NPCs without warning if you let them go hungry lasted for about 3 days after the game&#39;s launch before they patched it out, because &#39;people f*cking hated it&#39;](https://www.pcgamer.com/dredge-dev-says-a-mechanic-that-killed-npcs-without-warning-if-you-let-them-go-hungry-lasted-for-about-3-days-after-the-games-launch-before-they-patched-it-out-because-people-fcking-hated-it)
+ - [Avowed&#39;s game director says Obsidian&#39;s choice to limit players to just two races is partially down to its first-person camera](https://www.pcgamer.com/avoweds-game-director-says-obsidians-choice-to-limit-players-to-just-two-races-is-partially-down-to-its-first-person-camera)
+ - [Free Play Days – One Piece Odyssey, Gord and Age of Empires IV: Anniversary Edition](https://news.xbox.com/en-us/2024/02/01/free-play-days-one-piece-odyssey-gord-and-age-of-empires-iv-anniversary-edition/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
