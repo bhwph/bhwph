@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mercedes fan boys after today&#39;s news](http://9gag.com/gag/aA0obRL)
- - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
- - 👉 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)<!-- MEMES:END -->
+ - 6️⃣ [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
+ - 😝 [45 today. A week ago, I started my new life as a single man. Have some cake.](http://9gag.com/gag/aREYXD5)
+ - 👉 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)<!-- MEMES:END -->
 
 --- 
 
