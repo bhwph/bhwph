@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you&#39;re in the EU, you can ask Apple about App Store changes](https://appleinsider.com/articles/24/02/01/if-youre-in-the-eu-you-can-ask-apple-about-app-store-changes?utm_medium=rss)
- - [Tim Cook says Apple doesn&#39;t intend to license Masimo&#39;s blood oxygen detection to end the Apple Watch import ban &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/240201/p48#a240201p48)
- - [Mark Zuckerberg says Threads now has more than 130M MAUs and is &quot;growing steadily&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240201/p47#a240201p47)<!-- TECH:END -->
+ - [Meta says Apple has made it ‘very difficult’ to build rival app stores in the EU](https://www.theverge.com/2024/2/1/24058572/zuckerberg-meta-apple-app-store-iphone-eu-sideloading)
+ - [Intel delays the construction of its $20B Ohio chip fabs amid a slow rollout of US government grant money; sources: the fabs are now set to finish in late 2026 &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240201/p52#a240201p52)
+ - [Halo’s Black History Month armor shaders are unintentionally hilarious](https://www.theverge.com/2024/2/1/24058370/halo-infinite-black-history-month-armor-shaders)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
