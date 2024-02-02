@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says Apple has made it ‘very difficult’ to build rival app stores in the EU](https://www.theverge.com/2024/2/1/24058572/zuckerberg-meta-apple-app-store-iphone-eu-sideloading)
- - [Intel delays the construction of its $20B Ohio chip fabs amid a slow rollout of US government grant money; sources: the fabs are now set to finish in late 2026 &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240201/p52#a240201p52)
- - [Halo’s Black History Month armor shaders are unintentionally hilarious](https://www.theverge.com/2024/2/1/24058370/halo-infinite-black-history-month-armor-shaders)<!-- TECH:END -->
+ - [Your brain may have a hard time adjusting to wearing and taking off Apple Vision Pro](https://appleinsider.com/articles/24/02/02/extended-use-of-apple-vision-pro-could-have-adverse-effects-on-cognition-study-finds?utm_medium=rss)
+ - [Meta joins list of companies that disapprove of Apple&#39;s DMA response](https://appleinsider.com/articles/24/02/02/meta-joins-list-of-companies-that-disapprove-of-apples-dma-response?utm_medium=rss)
+ - [The FTC settles with Blackbaud, ordering the cloud software company to delete consumers&#39; data and boost security after a May 2020 data breach affected millions &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240201/p53#a240201p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
