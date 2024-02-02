@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former CIA employee Joshua Schulte, who was convicted for leaking secrets to WikiLeaks, was sentenced to 40 years in prison on February 1 for espionage and more &lpar;Rebecca Falconer/Axios&rpar;](http://www.techmeme.com/240201/p55#a240201p55)
- - [Piper Sandler sees tough March ahead for Apple, remains neutral](https://appleinsider.com/articles/24/02/02/piper-sandler-sees-tough-march-ahead-for-apple-remains-neutral?utm_medium=rss)
- - [How much does an Amazon Prime subscription cost around the world?](https://www.androidauthority.com/amazon-prime-cost-around-the-world-3410181/)<!-- TECH:END -->
+ - [Sources: some independent record labels are pushing back on Apple&#39;s plans to pay more for spatial audio tracks, saying it benefits larger record companies &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/240202/p2#a240202p2)
+ - [Poll: Why do you typically upgrade to a new phone?](https://www.androidauthority.com/why-upgrade-new-phone-poll-3410105/)
+ - [Hands-on with Perplexity and the $20-per-month Perplexity Pro tier, which show that AI-powered search engines could loosen Google&#39;s grip on the search market &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240202/p1#a240202p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
