@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro owners can&#39;t buy AppleCare on the device](https://appleinsider.com/articles/24/02/02/apple-vision-pro-owners-cant-buy-applecare-on-the-device?utm_medium=rss)
- - [How to share an Apple Vision Pro with a guest user](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-share-an-apple-vision-pro-with-a-guest-user?utm_medium=rss)
- - [Samsung Galaxy S24 and S24 Plus review: slightly bigger and brighter displays with flat edges, and the AI features are occasionally great but sometimes weird &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240202/p16#a240202p16)<!-- TECH:END -->
+ - [What comes in the $3499 Apple Vision Pro box](https://appleinsider.com/articles/24/01/08/what-comes-in-the-3499-apple-vision-pro-box?utm_medium=rss)
+ - [Apple starts selling the Vision Pro in the US; Tim Cook compares Vision Pro debut to the birth of Mac, iPod, and iPhone in a memo to employees &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240202/p18#a240202p18)
+ - [FTX Says It Expects to Repay Customers in Full. Some Are Suing for More](https://www.wired.com/story/ftx-bankruptcy-bitcoin-value/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
