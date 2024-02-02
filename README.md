@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What comes in the $3499 Apple Vision Pro box](https://appleinsider.com/articles/24/01/08/what-comes-in-the-3499-apple-vision-pro-box?utm_medium=rss)
- - [Apple starts selling the Vision Pro in the US; Tim Cook compares Vision Pro debut to the birth of Mac, iPod, and iPhone in a memo to employees &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240202/p18#a240202p18)
- - [FTX Says It Expects to Repay Customers in Full. Some Are Suing for More](https://www.wired.com/story/ftx-bankruptcy-bitcoin-value/)<!-- TECH:END -->
+ - [Sources: Reddit has picked the New York Stock Exchange for its long-delayed IPO that could take place as soon as next month &lpar;Financial Times&rpar;](http://www.techmeme.com/240202/p20#a240202p20)
+ - [Apple’s Vision Pro headset is hiding yet another XL Lightning plug](https://www.theverge.com/2024/2/2/24059678/apple-vision-pro-headset-lightning-plug-ifixit)
+ - [Apple’s $3,499 Vision Pro lacks Find My location tracking, so don’t lose it](https://www.theverge.com/2024/2/2/24059688/apple-vision-pro-find-my-location-tracking-lost)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
