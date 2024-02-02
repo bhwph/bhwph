@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free GOG keys for the objectively best Fallout game are on Twitch Prime right now](https://www.pcgamer.com/free-gog-keys-for-the-objectively-best-fallout-game-are-on-twitch-prime-right-now)
- - [Palworld could have a major problem with an item that&#39;s meant to boost your chances of capturing pals, but lowers it instead](https://www.pcgamer.com/palworld-could-have-a-major-problem-with-an-item-thats-meant-to-boost-your-chances-of-capturing-pals-but-lowers-it-instead)
- - [Yo dawg, I heard you like screens, so I put a screen on your CPU fan](https://www.pcgamer.com/yo-dawg-i-heard-you-like-screens-so-i-put-a-screen-on-your-cpu-fan)<!-- GAME:END -->
+ - [Lightyear Frontier Is a Beautiful, Skewed Spin on the Mech and Farming Genres – and it Arrives on Game Pass in March](https://news.xbox.com/en-us/2024/02/02/lightyear-frontier-game-pass-march/)
+ - [Home Safety Hotline is the cryptid help line game I didn’t know I needed](https://www.polygon.com/gaming/24058384/home-safety-hotline-cryptid-help-line-game)
+ - [Razer Iskur V2 review](https://www.pcgamer.com/razer-iskur-v2-gaming-chair-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
