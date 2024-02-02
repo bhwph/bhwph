@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Charlie Kaufman’s animated Netflix movie Orion and the Dark is a deeply weird gem](https://www.polygon.com/24058107/orion-and-the-dark-charlie-kaufman-dreamworks-movie-review-netflix)
- - [Silent Hill: The Short Message is classic Silent Hill, and that’s not great](https://www.polygon.com/gaming/24058608/silent-hill-the-short-message-playstation-5-review)
- - [The solution to space junk might be space lasers because lasers solve everything obviously](https://www.pcgamer.com/the-solution-to-space-junk-might-be-space-lasers-because-lasers-solve-everything-obviously)<!-- GAME:END -->
+ - [Everything We Know About BioShock Spiritual Successor Judas](https://kotaku.com/judas-bioshock-release-date-platforms-trailer-gameplay-1851220858)
+ - [Zone of Interest’s incredible sound design got a special mix for home viewing](https://www.polygon.com/24055667/zone-of-interest-sound-design-interview-oscar-home-release)
+ - [Turns out AMD&#39;s &#39;Compressonator&#39; tool for artists and devs was named after The Governator himself, Arnold Schwarzenegger](https://www.pcgamer.com/turns-out-amds-compressonator-tool-for-artists-and-devs-was-named-after-the-governator-himself-arnold-schwarzenegger)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
