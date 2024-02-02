@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
- - 😝 [Stages waking up and arriving to work!](http://9gag.com/gag/abv9VAr)
- - 👉 [`i&#39;m a celt myself.` The things Americans say...](http://9gag.com/gag/anzLQGL)<!-- MEMES:END -->
+ - 6️⃣ [Stages waking up and arriving to work!](http://9gag.com/gag/abv9VAr)
+ - 😝 [`i&#39;m a celt myself.` The things Americans say...](http://9gag.com/gag/anzLQGL)
+ - 👉 [Optimal distance to peek in Shooter games](http://9gag.com/gag/az20e4q)<!-- MEMES:END -->
 
 --- 
 
