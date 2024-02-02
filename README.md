@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stages waking up and arriving to work!](http://9gag.com/gag/abv9VAr)
- - 😝 [`i&#39;m a celt myself.` The things Americans say...](http://9gag.com/gag/anzLQGL)
- - 👉 [Optimal distance to peek in Shooter games](http://9gag.com/gag/az20e4q)<!-- MEMES:END -->
+ - 6️⃣ [Bulk](http://9gag.com/gag/armjn86)
+ - 😝 [Chonky Monster of a Boy](http://9gag.com/gag/a3ZVZd7)
+ - 👉 [Redeem](http://9gag.com/gag/a042ZzZ)<!-- MEMES:END -->
 
 --- 
 
