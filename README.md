@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft employees discover new Teams feature thanks to Pepe the Frog](https://www.theverge.com/2024/2/2/24058980/microsoft-teams-custom-emoji-pepe-the-frog)
- - [Filing: Amazon spending on content rose 14% YoY to $18.9B in 2023 despite Hollywood strikes &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240202/p9#a240202p9)
- - [Adobe brings Lightroom and Firefly AI to the Apple Vision Pro](https://www.theverge.com/2024/2/2/24059011/adobe-firefly-ai-image-generator-lightroom-apps-apple-vision-pro)<!-- TECH:END -->
+ - [EU countries strike a deal on the AI Act, after announcing pro-innovation measures and an AI Office; the bill awaits formal approval of EU Parliament &lpar;Gian Volpicelli/Politico&rpar;](http://www.techmeme.com/240202/p13#a240202p13)
+ - [There’s no perfect version of Persona 3 — but Reload is close](https://www.theverge.com/2024/2/2/24058364/persona-3-reload-review-xbox-ps5-steam)
+ - [Create images with Adobe Firefly AI for Apple Vision Pro](https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
