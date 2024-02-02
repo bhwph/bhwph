@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We Know About BioShock Spiritual Successor Judas](https://kotaku.com/judas-bioshock-release-date-platforms-trailer-gameplay-1851220858)
- - [Zone of Interest’s incredible sound design got a special mix for home viewing](https://www.polygon.com/24055667/zone-of-interest-sound-design-interview-oscar-home-release)
- - [Turns out AMD&#39;s &#39;Compressonator&#39; tool for artists and devs was named after The Governator himself, Arnold Schwarzenegger](https://www.pcgamer.com/turns-out-amds-compressonator-tool-for-artists-and-devs-was-named-after-the-governator-himself-arnold-schwarzenegger)<!-- GAME:END -->
+ - [How &#39;driving survival game&#39; Pacific Drive is being built for people who don&#39;t like survival games](https://www.pcgamer.com/how-driving-survival-game-pacific-drive-is-being-built-for-people-who-dont-like-survival-games)
+ - [Delicious in Dungeon’s delectable dishes, ranked](https://www.polygon.com/24050648/delicious-in-dungeon-food-dishes-ranking-worst-to-best)
+ - [Hazbin Hotel is pure chaos — and it mostly works](https://www.polygon.com/24059468/hazbin-hotel-season-1-finale-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
