@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
- - 😝 [45 today. A week ago, I started my new life as a single man. Have some cake.](http://9gag.com/gag/aREYXD5)
- - 👉 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)<!-- MEMES:END -->
+ - 6️⃣ [Vegetable](http://9gag.com/gag/aKErxq6)
+ - 😝 [Monsieur Mangetout ain&#39;t got shit on that boy](http://9gag.com/gag/armjMDp)
+ - 👉 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)<!-- MEMES:END -->
 
 --- 
 
