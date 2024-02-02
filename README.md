@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lightyear Frontier Is a Beautiful, Skewed Spin on the Mech and Farming Genres – and it Arrives on Game Pass in March](https://news.xbox.com/en-us/2024/02/02/lightyear-frontier-game-pass-march/)
- - [Home Safety Hotline is the cryptid help line game I didn’t know I needed](https://www.polygon.com/gaming/24058384/home-safety-hotline-cryptid-help-line-game)
- - [Razer Iskur V2 review](https://www.pcgamer.com/razer-iskur-v2-gaming-chair-review)<!-- GAME:END -->
+ - [Charlie Kaufman’s animated Netflix movie Orion and the Dark is a deeply weird gem](https://www.polygon.com/24058107/orion-and-the-dark-charlie-kaufman-dreamworks-movie-review-netflix)
+ - [Silent Hill: The Short Message is classic Silent Hill, and that’s not great](https://www.polygon.com/gaming/24058608/silent-hill-the-short-message-playstation-5-review)
+ - [The solution to space junk might be space lasers because lasers solve everything obviously](https://www.pcgamer.com/the-solution-to-space-junk-might-be-space-lasers-because-lasers-solve-everything-obviously)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
