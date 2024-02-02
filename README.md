@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How &#39;driving survival game&#39; Pacific Drive is being built for people who don&#39;t like survival games](https://www.pcgamer.com/how-driving-survival-game-pacific-drive-is-being-built-for-people-who-dont-like-survival-games)
- - [Delicious in Dungeon’s delectable dishes, ranked](https://www.polygon.com/24050648/delicious-in-dungeon-food-dishes-ranking-worst-to-best)
- - [Hazbin Hotel is pure chaos — and it mostly works](https://www.polygon.com/24059468/hazbin-hotel-season-1-finale-review)<!-- GAME:END -->
+ - [Over 500 Studios Are Working On Live-Service Games](https://kotaku.com/live-service-games-95-studios-destiny-suicide-squad-1851221959)
+ - [There’s so much Batman in Suicide Squad: Kill the Justice League](https://www.polygon.com/gaming/24059710/suicide-squad-kill-justice-league-batman-kevin-conroy)
+ - [Everything We Know About V Rising, The PC Hit Coming To PS5](https://kotaku.com/v-rising-gameplay-trailer-release-date-pc-ps5-1851221840)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
