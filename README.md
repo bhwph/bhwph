@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JP Morgan trims Apple stock target to $215 over weak iPhone expectations](https://appleinsider.com/articles/24/02/02/jp-morgan-trims-apple-stock-target-to-215-over-weak-iphone-expectations?utm_medium=rss)
- - [Christian Selig makes the YouTube Vision Pro app that Google wouldn’t](https://www.theverge.com/2024/2/2/24059005/juno-youtube-vision-pro-app-christian-selig)
- - [The best Samsung Galaxy S24 Ultra cases to buy at launch](https://www.androidauthority.com/best-samsung-galaxy-s24-ultra-cases-3404989/)<!-- TECH:END -->
+ - [Microsoft employees discover new Teams feature thanks to Pepe the Frog](https://www.theverge.com/2024/2/2/24058980/microsoft-teams-custom-emoji-pepe-the-frog)
+ - [Filing: Amazon spending on content rose 14% YoY to $18.9B in 2023 despite Hollywood strikes &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240202/p9#a240202p9)
+ - [Adobe brings Lightroom and Firefly AI to the Apple Vision Pro](https://www.theverge.com/2024/2/2/24059011/adobe-firefly-ai-image-generator-lightroom-apps-apple-vision-pro)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
