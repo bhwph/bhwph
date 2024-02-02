@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: some independent record labels are pushing back on Apple&#39;s plans to pay more for spatial audio tracks, saying it benefits larger record companies &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/240202/p2#a240202p2)
- - [Poll: Why do you typically upgrade to a new phone?](https://www.androidauthority.com/why-upgrade-new-phone-poll-3410105/)
- - [Hands-on with Perplexity and the $20-per-month Perplexity Pro tier, which show that AI-powered search engines could loosen Google&#39;s grip on the search market &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240202/p1#a240202p1)<!-- TECH:END -->
+ - [Caseology Nano Pop review: Colorful Pixel 8 protection](https://www.androidauthority.com/google-pixel-8-caseology-nano-pop-review-3408011/)
+ - [6G doesn’t exist yet, but Comcast has agreed to stop using 10G branding](https://www.androidauthority.com/comcast-10g-branding-misleading-3410243/)
+ - [Apple confirms generative AI features are coming to the iPhone very soon](https://www.androidauthority.com/apple-confirms-generative-ai-features-3410248/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
