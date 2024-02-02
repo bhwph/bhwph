@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Vegetable](http://9gag.com/gag/aKErxq6)
- - 😝 [Monsieur Mangetout ain&#39;t got shit on that boy](http://9gag.com/gag/armjMDp)
- - 👉 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)<!-- MEMES:END -->
+ - 6️⃣ [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
+ - 😝 [Stages waking up and arriving to work!](http://9gag.com/gag/abv9VAr)
+ - 👉 [`i&#39;m a celt myself.` The things Americans say...](http://9gag.com/gag/anzLQGL)<!-- MEMES:END -->
 
 --- 
 
