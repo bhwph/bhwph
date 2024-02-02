@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search’s cache links are officially being retired](https://www.theverge.com/2024/2/2/24058985/google-search-cache-feature-discontinued)
- - [The Pixel Watch camera app just got an update you’re going to love](https://www.androidauthority.com/pixel-watch-camera-app-update-modes-timer-3410268/)
- - [Drive to Survive season 6: Release date, and what we expect to see](https://www.androidauthority.com/drive-to-survive-season-6-release-date-3409895/)<!-- TECH:END -->
+ - [JP Morgan trims Apple stock target to $215 over weak iPhone expectations](https://appleinsider.com/articles/24/02/02/jp-morgan-trims-apple-stock-target-to-215-over-weak-iphone-expectations?utm_medium=rss)
+ - [Christian Selig makes the YouTube Vision Pro app that Google wouldn’t](https://www.theverge.com/2024/2/2/24059005/juno-youtube-vision-pro-app-christian-selig)
+ - [The best Samsung Galaxy S24 Ultra cases to buy at launch](https://www.androidauthority.com/best-samsung-galaxy-s24-ultra-cases-3404989/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
