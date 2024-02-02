@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mercedes fan boys after today&#39;s news](http://9gag.com/gag/aA0obRL)
- - 😝 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)
- - 👉 [Raise your drink to the character from the best and funniest Disney cartoon!](http://9gag.com/gag/a3ZVEKN)<!-- MEMES:END -->
+ - 6️⃣ [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
+ - 😝 [Stages waking up and arriving to work!](http://9gag.com/gag/abv9VAr)
+ - 👉 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)<!-- MEMES:END -->
 
 --- 
 
