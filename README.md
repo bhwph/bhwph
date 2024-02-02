@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NFL&#39;s Kelce Brothers Want To Bring Back Your Fave Childhood Game](https://kotaku.com/backyard-football-baseball-game-travis-jason-kelce-nfl-1851218390)
- - [I Will Be Love Bombing My Friends With Final Fantasy XIV’s New Emote](https://kotaku.com/final-fantasy-xiv-valentiones-day-love-heart-emote-1851217811)
- - [SpongeBob finally gets to play the Super Bowl, but he may not look how you expect](https://www.polygon.com/24058390/spongebob-super-bowl-band-geeks-sweet-victory)<!-- GAME:END -->
+ - [Get To Know Our Team: Joshua – Program Manager &lpar;OS Flighting&rpar;](https://news.xbox.com/en-us/2024/02/01/get-to-know-our-team-joshua-program-manager-os-flighting/)
+ - [Matthew Vaughn is out to turn Argylle’s post-credits scene into a franchise](https://www.polygon.com/24057329/argylle-post-credits-scene-sequel-kingsman-connections)
+ - [A willfully old school point-and-click reminded me why we put up with moon-logic puzzles in classic adventure games for so long](https://www.pcgamer.com/a-willfully-old-school-point-and-click-reminded-me-why-we-put-up-with-moon-logic-puzzles-in-classic-adventure-games-for-so-long)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
