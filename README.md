@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Caseology Nano Pop review: Colorful Pixel 8 protection](https://www.androidauthority.com/google-pixel-8-caseology-nano-pop-review-3408011/)
- - [6G doesn’t exist yet, but Comcast has agreed to stop using 10G branding](https://www.androidauthority.com/comcast-10g-branding-misleading-3410243/)
- - [Apple confirms generative AI features are coming to the iPhone very soon](https://www.androidauthority.com/apple-confirms-generative-ai-features-3410248/)<!-- TECH:END -->
+ - [Google Search’s cache links are officially being retired](https://www.theverge.com/2024/2/2/24058985/google-search-cache-feature-discontinued)
+ - [The Pixel Watch camera app just got an update you’re going to love](https://www.androidauthority.com/pixel-watch-camera-app-update-modes-timer-3410268/)
+ - [Drive to Survive season 6: Release date, and what we expect to see](https://www.androidauthority.com/drive-to-survive-season-6-release-date-3409895/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
