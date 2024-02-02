@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU countries strike a deal on the AI Act, after announcing pro-innovation measures and an AI Office; the bill awaits formal approval of EU Parliament &lpar;Gian Volpicelli/Politico&rpar;](http://www.techmeme.com/240202/p13#a240202p13)
- - [There’s no perfect version of Persona 3 — but Reload is close](https://www.theverge.com/2024/2/2/24058364/persona-3-reload-review-xbox-ps5-steam)
- - [Create images with Adobe Firefly AI for Apple Vision Pro](https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro owners can&#39;t buy AppleCare on the device](https://appleinsider.com/articles/24/02/02/apple-vision-pro-owners-cant-buy-applecare-on-the-device?utm_medium=rss)
+ - [How to share an Apple Vision Pro with a guest user](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-share-an-apple-vision-pro-with-a-guest-user?utm_medium=rss)
+ - [Samsung Galaxy S24 and S24 Plus review: slightly bigger and brighter displays with flat edges, and the AI features are occasionally great but sometimes weird &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240202/p16#a240202p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
