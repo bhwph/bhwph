@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bullies are the worst](http://9gag.com/gag/a7qzWQe)
- - 😝 [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
- - 👉 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)<!-- MEMES:END -->
+ - 6️⃣ [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)
+ - 😝 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
+ - 👉 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)<!-- MEMES:END -->
 
 --- 
 
