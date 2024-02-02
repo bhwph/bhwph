@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bulk](http://9gag.com/gag/armjn86)
- - 😝 [Chonky Monster of a Boy](http://9gag.com/gag/a3ZVZd7)
- - 👉 [Redeem](http://9gag.com/gag/a042ZzZ)<!-- MEMES:END -->
+ - 6️⃣ [Bullies are the worst](http://9gag.com/gag/a7qzWQe)
+ - 😝 [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
+ - 👉 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)<!-- MEMES:END -->
 
 --- 
 
