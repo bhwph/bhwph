@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Hint and answer #959 for Saturday, February 3](https://www.pcgamer.com/wordle-today-answer-959-february-3)
  - [Fallout: New Vegas mod turns power armor into the beastly tank suit it was meant to be, might finally get me to play something other than a sneaky sniper](https://www.pcgamer.com/this-new-vegas-mod-turns-power-armor-into-the-beast-tank-suits-they-were-meant-to-be-and-it-might-get-me-to-finally-be-something-other-than-a-sneaky-sniper)
- - [Catapult your Diablo 4 character straight into godhood with Blizzard&#39;s bonus XP event next week](https://www.pcgamer.com/catapult-your-diablo-4-character-straight-into-godhood-with-blizzards-bonus-xp-event-next-week)
- - [Palworld server costs near $500K per month as network engineer is ordered to &#39;never let the service go down no matter what&#39;](https://www.pcgamer.com/palworld-costs-launch-servers)<!-- GAME:END -->
+ - [Catapult your Diablo 4 character straight into godhood with Blizzard&#39;s bonus XP event next week](https://www.pcgamer.com/catapult-your-diablo-4-character-straight-into-godhood-with-blizzards-bonus-xp-event-next-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
