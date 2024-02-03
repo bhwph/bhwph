@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #959 for Saturday, February 3](https://www.pcgamer.com/wordle-today-answer-959-february-3)
- - [Fallout: New Vegas mod turns power armor into the beastly tank suit it was meant to be, might finally get me to play something other than a sneaky sniper](https://www.pcgamer.com/this-new-vegas-mod-turns-power-armor-into-the-beast-tank-suits-they-were-meant-to-be-and-it-might-get-me-to-finally-be-something-other-than-a-sneaky-sniper)
- - [Catapult your Diablo 4 character straight into godhood with Blizzard&#39;s bonus XP event next week](https://www.pcgamer.com/catapult-your-diablo-4-character-straight-into-godhood-with-blizzards-bonus-xp-event-next-week)<!-- GAME:END -->
+ - [Palworld, Persona 3 Reload, And More Of This Week&#39;s Best Tips](https://kotaku.com/kotaku-tips-guides-palworld-persona-3-infinite-wealth-1851220677)
+ - [If we have to recycle old IP, Mr. &amp; Mrs. Smith is the way to do it](https://www.polygon.com/24059110/mr-mrs-smith-review-amazon-prime-video-donald-glover)
+ - [Suicide Squad: Kill The Justice League: The Kotaku Review](https://kotaku.com/suicide-squad-justice-league-review-is-it-good-batman-1851222047)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
