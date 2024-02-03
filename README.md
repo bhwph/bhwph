@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neck lamps are a bookworm’s best friend](https://www.theverge.com/24057063/neck-reading-light-review-book-night-dark)
- - [Everton vs. Tottenham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/everton-vs-tottenham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Ringke Onyx review: An ultra-budget Pixel 8 case](https://www.androidauthority.com/google-pixel-8-ringke-onyx-case-review-3407995/)<!-- TECH:END -->
+ - [8 Best Valentine&#39;s Day Deals: Headphones, MacBooks, and a Lego Kit](https://www.wired.com/story/valentines-day-deals-2024/)
+ - [Galaxy S24’s Note Assist feature tested: What is it and how does it work?](https://www.androidauthority.com/samsung-one-ui-note-assist-feature-3409403/)
+ - [How to Get Your 2024 Tax Refund Up to 5 Days Sooner     - CNET](https://www.cnet.com/personal-finance/taxes/how-to-get-your-2024-tax-refund-up-to-5-days-sooner/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
