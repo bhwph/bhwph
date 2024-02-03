@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2023’s queasiest, most discussable documentary is on Netflix now](https://www.polygon.com/24059594/mister-organ-david-farrier-best-documentary-on-netflix)
- - [Palworld, Persona 3 Reload, And More Of This Week&#39;s Best Tips](https://kotaku.com/kotaku-tips-guides-palworld-persona-3-infinite-wealth-1851220677)
- - [If we have to recycle old IP, Mr. &amp; Mrs. Smith is the way to do it](https://www.polygon.com/24059110/mr-mrs-smith-review-amazon-prime-video-donald-glover)<!-- GAME:END -->
+ - [When does Honkai: Star Rail 2.0 release?](https://www.polygon.com/honkai-star-rail-guides/24058133/version-2-0-release-time-launch-maintenance-end-times)
+ - [MIT researcher proves you could output Doom on a bacteria-powered 1-bit display, and it&#39;d only take 600 years to beat](https://www.pcgamer.com/mit-researcher-proves-you-could-output-doom-on-a-bacteria-powered-1-bit-display-and-itd-only-take-600-years-to-beat)
+ - [All 21 Persona games and spinoffs, ranked](https://www.polygon.com/gaming/24058228/persona-games-ranked-best-worst)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
