@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Reddit has picked the New York Stock Exchange for its long-delayed IPO that could take place as soon as next month &lpar;Financial Times&rpar;](http://www.techmeme.com/240202/p20#a240202p20)
- - [Apple’s Vision Pro headset is hiding yet another XL Lightning plug](https://www.theverge.com/2024/2/2/24059678/apple-vision-pro-headset-lightning-plug-ifixit)
- - [Apple’s $3,499 Vision Pro lacks Find My location tracking, so don’t lose it](https://www.theverge.com/2024/2/2/24059688/apple-vision-pro-find-my-location-tracking-lost)<!-- TECH:END -->
+ - [Apple Quadrupled Its Autonomous Driving Testing Miles Last Year](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
+ - [Sources: cloud data management startup Rubrik plans an US IPO as early as April 2024, amid a DOJ fraud investigation into one of its former employees &lpar;Reuters&rpar;](http://www.techmeme.com/240202/p23#a240202p23)
+ - [A US federal judge certifies a class-action lawsuit accusing Apple of monopolizing the market for iPhone apps by banning digital purchases outside its App Store &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240202/p22#a240202p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
