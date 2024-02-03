@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Valentine&#39;s Day Deals: Headphones, MacBooks, and a Lego Kit](https://www.wired.com/story/valentines-day-deals-2024/)
- - [Galaxy S24’s Note Assist feature tested: What is it and how does it work?](https://www.androidauthority.com/samsung-one-ui-note-assist-feature-3409403/)
- - [How to Get Your 2024 Tax Refund Up to 5 Days Sooner     - CNET](https://www.cnet.com/personal-finance/taxes/how-to-get-your-2024-tax-refund-up-to-5-days-sooner/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Recharge the Apple Vision Pro twice as fast with a better power adapter](https://appleinsider.com/articles/24/02/03/recharge-the-apple-vision-pro-twice-as-fast-with-a-better-power-adapter?utm_medium=rss)
+ - [China’s Hackers Keep Targeting US Water and Electricity Supplies](https://www.wired.com/story/china-hackers-us-water-electricity-moreno-vault-7/)
+ - [The Hulu and Disney+ Password Crackdown Is Coming. Here’s What You Need to Know](https://www.wired.com/story/hulu-disney-password-sharing-over/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
