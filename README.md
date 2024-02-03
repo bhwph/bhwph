@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m not a conspiracy theorist, but this walk really reminds me of... Oh no!.. I shouldn&#39;t have taken off my tin foil hat.](http://9gag.com/gag/a7qzEnw)
- - 😝 [Read 4 surprise](http://9gag.com/gag/aME3E66)
- - 👉 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)<!-- MEMES:END -->
+ - 6️⃣ [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)
+ - 😝 [I is afraid to ask](http://9gag.com/gag/awZ6M6y)
+ - 👉 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)<!-- MEMES:END -->
 
 --- 
 
