@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Quadrupled Its Autonomous Driving Testing Miles Last Year](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
- - [Sources: cloud data management startup Rubrik plans an US IPO as early as April 2024, amid a DOJ fraud investigation into one of its former employees &lpar;Reuters&rpar;](http://www.techmeme.com/240202/p23#a240202p23)
- - [A US federal judge certifies a class-action lawsuit accusing Apple of monopolizing the market for iPhone apps by banning digital purchases outside its App Store &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240202/p22#a240202p22)<!-- TECH:END -->
+ - [‘There is no such thing as a real picture,’ says Samsung exec](https://www.theverge.com/2024/2/2/24059955/samsung-no-such-thing-as-real-photo-ai)
+ - [Best Smart Home Deals: Save on Smart Plugs, Bulbs, Speakers and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
+ - [Apple&#39;s next Studio Display could be curved and very secure](https://appleinsider.com/articles/24/02/01/apples-next-studio-display-could-be-curved-and-very-secure?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
