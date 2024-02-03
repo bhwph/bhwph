@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI afterlife, robot romance, and slow-burn slashers: the best of Sundance 2024](https://www.theverge.com/24059264/sundance-film-festival-2024-best-movies-ai)
- - [A look at Reddit&#39;s third-party app ecosystem seven months after API changes: most current apps now charge users a monthly fee, some are profitable, and more &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/240203/p9#a240203p9)
- - [The Surface Pro 9 is more than $500 off, matching its all-time low](https://www.theverge.com/2024/2/3/24059630/microsoft-surface-pro-9-beats-studio-buds-plus-samsung-frame-tv-deal-sale)<!-- TECH:END -->
+ - [A changelog for Bard shows Google plans to rename Bard as Gemini, with an Advanced tier and an Android app &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240203/p11#a240203p11)
+ - [Long-running App Store monopoly lawsuit gains class-action status](https://appleinsider.com/articles/24/02/03/long-running-app-store-monopoly-lawsuit-gains-class-action-status?utm_medium=rss)
+ - [The first Reddit reviews of the Vision Pro are in](https://www.theverge.com/2024/2/3/24060419/reddit-vision-pro-user-reviews-launch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
