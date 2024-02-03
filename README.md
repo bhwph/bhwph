@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese automaker Geely launches 11 LEO satellites to provide high-precision positioning support to self-driving cars and expects 72 to be in orbit by 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/240203/p3#a240203p3)
- - [Records show Apple&#39;s secretive auto unit almost quadrupled its self-driving miles on public roads in 2023, compared to 2022, jumping 2021&#39;s total by over 30x &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/240203/p2#a240203p2)
- - [More than 100 human rights and LGBTQ groups and many kids condemn the Kids Online Safety Act after the January 31 hearing, saying it is &quot;to control information&quot; &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240203/p1#a240203p1)<!-- TECH:END -->
+ - [Station 19 season 7: Expected release date and the latest rumors](https://www.androidauthority.com/station-19-season-7-release-date-3410607/)
+ - [Meta&#39;s Fundamental AI Research &lpar;FAIR&rpar; lab, which is responsible for Llama, is made up largely of women; sources say ~60% of FAIR&#39;s leadership team are women &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240203/p7#a240203p7)
+ - [Nayib Bukele doubles down on BTC despite El Salvador&#39;s economic woes and IMF asking for BTC&#39;s removal as legal tender; 88% of citizens didn&#39;t use BTC in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240203/p6#a240203p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
