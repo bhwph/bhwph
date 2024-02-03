@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
- - 😝 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
- - 👉 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)<!-- MEMES:END -->
+ - 😝 [Read 4 surprise](http://9gag.com/gag/aME3E66)
+ - 👉 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)<!-- MEMES:END -->
 
 --- 
 
