@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When does Honkai: Star Rail 2.0 release?](https://www.polygon.com/honkai-star-rail-guides/24058133/version-2-0-release-time-launch-maintenance-end-times)
- - [MIT researcher proves you could output Doom on a bacteria-powered 1-bit display, and it&#39;d only take 600 years to beat](https://www.pcgamer.com/mit-researcher-proves-you-could-output-doom-on-a-bacteria-powered-1-bit-display-and-itd-only-take-600-years-to-beat)
- - [All 21 Persona games and spinoffs, ranked](https://www.polygon.com/gaming/24058228/persona-games-ranked-best-worst)<!-- GAME:END -->
+ - [26 years after Thief&#39;s release, one of its programmers is streaming the game&#39;s most ambitious mod](https://www.pcgamer.com/26-years-after-thiefs-release-one-of-its-programmers-is-streaming-the-games-most-ambitious-mod)
+ - [Satisfactory will have its 1.0 release this year](https://www.pcgamer.com/satisfactory-will-have-its-10-release-this-year)
+ - [When does Honkai: Star Rail 2.0 release?](https://www.polygon.com/honkai-star-rail-guides/24058133/version-2-0-release-time-launch-maintenance-end-times)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
