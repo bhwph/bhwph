@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I is afraid to ask](http://9gag.com/gag/awZ6M6y)
- - 😝 [Old but gold](http://9gag.com/gag/a7qzO1q)
- - 👉 [New HIV drug Gammora passing its human clinical tests is AWESOME!](http://9gag.com/gag/a9q9zND)<!-- MEMES:END -->
+ - 6️⃣ [New HIV drug Gammora passing its human clinical tests is AWESOME!](http://9gag.com/gag/a9q9zND)
+ - 😝 [Stop the Car!](http://9gag.com/gag/aDYE7j9)
+ - 👉 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)<!-- MEMES:END -->
 
 --- 
 
