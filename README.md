@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)
- - 😝 [Teacher in Korea](http://9gag.com/gag/avQ3AXM)
- - 👉 [Stop the Car!](http://9gag.com/gag/aDYE7j9)<!-- MEMES:END -->
+ - 6️⃣ [I is afraid to ask](http://9gag.com/gag/awZ6M6y)
+ - 😝 [Old but gold](http://9gag.com/gag/a7qzO1q)
+ - 👉 [New HIV drug Gammora passing its human clinical tests is AWESOME!](http://9gag.com/gag/a9q9zND)<!-- MEMES:END -->
 
 --- 
 
