@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Station 19 season 7: Expected release date and the latest rumors](https://www.androidauthority.com/station-19-season-7-release-date-3410607/)
- - [Meta&#39;s Fundamental AI Research &lpar;FAIR&rpar; lab, which is responsible for Llama, is made up largely of women; sources say ~60% of FAIR&#39;s leadership team are women &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240203/p7#a240203p7)
- - [Nayib Bukele doubles down on BTC despite El Salvador&#39;s economic woes and IMF asking for BTC&#39;s removal as legal tender; 88% of citizens didn&#39;t use BTC in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240203/p6#a240203p6)<!-- TECH:END -->
+ - [Neck lamps are a bookworm’s best friend](https://www.theverge.com/24057063/neck-reading-light-review-book-night-dark)
+ - [Everton vs. Tottenham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/everton-vs-tottenham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Ringke Onyx review: An ultra-budget Pixel 8 case](https://www.androidauthority.com/google-pixel-8-ringke-onyx-case-review-3407995/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
