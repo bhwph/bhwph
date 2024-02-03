@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘There is no such thing as a real picture,’ says Samsung exec](https://www.theverge.com/2024/2/2/24059955/samsung-no-such-thing-as-real-photo-ai)
- - [Best Smart Home Deals: Save on Smart Plugs, Bulbs, Speakers and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
- - [Apple&#39;s next Studio Display could be curved and very secure](https://appleinsider.com/articles/24/02/01/apples-next-studio-display-could-be-curved-and-very-secure?utm_medium=rss)<!-- TECH:END -->
+ - [The Cleaning Lady season 3: Release date and the latest rumors](https://www.androidauthority.com/the-cleaning-lady-season-3-release-date-3410592/)
+ - [Hugging Face launches HuggingChat Assistants, allowing users to create customized AI chatbots with specific capabilities using LLMs like Mixtral or Llama2 &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240202/p26#a240202p26)
+ - [Best 3D Printer Filament Deals: 6 Great Rolls for All Your 3D Printing Projects     - CNET](https://www.cnet.com/deals/the-best-3d-printer-filament-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
