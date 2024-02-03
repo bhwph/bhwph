@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)
- - 😝 [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
- - 👉 [Conjoined twins teaching class [I have so many questions]](http://9gag.com/gag/aYV2V9m)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m not a conspiracy theorist, but this walk really reminds me of... Oh no!.. I shouldn&#39;t have taken off my tin foil hat.](http://9gag.com/gag/a7qzEnw)
+ - 😝 [Read 4 surprise](http://9gag.com/gag/aME3E66)
+ - 👉 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)<!-- MEMES:END -->
 
 --- 
 
