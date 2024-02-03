@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
- - 😝 [Read 4 surprise](http://9gag.com/gag/aME3E66)
- - 👉 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)<!-- MEMES:END -->
+ - 😝 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
+ - 👉 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)<!-- MEMES:END -->
 
 --- 
 
