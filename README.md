@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [2023’s queasiest, most discussable documentary is on Netflix now](https://www.polygon.com/24059594/mister-organ-david-farrier-best-documentary-on-netflix)
  - [Palworld, Persona 3 Reload, And More Of This Week&#39;s Best Tips](https://kotaku.com/kotaku-tips-guides-palworld-persona-3-infinite-wealth-1851220677)
- - [If we have to recycle old IP, Mr. &amp; Mrs. Smith is the way to do it](https://www.polygon.com/24059110/mr-mrs-smith-review-amazon-prime-video-donald-glover)
- - [Suicide Squad: Kill The Justice League: The Kotaku Review](https://kotaku.com/suicide-squad-justice-league-review-is-it-good-batman-1851222047)<!-- GAME:END -->
+ - [If we have to recycle old IP, Mr. &amp; Mrs. Smith is the way to do it](https://www.polygon.com/24059110/mr-mrs-smith-review-amazon-prime-video-donald-glover)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
