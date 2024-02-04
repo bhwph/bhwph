@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I like pancakes](http://9gag.com/gag/a4oD69w)
- - 😝 [`cant you just say you are chinese so we can arrest you?` -tom](http://9gag.com/gag/aEqLqoM)
- - 👉 [Marriage](http://9gag.com/gag/aPgKPLK)<!-- MEMES:END -->
+ - 6️⃣ [Shouldn\u2019t happen in a developed country.](http://9gag.com/gag/aKEr9KW)
+ - 😝 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
+ - 👉 [Ticket jumper](http://9gag.com/gag/aDYE62d)<!-- MEMES:END -->
 
 --- 
 
