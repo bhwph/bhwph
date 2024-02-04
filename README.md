@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US police departments are using AI software from Chicago-based Truleo and other companies to analyze millions of hours of unreviewed body-cam footage &lpar;Umar Farooq/ProPublica&rpar;](http://www.techmeme.com/240204/p10#a240204p10)
- - [Threads is a gripping, miserable experience](https://www.theverge.com/24060504/threads-review-a-miserable-experience)
- - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Apple &#39;renaissance&#39; inbound after Vision Pro launch success](https://appleinsider.com/articles/24/02/04/apple-renaissance-inbound-after-vision-pro-launch-success?utm_medium=rss)
+ - [How to get started using Optic ID for Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-get-started-using-optic-id-for-apple-vision-pro?utm_medium=rss)
+ - [US police departments are using AI software from Chicago-based Truleo and other companies to analyze millions of hours of unreviewed body-cam footage &lpar;Umar Farooq/ProPublica&rpar;](http://www.techmeme.com/240204/p10#a240204p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
