@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Teacher in Korea](http://9gag.com/gag/avQ3AXM)
- - 😝 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)
- - 👉 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)<!-- MEMES:END -->
+ - 6️⃣ [I like pancakes](http://9gag.com/gag/a4oD69w)
+ - 😝 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)
+ - 👉 [Taking a selfie with an oncoming train](http://9gag.com/gag/a5X8VZq)<!-- MEMES:END -->
 
 --- 
 
