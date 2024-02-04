@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snag This Lifetime Subscription to Rosetta Stone for Just $190     - CNET](https://www.cnet.com/deals/snag-this-lifetime-subscription-to-rosetta-stone-for-just-190/#ftag=CAD590a51e)
- - [Awesome Amazon Deals This Weekend: Save Big on Apple&#39;s AirPods 2, Amazon&#39;s Omni TV, Eugy L60 and More     - CNET](https://www.cnet.com/deals/awesome-amazon-deals-this-weekend-save-big-on-apples-airpods-2-amazons-omni-tv-eugy-l60-and-more/#ftag=CAD590a51e)
- - [7 years of updates means the Galaxy S25 should have a removable battery](https://www.androidauthority.com/galaxy-s25-updates-removable-battery-3409402/)<!-- TECH:END -->
+ - [How to delete apps from the Apple Vision Pro](https://appleinsider.com/articles/24/02/04/how-to-delete-apps-from-the-apple-vision-pro?utm_medium=rss)
+ - [Samsung Galaxy Fit 3 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-fit-3-specs-price-availability-3410099/)
+ - [Get Updated on the Latest Flight Deals With Matt&#39;s Flights Premium for Just $90     - CNET](https://www.cnet.com/deals/get-updated-on-the-latest-flight-deals-with-matts-flights-premium-for-just-90/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
