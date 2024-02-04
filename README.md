@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO Find X7 Ultra review: Should you buy it?](https://www.androidauthority.com/oppo-find-x7-ultra-review-3408889/)
- - [The Apple Vision Pro’s Killer App Is … Kitchen Timers](https://www.wired.com/story/apple-vision-pro-boils-down-to-kitchen-timers-and-thats-a-problem/)
- - [The Top New Features in macOS Sonoma: How to Download, Compatible Macs](https://www.wired.com/story/apple-macos-sonoma-features/)<!-- TECH:END -->
+ - [How to shut down and restart the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-shut-down-and-restart-the-apple-vision-pro?utm_medium=rss)
+ - [11 Best Smart Bulbs &lpar;2024&rpar;: Lamp Bulbs, Ambient, Color, Etc](https://www.wired.com/gallery/best-smart-bulbs/)
+ - [Arsenal vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
