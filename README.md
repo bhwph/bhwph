@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shouldn\u2019t happen in a developed country.](http://9gag.com/gag/aKEr9KW)
- - 😝 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
- - 👉 [Ticket jumper](http://9gag.com/gag/aDYE62d)<!-- MEMES:END -->
+ - 6️⃣ [Focus, Conan!](http://9gag.com/gag/ay2OqDM)
+ - 😝 [Old but gold](http://9gag.com/gag/a7qzO1q)
+ - 👉 [Listen to the difference between a 400lb American made anvil with a hardened steel face and a cast iron body, and a 550lb German anvil with a fully hardened steel body made in pieces then forged together](http://9gag.com/gag/aoKbVA3)<!-- MEMES:END -->
 
 --- 
 
