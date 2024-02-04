@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 3, Silent Hill, And More Of The Week&#39;s Hottest Takes](https://kotaku.com/kotaku-opinion-review-persona-3-silent-hill-granblue-1851220679)
- - [The best movies to watch after a breakup](https://www.polygon.com/what-to-watch/24058168/best-movies-to-watch-after-breakup)
- - [Today&#39;s Wordle answer for Sunday, February 4](https://www.pcgamer.com/wordle-today-answer-february-4-2024)<!-- GAME:END -->
+ - [Survive a harsh world in the demo for a city builder that looks like a Moebius drawing come to life](https://www.pcgamer.com/survive-a-harsh-world-in-the-demo-for-a-city-builder-that-looks-like-a-moebius-drawing-come-to-life)
+ - [John Cena had plans for Peacemaker — then James Gunn said ‘throw all that away’](https://www.polygon.com/24059135/argylle-john-cena-peacemaker-matthew-vaughn-james-gunn)
+ - [Persona 3, Silent Hill, And More Of The Week&#39;s Hottest Takes](https://kotaku.com/kotaku-opinion-review-persona-3-silent-hill-granblue-1851220679)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
