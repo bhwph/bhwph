@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Survive a harsh world in the demo for a city builder that looks like a Moebius drawing come to life](https://www.pcgamer.com/survive-a-harsh-world-in-the-demo-for-a-city-builder-that-looks-like-a-moebius-drawing-come-to-life)
- - [John Cena had plans for Peacemaker — then James Gunn said ‘throw all that away’](https://www.polygon.com/24059135/argylle-john-cena-peacemaker-matthew-vaughn-james-gunn)
- - [Persona 3, Silent Hill, And More Of The Week&#39;s Hottest Takes](https://kotaku.com/kotaku-opinion-review-persona-3-silent-hill-granblue-1851220679)<!-- GAME:END -->
+ - [If you liked Hazbin Hotel, here’s what you should watch next](https://www.polygon.com/what-to-watch/24055764/hazbin-hotel-shows-like-list-animated-comedy-tv)
+ - [Seeing a video of Elden Ring maps loaded into Armored Core 6 makes me think an AC would just dominate the Lands Between](https://www.pcgamer.com/seeing-a-video-of-elden-ring-maps-loaded-into-armored-core-6-makes-me-think-an-ac-would-just-dominate-the-lands-between)
+ - [Survive a harsh world in the demo for a city builder that looks like a Moebius drawing come to life](https://www.pcgamer.com/survive-a-harsh-world-in-the-demo-for-a-city-builder-that-looks-like-a-moebius-drawing-come-to-life)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
