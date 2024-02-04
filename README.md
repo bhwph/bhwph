@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to shut down and restart the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-shut-down-and-restart-the-apple-vision-pro?utm_medium=rss)
- - [11 Best Smart Bulbs &lpar;2024&rpar;: Lamp Bulbs, Ambient, Color, Etc](https://www.wired.com/gallery/best-smart-bulbs/)
- - [Arsenal vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snag This Lifetime Subscription to Rosetta Stone for Just $190     - CNET](https://www.cnet.com/deals/snag-this-lifetime-subscription-to-rosetta-stone-for-just-190/#ftag=CAD590a51e)
+ - [Awesome Amazon Deals This Weekend: Save Big on Apple&#39;s AirPods 2, Amazon&#39;s Omni TV, Eugy L60 and More     - CNET](https://www.cnet.com/deals/awesome-amazon-deals-this-weekend-save-big-on-apples-airpods-2-amazons-omni-tv-eugy-l60-and-more/#ftag=CAD590a51e)
+ - [7 years of updates means the Galaxy S25 should have a removable battery](https://www.androidauthority.com/galaxy-s25-updates-removable-battery-3409402/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
