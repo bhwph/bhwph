@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Chansey Community Day guide](https://www.polygon.com/pokemon-go-guide/24058199/chansey-community-day-happiny-egg-blissey-shiny)
- - [The T&#39;au are coming to Warhammer 40,000: Battlesector](https://www.pcgamer.com/the-tau-are-coming-to-warhammer-40000-battlesector)
- - [Moonbreaker, the digital miniatures game from Subnautica developer Unknown Worlds, has released](https://www.pcgamer.com/moonbreaker-the-digital-miniatures-game-from-subnautica-developer-unknown-worlds-has-released)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, February 4](https://www.pcgamer.com/wordle-today-answer-february-4-2024)
+ - [The original tabletop deckbuilder Dominion is free-to-play on Steam, with AI powered by neural networks](https://www.pcgamer.com/the-original-tabletop-deckbuilder-dominion-is-free-to-play-on-steam-with-ai-powered-by-neural-networks)
+ - [Pokémon Go Chansey Community Day guide](https://www.polygon.com/pokemon-go-guide/24058199/chansey-community-day-happiny-egg-blissey-shiny)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
