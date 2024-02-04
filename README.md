@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to delete apps from the Apple Vision Pro](https://appleinsider.com/articles/24/02/04/how-to-delete-apps-from-the-apple-vision-pro?utm_medium=rss)
- - [Samsung Galaxy Fit 3 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-fit-3-specs-price-availability-3410099/)
- - [Get Updated on the Latest Flight Deals With Matt&#39;s Flights Premium for Just $90     - CNET](https://www.cnet.com/deals/get-updated-on-the-latest-flight-deals-with-matts-flights-premium-for-just-90/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US police departments are using AI software from Chicago-based Truleo and other companies to analyze millions of hours of unreviewed body-cam footage &lpar;Umar Farooq/ProPublica&rpar;](http://www.techmeme.com/240204/p10#a240204p10)
+ - [Threads is a gripping, miserable experience](https://www.theverge.com/24060504/threads-review-a-miserable-experience)
+ - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
