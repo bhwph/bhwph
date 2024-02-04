@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watershed, which provides software that helps companies track and reduce their greenhouse gas emissions, raised a $100M Series C at a $1.8B valuation &lpar;Eric Roston/Bloomberg&rpar;](http://www.techmeme.com/240203/p16#a240203p16)
  - [Apple Vision Pro teardown: not great repairability-wise, an unforgivable proprietary battery plug, and a lenticular lens layer that makes EyeSight look blurry &lpar;Charlie Sorrel/iFixit News&rpar;](http://www.techmeme.com/240203/p15#a240203p15)
- - [Apple Vision Pro can be used in public, but mind your manners](https://appleinsider.com/articles/24/02/04/apple-vision-pro-can-be-used-in-public-but-mind-your-manners?utm_medium=rss)
- - [First teardown shows complex insides of Apple Vision Pro](https://appleinsider.com/articles/24/02/03/first-teardown-shows-complex-insides-of-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro can be used in public, but mind your manners](https://appleinsider.com/articles/24/02/04/apple-vision-pro-can-be-used-in-public-but-mind-your-manners?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
