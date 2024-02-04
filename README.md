@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [[No title]](http://9gag.com/gag/aPgKm4K)
- - 😝 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
- - 👉 [How to kebab](http://9gag.com/gag/avQ3W3q)<!-- MEMES:END -->
+ - 6️⃣ [Teacher in Korea](http://9gag.com/gag/avQ3AXM)
+ - 😝 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)
+ - 👉 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)<!-- MEMES:END -->
 
 --- 
 
