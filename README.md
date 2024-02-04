@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
- - 😝 [Ever heard tell of that ?](http://9gag.com/gag/avQ31KX)
- - 👉 [France again, 3 stabbed.](http://9gag.com/gag/a9q96Dm)<!-- MEMES:END -->
+ - 6️⃣ [I like pancakes](http://9gag.com/gag/a4oD69w)
+ - 😝 [`cant you just say you are chinese so we can arrest you?` -tom](http://9gag.com/gag/aEqLqoM)
+ - 👉 [Marriage](http://9gag.com/gag/aPgKPLK)<!-- MEMES:END -->
 
 --- 
 
