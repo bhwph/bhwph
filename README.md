@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
- - 😝 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
- - 👉 [Stop the Car!](http://9gag.com/gag/aDYE7j9)<!-- MEMES:END -->
+ - 6️⃣ [[No title]](http://9gag.com/gag/aPgKm4K)
+ - 😝 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
+ - 👉 [How to kebab](http://9gag.com/gag/avQ3W3q)<!-- MEMES:END -->
 
 --- 
 
