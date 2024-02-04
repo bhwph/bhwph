@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you liked Hazbin Hotel, here’s what you should watch next](https://www.polygon.com/what-to-watch/24055764/hazbin-hotel-shows-like-list-animated-comedy-tv)
- - [Seeing a video of Elden Ring maps loaded into Armored Core 6 makes me think an AC would just dominate the Lands Between](https://www.pcgamer.com/seeing-a-video-of-elden-ring-maps-loaded-into-armored-core-6-makes-me-think-an-ac-would-just-dominate-the-lands-between)
- - [Survive a harsh world in the demo for a city builder that looks like a Moebius drawing come to life](https://www.pcgamer.com/survive-a-harsh-world-in-the-demo-for-a-city-builder-that-looks-like-a-moebius-drawing-come-to-life)<!-- GAME:END -->
+ - [Hellcard brings its chunky co-op deckbuilding to a full release](https://www.pcgamer.com/hellcard-brings-its-chunky-co-op-deckbuilding-to-a-full-release)
+ - [A group of modders have spent 10 years honing a remake of StarCraft 1 and Brood War in StarCraft 2, complete with remastered cutscenes and custom unit models](https://www.pcgamer.com/a-group-of-modders-have-spent-10-years-honing-a-remake-of-starcraft-1-and-brood-war-in-starcraft-2-complete-with-remastered-cutscenes-and-custom-unit-models)
+ - [If you liked Hazbin Hotel, here’s what you should watch next](https://www.polygon.com/what-to-watch/24055764/hazbin-hotel-shows-like-list-animated-comedy-tv)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
