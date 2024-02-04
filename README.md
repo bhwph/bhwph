@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to kebab](http://9gag.com/gag/avQ3W3q)
- - 😝 [They spoke the same language](http://9gag.com/gag/ajVo7bg)
- - 👉 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)<!-- MEMES:END -->
+ - 6️⃣ [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
+ - 😝 [Ever heard tell of that ?](http://9gag.com/gag/avQ31KX)
+ - 👉 [France again, 3 stabbed.](http://9gag.com/gag/a9q96Dm)<!-- MEMES:END -->
 
 --- 
 
