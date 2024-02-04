@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Persona 3, Silent Hill, And More Of The Week&#39;s Hottest Takes](https://kotaku.com/kotaku-opinion-review-persona-3-silent-hill-granblue-1851220679)
  - [The best movies to watch after a breakup](https://www.polygon.com/what-to-watch/24058168/best-movies-to-watch-after-breakup)
- - [Today&#39;s Wordle answer for Sunday, February 4](https://www.pcgamer.com/wordle-today-answer-february-4-2024)
- - [The original tabletop deckbuilder Dominion is free-to-play on Steam, with AI powered by neural networks](https://www.pcgamer.com/the-original-tabletop-deckbuilder-dominion-is-free-to-play-on-steam-with-ai-powered-by-neural-networks)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, February 4](https://www.pcgamer.com/wordle-today-answer-february-4-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
