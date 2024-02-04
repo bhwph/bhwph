@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TechCrunch+&#39;s founding editor about its launch to complement TechCrunch&#39;s ads and events revenue and its failure due to issues with finding business reporters &lpar;Danny Crichton/Securities&rpar;](http://www.techmeme.com/240204/p6#a240204p6)
- - [Don&#39;t Lose the COLA Letter You Received in December 2023. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/taxes/dont-lose-the-cola-letter-you-received-in-december-2023-heres-why/#ftag=CAD590a51e)
- - [Best Windows Laptop for 2024     - CNET](https://www.cnet.com/tech/computing/best-windows-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OPPO Find X7 Ultra review: Should you buy it?](https://www.androidauthority.com/oppo-find-x7-ultra-review-3408889/)
+ - [The Apple Vision Pro’s Killer App Is … Kitchen Timers](https://www.wired.com/story/apple-vision-pro-boils-down-to-kitchen-timers-and-thats-a-problem/)
+ - [The Top New Features in macOS Sonoma: How to Download, Compatible Macs](https://www.wired.com/story/apple-macos-sonoma-features/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
