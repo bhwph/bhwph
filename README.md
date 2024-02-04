@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
- - 😝 [I like pancakes](http://9gag.com/gag/a4oD69w)
- - 👉 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)<!-- MEMES:END -->
+ - 6️⃣ [How to kebab](http://9gag.com/gag/avQ3W3q)
+ - 😝 [They spoke the same language](http://9gag.com/gag/ajVo7bg)
+ - 👉 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)<!-- MEMES:END -->
 
 --- 
 
