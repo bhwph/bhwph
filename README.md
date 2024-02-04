@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Men are shamed for their preferences, women are not](http://9gag.com/gag/a2Kn8v1)
- - 😝 [The future is here](http://9gag.com/gag/ajVoLEg)
- - 👉 [Imagine your math professor teaching this lesson...](http://9gag.com/gag/a8qB0KO)<!-- MEMES:END -->
+ - 6️⃣ [Listen to the difference between a 400lb American made anvil with a hardened steel face and a cast iron body, and a 550lb German anvil with a fully hardened steel body made in pieces then forged together](http://9gag.com/gag/aoKbVA3)
+ - 😝 [I like pancakes](http://9gag.com/gag/a4oD69w)
+ - 👉 [Focus, Conan!](http://9gag.com/gag/ay2OqDM)<!-- MEMES:END -->
 
 --- 
 
