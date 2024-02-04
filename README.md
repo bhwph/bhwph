@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Phil Schiller about Apple&#39;s efforts to minimize potential risks that third-party app stores, mandated by EU&#39;s DMA, may expose iPhone users to &lpar;Michael Grothaus/Fast Company&rpar;](http://www.techmeme.com/240203/p13#a240203p13)
- - [Best Gaming Laptop Deals: Big Savings on Lenovo, Acer, Razer and More     - CNET](https://www.cnet.com/deals/best-gaming-laptop-deals/#ftag=CAD590a51e)
- - [Best Buy drops Apple Watch Series 9 to $299 this weekend](https://appleinsider.com/articles/24/02/03/best-buy-drops-apple-watch-series-9-to-299-this-weekend?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro can be used in public, but mind your manners](https://appleinsider.com/articles/24/02/04/apple-vision-pro-can-be-used-in-public-but-mind-your-manners?utm_medium=rss)
+ - [First teardown shows complex insides of Apple Vision Pro](https://appleinsider.com/articles/24/02/03/first-teardown-shows-complex-insides-of-apple-vision-pro?utm_medium=rss)
+ - [Apple open sources Pkl, a configuration-as-code language with rich validation and tooling, with Swift, Go, Java, and Kotlin integration &lpar;Pkl Blog&rpar;](http://www.techmeme.com/240203/p14#a240203p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
