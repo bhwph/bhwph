@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
+ - 6️⃣ [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)
  - 😝 [WTF](http://9gag.com/gag/aKErv66)
- - 👉 [I like pancakes](http://9gag.com/gag/a4oD69w)<!-- MEMES:END -->
+ - 👉 [What&#39;s yours? Post in the comments](http://9gag.com/gag/aVbNovw)<!-- MEMES:END -->
 
 --- 
 
