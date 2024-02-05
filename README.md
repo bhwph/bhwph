@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything You Need To Know About Honkai: Star Rail Version 2.0](https://kotaku.com/honkai-star-rail-2-0-release-date-banners-penacony-1851225431)
- - [Financial worker attends company meeting with AI deepfakes of senior &#39;colleagues&#39; and is duped into transferring the scammers $26 million](https://www.pcgamer.com/financial-worker-attends-company-meeting-with-ai-deepfakes-of-senior-colleagues-and-is-duped-into-transferring-the-scammers-dollar26-million)
- - [Apex Legends is making its biggest change since launch: an upgrade tree for every legend that adds 120 new variables to every match](https://www.pcgamer.com/apex-legends-upgrades-season-20)<!-- GAME:END -->
+ - [Modern Warfare III Is Getting A Bunch Of New Maps And Guns In Season Two](https://kotaku.com/call-of-duty-mw3-season-two-maps-guns-1851226082)
+ - [Apex Legends Is One Of The Few Games Doing Ranked Right](https://kotaku.com/apex-legends-ranked-season-20-changes-rp-lp-mmr-trials-1851225999)
+ - [RIP To The Best Part Of Persona 3’s UI](https://kotaku.com/persona-3-reload-ui-loses-the-originals-best-feature-1851225937)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
