@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)
+ - 6️⃣ [Person writes letter to man explaining what happened to his car &lpar;hit and run bus&rpar;](http://9gag.com/gag/aME3PrV)
  - 😝 [WTF](http://9gag.com/gag/aKErv66)
- - 👉 [What&#39;s yours? Post in the comments](http://9gag.com/gag/aVbNovw)<!-- MEMES:END -->
+ - 👉 [Massage](http://9gag.com/gag/aDYEbzx)<!-- MEMES:END -->
 
 --- 
 
