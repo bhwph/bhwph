@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus is quietly adding Galaxy S24 and Pixel-like AI features to its flagships](https://www.androidauthority.com/oneplus-12-oneplus-11-ai-features-3410669/)
- - [Grab an M2 MacBook Pro for just $1,579 today only](https://appleinsider.com/articles/24/02/05/grab-an-m2-macbook-pro-for-just-1579-today-only?utm_medium=rss)
- - [Bambu Lab is recalling every A1 3D printer — don’t use them until you read this](https://www.theverge.com/2024/2/4/24061794/bambu-lab-a1-3d-printer-recall-heatbed-cable-damage)<!-- TECH:END -->
+ - [Zenfone 11 Ultra leak reveals striking resemblance to this gaming phone](https://www.androidauthority.com/asus-zenfone-11-ultra-leaked-renders-3410677/)
+ - [Teardown reveals Samsung Galaxy S24 Ultra’s Titanium is less durable than iPhone 15 Pro’s](https://www.androidauthority.com/samsung-galaxy-s24-ultra-vs-apple-iphone-15-pro-titanium-3410675/)
+ - [Google Bard could get renamed to Gemini in a couple of days](https://www.androidauthority.com/google-bard-gemini-rename-february-7-3409906/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
