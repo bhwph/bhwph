@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta announced it&#39;s deprecating its Facebook Groups API, and developers say doing so will greatly impact companies offering tools to schedule and automate posts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240205/p23#a240205p23)
- - [Looks like YouTube will make an Apple Vision Pro app after all](https://appleinsider.com/articles/24/02/05/looks-like-youtube-will-make-an-apple-vision-pro-app-after-all?utm_medium=rss)
- - [A look at the legal challenges of defining and prosecuting virtual crimes, amid rising reports of attacks, harassment, and sexual assault in the metaverse &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/240205/p22#a240205p22)<!-- TECH:END -->
+ - [Sources: Reddit had over $800M in revenue in 2023, up 20%+ YoY, and was not profitable for the full year but, according to one source, was profitable in Q4 &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240205/p26#a240205p26)
+ - [Palantir reports Q4 revenue up 20% YoY to $608.4M, vs. $602.4M est., net income $93.4M, up from $30.9M YoY, and LLM tech saw &quot;unrelenting&quot; demand; PLTR up 14%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240205/p25#a240205p25)
+ - [Apple TV+ has a lot of content coming in 2024](https://appleinsider.com/articles/24/02/05/apple-tv-has-a-lot-of-content-coming-in-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
