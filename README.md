@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok’s fallout with Universal Music Group is ruining viral trends and thirsty fancams](https://www.theverge.com/2024/2/5/24062260/tiktok-universal-music-group-audio-removal-ruining-viral-trends-thirst-edits)
- - [Amazon’s kitchen-friendly Echo Show 15 is going for $80 off right now](https://www.theverge.com/2024/2/5/24062002/amazon-echo-show-15-fujifilm-instax-mini-12-echo-buds-dualsense-deal-sale)
- - [Semafor reporters are going to curate the news with AI](https://www.theverge.com/2024/2/5/24062229/semafor-signals-miso-ai-microsoft)<!-- TECH:END -->
+ - [Meta announced it&#39;s deprecating its Facebook Groups API, and developers say doing so will greatly impact companies offering tools to schedule and automate posts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240205/p23#a240205p23)
+ - [Looks like YouTube will make an Apple Vision Pro app after all](https://appleinsider.com/articles/24/02/05/looks-like-youtube-will-make-an-apple-vision-pro-app-after-all?utm_medium=rss)
+ - [A look at the legal challenges of defining and prosecuting virtual crimes, amid rising reports of attacks, harassment, and sexual assault in the metaverse &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/240205/p22#a240205p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
