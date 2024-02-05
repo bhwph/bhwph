@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Beta &lpar;2402.240201-2000&rpar;](https://news.xbox.com/en-us/2024/02/05/xbox-insider-release-notes-beta-2402-240201-2000/)
- - [Tracy Chapman’s ‘Fast Car’ Grammys performance is what awards shows are made for](https://www.polygon.com/24062412/tracy-chapmans-fast-car-grammys)
- - [Xbox Insider Release Notes – Alpha &lpar;2403.240131-2200&rpar;](https://news.xbox.com/en-us/2024/02/05/xbox-insider-release-notes-alpha-2403-240131-2200/)<!-- GAME:END -->
+ - [Blizzard dares its richest World of Warcraft players to pour 70K gold down the drain for a meager achievement](https://www.pcgamer.com/blizzard-dares-its-richest-world-of-warcraft-players-to-pour-70k-gold-down-the-drain-for-a-meager-achievement)
+ - [Conscientious Objector Jailed After Being Outed As PUBG Player](https://kotaku.com/pubg-battle-royale-south-korea-man-jailed-military-1851227546)
+ - [Honkai: Star Rail codes for February 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
