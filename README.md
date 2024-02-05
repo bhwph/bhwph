@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stop the Car!](http://9gag.com/gag/aDYE7j9)
- - 😝 [MusIims destroying satellite dishes because it\u2019s haram after sharia law being implemented\u203c\ufe0f\u203c\ufe0f](http://9gag.com/gag/aYV2OA7)
- - 👉 [Focus, Conan!](http://9gag.com/gag/ay2OqDM)<!-- MEMES:END -->
+ - 6️⃣ [We\u2019re not going to make it, are we?](http://9gag.com/gag/aVbNZQv)
+ - 😝 [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)
+ - 👉 [WTF](http://9gag.com/gag/aKErv66)<!-- MEMES:END -->
 
 --- 
 
