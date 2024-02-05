@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Listen to the difference between a 400lb American made anvil with a hardened steel face and a cast iron body, and a 550lb German anvil with a fully hardened steel body made in pieces then forged together](http://9gag.com/gag/aoKbVA3)
- - 😝 [I like pancakes](http://9gag.com/gag/a4oD69w)
+ - 6️⃣ [Stop the Car!](http://9gag.com/gag/aDYE7j9)
+ - 😝 [MusIims destroying satellite dishes because it\u2019s haram after sharia law being implemented\u203c\ufe0f\u203c\ufe0f](http://9gag.com/gag/aYV2OA7)
  - 👉 [Focus, Conan!](http://9gag.com/gag/ay2OqDM)<!-- MEMES:END -->
 
 --- 
