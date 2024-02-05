@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Person writes letter to man explaining what happened to his car &lpar;hit and run bus&rpar;](http://9gag.com/gag/aME3PrV)
- - 😝 [WTF](http://9gag.com/gag/aKErv66)
- - 👉 [Massage](http://9gag.com/gag/aDYEbzx)<!-- MEMES:END -->
+ - 6️⃣ [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)
+ - 😝 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
+ - 👉 [WTF](http://9gag.com/gag/aKErv66)<!-- MEMES:END -->
 
 --- 
 
