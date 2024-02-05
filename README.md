@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hellcard brings its chunky co-op deckbuilding to a full release](https://www.pcgamer.com/hellcard-brings-its-chunky-co-op-deckbuilding-to-a-full-release)
- - [A group of modders have spent 10 years honing a remake of StarCraft 1 and Brood War in StarCraft 2, complete with remastered cutscenes and custom unit models](https://www.pcgamer.com/a-group-of-modders-have-spent-10-years-honing-a-remake-of-starcraft-1-and-brood-war-in-starcraft-2-complete-with-remastered-cutscenes-and-custom-unit-models)
- - [If you liked Hazbin Hotel, here’s what you should watch next](https://www.polygon.com/what-to-watch/24055764/hazbin-hotel-shows-like-list-animated-comedy-tv)<!-- GAME:END -->
+ - [This browser-based &#39;endless crafting game&#39; starts you off with fire and water, but it quickly escalates to God, the Big Bang, and &#39;Yin-Yoda&#39;](https://www.pcgamer.com/this-browser-based-endless-crafting-game-starts-you-off-with-fire-and-water-but-it-quickly-escalates-to-god-the-big-bang-and-yin-yoda)
+ - [In Baldur&#39;s Gate 3, like so many RPGs, the mod to remove the party size limit is essential](https://www.pcgamer.com/in-baldurs-gate-3-like-so-many-rpgs-the-mod-to-remove-the-party-size-limit-is-essential)
+ - [The Inquisitor review](https://www.pcgamer.com/the-inquisitor-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
