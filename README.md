@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fellas , always start early](http://9gag.com/gag/abv9x28)
- - 😝 [WTF](http://9gag.com/gag/aKErv66)
- - 👉 [277](http://9gag.com/gag/a2KnDp1)<!-- MEMES:END -->
+ - 6️⃣ [MusIims destroying satellite dishes because it\u2019s haram after sharia law being implemented\u203c\ufe0f\u203c\ufe0f](http://9gag.com/gag/aYV2OA7)
+ - 😝 [277](http://9gag.com/gag/a2KnDp1)
+ - 👉 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)<!-- MEMES:END -->
 
 --- 
 
