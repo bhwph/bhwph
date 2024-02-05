@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU will force companies to give you an extra 12-month guarantee for repairs](https://www.androidauthority.com/europe-right-to-repair-legislation-12-months-3410699/)
- - [Tax Season 2024: The Essential Cheat Sheet to Filing Your Tax Return This Year     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-the-essential-cheat-sheet-to-filing-your-tax-return-this-year/#ftag=CAD590a51e)
- - [Tax Season 2024: What You Need to Know About All the Tax Filing Deadlines This Year     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-what-you-need-to-know-about-all-the-tax-filing-deadlines-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to factory reset the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-factory-reset-the-apple-vision-pro?utm_medium=rss)
+ - [Paris votes to crack down on SUVs](https://www.theverge.com/2024/2/5/24061970/suv-parking-charges-paris-air-pollution-road-safety)
+ - [Amazon strikes a deal with the UK&#39;s largest publisher Reach over obtaining customer data to target online advertising, as Google kills off third party cookies &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240205/p7#a240205p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
