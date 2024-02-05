@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple &#39;renaissance&#39; inbound after Vision Pro launch success](https://appleinsider.com/articles/24/02/04/apple-renaissance-inbound-after-vision-pro-launch-success?utm_medium=rss)
- - [How to get started using Optic ID for Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-get-started-using-optic-id-for-apple-vision-pro?utm_medium=rss)
- - [US police departments are using AI software from Chicago-based Truleo and other companies to analyze millions of hours of unreviewed body-cam footage &lpar;Umar Farooq/ProPublica&rpar;](http://www.techmeme.com/240204/p10#a240204p10)<!-- TECH:END -->
+ - [A look at UMG&#39;s TikTok retreat, stemming from issues like low payouts and a lack of assurances on fighting deepfakes, and TikTok&#39;s role in the music industry &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240204/p11#a240204p11)
+ - [MacBook Air, MacBook Pro, iMac, Mac Studio: top Mac rumors &amp; 2024 timeline](https://appleinsider.com/articles/24/02/05/macbook-air-macbook-pro-imac-mac-studio-top-mac-rumors-2024-timeline?utm_medium=rss)
+ - [Save up to $1,800 on Sonos speakers &amp; TVs ahead of Super Bowl Sunday](https://appleinsider.com/articles/24/02/04/save-up-to-1800-on-sonos-speakers-tvs-ahead-of-super-bowl-sunday?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
