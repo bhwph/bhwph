@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to factory reset the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-factory-reset-the-apple-vision-pro?utm_medium=rss)
- - [Paris votes to crack down on SUVs](https://www.theverge.com/2024/2/5/24061970/suv-parking-charges-paris-air-pollution-road-safety)
- - [Amazon strikes a deal with the UK&#39;s largest publisher Reach over obtaining customer data to target online advertising, as Google kills off third party cookies &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240205/p7#a240205p7)<!-- TECH:END -->
+ - [Thoma Bravo takes critical event management software company Everbridge private in a $1.5B all-cash deal; Everbridge had a market cap of $6.4B in 2021 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240205/p12#a240205p12)
+ - [Samsung exec says you’ll have to wait a while for Galaxy Ring launch](https://www.androidauthority.com/samsung-exec-galaxy-ring-launch-window-3410795/)
+ - [14 Best Android Phones &lpar;2024&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
