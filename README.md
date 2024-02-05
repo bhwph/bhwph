@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Modern Warfare III Is Getting A Bunch Of New Maps And Guns In Season Two](https://kotaku.com/call-of-duty-mw3-season-two-maps-guns-1851226082)
- - [Apex Legends Is One Of The Few Games Doing Ranked Right](https://kotaku.com/apex-legends-ranked-season-20-changes-rp-lp-mmr-trials-1851225999)
- - [RIP To The Best Part Of Persona 3’s UI](https://kotaku.com/persona-3-reload-ui-loses-the-originals-best-feature-1851225937)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Beta &lpar;2402.240201-2000&rpar;](https://news.xbox.com/en-us/2024/02/05/xbox-insider-release-notes-beta-2402-240201-2000/)
+ - [Tracy Chapman’s ‘Fast Car’ Grammys performance is what awards shows are made for](https://www.polygon.com/24062412/tracy-chapmans-fast-car-grammys)
+ - [Xbox Insider Release Notes – Alpha &lpar;2403.240131-2200&rpar;](https://news.xbox.com/en-us/2024/02/05/xbox-insider-release-notes-alpha-2403-240131-2200/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
