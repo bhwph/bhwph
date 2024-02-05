@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We\u2019re not going to make it, are we?](http://9gag.com/gag/aVbNZQv)
- - 😝 [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)
- - 👉 [WTF](http://9gag.com/gag/aKErv66)<!-- MEMES:END -->
+ - 6️⃣ [I like pancakes](http://9gag.com/gag/a4oD69w)
+ - 😝 [We\u2019re not going to make it, are we?](http://9gag.com/gag/aVbNZQv)
+ - 👉 [Trains in India have become mosques where everyone cannot walk freely because these people want to pray. Why is this becoming more and more intense happening worldwide?!!!](http://9gag.com/gag/aVbNo08)<!-- MEMES:END -->
 
 --- 
 
