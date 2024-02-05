@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thoma Bravo takes critical event management software company Everbridge private in a $1.5B all-cash deal; Everbridge had a market cap of $6.4B in 2021 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240205/p12#a240205p12)
- - [Samsung exec says you’ll have to wait a while for Galaxy Ring launch](https://www.androidauthority.com/samsung-exec-galaxy-ring-launch-window-3410795/)
- - [14 Best Android Phones &lpar;2024&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)<!-- TECH:END -->
+ - [Hertz will stop buying EVs from Polestar, too](https://www.theverge.com/2024/2/5/24062128/hertz-pause-polestar-buy-ev-rental-car-fleet-resale)
+ - [Last week&#39;s earnings showed signs of an ad market turnaround, with Meta&#39;s ad sales up 24% YoY, Amazon&#39;s ad business growing 27%, and Google&#39;s ad business up 11% &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240205/p17#a240205p17)
+ - [Daily deals: AirPods $89, M2 Mac mini $499, Apple Pencil $69, $180 off Sonos Arc Soundbar, more](https://appleinsider.com/articles/24/02/05/daily-deals-airpods-89-m2-mac-mini-499-apple-pencil-69-180-off-sonos-arc-soundbar-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
