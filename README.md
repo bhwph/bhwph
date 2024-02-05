@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hertz will stop buying EVs from Polestar, too](https://www.theverge.com/2024/2/5/24062128/hertz-pause-polestar-buy-ev-rental-car-fleet-resale)
- - [Last week&#39;s earnings showed signs of an ad market turnaround, with Meta&#39;s ad sales up 24% YoY, Amazon&#39;s ad business growing 27%, and Google&#39;s ad business up 11% &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240205/p17#a240205p17)
- - [Daily deals: AirPods $89, M2 Mac mini $499, Apple Pencil $69, $180 off Sonos Arc Soundbar, more](https://appleinsider.com/articles/24/02/05/daily-deals-airpods-89-m2-mac-mini-499-apple-pencil-69-180-off-sonos-arc-soundbar-more?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok’s fallout with Universal Music Group is ruining viral trends and thirsty fancams](https://www.theverge.com/2024/2/5/24062260/tiktok-universal-music-group-audio-removal-ruining-viral-trends-thirst-edits)
+ - [Amazon’s kitchen-friendly Echo Show 15 is going for $80 off right now](https://www.theverge.com/2024/2/5/24062002/amazon-echo-show-15-fujifilm-instax-mini-12-echo-buds-dualsense-deal-sale)
+ - [Semafor reporters are going to curate the news with AI](https://www.theverge.com/2024/2/5/24062229/semafor-signals-miso-ai-microsoft)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
