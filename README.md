@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Radeon graphics cards maybe aren&#39;t as popular as AMD might like us to think they are, at least according to the Steam HW Survey](https://www.pcgamer.com/radeon-graphics-cards-maybe-arent-as-popular-as-amd-might-like-us-to-think-they-are-at-least-according-to-the-steam-hw-survey)
- - [Until Then unpacks the trauma of loss in this narrative adventure](https://blog.playstation.com/2024/02/05/until-then-unpacks-the-trauma-of-loss-in-this-narrative-adventure/)
- - [We preview Fallout: Factions, from the designer of Necromunda](https://www.polygon.com/tabletop-games/24057441/fallout-factions-nuka-world-preview-release-date-price)<!-- GAME:END -->
+ - [Everything You Need To Know About Honkai: Star Rail Version 2.0](https://kotaku.com/honkai-star-rail-2-0-release-date-banners-penacony-1851225431)
+ - [Financial worker attends company meeting with AI deepfakes of senior &#39;colleagues&#39; and is duped into transferring the scammers $26 million](https://www.pcgamer.com/financial-worker-attends-company-meeting-with-ai-deepfakes-of-senior-colleagues-and-is-duped-into-transferring-the-scammers-dollar26-million)
+ - [Apex Legends is making its biggest change since launch: an upgrade tree for every legend that adds 120 new variables to every match](https://www.pcgamer.com/apex-legends-upgrades-season-20)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
