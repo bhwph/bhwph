@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
- - 😝 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)
- - 👉 [Incoming triggered people from West Taiwan](http://9gag.com/gag/a2KnbD1)<!-- MEMES:END -->
+ - 6️⃣ [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
+ - 😝 [277](http://9gag.com/gag/a2KnDp1)
+ - 👉 [You know what...](http://9gag.com/gag/a5X8jVg)<!-- MEMES:END -->
 
 --- 
 
