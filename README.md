@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MLB The Show 24 showcases Negro Leagues Collector’s Edition](https://blog.playstation.com/2024/02/06/mlb-the-show-24-showcases-negro-leagues-collectors-edition/)
- - [Coming to Xbox Game Pass: Madden NFL 24, Tales of Arise, PlateUp!, and More](https://news.xbox.com/en-us/2024/02/06/game-pass-update-for-february-2024/)
- - [Let Master Chief himself explain to you why Halo season 2 is better than season 1](https://www.polygon.com/24062605/halo-season-2-pablo-schreiber-interview-master-chief-helmet)<!-- GAME:END -->
+ - [Helldivers 2 story recap, plus free post-launch story updates confirmed](https://blog.playstation.com/2024/02/06/helldivers-2-story-recap-plus-free-post-launch-story-updates-confirmed/)
+ - [Madden Super Week Returns with New Field the Future Event, Madden NFL 24 Arriving with Game Pass, and More](https://news.xbox.com/en-us/2024/02/06/madden-super-week-returns-with-madden-24-with-game-pass/)
+ - [Legend in the Mist has a wild new ruleset where words are more powerful than numbers](https://www.polygon.com/tabletop-games/24059209/legend-in-the-mist-preview-ttrpg-kickstarter-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
