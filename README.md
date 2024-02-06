@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple drops second developer beta of iOS 17.4, iPadOS 17.4](https://appleinsider.com/articles/24/02/06/apple-drops-second-developer-beta-of-ios-174-ipados-174?utm_medium=rss)
- - [Second macOS Sonoma 14.4 developer beta has arrived](https://appleinsider.com/articles/24/02/06/second-macos-sonoma-144-developer-beta-has-arrived?utm_medium=rss)
- - [Polyamory Has Entered the Chat](https://www.wired.com/story/polyamory-popularity-dating-apps/)<!-- TECH:END -->
+ - [Apple issues second watchOS 10.4, tvOS 17.4, macOS 14.4 developer betas](https://appleinsider.com/articles/24/02/06/apple-issues-second-watchos-104-developer-beta?utm_medium=rss)
+ - [The Netherlands says Chinese state-sponsored hackers broke into the Dutch Ministry of Defence&#39;s internal network in 2023, using a Fortinet vulnerability &lpar;Reuters&rpar;](http://www.techmeme.com/240206/p29#a240206p29)
+ - [Apple’s first Vision Pro beta lets you bring virtual items closer](https://www.theverge.com/2024/2/6/24063746/apple-vision-pro-first-beta-1-1-device-management)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
