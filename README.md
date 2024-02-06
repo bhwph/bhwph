@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fun project](http://9gag.com/gag/amAE65v)
- - 😝 [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)
- - 👉 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)<!-- MEMES:END -->
+ - 6️⃣ [Incoming triggered people from West Taiwan](http://9gag.com/gag/a2KnbD1)
+ - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
+ - 👉 [They had a heated exchange](http://9gag.com/gag/aqeqW1L)<!-- MEMES:END -->
 
 --- 
 
