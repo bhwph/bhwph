@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Fun project](http://9gag.com/gag/amAE65v)
- - 😝 [You know what...](http://9gag.com/gag/a5X8jVg)
- - 👉 [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)<!-- MEMES:END -->
+ - 😝 [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)
+ - 👉 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)<!-- MEMES:END -->
 
 --- 
 
