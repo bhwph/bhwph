@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That is a good door](http://9gag.com/gag/aBd74ZN)
- - 😝 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)
- - 👉 [Word](http://9gag.com/gag/aEqLW59)<!-- MEMES:END -->
+ - 6️⃣ [They bought a 200 year old house ..](http://9gag.com/gag/ay2OY6X)
+ - 😝 [Feel old yet?](http://9gag.com/gag/aGEWOLz)
+ - 👉 [This man knew the evil he was doing](http://9gag.com/gag/aQE0Ob2)<!-- MEMES:END -->
 
 --- 
 
