@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Birb !!!](http://9gag.com/gag/aBd7OzZ)
- - 😝 [Around blacks never relax](http://9gag.com/gag/aVbNVmd)
- - 👉 [Teach your children to switch gears, not the genders](http://9gag.com/gag/aL1yWgM)<!-- MEMES:END -->
+ - 6️⃣ [That is a good door](http://9gag.com/gag/aBd74ZN)
+ - 😝 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)
+ - 👉 [Word](http://9gag.com/gag/aEqLW59)<!-- MEMES:END -->
 
 --- 
 
