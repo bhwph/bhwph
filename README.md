@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Solana suffers a major outage, lasting for over two hours, and says validators should prepare for a network restart, the first big outage since February 2023 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240206/p11#a240206p11)
- - [RFK Jr and the Golden Bachelor Used the Same Stylist, FEC Filings Show](https://www.wired.com/story/rfk-jr-golden-bachelor-stylist/)
- - [China to get Apple Vision Pro by May at latest](https://appleinsider.com/articles/24/02/06/china-to-get-apple-vision-pro-by-may-at-latest?utm_medium=rss)<!-- TECH:END -->
+ - [Now the US government is demanding users not wear Apple Vision Pro while driving](https://appleinsider.com/articles/24/02/06/now-the-us-government-is-demanding-users-not-wear-apple-vision-pro-while-driving?utm_medium=rss)
+ - [SMIC reports unaudited Q4 revenue rose 3.5% YoY to $1.68B, below est., and $902.5M net income, down from $1.82B YoY; 2023 capex was up 17.6% YoY to $7.47B &lpar;Reuters&rpar;](http://www.techmeme.com/240206/p15#a240206p15)
+ - [Nubia Z60 Ultra Review: Bigger Isn&#39;t Always Better](https://www.wired.com/review/nubia-z60-ultra-phone/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
