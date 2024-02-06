@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Viral clip of Tesla driver wearing Apple Vision Pro leads US gov to remind everyone &#39;self-driving&#39; cars don&#39;t mean you can take your eyes off the road](https://www.pcgamer.com/viral-clip-of-tesla-driver-wearing-apple-vision-pro-leads-us-gov-to-remind-everyone-self-driving-cars-dont-mean-you-can-take-your-eyes-off-the-road)
- - [Turtle Beach Stealth Ultra review](https://www.pcgamer.com/turtle-beach-stealth-ultra-controller-review)
- - [PS5 beta adds DualSense controller sound enhancements and Share Screen interactions](https://blog.playstation.com/2024/02/06/ps5-beta-adds-dualsense-controller-sound-enhancements-and-share-screen-interactions/)<!-- GAME:END -->
+ - [MLB The Show 24 showcases Negro Leagues Collector’s Edition](https://blog.playstation.com/2024/02/06/mlb-the-show-24-showcases-negro-leagues-collectors-edition/)
+ - [Coming to Xbox Game Pass: Madden NFL 24, Tales of Arise, PlateUp!, and More](https://news.xbox.com/en-us/2024/02/06/game-pass-update-for-february-2024/)
+ - [Let Master Chief himself explain to you why Halo season 2 is better than season 1](https://www.polygon.com/24062605/halo-season-2-pablo-schreiber-interview-master-chief-helmet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
