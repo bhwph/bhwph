@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alisa – Developer’s Cut Brings Us to the Dollhouse](https://news.xbox.com/en-us/2024/02/06/alisa-developers-cut-on-xbox/)
- - [The old best Hitman game is the best new Hitman game but not the new best Hitman game](https://www.polygon.com/24059155/hitman-blood-money-reprisal-ios-android-nintendo-switch-review)
- - [Synergy has shot straight to the top of my most anticipated survival city builders list thanks to its Next Fest demo](https://www.pcgamer.com/synergy-has-shot-straight-to-the-top-of-my-most-anticipated-survival-city-builders-list-thanks-to-its-next-fest-demo)<!-- GAME:END -->
+ - [Persona 3 Reload guide: Classroom answers and questions](https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r)
+ - [Brainiac himself seemingly leaks a future Suicide Squad playable character](https://www.pcgamer.com/brainiac-himself-seemingly-leaks-a-future-suicide-squad-playable-character)
+ - [The Church Of Xbox Is Going Through Its Own Armageddon](https://kotaku.com/xbox-fans-content-creators-ps5-ports-starfield-rumors-1851230962)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
