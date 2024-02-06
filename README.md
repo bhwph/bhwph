@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now the US government is demanding users not wear Apple Vision Pro while driving](https://appleinsider.com/articles/24/02/06/now-the-us-government-is-demanding-users-not-wear-apple-vision-pro-while-driving?utm_medium=rss)
- - [SMIC reports unaudited Q4 revenue rose 3.5% YoY to $1.68B, below est., and $902.5M net income, down from $1.82B YoY; 2023 capex was up 17.6% YoY to $7.47B &lpar;Reuters&rpar;](http://www.techmeme.com/240206/p15#a240206p15)
- - [Nubia Z60 Ultra Review: Bigger Isn&#39;t Always Better](https://www.wired.com/review/nubia-z60-ultra-phone/)<!-- TECH:END -->
+ - [Level up to the Logitech G435 Lightspeed at rare 56% discount](https://www.androidauthority.com/logitech-g435-lightspeed-deal-3411289/)
+ - [You can score a rare discount on Apple’s AirTags](https://www.theverge.com/2024/2/6/24062093/apple-airtag-google-pixel-7a-blink-video-doorbell-fitbit-inspire-3-deal-sale)
+ - [Suicide Squad hides its brash personality under a generic looter shooter](https://www.theverge.com/24062243/suicide-squad-kill-the-justice-league-review-ps5-xbox-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
