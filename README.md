@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Royal Pain...](http://9gag.com/gag/a6qApEm)
- - 😝 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
- - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
+ - 6️⃣ [Fun project](http://9gag.com/gag/amAE65v)
+ - 😝 [You know what...](http://9gag.com/gag/a5X8jVg)
+ - 👉 [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)<!-- MEMES:END -->
 
 --- 
 
