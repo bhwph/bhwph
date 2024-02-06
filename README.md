@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
- - 😝 [277](http://9gag.com/gag/a2KnDp1)
- - 👉 [You know what...](http://9gag.com/gag/a5X8jVg)<!-- MEMES:END -->
+ - 6️⃣ [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
+ - 😝 [Feel old yet?](http://9gag.com/gag/aGEWOLz)
+ - 👉 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)<!-- MEMES:END -->
 
 --- 
 
