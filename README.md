@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Level up to the Logitech G435 Lightspeed at rare 56% discount](https://www.androidauthority.com/logitech-g435-lightspeed-deal-3411289/)
- - [You can score a rare discount on Apple’s AirTags](https://www.theverge.com/2024/2/6/24062093/apple-airtag-google-pixel-7a-blink-video-doorbell-fitbit-inspire-3-deal-sale)
- - [Suicide Squad hides its brash personality under a generic looter shooter](https://www.theverge.com/24062243/suicide-squad-kill-the-justice-league-review-ps5-xbox-pc)<!-- TECH:END -->
+ - [Apple drops second developer beta of iOS 17.4, iPadOS 17.4](https://appleinsider.com/articles/24/02/06/apple-drops-second-developer-beta-of-ios-174-ipados-174?utm_medium=rss)
+ - [Second macOS Sonoma 14.4 developer beta has arrived](https://appleinsider.com/articles/24/02/06/second-macos-sonoma-144-developer-beta-has-arrived?utm_medium=rss)
+ - [Polyamory Has Entered the Chat](https://www.wired.com/story/polyamory-popularity-dating-apps/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
