@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 story recap, plus free post-launch story updates confirmed](https://blog.playstation.com/2024/02/06/helldivers-2-story-recap-plus-free-post-launch-story-updates-confirmed/)
- - [Madden Super Week Returns with New Field the Future Event, Madden NFL 24 Arriving with Game Pass, and More](https://news.xbox.com/en-us/2024/02/06/madden-super-week-returns-with-madden-24-with-game-pass/)
- - [Legend in the Mist has a wild new ruleset where words are more powerful than numbers](https://www.polygon.com/tabletop-games/24059209/legend-in-the-mist-preview-ttrpg-kickstarter-release-date-price)<!-- GAME:END -->
+ - [Alisa – Developer’s Cut Brings Us to the Dollhouse](https://news.xbox.com/en-us/2024/02/06/alisa-developers-cut-on-xbox/)
+ - [The old best Hitman game is the best new Hitman game but not the new best Hitman game](https://www.polygon.com/24059155/hitman-blood-money-reprisal-ios-android-nintendo-switch-review)
+ - [Synergy has shot straight to the top of my most anticipated survival city builders list thanks to its Next Fest demo](https://www.pcgamer.com/synergy-has-shot-straight-to-the-top-of-my-most-anticipated-survival-city-builders-list-thanks-to-its-next-fest-demo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
