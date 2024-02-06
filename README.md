@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fellas , always start early](http://9gag.com/gag/abv9x28)
- - 😝 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 👉 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)<!-- MEMES:END -->
+ - 6️⃣ [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
+ - 😝 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)
+ - 👉 [Incoming triggered people from West Taiwan](http://9gag.com/gag/a2KnbD1)<!-- MEMES:END -->
 
 --- 
 
