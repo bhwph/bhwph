@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard dares its richest World of Warcraft players to pour 70K gold down the drain for a meager achievement](https://www.pcgamer.com/blizzard-dares-its-richest-world-of-warcraft-players-to-pour-70k-gold-down-the-drain-for-a-meager-achievement)
- - [Conscientious Objector Jailed After Being Outed As PUBG Player](https://kotaku.com/pubg-battle-royale-south-korea-man-jailed-military-1851227546)
- - [Honkai: Star Rail codes for February 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
+ - [This Townscaper-like building game on &#39;the dark side of cozy&#39; is the perfect lock screen photo designer](https://www.pcgamer.com/this-townscaper-like-building-game-on-the-dark-side-of-cozy-is-the-perfect-lock-screen-photo-designer)
+ - [It sounds like Halo Season 2 still hasn&#39;t nailed how to turn Halo into a great TV show](https://www.pcgamer.com/it-sounds-like-halo-season-2-still-hasnt-nailed-how-to-turn-halo-into-a-great-tv-show)
+ - [Magic Mike’s Last Dance coming to Netflix makes it easy to watch its one great scene](https://www.polygon.com/23747222/magic-mike-last-dance-best-scene-channing-tatum-salma-hayek-pinault)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
