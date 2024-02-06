@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elden Ring mobile game reportedly under development at Tencent](https://www.theverge.com/2024/2/6/24063163/tencent-elden-ring-free-to-play-mobile-title)
- - [This Windows tool makes it super easy to debloat and cut down ads on your Android TV](https://www.androidauthority.com/android-tv-tools-windows-tool-3411045/)
- - [Sony’s latest PS5 beta improves DualSense controller audio and screen sharing](https://www.theverge.com/2024/2/6/24063160/sony-ps5-beta-update-dual-sense-controller-speaker-microphone-screen-sharing)<!-- TECH:END -->
+ - [Solana suffers a major outage, lasting for over two hours, and says validators should prepare for a network restart, the first big outage since February 2023 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240206/p11#a240206p11)
+ - [RFK Jr and the Golden Bachelor Used the Same Stylist, FEC Filings Show](https://www.wired.com/story/rfk-jr-golden-bachelor-stylist/)
+ - [China to get Apple Vision Pro by May at latest](https://appleinsider.com/articles/24/02/06/china-to-get-apple-vision-pro-by-may-at-latest?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
