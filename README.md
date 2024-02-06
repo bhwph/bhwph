@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 3 Reload guide: Classroom answers and questions](https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r)
- - [Brainiac himself seemingly leaks a future Suicide Squad playable character](https://www.pcgamer.com/brainiac-himself-seemingly-leaks-a-future-suicide-squad-playable-character)
- - [The Church Of Xbox Is Going Through Its Own Armageddon](https://kotaku.com/xbox-fans-content-creators-ps5-ports-starfield-rumors-1851230962)<!-- GAME:END -->
+ - [Crusader Kings 3’s third chapter of DLC is all about prestige and plagues](https://www.polygon.com/24063971/crusader-kings-3-chapter-three-dlc-black-plague-byzantine-empire)
+ - [Persona 3 Reload social link answers and unlock requirements](https://www.polygon.com/guides/24063889/persona-3-reload-social-link-answers-links-dialogue-p3r-unlock)
+ - [Modders resurrect forgotten first-party PlayStation RPG with a PC port that&#39;s already better than the original and promise 4K and 60FPS &#39;in the next few months&#39;](https://www.pcgamer.com/modders-resurrect-forgotten-first-party-playstation-rpg-with-a-pc-port-thats-already-better-than-the-original-and-promise-4k-and-60fps-in-the-next-few-months)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
