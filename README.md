@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
- - 😝 [Practice makes perfect!](http://9gag.com/gag/anzLEO0)
- - 👉 [Have a great Monday community.](http://9gag.com/gag/anzLxxB)<!-- MEMES:END -->
+ - 6️⃣ [Royal Pain...](http://9gag.com/gag/a6qApEm)
+ - 😝 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
+ - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
 
 --- 
 
