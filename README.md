@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues second watchOS 10.4, tvOS 17.4, macOS 14.4 developer betas](https://appleinsider.com/articles/24/02/06/apple-issues-second-watchos-104-developer-beta?utm_medium=rss)
- - [The Netherlands says Chinese state-sponsored hackers broke into the Dutch Ministry of Defence&#39;s internal network in 2023, using a Fortinet vulnerability &lpar;Reuters&rpar;](http://www.techmeme.com/240206/p29#a240206p29)
- - [Apple’s first Vision Pro beta lets you bring virtual items closer](https://www.theverge.com/2024/2/6/24063746/apple-vision-pro-first-beta-1-1-device-management)<!-- TECH:END -->
+ - [The Public Interest Registry will give domain registries free access to tools from the Internet Watch Foundation to crack down on the spread of CSAM &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240206/p32#a240206p32)
+ - [Fox, ESPN, and Warner Bros. Discovery are creating a joint streaming platform to share sports assets; sources: it will be available to ESPN+, Hulu and Max subs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240206/p31#a240206p31)
+ - [Elon Musk is backing Mandalorian actor’s suit against Disney](https://www.theverge.com/2024/2/6/24063897/gina-carano-disney-lawsuit-mandalorian-elon-musk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
