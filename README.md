@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
- - 😝 [Feel old yet?](http://9gag.com/gag/aGEWOLz)
- - 👉 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)<!-- MEMES:END -->
+ - 6️⃣ [Feel old yet?](http://9gag.com/gag/aGEWOLz)
+ - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
+ - 👉 [Elisa Meneghini doing some stretching](http://9gag.com/gag/amAEmbd)<!-- MEMES:END -->
 
 --- 
 
