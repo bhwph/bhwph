@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Incoming triggered people from West Taiwan](http://9gag.com/gag/a2KnbD1)
- - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
- - 👉 [They had a heated exchange](http://9gag.com/gag/aqeqW1L)<!-- MEMES:END -->
+ - 6️⃣ [Fellas , always start early](http://9gag.com/gag/abv9x28)
+ - 😝 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
+ - 👉 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)<!-- MEMES:END -->
 
 --- 
 
