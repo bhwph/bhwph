@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Colossyan, which uses generative AI and virtual avatars to create corporate training videos, raised a $22M Series A led by Lakestar &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240206/p40#a240206p40)
- - [OpenAI says DALL-E 3 will embed watermarks to images with C2PA metadata and acknowledges the metadata can easily be removed either accidentally or intentionally &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240206/p39#a240206p39)
- - [Best iPhone 14 Fast Chargers at the Lowest Prices We Can Find     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-usb-c-fast-charger/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Shein approached the CAC and China Securities Regulatory Commission to get their blessing for a US IPO, despite not formally requiring their approval &lpar;Financial Times&rpar;](http://www.techmeme.com/240207/p1#a240207p1)
+ - [The Xiaomi 14 series will launch globally soon, but is the 14 Ultra coming too?](https://www.androidauthority.com/xiaomi-14-series-global-launch-date-confirmed-3411060/)
+ - [Samsung reveals list of Galaxy AI features coming to older phones](https://www.androidauthority.com/samsung-galaxy-ai-features-older-phones-3411524/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
