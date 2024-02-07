@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Sudanese Paramilitary Group Accused of Ethnic Cleansing Is Still Tweeting Through It](https://www.wired.com/story/sudan-rsf-x-twitter/)
- - [These States Are Basically Begging You to Get a Heat Pump](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
- - [Nine states, including California and New York, sign heat pump agreement to clean up air pollution](https://www.theverge.com/2024/2/7/24063751/heat-pump-mou-nine-states-california-new-york)<!-- TECH:END -->
+ - [Apple partners with University of California researchers to release open-source AI model MGIE, which can edit images based on natural language instructions &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240207/p12#a240207p12)
+ - [Uber reports Q4 revenue up 15% YoY to $9.9B, Gross Bookings up 22% YoY to $37.6B, a $1.9B net income, 150M MAUs, and first full-year operating profit of $1.1B &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240207/p11#a240207p11)
+ - [Asus and MSI OLED monitor warranties now cover burn-in](https://www.theverge.com/2024/2/7/24064465/asus-rog-msi-oled-monitor-warranty-burn-in-cover-expanded)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
