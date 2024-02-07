@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Fold 2 rumors: Everything we know and what we want to see](https://www.androidauthority.com/google-pixel-fold-2-3385460/)
- - [Microsoft updates Copilot with a redesigned look and new image creation and editing features, along with Deucalion, a new AI model for Copilot&#39;s Balanced mode &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240207/p24#a240207p24)
- - [Exclusive: This could be the Google Pixel Fold 2](https://www.androidauthority.com/pixel-fold-2-first-look-3411380/)<!-- TECH:END -->
+ - [ASUS Zenfone 11 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/asus-zenfone-11-2-3387354/)
+ - [iTunes&#39; days are numbered on Windows 10](https://appleinsider.com/articles/24/02/07/itunes-days-are-numbered-on-windows-10?utm_medium=rss)
+ - [Mechanical Orchard, which helps companies migrate systems from mainframes to the cloud, raised a $24M Series A led by Emergence Capital at a $95M valuation &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240207/p26#a240207p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
