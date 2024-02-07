@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 😝 [Friend just posted this and was utterly serious](http://9gag.com/gag/aZDG2G9)
- - 👉 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)<!-- MEMES:END -->
+ - 6️⃣ [Is it a legal move?](http://9gag.com/gag/a5X8j4o)
+ - 😝 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
+ - 👉 [Title is important](http://9gag.com/gag/abv9RLE)<!-- MEMES:END -->
 
 --- 
 
