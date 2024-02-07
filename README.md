@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Public Interest Registry will give domain registries free access to tools from the Internet Watch Foundation to crack down on the spread of CSAM &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240206/p32#a240206p32)
- - [Fox, ESPN, and Warner Bros. Discovery are creating a joint streaming platform to share sports assets; sources: it will be available to ESPN+, Hulu and Max subs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240206/p31#a240206p31)
- - [Elon Musk is backing Mandalorian actor’s suit against Disney](https://www.theverge.com/2024/2/6/24063897/gina-carano-disney-lawsuit-mandalorian-elon-musk)<!-- TECH:END -->
+ - [A Study at the Center of the Abortion Pill Battle Was Just Retracted](https://www.wired.com/story/abortion-pill-study-retracted/)
+ - [Apple beats antitrust lawsuit from AliveCor](https://appleinsider.com/articles/24/02/07/apple-beats-antitrust-lawsuit-from-alivecor?utm_medium=rss)
+ - [Watch 11 minutes of Final Fantasy VII Rebirth gameplay features — and the final trailer](https://www.theverge.com/2024/2/6/24064121/final-fantasy-vii-rebirth-final-trailer-gameplay-video)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
