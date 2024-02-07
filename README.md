@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I’m Convinced FF7 Rebirth Is A Sequel To The 1997 Original](https://kotaku.com/final-fantasy-7-rebirth-state-of-play-trailer-aerith-1851234741)
- - [A wargame experiment pitting AI chatbots against each other ended exactly how you&#39;d expect](https://www.pcgamer.com/a-wargame-experiment-pitting-ai-chatbots-against-each-other-ended-exactly-how-youd-expect)
- - [Paralives will enter early access in 2025 and will never have paid DLCs, only free expansions](https://www.pcgamer.com/paralives-will-enter-early-access-in-2025-and-will-never-have-paid-dlcs-only-free-expansions)<!-- GAME:END -->
+ - [Celebrate The Premiere of Halo Season 2 on Paramount+ with Xbox Game Pass Ultimate](https://news.xbox.com/en-us/2024/02/07/halo-season-2-paramount-plus/)
+ - [You can buy A24’s Stop Making Sense restoration on 4K, and nothing is better than that](https://www.polygon.com/24064113/a24-stop-making-sense-4k-dvd-how-where-buy)
+ - [There’s only one new Avatar: The Last Airbender series I want](https://www.polygon.com/24063531/avatar-last-airbender-show-uncle-iroh-origin-past)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
