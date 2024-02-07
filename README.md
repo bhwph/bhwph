@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic 3 Movie Is Bringing Back An All-Time Sonic Adventure 2 Banger](https://kotaku.com/sonic-the-hedgehog-3-movie-live-and-learn-crush-40-song-1851236128)
- - [Capcom Is Curious If Y&#39;all Want More Dino Crisis](https://kotaku.com/capcom-survey-dino-crisis-sequel-remake-onimusha-okami-1851235768)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240204-2200&rpar;](https://news.xbox.com/en-us/2024/02/07/xbox-insider-release-notes-alpha-skip-ahead-2408-240204-2200/)<!-- GAME:END -->
+ - [Disney Will Develop A &#39;New Persistent Universe&#39; With Epic Games](https://kotaku.com/disney-epic-games-15-billion-fortnite-1851236865)
+ - [The Moana TV show has been reworked into a movie, coming this year](https://www.polygon.com/24065414/moana-2-teaser-trailer-announcement)
+ - [GameStop Ad Promoting &#39;Microsoft&#39; Game Pass Leads To More Xbox Chaos](https://kotaku.com/xbox-microsoft-game-pass-gamestop-ad-twitter-demo-days-1851236742)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
