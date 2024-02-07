@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
- - 😝 [Windows God Mode](http://9gag.com/gag/aqeqY1M)
- - 👉 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)<!-- MEMES:END -->
+ - 6️⃣ [Rage comic and traditional ending.](http://9gag.com/gag/a042wLq)
+ - 😝 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
+ - 👉 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)<!-- MEMES:END -->
 
 --- 
 
