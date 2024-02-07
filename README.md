@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is it a legal move?](http://9gag.com/gag/a5X8j4o)
- - 😝 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 👉 [Title is important](http://9gag.com/gag/abv9RLE)<!-- MEMES:END -->
+ - 6️⃣ [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
+ - 😝 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
+ - 👉 [Is it a legal move?](http://9gag.com/gag/a5X8j4o)<!-- MEMES:END -->
 
 --- 
 
