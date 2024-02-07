@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Machine learning means we can read a 2,000-year-old carbonized scroll buried by Mount Vesuvius and turns out it&#39;s all about the pleasures of stuffing your face](https://www.pcgamer.com/machine-learning-means-we-can-read-a-2000-year-old-carbonized-scroll-buried-by-mount-vesuvius-and-turns-out-its-all-about-the-pleasures-of-stuffing-your-face)
- - [Final Fantasy 7 Rebirth demo released on PS5](https://www.polygon.com/24063550/final-fantasy-7-rebirth-demo)
- - [Today&#39;s Wordle answer for Wednesday, February 7](https://www.pcgamer.com/wordle-today-answer-february-7-2024)<!-- GAME:END -->
+ - [Opera buys its own Nvidia H100 mini-supercomputer, just so you can have a spot of AI in a web browser](https://www.pcgamer.com/opera-buys-its-own-nvidia-h100-mini-supercomputer-just-so-you-can-have-a-spot-of-ai-in-a-web-browser)
+ - [World of Tanks Modern Armor celebrates its 10th anniversary with new tanks, challenges, and more](https://blog.playstation.com/2024/02/07/world-of-tanks-modern-armor-celebrates-its-10th-anniversary-with-new-tanks-challenges-and-more/)
+ - [Celebrating 10 Years of World of Tanks on Xbox](https://news.xbox.com/en-us/2024/02/07/world-of-tanks-xbox-10-years/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
