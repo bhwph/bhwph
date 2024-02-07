@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, February 7](https://www.pcgamer.com/wordle-today-answer-february-7-2024)
- - [WWE 2K24 will include casket matches, ambulance matches, special guest referees, and apparently Muhammad Ali](https://www.pcgamer.com/wwe-2k24-will-include-casket-matches-ambulance-matches-special-guest-referees-and-apparently-muhammad-ali)
- - [Whip it Good! Breaking Down Weapons Included in Wo Long: Fallen Dynasty Complete Edition](https://news.xbox.com/en-us/2024/02/06/brand-new-weapons-in-wo-long-fallen-dynasty-complete-edition/)<!-- GAME:END -->
+ - [Machine learning means we can read a 2,000-year-old carbonized scroll buried by Mount Vesuvius and turns out it&#39;s all about the pleasures of stuffing your face](https://www.pcgamer.com/machine-learning-means-we-can-read-a-2000-year-old-carbonized-scroll-buried-by-mount-vesuvius-and-turns-out-its-all-about-the-pleasures-of-stuffing-your-face)
+ - [Final Fantasy 7 Rebirth demo released on PS5](https://www.polygon.com/24063550/final-fantasy-7-rebirth-demo)
+ - [Today&#39;s Wordle answer for Wednesday, February 7](https://www.pcgamer.com/wordle-today-answer-february-7-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
