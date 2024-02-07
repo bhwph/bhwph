@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They bought a 200 year old house ..](http://9gag.com/gag/ay2OY6X)
- - 😝 [Feel old yet?](http://9gag.com/gag/aGEWOLz)
- - 👉 [This man knew the evil he was doing](http://9gag.com/gag/aQE0Ob2)<!-- MEMES:END -->
+ - 6️⃣ [This man knew the evil he was doing](http://9gag.com/gag/aQE0Ob2)
+ - 😝 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
+ - 👉 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)<!-- MEMES:END -->
 
 --- 
 
