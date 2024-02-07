@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
- - 😝 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
- - 👉 [Is it a legal move?](http://9gag.com/gag/a5X8j4o)<!-- MEMES:END -->
+ - 6️⃣ [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
+ - 😝 [Friend just posted this and was utterly serious](http://9gag.com/gag/aZDG2G9)
+ - 👉 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)<!-- MEMES:END -->
 
 --- 
 
