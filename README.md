@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia Blackwell: What we expect and what we want to see from Nvidia&#39;s next-gen GeForce GPUs](https://www.pcgamer.com/nvidia-blackwell-what-to-expect)
- - [Palworld’s 7 cutest Pals](https://www.polygon.com/gaming/24063333/palworlds-cutest-pals-relaxaurus-depresso-chillet)
- - [An old AMD Athlon K7 Easter egg has a revolver and map of Texas etched onto the chip. They don&#39;t make em like that anymore, eh?](https://www.pcgamer.com/an-old-amd-athlon-k7-easter-egg-has-a-revolver-and-map-of-texas-etched-onto-the-chip-they-dont-make-em-like-that-anymore-eh)<!-- GAME:END -->
+ - [I’m Convinced FF7 Rebirth Is A Sequel To The 1997 Original](https://kotaku.com/final-fantasy-7-rebirth-state-of-play-trailer-aerith-1851234741)
+ - [A wargame experiment pitting AI chatbots against each other ended exactly how you&#39;d expect](https://www.pcgamer.com/a-wargame-experiment-pitting-ai-chatbots-against-each-other-ended-exactly-how-youd-expect)
+ - [Paralives will enter early access in 2025 and will never have paid DLCs, only free expansions](https://www.pcgamer.com/paralives-will-enter-early-access-in-2025-and-will-never-have-paid-dlcs-only-free-expansions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
