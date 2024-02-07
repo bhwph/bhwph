@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This man knew the evil he was doing](http://9gag.com/gag/aQE0Ob2)
- - 😝 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
- - 👉 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)<!-- MEMES:END -->
+ - 6️⃣ [Title is important](http://9gag.com/gag/abv9RLE)
+ - 😝 [Windows God Mode](http://9gag.com/gag/aqeqY1M)
+ - 👉 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)<!-- MEMES:END -->
 
 --- 
 
