@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Rage comic and traditional ending.](http://9gag.com/gag/a042wLq)
- - 😝 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
- - 👉 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)<!-- MEMES:END -->
+ - 6️⃣ [Coward Moderators](http://9gag.com/gag/aA0oOEE)
+ - 😝 [Was sad then... crying now. RIP](http://9gag.com/gag/amAERo6)
+ - 👉 [Don&#39;t start a twitter fight with a professional author. They have dedicated their entire lives to using words effectively.](http://9gag.com/gag/aVbNdj8)<!-- MEMES:END -->
 
 --- 
 
