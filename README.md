@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate The Premiere of Halo Season 2 on Paramount+ with Xbox Game Pass Ultimate](https://news.xbox.com/en-us/2024/02/07/halo-season-2-paramount-plus/)
- - [You can buy A24’s Stop Making Sense restoration on 4K, and nothing is better than that](https://www.polygon.com/24064113/a24-stop-making-sense-4k-dvd-how-where-buy)
- - [There’s only one new Avatar: The Last Airbender series I want](https://www.polygon.com/24063531/avatar-last-airbender-show-uncle-iroh-origin-past)<!-- GAME:END -->
+ - [Sonic 3 Movie Is Bringing Back An All-Time Sonic Adventure 2 Banger](https://kotaku.com/sonic-the-hedgehog-3-movie-live-and-learn-crush-40-song-1851236128)
+ - [Capcom Is Curious If Y&#39;all Want More Dino Crisis](https://kotaku.com/capcom-survey-dino-crisis-sequel-remake-onimusha-okami-1851235768)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240204-2200&rpar;](https://news.xbox.com/en-us/2024/02/07/xbox-insider-release-notes-alpha-skip-ahead-2408-240204-2200/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
