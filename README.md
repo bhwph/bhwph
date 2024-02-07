@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s top deals include 30% off Apple Watch, H&amp;R Block tax software for $19.99, Samsung 65&quot; TV for $398 &amp; more](https://appleinsider.com/articles/24/02/07/todays-top-deals-include-30-off-apple-watch-hr-block-tax-software-for-1999-samsung-65-tv-for-398-more?utm_medium=rss)
- - [Apple Vision Pro and battery teardown: 50 Vision Pro pixels fit into a single iPhone 15 Pro pixel, not technically 4K, a roughly 100&amp;deg; field of view, and more &lpar;Charlie Sorrel/iFixit News&rpar;](http://www.techmeme.com/240207/p20#a240207p20)
- - [An in-depth look at Common Crawl, the 9.5PB web crawl archive dating back to 2008 run by a small nonprofit, its role in generative AI, its dataset, and more &lpar;Mozilla Foundation&rpar;](http://www.techmeme.com/240207/p19#a240207p19)<!-- TECH:END -->
+ - [Google Pixel Fold 2 rumors: Everything we know and what we want to see](https://www.androidauthority.com/google-pixel-fold-2-3385460/)
+ - [Microsoft updates Copilot with a redesigned look and new image creation and editing features, along with Deucalion, a new AI model for Copilot&#39;s Balanced mode &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240207/p24#a240207p24)
+ - [Exclusive: This could be the Google Pixel Fold 2](https://www.androidauthority.com/pixel-fold-2-first-look-3411380/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
