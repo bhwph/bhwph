@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Coward Moderators](http://9gag.com/gag/aA0oOEE)
- - 😝 [Was sad then... crying now. RIP](http://9gag.com/gag/amAERo6)
- - 👉 [Don&#39;t start a twitter fight with a professional author. They have dedicated their entire lives to using words effectively.](http://9gag.com/gag/aVbNdj8)<!-- MEMES:END -->
+ - 6️⃣ [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
+ - 😝 [Crossing the road in Indonesia be like](http://9gag.com/gag/awZ68n8)
+ - 👉 [Bravo!](http://9gag.com/gag/aGEWOQG)<!-- MEMES:END -->
 
 --- 
 
