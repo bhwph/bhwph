@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is piloting a new program to protect against financial fraud apps](https://www.androidauthority.com/google-play-protect-financial-fraud-apps-3411554/)
- - [Here’s how WhatsApp will work with other messaging apps](https://www.androidauthority.com/how-whatsapp-work-other-messaging-apps-3411534/)
- - [A look at OpenAI&#39;s &quot;Democratic Inputs to AI&quot; grant program, which awarded $100K each to 10 teams to design ideas and tools to collectively govern AI systems &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/240207/p4#a240207p4)<!-- TECH:END -->
+ - [A Sudanese Paramilitary Group Accused of Ethnic Cleansing Is Still Tweeting Through It](https://www.wired.com/story/sudan-rsf-x-twitter/)
+ - [These States Are Basically Begging You to Get a Heat Pump](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
+ - [Nine states, including California and New York, sign heat pump agreement to clean up air pollution](https://www.theverge.com/2024/2/7/24063751/heat-pump-mou-nine-states-california-new-york)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
