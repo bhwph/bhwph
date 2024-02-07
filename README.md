@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title is important](http://9gag.com/gag/abv9RLE)
- - 😝 [Windows God Mode](http://9gag.com/gag/aqeqY1M)
+ - 6️⃣ [And people keep buying them](http://9gag.com/gag/aL1ymR6)
+ - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
  - 👉 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)<!-- MEMES:END -->
 
 --- 
