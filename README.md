@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Zone of death](http://9gag.com/gag/a5X8DMg)
- - 😝 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
+ - 6️⃣ [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
+ - 😝 [Windows God Mode](http://9gag.com/gag/aqeqY1M)
  - 👉 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)<!-- MEMES:END -->
 
 --- 
