@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crusader Kings 3’s third chapter of DLC is all about prestige and plagues](https://www.polygon.com/24063971/crusader-kings-3-chapter-three-dlc-black-plague-byzantine-empire)
- - [Persona 3 Reload social link answers and unlock requirements](https://www.polygon.com/guides/24063889/persona-3-reload-social-link-answers-links-dialogue-p3r-unlock)
- - [Modders resurrect forgotten first-party PlayStation RPG with a PC port that&#39;s already better than the original and promise 4K and 60FPS &#39;in the next few months&#39;](https://www.pcgamer.com/modders-resurrect-forgotten-first-party-playstation-rpg-with-a-pc-port-thats-already-better-than-the-original-and-promise-4k-and-60fps-in-the-next-few-months)<!-- GAME:END -->
+ - [Suicide Squad: Kill the Justice League review](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-review)
+ - [Community Update February 2024 – 10th Anniversary Celebrations](https://news.xbox.com/en-us/2024/02/06/community-update-february-2024-10th-anniversary-celebrations/)
+ - [Final Fantasy 7 Rebirth is a weirdly great place to start the story](https://www.polygon.com/24063423/final-fantasy-7-rebirth-chapter-1-nibelheim-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
