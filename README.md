@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And people keep buying them](http://9gag.com/gag/aL1ymR6)
- - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
- - 👉 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)<!-- MEMES:END -->
+ - 6️⃣ [Zone of death](http://9gag.com/gag/a5X8DMg)
+ - 😝 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
+ - 👉 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)<!-- MEMES:END -->
 
 --- 
 
