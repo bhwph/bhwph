@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
- - 😝 [Crossing the road in Indonesia be like](http://9gag.com/gag/awZ68n8)
- - 👉 [Bravo!](http://9gag.com/gag/aGEWOQG)<!-- MEMES:END -->
+ - 😝 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
+ - 👉 [Is it a legal move?](http://9gag.com/gag/a5X8j4o)<!-- MEMES:END -->
 
 --- 
 
