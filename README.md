@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS Zenfone 11 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/asus-zenfone-11-2-3387354/)
- - [iTunes&#39; days are numbered on Windows 10](https://appleinsider.com/articles/24/02/07/itunes-days-are-numbered-on-windows-10?utm_medium=rss)
- - [Mechanical Orchard, which helps companies migrate systems from mainframes to the cloud, raised a $24M Series A led by Emergence Capital at a $95M valuation &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240207/p26#a240207p26)<!-- TECH:END -->
+ - [Android 14 QPR3 Beta 1 finally brings Circle to Search to Pixel beta testers](https://www.androidauthority.com/android-14-qpr3-beta-1-3411989/)
+ - [Taylor Swift’s Eras Tour concert film is coming to Disney Plus](https://www.theverge.com/2024/2/7/24065421/taylor-swift-eras-tour-streaming-disney-plus-announced)
+ - [Judge dismisses class-action antitrust case accusing Apple &amp; Google of collusion](https://appleinsider.com/articles/24/02/07/judge-dismisses-class-action-antitrust-case-accusing-apple-google-of-collusion?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
