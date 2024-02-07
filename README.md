@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple partners with University of California researchers to release open-source AI model MGIE, which can edit images based on natural language instructions &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240207/p12#a240207p12)
- - [Uber reports Q4 revenue up 15% YoY to $9.9B, Gross Bookings up 22% YoY to $37.6B, a $1.9B net income, 150M MAUs, and first full-year operating profit of $1.1B &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240207/p11#a240207p11)
- - [Asus and MSI OLED monitor warranties now cover burn-in](https://www.theverge.com/2024/2/7/24064465/asus-rog-msi-oled-monitor-warranty-burn-in-cover-expanded)<!-- TECH:END -->
+ - [Apple Vision Pro crams 50 pixels into the area of one iPhone 15 pixel](https://appleinsider.com/articles/24/02/07/apple-vision-pro-crams-50-pixels-into-the-area-of-one-iphone-15-pixel?utm_medium=rss)
+ - [Apple Vision Pro is motivating a giant California health provider](https://appleinsider.com/articles/24/02/06/apple-vision-pro-is-motivating-a-giant-california-health-provider?utm_medium=rss)
+ - [Trade group CISPE, representing Amazon and 26 EU cloud providers, is working with Microsoft to try to resolve EU antitrust concerns over its licensing practices &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240207/p15#a240207p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
