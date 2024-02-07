@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Shein approached the CAC and China Securities Regulatory Commission to get their blessing for a US IPO, despite not formally requiring their approval &lpar;Financial Times&rpar;](http://www.techmeme.com/240207/p1#a240207p1)
- - [The Xiaomi 14 series will launch globally soon, but is the 14 Ultra coming too?](https://www.androidauthority.com/xiaomi-14-series-global-launch-date-confirmed-3411060/)
- - [Samsung reveals list of Galaxy AI features coming to older phones](https://www.androidauthority.com/samsung-galaxy-ai-features-older-phones-3411524/)<!-- TECH:END -->
+ - [Google is piloting a new program to protect against financial fraud apps](https://www.androidauthority.com/google-play-protect-financial-fraud-apps-3411554/)
+ - [Here’s how WhatsApp will work with other messaging apps](https://www.androidauthority.com/how-whatsapp-work-other-messaging-apps-3411534/)
+ - [A look at OpenAI&#39;s &quot;Democratic Inputs to AI&quot; grant program, which awarded $100K each to 10 teams to design ideas and tools to collectively govern AI systems &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/240207/p4#a240207p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
