@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Opera buys its own Nvidia H100 mini-supercomputer, just so you can have a spot of AI in a web browser](https://www.pcgamer.com/opera-buys-its-own-nvidia-h100-mini-supercomputer-just-so-you-can-have-a-spot-of-ai-in-a-web-browser)
- - [World of Tanks Modern Armor celebrates its 10th anniversary with new tanks, challenges, and more](https://blog.playstation.com/2024/02/07/world-of-tanks-modern-armor-celebrates-its-10th-anniversary-with-new-tanks-challenges-and-more/)
- - [Celebrating 10 Years of World of Tanks on Xbox](https://news.xbox.com/en-us/2024/02/07/world-of-tanks-xbox-10-years/)<!-- GAME:END -->
+ - [Nvidia Blackwell: What we expect and what we want to see from Nvidia&#39;s next-gen GeForce GPUs](https://www.pcgamer.com/nvidia-blackwell-what-to-expect)
+ - [Palworld’s 7 cutest Pals](https://www.polygon.com/gaming/24063333/palworlds-cutest-pals-relaxaurus-depresso-chillet)
+ - [An old AMD Athlon K7 Easter egg has a revolver and map of Texas etched onto the chip. They don&#39;t make em like that anymore, eh?](https://www.pcgamer.com/an-old-amd-athlon-k7-easter-egg-has-a-revolver-and-map-of-texas-etched-onto-the-chip-they-dont-make-em-like-that-anymore-eh)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
