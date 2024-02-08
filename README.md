@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Prison Wallet](http://9gag.com/gag/ajVoMA8)
+ - 6️⃣ [Sodie Pop](http://9gag.com/gag/aGEWbMZ)
  - 😝 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
- - 👉 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)<!-- MEMES:END -->
+ - 👉 [Hello welcome](http://9gag.com/gag/a4oDwOp)<!-- MEMES:END -->
 
 --- 
 
