@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Recent Google Pixel phones have a bizarre camera bug](https://www.androidauthority.com/google-pixel-phones-camera-exposure-bug-3412062/)
- - [Pixel phones set to adapt touch sensitivity to your activities and environment](https://www.androidauthority.com/pixel-phones-adaptive-touch-sensitivity-3412073/)
- - [Battle for the Bird book excerpt details how Jack Dorsey&#39;s plan to get Elon Musk to save Twitter failed, as Musk dismantled the company after taking over &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240208/p8#a240208p8)<!-- TECH:END -->
+ - [Meta’s not happy with its bill for enforcing the EU’s tough new DSA](https://www.theverge.com/2024/2/8/24065809/meta-european-union-digital-services-act-monitoring-compliance-charge-challenge)
+ - [An excerpt from Kara Swisher&#39;s upcoming book, Burn Book: covering digital media in the &#39;90s, Facebook and Google becoming information gatekeepers, and more &lpar;Kara Swisher/New York Magazine&rpar;](http://www.techmeme.com/240208/p10#a240208p10)
+ - [Apple co-created an AI tool that can perform complex image edits based on text prompts](https://www.androidauthority.com/apple-mgie-image-editing-ai-3412099/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
