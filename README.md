@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside Out 2 teaser shows Riley’s emotions on game day](https://www.polygon.com/24066449/inside-out-2-super-bowl-teaser-trailer-release-date)
- - [New Inclusive, Accessible, Easy-Going Games Revealed for Xbox During the Whitethorn Winter Showcase](https://news.xbox.com/en-us/2024/02/08/games-revealed-for-xbox-during-the-whitethorn-winter-showcase/)
- - [Turn your sad-mobile into a rad-mobile with Polygon’s favorite car accessories](https://www.polygon.com/deals/24062667/car-travel-gadgets-accessories)<!-- GAME:END -->
+ - [Ubisoft CEO defends Skull and Bones&#39; $60 price tag, says it&#39;s &#39;a quadruple-A game&#39;](https://www.pcgamer.com/ubisoft-ceo-defends-skull-and-bones-dollar60-price-tag-says-its-a-quadruple-a-game)
+ - [All Zelda: Tears of the Kingdom amiibo rewards and unlocks list](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23594427/amiibo-rewards-unlocks-list)
+ - [Where to buy Legend of Zelda amiibo](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
