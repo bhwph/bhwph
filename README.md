@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s not happy with its bill for enforcing the EU’s tough new DSA](https://www.theverge.com/2024/2/8/24065809/meta-european-union-digital-services-act-monitoring-compliance-charge-challenge)
- - [An excerpt from Kara Swisher&#39;s upcoming book, Burn Book: covering digital media in the &#39;90s, Facebook and Google becoming information gatekeepers, and more &lpar;Kara Swisher/New York Magazine&rpar;](http://www.techmeme.com/240208/p10#a240208p10)
- - [Apple co-created an AI tool that can perform complex image edits based on text prompts](https://www.androidauthority.com/apple-mgie-image-editing-ai-3412099/)<!-- TECH:END -->
+ - [Apple Vision Pro early review: a peek into the future of computing](https://appleinsider.com/articles/24/02/08/apple-vision-pro-early-review-a-peek-into-the-future-of-computing?utm_medium=rss)
+ - [Pakistan suspended mobile services across the country as voters went to the polls on February 8; the Interior Ministry cited a deteriorating security situation &lpar;Adnan Aamir/Nikkei Asia&rpar;](http://www.techmeme.com/240208/p17#a240208p17)
+ - [I Stopped Using Passwords. It&#39;s Great—and a Total Mess](https://www.wired.com/story/stopped-using-passwords-passkeys/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
