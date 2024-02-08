@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
- - 😝 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
- - 👉 [Prison Wallet](http://9gag.com/gag/ajVoMA8)<!-- MEMES:END -->
+ - 6️⃣ [Ancient meme calendar](http://9gag.com/gag/ap9Wd9D)
+ - 😝 [How you actually do the cat in public](http://9gag.com/gag/aGEWNVn)
+ - 👉 [That&#39;s the Xany voice there](http://9gag.com/gag/avQ3Dxb)<!-- MEMES:END -->
 
 --- 
 
