@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t try to sneak an Apple Vision Pro into Germany, the import cops will nab you](https://appleinsider.com/articles/24/02/08/berlin-customs-officers-confiscate-apple-vision-pro?utm_medium=rss)
- - [AI Tools Like GitHub Copilot Are Rewiring Coders’ Brains. Yours May Be Next](https://www.wired.com/story/fast-forward-ai-rewiring-coders-brains-github-copilot/)
- - [The FCC bans robocalls with AI-generated voices](https://www.theverge.com/2024/2/8/24066169/fcc-robocall-ai-voices-ban)<!-- TECH:END -->
+ - [The 19 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [The Far-Right&#39;s Favorite Web Host Has a Shadowy New Owner](https://www.wired.com/story/epik-domain-registrar-new-owner/)
+ - [Apple patches pesky text bug with updates to Mac and mobile devices](https://appleinsider.com/articles/24/02/08/apple-releases-ios-1731-ipados-1831-macos-sonoma-1431-and-watchos-1031?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
