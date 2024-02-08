@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
- - 😝 [Bro is on a mission](http://9gag.com/gag/aYV2d50)
- - 👉 [Quoridor from 1997](http://9gag.com/gag/anzLVKB)<!-- MEMES:END -->
+ - 6️⃣ [Clown](http://9gag.com/gag/aREY942)
+ - 😝 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
+ - 👉 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)<!-- MEMES:END -->
 
 --- 
 
