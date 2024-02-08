@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Funimation is shutting down — and taking your digital library with it](https://www.theverge.com/2024/2/8/24065940/funimation-shutdown-crunchyroll-digital-library)
- - [Plaid names Jen Taylor as its first president as it readies itself for an IPO; Taylor was most recently chief product officer at Cloudflare &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240208/p30#a240208p30)
- - [Dyson’s new high-tech hairdryer is for the pros](https://www.theverge.com/2024/2/8/24063308/dyson-supersonic-r-hairdryer-beauty-tech)<!-- TECH:END -->
+ - [Don&#39;t try to sneak an Apple Vision Pro into Germany, the import cops will nab you](https://appleinsider.com/articles/24/02/08/berlin-customs-officers-confiscate-apple-vision-pro?utm_medium=rss)
+ - [AI Tools Like GitHub Copilot Are Rewiring Coders’ Brains. Yours May Be Next](https://www.wired.com/story/fast-forward-ai-rewiring-coders-brains-github-copilot/)
+ - [The FCC bans robocalls with AI-generated voices](https://www.theverge.com/2024/2/8/24066169/fcc-robocall-ai-voices-ban)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
