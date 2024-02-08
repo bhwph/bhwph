@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The limited-edition Godzilla Minus One poster is now available at Mondo](https://www.polygon.com/deals/24057285/godzilla-minus-one-poster-mondo-tony-stella-pre-order-buy)
- - [I don’t know if Reacher will get 7 seasons, but it should](https://www.polygon.com/24065348/reacher-season-2-review)
- - [Premier League footballer subs in for his pro Counter-Strike team at the last minute and turns out to be extremely legit](https://www.pcgamer.com/premier-league-footballer-subs-in-for-his-pro-counter-strike-team-at-the-last-minute-and-turns-out-to-be-extremely-legit)<!-- GAME:END -->
+ - [Inside Out 2 teaser shows Riley’s emotions on game day](https://www.polygon.com/24066449/inside-out-2-super-bowl-teaser-trailer-release-date)
+ - [New Inclusive, Accessible, Easy-Going Games Revealed for Xbox During the Whitethorn Winter Showcase](https://news.xbox.com/en-us/2024/02/08/games-revealed-for-xbox-during-the-whitethorn-winter-showcase/)
+ - [Turn your sad-mobile into a rad-mobile with Polygon’s favorite car accessories](https://www.polygon.com/deals/24062667/car-travel-gadgets-accessories)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
