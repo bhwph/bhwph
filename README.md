@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Clown](http://9gag.com/gag/aREY942)
- - 😝 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
- - 👉 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)<!-- MEMES:END -->
+ - 6️⃣ [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
+ - 😝 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
+ - 👉 [Future voter](http://9gag.com/gag/aL1yON5)<!-- MEMES:END -->
 
 --- 
 
