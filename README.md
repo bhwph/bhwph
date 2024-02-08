@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Collaborative RPG Project ORCS is the future I dreamed of when I started using Roll20 to play D&amp;D](https://www.pcgamer.com/collaborative-rpg-project-orcs-is-the-future-i-dreamed-of-when-i-started-using-roll20-to-play-dandd)
- - [Halo The Series Season 2 Interview: “The Stakes are High – This Is a War Story”](https://news.xbox.com/en-us/2024/02/08/halo-tv-series-season-2-interview-kiki-wolfkill/)
- - [Anime more powerful than ever as Persona 3 Reload becomes the fastest selling game in Atlus&#39; history](https://www.pcgamer.com/anime-more-powerful-than-ever-as-persona-3-reload-becomes-the-fastest-selling-game-in-atlus-history)<!-- GAME:END -->
+ - [All WoW Season of Discovery Phase 2 runes](https://www.pcgamer.com/world-of-warcraft-wow-sod-runes)
+ - [How to solve the Relics of the Past treasure map in Skull and Bones](https://www.pcgamer.com/skull-and-bones-relics-of-the-past-treasure-map-solution)
+ - [Every Phase 2 class quest in WoW Classic: Season of Discovery](https://www.pcgamer.com/world-of-warcraft-classic-sod-class-quests)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
