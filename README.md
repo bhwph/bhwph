@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
- - 😝 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
- - 👉 [Is it a legal move?](http://9gag.com/gag/a5X8j4o)<!-- MEMES:END -->
+ - 6️⃣ [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
+ - 😝 [Zone of death](http://9gag.com/gag/a5X8DMg)
+ - 👉 [Friend just posted this and was utterly serious](http://9gag.com/gag/aZDG2G9)<!-- MEMES:END -->
 
 --- 
 
