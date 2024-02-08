@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All WoW Season of Discovery Phase 2 runes](https://www.pcgamer.com/world-of-warcraft-wow-sod-runes)
- - [How to solve the Relics of the Past treasure map in Skull and Bones](https://www.pcgamer.com/skull-and-bones-relics-of-the-past-treasure-map-solution)
- - [Every Phase 2 class quest in WoW Classic: Season of Discovery](https://www.pcgamer.com/world-of-warcraft-classic-sod-class-quests)<!-- GAME:END -->
+ - [The limited-edition Godzilla Minus One poster is now available at Mondo](https://www.polygon.com/deals/24057285/godzilla-minus-one-poster-mondo-tony-stella-pre-order-buy)
+ - [I don’t know if Reacher will get 7 seasons, but it should](https://www.polygon.com/24065348/reacher-season-2-review)
+ - [Premier League footballer subs in for his pro Counter-Strike team at the last minute and turns out to be extremely legit](https://www.pcgamer.com/premier-league-footballer-subs-in-for-his-pro-counter-strike-team-at-the-last-minute-and-turns-out-to-be-extremely-legit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
