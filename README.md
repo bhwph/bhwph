@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Will Develop A &#39;New Persistent Universe&#39; With Epic Games](https://kotaku.com/disney-epic-games-15-billion-fortnite-1851236865)
- - [The Moana TV show has been reworked into a movie, coming this year](https://www.polygon.com/24065414/moana-2-teaser-trailer-announcement)
- - [GameStop Ad Promoting &#39;Microsoft&#39; Game Pass Leads To More Xbox Chaos](https://kotaku.com/xbox-microsoft-game-pass-gamestop-ad-twitter-demo-days-1851236742)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Beta &lpar;2402.240206-2000&rpar;](https://news.xbox.com/en-us/2024/02/07/xbox-insider-release-notes-beta-2402-240206-2000/)
+ - [Palworld’s breeding system is my friend group’s new obsession](https://www.polygon.com/24063703/palworld-breeding-system-egg-incubation)
+ - [Get To Know Our Team: Tim – Operations Manager &lpar;Game/App Flighting&rpar;](https://news.xbox.com/en-us/2024/02/07/get-to-know-our-team-tim-operations-manager-game-app-flighting/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
