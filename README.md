@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
- - 😝 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
- - 👉 [Bro is on a mission](http://9gag.com/gag/aYV2d50)<!-- MEMES:END -->
+ - 6️⃣ [Healthy inside, Fresh outside](http://9gag.com/gag/az20BVx)
+ - 😝 [Prison Wallet](http://9gag.com/gag/ajVoMA8)
+ - 👉 [A beautiful life.](http://9gag.com/gag/aYV2nyq)<!-- MEMES:END -->
 
 --- 
 
