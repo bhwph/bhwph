@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 19 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [The Far-Right&#39;s Favorite Web Host Has a Shadowy New Owner](https://www.wired.com/story/epik-domain-registrar-new-owner/)
- - [Apple patches pesky text bug with updates to Mac and mobile devices](https://appleinsider.com/articles/24/02/08/apple-releases-ios-1731-ipados-1831-macos-sonoma-1431-and-watchos-1031?utm_medium=rss)<!-- TECH:END -->
+ - [Chris Dixon&#39;s book becomes an NYT Best Seller but with a dagger icon denoting bulk orders; a16z and some startups linked to it gave the book to staff and others &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/240208/p40#a240208p40)
+ - [New iPhone SE rumor aligns with previous leaks that suggest a new design](https://appleinsider.com/articles/24/02/08/new-iphone-se-rumor-aligns-with-previous-leaks-that-suggest-a-new-design?utm_medium=rss)
+ - [Multi Function Bottle Warmer     - CNET](https://www.cnet.com/health/parenting/multi-function-bottle-warmer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
