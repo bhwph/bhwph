@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
- - 😝 [Zone of death](http://9gag.com/gag/a5X8DMg)
- - 👉 [Friend just posted this and was utterly serious](http://9gag.com/gag/aZDG2G9)<!-- MEMES:END -->
+ - 6️⃣ [Can&#39;t lift a plane](http://9gag.com/gag/a8qBn9Z)
+ - 😝 [That&#39;s the Xany voice there](http://9gag.com/gag/avQ3Dxb)
+ - 👉 [Ancient meme calendar](http://9gag.com/gag/ap9Wd9D)<!-- MEMES:END -->
 
 --- 
 
