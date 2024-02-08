@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ancient meme calendar](http://9gag.com/gag/ap9Wd9D)
- - 😝 [How you actually do the cat in public](http://9gag.com/gag/aGEWNVn)
- - 👉 [That&#39;s the Xany voice there](http://9gag.com/gag/avQ3Dxb)<!-- MEMES:END -->
+ - 6️⃣ [Prison Wallet](http://9gag.com/gag/ajVoMA8)
+ - 😝 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
+ - 👉 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)<!-- MEMES:END -->
 
 --- 
 
