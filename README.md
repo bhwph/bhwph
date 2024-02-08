@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In his new book, a16z GP Chris Dixon fails to identify a single blockchain project that has successfully provided a non-speculative service at any kind of scale &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/240208/p2#a240208p2)
- - [SEC filing: NYSE-listed Bakkt, a crypto trading platform backed by the Intercontinental Exchange, warns that it might not be able to stay in business in a year &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/240208/p1#a240208p1)
- - [Samsung’s next Galaxy S24 update may let your manually adjust screen vividness](https://www.androidauthority.com/samsung-galaxy-s24-screen-vividness-fix-3412055/)<!-- TECH:END -->
+ - [Recent Google Pixel phones have a bizarre camera bug](https://www.androidauthority.com/google-pixel-phones-camera-exposure-bug-3412062/)
+ - [Pixel phones set to adapt touch sensitivity to your activities and environment](https://www.androidauthority.com/pixel-phones-adaptive-touch-sensitivity-3412073/)
+ - [Battle for the Bird book excerpt details how Jack Dorsey&#39;s plan to get Elon Musk to save Twitter failed, as Musk dismantled the company after taking over &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240208/p8#a240208p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
