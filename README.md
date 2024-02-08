@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro early review: a peek into the future of computing](https://appleinsider.com/articles/24/02/08/apple-vision-pro-early-review-a-peek-into-the-future-of-computing?utm_medium=rss)
- - [Pakistan suspended mobile services across the country as voters went to the polls on February 8; the Interior Ministry cited a deteriorating security situation &lpar;Adnan Aamir/Nikkei Asia&rpar;](http://www.techmeme.com/240208/p17#a240208p17)
- - [I Stopped Using Passwords. It&#39;s Great—and a Total Mess](https://www.wired.com/story/stopped-using-passwords-passkeys/)<!-- TECH:END -->
+ - [TikTok quietly removed view counts for hashtags in January, after researchers used them to show the disparity in views of pro-Israel and pro-Palestinian videos &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240208/p23#a240208p23)
+ - [NASA Engineers Are Racing to Fix Voyager 1](https://www.wired.com/story/nasa-voyager-one-space-probe-lost-contact/)
+ - [The Best Merino Wool Apparel We&#39;ve Tried &lpar;2024&rpar;: 27 Socks, Hoodies, Shirts, Pants, Sweaters, and Jackets](https://www.wired.com/story/best-merino-wool-clothes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
