@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok quietly removed view counts for hashtags in January, after researchers used them to show the disparity in views of pro-Israel and pro-Palestinian videos &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240208/p23#a240208p23)
- - [NASA Engineers Are Racing to Fix Voyager 1](https://www.wired.com/story/nasa-voyager-one-space-probe-lost-contact/)
- - [The Best Merino Wool Apparel We&#39;ve Tried &lpar;2024&rpar;: 27 Socks, Hoodies, Shirts, Pants, Sweaters, and Jackets](https://www.wired.com/story/best-merino-wool-clothes/)<!-- TECH:END -->
+ - [Funimation is shutting down — and taking your digital library with it](https://www.theverge.com/2024/2/8/24065940/funimation-shutdown-crunchyroll-digital-library)
+ - [Plaid names Jen Taylor as its first president as it readies itself for an IPO; Taylor was most recently chief product officer at Cloudflare &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240208/p30#a240208p30)
+ - [Dyson’s new high-tech hairdryer is for the pros](https://www.theverge.com/2024/2/8/24063308/dyson-supersonic-r-hairdryer-beauty-tech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
