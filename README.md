@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld&#39;s latest patch stops its capture chance boosting items making capture chances worse, and prevents your breeding Pals from being sent to a farm upstate forever](https://www.pcgamer.com/palworlds-latest-patch-stops-its-capture-chance-boosting-items-making-capture-chances-worse-and-prevents-your-breeding-pals-from-being-sent-to-a-farm-upstate-forever)
- - [The quality of USB drives is getting worse thanks to re-used and often defective NAND chips including some from known brands](https://www.pcgamer.com/the-quality-of-usb-drives-is-getting-worse-thanks-to-re-used-and-often-defective-nand-chips-including-some-from-known-brands)
- - [Baldur&#39;s Gate 3 player completes the game while playing as a party of cats](https://www.pcgamer.com/baldurs-gate-3-player-completes-the-game-while-playing-as-a-party-of-cats)<!-- GAME:END -->
+ - [Collaborative RPG Project ORCS is the future I dreamed of when I started using Roll20 to play D&amp;D](https://www.pcgamer.com/collaborative-rpg-project-orcs-is-the-future-i-dreamed-of-when-i-started-using-roll20-to-play-dandd)
+ - [Halo The Series Season 2 Interview: “The Stakes are High – This Is a War Story”](https://news.xbox.com/en-us/2024/02/08/halo-tv-series-season-2-interview-kiki-wolfkill/)
+ - [Anime more powerful than ever as Persona 3 Reload becomes the fastest selling game in Atlus&#39; history](https://www.pcgamer.com/anime-more-powerful-than-ever-as-persona-3-reload-becomes-the-fastest-selling-game-in-atlus-history)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
