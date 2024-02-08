@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 QPR3 Beta 1 finally brings Circle to Search to Pixel beta testers](https://www.androidauthority.com/android-14-qpr3-beta-1-3411989/)
- - [Taylor Swift’s Eras Tour concert film is coming to Disney Plus](https://www.theverge.com/2024/2/7/24065421/taylor-swift-eras-tour-streaming-disney-plus-announced)
- - [Judge dismisses class-action antitrust case accusing Apple &amp; Google of collusion](https://appleinsider.com/articles/24/02/07/judge-dismisses-class-action-antitrust-case-accusing-apple-google-of-collusion?utm_medium=rss)<!-- TECH:END -->
+ - [The Biden administration names White House economic adviser Elizabeth Kelly to lead the NIST&#39;s newly formed AI Safety Institute to develop AI testing standards &lpar;Josh Boak/Associated Press&rpar;](http://www.techmeme.com/240207/p33#a240207p33)
+ - [Best Valentine&#39;s Day Deals: Discounted Valentine&#39;s Gifts, Tech, Home Goods and More     - CNET](https://www.cnet.com/deals/best-valentines-day-deals/#ftag=CAD590a51e)
+ - [Best iPhone Deals 2024: Take Up to $1,000 Off a New iPhone 15, 14 or SE     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
