@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can&#39;t lift a plane](http://9gag.com/gag/a8qBn9Z)
- - 😝 [That&#39;s the Xany voice there](http://9gag.com/gag/avQ3Dxb)
- - 👉 [Ancient meme calendar](http://9gag.com/gag/ap9Wd9D)<!-- MEMES:END -->
+ - 6️⃣ [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
+ - 😝 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
+ - 👉 [Prison Wallet](http://9gag.com/gag/ajVoMA8)<!-- MEMES:END -->
 
 --- 
 
