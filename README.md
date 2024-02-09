@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chris Dixon&#39;s book becomes an NYT Best Seller but with a dagger icon denoting bulk orders; a16z and some startups linked to it gave the book to staff and others &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/240208/p40#a240208p40)
- - [New iPhone SE rumor aligns with previous leaks that suggest a new design](https://appleinsider.com/articles/24/02/08/new-iphone-se-rumor-aligns-with-previous-leaks-that-suggest-a-new-design?utm_medium=rss)
- - [Multi Function Bottle Warmer     - CNET](https://www.cnet.com/health/parenting/multi-function-bottle-warmer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X signs a two-year deal with the WWE for a new exclusive weekly video series called WWE Speed featuring timed matches of 5 minutes or less, coming spring 2024 &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240208/p46#a240208p46)
+ - [Stealing Apple trade secrets can get you 120 days in prison and a boatload of debt](https://appleinsider.com/articles/24/02/08/stealing-apple-trade-secrets-can-get-you-120-days-in-prison-and-a-boatload-of-debt?utm_medium=rss)
+ - [Expedia says CEO Peter Kern will step down after four years in the role and names its president for business, Ariane Gorin, as CEO, effective May 13, 2024 &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240208/p45#a240208p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
