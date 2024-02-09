@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Steam creator has cracked the code of cozy hidden objects games to create 42 charming puzzlers in just 2 years](https://www.pcgamer.com/this-steam-creator-has-cracked-the-code-of-cozy-hidden-objects-games-to-create-42-charming-puzzlers-in-just-2-years)
- - [Xbox Insider Release Notes – Alpha &lpar;2403.240207-2200&rpar;](https://news.xbox.com/en-us/2024/02/09/xbox-insider-release-notes-alpha-2403-240207-2200/)
- - [New Data Seems To Show PS5 Is Outselling Xbox 2:1](https://kotaku.com/ps5-outselling-xbox-50-million-data-sony-microsoft-1851243811)<!-- GAME:END -->
+ - [Hideo Kojima says Physint&#39;s happening because you lot just wouldn&#39;t stop asking for &#39;a new Metal Gear&#39; and, after a brush with death, he&#39;s decided that&#39;s not a bad idea](https://www.pcgamer.com/hideo-kojima-says-physints-happening-because-you-lot-just-wouldnt-stop-asking-for-a-new-metal-gear-and-after-a-brush-with-death-hes-decided-thats-not-a-bad-idea)
+ - [The next Predator movie already sounds like a great direction for the franchise](https://www.polygon.com/24067944/prey-2-badlands-predator-movie)
+ - [Blizzard finally has a solution for the unlucky Diablo 4 players with Uber Uniques they don&#39;t want](https://www.pcgamer.com/blizzard-finally-has-a-solution-for-the-unlucky-diablo-4-players-with-uber-uniques-they-dont-want)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
