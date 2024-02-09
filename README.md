@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [People Can’t Stop Playing Piano In The FF7 Rebirth Demo](https://kotaku.com/final-fantasy-7-rebirth-demo-piano-clips-are-amazing-1851242683)
- - [Explore the World Through Lara’s Lens with Tomb Raider I-III Remastered Photo Mode](https://news.xbox.com/en-us/2024/02/09/explore-the-world-through-laras-lens-with-tomb-raider-i-iii-remastered-photo-mode/)
- - [Super Bowl 2024 is free to stream on Paramount Plus](https://www.polygon.com/24064726/super-bowl-2024-stream-free-trial-how-to-watch)<!-- GAME:END -->
+ - [I can&#39;t stop telling this necromancer to eat everything I find in one of Steam Next Fest&#39;s best demos](https://www.pcgamer.com/i-cant-stop-telling-this-necromancer-to-eat-everything-i-find-in-one-of-steam-next-fests-best-demos)
+ - [All Persona 3 Reload social link answers and unlock requirements](https://www.polygon.com/guides/24063889/persona-3-reload-social-link-answers-links-dialogue-p3r-unlock)
+ - [Promenade Showcases its Gameplay in a Brand New Demo](https://news.xbox.com/en-us/2024/02/09/promenade-showcases-its-gameplay-in-a-brand-new-demo/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
