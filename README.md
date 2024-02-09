@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft CEO defends Skull and Bones&#39; $60 price tag, says it&#39;s &#39;a quadruple-A game&#39;](https://www.pcgamer.com/ubisoft-ceo-defends-skull-and-bones-dollar60-price-tag-says-its-a-quadruple-a-game)
- - [All Zelda: Tears of the Kingdom amiibo rewards and unlocks list](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23594427/amiibo-rewards-unlocks-list)
- - [Where to buy Legend of Zelda amiibo](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)<!-- GAME:END -->
+ - [Diablo 4&#39;s forgettable XP boost event has me crossing my fingers that its upcoming leaderboards won&#39;t be as dull](https://www.pcgamer.com/diablo-4s-forgettable-xp-boost-event-has-me-crossing-my-fingers-that-its-upcoming-leaderboards-wont-be-as-dull)
+ - [Yes, I will play Magic: The Gathering crossed with Clue](https://www.pcgamer.com/yes-i-will-play-magic-the-gathering-crossed-with-clue)
+ - [Ed boxes his way into Street Fighter 6 on February 27](https://blog.playstation.com/2024/02/08/ed-boxes-his-way-into-street-fighter-6-on-february-27/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
