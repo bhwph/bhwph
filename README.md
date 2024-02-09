@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney is testing a contextual ad tool dubbed &quot;magic words&quot; for Disney+ and Hulu that uses AI to analyze scenes and identify contents, brands, images, and mood &lpar;Dawn Chmielewski/Reuters&rpar;](http://www.techmeme.com/240209/p16#a240209p16)
- - [Police take months to arrest stalker identified by AirTag](https://appleinsider.com/articles/24/02/09/police-take-months-to-arrest-stalker-identified-by-airtag?utm_medium=rss)
- - [Nothing Phone 2a renders are ‘inaccurate,’ says the site that leaked them](https://www.androidauthority.com/nothing-phone-2a-renders-wrong-3413012/)<!-- TECH:END -->
+ - [A Canadian minister says the country plans to ban devices that copy wireless signals for remote keyless entry, like Flipper Zero, to combat auto theft &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/240209/p19#a240209p19)
+ - [Rumors that peg iOS 18 redesign to how Apple Vision Pro looks are in the wrong order](https://appleinsider.com/articles/24/02/09/rumors-that-peg-ios-18-redesign-to-how-apple-vision-pro-looks-are-in-the-wrong-order?utm_medium=rss)
+ - [At a legislative hearing in Oregon, an Apple executive opposed a strong right-to-repair bill, despite Apple&#39;s support for a similar but weaker law in California &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240209/p18#a240209p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
