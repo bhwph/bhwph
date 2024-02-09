@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Overwatch 2 artist alleges shocking mistreatment by Blizzard management: &#39;I spent most of a year stressed out of my mind&#39;](https://www.pcgamer.com/former-overwatch-2-artist-alleges-shocking-mistreatment-by-blizzard-management-i-spent-most-of-a-year-stressed-out-of-my-mind)
- - [Tekken 8&#39;s leaderboard is being dominated by cheaters and boosters but bans are being handed out soon](https://www.pcgamer.com/tekken-8s-leaderboard-is-being-dominated-by-cheaters-and-boosters-but-bans-are-being-handed-out-soon)
- - [Microsoft&#39;s Bitlocker &amp; TPM encryption combo defeated with a $10 Raspberry Pi and a bit of braininess](https://www.pcgamer.com/microsofts-bitlocker-and-tpm-encryption-combo-defeated-with-a-dollar10-raspberry-pi-and-a-bit-of-braininess)<!-- GAME:END -->
+ - [Every tease Marvel still needs to pay off, in theory](https://www.polygon.com/24065485/mcu-post-credits-teases-sequels-rumors)
+ - [New report predicts 60% of PCs sold will be AI-capable by 2027 and I just died of not surprise](https://www.pcgamer.com/new-report-predicts-60-of-pcs-sold-will-be-ai-capable-by-2027-and-i-just-died-of-not-surprise)
+ - [Diablo 2 speedrunner effortlessly trolls audience by breezily selling ultra-rare rune it&#39;s taken others 20 years to find](https://www.pcgamer.com/diablo-2-speedrunner-effortlessly-trolls-audience-by-breezily-selling-ultra-rare-rune-its-taken-others-20-years-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
