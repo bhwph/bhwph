@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Canadian minister says the country plans to ban devices that copy wireless signals for remote keyless entry, like Flipper Zero, to combat auto theft &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/240209/p19#a240209p19)
- - [Rumors that peg iOS 18 redesign to how Apple Vision Pro looks are in the wrong order](https://appleinsider.com/articles/24/02/09/rumors-that-peg-ios-18-redesign-to-how-apple-vision-pro-looks-are-in-the-wrong-order?utm_medium=rss)
- - [At a legislative hearing in Oregon, an Apple executive opposed a strong right-to-repair bill, despite Apple&#39;s support for a similar but weaker law in California &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240209/p18#a240209p18)<!-- TECH:END -->
+ - [Peacock will stream the Chinese adaptation of The Three-Body Problem](https://www.theverge.com/2024/2/9/24067865/peacock-three-body-problem-stream-date-trailer)
+ - [Did you know: This is the meaning behind Samsung’s name](https://www.androidauthority.com/did-you-know-samsung-name-meaning-3412716/)
+ - [The 44 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
