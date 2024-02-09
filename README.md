@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just you: Snapchat is down, and users are unable to send snaps or texts](https://www.androidauthority.com/snapchat-is-down-3412787/)
- - [Is Snapchat not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/snapchat-not-working-how-to-fix-977763/)
- - [The next Pixel feature drop could come with these new features](https://www.androidauthority.com/march-2024-pixel-feature-drop-features-3412064/)<!-- TECH:END -->
+ - [Sources: Paytm E-commerce changed its name to Pai Platforms and has acquired Bitsila, a seller platform on ONDC, gaining share in the online retail business &lpar;The Economic Times&rpar;](http://www.techmeme.com/240209/p7#a240209p7)
+ - [Snapchat is down, and users are unable to send snaps or texts &lpar;Update: Back up&rpar;](https://www.androidauthority.com/snapchat-is-down-3412787/)
+ - [Sources: OpenAI&#39;s annualized revenue hit $2B in December, up from $1.3B in October 2023, and the company believes it can more than double the figure in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/240209/p6#a240209p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
