@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peacock will stream the Chinese adaptation of The Three-Body Problem](https://www.theverge.com/2024/2/9/24067865/peacock-three-body-problem-stream-date-trailer)
- - [Did you know: This is the meaning behind Samsung’s name](https://www.androidauthority.com/did-you-know-samsung-name-meaning-3412716/)
- - [The 44 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [6 common Google Chat scams and how to avoid them](https://www.androidauthority.com/common-google-chat-scams-3413091/)
+ - [Joint filing: Apple and Rivos say they reached a deal to settle Apple&#39;s 2022 lawsuit accusing the SoC startup of poaching 40+ engineers to steal trade secrets &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240209/p25#a240209p25)
+ - [Release dates and trailers for the biggest streaming movies and TV shows in 2024](https://www.theverge.com/24065499/netflix-disney-plus-max-release-date-trailer-streaming-calendar)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
