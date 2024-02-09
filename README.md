@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Joe Rogan show returns to Apple Podcasts](https://appleinsider.com/articles/24/02/09/joe-rogan-show-returns-to-apple-podcasts?utm_medium=rss)
- - [How Palantir embedded itself in the day-to-day work of Ukraine&#39;s wartime government in an unprecedented way, as Ukraine becomes a laboratory for military tech &lpar;Vera Bergengruen/TIME&rpar;](http://www.techmeme.com/240209/p8#a240209p8)
- - [Bluesky CEO Jay Graber Says She Won’t ‘Enshittify the Network With Ads’](https://www.wired.com/story/bluesky-ceo-jay-graber-wont-enshittify-ads/)<!-- TECH:END -->
+ - [What&#39;s the value of Apple&#39;s Vision Pro spatial computing?](https://appleinsider.com/articles/24/02/09/whats-the-value-of-apples-vision-pro-spatial-computing?utm_medium=rss)
+ - [Here’s the Thing AI Just Can’t Do](https://www.wired.com/story/plaintext-the-thing-ai-just-cant-do/)
+ - [Taylor Swift Will Define Super Bowl 2024 Just by Showing Up](https://www.wired.com/story/taylor-swift-super-bowl-2024-conspiracy-theories-travis-kelce-attention-economy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
