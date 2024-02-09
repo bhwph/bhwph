@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I can&#39;t stop telling this necromancer to eat everything I find in one of Steam Next Fest&#39;s best demos](https://www.pcgamer.com/i-cant-stop-telling-this-necromancer-to-eat-everything-i-find-in-one-of-steam-next-fests-best-demos)
- - [All Persona 3 Reload social link answers and unlock requirements](https://www.polygon.com/guides/24063889/persona-3-reload-social-link-answers-links-dialogue-p3r-unlock)
- - [Promenade Showcases its Gameplay in a Brand New Demo](https://news.xbox.com/en-us/2024/02/09/promenade-showcases-its-gameplay-in-a-brand-new-demo/)<!-- GAME:END -->
+ - [This Steam creator has cracked the code of cozy hidden objects games to create 42 charming puzzlers in just 2 years](https://www.pcgamer.com/this-steam-creator-has-cracked-the-code-of-cozy-hidden-objects-games-to-create-42-charming-puzzlers-in-just-2-years)
+ - [Xbox Insider Release Notes – Alpha &lpar;2403.240207-2200&rpar;](https://news.xbox.com/en-us/2024/02/09/xbox-insider-release-notes-alpha-2403-240207-2200/)
+ - [New Data Seems To Show PS5 Is Outselling Xbox 2:1](https://kotaku.com/ps5-outselling-xbox-50-million-data-sony-microsoft-1851243811)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
