@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every tease Marvel still needs to pay off, in theory](https://www.polygon.com/24065485/mcu-post-credits-teases-sequels-rumors)
- - [New report predicts 60% of PCs sold will be AI-capable by 2027 and I just died of not surprise](https://www.pcgamer.com/new-report-predicts-60-of-pcs-sold-will-be-ai-capable-by-2027-and-i-just-died-of-not-surprise)
- - [Diablo 2 speedrunner effortlessly trolls audience by breezily selling ultra-rare rune it&#39;s taken others 20 years to find](https://www.pcgamer.com/diablo-2-speedrunner-effortlessly-trolls-audience-by-breezily-selling-ultra-rare-rune-its-taken-others-20-years-to-find)<!-- GAME:END -->
+ - [People Can’t Stop Playing Piano In The FF7 Rebirth Demo](https://kotaku.com/final-fantasy-7-rebirth-demo-piano-clips-are-amazing-1851242683)
+ - [Explore the World Through Lara’s Lens with Tomb Raider I-III Remastered Photo Mode](https://news.xbox.com/en-us/2024/02/09/explore-the-world-through-laras-lens-with-tomb-raider-i-iii-remastered-photo-mode/)
+ - [Super Bowl 2024 is free to stream on Paramount Plus](https://www.polygon.com/24064726/super-bowl-2024-stream-free-trial-how-to-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
