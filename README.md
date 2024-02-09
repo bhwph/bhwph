@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
+ - 6️⃣ [Cultured people have sticks](http://9gag.com/gag/abv9dor)
  - 😝 [Healthy inside, Fresh outside](http://9gag.com/gag/az20BVx)
- - 👉 [Cultured people have sticks](http://9gag.com/gag/abv9dor)<!-- MEMES:END -->
+ - 👉 [Bro is on a mission](http://9gag.com/gag/aYV2d50)<!-- MEMES:END -->
 
 --- 
 
