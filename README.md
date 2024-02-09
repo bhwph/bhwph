@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4&#39;s forgettable XP boost event has me crossing my fingers that its upcoming leaderboards won&#39;t be as dull](https://www.pcgamer.com/diablo-4s-forgettable-xp-boost-event-has-me-crossing-my-fingers-that-its-upcoming-leaderboards-wont-be-as-dull)
- - [Yes, I will play Magic: The Gathering crossed with Clue](https://www.pcgamer.com/yes-i-will-play-magic-the-gathering-crossed-with-clue)
- - [Ed boxes his way into Street Fighter 6 on February 27](https://blog.playstation.com/2024/02/08/ed-boxes-his-way-into-street-fighter-6-on-february-27/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Friday, February 9](https://www.pcgamer.com/wordle-today-answer-february-9-2024)
+ - [ASRock&#39;s latest 600 and 700-series BIOS updates deliver an optional boost to your 14th Gen non-K CPU](https://www.pcgamer.com/asrocks-latest-600-and-700-series-bios-updates-deliver-an-optional-boost-to-your-14th-gen-non-k-cpu)
+ - [So far, the Skull and Bones beta has just made me want to play Sea of Thieves again](https://www.pcgamer.com/skull-and-bones-beta-impressions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
