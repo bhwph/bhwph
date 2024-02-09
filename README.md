@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There we go again](http://9gag.com/gag/aWGwPB3)
- - 😝 [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)
- - 👉 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)<!-- MEMES:END -->
+ - 6️⃣ [EQUALITY of EQUALS -- If you think YOU in your RELIGION are better than others!, YOU DON&#39;T FIT INTO OUR SOCIETY.](http://9gag.com/gag/aWGwyMn)
+ - 😝 [I&#39;m batman](http://9gag.com/gag/avQ3qqq)
+ - 👉 [You don&#39;t know who will tell](http://9gag.com/gag/aKErZvQ)<!-- MEMES:END -->
 
 --- 
 
