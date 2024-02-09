@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Paytm E-commerce changed its name to Pai Platforms and has acquired Bitsila, a seller platform on ONDC, gaining share in the online retail business &lpar;The Economic Times&rpar;](http://www.techmeme.com/240209/p7#a240209p7)
- - [Snapchat is down, and users are unable to send snaps or texts &lpar;Update: Back up&rpar;](https://www.androidauthority.com/snapchat-is-down-3412787/)
- - [Sources: OpenAI&#39;s annualized revenue hit $2B in December, up from $1.3B in October 2023, and the company believes it can more than double the figure in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/240209/p6#a240209p6)<!-- TECH:END -->
+ - [Joe Rogan show returns to Apple Podcasts](https://appleinsider.com/articles/24/02/09/joe-rogan-show-returns-to-apple-podcasts?utm_medium=rss)
+ - [How Palantir embedded itself in the day-to-day work of Ukraine&#39;s wartime government in an unprecedented way, as Ukraine becomes a laboratory for military tech &lpar;Vera Bergengruen/TIME&rpar;](http://www.techmeme.com/240209/p8#a240209p8)
+ - [Bluesky CEO Jay Graber Says She Won’t ‘Enshittify the Network With Ads’](https://www.wired.com/story/bluesky-ceo-jay-graber-wont-enshittify-ads/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
