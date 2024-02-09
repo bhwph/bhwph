@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Icelandic worker trying to stop a tide of lava today](http://9gag.com/gag/aREY8LG)
- - 😝 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
- - 👉 [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)<!-- MEMES:END -->
+ - 6️⃣ [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
+ - 😝 [Disappearing trick](http://9gag.com/gag/a4oDmZm)
+ - 👉 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)<!-- MEMES:END -->
 
 --- 
 
