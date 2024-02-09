@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [EQUALITY of EQUALS -- If you think YOU in your RELIGION are better than others!, YOU DON&#39;T FIT INTO OUR SOCIETY.](http://9gag.com/gag/aWGwyMn)
- - 😝 [I&#39;m batman](http://9gag.com/gag/avQ3qqq)
- - 👉 [You don&#39;t know who will tell](http://9gag.com/gag/aKErZvQ)<!-- MEMES:END -->
+ - 6️⃣ [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
+ - 😝 [No subtitles needed, you wouldn\u2019t read them anyway](http://9gag.com/gag/aGEWrg0)
+ - 👉 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)<!-- MEMES:END -->
 
 --- 
 
