@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Made me crave for some delicious greasy fried chicken](http://9gag.com/gag/aGEWNOn)
- - 😝 [Average Balkan Driver](http://9gag.com/gag/aGEWr7w)
- - 👉 [One&#39;s a fake, the other is a victim.](http://9gag.com/gag/abv9KYp)<!-- MEMES:END -->
+ - 6️⃣ [Fact](http://9gag.com/gag/az20DxK)
+ - 😝 [I&#39;m sure many of you dads would do the same. Movie: Finestkind](http://9gag.com/gag/agoPbA1)
+ - 👉 [Bro is on a mission](http://9gag.com/gag/aYV2d50)<!-- MEMES:END -->
 
 --- 
 
