@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Pixel is getting a new Google Play System update after months](https://www.androidauthority.com/google-play-system-update-pixels-january-2024-3412763/)
- - [Stockholm-based Xensam, which offers AI-based tools for software asset management, raised $40M from Expedition Growth Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240209/p2#a240209p2)
- - [John Walker, a computer programmer and co-founder of 3D design software maker Autodesk, died on February 2 at the age of 75 &lpar;Steven Sinofsky/@stevesi&rpar;](http://www.techmeme.com/240209/p1#a240209p1)<!-- TECH:END -->
+ - [It’s not just you: Snapchat is down, and users are unable to send snaps or texts](https://www.androidauthority.com/snapchat-is-down-3412787/)
+ - [Is Snapchat not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/snapchat-not-working-how-to-fix-977763/)
+ - [The next Pixel feature drop could come with these new features](https://www.androidauthority.com/march-2024-pixel-feature-drop-features-3412064/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
