@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X signs a two-year deal with the WWE for a new exclusive weekly video series called WWE Speed featuring timed matches of 5 minutes or less, coming spring 2024 &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240208/p46#a240208p46)
- - [Best Portable Jump Starter Deals: Savings of Up to $122 Off Top Brands     - CNET](https://www.cnet.com/roadshow/news/best-portable-jump-starter-deals/#ftag=CAD590a51e)
- - [Best Collagen Powders for 2024     - CNET](https://www.cnet.com/health/nutrition/best-collagen-powder/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft Visual Studio Professional 2022 gets a hefty 92% discount](https://appleinsider.com/articles/24/02/09/microsoft-visual-studio-professional-2022-gets-a-hefty-92-discount?utm_medium=rss)
+ - [Ezra, which offers AI-powered full-body MRI scans to detect cancer, raised $21M led by Healthier Capital and FirstMark Capital, taking its total funding to $41M &lpar;AlleyWatch&rpar;](http://www.techmeme.com/240208/p49#a240208p49)
+ - [Best Dishwasher Features of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-dishwasher-features/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
