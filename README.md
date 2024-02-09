@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cultured people have sticks](http://9gag.com/gag/abv9dor)
- - 😝 [Healthy inside, Fresh outside](http://9gag.com/gag/az20BVx)
- - 👉 [Bro is on a mission](http://9gag.com/gag/aYV2d50)<!-- MEMES:END -->
+ - 6️⃣ [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
+ - 😝 [Noo.](http://9gag.com/gag/aBd7MrN)
+ - 👉 [Last line is a cultural thing](http://9gag.com/gag/aWGwPjA)<!-- MEMES:END -->
 
 --- 
 
