@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s the value of Apple&#39;s Vision Pro spatial computing?](https://appleinsider.com/articles/24/02/09/whats-the-value-of-apples-vision-pro-spatial-computing?utm_medium=rss)
- - [Here’s the Thing AI Just Can’t Do](https://www.wired.com/story/plaintext-the-thing-ai-just-cant-do/)
- - [Taylor Swift Will Define Super Bowl 2024 Just by Showing Up](https://www.wired.com/story/taylor-swift-super-bowl-2024-conspiracy-theories-travis-kelce-attention-economy/)<!-- TECH:END -->
+ - [Disney is testing a contextual ad tool dubbed &quot;magic words&quot; for Disney+ and Hulu that uses AI to analyze scenes and identify contents, brands, images, and mood &lpar;Dawn Chmielewski/Reuters&rpar;](http://www.techmeme.com/240209/p16#a240209p16)
+ - [Police take months to arrest stalker identified by AirTag](https://appleinsider.com/articles/24/02/09/police-take-months-to-arrest-stalker-identified-by-airtag?utm_medium=rss)
+ - [Nothing Phone 2a renders are ‘inaccurate,’ says the site that leaked them](https://www.androidauthority.com/nothing-phone-2a-renders-wrong-3413012/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
