@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [20% Off TurboTax: You&#39;ve Got Less Than a Week Before This Discount Disappears     - CNET](https://www.cnet.com/deals/20-off-turbotax-youve-got-less-than-a-week-before-this-discount-disappears/#ftag=CAD590a51e)
- - [Child Tax Credit Expansion Bill: How Much Money Could You Receive if It&#39;s Approved?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-expansion-bill-how-much-money-could-you-receive-if-its-approved/#ftag=CAD590a51e)
- - [Man City vs. Everton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-everton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Those &#39;Bottles Saved&#39; Counters on Water Filling Stations Are Way Off. Does It Matter?](https://www.wired.com/story/bottles-saved-counters-on-elkay-water-filling-stations-inaccurate/)
+ - [How to Watch Super Bowl LVIII &lpar;2024&rpar;: Usher Halftime Show, Puppy Bowl, Taylor Swift](https://www.wired.com/story/how-to-watch-super-bowl-2024-halftime-show-puppy-bowl/)
+ - [10 Best Deals: Apparel and Outdoor Gear](https://www.wired.com/story/weekend-deals-feb-10-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
