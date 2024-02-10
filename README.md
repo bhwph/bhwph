@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s iPhone app  gets better digital car key support with ultra wideband](https://www.theverge.com/2024/2/10/24068736/tesla-iphone-digital-car-key-ultra-wideband)
- - [Did you know: This is the best-selling phone of all time](https://www.androidauthority.com/did-you-know-best-selling-phone-3412851/)
- - [IPhone 13 Deals: Get an iPhone 13 for Free With New Line or Save With Trade-In     - CNET](https://www.cnet.com/deals/best-iphone-13-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some news creators and journalists, who moved to Threads from X, criticize Meta after it announced it would stop recommending political content on Threads &lpar;Washington Post&rpar;](http://www.techmeme.com/240210/p10#a240210p10)
+ - [Download these aesthetic wallpapers for your phone](https://www.androidauthority.com/aesthetic-wallpapers-for-phone-3412109/)
+ - [Tesla&#39;s Ultra Wideband update improves how you unlock cars with an iPhone](https://appleinsider.com/articles/24/02/10/teslas-ultra-wideband-update-improves-how-you-unlock-cars-with-an-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
