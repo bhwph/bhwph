@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I played 50 Steam Next Fest demos this week, and these are my top 5](https://www.pcgamer.com/i-played-50-steam-next-fest-demos-this-week-and-these-are-my-top-5)
  - [Ark: Survival Ascended devs made a &#39;Super Steamboat Willie&#39; platformer in the survival game to demonstrate new mod tools](https://www.pcgamer.com/ark-simple-game-framework-announcement)
- - [The makers of Palworld are desperate to hire more developers: &#39;We are overwhelmingly short of people&#39;](https://www.pcgamer.com/the-makers-of-palworld-are-desperate-to-hire-more-developers-we-are-overwhelmingly-short-of-people)
- - [Sit back down, Tarnished: FromSoftware&#39;s parent company has poured cold water on an imminent Elden Ring DLC release](https://www.pcgamer.com/sit-back-down-tarnished-fromsoftwares-parent-company-has-poured-cold-water-on-an-imminent-elden-ring-dlc-release)<!-- GAME:END -->
+ - [The makers of Palworld are desperate to hire more developers: &#39;We are overwhelmingly short of people&#39;](https://www.pcgamer.com/the-makers-of-palworld-are-desperate-to-hire-more-developers-we-are-overwhelmingly-short-of-people)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
