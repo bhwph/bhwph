@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I played 50 Steam Next Fest demos this week, and these are my top 5](https://www.pcgamer.com/i-played-50-steam-next-fest-demos-this-week-and-these-are-my-top-5)
- - [Ark: Survival Ascended devs made a &#39;Super Steamboat Willie&#39; platformer in the survival game to demonstrate new mod tools](https://www.pcgamer.com/ark-simple-game-framework-announcement)
- - [The makers of Palworld are desperate to hire more developers: &#39;We are overwhelmingly short of people&#39;](https://www.pcgamer.com/the-makers-of-palworld-are-desperate-to-hire-more-developers-we-are-overwhelmingly-short-of-people)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Saturday, February 10](https://www.pcgamer.com/wordle-today-answer-february-10-2024)
+ - [True Detective: Night Country episode 5 solves one mystery and opens up a few more](https://www.polygon.com/24065500/true-detective-night-country-episode-5-review-ending)
+ - [I played 50 Steam Next Fest demos this week, and these are my top 5](https://www.pcgamer.com/i-played-50-steam-next-fest-demos-this-week-and-these-are-my-top-5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
