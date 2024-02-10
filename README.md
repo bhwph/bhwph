@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are 22 last-minute gifts you can still grab ahead of Valentine’s Day](https://www.theverge.com/24063707/valentines-day-gifts-best-last-minute-tech-digital-ideas-earbuds-streaming)
- - [Examining the Pixel 9 leaks: Is Google stealing from Apple again?](https://www.androidauthority.com/google-pixel-9-leaks-examine-3410460/)
- - [Super Bowl 2024: How to Watch, Stream Chiefs vs. 49ers With or Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/super-bowl-2024-how-to-watch-stream-chiefs-vs-49ers-with-or-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use the Microsoft Copilot app on macOS](https://appleinsider.com/inside/macos/tips/how-to-use-microsoft-copilot-app-on-macos?utm_medium=rss)
+ - [Homey Pro is the best smart home product in my house…until it isn’t](https://www.androidauthority.com/homey-pro-review-3410119/)
+ - [The Best Women&#39;s Hiking and Adventure Shoes and Boots for 2024     - CNET](https://www.cnet.com/health/fitness/best-womens-hiking-shoes-and-boots/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
