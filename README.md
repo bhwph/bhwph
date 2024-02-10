@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [France&#39;s privacy regulator says data on 33M+ people, about half the nation&#39;s population, was compromised in a cyberattack on two health insurance firms in Jan. &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/240209/p27#a240209p27)
- - [Tax Season 2024: IRS Issued $3.6 Billion in Tax Refunds in the First Week of Filing     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-irs-issued-3-6-billion-in-tax-refunds-in-the-first-week-of-filing/#ftag=CAD590a51e)
- - [What&#39;s the value of Apple&#39;s Vision Pro spatial computing?](https://appleinsider.com/articles/24/02/09/whats-the-value-of-apples-vision-pro-spatial-computing?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok’s attempt to stall DMA antitrust rules rejected by EU court](https://www.theverge.com/2024/2/9/24068129/tiktok-interim-measure-rejected-eu-general-court)
+ - [Elon Musk switches the location of Neuralink&#39;s incorporation from Delaware to Nevada, after a Delaware judge struck down Musk&#39;s $55B Tesla pay package last week &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240209/p28#a240209p28)
+ - [Best Mattress Deals: Early Presidents Day Offers on Top Mattress Brands     - CNET](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
