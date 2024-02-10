@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Those &#39;Bottles Saved&#39; Counters on Water Filling Stations Are Way Off. Does It Matter?](https://www.wired.com/story/bottles-saved-counters-on-elkay-water-filling-stations-inaccurate/)
- - [How to Watch Super Bowl LVIII &lpar;2024&rpar;: Usher Halftime Show, Puppy Bowl, Taylor Swift](https://www.wired.com/story/how-to-watch-super-bowl-2024-halftime-show-puppy-bowl/)
- - [10 Best Deals: Apparel and Outdoor Gear](https://www.wired.com/story/weekend-deals-feb-10-2024/)<!-- TECH:END -->
+ - [Tuxedo InfinityBook Pro Review &lpar;2024&rpar;: A Top Linux Laptop](https://www.wired.com/review/tuxedo-infinitybook-pro-14-linux-laptop/)
+ - [How 3 Million ‘Hacked’ Toothbrushes Became a Cyber Urban Legend](https://www.wired.com/story/3-million-hacked-toothbrushes-urban-legend/)
+ - [Apple May Be Plotting Its First Foldable Phone](https://www.wired.com/story/apple-foldable-phone-porsche-toyota-evs-slack-gear-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
