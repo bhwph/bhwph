@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [From Taylor to trailers, here are Polygon’s Super Bowl predictions](https://www.polygon.com/24067877/super-bowl-2024-taylor-swift-usher-half-time-trailers)
- - [Palworld, Persona 3 Reload, And More Of The Week&#39;s Essential Game Tips](https://kotaku.com/palworld-persona-3-reload-and-more-of-the-weeks-essen-1851243134)
- - [The first great game of 2024 is already on sale at Target](https://www.polygon.com/deals/24066436/best-gaming-deals-amazon-target-super-bowl-deal-sale)<!-- GAME:END -->
+ - [Lethal Company dev thinking updates should be &quot;bigger and less frequent&quot; and &quot;like I broke into an alien zoo&quot;](https://www.pcgamer.com/lethal-company-dev-thinking-updates-should-be-bigger-and-less-frequent-and-like-i-broke-into-an-alien-zoo)
+ - [Adult Swim’s Ninja Kamui is a brutal, fast-paced revenge thriller](https://www.polygon.com/24066444/ninja-kamui-adult-swim-anime-impressions)
+ - [From Taylor to trailers, here are Polygon’s Super Bowl predictions](https://www.polygon.com/24067877/super-bowl-2024-taylor-swift-usher-half-time-trailers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
