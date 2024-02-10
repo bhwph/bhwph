@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why tho](http://9gag.com/gag/axoXr0n)
- - 😝 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
- - 👉 [Not too perky, not too saggy...](http://9gag.com/gag/az20z4x)<!-- MEMES:END -->
+ - 6️⃣ [Meow Meow](http://9gag.com/gag/agoPbYW)
+ - 😝 [Why tho](http://9gag.com/gag/axoXr0n)
+ - 👉 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)<!-- MEMES:END -->
 
 --- 
 
