@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best thrillers to watch on Netflix this February](https://www.polygon.com/what-to-watch/2024/2/10/24063357/best-thriller-movies-netflix-watch-february-2024)
- - [Today&#39;s Wordle answer for Saturday, February 10](https://www.pcgamer.com/wordle-today-answer-february-10-2024)
- - [True Detective: Night Country episode 5 solves one mystery and opens up a few more](https://www.polygon.com/24065500/true-detective-night-country-episode-5-review-ending)<!-- GAME:END -->
+ - [Palworld, Persona 3 Reload, And More Of The Week&#39;s Essential Game Tips](https://kotaku.com/palworld-persona-3-reload-and-more-of-the-weeks-essen-1851243134)
+ - [The first great game of 2024 is already on sale at Target](https://www.polygon.com/deals/24066436/best-gaming-deals-amazon-target-super-bowl-deal-sale)
+ - [Xbox Exclusivity Chaos, Suicide Squad Leaks, And More Of The Week&#39;s Biggest Gaming News](https://kotaku.com/xbox-ports-exclusives-gaming-news-starfield-1851243133)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
