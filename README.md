@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tuxedo InfinityBook Pro Review &lpar;2024&rpar;: A Top Linux Laptop](https://www.wired.com/review/tuxedo-infinitybook-pro-14-linux-laptop/)
- - [How 3 Million ‘Hacked’ Toothbrushes Became a Cyber Urban Legend](https://www.wired.com/story/3-million-hacked-toothbrushes-urban-legend/)
- - [Apple May Be Plotting Its First Foldable Phone](https://www.wired.com/story/apple-foldable-phone-porsche-toyota-evs-slack-gear-roundup/)<!-- TECH:END -->
+ - [Here are 22 last-minute gifts you can still grab ahead of Valentine’s Day](https://www.theverge.com/24063707/valentines-day-gifts-best-last-minute-tech-digital-ideas-earbuds-streaming)
+ - [Examining the Pixel 9 leaks: Is Google stealing from Apple again?](https://www.androidauthority.com/google-pixel-9-leaks-examine-3410460/)
+ - [Super Bowl 2024: How to Watch, Stream Chiefs vs. 49ers With or Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/super-bowl-2024-how-to-watch-stream-chiefs-vs-49ers-with-or-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
