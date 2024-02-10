@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use the Microsoft Copilot app on macOS](https://appleinsider.com/inside/macos/tips/how-to-use-microsoft-copilot-app-on-macos?utm_medium=rss)
- - [Homey Pro is the best smart home product in my house…until it isn’t](https://www.androidauthority.com/homey-pro-review-3410119/)
- - [The Best Women&#39;s Hiking and Adventure Shoes and Boots for 2024     - CNET](https://www.cnet.com/health/fitness/best-womens-hiking-shoes-and-boots/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla’s iPhone app  gets better digital car key support with ultra wideband](https://www.theverge.com/2024/2/10/24068736/tesla-iphone-digital-car-key-ultra-wideband)
+ - [Did you know: This is the best-selling phone of all time](https://www.androidauthority.com/did-you-know-best-selling-phone-3412851/)
+ - [IPhone 13 Deals: Get an iPhone 13 for Free With New Line or Save With Trade-In     - CNET](https://www.cnet.com/deals/best-iphone-13-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
