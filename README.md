@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)
- - 😝 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
- - 👉 [Disappearing trick](http://9gag.com/gag/a4oDmZm)<!-- MEMES:END -->
+ - 6️⃣ [Why tho](http://9gag.com/gag/axoXr0n)
+ - 😝 [China as the correct vaccine for this cult](http://9gag.com/gag/anzLwoq)
+ - 👉 [Aaannd yes, that&#39;s how he won!](http://9gag.com/gag/aOxXEwE)<!-- MEMES:END -->
 
 --- 
 
