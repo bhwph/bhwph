@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hideo Kojima says Physint&#39;s happening because you lot just wouldn&#39;t stop asking for &#39;a new Metal Gear&#39; and, after a brush with death, he&#39;s decided that&#39;s not a bad idea](https://www.pcgamer.com/hideo-kojima-says-physints-happening-because-you-lot-just-wouldnt-stop-asking-for-a-new-metal-gear-and-after-a-brush-with-death-hes-decided-thats-not-a-bad-idea)
- - [The next Predator movie already sounds like a great direction for the franchise](https://www.polygon.com/24067944/prey-2-badlands-predator-movie)
- - [Blizzard finally has a solution for the unlucky Diablo 4 players with Uber Uniques they don&#39;t want](https://www.pcgamer.com/blizzard-finally-has-a-solution-for-the-unlucky-diablo-4-players-with-uber-uniques-they-dont-want)<!-- GAME:END -->
+ - [Ark: Survival Ascended devs made a &#39;Super Steamboat Willie&#39; platformer in the survival game to demonstrate new mod tools](https://www.pcgamer.com/ark-simple-game-framework-announcement)
+ - [The makers of Palworld are desperate to hire more developers: &#39;We are overwhelmingly short of people&#39;](https://www.pcgamer.com/the-makers-of-palworld-are-desperate-to-hire-more-developers-we-are-overwhelmingly-short-of-people)
+ - [Sit back down, Tarnished: FromSoftware&#39;s parent company has poured cold water on an imminent Elden Ring DLC release](https://www.pcgamer.com/sit-back-down-tarnished-fromsoftwares-parent-company-has-poured-cold-water-on-an-imminent-elden-ring-dlc-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
