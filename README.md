@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Lizard trapped inside a man tries to hold it together](http://9gag.com/gag/aVbN62y)
- - 😝 [Education doesn&#39;t mean intelligence](http://9gag.com/gag/a3ZVD75)
- - 👉 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)<!-- MEMES:END -->
+ - 😝 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)
+ - 👉 [Not too perky, not too saggy...](http://9gag.com/gag/az20z4x)<!-- MEMES:END -->
 
 --- 
 
