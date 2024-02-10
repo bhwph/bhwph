@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why tho](http://9gag.com/gag/axoXr0n)
- - 😝 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
- - 👉 [Education doesn&#39;t mean intelligence](http://9gag.com/gag/a3ZVD75)<!-- MEMES:END -->
+ - 6️⃣ [Wishing you this level of joy](http://9gag.com/gag/aoKbQmg)
+ - 😝 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)
+ - 👉 [Even in Berlin most offers look like this](http://9gag.com/gag/a2Kn6MY)<!-- MEMES:END -->
 
 --- 
 
