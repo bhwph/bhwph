@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [From Taylor to trailers, here are Polygon’s Super Bowl predictions](https://www.polygon.com/24067877/super-bowl-2024-taylor-swift-usher-half-time-trailers)
  - [Palworld, Persona 3 Reload, And More Of The Week&#39;s Essential Game Tips](https://kotaku.com/palworld-persona-3-reload-and-more-of-the-weeks-essen-1851243134)
- - [The first great game of 2024 is already on sale at Target](https://www.polygon.com/deals/24066436/best-gaming-deals-amazon-target-super-bowl-deal-sale)
- - [Xbox Exclusivity Chaos, Suicide Squad Leaks, And More Of The Week&#39;s Biggest Gaming News](https://kotaku.com/xbox-ports-exclusives-gaming-news-starfield-1851243133)<!-- GAME:END -->
+ - [The first great game of 2024 is already on sale at Target](https://www.polygon.com/deals/24066436/best-gaming-deals-amazon-target-super-bowl-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
