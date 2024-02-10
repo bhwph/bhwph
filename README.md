@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
- - 😝 [Disappearing trick](http://9gag.com/gag/a4oDmZm)
- - 👉 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)<!-- MEMES:END -->
+ - 6️⃣ [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)
+ - 😝 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
+ - 👉 [Disappearing trick](http://9gag.com/gag/a4oDmZm)<!-- MEMES:END -->
 
 --- 
 
