@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 common Google Chat scams and how to avoid them](https://www.androidauthority.com/common-google-chat-scams-3413091/)
- - [Joint filing: Apple and Rivos say they reached a deal to settle Apple&#39;s 2022 lawsuit accusing the SoC startup of poaching 40+ engineers to steal trade secrets &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240209/p25#a240209p25)
- - [Release dates and trailers for the biggest streaming movies and TV shows in 2024](https://www.theverge.com/24065499/netflix-disney-plus-max-release-date-trailer-streaming-calendar)<!-- TECH:END -->
+ - [France&#39;s privacy regulator says data on 33M+ people, about half the nation&#39;s population, was compromised in a cyberattack on two health insurance firms in Jan. &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/240209/p27#a240209p27)
+ - [Tax Season 2024: IRS Issued $3.6 Billion in Tax Refunds in the First Week of Filing     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-irs-issued-3-6-billion-in-tax-refunds-in-the-first-week-of-filing/#ftag=CAD590a51e)
+ - [What&#39;s the value of Apple&#39;s Vision Pro spatial computing?](https://appleinsider.com/articles/24/02/09/whats-the-value-of-apples-vision-pro-spatial-computing?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
