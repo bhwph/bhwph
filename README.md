@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why tho](http://9gag.com/gag/axoXr0n)
- - 😝 [China as the correct vaccine for this cult](http://9gag.com/gag/anzLwoq)
- - 👉 [Aaannd yes, that&#39;s how he won!](http://9gag.com/gag/aOxXEwE)<!-- MEMES:END -->
+ - 6️⃣ [When I show her my 100%](http://9gag.com/gag/aBd7e61)
+ - 😝 [Mexican news reporter](http://9gag.com/gag/a6qAe62)
+ - 👉 [Is this fo real ?!](http://9gag.com/gag/agoPpvW)<!-- MEMES:END -->
 
 --- 
 
