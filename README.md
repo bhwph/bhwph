@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meow Meow](http://9gag.com/gag/agoPbYW)
- - 😝 [Why tho](http://9gag.com/gag/axoXr0n)
- - 👉 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)<!-- MEMES:END -->
+ - 6️⃣ [Why tho](http://9gag.com/gag/axoXr0n)
+ - 😝 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
+ - 👉 [Education doesn&#39;t mean intelligence](http://9gag.com/gag/a3ZVD75)<!-- MEMES:END -->
 
 --- 
 
