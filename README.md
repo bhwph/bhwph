@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini on Android is more useful than regular Assistant thanks to Google services integration, but it&#39;s not good at picking up on context and can be frustrating &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240210/p4#a240210p4)
- - [Best PlayStation Deals: Save on Console Bundles, Headsets &amp; Games     - CNET](https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e)
- - [Bollegraaf, the world&#39;s biggest builder of recycling plants, partners with AI startup Greyparrot to retrofit thousands of plants with AI tools for sorting waste &lpar;Nicol&amp;aacute;s Rivero/Washington Post&rpar;](http://www.techmeme.com/240210/p3#a240210p3)<!-- TECH:END -->
+ - [20% Off TurboTax: You&#39;ve Got Less Than a Week Before This Discount Disappears     - CNET](https://www.cnet.com/deals/20-off-turbotax-youve-got-less-than-a-week-before-this-discount-disappears/#ftag=CAD590a51e)
+ - [Child Tax Credit Expansion Bill: How Much Money Could You Receive if It&#39;s Approved?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-expansion-bill-how-much-money-could-you-receive-if-its-approved/#ftag=CAD590a51e)
+ - [Man City vs. Everton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-everton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
