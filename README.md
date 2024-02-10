@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Is this fo real ?!](http://9gag.com/gag/agoPpvW)
- - 😝 [Not too perky, not too saggy...](http://9gag.com/gag/az20z4x)
- - 👉 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)<!-- MEMES:END -->
+ - 😝 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
+ - 👉 [Best friends.. Oh, wait!](http://9gag.com/gag/a1PGnVw)<!-- MEMES:END -->
 
 --- 
 
