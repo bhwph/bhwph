@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wishing you this level of joy](http://9gag.com/gag/aoKbQmg)
- - 😝 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)
- - 👉 [Even in Berlin most offers look like this](http://9gag.com/gag/a2Kn6MY)<!-- MEMES:END -->
+ - 6️⃣ [Lizard trapped inside a man tries to hold it together](http://9gag.com/gag/aVbN62y)
+ - 😝 [Education doesn&#39;t mean intelligence](http://9gag.com/gag/a3ZVD75)
+ - 👉 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)<!-- MEMES:END -->
 
 --- 
 
