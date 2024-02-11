@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Mac mini M2 Pro drops to $1,195 during latest price war](https://appleinsider.com/articles/24/02/11/apples-mac-mini-m2-pro-drops-to-1195-during-latest-price-war?utm_medium=rss)
- - [Apple TV+ &#39;Lessons in Chemistry&#39; wins at DGA Awards](https://appleinsider.com/articles/24/02/11/apple-tv-lessons-in-chemistry-wins-at-dga-awards?utm_medium=rss)
- - [3 Types of Expert-Approved Exercises to Do to Stay Healthy as You Age     - CNET](https://www.cnet.com/health/fitness/3-types-of-expert-approved-exercises-to-do-to-stay-healthy-as-you-age/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The latest iOS beta makes it easier to use Apple Cash](https://www.theverge.com/2024/2/11/24069725/ios-17-3-beta-apple-cash-card-number-generator)
+ - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)
+ - [As SBF prepares to face sentencing in March, FTX customers look at the possibility of recouping their money, stemming largely from the crypto market&#39;s rebound &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240211/p7#a240211p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
