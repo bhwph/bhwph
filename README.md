@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ashkenazi Jewish](http://9gag.com/gag/aPgK0KB)
- - 😝 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
- - 👉 [Conceal carry](http://9gag.com/gag/anzLmb5)<!-- MEMES:END -->
+ - 6️⃣ [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)
+ - 😝 [It&#39;s easy to copy stuff?](http://9gag.com/gag/aYV2347)
+ - 👉 [Hollywood actress Selma Blair has been cancelled and deleted her social media accounts for posting this comment.](http://9gag.com/gag/aA0o8DZ)<!-- MEMES:END -->
 
 --- 
 
