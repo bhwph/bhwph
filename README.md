@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waiting for a 1099-K to File Your Taxes? Why PayPal, Venmo and Cash App Users Won&#39;t Get This Form     - CNET](https://www.cnet.com/personal-finance/taxes/waiting-for-a-1099-k-to-file-your-taxes-why-paypal-venmo-and-cash-app-users-wont-get-this-form/#ftag=CAD590a51e)
  - [How the erosion of competition, regulation, and worker power ushered in the &quot;enshittocene&quot;, an era defined by the slow decay of online platforms like Facebook &lpar;Cory Doctorow/Financial Times&rpar;](http://www.techmeme.com/240211/p2#a240211p2)
- - [The RBI&#39;s clampdown on Paytm has created confusion for millions of customers and raises questions about the Indian central bank&#39;s opacity and regulatory actions &lpar;Menaka Doshi/Bloomberg&rpar;](http://www.techmeme.com/240211/p1#a240211p1)
- - [Best Cooler of 2024     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The RBI&#39;s clampdown on Paytm has created confusion for millions of customers and raises questions about the Indian central bank&#39;s opacity and regulatory actions &lpar;Menaka Doshi/Bloomberg&rpar;](http://www.techmeme.com/240211/p1#a240211p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
