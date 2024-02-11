@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This game wants to blend survival and tycoon games in a race to build a moon colony](https://www.pcgamer.com/this-game-wants-to-blend-survival-and-tycoon-games-in-a-race-to-build-a-moon-colony)
  - [Narrative, open-world survival in The Planet Crafter will have a co-op mode and a 1.0 release this year](https://www.pcgamer.com/narrative-open-world-survival-in-the-planet-crafter-will-have-a-co-op-mode-and-a-10-release-this-year)
- - [Lethal Company dev thinking updates should be &quot;bigger and less frequent&quot; and &quot;like I broke into an alien zoo&quot;](https://www.pcgamer.com/lethal-company-dev-thinking-updates-should-be-bigger-and-less-frequent-and-like-i-broke-into-an-alien-zoo)
- - [Adult Swim’s Ninja Kamui is a brutal, fast-paced revenge thriller](https://www.polygon.com/24066444/ninja-kamui-adult-swim-anime-impressions)<!-- GAME:END -->
+ - [Lethal Company dev thinking updates should be &quot;bigger and less frequent&quot; and &quot;like I broke into an alien zoo&quot;](https://www.pcgamer.com/lethal-company-dev-thinking-updates-should-be-bigger-and-less-frequent-and-like-i-broke-into-an-alien-zoo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
