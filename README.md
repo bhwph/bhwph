@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, February 11](https://www.pcgamer.com/wordle-today-answer-february-11-2024)
  - [This game wants to blend survival and tycoon games in a race to build a moon colony](https://www.pcgamer.com/this-game-wants-to-blend-survival-and-tycoon-games-in-a-race-to-build-a-moon-colony)
- - [Narrative, open-world survival in The Planet Crafter will have a co-op mode and a 1.0 release this year](https://www.pcgamer.com/narrative-open-world-survival-in-the-planet-crafter-will-have-a-co-op-mode-and-a-10-release-this-year)
- - [Lethal Company dev thinking updates should be &quot;bigger and less frequent&quot; and &quot;like I broke into an alien zoo&quot;](https://www.pcgamer.com/lethal-company-dev-thinking-updates-should-be-bigger-and-less-frequent-and-like-i-broke-into-an-alien-zoo)<!-- GAME:END -->
+ - [Narrative, open-world survival in The Planet Crafter will have a co-op mode and a 1.0 release this year](https://www.pcgamer.com/narrative-open-world-survival-in-the-planet-crafter-will-have-a-co-op-mode-and-a-10-release-this-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
