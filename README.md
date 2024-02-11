@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A crowd destroyed a driverless Waymo car in San Francisco](https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town)
- - [How to Finance Your Solar Panels: Cash, Loan, Lease and More     - CNET](https://www.cnet.com/home/energy-and-utilities/how-to-finance-your-solar-panels-cash-loan-lease-and-more/#ftag=CAD590a51e)
- - [Letter and source: Xiaomi told India&#39;s government that Chinese component suppliers are wary about setting up operations in the country due to heavy scrutiny &lpar;Reuters&rpar;](http://www.techmeme.com/240211/p6#a240211p6)<!-- TECH:END -->
+ - [Apple&#39;s Mac mini M2 Pro drops to $1,195 during latest price war](https://appleinsider.com/articles/24/02/11/apples-mac-mini-m2-pro-drops-to-1195-during-latest-price-war?utm_medium=rss)
+ - [Apple TV+ &#39;Lessons in Chemistry&#39; wins at DGA Awards](https://appleinsider.com/articles/24/02/11/apple-tv-lessons-in-chemistry-wins-at-dga-awards?utm_medium=rss)
+ - [3 Types of Expert-Approved Exercises to Do to Stay Healthy as You Age     - CNET](https://www.cnet.com/health/fitness/3-types-of-expert-approved-exercises-to-do-to-stay-healthy-as-you-age/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
