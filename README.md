@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What](http://9gag.com/gag/aPgK5yB)
- - 😝 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)
- - 👉 [Title](http://9gag.com/gag/abv9Nnr)<!-- MEMES:END -->
+ - 6️⃣ [Title](http://9gag.com/gag/abv9Nnr)
+ - 😝 [It&#39;s easy to copy stuff?](http://9gag.com/gag/aYV2347)
+ - 👉 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)<!-- MEMES:END -->
 
 --- 
 
