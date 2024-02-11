@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some news creators and journalists, who moved to Threads from X, criticize Meta after it announced it would stop recommending political content on Threads &lpar;Washington Post&rpar;](http://www.techmeme.com/240210/p10#a240210p10)
- - [Download these aesthetic wallpapers for your phone](https://www.androidauthority.com/aesthetic-wallpapers-for-phone-3412109/)
- - [Tesla&#39;s Ultra Wideband update improves how you unlock cars with an iPhone](https://appleinsider.com/articles/24/02/10/teslas-ultra-wideband-update-improves-how-you-unlock-cars-with-an-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [How to watch Super Bowl LVIII on iPhone, iPad, Mac, &amp; Apple TV](https://appleinsider.com/articles/24/02/11/how-to-watch-super-bowl-lviii-on-iphone-ipad-mac-apple-tv?utm_medium=rss)
+ - [Q&amp;A with Bluesky CEO Jay Graber about opening the service to the public, not &quot;enshittifying&quot; it with ads, crowdsourcing deepfake porn moderation, and more &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240210/p11#a240210p11)
+ - [Star Wars Episode I: The Phantom Menace will hit theaters again in May](https://www.theverge.com/2024/2/10/24068931/star-wars-phantom-menace-theater-showings-25th-anniversary-may)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
