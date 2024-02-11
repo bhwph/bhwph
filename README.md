@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Apex Legends Season 20 Breakout release?](https://www.polygon.com/guides/24067570/apex-legends-season-20-release-time-start-date-launch)
- - [The post-Super Bowl show Tracker is the most 2024 procedural imaginable](https://www.polygon.com/24064045/tracker-cbs-review-post-super-bowl-what-is)
- - [FF7 Rebirth, Xbox Drama, And More Of This Week&#39;s Hottest Takes](https://kotaku.com/kotaku-opinion-review-ff7-rebirth-demo-xbox-honkai-1851243136)<!-- GAME:END -->
+ - [The best arctic horror stories to watch after True Detective: Night Country](https://www.polygon.com/what-to-watch/24063584/best-arctic-horror-movies-true-detective-night-country-30-days-of-night-the-terror-the-thing)
+ - [Helldivers 2 is now PlayStation&#39;s biggest PC launch by a factor of two](https://www.pcgamer.com/helldivers-2-is-now-playstations-biggest-pc-launch-by-a-factor-of-two)
+ - [What time does Apex Legends Season 20 Breakout release?](https://www.polygon.com/guides/24067570/apex-legends-season-20-release-time-start-date-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
