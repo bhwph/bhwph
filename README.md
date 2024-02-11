@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
- - 😝 [Back when athletes had class and showed ture sportsmanship](http://9gag.com/gag/ay2OGnr)
- - 👉 [Hollywood actress Selma Blair has been cancelled and deleted her social media accounts for posting this comment.](http://9gag.com/gag/aA0o8DZ)<!-- MEMES:END -->
+ - 6️⃣ [What](http://9gag.com/gag/aPgK5yB)
+ - 😝 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)
+ - 👉 [Title](http://9gag.com/gag/abv9Nnr)<!-- MEMES:END -->
 
 --- 
 
