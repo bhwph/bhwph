@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A giant snake monster ruined my apple-fueled medieval utopia in the Steam Next Fest demo for this settlement sim](https://www.pcgamer.com/a-giant-snake-monster-ruined-my-apple-fueled-medieval-utopia-in-the-steam-next-fest-demo-for-this-settlement-sim)
  - [The best arctic horror stories to watch after True Detective: Night Country](https://www.polygon.com/what-to-watch/24063584/best-arctic-horror-movies-true-detective-night-country-30-days-of-night-the-terror-the-thing)
- - [Helldivers 2 is now PlayStation&#39;s biggest PC launch by a factor of two](https://www.pcgamer.com/helldivers-2-is-now-playstations-biggest-pc-launch-by-a-factor-of-two)
- - [What time does Apex Legends Season 20 Breakout release?](https://www.polygon.com/guides/24067570/apex-legends-season-20-release-time-start-date-launch)<!-- GAME:END -->
+ - [Helldivers 2 is now PlayStation&#39;s biggest PC launch by a factor of two](https://www.pcgamer.com/helldivers-2-is-now-playstations-biggest-pc-launch-by-a-factor-of-two)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
