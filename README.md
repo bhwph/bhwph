@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Truth hurts](http://9gag.com/gag/aME3MnG)
- - 😝 [`I want fancy..we have fancy at home `](http://9gag.com/gag/adPmDED)
- - 👉 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)<!-- MEMES:END -->
+ - 6️⃣ [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
+ - 😝 [Back when athletes had class and showed ture sportsmanship](http://9gag.com/gag/ay2OGnr)
+ - 👉 [Hollywood actress Selma Blair has been cancelled and deleted her social media accounts for posting this comment.](http://9gag.com/gag/aA0o8DZ)<!-- MEMES:END -->
 
 --- 
 
