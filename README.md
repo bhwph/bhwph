@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)
- - 😝 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
- - 👉 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)<!-- MEMES:END -->
+ - 6️⃣ [Truth hurts](http://9gag.com/gag/aME3MnG)
+ - 😝 [`I want fancy..we have fancy at home `](http://9gag.com/gag/adPmDED)
+ - 👉 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)<!-- MEMES:END -->
 
 --- 
 
