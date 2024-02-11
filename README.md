@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch Super Bowl LVIII &lpar;2024&rpar;: Usher Halftime Show, Puppy Bowl, Taylor Swift](https://www.wired.com/story/how-to-watch-super-bowl-2024-halftime-show-puppy-bowl/)
- - [Vision Pro may become an iPad killer, but some in Apple&#39;s Vision Products Group believe it may take four generations for the headset to reach its full potential &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240211/p5#a240211p5)
- - [Galaxy S24 Live Translate tested: Does it work as advertised?](https://www.androidauthority.com/galaxy-s24-live-translate-phone-calls-3412638/)<!-- TECH:END -->
+ - [A crowd destroyed a driverless Waymo car in San Francisco](https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town)
+ - [How to Finance Your Solar Panels: Cash, Loan, Lease and More     - CNET](https://www.cnet.com/home/energy-and-utilities/how-to-finance-your-solar-panels-cash-loan-lease-and-more/#ftag=CAD590a51e)
+ - [Letter and source: Xiaomi told India&#39;s government that Chinese component suppliers are wary about setting up operations in the country due to heavy scrutiny &lpar;Reuters&rpar;](http://www.techmeme.com/240211/p6#a240211p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
