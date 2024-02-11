@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Kids’ Headphones &lpar;2024&rpar;: Volume-Limiting, Noise-Canceling, and More](https://www.wired.com/gallery/the-best-kids-headphones/)
- - [20 Best Sex Toys &lpar;2024&rpar;: Gender Inclusive, Couples, Solo](https://www.wired.com/gallery/best-sex-toys-and-tech/)
- - [The 5 Best Laptops for Linux—I Install It on Every Laptop I Test](https://www.wired.com/story/best-linux-laptops/)<!-- TECH:END -->
+ - [How to Watch Super Bowl LVIII &lpar;2024&rpar;: Usher Halftime Show, Puppy Bowl, Taylor Swift](https://www.wired.com/story/how-to-watch-super-bowl-2024-halftime-show-puppy-bowl/)
+ - [Vision Pro may become an iPad killer, but some in Apple&#39;s Vision Products Group believe it may take four generations for the headset to reach its full potential &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240211/p5#a240211p5)
+ - [Galaxy S24 Live Translate tested: Does it work as advertised?](https://www.androidauthority.com/galaxy-s24-live-translate-phone-calls-3412638/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
