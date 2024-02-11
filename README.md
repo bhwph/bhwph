@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Justice for Selma. She has been cancelled and deleted for the truth](http://9gag.com/gag/aA0o84R)
- - 😝 [Syndrome of a down](http://9gag.com/gag/armjQMd)
- - 👉 [God bless Texas.](http://9gag.com/gag/aqeqodZ)<!-- MEMES:END -->
+ - 6️⃣ [Ashkenazi Jewish](http://9gag.com/gag/aPgK0KB)
+ - 😝 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
+ - 👉 [Conceal carry](http://9gag.com/gag/anzLmb5)<!-- MEMES:END -->
 
 --- 
 
