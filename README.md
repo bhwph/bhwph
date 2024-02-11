@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
- - 😝 [Idk why the media loves to promote war, here&#39;s a ww1 veteran who is scared of hats](http://9gag.com/gag/anzL3nn)
- - 👉 [Hollywood actress Selma Blair has been cancelled and deleted her social media accounts for posting this comment.](http://9gag.com/gag/aA0o8DZ)<!-- MEMES:END -->
+ - 6️⃣ [No wonder it can split a human with no effort.](http://9gag.com/gag/ay2OAwy)
+ - 😝 [Conceal carry](http://9gag.com/gag/anzLmb5)
+ - 👉 [EQUALITY of EQUALS -- If you think YOU in your RELIGION are better than others!, YOU DON&#39;T FIT INTO OUR SOCIETY.](http://9gag.com/gag/aWGwyMn)<!-- MEMES:END -->
 
 --- 
 
