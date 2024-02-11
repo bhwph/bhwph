@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No wonder it can split a human with no effort.](http://9gag.com/gag/ay2OAwy)
- - 😝 [Conceal carry](http://9gag.com/gag/anzLmb5)
- - 👉 [EQUALITY of EQUALS -- If you think YOU in your RELIGION are better than others!, YOU DON&#39;T FIT INTO OUR SOCIETY.](http://9gag.com/gag/aWGwyMn)<!-- MEMES:END -->
+ - 6️⃣ [Justice for Selma. She has been cancelled and deleted for the truth](http://9gag.com/gag/aA0o84R)
+ - 😝 [Syndrome of a down](http://9gag.com/gag/armjQMd)
+ - 👉 [God bless Texas.](http://9gag.com/gag/aqeqodZ)<!-- MEMES:END -->
 
 --- 
 
