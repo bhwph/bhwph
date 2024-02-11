@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch Usher’s Super Bowl 2024 Halftime Show](https://www.wired.com/story/watch-super-bowl-2024-usher-halftime-show/)
- - [Interview with Mike Lacher and Brian Moore, creators of AI chatbot Goody-2, which was created as a joke and refuses to answer every query to prioritize safety &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240211/p3#a240211p3)
- - [I Tested TurboTax&#39;s New Integration With Credit Karma, and It&#39;s Seamless     - CNET](https://www.cnet.com/personal-finance/taxes/i-tested-turbotaxs-new-integration-with-credit-karma-and-its-seamless/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Kids’ Headphones &lpar;2024&rpar;: Volume-Limiting, Noise-Canceling, and More](https://www.wired.com/gallery/the-best-kids-headphones/)
+ - [20 Best Sex Toys &lpar;2024&rpar;: Gender Inclusive, Couples, Solo](https://www.wired.com/gallery/best-sex-toys-and-tech/)
+ - [The 5 Best Laptops for Linux—I Install It on Every Laptop I Test](https://www.wired.com/story/best-linux-laptops/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
