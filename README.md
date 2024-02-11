@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The RBI&#39;s clampdown on Paytm has created confusion for millions of customers and raises questions about the Indian central bank&#39;s opacity and regulatory actions &lpar;Menaka Doshi/Bloomberg&rpar;](http://www.techmeme.com/240211/p1#a240211p1)
  - [Best Cooler of 2024     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)
- - [How to watch Super Bowl LVIII on iPhone, iPad, Mac, &amp; Apple TV](https://appleinsider.com/articles/24/02/11/how-to-watch-super-bowl-lviii-on-iphone-ipad-mac-apple-tv?utm_medium=rss)
- - [Q&amp;A with Bluesky CEO Jay Graber about opening the service to the public, not &quot;enshittifying&quot; it with ads, crowdsourcing deepfake porn moderation, and more &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240210/p11#a240210p11)<!-- TECH:END -->
+ - [How to watch Super Bowl LVIII on iPhone, iPad, Mac, &amp; Apple TV](https://appleinsider.com/articles/24/02/11/how-to-watch-super-bowl-lviii-on-iphone-ipad-mac-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
