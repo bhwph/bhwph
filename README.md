@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
- - 😝 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
+ - 6️⃣ [Lizard trapped inside a man tries to hold it together](http://9gag.com/gag/aVbN62y)
+ - 😝 [Yeah...](http://9gag.com/gag/a9q9xoK)
  - 👉 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)<!-- MEMES:END -->
 
 --- 
