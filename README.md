@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What time does Apex Legends Season 20 Breakout release?](https://www.polygon.com/guides/24067570/apex-legends-season-20-release-time-start-date-launch)
  - [The post-Super Bowl show Tracker is the most 2024 procedural imaginable](https://www.polygon.com/24064045/tracker-cbs-review-post-super-bowl-what-is)
- - [FF7 Rebirth, Xbox Drama, And More Of This Week&#39;s Hottest Takes](https://kotaku.com/kotaku-opinion-review-ff7-rebirth-demo-xbox-honkai-1851243136)
- - [Today&#39;s Wordle answer for Sunday, February 11](https://www.pcgamer.com/wordle-today-answer-february-11-2024)<!-- GAME:END -->
+ - [FF7 Rebirth, Xbox Drama, And More Of This Week&#39;s Hottest Takes](https://kotaku.com/kotaku-opinion-review-ff7-rebirth-demo-xbox-honkai-1851243136)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
