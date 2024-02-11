@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, February 11](https://www.pcgamer.com/wordle-today-answer-february-11-2024)
- - [This game wants to blend survival and tycoon games in a race to build a moon colony](https://www.pcgamer.com/this-game-wants-to-blend-survival-and-tycoon-games-in-a-race-to-build-a-moon-colony)
- - [Narrative, open-world survival in The Planet Crafter will have a co-op mode and a 1.0 release this year](https://www.pcgamer.com/narrative-open-world-survival-in-the-planet-crafter-will-have-a-co-op-mode-and-a-10-release-this-year)<!-- GAME:END -->
+ - [The post-Super Bowl show Tracker is the most 2024 procedural imaginable](https://www.polygon.com/24064045/tracker-cbs-review-post-super-bowl-what-is)
+ - [FF7 Rebirth, Xbox Drama, And More Of This Week&#39;s Hottest Takes](https://kotaku.com/kotaku-opinion-review-ff7-rebirth-demo-xbox-honkai-1851243136)
+ - [Today&#39;s Wordle answer for Sunday, February 11](https://www.pcgamer.com/wordle-today-answer-february-11-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
