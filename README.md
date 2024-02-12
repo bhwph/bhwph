@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Worst mistake ever](http://9gag.com/gag/aBd7qjx)
- - 😝 [Well played](http://9gag.com/gag/amAEEvj)
- - 👉 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)<!-- MEMES:END -->
+ - 6️⃣ [Deadpool 3](http://9gag.com/gag/aYV289m)
+ - 😝 [No capes here.](http://9gag.com/gag/abv972b)
+ - 👉 [The Father Daughter Energy Is Unrivaled](http://9gag.com/gag/avQ33zX)<!-- MEMES:END -->
 
 --- 
 
