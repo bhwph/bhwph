@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best starter deck from Disney Lorcana’s Into the Inklands](https://www.polygon.com/tabletop-games/24065378/disney-into-the-inklands-starter-decks-scrooge-mcduck)
- - [One memory to rule them all? New &#39;superlattice&#39; material promises an efficient world of universal memory](https://www.pcgamer.com/one-memory-to-rule-them-all-new-superlattice-material-promises-an-efficient-world-of-universal-memory)
- - [Helldivers 2 creative director argues games should &#39;earn the right to monetize&#39;, says its only pay-to-win item is a revolver that&#39;ll get you gold in a &#39;cool gun competition&#39;](https://www.pcgamer.com/helldivers-2-creative-director-argues-games-should-earn-the-right-to-monetize-says-its-only-pay-to-win-item-is-a-revolver-thatll-get-you-gold-in-a-cool-gun-competition)<!-- GAME:END -->
+ - [Dead Cells&#39; designer livid at former studio for ending support for the game in &#39;worst a**hole move imaginable&#39;](https://www.pcgamer.com/dead-cells-designer-livid-at-former-studio-for-ending-support-for-the-game-in-worst-ahole-move-imaginable)
+ - [Nightingale stands out from the co-op survival game crowd with compelling world-building and the power to create and explore your own magical realms](https://www.pcgamer.com/nightingale-stands-out-from-the-co-op-survival-game-crowd-with-compelling-world-building-and-the-power-to-create-and-explore-your-own-magical-realms)
+ - [Football Manager 2024 is the best-selling entry in series history with 7 million gum-chewing devotees, studio pays tribute to &#39;incredible community of players&#39;](https://www.pcgamer.com/football-manager-2024-sells-7-million-and-pays-tribute-to-the-incredible-community-of-players-that-we-first-started-talking-to-directly-in-the-internets-infancy-in-the-early-90s)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
