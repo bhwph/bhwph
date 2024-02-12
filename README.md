@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A giant snake monster ruined my apple-fueled medieval utopia in the Steam Next Fest demo for this settlement sim](https://www.pcgamer.com/a-giant-snake-monster-ruined-my-apple-fueled-medieval-utopia-in-the-steam-next-fest-demo-for-this-settlement-sim)
- - [The best arctic horror stories to watch after True Detective: Night Country](https://www.polygon.com/what-to-watch/24063584/best-arctic-horror-movies-true-detective-night-country-30-days-of-night-the-terror-the-thing)
- - [Helldivers 2 is now PlayStation&#39;s biggest PC launch by a factor of two](https://www.pcgamer.com/helldivers-2-is-now-playstations-biggest-pc-launch-by-a-factor-of-two)<!-- GAME:END -->
+ - [The Deadpool &amp; Wolverine taunts us with a Secret Wars reference worth breaking down](https://www.polygon.com/24070019/deadpool-wolverine-breakdown-secret-wars-cameos-x-men-easter-eggs)
+ - [The humans have gone feral in Kingdom of the Planet of the Apes](https://www.polygon.com/24070135/kingdom-planet-of-the-apes-trailer-super-bowl)
+ - [Wicked trailer brings a perfectly pink Ariana Grande to Oz](https://www.polygon.com/24070099/super-bowl-2024-wicked-trailer-ariana-grande-universal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
