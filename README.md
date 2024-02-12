@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did you know: Apple’s revenue exceeds the economic output of most countries](https://www.androidauthority.com/apple-revenue-vs-country-gdp-3412922/)
- - [Apple&#39;s Journal App Is Easy, Free, and Already on Your Phone](https://www.wired.com/story/apple-journal-app/)
- - [The unsettling scourge of obituary spam](https://www.theverge.com/24065145/ai-obituary-spam-generative-clickbait)<!-- TECH:END -->
+ - [Score a record $90 price drop on this versatile Thunderbolt 4 Dock](https://www.androidauthority.com/mokin-thunderbolt-4-dock-deal-3413727/)
+ - [What Should Your Sex Toys Be Made of?](https://www.wired.com/story/how-to-choose-sex-toy-materials/)
+ - [Q&amp;A with the US DOJ&#39;s Jonathan Kanter on the Antitrust Division, the Google search monopolization and ad tech cases, media consolidation, the EU&#39;s DMA, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240212/p11#a240212p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
