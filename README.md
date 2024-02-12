@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lizard trapped inside a man tries to hold it together](http://9gag.com/gag/aVbN62y)
+ - 6️⃣ [Really?](http://9gag.com/gag/aQE0wX7)
  - 😝 [Yeah...](http://9gag.com/gag/a9q9xoK)
- - 👉 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)<!-- MEMES:END -->
+ - 👉 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)<!-- MEMES:END -->
 
 --- 
 
