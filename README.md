@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Cells&#39; designer livid at former studio for ending support for the game in &#39;worst a**hole move imaginable&#39;](https://www.pcgamer.com/dead-cells-designer-livid-at-former-studio-for-ending-support-for-the-game-in-worst-ahole-move-imaginable)
- - [Nightingale stands out from the co-op survival game crowd with compelling world-building and the power to create and explore your own magical realms](https://www.pcgamer.com/nightingale-stands-out-from-the-co-op-survival-game-crowd-with-compelling-world-building-and-the-power-to-create-and-explore-your-own-magical-realms)
- - [Football Manager 2024 is the best-selling entry in series history with 7 million gum-chewing devotees, studio pays tribute to &#39;incredible community of players&#39;](https://www.pcgamer.com/football-manager-2024-sells-7-million-and-pays-tribute-to-the-incredible-community-of-players-that-we-first-started-talking-to-directly-in-the-internets-infancy-in-the-early-90s)<!-- GAME:END -->
+ - [D&amp;D reveals September 2024 release date for the start of its big rules revamp, sheds light on two multiverse-hopping campaigns, and promises the launch of its shiny virtual tabletop](https://www.pcgamer.com/dandd-reveals-september-2024-release-date-for-the-start-of-its-big-rules-revamp-sheds-light-on-two-multiverse-hopping-campaigns-and-promises-the-launch-of-its-shiny-virtual-tabletop)
+ - [D&amp;D’s 2024 revision of 5th edition won’t be complete until 2025](https://www.polygon.com/24067481/dnd-dungeons-dragons-onednd-delay-2024-rules-refresh-players-handbook-dmg-release-date-price)
+ - [Helldivers 2 Is Too Popular For Its Own Good](https://kotaku.com/helldivers-2-server-down-status-ps5-pc-steam-1851248827)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
