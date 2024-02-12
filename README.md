@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest iOS beta makes it easier to use Apple Cash](https://www.theverge.com/2024/2/11/24069725/ios-17-3-beta-apple-cash-card-number-generator)
- - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)
- - [As SBF prepares to face sentencing in March, FTX customers look at the possibility of recouping their money, stemming largely from the crypto market&#39;s rebound &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240211/p7#a240211p7)<!-- TECH:END -->
+ - [Wi-Fi and Bluetooth in Apple Vision Pro aren&#39;t cooking your brain](https://appleinsider.com/articles/24/02/12/wi-fi-and-bluetooth-in-apple-vision-pro-arent-cooking-your-brain?utm_medium=rss)
+ - [The first Deadpool &amp; Wolverine trailer is one big joke about Marvel’s past](https://www.theverge.com/2024/2/11/24070042/deadpool-and-wolverine-super-bowl-2024-trailer)
+ - [Super Bowl 2024: the biggest movie trailers and ads](https://www.theverge.com/24064740/super-bowl-2024-best-ads-trailers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
