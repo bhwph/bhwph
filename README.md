@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Deadpool &amp; Wolverine taunts us with a Secret Wars reference worth breaking down](https://www.polygon.com/24070019/deadpool-wolverine-breakdown-secret-wars-cameos-x-men-easter-eggs)
- - [The humans have gone feral in Kingdom of the Planet of the Apes](https://www.polygon.com/24070135/kingdom-planet-of-the-apes-trailer-super-bowl)
- - [Wicked trailer brings a perfectly pink Ariana Grande to Oz](https://www.polygon.com/24070099/super-bowl-2024-wicked-trailer-ariana-grande-universal)<!-- GAME:END -->
+ - [Beyoncé said ‘drop the new music’ at the Super Bowl so everyone has questions](https://www.polygon.com/24070244/beyonce-new-music-super-bowl-commercial-verizon)
+ - [After more than 60 Books spread out over 18 years the Horus Heresy series is finally over, so please be kind to the Warhammer 40,000 tragics in your life](https://www.pcgamer.com/after-more-than-60-books-spread-out-over-18-years-the-horus-heresy-series-is-finally-over-so-please-be-kind-to-the-warhammer-40000-tragics-in-your-life)
+ - [Five new Steam games you probably missed &lpar;February 12, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-12-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
