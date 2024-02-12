@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jon Stewart became a problem for Apple TV+](https://appleinsider.com/articles/24/02/12/jon-stewart-became-a-problem-for-apple-tv?utm_medium=rss)
- - [Threads is testing ‘Today’s topics’ to tell users what’s trending in the US](https://www.theverge.com/2024/2/12/24071014/threads-topics-testing-us-test)
- - [The US government makes a $42 million bet on open cell networks](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)<!-- TECH:END -->
+ - [The ‘queer.af’ Mastodon instance disappeared because of the Taliban](https://www.theverge.com/2024/2/12/24071036/queer-af-mastodon-taliban-shut-down-afghanistan)
+ - [ContextLogic agrees to sell the discount online retailer Wish for $173M to Singaporean company Qoo10; Wish had a $14B valuation when it when public in 2020 &lpar;Michelle F Davis/Bloomberg&rpar;](http://www.techmeme.com/240212/p23#a240212p23)
+ - [Amazon&#39;s Prime Video basic ad tier, which began on Jan. 29 in the US as a downgrade to subscribers, quietly cut Dolby Vision HDR and Dolby Atmos sound support &lpar;John Archer/Forbes&rpar;](http://www.techmeme.com/240212/p22#a240212p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
