@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
- - 😝 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
- - 👉 [Worst mistake ever](http://9gag.com/gag/aBd7qjx)<!-- MEMES:END -->
+ - 6️⃣ [Worst mistake ever](http://9gag.com/gag/aBd7qjx)
+ - 😝 [Well played](http://9gag.com/gag/amAEEvj)
+ - 👉 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)<!-- MEMES:END -->
 
 --- 
 
