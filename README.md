@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hollywood actress Selma Blair has been cancelled and deleted her social media accounts for posting this comment.](http://9gag.com/gag/aA0o8DZ)
- - 😝 [Young Friends Reunited After Moving Apart](http://9gag.com/gag/az20pNb)
- - 👉 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)<!-- MEMES:END -->
+ - 6️⃣ [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
+ - 😝 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
+ - 👉 [Worst mistake ever](http://9gag.com/gag/aBd7qjx)<!-- MEMES:END -->
 
 --- 
 
