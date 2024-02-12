@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
- - 😝 [What](http://9gag.com/gag/aPgK5yB)
- - 👉 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)<!-- MEMES:END -->
+ - 6️⃣ [Hollywood actress Selma Blair has been cancelled and deleted her social media accounts for posting this comment.](http://9gag.com/gag/aA0o8DZ)
+ - 😝 [Young Friends Reunited After Moving Apart](http://9gag.com/gag/az20pNb)
+ - 👉 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)<!-- MEMES:END -->
 
 --- 
 
