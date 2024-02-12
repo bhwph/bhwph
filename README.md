@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)
- - 😝 [Skills](http://9gag.com/gag/amAEjYV)
- - 👉 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)<!-- MEMES:END -->
+ - 6️⃣ [Ball play... eh who cares about Titles](http://9gag.com/gag/aME3pK6)
+ - 😝 [Taylor Swift makes her way down from the VIP box to the field](http://9gag.com/gag/a7qz4Yw)
+ - 👉 [Maybe i am a Gorilla after all](http://9gag.com/gag/aME3pbG)<!-- MEMES:END -->
 
 --- 
 
