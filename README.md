@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skull and Bones’ open beta shows a great pirate ship game sunk by scope](https://www.polygon.com/24071025/skull-and-bones-open-beta-impressions-combat-quests)
- - [True Detective: Night Country creator’s breakout horror film will ruin you](https://www.polygon.com/24068016/issa-lopez-tigers-are-not-afraid)
- - [The Thaumaturge, an RPG from the studio that&#39;s also working on The Witcher remake, is delayed because February is just too crowded](https://www.pcgamer.com/the-thaumaturge-an-rpg-from-the-studio-thats-also-working-on-the-witcher-remake-is-delayed-because-february-is-just-too-crowded)<!-- GAME:END -->
+ - [How to beat Lily and Lyleen in Palworld](https://www.polygon.com/palworld-guides/24050780/lily-lyleen-tower-of-free-pal-alliance-location-tower-2)
+ - [How to beat Zoe and Grizzbolt in Palworld](https://www.polygon.com/guides/24042982/palworld-rayne-syndicate-tower-boss-zoe-grizzbolt-how-to-beat)
+ - [Upcoming Game Delays Release To Avoid &#39;Busy&#39; February](https://kotaku.com/the-thaumaturge-rpg-delayed-busy-february-ps5-xbox-1851249845)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
