@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D reveals September 2024 release date for the start of its big rules revamp, sheds light on two multiverse-hopping campaigns, and promises the launch of its shiny virtual tabletop](https://www.pcgamer.com/dandd-reveals-september-2024-release-date-for-the-start-of-its-big-rules-revamp-sheds-light-on-two-multiverse-hopping-campaigns-and-promises-the-launch-of-its-shiny-virtual-tabletop)
- - [D&amp;D’s 2024 revision of 5th edition won’t be complete until 2025](https://www.polygon.com/24067481/dnd-dungeons-dragons-onednd-delay-2024-rules-refresh-players-handbook-dmg-release-date-price)
- - [Helldivers 2 Is Too Popular For Its Own Good](https://kotaku.com/helldivers-2-server-down-status-ps5-pc-steam-1851248827)<!-- GAME:END -->
+ - [Skull and Bones’ open beta shows a great pirate ship game sunk by scope](https://www.polygon.com/24071025/skull-and-bones-open-beta-impressions-combat-quests)
+ - [True Detective: Night Country creator’s breakout horror film will ruin you](https://www.polygon.com/24068016/issa-lopez-tigers-are-not-afraid)
+ - [The Thaumaturge, an RPG from the studio that&#39;s also working on The Witcher remake, is delayed because February is just too crowded](https://www.pcgamer.com/the-thaumaturge-an-rpg-from-the-studio-thats-also-working-on-the-witcher-remake-is-delayed-because-february-is-just-too-crowded)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
