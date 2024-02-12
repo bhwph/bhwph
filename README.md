@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Score a record $90 price drop on this versatile Thunderbolt 4 Dock](https://www.androidauthority.com/mokin-thunderbolt-4-dock-deal-3413727/)
- - [What Should Your Sex Toys Be Made of?](https://www.wired.com/story/how-to-choose-sex-toy-materials/)
- - [Q&amp;A with the US DOJ&#39;s Jonathan Kanter on the Antitrust Division, the Google search monopolization and ad tech cases, media consolidation, the EU&#39;s DMA, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240212/p11#a240212p11)<!-- TECH:END -->
+ - [&#39;Deadpool &amp; Wolverine&#39; Trailer Hopes Pegging Can Save the MCU](https://www.wired.com/story/deadpool-and-wolverine-trailer-pegging-save-mcu/)
+ - [The future of Xbox will be revealed on February 15th](https://www.theverge.com/2024/2/12/24070445/microsoft-xbox-business-update-event-future-february-15)
+ - [The best floodlight camera to buy right now](https://www.theverge.com/22811985/best-smart-floodlight-security-camera)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
