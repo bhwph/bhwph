@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A crowd in San Francisco destroyed a Waymo car on February 11, amid tensions over automated vehicles; Waymo says the car &quot;was not transporting any riders&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240212/p2#a240212p2)
- - [Nick Hornby’s Brain-Bending Sculptures Twist History Into New Shapes](https://www.wired.com/story/nick-hornbys-brain-bending-sculptures-twist-history-into-new-shapes/)
- - [15 States Are Sending Child Tax Credit Payments in 2024. Is Yours One of Them?     - CNET](https://www.cnet.com/personal-finance/taxes/15-states-are-sending-child-tax-credit-payments-in-2024-is-yours-one-of-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ukraine&#39;s GUR military intelligence unit says Russian forces are using Starlink terminals on the front line, confirming media reports of Russia using Starlink &lpar;Ben Hall/Financial Times&rpar;](http://www.techmeme.com/240212/p6#a240212p6)
+ - [Apple buys domain suggesting generative AI additions may come to iWork](https://appleinsider.com/articles/24/02/12/apple-buys-domain-suggesting-generative-ai-additions-may-come-to-iwork?utm_medium=rss)
+ - [Apple looking into into Apple Watch Series 9, Ultra 2 &#39;ghost touches&#39; issue](https://appleinsider.com/articles/24/02/12/apple-looking-into-into-apple-watch-series-9-ultra-2-ghost-touches-issue?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
