@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mystery Google phone sparks Pixel 8a speculation: A big battery upgrade on the horizon?](https://www.androidauthority.com/pixel-8a-battery-rumor-3413439/)
- - [The Gemini Android app is already available in more regions, including Europe and Asia](https://www.androidauthority.com/gemini-android-app-availability-3413437/)
- - [Climate change is erasing previous gains in air quality — fires are mostly to blame](https://www.theverge.com/2024/2/12/24066572/air-pollution-quality-climate-change-wildfire-smoke-smog)<!-- TECH:END -->
+ - [How generative AI is transforming the advertising industry; WPP and Publicis plan to spend hundreds of millions of dollars to embed AI in their businesses &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240212/p1#a240212p1)
+ - [This Website Tracked Hate Crimes in India. Then the Government Took It Offline](https://www.wired.com/story/india-elections-right-wing-website-ban/)
+ - [Nothing Phone 2a teaser reveals nothing, but something more is coming tomorrow](https://www.androidauthority.com/nothing-phone-2a-february-13-3412765/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
