@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Really?](http://9gag.com/gag/aQE0wX7)
- - 😝 [Yeah...](http://9gag.com/gag/a9q9xoK)
- - 👉 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)<!-- MEMES:END -->
+ - 6️⃣ [Bullet proof window stops a .50BMG round](http://9gag.com/gag/a8qBPmO)
+ - 😝 [Title](http://9gag.com/gag/abv9Nnr)
+ - 👉 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)<!-- MEMES:END -->
 
 --- 
 
