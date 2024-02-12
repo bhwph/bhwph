@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Young Friends Reunited After Moving Apart](http://9gag.com/gag/az20pNb)
- - 😝 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)
- - 👉 [Title](http://9gag.com/gag/abv9Nnr)<!-- MEMES:END -->
+ - 6️⃣ [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
+ - 😝 [What](http://9gag.com/gag/aPgK5yB)
+ - 👉 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)<!-- MEMES:END -->
 
 --- 
 
