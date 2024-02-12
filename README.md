@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
- - 😝 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
- - 👉 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)<!-- MEMES:END -->
+ - 6️⃣ [Gods, Monsters and Humans](http://9gag.com/gag/ap9yKqD)
+ - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
+ - 👉 [Boys being boys](http://9gag.com/gag/armjP97)<!-- MEMES:END -->
 
 --- 
 
