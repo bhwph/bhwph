@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Deadpool &amp; Wolverine&#39; Trailer Hopes Pegging Can Save the MCU](https://www.wired.com/story/deadpool-and-wolverine-trailer-pegging-save-mcu/)
- - [The future of Xbox will be revealed on February 15th](https://www.theverge.com/2024/2/12/24070445/microsoft-xbox-business-update-event-future-february-15)
- - [The best floodlight camera to buy right now](https://www.theverge.com/22811985/best-smart-floodlight-security-camera)<!-- TECH:END -->
+ - [Jon Stewart became a problem for Apple TV+](https://appleinsider.com/articles/24/02/12/jon-stewart-became-a-problem-for-apple-tv?utm_medium=rss)
+ - [Threads is testing ‘Today’s topics’ to tell users what’s trending in the US](https://www.theverge.com/2024/2/12/24071014/threads-topics-testing-us-test)
+ - [The US government makes a $42 million bet on open cell networks](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
