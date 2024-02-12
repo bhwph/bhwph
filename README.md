@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How generative AI is transforming the advertising industry; WPP and Publicis plan to spend hundreds of millions of dollars to embed AI in their businesses &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240212/p1#a240212p1)
- - [This Website Tracked Hate Crimes in India. Then the Government Took It Offline](https://www.wired.com/story/india-elections-right-wing-website-ban/)
- - [Nothing Phone 2a teaser reveals nothing, but something more is coming tomorrow](https://www.androidauthority.com/nothing-phone-2a-february-13-3412765/)<!-- TECH:END -->
+ - [A crowd in San Francisco destroyed a Waymo car on February 11, amid tensions over automated vehicles; Waymo says the car &quot;was not transporting any riders&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240212/p2#a240212p2)
+ - [Nick Hornby’s Brain-Bending Sculptures Twist History Into New Shapes](https://www.wired.com/story/nick-hornbys-brain-bending-sculptures-twist-history-into-new-shapes/)
+ - [15 States Are Sending Child Tax Credit Payments in 2024. Is Yours One of Them?     - CNET](https://www.cnet.com/personal-finance/taxes/15-states-are-sending-child-tax-credit-payments-in-2024-is-yours-one-of-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
