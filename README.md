@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bullet proof window stops a .50BMG round](http://9gag.com/gag/a8qBPmO)
- - 😝 [Title](http://9gag.com/gag/abv9Nnr)
- - 👉 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)<!-- MEMES:END -->
+ - 6️⃣ [Young Friends Reunited After Moving Apart](http://9gag.com/gag/az20pNb)
+ - 😝 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)
+ - 👉 [Title](http://9gag.com/gag/abv9Nnr)<!-- MEMES:END -->
 
 --- 
 
