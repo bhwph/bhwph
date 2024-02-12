@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Deadpool 3](http://9gag.com/gag/aYV289m)
- - 😝 [No capes here.](http://9gag.com/gag/abv972b)
- - 👉 [The Father Daughter Energy Is Unrivaled](http://9gag.com/gag/avQ33zX)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)
+ - 😝 [Skills](http://9gag.com/gag/amAEjYV)
+ - 👉 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)<!-- MEMES:END -->
 
 --- 
 
