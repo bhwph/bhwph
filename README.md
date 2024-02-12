@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ball play... eh who cares about Titles](http://9gag.com/gag/aME3pK6)
- - 😝 [Taylor Swift makes her way down from the VIP box to the field](http://9gag.com/gag/a7qz4Yw)
- - 👉 [Maybe i am a Gorilla after all](http://9gag.com/gag/aME3pbG)<!-- MEMES:END -->
+ - 6️⃣ [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
+ - 😝 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
+ - 👉 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)<!-- MEMES:END -->
 
 --- 
 
