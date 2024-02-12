@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukraine&#39;s GUR military intelligence unit says Russian forces are using Starlink terminals on the front line, confirming media reports of Russia using Starlink &lpar;Ben Hall/Financial Times&rpar;](http://www.techmeme.com/240212/p6#a240212p6)
- - [Apple buys domain suggesting generative AI additions may come to iWork](https://appleinsider.com/articles/24/02/12/apple-buys-domain-suggesting-generative-ai-additions-may-come-to-iwork?utm_medium=rss)
- - [Apple looking into into Apple Watch Series 9, Ultra 2 &#39;ghost touches&#39; issue](https://appleinsider.com/articles/24/02/12/apple-looking-into-into-apple-watch-series-9-ultra-2-ghost-touches-issue?utm_medium=rss)<!-- TECH:END -->
+ - [Did you know: Apple’s revenue exceeds the economic output of most countries](https://www.androidauthority.com/apple-revenue-vs-country-gdp-3412922/)
+ - [Apple&#39;s Journal App Is Easy, Free, and Already on Your Phone](https://www.wired.com/story/apple-journal-app/)
+ - [The unsettling scourge of obituary spam](https://www.theverge.com/24065145/ai-obituary-spam-generative-clickbait)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
