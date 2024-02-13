@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Virginia-based software testing startup Antithesis raised a $47M seed, a source says led by Amplify, Tamarack Global, and First In at a $215M valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/240213/p11#a240213p11)
- - [Nothing Phone 2a rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/nothing-phone-2a-3401932/)
- - [7 ChatGPT hacks to boost productivity and free up your busy life](https://www.androidauthority.com/chatgpt-hacks-3414077/)<!-- TECH:END -->
+ - [BMW CE 02 E-Motorbike 2024 Review: Price, Specs, Availability](https://www.wired.com/review/review-bmw-ce02-e-motorbike/)
+ - [Nvidia’s Chat with RTX is a promising AI chatbot that runs locally on your PC](https://www.theverge.com/2024/2/13/24071645/nvidia-ai-chatbot-chat-with-rtx-tech-demo-hands-on)
+ - [Dude, where’s my self-driving car?](https://www.theverge.com/24065447/self-driving-car-autonomous-tesla-gm-baidu)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
