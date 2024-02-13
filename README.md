@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Legend of Zelda: Twilight Princess manga is getting a box set in Sept., and pre-orders are 10% off](https://www.polygon.com/24071129/the-legend-of-zelda-twilight-princess-manga-box-set-amazon-pre-order)
- - [Yes, you should play Dragon’s Dogma before the sequel launches. Here’s where to get a deal](https://www.polygon.com/24070666/dragons-dogma-dark-arisen-deal-steam-ps-xbox-switch)
- - [Xbox and Microsoft Flight Simulator unveil Dune Expansion and Floating Controller](https://news.xbox.com/en-us/2024/02/13/xbox-and-microsoft-flight-simulator-unveil-dune-expansion-giveaway/)<!-- GAME:END -->
+ - [The Sims 4 free update adds vitiligo skin details in continued effort for more inclusive character creation](https://www.pcgamer.com/the-sims-4-free-update-adds-vitiligo-skin-details-in-continued-effort-for-more-inclusive-character-creation)
+ - [Tomb Raider 1-3 Remastered review](https://www.pcgamer.com/tomb-raider-1-3-remastered-review)
+ - [Dungeons &amp; Dragons&#39; 50th Anniversary Brings Back Vecna](https://kotaku.com/dungeons-dragons-50th-anniversary-pbh-dmg-vecna-wotc-1851252414)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
