@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
- - 😝 [Not title](http://9gag.com/gag/a6qvrrN)
- - 👉 [If you know you know](http://9gag.com/gag/anzLAdq)<!-- MEMES:END -->
+ - 6️⃣ [Skills](http://9gag.com/gag/amAEjYV)
+ - 😝 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
+ - 👉 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)<!-- MEMES:END -->
 
 --- 
 
