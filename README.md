@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Skills](http://9gag.com/gag/amAEjYV)
- - 😝 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
- - 👉 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)<!-- MEMES:END -->
+ - 6️⃣ [If you know you know](http://9gag.com/gag/anzLAdq)
+ - 😝 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
+ - 👉 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)<!-- MEMES:END -->
 
 --- 
 
