@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4 free update adds vitiligo skin details in continued effort for more inclusive character creation](https://www.pcgamer.com/the-sims-4-free-update-adds-vitiligo-skin-details-in-continued-effort-for-more-inclusive-character-creation)
- - [Tomb Raider 1-3 Remastered review](https://www.pcgamer.com/tomb-raider-1-3-remastered-review)
- - [Dungeons &amp; Dragons&#39; 50th Anniversary Brings Back Vecna](https://kotaku.com/dungeons-dragons-50th-anniversary-pbh-dmg-vecna-wotc-1851252414)<!-- GAME:END -->
+ - [Bungie ends its four-year partnership with Prime Gaming](https://www.polygon.com/2024/2/13/24071827/destiny-2-prime-gaming-benefits-free-bright-dust-mass-effect-bundle)
+ - [Go Goblin Mode in Tenderfoot Tactics on Xbox](https://news.xbox.com/en-us/2024/02/13/go-goblin-mode-in-tenderfoot-tactics-on-xbox/)
+ - [One of the funniest seasons of Taskmaster is finally on YouTube](https://www.polygon.com/24065122/taskmaster-new-zealand-nz-season-2-best-taskmaster-season-watch-youtube)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
