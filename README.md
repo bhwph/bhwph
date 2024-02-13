@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Second-best Galaxy Watch 6 deal ever sees price slashed by $71](https://www.androidauthority.com/galaxy-watch-6-deal-3414212/)
- - [Tesla Wins EV Charging: All Car Companies Using NACS](https://www.wired.com/story/tesla-wins-ev-charging-now-what/)
- - [YouTube Livestreamers Made Money ‘Hunting’ for Migrants Along the US Border](https://www.wired.com/story/far-right-convoy-youtube-live-stream-harass-migrants/)<!-- TECH:END -->
+ - [OpenAI Gives ChatGPT a Memory](https://www.wired.com/story/chatgpt-memory-openai/)
+ - [ChatGPT is getting ‘memory’ to remember who you are and what you like](https://www.theverge.com/2024/2/13/24071106/chatgpt-memory-openai-ai-chatbot-history)
+ - [Internet infrastructure startup Meter raised a $35M Series B extension at, a source says, a $350M+ valuation led by Sam Altman and Lachy Groom &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240213/p23#a240213p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
