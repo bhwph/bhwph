@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Skills](http://9gag.com/gag/amAEjYV)
- - 😝 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
- - 👉 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)<!-- MEMES:END -->
+ - 😝 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
+ - 👉 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)<!-- MEMES:END -->
 
 --- 
 
