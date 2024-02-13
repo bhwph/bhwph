@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pulling out your Glock solves everything, especially during the 1800s](http://9gag.com/gag/ajVobKw)
- - 😝 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
- - 👉 [If you know you know](http://9gag.com/gag/anzLAdq)<!-- MEMES:END -->
+ - 6️⃣ [I wont pay for Acrobat Reader](http://9gag.com/gag/aeQoKoj)
+ - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
+ - 👉 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)<!-- MEMES:END -->
 
 --- 
 
