@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I created a highly personalised large language model with Nvidia&#39;s entertaining Chat with RTX app but at 60GB+ I&#39;m now beginning to wonder if it&#39;s worth keeping around](https://www.pcgamer.com/i-created-a-highly-personalised-large-language-model-with-nvidias-entertaining-chat-with-rtx-app-but-at-60gb-im-now-beginning-to-wonder-if-its-worth-keeping-around)
- - [Madame Web turns the post-credits scene into the whole cynical movie](https://www.polygon.com/reviews/24071362/madame-web-review-post-credits-scene-sequel-teaser-bad)
- - [Marvel and DC’s legendary crossovers are finally back in print](https://www.polygon.com/24071678/marvel-dc-crossover-comics-history-books-2024)<!-- GAME:END -->
+ - [The Legend of Zelda: Twilight Princess manga is getting a box set in Sept., and pre-orders are 10% off](https://www.polygon.com/24071129/the-legend-of-zelda-twilight-princess-manga-box-set-amazon-pre-order)
+ - [Yes, you should play Dragon’s Dogma before the sequel launches. Here’s where to get a deal](https://www.polygon.com/24070666/dragons-dogma-dark-arisen-deal-steam-ps-xbox-switch)
+ - [Xbox and Microsoft Flight Simulator unveil Dune Expansion and Floating Controller](https://news.xbox.com/en-us/2024/02/13/xbox-and-microsoft-flight-simulator-unveil-dune-expansion-giveaway/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
