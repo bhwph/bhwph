@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI Gives ChatGPT a Memory](https://www.wired.com/story/chatgpt-memory-openai/)
- - [ChatGPT is getting ‘memory’ to remember who you are and what you like](https://www.theverge.com/2024/2/13/24071106/chatgpt-memory-openai-ai-chatbot-history)
- - [Internet infrastructure startup Meter raised a $35M Series B extension at, a source says, a $350M+ valuation led by Sam Altman and Lachy Groom &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240213/p23#a240213p23)<!-- TECH:END -->
+ - [The threat of extinction is getting worse for migratory animals](https://www.theverge.com/2024/2/13/24071713/migration-animals-extinction-united-nation-report)
+ - [Copilot for Microsoft 365 testers question the $30/seat price but some, like Dow, plan big rollouts; Copilot in Teams seen as useful, but it struggles in Excel &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240213/p27#a240213p27)
+ - [We might see Android 15 DP1 this week, maybe](https://www.androidauthority.com/android-15-this-week-maybe-3414382/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
