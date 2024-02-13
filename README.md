@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grey’s Anatomy season 20: Plot, release window, and more](https://www.androidauthority.com/greys-anatomy-season-20-release-date-3378885/)
- - [Chrysler Halcyon concept is a reminder the company can be more than just minivans](https://www.theverge.com/2024/2/13/24067683/chrysler-halcyon-concept-ev-autonomous-specs-photos)
- - [Wunderlist’s creators are back with a nifty new to-do app](https://www.theverge.com/2024/2/13/24071136/superlist-tasks-app-wunderlist-productivity-tool)<!-- TECH:END -->
+ - [Virginia-based software testing startup Antithesis raised a $47M seed, a source says led by Amplify, Tamarack Global, and First In at a $215M valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/240213/p11#a240213p11)
+ - [Nothing Phone 2a rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/nothing-phone-2a-3401932/)
+ - [7 ChatGPT hacks to boost productivity and free up your busy life](https://www.androidauthority.com/chatgpt-hacks-3414077/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
