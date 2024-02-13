@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Skills](http://9gag.com/gag/amAEjYV)
- - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
- - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
+ - 6️⃣ [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
+ - 😝 [I&#39;m not even joking this house is going for $1,999,900.00 in Vancouver Canada right now](http://9gag.com/gag/aqeq3QQ)
+ - 👉 [Tell me it gets easier, I beg you...](http://9gag.com/gag/aqe39Mp)<!-- MEMES:END -->
 
 --- 
 
