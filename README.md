@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Skills](http://9gag.com/gag/amAEjYV)
- - 😝 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
- - 👉 [Yeah.](http://9gag.com/gag/a2KnQp9)<!-- MEMES:END -->
+ - 6️⃣ [Nice to have know you](http://9gag.com/gag/aMER1nV)
+ - 😝 [A Japanese High School in Kyoto gives Pharrell Williams the big band treatment](http://9gag.com/gag/amAjqe6)
+ - 👉 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)<!-- MEMES:END -->
 
 --- 
 
