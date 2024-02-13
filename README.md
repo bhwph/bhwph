@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you know you know](http://9gag.com/gag/anzLAdq)
- - 😝 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
- - 👉 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)<!-- MEMES:END -->
+ - 6️⃣ [Skills](http://9gag.com/gag/amAEjYV)
+ - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
 
 --- 
 
