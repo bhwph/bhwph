@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC commissioner wants to investigate Apple for Beeper Mini crackdown](https://www.androidauthority.com/fcc-commissioner-apple-imessage-beeper-mini-3413588/)
- - [Google Messages could soon let you react to chats like Instagram](https://www.androidauthority.com/google-messages-double-tap-reactions-3414015/)
- - [Court notice: the sentencing of Binance CEO Changpeng Zhao has been postponed until April 30, 2024; CZ is free on a $175M release bond in the US &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/240212/p29#a240212p29)<!-- TECH:END -->
+ - [Interviews with 40+ developers detail reasons for layoffs in gaming, including an environment fraught with high costs and execs having little regard for staff &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/240213/p3#a240213p3)
+ - [First smartphones, now the Gemini app is coming to headphones](https://www.androidauthority.com/gemini-app-google-assistant-headphones-3414033/)
+ - [Amazon Prime Video’s ad-supported subscription tier is worse than you’d expect](https://www.androidauthority.com/amazon-prime-video-ad-supported-subscription-no-dolby-atmos-vision-3414025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
