@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie ends its four-year partnership with Prime Gaming](https://www.polygon.com/2024/2/13/24071827/destiny-2-prime-gaming-benefits-free-bright-dust-mass-effect-bundle)
- - [Go Goblin Mode in Tenderfoot Tactics on Xbox](https://news.xbox.com/en-us/2024/02/13/go-goblin-mode-in-tenderfoot-tactics-on-xbox/)
- - [One of the funniest seasons of Taskmaster is finally on YouTube](https://www.polygon.com/24065122/taskmaster-new-zealand-nz-season-2-best-taskmaster-season-watch-youtube)<!-- GAME:END -->
+ - [World of Warcraft&#39;s lead storyteller quietly left Blizzard last fall: &#39;I&#39;ve felt the itch to stretch my creativity in new directions&#39;](https://www.pcgamer.com/steve-danuser-world-of-warcraft-departure)
+ - [How to find and kill Chargers in Helldivers 2](https://www.polygon.com/guides/24072123/helldivers-2-charges-where-to-find-how-to-kill)
+ - [Palworld Costumes Are Here And Oh God…Oh No…](https://kotaku.com/palworld-costumes-halloween-knock-off-merch-pokemon-1851253440)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
