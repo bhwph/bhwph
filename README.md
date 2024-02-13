@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
- - 😝 [I&#39;m not even joking this house is going for $1,999,900.00 in Vancouver Canada right now](http://9gag.com/gag/aqeq3QQ)
- - 👉 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)<!-- MEMES:END -->
+ - 6️⃣ [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
+ - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 👉 [I&#39;m not even joking this house is going for $1,999,900.00 in Vancouver Canada right now](http://9gag.com/gag/aqeq3QQ)<!-- MEMES:END -->
 
 --- 
 
