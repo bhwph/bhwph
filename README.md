@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The threat of extinction is getting worse for migratory animals](https://www.theverge.com/2024/2/13/24071713/migration-animals-extinction-united-nation-report)
- - [Copilot for Microsoft 365 testers question the $30/seat price but some, like Dow, plan big rollouts; Copilot in Teams seen as useful, but it struggles in Excel &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240213/p27#a240213p27)
- - [We might see Android 15 DP1 this week, maybe](https://www.androidauthority.com/android-15-this-week-maybe-3414382/)<!-- TECH:END -->
+ - [For the first time since 2002, Nvidia ended a trading day with a bigger market value than Amazon, as its market cap reached $1.78T, fueled by the AI boom &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240213/p36#a240213p36)
+ - [Walmart might buy Vizio to win the fight over cheap TVs](https://www.theverge.com/2024/2/13/24072191/walmart-vizio-smart-tv-acquisition-rumor)
+ - [GlobalFoundries reports Q4 revenue down 12% YoY to $1.85B, vs. 1.85B est., net income down 58% YoY to $278M, forecasted sales of $1.52B in Q1, vs. $1.77B est. &lpar;Patrick Seitz/Investor&#39;s Business Daily&rpar;](http://www.techmeme.com/240213/p35#a240213p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
