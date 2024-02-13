@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ‘queer.af’ Mastodon instance disappeared because of the Taliban](https://www.theverge.com/2024/2/12/24071036/queer-af-mastodon-taliban-shut-down-afghanistan)
- - [ContextLogic agrees to sell the discount online retailer Wish for $173M to Singaporean company Qoo10; Wish had a $14B valuation when it when public in 2020 &lpar;Michelle F Davis/Bloomberg&rpar;](http://www.techmeme.com/240212/p23#a240212p23)
- - [Amazon&#39;s Prime Video basic ad tier, which began on Jan. 29 in the US as a downgrade to subscribers, quietly cut Dolby Vision HDR and Dolby Atmos sound support &lpar;John Archer/Forbes&rpar;](http://www.techmeme.com/240212/p22#a240212p22)<!-- TECH:END -->
+ - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)
+ - [It’s not just you: Alicia Keys’ Super Bowl halftime show got changed for YouTube](https://www.theverge.com/2024/2/12/24071248/alicia-keys-vocals-changed-super-bowl-2024-usher-halftime-performance)
+ - [16 Valentine&#39;s Day Food Gifts Under $25     - CNET](https://www.cnet.com/news/food-gifts-under-25-for-valentines-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
