@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat Lily and Lyleen in Palworld](https://www.polygon.com/palworld-guides/24050780/lily-lyleen-tower-of-free-pal-alliance-location-tower-2)
- - [How to beat Zoe and Grizzbolt in Palworld](https://www.polygon.com/guides/24042982/palworld-rayne-syndicate-tower-boss-zoe-grizzbolt-how-to-beat)
- - [Upcoming Game Delays Release To Avoid &#39;Busy&#39; February](https://kotaku.com/the-thaumaturge-rpg-delayed-busy-february-ps5-xbox-1851249845)<!-- GAME:END -->
+ - [Amid big rumors, Phil Spencer will discuss &#39;the future of Xbox&#39; in a podcast this week](https://www.pcgamer.com/amid-big-rumors-phil-spencer-will-discuss-the-future-of-xbox-in-a-podcast-this-week)
+ - [&#39;Don&#39;t airstrike me, bro&#39;: Helldivers 2&#39;s merciless friendly fire isn&#39;t bad, it&#39;s actually clever design](https://www.pcgamer.com/helldivers-2-friendly-fire)
+ - [Just in case you don&#39;t have enough Steam sales already, the Steam Remote Play Together Fest is here to continue the assault on your finances](https://www.pcgamer.com/steam-remote-play-together-fest-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
