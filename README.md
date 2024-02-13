@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Logitech ERGO K860 review](https://www.pcgamer.com/logitech-ergo-k860-keyboard-review)
- - [Some class-locked portal reskins? That&#39;ll be $20, please—Diablo 4&#39;s hellish microtransactions continue to sting](https://www.pcgamer.com/some-class-locked-portal-reskins-thatll-be-dollar20-pleasediablo-4s-hellish-microtransactions-continue-to-sting)
- - [Today&#39;s Wordle answer for Tuesday, February 13](https://www.pcgamer.com/wordle-today-answer-february-13-2024)<!-- GAME:END -->
+ - [I created a highly personalised large language model with Nvidia&#39;s entertaining Chat with RTX app but at 60GB+ I&#39;m now beginning to wonder if it&#39;s worth keeping around](https://www.pcgamer.com/i-created-a-highly-personalised-large-language-model-with-nvidias-entertaining-chat-with-rtx-app-but-at-60gb-im-now-beginning-to-wonder-if-its-worth-keeping-around)
+ - [Madame Web turns the post-credits scene into the whole cynical movie](https://www.polygon.com/reviews/24071362/madame-web-review-post-credits-scene-sequel-teaser-bad)
+ - [Marvel and DC’s legendary crossovers are finally back in print](https://www.polygon.com/24071678/marvel-dc-crossover-comics-history-books-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
