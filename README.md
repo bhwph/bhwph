@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with 40+ developers detail reasons for layoffs in gaming, including an environment fraught with high costs and execs having little regard for staff &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/240213/p3#a240213p3)
- - [First smartphones, now the Gemini app is coming to headphones](https://www.androidauthority.com/gemini-app-google-assistant-headphones-3414033/)
- - [Amazon Prime Video’s ad-supported subscription tier is worse than you’d expect](https://www.androidauthority.com/amazon-prime-video-ad-supported-subscription-no-dolby-atmos-vision-3414025/)<!-- TECH:END -->
+ - [Grey’s Anatomy season 20: Plot, release window, and more](https://www.androidauthority.com/greys-anatomy-season-20-release-date-3378885/)
+ - [Chrysler Halcyon concept is a reminder the company can be more than just minivans](https://www.theverge.com/2024/2/13/24067683/chrysler-halcyon-concept-ev-autonomous-specs-photos)
+ - [Wunderlist’s creators are back with a nifty new to-do app](https://www.theverge.com/2024/2/13/24071136/superlist-tasks-app-wunderlist-productivity-tool)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
