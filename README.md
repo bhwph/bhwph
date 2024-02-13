@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I wont pay for Acrobat Reader](http://9gag.com/gag/aeQoKoj)
- - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
- - 👉 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)<!-- MEMES:END -->
+ - 6️⃣ [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
+ - 😝 [Not title](http://9gag.com/gag/a6qvrrN)
+ - 👉 [If you know you know](http://9gag.com/gag/anzLAdq)<!-- MEMES:END -->
 
 --- 
 
