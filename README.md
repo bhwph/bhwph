@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
+ - 6️⃣ [Every time you boil milk](http://9gag.com/gag/avQYZ6W)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 👉 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)<!-- MEMES:END -->
+ - 👉 [Friendly care bear](http://9gag.com/gag/a1PzZm2)<!-- MEMES:END -->
 
 --- 
 
