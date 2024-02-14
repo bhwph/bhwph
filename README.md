@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NVIDIA’s Chat with RTX is an AI chatbot that runs offline on your personal files](https://www.androidauthority.com/nvidia-chat-with-rtx-offline-ai-chatbot-3414523/)
- - [Sony misses PS5 sales target as console enters ‘latter stage of its life cycle’](https://www.theverge.com/2024/2/14/24072692/sony-ps5-forecast-cut-q3-2023-earnings)
- - [Sources: Apple&#39;s longest-serving senior industrial designer, Bart Andre, told colleagues this month that he is retiring; Andre joined in 1992 alongside Jony Ive &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240214/p7#a240214p7)<!-- TECH:END -->
+ - [Microsoft and OpenAI say hackers are already using LLMs to refine and improve cyberattacks, including Russian, North Korean, Iranian, and Chinese-backed groups &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240214/p15#a240214p15)
+ - [Uber plans to buy back $7B in shares, a first for the company, after achieving operating profit and consistent positive free cash flow in 2023; UBER rises 4%+ &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240214/p14#a240214p14)
+ - [Xiaomi 14 series global pricing leaks: How does it compare to Samsung?](https://www.androidauthority.com/xiaomi-14-xiaomi-14-ultra-prices-3414562/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
