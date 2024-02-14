@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stargate cast then and now 2023](http://9gag.com/gag/axox20Y)
- - 😝 [\u201cThe best she can say is yes\u201d](http://9gag.com/gag/abvPXLv)
- - 👉 [Friendly care bear](http://9gag.com/gag/a1PzZm2)<!-- MEMES:END -->
+ - 6️⃣ [Best day of his life](http://9gag.com/gag/aPgKOMq)
+ - 😝 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
+ - 👉 [Yeah.](http://9gag.com/gag/a2KnQp9)<!-- MEMES:END -->
 
 --- 
 
