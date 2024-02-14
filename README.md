@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok plans to launch an in-app local language Election Centre in March in all 27 EU countries, to fight fake news ahead of the European Parliament elections &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240214/p2#a240214p2)
- - [Gemini AI is now rolling out to the Google app on iOS](https://www.androidauthority.com/gemini-ios-rollout-3414460/)
- - [Google Play will make it easier to delete an app account](https://www.androidauthority.com/google-play-delete-an-app-account-3414017/)<!-- TECH:END -->
+ - [The World’s Most Important Industry Has a New Captain—and She’s Piloting It Into the 21st Century](https://www.wired.com/shipping-industry-marina-hadjipateras/)
+ - [Xiaomi 14 Ultra renders show a huge Oreo cookie camera bump](https://www.androidauthority.com/xiaomi-14-ultra-design-leak-3414487/)
+ - [A Mozilla study of 11 AI romance chatbots finds that they harvest personal information extensively, and that 10 of them may sell or share the data they collect &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/240214/p5#a240214p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
