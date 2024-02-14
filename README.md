@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use the Services menu across macOS apps](https://appleinsider.com/inside/macos/tips/how-to-use-the-services-menu-across-macos-apps?utm_medium=rss)
- - [Deals: get Apple&#39;s M3 Pro MacBook Pro with 36GB RAM for $2,149](https://appleinsider.com/articles/24/02/14/deals-get-apples-latest-m3-pro-macbook-pro-with-36gb-ram-for-2149?utm_medium=rss)
- - [Unsurprisingly, Mark Zuckerberg believes Meta Quest 3 is the &#39;better product, period&#39;](https://appleinsider.com/articles/24/02/14/unsurprisingly-mark-zuckerberg-believes-meta-quest-3-is-the-better-product-period?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok plans to launch an in-app local language Election Centre in March in all 27 EU countries, to fight fake news ahead of the European Parliament elections &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240214/p2#a240214p2)
+ - [Gemini AI is now rolling out to the Google app on iOS](https://www.androidauthority.com/gemini-ios-rollout-3414460/)
+ - [Google Play will make it easier to delete an app account](https://www.androidauthority.com/google-play-delete-an-app-account-3414017/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
