@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [For the first time since 2002, Nvidia ended a trading day with a bigger market value than Amazon, as its market cap reached $1.78T, fueled by the AI boom &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240213/p36#a240213p36)
- - [Walmart might buy Vizio to win the fight over cheap TVs](https://www.theverge.com/2024/2/13/24072191/walmart-vizio-smart-tv-acquisition-rumor)
- - [GlobalFoundries reports Q4 revenue down 12% YoY to $1.85B, vs. 1.85B est., net income down 58% YoY to $278M, forecasted sales of $1.52B in Q1, vs. $1.77B est. &lpar;Patrick Seitz/Investor&#39;s Business Daily&rpar;](http://www.techmeme.com/240213/p35#a240213p35)<!-- TECH:END -->
+ - [Foundry Group, an 18-year-old VC firm with nearly $3.5B in assets under management, has quietly decided to wind down and not raise any more funds &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240213/p40#a240213p40)
+ - [After trying the Vision Pro, Mark Zuckerberg says Quest 3 ‘is the better product, period’](https://www.theverge.com/2024/2/13/24072413/mark-zuckerberg-apple-vision-pro-review-quest-3)
+ - [Cohere&#39;s nonprofit research lab releases its open-source multilingual LLM Aya, which it says can follow instructions in more than 100 languages &lpar;Alison Snyder/Axios&rpar;](http://www.techmeme.com/240213/p39#a240213p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
