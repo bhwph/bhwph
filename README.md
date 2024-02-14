@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One-season romance anime to watch with your partner this Valentine’s Day](https://www.polygon.com/what-to-watch/24071931/romance-anime-one-season-best)
- - [PlayStation won’t release any major first-party games before March 2025](https://www.polygon.com/24072730/no-new-ps5-games-exclusives-2024-release)
- - [Mario vs. Donkey Kong is fine, but Nintendo remade the wrong game](https://www.polygon.com/reviews/24072246/mario-vs-donkey-kong-switch-review)<!-- GAME:END -->
+ - [My favourite game of 2023 that gave me all the feels is trying to give me, uh, different feels with its giant cosmic dildo](https://www.pcgamer.com/my-favourite-game-of-2023-that-gave-me-all-the-feels-is-trying-to-give-me-uh-different-feels-with-its-giant-cosmic-dildo)
+ - [Endgame Gear KB65HE review](https://www.pcgamer.com/endgame-gear-kb65he-review)
+ - [The Xbox February Update is Starting to Roll Out](https://news.xbox.com/en-us/2024/02/14/xbox-february-update-rolls-out-2024/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
