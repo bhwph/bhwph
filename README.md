@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My favourite game of 2023 that gave me all the feels is trying to give me, uh, different feels with its giant cosmic dildo](https://www.pcgamer.com/my-favourite-game-of-2023-that-gave-me-all-the-feels-is-trying-to-give-me-uh-different-feels-with-its-giant-cosmic-dildo)
- - [Endgame Gear KB65HE review](https://www.pcgamer.com/endgame-gear-kb65he-review)
- - [The Xbox February Update is Starting to Roll Out](https://news.xbox.com/en-us/2024/02/14/xbox-february-update-rolls-out-2024/)<!-- GAME:END -->
+ - [How To Destroy Scout Striders In Helldivers 2](https://kotaku.com/helldivers-2-scout-strider-how-to-destroy-challenge-1851256750)
+ - [Hawked Is the Comic Book Adventure-Shooter You’ve Been Hunting For](https://news.xbox.com/en-us/2024/02/14/hawked-launch-xbox/)
+ - [Warpath is a new smol-scale miniatures game from the team behind Kings of War](https://www.polygon.com/tabletop-games/24072163/warpath-mantic-epic-40k-kickstarter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
