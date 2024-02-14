@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [HERBIE, the robot in the MCU’s Fantastic Four casting poster, has a long, weird history](https://www.polygon.com/24072946/fantastic-four-movie-robot-herbie-marvel)
- - [PS Plus Closes Out February With A Trifecta Of Big RPGs](https://kotaku.com/ps-plus-february-lineup-assassins-creed-tales-of-arise-1851257455)
- - [Xbox Insider Release Notes – Alpha &lpar;2403.240212-1227&rpar;](https://news.xbox.com/en-us/2024/02/14/xbox-insider-release-notes-alpha-2403-240212-1227/)<!-- GAME:END -->
+ - [Halo Infinite Just Refreshed Its Most Neglected Playlist](https://kotaku.com/halo-infinite-big-team-battle-new-maps-1851258190)
+ - [The five best early Stratagems in Helldivers 2](https://www.polygon.com/playstation/24072170/helldivers-2-best-stratagems)
+ - [Kotaku Asks: Who Is Your Biggest Video Game Crush?](https://kotaku.com/biggest-video-game-crushes-1851257890)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
