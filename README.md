@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft and OpenAI say hackers are already using LLMs to refine and improve cyberattacks, including Russian, North Korean, Iranian, and Chinese-backed groups &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240214/p15#a240214p15)
- - [Uber plans to buy back $7B in shares, a first for the company, after achieving operating profit and consistent positive free cash flow in 2023; UBER rises 4%+ &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240214/p14#a240214p14)
- - [Xiaomi 14 series global pricing leaks: How does it compare to Samsung?](https://www.androidauthority.com/xiaomi-14-xiaomi-14-ultra-prices-3414562/)<!-- TECH:END -->
+ - [YC releases a new list of 20 types of startups the accelerator wants to join its program, the biggest overhaul of its Request for Startups since 2018 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/240214/p20#a240214p20)
+ - [Spigen Slim Armor CS review: A robust wallet case for the Pixel 8 Pro](https://www.androidauthority.com/pixel-8-pro-spigen-slim-armor-case-review-3412164/)
+ - [Slack AI is here, letting you catch up on lengthy threads and unread messages](https://www.theverge.com/2024/2/14/24070590/slack-ai-launch-thread-summaries-search-recap)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
