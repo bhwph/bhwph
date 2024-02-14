@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Destroy Scout Striders In Helldivers 2](https://kotaku.com/helldivers-2-scout-strider-how-to-destroy-challenge-1851256750)
- - [Hawked Is the Comic Book Adventure-Shooter You’ve Been Hunting For](https://news.xbox.com/en-us/2024/02/14/hawked-launch-xbox/)
- - [Warpath is a new smol-scale miniatures game from the team behind Kings of War](https://www.polygon.com/tabletop-games/24072163/warpath-mantic-epic-40k-kickstarter)<!-- GAME:END -->
+ - [HERBIE, the robot in the MCU’s Fantastic Four casting poster, has a long, weird history](https://www.polygon.com/24072946/fantastic-four-movie-robot-herbie-marvel)
+ - [PS Plus Closes Out February With A Trifecta Of Big RPGs](https://kotaku.com/ps-plus-february-lineup-assassins-creed-tales-of-arise-1851257455)
+ - [Xbox Insider Release Notes – Alpha &lpar;2403.240212-1227&rpar;](https://news.xbox.com/en-us/2024/02/14/xbox-insider-release-notes-alpha-2403-240212-1227/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
