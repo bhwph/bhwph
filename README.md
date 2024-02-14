@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Thrustmaster ESWAP X 2 Pro review](https://www.pcgamer.com/thrustmaster-eswap-x-2-pro-review)
- - [How to get Resplendent Sparks in Diablo 4](https://www.pcgamer.com/diablo-4-resplendent-sparks)
- - [Helldivers 2 starts recruiting more devs for the war effort after its galactic success, aims to &#39;accelerate and beef up [its] content plans&#39;](https://www.pcgamer.com/helldivers-2-starts-recruiting-more-devs-for-the-war-effort-after-its-galactic-success-aims-to-accelerate-and-beef-up-its-content-plans)<!-- GAME:END -->
+ - [One-season romance anime to watch with your partner this Valentine’s Day](https://www.polygon.com/what-to-watch/24071931/romance-anime-one-season-best)
+ - [PlayStation won’t release any major first-party games before March 2025](https://www.polygon.com/24072730/no-new-ps5-games-exclusives-2024-release)
+ - [Mario vs. Donkey Kong is fine, but Nintendo remade the wrong game](https://www.polygon.com/reviews/24072246/mario-vs-donkey-kong-switch-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
