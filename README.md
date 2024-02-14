@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rasa, which provides a framework and a low-code UI to help enterprises build AI chatbots, raised a $30M Series C co-led by StepStone Group and PayPal Ventures &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240214/p27#a240214p27)
- - [The Feds Just Bet Even Bigger on American-Made Heat Pumps](https://www.wired.com/story/the-feds-just-bet-even-bigger-on-american-made-heat-pumps/)
- - [I Tried the Viral ‘Sleepy Girl Mocktail.’ Here’s Why Tart Cherry Juice is Flying Off Your Grocery Store’s Shelves.     - CNET](https://www.cnet.com/health/sleep/i-tried-the-viral-sleepy-girl-mocktail-heres-why-tart-cherry-juice-is-flying-off-your-grocery-stores-shelves/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Terrorists are allegedly buying blue checks on X](https://www.theverge.com/2024/2/14/24073146/x-twitter-blue-check-hezbollah-terrorist-groups-sanctions)
+ - [Tesla’s latest update takes aim at cold weather woes](https://www.theverge.com/2024/2/14/24073215/tesla-update-battery-range-wear-supercharger-extreme-cold)
+ - [Microsoft schedules Build 2024 for May 21 to May 23 in Seattle and online, with updates on AI, Copilot, and more expected &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240214/p32#a240214p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
