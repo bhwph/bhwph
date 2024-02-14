@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An alarming 80% of influencers aren’t disclosing sponcon, per new report](https://www.androidauthority.com/influencers-sponcon-report-3414744/)
- - [Section 702 Surveillance Fight Pits the White House Opposite Reproductive Rights](https://www.wired.com/story/surveillance-fight-pits-the-white-house-opposite-reproductive-rights/)
- - [Meta’s big vision for face computers might be better than Apple’s](https://www.theverge.com/2024/2/14/24070729/ray-ban-meta-smart-glasses-apple-vision-pro-ar-vr)<!-- TECH:END -->
+ - [MacBook Pro with OLED display rumored to hit shelves later than expected](https://appleinsider.com/articles/24/02/14/macbook-pro-with-oled-display-rumored-to-hit-shelves-later-than-expected?utm_medium=rss)
+ - [Last Minute Valentine&#39;s Day Flower Delivery Deals in NYC, LA, SF &amp; More     - CNET](https://www.cnet.com/deals/best-valentines-day-flower-deals/#ftag=CAD590a51e)
+ - [Ex-Apple executive in the running to lead joint ESPN, Warner, and Fox sports streamer](https://appleinsider.com/articles/24/02/14/ex-apple-executive-in-the-running-to-lead-joint-espn-warner-and-fox-sports-streamer?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
