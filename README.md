@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, February 14](https://www.pcgamer.com/wordle-today-answer-february-14-2024)
- - [Get To Know Our Team: Evie – Game Release Support Manager](https://news.xbox.com/en-us/2024/02/13/get-to-know-our-team-evie-game-release-support-manager/)
- - [The patch Diablo 4 players hoped would fix its worst endgame grind hasn&#39;t fixed its worst endgame grind](https://www.pcgamer.com/the-patch-diablo-4-players-hoped-would-fix-its-worst-endgame-grind-hasnt-fixed-its-worst-endgame-grind)<!-- GAME:END -->
+ - [Thrustmaster ESWAP X 2 Pro review](https://www.pcgamer.com/thrustmaster-eswap-x-2-pro-review)
+ - [How to get Resplendent Sparks in Diablo 4](https://www.pcgamer.com/diablo-4-resplendent-sparks)
+ - [Helldivers 2 starts recruiting more devs for the war effort after its galactic success, aims to &#39;accelerate and beef up [its] content plans&#39;](https://www.pcgamer.com/helldivers-2-starts-recruiting-more-devs-for-the-war-effort-after-its-galactic-success-aims-to-accelerate-and-beef-up-its-content-plans)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
