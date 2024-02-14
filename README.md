@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best day of his life](http://9gag.com/gag/aPgKOMq)
- - 😝 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
- - 👉 [Yeah.](http://9gag.com/gag/a2KnQp9)<!-- MEMES:END -->
+ - 6️⃣ [A Ship&#39;s Strong Preparation For Pirate Attacks](http://9gag.com/gag/ay2g5wX)
+ - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
+ - 👉 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)<!-- MEMES:END -->
 
 --- 
 
