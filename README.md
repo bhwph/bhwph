@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft&#39;s lead storyteller quietly left Blizzard last fall: &#39;I&#39;ve felt the itch to stretch my creativity in new directions&#39;](https://www.pcgamer.com/steve-danuser-world-of-warcraft-departure)
- - [How to find and kill Chargers in Helldivers 2](https://www.polygon.com/guides/24072123/helldivers-2-charges-where-to-find-how-to-kill)
- - [Palworld Costumes Are Here And Oh God…Oh No…](https://kotaku.com/palworld-costumes-halloween-knock-off-merch-pokemon-1851253440)<!-- GAME:END -->
+ - [Get To Know Our Team: Evie – Game Release Support Manager](https://news.xbox.com/en-us/2024/02/13/get-to-know-our-team-evie-game-release-support-manager/)
+ - [The patch Diablo 4 players hoped would fix its worst endgame grind hasn&#39;t fixed its worst endgame grind](https://www.pcgamer.com/the-patch-diablo-4-players-hoped-would-fix-its-worst-endgame-grind-hasnt-fixed-its-worst-endgame-grind)
+ - [Hearthstone is celebrating 10 years of RNG mayhem with free cards for everyone and a new nostalgia-themed expansion](https://www.pcgamer.com/hearthstone-is-celebrating-10-years-of-rng-mayhem-with-free-cards-for-everyone-and-a-new-nostalgia-themed-expansion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
