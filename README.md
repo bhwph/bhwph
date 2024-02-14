@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Pro with OLED display rumored to hit shelves later than expected](https://appleinsider.com/articles/24/02/14/macbook-pro-with-oled-display-rumored-to-hit-shelves-later-than-expected?utm_medium=rss)
- - [Last Minute Valentine&#39;s Day Flower Delivery Deals in NYC, LA, SF &amp; More     - CNET](https://www.cnet.com/deals/best-valentines-day-flower-deals/#ftag=CAD590a51e)
- - [Ex-Apple executive in the running to lead joint ESPN, Warner, and Fox sports streamer](https://appleinsider.com/articles/24/02/14/ex-apple-executive-in-the-running-to-lead-joint-espn-warner-and-fox-sports-streamer?utm_medium=rss)<!-- TECH:END -->
+ - [Rasa, which provides a framework and a low-code UI to help enterprises build AI chatbots, raised a $30M Series C co-led by StepStone Group and PayPal Ventures &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240214/p27#a240214p27)
+ - [The Feds Just Bet Even Bigger on American-Made Heat Pumps](https://www.wired.com/story/the-feds-just-bet-even-bigger-on-american-made-heat-pumps/)
+ - [I Tried the Viral ‘Sleepy Girl Mocktail.’ Here’s Why Tart Cherry Juice is Flying Off Your Grocery Store’s Shelves.     - CNET](https://www.cnet.com/health/sleep/i-tried-the-viral-sleepy-girl-mocktail-heres-why-tart-cherry-juice-is-flying-off-your-grocery-stores-shelves/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
