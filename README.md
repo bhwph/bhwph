@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Every time you boil milk](http://9gag.com/gag/avQYZ6W)
+ - 6️⃣ [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 👉 [Friendly care bear](http://9gag.com/gag/a1PzZm2)<!-- MEMES:END -->
+ - 👉 [Strike](http://9gag.com/gag/aNwxoAw)<!-- MEMES:END -->
 
 --- 
 
