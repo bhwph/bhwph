@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YC releases a new list of 20 types of startups the accelerator wants to join its program, the biggest overhaul of its Request for Startups since 2018 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/240214/p20#a240214p20)
- - [Spigen Slim Armor CS review: A robust wallet case for the Pixel 8 Pro](https://www.androidauthority.com/pixel-8-pro-spigen-slim-armor-case-review-3412164/)
- - [Slack AI is here, letting you catch up on lengthy threads and unread messages](https://www.theverge.com/2024/2/14/24070590/slack-ai-launch-thread-summaries-search-recap)<!-- TECH:END -->
+ - [An alarming 80% of influencers aren’t disclosing sponcon, per new report](https://www.androidauthority.com/influencers-sponcon-report-3414744/)
+ - [Section 702 Surveillance Fight Pits the White House Opposite Reproductive Rights](https://www.wired.com/story/surveillance-fight-pits-the-white-house-opposite-reproductive-rights/)
+ - [Meta’s big vision for face computers might be better than Apple’s](https://www.theverge.com/2024/2/14/24070729/ray-ban-meta-smart-glasses-apple-vision-pro-ar-vr)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
