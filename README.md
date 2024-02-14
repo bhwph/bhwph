@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not an american house](http://9gag.com/gag/a3Z93m7)
+ - 6️⃣ [The Argentinian footballer Enzo ignores the black kids and gives his shirt to the white boy](http://9gag.com/gag/a2KBNOw)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 👉 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)<!-- MEMES:END -->
+ - 👉 [A 12 hours `hunger strike`](http://9gag.com/gag/anzpBbb)<!-- MEMES:END -->
 
 --- 
 
