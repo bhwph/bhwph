@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [WTF](http://9gag.com/gag/abvP5RX)
- - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 👉 [Whale explodes](http://9gag.com/gag/aEqrzrN)<!-- MEMES:END -->
+ - 6️⃣ [\u201cCultural Appropriation\u201d in Japan. 52s](http://9gag.com/gag/arm6RKX)
+ - 😝 [Works everytime!](http://9gag.com/gag/a04AYQd)
+ - 👉 [The Argentinian footballer Enzo ignores the black kids and gives his shirt to the white boy](http://9gag.com/gag/a2KBNOw)<!-- MEMES:END -->
 
 --- 
 
