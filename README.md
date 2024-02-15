@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro shows users the real world four times faster than its rivals](https://appleinsider.com/articles/24/02/15/apple-vision-pro-shows-users-the-real-world-four-times-faster-than-its-rivals?utm_medium=rss)
- - [Best Bird Watching Gear &lpar;2024&rpar;: Everything You Need to Start Birding](https://www.wired.com/story/best-bird-watching-gear/)
- - [Sources: Sam Altman told people that the $7T figure represents the total investments needed for his chip project, including real estate, over some years &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240215/p23#a240215p23)<!-- TECH:END -->
+ - [Galaxy S22 series is next up to get February 2024’s security patch](https://www.androidauthority.com/galaxy-s22-series-february-patch-3415178/)
+ - [Windows 11 Pro dives to all-time low price of just $23!](https://www.androidauthority.com/deal-windows-11-pro-3415186/)
+ - [Filings: Sam Altman is the sole owner of the OpenAI Startup Fund, which reported $175M in total commitments in May 2023; Microsoft is an outside limited partner &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240215/p27#a240215p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
