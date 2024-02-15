@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Talkin’ Dune 2 with Denis Villeneuve](https://www.polygon.com/24072878/dune-2-timothee-chalamet-paul-hero-denis-villeneuve-interview)
- - [No Man’s Sky universe opens to newcomers for limited time with new Omega expedition, launching today](https://blog.playstation.com/2024/02/15/no-mans-sky-universe-opens-to-newcomers-for-limited-time-with-new-omega-expedition-launching-today/)
- - [No Man’s Sky Welcomes All Xbox Players for the Omega Expedition](https://news.xbox.com/en-us/2024/02/15/no-mans-sky-omega-expedition/)<!-- GAME:END -->
+ - [Ultra niche Skyrim mod lets you become the most potent mage of all: the fist wizard](https://www.pcgamer.com/ultra-niche-skyrim-mod-lets-you-become-the-most-potent-mage-of-all-the-fist-wizard)
+ - [A Fantastic Four movie set in the past would be the best case scenario](https://www.polygon.com/24073197/marvel-fantastic-four-period-piece-pedro-pascal-cast)
+ - [How a toxic world inspired Forever Skies, a first-person sci-fi survival game](https://blog.playstation.com/2024/02/15/how-a-toxic-world-inspired-forever-skies-a-first-person-sci-fi-survival-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
