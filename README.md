@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Beat the Beats VR lets you groove like a boxing champ on PS VR2 February 27](https://blog.playstation.com/2024/02/15/beat-the-beats-vr-lets-you-groove-like-a-boxing-champ-on-ps-vr2-february-27/)
- - [EA Play: Light It Up This Month in Madden NFL 24 – Now on the Play List](https://news.xbox.com/en-us/2024/02/15/ea-play-february-madden-24/)
- - [Embracer reveals it laid off around 1,400 people in 6 months last year, but don&#39;t be a bellyacher—this is all about &#39;maximising shareholder value&#39;](https://www.pcgamer.com/embracer-reveals-it-laid-off-around-1400-people-in-6-months-last-year-but-dont-be-a-bellyacher-this-is-all-about-maximising-shareholder-value)<!-- GAME:END -->
+ - [Four Xbox exclusives coming to PS5 and Nintendo Switch](https://www.polygon.com/24063938/microsoft-xbox-exclusivity-playstation-5-nintendo-switch)
+ - [Xbox’s Promise to Bring More Games to More Players Around the World](https://news.xbox.com/en-us/2024/02/15/xbox-promise-bring-more-games-to-more-players/)
+ - [The best Suicide Squad stories across movies, TV, and comics](https://www.polygon.com/24063413/best-suicide-squad-stories-tv-movies-animation-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
