@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Italian app developer Bending Spoons raised $155M from Baillie Gifford and more at a $2.6B valuation, after raising $100M in 2023, and seeks M&amp;A deals &lpar;Daniele Lepido/Bloomberg&rpar;](http://www.techmeme.com/240215/p11#a240215p11)
- - [YouTube TV is rolling out “Build a Multiview” to more users](https://www.androidauthority.com/youtube-tv-build-a-multiview-rolling-out-3415016/)
- - [Leaked Google documents detail Goose, a Gemini-based LLM designed for internal use to help employees write code faster, as part of an AI-driven efficiency push &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/240215/p10#a240215p10)<!-- TECH:END -->
+ - [This is the most underrated movie on Netflix](https://www.androidauthority.com/underrated-movies-netflix-3415030/)
+ - [Senior citizen hit by car saved by his new Apple Watch](https://appleinsider.com/articles/24/02/15/senior-citizen-hit-by-car-saved-by-his-new-apple-watch?utm_medium=rss)
+ - [M4 and A18 Apple Silicon rumored to get more powerful Neural Engines for iOS 18 AI features](https://appleinsider.com/articles/24/02/14/apples-m4-and-a18-to-have-more-powerful-neural-engines-for-ios-18-ai-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
