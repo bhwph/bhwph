@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S22 series is next up to get February 2024’s security patch](https://www.androidauthority.com/galaxy-s22-series-february-patch-3415178/)
- - [Windows 11 Pro dives to all-time low price of just $23!](https://www.androidauthority.com/deal-windows-11-pro-3415186/)
- - [Filings: Sam Altman is the sole owner of the OpenAI Startup Fund, which reported $175M in total commitments in May 2023; Microsoft is an outside limited partner &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240215/p27#a240215p27)<!-- TECH:END -->
+ - [Microsoft says its Xbox Game Pass service now has 34M subscribers, up 36% from the 25M subscribers Microsoft reported more than two years ago &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240215/p30#a240215p30)
+ - [Lego’s new Snow White and the Seven Dwarfs set comes with a teensy controversy](https://www.theverge.com/2024/2/15/24074184/lego-snow-white-dwarves-set-release-date)
+ - [You can snag a pair of Sonos’ excellent Era 100 speakers for $90 off right now](https://www.theverge.com/2024/2/15/24073753/sonos-era-100-lg-c3-oled-tv-govee-matter-light-strip-aeropress-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
