@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite Just Refreshed Its Most Neglected Playlist](https://kotaku.com/halo-infinite-big-team-battle-new-maps-1851258190)
- - [The five best early Stratagems in Helldivers 2](https://www.polygon.com/playstation/24072170/helldivers-2-best-stratagems)
- - [Kotaku Asks: Who Is Your Biggest Video Game Crush?](https://kotaku.com/biggest-video-game-crushes-1851257890)<!-- GAME:END -->
+ - [PSA: Helldivers 2 side objectives can be completed in seconds with the right weapons](https://www.pcgamer.com/helldivers-2-fast-side-objectives-broadcast-towers-fog)
+ - [Get To Know Our Team: Dean – Technical Program Manager](https://news.xbox.com/en-us/2024/02/14/get-to-know-our-team-dean-technical-program-manager/)
+ - [Once again I am forced to tap the &#39;singleplayer games are not dying&#39; sign](https://www.pcgamer.com/immortals-of-aveum-aaa-shooters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
