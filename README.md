@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Terrorists are allegedly buying blue checks on X](https://www.theverge.com/2024/2/14/24073146/x-twitter-blue-check-hezbollah-terrorist-groups-sanctions)
- - [Tesla’s latest update takes aim at cold weather woes](https://www.theverge.com/2024/2/14/24073215/tesla-update-battery-range-wear-supercharger-extreme-cold)
- - [Microsoft schedules Build 2024 for May 21 to May 23 in Seattle and online, with updates on AI, Copilot, and more expected &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240214/p32#a240214p32)<!-- TECH:END -->
+ - [Spigen Liquid Air review: Protect your Pixel 8 Pro in style](https://www.androidauthority.com/pixel-8-pro-spigen-liquid-air-case-review-3412792/)
+ - [Nvidia is now worth more than Amazon and Alphabet](https://www.theverge.com/2024/2/14/24073384/nvidia-market-cap-passes-amazon-alphabet)
+ - [Asahi Linux conformant to OpenGL 4.6 &amp; OpenGL ES 3.2 on Apple Silicon Macs](https://appleinsider.com/articles/24/02/15/asahi-linux-conformant-to-opengl-46-opengl-es-32-on-apple-silicon-macs?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
