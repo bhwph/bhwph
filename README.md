@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Together AI, which helps developers access Nvidia server chips to train AI models, is raising $100M+ led by Salesforce Ventures at a $1B+ valuation &lpar;The Information&rpar;](http://www.techmeme.com/240214/p37#a240214p37)
- - [X removes paid checkmarks from some accounts after a watchdog group found 28 verified accounts allegedly tied to Hezbollah and other US-sanctioned entities &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240214/p36#a240214p36)
- - [Best Internet Providers in Aurora, Illinois     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-il/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Meta is reducing payments to news orgs that fact-check potential WhatsApp misinformation, including on elections, and has cut funding for CrowdTangle &lpar;The Information&rpar;](http://www.techmeme.com/240214/p41#a240214p41)
+ - [The European Court of Human Rights rules backdoors that weaken E2EE violate human rights law, after Russia began requiring Telegram to decrypt messages in 2017 &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240214/p40#a240214p40)
+ - [Amazon researchers detail BASE TTS, the largest text-to-speech model yet, which they claim exhibits &quot;emergent&quot; qualities improving its natural speaking ability &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240214/p39#a240214p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
