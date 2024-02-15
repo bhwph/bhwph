@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says its Xbox Game Pass service now has 34M subscribers, up 36% from the 25M subscribers Microsoft reported more than two years ago &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240215/p30#a240215p30)
- - [Lego’s new Snow White and the Seven Dwarfs set comes with a teensy controversy](https://www.theverge.com/2024/2/15/24074184/lego-snow-white-dwarves-set-release-date)
- - [You can snag a pair of Sonos’ excellent Era 100 speakers for $90 off right now](https://www.theverge.com/2024/2/15/24073753/sonos-era-100-lg-c3-oled-tv-govee-matter-light-strip-aeropress-deal-sale)<!-- TECH:END -->
+ - [Xcode coding assistance rumored to be early Apple generative AI effort](https://appleinsider.com/articles/24/02/15/xcode-coding-assistance-rumored-to-be-early-apple-ai-effort?utm_medium=rss)
+ - [Roku reports Q4 revenue up 14% YoY to $984.4M, vs. $968.2M est., and warns of a &quot;challenging&quot; environment for media and entertainment in 2024; ROKU drops 14%+ &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240215/p35#a240215p35)
+ - [New bill would let defendants inspect algorithms used against them in court](https://www.theverge.com/2024/2/15/24074214/justice-in-forensic-algorithms-act-democrats-mark-takano-dwight-evans)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
