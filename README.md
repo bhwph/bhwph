@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Understandable, have a nice day](http://9gag.com/gag/awZRVZ1)
- - 😝 [Hear me out](http://9gag.com/gag/a3Z9dVv)
- - 👉 [Tax payer funded designer clothes, free phone, free housing, free healthcare, arrogant, obnoxious, refuses to work and refuses to obey the host countries laws...this is the European Union.](http://9gag.com/gag/adPZp39)<!-- MEMES:END -->
+ - 6️⃣ [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
+ - 😝 [Yo dawg](http://9gag.com/gag/a8qPYEV)
+ - 👉 [There is another](http://9gag.com/gag/axoxDDM)<!-- MEMES:END -->
 
 --- 
 
