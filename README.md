@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is reducing payments to news orgs that fact-check potential WhatsApp misinformation, including on elections, and has cut funding for CrowdTangle &lpar;The Information&rpar;](http://www.techmeme.com/240214/p41#a240214p41)
- - [The European Court of Human Rights rules backdoors that weaken E2EE violate human rights law, after Russia began requiring Telegram to decrypt messages in 2017 &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240214/p40#a240214p40)
- - [Amazon researchers detail BASE TTS, the largest text-to-speech model yet, which they claim exhibits &quot;emergent&quot; qualities improving its natural speaking ability &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240214/p39#a240214p39)<!-- TECH:END -->
+ - [Nothing Phone 2a price leaks: A rival to the best budget phones?](https://www.androidauthority.com/nothing-phone-2a-price-leaks-a-rival-to-the-best-budget-phones-3414462/)
+ - [A look at The Shotline, a project using ElevenLabs&#39; tech to create audio deepfakes of kids killed in gun violence, to place AI-generated calls to US lawmakers &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240215/p2#a240215p2)
+ - [Meta struggles to precisely define what political content is, offering only a vague statement, after saying it wouldn&#39;t amplify political content on Threads &lpar;Oliver Darcy/CNN&rpar;](http://www.techmeme.com/240215/p1#a240215p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
