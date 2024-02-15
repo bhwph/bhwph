@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Download these dark wallpapers for your phone](https://www.androidauthority.com/dark-wallpaper-phone-3414098/)
- - [Looks like the Apple Vision Pro fever is already over](https://www.androidauthority.com/apple-vision-pro-returns-3414980/)
- - [A look at OpenAI&#39;s business model as the company believes it can more than double the yearly run rate by 2025; ChatGPT enterprise now has 300+ paying customers &lpar;Financial Times&rpar;](http://www.techmeme.com/240215/p7#a240215p7)<!-- TECH:END -->
+ - [Sources: Italian app developer Bending Spoons raised $155M from Baillie Gifford and more at a $2.6B valuation, after raising $100M in 2023, and seeks M&amp;A deals &lpar;Daniele Lepido/Bloomberg&rpar;](http://www.techmeme.com/240215/p11#a240215p11)
+ - [YouTube TV is rolling out “Build a Multiview” to more users](https://www.androidauthority.com/youtube-tv-build-a-multiview-rolling-out-3415016/)
+ - [Leaked Google documents detail Goose, a Gemini-based LLM designed for internal use to help employees write code faster, as part of an AI-driven efficiency push &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/240215/p10#a240215p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
