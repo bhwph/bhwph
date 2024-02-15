@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ultra niche Skyrim mod lets you become the most potent mage of all: the fist wizard](https://www.pcgamer.com/ultra-niche-skyrim-mod-lets-you-become-the-most-potent-mage-of-all-the-fist-wizard)
- - [A Fantastic Four movie set in the past would be the best case scenario](https://www.polygon.com/24073197/marvel-fantastic-four-period-piece-pedro-pascal-cast)
- - [How a toxic world inspired Forever Skies, a first-person sci-fi survival game](https://blog.playstation.com/2024/02/15/how-a-toxic-world-inspired-forever-skies-a-first-person-sci-fi-survival-game/)<!-- GAME:END -->
+ - [Beat the Beats VR lets you groove like a boxing champ on PS VR2 February 27](https://blog.playstation.com/2024/02/15/beat-the-beats-vr-lets-you-groove-like-a-boxing-champ-on-ps-vr2-february-27/)
+ - [EA Play: Light It Up This Month in Madden NFL 24 – Now on the Play List](https://news.xbox.com/en-us/2024/02/15/ea-play-february-madden-24/)
+ - [Embracer reveals it laid off around 1,400 people in 6 months last year, but don&#39;t be a bellyacher—this is all about &#39;maximising shareholder value&#39;](https://www.pcgamer.com/embracer-reveals-it-laid-off-around-1400-people-in-6-months-last-year-but-dont-be-a-bellyacher-this-is-all-about-maximising-shareholder-value)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
