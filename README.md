@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lambda, which offers cloud computing services and computers to train AI, raised $320M led by Thomas Tull&#39;s US Innovative Technology at a $1.5B valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240215/p17#a240215p17)
- - [Bose&#39;s Ultra Open Earbuds Review: Impressive Sound, High Price](https://www.wired.com/review/bose-ultra-open-earbuds/)
- - [Bose’s new earbuds don’t go inside your ears at all](https://www.theverge.com/2024/2/15/24073713/bose-ultra-open-earbuds-announced-features)<!-- TECH:END -->
+ - [Apple Vision Pro shows users the real world four times faster than its rivals](https://appleinsider.com/articles/24/02/15/apple-vision-pro-shows-users-the-real-world-four-times-faster-than-its-rivals?utm_medium=rss)
+ - [Best Bird Watching Gear &lpar;2024&rpar;: Everything You Need to Start Birding](https://www.wired.com/story/best-bird-watching-gear/)
+ - [Sources: Sam Altman told people that the $7T figure represents the total investments needed for his chip project, including real estate, over some years &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240215/p23#a240215p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
