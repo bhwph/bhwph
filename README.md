@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u201cCultural Appropriation\u201d in Japan. 52s](http://9gag.com/gag/arm6RKX)
- - 😝 [Works everytime!](http://9gag.com/gag/a04AYQd)
+ - 6️⃣ [Tell me it gets easier, I beg you...](http://9gag.com/gag/aqe39Mp)
+ - 😝 [Hear me out](http://9gag.com/gag/a3Z9dVv)
  - 👉 [The Argentinian footballer Enzo ignores the black kids and gives his shirt to the white boy](http://9gag.com/gag/a2KBNOw)<!-- MEMES:END -->
 
 --- 
