@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation bosses say they want to work more &#39;proactively&#39; on PC releases, and it sure sounds like Sony is gearing up for more simultaneous debuts like Helldivers 2](https://www.pcgamer.com/playstation-bosses-say-they-want-to-work-more-proactively-on-pc-releases-and-it-sure-sounds-like-sony-is-gearing-up-for-more-simultaneous-debuts-like-helldivers-2)
- - [A leaked Lenovo laptop comes with a transparent display and I can&#39;t get my head around why anyone would think that&#39;s a good idea](https://www.pcgamer.com/a-leaked-lenovo-laptop-comes-with-a-transparent-display-and-i-cant-get-my-head-around-why-anyone-would-think-thats-a-good-idea)
- - [Sony InZone H5 review](https://www.pcgamer.com/sony-inzone-h5-wireless-gaming-headset-review)<!-- GAME:END -->
+ - [Talkin’ Dune 2 with Denis Villeneuve](https://www.polygon.com/24072878/dune-2-timothee-chalamet-paul-hero-denis-villeneuve-interview)
+ - [No Man’s Sky universe opens to newcomers for limited time with new Omega expedition, launching today](https://blog.playstation.com/2024/02/15/no-mans-sky-universe-opens-to-newcomers-for-limited-time-with-new-omega-expedition-launching-today/)
+ - [No Man’s Sky Welcomes All Xbox Players for the Omega Expedition](https://news.xbox.com/en-us/2024/02/15/no-mans-sky-omega-expedition/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
