@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gamers report aptly named fire ants are causing their PCs to overheat](https://www.pcgamer.com/gamers-report-aptly-named-fire-ants-are-causing-their-pcs-to-overheat)
- - [Today&#39;s Wordle answer for Thursday, February 15](https://www.pcgamer.com/wordle-answer-today-february-15-2024)
- - [Microsoft really wants you to upgrade to Windows 11 by touting its start menu as a &#39;game changer&#39;](https://www.pcgamer.com/microsoft-really-wants-you-to-upgrade-to-windows-11-by-touting-its-start-menu-as-a-game-changer)<!-- GAME:END -->
+ - [PlayStation bosses say they want to work more &#39;proactively&#39; on PC releases, and it sure sounds like Sony is gearing up for more simultaneous debuts like Helldivers 2](https://www.pcgamer.com/playstation-bosses-say-they-want-to-work-more-proactively-on-pc-releases-and-it-sure-sounds-like-sony-is-gearing-up-for-more-simultaneous-debuts-like-helldivers-2)
+ - [A leaked Lenovo laptop comes with a transparent display and I can&#39;t get my head around why anyone would think that&#39;s a good idea](https://www.pcgamer.com/a-leaked-lenovo-laptop-comes-with-a-transparent-display-and-i-cant-get-my-head-around-why-anyone-would-think-thats-a-good-idea)
+ - [Sony InZone H5 review](https://www.pcgamer.com/sony-inzone-h5-wireless-gaming-headset-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
