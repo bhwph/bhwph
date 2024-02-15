@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tell me it gets easier, I beg you...](http://9gag.com/gag/aqe39Mp)
- - 😝 [Hear me out](http://9gag.com/gag/a3Z9dVv)
- - 👉 [The Argentinian footballer Enzo ignores the black kids and gives his shirt to the white boy](http://9gag.com/gag/a2KBNOw)<!-- MEMES:END -->
+ - 6️⃣ [Cop mistakes acorn for gunshot..](http://9gag.com/gag/aqe3LNM)
+ - 😝 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)
+ - 👉 [They dont even try anymore :&lpar;](http://9gag.com/gag/az2NLPb)<!-- MEMES:END -->
 
 --- 
 
