@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 2a price leaks: A rival to the best budget phones?](https://www.androidauthority.com/nothing-phone-2a-price-leaks-a-rival-to-the-best-budget-phones-3414462/)
- - [A look at The Shotline, a project using ElevenLabs&#39; tech to create audio deepfakes of kids killed in gun violence, to place AI-generated calls to US lawmakers &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240215/p2#a240215p2)
- - [Meta struggles to precisely define what political content is, offering only a vague statement, after saying it wouldn&#39;t amplify political content on Threads &lpar;Oliver Darcy/CNN&rpar;](http://www.techmeme.com/240215/p1#a240215p1)<!-- TECH:END -->
+ - [Download these dark wallpapers for your phone](https://www.androidauthority.com/dark-wallpaper-phone-3414098/)
+ - [Looks like the Apple Vision Pro fever is already over](https://www.androidauthority.com/apple-vision-pro-returns-3414980/)
+ - [A look at OpenAI&#39;s business model as the company believes it can more than double the yearly run rate by 2025; ChatGPT enterprise now has 300+ paying customers &lpar;Financial Times&rpar;](http://www.techmeme.com/240215/p7#a240215p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
