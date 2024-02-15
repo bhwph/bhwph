@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Four Xbox exclusives coming to PS5 and Nintendo Switch](https://www.polygon.com/24063938/microsoft-xbox-exclusivity-playstation-5-nintendo-switch)
- - [Xbox’s Promise to Bring More Games to More Players Around the World](https://news.xbox.com/en-us/2024/02/15/xbox-promise-bring-more-games-to-more-players/)
- - [The best Suicide Squad stories across movies, TV, and comics](https://www.polygon.com/24063413/best-suicide-squad-stories-tv-movies-animation-list)<!-- GAME:END -->
+ - [Deep Rock Galactic: Survivor’s auto-shooter gameplay has me yearning for the mines](https://www.polygon.com/24074194/deep-rock-galactic-survivor-review-impressions)
+ - [Helldivers 2 abruptly presses pause on its war on bugs, urges players to go kill millions of robots instead](https://www.pcgamer.com/helldivers-2-abruptly-presses-pause-on-its-war-on-bugs-urges-players-to-go-kill-millions-of-robots-instead)
+ - [Embracer Cancelled Nearly 30 Unannounced Games In Just 6 Months](https://kotaku.com/embracer-group-cancelled-30-games-1851262245)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
