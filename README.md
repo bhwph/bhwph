@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is the most underrated movie on Netflix](https://www.androidauthority.com/underrated-movies-netflix-3415030/)
- - [Senior citizen hit by car saved by his new Apple Watch](https://appleinsider.com/articles/24/02/15/senior-citizen-hit-by-car-saved-by-his-new-apple-watch?utm_medium=rss)
- - [M4 and A18 Apple Silicon rumored to get more powerful Neural Engines for iOS 18 AI features](https://appleinsider.com/articles/24/02/14/apples-m4-and-a18-to-have-more-powerful-neural-engines-for-ios-18-ai-features?utm_medium=rss)<!-- TECH:END -->
+ - [Lambda, which offers cloud computing services and computers to train AI, raised $320M led by Thomas Tull&#39;s US Innovative Technology at a $1.5B valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240215/p17#a240215p17)
+ - [Bose&#39;s Ultra Open Earbuds Review: Impressive Sound, High Price](https://www.wired.com/review/bose-ultra-open-earbuds/)
+ - [Bose’s new earbuds don’t go inside your ears at all](https://www.theverge.com/2024/2/15/24073713/bose-ultra-open-earbuds-announced-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
