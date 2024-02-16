@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake 2 battles through the Dark Place to become Remedy&#39;s fastest-selling game with over 1 million copies sold, although a happy ending remains unwritten as it is yet to turn a profit](https://www.pcgamer.com/alan-wake-2-battles-through-the-dark-place-to-become-remedys-fastest-selling-game-with-over-1-million-copies-sold-although-a-happy-ending-remains-unwritten-as-it-is-yet-to-turn-a-profit)
- - [The next Xbox will be the &#39;largest technical leap&#39; yet but Microsoft is still planning to release exclusive Xbox games on other platforms](https://www.pcgamer.com/the-next-xbox-will-be-the-largest-technical-leap-yet-but-microsoft-is-still-planning-to-release-exclusive-xbox-games-on-other-platforms)
- - [After a week of teasing, Patch 6 of Baldur&#39;s Gate 3 is now live—adding randomised smooches, camp animations, and scary new Honour Mode legendary actions](https://www.pcgamer.com/after-a-week-of-teasing-patch-6-of-baldurs-gate-3-is-now-liveadding-randomised-smooches-camp-animations-and-scary-new-honour-mode-legendary-actions)<!-- GAME:END -->
+ - [Baldur’s Gate 3’s anticipated kissing patch is finally out](https://www.polygon.com/24072935/baldurs-gate-3-kissing-patch-6-update)
+ - [The story behind Avatar’s bending designs still rules, nearly 20 years later](https://www.polygon.com/24073790/avatar-last-airbender-atla-bending-fight-choreography-reference-photography-martial-artist-sifu-kisu)
+ - [Helldivers 2 roadmap is &#39;very out of date in comparison to what we now want to do&#39; according to Arrowhead&#39;s CEO, as the game&#39;s stratospheric launch brings new ideas and ambition to the studio](https://www.pcgamer.com/helldivers-2-roadmap-is-very-out-of-date-in-comparison-to-what-we-now-want-to-do-according-to-arrowheads-ceo-as-the-games-stratospheric-launch-brings-new-ideas-and-ambition-to-the-studio)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
