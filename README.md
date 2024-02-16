@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A deal is a deal](http://9gag.com/gag/axoxg5Y)
- - 😝 [Can&#39;t even get a potato these days](http://9gag.com/gag/a04Ajgn)
- - 👉 [When mama brings out your favorite food](http://9gag.com/gag/arm6ORp)<!-- MEMES:END -->
+ - 6️⃣ [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
+ - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
+ - 👉 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)<!-- MEMES:END -->
 
 --- 
 
