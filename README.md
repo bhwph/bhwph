@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Instant Karma](http://9gag.com/gag/a8qPyDp)
- - 😝 [Did you know that Taylor Swift has a small cameo in Troy?](http://9gag.com/gag/aBdqWRP)
- - 👉 [Take fifty with me](http://9gag.com/gag/aoKrOqA)<!-- MEMES:END -->
+ - 6️⃣ [Knowing when to pick your battles is a important life skill](http://9gag.com/gag/anzpMNE)
+ - 😝 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)
+ - 👉 [Audience member couldn\u2019t help herself :&rpar;](http://9gag.com/gag/amAjrB6)<!-- MEMES:END -->
 
 --- 
 
