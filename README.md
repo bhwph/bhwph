@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta releases V-JEPA, an AI model that learns by predicting missing or masked parts of unlabeled video to develop a conceptual understanding of the world &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/240215/p40#a240215p40)
- - [Ukrainian Vyacheslav Penchukov pleads guilty in the US for his role in the Zeus and IcedID malware groups, which stole millions from victims for over a decade &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/240215/p39#a240215p39)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Google announces the AI Cyber Defense Initiative, which includes launching new AI security training and open sourcing Magika, a tool used to protect Gmail users &lpar;Davey Winder/Forbes&rpar;](http://www.techmeme.com/240215/p41#a240215p41)
+ - [Best Internet Providers in Shreveport, Louisiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-shreveport-la/#ftag=CAD590a51e)
+ - [Meta releases V-JEPA, an AI model that learns by predicting missing or masked parts of unlabeled video to develop a conceptual understanding of the world &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/240215/p40#a240215p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
