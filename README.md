@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alleged iPhone 16 part leak suggests vertical camera alignment](https://appleinsider.com/articles/24/02/16/alleged-leaked-iphone-16-part-suggests-vertical-camera-alignment?utm_medium=rss)
- - [Canada&#39;s Civil Resolution Tribunal rules that Air Canada should give a passenger a retroactive discount, which was erroneously promised by the airlines&#39; chatbot &lpar;Susan Lazaruk/Vancouver Sun&rpar;](http://www.techmeme.com/240216/p20#a240216p20)
- - [Sources: Masayoshi Son seeks up to $100B for an AI chip venture to rival Nvidia; one scenario involves $30B from SoftBank and $70B from Middle Eastern investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/240216/p19#a240216p19)<!-- TECH:END -->
+ - [Android 15 saves you from friends blowing up your notifications](https://www.androidauthority.com/android-15-notification-cooldown-3415784/)
+ - [Sony’s portable PlayStation Portal is back in stock](https://www.theverge.com/2024/2/16/23973797/playstation-portal-remote-player-ps5-handheld-sony-restock-availability)
+ - [Court filing: Amazon claims the NLRB is unconstitutional, after the agency said Amazon illegally retaliated against workers; SpaceX has made a similar claim &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240216/p23#a240216p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
