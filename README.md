@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
- - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)<!-- MEMES:END -->
+ - 6️⃣ [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 😝 [Did you know that Taylor Swift has a small cameo in Troy?](http://9gag.com/gag/aBdqWRP)
+ - 👉 [Take fifty with me](http://9gag.com/gag/aoKrOqA)<!-- MEMES:END -->
 
 --- 
 
