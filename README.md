@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft fixes Edge browser bug that was stealing Chrome tabs and data](https://www.theverge.com/2024/2/16/24074712/microsoft-edge-automatic-chrome-import-data-bug-fix)
- - [PitchBook: Q4 2023 saw only 12 crypto exits, the lowest number since Q4 2020 and consistent with the &quot;low-level activity seen throughout 2023&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/240216/p3#a240216p3)
- - [More evidence suggests Nest Aware is coming to Google One](https://www.androidauthority.com/google-one-nest-aware-3415396/)<!-- TECH:END -->
+ - [One of the best Apple Silicon games is free to play this weekend](https://appleinsider.com/articles/24/02/16/one-of-the-best-apple-silicon-games-is-free-to-play-this-weekend?utm_medium=rss)
+ - [Apple&#39;s iPhone SE 4 rumored to launch early in 2025](https://appleinsider.com/articles/24/02/16/apples-iphone-se-4-to-launch-early-in-2025?utm_medium=rss)
+ - [Reserve Bank of India says it is not planning harsher rules to curb the country&#39;s fintech sector, weeks after abruptly suspending Paytm Payments Bank operations &lpar;Bloomberg&rpar;](http://www.techmeme.com/240216/p6#a240216p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
