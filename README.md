@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [John &lpar;Arthur&rpar; wick](http://9gag.com/gag/aMER8oV)
- - 😝 [Home office superiority](http://9gag.com/gag/awZRQBr)
- - 👉 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)<!-- MEMES:END -->
+ - 6️⃣ [Whale explodes](http://9gag.com/gag/aEqrzrN)
+ - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
+ - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)<!-- MEMES:END -->
 
 --- 
 
