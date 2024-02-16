@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside the Dazzling Design of 3D Platformer Penny’s Big Breakaway](https://news.xbox.com/en-us/2024/02/16/inside-the-dazzling-design-of-3d-platformer-pennys-big-breakaway/)
- - [Baldur&#39;s Gate 3&#39;s Best New Romance Tweak Was Inspired By Fan Art](https://kotaku.com/baldurs-gate-3-patch-6-gale-romance-fanart-proposal-1851265180)
- - [New Star Wars Bounty Hunter Game Coming From Respawn, Says Report](https://kotaku.com/star-wars-mandalorian-video-game-respawn-1851265140)<!-- GAME:END -->
+ - [Survival games are having another viral moment, making PC players the tastemakers once again](https://www.pcgamer.com/survival-games-are-having-another-viral-moment-and-once-again-pc-players-are-the-tastemakers)
+ - [All Of Our Best Palworld Tips, In One Handy Place](https://kotaku.com/all-of-our-best-palworld-tips-in-one-handy-place-1851261931)
+ - [Helldivers 2 Extra XP Weekend Means It&#39;s Time To Level Up Fast](https://kotaku.com/helldivers-2-server-fix-xp-extra-weekend-1851265438)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
