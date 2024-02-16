@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, February 16](https://www.pcgamer.com/wordle-answer-today-february-16-2024)
- - [How to clean your computer](https://www.pcgamer.com/how-to-clean-your-computer-case)
- - [OpenAI unveils powerful, creepy new text-to-video generator that it calls &#39;a foundation for models that can understand and simulate the real world&#39;](https://www.pcgamer.com/openai-sora-text-to-video-announcement)<!-- GAME:END -->
+ - [Alan Wake 2 battles through the Dark Place to become Remedy&#39;s fastest-selling game with over 1 million copies sold, although a happy ending remains unwritten as it is yet to turn a profit](https://www.pcgamer.com/alan-wake-2-battles-through-the-dark-place-to-become-remedys-fastest-selling-game-with-over-1-million-copies-sold-although-a-happy-ending-remains-unwritten-as-it-is-yet-to-turn-a-profit)
+ - [The next Xbox will be the &#39;largest technical leap&#39; yet but Microsoft is still planning to release exclusive Xbox games on other platforms](https://www.pcgamer.com/the-next-xbox-will-be-the-largest-technical-leap-yet-but-microsoft-is-still-planning-to-release-exclusive-xbox-games-on-other-platforms)
+ - [After a week of teasing, Patch 6 of Baldur&#39;s Gate 3 is now live—adding randomised smooches, camp animations, and scary new Honour Mode legendary actions](https://www.pcgamer.com/after-a-week-of-teasing-patch-6-of-baldurs-gate-3-is-now-liveadding-randomised-smooches-camp-animations-and-scary-new-honour-mode-legendary-actions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
