@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
+ - 6️⃣ [John &lpar;Arthur&rpar; wick](http://9gag.com/gag/aMER8oV)
+ - 😝 [Home office superiority](http://9gag.com/gag/awZRQBr)
  - 👉 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)<!-- MEMES:END -->
 
 --- 
