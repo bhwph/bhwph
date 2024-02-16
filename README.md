@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So, there is a way](http://9gag.com/gag/aeQoYpW)
- - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)<!-- MEMES:END -->
+ - 6️⃣ [A deal is a deal](http://9gag.com/gag/axoxg5Y)
+ - 😝 [Can&#39;t even get a potato these days](http://9gag.com/gag/a04Ajgn)
+ - 👉 [When mama brings out your favorite food](http://9gag.com/gag/arm6ORp)<!-- MEMES:END -->
 
 --- 
 
