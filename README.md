@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 25 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Want more skateboarding and laser pistols in your D&amp;D campaign? This year&#39;s ZineQuest is offering up a feast of weird and wonderful new adventures for tabletop RPG fans](https://www.pcgamer.com/want-more-skateboarding-and-laser-pistols-in-your-dandd-campaign-this-years-zinequest-is-offering-up-a-feast-of-weird-and-wonderful-new-adventures-for-tabletop-rpg-fans)
- - [Share of the Week: Romantic](https://blog.playstation.com/2024/02/16/share-of-the-week-romantic/)<!-- GAME:END -->
+ - [Inside the Dazzling Design of 3D Platformer Penny’s Big Breakaway](https://news.xbox.com/en-us/2024/02/16/inside-the-dazzling-design-of-3d-platformer-pennys-big-breakaway/)
+ - [Baldur&#39;s Gate 3&#39;s Best New Romance Tweak Was Inspired By Fan Art](https://kotaku.com/baldurs-gate-3-patch-6-gale-romance-fanart-proposal-1851265180)
+ - [New Star Wars Bounty Hunter Game Coming From Respawn, Says Report](https://kotaku.com/star-wars-mandalorian-video-game-respawn-1851265140)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
