@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon’s Oral History of Final Fantasy 7 just got a second edition](https://www.polygon.com/deals/2024/2/16/24074420/500-years-later-oral-history-of-final-fantasy-7-book)
- - [An AI-generated image of a rat with unfeasibly large genitals made it into a peer-reviewed article, along with the caption &#39;dck&#39;](https://www.pcgamer.com/an-ai-generated-image-of-a-rat-with-unfeasibly-large-genitals-made-it-into-a-peer-reviewed-article-along-with-the-caption-dck)
- - [Tales of Kenzera: Zau creator interview — Finding the beauty of creation in grief](https://blog.playstation.com/2024/02/16/tales-of-kenzera-zau-creator-interview-finding-the-beauty-of-creation-in-grief/)<!-- GAME:END -->
+ - [The 25 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Want more skateboarding and laser pistols in your D&amp;D campaign? This year&#39;s ZineQuest is offering up a feast of weird and wonderful new adventures for tabletop RPG fans](https://www.pcgamer.com/want-more-skateboarding-and-laser-pistols-in-your-dandd-campaign-this-years-zinequest-is-offering-up-a-feast-of-weird-and-wonderful-new-adventures-for-tabletop-rpg-fans)
+ - [Share of the Week: Romantic](https://blog.playstation.com/2024/02/16/share-of-the-week-romantic/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
