@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [So far, the early return rate on Apple Vision Pro is pretty low](https://appleinsider.com/articles/24/02/16/so-far-the-early-return-rate-on-apple-vision-pro-is-pretty-low?utm_medium=rss)
- - [A Wyze outage is cutting off people’s access to their security cameras](https://www.theverge.com/2024/2/16/24074799/wyze-outage-security-camera-smart-home-down-offline)
- - [OpenAI, Google, Meta, TikTok, X, and others sign a voluntary accord at the Munich Security Conference to fight AI-generated deepfakes designed to mislead voters &lpar;Associated Press&rpar;](http://www.techmeme.com/240216/p15#a240216p15)<!-- TECH:END -->
+ - [Alleged iPhone 16 part leak suggests vertical camera alignment](https://appleinsider.com/articles/24/02/16/alleged-leaked-iphone-16-part-suggests-vertical-camera-alignment?utm_medium=rss)
+ - [Canada&#39;s Civil Resolution Tribunal rules that Air Canada should give a passenger a retroactive discount, which was erroneously promised by the airlines&#39; chatbot &lpar;Susan Lazaruk/Vancouver Sun&rpar;](http://www.techmeme.com/240216/p20#a240216p20)
+ - [Sources: Masayoshi Son seeks up to $100B for an AI chip venture to rival Nvidia; one scenario involves $30B from SoftBank and $70B from Middle Eastern investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/240216/p19#a240216p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
