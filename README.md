@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone SE 4 could be the first in the series with an OLED display](https://www.androidauthority.com/iphone-se-4-oled-display-3415589/)
- - [Best price yet on the Garmin Forerunner 745 at $113 off](https://www.androidauthority.com/garmin-forerunner-745-deal-3415622/)
- - [Paramount and Comcast are reportedly considering a streaming partnership](https://www.theverge.com/2024/2/16/24074887/paramount-plus-peacock-partnership)<!-- TECH:END -->
+ - [So far, the early return rate on Apple Vision Pro is pretty low](https://appleinsider.com/articles/24/02/16/so-far-the-early-return-rate-on-apple-vision-pro-is-pretty-low?utm_medium=rss)
+ - [A Wyze outage is cutting off people’s access to their security cameras](https://www.theverge.com/2024/2/16/24074799/wyze-outage-security-camera-smart-home-down-offline)
+ - [OpenAI, Google, Meta, TikTok, X, and others sign a voluntary accord at the Munich Security Conference to fight AI-generated deepfakes designed to mislead voters &lpar;Associated Press&rpar;](http://www.techmeme.com/240216/p15#a240216p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
