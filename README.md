@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This serial killer kills serial killers!](http://9gag.com/gag/az2NjMm)
- - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - 👉 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)<!-- MEMES:END -->
+ - 6️⃣ [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
+ - 😝 [Post the most unfunny memes you have](http://9gag.com/gag/aeQoYYb)
+ - 👉 [When mama brings out your favorite food](http://9gag.com/gag/arm6ORp)<!-- MEMES:END -->
 
 --- 
 
