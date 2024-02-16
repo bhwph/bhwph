@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces the AI Cyber Defense Initiative, which includes launching new AI security training and open sourcing Magika, a tool used to protect Gmail users &lpar;Davey Winder/Forbes&rpar;](http://www.techmeme.com/240215/p41#a240215p41)
- - [Best Internet Providers in Shreveport, Louisiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-shreveport-la/#ftag=CAD590a51e)
- - [Meta releases V-JEPA, an AI model that learns by predicting missing or masked parts of unlabeled video to develop a conceptual understanding of the world &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/240215/p40#a240215p40)<!-- TECH:END -->
+ - [The FTC proposes new rules that would make companies liable if they &quot;know or have reason to know&quot; their AI tech is being used to harmfully impersonate consumers &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240215/p44#a240215p44)
+ - [Source: Sequoia partner Matthew Miller asked Klarna shareholders to remove Michael Moritz from the board of directors, with full support from Roelof Botha &lpar;The Information&rpar;](http://www.techmeme.com/240215/p43#a240215p43)
+ - [Orico ClearLink M.2 DIY 2TB Portable SSD review: a competent DIY SSD solution for home or office](https://appleinsider.com/articles/24/02/16/orico-clearlink-m2-diy-2tb-portable-ssd-review-a-competent-diy-ssd-solution-for-home-or-office?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
