@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter, 28 civil rights organizations, including noyb, urge the EDPB to reject Meta&#39;s approach of asking EU users to pay or consent to be tracked for ads &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240216/p2#a240216p2)
- - [Looking forward to more Galaxy Flip-style foldables? There’s some bad news for you](https://www.androidauthority.com/oppo-vivo-no-flip-foldable-2024-3415352/)
- - [Best Gaming Laptop for 2024     - CNET](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft fixes Edge browser bug that was stealing Chrome tabs and data](https://www.theverge.com/2024/2/16/24074712/microsoft-edge-automatic-chrome-import-data-bug-fix)
+ - [PitchBook: Q4 2023 saw only 12 crypto exits, the lowest number since Q4 2020 and consistent with the &quot;low-level activity seen throughout 2023&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/240216/p3#a240216p3)
+ - [More evidence suggests Nest Aware is coming to Google One](https://www.androidauthority.com/google-one-nest-aware-3415396/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
