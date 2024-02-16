@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of the best Apple Silicon games is free to play this weekend](https://appleinsider.com/articles/24/02/16/one-of-the-best-apple-silicon-games-is-free-to-play-this-weekend?utm_medium=rss)
- - [Apple&#39;s iPhone SE 4 rumored to launch early in 2025](https://appleinsider.com/articles/24/02/16/apples-iphone-se-4-to-launch-early-in-2025?utm_medium=rss)
- - [Reserve Bank of India says it is not planning harsher rules to curb the country&#39;s fintech sector, weeks after abruptly suspending Paytm Payments Bank operations &lpar;Bloomberg&rpar;](http://www.techmeme.com/240216/p6#a240216p6)<!-- TECH:END -->
+ - [Clubhouse launches group voice chats, which will read out texts sent by members in the sender&#39;s custom voice &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240216/p10#a240216p10)
+ - [Sierra Says Conversational AI Will Kill Apps and Websites](https://www.wired.com/story/plaintext-sierra-conversational-ai-will-kill-apps-and-websites/)
+ - [The OnePlus 12R is a $500 phone with flagship tendencies](https://www.theverge.com/24072383/oneplus-12r-review-screen-camera-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
