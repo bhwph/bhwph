@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clubhouse launches group voice chats, which will read out texts sent by members in the sender&#39;s custom voice &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240216/p10#a240216p10)
- - [Sierra Says Conversational AI Will Kill Apps and Websites](https://www.wired.com/story/plaintext-sierra-conversational-ai-will-kill-apps-and-websites/)
- - [The OnePlus 12R is a $500 phone with flagship tendencies](https://www.theverge.com/24072383/oneplus-12r-review-screen-camera-price)<!-- TECH:END -->
+ - [iPhone SE 4 could be the first in the series with an OLED display](https://www.androidauthority.com/iphone-se-4-oled-display-3415589/)
+ - [Best price yet on the Garmin Forerunner 745 at $113 off](https://www.androidauthority.com/garmin-forerunner-745-deal-3415622/)
+ - [Paramount and Comcast are reportedly considering a streaming partnership](https://www.theverge.com/2024/2/16/24074887/paramount-plus-peacock-partnership)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
