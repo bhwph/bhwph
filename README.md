@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3’s anticipated kissing patch is finally out](https://www.polygon.com/24072935/baldurs-gate-3-kissing-patch-6-update)
- - [The story behind Avatar’s bending designs still rules, nearly 20 years later](https://www.polygon.com/24073790/avatar-last-airbender-atla-bending-fight-choreography-reference-photography-martial-artist-sifu-kisu)
- - [Helldivers 2 roadmap is &#39;very out of date in comparison to what we now want to do&#39; according to Arrowhead&#39;s CEO, as the game&#39;s stratospheric launch brings new ideas and ambition to the studio](https://www.pcgamer.com/helldivers-2-roadmap-is-very-out-of-date-in-comparison-to-what-we-now-want-to-do-according-to-arrowheads-ceo-as-the-games-stratospheric-launch-brings-new-ideas-and-ambition-to-the-studio)<!-- GAME:END -->
+ - [Polygon’s Oral History of Final Fantasy 7 just got a second edition](https://www.polygon.com/deals/2024/2/16/24074420/500-years-later-oral-history-of-final-fantasy-7-book)
+ - [An AI-generated image of a rat with unfeasibly large genitals made it into a peer-reviewed article, along with the caption &#39;dck&#39;](https://www.pcgamer.com/an-ai-generated-image-of-a-rat-with-unfeasibly-large-genitals-made-it-into-a-peer-reviewed-article-along-with-the-caption-dck)
+ - [Tales of Kenzera: Zau creator interview — Finding the beauty of creation in grief](https://blog.playstation.com/2024/02/16/tales-of-kenzera-zau-creator-interview-finding-the-beauty-of-creation-in-grief/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
