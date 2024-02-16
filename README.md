@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
- - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
- - 👉 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)<!-- MEMES:END -->
+ - 6️⃣ [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
+ - 😝 [A deal is a deal](http://9gag.com/gag/axoxg5Y)
+ - 👉 [The Hero we deserve, smarter than most people](http://9gag.com/gag/aBdqWKz)<!-- MEMES:END -->
 
 --- 
 
