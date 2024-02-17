@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I hate when asteroids suddenly have internal gravity.](http://9gag.com/gag/a3Z97Wr)
- - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
- - 👉 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)<!-- MEMES:END -->
+ - 6️⃣ [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 😝 [You&#39;re the evil resident](http://9gag.com/gag/anzp9d0)
+ - 👉 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)<!-- MEMES:END -->
 
 --- 
 
