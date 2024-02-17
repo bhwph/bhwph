@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 saves you from friends blowing up your notifications](https://www.androidauthority.com/android-15-notification-cooldown-3415784/)
- - [Sony’s portable PlayStation Portal is back in stock](https://www.theverge.com/2024/2/16/23973797/playstation-portal-remote-player-ps5-handheld-sony-restock-availability)
- - [Court filing: Amazon claims the NLRB is unconstitutional, after the agency said Amazon illegally retaliated against workers; SpaceX has made a similar claim &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240216/p23#a240216p23)<!-- TECH:END -->
+ - [Sources: Nintendo has told game publishers that it has delayed the launch of Switch 2 from late 2024 to Q1 2025 &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/240216/p27#a240216p27)
+ - [Wyze cameras reportedly let owners see into a stranger’s home — again](https://www.theverge.com/2024/2/16/24075369/wyze-security-camera-stranger-feeds-glitch)
+ - [Is TikTok safe?](https://www.androidauthority.com/is-tiktok-safe-3415752/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
