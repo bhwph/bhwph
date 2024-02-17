@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I have one big question about Madame Web’s villain Ezekiel &lpar;and a million small ones&rpar;](https://www.polygon.com/24074410/madame-web-villain-ezekiel-sims-questions)
- - [Helldivers 2, Palworld, And More Of The Week&#39;s Essential Tips](https://kotaku.com/helldivers-2-palworld-baldurs-gate-3-tips-guides-1851264567)
- - [The best sci-fi movies to watch on Netflix this February](https://www.polygon.com/what-to-watch/2024/2/17/24070681/best-sci-fi-movies-watch-netflix-february-2024)<!-- GAME:END -->
+ - [‘It’s not easy to be told you’re in love’: How Don’t Nod reinvented the video game love story](https://www.polygon.com/24075083/dont-nod-interview-banishers-ghosts-of-new-eden)
+ - [This Innovative Hades-Like Feels Built For Speedrunners](https://kotaku.com/lysfanga-quantic-dream-sand-door-studio-hades-pc-1851264639)
+ - [I have one big question about Madame Web’s villain Ezekiel &lpar;and a million small ones&rpar;](https://www.polygon.com/24074410/madame-web-villain-ezekiel-sims-questions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
