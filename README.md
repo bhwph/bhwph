@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Survival games are having another viral moment, making PC players the tastemakers once again](https://www.pcgamer.com/survival-games-are-having-another-viral-moment-and-once-again-pc-players-are-the-tastemakers)
- - [All Of Our Best Palworld Tips, In One Handy Place](https://kotaku.com/all-of-our-best-palworld-tips-in-one-handy-place-1851261931)
- - [Helldivers 2 Extra XP Weekend Means It&#39;s Time To Level Up Fast](https://kotaku.com/helldivers-2-server-fix-xp-extra-weekend-1851265438)<!-- GAME:END -->
+ - [8 things Helldivers 2 doesn&#39;t tell you that are actually pretty important](https://www.pcgamer.com/8-things-helldivers-2-doesnt-tell-you-that-are-actually-pretty-important)
+ - [Disco Elysium studio laying off nearly 25% of its staff⁠—including the final remaining writer from the original game&#39;s credits](https://www.pcgamer.com/disco-elysium-studio-laying-off-nearly-25-of-its-staffincluding-the-final-remaining-writer-from-the-original-games-credits)
+ - [You&#39;ll get extra Helldivers 2 XP this weekend to make up for a bug](https://www.pcgamer.com/youll-get-extra-helldivers-2-xp-this-weekend-to-make-up-for-a-bug)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
