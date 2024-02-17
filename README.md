@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
- - 😝 [You&#39;re the evil resident](http://9gag.com/gag/anzp9d0)
- - 👉 [New OpenAI tool now generates video from text](http://9gag.com/gag/a5XmbNG)<!-- MEMES:END -->
+ - 6️⃣ [Women](http://9gag.com/gag/aqe3K9p)
+ - 😝 [New OpenAI tool now generates video from text](http://9gag.com/gag/a5XmbNG)
+ - 👉 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)<!-- MEMES:END -->
 
 --- 
 
