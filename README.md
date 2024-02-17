@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, February 17](https://www.pcgamer.com/wordle-answer-today-february-17-2024)
  - [Get To Know Our Team: Tyler – Technical Program Manager &lpar;Commerce &amp; Subscriptions&rpar;](https://news.xbox.com/en-us/2024/02/16/get-to-know-our-team-tyler-technical-program-manager-commerce-subscriptions/)
- - [8 things Helldivers 2 doesn&#39;t tell you that are actually pretty important](https://www.pcgamer.com/8-things-helldivers-2-doesnt-tell-you-that-are-actually-pretty-important)
- - [Disco Elysium studio laying off nearly 25% of its staff⁠—including the final remaining writer from the original game&#39;s credits](https://www.pcgamer.com/disco-elysium-studio-laying-off-nearly-25-of-its-staffincluding-the-final-remaining-writer-from-the-original-games-credits)<!-- GAME:END -->
+ - [8 things Helldivers 2 doesn&#39;t tell you that are actually pretty important](https://www.pcgamer.com/8-things-helldivers-2-doesnt-tell-you-that-are-actually-pretty-important)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
