@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Rescue a box stuck in a bear&#39;s head](http://9gag.com/gag/aVbnqXn)
- - 😝 [I hate when asteroids suddenly have internal gravity.](http://9gag.com/gag/a3Z97Wr)
- - 👉 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)<!-- MEMES:END -->
+ - 6️⃣ [I hate when asteroids suddenly have internal gravity.](http://9gag.com/gag/a3Z97Wr)
+ - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
+ - 👉 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)<!-- MEMES:END -->
 
 --- 
 
