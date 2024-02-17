@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 6️⃣ [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
  - 😝 [You&#39;re the evil resident](http://9gag.com/gag/anzp9d0)
- - 👉 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)<!-- MEMES:END -->
+ - 👉 [New OpenAI tool now generates video from text](http://9gag.com/gag/a5XmbNG)<!-- MEMES:END -->
 
 --- 
 
