@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
- - 😝 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
- - 👉 [I Disagree, you?](http://9gag.com/gag/a04AdVL)<!-- MEMES:END -->
+ - 6️⃣ [Heckin&#39; Majestic](http://9gag.com/gag/a5Xmn5y)
+ - 😝 [They are right](http://9gag.com/gag/aBdq0K2)
+ - 👉 [And they piss on my door!!!!!](http://9gag.com/gag/a8qPob1)<!-- MEMES:END -->
 
 --- 
 
