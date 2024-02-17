@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Heckin&#39; Majestic](http://9gag.com/gag/a5Xmn5y)
- - 😝 [They are right](http://9gag.com/gag/aBdq0K2)
- - 👉 [And they piss on my door!!!!!](http://9gag.com/gag/a8qPob1)<!-- MEMES:END -->
+ - 6️⃣ [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)
+ - 😝 [Luckiest guy in the world? I don&#39;t know why but I believe him](http://9gag.com/gag/agoMqPK)
+ - 👉 [Instant Karma](http://9gag.com/gag/a8qPyDp)<!-- MEMES:END -->
 
 --- 
 
