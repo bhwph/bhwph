@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [19 Best Presidents&#39; Day Deals on Home and Kitchen Gear &lpar;2024&rpar;](https://www.wired.com/story/best-presidents-day-deals-home-and-kitchen/)
- - [Key Tax Filing Deadlines for 2024 You Don&#39;t Want to Forget     - CNET](https://www.cnet.com/personal-finance/taxes/key-tax-filing-deadlines-for-2024-you-dont-want-to-forget/#ftag=CAD590a51e)
- - [Brentford vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/brentford-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Not Get Scammed Out of $50,000](https://www.wired.com/story/how-to-not-get-scammed-out-of-50000/)
+ - [Apple Podcasts bug prevents listeners from enjoying new episodes](https://appleinsider.com/articles/24/02/17/apple-podcasts-bug-prevents-listeners-from-enjoying-new-episodes?utm_medium=rss)
+ - [Best Internet Providers in Louisiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-louisiana/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
