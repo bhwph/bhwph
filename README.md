@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘It’s not easy to be told you’re in love’: How Don’t Nod reinvented the video game love story](https://www.polygon.com/24075083/dont-nod-interview-banishers-ghosts-of-new-eden)
- - [This Innovative Hades-Like Feels Built For Speedrunners](https://kotaku.com/lysfanga-quantic-dream-sand-door-studio-hades-pc-1851264639)
- - [I have one big question about Madame Web’s villain Ezekiel &lpar;and a million small ones&rpar;](https://www.polygon.com/24074410/madame-web-villain-ezekiel-sims-questions)<!-- GAME:END -->
+ - [If you&#39;ve gone Hollow waiting for Elden Ring&#39;s actual expansion, tide yourself over with with this expansion-sized mod that transforms the entire game](https://www.pcgamer.com/if-youve-gone-hollow-waiting-for-elden-rings-actual-expansion-tide-yourself-over-with-with-this-expansion-sized-mod-that-transforms-the-entire-game)
+ - [Frank Herbert always thought Star Wars was a Dune ripoff](https://www.polygon.com/24075067/dune-star-wars-frank-herbert-george-lucas)
+ - [‘It’s not easy to be told you’re in love’: How Don’t Nod reinvented the video game love story](https://www.polygon.com/24075083/dont-nod-interview-banishers-ghosts-of-new-eden)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
