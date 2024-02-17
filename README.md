@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Helldivers 2 player counts more than double launch weekend, 300K and climbing, as the co-op shooter goes viral](https://www.pcgamer.com/helldivers-2-player-counts-more-than-double-launch-weekend-300k-and-climbing-as-the-co-op-shooter-goes-viral)
  - [If you&#39;ve gone Hollow waiting for Elden Ring&#39;s actual expansion, tide yourself over with with this expansion-sized mod that transforms the entire game](https://www.pcgamer.com/if-youve-gone-hollow-waiting-for-elden-rings-actual-expansion-tide-yourself-over-with-with-this-expansion-sized-mod-that-transforms-the-entire-game)
- - [Frank Herbert always thought Star Wars was a Dune ripoff](https://www.polygon.com/24075067/dune-star-wars-frank-herbert-george-lucas)
- - [‘It’s not easy to be told you’re in love’: How Don’t Nod reinvented the video game love story](https://www.polygon.com/24075083/dont-nod-interview-banishers-ghosts-of-new-eden)<!-- GAME:END -->
+ - [Frank Herbert always thought Star Wars was a Dune ripoff](https://www.polygon.com/24075067/dune-star-wars-frank-herbert-george-lucas)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
