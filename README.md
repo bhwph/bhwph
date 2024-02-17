@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Knowing when to pick your battles is a important life skill](http://9gag.com/gag/anzpMNE)
- - 😝 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)
- - 👉 [Audience member couldn\u2019t help herself :&rpar;](http://9gag.com/gag/amAjrB6)<!-- MEMES:END -->
+ - 6️⃣ [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
+ - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
+ - 👉 [Stay strapped or get clapped](http://9gag.com/gag/awZRnK1)<!-- MEMES:END -->
 
 --- 
 
