@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the UK, the US, and other allies are working to provide Ukraine with thousands of new AI-enabled drones that could swarm Russian targets simultaneously &lpar;Bloomberg&rpar;](http://www.techmeme.com/240217/p6#a240217p6)
- - [The DICE Awards show is the celebration developers and fans deserve](https://www.theverge.com/2024/2/17/24075044/dice-awards-video-game-developers-awards)
- - [Score Hundreds off Your Next Bed With These 19 Presidents Day Mattress Sales     - CNET](https://www.cnet.com/deals/best-presidents-day-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Weibo iPhone 16 leak doubles down on vertical camera rumor](https://appleinsider.com/articles/24/02/17/weibo-iphone-16-leak-doubles-down-on-vertical-camera-rumor?utm_medium=rss)
+ - [How tech workers, spurred by geopolitical threats, are embracing battlefield tech; PitchBook: VCs invested $108B in defense tech companies between 2021 and 2023 &lpar;Washington Post&rpar;](http://www.techmeme.com/240217/p7#a240217p7)
+ - [Reddit has a new AI training deal to sell user content](https://www.theverge.com/2024/2/17/24075670/reddit-ai-training-license-deal-user-content)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
