@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 😝 [I hate when asteroids suddenly have internal gravity.](http://9gag.com/gag/a3Z97Wr)
- - 👉 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)<!-- MEMES:END -->
+ - 6️⃣ [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
+ - 😝 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
+ - 👉 [I Disagree, you?](http://9gag.com/gag/a04AdVL)<!-- MEMES:END -->
 
 --- 
 
