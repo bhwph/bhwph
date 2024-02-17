@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Salute the flag of capitalism with our best President’s Day deals](https://www.polygon.com/24074888/best-gaming-deals-presidents-day-sale)
- - [Today&#39;s Wordle answer for Saturday, February 17](https://www.pcgamer.com/wordle-answer-today-february-17-2024)
- - [Get To Know Our Team: Tyler – Technical Program Manager &lpar;Commerce &amp; Subscriptions&rpar;](https://news.xbox.com/en-us/2024/02/16/get-to-know-our-team-tyler-technical-program-manager-commerce-subscriptions/)<!-- GAME:END -->
+ - [I have one big question about Madame Web’s villain Ezekiel &lpar;and a million small ones&rpar;](https://www.polygon.com/24074410/madame-web-villain-ezekiel-sims-questions)
+ - [Helldivers 2, Palworld, And More Of The Week&#39;s Essential Tips](https://kotaku.com/helldivers-2-palworld-baldurs-gate-3-tips-guides-1851264567)
+ - [The best sci-fi movies to watch on Netflix this February](https://www.polygon.com/what-to-watch/2024/2/17/24070681/best-sci-fi-movies-watch-netflix-february-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
