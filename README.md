@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women](http://9gag.com/gag/aqe3K9p)
- - 😝 [New OpenAI tool now generates video from text](http://9gag.com/gag/a5XmbNG)
- - 👉 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)<!-- MEMES:END -->
+ - 6️⃣ [What level of karen is this](http://9gag.com/gag/a04AR2v)
+ - 😝 [He he](http://9gag.com/gag/az2N1PN)
+ - 👉 [Ann Coulter saying if it were a white male, media would jump to tell everyone](http://9gag.com/gag/a9qQKVo)<!-- MEMES:END -->
 
 --- 
 
