@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weibo iPhone 16 leak doubles down on vertical camera rumor](https://appleinsider.com/articles/24/02/17/weibo-iphone-16-leak-doubles-down-on-vertical-camera-rumor?utm_medium=rss)
- - [How tech workers, spurred by geopolitical threats, are embracing battlefield tech; PitchBook: VCs invested $108B in defense tech companies between 2021 and 2023 &lpar;Washington Post&rpar;](http://www.techmeme.com/240217/p7#a240217p7)
- - [Reddit has a new AI training deal to sell user content](https://www.theverge.com/2024/2/17/24075670/reddit-ai-training-license-deal-user-content)<!-- TECH:END -->
+ - [Pixel Tablet Deals: Up to $300 in Trade-In Value and Free Services     - CNET](https://www.cnet.com/deals/best-pixel-tablet-deals/#ftag=CAD590a51e)
+ - [Apple Pay is down for Chase customers, and perhaps others](https://www.theverge.com/2024/2/17/24075840/apple-pay-is-down-for-chase-customers-and-perhaps-others)
+ - [Presidents Day Sales: You Can Save With Over 70 Deals on TVs, Appliances, Mattresses and More     - CNET](https://www.cnet.com/deals/best-presidents-day-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
