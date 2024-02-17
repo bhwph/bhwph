@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Tablet Deals: Up to $300 in Trade-In Value and Free Services     - CNET](https://www.cnet.com/deals/best-pixel-tablet-deals/#ftag=CAD590a51e)
- - [Apple Pay is down for Chase customers, and perhaps others](https://www.theverge.com/2024/2/17/24075840/apple-pay-is-down-for-chase-customers-and-perhaps-others)
- - [Presidents Day Sales: You Can Save With Over 70 Deals on TVs, Appliances, Mattresses and More     - CNET](https://www.cnet.com/deals/best-presidents-day-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SPEC invalidates 2,600 benchmark results for some Intel Xeon CPUs, saying their compiler artificially inflated the results of its benchmark by as much as 9% &lpar;Michael Crider/PCWorld&rpar;](http://www.techmeme.com/240217/p9#a240217p9)
+ - [Best Samsung Galaxy Z Flip 5 Deals: $100 in Direct Discounts and Free With New Line or Trade-In     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-flip-5-deals/#ftag=CAD590a51e)
+ - [Snag Discounts of Up to 60% Off During This Presidents Day Weekend Sale     - CNET](https://www.cnet.com/deals/snag-discounts-of-up-to-60-off-during-this-presidents-day-weekend-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
