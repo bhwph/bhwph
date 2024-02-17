@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Salute the flag of capitalism with our best President’s Day deals](https://www.polygon.com/24074888/best-gaming-deals-presidents-day-sale)
  - [Today&#39;s Wordle answer for Saturday, February 17](https://www.pcgamer.com/wordle-answer-today-february-17-2024)
- - [Get To Know Our Team: Tyler – Technical Program Manager &lpar;Commerce &amp; Subscriptions&rpar;](https://news.xbox.com/en-us/2024/02/16/get-to-know-our-team-tyler-technical-program-manager-commerce-subscriptions/)
- - [8 things Helldivers 2 doesn&#39;t tell you that are actually pretty important](https://www.pcgamer.com/8-things-helldivers-2-doesnt-tell-you-that-are-actually-pretty-important)<!-- GAME:END -->
+ - [Get To Know Our Team: Tyler – Technical Program Manager &lpar;Commerce &amp; Subscriptions&rpar;](https://news.xbox.com/en-us/2024/02/16/get-to-know-our-team-tyler-technical-program-manager-commerce-subscriptions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
