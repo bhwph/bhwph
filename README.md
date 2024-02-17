@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Not Get Scammed Out of $50,000](https://www.wired.com/story/how-to-not-get-scammed-out-of-50000/)
- - [Apple Podcasts bug prevents listeners from enjoying new episodes](https://appleinsider.com/articles/24/02/17/apple-podcasts-bug-prevents-listeners-from-enjoying-new-episodes?utm_medium=rss)
- - [Best Internet Providers in Louisiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-louisiana/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the UK, the US, and other allies are working to provide Ukraine with thousands of new AI-enabled drones that could swarm Russian targets simultaneously &lpar;Bloomberg&rpar;](http://www.techmeme.com/240217/p6#a240217p6)
+ - [The DICE Awards show is the celebration developers and fans deserve](https://www.theverge.com/2024/2/17/24075044/dice-awards-video-game-developers-awards)
+ - [Score Hundreds off Your Next Bed With These 19 Presidents Day Mattress Sales     - CNET](https://www.cnet.com/deals/best-presidents-day-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
