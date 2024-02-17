@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
- - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
- - 👉 [Stay strapped or get clapped](http://9gag.com/gag/awZRnK1)<!-- MEMES:END -->
+ - 6️⃣ [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 😝 [I hate when asteroids suddenly have internal gravity.](http://9gag.com/gag/a3Z97Wr)
+ - 👉 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)<!-- MEMES:END -->
 
 --- 
 
