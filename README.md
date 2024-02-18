@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Black lives or something](http://9gag.com/gag/aeQoD6m)
- - 😝 [Endless steps in Chongqing](http://9gag.com/gag/aOxg30y)
- - 👉 [Plot twist: there are two different guys](http://9gag.com/gag/aXnDoAV)<!-- MEMES:END -->
+ - 6️⃣ [Black Power](http://9gag.com/gag/aGE3dD7)
+ - 😝 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
+ - 👉 [Chill](http://9gag.com/gag/aA0WgQo)<!-- MEMES:END -->
 
 --- 
 
