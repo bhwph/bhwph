@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chill](http://9gag.com/gag/aA0WgQo)
- - 😝 [Brave girl in Ireland put trash into trash bin](http://9gag.com/gag/aDYp4Kx)
- - 👉 [Oh hell nah](http://9gag.com/gag/ap9y5XE)<!-- MEMES:END -->
+ - 6️⃣ [Idk why my last post of this vid got deleted even after 1k upvotes](http://9gag.com/gag/aWGKxzK)
+ - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
+ - 👉 [Did we talk about this?](http://9gag.com/gag/a04ARGd)<!-- MEMES:END -->
 
 --- 
 
