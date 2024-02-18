@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Still The Most Disappointing Beat Drop EVER.](http://9gag.com/gag/aYV87Nw)
- - 😝 [Spotify&#39;s new terms of service for audiobooks](http://9gag.com/gag/aPgNY2q)
- - 👉 [Gentlemen, this is democracy manifest.](http://9gag.com/gag/aQEwd72)<!-- MEMES:END -->
+ - 6️⃣ [Black Power](http://9gag.com/gag/aGE3dD7)
+ - 😝 [Universal sign language](http://9gag.com/gag/aeQoreO)
+ - 👉 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)<!-- MEMES:END -->
 
 --- 
 
