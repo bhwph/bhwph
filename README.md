@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Black Power](http://9gag.com/gag/aGE3dD7)
- - 😝 [Universal sign language](http://9gag.com/gag/aeQoreO)
- - 👉 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)<!-- MEMES:END -->
+ - 6️⃣ [Black lives or something](http://9gag.com/gag/aeQoD6m)
+ - 😝 [A ship crossing the Panama Canal](http://9gag.com/gag/aL1Y0n6)
+ - 👉 [Gentlemen, this is democracy manifest.](http://9gag.com/gag/aQEwd72)<!-- MEMES:END -->
 
 --- 
 
