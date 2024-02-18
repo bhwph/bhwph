@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SPEC invalidates 2,600 benchmark results for some Intel Xeon CPUs, saying their compiler artificially inflated the results of its benchmark by as much as 9% &lpar;Michael Crider/PCWorld&rpar;](http://www.techmeme.com/240217/p9#a240217p9)
- - [Best Samsung Galaxy Z Flip 5 Deals: $100 in Direct Discounts and Free With New Line or Trade-In     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-flip-5-deals/#ftag=CAD590a51e)
- - [Snag Discounts of Up to 60% Off During This Presidents Day Weekend Sale     - CNET](https://www.cnet.com/deals/snag-discounts-of-up-to-60-off-during-this-presidents-day-weekend-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the data center economy of Ireland, which had 82 data centers in 2023, amid concerns about rolling blackouts due to pressure on the electrical grid &lpar;Jessica Traynor/The Guardian&rpar;](http://www.techmeme.com/240217/p10#a240217p10)
+ - [Apple Pay isn&#39;t working for some Chase customers](https://appleinsider.com/articles/24/02/17/apple-pay-isnt-working-for-some-chase-customers?utm_medium=rss)
+ - [SPEC invalidates 2,600 benchmark results for some Intel Xeon CPUs, saying their compiler artificially inflated the results of its benchmark by as much as 9% &lpar;Michael Crider/PCWorld&rpar;](http://www.techmeme.com/240217/p9#a240217p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
