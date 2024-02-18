@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
- - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
- - 👉 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)<!-- MEMES:END -->
+ - 6️⃣ [Still The Most Disappointing Beat Drop EVER.](http://9gag.com/gag/aYV87Nw)
+ - 😝 [Spotify&#39;s new terms of service for audiobooks](http://9gag.com/gag/aPgNY2q)
+ - 👉 [Gentlemen, this is democracy manifest.](http://9gag.com/gag/aQEwd72)<!-- MEMES:END -->
 
 --- 
 
