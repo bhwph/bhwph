@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get Up to $500 Off Top Rowing Machines During Hydrow&#39;s Presidents Day Sale     - CNET](https://www.cnet.com/deals/get-up-to-500-off-top-rowing-machines-from-hydrow/#ftag=CAD590a51e)
  - [A look at the data center economy of Ireland, which had 82 data centers in 2023, amid concerns about rolling blackouts due to pressure on the electrical grid &lpar;Jessica Traynor/The Guardian&rpar;](http://www.techmeme.com/240217/p10#a240217p10)
- - [Apple Pay isn&#39;t working for some Chase customers](https://appleinsider.com/articles/24/02/17/apple-pay-isnt-working-for-some-chase-customers?utm_medium=rss)
- - [SPEC invalidates 2,600 benchmark results for some Intel Xeon CPUs, saying their compiler artificially inflated the results of its benchmark by as much as 9% &lpar;Michael Crider/PCWorld&rpar;](http://www.techmeme.com/240217/p9#a240217p9)<!-- TECH:END -->
+ - [Apple Pay isn&#39;t working for some Chase customers](https://appleinsider.com/articles/24/02/17/apple-pay-isnt-working-for-some-chase-customers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
