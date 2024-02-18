@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei’s decline is the worst thing that could’ve happened to Samsung and Android](https://www.androidauthority.com/huawei-decline-samsung-android-3410674/)
- - [15 Questions You Should Ask Your Solar Installer     - CNET](https://www.cnet.com/home/energy-and-utilities/15-questions-you-should-ask-your-solar-installer/#ftag=CAD590a51e)
- - [Planning to See Dune 2? Here&#39;s Where to Stream Part 1     - CNET](https://www.cnet.com/tech/services-and-software/planning-to-see-dune-2-heres-where-to-stream-part-1/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Laela Sturdy, the head of Alphabet&#39;s growth stage venture arm CapitalG, about its decision-making process, AI strategy, Stripe&#39;s valuation, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240218/p8#a240218p8)
+ - [Best Nintendo Switch Deals: Save Up to 56 On Switch Lite, Digital and Physical Games, Screen Protectors and More     - CNET](https://www.cnet.com/deals/best-nintendo-switch-deals/#ftag=CAD590a51e)
+ - [Sony Xperia 5 VI wishlist: All the features I want to see](https://www.androidauthority.com/sony-xperia-5-vi-3407759/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
