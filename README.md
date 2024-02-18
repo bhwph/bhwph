@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [With the Switch 2 on the way, is it a bad idea to buy the regular Switch?](https://www.polygon.com/24072924/buy-switch-or-switch-2)
- - [PS5 Life Cycle, FF7 Paint, And More Of This Week&#39;s Strongest Opinions](https://kotaku.com/kotaku-opinion-reviews-ff7-final-fantasy-ps5-starfield-1851264568)
- - [Today&#39;s Wordle answer for Sunday, February 18](https://www.pcgamer.com/wordle-answer-today-february-18-2024)<!-- GAME:END -->
+ - [Acid Planet looks like a cross of Vampire Survivors and They Are Billions](https://www.pcgamer.com/acid-planet-looks-like-a-cross-of-vampire-survivors-and-they-are-billions)
+ - [The best way to rewatch Avatar: The Last Airbender is jumping right to season 2](https://www.polygon.com/24073965/avatar-last-airbender-best-season-2-atla-netflix)
+ - [Helldivers 2 studio continues to wrangle its servers like a bucking bronco, capping player count at 450K to avoid instability](https://www.pcgamer.com/helldivers-2-studio-continues-to-wrangle-its-servers-like-a-bucking-bronco-capping-player-count-at-450k-to-avoid-instability)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
