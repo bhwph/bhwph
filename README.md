@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What level of karen is this](http://9gag.com/gag/a04AR2v)
- - 😝 [He he](http://9gag.com/gag/az2N1PN)
- - 👉 [Ann Coulter saying if it were a white male, media would jump to tell everyone](http://9gag.com/gag/a9qQKVo)<!-- MEMES:END -->
+ - 6️⃣ [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
+ - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
+ - 👉 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)<!-- MEMES:END -->
 
 --- 
 
