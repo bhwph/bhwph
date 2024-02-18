@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Endless steps in Chongqing](http://9gag.com/gag/aOxg30y)
- - 😝 [Universal sign language](http://9gag.com/gag/aeQoreO)
+ - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
  - 👉 [Black lives or something](http://9gag.com/gag/aeQoD6m)<!-- MEMES:END -->
 
 --- 
