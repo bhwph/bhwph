@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 player counts more than double launch weekend, 300K and climbing, as the co-op shooter goes viral](https://www.pcgamer.com/helldivers-2-player-counts-more-than-double-launch-weekend-300k-and-climbing-as-the-co-op-shooter-goes-viral)
- - [If you&#39;ve gone Hollow waiting for Elden Ring&#39;s actual expansion, tide yourself over with with this expansion-sized mod that transforms the entire game](https://www.pcgamer.com/if-youve-gone-hollow-waiting-for-elden-rings-actual-expansion-tide-yourself-over-with-with-this-expansion-sized-mod-that-transforms-the-entire-game)
- - [Frank Herbert always thought Star Wars was a Dune ripoff](https://www.polygon.com/24075067/dune-star-wars-frank-herbert-george-lucas)<!-- GAME:END -->
+ - [Creative Assembly shows off hag lore, three-headed heroes, and other additions coming to Total War: Warhammer 3&#39;s DLC](https://www.pcgamer.com/creative-assembly-shows-off-hag-lore-three-headed-heroes-and-other-additions-coming-to-total-war-warhammer-3s-dlc)
+ - [There&#39;s a proper, official Dungeons &amp; Dragons live stage show now](https://www.pcgamer.com/theres-a-proper-official-dungeons-and-dragons-live-stage-show-now)
+ - [Bandai Namco has canceled &#39;at least five&#39; games following a drop in sales, would like to remind everyone it still has &#39;large-scale downloadable content for Elden Ring&#39; on the way](https://www.pcgamer.com/bandai-namco-has-canceled-at-least-five-games-following-a-drop-in-sales-would-like-to-remind-everyone-it-still-has-large-scale-downloadable-content-for-elden-ring-on-the-way)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
