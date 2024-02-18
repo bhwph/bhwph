@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to be fined over $500 million under EU antitrust law](https://www.theverge.com/2024/2/18/24076526/apple-music-antitrust-fine-brussels-eu-spotify)
- - [21 Best Bluetooth Speakers &lpar;2024&rpar;: Portable, Waterproof, and More](https://www.wired.com/gallery/best-bluetooth-speakers/)
- - [Apple&#39;s 3D video cameras spotted during NBA Slam Dunk Contest](https://appleinsider.com/articles/24/02/18/apples-3d-video-cameras-spotted-during-nba-slam-dunk-contest?utm_medium=rss)<!-- TECH:END -->
+ - [Huawei’s decline is the worst thing that could’ve happened to Samsung and Android](https://www.androidauthority.com/huawei-decline-samsung-android-3410674/)
+ - [15 Questions You Should Ask Your Solar Installer     - CNET](https://www.cnet.com/home/energy-and-utilities/15-questions-you-should-ask-your-solar-installer/#ftag=CAD590a51e)
+ - [Planning to See Dune 2? Here&#39;s Where to Stream Part 1     - CNET](https://www.cnet.com/tech/services-and-software/planning-to-see-dune-2-heres-where-to-stream-part-1/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
