@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Laela Sturdy, the head of Alphabet&#39;s growth stage venture arm CapitalG, about its decision-making process, AI strategy, Stripe&#39;s valuation, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240218/p8#a240218p8)
- - [Best Nintendo Switch Deals: Save Up to 56 On Switch Lite, Digital and Physical Games, Screen Protectors and More     - CNET](https://www.cnet.com/deals/best-nintendo-switch-deals/#ftag=CAD590a51e)
- - [Sony Xperia 5 VI wishlist: All the features I want to see](https://www.androidauthority.com/sony-xperia-5-vi-3407759/)<!-- TECH:END -->
+ - [Apple&#39;s 3D video cameras spotted during NBA Slam Dunk Contest](https://appleinsider.com/articles/24/02/18/apples-3d-video-cameras-spotted-during-nba-slam-dunk-contest?utm_medium=rss)
+ - [Best Garmin Deals: Save Up to $450 on Fenix 6X Pro, Forerunner 945, Strike 4 Fishfinder and More     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)
+ - [Best Mac Mini Deals: Considerable Savings on the Latest Models     - CNET](https://www.cnet.com/deals/best-mac-mini-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
