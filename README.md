@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Black lives or something](http://9gag.com/gag/aeQoD6m)
- - 😝 [A ship crossing the Panama Canal](http://9gag.com/gag/aL1Y0n6)
- - 👉 [Gentlemen, this is democracy manifest.](http://9gag.com/gag/aQEwd72)<!-- MEMES:END -->
+ - 6️⃣ [Women](http://9gag.com/gag/aqe3K9p)
+ - 😝 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
+ - 👉 [What level of karen is this](http://9gag.com/gag/a04AR2v)<!-- MEMES:END -->
 
 --- 
 
