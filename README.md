@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [PS5 Life Cycle, FF7 Paint, And More Of This Week&#39;s Strongest Opinions](https://kotaku.com/kotaku-opinion-reviews-ff7-final-fantasy-ps5-starfield-1851264568)
  - [Today&#39;s Wordle answer for Sunday, February 18](https://www.pcgamer.com/wordle-answer-today-february-18-2024)
- - [SpellRogue is a dice-tossing take on the Slay the Spire format](https://www.pcgamer.com/spellrogue-is-a-dice-tossing-take-on-the-slay-the-spire-format)
- - [Creative Assembly shows off hag lore, three-headed heroes, and other additions coming to Total War: Warhammer 3&#39;s DLC](https://www.pcgamer.com/creative-assembly-shows-off-hag-lore-three-headed-heroes-and-other-additions-coming-to-total-war-warhammer-3s-dlc)<!-- GAME:END -->
+ - [SpellRogue is a dice-tossing take on the Slay the Spire format](https://www.pcgamer.com/spellrogue-is-a-dice-tossing-take-on-the-slay-the-spire-format)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
