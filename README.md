@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Black Power](http://9gag.com/gag/aGE3dD7)
- - 😝 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
- - 👉 [Chill](http://9gag.com/gag/aA0WgQo)<!-- MEMES:END -->
+ - 6️⃣ [Chill](http://9gag.com/gag/aA0WgQo)
+ - 😝 [Brave girl in Ireland put trash into trash bin](http://9gag.com/gag/aDYp4Kx)
+ - 👉 [Oh hell nah](http://9gag.com/gag/ap9y5XE)<!-- MEMES:END -->
 
 --- 
 
