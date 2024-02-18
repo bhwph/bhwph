@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: No Apple Vision Pro crime wave, at least not yet](https://appleinsider.com/articles/24/02/18/crime-blotter-no-apple-vision-pro-crime-wave-at-least-not-yet?utm_medium=rss)
- - [Tax Season 2024: Here&#39;s What to Do If You Haven&#39;t Received Your W-2 Yet     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-heres-what-to-do-if-you-havent-received-your-w-2-yet/#ftag=CAD590a51e)
- - [An interview with Bret Taylor and Clay Bavor, co-founders of conversational AI startup Sierra, on using several AI models at once, building AI agents, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240218/p3#a240218p3)<!-- TECH:END -->
+ - [Phone Cases Are Boring. Put a Lip Balm on It](https://www.wired.com/story/rhode-lip-balm-phone-case/)
+ - [Sources: the EU plans to fine Apple around &amp;euro;500M for allegedly breaking EU law over access to music streaming services, following a 2019 complaint by Spotify &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240218/p5#a240218p5)
+ - [Apple faces 500M euro fine following EU music probe](https://appleinsider.com/articles/24/02/18/apple-faces-500m-euro-fine-following-eu-music-probe?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
