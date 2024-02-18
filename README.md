@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [SpellRogue is a dice-tossing take on the Slay the Spire format](https://www.pcgamer.com/spellrogue-is-a-dice-tossing-take-on-the-slay-the-spire-format)
  - [Creative Assembly shows off hag lore, three-headed heroes, and other additions coming to Total War: Warhammer 3&#39;s DLC](https://www.pcgamer.com/creative-assembly-shows-off-hag-lore-three-headed-heroes-and-other-additions-coming-to-total-war-warhammer-3s-dlc)
- - [There&#39;s a proper, official Dungeons &amp; Dragons live stage show now](https://www.pcgamer.com/theres-a-proper-official-dungeons-and-dragons-live-stage-show-now)
- - [Bandai Namco has canceled &#39;at least five&#39; games following a drop in sales, would like to remind everyone it still has &#39;large-scale downloadable content for Elden Ring&#39; on the way](https://www.pcgamer.com/bandai-namco-has-canceled-at-least-five-games-following-a-drop-in-sales-would-like-to-remind-everyone-it-still-has-large-scale-downloadable-content-for-elden-ring-on-the-way)<!-- GAME:END -->
+ - [There&#39;s a proper, official Dungeons &amp; Dragons live stage show now](https://www.pcgamer.com/theres-a-proper-official-dungeons-and-dragons-live-stage-show-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
