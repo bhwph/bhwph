@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Phone Cases Are Boring. Put a Lip Balm on It](https://www.wired.com/story/rhode-lip-balm-phone-case/)
- - [Sources: the EU plans to fine Apple around &amp;euro;500M for allegedly breaking EU law over access to music streaming services, following a 2019 complaint by Spotify &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240218/p5#a240218p5)
- - [Apple faces 500M euro fine following EU music probe](https://appleinsider.com/articles/24/02/18/apple-faces-500m-euro-fine-following-eu-music-probe?utm_medium=rss)<!-- TECH:END -->
+ - [Apple to be fined over $500 million under EU antitrust law](https://www.theverge.com/2024/2/18/24076526/apple-music-antitrust-fine-brussels-eu-spotify)
+ - [21 Best Bluetooth Speakers &lpar;2024&rpar;: Portable, Waterproof, and More](https://www.wired.com/gallery/best-bluetooth-speakers/)
+ - [Apple&#39;s 3D video cameras spotted during NBA Slam Dunk Contest](https://appleinsider.com/articles/24/02/18/apples-3d-video-cameras-spotted-during-nba-slam-dunk-contest?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
