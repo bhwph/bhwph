@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [With the Switch 2 on the way, is it a bad idea to buy the regular Switch?](https://www.polygon.com/24072924/buy-switch-or-switch-2)
  - [PS5 Life Cycle, FF7 Paint, And More Of This Week&#39;s Strongest Opinions](https://kotaku.com/kotaku-opinion-reviews-ff7-final-fantasy-ps5-starfield-1851264568)
- - [Today&#39;s Wordle answer for Sunday, February 18](https://www.pcgamer.com/wordle-answer-today-february-18-2024)
- - [SpellRogue is a dice-tossing take on the Slay the Spire format](https://www.pcgamer.com/spellrogue-is-a-dice-tossing-take-on-the-slay-the-spire-format)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, February 18](https://www.pcgamer.com/wordle-answer-today-february-18-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
