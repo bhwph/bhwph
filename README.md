@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 best Android survival games](https://www.androidauthority.com/best-android-survival-games-584998/)
- - [India&#39;s government wants answers about iPhone hack alert](https://appleinsider.com/articles/24/02/19/indias-government-wants-answers-about-iphone-hack-alert?utm_medium=rss)
- - [The Amazfit GTR Mini drops to best price yet at only $89.99](https://www.androidauthority.com/amazfit-gtr-mini-deal-3416327/)<!-- TECH:END -->
+ - [Amazon deal slashes $100 off the 10th Gen iPad](https://www.androidauthority.com/10th-gen-ipad-deal-3416425/)
+ - [Android phone maker abandons Android completely to go ‘all in on AI’](https://www.androidauthority.com/meizu-abandons-android-3416410/)
+ - [Wyze says ~13,000 customers could briefly see others&#39; camera feeds, after a similar issue in 2023; Wyze blames glitches in rebooting systems after an AWS outage &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240219/p8#a240219p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
