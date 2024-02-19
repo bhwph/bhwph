@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Brave girl in Ireland put trash into trash bin](http://9gag.com/gag/aDYp4Kx)
- - 😝 [Like immagine explaining that to people](http://9gag.com/gag/aWGKg76)
- - 👉 [30 years of love](http://9gag.com/gag/aWGKGYn)<!-- MEMES:END -->
+ - 6️⃣ [These girls have loved you long time](http://9gag.com/gag/a04A7mB)
+ - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
+ - 👉 [Woops.](http://9gag.com/gag/aBdqm1z)<!-- MEMES:END -->
 
 --- 
 
