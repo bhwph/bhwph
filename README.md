@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My fellow zoomer](http://9gag.com/gag/aVbnwWP)
- - 😝 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
- - 👉 [Oh hell nah](http://9gag.com/gag/ap9y5XE)<!-- MEMES:END -->
+ - 6️⃣ [Woops.](http://9gag.com/gag/aBdqm1z)
+ - 😝 [Oooh both got clapped!](http://9gag.com/gag/a6qvKBb)
+ - 👉 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)<!-- MEMES:END -->
 
 --- 
 
