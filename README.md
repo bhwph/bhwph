@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Please behold the glory of the PowerWash Simulator x Warhammer 40K DLC trailer, with release to follow this month](https://www.pcgamer.com/please-behold-the-glory-of-the-powerwash-simulator-x-warhammer-40k-dlc-trailer-with-release-to-follow-this-month)
- - [PowerWash Simulator Is Getting Space Marines Because Sometimes The Universe Is Good](https://kotaku.com/powerwash-simulator-warhammer-40k-dlc-square-enix-1851268965)
- - [How Blizzard balances and rebalances World of Warcraft&#39;s raids to evolve with players: &#39;It is important to keep in mind the audience that is engaging with an encounter at a given time&#39;](https://www.pcgamer.com/how-blizzard-balances-and-rebalances-world-of-warcrafts-raids-to-evolve-with-their-players-it-is-important-to-keep-in-mind-the-audience-that-is-engaging-with-an-encounter-at-a-given-time)<!-- GAME:END -->
+ - [Capcom celebrates the 8th anniversary of Street Fighter V by saying sorry for Street Fighter V](https://www.pcgamer.com/capcom-celebrates-the-8th-anniversary-of-street-fighter-v-by-saying-sorry-for-street-fighter-v)
+ - [Helldivers 2&#39;s Success Is Making Everyone Watch This Misunderstood Movie](https://kotaku.com/helldivers-2-starship-troopers-movie-disney-1851269272)
+ - [Sega&#39;s upcoming Crazy Taxi reboot will be a &#39;triple-A&#39; game](https://www.pcgamer.com/segas-upcoming-crazy-taxi-reboot-will-be-a-triple-a-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
