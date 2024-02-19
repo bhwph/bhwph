@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Idk why my last post of this vid got deleted even after 1k upvotes](http://9gag.com/gag/aWGKxzK)
- - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
- - 👉 [Did we talk about this?](http://9gag.com/gag/a04ARGd)<!-- MEMES:END -->
+ - 6️⃣ [Did we talk about this?](http://9gag.com/gag/a04ARGd)
+ - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
+ - 👉 [Woops.](http://9gag.com/gag/aBdqm1z)<!-- MEMES:END -->
 
 --- 
 
