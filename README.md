@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech Still Isn’t Doing Enough to Care for the Environment](https://www.wired.com/story/tech-environment-greenpeace-social/)
- - [Child Tax Credit: When Will the IRS Start Refunding Your Credit Money this Tax Season?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-when-will-the-irs-start-refunding-your-credit-money-this-tax-season/#ftag=CAD590a51e)
- - [Social Security Benefits Recipients: Do You Need to File Taxes This Year?     - CNET](https://www.cnet.com/personal-finance/social-security-benefits-recipients-do-you-need-to-file-taxes-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s new RCS stance may have been forced by China](https://appleinsider.com/articles/24/02/19/apples-new-rcs-stance-may-have-been-forced-by-china?utm_medium=rss)
+ - [FBI Director Christopher Wray says China is inserting &quot;offensive weapons&quot; into critical US infrastructure, with malware pre-positioning reaching a &quot;fever pitch&quot; &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/240219/p5#a240219p5)
+ - [Bluesky’s Future Is Social Media’s Past](https://www.wired.com/story/blueskys-future-is-social-medias-past/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
