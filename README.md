@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ireland still has patriots](http://9gag.com/gag/awZRB6B)
- - 😝 [Malaka](http://9gag.com/gag/a9qQ10Z)
- - 👉 [This is Golden ass of luck, do not ignore it](http://9gag.com/gag/a7q4E1w)<!-- MEMES:END -->
+ - 6️⃣ [Brave girl in Ireland put trash into trash bin](http://9gag.com/gag/aDYp4Kx)
+ - 😝 [Like immagine explaining that to people](http://9gag.com/gag/aWGKg76)
+ - 👉 [30 years of love](http://9gag.com/gag/aWGKGYn)<!-- MEMES:END -->
 
 --- 
 
