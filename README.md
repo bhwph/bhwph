@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [True Detective always secretly wished for a happy ending](https://www.polygon.com/24072995/true-detective-night-country-finale-review-final-episode)
- - [Intel is asking for an additional $10 billion from CHIPS act subsidies because the chip giant feels it deserves more cash for investing in US developments](https://www.pcgamer.com/intel-is-asking-for-an-additional-dollar10-billion-from-chips-act-subsidies-because-the-chip-giant-feels-it-deserves-more-cash-for-investing-in-us-developments)
- - [A Dragon&#39;s Dogma 2 demo may be on the way, if the prophecy foretold by SteamDB proves true](https://www.pcgamer.com/a-dragons-dogma-2-demo-may-be-on-the-way-if-the-prophecy-foretold-by-steamdb-proves-true)<!-- GAME:END -->
+ - [Turns out speedrunning Windows installs is a thing, so why not spare 106 seconds to watch the world&#39;s most &#39;heart-pounding&#39; record attempt?](https://www.pcgamer.com/turns-out-speedrunning-windows-installs-is-a-thing-so-why-not-spare-106-seconds-to-watch-the-worlds-most-heart-pounding-record-attempt)
+ - [Balatro review](https://www.pcgamer.com/balatro-review)
+ - [How Times &amp; Galaxy Turns Journalism into a Game Mechanic](https://news.xbox.com/en-us/2024/02/19/times-and-galaxy-journalism-game-mechanic/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
