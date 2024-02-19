@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new RCS stance may have been forced by China](https://appleinsider.com/articles/24/02/19/apples-new-rcs-stance-may-have-been-forced-by-china?utm_medium=rss)
- - [FBI Director Christopher Wray says China is inserting &quot;offensive weapons&quot; into critical US infrastructure, with malware pre-positioning reaching a &quot;fever pitch&quot; &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/240219/p5#a240219p5)
- - [Bluesky’s Future Is Social Media’s Past](https://www.wired.com/story/blueskys-future-is-social-medias-past/)<!-- TECH:END -->
+ - [Constellation adds a dark and creepy tone to Apple’s growing sci-fi lineup](https://www.theverge.com/24065198/constellation-review-apple-tv-plus)
+ - [Tech investors and founders are flocking back to San Francisco, currently undergoing an AI boom, after leaving during the pandemic for Miami and other US cities &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240219/p6#a240219p6)
+ - [Snapchat could let you send ‘Tiny Snaps’ while typing &lpar;APK teardown&rpar;](https://www.androidauthority.com/snapchat-tiny-snaps-apk-teardown-3416215/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
