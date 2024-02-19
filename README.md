@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Constellation adds a dark and creepy tone to Apple’s growing sci-fi lineup](https://www.theverge.com/24065198/constellation-review-apple-tv-plus)
- - [Tech investors and founders are flocking back to San Francisco, currently undergoing an AI boom, after leaving during the pandemic for Miami and other US cities &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240219/p6#a240219p6)
- - [Snapchat could let you send ‘Tiny Snaps’ while typing &lpar;APK teardown&rpar;](https://www.androidauthority.com/snapchat-tiny-snaps-apk-teardown-3416215/)<!-- TECH:END -->
+ - [15 best Android survival games](https://www.androidauthority.com/best-android-survival-games-584998/)
+ - [India&#39;s government wants answers about iPhone hack alert](https://appleinsider.com/articles/24/02/19/indias-government-wants-answers-about-iphone-hack-alert?utm_medium=rss)
+ - [The Amazfit GTR Mini drops to best price yet at only $89.99](https://www.androidauthority.com/amazfit-gtr-mini-deal-3416327/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
