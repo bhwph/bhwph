@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woops.](http://9gag.com/gag/aBdqm1z)
- - 😝 [Oooh both got clapped!](http://9gag.com/gag/a6qvKBb)
- - 👉 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)<!-- MEMES:END -->
+ - 6️⃣ [Plot twist: there are two different guys](http://9gag.com/gag/aXnDoAV)
+ - 😝 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
+ - 👉 [I would have done the same](http://9gag.com/gag/ajVb700)<!-- MEMES:END -->
 
 --- 
 
