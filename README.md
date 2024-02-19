@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [US Dept of Justice used existing router malware to quietly purge a Russia-backed &#39;vast spearphishing&#39; botnet from devices in peoples&#39; homes](https://www.pcgamer.com/us-dept-of-justice-used-existing-router-malware-to-quietly-purge-a-russia-backed-vast-spearphishing-botnet-from-devices-in-peoples-homes)
- - [Stormgate developer Frost Giant Studios is now asking fans to invest in the company](https://www.pcgamer.com/stormgate-developer-frost-giant-studios-is-now-asking-fans-to-invest-in-the-company)
- - [Open world Terminator survival game set for full reveal at Nacon&#39;s Connect event later this month](https://www.pcgamer.com/open-world-terminator-survival-game-set-for-full-reveal-at-nacons-connect-event-later-this-month)<!-- GAME:END -->
+ - [Please behold the glory of the PowerWash Simulator x Warhammer 40K DLC trailer, with release to follow this month](https://www.pcgamer.com/please-behold-the-glory-of-the-powerwash-simulator-x-warhammer-40k-dlc-trailer-with-release-to-follow-this-month)
+ - [PowerWash Simulator Is Getting Space Marines Because Sometimes The Universe Is Good](https://kotaku.com/powerwash-simulator-warhammer-40k-dlc-square-enix-1851268965)
+ - [How Blizzard balances and rebalances World of Warcraft&#39;s raids to evolve with players: &#39;It is important to keep in mind the audience that is engaging with an encounter at a given time&#39;](https://www.pcgamer.com/how-blizzard-balances-and-rebalances-world-of-warcrafts-raids-to-evolve-with-their-players-it-is-important-to-keep-in-mind-the-audience-that-is-engaging-with-an-encounter-at-a-given-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
