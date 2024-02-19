@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel Core i9 14900KS shows up at multiple EU retailers, indicating its launch is imminent](https://www.pcgamer.com/intel-core-i9-14900ks-shows-up-at-multiple-eu-retailers-indicating-its-launch-is-imminent)
- - [Five new Steam games you probably missed &lpar;February 19, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-19-2024)
- - [SimCity 4 modders are cracking its deepest recesses in ever greater numbers, enabling extensive new changes](https://www.pcgamer.com/simcity-4-modders-are-cracking-its-deepest-recesses-in-ever-greater-numbers-enabling-extensive-new-changes)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, February 19](https://www.pcgamer.com/wordle-answer-today-february-19-2024)
+ - [Even True Detective: Night Country’s answers have mysteries](https://www.polygon.com/24073177/true-detective-night-country-finale-explained-why-who-ghost-annie-kill)
+ - [Intel Core i9 14900KS shows up at multiple EU retailers, indicating its launch is imminent](https://www.pcgamer.com/intel-core-i9-14900ks-shows-up-at-multiple-eu-retailers-indicating-its-launch-is-imminent)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
