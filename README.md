@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Turns out speedrunning Windows installs is a thing, so why not spare 106 seconds to watch the world&#39;s most &#39;heart-pounding&#39; record attempt?](https://www.pcgamer.com/turns-out-speedrunning-windows-installs-is-a-thing-so-why-not-spare-106-seconds-to-watch-the-worlds-most-heart-pounding-record-attempt)
- - [Balatro review](https://www.pcgamer.com/balatro-review)
- - [How Times &amp; Galaxy Turns Journalism into a Game Mechanic](https://news.xbox.com/en-us/2024/02/19/times-and-galaxy-journalism-game-mechanic/)<!-- GAME:END -->
+ - [US Dept of Justice used existing router malware to quietly purge a Russia-backed &#39;vast spearphishing&#39; botnet from devices in peoples&#39; homes](https://www.pcgamer.com/us-dept-of-justice-used-existing-router-malware-to-quietly-purge-a-russia-backed-vast-spearphishing-botnet-from-devices-in-peoples-homes)
+ - [Stormgate developer Frost Giant Studios is now asking fans to invest in the company](https://www.pcgamer.com/stormgate-developer-frost-giant-studios-is-now-asking-fans-to-invest-in-the-company)
+ - [Open world Terminator survival game set for full reveal at Nacon&#39;s Connect event later this month](https://www.pcgamer.com/open-world-terminator-survival-game-set-for-full-reveal-at-nacons-connect-event-later-this-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
