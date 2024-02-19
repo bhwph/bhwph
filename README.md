@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [These girls have loved you long time](http://9gag.com/gag/a04A7mB)
- - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
- - 👉 [Woops.](http://9gag.com/gag/aBdqm1z)<!-- MEMES:END -->
+ - 6️⃣ [Woops.](http://9gag.com/gag/aBdqm1z)
+ - 😝 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
+ - 👉 [Oh hell nah](http://9gag.com/gag/ap9y5XE)<!-- MEMES:END -->
 
 --- 
 
