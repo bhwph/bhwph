@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s Zen 5 chips will reportedly hit mass production at TSMC in the summer](https://www.pcgamer.com/amds-zen-5-chips-will-reportedly-hit-mass-production-at-tsmc-in-the-summer)
- - [Racing wheel experts MOZA have a big 2024 in store](https://www.pcgamer.com/racing-wheel-experts-moza-have-a-big-2024-in-store)
- - [How to find and kill Devastators in Helldivers 2](https://www.pcgamer.com/helldivers-2-devastators)<!-- GAME:END -->
+ - [True Detective always secretly wished for a happy ending](https://www.polygon.com/24072995/true-detective-night-country-finale-review-final-episode)
+ - [Intel is asking for an additional $10 billion from CHIPS act subsidies because the chip giant feels it deserves more cash for investing in US developments](https://www.pcgamer.com/intel-is-asking-for-an-additional-dollar10-billion-from-chips-act-subsidies-because-the-chip-giant-feels-it-deserves-more-cash-for-investing-in-us-developments)
+ - [A Dragon&#39;s Dogma 2 demo may be on the way, if the prophecy foretold by SteamDB proves true](https://www.pcgamer.com/a-dragons-dogma-2-demo-may-be-on-the-way-if-the-prophecy-foretold-by-steamdb-proves-true)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
