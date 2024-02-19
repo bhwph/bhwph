@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the impact of Russia&#39;s invasion on Ukraine&#39;s tech center Kharkiv; of the 511 tech companies in the city before February 2022, 500 are still operating &lpar;Alec Russell/Financial Times&rpar;](http://www.techmeme.com/240219/p1#a240219p1)
- - [Xiaomi 14 Ultra camera specs announced: Beating the Galaxy S24 Ultra?](https://www.androidauthority.com/xiaomi-14-ultra-design-camera-3416021/)
- - [Google Messages could soon get new ‘camera effects’](https://www.androidauthority.com/google-messages-new-camera-effects-soon-3416026/)<!-- TECH:END -->
+ - [Tech Still Isn’t Doing Enough to Care for the Environment](https://www.wired.com/story/tech-environment-greenpeace-social/)
+ - [Child Tax Credit: When Will the IRS Start Refunding Your Credit Money this Tax Season?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-when-will-the-irs-start-refunding-your-credit-money-this-tax-season/#ftag=CAD590a51e)
+ - [Social Security Benefits Recipients: Do You Need to File Taxes This Year?     - CNET](https://www.cnet.com/personal-finance/social-security-benefits-recipients-do-you-need-to-file-taxes-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
