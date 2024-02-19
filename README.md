@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Black lives or something](http://9gag.com/gag/aeQoD6m)
- - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
- - 👉 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)<!-- MEMES:END -->
+ - 6️⃣ [Ireland still has patriots](http://9gag.com/gag/awZRB6B)
+ - 😝 [Malaka](http://9gag.com/gag/a9qQ10Z)
+ - 👉 [This is Golden ass of luck, do not ignore it](http://9gag.com/gag/a7q4E1w)<!-- MEMES:END -->
 
 --- 
 
