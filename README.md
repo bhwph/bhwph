@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chill](http://9gag.com/gag/aA0WgQo)
- - 😝 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
+ - 6️⃣ [Black lives or something](http://9gag.com/gag/aeQoD6m)
+ - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
  - 👉 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)<!-- MEMES:END -->
 
 --- 
