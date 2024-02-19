@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon deal slashes $100 off the 10th Gen iPad](https://www.androidauthority.com/10th-gen-ipad-deal-3416425/)
- - [Android phone maker abandons Android completely to go ‘all in on AI’](https://www.androidauthority.com/meizu-abandons-android-3416410/)
- - [Wyze says ~13,000 customers could briefly see others&#39; camera feeds, after a similar issue in 2023; Wyze blames glitches in rebooting systems after an AWS outage &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240219/p8#a240219p8)<!-- TECH:END -->
+ - [Chrome’s ‘Tab Groups’ feature could be coming to Android](https://www.androidauthority.com/chrome-for-android-tab-groups-3416500/)
+ - [Keurig K-Mini Plus     - CNET](https://www.cnet.com/home/kitchen-and-household/keurig-k-mini-plus-dpnl/#ftag=CAD590a51e)
+ - [This Is the Best Way to Reheat Steak, According to My Tests     - CNET](https://www.cnet.com/how-to/how-to-reheat-steak-perfectly-every-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
