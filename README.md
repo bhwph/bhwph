@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Acid Planet looks like a cross of Vampire Survivors and They Are Billions](https://www.pcgamer.com/acid-planet-looks-like-a-cross-of-vampire-survivors-and-they-are-billions)
- - [The best way to rewatch Avatar: The Last Airbender is jumping right to season 2](https://www.polygon.com/24073965/avatar-last-airbender-best-season-2-atla-netflix)
- - [Helldivers 2 studio continues to wrangle its servers like a bucking bronco, capping player count at 450K to avoid instability](https://www.pcgamer.com/helldivers-2-studio-continues-to-wrangle-its-servers-like-a-bucking-bronco-capping-player-count-at-450k-to-avoid-instability)<!-- GAME:END -->
+ - [SimCity 4 modders are cracking its deepest recesses in ever greater numbers, enabling extensive new changes](https://www.pcgamer.com/simcity-4-modders-are-cracking-its-deepest-recesses-in-ever-greater-numbers-enabling-extensive-new-changes)
+ - [Be a fantasy god smashing an army of terraforming robots in Gods Against Machines](https://www.pcgamer.com/be-a-fantasy-god-smashing-an-army-of-terraforming-robots-in-gods-against-machines)
+ - [Acid Planet looks like a cross of Vampire Survivors and They Are Billions](https://www.pcgamer.com/acid-planet-looks-like-a-cross-of-vampire-survivors-and-they-are-billions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
