@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
+ - 6️⃣ [The trick is not to form an emotional bond](http://9gag.com/gag/axoxoKb)
  - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
- - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
+ - 👉 [Clown world](http://9gag.com/gag/a4oePXm)<!-- MEMES:END -->
 
 --- 
 
