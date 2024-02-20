@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to revert macOS to the previous version](https://appleinsider.com/inside/macos/tips/how-to-revert-macos-to-the-previous-version?utm_medium=rss)
- - [Microsoft President Brad Smith says the company plans to invest $2.1B in Spain in the next two years to expand its AI and cloud infrastructure in the country &lpar;Reuters&rpar;](http://www.techmeme.com/240219/p16#a240219p16)
- - [M3 Pro &amp; M3 Max MacBook Pro models now available on Apple&#39;s refurbished store](https://appleinsider.com/articles/24/02/20/m3-pro-m3-max-macbook-pro-models-now-available-on-apples-refurbished-store?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s first foldable iPhone could launch after Galaxy Z Fold 8](https://www.androidauthority.com/foldable-iphone-september-2026-3416080/)
+ - [Fujifilm announces the X100VI, its follow-up to a TikTok sensation](https://www.theverge.com/2024/2/20/24075147/fujifilm-x100vi-camera-announced-features-price)
+ - [Samsung confirms Auracast support for older phones and tablets getting One UI 6.1](https://www.androidauthority.com/samsung-auracast-support-one-ui-6-1-eligible-devices-3416674/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
