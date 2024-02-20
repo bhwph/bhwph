@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 lead says the game&#39;s farcical comedy was inspired by tabletop games like D&amp;D—and he&#39;s nowhere near the first dev to worship at the altar of pen and paper](https://www.pcgamer.com/helldivers-2-lead-says-the-games-farcical-comedy-was-inspired-by-tabletop-games-like-danddand-hes-nowhere-near-the-first-dev-to-worship-at-the-altar-of-pen-and-paper)
- - [Asus ROG Strix Scar 18 &lpar;2024&rpar; review](https://www.pcgamer.com/asus-rog-strix-scar-18-2024-gaming-laptop-review)
- - [Deep Rock Galactic just got a prop hunt minigame triggered by drinking transmutative beer](https://www.pcgamer.com/deep-rock-galactic-just-got-a-prop-hunt-minigame-triggered-by-drinking-transmutative-beer)<!-- GAME:END -->
+ - [Update your spreadsheets, CDPR is out talking about the genres its mysterious non-Witcher, non-Cyberpunk game isn&#39;t going to be](https://www.pcgamer.com/update-your-spreadsheets-cdpr-is-out-talking-about-the-genres-its-mysterious-non-witcher-non-cyberpunk-game-isnt-going-to-be)
+ - [Coming to Xbox Game Pass: Bluey: The Videogame, Tales of Arise, Warhammer 40,000: Boltgun, and More](https://news.xbox.com/en-us/2024/02/20/game-pass-february-2024-wave-2-announce/)
+ - [Bethesda Drops A Nuke... Full Of Fallout Games](https://kotaku.com/bethesda-fallout-new-vegas-76-special-anthology-1851269351)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
