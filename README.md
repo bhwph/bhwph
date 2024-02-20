@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I would have done the same](http://9gag.com/gag/ajVb700)
- - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
- - 👉 [Yup](http://9gag.com/gag/aA0Wynp)<!-- MEMES:END -->
+ - 6️⃣ [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 😝 [Valentines day fail](http://9gag.com/gag/abvPv0E)
+ - 👉 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)<!-- MEMES:END -->
 
 --- 
 
