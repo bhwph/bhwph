@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She&#39;s a keeper. Great sense of humor](http://9gag.com/gag/agoMmVq)
- - 😝 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
- - 👉 [I came](http://9gag.com/gag/a6qvEA2)<!-- MEMES:END -->
+ - 6️⃣ [They&#39;re not the worst nudes I could imagine](http://9gag.com/gag/aGE3ywz)
+ - 😝 [I would have done the same](http://9gag.com/gag/ajVb700)
+ - 👉 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)<!-- MEMES:END -->
 
 --- 
 
