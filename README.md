@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - 😝 [Old but gold](http://9gag.com/gag/ajVb7m1)
- - 👉 [You are f**ked](http://9gag.com/gag/a6qvDom)<!-- MEMES:END -->
+ - 6️⃣ [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
+ - 😝 [Friendship of men](http://9gag.com/gag/aYV8EOm)
+ - 👉 [CCP backed `Doctors and Engineers` trying to harass piano man again](http://9gag.com/gag/aGE3zd5)<!-- MEMES:END -->
 
 --- 
 
