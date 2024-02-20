@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart agrees to buy TV maker Vizio for $2.3B, or $11.50/share, to boost its ad business via Vizio&#39;s SmartCast OS, which lets users stream ad-supported content &lpar;Jacob Pramuk/CNBC&rpar;](http://www.techmeme.com/240220/p9#a240220p9)
- - [Tinder plans to roll out its new ID checks in the US, the UK, Brazil, and Mexico, after tests in Australia and New Zealand, to combat AI scams and dating crimes &lpar;Antonia Mufarech/Bloomberg&rpar;](http://www.techmeme.com/240220/p8#a240220p8)
- - [After years of research, an Apple smart ring may be imminent](https://appleinsider.com/articles/24/02/20/after-years-of-research-an-apple-smart-ring-may-be-imminent?utm_medium=rss)<!-- TECH:END -->
+ - [A look at a16z&#39;s growing DC lobbying operation, which spent almost $1M in 2023, easily the most among VCs, and aims to help its defense-focused startups &lpar;Bloomberg&rpar;](http://www.techmeme.com/240220/p14#a240220p14)
+ - [Violence spreads from sea to shining sea in A24’s latest Civil War trailer](https://www.theverge.com/2024/2/20/24078034/civil-war-second-trailer-alex-garland-a24-release-date)
+ - [Help, My Friend Got Me a Dumb AI-Generated Present](https://www.wired.com/story/help-my-friend-got-me-a-dumb-ai-generated-present/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
