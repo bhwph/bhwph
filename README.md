@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung details a host of audio upgrades coming to its phones, tablets, and TVs](https://www.theverge.com/2024/2/20/24078026/samsung-galaxy-buds-auracast-360-audio-auto-switch-support)
- - [Metal Prices Are Soaring. So Is Metal Theft](https://www.wired.com/story/metal-theft-epidemic-copper-steel/)
- - [Sony’s PlayStation Portal hacked to run emulated PSP games](https://www.theverge.com/2024/2/20/24078024/sony-playstation-portal-hack-mod-psp-emulator)<!-- TECH:END -->
+ - [Walmart agrees to buy TV maker Vizio for $2.3B, or $11.50/share, to boost its ad business via Vizio&#39;s SmartCast OS, which lets users stream ad-supported content &lpar;Jacob Pramuk/CNBC&rpar;](http://www.techmeme.com/240220/p9#a240220p9)
+ - [Tinder plans to roll out its new ID checks in the US, the UK, Brazil, and Mexico, after tests in Australia and New Zealand, to combat AI scams and dating crimes &lpar;Antonia Mufarech/Bloomberg&rpar;](http://www.techmeme.com/240220/p8#a240220p8)
+ - [After years of research, an Apple smart ring may be imminent](https://appleinsider.com/articles/24/02/20/after-years-of-research-an-apple-smart-ring-may-be-imminent?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
