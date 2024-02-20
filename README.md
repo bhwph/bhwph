@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s audio department leadership is getting shuffled](https://appleinsider.com/articles/24/02/20/apples-audio-department-leadership-is-getting-shuffled?utm_medium=rss)
- - [The EU is formalizing rules for taking CO2 out of the atmosphere](https://www.theverge.com/2024/2/20/24078154/eu-council-parliament-carbon-removal-framework-climate-change)
- - [PS5 Pro rumors: What we know so far and what we want to see](https://www.androidauthority.com/sony-ps5-pro-3337407/)<!-- TECH:END -->
+ - [NSA Cybersecurity Director Rob Joyce will retire at the end of March after taking the position in 2021; Deputy Director David Luber will assume the role &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/240220/p24#a240220p24)
+ - [One of the last small-ish Android phones looks like it’s going the way of the iPhone Mini](https://www.theverge.com/2024/2/20/24078500/asus-zenfone-11-ultra-small-phone)
+ - [Pair found guilty of trying to defraud Apple of more than $3 million](https://appleinsider.com/articles/24/02/20/pair-found-guilty-of-trying-to-defraud-apple-of-more-than-3-million?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
