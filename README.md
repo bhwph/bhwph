@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
- - 😝 [Friendship of men](http://9gag.com/gag/aYV8EOm)
- - 👉 [CCP backed `Doctors and Engineers` trying to harass piano man again](http://9gag.com/gag/aGE3zd5)<!-- MEMES:END -->
+ - 6️⃣ [Clown world](http://9gag.com/gag/a4oePXm)
+ - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 👉 [I came](http://9gag.com/gag/a6qvEA2)<!-- MEMES:END -->
 
 --- 
 
