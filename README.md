@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Station Wagon Survival And A Cozy League Spinoff](https://kotaku.com/february-games-out-this-week-pacific-drive-bandle-tale-1851271052)
- - [Pokémon Go ‘Glimmers of Gratitude’ Shiny Shaymin Masterwork Research guide](https://www.polygon.com/pokemon-go-guide/24078278/shiny-shaymin-masterwork-research-glimmers-of-gratitude)
- - [Lady Gaga Teases Fortnite Festival Performance With Throwback Meme](https://kotaku.com/lady-gaga-fortnite-festival-skin-twitter-tweet-1851271119)<!-- GAME:END -->
+ - [Add-ons are Coming to Minecraft Bedrock](https://minecraft.net/article/introducing-add-ons#new_tab)
+ - [Helldivers 2’s Mysterious Black Screen Issue Explained](https://kotaku.com/helldivers-2-pc-ps5-black-screen-fix-bug-glitch-1851271678)
+ - [Princess Peach: Showtime! Previews Set The Stage For A Charming Platformer](https://kotaku.com/princess-peach-showtime-preview-roundup-nintendo-1851271561)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
