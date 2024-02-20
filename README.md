@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Transport Companies Leaving Fossil Fuels Behind](https://www.wired.com/story/future-of-transport-flying-deliveries-hydrogen-electrification/)
- - [Fake crypto app on the App Store has stolen thousands of dollars already [u]](https://appleinsider.com/articles/24/02/19/fake-crypto-app-on-the-app-store-has-stolen-thousands-of-dollars-already?utm_medium=rss)
- - [Galaxy Ring launch window leaked, could pack plenty of features](https://www.androidauthority.com/samsung-galaxy-ring-features-launch-window-3416688/)<!-- TECH:END -->
+ - [Samsung details a host of audio upgrades coming to its phones, tablets, and TVs](https://www.theverge.com/2024/2/20/24078026/samsung-galaxy-buds-auracast-360-audio-auto-switch-support)
+ - [Metal Prices Are Soaring. So Is Metal Theft](https://www.wired.com/story/metal-theft-epidemic-copper-steel/)
+ - [Sony’s PlayStation Portal hacked to run emulated PSP games](https://www.theverge.com/2024/2/20/24078024/sony-playstation-portal-hack-mod-psp-emulator)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
