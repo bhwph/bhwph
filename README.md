@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peacock Premium vs Premium Plus: What are ads worth to you?](https://www.androidauthority.com/peacock-premium-vs-premium-plus-3281966/)
- - [OpenAI Can Now Turn Words Into Ultra-Realistic Videos     - CNET](https://www.cnet.com/tech/openai-can-now-turn-words-into-ultra-realistic-videos/#ftag=CAD590a51e)
- - [Google doubles the cost of some legacy Nest Aware subscriptions internationally, including in Canada, while some modern plans are getting prices hiked by 25% &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/240219/p14#a240219p14)<!-- TECH:END -->
+ - [How Powerful Should Your Home Battery Be?     - CNET](https://www.cnet.com/home/energy-and-utilities/how-powerful-should-your-home-battery-be/#ftag=CAD590a51e)
+ - [MLS Season Pass on Apple TV: How to Watch and Stream Major League Soccer in 2024     - CNET](https://www.cnet.com/tech/services-and-software/mls-season-pass-on-apple-tv-how-to-watch-and-stream-major-league-soccer-in-2024/#ftag=CAD590a51e)
+ - [Ninja Woodfire BBQ     - CNET](https://www.cnet.com/news/ninja-woodfire-bbq-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
