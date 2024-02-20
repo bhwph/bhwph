@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s first foldable iPhone could launch after Galaxy Z Fold 8](https://www.androidauthority.com/foldable-iphone-september-2026-3416080/)
- - [Fujifilm announces the X100VI, its follow-up to a TikTok sensation](https://www.theverge.com/2024/2/20/24075147/fujifilm-x100vi-camera-announced-features-price)
- - [Samsung confirms Auracast support for older phones and tablets getting One UI 6.1](https://www.androidauthority.com/samsung-auracast-support-one-ui-6-1-eligible-devices-3416674/)<!-- TECH:END -->
+ - [The Transport Companies Leaving Fossil Fuels Behind](https://www.wired.com/story/future-of-transport-flying-deliveries-hydrogen-electrification/)
+ - [Fake crypto app on the App Store has stolen thousands of dollars already [u]](https://appleinsider.com/articles/24/02/19/fake-crypto-app-on-the-app-store-has-stolen-thousands-of-dollars-already?utm_medium=rss)
+ - [Galaxy Ring launch window leaked, could pack plenty of features](https://www.androidauthority.com/samsung-galaxy-ring-features-launch-window-3416688/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
