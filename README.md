@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at a16z&#39;s growing DC lobbying operation, which spent almost $1M in 2023, easily the most among VCs, and aims to help its defense-focused startups &lpar;Bloomberg&rpar;](http://www.techmeme.com/240220/p14#a240220p14)
- - [Violence spreads from sea to shining sea in A24’s latest Civil War trailer](https://www.theverge.com/2024/2/20/24078034/civil-war-second-trailer-alex-garland-a24-release-date)
- - [Help, My Friend Got Me a Dumb AI-Generated Present](https://www.wired.com/story/help-my-friend-got-me-a-dumb-ai-generated-present/)<!-- TECH:END -->
+ - [The right to repair — and play games anywhere](https://www.theverge.com/24078212/right-to-repair-xbox-game-pass-cloud-vergecast)
+ - [HBO holds back Last Week Tonight YouTube clips in hopes you’ll use Max instead](https://www.theverge.com/2024/2/20/24078148/hbo-last-week-tonight-with-john-oliver-youtube-clips-delayed-thursday)
+ - [Survey fears Apple Vision Pro users can be idiots behind the wheel](https://appleinsider.com/articles/24/02/20/survey-fears-apple-vision-pro-users-can-be-idiots-behind-the-wheel?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
