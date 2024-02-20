@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 😝 [Valentines day fail](http://9gag.com/gag/abvPv0E)
- - 👉 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)<!-- MEMES:END -->
+ - 6️⃣ [Read this twice just to understand better.](http://9gag.com/gag/abvPAZb)
+ - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
+ - 👉 [Lol.](http://9gag.com/gag/aGE3nV6)<!-- MEMES:END -->
 
 --- 
 
