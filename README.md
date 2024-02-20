@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Taking on Helldiver 2&#39;s missions solo is like playing the world&#39;s scariest tower defence game](https://www.pcgamer.com/taking-on-helldiver-2s-missions-solo-is-like-playing-the-worlds-scariest-tower-defence-game)
- - [A jack of all trades in D&amp;D, an absolute monster in Baldur&#39;s Gate 3: Why the College of Swords Bard is the best choice for Honour Mode](https://www.pcgamer.com/a-jack-of-all-trades-in-dandd-an-absolute-monster-in-baldurs-gate-3-why-the-college-of-swords-bard-is-the-best-choice-for-honour-mode)
- - [You can play Rock, Paper, Scissors in Helldivers 2](https://www.polygon.com/24078152/helldivers-2-rock-paper-scissors-emote)<!-- GAME:END -->
+ - [The Week In Games: Station Wagon Survival And A Cozy League Spinoff](https://kotaku.com/february-games-out-this-week-pacific-drive-bandle-tale-1851271052)
+ - [Pokémon Go ‘Glimmers of Gratitude’ Shiny Shaymin Masterwork Research guide](https://www.polygon.com/pokemon-go-guide/24078278/shiny-shaymin-masterwork-research-glimmers-of-gratitude)
+ - [Lady Gaga Teases Fortnite Festival Performance With Throwback Meme](https://kotaku.com/lady-gaga-fortnite-festival-skin-twitter-tweet-1851271119)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
