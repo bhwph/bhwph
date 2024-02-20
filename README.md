@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Update your spreadsheets, CDPR is out talking about the genres its mysterious non-Witcher, non-Cyberpunk game isn&#39;t going to be](https://www.pcgamer.com/update-your-spreadsheets-cdpr-is-out-talking-about-the-genres-its-mysterious-non-witcher-non-cyberpunk-game-isnt-going-to-be)
- - [Coming to Xbox Game Pass: Bluey: The Videogame, Tales of Arise, Warhammer 40,000: Boltgun, and More](https://news.xbox.com/en-us/2024/02/20/game-pass-february-2024-wave-2-announce/)
- - [Bethesda Drops A Nuke... Full Of Fallout Games](https://kotaku.com/bethesda-fallout-new-vegas-76-special-anthology-1851269351)<!-- GAME:END -->
+ - [Taking on Helldiver 2&#39;s missions solo is like playing the world&#39;s scariest tower defence game](https://www.pcgamer.com/taking-on-helldiver-2s-missions-solo-is-like-playing-the-worlds-scariest-tower-defence-game)
+ - [A jack of all trades in D&amp;D, an absolute monster in Baldur&#39;s Gate 3: Why the College of Swords Bard is the best choice for Honour Mode](https://www.pcgamer.com/a-jack-of-all-trades-in-dandd-an-absolute-monster-in-baldurs-gate-3-why-the-college-of-swords-bard-is-the-best-choice-for-honour-mode)
+ - [You can play Rock, Paper, Scissors in Helldivers 2](https://www.polygon.com/24078152/helldivers-2-rock-paper-scissors-emote)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
