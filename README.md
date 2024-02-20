@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The right to repair — and play games anywhere](https://www.theverge.com/24078212/right-to-repair-xbox-game-pass-cloud-vergecast)
- - [HBO holds back Last Week Tonight YouTube clips in hopes you’ll use Max instead](https://www.theverge.com/2024/2/20/24078148/hbo-last-week-tonight-with-john-oliver-youtube-clips-delayed-thursday)
- - [Survey fears Apple Vision Pro users can be idiots behind the wheel](https://appleinsider.com/articles/24/02/20/survey-fears-apple-vision-pro-users-can-be-idiots-behind-the-wheel?utm_medium=rss)<!-- TECH:END -->
+ - [Fourth round of Apple developer betas arrive, minus Apple Music SharePlay](https://appleinsider.com/articles/24/02/20/fourth-round-of-apple-developer-betas-arrive-minus-apple-music-shareplay?utm_medium=rss)
+ - [US Supreme court declines to hear $503M Apple-VirnetX patent case](https://appleinsider.com/articles/24/02/20/us-supreme-court-declines-to-hear-503m-apple-virnetx-patent-case?utm_medium=rss)
+ - [Apple Music debuts a monthly version of Replay, with insights like total listening time, top songs, artists, and albums, and makes 2024&#39;s Replay Mix available &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240220/p18#a240220p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
