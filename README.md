@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The way these coconuts peal](http://9gag.com/gag/aGE3LZ7)
- - 😝 [I would have done the same](http://9gag.com/gag/ajVb700)
- - 👉 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)<!-- MEMES:END -->
+ - 6️⃣ [I would have done the same](http://9gag.com/gag/ajVb700)
+ - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 👉 [Why?](http://9gag.com/gag/aL1YnyM)<!-- MEMES:END -->
 
 --- 
 
