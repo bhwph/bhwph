@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The History of Printing](http://9gag.com/gag/a04Ae6Q)
- - 😝 [Clown world](http://9gag.com/gag/a4oePXm)
- - 👉 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)<!-- MEMES:END -->
+ - 6️⃣ [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 😝 [Old but gold](http://9gag.com/gag/ajVb7m1)
+ - 👉 [You are f**ked](http://9gag.com/gag/a6qvDom)<!-- MEMES:END -->
 
 --- 
 
