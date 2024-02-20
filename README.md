@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The trick is not to form an emotional bond](http://9gag.com/gag/axoxoKb)
+ - 6️⃣ [I would have done the same](http://9gag.com/gag/ajVb700)
  - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
- - 👉 [Clown world](http://9gag.com/gag/a4oePXm)<!-- MEMES:END -->
+ - 👉 [Yup](http://9gag.com/gag/aA0Wynp)<!-- MEMES:END -->
 
 --- 
 
