@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 15’s battery health is better than any iPhone before, and it’s catching up to Android](https://www.androidauthority.com/apple-iphone-15-battery-health-3417348/)
- - [You can now use your voice to launch Galaxy AI features](https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/)
- - [New Google TV feature makes it faster to discover and reach content](https://www.androidauthority.com/google-tv-new-quick-access-row-3417351/)<!-- TECH:END -->
+ - [Snapdragon 8s Gen 3 leak indicates Qualcomm could be back with confusing SoC names](https://www.androidauthority.com/qualcomm-snapdragon-8s-gen-3-leak-3417379/)
+ - [A Startup’s Mission to Bring Back the Woolly Mammoth Is Being Made Into a Docuseries](https://www.wired.com/story/colossal-biosciences-james-reed-documentary/)
+ - [A profile of ElevenLabs, whose AI voice cloning tech is being used to spoof politicians; five of ElevenLabs&#39; 40 employees are dedicated to trust and safety &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/240221/p7#a240221p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
