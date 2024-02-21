@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grounded and Pentiment are Microsoft’s first Xbox-exclusive games for Nintendo Switch](https://www.theverge.com/2024/2/21/24078043/grounded-pentiment-nintendo-switch-release-microsoft-xbox-exclusive-games)
- - [Nintendo Direct February 2024: all the news and trailers](https://www.theverge.com/24078575/nintendo-direct-february-2024-xbox-trailers-news)
- - [Apple announces PQ3, a post-quantum cryptographic protocol for iMessage that uses the Kyber algorithm, launching in iOS 17.4, iPad OS 17.4, and macOS 14.4 &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240221/p21#a240221p21)<!-- TECH:END -->
+ - [Xbox-exclusive Hi-Fi Rush is officially coming to PS5](https://www.theverge.com/2024/2/21/24079090/hi-fi-rush-ps5-xbox-release-date)
+ - [Meta &amp; Microsoft are lobbying the EU to reject Apple&#39;s new App Store plans [u]](https://appleinsider.com/articles/24/02/21/meta-microsoft-are-lobbying-the-eu-to-reject-apples-new-app-store-plans?utm_medium=rss)
+ - [Apple brings live scores to new Apple Sports app](https://appleinsider.com/articles/24/02/21/apple-brings-live-scores-to-new-apple-sports-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
