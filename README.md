@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NSA Cybersecurity Director Rob Joyce will retire at the end of March after taking the position in 2021; Deputy Director David Luber will assume the role &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/240220/p24#a240220p24)
- - [One of the last small-ish Android phones looks like it’s going the way of the iPhone Mini](https://www.theverge.com/2024/2/20/24078500/asus-zenfone-11-ultra-small-phone)
- - [Pair found guilty of trying to defraud Apple of more than $3 million](https://appleinsider.com/articles/24/02/20/pair-found-guilty-of-trying-to-defraud-apple-of-more-than-3-million?utm_medium=rss)<!-- TECH:END -->
+ - [Is Telegram safe?](https://www.androidauthority.com/is-telegram-safe-3417228/)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Cox Communications won’t have to pay $1 billion to record labels after all](https://www.theverge.com/2024/2/20/24078418/cox-communications-wont-have-to-pay-1-billion-to-record-labels-after-all)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
