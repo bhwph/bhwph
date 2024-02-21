@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Reddit plans to reserve some of its IPO shares for 75K loyal users, an unusual move that could build loyalty, and list its shares on the NYSE in March &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/240221/p15#a240221p15)
- - [What happened, Android? The top 7 best-selling smartphones last year were all iPhones](https://www.androidauthority.com/counterpoint-dec-2023-top-10-best-selling-smartphones-3417416/)
- - [What is sudo for Windows, and how do you use it?](https://www.androidauthority.com/sudo-for-windows-3416780/)<!-- TECH:END -->
+ - [Grounded and Pentiment are Microsoft’s first Xbox-exclusive games for Nintendo Switch](https://www.theverge.com/2024/2/21/24078043/grounded-pentiment-nintendo-switch-release-microsoft-xbox-exclusive-games)
+ - [Nintendo Direct February 2024: all the news and trailers](https://www.theverge.com/24078575/nintendo-direct-february-2024-xbox-trailers-news)
+ - [Apple announces PQ3, a post-quantum cryptographic protocol for iMessage that uses the Kyber algorithm, launching in iOS 17.4, iPad OS 17.4, and macOS 14.4 &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240221/p21#a240221p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
