@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Read this twice just to understand better.](http://9gag.com/gag/abvPAZb)
- - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
- - 👉 [Lol.](http://9gag.com/gag/aGE3nV6)<!-- MEMES:END -->
+ - 6️⃣ [Congratulations. Happy for you.](http://9gag.com/gag/aL1YzPM)
+ - 😝 [Only fans dad](http://9gag.com/gag/ap9yD19)
+ - 👉 [You can see tomorrow through this tube](http://9gag.com/gag/a1PzDqY)<!-- MEMES:END -->
 
 --- 
 
