@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Platforms, New Players: Four Fan-Favorite Xbox Games Coming to Nintendo Switch and Sony Platforms](https://news.xbox.com/en-us/2024/02/21/new-platforms-new-players-xbox-games-switch-playstation/)
- - [A Final Fantasy XIV Beginner’s Guide For Xbox](https://kotaku.com/final-fantasy-14-xbox-open-beta-beginners-guide-1851274862)
- - [It took a game about poker to help me realise I actually like deckbuilders](https://www.pcgamer.com/it-took-a-game-about-poker-to-help-me-realise-i-actually-like-deckbuilders)<!-- GAME:END -->
+ - [Konami’s re-releasing one of the rarest Game Boy Advance games](https://www.polygon.com/24079053/konami-ninja-five-o-gba-switch-ps5-limited-run-games)
+ - [Last Epoch review](https://www.pcgamer.com/last-epoch-review)
+ - [Who had better Avatar villains: The Last Airbender or Legend of Korra?](https://www.polygon.com/24078305/avatar-last-airbender-korra-villains-bad-guys)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
