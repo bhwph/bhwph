@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Bioptimus, which aims to build an LLM to understand biological processes on different scales, launches with a $35M seed led by Sofinnova Partners &lpar;Daphn&amp;eacute; Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/240220/p31#a240220p31)
- - [Scale AI signs a one-year contract with the Pentagon to provide a means to test and evaluate LLMs that can be used for military planning and decision-making &lpar;Brandi Vincent/DefenseScoop&rpar;](http://www.techmeme.com/240220/p30#a240220p30)
- - [Samsung confirms Galaxy AI is coming to Galaxy Wearables](https://www.androidauthority.com/samsung-galaxy-ai-galaxy-watch-3417284/)<!-- TECH:END -->
+ - [The Google Assistant Android app is now Gemini by default](https://www.androidauthority.com/google-gemini-replacing-assistant-android-app-3417330/)
+ - [Meta and Microsoft are lobbying EU regulators to reject Apple&#39;s proposed App Store changes to comply with the DMA, saying Apple&#39;s plans don&#39;t go far enough &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240221/p1#a240221p1)
+ - [Switching to electric vehicles would be fantastic for kids’ health](https://www.theverge.com/2024/2/21/24074895/electric-vehicle-children-health-effect-american-lung-association)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
