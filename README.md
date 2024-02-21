@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Konami’s re-releasing one of the rarest Game Boy Advance games](https://www.polygon.com/24079053/konami-ninja-five-o-gba-switch-ps5-limited-run-games)
- - [Last Epoch review](https://www.pcgamer.com/last-epoch-review)
- - [Who had better Avatar villains: The Last Airbender or Legend of Korra?](https://www.polygon.com/24078305/avatar-last-airbender-korra-villains-bad-guys)<!-- GAME:END -->
+ - [The Best Xbox Game Pass Games To Play In 2024](https://kotaku.com/the-12-best-games-on-xbox-game-pass-1841477023)
+ - [All the new video games launching in 2024](https://www.polygon.com/gaming/23844302/video-game-release-dates-2024-new-upcoming)
+ - [15 Elden Ring: Shadow Of The Erdtree Trailer Details You Might Have Missed](https://kotaku.com/elden-ring-shadow-of-the-erdtree-dlc-trailer-details-1851275252)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
