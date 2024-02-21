@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only fans dad](http://9gag.com/gag/ap9yD19)
- - 😝 [Anti-immigration rally in Japan against Kurdish migrants](http://9gag.com/gag/a1PzDKw)
- - 👉 [Congratulations. Happy for you.](http://9gag.com/gag/aL1YzPM)<!-- MEMES:END -->
+ - 6️⃣ [Clown world](http://9gag.com/gag/a4oePXm)
+ - 😝 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
+ - 👉 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)<!-- MEMES:END -->
 
 --- 
 
