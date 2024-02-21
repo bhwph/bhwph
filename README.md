@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Clown world](http://9gag.com/gag/a4oePXm)
- - 😝 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
- - 👉 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)<!-- MEMES:END -->
+ - 6️⃣ [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)
+ - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 👉 [Wtf screech](http://9gag.com/gag/aZDAwmW)<!-- MEMES:END -->
 
 --- 
 
