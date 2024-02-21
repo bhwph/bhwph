@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Assistant Android app is now Gemini by default](https://www.androidauthority.com/google-gemini-replacing-assistant-android-app-3417330/)
- - [Meta and Microsoft are lobbying EU regulators to reject Apple&#39;s proposed App Store changes to comply with the DMA, saying Apple&#39;s plans don&#39;t go far enough &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240221/p1#a240221p1)
- - [Switching to electric vehicles would be fantastic for kids’ health](https://www.theverge.com/2024/2/21/24074895/electric-vehicle-children-health-effect-american-lung-association)<!-- TECH:END -->
+ - [The iPhone 15’s battery health is better than any iPhone before, and it’s catching up to Android](https://www.androidauthority.com/apple-iphone-15-battery-health-3417348/)
+ - [You can now use your voice to launch Galaxy AI features](https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/)
+ - [New Google TV feature makes it faster to discover and reach content](https://www.androidauthority.com/google-tv-new-quick-access-row-3417351/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
