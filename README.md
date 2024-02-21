@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There are increased reports of crashing in Unreal Engine games, etc. and Epic is blaming Intel chips](https://www.pcgamer.com/there-are-increased-reports-of-crashing-in-unreal-engine-games-etc-and-epic-is-blaming-intel-chips)
- - [A decade since it was announced, the elusive Little Devil Inside resurfaces with a new 6-minute gameplay video and an apology from its developers](https://www.pcgamer.com/a-decade-since-it-was-announced-the-elusive-little-devil-inside-resurfaces-with-a-new-6-minute-gameplay-video-and-an-apology-from-its-developers)
- - [Elon Musk says the first Neuralink patient can already use brain implant to control a mouse cursor](https://www.pcgamer.com/elon-musk-says-the-first-neuralink-patient-can-already-use-brain-implant-to-control-a-mouse-cursor)<!-- GAME:END -->
+ - [Pulse Elite wireless headset launches starting today: the starter’s guide to PlayStation’s latest line of innovative audio products](https://blog.playstation.com/2024/02/21/pulse-elite-wireless-headset-launches-starting-today-the-starters-guide-to-playstations-latest-line-of-innovative-audio-products/)
+ - [Fallout’s Scrappy Survivors deck takes Magic’s Commander format to new heights](https://www.polygon.com/24078201/mtg-fallout-scrappy-survivors-decklist-reveal)
+ - [Helldivers 2 will soon kick AFK squatters](https://www.polygon.com/24079025/helldivers-2-servers-afk-squatters-queue)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
