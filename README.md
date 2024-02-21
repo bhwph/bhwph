@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Congratulations. Happy for you.](http://9gag.com/gag/aL1YzPM)
- - 😝 [Only fans dad](http://9gag.com/gag/ap9yD19)
- - 👉 [You can see tomorrow through this tube](http://9gag.com/gag/a1PzDqY)<!-- MEMES:END -->
+ - 6️⃣ [I bet she&#39;s saying this to herself infront of the mirror right now.](http://9gag.com/gag/aMEREqx)
+ - 😝 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)
+ - 👉 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)<!-- MEMES:END -->
 
 --- 
 
