@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at TDCommons, a site Google launched in 2015 that publishes technical details of ideas from companies and individuals, to block future patent disputes &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240220/p27#a240220p27)
- - [Yes, Amazon gift bags have handles now](https://www.theverge.com/2024/2/20/24078688/amazon-gift-bags-handles)
- - [Best Internet Providers in Frederick, Maryland     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-frederick-md/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Paris-based Bioptimus, which aims to build an LLM to understand biological processes on different scales, launches with a $35M seed led by Sofinnova Partners &lpar;Daphn&amp;eacute; Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/240220/p31#a240220p31)
+ - [Scale AI signs a one-year contract with the Pentagon to provide a means to test and evaluate LLMs that can be used for military planning and decision-making &lpar;Brandi Vincent/DefenseScoop&rpar;](http://www.techmeme.com/240220/p30#a240220p30)
+ - [Samsung confirms Galaxy AI is coming to Galaxy Wearables](https://www.androidauthority.com/samsung-galaxy-ai-galaxy-watch-3417284/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
