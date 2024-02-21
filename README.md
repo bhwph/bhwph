@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Roblox paid out a record $740.8M to over 12,000 game creators in 2023, up 19% YoY; ~3,500 creators earned over $10,000, and ~750 earned over $100K &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240221/p35#a240221p35)
- - [Experience MLS on Apple Vision Pro, including a 3D special](https://appleinsider.com/articles/24/02/21/experience-mls-on-apple-vision-pro-including-a-3d-special?utm_medium=rss)
- - [The LTE-enabled Apple Watch Series 8 is nearly half off](https://www.theverge.com/2024/2/21/24078171/apple-watch-series-8-meross-smart-plug-mini-deal-sale)<!-- TECH:END -->
+ - [Which tech jobs could AI replace? A realistic and pragmatic view](https://www.androidauthority.com/which-tech-jobs-could-ai-replace-3417496/)
+ - [A Montenegro court rules that Terraform co-founder Do Kwon should be extradited to the US for a trial; both the US and South Korea have sought to prosecute him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240221/p38#a240221p38)
+ - [Source: Magic, which recently raised $117M and says its AI coding assistant has a larger context window than rivals&#39;, may have made an AI reasoning breakthrough &lpar;The Information&rpar;](http://www.techmeme.com/240221/p37#a240221p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
