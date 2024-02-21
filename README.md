@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 8s Gen 3 leak indicates Qualcomm could be back with confusing SoC names](https://www.androidauthority.com/qualcomm-snapdragon-8s-gen-3-leak-3417379/)
- - [A Startup’s Mission to Bring Back the Woolly Mammoth Is Being Made Into a Docuseries](https://www.wired.com/story/colossal-biosciences-james-reed-documentary/)
- - [A profile of ElevenLabs, whose AI voice cloning tech is being used to spoof politicians; five of ElevenLabs&#39; 40 employees are dedicated to trust and safety &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/240221/p7#a240221p7)<!-- TECH:END -->
+ - [Sources: Reddit plans to reserve some of its IPO shares for 75K loyal users, an unusual move that could build loyalty, and list its shares on the NYSE in March &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/240221/p15#a240221p15)
+ - [What happened, Android? The top 7 best-selling smartphones last year were all iPhones](https://www.androidauthority.com/counterpoint-dec-2023-top-10-best-selling-smartphones-3417416/)
+ - [What is sudo for Windows, and how do you use it?](https://www.androidauthority.com/sudo-for-windows-3416780/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
