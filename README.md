@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Spider-Man 2 update adds New Game Plus and new suits on March 7](https://blog.playstation.com/2024/02/21/marvels-spider-man-2-update-adds-new-game-plus-and-new-suits-on-march-7/)
- - [All the biggest announcements from Nintendo’s February 2024 Partner Direct](https://www.polygon.com/24078620/nintendo-games-direct-february-2024-announcements-release-dates)
- - [Fortnite TMNT event quest schedule and Cowabunga rewards](https://www.polygon.com/fortnite-guide/24067852/tmnt-event-quest-schedule-cowabunga-rewards)<!-- GAME:END -->
+ - [New Platforms, New Players: Four Fan-Favorite Xbox Games Coming to Nintendo Switch and Sony Platforms](https://news.xbox.com/en-us/2024/02/21/new-platforms-new-players-xbox-games-switch-playstation/)
+ - [A Final Fantasy XIV Beginner’s Guide For Xbox](https://kotaku.com/final-fantasy-14-xbox-open-beta-beginners-guide-1851274862)
+ - [It took a game about poker to help me realise I actually like deckbuilders](https://www.pcgamer.com/it-took-a-game-about-poker-to-help-me-realise-i-actually-like-deckbuilders)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
