@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pulse Elite wireless headset launches starting today: the starter’s guide to PlayStation’s latest line of innovative audio products](https://blog.playstation.com/2024/02/21/pulse-elite-wireless-headset-launches-starting-today-the-starters-guide-to-playstations-latest-line-of-innovative-audio-products/)
- - [Fallout’s Scrappy Survivors deck takes Magic’s Commander format to new heights](https://www.polygon.com/24078201/mtg-fallout-scrappy-survivors-decklist-reveal)
- - [Helldivers 2 will soon kick AFK squatters](https://www.polygon.com/24079025/helldivers-2-servers-afk-squatters-queue)<!-- GAME:END -->
+ - [Marvel’s Spider-Man 2 update adds New Game Plus and new suits on March 7](https://blog.playstation.com/2024/02/21/marvels-spider-man-2-update-adds-new-game-plus-and-new-suits-on-march-7/)
+ - [All the biggest announcements from Nintendo’s February 2024 Partner Direct](https://www.polygon.com/24078620/nintendo-games-direct-february-2024-announcements-release-dates)
+ - [Fortnite TMNT event quest schedule and Cowabunga rewards](https://www.polygon.com/fortnite-guide/24067852/tmnt-event-quest-schedule-cowabunga-rewards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
