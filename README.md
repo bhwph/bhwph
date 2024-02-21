@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I bet she&#39;s saying this to herself infront of the mirror right now.](http://9gag.com/gag/aMEREqx)
- - 😝 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)
- - 👉 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)<!-- MEMES:END -->
+ - 6️⃣ [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 😝 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
+ - 👉 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)<!-- MEMES:END -->
 
 --- 
 
