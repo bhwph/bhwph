@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Number one](http://9gag.com/gag/a6qvX8q)
- - 😝 [Women](http://9gag.com/gag/aEqrMWM)
- - 👉 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)<!-- MEMES:END -->
+ - 6️⃣ [Mess with the dog you get the](http://9gag.com/gag/agoM8ZK)
+ - 😝 [Game boy](http://9gag.com/gag/az2NGXK)
+ - 👉 [The movies really butchered her character](http://9gag.com/gag/aA0W4GR)<!-- MEMES:END -->
 
 --- 
 
