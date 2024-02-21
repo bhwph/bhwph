@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony isn&#39;t happy with Bungie: PlayStation boss wants more &#39;accountability&#39; from the studio on money and deadlines](https://www.pcgamer.com/sony-isnt-happy-with-bungie-playstation-boss-wants-more-accountability-from-the-studio-on-money-and-deadlines)
- - [Helldivers 2 patch &#39;tunes&#39; those civilian extract missions that were murdering everyone as Arrowhead continues to manage login queues](https://www.pcgamer.com/helldivers-2-patch-notes-civilian-extract-quickplay-black-screen)
- - [Kingmakers has the best twist on medieval warfare ever](https://www.polygon.com/24078520/kingmakers-medieval-warfare-twist-redemption-road)<!-- GAME:END -->
+ - [Happy 10th Anniversary: Xbox Insider Program](https://news.xbox.com/en-us/2024/02/20/happy-10th-anniversary-xbox-insider-program/)
+ - [DPS heroes rule Overwatch 2 now, but Blizzard isn&#39;t ready to nerf their controversial new ability quite yet](https://www.pcgamer.com/overwatch-2-season-9-patch)
+ - [Finally, a game that lets me time travel to medieval Europe with an AK-47 and a pickup truck](https://www.pcgamer.com/finally-a-game-that-lets-me-time-travel-to-medieval-europe-with-an-ak-47-and-a-pickup-truck)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
