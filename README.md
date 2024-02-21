@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mess with the dog you get the](http://9gag.com/gag/agoM8ZK)
- - 😝 [Game boy](http://9gag.com/gag/az2NGXK)
- - 👉 [The movies really butchered her character](http://9gag.com/gag/aA0W4GR)<!-- MEMES:END -->
+ - 6️⃣ [Wtf screech](http://9gag.com/gag/aZDAwmW)
+ - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 👉 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)<!-- MEMES:END -->
 
 --- 
 
