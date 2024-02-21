@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox-exclusive Hi-Fi Rush is officially coming to PS5](https://www.theverge.com/2024/2/21/24079090/hi-fi-rush-ps5-xbox-release-date)
- - [Meta &amp; Microsoft are lobbying the EU to reject Apple&#39;s new App Store plans [u]](https://appleinsider.com/articles/24/02/21/meta-microsoft-are-lobbying-the-eu-to-reject-apples-new-app-store-plans?utm_medium=rss)
- - [Apple brings live scores to new Apple Sports app](https://appleinsider.com/articles/24/02/21/apple-brings-live-scores-to-new-apple-sports-app?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: Roblox paid out a record $740.8M to over 12,000 game creators in 2023, up 19% YoY; ~3,500 creators earned over $10,000, and ~750 earned over $100K &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240221/p35#a240221p35)
+ - [Experience MLS on Apple Vision Pro, including a 3D special](https://appleinsider.com/articles/24/02/21/experience-mls-on-apple-vision-pro-including-a-3d-special?utm_medium=rss)
+ - [The LTE-enabled Apple Watch Series 8 is nearly half off](https://www.theverge.com/2024/2/21/24078171/apple-watch-series-8-meross-smart-plug-mini-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
