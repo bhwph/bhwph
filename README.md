@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)
- - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
- - 👉 [Wtf screech](http://9gag.com/gag/aZDAwmW)<!-- MEMES:END -->
+ - 6️⃣ [You are f**ked](http://9gag.com/gag/a6qvDom)
+ - 😝 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
+ - 👉 [Women](http://9gag.com/gag/aEqrMWM)<!-- MEMES:END -->
 
 --- 
 
