@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wtf screech](http://9gag.com/gag/aZDAwmW)
- - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 👉 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)<!-- MEMES:END -->
+ - 6️⃣ [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 😝 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
+ - 👉 [HAAANS?!](http://9gag.com/gag/aPgNPmg)<!-- MEMES:END -->
 
 --- 
 
