@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which tech jobs could AI replace? A realistic and pragmatic view](https://www.androidauthority.com/which-tech-jobs-could-ai-replace-3417496/)
- - [A Montenegro court rules that Terraform co-founder Do Kwon should be extradited to the US for a trial; both the US and South Korea have sought to prosecute him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240221/p38#a240221p38)
- - [Source: Magic, which recently raised $117M and says its AI coding assistant has a larger context window than rivals&#39;, may have made an AI reasoning breakthrough &lpar;The Information&rpar;](http://www.techmeme.com/240221/p37#a240221p37)<!-- TECH:END -->
+ - [Best Apple Vision Pro cases &amp; accessories](https://appleinsider.com/inside/apple-vision-pro/best/best-apple-vision-pro-cases-accessories?utm_medium=rss)
+ - [Apple says the iPhone 15’s battery got better — but won’t say exactly how](https://www.theverge.com/2024/2/21/24078576/apple-iphone-15-pro-max-battery-health-charging-ios-17-4)
+ - [Nvidia reports Q4 revenue up 265% YoY to $22.1B, vs. $20.62B est., Data Center revenue up 409% to $18.4B, and FY 2024 revenue up 126% to $60.9B; NVDA jumps 6%+ &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240221/p42#a240221p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
