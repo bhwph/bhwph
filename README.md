@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lol.](http://9gag.com/gag/aGE3nV6)
- - 😝 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
- - 👉 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)<!-- MEMES:END -->
+ - 6️⃣ [Only fans dad](http://9gag.com/gag/ap9yD19)
+ - 😝 [Anti-immigration rally in Japan against Kurdish migrants](http://9gag.com/gag/a1PzDKw)
+ - 👉 [Congratulations. Happy for you.](http://9gag.com/gag/aL1YzPM)<!-- MEMES:END -->
 
 --- 
 
