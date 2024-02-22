@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)
- - 😝 [Poor terry.](http://9gag.com/gag/aDYpnAN)
- - 👉 [Really makes you wonder](http://9gag.com/gag/aeQox2v)<!-- MEMES:END -->
+ - 6️⃣ [Mess with the dog you get the](http://9gag.com/gag/agoM8ZK)
+ - 😝 [Black pope, black vikings... Probably got the job through DEI](http://9gag.com/gag/aDYpV1w)
+ - 👉 [Technically correct analytics](http://9gag.com/gag/aNwxBDv)<!-- MEMES:END -->
 
 --- 
 
