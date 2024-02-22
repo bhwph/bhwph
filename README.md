@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Apple Vision Pro cases &amp; accessories](https://appleinsider.com/inside/apple-vision-pro/best/best-apple-vision-pro-cases-accessories?utm_medium=rss)
- - [Apple says the iPhone 15’s battery got better — but won’t say exactly how](https://www.theverge.com/2024/2/21/24078576/apple-iphone-15-pro-max-battery-health-charging-ios-17-4)
- - [Nvidia reports Q4 revenue up 265% YoY to $22.1B, vs. $20.62B est., Data Center revenue up 409% to $18.4B, and FY 2024 revenue up 126% to $60.9B; NVDA jumps 6%+ &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240221/p42#a240221p42)<!-- TECH:END -->
+ - [App Review&#39;s sudden enforcement of an in-app gift rule catches a meditation app off guard](https://appleinsider.com/articles/24/02/22/app-reviews-sudden-enforcement-of-an-in-app-gift-rule-catches-a-meditation-app-off-guard?utm_medium=rss)
+ - [Solar Eclipse 2024: Eye Safety and How to Find Eclipse Glasses     - CNET](https://www.cnet.com/health/personal-care/solar-eclipse-2024-eye-safety-and-how-to-find-eclipse-glasses/#ftag=CAD590a51e)
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
