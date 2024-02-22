@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
- - 😝 [Hmm......](http://9gag.com/gag/axoxbnY)
- - 👉 [HAAANS?!](http://9gag.com/gag/aPgNPmg)<!-- MEMES:END -->
+ - 6️⃣ [Good guy](http://9gag.com/gag/a04AXbv)
+ - 😝 [Tricky](http://9gag.com/gag/aVbnmVw)
+ - 👉 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)<!-- MEMES:END -->
 
 --- 
 
