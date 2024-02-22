@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s ‘Woke’ Image Generator Shows the Limitations of AI](https://www.wired.com/story/google-gemini-woke-ai-image-generation/)
- - [Tom Hiddleston narrates Apple TV+&#39;s latest nature series debuting soon](https://appleinsider.com/articles/24/02/22/tom-hiddleston-narrates-apple-tvs-latest-nature-series-debuting-soon?utm_medium=rss)
- - [New OWC Atlas card reader moves data just as fast as Thunderbolt](https://appleinsider.com/articles/24/02/22/new-owc-atlas-card-reader-moves-data-just-as-fast-as-thunderbolt?utm_medium=rss)<!-- TECH:END -->
+ - [Intel’s CEO Says AI Is the Key to the Company’s Comeback](https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/)
+ - [S-1: Sam Altman has an 8.7% stake in Reddit, making him the third-largest shareholder, behind Advance Magazine Publishers, with 30.1%, and Tencent, with 11% &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240222/p37#a240222p37)
+ - [What is Wi-Fi calling, and how does it work?](https://www.androidauthority.com/what-is-wi-fi-calling-3418180/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
