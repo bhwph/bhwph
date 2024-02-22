@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League Of Legends Fighting Game Finally Gets Official &lpar;Weird&rpar; Name](https://kotaku.com/project-l-2xko-league-of-legends-riot-games-1851278882)
- - [Everything You Should Do In Final Fantasy VII Rebirth’s Demo](https://kotaku.com/final-fantasy-7-rebirth-ff7-junon-demo-1851278806)
- - [How to craft a compass and spyglass in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/24080118/compass-glass-how-to-craft-make-sand)<!-- GAME:END -->
+ - [The Halo TV series unceremoniously killed one of the games’ best characters](https://www.polygon.com/24080286/halo-tv-series-fall-reach-captain-keyes-bad)
+ - [Solo survival players, rejoice: Nightingale is &#39;prioritizing and developing an offline mode&#39;](https://www.pcgamer.com/solo-survival-players-rejoice-nightingale-is-prioritizing-and-developing-an-offline-mode)
+ - [Another wall crumbles in the console exclusivity war: Sony is bringing official PSVR2 support to PC](https://www.pcgamer.com/another-wall-crumbles-in-the-console-exclusivity-war-sony-testing-psvr2-on-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
