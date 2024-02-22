@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
- - 😝 [Tricky](http://9gag.com/gag/aVbnmVw)
- - 👉 [Cave Explorers: Oooooh look a hole the size of my head and I have no idea where it leads, let&#39;s climb down!](http://9gag.com/gag/a6qvn5q)<!-- MEMES:END -->
+ - 6️⃣ [Technically correct analytics](http://9gag.com/gag/aNwxBDv)
+ - 😝 [When a nice melody drops you into existential dredd](http://9gag.com/gag/a4oe23y)
+ - 👉 [Thank you for your service](http://9gag.com/gag/a4oeAZy)<!-- MEMES:END -->
 
 --- 
 
