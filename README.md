@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
- - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)
- - 👉 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)<!-- MEMES:END -->
+ - 6️⃣ [Unexpected](http://9gag.com/gag/a2KB24e)
+ - 😝 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)
+ - 👉 [I found this sword in my late grandfather&#39;s workshop, it&#39;s been through a fire that&#39;s why it looks like this, but I&#39;m planing on restoring it ! The thing is I never found out the meaning behind those symbols and it still puzzles me even today !](http://9gag.com/gag/aeQoV8B)<!-- MEMES:END -->
 
 --- 
 
