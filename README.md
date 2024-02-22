@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Bristol-based Hargreaves Lansdown became the UK&#39;s largest DIY investment platform, with 1.8M clients and &amp;pound;134B in assets, as new rivals weaken its dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/240222/p9#a240222p9)
- - [Samsung Galaxy Z Fold 6 early spec leak indicates we could see a lot more Titanium](https://www.androidauthority.com/samsung-galaxy-z-fold-6-early-spec-leak-3417931/)
- - [Gboard is gaining the ability to copy text from the real world](https://www.androidauthority.com/gboard-scan-copy-text-real-world-3417910/)<!-- TECH:END -->
+ - [The RBI&#39;s crackdown on Paytm, Visa, and others seems driven by sketchy actors riding speed and scale, underpinned by issues of identity, tech, and competition &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/240222/p17#a240222p17)
+ - [How much does Apple TV Plus cost around the world?](https://www.androidauthority.com/apple-tv-plus-cost-around-the-world-3417764/)
+ - [Tech Job Interviews Are Out of Control](https://www.wired.com/story/tech-job-interviews-out-of-control/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
