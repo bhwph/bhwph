@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halo TV series unceremoniously killed one of the games’ best characters](https://www.polygon.com/24080286/halo-tv-series-fall-reach-captain-keyes-bad)
- - [Solo survival players, rejoice: Nightingale is &#39;prioritizing and developing an offline mode&#39;](https://www.pcgamer.com/solo-survival-players-rejoice-nightingale-is-prioritizing-and-developing-an-offline-mode)
- - [Another wall crumbles in the console exclusivity war: Sony is bringing official PSVR2 support to PC](https://www.pcgamer.com/another-wall-crumbles-in-the-console-exclusivity-war-sony-testing-psvr2-on-pc)<!-- GAME:END -->
+ - [Magic: The Gathering&#39;s Fallout crossover understands they&#39;re RPGs about reading lore on terminals and hoarding junk until you&#39;re encumbered](https://www.pcgamer.com/magic-the-gatherings-fallout-crossover-understands-theyre-rpgs-about-reading-lore-on-terminals-and-hoarding-junk-until-youre-encumbered)
+ - [Triple Triad Finally Has A Successor In FF7 Rebirth’s Queen’s Blood](https://kotaku.com/final-fantasy-7-rebirth-queens-blood-rocks-1851279830)
+ - [Palworld has achieved more players in 2 months than Elden Ring and Hogwarts Legacy managed in a year](https://www.pcgamer.com/palworld-has-achieved-more-players-in-2-months-than-elden-ring-and-hogwarts-legacy-managed-in-a-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
