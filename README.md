@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, February 22](https://www.pcgamer.com/wordle-answer-today-february-22-2024)
- - [Shin Megami Tensei 5 breaks Switch exclusivity for an expanded PC release](https://www.pcgamer.com/shin-megami-tensei-5-breaks-switch-exclusivity-for-an-expanded-pc-release)
- - [Intel announces new 14A node at IFS Direct Connect 2024, and its aggressive &#39;five nodes in four years&#39; roadmap remains on track](https://www.pcgamer.com/intel-announces-new-14a-node-at-ifs-direct-connect-2024-and-its-aggressive-five-nodes-in-four-years-roadmap-remains-on-track)<!-- GAME:END -->
+ - [Apple issues rice advice, saying its not the way you should dry out your wet iPhone](https://www.pcgamer.com/apple-issues-rice-advice-saying-its-not-the-way-you-should-dry-out-your-wet-iphone)
+ - [10 tips for surviving Pacific Drive&#39;s deadly exclusion zone](https://www.pcgamer.com/pacific-drive-tips)
+ - [Where to find ThermoSap Crystals in Pacific Drive](https://www.pcgamer.com/pacific-drive-thermosap-crystals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
