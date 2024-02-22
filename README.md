@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Ghost Recon Breakpoint, The Texas Chain Saw Massacre, and Catan](https://news.xbox.com/en-us/2024/02/22/free-play-days-ghost-recon-breakpoint-the-texas-chain-saw-massacre-and-catan/)
- - [The live-action Sokka sexism issue is actually worse than you fear](https://www.polygon.com/24079505/netflix-avatar-airbender-sokka-suki-kyoshi-warriors-sexism-cast)
- - [Hello Kitty Island Adventure’s Latest Update Is A Flower Lover’s Paradise](https://kotaku.com/hello-kitty-island-adventure-apple-arcade-update-1851275688)<!-- GAME:END -->
+ - [League Of Legends Fighting Game Finally Gets Official &lpar;Weird&rpar; Name](https://kotaku.com/project-l-2xko-league-of-legends-riot-games-1851278882)
+ - [Everything You Should Do In Final Fantasy VII Rebirth’s Demo](https://kotaku.com/final-fantasy-7-rebirth-ff7-junon-demo-1851278806)
+ - [How to craft a compass and spyglass in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/24080118/compass-glass-how-to-craft-make-sand)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
