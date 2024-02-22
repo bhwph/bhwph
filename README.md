@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)
- - [20 Best Portable Battery Chargers &lpar;2024&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [Sources: Nigeria ordered telecoms to restrict access to the websites of some of the world&#39;s largest crypto exchanges, including Binance, Coinbase, and Kraken &lpar;Financial Times&rpar;](http://www.techmeme.com/240222/p26#a240222p26)<!-- TECH:END -->
+ - [Google plans to integrate Gemini into its Performance Max ad placement tool, helping brands generate longer headlines, after adding Gemini to Google Workspace &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/240222/p31#a240222p31)
+ - [Anker’s cheaper MagSafe power bank is just $31.49 today](https://www.androidauthority.com/anker-magsafe-power-bank-deal-3418203/)
+ - [Sony could give the PSVR 2 PC compatibility later this year](https://www.androidauthority.com/psvr2-pc-compatibility-3418195/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
