@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mess with the dog you get the](http://9gag.com/gag/agoM8ZK)
- - 😝 [Black pope, black vikings... Probably got the job through DEI](http://9gag.com/gag/aDYpV1w)
- - 👉 [Technically correct analytics](http://9gag.com/gag/aNwxBDv)<!-- MEMES:END -->
+ - 6️⃣ [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
+ - 😝 [Tricky](http://9gag.com/gag/aVbnmVw)
+ - 👉 [Cave Explorers: Oooooh look a hole the size of my head and I have no idea where it leads, let&#39;s climb down!](http://9gag.com/gag/a6qvn5q)<!-- MEMES:END -->
 
 --- 
 
