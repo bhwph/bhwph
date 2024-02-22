@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to integrate Gemini into its Performance Max ad placement tool, helping brands generate longer headlines, after adding Gemini to Google Workspace &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/240222/p31#a240222p31)
- - [Anker’s cheaper MagSafe power bank is just $31.49 today](https://www.androidauthority.com/anker-magsafe-power-bank-deal-3418203/)
- - [Sony could give the PSVR 2 PC compatibility later this year](https://www.androidauthority.com/psvr2-pc-compatibility-3418195/)<!-- TECH:END -->
+ - [Google’s ‘Woke’ Image Generator Shows the Limitations of AI](https://www.wired.com/story/google-gemini-woke-ai-image-generation/)
+ - [Tom Hiddleston narrates Apple TV+&#39;s latest nature series debuting soon](https://appleinsider.com/articles/24/02/22/tom-hiddleston-narrates-apple-tvs-latest-nature-series-debuting-soon?utm_medium=rss)
+ - [New OWC Atlas card reader moves data just as fast as Thunderbolt](https://appleinsider.com/articles/24/02/22/new-owc-atlas-card-reader-moves-data-just-as-fast-as-thunderbolt?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
