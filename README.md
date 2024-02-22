@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Fit 3 announced: A bigger, smarter fitness tracker](https://www.androidauthority.com/samsung-galaxy-fit-3-announced-3417901/)
- - [Amazon&#39;s $180 Echo Hub review: fast and interactive widgets, supports Zigbee, Thread, and Matter, but laggy touchscreen and some features need a subscription &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240222/p3#a240222p3)
- - [Lenovo beats estimates with Q3 revenue up 3% YoY to $15.72B after 5 quarters of decline and net income down 23% YoY to $337M; services revenue up 10% YoY to $2B &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240222/p2#a240222p2)<!-- TECH:END -->
+ - [Gboard is gaining the ability to copy text from the real world](https://www.androidauthority.com/gboard-scan-copy-text-real-world-3417910/)
+ - [OnePlus Watch 2 could have a clone with another name](https://www.androidauthority.com/oneplus-watch-2-oppo-watch-4x-3417939/)
+ - [Avatar: The Last Airbender is everything that’s disappointing about Netflix’s live-action cartoon shows](https://www.theverge.com/24071094/netflix-avatar-last-airbender-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
