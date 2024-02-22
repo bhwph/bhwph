@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deep Rock Galactic auto-battler nixes upsetting &#39;die like your mother did&#39; voice line so as to not &#39;remind some players of tragic events in their life&#39;](https://www.pcgamer.com/deep-rock-galactic-auto-battler-nixes-upsetting-die-like-your-mother-did-voice-line-so-as-to-not-remind-some-players-of-tragic-events-in-their-life)
- - [Helldivers 2 finally adds a much-requested AFK kick timer, stopping undemocratic glory hounds from twiddling their thumbs in perpetuity](https://www.pcgamer.com/helldivers-2-finally-adds-a-much-requested-afk-kick-timer-stopping-undemocratic-glory-hounds-from-twiddling-their-thumbs-in-perpetuity)
- - [Apple issues rice advice, saying it&#39;s not the way you should dry out your wet iPhone](https://www.pcgamer.com/apple-issues-rice-advice-saying-its-not-the-way-you-should-dry-out-your-wet-iphone)<!-- GAME:END -->
+ - [Bringing the Unique Style of DC’s Peacemaker to Mortal Kombat 1](https://news.xbox.com/en-us/2024/02/22/mortal-kombat-1-peacemaker/)
+ - [Final Fantasy 7 Rebirth swamps its exhilarating tribute in open-world bloat](https://www.polygon.com/reviews/24078968/final-fantasy-7-rebirth-review)
+ - [Final Fantasy VII Rebirth: The Kotaku Review](https://kotaku.com/final-fantasy-7-rebirth-review-ps5-1851276129)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
