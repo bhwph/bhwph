@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Unexpected](http://9gag.com/gag/a2KB24e)
- - 😝 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)
- - 👉 [I found this sword in my late grandfather&#39;s workshop, it&#39;s been through a fire that&#39;s why it looks like this, but I&#39;m planing on restoring it ! The thing is I never found out the meaning behind those symbols and it still puzzles me even today !](http://9gag.com/gag/aeQoV8B)<!-- MEMES:END -->
+ - 6️⃣ [The dog&#39;s surprised face when he thought he took his owner&#39;s arm](http://9gag.com/gag/aVbn2OP)
+ - 😝 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)
+ - 👉 [And so it starts](http://9gag.com/gag/a2KBbLE)<!-- MEMES:END -->
 
 --- 
 
