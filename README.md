@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Technically correct analytics](http://9gag.com/gag/aNwxBDv)
+ - 6️⃣ [What happens when parents stopped punishing their children](http://9gag.com/gag/aZDAjRQ)
  - 😝 [When a nice melody drops you into existential dredd](http://9gag.com/gag/a4oe23y)
  - 👉 [Thank you for your service](http://9gag.com/gag/a4oeAZy)<!-- MEMES:END -->
 
