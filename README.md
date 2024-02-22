@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stability AI releases a preview of Stable Diffusion 3.0, its next flagship text-to-image model, aiming to offer improved image quality and better performance &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240222/p24#a240222p24)
- - [Samsung launches Galaxy Book 4 series in US: AI-powered laptops with cross-device smarts](https://www.androidauthority.com/samsung-galaxy-book-4-series-us-3417943/)
- - [Apple still tops in contracting US smartphone market](https://appleinsider.com/articles/24/02/22/apple-still-tops-in-contracting-us-smartphone-market?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)
+ - [20 Best Portable Battery Chargers &lpar;2024&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+ - [Sources: Nigeria ordered telecoms to restrict access to the websites of some of the world&#39;s largest crypto exchanges, including Binance, Coinbase, and Kraken &lpar;Financial Times&rpar;](http://www.techmeme.com/240222/p26#a240222p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
