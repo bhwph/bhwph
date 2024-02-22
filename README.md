@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The RBI&#39;s crackdown on Paytm, Visa, and others seems driven by sketchy actors riding speed and scale, underpinned by issues of identity, tech, and competition &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/240222/p17#a240222p17)
- - [How much does Apple TV Plus cost around the world?](https://www.androidauthority.com/apple-tv-plus-cost-around-the-world-3417764/)
- - [Tech Job Interviews Are Out of Control](https://www.wired.com/story/tech-job-interviews-out-of-control/)<!-- TECH:END -->
+ - [Stability AI releases a preview of Stable Diffusion 3.0, its next flagship text-to-image model, aiming to offer improved image quality and better performance &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240222/p24#a240222p24)
+ - [Samsung launches Galaxy Book 4 series in US: AI-powered laptops with cross-device smarts](https://www.androidauthority.com/samsung-galaxy-book-4-series-us-3417943/)
+ - [Apple still tops in contracting US smartphone market](https://appleinsider.com/articles/24/02/22/apple-still-tops-in-contracting-us-smartphone-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
