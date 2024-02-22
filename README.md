@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you know you know](http://9gag.com/gag/a1Pz2A6)
- - 😝 [She must be really really goood](http://9gag.com/gag/aOxgDdE)
- - 👉 [Really makes you wonder](http://9gag.com/gag/aeQox2v)<!-- MEMES:END -->
+ - 6️⃣ [Checkmate](http://9gag.com/gag/abvPQZB)
+ - 😝 [Facts](http://9gag.com/gag/aZDAzb6)
+ - 👉 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)<!-- MEMES:END -->
 
 --- 
 
