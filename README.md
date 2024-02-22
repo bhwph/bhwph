@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Unexpected](http://9gag.com/gag/a2KB24e)
- - 😝 [She must be really really goood](http://9gag.com/gag/aOxgDdE)
- - 👉 [Tricky](http://9gag.com/gag/aVbnmVw)<!-- MEMES:END -->
+ - 6️⃣ [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
+ - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)
+ - 👉 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)<!-- MEMES:END -->
 
 --- 
 
