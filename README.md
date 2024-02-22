@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bringing the Unique Style of DC’s Peacemaker to Mortal Kombat 1](https://news.xbox.com/en-us/2024/02/22/mortal-kombat-1-peacemaker/)
- - [Final Fantasy 7 Rebirth swamps its exhilarating tribute in open-world bloat](https://www.polygon.com/reviews/24078968/final-fantasy-7-rebirth-review)
- - [Final Fantasy VII Rebirth: The Kotaku Review](https://kotaku.com/final-fantasy-7-rebirth-review-ps5-1851276129)<!-- GAME:END -->
+ - [Free Play Days – Ghost Recon Breakpoint, The Texas Chain Saw Massacre, and Catan](https://news.xbox.com/en-us/2024/02/22/free-play-days-ghost-recon-breakpoint-the-texas-chain-saw-massacre-and-catan/)
+ - [The live-action Sokka sexism issue is actually worse than you fear](https://www.polygon.com/24079505/netflix-avatar-airbender-sokka-suki-kyoshi-warriors-sexism-cast)
+ - [Hello Kitty Island Adventure’s Latest Update Is A Flower Lover’s Paradise](https://kotaku.com/hello-kitty-island-adventure-apple-arcade-update-1851275688)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
