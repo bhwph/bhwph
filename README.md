@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Xbox Game Pass Games To Play In 2024](https://kotaku.com/the-12-best-games-on-xbox-game-pass-1841477023)
- - [All the new video games launching in 2024](https://www.polygon.com/gaming/23844302/video-game-release-dates-2024-new-upcoming)
- - [15 Elden Ring: Shadow Of The Erdtree Trailer Details You Might Have Missed](https://kotaku.com/elden-ring-shadow-of-the-erdtree-dlc-trailer-details-1851275252)<!-- GAME:END -->
+ - [Cozy MMO Palia is threatening players with an increasingly enormous stuffed frog if they keep wishlisting it on Steam](https://www.pcgamer.com/cozy-mmo-palia-is-threatening-players-with-an-increasingly-enormous-stuffed-frog-if-they-keep-wishlisting-it-on-steam)
+ - [Helldivers 2 was built on an obscure Swedish engine discontinued in 2018: &#39;Our crazy engineers had to do everything with no support&#39;](https://www.pcgamer.com/helldivers-2-engine-bitsquid-autodesk-stingray)
+ - [Kotaku’s Essential Guide To Like A Dragon: Infinite Wealth](https://kotaku.com/yakuza-like-dragon-infinite-wealth-guides-jobs-dondoko-1851265546)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
