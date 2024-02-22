@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Orkes, which provides a microservices orchestration platform for developers, raised a $20M Series A led by Nexus, taking its total funding to $29.3M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240221/p49#a240221p49)
- - [ESR Qi2 MagSafe Car Mount review: a practical upgrade over clamp-based car phone holders](https://appleinsider.com/articles/24/02/22/esr-qi2-magsafe-car-mount-review-a-practical-upgrade-over-clamp-based-car-phone-holders?utm_medium=rss)
- - [Over 700 people, including AI experts and executives, sign an open letter calling for more regulation of deepfakes, such as by criminalizing deepfake child porn &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240221/p48#a240221p48)<!-- TECH:END -->
+ - [Samsung Galaxy Fit 3 announced: A bigger, smarter fitness tracker](https://www.androidauthority.com/samsung-galaxy-fit-3-announced-3417901/)
+ - [Amazon&#39;s $180 Echo Hub review: fast and interactive widgets, supports Zigbee, Thread, and Matter, but laggy touchscreen and some features need a subscription &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240222/p3#a240222p3)
+ - [Lenovo beats estimates with Q3 revenue up 3% YoY to $15.72B after 5 quarters of decline and net income down 23% YoY to $337M; services revenue up 10% YoY to $2B &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240222/p2#a240222p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
