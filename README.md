@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel announces new 14A node at IFS Direct Connect 2024, and its aggressive &#39;five nodes in four years&#39; roadmap remains on track](https://www.pcgamer.com/intel-announces-new-14a-node-at-ifs-direct-connect-2024-and-its-aggressive-five-nodes-in-four-years-roadmap-remains-on-track)
- - [14-karat Lego piece sells for more than $24,500 at Goodwill auction — again](https://www.polygon.com/24079522/lego-bionicle-gold-hau-piece-goodwill-auction)
- - [Cozy MMO Palia is threatening players with an increasingly enormous stuffed frog if they keep wishlisting it on Steam](https://www.pcgamer.com/cozy-mmo-palia-is-threatening-players-with-an-increasingly-enormous-stuffed-frog-if-they-keep-wishlisting-it-on-steam)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, February 22](https://www.pcgamer.com/wordle-answer-today-february-22-2024)
+ - [Shin Megami Tensei 5 breaks Switch exclusivity for an expanded PC release](https://www.pcgamer.com/shin-megami-tensei-5-breaks-switch-exclusivity-for-an-expanded-pc-release)
+ - [Intel announces new 14A node at IFS Direct Connect 2024, and its aggressive &#39;five nodes in four years&#39; roadmap remains on track](https://www.pcgamer.com/intel-announces-new-14a-node-at-ifs-direct-connect-2024-and-its-aggressive-five-nodes-in-four-years-roadmap-remains-on-track)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
