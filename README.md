@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini’s growing pains: Google explains what went wrong](https://www.androidauthority.com/google-apologizes-for-gemini-3418745/)
- - [The 31 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
- - [The 16 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
+ - [Sources: Jeff Bezos is investing $100M, Microsoft is investing $95M, and Nvidia $50M in humanoid robot startup Figure&#39;s ~$675M funding round at a ~$2B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/240223/p20#a240223p20)
+ - [19 Best Mattress and Bedsheet Deals Right Now](https://www.wired.com/story/presidents-day-mattress-deals-2024/)
+ - [A look at Marc Andreessen and a16z&#39;s political efforts, including starting the Keep Startups in America PAC and giving millions to a pro-crypto dark-money group &lpar;Theodore Schleifer/Puck&rpar;](http://www.techmeme.com/240223/p19#a240223p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
