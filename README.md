@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Such Intelligence](http://9gag.com/gag/aRE5OD2)
- - 😝 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
+ - 6️⃣ [40, actually](http://9gag.com/gag/ajVbyD8)
+ - 😝 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
  - 👉 [Tyrese](http://9gag.com/gag/a04AwWd)<!-- MEMES:END -->
 
 --- 
