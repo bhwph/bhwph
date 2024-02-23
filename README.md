@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit’s IPO Filing Is Missing Something: Cofounder Alexis Ohanian](https://www.wired.com/story/reddit-ipo-filing-s-1-cofounder-alexis-ohanian-huffman/)
- - [Odysseus achieves the first US Moon landing since 1972](https://www.theverge.com/2024/2/22/24080498/odysseus-lunar-lander-nasa-moon-intuitive-machines)
- - [Windows is getting its own Magic Eraser to AI-modify your photos](https://www.theverge.com/24080574/windows-photos-generative-erase-10-11-arm)<!-- TECH:END -->
+ - [Microsoft announces Generative Erase for the Photos app on Windows 10 and higher, which will allow users to remove objects and people from images using AI &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240222/p44#a240222p44)
+ - [Samsung says the Galaxy Book4 series, with Intel Core Ultra chips and AMOLED touchscreens, will be available in the US, the UK, and other markets on February 26 &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240222/p43#a240222p43)
+ - [AT&amp;T Says Cause of Outage Wasn&#39;t a Cyber Attack     - CNET](https://www.cnet.com/tech/mobile/at-t-says-cause-of-outage-wasnt-a-cyber-attack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
