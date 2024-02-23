@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Alan Cumming plays a character on Traitors, but season 2’s surprises snapped him back to reality](https://www.polygon.com/24080511/traitors-season-2-surprises-cast-alan-cumming-host)
  - [Last Epoch is the fourth breakout game of 2024](https://www.pcgamer.com/last-epoch-is-the-fourth-breakout-game-of-2024)
- - [How big is Elden Ring: Shadow of the Erdtree&#39;s new map, and how will we reach it?](https://www.pcgamer.com/shadow-of-the-erdtree-map-size-location-how-to-access)
- - [Elden Ring director says the expansion&#39;s new weapons are &#39;a main selling point,&#39; including double-bladed shields, reverse-grip ninja swords, and acrobatic martial arts](https://www.pcgamer.com/elden-ring-director-says-the-expansions-new-weapons-are-a-main-selling-point-including-double-bladed-shields-reverse-grip-ninja-swords-and-acrobatic-martial-arts)<!-- GAME:END -->
+ - [How big is Elden Ring: Shadow of the Erdtree&#39;s new map, and how will we reach it?](https://www.pcgamer.com/shadow-of-the-erdtree-map-size-location-how-to-access)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
