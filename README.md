@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows gets its own Pixel-style AI Magic Eraser](https://www.androidauthority.com/windows-generative-erase-photos-app-3418458/)
- - [Interviews and emails show technical interviews have become more punishing for engineers after mass layoffs, requiring days of work on unpaid assignments &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/240223/p4#a240223p4)
- - [Drive to Survive season 6 now available on Netflix](https://www.androidauthority.com/drive-to-survive-season-6-release-date-3409895/)<!-- TECH:END -->
+ - [Apple kickstarted 5G and now 2 billion smartphones have it](https://appleinsider.com/articles/24/02/23/apple-kickstarted-5g-and-now-2-billion-smartphones-have-it?utm_medium=rss)
+ - [I saved $100s building my own NAS home server](https://www.androidauthority.com/cheap-diy-nas-server-3348392/)
+ - [What Would Happen if Every American Got a Heat Pump](https://www.wired.com/story/what-would-happen-if-every-american-got-a-heat-pump/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
