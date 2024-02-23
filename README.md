@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tenet is back in theaters — and it’s secretly a vibes-only Christopher Nolan masterpiece](https://www.polygon.com/24080431/tenet-christopher-nolan-back-in-theaters-robert-pattinson)
- - [Think great SSD deals are a thing of the past? We&#39;ve spotted this speedy Nextorage 1TB drive for $75](https://www.pcgamer.com/think-great-ssd-deals-are-a-thing-of-the-past-weve-spotted-this-speedy-nextorage-1tb-drive-for-dollar75)
- - [Upscaling and frame generation are the final nails in the coffin for overclocking, and I&#39;m absolutely okay with that](https://www.pcgamer.com/upscaling-and-frame-generation-are-the-final-nails-in-the-coffin-for-overclocking-and-im-absolutely-okay-with-that)<!-- GAME:END -->
+ - [‘I Love Fortnite’: Lady Gaga Appears To Be Playing The Battle Royale](https://kotaku.com/lady-gaga-fortnite-skin-concert-play-kesha-1851281528)
+ - [Helldivers 2 Raises Player Cap To 700,000 Ahead Of Busy Weekend](https://kotaku.com/helldivers-2-raises-server-cap-1851281563)
+ - [Do you want to click on playing cards in a Jane Austen-themed setting? Of course you do](https://www.polygon.com/24080883/regency-solitaire-2-jane-austen-card-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
