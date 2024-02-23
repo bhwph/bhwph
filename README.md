@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering&#39;s Fallout crossover understands they&#39;re RPGs about reading lore on terminals and hoarding junk until you&#39;re encumbered](https://www.pcgamer.com/magic-the-gatherings-fallout-crossover-understands-theyre-rpgs-about-reading-lore-on-terminals-and-hoarding-junk-until-youre-encumbered)
- - [Triple Triad Finally Has A Successor In FF7 Rebirth’s Queen’s Blood](https://kotaku.com/final-fantasy-7-rebirth-queens-blood-rocks-1851279830)
- - [Palworld has achieved more players in 2 months than Elden Ring and Hogwarts Legacy managed in a year](https://www.pcgamer.com/palworld-has-achieved-more-players-in-2-months-than-elden-ring-and-hogwarts-legacy-managed-in-a-year)<!-- GAME:END -->
+ - [Last Epoch is the fourth breakout game of 2024](https://www.pcgamer.com/last-epoch-is-the-fourth-breakout-game-of-2024)
+ - [How big is Elden Ring: Shadow of the Erdtree&#39;s new map, and how will we reach it?](https://www.pcgamer.com/shadow-of-the-erdtree-map-size-location-how-to-access)
+ - [Elden Ring director says the expansion&#39;s new weapons are &#39;a main selling point,&#39; including double-bladed shields, reverse-grip ninja swords, and acrobatic martial arts](https://www.pcgamer.com/elden-ring-director-says-the-expansions-new-weapons-are-a-main-selling-point-including-double-bladed-shields-reverse-grip-ninja-swords-and-acrobatic-martial-arts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
