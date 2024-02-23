@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘I Love Fortnite’: Lady Gaga Appears To Be Playing The Battle Royale](https://kotaku.com/lady-gaga-fortnite-skin-concert-play-kesha-1851281528)
- - [Helldivers 2 Raises Player Cap To 700,000 Ahead Of Busy Weekend](https://kotaku.com/helldivers-2-raises-server-cap-1851281563)
- - [Do you want to click on playing cards in a Jane Austen-themed setting? Of course you do](https://www.polygon.com/24080883/regency-solitaire-2-jane-austen-card-game)<!-- GAME:END -->
+ - [Arcane Clash: The Legendary Mages Set to Debut In Dragonheir&#39;s Multiverse](https://www.pcgamer.com/arcane-clash-the-legendary-mages-set-to-debut-in-dragonheirs-multiverse)
+ - [Google&#39;s long-teased new sign-in page is absolutely the least exciting upgrade ever](https://www.pcgamer.com/googles-long-teased-new-sign-in-page-is-absolutely-the-least-exciting-upgrade-ever)
+ - [An anonymous modder has brought one of the best mobile games, Infinity Blade, to PC 5 years after it left the App Store](https://www.pcgamer.com/an-anonymous-modder-has-brought-one-of-the-best-mobile-games-infinity-blade-to-pc-5-years-after-it-left-the-app-store)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
