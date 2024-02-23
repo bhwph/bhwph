@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel’s CEO Says AI Is the Key to the Company’s Comeback](https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/)
- - [S-1: Sam Altman has an 8.7% stake in Reddit, making him the third-largest shareholder, behind Advance Magazine Publishers, with 30.1%, and Tencent, with 11% &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240222/p37#a240222p37)
- - [What is Wi-Fi calling, and how does it work?](https://www.androidauthority.com/what-is-wi-fi-calling-3418180/)<!-- TECH:END -->
+ - [Reddit’s IPO Filing Is Missing Something: Cofounder Alexis Ohanian](https://www.wired.com/story/reddit-ipo-filing-s-1-cofounder-alexis-ohanian-huffman/)
+ - [Odysseus achieves the first US Moon landing since 1972](https://www.theverge.com/2024/2/22/24080498/odysseus-lunar-lander-nasa-moon-intuitive-machines)
+ - [Windows is getting its own Magic Eraser to AI-modify your photos](https://www.theverge.com/24080574/windows-photos-generative-erase-10-11-arm)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
