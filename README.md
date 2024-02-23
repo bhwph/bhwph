@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Try, try again!](http://9gag.com/gag/aVbn2Gw)
- - 😝 [Whamen](http://9gag.com/gag/a04AM3Z)
- - 👉 [Good question](http://9gag.com/gag/a6qvGV9)<!-- MEMES:END -->
+ - 6️⃣ [Never too late to turn it around \ud83d\udcaf](http://9gag.com/gag/a3Z92gN)
+ - 😝 [Facts](http://9gag.com/gag/aZDAzb6)
+ - 👉 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)<!-- MEMES:END -->
 
 --- 
 
