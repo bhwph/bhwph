@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never too late to turn it around \ud83d\udcaf](http://9gag.com/gag/a3Z92gN)
- - 😝 [Facts](http://9gag.com/gag/aZDAzb6)
- - 👉 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)<!-- MEMES:END -->
+ - 6️⃣ [TaskDone](http://9gag.com/gag/a1PzEmP)
+ - 😝 [A high school student that `changed` his gender, injured three girls from basketball team and match is suspended.](http://9gag.com/gag/aPgNeDQ)
+ - 👉 [Such Intelligence](http://9gag.com/gag/aRE5OD2)<!-- MEMES:END -->
 
 --- 
 
