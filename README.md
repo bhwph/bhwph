@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Really makes you wonder](http://9gag.com/gag/aeQox2v)
- - 😝 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
- - 👉 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)<!-- MEMES:END -->
+ - 6️⃣ [Let your bf see this](http://9gag.com/gag/arm6xAX)
+ - 😝 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
+ - 👉 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)<!-- MEMES:END -->
 
 --- 
 
