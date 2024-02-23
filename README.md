@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Helldivers 2 maximum player cap has been increased, but Arrowhead still expects queues](https://www.pcgamer.com/helldivers-2-maximum-player-cap-has-been-increased-but-arrowhead-still-expects-queues)
  - [Today&#39;s Wordle answer for Friday, February 23](https://www.pcgamer.com/wordle-answer-today-february-23-2024)
- - [Alan Cumming plays a character on Traitors, but season 2’s surprises snapped him back to reality](https://www.polygon.com/24080511/traitors-season-2-surprises-cast-alan-cumming-host)
- - [Last Epoch is the fourth breakout game of 2024](https://www.pcgamer.com/last-epoch-is-the-fourth-breakout-game-of-2024)<!-- GAME:END -->
+ - [Alan Cumming plays a character on Traitors, but season 2’s surprises snapped him back to reality](https://www.polygon.com/24080511/traitors-season-2-surprises-cast-alan-cumming-host)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
