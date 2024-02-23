@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vindication for Dark Souls 2 defenders as Hidetaka Miyazaki says many of its ideas &#39;carried the rest of the series&#39;](https://www.pcgamer.com/vindication-for-dark-souls-2-defenders-as-hidetaka-miyazaki-says-many-of-its-ideas-carried-the-rest-of-the-series)
- - [Helldivers 2&#39;s CEO deletes sleep-deprived tweet forged &#39;at 2 am&#39; implying the login woes are over—clarifies &#39;we don&#39;t yet know if we can support everyone this weekend&#39;](https://www.pcgamer.com/helldivers-2s-ceo-deletes-sleep-deprived-tweet-forged-at-2-am-implying-the-login-woes-are-overclarifies-we-dont-yet-know-if-we-can-support-everyone-this-weekend)
- - [Researchers have developed a Very Big Disc™ that can store up to 200 terabytes of data and may represent a return to optical media for long term storage](https://www.pcgamer.com/researchers-have-developed-a-very-big-disctm-that-can-store-up-to-200-terabytes-of-data-and-may-represent-a-return-to-optical-media-for-long-term-storage)<!-- GAME:END -->
+ - [Tenet is back in theaters — and it’s secretly a vibes-only Christopher Nolan masterpiece](https://www.polygon.com/24080431/tenet-christopher-nolan-back-in-theaters-robert-pattinson)
+ - [Think great SSD deals are a thing of the past? We&#39;ve spotted this speedy Nextorage 1TB drive for $75](https://www.pcgamer.com/think-great-ssd-deals-are-a-thing-of-the-past-weve-spotted-this-speedy-nextorage-1tb-drive-for-dollar75)
+ - [Upscaling and frame generation are the final nails in the coffin for overclocking, and I&#39;m absolutely okay with that](https://www.pcgamer.com/upscaling-and-frame-generation-are-the-final-nails-in-the-coffin-for-overclocking-and-im-absolutely-okay-with-that)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
