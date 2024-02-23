@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple kickstarted 5G and now 2 billion smartphones have it](https://appleinsider.com/articles/24/02/23/apple-kickstarted-5g-and-now-2-billion-smartphones-have-it?utm_medium=rss)
- - [I saved $100s building my own NAS home server](https://www.androidauthority.com/cheap-diy-nas-server-3348392/)
- - [What Would Happen if Every American Got a Heat Pump](https://www.wired.com/story/what-would-happen-if-every-american-got-a-heat-pump/)<!-- TECH:END -->
+ - [Instagram and Facebook knowingly platform parents who sexually exploit children for profit, say reports](https://www.theverge.com/2024/2/23/24080856/instagram-facebook-meta-platforming-parents-sexually-exploiting-children)
+ - [Quick Share on Chrome OS might finally be as fast as it is on phones](https://www.androidauthority.com/quick-share-chrome-os-wifi-direct-3418395/)
+ - [Why TikTok Is So Obsessed With a Mysteriously Pregnant Stingray](https://www.wired.com/story/charlotte-pregnant-virgin-stingray-jesus/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
