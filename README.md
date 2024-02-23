@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Booking.com says it is facing a provisional &amp;euro;486M fine from Spain&#39;s antitrust watchdog, which is accusing the online travel group of anti-competitive practices &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240223/p11#a240223p11)
- - [The 14 Games We&#39;re Still Most Looking Forward to In 2024](https://www.wired.com/gallery/the-games-were-most-looking-forward-to-in-2024/)
- - [Nvidia’s role in the AI wave has made it a $2 trillion company](https://www.theverge.com/2024/2/23/24080975/nvidia-ai-chips-h100-h200-market-capitalization)<!-- TECH:END -->
+ - [Apple Sports, Apple Vision Pro, and a Smart Ring on the AppleInsider Podcast](https://appleinsider.com/articles/24/02/23/apple-sports-apple-vision-pro-and-a-smart-ring-on-the-appleinsiderpodcast?utm_medium=rss)
+ - [Vision Pro owners concerned after multiple reports of mysterious cracks](https://www.androidauthority.com/vision-pro-cracks-3418638/)
+ - [Florida passes one of the US&#39; most restrictive bills on minors&#39; social media use, despite First Amendment concerns; Governor Ron DeSantis has to sign the bill &lpar;Brendan Farrington/Associated Press&rpar;](http://www.techmeme.com/240223/p13#a240223p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
