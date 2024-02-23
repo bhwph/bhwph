@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces Generative Erase for the Photos app on Windows 10 and higher, which will allow users to remove objects and people from images using AI &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240222/p44#a240222p44)
- - [Samsung says the Galaxy Book4 series, with Intel Core Ultra chips and AMOLED touchscreens, will be available in the US, the UK, and other markets on February 26 &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240222/p43#a240222p43)
- - [AT&amp;T Says Cause of Outage Wasn&#39;t a Cyber Attack     - CNET](https://www.cnet.com/tech/mobile/at-t-says-cause-of-outage-wasnt-a-cyber-attack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Internal Apple AI &#39;Ask&#39; tool being tested by employees](https://appleinsider.com/articles/24/02/23/internal-apple-ai-ask-tool-being-tested-by-employees?utm_medium=rss)
+ - [A survey of 2,745 US adult TikTok users: the top 25% post 98% of all public videos, the typical user rarely posts, 40% say For You is interesting, and more &lpar;Samuel Bestvater/Pew Research Center&rpar;](http://www.techmeme.com/240222/p45#a240222p45)
+ - [Quitting Subscriptions to Netflix, Uber Eats and More? Try These Free Options Instead     - CNET](https://www.cnet.com/tech/services-and-software/quitting-subscriptions-netflix-uber-eats-more-try-these-free-options-instead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
