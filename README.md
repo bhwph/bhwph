@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let your bf see this](http://9gag.com/gag/arm6xAX)
- - 😝 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
- - 👉 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)<!-- MEMES:END -->
+ - 6️⃣ [The world is healing](http://9gag.com/gag/a8qPzAp)
+ - 😝 [The seks](http://9gag.com/gag/aVbnBby)
+ - 👉 [40, actually](http://9gag.com/gag/ajVbyD8)<!-- MEMES:END -->
 
 --- 
 
