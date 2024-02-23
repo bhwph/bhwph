@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Sports, Apple Vision Pro, and a Smart Ring on the AppleInsider Podcast](https://appleinsider.com/articles/24/02/23/apple-sports-apple-vision-pro-and-a-smart-ring-on-the-appleinsiderpodcast?utm_medium=rss)
- - [Vision Pro owners concerned after multiple reports of mysterious cracks](https://www.androidauthority.com/vision-pro-cracks-3418638/)
- - [Florida passes one of the US&#39; most restrictive bills on minors&#39; social media use, despite First Amendment concerns; Governor Ron DeSantis has to sign the bill &lpar;Brendan Farrington/Associated Press&rpar;](http://www.techmeme.com/240223/p13#a240223p13)<!-- TECH:END -->
+ - [Gemini’s growing pains: Google explains what went wrong](https://www.androidauthority.com/google-apologizes-for-gemini-3418745/)
+ - [The 31 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
+ - [The 16 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
