@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Discomfortingly soothing!](http://9gag.com/gag/aeQo2Rm)
- - 😝 [Amazon now selling adult legos](http://9gag.com/gag/aA0WOKp)
- - 👉 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)<!-- MEMES:END -->
+ - 6️⃣ [Tricky](http://9gag.com/gag/aVbnmVw)
+ - 😝 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
+ - 👉 [If you know you know](http://9gag.com/gag/a1Pz2A6)<!-- MEMES:END -->
 
 --- 
 
