@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge says FTX can sell its Anthropic shares after FTX reached a compromise with its customers opposing the sale; FTX invested $500M in Anthropic in 2021 &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/240223/p3#a240223p3)
- - [Google Tweaked Search to Comply With EU Rules. Yelp Says It Makes Results Even More Unfair](https://www.wired.com/story/google-search-eu-yelp-unfair/)
- - [Google’s deal with Reddit could hopefully make for better searches and AI](https://www.androidauthority.com/google-reddit-ai-search-deal-3417337/)<!-- TECH:END -->
+ - [Windows gets its own Pixel-style AI Magic Eraser](https://www.androidauthority.com/windows-generative-erase-photos-app-3418458/)
+ - [Interviews and emails show technical interviews have become more punishing for engineers after mass layoffs, requiring days of work on unpaid assignments &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/240223/p4#a240223p4)
+ - [Drive to Survive season 6 now available on Netflix](https://www.androidauthority.com/drive-to-survive-season-6-release-date-3409895/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
