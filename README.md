@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tricky](http://9gag.com/gag/aVbnmVw)
- - 😝 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
- - 👉 [If you know you know](http://9gag.com/gag/a1Pz2A6)<!-- MEMES:END -->
+ - 6️⃣ [Try, try again!](http://9gag.com/gag/aVbn2Gw)
+ - 😝 [Whamen](http://9gag.com/gag/a04AM3Z)
+ - 👉 [Good question](http://9gag.com/gag/a6qvGV9)<!-- MEMES:END -->
 
 --- 
 
