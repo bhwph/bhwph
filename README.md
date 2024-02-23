@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Two years after release Miyazaki says Elden Ring&#39;s world still has &#39;a small element that I feel has not yet been discovered&#39;](https://www.pcgamer.com/two-years-after-release-miyazaki-says-elden-rings-world-still-has-a-small-element-that-i-feel-has-not-yet-been-discovered)
- - [Spaceman gave Adam Sandler a new skill: ‘I never cried in front of a tennis ball before’](https://www.polygon.com/24080545/adam-sandler-spaceman-interview-talking-to-a-tennis-ball-netflix)
- - [It’s Time For Game Devs To Kill The Killmonger Swoop](https://kotaku.com/prince-of-persia-lost-crown-tekken-8-killmonger-hair-1851282520)<!-- GAME:END -->
+ - [A Game of Thrones movie trilogy was blocked by HBO, say showrunners](https://www.polygon.com/24081363/game-thrones-movies-hbo-vertical-shooting-phones-benioff-weiss-zaslav)
+ - [Finally, a farm sim that will let me date hot demons and also collect capybaras](https://www.pcgamer.com/finally-a-farm-sim-that-will-let-me-date-hot-demon-people-and-also-collect-capybaras)
+ - [The Halo TV Series Just Killed Off An Iconic Character](https://kotaku.com/halo-tv-series-season-2-episode-4-review-paramount-plus-1851282949)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
