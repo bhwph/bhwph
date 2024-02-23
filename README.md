@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram and Facebook knowingly platform parents who sexually exploit children for profit, say reports](https://www.theverge.com/2024/2/23/24080856/instagram-facebook-meta-platforming-parents-sexually-exploiting-children)
- - [Quick Share on Chrome OS might finally be as fast as it is on phones](https://www.androidauthority.com/quick-share-chrome-os-wifi-direct-3418395/)
- - [Why TikTok Is So Obsessed With a Mysteriously Pregnant Stingray](https://www.wired.com/story/charlotte-pregnant-virgin-stingray-jesus/)<!-- TECH:END -->
+ - [Booking.com says it is facing a provisional &amp;euro;486M fine from Spain&#39;s antitrust watchdog, which is accusing the online travel group of anti-competitive practices &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240223/p11#a240223p11)
+ - [The 14 Games We&#39;re Still Most Looking Forward to In 2024](https://www.wired.com/gallery/the-games-were-most-looking-forward-to-in-2024/)
+ - [Nvidia’s role in the AI wave has made it a $2 trillion company](https://www.theverge.com/2024/2/23/24080975/nvidia-ai-chips-h100-h200-market-capitalization)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
