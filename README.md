@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [TaskDone](http://9gag.com/gag/a1PzEmP)
- - 😝 [A high school student that `changed` his gender, injured three girls from basketball team and match is suspended.](http://9gag.com/gag/aPgNeDQ)
+ - 😝 [We&#39;re not going to make it, as a civilization I mean, right?](http://9gag.com/gag/a4oe5e6)
  - 👉 [Such Intelligence](http://9gag.com/gag/aRE5OD2)<!-- MEMES:END -->
 
 --- 
