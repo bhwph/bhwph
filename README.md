@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 maximum player cap has been increased, but Arrowhead still expects queues](https://www.pcgamer.com/helldivers-2-maximum-player-cap-has-been-increased-but-arrowhead-still-expects-queues)
- - [Today&#39;s Wordle answer for Friday, February 23](https://www.pcgamer.com/wordle-answer-today-february-23-2024)
- - [Alan Cumming plays a character on Traitors, but season 2’s surprises snapped him back to reality](https://www.polygon.com/24080511/traitors-season-2-surprises-cast-alan-cumming-host)<!-- GAME:END -->
+ - [Vindication for Dark Souls 2 defenders as Hidetaka Miyazaki says many of its ideas &#39;carried the rest of the series&#39;](https://www.pcgamer.com/vindication-for-dark-souls-2-defenders-as-hidetaka-miyazaki-says-many-of-its-ideas-carried-the-rest-of-the-series)
+ - [Helldivers 2&#39;s CEO deletes sleep-deprived tweet forged &#39;at 2 am&#39; implying the login woes are over—clarifies &#39;we don&#39;t yet know if we can support everyone this weekend&#39;](https://www.pcgamer.com/helldivers-2s-ceo-deletes-sleep-deprived-tweet-forged-at-2-am-implying-the-login-woes-are-overclarifies-we-dont-yet-know-if-we-can-support-everyone-this-weekend)
+ - [Researchers have developed a Very Big Disc™ that can store up to 200 terabytes of data and may represent a return to optical media for long term storage](https://www.pcgamer.com/researchers-have-developed-a-very-big-disctm-that-can-store-up-to-200-terabytes-of-data-and-may-represent-a-return-to-optical-media-for-long-term-storage)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
