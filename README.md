@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arcane Clash: The Legendary Mages Set to Debut In Dragonheir&#39;s Multiverse](https://www.pcgamer.com/arcane-clash-the-legendary-mages-set-to-debut-in-dragonheirs-multiverse)
- - [Google&#39;s long-teased new sign-in page is absolutely the least exciting upgrade ever](https://www.pcgamer.com/googles-long-teased-new-sign-in-page-is-absolutely-the-least-exciting-upgrade-ever)
- - [An anonymous modder has brought one of the best mobile games, Infinity Blade, to PC 5 years after it left the App Store](https://www.pcgamer.com/an-anonymous-modder-has-brought-one-of-the-best-mobile-games-infinity-blade-to-pc-5-years-after-it-left-the-app-store)<!-- GAME:END -->
+ - [Two years after release Miyazaki says Elden Ring&#39;s world still has &#39;a small element that I feel has not yet been discovered&#39;](https://www.pcgamer.com/two-years-after-release-miyazaki-says-elden-rings-world-still-has-a-small-element-that-i-feel-has-not-yet-been-discovered)
+ - [Spaceman gave Adam Sandler a new skill: ‘I never cried in front of a tennis ball before’](https://www.polygon.com/24080545/adam-sandler-spaceman-interview-talking-to-a-tennis-ball-netflix)
+ - [It’s Time For Game Devs To Kill The Killmonger Swoop](https://kotaku.com/prince-of-persia-lost-crown-tekken-8-killmonger-hair-1851282520)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
