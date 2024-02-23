@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The world is healing](http://9gag.com/gag/a8qPzAp)
- - 😝 [The seks](http://9gag.com/gag/aVbnBby)
- - 👉 [40, actually](http://9gag.com/gag/ajVbyD8)<!-- MEMES:END -->
+ - 6️⃣ [Such Intelligence](http://9gag.com/gag/aRE5OD2)
+ - 😝 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
+ - 👉 [Tyrese](http://9gag.com/gag/a04AwWd)<!-- MEMES:END -->
 
 --- 
 
