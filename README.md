@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rainbow Six Siege director says making a sequel after 9 years would be a mistake: &#39;I&#39;m not going to name names, but you see games go through sequels and just completely drop the ball&#39;](https://www.pcgamer.com/rainbow-six-siege-sequel-alex-karpazis)
- - [Here’s every Dune game you should know about](https://www.polygon.com/what-to-play/24080352/best-games-dune-pc-board-tabletop-list)
- - [I’ll never get over Kindergarten Cop’s influence on Silent Hill](https://www.polygon.com/gaming/24081234/silent-hill-kindergarten-cop)<!-- GAME:END -->
+ - [We put our humanity on the line analyzing every scrap of Deep Lore in Elden Ring: Shadow of the Erdtree&#39;s trailer](https://www.pcgamer.com/we-put-our-humanity-on-the-line-analyzing-every-scrap-of-deep-lore-in-elden-ring-shadow-of-the-erdtrees-trailer)
+ - [Lulu Wang wanted the mystery at the end of Prime Video’s Expats](https://www.polygon.com/24081438/lulu-wang-interview-amazon-prime-expats)
+ - [Rainbow Six Siege director says making a sequel after 9 years would be a mistake: &#39;I&#39;m not going to name names, but you see games go through sequels and just completely drop the ball&#39;](https://www.pcgamer.com/rainbow-six-siege-sequel-alex-karpazis)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
