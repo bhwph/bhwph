@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Whamen](http://9gag.com/gag/a04AM3Z)
- - 😝 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
- - 👉 [When your boss shows up](http://9gag.com/gag/aNwxjm0)<!-- MEMES:END -->
+ - 6️⃣ [Leave your cursed Images with Me please, you don&#39;t need them anymore](http://9gag.com/gag/aRE5R87)
+ - 😝 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
+ - 👉 [For context, 200k\u20ac is worth 12 years and 6 month of minimum wage in France.](http://9gag.com/gag/a6qvp9b)<!-- MEMES:END -->
 
 --- 
 
