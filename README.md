@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi Redmi Note 13 Pro+ Review: Attractive and Affordable](https://www.wired.com/review/xiaomi-redmi-note-13-pro-plus/)
- - [The future of phones depends on the future of apps](https://www.theverge.com/2024/2/24/24078970/mwc-2024-smartphones-apps-ai-what-to-expect)
- - [MWC 2024: all the phones, wearables, and gadgets announced in Barcelona](https://www.theverge.com/24078219/mwc-barcelona-2024-news-rumors-products-announcements)<!-- TECH:END -->
+ - [8 Best Deals: Streaming Devices, Smart TVs, and Projectors](https://www.wired.com/story/8-sweet-deals-on-streaming-devices-smart-tvs-and-projectors-nl/)
+ - [8 Best Deals: Streaming Devices, Smart TVs, and Projectors](https://www.wired.com/story/weekend-deals-feb-24-2024/)
+ - [Joe Biden Joined TikTok Because He Had To](https://www.wired.com/story/joe-biden-tiktok-campaign-comments/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
