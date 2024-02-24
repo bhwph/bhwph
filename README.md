@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Japan, again](http://9gag.com/gag/a1Pzqj2)
- - 😝 [Women](http://9gag.com/gag/aA0Wv8d)
- - 👉 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)<!-- MEMES:END -->
+ - 6️⃣ [The fastest fingers in the east](http://9gag.com/gag/amAjd32)
+ - 😝 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)
+ - 👉 [Whamen](http://9gag.com/gag/a04AM3Z)<!-- MEMES:END -->
 
 --- 
 
