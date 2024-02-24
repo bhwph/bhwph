@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [40, actually](http://9gag.com/gag/ajVbyD8)
- - 😝 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
- - 👉 [Tyrese](http://9gag.com/gag/a04AwWd)<!-- MEMES:END -->
+ - 6️⃣ [Once in a lifetime moment](http://9gag.com/gag/amAjn64)
+ - 😝 [What kind of kid have you rised.](http://9gag.com/gag/anzpV00)
+ - 👉 [No title there.](http://9gag.com/gag/adPZbgM)<!-- MEMES:END -->
 
 --- 
 
