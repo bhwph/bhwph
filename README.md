@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This mecha passion project refreshes the genre with technical innovations and a whole lotta&#39; sparks](https://www.pcgamer.com/this-mecha-passion-project-refreshes-the-genre-with-technical-innovations-and-a-whole-lotta-sparks)
  - [Today&#39;s Wordle answer for Saturday, February 24](https://www.pcgamer.com/wordle-answer-today-february-24-2024)
- - [Pokémon Go Tour Sinnoh event, habitat times, and Special Research guide](https://www.polygon.com/pokemon-go-guide/2024/2/23/24081530/go-tour-sinnoh-habitat-times-special-research)
- - [Get The Talos Principle, The Witness, Superliminal, and other &#39;mind-bending masterpieces&#39; for just $10](https://www.pcgamer.com/get-the-talos-principle-the-witness-superliminal-and-other-mind-bending-masterpieces-for-just-dollar10)<!-- GAME:END -->
+ - [Pokémon Go Tour Sinnoh event, habitat times, and Special Research guide](https://www.polygon.com/pokemon-go-guide/2024/2/23/24081530/go-tour-sinnoh-habitat-times-special-research)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
