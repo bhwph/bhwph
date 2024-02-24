@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The fastest fingers in the east](http://9gag.com/gag/amAjd32)
- - 😝 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)
+ - 6️⃣ [Happened for real](http://9gag.com/gag/aKE0LM1)
+ - 😝 [The fastest fingers in the east](http://9gag.com/gag/amAjd32)
  - 👉 [Whamen](http://9gag.com/gag/a04AM3Z)<!-- MEMES:END -->
 
 --- 
