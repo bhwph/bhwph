@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Leave your cursed Images with Me please, you don&#39;t need them anymore](http://9gag.com/gag/aRE5R87)
- - 😝 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
- - 👉 [For context, 200k\u20ac is worth 12 years and 6 month of minimum wage in France.](http://9gag.com/gag/a6qvp9b)<!-- MEMES:END -->
+ - 6️⃣ [Women](http://9gag.com/gag/aA0Wv8d)
+ - 😝 [Tyrese](http://9gag.com/gag/a04AwWd)
+ - 👉 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)<!-- MEMES:END -->
 
 --- 
 
