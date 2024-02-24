@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Jeff Bezos is investing $100M, Microsoft is investing $95M, and Nvidia $50M in humanoid robot startup Figure&#39;s ~$675M funding round at a ~$2B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/240223/p20#a240223p20)
- - [19 Best Mattress and Bedsheet Deals Right Now](https://www.wired.com/story/presidents-day-mattress-deals-2024/)
- - [A look at Marc Andreessen and a16z&#39;s political efforts, including starting the Keep Startups in America PAC and giving millions to a pro-crypto dark-money group &lpar;Theodore Schleifer/Puck&rpar;](http://www.techmeme.com/240223/p19#a240223p19)<!-- TECH:END -->
+ - [Ring stops selling its Ring Car Cam dash cam](https://www.theverge.com/2024/2/23/24081686/ring-stops-selling-ring-car-cam-dash-cam)
+ - [When does a journalist become a hacker?](https://www.theverge.com/2024/2/23/24081656/tim-burke-journalism-hacking-cfaa)
+ - [Automattic CEO Matt Mullenweg sparred with a trans Tumblr user over an account ban, revealing her side blog names, which are private, sparking community outcry &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240223/p22#a240223p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
