@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I’ll never get over Kindergarten Cop’s influence on Silent Hill](https://www.polygon.com/gaming/24081234/silent-hill-kindergarten-cop)
- - [Kotaku’s Essential Guide To Helldivers 2](https://kotaku.com/helldivers-2-guides-tips-chargers-striders-settings-1851265570)
- - [Shyamalan’s Avatar movie threw a giant wrench in firebending and it was right](https://www.polygon.com/24080439/shyamalan-avatar-the-last-airbender-one-good-thing)<!-- GAME:END -->
+ - [Rainbow Six Siege director says making a sequel after 9 years would be a mistake: &#39;I&#39;m not going to name names, but you see games go through sequels and just completely drop the ball&#39;](https://www.pcgamer.com/rainbow-six-siege-sequel-alex-karpazis)
+ - [Here’s every Dune game you should know about](https://www.polygon.com/what-to-play/24080352/best-games-dune-pc-board-tabletop-list)
+ - [I’ll never get over Kindergarten Cop’s influence on Silent Hill](https://www.polygon.com/gaming/24081234/silent-hill-kindergarten-cop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
