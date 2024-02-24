@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 is cheaper on Steam this weekend](https://www.polygon.com/24081021/best-gaming-deals-helldivers-2-humble-bundle-doom-nintendo-switch-deal-sale)
- - [The best movies leaving streaming at the end of February](https://www.polygon.com/what-to-watch/2024/2/24/24079351/best-movies-netflix-amazon-hulu-max-leaving-february-2024)
- - [This mecha passion project refreshes the genre with technical innovations and a whole lotta&#39; sparks](https://www.pcgamer.com/this-mecha-passion-project-refreshes-the-genre-with-technical-innovations-and-a-whole-lotta-sparks)<!-- GAME:END -->
+ - [I’ll never get over Kindergarten Cop’s influence on Silent Hill](https://www.polygon.com/gaming/24081234/silent-hill-kindergarten-cop)
+ - [Kotaku’s Essential Guide To Helldivers 2](https://kotaku.com/helldivers-2-guides-tips-chargers-striders-settings-1851265570)
+ - [Shyamalan’s Avatar movie threw a giant wrench in firebending and it was right](https://www.polygon.com/24080439/shyamalan-avatar-the-last-airbender-one-good-thing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
