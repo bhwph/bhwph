@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women](http://9gag.com/gag/aA0Wv8d)
+ - 6️⃣ [Happened for real](http://9gag.com/gag/aKE0LM1)
  - 😝 [Tyrese](http://9gag.com/gag/a04AwWd)
- - 👉 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)<!-- MEMES:END -->
+ - 👉 [Whamen](http://9gag.com/gag/a04AM3Z)<!-- MEMES:END -->
 
 --- 
 
