@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many redditors say they are not enthused about Reddit&#39;s IPO and expect CEO Steve Huffman to run the site into the ground while trying to make it profitable &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240224/p9#a240224p9)
- - [In Reddit&#39;s S-1, Steve Huffman offers a look at the site&#39;s beginnings without naming cofounder Alexis Ohanian, reflecting their schism during the BLM protests &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240224/p8#a240224p8)
- - [7 Best Theragun-Alternative Massage Guns &lpar;2024&rpar;: Portable, Affordable, and Heat Therapy](https://www.wired.com/gallery/best-massage-guns/)<!-- TECH:END -->
+ - [How tensions between past and present leaders of Sequoia, which had a reputation for quiet competence, have spilled into the open with the Klarna boardroom spat &lpar;Financial Times&rpar;](http://www.techmeme.com/240224/p10#a240224p10)
+ - [Google co-founder Sergey Brin sued over a plane crash that killed two pilots last year](https://www.theverge.com/2024/2/24/24082072/sergey-brin-google-2023-plane-crash-lawsuit)
+ - [ESR Stylus Pen review: A worthy Apple Pencil alternative at a fraction of the price](https://appleinsider.com/articles/24/02/24/esr-stylus-pen-review-a-worthy-apple-pencil-alternative-at-a-fraction-of-the-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
