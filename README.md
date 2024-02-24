@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happened for real](http://9gag.com/gag/aKE0LM1)
- - 😝 [Tyrese](http://9gag.com/gag/a04AwWd)
- - 👉 [Whamen](http://9gag.com/gag/a04AM3Z)<!-- MEMES:END -->
+ - 6️⃣ [When you do plank, plank does you.](http://9gag.com/gag/aGE374w)
+ - 😝 [Chicken or egg?](http://9gag.com/gag/a9qQVy6)
+ - 👉 [Old dad joke](http://9gag.com/gag/aKE0NgZ)<!-- MEMES:END -->
 
 --- 
 
