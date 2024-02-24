@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring stops selling the Ring Car Cam, its first car dashboard camera, blaming &quot;ongoing delays&quot;, after launching the product in January 2023 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240223/p24#a240223p24)
- - [The US DOE says it will suspend its mandatory survey of energy use by crypto miners, following a lawsuit by bitcoin miner Riot Platforms and an industry group &lpar;Reuters&rpar;](http://www.techmeme.com/240223/p23#a240223p23)
- - [iPhone 14 Deals: Shop Now for Free Phone with Trade-In, New Line and More     - CNET](https://www.cnet.com/deals/best-iphone-14-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Three years after Spotify&#39;s original announcement that it would launch a higher-quality audio subscription, the company has yet to roll out the feature &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240223/p25#a240223p25)
+ - [Samsung Galaxy Buds 2 Pro Deals: Save Up to $80 on These Top-Rated Earbuds     - CNET](https://www.cnet.com/deals/best-galaxy-buds-2-pro-deals/#ftag=CAD590a51e)
+ - [How to Watch &#39;The Walking Dead: The Ones Who Live&#39; From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-walking-dead-the-ones-who-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
