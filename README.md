@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We put our humanity on the line analyzing every scrap of Deep Lore in Elden Ring: Shadow of the Erdtree&#39;s trailer](https://www.pcgamer.com/we-put-our-humanity-on-the-line-analyzing-every-scrap-of-deep-lore-in-elden-ring-shadow-of-the-erdtrees-trailer)
- - [Lulu Wang wanted the mystery at the end of Prime Video’s Expats](https://www.polygon.com/24081438/lulu-wang-interview-amazon-prime-expats)
- - [Rainbow Six Siege director says making a sequel after 9 years would be a mistake: &#39;I&#39;m not going to name names, but you see games go through sequels and just completely drop the ball&#39;](https://www.pcgamer.com/rainbow-six-siege-sequel-alex-karpazis)<!-- GAME:END -->
+ - [Etsy is already overrun with bootleg Helldivers 2 merch](https://www.pcgamer.com/etsy-is-already-overrun-with-bootleg-helldivers-2-merch)
+ - [In true D&amp;D fashion, you can bypass Baldur&#39;s Gate 3&#39;s most notorious dungeon with a single, simple spell](https://www.pcgamer.com/in-true-dandd-fashion-you-can-bypass-baldurs-gate-3s-most-notorious-dungeon-with-a-single-simple-spell)
+ - [10 animated shows to watch after you’ve finished your Avatar: The Last Airbender rewatch](https://www.polygon.com/what-to-watch/24079552/shows-like-atla-korra-voltron-dragon-prince)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
