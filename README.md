@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Victrola’s Sonos-ready turntable is down to an unbeatable price](https://www.theverge.com/2024/2/24/24081009/victrola-stream-onyx-turntable-logitech-g903-lightspeed-mouse-apple-pencil-deal-sale)
- - [Limited coupons left to save $300 on the new Narwal Freo X Ultra](https://www.androidauthority.com/narwal-freo-x-ultra-deal-3418760/)
- - [A Mysterious Leak Exposed Chinese Hacking Secrets](https://www.wired.com/story/isoon-china-hack-for-hire-leak/)<!-- TECH:END -->
+ - [7 Best Theragun-Alternative Massage Guns &lpar;2024&rpar;: Portable, Affordable, and Heat Therapy](https://www.wired.com/gallery/best-massage-guns/)
+ - [How to control Apple Vision Pro by making sounds](https://appleinsider.com/articles/24/02/24/how-to-control-apple-vision-pro-by-making-sounds?utm_medium=rss)
+ - [FTX agrees to sell FTX Europe back to its founders for $32.7M, drops a lawsuit seeking back $323M it had spent to acquire the startup originally called DA AG &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/240224/p7#a240224p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
