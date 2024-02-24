@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Game of Thrones movie trilogy was blocked by HBO, say showrunners](https://www.polygon.com/24081363/game-thrones-movies-hbo-vertical-shooting-phones-benioff-weiss-zaslav)
- - [Finally, a farm sim that will let me date hot demons and also collect capybaras](https://www.pcgamer.com/finally-a-farm-sim-that-will-let-me-date-hot-demon-people-and-also-collect-capybaras)
- - [The Halo TV Series Just Killed Off An Iconic Character](https://kotaku.com/halo-tv-series-season-2-episode-4-review-paramount-plus-1851282949)<!-- GAME:END -->
+ - [Get The Talos Principle, The Witness, Superliminal, and other &#39;mind-bending masterpieces&#39; for just $10](https://www.pcgamer.com/get-the-talos-principle-the-witness-superliminal-and-other-mind-bending-masterpieces-for-just-dollar10)
+ - [Mean Girls, The Zone of Interest, Netflix’s Mea Culpa, and every new movie to watch this weekend](https://www.polygon.com/2024/2/23/24075729/new-movies-watch-mean-girls-netflix-mea-culpa-the-zone-of-interest)
+ - [Kotaku’s Essential Guide To Persona 3 Reload](https://kotaku.com/kotaku-s-essential-guide-to-persona-3-reload-1851265562)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
