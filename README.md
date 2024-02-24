@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This mecha passion project refreshes the genre with technical innovations and a whole lotta&#39; sparks](https://www.pcgamer.com/this-mecha-passion-project-refreshes-the-genre-with-technical-innovations-and-a-whole-lotta-sparks)
- - [Today&#39;s Wordle answer for Saturday, February 24](https://www.pcgamer.com/wordle-answer-today-february-24-2024)
- - [Pokémon Go Tour Sinnoh event, habitat times, and Special Research guide](https://www.polygon.com/pokemon-go-guide/2024/2/23/24081530/go-tour-sinnoh-habitat-times-special-research)<!-- GAME:END -->
+ - [Helldivers 2 is cheaper on Steam this weekend](https://www.polygon.com/24081021/best-gaming-deals-helldivers-2-humble-bundle-doom-nintendo-switch-deal-sale)
+ - [The best movies leaving streaming at the end of February](https://www.polygon.com/what-to-watch/2024/2/24/24079351/best-movies-netflix-amazon-hulu-max-leaving-february-2024)
+ - [This mecha passion project refreshes the genre with technical innovations and a whole lotta&#39; sparks](https://www.pcgamer.com/this-mecha-passion-project-refreshes-the-genre-with-technical-innovations-and-a-whole-lotta-sparks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
