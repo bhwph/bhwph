@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Deals: Streaming Devices, Smart TVs, and Projectors](https://www.wired.com/story/8-sweet-deals-on-streaming-devices-smart-tvs-and-projectors-nl/)
- - [8 Best Deals: Streaming Devices, Smart TVs, and Projectors](https://www.wired.com/story/weekend-deals-feb-24-2024/)
- - [Joe Biden Joined TikTok Because He Had To](https://www.wired.com/story/joe-biden-tiktok-campaign-comments/)<!-- TECH:END -->
+ - [Victrola’s Sonos-ready turntable is down to an unbeatable price](https://www.theverge.com/2024/2/24/24081009/victrola-stream-onyx-turntable-logitech-g903-lightspeed-mouse-apple-pencil-deal-sale)
+ - [Limited coupons left to save $300 on the new Narwal Freo X Ultra](https://www.androidauthority.com/narwal-freo-x-ultra-deal-3418760/)
+ - [A Mysterious Leak Exposed Chinese Hacking Secrets](https://www.wired.com/story/isoon-china-hack-for-hire-leak/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
