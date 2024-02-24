@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Or it has boats on his legs](http://9gag.com/gag/aL1YdZv)
- - 😝 [Tyrese](http://9gag.com/gag/a04AwWd)
- - 👉 [Such Intelligence](http://9gag.com/gag/aRE5OD2)<!-- MEMES:END -->
+ - 6️⃣ [Japan, again](http://9gag.com/gag/a1Pzqj2)
+ - 😝 [Women](http://9gag.com/gag/aA0Wv8d)
+ - 👉 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)<!-- MEMES:END -->
 
 --- 
 
