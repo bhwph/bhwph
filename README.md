@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Three years after Spotify&#39;s original announcement that it would launch a higher-quality audio subscription, the company has yet to roll out the feature &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240223/p25#a240223p25)
- - [Samsung Galaxy Buds 2 Pro Deals: Save Up to $80 on These Top-Rated Earbuds     - CNET](https://www.cnet.com/deals/best-galaxy-buds-2-pro-deals/#ftag=CAD590a51e)
- - [How to Watch &#39;The Walking Dead: The Ones Who Live&#39; From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-walking-dead-the-ones-who-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TSMC inaugurates its first plant in Kumamoto, Japan, paving the way to make smartphone and auto-related chips for Sony and Renesas by the end of 2024 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240224/p4#a240224p4)
+ - [The US FTC claims in an administrative complaint that H&amp;R Block steered customers to higher-cost online tax filing products and made them difficult to downgrade &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240224/p3#a240224p3)
+ - [In a first, the UK ICO orders the leisure center operator Serco to stop using facial recognition and fingerprint scanning to monitor attendance and pay workers &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/240224/p2#a240224p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
