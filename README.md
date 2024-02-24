@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Once in a lifetime moment](http://9gag.com/gag/amAjn64)
- - 😝 [What kind of kid have you rised.](http://9gag.com/gag/anzpV00)
- - 👉 [No title there.](http://9gag.com/gag/adPZbgM)<!-- MEMES:END -->
+ - 6️⃣ [Whamen](http://9gag.com/gag/a04AM3Z)
+ - 😝 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
+ - 👉 [When your boss shows up](http://9gag.com/gag/aNwxjm0)<!-- MEMES:END -->
 
 --- 
 
