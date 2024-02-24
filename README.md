@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Such Intelligence](http://9gag.com/gag/aRE5OD2)
- - 😝 [Thou hath turnt me on fair witch\u2026](http://9gag.com/gag/abvPdX8)
- - 👉 [Wilson\u2019s airless basketball prototype](http://9gag.com/gag/aNwxjB0)<!-- MEMES:END -->
+ - 6️⃣ [Or it has boats on his legs](http://9gag.com/gag/aL1YdZv)
+ - 😝 [Tyrese](http://9gag.com/gag/a04AwWd)
+ - 👉 [Such Intelligence](http://9gag.com/gag/aRE5OD2)<!-- MEMES:END -->
 
 --- 
 
