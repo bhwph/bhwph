@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Etsy is already overrun with bootleg Helldivers 2 merch](https://www.pcgamer.com/etsy-is-already-overrun-with-bootleg-helldivers-2-merch)
- - [In true D&amp;D fashion, you can bypass Baldur&#39;s Gate 3&#39;s most notorious dungeon with a single, simple spell](https://www.pcgamer.com/in-true-dandd-fashion-you-can-bypass-baldurs-gate-3s-most-notorious-dungeon-with-a-single-simple-spell)
- - [10 animated shows to watch after you’ve finished your Avatar: The Last Airbender rewatch](https://www.polygon.com/what-to-watch/24079552/shows-like-atla-korra-voltron-dragon-prince)<!-- GAME:END -->
+ - [Games Workshop has no plans to bring Cathay and Kislev armies to Warhammer: The Old World &#39;for the foreseeable future&#39;](https://www.pcgamer.com/games-workshop-has-no-plans-to-bring-cathay-and-kislev-armies-to-warhammer-the-old-world-for-the-foreseeable-future)
+ - [Yet another great-looking Final Fantasy game has come out before we even have a PC release date for the last big Final Fantasy game](https://www.pcgamer.com/yet-another-great-looking-final-fantasy-game-has-come-out-before-we-even-have-a-pc-release-date-for-the-last-big-final-fantasy-game)
+ - [Etsy is already overrun with bootleg Helldivers 2 merch](https://www.pcgamer.com/etsy-is-already-overrun-with-bootleg-helldivers-2-merch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
