@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HMD is making a Barbie flip phone and a customizable smartphone](https://www.androidauthority.com/hmd-barbie-flip-phone-3419063/)
- - [Omdia estimates that the bill of materials for Apple Vision Pro is $1,542, with both of the 1.25-inch Micro OLED displays from Sony costing about $228 each &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240225/p4#a240225p4)
- - [Hydrogen Cars Were the Key to the Future. For Some Owners, That Future Hasn&#39;t Arrived Yet](https://www.wired.com/story/hydrogen-fuel-cell-electric-vehicles-face-problems-in-california/)<!-- TECH:END -->
+ - [Apple smart ring, glasses, camera-equipped AirPods rumored in wearables push](https://appleinsider.com/articles/24/02/25/apple-smart-ring-glasses-camera-equipped-airpods-rumored-in-wearables-push?utm_medium=rss)
+ - [HomePod with big touchscreen likely isn&#39;t coming in 2024](https://appleinsider.com/articles/24/02/25/homepod-with-big-touchscreen-likely-isnt-coming-in-2024?utm_medium=rss)
+ - [HONOR Magic 6 Pro hands-on: A zoom master with a bold design](https://www.androidauthority.com/honor-magic-6-pro-hands-on-3419050/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
