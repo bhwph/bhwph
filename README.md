@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple smart ring, glasses, camera-equipped AirPods rumored in wearables push](https://appleinsider.com/articles/24/02/25/apple-smart-ring-glasses-camera-equipped-airpods-rumored-in-wearables-push?utm_medium=rss)
- - [HomePod with big touchscreen likely isn&#39;t coming in 2024](https://appleinsider.com/articles/24/02/25/homepod-with-big-touchscreen-likely-isnt-coming-in-2024?utm_medium=rss)
- - [HONOR Magic 6 Pro hands-on: A zoom master with a bold design](https://www.androidauthority.com/honor-magic-6-pro-hands-on-3419050/)<!-- TECH:END -->
+ - [Honor announces global availability of Magic 6 Pro with a 6.8&quot; 120Hz OLED display, Snapdragon 8 Gen 3, and 5,600mAh battery, set to retail for &amp;euro;1,299 in Europe &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240225/p6#a240225p6)
+ - [Xiaomi 14 Ultra first look: Video monster](https://www.androidauthority.com/xiaomi-14-ultra-first-look-video-monster-3419184/)
+ - [A new flagship gaming phone is on the way &lpar;but should you get your hopes up?&rpar;](https://www.androidauthority.com/infinix-coolmax-gaming-phone-3419084/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
