@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Do You Live in One of the 15 States Sending Child Tax Credits in 2024? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/do-you-live-in-one-of-the-15-states-sending-child-tax-credits-in-2024-find-out-here/#ftag=CAD590a51e)
  - [A preview of the NetChoice cases to be argued at SCOTUS on February 26, about the constitutionality of Texas and Florida laws regulating social media content &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240225/p3#a240225p3)
- - [Research: the all-time, total amount invested in crypto and blockchain-related companies crosses $90B, with ~$1.3B invested across 230+ deals so far in 2024 &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/240225/p2#a240225p2)
- - [What to expect at MWC 2024: smartphone launches from Xiaomi and others, OnePlus Watch 2, Brain.ai&#39;s &quot;app-less phone&quot; and other experimental concepts, and more &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240225/p1#a240225p1)<!-- TECH:END -->
+ - [Research: the all-time, total amount invested in crypto and blockchain-related companies crosses $90B, with ~$1.3B invested across 230+ deals so far in 2024 &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/240225/p2#a240225p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
