@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 of the best platforming games that don’t star Mario](https://www.polygon.com/what-to-play/24080484/best-platforming-games-play-no-mario-nintendo-pc-playstation-xbox)
- - [FF7 Rebirth Demo, Helldivers 2, And More Of The Week&#39;s Essential Tips](https://kotaku.com/kotaku-game-tips-guides-ff7-rebirth-demo-helldivers-2-1851282053)
- - [Avatar: The Last Airbender took anime seriously when few shows did](https://www.polygon.com/24080558/avatar-last-airbender-anime-influence-atla)<!-- GAME:END -->
+ - [Dune’s music is a mélange that folds time and space](https://www.polygon.com/24080509/dune-music-soundtrack-ost-movies-games-hans-zimmer)
+ - [Everybody loves the goofy glowing worm guy coming in Elden Ring&#39;s DLC, but we&#39;re also terrified something bad will happen to him](https://www.pcgamer.com/everybody-loves-the-goofy-glowing-worm-guy-coming-in-elden-rings-dlc-but-were-also-terrified-something-bad-will-happen-to-him)
+ - [10 of the best platforming games that don’t star Mario](https://www.polygon.com/what-to-play/24080484/best-platforming-games-play-no-mario-nintendo-pc-playstation-xbox)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
