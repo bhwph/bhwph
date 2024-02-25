@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A.I.](http://9gag.com/gag/agoMbEq)
- - 😝 [Thou hath turnt me on fair witch\u2026](http://9gag.com/gag/abvPdX8)
- - 👉 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)<!-- MEMES:END -->
+ - 6️⃣ [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)
+ - 😝 [He did warn her](http://9gag.com/gag/ay2gmnp)
+ - 👉 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)<!-- MEMES:END -->
 
 --- 
 
