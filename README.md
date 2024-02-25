@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Killers of the Flower Moon&#39; snags one SAG Award for Apple TV+](https://appleinsider.com/articles/24/02/25/killers-of-the-flower-moon-snags-one-sag-award-for-apple-tv?utm_medium=rss)
- - [Xiaomi launches Xiaomi 14 Ultra with a 6.73&quot; LTPO 120Hz display, Snapdragon 8 Gen 3, and 50MP camera with a 1-inch-type Sony LYT-900 sensor, starting at &amp;euro;1,499 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240225/p7#a240225p7)
- - [Dog Essentials List: 13 Necessities for New Dog Owners     - CNET](https://www.cnet.com/home/kitchen-and-household/dog-essentials-list-13-necessities-for-new-dog-owners/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
+ - [Samsung Galaxy Ring&#39;s AI, Smart Home Integrations to Debut at MWC     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-rings-ai-smart-home-integrations-to-debut-at-mwc/#ftag=CAD590a51e)
+ - [Why the Cost of Getting Solar Panels Is So Unpredictable     - CNET](https://www.cnet.com/home/energy-and-utilities/why-the-cost-of-getting-solar-panels-is-so-unpredictable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
