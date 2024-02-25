@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [10 of the best platforming games that don’t star Mario](https://www.polygon.com/what-to-play/24080484/best-platforming-games-play-no-mario-nintendo-pc-playstation-xbox)
  - [FF7 Rebirth Demo, Helldivers 2, And More Of The Week&#39;s Essential Tips](https://kotaku.com/kotaku-game-tips-guides-ff7-rebirth-demo-helldivers-2-1851282053)
- - [Avatar: The Last Airbender took anime seriously when few shows did](https://www.polygon.com/24080558/avatar-last-airbender-anime-influence-atla)
- - [10 Bloody Good Horror Movies Streaming on Netflix Right Now](https://kotaku.com/netflix-best-horror-movies-1851282873)<!-- GAME:END -->
+ - [Avatar: The Last Airbender took anime seriously when few shows did](https://www.polygon.com/24080558/avatar-last-airbender-anime-influence-atla)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
