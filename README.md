@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It was his worst nightmare](http://9gag.com/gag/arm6Ddp)
- - 😝 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)
- - 👉 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)<!-- MEMES:END -->
+ - 6️⃣ [A.I.](http://9gag.com/gag/agoMbEq)
+ - 😝 [Thou hath turnt me on fair witch\u2026](http://9gag.com/gag/abvPdX8)
+ - 👉 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)<!-- MEMES:END -->
 
 --- 
 
