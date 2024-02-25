@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Final Fantasy games to play before Rebirth](https://www.polygon.com/what-to-play/24081091/final-fantasy-7-games-to-play-before-rebirth)
  - [Today&#39;s Wordle answer for Sunday, February 25](https://www.pcgamer.com/wordle-answer-today-february-25-2024)
- - [Skyrim mod lets you match the pace of NPCs so you can more easily follow them around](https://www.pcgamer.com/skyrim-mod-lets-you-match-the-pace-of-npcs-so-you-can-more-easily-follow-them-around)
- - [Games Workshop has no plans to bring Cathay and Kislev armies to Warhammer: The Old World &#39;for the foreseeable future&#39;](https://www.pcgamer.com/games-workshop-has-no-plans-to-bring-cathay-and-kislev-armies-to-warhammer-the-old-world-for-the-foreseeable-future)<!-- GAME:END -->
+ - [Skyrim mod lets you match the pace of NPCs so you can more easily follow them around](https://www.pcgamer.com/skyrim-mod-lets-you-match-the-pace-of-npcs-so-you-can-more-easily-follow-them-around)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
