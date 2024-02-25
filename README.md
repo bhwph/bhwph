@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Japan, again](http://9gag.com/gag/a1Pzqj2)
- - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
- - 👉 [Tyrese](http://9gag.com/gag/a04AwWd)<!-- MEMES:END -->
+ - 6️⃣ [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)
+ - 😝 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)
+ - 👉 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)<!-- MEMES:END -->
 
 --- 
 
