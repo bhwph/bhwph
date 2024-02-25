@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
- - 😝 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
- - 👉 [Motion Capture Walk](http://9gag.com/gag/aWGKPAx)<!-- MEMES:END -->
+ - 6️⃣ [Motion Capture Walk](http://9gag.com/gag/aWGKPAx)
+ - 😝 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)
+ - 👉 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)<!-- MEMES:END -->
 
 --- 
 
