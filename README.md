@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
- - 😝 [NASA&#39;s Huygens probe descending on the surface of the Titan, a moon of Saturn. It went offline shortly after touching down](http://9gag.com/gag/aL1YOVM)
- - 👉 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)<!-- MEMES:END -->
+ - 6️⃣ [How would you have reacted if you were him?](http://9gag.com/gag/az2No8N)
+ - 😝 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)
+ - 👉 [I too put on my sexiest outfit to tell a guy we can&#39;t be together...](http://9gag.com/gag/ap9yz79)<!-- MEMES:END -->
 
 --- 
 
