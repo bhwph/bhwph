@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Games Workshop has no plans to bring Cathay and Kislev armies to Warhammer: The Old World &#39;for the foreseeable future&#39;](https://www.pcgamer.com/games-workshop-has-no-plans-to-bring-cathay-and-kislev-armies-to-warhammer-the-old-world-for-the-foreseeable-future)
- - [Yet another great-looking Final Fantasy game has come out before we even have a PC release date for the last big Final Fantasy game](https://www.pcgamer.com/yet-another-great-looking-final-fantasy-game-has-come-out-before-we-even-have-a-pc-release-date-for-the-last-big-final-fantasy-game)
- - [Etsy is already overrun with bootleg Helldivers 2 merch](https://www.pcgamer.com/etsy-is-already-overrun-with-bootleg-helldivers-2-merch)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, February 25](https://www.pcgamer.com/wordle-answer-today-february-25-2024)
+ - [Skyrim mod lets you match the pace of NPCs so you can more easily follow them around](https://www.pcgamer.com/skyrim-mod-lets-you-match-the-pace-of-npcs-so-you-can-more-easily-follow-them-around)
+ - [Games Workshop has no plans to bring Cathay and Kislev armies to Warhammer: The Old World &#39;for the foreseeable future&#39;](https://www.pcgamer.com/games-workshop-has-no-plans-to-bring-cathay-and-kislev-armies-to-warhammer-the-old-world-for-the-foreseeable-future)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
