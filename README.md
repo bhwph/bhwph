@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Japan, again](http://9gag.com/gag/a1Pzqj2)
- - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
- - 👉 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)<!-- MEMES:END -->
+ - 6️⃣ [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)
+ - 😝 [Happened for real](http://9gag.com/gag/aKE0LM1)
+ - 👉 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)<!-- MEMES:END -->
 
 --- 
 
