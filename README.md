@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)
- - 😝 [He did warn her](http://9gag.com/gag/ay2gmnp)
+ - 6️⃣ [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
+ - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
  - 👉 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)<!-- MEMES:END -->
 
 --- 
