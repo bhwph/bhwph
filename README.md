@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Final Fantasy games to play before Rebirth](https://www.polygon.com/what-to-play/24081091/final-fantasy-7-games-to-play-before-rebirth)
- - [Today&#39;s Wordle answer for Sunday, February 25](https://www.pcgamer.com/wordle-answer-today-february-25-2024)
- - [Skyrim mod lets you match the pace of NPCs so you can more easily follow them around](https://www.pcgamer.com/skyrim-mod-lets-you-match-the-pace-of-npcs-so-you-can-more-easily-follow-them-around)<!-- GAME:END -->
+ - [FF7 Rebirth Demo, Helldivers 2, And More Of The Week&#39;s Essential Tips](https://kotaku.com/kotaku-game-tips-guides-ff7-rebirth-demo-helldivers-2-1851282053)
+ - [Avatar: The Last Airbender took anime seriously when few shows did](https://www.polygon.com/24080558/avatar-last-airbender-anime-influence-atla)
+ - [10 Bloody Good Horror Movies Streaming on Netflix Right Now](https://kotaku.com/netflix-best-horror-movies-1851282873)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
