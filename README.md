@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)
- - 😝 [Happened for real](http://9gag.com/gag/aKE0LM1)
- - 👉 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)<!-- MEMES:END -->
+ - 6️⃣ [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
+ - 😝 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
+ - 👉 [Motion Capture Walk](http://9gag.com/gag/aWGKPAx)<!-- MEMES:END -->
 
 --- 
 
