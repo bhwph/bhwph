@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
- - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
- - 👉 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)<!-- MEMES:END -->
+ - 6️⃣ [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
+ - 😝 [Painting fail](http://9gag.com/gag/abvPDGE)
+ - 👉 [Male* enters girls bathroom, dumps water on 3 girls heads, throws one in to a towel dispenser, gets his a*s kicked... pepsi a day later.](http://9gag.com/gag/a3Z9pym)<!-- MEMES:END -->
 
 --- 
 
