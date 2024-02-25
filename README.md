@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Motion Capture Walk](http://9gag.com/gag/aWGKPAx)
- - 😝 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)
- - 👉 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)<!-- MEMES:END -->
+ - 6️⃣ [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
+ - 😝 [NASA&#39;s Huygens probe descending on the surface of the Titan, a moon of Saturn. It went offline shortly after touching down](http://9gag.com/gag/aL1YOVM)
+ - 👉 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)<!-- MEMES:END -->
 
 --- 
 
