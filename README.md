@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Vending Machine Error Revealed Secret Face Recognition Tech](https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/)
- - [Reddit&#39;s S-1 shows how dependent the site is on the unpaid labor of 60K active daily moderators and the whims of its users and subreddits like r/WallStreetBets &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240224/p11#a240224p11)
- - [Save $50 on the Pixel Watch 2     - CNET](https://www.cnet.com/deals/save-50-on-the-pixel-watch-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The latest ‘Woj bomb’ was just a scam NFT tweet from a hacked account](https://www.theverge.com/2024/2/24/24082520/adrian-wojnarowski-twitter-hack-nft-nba-top-shot)
+ - [Filing: Google said Microsoft offered to sell Bing to Apple in 2018, but Eddy Cue said Microsoft had search quality issues and was investing less than Google &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240224/p13#a240224p13)
+ - [7 Best Space Heaters to Warm Your Home in 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
