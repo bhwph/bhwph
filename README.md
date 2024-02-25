@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
- - [Samsung Galaxy Ring&#39;s AI, Smart Home Integrations to Debut at MWC     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-rings-ai-smart-home-integrations-to-debut-at-mwc/#ftag=CAD590a51e)
- - [Why the Cost of Getting Solar Panels Is So Unpredictable     - CNET](https://www.cnet.com/home/energy-and-utilities/why-the-cost-of-getting-solar-panels-is-so-unpredictable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snag Anker&#39;s Magnetic Charging Station for Just $90     - CNET](https://www.cnet.com/deals/snag-ankers-magnetic-charging-station-for-just-90/#ftag=CAD590a51e)
+ - [How to use Spotlight&#39;s metadata file utilities in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-spotlights-metadata-file-utilities-in-macos?utm_medium=rss)
+ - [Ford stops shipping 2024 F-150 Lightnings for ‘quality checks’](https://www.theverge.com/2024/2/25/24082998/ford-f-150-lightning-2024-stop-ship-quality-check)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
