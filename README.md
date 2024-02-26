@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One in the world](http://9gag.com/gag/aA0WqQR)
- - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 👉 [Expensive restaurants be like](http://9gag.com/gag/aA0W5Rp)<!-- MEMES:END -->
+ - 6️⃣ [Evolution of Rock genre](http://9gag.com/gag/aXnDz6P)
+ - 😝 [But there&#39;s no difference lol](http://9gag.com/gag/a8qPNx3)
+ - 👉 [R*PE jokes are fire tho](http://9gag.com/gag/aXnD13z)<!-- MEMES:END -->
 
 --- 
 
