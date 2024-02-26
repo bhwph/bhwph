@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How the Star Wars: Dark Forces Remaster devs Nightdive Studios enhanced the classic FPS](https://blog.playstation.com/2024/02/26/how-the-star-wars-dark-forces-remaster-devs-nightdive-studios-enhanced-the-classic-fps/)
- - [Racebending challenged Last Airbender whitewashing and woke Hollywood up](https://www.polygon.com/24079373/avatar-last-airbender-live-action-racebending)
- - [Did Yoko Taro Just Tease Nier 3? Not Really](https://kotaku.com/nier-automata-sequel-yoko-taro-tease-1851286442)<!-- GAME:END -->
+ - [MTG’s Bloomburrow upstaged Assassin’s Creed at MagicCon Chicago](https://www.polygon.com/24083672/mtgs-assassins-creed-bloomburrow-modern-horizons-fallout-science-previews-magiccon-chicago)
+ - [Everything We Know About The Nintendo Switch 2](https://kotaku.com/switch-2-nintendo-console-tech-release-date-1851200648)
+ - [Uniqlo’s Metal Gear Solid T-shirts are back in stock online](https://www.polygon.com/deals/2023/12/14/23980047/uniqlo-metal-gear-solid-snake-collection-t-shirts-konami)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
