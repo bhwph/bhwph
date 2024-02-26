@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget your phone: Wear OS now gives directions and access to more passes](https://www.androidauthority.com/wear-os-google-maps-directions-and-passes-3418781/)
- - [Why leave your chats? Gemini is coming to Google Messages](https://www.androidauthority.com/google-messages-gemini-support-3418498/)
- - [Google’s MWC surprise: New features announced for Android and beyond](https://www.androidauthority.com/google-mwc-2024-new-features-android-wear-os-3419073/)<!-- TECH:END -->
+ - [Qualcomm unveils AI Hub, a new library of 75+ pre-optimized AI models, X80 5G modem, and FastConnect 7900, a chip that integrates Wi-Fi 7, Bluetooth, and UWB &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240226/p3#a240226p3)
+ - [Samsung unveils Galaxy Ring at MWC 2024; the device is centered around health and wellness, comes in three colors, and will be available later this year &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/240226/p2#a240226p2)
+ - [A Discarded Plan to Build Underwater Cities Will Give Coral Reefs New Life](https://www.wired.com/story/coral-restoration-tom-dixon-furniture-subhair-khan-open-ended-design/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
