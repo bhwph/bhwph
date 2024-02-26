@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What will Switch 2’s gimmick be?](https://www.polygon.com/nintendo/24083427/switch-2-gimmicks-features-screens-camera)
- - [The Best Stratagems To Get Early In Helldivers 2](https://kotaku.com/helldivers-2-stratagems-best-stalwart-recoilless-1851287568)
- - [Stardew Valley&#39;s long-awaited 1.6 update is coming to PC in March](https://www.pcgamer.com/stardew-valley-1-6-pc-release-date)<!-- GAME:END -->
+ - [Helldivers 2’s Hunters: What They Are And How To Kill ‘Em](https://kotaku.com/helldivers-2-hunters-where-planet-kill-location-1851288031)
+ - [Where And When To Watch The Big Pokémon Day Presentation](https://kotaku.com/pokemon-presents-stream-where-watch-when-time-1851287950)
+ - [Elden Ring director says Shadow of the Erdtree will have a Sekiro-like leveling system so you can&#39;t just steamroll it](https://www.pcgamer.com/elden-ring-director-says-shadow-of-the-erdtree-will-have-a-sekiro-like-leveling-system-so-you-cant-just-steamroll-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
