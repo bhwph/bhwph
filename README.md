@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A quarter century after its release, Age of Empires 2 is still getting DLC](https://www.pcgamer.com/a-quarter-century-after-its-release-age-of-empires-2-is-still-getting-dlc)
- - [The best video games of 2024, so far](https://www.polygon.com/what-to-play/24078256/best-video-games-2024)
- - [Best ultrawide monitor for gaming in 2024: the expansive panels I recommend for PC gamers](https://www.pcgamer.com/best-ultrawide-monitor-for-gaming)<!-- GAME:END -->
+ - [How the Star Wars: Dark Forces Remaster devs Nightdive Studios enhanced the classic FPS](https://blog.playstation.com/2024/02/26/how-the-star-wars-dark-forces-remaster-devs-nightdive-studios-enhanced-the-classic-fps/)
+ - [Racebending challenged Last Airbender whitewashing and woke Hollywood up](https://www.polygon.com/24079373/avatar-last-airbender-live-action-racebending)
+ - [Did Yoko Taro Just Tease Nier 3? Not Really](https://kotaku.com/nier-automata-sequel-yoko-taro-tease-1851286442)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
