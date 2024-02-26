@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Avail, a modular blockchain project spun out of Polygon in 2023 to streamline the rollup experience, raised a $27M seed co-led by Founders Fund and Dragonfly &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240226/p11#a240226p11)
- - [Vertex Is the Last Good Place Online](https://www.wired.com/story/last-good-place-vertex/)
- - [AMD Radeon RX 7900 GRE review: $549 competition for Nvidia](https://www.theverge.com/24083386/amd-radeon-rx-7900-gre-review-benchmarks-price)<!-- TECH:END -->
+ - [Nintendo Switch 2 targeting March 2025 but could still slip again, report says](https://www.androidauthority.com/nintendo-switch-2-march-2025-3419636/)
+ - [How to Keep Your Loved Ones Safe From Financial Scams](https://www.wired.com/story/older-relatives-getting-ripped-off/)
+ - [EU officials are not happy with how Apple is handling Progressive Web Apps](https://appleinsider.com/articles/24/02/26/eu-officials-are-not-happy-with-how-apple-is-handling-progressive-web-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
