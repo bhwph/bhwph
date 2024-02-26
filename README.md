@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Please someone on the comments satisfy many\u2019s wish!](http://9gag.com/gag/aoKrGNn)
- - 😝 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
+ - 6️⃣ [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
+ - 😝 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
  - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
 
 --- 
