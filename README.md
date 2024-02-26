@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung gives us a closer look at Galaxy Ring, confirms more features](https://www.androidauthority.com/samsung-galaxy-ring-features-images-3419102/)
- - [Samsung has big ambitions for the Galaxy Ring](https://www.theverge.com/2024/2/26/24082729/samsung-has-big-ambitions-for-the-galaxy-ring)
- - [Microsoft Is Using AI to Stop Phone Scammers From Tricking You     - CNET](https://www.cnet.com/tech/mobile/microsoft-is-using-ai-to-stop-phone-scammers-from-tricking-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Forget your phone: Wear OS now gives directions and access to more passes](https://www.androidauthority.com/wear-os-google-maps-directions-and-passes-3418781/)
+ - [Why leave your chats? Gemini is coming to Google Messages](https://www.androidauthority.com/google-messages-gemini-support-3418498/)
+ - [Google’s MWC surprise: New features announced for Android and beyond](https://www.androidauthority.com/google-mwc-2024-new-features-android-wear-os-3419073/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
