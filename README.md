@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Queen’s Blood card game is just as good as Final Fantasy VII Rebirth itself](https://www.theverge.com/2024/2/26/24081238/final-fantasy-7-rebirth-queens-blood-triple-triad)
- - [Is it safe to buy from TikTok Shop?](https://www.androidauthority.com/is-it-safe-to-buy-from-tiktok-shop-3419717/)
- - [Two words: poker roguelike](https://www.theverge.com/24082252/balatro-review-poker-roguelike-videogame)<!-- TECH:END -->
+ - [MWC 2024 Tech You Can Actually Buy Right Now     - CNET](https://www.cnet.com/deals/mwc-2024-tech-you-can-actually-buy-right-now/#ftag=CAD590a51e)
+ - [Zoom reports Q4 revenue of $1.15B, up 2.6% YoY, vs. $1.13B est., Enterprise revenue of $667M, up 4.9% YoY, and announces a $1.5B stock buyback; ZM jumps 10%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240226/p27#a240226p27)
+ - [While Google paused Gemini&#39;s image generation, its text generation tool also offers some absurd responses, highlighting the need for flourishing open source AI &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240226/p26#a240226p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
