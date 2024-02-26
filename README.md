@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T will pay a miserly $5 per account in outage compensation](https://appleinsider.com/articles/24/02/26/att-will-pay-a-miserly-5-per-account-in-outage-compensation?utm_medium=rss)
- - [How a Small Iowa Newspaper&#39;s Website Became an AI-Generated Clickbait Factory](https://www.wired.com/story/iowa-newspaper-website-ai-generated-clickbait-factory/)
- - [Current Mortgage Interest Rates on Feb. 26, 2024: Important Mortgage Rate Recedes     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-interest-rates-on-feb-26-2024-important-mortgage-rate-recedes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Avail, a modular blockchain project spun out of Polygon in 2023 to streamline the rollup experience, raised a $27M seed co-led by Founders Fund and Dragonfly &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240226/p11#a240226p11)
+ - [Vertex Is the Last Good Place Online](https://www.wired.com/story/last-good-place-vertex/)
+ - [AMD Radeon RX 7900 GRE review: $549 competition for Nvidia](https://www.theverge.com/24083386/amd-radeon-rx-7900-gre-review-benchmarks-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
