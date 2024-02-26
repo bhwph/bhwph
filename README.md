@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
- - 😝 [A Meme origin](http://9gag.com/gag/a04AgdL)
- - 👉 [By 1:30 in the afternoon the entire shop was empty.](http://9gag.com/gag/aYV864V)<!-- MEMES:END -->
+ - 😝 [Male* enters girls bathroom, dumps water on 3 girls heads, throws one in to a towel dispenser, gets his a*s kicked... pepsi a day later.](http://9gag.com/gag/a3Z9pym)
+ - 👉 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)<!-- MEMES:END -->
 
 --- 
 
