@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
- - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 👉 [ThisCantBeReal](http://9gag.com/gag/aEqrKNK)<!-- MEMES:END -->
+ - 6️⃣ [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
+ - 😝 [It\u2019s funny because it\u2019s true](http://9gag.com/gag/aBdqMjQ)
+ - 👉 [But there&#39;s no difference lol](http://9gag.com/gag/a8qPNx3)<!-- MEMES:END -->
 
 --- 
 
