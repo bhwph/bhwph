@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snag Anker&#39;s Magnetic Charging Station for Just $90     - CNET](https://www.cnet.com/deals/snag-ankers-magnetic-charging-station-for-just-90/#ftag=CAD590a51e)
- - [How to use Spotlight&#39;s metadata file utilities in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-spotlights-metadata-file-utilities-in-macos?utm_medium=rss)
- - [Ford stops shipping 2024 F-150 Lightnings for ‘quality checks’](https://www.theverge.com/2024/2/25/24082998/ford-f-150-lightning-2024-stop-ship-quality-check)<!-- TECH:END -->
+ - [A consultant working for Rep. Dean Phillips, who challenged Biden in NH&#39;s primary, admits to producing the deepfake robocalls, saying anyone can do it for $500 &lpar;Alex Seitz-Wald/NBC News&rpar;](http://www.techmeme.com/240225/p9#a240225p9)
+ - [Motorola showed us its phone that bends around the wrist, and we have questions](https://www.androidauthority.com/motorola-adaptive-display-hands-on-3419235/)
+ - [Motorola&#39;s Rollable Concept Phone Wraps on Your Wrist video     - CNET](https://www.cnet.com/videos/motorolas-rollable-concept-phone-wraps-on-your-wrist/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
