@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MTG’s Bloomburrow upstaged Assassin’s Creed at MagicCon Chicago](https://www.polygon.com/24083672/mtgs-assassins-creed-bloomburrow-modern-horizons-fallout-science-previews-magiccon-chicago)
- - [Everything We Know About The Nintendo Switch 2](https://kotaku.com/switch-2-nintendo-console-tech-release-date-1851200648)
- - [Uniqlo’s Metal Gear Solid T-shirts are back in stock online](https://www.polygon.com/deals/2023/12/14/23980047/uniqlo-metal-gear-solid-snake-collection-t-shirts-konami)<!-- GAME:END -->
+ - [What will Switch 2’s gimmick be?](https://www.polygon.com/nintendo/24083427/switch-2-gimmicks-features-screens-camera)
+ - [The Best Stratagems To Get Early In Helldivers 2](https://kotaku.com/helldivers-2-stratagems-best-stalwart-recoilless-1851287568)
+ - [Stardew Valley&#39;s long-awaited 1.6 update is coming to PC in March](https://www.pcgamer.com/stardew-valley-1-6-pc-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
