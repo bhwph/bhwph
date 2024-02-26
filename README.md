@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro hacked his way to her heart](http://9gag.com/gag/aqe3EGY)
- - 😝 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
- - 👉 [Modern era](http://9gag.com/gag/aWGKXxx)<!-- MEMES:END -->
+ - 6️⃣ [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - 😝 [Normal Rat getting devoured by Monster Rat](http://9gag.com/gag/anzp0pB)
+ - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
 
 --- 
 
