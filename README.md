@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [China use cyanide to kill coralreef/fish near japan and philippines.](http://9gag.com/gag/a2KBgXp)
- - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
- - 👉 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)<!-- MEMES:END -->
+ - 6️⃣ [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
+ - 👉 [ThisCantBeReal](http://9gag.com/gag/aEqrKNK)<!-- MEMES:END -->
 
 --- 
 
