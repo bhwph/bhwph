@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 finally liberated from the bulk of its server issues as Arrowhead CEO celebrates having &#39;time to focus on improvements&#39; like rad mechs and &lpar;probably&rpar; stealth gear](https://www.pcgamer.com/helldivers-2-finally-liberated-from-the-bulk-of-its-server-issues-as-arrowhead-ceo-celebrates-having-time-to-focus-on-improvements-like-rad-mechs-and-probably-stealth-gear)
- - [Here&#39;s the Grand Theft Auto 6 trailer perfectly recreated in Minecraft](https://www.pcgamer.com/heres-the-grand-theft-auto-6-trailer-perfectly-recreated-in-minecraft)
- - [&#39;Please stop that&#39;: In the run-up to Baldur&#39;s Gate 3 modding support, Larian&#39;s head of publishing speaks out against &#39;threats and toxicity against our devs and community teams&#39;](https://www.pcgamer.com/please-stop-that-in-the-run-up-to-baldurs-gate-3-modding-support-larians-head-of-publishing-speaks-out-against-threats-and-toxicity-against-our-devs-and-community-teams)<!-- GAME:END -->
+ - [A quarter century after its release, Age of Empires 2 is still getting DLC](https://www.pcgamer.com/a-quarter-century-after-its-release-age-of-empires-2-is-still-getting-dlc)
+ - [The best video games of 2024, so far](https://www.polygon.com/what-to-play/24078256/best-video-games-2024)
+ - [Best ultrawide monitor for gaming in 2024: the expansive panels I recommend for PC gamers](https://www.pcgamer.com/best-ultrawide-monitor-for-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
