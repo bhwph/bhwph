@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dwarf Fortress adventure mode preview shows off menu for grabbing enemies by their teeth](https://www.pcgamer.com/dwarf-fortress-adventure-mode-preview-shows-off-menu-for-grabbing-enemies-by-their-teeth)
- - [MSI releases Intel BIOS with support for 256GB of RAM, just in case 192GB isn&#39;t enough](https://www.pcgamer.com/msi-releases-intel-bios-with-support-for-256gb-of-ram-just-in-case-192gb-isnt-enough)
- - [You can punch a tank in retro beat &#39;em up G.I. Joe: Wrath of Cobra](https://www.pcgamer.com/you-can-punch-a-tank-in-retro-beat-em-up-gi-joe-wrath-of-cobra)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, February 26](https://www.pcgamer.com/wordle-answer-today-february-26-2024)
+ - [Here&#39;s an indie tactics game inspired by X-Com, Rebelstar, and Laser Squad](https://www.pcgamer.com/heres-an-indie-tactics-game-inspired-by-x-com-rebelstar-and-laser-squad)
+ - [Dwarf Fortress adventure mode preview shows off menu for grabbing enemies by their teeth](https://www.pcgamer.com/dwarf-fortress-adventure-mode-preview-shows-off-menu-for-grabbing-enemies-by-their-teeth)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
