@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm unveils AI Hub, a new library of 75+ pre-optimized AI models, X80 5G modem, and FastConnect 7900, a chip that integrates Wi-Fi 7, Bluetooth, and UWB &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240226/p3#a240226p3)
- - [Samsung unveils Galaxy Ring at MWC 2024; the device is centered around health and wellness, comes in three colors, and will be available later this year &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/240226/p2#a240226p2)
- - [A Discarded Plan to Build Underwater Cities Will Give Coral Reefs New Life](https://www.wired.com/story/coral-restoration-tom-dixon-furniture-subhair-khan-open-ended-design/)<!-- TECH:END -->
+ - [AT&amp;T will pay a miserly $5 per account in outage compensation](https://appleinsider.com/articles/24/02/26/att-will-pay-a-miserly-5-per-account-in-outage-compensation?utm_medium=rss)
+ - [How a Small Iowa Newspaper&#39;s Website Became an AI-Generated Clickbait Factory](https://www.wired.com/story/iowa-newspaper-website-ai-generated-clickbait-factory/)
+ - [Current Mortgage Interest Rates on Feb. 26, 2024: Important Mortgage Rate Recedes     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-interest-rates-on-feb-26-2024-important-mortgage-rate-recedes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
