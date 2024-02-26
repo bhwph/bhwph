@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo Switch 2 targeting March 2025 but could still slip again, report says](https://www.androidauthority.com/nintendo-switch-2-march-2025-3419636/)
- - [How to Keep Your Loved Ones Safe From Financial Scams](https://www.wired.com/story/older-relatives-getting-ripped-off/)
- - [EU officials are not happy with how Apple is handling Progressive Web Apps](https://appleinsider.com/articles/24/02/26/eu-officials-are-not-happy-with-how-apple-is-handling-progressive-web-apps?utm_medium=rss)<!-- TECH:END -->
+ - [Score a New Keychron Mechanical Keyboard for as Little as $30     - CNET](https://www.cnet.com/deals/score-a-new-keychron-mechanical-keyboard-for-as-little-as-30/#ftag=CAD590a51e)
+ - [Lenovo&#39;s Futuristic Transparent Concept Laptop May Redefine Computing     - CNET](https://www.cnet.com/tech/computing/lenovos-futuristic-transparent-concept-laptop-may-redefine-computing/#ftag=CAD590a51e)
+ - [A phone without apps? This concept Android phone is going for it](https://www.androidauthority.com/deutsche-telekom-ai-smartphone-3419728/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
