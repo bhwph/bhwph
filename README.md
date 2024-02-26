@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune’s music is a mélange that folds time and space](https://www.polygon.com/24080509/dune-music-soundtrack-ost-movies-games-hans-zimmer)
- - [Everybody loves the goofy glowing worm guy coming in Elden Ring&#39;s DLC, but we&#39;re also terrified something bad will happen to him](https://www.pcgamer.com/everybody-loves-the-goofy-glowing-worm-guy-coming-in-elden-rings-dlc-but-were-also-terrified-something-bad-will-happen-to-him)
- - [10 of the best platforming games that don’t star Mario](https://www.polygon.com/what-to-play/24080484/best-platforming-games-play-no-mario-nintendo-pc-playstation-xbox)<!-- GAME:END -->
+ - [Here&#39;s a blocky voxel RTS from the studio that made the Command &amp; Conquer remasters](https://www.pcgamer.com/heres-a-blocky-voxel-rts-from-the-studio-that-made-the-command-and-conquer-remasters)
+ - [Five new Steam games you probably missed &lpar;February 26, 2024&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-26-2024)
+ - [&#39;Lore-accurate&#39; Dawn of War 2 mod lets you make it more like Dawn of War 1](https://www.pcgamer.com/lore-accurate-dawn-of-war-2-mod-lets-you-make-it-more-like-dawn-of-war-1)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
