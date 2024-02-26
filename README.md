@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Evolution of Rock genre](http://9gag.com/gag/aXnDz6P)
- - 😝 [But there&#39;s no difference lol](http://9gag.com/gag/a8qPNx3)
- - 👉 [R*PE jokes are fire tho](http://9gag.com/gag/aXnD13z)<!-- MEMES:END -->
+ - 6️⃣ [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
+ - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 👉 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)<!-- MEMES:END -->
 
 --- 
 
