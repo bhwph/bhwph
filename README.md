@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Score a New Keychron Mechanical Keyboard for as Little as $30     - CNET](https://www.cnet.com/deals/score-a-new-keychron-mechanical-keyboard-for-as-little-as-30/#ftag=CAD590a51e)
- - [Lenovo&#39;s Futuristic Transparent Concept Laptop May Redefine Computing     - CNET](https://www.cnet.com/tech/computing/lenovos-futuristic-transparent-concept-laptop-may-redefine-computing/#ftag=CAD590a51e)
- - [A phone without apps? This concept Android phone is going for it](https://www.androidauthority.com/deutsche-telekom-ai-smartphone-3419728/)<!-- TECH:END -->
+ - [The Queen’s Blood card game is just as good as Final Fantasy VII Rebirth itself](https://www.theverge.com/2024/2/26/24081238/final-fantasy-7-rebirth-queens-blood-triple-triad)
+ - [Is it safe to buy from TikTok Shop?](https://www.androidauthority.com/is-it-safe-to-buy-from-tiktok-shop-3419717/)
+ - [Two words: poker roguelike](https://www.theverge.com/24082252/balatro-review-poker-roguelike-videogame)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
