@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - 😝 [She ugly](http://9gag.com/gag/a9qQw9D)
- - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
+ - 6️⃣ [Trump, is that you?](http://9gag.com/gag/aVbn67y)
+ - 😝 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
+ - 👉 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)<!-- MEMES:END -->
 
 --- 
 
