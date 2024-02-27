@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia plans to start showing free-tier users of GeForce Now &quot;up to two minutes&quot; of video ads while waiting in queue to start a cloud gaming session &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240227/p4#a240227p4)
- - [Sources: Meta aims to reveal and demo the first version of its AR glasses, codenamed Orion, during its Connect developer conference in the fall &lpar;Kali Hays/Business Insider&rpar;](http://www.techmeme.com/240227/p3#a240227p3)
- - [Samsung Galaxy Ring is coming: What we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-ring-3340682/)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Ask&#39; project may be far more than just an AI-assisted support tool](https://appleinsider.com/articles/24/02/27/apples-ask-project-may-be-far-more-than-just-an-ai-assisted-support-tool?utm_medium=rss)
+ - [Hands-on with an AI-focused Android phone: A stepping stone to the future](https://www.androidauthority.com/telekom-concept-ai-phone-hands-on-3420009/)
+ - [Mortgage Interest Rates for Feb. 27, 2024: Rates Move Up for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-for-feb-27-2024-rates-move-up-for-homeseekers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
