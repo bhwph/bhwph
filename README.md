@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bye bye](http://9gag.com/gag/aEqr95p)
- - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - 👉 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)<!-- MEMES:END -->
+ - 6️⃣ [Feel free to test it yourself, it&#39;s actually true. Highly concerning.](http://9gag.com/gag/agoMD4g)
+ - 😝 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 👉 [Honestly, I don\u2019t think there will be a better true crime series than TD season 1](http://9gag.com/gag/a04AryB)<!-- MEMES:END -->
 
 --- 
 
