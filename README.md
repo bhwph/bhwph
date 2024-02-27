@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I don&#39;t play poker at all&#39; says solo developer who made the poker roguelike I can&#39;t stop playing](https://www.pcgamer.com/i-dont-play-poker-at-all-says-solo-developer-who-made-the-poker-roguelike-i-cant-stop-playing)
- - [Pacific Drive’s car is the new Companion Cube: How games help us love inanimate objects](https://www.polygon.com/gaming/24083957/games-pacific-drive-portal-stanley-parable-inanimate-objects)
- - [New Jaws Game Is-OH GOD THE FACES](https://kotaku.com/jaws-infested-waters-shark-attack-roblox-online-pc-1851290185)<!-- GAME:END -->
+ - [Balatro cast a magic spell that made me like math](https://www.polygon.com/reviews/24084564/balatro-review-poker-game-deck-building-roguelite)
+ - [How to get armor piercing rounds in Helldivers 2](https://www.polygon.com/guides/24084441/helldivers-2-armor-piercing-rounds-how-to-get)
+ - [Side-scuttling strategy game Crab God will let you amass a crustacean congregation](https://www.pcgamer.com/side-scuttling-strategy-game-crab-god-will-let-you-amass-a-crustacean-congregation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
