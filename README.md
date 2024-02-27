@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MWC 2024 Tech You Can Actually Buy Right Now     - CNET](https://www.cnet.com/deals/mwc-2024-tech-you-can-actually-buy-right-now/#ftag=CAD590a51e)
- - [Zoom reports Q4 revenue of $1.15B, up 2.6% YoY, vs. $1.13B est., Enterprise revenue of $667M, up 4.9% YoY, and announces a $1.5B stock buyback; ZM jumps 10%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240226/p27#a240226p27)
- - [While Google paused Gemini&#39;s image generation, its text generation tool also offers some absurd responses, highlighting the need for flourishing open source AI &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240226/p26#a240226p26)<!-- TECH:END -->
+ - [Sources: the BlackCat ransomware gang is behind the outage at UnitedHealth&#39;s technology unit that has disrupted services at pharmacies in the US for six days &lpar;Reuters&rpar;](http://www.techmeme.com/240226/p34#a240226p34)
+ - [Netflix confirms it’s cutting off Apple billing for grandfathered subscribers](https://www.theverge.com/24084173/netflix-refusing-apple-itunes-subscriptions)
+ - [The US adds networking equipment company Sandvine to its entity list, banning it from obtaining US tech, for supplying Egypt with equipment used for censorship &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/240226/p33#a240226p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
