@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
- - 😝 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
- - 👉 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)<!-- MEMES:END -->
+ - 6️⃣ [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
+ - 😝 [She ugly](http://9gag.com/gag/a9qQw9D)
+ - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
 
 --- 
 
