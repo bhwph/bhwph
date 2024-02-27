@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HomePod with big touchscreen likely isn&#39;t coming in 2024](https://appleinsider.com/articles/24/02/25/homepod-with-big-touchscreen-likely-isnt-coming-in-2024?utm_medium=rss)
- - [Lapse, a photo app that makes users wait to share unedited pictures as they are &quot;developed&quot; like film, raised a $30M Series A, sources say at a $150M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240227/p15#a240227p15)
- - [5 Best VPN Services &lpar;2024&rpar;: For Routers, PC, iPhone, Android, and More](https://www.wired.com/story/best-vpn/)<!-- TECH:END -->
+ - [The Samsung Galaxy Z Fold 4 is top value at $530 off](https://www.androidauthority.com/deal-samsung-galaxy-z-fold-4-3420224/)
+ - [Wendy’s betrays spicy nugget lovers everywhere and will introduce surge pricing](https://www.theverge.com/2024/2/27/24084527/wendys-surge-dynamic-pricing-ai-2025)
+ - [Which iPhones and iPads will be supported with iOS 18 and iPadOS 18?](https://appleinsider.com/articles/24/02/27/which-iphones-and-ipads-will-be-supported-with-ios-18-and-ipados-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
