@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s always them](http://9gag.com/gag/a7q4xom)
- - 😝 [What a MAN, you are allowed to cry Mike. Still taking it like a champ.](http://9gag.com/gag/ay2gb6b)
- - 👉 [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)<!-- MEMES:END -->
+ - 6️⃣ [Title](http://9gag.com/gag/amAjZNo)
+ - 😝 [Google challenge](http://9gag.com/gag/aeQonEB)
+ - 👉 [Say hello to Ghibli...](http://9gag.com/gag/aMERLGG)<!-- MEMES:END -->
 
 --- 
 
