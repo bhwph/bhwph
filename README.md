@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cox Enterprises is buying OpenGov in a deal valuing the company, which provides cloud software for cities and state agencies, at $1.8B &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240227/p24#a240227p24)
- - [Apple&#39;s annual shareholder meeting tackling conservative fears, China, equality, &amp; AI](https://appleinsider.com/articles/24/02/26/apple-shareholders-to-vote-on-ai-equality-conservatives-concerns-at-annual-meeting?utm_medium=rss)
- - [iPhone 16 Pro fidget-spinner camera bump rumor is bogus](https://appleinsider.com/articles/24/02/27/iphone-16-pro-fidget-spinner-camera-bump-rumor-is-bogus?utm_medium=rss)<!-- TECH:END -->
+ - [MWC 2024: all the phones, wearables, and gadgets announced in Barcelona](https://www.theverge.com/24078219/mwc-barcelona-2024-news-rumors-products-announcements)
+ - [Meta might demo a pair of ‘true’ AR smart glasses later in 2024](https://www.theverge.com/2024/2/27/24084909/meta-orion-ar-smart-glasses-rumor)
+ - [Tumblr’s owner is striking deals with OpenAI and Midjourney for training data, says report](https://www.theverge.com/2024/2/27/24084884/tumblr-midjourney-openai-training-data-deal-report)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
