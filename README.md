@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Balatro cast a magic spell that made me like math](https://www.polygon.com/reviews/24084564/balatro-review-poker-game-deck-building-roguelite)
- - [How to get armor piercing rounds in Helldivers 2](https://www.polygon.com/guides/24084441/helldivers-2-armor-piercing-rounds-how-to-get)
- - [Side-scuttling strategy game Crab God will let you amass a crustacean congregation](https://www.pcgamer.com/side-scuttling-strategy-game-crab-god-will-let-you-amass-a-crustacean-congregation)<!-- GAME:END -->
+ - [After 8 years, the Genshin Impact developer is revitalizing its first hit RPG with a massive update aimed at new players](https://www.pcgamer.com/after-8-years-the-genshin-impact-developer-is-revitalizing-its-first-hit-rpg-with-a-massive-update-aimed-at-new-players)
+ - [Oh Goody: Wendy&#39;s Is Getting Surge Pricing Next Year](https://kotaku.com/wendys-surge-pricing-uber-1851291297)
+ - [Every Criterion Collection Blu-ray and DVD is 50% off through tomorrow](https://www.polygon.com/2024/2/27/24084558/criterion-collection-flash-half-off-sale-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
