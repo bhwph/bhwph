@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation laying off 900 people, closing London Studio entirely](https://www.polygon.com/24084509/playstation-layoff-900-workers-feb-2024)
- - [Fortnite just got two new Lego games and you can play them right now](https://www.polygon.com/fortnite/24083941/fortnite-lego-two-new-games-obby-fun-raft-survival-roblox-minecraft)
- - [Pour one out for the filler episode](https://www.polygon.com/24079131/netflix-avatar-last-airbender-filler-episode-tv-shows)<!-- GAME:END -->
+ - [Pokémon’s New Mobile TCG Is Giving Marvel Snap](https://kotaku.com/pokemon-tcg-pocket-mobile-android-ios-1851289803)
+ - [The Future Games show is returning next month and has a special guest: Karlach, who is helping to reveal &#39;over 40 games&#39;](https://www.pcgamer.com/the-future-games-show-is-returning-next-month-and-has-a-special-guest-karlach-who-is-helping-to-reveal-over-40-games)
+ - [Our Brilliant Ruin explores the sickly crust of aristocracy left clinging to the edge of the world](https://www.polygon.com/tabletop-games/24081025/our-brilliant-ruin-ttrpg-kickstarter-campaign)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
