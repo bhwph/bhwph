@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2’s Hunters: What They Are And How To Kill ‘Em](https://kotaku.com/helldivers-2-hunters-where-planet-kill-location-1851288031)
- - [Where And When To Watch The Big Pokémon Day Presentation](https://kotaku.com/pokemon-presents-stream-where-watch-when-time-1851287950)
- - [Elden Ring director says Shadow of the Erdtree will have a Sekiro-like leveling system so you can&#39;t just steamroll it](https://www.pcgamer.com/elden-ring-director-says-shadow-of-the-erdtree-will-have-a-sekiro-like-leveling-system-so-you-cant-just-steamroll-it)<!-- GAME:END -->
+ - [Cities: Skylines 2 boss says lack of mod support is the &#39;biggest regret we have&#39;](https://www.pcgamer.com/cities-skylines-2-boss-says-lack-of-mod-support-is-the-biggest-regret-we-have)
+ - [How to find Immortal Eyes in Last Epoch](https://www.pcgamer.com/last-epoch-immortal-eyes-prophecy)
+ - [The makers of the excellent Half-Life remake Black Mesa are teasing something new](https://www.pcgamer.com/the-makers-of-the-excellent-half-life-remake-black-mesa-are-teasing-something-new)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
