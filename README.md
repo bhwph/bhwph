@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Crunchyroll president Rahul Purini about the streamer&#39;s focus on anime, working with creators in Japan, competing with Netflix, future plans, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240227/p1#a240227p1)
- - [Samsung confirms: The Galaxy Ring can deliver up to 9 days of juice](https://www.androidauthority.com/samsung-galaxy-ring-battery-life-3418435/)
- - [Motorola will use Gorilla Glass for all of its smartphones starting this year](https://www.androidauthority.com/motorola-gorilla-glass-3419918/)<!-- TECH:END -->
+ - [Nvidia plans to start showing free-tier users of GeForce Now &quot;up to two minutes&quot; of video ads while waiting in queue to start a cloud gaming session &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240227/p4#a240227p4)
+ - [Sources: Meta aims to reveal and demo the first version of its AR glasses, codenamed Orion, during its Connect developer conference in the fall &lpar;Kali Hays/Business Insider&rpar;](http://www.techmeme.com/240227/p3#a240227p3)
+ - [Samsung Galaxy Ring is coming: What we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-ring-3340682/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
