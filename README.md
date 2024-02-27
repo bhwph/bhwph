@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [SSDs are getting more expensive again because the biggest NAND supplier has throttled production to half its previous output](https://www.pcgamer.com/ssds-are-getting-more-expensive-again-because-the-biggest-nand-supplier-has-throttled-production-to-half-its-previous-output)
- - [HORI HOTAS Flight Control System &amp; Mount Review](https://www.pcgamer.com/hori-hotas-flight-control-system-review)
- - [Palworld&#39;s latest patch fixes bugs, buffs the letter F, leaves the nail economy in shambles, and lets you generate volcanic heat with 4 campfires](https://www.pcgamer.com/palworlds-latest-patch-fixes-bugs-buffs-the-letter-f-leaves-the-nail-economy-in-shambles-and-lets-you-generate-volcanic-heat-with-4-campfires)<!-- GAME:END -->
+ - [PlayStation laying off 900 people, closing London Studio entirely](https://www.polygon.com/24084509/playstation-layoff-900-workers-feb-2024)
+ - [Fortnite just got two new Lego games and you can play them right now](https://www.polygon.com/fortnite/24083941/fortnite-lego-two-new-games-obby-fun-raft-survival-roblox-minecraft)
+ - [Pour one out for the filler episode](https://www.polygon.com/24079131/netflix-avatar-last-airbender-filler-episode-tv-shows)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
