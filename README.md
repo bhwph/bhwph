@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola will use Gorilla Glass for all of its smartphones starting this year](https://www.androidauthority.com/motorola-gorilla-glass-3419918/)
- - [Best Firm Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)
- - [The Best Hotel Mattresses in 2024     - CNET](https://www.cnet.com/health/sleep/the-best-hotel-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Crunchyroll president Rahul Purini about the streamer&#39;s focus on anime, working with creators in Japan, competing with Netflix, future plans, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240227/p1#a240227p1)
+ - [Samsung confirms: The Galaxy Ring can deliver up to 9 days of juice](https://www.androidauthority.com/samsung-galaxy-ring-battery-life-3418435/)
+ - [Motorola will use Gorilla Glass for all of its smartphones starting this year](https://www.androidauthority.com/motorola-gorilla-glass-3419918/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
