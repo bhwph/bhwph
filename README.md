@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MWC 2024: all the phones, wearables, and gadgets announced in Barcelona](https://www.theverge.com/24078219/mwc-barcelona-2024-news-rumors-products-announcements)
- - [Meta might demo a pair of ‘true’ AR smart glasses later in 2024](https://www.theverge.com/2024/2/27/24084909/meta-orion-ar-smart-glasses-rumor)
- - [Tumblr’s owner is striking deals with OpenAI and Midjourney for training data, says report](https://www.theverge.com/2024/2/27/24084884/tumblr-midjourney-openai-training-data-deal-report)<!-- TECH:END -->
+ - [Google Maps gets ‘glanceable directions while navigating’ for Android and iOS](https://www.androidauthority.com/google-maps-glanceable-directions-3420426/)
+ - [Upcoming Android update will give AV1 videos a big boost on budget devices](https://www.androidauthority.com/android-update-av1-videos-3420418/)
+ - [eBay reports Q4 revenue up 2% YoY to $2.56B, vs. $2.51B est., GMV up 2% to $18.6B, and net income up 8% to $728M, and announces an additional $2B stock buyback &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/240227/p30#a240227p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
