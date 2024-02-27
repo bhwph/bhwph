@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - 😝 [Normal Rat getting devoured by Monster Rat](http://9gag.com/gag/anzp0pB)
+ - 6️⃣ [Trump, is that you?](http://9gag.com/gag/aVbn67y)
+ - 😝 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
  - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
 
 --- 
