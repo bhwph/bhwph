@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Tuesday, February 27](https://www.pcgamer.com/wordle-answer-today-february-27-2024)
- - [Ultros review](https://www.pcgamer.com/ultros-review)
- - [According to experts on kernel level anticheat, two things are abundantly clear: 1&rpar; It&#39;s not perfect and 2&rpar; It&#39;s not going anywhere](https://www.pcgamer.com/according-to-experts-on-kernel-level-anticheat-two-things-are-abundantly-clear-1-its-not-perfect-and-2-its-not-going-anywhere)<!-- GAME:END -->
+ - [SSDs are getting more expensive again because the biggest NAND supplier has throttled production to half its previous output](https://www.pcgamer.com/ssds-are-getting-more-expensive-again-because-the-biggest-nand-supplier-has-throttled-production-to-half-its-previous-output)
+ - [HORI HOTAS Flight Control System &amp; Mount Review](https://www.pcgamer.com/hori-hotas-flight-control-system-review)
+ - [Palworld&#39;s latest patch fixes bugs, buffs the letter F, leaves the nail economy in shambles, and lets you generate volcanic heat with 4 campfires](https://www.pcgamer.com/palworlds-latest-patch-fixes-bugs-buffs-the-letter-f-leaves-the-nail-economy-in-shambles-and-lets-you-generate-volcanic-heat-with-4-campfires)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
