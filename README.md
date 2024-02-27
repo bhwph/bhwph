@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s &#39;Ask&#39; project may be far more than just an AI-assisted support tool](https://appleinsider.com/articles/24/02/27/apples-ask-project-may-be-far-more-than-just-an-ai-assisted-support-tool?utm_medium=rss)
- - [Hands-on with an AI-focused Android phone: A stepping stone to the future](https://www.androidauthority.com/telekom-concept-ai-phone-hands-on-3420009/)
- - [Mortgage Interest Rates for Feb. 27, 2024: Rates Move Up for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-for-feb-27-2024-rates-move-up-for-homeseekers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HomePod with big touchscreen likely isn&#39;t coming in 2024](https://appleinsider.com/articles/24/02/25/homepod-with-big-touchscreen-likely-isnt-coming-in-2024?utm_medium=rss)
+ - [Lapse, a photo app that makes users wait to share unedited pictures as they are &quot;developed&quot; like film, raised a $30M Series A, sources say at a $150M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240227/p15#a240227p15)
+ - [5 Best VPN Services &lpar;2024&rpar;: For Routers, PC, iPhone, Android, and More](https://www.wired.com/story/best-vpn/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
