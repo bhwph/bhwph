@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy Z Fold 4 is top value at $530 off](https://www.androidauthority.com/deal-samsung-galaxy-z-fold-4-3420224/)
- - [Wendy’s betrays spicy nugget lovers everywhere and will introduce surge pricing](https://www.theverge.com/2024/2/27/24084527/wendys-surge-dynamic-pricing-ai-2025)
- - [Which iPhones and iPads will be supported with iOS 18 and iPadOS 18?](https://appleinsider.com/articles/24/02/27/which-iphones-and-ipads-will-be-supported-with-ios-18-and-ipados-18?utm_medium=rss)<!-- TECH:END -->
+ - [Cox Enterprises is buying OpenGov in a deal valuing the company, which provides cloud software for cities and state agencies, at $1.8B &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240227/p24#a240227p24)
+ - [Apple&#39;s annual shareholder meeting tackling conservative fears, China, equality, &amp; AI](https://appleinsider.com/articles/24/02/26/apple-shareholders-to-vote-on-ai-equality-conservatives-concerns-at-annual-meeting?utm_medium=rss)
+ - [iPhone 16 Pro fidget-spinner camera bump rumor is bogus](https://appleinsider.com/articles/24/02/27/iphone-16-pro-fidget-spinner-camera-bump-rumor-is-bogus?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
