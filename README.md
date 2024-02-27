@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What genre is this ?](http://9gag.com/gag/aA0W9Y2)
- - 😝 [Trump, is that you?](http://9gag.com/gag/aVbn67y)
- - 👉 [But there&#39;s no difference lol](http://9gag.com/gag/a8qPNx3)<!-- MEMES:END -->
+ - 6️⃣ [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
+ - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 👉 [It&#39;s always them](http://9gag.com/gag/a7q4xom)<!-- MEMES:END -->
 
 --- 
 
