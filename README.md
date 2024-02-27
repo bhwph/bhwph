@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trump, is that you?](http://9gag.com/gag/aVbn67y)
- - 😝 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
+ - 6️⃣ [What genre is this ?](http://9gag.com/gag/aA0W9Y2)
+ - 😝 [Trump, is that you?](http://9gag.com/gag/aVbn67y)
+ - 👉 [But there&#39;s no difference lol](http://9gag.com/gag/a8qPNx3)<!-- MEMES:END -->
 
 --- 
 
