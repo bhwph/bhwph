@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon’s New Mobile TCG Is Giving Marvel Snap](https://kotaku.com/pokemon-tcg-pocket-mobile-android-ios-1851289803)
- - [The Future Games show is returning next month and has a special guest: Karlach, who is helping to reveal &#39;over 40 games&#39;](https://www.pcgamer.com/the-future-games-show-is-returning-next-month-and-has-a-special-guest-karlach-who-is-helping-to-reveal-over-40-games)
- - [Our Brilliant Ruin explores the sickly crust of aristocracy left clinging to the edge of the world](https://www.polygon.com/tabletop-games/24081025/our-brilliant-ruin-ttrpg-kickstarter-campaign)<!-- GAME:END -->
+ - [&#39;I don&#39;t play poker at all&#39; says solo developer who made the poker roguelike I can&#39;t stop playing](https://www.pcgamer.com/i-dont-play-poker-at-all-says-solo-developer-who-made-the-poker-roguelike-i-cant-stop-playing)
+ - [Pacific Drive’s car is the new Companion Cube: How games help us love inanimate objects](https://www.polygon.com/gaming/24083957/games-pacific-drive-portal-stanley-parable-inanimate-objects)
+ - [New Jaws Game Is-OH GOD THE FACES](https://kotaku.com/jaws-infested-waters-shark-attack-roblox-online-pc-1851290185)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
