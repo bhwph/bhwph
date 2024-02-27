@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title](http://9gag.com/gag/amAjZNo)
- - 😝 [Google challenge](http://9gag.com/gag/aeQonEB)
- - 👉 [Say hello to Ghibli...](http://9gag.com/gag/aMERLGG)<!-- MEMES:END -->
+ - 6️⃣ [How the turn tables](http://9gag.com/gag/aqe3oRZ)
+ - 😝 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
+ - 👉 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)<!-- MEMES:END -->
 
 --- 
 
