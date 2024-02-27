@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - 👉 [No chill, brother.](http://9gag.com/gag/a9qQw6W)<!-- MEMES:END -->
+ - 6️⃣ [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - 😝 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
+ - 👉 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)<!-- MEMES:END -->
 
 --- 
 
