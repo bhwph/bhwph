@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Croft-y sleuths discover Tomb Raider Remastered 1-3 has a better version on the Epic Games store, of all places—except for some busted achievements](https://www.pcgamer.com/croft-y-sleuths-discover-tomb-raider-remastered-1-3-has-a-better-version-on-the-epic-games-store-of-all-placesexcept-for-some-busted-achievements)
- - [February’s Indie Selects: Amazing and Delightful Indie Games Chosen by the ID@Xbox Team](https://news.xbox.com/en-us/2024/02/28/february-indie-selects-xbox/)
- - [The best TV of 2024 so far](https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series)<!-- GAME:END -->
+ - [Call of Duty: Warzone Mobile Launches Worldwide on March 21](https://www.callofduty.com/blog/2024/02/call-of-duty-warzone-mobile-launch-worldwide-announcement#new_tab)
+ - [I Saw the TV Glow already looks like one of the best horror movies of the year](https://www.polygon.com/24085704/i-saw-the-tv-glow-release-date-trailer-horror-movie-a24)
+ - [You can play Call of Duty: Warzone on your phone in March](https://www.polygon.com/24085672/call-of-duty-warzone-mobile-release-date-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
