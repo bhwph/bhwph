@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)
+ - 6️⃣ [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
  - 😝 [Remember, do not trust their lies](http://9gag.com/gag/a5Xm8Pq)
  - 👉 [Juicy](http://9gag.com/gag/aRE5bv7)<!-- MEMES:END -->
 
