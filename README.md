@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, February 28](https://www.pcgamer.com/wordle-answer-today-february-28-2024)
- - [MalwareBytes recommends using USB condoms with USB vibrators to avoid nasty infections](https://www.pcgamer.com/malwarebytes-recommends-using-usb-condoms-with-usb-vibrators-to-avoid-nasty-infections)
- - [The best survival games on PC](https://www.pcgamer.com/the-best-survival-games-on-pc)<!-- GAME:END -->
+ - [Palworld&#39;s devs are very sorry for deploying a patch that &#39;inadvertently fixed a bug&#39;](https://www.pcgamer.com/palworlds-devs-are-very-sorry-for-deploying-a-patch-that-inadvertently-fixed-a-bug)
+ - [Helldivers 2 community briefly mourns the loss of Malevelon Creek, a gloomy jungle planet that&#39;s fast become the holy grail of the playerbase](https://www.pcgamer.com/helldivers-2-community-briefly-mourns-the-loss-of-malevelon-creek-a-gloomy-jungle-planet-thats-fast-become-the-holy-grail-of-the-playerbase)
+ - [Nvidia will soon be showing adverts to calm queue rage for free tier users of GeForce Now](https://www.pcgamer.com/nvidia-will-soon-be-showing-adverts-to-calm-queue-rage-for-free-tier-users-of-geforce-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
