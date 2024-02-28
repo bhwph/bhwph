@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Imminent DOJ antitrust case against Apple is in final pre-filing phase -- probably](https://appleinsider.com/articles/24/02/28/imminent-doj-antitrust-case-against-apple-is-in-final-pre-filing-phase----probably?utm_medium=rss)
- - [A Major ‘Stardew Valley’ Update Is Coming in March](https://www.wired.com/story/stardew-valley-update-march-2024/)
- - [Eufy’s new 360-degree 4K camera doesn’t need Wi-Fi or power outlets](https://www.theverge.com/2024/2/27/24085151/anker-eufy-4k-lte-cam-s330-features-price)<!-- TECH:END -->
+ - [Beats Solo 4 surface eight years after the Solo 3 debuted](https://appleinsider.com/articles/24/02/27/beats-solo-4-surface-eight-years-after-the-solo-3-debuted?utm_medium=rss)
+ - [How to delete all your Facebook posts without deleting your account](https://www.androidauthority.com/delete-all-facebook-posts-3138075/)
+ - [Apple Vision Pro may eventually get SteamVR functionality](https://appleinsider.com/articles/24/02/28/apple-vision-pro-may-eventually-get-steamvr-functionality?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
