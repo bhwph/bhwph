@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Attention English majors: now you can add handwritten notes to Google Docs](https://www.theverge.com/2024/2/28/24084808/google-docs-annotations-markups-handwritten-notes)
- - [Tim Cook says Apple will &quot;break new ground&quot; on generative AI this year; Apple shareholders reject a request for report into whether Apple is using AI ethically &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240228/p25#a240228p25)
- - [Everything went Apple&#39;s way at the annual shareholders meeting](https://appleinsider.com/articles/24/02/28/shareholders-voted-the-way-apple-wanted-at-the-annual-shareholder-meeting?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Fiserv and Amadeus are the two main contenders to acquire Shift4 Payments, which provides payment processing services and has a market value of $6.5B &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p29#a240228p29)
+ - [Biden Executive Order Bans Sale of US Data to China, Russia. Good Luck](https://www.wired.com/story/biden-data-broker-executive-order/)
+ - [Google’s 256GB Pixel Tablet is on sale for its best price yet](https://www.theverge.com/2024/2/28/24084762/google-pixel-tablet-sonic-origins-plus-eufy-max-11s-robot-vacuum-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
