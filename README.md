@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music adds new daily &#39;Heavy Rotation Mix&#39;](https://appleinsider.com/articles/24/02/28/apple-music-adds-new-daily-heavy-rotation-mix?utm_medium=rss)
- - [Aqara kick-starts its first Matter-over-Thread smart lock with a promise of Home Key support](https://www.theverge.com/2024/2/27/24084674/aqara-u200-matter-over-thread-smart-lock-apple-home-key)
- - [Never Drink Cold Coffee Again With $50 Off Ember&#39;s Smart Mug 2 Today     - CNET](https://www.cnet.com/deals/never-drink-cold-coffee-again-with-50-off-embers-smart-mug-2-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Echo Hub Review: Bare-Bones Smart Display](https://www.wired.com/review/amazon-echo-hub-review/)
+ - [This DIY AirPods Max mod means you can stop waiting for a USB-C upgrade](https://www.theverge.com/2024/2/28/24085141/apple-airpods-max-usb-c-ken-pillonel-mod)
+ - [Leak backs up obvious news that Apple is designing 2nm processors](https://appleinsider.com/articles/24/02/28/leak-backs-up-obvious-news-that-apple-is-designing-2nm-processors?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
