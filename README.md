@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Games can be more fun if you mix it with stupidity](http://9gag.com/gag/aWGKK6d)
- - 😝 [Haha](http://9gag.com/gag/ap9yyGM)
- - 👉 [Best cinematic shot ever.](http://9gag.com/gag/a9qQ9m1)<!-- MEMES:END -->
+ - 6️⃣ [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 😝 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
+ - 👉 [Name a movie that everybody say its bad but for you it was a good one, ill start](http://9gag.com/gag/az2Nndm)<!-- MEMES:END -->
 
 --- 
 
