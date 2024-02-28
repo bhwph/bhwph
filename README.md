@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 6️⃣ [Old japanese movies](http://9gag.com/gag/amAjEPX)
  - 😝 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
- - 👉 [Name a movie that everybody say its bad but for you it was a good one, ill start](http://9gag.com/gag/az2Nndm)<!-- MEMES:END -->
+ - 👉 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)<!-- MEMES:END -->
 
 --- 
 
