@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Warzone Mobile Launches Worldwide on March 21](https://www.callofduty.com/blog/2024/02/call-of-duty-warzone-mobile-launch-worldwide-announcement#new_tab)
- - [I Saw the TV Glow already looks like one of the best horror movies of the year](https://www.polygon.com/24085704/i-saw-the-tv-glow-release-date-trailer-horror-movie-a24)
- - [You can play Call of Duty: Warzone on your phone in March](https://www.polygon.com/24085672/call-of-duty-warzone-mobile-release-date-announcement)<!-- GAME:END -->
+ - [This $20 8BitDo adapter lets a PS/Xbox controller work seamlessly on your Switch](https://www.polygon.com/deals/24084059/nintendo-switch-accessory-adapter-playstation-ps5-xbox-controllers-8bitdo)
+ - [The best accessories for your Steam Deck](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)
+ - [New Fan Blog Argues &lpar;Rightly&rpar; That Final Fantasy VIII Is The Best](https://kotaku.com/final-fantasy-8-is-the-best-fan-blog-is-the-best-1851294482)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
