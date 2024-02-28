@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google appears to globally roll out &quot;glanceable directions while navigating&quot; on Maps, which shows real-time ETA and turn-by-turn directions on the lock screen &lpar;Chandraveer Mathur/Android Police&rpar;](http://www.techmeme.com/240227/p39#a240227p39)
- - [A US judge clears Chinese state-backed chipmaker Fujian Jinhua of economic espionage and other charges, over five years after the US blacklisted the company &lpar;Bloomberg&rpar;](http://www.techmeme.com/240227/p38#a240227p38)
- - [Klarna claims its ChatGPT-powered AI chatbot handles two-thirds of all customer service chats and does the equivalent work of 700 full-time human agents &lpar;Christopher Zara/Fast Company&rpar;](http://www.techmeme.com/240227/p37#a240227p37)<!-- TECH:END -->
+ - [We hardly knew ye: The Apple Car is reportedly dead](https://www.androidauthority.com/apple-car-dead-3419976/)
+ - [An analysis shows that on a cost basis, 42% of Apple Vision Pro components are made by Japanese companies, including Sony&#39;s displays and Kioxia&#39;s memory chips &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240228/p2#a240228p2)
+ - [Memo: Google CEO Sundar Pichai calls Gemini&#39;s problematic responses around race &quot;completely unacceptable&quot; and vows to make structural changes to fix the problem &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240228/p1#a240228p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
