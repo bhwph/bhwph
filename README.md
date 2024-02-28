@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What\u2019s your midnight food?](http://9gag.com/gag/a9qQQro)
+ - 6️⃣ [Games can be more fun if you mix it with stupidity](http://9gag.com/gag/aWGKK6d)
  - 😝 [Haha](http://9gag.com/gag/ap9yyGM)
- - 👉 [Why are you like this?](http://9gag.com/gag/adPZZg9)<!-- MEMES:END -->
+ - 👉 [Best cinematic shot ever.](http://9gag.com/gag/a9qQ9m1)<!-- MEMES:END -->
 
 --- 
 
