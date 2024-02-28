@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 8 years, the Genshin Impact developer is revitalizing its first hit RPG with a massive update aimed at new players](https://www.pcgamer.com/after-8-years-the-genshin-impact-developer-is-revitalizing-its-first-hit-rpg-with-a-massive-update-aimed-at-new-players)
- - [Oh Goody: Wendy&#39;s Is Getting Surge Pricing Next Year](https://kotaku.com/wendys-surge-pricing-uber-1851291297)
- - [Every Criterion Collection Blu-ray and DVD is 50% off through tomorrow](https://www.polygon.com/2024/2/27/24084558/criterion-collection-flash-half-off-sale-2024)<!-- GAME:END -->
+ - [The best survival games on PC](https://www.pcgamer.com/the-best-survival-games-on-pc)
+ - [Diablo 4 sorcerer build vomits up so many fireballs you need the minimap to see where you&#39;re going](https://www.pcgamer.com/diablo-4-fireball-sorcerer-build-the-gauntlet)
+ - [Star Wars: Dark Forces Remaster review](https://www.pcgamer.com/star-wars-dark-forces-remaster-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
