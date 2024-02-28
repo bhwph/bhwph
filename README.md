@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps gets ‘glanceable directions while navigating’ for Android and iOS](https://www.androidauthority.com/google-maps-glanceable-directions-3420426/)
- - [Upcoming Android update will give AV1 videos a big boost on budget devices](https://www.androidauthority.com/android-update-av1-videos-3420418/)
- - [eBay reports Q4 revenue up 2% YoY to $2.56B, vs. $2.51B est., GMV up 2% to $18.6B, and net income up 8% to $728M, and announces an additional $2B stock buyback &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/240227/p30#a240227p30)<!-- TECH:END -->
+ - [Imminent DOJ antitrust case against Apple is in final pre-filing phase -- probably](https://appleinsider.com/articles/24/02/28/imminent-doj-antitrust-case-against-apple-is-in-final-pre-filing-phase----probably?utm_medium=rss)
+ - [A Major ‘Stardew Valley’ Update Is Coming in March](https://www.wired.com/story/stardew-valley-update-march-2024/)
+ - [Eufy’s new 360-degree 4K camera doesn’t need Wi-Fi or power outlets](https://www.theverge.com/2024/2/27/24085151/anker-eufy-4k-lte-cam-s330-features-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
