@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Balatro is the perfect example of a game that wants you to break it](https://www.polygon.com/24085031/balatro-jokers-break-the-game)
- - [Blood Rage designer Eric Lang’s next effort is the family friendly Life in Reterra](https://www.polygon.com/tabletop-games/24085010/life-in-reterra-board-game-eric-lang)
- - [Like A Dragon’s Latest Fashion Collab Takes To The Streets](https://kotaku.com/like-a-dragon-anti-social-social-club-collection-1851290309)<!-- GAME:END -->
+ - [Croft-y sleuths discover Tomb Raider Remastered 1-3 has a better version on the Epic Games store, of all places—except for some busted achievements](https://www.pcgamer.com/croft-y-sleuths-discover-tomb-raider-remastered-1-3-has-a-better-version-on-the-epic-games-store-of-all-placesexcept-for-some-busted-achievements)
+ - [February’s Indie Selects: Amazing and Delightful Indie Games Chosen by the ID@Xbox Team](https://news.xbox.com/en-us/2024/02/28/february-indie-selects-xbox/)
+ - [The best TV of 2024 so far](https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
