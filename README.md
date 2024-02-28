@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Fiserv and Amadeus are the two main contenders to acquire Shift4 Payments, which provides payment processing services and has a market value of $6.5B &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p29#a240228p29)
- - [Biden Executive Order Bans Sale of US Data to China, Russia. Good Luck](https://www.wired.com/story/biden-data-broker-executive-order/)
- - [Google’s 256GB Pixel Tablet is on sale for its best price yet](https://www.theverge.com/2024/2/28/24084762/google-pixel-tablet-sonic-origins-plus-eufy-max-11s-robot-vacuum-deal-sale)<!-- TECH:END -->
+ - [William Gibson&#39;s &#39;Neuromancer&#39; is coming to Apple TV+](https://appleinsider.com/articles/24/02/28/william-gibsons-neuromancer-is-coming-to-apple-tv?utm_medium=rss)
+ - [iPhone 17 series to get a long-awaited display upgrade, report claims](https://www.androidauthority.com/iphone-17-series-ltpo-3421061/)
+ - [HP reports Q1 revenue down 4.4% YoY to $13.19B, vs. $13.56B est., Personal Systems revenue down 4% YoY to $8.8B, and Printing revenue down 5% YoY to $4.4B &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p35#a240228p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
