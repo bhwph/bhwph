@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Feel free to test it yourself, it&#39;s actually true. Highly concerning.](http://9gag.com/gag/agoMD4g)
- - 😝 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
- - 👉 [Honestly, I don\u2019t think there will be a better true crime series than TD season 1](http://9gag.com/gag/a04AryB)<!-- MEMES:END -->
+ - 6️⃣ [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 😝 [Women](http://9gag.com/gag/a8qPZ36)
+ - 👉 [Juicy](http://9gag.com/gag/aRE5bv7)<!-- MEMES:END -->
 
 --- 
 
