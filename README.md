@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld&#39;s devs are very sorry for deploying a patch that &#39;inadvertently fixed a bug&#39;](https://www.pcgamer.com/palworlds-devs-are-very-sorry-for-deploying-a-patch-that-inadvertently-fixed-a-bug)
- - [Helldivers 2 community briefly mourns the loss of Malevelon Creek, a gloomy jungle planet that&#39;s fast become the holy grail of the playerbase](https://www.pcgamer.com/helldivers-2-community-briefly-mourns-the-loss-of-malevelon-creek-a-gloomy-jungle-planet-thats-fast-become-the-holy-grail-of-the-playerbase)
- - [Nvidia will soon be showing adverts to calm queue rage for free tier users of GeForce Now](https://www.pcgamer.com/nvidia-will-soon-be-showing-adverts-to-calm-queue-rage-for-free-tier-users-of-geforce-now)<!-- GAME:END -->
+ - [Balatro is the perfect example of a game that wants you to break it](https://www.polygon.com/24085031/balatro-jokers-break-the-game)
+ - [Blood Rage designer Eric Lang’s next effort is the family friendly Life in Reterra](https://www.polygon.com/tabletop-games/24085010/life-in-reterra-board-game-eric-lang)
+ - [Like A Dragon’s Latest Fashion Collab Takes To The Streets](https://kotaku.com/like-a-dragon-anti-social-social-club-collection-1851290309)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
