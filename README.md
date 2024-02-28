@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We hardly knew ye: The Apple Car is reportedly dead](https://www.androidauthority.com/apple-car-dead-3419976/)
- - [An analysis shows that on a cost basis, 42% of Apple Vision Pro components are made by Japanese companies, including Sony&#39;s displays and Kioxia&#39;s memory chips &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240228/p2#a240228p2)
- - [Memo: Google CEO Sundar Pichai calls Gemini&#39;s problematic responses around race &quot;completely unacceptable&quot; and vows to make structural changes to fix the problem &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240228/p1#a240228p1)<!-- TECH:END -->
+ - [Galaxy Z Fold 6 renders leak: Sharp is in, curves are out](https://www.androidauthority.com/galaxy-z-fold-6-renders-leak-3420625/)
+ - [A look at some government contractors that are helping US intelligence agencies and others use targeted mobile ads to track down people &lpar;Byron Tau/Wired&rpar;](http://www.techmeme.com/240228/p6#a240228p6)
+ - [Analysis: Vietnam&#39;s share in global smartphone exports grew from less than 1% in 2010 to 12% in 2022, while India&#39;s grew from &lt;1% to 2.5%+ over the same period &lpar;The Hindu&rpar;](http://www.techmeme.com/240228/p5#a240228p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
