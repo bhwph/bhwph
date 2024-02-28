@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Take a break from propaganda and enjoy this weld](http://9gag.com/gag/aPgNEVK)
- - 😝 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
- - 👉 [They don&#39;t make movies like this anymore](http://9gag.com/gag/aoKrXMm)<!-- MEMES:END -->
+ - 6️⃣ [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
+ - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
+ - 👉 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)<!-- MEMES:END -->
 
 --- 
 
