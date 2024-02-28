@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
- - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
- - 👉 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)<!-- MEMES:END -->
+ - 6️⃣ [What\u2019s your midnight food?](http://9gag.com/gag/a9qQQro)
+ - 😝 [Haha](http://9gag.com/gag/ap9yyGM)
+ - 👉 [Why are you like this?](http://9gag.com/gag/adPZZg9)<!-- MEMES:END -->
 
 --- 
 
