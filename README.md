@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thrasio, which raised $3B+ in equity and debt to acquire third-party Amazon sellers, files for Chapter 11 bankruptcy and secures $90M in emergency funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240228/p11#a240228p11)
- - [Klarna reports 2023 revenue up 22% YoY to ~$2.28B, a $241M net loss, down from $1.01B in 2022, with credit losses falling by 32% in 2023 to $369M &lpar;Financial Times&rpar;](http://www.techmeme.com/240228/p10#a240228p10)
- - [Humanity Is Dangerously Pushing Its Ability to Tolerate Heat](https://www.wired.com/story/extreme-heat-tolerance/)<!-- TECH:END -->
+ - [Apple Music adds new daily &#39;Heavy Rotation Mix&#39;](https://appleinsider.com/articles/24/02/28/apple-music-adds-new-daily-heavy-rotation-mix?utm_medium=rss)
+ - [Aqara kick-starts its first Matter-over-Thread smart lock with a promise of Home Key support](https://www.theverge.com/2024/2/27/24084674/aqara-u200-matter-over-thread-smart-lock-apple-home-key)
+ - [Never Drink Cold Coffee Again With $50 Off Ember&#39;s Smart Mug 2 Today     - CNET](https://www.cnet.com/deals/never-drink-cold-coffee-again-with-50-off-embers-smart-mug-2-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
