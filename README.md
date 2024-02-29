@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final Fantasy VII Rebirth: all the news and updates](https://www.theverge.com/24078609/final-fantasy-7-rebirth-news-updates-trailers)
- - [Logitech G535 Lightspeed just $1 off its all-time low price](https://www.androidauthority.com/logitech-gaming-headset-deals-3421488/)
- - [Final Fantasy VII Rebirth’s creators want you to embrace the stress](https://www.theverge.com/2024/2/29/24086758/final-fantasy-vii-rebirth-interview-naoki-hamaguchi-yoshinori-kitase)<!-- TECH:END -->
+ - [Samsung aims to make Galaxy Ring compatible with other Android phones](https://www.androidauthority.com/galaxy-ring-android-phones-3421510/)
+ - [GitHub enables push protection by default for all public repositories to prevent accidental leaks of secrets like access tokens and API keys when pushing code &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240229/p28#a240229p28)
+ - [Setapp is opening its subscription-only iOS app store](https://www.theverge.com/2024/2/29/24086792/setapp-subscription-only-ios-app-store)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
