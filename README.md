@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
- - 😝 [Juicy](http://9gag.com/gag/aRE5bv7)
- - 👉 [Ah sweet man made horror beyond my comprehension](http://9gag.com/gag/ay2gyep)<!-- MEMES:END -->
+ - 6️⃣ [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
+ - 😝 [Ah sweet man made horror beyond my comprehension](http://9gag.com/gag/ay2gyep)
+ - 👉 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)<!-- MEMES:END -->
 
 --- 
 
