@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ServiceNow, Hugging Face, and Nvidia release free code-generating AI models StarCoder2-3B/7B/15B, the first two of which can run on most modern consumer GPUs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240229/p2#a240229p2)
- - [Sources: the US SEC sent a subpoena to OpenAI in December 2023, seeking internal records, following the board&#39;s decision in November to fire Sam Altman as CEO &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240229/p1#a240229p1)
- - [Grab an Apple Watch Ultra for $503 while supplies last](https://appleinsider.com/articles/24/02/29/grab-an-apple-watch-ultra-for-503-while-supplies-last?utm_medium=rss)<!-- TECH:END -->
+ - [A Pornhub Chatbot Stopped Millions From Searching for Child Abuse Videos](https://www.wired.com/story/pornhub-chatbot-csam-help/)
+ - [Samsung could launch the Galaxy Z Fold 6 and Flip 6 earlier than expected](https://www.androidauthority.com/samsung-galaxy-z-fold-6-flip-6-july-launch-leak-3421147/)
+ - [Machine learning vs AI vs deep learning: The differences explained](https://www.androidauthority.com/machine-learning-vs-ai-vs-deep-learning-3420062/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
