@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wtf](http://9gag.com/gag/aNwx6rr)
- - 😝 [Tittitle](http://9gag.com/gag/avQYYnX)
- - 👉 [Women](http://9gag.com/gag/a8qPZ36)<!-- MEMES:END -->
+ - 6️⃣ [Damn bringing the whole energy of the room to zero](http://9gag.com/gag/aRE5Y72)
+ - 😝 [\u2026..](http://9gag.com/gag/a6qvAAe)
+ - 👉 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)<!-- MEMES:END -->
 
 --- 
 
