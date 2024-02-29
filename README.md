@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ah sweet man made horror beyond my comprehension](http://9gag.com/gag/ay2gyep)
- - 😝 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
- - 👉 [\u2026..](http://9gag.com/gag/a6qvAAe)<!-- MEMES:END -->
+ - 6️⃣ [Wtf](http://9gag.com/gag/aNwx6rr)
+ - 😝 [Tittitle](http://9gag.com/gag/avQYYnX)
+ - 👉 [Women](http://9gag.com/gag/a8qPZ36)<!-- MEMES:END -->
 
 --- 
 
