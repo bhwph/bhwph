@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u2026..](http://9gag.com/gag/a6qvAAe)
- - 😝 [You gonna make me..](http://9gag.com/gag/aBdq70N)
- - 👉 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)<!-- MEMES:END -->
+ - 6️⃣ [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
+ - 👉 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)<!-- MEMES:END -->
 
 --- 
 
