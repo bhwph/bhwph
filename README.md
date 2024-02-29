@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 CEO describes the &#39;War Room&#39; atmosphere on launch day, as a server-breaking tidal wave of unexpected divers came flooding in: &#39;We saw the graph, just—players rising and rising&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-ceo-describes-the-war-room-atmosphere-on-launch-day-as-a-server-breaking-tidal-wave-of-unexpected-divers-came-flooding-in-we-saw-the-graph-justplayers-rising-and-rising)
- - [IBM&#39;s AI assisted SSD gives the middle finger to ransomware attackers](https://www.pcgamer.com/ibms-ai-assisted-ssd-gives-the-middle-finger-to-ransomware-attackers)
- - [Final Fantasy VII Rebirth: Should You Focus On Just The Main Story?](https://kotaku.com/final-fantasy-7-ff7-main-story-rebirth-open-world-1851295214)<!-- GAME:END -->
+ - [Critical Role’s next game, Daggerheart, will be available to download for free](https://www.polygon.com/tabletop-games/24086481/critical-role-daggerheart-free-open-beta)
+ - [Gran Turismo 7’s 1.43 update features three new events, new cars, and Café Menu](https://blog.playstation.com/2024/02/29/gran-turismo-7s-1-43-update-features-three-new-events-new-cars-and-cafe-menu/)
+ - [Chocobos are the ultimate stress test for Final Fantasy 7 Rebirth’s open world](https://www.polygon.com/24084882/chocobos-final-fantasy-7-rebirth-open-world)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
