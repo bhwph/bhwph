@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s time to upgrade your PS5, PC, or Steam Deck SSD. We’ve found the best deals](https://www.polygon.com/24084875/best-ssd-deals-gaming-ps5-pc-steam-deck)
- - [The best PC gaming monitor of 2024 is here &lpar;sorry to your wallet&rpar;](https://www.polygon.com/24085761/best-pc-gaming-monitor-2024-review-oled-alienware)
- - [Post-credit scenes, sequel teases, and everything else you need to know about Dune 2](https://www.polygon.com/23709799/dune-2-post-credits-scenes-release-date-cast-news-characters-story-trailer)<!-- GAME:END -->
+ - [I harnessed the power of deceit to conquer Hell in Solium Infernum, but I&#39;m still not sure what I&#39;m doing](https://www.pcgamer.com/games/strategy/i-harnessed-the-power-of-deceit-to-conquer-hell-in-solium-infernum-but-im-still-not-sure-what-im-doing)
+ - [Our Favorite Cosplay From Katsucon 2024](https://kotaku.com/katsucon-2024-best-cosplay-final-fantasy-elden-ring-1851297180)
+ - [Helldivers 2 players become part Automaton by mapping stratagems to a Stream Deck](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-become-part-automaton-by-mapping-stratagems-to-a-stream-deck)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
