@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Damn bringing the whole energy of the room to zero](http://9gag.com/gag/aRE5Y72)
- - 😝 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
- - 👉 [Time to feel, 9gaggers...](http://9gag.com/gag/ap9yOAb)<!-- MEMES:END -->
+ - 6️⃣ [OSHA wins](http://9gag.com/gag/aoKBmrx)
+ - 😝 [Are they mad at me?](http://9gag.com/gag/aPgO68w)
+ - 👉 [Thanks dude](http://9gag.com/gag/aA0nBAE)<!-- MEMES:END -->
 
 --- 
 
