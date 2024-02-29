@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Haha](http://9gag.com/gag/ap9yyGM)
- - 😝 [Apparently he did it 7 times before he was caught](http://9gag.com/gag/aGEPKWX)
+ - 6️⃣ [Damn bringing the whole energy of the room to zero](http://9gag.com/gag/aRE5Y72)
+ - 😝 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
  - 👉 [Time to feel, 9gaggers...](http://9gag.com/gag/ap9yOAb)<!-- MEMES:END -->
 
 --- 
