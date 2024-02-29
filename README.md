@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
- - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
- - 👉 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)<!-- MEMES:END -->
+ - 6️⃣ [Good](http://9gag.com/gag/amADNQy)
+ - 😝 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
+ - 👉 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)<!-- MEMES:END -->
 
 --- 
 
