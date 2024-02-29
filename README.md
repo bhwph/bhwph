@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good](http://9gag.com/gag/amADNQy)
- - 😝 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
- - 👉 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)<!-- MEMES:END -->
+ - 6️⃣ [This last blurry embrace before the unending darkness engulfs us!](http://9gag.com/gag/aOx6qeE)
+ - 😝 [That&#39;s some serious escalation from hamas](http://9gag.com/gag/aL1qRXx)
+ - 👉 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)<!-- MEMES:END -->
 
 --- 
 
