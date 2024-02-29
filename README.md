@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brave launches its AI-powered assistant Leo, which can create real-time summaries of webpages or videos, generate long form content, and more, on Android &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240229/p22#a240229p22)
- - [Microsoft launches a Copilot for Finance in public preview; the chatbot can perform some common role-specific actions in Excel and Outlook &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240229/p21#a240229p21)
- - [Google revives its 360-degree Photo Sphere mode on older Pixel phones](https://www.androidauthority.com/google-camera-photo-sphere-revived-3421397/)<!-- TECH:END -->
+ - [Final Fantasy VII Rebirth: all the news and updates](https://www.theverge.com/24078609/final-fantasy-7-rebirth-news-updates-trailers)
+ - [Logitech G535 Lightspeed just $1 off its all-time low price](https://www.androidauthority.com/logitech-gaming-headset-deals-3421488/)
+ - [Final Fantasy VII Rebirth’s creators want you to embrace the stress](https://www.theverge.com/2024/2/29/24086758/final-fantasy-vii-rebirth-interview-naoki-hamaguchi-yoshinori-kitase)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
