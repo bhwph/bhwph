@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian-speaking LockBit threatens to release Trump case documents in Fulton County Court that &quot;could affect the upcoming US election&quot; unless a ransom is paid &lpar;Davey Winder/Forbes&rpar;](http://www.techmeme.com/240229/p13#a240229p13)
- - [Apple IDs may be renamed &#39;Apple Accounts&#39;  by the end of 2024](https://appleinsider.com/articles/24/02/29/apple-ids-may-be-renamed-apple-accounts-by-the-end-of-2024?utm_medium=rss)
- - [The cheapest countries to buy an Xbox Series X](https://www.androidauthority.com/cheapest-place-to-buy-xbox-series-x-3421086/)<!-- TECH:END -->
+ - [Apple&#39;s Self Service Repair expanding to M3 Macs](https://appleinsider.com/articles/24/02/29/apples-self-service-repair-expanding-to-m3-macs?utm_medium=rss)
+ - [Humane AI Pin first impressions: Fascinating or impractical?](https://www.androidauthority.com/humane-ai-pin-first-impressions-3420702/)
+ - [12 Best Instant Cameras &lpar;2024&rpar;: Instax, Lomography, Polaroid](https://www.wired.com/gallery/best-instant-cameras/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
