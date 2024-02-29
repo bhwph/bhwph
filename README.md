@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitter Banned Runescape&#39;s Account Because It Thought An 8-Year-Old Created It](https://kotaku.com/runescape-jagex-twitter-ban-kid-1851295139)
- - [I Thought This Final Fantasy VII Character Had Big Goat Ears For Decades](https://kotaku.com/final-fantasy-7-aerith-bow-character-model-1851295115)
- - [59 Days Into 2024 And 8,100+ Video Game Layoffs Have Been Announced](https://kotaku.com/game-industry-layoffs-how-many-2024-unity-twitch-1851155818)<!-- GAME:END -->
+ - [Arrowhead CEO says the &#39;live service&#39; aspect of Helldivers 2 has to be secondary to delivering a &#39;full experience&#39; for $40: &#39;We view ourselves as a live service game because it&#39;s unfair to say anything else&#39;](https://www.pcgamer.com/arrowhead-ceo-says-the-live-service-aspect-of-helldivers-2-has-to-be-secondary-to-delivering-a-full-experience-for-dollar40-we-view-ourselves-as-a-live-service-game-because-its-unfair-to-say-anything-else)
+ - [Respawn&#39;s Star Wars FPS has been cancelled, Battlefield campaign studio Ridgeline Games is being closed](https://www.pcgamer.com/respawns-star-wars-fps-has-been-cancelled-battlefield-campaign-studio-ridgeline-games-is-being-closed)
+ - [&#39;We have an actual person with the title of Game Master&#39;: A single Helldivers 2 dev named Joel is pulling the strings on its galactic war like an all-powerful D&amp;D dungeon master, war will become &#39;more and more sophisticated over time&#39;](https://www.pcgamer.com/we-have-an-actual-person-with-the-title-of-game-master-a-single-helldivers-2-dev-named-joel-is-pulling-the-strings-on-its-galactic-war-like-an-all-powerful-dandd-dungeon-master-war-will-become-more-and-more-sophisticated-over-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
