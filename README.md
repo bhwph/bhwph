@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Pornhub Chatbot Stopped Millions From Searching for Child Abuse Videos](https://www.wired.com/story/pornhub-chatbot-csam-help/)
- - [Samsung could launch the Galaxy Z Fold 6 and Flip 6 earlier than expected](https://www.androidauthority.com/samsung-galaxy-z-fold-6-flip-6-july-launch-leak-3421147/)
- - [Machine learning vs AI vs deep learning: The differences explained](https://www.androidauthority.com/machine-learning-vs-ai-vs-deep-learning-3420062/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)
+ - [The White House Warns Cars Made in China Could Unleash Chaos on US Highways](https://www.wired.com/story/china-cars-national-security-threat-investigation/)
+ - [Now it’s the Galaxy Z Flip 6’s turn to leak in unofficial renders](https://www.theverge.com/2024/2/29/24086434/samsung-galaxy-z-flip-6-leaked-renders-onleaks-thickness-specs-cameras)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
