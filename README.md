@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung aims to make Galaxy Ring compatible with other Android phones](https://www.androidauthority.com/galaxy-ring-android-phones-3421510/)
- - [GitHub enables push protection by default for all public repositories to prevent accidental leaks of secrets like access tokens and API keys when pushing code &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240229/p28#a240229p28)
- - [Setapp is opening its subscription-only iOS app store](https://www.theverge.com/2024/2/29/24086792/setapp-subscription-only-ios-app-store)<!-- TECH:END -->
+ - [Google’s Deal With StackOverflow Is the Latest Proof That AI Giants Will Pay for Data](https://www.wired.com/story/google-deal-stackoverflow-ai-giants-pay-for-data/)
+ - [Here’s your first look at Tron: Ares, premiering in 2025](https://www.theverge.com/2024/2/29/24087003/tron-ares-first-image-2025-release-date)
+ - [Android phones now double as webcams via Microsoft’s Phone Link app](https://www.androidauthority.com/android-phone-webcam-phone-link-3421537/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
