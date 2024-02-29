@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Helldivers 2 CEO describes the &#39;War Room&#39; atmosphere on launch day, as a server-breaking tidal wave of unexpected divers came flooding in: &#39;We saw the graph, just—players rising and rising&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-ceo-describes-the-war-room-atmosphere-on-launch-day-as-a-server-breaking-tidal-wave-of-unexpected-divers-came-flooding-in-we-saw-the-graph-justplayers-rising-and-rising)
  - [IBM&#39;s AI assisted SSD gives the middle finger to ransomware attackers](https://www.pcgamer.com/ibms-ai-assisted-ssd-gives-the-middle-finger-to-ransomware-attackers)
- - [Final Fantasy VII Rebirth: Should You Focus On Just The Main Story?](https://kotaku.com/final-fantasy-7-ff7-main-story-rebirth-open-world-1851295214)
- - [Does Aerith Die In Final Fantasy VII Rebirth, Explained](https://kotaku.com/final-fantasy-7-rebirth-does-aerith-die-live-sephiroth-1851287690)<!-- GAME:END -->
+ - [Final Fantasy VII Rebirth: Should You Focus On Just The Main Story?](https://kotaku.com/final-fantasy-7-ff7-main-story-rebirth-open-world-1851295214)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
