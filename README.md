@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [OSHA wins](http://9gag.com/gag/aoKBmrx)
- - 😝 [Are they mad at me?](http://9gag.com/gag/aPgO68w)
- - 👉 [Thanks dude](http://9gag.com/gag/aA0nBAE)<!-- MEMES:END -->
+ - 6️⃣ [\u2026..](http://9gag.com/gag/a6qvAAe)
+ - 😝 [You gonna make me..](http://9gag.com/gag/aBdq70N)
+ - 👉 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)<!-- MEMES:END -->
 
 --- 
 
