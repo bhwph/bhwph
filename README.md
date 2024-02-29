@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imagine smoke this](http://9gag.com/gag/aeQovv5)
- - 😝 [Ah sweet man made horror beyond my comprehension](http://9gag.com/gag/ay2gyep)
- - 👉 [The car slammed into a mother and daughter, k**ling them both instantly. A few hours prior he also k**led 2 people. He was then released on bail the next day. Can you guess why?](http://9gag.com/gag/az2NWoK)<!-- MEMES:END -->
+ - 6️⃣ [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 😝 [Juicy](http://9gag.com/gag/aRE5bv7)
+ - 👉 [Ah sweet man made horror beyond my comprehension](http://9gag.com/gag/ay2gyep)<!-- MEMES:END -->
 
 --- 
 
