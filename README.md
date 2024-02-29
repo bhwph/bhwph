@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role’s next game, Daggerheart, will be available to download for free](https://www.polygon.com/tabletop-games/24086481/critical-role-daggerheart-free-open-beta)
- - [Gran Turismo 7’s 1.43 update features three new events, new cars, and Café Menu](https://blog.playstation.com/2024/02/29/gran-turismo-7s-1-43-update-features-three-new-events-new-cars-and-cafe-menu/)
- - [Chocobos are the ultimate stress test for Final Fantasy 7 Rebirth’s open world](https://www.polygon.com/24084882/chocobos-final-fantasy-7-rebirth-open-world)<!-- GAME:END -->
+ - [Ken Levine&#39;s Judas has a little sister, and her name is Void Bastards](https://www.pcgamer.com/games/fps/ken-levines-judas-has-a-little-sister-and-her-name-is-void-bastards)
+ - [Free Play Days – Age of Wonders 4, Gangs of Sherwood and Deceive Inc.](https://news.xbox.com/en-us/2024/02/29/free-play-days-age-of-wonders-4-gangs-of-sherwood-and-deceive-inc/)
+ - [Not sure what movie to watch this weekend? Leave a comment, we’ll help](https://www.polygon.com/entertainment/2024/2/29/24084743/best-movies-watch-this-weekend-best-recommendations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
