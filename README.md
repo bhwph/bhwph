@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ken Levine&#39;s Judas has a little sister, and her name is Void Bastards](https://www.pcgamer.com/games/fps/ken-levines-judas-has-a-little-sister-and-her-name-is-void-bastards)
- - [Free Play Days – Age of Wonders 4, Gangs of Sherwood and Deceive Inc.](https://news.xbox.com/en-us/2024/02/29/free-play-days-age-of-wonders-4-gangs-of-sherwood-and-deceive-inc/)
- - [Not sure what movie to watch this weekend? Leave a comment, we’ll help](https://www.polygon.com/entertainment/2024/2/29/24084743/best-movies-watch-this-weekend-best-recommendations)<!-- GAME:END -->
+ - [Altered TCG kills it with kindness, shatters records on Kickstarter with nearly $7 million](https://www.polygon.com/tabletop-games/24086667/altered-tcg-kickstarter-campaign-record-most-funded-tcg)
+ - [Deceive Inc. Operation Overhaul – Free Weekend Live Now](https://news.xbox.com/en-us/2024/02/29/deceive-inc-operation-overhaul-free-weekend-live-now/)
+ - [One of D&amp;D’s greatest treasures will soon be shared with the world](https://www.polygon.com/24084654/dnd-dungeons-dragons-original-manuscript)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
