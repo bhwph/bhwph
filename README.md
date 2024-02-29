@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [William Gibson&#39;s &#39;Neuromancer&#39; is coming to Apple TV+](https://appleinsider.com/articles/24/02/28/william-gibsons-neuromancer-is-coming-to-apple-tv?utm_medium=rss)
- - [iPhone 17 series to get a long-awaited display upgrade, report claims](https://www.androidauthority.com/iphone-17-series-ltpo-3421061/)
- - [HP reports Q1 revenue down 4.4% YoY to $13.19B, vs. $13.56B est., Personal Systems revenue down 4% YoY to $8.8B, and Printing revenue down 5% YoY to $4.4B &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p35#a240228p35)<!-- TECH:END -->
+ - [Sources detail Apple&#39;s $10B+ car project: years of disagreements on whether it should be a self-driving car or just an EV, talks with Musk on buying Tesla, more &lpar;New York Times&rpar;](http://www.techmeme.com/240228/p40#a240228p40)
+ - [Doc: EU regulators are probing whether Microsoft is preventing its customers from buying software that competes with its Entra ID identity management service &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240228/p39#a240228p39)
+ - [CNET&#39;s Best Tested Bread Machines of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-bread-machines/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
