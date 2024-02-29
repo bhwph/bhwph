@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Altered TCG kills it with kindness, shatters records on Kickstarter with nearly $7 million](https://www.polygon.com/tabletop-games/24086667/altered-tcg-kickstarter-campaign-record-most-funded-tcg)
- - [Deceive Inc. Operation Overhaul – Free Weekend Live Now](https://news.xbox.com/en-us/2024/02/29/deceive-inc-operation-overhaul-free-weekend-live-now/)
- - [One of D&amp;D’s greatest treasures will soon be shared with the world](https://www.polygon.com/24084654/dnd-dungeons-dragons-original-manuscript)<!-- GAME:END -->
+ - [It’s time to upgrade your PS5, PC, or Steam Deck SSD. We’ve found the best deals](https://www.polygon.com/24084875/best-ssd-deals-gaming-ps5-pc-steam-deck)
+ - [The best PC gaming monitor of 2024 is here &lpar;sorry to your wallet&rpar;](https://www.polygon.com/24085761/best-pc-gaming-monitor-2024-review-oled-alienware)
+ - [Post-credit scenes, sequel teases, and everything else you need to know about Dune 2](https://www.polygon.com/23709799/dune-2-post-credits-scenes-release-date-cast-news-characters-story-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
