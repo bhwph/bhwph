@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Damn bringing the whole energy of the room to zero](http://9gag.com/gag/aRE5Y72)
- - 😝 [\u2026..](http://9gag.com/gag/a6qvAAe)
- - 👉 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)<!-- MEMES:END -->
+ - 6️⃣ [Haha](http://9gag.com/gag/ap9yyGM)
+ - 😝 [Apparently he did it 7 times before he was caught](http://9gag.com/gag/aGEPKWX)
+ - 👉 [Time to feel, 9gaggers...](http://9gag.com/gag/ap9yOAb)<!-- MEMES:END -->
 
 --- 
 
