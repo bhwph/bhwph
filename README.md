@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)
- - [The White House Warns Cars Made in China Could Unleash Chaos on US Highways](https://www.wired.com/story/china-cars-national-security-threat-investigation/)
- - [Now it’s the Galaxy Z Flip 6’s turn to leak in unofficial renders](https://www.theverge.com/2024/2/29/24086434/samsung-galaxy-z-flip-6-leaked-renders-onleaks-thickness-specs-cameras)<!-- TECH:END -->
+ - [Russian-speaking LockBit threatens to release Trump case documents in Fulton County Court that &quot;could affect the upcoming US election&quot; unless a ransom is paid &lpar;Davey Winder/Forbes&rpar;](http://www.techmeme.com/240229/p13#a240229p13)
+ - [Apple IDs may be renamed &#39;Apple Accounts&#39;  by the end of 2024](https://appleinsider.com/articles/24/02/29/apple-ids-may-be-renamed-apple-accounts-by-the-end-of-2024?utm_medium=rss)
+ - [The cheapest countries to buy an Xbox Series X](https://www.androidauthority.com/cheapest-place-to-buy-xbox-series-x-3421086/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
