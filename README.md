@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Several Steam games changed names to Helldivers 2 and Palworld to scam players](https://www.pcgamer.com/games/third-person-shooter/several-steam-games-changed-names-to-helldivers-2-and-palworld-to-scam-players)
- - [Preparing for Final Fantasy VII Rebirth – Who is Zack Fair and what’s happening with the timeline?](https://blog.playstation.com/2024/03/01/preparing-for-final-fantasy-vii-rebirth-who-is-zack-fair-and-whats-happening-with-the-timeline/)
- - [How to Explore the Wilderness of Expeditions: A Mudrunner Game](https://news.xbox.com/en-us/2024/03/01/expeditions-mudrunner-guide/)<!-- GAME:END -->
+ - [Helldivers 2 Players Scammed By Fake Steam Listings](https://kotaku.com/helldivers-2-scams-steam-1851300648)
+ - [Come With Us if You Want to Live – New Games &amp; ’80s Throwbacks Dominate Nacon Connect 2024](https://news.xbox.com/en-us/2024/03/01/nacon-connect-recap-xbox-2024/)
+ - [The weirdo detective is making a comeback](https://www.polygon.com/24086798/elsbeth-review-weird-detectives-love-em)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
