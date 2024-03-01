@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple stresses security risks of complying with EU&#39;s Digital Markets Act](https://appleinsider.com/articles/24/03/01/apple-stresses-security-risks-of-complying-with-eus-digital-markets-act?utm_medium=rss)
- - [&#39;Dune: Part Two&#39; Fulfills the Prophecy of &#39;Dune&#39;](https://www.wired.com/story/review-dune-part-two-fulfills-the-prophecy-of-dune/)
- - [Flash sale drops Microsoft Office to just $29.97 &lpar;86% off&rpar;](https://www.androidauthority.com/microsoft-office-2019-deal-3421556/)<!-- TECH:END -->
+ - [Apple Watch Ultra is not the only micro LED project Apple has cancelled](https://appleinsider.com/articles/24/03/01/apple-watch-ultra-is-not-the-only-micro-led-project-apple-has-cancelled?utm_medium=rss)
+ - [Did you know: The biggest name in Android used to sell noodles](https://www.androidauthority.com/did-you-know-samsung-history-noodles-3420512/)
+ - [The Mindblowing Experience of a Chatbot That Answers Instantly](https://www.wired.com/story/plaintext-groq-mindblowing-chatbot-answers-instantly/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
