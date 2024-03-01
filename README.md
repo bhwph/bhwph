@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Deal With StackOverflow Is the Latest Proof That AI Giants Will Pay for Data](https://www.wired.com/story/google-deal-stackoverflow-ai-giants-pay-for-data/)
- - [Here’s your first look at Tron: Ares, premiering in 2025](https://www.theverge.com/2024/2/29/24087003/tron-ares-first-image-2025-release-date)
- - [Android phones now double as webcams via Microsoft’s Phone Link app](https://www.androidauthority.com/android-phone-webcam-phone-link-3421537/)<!-- TECH:END -->
+ - [UnitedHealth says Blackcat is the reason healthcare providers are going unpaid](https://www.theverge.com/2024/2/29/24087105/united-health-black-cat-ransom-ware-hospitals-payments)
+ - [Best Electric SUVs for 2024     - CNET](https://www.cnet.com/roadshow/news/best-electric-suv/#ftag=CAD590a51e)
+ - [The UK’s GPS Tagging of Migrants Has Been Ruled Illegal](https://www.wired.com/story/gps-ankle-tags-uk-privacy-illegal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
