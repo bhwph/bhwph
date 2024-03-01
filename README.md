@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I see what you did there.](http://9gag.com/gag/a1P4A78)
- - 😝 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
- - 👉 [Rogue HD](http://9gag.com/gag/aMEp1QX)<!-- MEMES:END -->
+ - 6️⃣ [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
+ - 😝 [Please don&#39;t judge me, inflation is hitting hard :&#39;&lpar;](http://9gag.com/gag/a2KQEvY)
+ - 👉 [A ball expert](http://9gag.com/gag/a3ZodLv)<!-- MEMES:END -->
 
 --- 
 
