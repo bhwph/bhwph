@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GitHub is under automated attack by millions of cloned repositories filled with malicious code](https://www.pcgamer.com/software/security/github-is-under-automated-attack-by-millions-of-cloned-repositories-filled-with-malicious-code)
- - [Helldivers 2 boss says the studio&#39;s going for Starship Troopers &#39;without the plot armour&#39;, and nothing captures that better than your frantic near-death videos](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-boss-says-the-studios-going-for-starship-troopers-without-the-plot-armour-and-nothing-captures-that-better-than-your-frantic-near-death-videos)
- - [All Genshin Impact codes from the 4.5 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-4-5-livestream)<!-- GAME:END -->
+ - [Several Steam games changed names to Helldivers 2 and Palworld to scam players](https://www.pcgamer.com/games/third-person-shooter/several-steam-games-changed-names-to-helldivers-2-and-palworld-to-scam-players)
+ - [Preparing for Final Fantasy VII Rebirth – Who is Zack Fair and what’s happening with the timeline?](https://blog.playstation.com/2024/03/01/preparing-for-final-fantasy-vii-rebirth-who-is-zack-fair-and-whats-happening-with-the-timeline/)
+ - [How to Explore the Wilderness of Expeditions: A Mudrunner Game](https://news.xbox.com/en-us/2024/03/01/expeditions-mudrunner-guide/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
