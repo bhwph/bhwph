@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I harnessed the power of deceit to conquer Hell in Solium Infernum, but I&#39;m still not sure what I&#39;m doing](https://www.pcgamer.com/games/strategy/i-harnessed-the-power-of-deceit-to-conquer-hell-in-solium-infernum-but-im-still-not-sure-what-im-doing)
- - [Our Favorite Cosplay From Katsucon 2024](https://kotaku.com/katsucon-2024-best-cosplay-final-fantasy-elden-ring-1851297180)
- - [Helldivers 2 players become part Automaton by mapping stratagems to a Stream Deck](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-become-part-automaton-by-mapping-stratagems-to-a-stream-deck)<!-- GAME:END -->
+ - [We&#39;re riding shotgun with Pacific Drive to give away a free copy of the game and a carload of great gear](https://www.pcgamer.com/games/survival-crafting/were-riding-shotgun-with-pacific-drive-to-give-away-a-free-copy-of-the-game-and-a-carload-of-great-gear)
+ - [It is once again time to boot up Vampire Survivors thanks to a space-themed free update and a Final Fantasy parody trailer teasing more to come](https://www.pcgamer.com/games/roguelike/it-is-once-again-time-to-boot-up-vampire-survivors-thanks-to-a-space-themed-free-update-and-a-final-fantasy-parody-trailer-teasing-more-to-come)
+ - [Diablo 4&#39;s upcoming loot rework will be so massive Blizzard will let you playtest it early in its first PTR](https://www.pcgamer.com/games/action/diablo-4s-upcoming-loot-rework-will-be-so-massive-blizzard-will-let-you-playtest-it-early-in-its-first-ptr)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
