@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Hello darkness my old friend...](http://9gag.com/gag/aNwyeD3)
- - 😝 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
- - 👉 [I see what you did there.](http://9gag.com/gag/a1P4A78)<!-- MEMES:END -->
+ - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
+ - 👉 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)<!-- MEMES:END -->
 
 --- 
 
