@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk sues OpenAI and Sam Altman, accusing them of betraying an agreement from OpenAI&#39;s founding to develop AI toward the &quot;benefit of humanity&quot; over profits &lpar;Candace Cheung/Courthouse News Service&rpar;](http://www.techmeme.com/240301/p4#a240301p4)
- - [Hypocrisy much? Google is silently blocking RCS on rooted Android phones and custom ROMs](https://www.androidauthority.com/google-silently-blocking-rcs-rooted-android-phones-custom-roms-3421652/)
- - [Australia&#39;s PM threatens action against Meta after it said it would stop paying media companies; News Corp says it threatens the viability of small media groups &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/240301/p3#a240301p3)<!-- TECH:END -->
+ - [Apple stresses security risks of complying with EU&#39;s Digital Markets Act](https://appleinsider.com/articles/24/03/01/apple-stresses-security-risks-of-complying-with-eus-digital-markets-act?utm_medium=rss)
+ - [&#39;Dune: Part Two&#39; Fulfills the Prophecy of &#39;Dune&#39;](https://www.wired.com/story/review-dune-part-two-fulfills-the-prophecy-of-dune/)
+ - [Flash sale drops Microsoft Office to just $29.97 &lpar;86% off&rpar;](https://www.androidauthority.com/microsoft-office-2019-deal-3421556/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
