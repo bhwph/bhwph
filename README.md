@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy is blowing out Apple&#39;s MacBook Pro &lpar;24GB RAM, 1TB SSD&rpar; at $1,399](https://appleinsider.com/articles/24/03/01/best-buy-is-blowing-out-apples-macbook-pro-24gb-ram-1tb-ssd-at-1399?utm_medium=rss)
- - [A Leap Year Glitch Broke Self-Pay Gas Station Pumps Across New Zealand](https://www.wired.com/story/leap-year-glitch-gas-pumps-broken-new-zealand/)
- - [11 Best Tents &lpar;2024&rpar;: Backpacking, Family, and Ultralight](https://www.wired.com/gallery/best-camping-tents/)<!-- TECH:END -->
+ - [Netflix’s Spaceman is slow, sad sci-fi — with a lovable space spider](https://www.theverge.com/24086859/spaceman-movie-review-netflix-adam-sandler)
+ - [You can pick up Apple’s iPad Magic Keyboard for under $200 right now](https://www.theverge.com/2024/3/1/24087531/apple-ipad-magic-keyboard-dreamebot-l20-ultra-robot-vacuum-philips-hue-sale-deal)
+ - [An analysis of Musk&#39;s claims in his OpenAI lawsuit, which seeks to open up GPT-4&#39;s source code, end Microsoft exclusivity, and stop OpenAI&#39;s for-profit work &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/240301/p18#a240301p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
