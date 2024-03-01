@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Good Climate Solutions Need Good Policy—and AI Can Help With That](https://www.wired.com/story/climate-policy-radar-michal-nachmany-data-ai/)
- - [The data center industry is struggling to meet its self-imposed sustainability goals as AI&#39;s booming growth increases electricity demand and strains power grids &lpar;Patrick Sisson/New York Times&rpar;](http://www.techmeme.com/240301/p1#a240301p1)
- - [Spain&#39;s Tragic Tower Block Fire Exposes the World&#39;s Failing Fire Regulations](https://www.wired.com/story/valencia-tower-fire-grenfell-cladding-siding/)<!-- TECH:END -->
+ - [Elon Musk sues OpenAI and Sam Altman, accusing them of betraying an agreement from OpenAI&#39;s founding to develop AI toward the &quot;benefit of humanity&quot; over profits &lpar;Candace Cheung/Courthouse News Service&rpar;](http://www.techmeme.com/240301/p4#a240301p4)
+ - [Hypocrisy much? Google is silently blocking RCS on rooted Android phones and custom ROMs](https://www.androidauthority.com/google-silently-blocking-rcs-rooted-android-phones-custom-roms-3421652/)
+ - [Australia&#39;s PM threatens action against Meta after it said it would stop paying media companies; News Corp says it threatens the viability of small media groups &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/240301/p3#a240301p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
