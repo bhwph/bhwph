@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra is not the only micro LED project Apple has cancelled](https://appleinsider.com/articles/24/03/01/apple-watch-ultra-is-not-the-only-micro-led-project-apple-has-cancelled?utm_medium=rss)
- - [Did you know: The biggest name in Android used to sell noodles](https://www.androidauthority.com/did-you-know-samsung-history-noodles-3420512/)
- - [The Mindblowing Experience of a Chatbot That Answers Instantly](https://www.wired.com/story/plaintext-groq-mindblowing-chatbot-answers-instantly/)<!-- TECH:END -->
+ - [New York City is testing public e-bike charging stations for delivery workers](https://www.theverge.com/2024/3/1/24087494/new-york-city-ebike-public-charging-stations-delivery-workers-house-fires)
+ - [After criticism, Apple says iOS 17.4 won&#39;t remove Home Screen web apps in the EU, which will continue to be built on WebKit and its security architecture &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240301/p13#a240301p13)
+ - [Spotify and Epic criticize Apple’s iOS changes as ‘a mockery of the DMA’](https://www.theverge.com/2024/3/1/24087513/spotify-epic-european-commission-letter-apple-dma)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
