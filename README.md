@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s Spaceman is slow, sad sci-fi — with a lovable space spider](https://www.theverge.com/24086859/spaceman-movie-review-netflix-adam-sandler)
- - [You can pick up Apple’s iPad Magic Keyboard for under $200 right now](https://www.theverge.com/2024/3/1/24087531/apple-ipad-magic-keyboard-dreamebot-l20-ultra-robot-vacuum-philips-hue-sale-deal)
- - [An analysis of Musk&#39;s claims in his OpenAI lawsuit, which seeks to open up GPT-4&#39;s source code, end Microsoft exclusivity, and stop OpenAI&#39;s for-profit work &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/240301/p18#a240301p18)<!-- TECH:END -->
+ - [Legal experts say Musk&#39;s lawsuit against OpenAI is a stretch because handshakes and expectations are hard to enforce, but it does make a strong policy argument &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/240301/p22#a240301p22)
+ - [Meta says it’s deleting all Oculus accounts at the end of the month](https://www.theverge.com/2024/3/1/24087855/meta-delete-oculus-accounts)
+ - [Balatro bumped from some console storefronts due to ratings change](https://www.theverge.com/2024/3/1/24087723/balatro-console-storefront-removal-steam-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
