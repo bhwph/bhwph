@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York City is testing public e-bike charging stations for delivery workers](https://www.theverge.com/2024/3/1/24087494/new-york-city-ebike-public-charging-stations-delivery-workers-house-fires)
- - [After criticism, Apple says iOS 17.4 won&#39;t remove Home Screen web apps in the EU, which will continue to be built on WebKit and its security architecture &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240301/p13#a240301p13)
- - [Spotify and Epic criticize Apple’s iOS changes as ‘a mockery of the DMA’](https://www.theverge.com/2024/3/1/24087513/spotify-epic-european-commission-letter-apple-dma)<!-- TECH:END -->
+ - [Best Buy is blowing out Apple&#39;s MacBook Pro &lpar;24GB RAM, 1TB SSD&rpar; at $1,399](https://appleinsider.com/articles/24/03/01/best-buy-is-blowing-out-apples-macbook-pro-24gb-ram-1tb-ssd-at-1399?utm_medium=rss)
+ - [A Leap Year Glitch Broke Self-Pay Gas Station Pumps Across New Zealand](https://www.wired.com/story/leap-year-glitch-gas-pumps-broken-new-zealand/)
+ - [11 Best Tents &lpar;2024&rpar;: Backpacking, Family, and Ultralight](https://www.wired.com/gallery/best-camping-tents/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
