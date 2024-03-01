@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Are they mad at me?](http://9gag.com/gag/aPgO68w)
- - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
- - 👉 [A ball expert](http://9gag.com/gag/a3ZodLv)<!-- MEMES:END -->
+ - 6️⃣ [I see what you did there.](http://9gag.com/gag/a1P4A78)
+ - 😝 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
+ - 👉 [Rogue HD](http://9gag.com/gag/aMEp1QX)<!-- MEMES:END -->
 
 --- 
 
