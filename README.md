@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune 2 expands Frank Herbert’s lore to give the Harkonnens their due](https://www.polygon.com/24087644/dune-2-black-and-white-harkonnen-arena-scene-infrared-ir-cameras-part-two)
- - [That Terrible Wonka Event Has Become A Video Game Parody Gold Mine](https://kotaku.com/willy-wonka-glasgow-event-fortnite-animal-crossing-sims-1851301324)
- - [Yes, you should play Dragon’s Dogma before the sequel launches. Here’s where to get a deal](https://www.polygon.com/24070666/dragons-dogma-dark-arisen-deal-steam-ps-xbox-switch)<!-- GAME:END -->
+ - [The Strangers remake already looks scarier than the original](https://www.polygon.com/24087759/strangers-remake-chapter-1-release-date-trailer-sequels-original)
+ - [Sims 4 players hate its obtrusive new store button so much that a modder has already removed it](https://www.pcgamer.com/games/the-sims/sims-4-players-hate-its-obtrusive-new-store-button-so-much-that-a-modder-has-already-removed-it)
+ - [The best weapon in a Helldivers arsenal is friendship](https://www.polygon.com/24084721/helldivers-2-impressions-community-doing-my-part)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
