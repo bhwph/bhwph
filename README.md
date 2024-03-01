@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 5 Best Multivitamins for Men of 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)
- - [Best Camping Cookware for Your Summer Adventures     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-camping-cooking-gear/#ftag=CAD590a51e)
- - [Facebook will remove its News tab, and stop paying publishers for news](https://www.theverge.com/2024/2/29/24087220/facebook-news-tab-united-states-australia)<!-- TECH:END -->
+ - [Good Climate Solutions Need Good Policy—and AI Can Help With That](https://www.wired.com/story/climate-policy-radar-michal-nachmany-data-ai/)
+ - [The data center industry is struggling to meet its self-imposed sustainability goals as AI&#39;s booming growth increases electricity demand and strains power grids &lpar;Patrick Sisson/New York Times&rpar;](http://www.techmeme.com/240301/p1#a240301p1)
+ - [Spain&#39;s Tragic Tower Block Fire Exposes the World&#39;s Failing Fire Regulations](https://www.wired.com/story/valencia-tower-fire-grenfell-cladding-siding/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
