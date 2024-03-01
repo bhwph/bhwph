@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deal: save 60% on a lifetime Rosetta Stone subscription](https://appleinsider.com/articles/24/03/01/flash-deal-save-60-on-a-lifetime-rosetta-stone-subscription?utm_medium=rss)
- - [Meta says it plans to deprecate the Facebook News tab in the US and Australia in early April 2024 and won&#39;t sign new deals for news content in those countries &lpar;Bloomberg&rpar;](http://www.techmeme.com/240229/p33#a240229p33)
- - [An investigation into ClothOff, an app being used to make deepfake porn images of underage girls, finds a brother and sister in Belarus are linked to the app &lpar;The Guardian&rpar;](http://www.techmeme.com/240229/p32#a240229p32)<!-- TECH:END -->
+ - [Facebook will remove its News tab, and stop paying publishers for news](https://www.theverge.com/2024/2/29/24087220/facebook-news-tab-united-states-australia)
+ - [CNET Isn&#39;t Recommending Wyze Home Security Right Now: Here&#39;s Why     - CNET](https://www.cnet.com/home/security/why-weve-removed-our-wyze-home-security-recommendations-at-cnet/#ftag=CAD590a51e)
+ - [Best Cordless Drill of 2024     - CNET](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
