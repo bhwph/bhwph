@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Please don&#39;t judge me, inflation is hitting hard :&#39;&lpar;](http://9gag.com/gag/a2KQEvY)
+ - 6️⃣ [Feels good](http://9gag.com/gag/a5XLNZg)
  - 😝 [A ball expert](http://9gag.com/gag/a3ZodLv)
- - 👉 [In Pakistan, a crowd tries to lynch and calls for beheading a woman for wearing a dress with verses from the Koran The police, with the help of merchants, intervened to protect her from the crowd&#39;s calls to behead her.](http://9gag.com/gag/ay2y75p)<!-- MEMES:END -->
+ - 👉 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)<!-- MEMES:END -->
 
 --- 
 
