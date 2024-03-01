@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good](http://9gag.com/gag/amADNQy)
- - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
- - 👉 [And it gets more painful every day for everyone who hasn&#39;t heard](http://9gag.com/gag/a7qj5RA)<!-- MEMES:END -->
+ - 6️⃣ [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
+ - 😝 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
+ - 👉 [I see what you did there.](http://9gag.com/gag/a1P4A78)<!-- MEMES:END -->
 
 --- 
 
