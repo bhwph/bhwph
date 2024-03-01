@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Navalny Funeral. Seems not all Russians are numb!](http://9gag.com/gag/abvjyp8)
- - 😝 [People in Russia chanting `Putin is a murderer`](http://9gag.com/gag/az26EqK)
- - 👉 [Jesus christ it&#39;s jason Bourne&#39;s dog](http://9gag.com/gag/a8qrbwp)<!-- MEMES:END -->
+ - 6️⃣ [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
+ - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
+ - 👉 [A ball expert](http://9gag.com/gag/a3ZodLv)<!-- MEMES:END -->
 
 --- 
 
