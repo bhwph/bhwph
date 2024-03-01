@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 Players Scammed By Fake Steam Listings](https://kotaku.com/helldivers-2-scams-steam-1851300648)
- - [Come With Us if You Want to Live – New Games &amp; ’80s Throwbacks Dominate Nacon Connect 2024](https://news.xbox.com/en-us/2024/03/01/nacon-connect-recap-xbox-2024/)
- - [The weirdo detective is making a comeback](https://www.polygon.com/24086798/elsbeth-review-weird-detectives-love-em)<!-- GAME:END -->
+ - [Dune 2 expands Frank Herbert’s lore to give the Harkonnens their due](https://www.polygon.com/24087644/dune-2-black-and-white-harkonnen-arena-scene-infrared-ir-cameras-part-two)
+ - [That Terrible Wonka Event Has Become A Video Game Parody Gold Mine](https://kotaku.com/willy-wonka-glasgow-event-fortnite-animal-crossing-sims-1851301324)
+ - [Yes, you should play Dragon’s Dogma before the sequel launches. Here’s where to get a deal](https://www.polygon.com/24070666/dragons-dogma-dark-arisen-deal-steam-ps-xbox-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
