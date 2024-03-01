@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Strangers remake already looks scarier than the original](https://www.polygon.com/24087759/strangers-remake-chapter-1-release-date-trailer-sequels-original)
- - [Sims 4 players hate its obtrusive new store button so much that a modder has already removed it](https://www.pcgamer.com/games/the-sims/sims-4-players-hate-its-obtrusive-new-store-button-so-much-that-a-modder-has-already-removed-it)
- - [The best weapon in a Helldivers arsenal is friendship](https://www.polygon.com/24084721/helldivers-2-impressions-community-doing-my-part)<!-- GAME:END -->
+ - [Upcoming Retro-Inspired Car Combat Game Is Rad As Hell](https://kotaku.com/fumes-open-world-twisted-metal-car-combat-pc-demo-steam-1851302193)
+ - [How to beat Mohg, Lord of Blood, in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24087922/mohg-how-to-beat-boss-strategy)
+ - [How to access Elden Ring’s Shadow of the Erdtree DLC](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24087766/how-to-start-dlc-access-point-location-miquellas-cocoon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
