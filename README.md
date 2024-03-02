@@ -129,7 +129,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [A US judge says Google must face advertisers&#39; antitrust lawsuit, but dismisses some claims, including those focused on ad-buying tools used by large advertisers &lpar;Reuters&rpar;](http://www.techmeme.com/240301/p26#a240301p26)
  - [Filing: the US DOE settles with bitcoin miner Riot Platforms and an industry group, and agrees to cancel its mandatory survey of energy use by crypto miners &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240301/p25#a240301p25)
- - [California&#39;s regulator approves Waymo&#39;s proposal to expand its fared driverless robotaxi services to parts of Los Angeles, the San Francisco Peninsula, and more &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240301/p24#a240301p24)<!-- TECH:END -->
+ - [Odysseus Lunar Lander Sent a Farewell Photo of Earth: Now What?     - CNET](https://www.cnet.com/science/space/odysseus-lunar-lander-sent-a-farewell-photo-of-earth-now-what/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
