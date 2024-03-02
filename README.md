@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Upcoming Retro-Inspired Car Combat Game Is Rad As Hell](https://kotaku.com/fumes-open-world-twisted-metal-car-combat-pc-demo-steam-1851302193)
- - [How to beat Mohg, Lord of Blood, in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24087922/mohg-how-to-beat-boss-strategy)
- - [How to access Elden Ring’s Shadow of the Erdtree DLC](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24087766/how-to-start-dlc-access-point-location-miquellas-cocoon)<!-- GAME:END -->
+ - [Star Wars: Dark Forces&#39; box art showed a level that wasn&#39;t in the game: nearly 30 years later, we can finally play it thanks to the remaster](https://www.pcgamer.com/games/fps/star-wars-dark-forces-box-art-showed-a-level-that-wasnt-in-the-game-30-years-later-we-can-finally-play-it-thanks-to-the-remaster)
+ - [Poor Things, Aquaman 2, Netflix’s Spaceman, and every new movie to watch this weekend](https://www.polygon.com/2024/3/1/24083506/new-movies-watch-poor-things-aquaman-2-netflix-code-8-napoleon)
+ - [Kotaku’s Essential Guide to Final Fantasy VII Rebirth](https://kotaku.com/ff7-rebirth-guides-walkthrough-review-1851302235)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
