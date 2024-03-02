@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Companies Have a Plan to Kill Apps](https://www.wired.com/story/these-companies-have-a-plan-to-kill-apps/)
- - [How quick fixes and old code in systems compound technical debt and raise hacking risks, requiring an estimated $1.52T to fix and costing the US $2.41T per year &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240302/p5#a240302p5)
- - [Best of MWC 2024: AI, Wearables and Bending Phone Concepts That Amaze     - CNET](https://www.cnet.com/tech/mobile/best-of-mwc-2024-ai-wearables-and-bending-phone-concepts-that-amaze/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Did you know: Google’s original name was far from sexy](https://www.androidauthority.com/google-original-name-3421309/)
+ - [The Privacy Danger Lurking in Push Notifications](https://www.wired.com/story/push-notification-privacy-security-roundup/)
+ - [Halo’s latest episode showed us the best a Spartan could be](https://www.theverge.com/2024/3/2/24087962/halo-paramount-plus-episode-five-aleria)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
