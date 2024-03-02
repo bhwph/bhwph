@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Legal experts say Musk&#39;s lawsuit against OpenAI is a stretch because handshakes and expectations are hard to enforce, but it does make a strong policy argument &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/240301/p22#a240301p22)
- - [Meta says it’s deleting all Oculus accounts at the end of the month](https://www.theverge.com/2024/3/1/24087855/meta-delete-oculus-accounts)
- - [Balatro bumped from some console storefronts due to ratings change](https://www.theverge.com/2024/3/1/24087723/balatro-console-storefront-removal-steam-pc)<!-- TECH:END -->
+ - [Apple Car blues, Apple Ask, and Apple Vision Pro Experiences on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/01/apple-car-blues-apple-ask-and-apple-vision-pro-experiences-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Roblox says it hasn’t blocked Linux or Steam Deck, but it’s reportedly toast there](https://www.theverge.com/2024/3/1/24088114/roblox-linux-steam-deck-workarounds-wine-not-supported)
+ - [7 Great Deals on iPads and Accessories](https://www.wired.com/story/apple-ipad-and-accessory-deals-february-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
