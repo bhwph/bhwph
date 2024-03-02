@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week and all the latest app news](https://www.androidauthority.com/apps-weekly-523-3421420/)
- - [HP Wants to Rent You a Printer That It’ll Monitor at All Times](https://www.wired.com/story/hp-all-in-plan-printer-subscription-service/)
- - [Elon Musk&#39;s OpenAI lawsuit repeatedly cites a contentious paper by Microsoft&#39;s research lab, which said GPT-4 showed &quot;sparks&quot; of AGI, to argue that GPT-4 is AGI &lpar;New York Times&rpar;](http://www.techmeme.com/240302/p7#a240302p7)<!-- TECH:END -->
+ - [AMD is unable to release an open source HDMI 2.1 implementation after the HDMI Forum rejected its proposal; the forum closed public specification access in 2021 &lpar;Michael Larabel/Phoronix&rpar;](http://www.techmeme.com/240302/p8#a240302p8)
+ - [California gives Waymo the green light to expand robotaxi operations](https://www.theverge.com/2024/3/2/24088454/waymo-california-highway-expansion-los-angeles-bay-area)
+ - [March Offers Plenty of Streaming Fun, but You Don&#39;t Need Every Service     - CNET](https://www.cnet.com/tech/services-and-software/march-offers-plenty-of-fun-for-streaming-but-you-dont-need-every-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
