@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dive into the Dune: Adventures in the Imperium TTRPG for just $18](https://www.polygon.com/24087598/best-gaming-deals-dune-ttrpg-humble-bundle-nintendo-pokemon-deal-sale)
- - [Anime Awards 2024 names Jujutsu Kaisen season 2 Anime of the Year](https://www.polygon.com/anime/24084825/anime-awards-2024-winners-list-jujutsu-kaisen-demon-slayer-chainsaw-man)
- - [The best movies new to streaming this March](https://www.polygon.com/what-to-watch/2024/3/2/24083869/best-new-movies-netflix-amazon-prime-max-hulu-march-2024)<!-- GAME:END -->
+ - [FF7 Rebirth, Helldivers 2, And More Of The Week&#39;s Essential Tips](https://kotaku.com/kotaku-tips-guides-ff7-rebirth-helldivers-2-1851301152)
+ - [Painful Cuts At PlayStation, A Big Pokémon Reveal, And More Of The Week&#39;s Top News](https://kotaku.com/playstation-layoffs-embracer-pokemon-kojima-gaming-news-1851301151)
+ - [Dive into the Dune: Adventures in the Imperium TTRPG for just $18](https://www.polygon.com/24087598/best-gaming-deals-dune-ttrpg-humble-bundle-nintendo-pokemon-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
