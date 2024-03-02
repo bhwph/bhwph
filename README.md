@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 😝 [Woman unsatisfied with her bank decides to leave a grenade inside.](http://9gag.com/gag/aVbGWK8)
- - 👉 [Do you have similar experience?](http://9gag.com/gag/a5XLdWr)<!-- MEMES:END -->
+ - 6️⃣ [Homicide statistics](http://9gag.com/gag/adP3NxV)
+ - 😝 [The doctor&#39;s discipline was incredible!](http://9gag.com/gag/aOx6bo6)
+ - 👉 [Better than orignal](http://9gag.com/gag/a2KQqOO)<!-- MEMES:END -->
 
 --- 
 
