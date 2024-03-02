@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
+ - 6️⃣ [If only he had better poker face](http://9gag.com/gag/aqev5gM)
  - 😝 [Wef clowning around again](http://9gag.com/gag/az26VDx)
- - 👉 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)<!-- MEMES:END -->
+ - 👉 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)<!-- MEMES:END -->
 
 --- 
 
