@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, March 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-2-2024)
- - [Star Wars: Dark Forces&#39; box art showed a level that wasn&#39;t in the game: nearly 30 years later, we can finally play it thanks to the remaster](https://www.pcgamer.com/games/fps/star-wars-dark-forces-box-art-showed-a-level-that-wasnt-in-the-game-30-years-later-we-can-finally-play-it-thanks-to-the-remaster)
- - [Poor Things, Aquaman 2, Netflix’s Spaceman, and every new movie to watch this weekend](https://www.polygon.com/2024/3/1/24083506/new-movies-watch-poor-things-aquaman-2-netflix-code-8-napoleon)<!-- GAME:END -->
+ - [Dive into the Dune: Adventures in the Imperium TTRPG for just $18](https://www.polygon.com/24087598/best-gaming-deals-dune-ttrpg-humble-bundle-nintendo-pokemon-deal-sale)
+ - [Anime Awards 2024 names Jujutsu Kaisen season 2 Anime of the Year](https://www.polygon.com/anime/24084825/anime-awards-2024-winners-list-jujutsu-kaisen-demon-slayer-chainsaw-man)
+ - [The best movies new to streaming this March](https://www.polygon.com/what-to-watch/2024/3/2/24083869/best-new-movies-netflix-amazon-prime-max-hulu-march-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
