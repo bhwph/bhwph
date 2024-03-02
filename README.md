@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FF7 Rebirth, Helldivers 2, And More Of The Week&#39;s Essential Tips](https://kotaku.com/kotaku-tips-guides-ff7-rebirth-helldivers-2-1851301152)
- - [Painful Cuts At PlayStation, A Big Pokémon Reveal, And More Of The Week&#39;s Top News](https://kotaku.com/playstation-layoffs-embracer-pokemon-kojima-gaming-news-1851301151)
- - [Dive into the Dune: Adventures in the Imperium TTRPG for just $18](https://www.polygon.com/24087598/best-gaming-deals-dune-ttrpg-humble-bundle-nintendo-pokemon-deal-sale)<!-- GAME:END -->
+ - [With the Automaton invasion, Helldivers 2 proved failure is part of the point](https://www.polygon.com/gaming/24086923/helldivers-2-automaton-invasion-mission-failure)
+ - [Helldivers 2 players are arguing over playing casually or sticking to the &#39;meta,&#39; and they&#39;re both right](https://www.pcgamer.com/helldivers-2-meta-controversy-explained)
+ - [FF7 Rebirth, Helldivers 2, And More Of The Week&#39;s Essential Tips](https://kotaku.com/kotaku-tips-guides-ff7-rebirth-helldivers-2-1851301152)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
