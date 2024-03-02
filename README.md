@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 😝 [The doctor&#39;s discipline was incredible!](http://9gag.com/gag/aOx6bo6)
- - 👉 [This is not some kinda of special force but a mexican drug cartel](http://9gag.com/gag/ay2yd98)<!-- MEMES:END -->
+ - 😝 [Wef clowning around again](http://9gag.com/gag/az26VDx)
+ - 👉 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)<!-- MEMES:END -->
 
 --- 
 
