@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [With the Automaton invasion, Helldivers 2 proved failure is part of the point](https://www.polygon.com/gaming/24086923/helldivers-2-automaton-invasion-mission-failure)
- - [Helldivers 2 players are arguing over playing casually or sticking to the &#39;meta,&#39; and they&#39;re both right](https://www.pcgamer.com/helldivers-2-meta-controversy-explained)
- - [FF7 Rebirth, Helldivers 2, And More Of The Week&#39;s Essential Tips](https://kotaku.com/kotaku-tips-guides-ff7-rebirth-helldivers-2-1851301152)<!-- GAME:END -->
+ - [Cartoon spaceship disaster sim Space Crew is free to keep on Steam for a limited time](https://www.pcgamer.com/games/sim/cartoon-spaceship-disaster-sim-space-crew-is-free-to-keep-on-steam-for-a-limited-time)
+ - [I wish I could actually play these PS1-style demakes of the latest Resident Evil games](https://www.pcgamer.com/games/horror/i-wish-i-could-actually-play-these-ps1-style-demakes-of-the-latest-resident-evil-games)
+ - [With the Automaton invasion, Helldivers 2 proved failure is part of the point](https://www.polygon.com/gaming/24086923/helldivers-2-automaton-invasion-mission-failure)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
