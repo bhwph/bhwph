@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Project Maven, the US DOD&#39;s flagship AI effort which identifies battlefield targets, and at concerns, including adversaries poisoning training data &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/240302/p4#a240302p4)
- - [Researchers create an AI worm that can spread between generative AI agents via an &quot;adversarial self-replicating prompt&quot;, which can steal data or spread malware &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240302/p3#a240302p3)
- - [iiMedia Research: China&#39;s food delivery market reached $208B in 2023, 2.3x the size in 2020; Meituan and Ele.me employ over 10M gig workers combined &lpar;Takashi Kawakami/Nikkei Asia&rpar;](http://www.techmeme.com/240302/p2#a240302p2)<!-- TECH:END -->
+ - [These Companies Have a Plan to Kill Apps](https://www.wired.com/story/these-companies-have-a-plan-to-kill-apps/)
+ - [How quick fixes and old code in systems compound technical debt and raise hacking risks, requiring an estimated $1.52T to fix and costing the US $2.41T per year &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240302/p5#a240302p5)
+ - [Best of MWC 2024: AI, Wearables and Bending Phone Concepts That Amaze     - CNET](https://www.cnet.com/tech/mobile/best-of-mwc-2024-ai-wearables-and-bending-phone-concepts-that-amaze/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
