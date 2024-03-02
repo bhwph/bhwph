@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jesus christ it&#39;s jason Bourne&#39;s dog](http://9gag.com/gag/a8qrbwp)
+ - 6️⃣ [Woman unsatisfied with her bank decides to leave a grenade inside.](http://9gag.com/gag/aVbGWK8)
  - 😝 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
- - 👉 [Proud and Based 9gagger right there](http://9gag.com/gag/aDYBw8O)<!-- MEMES:END -->
+ - 👉 [Grapes!](http://9gag.com/gag/aVbGWMv)<!-- MEMES:END -->
 
 --- 
 
