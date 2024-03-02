@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If only he had better poker face](http://9gag.com/gag/aqev5gM)
- - 😝 [Wef clowning around again](http://9gag.com/gag/az26VDx)
- - 👉 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)<!-- MEMES:END -->
+ - 6️⃣ [Who needs enemies when you have friends like this?](http://9gag.com/gag/awZqxzy)
+ - 😝 [Worse than a heartbreak](http://9gag.com/gag/axopj1K)
+ - 👉 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)<!-- MEMES:END -->
 
 --- 
 
