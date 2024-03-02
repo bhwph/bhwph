@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, March 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-2-2024)
  - [Star Wars: Dark Forces&#39; box art showed a level that wasn&#39;t in the game: nearly 30 years later, we can finally play it thanks to the remaster](https://www.pcgamer.com/games/fps/star-wars-dark-forces-box-art-showed-a-level-that-wasnt-in-the-game-30-years-later-we-can-finally-play-it-thanks-to-the-remaster)
- - [Poor Things, Aquaman 2, Netflix’s Spaceman, and every new movie to watch this weekend](https://www.polygon.com/2024/3/1/24083506/new-movies-watch-poor-things-aquaman-2-netflix-code-8-napoleon)
- - [Kotaku’s Essential Guide to Final Fantasy VII Rebirth](https://kotaku.com/ff7-rebirth-guides-walkthrough-review-1851302235)<!-- GAME:END -->
+ - [Poor Things, Aquaman 2, Netflix’s Spaceman, and every new movie to watch this weekend](https://www.polygon.com/2024/3/1/24083506/new-movies-watch-poor-things-aquaman-2-netflix-code-8-napoleon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
