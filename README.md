@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Homicide statistics](http://9gag.com/gag/adP3NxV)
+ - 6️⃣ [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
  - 😝 [The doctor&#39;s discipline was incredible!](http://9gag.com/gag/aOx6bo6)
- - 👉 [Better than orignal](http://9gag.com/gag/a2KQqOO)<!-- MEMES:END -->
+ - 👉 [This is not some kinda of special force but a mexican drug cartel](http://9gag.com/gag/ay2yd98)<!-- MEMES:END -->
 
 --- 
 
