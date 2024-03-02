@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who needs enemies when you have friends like this?](http://9gag.com/gag/awZqxzy)
- - 😝 [Worse than a heartbreak](http://9gag.com/gag/axopj1K)
+ - 6️⃣ [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
+ - 😝 [SweetBaby Inc., Meet the people who are ruining your favorite games, and video games in general](http://9gag.com/gag/avQbLAd)
  - 👉 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)<!-- MEMES:END -->
 
 --- 
