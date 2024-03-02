@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did you know: Google’s original name was far from sexy](https://www.androidauthority.com/google-original-name-3421309/)
- - [The Privacy Danger Lurking in Push Notifications](https://www.wired.com/story/push-notification-privacy-security-roundup/)
- - [Halo’s latest episode showed us the best a Spartan could be](https://www.theverge.com/2024/3/2/24087962/halo-paramount-plus-episode-five-aleria)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week and all the latest app news](https://www.androidauthority.com/apps-weekly-523-3421420/)
+ - [HP Wants to Rent You a Printer That It’ll Monitor at All Times](https://www.wired.com/story/hp-all-in-plan-printer-subscription-service/)
+ - [Elon Musk&#39;s OpenAI lawsuit repeatedly cites a contentious paper by Microsoft&#39;s research lab, which said GPT-4 showed &quot;sparks&quot; of AGI, to argue that GPT-4 is AGI &lpar;New York Times&rpar;](http://www.techmeme.com/240302/p7#a240302p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
