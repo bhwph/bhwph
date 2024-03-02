@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woman unsatisfied with her bank decides to leave a grenade inside.](http://9gag.com/gag/aVbGWK8)
- - 😝 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
- - 👉 [Grapes!](http://9gag.com/gag/aVbGWMv)<!-- MEMES:END -->
+ - 6️⃣ [The doctor&#39;s discipline was incredible!](http://9gag.com/gag/aOx6bo6)
+ - 😝 [Woman unsatisfied with her bank decides to leave a grenade inside.](http://9gag.com/gag/aVbGWK8)
+ - 👉 [Oops, that wasn&#39;t an ambush i guess](http://9gag.com/gag/axopZ5n)<!-- MEMES:END -->
 
 --- 
 
