@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
- - 😝 [SweetBaby Inc., Meet the people who are ruining your favorite games, and video games in general](http://9gag.com/gag/avQbLAd)
- - 👉 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)<!-- MEMES:END -->
+ - 6️⃣ [If only he had better poker face](http://9gag.com/gag/aqev5gM)
+ - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
+ - 👉 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)<!-- MEMES:END -->
 
 --- 
 
