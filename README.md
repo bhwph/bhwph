@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Final Fantasy 7 Rebirth is basically a Chadley simulator](https://www.polygon.com/24085864/final-fantasy-7-rebirth-chadley-annoying)
  - [Helldivers 2 Advice And Our Hottest Final Fantasy VII Takes Of The Week](https://kotaku.com/final-fantasy-7-opinion-aerith-cid-helldivers-2-kotaku-1851301153)
- - [Last Epoch is the not-Diablo game every generation must have](https://www.polygon.com/24087671/last-epoch-impressions-its-not-diablo-pc)
- - [One of the Assassin&#39;s Creed cards coming to Magic: The Gathering is just a haystack](https://www.pcgamer.com/games/card-games/one-of-the-assassins-creed-cards-coming-to-magic-the-gathering-is-just-a-haystack)<!-- GAME:END -->
+ - [Last Epoch is the not-Diablo game every generation must have](https://www.polygon.com/24087671/last-epoch-impressions-its-not-diablo-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
