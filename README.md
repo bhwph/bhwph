@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [England is f**king done](http://9gag.com/gag/az26AGN)
- - 😝 [Well.... All of them.](http://9gag.com/gag/a3ZojE1)
- - 👉 [Men&#39;s Sport](http://9gag.com/gag/abvjbB9)<!-- MEMES:END -->
+ - 6️⃣ [Existential....](http://9gag.com/gag/amAD0YV)
+ - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
+ - 👉 [Changed his mind mid breakfast](http://9gag.com/gag/az26VKb)<!-- MEMES:END -->
 
 --- 
 
