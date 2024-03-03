@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 😝 [Or similar countries](http://9gag.com/gag/adP3qMV)
- - 👉 [Sex addiction](http://9gag.com/gag/ay2ynKq)<!-- MEMES:END -->
+ - 6️⃣ [Happy for you two](http://9gag.com/gag/a4oMZOZ)
+ - 😝 [MY SUPER POWER IS GET TO THE HOT.](http://9gag.com/gag/a6qWbo9)
+ - 👉 [Result : the bully is being treated for a broken nose &amp; a fractured cheek bone.my wife is pissed.](http://9gag.com/gag/aNwydVb)<!-- MEMES:END -->
 
 --- 
 
