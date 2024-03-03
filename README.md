@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, March 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-3-2024)
  - [Greedfall 2: The Dying World will launch in early access, &#39;players will have access to the entire beginning of the game&#39;](https://www.pcgamer.com/games/rpg/greedfall-2-the-dying-world-will-launch-in-early-access-players-will-have-access-to-the-entire-beginning-of-the-game)
- - [Fallout TV show producer says, &#39;It&#39;s almost like we&#39;re Fallout 5&#39;](https://www.pcgamer.com/games/fallout/fallout-tv-show-producer-says-its-almost-like-were-fallout-5)
- - [Speaking at Stardew Valley soundtrack concert, creator Eric Barone quips about finding an audience for his music: &#39;All I had to do was develop an entire videogame from scratch&#39;](https://www.pcgamer.com/games/life-sim/speaking-at-stardew-valley-soundtrack-concert-creator-eric-barone-quips-about-finding-an-audience-for-his-music-all-i-had-to-do-was-develop-an-entire-videogame-from-scratch)<!-- GAME:END -->
+ - [Fallout TV show producer says, &#39;It&#39;s almost like we&#39;re Fallout 5&#39;](https://www.pcgamer.com/games/fallout/fallout-tv-show-producer-says-its-almost-like-were-fallout-5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
