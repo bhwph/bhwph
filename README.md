@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well.... All of them.](http://9gag.com/gag/a3ZojE1)
- - 😝 [England is f**king done](http://9gag.com/gag/az26AGN)
- - 👉 [Where the hell is Winston?](http://9gag.com/gag/aNwynG4)<!-- MEMES:END -->
+ - 6️⃣ [Chalino Sanchez read the death note handed to him by an audience member, realized this will be his last performance, still gave the audience a show](http://9gag.com/gag/aXn89ov)
+ - 😝 [Oops, that wasn&#39;t an ambush i guess](http://9gag.com/gag/axopZ5n)
+ - 👉 [Better than orignal](http://9gag.com/gag/a2KQqOO)<!-- MEMES:END -->
 
 --- 
 
