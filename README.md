@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy for you two](http://9gag.com/gag/a4oMZOZ)
- - 😝 [MY SUPER POWER IS GET TO THE HOT.](http://9gag.com/gag/a6qWbo9)
- - 👉 [Result : the bully is being treated for a broken nose &amp; a fractured cheek bone.my wife is pissed.](http://9gag.com/gag/aNwydVb)<!-- MEMES:END -->
+ - 6️⃣ [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
+ - 😝 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
+ - 👉 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)<!-- MEMES:END -->
 
 --- 
 
