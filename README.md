@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best 3D Printer Deals: Save Up to $338 on Anycubic, Elegoo, Crealty3D and More     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
- - [WhatsApp gains Pegasus source code access in court victory](https://appleinsider.com/articles/24/03/02/whatsapp-gains-pegasus-source-code-access-in-court-victory?utm_medium=rss)
- - [India&#39;s communications and IT minister says delisting of popular Play Store apps &quot;cannot be permitted&quot;; Google reinstates some apps without IAPs &lpar;Jatin Grover/FE Tech Bytes&rpar;](http://www.techmeme.com/240302/p10#a240302p10)<!-- TECH:END -->
+ - [EU court rules that regulators should pay &amp;euro;786K of legal fees for Qualcomm, not the &amp;euro;12M the company sought after it won an appeal against a 2018 antitrust fine &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240302/p11#a240302p11)
+ - [New class-action lawsuit says you pay too much for iCloud](https://appleinsider.com/articles/24/03/02/new-class-action-lawsuit-says-you-pay-too-much-for-icloud?utm_medium=rss)
+ - [Samsung Galaxy S23 Deals: Get Up to $1,000 Off With Trade-In Offers     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
