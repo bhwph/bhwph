@@ -120,7 +120,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skyrim remake of 24 year-old Vampire RPG shows off its modern London level, and the guns are way less janky than I expected](https://www.pcgamer.com/games/rpg/skyrim-remake-of-24-year-old-vampire-rpg-shows-off-its-modern-london-level-and-the-guns-are-way-less-janky-than-i-expected)
+ - [Skyrim remake of 24-year-old Vampire RPG shows off its modern London level, and the guns are way less janky than I expected](https://www.pcgamer.com/games/rpg/skyrim-remake-of-24-year-old-vampire-rpg-shows-off-its-modern-london-level-and-the-guns-are-way-less-janky-than-i-expected)
  - [Collect a stable of weird monsters, and dice, in roguelike Dicefolk](https://www.pcgamer.com/games/card-games/collect-a-stable-of-weird-monsters-and-dice-in-roguelike-dicefolk)
  - [Final Fantasy 7 Rebirth is basically a Chadley simulator](https://www.polygon.com/24085864/final-fantasy-7-rebirth-chadley-annoying)<!-- GAME:END -->
 
