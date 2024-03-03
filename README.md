@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Apple Store thefts in New York, California, Las Vegas](https://appleinsider.com/articles/24/03/03/crime-blotter-apple-store-thefts-in-new-york-california-las-vegas?utm_medium=rss)
- - [As music from Universal Music Group artists disappears from TikTok, creators turn to royalty-free, almost-contextless sound clips &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/240303/p3#a240303p3)
- - [What Is OpenAI’s ChatGPT Plus? Here’s What You Should Know](https://www.wired.com/story/what-is-chatgpt-plus-gpt4-openai/)<!-- TECH:END -->
+ - [March iPad &amp; Mac releases may not get a flashy event after all](https://appleinsider.com/articles/24/03/03/march-ipad-mac-releases-may-not-get-a-flashy-event-after-all?utm_medium=rss)
+ - [Cheap foldable phones are here, but should you buy them?](https://www.androidauthority.com/should-you-buy-cheap-foldable-phones-3420832/)
+ - [5 Best Sturdy Stockings &lpar;2024&rpar;: Tights, Pantyhose, Sustainable](https://www.wired.com/gallery/best-durable-tights/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
