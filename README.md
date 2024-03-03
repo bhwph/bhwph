@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside &quot;Are We Dating The Same Guy?&quot; Facebook groups, which have a reported 3.5 million members, as some users say the dating forums cause more harm than good &lpar;Washington Post&rpar;](http://www.techmeme.com/240303/p1#a240303p1)
- - [A look at AARoads, a dedicated US roads and highways wiki site started by a group of Wikipedia editors, after years of frustration over Wikipedia&#39;s rules &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/240302/p12#a240302p12)
- - [HP is in the rent-a-printer business now](https://www.theverge.com/2024/3/2/24088867/hp-all-in-plan-printer-rental-instant-ink)<!-- TECH:END -->
+ - [How AI is being used to evaluate the authenticity of paintings, amid conservators&#39; concerns of whether the tech can account for wear, damage, and other factors &lpar;Gareth Harris/Financial Times&rpar;](http://www.techmeme.com/240303/p2#a240303p2)
+ - [Best Buy, Amazon launch weekend Apple sale with prices as low as $24](https://appleinsider.com/articles/24/03/03/best-buy-amazon-launch-weekend-apple-sale-with-prices-as-low-as-24?utm_medium=rss)
+ - [Inside &quot;Are We Dating The Same Guy?&quot; Facebook groups, which have a reported 3.5 million members, as some users say the dating forums cause more harm than good &lpar;Washington Post&rpar;](http://www.techmeme.com/240303/p1#a240303p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
