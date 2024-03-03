@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI is being used to evaluate the authenticity of paintings, amid conservators&#39; concerns of whether the tech can account for wear, damage, and other factors &lpar;Gareth Harris/Financial Times&rpar;](http://www.techmeme.com/240303/p2#a240303p2)
- - [Best Buy, Amazon launch weekend Apple sale with prices as low as $24](https://appleinsider.com/articles/24/03/03/best-buy-amazon-launch-weekend-apple-sale-with-prices-as-low-as-24?utm_medium=rss)
- - [Inside &quot;Are We Dating The Same Guy?&quot; Facebook groups, which have a reported 3.5 million members, as some users say the dating forums cause more harm than good &lpar;Washington Post&rpar;](http://www.techmeme.com/240303/p1#a240303p1)<!-- TECH:END -->
+ - [Crime blotter: Apple Store thefts in New York, California, Las Vegas](https://appleinsider.com/articles/24/03/03/crime-blotter-apple-store-thefts-in-new-york-california-las-vegas?utm_medium=rss)
+ - [As music from Universal Music Group artists disappears from TikTok, creators turn to royalty-free, almost-contextless sound clips &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/240303/p3#a240303p3)
+ - [What Is OpenAI’s ChatGPT Plus? Here’s What You Should Know](https://www.wired.com/story/what-is-chatgpt-plus-gpt4-openai/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
