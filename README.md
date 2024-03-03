@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If only he had better poker face](http://9gag.com/gag/aqev5gM)
- - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
- - 👉 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)<!-- MEMES:END -->
+ - 6️⃣ [Update: woman who smashed bottle on cellist released without bail](http://9gag.com/gag/aL1q2OM)
+ - 😝 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)
+ - 👉 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)<!-- MEMES:END -->
 
 --- 
 
