@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Update: woman who smashed bottle on cellist released without bail](http://9gag.com/gag/aL1q2OM)
- - 😝 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)
- - 👉 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)<!-- MEMES:END -->
+ - 6️⃣ [England is f**king done](http://9gag.com/gag/az26AGN)
+ - 😝 [Well.... All of them.](http://9gag.com/gag/a3ZojE1)
+ - 👉 [Men&#39;s Sport](http://9gag.com/gag/abvjbB9)<!-- MEMES:END -->
 
 --- 
 
