@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Last Epoch is the not-Diablo game every generation must have](https://www.polygon.com/24087671/last-epoch-impressions-its-not-diablo-pc)
  - [One of the Assassin&#39;s Creed cards coming to Magic: The Gathering is just a haystack](https://www.pcgamer.com/games/card-games/one-of-the-assassins-creed-cards-coming-to-magic-the-gathering-is-just-a-haystack)
- - [Today&#39;s Wordle answer for Sunday, March 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-3-2024)
- - [Greedfall 2: The Dying World will launch in early access, &#39;players will have access to the entire beginning of the game&#39;](https://www.pcgamer.com/games/rpg/greedfall-2-the-dying-world-will-launch-in-early-access-players-will-have-access-to-the-entire-beginning-of-the-game)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, March 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-3-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
