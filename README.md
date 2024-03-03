@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chalino Sanchez read the death note handed to him by an audience member, realized this will be his last performance, still gave the audience a show](http://9gag.com/gag/aXn89ov)
- - 😝 [Oops, that wasn&#39;t an ambush i guess](http://9gag.com/gag/axopZ5n)
- - 👉 [Better than orignal](http://9gag.com/gag/a2KQqOO)<!-- MEMES:END -->
+ - 6️⃣ [Travel to India at your own risk](http://9gag.com/gag/aVbGe4n)
+ - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
+ - 👉 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)<!-- MEMES:END -->
 
 --- 
 
