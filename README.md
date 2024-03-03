@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 😝 [Or similar countries](http://9gag.com/gag/adP3qMV)
- - 👉 [Wef clowning around again](http://9gag.com/gag/az26VDx)<!-- MEMES:END -->
+ - 6️⃣ [Sex addiction](http://9gag.com/gag/ay2ynKq)
+ - 😝 [Chalino Sanchez read the death note handed to him by an audience member, realized this will be his last performance, still gave the audience a show](http://9gag.com/gag/aXn89ov)
+ - 👉 [It&#39;s married](http://9gag.com/gag/avQbrAW)<!-- MEMES:END -->
 
 --- 
 
