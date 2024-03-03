@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Travel to India at your own risk](http://9gag.com/gag/aVbGe4n)
- - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 👉 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)<!-- MEMES:END -->
+ - 6️⃣ [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
+ - 😝 [Or similar countries](http://9gag.com/gag/adP3qMV)
+ - 👉 [Wef clowning around again](http://9gag.com/gag/az26VDx)<!-- MEMES:END -->
 
 --- 
 
