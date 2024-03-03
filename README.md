@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New renders show what the iPhone SE 4 might look like](https://appleinsider.com/articles/24/03/03/cad-renders-show-what-the-iphone-se-4-could-look-like?utm_medium=rss)
- - [Some users turn to AI therapist chatbots, finding them cheap, quick, available 24/7, and easy to talk to, but experts warn about a lack of emotional connection &lpar;Alice Robb/The Guardian&rpar;](http://www.techmeme.com/240303/p5#a240303p5)
- - [Apple&#39;s failed &#39;Project Titan&#39; was a Full Self Driving gamble](https://appleinsider.com/articles/24/03/03/apples-failed-project-titan-was-a-full-self-driving-gamble?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel Watch 3 wishlist: All the features I want to see](https://www.androidauthority.com/google-pixel-watch-3-features-specs-price-3415632/)
+ - [New iPads &amp; Macs could arrive as soon as this week](https://appleinsider.com/articles/24/03/03/new-ipads-macs-could-arrive-as-soon-as-this-week?utm_medium=rss)
+ - [You Can Get a Windows 11 Pro License if You Act Quickly With This Deal That Ends Today     - CNET](https://www.cnet.com/deals/you-can-get-a-windows-11-pro-license-if-you-act-quickly-with-this-deal-that-ends-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
