@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cartoon spaceship disaster sim Space Crew is free to keep on Steam for a limited time](https://www.pcgamer.com/games/sim/cartoon-spaceship-disaster-sim-space-crew-is-free-to-keep-on-steam-for-a-limited-time)
- - [I wish I could actually play these PS1-style demakes of the latest Resident Evil games](https://www.pcgamer.com/games/horror/i-wish-i-could-actually-play-these-ps1-style-demakes-of-the-latest-resident-evil-games)
- - [With the Automaton invasion, Helldivers 2 proved failure is part of the point](https://www.polygon.com/gaming/24086923/helldivers-2-automaton-invasion-mission-failure)<!-- GAME:END -->
+ - [Fallout TV show producer says, &#39;It&#39;s almost like we&#39;re Fallout 5&#39;](https://www.pcgamer.com/games/fallout/fallout-tv-show-producer-says-its-almost-like-were-fallout-5)
+ - [Speaking at Stardew Valley soundtrack concert, creator Eric Barone quips about finding an audience for his music: &#39;All I had to do was develop an entire videogame from scratch&#39;](https://www.pcgamer.com/games/life-sim/speaking-at-stardew-valley-soundtrack-concert-creator-eric-barone-quips-about-finding-an-audience-for-his-music-all-i-had-to-do-was-develop-an-entire-videogame-from-scratch)
+ - [Toothpaste turrets and deadly pillows keep people out of your house in this fusion of beat &#39;em up and tower defense](https://www.pcgamer.com/games/action/toothpaste-turrets-and-deadly-pillows-keep-people-out-of-your-house-in-this-fusion-of-beat-em-up-and-tower-defense)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
