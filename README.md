@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [March iPad &amp; Mac releases may not get a flashy event after all](https://appleinsider.com/articles/24/03/03/march-ipad-mac-releases-may-not-get-a-flashy-event-after-all?utm_medium=rss)
- - [Cheap foldable phones are here, but should you buy them?](https://www.androidauthority.com/should-you-buy-cheap-foldable-phones-3420832/)
- - [5 Best Sturdy Stockings &lpar;2024&rpar;: Tights, Pantyhose, Sustainable](https://www.wired.com/gallery/best-durable-tights/)<!-- TECH:END -->
+ - [Crash of the Titan: a short history of Apple’s doomed car project](https://www.theverge.com/2024/3/3/24085995/apple-car-project-titan-timeline-driverless-ev-doomed)
+ - [Apple&#39;s failed &#39;Project Titan&#39; was a Full Self Driving gamble](https://appleinsider.com/articles/24/03/03/apples-failed-project-titan-was-a-full-self-driving-gamble?utm_medium=rss)
+ - [The Biden Campaign Fills Out Its Digital Team Ahead of Super Tuesday](https://www.wired.com/story/joe-biden-campaign-digital-team-hires/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
