@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Hamas fighter&#39;s GoPro captured his last moments before drowning in a flooded tunnel of the Gaza Metro](http://9gag.com/gag/aqev1qj)
- - 😝 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
- - 👉 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)<!-- MEMES:END -->
+ - 6️⃣ [Happy for you two](http://9gag.com/gag/a4oMZOZ)
+ - 😝 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
+ - 👉 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)<!-- MEMES:END -->
 
 --- 
 
