@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s married](http://9gag.com/gag/avQbrAW)
- - 😝 [No thanks.](http://9gag.com/gag/aA0nDXR)
- - 👉 [Or similar countries](http://9gag.com/gag/adP3qMV)<!-- MEMES:END -->
+ - 6️⃣ [Netflix filter on](http://9gag.com/gag/a04mbeZ)
+ - 😝 [It&#39;s married](http://9gag.com/gag/avQbrAW)
+ - 👉 [Geh, but funny](http://9gag.com/gag/ay2yDzb)<!-- MEMES:END -->
 
 --- 
 
