@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo Legion Go review: the Swiss Army knife of handhelds](https://www.theverge.com/24088011/lenovo-legion-go-review)
- - [Anthropic says its latest AI bot can beat Gemini and ChatGPT](https://www.theverge.com/2024/3/4/24090087/anthropic-claude-3-opus-ai-chatbot-multimodal)
- - [Three things Apple got wrong with the Vision Pro launch](https://appleinsider.com/articles/24/03/04/three-things-apple-got-wrong-with-the-vision-pro-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Best deal of 2024 on the Sony WH-1000XM4 at $100 off](https://www.androidauthority.com/deal-sony-wh-1000xm4-headphones-3422370/)
+ - [After Elon Musk assured right-wingers like Libs of TikTok that X&#39;s anti-trans hate policy wouldn&#39;t affect them, X updates it with &quot;where required by local laws&quot; &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/240304/p13#a240304p13)
+ - [Arrakis looks dangerous as ever in survival game Dune: Awakening](https://www.theverge.com/2024/3/4/24090336/dune-awakening-gameplay-trailer-survival-funcom)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
