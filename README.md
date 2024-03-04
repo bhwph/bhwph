@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Triplets](http://9gag.com/gag/avQbOAO)
- - 😝 [What has become of once thriving South Africa?](http://9gag.com/gag/a2KQoxD)
- - 👉 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)<!-- MEMES:END -->
+ - 6️⃣ [Lol.](http://9gag.com/gag/a5XLbny)
+ - 😝 [It&#39;s married](http://9gag.com/gag/avQbrAW)
+ - 👉 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)<!-- MEMES:END -->
 
 --- 
 
