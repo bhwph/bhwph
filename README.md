@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Netflix filter on](http://9gag.com/gag/a04mbeZ)
- - 😝 [It&#39;s married](http://9gag.com/gag/avQbrAW)
- - 👉 [Geh, but funny](http://9gag.com/gag/ay2yDzb)<!-- MEMES:END -->
+ - 6️⃣ [Triplets](http://9gag.com/gag/avQbOAO)
+ - 😝 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
+ - 👉 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)<!-- MEMES:END -->
 
 --- 
 
