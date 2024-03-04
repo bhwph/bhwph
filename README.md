@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Helldivers 2 director explains how its freedom and wacky guns were inspired by tabletop: &#39;Let the player do the action, and you&#39;ll see what happens&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-director-explains-how-its-freedom-and-wacky-guns-were-inspired-by-tabletop-let-the-player-do-the-action-and-youll-see-what-happens)
  - [Path of Achra is a bite-size, old-school, dungeon-crawling dark fantasy treat](https://www.pcgamer.com/games/roguelike/path-of-achra-is-a-bite-size-old-school-dungeon-crawling-dark-fantasy-treat)
- - [Five new Steam games you probably missed &lpar;March 4, 2024&rpar;](https://www.pcgamer.com/games/five-new-steam-games-you-probably-missed-march-4-2024)
- - [Old school co-op action RPG Secrets of Grindea releases after a decade of early access](https://www.pcgamer.com/games/rpg/old-school-co-op-action-rpg-secrets-of-grindea-releases-after-a-decade-of-early-access)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;March 4, 2024&rpar;](https://www.pcgamer.com/games/five-new-steam-games-you-probably-missed-march-4-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
