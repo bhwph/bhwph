@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use two monitors with M3 MacBook Air](https://appleinsider.com/inside/macbook-air/tips/how-to-use-two-monitors-with-macbook-air-with-m3-processor?utm_medium=rss)
- - [M3 MacBook Air vs M2 MacBook Air -- Compared](https://appleinsider.com/inside/macbook-air/vs/m3-macbook-air-vs-m2-macbook-air----compared?utm_medium=rss)
- - [After 14 years, Apple has finally retired the famous MacBook Air wedge shape](https://appleinsider.com/articles/24/03/04/after-14-years-apple-has-finally-retired-the-famous-macbook-air-wedge-shape?utm_medium=rss)<!-- TECH:END -->
+ - [Google&#39;s new Pixel updates include a Hello button to let Google Assistant screen calls, Circle to Search on Pixel 7, and 10-bit HDR video uploads to Instagram &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/240304/p19#a240304p19)
+ - [As bitcoin rallies past $67K and nears its all-time high, Coinbase&#39;s stock, which hit $46.43 last year, soars to $229.15, nearly doubling in the past month &lpar;Niamh Rowe/Fortune&rpar;](http://www.techmeme.com/240304/p18#a240304p18)
+ - [How to file and pay your 2023 taxes online](https://www.theverge.com/24032894/taxes-irs-file-2023-how-to-refund)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
