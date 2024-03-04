@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Partner Preview | March 2024: We’re Back with Fresh Looks at Games for Xbox and Windows](https://news.xbox.com/en-us/2024/03/04/xbox-partner-preview-march-2024-announce/)
- - [The best games within video games](https://www.polygon.com/gaming/24086531/best-minigames-video-games-list)
- - [Final Fantasy 7 Rebirth Performance Mode Will Be Improved In New Patch](https://kotaku.com/final-fantasy-7-rebirth-performance-mode-patch-ps5-1851305108)<!-- GAME:END -->
+ - [We’re missing out on so much weird Bene Gesserit sex from Frank Herbert’s books](https://www.polygon.com/24090250/bene-gesserit-sex-powers-frank-herbert-books-vs-movies)
+ - [Call of Duty: Modern Warfare III and Warzone Season 2 Reloaded: What You Need to Know](https://www.callofduty.com/blog/2024/03/call-of-duty-modern-warfare-iii-warzone-season-2-reloaded-maps-modes-zombies-announcement%20#new_tab)
+ - [Dune 2? I’m sorry, I thought you said Dhoom 2](https://www.polygon.com/24090197/dune-2-no-i-mean-dhoom-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
