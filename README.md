@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skyrim remake of 24-year-old Vampire RPG shows off its modern London level, and the guns are way less janky than I expected](https://www.pcgamer.com/games/rpg/skyrim-remake-of-24-year-old-vampire-rpg-shows-off-its-modern-london-level-and-the-guns-are-way-less-janky-than-i-expected)
- - [Collect a stable of weird monsters, and dice, in roguelike Dicefolk](https://www.pcgamer.com/games/card-games/collect-a-stable-of-weird-monsters-and-dice-in-roguelike-dicefolk)
- - [Final Fantasy 7 Rebirth is basically a Chadley simulator](https://www.polygon.com/24085864/final-fantasy-7-rebirth-chadley-annoying)<!-- GAME:END -->
+ - [Path of Achra is a bite-size, old-school, dungeon-crawling dark fantasy treat](https://www.pcgamer.com/games/roguelike/path-of-achra-is-a-bite-size-old-school-dungeon-crawling-dark-fantasy-treat)
+ - [Five new Steam games you probably missed &lpar;March 4, 2024&rpar;](https://www.pcgamer.com/games/five-new-steam-games-you-probably-missed-march-4-2024)
+ - [Old school co-op action RPG Secrets of Grindea releases after a decade of early access](https://www.pcgamer.com/games/rpg/old-school-co-op-action-rpg-secrets-of-grindea-releases-after-a-decade-of-early-access)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
