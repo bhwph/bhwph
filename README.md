@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We’re missing out on so much weird Bene Gesserit sex from Frank Herbert’s books](https://www.polygon.com/24090250/bene-gesserit-sex-powers-frank-herbert-books-vs-movies)
- - [Call of Duty: Modern Warfare III and Warzone Season 2 Reloaded: What You Need to Know](https://www.callofduty.com/blog/2024/03/call-of-duty-modern-warfare-iii-warzone-season-2-reloaded-maps-modes-zombies-announcement%20#new_tab)
- - [Dune 2? I’m sorry, I thought you said Dhoom 2](https://www.polygon.com/24090197/dune-2-no-i-mean-dhoom-2)<!-- GAME:END -->
+ - [Stop Telling People They Can Play Final Fantasy VII Rebirth Without Remake](https://kotaku.com/final-fantasy-7-rebirth-do-i-play-remake-before-1851306179)
+ - [Final Fantasy VII Rebirth Romance And Dating Guide](https://kotaku.com/final-fantasy-7-date-aerith-barret-red-13-tifa-yuffie-1851306031)
+ - [Fort Condor sucks](https://www.polygon.com/24090225/fort-condor-final-fantasy-7-ff7-rebirth-quest-hard-mode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
