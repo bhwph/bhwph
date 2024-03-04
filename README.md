@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s Chief Technical Officer: &#39;We&#39;re enabling our gaming devices to upscale using AI&#39;](https://www.pcgamer.com/hardware/graphics-cards/amds-chief-technical-officer-were-enabling-our-gaming-devices-to-upscale-using-ai)
- - [Palworld players turn to more honest work after a patch robs them of their nail grift: Dooming a merchant to a Greek mythology-tier punishment loop of burning to death forever](https://www.pcgamer.com/games/survival-crafting/palworld-players-turn-to-more-honest-work-after-a-patch-robs-them-of-their-nail-grift-dooming-a-merchant-to-a-greek-mythology-tier-punishment-loop-of-burning-to-death-forever)
- - [The voice behind Final Fantasy 14&#39;s G&#39;raha Tia was so dedicated to the role, his tongue swelled up on the West End: &#39;I had to record this in the day doing eight shows a night&#39;](https://www.pcgamer.com/games/mmo/the-voice-behind-final-fantasy-14s-graha-tia-was-so-dedicated-to-the-role-his-tongue-swelled-up-on-the-west-end-i-had-to-record-this-in-the-day-doing-eight-shows-a-night)<!-- GAME:END -->
+ - [Xbox Partner Preview | March 2024: We’re Back with Fresh Looks at Games for Xbox and Windows](https://news.xbox.com/en-us/2024/03/04/xbox-partner-preview-march-2024-announce/)
+ - [The best games within video games](https://www.polygon.com/gaming/24086531/best-minigames-video-games-list)
+ - [Final Fantasy 7 Rebirth Performance Mode Will Be Improved In New Patch](https://kotaku.com/final-fantasy-7-rebirth-performance-mode-patch-ps5-1851305108)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
