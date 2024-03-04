@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stop Telling People They Can Play Final Fantasy VII Rebirth Without Remake](https://kotaku.com/final-fantasy-7-rebirth-do-i-play-remake-before-1851306179)
- - [Final Fantasy VII Rebirth Romance And Dating Guide](https://kotaku.com/final-fantasy-7-date-aerith-barret-red-13-tifa-yuffie-1851306031)
- - [Fort Condor sucks](https://www.polygon.com/24090225/fort-condor-final-fantasy-7-ff7-rebirth-quest-hard-mode)<!-- GAME:END -->
+ - [Someone Got GTA: Vice City Running On An Internet Router](https://kotaku.com/gta-vice-city-tp-link-router-mod-pc-ps2-1851306785)
+ - [When does Modern Warfare 3 season 2 Reloaded release?](https://www.polygon.com/modern-warfare-3-guides/24090467/mw3-season-2-s2-reloaded-midseason-release-date-time)
+ - [One Of PlayStation’s Most Overlooked Games Could Be Coming To PC](https://kotaku.com/gravity-rush-2-remaster-rumor-pc-ps5-1851306694)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
