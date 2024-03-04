@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last week a US judge acquitted China&#39;s Fujian Jinhua Integrated Circuit in the DOJ&#39;s Micron trade secrets case, months after Micron changed its posture on China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240303/p9#a240303p9)
- - [Best Smart Soundbar of 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-soundbar/#ftag=CAD590a51e)
- - [The 5 Best Multivitamins for Men of 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Tech Job Interviews Became Such a Nightmare](https://www.wired.com/story/why-tech-job-interviews-became-such-a-nightmare/)
+ - [Best Solar Panel Installation Companies in Maine     - CNET](https://www.cnet.com/home/energy-and-utilities/maine-solar-panels/#ftag=CAD590a51e)
+ - [Best iPhone in 2024: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
