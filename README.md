@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
- - 😝 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
- - 👉 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)<!-- MEMES:END -->
+ - 6️⃣ [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
+ - 😝 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
+ - 👉 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)<!-- MEMES:END -->
 
 --- 
 
