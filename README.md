@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lol.](http://9gag.com/gag/a5XLbny)
- - 😝 [No title](http://9gag.com/gag/aNwy19w)
- - 👉 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)<!-- MEMES:END -->
+ - 6️⃣ [Triplets](http://9gag.com/gag/avQbOAO)
+ - 😝 [What has become of once thriving South Africa?](http://9gag.com/gag/a2KQoxD)
+ - 👉 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)<!-- MEMES:END -->
 
 --- 
 
