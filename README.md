@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
- - 😝 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
- - 👉 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s married](http://9gag.com/gag/avQbrAW)
+ - 😝 [No thanks.](http://9gag.com/gag/aA0nDXR)
+ - 👉 [Or similar countries](http://9gag.com/gag/adP3qMV)<!-- MEMES:END -->
 
 --- 
 
