@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [European Union smacks Apple with $2 billion fine over music streaming](https://appleinsider.com/articles/24/03/04/european-union-smacks-apple-with-195-billion-fine-over-music-streaming?utm_medium=rss)
- - [Apple says Spotify was the &quot;primary advocate&quot; and &quot;biggest beneficiary&quot; of the EU&#39;s ruling, Spotify pays Apple nothing, and that &quot;free isn&#39;t enough for Spotify&quot; &lpar;Apple&rpar;](http://www.techmeme.com/240304/p6#a240304p6)
- - [Apple hit with first ever EU fine following Spotify complaint](https://www.theverge.com/2024/3/4/24005938/european-commission-antitrust-apple-investigation-anti-steering-rules-app-developers)<!-- TECH:END -->
+ - [Anthropic announces Claude 3 Opus, Sonnet, and Haiku, aiming to improve factual accuracy; Opus and Sonnet are available now, and Haiku in the coming weeks &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240304/p9#a240304p9)
+ - [How to keep your smart cam footage safe and private](https://www.theverge.com/24074904/smart-home-camera-security-privacy-how-to)
+ - [Save $80 Off Our Favorite Cordless Vacuums for a Limited Time at Amazon     - CNET](https://www.cnet.com/deals/save-80-off-our-favorite-cordless-vacuums-for-a-limited-time-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
