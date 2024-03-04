@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
- - 😝 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
- - 👉 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)<!-- MEMES:END -->
+ - 6️⃣ [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
+ - 😝 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
+ - 👉 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)<!-- MEMES:END -->
 
 --- 
 
