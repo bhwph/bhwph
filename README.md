@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It&#39;s Not Easy Running a Geeky Business](https://www.wired.com/2022/03/geeks-guide-business-owners/)
- - [Best Beats Headphone Deals: Save Up to $150 on Studio Pro, Powerbeats Pro and More     - CNET](https://www.cnet.com/deals/best-beats-headphone-deals/#ftag=CAD590a51e)
- - [Canon: No camera can truly capture video for Apple&#39;s Vision Pro](https://appleinsider.com/articles/24/03/03/canon-no-camera-can-truly-capture-video-for-apples-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Indian watchdog MeitY issues an advisory asking developers to seek &quot;explicit permission&quot; before deploying any AI models or AI-backed algorithms &lpar;The Economic Times&rpar;](http://www.techmeme.com/240303/p7#a240303p7)
+ - [The 5 Best Magnesium Supplements of 2024     - CNET](https://www.cnet.com/health/nutrition/5-best-magnesium-supplements/#ftag=CAD590a51e)
+ - [I&#39;ve Traveled All Over the World. These Are 7 Things I Always Pack     - CNET](https://www.cnet.com/tech/ive-traveled-all-over-the-world-these-are-7-things-i-always-pack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
