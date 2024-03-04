@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Tech Job Interviews Became Such a Nightmare](https://www.wired.com/story/why-tech-job-interviews-became-such-a-nightmare/)
- - [Best Solar Panel Installation Companies in Maine     - CNET](https://www.cnet.com/home/energy-and-utilities/maine-solar-panels/#ftag=CAD590a51e)
- - [Best iPhone in 2024: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [European Union smacks Apple with $2 billion fine over music streaming](https://appleinsider.com/articles/24/03/04/european-union-smacks-apple-with-195-billion-fine-over-music-streaming?utm_medium=rss)
+ - [Apple says Spotify was the &quot;primary advocate&quot; and &quot;biggest beneficiary&quot; of the EU&#39;s ruling, Spotify pays Apple nothing, and that &quot;free isn&#39;t enough for Spotify&quot; &lpar;Apple&rpar;](http://www.techmeme.com/240304/p6#a240304p6)
+ - [Apple hit with first ever EU fine following Spotify complaint](https://www.theverge.com/2024/3/4/24005938/european-commission-antitrust-apple-investigation-anti-steering-rules-app-developers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
