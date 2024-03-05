@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft to reveal Surface Pro 10 and Surface Laptop 6 later this month](https://www.theverge.com/2024/3/5/24091211/microsoft-surface-pro-10-surface-laptop-6-release-date-specs)
- - [Release dates and trailers for the biggest streaming movies and TV shows in 2024](https://www.theverge.com/24065499/netflix-disney-plus-max-release-date-trailer-streaming-calendar)
- - [The Nothing Phone 2A proves thoughtful design can come at a budget price](https://www.theverge.com/24090581/nothing-phone-2a-screen-battery-camera-price)<!-- TECH:END -->
+ - [Microsoft will end support for its Android subsystem in Windows 11 on March 5, 2025, and consequently, for the Amazon Appstore on Windows as well &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240305/p23#a240305p23)
+ - [iOS 17.4 is here with alternative marketplaces, quantum protections, &amp; battery health updates](https://appleinsider.com/articles/24/03/05/ios-174-is-here-with-alternative-marketplaces-quantum-protections-battery-health-updates?utm_medium=rss)
+ - [Apple releases iPadOS 17.4 with compliance for EU Digital Markets Act](https://appleinsider.com/articles/24/03/05/apple-releases-ipados-174-with-compliance-for-eu-digital-markets-act?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
