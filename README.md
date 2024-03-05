@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destructive testing of six liquid cooling radiators reveals some don&#39;t match the marketing](https://www.pcgamer.com/hardware/destructive-testing-of-six-liquid-coolers-reveals-some-dont-match-the-marketing)
- - [NASA releases an official tabletop adventure that&#39;s brave enough to ask: what would Earth be like if a dragon kidnapped a bunch of D&amp;D wizards and stole the Hubble Space Telescope](https://www.pcgamer.com/games/rpg/nasa-releases-an-official-tabletop-adventure-thats-brave-enough-to-ask-what-would-earth-be-like-if-a-dragon-kidnapped-a-bunch-of-dandd-wizards-and-stole-the-hubble-space-telescope)
- - [MLB The Show 24 unveils Road to the Show: Women Pave Their Way](https://blog.playstation.com/2024/03/05/mlb-the-show-24-unveils-road-to-the-show-women-pave-their-way/)<!-- GAME:END -->
+ - [Outcast – A New Beginning prioritizes action-adventure freedom on March 15](https://blog.playstation.com/2024/03/05/outcast-a-new-beginning-prioritizes-action-adventure-freedom-on-march-15/)
+ - [Turbo Golf Racing: From 1 Million Game Preview Players to Release](https://news.xbox.com/en-us/2024/03/05/turbo-golf-racing-release-date-million-players/)
+ - [Every Nintendo Switch controversy, doubt, and debate](https://www.polygon.com/24090415/nintendo-switch-controversies-debates)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
