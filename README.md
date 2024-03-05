@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s new Pixel updates include a Hello button to let Google Assistant screen calls, Circle to Search on Pixel 7, and 10-bit HDR video uploads to Instagram &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/240304/p19#a240304p19)
- - [As bitcoin rallies past $67K and nears its all-time high, Coinbase&#39;s stock, which hit $46.43 last year, soars to $229.15, nearly doubling in the past month &lpar;Niamh Rowe/Fortune&rpar;](http://www.techmeme.com/240304/p18#a240304p18)
- - [How to file and pay your 2023 taxes online](https://www.theverge.com/24032894/taxes-irs-file-2023-how-to-refund)<!-- TECH:END -->
+ - [At an event, Sergey Brin said Google &quot;definitely messed up&quot; Gemini&#39;s image generation launch and it&#39;s &quot;not our intention&quot; to have it leaning left in many cases &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240304/p21#a240304p21)
+ - [Nugget Countertop Ice Maker     - CNET](https://www.cnet.com/home/kitchen-and-household/nugget-countertop-ice-maker2-dpnl/#ftag=CAD590a51e)
+ - [Universal Fit Car Floor Mats     - CNET](https://www.cnet.com/roadshow/news/universal-fit-car-floor-mats-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
