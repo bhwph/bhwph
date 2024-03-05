@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI gadgets, bendy phones, and more from MWC](https://www.theverge.com/2024/3/5/24090759/humane-pin-nothing-2a-transparent-lenovo-laptop-mwc-vergecast)
- - [How to Use Apple’s Check In Feature in iOS 17 &lpar;2024&rpar;](https://www.wired.com/story/how-to-use-check-in-iphone-ios-17/)
- - [GM is developing a fleet of hydrogen-powered medium-duty trucks for DOE pilot](https://www.theverge.com/2024/3/5/24090488/gm-hydrogen-fuel-cell-truck-fleet-pilot-doe)<!-- TECH:END -->
+ - [Microsoft to reveal Surface Pro 10 and Surface Laptop 6 later this month](https://www.theverge.com/2024/3/5/24091211/microsoft-surface-pro-10-surface-laptop-6-release-date-specs)
+ - [Release dates and trailers for the biggest streaming movies and TV shows in 2024](https://www.theverge.com/24065499/netflix-disney-plus-max-release-date-trailer-streaming-calendar)
+ - [The Nothing Phone 2A proves thoughtful design can come at a budget price](https://www.theverge.com/24090581/nothing-phone-2a-screen-battery-camera-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
