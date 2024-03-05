@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
- - 😝 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
- - 👉 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)<!-- MEMES:END -->
+ - 6️⃣ [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
+ - 😝 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)
+ - 👉 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)<!-- MEMES:END -->
 
 --- 
 
