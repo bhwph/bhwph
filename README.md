@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV is getting ready for the Oscars with over 30 free movies](https://www.androidauthority.com/google-tv-oscar-free-movies-3422495/)
- - [A new proposal could ban landlords from charging for cable and internet in bulk](https://www.theverge.com/2024/3/5/24090656/landlords-tenants-bulk-billing-cable-internet-fcc-white-house-competition-council)
- - [Rivian’s smaller R2 electric SUV detailed in website slipup](https://www.theverge.com/2024/3/5/24091012/rivian-r2-electric-suv-specs-leak-range-price)<!-- TECH:END -->
+ - [OnePlus 12R review: Should you buy it?](https://www.androidauthority.com/oneplus-12r-review-3414874/)
+ - [Cloudflare announces Firewall for AI, a protection layer that companies can deploy in front of LLMs to identify abuses before they can reach the models &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/240305/p9#a240305p9)
+ - [In just a few months, Google spent well over $1B to settle lawsuits, including $700M on Play Store claims, as the company battles the US DOJ in two other cases &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240305/p8#a240305p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
