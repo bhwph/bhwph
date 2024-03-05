@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Outcast – A New Beginning prioritizes action-adventure freedom on March 15](https://blog.playstation.com/2024/03/05/outcast-a-new-beginning-prioritizes-action-adventure-freedom-on-march-15/)
- - [Turbo Golf Racing: From 1 Million Game Preview Players to Release](https://news.xbox.com/en-us/2024/03/05/turbo-golf-racing-release-date-million-players/)
- - [Every Nintendo Switch controversy, doubt, and debate](https://www.polygon.com/24090415/nintendo-switch-controversies-debates)<!-- GAME:END -->
+ - [Spaceman’s director answers the movie’s biggest question: Is the alien spider real?](https://www.polygon.com/24090474/adam-sandler-paul-dano-spaceman-is-hanus-real)
+ - [The Critically Acclaimed Mediterranea Inferno is Now Available on Xbox Series S|X](https://news.xbox.com/en-us/2024/03/05/mediterranea-inferno-is-now-available-on-xbox-series-sx/)
+ - [Atlus has recreated the original Persona 3 trailer to celebrate 22 million copies, but now I can’t stop thinking about Door-kun](https://www.pcgamer.com/games/rpg/atlus-has-recreated-the-original-persona-3-trailer-to-celebrate-22-million-copies-but-now-i-cant-stop-thinking-about-door-kun)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
