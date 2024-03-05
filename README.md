@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over 600 Google Workers Urge the Company to Cut Ties With Israeli Tech Conference](https://www.wired.com/story/google-workers-letter-cut-ties-israeli-tech-conference/)
- - [Oregon is about to sign — or veto — the strongest right-to-repair law yet](https://www.theverge.com/2024/3/4/24090828/oregon-right-to-repair-sb-1596-parts-pairing)
- - [Sources: US officials told AMD that the company&#39;s AI chip for the Chinese market was still too powerful and it must obtain a license in order to sell it &lpar;Bloomberg&rpar;](http://www.techmeme.com/240304/p24#a240304p24)<!-- TECH:END -->
+ - [Android 14 QPR2 update rolls out with March Pixel feature drop](https://www.androidauthority.com/android-14-qpr2-stable-update-pixel-3422447/)
+ - [A profile of Oregon-based Agility Robotics, which tests its humanoid warehouse robots in the real world and has named ex-Magic Leap CEO Peggy Johnson as its CEO &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240304/p27#a240304p27)
+ - [Mews, which offers cloud-based hotel management tools, raised $110M led by Kinnevik at a $1.2B post-money valuation; the company says it&#39;s not yet profitable &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240304/p26#a240304p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
