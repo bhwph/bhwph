@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let&#39;s continue](http://9gag.com/gag/anzA47B)
- - 😝 [Bro won?](http://9gag.com/gag/aWGVxB4)
- - 👉 [Reverse image search](http://9gag.com/gag/aBdDgGA)<!-- MEMES:END -->
+ - 6️⃣ [Reverse image search](http://9gag.com/gag/aBdDgGA)
+ - 😝 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
+ - 👉 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)<!-- MEMES:END -->
 
 --- 
 
