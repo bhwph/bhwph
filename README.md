@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 QPR2 update rolls out with March Pixel feature drop](https://www.androidauthority.com/android-14-qpr2-stable-update-pixel-3422447/)
- - [A profile of Oregon-based Agility Robotics, which tests its humanoid warehouse robots in the real world and has named ex-Magic Leap CEO Peggy Johnson as its CEO &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240304/p27#a240304p27)
- - [Mews, which offers cloud-based hotel management tools, raised $110M led by Kinnevik at a $1.2B post-money valuation; the company says it&#39;s not yet profitable &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240304/p26#a240304p26)<!-- TECH:END -->
+ - [Oregon passes landmark Right To Repair law that allows you to fix electronics as old as 2015](https://www.androidauthority.com/oregon-right-to-repair-law-3422459/)
+ - [Harry Potter series: Expected release date and the latest rumors](https://www.androidauthority.com/harry-potter-series-release-date-3422448/)
+ - [Topsort, whose API allows small businesses to simplify their ad campaigns, raised a $20M Series A led by Upload Ventures, bringing its total raised to $28.6M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240304/p28#a240304p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
