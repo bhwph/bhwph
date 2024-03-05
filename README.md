@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft will end support for its Android subsystem in Windows 11 on March 5, 2025, and consequently, for the Amazon Appstore on Windows as well &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240305/p23#a240305p23)
- - [iOS 17.4 is here with alternative marketplaces, quantum protections, &amp; battery health updates](https://appleinsider.com/articles/24/03/05/ios-174-is-here-with-alternative-marketplaces-quantum-protections-battery-health-updates?utm_medium=rss)
- - [Apple releases iPadOS 17.4 with compliance for EU Digital Markets Act](https://appleinsider.com/articles/24/03/05/apple-releases-ipados-174-with-compliance-for-eu-digital-markets-act?utm_medium=rss)<!-- TECH:END -->
+ - [Now all Signal users can share usernames instead of phone numbers](https://www.theverge.com/2024/2/20/24078395/signal-username-phone-number-beta)
+ - [Waze will warn you about speed bumps and sharp curves soon](https://www.theverge.com/2024/3/5/24091139/google-waze-maps-new-alerts-speed-bumps-parking-traffic-circles)
+ - [Makers of Popular Switch Emulator Yuzu Agree to Pay $2.4 Million to Settle Nintendo Lawsuit](https://www.wired.com/story/nintendo-switch-emulator-yuzu-lawsuit-24-million-dollar-settlement/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
