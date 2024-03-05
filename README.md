@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lol.](http://9gag.com/gag/a5XLbny)
- - 😝 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
- - 👉 [This indian street food has the best reviews for quality and hygiene](http://9gag.com/gag/a7qjrKq)<!-- MEMES:END -->
+ - 6️⃣ [No thanks.](http://9gag.com/gag/aA0nDXR)
+ - 😝 [....](http://9gag.com/gag/avQbONO)
+ - 👉 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)<!-- MEMES:END -->
 
 --- 
 
