@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy for you two](http://9gag.com/gag/a4oMZOZ)
- - 😝 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
- - 👉 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)<!-- MEMES:END -->
+ - 6️⃣ [Triplets](http://9gag.com/gag/avQbOAO)
+ - 😝 [She&#39;ll be out of business that way.](http://9gag.com/gag/aeQXYLQ)
+ - 👉 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)<!-- MEMES:END -->
 
 --- 
 
