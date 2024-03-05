@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Seriously.](http://9gag.com/gag/a3ZoRG8)
- - 😝 [What has become of once thriving South Africa?](http://9gag.com/gag/a2KQoxD)
- - 👉 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)<!-- MEMES:END -->
+ - 6️⃣ [Lol.](http://9gag.com/gag/a5XLbny)
+ - 😝 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
+ - 👉 [This indian street food has the best reviews for quality and hygiene](http://9gag.com/gag/a7qjrKq)<!-- MEMES:END -->
 
 --- 
 
