@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now all Signal users can share usernames instead of phone numbers](https://www.theverge.com/2024/2/20/24078395/signal-username-phone-number-beta)
- - [Waze will warn you about speed bumps and sharp curves soon](https://www.theverge.com/2024/3/5/24091139/google-waze-maps-new-alerts-speed-bumps-parking-traffic-circles)
- - [Makers of Popular Switch Emulator Yuzu Agree to Pay $2.4 Million to Settle Nintendo Lawsuit](https://www.wired.com/story/nintendo-switch-emulator-yuzu-lawsuit-24-million-dollar-settlement/)<!-- TECH:END -->
+ - [CrowdStrike reports Q4 revenue up 33% YoY to $845M, vs. $839M est., and agrees to buy cloud security company Flow Security for an undisclosed price; CRWD up 20% &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240305/p30#a240305p30)
+ - [Apple Podcasts now includes transcripts](https://www.theverge.com/2024/3/5/24091555/apple-podcasts-transcripts-ios-17-4-update)
+ - [Apple Card, Savings data now available in more third-party budget apps](https://appleinsider.com/articles/24/03/05/apple-card-savings-data-now-available-in-more-third-party-budget-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
