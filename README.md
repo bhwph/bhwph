@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spaceman’s director answers the movie’s biggest question: Is the alien spider real?](https://www.polygon.com/24090474/adam-sandler-paul-dano-spaceman-is-hanus-real)
- - [The Critically Acclaimed Mediterranea Inferno is Now Available on Xbox Series S|X](https://news.xbox.com/en-us/2024/03/05/mediterranea-inferno-is-now-available-on-xbox-series-sx/)
- - [Atlus has recreated the original Persona 3 trailer to celebrate 22 million copies, but now I can’t stop thinking about Door-kun](https://www.pcgamer.com/games/rpg/atlus-has-recreated-the-original-persona-3-trailer-to-celebrate-22-million-copies-but-now-i-cant-stop-thinking-about-door-kun)<!-- GAME:END -->
+ - [The new Fallout-themed controllers will set you back more than a few caps](https://www.polygon.com/deals/24091456/fallout-xbox-controller-design-lab-costs-how-much)
+ - [After Suicide Squad ‘Disappoints,’ WB Doubles Down On Live-Service Games](https://kotaku.com/warner-bros-free-to-play-suicide-squad-harry-potter-1851309669)
+ - [The banned trans Joker movie finally has a trailer and a theatrical release](https://www.polygon.com/24091473/the-peoples-joker-2022-vera-drew-movie-trailer-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
