@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women.](http://9gag.com/gag/aKEbVZZ)
- - 😝 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
- - 👉 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)<!-- MEMES:END -->
+ - 6️⃣ [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
+ - 😝 [Not sure who&#39;s getting scammed. The guy at the call center or the guy who spent 10 hours messing with him](http://9gag.com/gag/abvjzeB)
+ - 👉 [Reverse image search](http://9gag.com/gag/aBdDgGA)<!-- MEMES:END -->
 
 --- 
 
