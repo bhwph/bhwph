@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 12R review: Should you buy it?](https://www.androidauthority.com/oneplus-12r-review-3414874/)
- - [Cloudflare announces Firewall for AI, a protection layer that companies can deploy in front of LLMs to identify abuses before they can reach the models &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/240305/p9#a240305p9)
- - [In just a few months, Google spent well over $1B to settle lawsuits, including $700M on Play Store claims, as the company battles the US DOJ in two other cases &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240305/p8#a240305p8)<!-- TECH:END -->
+ - [AI gadgets, bendy phones, and more from MWC](https://www.theverge.com/2024/3/5/24090759/humane-pin-nothing-2a-transparent-lenovo-laptop-mwc-vergecast)
+ - [How to Use Apple’s Check In Feature in iOS 17 &lpar;2024&rpar;](https://www.wired.com/story/how-to-use-check-in-iphone-ios-17/)
+ - [GM is developing a fleet of hydrogen-powered medium-duty trucks for DOE pilot](https://www.theverge.com/2024/3/5/24090488/gm-hydrogen-fuel-cell-truck-fleet-pilot-doe)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
