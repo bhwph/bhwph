@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
- - 😝 [Lol.](http://9gag.com/gag/a5XLbny)
- - 👉 [Did he just discharged a firearm sitting in his pants?](http://9gag.com/gag/aYVzYvw)<!-- MEMES:END -->
+ - 6️⃣ [Seriously.](http://9gag.com/gag/a3ZoRG8)
+ - 😝 [What has become of once thriving South Africa?](http://9gag.com/gag/a2KQoxD)
+ - 👉 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)<!-- MEMES:END -->
 
 --- 
 
