@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
- - 😝 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
- - 👉 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)<!-- MEMES:END -->
+ - 6️⃣ [True story, true story...](http://9gag.com/gag/aWGVjAK)
+ - 😝 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
+ - 👉 [....](http://9gag.com/gag/avQbONO)<!-- MEMES:END -->
 
 --- 
 
