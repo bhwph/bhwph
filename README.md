@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple stumbles big in China: iPhone sales plummet by 24%](https://www.androidauthority.com/iphone-sales-decline-3423089/)
- - [A 62-Year-Old German Man Got 217 Covid Shots—and Was Totally Fine](https://www.wired.com/story/man-gets-217-covid-vaccine-shots-totally-fine/)
- - [In a letter, 41 state AGs call on Meta to address the &quot;dramatic increase&quot; in Facebook and Instagram account takeovers and say hackers buy ads on its services &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/240306/p28#a240306p28)<!-- TECH:END -->
+ - [Your Tidal subscription is getting cheaper, but there’s a catch](https://www.androidauthority.com/tidal-subscription-new-price-3423113/)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [LinkedIn is down](https://www.theverge.com/2024/3/6/24092667/linkedin-outage-down-error)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
