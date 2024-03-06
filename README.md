@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
- - 😝 [Ansieda\u2019](http://9gag.com/gag/awZqzXD)
- - 👉 [NYC is not 4 beginners](http://9gag.com/gag/aWGVYM3)<!-- MEMES:END -->
+ - 6️⃣ [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)
+ - 😝 [Haters goes hate](http://9gag.com/gag/a4oME1A)
+ - 👉 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)<!-- MEMES:END -->
 
 --- 
 
