@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bummer: We May Never See Dune 2&#39;s Deleted Scenes](https://kotaku.com/dune-2-deleted-scenes-denis-villeneuve-1851312046)
- - [Vampire: The Masquerade – Bloodlines 2 will let you become a super vampire by drinking vamp blood, taking their abilities and combining them &#39;in hundreds of different ways&#39;](https://www.pcgamer.com/games/rpg/vampire-the-masquerade-bloodlines-2-will-let-you-become-a-super-vampire-by-drinking-vamp-blood-taking-their-abilities-and-combining-them-in-hundreds-of-different-ways)
- - [Vampire: The Masquerade – Bloodlines 2&#39;s Brujah are big drinkers who flip the bird to taunt enemies](https://www.pcgamer.com/games/rpg/vampire-the-masquerade-bloodlines-2s-brujah-are-big-drinkers-who-flip-the-bird-to-taunt-enemies)<!-- GAME:END -->
+ - [Xbox Partner Preview – How the Iconic S.T.A.L.K.E.R. Trilogy Finally Made Its Way to Xbox](https://news.xbox.com/en-us/2024/03/06/xbox-partner-preview-stalker-trilogy/)
+ - [The Star Wars Cerveza Cristal Meme Is So Dang Good](https://kotaku.com/star-wars-beer-ad-cerveza-cristal-memes-chile-obi-wan-1851312591)
+ - [Xbox Partner Preview – The Sinking City 2 Has Mutated Into a Full-Blown Horror Game](https://news.xbox.com/en-us/2024/03/06/xbox-partner-preview-sinking-city-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
