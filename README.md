@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [True story, true story...](http://9gag.com/gag/aWGVjAK)
- - 😝 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
- - 👉 [....](http://9gag.com/gag/avQbONO)<!-- MEMES:END -->
+ - 6️⃣ [Bro won?](http://9gag.com/gag/aWGVxB4)
+ - 😝 [Hold up\ud83e\udd1a\ud83c\udffbwhat?](http://9gag.com/gag/aL1qprP)
+ - 👉 [Well oops ok](http://9gag.com/gag/aoKBMnm)<!-- MEMES:END -->
 
 --- 
 
