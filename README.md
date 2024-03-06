@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo begins testing its driverless ride-hailing service without a safety operator in Austin starting March 6, initially offering the service to Waymo employees &lpar;Kara Carlson/Austin American-Statesman&rpar;](http://www.techmeme.com/240305/p39#a240305p39)
- - [Alternative app marketplaces won&#39;t work outside of the EU](https://appleinsider.com/articles/24/03/06/alternative-app-marketplaces-wont-work-outside-of-the-eu?utm_medium=rss)
- - [Apple says alternative app stores will stop working, and the apps installed from them will stop updating, if a user travels outside of the EU &quot;for too long&quot; &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240305/p38#a240305p38)<!-- TECH:END -->
+ - [Apple’s ends App Store tyranny in Europe with the latest iOS 17.4 update](https://www.androidauthority.com/apple-ios-17-4-alternative-app-stores-3422790/)
+ - [How to add and remove stickers as a reaction in Messages in iOS 17](https://appleinsider.com/articles/24/03/06/how-to-add-and-remove-stickers-as-a-reaction-in-messages-in-ios-17?utm_medium=rss)
+ - [A Montenegro appeals court cancels the approval of Do Kwon&#39;s extradition to the US, the third time the Terraform Labs co-founder has successfully appealed &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240305/p42#a240305p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
