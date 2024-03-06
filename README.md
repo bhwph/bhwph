@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Thaumaturge is an ambitious, compelling RPG that’s a diamond in the rough](https://www.polygon.com/reviews/24091697/the-thaumaturge-rpg-review-pc-xbox-ps5)
- - [Stephen A. Smith Knows Tilted Towers Is The Fortnite Hot Spot](https://kotaku.com/fortnite-tilted-towers-stephen-a-smith-1851313069)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240303-2200&rpar;](https://news.xbox.com/en-us/2024/03/06/xbox-insider-release-notes-alpha-skip-ahead-2408-240303-2200/)<!-- GAME:END -->
+ - [How to get Focus Activity Packages in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24091997/focus-activity-packages-skimmer-guardian-games)
+ - [Who Is The Best Hang In Unicorn Overlord? A Scientific Ranking](https://kotaku.com/unicorn-overlord-vanillaware-vibe-rankings-switch-demo-1851313835)
+ - [Sony Has The Final Fantasy 7 Remake Trilogy On Lock [Update: Or Not!]](https://kotaku.com/final-fantasy-7-remake-trilogy-playstation-exclusive-1851313313)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
