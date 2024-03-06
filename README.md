@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
- - 😝 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)
- - 👉 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)<!-- MEMES:END -->
+ - 😝 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
+ - 👉 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)<!-- MEMES:END -->
 
 --- 
 
