@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She is such a cinnamon rolls](http://9gag.com/gag/amADg49)
- - 😝 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)
- - 👉 [Haters goes hate](http://9gag.com/gag/a4oME1A)<!-- MEMES:END -->
+ - 6️⃣ [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)
+ - 😝 [Instant justice...sorry for that music though](http://9gag.com/gag/aMEp4nW)
+ - 👉 [A Belarusian living in Lithuania since 2019 has 14 days to leave the country after he made a statment on one YouTube channel: `I don&#39;t like it here, I don&#39;t like Lithuanians...I don&#39;t like Lithuanian language, fu** it. I don&#39;t need it.`](http://9gag.com/gag/aoKBKRw)<!-- MEMES:END -->
 
 --- 
 
