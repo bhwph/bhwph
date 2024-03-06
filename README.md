@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Babies instinctually avoid grass](http://9gag.com/gag/aL1qv95)
- - 😝 [Ansieda\u2019](http://9gag.com/gag/awZqzXD)
- - 👉 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)<!-- MEMES:END -->
+ - 6️⃣ [It\u2019ll happen to you](http://9gag.com/gag/a2KQ1n1)
+ - 😝 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
+ - 👉 [Let&#39;s continue](http://9gag.com/gag/anzA47B)<!-- MEMES:END -->
 
 --- 
 
