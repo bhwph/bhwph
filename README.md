@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Partner Preview – How the Iconic S.T.A.L.K.E.R. Trilogy Finally Made Its Way to Xbox](https://news.xbox.com/en-us/2024/03/06/xbox-partner-preview-stalker-trilogy/)
- - [The Star Wars Cerveza Cristal Meme Is So Dang Good](https://kotaku.com/star-wars-beer-ad-cerveza-cristal-memes-chile-obi-wan-1851312591)
- - [Xbox Partner Preview – The Sinking City 2 Has Mutated Into a Full-Blown Horror Game](https://news.xbox.com/en-us/2024/03/06/xbox-partner-preview-sinking-city-2/)<!-- GAME:END -->
+ - [The Thaumaturge is an ambitious, compelling RPG that’s a diamond in the rough](https://www.polygon.com/reviews/24091697/the-thaumaturge-rpg-review-pc-xbox-ps5)
+ - [Stephen A. Smith Knows Tilted Towers Is The Fortnite Hot Spot](https://kotaku.com/fortnite-tilted-towers-stephen-a-smith-1851313069)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240303-2200&rpar;](https://news.xbox.com/en-us/2024/03/06/xbox-insider-release-notes-alpha-skip-ahead-2408-240303-2200/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
