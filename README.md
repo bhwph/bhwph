@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, March 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-6-2024)
- - [Community Update March 2024 – Challenging Depths](https://news.xbox.com/en-us/2024/03/05/community-update-march-2024-challenging-depths/)
- - [Folks, I think I&#39;ve worked out how Bungie plans to make up its 45% revenue shortfall](https://www.pcgamer.com/games/fps/folks-i-think-ive-worked-out-how-bungie-plans-to-make-up-its-45-revenue-shortfall)<!-- GAME:END -->
+ - [Crusader Kings 3 finally gets its most hotly demanded feature in years: an authentic male pattern baldness system](https://www.pcgamer.com/games/strategy/crusader-kings-3-finally-gets-its-most-hotly-demanded-feature-in-years-an-authentic-male-pattern-baldness-system)
+ - [Asus ROG Strix XG27ACS review](https://www.pcgamer.com/hardware/gaming-monitors/asus-rog-strix-xg27acs-gaming-monitor-review)
+ - [How to get a Focus Activity Winners Package in Destiny 2 and open it](https://www.pcgamer.com/games/fps/destiny-2-focus-activity-winners-package)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
