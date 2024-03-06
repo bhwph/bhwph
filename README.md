@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In letter to Epic, Apple&#39;s lawyers cite Tim Sweeney&#39;s public attacks, including an X post, and say Epic is part of a &quot;global effort to undermine&quot; Apple&#39;s rules &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240306/p26#a240306p26)
- - [Nothing Phone 2a vs Nothing Phone 2 hands-on: What’s the difference and which should you buy?](https://www.androidauthority.com/nothing-phone-2a-vs-nothing-phone-2-3422688/)
- - [Twitch is focused on mobile and streamer collaboration in 2024](https://www.theverge.com/2024/3/6/24092413/twitch-open-letter-2024-mobile-streamer-collaboration)<!-- TECH:END -->
+ - [Apple stumbles big in China: iPhone sales plummet by 24%](https://www.androidauthority.com/iphone-sales-decline-3423089/)
+ - [A 62-Year-Old German Man Got 217 Covid Shots—and Was Totally Fine](https://www.wired.com/story/man-gets-217-covid-vaccine-shots-totally-fine/)
+ - [In a letter, 41 state AGs call on Meta to address the &quot;dramatic increase&quot; in Facebook and Instagram account takeovers and say hackers buy ads on its services &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/240306/p28#a240306p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
