@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at Nvidia&#39;s DGX H100 setup: 32 DGX boxes, each weighing 300lb, that house eight individual $25K H100 GPUs, cooling, and other chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240306/p13#a240306p13)
- - [Sources: the Dutch government creates a taskforce to address ASML&#39;s issues, including expatriate workers and grid congestion, to keep ASML in the Netherlands &lpar;Bloomberg&rpar;](http://www.techmeme.com/240306/p12#a240306p12)
- - [The Dark Side of Open Source AI Image Generators](https://www.wired.com/story/dark-side-open-source-ai-image-generators/)<!-- TECH:END -->
+ - [Microsoft engineer Shane Jones writes to the FTC and Microsoft&#39;s board warning Copilot Designer creates violent and sexual images, ignores copyrights, and more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240306/p19#a240306p19)
+ - [Rivian blazed a trail with its adventure EVs — can it stay on top?](https://www.theverge.com/2024/3/6/24091419/rivian-r2-ev-crossover-suv-profit-earnings-future)
+ - [My smart kitchen: the good, the bad, and the future](https://www.theverge.com/24087703/smart-home-kitchen-appliances)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
