@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)
- - 😝 [Instant justice...sorry for that music though](http://9gag.com/gag/aMEp4nW)
- - 👉 [A Belarusian living in Lithuania since 2019 has 14 days to leave the country after he made a statment on one YouTube channel: `I don&#39;t like it here, I don&#39;t like Lithuanians...I don&#39;t like Lithuanian language, fu** it. I don&#39;t need it.`](http://9gag.com/gag/aoKBKRw)<!-- MEMES:END -->
+ - 6️⃣ [How to make things worse](http://9gag.com/gag/aqevjMv)
+ - 😝 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
+ - 👉 [There is some meme potential](http://9gag.com/gag/agoRoDq)<!-- MEMES:END -->
 
 --- 
 
