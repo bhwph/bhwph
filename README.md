@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It\u2019ll happen to you](http://9gag.com/gag/a2KQ1n1)
- - 😝 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
- - 👉 [Let&#39;s continue](http://9gag.com/gag/anzA47B)<!-- MEMES:END -->
+ - 6️⃣ [Fallout ?](http://9gag.com/gag/a8qrqdO)
+ - 😝 [I&#39;m in this picture and I don&#39;t like it](http://9gag.com/gag/ap9egGn)
+ - 👉 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)<!-- MEMES:END -->
 
 --- 
 
