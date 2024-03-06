@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Industrial cybersecurity startup Claroty raised $100M in a &quot;pre-IPO round&quot; at an estimated $2.5B valuation and reports $100M ARR, after raising $400M in 2021 &lpar;Assaf Gilead/Globes Online&rpar;](http://www.techmeme.com/240306/p23#a240306p23)
- - [Cities Aren’t Prepared for a Crucial Part of Sea-Level Rise: They’re Also Sinking](https://www.wired.com/story/cities-arent-prepared-for-a-crucial-part-of-sea-level-rise-theyre-also-sinking/)
- - [Cities are sinking, and it’s making them more vulnerable to climate change](https://www.theverge.com/2024/3/6/24091541/sinking-cities-coast-sea-level-rise-nature-research)<!-- TECH:END -->
+ - [In letter to Epic, Apple&#39;s lawyers cite Tim Sweeney&#39;s public attacks, including an X post, and say Epic is part of a &quot;global effort to undermine&quot; Apple&#39;s rules &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240306/p26#a240306p26)
+ - [Nothing Phone 2a vs Nothing Phone 2 hands-on: What’s the difference and which should you buy?](https://www.androidauthority.com/nothing-phone-2a-vs-nothing-phone-2-3422688/)
+ - [Twitch is focused on mobile and streamer collaboration in 2024](https://www.theverge.com/2024/3/6/24092413/twitch-open-letter-2024-mobile-streamer-collaboration)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
