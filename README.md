@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unreleased Helldivers 2 vehicles are leaking all over the place, but I&#39;m not ruling out that Game Master Joel has something to do with it](https://www.pcgamer.com/helldivers-2-leaks-vehicles-mechs)
- - [After focusing on Devil May Cry and Dragon&#39;s Dogma for 20 years, Capcom&#39;s Hideaki Itsuno says &#39;it would be fun to create something new&#39;](https://www.pcgamer.com/games/rpg/after-focusing-on-devil-may-cry-and-dragons-dogma-for-20-years-capcoms-hideaki-itsuno-says-it-would-be-fun-to-create-something-new)
- - [Dragon’s Dogma 2 hands-on: How Capcom brings new life to the RPG sequel](https://blog.playstation.com/2024/03/05/dragons-dogma-2-hands-on-how-capcom-brings-new-life-to-the-rpg-sequel/)<!-- GAME:END -->
+ - [Community Update March 2024 – Challenging Depths](https://news.xbox.com/en-us/2024/03/05/community-update-march-2024-challenging-depths/)
+ - [Folks, I think I&#39;ve worked out how Bungie plans to make up its 45% revenue shortfall](https://www.pcgamer.com/games/fps/folks-i-think-ive-worked-out-how-bungie-plans-to-make-up-its-45-revenue-shortfall)
+ - [Chivalry 2 pauses new skill-based team balancing because it was absolutely stacking teams for some reason](https://www.pcgamer.com/games/action/chivalry-2-duel-of-the-fetes-update-skill-based-team-balancing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
