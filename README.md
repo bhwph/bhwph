@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This phone has a 23,800mAh battery, but still charges faster than the Pixel 7a](https://www.androidauthority.com/unihertz-tank-3-23800mah-battery-3422545/)
- - [OnePlus 12 update alert: Better camera performance incoming](https://www.androidauthority.com/oneplus-12-oxygen-os-14-0-0-602-update-3422800/)
- - [A look at the AI revolution, reminiscent of the industrial revolution but unfolding over years rather than centuries, and the views of AI optimists and doomers &lpar;Michael J. Totten/City Journal&rpar;](http://www.techmeme.com/240306/p7#a240306p7)<!-- TECH:END -->
+ - [An in-depth look at Nvidia&#39;s DGX H100 setup: 32 DGX boxes, each weighing 300lb, that house eight individual $25K H100 GPUs, cooling, and other chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240306/p13#a240306p13)
+ - [Sources: the Dutch government creates a taskforce to address ASML&#39;s issues, including expatriate workers and grid congestion, to keep ASML in the Netherlands &lpar;Bloomberg&rpar;](http://www.techmeme.com/240306/p12#a240306p12)
+ - [The Dark Side of Open Source AI Image Generators](https://www.wired.com/story/dark-side-open-source-ai-image-generators/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
