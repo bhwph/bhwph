@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro won?](http://9gag.com/gag/aWGVxB4)
- - 😝 [Hold up\ud83e\udd1a\ud83c\udffbwhat?](http://9gag.com/gag/aL1qprP)
- - 👉 [Well oops ok](http://9gag.com/gag/aoKBMnm)<!-- MEMES:END -->
+ - 6️⃣ [Sweet Baby Inc detected &gt;&gt;&gt; This is how you use the curator list to avoid shit games :&rpar;](http://9gag.com/gag/a1P4r6w)
+ - 😝 [Dad cock block](http://9gag.com/gag/aeQXMBW)
+ - 👉 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)<!-- MEMES:END -->
 
 --- 
 
