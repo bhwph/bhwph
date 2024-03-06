@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crusader Kings 3 finally gets its most hotly demanded feature in years: an authentic male pattern baldness system](https://www.pcgamer.com/games/strategy/crusader-kings-3-finally-gets-its-most-hotly-demanded-feature-in-years-an-authentic-male-pattern-baldness-system)
- - [Asus ROG Strix XG27ACS review](https://www.pcgamer.com/hardware/gaming-monitors/asus-rog-strix-xg27acs-gaming-monitor-review)
- - [How to get a Focus Activity Winners Package in Destiny 2 and open it](https://www.pcgamer.com/games/fps/destiny-2-focus-activity-winners-package)<!-- GAME:END -->
+ - [Dune: Part Two is really Zendaya’s movie](https://www.polygon.com/24091605/dune-2-zendaya-movie-star-best-performance)
+ - [Turbo Golf Racing tees off April 4 on PS5](https://blog.playstation.com/2024/03/06/turbo-golf-racing-tees-off-april-4-on-ps5/)
+ - [In an unexpected twist, &#39;GTA 5 was quite a big inspiration&#39; for Dragon&#39;s Dogma 2 and game director Hideaki Itsuno](https://www.pcgamer.com/games/rpg/in-an-unexpected-twist-gta-5-was-quite-a-big-inspiration-for-dragons-dogma-2-and-game-director-hideaki-itsuno)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
