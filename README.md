@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune: Part Two is really Zendaya’s movie](https://www.polygon.com/24091605/dune-2-zendaya-movie-star-best-performance)
- - [Turbo Golf Racing tees off April 4 on PS5](https://blog.playstation.com/2024/03/06/turbo-golf-racing-tees-off-april-4-on-ps5/)
- - [In an unexpected twist, &#39;GTA 5 was quite a big inspiration&#39; for Dragon&#39;s Dogma 2 and game director Hideaki Itsuno](https://www.pcgamer.com/games/rpg/in-an-unexpected-twist-gta-5-was-quite-a-big-inspiration-for-dragons-dogma-2-and-game-director-hideaki-itsuno)<!-- GAME:END -->
+ - [Bummer: We May Never See Dune 2&#39;s Deleted Scenes](https://kotaku.com/dune-2-deleted-scenes-denis-villeneuve-1851312046)
+ - [Vampire: The Masquerade – Bloodlines 2 will let you become a super vampire by drinking vamp blood, taking their abilities and combining them &#39;in hundreds of different ways&#39;](https://www.pcgamer.com/games/rpg/vampire-the-masquerade-bloodlines-2-will-let-you-become-a-super-vampire-by-drinking-vamp-blood-taking-their-abilities-and-combining-them-in-hundreds-of-different-ways)
+ - [Vampire: The Masquerade – Bloodlines 2&#39;s Brujah are big drinkers who flip the bird to taunt enemies](https://www.pcgamer.com/games/rpg/vampire-the-masquerade-bloodlines-2s-brujah-are-big-drinkers-who-flip-the-bird-to-taunt-enemies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
