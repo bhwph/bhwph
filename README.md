@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike reports Q4 revenue up 33% YoY to $845M, vs. $839M est., and agrees to buy cloud security company Flow Security for an undisclosed price; CRWD up 20% &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240305/p30#a240305p30)
- - [Apple Podcasts now includes transcripts](https://www.theverge.com/2024/3/5/24091555/apple-podcasts-transcripts-ios-17-4-update)
- - [Apple Card, Savings data now available in more third-party budget apps](https://appleinsider.com/articles/24/03/05/apple-card-savings-data-now-available-in-more-third-party-budget-apps?utm_medium=rss)<!-- TECH:END -->
+ - [Apple says alternative app stores will stop working, and the apps installed from them will stop updating, if a user travels outside of the EU &quot;for too long&quot; &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240305/p38#a240305p38)
+ - [Microsoft invokes VCRs in motion to dismiss The New York Times’s AI lawsuit](https://www.theverge.com/2024/3/5/24091719/microsoft-new-york-times-openai-motion-dismiss-copyright-lawsuit)
+ - [Apple releases iOS 17.4 with new default browser prompts in the EU, support for third-party browser engines, transcripts for Podcasts, 118 new emojis, and more &lpar;Nil&amp;eacute;ane/MacStories&rpar;](http://www.techmeme.com/240305/p37#a240305p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
