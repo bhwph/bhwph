@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft engineer Shane Jones writes to the FTC and Microsoft&#39;s board warning Copilot Designer creates violent and sexual images, ignores copyrights, and more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240306/p19#a240306p19)
- - [Rivian blazed a trail with its adventure EVs — can it stay on top?](https://www.theverge.com/2024/3/6/24091419/rivian-r2-ev-crossover-suv-profit-earnings-future)
- - [My smart kitchen: the good, the bad, and the future](https://www.theverge.com/24087703/smart-home-kitchen-appliances)<!-- TECH:END -->
+ - [Industrial cybersecurity startup Claroty raised $100M in a &quot;pre-IPO round&quot; at an estimated $2.5B valuation and reports $100M ARR, after raising $400M in 2021 &lpar;Assaf Gilead/Globes Online&rpar;](http://www.techmeme.com/240306/p23#a240306p23)
+ - [Cities Aren’t Prepared for a Crucial Part of Sea-Level Rise: They’re Also Sinking](https://www.wired.com/story/cities-arent-prepared-for-a-crucial-part-of-sea-level-rise-theyre-also-sinking/)
+ - [Cities are sinking, and it’s making them more vulnerable to climate change](https://www.theverge.com/2024/3/6/24091541/sinking-cities-coast-sea-level-rise-nature-research)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
