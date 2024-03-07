@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dubai-based social media startup Hunch, which operates an anonymous polling service and claims to have 1M+ users across 22 Indian cities, raised a $23M Series A &lpar;Akshit Pushkarna/Inc42 Media&rpar;](http://www.techmeme.com/240307/p2#a240307p2)
- - [Paris-based Zama, an open-source cryptography startup developing fully homomorphic encryption technology for blockchain and AI apps, raised a $73M Series A &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240307/p1#a240307p1)
- - [Fast Pair is rolling out widely to more Google TV devices](https://www.androidauthority.com/google-tv-fast-pair-android-tv-rollout-3423171/)<!-- TECH:END -->
+ - [SwitchBot’s robot hand to unlock your door gets a big upgrade](https://www.theverge.com/2024/3/7/24092325/switchbot-lock-pro-features-release-date-price-specs)
+ - [Research suggests that prompt engineering is best done by the LLM itself, raising suspicions that a fair portion of prompt engineering jobs may be a passing fad &lpar;Dina Genkina/IEEE Spectrum&rpar;](http://www.techmeme.com/240307/p6#a240307p6)
+ - [Files by Google app gets a helpful new feature exclusive to Pixel phones](https://www.androidauthority.com/files-by-google-app-document-scanner-3423186/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
