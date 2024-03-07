@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Air &lpar;2024&rpar; review: sturdy and sleek, fast M3 chip, excellent 13- and 15-inch displays, great keyboard, and solid speakers, but USB-C is only on one side &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/240307/p20#a240307p20)
- - [Amazon’s new Fallout trailer looks just like the games: grim, goofy, and gruesome](https://www.theverge.com/24092492/fallout-trailer-amazon-bethesda-date)
- - [Adobe adds generative AI to new Express mobile app that’s free to try](https://www.theverge.com/2024/3/7/24093148/adobe-express-mobile-app-beta-firefly-generative-ai-design-tool)<!-- TECH:END -->
+ - [Rivian R2 launch event: the EV company’s more affordable SUV is here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)
+ - [Two ways to score $50 off the new OnePlus Watch 2](https://www.androidauthority.com/oneplus-watch-2-deal-3423355/)
+ - [Snoring at Night? Mouth Taping Is the Latest Trend for Stopping     - CNET](https://www.cnet.com/health/sleep/snoring-at-night-mouth-taping-is-the-latest-trend-for-stopping/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
