@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SwitchBot’s robot hand to unlock your door gets a big upgrade](https://www.theverge.com/2024/3/7/24092325/switchbot-lock-pro-features-release-date-price-specs)
- - [Research suggests that prompt engineering is best done by the LLM itself, raising suspicions that a fair portion of prompt engineering jobs may be a passing fad &lpar;Dina Genkina/IEEE Spectrum&rpar;](http://www.techmeme.com/240307/p6#a240307p6)
- - [Files by Google app gets a helpful new feature exclusive to Pixel phones](https://www.androidauthority.com/files-by-google-app-document-scanner-3423186/)<!-- TECH:END -->
+ - [The EU confirms requesting further explanations from Apple over barring Epic&#39;s developer account under the DMA, and is examining if Apple broke any other rules &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240307/p9#a240307p9)
+ - [A look at Apple&#39;s studio business: sources say the company spent $700M+ of its reported $1B+ annual 2023 spend on just three films, which earned $466M combined &lpar;Tatiana Siegel/Variety&rpar;](http://www.techmeme.com/240307/p8#a240307p8)
+ - [Here’s how to turn on Instagram’s dark mode](https://www.androidauthority.com/how-to-enable-instagram-dark-mode-1169518/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
