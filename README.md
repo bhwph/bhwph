@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When life gives you lemons](http://9gag.com/gag/ay2y9Op)
- - 😝 [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)
- - 👉 [Can anyone guess?](http://9gag.com/gag/aDYBYmO)<!-- MEMES:END -->
+ - 6️⃣ [Shall I help her?](http://9gag.com/gag/adP3Ped)
+ - 😝 [There is some meme potential](http://9gag.com/gag/agoRoDq)
+ - 👉 [Fake coochie](http://9gag.com/gag/aEqePro)<!-- MEMES:END -->
 
 --- 
 
