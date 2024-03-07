@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Focus Activity Packages in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24091997/focus-activity-packages-skimmer-guardian-games)
- - [Who Is The Best Hang In Unicorn Overlord? A Scientific Ranking](https://kotaku.com/unicorn-overlord-vanillaware-vibe-rankings-switch-demo-1851313835)
- - [Sony Has The Final Fantasy 7 Remake Trilogy On Lock [Update: Or Not!]](https://kotaku.com/final-fantasy-7-remake-trilogy-playstation-exclusive-1851313313)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Beta &lpar;2403.240305-2200&rpar;](https://news.xbox.com/en-us/2024/03/06/xbox-insider-release-notes-beta-2403-240305-2200/)
+ - [The world&#39;s fastest Diablo 4 player won&#39;t tell you his secret because he&#39;s still trying to figure it out too](https://www.pcgamer.com/games/action/the-worlds-fastest-diablo-4-player-wont-tell-you-his-secret-because-hes-still-trying-to-figure-it-out-too)
+ - [OpenAI fires back at Elon Musk lawsuit with &#39;facts&#39; showing he &#39;told us we would fail, started a competitor, and then sued us when we started making meaningful progress&#39;](https://www.pcgamer.com/software/ai/openai-fires-back-at-musk-lawsuit-with-facts-showing-he-told-us-we-would-fail-started-a-competitor-and-then-sued-us-when-we-started-making-meaningful-progress)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
