@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [TikTok is becoming swamped with AI-generated conspiracy theory content thanks to a new financial incentive program for creators](https://www.pcgamer.com/software/ai/tiktok-is-becoming-swamped-with-ai-generated-conspiracy-theory-content-thanks-to-a-new-financial-incentive-program-for-creators)
- - [Helldivers 2 players aren&#39;t happy about the game&#39;s first balance patch—here&#39;s why](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-arent-happy-about-the-games-first-balance-patchheres-why)
- - [Shogun’s excellent TV show made me go back and play the videogame adaptations, here&#39;s how they broke me as a man](https://www.pcgamer.com/games/adventure/shoguns-excellent-tv-show-made-me-go-back-and-play-the-videogame-adaptations-heres-how-they-broke-me-as-a-man)<!-- GAME:END -->
+ - [Watch Walton Goggins do a bunch of chems and blast a fist-sized hole in a dude in the new Fallout series trailer](https://www.pcgamer.com/movies-tv/watch-walton-goggins-do-a-bunch-of-chems-and-blast-a-fist-sized-hole-in-a-dude-in-the-new-fallout-series-trailer)
+ - [Every episode of Amazon&#39;s Fallout TV show will be available at once on April 11](https://www.pcgamer.com/movies-tv/every-episode-of-amazons-fallout-tv-show-will-be-available-at-once-on-april-11)
+ - [New Fallout trailer gives us our best look yet at Walton Goggins’ fascinating Ghoul](https://www.polygon.com/24092714/fallout-tv-show-trailer-walton-goggins-ghoul)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
