@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s tvOS 17.4 update now available for the Apple TV](https://appleinsider.com/articles/24/03/07/apples-tvos-174-update-now-available-for-the-apple-tv?utm_medium=rss)
- - [Apple rolls out visionOS 1.1 with many bug fixes, Passcodes, and MDM](https://appleinsider.com/articles/24/03/07/apple-rolls-out-visionos-11-with-many-bug-fixes-passcodes-and-mdm?utm_medium=rss)
- - [Apple updates sideloaded app policy, clarifies ‘grace period’ length](https://www.androidauthority.com/apple-sideloading-grace-period-3423463/)<!-- TECH:END -->
+ - [Switching from iPhone to Android is about to be easier thanks to the EU](https://www.androidauthority.com/iphone-to-android-3423510/)
+ - [LinkedIn says its premium subscriptions unit hit $1.7B in revenue in 2023; COO Dan Shapero says premium subscribers rose 25% in 2023 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240307/p31#a240307p31)
+ - [The 20 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
