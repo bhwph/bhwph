@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Beautiful](http://9gag.com/gag/aA0nQrR)
- - 😝 [How painting can modify the perceptiion of spaces in a room.](http://9gag.com/gag/aKEbEQ6)
- - 👉 [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)<!-- MEMES:END -->
+ - 6️⃣ [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
+ - 😝 [How to make things worse](http://9gag.com/gag/aqevjMv)
+ - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
 
 --- 
 
