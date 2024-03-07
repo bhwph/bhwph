@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good job, mate](http://9gag.com/gag/a9q31E1)
- - 😝 [How far this shit go](http://9gag.com/gag/agoRmx6)
- - 👉 [And!](http://9gag.com/gag/aoKBg7e)<!-- MEMES:END -->
+ - 6️⃣ [When life gives you lemons](http://9gag.com/gag/ay2y9Op)
+ - 😝 [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)
+ - 👉 [Can anyone guess?](http://9gag.com/gag/aDYBYmO)<!-- MEMES:END -->
 
 --- 
 
