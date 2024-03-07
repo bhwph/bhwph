@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Tidal subscription is getting cheaper, but there’s a catch](https://www.androidauthority.com/tidal-subscription-new-price-3423113/)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [LinkedIn is down](https://www.theverge.com/2024/3/6/24092667/linkedin-outage-down-error)<!-- TECH:END -->
+ - [The biggest stories from Hot Pod Summit](https://www.theverge.com/2024/3/6/24092832/hot-pod-summit-ira-glass-programmatic-advertising-coops-defector)
+ - [Deals: Apple&#39;s M3 Max MacBook Pro 16-inch is $300 off today](https://appleinsider.com/articles/24/03/07/deals-apples-m3-max-macbook-pro-16-inch-is-300-off-today?utm_medium=rss)
+ - [A deep dive into Apple&#39;s failed EV project: management&#39;s indecision, various prototypes, partnership talks with Mercedes-Benz, Tesla, McLaren, and others, more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240306/p33#a240306p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
