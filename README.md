@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man 2 Update Adds Debug Menu Letting Players Beat Game In Seconds](https://kotaku.com/spider-man-2-patch-debug-menu-ps5-new-game-insomniac-1851317276)
- - [Exclusive Hearthstone Whizbang&#39;s Workshop card reveals: Will these Mage spells bang?](https://www.pcgamer.com/games/card-games/exclusive-hearthstone-whizbangs-workshop-card-reveals-will-these-mage-spells-bang)
- - [The best Switch deals](https://www.polygon.com/2024/3/7/24084053/best-nintendo-switch-deals-games)<!-- GAME:END -->
+ - [Spider-Man 2 update mistakenly includes dev-only menu, leaking possible DLC](https://www.polygon.com/24093571/spider-man-2-update-debug-menu-insomniac-games)
+ - [Classic EA titles, including the Command &amp; Conquer Ultimate Collection, are now available on Steam](https://www.polygon.com/deals/2024/3/7/24093601/ea-games-steam-command-and-conquer-alpha-centauri-deal)
+ - [An interview with award-winning board game designer Eric Lang on his next game, Life in Reterra](https://www.polygon.com/tabletop-games/24091734/life-in-reterra-eric-lang-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
