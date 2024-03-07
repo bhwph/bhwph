@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switching from iPhone to Android is about to be easier thanks to the EU](https://www.androidauthority.com/iphone-to-android-3423510/)
- - [LinkedIn says its premium subscriptions unit hit $1.7B in revenue in 2023; COO Dan Shapero says premium subscribers rose 25% in 2023 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240307/p31#a240307p31)
- - [The 20 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
+ - [Google rolls out Android 14 QPR3 Beta 2 for Pixel devices: Here’s what’s new](https://www.androidauthority.com/android-14-qpr3-beta-2-3423532/)
+ - [New accessibility features rumored for iOS 18 &amp; macOS 15](https://appleinsider.com/articles/24/03/07/new-accessibility-features-rumored-for-ios-18-macos-15?utm_medium=rss)
+ - [EA just added classics like Dungeon Keeper, SimCity 3000, and Populous on Steam](https://www.theverge.com/2024/3/7/24093716/ea-steam-classics-dungeon-keeper-simcity-populous)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
