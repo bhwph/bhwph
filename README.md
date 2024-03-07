@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Y Combinator CEO Garry Tan early this year talked with OpenAI directors about joining the board, but it is unclear if the board is still considering Tan &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/240306/p39#a240306p39)
- - [SK Hynix plans to invest over $1B in advanced chip packaging in South Korea, as the company hopes to capture the growing demand for high-bandwidth memory &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240306/p38#a240306p38)
- - [20.3-inch foldable MacBook expected in 2027](https://appleinsider.com/articles/24/03/07/203-inch-foldable-macbook-expected-in-2027?utm_medium=rss)<!-- TECH:END -->
+ - [Dubai-based social media startup Hunch, which operates an anonymous polling service and claims to have 1M+ users across 22 Indian cities, raised a $23M Series A &lpar;Akshit Pushkarna/Inc42 Media&rpar;](http://www.techmeme.com/240307/p2#a240307p2)
+ - [Paris-based Zama, an open-source cryptography startup developing fully homomorphic encryption technology for blockchain and AI apps, raised a $73M Series A &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240307/p1#a240307p1)
+ - [Fast Pair is rolling out widely to more Google TV devices](https://www.androidauthority.com/google-tv-fast-pair-android-tv-rollout-3423171/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
