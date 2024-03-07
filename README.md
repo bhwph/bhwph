@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hide &amp; Seek](http://9gag.com/gag/az265Vb)
- - 😝 [Honor killing. Sick culture.](http://9gag.com/gag/a9q3zEW)
- - 👉 [Emergency suit](http://9gag.com/gag/aBdDyQO)<!-- MEMES:END -->
+ - 6️⃣ [Dark age](http://9gag.com/gag/ajV271g)
+ - 😝 [How far this shit go](http://9gag.com/gag/agoRmx6)
+ - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
 
 --- 
 
