@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The biggest stories from Hot Pod Summit](https://www.theverge.com/2024/3/6/24092832/hot-pod-summit-ira-glass-programmatic-advertising-coops-defector)
- - [Deals: Apple&#39;s M3 Max MacBook Pro 16-inch is $300 off today](https://appleinsider.com/articles/24/03/07/deals-apples-m3-max-macbook-pro-16-inch-is-300-off-today?utm_medium=rss)
- - [A deep dive into Apple&#39;s failed EV project: management&#39;s indecision, various prototypes, partnership talks with Mercedes-Benz, Tesla, McLaren, and others, more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240306/p33#a240306p33)<!-- TECH:END -->
+ - [SpaceX allegedly fostered serial sexual abuse, according to this lawsuit](https://www.theverge.com/2024/3/6/24092721/spacex-lawsuit-sexual-bias-harassment-pay-inequity)
+ - [Target will launch unlimited rush shipping subscription to rival Amazon Prime](https://www.theverge.com/2024/3/6/24092880/target-circle-360-free-delivery-shipping-annual-plan)
+ - [DCG files a motion to dismiss NY AG Letitia James&#39; lawsuit over alleged $3B investor fraud, and CEO Barry Silbert files to dismiss accusations he hid losses &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240306/p35#a240306p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
