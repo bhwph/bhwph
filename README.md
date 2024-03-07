@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to make things worse](http://9gag.com/gag/aqevjMv)
- - 😝 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
- - 👉 [There is some meme potential](http://9gag.com/gag/agoRoDq)<!-- MEMES:END -->
+ - 6️⃣ [How far this shit go](http://9gag.com/gag/agoRmx6)
+ - 😝 [Shall I help her?](http://9gag.com/gag/adP3Ped)
+ - 👉 [In Chinese online stores, sellers wear masks with black faces to add authenticity to streams of fake Air Jordans being sold.](http://9gag.com/gag/aQEYEbz)<!-- MEMES:END -->
 
 --- 
 
