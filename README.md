@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Xbox App [2403.1000.38.0]](https://news.xbox.com/en-us/2024/03/07/xbox-insider-release-notes-xbox-app-2403-1000-38-0/)
- - [Free Play Days – Mortal Kombat 1, Moving Out 2, From Space and Ed-0: Zombie Uprising](https://news.xbox.com/en-us/2024/03/07/free-play-days-mortal-kombat-1-moving-out-2-from-space-and-ed-0-zombie-uprising/)
- - [What can modern TCGs learn from the long-dead Dune: Collectible Card Game?](https://www.polygon.com/tabletop-games/24092287/dune-ccg-lessons-for-disney-lorcana-mtg-star-wars-unlimited)<!-- GAME:END -->
+ - [Helldivers 2&#39;s latest order sure looks like a setup for players to liberate their own mech suits… for democracy!](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-latest-order-sure-looks-like-a-setup-for-players-to-liberate-their-own-mech-suits-for-democracy)
+ - [Wizard With a Gun: 5 Powerful Picks from the New Bounty of Guns Update](https://news.xbox.com/en-us/2024/03/07/wizard-with-a-gun-bounty-of-guns-update/)
+ - [The Traitors producers already know what they want to change for season 3](https://www.polygon.com/24087683/traitors-season-2-3-changes-interview-producers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
