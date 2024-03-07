@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian R2 launch event: the EV company’s more affordable SUV is here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)
- - [Two ways to score $50 off the new OnePlus Watch 2](https://www.androidauthority.com/oneplus-watch-2-deal-3423355/)
- - [Snoring at Night? Mouth Taping Is the Latest Trend for Stopping     - CNET](https://www.cnet.com/health/sleep/snoring-at-night-mouth-taping-is-the-latest-trend-for-stopping/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s tvOS 17.4 update now available for the Apple TV](https://appleinsider.com/articles/24/03/07/apples-tvos-174-update-now-available-for-the-apple-tv?utm_medium=rss)
+ - [Apple rolls out visionOS 1.1 with many bug fixes, Passcodes, and MDM](https://appleinsider.com/articles/24/03/07/apple-rolls-out-visionos-11-with-many-bug-fixes-passcodes-and-mdm?utm_medium=rss)
+ - [Apple updates sideloaded app policy, clarifies ‘grace period’ length](https://www.androidauthority.com/apple-sideloading-grace-period-3423463/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
