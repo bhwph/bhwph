@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Microsoft has run a local version of Bing in China since 2009, helping Beijing maintain its Great Firewall; China was just 1.8% of Microsoft&#39;s sales in 2020 &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/240307/p16#a240307p16)
- - [Microsoft confirms Surface and Windows AI event for March 21st](https://www.theverge.com/2024/3/7/24093154/microsoft-surface-windows-ai-event-2024)
- - [How the EU&#39;s DMA could impact Apple and Google&#39;s rivalry; sources say Google lobbied EU officials to allow apps downloaded outside of the main App Store in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240307/p15#a240307p15)<!-- TECH:END -->
+ - [MacBook Air &lpar;2024&rpar; review: sturdy and sleek, fast M3 chip, excellent 13- and 15-inch displays, great keyboard, and solid speakers, but USB-C is only on one side &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/240307/p20#a240307p20)
+ - [Amazon’s new Fallout trailer looks just like the games: grim, goofy, and gruesome](https://www.theverge.com/24092492/fallout-trailer-amazon-bethesda-date)
+ - [Adobe adds generative AI to new Express mobile app that’s free to try](https://www.theverge.com/2024/3/7/24093148/adobe-express-mobile-app-beta-firefly-generative-ai-design-tool)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
