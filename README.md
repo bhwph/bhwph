@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch Walton Goggins do a bunch of chems and blast a fist-sized hole in a dude in the new Fallout series trailer](https://www.pcgamer.com/movies-tv/watch-walton-goggins-do-a-bunch-of-chems-and-blast-a-fist-sized-hole-in-a-dude-in-the-new-fallout-series-trailer)
- - [Every episode of Amazon&#39;s Fallout TV show will be available at once on April 11](https://www.pcgamer.com/movies-tv/every-episode-of-amazons-fallout-tv-show-will-be-available-at-once-on-april-11)
- - [New Fallout trailer gives us our best look yet at Walton Goggins’ fascinating Ghoul](https://www.polygon.com/24092714/fallout-tv-show-trailer-walton-goggins-ghoul)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Xbox App [2403.1000.38.0]](https://news.xbox.com/en-us/2024/03/07/xbox-insider-release-notes-xbox-app-2403-1000-38-0/)
+ - [Free Play Days – Mortal Kombat 1, Moving Out 2, From Space and Ed-0: Zombie Uprising](https://news.xbox.com/en-us/2024/03/07/free-play-days-mortal-kombat-1-moving-out-2-from-space-and-ed-0-zombie-uprising/)
+ - [What can modern TCGs learn from the long-dead Dune: Collectible Card Game?](https://www.polygon.com/tabletop-games/24092287/dune-ccg-lessons-for-disney-lorcana-mtg-star-wars-unlimited)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
