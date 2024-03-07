@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dark age](http://9gag.com/gag/ajV271g)
- - 😝 [How far this shit go](http://9gag.com/gag/agoRmx6)
- - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
+ - 6️⃣ [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
+ - 😝 [Green-haired passenger goes nuts after being asked to pay an extra fee by Frontier](http://9gag.com/gag/adP310M)
+ - 👉 [Women](http://9gag.com/gag/aXn8LZb)<!-- MEMES:END -->
 
 --- 
 
