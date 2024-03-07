@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Hide &amp; Seek](http://9gag.com/gag/az265Vb)
- - 😝 [Strong and independent](http://9gag.com/gag/aZD9nN3)
- - 👉 [She&#39;s funnier than any female comedian I know...](http://9gag.com/gag/aeQX44q)<!-- MEMES:END -->
+ - 😝 [Honor killing. Sick culture.](http://9gag.com/gag/a9q3zEW)
+ - 👉 [Emergency suit](http://9gag.com/gag/aBdDyQO)<!-- MEMES:END -->
 
 --- 
 
