@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX allegedly fostered serial sexual abuse, according to this lawsuit](https://www.theverge.com/2024/3/6/24092721/spacex-lawsuit-sexual-bias-harassment-pay-inequity)
- - [Target will launch unlimited rush shipping subscription to rival Amazon Prime](https://www.theverge.com/2024/3/6/24092880/target-circle-360-free-delivery-shipping-annual-plan)
- - [DCG files a motion to dismiss NY AG Letitia James&#39; lawsuit over alleged $3B investor fraud, and CEO Barry Silbert files to dismiss accusations he hid losses &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240306/p35#a240306p35)<!-- TECH:END -->
+ - [Source: Y Combinator CEO Garry Tan early this year talked with OpenAI directors about joining the board, but it is unclear if the board is still considering Tan &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/240306/p39#a240306p39)
+ - [SK Hynix plans to invest over $1B in advanced chip packaging in South Korea, as the company hopes to capture the growing demand for high-bandwidth memory &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240306/p38#a240306p38)
+ - [20.3-inch foldable MacBook expected in 2027](https://appleinsider.com/articles/24/03/07/203-inch-foldable-macbook-expected-in-2027?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
