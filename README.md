@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Beta &lpar;2403.240305-2200&rpar;](https://news.xbox.com/en-us/2024/03/06/xbox-insider-release-notes-beta-2403-240305-2200/)
- - [The world&#39;s fastest Diablo 4 player won&#39;t tell you his secret because he&#39;s still trying to figure it out too](https://www.pcgamer.com/games/action/the-worlds-fastest-diablo-4-player-wont-tell-you-his-secret-because-hes-still-trying-to-figure-it-out-too)
- - [OpenAI fires back at Elon Musk lawsuit with &#39;facts&#39; showing he &#39;told us we would fail, started a competitor, and then sued us when we started making meaningful progress&#39;](https://www.pcgamer.com/software/ai/openai-fires-back-at-musk-lawsuit-with-facts-showing-he-told-us-we-would-fail-started-a-competitor-and-then-sued-us-when-we-started-making-meaningful-progress)<!-- GAME:END -->
+ - [Nintendo surprise dropped a Princess Peach: Showtime! demo](https://www.polygon.com/24092883/nintendo-switch-princess-peach-showtime-free-demo)
+ - [While other gaming companies talk layoffs, Capcom is raising salaries](https://www.pcgamer.com/gaming-industry/while-other-gaming-companies-talk-layoffs-capcom-is-raising-salaries)
+ - [Granblue Fantasy: Relink doesn&#39;t really start until it&#39;s finished, and its incredibly generous endgame puts other RPGs to shame](https://www.pcgamer.com/games/rpg/granblue-fantasy-relink-doesnt-really-start-until-its-finished-and-its-incredibly-generous-endgame-puts-other-rpgs-to-shame)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
