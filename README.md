@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shall I help her?](http://9gag.com/gag/adP3Ped)
- - 😝 [How to make things worse](http://9gag.com/gag/aqevjMv)
- - 👉 [How far this shit go](http://9gag.com/gag/agoRmx6)<!-- MEMES:END -->
+ - 6️⃣ [Action Daydream](http://9gag.com/gag/aXn8MKV)
+ - 😝 [There is some meme potential](http://9gag.com/gag/agoRoDq)
+ - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
 
 --- 
 
