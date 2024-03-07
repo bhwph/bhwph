@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
- - 😝 [How to make things worse](http://9gag.com/gag/aqevjMv)
- - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
+ - 6️⃣ [Hide &amp; Seek](http://9gag.com/gag/az265Vb)
+ - 😝 [Strong and independent](http://9gag.com/gag/aZD9nN3)
+ - 👉 [She&#39;s funnier than any female comedian I know...](http://9gag.com/gag/aeQX44q)<!-- MEMES:END -->
 
 --- 
 
