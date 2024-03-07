@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2&#39;s latest order sure looks like a setup for players to liberate their own mech suits… for democracy!](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-latest-order-sure-looks-like-a-setup-for-players-to-liberate-their-own-mech-suits-for-democracy)
- - [Wizard With a Gun: 5 Powerful Picks from the New Bounty of Guns Update](https://news.xbox.com/en-us/2024/03/07/wizard-with-a-gun-bounty-of-guns-update/)
- - [The Traitors producers already know what they want to change for season 3](https://www.polygon.com/24087683/traitors-season-2-3-changes-interview-producers)<!-- GAME:END -->
+ - [Spider-Man 2 Update Adds Debug Menu Letting Players Beat Game In Seconds](https://kotaku.com/spider-man-2-patch-debug-menu-ps5-new-game-insomniac-1851317276)
+ - [Exclusive Hearthstone Whizbang&#39;s Workshop card reveals: Will these Mage spells bang?](https://www.pcgamer.com/games/card-games/exclusive-hearthstone-whizbangs-workshop-card-reveals-will-these-mage-spells-bang)
+ - [The best Switch deals](https://www.polygon.com/2024/3/7/24084053/best-nintendo-switch-deals-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
