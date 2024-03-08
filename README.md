@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Undeniably fine benefits](http://9gag.com/gag/aKEbGNN)
- - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - 👉 [Frozen city](http://9gag.com/gag/aQEYvzq)<!-- MEMES:END -->
+ - 6️⃣ [There is some meme potential](http://9gag.com/gag/agoRoDq)
+ - 😝 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)
+ - 👉 [She is such a cinnamon rolls](http://9gag.com/gag/amADg49)<!-- MEMES:END -->
 
 --- 
 
