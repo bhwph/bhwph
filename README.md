@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
- - 😝 [Best entrance, ever!](http://9gag.com/gag/aXn8Pnz)
+ - 6️⃣ [Undeniably fine benefits](http://9gag.com/gag/aKEbGNN)
+ - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
  - 👉 [Frozen city](http://9gag.com/gag/aQEYvzq)<!-- MEMES:END -->
 
 --- 
