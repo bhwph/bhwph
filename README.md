@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit tests Reddit Pro, a free suite of tools to let businesses improve their engagement, including the ability to see which subreddits are mentioning a brand &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/240308/p12#a240308p12)
- - [What Apple Switcher ad star Ellen Feiss is doing now](https://appleinsider.com/articles/24/03/08/what-apple-switcher-ad-star-ellen-feiss-is-doing-now?utm_medium=rss)
- - [Daylight Saving Woes? 3 Expert Tips to Reset Your Sleep Routine     - CNET](https://www.cnet.com/health/sleep/steps-to-reset-your-internal-alarm-clock-after-the-time-change-messed-it-up/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPad Air 6 could get 10th generation iPad landscape FaceTime camera](https://appleinsider.com/articles/24/03/08/ipad-air-6-could-get-10th-generation-ipad-landscape-facetime-camera?utm_medium=rss)
+ - [Galaxy Tab S6 Lite &lpar;2024&rpar; leak hints the tablet will switch to Exynos](https://www.androidauthority.com/galaxy-tab-s6-lite-exynos-3423862/)
+ - [Under pressure, Apple will restore Epic Games&#39; developer account in the EU](https://appleinsider.com/articles/24/03/08/under-pressure-apple-will-restore-epic-games-developer-account-in-the-eu?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
