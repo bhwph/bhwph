@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite’s new season brings Greek gods to the battle royale](https://www.theverge.com/2024/3/8/24093527/fortnite-chapter-5-season-2-greek-gods-battle-royale)
- - [US data center demand for AI and crypto mining are putting new pressures on an overtaxed power grid, as bottlenecks mount and utilities struggle to keep up &lpar;Evan Halper/Washington Post&rpar;](http://www.techmeme.com/240308/p4#a240308p4)
- - [Google’s upcoming cross-device call transfer feature could be focused on one app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-android-video-call-transfer-cross-device-google-meet-3423582/)<!-- TECH:END -->
+ - [Download: Google’s new Pixel Superfan wallpapers are all about Minty freshness](https://www.androidauthority.com/google-pixel-superfan-new-wallpapers-3423628/)
+ - [How Netflix&#39;s stand-up specials, COVID, and rise of platforms like TikTok and YouTube have transformed the comedy business, broadening comedians&#39; reach &lpar;Addie Morfoot/Variety&rpar;](http://www.techmeme.com/240308/p5#a240308p5)
+ - [Meta Quest 3 Deals: Free Game and 6 Months of Meta Quest Plus     - CNET](https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
