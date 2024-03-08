@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can someone explain? Like bruh, what?](http://9gag.com/gag/aKEbvdZ)
- - 😝 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)
- - 👉 [I need that man\u2019s patience](http://9gag.com/gag/a9q3y9K)<!-- MEMES:END -->
+ - 6️⃣ [Best entrance, ever!](http://9gag.com/gag/aXn8Pnz)
+ - 😝 [Beautiful](http://9gag.com/gag/aA0nQrR)
+ - 👉 [Women](http://9gag.com/gag/aXn8LZb)<!-- MEMES:END -->
 
 --- 
 
