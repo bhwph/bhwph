@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online update for the week of March 7](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
- - [The Helldivers 2 dev who got downvoted to oblivion is right: We need to chill out about balance in a 4-week-old game](https://www.pcgamer.com/games/third-person-shooter/the-helldivers-2-dev-who-got-downvoted-to-oblivion-is-right-we-need-to-chill-out-about-balance-in-a-4-week-old-game)
- - [The ToyBox mod lets you skip almost all the combat in Warhammer 40,000: Rogue Trader and play it like the choose-your-own-adventure it should have been](https://www.pcgamer.com/games/rpg/the-toybox-mod-lets-you-skip-almost-all-the-combat-in-warhammer-40000-rogue-trader-and-play-it-like-the-choose-your-own-adventure-it-should-have-been)<!-- GAME:END -->
+ - [Imaginary is a mess of a horror movie, and not in the fun way](https://www.polygon.com/reviews/24093592/imaginary-review-horror-movie-blumhouse-teddy-bear-chauncey)
+ - [How to start New Game Plus in Spider-Man 2 for PS5](https://www.polygon.com/spider-man-2-guides/23931803/new-game-plus)
+ - [GTA Online update for the week of March 7](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
