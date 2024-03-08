@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man 2 update mistakenly includes dev-only menu, leaking possible DLC](https://www.polygon.com/24093571/spider-man-2-update-debug-menu-insomniac-games)
- - [Classic EA titles, including the Command &amp; Conquer Ultimate Collection, are now available on Steam](https://www.polygon.com/deals/2024/3/7/24093601/ea-games-steam-command-and-conquer-alpha-centauri-deal)
- - [An interview with award-winning board game designer Eric Lang on his next game, Life in Reterra](https://www.polygon.com/tabletop-games/24091734/life-in-reterra-eric-lang-interview)<!-- GAME:END -->
+ - [GTA Online update for the week of March 7](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
+ - [The Helldivers 2 dev who got downvoted to oblivion is right: We need to chill out about balance in a 4-week-old game](https://www.pcgamer.com/games/third-person-shooter/the-helldivers-2-dev-who-got-downvoted-to-oblivion-is-right-we-need-to-chill-out-about-balance-in-a-4-week-old-game)
+ - [The ToyBox mod lets you skip almost all the combat in Warhammer 40,000: Rogue Trader and play it like the choose-your-own-adventure it should have been](https://www.pcgamer.com/games/rpg/the-toybox-mod-lets-you-skip-almost-all-the-combat-in-warhammer-40000-rogue-trader-and-play-it-like-the-choose-your-own-adventure-it-should-have-been)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
