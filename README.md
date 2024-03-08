@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There is some meme potential](http://9gag.com/gag/agoRoDq)
- - 😝 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)
- - 👉 [She is such a cinnamon rolls](http://9gag.com/gag/amADg49)<!-- MEMES:END -->
+ - 6️⃣ [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)
+ - 😝 [Just two British Muslims discussing how much they hate non-Muslims and tolerate living among them. `I can be in a land where I live with these people, but I have hate for these people, I don&#39;t like them.`](http://9gag.com/gag/ajV2V0w)
+ - 👉 [Women](http://9gag.com/gag/aXn8LZb)<!-- MEMES:END -->
 
 --- 
 
