@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple MacBook Air &lpar;13-inch, 2024&rpar; Review: Price, Specs, Rating, Availability](https://www.wired.com/review/apple-macbook-air-13-inch-2024/)
- - [Where to Stream 2024’s Best Picture Oscar Nominees](https://www.wired.com/story/stream-2024-oscar-nominated-movies-best-picture/)
- - [Georgia&#39;s largest healthcare system switches to the Mac](https://appleinsider.com/articles/24/03/08/georgias-largest-healthcare-system-switches-to-the-mac?utm_medium=rss)<!-- TECH:END -->
+ - [The Bose TV Speaker is a bargain at just $229](https://www.androidauthority.com/bose-tv-speaker-deal-3423545/)
+ - [No, &#39;Leave the World Behind&#39; and &#39;Civil War&#39; Aren’t Happening Before Your Eyes](https://www.wired.com/story/leave-the-world-behind-civil-war-conspiracies/)
+ - [Living with the ghost of a smart home’s past](https://www.theverge.com/24073300/smart-home-new-house-old-tech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
