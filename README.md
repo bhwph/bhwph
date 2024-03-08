@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is a title, yes](http://9gag.com/gag/aYVzOVm)
- - 😝 [\u201cBaby One More Time\u201d music vid w/ Jack Black and the D](http://9gag.com/gag/aXn8NGv)
- - 👉 [How far this shit go](http://9gag.com/gag/agoRmx6)<!-- MEMES:END -->
+ - 6️⃣ [Tattoo regrets](http://9gag.com/gag/ajV27NQ)
+ - 😝 [Women](http://9gag.com/gag/aXn8LZb)
+ - 👉 [Modern gym life](http://9gag.com/gag/amADGDo)<!-- MEMES:END -->
 
 --- 
 
