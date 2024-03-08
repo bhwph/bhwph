@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Download: Google’s new Pixel Superfan wallpapers are all about Minty freshness](https://www.androidauthority.com/google-pixel-superfan-new-wallpapers-3423628/)
- - [How Netflix&#39;s stand-up specials, COVID, and rise of platforms like TikTok and YouTube have transformed the comedy business, broadening comedians&#39; reach &lpar;Addie Morfoot/Variety&rpar;](http://www.techmeme.com/240308/p5#a240308p5)
- - [Meta Quest 3 Deals: Free Game and 6 Months of Meta Quest Plus     - CNET](https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple MacBook Air &lpar;13-inch, 2024&rpar; Review: Price, Specs, Rating, Availability](https://www.wired.com/review/apple-macbook-air-13-inch-2024/)
+ - [Where to Stream 2024’s Best Picture Oscar Nominees](https://www.wired.com/story/stream-2024-oscar-nominated-movies-best-picture/)
+ - [Georgia&#39;s largest healthcare system switches to the Mac](https://appleinsider.com/articles/24/03/08/georgias-largest-healthcare-system-switches-to-the-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
