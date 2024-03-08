@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Bose TV Speaker is a bargain at just $229](https://www.androidauthority.com/bose-tv-speaker-deal-3423545/)
- - [No, &#39;Leave the World Behind&#39; and &#39;Civil War&#39; Aren’t Happening Before Your Eyes](https://www.wired.com/story/leave-the-world-behind-civil-war-conspiracies/)
- - [Living with the ghost of a smart home’s past](https://www.theverge.com/24073300/smart-home-new-house-old-tech)<!-- TECH:END -->
+ - [Reddit tests Reddit Pro, a free suite of tools to let businesses improve their engagement, including the ability to see which subreddits are mentioning a brand &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/240308/p12#a240308p12)
+ - [What Apple Switcher ad star Ellen Feiss is doing now](https://appleinsider.com/articles/24/03/08/what-apple-switcher-ad-star-ellen-feiss-is-doing-now?utm_medium=rss)
+ - [Daylight Saving Woes? 3 Expert Tips to Reset Your Sleep Routine     - CNET](https://www.cnet.com/health/sleep/steps-to-reset-your-internal-alarm-clock-after-the-time-change-messed-it-up/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
