@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Never run out of inventory space again with these bags and accessories](https://www.polygon.com/polygon-picks/24092420/bag-backpack-crossbody-sling-wallet-carry-accessories)
- - [15 Essential Final Fantasy VII Rebirth Side-Quests](https://kotaku.com/final-fantasy-7-rebirth-ff7-best-sidequests-1851320689)
- - [WB Discovery Might Soon Delist Over A Dozen Adult Swim-Published Games](https://kotaku.com/adult-swim-wb-discovery-delist-deleted-games-steam-ps4-1851320858)<!-- GAME:END -->
+ - [Fortnite remains offline as Epic struggles with unexpected issues: &#39;This stuff is tricky!&#39; Tim Sweeney says](https://www.pcgamer.com/games/battle-royale/fortnite-remains-offline-as-epic-struggles-with-unexpected-issues-this-stuff-is-tricky-tim-sweeney-says)
+ - [Former Xbox Exec Says The End Of Consoles Is &#39;A Serious Question&#39;](https://kotaku.com/end-of-consoles-xbox-ps5-switch-peter-moore-1851321424)
+ - [Thousands of players gather online in Final Fantasy 14, Dragon Quest 10 and more to mourn legendary artist Akira Toriyama](https://www.pcgamer.com/games/mmo/thousands-of-players-gather-online-in-final-fantasy-14-dragon-quest-10-and-more-to-mourn-legendary-artist-akira-toriyama)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
