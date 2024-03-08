@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 25 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Unicorn Overlord: Vanillaware’s Compellingly Unique Xbox Debut](https://news.xbox.com/en-us/2024/03/08/unicorn-overlord-vanillaware-xbox-debut/)
- - [Overwatch 2 Needs To Leave Quick Play Alone](https://kotaku.com/overwatch-2-quick-play-hacked-hero-limits-season-9-1851319812)<!-- GAME:END -->
+ - [The book Poor Things is based on is even stranger than the film](https://www.polygon.com/24093718/poor-things-hulu-oscars-book-differences)
+ - [Chasing the Unseen is a delightfully strange and meditative take on Shadow of the Colossus, where the giant beasties can&#39;t hurt you and your mission is to climb](https://www.pcgamer.com/games/adventure/chasing-the-unseen-is-a-delightfully-strange-and-meditative-take-on-shadow-of-the-colossus-where-the-giant-beasties-cant-hurt-you-and-your-mission-is-to-climb)
+ - [Researchers have developed yet another way to fool AI chatbots, this time with a good old-fashioned dose of ASCII art](https://www.pcgamer.com/hardware/researchers-have-developed-yet-another-way-to-fool-ai-chatbots-this-time-with-a-good-old-fashioned-dose-of-ascii-art)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
