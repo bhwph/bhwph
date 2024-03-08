@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Give me some Water!](http://9gag.com/gag/aeQXVjB)
- - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
- - 👉 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s funny!](http://9gag.com/gag/aOx64AD)
+ - 😝 [Modern gym life](http://9gag.com/gag/amADGDo)
+ - 👉 [Bye Akira](http://9gag.com/gag/aeQXZqO)<!-- MEMES:END -->
 
 --- 
 
