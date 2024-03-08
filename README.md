@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - 😝 [There is some meme potential](http://9gag.com/gag/agoRoDq)
- - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
+ - 6️⃣ [London on march 4th and then the next day on the 5th](http://9gag.com/gag/amADAWo)
+ - 😝 [Just two British Muslims discussing how much they hate non-Muslims and tolerate living among them. `I can be in a land where I live with these people, but I have hate for these people, I don&#39;t like them.`](http://9gag.com/gag/ajV2V0w)
+ - 👉 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)<!-- MEMES:END -->
 
 --- 
 
