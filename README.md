@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best entrance, ever!](http://9gag.com/gag/aXn8Pnz)
- - 😝 [Beautiful](http://9gag.com/gag/aA0nQrR)
- - 👉 [Women](http://9gag.com/gag/aXn8LZb)<!-- MEMES:END -->
+ - 6️⃣ [Give me some Water!](http://9gag.com/gag/aeQXVjB)
+ - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
+ - 👉 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)<!-- MEMES:END -->
 
 --- 
 
