@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First price drop hits the Samsung Galaxy A25 5G](https://www.androidauthority.com/samsung-galaxy-a25-5g-deal-3423945/)
- - [Google Phone app could be getting a FaceTime-like feature](https://www.androidauthority.com/google-phone-video-call-3423928/)
- - [Apple to join other luxury retail locations in Miami Worldcenter](https://appleinsider.com/articles/24/03/08/apple-to-join-other-luxury-retail-locations-in-miami-worldcenter?utm_medium=rss)<!-- TECH:END -->
+ - [Source: Sam Altman will be reinstated to OpenAI&#39;s board of directors, alongside three new directors Sue Desmond-Hellmann, Nicole Seligman, and Fidji Simo &lpar;Laura Mandaro/The Information&rpar;](http://www.techmeme.com/240308/p21#a240308p21)
+ - [13 Best Deals From the Discover Samsung Sale: Phones, Tablets, TVs](https://www.wired.com/story/samsung-discover-spring-sales-event-2024/)
+ - [Florida teens arrested for creating ‘deepfake’ AI nude images of classmates](https://www.theverge.com/2024/3/8/24094633/deepfake-ai-explicit-images-florida-teenagers-arrested)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
