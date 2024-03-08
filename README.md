@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [KING OF FIGHTERS&#39; finest join Doomsday: Last Survivors for the ultimate crossover](https://www.pcgamer.com/games/king-of-fighters-finest-join-doomsday-last-survivors-for-the-ultimate-crossover)
- - [Free GOG keys for the objectively 3rd-best Fallout game are on Twitch Prime right now](https://www.pcgamer.com/games/rpg/free-gog-keys-for-the-objectively-3rd-best-fallout-game-are-on-twitch-prime-right-now)
- - [Asus ZenBook Duo &lpar;2024&rpar;](https://www.pcgamer.com/hardware/gaming-laptops/asus-zenbook-duo-oled-laptop-review)<!-- GAME:END -->
+ - [If you keep getting your stuff stolen in DayZ and Rust, this 40% off bundle&#39;s a great way to call in backup](https://www.pcgamer.com/games/survival-crafting/if-you-keep-getting-your-stuff-stolen-in-dayz-and-rust-this-40-off-bundles-a-great-way-to-call-in-backup)
+ - [For some Helldivers 2 players, the fascist role-play has gone too far](https://www.polygon.com/24093674/helldivers-2-discord-meta-role-play-fandom-joel)
+ - [Every RPG should pre-release a free character creator like Dragon’s Dogma 2 has](https://www.polygon.com/24094215/dragons-dogma-2-free-character-creator-demo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
