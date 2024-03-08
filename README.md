@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch President Joe Biden’s State of the Union address](https://www.theverge.com/2024/3/7/24092301/state-of-the-union-biden-how-to-watch-time-date)
- - [Amazon Lending, launched in 2011, discontinues underwriting new loans for sellers in the US and the UK, but third-party financing options will still be offered &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/240307/p36#a240307p36)
- - [Best VPN Deals: Sign Up for a Top-Rated VPN Subscription for Less Than $2 a Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Colorado Springs-based Defense Unicorns, which provides open-source software and AI applications for US national security systems, raised a $35M Series A &lpar;FinSMEs&rpar;](http://www.techmeme.com/240307/p40#a240307p40)
+ - [X announces Articles, a feature to write and share long-form content with a basic text-editing interface, for verified organizations and Premium+ subscribers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240307/p39#a240307p39)
+ - [Best Internet Providers in Warner Robins, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-warner-robins-ga/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
