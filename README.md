@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, March 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-8-2024)
- - [Akira Toriyama, Legendary Dragon Ball Creator, Dies At 68](https://kotaku.com/akira-toriyama-dragon-ball-dies-quest-chrono-trigger-1851318780)
- - [Imaginary is a mess of a horror movie, and not in the fun way](https://www.polygon.com/reviews/24093592/imaginary-review-horror-movie-blumhouse-teddy-bear-chauncey)<!-- GAME:END -->
+ - [KING OF FIGHTERS&#39; finest join Doomsday: Last Survivors for the ultimate crossover](https://www.pcgamer.com/games/king-of-fighters-finest-join-doomsday-last-survivors-for-the-ultimate-crossover)
+ - [Free GOG keys for the objectively 3rd-best Fallout game are on Twitch Prime right now](https://www.pcgamer.com/games/rpg/free-gog-keys-for-the-objectively-3rd-best-fallout-game-are-on-twitch-prime-right-now)
+ - [Asus ZenBook Duo &lpar;2024&rpar;](https://www.pcgamer.com/hardware/gaming-laptops/asus-zenbook-duo-oled-laptop-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
