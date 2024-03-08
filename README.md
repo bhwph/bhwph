@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - 😝 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
- - 👉 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)<!-- MEMES:END -->
+ - 6️⃣ [This is a title, yes](http://9gag.com/gag/aYVzOVm)
+ - 😝 [\u201cBaby One More Time\u201d music vid w/ Jack Black and the D](http://9gag.com/gag/aXn8NGv)
+ - 👉 [How far this shit go](http://9gag.com/gag/agoRmx6)<!-- MEMES:END -->
 
 --- 
 
