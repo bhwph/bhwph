@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad Air 6 could get 10th generation iPad landscape FaceTime camera](https://appleinsider.com/articles/24/03/08/ipad-air-6-could-get-10th-generation-ipad-landscape-facetime-camera?utm_medium=rss)
- - [Galaxy Tab S6 Lite &lpar;2024&rpar; leak hints the tablet will switch to Exynos](https://www.androidauthority.com/galaxy-tab-s6-lite-exynos-3423862/)
- - [Under pressure, Apple will restore Epic Games&#39; developer account in the EU](https://appleinsider.com/articles/24/03/08/under-pressure-apple-will-restore-epic-games-developer-account-in-the-eu?utm_medium=rss)<!-- TECH:END -->
+ - [First price drop hits the Samsung Galaxy A25 5G](https://www.androidauthority.com/samsung-galaxy-a25-5g-deal-3423945/)
+ - [Google Phone app could be getting a FaceTime-like feature](https://www.androidauthority.com/google-phone-video-call-3423928/)
+ - [Apple to join other luxury retail locations in Miami Worldcenter](https://appleinsider.com/articles/24/03/08/apple-to-join-other-luxury-retail-locations-in-miami-worldcenter?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
