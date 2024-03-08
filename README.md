@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The book Poor Things is based on is even stranger than the film](https://www.polygon.com/24093718/poor-things-hulu-oscars-book-differences)
- - [Chasing the Unseen is a delightfully strange and meditative take on Shadow of the Colossus, where the giant beasties can&#39;t hurt you and your mission is to climb](https://www.pcgamer.com/games/adventure/chasing-the-unseen-is-a-delightfully-strange-and-meditative-take-on-shadow-of-the-colossus-where-the-giant-beasties-cant-hurt-you-and-your-mission-is-to-climb)
- - [Researchers have developed yet another way to fool AI chatbots, this time with a good old-fashioned dose of ASCII art](https://www.pcgamer.com/hardware/researchers-have-developed-yet-another-way-to-fool-ai-chatbots-this-time-with-a-good-old-fashioned-dose-of-ascii-art)<!-- GAME:END -->
+ - [Never run out of inventory space again with these bags and accessories](https://www.polygon.com/polygon-picks/24092420/bag-backpack-crossbody-sling-wallet-carry-accessories)
+ - [15 Essential Final Fantasy VII Rebirth Side-Quests](https://kotaku.com/final-fantasy-7-rebirth-ff7-best-sidequests-1851320689)
+ - [WB Discovery Might Soon Delist Over A Dozen Adult Swim-Published Games](https://kotaku.com/adult-swim-wb-discovery-delist-deleted-games-steam-ps4-1851320858)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
