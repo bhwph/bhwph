@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you keep getting your stuff stolen in DayZ and Rust, this 40% off bundle&#39;s a great way to call in backup](https://www.pcgamer.com/games/survival-crafting/if-you-keep-getting-your-stuff-stolen-in-dayz-and-rust-this-40-off-bundles-a-great-way-to-call-in-backup)
- - [For some Helldivers 2 players, the fascist role-play has gone too far](https://www.polygon.com/24093674/helldivers-2-discord-meta-role-play-fandom-joel)
- - [Every RPG should pre-release a free character creator like Dragon’s Dogma 2 has](https://www.polygon.com/24094215/dragons-dogma-2-free-character-creator-demo)<!-- GAME:END -->
+ - [The 25 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Unicorn Overlord: Vanillaware’s Compellingly Unique Xbox Debut](https://news.xbox.com/en-us/2024/03/08/unicorn-overlord-vanillaware-xbox-debut/)
+ - [Overwatch 2 Needs To Leave Quick Play Alone](https://kotaku.com/overwatch-2-quick-play-hacked-hero-limits-season-9-1851319812)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
