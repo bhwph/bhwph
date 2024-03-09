@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Elden Ring once had a different starting location, and while it makes more sense than the one we got, I&#39;m glad they changed it](https://www.pcgamer.com/games/rpg/elden-ring-once-had-a-different-starting-location-and-while-it-makes-more-sense-than-the-one-we-got-im-glad-they-changed-it)
  - [600 Activision QA workers just formed the biggest videogame union in the US](https://www.pcgamer.com/gaming-industry/600-activision-qa-workers-just-formed-the-biggest-videogame-union-in-the-us)
- - [Netlix’s The Gentlemen lets Guy Ritchie get back to basics and perfect his vibe](https://www.polygon.com/24094684/netflix-gentlemen-guy-ritchie-show-movie-series-good)
- - [Dragon’s Dogma 2’s New Class Is A Twirling Death Machine](https://kotaku.com/dragons-dogma-2-mystic-spearhand-strider-class-capcom-1851321764)<!-- GAME:END -->
+ - [Netlix’s The Gentlemen lets Guy Ritchie get back to basics and perfect his vibe](https://www.polygon.com/24094684/netflix-gentlemen-guy-ritchie-show-movie-series-good)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
