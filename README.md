@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 7 Rebirth showed a scene that fans have wanted for 26 years](https://www.polygon.com/gaming/24094415/final-fantasy-rebirth-cloud-tifa-kiss-aerith)
- - [FF7 Rebirth, Dragons Dogma 2 Preview, And More Of The Week&#39;s Spiciest Takes](https://kotaku.com/kotaku-opinion-ff7-rebirth-dragons-dogma-1851320257)
- - [The best thrillers to watch on Netflix this March](https://www.polygon.com/what-to-watch/2024/3/9/24093187/best-thriller-movies-netflix-watch-march-2024)<!-- GAME:END -->
+ - [600 Activision QA workers just formed the biggest videogame union in the US](https://www.pcgamer.com/gaming-industry/600-activision-qa-workers-just-formed-the-biggest-videogame-union-in-the-us)
+ - [Netlix’s The Gentlemen lets Guy Ritchie get back to basics and perfect his vibe](https://www.polygon.com/24094684/netflix-gentlemen-guy-ritchie-show-movie-series-good)
+ - [Dragon’s Dogma 2’s New Class Is A Twirling Death Machine](https://kotaku.com/dragons-dogma-2-mystic-spearhand-strider-class-capcom-1851321764)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
