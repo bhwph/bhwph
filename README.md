@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Feminists in the march for #8M shout \u201csexist\u201d vs. men enjoying their privileges while working.](http://9gag.com/gag/adP3xnQ)
- - 😝 [A pro move](http://9gag.com/gag/amADxo2)
- - 👉 [Moroccan club Wydad\u2019s Dragonball Z tribute](http://9gag.com/gag/anzAE1o)<!-- MEMES:END -->
+ - 6️⃣ [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
+ - 😝 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
+ - 👉 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)<!-- MEMES:END -->
 
 --- 
 
