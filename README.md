@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
- - 😝 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
- - 👉 [He F**ked around, found out.](http://9gag.com/gag/a4oMALw)<!-- MEMES:END -->
+ - 6️⃣ [Feminists in the march for #8M shout \u201csexist\u201d vs. men enjoying their privileges while working.](http://9gag.com/gag/adP3xnQ)
+ - 😝 [A pro move](http://9gag.com/gag/amADxo2)
+ - 👉 [Moroccan club Wydad\u2019s Dragonball Z tribute](http://9gag.com/gag/anzAE1o)<!-- MEMES:END -->
 
 --- 
 
