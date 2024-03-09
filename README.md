@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s newest hire is another step towards ads in Apple TV+](https://appleinsider.com/articles/24/03/09/apples-newest-hire-is-another-step-towards-ads-in-apple-tv?utm_medium=rss)
- - [Your Mom Gives You Lots. These Mother&#39;s Day Gifts Help Say &#39;Thanks&#39;     - CNET](https://www.cnet.com/news/best-mothers-day-gifts/#ftag=CAD590a51e)
- - [How to Watch &#39;Grey&#39;s Anatomy&#39;: Stream Season 20 Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-greys-anatomy-stream-season-20-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week and all the latest app news](https://www.androidauthority.com/android-apps-weekly-525-3423345/)
+ - [A Roku Terms of Service Update Locks Up Your TV Until You Agree](https://www.wired.com/story/roku-terms-of-service-update-locks-tv/)
+ - [A look at Trump&#39;s TikTok flip-flop, as he recognizes the app&#39;s appeal to younger voters and repairs his relation with ByteDance investor and GOP donor Jeff Yass &lpar;Sophia Cai/Axios&rpar;](http://www.techmeme.com/240309/p9#a240309p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
