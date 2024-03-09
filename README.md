@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the US venture debt landscape a year after SVB collapsed, as none of the new options have become as appealing as the &quot;one-stop shop&quot; SVB offered &lpar;Financial Times&rpar;](http://www.techmeme.com/240309/p7#a240309p7)
- - [Welcome to the Valley of the Creepy AI Dolls](https://www.wired.com/story/ai-dolls-for-older-adults/)
- - [Best Foldable Phones in 2024: Samsung Galaxy Z Fold, Z Flip, Moto Razr, Pixel Fold     - CNET](https://www.cnet.com/tech/mobile/best-foldable-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s newest hire is another step towards ads in Apple TV+](https://appleinsider.com/articles/24/03/09/apples-newest-hire-is-another-step-towards-ads-in-apple-tv?utm_medium=rss)
+ - [Your Mom Gives You Lots. These Mother&#39;s Day Gifts Help Say &#39;Thanks&#39;     - CNET](https://www.cnet.com/news/best-mothers-day-gifts/#ftag=CAD590a51e)
+ - [How to Watch &#39;Grey&#39;s Anatomy&#39;: Stream Season 20 Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-greys-anatomy-stream-season-20-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
