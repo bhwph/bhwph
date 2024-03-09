@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
- - 😝 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
- - 👉 [`They&#39;re blind`](http://9gag.com/gag/agoRxVq)<!-- MEMES:END -->
+ - 6️⃣ [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
+ - 😝 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
+ - 👉 [He F**ked around, found out.](http://9gag.com/gag/a4oMALw)<!-- MEMES:END -->
 
 --- 
 
