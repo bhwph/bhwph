@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Off guard you say...](http://9gag.com/gag/aNwyQzK)
- - 😝 [Can someone explain? Like bruh, what?](http://9gag.com/gag/aKEbvdZ)
- - 👉 [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)<!-- MEMES:END -->
+ - 6️⃣ [Girl is working out ..](http://9gag.com/gag/aNwyBP4)
+ - 😝 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
+ - 👉 [After United Airlines refused to pay for his broken guitar, Dave Carroll released a diss track which caused the Airline&#39;s stock to go down 10% and lost about 180 million.](http://9gag.com/gag/aXn87z2)<!-- MEMES:END -->
 
 --- 
 
