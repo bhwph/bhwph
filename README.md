@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week and all the latest app news](https://www.androidauthority.com/android-apps-weekly-525-3423345/)
- - [A Roku Terms of Service Update Locks Up Your TV Until You Agree](https://www.wired.com/story/roku-terms-of-service-update-locks-tv/)
- - [A look at Trump&#39;s TikTok flip-flop, as he recognizes the app&#39;s appeal to younger voters and repairs his relation with ByteDance investor and GOP donor Jeff Yass &lpar;Sophia Cai/Axios&rpar;](http://www.techmeme.com/240309/p9#a240309p9)<!-- TECH:END -->
+ - [Apple moves to parallel flash chips in entry-level M3 MacBook Air](https://appleinsider.com/articles/24/03/09/apple-moves-to-parallel-flash-chips-in-entry-level-m3-macbook-air?utm_medium=rss)
+ - [Best Buy slashes Apple&#39;s MacBook Pro with 24GB RAM, 1TB SSD to $1,299](https://appleinsider.com/articles/24/03/09/best-buy-slashes-apples-macbook-pro-with-24gb-ram-1tb-ssd-to-1299?utm_medium=rss)
+ - [Parallels Desktop updated with clipboard, game improvements, more](https://appleinsider.com/articles/24/03/09/parallels-desktop-updated-with-clipboard-game-improvements-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
