@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [600 Activision QA workers unionize, Microsoft voluntarily recognizes](https://www.polygon.com/24093254/activision-qa-600-workers-union-microsoft)
- - [Last Epoch players help judge what overpowered builds will be on the chopping block for its next major patch](https://www.pcgamer.com/games/action/last-epoch-players-help-judge-what-overpowered-builds-will-be-on-the-chopping-block-for-its-next-major-patch)
- - [New Blood boss wanted Dusk to be as moddable as Doom and Skyrim: &#39;If there&#39;s not anime big tiddy waifus in Dusk by the time we&#39;re done with the SDK, then we haven&#39;t done it right&#39;](https://www.pcgamer.com/games/fps/new-blood-boss-wanted-dusk-to-be-as-moddable-as-doom-and-skyrim-if-theres-not-anime-big-tiddy-waifus-in-dusk-by-the-time-were-done-with-the-sdk-then-we-havent-done-it-right)<!-- GAME:END -->
+ - [3 Body Problem is the kind of TV epic we need](https://www.polygon.com/24094854/3-body-problem-review-spoiler-free)
+ - [Today&#39;s Wordle answer for Saturday, March 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-9-2024)
+ - [600 Activision QA workers unionize, Microsoft voluntarily recognizes](https://www.polygon.com/24093254/activision-qa-600-workers-union-microsoft)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
