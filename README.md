@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tufting](http://9gag.com/gag/aWGVo2x)
- - 😝 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
- - 👉 [Meanwhile](http://9gag.com/gag/a6qW2Me)<!-- MEMES:END -->
+ - 6️⃣ [Good job Bro&#39;](http://9gag.com/gag/avQbvZb)
+ - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
+ - 👉 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)<!-- MEMES:END -->
 
 --- 
 
