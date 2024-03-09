@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [2024’s best deal on the PlayStation 5 just got better](https://www.polygon.com/24094342/best-gaming-deals-spider-man-bundle-playstation-5-mario-nintendo-deal-sale)
  - [3 Body Problem is the kind of TV epic we need](https://www.polygon.com/24094854/3-body-problem-review-spoiler-free)
- - [Today&#39;s Wordle answer for Saturday, March 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-9-2024)
- - [600 Activision QA workers unionize, Microsoft voluntarily recognizes](https://www.polygon.com/24093254/activision-qa-600-workers-union-microsoft)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Saturday, March 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-9-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
