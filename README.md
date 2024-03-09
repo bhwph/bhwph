@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good job Bro&#39;](http://9gag.com/gag/avQbvZb)
- - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
- - 👉 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)<!-- MEMES:END -->
+ - 6️⃣ [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
+ - 😝 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
+ - 👉 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)<!-- MEMES:END -->
 
 --- 
 
