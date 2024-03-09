@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
- - 😝 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
- - 👉 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)<!-- MEMES:END -->
+ - 6️⃣ [Tufting](http://9gag.com/gag/aWGVo2x)
+ - 😝 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
+ - 👉 [Meanwhile](http://9gag.com/gag/a6qW2Me)<!-- MEMES:END -->
 
 --- 
 
