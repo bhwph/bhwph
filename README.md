@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jason Palmer, who beat Joe Biden in American Samoa&#39;s Democratic caucus, used AI-generated texts, emails, and an avatar to communicate with voters &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240309/p2#a240309p2)
- - [PitchBook: just 14% of US unicorns have a female cofounder, up from 5% a decade ago, while only 5% have a female founding CEO, up from zero over the same time &lpar;Anna Mutoh/Financial Times&rpar;](http://www.techmeme.com/240309/p1#a240309p1)
- - [Microsoft Authenticator: What it is, how it works, and how to use it!](https://www.androidauthority.com/microsoft-authenticator-987754/)<!-- TECH:END -->
+ - [Best Deals on E-Bikes: Save Up to $1,500 on Juiced, RadPower, BirdBike &amp; More     - CNET](https://www.cnet.com/roadshow/news/best-e-bike-deals/#ftag=CAD590a51e)
+ - [A look at Europe&#39;s growing roster of female data regulators out to rein in US big tech companies; 50%+ of EU&#39;s 30 data protection authorities are led by women &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/240309/p6#a240309p6)
+ - [Over 100 scientists sign an agreement that seeks to prevent their AI-aided research for designing new proteins from being used for the development of bioweapons &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240309/p5#a240309p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
