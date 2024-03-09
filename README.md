@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Sam Altman will be reinstated to OpenAI&#39;s board of directors, alongside three new directors Sue Desmond-Hellmann, Nicole Seligman, and Fidji Simo &lpar;Laura Mandaro/The Information&rpar;](http://www.techmeme.com/240308/p21#a240308p21)
- - [13 Best Deals From the Discover Samsung Sale: Phones, Tablets, TVs](https://www.wired.com/story/samsung-discover-spring-sales-event-2024/)
- - [Florida teens arrested for creating ‘deepfake’ AI nude images of classmates](https://www.theverge.com/2024/3/8/24094633/deepfake-ai-explicit-images-florida-teenagers-arrested)<!-- TECH:END -->
+ - [About 600 Activision QA workers form a union with help from the CWA, becoming the largest video game union in the US; Microsoft voluntarily recognized the union &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240308/p25#a240308p25)
+ - [Activision QA workers form the largest US video game union yet](https://www.theverge.com/2024/3/8/24094602/activision-blizzard-qa-workers-unionizing-microsoft)
+ - [Best Pixel 8 and Pixel 8 Pro Deals: Save $300 Off the Top or Up to $1,000 Off with Trade-In     - CNET](https://www.cnet.com/deals/best-google-pixel-8-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
