@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bye Akira](http://9gag.com/gag/aeQXZqO)
- - 😝 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)
- - 👉 [Modern gym life](http://9gag.com/gag/amADGDo)<!-- MEMES:END -->
+ - 6️⃣ [Tattoo regrets](http://9gag.com/gag/ajV27NQ)
+ - 😝 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
+ - 👉 [He F**ked around, found out.](http://9gag.com/gag/a4oMALw)<!-- MEMES:END -->
 
 --- 
 
