@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite was down all day](https://www.theverge.com/2024/3/8/24094877/fortnite-down-outage-chapter-5-season-2-update-download)
- - [The GPT-4 barrier has finally been broken, with Gemini 1.5, Mistral Large, Claude 3 Opus, and Inflection-2.5 benchmarking near or even above OpenAI&#39;s model &lpar;Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240308/p28#a240308p28)
- - [Sources: the Biden admin is weighing sanctions on memory chipmaker CXMT and five other Chinese companies, in response to Huawei&#39;s 5G chip breakthrough in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240308/p27#a240308p27)<!-- TECH:END -->
+ - [Jason Palmer, who beat Joe Biden in American Samoa&#39;s Democratic caucus, used AI-generated texts, emails, and an avatar to communicate with voters &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240309/p2#a240309p2)
+ - [PitchBook: just 14% of US unicorns have a female cofounder, up from 5% a decade ago, while only 5% have a female founding CEO, up from zero over the same time &lpar;Anna Mutoh/Financial Times&rpar;](http://www.techmeme.com/240309/p1#a240309p1)
+ - [Microsoft Authenticator: What it is, how it works, and how to use it!](https://www.androidauthority.com/microsoft-authenticator-987754/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
