@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tattoo regrets](http://9gag.com/gag/ajV27NQ)
- - 😝 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
- - 👉 [He F**ked around, found out.](http://9gag.com/gag/a4oMALw)<!-- MEMES:END -->
+ - 6️⃣ [In Mexico there were government-sponsored public watch parties for the final episodes of Dragon Ball Super. They became so popular Japan had to send a formal diplomatic notice commanding them to stop, which they didn&#39;t.](http://9gag.com/gag/a6qWn6q)
+ - 😝 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
+ - 👉 [Girl is working out ..](http://9gag.com/gag/aNwyBP4)<!-- MEMES:END -->
 
 --- 
 
