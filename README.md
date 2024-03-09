@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In two recent papers, researchers detail a new breakthrough to speed up matrix multiplication, potentially leading to savings in computational power and money &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/240309/p12#a240309p12)
- - [Don&#39;t Settle for Bad Sleep. 42 Expert Tips to Improve Your Sleep Quality     - CNET](https://www.cnet.com/health/sleep/expert-tips-to-help-you-sleep/#ftag=CAD590a51e)
- - [Should you pay Verizon $10 to add a second number or go for a cheaper alternative?](https://www.androidauthority.com/second-number-plan-3423459/)<!-- TECH:END -->
+ - [How to refurbish a fifth-generation Time Capsule](https://appleinsider.com/articles/24/03/09/how-to-refurbish-a-fifth-generation-time-capsule?utm_medium=rss)
+ - [Parallels Desktop updated with better gaming performance &amp; improved Clipboard](https://appleinsider.com/articles/24/03/09/parallels-desktop-updated-with-clipboard-game-improvements-more?utm_medium=rss)
+ - [New M3 MacBook Air has changes that make the SSD faster than the last model](https://appleinsider.com/articles/24/03/09/apple-moves-to-parallel-flash-chips-in-entry-level-m3-macbook-air?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
