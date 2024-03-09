@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite remains offline as Epic struggles with unexpected issues: &#39;This stuff is tricky!&#39; Tim Sweeney says](https://www.pcgamer.com/games/battle-royale/fortnite-remains-offline-as-epic-struggles-with-unexpected-issues-this-stuff-is-tricky-tim-sweeney-says)
- - [Former Xbox Exec Says The End Of Consoles Is &#39;A Serious Question&#39;](https://kotaku.com/end-of-consoles-xbox-ps5-switch-peter-moore-1851321424)
- - [Thousands of players gather online in Final Fantasy 14, Dragon Quest 10 and more to mourn legendary artist Akira Toriyama](https://www.pcgamer.com/games/mmo/thousands-of-players-gather-online-in-final-fantasy-14-dragon-quest-10-and-more-to-mourn-legendary-artist-akira-toriyama)<!-- GAME:END -->
+ - [600 Activision QA workers unionize, Microsoft voluntarily recognizes](https://www.polygon.com/24093254/activision-qa-600-workers-union-microsoft)
+ - [Last Epoch players help judge what overpowered builds will be on the chopping block for its next major patch](https://www.pcgamer.com/games/action/last-epoch-players-help-judge-what-overpowered-builds-will-be-on-the-chopping-block-for-its-next-major-patch)
+ - [New Blood boss wanted Dusk to be as moddable as Doom and Skyrim: &#39;If there&#39;s not anime big tiddy waifus in Dusk by the time we&#39;re done with the SDK, then we haven&#39;t done it right&#39;](https://www.pcgamer.com/games/fps/new-blood-boss-wanted-dusk-to-be-as-moddable-as-doom-and-skyrim-if-theres-not-anime-big-tiddy-waifus-in-dusk-by-the-time-were-done-with-the-sdk-then-we-havent-done-it-right)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
