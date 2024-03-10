@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [His eyes \u201calmost\u201d opened](http://9gag.com/gag/aNwyORv)
- - 😝 [The guy you call to switch on the light](http://9gag.com/gag/armP8pd)
- - 👉 [Understandable. Have a great day.](http://9gag.com/gag/aeQX7pQ)<!-- MEMES:END -->
+ - 6️⃣ [The evolution of the criminal](http://9gag.com/gag/awZqd14)
+ - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
+ - 👉 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)<!-- MEMES:END -->
 
 --- 
 
