@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)
- - 😝 [Facts \ud83d\ude2d](http://9gag.com/gag/agoR4ZK)
- - 👉 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)<!-- MEMES:END -->
+ - 6️⃣ [His eyes \u201calmost\u201d opened](http://9gag.com/gag/aNwyORv)
+ - 😝 [The guy you call to switch on the light](http://9gag.com/gag/armP8pd)
+ - 👉 [Understandable. Have a great day.](http://9gag.com/gag/aeQX7pQ)<!-- MEMES:END -->
 
 --- 
 
