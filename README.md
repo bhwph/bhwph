@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring once had a different starting location, and while it makes more sense than the one we got, I&#39;m glad they changed it](https://www.pcgamer.com/games/rpg/elden-ring-once-had-a-different-starting-location-and-while-it-makes-more-sense-than-the-one-we-got-im-glad-they-changed-it)
- - [600 Activision QA workers just formed the biggest videogame union in the US](https://www.pcgamer.com/gaming-industry/600-activision-qa-workers-just-formed-the-biggest-videogame-union-in-the-us)
- - [Netlix’s The Gentlemen lets Guy Ritchie get back to basics and perfect his vibe](https://www.polygon.com/24094684/netflix-gentlemen-guy-ritchie-show-movie-series-good)<!-- GAME:END -->
+ - [The company behind the Alien and Dishonored tabletop RPGs is planning a new RPG based on Terry Pratchett&#39;s Discworld](https://www.pcgamer.com/games/rpg/the-company-behind-the-alien-and-dishonored-tabletop-rpgs-is-planning-a-new-rpg-based-on-terry-pratchetts-discworld)
+ - [Build a mobile fortress on the back of a walking tree in colony survival game Ark of Charon](https://www.pcgamer.com/games/strategy/build-a-mobile-fortress-on-the-back-of-a-walking-tree-in-colony-survival-game-ark-of-charon)
+ - [Elden Ring once had a different starting location, and while it makes more sense than the one we got, I&#39;m glad they changed it](https://www.pcgamer.com/games/rpg/elden-ring-once-had-a-different-starting-location-and-while-it-makes-more-sense-than-the-one-we-got-im-glad-they-changed-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
