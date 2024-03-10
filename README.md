@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
- - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
- - 👉 [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)<!-- MEMES:END -->
+ - 6️⃣ [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
+ - 😝 [Guy goes crazy against a patient car driver](http://9gag.com/gag/anzA2xb)
+ - 👉 [Peak advertising](http://9gag.com/gag/aZD92Bz)<!-- MEMES:END -->
 
 --- 
 
