@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
- - 😝 [Guy goes crazy against a patient car driver](http://9gag.com/gag/anzA2xb)
- - 👉 [Peak advertising](http://9gag.com/gag/aZD92Bz)<!-- MEMES:END -->
+ - 😝 [Clubbing in your 40s](http://9gag.com/gag/aOx6PPN)
+ - 👉 [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)<!-- MEMES:END -->
 
 --- 
 
