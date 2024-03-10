@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Do Heat Pumps Work?](https://www.wired.com/story/how-do-heat-pumps-work/)
- - [A look at the challenges of academic AI research, as costs to develop generative AI models grow rapidly and tech companies&#39; salaries drain academia of talent &lpar;Washington Post&rpar;](http://www.techmeme.com/240310/p6#a240310p6)
- - [ChatGPT: 5 changes I’d like to see in the near future](https://www.androidauthority.com/chatgpt-future-features-updates-changes-3424071/)<!-- TECH:END -->
+ - [Oscars 2024: all the latest from the biggest night in film](https://www.theverge.com/24091138/oscars-2024-news-winners-nominees)
+ - [How to refurbish a fifth-generation Time Capsule](https://appleinsider.com/articles/24/03/09/how-to-refurbish-a-fifth-generation-time-capsule?utm_medium=rss)
+ - [Apple Watch SE &lpar;2022&rpar; Deals: Big Savings on Direct Discounts, Trade-In Offers and More     - CNET](https://www.cnet.com/deals/best-apple-watch-se-2022-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
