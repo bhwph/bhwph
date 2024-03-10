@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
- - 😝 [Old white liberal women are the worst](http://9gag.com/gag/aA0nv3g)
- - 👉 [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)<!-- MEMES:END -->
+ - 6️⃣ [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)
+ - 😝 [Facts \ud83d\ude2d](http://9gag.com/gag/agoR4ZK)
+ - 👉 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)<!-- MEMES:END -->
 
 --- 
 
