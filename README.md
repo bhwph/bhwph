@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aerith’s Fate in &#39;Final Fantasy VII Rebirth&#39; Is Causing a Rift Among Fans](https://www.wired.com/story/does-aerith-die-final-fantasy-vii-rebirth/)
- - [The Influencers Getting Paid to Promote Designer Knockoffs From China](https://www.wired.com/story/influencers-paid-promote-designer-knockoffs-from-china/)
- - [A profile of, and interview with, Salesforce co-founder Parker Harris, who became Slack CTO in January, on tightly integrating Slack, generative AI, and more &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240310/p2#a240310p2)<!-- TECH:END -->
+ - [The perfect music streaming app does not exist](https://www.theverge.com/2024/3/10/24094743/best-music-app-nothing-phone-2a-m3-macbook-air-rivian-r3-installer-newsletter)
+ - [Q&amp;A with ex-PlayStation boss Shawn Layden about his support for Web3 gaming company Readygg, blockchain games, mass layoffs, AI, controlling costs, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240310/p3#a240310p3)
+ - [Wales vs. France: How to Watch 2024 Six Nations Rugby Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/wales-v-france-how-to-watch-2024-six-nations-rugby-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
