@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
- - 😝 [Clubbing in your 40s](http://9gag.com/gag/aOx6PPN)
- - 👉 [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)<!-- MEMES:END -->
+ - 6️⃣ [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)
+ - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
+ - 👉 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)<!-- MEMES:END -->
 
 --- 
 
