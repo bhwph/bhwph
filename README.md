@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The perfect music streaming app does not exist](https://www.theverge.com/2024/3/10/24094743/best-music-app-nothing-phone-2a-m3-macbook-air-rivian-r3-installer-newsletter)
- - [Q&amp;A with ex-PlayStation boss Shawn Layden about his support for Web3 gaming company Readygg, blockchain games, mass layoffs, AI, controlling costs, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240310/p3#a240310p3)
- - [Wales vs. France: How to Watch 2024 Six Nations Rugby Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/wales-v-france-how-to-watch-2024-six-nations-rugby-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I saw an AI generate images offline in real-time, and I still can’t believe it](https://www.androidauthority.com/mediatek-realtime-ai-image-generation-hands-on-3421211/)
+ - [A look at the design options Apple considered for its car, including one by Jony Ive that resembled a modern reincarnation of the 1950s Volkswagen microbus &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240310/p4#a240310p4)
+ - [The Super Mario Bros. Movie sequel is coming in 2026](https://www.theverge.com/2024/3/10/24096213/super-mario-bros-movie-2-sequel-2026)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
