@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She&#39;s got my vote](http://9gag.com/gag/az26YZz)
- - 😝 [No title needed](http://9gag.com/gag/aeQX2bq)
- - 👉 [Woman: `Silence` Bird: `Key Change!`](http://9gag.com/gag/axopRjY)<!-- MEMES:END -->
+ - 6️⃣ [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
+ - 😝 [Old white liberal women are the worst](http://9gag.com/gag/aA0nv3g)
+ - 👉 [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)<!-- MEMES:END -->
 
 --- 
 
