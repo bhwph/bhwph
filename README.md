@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The company behind the Alien and Dishonored tabletop RPGs is planning a new RPG based on Terry Pratchett&#39;s Discworld](https://www.pcgamer.com/games/rpg/the-company-behind-the-alien-and-dishonored-tabletop-rpgs-is-planning-a-new-rpg-based-on-terry-pratchetts-discworld)
- - [Build a mobile fortress on the back of a walking tree in colony survival game Ark of Charon](https://www.pcgamer.com/games/strategy/build-a-mobile-fortress-on-the-back-of-a-walking-tree-in-colony-survival-game-ark-of-charon)
- - [Elden Ring once had a different starting location, and while it makes more sense than the one we got, I&#39;m glad they changed it](https://www.pcgamer.com/games/rpg/elden-ring-once-had-a-different-starting-location-and-while-it-makes-more-sense-than-the-one-we-got-im-glad-they-changed-it)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, March 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-10-2024)
+ - [The developers of Unsighted are making a 3D metroidvania that looks anime as all get-out](https://www.pcgamer.com/games/action/the-developers-of-unsighted-are-making-a-3d-metroidvania-that-looks-anime-as-all-get-out)
+ - [Arrange your items to optimize your fights in asynchronous autobattler Backpack Battles](https://www.pcgamer.com/games/arrange-your-items-to-optimize-your-fights-in-asynchronous-autobattler-backpack-battles)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
