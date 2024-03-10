@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 7 Rebirth has no right being this funny](https://www.polygon.com/24093492/final-fantasy-7-rebirth-hilarious-square-enix)
- - [Mastering FF7 Rebirth&#39;s Combat, Card Game, Side Quests, And More Of The Week&#39;s Best Tips](https://kotaku.com/ff7-rebirth-tips-unicorn-overlord-synergy-romance-1851320256)
- - [Akira Toriyama gave us gaming’s most perfect character design](https://www.polygon.com/gaming/24094509/akira-toriyama-dragon-quest-slime)<!-- GAME:END -->
+ - [Run your team of fantasy gladiators to absolute dominance in Mortal Glory 2](https://www.pcgamer.com/games/strategy/run-your-team-of-fantasy-gladiators-to-absolute-dominance-in-mortal-glory-2)
+ - [Watch Dogs might just get a movie adaptation after all, because it now has a lead and director](https://www.pcgamer.com/movies-tv/watch-dogs-might-just-get-a-movie-adaptation-after-all-because-it-now-has-a-lead-and-director)
+ - [The end of Netflix’s dragon movie Damsel makes it worth watching](https://www.polygon.com/24093600/damsel-netflix-millie-bobby-brown-fairy-tale-tropes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
