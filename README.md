@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, March 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-10-2024)
- - [The developers of Unsighted are making a 3D metroidvania that looks anime as all get-out](https://www.pcgamer.com/games/action/the-developers-of-unsighted-are-making-a-3d-metroidvania-that-looks-anime-as-all-get-out)
- - [Arrange your items to optimize your fights in asynchronous autobattler Backpack Battles](https://www.pcgamer.com/games/arrange-your-items-to-optimize-your-fights-in-asynchronous-autobattler-backpack-battles)<!-- GAME:END -->
+ - [Mastering FF7 Rebirth&#39;s Combat, Card Game, Side Quests, And More Of The Week&#39;s Best Tips](https://kotaku.com/ff7-rebirth-tips-unicorn-overlord-synergy-romance-1851320256)
+ - [Akira Toriyama gave us gaming’s most perfect character design](https://www.polygon.com/gaming/24094509/akira-toriyama-dragon-quest-slime)
+ - [Today&#39;s Wordle answer for Sunday, March 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-10-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
