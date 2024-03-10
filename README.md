@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is breaking too many things in a rush to lead on AI](https://www.androidauthority.com/google-move-fast-break-ai-3423665/)
- - [Denver to pay $3.76M to grandmother due to &quot;Find My&quot; error](https://appleinsider.com/articles/24/03/10/denver-to-pay-376m-to-grandmother-due-to-find-my-error?utm_medium=rss)
- - [Do smart homes save energy? Mine does and here’s how](https://www.androidauthority.com/smart-homes-save-energy-3422689/)<!-- TECH:END -->
+ - [How to use Apple&#39;s Time Capsule for backups on a modern wireless network](https://appleinsider.com/articles/24/03/10/how-to-use-apples-time-capsule-for-backups-on-a-modern-wireless-network?utm_medium=rss)
+ - [Should You Buy Solar Panels or Rent Them?     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panels-should-you-buy-or-rent/#ftag=CAD590a51e)
+ - [Best Laptop Backpack for 2024     - CNET](https://www.cnet.com/tech/computing/best-laptop-backpack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
