@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I saw an AI generate images offline in real-time, and I still can’t believe it](https://www.androidauthority.com/mediatek-realtime-ai-image-generation-hands-on-3421211/)
- - [A look at the design options Apple considered for its car, including one by Jony Ive that resembled a modern reincarnation of the 1950s Volkswagen microbus &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240310/p4#a240310p4)
- - [The Super Mario Bros. Movie sequel is coming in 2026](https://www.theverge.com/2024/3/10/24096213/super-mario-bros-movie-2-sequel-2026)<!-- TECH:END -->
+ - [Google is breaking too many things in a rush to lead on AI](https://www.androidauthority.com/google-move-fast-break-ai-3423665/)
+ - [Denver to pay $3.76M to grandmother due to &quot;Find My&quot; error](https://appleinsider.com/articles/24/03/10/denver-to-pay-376m-to-grandmother-due-to-find-my-error?utm_medium=rss)
+ - [Do smart homes save energy? Mine does and here’s how](https://www.androidauthority.com/smart-homes-save-energy-3422689/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
