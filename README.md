@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
+ - 6️⃣ [Good job Bro&#39;](http://9gag.com/gag/avQbvZb)
  - 😝 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
- - 👉 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)<!-- MEMES:END -->
+ - 👉 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)<!-- MEMES:END -->
 
 --- 
 
