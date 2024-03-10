@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Final Fantasy 7 Rebirth has no right being this funny](https://www.polygon.com/24093492/final-fantasy-7-rebirth-hilarious-square-enix)
  - [Mastering FF7 Rebirth&#39;s Combat, Card Game, Side Quests, And More Of The Week&#39;s Best Tips](https://kotaku.com/ff7-rebirth-tips-unicorn-overlord-synergy-romance-1851320256)
- - [Akira Toriyama gave us gaming’s most perfect character design](https://www.polygon.com/gaming/24094509/akira-toriyama-dragon-quest-slime)
- - [Today&#39;s Wordle answer for Sunday, March 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-10-2024)<!-- GAME:END -->
+ - [Akira Toriyama gave us gaming’s most perfect character design](https://www.polygon.com/gaming/24094509/akira-toriyama-dragon-quest-slime)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
