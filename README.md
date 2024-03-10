@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The evolution of the criminal](http://9gag.com/gag/awZqd14)
- - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
+ - 6️⃣ [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
+ - 😝 [NCAP 0](http://9gag.com/gag/aGEP26Z)
  - 👉 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)<!-- MEMES:END -->
 
 --- 
