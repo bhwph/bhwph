@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good job Bro&#39;](http://9gag.com/gag/avQbvZb)
- - 😝 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
- - 👉 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)<!-- MEMES:END -->
+ - 6️⃣ [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
+ - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
+ - 👉 [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)<!-- MEMES:END -->
 
 --- 
 
