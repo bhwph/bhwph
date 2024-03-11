@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [No April Fools’ joke: OnePlus will launch a new Nord on April 1](https://www.androidauthority.com/oneplus-nord-ce-4-launch-3424244/)
- - [Score Big Savings: Join CNET&#39;s Text Group for Daily Deals Under $50     - CNET](https://www.cnet.com/tech/services-and-software/score-big-savings-join-cnets-text-group-for-daily-deals-under-50/#ftag=CAD590a51e)
- - [Google Is Getting Thousands of Deepfake Porn Complaints](https://www.wired.com/story/google-deepfake-porn-dmca-takedowns/)<!-- TECH:END -->
+ - [UK savings platform Flagstone, which lets its 600K+ users split cash across providers, raised &amp;pound;108M from Arizona-based Estancia for a minority stake &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240311/p5#a240311p5)
+ - [EU privacy watchdog EDPS says the EU Commission&#39;s use of Microsoft&#39;s software breached privacy rules and the EU failed to implement data transfer safeguards &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240311/p4#a240311p4)
+ - [Rampant Wildfires Are Threatening a Collapse of the Amazon Rainforest](https://www.wired.com/story/rampant-wildfires-collapse-amazon-rainforest/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
