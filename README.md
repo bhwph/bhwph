@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK savings platform Flagstone, which lets its 600K+ users split cash across providers, raised &amp;pound;108M from Arizona-based Estancia for a minority stake &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240311/p5#a240311p5)
- - [EU privacy watchdog EDPS says the EU Commission&#39;s use of Microsoft&#39;s software breached privacy rules and the EU failed to implement data transfer safeguards &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240311/p4#a240311p4)
- - [Rampant Wildfires Are Threatening a Collapse of the Amazon Rainforest](https://www.wired.com/story/rampant-wildfires-collapse-amazon-rainforest/)<!-- TECH:END -->
+ - [An Italian minister says Singapore-based Silicon Box plans to invest &amp;euro;3.2B to build a chip factory; Silicon Box raised $200M in January 2024 at a $1B+ valuation &lpar;Flavia Rotondi/Bloomberg&rpar;](http://www.techmeme.com/240311/p13#a240311p13)
+ - [Pavel Durov says Telegram has 900M users, hopes &quot;to become profitable next year, if not this year&quot;, was &quot;offered $30B+ valuations&quot; by VCs, and considers an IPO &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240311/p12#a240311p12)
+ - [Apple Vision Pro problems and how to fix them](https://www.androidauthority.com/apple-vision-pro-problems-fixes-3424170/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
