@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego unveils three big Super Mario sets coming in August](https://www.polygon.com/24094572/lego-super-mario-kart-king-boo-bowser-peachs-castle-sets-pre-order-buy-details)
- - [FF7 Rebirth Has More In Common With 2022’s Best RPG Than You Think](https://kotaku.com/ff7-rebirth-scale-environments-xenoblade-chronicles-3-1851321496)
- - [When does Genshin Impact 4.5 release?](https://www.polygon.com/genshin-impact-guides/24094723/version-4-5-patch-maintenance-time)<!-- GAME:END -->
+ - [The Best Mario Games, According To You](https://kotaku.com/best-mario-games-galaxy-world-64-sunshine-kart-odyssey-1851325267)
+ - [Multiversus has been &#39;rebuilt&#39; in Unreal Engine 5 for a relaunch in May with new netcode, new characters, and a PvE mode](https://www.pcgamer.com/games/fighting/multiversus-has-been-rebuilt-in-unreal-engine-5-for-a-relaunch-in-may-with-new-netcode-new-characters-and-a-pve-mode)
+ - [The Finals Season 2: first details on hacking-themed season 2, live March 14](https://blog.playstation.com/2024/03/11/the-finals-season-2-first-details-on-hacking-themed-season-2-live-march-14/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
