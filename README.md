@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peacefuls](http://9gag.com/gag/avQbv4O)
- - 😝 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
- - 👉 [Hungry???](http://9gag.com/gag/aVbGVyw)<!-- MEMES:END -->
+ - 6️⃣ [Good acting from both though](http://9gag.com/gag/az26Bbp)
+ - 😝 [Old white liberal women are the worst](http://9gag.com/gag/aA0nv3g)
+ - 👉 [Next stop depression and as a man you can&#39;t complain because that&#39;s what women do.](http://9gag.com/gag/aVbGB5d)<!-- MEMES:END -->
 
 --- 
 
