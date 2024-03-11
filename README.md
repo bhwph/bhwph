@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
- - 😝 [NCAP 0](http://9gag.com/gag/aGEP26Z)
- - 👉 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)<!-- MEMES:END -->
+ - 6️⃣ [He can&#39;t even make it out of the parking lot of the police station without committing another crime](http://9gag.com/gag/avQbm6b)
+ - 😝 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
+ - 👉 [Hungry???](http://9gag.com/gag/aVbGVyw)<!-- MEMES:END -->
 
 --- 
 
