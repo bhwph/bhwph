@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eclipse Labs, which is developing an Ethereum Layer-2 blockchain using the Solana Virtual Machine, raised a $50M Series A co-led by Placeholder and Hack VC &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/240311/p18#a240311p18)
- - [Heybike Tyson Review: Big on the Basics](https://www.wired.com/review/heybike-tyson/)
- - [AI-generated recipes won’t get you to Flavortown](https://www.theverge.com/24094774/ai-recipes-chatgpt-gemini-copyright)<!-- TECH:END -->
+ - [TikTok prepares to challenge Instagram with ‘TikTok Photos’](https://www.androidauthority.com/tiktok-photos-3424441/)
+ - [JBL’s retro-style Authentics 300 smart speaker has dropped to an all-time low](https://www.theverge.com/2024/3/11/24097161/jbl-authentics-300-smart-speaker-nintendo-switch-oled-jabra-elite-10-earbuds-deal-sale)
+ - [The 4 Big Questions the Pentagon’s New UFO Report Fails to Answer](https://www.wired.com/story/questions-pentagon-ufo-report/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
