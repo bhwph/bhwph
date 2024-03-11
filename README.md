@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok prepares to challenge Instagram with ‘TikTok Photos’](https://www.androidauthority.com/tiktok-photos-3424441/)
- - [JBL’s retro-style Authentics 300 smart speaker has dropped to an all-time low](https://www.theverge.com/2024/3/11/24097161/jbl-authentics-300-smart-speaker-nintendo-switch-oled-jabra-elite-10-earbuds-deal-sale)
- - [The 4 Big Questions the Pentagon’s New UFO Report Fails to Answer](https://www.wired.com/story/questions-pentagon-ufo-report/)<!-- TECH:END -->
+ - [The Pixel 9 may debut Google’s Adaptive Touch feature](https://www.androidauthority.com/pixel-9-adaptive-touch-3424475/)
+ - [Midjourney bans all Stability AI employees over alleged data scraping](https://www.theverge.com/2024/3/11/24097495/midjourney-bans-stability-ai-employees-data-theft-outage)
+ - [Our Favorite Thunderbolt 4 Dock Is Now Just $140     - CNET](https://www.cnet.com/deals/our-favorite-thunderbolt-4-dock-is-now-just-140/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
