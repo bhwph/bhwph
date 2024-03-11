@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Godzilla Was The True Golden Boy Of The Oscars](https://kotaku.com/oscars-2024-godzilla-minus-one-action-figures-shoes-1851326296)
- - [Fortnite Chapter 5 Season 2 Battle Pass skins list, including Zeus, Hades, and Aphrodite](https://www.polygon.com/fortnite-guide/24097617/chapter-5-season-2-battle-pass-skins-list-c5s2)
- - [Dragon’s Dogma 2 pre-orders at Best Buy include a Steelbook case](https://www.polygon.com/deals/24054520/dragons-dogma-2-pre-order-buy-guide-standard-deluxe-edition)<!-- GAME:END -->
+ - [The new Contra: Operation Galuga crushed my skepticism with new ideas that actually work](https://www.pcgamer.com/games/action/the-new-contra-operation-galuga-crushed-my-skepticism-with-new-ideas-that-actually-work)
+ - [Rise of the Ronin hands-on report: Team Ninja’s first open-world is a wandering swordsman’s playground](https://blog.playstation.com/2024/03/11/rise-of-the-ronin-hands-on-report-team-ninjas-first-open-world-is-a-wandering-swordsmans-playground/)
+ - [Rise Of The Ronin Is A Cat Lover’s Paradise](https://kotaku.com/rise-ronin-ps5-cats-folklore-increase-powers-gear-1851325827)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
