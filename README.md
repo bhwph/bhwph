@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Run your team of fantasy gladiators to absolute dominance in Mortal Glory 2](https://www.pcgamer.com/games/strategy/run-your-team-of-fantasy-gladiators-to-absolute-dominance-in-mortal-glory-2)
- - [Watch Dogs might just get a movie adaptation after all, because it now has a lead and director](https://www.pcgamer.com/movies-tv/watch-dogs-might-just-get-a-movie-adaptation-after-all-because-it-now-has-a-lead-and-director)
- - [The end of Netflix’s dragon movie Damsel makes it worth watching](https://www.polygon.com/24093600/damsel-netflix-millie-bobby-brown-fairy-tale-tropes)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;March 11, 2024&rpar;](https://www.pcgamer.com/games/five-new-steam-games-you-probably-missed-march-11-2024)
+ - [The Mass Effect board game will come with little guys and, dammit, now I want the thing](https://www.pcgamer.com/games/rpg/the-mass-effect-board-game-will-come-with-little-guys-and-dammit-now-i-want-the-thing)
+ - [Jimmy Kimmel’s Oscars monologue ended on a moment of union solidarity](https://www.polygon.com/24096752/oscars-2024-jimmy-kimmel-opening-monologue)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
