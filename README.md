@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meanwhile in Uzbekistan](http://9gag.com/gag/aOx6pOR)
- - 😝 [NCAP 0](http://9gag.com/gag/aGEP26Z)
- - 👉 [Just awful](http://9gag.com/gag/az26RKp)<!-- MEMES:END -->
+ - 6️⃣ [Peacefuls](http://9gag.com/gag/avQbv4O)
+ - 😝 [Damn poor animals](http://9gag.com/gag/agoREPg)
+ - 👉 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)<!-- MEMES:END -->
 
 --- 
 
