@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good acting from both though](http://9gag.com/gag/az26Bbp)
- - 😝 [Old white liberal women are the worst](http://9gag.com/gag/aA0nv3g)
- - 👉 [Next stop depression and as a man you can&#39;t complain because that&#39;s what women do.](http://9gag.com/gag/aVbGB5d)<!-- MEMES:END -->
+ - 6️⃣ [Compliment for Ford](http://9gag.com/gag/agoRj0g)
+ - 😝 [Sir, a jelly doughnut, sir!](http://9gag.com/gag/a9q3BzD)
+ - 👉 [Paying tribute to a legend](http://9gag.com/gag/aQEYONK)<!-- MEMES:END -->
 
 --- 
 
