@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Each of these had their own original story, not a stolen one. Every one liked that.](http://9gag.com/gag/awZqYd1)
- - 😝 [That describes everything happening at the border right now.](http://9gag.com/gag/aNwyjp4)
- - 👉 [Bulgaria traditional costumes](http://9gag.com/gag/aRExRW5)<!-- MEMES:END -->
+ - 6️⃣ [Meanwhile in Uzbekistan](http://9gag.com/gag/aOx6pOR)
+ - 😝 [NCAP 0](http://9gag.com/gag/aGEP26Z)
+ - 👉 [Just awful](http://9gag.com/gag/az26RKp)<!-- MEMES:END -->
 
 --- 
 
