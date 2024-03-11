@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hungry???](http://9gag.com/gag/aVbGVyw)
- - 😝 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
- - 👉 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)<!-- MEMES:END -->
+ - 6️⃣ [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
+ - 😝 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
+ - 👉 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)<!-- MEMES:END -->
 
 --- 
 
