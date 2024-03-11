@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 9 may debut Google’s Adaptive Touch feature](https://www.androidauthority.com/pixel-9-adaptive-touch-3424475/)
- - [Midjourney bans all Stability AI employees over alleged data scraping](https://www.theverge.com/2024/3/11/24097495/midjourney-bans-stability-ai-employees-data-theft-outage)
- - [Our Favorite Thunderbolt 4 Dock Is Now Just $140     - CNET](https://www.cnet.com/deals/our-favorite-thunderbolt-4-dock-is-now-just-140/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Covariant, an AI-powered robot maker, debuts RFM-1, an AI model the company says can process physics, may limit the need for bespoke robotics programming, more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240311/p24#a240311p24)
+ - [iPadOS 18 wishlist: What I want to see and what we know so far](https://www.androidauthority.com/apple-ipados-18-3421890/)
+ - [Bitcoin app accused of stealing $120,000 in another App Store failure [u]](https://appleinsider.com/articles/24/03/11/bitcoin-app-accused-of-stealing-120000-in-another-app-store-failure?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
