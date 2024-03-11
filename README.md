@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
- - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
- - 👉 [Never knew this until now](http://9gag.com/gag/aBdDvRO)<!-- MEMES:END -->
+ - 6️⃣ [US soldier picks up object he thinks is an artillery shell, it is in fact an IED &lpar;Afghanistan, date unknown&rpar;](http://9gag.com/gag/aOx6Rdv)
+ - 😝 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
+ - 👉 [Show me what you got](http://9gag.com/gag/a2KQx7E)<!-- MEMES:END -->
 
 --- 
 
