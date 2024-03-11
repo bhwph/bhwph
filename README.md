@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Mario Games, According To You](https://kotaku.com/best-mario-games-galaxy-world-64-sunshine-kart-odyssey-1851325267)
- - [Multiversus has been &#39;rebuilt&#39; in Unreal Engine 5 for a relaunch in May with new netcode, new characters, and a PvE mode](https://www.pcgamer.com/games/fighting/multiversus-has-been-rebuilt-in-unreal-engine-5-for-a-relaunch-in-may-with-new-netcode-new-characters-and-a-pve-mode)
- - [The Finals Season 2: first details on hacking-themed season 2, live March 14](https://blog.playstation.com/2024/03/11/the-finals-season-2-first-details-on-hacking-themed-season-2-live-march-14/)<!-- GAME:END -->
+ - [Invincible, Netflix’s Girls5Eva, and more new TV this week](https://www.polygon.com/2024/3/11/24081632/new-tv-netflix-invincible-part-2-girls5eva-season)
+ - [Seized by the spirit of democracy, Helldivers 2 CEO holds an impromptu workshop on how to improve the game&#39;s host-based kick system: &#39;there&#39;s always a better solution&#39;](https://www.pcgamer.com/games/third-person-shooter/seized-by-the-spirit-of-democracy-helldivers-2-ceo-holds-an-impromptu-workshop-on-how-to-improve-the-games-host-based-kick-system-theres-always-a-better-solution)
+ - [Fallout Show Creators ‘Know All About Fallout 5’](https://kotaku.com/fallout-5-show-todd-howard-amazon-1851325762)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
