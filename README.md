@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;March 11, 2024&rpar;](https://www.pcgamer.com/games/five-new-steam-games-you-probably-missed-march-11-2024)
- - [The Mass Effect board game will come with little guys and, dammit, now I want the thing](https://www.pcgamer.com/games/rpg/the-mass-effect-board-game-will-come-with-little-guys-and-dammit-now-i-want-the-thing)
- - [Jimmy Kimmel’s Oscars monologue ended on a moment of union solidarity](https://www.polygon.com/24096752/oscars-2024-jimmy-kimmel-opening-monologue)<!-- GAME:END -->
+ - [Christopher Nolan finally won an Oscar](https://www.polygon.com/24096833/oscars-2024-christopher-nolan-oppenheimer)
+ - [The Oscars’ I’m Just Ken live performance was much more than Kennough](https://www.polygon.com/24093651/oscars-2024-im-just-ken-ryan-gosling-performance)
+ - [Five new Steam games you probably missed &lpar;March 11, 2024&rpar;](https://www.pcgamer.com/games/five-new-steam-games-you-probably-missed-march-11-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
