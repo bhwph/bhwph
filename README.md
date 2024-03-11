@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Compliment for Ford](http://9gag.com/gag/agoRj0g)
- - 😝 [Sir, a jelly doughnut, sir!](http://9gag.com/gag/a9q3BzD)
- - 👉 [Paying tribute to a legend](http://9gag.com/gag/aQEYONK)<!-- MEMES:END -->
+ - 6️⃣ [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
+ - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
+ - 👉 [Never knew this until now](http://9gag.com/gag/aBdDvRO)<!-- MEMES:END -->
 
 --- 
 
