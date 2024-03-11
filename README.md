@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro will be the platform for the killer VR app, not Meta](https://appleinsider.com/articles/24/03/11/apples-vision-pro-and-the-killer-app-store?utm_medium=rss)
- - [Top-rated Garmin Forerunner 255 returns to lowest price at $100 off](https://www.androidauthority.com/garmin-forerunner-255-deal-3424371/)
- - [An AI-Altered Hitler Speech Is Going Viral On X](https://www.wired.com/story/ai-altered-hitler-speech-viral/)<!-- TECH:END -->
+ - [Eclipse Labs, which is developing an Ethereum Layer-2 blockchain using the Solana Virtual Machine, raised a $50M Series A co-led by Placeholder and Hack VC &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/240311/p18#a240311p18)
+ - [Heybike Tyson Review: Big on the Basics](https://www.wired.com/review/heybike-tyson/)
+ - [AI-generated recipes won’t get you to Flavortown](https://www.theverge.com/24094774/ai-recipes-chatgpt-gemini-copyright)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
