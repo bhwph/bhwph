@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer Seiren V3 Chroma review](https://www.pcgamer.com/hardware/microphones/razer-seiren-v3-chroma-review)
- - [Fortnite Chapter 5 Season 2 brings the powers of the gods to Battle Royale](https://blog.playstation.com/2024/03/11/fortnite-chapter-5-season-2-brings-the-powers-of-the-gods-to-battle-royale/)
- - [Fortnite Chapter 5 Season 2 brings the powers of the gods to Battle Royale](https://blog.playstation.com/2024/03/11/fortnite-chapter-5-season-2-brings-the-powers-of-the-gods-to-battle-royale/)<!-- GAME:END -->
+ - [Lego unveils three big Super Mario sets coming in August](https://www.polygon.com/24094572/lego-super-mario-kart-king-boo-bowser-peachs-castle-sets-pre-order-buy-details)
+ - [FF7 Rebirth Has More In Common With 2022’s Best RPG Than You Think](https://kotaku.com/ff7-rebirth-scale-environments-xenoblade-chronicles-3-1851321496)
+ - [When does Genshin Impact 4.5 release?](https://www.polygon.com/genshin-impact-guides/24094723/version-4-5-patch-maintenance-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
