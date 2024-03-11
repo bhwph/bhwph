@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Christopher Nolan finally won an Oscar](https://www.polygon.com/24096833/oscars-2024-christopher-nolan-oppenheimer)
- - [The Oscars’ I’m Just Ken live performance was much more than Kennough](https://www.polygon.com/24093651/oscars-2024-im-just-ken-ryan-gosling-performance)
- - [Five new Steam games you probably missed &lpar;March 11, 2024&rpar;](https://www.pcgamer.com/games/five-new-steam-games-you-probably-missed-march-11-2024)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, March 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-11-2024)
+ - [Vermintide 2&#39;s Versus mode is real, currently in open alpha](https://www.pcgamer.com/games/fps/vermintide-2s-versus-mode-is-real-currently-in-open-alpha)
+ - [Disgraced former WWE boss Vince McMahon has been largely scrubbed from WWE 2K24](https://www.pcgamer.com/games/sports/disgraced-former-wwe-boss-vince-mcmahon-has-been-largely-scrubbed-from-wwe-2k24)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
