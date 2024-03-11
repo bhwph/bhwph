@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Italian minister says Singapore-based Silicon Box plans to invest &amp;euro;3.2B to build a chip factory; Silicon Box raised $200M in January 2024 at a $1B+ valuation &lpar;Flavia Rotondi/Bloomberg&rpar;](http://www.techmeme.com/240311/p13#a240311p13)
- - [Pavel Durov says Telegram has 900M users, hopes &quot;to become profitable next year, if not this year&quot;, was &quot;offered $30B+ valuations&quot; by VCs, and considers an IPO &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240311/p12#a240311p12)
- - [Apple Vision Pro problems and how to fix them](https://www.androidauthority.com/apple-vision-pro-problems-fixes-3424170/)<!-- TECH:END -->
+ - [Apple Vision Pro will be the platform for the killer VR app, not Meta](https://appleinsider.com/articles/24/03/11/apples-vision-pro-and-the-killer-app-store?utm_medium=rss)
+ - [Top-rated Garmin Forerunner 255 returns to lowest price at $100 off](https://www.androidauthority.com/garmin-forerunner-255-deal-3424371/)
+ - [An AI-Altered Hitler Speech Is Going Viral On X](https://www.wired.com/story/ai-altered-hitler-speech-viral/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
