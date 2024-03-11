@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Peacefuls](http://9gag.com/gag/avQbv4O)
- - 😝 [Damn poor animals](http://9gag.com/gag/agoREPg)
- - 👉 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)<!-- MEMES:END -->
+ - 😝 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
+ - 👉 [Hungry???](http://9gag.com/gag/aVbGVyw)<!-- MEMES:END -->
 
 --- 
 
