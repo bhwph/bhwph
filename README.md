@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
- - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
- - 👉 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)<!-- MEMES:END -->
+ - 6️⃣ [Hungry???](http://9gag.com/gag/aVbGVyw)
+ - 😝 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
+ - 👉 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)<!-- MEMES:END -->
 
 --- 
 
