@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Invincible, Netflix’s Girls5Eva, and more new TV this week](https://www.polygon.com/2024/3/11/24081632/new-tv-netflix-invincible-part-2-girls5eva-season)
- - [Seized by the spirit of democracy, Helldivers 2 CEO holds an impromptu workshop on how to improve the game&#39;s host-based kick system: &#39;there&#39;s always a better solution&#39;](https://www.pcgamer.com/games/third-person-shooter/seized-by-the-spirit-of-democracy-helldivers-2-ceo-holds-an-impromptu-workshop-on-how-to-improve-the-games-host-based-kick-system-theres-always-a-better-solution)
- - [Fallout Show Creators ‘Know All About Fallout 5’](https://kotaku.com/fallout-5-show-todd-howard-amazon-1851325762)<!-- GAME:END -->
+ - [Godzilla Was The True Golden Boy Of The Oscars](https://kotaku.com/oscars-2024-godzilla-minus-one-action-figures-shoes-1851326296)
+ - [Fortnite Chapter 5 Season 2 Battle Pass skins list, including Zeus, Hades, and Aphrodite](https://www.polygon.com/fortnite-guide/24097617/chapter-5-season-2-battle-pass-skins-list-c5s2)
+ - [Dragon’s Dogma 2 pre-orders at Best Buy include a Steelbook case](https://www.polygon.com/deals/24054520/dragons-dogma-2-pre-order-buy-guide-standard-deluxe-edition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
