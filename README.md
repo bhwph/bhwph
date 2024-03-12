@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [March Pixel feature drop starts rolling out in the US](https://www.androidauthority.com/march-pixel-feature-drop-us-rollout-started-3424576/)
- - [The next Galaxy Watch could go squarely back to its roots](https://www.androidauthority.com/samsung-galaxy-watch-square-shape-3424571/)
- - [March SSDI Payment 2024: When Is Your Money Coming?     - CNET](https://www.cnet.com/personal-finance/march-ssdi-payment-2024-when-is-your-money-coming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of several AI &quot;doomers&quot;, including AI Impacts researcher Katja Grace, and &quot;effective accelerationists&quot;, as both make arguments about the future of AI &lpar;Andrew Marantz/New Yorker&rpar;](http://www.techmeme.com/240312/p4#a240312p4)
+ - [A survey of US teens: 38% say they spend too much time on their phone, vs. 27% for too much social media; girls are more likely to report too much phone time &lpar;Pew Research Center&rpar;](http://www.techmeme.com/240312/p3#a240312p3)
+ - [Analysis: TikTok app code shows a separate TikTok Photos app, a potential Instagram rival that syncs with the main app and may launch &quot;soon&quot; on iOS and Android &lpar;The SP Android&rpar;](http://www.techmeme.com/240312/p2#a240312p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
