@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest macOS Sonoma update is breaking some USB hubs in monitors](https://appleinsider.com/articles/24/03/12/latest-macos-sonoma-update-is-breaking-some-usb-hubs-in-monitors?utm_medium=rss)
- - [The Kate Middleton Photo’s Most Glaring Photoshop Mistakes](https://www.wired.com/story/kate-middleton-photoshop-mistakes/)
- - [Source: Physical Intelligence, a startup making an AI model for &quot;any robot or physical device&quot;, has raised $70M from Thrive, Khosla, Lux, OpenAI, Sequoia, more &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240312/p25#a240312p25)<!-- TECH:END -->
+ - [The AI-generated hell of the 2024 election](https://www.theverge.com/policy/24098798/2024-election-ai-generated-disinformation)
+ - [DHS wants $101 million to upgrade its border surveillance towers](https://www.theverge.com/2024/3/12/24098881/dhs-border-ai-surveillance-towers-ist)
+ - [Bluesky open sources its collaborative moderation tool Ozone and plans to let users run their own independent moderation services later this week &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240312/p30#a240312p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
