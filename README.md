@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord plans to launch an Embedded App SDK on March 18 that will let developers build new games and apps that can be &quot;played directly on the platform&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240312/p20#a240312p20)
- - [Paramount’s rumored merger: all the news on the potential deals](https://www.theverge.com/2024/3/12/24098476/paramount-merger-rumors-deals-news)
- - [How to use Low Power Mode on the Apple Watch](https://www.theverge.com/23403065/apple-watch-low-power-battery-how-to)<!-- TECH:END -->
+ - [What’s Behind the Bitcoin Price Surge? Vibes, Mostly](https://www.wired.com/story/bitcoin-price-record-economics/)
+ - [Get free Clash of Clans gems when buying an Apple gift card at select retailers](https://appleinsider.com/articles/24/03/12/get-free-clash-of-clans-gems-when-buying-an-apple-gift-card-at-select-retailers?utm_medium=rss)
+ - [The cheapest countries in which to buy an iPhone 15](https://www.androidauthority.com/cheapest-place-to-buy-iphone-15-3363813/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
