@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)
- - 😝 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
- - 👉 [When you meet your raving mate !](http://9gag.com/gag/aPgOpNK)<!-- MEMES:END -->
+ - 6️⃣ [Welcome to the real world](http://9gag.com/gag/az26ByB)
+ - 😝 [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)
+ - 👉 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)<!-- MEMES:END -->
 
 --- 
 
