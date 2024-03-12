@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s Behind the Bitcoin Price Surge? Vibes, Mostly](https://www.wired.com/story/bitcoin-price-record-economics/)
- - [Get free Clash of Clans gems when buying an Apple gift card at select retailers](https://appleinsider.com/articles/24/03/12/get-free-clash-of-clans-gems-when-buying-an-apple-gift-card-at-select-retailers?utm_medium=rss)
- - [The cheapest countries in which to buy an iPhone 15](https://www.androidauthority.com/cheapest-place-to-buy-iphone-15-3363813/)<!-- TECH:END -->
+ - [Latest macOS Sonoma update is breaking some USB hubs in monitors](https://appleinsider.com/articles/24/03/12/latest-macos-sonoma-update-is-breaking-some-usb-hubs-in-monitors?utm_medium=rss)
+ - [The Kate Middleton Photo’s Most Glaring Photoshop Mistakes](https://www.wired.com/story/kate-middleton-photoshop-mistakes/)
+ - [Source: Physical Intelligence, a startup making an AI model for &quot;any robot or physical device&quot;, has raised $70M from Thrive, Khosla, Lux, OpenAI, Sequoia, more &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240312/p25#a240312p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
