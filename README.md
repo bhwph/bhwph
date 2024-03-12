@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune 2’s two silliest performances bring this very serious movie to life](https://www.polygon.com/24097767/dune-2-stilgar-austin-butler-javier-bardem-feyd-rautha)
- - [Final Fantasy 14 won&#39;t let you blast past its story for free anytime soon because Yoshi-P worried &#39;the value of the game itself will be diminished&#39;](https://www.pcgamer.com/games/mmo/final-fantasy-14-wont-let-you-blast-past-its-story-for-free-anytime-soon-because-yoshi-p-worried-the-value-of-the-game-itself-will-be-diminished)
- - [Stardew Valley Fans Going Bananas After One Line From 1.6 Patch Notes](https://kotaku.com/stardew-valley-16-update-patch-fruit-trees-1851328916)<!-- GAME:END -->
+ - [Stardew Valley players finally learn the truth: Eric Barone confirms that for the past 8 years, left-to-right harvesting has been 100ms faster than right-to-left harvesting](https://www.pcgamer.com/games/life-sim/stardew-valley-players-finally-learn-the-truth-eric-barone-confirms-that-for-the-past-8-years-left-to-right-harvesting-has-been-100ms-faster-than-right-to-left-harvesting)
+ - [The Taste of Things and other movies where food has never looked better](https://www.polygon.com/24093402/taste-of-things-movies-with-good-food)
+ - [Toonami Is Holding A Dragon Ball Kai Marathon In Tribute To Akira Toriyama](https://kotaku.com/dragon-ball-kai-marathon-when-toonami-akira-toriyama-1851329602)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
