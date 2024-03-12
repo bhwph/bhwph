@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RTX Remix &#39;is the great equaliser&#39; bringing veteran and hobbyist devs together to remaster the most beloved and best PC games](https://www.pcgamer.com/hardware/nvidia-rtx-remix-the-great-equaliser)
- - [Star Wars Jedi director starts new studio with a bunch of ex-Respawn talent](https://www.polygon.com/24097746/respawn-stig-asmussen-new-studio-giant-skull)
- - [The New Pokémon Anime Proves Leaving Ash Was The Right Decision](https://kotaku.com/pokemon-horizons-anime-netflix-liko-roy-captain-pikachu-1851326504)<!-- GAME:END -->
+ - [Rise Of The Ronin Is This Obscure Samurai Game’s Spiritual Successor](https://kotaku.com/rise-ronin-ps5-game-soulslike-way-samurai-team-ninja-1851328426)
+ - [Warner holds on to Studio Ghibli movies, thanks to multiyear Max streaming deal](https://www.polygon.com/anime/24098400/max-where-studio-ghibli-streaming-new-2024-deal)
+ - [Persona 3 Reload Producer Explains Why The Epilogue Is DLC](https://kotaku.com/persona-3-reload-dlc-episode-aigis-the-answer-1851328397)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
