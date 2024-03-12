@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [From satellite support to water resistance, this new foldable could be a huge upgrade](https://www.androidauthority.com/xiaomi-mix-fold-4-leaked-specs-3424710/)
- - [M3 MacBook Air review: The ideal Mac laptop for Intel hold-outs](https://appleinsider.com/articles/24/03/12/m3-macbook-air-review-the-ideal-mac-laptop-for-intel-hold-outs?utm_medium=rss)
- - [Apple Arcade&#39;s April additions include two with Apple Vision Pro support](https://appleinsider.com/articles/24/03/12/apple-arcades-april-additions-include-two-with-apple-vision-pro-support?utm_medium=rss)<!-- TECH:END -->
+ - [Discord plans to launch an Embedded App SDK on March 18 that will let developers build new games and apps that can be &quot;played directly on the platform&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240312/p20#a240312p20)
+ - [Paramount’s rumored merger: all the news on the potential deals](https://www.theverge.com/2024/3/12/24098476/paramount-merger-rumors-deals-news)
+ - [How to use Low Power Mode on the Apple Watch](https://www.theverge.com/23403065/apple-watch-low-power-battery-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
