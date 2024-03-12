@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance’s Top Crypto Crime Investigator Is Being Detained in Nigeria](https://www.wired.com/story/binance-top-investigator-detained-nigeria/)
- - [Samsung gears up for Galaxy Ring launch with aggressive production push, likely sale date revealed](https://www.androidauthority.com/samsung-galaxy-ring-launch-sale-3424545/)
- - [Sources: Samsung and SK Hynix are storing, instead of selling, second-hand chipmaking machines over fears of breaking US export controls and sanctions &lpar;Financial Times&rpar;](http://www.techmeme.com/240311/p30#a240311p30)<!-- TECH:END -->
+ - [Best Seafood Delivery Services for 2024     - CNET](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)
+ - [Best Reef-Safe Sunscreens for 2024     - CNET](https://www.cnet.com/health/personal-care/best-reef-safe-sunscreens/#ftag=CAD590a51e)
+ - [Google Contacts gets a cleaner look for connected apps](https://www.androidauthority.com/google-contacts-cleaner-connected-apps-3424451/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
