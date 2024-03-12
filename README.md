@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get $100 to spend when you buy the new OnePlus 12R](https://www.androidauthority.com/oneplus-12r-deal-3424536/)
- - [Apple announces App Store updates under the EU&#39;s DMA, including a Web Distribution tool to let developers offer apps via their website, launching in spring 2024 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240312/p11#a240312p11)
- - [Apple caves, EU developers will be able to sell apps directly from their websites](https://appleinsider.com/articles/24/03/12/apple-caves-eu-developers-will-be-able-to-sell-apps-directly-from-their-websites?utm_medium=rss)<!-- TECH:END -->
+ - [From satellite support to water resistance, this new foldable could be a huge upgrade](https://www.androidauthority.com/xiaomi-mix-fold-4-leaked-specs-3424710/)
+ - [M3 MacBook Air review: The ideal Mac laptop for Intel hold-outs](https://appleinsider.com/articles/24/03/12/m3-macbook-air-review-the-ideal-mac-laptop-for-intel-hold-outs?utm_medium=rss)
+ - [Apple Arcade&#39;s April additions include two with Apple Vision Pro support](https://appleinsider.com/articles/24/03/12/apple-arcades-april-additions-include-two-with-apple-vision-pro-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
