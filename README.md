@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of several AI &quot;doomers&quot;, including AI Impacts researcher Katja Grace, and &quot;effective accelerationists&quot;, as both make arguments about the future of AI &lpar;Andrew Marantz/New Yorker&rpar;](http://www.techmeme.com/240312/p4#a240312p4)
- - [A survey of US teens: 38% say they spend too much time on their phone, vs. 27% for too much social media; girls are more likely to report too much phone time &lpar;Pew Research Center&rpar;](http://www.techmeme.com/240312/p3#a240312p3)
- - [Analysis: TikTok app code shows a separate TikTok Photos app, a potential Instagram rival that syncs with the main app and may launch &quot;soon&quot; on iOS and Android &lpar;The SP Android&rpar;](http://www.techmeme.com/240312/p2#a240312p2)<!-- TECH:END -->
+ - [Get $100 to spend when you buy the new OnePlus 12R](https://www.androidauthority.com/oneplus-12r-deal-3424536/)
+ - [Apple announces App Store updates under the EU&#39;s DMA, including a Web Distribution tool to let developers offer apps via their website, launching in spring 2024 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240312/p11#a240312p11)
+ - [Apple caves, EU developers will be able to sell apps directly from their websites](https://appleinsider.com/articles/24/03/12/apple-caves-eu-developers-will-be-able-to-sell-apps-directly-from-their-websites?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
