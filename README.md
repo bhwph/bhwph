@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Zookeeper Attacked By Crocodile, Brave Visitor Rushes in to Help](http://9gag.com/gag/aMEpyWA)
- - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
- - 👉 [Never knew this until now](http://9gag.com/gag/aBdDvRO)<!-- MEMES:END -->
+ - 6️⃣ [I still believe I can win in a 1v1 fight^^. Same versus a grizzly](http://9gag.com/gag/a5XLymy)
+ - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
+ - 👉 [A passenger plane crashed near the city of Ivanovo in Russia](http://9gag.com/gag/a4oMBzp)<!-- MEMES:END -->
 
 --- 
 
