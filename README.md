@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What is general intelligence in the world of AI and computers? The race for the artificial mind explained](https://www.pcgamer.com/software/ai/general-intelligence-explained)
- - [One of the biggest Fallout modding projects in years is about to release, and if it goes wrong it could &#39;kill the Fallout modding scene&#39;](https://www.pcgamer.com/games/rpg/one-of-the-biggest-fallout-modding-projects-in-years-is-about-to-release-and-if-it-goes-wrong-it-could-kill-the-fallout-modding-scene)
- - [Helldivers 2 patch finally tackles its infamous tank infestation, tweaks chargers so players can aim for the head instead of busting kneecaps](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-patch-finally-tackles-its-infamous-tank-infestation-tweaks-chargers-so-players-can-aim-for-the-head-instead-of-busting-kneecaps)<!-- GAME:END -->
+ - [RTX Remix &#39;is the great equaliser&#39; bringing veteran and hobbyist devs together to remaster the most beloved and best PC games](https://www.pcgamer.com/hardware/nvidia-rtx-remix-the-great-equaliser)
+ - [Star Wars Jedi director starts new studio with a bunch of ex-Respawn talent](https://www.polygon.com/24097746/respawn-stig-asmussen-new-studio-giant-skull)
+ - [The New Pokémon Anime Proves Leaving Ash Was The Right Decision](https://kotaku.com/pokemon-horizons-anime-netflix-liko-roy-captain-pikachu-1851326504)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
