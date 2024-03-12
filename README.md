@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Tuesday, March 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-12-2024)
- - [Former Xbox boss Peter Moore says Gen Z may reject new consoles in favor of smartphones and PCs](https://www.pcgamer.com/gaming-industry/peter-moore-last-console-generation)
- - [Games industry should be &#39;less cautious,&#39; says maker of experimental game about exploring a swimming pool dimension](https://www.pcgamer.com/games/adventure/games-industry-should-be-less-cautious-says-maker-of-experimental-game-about-exploring-a-swimming-pool-dimension)<!-- GAME:END -->
+ - [What is general intelligence in the world of AI and computers? The race for the artificial mind explained](https://www.pcgamer.com/software/ai/general-intelligence-explained)
+ - [One of the biggest Fallout modding projects in years is about to release, and if it goes wrong it could &#39;kill the Fallout modding scene&#39;](https://www.pcgamer.com/games/rpg/one-of-the-biggest-fallout-modding-projects-in-years-is-about-to-release-and-if-it-goes-wrong-it-could-kill-the-fallout-modding-scene)
+ - [Helldivers 2 patch finally tackles its infamous tank infestation, tweaks chargers so players can aim for the head instead of busting kneecaps](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-patch-finally-tackles-its-infamous-tank-infestation-tweaks-chargers-so-players-can-aim-for-the-head-instead-of-busting-kneecaps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
