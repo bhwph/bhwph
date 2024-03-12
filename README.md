@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rise Of The Ronin Is This Obscure Samurai Game’s Spiritual Successor](https://kotaku.com/rise-ronin-ps5-game-soulslike-way-samurai-team-ninja-1851328426)
- - [Warner holds on to Studio Ghibli movies, thanks to multiyear Max streaming deal](https://www.polygon.com/anime/24098400/max-where-studio-ghibli-streaming-new-2024-deal)
- - [Persona 3 Reload Producer Explains Why The Epilogue Is DLC](https://kotaku.com/persona-3-reload-dlc-episode-aigis-the-answer-1851328397)<!-- GAME:END -->
+ - [Dune 2’s two silliest performances bring this very serious movie to life](https://www.polygon.com/24097767/dune-2-stilgar-austin-butler-javier-bardem-feyd-rautha)
+ - [Final Fantasy 14 won&#39;t let you blast past its story for free anytime soon because Yoshi-P worried &#39;the value of the game itself will be diminished&#39;](https://www.pcgamer.com/games/mmo/final-fantasy-14-wont-let-you-blast-past-its-story-for-free-anytime-soon-because-yoshi-p-worried-the-value-of-the-game-itself-will-be-diminished)
+ - [Stardew Valley Fans Going Bananas After One Line From 1.6 Patch Notes](https://kotaku.com/stardew-valley-16-update-patch-fruit-trees-1851328916)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
