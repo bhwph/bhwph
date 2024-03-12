@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
- - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - 👉 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)<!-- MEMES:END -->
+ - 6️⃣ [First time ?](http://9gag.com/gag/aA0nqpL)
+ - 😝 [Drilling that city baby](http://9gag.com/gag/a04mWPB)
+ - 👉 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)<!-- MEMES:END -->
 
 --- 
 
