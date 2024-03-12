@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Welcome to the real world](http://9gag.com/gag/az26ByB)
- - 😝 [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)
- - 👉 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)<!-- MEMES:END -->
+ - 6️⃣ [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
+ - 😝 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
+ - 👉 [And then brings sword from the Witcher](http://9gag.com/gag/aQEYD07)<!-- MEMES:END -->
 
 --- 
 
