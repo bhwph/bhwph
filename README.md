@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First time ?](http://9gag.com/gag/aA0nqpL)
- - 😝 [Drilling that city baby](http://9gag.com/gag/a04mWPB)
- - 👉 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)<!-- MEMES:END -->
+ - 6️⃣ [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)
+ - 😝 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
+ - 👉 [When you meet your raving mate !](http://9gag.com/gag/aPgOpNK)<!-- MEMES:END -->
 
 --- 
 
