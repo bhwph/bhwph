@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eye Security, which provides cyber protection, incident response, and cyber insurance tools, raised a &amp;euro;36M Series B, led by JP Morgan Growth Equity Partners &lpar;Isaac Taylor/Wall Street Journal&rpar;](http://www.techmeme.com/240311/p27#a240311p27)
- - [The Best Keurig Deals: Save Up to $51 on K-Slim Iced, K-Elite and More     - CNET](https://www.cnet.com/deals/best-keurig-deals/#ftag=CAD590a51e)
- - [M4 MacBook Pro rumored to already be in development at Apple](https://appleinsider.com/articles/24/03/11/m4-macbook-pro-rumored-to-already-be-in-development-at-apple?utm_medium=rss)<!-- TECH:END -->
+ - [As Google removes nonconsensual deepfake porn video URLs after complaints, experts urge Google to remove the biggest deepfake sites from search results entirely &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240311/p29#a240311p29)
+ - [Meta sues ex-VP Dipinder Singh Khurana for allegedly stealing documents related to employee pay and private contracts before leaving for a stealth AI startup &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240311/p28#a240311p28)
+ - [Eye Security, which provides cyber protection, incident response, and cyber insurance tools, raised a &amp;euro;36M Series B, led by JP Morgan Growth Equity Partners &lpar;Isaac Taylor/Wall Street Journal&rpar;](http://www.techmeme.com/240311/p27#a240311p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
