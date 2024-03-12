@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Drilling that city baby](http://9gag.com/gag/a04mWPB)
- - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
- - 👉 [I&#39;m not saying he&#39;s next. I&#39;m just saying...](http://9gag.com/gag/amADdNd)<!-- MEMES:END -->
+ - 6️⃣ [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)
+ - 😝 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
+ - 👉 [Drilling that city baby](http://9gag.com/gag/a04mWPB)<!-- MEMES:END -->
 
 --- 
 
