@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Seafood Delivery Services for 2024     - CNET](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)
- - [Best Reef-Safe Sunscreens for 2024     - CNET](https://www.cnet.com/health/personal-care/best-reef-safe-sunscreens/#ftag=CAD590a51e)
- - [Google Contacts gets a cleaner look for connected apps](https://www.androidauthority.com/google-contacts-cleaner-connected-apps-3424451/)<!-- TECH:END -->
+ - [March Pixel feature drop starts rolling out in the US](https://www.androidauthority.com/march-pixel-feature-drop-us-rollout-started-3424576/)
+ - [The next Galaxy Watch could go squarely back to its roots](https://www.androidauthority.com/samsung-galaxy-watch-square-shape-3424571/)
+ - [March SSDI Payment 2024: When Is Your Money Coming?     - CNET](https://www.cnet.com/personal-finance/march-ssdi-payment-2024-when-is-your-money-coming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
