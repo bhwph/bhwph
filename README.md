@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)
- - 😝 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
- - 👉 [Drilling that city baby](http://9gag.com/gag/a04mWPB)<!-- MEMES:END -->
+ - 6️⃣ [Show me what you got](http://9gag.com/gag/a2KQx7E)
+ - 😝 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
+ - 👉 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)<!-- MEMES:END -->
 
 --- 
 
