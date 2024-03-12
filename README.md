@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley players finally learn the truth: Eric Barone confirms that for the past 8 years, left-to-right harvesting has been 100ms faster than right-to-left harvesting](https://www.pcgamer.com/games/life-sim/stardew-valley-players-finally-learn-the-truth-eric-barone-confirms-that-for-the-past-8-years-left-to-right-harvesting-has-been-100ms-faster-than-right-to-left-harvesting)
- - [The Taste of Things and other movies where food has never looked better](https://www.polygon.com/24093402/taste-of-things-movies-with-good-food)
- - [Toonami Is Holding A Dragon Ball Kai Marathon In Tribute To Akira Toriyama](https://kotaku.com/dragon-ball-kai-marathon-when-toonami-akira-toriyama-1851329602)<!-- GAME:END -->
+ - [How BWT Alpine F1 Racing Team Developed Their Car for EA Sports F1 24](https://news.xbox.com/en-us/2024/03/12/bwt-alpine-f1-racing-team-develop-for-ea-sports-f1-24/)
+ - [Scott Whiskers in: the Search for Mr. Fumbleclaw – Start Your Search on March 21](https://news.xbox.com/en-us/2024/03/12/scott-whiskers-in-the-search-for-mr-fumbleclaw-start-your-search-on-march-21/)
+ - [Andrew Tate Arrested After Streamer Adin Ross Blabs His Escape Plan](https://kotaku.com/kick-streamer-adin-ross-andrew-tate-arrest-romania-1851329983)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
