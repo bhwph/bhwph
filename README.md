@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [12 years later](http://9gag.com/gag/aGEPo1G)
- - 😝 [She hates me because I told her the truth. vegetarians just don&#39;t know that parmesan uses animal liver](http://9gag.com/gag/axop4Bp)
- - 👉 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)<!-- MEMES:END -->
+ - 6️⃣ [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
+ - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
+ - 👉 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)<!-- MEMES:END -->
 
 --- 
 
