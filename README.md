@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First time ?](http://9gag.com/gag/aA0nqpL)
- - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
- - 👉 [Hidden knowledge](http://9gag.com/gag/aNwyG33)<!-- MEMES:END -->
+ - 6️⃣ [Manipulation of crime statistics to change a narrative are we?](http://9gag.com/gag/aZD9KwQ)
+ - 😝 [Youtuber finds out about a major event for the first time.](http://9gag.com/gag/armP0Q6)
+ - 👉 [And then brings sword from the Witcher](http://9gag.com/gag/aQEYD07)<!-- MEMES:END -->
 
 --- 
 
