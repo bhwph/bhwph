@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [RevenueCat survey of nearly 30K mobile subscription apps finds that only 17.2% of them will reach $1,000 in monthly revenue and only 3.5% will reach $10,000 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240312/p34#a240312p34)
- - [Best iPad Deals: Save Big on iPad Air, iPad Pro and Others     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Los Angeles     - CNET](https://www.cnet.com/home/energy-and-utilities/los-angeles-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Paris- and New York-based Adaptive ML, which helps businesses build custom tools with open-source generative AI models, raised a $20M seed led by Index Ventures &lpar;Daphn&amp;eacute; Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/240312/p36#a240312p36)
+ - [TikTok expands its Effect Creator Rewards monetization program to 33 more regions, including Argentina, Belgium, and Israel, and lowers its payout threshold &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240312/p35#a240312p35)
+ - [Apple&#39;s M3 MacBook Pro with 16GB RAM drops to $1,599](https://appleinsider.com/articles/24/03/13/apples-m3-macbook-pro-with-16gb-ram-drops-to-1599?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
