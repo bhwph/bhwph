@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How BWT Alpine F1 Racing Team Developed Their Car for EA Sports F1 24](https://news.xbox.com/en-us/2024/03/12/bwt-alpine-f1-racing-team-develop-for-ea-sports-f1-24/)
- - [Scott Whiskers in: the Search for Mr. Fumbleclaw – Start Your Search on March 21](https://news.xbox.com/en-us/2024/03/12/scott-whiskers-in-the-search-for-mr-fumbleclaw-start-your-search-on-march-21/)
- - [Andrew Tate Arrested After Streamer Adin Ross Blabs His Escape Plan](https://kotaku.com/kick-streamer-adin-ross-andrew-tate-arrest-romania-1851329983)<!-- GAME:END -->
+ - [This Flash developer is battling 18 years of legacy code to bring my childhood favorite platformers to Steam](https://www.pcgamer.com/games/action/this-flash-developer-is-battling-18-years-of-legacy-code-to-bring-my-childhood-favorite-platformers-to-steam)
+ - [Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2024/03/12/essential-picks-promotion-comes-to-playstation-store-7/)
+ - [Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2024/03/12/essential-picks-promotion-comes-to-playstation-store-7/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
