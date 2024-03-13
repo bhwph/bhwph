@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Reddit CEO Steve Huffman, who returned in 2015 during a leadership crisis, grew the website to $800M+ in annual revenue and 2,000 staff, up from 80 in 2015 &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/240313/p13#a240313p13)
- - [M3 15-inch MacBook Air vs M3 14-inch MacBook Pro -- Comparison](https://appleinsider.com/inside/15-inch-macbook-air/vs/m3-15-inch-macbook-air-vs-m3-14-inch-macbook-pro----comparison?utm_medium=rss)
- - [Which phone brand do you trust the most for after-sales service?](https://www.androidauthority.com/phone-brand-trust-most-after-sales-service-3425020/)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Indiana     - CNET](https://www.cnet.com/home/energy-and-utilities/indiana-solar-panels/#ftag=CAD590a51e)
+ - [4 Tips for Combatting Daylight Saving Fatigue     - CNET](https://www.cnet.com/health/sleep/4-tips-to-use-to-sleep-better-after-daylight-saving-time/#ftag=CAD590a51e)
+ - [Eight Sleep Pod 3 Cover Review: The Coolest Solution for Hot Sleepers     - CNET](https://www.cnet.com/health/sleep/eight-sleeps-pod-3-cover-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
