@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hidden knowledge](http://9gag.com/gag/aNwyG33)
- - 😝 [Title](http://9gag.com/gag/az26ywx)
- - 👉 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)<!-- MEMES:END -->
+ - 6️⃣ [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
+ - 😝 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)
+ - 👉 [Space One rocket explodes during launch from southern Japan today](http://9gag.com/gag/a7qjgoe)<!-- MEMES:END -->
 
 --- 
 
