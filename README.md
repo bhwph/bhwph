@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
- - 😝 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
- - 👉 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)<!-- MEMES:END -->
+ - 6️⃣ [Boning her right!](http://9gag.com/gag/ap9eX3D)
+ - 😝 [Men of culture](http://9gag.com/gag/aA0n7vp)
+ - 👉 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)<!-- MEMES:END -->
 
 --- 
 
