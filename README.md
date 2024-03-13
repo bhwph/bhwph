@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to pause a QuickTime Player recording, and other hidden options](https://appleinsider.com/inside/macos/tips/how-to-pause-a-quicktime-player-recording-and-other-hidden-options?utm_medium=rss)
- - [Chicago-based Ocient, which provides hyperscale data warehouse and analytics software, raised a $49.4M Series B extension, bringing its total funding to $119M &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240312/p39#a240312p39)
- - [Sources: e-commerce roll-up firm Kite, which was cofounded by Blackstone in 2022 and closed a $200M equity commitment, shut down earlier in 2024 &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/240312/p38#a240312p38)<!-- TECH:END -->
+ - [Filings: ByteDance-owned entity Picoheart is now the third-largest shareholder in InnoStar, a Chinese state-backed ReRAM chips maker, with a 9.5% stake &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/240313/p3#a240313p3)
+ - [China’s Best Self-Driving Car Platforms, Tested and Compared](https://www.wired.com/story/chinas-best-self-driving-car-platforms-tested-and-compared-xpeng-nio-li-auto/)
+ - [Brave says after Apple added a default browser choice screen in the EU, daily installations of Brave on iOS jumped from ~8K to over 11K &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/240313/p2#a240313p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
