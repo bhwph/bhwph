@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Livestreaming on Douyin and Kuaishou is helping attract out-of-town property buyers to Xishuangbanna in China&#39;s Yunnan province, despite a nationwide downturn &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/240313/p5#a240313p5)
- - [Google is making it easier to keep track of your app installs on the Pixel Watch](https://www.androidauthority.com/google-pixel-watch-app-install-progress-indicator-3424937/)
- - [Taylor Swift Exclusive Eras Tour Clip Drops a Day Early on Apple&#39;s App Store     - CNET](https://www.cnet.com/tech/services-and-software/taylor-swift-exclusive-eras-tour-clip-drops-a-day-early-on-apples-app-store/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As the House votes on a TikTok bill, expected to pass, the Senate lacks a companion measure and the bill faces an uncertain path; Rand Paul may block the bill &lpar;Washington Post&rpar;](http://www.techmeme.com/240313/p7#a240313p7)
+ - [TikTok Is Facing Its Greatest Threat Yet](https://www.wired.com/story/tiktok-ban-congress-vote/)
+ - [Dyson’s 360 Vis Nav is a powerful robovac, but it’s the brush that tickles me the most](https://www.theverge.com/24098771/dyson-vis-nav-robot-vacuum-hands-on)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
