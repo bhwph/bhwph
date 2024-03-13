@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Youtuber finds out about a major event for the first time.](http://9gag.com/gag/armP0Q6)
- - 😝 [Between all the other crap posts is a 9gag education moment.](http://9gag.com/gag/avQbB6O)
- - 👉 [Men of culture](http://9gag.com/gag/aA0n7vp)<!-- MEMES:END -->
+ - 6️⃣ [First time ?](http://9gag.com/gag/aA0nqpL)
+ - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
+ - 👉 [Hidden knowledge](http://9gag.com/gag/aNwyG33)<!-- MEMES:END -->
 
 --- 
 
