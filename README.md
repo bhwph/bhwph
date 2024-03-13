@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, March 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-13-2024)
- - [This Flash developer is battling 18 years of legacy code to bring my childhood favorite platformers to Steam](https://www.pcgamer.com/games/action/this-flash-developer-is-battling-18-years-of-legacy-code-to-bring-my-childhood-favorite-platformers-to-steam)
- - [Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2024/03/12/essential-picks-promotion-comes-to-playstation-store-7/)<!-- GAME:END -->
+ - [Konami&#39;s latest Metal Gear Solid masterstroke is releasing a patch to fix MGS1&#39;s worst bug that doesn&#39;t work](https://www.pcgamer.com/games/action/konamis-latest-metal-gear-solid-masterstroke-is-releasing-a-patch-to-fix-mgs1s-worst-bug-that-doesnt-work)
+ - [One modder is bringing back Resident Evil 2&#39;s classic style by adding over 1,700 camera angles to the Remake](https://www.pcgamer.com/games/resident-evil/one-modder-is-bringing-back-resident-evil-2s-classic-style-by-adding-over-1700-camera-angles-to-the-remake)
+ - [Yoshi-P reflects on Final Fantasy 14&#39;s stress-free casual content: &#39;looking back over the past 10 years, I think we may have overdone it a little bit&#39;](https://www.pcgamer.com/games/final-fantasy/yoshi-p-reflects-on-final-fantasy-14s-stress-free-casual-content-looking-back-over-the-past-10-years-i-think-we-may-have-overdone-it-a-little-bit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
