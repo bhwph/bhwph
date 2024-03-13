@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RuneScape creator unveils new MMO after 10 years of develoment: &#39;At times it has felt like an insurmountably ambitious task&#39;](https://www.pcgamer.com/games/mmo/runescape-creator-unveils-new-mmo-after-10-years-of-develoment-at-times-it-has-felt-like-an-insurmountably-ambitious-task)
- - [Hilarious FF7 Mod Transforms Aerith, Tifa, And Yuffie Into Muscle Mommies](https://kotaku.com/final-fantasy-7-remake-mod-aerith-tifa-yuffie-buff-1851332936)
- - [A TikTok Ban Would Be A Tragedy For Gaming Communities](https://kotaku.com/tiktok-band-house-of-representatives-bill-pass-games-1851332769)<!-- GAME:END -->
+ - [Summer Game Fest returns to fill the E3-shaped hole in our hearts on June 7](https://www.pcgamer.com/gaming-industry/events-conferences/summer-game-fest-returns-to-fill-the-e3-shaped-hole-in-our-hearts-on-june-7)
+ - [42 games from legendary British indie Jeff Minter&#39;s psychedelic back catalogue are now bundled with an &#39;interactive documentary&#39; on Steam](https://www.pcgamer.com/games/action/42-games-from-legendary-british-indie-jeff-minters-psychedelic-back-catalogue-are-now-bundled-with-an-interactive-documentary-on-steam)
+ - [Palworld is looking for beta testers for future updates, but warns that tests are &#39;not intended for free play or experiencing new content early&#39;](https://www.pcgamer.com/games/sim/palworld-is-looking-for-beta-testers-for-future-updates-but-warns-that-tests-are-not-intended-for-free-play-or-experiencing-new-content-early)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
