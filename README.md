@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I still believe I can win in a 1v1 fight^^. Same versus a grizzly](http://9gag.com/gag/a5XLymy)
- - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - 👉 [A passenger plane crashed near the city of Ivanovo in Russia](http://9gag.com/gag/a4oMBzp)<!-- MEMES:END -->
+ - 6️⃣ [UK is so lost](http://9gag.com/gag/a04mzdO)
+ - 😝 [Between all the other crap posts is a 9gag education moment.](http://9gag.com/gag/avQbB6O)
+ - 👉 [Men of culture](http://9gag.com/gag/aA0n7vp)<!-- MEMES:END -->
 
 --- 
 
