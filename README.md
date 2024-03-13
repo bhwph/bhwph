@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As the House votes on a TikTok bill, expected to pass, the Senate lacks a companion measure and the bill faces an uncertain path; Rand Paul may block the bill &lpar;Washington Post&rpar;](http://www.techmeme.com/240313/p7#a240313p7)
- - [TikTok Is Facing Its Greatest Threat Yet](https://www.wired.com/story/tiktok-ban-congress-vote/)
- - [Dyson’s 360 Vis Nav is a powerful robovac, but it’s the brush that tickles me the most](https://www.theverge.com/24098771/dyson-vis-nav-robot-vacuum-hands-on)<!-- TECH:END -->
+ - [How Reddit CEO Steve Huffman, who returned in 2015 during a leadership crisis, grew the website to $800M+ in annual revenue and 2,000 staff, up from 80 in 2015 &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/240313/p13#a240313p13)
+ - [M3 15-inch MacBook Air vs M3 14-inch MacBook Pro -- Comparison](https://appleinsider.com/inside/15-inch-macbook-air/vs/m3-15-inch-macbook-air-vs-m3-14-inch-macbook-pro----comparison?utm_medium=rss)
+ - [Which phone brand do you trust the most for after-sales service?](https://www.androidauthority.com/phone-brand-trust-most-after-sales-service-3425020/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
