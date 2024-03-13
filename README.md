@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces Copilot for Security will be generally available on April 1 for $4 per &quot;security compute unit&quot; &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240313/p24#a240313p24)
- - [YouTube introduces new design to make watching on TV more engaging](https://www.androidauthority.com/youtube-new-design-for-tv-3425239/)
- - [YouTube is revamping its TV app to make videos feel way more interactive](https://www.theverge.com/2024/3/13/24099533/youtube-tv-app-redesign-comments-shopping)<!-- TECH:END -->
+ - [Elon Musk cancels Don Lemon’s show on X after a ‘tense’ interview](https://www.theverge.com/2024/3/13/24099677/don-lemon-elon-musk-x-canceled)
+ - [Epic wants Apple held in contempt of court for not following through on removing anti-steering measures](https://appleinsider.com/articles/24/03/13/epic-wants-apple-held-in-contempt-of-court-for-not-following-through-on-removing-anti-steering-measures?utm_medium=rss)
+ - [Waymo plans to debut its Waymo One robotaxi service in LA on March 14, gradually onboarding from a 50K+ waitlist, and in Austin commercially by the end of 2024 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240313/p27#a240313p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
