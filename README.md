@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AI-generated hell of the 2024 election](https://www.theverge.com/policy/24098798/2024-election-ai-generated-disinformation)
- - [DHS wants $101 million to upgrade its border surveillance towers](https://www.theverge.com/2024/3/12/24098881/dhs-border-ai-surveillance-towers-ist)
- - [Bluesky open sources its collaborative moderation tool Ozone and plans to let users run their own independent moderation services later this week &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240312/p30#a240312p30)<!-- TECH:END -->
+ - [RevenueCat survey of nearly 30K mobile subscription apps finds that only 17.2% of them will reach $1,000 in monthly revenue and only 3.5% will reach $10,000 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240312/p34#a240312p34)
+ - [Best iPad Deals: Save Big on iPad Air, iPad Pro and Others     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Los Angeles     - CNET](https://www.cnet.com/home/energy-and-utilities/los-angeles-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
