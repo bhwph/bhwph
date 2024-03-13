@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris- and New York-based Adaptive ML, which helps businesses build custom tools with open-source generative AI models, raised a $20M seed led by Index Ventures &lpar;Daphn&amp;eacute; Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/240312/p36#a240312p36)
- - [TikTok expands its Effect Creator Rewards monetization program to 33 more regions, including Argentina, Belgium, and Israel, and lowers its payout threshold &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240312/p35#a240312p35)
- - [Apple&#39;s M3 MacBook Pro with 16GB RAM drops to $1,599](https://appleinsider.com/articles/24/03/13/apples-m3-macbook-pro-with-16gb-ram-drops-to-1599?utm_medium=rss)<!-- TECH:END -->
+ - [How to pause a QuickTime Player recording, and other hidden options](https://appleinsider.com/inside/macos/tips/how-to-pause-a-quicktime-player-recording-and-other-hidden-options?utm_medium=rss)
+ - [Chicago-based Ocient, which provides hyperscale data warehouse and analytics software, raised a $49.4M Series B extension, bringing its total funding to $119M &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240312/p39#a240312p39)
+ - [Sources: e-commerce roll-up firm Kite, which was cofounded by Blackstone in 2022 and closed a $200M equity commitment, shut down earlier in 2024 &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/240312/p38#a240312p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
