@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Konami&#39;s latest Metal Gear Solid masterstroke is releasing a patch to fix MGS1&#39;s worst bug that doesn&#39;t work](https://www.pcgamer.com/games/action/konamis-latest-metal-gear-solid-masterstroke-is-releasing-a-patch-to-fix-mgs1s-worst-bug-that-doesnt-work)
- - [One modder is bringing back Resident Evil 2&#39;s classic style by adding over 1,700 camera angles to the Remake](https://www.pcgamer.com/games/resident-evil/one-modder-is-bringing-back-resident-evil-2s-classic-style-by-adding-over-1700-camera-angles-to-the-remake)
- - [Yoshi-P reflects on Final Fantasy 14&#39;s stress-free casual content: &#39;looking back over the past 10 years, I think we may have overdone it a little bit&#39;](https://www.pcgamer.com/games/final-fantasy/yoshi-p-reflects-on-final-fantasy-14s-stress-free-casual-content-looking-back-over-the-past-10-years-i-think-we-may-have-overdone-it-a-little-bit)<!-- GAME:END -->
+ - [Helldivers 2 adds flying bugs — or is it propaganda?](https://www.polygon.com/24099472/helldivers-2-flying-bugs-terminids-update-patch)
+ - [FF7 Rebirth: How To Not Suck At Gears And Gambits](https://kotaku.com/final-fantasy-7-rebirth-ff7-gears-and-gambits-1851329875)
+ - [Titanfall Is Still EA’s Most Innovative Shooter 10 Years Later](https://kotaku.com/titanfall-1-2-game-ea-xbox-shooter-apex-legends-1851329476)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
