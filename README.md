@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk cancels Don Lemon’s show on X after a ‘tense’ interview](https://www.theverge.com/2024/3/13/24099677/don-lemon-elon-musk-x-canceled)
- - [Epic wants Apple held in contempt of court for not following through on removing anti-steering measures](https://appleinsider.com/articles/24/03/13/epic-wants-apple-held-in-contempt-of-court-for-not-following-through-on-removing-anti-steering-measures?utm_medium=rss)
- - [Waymo plans to debut its Waymo One robotaxi service in LA on March 14, gradually onboarding from a 50K+ waitlist, and in Austin commercially by the end of 2024 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240313/p27#a240313p27)<!-- TECH:END -->
+ - [Samsung Galaxy A25 5G review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-a25-review-3421050/)
+ - [M3 MacBook Air is easy to take apart, but parts pairing is still a pain](https://appleinsider.com/articles/24/03/13/m3-macbook-air-is-easy-to-take-apart-but-parts-pairing-is-still-a-pain?utm_medium=rss)
+ - [DJI Avata 2 drone leaks are out — and its goggles have cameras](https://www.theverge.com/2024/3/13/24099744/dji-avata-2-drone-goggles-3-leak-specifications-ar-stabilization)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
