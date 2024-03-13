@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 adds flying bugs — or is it propaganda?](https://www.polygon.com/24099472/helldivers-2-flying-bugs-terminids-update-patch)
- - [FF7 Rebirth: How To Not Suck At Gears And Gambits](https://kotaku.com/final-fantasy-7-rebirth-ff7-gears-and-gambits-1851329875)
- - [Titanfall Is Still EA’s Most Innovative Shooter 10 Years Later](https://kotaku.com/titanfall-1-2-game-ea-xbox-shooter-apex-legends-1851329476)<!-- GAME:END -->
+ - [Star Trek Is About To Bust A Decade-Spanning Series Tradition](https://kotaku.com/star-trek-discovery-season-5-jonathan-frakes-1851331867)
+ - [The Finals&#39; first 5v5 mode is a brilliant twist on a Team Fortress 2 classic, and I really hope it takes off](https://www.pcgamer.com/the-finals-new-mode-power-shift)
+ - [The Finals’ new game mode takes map destruction to absurd levels](https://www.polygon.com/gaming/24098514/the-finals-season-2-power-shift-embark-studios)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
