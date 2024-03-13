@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A25 5G review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-a25-review-3421050/)
- - [M3 MacBook Air is easy to take apart, but parts pairing is still a pain](https://appleinsider.com/articles/24/03/13/m3-macbook-air-is-easy-to-take-apart-but-parts-pairing-is-still-a-pain?utm_medium=rss)
- - [DJI Avata 2 drone leaks are out — and its goggles have cameras](https://www.theverge.com/2024/3/13/24099744/dji-avata-2-drone-goggles-3-leak-specifications-ar-stabilization)<!-- TECH:END -->
+ - [Best Deals on Robot Vacuums: Save Big on Dreametech, Roomba, Shark and More     - CNET](https://www.cnet.com/deals/best-robot-vacuum-deals/#ftag=CAD590a51e)
+ - [Did OpenAI just accidentally leak the next big ChatGPT upgrade?](https://www.androidauthority.com/chat-gpt-4-5-turbo-3425326/)
+ - [Google Sees AI Agents Getting Into the Video Games We Play     - CNET](https://www.cnet.com/tech/google-sees-ai-agents-getting-into-the-video-games-we-play/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
