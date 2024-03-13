@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Solar Panel Installation Companies in Indiana     - CNET](https://www.cnet.com/home/energy-and-utilities/indiana-solar-panels/#ftag=CAD590a51e)
- - [4 Tips for Combatting Daylight Saving Fatigue     - CNET](https://www.cnet.com/health/sleep/4-tips-to-use-to-sleep-better-after-daylight-saving-time/#ftag=CAD590a51e)
- - [Eight Sleep Pod 3 Cover Review: The Coolest Solution for Hot Sleepers     - CNET](https://www.cnet.com/health/sleep/eight-sleeps-pod-3-cover-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft announces Copilot for Security will be generally available on April 1 for $4 per &quot;security compute unit&quot; &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240313/p24#a240313p24)
+ - [YouTube introduces new design to make watching on TV more engaging](https://www.androidauthority.com/youtube-new-design-for-tv-3425239/)
+ - [YouTube is revamping its TV app to make videos feel way more interactive](https://www.theverge.com/2024/3/13/24099533/youtube-tv-app-redesign-comments-shopping)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
