@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek Is About To Bust A Decade-Spanning Series Tradition](https://kotaku.com/star-trek-discovery-season-5-jonathan-frakes-1851331867)
- - [The Finals&#39; first 5v5 mode is a brilliant twist on a Team Fortress 2 classic, and I really hope it takes off](https://www.pcgamer.com/the-finals-new-mode-power-shift)
- - [The Finals’ new game mode takes map destruction to absurd levels](https://www.polygon.com/gaming/24098514/the-finals-season-2-power-shift-embark-studios)<!-- GAME:END -->
+ - [Naoki Yoshida Is Right, Final Fantasy XIV Should Be More Stressful](https://kotaku.com/final-fantasy-14-ff14-more-stressful-1851332485)
+ - [Xbox Insider Release Notes – Alpha &lpar;2404.240311-2000&rpar;](https://news.xbox.com/en-us/2024/03/13/xbox-insider-release-notes-alpha-2404-240311-2000/)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240311-2200&rpar;](https://news.xbox.com/en-us/2024/03/13/xbox-insider-release-notes-alpha-skip-ahead-2408-240311-2200/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
