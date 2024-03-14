@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The original Spaghetti Carbonara](http://9gag.com/gag/a04mqmv)
- - 😝 [I am always watching you](http://9gag.com/gag/aqevwwv)
- - 👉 [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)<!-- MEMES:END -->
+ - 6️⃣ [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
+ - 😝 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)
+ - 👉 [Boning her right!](http://9gag.com/gag/ap9eX3D)<!-- MEMES:END -->
 
 --- 
 
