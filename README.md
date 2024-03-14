@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 Merch Lets You Finally Have A Cup Of Liber-Tea](https://kotaku.com/helldivers-2-merch-shirts-mug-liber-tea-cup-ha-1851336889)
- - [GTA Online update for the week of March 14](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
- - [Epic Games Store exclusives, including Alan Wake 2, are cheaper through March 26](https://www.polygon.com/24100924/epic-games-store-alan-wake-2-spring-sale-2024-deal)<!-- GAME:END -->
+ - [Final Fantasy VII Rebirth: How Nobuo Uematsu and Loren Allred created Aerith’s “No Promises to Keep”](https://blog.playstation.com/2024/03/14/final-fantasy-vii-rebirth-how-nobuo-uematsu-and-loren-allred-created-aeriths-no-promises-to-keep/)
+ - [The Halo TV show making the humans the villains completely misses the point](https://www.polygon.com/24101232/halo-tv-show-new-episode-covenant-review)
+ - [I&#39;ve never sided with Caesar in Fallout: New Vegas but I&#39;m guiltily playing his deck in Magic: The Gathering](https://www.pcgamer.com/games/card-games/ive-never-sided-with-caesar-in-fallout-new-vegas-but-im-guiltily-playing-his-deck-in-magic-the-gathering)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
