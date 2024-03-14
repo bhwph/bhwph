@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`It&#39;s not even a fair fight` -Coworker](http://9gag.com/gag/aEqemwM)
- - 😝 [A mom is arrested for protecting his kid against bullies... Land of the Free..](http://9gag.com/gag/avQbVmO)
+ - 6️⃣ [Boning her right!](http://9gag.com/gag/ap9eX3D)
+ - 😝 [A translation is needed](http://9gag.com/gag/aGEP5en)
  - 👉 [Hans Teeuwen, one of the best comedians in the Netherlands, was approached at home today by 6 police officers for alleged possession of weapons. The officers went to his house to confiscate an air pistol with plastic balls. This incident happened a few hours after he made a...1/2](http://9gag.com/gag/a6qWzOe)<!-- MEMES:END -->
 
 --- 
