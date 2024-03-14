@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Boning her right!](http://9gag.com/gag/ap9eX3D)
- - 😝 [A translation is needed](http://9gag.com/gag/aGEP5en)
- - 👉 [Hans Teeuwen, one of the best comedians in the Netherlands, was approached at home today by 6 police officers for alleged possession of weapons. The officers went to his house to confiscate an air pistol with plastic balls. This incident happened a few hours after he made a...1/2](http://9gag.com/gag/a6qWzOe)<!-- MEMES:END -->
+ - 6️⃣ [The glass is unbreaka.... ble](http://9gag.com/gag/a04mGBL)
+ - 😝 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
+ - 👉 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)<!-- MEMES:END -->
 
 --- 
 
