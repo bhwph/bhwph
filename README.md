@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Destroyed the Hard Drives boss!](http://9gag.com/gag/a1P4jjP)
- - 😝 [Call security](http://9gag.com/gag/aXn860P)
- - 👉 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)<!-- MEMES:END -->
+ - 6️⃣ [It be like this\u2026](http://9gag.com/gag/a5XL0Vg)
+ - 😝 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
+ - 👉 [Hidden knowledge](http://9gag.com/gag/aNwyG33)<!-- MEMES:END -->
 
 --- 
 
