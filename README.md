@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Demand for AMD CPUs surges as crypto mining rises from the ashes](https://www.pcgamer.com/hardware/processors/demand-for-amd-cpus-surges-as-crypto-mining-rises-from-the-ashes)
- - [Google develops an AI that will actually play games with you](https://www.pcgamer.com/software/ai/google-develops-an-ai-that-will-actually-play-games-with-you)
- - [Today&#39;s Wordle answer for Thursday, March 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-14-2024)<!-- GAME:END -->
+ - [In 2018 a group of Valve staff tried to figure out just how efficient they were being—and found they were making more money per head than Apple, Facebook, and nearly every tech giant out there](https://www.pcgamer.com/gaming-industry/in-2018-a-group-of-valve-staff-tried-to-figure-out-just-how-efficient-they-were-beingand-found-they-were-making-more-money-per-head-than-apple-facebook-and-nearly-every-tech-giant-out-there)
+ - [Not sure what movie to watch this weekend? Leave a comment, we’ll help](https://www.polygon.com/entertainment/2024/3/14/24099447/best-movies-watch-this-weekend-best-recommendations)
+ - [Ultimate X-Men Is The Fresh Start Marvel’s Mutants Need](https://kotaku.com/ultimate-x-men-marvel-comics-peach-momoko-1851333139)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
