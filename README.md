@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Craig Wright Is Not Bitcoin Creator Satoshi Nakamoto, Judge Declares](https://www.wired.com/story/craig-wright-not-satoshi-nakamoto-bitcoin-creator-ruling/)
- - [11 Best Pillows &lpar;2024&rpar;: For Side Sleepers, Orthopedic, Travel](https://www.wired.com/gallery/best-pillows/)
- - [Join The Verge at the 2024 Chicago Humanities Spring Festival](https://www.theverge.com/24099817/verge-chicago-humanities-festival-2024-artificial-intelligence-tickets)<!-- TECH:END -->
+ - [Amazon&#39;s Big Spring Sale starts March 20, but you can grab official Apple products from $7.99 right now](https://appleinsider.com/articles/24/03/14/amazons-big-spring-sale-starts-march-20-but-you-can-grab-official-apple-products-from-799-right-now?utm_medium=rss)
+ - [Apple speaks out against Epic&#39;s contempt of court accusation](https://appleinsider.com/articles/24/03/14/apple-speaks-out-against-epics-contempt-of-court-accusation?utm_medium=rss)
+ - [Reddit launches free-form ads, an ad format that looks similar to users posts but with a &quot;Promoted&quot; label, to help advertisers get maximum engagement &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240314/p27#a240314p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
