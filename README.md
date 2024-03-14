@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
+ - 6️⃣ [Right or wrong](http://9gag.com/gag/aWGVz64)
  - 😝 [Call security](http://9gag.com/gag/aXn860P)
- - 👉 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)<!-- MEMES:END -->
+ - 👉 [Save it and forget.](http://9gag.com/gag/a4oMXjp)<!-- MEMES:END -->
 
 --- 
 
