@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [As the Warner Bros suits begin to blame Suicide Squad for everything but the weather, the newly released game&#39;s price is almost slashed in half](https://www.pcgamer.com/games/action/as-the-warner-bros-suits-begin-to-blame-suicide-squad-for-everything-but-the-weather-the-newly-released-games-price-is-almost-slashed-in-half)
- - [Planets that are entirely a single biome, ranked](https://www.polygon.com/24099643/dune-planets-star-wars-marvel)
- - [Dreamlight Valley Devs Making A Life-Sim RPG Set In Baldur&#39;s Gate III Universe](https://kotaku.com/baldurs-gate-iii-3-dreamlight-valley-new-life-sim-rpg-1851336176)<!-- GAME:END -->
+ - [Helldivers 2 Merch Lets You Finally Have A Cup Of Liber-Tea](https://kotaku.com/helldivers-2-merch-shirts-mug-liber-tea-cup-ha-1851336889)
+ - [GTA Online update for the week of March 14](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)
+ - [Epic Games Store exclusives, including Alan Wake 2, are cheaper through March 26](https://www.polygon.com/24100924/epic-games-store-alan-wake-2-spring-sale-2024-deal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
