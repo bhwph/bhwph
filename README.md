@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [On the web&#39;s 35th birthday, there are two issues to address: power concentration, which contradicts decentralization, and exploitation of personal data &lpar;Tim Berners-Lee/World Wide Web Foundation&rpar;](http://www.techmeme.com/240313/p38#a240313p38)
- - [The US Treasury is investigating ~$165M in crypto-linked transactions that may have helped finance Hamas before the group&#39;s October 7 attack against Israel &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240313/p37#a240313p37)
- - [Amazon rolls out a generative AI feature that creates a product page, including a description and images, using information from a seller&#39;s external website &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240313/p36#a240313p36)<!-- TECH:END -->
+ - [A deep dive into Vision Pro by Meta&#39;s ex-VP of VR Hugo Barra: the audacity of Apple&#39;s hardware decisions, a dull software story, how Meta can respond, and more &lpar;Hugo Barra/Hugo&#39;s Blog&rpar;](http://www.techmeme.com/240314/p1#a240314p1)
+ - [Google Maps and Search will now show you latest social media posts from businesses](https://www.androidauthority.com/google-business-profiles-get-social-3425372/)
+ - [Samsung’s March 2024 security update arrives on Galaxy 23 series and more phones](https://www.androidauthority.com/samsung-march-2024-security-update-3425285/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
