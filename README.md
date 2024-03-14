@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The glass is unbreaka.... ble](http://9gag.com/gag/a04mGBL)
- - 😝 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - 👉 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)<!-- MEMES:END -->
+ - 6️⃣ [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)
+ - 😝 [Boning her right!](http://9gag.com/gag/ap9eX3D)
+ - 👉 [Call security](http://9gag.com/gag/aXn860P)<!-- MEMES:END -->
 
 --- 
 
