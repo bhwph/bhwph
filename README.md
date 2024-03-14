@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Social Security Recipients: Reasons to File Your Taxes in 2024     - CNET](https://www.cnet.com/personal-finance/social-security-recipients-reasons-to-file-your-taxes-in-2024/#ftag=CAD590a51e)
- - [The Players Championship 2024: TV Schedule Today, How to Watch, Stream All the PGA Tour Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-players-championship-2024-tv-schedule-today-how-to-watch-stream-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)
- - [A look at Visa&#39;s and Mastercard&#39;s efforts to stay relevant in Africa, including by funding local startups, as users switch to digital wallets and QR codes &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/240314/p8#a240314p8)<!-- TECH:END -->
+ - [TikTok-funded Oxford Economics study of 1K US SMBs and 7.5K users: in 2023, TikTok drove $14.7B in SMB revenue, added $24.2B to US GDP, and supported 224K+ jobs &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240314/p12#a240314p12)
+ - [Can Reddit—the Internet’s Greatest Authenticity Machine—Survive Its Own IPO?](https://www.wired.com/story/inside-reddit-protest-ipo/)
+ - [How Nintendo’s destruction of Yuzu is rocking the emulator world](https://www.theverge.com/24098640/nintendo-emulator-yuzu-lawsuit-switch-aftermath)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
