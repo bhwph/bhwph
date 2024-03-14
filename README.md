@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: in 2019, Donald Trump authorized the CIA to launch a clandestine social media campaign in China to turn public opinion against the government and Xi &lpar;Reuters&rpar;](http://www.techmeme.com/240314/p16#a240314p16)
- - [The Anker Nano II 65W charger drops to within $1 of its all-time low](https://www.androidauthority.com/deal-anker-735-nano-ii-65w-charger-3425367/)
- - [Which smartphone manufacturer do you trust the most for software updates?](https://www.androidauthority.com/poll-smartphone-manufacturer-software-update-trust-3425494/)<!-- TECH:END -->
+ - [Craig Wright Is Not Bitcoin Creator Satoshi Nakamoto, Judge Declares](https://www.wired.com/story/craig-wright-not-satoshi-nakamoto-bitcoin-creator-ruling/)
+ - [11 Best Pillows &lpar;2024&rpar;: For Side Sleepers, Orthopedic, Travel](https://www.wired.com/gallery/best-pillows/)
+ - [Join The Verge at the 2024 Chicago Humanities Spring Festival](https://www.theverge.com/24099817/verge-chicago-humanities-festival-2024-artificial-intelligence-tickets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
