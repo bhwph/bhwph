@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals on Robot Vacuums: Save Big on Dreametech, Roomba, Shark and More     - CNET](https://www.cnet.com/deals/best-robot-vacuum-deals/#ftag=CAD590a51e)
- - [Did OpenAI just accidentally leak the next big ChatGPT upgrade?](https://www.androidauthority.com/chat-gpt-4-5-turbo-3425326/)
- - [Google Sees AI Agents Getting Into the Video Games We Play     - CNET](https://www.cnet.com/tech/google-sees-ai-agents-getting-into-the-video-games-we-play/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon rolls out a generative AI feature that creates a product page, including a description and images, using information from a seller&#39;s external website &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240313/p36#a240313p36)
+ - [Apple Vision Pro keyboard language code could hint at imminent global launch](https://appleinsider.com/articles/24/03/14/apple-vision-pro-keyboard-language-code-could-hint-at-imminent-global-launch?utm_medium=rss)
+ - [Lenovo plans to release the Legion Tab, an 8.8&quot; Android gaming tablet currently available in China, in EMEA and other Asian markets this month, starting at &amp;euro;599 &lpar;Dashiell Wood/TechRadar&rpar;](http://www.techmeme.com/240313/p35#a240313p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
