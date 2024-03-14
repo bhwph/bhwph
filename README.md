@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: Battlefront Classic Collection Is A Messy Stumble Down Memory Lane](https://kotaku.com/star-wars-battlefront-classic-collection-review-bugs-1851335501)
- - [Helldivers 2 merch is here, and it’s as cheeky as you might expect](https://www.polygon.com/24100790/helldivers-2-merch-tshirts-sweaters-mugs-pins-amazon-insert-coin-playstation-gear)
- - [This &#39;photorealistic&#39; RTS about ants is the second RTS about ants to be based on a 1991 French novel about ants](https://www.pcgamer.com/games/rts/this-photorealistic-rts-about-ants-is-the-second-rts-about-ants-to-be-based-on-a-1991-french-novel-about-ants)<!-- GAME:END -->
+ - [As the Warner Bros suits begin to blame Suicide Squad for everything but the weather, the newly released game&#39;s price is almost slashed in half](https://www.pcgamer.com/games/action/as-the-warner-bros-suits-begin-to-blame-suicide-squad-for-everything-but-the-weather-the-newly-released-games-price-is-almost-slashed-in-half)
+ - [Planets that are entirely a single biome, ranked](https://www.polygon.com/24099643/dune-planets-star-wars-marvel)
+ - [Dreamlight Valley Devs Making A Life-Sim RPG Set In Baldur&#39;s Gate III Universe](https://kotaku.com/baldurs-gate-iii-3-dreamlight-valley-new-life-sim-rpg-1851336176)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
