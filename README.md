@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deep dive into Vision Pro by Meta&#39;s ex-VP of VR Hugo Barra: the audacity of Apple&#39;s hardware decisions, a dull software story, how Meta can respond, and more &lpar;Hugo Barra/Hugo&#39;s Blog&rpar;](http://www.techmeme.com/240314/p1#a240314p1)
- - [Google Maps and Search will now show you latest social media posts from businesses](https://www.androidauthority.com/google-business-profiles-get-social-3425372/)
- - [Samsung’s March 2024 security update arrives on Galaxy 23 series and more phones](https://www.androidauthority.com/samsung-march-2024-security-update-3425285/)<!-- TECH:END -->
+ - [The fate of TSMC plants in Japan and the US highlights two different approaches toward high-tech investment; TSMC says the two projects should not be compared &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240314/p5#a240314p5)
+ - [ByteDance investors reassessing what the company&#39;s value would be without TikTok, estimate that TikTok lost several billion dollars in 2023 on revenue of ~$20B &lpar;The Information&rpar;](http://www.techmeme.com/240314/p4#a240314p4)
+ - [Samsung reveals why it’s not launching the Galaxy A55 in the US](https://www.androidauthority.com/galaxy-a55-not-launching-usa-3424471/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
