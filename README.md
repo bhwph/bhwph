@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an email to the European Commission, Spotify says Apple is holding up an iPhone app update that adds pricing information and links to subscriptions &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240314/p38#a240314p38)
- - [Google schedules I/O 2024 for May 14, where details on Android 15 and Android XR, AI announcements, and more are expected; the date was hidden behind a puzzle &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240314/p37#a240314p37)
- - [Apple acquires AI startup to help create its own version of Gemini Nano](https://www.androidauthority.com/apple-acquires-darwin-ai-3425591/)<!-- TECH:END -->
+ - [CIA allegedly made fake social media accounts to troll the Chinese government](https://www.theverge.com/2024/3/14/24100984/cia-china-fake-social-media-spying)
+ - [Pornhub shuts down in Texas to protest age verification law](https://www.theverge.com/2024/3/14/24101116/pornhub-texas-age-verification-law-shut-down)
+ - [SpaceX successfully launched its Starship, but the vehicle was ‘lost’ after reentry](https://www.theverge.com/2024/3/14/24100501/spacex-starship-launch-third-flight-test-success)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
