@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple acquires another AI startup focused on deep neural network generation](https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation?utm_medium=rss)
- - [CBP wants to use AI to scan for fentanyl at the border](https://www.theverge.com/2024/3/14/24099953/cbp-border-ai-fentanyl-scanners-privacy)
- - [Wooting built the best gaming keyboard — now a new model introduces ‘Rappy Snappy’](https://www.theverge.com/2024/3/14/24100819/wooting-80he-keyboard-rappy-snappy-feature)<!-- TECH:END -->
+ - [In an email to the European Commission, Spotify says Apple is holding up an iPhone app update that adds pricing information and links to subscriptions &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240314/p38#a240314p38)
+ - [Google schedules I/O 2024 for May 14, where details on Android 15 and Android XR, AI announcements, and more are expected; the date was hidden behind a puzzle &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240314/p37#a240314p37)
+ - [Apple acquires AI startup to help create its own version of Gemini Nano](https://www.androidauthority.com/apple-acquires-darwin-ai-3425591/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
