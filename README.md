@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s Big Spring Sale starts March 20, but you can grab official Apple products from $7.99 right now](https://appleinsider.com/articles/24/03/14/amazons-big-spring-sale-starts-march-20-but-you-can-grab-official-apple-products-from-799-right-now?utm_medium=rss)
- - [Apple speaks out against Epic&#39;s contempt of court accusation](https://appleinsider.com/articles/24/03/14/apple-speaks-out-against-epics-contempt-of-court-accusation?utm_medium=rss)
- - [Reddit launches free-form ads, an ad format that looks similar to users posts but with a &quot;Promoted&quot; label, to help advertisers get maximum engagement &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240314/p27#a240314p27)<!-- TECH:END -->
+ - [Apple acquires another AI startup focused on deep neural network generation](https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation?utm_medium=rss)
+ - [CBP wants to use AI to scan for fentanyl at the border](https://www.theverge.com/2024/3/14/24099953/cbp-border-ai-fentanyl-scanners-privacy)
+ - [Wooting built the best gaming keyboard — now a new model introduces ‘Rappy Snappy’](https://www.theverge.com/2024/3/14/24100819/wooting-80he-keyboard-rappy-snappy-feature)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
