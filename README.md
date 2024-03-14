@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - 😝 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)
- - 👉 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)<!-- MEMES:END -->
+ - 6️⃣ [The original Spaghetti Carbonara](http://9gag.com/gag/a04mqmv)
+ - 😝 [I am always watching you](http://9gag.com/gag/aqevwwv)
+ - 👉 [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)<!-- MEMES:END -->
 
 --- 
 
