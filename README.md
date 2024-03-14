@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The fate of TSMC plants in Japan and the US highlights two different approaches toward high-tech investment; TSMC says the two projects should not be compared &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240314/p5#a240314p5)
- - [ByteDance investors reassessing what the company&#39;s value would be without TikTok, estimate that TikTok lost several billion dollars in 2023 on revenue of ~$20B &lpar;The Information&rpar;](http://www.techmeme.com/240314/p4#a240314p4)
- - [Samsung reveals why it’s not launching the Galaxy A55 in the US](https://www.androidauthority.com/galaxy-a55-not-launching-usa-3424471/)<!-- TECH:END -->
+ - [Social Security Recipients: Reasons to File Your Taxes in 2024     - CNET](https://www.cnet.com/personal-finance/social-security-recipients-reasons-to-file-your-taxes-in-2024/#ftag=CAD590a51e)
+ - [The Players Championship 2024: TV Schedule Today, How to Watch, Stream All the PGA Tour Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-players-championship-2024-tv-schedule-today-how-to-watch-stream-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)
+ - [A look at Visa&#39;s and Mastercard&#39;s efforts to stay relevant in Africa, including by funding local startups, as users switch to digital wallets and QR codes &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/240314/p8#a240314p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
