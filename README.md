@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok-funded Oxford Economics study of 1K US SMBs and 7.5K users: in 2023, TikTok drove $14.7B in SMB revenue, added $24.2B to US GDP, and supported 224K+ jobs &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240314/p12#a240314p12)
- - [Can Reddit—the Internet’s Greatest Authenticity Machine—Survive Its Own IPO?](https://www.wired.com/story/inside-reddit-protest-ipo/)
- - [How Nintendo’s destruction of Yuzu is rocking the emulator world](https://www.theverge.com/24098640/nintendo-emulator-yuzu-lawsuit-switch-aftermath)<!-- TECH:END -->
+ - [Sources: in 2019, Donald Trump authorized the CIA to launch a clandestine social media campaign in China to turn public opinion against the government and Xi &lpar;Reuters&rpar;](http://www.techmeme.com/240314/p16#a240314p16)
+ - [The Anker Nano II 65W charger drops to within $1 of its all-time low](https://www.androidauthority.com/deal-anker-735-nano-ii-65w-charger-3425367/)
+ - [Which smartphone manufacturer do you trust the most for software updates?](https://www.androidauthority.com/poll-smartphone-manufacturer-software-update-trust-3425494/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
