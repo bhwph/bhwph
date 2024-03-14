@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In 2018 a group of Valve staff tried to figure out just how efficient they were being—and found they were making more money per head than Apple, Facebook, and nearly every tech giant out there](https://www.pcgamer.com/gaming-industry/in-2018-a-group-of-valve-staff-tried-to-figure-out-just-how-efficient-they-were-beingand-found-they-were-making-more-money-per-head-than-apple-facebook-and-nearly-every-tech-giant-out-there)
- - [Not sure what movie to watch this weekend? Leave a comment, we’ll help](https://www.polygon.com/entertainment/2024/3/14/24099447/best-movies-watch-this-weekend-best-recommendations)
- - [Ultimate X-Men Is The Fresh Start Marvel’s Mutants Need](https://kotaku.com/ultimate-x-men-marvel-comics-peach-momoko-1851333139)<!-- GAME:END -->
+ - [Star Wars: Battlefront Classic Collection Is A Messy Stumble Down Memory Lane](https://kotaku.com/star-wars-battlefront-classic-collection-review-bugs-1851335501)
+ - [Helldivers 2 merch is here, and it’s as cheeky as you might expect](https://www.polygon.com/24100790/helldivers-2-merch-tshirts-sweaters-mugs-pins-amazon-insert-coin-playstation-gear)
+ - [This &#39;photorealistic&#39; RTS about ants is the second RTS about ants to be based on a 1991 French novel about ants](https://www.pcgamer.com/games/rts/this-photorealistic-rts-about-ants-is-the-second-rts-about-ants-to-be-based-on-a-1991-french-novel-about-ants)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
