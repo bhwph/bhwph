@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Folding iPhone &amp; under-screen Face ID rumored arrival date pushed back -- again](https://appleinsider.com/articles/24/03/15/folding-iphone-under-screen-face-id-rumored-arrival-date-pushed-back----again?utm_medium=rss)
- - [In an open letter to Nick Clegg, 36 MEPs urge Meta to scrap the &quot;pay or okay&quot; choice given to EU users and &quot;align your business with the principles of the GDPR&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240315/p8#a240315p8)
- - [iPad Air 5 price falls 25% ahead of new model release](https://www.androidauthority.com/ipad-air-5th-gen-deal-3425605/)<!-- TECH:END -->
+ - [Apple reaches a $490M settlement to resolve a class-action lawsuit that alleged Tim Cook defrauded shareholders in 2019 by hiding falling iPhone demand in China &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240315/p10#a240315p10)
+ - [The wedge-shaped M1 MacBook Air lives on — at Walmart, for $699](https://www.theverge.com/2024/3/15/24101727/apple-m1-macbook-air-laptop-walmart)
+ - [Here’s a first look at Android 15’s built-in app archiving feature](https://www.androidauthority.com/android-15-app-archiving-demo-3425621/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
