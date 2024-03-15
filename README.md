@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
- - 😝 [Uncle Xi not happy](http://9gag.com/gag/aL1qyjv)
- - 👉 [What was the plan here](http://9gag.com/gag/aWGVwDx)<!-- MEMES:END -->
+ - 😝 [What was the plan here](http://9gag.com/gag/aWGVwDx)
+ - 👉 [UNEXPECTED! In Russia, some polling stations are delivered pens with special ink that can disappear.](http://9gag.com/gag/aVbGNZw)<!-- MEMES:END -->
 
 --- 
 
