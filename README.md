@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing is giving Phone 2a users free access to Perplexity’s AI chatbot, but hurry up!](https://www.androidauthority.com/nothing-phone-2a-free-perplexity-ai-pro-3425767/)
- - [Andre Holland is Black Panther leader Huey P. Newton in new Apple TV+ drama](https://appleinsider.com/articles/24/03/15/andre-holland-is-black-panther-leader-huey-p-newton-in-new-apple-tv-drama?utm_medium=rss)
- - [A Startup Will Try to Mine Helium-3 on the Moon](https://www.wired.com/story/interlune-helium-3-moon-mining/)<!-- TECH:END -->
+ - [Folding iPhone &amp; under-screen Face ID rumored arrival date pushed back -- again](https://appleinsider.com/articles/24/03/15/folding-iphone-under-screen-face-id-rumored-arrival-date-pushed-back----again?utm_medium=rss)
+ - [In an open letter to Nick Clegg, 36 MEPs urge Meta to scrap the &quot;pay or okay&quot; choice given to EU users and &quot;align your business with the principles of the GDPR&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240315/p8#a240315p8)
+ - [iPad Air 5 price falls 25% ahead of new model release](https://www.androidauthority.com/ipad-air-5th-gen-deal-3425605/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
