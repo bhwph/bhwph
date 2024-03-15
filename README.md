@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley&#39;s 1.6 Update Will Fix Your Marriage](https://kotaku.com/stardew-valley-16-update-honeymoon-phase-1851340503)
- - [Along with fixing a glitch that&#39;s been bugging players for 8 years, Stardew Valley&#39;s 1.6 update will also fix a glitch that&#39;s been bugging Eric Barone for 8 years](https://www.pcgamer.com/games/life-sim/along-with-fixing-a-glitch-thats-been-bugging-players-for-8-years-stardew-valleys-16-update-will-also-fix-a-glitch-thats-been-bugging-eric-barone-for-8-years)
- - [Pokémon Go ‘Glimmers of Gratitude’ Shiny Shaymin Masterwork Research guide](https://www.polygon.com/pokemon-go-guide/24078278/shiny-shaymin-masterwork-research-glimmers-of-gratitude)<!-- GAME:END -->
+ - [Queen’s Blood card list in FF7 Rebirth](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24082221/queens-blood-cards-all-list-how-to-get)
+ - [How to get Sprigatito through Mystery Gift in Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/24101954/sprigatito-mystery-gift-code)
+ - [Stardew Valley&#39;s 1.6 update will add a 1-week honeymoon period for newly-married players that will keep their spouses &#39;from laying in bed all day due to being upset&#39;](https://www.pcgamer.com/games/life-sim/stardew-valleys-16-update-will-add-a-1-week-honeymoon-period-for-newly-married-players-that-will-keep-their-spouses-from-laying-in-bed-all-day-due-to-being-upset)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
