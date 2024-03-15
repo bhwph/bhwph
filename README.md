@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Amazon refund fraud gangs, which promote their schemes on Reddit, TikTok, and Telegram, are exploiting lenient refund policies at the company &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240315/p1#a240315p1)
- - [Researchers detail a side channel that can be used to read encrypted responses from AI assistants, except Google Gemini; OpenAI and Cloudflare implemented fixes &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240314/p49#a240314p49)
- - [El Salvador moved ~$400M worth, or &quot;a big chunk&quot;, of its bitcoin into a cold wallet this week; public trackers had estimated El Salvador&#39;s trove at under $205M &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240314/p48#a240314p48)<!-- TECH:END -->
+ - [Oil companies are increasingly using AI and remote operations to drill faster, suggest better ways to frack, and predict when active well pumps will fail &lpar;David Wethe/Bloomberg&rpar;](http://www.techmeme.com/240315/p3#a240315p3)
+ - [The Designer Who’s Trying to Transform Your City Into a Sponge](https://www.wired.com/story/the-designer-whos-trying-to-transform-your-city-into-a-sponge/)
+ - [How to delete Instagram messages](https://www.androidauthority.com/delete-instagram-messages-3134521/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
