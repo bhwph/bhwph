@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
- - 😝 [What was the plan here](http://9gag.com/gag/aWGVwDx)
- - 👉 [UNEXPECTED! In Russia, some polling stations are delivered pens with special ink that can disappear.](http://9gag.com/gag/aVbGNZw)<!-- MEMES:END -->
+ - 6️⃣ [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)
+ - 😝 [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)
+ - 👉 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)<!-- MEMES:END -->
 
 --- 
 
