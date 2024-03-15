@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How lucky are you?](http://9gag.com/gag/aA0nj39)
- - 😝 [Bread](http://9gag.com/gag/ay2yGWV)
- - 👉 [I need a number two philips.](http://9gag.com/gag/a04mBPZ)<!-- MEMES:END -->
+ - 6️⃣ [Dafuq are they feeding youngsters now?](http://9gag.com/gag/aXn8Obv)
+ - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
+ - 👉 [Title](http://9gag.com/gag/anzA67E)<!-- MEMES:END -->
 
 --- 
 
