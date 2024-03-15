@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reaches a $490M settlement to resolve a class-action lawsuit that alleged Tim Cook defrauded shareholders in 2019 by hiding falling iPhone demand in China &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240315/p10#a240315p10)
- - [The wedge-shaped M1 MacBook Air lives on — at Walmart, for $699](https://www.theverge.com/2024/3/15/24101727/apple-m1-macbook-air-laptop-walmart)
- - [Here’s a first look at Android 15’s built-in app archiving feature](https://www.androidauthority.com/android-15-app-archiving-demo-3425621/)<!-- TECH:END -->
+ - [Uber and Lyft to leave Minneapolis over ‘deeply flawed’ pay rules](https://www.theverge.com/2024/3/15/24101774/uber-lyft-leave-minneapolis-minimum-pay)
+ - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
+ - [Lawyers warn that the bill banning TikTok unless it&#39;s sold gives POTUS unchecked power to ban any app or site the President deems a &quot;national security threat&quot; &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240315/p15#a240315p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
