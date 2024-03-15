@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Set Medication Reminders on Your Phone &lpar;2024&rpar;: Best Apps, iPhone, Android, Samsung](https://www.wired.com/story/how-to-set-medication-reminders-on-phones/)
- - [After criticism, India&#39;s Ministry of Electronics and IT revises its AI advisory to drop plans to require government approval before new AI models are launched &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240315/p24#a240315p24)
- - [Some Democrats warn that a ban of TikTok, used by nearly two-thirds of Americans under 30, could imperil Biden&#39;s reelection by depressing young voter turnout &lpar;Elena Schneider/Politico&rpar;](http://www.techmeme.com/240315/p23#a240315p23)<!-- TECH:END -->
+ - [Don&#39;t Let the Headlines Fool You. Air Travel Is Really Very Safe](https://www.wired.com/story/dont-let-the-boeing-headlines-fool-you-air-travel-is-really-very-safe/)
+ - [Spotify is letting authors market like musicians](https://www.theverge.com/2024/3/15/24102398/spotify-countdown-pages-audiobooks)
+ - [Google Drive could make finding files easier with new organization feature](https://www.androidauthority.com/google-drive-categories-3426299/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
