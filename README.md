@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Smile](http://9gag.com/gag/armPQ57)
- - 😝 [Title](http://9gag.com/gag/aA0nzWL)
- - 👉 [Doctor and scientist combo](http://9gag.com/gag/a7qjzye)<!-- MEMES:END -->
+ - 6️⃣ [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
+ - 😝 [Uncle Xi not happy](http://9gag.com/gag/aL1qyjv)
+ - 👉 [What was the plan here](http://9gag.com/gag/aWGVwDx)<!-- MEMES:END -->
 
 --- 
 
