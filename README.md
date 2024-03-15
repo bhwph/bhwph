@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber and Lyft to leave Minneapolis over ‘deeply flawed’ pay rules](https://www.theverge.com/2024/3/15/24101774/uber-lyft-leave-minneapolis-minimum-pay)
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
- - [Lawyers warn that the bill banning TikTok unless it&#39;s sold gives POTUS unchecked power to ban any app or site the President deems a &quot;national security threat&quot; &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240315/p15#a240315p15)<!-- TECH:END -->
+ - [Michael Seibel steps down as YC&#39;s managing director, says he did not feel disappointed when he was not tapped as CEO but would have accepted the job if offered &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240315/p19#a240315p19)
+ - [Zoomers are turning on the TikTok famous congressman who voted to ban the app](https://www.theverge.com/2024/3/15/24101851/tiktok-ban-vote-jeff-jackson-sell-bytedance)
+ - [Sinking Section 702 Wiretap Program Offered One Last Lifeboat](https://www.wired.com/story/section-702-safe-act-compromise/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
