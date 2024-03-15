@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, March 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-15-2024)
- - [Civil War stuns in the least likely ways imaginable](https://www.polygon.com/24099490/civil-war-review-2024)
- - [The best deals in the 2024 Steam Spring Sale](https://www.pcgamer.com/software/platforms/the-best-deals-in-the-2024-steam-spring-sale)<!-- GAME:END -->
+ - [The leading man of Helldivers 2&#39;s hilarious cinematic PSA had a blast filming it—also, there&#39;s an improvised democratic &#39;freestyle rap&#39; somewhere at Arrowhead HQ](https://www.pcgamer.com/games/third-person-shooter/the-leading-man-of-helldivers-2s-hilarious-cinematic-psa-had-a-blast-filming-italso-theres-an-improvised-democratic-freestyle-rap-somewhere-at-arrowhead-hq)
+ - [Aspyr makes Star Wars: Battlefront Classic Collection statement after crashing to &#39;Overwhelmingly Negative&#39; reviews, says it&#39;s working on it, doesn&#39;t apologise or explain why it needs 62.87GB of your disc space](https://www.pcgamer.com/games/fps/aspyr-makes-star-wars-battlefront-classic-collection-statement-after-crashing-to-overwhelmingly-negative-reviews-says-its-working-on-it-doesnt-apologise-or-explain-why-it-needs-6287gb-of-your-disc-space)
+ - [PS5 Pro leak allegedly reveals &#39;PlayStation Spectral Super Resolution&#39; and up to four times the ray tracing performance of the regular ol&#39; PS5](https://www.pcgamer.com/hardware/ps5-pro-leak-allegedly-reveals-playstation-spectral-super-resolution-and-up-to-four-times-the-ray-tracing-performance-of-the-regular-ol-ps5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
