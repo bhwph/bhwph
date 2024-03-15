@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Outlaws of Thunder Junction, the next big Magic: The Gathering set, is available to pre-order](https://www.polygon.com/deals/24101816/mtg-outlaws-of-thunder-junction-pre-order-buy)
- - [Obtain New Member Rewards and Perks This Month with EA Play](https://news.xbox.com/en-us/2024/03/15/new-member-rewards-and-perks-this-month-with-ea-play/)
- - [The Among Us Animated Show’s Cast Is Stacked](https://kotaku.com/among-us-animated-show-voice-actor-cast-elijah-wood-1851340007)<!-- GAME:END -->
+ - [Stardew Valley&#39;s 1.6 Update Will Fix Your Marriage](https://kotaku.com/stardew-valley-16-update-honeymoon-phase-1851340503)
+ - [Along with fixing a glitch that&#39;s been bugging players for 8 years, Stardew Valley&#39;s 1.6 update will also fix a glitch that&#39;s been bugging Eric Barone for 8 years](https://www.pcgamer.com/games/life-sim/along-with-fixing-a-glitch-thats-been-bugging-players-for-8-years-stardew-valleys-16-update-will-also-fix-a-glitch-thats-been-bugging-eric-barone-for-8-years)
+ - [Pokémon Go ‘Glimmers of Gratitude’ Shiny Shaymin Masterwork Research guide](https://www.polygon.com/pokemon-go-guide/24078278/shiny-shaymin-masterwork-research-glimmers-of-gratitude)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
