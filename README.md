@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The leading man of Helldivers 2&#39;s hilarious cinematic PSA had a blast filming it—also, there&#39;s an improvised democratic &#39;freestyle rap&#39; somewhere at Arrowhead HQ](https://www.pcgamer.com/games/third-person-shooter/the-leading-man-of-helldivers-2s-hilarious-cinematic-psa-had-a-blast-filming-italso-theres-an-improvised-democratic-freestyle-rap-somewhere-at-arrowhead-hq)
- - [Aspyr makes Star Wars: Battlefront Classic Collection statement after crashing to &#39;Overwhelmingly Negative&#39; reviews, says it&#39;s working on it, doesn&#39;t apologise or explain why it needs 62.87GB of your disc space](https://www.pcgamer.com/games/fps/aspyr-makes-star-wars-battlefront-classic-collection-statement-after-crashing-to-overwhelmingly-negative-reviews-says-its-working-on-it-doesnt-apologise-or-explain-why-it-needs-6287gb-of-your-disc-space)
- - [PS5 Pro leak allegedly reveals &#39;PlayStation Spectral Super Resolution&#39; and up to four times the ray tracing performance of the regular ol&#39; PS5](https://www.pcgamer.com/hardware/ps5-pro-leak-allegedly-reveals-playstation-spectral-super-resolution-and-up-to-four-times-the-ray-tracing-performance-of-the-regular-ol-ps5)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for March 18 – 22](https://news.xbox.com/en-us/2024/03/15/next-week-on-xbox-new-games-for-march-18-22/)
+ - [The best order to watch the Godzilla and Kong MonsterVerse movies](https://www.polygon.com/24101190/godzilla-kong-monsterverse-best-watch-order)
+ - [18 Movie Tie-In Popcorn Buckets We Loved &lpar;And Hated&rpar;](https://kotaku.com/dune-popcorn-bucket-barbie-ghostbusters-best-worst-1851336690)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
