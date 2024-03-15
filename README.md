@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US plans to award over $6B to Samsung to help the company expand beyond its $17B chip fab in Taylor, Texas, under the 2022 Chips and Science Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p45#a240314p45)
- - [Acer Predator Triton 14 Review: Fast Gaming and a Bright HDR Screen     - CNET](https://www.cnet.com/tech/computing/acer-predator-triton-14-review-fast-gaming-and-a-bright-hdr-screen/#ftag=CAD590a51e)
- - [Zephyr AI, which uses AI to generate insights into improving patient care and research in oncology and cardiometabolic diseases, raised a $111M Series A &lpar;Robert Barrie/Pharmaceutical Technology&rpar;](http://www.techmeme.com/240314/p44#a240314p44)<!-- TECH:END -->
+ - [How Amazon refund fraud gangs, which promote their schemes on Reddit, TikTok, and Telegram, are exploiting lenient refund policies at the company &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240315/p1#a240315p1)
+ - [Researchers detail a side channel that can be used to read encrypted responses from AI assistants, except Google Gemini; OpenAI and Cloudflare implemented fixes &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240314/p49#a240314p49)
+ - [El Salvador moved ~$400M worth, or &quot;a big chunk&quot;, of its bitcoin into a cold wallet this week; public trackers had estimated El Salvador&#39;s trove at under $205M &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240314/p48#a240314p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
