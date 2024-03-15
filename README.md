@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dafuq are they feeding youngsters now?](http://9gag.com/gag/aXn8Obv)
- - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
- - 👉 [Title](http://9gag.com/gag/anzA67E)<!-- MEMES:END -->
+ - 6️⃣ [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
+ - 😝 [Uncle Xi not happy](http://9gag.com/gag/aL1qyjv)
+ - 👉 [Bread](http://9gag.com/gag/ay2yGWV)<!-- MEMES:END -->
 
 --- 
 
