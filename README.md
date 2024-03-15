@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A great Comedian](http://9gag.com/gag/aDYBKQZ)
- - 😝 [Title](http://9gag.com/gag/anzA67E)
- - 👉 [Save it and forget.](http://9gag.com/gag/a4oMXjp)<!-- MEMES:END -->
+ - 6️⃣ [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)
+ - 😝 [How lucky are you?](http://9gag.com/gag/aA0nj39)
+ - 👉 [Does whatever a spider can](http://9gag.com/gag/a6qW6Nq)<!-- MEMES:END -->
 
 --- 
 
