@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Michael Seibel steps down as YC&#39;s managing director, says he did not feel disappointed when he was not tapped as CEO but would have accepted the job if offered &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240315/p19#a240315p19)
- - [Zoomers are turning on the TikTok famous congressman who voted to ban the app](https://www.theverge.com/2024/3/15/24101851/tiktok-ban-vote-jeff-jackson-sell-bytedance)
- - [Sinking Section 702 Wiretap Program Offered One Last Lifeboat](https://www.wired.com/story/section-702-safe-act-compromise/)<!-- TECH:END -->
+ - [How to Set Medication Reminders on Your Phone &lpar;2024&rpar;: Best Apps, iPhone, Android, Samsung](https://www.wired.com/story/how-to-set-medication-reminders-on-phones/)
+ - [After criticism, India&#39;s Ministry of Electronics and IT revises its AI advisory to drop plans to require government approval before new AI models are launched &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240315/p24#a240315p24)
+ - [Some Democrats warn that a ban of TikTok, used by nearly two-thirds of Americans under 30, could imperil Biden&#39;s reelection by depressing young voter turnout &lpar;Elena Schneider/Politico&rpar;](http://www.techmeme.com/240315/p23#a240315p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
