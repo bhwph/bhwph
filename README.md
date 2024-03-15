@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Right or wrong](http://9gag.com/gag/aWGVz64)
- - 😝 [Call security](http://9gag.com/gag/aXn860P)
- - 👉 [Save it and forget.](http://9gag.com/gag/a4oMXjp)<!-- MEMES:END -->
+ - 6️⃣ [Helldivers 2 based](http://9gag.com/gag/a4oMvYZ)
+ - 😝 [Life as a man is simple...](http://9gag.com/gag/aZD96Gp)
+ - 👉 [In Ireland people touch the breast on the statue of Molly Malone because it&#39;s said to bring good luck. A feminist now campaign to stop what she calls a \u201cmisogynistic tradition\u201d. This made me think of when C. Proudman also complained and people then answered with these pictures.](http://9gag.com/gag/aeQXn0W)<!-- MEMES:END -->
 
 --- 
 
