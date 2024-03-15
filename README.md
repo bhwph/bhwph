@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even the Pixel 8 could get Android 15’s powered-off finding features](https://www.androidauthority.com/google-pixel-8-android-15-powered-off-finding-features-3425709/)
- - [Oil companies are increasingly using AI and remote operations to drill faster, suggest better ways to frack, and predict when active well pumps will fail &lpar;David Wethe/Bloomberg&rpar;](http://www.techmeme.com/240315/p3#a240315p3)
- - [The Designer Who’s Trying to Transform Your City Into a Sponge](https://www.wired.com/story/the-designer-whos-trying-to-transform-your-city-into-a-sponge/)<!-- TECH:END -->
+ - [Nothing is giving Phone 2a users free access to Perplexity’s AI chatbot, but hurry up!](https://www.androidauthority.com/nothing-phone-2a-free-perplexity-ai-pro-3425767/)
+ - [Andre Holland is Black Panther leader Huey P. Newton in new Apple TV+ drama](https://appleinsider.com/articles/24/03/15/andre-holland-is-black-panther-leader-huey-p-newton-in-new-apple-tv-drama?utm_medium=rss)
+ - [A Startup Will Try to Mine Helium-3 on the Moon](https://www.wired.com/story/interlune-helium-3-moon-mining/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
