@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 27 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Microsoft Giving Away A Cool Xbox That Doesn&#39;t Actually Work](https://kotaku.com/xbox-final-fantasy-14-xbox-contest-art-piece-fake-1851339404)
- - [Everything You Need to Know to Start Playing MLB The Show 24 Today on Xbox](https://news.xbox.com/en-us/2024/03/15/start-playing-mlb-the-show-24-today-on-xbox/)<!-- GAME:END -->
+ - [Outlaws of Thunder Junction, the next big Magic: The Gathering set, is available to pre-order](https://www.polygon.com/deals/24101816/mtg-outlaws-of-thunder-junction-pre-order-buy)
+ - [Obtain New Member Rewards and Perks This Month with EA Play](https://news.xbox.com/en-us/2024/03/15/new-member-rewards-and-perks-this-month-with-ea-play/)
+ - [The Among Us Animated Show’s Cast Is Stacked](https://kotaku.com/among-us-animated-show-voice-actor-cast-elijah-wood-1851340007)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
