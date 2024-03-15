@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Even the Pixel 8 could get Android 15’s powered-off finding features](https://www.androidauthority.com/google-pixel-8-android-15-powered-off-finding-features-3425709/)
  - [Oil companies are increasingly using AI and remote operations to drill faster, suggest better ways to frack, and predict when active well pumps will fail &lpar;David Wethe/Bloomberg&rpar;](http://www.techmeme.com/240315/p3#a240315p3)
- - [The Designer Who’s Trying to Transform Your City Into a Sponge](https://www.wired.com/story/the-designer-whos-trying-to-transform-your-city-into-a-sponge/)
- - [How to delete Instagram messages](https://www.androidauthority.com/delete-instagram-messages-3134521/)<!-- TECH:END -->
+ - [The Designer Who’s Trying to Transform Your City Into a Sponge](https://www.wired.com/story/the-designer-whos-trying-to-transform-your-city-into-a-sponge/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
