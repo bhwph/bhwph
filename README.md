@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for March 18 – 22](https://news.xbox.com/en-us/2024/03/15/next-week-on-xbox-new-games-for-march-18-22/)
- - [The best order to watch the Godzilla and Kong MonsterVerse movies](https://www.polygon.com/24101190/godzilla-kong-monsterverse-best-watch-order)
- - [18 Movie Tie-In Popcorn Buckets We Loved &lpar;And Hated&rpar;](https://kotaku.com/dune-popcorn-bucket-barbie-ghostbusters-best-worst-1851336690)<!-- GAME:END -->
+ - [The 27 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Microsoft Giving Away A Cool Xbox That Doesn&#39;t Actually Work](https://kotaku.com/xbox-final-fantasy-14-xbox-contest-art-piece-fake-1851339404)
+ - [Everything You Need to Know to Start Playing MLB The Show 24 Today on Xbox](https://news.xbox.com/en-us/2024/03/15/start-playing-mlb-the-show-24-today-on-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
