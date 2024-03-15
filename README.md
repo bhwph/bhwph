@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
- - 😝 [Uncle Xi not happy](http://9gag.com/gag/aL1qyjv)
- - 👉 [Bread](http://9gag.com/gag/ay2yGWV)<!-- MEMES:END -->
+ - 6️⃣ [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)
+ - 😝 [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
+ - 👉 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)<!-- MEMES:END -->
 
 --- 
 
