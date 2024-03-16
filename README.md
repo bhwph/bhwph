@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)
- - 😝 [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)
- - 👉 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)<!-- MEMES:END -->
+ - 6️⃣ [NGL that&#39;s genius](http://9gag.com/gag/aBdD7p2)
+ - 😝 [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
+ - 👉 [A ticket straight to hell.](http://9gag.com/gag/adP3ZWM)<!-- MEMES:END -->
 
 --- 
 
