@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)
- - 😝 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)
- - 👉 [Nuked by community note](http://9gag.com/gag/anzApX5)<!-- MEMES:END -->
+ - 6️⃣ [NGL that&#39;s genius](http://9gag.com/gag/aBdD7p2)
+ - 😝 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
+ - 👉 [Laugh](http://9gag.com/gag/aDYBKr9)<!-- MEMES:END -->
 
 --- 
 
