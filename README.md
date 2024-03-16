@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Potion event recipes and market news list for Genshin Impact](https://www.polygon.com/genshin-impact-guides/24101916/potions-event-recipes-request-beidou-market-news-alchemical-ascension)
- - [To celebrate Hearthstone&#39;s 10th birthday I spoke to OG streamers and casters about the best metas, their favourite moments, and most hated cards](https://www.pcgamer.com/games/hearthstone-10th-anniversary-retrospective-best-metas)
- - [Does your keyboard make your wrists hurt? A split keyboard may help you like it helped me](https://www.polygon.com/gaming/24099950/kinesis-freestyle-edge-rgb-split-ergonomic-gaming-keyboard-comfort-recommendation)<!-- GAME:END -->
+ - [&#39;You will not enjoy videogames anymore if you work in a big game studio:&#39; New Blood&#39;s boss weighs in on what sets it apart amid an industry crisis](https://www.pcgamer.com/games/fps/you-will-not-enjoy-videogames-anymore-if-you-work-in-a-big-game-studio-new-bloods-boss-weighs-in-on-what-sets-it-apart-amid-an-industry-crisis)
+ - [Not only is Rainbow Six Siege free to play for the next week, it&#39;s also just $4 to keep if you like it](https://www.pcgamer.com/games/fps/not-only-is-rainbow-six-siege-free-to-play-for-the-next-week-its-also-just-dollar4-to-keep-if-you-like-it)
+ - [&#39;10 years ago, we were just a couple of friends in my apartment trying to figure out what we wanted to do:&#39; the studio at the heart of the boomer shooter boom reflects on its first decade](https://www.pcgamer.com/games/fps/10-years-ago-we-were-just-a-couple-of-friends-in-my-apartment-trying-to-figure-out-what-we-wanted-to-do-the-studio-at-the-heart-of-the-boomer-shooter-boom-reflects-on-its-first-decade)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
