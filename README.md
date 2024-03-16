@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)
- - 😝 [1963 car owner tips.](http://9gag.com/gag/amADjn6)
- - 👉 [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)<!-- MEMES:END -->
+ - 6️⃣ [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
+ - 😝 [NGL that&#39;s genius](http://9gag.com/gag/aBdD7p2)
+ - 👉 [NYC in 2020: `DEFUND THE POLICE!!!` , NYC in 2024: `WHERE&#39;S THE NYPD???`](http://9gag.com/gag/amADD7y)<!-- MEMES:END -->
 
 --- 
 
