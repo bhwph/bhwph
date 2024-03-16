@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail version 2.1 livestream codes](https://www.polygon.com/honkai-star-rail-guides/2024/3/16/24100891/version-2-1-livestream-code-redeem)
- - [Mario Day Announcements, Stardew Valley Revelations, And More Of The Week&#39;s Big News](https://kotaku.com/stardew-valley-mario-day-gaming-news-stellar-blade-1851339583)
- - [The best sci-fi movies to watch on Netflix this March](https://www.polygon.com/what-to-watch/2024/3/16/24097152/best-sci-fi-movies-watch-netflix-march-2024)<!-- GAME:END -->
+ - [To celebrate Hearthstone&#39;s 10th birthday I spoke to OG streamers and casters about the best metas, their favourite moments, and most hated cards](https://www.pcgamer.com/games/hearthstone-10th-anniversary-retrospective-best-metas)
+ - [Does your keyboard make your wrists hurt? A split keyboard may help you like it helped me](https://www.polygon.com/gaming/24099950/kinesis-freestyle-edge-rgb-split-ergonomic-gaming-keyboard-comfort-recommendation)
+ - [All The Unicorn Overlord And FF7 Rebirth Tips You Need](https://kotaku.com/all-the-unicorn-overlord-and-ff7-rebirth-tips-you-need-1851339585)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
