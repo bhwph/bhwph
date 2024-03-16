@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
- - 😝 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)
- - 👉 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)<!-- MEMES:END -->
+ - 6️⃣ [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)
+ - 😝 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)
+ - 👉 [Nuked by community note](http://9gag.com/gag/anzApX5)<!-- MEMES:END -->
 
 --- 
 
