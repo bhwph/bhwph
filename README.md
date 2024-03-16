@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t Let the Headlines Fool You. Air Travel Is Really Very Safe](https://www.wired.com/story/dont-let-the-boeing-headlines-fool-you-air-travel-is-really-very-safe/)
- - [Spotify is letting authors market like musicians](https://www.theverge.com/2024/3/15/24102398/spotify-countdown-pages-audiobooks)
- - [Google Drive could make finding files easier with new organization feature](https://www.androidauthority.com/google-drive-categories-3426299/)<!-- TECH:END -->
+ - [Starbucks is ending Odyssey, which launched in December 2022 in closed beta offering NFT-based rewards minted on the Polygon blockchain, on March 31, 2024 &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/240315/p31#a240315p31)
+ - [Sources: HashiCorp, which helps companies manage their cloud infrastructure, has been considering options including a sale; HCP jumps 11%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/240315/p30#a240315p30)
+ - [How the House revived the TikTok ban before most of us noticed](https://www.theverge.com/2024/3/15/24102472/house-tiktok-ban-bill-staffers-calls-congress)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
