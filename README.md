@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big or little Zenfones, more people should have their hands on them](https://www.androidauthority.com/asus-zenfone-strategy-3424666/)
- - [Apple Vision Pro App Store now viewable from web browsers](https://appleinsider.com/articles/24/03/16/apple-vision-pro-app-store-now-viewable-from-web-browsers?utm_medium=rss)
- - [Sources: US prosecutors in Virginia, with FDA&#39;s help, are investigating whether Meta&#39;s platforms are facilitating and profiting from the illegal sale of drugs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240316/p12#a240316p12)<!-- TECH:END -->
+ - [How Elon Musk courted Don Lemon to show that X isn&#39;t a right-wing tool, as the breakup highlights Linda Yaccarino&#39;s thankless task of trying to assure brands &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/240316/p14#a240316p14)
+ - [Best Deals on Smart Thermostats: Save Over $62 on Emerson, Honeywell, Google Nest and More     - CNET](https://www.cnet.com/deals/best-smart-thermostat-deals/#ftag=CAD590a51e)
+ - [Google Fiber Review: Great for Gigabit Internet     - CNET](https://www.cnet.com/home/internet/google-fiber-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
