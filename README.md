@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How evangelicals proselytize using Bless Every Home, an app that lets users create neighborhood maps and data tables based on people&#39;s religion and ethnicity &lpar;Elle Hardy/New Republic&rpar;](http://www.techmeme.com/240316/p5#a240316p5)
- - [Insurance Rates Are Soaring for US Homeowners in Climate Danger Zones](https://www.wired.com/story/insurance-rates-soaring-us-homeowners-climate-danger-zones-florida-louisiana-california-hurricane-flood/)
- - [Twitch plans to remove Prime Video Watch Party from April 2, 2024; Watch Party launched in 2020, allowing streamers to broadcast Prime Video content to viewers &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/240316/p4#a240316p4)<!-- TECH:END -->
+ - [The FCC Now Says Broadband Speed Should Be at Least 100 Mbps](https://www.wired.com/story/fcc-broadband-speed-100mbps/)
+ - [Ready to Retire? Here&#39;s How to Apply for Social Security Benefits     - CNET](https://www.cnet.com/personal-finance/ready-to-retire-heres-how-to-apply-for-social-security-benefits/#ftag=CAD590a51e)
+ - [Samsung Galaxy Watch 4 Has Everything I Need. Grab It During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/samsung-galaxy-watch-4-has-everything-i-need-grab-it-during-amazons-big-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
