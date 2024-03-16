@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [NGL that&#39;s genius](http://9gag.com/gag/aBdD7p2)
- - 😝 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
- - 👉 [Laugh](http://9gag.com/gag/aDYBKr9)<!-- MEMES:END -->
+ - 6️⃣ [Fake violinist at Walmart](http://9gag.com/gag/aKEbRQb)
+ - 😝 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
+ - 👉 [Did you know that in Australia, you need to give a reason to withdraw your own money from a bank](http://9gag.com/gag/aEqeezn)<!-- MEMES:END -->
 
 --- 
 
