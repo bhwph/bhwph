@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
- - 😝 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
- - 👉 [The boss of Palworld developer Pocketpair said the hit game cost less than $6.7 million to make and has generated massive profits that the small studio &lpar;currently 55 people&rpar; can&#39;t handle.](http://9gag.com/gag/az266Gb)<!-- MEMES:END -->
+ - 6️⃣ [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
+ - 😝 [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)
+ - 👉 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)<!-- MEMES:END -->
 
 --- 
 
