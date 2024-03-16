@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Butterfly keyboard repair program winds down this year](https://appleinsider.com/articles/24/03/16/apples-butterfly-keyboard-repair-program-winds-down-this-year?utm_medium=rss)
- - [9 Best Meal Kit Delivery Services &lpar;2024&rpar;: Blue Apron, Dinnerly, and More](https://www.wired.com/gallery/best-meal-kit-delivery-services/)
- - [Sources: SpaceX&#39;s Starshield is building a network of spy satellites under a classified, $1.8B contract with the US spy agency National Reconnaissance Office &lpar;Reuters&rpar;](http://www.techmeme.com/240316/p10#a240316p10)<!-- TECH:END -->
+ - [Big or little Zenfones, more people should have their hands on them](https://www.androidauthority.com/asus-zenfone-strategy-3424666/)
+ - [Apple Vision Pro App Store now viewable from web browsers](https://appleinsider.com/articles/24/03/16/apple-vision-pro-app-store-now-viewable-from-web-browsers?utm_medium=rss)
+ - [Sources: US prosecutors in Virginia, with FDA&#39;s help, are investigating whether Meta&#39;s platforms are facilitating and profiting from the illegal sale of drugs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240316/p12#a240316p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
