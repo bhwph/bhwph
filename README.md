@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Potion event recipes and market news list for Genshin Impact](https://www.polygon.com/genshin-impact-guides/24101916/potions-event-recipes-request-beidou-market-news-alchemical-ascension)
  - [To celebrate Hearthstone&#39;s 10th birthday I spoke to OG streamers and casters about the best metas, their favourite moments, and most hated cards](https://www.pcgamer.com/games/hearthstone-10th-anniversary-retrospective-best-metas)
- - [Does your keyboard make your wrists hurt? A split keyboard may help you like it helped me](https://www.polygon.com/gaming/24099950/kinesis-freestyle-edge-rgb-split-ergonomic-gaming-keyboard-comfort-recommendation)
- - [All The Unicorn Overlord And FF7 Rebirth Tips You Need](https://kotaku.com/all-the-unicorn-overlord-and-ff7-rebirth-tips-you-need-1851339585)<!-- GAME:END -->
+ - [Does your keyboard make your wrists hurt? A split keyboard may help you like it helped me](https://www.polygon.com/gaming/24099950/kinesis-freestyle-edge-rgb-split-ergonomic-gaming-keyboard-comfort-recommendation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
