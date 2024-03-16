@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Global Danger of Boring Buildings](https://www.wired.com/story/thomas-heatherwick-q-and-a-wired-health/)
- - [Researchers detail ArtPrompt, a jailbreak that uses ASCII art to elicit harmful responses from aligned LLMs such as GPT-3.5, GPT-4, Gemini, Claude, and Llama2 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240316/p2#a240316p2)
- - [Self-driving startup Waabi unveils Copilot4D, a generative AI model trained on lidar data to predict traffic flow around a vehicle 5-10 seconds into the future &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/240316/p1#a240316p1)<!-- TECH:END -->
+ - [Insurance Rates Are Soaring for US Homeowners in Climate Danger Zones](https://www.wired.com/story/insurance-rates-soaring-us-homeowners-climate-danger-zones-florida-louisiana-california-hurricane-flood/)
+ - [Twitch plans to remove Prime Video Watch Party from April 2, 2024; Watch Party launched in 2020, allowing streamers to broadcast Prime Video content to viewers &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/240316/p4#a240316p4)
+ - [Reddit&#39;s down round IPO is a signal that rationality is slowly returning to VC and could encourage other tech companies looking to go public do the same &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240316/p3#a240316p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
