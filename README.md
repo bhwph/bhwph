@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Elon Musk courted Don Lemon to show that X isn&#39;t a right-wing tool, as the breakup highlights Linda Yaccarino&#39;s thankless task of trying to assure brands &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/240316/p14#a240316p14)
- - [Best Deals on Smart Thermostats: Save Over $62 on Emerson, Honeywell, Google Nest and More     - CNET](https://www.cnet.com/deals/best-smart-thermostat-deals/#ftag=CAD590a51e)
- - [Google Fiber Review: Great for Gigabit Internet     - CNET](https://www.cnet.com/home/internet/google-fiber-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lotte Rub&amp;aelig;k, a psychologist who advises Meta on suicide prevention and self-harm, quits, accusing Meta of &quot;turning a blind eye&quot; to harmful content on Instagram &lpar;Miranda Bryant/The Guardian&rpar;](http://www.techmeme.com/240316/p15#a240316p15)
+ - [Oracle advises users delay Sonoma update due to Java issue](https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue?utm_medium=rss)
+ - [5 Best Tea Clubs and Subscriptions for 2024, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-tea-clubs-and-tea-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
