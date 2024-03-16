@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The TikTok divestment bill&#39;s progress slows down in the Senate, as Majority Leader Chuck Schumer has not decided whether to bring the bill to the floor &lpar;New York Times&rpar;](http://www.techmeme.com/240315/p33#a240315p33)
- - [Game developer Scopely says Monopoly Go crossed $2B in revenue in February 2024, just 10 months after launching and three months after hitting $1B in revenue &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240315/p32#a240315p32)
- - [Best Buy drops Apple&#39;s M1 MacBook Air to $649, lowest price ever](https://appleinsider.com/articles/24/03/16/best-buy-drops-apples-m1-macbook-air-to-649-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
+ - [Gumroad, an e-commerce company for creators, updates its rules to more strictly limit NSFW content, citing policies of payment processors like Stripe and PayPal &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240315/p34#a240315p34)
+ - [Is &#39;Bad&#39; Credit Holding You Back? 9 Side Effects of a Low Score and How to Fix It     - CNET](https://www.cnet.com/personal-finance/credit-cards/side-effects-of-bad-credit-score/#ftag=CAD590a51e)
+ - [The TikTok divestment bill&#39;s progress slows down in the Senate, as Majority Leader Chuck Schumer has not decided whether to bring the bill to the floor &lpar;New York Times&rpar;](http://www.techmeme.com/240315/p33#a240315p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
