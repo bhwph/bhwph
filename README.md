@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fake violinist at Walmart](http://9gag.com/gag/aKEbRQb)
+ - 6️⃣ [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
  - 😝 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
- - 👉 [Did you know that in Australia, you need to give a reason to withdraw your own money from a bank](http://9gag.com/gag/aEqeezn)<!-- MEMES:END -->
+ - 👉 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)<!-- MEMES:END -->
 
 --- 
 
