@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, March 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-16-2024)
  - [Xbox Insider Release Notes – Xbox App [2403.1000.48.0]](https://news.xbox.com/en-us/2024/03/15/xbox-insider-release-notes-xbox-app-2403-1000-48-0/)
- - [Chris Roberts says Star Citizen is finally pushing for the 1.0 &#39;finish line&#39;](https://www.pcgamer.com/games/mmo/chris-roberts-says-star-citizen-is-finally-pushing-for-the-10-finish-line)
- - [Pokémon Go Litten Community Day guide](https://www.polygon.com/pokemon-go-guide/24101872/litten-community-day-shiny-torracat-incineroar-moveset)<!-- GAME:END -->
+ - [Chris Roberts says Star Citizen is finally pushing for the 1.0 &#39;finish line&#39;](https://www.pcgamer.com/games/mmo/chris-roberts-says-star-citizen-is-finally-pushing-for-the-10-finish-line)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
