@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Best Organic Mattresses, Toppers, Bedding &lpar;2024&rpar;: Nontoxic and Natural](https://www.wired.com/story/best-organic-mattresses/)
- - [Review of Lenovo ThinkPad X1 Fold 16: sets the bar for foldables with a large 4:3 display and seamless centerfold, but the trackpad is prone to missed inputs &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240316/p7#a240316p7)
- - [Best Beats Studio Pro deal of 2024 brings $150 price drop](https://www.androidauthority.com/beats-studio-pro-headphones-deal-3426305/)<!-- TECH:END -->
+ - [Apple&#39;s Butterfly keyboard repair program winds down this year](https://appleinsider.com/articles/24/03/16/apples-butterfly-keyboard-repair-program-winds-down-this-year?utm_medium=rss)
+ - [9 Best Meal Kit Delivery Services &lpar;2024&rpar;: Blue Apron, Dinnerly, and More](https://www.wired.com/gallery/best-meal-kit-delivery-services/)
+ - [Sources: SpaceX&#39;s Starshield is building a network of spy satellites under a classified, $1.8B contract with the US spy agency National Reconnaissance Office &lpar;Reuters&rpar;](http://www.techmeme.com/240316/p10#a240316p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
