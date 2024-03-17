@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Protect the world&#39;s last tree from humanity in free tower defense From Ashes, Bloom](https://www.pcgamer.com/games/strategy/protect-the-worlds-last-tree-from-humanity-in-free-tower-defense-from-ashes-bloom)
  - [There&#39;s finally a picross game from legendary makers Jupiter on PC](https://www.pcgamer.com/games/puzzle/theres-finally-a-picross-game-from-legendary-makers-jupiter-on-pc)
- - [Manhunt’s greatest strength is letting Abraham Lincoln just be a bro](https://www.polygon.com/24100118/apple-tv-show-manhunt-review-new)
- - [The Best Mario Ever, Rise Of The Ronin, And More Of The Week&#39;s Hottest Takes](https://kotaku.com/kotaku-opinion-switch-2-rise-ronin-1851339586)<!-- GAME:END -->
+ - [Manhunt’s greatest strength is letting Abraham Lincoln just be a bro](https://www.polygon.com/24100118/apple-tv-show-manhunt-review-new)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
