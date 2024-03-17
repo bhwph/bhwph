@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chad Gina](http://9gag.com/gag/axyEEx2)
- - 😝 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
- - 👉 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)<!-- MEMES:END -->
+ - 6️⃣ [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
+ - 😝 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)
+ - 👉 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)<!-- MEMES:END -->
 
 --- 
 
