@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lotte Rub&amp;aelig;k, a psychologist who advises Meta on suicide prevention and self-harm, quits, accusing Meta of &quot;turning a blind eye&quot; to harmful content on Instagram &lpar;Miranda Bryant/The Guardian&rpar;](http://www.techmeme.com/240316/p15#a240316p15)
- - [Oracle advises users delay Sonoma update due to Java issue](https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue?utm_medium=rss)
- - [5 Best Tea Clubs and Subscriptions for 2024, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-tea-clubs-and-tea-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An excerpt from the book Behind the Startup details how an unnamed Silicon Valley-based unicorn&#39;s push for rapid growth left little time for actual engineering &lpar;Benjamin Shestakofsky/IEEE Spectrum&rpar;](http://www.techmeme.com/240316/p16#a240316p16)
+ - [Epic Games vs Apple set to restart in Australia with Google in tow](https://appleinsider.com/articles/24/03/16/epic-games-vs-apple-set-to-restart-in-australia-with-google-in-tow?utm_medium=rss)
+ - [Lotte Rub&amp;aelig;k, a psychologist who advises Meta on suicide prevention and self-harm, quits, accusing Meta of &quot;turning a blind eye&quot; to harmful content on Instagram &lpar;Miranda Bryant/The Guardian&rpar;](http://www.techmeme.com/240316/p15#a240316p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
