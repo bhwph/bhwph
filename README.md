@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
- - 😝 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
- - 👉 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)<!-- MEMES:END -->
+ - 6️⃣ [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
+ - 😝 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
+ - 👉 [A 23-year-old woman was arrested one hour after she uploaded a video to social media where she talked about her preparation for a school shooting in Vaasa, Finland.](http://9gag.com/gag/a34vPM8)<!-- MEMES:END -->
 
 --- 
 
