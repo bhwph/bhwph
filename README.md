@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
- - 😝 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)
- - 👉 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)<!-- MEMES:END -->
+ - 6️⃣ [What an impersonation](http://9gag.com/gag/a6ZrwPN)
+ - 😝 [Helldivers 2 bans external politics from the game - F**kYeah!](http://9gag.com/gag/aNDmoO0)
+ - 👉 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)<!-- MEMES:END -->
 
 --- 
 
