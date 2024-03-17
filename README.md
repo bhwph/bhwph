@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iMac 24-inch plunges to $849.99 at Best Buy today only](https://appleinsider.com/articles/24/03/17/apples-imac-24-inch-plunges-to-84999-at-best-buy-today-only?utm_medium=rss)
  - [A look at the collapse of dating apps&#39; usability, which can be blamed on the paid subscription model and the near monopoly the apps have over the dating world &lpar;Magdalene J. Taylor/New York Times&rpar;](http://www.techmeme.com/240317/p4#a240317p4)
- - [In a company blog post, Broadcom CEO Hock Tan acknowledged &quot;unease&quot; among VMware customers and partners after making sweeping post-acquisition changes &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/240317/p3#a240317p3)
- - [FTX&#39;s collapse exposed problems with crypto that are just as relevant today, including a lack of decentralization and companies&#39; persistent regulatory battles &lpar;Joshua Oliver/Financial Times&rpar;](http://www.techmeme.com/240317/p2#a240317p2)<!-- TECH:END -->
+ - [In a company blog post, Broadcom CEO Hock Tan acknowledged &quot;unease&quot; among VMware customers and partners after making sweeping post-acquisition changes &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/240317/p3#a240317p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
