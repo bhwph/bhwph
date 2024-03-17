@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone put a Breakout clone in Google Calendar that cancels your meetings after you bust them to bits](https://www.pcgamer.com/games/action/someone-put-a-breakout-clone-in-google-calendar-that-cancels-your-meetings-after-you-bust-them-to-bits)
- - [Commonwealth ships sail into World of Warships](https://www.pcgamer.com/games/action/commonwealth-ships-sail-into-world-of-warships)
- - [There&#39;s finally a demo for the Dark Souls 3 mod that transforms the whole game into a bizarro fan sequel to the series](https://www.pcgamer.com/games/rpg/theres-finally-a-demo-for-the-dark-souls-3-mod-that-transforms-the-whole-game-into-a-bizarro-fan-sequel-to-the-series)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, March 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-17-2024)
+ - [Much-loved board game Dune: Imperium has a digital version now, and it&#39;s getting rave response](https://www.pcgamer.com/games/board-games/much-loved-board-game-dune-imperium-has-a-digital-version-now-and-its-getting-rave-response)
+ - [Duck Game developer not fazed by potential publisher delisting: &quot;I will never stop updating it as long as my hands and eyes work&quot;](https://www.pcgamer.com/games/duck-game-developer-not-fazed-by-potential-publisher-delisting-i-will-never-stop-updating-it-as-long-as-my-hands-and-eyes-work)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
