@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Xbox Cloud Gaming Controllers and Accessories in 2024     - CNET](https://www.cnet.com/tech/mobile/best-controllers-and-accessories-for-xbox-cloud-gaming/#ftag=CAD590a51e)
- - [An excerpt from the book Behind the Startup details how an unnamed Silicon Valley-based unicorn&#39;s push for rapid growth left little time for actual engineering &lpar;Benjamin Shestakofsky/IEEE Spectrum&rpar;](http://www.techmeme.com/240316/p16#a240316p16)
- - [Epic Games vs Apple set to restart in Australia with Google in tow](https://appleinsider.com/articles/24/03/16/epic-games-vs-apple-set-to-restart-in-australia-with-google-in-tow?utm_medium=rss)<!-- TECH:END -->
+ - [A profile of former Autonomy CEO Mike Lynch, whose trial begins on March 18 in SF, where federal prosecutors have accused him of defrauding HP of billions &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/240317/p1#a240317p1)
+ - [Apple researchers detail MM1, a series of multimodal LLMs with up to 30B parameters they say achieve state-of-the-art performance across multiple AI benchmarks &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240316/p18#a240316p18)
+ - [Epic&#39;s antitrust cases against Apple and Google in Australia, which were paused in April 2021, are set to be heard at the same time over the next five months &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/240316/p17#a240316p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
