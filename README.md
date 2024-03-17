@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [There&#39;s finally a picross game from legendary makers Jupiter on PC](https://www.pcgamer.com/games/puzzle/theres-finally-a-picross-game-from-legendary-makers-jupiter-on-pc)
  - [Manhunt’s greatest strength is letting Abraham Lincoln just be a bro](https://www.polygon.com/24100118/apple-tv-show-manhunt-review-new)
- - [The Best Mario Ever, Rise Of The Ronin, And More Of The Week&#39;s Hottest Takes](https://kotaku.com/kotaku-opinion-switch-2-rise-ronin-1851339586)
- - [How 2024 became the year of open-world survival crafting games](https://www.polygon.com/24099909/open-world-survival-crafting-games-2024)<!-- GAME:END -->
+ - [The Best Mario Ever, Rise Of The Ronin, And More Of The Week&#39;s Hottest Takes](https://kotaku.com/kotaku-opinion-switch-2-rise-ronin-1851339586)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
