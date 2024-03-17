@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
- - 😝 [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)
- - 👉 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)<!-- MEMES:END -->
+ - 6️⃣ [She&#39;s perfect](http://9gag.com/gag/a6ZrrgL)
+ - 😝 [Man wanted more space in his balcony, so he decided to remove the columns](http://9gag.com/gag/aXPZ0ND)
+ - 👉 [A typical day on the New York subway.](http://9gag.com/gag/a04m2zL)<!-- MEMES:END -->
 
 --- 
 
