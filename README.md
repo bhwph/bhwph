@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I guess there is a difference](http://9gag.com/gag/aO8oKBR)
- - 😝 [They always go to insults when they lose the argument.](http://9gag.com/gag/aKEbbRZ)
- - 👉 [Remember](http://9gag.com/gag/a9yjbnD)<!-- MEMES:END -->
+ - 6️⃣ [Did you know that in Australia, you need to give a reason to withdraw your own money from a bank](http://9gag.com/gag/aEqeezn)
+ - 😝 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)
+ - 👉 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)<!-- MEMES:END -->
 
 --- 
 
