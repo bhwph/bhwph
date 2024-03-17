@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is already faltering at its seven year update promise](https://www.androidauthority.com/seven-year-updates-broken-promises-3425531/)
- - [Seasonal Allergies Ruining Your Sleep? 8 Tips to Try for Relief     - CNET](https://www.cnet.com/health/sleep/8-tips-to-stop-allergies-from-ruining-your-sleep/#ftag=CAD590a51e)
- - [What Is Google One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-google-one/)<!-- TECH:END -->
+ - [Next-gen CarPlay battles Android Automotive for carmakers, drivers](https://appleinsider.com/articles/24/03/17/next-gen-carplay-battles-android-automotive-for-carmakers-drivers?utm_medium=rss)
+ - [If you&#39;re reliant on Java, you shouldn&#39;t update to macOS Sonoma 14.4 yet](https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue?utm_medium=rss)
+ - [Apple gearing up for fall launch of new two new AirPods models](https://appleinsider.com/articles/24/03/17/apple-prepares-massive-airpods-production-for-fall-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
