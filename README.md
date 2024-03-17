@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dating diplomacy after your thirty years](http://9gag.com/gag/a4Ppp3Q)
- - 😝 [This information is important. You&#39;re welcome](http://9gag.com/gag/avy2pGM)
- - 👉 [I guess there is a difference](http://9gag.com/gag/aO8oKBR)<!-- MEMES:END -->
+ - 6️⃣ [Understandable](http://9gag.com/gag/aRB6wgq)
+ - 😝 [A typical day on the New York subway.](http://9gag.com/gag/a04m2zL)
+ - 👉 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)<!-- MEMES:END -->
 
 --- 
 
