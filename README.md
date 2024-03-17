@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What an impersonation](http://9gag.com/gag/a6ZrwPN)
- - 😝 [Helldivers 2 bans external politics from the game - F**kYeah!](http://9gag.com/gag/aNDmoO0)
- - 👉 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)<!-- MEMES:END -->
+ - 6️⃣ [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
+ - 😝 [A 23-year-old woman was arrested one hour after she uploaded a video to social media where she talked about her preparation for a school shooting in Vaasa, Finland.](http://9gag.com/gag/a34vPM8)
+ - 👉 [Cutoff](http://9gag.com/gag/a1mpvMR)<!-- MEMES:END -->
 
 --- 
 
