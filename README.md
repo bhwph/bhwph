@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Automate bases to explore and terraform a huge open world in Eden Crafters](https://www.pcgamer.com/games/survival-crafting/automate-bases-to-explore-and-terraform-a-huge-open-world-in-eden-crafters)
  - [Protect the world&#39;s last tree from humanity in free tower defense From Ashes, Bloom](https://www.pcgamer.com/games/strategy/protect-the-worlds-last-tree-from-humanity-in-free-tower-defense-from-ashes-bloom)
- - [There&#39;s finally a picross game from legendary makers Jupiter on PC](https://www.pcgamer.com/games/puzzle/theres-finally-a-picross-game-from-legendary-makers-jupiter-on-pc)
- - [Manhunt’s greatest strength is letting Abraham Lincoln just be a bro](https://www.polygon.com/24100118/apple-tv-show-manhunt-review-new)<!-- GAME:END -->
+ - [There&#39;s finally a picross game from legendary makers Jupiter on PC](https://www.pcgamer.com/games/puzzle/theres-finally-a-picross-game-from-legendary-makers-jupiter-on-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
