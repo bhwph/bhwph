@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Did you know that in Australia, you need to give a reason to withdraw your own money from a bank](http://9gag.com/gag/aEqeezn)
- - 😝 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)
- - 👉 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)<!-- MEMES:END -->
+ - 6️⃣ [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
+ - 😝 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
+ - 👉 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)<!-- MEMES:END -->
 
 --- 
 
