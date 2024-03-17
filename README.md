@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She&#39;s perfect](http://9gag.com/gag/a6ZrrgL)
- - 😝 [Man wanted more space in his balcony, so he decided to remove the columns](http://9gag.com/gag/aXPZ0ND)
- - 👉 [A typical day on the New York subway.](http://9gag.com/gag/a04m2zL)<!-- MEMES:END -->
+ - 6️⃣ [Dating diplomacy after your thirty years](http://9gag.com/gag/a4Ppp3Q)
+ - 😝 [This information is important. You&#39;re welcome](http://9gag.com/gag/avy2pGM)
+ - 👉 [I guess there is a difference](http://9gag.com/gag/aO8oKBR)<!-- MEMES:END -->
 
 --- 
 
