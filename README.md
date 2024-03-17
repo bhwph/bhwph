@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Manhunt’s greatest strength is letting Abraham Lincoln just be a bro](https://www.polygon.com/24100118/apple-tv-show-manhunt-review-new)
  - [The Best Mario Ever, Rise Of The Ronin, And More Of The Week&#39;s Hottest Takes](https://kotaku.com/kotaku-opinion-switch-2-rise-ronin-1851339586)
- - [How 2024 became the year of open-world survival crafting games](https://www.polygon.com/24099909/open-world-survival-crafting-games-2024)
- - [Star Wars Battlefront Classic Collection incorporated a modder&#39;s work after Aspyr promised it would not: &#39;This release has been a total mess&#39;](https://www.pcgamer.com/games/action/star-wars-battlefront-classic-collection-incorporated-a-modders-work-after-aspyr-promised-it-would-not-this-release-has-been-a-total-mess)<!-- GAME:END -->
+ - [How 2024 became the year of open-world survival crafting games](https://www.polygon.com/24099909/open-world-survival-crafting-games-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
