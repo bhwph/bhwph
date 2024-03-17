@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Battlefront Classic Collection incorporated a modder&#39;s work after Aspyr promised it would not: &#39;This release has been a total mess&#39;](https://www.pcgamer.com/games/action/star-wars-battlefront-classic-collection-incorporated-a-modders-work-after-aspyr-promised-it-would-not-this-release-has-been-a-total-mess)
- - [Today&#39;s Wordle answer for Sunday, March 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-17-2024)
- - [Much-loved board game Dune: Imperium has a digital version now, and it&#39;s getting rave response](https://www.pcgamer.com/games/board-games/much-loved-board-game-dune-imperium-has-a-digital-version-now-and-its-getting-rave-response)<!-- GAME:END -->
+ - [The Best Mario Ever, Rise Of The Ronin, And More Of The Week&#39;s Hottest Takes](https://kotaku.com/kotaku-opinion-switch-2-rise-ronin-1851339586)
+ - [How 2024 became the year of open-world survival crafting games](https://www.polygon.com/24099909/open-world-survival-crafting-games-2024)
+ - [Star Wars Battlefront Classic Collection incorporated a modder&#39;s work after Aspyr promised it would not: &#39;This release has been a total mess&#39;](https://www.pcgamer.com/games/action/star-wars-battlefront-classic-collection-incorporated-a-modders-work-after-aspyr-promised-it-would-not-this-release-has-been-a-total-mess)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
