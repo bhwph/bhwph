@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17.4: How to Improve Your iPhone&#39;s Stolen Device Protection     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-how-to-improve-your-iphones-stolen-device-protection/#ftag=CAD590a51e)
- - [How to Free Up Space in Gmail, Google Photos, and Google Drive](https://www.wired.com/story/how-to-free-up-storage-space-in-gmail/)
- - [Best Samsung Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AirTag anti-stalking class-action lawsuit given the green light](https://appleinsider.com/articles/24/03/17/airtag-anti-stalking-class-action-lawsuit-given-the-green-light?utm_medium=rss)
+ - [How China&#39;s spending may swamp India&#39;s chip ambitions; TrendForce: China&#39;s share of global mature-node production will grow from 31% in 2023 to 39% in 2027 &lpar;Megha Mandavia/Wall Street Journal&rpar;](http://www.techmeme.com/240317/p6#a240317p6)
+ - [A better way to find stuff to watch](https://www.theverge.com/24102242/likewise-movie-recommendations-apple-car-proton-mail-evernote-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
