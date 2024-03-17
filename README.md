@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Next-gen CarPlay battles Android Automotive for carmakers, drivers](https://appleinsider.com/articles/24/03/17/next-gen-carplay-battles-android-automotive-for-carmakers-drivers?utm_medium=rss)
- - [If you&#39;re reliant on Java, you shouldn&#39;t update to macOS Sonoma 14.4 yet](https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue?utm_medium=rss)
- - [Apple gearing up for fall launch of new two new AirPods models](https://appleinsider.com/articles/24/03/17/apple-prepares-massive-airpods-production-for-fall-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Best Google Pixel Deals: Big Savings on Pixel Fold, Pixel 8, Pixel 7 and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
+ - [xAI open sources the base model weights and network architecture of Grok-1, a 314B parameter Mixture-of-Experts model, under the Apache 2.0 license &lpar;x.ai&rpar;](http://www.techmeme.com/240317/p11#a240317p11)
+ - [Sources: Reddit&#39;s IPO is currently between four and five times oversubscribed, making it more likely the company will reach its targeted $6.5B valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/240317/p10#a240317p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
