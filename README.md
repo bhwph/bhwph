@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Apex Legends postpones competition amid hacking concerns](https://www.theverge.com/2024/3/18/24104666/apex-legends-postpones-algs-competition-hack-concerns)
- - [Today’s Supreme Court Hearing Addresses a Far-Right Boogeyman](https://www.wired.com/story/scotus-social-media-murthy-missouri-conspiracies/)<!-- TECH:END -->
+ - [TikTok launches a new creator monetization program called Creator Rewards, which will use four core metrics to determine payout, including &quot;search value&quot; &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240318/p21#a240318p21)
+ - [Homeland Security is testing AI to help with immigration, trafficking investigations, and disaster relief](https://www.theverge.com/2024/3/18/24104843/dhs-ai-pilot-programs-chatgpt-openai-anthropic-meta)
+ - [Apple is already being wierdly criticized for an AI effort that hasn&#39;t launched yet](https://appleinsider.com/articles/24/03/18/apple-is-already-being-wierdly-criticized-for-an-ai-effort-that-hasnt-launched-yet?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
