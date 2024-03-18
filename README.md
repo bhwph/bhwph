@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Potion event recipes and market news list for Genshin Impact](https://www.polygon.com/genshin-impact-guides/24101916/potions-event-recipes-request-beidou-market-news-alchemical-ascension)
- - [What is going on with WB Games’ strategy?](https://www.polygon.com/24102365/warner-bros-games-strategy-live-service-adult-swim-games)
- - [&#39;It&#39;s just cosmetics&#39; monetisation doesn&#39;t quite hold up anymore, especially now it&#39;s started to make fully-priced games worse](https://www.pcgamer.com/gaming-industry/its-just-cosmetics-monetisation-doesnt-quite-hold-up-anymore-especially-now-its-started-to-make-fully-priced-games-worse)<!-- GAME:END -->
+ - [FF7 Rebirth’s Best Materia For Buffing Your Party](https://kotaku.com/final-fantasy-7-rebirth-ff7-materia-buffing-first-strik-1851345892)
+ - [Get Five Of 2023&#39;s Best Indie Games At Nearly 50 Percent Off](https://kotaku.com/steam-spring-sale-igf-2024-narrative-bundle-venba-1851345783)
+ - [Save $20 on pre-orders for Princess Peach Showtime!](https://www.polygon.com/deals/24105003/princess-peach-showtime-nintendo-switch-qvc-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
