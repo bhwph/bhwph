@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thought AirPods were popular? Apple has even loftier ambitions for its 2024 earbuds](https://www.androidauthority.com/new-airpods-coming-this-year-3426514/)
- - [Behind the rise of AI ambient clinical documentation tools, which let doctors record and automatically turn conversations with patients into clinical notes &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240318/p4#a240318p4)
- - [The first foldable iPhone could break a major iPhone tradition](https://www.androidauthority.com/apple-first-foldable-iphone-launch-3426512/)<!-- TECH:END -->
+ - [Time to save up: PS5 Pro could arrive this year with way more power under the hood](https://www.androidauthority.com/sony-ps5-pro-leaked-specifcations-3426539/)
+ - [Apple in talks to license Google Gemini AI for iPhones](https://appleinsider.com/articles/24/03/18/apple-in-talks-to-licence-google-gemini-ai-for-iphones?utm_medium=rss)
+ - [A profile of Reddit co-founder Steve Huffman, who blends the personal and professional as CEO and must navigate a tepid IPO market for the unprofitable company &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/240318/p7#a240318p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
