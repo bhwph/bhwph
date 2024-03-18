@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)
- - 😝 [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)
- - 👉 [German police take out the trash](http://9gag.com/gag/aoym0Ze)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 😝 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
+ - 👉 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)<!-- MEMES:END -->
 
 --- 
 
