@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EVs With Built-In Camera Drones Have Already Landed in China](https://www.wired.com/story/evs-with-built-in-camera-drones-have-already-landed-in-china/)
- - [Sources: Apple and Google are in active talks to let Gemini power some new features coming to iPhone in 2024; Apple also held talks with OpenAI to use its model &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240318/p2#a240318p2)
- - [Best Keto Meal Delivery Services of 2024     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Thought AirPods were popular? Apple has even loftier ambitions for its 2024 earbuds](https://www.androidauthority.com/new-airpods-coming-this-year-3426514/)
+ - [Behind the rise of AI ambient clinical documentation tools, which let doctors record and automatically turn conversations with patients into clinical notes &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240318/p4#a240318p4)
+ - [The first foldable iPhone could break a major iPhone tradition](https://www.androidauthority.com/apple-first-foldable-iphone-launch-3426512/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
