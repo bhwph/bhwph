@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Time to save up: PS5 Pro could arrive this year with way more power under the hood](https://www.androidauthority.com/sony-ps5-pro-leaked-specifcations-3426539/)
- - [Apple in talks to license Google Gemini AI for iPhones](https://appleinsider.com/articles/24/03/18/apple-in-talks-to-licence-google-gemini-ai-for-iphones?utm_medium=rss)
- - [A profile of Reddit co-founder Steve Huffman, who blends the personal and professional as CEO and must navigate a tepid IPO market for the unprofitable company &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/240318/p7#a240318p7)<!-- TECH:END -->
+ - [The US says Poland, Ireland, Finland, Germany, Japan, and South Korea joined the US-led anti-spyware pact; Five Eyes and six countries signed the pledge in 2023 &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/240318/p12#a240318p12)
+ - [Did you know: Samsung makes a lot of money from iPhones](https://www.androidauthority.com/did-you-know-samsung-apple-partnership-3426411/)
+ - [Apple previews new Shanghai store ahead of Thursday&#39;s opening](https://appleinsider.com/articles/24/03/18/apple-previews-new-shanghai-store-ahead-of-thursdays-opening?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
