@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok launches a new creator monetization program called Creator Rewards, which will use four core metrics to determine payout, including &quot;search value&quot; &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240318/p21#a240318p21)
- - [Homeland Security is testing AI to help with immigration, trafficking investigations, and disaster relief](https://www.theverge.com/2024/3/18/24104843/dhs-ai-pilot-programs-chatgpt-openai-anthropic-meta)
- - [Apple is already being wierdly criticized for an AI effort that hasn&#39;t launched yet](https://appleinsider.com/articles/24/03/18/apple-is-already-being-wierdly-criticized-for-an-ai-effort-that-hasnt-launched-yet?utm_medium=rss)<!-- TECH:END -->
+ - [The return of Gamergate is smaller and sadder](https://www.theverge.com/2024/3/18/24104799/gamergate-2024-sweet-baby-inc-diversity)
+ - [Pixel 8 drops below $500 for the first time](https://www.theverge.com/2024/3/18/24104732/google-pixel-8-tp-link-kasa-smart-bulbs-apple-tv-4k-tcl-qm8-deal-sale)
+ - [Microsoft is holding a Windows and Surface AI event on May 20; sources: the event will include the consumer versions of Surface Pro 10 and Surface Laptop 6 &lpar;The Verge&rpar;](http://www.techmeme.com/240318/p26#a240318p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
