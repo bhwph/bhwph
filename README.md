@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of Treasure&#39;s all-time-great beat &#39;em ups owes its inspiration to a PC sidescroller from a developer mostly known for schoolgirl fighting games](https://www.pcgamer.com/games/action/one-of-treasures-all-time-great-beat-em-ups-owes-its-inspiration-to-a-pc-sidescroller-from-a-developer-mostly-known-for-schoolgirl-fighting-games)
- - [Nurture A Brave New World in Lightyear Frontier, Coming to Xbox Game Pass on March 19](https://news.xbox.com/en-us/2024/03/18/lightyear-frontier-coming-to-xbox-game-pass-on-march-19/)
- - [Remembering the cringe surrounding Super Princess Peach](https://www.polygon.com/nintendo/24102309/super-princess-peach-showtime-nintendo-lookback)<!-- GAME:END -->
+ - [Potion event recipes and market news list for Genshin Impact](https://www.polygon.com/genshin-impact-guides/24101916/potions-event-recipes-request-beidou-market-news-alchemical-ascension)
+ - [What is going on with WB Games’ strategy?](https://www.polygon.com/24102365/warner-bros-games-strategy-live-service-adult-swim-games)
+ - [&#39;It&#39;s just cosmetics&#39; monetisation doesn&#39;t quite hold up anymore, especially now it&#39;s started to make fully-priced games worse](https://www.pcgamer.com/gaming-industry/its-just-cosmetics-monetisation-doesnt-quite-hold-up-anymore-especially-now-its-started-to-make-fully-priced-games-worse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
