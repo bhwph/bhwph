@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Confuse them with their own bullsheet` - Sun Tzu, maybe](http://9gag.com/gag/ajPQr4p)
- - 😝 [Helldivers 2 bans external politics from the game - F**kYeah!](http://9gag.com/gag/aNDmoO0)
- - 👉 [You will be missed.](http://9gag.com/gag/ary1pBB)<!-- MEMES:END -->
+ - 6️⃣ [German police take out the trash](http://9gag.com/gag/aoym0Ze)
+ - 😝 [Lord of the sign of Labyrinth](http://9gag.com/gag/axyE2Ep)
+ - 👉 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)<!-- MEMES:END -->
 
 --- 
 
