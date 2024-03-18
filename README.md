@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cities: Skylines 2 will finally start getting modding support, alongside some performance fixes and its first wave of paid DLC](https://www.pcgamer.com/games/city-builder/cities-skylines-2-will-finally-start-getting-modding-support-alongside-some-performance-fixes-and-its-first-wave-of-paid-dlc)
- - [Billions from the CHIPS Act is soon to begin flowing with Samsung, Intel and TSMC set to benefit](https://www.pcgamer.com/hardware/billions-from-the-chips-act-is-soon-to-begin-flowing-with-samsung-intel-and-tsmc-set-to-benefit)
- - [Today&#39;s Wordle answer for Monday, March 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-18-2024)<!-- GAME:END -->
+ - [Library heists, bandit bribes, and multiple orgasms: how I became a happy king in medieval strategy sim Norland](https://www.pcgamer.com/games/strategy/library-heists-bandit-bribes-and-multiple-orgasms-how-i-became-a-happy-king-in-medieval-strategy-sim-norland)
+ - [Netflix’s 3 Body Problem, X-Men ’97, Halo’s season 2 finale, and more new TV this week](https://www.polygon.com/2024/3/18/24081654/netflix-3-body-problem-new-tv-episode-x-men-97-halo)
+ - [Square Enix doesn&#39;t do big Final Fantasy discounts often, but the exceptional XIII trilogy is less than half price for the next few days](https://www.pcgamer.com/games/rpg/square-enix-doesnt-do-big-final-fantasy-discounts-often-but-the-exceptional-xiii-trilogy-is-less-than-half-price-for-the-next-few-days)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
