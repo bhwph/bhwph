@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Automate bases to explore and terraform a huge open world in Eden Crafters](https://www.pcgamer.com/games/survival-crafting/automate-bases-to-explore-and-terraform-a-huge-open-world-in-eden-crafters)
- - [Protect the world&#39;s last tree from humanity in free tower defense From Ashes, Bloom](https://www.pcgamer.com/games/strategy/protect-the-worlds-last-tree-from-humanity-in-free-tower-defense-from-ashes-bloom)
- - [There&#39;s finally a picross game from legendary makers Jupiter on PC](https://www.pcgamer.com/games/puzzle/theres-finally-a-picross-game-from-legendary-makers-jupiter-on-pc)<!-- GAME:END -->
+ - [Blood Bowl 3 gets Wood Elves, Resurrection mode, and a new roadmap](https://www.pcgamer.com/games/strategy/blood-bowl-3-gets-wood-elves-resurrection-mode-and-a-new-roadmap)
+ - [The Asus ROG NUC is launching soon, and it ain&#39;t cheap](https://www.pcgamer.com/hardware/gaming-pcs/the-asus-rog-nuc-is-launching-soon-and-it-aint-cheap)
+ - [Five new Steam games you probably missed &lpar;March 18, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-18-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
