@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Library heists, bandit bribes, and multiple orgasms: how I became a happy king in medieval strategy sim Norland](https://www.pcgamer.com/games/strategy/library-heists-bandit-bribes-and-multiple-orgasms-how-i-became-a-happy-king-in-medieval-strategy-sim-norland)
- - [Netflix’s 3 Body Problem, X-Men ’97, Halo’s season 2 finale, and more new TV this week](https://www.polygon.com/2024/3/18/24081654/netflix-3-body-problem-new-tv-episode-x-men-97-halo)
- - [Square Enix doesn&#39;t do big Final Fantasy discounts often, but the exceptional XIII trilogy is less than half price for the next few days](https://www.pcgamer.com/games/rpg/square-enix-doesnt-do-big-final-fantasy-discounts-often-but-the-exceptional-xiii-trilogy-is-less-than-half-price-for-the-next-few-days)<!-- GAME:END -->
+ - [One of Treasure&#39;s all-time-great beat &#39;em ups owes its inspiration to a PC sidescroller from a developer mostly known for schoolgirl fighting games](https://www.pcgamer.com/games/action/one-of-treasures-all-time-great-beat-em-ups-owes-its-inspiration-to-a-pc-sidescroller-from-a-developer-mostly-known-for-schoolgirl-fighting-games)
+ - [Nurture A Brave New World in Lightyear Frontier, Coming to Xbox Game Pass on March 19](https://news.xbox.com/en-us/2024/03/18/lightyear-frontier-coming-to-xbox-game-pass-on-march-19/)
+ - [Remembering the cringe surrounding Super Princess Peach](https://www.polygon.com/nintendo/24102309/super-princess-peach-showtime-nintendo-lookback)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
