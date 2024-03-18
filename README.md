@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They answer everything but the question](http://9gag.com/gag/a1mpe6G)
- - 😝 [You can&#39;t drink water because they feel threatened.](http://9gag.com/gag/a1mpe8P)
- - 👉 [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)<!-- MEMES:END -->
+ - 6️⃣ [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
+ - 😝 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)
+ - 👉 [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)<!-- MEMES:END -->
 
 --- 
 
