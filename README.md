@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube tells creators to label videos that have AI-generated content](https://www.androidauthority.com/youtube-introduces-new-labels-for-ai-content-3426735/)
- - [Carlsmed, which is developing an AI-powered personalized surgery tool, raised a $52.5M Series C co-led by B Capital and US Venture Partners &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](http://www.techmeme.com/240318/p31#a240318p31)
- - [Cyberpunk is out and solarpunk is in, according to Figma’s CEO](https://www.theverge.com/2024/3/18/24104890/figma-ceo-dylan-field-cyberpunk-solarpunk-trends-sxsw-2024)<!-- TECH:END -->
+ - [What is a spatial video and is it available on Android?](https://www.androidauthority.com/what-is-a-spatial-video-3426764/)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Nvidia unveils the Earth-2 platform, letting users create AI-powered climate simulations ranging from global atmospheric conditions to local weather phenomena &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240318/p34#a240318p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
