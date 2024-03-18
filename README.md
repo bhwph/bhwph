@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
- - 😝 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)
- - 👉 [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)<!-- MEMES:END -->
+ - 6️⃣ [German police take out the trash](http://9gag.com/gag/aoym0Ze)
+ - 😝 [They answer everything but the question](http://9gag.com/gag/a1mpe6G)
+ - 👉 [Please learn!](http://9gag.com/gag/aE0dz0M)<!-- MEMES:END -->
 
 --- 
 
