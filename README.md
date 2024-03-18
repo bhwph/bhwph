@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you lie on your resume](http://9gag.com/gag/aLn6PRP)
- - 😝 [Pleasant dreams](http://9gag.com/gag/ae9K03p)
- - 👉 [Get the f*ck up, Swede!](http://9gag.com/gag/aqy4mvp)<!-- MEMES:END -->
+ - 6️⃣ [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)
+ - 😝 [A 23-year-old woman was arrested one hour after she uploaded a video to social media where she talked about her preparation for a school shooting in Vaasa, Finland.](http://9gag.com/gag/a34vPM8)
+ - 👉 [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)<!-- MEMES:END -->
 
 --- 
 
