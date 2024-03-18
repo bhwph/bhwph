@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The return of Gamergate is smaller and sadder](https://www.theverge.com/2024/3/18/24104799/gamergate-2024-sweet-baby-inc-diversity)
- - [Pixel 8 drops below $500 for the first time](https://www.theverge.com/2024/3/18/24104732/google-pixel-8-tp-link-kasa-smart-bulbs-apple-tv-4k-tcl-qm8-deal-sale)
- - [Microsoft is holding a Windows and Surface AI event on May 20; sources: the event will include the consumer versions of Surface Pro 10 and Surface Laptop 6 &lpar;The Verge&rpar;](http://www.techmeme.com/240318/p26#a240318p26)<!-- TECH:END -->
+ - [YouTube tells creators to label videos that have AI-generated content](https://www.androidauthority.com/youtube-introduces-new-labels-for-ai-content-3426735/)
+ - [Carlsmed, which is developing an AI-powered personalized surgery tool, raised a $52.5M Series C co-led by B Capital and US Venture Partners &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](http://www.techmeme.com/240318/p31#a240318p31)
+ - [Cyberpunk is out and solarpunk is in, according to Figma’s CEO](https://www.theverge.com/2024/3/18/24104890/figma-ceo-dylan-field-cyberpunk-solarpunk-trends-sxsw-2024)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
