@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The M1 MacBook Air is not only still around, it’s cheaper than ever](https://www.theverge.com/2024/3/15/24101727/apple-m1-macbook-air-laptop-walmart)
- - [FluffCo Is Celebrating Sleep Week With Its Bedding Sale     - CNET](https://www.cnet.com/deals/fluffco-is-celebrating-sleep-week-with-its-bedding-sale/#ftag=CAD590a51e)
- - [A profile of server maker Supermicro, whose flexibility in offering custom servers has been an advantage in the AI boom, as the company joins S&amp;P 500 on Monday &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240317/p12#a240317p12)<!-- TECH:END -->
+ - [To settle a class action suit, Uber agreed to pay ~$178M to compensate taxi drivers in Australia who claimed they lost income when Uber entered the local market &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/240317/p14#a240317p14)
+ - [Experts say forcing a TikTok US sale within 180 days, as the bill requires, would be too complicated and costly, and likely mean the app would be banned &lpar;Washington Post&rpar;](http://www.techmeme.com/240317/p13#a240317p13)
+ - [The M1 MacBook Air is not only still around, it’s cheaper than ever](https://www.theverge.com/2024/3/15/24101727/apple-m1-macbook-air-laptop-walmart)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
