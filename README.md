@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US says Poland, Ireland, Finland, Germany, Japan, and South Korea joined the US-led anti-spyware pact; Five Eyes and six countries signed the pledge in 2023 &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/240318/p12#a240318p12)
- - [Did you know: Samsung makes a lot of money from iPhones](https://www.androidauthority.com/did-you-know-samsung-apple-partnership-3426411/)
- - [Apple previews new Shanghai store ahead of Thursday&#39;s opening](https://appleinsider.com/articles/24/03/18/apple-previews-new-shanghai-store-ahead-of-thursdays-opening?utm_medium=rss)<!-- TECH:END -->
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [Apex Legends postpones competition amid hacking concerns](https://www.theverge.com/2024/3/18/24104666/apex-legends-postpones-algs-competition-hack-concerns)
+ - [Today’s Supreme Court Hearing Addresses a Far-Right Boogeyman](https://www.wired.com/story/scotus-social-media-murthy-missouri-conspiracies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
