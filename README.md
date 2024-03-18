@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)
- - 😝 [A 23-year-old woman was arrested one hour after she uploaded a video to social media where she talked about her preparation for a school shooting in Vaasa, Finland.](http://9gag.com/gag/a34vPM8)
- - 👉 [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)<!-- MEMES:END -->
+ - 6️⃣ [They answer everything but the question](http://9gag.com/gag/a1mpe6G)
+ - 😝 [You can&#39;t drink water because they feel threatened.](http://9gag.com/gag/a1mpe8P)
+ - 👉 [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)<!-- MEMES:END -->
 
 --- 
 
