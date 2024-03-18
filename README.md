@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)
- - 😝 [Cutoff](http://9gag.com/gag/a1mpvMR)
- - 👉 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)<!-- MEMES:END -->
+ - 6️⃣ [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
+ - 😝 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
+ - 👉 [But what if they gain weig... Nevermind](http://9gag.com/gag/aVvjX4d)<!-- MEMES:END -->
 
 --- 
 
