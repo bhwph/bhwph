@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [German police take out the trash](http://9gag.com/gag/aoym0Ze)
- - 😝 [Lord of the sign of Labyrinth](http://9gag.com/gag/axyE2Ep)
- - 👉 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)<!-- MEMES:END -->
+ - 6️⃣ [When you lie on your resume](http://9gag.com/gag/aLn6PRP)
+ - 😝 [Pleasant dreams](http://9gag.com/gag/ae9K03p)
+ - 👉 [Get the f*ck up, Swede!](http://9gag.com/gag/aqy4mvp)<!-- MEMES:END -->
 
 --- 
 
