@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [German police take out the trash](http://9gag.com/gag/aoym0Ze)
- - 😝 [They answer everything but the question](http://9gag.com/gag/a1mpe6G)
- - 👉 [Please learn!](http://9gag.com/gag/aE0dz0M)<!-- MEMES:END -->
+ - 6️⃣ [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)
+ - 😝 [Cutoff](http://9gag.com/gag/a1mpvMR)
+ - 👉 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)<!-- MEMES:END -->
 
 --- 
 
