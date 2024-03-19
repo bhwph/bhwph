@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Billions must game](http://9gag.com/gag/a34vjX5)
- - 😝 [Dogs as medieval character](http://9gag.com/gag/ae9K69B)
- - 👉 [At long last\u2026](http://9gag.com/gag/a1mpXR8)<!-- MEMES:END -->
+ - 6️⃣ [Women in the United Kingdom, 1997. Before the Islamic Revolution.](http://9gag.com/gag/aZZqBpX)
+ - 😝 [Task failed successfully](http://9gag.com/gag/a87d4XY)
+ - 👉 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)<!-- MEMES:END -->
 
 --- 
 
