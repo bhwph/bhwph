@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s next flagship phone is coming on April 3 with a Pixel 8-like AI feature](https://www.androidauthority.com/motorola-edge-50-pro-launch-specs-confirmed-3426806/)
- - [2025 Audi Q6 e-tron Is a Tiny Tech Powerhouse: Electric SUV First Drive     - CNET](https://www.cnet.com/roadshow/news/2025-audi-q6-e-tron-is-a-tiny-tech-powerhouse-electric-suv-first-drive/#ftag=CAD590a51e)
- - [Unity&#39;s 2024 Gaming Report: the number of multiplatform games up 40% since 2021, in-app advertising revenue up 26.7% YoY, 62% of studios are using AI, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240318/p45#a240318p45)<!-- TECH:END -->
+ - [Q&amp;A with Lila Tretikov, who just joined NEA as a partner and head of AI strategy; Tretikov was previously Microsoft&#39;s deputy CTO and Wikimedia Foundation CEO &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240319/p2#a240319p2)
+ - [Samsung’s entry-level foldable could cost less than the Galaxy S24 &lpar;Update&rpar;](https://www.androidauthority.com/cheaper-galaxy-z-fold-6-model-3426647/)
+ - [Chrome for Android now lets you use a non-Google password manager, but you should wait](https://www.androidauthority.com/chrome-for-android-alternative-password-manager-3426820/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
