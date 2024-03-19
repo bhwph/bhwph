@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 10 years, Destiny is getting a game mode that fans wanted from the start](https://www.pcgamer.com/games/fps/after-10-years-destiny-is-getting-a-game-mode-that-fans-wanted-from-the-start)
- - [18 Things We Learned From The Acolyte Trailer](https://kotaku.com/star-wars-acolyte-trailer-breakdown-1851349272)
- - [Massive Dragon’s Dogma 2 Spoilers Leak Days Before Release](https://kotaku.com/dragons-dogma-2-game-spoilers-leak-capcom-takedown-1851349766)<!-- GAME:END -->
+ - [Ubisoft shows off AI-powered &#39;Neo NPCs&#39; at GDC: &#39;It could be the start of a fantastic paradigm shift,&#39; but let&#39;s be honest, it probably won&#39;t](https://www.pcgamer.com/software/ai/ubisoft-shows-off-ai-powered-neo-npcs-at-gdc-it-could-be-the-start-of-a-fantastic-paradigm-shift-but-lets-be-honest-it-probably-wont)
+ - [Stardew Valley’s Hefty 1.6 Update Has More Features Than We Expected](https://kotaku.com/stadew-valley-16-update-new-features-content-crops-pets-1851350199)
+ - [Monopoly Go Spent Almost $500 Million On Marketing, More Than Spider-Man 2&#39;s Dev Budget](https://kotaku.com/monopoly-go-ad-budget-bigger-than-spider-man-last-of-us-1851350182)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
