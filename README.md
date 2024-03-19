@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Surface Duo 3 wishlist: All the features I want to see](https://www.androidauthority.com/microsoft-surface-duo-3-3358295/)
- - [A look at Playtron, which raised a $10M seed to build a Linux-based, platform-agnostic gaming OS to replace Windows or SteamOS, starting with handheld consoles &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240319/p5#a240319p5)
- - [Kids’ Cartoons Get a Free Pass From YouTube’s Deepfake Disclosure Rules](https://www.wired.com/story/kids-cartoons-free-pass-youtube-deepfake-disclosure-rules/)<!-- TECH:END -->
+ - [Ethiopia&#39;s central bank says &quot;a glitch&quot; let Commercial Bank customers withdraw more cash than was in the account for hours; local media says $40M+ was withdrawn &lpar;Kalkidan Yibeltal/BBC&rpar;](http://www.techmeme.com/240319/p13#a240319p13)
+ - [New macOS Sonoma 14.4 bug kills file versions in iCloud Drive](https://appleinsider.com/articles/24/03/19/new-macos-sonoma-144-bug-kills-file-versions-in-icloud-drive?utm_medium=rss)
+ - [Amazon&#39;s First &#39;Big Spring Sale&#39; Kicks Off Tomorrow, but These Deals Are Already Live     - CNET](https://www.cnet.com/deals/amazons-first-big-spring-sale-kicks-off-tomorrow-but-these-deals-are-already-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
