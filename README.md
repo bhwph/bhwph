@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He said WHAT???](http://9gag.com/gag/an7e13E)
- - 😝 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
- - 👉 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)<!-- MEMES:END -->
+ - 6️⃣ [Billions must game](http://9gag.com/gag/a34vjX5)
+ - 😝 [Dogs as medieval character](http://9gag.com/gag/ae9K69B)
+ - 👉 [At long last\u2026](http://9gag.com/gag/a1mpXR8)<!-- MEMES:END -->
 
 --- 
 
