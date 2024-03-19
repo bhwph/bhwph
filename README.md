@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 is joined by a huge slate of titles coming to Xbox Game Pass](https://www.polygon.com/24105782/xbox-game-pass-march-april-2024-new-additions)
- - [Stardew Valley 1.6 Launches Today, Here’s What You Need To Know](https://kotaku.com/stardew-valley-update-1-6-launch-time-new-features-1851348560)
- - [Pre-orders for Lego’s first official Dungeons &amp; Dragons set open April 1 for Lego Insiders](https://www.polygon.com/24105226/lego-dungeons-and-dragons-set-announcement-pre-order)<!-- GAME:END -->
+ - [Overwatch 2&#39;s Hacked Event Double Trouble is almost over, which is probably for the best](https://www.pcgamer.com/games/fps/overwatch-2s-hacked-event-double-trouble-is-almost-over-which-is-probably-for-the-best)
+ - [ConcernedApe shares what he swears by to get work done on Stardew Valley &lpar;and to unwind&rpar;](https://www.polygon.com/24099974/concernedape-stardew-valley-eric-barone-sherpa-trucker-jacket-buckwheat-pillow)
+ - [Void Bastards&#39; space cowboy sequel has 13 different &#39;outlaws&#39; you equip and swap like weapons, but if you play poorly they&#39;ll refuse to work together](https://www.pcgamer.com/games/fps/void-bastards-space-cowboy-sequel-has-13-different-outlaws-you-equip-and-swap-like-weapons-but-if-you-play-poorly-theyll-refuse-to-work-together)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
