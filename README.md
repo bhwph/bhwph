@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ethiopia&#39;s central bank says &quot;a glitch&quot; let Commercial Bank customers withdraw more cash than was in the account for hours; local media says $40M+ was withdrawn &lpar;Kalkidan Yibeltal/BBC&rpar;](http://www.techmeme.com/240319/p13#a240319p13)
- - [New macOS Sonoma 14.4 bug kills file versions in iCloud Drive](https://appleinsider.com/articles/24/03/19/new-macos-sonoma-144-bug-kills-file-versions-in-icloud-drive?utm_medium=rss)
- - [Amazon&#39;s First &#39;Big Spring Sale&#39; Kicks Off Tomorrow, but These Deals Are Already Live     - CNET](https://www.cnet.com/deals/amazons-first-big-spring-sale-kicks-off-tomorrow-but-these-deals-are-already-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Asus Zenbook Duo review: sleek design, two great displays, and solid battery life, but pricier than a clamshell and Windows 11 isn&#39;t optimized for two screens &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240319/p14#a240319p14)
+ - [Indie, rocked](https://www.theverge.com/24070565/pitchfork-gq-conde-nast-music-industry-change)
+ - [DoorDash, Uber Eats — and Tony](https://www.theverge.com/24105686/doordash-uber-eats-delivery-apps-issues-rivian-history-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
