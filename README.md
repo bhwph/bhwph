@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple tvOS 18: What I want to see and what we know so far](https://www.androidauthority.com/apple-tvos-18-3422721/)
- - [Sources: the US accounted for 60% of Temu&#39;s GMV in 2023, but the company hopes to reduce the share to as low as 30% by 2025, as US anti-China hostility grows &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/240319/p25#a240319p25)
- - [YouTube will now let viewers correct auto-generated captions](https://www.androidauthority.com/youtube-auto-captions-suggestions-3427015/)<!-- TECH:END -->
+ - [EU antitrust chief ready to get on Apple&#39;s case about fees and safety warnings](https://appleinsider.com/articles/24/03/19/eu-antitrust-chief-ready-to-get-on-apples-case-about-fees-and-safety-warnings?utm_medium=rss)
+ - [Exclusive: Google Pixel 8a boasts 120Hz display, Tensor G3, DisplayPort output, better availability](https://www.androidauthority.com/google-pixel-8a-specs-exclusive-3426314/)
+ - [Sources: Saudi Arabia&#39;s Public Investment Fund discussed a potential partnership with a16z and others to create a fund of about $40B to invest in AI in H2 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/240319/p28#a240319p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
