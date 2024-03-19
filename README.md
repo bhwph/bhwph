@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)
+ - 6️⃣ [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
  - 😝 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
- - 👉 [Don&#39;t rob stores, especially ones owned by asians.](http://9gag.com/gag/ajPQn1w)<!-- MEMES:END -->
+ - 👉 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)<!-- MEMES:END -->
 
 --- 
 
