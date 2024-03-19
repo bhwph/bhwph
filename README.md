@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
- - 😝 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
- - 👉 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)<!-- MEMES:END -->
+ - 6️⃣ [Get the f*ck up, Swede!](http://9gag.com/gag/aqy4mvp)
+ - 😝 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)
+ - 👉 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)<!-- MEMES:END -->
 
 --- 
 
