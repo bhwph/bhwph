@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Transposition](http://9gag.com/gag/a87dWMV)
- - 😝 [Lgbtq+ people are going crazy already about this movie.](http://9gag.com/gag/apRKBDM)
- - 👉 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)<!-- MEMES:END -->
+ - 6️⃣ [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)
+ - 😝 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
+ - 👉 [Don&#39;t rob stores, especially ones owned by asians.](http://9gag.com/gag/ajPQn1w)<!-- MEMES:END -->
 
 --- 
 
