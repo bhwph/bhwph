@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Lila Tretikov, who just joined NEA as a partner and head of AI strategy; Tretikov was previously Microsoft&#39;s deputy CTO and Wikimedia Foundation CEO &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240319/p2#a240319p2)
- - [Samsung’s entry-level foldable could cost less than the Galaxy S24 &lpar;Update&rpar;](https://www.androidauthority.com/cheaper-galaxy-z-fold-6-model-3426647/)
- - [Chrome for Android now lets you use a non-Google password manager, but you should wait](https://www.androidauthority.com/chrome-for-android-alternative-password-manager-3426820/)<!-- TECH:END -->
+ - [Microsoft Surface Duo 3 wishlist: All the features I want to see](https://www.androidauthority.com/microsoft-surface-duo-3-3358295/)
+ - [A look at Playtron, which raised a $10M seed to build a Linux-based, platform-agnostic gaming OS to replace Windows or SteamOS, starting with handheld consoles &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240319/p5#a240319p5)
+ - [Kids’ Cartoons Get a Free Pass From YouTube’s Deepfake Disclosure Rules](https://www.wired.com/story/kids-cartoons-free-pass-youtube-deepfake-disclosure-rules/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
