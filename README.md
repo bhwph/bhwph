@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women in the United Kingdom, 1997. Before the Islamic Revolution.](http://9gag.com/gag/aZZqBpX)
- - 😝 [Task failed successfully](http://9gag.com/gag/a87d4XY)
+ - 6️⃣ [Cultured](http://9gag.com/gag/amoqr6V)
+ - 😝 [Woke French woman tries to argue with an Irish dude](http://9gag.com/gag/aD2RGLd)
  - 👉 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)<!-- MEMES:END -->
 
 --- 
