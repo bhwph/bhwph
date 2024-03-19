@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
- - 😝 [Sci-fi timeline](http://9gag.com/gag/agmrGoq)
- - 👉 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)<!-- MEMES:END -->
+ - 6️⃣ [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)
+ - 😝 [Lgbtq+ people are going crazy already about this movie.](http://9gag.com/gag/apRKBDM)
+ - 👉 [That&#39;s talent](http://9gag.com/gag/apRKvQW)<!-- MEMES:END -->
 
 --- 
 
