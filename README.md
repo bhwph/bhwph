@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dwarf Fortress creator blasts execs behind brutal industry layoffs: &#39;They can all eat s***, I think they&#39;re horrible… greedy, greedy people&#39;](https://www.pcgamer.com/games/sim/dwarf-fortress-creator-blasts-execs-behind-brutal-industry-layoffs-they-can-all-eat-s-i-think-theyre-horrible-greedy-greedy-people)
- - [Astarion&#39;s actor was deployed to replace the missing mocap of around 150 lines of Baldur&#39;s Gate 3 dialogue: &#39;I just had this dog&#39;s breakfast&#39;](https://www.pcgamer.com/games/baldurs-gate/astarions-actor-was-deployed-to-replace-the-missing-mocap-of-around-150-lines-of-baldurs-gate-3-dialogue-i-just-had-this-dogs-breakfast)
- - [Today&#39;s Wordle answer for Tuesday, March 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-19-2024)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Xbox App [2403.1000.51.0]](https://news.xbox.com/en-us/2024/03/19/xbox-insider-release-notes-xbox-app-2403-1000-51-0/)
+ - [The best game design schools, ranked by the Princeton Review 2024](https://www.pcgamer.com/feature/princeton-review-top-game-design-schools)
+ - [Blizzard secretly made a battle royale game inside World of Warcraft to &#39;break the rules&#39; its had for 20 years](https://www.pcgamer.com/games/world-of-warcraft/blizzard-secretly-made-a-battle-royale-game-inside-world-of-warcraft-to-break-the-rules-its-had-for-20-years)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
