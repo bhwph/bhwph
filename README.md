@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sell Your Old TV: 7 Easy Steps to Maximize Your Profit     - CNET](https://www.cnet.com/tech/home-entertainment/sell-your-old-tv-7-easy-steps-that-maximize-your-profit/#ftag=CAD590a51e)
- - [The Connectivity Standards Alliance launches a cybersecurity standard that aims to provide a globally recognized security certification for consumer IoT devices &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240318/p41#a240318p41)
- - [Best Peloton Alternatives for 2024     - CNET](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Unity&#39;s 2024 Gaming Report: the number of multiplatform games up 40% since 2021, in-app advertising revenue up 26.7% YoY, 62% of studios are using AI, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240318/p45#a240318p45)
+ - [Google cuts the cord on another feature from its Phone app](https://www.androidauthority.com/google-phone-app-nearby-places-3426757/)
+ - [How to use Collaborative Playlists for Apple Music](https://appleinsider.com/inside/apple-music/tips/how-to-use-collaborative-playlists-for-apple-music?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
