@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is a spatial video and is it available on Android?](https://www.androidauthority.com/what-is-a-spatial-video-3426764/)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Nvidia unveils the Earth-2 platform, letting users create AI-powered climate simulations ranging from global atmospheric conditions to local weather phenomena &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240318/p34#a240318p34)<!-- TECH:END -->
+ - [The Connectivity Standards Alliance launches a cybersecurity standard that aims to provide a globally recognized security certification for consumer IoT devices &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240318/p41#a240318p41)
+ - [Nvidia announces a software framework built with its Omniverse Cloud APIs to let enterprise developers stream interactive 3D experiences into Apple Vision Pro &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/240318/p40#a240318p40)
+ - [Best Power Bank for iPhone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
