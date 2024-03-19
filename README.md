@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind debuts TacticAI, a prototype AI soccer tactician built alongside Premier League club Liverpool, using geometric deep learning on 7K corner kicks &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240319/p19#a240319p19)
- - [Microsoft hires DeepMind co-founder Mustafa Suleyman to run consumer AI, reporting to Satya Nadella, and brings on many staff from his Inflection AI startup &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/240319/p18#a240319p18)
- - [The UK sentences a man to 66 weeks in prison over cyberflashing under the Online Safety Act; he was the first conviction after the OSA took effect on January 31 &lpar;Jamie Grierson/The Guardian&rpar;](http://www.techmeme.com/240319/p17#a240319p17)<!-- TECH:END -->
+ - [Apple tvOS 18: What I want to see and what we know so far](https://www.androidauthority.com/apple-tvos-18-3422721/)
+ - [Sources: the US accounted for 60% of Temu&#39;s GMV in 2023, but the company hopes to reduce the share to as low as 30% by 2025, as US anti-China hostility grows &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/240319/p25#a240319p25)
+ - [YouTube will now let viewers correct auto-generated captions](https://www.androidauthority.com/youtube-auto-captions-suggestions-3427015/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
