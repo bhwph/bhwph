@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lgbtq+ people are going crazy already about this movie.](http://9gag.com/gag/apRKBDM)
- - 😝 [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)
- - 👉 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)<!-- MEMES:END -->
+ - 6️⃣ [For once, a useful video from other social platform](http://9gag.com/gag/a87dMYV)
+ - 😝 [And I love it](http://9gag.com/gag/aLn629g)
+ - 👉 [Dad of the year..](http://9gag.com/gag/an7eBQ0)<!-- MEMES:END -->
 
 --- 
 
