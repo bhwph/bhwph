@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Xbox App [2403.1000.51.0]](https://news.xbox.com/en-us/2024/03/19/xbox-insider-release-notes-xbox-app-2403-1000-51-0/)
- - [The best game design schools, ranked by the Princeton Review 2024](https://www.pcgamer.com/feature/princeton-review-top-game-design-schools)
- - [Blizzard secretly made a battle royale game inside World of Warcraft to &#39;break the rules&#39; its had for 20 years](https://www.pcgamer.com/games/world-of-warcraft/blizzard-secretly-made-a-battle-royale-game-inside-world-of-warcraft-to-break-the-rules-its-had-for-20-years)<!-- GAME:END -->
+ - [Diablo 4 is joined by a huge slate of titles coming to Xbox Game Pass](https://www.polygon.com/24105782/xbox-game-pass-march-april-2024-new-additions)
+ - [Stardew Valley 1.6 Launches Today, Here’s What You Need To Know](https://kotaku.com/stardew-valley-update-1-6-launch-time-new-features-1851348560)
+ - [Pre-orders for Lego’s first official Dungeons &amp; Dragons set open April 1 for Lego Insiders](https://www.polygon.com/24105226/lego-dungeons-and-dragons-set-announcement-pre-order)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
