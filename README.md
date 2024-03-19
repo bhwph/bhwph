@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus Zenbook Duo review: sleek design, two great displays, and solid battery life, but pricier than a clamshell and Windows 11 isn&#39;t optimized for two screens &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240319/p14#a240319p14)
- - [Indie, rocked](https://www.theverge.com/24070565/pitchfork-gq-conde-nast-music-industry-change)
- - [DoorDash, Uber Eats — and Tony](https://www.theverge.com/24105686/doordash-uber-eats-delivery-apps-issues-rivian-history-vergecast)<!-- TECH:END -->
+ - [Google DeepMind debuts TacticAI, a prototype AI soccer tactician built alongside Premier League club Liverpool, using geometric deep learning on 7K corner kicks &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240319/p19#a240319p19)
+ - [Microsoft hires DeepMind co-founder Mustafa Suleyman to run consumer AI, reporting to Satya Nadella, and brings on many staff from his Inflection AI startup &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/240319/p18#a240319p18)
+ - [The UK sentences a man to 66 weeks in prison over cyberflashing under the Online Safety Act; he was the first conviction after the OSA took effect on January 31 &lpar;Jamie Grierson/The Guardian&rpar;](http://www.techmeme.com/240319/p17#a240319p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
