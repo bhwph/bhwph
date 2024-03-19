@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [For once, a useful video from other social platform](http://9gag.com/gag/a87dMYV)
- - 😝 [And I love it](http://9gag.com/gag/aLn629g)
- - 👉 [Dad of the year..](http://9gag.com/gag/an7eBQ0)<!-- MEMES:END -->
+ - 6️⃣ [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
+ - 😝 [Sci-fi timeline](http://9gag.com/gag/agmrGoq)
+ - 👉 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)<!-- MEMES:END -->
 
 --- 
 
