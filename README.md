@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2&#39;s Hacked Event Double Trouble is almost over, which is probably for the best](https://www.pcgamer.com/games/fps/overwatch-2s-hacked-event-double-trouble-is-almost-over-which-is-probably-for-the-best)
- - [ConcernedApe shares what he swears by to get work done on Stardew Valley &lpar;and to unwind&rpar;](https://www.polygon.com/24099974/concernedape-stardew-valley-eric-barone-sherpa-trucker-jacket-buckwheat-pillow)
- - [Void Bastards&#39; space cowboy sequel has 13 different &#39;outlaws&#39; you equip and swap like weapons, but if you play poorly they&#39;ll refuse to work together](https://www.pcgamer.com/games/fps/void-bastards-space-cowboy-sequel-has-13-different-outlaws-you-equip-and-swap-like-weapons-but-if-you-play-poorly-theyll-refuse-to-work-together)<!-- GAME:END -->
+ - [After 10 years, Destiny is getting a game mode that fans wanted from the start](https://www.pcgamer.com/games/fps/after-10-years-destiny-is-getting-a-game-mode-that-fans-wanted-from-the-start)
+ - [18 Things We Learned From The Acolyte Trailer](https://kotaku.com/star-wars-acolyte-trailer-breakdown-1851349272)
+ - [Massive Dragon’s Dogma 2 Spoilers Leak Days Before Release](https://kotaku.com/dragons-dogma-2-game-spoilers-leak-capcom-takedown-1851349766)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
