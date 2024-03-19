@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)
- - 😝 [Lgbtq+ people are going crazy already about this movie.](http://9gag.com/gag/apRKBDM)
- - 👉 [That&#39;s talent](http://9gag.com/gag/apRKvQW)<!-- MEMES:END -->
+ - 6️⃣ [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - 😝 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
+ - 👉 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)<!-- MEMES:END -->
 
 --- 
 
