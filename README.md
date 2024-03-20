@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Canada and the UAE have lobbied leading European and UK AI startups, including Aleph Alpha, Synthesia, and Stability AI, to move their headquarters &lpar;Financial Times&rpar;](http://www.techmeme.com/240320/p6#a240320p6)
- - [Sources: the Biden admin is considering blacklisting a number of Chinese chip firms linked to Huawei, after the company used an advanced 7nm chip in Mate 60 Pro &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240320/p5#a240320p5)
- - [Samsung expects revenue of $100M or more in 2024 from an advanced chip packaging unit that the company set up as a separate business in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240320/p4#a240320p4)<!-- TECH:END -->
+ - [The S Pen on the Galaxy S24 Ultra stinks, literally](https://www.androidauthority.com/samsung-galaxy-s24-ultra-s-pen-odor-3427157/)
+ - [20 Mother&#39;s Day Cards That Aren&#39;t Lame     - CNET](https://www.cnet.com/news/best-mothers-day-cards-to-buy-online/#ftag=CAD590a51e)
+ - [Samsung Galaxy Ring could serve as your personal diet coach and even check what’s in your fridge](https://www.androidauthority.com/samsung-galaxy-ring-custom-meals-feature-3427156/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
