@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sad but true at the same time](http://9gag.com/gag/ae9KbXb)
- - 😝 [How is this even allowed?](http://9gag.com/gag/a87dpwQ)
- - 👉 [I was just follwing orders](http://9gag.com/gag/agmrLer)<!-- MEMES:END -->
+ - 6️⃣ [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
+ - 😝 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
+ - 👉 [Nice family business you got here](http://9gag.com/gag/awyN5VB)<!-- MEMES:END -->
 
 --- 
 
