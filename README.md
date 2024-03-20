@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
- - 😝 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
- - 👉 [Nice family business you got here](http://9gag.com/gag/awyN5VB)<!-- MEMES:END -->
+ - 6️⃣ [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
+ - 😝 [Source \ud83d\ude00](http://9gag.com/gag/a87d4WO)
+ - 👉 [His gf is on the couch](http://9gag.com/gag/awyNxgr)<!-- MEMES:END -->
 
 --- 
 
