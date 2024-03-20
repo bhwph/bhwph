@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Delisted Spy RPG From Fallout: New Vegas Devs Is Back And That&#39;s Great](https://kotaku.com/alpha-protocol-delisted-new-vegas-devs-obsidian-pc-gog-1851353366)
- - [Apex Legends Tournament Hacker Speaks, Swears It Was ‘A Joke’](https://kotaku.com/apex-legends-global-series-hack-postpone-exploit-1851353297)
- - [Ready, Set, Time to Crush! The Global Candy Crush All Stars Competition is Back With A $1M Prize Pot](https://www.king.com/es/corporate-and-media/posts/post/ready-set-time-to-crush-the-global-candy-crush-all-stars-r-competition-is-back-with-a-1m-prize-pot)<!-- GAME:END -->
+ - [&#39;America&#39;s hero, dancing around in red white and blue underwear&#39;: Black Panther trash-talks the Cap in the first trailer for Amy Hennig&#39;s WW2 Marvel game](https://www.pcgamer.com/games/action/americas-hero-dancing-around-in-red-white-and-blue-underwear-black-panther-trash-talks-the-cap-in-the-first-trailer-for-amy-hennigs-ww2-marvel-game)
+ - [Helldivers 2 community&#39;s ambitious plan to liberate 5 planets in 3 days in jeopardy as galactic war trackers catastrophically fail—but don&#39;t worry, Joel is on it](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-communitys-ambitious-plan-to-liberate-5-planets-in-3-days-in-jeopardy-as-galactic-war-trackers-catastrophically-failbut-dont-worry-joel-is-on-it)
+ - [Teaser for the next Alien movie features a youthful cast and more facehuggers than you can shake an M41A Pulse Rifle at](https://www.pcgamer.com/movies-tv/teaser-for-the-next-alien-movie-features-a-youthful-cast-and-more-facehuggers-than-you-can-shake-an-m41a-pulse-rifle-at)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
