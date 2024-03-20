@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixels have more market share than ever in the US](https://www.androidauthority.com/google-pixel-market-share-2023-3427326/)
- - [Here&#39;s Proof You Can Train an AI Model Without Slurping Copyrighted Content](https://www.wired.com/story/proof-you-can-train-ai-without-slurping-copyrighted-content/)
- - [State of Unreal 2024: all the news from Epic’s GDC showcase](https://www.theverge.com/2024/3/20/24106665/state-of-unreal-2024-epic-fortnite-ue5-gdc)<!-- TECH:END -->
+ - [Parler&#39;s New Owners Swear This Time Will Be Different](https://www.wired.com/story/parler-app-store-free-speech-censorship/)
+ - [Apple now has a good landing page to find manuals, specs, and downloads](https://appleinsider.com/articles/24/03/20/apple-now-has-a-good-landing-page-to-find-manuals-specs-and-downloads?utm_medium=rss)
+ - [Microsoft and Meta accuse Apple of playing games with App Store rules](https://www.theverge.com/2024/3/20/24106838/apple-epic-anti-steering-developers-in-app-payments-meta-microsoft-match)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
