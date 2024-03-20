@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Dead Redemption 2 receives unexpected HDR10+ support, reminding us all that there are still cowboys moseying out there somewhere](https://www.pcgamer.com/games/action/red-dead-redemption-2-receives-unexpected-hdr10-support-reminding-us-all-that-there-are-still-cowboys-moseying-out-there-somewhere)
- - [The AirFly Pro audio sharing gadget makes every trip more fun, and it’s $11 off now](https://www.polygon.com/deals/24104777/audio-sharing-airfly-pro-deal-sale-amazon)
- - [The most disposable X-Men character is crucial to the X-Men cartoon](https://www.polygon.com/24102311/x-men-morph-kevin-sydney-97-marvel-nonbinary)<!-- GAME:END -->
+ - [The Best Loveless Choices In FF7 Rebirth](https://kotaku.com/final-fantasy-7-ff7-rebirth-loveless-choices-1851352157)
+ - [Stardew Valley 1.6 adds a creepy punishment for sequence breakers: A battering from the mysterious Mister Qi](https://www.pcgamer.com/games/life-sim/stardew-valley-16-adds-a-creepy-punishment-for-sequence-breakers-a-battering-from-the-mysterious-mister-qi)
+ - [The 22 best board games](https://www.polygon.com/tabletop-games/22751449/best-board-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
