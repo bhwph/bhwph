@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
- - 😝 [How they managed](http://9gag.com/gag/a0evdKz)
- - 👉 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)<!-- MEMES:END -->
+ - 6️⃣ [South african diversity](http://9gag.com/gag/adByjOB)
+ - 😝 [Woke French woman tries to argue with an Irish dude](http://9gag.com/gag/aD2RGLd)
+ - 👉 [Cultured](http://9gag.com/gag/amoqr6V)<!-- MEMES:END -->
 
 --- 
 
