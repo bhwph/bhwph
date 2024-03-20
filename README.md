@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
- - [Best deal of 2024 on the Pixel Buds Pro slashes price by over $60](https://www.androidauthority.com/deal-google-pixel-buds-pro-3427098/)
- - [GPT-5 is ChatGPT’s next big upgrade, and it could be here very soon](https://www.androidauthority.com/openai-gpt-5-chatgpt-next-big-upgrade-mid-year-release-3427269/)<!-- TECH:END -->
+ - [New iPad Pro may have matte &amp; glossy screen options](https://appleinsider.com/articles/24/03/20/new-ipad-pro-may-have-matte-glossy-screen-options?utm_medium=rss)
+ - [The World&#39;s E-Waste Has Reached a Crisis Point](https://www.wired.com/story/e-waste-recycling-cant-keep-up-precious-metals/)
+ - [US-listed PDD, which runs Temu and Pinduoduo, reports Q4 revenue up 123% YoY to ~$12.5B and operating profit up 146% YoY to ~$3.2B, boosted by merchant fees &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240320/p23#a240320p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
