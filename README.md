@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Just under 150K players flooded back to Stardew Valley for the 1.6 update, and hopefully, only a small number drank the mayo](https://www.pcgamer.com/games/life-sim/just-under-150k-players-flooded-back-to-stardew-valley-for-the-16-update-and-hopefully-only-a-small-number-drank-the-mayo)
- - [Helldivers 2 patch tackles patrols appearing out of thin air, over-the-top meteor swarms, and accidentally blowing yourself up with your own mech](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-patch-tackles-patrols-appearing-out-of-thin-air-over-the-top-meteor-swarms-and-accidentally-blowing-yourself-up-with-your-own-mech)
- - [Corsair K65 Plus review](https://www.pcgamer.com/hardware/gaming-desktops/corsair-k65-plus-review)<!-- GAME:END -->
+ - [Red Dead Redemption 2 receives unexpected HDR10+ support, reminding us all that there are still cowboys moseying out there somewhere](https://www.pcgamer.com/games/action/red-dead-redemption-2-receives-unexpected-hdr10-support-reminding-us-all-that-there-are-still-cowboys-moseying-out-there-somewhere)
+ - [The AirFly Pro audio sharing gadget makes every trip more fun, and it’s $11 off now](https://www.polygon.com/deals/24104777/audio-sharing-airfly-pro-deal-sale-amazon)
+ - [The most disposable X-Men character is crucial to the X-Men cartoon](https://www.polygon.com/24102311/x-men-morph-kevin-sydney-97-marvel-nonbinary)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
