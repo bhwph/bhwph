@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
- - 😝 [Always the victim](http://9gag.com/gag/aGyKe30)
- - 👉 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)<!-- MEMES:END -->
+ - 6️⃣ [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
+ - 😝 [Classic 2011](http://9gag.com/gag/ae9K6Bj)
+ - 👉 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)<!-- MEMES:END -->
 
 --- 
 
