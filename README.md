@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [El Paso, Elsewhere Dev Drags Industry’s ‘Sudden Silence’ In Uplifting Black Voices](https://kotaku.com/el-paso-elsewhere-strange-scaffold-black-in-gaming-1851352903)
- - [The Ghostbusters franchise isn’t aimed at anyone or anything anymore](https://www.polygon.com/24106832/ghostbusters-frozen-empire-review-paul-rudd-bill-murray)
- - [Dragon&#39;s Dogma 2 is a better game because it makes fast travel a hassle](https://www.pcgamer.com/games/rpg/dragons-dogma-2-is-a-better-game-because-it-makes-fast-travel-a-hassle)<!-- GAME:END -->
+ - [Delisted Spy RPG From Fallout: New Vegas Devs Is Back And That&#39;s Great](https://kotaku.com/alpha-protocol-delisted-new-vegas-devs-obsidian-pc-gog-1851353366)
+ - [Apex Legends Tournament Hacker Speaks, Swears It Was ‘A Joke’](https://kotaku.com/apex-legends-global-series-hack-postpone-exploit-1851353297)
+ - [Ready, Set, Time to Crush! The Global Candy Crush All Stars Competition is Back With A $1M Prize Pot](https://www.king.com/es/corporate-and-media/posts/post/ready-set-time-to-crush-the-global-candy-crush-all-stars-r-competition-is-back-with-a-1m-prize-pot)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
