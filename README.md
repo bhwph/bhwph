@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit is working with Google Research to create an LLM based on Gemini to provide Fitbit mobile app users with personalized data and health recommendations &lpar;Kate Irwin/PCMag&rpar;](http://www.techmeme.com/240319/p30#a240319p30)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Netflix&#39;s &#39;3 Body Problem&#39; Series: Release Time, Trailer, What to Know     - CNET](https://www.cnet.com/tech/services-and-software/netflixs-3-body-problem-series-release-time-trailer-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Inflection AI plans to license its technology to Microsoft; a source says investors in Inflection AI, which has raised more than $1.5B, will be made whole &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240319/p35#a240319p35)
+ - [Sources: Israeli cybersecurity company Cato Networks has hired underwriters for a US IPO as soon as early 2025; source: Cato is looking to raise more than $500M &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/240319/p34#a240319p34)
+ - [Best Internet Providers in Rochester, Minnesota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-rochester-mn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
