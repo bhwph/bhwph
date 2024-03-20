@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook visits Shanghai, says China remains critical to Apple](https://appleinsider.com/articles/24/03/20/tim-cook-visits-shanghai-says-china-remains-critical-to-apple?utm_medium=rss)
- - [Lenovo updates its $1,239+ ThinkPad X13, available as a laptop or 2-in-1, and $1,199+ ThinkPad L-series, adding a 16&quot; model, available with Intel or AMD chips &lpar;Brian Westover/PCMag&rpar;](http://www.techmeme.com/240320/p14#a240320p14)
- - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
+ - [Best deal of 2024 on the Pixel Buds Pro slashes price by over $60](https://www.androidauthority.com/deal-google-pixel-buds-pro-3427098/)
+ - [GPT-5 is ChatGPT’s next big upgrade, and it could be here very soon](https://www.androidauthority.com/openai-gpt-5-chatgpt-next-big-upgrade-mid-year-release-3427269/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
