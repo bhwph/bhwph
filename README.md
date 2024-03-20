@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitHub releases code scanning autofix, powered by Copilot and CodeQL, in public beta for GitHub Advanced Security customers, to help them fix vulnerabilities &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240320/p34#a240320p34)
- - [These toddler games for iPad are actually good — and that’s all too rare](https://www.theverge.com/2024/3/20/24106892/sago-mini-ipad-app-game-toddler-subscription)
- - [LK-99 superconductor physicist accused of ‘research misconduct’](https://www.theverge.com/2024/3/20/24106779/lk-99-superconductor-researcher-ranga-dias-misconduct)<!-- TECH:END -->
+ - [Surveillance has a body count](https://www.theverge.com/2024/3/20/24106098/cbp-migrant-deaths-border-surveillance)
+ - [Watch Neuralink’s First Human Subject Demonstrate His Brain-Computer Interface](https://www.wired.com/story/neuralink-implant-first-human-patient-demonstration/)
+ - [Sources: the US DOJ is poised to sue Apple as soon as Thursday, accusing it of violating antitrust laws by blocking rivals from accessing iPhone features &lpar;Bloomberg&rpar;](http://www.techmeme.com/240320/p39#a240320p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
