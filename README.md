@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
- - 😝 [Source \ud83d\ude00](http://9gag.com/gag/a87d4WO)
- - 👉 [His gf is on the couch](http://9gag.com/gag/awyNxgr)<!-- MEMES:END -->
+ - 6️⃣ [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
+ - 😝 [Always the victim](http://9gag.com/gag/aGyKe30)
+ - 👉 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)<!-- MEMES:END -->
 
 --- 
 
