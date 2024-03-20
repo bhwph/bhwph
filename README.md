@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPad Pro may have matte &amp; glossy screen options](https://appleinsider.com/articles/24/03/20/new-ipad-pro-may-have-matte-glossy-screen-options?utm_medium=rss)
- - [The World&#39;s E-Waste Has Reached a Crisis Point](https://www.wired.com/story/e-waste-recycling-cant-keep-up-precious-metals/)
- - [US-listed PDD, which runs Temu and Pinduoduo, reports Q4 revenue up 123% YoY to ~$12.5B and operating profit up 146% YoY to ~$3.2B, boosted by merchant fees &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240320/p23#a240320p23)<!-- TECH:END -->
+ - [Pixels have more market share than ever in the US](https://www.androidauthority.com/google-pixel-market-share-2023-3427326/)
+ - [Here&#39;s Proof You Can Train an AI Model Without Slurping Copyrighted Content](https://www.wired.com/story/proof-you-can-train-ai-without-slurping-copyrighted-content/)
+ - [State of Unreal 2024: all the news from Epic’s GDC showcase](https://www.theverge.com/2024/3/20/24106665/state-of-unreal-2024-epic-fortnite-ue5-gdc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
