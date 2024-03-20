@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The S Pen on the Galaxy S24 Ultra stinks, literally](https://www.androidauthority.com/samsung-galaxy-s24-ultra-s-pen-odor-3427157/)
- - [20 Mother&#39;s Day Cards That Aren&#39;t Lame     - CNET](https://www.cnet.com/news/best-mothers-day-cards-to-buy-online/#ftag=CAD590a51e)
- - [Samsung Galaxy Ring could serve as your personal diet coach and even check what’s in your fridge](https://www.androidauthority.com/samsung-galaxy-ring-custom-meals-feature-3427156/)<!-- TECH:END -->
+ - [Tim Cook visits Shanghai, says China remains critical to Apple](https://appleinsider.com/articles/24/03/20/tim-cook-visits-shanghai-says-china-remains-critical-to-apple?utm_medium=rss)
+ - [Lenovo updates its $1,239+ ThinkPad X13, available as a laptop or 2-in-1, and $1,199+ ThinkPad L-series, adding a 16&quot; model, available with Intel or AMD chips &lpar;Brian Westover/PCMag&rpar;](http://www.techmeme.com/240320/p14#a240320p14)
+ - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
