@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI plans to release GPT-5 in mid-2024, likely during summer, and some enterprise customers have recently received demos of the latest model &lpar;Business Insider&rpar;](http://www.techmeme.com/240319/p37#a240319p37)
- - [Researchers say misconfigured Firebase instances exposed 125M+ users&#39; records, including plaintext passwords, email addresses, and messages, across 900 websites &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/240319/p36#a240319p36)
- - [Compare Business and Commercial Electricity Rates in Texas     - CNET](https://www.cnet.com/news/compare-business-and-commercial-electricity-rates-in-texas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Illegal Trawlers Are No Match for Undersea Sculptures](https://www.wired.com/story/underwater-sculptures-stopping-trawling/)
+ - [Flooding Wetlands Could Be the Next Big Carbon Capture Hack](https://www.wired.com/story/australia-wetlands-restoration/)
+ - [People Hate the Idea of Car-Free Cities—Until They Live in One](https://www.wired.com/story/car-free-cities-opposition/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
