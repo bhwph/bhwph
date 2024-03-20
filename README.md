@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [NO REFUNDS](http://9gag.com/gag/an7eNyB)
- - 😝 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
- - 👉 [He said WHAT???](http://9gag.com/gag/an7e13E)<!-- MEMES:END -->
+ - 6️⃣ [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
+ - 😝 [How they managed](http://9gag.com/gag/a0evdKz)
+ - 👉 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)<!-- MEMES:END -->
 
 --- 
 
