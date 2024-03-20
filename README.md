@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [South african diversity](http://9gag.com/gag/adByjOB)
- - 😝 [Woke French woman tries to argue with an Irish dude](http://9gag.com/gag/aD2RGLd)
- - 👉 [Cultured](http://9gag.com/gag/amoqr6V)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - 👉 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)<!-- MEMES:END -->
 
 --- 
 
