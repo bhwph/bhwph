@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Loveless Choices In FF7 Rebirth](https://kotaku.com/final-fantasy-7-ff7-rebirth-loveless-choices-1851352157)
- - [Stardew Valley 1.6 adds a creepy punishment for sequence breakers: A battering from the mysterious Mister Qi](https://www.pcgamer.com/games/life-sim/stardew-valley-16-adds-a-creepy-punishment-for-sequence-breakers-a-battering-from-the-mysterious-mister-qi)
- - [The 22 best board games](https://www.polygon.com/tabletop-games/22751449/best-board-games)<!-- GAME:END -->
+ - [El Paso, Elsewhere Dev Drags Industry’s ‘Sudden Silence’ In Uplifting Black Voices](https://kotaku.com/el-paso-elsewhere-strange-scaffold-black-in-gaming-1851352903)
+ - [The Ghostbusters franchise isn’t aimed at anyone or anything anymore](https://www.polygon.com/24106832/ghostbusters-frozen-empire-review-paul-rudd-bill-murray)
+ - [Dragon&#39;s Dogma 2 is a better game because it makes fast travel a hassle](https://www.pcgamer.com/games/rpg/dragons-dogma-2-is-a-better-game-because-it-makes-fast-travel-a-hassle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
