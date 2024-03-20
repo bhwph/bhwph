@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cultured](http://9gag.com/gag/amoqr6V)
- - 😝 [Woke French woman tries to argue with an Irish dude](http://9gag.com/gag/aD2RGLd)
- - 👉 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)<!-- MEMES:END -->
+ - 6️⃣ [NO REFUNDS](http://9gag.com/gag/an7eNyB)
+ - 😝 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
+ - 👉 [He said WHAT???](http://9gag.com/gag/an7e13E)<!-- MEMES:END -->
 
 --- 
 
