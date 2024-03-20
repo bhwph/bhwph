@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Parler&#39;s New Owners Swear This Time Will Be Different](https://www.wired.com/story/parler-app-store-free-speech-censorship/)
- - [Apple now has a good landing page to find manuals, specs, and downloads](https://appleinsider.com/articles/24/03/20/apple-now-has-a-good-landing-page-to-find-manuals-specs-and-downloads?utm_medium=rss)
- - [Microsoft and Meta accuse Apple of playing games with App Store rules](https://www.theverge.com/2024/3/20/24106838/apple-epic-anti-steering-developers-in-app-payments-meta-microsoft-match)<!-- TECH:END -->
+ - [GitHub releases code scanning autofix, powered by Copilot and CodeQL, in public beta for GitHub Advanced Security customers, to help them fix vulnerabilities &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240320/p34#a240320p34)
+ - [These toddler games for iPad are actually good — and that’s all too rare](https://www.theverge.com/2024/3/20/24106892/sago-mini-ipad-app-game-toddler-subscription)
+ - [LK-99 superconductor physicist accused of ‘research misconduct’](https://www.theverge.com/2024/3/20/24106779/lk-99-superconductor-researcher-ranga-dias-misconduct)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
