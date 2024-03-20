@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He said WHAT???](http://9gag.com/gag/an7e13E)
- - 😝 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
- - 👉 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)<!-- MEMES:END -->
+ - 6️⃣ [Sad but true at the same time](http://9gag.com/gag/ae9KbXb)
+ - 😝 [How is this even allowed?](http://9gag.com/gag/a87dpwQ)
+ - 👉 [I was just follwing orders](http://9gag.com/gag/agmrLer)<!-- MEMES:END -->
 
 --- 
 
