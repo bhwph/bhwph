@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s talent](http://9gag.com/gag/apRKvQW)
- - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
- - 👉 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)<!-- MEMES:END -->
+ - 6️⃣ [NO REFUNDS](http://9gag.com/gag/an7eNyB)
+ - 😝 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
+ - 👉 [That&#39;s talent](http://9gag.com/gag/apRKvQW)<!-- MEMES:END -->
 
 --- 
 
