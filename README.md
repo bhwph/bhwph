@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia CEO Jensen Huang reckons we might see AI-generated games in less than 10 years](https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-reckons-we-might-see-ai-generated-games-in-less-than-10-years)
- - [The new Rock Band 4 guitar has an analog stick, which offers enormous potential for challenge runners](https://www.polygon.com/24107611/pdp-riffmaster-speedrun-challenge-run-analog-stick-dark-souls)
- - [All the 3 Body Problem season 2 news we’ve heard so far](https://www.polygon.com/24107692/3-body-problem-season-2-release-cast-news-netflix)<!-- GAME:END -->
+ - [The Halo TV show blew through all its best lore in the season 2 finale, and it was kind of worth it](https://www.polygon.com/24107879/halo-tv-show-season-2-finale-review-flood)
+ - [Xbox Insider Release Notes – Delta &lpar;2404.240318-2000&rpar;](https://news.xbox.com/en-us/2024/03/21/xbox-insider-release-notes-delta-2404-240318-2000/)
+ - [Xbox Insider Release Notes – Beta &lpar;2404.240318-2000&rpar;](https://news.xbox.com/en-us/2024/03/21/xbox-insider-release-notes-beta-2404-240318-2000/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
