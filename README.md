@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: after more than six months, the FBI has resumed limited outreach to some US tech companies about foreign propagandists using their platforms &lpar;NBC News&rpar;](http://www.techmeme.com/240320/p44#a240320p44)
- - [Bengaluru-based smart ring maker Ultrahuman raised a $35M Series B, with $25M in equity and the rest in debt, from Blume, Steadview Capital, Nexus, and others &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240320/p43#a240320p43)
- - [Apple Vision Pro expansion will hit Australia &amp; Japan probably in April or May](https://appleinsider.com/articles/24/03/21/apple-vision-pro-expansion-will-hit-australia-japan-probably-in-april-or-may?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Temu and Shein have supplanted Walmart and Target as focal points in internal Amazon meetings related to retail, as Amazon explores new promo campaigns &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/240321/p1#a240321p1)
+ - [After a classified briefing on TikTok, the Senate Commerce Committee Chair Maria Cantwell says &quot;the next steps might be something more public, like a hearing&quot; &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/240320/p47#a240320p47)
+ - [X suspended accounts of some journalists and researchers who posted the alleged real name of neo-Nazi cartoonist Stonetoss after Stonetoss appealed to Elon Musk &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240320/p46#a240320p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
