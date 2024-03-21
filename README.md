@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Hackers Found a Way to Open Any of 3 Million Hotel Keycard Locks in Seconds](https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/)
- - [Europe’s Biggest Salt Mine Is Now in &#39;Minecraft,&#39; and It’s Helping Ukraine Rebuild](https://www.wired.com/story/ukraine-soledar-salt-mine-minecraft-rebuilding-fundraiser/)<!-- TECH:END -->
+ - [Android finally gets Samsung to cave in, owners starting to see seamless updates](https://www.androidauthority.com/samsung-adopts-seamless-updates-3427540/)
+ - [Microsoft updates the Surface Laptop 6 and Surface Pro 10 for enterprise, adding a Copilot key, a Neural Processing Unit for Windows 11 AI features, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240321/p28#a240321p28)
+ - [The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge](https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
