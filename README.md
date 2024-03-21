@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Got you.](http://9gag.com/gag/agmrLV1)
- - 😝 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
- - 👉 [So many to choose from](http://9gag.com/gag/aMVejmx)<!-- MEMES:END -->
+ - 6️⃣ [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
+ - 😝 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)
+ - 👉 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)<!-- MEMES:END -->
 
 --- 
 
