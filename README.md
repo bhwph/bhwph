@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halo TV show blew through all its best lore in the season 2 finale, and it was kind of worth it](https://www.polygon.com/24107879/halo-tv-show-season-2-finale-review-flood)
- - [Xbox Insider Release Notes – Delta &lpar;2404.240318-2000&rpar;](https://news.xbox.com/en-us/2024/03/21/xbox-insider-release-notes-delta-2404-240318-2000/)
- - [Xbox Insider Release Notes – Beta &lpar;2404.240318-2000&rpar;](https://news.xbox.com/en-us/2024/03/21/xbox-insider-release-notes-beta-2404-240318-2000/)<!-- GAME:END -->
+ - [DeathSprint 66 is like an ultraviolent Mario Kart: &#39;It&#39;s The Running Man as reimagined for a new generation&#39;](https://www.pcgamer.com/games/racing/deathsprint-66-announcement)
+ - [Bold new era of Helldivers 2 lightning combat short-circuits as Arc Throwers start crashing games](https://www.pcgamer.com/games/third-person-shooter/bold-new-era-of-helldivers-2-lightning-combat-short-circuits-as-arc-throwers-start-crashing-games)
+ - [GTA Online update for the week of March 21](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
