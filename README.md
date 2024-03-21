@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good guy Amish](http://9gag.com/gag/aBy9xXA)
- - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
- - 👉 [You won&#39;t believe who is this, wait untill 1998](http://9gag.com/gag/a87d8DY)<!-- MEMES:END -->
+ - 6️⃣ [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 😝 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
+ - 👉 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)<!-- MEMES:END -->
 
 --- 
 
