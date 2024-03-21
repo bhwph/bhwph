@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
- - 😝 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
- - 👉 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)<!-- MEMES:END -->
+ - 6️⃣ [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
+ - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
+ - 👉 [Def Wallace](http://9gag.com/gag/a9yjpq0)<!-- MEMES:END -->
 
 --- 
 
