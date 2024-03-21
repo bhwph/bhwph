@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice family business you got here](http://9gag.com/gag/awyN5VB)
- - 😝 [You won&#39;t believe who is this, wait untill 1998](http://9gag.com/gag/a87d8DY)
- - 👉 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)<!-- MEMES:END -->
+ - 6️⃣ [Celebrities are too weird and yes this actually happened](http://9gag.com/gag/aGyKD45)
+ - 😝 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
+ - 👉 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)<!-- MEMES:END -->
 
 --- 
 
