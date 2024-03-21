@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foundry, a cloud computing service provider focused on AI workloads, comes out of stealth after raising $80M across a seed and a Series A at a $350M valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240321/p38#a240321p38)
- - [WBD plans to launch Max in Europe starting on May 21 in the Nordics, Iberia, and Central and Eastern Europe, in time for the Olympics, included in all plans &lpar;Adam Chitwood/The Wrap&rpar;](http://www.techmeme.com/240321/p37#a240321p37)
- - [Android 15 is fixing one of the worst parts of the Pixel’s webcam feature](https://www.androidauthority.com/android-webcam-high-quality-mode-3427591/)<!-- TECH:END -->
+ - [Beetlejuice Beetlejuice brings the dead man home in its first trailer](https://www.theverge.com/24108114/beetlejuice-beetlejuice-trailer-tim-burton-jenna-ortega)
+ - [Apple&#39;s iMessage Encryption Puts Its Security Practices in the DOJ&#39;s Crosshairs](https://www.wired.com/story/apple-doj-antitrust-imessage-encryption/)
+ - [The Antitrust Case Against Apple Argues It Has a Stranglehold on the Future](https://www.wired.com/story/antitrust-case-apple-stranglehold-on-the-future/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
