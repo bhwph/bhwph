@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Build Your Warrior of Light in Final Fantasy XIV Online, Available on Xbox Today](https://news.xbox.com/en-us/2024/03/21/final-fantasy-xiv-out-today-class-types/)
- - [Not sure what movie to watch this weekend? Leave a comment, we’ll help](https://www.polygon.com/entertainment/2024/3/21/24106727/best-movies-watch-this-weekend-best-recommendations)
- - [Fortnite Now Lets You Make Your Own Lego Games Inside It](https://kotaku.com/fortnite-lego-pieces-worlds-uefn-creative-update-1851353810)<!-- GAME:END -->
+ - [Nvidia CEO Jensen Huang reckons we might see AI-generated games in less than 10 years](https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-reckons-we-might-see-ai-generated-games-in-less-than-10-years)
+ - [The new Rock Band 4 guitar has an analog stick, which offers enormous potential for challenge runners](https://www.polygon.com/24107611/pdp-riffmaster-speedrun-challenge-run-analog-stick-dark-souls)
+ - [All the 3 Body Problem season 2 news we’ve heard so far](https://www.polygon.com/24107692/3-body-problem-season-2-release-cast-news-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
