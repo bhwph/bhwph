@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DeathSprint 66 is like an ultraviolent Mario Kart: &#39;It&#39;s The Running Man as reimagined for a new generation&#39;](https://www.pcgamer.com/games/racing/deathsprint-66-announcement)
- - [Bold new era of Helldivers 2 lightning combat short-circuits as Arc Throwers start crashing games](https://www.pcgamer.com/games/third-person-shooter/bold-new-era-of-helldivers-2-lightning-combat-short-circuits-as-arc-throwers-start-crashing-games)
- - [GTA Online update for the week of March 21](https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events)<!-- GAME:END -->
+ - [Russian nun simulator Indika, my most anticipated game this year, breaks out the dancing PVC fetish men to announce its May release date](https://www.pcgamer.com/games/adventure/russian-nun-simulator-indika-my-most-anticipated-game-this-year-breaks-out-the-dancing-pvc-fetish-men-to-announce-its-may-release-date)
+ - [&#39;Still Wakes the Deep is the game I joined The Chinese Room to make&#39;: A new release date trailer gives us another look at the horrifying Beira D oil rig](https://www.pcgamer.com/games/horror/still-wakes-the-deep-is-the-game-i-joined-the-chinese-room-to-make-a-new-release-date-trailer-gives-us-another-look-at-the-horrifying-beira-d-oil-rig)
+ - [Bungie perma-bans Destiny 2 players who sent racist abuse to one of its developers during a livestream this week](https://www.pcgamer.com/games/fps/bungie-perma-bans-destiny-2-players-who-sent-racist-abuse-to-one-of-its-developers-during-a-livestream-this-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
