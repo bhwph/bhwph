@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [No iPad announcement on March 26, says Gurman](https://appleinsider.com/articles/24/03/21/no-ipad-announcement-on-march-26-says-gurman?utm_medium=rss)
- - [Google Keep is testing a new, sleeker bottom toolbar](https://www.androidauthority.com/google-keep-testing-new-bottom-toolbar-3427470/)
- - [Chinese state media: during his visit to Shanghai, Tim Cook says &quot;there&#39;s no supply chain in the world that&#39;s more critical to us than China&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/240321/p15#a240321p15)<!-- TECH:END -->
+ - [Used car marketplace Carvana, whose stock fell from $360 to $4, has now rallied to $86, avoiding a financial abyss after restructuring its $9B debt in 2023 &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/240321/p21#a240321p21)
+ - [Amazon Spring Sale Takes $100 Off Sony&#39;s Noise-Canceling WH-1000XM4 Headphones     - CNET](https://www.cnet.com/deals/amazon-spring-sale-takes-100-off-sonys-noise-canceling-wh-1000xm4-headphones/#ftag=CAD590a51e)
+ - [Better Night Mode Photos: A Pro Photographer&#39;s Tips for Any Phone     - CNET](https://www.cnet.com/tech/mobile/better-night-mode-photos-pro-photographers-tips-for-any-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
