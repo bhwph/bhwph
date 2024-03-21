@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Celebrities are too weird and yes this actually happened](http://9gag.com/gag/aGyKD45)
- - 😝 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
- - 👉 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)<!-- MEMES:END -->
+ - 6️⃣ [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 😝 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
+ - 👉 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)<!-- MEMES:END -->
 
 --- 
 
