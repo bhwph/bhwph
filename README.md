@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of cookie pop-ups on the top 10,000 most popular websites: dozens share date with 1,000+ companies, and thousands share data with 100+ companies &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240321/p10#a240321p10)
- - [Call of Duty Warzone Mobile launched, but will it run on your potato phone?](https://www.androidauthority.com/call-of-duty-warzone-mobile-launched-3426490/)
- - [Honor Magic 6 Pro Review: Innovative but Inconsistent](https://www.wired.com/review/honor-magic-6-pro/)<!-- TECH:END -->
+ - [No iPad announcement on March 26, says Gurman](https://appleinsider.com/articles/24/03/21/no-ipad-announcement-on-march-26-says-gurman?utm_medium=rss)
+ - [Google Keep is testing a new, sleeker bottom toolbar](https://www.androidauthority.com/google-keep-testing-new-bottom-toolbar-3427470/)
+ - [Chinese state media: during his visit to Shanghai, Tim Cook says &quot;there&#39;s no supply chain in the world that&#39;s more critical to us than China&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/240321/p15#a240321p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
