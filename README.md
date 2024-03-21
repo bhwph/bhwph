@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canadian regulatory agency ISED clarifies its stance on banning Flipper Zero, saying the aim is to restrict the use of such devices &quot;to legitimate actors only&quot; &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240321/p5#a240321p5)
- - [Europe Is Struggling to Coexist With Wild Bears](https://www.wired.com/story/bear-attacks-europe-slovakia/)
- - [Fairly Trained certifies KL3M, an LLM claimed to be built without the permissionless use of copyrighted materials by legal tech consultancy startup 273 Ventures &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240321/p4#a240321p4)<!-- TECH:END -->
+ - [An analysis of cookie pop-ups on the top 10,000 most popular websites: dozens share date with 1,000+ companies, and thousands share data with 100+ companies &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240321/p10#a240321p10)
+ - [Call of Duty Warzone Mobile launched, but will it run on your potato phone?](https://www.androidauthority.com/call-of-duty-warzone-mobile-launched-3426490/)
+ - [Honor Magic 6 Pro Review: Innovative but Inconsistent](https://www.wired.com/review/honor-magic-6-pro/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
