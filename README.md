@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A new Hollywood movie just flopped big time. It even had a `white tears` clock next to white people in the movie. Hope they lost a lot of money on this film.](http://9gag.com/gag/aQz631z)
- - 😝 [No title](http://9gag.com/gag/ayNExgr)
- - 👉 [How to clean old radiator tail and fit new valve](http://9gag.com/gag/a87do3Z)<!-- MEMES:END -->
+ - 6️⃣ [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)
+ - 😝 [You won&#39;t believe who is this, wait untill 1998](http://9gag.com/gag/a87d8DY)
+ - 👉 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)<!-- MEMES:END -->
 
 --- 
 
