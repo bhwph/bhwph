@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Someone attempted suicide by injecting 10 ml &lpar;135 g&rpar; of elemental mercury &lpar;quicksilver&rpar; intravenously ended up mercury distributed in the lungs and also survived.](http://9gag.com/gag/a5QpoYy)
- - 😝 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)
- - 👉 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)<!-- MEMES:END -->
+ - 6️⃣ [Got you.](http://9gag.com/gag/agmrLV1)
+ - 😝 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
+ - 👉 [So many to choose from](http://9gag.com/gag/aMVejmx)<!-- MEMES:END -->
 
 --- 
 
