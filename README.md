@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Big Wait&#39;s dead&#39;: Dwarf Fortress creators are going to stop disappearing for months to get updates done in a post-Kitfox world](https://www.pcgamer.com/games/sim/big-waits-dead-dwarf-fortress-creators-are-going-to-stop-disappearing-for-months-to-get-updates-done-in-a-post-kitfox-world)
- - [Putting the roleplay back in the RPG was a huge reason for Cyberpunk 2077&#39;s recent metro and romance updates, says associate game director: &#39;It&#39;s easy to overlook&#39;](https://www.pcgamer.com/games/rpg/putting-the-roleplay-back-in-the-rpg-was-a-huge-reason-for-cyberpunk-2077s-20-updates-says-associate-game-director-its-easy-to-overlook)
- - [Final Fantasy VII Rebirth: The polygonal evolution from 1997 to the modern remake project](https://blog.playstation.com/2024/03/21/final-fantasy-vii-rebirth-the-polygonal-evolution-from-1997-to-the-modern-remake-project/)<!-- GAME:END -->
+ - [How to Build Your Warrior of Light in Final Fantasy XIV Online, Available on Xbox Today](https://news.xbox.com/en-us/2024/03/21/final-fantasy-xiv-out-today-class-types/)
+ - [Not sure what movie to watch this weekend? Leave a comment, we’ll help](https://www.polygon.com/entertainment/2024/3/21/24106727/best-movies-watch-this-weekend-best-recommendations)
+ - [Fortnite Now Lets You Make Your Own Lego Games Inside It](https://kotaku.com/fortnite-lego-pieces-worlds-uefn-creative-update-1851353810)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
