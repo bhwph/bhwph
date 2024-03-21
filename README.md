@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [26 Best Deals From the Amazon Big Spring Sale &lpar;2024&rpar;](https://www.wired.com/story/amazon-big-spring-sale-2024/)
- - [Apple will crush the DoJ in court if Garland sticks with outdated arguments](https://appleinsider.com/articles/24/03/21/apple-will-crush-the-doj-in-court-if-garland-sticks-with-outdated-arguments?utm_medium=rss)
- - [The DOJ&#39;s Apple suit has a lot of parallels to its Microsoft suit in the 1990s, but Apple&#39;s monopoly position is not nearly as clear-cut as Microsoft&#39;s was &lpar;Matt Rosoff/TechCrunch&rpar;](http://www.techmeme.com/240321/p34#a240321p34)<!-- TECH:END -->
+ - [Foundry, a cloud computing service provider focused on AI workloads, comes out of stealth after raising $80M across a seed and a Series A at a $350M valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240321/p38#a240321p38)
+ - [WBD plans to launch Max in Europe starting on May 21 in the Nordics, Iberia, and Central and Eastern Europe, in time for the Olympics, included in all plans &lpar;Adam Chitwood/The Wrap&rpar;](http://www.techmeme.com/240321/p37#a240321p37)
+ - [Android 15 is fixing one of the worst parts of the Pixel’s webcam feature](https://www.androidauthority.com/android-webcam-high-quality-mode-3427591/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
