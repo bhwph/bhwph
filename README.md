@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
- - 😝 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
- - 👉 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)<!-- MEMES:END -->
+ - 6️⃣ [Someone attempted suicide by injecting 10 ml &lpar;135 g&rpar; of elemental mercury &lpar;quicksilver&rpar; intravenously ended up mercury distributed in the lungs and also survived.](http://9gag.com/gag/a5QpoYy)
+ - 😝 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)
+ - 👉 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)<!-- MEMES:END -->
 
 --- 
 
