@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surveillance has a body count](https://www.theverge.com/2024/3/20/24106098/cbp-migrant-deaths-border-surveillance)
- - [Watch Neuralink’s First Human Subject Demonstrate His Brain-Computer Interface](https://www.wired.com/story/neuralink-implant-first-human-patient-demonstration/)
- - [Sources: the US DOJ is poised to sue Apple as soon as Thursday, accusing it of violating antitrust laws by blocking rivals from accessing iPhone features &lpar;Bloomberg&rpar;](http://www.techmeme.com/240320/p39#a240320p39)<!-- TECH:END -->
+ - [A UK jury finds Jian Wen guilty of laundering bitcoin for a Chinese fugitive allegedly behind a ~$6B fraud in China; police had seized BTC worth $2.2B+ in 2018 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240320/p42#a240320p42)
+ - [The Swatch x Omega Snoopy MoonSwatch Has Landed](https://www.wired.com/story/the-swatch-x-omega-snoopy-moonswatch-has-landed/)
+ - [‘The Legend of Zelda: Tears of the Kingdom’ Initial Prototypes Were ‘Chaos’](https://www.wired.com/story/the-legend-of-zelda-tears-of-the-kingdom-initial-prototypes-were-chaos/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
