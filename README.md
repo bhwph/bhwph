@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android finally gets Samsung to cave in, owners starting to see seamless updates](https://www.androidauthority.com/samsung-adopts-seamless-updates-3427540/)
- - [Microsoft updates the Surface Laptop 6 and Surface Pro 10 for enterprise, adding a Copilot key, a Neural Processing Unit for Windows 11 AI features, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240321/p28#a240321p28)
- - [The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge](https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/)<!-- TECH:END -->
+ - [26 Best Deals From the Amazon Big Spring Sale &lpar;2024&rpar;](https://www.wired.com/story/amazon-big-spring-sale-2024/)
+ - [Apple will crush the DoJ in court if Garland sticks with outdated arguments](https://appleinsider.com/articles/24/03/21/apple-will-crush-the-doj-in-court-if-garland-sticks-with-outdated-arguments?utm_medium=rss)
+ - [The DOJ&#39;s Apple suit has a lot of parallels to its Microsoft suit in the 1990s, but Apple&#39;s monopoly position is not nearly as clear-cut as Microsoft&#39;s was &lpar;Matt Rosoff/TechCrunch&rpar;](http://www.techmeme.com/240321/p34#a240321p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
