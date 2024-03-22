@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 29 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [&#39;Let&#39;s just have closure on Baldur&#39;s Gate 3, it&#39;s been great. We&#39;ve done our job&#39;: Larian CEO says he hit the brakes on DLC plans because the team&#39;s heart wasn&#39;t in it](https://www.pcgamer.com/games/baldurs-gate/lets-just-have-closure-on-baldurs-gate-3-its-been-great-weve-done-our-job-larian-ceo-says-he-hit-the-brakes-on-dlc-plans-because-the-teams-heart-wasnt-in-it)
- - [Ghostbusters: Rise of the Ghost Lord launches free DLC with new multi-mission pack on March 28](https://blog.playstation.com/2024/03/22/ghostbusters-rise-of-the-ghost-lord-launches-free-dlc-with-new-multi-mission-pack-on-march-28/)<!-- GAME:END -->
+ - [I&#39;m sad to see the old gang go, but Larian really doesn&#39;t need the Baldur&#39;s Gate IP or D&amp;D to make another groundbreaking RPG](https://www.pcgamer.com/games/baldurs-gate/im-sad-to-see-the-old-gang-go-but-larian-really-doesnt-need-the-baldurs-gate-ip-or-dandd-to-make-another-groundbreaking-rpg)
+ - [Everything you need to jump into Pathfinder’s Old West setting is just $30 at Humble](https://www.polygon.com/deals/24108124/paizo-pathfinder-outlaws-alkenstar-ttrpg-humble-bundle)
+ - [Where to find Mystery Boxes in Stardew Valley](https://www.polygon.com/guides/24107906/stardew-valley-sdv-mystery-box-locations-unlock-open)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
