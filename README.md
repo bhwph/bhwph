@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Larian CEO Swen Vincke accepts Baldur&#39;s Gate 3&#39;s latest award by blasting corporate &#39;greed&#39; devastating devs: &#39;I&#39;ve been fighting with publishers my whole life, and I keep on seeing the same mistakes&#39;](https://www.pcgamer.com/gaming-industry/events-conferences/larian-ceo-swen-vincke-accepts-baldurs-gate-3s-latest-award-by-blasting-corporate-greed-devastating-devs-ive-been-fighting-with-publishers-my-whole-life-and-i-keep-on-seeing-the-same-mistakes)
- - [Qualcomm claims Windows games &#39;just work&#39; on its new Arm laptop chip](https://www.pcgamer.com/hardware/gaming-laptops/qualcomm-claims-windows-games-just-work-on-its-new-arm-laptop-chip)
- - [&#39;It took a while, we know&#39;: Epic Games is introducing a first-person camera to Fortnite, which I&#39;ll probably just use to look at all the Peter Griffin skins](https://www.pcgamer.com/games/third-person-shooter/it-took-a-while-we-know-epic-games-is-introducing-a-first-person-camera-which-ill-probably-just-use-to-look-at-all-the-peter-griffin-skins)<!-- GAME:END -->
+ - [The 29 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [&#39;Let&#39;s just have closure on Baldur&#39;s Gate 3, it&#39;s been great. We&#39;ve done our job&#39;: Larian CEO says he hit the brakes on DLC plans because the team&#39;s heart wasn&#39;t in it](https://www.pcgamer.com/games/baldurs-gate/lets-just-have-closure-on-baldurs-gate-3-its-been-great-weve-done-our-job-larian-ceo-says-he-hit-the-brakes-on-dlc-plans-because-the-teams-heart-wasnt-in-it)
+ - [Ghostbusters: Rise of the Ghost Lord launches free DLC with new multi-mission pack on March 28](https://blog.playstation.com/2024/03/22/ghostbusters-rise-of-the-ghost-lord-launches-free-dlc-with-new-multi-mission-pack-on-march-28/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
