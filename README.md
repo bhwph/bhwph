@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some senators who received a classified briefing about TikTok say China&#39;s government can use the app to spy on US users and push propaganda at alarming levels &lpar;Axios&rpar;](http://www.techmeme.com/240321/p48#a240321p48)
- - [How to change the volume on a Mac in small increments](https://appleinsider.com/inside/macos/tips/how-to-change-the-volume-on-a-mac-in-small-increments?utm_medium=rss)
- - [Medium says it will revoke Partner Program enrollment from writers who publish AI-generated stories, even with disclosure, and other low-quality content &lpar;Buster Benson/The Medium Blog&rpar;](http://www.techmeme.com/240321/p47#a240321p47)<!-- TECH:END -->
+ - [It’s true: Apple tried to make the Apple Watch work with Android](https://www.androidauthority.com/apple-watch-work-android-3427682/)
+ - [On the first day of Pwn2Own Vancouver 2024, contestants earned $732,500 and a Tesla Model 3 for demoing 19 zero-day flaws across Windows 11, Tesla, and others &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240322/p2#a240322p2)
+ - [MediaTek introduced Dimensity Auto Cockpit, its automotive-focused SoCs, this week, becoming the first third-party company to use Nvidia&#39;s GPU IP in its chips &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/240322/p1#a240322p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
