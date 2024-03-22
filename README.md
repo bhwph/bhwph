@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet payments are getting annoying, but Android 15 might fix that](https://www.androidauthority.com/google-wallet-needs-authentication-3427997/)
- - [Sources: Anthropic has ruled out taking any Saudi money over national security concerns, as investors jostle to buy into FTX&#39;s 8% stake that is now worth ~$1B &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/240322/p20#a240322p20)
- - [How to turn off Apple&#39;s Journal &#39;Discoverable by Others&#39; setting that&#39;s enabled by default](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-apples-journal-discoverable-by-others-setting-thats-enabled-by-default?utm_medium=rss)<!-- TECH:END -->
+ - [US v. Apple: everything you need to know](https://www.theverge.com/24107581/doj-v-apple-antitrust-monoply-news-updates)
+ - [33 Best Deals From the Amazon Big Spring Sale &lpar;2024&rpar;](https://www.wired.com/story/amazon-big-spring-sale-2024/)
+ - [Digital marketing software company Ibotta files for a US IPO, reportedly seeking a $2B valuation, and says it had a profit of $38M on revenue of $320M in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240322/p23#a240322p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
