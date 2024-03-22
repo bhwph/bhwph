@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meituan reports Q4 revenue up 23% YoY to ~$10.2B and a net income of ~$308.4M, both above estimates, as the food delivery giant plans international expansion &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240322/p5#a240322p5)
- - [The UK CMA launches a formal Phase 2 of its review of the Vodafone and Three UK&#39;s $19B merger, after finding competition and pricing concerns in Phase 1 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240322/p4#a240322p4)
- - [Best iPhone Deals 2024: Trade-In Offers, Discounts and More for iPhone 15, 14, 13 and SE     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: YC plans to raise at least $2B across three new funds that include exposure to its next four startup batches and follow-on investments as they grow &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240322/p7#a240322p7)
+ - [US sues Apple, Epic complaints, and no iPads just yet on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/22/us-sues-apple-epic-complaints-and-no-ipads-just-yet-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Apple has a wide array of research to command the future AR and VR market](https://appleinsider.com/articles/24/03/22/apple-has-a-wide-array-of-research-to-command-the-future-ar-and-vr-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
