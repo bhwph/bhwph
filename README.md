@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile 2&#39;s beta delayed from June &#39;until later in the year&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-2s-beta-delayed-from-june-until-later-in-the-year)
- - [Dragon&#39;s Dogma 2: The best settings for your PC](https://www.pcgamer.com/hardware/dragons-dogma-2-the-best-settings-for-your-pc)
- - [5 crucial changes in Diablo 4&#39;s gigantic season 4 rework](https://www.pcgamer.com/games/action/5-changes-diablo-4-season-4-rework)<!-- GAME:END -->
+ - [The best Fighter build for beginners in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24107905/fighter-build-best-skills-augments-equipment)
+ - [The best Thief build for beginners in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24107899/thief-build-best-skills-augments-equipment)
+ - [How to get into Battahl in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24106986/battahl-how-to-enter-pass-gate-human-beastren)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
