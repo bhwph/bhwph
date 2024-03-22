@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beetlejuice Beetlejuice brings the dead man home in its first trailer](https://www.theverge.com/24108114/beetlejuice-beetlejuice-trailer-tim-burton-jenna-ortega)
- - [Apple&#39;s iMessage Encryption Puts Its Security Practices in the DOJ&#39;s Crosshairs](https://www.wired.com/story/apple-doj-antitrust-imessage-encryption/)
- - [The Antitrust Case Against Apple Argues It Has a Stranglehold on the Future](https://www.wired.com/story/antitrust-case-apple-stranglehold-on-the-future/)<!-- TECH:END -->
+ - [Robinhood co-founder and Chief Creative Officer Baiju Bhatt plans to step down to pursue other entrepreneurial interests, but will remain on the company&#39;s board &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240321/p44#a240321p44)
+ - [OWC 14-port Thunderbolt Dock is back down to $99, the lowest price ever](https://appleinsider.com/articles/24/03/22/owc-14-port-thunderbolt-dock-is-back-down-to-99-the-lowest-price-ever?utm_medium=rss)
+ - [In its lawsuit, the US DOJ alleges CarPlay lets Apple exert too much control over the auto industry; some analysts say the DOJ may be misunderstanding CarPlay &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240321/p43#a240321p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
