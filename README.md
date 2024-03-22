@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s how 3 Body Problem’s neatest plot device works](https://www.polygon.com/24105807/3-body-problem-sophons-protons-explainer)
- - [FF7 Rebirth’s Best Materia For Dealing Magic Damage](https://kotaku.com/final-fantasy-7-rebirth-ff7-fire-ice-lightning-wind-1851359434)
- - [How to delete your Dragon’s Dogma 2 save files on Steam](https://www.polygon.com/dragons-dogma-2-guide/24108801/delete-steam-save-files-back-up-data-start-new-game)<!-- GAME:END -->
+ - [The year’s most stylish horror movie so far is about a late-night talk show](https://www.polygon.com/reviews/24108737/late-night-with-devil-horror-movie-talk-show-style)
+ - [Don’t let the propaganda fool you: Helldivers 2 definitely added flying bugs](https://www.polygon.com/24099472/helldivers-2-flying-bugs-terminids-update-patch)
+ - [Where to find your first 30 Seeker’s Tokens in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24107917/seekers-tokens-vermund-map-location-reward)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
