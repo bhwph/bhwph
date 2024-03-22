@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The year’s most stylish horror movie so far is about a late-night talk show](https://www.polygon.com/reviews/24108737/late-night-with-devil-horror-movie-talk-show-style)
- - [Don’t let the propaganda fool you: Helldivers 2 definitely added flying bugs](https://www.polygon.com/24099472/helldivers-2-flying-bugs-terminids-update-patch)
- - [Where to find your first 30 Seeker’s Tokens in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24107917/seekers-tokens-vermund-map-location-reward)<!-- GAME:END -->
+ - [Against all odds, World of Warcraft&#39;s subscription price hasn&#39;t changed in 20 years: &#39;I&#39;d rather have a big, healthy, happy audience&#39; than risk driving players away with a price hike, Warcraft boss says](https://www.pcgamer.com/games/world-of-warcraft/against-all-odds-world-of-warcrafts-subscription-price-hasnt-changed-in-20-years-id-rather-have-a-big-healthy-happy-audience-than-risk-driving-players-away-with-a-price-hike-warcraft-boss-says)
+ - [&#39;Is Dave The Diver an indie game? I would say no,&#39; says game director](https://www.pcgamer.com/games/adventure/is-dave-the-diver-an-indie-game-i-would-say-no-says-game-director)
+ - [There were an obscene amount of trailers this week](https://www.polygon.com/2024/3/22/24108836/new-movie-tv-trailers-furiosa-alien-house-dragon-fallout-fall-guy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
