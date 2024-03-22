@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Russian nun simulator Indika, my most anticipated game this year, breaks out the dancing PVC fetish men to announce its May release date](https://www.pcgamer.com/games/adventure/russian-nun-simulator-indika-my-most-anticipated-game-this-year-breaks-out-the-dancing-pvc-fetish-men-to-announce-its-may-release-date)
- - [&#39;Still Wakes the Deep is the game I joined The Chinese Room to make&#39;: A new release date trailer gives us another look at the horrifying Beira D oil rig](https://www.pcgamer.com/games/horror/still-wakes-the-deep-is-the-game-i-joined-the-chinese-room-to-make-a-new-release-date-trailer-gives-us-another-look-at-the-horrifying-beira-d-oil-rig)
- - [Bungie perma-bans Destiny 2 players who sent racist abuse to one of its developers during a livestream this week](https://www.pcgamer.com/games/fps/bungie-perma-bans-destiny-2-players-who-sent-racist-abuse-to-one-of-its-developers-during-a-livestream-this-week)<!-- GAME:END -->
+ - [Path of Exile 2&#39;s beta delayed from June &#39;until later in the year&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-2s-beta-delayed-from-june-until-later-in-the-year)
+ - [Dragon&#39;s Dogma 2: The best settings for your PC](https://www.pcgamer.com/hardware/dragons-dogma-2-the-best-settings-for-your-pc)
+ - [5 crucial changes in Diablo 4&#39;s gigantic season 4 rework](https://www.pcgamer.com/games/action/5-changes-diablo-4-season-4-rework)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
