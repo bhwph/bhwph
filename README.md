@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - 😝 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
- - 👉 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)<!-- MEMES:END -->
+ - 6️⃣ [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
+ - 😝 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
+ - 👉 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)<!-- MEMES:END -->
 
 --- 
 
