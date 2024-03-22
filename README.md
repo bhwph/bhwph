@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon’s Dogma 2 pawns and how they work](https://www.pcgamer.com/games/rpg/dragons-dogma-2-pawns)
- - [How to defeat cyclops in Dragon&#39;s Dogma 2](https://www.pcgamer.com/games/rpg/dragons-dogma-2-cyclops-how-to-beat)
- - [How to make fruit roborant in Dragon&#39;s Dogma 2](https://www.pcgamer.com/games/rpg/dragons-dogma-2-fruit-roborant-medicament-predicament)<!-- GAME:END -->
+ - [Larian CEO Swen Vincke accepts Baldur&#39;s Gate 3&#39;s latest award by blasting corporate &#39;greed&#39; devastating devs: &#39;I&#39;ve been fighting with publishers my whole life, and I keep on seeing the same mistakes&#39;](https://www.pcgamer.com/gaming-industry/events-conferences/larian-ceo-swen-vincke-accepts-baldurs-gate-3s-latest-award-by-blasting-corporate-greed-devastating-devs-ive-been-fighting-with-publishers-my-whole-life-and-i-keep-on-seeing-the-same-mistakes)
+ - [Qualcomm claims Windows games &#39;just work&#39; on its new Arm laptop chip](https://www.pcgamer.com/hardware/gaming-laptops/qualcomm-claims-windows-games-just-work-on-its-new-arm-laptop-chip)
+ - [&#39;It took a while, we know&#39;: Epic Games is introducing a first-person camera to Fortnite, which I&#39;ll probably just use to look at all the Peter Griffin skins](https://www.pcgamer.com/games/third-person-shooter/it-took-a-while-we-know-epic-games-is-introducing-a-first-person-camera-which-ill-probably-just-use-to-look-at-all-the-peter-griffin-skins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
