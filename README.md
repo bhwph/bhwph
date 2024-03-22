@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
- - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
- - 👉 [Def Wallace](http://9gag.com/gag/a9yjpq0)<!-- MEMES:END -->
+ - 6️⃣ [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
+ - 😝 [Good guy Amish](http://9gag.com/gag/aBy9xXA)
+ - 👉 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)<!-- MEMES:END -->
 
 --- 
 
