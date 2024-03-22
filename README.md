@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good guy Amish](http://9gag.com/gag/aBy9xXA)
- - 😝 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)
- - 👉 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)<!-- MEMES:END -->
+ - 6️⃣ [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
+ - 😝 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)
+ - 👉 [Can&#39;t Touch This](http://9gag.com/gag/ayNEXnY)<!-- MEMES:END -->
 
 --- 
 
