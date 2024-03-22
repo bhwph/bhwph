@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
- - 😝 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
- - 👉 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)<!-- MEMES:END -->
+ - 6️⃣ [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)
+ - 😝 [What a plot twist](http://9gag.com/gag/aGyKjbK)
+ - 👉 [Elon has joined the fight](http://9gag.com/gag/adBy5ZZ)<!-- MEMES:END -->
 
 --- 
 
