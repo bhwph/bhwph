@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
- - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
- - 👉 [Last time i checked it was a crime.](http://9gag.com/gag/a34vQdr)<!-- MEMES:END -->
+ - 6️⃣ [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
+ - 😝 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
+ - 👉 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)<!-- MEMES:END -->
 
 --- 
 
