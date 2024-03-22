@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
- - 😝 [Good guy Amish](http://9gag.com/gag/aBy9xXA)
- - 👉 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)<!-- MEMES:END -->
+ - 6️⃣ [Love is for idiots.](http://9gag.com/gag/a87d3NY)
+ - 😝 [I&#39;m not drunk... I can drive... Gimme my keys back](http://9gag.com/gag/axyE7Kp)
+ - 👉 [Def Wallace](http://9gag.com/gag/a9yjpq0)<!-- MEMES:END -->
 
 --- 
 
