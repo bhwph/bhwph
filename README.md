@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Love is for idiots.](http://9gag.com/gag/a87d3NY)
- - 😝 [I&#39;m not drunk... I can drive... Gimme my keys back](http://9gag.com/gag/axyE7Kp)
- - 👉 [Def Wallace](http://9gag.com/gag/a9yjpq0)<!-- MEMES:END -->
+ - 6️⃣ [You can tell she used to be a ballet instructor. Name is Kanna Fuji, yes she does.](http://9gag.com/gag/a4Pp74p)
+ - 😝 [Lol](http://9gag.com/gag/ajPQ8wx)
+ - 👉 [Dog does dog things](http://9gag.com/gag/avy2zZq)<!-- MEMES:END -->
 
 --- 
 
