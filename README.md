@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)
- - 😝 [What a plot twist](http://9gag.com/gag/aGyKjbK)
- - 👉 [Elon has joined the fight](http://9gag.com/gag/adBy5ZZ)<!-- MEMES:END -->
+ - 6️⃣ [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
+ - 😝 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
+ - 👉 [Delicious vanilla ice cream](http://9gag.com/gag/aRB635A)<!-- MEMES:END -->
 
 --- 
 
