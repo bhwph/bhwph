@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
- - 😝 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)
- - 👉 [Can&#39;t Touch This](http://9gag.com/gag/ayNEXnY)<!-- MEMES:END -->
+ - 6️⃣ [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
+ - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
+ - 👉 [Last time i checked it was a crime.](http://9gag.com/gag/a34vQdr)<!-- MEMES:END -->
 
 --- 
 
