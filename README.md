@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m sad to see the old gang go, but Larian really doesn&#39;t need the Baldur&#39;s Gate IP or D&amp;D to make another groundbreaking RPG](https://www.pcgamer.com/games/baldurs-gate/im-sad-to-see-the-old-gang-go-but-larian-really-doesnt-need-the-baldurs-gate-ip-or-dandd-to-make-another-groundbreaking-rpg)
- - [Everything you need to jump into Pathfinder’s Old West setting is just $30 at Humble](https://www.polygon.com/deals/24108124/paizo-pathfinder-outlaws-alkenstar-ttrpg-humble-bundle)
- - [Where to find Mystery Boxes in Stardew Valley](https://www.polygon.com/guides/24107906/stardew-valley-sdv-mystery-box-locations-unlock-open)<!-- GAME:END -->
+ - [Here’s how 3 Body Problem’s neatest plot device works](https://www.polygon.com/24105807/3-body-problem-sophons-protons-explainer)
+ - [FF7 Rebirth’s Best Materia For Dealing Magic Damage](https://kotaku.com/final-fantasy-7-rebirth-ff7-fire-ice-lightning-wind-1851359434)
+ - [How to delete your Dragon’s Dogma 2 save files on Steam](https://www.polygon.com/dragons-dogma-2-guide/24108801/delete-steam-save-files-back-up-data-start-new-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
