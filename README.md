@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hasselblad 907X 100C Review: Digital Smarts With a Film Soul](https://www.wired.com/review/hasselblad-907x-100c/)
- - [Unprecedented $380 price drop on the Samsung Galaxy Book 3](https://www.androidauthority.com/samsung-galaxy-book-3-deal-3427678/)
- - [In its lawsuit, the US DOJ says Apple deploys &quot;privacy and security justifications as an elastic shield that can stretch or contract&quot; to serve its interests &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240322/p9#a240322p9)<!-- TECH:END -->
+ - [Senators push to declassify TikTok briefings](https://www.theverge.com/2024/3/22/24108674/tiktok-ban-classified-intelligence-briefing-china-national-security)
+ - [Google plans to remove the ability to download third-party apps and watch faces for all Fitbit smartwatches in the EU in June, citing &quot;regulatory requirements&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240322/p13#a240322p13)
+ - [&#39;The Idea of You&#39;: When the Romantic Drama Hits Prime Video     - CNET](https://www.cnet.com/tech/services-and-software/the-idea-of-you-when-the-romantic-drama-hits-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
