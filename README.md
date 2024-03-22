@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: YC plans to raise at least $2B across three new funds that include exposure to its next four startup batches and follow-on investments as they grow &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240322/p7#a240322p7)
- - [US sues Apple, Epic complaints, and no iPads just yet on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/22/us-sues-apple-epic-complaints-and-no-ipads-just-yet-on-the-appleinsider-podcast?utm_medium=rss)
- - [Apple has a wide array of research to command the future AR and VR market](https://appleinsider.com/articles/24/03/22/apple-has-a-wide-array-of-research-to-command-the-future-ar-and-vr-market?utm_medium=rss)<!-- TECH:END -->
+ - [Hasselblad 907X 100C Review: Digital Smarts With a Film Soul](https://www.wired.com/review/hasselblad-907x-100c/)
+ - [Unprecedented $380 price drop on the Samsung Galaxy Book 3](https://www.androidauthority.com/samsung-galaxy-book-3-deal-3427678/)
+ - [In its lawsuit, the US DOJ says Apple deploys &quot;privacy and security justifications as an elastic shield that can stretch or contract&quot; to serve its interests &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240322/p9#a240322p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
