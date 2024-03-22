@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Senators push to declassify TikTok briefings](https://www.theverge.com/2024/3/22/24108674/tiktok-ban-classified-intelligence-briefing-china-national-security)
- - [Google plans to remove the ability to download third-party apps and watch faces for all Fitbit smartwatches in the EU in June, citing &quot;regulatory requirements&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240322/p13#a240322p13)
- - [&#39;The Idea of You&#39;: When the Romantic Drama Hits Prime Video     - CNET](https://www.cnet.com/tech/services-and-software/the-idea-of-you-when-the-romantic-drama-hits-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mark Zuckerberg says Threads is adding live scores for NBA games, and plans to add support for additional leagues in the future &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240322/p17#a240322p17)
+ - [Apple has decided against making its own microLED Apple Watch displays](https://appleinsider.com/articles/24/03/22/apple-has-decided-against-making-its-own-microled-apple-watch-displays?utm_medium=rss)
+ - [Meta’s breakthrough could make manual VR room scanning obsolete](https://www.androidauthority.com/meta-ai-room-scanning-3427933/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
