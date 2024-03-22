@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers reveal a hotel keycard hacking technique that lets a hacker almost instantly open RFID-based Saflok locks used in ~3M doors across 13K properties &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240322/p3#a240322p3)
- - [Google is taking inspiration from the OnePlus Open for this new Pixel Fold feature](https://www.androidauthority.com/google-pixel-fold-feature-swipe-up-to-continue-3427727/)
- - [The first phone with the powerful Snapdragon 7 Plus Gen 3 chip is here, thanks to OnePlus](https://www.androidauthority.com/oneplus-ace-3v-3427430/)<!-- TECH:END -->
+ - [Meituan reports Q4 revenue up 23% YoY to ~$10.2B and a net income of ~$308.4M, both above estimates, as the food delivery giant plans international expansion &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240322/p5#a240322p5)
+ - [The UK CMA launches a formal Phase 2 of its review of the Vodafone and Three UK&#39;s $19B merger, after finding competition and pricing concerns in Phase 1 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240322/p4#a240322p4)
+ - [Best iPhone Deals 2024: Trade-In Offers, Discounts and More for iPhone 15, 14, 13 and SE     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
