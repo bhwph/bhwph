@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s true: Apple tried to make the Apple Watch work with Android](https://www.androidauthority.com/apple-watch-work-android-3427682/)
- - [On the first day of Pwn2Own Vancouver 2024, contestants earned $732,500 and a Tesla Model 3 for demoing 19 zero-day flaws across Windows 11, Tesla, and others &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240322/p2#a240322p2)
- - [MediaTek introduced Dimensity Auto Cockpit, its automotive-focused SoCs, this week, becoming the first third-party company to use Nvidia&#39;s GPU IP in its chips &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/240322/p1#a240322p1)<!-- TECH:END -->
+ - [Researchers reveal a hotel keycard hacking technique that lets a hacker almost instantly open RFID-based Saflok locks used in ~3M doors across 13K properties &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240322/p3#a240322p3)
+ - [Google is taking inspiration from the OnePlus Open for this new Pixel Fold feature](https://www.androidauthority.com/google-pixel-fold-feature-swipe-up-to-continue-3427727/)
+ - [The first phone with the powerful Snapdragon 7 Plus Gen 3 chip is here, thanks to OnePlus](https://www.androidauthority.com/oneplus-ace-3v-3427430/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
