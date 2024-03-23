@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [CAPCOM! WTF is this Bullshit!?](http://9gag.com/gag/aYQjy3m)
- - 😝 [London Business trip](http://9gag.com/gag/aAyBe69)
- - 👉 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)<!-- MEMES:END -->
+ - 6️⃣ [Peak male performance](http://9gag.com/gag/aVvjbKy)
+ - 😝 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)
+ - 👉 [Milk](http://9gag.com/gag/aRB6EM2)<!-- MEMES:END -->
 
 --- 
 
