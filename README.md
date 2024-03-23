@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the ways Dragon’s Dogma 2 will fight against you](https://www.polygon.com/gaming/24107896/dragons-dogma-2-fast-travel-towers-enemy-lock-on)
- - [Stardew Valley&#39;s Big Patch, An Apex Legends Hack, And More Of The Week&#39;s Gaming News](https://kotaku.com/stardew-valleys-big-patch-an-apex-legends-hack-and-mo-1851359117)
- - [Today&#39;s Wordle answer for Saturday, March 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-23-2024)<!-- GAME:END -->
+ - [Stardew Valley, Final Fantasy 7 Rebirth, And More Essential Tips Of The Week](https://kotaku.com/stardew-valley-final-fantasy-7-rebirth-and-more-essen-1851359118)
+ - [How to unlock the Warfarer vocation in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24108751/warfarer-vocation-how-to-unlock-where-to-find-newt-liqueur)
+ - [How to unlock the Magick Archer vocation in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24108750/magick-archer-vocation-unlock-location-where-to-find-cliodhna)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
