@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, March 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-23-2024)
  - [&#39;Make a private hosted version of your game&#39;: Knockout City dev&#39;s top tip for studios shutting down a live service game is to give players the keys](https://www.pcgamer.com/knockout-city-sunset-gdc-talk)
- - [Industria 2 is &#39;a narrative FPS to its core,&#39; but its first-ever trailer is giving me real Half-Life 2 vibes](https://www.pcgamer.com/games/fps/industria-2-is-a-narrative-fps-to-its-core-but-its-first-ever-trailer-is-giving-me-real-half-life-2-vibes)
- - [The new Windows update made me think I&#39;d installed malware, but it was just Microsoft&#39;s latest attempt to try and fool me into using Bing](https://www.pcgamer.com/software/windows/the-new-windows-update-made-me-think-id-installed-malware-but-it-was-just-microsofts-latest-attempt-to-try-and-fool-me-into-using-bing)<!-- GAME:END -->
+ - [Industria 2 is &#39;a narrative FPS to its core,&#39; but its first-ever trailer is giving me real Half-Life 2 vibes](https://www.pcgamer.com/games/fps/industria-2-is-a-narrative-fps-to-its-core-but-its-first-ever-trailer-is-giving-me-real-half-life-2-vibes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
