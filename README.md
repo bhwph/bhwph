@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
- - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - 👉 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)<!-- MEMES:END -->
+ - 6️⃣ [Posting memes I found on my smartphone until I get bored or die #182](http://9gag.com/gag/aE0dpmo)
+ - 😝 [Because it bloody well is. The devs knows what&#39;s up.](http://9gag.com/gag/aW4BxA3)
+ - 👉 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)<!-- MEMES:END -->
 
 --- 
 
