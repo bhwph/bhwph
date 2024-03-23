@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - 😝 [London Business trip](http://9gag.com/gag/aAyBe69)
- - 👉 [Gushing over Peak Fiction](http://9gag.com/gag/aRB6EK5)<!-- MEMES:END -->
+ - 6️⃣ [NASA&#39;s coffee cup designed specifically to not spill in zero gravity](http://9gag.com/gag/aZZqymV)
+ - 😝 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)
+ - 👉 [Milk](http://9gag.com/gag/aRB6EM2)<!-- MEMES:END -->
 
 --- 
 
