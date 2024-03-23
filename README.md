@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&#39;s How to Tell If Your Solar Eclipse Glasses Are Legit     - CNET](https://www.cnet.com/health/personal-care/how-to-tell-if-your-solar-eclipse-glasses-are-safe-or-fake/#ftag=CAD590a51e)
- - [These Luxury Cooling Pillows Are 20% Off Today     - CNET](https://www.cnet.com/deals/these-luxury-cooling-pillows-are-20-off-today/#ftag=CAD590a51e)
- - [Study finds that China produced almost 50% of the world&#39;s top AI researchers, compared to ~18% from the US, thanks to China&#39;s heavy investment in AI education &lpar;New York Times&rpar;](http://www.techmeme.com/240323/p1#a240323p1)<!-- TECH:END -->
+ - [Apple Chip Flaw Leaks Secret Encryption Keys](https://www.wired.com/story/apple-m-chip-flaw-leak-encryption-keys/)
+ - [43 Home and Kitchen Deals Still Live on Amazon     - CNET](https://www.cnet.com/deals/43-home-and-kitchen-deals-still-live-on-amazon/#ftag=CAD590a51e)
+ - [Why You Should Turn Off Journal Suggestions on Your iPhone     - CNET](https://www.cnet.com/tech/mobile/why-you-should-turn-off-journal-suggestions-on-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
