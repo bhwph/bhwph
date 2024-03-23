@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We all have been there with buffets](http://9gag.com/gag/aVvj0GO)
- - 😝 [\u2803\u280a\u281b \u280d\u2815\u280d\u280d\u283d \u280d\u280a\u2807\u2805](http://9gag.com/gag/ary1VPp)
- - 👉 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)<!-- MEMES:END -->
+ - 6️⃣ [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
+ - 😝 [London Business trip](http://9gag.com/gag/aAyBe69)
+ - 👉 [I&#39;m always right.](http://9gag.com/gag/a4PpRWw)<!-- MEMES:END -->
 
 --- 
 
