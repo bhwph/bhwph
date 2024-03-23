@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Watch 2: A great smartwatch, held back by Google’s shortcomings](https://www.androidauthority.com/oneplus-watch-2-google-3427289/)
- - [Didi Q4: revenue up 55.4% YoY to ~$6.83B, a ~$113.15M net income, up from a ~$131.8M loss YoY, as the company continues its recovery after regulatory challenges &lpar;Reuters&rpar;](http://www.techmeme.com/240323/p7#a240323p7)
- - [Belkin’s fast-charging Apple Watch power bank is down to its best price yet](https://www.theverge.com/2024/3/23/24109003/belkin-boostcharge-pro-power-bank-garmin-forerunner-255s-running-watch-deal-sale)<!-- TECH:END -->
+ - [Source: HeyGen, which uses AI to generate avatars and voices for videos, is raising $60M at a $440M pre-investment valuation, amid concerns about its China ties &lpar;The Information&rpar;](http://www.techmeme.com/240323/p9#a240323p9)
+ - [Best Fitbit Deals: Amazon&#39;s Spring Sale Can Save You Up to $54 on the Sense 2     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
+ - [Get Started With 3D Printing for Less With This AnkerMake M5 Deal     - CNET](https://www.cnet.com/deals/get-started-with-3d-printing-for-less-with-this-ankermake-m5-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
