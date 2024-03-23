@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Prey for the Pack’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24109698/prey-for-the-pack-walkthrough-rodge-location-where-to-find)
- - [‘Oxcart Courier’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24109714/oxcart-courier-walkthrough-lennart-location-where-to-find)
- - [Lightyear Frontier is a calming sim where you and a mech can relax](https://www.polygon.com/24108826/lightyear-frontier-impressions-early-access-pc-xbox)<!-- GAME:END -->
+ - [Dragon’s Dogma 2 guides, walkthroughs, and explainers](https://www.polygon.com/dragons-dogma-2-guide/24109068/quests-walkthroughs-explainers)
+ - [The best horror movies of the year so far, ranked by scariness](https://www.polygon.com/24090384/best-horror-movies-2024-how-scary)
+ - [‘Prey for the Pack’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24109698/prey-for-the-pack-walkthrough-rodge-location-where-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
