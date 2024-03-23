@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US v. Apple: everything you need to know](https://www.theverge.com/24107581/doj-v-apple-antitrust-monoply-news-updates)
- - [33 Best Deals From the Amazon Big Spring Sale &lpar;2024&rpar;](https://www.wired.com/story/amazon-big-spring-sale-2024/)
- - [Digital marketing software company Ibotta files for a US IPO, reportedly seeking a $2B valuation, and says it had a profit of $38M on revenue of $320M in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240322/p23#a240322p23)<!-- TECH:END -->
+ - [GM says it has stopped sharing driving data with two data brokers, after a report showed GM and others collecting and sharing data without clear consent &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240322/p27#a240322p27)
+ - [Asus’ tiny 2.5-liter gaming NUC tentatively starts at $1,629 in the US](https://www.theverge.com/2024/3/22/24109140/asus-rog-nuc-pricing-availability)
+ - [Mozilla ends a partnership with Onerep, which lets users remove data from people-search sites, after a report showed Onerep&#39;s CEO founded dozens of such sites &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240322/p26#a240322p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
