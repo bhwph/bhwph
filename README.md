@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Against all odds, World of Warcraft&#39;s subscription price hasn&#39;t changed in 20 years: &#39;I&#39;d rather have a big, healthy, happy audience&#39; than risk driving players away with a price hike, Warcraft boss says](https://www.pcgamer.com/games/world-of-warcraft/against-all-odds-world-of-warcrafts-subscription-price-hasnt-changed-in-20-years-id-rather-have-a-big-healthy-happy-audience-than-risk-driving-players-away-with-a-price-hike-warcraft-boss-says)
- - [&#39;Is Dave The Diver an indie game? I would say no,&#39; says game director](https://www.pcgamer.com/games/adventure/is-dave-the-diver-an-indie-game-i-would-say-no-says-game-director)
- - [There were an obscene amount of trailers this week](https://www.polygon.com/2024/3/22/24108836/new-movie-tv-trailers-furiosa-alien-house-dragon-fallout-fall-guy)<!-- GAME:END -->
+ - [&#39;Make a private hosted version of your game&#39;: Knockout City dev&#39;s top tip for studios shutting down a live service game is to give players the keys](https://www.pcgamer.com/knockout-city-sunset-gdc-talk)
+ - [Industria 2 is &#39;a narrative FPS to its core,&#39; but its first-ever trailer is giving me real Half-Life 2 vibes](https://www.pcgamer.com/games/fps/industria-2-is-a-narrative-fps-to-its-core-but-its-first-ever-trailer-is-giving-me-real-half-life-2-vibes)
+ - [The new Windows update made me think I&#39;d installed malware, but it was just Microsoft&#39;s latest attempt to try and fool me into using Bing](https://www.pcgamer.com/software/windows/the-new-windows-update-made-me-think-id-installed-malware-but-it-was-just-microsofts-latest-attempt-to-try-and-fool-me-into-using-bing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
