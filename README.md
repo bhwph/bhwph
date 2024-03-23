@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
+ - 6️⃣ [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
  - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - 👉 [Spectators realize how sticky the track is](http://9gag.com/gag/avy2zvE)<!-- MEMES:END -->
+ - 👉 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)<!-- MEMES:END -->
 
 --- 
 
