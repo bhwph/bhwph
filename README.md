@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon’s Dogma 2 guides, walkthroughs, and explainers](https://www.polygon.com/dragons-dogma-2-guide/24109068/quests-walkthroughs-explainers)
- - [The best horror movies of the year so far, ranked by scariness](https://www.polygon.com/24090384/best-horror-movies-2024-how-scary)
- - [‘Prey for the Pack’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24109698/prey-for-the-pack-walkthrough-rodge-location-where-to-find)<!-- GAME:END -->
+ - [‘The Caged Magistrate’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24109862/caged-magistrate-quest-walkthrough-where-to-find-waldahr)
+ - [FF14 Dawntrail will release in July, with early access a few days earlier](https://www.pcgamer.com/games/mmo/ff14-dawntrail-will-release-in-july-with-early-access-a-few-days-earlier)
+ - [Dragon’s Dogma 2 guides, walkthroughs, and explainers](https://www.polygon.com/dragons-dogma-2-guide/24109068/quests-walkthroughs-explainers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
