@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My 10 favorite watch faces for the Pixel Watch and Galaxy Watch](https://www.androidauthority.com/10-favorite-watch-faces-pixel-galaxy-3427976/)
- - [How to find any file on Windows](https://www.theverge.com/24108104/windows-microsoft-search-files-how-to)
- - [Financial Times tests an AI chatbot trained on decades of its own articles](https://www.theverge.com/2024/3/23/24106296/ask-ft-generative-ai-chatbot-answers-tool)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/5-android-apps-you-shouldnt-miss-this-week-and-all-the-latest-app-news-android-apps-weekly-3427974/)
+ - [8 Best Breast Pumps &lpar;2024&rpar;: Wearable, Portable, Easy to Clean](https://www.wired.com/gallery/breast-pump-buying-guide/)
+ - [Family trapped on Mt. Hood rescued via Emergency SOS via Satellite](https://appleinsider.com/articles/24/03/23/family-trapped-on-mt-hood-rescued-via-emergency-sos-via-satellite?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
