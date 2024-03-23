@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Chip Flaw Leaks Secret Encryption Keys](https://www.wired.com/story/apple-m-chip-flaw-leak-encryption-keys/)
- - [43 Home and Kitchen Deals Still Live on Amazon     - CNET](https://www.cnet.com/deals/43-home-and-kitchen-deals-still-live-on-amazon/#ftag=CAD590a51e)
- - [Why You Should Turn Off Journal Suggestions on Your iPhone     - CNET](https://www.cnet.com/tech/mobile/why-you-should-turn-off-journal-suggestions-on-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snapdragon 8 Gen 3 versus Snapdragon 8s Gen 3: How do these chips fare?](https://www.androidauthority.com/snapdragon-8-gen-3-vs-8s-gen-3-3426507/)
+ - [DJI Mini 4 Pro Drone Review: The Best Small Drone Available](https://www.wired.com/review/dji-mini-4-drone/)
+ - [The US Is About to Drown in a Sea of Kittens](https://www.wired.com/story/kitten-season-global-warming-cat-breeding/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
