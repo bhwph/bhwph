@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
- - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
- - 👉 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)<!-- MEMES:END -->
+ - 6️⃣ [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
+ - 😝 [State of Europe right now !](http://9gag.com/gag/aGyKp1G)
+ - 👉 [Peak male performance](http://9gag.com/gag/aVvjbKy)<!-- MEMES:END -->
 
 --- 
 
