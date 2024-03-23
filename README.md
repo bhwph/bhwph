@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 8 Gen 3 versus Snapdragon 8s Gen 3: How do these chips fare?](https://www.androidauthority.com/snapdragon-8-gen-3-vs-8s-gen-3-3426507/)
- - [DJI Mini 4 Pro Drone Review: The Best Small Drone Available](https://www.wired.com/review/dji-mini-4-drone/)
- - [The US Is About to Drown in a Sea of Kittens](https://www.wired.com/story/kitten-season-global-warming-cat-breeding/)<!-- TECH:END -->
+ - [My 10 favorite watch faces for the Pixel Watch and Galaxy Watch](https://www.androidauthority.com/10-favorite-watch-faces-pixel-galaxy-3427976/)
+ - [How to find any file on Windows](https://www.theverge.com/24108104/windows-microsoft-search-files-how-to)
+ - [Financial Times tests an AI chatbot trained on decades of its own articles](https://www.theverge.com/2024/3/23/24106296/ask-ft-generative-ai-chatbot-answers-tool)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
