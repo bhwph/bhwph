@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/5-android-apps-you-shouldnt-miss-this-week-and-all-the-latest-app-news-android-apps-weekly-3427974/)
- - [8 Best Breast Pumps &lpar;2024&rpar;: Wearable, Portable, Easy to Clean](https://www.wired.com/gallery/breast-pump-buying-guide/)
- - [Family trapped on Mt. Hood rescued via Emergency SOS via Satellite](https://appleinsider.com/articles/24/03/23/family-trapped-on-mt-hood-rescued-via-emergency-sos-via-satellite?utm_medium=rss)<!-- TECH:END -->
+ - [OnePlus Watch 2: A great smartwatch, held back by Google’s shortcomings](https://www.androidauthority.com/oneplus-watch-2-google-3427289/)
+ - [Didi Q4: revenue up 55.4% YoY to ~$6.83B, a ~$113.15M net income, up from a ~$131.8M loss YoY, as the company continues its recovery after regulatory challenges &lpar;Reuters&rpar;](http://www.techmeme.com/240323/p7#a240323p7)
+ - [Belkin’s fast-charging Apple Watch power bank is down to its best price yet](https://www.theverge.com/2024/3/23/24109003/belkin-boostcharge-pro-power-bank-garmin-forerunner-255s-running-watch-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
