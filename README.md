@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - 😝 [London Business trip](http://9gag.com/gag/aAyBe69)
- - 👉 [I&#39;m always right.](http://9gag.com/gag/a4PpRWw)<!-- MEMES:END -->
+ - 6️⃣ [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
+ - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
+ - 👉 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)<!-- MEMES:END -->
 
 --- 
 
