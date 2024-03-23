@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Back to the kitchen you go](http://9gag.com/gag/aD2Rdnx)
- - 😝 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
- - 👉 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)<!-- MEMES:END -->
+ - 6️⃣ [We all have been there with buffets](http://9gag.com/gag/aVvj0GO)
+ - 😝 [\u2803\u280a\u281b \u280d\u2815\u280d\u280d\u283d \u280d\u280a\u2807\u2805](http://9gag.com/gag/ary1VPp)
+ - 👉 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)<!-- MEMES:END -->
 
 --- 
 
