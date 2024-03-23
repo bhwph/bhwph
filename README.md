@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
- - 😝 [State of Europe right now !](http://9gag.com/gag/aGyKp1G)
- - 👉 [Peak male performance](http://9gag.com/gag/aVvjbKy)<!-- MEMES:END -->
+ - 6️⃣ [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
+ - 😝 [London Business trip](http://9gag.com/gag/aAyBe69)
+ - 👉 [Gushing over Peak Fiction](http://9gag.com/gag/aRB6EK5)<!-- MEMES:END -->
 
 --- 
 
