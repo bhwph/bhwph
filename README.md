@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, March 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-23-2024)
- - [&#39;Make a private hosted version of your game&#39;: Knockout City dev&#39;s top tip for studios shutting down a live service game is to give players the keys](https://www.pcgamer.com/knockout-city-sunset-gdc-talk)
- - [Industria 2 is &#39;a narrative FPS to its core,&#39; but its first-ever trailer is giving me real Half-Life 2 vibes](https://www.pcgamer.com/games/fps/industria-2-is-a-narrative-fps-to-its-core-but-its-first-ever-trailer-is-giving-me-real-half-life-2-vibes)<!-- GAME:END -->
+ - [All the ways Dragon’s Dogma 2 will fight against you](https://www.polygon.com/gaming/24107896/dragons-dogma-2-fast-travel-towers-enemy-lock-on)
+ - [Stardew Valley&#39;s Big Patch, An Apex Legends Hack, And More Of The Week&#39;s Gaming News](https://kotaku.com/stardew-valleys-big-patch-an-apex-legends-hack-and-mo-1851359117)
+ - [Today&#39;s Wordle answer for Saturday, March 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-23-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
