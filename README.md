@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley, Final Fantasy 7 Rebirth, And More Essential Tips Of The Week](https://kotaku.com/stardew-valley-final-fantasy-7-rebirth-and-more-essen-1851359118)
- - [How to unlock the Warfarer vocation in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24108751/warfarer-vocation-how-to-unlock-where-to-find-newt-liqueur)
- - [How to unlock the Magick Archer vocation in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24108750/magick-archer-vocation-unlock-location-where-to-find-cliodhna)<!-- GAME:END -->
+ - [‘Prey for the Pack’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24109698/prey-for-the-pack-walkthrough-rodge-location-where-to-find)
+ - [‘Oxcart Courier’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24109714/oxcart-courier-walkthrough-lennart-location-where-to-find)
+ - [Lightyear Frontier is a calming sim where you and a mech can relax](https://www.polygon.com/24108826/lightyear-frontier-impressions-early-access-pc-xbox)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
