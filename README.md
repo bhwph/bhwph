@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM says it has stopped sharing driving data with two data brokers, after a report showed GM and others collecting and sharing data without clear consent &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240322/p27#a240322p27)
- - [Asus’ tiny 2.5-liter gaming NUC tentatively starts at $1,629 in the US](https://www.theverge.com/2024/3/22/24109140/asus-rog-nuc-pricing-availability)
- - [Mozilla ends a partnership with Onerep, which lets users remove data from people-search sites, after a report showed Onerep&#39;s CEO founded dozens of such sites &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240322/p26#a240322p26)<!-- TECH:END -->
+ - [A breach seller dumped a dataset of 73M AT&amp;T customers online, three years after a hacker teased such a leak; AT&amp;T won&#39;t say how its users&#39; data was leaked &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240322/p31#a240322p31)
+ - [Qualcomm ends its bid to buy Israeli car chip maker Autotalks, citing a lack of timely regulatory approvals; the UK CMA opened a probe into the deal in February &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240322/p30#a240322p30)
+ - [Sources: Stability AI founder Emad Mostaque plans to step down as CEO, following the departure of a group of researchers who helped develop Stable Diffusion &lpar;Forbes&rpar;](http://www.techmeme.com/240322/p29#a240322p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
