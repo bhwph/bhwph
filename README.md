@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FF7 Rebirth’s ending is the worst kind of cop-out](https://www.polygon.com/24106260/ff7-rebirth-ending-explained-does-aerith-die-who-knows)
- - [Today&#39;s Wordle answer for Sunday, March 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-24-2024)
- - [Helldivers 2 players find creative ways to punish toxic hosts: &#39;I ran with your super samples to the edge of the mission area, and kept on running&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-find-creative-ways-to-punish-toxic-hosts-i-ran-with-your-super-samples-to-the-edge-of-the-mission-area-and-kept-on-running)<!-- GAME:END -->
+ - [How to reach the Nameless Village in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24110465/nameless-village-how-to-reach)
+ - [Problemista’s Julio Torres wants us all to be curious like kids](https://www.polygon.com/24107846/julio-torres-interview-problemista)
+ - [Should you go to the ‘Feast of Deception’ coronation in Dragon’s Dogma 2?](https://www.polygon.com/dragons-dogma-2-guide/24107184/coronation-feast-deception-point-of-no-return)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
