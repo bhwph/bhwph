@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock the Warfarer vocation in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24108751/warfarer-vocation-how-to-unlock-where-to-find-newt-liqueur)
- - [Larian originally wanted Baldur&#39;s Gate 3 to have multiple narrators, also Astarion was a tiefling](https://www.pcgamer.com/games/baldurs-gate/larian-originally-wanted-baldurs-gate-3-to-have-multiple-narrators-also-astarion-was-a-tiefling)
- - [The 9 best survival horror games you can play right now](https://www.polygon.com/what-to-play/24098542/best-survival-horror-games-play-ps5-pc-xbox-list)<!-- GAME:END -->
+ - [‘The Arisen’s Shadow’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24110599/arisens-shadow-quest-walkthrough-confront-pursuer)
+ - [The best augments in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24109890/best-augments-all-augment-list-perks)
+ - [Frieren: Beyond Journey’s End goes where few fantasy stories dare to go](https://www.polygon.com/anime/24108680/frieren-beyond-journeys-end-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
