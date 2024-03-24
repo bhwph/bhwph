@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They have deposited $30 every month since I was 2 year old](http://9gag.com/gag/aAyB6Vg)
- - 😝 [Yes absolutely that is the way lol.](http://9gag.com/gag/aqy4ejQ)
- - 👉 [This proves only one thing](http://9gag.com/gag/avy2W6W)<!-- MEMES:END -->
+ - 6️⃣ [How stupid can you be? Caran - Yesss](http://9gag.com/gag/a87d7dV)
+ - 😝 [Nice moves!](http://9gag.com/gag/axyEyVD)
+ - 👉 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)<!-- MEMES:END -->
 
 --- 
 
