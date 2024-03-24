@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A worthy repost](http://9gag.com/gag/apRK11D)
- - 😝 [The guy is good.](http://9gag.com/gag/a1mp7xb)
- - 👉 [She has a point !](http://9gag.com/gag/axyE3gK)<!-- MEMES:END -->
+ - 6️⃣ [They have deposited $30 every month since I was 2 year old](http://9gag.com/gag/aAyB6Vg)
+ - 😝 [Yes absolutely that is the way lol.](http://9gag.com/gag/aqy4ejQ)
+ - 👉 [This proves only one thing](http://9gag.com/gag/avy2W6W)<!-- MEMES:END -->
 
 --- 
 
