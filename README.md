@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 months later, I still hate the Pixel’s hidden brightness and shadows sliders](https://www.androidauthority.com/still-hate-pixel-hidden-brightness-shadows-sliders-3427609/)
- - [Upcoming iOS 18 to offer more customizable home screen](https://appleinsider.com/articles/24/03/24/upcoming-ios-18-to-offer-more-customizable-home-screen?utm_medium=rss)
- - [Do you know how terrible the early smartphone era was?](https://www.androidauthority.com/early-smartphone-era-terrible-3384514/)<!-- TECH:END -->
+ - [How to Find Film for Your Old Polaroid Camera &lpar;2024&rpar;](https://www.wired.com/story/how-to-find-film-for-your-old-polaroid-camera/)
+ - [Chinese officials have begun following the new PC, laptop, and server guidelines to phase out Intel/AMD processors and Windows from government PCs and servers &lpar;Financial Times&rpar;](http://www.techmeme.com/240324/p6#a240324p6)
+ - [Women&#39;s March Madness 2024: How to Watch, Stream Caitlin Clark and Every Tournament Game     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-stream-caitlin-clark-and-every-tournament-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
