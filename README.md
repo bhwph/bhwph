@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the restructuring of Diamond Sports, with a lifeline from Amazon, might offer a new model for airing local sports fixtures in the streaming era &lpar;Financial Times&rpar;](http://www.techmeme.com/240324/p4#a240324p4)
- - [Large Language Models’ Emergent Abilities Are a Mirage](https://www.wired.com/story/how-quickly-do-large-language-models-learn-unexpected-skills/)
- - [The biggest new battle royale is ready for your phone](https://www.theverge.com/2024/3/24/24109107/3-body-problem-stardew-valley-warzone-mobile-installer-newsletter)<!-- TECH:END -->
+ - [5 months later, I still hate the Pixel’s hidden brightness and shadows sliders](https://www.androidauthority.com/still-hate-pixel-hidden-brightness-shadows-sliders-3427609/)
+ - [Upcoming iOS 18 to offer more customizable home screen](https://appleinsider.com/articles/24/03/24/upcoming-ios-18-to-offer-more-customizable-home-screen?utm_medium=rss)
+ - [Do you know how terrible the early smartphone era was?](https://www.androidauthority.com/early-smartphone-era-terrible-3384514/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
