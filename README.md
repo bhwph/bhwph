@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Soooo..](http://9gag.com/gag/a5Qp1xE)
- - 😝 [Whoever convinced her she needed plastic surgery should go to prison](http://9gag.com/gag/aO8oQmv)
- - 👉 [Any Captains here?](http://9gag.com/gag/aRB6rR5)<!-- MEMES:END -->
+ - 6️⃣ [Milk](http://9gag.com/gag/aRB6EM2)
+ - 😝 [I thought he was the same actor...](http://9gag.com/gag/aRB6L6M)
+ - 👉 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)<!-- MEMES:END -->
 
 --- 
 
