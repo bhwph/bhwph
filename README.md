@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This proves only one thing](http://9gag.com/gag/avy2W6W)
- - 😝 [Best restaurant in town](http://9gag.com/gag/an7ezXV)
- - 👉 [Comic book royal rumble](http://9gag.com/gag/a9yjE4Z)<!-- MEMES:END -->
+ - 6️⃣ [Posting memes I found on my smartphone until I get bored or die #182](http://9gag.com/gag/aE0dpmo)
+ - 😝 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)
+ - 👉 [Fastest crack in the west](http://9gag.com/gag/a2vEMzO)<!-- MEMES:END -->
 
 --- 
 
