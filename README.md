@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Case Against Apple Weaponizes the Cult of Cupertino](https://www.wired.com/story/antitrust-case-against-apple-weaponizes-the-cult-of-cupertino/)
- - [How Ukraine recreated the Soledar Salt Mine in Minecraft to let players compete for prizes and donate to restore a school hit by a Russian missile &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/240324/p2#a240324p2)
- - [April&#39;s Bitcoin halving will slash revenue for miners, who will likely move from the US to lower-cost countries like Ethiopia, Tanzania, Paraguay, and Uruguay &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/240324/p1#a240324p1)<!-- TECH:END -->
+ - [How to View April’s Total Solar Eclipse, Online and In Person](https://www.wired.com/story/solar-eclipse-2024-how-to-watch/)
+ - [Some TikTok fans in India still question the country&#39;s 2020 decision to ban the app, saying alternatives like YouTube Shorts and Instagram Reels lack its allure &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240324/p3#a240324p3)
+ - [Stores Closed On Easter Sunday 2024: Target, Costco, and More     - CNET](https://www.cnet.com/culture/stores-closed-on-easter-sunday-2024-target-costco-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
