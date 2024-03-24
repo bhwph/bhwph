@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘The Arisen’s Shadow’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24110599/arisens-shadow-quest-walkthrough-confront-pursuer)
- - [The best augments in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24109890/best-augments-all-augment-list-perks)
- - [Frieren: Beyond Journey’s End goes where few fantasy stories dare to go](https://www.polygon.com/anime/24108680/frieren-beyond-journeys-end-review)<!-- GAME:END -->
+ - [‘A Beggar’s Tale’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24110755/a-beggars-tale-quest-walkthrough-follow-albert)
+ - [Hyper Light Drifter&#39;s long-awaited sequel feels like the first game got caught in a transporter accident with Risk of Rain⁠ 2—and I can&#39;t wait for more](https://www.pcgamer.com/games/roguelike/hyper-light-drifters-long-awaited-sequel-feels-like-the-first-game-got-caught-in-a-transporter-accident-with-risk-of-rain-2and-im-digging-it-so-far)
+ - [‘The Arisen’s Shadow’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24110599/arisens-shadow-quest-walkthrough-confront-pursuer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
