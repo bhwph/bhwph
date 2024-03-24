@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Posting memes I found on my smartphone until I get bored or die #182](http://9gag.com/gag/aE0dpmo)
- - 😝 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)
- - 👉 [Fastest crack in the west](http://9gag.com/gag/a2vEMzO)<!-- MEMES:END -->
+ - 6️⃣ [A worthy repost](http://9gag.com/gag/apRK11D)
+ - 😝 [The guy is good.](http://9gag.com/gag/a1mp7xb)
+ - 👉 [She has a point !](http://9gag.com/gag/axyE3gK)<!-- MEMES:END -->
 
 --- 
 
