@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite X&#39;s push to attract creators, its strategy remains unclear, as some creators cite concerns about the state of X&#39;s ad business and inconsistent payments &lpar;Alexa Corse/Wall Street Journal&rpar;](http://www.techmeme.com/240324/p7#a240324p7)
- - [Here are all the best tech deals from Amazon’s spring sales event](https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices)
- - [‘Spirited Away’ returns to theaters in April for Studio Ghibli Fest 2024](https://www.theverge.com/2024/3/24/24110519/spirited-away-studio-ghibli-fest-2024-us-theaters)<!-- TECH:END -->
+ - [Get a $40 Discount on This Anker Power Station     - CNET](https://www.cnet.com/deals/get-a-40-discount-on-this-anker-power-station/#ftag=CAD590a51e)
+ - [I Love My Govee Floor Lamp and It&#39;s 40% Off on Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/i-love-my-govee-floor-lamp-and-its-40-off-on-amazons-big-spring-sale/#ftag=CAD590a51e)
+ - [Best Continuous Glucose Monitors of 2024     - CNET](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
