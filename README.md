@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peak male performance](http://9gag.com/gag/aVvjbKy)
- - 😝 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)
- - 👉 [Milk](http://9gag.com/gag/aRB6EM2)<!-- MEMES:END -->
+ - 6️⃣ [Soooo..](http://9gag.com/gag/a5Qp1xE)
+ - 😝 [Whoever convinced her she needed plastic surgery should go to prison](http://9gag.com/gag/aO8oQmv)
+ - 👉 [Any Captains here?](http://9gag.com/gag/aRB6rR5)<!-- MEMES:END -->
 
 --- 
 
