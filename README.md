@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [This proves only one thing](http://9gag.com/gag/avy2W6W)
- - 😝 [Wtf kinda match is that](http://9gag.com/gag/a9yjEZZ)
- - 👉 [Milk](http://9gag.com/gag/aRB6EM2)<!-- MEMES:END -->
+ - 😝 [Best restaurant in town](http://9gag.com/gag/an7ezXV)
+ - 👉 [Comic book royal rumble](http://9gag.com/gag/a9yjE4Z)<!-- MEMES:END -->
 
 --- 
 
