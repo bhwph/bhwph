@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How stupid can you be? Caran - Yesss](http://9gag.com/gag/a87d7dV)
- - 😝 [Nice moves!](http://9gag.com/gag/axyEyVD)
- - 👉 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)<!-- MEMES:END -->
+ - 6️⃣ [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
+ - 😝 [France, Please surrender](http://9gag.com/gag/a34v588)
+ - 👉 [This is a 20-Year-Old Game](http://9gag.com/gag/apRK37M)<!-- MEMES:END -->
 
 --- 
 
