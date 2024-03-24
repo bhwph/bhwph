@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a $40 Discount on This Anker Power Station     - CNET](https://www.cnet.com/deals/get-a-40-discount-on-this-anker-power-station/#ftag=CAD590a51e)
- - [I Love My Govee Floor Lamp and It&#39;s 40% Off on Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/i-love-my-govee-floor-lamp-and-its-40-off-on-amazons-big-spring-sale/#ftag=CAD590a51e)
- - [Best Continuous Glucose Monitors of 2024     - CNET](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis: Jeff Bezos, Peter Thiel, and Mark Zuckerberg lead a group of insiders selling their company stocks in Q1, a sign that the tech bull run may be peaking &lpar;Financial Times&rpar;](http://www.techmeme.com/240324/p8#a240324p8)
+ - [Get a Stylish New Pair of Glasses During GlassesUSA&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/get-a-stylish-new-pair-of-glasses-during-glassesusas-spring-sale/#ftag=CAD590a51e)
+ - [This Is Your Last Chance to Snag a Windows 11 Pro License for Just $30     - CNET](https://www.cnet.com/deals/this-is-your-last-chance-to-snag-a-windows-11-pro-license-for-just-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
