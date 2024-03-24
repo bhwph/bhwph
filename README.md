@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Case Against Apple Weaponizes the Cult of Cupertino](https://www.wired.com/story/antitrust-case-against-apple-weaponizes-the-cult-of-cupertino/)
  - [How Ukraine recreated the Soledar Salt Mine in Minecraft to let players compete for prizes and donate to restore a school hit by a Russian missile &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/240324/p2#a240324p2)
- - [April&#39;s Bitcoin halving will slash revenue for miners, who will likely move from the US to lower-cost countries like Ethiopia, Tanzania, Paraguay, and Uruguay &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/240324/p1#a240324p1)
- - [The Best Keurig Deals: Up to $51 Off at Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/best-keurig-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [April&#39;s Bitcoin halving will slash revenue for miners, who will likely move from the US to lower-cost countries like Ethiopia, Tanzania, Paraguay, and Uruguay &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/240324/p1#a240324p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
