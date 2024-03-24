@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Squat dozer](http://9gag.com/gag/axyEyvK)
- - 😝 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
+ - 6️⃣ [This proves only one thing](http://9gag.com/gag/avy2W6W)
+ - 😝 [Wtf kinda match is that](http://9gag.com/gag/a9yjEZZ)
  - 👉 [Milk](http://9gag.com/gag/aRB6EM2)<!-- MEMES:END -->
 
 --- 
