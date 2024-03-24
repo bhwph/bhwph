@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, March 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-24-2024)
  - [Helldivers 2 players find creative ways to punish toxic hosts: &#39;I ran with your super samples to the edge of the mission area, and kept on running&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-find-creative-ways-to-punish-toxic-hosts-i-ran-with-your-super-samples-to-the-edge-of-the-mission-area-and-kept-on-running)
- - [How are CD Projekt&#39;s side quests so good? Cyberpunk quest designer says they reject &#39;over 90%&#39; of their pitches](https://www.pcgamer.com/games/rpg/how-are-cd-projekts-side-quests-so-good-cyberpunk-quest-designer-says-they-reject-over-90-of-their-pitches)
- - [‘The Caged Magistrate’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24109862/caged-magistrate-quest-walkthrough-where-to-find-waldahr)<!-- GAME:END -->
+ - [How are CD Projekt&#39;s side quests so good? Cyberpunk quest designer says they reject &#39;over 90%&#39; of their pitches](https://www.pcgamer.com/games/rpg/how-are-cd-projekts-side-quests-so-good-cyberpunk-quest-designer-says-they-reject-over-90-of-their-pitches)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
