@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Milk](http://9gag.com/gag/aRB6EM2)
- - 😝 [I thought he was the same actor...](http://9gag.com/gag/aRB6L6M)
- - 👉 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)<!-- MEMES:END -->
+ - 6️⃣ [Woops](http://9gag.com/gag/a0eveoX)
+ - 😝 [Our Lord and Savior](http://9gag.com/gag/aVvjxy2)
+ - 👉 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)<!-- MEMES:END -->
 
 --- 
 
