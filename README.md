@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to reach the Nameless Village in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24110465/nameless-village-how-to-reach)
- - [Problemista’s Julio Torres wants us all to be curious like kids](https://www.polygon.com/24107846/julio-torres-interview-problemista)
- - [Should you go to the ‘Feast of Deception’ coronation in Dragon’s Dogma 2?](https://www.polygon.com/dragons-dogma-2-guide/24107184/coronation-feast-deception-point-of-no-return)<!-- GAME:END -->
+ - [How to unlock the Warfarer vocation in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24108751/warfarer-vocation-how-to-unlock-where-to-find-newt-liqueur)
+ - [Larian originally wanted Baldur&#39;s Gate 3 to have multiple narrators, also Astarion was a tiefling](https://www.pcgamer.com/games/baldurs-gate/larian-originally-wanted-baldurs-gate-3-to-have-multiple-narrators-also-astarion-was-a-tiefling)
+ - [The 9 best survival horror games you can play right now](https://www.polygon.com/what-to-play/24098542/best-survival-horror-games-play-ps5-pc-xbox-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
