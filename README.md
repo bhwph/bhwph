@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab Our Favorite New Anker Mini Bluetooth Speaker for 20% Off During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/our-favorite-new-anker-mini-bluetooth-speaker-is-20-off-for-amazon-big-spring-sale/#ftag=CAD590a51e)
- - [Amazon Knocks Up to $60 Off Some of Our Favorite Jabra Earbuds     - CNET](https://www.cnet.com/deals/amazon-knocks-up-to-60-off-some-of-our-favorite-jabra-earbuds/#ftag=CAD590a51e)
- - [Grab a New Backbone One iPhone Gaming Controller Today and Pay Just $60     - CNET](https://www.cnet.com/deals/grab-a-new-backbone-one-iphone-gaming-controller-today-and-pay-just-60/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get a lifetime Babbel subscription for just $139.97 - $460 off retail](https://appleinsider.com/articles/24/03/24/get-a-lifetime-babbel-subscription-for-just-13997---460-off-retail?utm_medium=rss)
+ - [You Can Save Up to 49% on Roborock Robot Vacuums During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/you-can-save-up-to-49-on-roborock-robot-vacuums-during-amazons-big-spring-sale/#ftag=CAD590a51e)
+ - [Best Wireless Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
