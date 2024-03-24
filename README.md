@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
- - 😝 [France, Please surrender](http://9gag.com/gag/a34v588)
- - 👉 [This is a 20-Year-Old Game](http://9gag.com/gag/apRK37M)<!-- MEMES:END -->
+ - 6️⃣ [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)
+ - 😝 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)
+ - 👉 [Monorail](http://9gag.com/gag/ae9K1ZB)<!-- MEMES:END -->
 
 --- 
 
