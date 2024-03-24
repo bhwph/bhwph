@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Find Film for Your Old Polaroid Camera &lpar;2024&rpar;](https://www.wired.com/story/how-to-find-film-for-your-old-polaroid-camera/)
- - [Chinese officials have begun following the new PC, laptop, and server guidelines to phase out Intel/AMD processors and Windows from government PCs and servers &lpar;Financial Times&rpar;](http://www.techmeme.com/240324/p6#a240324p6)
- - [Women&#39;s March Madness 2024: How to Watch, Stream Caitlin Clark and Every Tournament Game     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-stream-caitlin-clark-and-every-tournament-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Despite X&#39;s push to attract creators, its strategy remains unclear, as some creators cite concerns about the state of X&#39;s ad business and inconsistent payments &lpar;Alexa Corse/Wall Street Journal&rpar;](http://www.techmeme.com/240324/p7#a240324p7)
+ - [Here are all the best tech deals from Amazon’s spring sales event](https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices)
+ - [‘Spirited Away’ returns to theaters in April for Studio Ghibli Fest 2024](https://www.theverge.com/2024/3/24/24110519/spirited-away-studio-ghibli-fest-2024-us-theaters)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
