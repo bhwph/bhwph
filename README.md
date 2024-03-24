@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Helldivers 2 players find creative ways to punish toxic hosts: &#39;I ran with your super samples to the edge of the mission area, and kept on running&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-find-creative-ways-to-punish-toxic-hosts-i-ran-with-your-super-samples-to-the-edge-of-the-mission-area-and-kept-on-running)
  - [How are CD Projekt&#39;s side quests so good? Cyberpunk quest designer says they reject &#39;over 90%&#39; of their pitches](https://www.pcgamer.com/games/rpg/how-are-cd-projekts-side-quests-so-good-cyberpunk-quest-designer-says-they-reject-over-90-of-their-pitches)
- - [‘The Caged Magistrate’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24109862/caged-magistrate-quest-walkthrough-where-to-find-waldahr)
- - [FF14 Dawntrail will release in July, with early access a few days earlier](https://www.pcgamer.com/games/mmo/ff14-dawntrail-will-release-in-july-with-early-access-a-few-days-earlier)<!-- GAME:END -->
+ - [‘The Caged Magistrate’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24109862/caged-magistrate-quest-walkthrough-where-to-find-waldahr)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
