@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)
- - 😝 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)
- - 👉 [Monorail](http://9gag.com/gag/ae9K1ZB)<!-- MEMES:END -->
+ - 6️⃣ [His reaction](http://9gag.com/gag/a7ovoKr)
+ - 😝 [France, Please surrender](http://9gag.com/gag/a34v588)
+ - 👉 [Are you faster than me? Are you winning fair and square? That makes you racist. Never relax around the usual suspects.](http://9gag.com/gag/axyE341)<!-- MEMES:END -->
 
 --- 
 
