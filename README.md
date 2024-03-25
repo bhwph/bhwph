@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s new opt-out setting limits visibility of politics on Instagram and Threads](https://www.theverge.com/2024/3/25/24111604/meta-setting-downranks-politics-instagram-threads)
- - [Does Apple&#39;s platform need to be opened up?](https://appleinsider.com/articles/24/03/25/does-apples-platform-need-to-be-opened-up?utm_medium=rss)
- - [Eliyan, which is developing chiplet interconnects to increase AI chips&#39; performance, raised a $60M Series B co-led by Samsung Catalyst Fund and Tiger Global &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240325/p20#a240325p20)<!-- TECH:END -->
+ - [Another Find My misfire led to a raid on a suburban family&#39;s home](https://appleinsider.com/articles/24/03/25/another-find-my-misfire-led-to-a-raid-on-a-suburban-familys-home?utm_medium=rss)
+ - [Samsung secretly launches its cheapest S-series tablet for 2024](https://www.androidauthority.com/galaxy-tab-s6-lite-2024-launched-3428506/)
+ - [Global Screening Services, which is developing a sanctions-screening service to help financial institutions comply with regulations, raised a $47M Series A2 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240325/p21#a240325p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
