@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: iOS 18 will give iPhone users greater control over Home Screen app arrangement, including the ability to create blank spaces, rows, and columns &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240325/p2#a240325p2)
- - [AliExpress and Temu were the fastest-growing ecommerce apps in South Korea in 2023; Nomura: Chinese websites account for only ~2% of South Korean ecommerce GMV &lpar;Financial Times&rpar;](http://www.techmeme.com/240325/p1#a240325p1)
- - [Best Keto Meal Delivery Services of 2024     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Refresh Your Android Phone&#39;s Browser by Clearing Out Its Cache, Cookies     - CNET](https://www.cnet.com/tech/mobile/refresh-your-android-phones-browser-by-clearing-out-its-cache-cookies/#ftag=CAD590a51e)
+ - [Telegram’s new feature gives you free Premium subscriptions, but it’s a privacy nightmare](https://www.androidauthority.com/telegram-premium-p2p-privacy-nightmare-3428294/)
+ - [Download these travel wallpapers for your phone](https://www.androidauthority.com/travel-wallpapers-phone-3427707/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
