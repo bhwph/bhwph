@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Join us in celebrating all things Elder Scrolls as the legendary RPG series turns 30](https://www.pcgamer.com/games/rpg/join-us-in-celebrating-all-things-elder-scrolls-as-the-legendary-rpg-series-turns-30)
- - [The Elder Scrolls IV: Oblivion review](https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-iv-oblivion-review)
- - [Larian&#39;s saying goodbye to Baldur&#39;s Gate 3 by giving us some &#39;really evil&#39; endings](https://www.pcgamer.com/games/baldurs-gate/larians-saying-goodbye-to-baldurs-gate-3-by-giving-us-some-really-evil-endings)<!-- GAME:END -->
+ - [‘It was really fun in a gruesome sort of a way’: The story behind 3 Body Problem’s intense ship scene](https://www.polygon.com/24108068/3-body-problem-netflix-ship-scene-panama-canal-how-vfx-special-effects-interview)
+ - [Dragon’s Dogma 2 will soon let you start a new game without deleting your save first](https://www.polygon.com/24111281/dragons-dogma-2-update-patch-roadmap-new-game)
+ - [Microsoft&#39;s new patent promises more efficient ray tracing for the Xbox and that could be a real boon for AMD&#39;s graphics cards too](https://www.pcgamer.com/hardware/graphics-cards/microsofts-new-patent-promises-more-efficient-ray-tracing-for-the-xbox-and-that-could-be-a-real-boon-for-amds-graphics-cards-too)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
