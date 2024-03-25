@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why the MSI Claw has the specs to dominate the handheld PC market](https://www.pcgamer.com/hardware/handheld-gaming-pcs/why-the-msi-claw-has-the-specs-to-dominate-the-handheld-pc-market)
- - [Today&#39;s Wordle answer for Monday, March 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-25-2024)
- - [Iceland&#39;s prime minister favors farming over finance as Bitcoin miners feast on the island&#39;s cheap power](https://www.pcgamer.com/software/icelands-prime-minister-favors-farming-over-finance-as-bitcoin-miners-feast-on-the-islands-cheap-power)<!-- GAME:END -->
+ - [MSI&#39;s gaming monitors get huge discounts in Spring Sale](https://www.pcgamer.com/hardware/msis-gaming-monitors-get-huge-discounts-in-spring-sale)
+ - [The Elder Scrolls II: Daggerfall review](https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-ii-daggerfall-review)
+ - [Why the MSI Claw has the specs to dominate the handheld PC market](https://www.pcgamer.com/hardware/handheld-gaming-pcs/why-the-msi-claw-has-the-specs-to-dominate-the-handheld-pc-market)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
