@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Milk](http://9gag.com/gag/aRB6EM2)
- - 😝 [Damn that some nice eggs](http://9gag.com/gag/aBy9ZzD)
- - 👉 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)<!-- MEMES:END -->
+ - 6️⃣ [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
+ - 😝 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
+ - 👉 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)<!-- MEMES:END -->
 
 --- 
 
