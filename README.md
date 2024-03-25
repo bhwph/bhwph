@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Flag Means Death star Vico Ortiz built a whole lifestyle around Star Wars](https://www.polygon.com/star-wars/24106095/vico-ortiz-star-wars-fandom-dream-role-our-flag-means-death)
- - [Remedy&#39;s multiplayer Control spinoff won&#39;t be free to play: expect a &#39;lower initial price&#39; followed by live service updates](https://www.pcgamer.com/games/third-person-shooter/remedys-multiplayer-control-spinoff-wont-be-free-to-play-expect-a-lower-initial-price-followed-by-live-service-updates)
- - [Mega Blocks’ Xbox 360 replica is bricked out of the box, and it’s $50 off](https://www.polygon.com/deals/24111655/xbox-360-mega-blocks-target-deal-sale)<!-- GAME:END -->
+ - [Helldivers 2 CEO spills the beans on an unreleased &#39;heavy machine gun&#39; with a tripod before immediately correcting himself: &#39;Never mind. There&#39;s so such thing as HMG&#39;](https://www.pcgamer.com/helldivers-2-hmg-heavy-machine-gun-arrowhead-johan-pilestedt)
+ - [Ukraine recreates famous lost salt mine in Minecraft &#39;to tell the world about their history and struggle for freedom&#39;](https://www.pcgamer.com/games/survival-crafting/ukraine-recreates-famous-lost-salt-mine-in-minecraft-to-tell-the-world-about-their-history-and-struggle-for-freedom)
+ - [Where to find Mystery Boxes in Stardew Valley](https://www.polygon.com/guides/24107906/stardew-valley-sdv-mystery-box-locations-unlock-open)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
