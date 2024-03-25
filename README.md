@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)
- - 😝 [This proves only one thing](http://9gag.com/gag/avy2W6W)
- - 👉 [Yes](http://9gag.com/gag/aAyBEGp)<!-- MEMES:END -->
+ - 6️⃣ [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
+ - 😝 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 👉 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)<!-- MEMES:END -->
 
 --- 
 
