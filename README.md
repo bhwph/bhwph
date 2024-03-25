@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mommy](http://9gag.com/gag/a87d0Mp)
- - 😝 [Liberals: you&#39;re just an uneducated magat. Also liberals:](http://9gag.com/gag/a4Pp62Z)
- - 👉 [Future star achieving his dream](http://9gag.com/gag/a2vE0qE)<!-- MEMES:END -->
+ - 6️⃣ [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 😝 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)
+ - 👉 [Mommy](http://9gag.com/gag/a87d0Mp)<!-- MEMES:END -->
 
 --- 
 
