@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU opens formal DMA investigations into Apple and Google over letting developers &quot;steer&quot; users from their app stores, and Meta over using user data for ads &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240325/p5#a240325p5)
- - [Ouch: Macs with Apple Silicon suffer from an unfixable flaw that leaks security keys](https://www.androidauthority.com/apple-silicon-macs-gofetch-flaw-3428325/)
- - [Tim Cook says Apple recycling already depends on AI](https://appleinsider.com/articles/24/03/25/tim-cook-says-apple-recycling-already-depends-on-ai?utm_medium=rss)<!-- TECH:END -->
+ - [FundGuard, which offers an AI accounting platform for asset managers, raised a $100M Series C led by Key1 Capital, taking its funding to $150M since 2018 &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240325/p8#a240325p8)
+ - [5-ish Things About AI: Apple Serious About AI, Pitting AI Against the Experts, the ELVIS Act Passes     - CNET](https://www.cnet.com/tech/computing/5-ish-things-about-ai-apple-serious-about-ai-pitting-ai-against-the-experts-the-elvis-act-passes/#ftag=CAD590a51e)
+ - [My Meta Apple Memories: What Way Should I Record My Life?     - CNET](https://www.cnet.com/tech/computing/my-meta-apple-memories-what-way-should-i-record-my-life/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
