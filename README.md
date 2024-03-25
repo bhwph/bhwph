@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)
- - 😝 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
- - 👉 [They have deposited $30 every month since I was 2 year old](http://9gag.com/gag/aAyB6Vg)<!-- MEMES:END -->
+ - 6️⃣ [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)
+ - 😝 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)
+ - 👉 [France, Please surrender](http://9gag.com/gag/a34v588)<!-- MEMES:END -->
 
 --- 
 
