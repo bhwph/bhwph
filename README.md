@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
- - 😝 [Expensive case](http://9gag.com/gag/ajPQVM1)
- - 👉 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)<!-- MEMES:END -->
+ - 6️⃣ [Milk](http://9gag.com/gag/aRB6EM2)
+ - 😝 [Damn that some nice eggs](http://9gag.com/gag/aBy9ZzD)
+ - 👉 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)<!-- MEMES:END -->
 
 --- 
 
