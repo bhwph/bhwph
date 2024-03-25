@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FundGuard, which offers an AI accounting platform for asset managers, raised a $100M Series C led by Key1 Capital, taking its funding to $150M since 2018 &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240325/p8#a240325p8)
- - [5-ish Things About AI: Apple Serious About AI, Pitting AI Against the Experts, the ELVIS Act Passes     - CNET](https://www.cnet.com/tech/computing/5-ish-things-about-ai-apple-serious-about-ai-pitting-ai-against-the-experts-the-elvis-act-passes/#ftag=CAD590a51e)
- - [My Meta Apple Memories: What Way Should I Record My Life?     - CNET](https://www.cnet.com/tech/computing/my-meta-apple-memories-what-way-should-i-record-my-life/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft forgot to update this Windows feature for 30 years](https://www.theverge.com/2024/3/25/24111288/microsoft-format-drive-windows-ui-dialog)
+ - [Federation is the future of social media, says Bluesky CEO Jay Graber](https://www.theverge.com/2024/3/25/24108872/bluesky-ceo-graber-federation-social-media-decoder-interview)
+ - [12 Best Couches You Can Buy Online &lpar;2024&rpar;: Sectionals, Sofas, Sleepers, and More](https://www.wired.com/gallery/best-couches/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
