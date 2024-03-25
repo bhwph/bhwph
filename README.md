@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft forgot to update this Windows feature for 30 years](https://www.theverge.com/2024/3/25/24111288/microsoft-format-drive-windows-ui-dialog)
- - [Federation is the future of social media, says Bluesky CEO Jay Graber](https://www.theverge.com/2024/3/25/24108872/bluesky-ceo-graber-federation-social-media-decoder-interview)
- - [12 Best Couches You Can Buy Online &lpar;2024&rpar;: Sectionals, Sofas, Sleepers, and More](https://www.wired.com/gallery/best-couches/)<!-- TECH:END -->
+ - [More than 50% off the Samsung 15W Wireless Charger Duo](https://www.androidauthority.com/samsung-15w-wireless-charger-duo-deal-3428451/)
+ - [Florida Governor Ron DeSantis signs a bill requiring parental consent for kids under 16 to hold social media accounts and age verification for many websites &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240325/p14#a240325p14)
+ - [A US judge dismisses X&#39;s lawsuit against CCDH, saying the lawsuit had been brought as a means toward &quot;punishing the defendants for their speech&quot; &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240325/p13#a240325p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
