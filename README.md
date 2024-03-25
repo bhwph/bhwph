@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [More than 50% off the Samsung 15W Wireless Charger Duo](https://www.androidauthority.com/samsung-15w-wireless-charger-duo-deal-3428451/)
- - [Florida Governor Ron DeSantis signs a bill requiring parental consent for kids under 16 to hold social media accounts and age verification for many websites &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240325/p14#a240325p14)
- - [A US judge dismisses X&#39;s lawsuit against CCDH, saying the lawsuit had been brought as a means toward &quot;punishing the defendants for their speech&quot; &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240325/p13#a240325p13)<!-- TECH:END -->
+ - [Meta’s new opt-out setting limits visibility of politics on Instagram and Threads](https://www.theverge.com/2024/3/25/24111604/meta-setting-downranks-politics-instagram-threads)
+ - [Does Apple&#39;s platform need to be opened up?](https://appleinsider.com/articles/24/03/25/does-apples-platform-need-to-be-opened-up?utm_medium=rss)
+ - [Eliyan, which is developing chiplet interconnects to increase AI chips&#39; performance, raised a $60M Series B co-led by Samsung Catalyst Fund and Tiger Global &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240325/p20#a240325p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
