@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘It was really fun in a gruesome sort of a way’: The story behind 3 Body Problem’s intense ship scene](https://www.polygon.com/24108068/3-body-problem-netflix-ship-scene-panama-canal-how-vfx-special-effects-interview)
- - [Dragon’s Dogma 2 will soon let you start a new game without deleting your save first](https://www.polygon.com/24111281/dragons-dogma-2-update-patch-roadmap-new-game)
- - [Microsoft&#39;s new patent promises more efficient ray tracing for the Xbox and that could be a real boon for AMD&#39;s graphics cards too](https://www.pcgamer.com/hardware/graphics-cards/microsofts-new-patent-promises-more-efficient-ray-tracing-for-the-xbox-and-that-could-be-a-real-boon-for-amds-graphics-cards-too)<!-- GAME:END -->
+ - [Worlds Beyond Number is a master class in narrative-style D&amp;D](https://www.polygon.com/24105875/worlds-beyond-number-narrative-style-adventure)
+ - [&#39;The Automaton front needs reinforcements&#39;: Helldivers 2 players are pleading for help for a bot-threatened planet, but no one&#39;s stepping up](https://www.pcgamer.com/games/third-person-shooter/the-automaton-front-needs-reinforcements-helldivers-2-players-are-pleading-for-help-for-a-bot-threatened-planet-but-no-ones-stepping-up)
+ - [New Sonic Game Leaks, Looks Like Fall Guys](https://kotaku.com/new-sonic-game-leak-trailer-toys-party-fall-guys-1851363240)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
