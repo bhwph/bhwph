@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Worlds Beyond Number is a master class in narrative-style D&amp;D](https://www.polygon.com/24105875/worlds-beyond-number-narrative-style-adventure)
- - [&#39;The Automaton front needs reinforcements&#39;: Helldivers 2 players are pleading for help for a bot-threatened planet, but no one&#39;s stepping up](https://www.pcgamer.com/games/third-person-shooter/the-automaton-front-needs-reinforcements-helldivers-2-players-are-pleading-for-help-for-a-bot-threatened-planet-but-no-ones-stepping-up)
- - [New Sonic Game Leaks, Looks Like Fall Guys](https://kotaku.com/new-sonic-game-leak-trailer-toys-party-fall-guys-1851363240)<!-- GAME:END -->
+ - [How to spot Dragonsplague in Dragon&#39;s Dogma 2](https://www.pcgamer.com/games/rpg/dragons-dogma-2-dragonsplague)
+ - [Disney’s Renegade Nell, AMC’s Parish, and more new TV this week](https://www.polygon.com/2024/3/25/24102438/renegade-nell-disney-new-tv-netflix-is-it-cake-walking-dead-constellation-finale)
+ - [Cozy life sim Palia arrives on Steam, celebrates with big friendly frog](https://www.polygon.com/24111586/palia-steam-launch-spring-patch-flowers-frogbert)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
