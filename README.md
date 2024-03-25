@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [His reaction](http://9gag.com/gag/a7ovoKr)
- - 😝 [France, Please surrender](http://9gag.com/gag/a34v588)
- - 👉 [Are you faster than me? Are you winning fair and square? That makes you racist. Never relax around the usual suspects.](http://9gag.com/gag/axyE341)<!-- MEMES:END -->
+ - 6️⃣ [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 😝 [Expensive case](http://9gag.com/gag/ajPQVM1)
+ - 👉 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)<!-- MEMES:END -->
 
 --- 
 
