@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI&#39;s gaming monitors get huge discounts in Spring Sale](https://www.pcgamer.com/hardware/msis-gaming-monitors-get-huge-discounts-in-spring-sale)
- - [The Elder Scrolls II: Daggerfall review](https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-ii-daggerfall-review)
- - [Why the MSI Claw has the specs to dominate the handheld PC market](https://www.pcgamer.com/hardware/handheld-gaming-pcs/why-the-msi-claw-has-the-specs-to-dominate-the-handheld-pc-market)<!-- GAME:END -->
+ - [Join us in celebrating all things Elder Scrolls as the legendary RPG series turns 30](https://www.pcgamer.com/games/rpg/join-us-in-celebrating-all-things-elder-scrolls-as-the-legendary-rpg-series-turns-30)
+ - [The Elder Scrolls IV: Oblivion review](https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-iv-oblivion-review)
+ - [Larian&#39;s saying goodbye to Baldur&#39;s Gate 3 by giving us some &#39;really evil&#39; endings](https://www.pcgamer.com/games/baldurs-gate/larians-saying-goodbye-to-baldurs-gate-3-by-giving-us-some-really-evil-endings)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
