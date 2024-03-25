@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Refresh Your Android Phone&#39;s Browser by Clearing Out Its Cache, Cookies     - CNET](https://www.cnet.com/tech/mobile/refresh-your-android-phones-browser-by-clearing-out-its-cache-cookies/#ftag=CAD590a51e)
- - [Telegram’s new feature gives you free Premium subscriptions, but it’s a privacy nightmare](https://www.androidauthority.com/telegram-premium-p2p-privacy-nightmare-3428294/)
- - [Download these travel wallpapers for your phone](https://www.androidauthority.com/travel-wallpapers-phone-3427707/)<!-- TECH:END -->
+ - [The EU opens formal DMA investigations into Apple and Google over letting developers &quot;steer&quot; users from their app stores, and Meta over using user data for ads &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240325/p5#a240325p5)
+ - [Ouch: Macs with Apple Silicon suffer from an unfixable flaw that leaks security keys](https://www.androidauthority.com/apple-silicon-macs-gofetch-flaw-3428325/)
+ - [Tim Cook says Apple recycling already depends on AI](https://appleinsider.com/articles/24/03/25/tim-cook-says-apple-recycling-already-depends-on-ai?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
