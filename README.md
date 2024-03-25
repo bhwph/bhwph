@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another Find My misfire led to a raid on a suburban family&#39;s home](https://appleinsider.com/articles/24/03/25/another-find-my-misfire-led-to-a-raid-on-a-suburban-familys-home?utm_medium=rss)
- - [Samsung secretly launches its cheapest S-series tablet for 2024](https://www.androidauthority.com/galaxy-tab-s6-lite-2024-launched-3428506/)
- - [Global Screening Services, which is developing a sanctions-screening service to help financial institutions comply with regulations, raised a $47M Series A2 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240325/p21#a240325p21)<!-- TECH:END -->
+ - [Reddit stock closes up 30% at $59.80, after the company went public at $34 last week, as the debut of options trading tied to Reddit appears to fuel the rise &lpar;Saqib Iqbal Ahmed/Reuters&rpar;](http://www.techmeme.com/240325/p25#a240325p25)
+ - [The Best Reality TV Shows on Netflix     - CNET](https://www.cnet.com/tech/services-and-software/the-best-reality-tv-shows-on-netflix-march-2024/#ftag=CAD590a51e)
+ - [Here are the best deals you can still grab from Amazon’s spring sales event](https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
