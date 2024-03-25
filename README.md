@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [More love and sandwiches and less prejudices](http://9gag.com/gag/amoq1Q6)
- - 😝 [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)
- - 👉 [Here, quick! Take my strong hand](http://9gag.com/gag/aD2RnxZ)<!-- MEMES:END -->
+ - 6️⃣ [Mommy](http://9gag.com/gag/a87d0Mp)
+ - 😝 [Liberals: you&#39;re just an uneducated magat. Also liberals:](http://9gag.com/gag/a4Pp62Z)
+ - 👉 [Future star achieving his dream](http://9gag.com/gag/a2vE0qE)<!-- MEMES:END -->
 
 --- 
 
