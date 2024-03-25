@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to spot Dragonsplague in Dragon&#39;s Dogma 2](https://www.pcgamer.com/games/rpg/dragons-dogma-2-dragonsplague)
- - [Disney’s Renegade Nell, AMC’s Parish, and more new TV this week](https://www.polygon.com/2024/3/25/24102438/renegade-nell-disney-new-tv-netflix-is-it-cake-walking-dead-constellation-finale)
- - [Cozy life sim Palia arrives on Steam, celebrates with big friendly frog](https://www.polygon.com/24111586/palia-steam-launch-spring-patch-flowers-frogbert)<!-- GAME:END -->
+ - [Our Flag Means Death star Vico Ortiz built a whole lifestyle around Star Wars](https://www.polygon.com/star-wars/24106095/vico-ortiz-star-wars-fandom-dream-role-our-flag-means-death)
+ - [Remedy&#39;s multiplayer Control spinoff won&#39;t be free to play: expect a &#39;lower initial price&#39; followed by live service updates](https://www.pcgamer.com/games/third-person-shooter/remedys-multiplayer-control-spinoff-wont-be-free-to-play-expect-a-lower-initial-price-followed-by-live-service-updates)
+ - [Mega Blocks’ Xbox 360 replica is bricked out of the box, and it’s $50 off](https://www.polygon.com/deals/24111655/xbox-360-mega-blocks-target-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
