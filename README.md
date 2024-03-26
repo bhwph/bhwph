@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Hoppip be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24111708/can-hoppip-be-shiny-skiploom-jumpluff)
- - [Today&#39;s Wordle answer for Tuesday, March 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-26-2024)
- - [I&#39;ve been waiting 5 years for the MMO by Journey&#39;s developers to launch on PC, and it&#39;s finally happening in April](https://www.pcgamer.com/games/mmo/ive-been-waiting-5-years-for-the-mmo-by-journeys-developers-to-launch-on-pc-and-its-finally-happening-in-april)<!-- GAME:END -->
+ - [&#39;It&#39;s got a fearlessness&#39;: Tales of Kenzera: ZAU lead animator reveals how the cut &#39;melee powerhouse&#39; African boxing style inspired its martial movelist](https://www.pcgamer.com/games/action/its-got-a-fearlessness-tales-of-kenzera-zau-lead-animator-reveals-how-the-cut-melee-powerhouse-african-boxing-style-inspired-its-martial-movelist)
+ - [Dead Space 2 players uncover easy money trick hidden right in front of them 13 years after release](https://www.pcgamer.com/games/action/dead-space-2-players-uncover-easy-money-trick-hidden-right-in-front-of-them-13-years-after-release)
+ - [Introducing Community Game Help, a new enhancement for Game Help powered by user-generated content](https://blog.playstation.com/2024/03/26/introducing-community-game-help-a-new-enhancement-for-game-help-powered-by-user-generated-content/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
