@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [These guys can take a joke](http://9gag.com/gag/amoqxPX)
- - 😝 [Bro didn&#39;t even blink `i&#39;m 40 I dont have time for this BS` absolute CHAD.](http://9gag.com/gag/a6Zr5Mm)
- - 👉 [Amber pls](http://9gag.com/gag/aVvjmKK)<!-- MEMES:END -->
+ - 6️⃣ [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
+ - 😝 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
+ - 👉 [Choose!](http://9gag.com/gag/aKG48w3)<!-- MEMES:END -->
 
 --- 
 
