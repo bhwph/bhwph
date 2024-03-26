@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford’s Europe-only Explorer EV gets an estimated 375 miles of range](https://www.theverge.com/2024/3/26/24112744/ford-explorer-ev-all-electric-range-europe)
- - [Some Apple users report being targeted in an &quot;MFA bombing&quot; attack in which their devices are inundated with alerts to approve a password change or login &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240326/p38#a240326p38)
- - [The Real Reason Why Some Abortion Pill Patients Go to the ER](https://www.wired.com/story/abortion-pill-supreme-court-er-visit-myth-debunk-mifepristone/)<!-- TECH:END -->
+ - [Mattel’s Lego-like Xbox 360 building set just received its first discount](https://www.theverge.com/2024/3/26/24112854/microsoft-xbox-360-mega-building-set-replica-deal-sale-mattel)
+ - [Sources: the SEC is asking tech and telecom companies how they handled the 2020 SolarWinds cyberattack, drawing industry complaints about alleged overreach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240326/p43#a240326p43)
+ - [Microsoft’s new era of AI PCs will need a Copilot key, says Intel](https://www.theverge.com/2024/3/26/24112500/microsoft-ai-pc-intel-windows-copilot-key-requirements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
