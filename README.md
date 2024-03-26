@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro China expansion will get a giant boost from Tencent](https://appleinsider.com/articles/24/03/26/apple-vision-pro-china-expansion-will-get-a-giant-boost-from-tencent?utm_medium=rss)
- - [Get Apple&#39;s M1 MacBook Air for $699 during month-end flash sale](https://appleinsider.com/articles/24/03/26/get-apples-m1-macbook-air-for-699-during-month-end-flash-sale?utm_medium=rss)
- - [Innovative LG Wing is being cobbled into a new, even more bizarre phone](https://www.androidauthority.com/xeta-one-3428783/)<!-- TECH:END -->
+ - [Adobe launches GenStudio to let brands create content and measure its performance using generative AI, underpinned by promises of brand safety &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240326/p29#a240326p29)
+ - [Google plans to release a Chrome version optimized for Windows on Arm this week, two months after Canary testing; Arm PCs previously ran an emulated x64 version &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240326/p28#a240326p28)
+ - [It’s only taken 7 years for Chrome to land on Arm-powered Windows laptops](https://www.androidauthority.com/google-chrome-arm-windows-snapdragon-3428679/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
