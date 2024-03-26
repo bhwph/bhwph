@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Ripple&#39;s Chris Larsen became a gravitational force in SF politics, donating millions to local causes, as he helps Mayor London Breed&#39;s reelection campaign &lpar;Josh Koehn/The San Francisco Standard&rpar;](http://www.techmeme.com/240325/p29#a240325p29)
- - [Best Peloton Alternatives for 2024     - CNET](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)
- - [Best Dating Apps for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-online-dating-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Motorola Edge Plus &lpar;2024&rpar; rumors: Everything we know and want to see](https://www.androidauthority.com/motorola-edge-plus-2024-3390024/)
+ - [Google Search will now show you AI-summarized results whether you want them or not](https://www.androidauthority.com/google-search-sge-opt-in-3428572/)
+ - [An investigation details the growing black market for Starlink kits being traded and activated illegally, including in regions subject to US sanctions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240325/p30#a240325p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
