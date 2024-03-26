@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at MatX, which was founded by ex-Google engineers, has raised $25M, and hopes to design chips that are 10x faster than Nvidia&#39;s GPUs at training LLMs &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240326/p36#a240326p36)
- - [Apple AI, visionOS 2.0, iOS 18: What to expect from Apple during WWDC 2024 on June 10](https://appleinsider.com/articles/24/03/11/mac-studio-visionos-20-ios-18-apple-ai-what-to-expect-from-apple-for-wwdc-2024?utm_medium=rss)
- - [The ad-free Kindle Kids is on sale for the first time since Black Friday](https://www.theverge.com/2024/3/26/24111659/kindle-kids-microsoft-xbox-series-x-princess-peach-showtime-deal-sale)<!-- TECH:END -->
+ - [Ford’s Europe-only Explorer EV gets an estimated 375 miles of range](https://www.theverge.com/2024/3/26/24112744/ford-explorer-ev-all-electric-range-europe)
+ - [Some Apple users report being targeted in an &quot;MFA bombing&quot; attack in which their devices are inundated with alerts to approve a password change or login &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240326/p38#a240326p38)
+ - [The Real Reason Why Some Abortion Pill Patients Go to the ER](https://www.wired.com/story/abortion-pill-supreme-court-er-visit-myth-debunk-mifepristone/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
