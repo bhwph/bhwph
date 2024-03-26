@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trolling Indian scammers](http://9gag.com/gag/aLn6ARW)
- - 😝 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
- - 👉 [He was a a good boy.](http://9gag.com/gag/abA3WMB)<!-- MEMES:END -->
+ - 6️⃣ [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
+ - 😝 [He was a a good boy.](http://9gag.com/gag/abA3WMB)
+ - 👉 [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)<!-- MEMES:END -->
 
 --- 
 
