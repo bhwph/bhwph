@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An abridged history of ‘unfilmable’ book adaptations](https://www.polygon.com/entertainment/24105888/unfilmable-books-best-adaptations-movies-shows-history-list)
- - [Man tries to smuggle seven-year-old AMD graphics cards through Chinese airport customs—all 44 of them](https://www.pcgamer.com/hardware/graphics-cards/man-tries-to-smuggle-seven-year-old-amd-graphics-cards-through-chinese-airport-customsall-44-of-them)
- - [FF7 Rebirth: WTF Is The Stat-Swapping Materia Good For?](https://kotaku.com/final-fantasy-7-ff7-rebirth-materia-hp-mp-swap-1851366828)<!-- GAME:END -->
+ - [Ken Levine reveals why everyone hates you so much in Judas](https://www.pcgamer.com/games/fps/ken-levine-reveals-why-everyone-hates-you-so-much-in-judas)
+ - [I&#39;ve now played exactly one bullet hell FPS, and I&#39;m ready for this to be the next big genre](https://www.pcgamer.com/games/fps/ive-now-played-exactly-one-bullet-hell-fps-and-im-ready-for-this-to-be-the-next-big-genre)
+ - [You can already save $10 on Princess Peach Showtime! at Woot](https://www.polygon.com/deals/2024/3/26/24112687/princess-peach-showtime-nintendo-switch-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
