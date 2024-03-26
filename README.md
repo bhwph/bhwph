@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon&#39;s Dogma 2 players have found a way to cooperatively print money with pawns—it&#39;s just impossible to explain without making it sound like a pyramid scheme](https://www.pcgamer.com/games/rpg/dragons-dogma-2-players-have-found-a-way-to-cooperatively-print-money-with-pawnsits-just-impossible-to-explain-without-making-it-sound-like-a-pyramid-scheme)
- - [Final Fantasy 7 Rebirth takes a side in the great Tifa and Aerith debate](https://www.polygon.com/24108672/final-fantasy-7-rebirth-cloud-shipping-debate-tifa-aerith-cloti-clerith-ending)
- - [Horizon Forbidden West Complete Edition review](https://www.pcgamer.com/games/action/horizon-forbidden-west-complete-edition-review)<!-- GAME:END -->
+ - [An abridged history of ‘unfilmable’ book adaptations](https://www.polygon.com/entertainment/24105888/unfilmable-books-best-adaptations-movies-shows-history-list)
+ - [Man tries to smuggle seven-year-old AMD graphics cards through Chinese airport customs—all 44 of them](https://www.pcgamer.com/hardware/graphics-cards/man-tries-to-smuggle-seven-year-old-amd-graphics-cards-through-chinese-airport-customsall-44-of-them)
+ - [FF7 Rebirth: WTF Is The Stat-Swapping Materia Good For?](https://kotaku.com/final-fantasy-7-ff7-rebirth-materia-hp-mp-swap-1851366828)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
