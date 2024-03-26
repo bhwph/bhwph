@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
- - 😝 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
- - 👉 [Choose!](http://9gag.com/gag/aKG48w3)<!-- MEMES:END -->
+ - 😝 [Mommy](http://9gag.com/gag/a87d0Mp)
+ - 👉 [My hometown](http://9gag.com/gag/avy2Rxd)<!-- MEMES:END -->
 
 --- 
 
