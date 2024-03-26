@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
- - 😝 [He was a a good boy.](http://9gag.com/gag/abA3WMB)
- - 👉 [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)<!-- MEMES:END -->
+ - 6️⃣ [Its show time](http://9gag.com/gag/aXPZ4RD)
+ - 😝 [What would be the world wide effect of this if the rule was universial all over the world? Less conflict or more conflict? Why?](http://9gag.com/gag/a34vye7)
+ - 👉 [He was a a good boy.](http://9gag.com/gag/abA3WMB)<!-- MEMES:END -->
 
 --- 
 
