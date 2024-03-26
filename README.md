@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta started rolling out its new opt-out political content settings on Instagram and Threads last week to &quot;limit political content from people you don&#39;t follow&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240326/p7#a240326p7)
- - [Blackmagic Cinema Camera 6K Review: Finally Full Frame](https://www.wired.com/review/blackmagic-cinema-camera-6k/)
- - [An interview with Phil Spencer on bringing Xbox to handhelds via hardware or software, how Valve, Lenovo, and Asus &quot;innovated in a new form factor&quot;, and more &lpar;Chris Plante/Polygon&rpar;](http://www.techmeme.com/240326/p6#a240326p6)<!-- TECH:END -->
+ - [Internal Tesla memo: Elon Musk tells staff to perform a &quot;short test ride&quot; with customers to demonstrate Full Self-Driving, a &quot;hard requirement&quot; from now on &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/240326/p15#a240326p15)
+ - [Amazon launches same-day prescription medication deliveries in New York City and the greater Los Angeles area, and plans to add 12+ cities by the end of 2024 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240326/p14#a240326p14)
+ - [Samsung Gaming Week slashes up to $1,000 off top monitors](https://www.androidauthority.com/samsung-gaming-week-monitor-deals-3428539/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
