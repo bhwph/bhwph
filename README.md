@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your phone’s stock gallery app just got a fantastic Google Photos upgrade](https://www.androidauthority.com/oneplus-realme-xiaomi-phones-google-photos-integration-gallery-app-3428285/)
- - [Google Messages will make it easier for you to send a flood of snaps](https://www.androidauthority.com/google-messages-attach-send-multiple-images-3428615/)
- - [The Mayor of London Enters the Bullshit Cinematic Universe](https://www.wired.com/story/mayor-of-london-sadiq-khan-ulez-conspiracy/)<!-- TECH:END -->
+ - [Meta started rolling out its new opt-out political content settings on Instagram and Threads last week to &quot;limit political content from people you don&#39;t follow&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240326/p7#a240326p7)
+ - [Blackmagic Cinema Camera 6K Review: Finally Full Frame](https://www.wired.com/review/blackmagic-cinema-camera-6k/)
+ - [An interview with Phil Spencer on bringing Xbox to handhelds via hardware or software, how Valve, Lenovo, and Asus &quot;innovated in a new form factor&quot;, and more &lpar;Chris Plante/Polygon&rpar;](http://www.techmeme.com/240326/p6#a240326p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
