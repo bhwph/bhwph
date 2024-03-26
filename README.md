@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit stock closes up 30% at $59.80, after the company went public at $34 last week, as the debut of options trading tied to Reddit appears to fuel the rise &lpar;Saqib Iqbal Ahmed/Reuters&rpar;](http://www.techmeme.com/240325/p25#a240325p25)
- - [The Best Reality TV Shows on Netflix     - CNET](https://www.cnet.com/tech/services-and-software/the-best-reality-tv-shows-on-netflix-march-2024/#ftag=CAD590a51e)
- - [Here are the best deals you can still grab from Amazon’s spring sales event](https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices)<!-- TECH:END -->
+ - [Telegram rolls out its Peer-to-Peer Login Program, giving some Android users a Premium sub for volunteering their phone numbers to relay SMS OTPs to other users &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240325/p28#a240325p28)
+ - [Florida Governor Signs Bill Banning Kids Under 14 From Having Social Media Accounts     - CNET](https://www.cnet.com/tech/florida-governor-signs-bill-banning-kids-under-14-from-having-social-media-accounts/#ftag=CAD590a51e)
+ - [Memo: Microsoft names Pavan Davuluri as its Windows and Surface chief; Microsoft had split the Windows and Surface groups after Panos Panay left in Sept. 2023 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240325/p27#a240325p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
