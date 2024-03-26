@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What would be the world wide effect of this if the rule was universial all over the world? Less conflict or more conflict? Why?](http://9gag.com/gag/a34vye7)
- - 😝 [He was a a good boy.](http://9gag.com/gag/abA3WMB)
- - 👉 [Its show time](http://9gag.com/gag/aXPZ4RD)<!-- MEMES:END -->
+ - 6️⃣ [Are you faster than me? Are you winning fair and square? That makes you racist. Never relax around the usual suspects.](http://9gag.com/gag/axyE341)
+ - 😝 [Mommy](http://9gag.com/gag/a87d0Mp)
+ - 👉 [The Girl From Work...](http://9gag.com/gag/aQz6mDd)<!-- MEMES:END -->
 
 --- 
 
