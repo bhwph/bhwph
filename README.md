@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;It&#39;s got a fearlessness&#39;: Tales of Kenzera: ZAU lead animator reveals how the cut &#39;melee powerhouse&#39; African boxing style inspired its martial movelist](https://www.pcgamer.com/games/action/its-got-a-fearlessness-tales-of-kenzera-zau-lead-animator-reveals-how-the-cut-melee-powerhouse-african-boxing-style-inspired-its-martial-movelist)
- - [Dead Space 2 players uncover easy money trick hidden right in front of them 13 years after release](https://www.pcgamer.com/games/action/dead-space-2-players-uncover-easy-money-trick-hidden-right-in-front-of-them-13-years-after-release)
- - [Introducing Community Game Help, a new enhancement for Game Help powered by user-generated content](https://blog.playstation.com/2024/03/26/introducing-community-game-help-a-new-enhancement-for-game-help-powered-by-user-generated-content/)<!-- GAME:END -->
+ - [Dragon’s Dogma 2 has next to no fast travel and that rules, actually](https://www.polygon.com/24111880/dragons-dogma-2-no-fast-travel-rules-capcom)
+ - [Chill Out with the Arctic Camo Special Edition Controller](https://news.xbox.com/en-us/2024/03/26/arctic-camo-special-edition/)
+ - [This Unreleased Capcom Game Lives On In The Caves Of Dragon&#39;s Dogma 2](https://kotaku.com/dragons-dogma-2-caves-deep-down-capcom-1851364378)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
