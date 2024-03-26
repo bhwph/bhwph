@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe launches GenStudio to let brands create content and measure its performance using generative AI, underpinned by promises of brand safety &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240326/p29#a240326p29)
- - [Google plans to release a Chrome version optimized for Windows on Arm this week, two months after Canary testing; Arm PCs previously ran an emulated x64 version &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240326/p28#a240326p28)
- - [It’s only taken 7 years for Chrome to land on Arm-powered Windows laptops](https://www.androidauthority.com/google-chrome-arm-windows-snapdragon-3428679/)<!-- TECH:END -->
+ - [A look at MatX, which was founded by ex-Google engineers, has raised $25M, and hopes to design chips that are 10x faster than Nvidia&#39;s GPUs at training LLMs &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240326/p36#a240326p36)
+ - [Apple AI, visionOS 2.0, iOS 18: What to expect from Apple during WWDC 2024 on June 10](https://appleinsider.com/articles/24/03/11/mac-studio-visionos-20-ios-18-apple-ai-what-to-expect-from-apple-for-wwdc-2024?utm_medium=rss)
+ - [The ad-free Kindle Kids is on sale for the first time since Black Friday](https://www.theverge.com/2024/3/26/24111659/kindle-kids-microsoft-xbox-series-x-princess-peach-showtime-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
