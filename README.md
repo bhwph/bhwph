@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ken Levine reveals why everyone hates you so much in Judas](https://www.pcgamer.com/games/fps/ken-levine-reveals-why-everyone-hates-you-so-much-in-judas)
- - [I&#39;ve now played exactly one bullet hell FPS, and I&#39;m ready for this to be the next big genre](https://www.pcgamer.com/games/fps/ive-now-played-exactly-one-bullet-hell-fps-and-im-ready-for-this-to-be-the-next-big-genre)
- - [You can already save $10 on Princess Peach Showtime! at Woot](https://www.polygon.com/deals/2024/3/26/24112687/princess-peach-showtime-nintendo-switch-deal-sale)<!-- GAME:END -->
+ - [The award for Dragon&#39;s Dogma 2&#39;s biggest jerks goes to the griffins](https://www.pcgamer.com/games/rpg/the-award-for-dragons-dogma-2s-biggest-jerks-goes-to-the-griffins)
+ - [Judas Previews Don’t Make The Game’s Lofty Promises Seem Any Closer To Reality](https://kotaku.com/judas-previews-bioshock-ken-levine-1851367642)
+ - [‘Readvent of Calamity’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24112555/readvent-calamity-quest-walkthrough-ulrika-location-where-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
