@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Are you faster than me? Are you winning fair and square? That makes you racist. Never relax around the usual suspects.](http://9gag.com/gag/axyE341)
- - 😝 [Mommy](http://9gag.com/gag/a87d0Mp)
- - 👉 [The Girl From Work...](http://9gag.com/gag/aQz6mDd)<!-- MEMES:END -->
+ - 6️⃣ [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 😝 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
+ - 👉 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)<!-- MEMES:END -->
 
 --- 
 
