@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
- - 😝 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
- - 👉 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)<!-- MEMES:END -->
+ - 6️⃣ [These guys can take a joke](http://9gag.com/gag/amoqxPX)
+ - 😝 [Worst roommate ever](http://9gag.com/gag/amoqxoV)
+ - 👉 [Awesome exhibition](http://9gag.com/gag/apRKxG9)<!-- MEMES:END -->
 
 --- 
 
