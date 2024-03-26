@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal Tesla memo: Elon Musk tells staff to perform a &quot;short test ride&quot; with customers to demonstrate Full Self-Driving, a &quot;hard requirement&quot; from now on &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/240326/p15#a240326p15)
- - [Amazon launches same-day prescription medication deliveries in New York City and the greater Los Angeles area, and plans to add 12+ cities by the end of 2024 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240326/p14#a240326p14)
- - [Samsung Gaming Week slashes up to $1,000 off top monitors](https://www.androidauthority.com/samsung-gaming-week-monitor-deals-3428539/)<!-- TECH:END -->
+ - [Apple Vision Pro China expansion will get a giant boost from Tencent](https://appleinsider.com/articles/24/03/26/apple-vision-pro-china-expansion-will-get-a-giant-boost-from-tencent?utm_medium=rss)
+ - [Get Apple&#39;s M1 MacBook Air for $699 during month-end flash sale](https://appleinsider.com/articles/24/03/26/get-apples-m1-macbook-air-for-699-during-month-end-flash-sale?utm_medium=rss)
+ - [Innovative LG Wing is being cobbled into a new, even more bizarre phone](https://www.androidauthority.com/xeta-one-3428783/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
