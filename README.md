@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon’s Dogma 2 has next to no fast travel and that rules, actually](https://www.polygon.com/24111880/dragons-dogma-2-no-fast-travel-rules-capcom)
- - [Chill Out with the Arctic Camo Special Edition Controller](https://news.xbox.com/en-us/2024/03/26/arctic-camo-special-edition/)
- - [This Unreleased Capcom Game Lives On In The Caves Of Dragon&#39;s Dogma 2](https://kotaku.com/dragons-dogma-2-caves-deep-down-capcom-1851364378)<!-- GAME:END -->
+ - [Dragon&#39;s Dogma 2 players have found a way to cooperatively print money with pawns—it&#39;s just impossible to explain without making it sound like a pyramid scheme](https://www.pcgamer.com/games/rpg/dragons-dogma-2-players-have-found-a-way-to-cooperatively-print-money-with-pawnsits-just-impossible-to-explain-without-making-it-sound-like-a-pyramid-scheme)
+ - [Final Fantasy 7 Rebirth takes a side in the great Tifa and Aerith debate](https://www.polygon.com/24108672/final-fantasy-7-rebirth-cloud-shipping-debate-tifa-aerith-cloti-clerith-ending)
+ - [Horizon Forbidden West Complete Edition review](https://www.pcgamer.com/games/action/horizon-forbidden-west-complete-edition-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
