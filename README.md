@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trolling Indian scammers](http://9gag.com/gag/aLn6ARW)
- - 😝 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
- - 👉 [Bro didn&#39;t even blink `i&#39;m 40 I dont have time for this BS` absolute CHAD.](http://9gag.com/gag/a6Zr5Mm)<!-- MEMES:END -->
+ - 6️⃣ [These guys can take a joke](http://9gag.com/gag/amoqxPX)
+ - 😝 [Bro didn&#39;t even blink `i&#39;m 40 I dont have time for this BS` absolute CHAD.](http://9gag.com/gag/a6Zr5Mm)
+ - 👉 [Amber pls](http://9gag.com/gag/aVvjmKK)<!-- MEMES:END -->
 
 --- 
 
