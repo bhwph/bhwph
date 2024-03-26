@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Edge Plus &lpar;2024&rpar; rumors: Everything we know and want to see](https://www.androidauthority.com/motorola-edge-plus-2024-3390024/)
- - [Google Search will now show you AI-summarized results whether you want them or not](https://www.androidauthority.com/google-search-sge-opt-in-3428572/)
- - [An investigation details the growing black market for Starlink kits being traded and activated illegally, including in regions subject to US sanctions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240325/p30#a240325p30)<!-- TECH:END -->
+ - [Apple could one-up Android with exclusive AI App Store in June](https://www.androidauthority.com/apple-ai-app-store-3428595/)
+ - [Uzbekistan-based e-commerce, fintech, and food delivery platform Uzum raised a $114M Series A at a $1.16B valuation, becoming country&#39;s first unicorn &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240326/p2#a240326p2)
+ - [Best Buy slashes $400 off Apple&#39;s M2 MacBook Air](https://appleinsider.com/articles/24/02/26/best-buy-launches-record-breaking-400-macbook-air-discount?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
