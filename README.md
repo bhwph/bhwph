@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, March 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-27-2024)
- - [Geneforge 2: Infestation read the standard CRPG manual, then set it on fire](https://www.pcgamer.com/games/rpg/geneforge-2-infestation-read-the-standard-crpg-manual-then-set-it-on-fire)
- - [Midnight Suns devs &#39;absolutely&#39; knew cards would be a controversial choice, but they were also &#39;absolutely the right fit for this game and our design goals&#39;](https://www.pcgamer.com/games/strategy/midnight-suns-devs-absolutely-knew-cards-would-be-a-controversial-choice-but-they-were-also-absolutely-the-right-fit-for-this-game-and-our-design-goals)<!-- GAME:END -->
+ - [A keyboard sticker can turn your new laptop into an AI PC. Probably...](https://www.pcgamer.com/software/windows/a-keyboard-sticker-can-turn-your-new-laptop-into-an-ai-pc-probably)
+ - [Larian Studios&#39; Swen Vincke does see potential uses for AI, but: &#39;We&#39;re hiring writers, not having ChatGPT write their dialogues&#39;](https://www.pcgamer.com/games/baldurs-gate/larian-studios-swen-vincke-does-see-potential-uses-for-ai-but-were-hiring-writers-not-having-chatgpt-write-their-dialogues)
+ - [X-Men ’97 is winding up for one of the best stories about weathermancer Storm ever told](https://www.polygon.com/24111425/forge-x-men-97-storm-powers-lifedeath)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
