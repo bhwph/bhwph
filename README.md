@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon’s Dogma 2 Makes You Take Your Time, And That’s Great](https://kotaku.com/dragons-dogma-2-fast-travel-hobbit-delicious-in-dungeon-1851370156)
- - [What type of Stardew Valley player are you?](https://www.polygon.com/24112417/type-stardew-valley-player-are-you-concernedape)
- - [Overwatch 2&#39;s first free hero will be playable this weekend ahead of their season 10 debut](https://www.pcgamer.com/games/fps/overwatch-2-dps-hero-venture-trial)<!-- GAME:END -->
+ - [Don’t Starve is getting a board game spin-off](https://www.polygon.com/tabletop-games/24112612/dont-starve-the-board-game-announcement-price-release-kickstarter)
+ - [Twitch targets butt streams with new rule banning &#39;content that focuses on intimate body parts for a prolonged period of time&#39;](https://www.pcgamer.com/hardware/streaming/twitch-bans-butt-streams)
+ - [How to get to Agamen Volcanic Island in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24112949/agamen-volcanic-island-flamebearer-palace-spellseal-door-how-to-open)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
