@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune MMO Dev Confirms No Dong Size Slider, Sorry Conan Exiles Fans](https://kotaku.com/dune-mmo-awakening-conan-exiles-dong-penis-size-slider-1851369813)
- - [Everything You Need to Know for Call of Duty: Season 3 Across MWIII, Warzone, and Mobile](https://www.callofduty.com/blog/2024/03/call-of-duty-modern-warfare-iii-warzone-wzm-season-3-maps-modes-zombies-announcement#new_tab)
- - [Dev Patel says watch more Korean action movies — here are 5 bangers](https://www.polygon.com/24112377/best-korean-action-movies-watch-streaming)<!-- GAME:END -->
+ - [Dragon’s Dogma 2 Makes You Take Your Time, And That’s Great](https://kotaku.com/dragons-dogma-2-fast-travel-hobbit-delicious-in-dungeon-1851370156)
+ - [What type of Stardew Valley player are you?](https://www.polygon.com/24112417/type-stardew-valley-player-are-you-concernedape)
+ - [Overwatch 2&#39;s first free hero will be playable this weekend ahead of their season 10 debut](https://www.pcgamer.com/games/fps/overwatch-2-dps-hero-venture-trial)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
