@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jakarta-based online personal insurance marketplace Qoala raised a $47M Series C co-led by PayPal Ventures and MassMutual Ventures, for $130M+ in total funding &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240327/p1#a240327p1)
- - [DroneUp unveils an autonomous drone &quot;ecosystem&quot; for last-mile deliveries, with Walmart, 7-Eleven, and Chick-fil-A the first retailers to pilot the system &lpar;Joann Muller/Axios&rpar;](http://www.techmeme.com/240326/p50#a240326p50)
- - [Best Food Processors of 2024: KitchenAid, Cuisinart and More     - CNET](https://www.cnet.com/home/kitchen-and-household/best-food-processor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at SRI&#39;s Future Concepts division, a research organization comprised of SRI and PARC researchers, as some argue that basic tech research labs are pass&amp;eacute; &lpar;John Markoff/New York Times&rpar;](http://www.techmeme.com/240327/p4#a240327p4)
+ - [Gemini AI can apparently co-exist with Google Assistant on the Pixel Tablet](https://www.androidauthority.com/google-gemini-ai-pixel-tablet-3429018/)
+ - [Blockchain game Munchables, which lets players earn rewards by looking after digital creatures, loses an estimated ~$63M worth of ETH in a hacking incident &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240327/p3#a240327p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
