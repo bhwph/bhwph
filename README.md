@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man&#39;s Sky finally has ship customization](https://www.pcgamer.com/games/sim/no-mans-sky-finally-has-ship-customization)
- - [Latest No Man’s Sky update adds ship customisation, new Guild system, space station overhaul, and more](https://blog.playstation.com/2024/03/27/latest-no-mans-sky-update-adds-ship-customisation-new-guild-system-space-station-overhaul-and-more/)
- - [No Man’s Sky Orbital Update Introduces Space Station Overhaul, Ship Customization, and More](https://news.xbox.com/en-us/2024/03/27/no-mans-sky-orbital-update-announce/)<!-- GAME:END -->
+ - [2001: A Space Odyssey is free to own right now](https://www.polygon.com/deals/24113565/2001-space-odyssey-free-amazon-prime-video)
+ - [Honkai: Star Rail codes for March 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [Baldur&#39;s Gate 3 has at least 24 ways Shadowheart can hurl the main MacGuffin at you as part of Larian&#39;s New Vegas-Style &#39;n+1&#39; system for plot-oblivious players: &#39;It might be even more&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-has-at-least-24-ways-shadowheart-can-hurl-the-main-macguffin-at-you-as-part-of-larians-new-vegas-style-n1-system-for-plot-oblivious-players-it-might-be-even-more)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
