@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Knife does not the cat](http://9gag.com/gag/aqy4z5P)
- - 😝 [15 years?](http://9gag.com/gag/awyNLZD)
- - 👉 [Thai ads are always so creat- Wait? Oh, this one is Korean?](http://9gag.com/gag/adByedD)<!-- MEMES:END -->
+ - 6️⃣ [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
+ - 😝 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)
+ - 👉 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)<!-- MEMES:END -->
 
 --- 
 
