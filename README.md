@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
- - 😝 [On the run](http://9gag.com/gag/avy2xA5)
- - 👉 [Mondays got me like](http://9gag.com/gag/aNDmVEA)<!-- MEMES:END -->
+ - 6️⃣ [Bad ending](http://9gag.com/gag/axyEOXL)
+ - 😝 [Who wants the tape after me?](http://9gag.com/gag/a7ovNVz)
+ - 👉 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)<!-- MEMES:END -->
 
 --- 
 
