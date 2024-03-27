@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at SRI&#39;s Future Concepts division, a research organization comprised of SRI and PARC researchers, as some argue that basic tech research labs are pass&amp;eacute; &lpar;John Markoff/New York Times&rpar;](http://www.techmeme.com/240327/p4#a240327p4)
- - [Gemini AI can apparently co-exist with Google Assistant on the Pixel Tablet](https://www.androidauthority.com/google-gemini-ai-pixel-tablet-3429018/)
- - [Blockchain game Munchables, which lets players earn rewards by looking after digital creatures, loses an estimated ~$63M worth of ETH in a hacking incident &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240327/p3#a240327p3)<!-- TECH:END -->
+ - [A look at Disney+ Hotstar&#39;s and JioCinema&#39;s strategy to beat Netflix and Prime Video in India, including by focusing on sports content and affordable pricing &lpar;Ananya Bhattacharya/Rest of World&rpar;](http://www.techmeme.com/240327/p7#a240327p7)
+ - [Pixel phones seem to have a strange alarm bug](https://www.androidauthority.com/pixel-alarm-bug-3429055/)
+ - [Samsung Galaxy S24 Ultra vs. Apple iPhone 15 Pro Max, Google Pixel 8 Pro, OnePlus 12: High-End Flagships Compared     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-vs-apple-iphone-15-pro-max-google-pixel-8-pro-oneplus-12-high-end-flagships-compared/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
