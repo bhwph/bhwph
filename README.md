@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The award for Dragon&#39;s Dogma 2&#39;s biggest jerks goes to the griffins](https://www.pcgamer.com/games/rpg/the-award-for-dragons-dogma-2s-biggest-jerks-goes-to-the-griffins)
- - [Judas Previews Don’t Make The Game’s Lofty Promises Seem Any Closer To Reality](https://kotaku.com/judas-previews-bioshock-ken-levine-1851367642)
- - [‘Readvent of Calamity’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24112555/readvent-calamity-quest-walkthrough-ulrika-location-where-to-find)<!-- GAME:END -->
+ - [Geneforge 2: Infestation read the standard CRPG manual, then set it on fire](https://www.pcgamer.com/games/rpg/geneforge-2-infestation-read-the-standard-crpg-manual-then-set-it-on-fire)
+ - [Midnight Suns devs &#39;absolutely&#39; knew cards would be a controversial choice, but they were also &#39;absolutely the right fit for this game and our design goals&#39;](https://www.pcgamer.com/games/strategy/midnight-suns-devs-absolutely-knew-cards-would-be-a-controversial-choice-but-they-were-also-absolutely-the-right-fit-for-this-game-and-our-design-goals)
+ - [The Spring Sale comes to PlayStation Store](https://blog.playstation.com/2024/03/26/the-spring-sale-comes-to-playstation-store-3/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
