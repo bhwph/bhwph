@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out Gemini to some Google Messages beta users with RCS enabled on select Pixel and Galaxy devices, letting users chat to Gemini over RCS &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240327/p11#a240327p11)
- - [Visible makes its best plan even better, leaves price the same](https://www.androidauthority.com/visible-plus-plan-upgrade-3428849/)
- - [Elie Hassenfeld Q&amp;A: ‘$5,000 to Save a Life Is a Bargain’](https://www.wired.com/story/elie-hassenfeld-givewell-ea/)<!-- TECH:END -->
+ - [Chinese state media: President Xi criticized &quot;technological barriers&quot; during Dutch Prime Minister Mark Rutte&#39;s visit to Beijing, as the US curbs ASML exports &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240327/p17#a240327p17)
+ - [BOE becomes favorite to supply 6.1-inch screens for iPhone SE 4](https://appleinsider.com/articles/24/03/27/boe-becomes-favorite-to-supply-61-inch-screens-for-iphone-se-4?utm_medium=rss)
+ - [A look at Databricks&#39; new open source model DBRX, which cost ~$10M to develop over several months and, Databricks says, outshines Llama 2, Mixtral, and Grok &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240327/p16#a240327p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
