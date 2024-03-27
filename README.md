@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Disney+ Hotstar&#39;s and JioCinema&#39;s strategy to beat Netflix and Prime Video in India, including by focusing on sports content and affordable pricing &lpar;Ananya Bhattacharya/Rest of World&rpar;](http://www.techmeme.com/240327/p7#a240327p7)
- - [Pixel phones seem to have a strange alarm bug](https://www.androidauthority.com/pixel-alarm-bug-3429055/)
- - [Samsung Galaxy S24 Ultra vs. Apple iPhone 15 Pro Max, Google Pixel 8 Pro, OnePlus 12: High-End Flagships Compared     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-vs-apple-iphone-15-pro-max-google-pixel-8-pro-oneplus-12-high-end-flagships-compared/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google rolls out Gemini to some Google Messages beta users with RCS enabled on select Pixel and Galaxy devices, letting users chat to Gemini over RCS &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240327/p11#a240327p11)
+ - [Visible makes its best plan even better, leaves price the same](https://www.androidauthority.com/visible-plus-plan-upgrade-3428849/)
+ - [Elie Hassenfeld Q&amp;A: ‘$5,000 to Save a Life Is a Bargain’](https://www.wired.com/story/elie-hassenfeld-givewell-ea/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
