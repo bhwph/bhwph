@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Choose!](http://9gag.com/gag/aKG48w3)
- - 😝 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)
- - 👉 [Stay safe, kings](http://9gag.com/gag/a2vEL01)<!-- MEMES:END -->
+ - 6️⃣ [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
+ - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
+ - 👉 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)<!-- MEMES:END -->
 
 --- 
 
