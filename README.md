@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s mysterious new teaser hints at Ear 3 earbuds announcement](https://www.androidauthority.com/nothings-mysterious-new-teaser-hints-at-ear-3-earbuds-announcement-3429308/)
- - [Bill Maher expands podcast operation with a controversial host](https://www.theverge.com/2024/3/27/24113735/bill-maher-podcast-sage-seele-andrew-huberman-lex-fridman-spotify-ambies)
- - [Canva&#39;s Affinity deal will shake the Adobe status quo](https://appleinsider.com/articles/24/03/27/canvas-affinity-deal-will-shake-the-adobe-status-quo?utm_medium=rss)<!-- TECH:END -->
+ - [Google says it blocked or removed 5.5B ads and 12.7M advertiser accounts for violating its policies in 2023, up from 5.2B and 6.7M respectively in 2022 &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/240327/p34#a240327p34)
+ - [The new MacBook Air M3 is $100 off for the first time](https://www.theverge.com/2024/3/27/24113809/apple-macbook-air-m3-deal-sale)
+ - [GLAAD report says Meta allows anti-trans hate to ‘flourish’ on its platforms](https://www.theverge.com/2024/3/27/24113755/meta-anti-trans-hate-speech-glaad-instagram-facebook-threads)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
