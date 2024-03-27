@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bad ending](http://9gag.com/gag/axyEOXL)
- - 😝 [Who wants the tape after me?](http://9gag.com/gag/a7ovNVz)
- - 👉 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)<!-- MEMES:END -->
+ - 6️⃣ [That camel must be so happy to get that off his back](http://9gag.com/gag/an7eE90)
+ - 😝 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
+ - 👉 [Her face when dude tells her to define it without saying the word Woman lmao.](http://9gag.com/gag/aW4Bb3n)<!-- MEMES:END -->
 
 --- 
 
