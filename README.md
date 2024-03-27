@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
- - 😝 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)
- - 👉 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)<!-- MEMES:END -->
+ - 6️⃣ [Bad ending](http://9gag.com/gag/axyEOXL)
+ - 😝 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
+ - 👉 [American rapper and record producer Sean `Diddy` Combs.](http://9gag.com/gag/aNDmBWb)<!-- MEMES:END -->
 
 --- 
 
