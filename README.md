@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Forbidden moves](http://9gag.com/gag/aYQjAx0)
- - 😝 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
- - 👉 [Choose!](http://9gag.com/gag/aKG48w3)<!-- MEMES:END -->
+ - 6️⃣ [I want to play a game ....](http://9gag.com/gag/aMVeOZ6)
+ - 😝 [You&#39;re being naughty!](http://9gag.com/gag/aBy9OxP)
+ - 👉 [Diddy should be just the beginning](http://9gag.com/gag/ary1BA7)<!-- MEMES:END -->
 
 --- 
 
