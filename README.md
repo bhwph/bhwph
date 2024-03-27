@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2001: A Space Odyssey is free to own right now](https://www.polygon.com/deals/24113565/2001-space-odyssey-free-amazon-prime-video)
- - [Honkai: Star Rail codes for March 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
- - [Baldur&#39;s Gate 3 has at least 24 ways Shadowheart can hurl the main MacGuffin at you as part of Larian&#39;s New Vegas-Style &#39;n+1&#39; system for plot-oblivious players: &#39;It might be even more&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-has-at-least-24-ways-shadowheart-can-hurl-the-main-macguffin-at-you-as-part-of-larians-new-vegas-style-n1-system-for-plot-oblivious-players-it-might-be-even-more)<!-- GAME:END -->
+ - [Dune MMO Dev Confirms No Dong Size Slider, Sorry Conan Exiles Fans](https://kotaku.com/dune-mmo-awakening-conan-exiles-dong-penis-size-slider-1851369813)
+ - [Everything You Need to Know for Call of Duty: Season 3 Across MWIII, Warzone, and Mobile](https://www.callofduty.com/blog/2024/03/call-of-duty-modern-warfare-iii-warzone-wzm-season-3-maps-modes-zombies-announcement#new_tab)
+ - [Dev Patel says watch more Korean action movies — here are 5 bangers](https://www.polygon.com/24112377/best-korean-action-movies-watch-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
