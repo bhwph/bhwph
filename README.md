@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A keyboard sticker can turn your new laptop into an AI PC. Probably...](https://www.pcgamer.com/software/windows/a-keyboard-sticker-can-turn-your-new-laptop-into-an-ai-pc-probably)
- - [Larian Studios&#39; Swen Vincke does see potential uses for AI, but: &#39;We&#39;re hiring writers, not having ChatGPT write their dialogues&#39;](https://www.pcgamer.com/games/baldurs-gate/larian-studios-swen-vincke-does-see-potential-uses-for-ai-but-were-hiring-writers-not-having-chatgpt-write-their-dialogues)
- - [X-Men ’97 is winding up for one of the best stories about weathermancer Storm ever told](https://www.polygon.com/24111425/forge-x-men-97-storm-powers-lifedeath)<!-- GAME:END -->
+ - [No Man&#39;s Sky finally has ship customization](https://www.pcgamer.com/games/sim/no-mans-sky-finally-has-ship-customization)
+ - [Latest No Man’s Sky update adds ship customisation, new Guild system, space station overhaul, and more](https://blog.playstation.com/2024/03/27/latest-no-mans-sky-update-adds-ship-customisation-new-guild-system-space-station-overhaul-and-more/)
+ - [No Man’s Sky Orbital Update Introduces Space Station Overhaul, Ship Customization, and More](https://news.xbox.com/en-us/2024/03/27/no-mans-sky-orbital-update-announce/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
