@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Choose!](http://9gag.com/gag/aKG48w3)
- - 😝 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)
- - 👉 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)<!-- MEMES:END -->
+ - 😝 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)
+ - 👉 [Stay safe, kings](http://9gag.com/gag/a2vEL01)<!-- MEMES:END -->
 
 --- 
 
