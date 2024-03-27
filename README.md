@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That camel must be so happy to get that off his back](http://9gag.com/gag/an7eE90)
- - 😝 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
- - 👉 [Her face when dude tells her to define it without saying the word Woman lmao.](http://9gag.com/gag/aW4Bb3n)<!-- MEMES:END -->
+ - 6️⃣ [Knife does not the cat](http://9gag.com/gag/aqy4z5P)
+ - 😝 [15 years?](http://9gag.com/gag/awyNLZD)
+ - 👉 [Thai ads are always so creat- Wait? Oh, this one is Korean?](http://9gag.com/gag/adByedD)<!-- MEMES:END -->
 
 --- 
 
