@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you&#39;re getting dozens of password reset notifications, you&#39;re being attacked](https://appleinsider.com/articles/24/03/27/if-youre-getting-dozens-of-password-reset-notifications-youre-being-attacked?utm_medium=rss)
- - [No Man’s Sky is finally getting a ship editor in latest update](https://www.theverge.com/2024/3/27/24112772/no-mans-sky-orbital-update-ship-editor)
- - [&#39;World of Warships: Legends&#39; sails onto iPhone and iPad](https://appleinsider.com/articles/24/03/27/world-of-warships-legends-sails-onto-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Google adds AI-generated trip itineraries to Search, translation to Circle to Search, and curated recommendations in Maps in 40+ cities across the US and Canada &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240327/p29#a240327p29)
+ - [The handy Circle to Search feature is coming to more Pixel devices](https://www.androidauthority.com/circle-to-search-more-pixel-phones-3429051/)
+ - [Google is making your summer travels easy with AI updates to Search, Maps, and Shopping](https://www.androidauthority.com/google-search-maps-shopping-ai-updates-3429157/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
