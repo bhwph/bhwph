@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds AI-generated trip itineraries to Search, translation to Circle to Search, and curated recommendations in Maps in 40+ cities across the US and Canada &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240327/p29#a240327p29)
- - [The handy Circle to Search feature is coming to more Pixel devices](https://www.androidauthority.com/circle-to-search-more-pixel-phones-3429051/)
- - [Google is making your summer travels easy with AI updates to Search, Maps, and Shopping](https://www.androidauthority.com/google-search-maps-shopping-ai-updates-3429157/)<!-- TECH:END -->
+ - [Nothing’s mysterious new teaser hints at Ear 3 earbuds announcement](https://www.androidauthority.com/nothings-mysterious-new-teaser-hints-at-ear-3-earbuds-announcement-3429308/)
+ - [Bill Maher expands podcast operation with a controversial host](https://www.theverge.com/2024/3/27/24113735/bill-maher-podcast-sage-seele-andrew-huberman-lex-fridman-spotify-ambies)
+ - [Canva&#39;s Affinity deal will shake the Adobe status quo](https://appleinsider.com/articles/24/03/27/canvas-affinity-deal-will-shake-the-adobe-status-quo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
