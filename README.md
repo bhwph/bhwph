@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bad ending](http://9gag.com/gag/axyEOXL)
- - 😝 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
- - 👉 [American rapper and record producer Sean `Diddy` Combs.](http://9gag.com/gag/aNDmBWb)<!-- MEMES:END -->
+ - 6️⃣ [Found in the wild. I thought it was just a myth](http://9gag.com/gag/a7ovNye)
+ - 😝 [Her face when dude tells her to define it without saying the word Woman lmao.](http://9gag.com/gag/aW4Bb3n)
+ - 👉 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)<!-- MEMES:END -->
 
 --- 
 
