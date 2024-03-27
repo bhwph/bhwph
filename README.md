@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Viam, which offers an automation software platform for robotics, IoT, smart homes, and more, raised a $45M Series B, taking its total raised to $87M &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240326/p49#a240326p49)
- - [Apple responds to DOJ antitrust lawsuit by refuting every claim](https://appleinsider.com/articles/24/03/27/apple-responds-to-doj-antitrust-lawsuit-by-refuting-every-claim?utm_medium=rss)
- - [Portugal&#39;s data regulator orders Worldcoin to stop collecting biometric data for 90 days, after receiving complaints about unauthorized collection from minors &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/240326/p48#a240326p48)<!-- TECH:END -->
+ - [Jakarta-based online personal insurance marketplace Qoala raised a $47M Series C co-led by PayPal Ventures and MassMutual Ventures, for $130M+ in total funding &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240327/p1#a240327p1)
+ - [DroneUp unveils an autonomous drone &quot;ecosystem&quot; for last-mile deliveries, with Walmart, 7-Eleven, and Chick-fil-A the first retailers to pilot the system &lpar;Joann Muller/Axios&rpar;](http://www.techmeme.com/240326/p50#a240326p50)
+ - [Best Food Processors of 2024: KitchenAid, Cuisinart and More     - CNET](https://www.cnet.com/home/kitchen-and-household/best-food-processor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
