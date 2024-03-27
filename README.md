@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Found in the wild. I thought it was just a myth](http://9gag.com/gag/a7ovNye)
- - 😝 [Her face when dude tells her to define it without saying the word Woman lmao.](http://9gag.com/gag/aW4Bb3n)
- - 👉 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)<!-- MEMES:END -->
+ - 6️⃣ [Forbidden moves](http://9gag.com/gag/aYQjAx0)
+ - 😝 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
+ - 👉 [Choose!](http://9gag.com/gag/aKG48w3)<!-- MEMES:END -->
 
 --- 
 
