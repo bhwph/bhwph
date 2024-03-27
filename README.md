@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese state media: President Xi criticized &quot;technological barriers&quot; during Dutch Prime Minister Mark Rutte&#39;s visit to Beijing, as the US curbs ASML exports &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240327/p17#a240327p17)
- - [BOE becomes favorite to supply 6.1-inch screens for iPhone SE 4](https://appleinsider.com/articles/24/03/27/boe-becomes-favorite-to-supply-61-inch-screens-for-iphone-se-4?utm_medium=rss)
- - [A look at Databricks&#39; new open source model DBRX, which cost ~$10M to develop over several months and, Databricks says, outshines Llama 2, Mixtral, and Grok &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240327/p16#a240327p16)<!-- TECH:END -->
+ - [If you&#39;re getting dozens of password reset notifications, you&#39;re being attacked](https://appleinsider.com/articles/24/03/27/if-youre-getting-dozens-of-password-reset-notifications-youre-being-attacked?utm_medium=rss)
+ - [No Man’s Sky is finally getting a ship editor in latest update](https://www.theverge.com/2024/3/27/24112772/no-mans-sky-orbital-update-ship-editor)
+ - [&#39;World of Warships: Legends&#39; sails onto iPhone and iPad](https://appleinsider.com/articles/24/03/27/world-of-warships-legends-sails-onto-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
