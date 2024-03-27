@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
- - 😝 [Mommy](http://9gag.com/gag/a87d0Mp)
- - 👉 [My hometown](http://9gag.com/gag/avy2Rxd)<!-- MEMES:END -->
+ - 6️⃣ [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
+ - 😝 [On the run](http://9gag.com/gag/avy2xA5)
+ - 👉 [Mondays got me like](http://9gag.com/gag/aNDmVEA)<!-- MEMES:END -->
 
 --- 
 
