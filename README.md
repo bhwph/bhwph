@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Coro, which offers SMB cybersecurity tools, raised a $100M Series D led by One Peak, sources say at a $750M post-money valuation, to expand in Europe &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240328/p9#a240328p9)
- - [Trump Media &amp; Technology Group closed up 14% at $66.22 on March 27, for a $13.5B market cap, as small investors boost the stock; Trump&#39;s stake is worth ~$5.3B &lpar;Financial Times&rpar;](http://www.techmeme.com/240328/p8#a240328p8)
- - [Galaxy M55 5G launches: A Galaxy A55 with several upgrades &lpar;and downgrades&rpar;](https://www.androidauthority.com/samsung-galaxy-m55-5g-3429434/)<!-- TECH:END -->
+ - [How to download YouTube Videos with 4K Video Downloader](https://appleinsider.com/articles/24/03/28/how-to-download-youtube-videos-with-4k-video-downloader?utm_medium=rss)
+ - [Apple wants a Magic Mouse you can tilt for more controls](https://appleinsider.com/articles/24/03/28/apple-wants-a-magic-mouse-you-can-tilt-for-more-controls?utm_medium=rss)
+ - [Analysis: in the past two years, Amazon committed to spending $148B over 15 years on data centers, including in Mississippi, Saudi Arabia, and Malaysia &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240328/p15#a240328p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
