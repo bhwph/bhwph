@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We are just kids for her](http://9gag.com/gag/azx7BMZ)
- - 😝 [Back Crack!](http://9gag.com/gag/abA3QoB)
- - 👉 [Women](http://9gag.com/gag/aMVey5G)<!-- MEMES:END -->
+ - 6️⃣ [Play stupid games, win stupid prizes.](http://9gag.com/gag/aE0dZop)
+ - 😝 [I will froze if given choices](http://9gag.com/gag/ae9KWbv)
+ - 👉 [Gambling is fun!](http://9gag.com/gag/aQz6O3r)<!-- MEMES:END -->
 
 --- 
 
