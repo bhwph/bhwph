@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to open an Apple Maps URL from a screenshot in macOS](https://appleinsider.com/inside/apple-maps/tips/how-to-open-an-apple-maps-url-from-a-screenshot-in-macos?utm_medium=rss)
- - [Robinhood’s New Gold Card Goes Head-to-Head With Apple and PayPal     - CNET](https://www.cnet.com/personal-finance/robinhoods-new-gold-card-goes-head-to-head-with-apple-and-paypal/#ftag=CAD590a51e)
- - [GLAAD: Meta is failing to curb posts calling for violence against trans people, posts calling trans and gender nonconforming people &quot;satanic&quot;, and more &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240327/p41#a240327p41)<!-- TECH:END -->
+ - [How in-app browsers silently subvert user choice, stifle innovation, trap users into apps, break websites, and enable apps to severely undermine user privacy &lpar;Open Web Advocacy&rpar;](http://www.techmeme.com/240328/p4#a240328p4)
+ - [Similarweb: GPTs created by subscribers on OpenAI&#39;s GPT Store accounted for just 1.5% of desktop visits to ChatGPT&#39;s site in February, suggesting limited appeal &lpar;Clara Murray/Financial Times&rpar;](http://www.techmeme.com/240328/p3#a240328p3)
+ - [Pixel phones have a strange alarm bug &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/pixel-alarm-bug-3429055/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
