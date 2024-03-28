@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don’t Starve is getting a board game spin-off](https://www.polygon.com/tabletop-games/24112612/dont-starve-the-board-game-announcement-price-release-kickstarter)
- - [Twitch targets butt streams with new rule banning &#39;content that focuses on intimate body parts for a prolonged period of time&#39;](https://www.pcgamer.com/hardware/streaming/twitch-bans-butt-streams)
- - [How to get to Agamen Volcanic Island in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24112949/agamen-volcanic-island-flamebearer-palace-spellseal-door-how-to-open)<!-- GAME:END -->
+ - [Economy class will be slightly less punishing if you fly on an aircraft with Panasonic&#39;s Astrova in-flight entertainment system](https://www.pcgamer.com/hardware/economy-class-will-be-slightly-less-punishing-if-you-fly-on-an-aircraft-with-panasonics-astrova-in-flight-entertainment-system)
+ - [Stardew Valley gets another new patch that fixes the &#39;creepy face&#39; bear and makes new cabins paintable](https://www.pcgamer.com/games/life-sim/stardew-valley-gets-another-new-patch-that-fixes-the-creepy-face-bear-and-makes-new-cabins-paintable)
+ - [You can&#39;t sue us for making games &#39;too entertaining,&#39; say major game developers in response to addiction lawsuits](https://www.pcgamer.com/gaming-industry/video-game-addiction-lawsuit-motion-to-dismiss)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
