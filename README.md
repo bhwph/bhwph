@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to download YouTube Videos with 4K Video Downloader](https://appleinsider.com/articles/24/03/28/how-to-download-youtube-videos-with-4k-video-downloader?utm_medium=rss)
- - [Apple wants a Magic Mouse you can tilt for more controls](https://appleinsider.com/articles/24/03/28/apple-wants-a-magic-mouse-you-can-tilt-for-more-controls?utm_medium=rss)
- - [Analysis: in the past two years, Amazon committed to spending $148B over 15 years on data centers, including in Mississippi, Saudi Arabia, and Malaysia &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240328/p15#a240328p15)<!-- TECH:END -->
+ - [Pelago, formerly Quit Genius, which provides virtual therapy sessions for treating addictions, raised a $58M Series C, bringing its total funding to $151M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240328/p18#a240328p18)
+ - [Future Apple Vision Pro may correct for vision problems without magnetic lenses](https://appleinsider.com/articles/24/03/28/future-apple-vision-pro-may-correct-for-vision-problems-without-magnetic-lenses?utm_medium=rss)
+ - [Beware of fake CleanMyMac installers that will infect your Mac](https://appleinsider.com/articles/24/03/28/beware-of-fake-cleanmymac-installers-that-will-infect-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
