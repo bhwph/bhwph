@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet the Designer Behind Neuralink’s Surgical Robot](https://www.wired.com/story/designer-behind-neuralinks-surgical-robot-afshin-mehin/)
- - [Waiting on Your Child Tax Credit Refund? Find Out When It Could Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/waiting-on-your-child-tax-credit-refund-find-out-when-it-could-arrive/#ftag=CAD590a51e)
- - [A look at the rise and fall of Emad Mostaque and Stability AI, including how Mostaque&#39;s relationship with Coatue and Lightspeed blossomed and fell apart &lpar;Fortune&rpar;](http://www.techmeme.com/240328/p5#a240328p5)<!-- TECH:END -->
+ - [NYC-based Coro, which offers SMB cybersecurity tools, raised a $100M Series D led by One Peak, sources say at a $750M post-money valuation, to expand in Europe &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240328/p9#a240328p9)
+ - [Trump Media &amp; Technology Group closed up 14% at $66.22 on March 27, for a $13.5B market cap, as small investors boost the stock; Trump&#39;s stake is worth ~$5.3B &lpar;Financial Times&rpar;](http://www.techmeme.com/240328/p8#a240328p8)
+ - [Galaxy M55 5G launches: A Galaxy A55 with several upgrades &lpar;and downgrades&rpar;](https://www.androidauthority.com/samsung-galaxy-m55-5g-3429434/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
