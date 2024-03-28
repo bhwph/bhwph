@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Marriage in a nutshell](http://9gag.com/gag/axyEANL)
- - 😝 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
- - 👉 [A training ground in China&#39;s Inner Mongolia is a replica of the road network near Taiwan&#39;s Presidential Palace.](http://9gag.com/gag/aRB62eA)<!-- MEMES:END -->
+ - 6️⃣ [We are just kids for her](http://9gag.com/gag/azx7BMZ)
+ - 😝 [Back Crack!](http://9gag.com/gag/abA3QoB)
+ - 👉 [Women](http://9gag.com/gag/aMVey5G)<!-- MEMES:END -->
 
 --- 
 
