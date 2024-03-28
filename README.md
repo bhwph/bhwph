@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happiness Noise](http://9gag.com/gag/aqy4DWp)
- - 😝 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
- - 👉 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)<!-- MEMES:END -->
+ - 6️⃣ [Marriage in a nutshell](http://9gag.com/gag/axyEANL)
+ - 😝 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
+ - 👉 [A training ground in China&#39;s Inner Mongolia is a replica of the road network near Taiwan&#39;s Presidential Palace.](http://9gag.com/gag/aRB62eA)<!-- MEMES:END -->
 
 --- 
 
