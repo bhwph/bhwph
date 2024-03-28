@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
- - 😝 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
- - 👉 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)<!-- MEMES:END -->
+ - 6️⃣ [Idiot Impossible](http://9gag.com/gag/azx74Ob)
+ - 😝 [Guy was living the dream. They only found out after an auditor came by.](http://9gag.com/gag/awyNYw1)
+ - 👉 [Why does this feel true..](http://9gag.com/gag/a87dzbd)<!-- MEMES:END -->
 
 --- 
 
