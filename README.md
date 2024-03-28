@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to change your appearance in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24106867/change-appearance-hair-body-barbarie-metamorphosis)
- - [A guide to finally getting into Brandon Sanderson books](https://www.polygon.com/24109139/brandon-sanderson-order-new-books-secret-projects-guides)
- - [Embracer Sells Borderlands Maker Gearbox For Less Than Half Of What It Paid](https://kotaku.com/gearbox-software-embracer-sale-borderlands-homeworld-1851371254)<!-- GAME:END -->
+ - [Dragon’s Dogma 2’s combat is sloppy and unrefined — on purpose](https://www.polygon.com/24114455/dragons-dogma-2-combat-jank)
+ - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
+ - [‘Tensions on the High Road’ walkthrough and choice in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24111544/tensions-high-road-quest-raghnall-simon-choice)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
