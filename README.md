@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [OK this is the good type of prank, and a creative one at that. Actually made me chuckle](http://9gag.com/gag/aZZqRyp)
- - 😝 [Idiot Impossible](http://9gag.com/gag/azx74Ob)
- - 👉 [Veteran 9gagger to newbie : welcome to the club](http://9gag.com/gag/aPA6r4w)<!-- MEMES:END -->
+ - 6️⃣ [Guy was living the dream. They only found out after an auditor came by.](http://9gag.com/gag/awyNYw1)
+ - 😝 [Blind Man gets arrested for carrying a white cane](http://9gag.com/gag/aBy94oA)
+ - 👉 [Back Crack!](http://9gag.com/gag/abA3QoB)<!-- MEMES:END -->
 
 --- 
 
