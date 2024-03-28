@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Blind Man gets arrested for carrying a white cane](http://9gag.com/gag/aBy94oA)
- - 😝 [Some people are so poor all they have is money](http://9gag.com/gag/a6ZrG38)
- - 👉 [Stay safe, kings](http://9gag.com/gag/a2vEL01)<!-- MEMES:END -->
+ - 6️⃣ [OK this is the good type of prank, and a creative one at that. Actually made me chuckle](http://9gag.com/gag/aZZqRyp)
+ - 😝 [Idiot Impossible](http://9gag.com/gag/azx74Ob)
+ - 👉 [Veteran 9gagger to newbie : welcome to the club](http://9gag.com/gag/aPA6r4w)<!-- MEMES:END -->
 
 --- 
 
