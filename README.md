@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon’s Dogma 2’s combat is sloppy and unrefined — on purpose](https://www.polygon.com/24114455/dragons-dogma-2-combat-jank)
- - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
- - [‘Tensions on the High Road’ walkthrough and choice in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24111544/tensions-high-road-quest-raghnall-simon-choice)<!-- GAME:END -->
+ - [Dropout’s new show Smartypants is bringing PowerPoint parties to your screen](https://www.polygon.com/24114777/dropout-tv-smartypants-powerpoint-party-streaming)
+ - [The best accessories for your Steam Deck OLED and LCD](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)
+ - [You can’t trust Dragon’s Dogma 2](https://www.polygon.com/videos/24114149/dragons-dogma-2-fake-forgeries-trickster-title-card)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
