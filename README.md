@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Bankman-Fried sentenced to 25 years for FTX fraud](https://www.theverge.com/2024/3/28/24112507/sam-bankman-fried-sentence-ftx-alameda)
- - [Live updates from the trial and sentencing of FTX co-founder Sam Bankman-Fried](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)
- - [Future Apple Vision Pro may get Bob Ross-style virtual painting tools](https://appleinsider.com/articles/24/03/28/future-apple-vision-pro-may-get-bob-ross-style-virtual-painting-tools?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apple plans to launch new iPad Pro and iPad Air models in early May; iPad Pros will get OLED displays, while iPad Air will get a 12.9&quot; screen option &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240328/p25#a240328p25)
+ - [Hulu with Live TV adds MLB Network just as baseball season gets underway](https://www.theverge.com/2024/3/28/24114745/mlb-network-hulu-live-tv)
+ - [SteelSeries’ multi-platform Arctis Nova Pro Wireless headset is nearly $70 off](https://www.theverge.com/2024/3/28/24114502/steelseries-arctis-nova-pro-wireless-apple-vision-pro-headset-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
