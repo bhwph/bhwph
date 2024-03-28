@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Maniac Takes The Best Part Of GTA And Makes It A Roguelike](https://kotaku.com/maniac-gta-vampire-survivors-is-it-good-steam-pc-1851372725)
- - [Former US senator and anti-videogame crusader Joe Lieberman has died at age 82](https://www.pcgamer.com/games/former-us-senator-and-anti-videogame-crusader-joe-lieberman-has-died-at-age-82)
- - [Reports of World of Warcraft&#39;s death may have been greatly exaggerated, as Blizzard&#39;s GM proudly wheels out a graph showing it&#39;s doing really well—but no hard numbers](https://www.pcgamer.com/games/mmo/reports-of-world-of-warcrafts-death-may-have-been-greatly-exaggerated-as-blizzards-gm-proudly-wheels-out-a-graph-showing-its-doing-really-wellbut-no-hard-numbers)<!-- GAME:END -->
+ - [Phil Spencer blames capitalism for games industry woes: &#39;I don&#39;t get [the] luxury of not having to run a profitable growing business&#39;](https://www.pcgamer.com/gaming-industry/phil-spencer-blames-capitalism-for-games-industry-woes-i-dont-get-the-luxury-of-not-having-to-run-a-profitable-growing-business)
+ - [Diablo 4&#39;s 10K-word patch notes bless necromancers and curse barbarians for next week&#39;s season 4 PTR](https://www.pcgamer.com/games/action/diablo-4s-10k-word-patch-notes-bless-necromancers-and-curse-barbarians-for-next-weeks-season-4-ptr)
+ - [Throwing A Snowball Can Crash Helldivers 2, Devs Suggest You Don&#39;t](https://kotaku.com/helldivers-2-snowball-fight-crash-bug-arrowhead-devs-1851373099)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
