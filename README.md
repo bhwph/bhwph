@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube now lets creators share exclusive Shorts with paying viewers, says Shorts average 70B+ daily views and 25%+ of creator partners monetize via Shorts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240328/p29#a240328p29)
- - [Google divulges that RCS on iPhones is coming towards the back half of this year](https://www.androidauthority.com/iphones-rcs-fall-2024-3429641/)
- - [Why do Pixels now get 7 years of updates? Google explains in new podcast episode.](https://www.androidauthority.com/pixels-seven-years-explanation-3429627/)<!-- TECH:END -->
+ - [AI21 Labs launches Jamba, an AI model that integrates two architectures: transformer and Mamba, which is based on the Structured State Space model &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240328/p32#a240328p32)
+ - [350 Swift Student Challenge winners awarded AirPods Max, chance to attend WWDC](https://appleinsider.com/articles/24/03/28/350-swift-student-challenge-winners-awarded-airpods-max-chance-to-attend-wwdc?utm_medium=rss)
+ - [These older Galaxy Watches are getting a new update for more accurate health tracking](https://www.androidauthority.com/galaxy-watch-4-5-update-3429634/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
