@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, March 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-28-2024)
  - [Economy class will be slightly less punishing if you fly on an aircraft with Panasonic&#39;s Astrova in-flight entertainment system](https://www.pcgamer.com/hardware/economy-class-will-be-slightly-less-punishing-if-you-fly-on-an-aircraft-with-panasonics-astrova-in-flight-entertainment-system)
- - [Stardew Valley gets another new patch that fixes the &#39;creepy face&#39; bear and makes new cabins paintable](https://www.pcgamer.com/games/life-sim/stardew-valley-gets-another-new-patch-that-fixes-the-creepy-face-bear-and-makes-new-cabins-paintable)
- - [You can&#39;t sue us for making games &#39;too entertaining,&#39; say major game developers in response to addiction lawsuits](https://www.pcgamer.com/gaming-industry/video-game-addiction-lawsuit-motion-to-dismiss)<!-- GAME:END -->
+ - [Stardew Valley gets another new patch that fixes the &#39;creepy face&#39; bear and makes new cabins paintable](https://www.pcgamer.com/games/life-sim/stardew-valley-gets-another-new-patch-that-fixes-the-creepy-face-bear-and-makes-new-cabins-paintable)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
