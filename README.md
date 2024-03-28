@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
- - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
- - 👉 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)<!-- MEMES:END -->
+ - 6️⃣ [Blind Man gets arrested for carrying a white cane](http://9gag.com/gag/aBy94oA)
+ - 😝 [Some people are so poor all they have is money](http://9gag.com/gag/a6ZrG38)
+ - 👉 [Stay safe, kings](http://9gag.com/gag/a2vEL01)<!-- MEMES:END -->
 
 --- 
 
