@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans to launch new iPad Pro and iPad Air models in early May; iPad Pros will get OLED displays, while iPad Air will get a 12.9&quot; screen option &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240328/p25#a240328p25)
- - [Hulu with Live TV adds MLB Network just as baseball season gets underway](https://www.theverge.com/2024/3/28/24114745/mlb-network-hulu-live-tv)
- - [SteelSeries’ multi-platform Arctis Nova Pro Wireless headset is nearly $70 off](https://www.theverge.com/2024/3/28/24114502/steelseries-arctis-nova-pro-wireless-apple-vision-pro-headset-deal-sale)<!-- TECH:END -->
+ - [YouTube now lets creators share exclusive Shorts with paying viewers, says Shorts average 70B+ daily views and 25%+ of creator partners monetize via Shorts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240328/p29#a240328p29)
+ - [Google divulges that RCS on iPhones is coming towards the back half of this year](https://www.androidauthority.com/iphones-rcs-fall-2024-3429641/)
+ - [Why do Pixels now get 7 years of updates? Google explains in new podcast episode.](https://www.androidauthority.com/pixels-seven-years-explanation-3429627/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
