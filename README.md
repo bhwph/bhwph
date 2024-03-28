@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oregon&#39;s governor signs the first US right-to-repair law that bans manufacturers from using &quot;parts pairing&quot; to dictate what replacement components can be used &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240327/p37#a240327p37)
- - [Oregon’s governor signs right-to-repair law that bans ‘parts pairing’](https://www.theverge.com/2024/3/27/24097042/right-to-repair-law-oregon-sb1596-parts-pairing-tina-kotek-signed)
- - [Despite Apple pushback, Oregon has passed its right-to-repair bill banning parts pairing](https://appleinsider.com/articles/24/03/27/despite-apple-pushback-oregon-has-passed-its-right-to-repair-bill-banning-parts-pairing?utm_medium=rss)<!-- TECH:END -->
+ - [Poland&#39;s consumer watchdog fines Amazon ~$8M for allegedly misleading consumers, including with dark pattern design tricks, ending a probe opened in Feb. 2023 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240327/p40#a240327p40)
+ - [Best Noise-Canceling Headphones Under $100 for 2024     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones-under-100/#ftag=CAD590a51e)
+ - [Best Wi-Fi Extenders of 2024     - CNET](https://www.cnet.com/home/internet/best-wifi-extender/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
