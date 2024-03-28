@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Her face when dude tells her to define it without saying the word Woman lmao.](http://9gag.com/gag/aW4Bb3n)
+ - 6️⃣ [Happiness Noise](http://9gag.com/gag/aqy4DWp)
  - 😝 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
- - 👉 [Happiness Noise](http://9gag.com/gag/aqy4DWp)<!-- MEMES:END -->
+ - 👉 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)<!-- MEMES:END -->
 
 --- 
 
