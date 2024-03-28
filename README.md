@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pelago, formerly Quit Genius, which provides virtual therapy sessions for treating addictions, raised a $58M Series C, bringing its total funding to $151M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240328/p18#a240328p18)
- - [Future Apple Vision Pro may correct for vision problems without magnetic lenses](https://appleinsider.com/articles/24/03/28/future-apple-vision-pro-may-correct-for-vision-problems-without-magnetic-lenses?utm_medium=rss)
- - [Beware of fake CleanMyMac installers that will infect your Mac](https://appleinsider.com/articles/24/03/28/beware-of-fake-cleanmymac-installers-that-will-infect-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Sam Bankman-Fried sentenced to 25 years for FTX fraud](https://www.theverge.com/2024/3/28/24112507/sam-bankman-fried-sentence-ftx-alameda)
+ - [Live updates from the trial and sentencing of FTX co-founder Sam Bankman-Fried](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)
+ - [Future Apple Vision Pro may get Bob Ross-style virtual painting tools](https://appleinsider.com/articles/24/03/28/future-apple-vision-pro-may-get-bob-ross-style-virtual-painting-tools?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
