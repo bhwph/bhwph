@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arrowhead implores Helldivers 2 players to temporarily stop using its most destructive weapon yet: Snowballs](https://www.pcgamer.com/games/third-person-shooter/arrowhead-implores-helldivers-2-players-to-temporarily-stop-using-its-most-destructive-weapon-yet-snowballs)
- - [Embracer has sold Gearbox — and Borderlands — to Take-Two for $460M](https://www.polygon.com/24114399/embracer-gearbox-borderlands-take-two-2k-sale)
- - [PC Gamer magazine&#39;s new issue is on sale now: Final Fantasy XIV: Dawntrail](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-final-fantasy-xiv-dawntrail)<!-- GAME:END -->
+ - [How to change your appearance in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24106867/change-appearance-hair-body-barbarie-metamorphosis)
+ - [A guide to finally getting into Brandon Sanderson books](https://www.polygon.com/24109139/brandon-sanderson-order-new-books-secret-projects-guides)
+ - [Embracer Sells Borderlands Maker Gearbox For Less Than Half Of What It Paid](https://kotaku.com/gearbox-software-embracer-sale-borderlands-homeworld-1851371254)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
