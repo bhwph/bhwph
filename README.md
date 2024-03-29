@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Phil Spencer blames capitalism for games industry woes: &#39;I don&#39;t get [the] luxury of not having to run a profitable growing business&#39;](https://www.pcgamer.com/gaming-industry/phil-spencer-blames-capitalism-for-games-industry-woes-i-dont-get-the-luxury-of-not-having-to-run-a-profitable-growing-business)
- - [Diablo 4&#39;s 10K-word patch notes bless necromancers and curse barbarians for next week&#39;s season 4 PTR](https://www.pcgamer.com/games/action/diablo-4s-10k-word-patch-notes-bless-necromancers-and-curse-barbarians-for-next-weeks-season-4-ptr)
- - [Throwing A Snowball Can Crash Helldivers 2, Devs Suggest You Don&#39;t](https://kotaku.com/helldivers-2-snowball-fight-crash-bug-arrowhead-devs-1851373099)<!-- GAME:END -->
+ - [PSA: Diablo 4 is now on PC Game Pass, just in time to prepare for its biggest update ever](https://www.pcgamer.com/games/action/psa-diablo-4-is-now-on-pc-game-pass-just-in-time-to-prepare-for-its-biggest-update-ever)
+ - [What to know about the MonsterVerse before Godzilla x Kong: The New Empire](https://www.polygon.com/24115007/godzilla-x-kong-new-empire-post-credits-scene-monsterverse)
+ - [All Sphinx riddles and solutions in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24114535/sphinx-riddles-solutions-locations-a-game-of-wits-walkthrough)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
