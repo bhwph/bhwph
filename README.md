@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail Grindr&#39;s push to monetize, including plans for an AI chatbot that can engage users in sexual conversations and may be trained on opt-in user data &lpar;Zo&amp;euml; Schiffer/Platformer&rpar;](http://www.techmeme.com/240328/p35#a240328p35)
- - [Apple sues former iOS engineer for allegedly leaking Vision Pro, Journal app details](https://www.theverge.com/2024/3/28/24115067/apple-leak-lawsuit-andrew-aude)
- - [Oregon&#39;s Breakthrough Right-to-Repair Bill Is Now Law](https://www.wired.com/story/oregon-right-to-repair-law/)<!-- TECH:END -->
+ - [Sources: the Biden administration is making a list of advanced Chinese chip factories barred from receiving key tools, which could be released in a few months &lpar;Reuters&rpar;](http://www.techmeme.com/240328/p38#a240328p38)
+ - [NYC is partnering with Evolv, a weapons detection company that has faced scrutiny over its machines&#39; accuracy, to test AI-based gun detectors on the subway &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240328/p37#a240328p37)
+ - [In a lawsuit, four Canadian school boards seek damages of CA$4B+ from Meta, Snap, and TikTok for allegedly causing learning and mental health crises in students &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240328/p36#a240328p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
