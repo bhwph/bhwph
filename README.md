@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
- - 😝 [SHE TALKS !](http://9gag.com/gag/a87dVP6)
- - 👉 [Why does this feel true..](http://9gag.com/gag/a87dzbd)<!-- MEMES:END -->
+ - 6️⃣ [Alien animal caught in China](http://9gag.com/gag/aBy9oQQ)
+ - 😝 [Freedom!!!](http://9gag.com/gag/aoymD7g)
+ - 👉 [Oh snap](http://9gag.com/gag/aPA6nbR)<!-- MEMES:END -->
 
 --- 
 
