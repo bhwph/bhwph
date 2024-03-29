@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Play stupid games, win stupid prizes.](http://9gag.com/gag/aE0dZop)
- - 😝 [I will froze if given choices](http://9gag.com/gag/ae9KWbv)
- - 👉 [Gambling is fun!](http://9gag.com/gag/aQz6O3r)<!-- MEMES:END -->
+ - 6️⃣ [Freedom!!!](http://9gag.com/gag/aoymD7g)
+ - 😝 [`Are they peaceful?` - Asked the woman](http://9gag.com/gag/apRKVyW)
+ - 👉 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)<!-- MEMES:END -->
 
 --- 
 
