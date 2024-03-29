@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An inside look at Windows and Surface leadership changes that could help Microsoft capitalize on AI PCs and transition Surface devices to Arm chips &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240329/p2#a240329p2)
- - [Google confirms Gemini Nano will come to the regular Pixel 8, after all &lpar;Updated&rpar;](https://www.androidauthority.com/gemini-nano-coming-to-regular-pixel-8-3429519/)
- - [If you exclusively use Samsung apps on your Galaxy phone, you’re part of a very small group](https://www.androidauthority.com/samsung-apps-poll-results-3429710/)<!-- TECH:END -->
+ - [iPhone 16 Pro may gain a new polished, glossy titanium finish](https://appleinsider.com/articles/24/03/29/iphone-16-pro-may-gain-a-new-polished-glossy-titanium-finish?utm_medium=rss)
+ - [Smartphones Do or Don’t Harm Kids! So Which Is It?](https://www.wired.com/story/pete-etchells-jonathan-haidt-smartphones/)
+ - [The Next Heat Pump Frontier? NYC Apartment Windows](https://www.wired.com/story/the-next-heat-pump-frontier-nyc-apartment-windows/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
