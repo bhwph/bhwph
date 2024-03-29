@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 👉 [I will froze if given choices](http://9gag.com/gag/ae9KWbv)<!-- MEMES:END -->
+ - 6️⃣ [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
+ - 😝 [How to equip your cat](http://9gag.com/gag/a7ovG32)
+ - 👉 [No title](http://9gag.com/gag/aLn6NKV)<!-- MEMES:END -->
 
 --- 
 
