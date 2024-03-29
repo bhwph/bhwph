@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Record low prices hit Apple&#39;s M3 MacBook Pro 14-inch, now on sale from $1,399](https://appleinsider.com/articles/24/03/29/record-low-prices-hit-apples-m3-macbook-pro-14-inch-now-on-sale-from-1399?utm_medium=rss)
- - [Experts and documents: the US is years from having a reliable alternative source for time and navigation services if GPS signals are interrupted by adversaries &lpar;New York Times&rpar;](http://www.techmeme.com/240329/p1#a240329p1)
- - [South Korean national statistics data: chip output grew 65.3% YoY in February 2024, the most since late 2009, with demand for AI-related memory driving growth &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/240328/p40#a240328p40)<!-- TECH:END -->
+ - [An inside look at Windows and Surface leadership changes that could help Microsoft capitalize on AI PCs and transition Surface devices to Arm chips &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240329/p2#a240329p2)
+ - [Google confirms Gemini Nano will come to the regular Pixel 8, after all &lpar;Updated&rpar;](https://www.androidauthority.com/gemini-nano-coming-to-regular-pixel-8-3429519/)
+ - [If you exclusively use Samsung apps on your Galaxy phone, you’re part of a very small group](https://www.androidauthority.com/samsung-apps-poll-results-3429710/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
