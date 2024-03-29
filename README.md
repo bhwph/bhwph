@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Accel is in talks to lead a round in Scale AI at a $13B valuation, up from $7.3B in 2021; Scale AI generated $675M+ in revenue in 2023, up ~150% YoY &lpar;The Information&rpar;](http://www.techmeme.com/240329/p5#a240329p5)
- - [Police seize fake iPhones in $750,000 haul of counterfeit items](https://appleinsider.com/articles/24/03/29/police-seize-fake-iphones-in-750000-haul-of-counterfeit-items?utm_medium=rss)
- - [iPhone 16 case leak includes vertical camera bump at the back](https://appleinsider.com/articles/24/03/29/iphone-16-case-leak-includes-vertical-camera-bump-at-the-back?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s Proof the AI Boom Is Real: More People Are Tapping ChatGPT at Work](https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/)
+ - [Sony PlayStation Pulse Elite Review: The PS5’s Perfect Wireless Headset](https://www.wired.com/review/sony-playstation-pulse-elite/)
+ - [Does Mario feel pain? It’s complicated](https://www.theverge.com/24114957/super-mario-developer-interview-pain-nintendo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
