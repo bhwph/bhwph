@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s Proof the AI Boom Is Real: More People Are Tapping ChatGPT at Work](https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/)
- - [Sony PlayStation Pulse Elite Review: The PS5’s Perfect Wireless Headset](https://www.wired.com/review/sony-playstation-pulse-elite/)
- - [Does Mario feel pain? It’s complicated](https://www.theverge.com/24114957/super-mario-developer-interview-pain-nintendo)<!-- TECH:END -->
+ - [A look at the MGM hack, carried out by Star Fraud group, part of the Com online community of teenagers from English-speaking countries that also spawned Lapsus$ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240329/p7#a240329p7)
+ - [26 Best Travel Accessories &lpar;2024&rpar;: Neck Pillows, Plug Adapters, and Headphones](https://www.wired.com/gallery/best-travel-accessories/)
+ - [Here’s Proof the AI Boom Is Real: More People Are Tapping ChatGPT at Work](https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
