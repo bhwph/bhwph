@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
- - 👉 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)<!-- MEMES:END -->
+ - 6️⃣ [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 😝 [SHE TALKS !](http://9gag.com/gag/a87dVP6)
+ - 👉 [Why does this feel true..](http://9gag.com/gag/a87dzbd)<!-- MEMES:END -->
 
 --- 
 
