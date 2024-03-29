@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You Can Play Cyberpunk 2077 For Free This Weekend](https://kotaku.com/cyberpunk-2077-free-trial-ps5-xbox-pc-five-hours-1851374466)
- - [Dragon&#39;s Dogma 2&#39;s first proper patch adds a much-needed new game option and makes it easier to get a house](https://www.pcgamer.com/games/rpg/dragons-dogma-2s-first-proper-patch-adds-a-much-needed-new-game-option-and-makes-it-easier-to-get-a-house)
- - [Official PlayStation Podcast Episode 481: Here’s To You, Jim](https://blog.playstation.com/2024/03/29/official-playstation-podcast-episode-481-heres-to-you-jim/)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240326-2000&rpar;](https://news.xbox.com/en-us/2024/03/29/xbox-insider-release-notes-alpha-skip-ahead-2408-240326-2000/)
+ - [Suicide Squad’s Joker Season Has Players Big Mad](https://kotaku.com/suicide-squad-joker-season-grind-battle-pass-unlock-1851374999)
+ - [The Keychron K8 is a superb value for just $56](https://www.polygon.com/deals/24115480/keychron-k8-wireless-mechanical-keyboard-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
