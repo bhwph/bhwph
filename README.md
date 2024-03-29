@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Protected: Gaming Industry Presses Pause to Reflect on End of Xbox’s Sophie Orlando Generation](https://news.xbox.com/en-us/2024/03/29/thank-you-sophi/)
- - [They fly now too? Helldivers 2 warns players that Automatons are developing &#39;aerial gunships,&#39; so Super Earth is countering with &#39;our most effective anti-air weaponry&#39;](https://www.pcgamer.com/games/third-person-shooter/they-fly-now-too-helldivers-2-warns-players-that-automatons-are-developing-aerial-gunships-so-super-earth-is-countering-with-our-most-effective-anti-air-weaponry)
- - [Suicide Squad: Kill the Justice League’s new Joker is here, and players aren’t laughing](https://www.polygon.com/24115481/suicide-squad-kill-the-justice-league-joker-story-unlock-controversy)<!-- GAME:END -->
+ - [Should you give the grimoires to Myrddin or Trysha in Dragon’s Dogma 2?](https://www.polygon.com/dragons-dogma-2-guide/24114874/grimoires-locations-myrddin-trysha-spellbound-sorcerers-appraisal-walkthrough)
+ - [All maister skills in Dragon’s Dogma 2 and how to get them](https://www.polygon.com/dragons-dogma-2-guide/24114903/maister-skills-how-to-get-locations)
+ - [Weebs, Rejoice: ‘Isekai’ Is Now In The Oxford Dictionary](https://kotaku.com/anime-manga-genre-isekai-enter-oxford-dictionary-1851375582)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
