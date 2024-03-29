@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
- - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
- - 👉 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)<!-- MEMES:END -->
+ - 6️⃣ [Always there](http://9gag.com/gag/aqy4dnv)
+ - 😝 [Gamer understand](http://9gag.com/gag/a4Ppxqd)
+ - 👉 [Open border activist James Jackson everybody](http://9gag.com/gag/aZZqdwz)<!-- MEMES:END -->
 
 --- 
 
