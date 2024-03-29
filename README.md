@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Alien animal caught in China](http://9gag.com/gag/aBy9oQQ)
- - 😝 [Freedom!!!](http://9gag.com/gag/aoymD7g)
- - 👉 [Oh snap](http://9gag.com/gag/aPA6nbR)<!-- MEMES:END -->
+ - 6️⃣ [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 😝 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)
+ - 👉 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)<!-- MEMES:END -->
 
 --- 
 
