@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Biden administration is making a list of advanced Chinese chip factories barred from receiving key tools, which could be released in a few months &lpar;Reuters&rpar;](http://www.techmeme.com/240328/p38#a240328p38)
- - [NYC is partnering with Evolv, a weapons detection company that has faced scrutiny over its machines&#39; accuracy, to test AI-based gun detectors on the subway &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240328/p37#a240328p37)
- - [In a lawsuit, four Canadian school boards seek damages of CA$4B+ from Meta, Snap, and TikTok for allegedly causing learning and mental health crises in students &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240328/p36#a240328p36)<!-- TECH:END -->
+ - [South Korean national statistics data: chip output grew 65.3% YoY in February 2024, the most since late 2009, with demand for AI-related memory driving growth &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/240328/p40#a240328p40)
+ - [How to grant third-party apps Apple Music access in macOS](https://appleinsider.com/inside/apple-music/tips/how-to-grant-third-party-apps-apple-music-access-in-macos?utm_medium=rss)
+ - [New York-based The Brandtech Group, which provides generative AI-based tools for advertising and marketing campaigns, raised a $115M Series C at a $4B valuation &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240328/p39#a240328p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
