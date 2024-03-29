@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Freedom!!!](http://9gag.com/gag/aoymD7g)
- - 😝 [`Are they peaceful?` - Asked the woman](http://9gag.com/gag/apRKVyW)
- - 👉 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)<!-- MEMES:END -->
+ - 6️⃣ [Women](http://9gag.com/gag/aMVey5G)
+ - 😝 [Theres no escape](http://9gag.com/gag/ayNEPbb)
+ - 👉 [Open border activist James Jackson everybody](http://9gag.com/gag/aZZqdwz)<!-- MEMES:END -->
 
 --- 
 
