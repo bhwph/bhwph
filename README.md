@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro may gain a new polished, glossy titanium finish](https://appleinsider.com/articles/24/03/29/iphone-16-pro-may-gain-a-new-polished-glossy-titanium-finish?utm_medium=rss)
- - [Smartphones Do or Don’t Harm Kids! So Which Is It?](https://www.wired.com/story/pete-etchells-jonathan-haidt-smartphones/)
- - [The Next Heat Pump Frontier? NYC Apartment Windows](https://www.wired.com/story/the-next-heat-pump-frontier-nyc-apartment-windows/)<!-- TECH:END -->
+ - [Sources: Accel is in talks to lead a round in Scale AI at a $13B valuation, up from $7.3B in 2021; Scale AI generated $675M+ in revenue in 2023, up ~150% YoY &lpar;The Information&rpar;](http://www.techmeme.com/240329/p5#a240329p5)
+ - [Police seize fake iPhones in $750,000 haul of counterfeit items](https://appleinsider.com/articles/24/03/29/police-seize-fake-iphones-in-750000-haul-of-counterfeit-items?utm_medium=rss)
+ - [iPhone 16 case leak includes vertical camera bump at the back](https://appleinsider.com/articles/24/03/29/iphone-16-case-leak-includes-vertical-camera-bump-at-the-back?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
