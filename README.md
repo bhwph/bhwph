@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Always there](http://9gag.com/gag/aqy4dnv)
- - 😝 [Gamer understand](http://9gag.com/gag/a4Ppxqd)
- - 👉 [Open border activist James Jackson everybody](http://9gag.com/gag/aZZqdwz)<!-- MEMES:END -->
+ - 6️⃣ [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 👉 [I will froze if given choices](http://9gag.com/gag/ae9KWbv)<!-- MEMES:END -->
 
 --- 
 
