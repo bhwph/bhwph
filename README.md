@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI21 Labs launches Jamba, an AI model that integrates two architectures: transformer and Mamba, which is based on the Structured State Space model &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240328/p32#a240328p32)
- - [350 Swift Student Challenge winners awarded AirPods Max, chance to attend WWDC](https://appleinsider.com/articles/24/03/28/350-swift-student-challenge-winners-awarded-airpods-max-chance-to-attend-wwdc?utm_medium=rss)
- - [These older Galaxy Watches are getting a new update for more accurate health tracking](https://www.androidauthority.com/galaxy-watch-4-5-update-3429634/)<!-- TECH:END -->
+ - [Sources detail Grindr&#39;s push to monetize, including plans for an AI chatbot that can engage users in sexual conversations and may be trained on opt-in user data &lpar;Zo&amp;euml; Schiffer/Platformer&rpar;](http://www.techmeme.com/240328/p35#a240328p35)
+ - [Apple sues former iOS engineer for allegedly leaking Vision Pro, Journal app details](https://www.theverge.com/2024/3/28/24115067/apple-leak-lawsuit-andrew-aude)
+ - [Oregon&#39;s Breakthrough Right-to-Repair Bill Is Now Law](https://www.wired.com/story/oregon-right-to-repair-law/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
