@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
- - 😝 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)
- - 👉 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)<!-- MEMES:END -->
+ - 6️⃣ [37](http://9gag.com/gag/aD2RrGw)
+ - 😝 [Well... Need to improve.](http://9gag.com/gag/awyNGAQ)
+ - 👉 [Actually funny... and true...](http://9gag.com/gag/a9yjN4j)<!-- MEMES:END -->
 
 --- 
 
