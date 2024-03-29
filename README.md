@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240326-2000&rpar;](https://news.xbox.com/en-us/2024/03/29/xbox-insider-release-notes-alpha-skip-ahead-2408-240326-2000/)
- - [Suicide Squad’s Joker Season Has Players Big Mad](https://kotaku.com/suicide-squad-joker-season-grind-battle-pass-unlock-1851374999)
- - [The Keychron K8 is a superb value for just $56](https://www.polygon.com/deals/24115480/keychron-k8-wireless-mechanical-keyboard-deal-sale)<!-- GAME:END -->
+ - [Protected: Gaming Industry Presses Pause to Reflect on End of Xbox’s Sophie Orlando Generation](https://news.xbox.com/en-us/2024/03/29/thank-you-sophi/)
+ - [They fly now too? Helldivers 2 warns players that Automatons are developing &#39;aerial gunships,&#39; so Super Earth is countering with &#39;our most effective anti-air weaponry&#39;](https://www.pcgamer.com/games/third-person-shooter/they-fly-now-too-helldivers-2-warns-players-that-automatons-are-developing-aerial-gunships-so-super-earth-is-countering-with-our-most-effective-anti-air-weaponry)
+ - [Suicide Squad: Kill the Justice League’s new Joker is here, and players aren’t laughing](https://www.polygon.com/24115481/suicide-squad-kill-the-justice-league-joker-story-unlock-controversy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
