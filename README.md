@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the MGM hack, carried out by Star Fraud group, part of the Com online community of teenagers from English-speaking countries that also spawned Lapsus$ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240329/p7#a240329p7)
- - [26 Best Travel Accessories &lpar;2024&rpar;: Neck Pillows, Plug Adapters, and Headphones](https://www.wired.com/gallery/best-travel-accessories/)
- - [Here’s Proof the AI Boom Is Real: More People Are Tapping ChatGPT at Work](https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/)<!-- TECH:END -->
+ - [Samsung Care Plus adds unlimited battery repair — for a price](https://www.theverge.com/2024/3/29/24115503/samsung-care-plus-price-increase-battery-repair)
+ - [Amazon is offering a rare deal on Philips Hue’s Festavia string lights](https://www.theverge.com/2024/3/29/24115040/philips-hue-festavia-smart-string-lights-hue-bridge-shokz-open-run-pro-headphones-deal-sale)
+ - [OpenAI is testing a system to recreate human voices. What could go wrong?](https://www.androidauthority.com/openai-voice-engine-3429794/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
