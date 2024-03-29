@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women](http://9gag.com/gag/aMVey5G)
- - 😝 [Theres no escape](http://9gag.com/gag/ayNEPbb)
- - 👉 [Open border activist James Jackson everybody](http://9gag.com/gag/aZZqdwz)<!-- MEMES:END -->
+ - 6️⃣ [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
+ - 😝 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
+ - 👉 [Back Crack!](http://9gag.com/gag/abA3QoB)<!-- MEMES:END -->
 
 --- 
 
