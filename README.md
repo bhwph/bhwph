@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for April 1 – 5](https://news.xbox.com/en-us/2024/03/29/next-week-on-xbox-new-games-for-april-1-5/)
- - [Swords, Pirates, And Sand: 20 New Games To Check Out In April](https://kotaku.com/april-game-releases-sand-land-stellar-blade-sea-thieves-1851372966)
- - [Cyberpunk&#39;s quest director says CD Projekt Red has experimented with generative AI, but there&#39;s still a &#39;gigantic, really long way to go&#39; before AI NPCs are as good as scripted characters](https://www.pcgamer.com/games/rpg/cyberpunks-quest-director-says-cd-projekt-red-has-experimented-with-generative-ai-but-theres-still-a-gigantic-really-long-way-to-go-before-ai-npcs-are-as-good-as-scripted-characters)<!-- GAME:END -->
+ - [You Can Play Cyberpunk 2077 For Free This Weekend](https://kotaku.com/cyberpunk-2077-free-trial-ps5-xbox-pc-five-hours-1851374466)
+ - [Dragon&#39;s Dogma 2&#39;s first proper patch adds a much-needed new game option and makes it easier to get a house](https://www.pcgamer.com/games/rpg/dragons-dogma-2s-first-proper-patch-adds-a-much-needed-new-game-option-and-makes-it-easier-to-get-a-house)
+ - [Official PlayStation Podcast Episode 481: Here’s To You, Jim](https://blog.playstation.com/2024/03/29/official-playstation-podcast-episode-481-heres-to-you-jim/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
