@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Real or Fake: How to Avoid Sneaky SMS Phishing Bank Scams     - CNET](https://www.cnet.com/personal-finance/banking/real-or-fake-how-to-avoid-sneaky-sms-phishing-bank-scams/#ftag=CAD590a51e)
- - [There is no evidence that using social media is driving an epidemic of mental illness and blaming it can distract from effectively responding to the real causes &lpar;Candice L. Odgers/Nature&rpar;](http://www.techmeme.com/240330/p4#a240330p4)
- - [EU&#39;s hostility towards Meta&#39;s &quot;Pay or Okay&quot; model is misguided as the model does not force users to use Meta&#39;s platforms and it has been deemed GDPR compliant &lpar;Eric Benjamin Seufert/Mobile Dev Memo&rpar;](http://www.techmeme.com/240330/p3#a240330p3)<!-- TECH:END -->
+ - [Bacon Perfection: Here&#39;s the Secret to Crispy Strips Without the Mess     - CNET](https://www.cnet.com/how-to/bacon-perfection-heres-the-secret-to-crispy-strips-without-the-mess/#ftag=CAD590a51e)
+ - [Inside LAION-5B, an AI training dataset of 5B+ images that has been unavailable for download after researchers found 3,000+ instances of CSAM in December 2023 &lpar;Knowing Machines&rpar;](http://www.techmeme.com/240330/p5#a240330p5)
+ - [Real or Fake: How to Avoid Sneaky SMS Phishing Bank Scams     - CNET](https://www.cnet.com/personal-finance/banking/real-or-fake-how-to-avoid-sneaky-sms-phishing-bank-scams/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
