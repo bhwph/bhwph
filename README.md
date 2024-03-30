@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
- - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
- - 👉 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)<!-- MEMES:END -->
+ - 6️⃣ [Title](http://9gag.com/gag/agmrpAv)
+ - 😝 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
+ - 👉 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)<!-- MEMES:END -->
 
 --- 
 
