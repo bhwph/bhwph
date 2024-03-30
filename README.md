@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Amazon&#39;s AGI team is aiming to outperform Anthropic&#39;s latest Claude models by the middle of 2024 using the company&#39;s forthcoming LLM, codenamed Olympus &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240329/p20#a240329p20)
  - [Researchers say they achieved fiber-optic data transfer speeds of 301 Tbps by using the E-band, a spectral band that has never been used in commercial systems &lpar;Keumars Afifi-Sabet/LiveScience&rpar;](http://www.techmeme.com/240329/p19#a240329p19)
- - [Best VPN Deals: Get a VPN Subscription for Under $3 per Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)
- - [There&#39;s a New Record for the Most Efficient Residential Solar Panel     - CNET](https://www.cnet.com/home/energy-and-utilities/theres-a-new-record-for-the-most-efficient-residential-solar-panel/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best VPN Deals: Get a VPN Subscription for Under $3 per Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
