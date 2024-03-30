@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can&#39;t blame the horse](http://9gag.com/gag/aKG4nqb)
- - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
- - 👉 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)<!-- MEMES:END -->
+ - 6️⃣ [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
+ - 👉 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)<!-- MEMES:END -->
 
 --- 
 
