@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
- - 😝 [Title](http://9gag.com/gag/azx7BYq)
- - 👉 [Why men are physically more stronger than women](http://9gag.com/gag/aGyK6G0)<!-- MEMES:END -->
+ - 6️⃣ [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
+ - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
+ - 👉 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)<!-- MEMES:END -->
 
 --- 
 
