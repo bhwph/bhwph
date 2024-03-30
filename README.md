@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley 1.6 is here to remind you why the game is here to stay](https://www.polygon.com/reviews/24114686/stardew-valley-1-6-update-review-concernedape-pc)
- - [I never liked bullet hell shooters, until Xenotilt put one inside my new favourite pinball table](https://www.pcgamer.com/games/action/i-never-liked-bullet-hell-shooters-until-xenotilt-put-one-inside-my-new-favourite-pinball-table)
- - [Elder Scrolls VI Playable, Shakeups At Nintendo, And More Of The Week&#39;s Gaming News](https://kotaku.com/elder-scrolls-vi-last-of-us-nintendo-layoffs-1851374647)<!-- GAME:END -->
+ - [Sydney Sweeney only does projects that scare her](https://www.polygon.com/24114636/sydney-sweeney-immaculate-production-company-new-movies)
+ - [Cloud’s unreliable narration only makes Final Fantasy 7 Rebirth’s ending more confusing](https://www.polygon.com/24109301/cloud-unreliable-narrator-final-fantasy-7-ff7-rebirth-ending-confusing)
+ - [Dragon&#39;s Dogma 2 Is Great, The New South Park Game Isn&#39;t, And More Of The Week&#39;s Gaming Opinions](https://kotaku.com/dragons-dogma-2-ff7-rebirth-ending-1851374649)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
