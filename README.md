@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bacon Perfection: Here&#39;s the Secret to Crispy Strips Without the Mess     - CNET](https://www.cnet.com/how-to/bacon-perfection-heres-the-secret-to-crispy-strips-without-the-mess/#ftag=CAD590a51e)
- - [Inside LAION-5B, an AI training dataset of 5B+ images that has been unavailable for download after researchers found 3,000+ instances of CSAM in December 2023 &lpar;Knowing Machines&rpar;](http://www.techmeme.com/240330/p5#a240330p5)
- - [Real or Fake: How to Avoid Sneaky SMS Phishing Bank Scams     - CNET](https://www.cnet.com/personal-finance/banking/real-or-fake-how-to-avoid-sneaky-sms-phishing-bank-scams/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [One Couple&#39;s Quest to Ditch Natural Gas](https://www.wired.com/story/home-decarbonization-solar-energy-electrification/)
+ - [10 best NFL football games for Android](https://www.androidauthority.com/best-american-football-games-android-864828/)
+ - [As Gmail turns 20 on April 1, a look at its impact on online communication and its future as other messaging apps have come to dominate how we communicate &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240330/p6#a240330p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
