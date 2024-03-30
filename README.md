@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Steven Mnuchin&#39;s TikTok plans; sources say his proposal to buy TikTok without its export-blocked algorithm and rebuild it from scratch is far-fetched &lpar;Washington Post&rpar;](http://www.techmeme.com/240330/p12#a240330p12)
- - [If you have an iPhone with AT&amp;T, there&#39;s a good chance your info has been stolen](https://appleinsider.com/articles/24/03/30/if-you-have-an-iphone-with-att-your-info-has-probably-been-stolen?utm_medium=rss)
- - [Tuft &amp; Needle Nod Mattress Review: A Bed for Budget Shoppers     - CNET](https://www.cnet.com/health/sleep/tuft-and-needle-nod-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Discord plans to start showing gaming ads from next week, called Sponsored Quests and offering rewards for in-game tasks; users can turn them off in settings &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240330/p13#a240330p13)
+ - [Best 3D Printer Filament Deals: Save Up $40 on Flexible PLA, PETG, Bulk Orders and More     - CNET](https://www.cnet.com/deals/the-best-3d-printer-filament-deals/#ftag=CAD590a51e)
+ - [March Madness 2024 Elite Eight: How to Watch, Livestream, TV Channel and Schedule     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-tournament-today-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
