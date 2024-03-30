@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best movies leaving streaming services at the end of March](https://www.polygon.com/what-to-watch/2024/3/30/24111541/best-movies-netflix-amazon-hulu-max-leaving-march-2024)
  - [Today&#39;s Wordle answer for Saturday, March 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-30-2024)
- - [Spectator rushes stage at CS2 tournament and gets tackled into trophy, smashing it to pieces](https://www.pcgamer.com/games/fps/pgl-major-copenhagen-stage-crasher-trophy)
- - [I&#39;m obsessed with the bizarre 16th century inspired creature design in roguelike deckbuilder Hermetica](https://www.pcgamer.com/games/roguelike/im-obsessed-with-the-bizarre-16th-century-inspired-creature-design-in-roguelike-deckbuilder-hermetica)<!-- GAME:END -->
+ - [Spectator rushes stage at CS2 tournament and gets tackled into trophy, smashing it to pieces](https://www.pcgamer.com/games/fps/pgl-major-copenhagen-stage-crasher-trophy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
