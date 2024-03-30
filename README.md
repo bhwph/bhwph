@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
- - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
- - 👉 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)<!-- MEMES:END -->
+ - 6️⃣ [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
+ - 😝 [Title](http://9gag.com/gag/azx7BYq)
+ - 👉 [Why men are physically more stronger than women](http://9gag.com/gag/aGyK6G0)<!-- MEMES:END -->
 
 --- 
 
