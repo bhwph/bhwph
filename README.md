@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies leaving streaming services at the end of March](https://www.polygon.com/what-to-watch/2024/3/30/24111541/best-movies-netflix-amazon-hulu-max-leaving-march-2024)
- - [Today&#39;s Wordle answer for Saturday, March 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-30-2024)
- - [Spectator rushes stage at CS2 tournament and gets tackled into trophy, smashing it to pieces](https://www.pcgamer.com/games/fps/pgl-major-copenhagen-stage-crasher-trophy)<!-- GAME:END -->
+ - [Stardew Valley 1.6 is here to remind you why the game is here to stay](https://www.polygon.com/reviews/24114686/stardew-valley-1-6-update-review-concernedape-pc)
+ - [I never liked bullet hell shooters, until Xenotilt put one inside my new favourite pinball table](https://www.pcgamer.com/games/action/i-never-liked-bullet-hell-shooters-until-xenotilt-put-one-inside-my-new-favourite-pinball-table)
+ - [Elder Scrolls VI Playable, Shakeups At Nintendo, And More Of The Week&#39;s Gaming News](https://kotaku.com/elder-scrolls-vi-last-of-us-nintendo-layoffs-1851374647)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
