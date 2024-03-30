@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Should you give the grimoires to Myrddin or Trysha in Dragon’s Dogma 2?](https://www.polygon.com/dragons-dogma-2-guide/24114874/grimoires-locations-myrddin-trysha-spellbound-sorcerers-appraisal-walkthrough)
- - [All maister skills in Dragon’s Dogma 2 and how to get them](https://www.polygon.com/dragons-dogma-2-guide/24114903/maister-skills-how-to-get-locations)
- - [Weebs, Rejoice: ‘Isekai’ Is Now In The Oxford Dictionary](https://kotaku.com/anime-manga-genre-isekai-enter-oxford-dictionary-1851375582)<!-- GAME:END -->
+ - [Spectator rushes stage at CS2 tournament and gets tackled into trophy, smashing it to pieces](https://www.pcgamer.com/games/fps/pgl-major-copenhagen-stage-crasher-trophy)
+ - [I&#39;m obsessed with the bizarre 16th century inspired creature design in roguelike deckbuilder Hermetica](https://www.pcgamer.com/games/roguelike/im-obsessed-with-the-bizarre-16th-century-inspired-creature-design-in-roguelike-deckbuilder-hermetica)
+ - [I defied Capcom and spawned 99 of Dragon&#39;s Dogma 2&#39;s instakill &#39;Unmaking Arrows&#39;](https://www.pcgamer.com/games/rpg/dragons-dogma-2-unmaking-arrow-spawn-99)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
