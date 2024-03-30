@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
- - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
- - 👉 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)<!-- MEMES:END -->
+ - 6️⃣ [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 😝 [Women](http://9gag.com/gag/a34vxKr)
+ - 👉 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)<!-- MEMES:END -->
 
 --- 
 
