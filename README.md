@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IEEE stops accepting papers with the &quot;Lenna image&quot;, featuring a 1972 Playboy model, after complains that it makes some women feel unwelcome in computer science &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240330/p11#a240330p11)
- - [OpenAI Can Re-Create Human Voices—but Won’t Release the Tech Yet](https://www.wired.com/story/openai-voice-engine-artificial-intelligence-release/)
- - [If you have an iPhone with AT&amp;T, your info has probably been stolen](https://appleinsider.com/articles/24/03/30/if-you-have-an-iphone-with-att-your-info-has-probably-been-stolen?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Steven Mnuchin&#39;s TikTok plans; sources say his proposal to buy TikTok without its export-blocked algorithm and rebuild it from scratch is far-fetched &lpar;Washington Post&rpar;](http://www.techmeme.com/240330/p12#a240330p12)
+ - [If you have an iPhone with AT&amp;T, there&#39;s a good chance your info has been stolen](https://appleinsider.com/articles/24/03/30/if-you-have-an-iphone-with-att-your-info-has-probably-been-stolen?utm_medium=rss)
+ - [Tuft &amp; Needle Nod Mattress Review: A Bed for Budget Shoppers     - CNET](https://www.cnet.com/health/sleep/tuft-and-needle-nod-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
