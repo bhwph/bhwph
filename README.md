@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Coffee Stain set to publish a stylishly strange-looking new deckbuilder](https://www.pcgamer.com/games/card-games/coffee-stain-set-to-publish-a-stylishly-strange-looking-new-deckbuilder)
  - [Ironically, Renegade Nell would benefit from some rules](https://www.polygon.com/reviews/24115875/renegade-nell-review-disney-plus)
- - [Don’t have the time to read &lpar;or watch&rpar; Shōgun? Get the audiobooks for just $10](https://www.polygon.com/deals/24115660/shogun-james-clavell-humble-bundle-audiobook-deal-sale)
- - [Sydney Sweeney only does projects that scare her](https://www.polygon.com/24114636/sydney-sweeney-immaculate-production-company-new-movies)<!-- GAME:END -->
+ - [Don’t have the time to read &lpar;or watch&rpar; Shōgun? Get the audiobooks for just $10](https://www.polygon.com/deals/24115660/shogun-james-clavell-humble-bundle-audiobook-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
