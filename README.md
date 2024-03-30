@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/wip-apps-weekly-528-3429767/)
- - [AT&amp;T confirms that data dumped online appears to be from 2019 or earlier and contains personal data of 7.6M current and 65.4M former account holders &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240330/p9#a240330p9)
- - [Apple has a new Swift tutorials webpage for budding developers](https://appleinsider.com/articles/24/03/30/apple-has-a-new-swift-tutorials-webpage-for-budding-developers?utm_medium=rss)<!-- TECH:END -->
+ - [IEEE stops accepting papers with the &quot;Lenna image&quot;, featuring a 1972 Playboy model, after complains that it makes some women feel unwelcome in computer science &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240330/p11#a240330p11)
+ - [OpenAI Can Re-Create Human Voices—but Won’t Release the Tech Yet](https://www.wired.com/story/openai-voice-engine-artificial-intelligence-release/)
+ - [If you have an iPhone with AT&amp;T, your info has probably been stolen](https://appleinsider.com/articles/24/03/30/if-you-have-an-iphone-with-att-your-info-has-probably-been-stolen?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
