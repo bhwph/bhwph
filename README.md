@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [37](http://9gag.com/gag/aD2RrGw)
- - 😝 [Well... Need to improve.](http://9gag.com/gag/awyNGAQ)
- - 👉 [Actually funny... and true...](http://9gag.com/gag/a9yjN4j)<!-- MEMES:END -->
+ - 6️⃣ [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
+ - 😝 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)
+ - 👉 [It&#39;s wild](http://9gag.com/gag/axyE4g1)<!-- MEMES:END -->
 
 --- 
 
