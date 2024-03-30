@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Atari 400 Mini is a cute little slice of video game history](https://www.theverge.com/24113699/atari-400-mini-hands-on)
- - [How to keep your Mac&#39;s data safe using Time Machine](https://appleinsider.com/inside/macos/tips/how-to-keep-your-macs-data-safe-using-time-machine?utm_medium=rss)
- - [Many Homeowners Struggle to Know If They Can Trust a Solar Company     - CNET](https://www.cnet.com/home/energy-and-utilities/many-homeowners-struggle-to-know-if-they-can-trust-a-solar-company/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/wip-apps-weekly-528-3429767/)
+ - [AT&amp;T confirms that data dumped online appears to be from 2019 or earlier and contains personal data of 7.6M current and 65.4M former account holders &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240330/p9#a240330p9)
+ - [Apple has a new Swift tutorials webpage for budding developers](https://appleinsider.com/articles/24/03/30/apple-has-a-new-swift-tutorials-webpage-for-budding-developers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
