@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sydney Sweeney only does projects that scare her](https://www.polygon.com/24114636/sydney-sweeney-immaculate-production-company-new-movies)
- - [Cloud’s unreliable narration only makes Final Fantasy 7 Rebirth’s ending more confusing](https://www.polygon.com/24109301/cloud-unreliable-narrator-final-fantasy-7-ff7-rebirth-ending-confusing)
- - [Dragon&#39;s Dogma 2 Is Great, The New South Park Game Isn&#39;t, And More Of The Week&#39;s Gaming Opinions](https://kotaku.com/dragons-dogma-2-ff7-rebirth-ending-1851374649)<!-- GAME:END -->
+ - [Ironically, Renegade Nell would benefit from some rules](https://www.polygon.com/reviews/24115875/renegade-nell-review-disney-plus)
+ - [Don’t have the time to read &lpar;or watch&rpar; Shōgun? Get the audiobooks for just $10](https://www.polygon.com/deals/24115660/shogun-james-clavell-humble-bundle-audiobook-deal-sale)
+ - [Sydney Sweeney only does projects that scare her](https://www.polygon.com/24114636/sydney-sweeney-immaculate-production-company-new-movies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
