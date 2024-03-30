@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Goes both directions](http://9gag.com/gag/amoqbwV)
+ - 6️⃣ [Befoolant](http://9gag.com/gag/a34vxBv)
  - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
- - 👉 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)<!-- MEMES:END -->
+ - 👉 [Women](http://9gag.com/gag/a34vxKr)<!-- MEMES:END -->
 
 --- 
 
