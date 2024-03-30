@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
- - 😝 [Women](http://9gag.com/gag/a34vxKr)
- - 👉 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)<!-- MEMES:END -->
+ - 6️⃣ [Goes both directions](http://9gag.com/gag/amoqbwV)
+ - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
+ - 👉 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)<!-- MEMES:END -->
 
 --- 
 
