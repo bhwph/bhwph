@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One touch volley](http://9gag.com/gag/aGyKN86)
- - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 👉 [Oh snap](http://9gag.com/gag/aPA6nbR)<!-- MEMES:END -->
+ - 6️⃣ [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
+ - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
+ - 👉 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)<!-- MEMES:END -->
 
 --- 
 
