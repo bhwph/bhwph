@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One Couple&#39;s Quest to Ditch Natural Gas](https://www.wired.com/story/home-decarbonization-solar-energy-electrification/)
- - [10 best NFL football games for Android](https://www.androidauthority.com/best-american-football-games-android-864828/)
- - [As Gmail turns 20 on April 1, a look at its impact on online communication and its future as other messaging apps have come to dominate how we communicate &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240330/p6#a240330p6)<!-- TECH:END -->
+ - [The Atari 400 Mini is a cute little slice of video game history](https://www.theverge.com/24113699/atari-400-mini-hands-on)
+ - [How to keep your Mac&#39;s data safe using Time Machine](https://appleinsider.com/inside/macos/tips/how-to-keep-your-macs-data-safe-using-time-machine?utm_medium=rss)
+ - [Many Homeowners Struggle to Know If They Can Trust a Solar Company     - CNET](https://www.cnet.com/home/energy-and-utilities/many-homeowners-struggle-to-know-if-they-can-trust-a-solar-company/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
