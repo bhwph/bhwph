@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
- - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
- - 👉 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)<!-- MEMES:END -->
+ - 6️⃣ [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
+ - 😝 [No witness](http://9gag.com/gag/aD2Rqgw)
+ - 👉 [Goes both directions](http://9gag.com/gag/amoqbwV)<!-- MEMES:END -->
 
 --- 
 
