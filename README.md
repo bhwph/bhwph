@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [73M AT&amp;T customers have had their personal data, including passcodes, leaked online](https://www.pcgamer.com/software/security/73m-atandt-customers-have-had-their-personal-data-including-passcodes-leaked-online)
  - [Today&#39;s Wordle answer for Sunday, March 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-31-2024)
- - [Get a free D&amp;D adventure based on a classic dungeon crawl on DND Beyond](https://www.pcgamer.com/games/rpg/get-a-free-dandd-adventure-based-on-a-classic-dungeon-crawl-on-dnd-beyond)
- - [Tekken director asks why Americans want Waffle House to be a stage in Tekken 8](https://www.pcgamer.com/games/fighting/tekken-director-asks-why-americans-want-waffle-house-to-be-a-stage-in-tekken)<!-- GAME:END -->
+ - [Get a free D&amp;D adventure based on a classic dungeon crawl on DND Beyond](https://www.pcgamer.com/games/rpg/get-a-free-dandd-adventure-based-on-a-classic-dungeon-crawl-on-dnd-beyond)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
