@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Drawing shadows](http://9gag.com/gag/a34vgPm)
- - 😝 [People aren&#39;t politically correct in 3rd world asian countries.](http://9gag.com/gag/an7e3Oq)
- - 👉 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)<!-- MEMES:END -->
+ - 6️⃣ [This took me a minute](http://9gag.com/gag/axyEezK)
+ - 😝 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)
+ - 👉 [She beat the Grim Reaper and took his Scythe](http://9gag.com/gag/aKG4nO1)<!-- MEMES:END -->
 
 --- 
 
