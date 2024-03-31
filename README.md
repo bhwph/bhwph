@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best scene in naruto IMO](http://9gag.com/gag/an7e0zo)
- - 😝 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)
+ - 6️⃣ [Today&#39;s generation is lost or I&#39;m toxic](http://9gag.com/gag/aXPZQRP)
+ - 😝 [Descriptive title](http://9gag.com/gag/aRB6G7j)
  - 👉 [If you want to be part of the Queer Fat Club, you really have to be fat. It\u2019s a requirement.](http://9gag.com/gag/a0evDNv)<!-- MEMES:END -->
 
 --- 
