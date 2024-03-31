@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some filters are just perfect](http://9gag.com/gag/aGyK6P7)
- - 😝 [We did it boys](http://9gag.com/gag/aE0dbBO)
- - 👉 [Today,](http://9gag.com/gag/ae9KyXB)<!-- MEMES:END -->
+ - 6️⃣ [Drawing shadows](http://9gag.com/gag/a34vgPm)
+ - 😝 [People aren&#39;t politically correct in 3rd world asian countries.](http://9gag.com/gag/an7e3Oq)
+ - 👉 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)<!-- MEMES:END -->
 
 --- 
 
