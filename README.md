@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Today&#39;s generation is lost or I&#39;m toxic](http://9gag.com/gag/aXPZQRP)
- - 😝 [Descriptive title](http://9gag.com/gag/aRB6G7j)
- - 👉 [If you want to be part of the Queer Fat Club, you really have to be fat. It\u2019s a requirement.](http://9gag.com/gag/a0evDNv)<!-- MEMES:END -->
+ - 6️⃣ [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
+ - 😝 [No witness](http://9gag.com/gag/aD2Rqgw)
+ - 👉 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)<!-- MEMES:END -->
 
 --- 
 
