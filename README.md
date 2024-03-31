@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Godzilla x Kong is basically a Dragon Ball movie](https://www.polygon.com/anime/24111923/godzilla-x-kong-the-new-empire-vs-dragon-ball-anime)
  - [All the Haunted Chocolatier news we’ve heard so far](https://www.polygon.com/gaming/24114854/haunted-chocolatier-stardew-valley-2-concernedape-news)
- - [Even More Final Fantasy 7 Rebirth And Dragon&#39;s Dogma 2 Tips](https://kotaku.com/even-more-final-fantasy-7-rebirth-and-dragons-dogma-2-t-1851374648)
- - [The best puzzle games to play right now](https://www.polygon.com/what-to-play/24114511/best-puzzle-games-play-ios-android-windows-playstation-xbox)<!-- GAME:END -->
+ - [Even More Final Fantasy 7 Rebirth And Dragon&#39;s Dogma 2 Tips](https://kotaku.com/even-more-final-fantasy-7-rebirth-and-dragons-dogma-2-t-1851374648)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
