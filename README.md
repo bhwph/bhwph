@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deal yet on the Galaxy Tab S9 FE Plus at $131 off](https://www.androidauthority.com/deal-samsung-galaxy-tab-s9-fe-plus-3429985/)
- - [Sources: Dell, HP, and other US tech firms have asked their Taiwanese suppliers to boost production of AI-related hardware in Mexico to reduce reliance on China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240331/p6#a240331p6)
- - [Save on Apple, Samsung, LG and More with Best Buy&#39;s Flash Sale     - CNET](https://www.cnet.com/deals/save-on-apple-samsung-lg-and-more-with-best-buys-flash-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [March Madness 2024 Elite Eight: How to Watch Today on CBS     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-tournament-today-without-cable/#ftag=CAD590a51e)
+ - [Flash sale: Best Buy drops Apple Watch Series 9 to $269, iMac to $799 today only](https://appleinsider.com/articles/24/03/31/flash-sale-best-buy-drops-apple-watch-series-9-to-269-imac-to-799-today-only?utm_medium=rss)
+ - [Sleep Apnea: What to Know About the Health Impacts     - CNET](https://www.cnet.com/health/sleep/sleep-apnea/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
