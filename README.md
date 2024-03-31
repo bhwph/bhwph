@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo ThinkPad X1 Carbon Gen 12 Review: Too Dang Expensive](https://www.wired.com/review/lenovo-thinkpad-x1-carbon-gen-12-2024/)
- - [An AI voice notes app that really works](https://www.theverge.com/2024/3/31/24116047/cleft-notes-ai-voice-spider-verse-short-steve-believers-installer-newsletter)
- - [The T-Mobile Sidekick’s Jump button made mobile multitasking easy](https://www.theverge.com/24115039/danger-hiptop-t-mobile-sidekick-jump-button)<!-- TECH:END -->
+ - [Crime blotter: A year later, Alderwood Apple Store theft remains unsolved](https://appleinsider.com/articles/24/03/31/crime-blotter-a-year-later-alderwood-apple-store-theft-remains-unsolved?utm_medium=rss)
+ - [I wish Google would open up Fitbit to other smartwatches](https://www.androidauthority.com/google-open-fitbit-other-smartwatches-3429317/)
+ - [7 Best Cloud Storage Services &lpar;2024&rpar;: Apple, Google, and More](https://www.wired.com/gallery/best-cloud-storage-services/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
