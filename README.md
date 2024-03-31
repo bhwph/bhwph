@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
- - 😝 [No witness](http://9gag.com/gag/aD2Rqgw)
- - 👉 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)<!-- MEMES:END -->
+ - 6️⃣ [Some filters are just perfect](http://9gag.com/gag/aGyK6P7)
+ - 😝 [We did it boys](http://9gag.com/gag/aE0dbBO)
+ - 👉 [Today,](http://9gag.com/gag/ae9KyXB)<!-- MEMES:END -->
 
 --- 
 
