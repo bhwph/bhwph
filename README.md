@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coffee Stain set to publish a stylishly strange-looking new deckbuilder](https://www.pcgamer.com/games/card-games/coffee-stain-set-to-publish-a-stylishly-strange-looking-new-deckbuilder)
- - [Ironically, Renegade Nell would benefit from some rules](https://www.polygon.com/reviews/24115875/renegade-nell-review-disney-plus)
- - [Don’t have the time to read &lpar;or watch&rpar; Shōgun? Get the audiobooks for just $10](https://www.polygon.com/deals/24115660/shogun-james-clavell-humble-bundle-audiobook-deal-sale)<!-- GAME:END -->
+ - [Tekken director asks why Americans want Waffle House to be a stage in Tekken 8](https://www.pcgamer.com/games/fighting/tekken-director-asks-why-americans-want-waffle-house-to-be-a-stage-in-tekken)
+ - [CD Projekt Red says the next Witcher game is &#39;not just repeating what was done before&#39; as the dev team ramps up to over 400](https://www.pcgamer.com/games/rpg/cd-projekt-red-says-the-next-witcher-game-is-not-just-repeating-what-was-done-before-as-the-dev-team-ramps-up-to-over-400)
+ - [Coffee Stain set to publish a stylishly strange-looking new deckbuilder](https://www.pcgamer.com/games/card-games/coffee-stain-set-to-publish-a-stylishly-strange-looking-new-deckbuilder)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
