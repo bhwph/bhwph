@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: A year later, Alderwood Apple Store theft remains unsolved](https://appleinsider.com/articles/24/03/31/crime-blotter-a-year-later-alderwood-apple-store-theft-remains-unsolved?utm_medium=rss)
- - [I wish Google would open up Fitbit to other smartwatches](https://www.androidauthority.com/google-open-fitbit-other-smartwatches-3429317/)
- - [7 Best Cloud Storage Services &lpar;2024&rpar;: Apple, Google, and More](https://www.wired.com/gallery/best-cloud-storage-services/)<!-- TECH:END -->
+ - [Best deal yet on the Galaxy Tab S9 FE Plus at $131 off](https://www.androidauthority.com/deal-samsung-galaxy-tab-s9-fe-plus-3429985/)
+ - [Sources: Dell, HP, and other US tech firms have asked their Taiwanese suppliers to boost production of AI-related hardware in Mexico to reduce reliance on China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240331/p6#a240331p6)
+ - [Save on Apple, Samsung, LG and More with Best Buy&#39;s Flash Sale     - CNET](https://www.cnet.com/deals/save-on-apple-samsung-lg-and-more-with-best-buys-flash-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
