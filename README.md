@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My type of Ai](http://9gag.com/gag/aE0dyqK)
- - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
- - 👉 [Don\u2019t work hard, work smart](http://9gag.com/gag/aGyKNOZ)<!-- MEMES:END -->
+ - 6️⃣ [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
+ - 👉 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)<!-- MEMES:END -->
 
 --- 
 
