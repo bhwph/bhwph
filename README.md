@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
- - 😝 [Best scene in naruto IMO](http://9gag.com/gag/an7e0zo)
- - 👉 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)<!-- MEMES:END -->
+ - 6️⃣ [My type of Ai](http://9gag.com/gag/aE0dyqK)
+ - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
+ - 👉 [Don\u2019t work hard, work smart](http://9gag.com/gag/aGyKNOZ)<!-- MEMES:END -->
 
 --- 
 
