@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at AI&#39;s impact on video game actors, as some fear their voices might be misused while others hope to collect extra payments on top of a base minimum &lpar;David Smith/The Guardian&rpar;](http://www.techmeme.com/240331/p4#a240331p4)
- - [You Should Update Apple iOS and Google Chrome ASAP](https://www.wired.com/story/apple-ios-google-chrome-critical-update-march/)
- - [Last Chance to Save Big on BowFlex Fitness Gear     - CNET](https://www.cnet.com/deals/build-better-habits-with-big-savings-on-bowflex-fitness-gear/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lenovo ThinkPad X1 Carbon Gen 12 Review: Too Dang Expensive](https://www.wired.com/review/lenovo-thinkpad-x1-carbon-gen-12-2024/)
+ - [An AI voice notes app that really works](https://www.theverge.com/2024/3/31/24116047/cleft-notes-ai-voice-spider-verse-short-steve-believers-installer-newsletter)
+ - [The T-Mobile Sidekick’s Jump button made mobile multitasking easy](https://www.theverge.com/24115039/danger-hiptop-t-mobile-sidekick-jump-button)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
