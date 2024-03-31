@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
- - 😝 [Title](http://9gag.com/gag/agmrpAv)
- - 👉 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)<!-- MEMES:END -->
+ - 6️⃣ [Best scene in naruto IMO](http://9gag.com/gag/an7e0zo)
+ - 😝 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)
+ - 👉 [If you want to be part of the Queer Fat Club, you really have to be fat. It\u2019s a requirement.](http://9gag.com/gag/a0evDNv)<!-- MEMES:END -->
 
 --- 
 
