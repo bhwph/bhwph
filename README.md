@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Walking Dead is building to something — but it’s not clear what](https://www.polygon.com/24114712/walking-dead-ones-who-live-review-future-analysis-spinoffs)
- - [Glam up your Warhammer 40K minis with everyday products from the beauty aisle](https://www.polygon.com/deals/24112798/mini-painting-beauty-products-nail-art-warhammer-40k)
- - [Godzilla x Kong is basically a Dragon Ball movie](https://www.polygon.com/anime/24111923/godzilla-x-kong-the-new-empire-vs-dragon-ball-anime)<!-- GAME:END -->
+ - [The next Magic: The Gathering set wants you to do crimes](https://www.pcgamer.com/games/card-games/the-next-magic-the-gathering-set-wants-you-to-do-crimes)
+ - [Bandai Namco drops three free games, including one where you&#39;re a very messy dog ruining the house](https://www.pcgamer.com/games/bandai-namco-drops-three-free-games-including-one-where-youre-a-very-messy-dog-ruining-the-house)
+ - [The Walking Dead is building to something — but it’s not clear what](https://www.polygon.com/24114712/walking-dead-ones-who-live-review-future-analysis-spinoffs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
