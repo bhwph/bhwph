@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)
- - 😝 [How do you make easter easier? Replace the `t` with an `i`](http://9gag.com/gag/ae9KqqW)
- - 👉 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)<!-- MEMES:END -->
+ - 6️⃣ [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
+ - 😝 [Best scene in naruto IMO](http://9gag.com/gag/an7e0zo)
+ - 👉 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)<!-- MEMES:END -->
 
 --- 
 
