@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
- - 😝 [No witness](http://9gag.com/gag/aD2Rqgw)
- - 👉 [Goes both directions](http://9gag.com/gag/amoqbwV)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/agmrpAv)
+ - 👉 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)<!-- MEMES:END -->
 
 --- 
 
