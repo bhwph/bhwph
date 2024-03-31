@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title](http://9gag.com/gag/agmrpAv)
- - 😝 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
- - 👉 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)<!-- MEMES:END -->
+ - 6️⃣ [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)
+ - 😝 [How do you make easter easier? Replace the `t` with an `i`](http://9gag.com/gag/ae9KqqW)
+ - 👉 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)<!-- MEMES:END -->
 
 --- 
 
