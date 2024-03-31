@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken director asks why Americans want Waffle House to be a stage in Tekken 8](https://www.pcgamer.com/games/fighting/tekken-director-asks-why-americans-want-waffle-house-to-be-a-stage-in-tekken)
- - [CD Projekt Red says the next Witcher game is &#39;not just repeating what was done before&#39; as the dev team ramps up to over 400](https://www.pcgamer.com/games/rpg/cd-projekt-red-says-the-next-witcher-game-is-not-just-repeating-what-was-done-before-as-the-dev-team-ramps-up-to-over-400)
- - [Coffee Stain set to publish a stylishly strange-looking new deckbuilder](https://www.pcgamer.com/games/card-games/coffee-stain-set-to-publish-a-stylishly-strange-looking-new-deckbuilder)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, March 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-31-2024)
+ - [Get a free D&amp;D adventure based on a classic dungeon crawl on DND Beyond](https://www.pcgamer.com/games/rpg/get-a-free-dandd-adventure-based-on-a-classic-dungeon-crawl-on-dnd-beyond)
+ - [Tekken director asks why Americans want Waffle House to be a stage in Tekken 8](https://www.pcgamer.com/games/fighting/tekken-director-asks-why-americans-want-waffle-house-to-be-a-stage-in-tekken)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
