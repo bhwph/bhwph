@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail codes for April 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
- - [Pokémon Go Ditto disguises list for April 2024](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)
- - [What time does Modern Warfare 3 season 3 release?](https://www.polygon.com/modern-warfare-3-guides/24117846/season-3-release-time-date)<!-- GAME:END -->
+ - [How To Rank Up Your Fortnite Festival Pass Without Actually Playing](https://kotaku.com/fortnite-festival-season-2-rank-up-xp-points-jam-stage-1851379415)
+ - [Xbox Insider Release Notes – Beta &lpar;2404.240328-2200&rpar;](https://news.xbox.com/en-us/2024/04/01/xbox-insider-release-notes-beta-2404-240328-2200/)
+ - [Pokémon Go Spotlight Hour schedule for April 2024](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
