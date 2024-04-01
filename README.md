@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Computing would be totally different had Apple not been formed 48 years ago, today](https://appleinsider.com/articles/20/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_medium=rss)
- - [A Haunted Discord Server Is the Last Good Place Online](https://www.wired.com/story/haunted-discord-server-last-good-place/)
- - [Microsoft plans to unbundle Teams from Office 365 globally starting April 1 amid antitrust scrutiny, after a similar unbundling in EU in August 2023 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240401/p4#a240401p4)<!-- TECH:END -->
+ - [20 years of Gmail](https://www.theverge.com/24113616/gmail-email-20-years-old-internet)
+ - [HP Spectre x360 14 Review: The Best Windows 2-in-1 Laptop](https://www.wired.com/review/hp-spectre-x360-14-2024/)
+ - [Sources: OpenAI discussed training GPT-5 on public YouTube video transcripts; AI industry&#39;s need for high-quality text data may outstrip supply within two years &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240401/p5#a240401p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
