@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything you need to know about the upcoming solar eclipse](https://www.theverge.com/2024/4/1/24117848/total-solar-eclipse-north-america-april-how-to-watch)
- - [Apple staff offered Milanese Loop Apple Watch bands at 40% off](https://appleinsider.com/articles/24/04/01/apple-staff-offered-milanese-loop-apple-watch-bands-at-40-off?utm_medium=rss)
- - [Binance names its first board of directors, which has seven members including CEO Richard Teng and three other Binance execs &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240401/p13#a240401p13)<!-- TECH:END -->
+ - [Canadian payments company Nuvei has agreed to be purchased and taken private by PE firm Advent International in a $6.3B deal &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240401/p17#a240401p17)
+ - [The FTC is trying to help victims of impersonation scams get their money back](https://www.theverge.com/2024/4/1/24118030/ftc-impersonation-rule-businesses-government-artificial-intelligence)
+ - [Apple researchers detail an AI system that can resolve ambiguous references to on-screen entities, in some cases better than GPT-4 can, and can run &quot;on-device&quot; &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240401/p16#a240401p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
