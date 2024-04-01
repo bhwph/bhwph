@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No witness](http://9gag.com/gag/aD2Rqgw)
- - 😝 [I can absolutely fix her](http://9gag.com/gag/aBy9Mz2)
- - 👉 [Prank backfires in the most satisfying way](http://9gag.com/gag/avy2VRZ)<!-- MEMES:END -->
+ - 6️⃣ [Descriptive title](http://9gag.com/gag/aRB6G7j)
+ - 😝 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)
+ - 👉 [Drawing shadows](http://9gag.com/gag/a34vgPm)<!-- MEMES:END -->
 
 --- 
 
