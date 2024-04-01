@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Drawing shadows](http://9gag.com/gag/a34vgPm)
- - 😝 [The perfect keychain doesn&#39;t exist...](http://9gag.com/gag/aW4B5BK)
- - 👉 [Hey, is that a...?](http://9gag.com/gag/abA3o2B)<!-- MEMES:END -->
+ - 6️⃣ [Just an average asian kid nothing special keep scrollin](http://9gag.com/gag/adByMPZ)
+ - 😝 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
+ - 👉 [Damn girl chill](http://9gag.com/gag/a1mpjm2)<!-- MEMES:END -->
 
 --- 
 
