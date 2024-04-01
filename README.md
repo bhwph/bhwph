@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Rank Up Your Fortnite Festival Pass Without Actually Playing](https://kotaku.com/fortnite-festival-season-2-rank-up-xp-points-jam-stage-1851379415)
- - [Xbox Insider Release Notes – Beta &lpar;2404.240328-2200&rpar;](https://news.xbox.com/en-us/2024/04/01/xbox-insider-release-notes-beta-2404-240328-2200/)
- - [Pokémon Go Spotlight Hour schedule for April 2024](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)<!-- GAME:END -->
+ - [Pledge your support for the Bugsnax card game before May 1](https://www.polygon.com/deals/24118121/bugsnax-card-game-kickstarter-tabletop-pre-order)
+ - [Oops, I almost beat Dragon’s Dogma 2 by accident](https://www.polygon.com/gaming/24118067/dragons-dogma-2-last-boss-ending)
+ - [XDefiant misses another launch window, Ubisoft says a new release date will be announced after an upcoming stress test, which also doesn&#39;t have a launch date](https://www.pcgamer.com/games/fps/xdefiant-misses-another-launch-window-ubisoft-says-a-new-release-date-will-be-announced-after-an-upcoming-stress-test-which-also-doesnt-have-a-launch-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
