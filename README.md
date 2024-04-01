@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Loop Capital cuts AAPL price target to $170 over weak iPhone demand](https://appleinsider.com/articles/24/04/01/loop-capital-cuts-aapl-price-target-to-170-over-weak-iphone-demand?utm_medium=rss)
- - [Google Home may soon work even when you don’t have Internet](https://www.androidauthority.com/google-home-without-internet-3430098/)
- - [Filing: to settle a 2020 class action suit about Chrome&#39;s Incognito mode, Google has agreed to destroy billions of data points it allegedly improperly collected &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240401/p10#a240401p10)<!-- TECH:END -->
+ - [Everything you need to know about the upcoming solar eclipse](https://www.theverge.com/2024/4/1/24117848/total-solar-eclipse-north-america-april-how-to-watch)
+ - [Apple staff offered Milanese Loop Apple Watch bands at 40% off](https://appleinsider.com/articles/24/04/01/apple-staff-offered-milanese-loop-apple-watch-bands-at-40-off?utm_medium=rss)
+ - [Binance names its first board of directors, which has seven members including CEO Richard Teng and three other Binance execs &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240401/p13#a240401p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
