@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This took me a minute](http://9gag.com/gag/axyEezK)
- - 😝 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)
- - 👉 [She beat the Grim Reaper and took his Scythe](http://9gag.com/gag/aKG4nO1)<!-- MEMES:END -->
+ - 6️⃣ [Good Knight guys](http://9gag.com/gag/a87dN21)
+ - 😝 [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)
+ - 👉 [Today&#39;s generation is lost or I&#39;m toxic](http://9gag.com/gag/aXPZQRP)<!-- MEMES:END -->
 
 --- 
 
