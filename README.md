@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
- - 😝 [Thank you!](http://9gag.com/gag/a9yje9o)
- - 👉 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)<!-- MEMES:END -->
+ - 6️⃣ [No witness](http://9gag.com/gag/aD2Rqgw)
+ - 😝 [I can absolutely fix her](http://9gag.com/gag/aBy9Mz2)
+ - 👉 [Prank backfires in the most satisfying way](http://9gag.com/gag/avy2VRZ)<!-- MEMES:END -->
 
 --- 
 
