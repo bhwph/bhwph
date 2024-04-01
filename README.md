@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s upcoming flagship flaunts its curves in latest leak](https://www.androidauthority.com/motorla-edge-50-ultra-design-leak-3430064/)
- - [A Ghost Ship’s Doomed Journey Through the Gate of Tears](https://www.wired.com/story/houthi-internet-cables-ship-anchor-path/)
- - [Samsung says ChatGPT-like AI smarts could come to Bixby](https://www.androidauthority.com/bixby-generative-ai-features-3430057/)<!-- TECH:END -->
+ - [Computing would be totally different had Apple not been formed 48 years ago, today](https://appleinsider.com/articles/20/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_medium=rss)
+ - [A Haunted Discord Server Is the Last Good Place Online](https://www.wired.com/story/haunted-discord-server-last-good-place/)
+ - [Microsoft plans to unbundle Teams from Office 365 globally starting April 1 amid antitrust scrutiny, after a similar unbundling in EU in August 2023 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240401/p4#a240401p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
