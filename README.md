@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Matt Farley, who has released thousands of songs under various pseudonyms on streaming services with the goal of matching nearly any search query &lpar;Brett Martin/New York Times&rpar;](http://www.techmeme.com/240401/p8#a240401p8)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Best Grills &lpar;2024&rpar;: Charcoal, Gas, Pellet, Hybrid, and Grilling Accessories](https://www.wired.com/gallery/best-grills/)<!-- TECH:END -->
+ - [Loop Capital cuts AAPL price target to $170 over weak iPhone demand](https://appleinsider.com/articles/24/04/01/loop-capital-cuts-aapl-price-target-to-170-over-weak-iphone-demand?utm_medium=rss)
+ - [Google Home may soon work even when you don’t have Internet](https://www.androidauthority.com/google-home-without-internet-3430098/)
+ - [Filing: to settle a 2020 class action suit about Chrome&#39;s Incognito mode, Google has agreed to destroy billions of data points it allegedly improperly collected &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240401/p10#a240401p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
