@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [20 years of Gmail](https://www.theverge.com/24113616/gmail-email-20-years-old-internet)
- - [HP Spectre x360 14 Review: The Best Windows 2-in-1 Laptop](https://www.wired.com/review/hp-spectre-x360-14-2024/)
- - [Sources: OpenAI discussed training GPT-5 on public YouTube video transcripts; AI industry&#39;s need for high-quality text data may outstrip supply within two years &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240401/p5#a240401p5)<!-- TECH:END -->
+ - [A profile of Matt Farley, who has released thousands of songs under various pseudonyms on streaming services with the goal of matching nearly any search query &lpar;Brett Martin/New York Times&rpar;](http://www.techmeme.com/240401/p8#a240401p8)
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
+ - [Best Grills &lpar;2024&rpar;: Charcoal, Gas, Pellet, Hybrid, and Grilling Accessories](https://www.wired.com/gallery/best-grills/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
