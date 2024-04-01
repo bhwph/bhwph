@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Descriptive title](http://9gag.com/gag/aRB6G7j)
- - 😝 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)
- - 👉 [Drawing shadows](http://9gag.com/gag/a34vgPm)<!-- MEMES:END -->
+ - 6️⃣ [In the last 36 hours, 7000 illegal Africans have reached Lampedusa, Italy \ud83c\uddee\ud83c\uddf9](http://9gag.com/gag/a34vrM7)
+ - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
+ - 👉 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)<!-- MEMES:END -->
 
 --- 
 
