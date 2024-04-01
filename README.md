@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)
- - 😝 [Task failed successfully.](http://9gag.com/gag/ae9KE9b)
- - 👉 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)<!-- MEMES:END -->
+ - 6️⃣ [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - 😝 [Thank you!](http://9gag.com/gag/a9yje9o)
+ - 👉 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)<!-- MEMES:END -->
 
 --- 
 
