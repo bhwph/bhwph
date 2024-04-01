@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ampere: seven movie adaptations of video games were released broadly in 2023; Comscore: movies based on video games grossed $712.2M at the US box office in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240331/p11#a240331p11)
- - [Sources: Apple suggests podcasters join its subscription program to be on its Podcast &quot;browse&quot; carousel; 5 of the first 7 podcasts last week were participants &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/240331/p10#a240331p10)
- - [Dan Lynch, founder of Interop, a computer networking equipment exhibition that helped accelerate TCP/IP adoption and internet commercialization, dies at age 82 &lpar;Katie Hafner/New York Times&rpar;](http://www.techmeme.com/240331/p9#a240331p9)<!-- TECH:END -->
+ - [A Ghost Ship’s Doomed Journey Through the Gate of Tears](https://www.wired.com/story/houthi-internet-cables-ship-anchor-path/)
+ - [Samsung says ChatGPT-like AI smarts could come to Bixby](https://www.androidauthority.com/bixby-generative-ai-features-3430057/)
+ - [SK Hynix tops $100B in valuation as its stock rose 2x+ over the past year amid high-bandwidth memory demand; analysts: SK Hynix has 90%+ share of the latest HBM &lpar;Youkyung Lee/Bloomberg&rpar;](http://www.techmeme.com/240401/p2#a240401p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
