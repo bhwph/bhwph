@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just an average asian kid nothing special keep scrollin](http://9gag.com/gag/adByMPZ)
+ - 6️⃣ [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
  - 😝 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
- - 👉 [Damn girl chill](http://9gag.com/gag/a1mpjm2)<!-- MEMES:END -->
+ - 👉 [In the last 36 hours, 7000 illegal Africans have reached Lampedusa, Italy \ud83c\uddee\ud83c\uddf9](http://9gag.com/gag/a34vrM7)<!-- MEMES:END -->
 
 --- 
 
