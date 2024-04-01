@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The next Magic: The Gathering set wants you to do crimes](https://www.pcgamer.com/games/card-games/the-next-magic-the-gathering-set-wants-you-to-do-crimes)
- - [Bandai Namco drops three free games, including one where you&#39;re a very messy dog ruining the house](https://www.pcgamer.com/games/bandai-namco-drops-three-free-games-including-one-where-youre-a-very-messy-dog-ruining-the-house)
- - [The Walking Dead is building to something — but it’s not clear what](https://www.polygon.com/24114712/walking-dead-ones-who-live-review-future-analysis-spinoffs)<!-- GAME:END -->
+ - [This year&#39;s inevitable flood of April Fools Day joke visual novels begins with Palworld](https://www.pcgamer.com/games/visual-novel/this-years-inevitable-flood-of-april-fools-day-joke-visual-novels-begins-with-palworld)
+ - [Tweak your crazy spells in this tough, traditional roguelike wizard simulator](https://www.pcgamer.com/games/roguelike/tweak-your-crazy-spells-in-this-tough-traditional-roguelike-wizard-simulator)
+ - [The next Magic: The Gathering set wants you to do crimes](https://www.pcgamer.com/games/card-games/the-next-magic-the-gathering-set-wants-you-to-do-crimes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
