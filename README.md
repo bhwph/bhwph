@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canadian payments company Nuvei has agreed to be purchased and taken private by PE firm Advent International in a $6.3B deal &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240401/p17#a240401p17)
- - [The FTC is trying to help victims of impersonation scams get their money back](https://www.theverge.com/2024/4/1/24118030/ftc-impersonation-rule-businesses-government-artificial-intelligence)
- - [Apple researchers detail an AI system that can resolve ambiguous references to on-screen entities, in some cases better than GPT-4 can, and can run &quot;on-device&quot; &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240401/p16#a240401p16)<!-- TECH:END -->
+ - [April Fools’ Day 2024: the best and cringiest pranks](https://www.theverge.com/2024/4/1/24118011/april-fools-day-2024-pranks-jokes-best-worst)
+ - [Cloud data management startup Rubrik files for a NYSE IPO under the symbol RBRK, discloses a net loss of $354M on revenue of $628M for the year ended January 31 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240401/p19#a240401p19)
+ - [How to mix politics with your Threads](https://www.theverge.com/24117988/threads-instagram-politics-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
