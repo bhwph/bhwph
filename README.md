@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Vote for March’s best new game](https://blog.playstation.com/2024/04/01/players-choice-vote-for-marchs-best-new-game-3/)
- - [Shadow of Mordor is worth revisiting for the nemesis system alone](https://www.pcgamer.com/games/action/shadow-of-mordor-is-worth-revisiting-for-the-nemesis-system-alone)
- - [Having built 500+ PCs in my time I can say this with confidence: Building is fun and rewarding but ironing out those inevitable BIOS, CPU, memory kinks is unbearable](https://www.pcgamer.com/hardware/building-pcs-is-really-rewarding-and-fun-but-i-wish-it-wasnt-so-damn-fiddly-and-fussy-to-get-everything-working-properly)<!-- GAME:END -->
+ - [Honkai: Star Rail codes for April 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [Pokémon Go Ditto disguises list for April 2024](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)
+ - [What time does Modern Warfare 3 season 3 release?](https://www.polygon.com/modern-warfare-3-guides/24117846/season-3-release-time-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
