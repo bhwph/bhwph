@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FFXIV housing lottery schedule for April 2024](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)
- - [Today&#39;s Wordle answer for Monday, April 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-1-2024)
- - [This year&#39;s inevitable flood of April Fools Day joke visual novels begins with Palworld](https://www.pcgamer.com/games/visual-novel/this-years-inevitable-flood-of-april-fools-day-joke-visual-novels-begins-with-palworld)<!-- GAME:END -->
+ - [&#39;Please publish this to the main game&#39; ArmA Reforger players go wild for April Fools&#39; gag that purports to turn the military simulator into a battle between toy soldiers](https://www.pcgamer.com/games/fps/please-publish-this-to-the-main-game-arma-reforger-players-go-wild-for-april-fools-gag-that-purports-to-turn-the-military-simulator-into-a-battle-between-toy-soldiers)
+ - [&#39;We don&#39;t see a place for microtransactions in single-player games&#39;, says CD Projekt Red following Dragon&#39;s Dogma 2&#39;s DLC fiasco](https://www.pcgamer.com/games/rpg/we-dont-see-a-place-for-microtransactions-in-single-player-games-says-cd-projekt-red-following-dragons-dogma-2s-dlc-fiasco)
+ - [FFXIV housing lottery schedule for April 2024](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
