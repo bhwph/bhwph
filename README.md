@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Google fail in legal challenge against patent review rule](https://appleinsider.com/articles/24/04/02/apple-google-fail-in-legal-challenge-against-patent-review-rule?utm_medium=rss)
- - [Israel-based AI chipmaker Hailo raised a $120M Series C extension from Israeli firms and family offices at a $1.2B valuation, taking its total funding to $340M &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240402/p8#a240402p8)
- - [Google Podcasts Is Gone. Here’s How to Transfer Your Subscriptions](https://www.wired.com/story/google-podcasts-how-to-transfer-your-subscriptions/)<!-- TECH:END -->
+ - [MSI Prestige 13 AI Evo Review: A Lightweight and Powerful Laptop](https://www.wired.com/review/msi-prestige-13-ai-evo/)
+ - [Future Apple Watch bands could automatically launch apps or change face](https://appleinsider.com/articles/23/03/21/future-apple-watch-bands-could-automatically-launch-apps-or-change-face?utm_medium=rss)
+ - [Alaska is gonna try and use a robot to scare wildlife from around an airport](https://www.theverge.com/2024/4/2/24118846/boston-dynamics-robot-dog-alaska-fairbanks-airport-wildlife)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
