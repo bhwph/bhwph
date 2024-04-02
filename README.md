@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Zubat be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24118037/can-zubat-be-shiny-golbat-crobat)
- - [Today&#39;s Wordle answer for Tuesday, April 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-2-2024)
- - [Get To Know Our Team: Wynn – Comm&lpar;s&rpar;unity Manager](https://news.xbox.com/en-us/2024/04/01/get-to-know-our-team-wynn-commsunity-manager/)<!-- GAME:END -->
+ - [Dave the Diver plunges into PlayStation Plus Game Catalog April 16](https://blog.playstation.com/2024/04/02/dave-the-diver-plunges-into-playstation-plus-game-catalog-april-16/)
+ - [Mark Zuckerberg bromances Jen-Hsun Huang, claiming &#39;he’s like Taylor Swift, but for tech&#39;](https://www.pcgamer.com/hardware/graphics-cards/mark-zuckerberg-bromances-jen-hsun-huang-claiming-hes-like-taylor-swift-but-for-tech)
+ - [Helldivers 2&#39;s new balance update softens those annoying civilian defences and stratagem cooldown modifiers, buffs heavy armour, and increases the level cap to 150](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-new-balance-update-softens-those-annoying-civilian-defences-and-stratagem-cooldown-modifiers-buffs-heavy-armour-and-increases-the-level-cap-to-150)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
