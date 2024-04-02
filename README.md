@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Read AI, which uses generative AI to summarize meetings, emails, and other messages, raised a $21M Series A led by Goodwater Capital &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240402/p15#a240402p15)
- - [Leaked design resource hints at iOS 18&#39;s visionOS-inspired redesign](https://appleinsider.com/articles/24/04/02/leaked-design-resource-hints-at-ios-18s-visionos-inspired-redesign?utm_medium=rss)
- - [Google Podcasts is gone — and so is my faith in Google](https://www.theverge.com/2024/4/2/24118873/google-podcasts-shutdown-graveyard)<!-- TECH:END -->
+ - [X promotes Kylie McRoberts to Head of Safety, after Ella Irwin left in June 2023, when Musk overruled a decision that limited the spread of an anti-trans video &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240402/p17#a240402p17)
+ - [Beats Solo 4 release imminent with FCC regulator listing](https://appleinsider.com/articles/24/04/02/beats-solo-4-release-imminent-with-fcc-regulator-listing?utm_medium=rss)
+ - [Apple rolls out minor updates to iWork apps](https://appleinsider.com/articles/24/04/02/apple-rolls-out-minor-updates-to-iwork-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
