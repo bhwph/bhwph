@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [US government denies ESRB&#39;s AI-powered face-scanning &#39;age estimation&#39; proposal, but it&#39;s probably not gone for good](https://www.pcgamer.com/gaming-industry/us-government-denies-esrbs-ai-powered-face-scanning-age-estimation-proposal-but-its-probably-not-gone-for-good)
- - [Discover The Elder Scrolls Online’s Past and Future During 10th Anniversary Celebration Livestream](https://www.elderscrollsonline.com/en-us/news/post/65747#new_tab)
- - [In defense of Stardew Valley’s fantastically frustrating fishing](https://www.polygon.com/gaming/24118191/stardew-valley-fishing-defense)<!-- GAME:END -->
+ - [Destiny 2 is getting its two best missions back before The Final Shape](https://www.polygon.com/24119354/into-light-whisper-zero-hour-worm-outbreak-final-shape)
+ - [Mission Talita is a Grand Theft Auto mod meant to stop trafficking](https://www.polygon.com/24119385/mission-talita-grand-theft-auto-mod-non-profit-sex-trafficking)
+ - [April is a monster month for city builders and colony sims](https://www.pcgamer.com/games/city-builder/april-is-a-monster-month-for-city-builders-and-colony-sims)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
