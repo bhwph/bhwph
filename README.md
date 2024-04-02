@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dave the Diver plunges into PlayStation Plus Game Catalog April 16](https://blog.playstation.com/2024/04/02/dave-the-diver-plunges-into-playstation-plus-game-catalog-april-16/)
- - [Mark Zuckerberg bromances Jen-Hsun Huang, claiming &#39;he’s like Taylor Swift, but for tech&#39;](https://www.pcgamer.com/hardware/graphics-cards/mark-zuckerberg-bromances-jen-hsun-huang-claiming-hes-like-taylor-swift-but-for-tech)
- - [Helldivers 2&#39;s new balance update softens those annoying civilian defences and stratagem cooldown modifiers, buffs heavy armour, and increases the level cap to 150](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-new-balance-update-softens-those-annoying-civilian-defences-and-stratagem-cooldown-modifiers-buffs-heavy-armour-and-increases-the-level-cap-to-150)<!-- GAME:END -->
+ - [Dragon’s Dogma 2 Is Rapidly Outpacing The Original’s Sales](https://kotaku.com/dragons-dogma-2-series-sales-capcom-comparison-1851381044)
+ - [Own the Night with the Nocturnal Vapor Special Edition Controller](https://news.xbox.com/en-us/2024/04/02/nocturnal-vapor-special-edition-announce/)
+ - [No show is having more fun than Chucky](https://www.polygon.com/24113753/chucky-tv-show-syfy-usa-peacock-season-3-its-bloody-good)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
