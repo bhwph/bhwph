@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
- - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
+ - 6️⃣ [But at least they have sonar](http://9gag.com/gag/ae9KB9j)
+ - 😝 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
+ - 👉 [Where\u2019s Batman when you need him?](http://9gag.com/gag/a1mp6V2)<!-- MEMES:END -->
 
 --- 
 
