@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Karma](http://9gag.com/gag/a0ev3Kz)
- - 😝 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)
- - 👉 [Professional victim..](http://9gag.com/gag/ajPQvGR)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
+ - 😝 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
 
 --- 
 
