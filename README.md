@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)
- - 😝 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
- - 👉 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)<!-- MEMES:END -->
+ - 6️⃣ [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
+ - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
+ - 👉 [No pain no gain](http://9gag.com/gag/aO8oEEy)<!-- MEMES:END -->
 
 --- 
 
