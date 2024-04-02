@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [But at least they have sonar](http://9gag.com/gag/ae9KB9j)
- - 😝 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
- - 👉 [Where\u2019s Batman when you need him?](http://9gag.com/gag/a1mp6V2)<!-- MEMES:END -->
+ - 6️⃣ [Karma](http://9gag.com/gag/a0ev3Kz)
+ - 😝 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)
+ - 👉 [Professional victim..](http://9gag.com/gag/ajPQvGR)<!-- MEMES:END -->
 
 --- 
 
