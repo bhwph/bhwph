@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
- - 😝 [Karma](http://9gag.com/gag/a0ev3Kz)
- - 👉 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)<!-- MEMES:END -->
+ - 6️⃣ [Professional victim..](http://9gag.com/gag/ajPQvGR)
+ - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
+ - 👉 [Scotland&#39;s new hate speech law came into force today. The law, championed by Hamza Yousaf, will carry prison sentences up to 7 years for statements deemed to stir up hate on the grounds of religion, sexuality, race &amp; gender identity. This speech by Yousaf sounds a bit hatefull.](http://9gag.com/gag/aMVe5DW)<!-- MEMES:END -->
 
 --- 
 
