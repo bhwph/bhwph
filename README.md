@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Callisto Protocol headlines Humble Choice in April, costing $11.99 to own on PC](https://www.polygon.com/deals/24117923/callisto-protocol-humble-choice-pc-subscription-switch-games-deal)
- - [Xbox Insider Release Notes – Omega &lpar;2404.240328-2200&rpar;](https://news.xbox.com/en-us/2024/04/02/xbox-insider-release-notes-omega-2404-240328-2200/)
- - [Xbox Insider Release Notes – Delta &lpar;2404.240328-2200&rpar;](https://news.xbox.com/en-us/2024/04/02/xbox-insider-release-notes-delta-2404-240328-2200/)<!-- GAME:END -->
+ - [US government denies ESRB&#39;s AI-powered face-scanning &#39;age estimation&#39; proposal, but it&#39;s probably not gone for good](https://www.pcgamer.com/gaming-industry/us-government-denies-esrbs-ai-powered-face-scanning-age-estimation-proposal-but-its-probably-not-gone-for-good)
+ - [Discover The Elder Scrolls Online’s Past and Future During 10th Anniversary Celebration Livestream](https://www.elderscrollsonline.com/en-us/news/post/65747#new_tab)
+ - [In defense of Stardew Valley’s fantastically frustrating fishing](https://www.polygon.com/gaming/24118191/stardew-valley-fishing-defense)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
