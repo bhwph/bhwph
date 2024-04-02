@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [April Fools’ Day 2024: the best and cringiest pranks](https://www.theverge.com/2024/4/1/24118011/april-fools-day-2024-pranks-jokes-best-worst)
- - [Cloud data management startup Rubrik files for a NYSE IPO under the symbol RBRK, discloses a net loss of $354M on revenue of $628M for the year ended January 31 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240401/p19#a240401p19)
- - [How to mix politics with your Threads](https://www.theverge.com/24117988/threads-instagram-politics-how-to)<!-- TECH:END -->
+ - [TikTok brings its dedicated STEM content feed to Europe, starting in the UK and Ireland, and says 33% of users have enabled the feed since its US launch in 2023 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240401/p24#a240401p24)
+ - [Japan approves up to $3.9B in subsidies to chip venture Rapidus, as the company tries to close the gap with TSMC in cutting-edge fabrication technology &lpar;Yuki Hagiwara/Bloomberg&rpar;](http://www.techmeme.com/240401/p23#a240401p23)
+ - [The Browser Company poaches Apple Safari design team member](https://appleinsider.com/articles/24/04/02/the-browser-company-poaches-apple-safari-design-team-member?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
