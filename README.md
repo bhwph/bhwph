@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OxygenOS 15 wishlist: What I want to see and what we know so far](https://www.androidauthority.com/oxygenos-15-3428400/)
- - [Jon Stewart opens up about Apple interference in his show](https://appleinsider.com/articles/24/04/02/jon-stewart-opens-up-about-apple-interference-in-his-show?utm_medium=rss)
- - [He Emptied an Entire Crypto Exchange Onto a Thumb Drive. Then He Disappeared](https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/)<!-- TECH:END -->
+ - [Apple, Google fail in legal challenge against patent review rule](https://appleinsider.com/articles/24/04/02/apple-google-fail-in-legal-challenge-against-patent-review-rule?utm_medium=rss)
+ - [Israel-based AI chipmaker Hailo raised a $120M Series C extension from Israeli firms and family offices at a $1.2B valuation, taking its total funding to $340M &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240402/p8#a240402p8)
+ - [Google Podcasts Is Gone. Here’s How to Transfer Your Subscriptions](https://www.wired.com/story/google-podcasts-how-to-transfer-your-subscriptions/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
