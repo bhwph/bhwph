@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Streamer Crashes Car While Streaming](https://kotaku.com/twitch-streamer-car-crash-accident-phone-melt-irl-1851381620)
- - [Arrowhead sneaks two huge enemies into Helldivers 2&#39;s latest patch: gigantic AT-AT walkers and swarming gunships](https://www.pcgamer.com/games/third-person-shooter/arrowhead-sneaks-two-huge-enemies-into-helldivers-2s-latest-patch-gigantic-at-at-walkers-and-swarming-gunships)
- - [X-Men ’97’s tribute to Konami’s X-Men arcade game is 16-bit joy](https://www.polygon.com/24117894/x-men-97-arcade-game-tribute-mojo-jubilee)<!-- GAME:END -->
+ - [The Callisto Protocol headlines Humble Choice in April, costing $11.99 to own on PC](https://www.polygon.com/deals/24117923/callisto-protocol-humble-choice-pc-subscription-switch-games-deal)
+ - [Xbox Insider Release Notes – Omega &lpar;2404.240328-2200&rpar;](https://news.xbox.com/en-us/2024/04/02/xbox-insider-release-notes-omega-2404-240328-2200/)
+ - [Xbox Insider Release Notes – Delta &lpar;2404.240328-2200&rpar;](https://news.xbox.com/en-us/2024/04/02/xbox-insider-release-notes-delta-2404-240328-2200/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
