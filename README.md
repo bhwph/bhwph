@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - 😝 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
- - 👉 [No pain no gain](http://9gag.com/gag/aO8oEEy)<!-- MEMES:END -->
+ - 6️⃣ [Gust of wind](http://9gag.com/gag/aZZq5Z9)
+ - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
+ - 👉 [I think i download the wrong wonder woman](http://9gag.com/gag/axyEKBp)<!-- MEMES:END -->
 
 --- 
 
