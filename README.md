@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best April Fools’ Day joke this year is the Connections puzzle](https://www.polygon.com/24118203/connections-april-fools-day-prank-nytimes-emoji-reactions)
- - [Helldivers 2 players get revenge on Automatons, take back Malevelon Creek](https://www.polygon.com/24118249/helldivers-2-players-malevelon-creek-win)
- - [&#39;April 1st will forever be a day of victory and remembrance&#39;: Super Earth congratulates Helldivers 2 community after taking back Malevelon Creek, but the timing sure is suspicious](https://www.pcgamer.com/games/third-person-shooter/april-1st-will-forever-be-a-day-of-victory-and-remembrance-super-earth-congratulates-helldivers-2-community-after-taking-back-malevelon-creek-but-the-timing-sure-is-suspicious)<!-- GAME:END -->
+ - [We celebrated too soon: Helldivers 2 players spot massive cloaked gunships in the skies above Automaton planets](https://www.pcgamer.com/games/third-person-shooter/we-celebrated-too-soon-helldivers-2-players-spot-massive-cloaked-gunships-in-the-skies-above-automaton-planets)
+ - [Xbox Insider Release Notes – Xbox App [2404.1001.4.0] &amp; Game Bar for Windows [7.124.3191.0]](https://news.xbox.com/en-us/2024/04/01/xbox-insider-release-notes-xbox-app-2404-1001-4-0-game-bar-for-windows-7-124-3191-0/)
+ - [How I turned my MIDI instruments into the ultimate rhythm game controllers](https://www.pcgamer.com/hardware/how-i-turned-my-midi-instruments-into-the-ultimate-rhythm-game-controllers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
