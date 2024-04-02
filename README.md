@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Young , Cart](http://9gag.com/gag/apRKMKp)
- - 😝 [In the last 36 hours, 7000 illegal Africans have reached Lampedusa, Italy \ud83c\uddee\ud83c\uddf9](http://9gag.com/gag/a34vrM7)
- - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
+ - 6️⃣ [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 😝 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
+ - 👉 [No pain no gain](http://9gag.com/gag/aO8oEEy)<!-- MEMES:END -->
 
 --- 
 
