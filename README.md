@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Max firmware 6.0 now available](https://appleinsider.com/articles/24/04/02/airpods-max-firmware-60-now-available?utm_medium=rss)
- - [Android 15 prepares revamped status bar with new icons and haptics](https://www.androidauthority.com/android-15-new-status-bar-3430578/)
- - [Amazon gives up on no-checkout shopping in its grocery stores](https://www.theverge.com/2024/4/2/24119199/amazon-just-walk-out-cashierless-checkout-ending-dash-carts)<!-- TECH:END -->
+ - [POTUS&#39; official Threads account starts using Meta&#39;s ActivityPub integration to post on the decentralized networking protocol &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240402/p24#a240402p24)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Apple Pencil 3 could have new squeeze gesture](https://appleinsider.com/articles/24/04/02/apple-pencil-3-could-have-new-squeeze-gesture?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
