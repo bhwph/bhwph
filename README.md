@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon’s Dogma 2 Is Rapidly Outpacing The Original’s Sales](https://kotaku.com/dragons-dogma-2-series-sales-capcom-comparison-1851381044)
- - [Own the Night with the Nocturnal Vapor Special Edition Controller](https://news.xbox.com/en-us/2024/04/02/nocturnal-vapor-special-edition-announce/)
- - [No show is having more fun than Chucky](https://www.polygon.com/24113753/chucky-tv-show-syfy-usa-peacock-season-3-its-bloody-good)<!-- GAME:END -->
+ - [Twitch Streamer Crashes Car While Streaming](https://kotaku.com/twitch-streamer-car-crash-accident-phone-melt-irl-1851381620)
+ - [Arrowhead sneaks two huge enemies into Helldivers 2&#39;s latest patch: gigantic AT-AT walkers and swarming gunships](https://www.pcgamer.com/games/third-person-shooter/arrowhead-sneaks-two-huge-enemies-into-helldivers-2s-latest-patch-gigantic-at-at-walkers-and-swarming-gunships)
+ - [X-Men ’97’s tribute to Konami’s X-Men arcade game is 16-bit joy](https://www.polygon.com/24117894/x-men-97-arcade-game-tribute-mojo-jubilee)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
