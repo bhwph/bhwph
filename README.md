@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X promotes Kylie McRoberts to Head of Safety, after Ella Irwin left in June 2023, when Musk overruled a decision that limited the spread of an anti-trans video &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240402/p17#a240402p17)
- - [Beats Solo 4 release imminent with FCC regulator listing](https://appleinsider.com/articles/24/04/02/beats-solo-4-release-imminent-with-fcc-regulator-listing?utm_medium=rss)
- - [Apple rolls out minor updates to iWork apps](https://appleinsider.com/articles/24/04/02/apple-rolls-out-minor-updates-to-iwork-apps?utm_medium=rss)<!-- TECH:END -->
+ - [AirPods Max firmware 6.0 now available](https://appleinsider.com/articles/24/04/02/airpods-max-firmware-60-now-available?utm_medium=rss)
+ - [Android 15 prepares revamped status bar with new icons and haptics](https://www.androidauthority.com/android-15-new-status-bar-3430578/)
+ - [Amazon gives up on no-checkout shopping in its grocery stores](https://www.theverge.com/2024/4/2/24119199/amazon-just-walk-out-cashierless-checkout-ending-dash-carts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
