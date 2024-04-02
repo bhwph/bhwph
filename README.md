@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Sony Music CEO Rob Stringer on AI&#39;s role in the industry, licensing concerns with TikTok, working with Sony for over two decades, and more &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240402/p3#a240402p3)
- - [The XZ Backdoor: Everything You Need to Know](https://www.wired.com/story/xz-backdoor-everything-you-need-to-know/)
- - [YouTube now makes it easier to get to the best parts of any video on your TV](https://www.androidauthority.com/youtube-on-tv-auto-generated-key-moments-3430343/)<!-- TECH:END -->
+ - [OxygenOS 15 wishlist: What I want to see and what we know so far](https://www.androidauthority.com/oxygenos-15-3428400/)
+ - [Jon Stewart opens up about Apple interference in his show](https://appleinsider.com/articles/24/04/02/jon-stewart-opens-up-about-apple-interference-in-his-show?utm_medium=rss)
+ - [He Emptied an Entire Crypto Exchange Onto a Thumb Drive. Then He Disappeared](https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
