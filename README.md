@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
- - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
- - 👉 [No pain no gain](http://9gag.com/gag/aO8oEEy)<!-- MEMES:END -->
+ - 6️⃣ [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
+ - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
 
 --- 
 
