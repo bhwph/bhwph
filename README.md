@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is the best magic](http://9gag.com/gag/a6ZrROA)
- - 😝 [A Western comic convention would never](http://9gag.com/gag/apRKZ5E)
- - 👉 [It never gets old](http://9gag.com/gag/aD2RegZ)<!-- MEMES:END -->
+ - 6️⃣ [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
+ - 😝 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
+ - 👉 [I&#39;ll be damned.](http://9gag.com/gag/adBywwM)<!-- MEMES:END -->
 
 --- 
 
