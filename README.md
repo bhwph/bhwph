@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook and NVCA report: US VC investments in Q1 2024 hit $36.6B, lowest since 2017, across 2,882 deals, down YoY from $51.6B across 4,026 deals &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240403/p3#a240403p3)
- - [A first look at Europe’s alternative iPhone app stores](https://www.theverge.com/24100979/altstore-europe-app-marketplace-price-games)
- - [Newzoo: PC and console game revenues grew 2.6% YoY to $93.5B in 2023, but average quarterly playtime hours fell 26% from Q1 2021 through Q4 2023 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240403/p2#a240403p2)<!-- TECH:END -->
+ - [Google Podcasts is finally gone for good &lpar;if you’re in the US&rpar;](https://www.androidauthority.com/google-podcasts-gone-for-good-3430640/)
+ - [A profile of Faruk Fatih &amp;Ouml;zer, the convicted CEO of defunct crypto exchange Thodex, as he starts a 11,196-year prison sentence in Turkey for laundering assets &lpar;Jenna Scatena/Wired&rpar;](http://www.techmeme.com/240403/p7#a240403p7)
+ - [Galaxy S23 users encounter fingerprint sensor glitch following One UI 6.1 update](https://www.androidauthority.com/samsung-galaxy-s23-one-ui-6-1-fingerprint-sensor-bug-3430672/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
