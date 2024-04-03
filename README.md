@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Podcasts is finally gone for good &lpar;if you’re in the US&rpar;](https://www.androidauthority.com/google-podcasts-gone-for-good-3430640/)
- - [A profile of Faruk Fatih &amp;Ouml;zer, the convicted CEO of defunct crypto exchange Thodex, as he starts a 11,196-year prison sentence in Turkey for laundering assets &lpar;Jenna Scatena/Wired&rpar;](http://www.techmeme.com/240403/p7#a240403p7)
- - [Galaxy S23 users encounter fingerprint sensor glitch following One UI 6.1 update](https://www.androidauthority.com/samsung-galaxy-s23-one-ui-6-1-fingerprint-sensor-bug-3430672/)<!-- TECH:END -->
+ - [Apple supplier TSMC evacuates as earthquake hits Taiwan](https://appleinsider.com/articles/24/04/03/apple-supplier-tsmc-evacuates-as-earthquake-hits-taiwan?utm_medium=rss)
+ - [The Galaxy Z Fold 6 could approach the Galaxy S24 Ultra territory in this area](https://www.androidauthority.com/samsung-galaxy-z-fold-6-weight-display-ratio-leak-3430711/)
+ - [Sources: crypto VC firm Paradigm is in talks to raise $750M to $850M for a new fund, which would be the largest since the crash; a16z raised $4.5B in May 2022 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240403/p10#a240403p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
