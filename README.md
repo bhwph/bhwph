@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 Decrees ‘Malevelon Creek Memorial Day,’ Rewards Players With Capes](https://kotaku.com/helldivers-2-malevelon-creek-memorial-capes-1851384481)
- - [Diablo 4 Tempering: How to add affixes to gear](https://www.pcgamer.com/games/action/diablo-4-tempering-manuals-masterworking)
- - [The People’s Joker director wanted a trans villain on screen in an era of trans vilification](https://www.polygon.com/24119175/peoples-joker-director-interview-banned-batman-trans-movie)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Alpha &lpar;2405.240401-2200&rpar;](https://news.xbox.com/en-us/2024/04/03/xbox-insider-release-notes-alpha-2405-240401-2200/)
+ - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240331-2200&rpar;](https://news.xbox.com/en-us/2024/04/03/xbox-insider-release-notes-alpha-skip-ahead-2408-240331-2200/)
+ - [New, Weird NHL Broadcast Will Finally Let Bugs Bunny Body-Check Velma](https://kotaku.com/nhl-multiversus-bugs-bunny-velma-hockey-trutv-stream-1851384855)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
