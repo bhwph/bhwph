@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PE firm Clayton Dubilier &amp; Rice agrees to buy a majority ownership of IT services provider Presidio from BC Partners; sources: deal could value Presidio at $4B+ &lpar;Granth Vanaik/Reuters&rpar;](http://www.techmeme.com/240402/p30#a240402p30)
- - [The FCC plans to vote on April 25 to restore net neutrality rules and assume regulatory oversight of broadband internet that was rescinded under President Trump &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240402/p29#a240402p29)
- - [Bluetti AC240 portable power station pushes the boundaries with IP65 waterproof rating](https://appleinsider.com/articles/24/04/03/bluetti-ac240-portable-power-station-pushes-the-boundaries-with-ip65-waterproof-rating?utm_medium=rss)<!-- TECH:END -->
+ - [PitchBook and NVCA report: US VC investments in Q1 2024 hit $36.6B, lowest since 2017, across 2,882 deals, down YoY from $51.6B across 4,026 deals &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240403/p3#a240403p3)
+ - [A first look at Europe’s alternative iPhone app stores](https://www.theverge.com/24100979/altstore-europe-app-marketplace-price-games)
+ - [Newzoo: PC and console game revenues grew 2.6% YoY to $93.5B in 2023, but average quarterly playtime hours fell 26% from Q1 2021 through Q4 2023 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240403/p2#a240403p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
