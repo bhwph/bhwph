@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - 😝 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
- - 👉 [What is this !](http://9gag.com/gag/aE0dmPn)<!-- MEMES:END -->
+ - 6️⃣ [Hard reset](http://9gag.com/gag/aVvj6xy)
+ - 😝 [She&#39;s got a point](http://9gag.com/gag/aO8oWEN)
+ - 👉 [J.K. Rowling](http://9gag.com/gag/azx7pYq)<!-- MEMES:END -->
 
 --- 
 
