@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [POTUS&#39; official Threads account starts using Meta&#39;s ActivityPub integration to post on the decentralized networking protocol &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240402/p24#a240402p24)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Apple Pencil 3 could have new squeeze gesture](https://appleinsider.com/articles/24/04/02/apple-pencil-3-could-have-new-squeeze-gesture?utm_medium=rss)<!-- TECH:END -->
+ - [Modal, which offers employees personalized technical and AI skills training, raised a $25M Series A co-led by Left Lane Capital and Ensemble VC &lpar;Andrew Mendez/Silicon Valley ...&rpar;](http://www.techmeme.com/240402/p27#a240402p27)
+ - [&#39;Scoop&#39; on Netflix: The True Story Behind Prince Andrew&#39;s Explosive BBC Interview     - CNET](https://www.cnet.com/tech/services-and-software/scoop-on-netflix-the-true-story-behind-prince-andrews-explosive-bbc-interview/#ftag=CAD590a51e)
+ - [George Carlin&#39;s estate settles with the makers of Dudesy, who agree to remove their YouTube video and podcast they originally claimed used an &quot;AI&quot; George Carlin &lpar;Christopher Kuo/New York Times&rpar;](http://www.techmeme.com/240402/p26#a240402p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
