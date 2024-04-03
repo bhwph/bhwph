@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nightmare Kart, the now-legally-distinct, not-Bloodborne fan game has a release date—after a letter from Sony delayed the whole thing](https://www.pcgamer.com/games/racing/nightmare-kart-the-now-legally-distinct-not-bloodborne-fan-game-has-a-release-dateafter-a-letter-from-sony-delayed-the-whole-thing)
- - [Valve Hardware Survey for March—AMD still can&#39;t make a dent in Nvidia&#39;s massive lead](https://www.pcgamer.com/hardware/valve-hardware-survey-for-marchamd-still-cant-make-a-dent-in-nvidias-massive-lead)
- - [YouTube alone would eat up over 100 times the world&#39;s total bandwidth without video compression](https://www.pcgamer.com/hardware/graphics-cards/youtube-alone-would-eat-up-over-100-times-the-worlds-total-bandwidth-without-video-compression)<!-- GAME:END -->
+ - [Wyrmspan, successor to bestselling Wingspan, doesn’t stray far](https://www.polygon.com/tabletop-games/24119049/wyrmspan-wingspan-sequel-review)
+ - [You can watch the solar eclipse on Twitch or in Fortnite, thanks to NASA](https://www.polygon.com/24119895/how-watch-solar-eclipse-what-time-twitch-fortnite-minecraft-nasa)
+ - [Intel&#39;s chip foundry keeps losing billions of dollars but CEO Gelsinger says this is it, this year is &#39;the trough&#39;](https://www.pcgamer.com/hardware/processors/intels-chip-foundry-keeps-losing-billions-of-dollars-but-ceo-gelsinger-says-this-is-it-this-year-is-the-trough)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
