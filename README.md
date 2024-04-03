@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now that must have been a looong conversation](http://9gag.com/gag/axyEwKM)
- - 😝 [I was Horny, now I&#39;m Sad](http://9gag.com/gag/aoymQWn)
- - 👉 [When manager presents your work to his boss and you realize dude doesn&#39;t understand the job](http://9gag.com/gag/a87dgKd)<!-- MEMES:END -->
+ - 6️⃣ [Casting Zoltraak](http://9gag.com/gag/azx7pZq)
+ - 😝 [Useful memes](http://9gag.com/gag/adByDKj)
+ - 👉 [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)<!-- MEMES:END -->
 
 --- 
 
