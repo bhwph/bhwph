@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Alpha &lpar;2405.240401-2200&rpar;](https://news.xbox.com/en-us/2024/04/03/xbox-insider-release-notes-alpha-2405-240401-2200/)
- - [Xbox Insider Release Notes – Alpha Skip-Ahead &lpar;2408.240331-2200&rpar;](https://news.xbox.com/en-us/2024/04/03/xbox-insider-release-notes-alpha-skip-ahead-2408-240331-2200/)
- - [New, Weird NHL Broadcast Will Finally Let Bugs Bunny Body-Check Velma](https://kotaku.com/nhl-multiversus-bugs-bunny-velma-hockey-trutv-stream-1851384855)<!-- GAME:END -->
+ - [Capcom Will Hire Your Dragon&#39;s Dogma 2 Pawn If Nobody Else Does](https://kotaku.com/dragons-dogma-2-main-pawn-hired-fake-player-capcom-1851385324)
+ - [Into The Light Has Me Cautiously Excited For Destiny 2’s Future](https://kotaku.com/destiny-2-into-the-light-final-shape-excited-1851384918)
+ - [Switching From PC To PS5 Has Made Me Appreciate FFXIV More](https://kotaku.com/final-fantasy-14-endwalker-dawntrail-ps5-controller-1851385139)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
