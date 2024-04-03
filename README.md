@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro gains Niantic tech to open up more AR experiences](https://appleinsider.com/articles/24/04/03/apple-vision-pro-gains-niantic-tech-to-open-up-more-ar-experiences?utm_medium=rss)
- - [Meta’s AI image generator can’t imagine an Asian man with a white woman](https://www.theverge.com/2024/4/3/24120029/instagram-meta-ai-sticker-generator-asian-people-racism)
- - [The Witcher: everything you need to know about Netflix’s fantasy epic](https://www.theverge.com/24120079/the-witcher-netflix-new-reviews-trailer)<!-- TECH:END -->
+ - [WhatsApp, Instagram, and Facebook are recovering after outages](https://www.theverge.com/2024/4/3/24120278/whatsapp-down-outage-connection-issues)
+ - [Beyond TSMC, Apple&#39;s supply chain will be disrupted by the Taiwan earthquake](https://appleinsider.com/articles/24/04/03/beyond-tsmc-apples-supply-chain-will-be-disrupted-by-the-taiwan-earthquake?utm_medium=rss)
+ - [Apple&#39;s next big thing could be a home robot](https://appleinsider.com/articles/24/04/03/apples-next-big-thing-could-be-a-home-robot?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
