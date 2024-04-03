@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [J K Rowling taking a stand against the new law](http://9gag.com/gag/amoqZ8d)
- - 😝 [I was Horny, now I&#39;m Sad](http://9gag.com/gag/aoymQWn)
+ - 6️⃣ [Wait what?](http://9gag.com/gag/agmre1W)
+ - 😝 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
  - 👉 [London taste](http://9gag.com/gag/avy2jjE)<!-- MEMES:END -->
 
 --- 
