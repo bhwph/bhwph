@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom Will Hire Your Dragon&#39;s Dogma 2 Pawn If Nobody Else Does](https://kotaku.com/dragons-dogma-2-main-pawn-hired-fake-player-capcom-1851385324)
- - [Into The Light Has Me Cautiously Excited For Destiny 2’s Future](https://kotaku.com/destiny-2-into-the-light-final-shape-excited-1851384918)
- - [Switching From PC To PS5 Has Made Me Appreciate FFXIV More](https://kotaku.com/final-fantasy-14-endwalker-dawntrail-ps5-controller-1851385139)<!-- GAME:END -->
+ - [FCC will vote on bringing back net neutrality regulations on April 25](https://www.pcgamer.com/gaming-industry/fcc-will-vote-on-bringing-back-net-neutrality-regulations-on-april-25)
+ - [Former GTA San Andreas Dev Explains Suicidal Photographer And Crashing Planes](https://kotaku.com/gta-san-andreas-crash-planes-ghost-cars-myths-explained-1851385673)
+ - [Netflix&#39;s The Witcher finally adds Zoltan, and it&#39;s Kramer&#39;s angry friend from Seinfeld](https://www.pcgamer.com/movies-tv/netflixs-the-witcher-finally-adds-zoltan-and-its-kramers-angry-friend-from-seinfeld)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
