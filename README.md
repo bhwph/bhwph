@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hard reset](http://9gag.com/gag/aVvj6xy)
- - 😝 [She&#39;s got a point](http://9gag.com/gag/aO8oWEN)
- - 👉 [J.K. Rowling](http://9gag.com/gag/azx7pYq)<!-- MEMES:END -->
+ - 6️⃣ [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)
+ - 😝 [J K Rowling taking a stand against the new law](http://9gag.com/gag/amoqZ8d)
+ - 👉 [London taste](http://9gag.com/gag/avy2jjE)<!-- MEMES:END -->
 
 --- 
 
