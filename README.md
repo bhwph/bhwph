@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Casting Zoltraak](http://9gag.com/gag/azx7pZq)
- - 😝 [Useful memes](http://9gag.com/gag/adByDKj)
- - 👉 [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)<!-- MEMES:END -->
+ - 6️⃣ [J K Rowling taking a stand against the new law](http://9gag.com/gag/amoqZ8d)
+ - 😝 [I was Horny, now I&#39;m Sad](http://9gag.com/gag/aoymQWn)
+ - 👉 [London taste](http://9gag.com/gag/avy2jjE)<!-- MEMES:END -->
 
 --- 
 
