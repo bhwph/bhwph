@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple supplier TSMC evacuates as earthquake hits Taiwan](https://appleinsider.com/articles/24/04/03/apple-supplier-tsmc-evacuates-as-earthquake-hits-taiwan?utm_medium=rss)
- - [The Galaxy Z Fold 6 could approach the Galaxy S24 Ultra territory in this area](https://www.androidauthority.com/samsung-galaxy-z-fold-6-weight-display-ratio-leak-3430711/)
- - [Sources: crypto VC firm Paradigm is in talks to raise $750M to $850M for a new fund, which would be the largest since the crash; a16z raised $4.5B in May 2022 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240403/p10#a240403p10)<!-- TECH:END -->
+ - [One of the best budget phones is 40% cheaper today](https://www.androidauthority.com/motorola-moto-g-5g-deal-3430602/)
+ - [Stability AI releases Stable Audio 2.0, letting users create three minute sound clips from copyright-free audio samples, available for free via its website &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240403/p12#a240403p12)
+ - [Nothing is launching a new product this month, and here’s what it could be](https://www.androidauthority.com/nothing-new-product-launch-april-community-update-3430773/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
