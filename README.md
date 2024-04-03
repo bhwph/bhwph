@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
- - 😝 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
- - 👉 [I&#39;ll be damned.](http://9gag.com/gag/adBywwM)<!-- MEMES:END -->
+ - 6️⃣ [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 😝 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
+ - 👉 [What is this !](http://9gag.com/gag/aE0dmPn)<!-- MEMES:END -->
 
 --- 
 
