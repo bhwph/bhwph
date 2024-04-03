@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of the best budget phones is 40% cheaper today](https://www.androidauthority.com/motorola-moto-g-5g-deal-3430602/)
- - [Stability AI releases Stable Audio 2.0, letting users create three minute sound clips from copyright-free audio samples, available for free via its website &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240403/p12#a240403p12)
- - [Nothing is launching a new product this month, and here’s what it could be](https://www.androidauthority.com/nothing-new-product-launch-april-community-update-3430773/)<!-- TECH:END -->
+ - [Fujifilm X100VI vs. Ricoh GR IIIx: battle for the best point-and-shoot](https://www.theverge.com/24118170/fujifilm-x100vi-ricoh-gr-iiix-point-shoot-camera-comparison)
+ - [Expand your output with 45% off the Anker 6-in-1 Hub](https://www.androidauthority.com/anker-6-in-1-hub-deal-3430621/)
+ - [The Mystery of ‘Jia Tan,’ the XZ Backdoor Mastermind](https://www.wired.com/story/jia-tan-xz-backdoor/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
