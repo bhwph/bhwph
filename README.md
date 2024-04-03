@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could bring a new ‘AstroPortrait’ mode to its high-end camera phones &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-astroportrait-3430946/)
- - [Amazon&#39;s $89 AirPods deal delivers best price available](https://appleinsider.com/articles/24/04/03/amazons-89-airpods-deal-delivers-best-price-available?utm_medium=rss)
- - [Another Spotify price hike is reportedly coming later this year](https://www.androidauthority.com/spotify-increasing-premium-prices-3430941/)<!-- TECH:END -->
+ - [Apple Vision Pro gains Niantic tech to open up more AR experiences](https://appleinsider.com/articles/24/04/03/apple-vision-pro-gains-niantic-tech-to-open-up-more-ar-experiences?utm_medium=rss)
+ - [Meta’s AI image generator can’t imagine an Asian man with a white woman](https://www.theverge.com/2024/4/3/24120029/instagram-meta-ai-sticker-generator-asian-people-racism)
+ - [The Witcher: everything you need to know about Netflix’s fantasy epic](https://www.theverge.com/24120079/the-witcher-netflix-new-reviews-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
