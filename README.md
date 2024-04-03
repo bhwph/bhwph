@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Professional victim..](http://9gag.com/gag/ajPQvGR)
- - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
- - 👉 [Scotland&#39;s new hate speech law came into force today. The law, championed by Hamza Yousaf, will carry prison sentences up to 7 years for statements deemed to stir up hate on the grounds of religion, sexuality, race &amp; gender identity. This speech by Yousaf sounds a bit hatefull.](http://9gag.com/gag/aMVe5DW)<!-- MEMES:END -->
+ - 😝 [This is the best magic](http://9gag.com/gag/a6ZrROA)
+ - 👉 [It&#39;s clever because it works](http://9gag.com/gag/adByDPZ)<!-- MEMES:END -->
 
 --- 
 
