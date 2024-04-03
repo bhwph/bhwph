@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [J K Rowling taking a stand against the new law](http://9gag.com/gag/amoqZ8d)
- - 😝 [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)
- - 👉 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)<!-- MEMES:END -->
+ - 6️⃣ [Now that must have been a looong conversation](http://9gag.com/gag/axyEwKM)
+ - 😝 [I was Horny, now I&#39;m Sad](http://9gag.com/gag/aoymQWn)
+ - 👉 [When manager presents your work to his boss and you realize dude doesn&#39;t understand the job](http://9gag.com/gag/a87dgKd)<!-- MEMES:END -->
 
 --- 
 
