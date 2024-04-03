@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Major Taiwan earthquake temporarily halts production at Nvidia and AMD chipmaker](https://www.pcgamer.com/hardware/major-taiwan-earthquake-temporarily-halts-production-at-nvidia-and-amd-chipmaker)
- - [Today&#39;s Wordle answer for Wednesday, April 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-3-2024)
- - [The winners and losers of today&#39;s Helldivers 2 patch: Snipers rule, Sluggers drool](https://www.pcgamer.com/games/third-person-shooter/the-winners-and-losers-of-todays-helldivers-2-balancing-patch-snipers-rule-sluggers-drool)<!-- GAME:END -->
+ - [Nightmare Kart, the now-legally-distinct, not-Bloodborne fan game has a release date—after a letter from Sony delayed the whole thing](https://www.pcgamer.com/games/racing/nightmare-kart-the-now-legally-distinct-not-bloodborne-fan-game-has-a-release-dateafter-a-letter-from-sony-delayed-the-whole-thing)
+ - [Valve Hardware Survey for March—AMD still can&#39;t make a dent in Nvidia&#39;s massive lead](https://www.pcgamer.com/hardware/valve-hardware-survey-for-marchamd-still-cant-make-a-dent-in-nvidias-massive-lead)
+ - [YouTube alone would eat up over 100 times the world&#39;s total bandwidth without video compression](https://www.pcgamer.com/hardware/graphics-cards/youtube-alone-would-eat-up-over-100-times-the-worlds-total-bandwidth-without-video-compression)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
