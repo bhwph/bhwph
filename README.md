@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait what?](http://9gag.com/gag/agmre1W)
- - 😝 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
- - 👉 [London taste](http://9gag.com/gag/avy2jjE)<!-- MEMES:END -->
+ - 6️⃣ [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)
+ - 😝 [Useful memes](http://9gag.com/gag/adByDKj)
+ - 👉 [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)<!-- MEMES:END -->
 
 --- 
 
