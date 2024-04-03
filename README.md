@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Professional victim..](http://9gag.com/gag/ajPQvGR)
- - 😝 [This is the best magic](http://9gag.com/gag/a6ZrROA)
- - 👉 [It&#39;s clever because it works](http://9gag.com/gag/adByDPZ)<!-- MEMES:END -->
+ - 6️⃣ [This is the best magic](http://9gag.com/gag/a6ZrROA)
+ - 😝 [A Western comic convention would never](http://9gag.com/gag/apRKZ5E)
+ - 👉 [It never gets old](http://9gag.com/gag/aD2RegZ)<!-- MEMES:END -->
 
 --- 
 
