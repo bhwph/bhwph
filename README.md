@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 is getting its two best missions back before The Final Shape](https://www.polygon.com/24119354/into-light-whisper-zero-hour-worm-outbreak-final-shape)
- - [Mission Talita is a Grand Theft Auto mod meant to stop trafficking](https://www.polygon.com/24119385/mission-talita-grand-theft-auto-mod-non-profit-sex-trafficking)
- - [April is a monster month for city builders and colony sims](https://www.pcgamer.com/games/city-builder/april-is-a-monster-month-for-city-builders-and-colony-sims)<!-- GAME:END -->
+ - [The winners and losers of today&#39;s Helldivers 2 patch: Snipers rule, Sluggers drool](https://www.pcgamer.com/games/third-person-shooter/the-winners-and-losers-of-todays-helldivers-2-balancing-patch-snipers-rule-sluggers-drool)
+ - [A software quirk caused Discord&#39;s April Fools&#39; video to accidentally rack up more than 1.4 billion YouTube views, 8 times as many as the GTA 6 trailer](https://www.pcgamer.com/gaming-industry/a-software-quirk-caused-discords-april-fools-video-to-accidentally-rack-up-more-than-14-billion-youtube-views-8-times-as-many-as-the-gta-6-trailer)
+ - [Community Update April 2024 – Seeking Updates of the Morning](https://news.xbox.com/en-us/2024/04/02/community-update-april-2024-seeking-updates-of-the-morning/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
