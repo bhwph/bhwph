@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)
- - 😝 [J K Rowling taking a stand against the new law](http://9gag.com/gag/amoqZ8d)
- - 👉 [London taste](http://9gag.com/gag/avy2jjE)<!-- MEMES:END -->
+ - 6️⃣ [J K Rowling taking a stand against the new law](http://9gag.com/gag/amoqZ8d)
+ - 😝 [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)
+ - 👉 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)<!-- MEMES:END -->
 
 --- 
 
