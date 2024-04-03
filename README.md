@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fujifilm X100VI vs. Ricoh GR IIIx: battle for the best point-and-shoot](https://www.theverge.com/24118170/fujifilm-x100vi-ricoh-gr-iiix-point-shoot-camera-comparison)
- - [Expand your output with 45% off the Anker 6-in-1 Hub](https://www.androidauthority.com/anker-6-in-1-hub-deal-3430621/)
- - [The Mystery of ‘Jia Tan,’ the XZ Backdoor Mastermind](https://www.wired.com/story/jia-tan-xz-backdoor/)<!-- TECH:END -->
+ - [Samsung could bring a new ‘AstroPortrait’ mode to its high-end camera phones &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-astroportrait-3430946/)
+ - [Amazon&#39;s $89 AirPods deal delivers best price available](https://appleinsider.com/articles/24/04/03/amazons-89-airpods-deal-delivers-best-price-available?utm_medium=rss)
+ - [Another Spotify price hike is reportedly coming later this year](https://www.androidauthority.com/spotify-increasing-premium-prices-3430941/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
