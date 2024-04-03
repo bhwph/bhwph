@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wyrmspan, successor to bestselling Wingspan, doesn’t stray far](https://www.polygon.com/tabletop-games/24119049/wyrmspan-wingspan-sequel-review)
- - [You can watch the solar eclipse on Twitch or in Fortnite, thanks to NASA](https://www.polygon.com/24119895/how-watch-solar-eclipse-what-time-twitch-fortnite-minecraft-nasa)
- - [Intel&#39;s chip foundry keeps losing billions of dollars but CEO Gelsinger says this is it, this year is &#39;the trough&#39;](https://www.pcgamer.com/hardware/processors/intels-chip-foundry-keeps-losing-billions-of-dollars-but-ceo-gelsinger-says-this-is-it-this-year-is-the-trough)<!-- GAME:END -->
+ - [Helldivers 2 Decrees ‘Malevelon Creek Memorial Day,’ Rewards Players With Capes](https://kotaku.com/helldivers-2-malevelon-creek-memorial-capes-1851384481)
+ - [Diablo 4 Tempering: How to add affixes to gear](https://www.pcgamer.com/games/action/diablo-4-tempering-manuals-masterworking)
+ - [The People’s Joker director wanted a trans villain on screen in an era of trans vilification](https://www.polygon.com/24119175/peoples-joker-director-interview-banned-batman-trans-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
