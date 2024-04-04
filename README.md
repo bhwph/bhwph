@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, April 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-4-2024)
- - [PCIe 7.0 is on track for a 2025 release, which means SSDs with speeds of up to 60GB/s should be available in the coming years](https://www.pcgamer.com/hardware/pcie-70-is-on-track-for-a-2025-release-which-means-ssds-with-speeds-of-up-to-60gbs-should-be-available-in-the-coming-years)
- - [Xbox Insider Release Notes – Xbox App [2404.1001.9.0]](https://news.xbox.com/en-us/2024/04/03/xbox-insider-release-notes-xbox-app-2404-1001-9-0/)<!-- GAME:END -->
+ - [How Beyond Xbox: Field Trips is Teaching Valuable Life Skills via Game Pass Favorites](https://news.xbox.com/en-us/2024/04/03/xbox-field-trips-interview/)
+ - [The launch of AMD&#39;s Zen 5 processors is close, as motherboard manufacturers begin rolling out BIOSes supporting the next-gen chips](https://www.pcgamer.com/hardware/processors/the-launch-of-amds-zen-5-processors-is-close-as-motherboard-manufacturers-begin-rolling-out-bioses-supporting-the-next-gen-chips)
+ - [Today&#39;s Wordle answer for Thursday, April 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-4-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
