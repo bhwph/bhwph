@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A publisher says he has been targeted by a backlink SEO scam in which a &quot;law firm&quot; with AI-generated photos of &quot;lawyers&quot; sent copyright infringement notices &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240404/p30#a240404p30)
- - [Save $400 on Apple&#39;s 15-inch MacBook Air with 24GB RAM, 2TB SSD](https://appleinsider.com/articles/24/04/04/save-400-on-apples-15-inch-macbook-air-with-24gb-ram-2tb-ssd?utm_medium=rss)
- - [As a frequent traveler, I can’t wait for Google’s Find My Device network](https://www.androidauthority.com/frequent-traveler-cant-wait-google-find-my-device-3431363/)<!-- TECH:END -->
+ - [The Disney Plus password-sharing crackdown starts in June](https://www.theverge.com/2024/4/4/24121189/disney-plus-paid-password-sharing-crackdown-june)
+ - [Ellipsis Labs, which operates Phoenix, a decentralized crypto exchange launched in February 2023, raised a $20M Series A led by Paradigm &lpar;Niamh Rowe/Fortune&rpar;](http://www.techmeme.com/240404/p31#a240404p31)
+ - [Android 15 really doesn’t want you to turn off Bluetooth](https://www.androidauthority.com/android-15-bluetooth-auto-on-3431445/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
