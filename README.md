@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla wants Apple&#39;s help to beat Autopilot death lawsuit](https://appleinsider.com/articles/24/04/04/tesla-wants-apples-help-to-beat-autopilot-death-lawsuit?utm_medium=rss)
- - [A TikTok Whistleblower Got DC’s Attention. Do His Claims Add Up?](https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/)
- - [How to turn off Apple&#39;s Journal &#39;Discoverable by Others&#39; setting that&#39;s enabled by default](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-apples-journal-discoverable-by-others-setting-thats-enabled-by-default?utm_medium=rss)<!-- TECH:END -->
+ - [Denis Villeneuve is doing Dune 3](https://www.theverge.com/24121523/dune-3-denis-villeneuve-legendary-messiah)
+ - [Vimeo names Philip Moyer, an ex-VP of applied AI engineering and business development at Google Cloud, as CEO and board member, replacing interim CEO Adam Gross &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240404/p36#a240404p36)
+ - [Oxygen OS vs One UI: A thorough comparison of the two popular Android skins](https://www.androidauthority.com/oxygen-os-vs-one-ui-1090176/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
