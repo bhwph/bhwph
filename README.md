@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld&#39;s new update adds two tiers of goth girl boss, more loot, quality-of-life bumps, and the ability to slam-dunk your pals out of their lunch break](https://www.pcgamer.com/games/survival-crafting/palworlds-new-update-adds-two-tiers-of-goth-girl-boss-more-loot-quality-of-life-bumps-and-the-ability-to-slam-dunk-your-pals-out-of-their-lunch-break)
- - [Pokémon Go ‘Sizable Surprises’ event, Collection Challenge guide](https://www.polygon.com/pokemon-go-guide/2024/4/4/24121052/sizable-surprises-event-collection-challenge-shiny-wimpod)
- - [Get The Outer Worlds: Spacer’s Choice Edition on the Epic Games Store for free](https://www.polygon.com/deals/2024/4/4/24121002/outer-worlds-spacers-choice-edition-free-epic-games)<!-- GAME:END -->
+ - [The Baby Assassins movies revive the dying art of action comedy](https://www.polygon.com/24120218/baby-assassins-good-action-comedy-movies-watch-streaming)
+ - [Xbox Insider Release Notes – Omega &lpar;2404.240402-1830&rpar;](https://news.xbox.com/en-us/2024/04/04/xbox-insider-release-notes-omega-2404-240402-1830/)
+ - [Xbox Insider Release Notes – Delta &lpar;2404.240402-1830&rpar;](https://news.xbox.com/en-us/2024/04/04/xbox-insider-release-notes-delta-2404-240402-1830/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
