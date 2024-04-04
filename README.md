@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft reveals how much businesses will have to pay to keep using Windows 10 securely](https://www.theverge.com/2024/4/3/24120093/microsoft-windows-10-extended-security-updates-price)
- - [Best TV for PS5 and Xbox Series X, Series S for 2024: LG OLED, Hisense, Vizio     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-for-ps5-and-xbox-series-x-series-s/#ftag=CAD590a51e)
- - [The App Store was down, along with Apple TV, Apple Podcasts, and Apple Music](https://www.theverge.com/2024/4/3/24120519/apple-app-store-apple-tv-apple-music-outage)<!-- TECH:END -->
+ - [A look at some exciting startups from day one of YC&#39;s Winter 2024 Demo Day, including those using AI for creating music and helping lawyers review documents &lpar;TechCrunch&rpar;](http://www.techmeme.com/240403/p31#a240403p31)
+ - [Uber Eats rolls out delivery services with Waymo&#39;s self-driving cars in the Phoenix area, Uber&#39;s seventh site with autonomous deliveries and first with Waymo &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240403/p30#a240403p30)
+ - [Best Solar Companies of April 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-companies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
