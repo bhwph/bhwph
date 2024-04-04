@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - 😝 [Father reveal](http://9gag.com/gag/aD2RK9N)
- - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
+ - 6️⃣ [Will the real juliet please stand up?](http://9gag.com/gag/aVvjAyP)
+ - 😝 [\u201cF**ck, time to relocate the store\u201d](http://9gag.com/gag/avy2NDO)
+ - 👉 [Straight back to Pakistan.](http://9gag.com/gag/aGyKXE7)<!-- MEMES:END -->
 
 --- 
 
