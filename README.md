@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)
- - 😝 [Useful memes](http://9gag.com/gag/adByDKj)
- - 👉 [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)<!-- MEMES:END -->
+ - 6️⃣ [If Tom holland makes me believe that he has fallen head over heels for her, then he is the greatest actor ever.](http://9gag.com/gag/aBy9ApQ)
+ - 😝 [Father reveal](http://9gag.com/gag/aD2RK9N)
+ - 👉 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)<!-- MEMES:END -->
 
 --- 
 
