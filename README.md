@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thinnest iPhone 16 display bezels still a problem for OLED suppliers](https://appleinsider.com/articles/24/04/04/thinnest-iphone-16-display-bezels-still-a-problem-for-oled-suppliers?utm_medium=rss)
- - [Sources: Alphabet has been talking to its advisers about making an offer for HubSpot, an online marketing company with a $32B market value &lpar;Reuters&rpar;](http://www.techmeme.com/240404/p25#a240404p25)
- - [3 Body Problem stars on the show’s big question: would you push the button?](https://www.theverge.com/24120449/3-body-problem-netflix-rosalind-chao-zine-tseng-interview)<!-- TECH:END -->
+ - [A publisher says he has been targeted by a backlink SEO scam in which a &quot;law firm&quot; with AI-generated photos of &quot;lawyers&quot; sent copyright infringement notices &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240404/p30#a240404p30)
+ - [Save $400 on Apple&#39;s 15-inch MacBook Air with 24GB RAM, 2TB SSD](https://appleinsider.com/articles/24/04/04/save-400-on-apples-15-inch-macbook-air-with-24gb-ram-2tb-ssd?utm_medium=rss)
+ - [As a frequent traveler, I can’t wait for Google’s Find My Device network](https://www.androidauthority.com/frequent-traveler-cant-wait-google-find-my-device-3431363/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
