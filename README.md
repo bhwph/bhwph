@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X rolls out support for posting Community Notes in India ahead of the 2024 general elections and says the program now has contributors in 69 countries &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240404/p1#a240404p1)
- - [Amazon still has a serious plastic waste problem in the US](https://www.theverge.com/2024/4/4/24118295/amazon-plastic-waste-oceana-report-growth-us)
- - [Toronto-based Brim, which offers credit card and payment tech infrastructure to financial institutions, raised a $85M Series C led by Export Development Canada &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240403/p33#a240403p33)<!-- TECH:END -->
+ - [Oceana: Amazon created 208M lbs of US plastic packaging waste in 2022, up 9.6% YoY: Amazon says it reduced plastic packaging use by 11.6% YoY globally in 2022 &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240404/p6#a240404p6)
+ - [An interview with Andres Freund, a Microsoft database engineer working on PostgreSQL, on discovering the XZ Utils backdoor, doubting his own findings, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240404/p5#a240404p5)
+ - [Google Cloud/Cloud Security Alliance survey of 2,486 IT and security professionals: 63% of security professionals believe AI could help in threat detection &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240404/p4#a240404p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
