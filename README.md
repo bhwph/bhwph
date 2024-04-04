@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at some exciting startups from day one of YC&#39;s Winter 2024 Demo Day, including those using AI for creating music and helping lawyers review documents &lpar;TechCrunch&rpar;](http://www.techmeme.com/240403/p31#a240403p31)
- - [Uber Eats rolls out delivery services with Waymo&#39;s self-driving cars in the Phoenix area, Uber&#39;s seventh site with autonomous deliveries and first with Waymo &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240403/p30#a240403p30)
- - [Best Solar Companies of April 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-companies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X rolls out support for posting Community Notes in India ahead of the 2024 general elections and says the program now has contributors in 69 countries &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240404/p1#a240404p1)
+ - [Amazon still has a serious plastic waste problem in the US](https://www.theverge.com/2024/4/4/24118295/amazon-plastic-waste-oceana-report-growth-us)
+ - [Toronto-based Brim, which offers credit card and payment tech infrastructure to financial institutions, raised a $85M Series C led by Export Development Canada &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240403/p33#a240403p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
