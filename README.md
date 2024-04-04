@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam Deck OLED owners concerned after reports of cracking emerge](https://www.androidauthority.com/steam-deck-oled-cracks-3431100/)
- - [NASA picks three companies to develop a Moon car for Artemis astronauts](https://www.theverge.com/2024/4/3/24120373/nasa-artemis-astronauts-moon-car)
- - [WhatsApp, Instagram, and Facebook are back up and running after outages](https://www.theverge.com/2024/4/3/24120278/whatsapp-down-outage-connection-issues)<!-- TECH:END -->
+ - [Microsoft reveals how much businesses will have to pay to keep using Windows 10 securely](https://www.theverge.com/2024/4/3/24120093/microsoft-windows-10-extended-security-updates-price)
+ - [Best TV for PS5 and Xbox Series X, Series S for 2024: LG OLED, Hisense, Vizio     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-for-ps5-and-xbox-series-x-series-s/#ftag=CAD590a51e)
+ - [The App Store was down, along with Apple TV, Apple Podcasts, and Apple Music](https://www.theverge.com/2024/4/3/24120519/apple-app-store-apple-tv-apple-music-outage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
