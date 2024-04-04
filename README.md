@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Disney Plus password-sharing crackdown starts in June](https://www.theverge.com/2024/4/4/24121189/disney-plus-paid-password-sharing-crackdown-june)
- - [Ellipsis Labs, which operates Phoenix, a decentralized crypto exchange launched in February 2023, raised a $20M Series A led by Paradigm &lpar;Niamh Rowe/Fortune&rpar;](http://www.techmeme.com/240404/p31#a240404p31)
- - [Android 15 really doesn’t want you to turn off Bluetooth](https://www.androidauthority.com/android-15-bluetooth-auto-on-3431445/)<!-- TECH:END -->
+ - [Tesla wants Apple&#39;s help to beat Autopilot death lawsuit](https://appleinsider.com/articles/24/04/04/tesla-wants-apples-help-to-beat-autopilot-death-lawsuit?utm_medium=rss)
+ - [A TikTok Whistleblower Got DC’s Attention. Do His Claims Add Up?](https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/)
+ - [How to turn off Apple&#39;s Journal &#39;Discoverable by Others&#39; setting that&#39;s enabled by default](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-apples-journal-discoverable-by-others-setting-thats-enabled-by-default?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
