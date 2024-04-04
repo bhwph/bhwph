@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [“We Have Another Story to Tell” – Why Senua’s Saga: Hellblade II is A Revolutionary Sequel](https://news.xbox.com/en-us/2024/04/04/senuas-saga-hellblade-2-preview-studio-visit/)
- - [Hellblade 2 will finally show us what an Unreal Engine 5 game can do](https://www.polygon.com/24120021/hellblade-2-senuas-saga-preview-ninja-theory-unreal-engine-5)
- - [How Beyond Xbox: Field Trips is Teaching Valuable Life Skills via Game Pass Favorites](https://news.xbox.com/en-us/2024/04/03/xbox-field-trips-interview/)<!-- GAME:END -->
+ - [With 800,000 copies of Dwarf Fortress sold, the newly minted millionaire creators&#39; most high-roller purchase has been a Honda Civic](https://www.pcgamer.com/games/sim/with-800000-copies-of-dwarf-fortress-sold-the-newly-minted-millionaire-creators-most-ludicrous-largesse-has-been-a-honda-civic)
+ - [The Butler is one of Lethal Company&#39;s newest monsters, and this blob-fish-looking guy has an explosive personality](https://www.pcgamer.com/games/horror/the-butler-is-one-of-lethal-companys-newest-monsters-and-this-blob-fish-looking-guy-has-an-explosive-personality)
+ - [The Elder Scrolls Online devs hired a modder from one of its most popular addons to fine-tune its housing tools: &#39;it was really cool to get James on the team&#39;](https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-online-devs-hired-a-modder-from-one-of-its-most-popular-addons-to-fine-tune-its-housing-tools-it-was-really-cool-to-get-james-on-the-team)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
