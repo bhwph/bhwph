@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 dummy units show off Capture button, new camera bump](https://appleinsider.com/articles/24/04/04/iphone-16-dummy-units-show-off-capture-button-new-camera-bump?utm_medium=rss)
- - [AT&amp;T plans to invest an additional $3B by 2030 to help close the US digital divide, after initially committing $2B by 2024, which helped nearly 5M Americans &lpar;Hope King/Axios&rpar;](http://www.techmeme.com/240404/p13#a240404p13)
- - [Download: AI Eraser is now available on OnePlus phones, and here’s how it works](https://www.androidauthority.com/oneplus-ai-eraser-update-3431184/)<!-- TECH:END -->
+ - [Russian antitrust regulator asks Apple about banking apps while ignoring Ukraine war](https://appleinsider.com/articles/24/04/04/russian-antitrust-regulator-asks-apple-about-banking-apps-while-ignoring-ukraine-war?utm_medium=rss)
+ - [Apple wants to bring Spatial Computing to regular monitors](https://appleinsider.com/articles/24/04/04/apple-wants-to-bring-spatial-computing-to-regular-monitors?utm_medium=rss)
+ - [Some Amazon merchants complain of scam returns, where buyers ship junk back to sellers and claim they are returns, and say Amazon&#39;s policies favor customers &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/240404/p21#a240404p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
