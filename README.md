@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [AI&#39;s depiction of hell](http://9gag.com/gag/a2vEnzp)
- - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - 👉 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)<!-- MEMES:END -->
+ - 6️⃣ [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
+ - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - 👉 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)<!-- MEMES:END -->
 
 --- 
 
