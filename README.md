@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [London taste](http://9gag.com/gag/avy2jjE)
- - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - 👉 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)<!-- MEMES:END -->
+ - 6️⃣ [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - 😝 [London taste](http://9gag.com/gag/avy2jjE)
+ - 👉 [If u know u know](http://9gag.com/gag/aKG4QxO)<!-- MEMES:END -->
 
 --- 
 
