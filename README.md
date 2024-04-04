@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best TV of 2024 so far](https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series)
- - [Gran Turismo World Series 2024 begins with online qualifiers April 17](https://blog.playstation.com/2024/04/04/gran-turismo-world-series-2024-begins-with-online-qualifiers-april-17/)
- - [Gran Turismo World Series 2024 begins with online qualifiers April 17](https://blog.playstation.com/2024/04/04/gran-turismo-world-series-2024-begins-with-online-qualifiers-april-17/)<!-- GAME:END -->
+ - [Palworld&#39;s new update adds two tiers of goth girl boss, more loot, quality-of-life bumps, and the ability to slam-dunk your pals out of their lunch break](https://www.pcgamer.com/games/survival-crafting/palworlds-new-update-adds-two-tiers-of-goth-girl-boss-more-loot-quality-of-life-bumps-and-the-ability-to-slam-dunk-your-pals-out-of-their-lunch-break)
+ - [Pokémon Go ‘Sizable Surprises’ event, Collection Challenge guide](https://www.polygon.com/pokemon-go-guide/2024/4/4/24121052/sizable-surprises-event-collection-challenge-shiny-wimpod)
+ - [Get The Outer Worlds: Spacer’s Choice Edition on the Epic Games Store for free](https://www.polygon.com/deals/2024/4/4/24121002/outer-worlds-spacers-choice-edition-free-epic-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
