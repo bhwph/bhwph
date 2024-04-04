@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hacks season 3: Release date and everything else you need to know](https://www.androidauthority.com/hacks-season-3-release-date-3431169/)
- - [Child Tax Credit Refund 2024: When Will It Arrive?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-refund-2024-when-will-it-arrive/#ftag=CAD590a51e)
- - [&#39;Ripley&#39; Review: Andrew Scott Is Transcendent in Netflix&#39;s Mesmerizing Noir Series     - CNET](https://www.cnet.com/tech/services-and-software/ripley-review-andrew-scott-is-transcendent-in-netflixs-mesmerizing-noir-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16 dummy units show off Capture button, new camera bump](https://appleinsider.com/articles/24/04/04/iphone-16-dummy-units-show-off-capture-button-new-camera-bump?utm_medium=rss)
+ - [AT&amp;T plans to invest an additional $3B by 2030 to help close the US digital divide, after initially committing $2B by 2024, which helped nearly 5M Americans &lpar;Hope King/Axios&rpar;](http://www.techmeme.com/240404/p13#a240404p13)
+ - [Download: AI Eraser is now available on OnePlus phones, and here’s how it works](https://www.androidauthority.com/oneplus-ai-eraser-update-3431184/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
