@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Smaller games can be &#39;more creative,&#39; says designer who made one of Ubisoft&#39;s most acclaimed games with a tiny team](https://www.pcgamer.com/games/racing/smaller-games-can-be-more-creative-says-designer-who-made-one-of-ubisofts-most-acclaimed-games-with-a-tiny-team)
- - [Online Games Act Like Unregulated Banks, And The US Gov’t Has Noticed](https://kotaku.com/fortnite-roblox-online-banking-kids-cfpb-gaming-report-1851388590)
- - [FF7 Rebirth&#39;s Platinum Trophy Is Currently Impossible To Get If You Bought It Digitally [Update]](https://kotaku.com/ff7-rebirth-g-bike-upa-quest-broken-score-glitch-fix-1851372282)<!-- GAME:END -->
+ - [Relic Entertainment lays off employees to give itself &#39;the best possible chance to survive in an increasingly volatile industry&#39;](https://www.pcgamer.com/gaming-industry/relic-entertainment-lays-off-employees-to-give-itself-the-best-possible-chance-to-survive-in-an-increasingly-volatile-industry)
+ - [How to finish the Unmoored World endgame in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24121502/unmoored-world-endgame-best-quest-order-new-game-plus)
+ - [Roku’s New HDMI Tech Could Show Ads When You Pause Your Game](https://kotaku.com/roku-patent-hdmi-tech-tv-ads-game-console-pause-screen-1851388976)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
