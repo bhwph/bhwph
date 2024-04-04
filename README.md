@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian antitrust regulator asks Apple about banking apps while ignoring Ukraine war](https://appleinsider.com/articles/24/04/04/russian-antitrust-regulator-asks-apple-about-banking-apps-while-ignoring-ukraine-war?utm_medium=rss)
- - [Apple wants to bring Spatial Computing to regular monitors](https://appleinsider.com/articles/24/04/04/apple-wants-to-bring-spatial-computing-to-regular-monitors?utm_medium=rss)
- - [Some Amazon merchants complain of scam returns, where buyers ship junk back to sellers and claim they are returns, and say Amazon&#39;s policies favor customers &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/240404/p21#a240404p21)<!-- TECH:END -->
+ - [Thinnest iPhone 16 display bezels still a problem for OLED suppliers](https://appleinsider.com/articles/24/04/04/thinnest-iphone-16-display-bezels-still-a-problem-for-oled-suppliers?utm_medium=rss)
+ - [Sources: Alphabet has been talking to its advisers about making an offer for HubSpot, an online marketing company with a $32B market value &lpar;Reuters&rpar;](http://www.techmeme.com/240404/p25#a240404p25)
+ - [3 Body Problem stars on the show’s big question: would you push the button?](https://www.theverge.com/24120449/3-body-problem-netflix-rosalind-chao-zine-tseng-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
