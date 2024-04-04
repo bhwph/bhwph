@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u201cF**ck, time to relocate the store\u201d](http://9gag.com/gag/avy2NDO)
- - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 👉 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)<!-- MEMES:END -->
+ - 6️⃣ [London taste](http://9gag.com/gag/avy2jjE)
+ - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
+ - 👉 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)<!-- MEMES:END -->
 
 --- 
 
