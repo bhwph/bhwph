@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If Tom holland makes me believe that he has fallen head over heels for her, then he is the greatest actor ever.](http://9gag.com/gag/aBy9ApQ)
- - 😝 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)
- - 👉 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)<!-- MEMES:END -->
+ - 6️⃣ [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
+ - 😝 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
+ - 👉 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)<!-- MEMES:END -->
 
 --- 
 
