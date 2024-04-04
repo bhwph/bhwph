@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FCC will vote on bringing back net neutrality regulations on April 25](https://www.pcgamer.com/gaming-industry/fcc-will-vote-on-bringing-back-net-neutrality-regulations-on-april-25)
- - [Former GTA San Andreas Dev Explains Suicidal Photographer And Crashing Planes](https://kotaku.com/gta-san-andreas-crash-planes-ghost-cars-myths-explained-1851385673)
- - [Netflix&#39;s The Witcher finally adds Zoltan, and it&#39;s Kramer&#39;s angry friend from Seinfeld](https://www.pcgamer.com/movies-tv/netflixs-the-witcher-finally-adds-zoltan-and-its-kramers-angry-friend-from-seinfeld)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Xbox App [2404.1001.9.0]](https://news.xbox.com/en-us/2024/04/03/xbox-insider-release-notes-xbox-app-2404-1001-9-0/)
+ - [‘Off the Pilfered Path’ quest walkthrough in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24119992/off-the-pilfered-path-quest-hugo-offer-guidance-job)
+ - [FCC will vote on bringing back net neutrality regulations on April 25](https://www.pcgamer.com/gaming-industry/fcc-will-vote-on-bringing-back-net-neutrality-regulations-on-april-25)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
