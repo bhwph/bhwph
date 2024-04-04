@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If Tom holland makes me believe that he has fallen head over heels for her, then he is the greatest actor ever.](http://9gag.com/gag/aBy9ApQ)
- - 😝 [Father reveal](http://9gag.com/gag/aD2RK9N)
- - 👉 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)<!-- MEMES:END -->
+ - 6️⃣ [Guess the reason... Water in Great Britain is getting dirtier British authorities are sounding the alarm. The reason: record levels of pollution on British rivers and coasts. Twice as much unfiltered wastewater ended up in waterways as in the previous year](http://9gag.com/gag/aXPZyj2)
+ - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
+ - 👉 [If u know u know](http://9gag.com/gag/aKG4QxO)<!-- MEMES:END -->
 
 --- 
 
