@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Denis Villeneuve is doing Dune 3](https://www.theverge.com/24121523/dune-3-denis-villeneuve-legendary-messiah)
- - [Vimeo names Philip Moyer, an ex-VP of applied AI engineering and business development at Google Cloud, as CEO and board member, replacing interim CEO Adam Gross &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240404/p36#a240404p36)
- - [Oxygen OS vs One UI: A thorough comparison of the two popular Android skins](https://www.androidauthority.com/oxygen-os-vs-one-ui-1090176/)<!-- TECH:END -->
+ - [Google&#39;s Apple-friendly Find My Devices network launching in April](https://appleinsider.com/articles/24/04/05/googles-apple-friendly-find-my-devices-network-launching-in-april?utm_medium=rss)
+ - [Filings: Apple laid off 600+ employees in California; some layoffs correspond to addresses where Apple&#39;s display and car research teams were reportedly based &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240404/p39#a240404p39)
+ - [Coinbase says it was granted a restricted dealer license in Canada, meeting the country&#39;s strict crypto demands as it pushes to expand abroad amid SEC crackdown &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240404/p38#a240404p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
