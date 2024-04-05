@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung estimates Q1 operating profit of $4.9B, up 931% YoY, and sales of $52.68B, up 11.4% YoY, as memory chip prices surge, hinting end of the chip downturn &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/240405/p1#a240405p1)
  - [CCData: crypto trading volume on centralized exchanges hit an all-time high of $9.1T in March, with spot trading volume of $2.94T, the highest since May 2021 &lpar;Mar&amp;iacute;a Paula Mijares Torres/Bloomberg&rpar;](http://www.techmeme.com/240404/p43#a240404p43)
- - [Today&#39;s Wordle Hints and Answer: Help for April 5, #1021     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-5-1021/#ftag=CAD590a51e)
- - [A look at the rocky launch of Shine, the photo-sharing app developed by Marissa Mayer&#39;s startup Sunshine whose cofounder Enrique Mu&amp;ntilde;oz Torres resigned this week &lpar;Platformer&rpar;](http://www.techmeme.com/240404/p42#a240404p42)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for April 5, #1021     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-5-1021/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
