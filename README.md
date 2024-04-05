@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku’s idea of showing ads on your HDMI inputs seems like an inevitable hell](https://www.theverge.com/2024/4/5/24121958/roku-ads-tv-hdmi-inputs-patent-amazon-google)
- - [Meta asks court to dismiss FTC’s monopoly claims](https://www.theverge.com/2024/4/5/24121968/meta-motion-for-summary-judgment-ftc-monopoly-lawsuit)
- - [OpenAI’s DALL-E now lets you fine-tune your AI art with editing tools](https://www.androidauthority.com/openais-dall-e-now-lets-you-fine-tune-your-ai-art-with-editing-tools-3431792/)<!-- TECH:END -->
+ - [Amazon adds a store called Bazaar to its Android app in India, featuring affordable fashion and lifestyle products, to compete with Flipkart and Reliance&#39;s Ajio &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240405/p18#a240405p18)
+ - [Galaxy Z Fold 5 and Flip 5 get a security boost with April’s update](https://www.androidauthority.com/galaxy-foldable-april-update-3431890/)
+ - [Sephora’s Spring Sale Brings Big Discounts on Top-Rated Hair Tools &lpar;2024&rpar;](https://www.wired.com/story/sephora-sale-april-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
