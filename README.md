@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [WoW Classic Season of Discovery phase 3 is live—with a raised cap of level 50, 54 new runes, a fresh 20-player raid, and an unruly Emerald Dream](https://www.pcgamer.com/games/world-of-warcraft/wow-classic-season-of-discovery-phase-3-is-livewith-a-raised-cap-of-level-50-54-new-runes-a-fresh-20-player-raid-and-an-unruly-emerald-dream)
- - [Acclaimed indie studio Vlambeer springs back to life 4 years after declaring &#39;the end of Vlambeer&#39;](https://www.pcgamer.com/gaming-industry/acclaimed-indie-studio-vlambeer-springs-back-to-life-4-years-after-declaring-the-end-of-vlambeer)
- - [Chicken for Linda!’s animation needs a big screen and emotional processing space](https://www.polygon.com/24121467/chicken-for-linda-gkids-french-animated-movie-review)<!-- GAME:END -->
+ - [All pawn specializations in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24113702/pawn-specializations-list-all-how-to-get-tomes)
+ - [Suicide Squad Hackers Break Game To Play As Unreleased Characters](https://kotaku.com/suicide-squad-hackers-unreleased-skins-deathstroke-1851391360)
+ - [The 29 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
