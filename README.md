@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Save Big During the Annual Microsoft Store Spring Sale](https://news.xbox.com/en-us/2024/04/05/microsoft-store-spring-sale-2024-starts-april-5/)
- - [How To Clear The Witcher 3 From Your Backlog](https://kotaku.com/witcher-3-wild-hunt-backlog-how-long-to-beat-1851391946)
- - [Somehow Dark Souls was the inspiration for player messages in the kindest MMO around](https://www.pcgamer.com/games/mmo/somehow-dark-souls-was-the-inspiration-for-player-messages-in-the-kindest-mmo-around)<!-- GAME:END -->
+ - [&#39;Stop Killing Games&#39; campaign demands end to live service shutdowns: &#39;It is an assault on both consumer rights and preservation of media&#39;](https://www.pcgamer.com/gaming-industry/stop-killing-games-campaign)
+ - [I&#39;ve waited so long for this freaky Lovecraftian point and click adventure that my life completely changed in the meantime, but it&#39;s finally out on PC](https://www.pcgamer.com/games/adventure/ive-waited-so-long-for-this-freaky-lovecraftian-point-and-click-adventure-that-my-life-completely-changed-in-the-meantime-but-its-finally-out-on-pc)
+ - [This base-building automation game looks like Factorio in space with bullet hell combat and Dyson spheres](https://www.pcgamer.com/games/action/this-base-building-automation-game-looks-like-factorio-in-space-with-bullet-hell-combat-and-dyson-spheres)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
