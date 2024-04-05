@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, April 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-5-2024)
- - [WoW Classic made the &#39;radical change&#39; to stop testing new content with players to bring back a sense of &#39;mystery and discovery&#39;](https://www.pcgamer.com/games/mmo/wow-classic-made-the-radical-change-to-stop-testing-new-content-with-players-to-bring-back-a-sense-of-mystery-and-discovery)
- - [Relic Entertainment lays off employees to give itself &#39;the best possible chance to survive in an increasingly volatile industry&#39;](https://www.pcgamer.com/gaming-industry/relic-entertainment-lays-off-employees-to-give-itself-the-best-possible-chance-to-survive-in-an-increasingly-volatile-industry)<!-- GAME:END -->
+ - [Forget Helldivers, the viral hit that&#39;s swallowing all my time is this free browser game about stopping the Nazis from coming to power](https://www.pcgamer.com/games/adventure/forget-helldivers-the-viral-hit-thats-swallowing-all-my-time-is-this-free-browser-game-about-stopping-the-nazis-from-coming-to-power)
+ - [Roku has filed a patent for your TV to detect when you&#39;re paused and play &#39;relevant ads&#39;. Nope, no thank you, not for me I&#39;m afraid](https://www.pcgamer.com/hardware/roku-has-filed-a-patent-for-your-tv-to-detect-when-youre-paused-and-play-relevant-ads-nope-no-thank-you-not-for-me-im-afraid)
+ - [Dragon&#39;s Dogma 2 players in shambles as they discover Capcom might be pity-renting their unwanted, scraggly pawns](https://www.pcgamer.com/games/rpg/dragons-dogma-2-players-in-shambles-as-they-discover-capcom-might-be-pity-renting-their-unwanted-scraggly-pawns)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
