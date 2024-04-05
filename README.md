@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lowest price of 2024 on the Samsung Galaxy Z Fold 5](https://www.androidauthority.com/deal-samsung-galaxy-z-fold-5-3431563/)
- - [Apple Robots, Apple anniversaries, plus Spatial Video pros &amp; cons, on the AppleInsider Podcast](https://appleinsider.com/articles/24/04/05/apple-robots-apple-anniversaries-plus-spatial-video-pros-cons-on-the-appleinsider-podcast?utm_medium=rss)
- - [OnePlus Watch 2 Review: A 3-Day Battery Smartwatch](https://www.wired.com/review/oneplus-watch-2/)<!-- TECH:END -->
+ - [Sources: FTX estate sold 25M to 30M locked-up SOL coins for $64 apiece, a deeply discounted price, to Galaxy Trading, Pantera, and others, raising up to $1.9B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240405/p9#a240405p9)
+ - [Spigen Liquid Crystal Samsung Galaxy S24 case review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-s24-spigen-liquid-crystal-review-3430720/)
+ - [Nemo Tensor Ultralight Insulated Sleeping Pad &lpar;2024&rpar; Review: Unparalleled Comfort](https://www.wired.com/review/nemo-tensor-ultralight-insulated-sleeping-pad-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
