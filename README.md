@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Go Behind-the-Scenes of Amazon’s Post-apocalyptic Sci-Fi Series, “Fallout”](https://youtu.be/LjrGyu7Tbvc#new_tab)
- - [Next Week on Xbox: New Games for April 8 to 12](https://news.xbox.com/en-us/2024/04/05/next-week-on-xbox-new-games-for-april-8-to-12/)
- - [Netflix’s Ripley haunts a beloved movie like a shadow](https://www.polygon.com/24120993/ripley-netflix-review-andrew-scott)<!-- GAME:END -->
+ - [WoW Classic Season of Discovery phase 3 is live—with a raised cap of level 50, 54 new runes, a fresh 20-player raid, and an unruly Emerald Dream](https://www.pcgamer.com/games/world-of-warcraft/wow-classic-season-of-discovery-phase-3-is-livewith-a-raised-cap-of-level-50-54-new-runes-a-fresh-20-player-raid-and-an-unruly-emerald-dream)
+ - [Acclaimed indie studio Vlambeer springs back to life 4 years after declaring &#39;the end of Vlambeer&#39;](https://www.pcgamer.com/gaming-industry/acclaimed-indie-studio-vlambeer-springs-back-to-life-4-years-after-declaring-the-end-of-vlambeer)
+ - [Chicken for Linda!’s animation needs a big screen and emotional processing space](https://www.polygon.com/24121467/chicken-for-linda-gkids-french-animated-movie-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
