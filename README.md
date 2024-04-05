@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
- - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - 6️⃣ [Take it easy](http://9gag.com/gag/aKG403Q)
+ - 😝 [Here&#39;s why it&#39;s so important to choose your significant other carefully](http://9gag.com/gag/avy2Nj5)
  - 👉 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)<!-- MEMES:END -->
 
 --- 
