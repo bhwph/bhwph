@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung estimates Q1 operating profit of $4.9B, up 931% YoY, and sales of $52.68B, up 11.4% YoY, as memory chip prices surge, hinting end of the chip downturn &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/240405/p1#a240405p1)
- - [CCData: crypto trading volume on centralized exchanges hit an all-time high of $9.1T in March, with spot trading volume of $2.94T, the highest since May 2021 &lpar;Mar&amp;iacute;a Paula Mijares Torres/Bloomberg&rpar;](http://www.techmeme.com/240404/p43#a240404p43)
- - [Today&#39;s Wordle Hints and Answer: Help for April 5, #1021     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-5-1021/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Disney Plus will expand its password-sharing crackdown in the coming months](https://www.androidauthority.com/disney-plus-password-sharing-june-3431651/)
+ - [How a TikTok whistleblower may have driven congressional concerns about the app despite working at TikTok for just six months and making improbable claims &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/240405/p2#a240405p2)
+ - [Upcoming Pixel feature will let you identify unknown callers, but there’s a catch](https://www.androidauthority.com/google-pixel-lookup-phone-app-3431634/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
