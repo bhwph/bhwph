@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 😝 [AliEns BuilT thE pYraMidS](http://9gag.com/gag/aBy979Q)
- - 👉 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)<!-- MEMES:END -->
+ - 😝 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
+ - 👉 [Guy harasses man with disability](http://9gag.com/gag/ajPQogg)<!-- MEMES:END -->
 
 --- 
 
