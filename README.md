@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Take it easy](http://9gag.com/gag/aKG403Q)
- - 😝 [Here&#39;s why it&#39;s so important to choose your significant other carefully](http://9gag.com/gag/avy2Nj5)
- - 👉 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)<!-- MEMES:END -->
+ - 6️⃣ [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
+ - 😝 [The most dramatic plot twist in movie history](http://9gag.com/gag/aZZqGxX)
+ - 👉 [Karma](http://9gag.com/gag/aZZqGRQ)<!-- MEMES:END -->
 
 --- 
 
