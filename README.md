@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
- - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
- - 👉 [*grabs popcorn](http://9gag.com/gag/aMVepw6)<!-- MEMES:END -->
+ - 6️⃣ [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - 😝 [AliEns BuilT thE pYraMidS](http://9gag.com/gag/aBy979Q)
+ - 👉 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)<!-- MEMES:END -->
 
 --- 
 
