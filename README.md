@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Even if they must hire diversity..there must be better options out there...](http://9gag.com/gag/aMVeReP)
- - 😝 [Title](http://9gag.com/gag/aO8ogdM)
- - 👉 [This one sparks joy](http://9gag.com/gag/aZZq926)<!-- MEMES:END -->
+ - 6️⃣ [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
+ - 😝 [Oof](http://9gag.com/gag/abA39qE)
+ - 👉 [Title](http://9gag.com/gag/aO8ogdM)<!-- MEMES:END -->
 
 --- 
 
