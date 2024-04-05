@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: FTX estate sold 25M to 30M locked-up SOL coins for $64 apiece, a deeply discounted price, to Galaxy Trading, Pantera, and others, raising up to $1.9B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240405/p9#a240405p9)
- - [Spigen Liquid Crystal Samsung Galaxy S24 case review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-s24-spigen-liquid-crystal-review-3430720/)
- - [Nemo Tensor Ultralight Insulated Sleeping Pad &lpar;2024&rpar; Review: Unparalleled Comfort](https://www.wired.com/review/nemo-tensor-ultralight-insulated-sleeping-pad-2024/)<!-- TECH:END -->
+ - [Tesla reportedly abandons plans to make a less expensive $25,000 electric vehicle](https://www.theverge.com/2024/4/5/24122064/tesla-cancel-affordable-electric-vehicle-model-2-china)
+ - [A look at tech giants&#39; AI training data deals; Defined.ai: some are ready to pay $1-$2 per image, $2-$4 per short video, and $100-$300 per hour of long video &lpar;Reuters&rpar;](http://www.techmeme.com/240405/p12#a240405p12)
+ - [The 14 Best Travel Bags We&#39;ve Tested &lpar;And Some to Avoid&rpar;](https://www.wired.com/gallery/best-travel-bags-carry-on-luggage/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
