@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 😝 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
- - 👉 [Guy harasses man with disability](http://9gag.com/gag/ajPQogg)<!-- MEMES:END -->
+ - 6️⃣ [Lies and white lies only.](http://9gag.com/gag/a87dBNY)
+ - 😝 [Karma](http://9gag.com/gag/aZZqGRQ)
+ - 👉 [Based Gorl](http://9gag.com/gag/aqy94ZQ)<!-- MEMES:END -->
 
 --- 
 
