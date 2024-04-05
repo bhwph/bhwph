@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two more new iPads spotted in regulatory database](https://appleinsider.com/articles/24/04/05/two-more-new-ipads-spotted-in-regulatory-database?utm_medium=rss)
- - [Can You View a Round Solar Eclipse Through a Square Hole?](https://www.wired.com/story/a-round-eclipse-in-a-square-hole/)
- - [Boo! Samsung could be sticking with some Z Fold 3 specs for the Fold 6](https://www.androidauthority.com/samsung-galaxy-z-fold-6-battery-specs-3431665/)<!-- TECH:END -->
+ - [Lowest price of 2024 on the Samsung Galaxy Z Fold 5](https://www.androidauthority.com/deal-samsung-galaxy-z-fold-5-3431563/)
+ - [Apple Robots, Apple anniversaries, plus Spatial Video pros &amp; cons, on the AppleInsider Podcast](https://appleinsider.com/articles/24/04/05/apple-robots-apple-anniversaries-plus-spatial-video-pros-cons-on-the-appleinsider-podcast?utm_medium=rss)
+ - [OnePlus Watch 2 Review: A 3-Day Battery Smartwatch](https://www.wired.com/review/oneplus-watch-2/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
