@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney Plus will expand its password-sharing crackdown in the coming months](https://www.androidauthority.com/disney-plus-password-sharing-june-3431651/)
- - [How a TikTok whistleblower may have driven congressional concerns about the app despite working at TikTok for just six months and making improbable claims &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/240405/p2#a240405p2)
- - [Upcoming Pixel feature will let you identify unknown callers, but there’s a catch](https://www.androidauthority.com/google-pixel-lookup-phone-app-3431634/)<!-- TECH:END -->
+ - [Two more new iPads spotted in regulatory database](https://appleinsider.com/articles/24/04/05/two-more-new-ipads-spotted-in-regulatory-database?utm_medium=rss)
+ - [Can You View a Round Solar Eclipse Through a Square Hole?](https://www.wired.com/story/a-round-eclipse-in-a-square-hole/)
+ - [Boo! Samsung could be sticking with some Z Fold 3 specs for the Fold 6](https://www.androidauthority.com/samsung-galaxy-z-fold-6-battery-specs-3431665/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
