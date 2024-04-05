@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All pawn specializations in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24113702/pawn-specializations-list-all-how-to-get-tomes)
- - [Suicide Squad Hackers Break Game To Play As Unreleased Characters](https://kotaku.com/suicide-squad-hackers-unreleased-skins-deathstroke-1851391360)
- - [The 29 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
+ - [Save Big During the Annual Microsoft Store Spring Sale](https://news.xbox.com/en-us/2024/04/05/microsoft-store-spring-sale-2024-starts-april-5/)
+ - [How To Clear The Witcher 3 From Your Backlog](https://kotaku.com/witcher-3-wild-hunt-backlog-how-long-to-beat-1851391946)
+ - [Somehow Dark Souls was the inspiration for player messages in the kindest MMO around](https://www.pcgamer.com/games/mmo/somehow-dark-souls-was-the-inspiration-for-player-messages-in-the-kindest-mmo-around)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
