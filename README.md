@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lies and white lies only.](http://9gag.com/gag/a87dBNY)
- - 😝 [Karma](http://9gag.com/gag/aZZqGRQ)
- - 👉 [Based Gorl](http://9gag.com/gag/aqy94ZQ)<!-- MEMES:END -->
+ - 6️⃣ [I have a koschen.](http://9gag.com/gag/apRKyx8)
+ - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
+ - 👉 [Lucky guy](http://9gag.com/gag/a87Ldj1)<!-- MEMES:END -->
 
 --- 
 
