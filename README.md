@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple lays off 600 employees, mostly from Apple Car project](https://appleinsider.com/articles/24/04/05/apple-lays-off-600-employees-mostly-from-apple-car-project?utm_medium=rss)
- - [India&#39;s IT minister says the country is looking to frame a &quot;balanced&quot; AI law that will protect news publishers and content creators while minimizing user harm &lpar;The Economic Times&rpar;](http://www.techmeme.com/240404/p40#a240404p40)
- - [Google&#39;s Apple-friendly Find My Devices network launching in April](https://appleinsider.com/articles/24/04/05/googles-apple-friendly-find-my-devices-network-launching-in-april?utm_medium=rss)<!-- TECH:END -->
+ - [CCData: crypto trading volume on centralized exchanges hit an all-time high of $9.1T in March, with spot trading volume of $2.94T, the highest since May 2021 &lpar;Mar&amp;iacute;a Paula Mijares Torres/Bloomberg&rpar;](http://www.techmeme.com/240404/p43#a240404p43)
+ - [Today&#39;s Wordle Hints and Answer: Help for April 5, #1021     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-5-1021/#ftag=CAD590a51e)
+ - [A look at the rocky launch of Shine, the photo-sharing app developed by Marissa Mayer&#39;s startup Sunshine whose cofounder Enrique Mu&amp;ntilde;oz Torres resigned this week &lpar;Platformer&rpar;](http://www.techmeme.com/240404/p42#a240404p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
