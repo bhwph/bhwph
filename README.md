@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon adds a store called Bazaar to its Android app in India, featuring affordable fashion and lifestyle products, to compete with Flipkart and Reliance&#39;s Ajio &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240405/p18#a240405p18)
- - [Galaxy Z Fold 5 and Flip 5 get a security boost with April’s update](https://www.androidauthority.com/galaxy-foldable-april-update-3431890/)
- - [Sephora’s Spring Sale Brings Big Discounts on Top-Rated Hair Tools &lpar;2024&rpar;](https://www.wired.com/story/sephora-sale-april-2024/)<!-- TECH:END -->
+ - [Source: Jony Ive and Sam Altman&#39;s AI device startup is in funding talks with Emerson Collective and Thrive Capital; Ive wants to raise up to $1B in funding &lpar;The Information&rpar;](http://www.techmeme.com/240405/p21#a240405p21)
+ - [Anker’s folding Qi2 charger and other power banks are up to 30 percent off](https://www.theverge.com/2024/4/5/24122269/anker-maggo-power-bank-portable-qi2-charger-deal-sale)
+ - [Disgraced iMessage-on-Android app can’t take the hint, is back for more](https://www.androidauthority.com/sunbird-relaunches-app-3431903/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
