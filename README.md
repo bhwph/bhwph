@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
- - 😝 [The most dramatic plot twist in movie history](http://9gag.com/gag/aZZqGxX)
- - 👉 [Karma](http://9gag.com/gag/aZZqGRQ)<!-- MEMES:END -->
+ - 6️⃣ [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
+ - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
+ - 👉 [*grabs popcorn](http://9gag.com/gag/aMVepw6)<!-- MEMES:END -->
 
 --- 
 
