@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 😝 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)
- - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
+ - 6️⃣ [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
+ - 😝 [Oof](http://9gag.com/gag/abA39qE)
+ - 👉 [I need translation](http://9gag.com/gag/a2vEQ9E)<!-- MEMES:END -->
 
 --- 
 
