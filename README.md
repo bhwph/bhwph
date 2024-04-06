@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, April 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-6-2024)
- - [How the WoW Classic team decides what to change in the 20-year-old game](https://www.pcgamer.com/games/mmo/how-the-wow-classic-team-decides-what-to-change-in-the-20-year-old-game)
- - [Splinter Cell fans are getting excited about a possible update on the remake in June](https://www.pcgamer.com/games/action/splinter-cell-fans-are-getting-excited-about-a-possible-update-on-the-remake-in-june)<!-- GAME:END -->
+ - [A list of stupid names for the Switch 2](https://www.polygon.com/nintendo/24121278/nintendo-switch-2-bad-name-suggestions)
+ - [The best movies new to streaming this April](https://www.polygon.com/what-to-watch/2024/4/6/24118158/best-new-movies-netflix-amazon-prime-max-hulu-april-2024)
+ - [Real Hollow Knight Silksong News, Fake April Fools&#39; Jokes, And More Of This Week&#39;s Biggest Stories](https://kotaku.com/real-hollow-knight-silksong-news-fake-april-fools-joke-1851391012)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
