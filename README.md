@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, April 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-6-2024)
  - [How the WoW Classic team decides what to change in the 20-year-old game](https://www.pcgamer.com/games/mmo/how-the-wow-classic-team-decides-what-to-change-in-the-20-year-old-game)
- - [Splinter Cell fans are getting excited about a possible update on the remake in June](https://www.pcgamer.com/games/action/splinter-cell-fans-are-getting-excited-about-a-possible-update-on-the-remake-in-june)
- - [WoW Classic Season of Discovery devs are aiming for &#39;fun,&#39; not &#39;perfect balance&#39;](https://www.pcgamer.com/games/mmo/wow-classic-season-of-discovery-balance-fun)<!-- GAME:END -->
+ - [Splinter Cell fans are getting excited about a possible update on the remake in June](https://www.pcgamer.com/games/action/splinter-cell-fans-are-getting-excited-about-a-possible-update-on-the-remake-in-june)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
