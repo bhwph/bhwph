@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [WoW Classic devs on the changes they&#39;ve liked most in Season of Discovery so far: &#39;It just sounds like utter chaos, but I&#39;ve just been having a blast&#39;](https://www.pcgamer.com/games/mmo/wow-classic-devs-on-the-changes-theyve-liked-most-in-season-of-discovery-so-far-it-just-sounds-like-utter-chaos-but-ive-just-been-having-a-blast)
- - [Helldivers 2’s comedy comes from propaganda — that’s why it’s so fun](https://www.polygon.com/24121055/helldivers-2-narrative-propaganda-major-orders-arrowhead)
- - [Destiny 2 Hype, Dragon&#39;s Dogma 2 Hate, And More Of The Week&#39;s Gaming Opinions](https://kotaku.com/dragons-dogma-2-destiny-palworld-ff14-nyt-connections-1851391014)<!-- GAME:END -->
+ - [Cyberpunk 2077 quest lead says we still haven&#39;t found every easter egg](https://www.pcgamer.com/games/rpg/cyberpunk-2077-quest-lead-says-we-still-havent-found-every-easter-egg)
+ - [Dragon&#39;s Dogma 2 modders have already cranked out a bunch of ways to mitigate its freaky digital murder plague](https://www.pcgamer.com/games/rpg/dragons-dogma-2-modders-have-already-cranked-out-a-bunch-of-ways-to-mitigate-its-freaky-digital-murder-plague)
+ - [WoW Classic devs on the changes they&#39;ve liked most in Season of Discovery so far: &#39;It just sounds like utter chaos, but I&#39;ve just been having a blast&#39;](https://www.pcgamer.com/games/mmo/wow-classic-devs-on-the-changes-theyve-liked-most-in-season-of-discovery-so-far-it-just-sounds-like-utter-chaos-but-ive-just-been-having-a-blast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
