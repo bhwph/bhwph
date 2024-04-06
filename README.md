@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rooms is a delightful escape](https://www.theverge.com/24121394/rooms-app-ios-ipad-design-organization)
- - [Save $100 on the LG XBOOM in time for summer](https://www.androidauthority.com/lg-xboom-rnc5-speaker-deal-3431948/)
- - [7 Best Water Leak Detectors &lpar;2024&rpar;: Smart Water, Temperature, and Humidity Sensors](https://www.wired.com/gallery/best-water-leak-detectors/)<!-- TECH:END -->
+ - [Google’s Pixel Buds Pro are $60 off in all colors — including the newest shades](https://www.theverge.com/2024/4/6/24120061/google-pixel-buds-pro-logitech-litra-beam-key-light-nintendo-switch-lite-deal-sale)
+ - [Apple appeals US trade ban on Apple Watches](https://appleinsider.com/articles/24/04/06/apple-appeals-us-trade-ban-on-apple-watches?utm_medium=rss)
+ - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-529-3431842/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
