@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC&#39;s swift response to the earthquake highlights the readiness of Taiwan&#39;s chip sector, and experts say Japan&#39;s chip industry is similarly well-prepared &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240406/p3#a240406p3)
  - [Wiz details two now-fixed security issues on the Hugging Face AI platform that put customer data at risk, as Hugging Face partners with Wiz to improve security &lpar;Kevin Poireault/Infosecurity&rpar;](http://www.techmeme.com/240406/p2#a240406p2)
- - [This new gadget lets you run Samsung Dex on your car screen](https://www.androidauthority.com/samsung-dex-car-display-auto-pro-x-3431961/)
- - [Belgium-based Robovision, which offers AI-based no-code computer vision tools to businesses, raised a $42M Series A co-led by Astanor Ventures and Target Global &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/240406/p1#a240406p1)<!-- TECH:END -->
+ - [This new gadget lets you run Samsung Dex on your car screen](https://www.androidauthority.com/samsung-dex-car-display-auto-pro-x-3431961/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
