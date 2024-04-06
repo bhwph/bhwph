@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title](http://9gag.com/gag/aO8ogdM)
- - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 👉 [Based Gorl](http://9gag.com/gag/aqy94ZQ)<!-- MEMES:END -->
+ - 6️⃣ [When you have been doing it for decades, but once OSHA comes...](http://9gag.com/gag/a6ZmwGN)
+ - 😝 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
+ - 👉 [Charles did not care about getting cancelled](http://9gag.com/gag/aE0dr7p)<!-- MEMES:END -->
 
 --- 
 
