@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel Buds Pro are $60 off in all colors — including the newest shades](https://www.theverge.com/2024/4/6/24120061/google-pixel-buds-pro-logitech-litra-beam-key-light-nintendo-switch-lite-deal-sale)
- - [Apple appeals US trade ban on Apple Watches](https://appleinsider.com/articles/24/04/06/apple-appeals-us-trade-ban-on-apple-watches?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-529-3431842/)<!-- TECH:END -->
+ - [Apple licenses millions of Shutterstock images to train its AI models](https://appleinsider.com/articles/24/04/06/apple-licenses-millions-of-shutterstock-images-to-train-its-ai-models?utm_medium=rss)
+ - [Report: Google changed its privacy policy in June 2022 to more broadly cover its use of publicly available content, including Google Docs, to train AI models &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/240406/p9#a240406p9)
+ - [Best 3D-Printing Accessories of 2024     - CNET](https://www.cnet.com/tech/computing/best-3d-printing-accessories-make-the-most-of-your-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
