@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No freeloading](http://9gag.com/gag/a7oLvyA)
- - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 👉 [First, Look How Fast and Skillfully this Car is Repossessed. Done? Ok Now You Can Racism](http://9gag.com/gag/ayN7EPb)<!-- MEMES:END -->
+ - 6️⃣ [First, Look How Fast and Skillfully this Car is Repossessed. Done? Ok Now You Can Racism](http://9gag.com/gag/ayN7EPb)
+ - 😝 [Based Gorl](http://9gag.com/gag/aqy94ZQ)
+ - 👉 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)<!-- MEMES:END -->
 
 --- 
 
