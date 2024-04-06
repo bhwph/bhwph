@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Even if they must hire diversity..there must be better options out there...](http://9gag.com/gag/aGyYYrK)
- - 😝 [Oof](http://9gag.com/gag/abA39qE)
- - 👉 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)<!-- MEMES:END -->
+ - 6️⃣ [I have a koschen.](http://9gag.com/gag/apRKyx8)
+ - 😝 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)
+ - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
 
 --- 
 
