@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Email: Galaxy Digital&#39;s venture arm, which has long invested its own money, is raising a $100M fund with outside capital, focused on early-stage crypto startups &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240406/p10#a240406p10)
  - [Apple licenses millions of Shutterstock images to train its AI models](https://appleinsider.com/articles/24/04/06/apple-licenses-millions-of-shutterstock-images-to-train-its-ai-models?utm_medium=rss)
- - [Report: Google changed its privacy policy in June 2022 to more broadly cover its use of publicly available content, including Google Docs, to train AI models &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/240406/p9#a240406p9)
- - [Best 3D-Printing Accessories of 2024     - CNET](https://www.cnet.com/tech/computing/best-3d-printing-accessories-make-the-most-of-your-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Report: Google changed its privacy policy in June 2022 to more broadly cover its use of publicly available content, including Google Docs, to train AI models &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/240406/p9#a240406p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
