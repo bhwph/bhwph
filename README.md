@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Math is more important](http://9gag.com/gag/aqy94qL)
- - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
- - 👉 [Ragequit](http://9gag.com/gag/aZZbPn6)<!-- MEMES:END -->
+ - 6️⃣ [Just insane....](http://9gag.com/gag/agm33MW)
+ - 😝 [Life, you need a helping hand.](http://9gag.com/gag/aqy99jj)
+ - 👉 [Never fight someone whose excited to fight...](http://9gag.com/gag/a1mvp76)<!-- MEMES:END -->
 
 --- 
 
