@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 😝 [Lies and white lies only.](http://9gag.com/gag/a87dBNY)
- - 👉 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)<!-- MEMES:END -->
+ - 6️⃣ [No freeloading](http://9gag.com/gag/a7oLvyA)
+ - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
+ - 👉 [First, Look How Fast and Skillfully this Car is Repossessed. Done? Ok Now You Can Racism](http://9gag.com/gag/ayN7EPb)<!-- MEMES:END -->
 
 --- 
 
