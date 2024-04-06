@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A ‘summarize this email’ button is coming to the Gmail app](https://www.androidauthority.com/email-summaries-gmail-app-android-3431978/)
- - [Best Amazon Deals: Big Savings on Samsung Monitors, Power Stations, Cookware and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-big-savings-on-samsung-monitors-power-stations-cookware-and-more/#ftag=CAD590a51e)
- - [Identity Thief Lived as a Different Man for 33 Years](https://www.wired.com/story/identity-thief-lived-as-a-different-man-for-33-years/)<!-- TECH:END -->
+ - [Sources: Meta debated buying a publisher like Simon &amp; Schuster for AI training data and weighed using copyrighted online data even if that meant facing lawsuits &lpar;New York Times&rpar;](http://www.techmeme.com/240406/p6#a240406p6)
+ - [The PlayStation Vita still rules](https://www.theverge.com/24121232/sony-playstation-vita-steam-deck-switch)
+ - [Sources: OpenAI transcribed 1M+ hours of YouTube videos through Whisper and used the text to train GPT-4; Google also transcribed YouTube videos to harvest text &lpar;New York Times&rpar;](http://www.techmeme.com/240406/p5#a240406p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
