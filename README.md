@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That accent](http://9gag.com/gag/aAyRY2E)
- - 😝 [Ragequit](http://9gag.com/gag/aZZbPn6)
- - 👉 [*grabs popcorn](http://9gag.com/gag/aMVepw6)<!-- MEMES:END -->
+ - 6️⃣ [Math is more important](http://9gag.com/gag/aqy94qL)
+ - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
+ - 👉 [Ragequit](http://9gag.com/gag/aZZbPn6)<!-- MEMES:END -->
 
 --- 
 
