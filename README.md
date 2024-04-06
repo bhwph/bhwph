@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First, Look How Fast and Skillfully this Car is Repossessed. Done? Ok Now You Can Racism](http://9gag.com/gag/ayN7EPb)
- - 😝 [Based Gorl](http://9gag.com/gag/aqy94ZQ)
- - 👉 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)<!-- MEMES:END -->
+ - 6️⃣ [Even if they must hire diversity..there must be better options out there...](http://9gag.com/gag/aGyYYrK)
+ - 😝 [Oof](http://9gag.com/gag/abA39qE)
+ - 👉 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)<!-- MEMES:END -->
 
 --- 
 
