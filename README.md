@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC&#39;s swift response to the earthquake highlights the readiness of Taiwan&#39;s chip sector, and experts say Japan&#39;s chip industry is similarly well-prepared &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240406/p3#a240406p3)
- - [Wiz details two now-fixed security issues on the Hugging Face AI platform that put customer data at risk, as Hugging Face partners with Wiz to improve security &lpar;Kevin Poireault/Infosecurity&rpar;](http://www.techmeme.com/240406/p2#a240406p2)
- - [This new gadget lets you run Samsung Dex on your car screen](https://www.androidauthority.com/samsung-dex-car-display-auto-pro-x-3431961/)<!-- TECH:END -->
+ - [A ‘summarize this email’ button is coming to the Gmail app](https://www.androidauthority.com/email-summaries-gmail-app-android-3431978/)
+ - [Best Amazon Deals: Big Savings on Samsung Monitors, Power Stations, Cookware and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-big-savings-on-samsung-monitors-power-stations-cookware-and-more/#ftag=CAD590a51e)
+ - [Identity Thief Lived as a Different Man for 33 Years](https://www.wired.com/story/identity-thief-lived-as-a-different-man-for-33-years/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
