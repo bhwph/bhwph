@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 quest lead says we still haven&#39;t found every easter egg](https://www.pcgamer.com/games/rpg/cyberpunk-2077-quest-lead-says-we-still-havent-found-every-easter-egg)
- - [Dragon&#39;s Dogma 2 modders have already cranked out a bunch of ways to mitigate its freaky digital murder plague](https://www.pcgamer.com/games/rpg/dragons-dogma-2-modders-have-already-cranked-out-a-bunch-of-ways-to-mitigate-its-freaky-digital-murder-plague)
- - [WoW Classic devs on the changes they&#39;ve liked most in Season of Discovery so far: &#39;It just sounds like utter chaos, but I&#39;ve just been having a blast&#39;](https://www.pcgamer.com/games/mmo/wow-classic-devs-on-the-changes-theyve-liked-most-in-season-of-discovery-so-far-it-just-sounds-like-utter-chaos-but-ive-just-been-having-a-blast)<!-- GAME:END -->
+ - [Frostpunk 2&#39;s beta hits on April 15](https://www.pcgamer.com/games/city-builder/frostpunk-2s-beta-hits-on-april-15)
+ - [Larian publishing director on mass layoffs: &#39;None of these companies are at risk of going bankrupt. They were just at risk of pissing off the shareholders&#39;](https://www.pcgamer.com/games/rpg/larian-publishing-director-on-mass-layoffs-none-of-these-companies-are-at-risk-of-going-bankrupt-they-were-just-at-risk-of-pissing-off-the-shareholders)
+ - [Cyberpunk 2077 quest lead says we still haven&#39;t found every easter egg](https://www.pcgamer.com/games/rpg/cyberpunk-2077-quest-lead-says-we-still-havent-found-every-easter-egg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
