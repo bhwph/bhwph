@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Jony Ive and Sam Altman&#39;s AI device startup is in funding talks with Emerson Collective and Thrive Capital; Ive wants to raise up to $1B in funding &lpar;The Information&rpar;](http://www.techmeme.com/240405/p21#a240405p21)
- - [Anker’s folding Qi2 charger and other power banks are up to 30 percent off](https://www.theverge.com/2024/4/5/24122269/anker-maggo-power-bank-portable-qi2-charger-deal-sale)
- - [Disgraced iMessage-on-Android app can’t take the hint, is back for more](https://www.androidauthority.com/sunbird-relaunches-app-3431903/)<!-- TECH:END -->
+ - [Jony Ive is now looking for funding to jump on the AI development train](https://appleinsider.com/articles/24/04/06/jony-ive-is-now-looking-for-funding-to-jump-on-the-ai-development-train?utm_medium=rss)
+ - [Snapchat turns off Solar System, which lets users see their position in their friends&#39; orbits, by default, after a report said it was adding to teens&#39; anxiety &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240405/p25#a240405p25)
+ - [Tesla Is Going All In on Robotaxis—Buckle Up](https://www.wired.com/story/tesla-going-all-in-on-robotaxis/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
