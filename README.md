@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A list of stupid names for the Switch 2](https://www.polygon.com/nintendo/24121278/nintendo-switch-2-bad-name-suggestions)
- - [The best movies new to streaming this April](https://www.polygon.com/what-to-watch/2024/4/6/24118158/best-new-movies-netflix-amazon-prime-max-hulu-april-2024)
- - [Real Hollow Knight Silksong News, Fake April Fools&#39; Jokes, And More Of This Week&#39;s Biggest Stories](https://kotaku.com/real-hollow-knight-silksong-news-fake-april-fools-joke-1851391012)<!-- GAME:END -->
+ - [Helldivers 2’s comedy comes from propaganda — that’s why it’s so fun](https://www.polygon.com/24121055/helldivers-2-narrative-propaganda-major-orders-arrowhead)
+ - [Destiny 2 Hype, Dragon&#39;s Dogma 2 Hate, And More Of The Week&#39;s Gaming Opinions](https://kotaku.com/dragons-dogma-2-destiny-palworld-ff14-nyt-connections-1851391014)
+ - [Apple’s new doc was shot at the perfect time to be absolutely infuriating](https://www.polygon.com/24121541/girls-state-review-documentary-political-abortion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
