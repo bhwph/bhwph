@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
- - 😝 [Oof](http://9gag.com/gag/abA39qE)
- - 👉 [I need translation](http://9gag.com/gag/a2vEQ9E)<!-- MEMES:END -->
+ - 6️⃣ [Title](http://9gag.com/gag/aO8ogdM)
+ - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
+ - 👉 [Based Gorl](http://9gag.com/gag/aqy94ZQ)<!-- MEMES:END -->
 
 --- 
 
