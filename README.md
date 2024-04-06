@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
- - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 👉 [That accent](http://9gag.com/gag/aAyRY2E)<!-- MEMES:END -->
+ - 6️⃣ [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)
+ - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
+ - 👉 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)<!-- MEMES:END -->
 
 --- 
 
