@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta debated buying a publisher like Simon &amp; Schuster for AI training data and weighed using copyrighted online data even if that meant facing lawsuits &lpar;New York Times&rpar;](http://www.techmeme.com/240406/p6#a240406p6)
- - [The PlayStation Vita still rules](https://www.theverge.com/24121232/sony-playstation-vita-steam-deck-switch)
- - [Sources: OpenAI transcribed 1M+ hours of YouTube videos through Whisper and used the text to train GPT-4; Google also transcribed YouTube videos to harvest text &lpar;New York Times&rpar;](http://www.techmeme.com/240406/p5#a240406p5)<!-- TECH:END -->
+ - [Rooms is a delightful escape](https://www.theverge.com/24121394/rooms-app-ios-ipad-design-organization)
+ - [Save $100 on the LG XBOOM in time for summer](https://www.androidauthority.com/lg-xboom-rnc5-speaker-deal-3431948/)
+ - [7 Best Water Leak Detectors &lpar;2024&rpar;: Smart Water, Temperature, and Humidity Sensors](https://www.wired.com/gallery/best-water-leak-detectors/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
