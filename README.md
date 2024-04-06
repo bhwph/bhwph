@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Stop Killing Games&#39; campaign demands end to live service shutdowns: &#39;It is an assault on both consumer rights and preservation of media&#39;](https://www.pcgamer.com/gaming-industry/stop-killing-games-campaign)
- - [I&#39;ve waited so long for this freaky Lovecraftian point and click adventure that my life completely changed in the meantime, but it&#39;s finally out on PC](https://www.pcgamer.com/games/adventure/ive-waited-so-long-for-this-freaky-lovecraftian-point-and-click-adventure-that-my-life-completely-changed-in-the-meantime-but-its-finally-out-on-pc)
- - [This base-building automation game looks like Factorio in space with bullet hell combat and Dyson spheres](https://www.pcgamer.com/games/action/this-base-building-automation-game-looks-like-factorio-in-space-with-bullet-hell-combat-and-dyson-spheres)<!-- GAME:END -->
+ - [How the WoW Classic team decides what to change in the 20-year-old game](https://www.pcgamer.com/games/mmo/how-the-wow-classic-team-decides-what-to-change-in-the-20-year-old-game)
+ - [Splinter Cell fans are getting excited about a possible update on the remake in June](https://www.pcgamer.com/games/action/splinter-cell-fans-are-getting-excited-about-a-possible-update-on-the-remake-in-june)
+ - [WoW Classic Season of Discovery devs are aiming for &#39;fun,&#39; not &#39;perfect balance&#39;](https://www.pcgamer.com/games/mmo/wow-classic-season-of-discovery-balance-fun)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
