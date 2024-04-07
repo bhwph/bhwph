@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The three parts of Total War: Warhammer 3&#39;s next DLC, Thrones of Decay, will be available individually](https://www.pcgamer.com/games/strategy/the-three-parts-of-total-war-warhammer-3s-next-dlc-thrones-of-decay-will-be-available-individually)
- - [Darktide&#39;s first update for 2024 revises penances, adds puzzles, pox gas, and a new enemy](https://www.pcgamer.com/games/fps/darktides-first-update-for-2024-revises-penances-adds-puzzles-pox-gas-and-a-new-enemy)
- - [Use towers, traps, and guns to repel spaceship boarders in tower defense-shooter hybrid Sentry](https://www.pcgamer.com/games/use-towers-traps-and-guns-to-repel-boarders-on-your-spaceship-in-tower-defense-shooter-hybrid-sentry)<!-- GAME:END -->
+ - [The collector scene that treats big-eyed dolls like custom gaming PCs](https://www.polygon.com/24119148/custom-blythe-dolls-collecting-modding)
+ - [Today&#39;s Wordle answer for Sunday, April 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-7-2024)
+ - [The three parts of Total War: Warhammer 3&#39;s next DLC, Thrones of Decay, will be available individually](https://www.pcgamer.com/games/strategy/the-three-parts-of-total-war-warhammer-3s-next-dlc-thrones-of-decay-will-be-available-individually)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
