@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just insane....](http://9gag.com/gag/agm33MW)
- - 😝 [Life, you need a helping hand.](http://9gag.com/gag/aqy99jj)
- - 👉 [Never fight someone whose excited to fight...](http://9gag.com/gag/a1mvp76)<!-- MEMES:END -->
+ - 6️⃣ [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
+ - 😝 [Ragequit](http://9gag.com/gag/aZZbPn6)
+ - 👉 [The West is cooked.](http://9gag.com/gag/aAyBn2Z)<!-- MEMES:END -->
 
 --- 
 
