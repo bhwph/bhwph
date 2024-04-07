@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple teases new Immersive Video for Apple Vision Pro coming April 19th](https://appleinsider.com/articles/24/04/07/apple-teases-new-immersive-video-for-apple-vision-pro-coming-april-19th?utm_medium=rss)
- - [Canada unveils a CA$2.4B fund to boost its AI sector by giving access to computing capabilities and technical infrastructure and creates its AI Safety Institute &lpar;Mathieu Dion/Bloomberg&rpar;](http://www.techmeme.com/240407/p5#a240407p5)
- - [Protesters close Chicago Apple Store over Palestinian employee firing](https://appleinsider.com/articles/24/04/07/protesters-close-chicago-apple-store-over-palestinian-employee-firing?utm_medium=rss)<!-- TECH:END -->
+ - [Best High-Speed Internet Providers of 2024     - CNET](https://www.cnet.com/home/internet/best-high-speed-internet/#ftag=CAD590a51e)
+ - [Elon Musk says X is &quot;lifting all restrictions&quot; it imposed in Brazil after a court ruling to block &quot;certain popular accounts&quot; and is defying the court&#39;s ruling &lpar;Anthony Boadle/Reuters&rpar;](http://www.techmeme.com/240407/p6#a240407p6)
+ - [Unlock Donghua Jinlong’s food grade glycine](https://www.theverge.com/2024/4/7/24123519/donghua-jinlong-food-grade-glycine-tiktok-algorithm-memes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
