@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Repost deluxe](http://9gag.com/gag/amoNXoy)
- - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
- - 👉 [They talking about us!](http://9gag.com/gag/ajPYYLq)<!-- MEMES:END -->
+ - 6️⃣ [Hey](http://9gag.com/gag/aO8KmAN)
+ - 😝 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)
+ - 👉 [Honestly](http://9gag.com/gag/aGyYRO0)<!-- MEMES:END -->
 
 --- 
 
