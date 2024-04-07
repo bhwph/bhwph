@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sometimes, history hurts](http://9gag.com/gag/apREEEn)
- - 😝 [Math is more important](http://9gag.com/gag/aqy94qL)
- - 👉 [Guy makes hookers smile lol.](http://9gag.com/gag/aryvp16)<!-- MEMES:END -->
+ - 6️⃣ [Math is more important](http://9gag.com/gag/aqy94qL)
+ - 😝 [How much do you charge for AC installation? Yes!](http://9gag.com/gag/aqy9mE7)
+ - 👉 [Former Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977](http://9gag.com/gag/aqy9NpZ)<!-- MEMES:END -->
 
 --- 
 
