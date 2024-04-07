@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Teenage Engineering TP-7 Field Recorder Review: Price, Specs, Availability, Features](https://www.wired.com/review/teenage-engineering-tp-7/)
- - [Total Solar Eclipse of April 8, 2024: Watch Online, What Time, Path of Totality](https://www.wired.com/story/total-solar-eclipse-2024-watch-online/)
- - [A look at Huawei&#39;s efforts to make HarmonyOS a formidable rival to iOS and Android; Counterpoint: 16% of smartphones sold in China in Q4 2023 used HarmonyOS &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240407/p3#a240407p3)<!-- TECH:END -->
+ - [Apple&#39;s future smart home ambitions leverage robotics, and go far beyond simple HomeKit lights](https://appleinsider.com/articles/24/04/07/apples-future-smart-home-ambitions-leverage-robotics-and-go-far-beyond-simple-homekit-lights?utm_medium=rss)
+ - [Cherry MX2A Review: A Revamped Classic](https://www.wired.com/review/cherry-mx2a/)
+ - [13 Best Mobile Game Controllers &lpar;2024&rpar;: iPhone or Android](https://www.wired.com/gallery/best-mobile-game-controllers-for-iphone-android/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
