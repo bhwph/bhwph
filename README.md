@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says a fix is coming for that S23 fingerprint bug after One UI 6.1](https://www.androidauthority.com/samsung-galaxy-s23-fingerprint-bug-one-ui-6-1-fix-3432029/)
- - [How to download and install Google Chrome on any device](https://www.androidauthority.com/download-install-google-chrome-3140667/)
- - [Don&#39;t Buy Outdoor Furniture Until You Ask These 5 Questions     - CNET](https://www.cnet.com/how-to/dont-buy-outdoor-furniture-until-you-ask-these-5-questions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Teenage Engineering TP-7 Field Recorder Review: Price, Specs, Availability, Features](https://www.wired.com/review/teenage-engineering-tp-7/)
+ - [Total Solar Eclipse of April 8, 2024: Watch Online, What Time, Path of Totality](https://www.wired.com/story/total-solar-eclipse-2024-watch-online/)
+ - [A look at Huawei&#39;s efforts to make HarmonyOS a formidable rival to iOS and Android; Counterpoint: 16% of smartphones sold in China in Q4 2023 used HarmonyOS &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240407/p3#a240407p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
