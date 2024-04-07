@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Frostpunk 2&#39;s beta hits on April 15](https://www.pcgamer.com/games/city-builder/frostpunk-2s-beta-hits-on-april-15)
- - [Larian publishing director on mass layoffs: &#39;None of these companies are at risk of going bankrupt. They were just at risk of pissing off the shareholders&#39;](https://www.pcgamer.com/games/rpg/larian-publishing-director-on-mass-layoffs-none-of-these-companies-are-at-risk-of-going-bankrupt-they-were-just-at-risk-of-pissing-off-the-shareholders)
- - [Cyberpunk 2077 quest lead says we still haven&#39;t found every easter egg](https://www.pcgamer.com/games/rpg/cyberpunk-2077-quest-lead-says-we-still-havent-found-every-easter-egg)<!-- GAME:END -->
+ - [The three parts of Total War: Warhammer 3&#39;s next DLC, Thrones of Decay, will be available individually](https://www.pcgamer.com/games/strategy/the-three-parts-of-total-war-warhammer-3s-next-dlc-thrones-of-decay-will-be-available-individually)
+ - [Darktide&#39;s first update for 2024 revises penances, adds puzzles, pox gas, and a new enemy](https://www.pcgamer.com/games/fps/darktides-first-update-for-2024-revises-penances-adds-puzzles-pox-gas-and-a-new-enemy)
+ - [Use towers, traps, and guns to repel spaceship boarders in tower defense-shooter hybrid Sentry](https://www.pcgamer.com/games/use-towers-traps-and-guns-to-repel-boarders-on-your-spaceship-in-tower-defense-shooter-hybrid-sentry)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
