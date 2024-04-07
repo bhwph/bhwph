@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Protesters close Chicago Apple Store over Palestinian employee firing](https://appleinsider.com/articles/24/04/07/protesters-close-chicago-apple-store-over-palestinian-employee-firing?utm_medium=rss)
- - [AI is taking over your web browser](https://www.theverge.com/24122230/ai-web-browsers-opera-brave-jon-stewart-john-oliver-delivery-lego-installer-newsletter)
- - [Who is Apple’s rumored OLED iPad Pro for?](https://www.theverge.com/2024/4/7/24123337/apple-oled-ipad-pro-release-may-13-inch-ipad-air-magic-keyboard-apple-pencil)<!-- TECH:END -->
+ - [Apple teases new Immersive Video for Apple Vision Pro coming April 19th](https://appleinsider.com/articles/24/04/07/apple-teases-new-immersive-video-for-apple-vision-pro-coming-april-19th?utm_medium=rss)
+ - [Canada unveils a CA$2.4B fund to boost its AI sector by giving access to computing capabilities and technical infrastructure and creates its AI Safety Institute &lpar;Mathieu Dion/Bloomberg&rpar;](http://www.techmeme.com/240407/p5#a240407p5)
+ - [Protesters close Chicago Apple Store over Palestinian employee firing](https://appleinsider.com/articles/24/04/07/protesters-close-chicago-apple-store-over-palestinian-employee-firing?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
