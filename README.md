@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mining and base-building sandbox Hydroneer has a sprawling new expansion of volcanos and glaciers](https://www.pcgamer.com/games/survival-crafting/mining-and-base-building-sandbox-hydroneer-has-a-sprawling-new-expansion-of-volcanos-and-glaciers)
- - [Last Epoch cracks down on item duplicates and gold exploit: &#39;We don&#39;t think it&#39;s a very controversial statement to say that abusing an exploit, ruining the game for all players is not acceptable, and that doing so should result in a ban&#39;](https://www.pcgamer.com/games/action/last-epoch-cracks-down-on-item-duplicates-and-gold-exploit-we-dont-think-its-a-very-controversial-statement-to-say-that-abusing-an-exploit-ruining-the-game-for-all-players-is-not-acceptable-and-that-doing-so-should-result-in-a-ban)
- - [The collector scene that treats big-eyed dolls like custom gaming PCs](https://www.polygon.com/24119148/custom-blythe-dolls-collecting-modding)<!-- GAME:END -->
+ - [The best limited series to watch on Netflix](https://www.polygon.com/what-to-watch/24119976/best-limited-mini-series-netflix-watch-streaming)
+ - [FF7 Rebirth Combat Tricks, Dragon&#39;s Dogma 2 Dragonsplague Help, And More Of The Week&#39;s Tips](https://kotaku.com/ff7-rebirth-tips-tricks-dragons-dogma-2-fortnite-1851391013)
+ - [Dragon’s Dogma 2 is all about the journey — of figuring out how to even play it](https://www.polygon.com/reviews/24122319/dragons-dogma-2-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
