@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [China politely telling a former empire how insignificant they have become LOL](http://9gag.com/gag/avypZZZ)
+ - 6️⃣ [Repost deluxe](http://9gag.com/gag/amoNXoy)
  - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
- - 👉 [That accent](http://9gag.com/gag/aAyRY2E)<!-- MEMES:END -->
+ - 👉 [They talking about us!](http://9gag.com/gag/ajPYYLq)<!-- MEMES:END -->
 
 --- 
 
