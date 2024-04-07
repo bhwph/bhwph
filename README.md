@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Repost deluxe](http://9gag.com/gag/amoNXoy)
- - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
- - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
+ - 6️⃣ [Meet Moon-Moon the asshole](http://9gag.com/gag/a9ybd2K)
+ - 😝 [What did he do?](http://9gag.com/gag/aVvzW4y)
+ - 👉 [A true classic, now with pixels!](http://9gag.com/gag/aO8Kowy)<!-- MEMES:END -->
 
 --- 
 
