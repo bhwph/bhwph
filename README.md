@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The fantasy sequel to Fights in Tight Spaces is just called Knights in Tight Spaces, and it has a demo out now](https://www.pcgamer.com/games/strategy/the-fantasy-sequel-to-fights-in-tight-spaces-is-just-called-knights-in-tight-spaces-and-it-has-a-demo-out-now)
- - [A map revamp means your giant factory-cities in Captain of Industry are going to look better than ever](https://www.pcgamer.com/games/a-map-revamp-means-your-giant-factory-cities-in-captain-of-industry-are-going-to-look-better-than-ever)
- - [Final Fantasy 14 and 16 big cheese Yoshi-P says &#39;It&#39;s probably about time&#39; they do a new Final Fantasy Tactics game](https://www.pcgamer.com/games/rpg/final-fantasy-14-and-16-big-cheese-yoshi-p-says-its-probably-about-time-they-do-a-new-final-fantasy-tactics-game)<!-- GAME:END -->
+ - [No Man&#39;s Sky lead Sean Murray celebrates a 1% improvement in Steam reviews because each point is just that much harder to earn than the last](https://www.pcgamer.com/games/sim/no-mans-sky-lead-sean-murray-celebrates-a-1-improvement-in-steam-reviews-because-each-point-is-just-that-much-harder-to-earn-than-the-last)
+ - [9 years in, rhythm dungeon crawler Crypt of the NecroDancer just got a Hatsune Miku crossover DLC](https://www.pcgamer.com/games/roguelike/9-years-in-rhythm-dungeon-crawler-crypt-of-the-necrodancer-just-got-a-hatsune-miku-crossover-dlc)
+ - [Helldivers 2 players just wiped out an entire enemy faction, so what on Super Earth happens now?](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-just-wiped-out-an-entire-enemy-faction-so-what-on-super-earth-happens-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
