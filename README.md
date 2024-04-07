@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Math is more important](http://9gag.com/gag/aqy94qL)
- - 😝 [How much do you charge for AC installation? Yes!](http://9gag.com/gag/aqy9mE7)
- - 👉 [Former Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977](http://9gag.com/gag/aqy9NpZ)<!-- MEMES:END -->
+ - 6️⃣ [China politely telling a former empire how insignificant they have become LOL](http://9gag.com/gag/avypZZZ)
+ - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
+ - 👉 [That accent](http://9gag.com/gag/aAyRY2E)<!-- MEMES:END -->
 
 --- 
 
