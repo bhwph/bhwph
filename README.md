@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
- - 😝 [Ragequit](http://9gag.com/gag/aZZbPn6)
- - 👉 [The West is cooked.](http://9gag.com/gag/aAyBn2Z)<!-- MEMES:END -->
+ - 6️⃣ [Force vs Strategy](http://9gag.com/gag/agm30b1)
+ - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
+ - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
 
 --- 
 
