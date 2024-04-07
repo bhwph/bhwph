@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best limited series to watch on Netflix](https://www.polygon.com/what-to-watch/24119976/best-limited-mini-series-netflix-watch-streaming)
- - [FF7 Rebirth Combat Tricks, Dragon&#39;s Dogma 2 Dragonsplague Help, And More Of The Week&#39;s Tips](https://kotaku.com/ff7-rebirth-tips-tricks-dragons-dogma-2-fortnite-1851391013)
- - [Dragon’s Dogma 2 is all about the journey — of figuring out how to even play it](https://www.polygon.com/reviews/24122319/dragons-dogma-2-review)<!-- GAME:END -->
+ - [You can get Obsidian&#39;s fantastic RPG The Outer Worlds &lpar;and all its DLC&rpar; for free on the Epic Store this week](https://www.pcgamer.com/games/rpg/you-can-get-obsidians-fantastic-rpg-the-outer-worlds-and-all-its-dlc-for-free-on-the-epic-store-this-week)
+ - [Fallout: New Vegas endures because of big clunky story swings](https://www.polygon.com/gaming/24121439/fallout-new-vegas-recommendations-classic-rpg-story)
+ - [The best limited series to watch on Netflix](https://www.polygon.com/what-to-watch/24119976/best-limited-mini-series-netflix-watch-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
