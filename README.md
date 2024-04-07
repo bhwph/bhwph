@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Target Circle Week Starts Now: All the Perks You Get With Circle Rewards     - CNET](https://www.cnet.com/tech/mobile/target-circle-week-starts-today-all-the-perks-you-get-with-circle-rewards/#ftag=CAD590a51e)
  - [Experts say the US government and tech companies are failing to mount a clear response to the theft of trade secrets by Chinese corporate and government spies &lpar;NBC News&rpar;](http://www.techmeme.com/240407/p2#a240407p2)
- - [Dune Analytics: decentralized exchange Uniswap tops $2T in all-time trading volume after breaching $1T in May 2022 and remains the largest DEX by trading volume &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/240407/p1#a240407p1)
- - [Don’t want to miss the eclipse? Google TV is giving users a way to watch for free!](https://www.androidauthority.com/google-tv-eclipse-coverage-3430197/)<!-- TECH:END -->
+ - [Dune Analytics: decentralized exchange Uniswap tops $2T in all-time trading volume after breaching $1T in May 2022 and remains the largest DEX by trading volume &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/240407/p1#a240407p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
