@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The collector scene that treats big-eyed dolls like custom gaming PCs](https://www.polygon.com/24119148/custom-blythe-dolls-collecting-modding)
- - [Today&#39;s Wordle answer for Sunday, April 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-7-2024)
- - [The three parts of Total War: Warhammer 3&#39;s next DLC, Thrones of Decay, will be available individually](https://www.pcgamer.com/games/strategy/the-three-parts-of-total-war-warhammer-3s-next-dlc-thrones-of-decay-will-be-available-individually)<!-- GAME:END -->
+ - [Mining and base-building sandbox Hydroneer has a sprawling new expansion of volcanos and glaciers](https://www.pcgamer.com/games/survival-crafting/mining-and-base-building-sandbox-hydroneer-has-a-sprawling-new-expansion-of-volcanos-and-glaciers)
+ - [Last Epoch cracks down on item duplicates and gold exploit: &#39;We don&#39;t think it&#39;s a very controversial statement to say that abusing an exploit, ruining the game for all players is not acceptable, and that doing so should result in a ban&#39;](https://www.pcgamer.com/games/action/last-epoch-cracks-down-on-item-duplicates-and-gold-exploit-we-dont-think-its-a-very-controversial-statement-to-say-that-abusing-an-exploit-ruining-the-game-for-all-players-is-not-acceptable-and-that-doing-so-should-result-in-a-ban)
+ - [The collector scene that treats big-eyed dolls like custom gaming PCs](https://www.polygon.com/24119148/custom-blythe-dolls-collecting-modding)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
