@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s only for 6 mounths but it&#39;s opening new perspectives for me](http://9gag.com/gag/a0e890n)
- - 😝 [Being a dad mean sometimes making a fool of yourself for their enjoyment](http://9gag.com/gag/a9ybdM0)
- - 👉 [Let me guess, he\u2019s an Uncle Tom, right?](http://9gag.com/gag/amoNLvo)<!-- MEMES:END -->
+ - 6️⃣ [Repost deluxe](http://9gag.com/gag/amoNXoy)
+ - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
+ - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
 
 --- 
 
