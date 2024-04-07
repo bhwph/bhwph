@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s future smart home ambitions leverage robotics, and go far beyond simple HomeKit lights](https://appleinsider.com/articles/24/04/07/apples-future-smart-home-ambitions-leverage-robotics-and-go-far-beyond-simple-homekit-lights?utm_medium=rss)
- - [Cherry MX2A Review: A Revamped Classic](https://www.wired.com/review/cherry-mx2a/)
- - [13 Best Mobile Game Controllers &lpar;2024&rpar;: iPhone or Android](https://www.wired.com/gallery/best-mobile-game-controllers-for-iphone-android/)<!-- TECH:END -->
+ - [Protesters close Chicago Apple Store over Palestinian employee firing](https://appleinsider.com/articles/24/04/07/protesters-close-chicago-apple-store-over-palestinian-employee-firing?utm_medium=rss)
+ - [AI is taking over your web browser](https://www.theverge.com/24122230/ai-web-browsers-opera-brave-jon-stewart-john-oliver-delivery-lego-installer-newsletter)
+ - [Who is Apple’s rumored OLED iPad Pro for?](https://www.theverge.com/2024/4/7/24123337/apple-oled-ipad-pro-release-may-13-inch-ipad-air-magic-keyboard-apple-pencil)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
