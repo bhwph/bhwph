@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Force vs Strategy](http://9gag.com/gag/agm30b1)
- - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
- - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
+ - 6️⃣ [O_O](http://9gag.com/gag/a87LdR6)
+ - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
+ - 👉 [Wait what?](http://9gag.com/gag/aRBw6yQ)<!-- MEMES:END -->
 
 --- 
 
