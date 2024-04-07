@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Repost deluxe](http://9gag.com/gag/amoNXoy)
- - 😝 [Ragequit](http://9gag.com/gag/aZZbPn6)
- - 👉 [Wtf!](http://9gag.com/gag/abAXXKp)<!-- MEMES:END -->
+ - 6️⃣ [Sometimes, history hurts](http://9gag.com/gag/apREEEn)
+ - 😝 [Math is more important](http://9gag.com/gag/aqy94qL)
+ - 👉 [Guy makes hookers smile lol.](http://9gag.com/gag/aryvp16)<!-- MEMES:END -->
 
 --- 
 
