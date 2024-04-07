@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Final Fantasy 14 and 16 big cheese Yoshi-P says &#39;It&#39;s probably about time&#39; they do a new Final Fantasy Tactics game](https://www.pcgamer.com/games/rpg/final-fantasy-14-and-16-big-cheese-yoshi-p-says-its-probably-about-time-they-do-a-new-final-fantasy-tactics-game)
  - [You can get Obsidian&#39;s fantastic RPG The Outer Worlds &lpar;and all its DLC&rpar; for free on the Epic Store this week](https://www.pcgamer.com/games/rpg/you-can-get-obsidians-fantastic-rpg-the-outer-worlds-and-all-its-dlc-for-free-on-the-epic-store-this-week)
- - [Fallout: New Vegas endures because of big clunky story swings](https://www.polygon.com/gaming/24121439/fallout-new-vegas-recommendations-classic-rpg-story)
- - [The best limited series to watch on Netflix](https://www.polygon.com/what-to-watch/24119976/best-limited-mini-series-netflix-watch-streaming)<!-- GAME:END -->
+ - [Fallout: New Vegas endures because of big clunky story swings](https://www.polygon.com/gaming/24121439/fallout-new-vegas-recommendations-classic-rpg-story)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
