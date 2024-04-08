@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Antman in Thanos&#39; ass](http://9gag.com/gag/a7oLbYr)
- - 😝 [Such a good grip](http://9gag.com/gag/a87LWDp)
- - 👉 [Wow !](http://9gag.com/gag/aYQNpPN)<!-- MEMES:END -->
+ - 6️⃣ [Hey](http://9gag.com/gag/aO8KmAN)
+ - 😝 [That accent](http://9gag.com/gag/aAyRY2E)
+ - 👉 [There we go again...](http://9gag.com/gag/a6Zmy2q)<!-- MEMES:END -->
 
 --- 
 
