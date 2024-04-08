@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A comprehensive online privacy bill is one step closer after US Congressional leaders reach a tentative bipartisan deal](https://www.pcgamer.com/software/security/a-comprehensive-online-privacy-bill-is-one-step-closer-after-us-congressional-leaders-reach-a-tentative-bipartisan-deal)
- - [There&#39;s a Dragon&#39;s Dogma 2 mod to make pawns shut the hell up and thank goodness for that](https://www.pcgamer.com/games/action/theres-a-dragons-dogma-2-mod-to-make-your-pawns-shut-the-hell-up-and-thank-goodness-for-that)
- - [Today&#39;s Wordle answer for Monday, April 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-8-2024)<!-- GAME:END -->
+ - [Samsung predicts a bumper 2024, forecasting a 900% increase in profits for the first three months of the year](https://www.pcgamer.com/hardware/samsung-predicts-a-bumper-2024-forecasting-a-900-increase-in-profits-for-the-first-three-months-of-the-year)
+ - [The new Lego D&amp;D crossover set is pricey, but you can snag its fun, hot-wing filled adventure as a free PDF](https://www.pcgamer.com/games/board-games/the-new-lego-dandd-crossover-set-is-pricey-but-you-can-snag-its-fun-hot-wing-filled-adventure-as-a-free-pdf)
+ - [&#39;Hang in there&#39;: A fix for all those Helldivers 2 freeze-ups should ideally land &#39;well before the Warbond&#39;, says community manager](https://www.pcgamer.com/games/third-person-shooter/hang-in-there-a-fix-for-all-those-helldivers-2-freeze-ups-should-ideally-land-well-before-the-warbond-says-community-manager)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
