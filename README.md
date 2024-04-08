@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it’s cracked the code on an important quantum computing problem](https://www.theverge.com/2024/4/8/24120103/microsoft-says-its-cracked-the-code-on-an-important-quantum-computing-problem)
- - [5 Things you should know about Android’s new AirTag alternatives](https://www.androidauthority.com/android-new-airtag-alternatives-things-know-3432215/)
- - [You can now find your lost Pixel 8 phone even when it’s off!](https://www.androidauthority.com/find-pixel-8-phone-turned-off-3432235/)<!-- TECH:END -->
+ - [A look at the Amazon Labor Union, two years after its victory at an NYC facility, as the group is divided, running out of funds, and faces a leadership election &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/240408/p25#a240408p25)
+ - [The total eclipse shows us how important solar energy is to the US](https://www.theverge.com/2024/4/8/24124189/solar-eclipse-renewable-energy-panels-electricity-grid)
+ - [CYRILL UltraColor case for Samsung Galaxy S24 review: Should you buy it?](https://www.androidauthority.com/cyrill-ultracolor-case-samsung-galaxy-s24-review-3431275/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
