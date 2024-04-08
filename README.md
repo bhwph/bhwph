@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Brazilian Supreme Court justice opens inquiry into Elon Musk for obstruction of justice involving X and says X faces ~$20K/day in fines if it does not comply &lpar;Anthony Boadle/Reuters&rpar;](http://www.techmeme.com/240407/p9#a240407p9)
- - [Amazon, Best Buy battle for lowest iPad prices, with deals from $249](https://appleinsider.com/articles/24/04/07/amazon-best-buy-battle-for-lowest-ipad-prices-with-deals-from-249?utm_medium=rss)
- - [Lawmakers share a draft of the American Privacy Rights Act, which would create a registry of data brokers, let consumers opt out of some data collection, more &lpar;Orion Donovan Smith/Spokesman.com&rpar;](http://www.techmeme.com/240407/p8#a240407p8)<!-- TECH:END -->
+ - [Maryland&#39;s legislature passed two privacy bills, one restricting data collection practices and the other focused on minors&#39; safety on social platforms &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/240408/p1#a240408p1)
+ - [Want to photograph the eclipse with your phone? NASA has some tips for you](https://www.androidauthority.com/camera-phone-eclipse-3428448/)
+ - [Solar Eclipse Eye Safety: How to Protect Your Eyes When Viewing Nature&#39;s Wonder     - CNET](https://www.cnet.com/health/personal-care/solar-eclipse-eye-safety-why-you-need-to-wear-the-right-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
