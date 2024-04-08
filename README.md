@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unicorn Overlord is already 33% off at Amazon and other stores](https://www.polygon.com/2024/4/8/24124261/unicorn-overlord-deal-amazon-best-buy-ps5-xbox-switch)
- - [Fans Aren’t Alone, Final Fantasy XVI’s Producer Also Wants A New FF Tactics Game](https://kotaku.com/ff16-naoki-yoshida-wants-new-ff-tactics-game-1851395088)
- - [Jonathan Majors has been found guilty of assault and harassment](https://www.polygon.com/23691310/jonathan-majors-domestic-violence-allegations-kang-mcu-recast)<!-- GAME:END -->
+ - [Why Everybody Hates This Dragon&#39;s Dogma 2 NPC](https://kotaku.com/dragons-dogma-2-martin-ulrika-npc-murder-capcom-1851395318)
+ - [What time does Destiny 2: Into the Light release?](https://www.polygon.com/destiny-2-guide-walkthrough/2024/4/8/24124350/into-the-light-start-time-release-date)
+ - [Fallout, The Sympathizer, Kaiju No. 8, and more new TV this week](https://www.polygon.com/2024/4/8/24102441/new-tv-fallout-sympathizer-kaiju-no-8-premiere-time-date-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
