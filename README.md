@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona Fans Lose It As Leak Suggests Next Game&#39;s Color Scheme](https://kotaku.com/persona-6-color-scheme-leak-green-bucket-theory-1851395848)
- - [League of Legends is getting a Vampire Survivors-style mode this summer](https://www.polygon.com/24124492/league-of-legends-survivor-spin-off-summer-event)
- - [Where to find all Seeker’s Tokens in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24107917/seekers-tokens-vermund-map-location-reward)<!-- GAME:END -->
+ - [League of Legends is getting a Vampire Survivors-style PvE mode later this year](https://www.pcgamer.com/games/action/league-of-legends-is-getting-a-vampire-survivors-style-pve-mode-later-this-year)
+ - [Diablo 4 PTR players discover mysterious new items and an abandoned camp that could be clues for its next season and upcoming expansion](https://www.pcgamer.com/games/rpg/diablo-4-ptr-datamined-season-4-iron-wolves)
+ - [Nioh’s William Is Hiding In Rise Of The Ronin, And Here’s Where To Find Him](https://kotaku.com/rise-ronin-nioh-william-where-how-find-tip-guide-1851396068)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
