@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Check out this indie fusion of Terraria and Satisfactory](https://www.pcgamer.com/games/survival-crafting/check-out-this-indie-fusion-of-terraria-and-satisfactory)
  - [No Man&#39;s Sky lead Sean Murray celebrates a 1% improvement in Steam reviews because each point is just that much harder to earn than the last](https://www.pcgamer.com/games/sim/no-mans-sky-lead-sean-murray-celebrates-a-1-improvement-in-steam-reviews-because-each-point-is-just-that-much-harder-to-earn-than-the-last)
- - [9 years in, rhythm dungeon crawler Crypt of the NecroDancer just got a Hatsune Miku crossover DLC](https://www.pcgamer.com/games/roguelike/9-years-in-rhythm-dungeon-crawler-crypt-of-the-necrodancer-just-got-a-hatsune-miku-crossover-dlc)
- - [Helldivers 2 players just wiped out an entire enemy faction, so what on Super Earth happens now?](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-just-wiped-out-an-entire-enemy-faction-so-what-on-super-earth-happens-now)<!-- GAME:END -->
+ - [9 years in, rhythm dungeon crawler Crypt of the NecroDancer just got a Hatsune Miku crossover DLC](https://www.pcgamer.com/games/roguelike/9-years-in-rhythm-dungeon-crawler-crypt-of-the-necrodancer-just-got-a-hatsune-miku-crossover-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
