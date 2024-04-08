@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Maryland&#39;s legislature passed two privacy bills, one restricting data collection practices and the other focused on minors&#39; safety on social platforms &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/240408/p1#a240408p1)
- - [Want to photograph the eclipse with your phone? NASA has some tips for you](https://www.androidauthority.com/camera-phone-eclipse-3428448/)
- - [Solar Eclipse Eye Safety: How to Protect Your Eyes When Viewing Nature&#39;s Wonder     - CNET](https://www.cnet.com/health/personal-care/solar-eclipse-eye-safety-why-you-need-to-wear-the-right-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify launches AI playlists, letting you make a playlist with a prompt](https://www.androidauthority.com/spotify-ai-playlists-3432054/)
+ - [How the increasing use of unreliable AI-powered accessibility widgets on company websites to comply with regulations has prompted thousands of lawsuits globally &lpar;Joanna S Kao/Financial Times&rpar;](http://www.techmeme.com/240408/p4#a240408p4)
+ - [Google is pushing Gemini into another app on your Android phone](https://www.androidauthority.com/google-android-app-gemini-toggle-3432129/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
