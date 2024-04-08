@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: VC investment in crypto startups rose 32% QoQ to $2.5B in Q1 2024, down from $2.6B in Q1 2023, after a brutal year for crypto and blockchain startups &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240408/p14#a240408p14)
- - [KitchenAid Semi Automatic Espresso Machine Review: Quiet and Compact](https://www.wired.com/review/kitchenaid-semi-automatic-espresso-machine/)
- - [How to remove personal information from the internet -- and why you should](https://appleinsider.com/articles/24/04/08/how-to-remove-personal-information-from-the-internet?utm_medium=rss)<!-- TECH:END -->
+ - [Best Buy hops on $849 M2 MacBook Air bandwagon with latest deal](https://appleinsider.com/articles/24/04/08/best-buy-hops-on-849-m2-macbook-air-bandwagon-with-latest-deal?utm_medium=rss)
+ - [Astoundingly unsafe iMessage bridge Sunbird is back, and you still shouldn&#39;t use it](https://appleinsider.com/articles/24/04/08/astoundingly-unsafe-imessage-bridge-sunbird-is-back-and-you-still-shouldnt-use-it?utm_medium=rss)
+ - [Elon Musk and Brazil are beefing over X](https://www.theverge.com/2024/4/8/24124156/brazil-investigates-elon-musk-x-twitter-obstruction-of-justice)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
