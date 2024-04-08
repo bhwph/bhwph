@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let me guess, he\u2019s an Uncle Tom, right?](http://9gag.com/gag/amoNLvo)
- - 😝 [London resident gives a tour of her \u00a31850 per month apartment](http://9gag.com/gag/ayN7p3Y)
- - 👉 [Finally a Government with their brain intact](http://9gag.com/gag/a6Zm7mm)<!-- MEMES:END -->
+ - 6️⃣ [Zendaya isn&#39;t so bad now, is she?](http://9gag.com/gag/aNDrodA)
+ - 😝 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)
+ - 👉 [I could look it up, but I prefer asking you fellow nutjobs what you think about it.](http://9gag.com/gag/apRE0mW)<!-- MEMES:END -->
 
 --- 
 
