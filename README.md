@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Device that prevents lines from getting entangled in props](http://9gag.com/gag/aD2Aoyd)
- - 😝 [What you doing if this your girl?](http://9gag.com/gag/aLnRQoP)
- - 👉 [When You&#39;re learning English all your life and then you meet a native](http://9gag.com/gag/ae9j3Pm)<!-- MEMES:END -->
+ - 6️⃣ [ChooseYourSetup](http://9gag.com/gag/aNDrnmA)
+ - 😝 [Watch Joe Rogan change his opinion in real time when presented with a different perspective &lpar;with facts to back it up&rpar;](http://9gag.com/gag/aVvze9d)
+ - 👉 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)<!-- MEMES:END -->
 
 --- 
 
