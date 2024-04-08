@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Amazon Labor Union, two years after its victory at an NYC facility, as the group is divided, running out of funds, and faces a leadership election &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/240408/p25#a240408p25)
- - [The total eclipse shows us how important solar energy is to the US](https://www.theverge.com/2024/4/8/24124189/solar-eclipse-renewable-energy-panels-electricity-grid)
- - [CYRILL UltraColor case for Samsung Galaxy S24 review: Should you buy it?](https://www.androidauthority.com/cyrill-ultracolor-case-samsung-galaxy-s24-review-3431275/)<!-- TECH:END -->
+ - [Samsung turns it around, forecasts massive jump in profit for Q1 2024](https://www.androidauthority.com/samsung-q1-profit-forecast-2024-3432386/)
+ - [An adult version of scented markers exists… as thermal paste](https://www.theverge.com/2024/4/8/24124323/clock-work-tea-party-scented-thermal-paste)
+ - [AI apocalypse: Why and how Silicon Valley has become terrified of its own creation](https://www.androidauthority.com/ai-apocalypse-3432135/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
