@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wow !](http://9gag.com/gag/aYQNpPN)
- - 😝 [Japanese people never fails to entertain you.](http://9gag.com/gag/a5Qe7xg)
- - 👉 [I could look it up, but I prefer asking you fellow nutjobs what you think about it.](http://9gag.com/gag/apRE0mW)<!-- MEMES:END -->
+ - 6️⃣ [Device that prevents lines from getting entangled in props](http://9gag.com/gag/aD2Aoyd)
+ - 😝 [Finally a Government with their brain intact](http://9gag.com/gag/a6Zm7mm)
+ - 👉 [There we go again...](http://9gag.com/gag/a6Zmy2q)<!-- MEMES:END -->
 
 --- 
 
