@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [John Williams tricks you with the beautiful music](http://9gag.com/gag/aXP0pbd)
- - 😝 [Dutch Police version of `yes mom, I need the 4090ti for my homework`](http://9gag.com/gag/an7qKx0)
- - 👉 [Puppy eating an egg](http://9gag.com/gag/aW4QO3Z)<!-- MEMES:END -->
+ - 6️⃣ [Nice](http://9gag.com/gag/an7q1GB)
+ - 😝 [A simple act of kindness](http://9gag.com/gag/apRELV8)
+ - 👉 [You have my pen](http://9gag.com/gag/ajPYDP8)<!-- MEMES:END -->
 
 --- 
 
