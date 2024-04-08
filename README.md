@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Device that prevents lines from getting entangled in props](http://9gag.com/gag/aD2Aoyd)
- - 😝 [Finally a Government with their brain intact](http://9gag.com/gag/a6Zm7mm)
- - 👉 [There we go again...](http://9gag.com/gag/a6Zmy2q)<!-- MEMES:END -->
+ - 6️⃣ [Let me guess, he\u2019s an Uncle Tom, right?](http://9gag.com/gag/amoNLvo)
+ - 😝 [London resident gives a tour of her \u00a31850 per month apartment](http://9gag.com/gag/ayN7p3Y)
+ - 👉 [Finally a Government with their brain intact](http://9gag.com/gag/a6Zm7mm)<!-- MEMES:END -->
 
 --- 
 
