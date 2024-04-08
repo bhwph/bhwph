@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy hops on $849 M2 MacBook Air bandwagon with latest deal](https://appleinsider.com/articles/24/04/08/best-buy-hops-on-849-m2-macbook-air-bandwagon-with-latest-deal?utm_medium=rss)
- - [Astoundingly unsafe iMessage bridge Sunbird is back, and you still shouldn&#39;t use it](https://appleinsider.com/articles/24/04/08/astoundingly-unsafe-imessage-bridge-sunbird-is-back-and-you-still-shouldnt-use-it?utm_medium=rss)
- - [Elon Musk and Brazil are beefing over X](https://www.theverge.com/2024/4/8/24124156/brazil-investigates-elon-musk-x-twitter-obstruction-of-justice)<!-- TECH:END -->
+ - [Microsoft says it’s cracked the code on an important quantum computing problem](https://www.theverge.com/2024/4/8/24120103/microsoft-says-its-cracked-the-code-on-an-important-quantum-computing-problem)
+ - [5 Things you should know about Android’s new AirTag alternatives](https://www.androidauthority.com/android-new-airtag-alternatives-things-know-3432215/)
+ - [You can now find your lost Pixel 8 phone even when it’s off!](https://www.androidauthority.com/find-pixel-8-phone-turned-off-3432235/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
