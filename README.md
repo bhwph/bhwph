@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey](http://9gag.com/gag/aO8KmAN)
- - 😝 [That accent](http://9gag.com/gag/aAyRY2E)
- - 👉 [There we go again...](http://9gag.com/gag/a6Zmy2q)<!-- MEMES:END -->
+ - 6️⃣ [Puzzle composed of different animal shapes](http://9gag.com/gag/aNDrn54)
+ - 😝 [What was 9gag&#39;s motto again?](http://9gag.com/gag/agm3VYn)
+ - 👉 [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)<!-- MEMES:END -->
 
 --- 
 
