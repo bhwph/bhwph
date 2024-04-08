@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung turns it around, forecasts massive jump in profit for Q1 2024](https://www.androidauthority.com/samsung-q1-profit-forecast-2024-3432386/)
- - [An adult version of scented markers exists… as thermal paste](https://www.theverge.com/2024/4/8/24124323/clock-work-tea-party-scented-thermal-paste)
- - [AI apocalypse: Why and how Silicon Valley has become terrified of its own creation](https://www.androidauthority.com/ai-apocalypse-3432135/)<!-- TECH:END -->
+ - [Google rebrands Studio Bot, its AI-powered app development chatbot for Android Studio, to &quot;Gemini in Android Studio&quot;, and upgrades its model to Gemini 1.0 Pro &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/240408/p29#a240408p29)
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
+ - [Sennheiser’s new fitness buds do heart rate tracking right](https://www.theverge.com/24122324/sennheiser-momentum-sport-earbuds-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
