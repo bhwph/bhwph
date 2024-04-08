@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sunshine is the movie to watch on eclipse day](https://www.polygon.com/24122359/eclipse-2024-movie-to-watch-sunshine)
- - [Want Your Dragon’s Dogma 2 Pawns To Shut Up? There’s A Mod For That](https://kotaku.com/dragons-dogma-2-pawns-banter-talk-turn-off-settings-mod-1851394683)
- - [The Wii U was secretly revolutionary — and its online services are finally ending](https://www.polygon.com/24118967/wii-u-offline-retrospective-nintendo)<!-- GAME:END -->
+ - [Unicorn Overlord is already 33% off at Amazon and other stores](https://www.polygon.com/2024/4/8/24124261/unicorn-overlord-deal-amazon-best-buy-ps5-xbox-switch)
+ - [Fans Aren’t Alone, Final Fantasy XVI’s Producer Also Wants A New FF Tactics Game](https://kotaku.com/ff16-naoki-yoshida-wants-new-ff-tactics-game-1851395088)
+ - [Jonathan Majors has been found guilty of assault and harassment](https://www.polygon.com/23691310/jonathan-majors-domestic-violence-allegations-kang-mcu-recast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
