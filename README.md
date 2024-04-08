@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The reality of our parents and grandparents is far different from ours.](http://9gag.com/gag/aVvzQ3n)
- - 😝 [Ok hear me out:](http://9gag.com/gag/aKGwPqW)
- - 👉 [Hahahaha](http://9gag.com/gag/an7qXNB)<!-- MEMES:END -->
+ - 6️⃣ [Antman in Thanos&#39; ass](http://9gag.com/gag/a7oLbYr)
+ - 😝 [Such a good grip](http://9gag.com/gag/a87LWDp)
+ - 👉 [Wow !](http://9gag.com/gag/aYQNpPN)<!-- MEMES:END -->
 
 --- 
 
