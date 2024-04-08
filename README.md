@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Zendaya isn&#39;t so bad now, is she?](http://9gag.com/gag/aNDrodA)
- - 😝 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)
- - 👉 [I could look it up, but I prefer asking you fellow nutjobs what you think about it.](http://9gag.com/gag/apRE0mW)<!-- MEMES:END -->
+ - 6️⃣ [Device that prevents lines from getting entangled in props](http://9gag.com/gag/aD2Aoyd)
+ - 😝 [What you doing if this your girl?](http://9gag.com/gag/aLnRQoP)
+ - 👉 [When You&#39;re learning English all your life and then you meet a native](http://9gag.com/gag/ae9j3Pm)<!-- MEMES:END -->
 
 --- 
 
