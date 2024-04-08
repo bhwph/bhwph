@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Everybody Hates This Dragon&#39;s Dogma 2 NPC](https://kotaku.com/dragons-dogma-2-martin-ulrika-npc-murder-capcom-1851395318)
- - [What time does Destiny 2: Into the Light release?](https://www.polygon.com/destiny-2-guide-walkthrough/2024/4/8/24124350/into-the-light-start-time-release-date)
- - [Fallout, The Sympathizer, Kaiju No. 8, and more new TV this week](https://www.polygon.com/2024/4/8/24102441/new-tv-fallout-sympathizer-kaiju-no-8-premiere-time-date-netflix)<!-- GAME:END -->
+ - [Persona Fans Lose It As Leak Suggests Next Game&#39;s Color Scheme](https://kotaku.com/persona-6-color-scheme-leak-green-bucket-theory-1851395848)
+ - [League of Legends is getting a Vampire Survivors-style mode this summer](https://www.polygon.com/24124492/league-of-legends-survivor-spin-off-summer-event)
+ - [Where to find all Seeker’s Tokens in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24107917/seekers-tokens-vermund-map-location-reward)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
