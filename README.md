@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s no Galaxy Watch FE, according to leaker, but a cheaper watch is coming](https://www.androidauthority.com/no-galaxy-watch-fe-leaker-cheaper-watch-3432141/)
- - [OnePlus Watch 2 could soon get a new Nord-inspired color](https://www.androidauthority.com/oneplus-watch-2-nordic-blue-edition-3432142/)
- - [Review: BYD Atto 3](https://www.wired.com/review/review-byd-atto-3/)<!-- TECH:END -->
+ - [Microsoft announces Microsoft AI London, a new hub for its consumer AI division led by former Inflection AI and DeepMind engineer Jordan Hoffmann &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240408/p10#a240408p10)
+ - [How I Became a Python Programmer—and Fell Out of Love With the Machine](https://www.wired.com/story/how-i-became-a-python-programmer-and-distanced-myself-from-the-machine/)
+ - [Emails: Xbox President Sarah Bond establishes a game preservation team, and reiterates plans for the next Xbox to aim for the &quot;biggest technical leap ever&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/240408/p9#a240408p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
