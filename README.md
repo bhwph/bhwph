@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify launches AI playlists, letting you make a playlist with a prompt](https://www.androidauthority.com/spotify-ai-playlists-3432054/)
- - [How the increasing use of unreliable AI-powered accessibility widgets on company websites to comply with regulations has prompted thousands of lawsuits globally &lpar;Joanna S Kao/Financial Times&rpar;](http://www.techmeme.com/240408/p4#a240408p4)
- - [Google is pushing Gemini into another app on your Android phone](https://www.androidauthority.com/google-android-app-gemini-toggle-3432129/)<!-- TECH:END -->
+ - [There’s no Galaxy Watch FE, according to leaker, but a cheaper watch is coming](https://www.androidauthority.com/no-galaxy-watch-fe-leaker-cheaper-watch-3432141/)
+ - [OnePlus Watch 2 could soon get a new Nord-inspired color](https://www.androidauthority.com/oneplus-watch-2-nordic-blue-edition-3432142/)
+ - [Review: BYD Atto 3](https://www.wired.com/review/review-byd-atto-3/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
