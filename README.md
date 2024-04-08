@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [ChooseYourSetup](http://9gag.com/gag/aNDrnmA)
- - 😝 [Watch Joe Rogan change his opinion in real time when presented with a different perspective &lpar;with facts to back it up&rpar;](http://9gag.com/gag/aVvze9d)
- - 👉 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)<!-- MEMES:END -->
+ - 6️⃣ [John Williams tricks you with the beautiful music](http://9gag.com/gag/aXP0pbd)
+ - 😝 [Dutch Police version of `yes mom, I need the 4090ti for my homework`](http://9gag.com/gag/an7qKx0)
+ - 👉 [Puppy eating an egg](http://9gag.com/gag/aW4QO3Z)<!-- MEMES:END -->
 
 --- 
 
