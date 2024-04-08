@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey](http://9gag.com/gag/aO8KmAN)
- - 😝 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)
- - 👉 [Honestly](http://9gag.com/gag/aGyYRO0)<!-- MEMES:END -->
+ - 6️⃣ [The reality of our parents and grandparents is far different from ours.](http://9gag.com/gag/aVvzQ3n)
+ - 😝 [Ok hear me out:](http://9gag.com/gag/aKGwPqW)
+ - 👉 [Hahahaha](http://9gag.com/gag/an7qXNB)<!-- MEMES:END -->
 
 --- 
 
