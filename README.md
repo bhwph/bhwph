@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Golden](http://9gag.com/gag/aZZbBj0)
- - 😝 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)
- - 👉 [Wholesome](http://9gag.com/gag/a1mvbD2)<!-- MEMES:END -->
+ - 6️⃣ [Wholesome](http://9gag.com/gag/a1mvbD2)
+ - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
+ - 👉 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)<!-- MEMES:END -->
 
 --- 
 
