@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
- - 😝 [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)
- - 👉 [Oh look... a random AMD employee...](http://9gag.com/gag/ajPYn40)<!-- MEMES:END -->
+ - 6️⃣ [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)
+ - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
+ - 👉 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)<!-- MEMES:END -->
 
 --- 
 
