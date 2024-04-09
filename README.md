@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 hotfix takes swings at a whole hive of crash culprits, so you should be able to deploy more reliably now](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-hotfix-takes-swings-at-a-whole-hive-of-crash-culprits-so-you-should-be-able-to-deploy-more-reliably-now)
- - [What time does Destiny 2: Into the Light release?](https://www.polygon.com/destiny-2-guide-walkthrough/2024/4/8/24124350/into-the-light-start-time-release-date)
- - [Can Croagunk be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24124309/can-croagunk-be-shiny-toxicroak)<!-- GAME:END -->
+ - [What time does Helldivers 2’s Democratic Detonation Warbond release?](https://www.polygon.com/guides/2024/4/9/24122746/helldivers-2-democratic-detonation-warbond-start-time-release-date)
+ - [This slick and experimental soulslike takes about 15 seconds to get you feeling empathy for a triangle](https://www.pcgamer.com/games/action/this-slick-and-experimental-soulslike-takes-about-15-seconds-to-get-you-feeling-empathy-for-a-triangle)
+ - [After a 23-year quest, collector manages to grab a rare Castlevania copy for $90,100, all because it &#39;was the first game my mom ever bought me&#39;](https://www.pcgamer.com/games/adventure/after-a-23-year-quest-collector-manages-to-grab-a-rare-castlevania-copy-for-dollar90100-all-because-it-was-the-first-game-my-mom-ever-bought-me)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
