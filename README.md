@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rebrands Studio Bot, its AI-powered app development chatbot for Android Studio, to &quot;Gemini in Android Studio&quot;, and upgrades its model to Gemini 1.0 Pro &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/240408/p29#a240408p29)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
- - [Sennheiser’s new fitness buds do heart rate tracking right](https://www.theverge.com/24122324/sennheiser-momentum-sport-earbuds-review)<!-- TECH:END -->
+ - [Tesla reaches settlement in autopilot death case of Apple engineer](https://appleinsider.com/articles/24/04/09/tesla-reaches-settlement-in-autopilot-death-case-of-apple-engineer?utm_medium=rss)
+ - [Grow Therapy, which provides services like patient-provider matching and EHR to help therapists run their own practices, raised an $88M Series C led by Sequoia &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/240408/p34#a240408p34)
+ - [X launches passkey support for iOS app users worldwide](https://appleinsider.com/articles/24/04/09/x-launches-passkey-support-for-ios-app-users-worldwide?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
