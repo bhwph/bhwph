@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Helldivers 2’s Democratic Detonation Warbond release?](https://www.polygon.com/guides/2024/4/9/24122746/helldivers-2-democratic-detonation-warbond-start-time-release-date)
- - [This slick and experimental soulslike takes about 15 seconds to get you feeling empathy for a triangle](https://www.pcgamer.com/games/action/this-slick-and-experimental-soulslike-takes-about-15-seconds-to-get-you-feeling-empathy-for-a-triangle)
- - [After a 23-year quest, collector manages to grab a rare Castlevania copy for $90,100, all because it &#39;was the first game my mom ever bought me&#39;](https://www.pcgamer.com/games/adventure/after-a-23-year-quest-collector-manages-to-grab-a-rare-castlevania-copy-for-dollar90100-all-because-it-was-the-first-game-my-mom-ever-bought-me)<!-- GAME:END -->
+ - [The other shoe drops hard in Helldivers 2, as players go from celebrating total Automaton victory to fending off a vengeful robot tide in the new major order](https://www.pcgamer.com/games/third-person-shooter/the-other-shoe-drops-hard-in-helldivers-2-as-players-go-from-celebrating-total-automaton-victory-to-fending-off-a-vengeful-robot-tide-in-the-new-major-order)
+ - [Battlefield 2042 won&#39;t get more new seasons as next Battlefield game enters full production](https://www.pcgamer.com/games/fps/battlefield-2042-seasons-end-next-game-in-production-now)
+ - [Fortnite is bringing back its Coachella collab with a new twist](https://www.polygon.com/24124652/coachella-fortnite-epic-games-grimes-dj-snake-j-balvin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
