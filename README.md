@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus’ new OLED laptops run on the latest AI-capable chips](https://www.theverge.com/2024/4/9/24125264/asus-vivobook-s-zenbook-14-oled-um3406)
- - [Miku fans wanted a hologram concert — they got a TV show instead](https://www.theverge.com/2024/4/9/24125233/miku-expo-2024-hologram-screen-live-performance-fans-disappointed)
- - [Pop Music Is Mad. Social Media Loves It](https://www.wired.com/story/did-social-media-kill-the-pop-song/)<!-- TECH:END -->
+ - [Alethea, whose ML service monitors online chatter to help companies detect disinformation, raised a $20M Series B by GV, bringing its total raised to $34M &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240409/p32#a240409p32)
+ - [Apple Watch X display rumor hints at upgrade that could boost battery life](https://www.androidauthority.com/apple-watch-x-display-rumor-hints-at-upgrade-that-could-boost-battery-life-3432810/)
+ - [No, you won&#39;t get a black eye from Apple Vision Pro](https://appleinsider.com/articles/24/04/09/no-you-wont-get-a-black-eye-from-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
