@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Priorities.....](http://9gag.com/gag/aQzPePw)
- - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
- - 👉 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)<!-- MEMES:END -->
+ - 6️⃣ [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
+ - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 👉 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)<!-- MEMES:END -->
 
 --- 
 
