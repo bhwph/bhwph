@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fairphone Fairbuds launched: Who says repairable earbuds are impossible?](https://www.androidauthority.com/fairphone-fairbuds-repairable-earbuds-3432573/)
- - [Trump Media &amp; Technology Group&#39;s stock slumped 36% since March 26, wiping out $2.8B in market value as retail traders sell; Trump&#39;s stake is now worth ~$2.9B &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/240409/p6#a240409p6)
- - [Elon Musk Is Platforming Far-Right Activists in Brazil, Defying Court Order](https://www.wired.com/story/brazil-court-elon-musk-far-right/)<!-- TECH:END -->
+ - [Google makes its Imagen 2 image generator generally available in Vertex AI, and adds inpainting and outpainting to remove or add elements and expand borders &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240409/p16#a240409p16)
+ - [Best Buy drops the LG S65Q soundbar system by $150](https://www.androidauthority.com/lg-s65q-soundbar-deal-3432423/)
+ - [Galaxy Tab S6 Lite &lpar;2024&rpar; hits US: What do you get for under $350?](https://www.androidauthority.com/samsung-galaxy-tab-s6-lite-2024-us-launch-3432633/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
