@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Outlaws: 5 Things to Pay Attention to in the Newest Trailer](https://news.xbox.com/en-us/2024/04/09/star-wars-outlaws-5-things-newest-trailer/)
- - [Star Wars Outlaws is out this August, and wow does it look more jam-packed full of aliens than any Star Wars game I can remember](https://www.pcgamer.com/games/action/star-wars-outlaws-is-out-this-august-and-wow-does-it-look-more-jam-packed-full-of-aliens-than-any-star-wars-game-i-can-remember)
- - [Star Wars Outlaws gets new story trailer, release date from Ubisoft](https://www.polygon.com/24124341/star-wars-outlaws-story-trailer-release-date)<!-- GAME:END -->
+ - [Total War: Warhammer 3&#39;s Thrones of Decay reveal has finally made me excited about the game again](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-thrones-of-decay-reveal-has-finally-made-me-excited-about-the-game-again)
+ - [Sonic co-creator found guilty of insider trading breaks silence to accuse Square Enix producer of being &#39;the kind of person who would submit lies to court&#39;](https://www.pcgamer.com/games/action/sonic-co-creator-found-guilty-of-insider-trading-breaks-silence-to-accuse-square-enix-producer-of-being-the-kind-of-person-who-would-submit-lies-to-court)
+ - [Everything You Need to Know About Rush Mode in Gigantic: Rampage Edition, Available Today](https://news.xbox.com/en-us/2024/04/09/gigantic-rampage-edition-available-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
