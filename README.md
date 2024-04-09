@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer 3&#39;s Thrones of Decay reveal has finally made me excited about the game again](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-thrones-of-decay-reveal-has-finally-made-me-excited-about-the-game-again)
- - [Sonic co-creator found guilty of insider trading breaks silence to accuse Square Enix producer of being &#39;the kind of person who would submit lies to court&#39;](https://www.pcgamer.com/games/action/sonic-co-creator-found-guilty-of-insider-trading-breaks-silence-to-accuse-square-enix-producer-of-being-the-kind-of-person-who-would-submit-lies-to-court)
- - [Everything You Need to Know About Rush Mode in Gigantic: Rampage Edition, Available Today](https://news.xbox.com/en-us/2024/04/09/gigantic-rampage-edition-available-today/)<!-- GAME:END -->
+ - [Move Over Luigi, It’s The Year Of Shadow The Hedgehog](https://kotaku.com/shadow-the-hedgehog-fearless-sonic-movie-3-generations-1851398367)
+ - [Former Destiny leads have a new studio and a new game](https://www.polygon.com/24125278/probably-monsters-hidden-grove-destiny-bungie)
+ - [How To Clear Fallout 4 From Your Backlog](https://kotaku.com/fallout-4-backlog-play-before-show-amazon-1851398256)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
