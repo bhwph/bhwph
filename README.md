@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
+ - 6️⃣ [No meme. My 36yo pregnant wife had a stroke and died. The baby was successfully delivered and is in the NICU and doing fine. I am now a 37yo widower with two children under 4yo. Hug your loved ones. Tell them you love them. Live your life to the fullest.](http://9gag.com/gag/agm3Lwg)
  - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
- - 👉 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)<!-- MEMES:END -->
+ - 👉 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)<!-- MEMES:END -->
 
 --- 
 
