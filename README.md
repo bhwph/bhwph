@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice](http://9gag.com/gag/an7q1GB)
- - 😝 [A simple act of kindness](http://9gag.com/gag/apRELV8)
- - 👉 [You have my pen](http://9gag.com/gag/ajPYDP8)<!-- MEMES:END -->
+ - 6️⃣ [What a glow up](http://9gag.com/gag/agm3GWn)
+ - 😝 [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)
+ - 👉 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)<!-- MEMES:END -->
 
 --- 
 
