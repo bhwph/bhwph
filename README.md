@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CT scans show off the phenomenal design of the Apple Vision Pro](https://appleinsider.com/articles/24/04/09/ct-scans-show-off-the-phenomenal-design-of-the-apple-vision-pro?utm_medium=rss)
- - [The new Star Wars Outlaws trailer introduces you to the criminal underworld](https://www.theverge.com/24121150/star-wars-outlaws-trailer-release-date)
- - [Flash 33% price drop on the Samsung Galaxy S22](https://www.androidauthority.com/deal-samsung-galaxy-s22-3432723/)<!-- TECH:END -->
+ - [Adobe overhauls Frame.io to make it a little more Trello-like](https://www.theverge.com/2024/4/9/24125318/adobe-frameio-v4-beta-update-project-workflow-management)
+ - [Caseology Parallax Samsung Galaxy S24 case review: Should you buy it?](https://www.androidauthority.com/caseology-parallax-case-samsung-galaxy-s24-review-3430684/)
+ - [Google Photos’s storage-saving feature could be coming to Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-app-storage-saver-3432745/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
