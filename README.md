@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Priorities.....](http://9gag.com/gag/aQzPePw)
- - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
- - 👉 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)<!-- MEMES:END -->
+ - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
+ - 👉 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)<!-- MEMES:END -->
 
 --- 
 
