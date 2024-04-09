@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends is getting a Vampire Survivors-style PvE mode later this year](https://www.pcgamer.com/games/action/league-of-legends-is-getting-a-vampire-survivors-style-pve-mode-later-this-year)
- - [Diablo 4 PTR players discover mysterious new items and an abandoned camp that could be clues for its next season and upcoming expansion](https://www.pcgamer.com/games/rpg/diablo-4-ptr-datamined-season-4-iron-wolves)
- - [Nioh’s William Is Hiding In Rise Of The Ronin, And Here’s Where To Find Him](https://kotaku.com/rise-ronin-nioh-william-where-how-find-tip-guide-1851396068)<!-- GAME:END -->
+ - [Card game developer says it paid an &#39;AI artist&#39; $90,000 to generate card art because &#39;no one comes close to the quality he delivers&#39;](https://www.pcgamer.com/games/card-games/champions-tcg-ai-artist)
+ - [Starfield mod expands the base-building system with 40 new farmable plants, massive bio-domes, and your very own Chunks franchise that earns passive income](https://www.pcgamer.com/games/rpg/starfield-mod-expands-the-base-building-system-with-40-new-farmable-plants-massive-bio-domes-and-your-very-own-chunks-franchise-that-earns-passive-income)
+ - [Xbox Insider Release Notes – Xbox App [2404.1001.12.0]](https://news.xbox.com/en-us/2024/04/08/xbox-insider-release-notes-xbox-app-2404-1001-12-0/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
