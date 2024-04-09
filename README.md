@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google makes its Imagen 2 image generator generally available in Vertex AI, and adds inpainting and outpainting to remove or add elements and expand borders &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240409/p16#a240409p16)
- - [Best Buy drops the LG S65Q soundbar system by $150](https://www.androidauthority.com/lg-s65q-soundbar-deal-3432423/)
- - [Galaxy Tab S6 Lite &lpar;2024&rpar; hits US: What do you get for under $350?](https://www.androidauthority.com/samsung-galaxy-tab-s6-lite-2024-us-launch-3432633/)<!-- TECH:END -->
+ - [How OpenAI is preparing to fight lawsuits, investigations, and legislation: expanding its staff to 1,000 from 200 in 2022, hiring in-house lawyers, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/240409/p19#a240409p19)
+ - [The Aboard app is a totally different take on what an AI bot can do](https://www.theverge.com/2024/4/9/24124480/aboard-app-ai-bookmarks-project-management)
+ - [Peloton is a media company now, with media company problems](https://www.theverge.com/c/24105625/peloton-bike-tread-plus-business-valuation-history)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
