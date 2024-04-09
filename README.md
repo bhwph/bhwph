@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - 😝 [Lol.](http://9gag.com/gag/aAyRdGd)
- - 👉 [Bird feeder](http://9gag.com/gag/ajPYD4G)<!-- MEMES:END -->
+ - 6️⃣ [Golden](http://9gag.com/gag/aZZbBj0)
+ - 😝 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)
+ - 👉 [Wholesome](http://9gag.com/gag/a1mvbD2)<!-- MEMES:END -->
 
 --- 
 
