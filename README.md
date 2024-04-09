@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
- - 😝 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
- - 👉 [Golden](http://9gag.com/gag/aZZbBj0)<!-- MEMES:END -->
+ - 6️⃣ [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
+ - 😝 [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)
+ - 👉 [Oh look... a random AMD employee...](http://9gag.com/gag/ajPYn40)<!-- MEMES:END -->
 
 --- 
 
