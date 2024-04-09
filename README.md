@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe overhauls Frame.io to make it a little more Trello-like](https://www.theverge.com/2024/4/9/24125318/adobe-frameio-v4-beta-update-project-workflow-management)
- - [Caseology Parallax Samsung Galaxy S24 case review: Should you buy it?](https://www.androidauthority.com/caseology-parallax-case-samsung-galaxy-s24-review-3430684/)
- - [Google Photos’s storage-saving feature could be coming to Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-app-storage-saver-3432745/)<!-- TECH:END -->
+ - [Asus’ new OLED laptops run on the latest AI-capable chips](https://www.theverge.com/2024/4/9/24125264/asus-vivobook-s-zenbook-14-oled-um3406)
+ - [Miku fans wanted a hologram concert — they got a TV show instead](https://www.theverge.com/2024/4/9/24125233/miku-expo-2024-hologram-screen-live-performance-fans-disappointed)
+ - [Pop Music Is Mad. Social Media Loves It](https://www.wired.com/story/did-social-media-kill-the-pop-song/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
