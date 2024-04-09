@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Cloudflare CEO Matthew Prince on the company&#39;s role in protecting free speech online, operating in war zones, moderation, never doing layoffs, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240409/p3#a240409p3)
- - [Logitech’s new wireless keyboard targets pro gamers needing portability](https://www.theverge.com/2024/4/9/24125017/logitech-g-pro-x-60-wireless-gaming-keyboard-price-release-date)
- - [Tensor G3 performance per watt: How efficient is Google’s top chipset?](https://www.androidauthority.com/google-tensor-g3-performance-per-watt-3432137/)<!-- TECH:END -->
+ - [Fairphone Fairbuds launched: Who says repairable earbuds are impossible?](https://www.androidauthority.com/fairphone-fairbuds-repairable-earbuds-3432573/)
+ - [Trump Media &amp; Technology Group&#39;s stock slumped 36% since March 26, wiping out $2.8B in market value as retail traders sell; Trump&#39;s stake is now worth ~$2.9B &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/240409/p6#a240409p6)
+ - [Elon Musk Is Platforming Far-Right Activists in Brazil, Defying Court Order](https://www.wired.com/story/brazil-court-elon-musk-far-right/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
