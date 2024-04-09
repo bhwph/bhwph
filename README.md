@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The other shoe drops hard in Helldivers 2, as players go from celebrating total Automaton victory to fending off a vengeful robot tide in the new major order](https://www.pcgamer.com/games/third-person-shooter/the-other-shoe-drops-hard-in-helldivers-2-as-players-go-from-celebrating-total-automaton-victory-to-fending-off-a-vengeful-robot-tide-in-the-new-major-order)
- - [Battlefield 2042 won&#39;t get more new seasons as next Battlefield game enters full production](https://www.pcgamer.com/games/fps/battlefield-2042-seasons-end-next-game-in-production-now)
- - [Fortnite is bringing back its Coachella collab with a new twist](https://www.polygon.com/24124652/coachella-fortnite-epic-games-grimes-dj-snake-j-balvin)<!-- GAME:END -->
+ - [Star Wars Outlaws: 5 Things to Pay Attention to in the Newest Trailer](https://news.xbox.com/en-us/2024/04/09/star-wars-outlaws-5-things-newest-trailer/)
+ - [Star Wars Outlaws is out this August, and wow does it look more jam-packed full of aliens than any Star Wars game I can remember](https://www.pcgamer.com/games/action/star-wars-outlaws-is-out-this-august-and-wow-does-it-look-more-jam-packed-full-of-aliens-than-any-star-wars-game-i-can-remember)
+ - [Star Wars Outlaws gets new story trailer, release date from Ubisoft](https://www.polygon.com/24124341/star-wars-outlaws-story-trailer-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
