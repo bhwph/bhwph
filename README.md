@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Move Over Luigi, It’s The Year Of Shadow The Hedgehog](https://kotaku.com/shadow-the-hedgehog-fearless-sonic-movie-3-generations-1851398367)
- - [Former Destiny leads have a new studio and a new game](https://www.polygon.com/24125278/probably-monsters-hidden-grove-destiny-bungie)
- - [How To Clear Fallout 4 From Your Backlog](https://kotaku.com/fallout-4-backlog-play-before-show-amazon-1851398256)<!-- GAME:END -->
+ - [Dredge, the vibes-heavy indie hit about fishing on a sea of otherworldly horrors, is being made into a movie](https://www.pcgamer.com/games/horror/dredge-the-vibes-heavy-indie-hit-about-fishing-on-a-sea-of-otherworldly-horrors-is-being-made-into-a-movie)
+ - [Tekken 8&#39;s Steam rating takes a dive as fans lament &#39;scummy&#39; monetisation and battle pass](https://www.pcgamer.com/games/fighting/tekken-8s-steam-rating-takes-a-dive-as-fans-lament-scummy-monetisation-and-battle-pass)
+ - [Destiny 2: The Final Shape Debuts New Subclass, Enemy Type, and Class Items](https://kotaku.com/destiny-2-the-final-shape-subclass-prismatic-dread-1851398657)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
