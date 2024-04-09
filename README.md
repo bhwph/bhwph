@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla reaches settlement in autopilot death case of Apple engineer](https://appleinsider.com/articles/24/04/09/tesla-reaches-settlement-in-autopilot-death-case-of-apple-engineer?utm_medium=rss)
- - [Grow Therapy, which provides services like patient-provider matching and EHR to help therapists run their own practices, raised an $88M Series C led by Sequoia &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/240408/p34#a240408p34)
- - [X launches passkey support for iOS app users worldwide](https://appleinsider.com/articles/24/04/09/x-launches-passkey-support-for-ios-app-users-worldwide?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Android 15&#39;s Private Space feature, similar to Samsung&#39;s Secure Folder, which creates a separate profile for hiding apps and data &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240408/p35#a240408p35)
+ - [Elon Musk says his posts did more to ‘financially impair’ X than help it](https://www.theverge.com/2024/4/8/24124810/elon-musk-says-his-posts-did-more-to-financially-impair-x-than-help-it)
+ - [Tesla reaches settlement in autopilot death case of Apple engineer](https://appleinsider.com/articles/24/04/09/tesla-reaches-settlement-in-autopilot-death-case-of-apple-engineer?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
