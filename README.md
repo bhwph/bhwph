@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My fellow passport bros](http://9gag.com/gag/amoNz66)
- - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - 👉 [Favorite](http://9gag.com/gag/a4PKj4d)<!-- MEMES:END -->
+ - 6️⃣ [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
+ - 😝 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
+ - 👉 [Golden](http://9gag.com/gag/aZZbBj0)<!-- MEMES:END -->
 
 --- 
 
