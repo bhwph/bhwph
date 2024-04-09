@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How OpenAI is preparing to fight lawsuits, investigations, and legislation: expanding its staff to 1,000 from 200 in 2022, hiring in-house lawyers, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/240409/p19#a240409p19)
- - [The Aboard app is a totally different take on what an AI bot can do](https://www.theverge.com/2024/4/9/24124480/aboard-app-ai-bookmarks-project-management)
- - [Peloton is a media company now, with media company problems](https://www.theverge.com/c/24105625/peloton-bike-tread-plus-business-valuation-history)<!-- TECH:END -->
+ - [CT scans show off the phenomenal design of the Apple Vision Pro](https://appleinsider.com/articles/24/04/09/ct-scans-show-off-the-phenomenal-design-of-the-apple-vision-pro?utm_medium=rss)
+ - [The new Star Wars Outlaws trailer introduces you to the criminal underworld](https://www.theverge.com/24121150/star-wars-outlaws-trailer-release-date)
+ - [Flash 33% price drop on the Samsung Galaxy S22](https://www.androidauthority.com/deal-samsung-galaxy-s22-3432723/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
