@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [UK online PC retailer publicly rebukes claim it sent a customer an RTX 3050 instead of an RTX 4070 Ti](https://www.pcgamer.com/hardware/graphics-cards/uk-online-pc-retailer-publicly-rebukes-claim-it-sent-a-customer-an-rtx-3050-instead-of-an-rtx-4070-ti)
- - [Majority D80 Active Bluetooth Speakers review](https://www.pcgamer.com/hardware/speakers/majority-d80-active-bluetooth-speakers-review)
- - [This Hunt: Showdown-inspired sci-fi extraction shooter is already giving me the F.E.A.R.](https://www.pcgamer.com/games/fps/this-hunt-showdown-inspired-sci-fi-extraction-shooter-is-already-giving-me-the-fear)<!-- GAME:END -->
+ - [Rat smashers stay winning as Warhammer: Vermintide 2 gets another free update—a whole new map and enemy type](https://www.pcgamer.com/games/action/rat-smashers-stay-winning-as-warhammer-vermintide-2-gets-another-free-updatea-whole-new-map-and-enemy-type)
+ - [Wish finally revives the classic Disney villain — but he’s missing something vital](https://www.polygon.com/24125556/wish-disney-plus-magnifico-chris-pine-disney-villains)
+ - [Broken Roads review](https://www.pcgamer.com/games/rpg/broken-roads-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
