@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to add a friend and text chat in Sky: Children of the Light](https://www.pcgamer.com/games/mmo/sky-children-of-the-light-add-friend-text-chat)
- - [Report: EA Canned Dead Space 2 Remake, Team Working On Battlefield Now [Update: EA Denies Report]](https://kotaku.com/dead-space-2-remake-canceled-sales-motive-battlefield-1851400721)
- - [9 of the biggest announcements from the first Triple-i Initiative showcase](https://www.polygon.com/24126337/top-announcements-triple-i-initiative-showcase-2024)<!-- GAME:END -->
+ - [X-Men ’97 has entered the X-Men’s ‘Magneto was right’ era with a bloodbath](https://www.polygon.com/24126226/x-men-97-genosha-e-extinction-morlocks-cassandra-nova)
+ - [Nintendo 3DS fans say goodbye to the beloved handheld](https://www.polygon.com/24125305/nintendo-3ds-fans-say-goodbye-server-shutdown-nintendo)
+ - [PS Plus April Lineup Adding Dave The Diver And Previews Animal Well](https://kotaku.com/dave-the-diver-animal-well-ps-plus-april-2024-1851401198)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
