@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investment platform Linqto plans to go public via a SPAC merger with Blockchain Coinvestors Acquisition at a ~$700M valuation in a deal expected to close in H2 &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240410/p2#a240410p2)
- - [In a lengthy memo on Alibaba&#39;s internal forum, Jack Ma voiced his support for a company undergoing a turbulent restructuring, saying it is now on the right path &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p1#a240410p1)
- - [WPP announces a collaboration with Google, integrating Gemini AI tools with WPP data to create scripts, product images, and more for ad clients like Coca-Cola &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/240409/p39#a240409p39)<!-- TECH:END -->
+ - [Aloha Browser says the number of users in the EU jumped 250% in March after DMA came into effect; Vivaldi, Ecosia, Brave, DuckDuckGo, and Opera also see growth &lpar;Reuters&rpar;](http://www.techmeme.com/240410/p7#a240410p7)
+ - [The Honeybees Versus the Murder Hornets](https://www.wired.com/story/bees-hornets-pollenize-invasive-species-united-kingdom/)
+ - [The cheapest foldable phone in the US has the same price as the Pixel 7a](https://www.androidauthority.com/cheapest-foldable-phone-us-nubia-flip-5g-3432924/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
