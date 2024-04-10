@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPadOS 17.5 beta teases OLED display upgrade for 2024 iPad Pro models](https://appleinsider.com/articles/24/04/10/ipados-175-beta-teases-oled-display-upgrade-for-2024-ipad-pro-models?utm_medium=rss)
- - [Best Internet Providers in Fontana, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-fontana-ca/#ftag=CAD590a51e)
- - [Piper Sandler survey of 6,020 US teens: 33% now own a VR device, up from 31% in fall 2023, and weekly usage of VR devices increased to ~13% from ~10% &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240409/p34#a240409p34)<!-- TECH:END -->
+ - [In the first Joker: Folie à Deux trailer, twisted love wins](https://www.theverge.com/24125116/joker-folie-a-deux-trailer-date)
+ - [Copenhagen-based Reshape, whose AI-powered robotic imaging system helps track visual changes in lab experiments, raised a $20M Series A led by Astanor Ventures &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240409/p36#a240409p36)
+ - [NetEase says it is working with Microsoft to bring World of Warcraft and other Blizzard games back to China after a feud ended the partnership in January 2023 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240409/p35#a240409p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
