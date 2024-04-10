@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In the first Joker: Folie à Deux trailer, twisted love wins](https://www.theverge.com/24125116/joker-folie-a-deux-trailer-date)
- - [Copenhagen-based Reshape, whose AI-powered robotic imaging system helps track visual changes in lab experiments, raised a $20M Series A led by Astanor Ventures &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240409/p36#a240409p36)
- - [NetEase says it is working with Microsoft to bring World of Warcraft and other Blizzard games back to China after a feud ended the partnership in January 2023 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240409/p35#a240409p35)<!-- TECH:END -->
+ - [Investment platform Linqto plans to go public via a SPAC merger with Blockchain Coinvestors Acquisition at a ~$700M valuation in a deal expected to close in H2 &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240410/p2#a240410p2)
+ - [In a lengthy memo on Alibaba&#39;s internal forum, Jack Ma voiced his support for a company undergoing a turbulent restructuring, saying it is now on the right path &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p1#a240410p1)
+ - [WPP announces a collaboration with Google, integrating Gemini AI tools with WPP data to create scripts, product images, and more for ad clients like Coca-Cola &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/240409/p39#a240409p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
