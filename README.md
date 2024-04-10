@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [F**k you Isaac Newton!](http://9gag.com/gag/avyp8zM)
- - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
- - 👉 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)<!-- MEMES:END -->
+ - 6️⃣ [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 😝 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
+ - 👉 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)<!-- MEMES:END -->
 
 --- 
 
