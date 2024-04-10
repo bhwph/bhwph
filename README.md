@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lol.](http://9gag.com/gag/aAyRdGd)
- - 😝 [For airbnb only](http://9gag.com/gag/an7qbWq)
- - 👉 [This is money dog! Upvote to gain money and go through customs faster!](http://9gag.com/gag/ae9jM0m)<!-- MEMES:END -->
+ - 6️⃣ [How?](http://9gag.com/gag/apRE2zp)
+ - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 👉 [Priorities.....](http://9gag.com/gag/aQzPePw)<!-- MEMES:END -->
 
 --- 
 
