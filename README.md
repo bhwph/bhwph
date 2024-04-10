@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Michael Jackson flies out of the concert](http://9gag.com/gag/aZZbmBz)
- - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 👉 [Thats not a child thats a man and its sad. Bro deserves to be a kid.](http://9gag.com/gag/aKGw3Bg)<!-- MEMES:END -->
+ - 6️⃣ [Lol.](http://9gag.com/gag/aAyRdGd)
+ - 😝 [For airbnb only](http://9gag.com/gag/an7qbWq)
+ - 👉 [This is money dog! Upvote to gain money and go through customs faster!](http://9gag.com/gag/ae9jM0m)<!-- MEMES:END -->
 
 --- 
 
