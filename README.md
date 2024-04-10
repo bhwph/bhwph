@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This sidescrolling horror RPG about being trapped in a nightmare is like Amnesia crossed with Deathloop](https://www.pcgamer.com/games/horror/this-sidescrolling-horror-rpg-about-being-trapped-in-a-nightmare-is-like-amnesia-crossed-with-deathloop)
- - [Today&#39;s Wordle answer for Wednesday, April 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-10-2024)
- - [The Joker 2 trailer introduces Lady Gaga’s Harley Quinn to the hallucinatory stage](https://www.polygon.com/24124435/joker-2-trailer-lady-gaga)<!-- GAME:END -->
+ - [UK online PC retailer publicly rebukes claim it sent a customer an RTX 3050 instead of an RTX 4070 Ti](https://www.pcgamer.com/hardware/graphics-cards/uk-online-pc-retailer-publicly-rebukes-claim-it-sent-a-customer-an-rtx-3050-instead-of-an-rtx-4070-ti)
+ - [Majority D80 Active Bluetooth Speakers review](https://www.pcgamer.com/hardware/speakers/majority-d80-active-bluetooth-speakers-review)
+ - [This Hunt: Showdown-inspired sci-fi extraction shooter is already giving me the F.E.A.R.](https://www.pcgamer.com/games/fps/this-hunt-showdown-inspired-sci-fi-extraction-shooter-is-already-giving-me-the-fear)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
