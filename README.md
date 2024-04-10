@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S8 slashed by 40%](https://www.androidauthority.com/deal-samsung-galaxy-tab-s8-3433077/)
- - [Samsung’s Galaxy AI opens up to even more languages and dialects](https://www.androidauthority.com/galaxy-ai-adds-more-languages-3433060/)
- - [Popular custom Android ROM shutting down](https://www.androidauthority.com/pixel-experience-shutdown-3433081/)<!-- TECH:END -->
+ - [Amazon will stop paying developers for making Alexa skills](https://www.theverge.com/2024/4/10/24126291/amazon-stop-paying-developers-alexa-skills)
+ - [The Apple Watch could be the next great Game Boy emulator](https://www.theverge.com/2024/4/10/24126308/apple-watch-android-smartwatch-game-boy-advance-emulator-reddit)
+ - [Sources: ByteDance misled the Central Bank of Ireland in early 2023, after HSBC shut down the company&#39;s bank accounts following a money laundering probe &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/240410/p29#a240410p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
