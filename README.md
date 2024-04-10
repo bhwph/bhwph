@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 rumored to have a mysterious Safari Browsing Assistant feature](https://appleinsider.com/articles/24/04/10/ios-18-rumored-to-have-a-mysterious-safari-browsing-assistant-feature?utm_medium=rss)
- - [Madrid-based big data observability startup Onum, which launched in 2023, raised a $28M Series A led by Dawn Capital, with participation from Insight and Kibo &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240410/p21#a240410p21)
- - [The Hacking Lawsuit Looming Over Truth Social](https://www.wired.com/story/truth-social-hacking-lawsuit/)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S8 slashed by 40%](https://www.androidauthority.com/deal-samsung-galaxy-tab-s8-3433077/)
+ - [Samsung’s Galaxy AI opens up to even more languages and dialects](https://www.androidauthority.com/galaxy-ai-adds-more-languages-3433060/)
+ - [Popular custom Android ROM shutting down](https://www.androidauthority.com/pixel-experience-shutdown-3433081/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
