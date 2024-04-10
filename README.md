@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When Japan does StarWars](http://9gag.com/gag/awy0QZy)
- - 😝 [When 2 master meet each other](http://9gag.com/gag/aAyRdqp)
- - 👉 [Based af dad identifies as female Julius Cesar at school board meeting - Woketards are leaving the room](http://9gag.com/gag/aByRWbZ)<!-- MEMES:END -->
+ - 6️⃣ [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
+ - 😝 [Michael Jackson flies out of the concert](http://9gag.com/gag/aZZbmBz)
+ - 👉 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)<!-- MEMES:END -->
 
 --- 
 
