@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s expansion in India now includes building houses for workers](https://appleinsider.com/articles/24/04/10/apples-expansion-in-india-now-includes-building-houses-for-workers?utm_medium=rss)
- - [How to play Windows games on your Mac with Whisky](https://appleinsider.com/inside/mac/tips/how-to-play-windows-games-on-your-mac-with-whisky?utm_medium=rss)
- - [A US official says SpaceX&#39;s Pentagon contract to deploy terminals in Ukraine between June 2023 and May 2024 is worth $23M; the deal may not be renewed &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/240410/p13#a240410p13)<!-- TECH:END -->
+ - [Unsurprisingly, barely any of you want to pay Google for AI-powered Searches](https://www.androidauthority.com/poll-results-paid-ai-powered-google-search-3433013/)
+ - [How Ukraine found US startups&#39; drones glitchy and pricey, turning instead to cheaper Chinese drones; PitchBook: ~300 US drone startups raised $2.5B since 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240410/p18#a240410p18)
+ - [How to Delete Your Google Account—After Downloading All of Your Data First](https://www.wired.com/story/how-to-delete-a-google-account/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
