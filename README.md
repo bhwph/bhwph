@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aloha Browser says the number of users in the EU jumped 250% in March after DMA came into effect; Vivaldi, Ecosia, Brave, DuckDuckGo, and Opera also see growth &lpar;Reuters&rpar;](http://www.techmeme.com/240410/p7#a240410p7)
- - [The Honeybees Versus the Murder Hornets](https://www.wired.com/story/bees-hornets-pollenize-invasive-species-united-kingdom/)
- - [The cheapest foldable phone in the US has the same price as the Pixel 7a](https://www.androidauthority.com/cheapest-foldable-phone-us-nubia-flip-5g-3432924/)<!-- TECH:END -->
+ - [How TSMC is transforming the Japanese farm town of Kikuyo into a key node in Asia&#39;s chip supply chain, backed by billions of dollars from Japan&#39;s government &lpar;New York Times&rpar;](http://www.techmeme.com/240410/p10#a240410p10)
+ - [Motorola’s 2024 Edge flagships could launch globally next week](https://www.androidauthority.com/motorola-2024-edge-flagships-april-launch-3432930/)
+ - [This service lets you build your own mobile plan using AI starting at just $4.08/month](https://www.androidauthority.com/mobilex-custom-mobile-plans-3432931/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
