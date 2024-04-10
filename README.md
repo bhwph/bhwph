@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No meme. My 36yo pregnant wife had a stroke and died. The baby was successfully delivered and is in the NICU and doing fine. I am now a 37yo widower with two children under 4yo. Hug your loved ones. Tell them you love them. Live your life to the fullest.](http://9gag.com/gag/agm3Lwg)
- - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
- - 👉 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)<!-- MEMES:END -->
+ - 6️⃣ [When Japan does StarWars](http://9gag.com/gag/awy0QZy)
+ - 😝 [When 2 master meet each other](http://9gag.com/gag/aAyRdqp)
+ - 👉 [Based af dad identifies as female Julius Cesar at school board meeting - Woketards are leaving the room](http://9gag.com/gag/aByRWbZ)<!-- MEMES:END -->
 
 --- 
 
