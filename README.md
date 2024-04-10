@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX&#39;s accounting is more &quot;art than a science&quot;, often omitting costs of putting Starlink satellites in orbit to make numbers look better to investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p32#a240410p32)
- - [21 Best Deals From the Target Circle Week Deals Event &lpar;2024&rpar;](https://www.wired.com/story/target-circle-week-deals-april-2024/)
- - [Apple makes it really hard for users to completely stop it from collecting data](https://appleinsider.com/articles/24/04/10/apple-makes-it-really-hard-for-users-to-completely-stop-it-from-collecting-data?utm_medium=rss)<!-- TECH:END -->
+ - [Two former execs of the company behind the Truth Social merger are caught up in a messy hacking lawsuit](https://www.theverge.com/2024/4/10/24126237/truth-social-digital-world-acquisition-corp-hacking-lawsuit-patrick-orlando-eric-swider-trump-media)
+ - [Apple’s antitrust case is getting a new judge](https://www.theverge.com/2024/4/10/24126698/apple-doj-antitrust-case-judge-recused)
+ - [Meta says it’s fixing ‘HD’ photo sharing in Facebook Messenger](https://www.theverge.com/2024/4/10/24126692/facebook-messenger-hd-photo-sharing-toggle-file-qr-codes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
