@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon will stop paying developers for making Alexa skills](https://www.theverge.com/2024/4/10/24126291/amazon-stop-paying-developers-alexa-skills)
- - [The Apple Watch could be the next great Game Boy emulator](https://www.theverge.com/2024/4/10/24126308/apple-watch-android-smartwatch-game-boy-advance-emulator-reddit)
- - [Sources: ByteDance misled the Central Bank of Ireland in early 2023, after HSBC shut down the company&#39;s bank accounts following a money laundering probe &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/240410/p29#a240410p29)<!-- TECH:END -->
+ - [Sources: SpaceX&#39;s accounting is more &quot;art than a science&quot;, often omitting costs of putting Starlink satellites in orbit to make numbers look better to investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p32#a240410p32)
+ - [21 Best Deals From the Target Circle Week Deals Event &lpar;2024&rpar;](https://www.wired.com/story/target-circle-week-deals-april-2024/)
+ - [Apple makes it really hard for users to completely stop it from collecting data](https://appleinsider.com/articles/24/04/10/apple-makes-it-really-hard-for-users-to-completely-stop-it-from-collecting-data?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
