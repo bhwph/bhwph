@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How TSMC is transforming the Japanese farm town of Kikuyo into a key node in Asia&#39;s chip supply chain, backed by billions of dollars from Japan&#39;s government &lpar;New York Times&rpar;](http://www.techmeme.com/240410/p10#a240410p10)
- - [Motorola’s 2024 Edge flagships could launch globally next week](https://www.androidauthority.com/motorola-2024-edge-flagships-april-launch-3432930/)
- - [This service lets you build your own mobile plan using AI starting at just $4.08/month](https://www.androidauthority.com/mobilex-custom-mobile-plans-3432931/)<!-- TECH:END -->
+ - [Apple&#39;s expansion in India now includes building houses for workers](https://appleinsider.com/articles/24/04/10/apples-expansion-in-india-now-includes-building-houses-for-workers?utm_medium=rss)
+ - [How to play Windows games on your Mac with Whisky](https://appleinsider.com/inside/mac/tips/how-to-play-windows-games-on-your-mac-with-whisky?utm_medium=rss)
+ - [A US official says SpaceX&#39;s Pentagon contract to deploy terminals in Ukraine between June 2023 and May 2024 is worth $23M; the deal may not be renewed &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/240410/p13#a240410p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
