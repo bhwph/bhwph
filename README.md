@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How?](http://9gag.com/gag/apRE2zp)
- - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
- - 👉 [Priorities.....](http://9gag.com/gag/aQzPePw)<!-- MEMES:END -->
+ - 6️⃣ [9gag comments never disappoint](http://9gag.com/gag/avypnm5)
+ - 😝 [In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood tree &amp; didn\u2019t come down for another 738 days. She ultimately reached an agreement with Pacific Lumber Company to spare the tree &amp; a 200-foot buffer zone surrounding the tree.](http://9gag.com/gag/aW4Q1e6)
+ - 👉 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)<!-- MEMES:END -->
 
 --- 
 
