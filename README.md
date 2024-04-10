@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Somebody skipped physics in school](http://9gag.com/gag/awy05E1)
- - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 👉 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)<!-- MEMES:END -->
+ - 6️⃣ [How?](http://9gag.com/gag/apRE2zp)
+ - 😝 [In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood tree &amp; didn\u2019t come down for another 738 days. She ultimately reached an agreement with Pacific Lumber Company to spare the tree &amp; a 200-foot buffer zone surrounding the tree.](http://9gag.com/gag/aW4Q1e6)
+ - 👉 [What is the point of pixelated pps](http://9gag.com/gag/aByRWeN)<!-- MEMES:END -->
 
 --- 
 
