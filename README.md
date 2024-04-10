@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 😝 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
- - 👉 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)<!-- MEMES:END -->
+ - 6️⃣ [Somebody skipped physics in school](http://9gag.com/gag/awy05E1)
+ - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 👉 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)<!-- MEMES:END -->
 
 --- 
 
