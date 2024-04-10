@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unsurprisingly, barely any of you want to pay Google for AI-powered Searches](https://www.androidauthority.com/poll-results-paid-ai-powered-google-search-3433013/)
- - [How Ukraine found US startups&#39; drones glitchy and pricey, turning instead to cheaper Chinese drones; PitchBook: ~300 US drone startups raised $2.5B since 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240410/p18#a240410p18)
- - [How to Delete Your Google Account—After Downloading All of Your Data First](https://www.wired.com/story/how-to-delete-a-google-account/)<!-- TECH:END -->
+ - [iOS 18 rumored to have a mysterious Safari Browsing Assistant feature](https://appleinsider.com/articles/24/04/10/ios-18-rumored-to-have-a-mysterious-safari-browsing-assistant-feature?utm_medium=rss)
+ - [Madrid-based big data observability startup Onum, which launched in 2023, raised a $28M Series A led by Dawn Capital, with participation from Insight and Kibo &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240410/p21#a240410p21)
+ - [The Hacking Lawsuit Looming Over Truth Social](https://www.wired.com/story/truth-social-hacking-lawsuit/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
