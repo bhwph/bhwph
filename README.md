@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alethea, whose ML service monitors online chatter to help companies detect disinformation, raised a $20M Series B by GV, bringing its total raised to $34M &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240409/p32#a240409p32)
- - [Apple Watch X display rumor hints at upgrade that could boost battery life](https://www.androidauthority.com/apple-watch-x-display-rumor-hints-at-upgrade-that-could-boost-battery-life-3432810/)
- - [No, you won&#39;t get a black eye from Apple Vision Pro](https://appleinsider.com/articles/24/04/09/no-you-wont-get-a-black-eye-from-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [iPadOS 17.5 beta teases OLED display upgrade for 2024 iPad Pro models](https://appleinsider.com/articles/24/04/10/ipados-175-beta-teases-oled-display-upgrade-for-2024-ipad-pro-models?utm_medium=rss)
+ - [Best Internet Providers in Fontana, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-fontana-ca/#ftag=CAD590a51e)
+ - [Piper Sandler survey of 6,020 US teens: 33% now own a VR device, up from 31% in fall 2023, and weekly usage of VR devices increased to ~13% from ~10% &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240409/p34#a240409p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
