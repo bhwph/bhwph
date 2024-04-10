@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How ID@Xbox is Enabling 8 Global Game Developers to Realize Their Vision](https://news.xbox.com/en-us/2024/04/10/how-idxbox-is-enabling-8-global-game-developers-to-realize-their-vision/)
- - [PlayStation Plus Game Catalog for April: Dave the Diver, Tales of Kenzera: Zau, The Crew 2 and more](https://blog.playstation.com/2024/04/10/playstation-plus-game-catalog-for-april-dave-the-diver-tales-of-kenzera-zau-the-crew-2-and-more/)
- - [PlayStation Plus Game Catalog for April: Dave the Diver, Tales of Kenzera: Zau, The Crew 2 and more](https://blog.playstation.com/2024/04/10/playstation-plus-game-catalog-for-april-dave-the-diver-tales-of-kenzera-zau-the-crew-2-and-more/)<!-- GAME:END -->
+ - [How to add a friend and text chat in Sky: Children of the Light](https://www.pcgamer.com/games/mmo/sky-children-of-the-light-add-friend-text-chat)
+ - [Report: EA Canned Dead Space 2 Remake, Team Working On Battlefield Now [Update: EA Denies Report]](https://kotaku.com/dead-space-2-remake-canceled-sales-motive-battlefield-1851400721)
+ - [9 of the biggest announcements from the first Triple-i Initiative showcase](https://www.polygon.com/24126337/top-announcements-triple-i-initiative-showcase-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
