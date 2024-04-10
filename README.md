@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rat smashers stay winning as Warhammer: Vermintide 2 gets another free update—a whole new map and enemy type](https://www.pcgamer.com/games/action/rat-smashers-stay-winning-as-warhammer-vermintide-2-gets-another-free-updatea-whole-new-map-and-enemy-type)
- - [Wish finally revives the classic Disney villain — but he’s missing something vital](https://www.polygon.com/24125556/wish-disney-plus-magnifico-chris-pine-disney-villains)
- - [Broken Roads review](https://www.pcgamer.com/games/rpg/broken-roads-review)<!-- GAME:END -->
+ - [How ID@Xbox is Enabling 8 Global Game Developers to Realize Their Vision](https://news.xbox.com/en-us/2024/04/10/how-idxbox-is-enabling-8-global-game-developers-to-realize-their-vision/)
+ - [PlayStation Plus Game Catalog for April: Dave the Diver, Tales of Kenzera: Zau, The Crew 2 and more](https://blog.playstation.com/2024/04/10/playstation-plus-game-catalog-for-april-dave-the-diver-tales-of-kenzera-zau-the-crew-2-and-more/)
+ - [PlayStation Plus Game Catalog for April: Dave the Diver, Tales of Kenzera: Zau, The Crew 2 and more](https://blog.playstation.com/2024/04/10/playstation-plus-game-catalog-for-april-dave-the-diver-tales-of-kenzera-zau-the-crew-2-and-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
