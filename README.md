@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
- - 😝 [Lol.](http://9gag.com/gag/aoyEPeg)
- - 👉 [At least men are left alone](http://9gag.com/gag/aLnRwzA)<!-- MEMES:END -->
+ - 6️⃣ [That hug tho.](http://9gag.com/gag/a7oLWrb)
+ - 😝 [He made it!](http://9gag.com/gag/aoyEMWn)
+ - 👉 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)<!-- MEMES:END -->
 
 --- 
 
