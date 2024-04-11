@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No wonder your a piggy](http://9gag.com/gag/aByR02Q)
- - 😝 [Well Chess is funny sometimes](http://9gag.com/gag/axydVnK)
- - 👉 [Sasuke prepare for villain arc](http://9gag.com/gag/azxg8Pz)<!-- MEMES:END -->
+ - 6️⃣ [4 years ago, stupid people took my cat from my yard. She is just the sweetest. Today, 4 years later, the animal shelter called me, saying they found her wandering on the streets about an hour from my house. Now she is back on her favorite blanket. She is 15 years old](http://9gag.com/gag/aE0vgPo)
+ - 😝 [Need more sequel](http://9gag.com/gag/aVvz0q2)
+ - 👉 [What&#39;s next?](http://9gag.com/gag/a1mvQwD)<!-- MEMES:END -->
 
 --- 
 
