@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two former execs of the company behind the Truth Social merger are caught up in a messy hacking lawsuit](https://www.theverge.com/2024/4/10/24126237/truth-social-digital-world-acquisition-corp-hacking-lawsuit-patrick-orlando-eric-swider-trump-media)
- - [Apple’s antitrust case is getting a new judge](https://www.theverge.com/2024/4/10/24126698/apple-doj-antitrust-case-judge-recused)
- - [Meta says it’s fixing ‘HD’ photo sharing in Facebook Messenger](https://www.theverge.com/2024/4/10/24126692/facebook-messenger-hd-photo-sharing-toggle-file-qr-codes)<!-- TECH:END -->
+ - [The Biden administration announces a $110M US-Japan joint AI research initiative funded by Nvidia, Arm, Amazon, Microsoft, and a group of Japanese companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p38#a240410p38)
+ - [Apple has a solution to ghost touch issue on Apple Watch models](https://appleinsider.com/articles/24/04/11/apple-has-a-solution-to-ghost-touch-issue-on-apple-watch-models?utm_medium=rss)
+ - [Hundreds of political and news content creators ask Meta to reverse its default Threads and Instagram setting opting accounts out of seeing &quot;political content&quot; &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240410/p37#a240410p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
