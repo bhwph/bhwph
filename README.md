@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Huawei is building a vast chip equipment R&amp;D center in Shanghai and has already hired numerous engineers who have worked for ASML, TSMC, and others &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240410/p40#a240410p40)
- - [Today&#39;s Wordle Hints and Answer: Help for April 11, #1027     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-11-1027/#ftag=CAD590a51e)
- - [How to use Force Quit and Activity Monitor to close persistent apps](https://appleinsider.com/inside/macos/tips/how-to-use-force-quit-and-activity-monitor-to-close-persistent-apps?utm_medium=rss)<!-- TECH:END -->
+ - [Fitbit steps up its sleep game with a major app refresh](https://www.androidauthority.com/fitbit-sleep-update-3433197/)
+ - [Apple sends threat notifications to individuals in 92 countries, warning them that their iPhone may have been targeted by mercenary spyware attacks &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240411/p4#a240411p4)
+ - [The MPA announces plans to work with US Congress to enact a SOPA-like anti-piracy law; SOPA was fiercely opposed by the tech industry and failed to pass in 2012 &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240411/p3#a240411p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
