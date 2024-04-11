@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The USA is becoming the land of the stupid and brainless.](http://9gag.com/gag/an7qMmn)
- - 😝 [It must be hard on the judges...](http://9gag.com/gag/a7oL37r)
- - 👉 [I felt the adrenaline rush just from watching this..](http://9gag.com/gag/a4PK7Kd)<!-- MEMES:END -->
+ - 6️⃣ [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
+ - 😝 [Police retreat from Islamic mob. London is officially a No-Go zone.](http://9gag.com/gag/aQzPRO2)
+ - 👉 [Trying hard](http://9gag.com/gag/abAXYz8)<!-- MEMES:END -->
 
 --- 
 
