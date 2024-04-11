@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Maybe...](http://9gag.com/gag/aQzP3Xq)
- - 😝 [NASA wins best eclipse picture](http://9gag.com/gag/aAyRDKd)
- - 👉 [Trying hard](http://9gag.com/gag/abAXYz8)<!-- MEMES:END -->
+ - 6️⃣ [In case you missed the solar eclipse the other day......it looked like this](http://9gag.com/gag/aD2AgRx)
+ - 😝 [Need more sequel](http://9gag.com/gag/aVvz0q2)
+ - 👉 [Tachibana Senior High School Band.](http://9gag.com/gag/aoyEe63)<!-- MEMES:END -->
 
 --- 
 
