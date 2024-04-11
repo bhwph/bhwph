@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DuckDuckGo launches Privacy Pro, a new $9.99 per month service with a VPN, personal information removal, and identity theft restoration, available in the US &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240411/p12#a240411p12)
- - [Future Apple Pencil may work on iPhone and never need charging](https://appleinsider.com/articles/24/04/11/future-apple-pencil-may-work-on-iphone-and-never-need-charging?utm_medium=rss)
- - [Humane AI Pin review: well-made, photos look good, and easier to access than a phone, but doesn&#39;t work half the time, really slow, and missing basic features &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240411/p11#a240411p11)<!-- TECH:END -->
+ - [Apple will open the iPhone to repair with used parts](https://www.theverge.com/2024/4/11/24127278/apple-iphone-repair-used-parts)
+ - [Apple will allow activation of used parts in repairs by users &amp; service shops](https://appleinsider.com/articles/24/04/11/apple-will-allow-activation-of-used-parts-in-repairs-by-users-service-shops?utm_medium=rss)
+ - [Apple’s latest sci-fi series is the trippy Dark Matter](https://www.theverge.com/24127236/dark-matter-trailer-date-apple-tv-plus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
