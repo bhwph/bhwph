@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit steps up its sleep game with a major app refresh](https://www.androidauthority.com/fitbit-sleep-update-3433197/)
- - [Apple sends threat notifications to individuals in 92 countries, warning them that their iPhone may have been targeted by mercenary spyware attacks &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240411/p4#a240411p4)
- - [The MPA announces plans to work with US Congress to enact a SOPA-like anti-piracy law; SOPA was fiercely opposed by the tech industry and failed to pass in 2012 &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240411/p3#a240411p3)<!-- TECH:END -->
+ - [OnePlus has suffered a huge sales blow in its most important market](https://www.androidauthority.com/oneplus-products-offline-sales-important-market-3432132/)
+ - [Haven&#39;t Received Your Child Tax Credit Money? Here&#39;s When It Could Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/havent-received-your-child-tax-credit-money-heres-when-it-could-arrive/#ftag=CAD590a51e)
+ - [Apple Warns of iPhone &quot;Mercenary Attack&quot; Across 92 Countries     - CNET](https://www.cnet.com/tech/mobile/apple-warns-of-iphone-mercenary-attack-across-92-countries/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
