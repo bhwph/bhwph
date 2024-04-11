@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Speestorm community up in arms as premium pass can no longer be earned through gameplay: Starting with the next season, if you want it you&#39;ll have to pay for it](https://www.pcgamer.com/games/racing/disney-speestorm-community-up-in-arms-as-premium-pass-can-no-longer-be-earned-through-gameplay-starting-with-the-next-season-if-you-want-it-youll-have-to-pay-for-it)
- - [Play the game that defined 2010s survival horror before it leaves Game Pass](https://www.polygon.com/24126666/amnesia-the-dark-descent-defined-survival-horror-game-pass)
- - [Fox News Is Mad That Scrabble Has Gone ‘Woke’](https://kotaku.com/fox-new-scrabble-is-going-woke-liberal-gen-z-no-score-1851404052)<!-- GAME:END -->
+ - [How to change your vocation in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24106904/change-vocation-class-how-to)
+ - [The Fallout 4 next-gen update announced in 2022 will finally be out later this month](https://www.pcgamer.com/games/rpg/the-fallout-4-next-gen-update-announced-in-2022-will-finally-be-out-later-this-month)
+ - [Steam smash hit Content Warning has sold over 700,000 copies after giving away 6 million free copies](https://www.pcgamer.com/games/horror/steam-smash-hit-content-warning-has-sold-over-700000-copies-after-giving-away-6-million-free-copies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
