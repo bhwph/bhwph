@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That hug tho.](http://9gag.com/gag/a7oLWrb)
- - 😝 [He made it!](http://9gag.com/gag/aoyEMWn)
- - 👉 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)<!-- MEMES:END -->
+ - 6️⃣ [Quick, while the US is asleep!!](http://9gag.com/gag/amoNvZ2)
+ - 😝 [Lean Angle Comparison](http://9gag.com/gag/a87LE3e)
+ - 👉 [Clash of civilizations](http://9gag.com/gag/amoNPBo)<!-- MEMES:END -->
 
 --- 
 
