@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best way to watch the Fallout TV show is to play this building and management sim alongside it](https://www.pcgamer.com/games/sim/the-best-way-to-watch-the-fallout-tv-show-is-to-play-this-building-and-management-sim-alongside-it)
- - [I had a peek at Remnant 2&#39;s newly-announced second DLC: The Forgotten Kingdom, which fleshes out the forests of Yaesha with gorgeous vistas and machine gun pottery](https://www.pcgamer.com/games/third-person-shooter/i-had-a-peek-at-remnant-2s-newly-announced-second-dlc-the-forgotten-kingdom-which-fleshes-out-the-forests-of-yaesha-with-gorgeous-vistas-and-machine-gun-pottery)
- - [Stellar Blade: how a Hollywood monster designer and clay models shaped the terrifying Naytiba](https://blog.playstation.com/2024/04/11/stellar-blade-how-a-hollywood-monster-designer-and-clay-models-shaped-the-terrifying-naytiba/)<!-- GAME:END -->
+ - [Disney Speestorm community up in arms as premium pass can no longer be earned through gameplay: Starting with the next season, if you want it you&#39;ll have to pay for it](https://www.pcgamer.com/games/racing/disney-speestorm-community-up-in-arms-as-premium-pass-can-no-longer-be-earned-through-gameplay-starting-with-the-next-season-if-you-want-it-youll-have-to-pay-for-it)
+ - [Play the game that defined 2010s survival horror before it leaves Game Pass](https://www.polygon.com/24126666/amnesia-the-dark-descent-defined-survival-horror-game-pass)
+ - [Fox News Is Mad That Scrabble Has Gone ‘Woke’](https://kotaku.com/fox-new-scrabble-is-going-woke-liberal-gen-z-no-score-1851404052)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
