@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will open the iPhone to repair with used parts](https://www.theverge.com/2024/4/11/24127278/apple-iphone-repair-used-parts)
- - [Apple will allow activation of used parts in repairs by users &amp; service shops](https://appleinsider.com/articles/24/04/11/apple-will-allow-activation-of-used-parts-in-repairs-by-users-service-shops?utm_medium=rss)
- - [Apple’s latest sci-fi series is the trippy Dark Matter](https://www.theverge.com/24127236/dark-matter-trailer-date-apple-tv-plus)<!-- TECH:END -->
+ - [Unfortunately, a surprise million-dollar App Store windfall for some developers is a bug](https://appleinsider.com/articles/24/04/11/unfortunately-a-surprise-million-dollar-app-store-windfall-for-some-developers-is-a-bug?utm_medium=rss)
+ - [Fallout Pip-Boy review: a wearable fit for the wasteland](https://www.theverge.com/24126232/fallout-pip-boy-review)
+ - [No One Actually Knows How AI Will Affect Jobs](https://www.wired.com/story/ai-impact-on-work-mary-daly-interview/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
