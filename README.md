@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [4 years ago, stupid people took my cat from my yard. She is just the sweetest. Today, 4 years later, the animal shelter called me, saying they found her wandering on the streets about an hour from my house. Now she is back on her favorite blanket. She is 15 years old](http://9gag.com/gag/aE0vgPo)
- - 😝 [Need more sequel](http://9gag.com/gag/aVvz0q2)
- - 👉 [What&#39;s next?](http://9gag.com/gag/a1mvQwD)<!-- MEMES:END -->
+ - 6️⃣ [Henry Cavill being Henry Cavill](http://9gag.com/gag/aYQN7BN)
+ - 😝 [I&#39;m not a HP fan but the writer seems reasonable](http://9gag.com/gag/aE0vBXG)
+ - 👉 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)<!-- MEMES:END -->
 
 --- 
 
