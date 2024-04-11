@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
- - 😝 [Police retreat from Islamic mob. London is officially a No-Go zone.](http://9gag.com/gag/aQzPRO2)
- - 👉 [Trying hard](http://9gag.com/gag/abAXYz8)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
+ - 😝 [Lol.](http://9gag.com/gag/aoyEPeg)
+ - 👉 [At least men are left alone](http://9gag.com/gag/aLnRwzA)<!-- MEMES:END -->
 
 --- 
 
