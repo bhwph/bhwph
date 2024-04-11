@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
- - 😝 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
- - 👉 [Henry Cavill being Henry Cavill](http://9gag.com/gag/aYQN7BN)<!-- MEMES:END -->
+ - 6️⃣ [The USA is becoming the land of the stupid and brainless.](http://9gag.com/gag/an7qMmn)
+ - 😝 [It must be hard on the judges...](http://9gag.com/gag/a7oL37r)
+ - 👉 [I felt the adrenaline rush just from watching this..](http://9gag.com/gag/a4PK7Kd)<!-- MEMES:END -->
 
 --- 
 
