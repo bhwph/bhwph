@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unfortunately, a surprise million-dollar App Store windfall for some developers is a bug](https://appleinsider.com/articles/24/04/11/unfortunately-a-surprise-million-dollar-app-store-windfall-for-some-developers-is-a-bug?utm_medium=rss)
- - [Fallout Pip-Boy review: a wearable fit for the wasteland](https://www.theverge.com/24126232/fallout-pip-boy-review)
- - [No One Actually Knows How AI Will Affect Jobs](https://www.wired.com/story/ai-impact-on-work-mary-daly-interview/)<!-- TECH:END -->
+ - [Apple is reportedly planning a big AI-focused M4 Mac upgrade](https://www.theverge.com/2024/4/11/24127529/apple-upgrade-macs-m4-chip-ai)
+ - [Microsoft is trying to convince Windows 10 users to upgrade with full-screen prompts](https://www.theverge.com/2024/4/11/24127497/microsoft-windows-10-upgrade-prompt-windows-11)
+ - [Q&amp;A with Google Cloud CEO Thomas Kurian on why Google doesn&#39;t need to raise trillions to build a supercomputer, why AI offers a reset in competition, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240411/p25#a240411p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
