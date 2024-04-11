@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram plans to automatically detect and blur nude images sent via DMs, showing a pop-up to sender and recipient, rolling out globally in the coming months &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240411/p9#a240411p9)
- - [Election Workers Are Already Burned Out—and on High Alert](https://www.wired.com/story/election-officials-threats-disinformation/)
- - [Apple warns of a &#39;mercenary spyware attack&#39; on iPhones](https://appleinsider.com/articles/24/04/11/apple-warns-of-a-mercenary-spyware-attack-on-iphones?utm_medium=rss)<!-- TECH:END -->
+ - [DuckDuckGo launches Privacy Pro, a new $9.99 per month service with a VPN, personal information removal, and identity theft restoration, available in the US &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240411/p12#a240411p12)
+ - [Future Apple Pencil may work on iPhone and never need charging](https://appleinsider.com/articles/24/04/11/future-apple-pencil-may-work-on-iphone-and-never-need-charging?utm_medium=rss)
+ - [Humane AI Pin review: well-made, photos look good, and easier to access than a phone, but doesn&#39;t work half the time, really slow, and missing basic features &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240411/p11#a240411p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
