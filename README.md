@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus has suffered a huge sales blow in its most important market](https://www.androidauthority.com/oneplus-products-offline-sales-important-market-3432132/)
- - [Haven&#39;t Received Your Child Tax Credit Money? Here&#39;s When It Could Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/havent-received-your-child-tax-credit-money-heres-when-it-could-arrive/#ftag=CAD590a51e)
- - [Apple Warns of iPhone &quot;Mercenary Attack&quot; Across 92 Countries     - CNET](https://www.cnet.com/tech/mobile/apple-warns-of-iphone-mercenary-attack-across-92-countries/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instagram plans to automatically detect and blur nude images sent via DMs, showing a pop-up to sender and recipient, rolling out globally in the coming months &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240411/p9#a240411p9)
+ - [Election Workers Are Already Burned Out—and on High Alert](https://www.wired.com/story/election-officials-threats-disinformation/)
+ - [Apple warns of a &#39;mercenary spyware attack&#39; on iPhones](https://appleinsider.com/articles/24/04/11/apple-warns-of-a-mercenary-spyware-attack-on-iphones?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
