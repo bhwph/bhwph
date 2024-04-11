@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In case you missed the solar eclipse the other day......it looked like this](http://9gag.com/gag/aD2AgRx)
- - 😝 [Need more sequel](http://9gag.com/gag/aVvz0q2)
- - 👉 [Tachibana Senior High School Band.](http://9gag.com/gag/aoyEe63)<!-- MEMES:END -->
+ - 6️⃣ [No wonder your a piggy](http://9gag.com/gag/aByR02Q)
+ - 😝 [Well Chess is funny sometimes](http://9gag.com/gag/axydVnK)
+ - 👉 [Sasuke prepare for villain arc](http://9gag.com/gag/azxg8Pz)<!-- MEMES:END -->
 
 --- 
 
