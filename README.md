@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is reportedly planning a big AI-focused M4 Mac upgrade](https://www.theverge.com/2024/4/11/24127529/apple-upgrade-macs-m4-chip-ai)
- - [Microsoft is trying to convince Windows 10 users to upgrade with full-screen prompts](https://www.theverge.com/2024/4/11/24127497/microsoft-windows-10-upgrade-prompt-windows-11)
- - [Q&amp;A with Google Cloud CEO Thomas Kurian on why Google doesn&#39;t need to raise trillions to build a supercomputer, why AI offers a reset in competition, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240411/p25#a240411p25)<!-- TECH:END -->
+ - [Dyson’s AR app shows you where you’ve vacuumed](https://www.theverge.com/2024/4/11/24127505/dyson-gen5detect-vacuum-cleantrace-ar-app)
+ - [Android 15 beta 1 is here with app archiving, edge-to-edge apps, and more!](https://www.androidauthority.com/android-15-beta-1-3433378/)
+ - [Android 15’s first beta release is out](https://www.theverge.com/2024/4/11/24127604/android-15-public-beta-pixel)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
