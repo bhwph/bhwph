@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alex Garland has a 2-part agenda for Civil War](https://www.polygon.com/24126438/civil-war-politics-alex-garland-interview)
- - [Here are the World of Warcraft Cataclysm worgen and goblin class choices](https://www.pcgamer.com/games/mmo/world-of-warcraft-wow-cataclysm-classic-goblin-classes-worgen)
- - [Pac-Man Mega Tunnel Battle: Chomp Champs launches May 9](https://blog.playstation.com/2024/04/11/pac-man-mega-tunnel-battle-chomp-champs-launches-may-9/)<!-- GAME:END -->
+ - [The best way to watch the Fallout TV show is to play this building and management sim alongside it](https://www.pcgamer.com/games/sim/the-best-way-to-watch-the-fallout-tv-show-is-to-play-this-building-and-management-sim-alongside-it)
+ - [I had a peek at Remnant 2&#39;s newly-announced second DLC: The Forgotten Kingdom, which fleshes out the forests of Yaesha with gorgeous vistas and machine gun pottery](https://www.pcgamer.com/games/third-person-shooter/i-had-a-peek-at-remnant-2s-newly-announced-second-dlc-the-forgotten-kingdom-which-fleshes-out-the-forests-of-yaesha-with-gorgeous-vistas-and-machine-gun-pottery)
+ - [Stellar Blade: how a Hollywood monster designer and clay models shaped the terrifying Naytiba](https://blog.playstation.com/2024/04/11/stellar-blade-how-a-hollywood-monster-designer-and-clay-models-shaped-the-terrifying-naytiba/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
