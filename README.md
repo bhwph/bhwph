@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can somebody go check up on Silksong fans after the Triple-I Initiative&#39;s tongue-in-cheek loading screen tip, I&#39;m worried about them](https://www.pcgamer.com/games/action/can-somebody-go-check-up-on-silksong-fans-after-the-triple-i-initiatives-tongue-in-cheek-loading-screen-tip-im-worried-about-them)
- - [EA&#39;s surprise megadump of classic Command &amp; Conquer games means Europe&#39;s March game sales were dominated by 25-year-old RTSes, beating WWE 2K24 and Nintendo](https://www.pcgamer.com/games/rts/eas-surprise-megadump-of-classic-command-and-conquer-games-means-europes-march-game-sales-were-dominated-by-25-year-old-rtses-beating-wwe-2k24-and-nintendo)
- - [Nextorage X Series &lpar;NN5PRO&rpar; 2TB review](https://www.pcgamer.com/hardware/ssds/nextorage-x-series-nn5pro-2tb-review)<!-- GAME:END -->
+ - [Alex Garland has a 2-part agenda for Civil War](https://www.polygon.com/24126438/civil-war-politics-alex-garland-interview)
+ - [Here are the World of Warcraft Cataclysm worgen and goblin class choices](https://www.pcgamer.com/games/mmo/world-of-warcraft-wow-cataclysm-classic-goblin-classes-worgen)
+ - [Pac-Man Mega Tunnel Battle: Chomp Champs launches May 9](https://blog.playstation.com/2024/04/11/pac-man-mega-tunnel-battle-chomp-champs-launches-may-9/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
