@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Henry Cavill being Henry Cavill](http://9gag.com/gag/aYQN7BN)
- - 😝 [I&#39;m not a HP fan but the writer seems reasonable](http://9gag.com/gag/aE0vBXG)
- - 👉 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)<!-- MEMES:END -->
+ - 6️⃣ [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
+ - 😝 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
+ - 👉 [Henry Cavill being Henry Cavill](http://9gag.com/gag/aYQN7BN)<!-- MEMES:END -->
 
 --- 
 
