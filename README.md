@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson’s AR app shows you where you’ve vacuumed](https://www.theverge.com/2024/4/11/24127505/dyson-gen5detect-vacuum-cleantrace-ar-app)
- - [Android 15 beta 1 is here with app archiving, edge-to-edge apps, and more!](https://www.androidauthority.com/android-15-beta-1-3433378/)
- - [Android 15’s first beta release is out](https://www.theverge.com/2024/4/11/24127604/android-15-public-beta-pixel)<!-- TECH:END -->
+ - [Rise in corporate Mac use invites more sophisticated hacking](https://appleinsider.com/articles/24/04/11/rise-in-corporate-mac-use-invites-more-sophisticated-hacking?utm_medium=rss)
+ - [Meta releases OpenEQA, a benchmark to measure an AI agent&#39;s understanding of physical spaces by probing it with questions about the environment &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240411/p30#a240411p30)
+ - [Dbrand’s brash social media schtick just cost the company $10,000](https://www.theverge.com/2024/4/11/24127613/dbrand-racist-tweet-apology-mkbhd)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
