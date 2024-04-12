@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hot girls only](http://9gag.com/gag/aNDrgG0)
- - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
- - 👉 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)<!-- MEMES:END -->
+ - 6️⃣ [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
+ - 😝 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)
+ - 👉 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)<!-- MEMES:END -->
 
 --- 
 
