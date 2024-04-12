@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Police retreat from Islamic mob. London is officially a No-Go zone.](http://9gag.com/gag/aQzPRO2)
- - 😝 [CANDYLION](http://9gag.com/gag/a7oLWEz)
- - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
+ - 6️⃣ [Imagine running for your life and this is the fastest you can run.](http://9gag.com/gag/aVvzw1K)
+ - 😝 [Clash of civilizations](http://9gag.com/gag/amoNPBo)
+ - 👉 [Equality is just fantasy](http://9gag.com/gag/aYQNo42)<!-- MEMES:END -->
 
 --- 
 
