@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With the Vision Pro’s Spatial Personas, you can be lonely with friends](https://www.theverge.com/2024/4/12/24128703/apple-vision-pro-spatial-personas-loneliness)
- - [Palo Alto Networks alerts customers that hackers are exploiting a zero-day in its popular GlobalProtect VPN product and promises a patch by April 14 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/240412/p22#a240412p22)
- - [House Votes to Extend—and Expand—a Major US Spy Program](https://www.wired.com/story/house-section-702-vote/)<!-- TECH:END -->
+ - [Rumor: M4 MacBook Pro with AI enhancements expected at the end of 2024](https://appleinsider.com/articles/24/04/11/rumor-m4-macbook-pro-with-ai-enhancements-expected-at-the-end-of-2024?utm_medium=rss)
+ - [Nothing can’t keep a secret, its two upcoming earbuds leak again](https://www.androidauthority.com/nothing-ear-nothing-ear-a-leak-again-3433813/)
+ - [Tesla slashes price for monthly Full Self-Driving subscription](https://www.theverge.com/2024/4/12/24128806/tesla-fsd-subscription-price-cut)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
