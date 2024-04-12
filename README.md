@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [America’s roads and bridges to get $830 million for a climate makeover](https://www.theverge.com/2024/4/12/24128322/transportation-infrastructure-grants-climate-change)
- - [Google threatens to cut off news after California proposes paying media outlets](https://www.theverge.com/2024/4/12/24128363/google-cjpa-news-removal-california)
- - [OpenAI gives premium ChatGPT users access to an updated GPT-4 Turbo, promising more direct, less verbose responses, and use of more conversational language &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240412/p15#a240412p15)<!-- TECH:END -->
+ - [Meta is testing an AI-powered search bar in Instagram to let users chat with Meta AI and discover content &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240412/p19#a240412p19)
+ - [Here’s 16 pages of what Epic wants after winning its Google app store lawsuit](https://www.theverge.com/2024/4/12/24128531/epic-google-proposed-injunction-remedies)
+ - [Epic asks a US court to require Google to allow alt app stores in Play Store and limit Google&#39;s ability to restrict alt app store preloading on Android phones &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240412/p18#a240412p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
