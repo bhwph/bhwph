@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [O.J. Simpson juror casually admitting that 90% of them knew he kiIIed Nicole and Ron, but let him off for revenge:](http://9gag.com/gag/a87L113)
- - 😝 [Is that true? \ud83e\udd14](http://9gag.com/gag/aNDrY5A)
- - 👉 [Mark my words...](http://9gag.com/gag/an7q4xz)<!-- MEMES:END -->
+ - 6️⃣ [Mark my words...](http://9gag.com/gag/an7q4xz)
+ - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
+ - 👉 [That hug tho.](http://9gag.com/gag/a7oLWrb)<!-- MEMES:END -->
 
 --- 
 
