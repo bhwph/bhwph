@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers say they haven&#39;t found &quot;strikingly novel compounds&quot; after analyzing a subset of the 2.2M new crystals DeepMind claimed its AI tool GNoMe discovered &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240412/p1#a240412p1)
- - [Sony Xperia 1 VI design leak may have just confirmed a disappointing change](https://www.androidauthority.com/sony-xperia-1-vi-design-renders-leak-3433537/)
- - [How to make the most of your Mac&#39;s trackpad](https://appleinsider.com/inside/macos/tips/how-to-make-the-most-of-your-macs-trackpad?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Udio, which was founded by four former DeepMind employees in December 2023 and launched a product on April 11 that generates songs from text prompts &lpar;Brian Hiatt/Rolling Stone&rpar;](http://www.techmeme.com/240412/p3#a240412p3)
+ - [OpenAI brings big ChatGPT update for paying users](https://www.androidauthority.com/chatgpt-gpt-4-turbo-update-3433581/)
+ - [Android 15 will free you from using Google Wallet as your default wallet app](https://www.androidauthority.com/android-15-default-wallet-app-3433543/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
