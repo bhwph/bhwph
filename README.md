@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 14 Ultra review: The best camera phone ever?](https://www.androidauthority.com/xiaomi-14-ultra-review-3427893/)
- - [Sources: China asked its largest telecom carriers, including China Mobile, to phase out foreign chips from their equipment by 2027, in a blow to Intel and AMD &lpar;Liza Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240412/p4#a240412p4)
- - [Best Savings Rates Today -- Don&#39;t Sleep on APYs as High as 5.55%, April 12, 2024     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-april-12-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Buy the OnePlus 12, get a free pair of Buds Pro 2 worth $180](https://www.androidauthority.com/oneplus-12-buds-pro-2-deal-3433490/)
+ - [A UK judge throws out Apple&#39;s motion to dismiss a $979M lawsuit representing more than 1,500 developers alleging that App Store&#39;s 30% commission is unfair &lpar;Reuters&rpar;](http://www.techmeme.com/240412/p5#a240412p5)
+ - [Spotify is developing a remix feature to rival sped-up TikTok tunes](https://www.theverge.com/2024/4/12/24128218/spotify-music-remix-feature-sped-up-tiktok-songs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
