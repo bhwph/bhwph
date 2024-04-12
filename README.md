@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can You Really Run on Top of a Train, Like in the Movies?](https://www.wired.com/story/can-you-really-run-on-top-of-a-train/)
- - [A profile of Mistral AI CEO Arthur Mensch, who says, as an atheist, he is uncomfortable with Silicon Valley&#39;s &quot;AGI rhetoric&quot; and &quot;religious&quot; fascination with AI &lpar;New York Times&rpar;](http://www.techmeme.com/240412/p8#a240412p8)
- - [This top 4K dash cam just hit a record-low price at $121](https://www.androidauthority.com/redtiger-4k-dash-cam-deal-3433497/)<!-- TECH:END -->
+ - [America’s roads and bridges to get $830 million for a climate makeover](https://www.theverge.com/2024/4/12/24128322/transportation-infrastructure-grants-climate-change)
+ - [Google threatens to cut off news after California proposes paying media outlets](https://www.theverge.com/2024/4/12/24128363/google-cjpa-news-removal-california)
+ - [OpenAI gives premium ChatGPT users access to an updated GPT-4 Turbo, promising more direct, less verbose responses, and use of more conversational language &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240412/p15#a240412p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
