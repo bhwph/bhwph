@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [American psycho](http://9gag.com/gag/a9ybRMo)
- - 😝 [Bad experience?](http://9gag.com/gag/aByRmoQ)
- - 👉 [IAATPOS for being a thief\u2026.](http://9gag.com/gag/amoNPpv)<!-- MEMES:END -->
+ - 6️⃣ [Hot girls only](http://9gag.com/gag/aNDrgG0)
+ - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
+ - 👉 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)<!-- MEMES:END -->
 
 --- 
 
