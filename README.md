@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A meme in its natural habitat.](http://9gag.com/gag/a9yb1X6)
- - 😝 [How much would you spend for the models? Prada : Yes.](http://9gag.com/gag/a0e87gB)
- - 👉 [Becoming a genious because of a lack of self discipline](http://9gag.com/gag/ayN72My)<!-- MEMES:END -->
+ - 6️⃣ [At first we laughed. Then it became reality](http://9gag.com/gag/agm3ozW)
+ - 😝 [Should stay longer in school](http://9gag.com/gag/aXP0nKP)
+ - 👉 [RIP Nordberg](http://9gag.com/gag/awy0ZvW)<!-- MEMES:END -->
 
 --- 
 
