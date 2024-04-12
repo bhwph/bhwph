@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rise in corporate Mac use invites more sophisticated hacking](https://appleinsider.com/articles/24/04/11/rise-in-corporate-mac-use-invites-more-sophisticated-hacking?utm_medium=rss)
- - [Meta releases OpenEQA, a benchmark to measure an AI agent&#39;s understanding of physical spaces by probing it with questions about the environment &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240411/p30#a240411p30)
- - [Dbrand’s brash social media schtick just cost the company $10,000](https://www.theverge.com/2024/4/11/24127613/dbrand-racist-tweet-apology-mkbhd)<!-- TECH:END -->
+ - [Google says it is discontinuing its Google One VPN due to a lack of use; Google&#39;s free Pixel VPN that debuted in 2022 with the Pixel 7 will remain unchanged &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240411/p34#a240411p34)
+ - [X’s Premium users can no longer hide their blue checks](https://www.theverge.com/2024/4/11/24127906/x-premium-users-can-no-longer-hide-their-blue-checks)
+ - [Virtual physical therapy service Hinge Health lays off ~10% of its workforce; Hinge had an estimated 1,700+ employees, and was valued at $6.2B in October 2021 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240411/p33#a240411p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
