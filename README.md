@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is testing an AI-powered search bar in Instagram to let users chat with Meta AI and discover content &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240412/p19#a240412p19)
- - [Here’s 16 pages of what Epic wants after winning its Google app store lawsuit](https://www.theverge.com/2024/4/12/24128531/epic-google-proposed-injunction-remedies)
- - [Epic asks a US court to require Google to allow alt app stores in Play Store and limit Google&#39;s ability to restrict alt app store preloading on Android phones &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240412/p18#a240412p18)<!-- TECH:END -->
+ - [With the Vision Pro’s Spatial Personas, you can be lonely with friends](https://www.theverge.com/2024/4/12/24128703/apple-vision-pro-spatial-personas-loneliness)
+ - [Palo Alto Networks alerts customers that hackers are exploiting a zero-day in its popular GlobalProtect VPN product and promises a patch by April 14 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/240412/p22#a240412p22)
+ - [House Votes to Extend—and Expand—a Major US Spy Program](https://www.wired.com/story/house-section-702-vote/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
