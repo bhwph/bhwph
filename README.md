@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This love letter to classic JRPGs takes an hour to get going, but then you&#39;re off on a time-travelling &#39;90s joyride](https://www.pcgamer.com/software/this-love-letter-to-classic-jrpgs-takes-an-hour-to-get-going-but-then-youre-off-on-a-time-travelling-90s-joyride)
- - [WoW&#39;s Pandaria Remix feels like it&#39;s emerged from an extended Pandaren brew session in the dev room](https://www.pcgamer.com/games/mmo/wows-pandaria-remix-feels-like-its-emerged-from-an-extended-pandaren-brew-session-in-the-dev-room)
- - [The 30 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
+ - [Civil War ditches present politics in favor of gripping action and emotion](https://www.polygon.com/24099490/civil-war-review-2024-alex-garland)
+ - [Share of the Week: Dragon’s Dogma 2](https://blog.playstation.com/2024/04/12/share-of-the-week-dragons-dogma-2/)
+ - [Pokémon Hacker Arrested For Selling Modified Violet Monsters](https://kotaku.com/pokemon-violet-save-data-hacking-man-arrested-in-japan-1851406936)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
