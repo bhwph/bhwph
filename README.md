@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [First AI-Generated Romance Film Looks Like Crap](https://kotaku.com/next-stop-paris-ai-generated-romance-film-tcl-trailer-1851407455)
- - [Heading Out is a stylish, narrative-focused driving game inspired by classic road flicks of the &#39;70s and &#39;80s](https://www.pcgamer.com/games/racing/heading-out-is-a-stylish-narrative-focused-driving-game-inspired-by-classic-road-flicks-of-the-70s-and-80s)
- - [FF7 Rebirth: How To Reach Party Level 10 &lpar;It’s Now Possible For Everyone&rpar;](https://kotaku.com/final-fantasy-7-ff7-rebirth-party-level-10-bug-1851399786)<!-- GAME:END -->
+ - [Original Fallout lead Tim Cain loves the new show, but remains baffled by how &#39;destructive&#39; fans can act toward &#39;people who are trying to create things&#39;](https://www.pcgamer.com/games/rpg/original-fallout-lead-tim-cain-loves-the-new-show-but-remains-baffled-by-how-destructive-fans-can-act-toward-people-who-are-trying-to-create-things)
+ - [4 key things we learned at CinemaCon about 2024’s biggest movies](https://www.polygon.com/24128842/new-movies-2024-cinemacon-best-trailers-clips)
+ - [Helldivers 2&#39;s new Ground Breaker armor suffers a wardrobe malfunction—it launched with the wrong passives](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-new-ground-breaker-armor-suffers-a-wardrobe-malfunctionit-launched-with-the-wrong-passives)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
