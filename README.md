@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Buy the OnePlus 12, get a free pair of Buds Pro 2 worth $180](https://www.androidauthority.com/oneplus-12-buds-pro-2-deal-3433490/)
- - [A UK judge throws out Apple&#39;s motion to dismiss a $979M lawsuit representing more than 1,500 developers alleging that App Store&#39;s 30% commission is unfair &lpar;Reuters&rpar;](http://www.techmeme.com/240412/p5#a240412p5)
- - [Spotify is developing a remix feature to rival sped-up TikTok tunes](https://www.theverge.com/2024/4/12/24128218/spotify-music-remix-feature-sped-up-tiktok-songs)<!-- TECH:END -->
+ - [Can You Really Run on Top of a Train, Like in the Movies?](https://www.wired.com/story/can-you-really-run-on-top-of-a-train/)
+ - [A profile of Mistral AI CEO Arthur Mensch, who says, as an atheist, he is uncomfortable with Silicon Valley&#39;s &quot;AGI rhetoric&quot; and &quot;religious&quot; fascination with AI &lpar;New York Times&rpar;](http://www.techmeme.com/240412/p8#a240412p8)
+ - [This top 4K dash cam just hit a record-low price at $121](https://www.androidauthority.com/redtiger-4k-dash-cam-deal-3433497/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
