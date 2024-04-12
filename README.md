@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imagine running for your life and this is the fastest you can run.](http://9gag.com/gag/aVvzw1K)
- - 😝 [Clash of civilizations](http://9gag.com/gag/amoNPBo)
- - 👉 [Equality is just fantasy](http://9gag.com/gag/aYQNo42)<!-- MEMES:END -->
+ - 6️⃣ [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)
+ - 😝 [A question for the mens](http://9gag.com/gag/aVvzYR2)
+ - 👉 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)<!-- MEMES:END -->
 
 --- 
 
