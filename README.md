@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I tried to make a medieval paradise in Manor Lords but now it&#39;s just full of eggs and corpses](https://www.pcgamer.com/games/city-builder/i-tried-to-make-a-medieval-paradise-in-manor-lords-but-now-its-just-full-of-eggs-and-corpses)
- - [How Grief and a Deep Love of Games Is at the Centerpiece of Tales of Kenzera: Zau](https://news.xbox.com/en-us/2024/04/12/grief-and-love-of-games-centerpiece-of-tales-of-kenzera-zau/)
- - [Fallout fans spent years debating who dropped the bombs — then the show made a call](https://www.polygon.com/24126632/fallout-tv-nuclear-war-bomb-vault-tec-explainer)<!-- GAME:END -->
+ - [This love letter to classic JRPGs takes an hour to get going, but then you&#39;re off on a time-travelling &#39;90s joyride](https://www.pcgamer.com/software/this-love-letter-to-classic-jrpgs-takes-an-hour-to-get-going-but-then-youre-off-on-a-time-travelling-90s-joyride)
+ - [WoW&#39;s Pandaria Remix feels like it&#39;s emerged from an extended Pandaren brew session in the dev room](https://www.pcgamer.com/games/mmo/wows-pandaria-remix-feels-like-its-emerged-from-an-extended-pandaren-brew-session-in-the-dev-room)
+ - [The 30 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
