@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
- - [A look at Udio, which was founded by four former DeepMind employees in December 2023 and launched a product on April 11 that generates songs from text prompts &lpar;Brian Hiatt/Rolling Stone&rpar;](http://www.techmeme.com/240412/p3#a240412p3)
- - [OpenAI brings big ChatGPT update for paying users](https://www.androidauthority.com/chatgpt-gpt-4-turbo-update-3433581/)<!-- TECH:END -->
+ - [Xiaomi 14 Ultra review: The best camera phone ever?](https://www.androidauthority.com/xiaomi-14-ultra-review-3427893/)
+ - [Sources: China asked its largest telecom carriers, including China Mobile, to phase out foreign chips from their equipment by 2027, in a blow to Intel and AMD &lpar;Liza Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240412/p4#a240412p4)
+ - [Best Savings Rates Today -- Don&#39;t Sleep on APYs as High as 5.55%, April 12, 2024     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-april-12-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
