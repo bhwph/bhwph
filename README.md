@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)
- - 😝 [A question for the mens](http://9gag.com/gag/aVvzYR2)
- - 👉 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)<!-- MEMES:END -->
+ - 6️⃣ [O.J. Simpson juror casually admitting that 90% of them knew he kiIIed Nicole and Ron, but let him off for revenge:](http://9gag.com/gag/a87L113)
+ - 😝 [Is that true? \ud83e\udd14](http://9gag.com/gag/aNDrY5A)
+ - 👉 [Mark my words...](http://9gag.com/gag/an7q4xz)<!-- MEMES:END -->
 
 --- 
 
