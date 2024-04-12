@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [VPN by Google One is shutting down for good](https://www.androidauthority.com/vpn-by-google-one-shut-down-3433530/)
- - [OpenTable plans to display members&#39; first names and profile photos on all reviews, including past reviews, starting May 22 in a bid to provide more transparency &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240411/p35#a240411p35)
- - [Best Budget 3D Printer of 2024     - CNET](https://www.cnet.com/tech/computing/best-budget-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers say they haven&#39;t found &quot;strikingly novel compounds&quot; after analyzing a subset of the 2.2M new crystals DeepMind claimed its AI tool GNoMe discovered &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240412/p1#a240412p1)
+ - [Sony Xperia 1 VI design leak may have just confirmed a disappointing change](https://www.androidauthority.com/sony-xperia-1-vi-design-renders-leak-3433537/)
+ - [How to make the most of your Mac&#39;s trackpad](https://appleinsider.com/inside/macos/tips/how-to-make-the-most-of-your-macs-trackpad?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
