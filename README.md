@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mark my words...](http://9gag.com/gag/an7q4xz)
- - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
- - 👉 [That hug tho.](http://9gag.com/gag/a7oLWrb)<!-- MEMES:END -->
+ - 6️⃣ [American psycho](http://9gag.com/gag/a9ybRMo)
+ - 😝 [Bad experience?](http://9gag.com/gag/aByRmoQ)
+ - 👉 [IAATPOS for being a thief\u2026.](http://9gag.com/gag/amoNPpv)<!-- MEMES:END -->
 
 --- 
 
