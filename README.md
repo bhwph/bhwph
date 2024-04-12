@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Quick, while the US is asleep!!](http://9gag.com/gag/amoNvZ2)
- - 😝 [Lean Angle Comparison](http://9gag.com/gag/a87LE3e)
- - 👉 [Clash of civilizations](http://9gag.com/gag/amoNPBo)<!-- MEMES:END -->
+ - 6️⃣ [Police retreat from Islamic mob. London is officially a No-Go zone.](http://9gag.com/gag/aQzPRO2)
+ - 😝 [CANDYLION](http://9gag.com/gag/a7oLWEz)
+ - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
 
 --- 
 
