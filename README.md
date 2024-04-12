@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Civil War ditches present politics in favor of gripping action and emotion](https://www.polygon.com/24099490/civil-war-review-2024-alex-garland)
- - [Share of the Week: Dragon’s Dogma 2](https://blog.playstation.com/2024/04/12/share-of-the-week-dragons-dogma-2/)
- - [Pokémon Hacker Arrested For Selling Modified Violet Monsters](https://kotaku.com/pokemon-violet-save-data-hacking-man-arrested-in-japan-1851406936)<!-- GAME:END -->
+ - [First AI-Generated Romance Film Looks Like Crap](https://kotaku.com/next-stop-paris-ai-generated-romance-film-tcl-trailer-1851407455)
+ - [Heading Out is a stylish, narrative-focused driving game inspired by classic road flicks of the &#39;70s and &#39;80s](https://www.pcgamer.com/games/racing/heading-out-is-a-stylish-narrative-focused-driving-game-inspired-by-classic-road-flicks-of-the-70s-and-80s)
+ - [FF7 Rebirth: How To Reach Party Level 10 &lpar;It’s Now Possible For Everyone&rpar;](https://kotaku.com/final-fantasy-7-ff7-rebirth-party-level-10-bug-1851399786)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
