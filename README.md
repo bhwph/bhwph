@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam is about to have a big sale on shooters of the first-person variety](https://www.pcgamer.com/games/fps/steam-is-about-to-have-a-big-sale-on-shooters-of-the-first-person-variety)
- - [Today&#39;s Wordle answer for Friday, April 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-12-2024)
- - [I tried to figure out the builds and perks of the Fallout TV show&#39;s protagonists](https://www.pcgamer.com/movies-tv/i-tried-to-figure-out-the-builds-and-perks-of-the-fallout-tv-shows-protagonists)<!-- GAME:END -->
+ - [All Genshin Impact codes from the 4.6 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-4-6-livestream)
+ - [These two crypto-integrated handhelds are aiming to make Web3 gaming happen—because if it doesn&#39;t work the first time, try, try and try again](https://www.pcgamer.com/hardware/handheld-gaming-pcs/these-two-crypto-integrated-handhelds-are-aiming-to-make-web3-gaming-happenbecause-if-it-doesnt-work-the-first-time-try-try-and-try-again)
+ - [Content Warning is giving you a chance to actually go viral by sending your best clips to the lost footage project](https://www.pcgamer.com/games/horror/content-warning-is-giving-you-a-chance-to-actually-go-viral-by-sending-your-best-clips-to-the-lost-footage-project)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
