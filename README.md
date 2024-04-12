@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
- - 😝 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)
- - 👉 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)<!-- MEMES:END -->
+ - 6️⃣ [How much would you spend for the models? Prada : Yes.](http://9gag.com/gag/a0e87gB)
+ - 😝 [A meme in its natural habitat.](http://9gag.com/gag/a9yb1X6)
+ - 👉 [Becoming a genious because of a lack of self discipline](http://9gag.com/gag/ayN72My)<!-- MEMES:END -->
 
 --- 
 
