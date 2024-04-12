@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [At first we laughed. Then it became reality](http://9gag.com/gag/agm3ozW)
- - 😝 [Should stay longer in school](http://9gag.com/gag/aXP0nKP)
- - 👉 [RIP Nordberg](http://9gag.com/gag/awy0ZvW)<!-- MEMES:END -->
+ - 6️⃣ [Mark my words...](http://9gag.com/gag/an7q4xz)
+ - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
+ - 👉 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)<!-- MEMES:END -->
 
 --- 
 
