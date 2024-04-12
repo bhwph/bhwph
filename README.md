@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Genshin Impact codes from the 4.6 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-4-6-livestream)
- - [These two crypto-integrated handhelds are aiming to make Web3 gaming happen—because if it doesn&#39;t work the first time, try, try and try again](https://www.pcgamer.com/hardware/handheld-gaming-pcs/these-two-crypto-integrated-handhelds-are-aiming-to-make-web3-gaming-happenbecause-if-it-doesnt-work-the-first-time-try-try-and-try-again)
- - [Content Warning is giving you a chance to actually go viral by sending your best clips to the lost footage project](https://www.pcgamer.com/games/horror/content-warning-is-giving-you-a-chance-to-actually-go-viral-by-sending-your-best-clips-to-the-lost-footage-project)<!-- GAME:END -->
+ - [I tried to make a medieval paradise in Manor Lords but now it&#39;s just full of eggs and corpses](https://www.pcgamer.com/games/city-builder/i-tried-to-make-a-medieval-paradise-in-manor-lords-but-now-its-just-full-of-eggs-and-corpses)
+ - [How Grief and a Deep Love of Games Is at the Centerpiece of Tales of Kenzera: Zau](https://news.xbox.com/en-us/2024/04/12/grief-and-love-of-games-centerpiece-of-tales-of-kenzera-zau/)
+ - [Fallout fans spent years debating who dropped the bombs — then the show made a call](https://www.polygon.com/24126632/fallout-tv-nuclear-war-bomb-vault-tec-explainer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
