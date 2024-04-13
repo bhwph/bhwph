@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mark my words...](http://9gag.com/gag/an7q4xz)
- - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
- - 👉 [O.J. Simpson juror casually admitting that 90% of them knew he kiIIed Nicole and Ron, but let him off for revenge:](http://9gag.com/gag/a87L113)<!-- MEMES:END -->
+ - 6️⃣ [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)
+ - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
+ - 👉 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)<!-- MEMES:END -->
 
 --- 
 
