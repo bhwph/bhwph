@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
  - 😝 [Guess the country](http://9gag.com/gag/aoyEW6x)
- - 👉 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)<!-- MEMES:END -->
+ - 👉 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)<!-- MEMES:END -->
 
 --- 
 
