@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumor: M4 MacBook Pro with AI enhancements expected at the end of 2024](https://appleinsider.com/articles/24/04/11/rumor-m4-macbook-pro-with-ai-enhancements-expected-at-the-end-of-2024?utm_medium=rss)
- - [Nothing can’t keep a secret, its two upcoming earbuds leak again](https://www.androidauthority.com/nothing-ear-nothing-ear-a-leak-again-3433813/)
- - [Tesla slashes price for monthly Full Self-Driving subscription](https://www.theverge.com/2024/4/12/24128806/tesla-fsd-subscription-price-cut)<!-- TECH:END -->
+ - [Sources: Salesforce is in advanced talks to acquire cloud data management company Informatica, whose market cap crossed $11B after its shares jumped 43% in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240412/p27#a240412p27)
+ - [SAG-AFTRA reaches a tentative deal with major record labels, including WMG and Sony Music Entertainment, that includes protections over the use of AI &lpar;Reuters&rpar;](http://www.techmeme.com/240412/p26#a240412p26)
+ - [Microsoft starts testing ads inside the Start menu on Windows 11 in the Insider builds in the US, and says the app promotions can be disabled in Settings &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240412/p25#a240412p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
