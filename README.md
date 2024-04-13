@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Range Rover Evoque Plug-In Hybrid P300e Review: Price, Specs, Availability](https://www.wired.com/review/range-rover-evoque-p300e-plug-in-hybrid/)
- - [5 of the Best Comedy TV Shows on Netflix     - CNET](https://www.cnet.com/tech/services-and-software/5-of-the-best-comedy-tv-shows-on-netflix/#ftag=CAD590a51e)
- - [A profile of NYC-based Nanotronics, which has raised $162M and is making modular chipmaking plants that can be assembled on site and be functional within a year &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240413/p3#a240413p3)<!-- TECH:END -->
+ - [24 Mother&#39;s Day Gifts We&#39;ve Tried and Love &lpar;2023&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2024/)
+ - [Space Force Is Planning a Military Exercise in Orbit](https://www.wired.com/story/space-force-military-exercise-satellite/)
+ - [Toronto Wants to Manage Storms and Floods—With a Rain Tax](https://www.wired.com/story/rain-tax-toronto-canada-climate-change-weather/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
