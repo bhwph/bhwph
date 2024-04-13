@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky says it is now allowing heads of state to sign up, and adds features including hashtags in profile bios and the ability to long press a link to share &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240413/p9#a240413p9)
- - [These Key Vitamins Can Help Combat Brain Fog     - CNET](https://www.cnet.com/health/nutrition/key-vitamins-to-combat-brain-fog/#ftag=CAD590a51e)
- - [Fubo Review: Top-Tier for Sports, but Channel Selection Falls Short     - CNET](https://www.cnet.com/tech/services-and-software/fubo-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Police arrested four people with $300,000 of stolen Lego kits](https://www.theverge.com/2024/4/13/24129595/lego-crime-ring-arrested-los-angeles-300000-dollars)
+ - [An experiment to see how a Threads feed would work on Mastodon, using lists and testing third-party clients, which shows the bright future of the fediverse &lpar;Anuj Ahooja/augment&rpar;](http://www.techmeme.com/240413/p10#a240413p10)
+ - [Save on Chipolo Trackers and Never Lose Your Wallet or Keys Again     - CNET](https://www.cnet.com/deals/save-on-chipolo-tracker-bundles-and-never-lose-your-wallet-or-keys-again/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
