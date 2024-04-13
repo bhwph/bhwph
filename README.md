@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)
- - 😝 [His 1st and last Dad joke](http://9gag.com/gag/abAXegO)
- - 👉 [Sir, we don&#39;t use logic and statistics here](http://9gag.com/gag/an7qOxo)<!-- MEMES:END -->
+ - 6️⃣ [Al Ittihad `fan` whips player](http://9gag.com/gag/aGyYEy7)
+ - 😝 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)
+ - 👉 [Old but you are welcome you racist sons of b*tches! See you tomorrow!](http://9gag.com/gag/a5QeQgO)<!-- MEMES:END -->
 
 --- 
 
