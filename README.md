@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Japanese moment](http://9gag.com/gag/a1mvWyb)
- - 😝 [New Zealand&#39;s Department of Conservation spend 8 months and $500,000 &lpar;around 300,000USD&rpar; to track down kill this single stoat.](http://9gag.com/gag/a0e8ZyZ)
- - 👉 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
+ - 😝 [Where do these chinese get the sources of their contents? They look realistic](http://9gag.com/gag/aqy9ePY)
+ - 👉 [Japanese moment](http://9gag.com/gag/a1mvWyb)<!-- MEMES:END -->
 
 --- 
 
