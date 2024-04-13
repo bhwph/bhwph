@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And get on it now !](http://9gag.com/gag/aD2A2r9)
- - 😝 [The Fall of European Civilization. Women Being Emotional, Naive And Stupid.](http://9gag.com/gag/aRBwEj7)
- - 👉 [Dualshock battery level low.](http://9gag.com/gag/a4PKoMv)<!-- MEMES:END -->
+ - 6️⃣ [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)
+ - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
+ - 👉 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)<!-- MEMES:END -->
 
 --- 
 
