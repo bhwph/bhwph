@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spigen Tough Armor Samsung Galaxy S24 case review: Should you buy it?](https://www.androidauthority.com/spigen-tough-armor-galaxy-s24-review-3432615/)
- - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/apps-weekly-530-3433745/)
- - [This week’s trailers offered twists on familiar genres](https://www.theverge.com/2024/4/13/24129253/movie-trailers-april-13-joker-folie-a-deux-dark-matter-maxxxine-movies-streaming-games)<!-- TECH:END -->
+ - [Peak Design Everyday Samsung Galaxy S24 case review: Should you buy it?](https://www.androidauthority.com/peak-design-everyday-samsung-galaxy-s24-case-review-3432947/)
+ - [A look at the book The Anxious Generation, as some say author Jonathan Haidt falls short in showing that social media is causing a teen mental health crisis &lpar;Zo&amp;euml; Schiffer/Platformer&rpar;](http://www.techmeme.com/240413/p7#a240413p7)
+ - [The Fellow Aiden Is a Versatile $365 Drip Brewer for Pour-Over Coffee Nerds     - CNET](https://www.cnet.com/home/kitchen-and-household/the-fellow-aiden-is-a-versatile-365-drip-brewer-for-pour-over-coffee-nerds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
