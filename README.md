@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Target gift cards are 10% off today only](https://www.polygon.com/deals/2024/4/13/24124577/target-gift-card-circle-member-discount-deal-sale)
- - [The best thrillers to watch on Netflix this April](https://www.polygon.com/what-to-watch/2024/4/13/24125083/best-thriller-movies-netflix-watch-april-2024)
- - [Today&#39;s Wordle answer for Saturday, April 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-13-2024)<!-- GAME:END -->
+ - [Fallout’s Vaults have even crazier experiments in the games](https://www.polygon.com/24128668/vault-tec-experiments-explainer-lore-prime)
+ - [More Final Fantasy 7 Rebirth &amp; Dragon&#39;s Dogma 2 Tips, You&#39;re Welcome](https://kotaku.com/more-final-fantasy-7-rebirth-dragons-dogma-2-tips-yo-1851406658)
+ - [Target gift cards are 10% off today only](https://www.polygon.com/deals/2024/4/13/24124577/target-gift-card-circle-member-discount-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
