@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [24 Mother&#39;s Day Gifts We&#39;ve Tried and Love &lpar;2023&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2024/)
- - [Space Force Is Planning a Military Exercise in Orbit](https://www.wired.com/story/space-force-military-exercise-satellite/)
- - [Toronto Wants to Manage Storms and Floods—With a Rain Tax](https://www.wired.com/story/rain-tax-toronto-canada-climate-change-weather/)<!-- TECH:END -->
+ - [How much does Prime Video cost around the world?](https://www.androidauthority.com/prime-video-cost-around-the-world-3433771/)
+ - [Elon Musk&#39;s xAI previews Grok-1.5 Vision, its first multimodal model, and says the AI model will be available soon to &quot;early testers and existing Grok users&quot; &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240413/p5#a240413p5)
+ - [It’s been 10 years since my love-hate relationship with the Galaxy S5](https://www.androidauthority.com/samsung-galaxy-s5-10-year-anniversary-3431772/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
