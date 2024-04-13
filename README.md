@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How much does Prime Video cost around the world?](https://www.androidauthority.com/prime-video-cost-around-the-world-3433771/)
- - [Elon Musk&#39;s xAI previews Grok-1.5 Vision, its first multimodal model, and says the AI model will be available soon to &quot;early testers and existing Grok users&quot; &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240413/p5#a240413p5)
- - [It’s been 10 years since my love-hate relationship with the Galaxy S5](https://www.androidauthority.com/samsung-galaxy-s5-10-year-anniversary-3431772/)<!-- TECH:END -->
+ - [Spigen Tough Armor Samsung Galaxy S24 case review: Should you buy it?](https://www.androidauthority.com/spigen-tough-armor-galaxy-s24-review-3432615/)
+ - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/apps-weekly-530-3433745/)
+ - [This week’s trailers offered twists on familiar genres](https://www.theverge.com/2024/4/13/24129253/movie-trailers-april-13-joker-folie-a-deux-dark-matter-maxxxine-movies-streaming-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
