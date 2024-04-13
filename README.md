@@ -120,7 +120,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game studio Possibility Space suddenly closes, owner blames Kotaku report that hasn&#39;t been published yet](https://www.pcgamer.com/gaming-industry/possibility-space-closure)
+ - [Game studio owner suddenly lays everyone off and blames a Kotaku report that hasn&#39;t been published](https://www.pcgamer.com/gaming-industry/possibility-space-closure)
  - [In this strategy city builder you&#39;ll grow your capital through 2,500 years of history](https://www.pcgamer.com/games/city-builder/in-this-strategy-city-builder-youll-grow-your-capital-through-2500-years-of-history)
  - [Xbox Insider Release Notes – Xbox App [2404.1001.21.0]](https://news.xbox.com/en-us/2024/04/12/xbox-insider-release-notes-xbox-app-2404-1001-21-0/)<!-- GAME:END -->
 
