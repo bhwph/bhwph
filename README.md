@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mark my words...](http://9gag.com/gag/an7q4xz)
- - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
- - 👉 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)<!-- MEMES:END -->
+ - 6️⃣ [Japanese moment](http://9gag.com/gag/a1mvWyb)
+ - 😝 [New Zealand&#39;s Department of Conservation spend 8 months and $500,000 &lpar;around 300,000USD&rpar; to track down kill this single stoat.](http://9gag.com/gag/a0e8ZyZ)
+ - 👉 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)<!-- MEMES:END -->
 
 --- 
 
