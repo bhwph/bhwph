@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)
+ - 6️⃣ [Mark my words...](http://9gag.com/gag/an7q4xz)
  - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
- - 👉 [Bad experience?](http://9gag.com/gag/aByRmoQ)<!-- MEMES:END -->
+ - 👉 [O.J. Simpson juror casually admitting that 90% of them knew he kiIIed Nicole and Ron, but let him off for revenge:](http://9gag.com/gag/a87L113)<!-- MEMES:END -->
 
 --- 
 
