@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout’s Vaults have even crazier experiments in the games](https://www.polygon.com/24128668/vault-tec-experiments-explainer-lore-prime)
- - [More Final Fantasy 7 Rebirth &amp; Dragon&#39;s Dogma 2 Tips, You&#39;re Welcome](https://kotaku.com/more-final-fantasy-7-rebirth-dragons-dogma-2-tips-yo-1851406658)
- - [Target gift cards are 10% off today only](https://www.polygon.com/deals/2024/4/13/24124577/target-gift-card-circle-member-discount-deal-sale)<!-- GAME:END -->
+ - [Discord has banned two Switch emulator devs and shuttered their servers in the wake of Yuzu&#39;s defeat](https://www.pcgamer.com/gaming-industry/discord-has-banned-two-switch-emulator-devs-and-shuttered-their-servers-in-the-wake-of-yuzus-defeat)
+ - [The poo-stained humanity of Sasquatch Sunset](https://www.polygon.com/24128791/sasquatch-sunset-review)
+ - [When does the Frostpunk 2 beta start?](https://www.polygon.com/guides/24128320/frostpunk-2-beta-start-time-release-date-how-to-access)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
