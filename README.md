@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Original Fallout lead Tim Cain loves the new show, but remains baffled by how &#39;destructive&#39; fans can act toward &#39;people who are trying to create things&#39;](https://www.pcgamer.com/games/rpg/original-fallout-lead-tim-cain-loves-the-new-show-but-remains-baffled-by-how-destructive-fans-can-act-toward-people-who-are-trying-to-create-things)
- - [4 key things we learned at CinemaCon about 2024’s biggest movies](https://www.polygon.com/24128842/new-movies-2024-cinemacon-best-trailers-clips)
- - [Helldivers 2&#39;s new Ground Breaker armor suffers a wardrobe malfunction—it launched with the wrong passives](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-new-ground-breaker-armor-suffers-a-wardrobe-malfunctionit-launched-with-the-wrong-passives)<!-- GAME:END -->
+ - [Game studio Possibility Space suddenly closes, owner blames Kotaku report that hasn&#39;t been published yet](https://www.pcgamer.com/gaming-industry/possibility-space-closure)
+ - [In this strategy city builder you&#39;ll grow your capital through 2,500 years of history](https://www.pcgamer.com/games/city-builder/in-this-strategy-city-builder-youll-grow-your-capital-through-2500-years-of-history)
+ - [Xbox Insider Release Notes – Xbox App [2404.1001.21.0]](https://news.xbox.com/en-us/2024/04/12/xbox-insider-release-notes-xbox-app-2404-1001-21-0/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
