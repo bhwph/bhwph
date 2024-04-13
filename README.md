@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
- - 😝 [Where do these chinese get the sources of their contents? They look realistic](http://9gag.com/gag/aqy9ePY)
- - 👉 [Japanese moment](http://9gag.com/gag/a1mvWyb)<!-- MEMES:END -->
+ - 6️⃣ [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)
+ - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
+ - 👉 [Bad experience?](http://9gag.com/gag/aByRmoQ)<!-- MEMES:END -->
 
 --- 
 
