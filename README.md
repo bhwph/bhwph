@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, April 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-13-2024)
- - [Game studio owner suddenly lays everyone off and blames a Kotaku report that hasn&#39;t been published](https://www.pcgamer.com/gaming-industry/possibility-space-closure)
- - [In this strategy city builder you&#39;ll grow your capital through 2,500 years of history](https://www.pcgamer.com/games/city-builder/in-this-strategy-city-builder-youll-grow-your-capital-through-2500-years-of-history)<!-- GAME:END -->
+ - [Target gift cards are 10% off today only](https://www.polygon.com/deals/2024/4/13/24124577/target-gift-card-circle-member-discount-deal-sale)
+ - [The best thrillers to watch on Netflix this April](https://www.polygon.com/what-to-watch/2024/4/13/24125083/best-thriller-movies-netflix-watch-april-2024)
+ - [Today&#39;s Wordle answer for Saturday, April 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-13-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
