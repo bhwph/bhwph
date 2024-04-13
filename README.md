@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
- - 😝 [Guess the country](http://9gag.com/gag/aoyEW6x)
- - 👉 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)<!-- MEMES:END -->
+ - 6️⃣ [Guess the country](http://9gag.com/gag/aoyEW6x)
+ - 😝 [Insalah](http://9gag.com/gag/aQzPXoe)
+ - 👉 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)<!-- MEMES:END -->
 
 --- 
 
