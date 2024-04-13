@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)
- - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
- - 👉 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)<!-- MEMES:END -->
+ - 6️⃣ [And get on it now !](http://9gag.com/gag/aD2A2r9)
+ - 😝 [The Fall of European Civilization. Women Being Emotional, Naive And Stupid.](http://9gag.com/gag/aRBwEj7)
+ - 👉 [Dualshock battery level low.](http://9gag.com/gag/a4PKoMv)<!-- MEMES:END -->
 
 --- 
 
