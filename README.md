@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Baldur&#39;s Gate 3 actors tear into AI voice cloning: &#39;That is stealing not just my job but my identity&#39;](https://www.pcgamer.com/gaming-industry/baldurs-gate-3-actors-tear-into-ai-voice-cloning-that-is-stealing-not-just-my-job-but-my-identity)
  - [Discord has banned two Switch emulator devs and shuttered their servers in the wake of Yuzu&#39;s defeat](https://www.pcgamer.com/gaming-industry/discord-has-banned-two-switch-emulator-devs-and-shuttered-their-servers-in-the-wake-of-yuzus-defeat)
- - [The poo-stained humanity of Sasquatch Sunset](https://www.polygon.com/24128791/sasquatch-sunset-review)
- - [When does the Frostpunk 2 beta start?](https://www.polygon.com/guides/24128320/frostpunk-2-beta-start-time-release-date-how-to-access)<!-- GAME:END -->
+ - [The poo-stained humanity of Sasquatch Sunset](https://www.polygon.com/24128791/sasquatch-sunset-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
