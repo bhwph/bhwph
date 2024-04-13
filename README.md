@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peak Design Everyday Samsung Galaxy S24 case review: Should you buy it?](https://www.androidauthority.com/peak-design-everyday-samsung-galaxy-s24-case-review-3432947/)
- - [A look at the book The Anxious Generation, as some say author Jonathan Haidt falls short in showing that social media is causing a teen mental health crisis &lpar;Zo&amp;euml; Schiffer/Platformer&rpar;](http://www.techmeme.com/240413/p7#a240413p7)
- - [The Fellow Aiden Is a Versatile $365 Drip Brewer for Pour-Over Coffee Nerds     - CNET](https://www.cnet.com/home/kitchen-and-household/the-fellow-aiden-is-a-versatile-365-drip-brewer-for-pour-over-coffee-nerds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bluesky says it is now allowing heads of state to sign up, and adds features including hashtags in profile bios and the ability to long press a link to share &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240413/p9#a240413p9)
+ - [These Key Vitamins Can Help Combat Brain Fog     - CNET](https://www.cnet.com/health/nutrition/key-vitamins-to-combat-brain-fog/#ftag=CAD590a51e)
+ - [Fubo Review: Top-Tier for Sports, but Channel Selection Falls Short     - CNET](https://www.cnet.com/tech/services-and-software/fubo-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
