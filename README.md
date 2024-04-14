@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Having a dad is important. A father takes his two criminal sons to the store where they stole and forces them to return the stuff and apologize.](http://9gag.com/gag/aW4QnB4)
- - 😝 [Precision here was truly satisfying](http://9gag.com/gag/a7oLOVq)
- - 👉 [He&#39;s Right](http://9gag.com/gag/aE0vAnn)<!-- MEMES:END -->
+ - 6️⃣ [What\u2019s wrong with Europe.](http://9gag.com/gag/aO8Kepr)
+ - 😝 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)
+ - 👉 [Every time. LMAO](http://9gag.com/gag/an7q7mE)<!-- MEMES:END -->
 
 --- 
 
