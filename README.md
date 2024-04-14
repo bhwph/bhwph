@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: software and services companies have almost $30B of debt that&#39;s classed as distressed, the most in any industry apart from real estate &lpar;Reshmi Basu/Bloomberg&rpar;](http://www.techmeme.com/240414/p3#a240414p3)
- - [An analysis of 200M+ student papers submitted over the past year: ~11% of papers showed signs of AI help and ~3% of papers contained at least 80% AI writing &lpar;Pilita Clark/Financial Times&rpar;](http://www.techmeme.com/240414/p2#a240414p2)
- - [A look at Vana, which raised $20M to let users get paid to share their Reddit posts and other data to train AI models; Reddit banned Vana&#39;s subreddit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240414/p1#a240414p1)<!-- TECH:END -->
+ - [Q&amp;A with Ukraine&#39;s Cyberpolice Department chief Yevhenii Panchenko on his role after Russia&#39;s invasion, battling pro-Russian hacking groups, and more &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240414/p4#a240414p4)
+ - [Last Chance: Snag This Shark FlexBreeze Fan During QVC&#39;s Discovery Days Event     - CNET](https://www.cnet.com/deals/last-chance-snag-this-shark-flexbreeze-fan-during-qvcs-discovery-days-event/#ftag=CAD590a51e)
+ - [The IRS Owes 940,000 Taxpayers $1 Billion in Refunds from 2021. Here&#39;s What to Know     - CNET](https://www.cnet.com/personal-finance/the-irs-owes-940000-taxpayers-1-billion-in-refunds-from-2021-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
