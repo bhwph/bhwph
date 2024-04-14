@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout’s final scene hints at a more complicated universe](https://www.polygon.com/24126748/fallout-final-scene-episode-twist-new-vegas)
- - [The End Of Battlefield 2042, &#39;Woke&#39; Scrabble, And More Of The Week&#39;s Biggest News](https://kotaku.com/the-end-of-battlefield-2042-woke-scrabble-and-more-of-1851406657)
- - [Town-building survival RPG Bellwright hits Early Access this month](https://www.pcgamer.com/games/town-building-survival-rpg-bellwright-hits-early-access-this-month)<!-- GAME:END -->
+ - [Blasphemous dev reveals that Baldur&#39;s Gate 3 studio Larian quietly backed the game on Kickstarter for $1000 and never asked for anything in return](https://www.pcgamer.com/games/action/blasphemous-dev-reveals-that-baldurs-gate-3-studio-larian-quietly-backed-the-game-on-kickstarter-for-dollar1000-and-never-asked-for-anything-in-return)
+ - [Check out this town builder with a deep simulation of ecology and climate](https://www.pcgamer.com/games/strategy/check-out-this-town-builder-with-a-deep-simulation-of-ecology-and-climate)
+ - [Elden Ring dataminer uncovers unused alternate underground zones tied to cut &#39;cataclysm&#39; system that would have altered the world map as you progressed](https://www.pcgamer.com/games/rpg/elden-ring-dataminer-uncovers-unused-alternate-underground-zones-tied-to-cut-cataclysm-system-that-would-have-altered-the-world-map-as-you-progressed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
