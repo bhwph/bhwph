@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s Wordle Hints and Answer: Help for April 14, #1030     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-14-1030/#ftag=CAD590a51e)
  - [Game emulators arrive in App Store following rule changes](https://appleinsider.com/articles/24/04/14/game-emulators-arrive-in-app-store-following-rule-changes?utm_medium=rss)
- - [Sources detail how Senate Commerce Committee chair Maria Cantwell, who recently proposed a privacy bill, has undermined privacy negotiations for years &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240413/p12#a240413p12)
- - [How Israel Is Defending Against Iran&#39;s Drone Attack](https://www.wired.com/story/iran-israel-drone-attack-iron-dome/)<!-- TECH:END -->
+ - [Best Places to Buy Replacement Prescription Lenses Online in 2024     - CNET](https://www.cnet.com/health/personal-care/best-places-to-buy-replacement-prescription-lenses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
