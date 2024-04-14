@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Update: Fallout 4&#39;s lead writer reverses course, clarifies that main character is not actually a war criminal](https://www.pcgamer.com/games/rpg/uh-i-guess-fallout-4s-male-protagonist-is-canonically-a-war-criminal-now)
- - [Baldur&#39;s Gate 3 actors tear into AI voice cloning: &#39;That is stealing not just my job but my identity&#39;](https://www.pcgamer.com/gaming-industry/baldurs-gate-3-actors-tear-into-ai-voice-cloning-that-is-stealing-not-just-my-job-but-my-identity)
- - [Discord has banned two Switch emulator devs and shuttered their servers in the wake of Yuzu&#39;s defeat](https://www.pcgamer.com/gaming-industry/discord-has-banned-two-switch-emulator-devs-and-shuttered-their-servers-in-the-wake-of-yuzus-defeat)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, April 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-14-2024)
+ - [One of the best-reviewed survival crafting games on Steam has hit 1.0 and added 10-person cooperative play](https://www.pcgamer.com/games/survival-crafting/one-of-the-best-reviewed-survival-crafting-games-on-steam-has-hit-10-and-added-10-person-cooperative-play)
+ - [Deep Rock Galactic is rolling out a feature to let you play old seasons](https://www.pcgamer.com/games/fps/deep-rock-galactic-is-rolling-out-a-feature-to-let-you-play-old-seasons)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
