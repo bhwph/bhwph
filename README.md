@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [As it was written](http://9gag.com/gag/aE0vMRp)
- - 😝 [Who&#39;s the driver? Is it a man or a woman?](http://9gag.com/gag/azxg5zm)
- - 👉 [Best childhood memories](http://9gag.com/gag/a34PGdv)<!-- MEMES:END -->
+ - 6️⃣ [This is heartbreaking](http://9gag.com/gag/aZZbZ06)
+ - 😝 [It shocked me how Palestinian support groups abandoned her so quickly](http://9gag.com/gag/a5QeVGy)
+ - 👉 [Guess the country](http://9gag.com/gag/aoyEW6x)<!-- MEMES:END -->
 
 --- 
 
