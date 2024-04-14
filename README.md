@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [???](http://9gag.com/gag/aNDrD6w)
- - 😝 [The immigrant that murdered the 39y old infront of his kid in Sweden](http://9gag.com/gag/aO8K4pN)
- - 👉 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)<!-- MEMES:END -->
+ - 6️⃣ [Having a dad is important. A father takes his two criminal sons to the store where they stole and forces them to return the stuff and apologize.](http://9gag.com/gag/aW4QnB4)
+ - 😝 [Precision here was truly satisfying](http://9gag.com/gag/a7oLOVq)
+ - 👉 [He&#39;s Right](http://9gag.com/gag/aE0vAnn)<!-- MEMES:END -->
 
 --- 
 
