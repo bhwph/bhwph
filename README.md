@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Al Ittihad `fan` whips player](http://9gag.com/gag/aGyYEy7)
- - 😝 [Guess the country](http://9gag.com/gag/aoyEW6x)
+ - 😝 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)
  - 👉 [Every time. LMAO](http://9gag.com/gag/an7q7mE)<!-- MEMES:END -->
 
 --- 
