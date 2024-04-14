@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Al Ittihad `fan` whips player](http://9gag.com/gag/aGyYEy7)
- - 😝 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)
- - 👉 [Every time. LMAO](http://9gag.com/gag/an7q7mE)<!-- MEMES:END -->
+ - 6️⃣ [???](http://9gag.com/gag/aNDrD6w)
+ - 😝 [The immigrant that murdered the 39y old infront of his kid in Sweden](http://9gag.com/gag/aO8K4pN)
+ - 👉 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)<!-- MEMES:END -->
 
 --- 
 
