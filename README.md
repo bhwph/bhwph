@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Google&#39;s new Pixel 9 series, next-gen Pixel Fold, and 5G tablet that is under development will feature a new modem that supports satellite connectivity &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/240414/p6#a240414p6)
- - [Crash Detection helps police locate teenagers killed in New Zealand](https://appleinsider.com/articles/24/04/14/crash-detection-helps-police-locate-teenagers-killed-in-new-zealand?utm_medium=rss)
- - [My money for a super-premium camera phone with stock Android](https://www.androidauthority.com/stock-android-super-camera-phone-3433055/)<!-- TECH:END -->
+ - [Google’s Pixel 9 may get an Apple-like satellite SOS feature](https://www.theverge.com/2024/4/14/24130379/google-pixel-9-emergency-satellite-sos-modem-apple-iphone)
+ - [Best Waffle Makers of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-waffle-makers/#ftag=CAD590a51e)
+ - [The Best Summer Beach and Pool Accessories, According to the CNET Staff Who Use Them     - CNET](https://www.cnet.com/tech/the-best-summer-beach-and-pool-accessories-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
