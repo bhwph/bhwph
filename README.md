@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Police arrested four people with $300,000 of stolen Lego kits](https://www.theverge.com/2024/4/13/24129595/lego-crime-ring-arrested-los-angeles-300000-dollars)
- - [An experiment to see how a Threads feed would work on Mastodon, using lists and testing third-party clients, which shows the bright future of the fediverse &lpar;Anuj Ahooja/augment&rpar;](http://www.techmeme.com/240413/p10#a240413p10)
- - [Save on Chipolo Trackers and Never Lose Your Wallet or Keys Again     - CNET](https://www.cnet.com/deals/save-on-chipolo-tracker-bundles-and-never-lose-your-wallet-or-keys-again/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Israel Is Defending Against Iran&#39;s Drone Assault](https://www.wired.com/story/iran-israel-drone-attack-iron-dome/)
+ - [Best Pixel 8 and Pixel 8 Pro Deals: Save $450 Off the Regular Price or Up to $1,000 off with Trade-In     - CNET](https://www.cnet.com/deals/best-google-pixel-8-deals/#ftag=CAD590a51e)
+ - [Meta says it is testing its Meta AI chatbot with WhatsApp, Instagram, and Messenger users in India and parts of Africa &lpar;TechCrunch&rpar;](http://www.techmeme.com/240413/p11#a240413p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
