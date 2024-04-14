@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Al Ittihad `fan` whips player](http://9gag.com/gag/aGyYEy7)
- - 😝 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)
- - 👉 [Old but you are welcome you racist sons of b*tches! See you tomorrow!](http://9gag.com/gag/a5QeQgO)<!-- MEMES:END -->
+ - 6️⃣ [As it was written](http://9gag.com/gag/aE0vMRp)
+ - 😝 [Who&#39;s the driver? Is it a man or a woman?](http://9gag.com/gag/azxg5zm)
+ - 👉 [Best childhood memories](http://9gag.com/gag/a34PGdv)<!-- MEMES:END -->
 
 --- 
 
