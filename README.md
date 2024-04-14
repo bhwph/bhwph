@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Ukraine&#39;s Cyberpolice Department chief Yevhenii Panchenko on his role after Russia&#39;s invasion, battling pro-Russian hacking groups, and more &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240414/p4#a240414p4)
- - [Last Chance: Snag This Shark FlexBreeze Fan During QVC&#39;s Discovery Days Event     - CNET](https://www.cnet.com/deals/last-chance-snag-this-shark-flexbreeze-fan-during-qvcs-discovery-days-event/#ftag=CAD590a51e)
- - [The IRS Owes 940,000 Taxpayers $1 Billion in Refunds from 2021. Here&#39;s What to Know     - CNET](https://www.cnet.com/personal-finance/the-irs-owes-940000-taxpayers-1-billion-in-refunds-from-2021-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Google&#39;s new Pixel 9 series, next-gen Pixel Fold, and 5G tablet that is under development will feature a new modem that supports satellite connectivity &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/240414/p6#a240414p6)
+ - [Crash Detection helps police locate teenagers killed in New Zealand](https://appleinsider.com/articles/24/04/14/crash-detection-helps-police-locate-teenagers-killed-in-new-zealand?utm_medium=rss)
+ - [My money for a super-premium camera phone with stock Android](https://www.androidauthority.com/stock-android-super-camera-phone-3433055/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
