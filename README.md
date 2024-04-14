@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rise of the Triad: Ludicrous Edition update adds cross-platform multiplayer, another cut character, and more](https://www.pcgamer.com/games/fps/rise-of-the-triad-ludicrous-edition-update-adds-cross-platform-multiplayer-another-cut-character-and-more)
  - [Today&#39;s Wordle answer for Sunday, April 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-14-2024)
- - [One of the best-reviewed survival crafting games on Steam has hit 1.0 and added 10-person cooperative play](https://www.pcgamer.com/games/survival-crafting/one-of-the-best-reviewed-survival-crafting-games-on-steam-has-hit-10-and-added-10-person-cooperative-play)
- - [Deep Rock Galactic is rolling out a feature to let you play old seasons](https://www.pcgamer.com/games/fps/deep-rock-galactic-is-rolling-out-a-feature-to-let-you-play-old-seasons)<!-- GAME:END -->
+ - [One of the best-reviewed survival crafting games on Steam has hit 1.0 and added 10-person cooperative play](https://www.pcgamer.com/games/survival-crafting/one-of-the-best-reviewed-survival-crafting-games-on-steam-has-hit-10-and-added-10-person-cooperative-play)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
