@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first trailer for Outer Range season two makes time feel even more broken](https://www.theverge.com/2024/4/15/24131090/amazon-outer-range-season-2-trailer)
- - [Visible introduces annual plans, offering major cost savings](https://www.androidauthority.com/visible-annual-plans-3434267/)
- - [The budget-friendly Blink Mini 2 security camera is on sale for the first time](https://www.theverge.com/2024/4/15/24130998/amazon-blink-mini-2-security-camera-deal-sale)<!-- TECH:END -->
+ - [Drama about emulators on the App Store has only just begun](https://appleinsider.com/articles/24/04/15/drama-about-emulators-on-the-app-store-has-only-just-begun?utm_medium=rss)
+ - [As nine US states advance online child safety bills, a look at tech giants&#39; lobbying efforts against the legislation, led by industry group NetChoice &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/240415/p22#a240415p22)
+ - [T-Mobile employees report being lured into scamming customers &lpar;Update: T-Mobile statement&rpar;](https://www.androidauthority.com/t-mobile-sim-swapping-scam-3434272/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
