@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [When to expect every Mac to get the AI-based M4 processor](https://appleinsider.com/articles/24/04/14/when-to-expect-every-mac-to-get-the-ai-based-m4-processor?utm_medium=rss)
- - [In Q1, 289.4M smartphones were shipped globally, up 7.8% YoY; iPhone shipments fell 9.6% YoY, more than any top brand, and Xiaomi shipments grew 33.8% YoY &lpar;IDC&rpar;](http://www.techmeme.com/240414/p9#a240414p9)
- - [As Netflix&#39;s new film chief Dan Lin takes charge, the company aims to shift its film strategy to focus on audience appeal and cost efficiency &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/240414/p8#a240414p8)<!-- TECH:END -->
+ - [An overview of Bureau of Labor Statistics data, which shows California&#39;s percentage of US tech jobs has continued to steadily decline since 2020 &lpar;Joseph Politano/Apricitas Economics&rpar;](http://www.techmeme.com/240415/p1#a240415p1)
+ - [Today&#39;s Wordle Hints and Answer: Help for April 15, #1031     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-15-1031/#ftag=CAD590a51e)
+ - [When to expect every Mac to get the AI-based M4 processor](https://appleinsider.com/articles/24/04/14/when-to-expect-every-mac-to-get-the-ai-based-m4-processor?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
