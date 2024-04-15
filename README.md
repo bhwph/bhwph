@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mouse trap: the stick version](http://9gag.com/gag/aMV2nxG)
- - 😝 [Chad woman](http://9gag.com/gag/aO8KZ93)
- - 👉 [Harry Potter in 1950](http://9gag.com/gag/aVvzKny)<!-- MEMES:END -->
+ - 6️⃣ [Who&#39;s the driver? Is it a man or a woman?](http://9gag.com/gag/azxg5zm)
+ - 😝 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)
+ - 👉 [I am really scared.. name me some..](http://9gag.com/gag/aAyR6dE)<!-- MEMES:END -->
 
 --- 
 
