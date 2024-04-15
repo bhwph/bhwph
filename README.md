@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh wow](http://9gag.com/gag/a5Qez5y)
- - 😝 [Screw that sh*t](http://9gag.com/gag/aMV2vGR)
- - 👉 [Cover up](http://9gag.com/gag/adB0eNZ)<!-- MEMES:END -->
+ - 6️⃣ [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)
+ - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
+ - 👉 [That laugh at the end though](http://9gag.com/gag/aVvzZRy)<!-- MEMES:END -->
 
 --- 
 
