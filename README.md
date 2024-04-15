@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)
- - 😝 [Finding a Foot Long Crystal!](http://9gag.com/gag/ajPYZD0)
- - 👉 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)<!-- MEMES:END -->
+ - 6️⃣ [Oh wow](http://9gag.com/gag/a5Qez5y)
+ - 😝 [Screw that sh*t](http://9gag.com/gag/aMV2vGR)
+ - 👉 [Cover up](http://9gag.com/gag/adB0eNZ)<!-- MEMES:END -->
 
 --- 
 
