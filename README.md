@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Microsoft begins its most ambitious security overhaul in two decades, critics question if Microsoft has sufficient incentive to make deep and lasting changes &lpar;Bloomberg&rpar;](http://www.techmeme.com/240415/p9#a240415p9)
- - [Govee’s new smart floor lamps bring Matter support and built-in speakers to spruce up any space](https://www.androidauthority.com/govee-floor-lamp-2-floor-lamp-pro-3433576/)
- - [The Best Google Docs Keyboard Shortcuts for Boosting Your Productivity](https://www.wired.com/story/best-google-docs-keyboard-shortcuts-productivity/)<!-- TECH:END -->
+ - [Deals: Apple&#39;s M2 Mac mini &lpar;16GB RAM, 512GB SSD&rpar; plunges to $899](https://appleinsider.com/articles/24/04/15/deals-apples-m2-mac-mini-16gb-ram-512gb-ssd-plunges-to-899?utm_medium=rss)
+ - [11 Best Strollers for Almost Every Budget and Need &lpar;2024&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)
+ - [Limitless is a new AI tool for your meetings — and an all-hearing wearable gadget](https://www.theverge.com/2024/4/15/24130832/limitless-ai-pendant-wearable-meetings)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
