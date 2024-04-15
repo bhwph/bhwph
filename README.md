@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What\u2019s wrong with Europe.](http://9gag.com/gag/aO8Kepr)
- - 😝 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)
- - 👉 [Every time. LMAO](http://9gag.com/gag/an7q7mE)<!-- MEMES:END -->
+ - 6️⃣ [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
+ - 😝 [How to fix it?](http://9gag.com/gag/an7qRx5)
+ - 👉 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)<!-- MEMES:END -->
 
 --- 
 
