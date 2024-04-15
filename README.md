@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto FOMO Is Back. So Are the Scams](https://www.wired.com/story/cryptocurrency-scams-memecoins/)
- - [The OnePlus Pad 2 launch window may have just leaked](https://www.androidauthority.com/oneplus-pad-2-launch-window-3434032/)
- - [The Pixel 8a briefly appeared on US Cellular, and we’re excited](https://www.androidauthority.com/google-pixel-8a-us-cellular-support-page-spotting-3434025/)<!-- TECH:END -->
+ - [Ugreen DXP8800 Plus network attached storage review: Good hardware, beta software](https://appleinsider.com/articles/24/04/12/ugreen-dxp8800-plus-network-attached-storage-review-good-hardware-beta-software?utm_medium=rss)
+ - [Ikea’s new gaming furniture looks like furniture, not an energy drink](https://www.theverge.com/2024/4/15/24130721/ikea-brannboll-gaming-furniture-range-chair-inflatable-announcement)
+ - [Bitcoin&#39;s next halving, set for around April 20, will cut miners&#39; validating transactions to 450 from 900 now, costing the industry ~$10B in annual revenue &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/240415/p6#a240415p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
