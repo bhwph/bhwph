@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fan Casting The Dredge Film Adaptation](https://kotaku.com/dredge-film-indie-black-salt-games-robert-pattinson-1851410541)
- - [Overwatch 2&#39;s season 10 launch makes it even more MOBA than FPS](https://www.pcgamer.com/games/fps/overwatch-2s-season-10-launch-makes-it-even-more-moba-than-fps)
- - [Overwatch 2 Season 10 shakes up the game a ton this week](https://www.polygon.com/overwatch-2-guide/24128435/season-10-start-time-release-date-battle-pass)<!-- GAME:END -->
+ - [Netflix’s The Circle, Conan O’Brien’s new show, and more new TV this week](https://www.polygon.com/2024/4/15/24120510/netflix-new-tv-jinx-circle-conan-obrien-spiderwick)
+ - [Drill Into the Competition in Overwatch 2 – Season 10](https://overwatch.blizzard.com/en-us/news/24072105/#new_tab)
+ - [Gear up for Quests from the Infinite Staircase with seven classic D&amp;D adventures for just $32](https://www.polygon.com/deals/2024/4/15/24130945/quests-from-the-infinite-staircase-dungeons-and-dragons-tabletop-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
