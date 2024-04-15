@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Just the right kind of weird:&#39; How the secret weapon of a /pizza command let EverQuest 2 slice into WoW and accidentally end up topping Pizza Hut on Google](https://www.pcgamer.com/games/mmo/just-the-right-kind-of-weird-how-the-secret-weapon-of-a-pizza-command-let-everquest-2-slice-into-wow-and-accidentally-end-up-topping-pizza-hut-on-google)
- - [How to fast travel in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24105184/fast-travel-locations-how-to-oxcart-portcrystal-ferrystone)
- - [The Best Games And Biggest Deals To Grab In Steam’s Massive FPS Fest](https://kotaku.com/steam-fps-fest-best-sales-deals-fallout-doom-far-cry-1851411470)<!-- GAME:END -->
+ - [Helldivers 2 dev warns players not to &#39;fall in love&#39; with datamined content that might never come out: &#39;Some are ancient leftovers, some are things that will pop up in the game&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-dev-warns-players-not-to-fall-in-love-with-datamined-content-that-might-never-come-out-some-are-ancient-leftovers-some-are-things-that-will-pop-up-in-the-game)
+ - [Keanu Reeves to voice Shadow in Sonic 3 movie, says report](https://www.polygon.com/24131363/keanu-reeves-shadow-the-hedgehod-sonic-3)
+ - [The Fallout show&#39;s loser Squire Thaddeus is the most quintessential game sidequest character](https://www.pcgamer.com/movies-tv/the-fallout-shows-loser-squire-thaddeus-is-the-most-quintessential-game-sidequest-character)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
