@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
- - 😝 [How to fix it?](http://9gag.com/gag/an7qRx5)
- - 👉 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)<!-- MEMES:END -->
+ - 6️⃣ [Mouse trap: the stick version](http://9gag.com/gag/aMV2nxG)
+ - 😝 [Chad woman](http://9gag.com/gag/aO8KZ93)
+ - 👉 [Harry Potter in 1950](http://9gag.com/gag/aVvzKny)<!-- MEMES:END -->
 
 --- 
 
