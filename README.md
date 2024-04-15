@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s a new week with a new development in the ongoing China-US tech dispute: Now China is going to ban US chips from its telco networks from 2027](https://www.pcgamer.com/hardware/its-a-new-week-with-a-new-development-in-the-ongoing-china-us-tech-dispute-now-china-is-going-to-ban-us-chips-from-its-telco-networks-from-2027)
- - [Today&#39;s Wordle answer for Monday, April 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-15-2024)
- - [There&#39;s a Pac-Man battle royale coming to Steam](https://www.pcgamer.com/games/battle-royale/theres-a-pac-man-battle-royale-coming-to-steam)<!-- GAME:END -->
+ - [A repair shop reveals the RTX 4090 melting connector problem remains worryingly widespread](https://www.pcgamer.com/hardware/graphics-cards/a-repair-shop-reveals-the-rtx-4090-melting-connector-problem-remains-worryingly-widespread)
+ - [Someone has a &#39;brainrot theory&#39; about what&#39;s going on with the Brotherhood in the Fallout TV show and I kind of want it to be true](https://www.pcgamer.com/movies-tv/someone-has-a-brainrot-theory-about-whats-going-on-with-the-brotherhood-in-the-fallout-tv-show-and-i-kind-of-want-it-to-be-true)
+ - [A canceled Nintendo 64 Tomb Raider knock-off has been saved so you can emulate it today](https://www.pcgamer.com/games/action/a-canceled-nintendo-64-tomb-raider-knock-off-has-been-saved-so-you-can-emulate-it-today)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
