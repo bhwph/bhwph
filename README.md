@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Apple&#39;s M2 Mac mini &lpar;16GB RAM, 512GB SSD&rpar; plunges to $899](https://appleinsider.com/articles/24/04/15/deals-apples-m2-mac-mini-16gb-ram-512gb-ssd-plunges-to-899?utm_medium=rss)
- - [11 Best Strollers for Almost Every Budget and Need &lpar;2024&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)
- - [Limitless is a new AI tool for your meetings — and an all-hearing wearable gadget](https://www.theverge.com/2024/4/15/24130832/limitless-ai-pendant-wearable-meetings)<!-- TECH:END -->
+ - [Morgan Stanley fires back at iPhone doomsday research](https://appleinsider.com/articles/24/04/15/morgan-stanley-fires-back-at-iphone-doomsday-research?utm_medium=rss)
+ - [Exclusive: Pixel 9 Pro Fold could be the name of Google’s next foldable, not Fold 2](https://www.androidauthority.com/google-pixel-9-pro-fold-name-3433990/)
+ - [The best earbuds you can buy are at their lowest price ever](https://www.androidauthority.com/sony-wf-1000xm5-earbuds-deal-3434229/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
