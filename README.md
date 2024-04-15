@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Civil War’s forest-fire scene gave the director intense anxiety — because it was too good](https://www.polygon.com/24128742/civil-war-behind-the-scenes-effects-forest-fire-alex-garland)
- - [Amazon Prime&#39;s Fallout Show Has Everyone Playing The Games](https://kotaku.com/fallout-tv-show-amazon-prime-steam-pc-new-vegas-1851410034)
- - [Western Digital will be shipping 4TB SD cards in 2025 for handhelds, laptops, or anything that needs tiny-BIG storage](https://www.pcgamer.com/hardware/storage/western-digital-will-be-shipping-4tb-sd-cards-in-2025-for-handhelds-laptops-or-anything-that-needs-tiny-big-storage)<!-- GAME:END -->
+ - [Fan Casting The Dredge Film Adaptation](https://kotaku.com/dredge-film-indie-black-salt-games-robert-pattinson-1851410541)
+ - [Overwatch 2&#39;s season 10 launch makes it even more MOBA than FPS](https://www.pcgamer.com/games/fps/overwatch-2s-season-10-launch-makes-it-even-more-moba-than-fps)
+ - [Overwatch 2 Season 10 shakes up the game a ton this week](https://www.polygon.com/overwatch-2-guide/24128435/season-10-start-time-release-date-battle-pass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
