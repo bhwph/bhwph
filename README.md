@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blasphemous dev reveals that Baldur&#39;s Gate 3 studio Larian quietly backed the game on Kickstarter for $1000 and never asked for anything in return](https://www.pcgamer.com/games/action/blasphemous-dev-reveals-that-baldurs-gate-3-studio-larian-quietly-backed-the-game-on-kickstarter-for-dollar1000-and-never-asked-for-anything-in-return)
- - [Check out this town builder with a deep simulation of ecology and climate](https://www.pcgamer.com/games/strategy/check-out-this-town-builder-with-a-deep-simulation-of-ecology-and-climate)
- - [Elden Ring dataminer uncovers unused alternate underground zones tied to cut &#39;cataclysm&#39; system that would have altered the world map as you progressed](https://www.pcgamer.com/games/rpg/elden-ring-dataminer-uncovers-unused-alternate-underground-zones-tied-to-cut-cataclysm-system-that-would-have-altered-the-world-map-as-you-progressed)<!-- GAME:END -->
+ - [It&#39;s a new week with a new development in the ongoing China-US tech dispute: Now China is going to ban US chips from its telco networks from 2027](https://www.pcgamer.com/hardware/its-a-new-week-with-a-new-development-in-the-ongoing-china-us-tech-dispute-now-china-is-going-to-ban-us-chips-from-its-telco-networks-from-2027)
+ - [Today&#39;s Wordle answer for Monday, April 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-15-2024)
+ - [There&#39;s a Pac-Man battle royale coming to Steam](https://www.pcgamer.com/games/battle-royale/theres-a-pac-man-battle-royale-coming-to-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
