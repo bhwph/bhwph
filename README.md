@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Morgan Stanley fires back at iPhone doomsday research](https://appleinsider.com/articles/24/04/15/morgan-stanley-fires-back-at-iphone-doomsday-research?utm_medium=rss)
- - [Exclusive: Pixel 9 Pro Fold could be the name of Google’s next foldable, not Fold 2](https://www.androidauthority.com/google-pixel-9-pro-fold-name-3433990/)
- - [The best earbuds you can buy are at their lowest price ever](https://www.androidauthority.com/sony-wf-1000xm5-earbuds-deal-3434229/)<!-- TECH:END -->
+ - [The first trailer for Outer Range season two makes time feel even more broken](https://www.theverge.com/2024/4/15/24131090/amazon-outer-range-season-2-trailer)
+ - [Visible introduces annual plans, offering major cost savings](https://www.androidauthority.com/visible-annual-plans-3434267/)
+ - [The budget-friendly Blink Mini 2 security camera is on sale for the first time](https://www.theverge.com/2024/4/15/24130998/amazon-blink-mini-2-security-camera-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
