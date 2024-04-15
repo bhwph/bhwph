@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fed up homeowner confronts recurring car thieves in driveway](http://9gag.com/gag/aNDrB5v)
- - 😝 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)
- - 👉 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)<!-- MEMES:END -->
+ - 6️⃣ [Yesterday evening, there was a robbery at a phone shop in Whitechapel. The people who own the shop locked the thieves inside so they couldn&#39;t get away.](http://9gag.com/gag/ayN73qp)
+ - 😝 [Fed up homeowner confronts recurring car thieves in driveway](http://9gag.com/gag/aNDrB5v)
+ - 👉 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)<!-- MEMES:END -->
 
 --- 
 
