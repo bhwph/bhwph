@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ugreen DXP8800 Plus network attached storage review: Good hardware, beta software](https://appleinsider.com/articles/24/04/12/ugreen-dxp8800-plus-network-attached-storage-review-good-hardware-beta-software?utm_medium=rss)
- - [Ikea’s new gaming furniture looks like furniture, not an energy drink](https://www.theverge.com/2024/4/15/24130721/ikea-brannboll-gaming-furniture-range-chair-inflatable-announcement)
- - [Bitcoin&#39;s next halving, set for around April 20, will cut miners&#39; validating transactions to 450 from 900 now, costing the industry ~$10B in annual revenue &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/240415/p6#a240415p6)<!-- TECH:END -->
+ - [As Microsoft begins its most ambitious security overhaul in two decades, critics question if Microsoft has sufficient incentive to make deep and lasting changes &lpar;Bloomberg&rpar;](http://www.techmeme.com/240415/p9#a240415p9)
+ - [Govee’s new smart floor lamps bring Matter support and built-in speakers to spruce up any space](https://www.androidauthority.com/govee-floor-lamp-2-floor-lamp-pro-3433576/)
+ - [The Best Google Docs Keyboard Shortcuts for Boosting Your Productivity](https://www.wired.com/story/best-google-docs-keyboard-shortcuts-productivity/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
