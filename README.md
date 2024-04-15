@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s The Circle, Conan O’Brien’s new show, and more new TV this week](https://www.polygon.com/2024/4/15/24120510/netflix-new-tv-jinx-circle-conan-obrien-spiderwick)
- - [Drill Into the Competition in Overwatch 2 – Season 10](https://overwatch.blizzard.com/en-us/news/24072105/#new_tab)
- - [Gear up for Quests from the Infinite Staircase with seven classic D&amp;D adventures for just $32](https://www.polygon.com/deals/2024/4/15/24130945/quests-from-the-infinite-staircase-dungeons-and-dragons-tabletop-deal-sale)<!-- GAME:END -->
+ - [&#39;Just the right kind of weird:&#39; How the secret weapon of a /pizza command let EverQuest 2 slice into WoW and accidentally end up topping Pizza Hut on Google](https://www.pcgamer.com/games/mmo/just-the-right-kind-of-weird-how-the-secret-weapon-of-a-pizza-command-let-everquest-2-slice-into-wow-and-accidentally-end-up-topping-pizza-hut-on-google)
+ - [How to fast travel in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24105184/fast-travel-locations-how-to-oxcart-portcrystal-ferrystone)
+ - [The Best Games And Biggest Deals To Grab In Steam’s Massive FPS Fest](https://kotaku.com/steam-fps-fest-best-sales-deals-fallout-doom-far-cry-1851411470)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
