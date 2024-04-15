@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who&#39;s the driver? Is it a man or a woman?](http://9gag.com/gag/azxg5zm)
- - 😝 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)
- - 👉 [I am really scared.. name me some..](http://9gag.com/gag/aAyR6dE)<!-- MEMES:END -->
+ - 6️⃣ [She can polish me any time](http://9gag.com/gag/a7oLOLz)
+ - 😝 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)
+ - 👉 [Girlfriend got caught cheating and this was her reaction....](http://9gag.com/gag/aVvzgGw)<!-- MEMES:END -->
 
 --- 
 
