@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s new LGA 1851 socket breaks cover giving us even more pins to mush with an errant thumb](https://www.pcgamer.com/hardware/processors/intels-new-lga-1851-socket-breaks-cover-giving-us-even-more-pins-to-mush-with-an-errant-thumb)
- - [A repair shop reveals the RTX 4090 melting connector problem remains worryingly widespread](https://www.pcgamer.com/hardware/graphics-cards/a-repair-shop-reveals-the-rtx-4090-melting-connector-problem-remains-worryingly-widespread)
- - [Someone has a &#39;brainrot theory&#39; about what&#39;s going on with the Brotherhood in the Fallout TV show and I kind of want it to be true](https://www.pcgamer.com/movies-tv/someone-has-a-brainrot-theory-about-whats-going-on-with-the-brotherhood-in-the-fallout-tv-show-and-i-kind-of-want-it-to-be-true)<!-- GAME:END -->
+ - [Civil War’s forest-fire scene gave the director intense anxiety — because it was too good](https://www.polygon.com/24128742/civil-war-behind-the-scenes-effects-forest-fire-alex-garland)
+ - [Amazon Prime&#39;s Fallout Show Has Everyone Playing The Games](https://kotaku.com/fallout-tv-show-amazon-prime-steam-pc-new-vegas-1851410034)
+ - [Western Digital will be shipping 4TB SD cards in 2025 for handhelds, laptops, or anything that needs tiny-BIG storage](https://www.pcgamer.com/hardware/storage/western-digital-will-be-shipping-4tb-sd-cards-in-2025-for-handhelds-laptops-or-anything-that-needs-tiny-big-storage)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
