@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An overview of Bureau of Labor Statistics data, which shows California&#39;s percentage of US tech jobs has continued to steadily decline since 2020 &lpar;Joseph Politano/Apricitas Economics&rpar;](http://www.techmeme.com/240415/p1#a240415p1)
- - [Today&#39;s Wordle Hints and Answer: Help for April 15, #1031     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-15-1031/#ftag=CAD590a51e)
- - [When to expect every Mac to get the AI-based M4 processor](https://appleinsider.com/articles/24/04/14/when-to-expect-every-mac-to-get-the-ai-based-m4-processor?utm_medium=rss)<!-- TECH:END -->
+ - [Motorola Edge 50 Ultra specs leak: A worthy rival to the Pixel 8 Pro?](https://www.androidauthority.com/motorola-edge-50-ultra-specs-leak-3433330/)
+ - [Sony Xperia 1 VI rumors: Expected release date and what we know so far](https://www.androidauthority.com/sony-xperia-1-vi-3361570/)
+ - [An overview of Bureau of Labor Statistics data, which shows California&#39;s percentage of US tech jobs has continued to steadily decline since 2020 &lpar;Joseph Politano/Apricitas Economics&rpar;](http://www.techmeme.com/240415/p1#a240415p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
