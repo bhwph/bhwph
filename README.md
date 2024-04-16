@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [People outside the church in Australia demands the stabber handed over to them](http://9gag.com/gag/a1mv26v)
- - 😝 [Another stabbing down under.](http://9gag.com/gag/aKGw801)
+ - 6️⃣ [That laugh at the end though](http://9gag.com/gag/aVvzZRy)
+ - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
  - 👉 [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)<!-- MEMES:END -->
 
 --- 
