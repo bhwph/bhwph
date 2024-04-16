@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch 7 rumors: Everything we know and want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)
- - [Ghost kitchens and virtual restaurant brands, which boomed during the pandemic after raising billions, are disappearing due to overtaxed kitchens and complaints &lpar;Julie Creswell/New York Times&rpar;](http://www.techmeme.com/240416/p5#a240416p5)
- - [How do QR codes work? Everything you wanted to know](https://www.androidauthority.com/how-do-qr-codes-work-3433303/)<!-- TECH:END -->
+ - [Apple opens fourth Developer Academy in Indonesia](https://appleinsider.com/articles/24/04/16/apple-opens-fourth-developer-academy-in-indonesia?utm_medium=rss)
+ - [Bain Capital agrees to sell UK payroll software company Zellis, acquired in 2017, to Apax Partners; sources say the deal values Zellis at ~&amp;pound;1.25B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240416/p9#a240416p9)
+ - [Celebrity Deepfake Porn Cases Will Be Investigated by Meta Oversight Board](https://www.wired.com/story/meta-oversight-board-deepfake-porn-facebook-instagram/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
