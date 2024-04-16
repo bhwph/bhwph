@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That laugh at the end though](http://9gag.com/gag/aVvzZRy)
- - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
- - 👉 [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)<!-- MEMES:END -->
+ - 6️⃣ [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
+ - 😝 [That laugh at the end though](http://9gag.com/gag/aVvzZRy)
+ - 👉 [Colors, colours](http://9gag.com/gag/abAXx8v)<!-- MEMES:END -->
 
 --- 
 
