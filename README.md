@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 may be able to quarantine misbehaving apps](https://www.androidauthority.com/android-15-quarantine-apps-3434663/)
- - [People are afraid of self-driving cars — can the industry change that?](https://www.theverge.com/2024/4/16/24132026/autonomous-vehicles-fear-poll-public-trust-avia)
- - [Loft Labs, which helps businesses spin up virtual Kubernetes clusters, raised a $24M Series A and says its open source project vCluster has had 40M downloads &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240416/p26#a240416p26)<!-- TECH:END -->
+ - [Boston Dynamics Atlas robot, 2013-2024](https://www.theverge.com/24132451/boston-dynamics-atlas-robot-retirement)
+ - [Sources: HR tech startup Rippling plans to close a Series F at a valuation as high as $13.4B, after a $200M injection plus $670M in shares sold by stockholders &lpar;TechCrunch&rpar;](http://www.techmeme.com/240416/p28#a240416p28)
+ - [WhatsApp Adds Message Filters to Make Itself More Usable     - CNET](https://www.cnet.com/tech/whatsapp-adds-message-filters-to-make-itself-more-usable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
