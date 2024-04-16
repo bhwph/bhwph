@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best free demos to play now in the Steam FPS Fest](https://www.pcgamer.com/software/the-best-free-demos-to-play-now-in-the-steam-fps-fest)
- - [Can Wurmple be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24131251/can-wurmple-be-shiny-silcoon-cascoon-beautifly-dustox)
- - [Can Weedle be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24131245/can-weedle-be-shiny-kakuna-beedrill-mega)<!-- GAME:END -->
+ - [US promises Samsung $6.4B to build more chips on US soil, which only increases the chance of a Made in USA GPU at some point](https://www.pcgamer.com/hardware/graphics-cards/us-promises-samsung-dollar64b-to-build-more-chips-on-us-soil-which-only-increases-the-chance-of-a-made-in-usa-gpu-at-some-point)
+ - [Blizzard obliterates an orb from WoW Classic: Season of Discovery&#39;s 3rd phase for causing problems, leaves a terrifying class of Crusader-enchanted players in its wake](https://www.pcgamer.com/games/world-of-warcraft/blizzard-obliterates-an-orb-from-wow-classic-season-of-discoverys-3rd-phase-for-causing-problems-leaves-a-terrifying-class-of-crusader-enchanted-players-in-its-wake)
+ - [Fortnite executive says its user creation monetisation is strictly &#39;18-plus&#39; but &#39;in regions where it is permissible, yes we should lower that age&#39;](https://www.pcgamer.com/games/third-person-shooter/fortnite-executive-says-its-user-creation-monetisation-is-strictly-18-plus-but-in-regions-where-it-is-permissible-yes-we-should-lower-that-age)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
