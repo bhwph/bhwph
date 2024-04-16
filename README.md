@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple opens fourth Developer Academy in Indonesia](https://appleinsider.com/articles/24/04/16/apple-opens-fourth-developer-academy-in-indonesia?utm_medium=rss)
- - [Bain Capital agrees to sell UK payroll software company Zellis, acquired in 2017, to Apax Partners; sources say the deal values Zellis at ~&amp;pound;1.25B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240416/p9#a240416p9)
- - [Celebrity Deepfake Porn Cases Will Be Investigated by Meta Oversight Board](https://www.wired.com/story/meta-oversight-board-deepfake-porn-facebook-instagram/)<!-- TECH:END -->
+ - [The Motorola Edge 50 Ultra is Motorola’s take on a top-tier Ultra flagship](https://www.androidauthority.com/motorola-edge-50-ultra-3434521/)
+ - [Motorola is bringing the wooden phone back with its new Edge series](https://www.theverge.com/2024/4/16/24131435/motorola-edge-50-ultra-pro-fusion-wood-panel)
+ - [Anker’s latest Soundcore Sleep earbuds actually improve slumber for less than $90](https://www.theverge.com/24125032/soundcore-sleep-a20-review-noise-cancelling-earbuds)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
