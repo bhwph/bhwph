@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bethesda&#39;s official SPECIAL scores for the Fallout show characters has me asking serious questions about the rizz of Walton Ghoulggins](https://www.pcgamer.com/movies-tv/bethesdas-official-special-scores-for-the-fallout-show-characters-has-me-asking-serious-questions-about-the-rizz-of-walton-ghoulggins)
- - [Echo’s Alaqua Cox is waiting for Marvel’s call, but wants to branch out from villainy](https://www.polygon.com/24131270/echo-alaqua-cox-interview-maya-marvel-mcu)
- - [If You’re Worried About The Fallout TV Series Messing With Canon, You’re Missing The Point](https://kotaku.com/fallout-tv-series-canon-amazon-good-adaptation-1851411618)<!-- GAME:END -->
+ - [That Silly Crab Soulslike Hits Xbox Game Pass This Month](https://kotaku.com/xbox-game-pass-another-crabs-treasure-nice-death-nhl-24-1851413430)
+ - [Final Fantasy 14&#39;s graphical update has committed the cardinal sin of messing with lalafell teeth, making them more terrifying than ever](https://www.pcgamer.com/games/mmo/final-fantasy-14s-graphical-update-has-committed-the-cardinal-sin-of-messing-with-lalafell-teeth-making-them-more-terrifying-than-ever)
+ - [Who to give the Jadeite Orb to in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24107709/jadeite-orb-quest-walkthrough-everard-or-offulve-reward)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
