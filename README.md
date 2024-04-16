@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [That Silly Crab Soulslike Hits Xbox Game Pass This Month](https://kotaku.com/xbox-game-pass-another-crabs-treasure-nice-death-nhl-24-1851413430)
- - [Final Fantasy 14&#39;s graphical update has committed the cardinal sin of messing with lalafell teeth, making them more terrifying than ever](https://www.pcgamer.com/games/mmo/final-fantasy-14s-graphical-update-has-committed-the-cardinal-sin-of-messing-with-lalafell-teeth-making-them-more-terrifying-than-ever)
- - [Who to give the Jadeite Orb to in Dragon’s Dogma 2](https://www.polygon.com/dragons-dogma-2-guide/24107709/jadeite-orb-quest-walkthrough-everard-or-offulve-reward)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Releases Local Legend 15: The Dornier Do 31](https://www.flightsimulator.com/local-legend-15-dornier-do-31/#new_tab)
+ - [Overwatch 2’s mythic skin prices revealed to be &lpar;unsurprisingly&rpar; very expensive](https://www.polygon.com/24132048/overwatch-2-mythic-skin-store-prices-prisms)
+ - [Star Wars Outlaws Is Getting Every Scoundrel’s Favorite Card Game](https://kotaku.com/star-wars-outlaws-ubisoft-esrb-minigame-sabacc-1851413817)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
