@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Colors, colours](http://9gag.com/gag/abAXx8v)
- - 😝 [Shoutout to the Millennials out there!](http://9gag.com/gag/avypx3W)
- - 👉 [The Best way to learn How to Backflip](http://9gag.com/gag/aXP02e9)<!-- MEMES:END -->
+ - 6️⃣ [MY PROFITS!!](http://9gag.com/gag/aKGwYbg)
+ - 😝 [I am hiking next weekend. Is this a good idea?](http://9gag.com/gag/aRBw2dQ)
+ - 👉 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)<!-- MEMES:END -->
 
 --- 
 
