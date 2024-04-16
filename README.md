@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [MY PROFITS!!](http://9gag.com/gag/aKGwYbg)
- - 😝 [I am hiking next weekend. Is this a good idea?](http://9gag.com/gag/aRBw2dQ)
- - 👉 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)<!-- MEMES:END -->
+ - 6️⃣ [I am hiking next weekend. Is this a good idea?](http://9gag.com/gag/aRBw2dQ)
+ - 😝 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
+ - 👉 [Cup. Bear](http://9gag.com/gag/abAXBPb)<!-- MEMES:END -->
 
 --- 
 
