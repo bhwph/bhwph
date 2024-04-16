@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Babies born this year face a $500,000 climate bill](https://www.theverge.com/2024/4/16/24131880/baby-climate-change-costs-consumer-reports-study)
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
- - [Future Apple Vision Pro could help the user get life-saving medical advice](https://appleinsider.com/articles/24/04/16/future-apple-vision-pro-could-help-the-user-get-life-saving-medical-advice?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16 Pro 256GB rumor makes sense, but is by a known falsifier](https://appleinsider.com/articles/24/04/16/iphone-16-pro-256gb-rumor-makes-sense-but-is-by-a-known-falsifier?utm_medium=rss)
+ - [Apple rolls out second beta round, including EU Web Distribution in iOS 17.5](https://appleinsider.com/articles/24/04/16/apple-brings-out-new-second-gen-betas-including-web-distribution-for-ios-175?utm_medium=rss)
+ - [Amazon Music’s Maestro lets listeners make AI playlists](https://www.theverge.com/2024/4/16/24132129/amazon-music-maestro-ai-playlist-prompts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
