@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
- - 😝 [That laugh at the end though](http://9gag.com/gag/aVvzZRy)
- - 👉 [Colors, colours](http://9gag.com/gag/abAXx8v)<!-- MEMES:END -->
+ - 6️⃣ [Colors, colours](http://9gag.com/gag/abAXx8v)
+ - 😝 [Shoutout to the Millennials out there!](http://9gag.com/gag/avypx3W)
+ - 👉 [The Best way to learn How to Backflip](http://9gag.com/gag/aXP02e9)<!-- MEMES:END -->
 
 --- 
 
