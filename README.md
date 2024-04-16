@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fed up homeowner confronts recurring car thieves in driveway](http://9gag.com/gag/aNDrB5v)
- - 😝 [Gentlemen looting at a French fair and finally tasting the hospitality of the tenants.](http://9gag.com/gag/aAyRX4L)
- - 👉 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)<!-- MEMES:END -->
+ - 6️⃣ [People outside the church in Australia demands the stabber handed over to them](http://9gag.com/gag/a1mv26v)
+ - 😝 [Another stabbing down under.](http://9gag.com/gag/aKGw801)
+ - 👉 [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)<!-- MEMES:END -->
 
 --- 
 
