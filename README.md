@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [US promises Samsung $6.4B to build more chips on US soil, which only increases the chance of a Made in USA GPU at some point](https://www.pcgamer.com/hardware/graphics-cards/us-promises-samsung-dollar64b-to-build-more-chips-on-us-soil-which-only-increases-the-chance-of-a-made-in-usa-gpu-at-some-point)
- - [Blizzard obliterates an orb from WoW Classic: Season of Discovery&#39;s 3rd phase for causing problems, leaves a terrifying class of Crusader-enchanted players in its wake](https://www.pcgamer.com/games/world-of-warcraft/blizzard-obliterates-an-orb-from-wow-classic-season-of-discoverys-3rd-phase-for-causing-problems-leaves-a-terrifying-class-of-crusader-enchanted-players-in-its-wake)
- - [Fortnite executive says its user creation monetisation is strictly &#39;18-plus&#39; but &#39;in regions where it is permissible, yes we should lower that age&#39;](https://www.pcgamer.com/games/third-person-shooter/fortnite-executive-says-its-user-creation-monetisation-is-strictly-18-plus-but-in-regions-where-it-is-permissible-yes-we-should-lower-that-age)<!-- GAME:END -->
+ - [Bethesda&#39;s official SPECIAL scores for the Fallout show characters has me asking serious questions about the rizz of Walton Ghoulggins](https://www.pcgamer.com/movies-tv/bethesdas-official-special-scores-for-the-fallout-show-characters-has-me-asking-serious-questions-about-the-rizz-of-walton-ghoulggins)
+ - [Echo’s Alaqua Cox is waiting for Marvel’s call, but wants to branch out from villainy](https://www.polygon.com/24131270/echo-alaqua-cox-interview-maya-marvel-mcu)
+ - [If You’re Worried About The Fallout TV Series Messing With Canon, You’re Missing The Point](https://kotaku.com/fallout-tv-series-canon-amazon-good-adaptation-1851411618)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
