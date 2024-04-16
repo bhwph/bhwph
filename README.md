@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)
- - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
- - 👉 [That laugh at the end though](http://9gag.com/gag/aVvzZRy)<!-- MEMES:END -->
+ - 6️⃣ [Finding a Foot Long Crystal!](http://9gag.com/gag/ajPYZD0)
+ - 😝 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
+ - 👉 [One way to make them learn](http://9gag.com/gag/aZZbQQp)<!-- MEMES:END -->
 
 --- 
 
