@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft responds as Star Wars Outlaws comes under fire for Jabba the Hutt season pass exclusive](https://www.pcgamer.com/games/action/ubisoft-responds-as-star-wars-outlaws-comes-under-fire-for-jabba-the-hutt-season-pass-exclusive)
- - [Desktop ATX motherboards with SO-DIMM memory slots? It&#39;s not as silly as it sounds](https://www.pcgamer.com/hardware/memory/desktop-atx-motherboards-with-so-dimm-memory-slots-its-not-as-silly-as-it-sounds)
- - [The Fallout show&#39;s Wasteland looks so good in part because it&#39;s real: Some of it was shot in the same desert as Mad Max: Fury Road](https://www.pcgamer.com/movies-tv/fallout-show-shooting-location-namibia)<!-- GAME:END -->
+ - [Can Wurmple be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24131251/can-wurmple-be-shiny-silcoon-cascoon-beautifly-dustox)
+ - [Can Weedle be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24131245/can-weedle-be-shiny-kakuna-beedrill-mega)
+ - [Can Caterpie be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24131166/can-caterpie-be-shiny-metapod-butterfree)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
