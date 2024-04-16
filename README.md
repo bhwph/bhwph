@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta plans to launch a new education product for Quest that will let teachers access education apps for students ages 13+ and manage multiple headsets at once &lpar;Jennifer A. Kingson/Axios&rpar;](http://www.techmeme.com/240415/p24#a240415p24)
- - [UK mulling potential AI regulation](https://www.theverge.com/2024/4/15/24131392/uk-ai-regulation-draft-safety)
- - [Japan to seek up to 20% fine for monopolistic practices by Apple](https://appleinsider.com/articles/24/04/15/japan-to-seek-up-to-20-fine-for-monopolistic-practices-by-apple?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: the UK plans talks this month with Apple, Meta, and others to push a voluntary charter granting parents more control of social media use by young teens &lpar;Ellen Milligan/Bloomberg&rpar;](http://www.techmeme.com/240415/p31#a240415p31)
+ - [YouTube’s war on ad blockers reaches your phone](https://www.androidauthority.com/youtube-mobile-ad-blockers-3434384/)
+ - [Best Sleep Headphones of 2024     - CNET](https://www.cnet.com/health/sleep/headphones-for-sleeping/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
