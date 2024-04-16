@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Motorola Edge 50 Ultra is Motorola’s take on a top-tier Ultra flagship](https://www.androidauthority.com/motorola-edge-50-ultra-3434521/)
- - [Motorola is bringing the wooden phone back with its new Edge series](https://www.theverge.com/2024/4/16/24131435/motorola-edge-50-ultra-pro-fusion-wood-panel)
- - [Anker’s latest Soundcore Sleep earbuds actually improve slumber for less than $90](https://www.theverge.com/24125032/soundcore-sleep-a20-review-noise-cancelling-earbuds)<!-- TECH:END -->
+ - [The invisible seafaring industry that keeps the internet afloat](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
+ - [Ticketmaster’s Taylor Swift ticketing fiasco might have just led to a lawsuit from the DOJ](https://www.theverge.com/2024/4/16/24131866/doj-ticketmaster-live-nation-antitrust-lawsuit-taylor-swift)
+ - [How to add a Quick Link for locations in Apple Maps in macOS](https://appleinsider.com/inside/apple-maps/tips/how-to-add-a-quick-link-for-locations-in-apple-maps-in-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
