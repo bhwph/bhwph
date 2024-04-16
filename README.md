@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based Bridgewise, which uses AI to provide investment analysis to brokerages, wealth advisors, and exchanges, raised a $21M Series A led by SIX Group &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240415/p35#a240415p35)
- - [Best California King Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-california-king-mattress/#ftag=CAD590a51e)
- - [Baidu says that eight months after launch, its AI chatbot Ernie Bot now has 200M+ users and 85K enterprise clients, after reaching 100M+ users in December &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240415/p34#a240415p34)<!-- TECH:END -->
+ - [Leaked Xiaomi 14T Pro specs point to a OnePlus 12, Galaxy S24 rival](https://www.androidauthority.com/xiaomi-14t-pro-specs-leak-3434020/)
+ - [Noida, India-based B2B e-commerce marketplace ProcMart raised a $30M Series B led by Fundamentum and Edelweiss Discovery Fund, after a $10M Series A in 2022 &lpar;Times of India&rpar;](http://www.techmeme.com/240416/p3#a240416p3)
+ - [Are you happy with the state of YouTube in 2024?](https://www.androidauthority.com/youtube-in-2024-poll-3434431/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
