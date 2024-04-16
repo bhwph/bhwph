@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kode Labs, which develops tools that integrate data from building management systems and IoT devices, raised a $30M Series B led by Maverix Private Equity &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/240415/p32#a240415p32)
- - [Spotify listeners may finally get lossless audio -- but at a cost](https://appleinsider.com/articles/24/04/16/spotify-listeners-may-finally-get-lossless-audio----but-at-a-cost?utm_medium=rss)
- - [Deals: get a free $40 gift card with a Costco membership](https://appleinsider.com/articles/24/04/16/deals-get-a-free-40-gift-card-with-a-costco-membership?utm_medium=rss)<!-- TECH:END -->
+ - [Tel Aviv-based Bridgewise, which uses AI to provide investment analysis to brokerages, wealth advisors, and exchanges, raised a $21M Series A led by SIX Group &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240415/p35#a240415p35)
+ - [Best California King Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-california-king-mattress/#ftag=CAD590a51e)
+ - [Baidu says that eight months after launch, its AI chatbot Ernie Bot now has 200M+ users and 85K enterprise clients, after reaching 100M+ users in December &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240415/p34#a240415p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
