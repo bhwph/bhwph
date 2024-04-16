@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hades 2 is giving fans their first chance to get their hands on the game](https://www.polygon.com/24132181/hades-2-release-date-early-acess-technical-test-update)
- - [Hades 2 technical test set to begin &#39;shortly,&#39; signups are open now](https://www.pcgamer.com/games/action/hades-2-technical-test-set-to-begin-shortly-signups-are-open-now)
- - [XDefiant is finally getting closer: a stress test starts on Friday and will run all weekend long](https://www.pcgamer.com/games/fps/xdefiant-is-finally-getting-closer-a-stress-test-starts-on-friday-and-will-run-all-weekend-long)<!-- GAME:END -->
+ - [Publishers Pivoting To Live-Service Games Have Most Devs Worried](https://kotaku.com/live-service-games-survey-devs-worried-unsure-future-1851414325)
+ - [Grounded’s ‘Fully Yoked’ Update Out Today: A Bigger, Bolder Backyard Awaits](https://grounded.obsidian.net/news/grounded/fully-yoked#new_tab)
+ - [Best Settings To Tweak In Stellar Blade’s Demo](https://kotaku.com/stellar-blade-settings-demo-graphics-pony-tail-1851414393)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
