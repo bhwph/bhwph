@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Xiaomi 14T Pro specs point to a OnePlus 12, Galaxy S24 rival](https://www.androidauthority.com/xiaomi-14t-pro-specs-leak-3434020/)
- - [Noida, India-based B2B e-commerce marketplace ProcMart raised a $30M Series B led by Fundamentum and Edelweiss Discovery Fund, after a $10M Series A in 2022 &lpar;Times of India&rpar;](http://www.techmeme.com/240416/p3#a240416p3)
- - [Are you happy with the state of YouTube in 2024?](https://www.androidauthority.com/youtube-in-2024-poll-3434431/)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 7 rumors: Everything we know and want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)
+ - [Ghost kitchens and virtual restaurant brands, which boomed during the pandemic after raising billions, are disappearing due to overtaxed kitchens and complaints &lpar;Julie Creswell/New York Times&rpar;](http://www.techmeme.com/240416/p5#a240416p5)
+ - [How do QR codes work? Everything you wanted to know](https://www.androidauthority.com/how-do-qr-codes-work-3433303/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
