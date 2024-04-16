@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Releases Local Legend 15: The Dornier Do 31](https://www.flightsimulator.com/local-legend-15-dornier-do-31/#new_tab)
- - [Overwatch 2’s mythic skin prices revealed to be &lpar;unsurprisingly&rpar; very expensive](https://www.polygon.com/24132048/overwatch-2-mythic-skin-store-prices-prisms)
- - [Star Wars Outlaws Is Getting Every Scoundrel’s Favorite Card Game](https://kotaku.com/star-wars-outlaws-ubisoft-esrb-minigame-sabacc-1851413817)<!-- GAME:END -->
+ - [Hades 2 is giving fans their first chance to get their hands on the game](https://www.polygon.com/24132181/hades-2-release-date-early-acess-technical-test-update)
+ - [Hades 2 technical test set to begin &#39;shortly,&#39; signups are open now](https://www.pcgamer.com/games/action/hades-2-technical-test-set-to-begin-shortly-signups-are-open-now)
+ - [XDefiant is finally getting closer: a stress test starts on Friday and will run all weekend long](https://www.pcgamer.com/games/fps/xdefiant-is-finally-getting-closer-a-stress-test-starts-on-friday-and-will-run-all-weekend-long)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
