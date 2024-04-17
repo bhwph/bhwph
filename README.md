@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boston Dynamics Atlas robot, 2013-2024](https://www.theverge.com/24132451/boston-dynamics-atlas-robot-retirement)
- - [Sources: HR tech startup Rippling plans to close a Series F at a valuation as high as $13.4B, after a $200M injection plus $670M in shares sold by stockholders &lpar;TechCrunch&rpar;](http://www.techmeme.com/240416/p28#a240416p28)
- - [WhatsApp Adds Message Filters to Make Itself More Usable     - CNET](https://www.cnet.com/tech/whatsapp-adds-message-filters-to-make-itself-more-usable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Linux Foundation announces the Open Platform for Enterprise AI, to foster the development of open, multi-provider, and composable generative AI systems &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240416/p33#a240416p33)
+ - [Filing: Take-Two plans to lay off 5% of its workforce, expecting to incur up to $200M in charges as part of the downsizing, including $140M from canceled titles &lpar;Rob Golum/Bloomberg&rpar;](http://www.techmeme.com/240416/p32#a240416p32)
+ - [IAB and PwC report on US digital ad sales in 2023: total revenue grew 7.3% YoY to $225B, digital video grew 10.6% to $52.1B, and digital audio grew 18.9% to $7B &lpar;Hana Yoo/AdExchanger&rpar;](http://www.techmeme.com/240416/p31#a240416p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
