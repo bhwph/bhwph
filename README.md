@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
- - 😝 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
- - 👉 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)<!-- MEMES:END -->
+ - 6️⃣ [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - 😝 [They couldn&#39;t believe he came back to life](http://9gag.com/gag/a0e8wxv)
+ - 👉 [Why an I not allowed to walk?!](http://9gag.com/gag/aO8KGP2)<!-- MEMES:END -->
 
 --- 
 
