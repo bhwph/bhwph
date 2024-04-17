@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Donate to AbleGamers for a Chance to Win Epic Prizes From Activision Blizzard](https://win.ablegamers.org/#new_tab)
- - [Why is the X-Men theme song so catchy? ‘It just rips,’ say X-Men ’97 composers](https://www.polygon.com/24132090/x-men-theme-song-97-comparison)
- - [Elon Musk Gets Owned By Elden Ring Morse Code Master](https://kotaku.com/elden-ring-elon-musk-morse-code-twitter-1851415527)<!-- GAME:END -->
+ - [Dwarf Fortress&#39;s graphical adventure mode launches today, includes extremely Dwarf Fortress touches like &#39;186 animal people portraits&#39; and a unique sound effect for walking on soap](https://www.pcgamer.com/games/sim/dwarf-fortresss-graphical-adventure-mode-launches-today-including-extremely-dwarf-fortress-touches-like-186-animal-people-portraits-and-a-unique-sound-effect-for-walking-on-soap)
+ - [Dwarf Fortress’ Adventure Mode morphs the game into a turn-based RPG](https://www.polygon.com/24132899/dwarf-fortress-adventure-mode-beta-announcement-release-date-price)
+ - [The dirty secret to making sci-fi believable](https://www.polygon.com/24132151/sci-fi-fantasy-series-costumes-weathering-fallout)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
