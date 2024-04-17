@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok Notes is a new Instagram rival, and it’s rolling out now](https://www.androidauthority.com/tiktok-notes-rolling-out-3434946/)
- - [ASML reports China represented 49% of its system sales in Q1, while sales from Taiwan more than halved and the US dropped five percentage points to 6% &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240417/p15#a240417p15)
- - [Will the Olympics Save Nike From Its Midlife Crisis?](https://www.wired.com/story/will-the-olympics-save-nike-from-its-midlife-crisis/)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Focus Go is the free photo gallery app I’ve always wanted](https://www.androidauthority.com/focus-go-free-photo-gallery-app-3434495/)
+ - [Samsung Galaxy Book4 Ultra Review: A Powerful Laptop](https://www.wired.com/review/samsung-galaxy-book4-ultra/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
