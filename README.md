@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
- - 😝 [They couldn&#39;t believe he came back to life](http://9gag.com/gag/a0e8wxv)
+ - 6️⃣ [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
+ - 😝 [They don&#39;t make em like this no more](http://9gag.com/gag/aO8KG7y)
  - 👉 [Why an I not allowed to walk?!](http://9gag.com/gag/aO8KGP2)<!-- MEMES:END -->
 
 --- 
