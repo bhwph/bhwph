@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
- - 😝 [They don&#39;t make em like this no more](http://9gag.com/gag/aO8KG7y)
- - 👉 [Why an I not allowed to walk?!](http://9gag.com/gag/aO8KGP2)<!-- MEMES:END -->
+ - 6️⃣ [Shit&#39;s bugged](http://9gag.com/gag/aNDrqw6)
+ - 😝 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
+ - 👉 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)<!-- MEMES:END -->
 
 --- 
 
