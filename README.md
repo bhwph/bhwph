@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Freaks of nature](http://9gag.com/gag/aByR4wP)
- - 😝 [What Should i do](http://9gag.com/gag/a6ZmpWe)
- - 👉 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)<!-- MEMES:END -->
+ - 😝 [Trump is on point](http://9gag.com/gag/ae9jRbB)
+ - 👉 [Big oof...](http://9gag.com/gag/aryv245)<!-- MEMES:END -->
 
 --- 
 
