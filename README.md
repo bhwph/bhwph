@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Victoria 3&#39;s first major expansion is getting punted back by 2 months so Paradox doesn&#39;t repeat the mistake of EU4&#39;s disastrous Leviathan release](https://www.pcgamer.com/games/strategy/victoria-3s-first-major-expansion-is-getting-punted-back-by-2-months-so-paradox-doesnt-repeat-the-mistake-of-eu4s-disastrous-leviathan-release)
- - [Ghost of Tsushima Director’s Cut PC cross-play and system requirements revealed](https://blog.playstation.com/2024/04/17/ghost-of-tsushima-directors-cut-pc-cross-play-and-system-requirements-revealed/)
- - [Intel will have spent over $160,000,000,000 on new fabs, assembly, packaging, testing and R&amp;D facilities by 2030](https://www.pcgamer.com/hardware/processors/intel-will-have-spent-over-dollar160000000000-on-new-fabs-assembly-packaging-testing-and-randd-facilities-by-2030)<!-- GAME:END -->
+ - [Donate to AbleGamers for a Chance to Win Epic Prizes From Activision Blizzard](https://win.ablegamers.org/#new_tab)
+ - [Why is the X-Men theme song so catchy? ‘It just rips,’ say X-Men ’97 composers](https://www.polygon.com/24132090/x-men-theme-song-97-comparison)
+ - [Elon Musk Gets Owned By Elden Ring Morse Code Master](https://kotaku.com/elden-ring-elon-musk-morse-code-twitter-1851415527)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
