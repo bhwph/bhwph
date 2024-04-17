@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dwarf Fortress&#39;s graphical adventure mode launches today, includes extremely Dwarf Fortress touches like &#39;186 animal people portraits&#39; and a unique sound effect for walking on soap](https://www.pcgamer.com/games/sim/dwarf-fortresss-graphical-adventure-mode-launches-today-including-extremely-dwarf-fortress-touches-like-186-animal-people-portraits-and-a-unique-sound-effect-for-walking-on-soap)
- - [Dwarf Fortress’ Adventure Mode morphs the game into a turn-based RPG](https://www.polygon.com/24132899/dwarf-fortress-adventure-mode-beta-announcement-release-date-price)
- - [The dirty secret to making sci-fi believable](https://www.polygon.com/24132151/sci-fi-fantasy-series-costumes-weathering-fallout)<!-- GAME:END -->
+ - [WoW: The War Within&#39;s new arachnophobia filter that turns spiders into crabs was mapped out by a lone developer, but &#39;she had a wonderful time—she likes spiders&#39;](https://www.pcgamer.com/games/world-of-warcraft/wow-the-war-withins-new-arachnophobia-filter-that-turns-spiders-into-crabs-was-mapped-out-by-a-lone-developer-but-she-had-a-wonderful-timeshe-likes-spiders)
+ - [Sample Frostpunk 2’s New Sandbox Mode with the New Beta, Available Now Through April 22](https://news.xbox.com/en-us/2024/04/17/build-your-utopia-with-frostpunk-2-beta-available-now/)
+ - [Morels: The Hunt 2, an intensely chill game about gathering mushrooms and taking pictures of animals, is my unexpected new obsession](https://www.pcgamer.com/games/sim/morels-the-hunt-2-an-intensely-chill-game-about-gathering-mushrooms-and-taking-pictures-of-animals-is-my-unexpected-new-obsession)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
