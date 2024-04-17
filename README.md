@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
- - 😝 [Cup. Bear](http://9gag.com/gag/abAXBPb)
- - 👉 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)<!-- MEMES:END -->
+ - 6️⃣ [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - 😝 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
+ - 👉 [I can see two differences](http://9gag.com/gag/aQzPOzW)<!-- MEMES:END -->
 
 --- 
 
