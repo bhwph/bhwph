@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shit&#39;s bugged](http://9gag.com/gag/aNDrqw6)
- - 😝 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
- - 👉 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)<!-- MEMES:END -->
+ - 6️⃣ [Freaks of nature](http://9gag.com/gag/aByR4wP)
+ - 😝 [What Should i do](http://9gag.com/gag/a6ZmpWe)
+ - 👉 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)<!-- MEMES:END -->
 
 --- 
 
