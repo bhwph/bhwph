@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cup. Bear](http://9gag.com/gag/abAXBPb)
- - 😝 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
- - 👉 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)<!-- MEMES:END -->
+ - 6️⃣ [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
+ - 😝 [Mexicans.](http://9gag.com/gag/a2vzGZE)
+ - 👉 [Movie should have been about them.](http://9gag.com/gag/aZZbR6Q)<!-- MEMES:END -->
 
 --- 
 
