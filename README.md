@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Boring Phone is a with a transparent flip phone that takes me back to my childhood](https://www.androidauthority.com/the-borning-phone-3434819/)
- - [Tel Aviv-based Cynomi, which offers an AI-powered virtual CISO service for managed service providers, raised a $20M Series A led by Canaan &lpar;FinSMEs&rpar;](http://www.techmeme.com/240417/p3#a240417p3)
- - [Herlev, Denmark-based Flatpay, which offers payment services to retail shops, restaurants, salons, and more, raised a &amp;euro;45 Series B led by Dawn Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240417/p2#a240417p2)<!-- TECH:END -->
+ - [Casetify expands its charging solutions with a Qi2 car charger, 240W charging cable](https://www.androidauthority.com/casetify-powerthru-3434805/)
+ - [ASML reports Q1 net sales down 21.6% YoY to &amp;euro;5.29B, vs. &amp;euro;5.39B est., net income down 37.4% YoY to &amp;euro;1.22B, vs. &amp;euro;1.07B est., and net bookings down 4% YoY to &amp;euro;3.6B &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240417/p5#a240417p5)
+ - [Logitech wants you to press its new AI button](https://www.theverge.com/2024/4/17/24132468/logitech-ai-prompt-builder-button)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
