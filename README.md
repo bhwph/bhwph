@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to make Apple Music more private by turning off &#39;Discoverable by Nearby Contacts&#39;](https://appleinsider.com/inside/apple-music/tips/how-to-make-apple-music-more-private-by-turning-off-discoverable-by-nearby-contacts?utm_medium=rss)
- - [Visible’s new annual plans cut the price on a full year of service](https://www.theverge.com/2024/4/17/24133021/visible-verizon-annual-phone-plans-price)
- - [From iPhones to Apple Watch, Apple fans keep showing broad device adoption](https://appleinsider.com/articles/24/04/17/from-iphones-to-apple-watch-apple-fans-keep-showing-broad-device-adoption?utm_medium=rss)<!-- TECH:END -->
+ - [The Pixel 7A is a knockout at its record-low $349](https://www.theverge.com/2024/4/17/24133040/google-pixel-7a-deal-sale)
+ - [Big Tech Squares Off Against US Spies](https://www.wired.com/story/iti-section-702-expansion-opposition/)
+ - [Startup-focused neobank Mercury expands to consumers with Mercury Personal, offering support for multiple users, access to up to $5M in FDIC insurance, and more &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240417/p25#a240417p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
