@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 7A is a knockout at its record-low $349](https://www.theverge.com/2024/4/17/24133040/google-pixel-7a-deal-sale)
- - [Big Tech Squares Off Against US Spies](https://www.wired.com/story/iti-section-702-expansion-opposition/)
- - [Startup-focused neobank Mercury expands to consumers with Mercury Personal, offering support for multiple users, access to up to $5M in FDIC insurance, and more &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240417/p25#a240417p25)<!-- TECH:END -->
+ - [Dwarf Fortress goes on an adventure](https://www.theverge.com/2024/4/17/24133245/dwarf-fortress-steam-adventure-mode-public-beta)
+ - [MTAC report: foreign malign influence from Russia, China, and Iran in the US presidential election got off to a slower start this year compared to 2016 and 2020 &lpar;Clint Watts/Microsoft On the Issues&rpar;](http://www.techmeme.com/240417/p28#a240417p28)
+ - [Boston Dynamics Atlas robot: a full history](https://www.theverge.com/24132451/boston-dynamics-atlas-robot-retirement)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
