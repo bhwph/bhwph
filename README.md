@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple keeps flogging 8GB of RAM for its Mac computers but it&#39;s still a dead horse](https://www.pcgamer.com/hardware/memory/apple-keeps-flogging-8gb-of-ram-for-its-mac-computers-but-its-still-a-dead-horse)
- - [Today&#39;s Wordle answer for Wednesday, April 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-17-2024)
- - [If the Fallout TV series gets a second season it&#39;ll have deathclaws, more than justifying its existence](https://www.pcgamer.com/movies-tv/if-the-fallout-tv-series-gets-a-second-season-itll-have-deathclaws-more-than-justifying-its-existence)<!-- GAME:END -->
+ - [Victoria 3&#39;s first major expansion is getting punted back by 2 months so Paradox doesn&#39;t repeat the mistake of EU4&#39;s disastrous Leviathan release](https://www.pcgamer.com/games/strategy/victoria-3s-first-major-expansion-is-getting-punted-back-by-2-months-so-paradox-doesnt-repeat-the-mistake-of-eu4s-disastrous-leviathan-release)
+ - [Ghost of Tsushima Director’s Cut PC cross-play and system requirements revealed](https://blog.playstation.com/2024/04/17/ghost-of-tsushima-directors-cut-pc-cross-play-and-system-requirements-revealed/)
+ - [Intel will have spent over $160,000,000,000 on new fabs, assembly, packaging, testing and R&amp;D facilities by 2030](https://www.pcgamer.com/hardware/processors/intel-will-have-spent-over-dollar160000000000-on-new-fabs-assembly-packaging-testing-and-randd-facilities-by-2030)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
