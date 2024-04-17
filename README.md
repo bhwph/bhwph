@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
- - 😝 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
- - 👉 [I can see two differences](http://9gag.com/gag/aQzPOzW)<!-- MEMES:END -->
+ - 6️⃣ [I can see two differences](http://9gag.com/gag/aQzPOzW)
+ - 😝 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
+ - 👉 [One of the most viewed photos in history was taken from this location. Can you guess which](http://9gag.com/gag/aPAweKV)<!-- MEMES:END -->
 
 --- 
 
