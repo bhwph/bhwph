@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Apple keeps flogging 8GB of RAM for its Mac computers but it&#39;s still a dead horse](https://www.pcgamer.com/hardware/memory/apple-keeps-flogging-8gb-of-ram-for-its-mac-computers-but-its-still-a-dead-horse)
  - [Today&#39;s Wordle answer for Wednesday, April 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-17-2024)
- - [If the Fallout TV series gets a second season it&#39;ll have deathclaws, more than justifying its existence](https://www.pcgamer.com/movies-tv/if-the-fallout-tv-series-gets-a-second-season-itll-have-deathclaws-more-than-justifying-its-existence)
- - [Grand Theft Auto publisher Take-Two Interactive is laying off 5% of its workforce and &#39;rationalizing its pipeline,&#39; the latest skin-crawling corporate euphemism for people losing their jobs](https://www.pcgamer.com/gaming-industry/grand-theft-auto-publisher-take-two-interactive-is-laying-off-5-of-its-workforce-and-rationalizing-its-pipeline-the-latest-skin-crawling-corporate-euphemism-for-people-losing-their-jobs)<!-- GAME:END -->
+ - [If the Fallout TV series gets a second season it&#39;ll have deathclaws, more than justifying its existence](https://www.pcgamer.com/movies-tv/if-the-fallout-tv-series-gets-a-second-season-itll-have-deathclaws-more-than-justifying-its-existence)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
