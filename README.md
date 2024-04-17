@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jack Black sings the Double Rainbow song to unofficially confirm he&#39;s playing Steve in the Minecraft movie](https://www.pcgamer.com/movies-tv/jack-black-sings-the-double-rainbow-song-to-unofficially-confirm-hes-playing-steve-in-the-minecraft-movie)
- - [We Finally Got A Good Look At Hades 2 Gameplay](https://kotaku.com/hades-2-technical-test-livestream-new-gods-and-weapons-1851417165)
- - [5 years after its first appearance on Xbox One, Bohemia Interactive&#39;s console-exclusive looter-shooter Vigor is finally coming to PC](https://www.pcgamer.com/games/third-person-shooter/5-years-after-its-first-appearance-on-xbox-one-bohemia-interactives-console-exclusive-looter-shooter-vigor-is-finally-coming-to-pc)<!-- GAME:END -->
+ - [Todd Howard confirms the Fallout show didn&#39;t retcon non-Bethesda Fallout games: &#39;Everything that happened in the previous games, including New Vegas, happened&#39;](https://www.pcgamer.com/games/fallout/todd-howard-confirms-the-fallout-show-didnt-retcon-non-bethesda-fallout-games-everything-that-happened-in-the-previous-games-including-new-vegas-happened)
+ - [Ready or Not studio Void Interactive confirms it was hacked in March but says &#39;no user-related data&#39; was stolen](https://www.pcgamer.com/games/fps/ready-or-not-studio-void-interactive-confirms-it-was-hacked-in-march-but-says-no-user-related-data-was-stolen)
+ - [Hades 2 gods somehow even hotter than Hades gods](https://www.polygon.com/24133438/hades-2-characters-art-gods-reactions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
