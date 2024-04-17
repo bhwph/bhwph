@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
- - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
- - 👉 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)<!-- MEMES:END -->
+ - 😝 [Cup. Bear](http://9gag.com/gag/abAXBPb)
+ - 👉 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)<!-- MEMES:END -->
 
 --- 
 
