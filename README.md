@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Casetify expands its charging solutions with a Qi2 car charger, 240W charging cable](https://www.androidauthority.com/casetify-powerthru-3434805/)
- - [ASML reports Q1 net sales down 21.6% YoY to &amp;euro;5.29B, vs. &amp;euro;5.39B est., net income down 37.4% YoY to &amp;euro;1.22B, vs. &amp;euro;1.07B est., and net bookings down 4% YoY to &amp;euro;3.6B &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240417/p5#a240417p5)
- - [Logitech wants you to press its new AI button](https://www.theverge.com/2024/4/17/24132468/logitech-ai-prompt-builder-button)<!-- TECH:END -->
+ - [CIRP: Amazon Prime hit a new high of 180M US shoppers in March 2024, up 8% YoY, despite greater online competition; 75% of US shoppers have a Prime membership &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240417/p9#a240417p9)
+ - [Hackers Linked to Russia’s Military Claim Credit for Sabotaging US Water Utilities](https://www.wired.com/story/cyber-army-of-russia-reborn-sandworm-us-cyberattacks/)
+ - [Owner of Grand Theft Auto to layoff hundreds and cut projects](https://www.theverge.com/2024/4/17/24132791/taketwo-interactive-grand-theft-auto-layoffs-cut-projects)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
