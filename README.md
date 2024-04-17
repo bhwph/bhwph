@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dwarf Fortress goes on an adventure](https://www.theverge.com/2024/4/17/24133245/dwarf-fortress-steam-adventure-mode-public-beta)
- - [MTAC report: foreign malign influence from Russia, China, and Iran in the US presidential election got off to a slower start this year compared to 2016 and 2020 &lpar;Clint Watts/Microsoft On the Issues&rpar;](http://www.techmeme.com/240417/p28#a240417p28)
- - [Boston Dynamics Atlas robot: a full history](https://www.theverge.com/24132451/boston-dynamics-atlas-robot-retirement)<!-- TECH:END -->
+ - [Twitch is bringing its TikTok-style feed to everyone this month](https://www.theverge.com/2024/4/17/24133457/twitch-tiktok-style-feed-rollout)
+ - [Sega is turning Golden Axe into an animated series](https://www.theverge.com/2024/4/17/24133419/sega-golden-axe-tv-series-comedy-central)
+ - [Boston Dynamics debuts an electric version of humanoid robot Atlas for commercial use, a day after retiring the hydraulic Atlas, with a pilot starting in 2025 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240417/p31#a240417p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
