@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CIRP: Amazon Prime hit a new high of 180M US shoppers in March 2024, up 8% YoY, despite greater online competition; 75% of US shoppers have a Prime membership &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240417/p9#a240417p9)
- - [Hackers Linked to Russia’s Military Claim Credit for Sabotaging US Water Utilities](https://www.wired.com/story/cyber-army-of-russia-reborn-sandworm-us-cyberattacks/)
- - [Owner of Grand Theft Auto to layoff hundreds and cut projects](https://www.theverge.com/2024/4/17/24132791/taketwo-interactive-grand-theft-auto-layoffs-cut-projects)<!-- TECH:END -->
+ - [TikTok Notes is a new Instagram rival, and it’s rolling out now](https://www.androidauthority.com/tiktok-notes-rolling-out-3434946/)
+ - [ASML reports China represented 49% of its system sales in Q1, while sales from Taiwan more than halved and the US dropped five percentage points to 6% &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240417/p15#a240417p15)
+ - [Will the Olympics Save Nike From Its Midlife Crisis?](https://www.wired.com/story/will-the-olympics-save-nike-from-its-midlife-crisis/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
