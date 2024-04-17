@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Focus Go is the free photo gallery app I’ve always wanted](https://www.androidauthority.com/focus-go-free-photo-gallery-app-3434495/)
- - [Samsung Galaxy Book4 Ultra Review: A Powerful Laptop](https://www.wired.com/review/samsung-galaxy-book4-ultra/)<!-- TECH:END -->
+ - [How to make Apple Music more private by turning off &#39;Discoverable by Nearby Contacts&#39;](https://appleinsider.com/inside/apple-music/tips/how-to-make-apple-music-more-private-by-turning-off-discoverable-by-nearby-contacts?utm_medium=rss)
+ - [Visible’s new annual plans cut the price on a full year of service](https://www.theverge.com/2024/4/17/24133021/visible-verizon-annual-phone-plans-price)
+ - [From iPhones to Apple Watch, Apple fans keep showing broad device adoption](https://appleinsider.com/articles/24/04/17/from-iphones-to-apple-watch-apple-fans-keep-showing-broad-device-adoption?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
