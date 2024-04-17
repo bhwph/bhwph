@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [WoW: The War Within&#39;s new arachnophobia filter that turns spiders into crabs was mapped out by a lone developer, but &#39;she had a wonderful time—she likes spiders&#39;](https://www.pcgamer.com/games/world-of-warcraft/wow-the-war-withins-new-arachnophobia-filter-that-turns-spiders-into-crabs-was-mapped-out-by-a-lone-developer-but-she-had-a-wonderful-timeshe-likes-spiders)
- - [Sample Frostpunk 2’s New Sandbox Mode with the New Beta, Available Now Through April 22](https://news.xbox.com/en-us/2024/04/17/build-your-utopia-with-frostpunk-2-beta-available-now/)
- - [Morels: The Hunt 2, an intensely chill game about gathering mushrooms and taking pictures of animals, is my unexpected new obsession](https://www.pcgamer.com/games/sim/morels-the-hunt-2-an-intensely-chill-game-about-gathering-mushrooms-and-taking-pictures-of-animals-is-my-unexpected-new-obsession)<!-- GAME:END -->
+ - [Jack Black sings the Double Rainbow song to unofficially confirm he&#39;s playing Steve in the Minecraft movie](https://www.pcgamer.com/movies-tv/jack-black-sings-the-double-rainbow-song-to-unofficially-confirm-hes-playing-steve-in-the-minecraft-movie)
+ - [We Finally Got A Good Look At Hades 2 Gameplay](https://kotaku.com/hades-2-technical-test-livestream-new-gods-and-weapons-1851417165)
+ - [5 years after its first appearance on Xbox One, Bohemia Interactive&#39;s console-exclusive looter-shooter Vigor is finally coming to PC](https://www.pcgamer.com/games/third-person-shooter/5-years-after-its-first-appearance-on-xbox-one-bohemia-interactives-console-exclusive-looter-shooter-vigor-is-finally-coming-to-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
