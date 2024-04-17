@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I can see two differences](http://9gag.com/gag/aQzPOzW)
- - 😝 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
- - 👉 [One of the most viewed photos in history was taken from this location. Can you guess which](http://9gag.com/gag/aPAweKV)<!-- MEMES:END -->
+ - 6️⃣ [Cup. Bear](http://9gag.com/gag/abAXBPb)
+ - 😝 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
+ - 👉 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)<!-- MEMES:END -->
 
 --- 
 
