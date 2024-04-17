@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s Wordle Hints and Answer: Help for April 17, #1033     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-17-1033/#ftag=CAD590a51e)
- - [Source: Mistral is in talks with investors about raising several hundred million dollars at a $5B valuation, after raising $415M at a $2B valuation in Dec. 2023 &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240416/p34#a240416p34)
- - [Will Massachusetts Ditch Its Competitive Energy Market?     - CNET](https://www.cnet.com/how-to/will-massachusetts-ditch-its-competitive-energy-market/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Boring Phone is a with a transparent flip phone that takes me back to my childhood](https://www.androidauthority.com/the-borning-phone-3434819/)
+ - [Tel Aviv-based Cynomi, which offers an AI-powered virtual CISO service for managed service providers, raised a $20M Series A led by Canaan &lpar;FinSMEs&rpar;](http://www.techmeme.com/240417/p3#a240417p3)
+ - [Herlev, Denmark-based Flatpay, which offers payment services to retail shops, restaurants, salons, and more, raised a &amp;euro;45 Series B led by Dawn Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240417/p2#a240417p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
