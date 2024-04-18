@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix reports Q1 revenue up 15% YoY to $9.37B, vs. $9.28B est., paid users up 16% YoY to 269.6M, vs. 264.2M est., and net income $2.3B, up from $1.3B YoY &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/240418/p31#a240418p31)
- - [Apple Sainte-Catherine store will move to a new location down the street](https://appleinsider.com/articles/24/04/18/apple-sainte-catherine-store-will-move-to-a-new-location-down-the-street?utm_medium=rss)
- - [Google merges Android and hardware teams for the sake of speed and AI](https://www.androidauthority.com/google-merges-android-and-hardware-teams-3435469/)<!-- TECH:END -->
+ - [Google says it will consolidate teams that focus on building AI models across Research and DeepMind, and move its Responsible AI teams in Research to DeepMind &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240418/p34#a240418p34)
+ - [We Finally Know Where Neuralink’s Brain Implant Trial Is Happening](https://www.wired.com/story/neuralink-brain-implant-study-site/)
+ - [The Best Pillows for Side Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
