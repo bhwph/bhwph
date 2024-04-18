@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
- - 😝 [Looks like Weird Al](http://9gag.com/gag/a5QeyNG)
- - 👉 [It&#39;s not dumb if it works](http://9gag.com/gag/a9ybNM0)<!-- MEMES:END -->
+ - 6️⃣ [Enjoying summer like](http://9gag.com/gag/aByR44D)
+ - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
+ - 👉 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)<!-- MEMES:END -->
 
 --- 
 
