@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung shifts executives to six-day workweeks to ‘inject a sense of crisis’](https://www.theverge.com/2024/4/18/24133854/samsung-six-day-executive-workweeks-crisis-management)
- - [US court documents, mistakenly made public, reveal ByteDance and TikTok&#39;s complex origin story, spawning from GOP donor Jeff Yass&#39; failed real estate venture &lpar;New York Times&rpar;](http://www.techmeme.com/240418/p16#a240418p16)
- - [A new app is the surest sign that the Apple Vision Pro will launch in China very soon](https://appleinsider.com/articles/24/04/18/a-new-app-is-the-surest-sign-that-the-apple-vision-pro-will-launch-in-china-very-soon?utm_medium=rss)<!-- TECH:END -->
+ - [More than 60 IHG hotels in North America now have AirPlay-compatible TVs in-room](https://appleinsider.com/articles/24/04/18/more-than-60-ihg-hotels-in-north-america-now-have-airplay-compatible-tvs-in-room?utm_medium=rss)
+ - [Apple’s new series Sunny pairs Rashida Jones with a mystery-solving robot](https://www.theverge.com/24133912/apple-24-sunny-rashida-jones)
+ - [US Air Force confirms first successful AI dogfight](https://www.theverge.com/2024/4/18/24133870/us-air-force-ai-dogfight-test-x-62a)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
