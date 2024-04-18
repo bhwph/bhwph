@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You should be playing Music League](https://www.theverge.com/2024/4/18/24134059/music-league-spotify-algorithm-antidote)
- - [Google could be testing a new layout for the Phone app](https://www.androidauthority.com/google-phone-app-new-layout-test-3435455/)
- - [Meta rolls out real-time AI image generation, which changes the image as the user types a prompt, in beta on WhatsApp and Meta AI on the web in the US &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240418/p26#a240418p26)<!-- TECH:END -->
+ - [Netflix reports Q1 revenue up 15% YoY to $9.37B, vs. $9.28B est., paid users up 16% YoY to 269.6M, vs. 264.2M est., and net income $2.3B, up from $1.3B YoY &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/240418/p31#a240418p31)
+ - [Apple Sainte-Catherine store will move to a new location down the street](https://appleinsider.com/articles/24/04/18/apple-sainte-catherine-store-will-move-to-a-new-location-down-the-street?utm_medium=rss)
+ - [Google merges Android and hardware teams for the sake of speed and AI](https://www.androidauthority.com/google-merges-android-and-hardware-teams-3435469/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
