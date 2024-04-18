@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I bet this man is happier than 99% of people out there. Chicken fried steak should be schedule 1 drug, btw. So good...](http://9gag.com/gag/ae9jWr5)
- - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 👉 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)<!-- MEMES:END -->
+ - 6️⃣ [Crown Equality](http://9gag.com/gag/ae9jWpO)
+ - 😝 [Serious question for the Sicilians: Why do you do that everywhere on the island?](http://9gag.com/gag/ayN7VnW)
+ - 👉 [One of the mysteries of nature.](http://9gag.com/gag/axydmrn)<!-- MEMES:END -->
 
 --- 
 
