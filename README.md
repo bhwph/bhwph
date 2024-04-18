@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Enjoying summer like](http://9gag.com/gag/aByR44D)
- - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
- - 👉 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)<!-- MEMES:END -->
+ - 6️⃣ [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
+ - 😝 [If you know these buildings you had an awesome childhood.](http://9gag.com/gag/aQzPOGd)
+ - 👉 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)<!-- MEMES:END -->
 
 --- 
 
