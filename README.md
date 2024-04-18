@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Freaks of nature](http://9gag.com/gag/aByR4wP)
- - 😝 [Trump is on point](http://9gag.com/gag/ae9jRbB)
- - 👉 [Big oof...](http://9gag.com/gag/aryv245)<!-- MEMES:END -->
+ - 6️⃣ [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
+ - 😝 [Looks like Weird Al](http://9gag.com/gag/a5QeyNG)
+ - 👉 [It&#39;s not dumb if it works](http://9gag.com/gag/a9ybNM0)<!-- MEMES:END -->
 
 --- 
 
