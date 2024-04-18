@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Heroes](http://9gag.com/gag/agm3jM6)
- - 😝 [LOTR but only the scenes where two female characters speak with each other](http://9gag.com/gag/apREzrp)
- - 👉 [Word](http://9gag.com/gag/aD2APAx)<!-- MEMES:END -->
+ - 6️⃣ [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
+ - 😝 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
+ - 👉 [She&#39;ll never be the same](http://9gag.com/gag/ayN7v3Y)<!-- MEMES:END -->
 
 --- 
 
