@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Action-packed Strike Rush brings the hero shooter straight to your MetaQuest headset](https://www.pcgamer.com/games/vr/action-packed-strike-rush-brings-the-hero-shooter-straight-to-your-metaquest-headset)
- - [Arm laptops are almost ready for prime time, and some new benchmarks with a Snapdragon X processor will have Intel, AMD and even Apple worried](https://www.pcgamer.com/hardware/processors/arm-laptops-are-almost-ready-for-prime-time-and-some-new-benchmarks-with-a-snapdragon-x-processor-will-have-intel-amd-and-even-apple-worried)
- - [Today&#39;s Wordle answer for Thursday, April 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-18-2024)<!-- GAME:END -->
+ - [CDPR says the Witcher 4 is being &#39;intensively worked on&#39; but Cyberpunk 2&#39;s still in the &#39;fairly early stages&#39;](https://www.pcgamer.com/games/rpg/cdpr-says-the-witcher-4-is-being-intensively-worked-on-but-cyberpunk-2s-still-in-the-fairly-early-stages)
+ - [One of Steam&#39;s best-reviewed games gets a surprise open world sequel, and it&#39;s a plunder-em-up built around rickety pirate robots](https://www.pcgamer.com/games/strategy/one-of-steams-best-reviewed-games-gets-a-surprise-open-world-sequel-and-its-a-plunder-em-up-built-around-rickety-pirate-robots)
+ - [Hades 2&#39;s technical test shows us that the Greek gods are still super hot and, by Poseidon, some of you could use a cold shower](https://www.pcgamer.com/games/roguelike/hades-2s-technical-test-shows-us-that-the-greek-gods-are-still-super-hot-and-by-poseidon-some-of-you-could-use-a-cold-shower)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
