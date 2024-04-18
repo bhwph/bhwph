@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
- - 😝 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
- - 👉 [She&#39;ll never be the same](http://9gag.com/gag/ayN7v3Y)<!-- MEMES:END -->
+ - 6️⃣ [Guys they did it](http://9gag.com/gag/aYQNZAq)
+ - 😝 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
+ - 👉 [Loll](http://9gag.com/gag/aQzPBmW)<!-- MEMES:END -->
 
 --- 
 
