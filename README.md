@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [CDPR says the Witcher 4 is being &#39;intensively worked on&#39; but Cyberpunk 2&#39;s still in the &#39;fairly early stages&#39;](https://www.pcgamer.com/games/rpg/cdpr-says-the-witcher-4-is-being-intensively-worked-on-but-cyberpunk-2s-still-in-the-fairly-early-stages)
- - [One of Steam&#39;s best-reviewed games gets a surprise open world sequel, and it&#39;s a plunder-em-up built around rickety pirate robots](https://www.pcgamer.com/games/strategy/one-of-steams-best-reviewed-games-gets-a-surprise-open-world-sequel-and-its-a-plunder-em-up-built-around-rickety-pirate-robots)
- - [Hades 2&#39;s technical test shows us that the Greek gods are still super hot and, by Poseidon, some of you could use a cold shower](https://www.pcgamer.com/games/roguelike/hades-2s-technical-test-shows-us-that-the-greek-gods-are-still-super-hot-and-by-poseidon-some-of-you-could-use-a-cold-shower)<!-- GAME:END -->
+ - [Everything we know about Hades 2](https://www.polygon.com/23501759/hades-2-trailer-release-date-characters-melinoe)
+ - [How To Start Final Fantasy XVI&#39;s The Rising Tide DLC](https://kotaku.com/ff16-dlc-rising-tide-how-to-start-1851418947)
+ - [Darkest Dungeon II rolls onto PS5, PS4 July 15](https://blog.playstation.com/2024/04/18/darkest-dungeon-ii-rolls-onto-ps5-ps4-july-15/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
