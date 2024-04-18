@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about Hades 2](https://www.polygon.com/23501759/hades-2-trailer-release-date-characters-melinoe)
- - [How To Start Final Fantasy XVI&#39;s The Rising Tide DLC](https://kotaku.com/ff16-dlc-rising-tide-how-to-start-1851418947)
- - [Darkest Dungeon II rolls onto PS5, PS4 July 15](https://blog.playstation.com/2024/04/18/darkest-dungeon-ii-rolls-onto-ps5-ps4-july-15/)<!-- GAME:END -->
+ - [This 38-hour-long video isn’t just any ol’ April Fools Day prank](https://www.polygon.com/24124603/youtube-quinton-reviews-38-hour-video-beverly-hillbillies)
+ - [Instead of making Baldur&#39;s Gate 4, Larian is working on 2 new projects based on its own IPs, and CEO Swen Vincke reckons it&#39;ll result in the studio&#39;s &#39;best work ever&#39;](https://www.pcgamer.com/games/rpg/instead-of-making-baldurs-gate-4-larian-is-working-on-two-new-projects-based-on-its-own-ips-and-ceo-swen-vincke-reckons-itll-result-in-the-studios-best-work-ever)
+ - [PC Gamer Chat Log Episode 57: So the Fallout TV show is pretty good, huh?](https://www.pcgamer.com/gaming-industry/podcasts/pc-gamer-chat-log-episode-57-so-the-fallout-tv-show-is-pretty-good-huh)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
