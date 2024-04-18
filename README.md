@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Come: Deliverance 2 is twice as big, introduces firearms and is coming this year](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-is-twice-as-big-introduces-firearms-and-is-coming-this-year)
- - [Children of the Sun offers one of the most challenging, satisfying levels of 2024 so far](https://www.polygon.com/24133027/children-of-the-sun-open-mic-night-in-hell-devolver-digital-pc)
- - [How to finish ‘The Whisper’ and get Whisper of the Worm in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24124313/whisper-walkthrough-worm-exotic-pattern)<!-- GAME:END -->
+ - [Kingdom Come: Deliverance II Will Be Twice As Big And More Diverse](https://kotaku.com/kingdom-come-deliverance-2-size-release-date-1851420482)
+ - [10 Things To Do Before Final Fantasy XIV&#39;s Dawntrail Expansion](https://kotaku.com/final-fantasy-14-dawntrail-expansion-release-drop-1851420406)
+ - [Fan-Made Star Wars Horror Game Featuring Zombie Stormtroopers Goes Viral](https://kotaku.com/deathtroopers-fan-game-star-wars-zombies-stormtroopers-1851420306)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
