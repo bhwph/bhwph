@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch is bringing its TikTok-style feed to everyone this month](https://www.theverge.com/2024/4/17/24133457/twitch-tiktok-style-feed-rollout)
- - [Sega is turning Golden Axe into an animated series](https://www.theverge.com/2024/4/17/24133419/sega-golden-axe-tv-series-comedy-central)
- - [Boston Dynamics debuts an electric version of humanoid robot Atlas for commercial use, a day after retiring the hydraulic Atlas, with a pilot starting in 2025 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240417/p31#a240417p31)<!-- TECH:END -->
+ - [Sources: Micron could get $6B+ in chip grants from the US Commerce Department for domestic factory projects; the award could be announced as soon as next week &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240417/p36#a240417p36)
+ - [Intel unveils Hala Point, a large-scale neuromorphic system deployed at Sandia National Laboratories, with 1,152 Loihi 2 processors simulating 1M neurons each &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240417/p35#a240417p35)
+ - [Coding bootcamp Lambda School — now BloomTech — is finally getting punished](https://www.theverge.com/2024/4/17/24133577/lambda-school-bloomtech-loan-ban-student-debt)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
