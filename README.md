@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How one author gained a limited copyright for the &quot;selection, coordination, and arrangement of text&quot; from AI, as the US Copyright Office wrestles with AI law &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240418/p4#a240418p4)
- - [The Xperia 1 VI could be coming soon as Sony announces Xperia event](https://www.androidauthority.com/sony-xperia-1-vi-event-3434843/)
- - [How to voice type in Google Docs](https://www.androidauthority.com/voice-type-google-docs-3112170/)<!-- TECH:END -->
+ - [Tim Cook visits Singapore as Apple invests $250 million](https://appleinsider.com/articles/24/04/18/tim-cook-visits-singapore-as-apple-invests-250-million?utm_medium=rss)
+ - [An interview with Reddit Chief Product Officer Pali Bhat on the company&#39;s roadmap: faster load times, new moderator and developer tools, and AI translation &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240418/p9#a240418p9)
+ - [The Rise of the Carbon Farmer](https://www.wired.com/story/carbon-farming-regenerative-agriculture/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
