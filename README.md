@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [More than 60 IHG hotels in North America now have AirPlay-compatible TVs in-room](https://appleinsider.com/articles/24/04/18/more-than-60-ihg-hotels-in-north-america-now-have-airplay-compatible-tvs-in-room?utm_medium=rss)
- - [Apple’s new series Sunny pairs Rashida Jones with a mystery-solving robot](https://www.theverge.com/24133912/apple-24-sunny-rashida-jones)
- - [US Air Force confirms first successful AI dogfight](https://www.theverge.com/2024/4/18/24133870/us-air-force-ai-dogfight-test-x-62a)<!-- TECH:END -->
+ - [Meta plans to add its Meta AI chatbot to Instagram, WhatsApp, Messenger, and Facebook in the US and 12+ other countries, and announces two Llama 3 models &lpar;New York Times&rpar;](http://www.techmeme.com/240418/p23#a240418p23)
+ - [Everything you need to know about Disney, ESPN, and Bob Iger’s return as CEO](https://www.theverge.com/2024/4/18/24120911/disney-plus-streaming-espn-mcu-star-wars)
+ - [TSMC says the April 3 Taiwan earthquake caused an estimated losses of $92.44M to the company in Q2; there were no power outages or structural damage to its fabs &lpar;Reuters&rpar;](http://www.techmeme.com/240418/p22#a240418p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
