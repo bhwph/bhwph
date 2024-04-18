@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Come: Deliverance II Will Be Twice As Big And More Diverse](https://kotaku.com/kingdom-come-deliverance-2-size-release-date-1851420482)
- - [10 Things To Do Before Final Fantasy XIV&#39;s Dawntrail Expansion](https://kotaku.com/final-fantasy-14-dawntrail-expansion-release-drop-1851420406)
- - [Fan-Made Star Wars Horror Game Featuring Zombie Stormtroopers Goes Viral](https://kotaku.com/deathtroopers-fan-game-star-wars-zombies-stormtroopers-1851420306)<!-- GAME:END -->
+ - [A site literally called &#39;Spy.pet&#39; claims to have scraped billions of public Discord messages and wants to sell them](https://www.pcgamer.com/gaming-industry/a-site-literally-called-spypet-claims-to-have-scraped-billions-of-public-discord-messages-and-wants-to-sell-them)
+ - [Stardew Valley&#39;s latest patch &#39;adds two inappropriate names to the list to exclude from the name generator&#39; and I am dying to know what they are](https://www.pcgamer.com/life-sim/stardew-valley-164-update-patch-notes)
+ - [Braid: Anniversary Edition will feature 40 &#39;brand new and/or alternate redesigns of original levels,&#39; and is also delayed into May](https://www.pcgamer.com/games/puzzle/braid-anniversary-edition-will-feature-40-brand-new-andor-alternate-redesigns-of-original-levels-and-is-also-delayed-into-may)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
