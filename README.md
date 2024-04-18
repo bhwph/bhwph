@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook visits Singapore as Apple invests $250 million](https://appleinsider.com/articles/24/04/18/tim-cook-visits-singapore-as-apple-invests-250-million?utm_medium=rss)
- - [An interview with Reddit Chief Product Officer Pali Bhat on the company&#39;s roadmap: faster load times, new moderator and developer tools, and AI translation &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240418/p9#a240418p9)
- - [The Rise of the Carbon Farmer](https://www.wired.com/story/carbon-farming-regenerative-agriculture/)<!-- TECH:END -->
+ - [Samsung shifts executives to six-day workweeks to ‘inject a sense of crisis’](https://www.theverge.com/2024/4/18/24133854/samsung-six-day-executive-workweeks-crisis-management)
+ - [US court documents, mistakenly made public, reveal ByteDance and TikTok&#39;s complex origin story, spawning from GOP donor Jeff Yass&#39; failed real estate venture &lpar;New York Times&rpar;](http://www.techmeme.com/240418/p16#a240418p16)
+ - [A new app is the surest sign that the Apple Vision Pro will launch in China very soon](https://appleinsider.com/articles/24/04/18/a-new-app-is-the-surest-sign-that-the-apple-vision-pro-will-launch-in-china-very-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
