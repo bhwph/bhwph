@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This 38-hour-long video isn’t just any ol’ April Fools Day prank](https://www.polygon.com/24124603/youtube-quinton-reviews-38-hour-video-beverly-hillbillies)
- - [Instead of making Baldur&#39;s Gate 4, Larian is working on 2 new projects based on its own IPs, and CEO Swen Vincke reckons it&#39;ll result in the studio&#39;s &#39;best work ever&#39;](https://www.pcgamer.com/games/rpg/instead-of-making-baldurs-gate-4-larian-is-working-on-two-new-projects-based-on-its-own-ips-and-ceo-swen-vincke-reckons-itll-result-in-the-studios-best-work-ever)
- - [PC Gamer Chat Log Episode 57: So the Fallout TV show is pretty good, huh?](https://www.pcgamer.com/gaming-industry/podcasts/pc-gamer-chat-log-episode-57-so-the-fallout-tv-show-is-pretty-good-huh)<!-- GAME:END -->
+ - [Kingdom Come: Deliverance 2 is twice as big, introduces firearms and is coming this year](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-is-twice-as-big-introduces-firearms-and-is-coming-this-year)
+ - [Children of the Sun offers one of the most challenging, satisfying levels of 2024 so far](https://www.polygon.com/24133027/children-of-the-sun-open-mic-night-in-hell-devolver-digital-pc)
+ - [How to finish ‘The Whisper’ and get Whisper of the Worm in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24124313/whisper-walkthrough-worm-exotic-pattern)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
