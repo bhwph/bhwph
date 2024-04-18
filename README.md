@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: 23andMe CEO Anne Wojcicki is seeking to take the company private after three years in public markets that saw its valuation collapse from a high of $6B &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240417/p38#a240417p38)
- - [Best Mattress for Stomach Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-stomach-sleepers/#ftag=CAD590a51e)
- - [Best Mattress Pads of 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-pads/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Fires Twenty-Eight Workers for Protesting Cloud Deal with Israel](https://www.wired.com/story/google-fires-twenty-eight-workers-for-protesting-cloud-deal-with-israel/)
+ - [Research suggests GPT-4 surpassed or achieved the same scores as all but top-scoring specialist medics in assessing ocular problems and suggesting treatments &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240417/p41#a240417p41)
+ - [Google fires 28 employees after sit-in protest over Israel cloud contract](https://www.theverge.com/2024/4/17/24133700/google-fires-28-employees-protest-israel-cloud-contract)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
