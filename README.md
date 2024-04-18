@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta plans to add its Meta AI chatbot to Instagram, WhatsApp, Messenger, and Facebook in the US and 12+ other countries, and announces two Llama 3 models &lpar;New York Times&rpar;](http://www.techmeme.com/240418/p23#a240418p23)
- - [Everything you need to know about Disney, ESPN, and Bob Iger’s return as CEO](https://www.theverge.com/2024/4/18/24120911/disney-plus-streaming-espn-mcu-star-wars)
- - [TSMC says the April 3 Taiwan earthquake caused an estimated losses of $92.44M to the company in Q2; there were no power outages or structural damage to its fabs &lpar;Reuters&rpar;](http://www.techmeme.com/240418/p22#a240418p22)<!-- TECH:END -->
+ - [You should be playing Music League](https://www.theverge.com/2024/4/18/24134059/music-league-spotify-algorithm-antidote)
+ - [Google could be testing a new layout for the Phone app](https://www.androidauthority.com/google-phone-app-new-layout-test-3435455/)
+ - [Meta rolls out real-time AI image generation, which changes the image as the user types a prompt, in beta on WhatsApp and Meta AI on the web in the US &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240418/p26#a240418p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
