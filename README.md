@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
- - 😝 [If you know these buildings you had an awesome childhood.](http://9gag.com/gag/aQzPOGd)
- - 👉 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)<!-- MEMES:END -->
+ - 6️⃣ [Heroes](http://9gag.com/gag/agm3jM6)
+ - 😝 [LOTR but only the scenes where two female characters speak with each other](http://9gag.com/gag/apREzrp)
+ - 👉 [Word](http://9gag.com/gag/aD2APAx)<!-- MEMES:END -->
 
 --- 
 
