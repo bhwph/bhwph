@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Crown Equality](http://9gag.com/gag/ae9jWpO)
- - 😝 [Serious question for the Sicilians: Why do you do that everywhere on the island?](http://9gag.com/gag/ayN7VnW)
- - 👉 [One of the mysteries of nature.](http://9gag.com/gag/axydmrn)<!-- MEMES:END -->
+ - 6️⃣ [After watching Transformers One trailer \u2026](http://9gag.com/gag/aD2Aq3d)
+ - 😝 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
+ - 👉 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)<!-- MEMES:END -->
 
 --- 
 
