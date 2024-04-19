@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon’s Dogma 2&#39;s Dreaded Dragonsplague Will Be Easier To Deal With](https://kotaku.com/dragons-dogma-2-patch-dragonsplague-update-pawn-changes-1851423006)
- - [What we want to see in Fallout season 2: Deathclaw fights, aliens and a lot more Norm](https://www.pcgamer.com/movies-tv/what-we-want-to-see-in-fallout-season-2-deathclaw-fights-aliens-and-a-lot-more-norm)
- - [Share of the Week: Dragon’s Dogma 2](https://blog.playstation.com/2024/04/19/share-of-the-week-dragons-dogma-2-2/)<!-- GAME:END -->
+ - [Hades II Is The Kind Of Hot We Need Right Now](https://kotaku.com/hades-2-aphrodite-gods-characters-hot-sexy-1851423220)
+ - [The Sony Inzone buds are on sale for their lowest price ever](https://www.polygon.com/deals/24135083/sony-inzone-gaming-earbuds-headset-deal-sale)
+ - [The long-awaited sequel to The Ur-Quan Masters hits its crowdfunding target in less than four hours, and they&#39;re not kidding about that $4.4 million stretch goal](https://www.pcgamer.com/games/rpg/the-long-awaited-sequel-to-the-ur-quan-masters-hits-its-crowdfunding-target-in-less-than-four-hours-and-theyre-not-kidding-about-that-dollar44-million-stretch-goal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
