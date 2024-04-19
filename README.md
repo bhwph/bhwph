@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If the OnePlus 12T is coming, it’ll look like this](https://www.androidauthority.com/oneplus-ace-3-pro-oneplus-12t-3435259/)
- - [5 Places to Never Put Your Amazon Echo     - CNET](https://www.cnet.com/home/smart-home/5-places-to-never-put-your-amazon-echo/#ftag=CAD590a51e)
- - [Sophos researchers find &quot;crude&quot;, cheap ransomware tools being sold on the dark web, enabling inexperienced freelancers to easily launch attacks &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/240419/p1#a240419p1)<!-- TECH:END -->
+ - [Tim Cook leaves Singapore after week-long Asia tour](https://appleinsider.com/articles/24/04/19/tim-cook-leaves-singapore-after-week-long-asia-tour?utm_medium=rss)
+ - [DJI’s first power stations can fast charge its drone batteries](https://www.theverge.com/24134689/dji-power-1000-500-sdc-port-explained-specs-price)
+ - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans     - CNET](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
