@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
- - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
- - 👉 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)<!-- MEMES:END -->
+ - 6️⃣ [Can I help...?](http://9gag.com/gag/aPAw0On)
+ - 😝 [Google AI](http://9gag.com/gag/ajPYG0R)
+ - 👉 [I have no sauce, please bear with me](http://9gag.com/gag/a4PKg1y)<!-- MEMES:END -->
 
 --- 
 
