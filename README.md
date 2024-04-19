@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft researchers introduce VASA-1, an AI model that creates a realistic talking face video from a portrait photo and an audio file, in research preview &lpar;Ryan Morrison/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240418/p37#a240418p37)
- - [Best Internet Providers in Hillsboro, Oregon     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-hillsboro-or/#ftag=CAD590a51e)
- - [Apple&#39;s iPhone Screen Sizes Could Change in 2024, and Possibly Again in 2025     - CNET](https://www.cnet.com/tech/apples-iphone-screen-sizes-could-change-in-2024-and-possibly-again-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok might not have existed without insights from Steve Jobs](https://appleinsider.com/articles/24/04/19/tiktok-might-not-have-existed-without-insights-from-steve-jobs?utm_medium=rss)
+ - [Apple removes WhatsApp and Threads from its App Store in China, saying it was ordered to do so by China&#39;s cyberspace officials citing national security concerns &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240418/p39#a240418p39)
+ - [WhatsApp &amp; Threads pulled from Apple App Store in China](https://appleinsider.com/articles/24/04/19/whatsapp-threads-pulled-from-apple-app-store-in-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
