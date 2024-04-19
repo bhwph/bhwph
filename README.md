@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hades 2 technical test is a trial in self-control](https://www.theverge.com/24135151/hades-2-technical-test-impressions)
- - [Telegram partners with Tether to let the messaging app&#39;s ~900M users send USDT to each other through The Open Network blockchain &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240419/p11#a240419p11)
- - [Smart string light showdown: Nanoleaf versus Lifx](https://www.theverge.com/24128446/lifx-outdoor-string-lights-versus-nanoleaf-matter-multicolor-outdoor-string-lights-review)<!-- TECH:END -->
+ - [Nvidia closed down 10% on Friday, falling the most since March 2020 and losing more than $200B of its market value, as investors pull back from AI bets &lpar;George Steer/Financial Times&rpar;](http://www.techmeme.com/240419/p13#a240419p13)
+ - [Applying the mathematical principles of Pareto to Mario Kart 8](https://www.theverge.com/2024/4/19/24135206/mario-kart-pareto-front-math-data-peach-rulez)
+ - [&#39;Tortured Poets&#39; Music Video Drops Tonight. What to Know About Taylor Swift&#39;s New Double Album     - CNET](https://www.cnet.com/culture/entertainment/tortured-poets-music-video-drops-tonight-what-to-know-about-taylor-swifts-new-double-album/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
