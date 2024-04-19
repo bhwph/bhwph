@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Multi-platform emulator Provenance is coming to the Apple App Store](https://www.androidauthority.com/provenance-app-store-3435686/)
- - [18 Best Keyboards for PC &lpar;2024&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)
- - [Taylor Swift gets custom collab with TikTok as UMG battle continues](https://www.theverge.com/2024/4/19/24134795/taylor-swift-ttpd-tiktok-hub-universal-music-group)<!-- TECH:END -->
+ - [Midas, which lets users in Turkey invest in US and Turkish equities, raised a $45M Series A, after a $11M seed in 2022, and plans crypto trading and more &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240419/p9#a240419p9)
+ - [Apple Pay NFC tech in iPhone will likely get opened up soon in the EU](https://appleinsider.com/articles/24/04/19/apple-pay-nfc-tech-in-iphone-will-likely-get-opened-up-soon-in-the-eu?utm_medium=rss)
+ - [Here’s when Pebblebee’s Find My Device network trackers will ship](https://www.androidauthority.com/pebblebee-tracker-shipment-date-3435731/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
