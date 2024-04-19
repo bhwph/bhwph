@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
- - 😝 [Just a reminder in case you forgot this great era](http://9gag.com/gag/a7oLmDe)
- - 👉 [Happy day](http://9gag.com/gag/awy096D)<!-- MEMES:END -->
+ - 6️⃣ [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - 😝 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
+ - 👉 [Loll](http://9gag.com/gag/aQzPBmW)<!-- MEMES:END -->
 
 --- 
 
