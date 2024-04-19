@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
- - 😝 [No f**king way](http://9gag.com/gag/ae9jExp)
- - 👉 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)<!-- MEMES:END -->
+ - 6️⃣ [\u201cThe nail that sticks out will be hammered down. \u201c](http://9gag.com/gag/ae9jPnb)
+ - 😝 [Do you agree that BLM and Pride Flags should be BANNED from classrooms?](http://9gag.com/gag/azxgorz)
+ - 👉 [It&#39;s getting out of hand now...](http://9gag.com/gag/aKGwyLN)<!-- MEMES:END -->
 
 --- 
 
