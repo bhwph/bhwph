@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Science b!tch](http://9gag.com/gag/aryvDBB)
- - 😝 [Meta ai fails woke test](http://9gag.com/gag/aRBw86G)
- - 👉 [Woman freaked out about service dog. Then went on tv and claim she acted that way because of racism.](http://9gag.com/gag/aO8Knq6)<!-- MEMES:END -->
+ - 6️⃣ [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
+ - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
+ - 👉 [Peak male fantasy](http://9gag.com/gag/aByRj02)<!-- MEMES:END -->
 
 --- 
 
