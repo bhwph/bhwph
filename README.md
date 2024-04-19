@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Come: Deliverance 2 isn&#39;t just bigger, it&#39;s more diverse, with Warhorse adding a &#39;wide Range of Ethnicities and Different characters&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-isnt-just-bigger-its-more-diverse-with-warhorse-adding-a-wide-range-of-ethnicities-and-different-characters)
- - [There are few easy ways to get across the incredible complexity required to build a modern computer chip: this photograph is one of them](https://www.pcgamer.com/hardware/processors/there-are-few-easy-ways-to-get-across-the-incredible-complexity-required-to-build-a-modern-computer-chip-this-photograph-is-one-of-them)
- - [An AI-controlled F16 has performed its first ever dogfight with a human pilot, coming within 2,000 feet of each other at 1,200 miles per hour](https://www.pcgamer.com/hardware/an-ai-controlled-f16-has-performed-its-first-ever-dogfight-with-a-human-pilot-coming-within-2000-feet-of-each-other-at-1200-miles-per-hour)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for April 22 to 26](https://news.xbox.com/en-us/2024/04/19/next-week-on-xbox-new-games-for-april-22-to-26/)
+ - [Fallout’s NCR reveal hurt — even if it was inevitable](https://www.polygon.com/24133456/amazon-fallout-show-ncr-shady-sands-lore-fan-reaction-response-explained)
+ - [Amazon Prime&#39;s Fallout Is Officially Getting A Second Season](https://kotaku.com/fallout-season-2-amazon-prime-bethesda-1851421573)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
