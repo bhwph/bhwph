@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Teamgroup Z540 2TB NVMe SSD review](https://www.pcgamer.com/hardware/ssds/teamgroup-z540-2tb-nvme-ssd-review)
- - [Visions of Mana won&#39;t have multiplayer, but producer Masaru Oyamada wants &#39;to implement features like that in the future&#39;](https://www.pcgamer.com/games/rpg/visions-of-mana-wont-have-multiplayer-but-producer-masaru-oyamada-wants-to-implement-features-like-that-in-the-future)
- - [Blizzard backs down on unpopular Hearthstone change, so now weekly quests will &#39;only&#39; waste twice as much of your time, rather than triple](https://www.pcgamer.com/games/card-games/blizzard-backs-down-on-unpopular-hearthstone-change-so-now-weekly-quests-will-only-waste-twice-as-much-of-your-time-rather-than-triple)<!-- GAME:END -->
+ - [Kingdom Come: Deliverance 2 isn&#39;t just bigger, it&#39;s more diverse, with Warhorse adding a &#39;wide Range of Ethnicities and Different characters&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-isnt-just-bigger-its-more-diverse-with-warhorse-adding-a-wide-range-of-ethnicities-and-different-characters)
+ - [There are few easy ways to get across the incredible complexity required to build a modern computer chip: this photograph is one of them](https://www.pcgamer.com/hardware/processors/there-are-few-easy-ways-to-get-across-the-incredible-complexity-required-to-build-a-modern-computer-chip-this-photograph-is-one-of-them)
+ - [An AI-controlled F16 has performed its first ever dogfight with a human pilot, coming within 2,000 feet of each other at 1,200 miles per hour](https://www.pcgamer.com/hardware/an-ai-controlled-f16-has-performed-its-first-ever-dogfight-with-a-human-pilot-coming-within-2000-feet-of-each-other-at-1200-miles-per-hour)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
