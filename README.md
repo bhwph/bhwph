@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Teamgroup Z540 2TB NVMe SSD review](https://www.pcgamer.com/hardware/ssds/teamgroup-z540-2tb-nvme-ssd-review)
  - [Visions of Mana won&#39;t have multiplayer, but producer Masaru Oyamada wants &#39;to implement features like that in the future&#39;](https://www.pcgamer.com/games/rpg/visions-of-mana-wont-have-multiplayer-but-producer-masaru-oyamada-wants-to-implement-features-like-that-in-the-future)
- - [Blizzard backs down on unpopular Hearthstone change, so now weekly quests will &#39;only&#39; waste twice as much of your time, rather than triple](https://www.pcgamer.com/games/card-games/blizzard-backs-down-on-unpopular-hearthstone-change-so-now-weekly-quests-will-only-waste-twice-as-much-of-your-time-rather-than-triple)
- - [Today&#39;s Wordle answer for Friday, April 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-19-2024)<!-- GAME:END -->
+ - [Blizzard backs down on unpopular Hearthstone change, so now weekly quests will &#39;only&#39; waste twice as much of your time, rather than triple](https://www.pcgamer.com/games/card-games/blizzard-backs-down-on-unpopular-hearthstone-change-so-now-weekly-quests-will-only-waste-twice-as-much-of-your-time-rather-than-triple)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
