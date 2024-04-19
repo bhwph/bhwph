@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - 😝 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
- - 👉 [Loll](http://9gag.com/gag/aQzPBmW)<!-- MEMES:END -->
+ - 6️⃣ [That defender could have deflected the ball with his face tsk tsk tsk](http://9gag.com/gag/a5QeA1L)
+ - 😝 [A perfect night for the time of our lives](http://9gag.com/gag/a6Zm3GN)
+ - 👉 [Guys they did it](http://9gag.com/gag/aYQNZAq)<!-- MEMES:END -->
 
 --- 
 
