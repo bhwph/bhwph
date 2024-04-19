@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hades II Is The Kind Of Hot We Need Right Now](https://kotaku.com/hades-2-aphrodite-gods-characters-hot-sexy-1851423220)
- - [The Sony Inzone buds are on sale for their lowest price ever](https://www.polygon.com/deals/24135083/sony-inzone-gaming-earbuds-headset-deal-sale)
- - [The long-awaited sequel to The Ur-Quan Masters hits its crowdfunding target in less than four hours, and they&#39;re not kidding about that $4.4 million stretch goal](https://www.pcgamer.com/games/rpg/the-long-awaited-sequel-to-the-ur-quan-masters-hits-its-crowdfunding-target-in-less-than-four-hours-and-theyre-not-kidding-about-that-dollar44-million-stretch-goal)<!-- GAME:END -->
+ - [LittleBigPlanet Server Apocalypse Wipes Hundreds Of Thousands Of PlayStation Players&#39; Creations Without Warning](https://kotaku.com/littlebigplanet-3-ps4-servers-sony-playstation-1851423658)
+ - [World of Warcraft boss says Microsoft is happy to &#39;let Blizzard be Blizzard,&#39; but I&#39;m not sure that&#39;s entirely true](https://www.pcgamer.com/gaming-industry/world-of-warcraft-boss-says-microsoft-is-happy-to-let-blizzard-be-blizzard-but-im-not-sure-thats-entirely-true)
+ - [Take-Two wins lawsuit over LeBron James’ tattoos](https://www.polygon.com/24131877/nba-2k-lebron-james-tattoo-jury-trial-april-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
