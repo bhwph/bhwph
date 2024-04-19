@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2024 Mother’s Day gift guide](https://www.theverge.com/24115101/best-mothers-day-gift-ideas-2024-mom-tech-gadgets)
- - [Trek Fetch+ 2 Review: A Solid, Though Expensive, Cargo Ebike](https://www.wired.com/review/trek-fetch-plus-2/)
- - [Limited supply: Apple&#39;s latest 14-inch MacBook Pro is $200 off](https://appleinsider.com/articles/24/04/19/limited-supply-apples-latest-14-inch-macbook-pro-is-200-off?utm_medium=rss)<!-- TECH:END -->
+ - [Multi-platform emulator Provenance is coming to the Apple App Store](https://www.androidauthority.com/provenance-app-store-3435686/)
+ - [18 Best Keyboards for PC &lpar;2024&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)
+ - [Taylor Swift gets custom collab with TikTok as UMG battle continues](https://www.theverge.com/2024/4/19/24134795/taylor-swift-ttpd-tiktok-hub-universal-music-group)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
