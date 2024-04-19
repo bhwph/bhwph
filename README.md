@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A site literally called &#39;Spy.pet&#39; claims to have scraped billions of public Discord messages and wants to sell them](https://www.pcgamer.com/gaming-industry/a-site-literally-called-spypet-claims-to-have-scraped-billions-of-public-discord-messages-and-wants-to-sell-them)
- - [Stardew Valley&#39;s latest patch &#39;adds two inappropriate names to the list to exclude from the name generator&#39; and I am dying to know what they are](https://www.pcgamer.com/life-sim/stardew-valley-164-update-patch-notes)
- - [Braid: Anniversary Edition will feature 40 &#39;brand new and/or alternate redesigns of original levels,&#39; and is also delayed into May](https://www.pcgamer.com/games/puzzle/braid-anniversary-edition-will-feature-40-brand-new-andor-alternate-redesigns-of-original-levels-and-is-also-delayed-into-may)<!-- GAME:END -->
+ - [Fallout is coming back for season 2 — here’s what we know](https://www.polygon.com/24124500/fallout-season-2-release-date-cast-prime-tv-series)
+ - [Fallout season 2 has been confirmed, so bring on the deathclaws](https://www.pcgamer.com/movies-tv/fallout-season-2-has-been-confirmed-so-bring-on-the-deathclaws)
+ - [Warhammer 40,000 has slightly more women in it now and the neckbeards aren&#39;t happy](https://www.pcgamer.com/games/strategy/warhammer-40000-has-slightly-more-women-in-it-now-and-the-neckbeards-arent-happy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
