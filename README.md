@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
- - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 👉 [Peak male fantasy](http://9gag.com/gag/aByRj02)<!-- MEMES:END -->
+ - 6️⃣ [When your prototype works too well :0](http://9gag.com/gag/amoNyXd)
+ - 😝 [Loll](http://9gag.com/gag/aQzPBmW)
+ - 👉 [Somewhere in museum](http://9gag.com/gag/aZZb4Rz)<!-- MEMES:END -->
 
 --- 
 
