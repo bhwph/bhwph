@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Midas, which lets users in Turkey invest in US and Turkish equities, raised a $45M Series A, after a $11M seed in 2022, and plans crypto trading and more &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240419/p9#a240419p9)
- - [Apple Pay NFC tech in iPhone will likely get opened up soon in the EU](https://appleinsider.com/articles/24/04/19/apple-pay-nfc-tech-in-iphone-will-likely-get-opened-up-soon-in-the-eu?utm_medium=rss)
- - [Here’s when Pebblebee’s Find My Device network trackers will ship](https://www.androidauthority.com/pebblebee-tracker-shipment-date-3435731/)<!-- TECH:END -->
+ - [The Hades 2 technical test is a trial in self-control](https://www.theverge.com/24135151/hades-2-technical-test-impressions)
+ - [Telegram partners with Tether to let the messaging app&#39;s ~900M users send USDT to each other through The Open Network blockchain &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240419/p11#a240419p11)
+ - [Smart string light showdown: Nanoleaf versus Lifx](https://www.theverge.com/24128446/lifx-outdoor-string-lights-versus-nanoleaf-matter-multicolor-outdoor-string-lights-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
