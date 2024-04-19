@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That defender could have deflected the ball with his face tsk tsk tsk](http://9gag.com/gag/a5QeA1L)
- - 😝 [A perfect night for the time of our lives](http://9gag.com/gag/a6Zm3GN)
- - 👉 [Guys they did it](http://9gag.com/gag/aYQNZAq)<!-- MEMES:END -->
+ - 6️⃣ [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
+ - 😝 [No f**king way](http://9gag.com/gag/ae9jExp)
+ - 👉 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)<!-- MEMES:END -->
 
 --- 
 
