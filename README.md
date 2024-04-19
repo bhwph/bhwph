@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fable](https://www.pcgamer.com/fable-4)
- - [Spy x Family Code: White fails the mission by serving every fan](https://www.polygon.com/anime/24134207/spy-x-family-code-white-movie-review-anya)
- - [Xbox Members Can Now Get 3 Months Free of Apple TV+ Until July 7](https://news.xbox.com/en-us/2024/04/19/apple-tv-3-month-perk-2024/)<!-- GAME:END -->
+ - [Dragon’s Dogma 2&#39;s Dreaded Dragonsplague Will Be Easier To Deal With](https://kotaku.com/dragons-dogma-2-patch-dragonsplague-update-pawn-changes-1851423006)
+ - [What we want to see in Fallout season 2: Deathclaw fights, aliens and a lot more Norm](https://www.pcgamer.com/movies-tv/what-we-want-to-see-in-fallout-season-2-deathclaw-fights-aliens-and-a-lot-more-norm)
+ - [Share of the Week: Dragon’s Dogma 2](https://blog.playstation.com/2024/04/19/share-of-the-week-dragons-dogma-2-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
