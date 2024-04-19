@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook leaves Singapore after week-long Asia tour](https://appleinsider.com/articles/24/04/19/tim-cook-leaves-singapore-after-week-long-asia-tour?utm_medium=rss)
- - [DJI’s first power stations can fast charge its drone batteries](https://www.theverge.com/24134689/dji-power-1000-500-sdc-port-explained-specs-price)
- - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans     - CNET](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Provenance plans to bring Sony &amp; Sega console emulation to the App Store](https://appleinsider.com/articles/24/04/19/provenance-plans-to-bring-sony-sega-console-emulation-to-the-app-store?utm_medium=rss)
+ - [Apple&#39;s macOS 15 to get rare cognitive boost via Project GreyParrot](https://appleinsider.com/articles/24/04/19/apples-macos-15-to-get-rare-cognitive-boost-via-project-greyparrot?utm_medium=rss)
+ - [Kuhn Rikon Black Star Review: Perfectly Smooth Cast-Iron](https://www.wired.com/review/kuhn-rikon-black-star-cast-iron/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
