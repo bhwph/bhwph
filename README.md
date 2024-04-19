@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [After watching Transformers One trailer \u2026](http://9gag.com/gag/aD2Aq3d)
- - 😝 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
- - 👉 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)<!-- MEMES:END -->
+ - 6️⃣ [Science b!tch](http://9gag.com/gag/aryvDBB)
+ - 😝 [Meta ai fails woke test](http://9gag.com/gag/aRBw86G)
+ - 👉 [Woman freaked out about service dog. Then went on tv and claim she acted that way because of racism.](http://9gag.com/gag/aO8Knq6)<!-- MEMES:END -->
 
 --- 
 
