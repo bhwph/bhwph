@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Provenance plans to bring Sony &amp; Sega console emulation to the App Store](https://appleinsider.com/articles/24/04/19/provenance-plans-to-bring-sony-sega-console-emulation-to-the-app-store?utm_medium=rss)
- - [Apple&#39;s macOS 15 to get rare cognitive boost via Project GreyParrot](https://appleinsider.com/articles/24/04/19/apples-macos-15-to-get-rare-cognitive-boost-via-project-greyparrot?utm_medium=rss)
- - [Kuhn Rikon Black Star Review: Perfectly Smooth Cast-Iron](https://www.wired.com/review/kuhn-rikon-black-star-cast-iron/)<!-- TECH:END -->
+ - [The Verge’s 2024 Mother’s Day gift guide](https://www.theverge.com/24115101/best-mothers-day-gift-ideas-2024-mom-tech-gadgets)
+ - [Trek Fetch+ 2 Review: A Solid, Though Expensive, Cargo Ebike](https://www.wired.com/review/trek-fetch-plus-2/)
+ - [Limited supply: Apple&#39;s latest 14-inch MacBook Pro is $200 off](https://appleinsider.com/articles/24/04/19/limited-supply-apples-latest-14-inch-macbook-pro-is-200-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
