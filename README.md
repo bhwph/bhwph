@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No f**king way](http://9gag.com/gag/ae9jExp)
- - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
- - 👉 [I have no sauce, please bear with me](http://9gag.com/gag/a4PKg1y)<!-- MEMES:END -->
+ - 6️⃣ [I have no sauce, please bear with me](http://9gag.com/gag/a4PKg1y)
+ - 😝 [Google AI](http://9gag.com/gag/ajPYG0R)
+ - 👉 [I&#39;m not quite sure how they plan on enforcing this](http://9gag.com/gag/apRE7mb)<!-- MEMES:END -->
 
 --- 
 
