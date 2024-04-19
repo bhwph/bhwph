@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for April 22 to 26](https://news.xbox.com/en-us/2024/04/19/next-week-on-xbox-new-games-for-april-22-to-26/)
- - [Fallout’s NCR reveal hurt — even if it was inevitable](https://www.polygon.com/24133456/amazon-fallout-show-ncr-shady-sands-lore-fan-reaction-response-explained)
- - [Amazon Prime&#39;s Fallout Is Officially Getting A Second Season](https://kotaku.com/fallout-season-2-amazon-prime-bethesda-1851421573)<!-- GAME:END -->
+ - [Fable](https://www.pcgamer.com/fable-4)
+ - [Spy x Family Code: White fails the mission by serving every fan](https://www.polygon.com/anime/24134207/spy-x-family-code-white-movie-review-anya)
+ - [Xbox Members Can Now Get 3 Months Free of Apple TV+ Until July 7](https://news.xbox.com/en-us/2024/04/19/apple-tv-3-month-perk-2024/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
