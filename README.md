@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it will consolidate teams that focus on building AI models across Research and DeepMind, and move its Responsible AI teams in Research to DeepMind &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240418/p34#a240418p34)
- - [We Finally Know Where Neuralink’s Brain Implant Trial Is Happening](https://www.wired.com/story/neuralink-brain-implant-study-site/)
- - [The Best Pillows for Side Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft researchers introduce VASA-1, an AI model that creates a realistic talking face video from a portrait photo and an audio file, in research preview &lpar;Ryan Morrison/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240418/p37#a240418p37)
+ - [Best Internet Providers in Hillsboro, Oregon     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-hillsboro-or/#ftag=CAD590a51e)
+ - [Apple&#39;s iPhone Screen Sizes Could Change in 2024, and Possibly Again in 2025     - CNET](https://www.cnet.com/tech/apples-iphone-screen-sizes-could-change-in-2024-and-possibly-again-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
