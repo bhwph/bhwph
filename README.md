@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shrek rules!](http://9gag.com/gag/aRBwqQj)
- - 😝 [How much fire power do you want in your anime ? Yes](http://9gag.com/gag/azxg3Zj)
- - 👉 [The Future](http://9gag.com/gag/aqy9EmM)<!-- MEMES:END -->
+ - 6️⃣ [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
+ - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
+ - 👉 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)<!-- MEMES:END -->
 
 --- 
 
