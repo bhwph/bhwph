@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Have a beer.](http://9gag.com/gag/apRE78D)
- - 😝 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
- - 👉 [Can I help...?](http://9gag.com/gag/aPAw0On)<!-- MEMES:END -->
+ - 6️⃣ [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
+ - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
+ - 👉 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)<!-- MEMES:END -->
 
 --- 
 
