@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Can I help...?](http://9gag.com/gag/aPAw0On)
- - 😝 [Bro wards off robbers without even making a face](http://9gag.com/gag/a34PrYe)
- - 👉 [Google AI](http://9gag.com/gag/ajPYG0R)<!-- MEMES:END -->
+ - 😝 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)
+ - 👉 [2024 is the year of female empowerment](http://9gag.com/gag/an7q0WE)<!-- MEMES:END -->
 
 --- 
 
