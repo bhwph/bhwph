@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Jesse Plemons’ Civil War character says the quiet part out loud](https://www.polygon.com/24134902/civil-war-jesse-plemons-bodies-scene)
  - [Discord wants to void your right to sue them in court — but you can opt out of the practice](https://www.polygon.com/2024/4/20/24134970/discord-arbitration-how-to-opt-out)
- - [Hades 2 Hotties, Starfield Updates, And More Of This Week&#39;s Takes](https://kotaku.com/hades-2-hotties-starfield-updates-and-more-of-this-we-1851422626)
- - [The best sci-fi movies to watch on Netflix this April](https://www.polygon.com/what-to-watch/2024/4/20/24132361/best-sci-fi-movies-watch-netflix-april-2024)<!-- GAME:END -->
+ - [Hades 2 Hotties, Starfield Updates, And More Of This Week&#39;s Takes](https://kotaku.com/hades-2-hotties-starfield-updates-and-more-of-this-we-1851422626)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
