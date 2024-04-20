@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia closed down 10% on Friday, falling the most since March 2020 and losing more than $200B of its market value, as investors pull back from AI bets &lpar;George Steer/Financial Times&rpar;](http://www.techmeme.com/240419/p13#a240419p13)
- - [Applying the mathematical principles of Pareto to Mario Kart 8](https://www.theverge.com/2024/4/19/24135206/mario-kart-pareto-front-math-data-peach-rulez)
- - [&#39;Tortured Poets&#39; Music Video Drops Tonight. What to Know About Taylor Swift&#39;s New Double Album     - CNET](https://www.cnet.com/culture/entertainment/tortured-poets-music-video-drops-tonight-what-to-know-about-taylor-swifts-new-double-album/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bitcoin&#39;s fourth halving is now complete, lowering miners&#39; block subsidy rewards from 6.25 BTC to 3.125 BTC; the third halving was on May 2020 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240419/p15#a240419p15)
+ - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
+ - [Energy&#39;s New Wave: Meet 4 Women Powering America&#39;s Clean Energy Transition     - CNET](https://www.cnet.com/news/features/energys-new-wave-meet-four-women-powering-americas-clean-energy-transition/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
