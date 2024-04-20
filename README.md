@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can I help...?](http://9gag.com/gag/aPAw0On)
+ - 6️⃣ [Using Anti Mosquito Racket in area full of mosquitoes](http://9gag.com/gag/axydK4n)
  - 😝 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)
- - 👉 [2024 is the year of female empowerment](http://9gag.com/gag/an7q0WE)<!-- MEMES:END -->
+ - 👉 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)<!-- MEMES:END -->
 
 --- 
 
