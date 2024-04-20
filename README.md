@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)
- - 😝 [American citizenship final exam](http://9gag.com/gag/aZZb5p9)
- - 👉 [That&#39;s great to hear!](http://9gag.com/gag/an7qZ0n)<!-- MEMES:END -->
+ - 6️⃣ [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)
+ - 😝 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
+ - 👉 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)<!-- MEMES:END -->
 
 --- 
 
