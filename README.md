@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GE Café Specialty Grind and Brew Coffee Maker Review: Can&#39;t Make Just One Cup](https://www.wired.com/review/ge-cafe-specialty-grind-and-brew/)
- - [A look at Los Angeles&#39; Homelessness Prevention pilot program, which uses AI to identify those at risk of becoming homeless, offering aid to keep them housed &lpar;Kate Rogers/CNBC&rpar;](http://www.techmeme.com/240420/p5#a240420p5)
- - [You Can Clamp Your Phone Into Razer’s Fancy New Game Controller](https://www.wired.com/story/razer-kishi-ultra-game-controller/)<!-- TECH:END -->
+ - [PCs that can run large AI models may drive an enterprise PC replacement cycle, but some CIOs say they&#39;ll wait for the category to mature and prices to come down &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240420/p6#a240420p6)
+ - [12 Best Game Controllers &lpar;2024&rpar;: PC, Switch, PS5, Xbox, Accessibility](https://www.wired.com/gallery/best-game-controllers/)
+ - [7 Best Smart Plugs &lpar;2024&rpar;: Indoor Plugs, Outdoor Plugs, and Advice](https://www.wired.com/gallery/best-smart-plugs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
