@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin&#39;s fourth halving is now complete, lowering miners&#39; block subsidy rewards from 6.25 BTC to 3.125 BTC; the third halving was on May 2020 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240419/p15#a240419p15)
- - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
- - [Energy&#39;s New Wave: Meet 4 Women Powering America&#39;s Clean Energy Transition     - CNET](https://www.cnet.com/news/features/energys-new-wave-meet-four-women-powering-americas-clean-energy-transition/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China publishes measures to boost foreign investment in its domestic technology sector, including encouraging tech companies to raise money via bond issuance &lpar;Reuters&rpar;](http://www.techmeme.com/240419/p16#a240419p16)
+ - [Best Filtered Water Bottles of 2024     - CNET](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)
+ - [Bitcoin&#39;s fourth halving is now complete, lowering miners&#39; block subsidy rewards from 6.25 BTC to 3.125 BTC; the third halving was on May 2020 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240419/p15#a240419p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
