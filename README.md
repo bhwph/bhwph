@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Slash and shoot your way through a procedural bug hole in Ants Took My Eyeball](https://www.pcgamer.com/games/slash-and-shoot-your-way-through-a-procedural-bug-hole-in-ants-took-my-eyeball)
- - [For $8, you can get 373 games, digital comics, and more in a new charity bundle for Palestinian relief](https://www.pcgamer.com/games/for-dollar8-you-can-get-373-games-digital-comics-and-more-in-a-new-charity-bundle-for-palestinian-relief)
- - [Jesse Plemons’ Civil War character says the quiet part out loud](https://www.polygon.com/24134902/civil-war-jesse-plemons-bodies-scene)<!-- GAME:END -->
+ - [Metroidvania around a microscopic world to save dogs everywhere in BioGun](https://www.pcgamer.com/games/action/metroidvania-around-a-microscopic-world-to-save-dogs-everywhere-in-biogun)
+ - [Here&#39;s a chaos co-op take on getting boxes off the shipping floor and out the factory door](https://www.pcgamer.com/games/heres-a-chaos-co-op-take-on-getting-boxes-off-the-shipping-floor-and-out-the-factory-door)
+ - [Slash and shoot your way through a procedural bug hole in Ants Took My Eyeball](https://www.pcgamer.com/games/slash-and-shoot-your-way-through-a-procedural-bug-hole-in-ants-took-my-eyeball)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
