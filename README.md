@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jesse Plemons’ Civil War character says the quiet part out loud](https://www.polygon.com/24134902/civil-war-jesse-plemons-bodies-scene)
- - [Discord wants to void your right to sue them in court — but you can opt out of the practice](https://www.polygon.com/2024/4/20/24134970/discord-arbitration-how-to-opt-out)
- - [Hades 2 Hotties, Starfield Updates, And More Of This Week&#39;s Takes](https://kotaku.com/hades-2-hotties-starfield-updates-and-more-of-this-we-1851422626)<!-- GAME:END -->
+ - [Slash and shoot your way through a procedural bug hole in Ants Took My Eyeball](https://www.pcgamer.com/games/slash-and-shoot-your-way-through-a-procedural-bug-hole-in-ants-took-my-eyeball)
+ - [For $8, you can get 373 games, digital comics, and more in a new charity bundle for Palestinian relief](https://www.pcgamer.com/games/for-dollar8-you-can-get-373-games-digital-comics-and-more-in-a-new-charity-bundle-for-palestinian-relief)
+ - [Jesse Plemons’ Civil War character says the quiet part out loud](https://www.polygon.com/24134902/civil-war-jesse-plemons-bodies-scene)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
