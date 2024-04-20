@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
- - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
- - 👉 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)<!-- MEMES:END -->
+ - 6️⃣ [Hey, can you keep your hands still?](http://9gag.com/gag/avypV1M)
+ - 😝 [92](http://9gag.com/gag/aPAwqbK)
+ - 👉 [Another one](http://9gag.com/gag/agm3bjx)<!-- MEMES:END -->
 
 --- 
 
