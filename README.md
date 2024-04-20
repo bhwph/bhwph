@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI-Controlled Fighter Jets Are Dogfighting With Human Pilots Now](https://www.wired.com/story/ai-fighter-jets-dogfight-security-roundup/)
- - [How One Corporation Is Cashing In on America’s Drought](https://www.wired.com/story/drought-colorado-river-arizona-water/)
- - [Best Phones Under $300 in 2024     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GE Café Specialty Grind and Brew Coffee Maker Review: Can&#39;t Make Just One Cup](https://www.wired.com/review/ge-cafe-specialty-grind-and-brew/)
+ - [A look at Los Angeles&#39; Homelessness Prevention pilot program, which uses AI to identify those at risk of becoming homeless, offering aid to keep them housed &lpar;Kate Rogers/CNBC&rpar;](http://www.techmeme.com/240420/p5#a240420p5)
+ - [You Can Clamp Your Phone Into Razer’s Fancy New Game Controller](https://www.wired.com/story/razer-kishi-ultra-game-controller/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
