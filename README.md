@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LittleBigPlanet Server Apocalypse Wipes Hundreds Of Thousands Of PlayStation Players&#39; Creations Without Warning](https://kotaku.com/littlebigplanet-3-ps4-servers-sony-playstation-1851423658)
- - [World of Warcraft boss says Microsoft is happy to &#39;let Blizzard be Blizzard,&#39; but I&#39;m not sure that&#39;s entirely true](https://www.pcgamer.com/gaming-industry/world-of-warcraft-boss-says-microsoft-is-happy-to-let-blizzard-be-blizzard-but-im-not-sure-thats-entirely-true)
- - [Take-Two wins lawsuit over LeBron James’ tattoos](https://www.polygon.com/24131877/nba-2k-lebron-james-tattoo-jury-trial-april-2024)<!-- GAME:END -->
+ - [No Rest for the Wicked isn&#39;t a Diablo, but it might be one of the smartest soulslikes I&#39;ve played in a long time](https://www.pcgamer.com/games/action/no-rest-for-the-wicked-early-access-impressions)
+ - [Game master Joel cuts an unprecedented deal with Helldivers 2 players: Pull off the &#39;Martale Gambit&#39; and he&#39;ll liberate two planets for the price of one](https://www.pcgamer.com/helldivers-2-game-master-joel-martale-gambit)
+ - [Pokémon Go Bellsprout Community Day guide](https://www.polygon.com/pokemon-go-guide/2024/4/19/24134959/bellsprout-community-day-shiny-weepinbell-victreebel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
