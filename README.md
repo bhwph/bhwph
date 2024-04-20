@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What would you do?](http://9gag.com/gag/a2vzAMY)
- - 😝 [Have a beer.](http://9gag.com/gag/apRE78D)
- - 👉 [Taishan in China.There are 7,200 steps, and it takes 4 to 6 hours to reach the top. Ignore the music](http://9gag.com/gag/a87L9L3)<!-- MEMES:END -->
+ - 6️⃣ [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
+ - 😝 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
+ - 👉 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)<!-- MEMES:END -->
 
 --- 
 
