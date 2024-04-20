@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NHL Playoffs 2024: Schedule, Matchups, TV Times, How to Watch Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nhl-playoffs-2024-schedule-matchups-tv-times-how-to-watch-without-cable/#ftag=CAD590a51e)
- - [TikTok ban passes in the House, could become law in a matter of days](https://www.androidauthority.com/tiktok-ban-passes-house-3435865/)
- - [Best Sonos Deals: Save Up to $140 on Top-Rated Portable Speakers, Soundbars and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [House passes bill saying ByteDance must sell or spin off TikTok](https://appleinsider.com/articles/24/04/20/house-bill-proposes-bytedances-forced-sale-or-divestiture-of-tiktok?utm_medium=rss)
+ - [Best King-Size Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
+ - [Best Buy&#39;s MacBook Air sale drives prices down to $599](https://appleinsider.com/articles/24/04/20/best-buys-macbook-air-sale-drives-prices-down-to-599?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
