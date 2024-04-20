@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Withings ScanWatch 2 review: Should you buy it?](https://www.androidauthority.com/withings-scanwatch-2-review-3428589/)
- - [Sources: Biden administration is encouraging US tech groups to seek AI deals in the UAE and brokered Microsoft&#39;s deal with G42, as it seeks an edge over China &lpar;Financial Times&rpar;](http://www.techmeme.com/240420/p7#a240420p7)
- - [Apple Vision Pro is revolutionizing surgical procedures worldwide](https://appleinsider.com/articles/24/04/20/apple-vision-pro-is-revolutionizing-surgical-procedures-worldwide?utm_medium=rss)<!-- TECH:END -->
+ - [The little smart home platform that could](https://www.theverge.com/24135207/home-assistant-announces-open-home-foundation)
+ - [Why I bought the MacBook Air and not the Pro](https://www.androidauthority.com/macbook-air-m3-silicon-3434607/)
+ - [The House passes a TikTok divestiture bill with a longer sale deadline as part of a package of Ukraine/Israel aid bills, pressuring the Senate to vote on TikTok &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240420/p8#a240420p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
