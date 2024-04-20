@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, April 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-20-2024)
  - [A studio helmed by StarCraft 2&#39;s multiplayer lead wants to create an RTS &#39;paradigm shift&#39; with its unannounced game](https://www.pcgamer.com/games/rts/uncapped-games-announcement)
- - [No Rest for the Wicked isn&#39;t a Diablo, but it might be one of the smartest soulslikes I&#39;ve played in a long time](https://www.pcgamer.com/games/action/no-rest-for-the-wicked-early-access-impressions)
- - [Game master Joel cuts an unprecedented deal with Helldivers 2 players: Pull off the &#39;Martale Gambit&#39; and he&#39;ll liberate two planets for the price of one](https://www.pcgamer.com/helldivers-2-game-master-joel-martale-gambit)<!-- GAME:END -->
+ - [No Rest for the Wicked isn&#39;t a Diablo, but it might be one of the smartest soulslikes I&#39;ve played in a long time](https://www.pcgamer.com/games/action/no-rest-for-the-wicked-early-access-impressions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
