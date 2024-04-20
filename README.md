@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
- - 😝 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
- - 👉 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)<!-- MEMES:END -->
+ - 6️⃣ [Shrek rules!](http://9gag.com/gag/aRBwqQj)
+ - 😝 [How much fire power do you want in your anime ? Yes](http://9gag.com/gag/azxg3Zj)
+ - 👉 [The Future](http://9gag.com/gag/aqy9EmM)<!-- MEMES:END -->
 
 --- 
 
