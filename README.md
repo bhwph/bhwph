@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PCs that can run large AI models may drive an enterprise PC replacement cycle, but some CIOs say they&#39;ll wait for the category to mature and prices to come down &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240420/p6#a240420p6)
- - [12 Best Game Controllers &lpar;2024&rpar;: PC, Switch, PS5, Xbox, Accessibility](https://www.wired.com/gallery/best-game-controllers/)
- - [7 Best Smart Plugs &lpar;2024&rpar;: Indoor Plugs, Outdoor Plugs, and Advice](https://www.wired.com/gallery/best-smart-plugs/)<!-- TECH:END -->
+ - [Withings ScanWatch 2 review: Should you buy it?](https://www.androidauthority.com/withings-scanwatch-2-review-3428589/)
+ - [Sources: Biden administration is encouraging US tech groups to seek AI deals in the UAE and brokered Microsoft&#39;s deal with G42, as it seeks an edge over China &lpar;Financial Times&rpar;](http://www.techmeme.com/240420/p7#a240420p7)
+ - [Apple Vision Pro is revolutionizing surgical procedures worldwide](https://appleinsider.com/articles/24/04/20/apple-vision-pro-is-revolutionizing-surgical-procedures-worldwide?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
