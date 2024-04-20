@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, April 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-20-2024)
- - [A studio helmed by StarCraft 2&#39;s multiplayer lead wants to create an RTS &#39;paradigm shift&#39; with its unannounced game](https://www.pcgamer.com/games/rts/uncapped-games-announcement)
- - [No Rest for the Wicked isn&#39;t a Diablo, but it might be one of the smartest soulslikes I&#39;ve played in a long time](https://www.pcgamer.com/games/action/no-rest-for-the-wicked-early-access-impressions)<!-- GAME:END -->
+ - [Discord wants to void your right to sue them in court — but you can opt out of the practice](https://www.polygon.com/2024/4/20/24134970/discord-arbitration-how-to-opt-out)
+ - [Hades 2 Hotties, Starfield Updates, And More Of This Week&#39;s Takes](https://kotaku.com/hades-2-hotties-starfield-updates-and-more-of-this-we-1851422626)
+ - [The best sci-fi movies to watch on Netflix this April](https://www.polygon.com/what-to-watch/2024/4/20/24132361/best-sci-fi-movies-watch-netflix-april-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
