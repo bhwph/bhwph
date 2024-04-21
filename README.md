@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metroidvania around a microscopic world to save dogs everywhere in BioGun](https://www.pcgamer.com/games/action/metroidvania-around-a-microscopic-world-to-save-dogs-everywhere-in-biogun)
- - [Here&#39;s a chaos co-op take on getting boxes off the shipping floor and out the factory door](https://www.pcgamer.com/games/heres-a-chaos-co-op-take-on-getting-boxes-off-the-shipping-floor-and-out-the-factory-door)
- - [Slash and shoot your way through a procedural bug hole in Ants Took My Eyeball](https://www.pcgamer.com/games/slash-and-shoot-your-way-through-a-procedural-bug-hole-in-ants-took-my-eyeball)<!-- GAME:END -->
+ - [Almost 12 years after release, 7 Days to Die finally announces it&#39;s leaving early access](https://www.pcgamer.com/games/survival-crafting/almost-12-years-after-release-7-days-to-die-finally-announces-its-leaving-early-access)
+ - [9 years on, one dedicated Witcher 3 YouTuber is still finding new secrets and easter eggs in CD Projekt&#39;s masterpiece](https://www.pcgamer.com/games/rpg/9-years-on-one-dedicated-witcher-3-youtuber-is-still-finding-new-secrets-and-easter-eggs-in-cd-projekts-masterpiece)
+ - [Metroidvania around a microscopic world to save dogs everywhere in BioGun](https://www.pcgamer.com/games/action/metroidvania-around-a-microscopic-world-to-save-dogs-everywhere-in-biogun)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
