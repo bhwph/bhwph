@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, April 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-21-2024)
- - [If you want more Fallout in these trying times, have you considered playing Wasteland 3?](https://www.pcgamer.com/games/rpg/if-you-want-more-fallout-in-these-trying-times-have-you-considered-playing-wasteland-3)
- - [Almost 12 years after release, 7 Days to Die finally announces it&#39;s leaving early access](https://www.pcgamer.com/games/survival-crafting/almost-12-years-after-release-7-days-to-die-finally-announces-its-leaving-early-access)<!-- GAME:END -->
+ - [The 10 best Metroidvanias to play right now](https://www.polygon.com/what-to-play/24130852/best-metroidvania-games-play-nintendo-switch-steam-playstation-xbox-pc)
+ - [Fallout-Esque Games You Should Play, Nintendo Switch Secrets, And More](https://kotaku.com/fallout-esque-games-you-should-play-nintendo-switch-se-1851422625)
+ - [Today&#39;s Wordle answer for Sunday, April 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-21-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
