@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Insta360 X4 360-degree action camera is pocket-sized perfection for vloggers](https://www.androidauthority.com/insta360-x4-review-3434576/)
- - [Best VPN for Streaming in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-streaming/#ftag=CAD590a51e)
- - [iPhone Storage Tip: Eliminate Duplicate Photos Hassle-Free With This Hack     - CNET](https://www.cnet.com/tech/mobile/iphone-storage-tip-eliminate-duplicate-photos-with-this-tip/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Tripod for Photography and Video in 2024     - CNET](https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/#ftag=CAD590a51e)
+ - [It&#39;s Your Last Day To Score Great Deals at Best Buy&#39;s Members Sale     - CNET](https://www.cnet.com/deals/its-your-last-day-to-score-great-deals-at-best-buys-members-sale/#ftag=CAD590a51e)
+ - [NBA Playoffs 2024: Schedule, Matchups, TV Times, How to Watch Sunday&#39;s Games     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-schedule-matchups-tv-times-how-to-watch-sundays-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
