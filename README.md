@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airchat is a breath of fresh air in my social media life](https://www.androidauthority.com/airchat-hands-on-3435712/)
- - [What Is 5G Home Internet? Here’s Everything You Need to Know &lpar;2024&rpar;](https://www.wired.com/story/what-is-5g-home-internet/)
- - [LeBron James leaks return of Beats Pill speaker](https://appleinsider.com/articles/24/04/21/lebron-james-leaks-return-of-beats-pill-speaker?utm_medium=rss)<!-- TECH:END -->
+ - [The Insta360 X4 360-degree action camera is pocket-sized perfection for vloggers](https://www.androidauthority.com/insta360-x4-review-3434576/)
+ - [Best VPN for Streaming in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-streaming/#ftag=CAD590a51e)
+ - [iPhone Storage Tip: Eliminate Duplicate Photos Hassle-Free With This Hack     - CNET](https://www.cnet.com/tech/mobile/iphone-storage-tip-eliminate-duplicate-photos-with-this-tip/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
