@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How TikTok has influenced US culture and shaped Hollywood, privacy, fashion, shopping, news, music, trends, cooking, mental health, national security, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240421/p1#a240421p1)
  - [How to set up and activate Siri](https://www.androidauthority.com/set-up-activate-siri-3152430/)
- - [Today&#39;s Wordle Hints and Answer: Help for April 21, #1037     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-21-1037/#ftag=CAD590a51e)
- - [London Marathon 2024: How to Watch Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/london-marathon-2024-how-to-watch-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for April 21, #1037     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-21-1037/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
