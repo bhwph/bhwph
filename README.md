@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)
- - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
- - 👉 [Oopsie](http://9gag.com/gag/aVvz8AP)<!-- MEMES:END -->
+ - 6️⃣ [Haha I remember that haircut!!](http://9gag.com/gag/aZZbO83)
+ - 😝 [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
+ - 👉 [Tsunami in Indonesia](http://9gag.com/gag/aAyRzGE)<!-- MEMES:END -->
 
 --- 
 
