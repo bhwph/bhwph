@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey, can you keep your hands still?](http://9gag.com/gag/avypV1M)
- - 😝 [92](http://9gag.com/gag/aPAwqbK)
- - 👉 [Another one](http://9gag.com/gag/agm3bjx)<!-- MEMES:END -->
+ - 6️⃣ [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)
+ - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
+ - 👉 [Oopsie](http://9gag.com/gag/aVvz8AP)<!-- MEMES:END -->
 
 --- 
 
