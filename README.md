@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Sweden](http://9gag.com/gag/a9ybG4K)
- - 😝 [Is this really what some women expect?](http://9gag.com/gag/aMV258x)
- - 👉 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)<!-- MEMES:END -->
+ - 😝 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
+ - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
 
 --- 
 
