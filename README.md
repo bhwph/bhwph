@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ hits #1 in streaming movies, Top 10 in streaming TV series](https://appleinsider.com/articles/24/04/20/apple-tv-hits-1-in-streaming-movies-top-10-in-streaming-tv-series?utm_medium=rss)
- - [How some parents, seeking the ability to reach their kids at all times, have become unexpected but forceful opponents of schools&#39; attempts to ban phones &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240421/p2#a240421p2)
- - [Skip the Paste—You Should Chomp Down on a Toothpaste Tablet](https://www.wired.com/story/chomp-down-toothpaste-tablet-rave/)<!-- TECH:END -->
+ - [Airchat is a breath of fresh air in my social media life](https://www.androidauthority.com/airchat-hands-on-3435712/)
+ - [What Is 5G Home Internet? Here’s Everything You Need to Know &lpar;2024&rpar;](https://www.wired.com/story/what-is-5g-home-internet/)
+ - [LeBron James leaks return of Beats Pill speaker](https://appleinsider.com/articles/24/04/21/lebron-james-leaks-return-of-beats-pill-speaker?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
