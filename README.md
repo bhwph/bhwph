@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s a Clever Way to Uncover America’s Voting Deserts](https://www.wired.com/story/voting-deserts-maths-topology/)
- - [How TikTok has influenced US culture and shaped Hollywood, privacy, fashion, shopping, news, music, trends, cooking, mental health, national security, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240421/p1#a240421p1)
- - [How to set up and activate Siri](https://www.androidauthority.com/set-up-activate-siri-3152430/)<!-- TECH:END -->
+ - [Apple TV+ hits #1 in streaming movies, Top 10 in streaming TV series](https://appleinsider.com/articles/24/04/20/apple-tv-hits-1-in-streaming-movies-top-10-in-streaming-tv-series?utm_medium=rss)
+ - [How some parents, seeking the ability to reach their kids at all times, have become unexpected but forceful opponents of schools&#39; attempts to ban phones &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240421/p2#a240421p2)
+ - [Skip the Paste—You Should Chomp Down on a Toothpaste Tablet](https://www.wired.com/story/chomp-down-toothpaste-tablet-rave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
