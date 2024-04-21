@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Block-funded Gridless, which operates bitcoin mines in Kenya, Malawi, and Zambia, powered through solar power and wasted energy from a geothermal site &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240420/p12#a240420p12)
  - [Researchers: when given 15 CVE descriptions, GPT-4 autonomously exploited 87% of the vulnerabilities, compared to 0% for every other model tested &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240420/p11#a240420p11)
- - [This is Tesla’s riveting fix for recalled Cybertruck accelerator pedals](https://www.theverge.com/2024/4/20/24135876/tesla-cybertruck-accelerator-pedal-recall-fix)
- - [House passes bill saying ByteDance must sell or spin off TikTok](https://appleinsider.com/articles/24/04/20/house-bill-proposes-bytedances-forced-sale-or-divestiture-of-tiktok?utm_medium=rss)<!-- TECH:END -->
+ - [This is Tesla’s riveting fix for recalled Cybertruck accelerator pedals](https://www.theverge.com/2024/4/20/24135876/tesla-cybertruck-accelerator-pedal-recall-fix)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
