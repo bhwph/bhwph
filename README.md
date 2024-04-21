@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Boasting economist lobstermen, gas mask aliens with 120 sexes, and the best space dogfights 2003 has to offer, Underspace is a sci-fi RPG well worth your time](https://www.pcgamer.com/games/sim/boasting-economist-lobstermen-gas-mask-aliens-with-120-sexes-and-the-best-spaceship-piloting-2003-has-to-offer-underspace-is-a-sci-fi-rpg-well-worth-your-time)
  - [Infection Free Zone’s early access bugs weigh down its intriguing premise](https://www.polygon.com/24135134/infection-free-zone-early-access-impressions-map-data-bugs)
- - [The 10 best Metroidvanias to play right now](https://www.polygon.com/what-to-play/24130852/best-metroidvania-games-play-nintendo-switch-steam-playstation-xbox-pc)
- - [Fallout-Esque Games You Should Play, Nintendo Switch Secrets, And More](https://kotaku.com/fallout-esque-games-you-should-play-nintendo-switch-se-1851422625)<!-- GAME:END -->
+ - [The 10 best Metroidvanias to play right now](https://www.polygon.com/what-to-play/24130852/best-metroidvania-games-play-nintendo-switch-steam-playstation-xbox-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
