@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is this really what some women expect?](http://9gag.com/gag/aMV258x)
- - 😝 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
- - 👉 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)<!-- MEMES:END -->
+ - 6️⃣ [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)
+ - 😝 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
+ - 👉 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)<!-- MEMES:END -->
 
 --- 
 
