@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Tripod for Photography and Video in 2024     - CNET](https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/#ftag=CAD590a51e)
- - [It&#39;s Your Last Day To Score Great Deals at Best Buy&#39;s Members Sale     - CNET](https://www.cnet.com/deals/its-your-last-day-to-score-great-deals-at-best-buys-members-sale/#ftag=CAD590a51e)
- - [NBA Playoffs 2024: Schedule, Matchups, TV Times, How to Watch Sunday&#39;s Games     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-schedule-matchups-tv-times-how-to-watch-sundays-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Do Your Dreams Mean? Sleep Experts Reveal Common Interpretations     - CNET](https://www.cnet.com/health/sleep/what-do-your-dreams-mean/#ftag=CAD590a51e)
+ - [Why is Windows 11 so got dang annoying?](https://www.theverge.com/2024/4/21/24063379/windows-11-ads-bing-edge-cruft)
+ - [Best Tripod for Photography and Video in 2024     - CNET](https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
