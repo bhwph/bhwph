@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)
- - 😝 [92](http://9gag.com/gag/aPAwqbK)
- - 👉 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)<!-- MEMES:END -->
+ - 6️⃣ [Imagine Being This Dumb](http://9gag.com/gag/avypK35)
+ - 😝 [Meng Er the Panda, and why he makes a face when he breaks bamboo.](http://9gag.com/gag/ayN7bpW)
+ - 👉 [This perfect device](http://9gag.com/gag/a4PK0Rv)<!-- MEMES:END -->
 
 --- 
 
