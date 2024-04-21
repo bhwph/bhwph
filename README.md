@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I did it everyone](http://9gag.com/gag/a7oLYEz)
- - 😝 [His last show.](http://9gag.com/gag/a6Zm0QL)
+ - 6️⃣ [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
+ - 😝 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)
  - 👉 [Sweden](http://9gag.com/gag/a9ybG4K)<!-- MEMES:END -->
 
 --- 
