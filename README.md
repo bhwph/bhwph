@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imagine Being This Dumb](http://9gag.com/gag/avypK35)
- - 😝 [Meng Er the Panda, and why he makes a face when he breaks bamboo.](http://9gag.com/gag/ayN7bpW)
- - 👉 [This perfect device](http://9gag.com/gag/a4PK0Rv)<!-- MEMES:END -->
+ - 6️⃣ [Is this really what some women expect?](http://9gag.com/gag/aMV258x)
+ - 😝 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
+ - 👉 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)<!-- MEMES:END -->
 
 --- 
 
