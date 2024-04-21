@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sweden](http://9gag.com/gag/a9ybG4K)
- - 😝 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
- - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
+ - 6️⃣ [I did it everyone](http://9gag.com/gag/a7oLYEz)
+ - 😝 [His last show.](http://9gag.com/gag/a6Zm0QL)
+ - 👉 [Sweden](http://9gag.com/gag/a9ybG4K)<!-- MEMES:END -->
 
 --- 
 
