@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s a Clever Way to Uncover America’s Voting Deserts](https://www.wired.com/story/voting-deserts-maths-topology/)
  - [How TikTok has influenced US culture and shaped Hollywood, privacy, fashion, shopping, news, music, trends, cooking, mental health, national security, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240421/p1#a240421p1)
- - [How to set up and activate Siri](https://www.androidauthority.com/set-up-activate-siri-3152430/)
- - [Today&#39;s Wordle Hints and Answer: Help for April 21, #1037     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-21-1037/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to set up and activate Siri](https://www.androidauthority.com/set-up-activate-siri-3152430/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
