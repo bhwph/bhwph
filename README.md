@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
- - 😝 [I have no sauce, please bear with me](http://9gag.com/gag/a4PKg1y)
- - 👉 [I did it everyone](http://9gag.com/gag/a7oLYEz)<!-- MEMES:END -->
+ - 6️⃣ [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)
+ - 😝 [92](http://9gag.com/gag/aPAwqbK)
+ - 👉 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)<!-- MEMES:END -->
 
 --- 
 
