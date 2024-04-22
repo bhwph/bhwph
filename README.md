@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [African tech investor TLcom Capital raised $154M for a new fund, attracting US and Europe investment; Africa-focused VCs have raised $655M since November 2023 &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/240422/p7#a240422p7)
- - [Green Roofs Are Great. Blue-Green Roofs Are Even Better](https://www.wired.com/story/blue-green-roofs-amsterdam-resilio-climate-adaptation-sponge-cities/)
- - [Japan&#39;s FTC says Google blocked Yahoo Japan from accessing targeted ad revenue from mobile searches between 2015 and 2022; Alphabet changed its practices &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240422/p6#a240422p6)<!-- TECH:END -->
+ - [Want to restore a forest? Give it back to Indigenous peoples who call it home](https://www.theverge.com/2024/4/22/24133444/forest-restoration-indigenous-human-rights-costa-rica-earth-day)
+ - [UK-based users sue Grindr in the UK, alleging the app shared personal data, including HIV status, with ad companies like Localytics between 2018 to 2020 &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240422/p10#a240422p10)
+ - [Flagship for less: Samsung adds Galaxy S23 to Certified Re-Newed program](https://www.androidauthority.com/galaxy-s23-certified-renewed-program-3435937/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
