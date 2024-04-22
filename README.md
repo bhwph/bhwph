@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Any Joe Rogan fans here?](http://9gag.com/gag/aZZbeV9)
- - 😝 [And Then?](http://9gag.com/gag/a87LP3Z)
- - 👉 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)<!-- MEMES:END -->
+ - 6️⃣ [His last show.](http://9gag.com/gag/a6Zm0QL)
+ - 😝 [A Missouri Highway Patrol officer clears the road by lifting a 300kg bale of hay](http://9gag.com/gag/aE0v99N)
+ - 👉 [Wish me luck](http://9gag.com/gag/awy06rx)<!-- MEMES:END -->
 
 --- 
 
