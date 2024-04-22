@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord CEO Jason Citron makes the case for a smaller, more private internet](https://www.theverge.com/24134914/discord-ceo-gaming-chat-teens-safety-moderation-decoder-interview)
- - [Buckle and Band offers a new take on designer Apple Watch bands for sophisticated owners](https://appleinsider.com/articles/24/04/22/buckle-and-band-offers-a-new-take-on-designer-apple-watch-bands?utm_medium=rss)
- - [Deadpool and Wolverine whip out the big guns in latest trailer](https://www.theverge.com/24137038/deadpool-and-wolverine-trailer-sleeves-cassandra-nova)<!-- TECH:END -->
+ - [EU opens another TikTok probe and will now formally assess whether TikTok Lite&#39;s design, which financially rewards users for watching videos, is &quot;addictive&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240422/p14#a240422p14)
+ - [GaeaStar&#39;s 3D-Printed Clay Coffee Cups Are Disposable, but Can They Save Us From Microplastics?](https://www.wired.com/story/gaeastar-3d-printed-clay-coffee-cups-verve-coffee/)
+ - [23 Everyday Products Made of Recycled Materials &lpar;2024&rpar;: Chargers, Watches, Toys](https://www.wired.com/gallery/our-favorite-upcycled-and-recycled-products/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
