@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Semiconductor Giant ASML Has a New Boss, and a Big Problem](https://www.wired.com/story/asml-ceo-chip-war-christophe-fouquet/)
- - [Tinder announces Share My Date, allowing users to share their date plans with friends, including their match&#39;s name, meeting location, date, and time &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240422/p3#a240422p3)
- - [Samsung offers free screen replacement for Galaxy phones with green line issue](https://www.androidauthority.com/samsung-green-line-issue-free-screen-replacement-3435963/)<!-- TECH:END -->
+ - [Swedish game developer Embracer Group plans to split itself into three publicly traded companies, focused on tabletop, indie, and AAA; EMBRAC-B.ST jumps 10%+ &lpar;Christopher Jungstedt/Bloomberg&rpar;](http://www.techmeme.com/240422/p4#a240422p4)
+ - [North Koreans Secretly Animated Amazon and Max Shows, Researchers Say](https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/)
+ - [The Gemini app is getting a speed boost with ‘real-time responses’](https://www.androidauthority.com/google-gemini-real-time-responses-3435563/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
