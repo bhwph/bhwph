@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Xbox VR headset is on the way, but it’s a ‘limited edition’ Meta Quest](https://www.theverge.com/2024/4/22/24137334/xbox-vr-headset-microsoft-meta-quest-limited-edition)
- - [The Roborock Q7 Max Plus is almost 50% off today](https://www.androidauthority.com/roborock-q7-max-plus-deal-3436166/)
- - [Calling all audiophiles: Moondrop teases its first Hi-Fi smartphone with new image](https://www.androidauthority.com/moondrop-miad-01-teaser-3436146/)<!-- TECH:END -->
+ - [Anker’s 8-in-1 charging station is matching its lowest price to date](https://www.theverge.com/2024/4/22/24137089/anker-qi2-maggo-magnetic-charging-station-macbook-air-13-deal-sale)
+ - [Source: UnitedHealth&#39;s Change Healthcare was compromised on February 12, nine days before the ransomware attack, and the company paid a ransom to the hackers &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/240422/p18#a240422p18)
+ - [Android 15 update tracker: When will your phone get it?](https://www.androidauthority.com/android-15-update-3415425/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
