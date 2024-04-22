@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fallout TV show sneaks in New Vegas lead designer&#39;s map of the setting](https://www.pcgamer.com/movies-tv/the-fallout-tv-show-snuck-in-the-new-vegas-lead-designers-map-of-the-usa)
  - [Galax&#39;s single-slot RTX 4060 Ti is out in the wild, though sadly it appears to be a little tempestuous](https://www.pcgamer.com/hardware/graphics-cards/galaxs-single-slot-rtx-4060-ti-is-out-in-the-wild-though-sadly-it-appears-to-be-a-little-tempestuous)
- - [Magic: The Gathering&#39;s latest set gives you a good excuse to dig out those old cards](https://www.pcgamer.com/games/card-games/magic-the-gatherings-latest-gives-you-a-good-excuse-to-dig-out-those-old-cards)
- - [Today&#39;s Wordle answer for Monday, April 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-22-2024)<!-- GAME:END -->
+ - [Magic: The Gathering&#39;s latest set gives you a good excuse to dig out those old cards](https://www.pcgamer.com/games/card-games/magic-the-gatherings-latest-gives-you-a-good-excuse-to-dig-out-those-old-cards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
