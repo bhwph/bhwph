@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Robotic Factory Arms Malfunction..](http://9gag.com/gag/aNDr6K3)
- - 😝 [Un attended !](http://9gag.com/gag/a2vzexZ)
- - 👉 [I wanna see &#39;em.](http://9gag.com/gag/awy0EMx)<!-- MEMES:END -->
+ - 6️⃣ [The ideal gadget](http://9gag.com/gag/avypKen)
+ - 😝 [Good stick](http://9gag.com/gag/agm3epW)
+ - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
 
 --- 
 
