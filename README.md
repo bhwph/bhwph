@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU opens another TikTok probe and will now formally assess whether TikTok Lite&#39;s design, which financially rewards users for watching videos, is &quot;addictive&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240422/p14#a240422p14)
- - [GaeaStar&#39;s 3D-Printed Clay Coffee Cups Are Disposable, but Can They Save Us From Microplastics?](https://www.wired.com/story/gaeastar-3d-printed-clay-coffee-cups-verve-coffee/)
- - [23 Everyday Products Made of Recycled Materials &lpar;2024&rpar;: Chargers, Watches, Toys](https://www.wired.com/gallery/our-favorite-upcycled-and-recycled-products/)<!-- TECH:END -->
+ - [An Xbox VR headset is on the way, but it’s a ‘limited edition’ Meta Quest](https://www.theverge.com/2024/4/22/24137334/xbox-vr-headset-microsoft-meta-quest-limited-edition)
+ - [The Roborock Q7 Max Plus is almost 50% off today](https://www.androidauthority.com/roborock-q7-max-plus-deal-3436166/)
+ - [Calling all audiophiles: Moondrop teases its first Hi-Fi smartphone with new image](https://www.androidauthority.com/moondrop-miad-01-teaser-3436146/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
