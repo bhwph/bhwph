@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile studio warns of &#39;malicious&#39; phishing post that appeared on Steam, tells players &#39;please take immediate action to secure your account&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-studio-warns-of-malicious-phishing-post-that-appeared-on-steam-tells-players-please-take-immediate-action-to-secure-your-account)
- - [A Konami code variant in Castlevania has been discovered after a quarter of a century](https://www.pcgamer.com/games/action/a-konami-code-variant-in-castlevania-has-been-discovered-after-a-quarter-of-a-century)
- - [When does Genshin Impact 4.6 release?](https://www.polygon.com/genshin-impact-guides/24137313/version-4-6-release-maintenance-times)<!-- GAME:END -->
+ - [After a year marooned on the Epic store, Dead Island 2 debuts on Steam to &#39;mixed&#39; reviews for a very silly reason](https://www.pcgamer.com/games/action/after-a-year-marooned-on-the-epic-store-dead-island-2-debuts-on-steam-to-mixed-reviews-for-a-very-silly-reason)
+ - [Final Fantasy XVI’s Expansions Offer Windows Into What Could’ve Been](https://kotaku.com/final-fantasy-16-dlc-rising-tide-echoes-of-the-fallen-1851427350)
+ - [Eiyuden Chronicle: Hundred Heroes review](https://www.pcgamer.com/games/rpg/eiyuden-chronicle-hundred-heroes-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
