@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After playing hundreds of hours of The Witcher 3 since 2015, I can&#39;t believe I&#39;d never heard of this mod that squashes 5,400+ bugs and restores cut dialogue](https://www.pcgamer.com/games/the-witcher/after-playing-hundreds-of-hours-of-the-witcher-3-since-2015-i-cant-believe-id-never-heard-of-this-mod-that-squashes-5400-bugs-and-restores-cut-dialogue)
- - [NieR creator insists that his decisions are based on what he thinks will sell, while also quipping that &#39;at first I listen to what the publisher wants from me, but later I don&#39;t&#39;](https://www.pcgamer.com/games/action/nier-creator-insists-that-his-decisions-are-based-on-what-he-thinks-will-sell-while-also-quipping-that-at-first-i-listen-to-what-the-publisher-wants-from-me-but-later-i-dont)
- - [Boasting economist lobstermen, gas mask aliens with 120 sexes, and the best space dogfights 2003 has to offer, Underspace is a sci-fi RPG well worth your time](https://www.pcgamer.com/games/sim/boasting-economist-lobstermen-gas-mask-aliens-with-120-sexes-and-the-best-spaceship-piloting-2003-has-to-offer-underspace-is-a-sci-fi-rpg-well-worth-your-time)<!-- GAME:END -->
+ - [Toss, perch on, and leap from your magic staff in the demo for action platformer Akatori](https://www.pcgamer.com/games/action/toss-perch-on-and-leap-from-your-magic-staff-in-the-demo-for-action-platformer-akatori)
+ - [A leaked Call of Duty: Mobile skin turns a gun into a 3D animated WWII diorama where tiny little men fight and die in a miniature war, and it&#39;s so absurd I don&#39;t care how much it costs](https://www.pcgamer.com/games/call-of-duty/a-leaked-call-of-duty-mobile-skin-turns-a-gun-into-a-3d-animated-wwii-diorama-where-tiny-little-men-fight-and-die-in-a-miniature-war-and-its-so-absurd-i-dont-care-how-much-it-costs)
+ - [Brotato has a DLC and a free, 4-player local co-op expansion incoming](https://www.pcgamer.com/games/roguelike/brotato-has-a-dlc-and-a-free-4-player-local-co-op-expansion-incoming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
