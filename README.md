@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout TV show sneaks in New Vegas lead designer&#39;s map of the setting](https://www.pcgamer.com/movies-tv/the-fallout-tv-show-snuck-in-the-new-vegas-lead-designers-map-of-the-usa)
- - [Galax&#39;s single-slot RTX 4060 Ti is out in the wild, though sadly it appears to be a little tempestuous](https://www.pcgamer.com/hardware/graphics-cards/galaxs-single-slot-rtx-4060-ti-is-out-in-the-wild-though-sadly-it-appears-to-be-a-little-tempestuous)
- - [Magic: The Gathering&#39;s latest set gives you a good excuse to dig out those old cards](https://www.pcgamer.com/games/card-games/magic-the-gatherings-latest-gives-you-a-good-excuse-to-dig-out-those-old-cards)<!-- GAME:END -->
+ - [Knuckles Is Barely In His Paramount+ Show](https://kotaku.com/knuckles-paramount-plus-show-episodes-idris-elba-1851423004)
+ - [The Knuckles Show Isn’t The Spin-Off Its Hero Deserves](https://kotaku.com/knuckles-review-paramount-plus-episodes-season-one-1851423404)
+ - [Windows 10 users are soon to be hit with nagging prompts asking them to create an online account](https://www.pcgamer.com/software/windows/windows-10-users-are-soon-to-be-hit-with-nagging-prompts-asking-them-to-create-an-online-account)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
