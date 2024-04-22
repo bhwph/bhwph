@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The game that&#39;s all about drawing and creativity, Gartic Phone, adds and then swiftly removes an AI mode, in &#39;a straight-up slap in the face to any and all artists&#39;](https://www.pcgamer.com/games/puzzle/the-game-thats-all-about-drawing-and-creativity-gartic-phone-adds-and-then-swiftly-removes-an-ai-mode-in-a-straight-up-slap-in-the-face-to-any-and-all-artists)
- - [A new physics paper suggests that we may all be living in the ultimate 4X strategy game after all](https://www.pcgamer.com/hardware/a-new-physics-paper-suggests-that-we-may-all-be-living-in-the-ultimate-4x-strategy-game-after-all)
- - [Microsoft&#39;s VASA-1 takes AI-generated video one step closer to &#39;aw hell, we&#39;re all doomed&#39;](https://www.pcgamer.com/software/ai/microsofts-vasa-1-takes-ai-generated-video-one-step-closer-to-aw-hell-were-all-doomed)<!-- GAME:END -->
+ - [Deadpool &amp; Wolverine’s New Trailer Puts The Spotlight On Logan](https://kotaku.com/deadpool-and-wolverine-logan-new-trailer-hugh-jackman-1851425770)
+ - [Tales of Kenzera: Zau review](https://www.pcgamer.com/games/action/tales-of-kenzera-zau-review)
+ - [Tales of Kenzera: Zau is a beautiful, devastating meditation on loss](https://www.polygon.com/reviews/24134916/tales-of-kenzera-zau-review-ps5-switch-pc-xbox-series-x)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
