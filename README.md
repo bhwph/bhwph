@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadpool &amp; Wolverine’s New Trailer Puts The Spotlight On Logan](https://kotaku.com/deadpool-and-wolverine-logan-new-trailer-hugh-jackman-1851425770)
- - [Tales of Kenzera: Zau review](https://www.pcgamer.com/games/action/tales-of-kenzera-zau-review)
- - [Tales of Kenzera: Zau is a beautiful, devastating meditation on loss](https://www.polygon.com/reviews/24134916/tales-of-kenzera-zau-review-ps5-switch-pc-xbox-series-x)<!-- GAME:END -->
+ - [Ranking Overwatch 2 Season 10&#39;s Biggest Changes](https://kotaku.com/overwatch-2-season-10-wrecking-ball-rework-mythic-shop-1851423207)
+ - [Tales of the Shire trailer reveals a cozy Hobbit life sim game](https://www.polygon.com/24127381/lord-of-the-rings-tales-of-the-shire-game-trailer)
+ - [Tales of the Shire is Stardew Valley but with happy little hobbits](https://www.pcgamer.com/games/life-sim/tales-of-the-shire-is-stardew-valley-but-with-happy-little-hobbits)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
