@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Home Assistant, an open-source smart home platform with an estimated 1M users, as its creators announce a foundation to help it reach the mainstream &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240421/p5#a240421p5)
- - [From &#39;Knuckles&#39; to &#39;Dead Boy Detectives&#39;: Here&#39;s What You Gotta Stream This Week     - CNET](https://www.cnet.com/tech/services-and-software/from-knuckles-to-dead-boy-detectives-heres-what-you-gotta-stream-this-week/#ftag=CAD590a51e)
- - [Why is ChatGPT so slow? Here’s how to speed up the chatbot’s responses](https://www.androidauthority.com/why-is-chatgpt-so-slow-response-3435940/)<!-- TECH:END -->
+ - [Analysis: the 25 most-cited US news organizations lost 75% of their Facebook engagement and 58% of their Instagram interactions between Q1 2022 and Q1 2024 &lpar;Washington Post&rpar;](http://www.techmeme.com/240421/p6#a240421p6)
+ - [Best Full Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-full-mattress/#ftag=CAD590a51e)
+ - [A look at Home Assistant, an open-source smart home platform with an estimated 1M users, as its creators announce a foundation to help it reach the mainstream &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240421/p5#a240421p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
