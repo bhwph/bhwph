@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sweden](http://9gag.com/gag/a9ybG4K)
- - 😝 [And Then?](http://9gag.com/gag/a87LP3Z)
- - 👉 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)<!-- MEMES:END -->
+ - 6️⃣ [Un attended !](http://9gag.com/gag/a2vzexZ)
+ - 😝 [I did it everyone](http://9gag.com/gag/a7oLYEz)
+ - 👉 [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)<!-- MEMES:END -->
 
 --- 
 
