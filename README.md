@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: the 25 most-cited US news organizations lost 75% of their Facebook engagement and 58% of their Instagram interactions between Q1 2022 and Q1 2024 &lpar;Washington Post&rpar;](http://www.techmeme.com/240421/p6#a240421p6)
- - [Best Full Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-full-mattress/#ftag=CAD590a51e)
- - [A look at Home Assistant, an open-source smart home platform with an estimated 1M users, as its creators announce a foundation to help it reach the mainstream &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240421/p5#a240421p5)<!-- TECH:END -->
+ - [Semiconductor Giant ASML Has a New Boss, and a Big Problem](https://www.wired.com/story/asml-ceo-chip-war-christophe-fouquet/)
+ - [Tinder announces Share My Date, allowing users to share their date plans with friends, including their match&#39;s name, meeting location, date, and time &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240422/p3#a240422p3)
+ - [Samsung offers free screen replacement for Galaxy phones with green line issue](https://www.androidauthority.com/samsung-green-line-issue-free-screen-replacement-3435963/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
