@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The ideal gadget](http://9gag.com/gag/avypKen)
- - 😝 [Good stick](http://9gag.com/gag/agm3epW)
- - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
+ - 6️⃣ [Seen today in Germany. And yes, children liked it .](http://9gag.com/gag/a87LZmV)
+ - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 👉 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)<!-- MEMES:END -->
 
 --- 
 
