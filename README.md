@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Knuckles Is Barely In His Paramount+ Show](https://kotaku.com/knuckles-paramount-plus-show-episodes-idris-elba-1851423004)
- - [The Knuckles Show Isn’t The Spin-Off Its Hero Deserves](https://kotaku.com/knuckles-review-paramount-plus-episodes-season-one-1851423404)
- - [Windows 10 users are soon to be hit with nagging prompts asking them to create an online account](https://www.pcgamer.com/software/windows/windows-10-users-are-soon-to-be-hit-with-nagging-prompts-asking-them-to-create-an-online-account)<!-- GAME:END -->
+ - [The game that&#39;s all about drawing and creativity, Gartic Phone, adds and then swiftly removes an AI mode, in &#39;a straight-up slap in the face to any and all artists&#39;](https://www.pcgamer.com/games/puzzle/the-game-thats-all-about-drawing-and-creativity-gartic-phone-adds-and-then-swiftly-removes-an-ai-mode-in-a-straight-up-slap-in-the-face-to-any-and-all-artists)
+ - [A new physics paper suggests that we may all be living in the ultimate 4X strategy game after all](https://www.pcgamer.com/hardware/a-new-physics-paper-suggests-that-we-may-all-be-living-in-the-ultimate-4x-strategy-game-after-all)
+ - [Microsoft&#39;s VASA-1 takes AI-generated video one step closer to &#39;aw hell, we&#39;re all doomed&#39;](https://www.pcgamer.com/software/ai/microsofts-vasa-1-takes-ai-generated-video-one-step-closer-to-aw-hell-were-all-doomed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
