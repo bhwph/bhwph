@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
- - 😝 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)
- - 👉 [Sweden](http://9gag.com/gag/a9ybG4K)<!-- MEMES:END -->
+ - 6️⃣ [F**king legend](http://9gag.com/gag/aD2AK4d)
+ - 😝 [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
+ - 👉 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)<!-- MEMES:END -->
 
 --- 
 
