@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Seen today in Germany. And yes, children liked it .](http://9gag.com/gag/a87LZmV)
- - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 👉 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)<!-- MEMES:END -->
+ - 6️⃣ [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 😝 [And Then?](http://9gag.com/gag/a87LP3Z)
+ - 👉 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)<!-- MEMES:END -->
 
 --- 
 
