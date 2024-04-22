@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After a year marooned on the Epic store, Dead Island 2 debuts on Steam to &#39;mixed&#39; reviews for a very silly reason](https://www.pcgamer.com/games/action/after-a-year-marooned-on-the-epic-store-dead-island-2-debuts-on-steam-to-mixed-reviews-for-a-very-silly-reason)
- - [Final Fantasy XVI’s Expansions Offer Windows Into What Could’ve Been](https://kotaku.com/final-fantasy-16-dlc-rising-tide-echoes-of-the-fallen-1851427350)
- - [Eiyuden Chronicle: Hundred Heroes review](https://www.pcgamer.com/games/rpg/eiyuden-chronicle-hundred-heroes-review)<!-- GAME:END -->
+ - [El Paso, Elsewhere, a Max Payne-inspired shooter about keeping your vampire ex-lover from destroying the world, is being made into a movie](https://www.pcgamer.com/movies-tv/el-paso-elsewhere-a-max-payne-inspired-shooter-about-keeping-your-vampire-ex-lover-from-destroying-the-world-is-being-made-into-a-movie)
+ - [Blizzard &#39;remixed&#39; one of the best WoW expansions with new items and boosted XP and it starts next month](https://www.pcgamer.com/games/world-of-warcraft/blizzard-remixed-one-of-the-best-wow-expansions-with-new-items-and-boosted-xp-and-it-starts-next-month)
+ - [Tomb Raider 3 Update Secretly Nukes Lara Croft Pinups](https://kotaku.com/tomb-raider-3-remastered-patch-notes-posters-1851427547)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
