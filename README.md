@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swedish game developer Embracer Group plans to split itself into three publicly traded companies, focused on tabletop, indie, and AAA; EMBRAC-B.ST jumps 10%+ &lpar;Christopher Jungstedt/Bloomberg&rpar;](http://www.techmeme.com/240422/p4#a240422p4)
- - [North Koreans Secretly Animated Amazon and Max Shows, Researchers Say](https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/)
- - [The Gemini app is getting a speed boost with ‘real-time responses’](https://www.androidauthority.com/google-gemini-real-time-responses-3435563/)<!-- TECH:END -->
+ - [African tech investor TLcom Capital raised $154M for a new fund, attracting US and Europe investment; Africa-focused VCs have raised $655M since November 2023 &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/240422/p7#a240422p7)
+ - [Green Roofs Are Great. Blue-Green Roofs Are Even Better](https://www.wired.com/story/blue-green-roofs-amsterdam-resilio-climate-adaptation-sponge-cities/)
+ - [Japan&#39;s FTC says Google blocked Yahoo Japan from accessing targeted ad revenue from mobile searches between 2015 and 2022; Alphabet changed its practices &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240422/p6#a240422p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
