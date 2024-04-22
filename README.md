@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want to restore a forest? Give it back to Indigenous peoples who call it home](https://www.theverge.com/2024/4/22/24133444/forest-restoration-indigenous-human-rights-costa-rica-earth-day)
- - [UK-based users sue Grindr in the UK, alleging the app shared personal data, including HIV status, with ad companies like Localytics between 2018 to 2020 &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240422/p10#a240422p10)
- - [Flagship for less: Samsung adds Galaxy S23 to Certified Re-Newed program](https://www.androidauthority.com/galaxy-s23-certified-renewed-program-3435937/)<!-- TECH:END -->
+ - [Discord CEO Jason Citron makes the case for a smaller, more private internet](https://www.theverge.com/24134914/discord-ceo-gaming-chat-teens-safety-moderation-decoder-interview)
+ - [Buckle and Band offers a new take on designer Apple Watch bands for sophisticated owners](https://appleinsider.com/articles/24/04/22/buckle-and-band-offers-a-new-take-on-designer-apple-watch-bands?utm_medium=rss)
+ - [Deadpool and Wolverine whip out the big guns in latest trailer](https://www.theverge.com/24137038/deadpool-and-wolverine-trailer-sleeves-cassandra-nova)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
