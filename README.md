@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The ultimate bloatware removal tool now works on any version of Windows 11](https://www.pcgamer.com/software/windows/the-ultimate-bloatware-removal-tool-now-works-on-any-version-of-windows-11)
- - [Toss, perch on, and leap from your magic staff in the demo for action platformer Akatori](https://www.pcgamer.com/games/action/toss-perch-on-and-leap-from-your-magic-staff-in-the-demo-for-action-platformer-akatori)
- - [A leaked Call of Duty: Mobile skin turns a gun into a 3D animated WWII diorama where tiny little men fight and die in a miniature war, and it&#39;s so absurd I don&#39;t care how much it costs](https://www.pcgamer.com/games/call-of-duty/a-leaked-call-of-duty-mobile-skin-turns-a-gun-into-a-3d-animated-wwii-diorama-where-tiny-little-men-fight-and-die-in-a-miniature-war-and-its-so-absurd-i-dont-care-how-much-it-costs)<!-- GAME:END -->
+ - [Galax&#39;s single-slot RTX 4060 Ti is out in the wild, though sadly it appears to be a little tempestuous](https://www.pcgamer.com/hardware/graphics-cards/galaxs-single-slot-rtx-4060-ti-is-out-in-the-wild-though-sadly-it-appears-to-be-a-little-tempestuous)
+ - [Magic: The Gathering&#39;s latest set gives you a good excuse to dig out those old cards](https://www.pcgamer.com/games/card-games/magic-the-gatherings-latest-gives-you-a-good-excuse-to-dig-out-those-old-cards)
+ - [Today&#39;s Wordle answer for Monday, April 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-22-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
