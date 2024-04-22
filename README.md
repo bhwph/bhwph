@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ranking Overwatch 2 Season 10&#39;s Biggest Changes](https://kotaku.com/overwatch-2-season-10-wrecking-ball-rework-mythic-shop-1851423207)
- - [Tales of the Shire trailer reveals a cozy Hobbit life sim game](https://www.polygon.com/24127381/lord-of-the-rings-tales-of-the-shire-game-trailer)
- - [Tales of the Shire is Stardew Valley but with happy little hobbits](https://www.pcgamer.com/games/life-sim/tales-of-the-shire-is-stardew-valley-but-with-happy-little-hobbits)<!-- GAME:END -->
+ - [Path of Exile studio warns of &#39;malicious&#39; phishing post that appeared on Steam, tells players &#39;please take immediate action to secure your account&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-studio-warns-of-malicious-phishing-post-that-appeared-on-steam-tells-players-please-take-immediate-action-to-secure-your-account)
+ - [A Konami code variant in Castlevania has been discovered after a quarter of a century](https://www.pcgamer.com/games/action/a-konami-code-variant-in-castlevania-has-been-discovered-after-a-quarter-of-a-century)
+ - [When does Genshin Impact 4.6 release?](https://www.polygon.com/genshin-impact-guides/24137313/version-4-6-release-maintenance-times)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
