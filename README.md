@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Festival&#39;s New Season Makes The Game Even More Like Rock Band](https://kotaku.com/fortnite-festival-season-3-guitar-controller-support-pc-1851429714)
- - [How to get an ARR &lpar;Zodiac&rpar; relic weapon in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24138178/arr-relic-zodiac-weapon-quest-fates-grind-light-atmas-mahatmas)
- - [Young Sheldon keeps showing up on social media because it’s actually good](https://www.polygon.com/entertainment/24137721/young-sheldon-should-watch-season-final-surprisingly-good-sitcom)<!-- GAME:END -->
+ - [Rise Of The Ronin Hides A Cool Nioh Easter Egg](https://kotaku.com/rise-of-the-ronin-nioh-ryu-combat-style-team-ninja-1851430091)
+ - [Fans Divided After Learning Metaphor: ReFantazio Won’t Have Romance](https://kotaku.com/metaphor-refantazio-persona-bond-social-link-romance-1851430134)
+ - [This Slowpoke plush is as big as the real thing, and costs $450](https://www.polygon.com/2024/4/23/24138429/slowpoke-pokemon-plush-pre-order)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
