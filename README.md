@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No way, the DJ did that!!](http://9gag.com/gag/azxg69j)
- - 😝 [Nice landing](http://9gag.com/gag/aryv6n6)
- - 👉 [He has his athes eyes don&#39;t you think !](http://9gag.com/gag/aRBwx9j)<!-- MEMES:END -->
+ - 6️⃣ [There a two and it is fine. No nope there is not a another one.](http://9gag.com/gag/aE0vrW9)
+ - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
+ - 👉 [Proud Parents](http://9gag.com/gag/a6ZmPe2)<!-- MEMES:END -->
 
 --- 
 
