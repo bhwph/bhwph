@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
- - 👉 [Now we have questions](http://9gag.com/gag/a9ydj0D)<!-- MEMES:END -->
+ - 6️⃣ [Elephant memory](http://9gag.com/gag/a0e9v8q)
+ - 😝 [For old times sake\u2026 Men of culture\u2026 enjoy!](http://9gag.com/gag/aE0wvzx)
+ - 👉 [How was your day at work?](http://9gag.com/gag/aoyzmjm)<!-- MEMES:END -->
 
 --- 
 
