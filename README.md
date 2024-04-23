@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus adds &#39;Intel Baseline Profile&#39; to new BIOS files to combat stability issues but the TDP is still higher than Intel&#39;s actual baselines](https://www.pcgamer.com/hardware/motherboards/asus-adds-intel-baseline-profile-to-the-latest-bios-files-for-better-stability-but-the-tdp-is-still-higher-than-intels-stock-value)
- - [DDR5-10000 memory is closer than ever after JEDEC, the managing body of the standard, extends the base DDR5 spec](https://www.pcgamer.com/hardware/memory/ddr5-10000-memory-is-closer-than-ever-after-jedec-the-managing-body-of-the-standard-extends-the-base-ddr5-spec)
- - [Fake Samsung 1080 Pro SSDs show up on Aliexpress, and the benchmark results are hilarious](https://www.pcgamer.com/software/windows/fake-samsung-1080-pro-ssds-show-up-on-aliexpress-and-the-benchmark-results-are-hilarious)<!-- GAME:END -->
+ - [Star Wars Jedi: Survivor is a late addition to April’s Game Pass lineup](https://www.polygon.com/24131925/xbox-game-pass-april-lineup-ea-sports-nhl-24-manor-lords)
+ - [EK admits fault for financial issues facing employees and business partners: &#39;We are committed to fulfilling our financial obligations and regaining your trust&#39;](https://www.pcgamer.com/hardware/liquid-cooling-company-ek-allegedly-facing-financial-difficulties-with-suppliers-partners-and-employees-claiming-theyre-bearing-the-brunt-of-it)
+ - [Final Fantasy 14: Dawntrail&#39;s new benchmark will get a 2.0 version after player upset over lifeless eyes, flattened faces, and cursed lalafell dolphin teeth](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrails-new-benchmark-will-get-a-20-version-after-player-upset-over-lifeless-eyes-flattened-faces-and-cursed-lalafell-dolphin-teeth)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
