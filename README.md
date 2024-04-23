@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And that&#39;s how I fell in love](http://9gag.com/gag/aLnRYBz)
- - 😝 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
+ - 6️⃣ [Bentley vs Citroen](http://9gag.com/gag/aPAv6Xg)
+ - 😝 [Things to never say to a woman in bed.](http://9gag.com/gag/aYQbNjN)
  - 👉 [Now we have questions](http://9gag.com/gag/a9ydj0D)<!-- MEMES:END -->
 
 --- 
