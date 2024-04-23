@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If she hits you with this,fertilize](http://9gag.com/gag/aGy9Kwz)
- - 😝 [Un attended !](http://9gag.com/gag/a2vzexZ)
- - 👉 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)<!-- MEMES:END -->
+ - 6️⃣ [Wish me luck](http://9gag.com/gag/awy06rx)
+ - 😝 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)
+ - 👉 [If she hits you with this,fertilize](http://9gag.com/gag/aGy9Kwz)<!-- MEMES:END -->
 
 --- 
 
