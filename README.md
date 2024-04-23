@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Black belt in laundry fighting against the stains.](http://9gag.com/gag/adB03G9)
- - 😝 [It must have had a hidden feature](http://9gag.com/gag/a1mv4bw)
- - 👉 [Stay blessed](http://9gag.com/gag/aO8K693)<!-- MEMES:END -->
+ - 6️⃣ [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
+ - 😝 [And Then?](http://9gag.com/gag/a87LP3Z)
+ - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
 
 --- 
 
