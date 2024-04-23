@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile unveils new 5G internet plans for enhanced home and travel connectivity](https://www.androidauthority.com/t-mobile-new-internet-plans-3436660/)
- - [How 14 tribes plan to use the Biden administration’s solar grants](https://www.theverge.com/2024/4/23/24137548/mha-nation-tribes-solar-grant-biden-administration)
- - [Microsoft took down its WizardLM 2 LLM after it reportedly missed &quot;toxicity testing&quot;, but people already downloaded and re-uploaded it to GitHub, Hugging Face &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240423/p26#a240423p26)<!-- TECH:END -->
+ - [Tesla’s profits sink as the company struggles with cooling demand](https://www.theverge.com/2024/4/23/24134282/tesla-earnings-q1-2024-profit-demand-elon-musk)
+ - [The US Senate advances the bill forcing a sale or ban of TikTok, preparing for a final vote on the bill as soon as Tuesday evening &lpar;Sara Dorn/Forbes&rpar;](http://www.techmeme.com/240423/p31#a240423p31)
+ - [Sources: IBM is nearing an acquisition of HashiCorp, which helps companies manage cloud infrastructure, in the coming days; HashiCorp&#39;s stock jumps 22%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240423/p30#a240423p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
