@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There a two and it is fine. No nope there is not a another one.](http://9gag.com/gag/aE0vrW9)
- - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
- - 👉 [Proud Parents](http://9gag.com/gag/a6ZmPe2)<!-- MEMES:END -->
+ - 6️⃣ [And that&#39;s how I fell in love](http://9gag.com/gag/aLnRYBz)
+ - 😝 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
+ - 👉 [Now we have questions](http://9gag.com/gag/a9ydj0D)<!-- MEMES:END -->
 
 --- 
 
