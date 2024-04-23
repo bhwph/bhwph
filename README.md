@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Missouri Highway Patrol officer clears the road by lifting a 300kg bale of hay](http://9gag.com/gag/aE0v99N)
- - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 👉 [Millionaire stops cosplaying as poor person when he realizes it&#39;s super hard to exist with health issues and no insurance or money](http://9gag.com/gag/axydxKM)<!-- MEMES:END -->
+ - 6️⃣ [A Black belt in laundry fighting against the stains.](http://9gag.com/gag/adB03G9)
+ - 😝 [It must have had a hidden feature](http://9gag.com/gag/a1mv4bw)
+ - 👉 [Stay blessed](http://9gag.com/gag/aO8K693)<!-- MEMES:END -->
 
 --- 
 
