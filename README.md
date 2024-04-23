@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces May 7th event for new iPads](https://www.theverge.com/2024/4/23/24078670/apple-may-product-event-ipad-date)
- - [The Top New Features in MacOS Sonoma: How to Download, Compatible Macs](https://www.wired.com/story/apple-macos-sonoma-features/)
- - [Anker’s minimalistic home backup batteries are ready for blackout season](https://www.theverge.com/24136932/anker-solix-x1-home-battery-powerwall-alternative-specs)<!-- TECH:END -->
+ - [Repairable laptop maker Framework Computer raised a $17M Series A-1, after an $18M Series A in early 2022, to expand into new product categories &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240423/p21#a240423p21)
+ - [Asus ROG Zephyrus G14 Review: A Gaming Laptop Perfect for Both Work and Play](https://www.wired.com/review/asus-rog-zephyrus-g14/)
+ - [Samsung’s new glare-free OLED S95D TV is receiving its first cash discount](https://www.theverge.com/2024/4/23/24138203/best-buy-samsung-oled-s95d-tv-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
