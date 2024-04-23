@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hodor](http://9gag.com/gag/ajPYbpp)
- - 😝 [Millionaire stops cosplaying as poor person when he realizes it&#39;s super hard to exist with health issues and no insurance or money](http://9gag.com/gag/axydxKM)
- - 👉 [Proud Parents](http://9gag.com/gag/a6ZmPe2)<!-- MEMES:END -->
+ - 6️⃣ [If she hits you with this,fertilize](http://9gag.com/gag/aGy9Kwz)
+ - 😝 [Un attended !](http://9gag.com/gag/a2vzexZ)
+ - 👉 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)<!-- MEMES:END -->
 
 --- 
 
