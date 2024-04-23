@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fake Samsung 1080 Pro SSDs show up on Aliexpress, and the benchmark results are hilarious](https://www.pcgamer.com/software/windows/fake-samsung-1080-pro-ssds-show-up-on-aliexpress-and-the-benchmark-results-are-hilarious)
  - [Can Trubbish be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24137180/can-trubbish-be-shiny-garbodor)
- - [Today&#39;s Wordle answer for Tuesday, April 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-23-2024)
- - [This Total War: Shogun 2 mod lets you play out the real historical war that inspired the FX TV show](https://www.pcgamer.com/games/strategy/shogun-tv-show-real-history-total-war-mod)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, April 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-23-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
