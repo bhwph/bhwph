@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bentley vs Citroen](http://9gag.com/gag/aPAv6Xg)
- - 😝 [Things to never say to a woman in bed.](http://9gag.com/gag/aYQbNjN)
+ - 6️⃣ [How was your day at work?](http://9gag.com/gag/aoyzmjm)
+ - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
  - 👉 [Now we have questions](http://9gag.com/gag/a9ydj0D)<!-- MEMES:END -->
 
 --- 
