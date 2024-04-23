@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [18 times the Fallout show was exactly like a videogame](https://www.pcgamer.com/movies-tv/18-times-the-fallout-show-was-exactly-like-a-videogame)
- - [Preparing for Adventure – Talking to the Creative Minds Behind Eiyuden Chronicle: Hundred Heroes](https://news.xbox.com/en-us/2024/04/23/talking-creative-minds-behind-eiyuden-chronicle-hundred-heroes/)
- - [Shōgun’s stunt coordinator on the show’s ‘no bullshit’ approach to action](https://www.polygon.com/24137203/shogun-action-sword-fights-stunt-coordinator-interview-approach)<!-- GAME:END -->
+ - [Fortnite Festival&#39;s New Season Makes The Game Even More Like Rock Band](https://kotaku.com/fortnite-festival-season-3-guitar-controller-support-pc-1851429714)
+ - [How to get an ARR &lpar;Zodiac&rpar; relic weapon in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24138178/arr-relic-zodiac-weapon-quest-fates-grind-light-atmas-mahatmas)
+ - [Young Sheldon keeps showing up on social media because it’s actually good](https://www.polygon.com/entertainment/24137721/young-sheldon-should-watch-season-final-surprisingly-good-sitcom)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
