@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The cursed Vault Boy drawing Fallout creators would like to forget, but fans never will](https://www.polygon.com/24133363/fallout-vault-boy-child-killer-reputation-perk)
- - [Team Fortress 2 Patch Fixes Bug That Had Game Thinking Players Were Gordon Freeman](https://kotaku.com/team-fortress-2-patch-half-life-2-update-1851428546)
- - [Why Nintendo wouldn’t let Samus be in Fortnite](https://www.polygon.com/24138083/samus-fortnite-skin-nintendo-refused)<!-- GAME:END -->
+ - [18 times the Fallout show was exactly like a videogame](https://www.pcgamer.com/movies-tv/18-times-the-fallout-show-was-exactly-like-a-videogame)
+ - [Preparing for Adventure – Talking to the Creative Minds Behind Eiyuden Chronicle: Hundred Heroes](https://news.xbox.com/en-us/2024/04/23/talking-creative-minds-behind-eiyuden-chronicle-hundred-heroes/)
+ - [Shōgun’s stunt coordinator on the show’s ‘no bullshit’ approach to action](https://www.polygon.com/24137203/shogun-action-sword-fights-stunt-coordinator-interview-approach)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
