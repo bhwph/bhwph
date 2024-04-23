@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
- - 😝 [And Then?](http://9gag.com/gag/a87LP3Z)
- - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
+ - 6️⃣ [Hodor](http://9gag.com/gag/ajPYbpp)
+ - 😝 [Millionaire stops cosplaying as poor person when he realizes it&#39;s super hard to exist with health issues and no insurance or money](http://9gag.com/gag/axydxKM)
+ - 👉 [Proud Parents](http://9gag.com/gag/a6ZmPe2)<!-- MEMES:END -->
 
 --- 
 
