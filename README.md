@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s profits sink as the company struggles with cooling demand](https://www.theverge.com/2024/4/23/24134282/tesla-earnings-q1-2024-profit-demand-elon-musk)
- - [The US Senate advances the bill forcing a sale or ban of TikTok, preparing for a final vote on the bill as soon as Tuesday evening &lpar;Sara Dorn/Forbes&rpar;](http://www.techmeme.com/240423/p31#a240423p31)
- - [Sources: IBM is nearing an acquisition of HashiCorp, which helps companies manage cloud infrastructure, in the coming days; HashiCorp&#39;s stock jumps 22%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240423/p30#a240423p30)<!-- TECH:END -->
+ - [Tesla teases a ridehailing function in its app and says its robotaxi will be &quot;purpose-built&quot;, which typically means built from the ground up to be self-driving &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240423/p38#a240423p38)
+ - [Tesla Promises ‘More Affordable Models’ and a ‘Cybercab’](https://www.wired.com/story/tesla-promises-more-affordable-vehicles-cybercab/)
+ - [Microsoft’s oops moment: Deleted AI project rises from the digital grave](https://www.androidauthority.com/microsoft-deleted-ai-is-back-3436689/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
