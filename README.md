@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Repairable laptop maker Framework Computer raised a $17M Series A-1, after an $18M Series A in early 2022, to expand into new product categories &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240423/p21#a240423p21)
- - [Asus ROG Zephyrus G14 Review: A Gaming Laptop Perfect for Both Work and Play](https://www.wired.com/review/asus-rog-zephyrus-g14/)
- - [Samsung’s new glare-free OLED S95D TV is receiving its first cash discount](https://www.theverge.com/2024/4/23/24138203/best-buy-samsung-oled-s95d-tv-deal-sale)<!-- TECH:END -->
+ - [T-Mobile unveils new 5G internet plans for enhanced home and travel connectivity](https://www.androidauthority.com/t-mobile-new-internet-plans-3436660/)
+ - [How 14 tribes plan to use the Biden administration’s solar grants](https://www.theverge.com/2024/4/23/24137548/mha-nation-tribes-solar-grant-biden-administration)
+ - [Microsoft took down its WizardLM 2 LLM after it reportedly missed &quot;toxicity testing&quot;, but people already downloaded and re-uploaded it to GitHub, Hugging Face &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240423/p26#a240423p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
