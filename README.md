@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Jeff Yass&#39; Susquehanna International Group, which has a ~15% ByteDance stake worth ~$40B and has invested $3.5B+ across 350+ deals in China since 2005 &lpar;Financial Times&rpar;](http://www.techmeme.com/240423/p3#a240423p3)
- - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
- - [Microsoft launches Phi-3, its smallest AI model yet](https://www.theverge.com/2024/4/23/24137534/microsoft-phi-3-launch-small-ai-language-model)<!-- TECH:END -->
+ - [Apple&#39;s FineWoven cases rumored to get one final release](https://appleinsider.com/articles/24/04/23/apples-finewoven-cases-rumored-to-get-one-final-release?utm_medium=rss)
+ - [Kaiko: in the past year, Binance&#39;s bitcoin trading share outside the US fell from 81.3% to 55.3%, OKX&#39;s rose from 3% to 7.3%, and Bybit&#39;s rose from 2% to 9.3% &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240423/p8#a240423p8)
+ - [Photoshop gets update adding more powerful AI workflows](https://appleinsider.com/articles/24/04/23/photoshop-gets-update-adding-more-powerful-ai-workflows?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
