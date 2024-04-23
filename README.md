@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s FineWoven cases rumored to get one final release](https://appleinsider.com/articles/24/04/23/apples-finewoven-cases-rumored-to-get-one-final-release?utm_medium=rss)
- - [Kaiko: in the past year, Binance&#39;s bitcoin trading share outside the US fell from 81.3% to 55.3%, OKX&#39;s rose from 3% to 7.3%, and Bybit&#39;s rose from 2% to 9.3% &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240423/p8#a240423p8)
- - [Photoshop gets update adding more powerful AI workflows](https://appleinsider.com/articles/24/04/23/photoshop-gets-update-adding-more-powerful-ai-workflows?utm_medium=rss)<!-- TECH:END -->
+ - [An analysis of pinyin keyboard apps from Baidu, Honor, Samsung, Tencent, and others finds vulnerabilities that can reveal keystrokes to network eavesdroppers &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/240423/p14#a240423p14)
+ - [The Google Pixel 7 is a steal at $359.99](https://www.androidauthority.com/google-pixel-7-woot-deal-3436243/)
+ - [Porsche Macan Electric 2024: Specs, Prices, Availability](https://www.wired.com/review/review-porsche-macan-electric-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
