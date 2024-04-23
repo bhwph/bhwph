@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of pinyin keyboard apps from Baidu, Honor, Samsung, Tencent, and others finds vulnerabilities that can reveal keystrokes to network eavesdroppers &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/240423/p14#a240423p14)
- - [The Google Pixel 7 is a steal at $359.99](https://www.androidauthority.com/google-pixel-7-woot-deal-3436243/)
- - [Porsche Macan Electric 2024: Specs, Prices, Availability](https://www.wired.com/review/review-porsche-macan-electric-2024/)<!-- TECH:END -->
+ - [Apple announces May 7th event for new iPads](https://www.theverge.com/2024/4/23/24078670/apple-may-product-event-ipad-date)
+ - [The Top New Features in MacOS Sonoma: How to Download, Compatible Macs](https://www.wired.com/story/apple-macos-sonoma-features/)
+ - [Anker’s minimalistic home backup batteries are ready for blackout season](https://www.theverge.com/24136932/anker-solix-x1-home-battery-powerwall-alternative-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
