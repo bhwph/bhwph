@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rise Of The Ronin Hides A Cool Nioh Easter Egg](https://kotaku.com/rise-of-the-ronin-nioh-ryu-combat-style-team-ninja-1851430091)
- - [Fans Divided After Learning Metaphor: ReFantazio Won’t Have Romance](https://kotaku.com/metaphor-refantazio-persona-bond-social-link-romance-1851430134)
- - [This Slowpoke plush is as big as the real thing, and costs $450](https://www.polygon.com/2024/4/23/24138429/slowpoke-pokemon-plush-pre-order)<!-- GAME:END -->
+ - [Upcoming and Available Xbox Games in Wired Direct 2024](https://news.xbox.com/en-us/2024/04/23/upcoming-and-available-xbox-games-in-wired-direct-2024/)
+ - [I almost quit Fallout 76 until I realized Bethesda still hides its most important setting in a config file](https://www.pcgamer.com/games/fallout/i-almost-quit-fallout-76-until-i-realized-bethesda-still-hides-its-most-important-setting-in-a-config-file)
+ - [Gloomhaven studio releases a demo for a new game and lays off more than half its employees on the same day](https://www.pcgamer.com/games/rpg/gloomhaven-studio-releases-a-demo-for-a-new-game-and-lays-off-more-than-half-its-employees-on-the-same-day)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
