@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [El Paso, Elsewhere, a Max Payne-inspired shooter about keeping your vampire ex-lover from destroying the world, is being made into a movie](https://www.pcgamer.com/movies-tv/el-paso-elsewhere-a-max-payne-inspired-shooter-about-keeping-your-vampire-ex-lover-from-destroying-the-world-is-being-made-into-a-movie)
- - [Blizzard &#39;remixed&#39; one of the best WoW expansions with new items and boosted XP and it starts next month](https://www.pcgamer.com/games/world-of-warcraft/blizzard-remixed-one-of-the-best-wow-expansions-with-new-items-and-boosted-xp-and-it-starts-next-month)
- - [Tomb Raider 3 Update Secretly Nukes Lara Croft Pinups](https://kotaku.com/tomb-raider-3-remastered-patch-notes-posters-1851427547)<!-- GAME:END -->
+ - [This Total War: Shogun 2 mod lets you play out the real historical war that inspired the FX TV show](https://www.pcgamer.com/games/strategy/shogun-tv-show-real-history-total-war-mod)
+ - [Arrowhead&#39;s latest major order is exploiting the Helldiver 2 community&#39;s greatest weakness: communication](https://www.pcgamer.com/games/third-person-shooter/arrowheads-latest-major-order-is-exploiting-the-helldiver-2-communitys-greatest-weakness-communication)
+ - [Fortnite is adding a toggle to disable &#39;confrontational emotes&#39; including Laugh it Up and Take the L](https://www.pcgamer.com/games/battle-royale/fortnite-is-adding-a-toggle-to-disable-confrontational-emotes-including-laugh-it-up-and-take-the-l)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
