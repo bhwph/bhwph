@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon ends drone deliveries in Lockeford, California, which began in 2022, and plans to expand them to Tolleson, Arizona, in 2024 and other US regions in 2025 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240422/p21#a240422p21)
- - [Gemini Android app will finally not force you to copy an entire prompt response](https://www.androidauthority.com/gemini-select-text-3436270/)
- - [HR software company Rippling announces a $200M Series F led by Coatue at a $13.5B valuation, up from $11.25B in March 2023, and a separate $590M tender offer &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240422/p20#a240422p20)<!-- TECH:END -->
+ - [Getting an Oura Ring in the US just got way easier](https://www.androidauthority.com/oura-target-partnership-3436338/)
+ - [Fortnite will let players hide mean emotes](https://www.theverge.com/2024/4/22/24137748/fortnite-will-let-players-hide-mean-emotes-take-the-laugh-it-up)
+ - [Nominal, which offers tools for data analysis, testing, and more to startups building advanced hardware like drones, emerges from stealth with $27.5M in funding &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240422/p23#a240422p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
