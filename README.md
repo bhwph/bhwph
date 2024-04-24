@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s generative AI may be the only one that was trained legally &amp; ethically](https://appleinsider.com/articles/24/04/24/apples-generative-ai-may-be-the-only-one-that-was-trained-legally-ethically?utm_medium=rss)
- - [Dublin-based Tines, which offers no-code automation tools for security teams, raised a $50M Series B extension, sources say at a near $600M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240424/p23#a240424p23)
- - [Nissan&#39;s Furry, Robotic Iruyo Puppet Comforts Your Crying Baby While You Drive](https://www.wired.com/story/nissan-iruyo-furry-robotic-puppet-comforts-your-crying-baby-while-you-drive/)<!-- TECH:END -->
+ - [Epic vs. Apple lurches on, this time about antisteering compliance](https://appleinsider.com/articles/24/04/24/epic-vs-apple-lurches-on-this-time-about-antisteering-compliance?utm_medium=rss)
+ - [How a tiny group of US lawmakers and aides wrote the TikTok ban bill, concealing their efforts to avoid TikTok&#39;s lobbying, alongside the DOJ and White House &lpar;New York Times&rpar;](http://www.techmeme.com/240424/p26#a240424p26)
+ - [12 Best Wi-Fi Routers &lpar;2024&rpar;: Budget, Gaming, Mesh](https://www.wired.com/gallery/best-wifi-routers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
