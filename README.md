@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden signs TikTok bill into law as Chinese firm threatens legal action](https://appleinsider.com/articles/24/04/24/biden-signs-tiktok-bill-into-law-as-chinese-firm-threatens-legal-action?utm_medium=rss)
- - [Competing rumors cast doubt on mini LED iPad Air debut in May](https://appleinsider.com/articles/24/04/24/competing-rumors-cast-doubt-on-mini-led-ipad-air-debut-in-may?utm_medium=rss)
- - [Nissan’s Iruyo knows when your baby is sleeping, knows when they’re awake](https://www.theverge.com/2024/4/24/24139097/nissan-iruyo-animatronic-baby-car-toy)<!-- TECH:END -->
+ - [WhatsApp rolls out passkey support on iOS, removing the need for users to deal with SMS one-time passcodes, six months after introducing the feature on Android &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240424/p36#a240424p36)
+ - [How NASA Repaired Voyager 1 From 15 Billion Miles Away](https://www.wired.com/story/nasa-repair-voyager-1-spacecraft-data/)
+ - [Record $70 price drop on the Soundcore Motion X500 Bluetooth speaker](https://www.androidauthority.com/soundcore-motion-x500-bluetooth-speaker-deal-3436962/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
