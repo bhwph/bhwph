@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
- - 😝 [Customer identifies as a cat](http://9gag.com/gag/awyrbP4)
- - 👉 [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)<!-- MEMES:END -->
+ - 6️⃣ [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
+ - 😝 [My Idol](http://9gag.com/gag/agmy0Gx)
+ - 👉 [Math?](http://9gag.com/gag/avy00Wn)<!-- MEMES:END -->
 
 --- 
 
