@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 😝 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - 👉 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)<!-- MEMES:END -->
+ - 6️⃣ [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
+ - 😝 [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)
+ - 👉 [How was your day at work?](http://9gag.com/gag/aoyzmjm)<!-- MEMES:END -->
 
 --- 
 
