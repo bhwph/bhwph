@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 12 Best Stellar Blade Skills To Unlock First](https://kotaku.com/stellar-blade-ps5-game-best-skills-ambush-blink-repulse-1851433194)
- - [Surprise! Minecraft&#39;s brand new mob has rolled out months before the update we expected it would be in](https://www.pcgamer.com/games/survival-crafting/surprise-minecrafts-brand-new-mob-has-rolled-out-months-before-the-update-we-expected-it-would-be-in)
- - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)<!-- GAME:END -->
+ - [Klei&#39;s new co-op brawler makes a strong first impression in early access](https://www.pcgamer.com/games/action/rotwood-early-access-launch)
+ - [Nintendo Forcing Garry&#39;s Mod To Delete 20 Years&#39; Worth Of Content](https://kotaku.com/nintendo-garrys-mod-takedown-content-1851433656)
+ - [Two Popular Fallout 76 Builds To Stop You From Dying In The Wasteland](https://kotaku.com/fallout-76-perk-fo76-build-stealth-commando-heavy-pa-1851433521)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
