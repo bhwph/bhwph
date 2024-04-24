@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
+ - 6️⃣ [This is why you only load ONE round when teaching an newbie shooter.. almost self PEPSI](http://9gag.com/gag/aLnKR4z)
  - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 👉 [Ya stubby little cant](http://9gag.com/gag/axyN20K)<!-- MEMES:END -->
+ - 👉 [Customer identifies as a cat](http://9gag.com/gag/awyrbP4)<!-- MEMES:END -->
 
 --- 
 
