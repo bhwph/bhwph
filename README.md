@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deep dive into how Bluesky is built, including its growth from three engineers to 12 in just over two years and its infrastructure move from AWS to on-prem &lpar;The Pragmatic Engineer&rpar;](http://www.techmeme.com/240424/p10#a240424p10)
- - [Galaxy S25 to get new AI features powered by Google’s Gemini Nano 2 model: Report](https://www.androidauthority.com/galaxy-s25-gemini-nano-2-ai-features-3436802/)
- - [SSI Recipients: You&#39;re Getting 2 Payments in May. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-recipients-youre-getting-2-payments-in-may-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Biden will ban TikTok unless Chinese owner ByteDance sells it](https://appleinsider.com/articles/24/04/24/biden-will-ban-tiktok-unless-chinese-owner-bytedance-sells-it?utm_medium=rss)
+ - [SK Hynix plans to spend ~$3.86B to build a new DRAM chip facility in South Korea, starting construction this month and aiming for completion by November 2025 &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240424/p17#a240424p17)
+ - [The Showdown Over Who Gets to Build the Next DeLorean](https://www.wired.com/story/delorean-showdown/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
