@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RDNA 3+ edges closer as AMD hints at refreshed GPU architecture in its Linux firmware](https://www.pcgamer.com/hardware/processors/rdna-3-edges-closer-as-amd-hints-at-refreshed-gpu-architecture-in-its-linux-firmware)
- - [Where to find Archie in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24138396/archie-location-where-in-the-system-tower)
- - [Today&#39;s Wordle answer for Wednesday, April 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-24-2024)<!-- GAME:END -->
+ - [Homeworld 3&#39;s latest system requirements won&#39;t fill up your SSD but you&#39;ll need all the CPU and GPU you can throw at it](https://www.pcgamer.com/hardware/homeworld-3s-latest-system-requirements-wont-fill-up-your-ssd-but-youll-need-all-the-cpu-and-gpu-you-can-throw-at-it)
+ - [Baldur&#39;s Gate 3 player summons roughly 88 minions to conquer Honour Mode with a glorious army of spore zombies, elementals, and Scratch the best boy](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-player-summons-roughly-85-minions-to-conquer-honour-mode-with-a-glorious-army-of-spore-zombies-elementals-and-scratch-the-best-boy)
+ - [Fallout London&#39;s project lead is not taking the surprise drop of Fallout 4&#39;s update well: &#39;That has, for a lack of a better term, screwed us over&#39;](https://www.pcgamer.com/games/fallout/fallout-londons-project-lead-is-not-taking-the-surprise-drop-of-fallout-4s-update-well-that-has-for-a-lack-of-a-better-term-screwed-us-over)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
