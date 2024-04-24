@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Embracer&#39;s CEO says &#39;I&#39;m sure I deserve a lot of criticism&#39; as he reflects on a company split three ways—but maintains that every &#39;key entrepreneur and CEO&#39; believed in its &#39;mission&#39;](https://www.pcgamer.com/gaming-industry/embracers-ceo-says-im-sure-i-deserve-a-lot-of-criticism-as-he-reflects-on-a-company-split-three-waysbut-maintains-that-every-key-entrepreneur-and-ceo-believed-in-its-mission)
- - [Stellar Blade is more than skin deep](https://www.polygon.com/reviews/24137538/stellar-blade-review-shift-up-playstation-5)
- - [FF14 and FF16 senior translator Koji Fox says &#39;you can kinda tell&#39; game director Naoki Yoshida is &#39;like: I&#39;m done with dark fantasy, I want to do something light again&#39;](https://www.pcgamer.com/games/final-fantasy/ff14-and-ff16-senior-translator-koji-fox-says-you-can-kinda-tell-game-director-naoki-yoshida-is-like-im-done-with-dark-fantasy-i-want-to-do-something-light-again)<!-- GAME:END -->
+ - [Another Crab’s Treasure hands-on report: a playful Soulsike tribute with fresh ideas](https://blog.playstation.com/2024/04/24/another-crabs-treasure-hands-on-report-a-playful-soulsike-tribute-with-fresh-ideas/)
+ - [Are video game addiction lawsuits having a moment?](https://www.polygon.com/24138572/video-game-addiction-lawsuits-2023-2024)
+ - [Another Crab&#39;s Treasure review](https://www.pcgamer.com/games/action/another-crabs-treasure-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
