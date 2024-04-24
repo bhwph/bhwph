@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hate those big reaction animations in Google Messages? We have good news](https://www.androidauthority.com/google-messages-animation-toggle-3436981/)
- - [Meta reports Q1 revenue up 27% YoY to $36.46B, net income up 117% YoY to $12.37B, and family daily active people up 7% YoY to 3.24B for March 2024 &lpar;Meta Investor Relations&rpar;](http://www.techmeme.com/240424/p42#a240424p42)
- - [&#39;Metaphor: ReFantazio&#39; Steals the Best Ideas From &#39;Persona 5&#39;](https://www.wired.com/story/metaphor-refantazio-steals-the-best-ideas-from-persona-5/)<!-- TECH:END -->
+ - [AI coding assistant startup Augment emerges from stealth with a $227M Series B at a $977M post-money valuation, following a $25M Series A led by Sutter Hill &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240424/p48#a240424p48)
+ - [Google might be letting loose its own Pixel tablet with a pen and keyboard](https://www.androidauthority.com/pixel-tablet-relaunch-3437015/)
+ - [Source: cloud data management startup Rubrik priced its IPO at $32 a share, above its expected $28-$31 range, raising $752M and valuing the company at $5.6B &lpar;CNBC&rpar;](http://www.techmeme.com/240424/p47#a240424p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
