@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp rolls out passkey support on iOS, removing the need for users to deal with SMS one-time passcodes, six months after introducing the feature on Android &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240424/p36#a240424p36)
- - [How NASA Repaired Voyager 1 From 15 Billion Miles Away](https://www.wired.com/story/nasa-repair-voyager-1-spacecraft-data/)
- - [Record $70 price drop on the Soundcore Motion X500 Bluetooth speaker](https://www.androidauthority.com/soundcore-motion-x500-bluetooth-speaker-deal-3436962/)<!-- TECH:END -->
+ - [Hate those big reaction animations in Google Messages? We have good news](https://www.androidauthority.com/google-messages-animation-toggle-3436981/)
+ - [Meta reports Q1 revenue up 27% YoY to $36.46B, net income up 117% YoY to $12.37B, and family daily active people up 7% YoY to 3.24B for March 2024 &lpar;Meta Investor Relations&rpar;](http://www.techmeme.com/240424/p42#a240424p42)
+ - [&#39;Metaphor: ReFantazio&#39; Steals the Best Ideas From &#39;Persona 5&#39;](https://www.wired.com/story/metaphor-refantazio-steals-the-best-ideas-from-persona-5/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
