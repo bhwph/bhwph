@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla teases a ridehailing function in its app and says its robotaxi will be &quot;purpose-built&quot;, which typically means built from the ground up to be self-driving &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240423/p38#a240423p38)
- - [Tesla Promises ‘More Affordable Models’ and a ‘Cybercab’](https://www.wired.com/story/tesla-promises-more-affordable-vehicles-cybercab/)
- - [Microsoft’s oops moment: Deleted AI project rises from the digital grave](https://www.androidauthority.com/microsoft-deleted-ai-is-back-3436689/)<!-- TECH:END -->
+ - [Steam will stop issuing refunds if you play two hours of a game before launch day](https://www.theverge.com/24138776/steam-refund-policy-change)
+ - [This Game Boy-looking phone stand is why MagSafe is good](https://www.theverge.com/2024/4/23/24138726/elago-magsafe-ms-w5-game-boy-magsafe-charger-stand)
+ - [If You&#39;re a Gen Z Renter, Solar Power Isn&#39;t Out of Your Reach     - CNET](https://www.cnet.com/home/energy-and-utilities/are-you-a-gen-z-renter-solar-power-isnt-out-of-your-reach/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
