@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spanish patriots in Madrid clear houses occupied by illegal invaders of Europe who commit crimes. More and more often citizens do `work` that should be done by State](http://9gag.com/gag/adBN6OV)
- - 😝 [Oh well](http://9gag.com/gag/aVvOONd)
- - 👉 [W Mans](http://9gag.com/gag/a9yddN6)<!-- MEMES:END -->
+ - 6️⃣ [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
+ - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
+ - 👉 [Ya stubby little cant](http://9gag.com/gag/axyN20K)<!-- MEMES:END -->
 
 --- 
 
