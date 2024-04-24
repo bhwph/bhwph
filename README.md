@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
- - 😝 [Too realll](http://9gag.com/gag/ajPr66G)
- - 👉 [`We&#39;re going down together`](http://9gag.com/gag/apRq0pn)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
+ - 😝 [Customer identifies as a cat](http://9gag.com/gag/awyrbP4)
+ - 👉 [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)<!-- MEMES:END -->
 
 --- 
 
