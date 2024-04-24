@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Upcoming and Available Xbox Games in Wired Direct 2024](https://news.xbox.com/en-us/2024/04/23/upcoming-and-available-xbox-games-in-wired-direct-2024/)
- - [I almost quit Fallout 76 until I realized Bethesda still hides its most important setting in a config file](https://www.pcgamer.com/games/fallout/i-almost-quit-fallout-76-until-i-realized-bethesda-still-hides-its-most-important-setting-in-a-config-file)
- - [Gloomhaven studio releases a demo for a new game and lays off more than half its employees on the same day](https://www.pcgamer.com/games/rpg/gloomhaven-studio-releases-a-demo-for-a-new-game-and-lays-off-more-than-half-its-employees-on-the-same-day)<!-- GAME:END -->
+ - [German government wants games like Baldur&#39;s Gate 3 to &#39;also go on to be developed in Germany&#39;](https://www.pcgamer.com/games/rpg/german-game-awards-baldurs-gate-3)
+ - [May Savings promotion comes to PlayStation Store](https://blog.playstation.com/2024/04/23/may-savings-promotion-comes-to-playstation-store-2/)
+ - [May Savings promotion comes to PlayStation Store](https://blog.playstation.com/2024/04/23/may-savings-promotion-comes-to-playstation-store-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
