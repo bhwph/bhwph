@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
- - 😝 [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)
- - 👉 [How was your day at work?](http://9gag.com/gag/aoyzmjm)<!-- MEMES:END -->
+ - 6️⃣ [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)
+ - 😝 [Things to never say to a woman in bed.](http://9gag.com/gag/aYQbNjN)
+ - 👉 [Now we have questions](http://9gag.com/gag/a9ydj0D)<!-- MEMES:END -->
 
 --- 
 
