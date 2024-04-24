@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Homeworld 3&#39;s latest system requirements won&#39;t fill up your SSD but you&#39;ll need all the CPU and GPU you can throw at it](https://www.pcgamer.com/hardware/homeworld-3s-latest-system-requirements-wont-fill-up-your-ssd-but-youll-need-all-the-cpu-and-gpu-you-can-throw-at-it)
- - [Baldur&#39;s Gate 3 player summons roughly 88 minions to conquer Honour Mode with a glorious army of spore zombies, elementals, and Scratch the best boy](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-player-summons-roughly-85-minions-to-conquer-honour-mode-with-a-glorious-army-of-spore-zombies-elementals-and-scratch-the-best-boy)
- - [Fallout London&#39;s project lead is not taking the surprise drop of Fallout 4&#39;s update well: &#39;That has, for a lack of a better term, screwed us over&#39;](https://www.pcgamer.com/games/fallout/fallout-londons-project-lead-is-not-taking-the-surprise-drop-of-fallout-4s-update-well-that-has-for-a-lack-of-a-better-term-screwed-us-over)<!-- GAME:END -->
+ - [Embracer&#39;s CEO says &#39;I&#39;m sure I deserve a lot of criticism&#39; as he reflects on a company split three ways—but maintains that every &#39;key entrepreneur and CEO&#39; believed in its &#39;mission&#39;](https://www.pcgamer.com/gaming-industry/embracers-ceo-says-im-sure-i-deserve-a-lot-of-criticism-as-he-reflects-on-a-company-split-three-waysbut-maintains-that-every-key-entrepreneur-and-ceo-believed-in-its-mission)
+ - [Stellar Blade is more than skin deep](https://www.polygon.com/reviews/24137538/stellar-blade-review-shift-up-playstation-5)
+ - [FF14 and FF16 senior translator Koji Fox says &#39;you can kinda tell&#39; game director Naoki Yoshida is &#39;like: I&#39;m done with dark fantasy, I want to do something light again&#39;](https://www.pcgamer.com/games/final-fantasy/ff14-and-ff16-senior-translator-koji-fox-says-you-can-kinda-tell-game-director-naoki-yoshida-is-like-im-done-with-dark-fantasy-i-want-to-do-something-light-again)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
