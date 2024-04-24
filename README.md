@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Another Crab’s Treasure hands-on report: a playful Soulsike tribute with fresh ideas](https://blog.playstation.com/2024/04/24/another-crabs-treasure-hands-on-report-a-playful-soulsike-tribute-with-fresh-ideas/)
- - [Are video game addiction lawsuits having a moment?](https://www.polygon.com/24138572/video-game-addiction-lawsuits-2023-2024)
- - [Another Crab&#39;s Treasure review](https://www.pcgamer.com/games/action/another-crabs-treasure-review)<!-- GAME:END -->
+ - [New Gran Turismo 7 update features an all-electric concept racing car created exclusively for the game](https://blog.playstation.com/2024/04/24/new-gran-turismo-7-update-features-an-all-electric-concept-racing-car-created-exclusively-for-the-game/)
+ - [X-Men ’97’s big villain reveal gives mutants their second-greatest enemy](https://www.polygon.com/24139132/x-men-97-bastion-ozt-operation-zero-tolerance)
+ - [No Rest for the Wicked chief defends early access, says more games should do it: &#39;Imagine [if] Dark Souls 1 had been in early access&#39;](https://www.pcgamer.com/games/rpg/no-rest-for-the-wicked-chief-defends-early-access-says-more-games-should-do-it-imagine-if-dark-souls-1-had-been-in-early-access)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
