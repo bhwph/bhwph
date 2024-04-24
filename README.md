@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic vs. Apple lurches on, this time about antisteering compliance](https://appleinsider.com/articles/24/04/24/epic-vs-apple-lurches-on-this-time-about-antisteering-compliance?utm_medium=rss)
- - [How a tiny group of US lawmakers and aides wrote the TikTok ban bill, concealing their efforts to avoid TikTok&#39;s lobbying, alongside the DOJ and White House &lpar;New York Times&rpar;](http://www.techmeme.com/240424/p26#a240424p26)
- - [12 Best Wi-Fi Routers &lpar;2024&rpar;: Budget, Gaming, Mesh](https://www.wired.com/gallery/best-wifi-routers/)<!-- TECH:END -->
+ - [Biden signs TikTok bill into law as Chinese firm threatens legal action](https://appleinsider.com/articles/24/04/24/biden-signs-tiktok-bill-into-law-as-chinese-firm-threatens-legal-action?utm_medium=rss)
+ - [Competing rumors cast doubt on mini LED iPad Air debut in May](https://appleinsider.com/articles/24/04/24/competing-rumors-cast-doubt-on-mini-led-ipad-air-debut-in-may?utm_medium=rss)
+ - [Nissan’s Iruyo knows when your baby is sleeping, knows when they’re awake](https://www.theverge.com/2024/4/24/24139097/nissan-iruyo-animatronic-baby-car-toy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
