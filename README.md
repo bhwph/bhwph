@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden will ban TikTok unless Chinese owner ByteDance sells it](https://appleinsider.com/articles/24/04/24/biden-will-ban-tiktok-unless-chinese-owner-bytedance-sells-it?utm_medium=rss)
- - [SK Hynix plans to spend ~$3.86B to build a new DRAM chip facility in South Korea, starting construction this month and aiming for completion by November 2025 &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240424/p17#a240424p17)
- - [The Showdown Over Who Gets to Build the Next DeLorean](https://www.wired.com/story/delorean-showdown/)<!-- TECH:END -->
+ - [Apple&#39;s generative AI may be the only one that was trained legally &amp; ethically](https://appleinsider.com/articles/24/04/24/apples-generative-ai-may-be-the-only-one-that-was-trained-legally-ethically?utm_medium=rss)
+ - [Dublin-based Tines, which offers no-code automation tools for security teams, raised a $50M Series B extension, sources say at a near $600M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240424/p23#a240424p23)
+ - [Nissan&#39;s Furry, Robotic Iruyo Puppet Comforts Your Crying Baby While You Drive](https://www.wired.com/story/nissan-iruyo-furry-robotic-puppet-comforts-your-crying-baby-while-you-drive/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
