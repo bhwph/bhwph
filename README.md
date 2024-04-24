@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Alpha Women](http://9gag.com/gag/aNDeorG)
- - 😝 [Straight to hell](http://9gag.com/gag/azxbgxZ)
- - 👉 [Too realll](http://9gag.com/gag/ajPr66G)<!-- MEMES:END -->
+ - 6️⃣ [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
+ - 😝 [Too realll](http://9gag.com/gag/ajPr66G)
+ - 👉 [`We&#39;re going down together`](http://9gag.com/gag/apRq0pn)<!-- MEMES:END -->
 
 --- 
 
