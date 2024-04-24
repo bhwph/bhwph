@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is why you only load ONE round when teaching an newbie shooter.. almost self PEPSI](http://9gag.com/gag/aLnKR4z)
- - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 👉 [Customer identifies as a cat](http://9gag.com/gag/awyrbP4)<!-- MEMES:END -->
+ - 6️⃣ [Alpha Women](http://9gag.com/gag/aNDeorG)
+ - 😝 [Straight to hell](http://9gag.com/gag/azxbgxZ)
+ - 👉 [Too realll](http://9gag.com/gag/ajPr66G)<!-- MEMES:END -->
 
 --- 
 
