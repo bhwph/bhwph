@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)
- - 😝 [Things to never say to a woman in bed.](http://9gag.com/gag/aYQbNjN)
- - 👉 [Now we have questions](http://9gag.com/gag/a9ydj0D)<!-- MEMES:END -->
+ - 6️⃣ [Miss the 2000&#39;s](http://9gag.com/gag/aqym9LY)
+ - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
+ - 👉 [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)<!-- MEMES:END -->
 
 --- 
 
