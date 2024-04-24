@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Payflows, whose automated financial management SaaS could be deployed on top of existing ERP systems, raised a &amp;euro;25M Series A led by Balderton &lpar;Tom Matsuda/Sifted&rpar;](http://www.techmeme.com/240424/p1#a240424p1)
- - [Today&#39;s Wordle Hints and Answer: Help for April 24, #1040     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-24-1040/#ftag=CAD590a51e)
- - [The Best Electric Kettles of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Emails released as part of US v. Google show how Google&#39;s finance and ad teams led by Prabhakar Raghavan made Search worse to make the company more money &lpar;Edward Zitron/Ed Zitron&#39;s Where&#39;s ...&rpar;](http://www.techmeme.com/240424/p6#a240424p6)
+ - [China approves US listing of self-driving startup Pony.ai, which plans to sell up to 98M shares and list on Nasdaq or NYSE, signaling an ease on the crackdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/240424/p5#a240424p5)
+ - [WhatsApp’s latest Android betas reveal two new features coming to the app](https://www.androidauthority.com/whatsapp-in-app-dialler-hidden-group-3436770/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
