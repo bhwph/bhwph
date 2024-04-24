@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Miss the 2000&#39;s](http://9gag.com/gag/aqym9LY)
- - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
- - 👉 [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)<!-- MEMES:END -->
+ - 6️⃣ [Now we have questions](http://9gag.com/gag/a9ydj0D)
+ - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
+ - 👉 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)<!-- MEMES:END -->
 
 --- 
 
