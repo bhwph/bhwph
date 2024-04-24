@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Senate passes the TikTok divestment bill by a margin of 79-18; the legislation now heads to President Biden, who has committed to sign it into law &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240423/p43#a240423p43)
- - [Senate passes TikTok ban bill, sending it to President Biden’s desk](https://www.theverge.com/2024/4/23/24137638/senate-passes-tiktok-ban-bill-divest-bytedance-foreign-aid)
- - [This Is the Beginning of the End of TikTok](https://www.wired.com/story/senate-tiktok-ban/)<!-- TECH:END -->
+ - [Paris-based Payflows, whose automated financial management SaaS could be deployed on top of existing ERP systems, raised a &amp;euro;25M Series A led by Balderton &lpar;Tom Matsuda/Sifted&rpar;](http://www.techmeme.com/240424/p1#a240424p1)
+ - [Today&#39;s Wordle Hints and Answer: Help for April 24, #1040     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-24-1040/#ftag=CAD590a51e)
+ - [The Best Electric Kettles of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
