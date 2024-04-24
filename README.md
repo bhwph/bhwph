@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Gran Turismo 7 update features an all-electric concept racing car created exclusively for the game](https://blog.playstation.com/2024/04/24/new-gran-turismo-7-update-features-an-all-electric-concept-racing-car-created-exclusively-for-the-game/)
- - [X-Men ’97’s big villain reveal gives mutants their second-greatest enemy](https://www.polygon.com/24139132/x-men-97-bastion-ozt-operation-zero-tolerance)
- - [No Rest for the Wicked chief defends early access, says more games should do it: &#39;Imagine [if] Dark Souls 1 had been in early access&#39;](https://www.pcgamer.com/games/rpg/no-rest-for-the-wicked-chief-defends-early-access-says-more-games-should-do-it-imagine-if-dark-souls-1-had-been-in-early-access)<!-- GAME:END -->
+ - [The 12 Best Stellar Blade Skills To Unlock First](https://kotaku.com/stellar-blade-ps5-game-best-skills-ambush-blink-repulse-1851433194)
+ - [Surprise! Minecraft&#39;s brand new mob has rolled out months before the update we expected it would be in](https://www.pcgamer.com/games/survival-crafting/surprise-minecrafts-brand-new-mob-has-rolled-out-months-before-the-update-we-expected-it-would-be-in)
+ - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
