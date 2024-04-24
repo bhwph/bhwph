@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emails released as part of US v. Google show how Google&#39;s finance and ad teams led by Prabhakar Raghavan made Search worse to make the company more money &lpar;Edward Zitron/Ed Zitron&#39;s Where&#39;s ...&rpar;](http://www.techmeme.com/240424/p6#a240424p6)
- - [China approves US listing of self-driving startup Pony.ai, which plans to sell up to 98M shares and list on Nasdaq or NYSE, signaling an ease on the crackdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/240424/p5#a240424p5)
- - [WhatsApp’s latest Android betas reveal two new features coming to the app](https://www.androidauthority.com/whatsapp-in-app-dialler-hidden-group-3436770/)<!-- TECH:END -->
+ - [A deep dive into how Bluesky is built, including its growth from three engineers to 12 in just over two years and its infrastructure move from AWS to on-prem &lpar;The Pragmatic Engineer&rpar;](http://www.techmeme.com/240424/p10#a240424p10)
+ - [Galaxy S25 to get new AI features powered by Google’s Gemini Nano 2 model: Report](https://www.androidauthority.com/galaxy-s25-gemini-nano-2-ai-features-3436802/)
+ - [SSI Recipients: You&#39;re Getting 2 Payments in May. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-recipients-youre-getting-2-payments-in-may-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
