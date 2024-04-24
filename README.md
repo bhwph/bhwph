@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
- - 😝 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - 👉 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)<!-- MEMES:END -->
+ - 6️⃣ [Spanish patriots in Madrid clear houses occupied by illegal invaders of Europe who commit crimes. More and more often citizens do `work` that should be done by State](http://9gag.com/gag/adBN6OV)
+ - 😝 [Oh well](http://9gag.com/gag/aVvOONd)
+ - 👉 [W Mans](http://9gag.com/gag/a9yddN6)<!-- MEMES:END -->
 
 --- 
 
