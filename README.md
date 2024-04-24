@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, April 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-24-2024)
- - [Considered doomed 6 years ago, Fallout 76 is attracting record player numbers thanks to the TV series](https://www.pcgamer.com/games/fallout/considered-doomed-6-years-ago-fallout-76-is-attracting-record-player-numbers-thanks-to-the-tv-series)
- - [German government wants games like Baldur&#39;s Gate 3 to &#39;also go on to be developed in Germany&#39;](https://www.pcgamer.com/games/rpg/german-game-awards-baldurs-gate-3)<!-- GAME:END -->
+ - [RDNA 3+ edges closer as AMD hints at refreshed GPU architecture in its Linux firmware](https://www.pcgamer.com/hardware/processors/rdna-3-edges-closer-as-amd-hints-at-refreshed-gpu-architecture-in-its-linux-firmware)
+ - [Where to find Archie in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24138396/archie-location-where-in-the-system-tower)
+ - [Today&#39;s Wordle answer for Wednesday, April 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-24-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
