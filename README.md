@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix reports Q1 revenue of ~$9B, more than doubling YoY, and ~$2B in operating income, above estimates of ~$1.3B and the biggest quarterly profit since 2022 &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240424/p52#a240424p52)
- - [Memo: Thrasio CEO Greg Greeley plans to resign and five other senior executives will &quot;step down when Thrasio emerges from Chapter 11 in the coming weeks&quot; &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240424/p51#a240424p51)
- - [Best MacBook Air M2 Deals: Save Up to $300, Including on the Fleeting 15-inch Model     - CNET](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mark Zuckerberg says Meta AI assistant has been &quot;tried&quot; by &quot;tens of millions of people&quot; and it will take Meta several years to make money from generative AI &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240425/p1#a240425p1)
+ - [TSMC unveils a new chip manufacturing technology called A16 and says it plans to start producing its ultra-advanced 1.6nm chips by 2026 &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240424/p54#a240424p54)
+ - [Today&#39;s Wordle Hints and Answer: Help for April 25, #1041     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-25-1041/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
