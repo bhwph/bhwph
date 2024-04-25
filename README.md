@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dreame X30 Ultra Review: A Robot Vacuum With Flex Arms and Detachable Mop Pads](https://www.wired.com/review/dreame-x30-ultra-robot-vac-mop/)
- - [Qualcomm benchmarking controversy: What’s happening?](https://www.androidauthority.com/qualcomm-benchmarking-controversy-3436994/)
- - [Hands-on with the Rabbit R1: Hopping into an AI-powered future?](https://www.androidauthority.com/rabbit-r1-hands-on-3436926/)<!-- TECH:END -->
+ - [Wacom says its first OLED drawing tablet is cool and skinny](https://www.theverge.com/2024/4/25/24140168/wacom-movink-13-oled-drawing-tablet-price-announcement)
+ - [Sublime, which monitors emails of companies and political campaigns to spot AI-generated phishing attacks, raised a $20M Series A, taking total funding to $30M &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/240425/p19#a240425p19)
+ - [Meta’s Open Source Llama 3 Is Already Nipping at OpenAI’s Heels](https://www.wired.com/story/metas-open-source-llama-3-nipping-at-openais-heels/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
