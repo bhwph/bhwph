@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI coding assistant startup Augment emerges from stealth with a $227M Series B at a $977M post-money valuation, following a $25M Series A led by Sutter Hill &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240424/p48#a240424p48)
- - [Google might be letting loose its own Pixel tablet with a pen and keyboard](https://www.androidauthority.com/pixel-tablet-relaunch-3437015/)
- - [Source: cloud data management startup Rubrik priced its IPO at $32 a share, above its expected $28-$31 range, raising $752M and valuing the company at $5.6B &lpar;CNBC&rpar;](http://www.techmeme.com/240424/p47#a240424p47)<!-- TECH:END -->
+ - [SK Hynix reports Q1 revenue of ~$9B, more than doubling YoY, and ~$2B in operating income, above estimates of ~$1.3B and the biggest quarterly profit since 2022 &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240424/p52#a240424p52)
+ - [Memo: Thrasio CEO Greg Greeley plans to resign and five other senior executives will &quot;step down when Thrasio emerges from Chapter 11 in the coming weeks&quot; &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240424/p51#a240424p51)
+ - [Hands-on with the Rabbit R1: a fun and funky AI device that feels pretty nice and does a solid job with basic AI questions, but the Rabbithole app is unfinished &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240424/p50#a240424p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
