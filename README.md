@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google I/O 2024: Updates to Wear OS, Google TV, and Android TV confirmed](https://www.androidauthority.com/google-io-wear-os-5-3437422/)
- - [Microsoft’s Surface and Xbox hardware revenues take a big hit in Q3](https://www.theverge.com/2024/4/25/24139988/microsoft-q3-2024-earnings-revenue-profits-windows-xbox-gaming-surface)
- - [There&#39;s a Rare $25 Discount on the Nintendo Switch OLED Right Now](https://www.wired.com/story/nintendo-switch-oled-deal-april-2024/)<!-- TECH:END -->
+ - [The CHIPS Act has been surprisingly successful so far, giving the US greater scope to meet critical infrastructure needs in the event of a crisis in East Asia &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/240425/p38#a240425p38)
+ - [If you&#39;re seeing canceled Apple iPhone trade-in notifications today, you&#39;re not alone](https://appleinsider.com/articles/24/04/25/if-youre-seeing-canceled-apple-iphone-trade-in-notifications-today-youre-not-alone?utm_medium=rss)
+ - [iPhone 18 will probably get TSMC&#39;s newly announced next-generation 1.8nm chip process](https://appleinsider.com/articles/24/04/25/iphone-18-will-probably-get-tsmcs-newly-announced-next-generation-18nm-chip-process?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
