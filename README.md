@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet rolls out an update to let users seamlessly transfer calls between devices &quot;without hanging up and rejoining&quot; via its Android, iOS, and web apps &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240425/p14#a240425p14)
- - [14 Last-Minute Tool Deals From Home Depot and Lowe&#39;s: Power Tools, Yard Tools, Hand Tools](https://www.wired.com/story/home-depot-lowes-spring-sale-2024/)
- - [Test Your Knowledge of Internet Acronyms](https://www.wired.com/story/gadget-lab-podcast-641/)<!-- TECH:END -->
+ - [Dreame X30 Ultra Review: A Robot Vacuum With Flex Arms and Detachable Mop Pads](https://www.wired.com/review/dreame-x30-ultra-robot-vac-mop/)
+ - [Qualcomm benchmarking controversy: What’s happening?](https://www.androidauthority.com/qualcomm-benchmarking-controversy-3436994/)
+ - [Hands-on with the Rabbit R1: Hopping into an AI-powered future?](https://www.androidauthority.com/rabbit-r1-hands-on-3436926/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
