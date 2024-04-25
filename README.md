@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wacom says its first OLED drawing tablet is cool and skinny](https://www.theverge.com/2024/4/25/24140168/wacom-movink-13-oled-drawing-tablet-price-announcement)
- - [Sublime, which monitors emails of companies and political campaigns to spot AI-generated phishing attacks, raised a $20M Series A, taking total funding to $30M &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/240425/p19#a240425p19)
- - [Meta’s Open Source Llama 3 Is Already Nipping at OpenAI’s Heels](https://www.wired.com/story/metas-open-source-llama-3-nipping-at-openais-heels/)<!-- TECH:END -->
+ - [BlizzCon 2024 has been canceled](https://www.theverge.com/2024/4/25/24140368/blizzcon-2024-canceled)
+ - [Apple Card promotion offers users 10% cash back on Nike purchases](https://appleinsider.com/articles/24/04/25/apple-card-promotion-offers-users-10-cash-back-on-nike-purchases?utm_medium=rss)
+ - [Spyware dealers could face visa restrictions](https://www.theverge.com/2024/4/25/24140391/commercial-spyware-visa-restrictions-state-department)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
