@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg says Meta AI assistant has been &quot;tried&quot; by &quot;tens of millions of people&quot; and it will take Meta several years to make money from generative AI &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240425/p1#a240425p1)
- - [TSMC unveils a new chip manufacturing technology called A16 and says it plans to start producing its ultra-advanced 1.6nm chips by 2026 &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240424/p54#a240424p54)
- - [Today&#39;s Wordle Hints and Answer: Help for April 25, #1041     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-25-1041/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [K Krithivasan, the CEO of Indian IT giant TCS, says there&#39;ll be &quot;minimal&quot; need for call centers in as soon as a year, as AI chatbots take over much of the work &lpar;Financial Times&rpar;](http://www.techmeme.com/240425/p4#a240425p4)
+ - [YouTube Music aims for podcast supremacy as users remain unimpressed](https://www.androidauthority.com/youtube-music-podcast-experience-3437104/)
+ - [On Meta&#39;s Q1 earnings call, Mark Zuckerberg said Threads now has more than 150M MAUs, up from 130M in February 2024 &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240425/p3#a240425p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
