@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo survey of 750 CIOs: 96% expect increased AI investment in the next 12 months and 42% don&#39;t expect to show return on AI investments for the next two years &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240425/p8#a240425p8)
- - [The ChatGPT app is borrowing a handy feature from its web version](https://www.androidauthority.com/chatgpt-app-edit-prompts-3437128/)
- - [T-Mobile is making fraudulent SIM swaps much harder](https://www.androidauthority.com/t-mobile-sim-swap-changes-3437120/)<!-- TECH:END -->
+ - [Congo demands that Apple prove iPhone doesn&#39;t use conflict materials](https://appleinsider.com/articles/24/04/25/congo-demands-that-apple-prove-iphone-doesnt-use-conflict-materials?utm_medium=rss)
+ - [Interviews with 24+ current and ex-ByteDance staff: the Beijing-based company has increasingly taken a grip over TikTok&#39;s operations, leading to a culture clash &lpar;Financial Times&rpar;](http://www.techmeme.com/240425/p12#a240425p12)
+ - [A look at AI video startup Synthesia, whose avatars are more human-like and expressive than predecessors, raising concerns over the consequences of realistic AI &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/240425/p11#a240425p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
