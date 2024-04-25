@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tribeca Festival’s 2024 Lineup Features Some Really Exciting Games](https://kotaku.com/tribeca-festival-2024-indie-games-lineup-1851435906)
- - [Here&#39;s what god rolls you should be farming for Destiny 2: Into the Light&#39;s Brave Arsenal weapon set](https://www.pcgamer.com/games/fps/heres-what-god-rolls-you-should-be-farming-for-destiny-2-into-the-lights-brave-arsenal-weapon-set)
- - [BlizzCon 2024 canceled, but promised to come back ‘in future years’](https://www.polygon.com/blizzcon/24140370/blizzcon-2024-canceled)<!-- GAME:END -->
+ - [GTA Online update for the week of April 25](https://www.polygon.com/gta-online-guides/2024/4/25/24140514/update-apr-25-weekly-release-time-events-nightclub-bonuses)
+ - [This Fallout bundle is a critical hit and at its lowest price ever](https://www.polygon.com/deals/24140482/fallout-franchise-bundle-game-deal-sale-fanatical)
+ - [Fortnite Avatar event quests and Elements rewards](https://www.polygon.com/fortnite-guide/24128422/avatar-event-quest-schedule-elements-rewards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
