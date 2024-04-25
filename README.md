@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BlizzCon 2024 has been canceled](https://www.theverge.com/2024/4/25/24140368/blizzcon-2024-canceled)
- - [Apple Card promotion offers users 10% cash back on Nike purchases](https://appleinsider.com/articles/24/04/25/apple-card-promotion-offers-users-10-cash-back-on-nike-purchases?utm_medium=rss)
- - [Spyware dealers could face visa restrictions](https://www.theverge.com/2024/4/25/24140391/commercial-spyware-visa-restrictions-state-department)<!-- TECH:END -->
+ - [Google I/O 2024: Updates to Wear OS, Google TV, and Android TV confirmed](https://www.androidauthority.com/google-io-wear-os-5-3437422/)
+ - [Microsoft’s Surface and Xbox hardware revenues take a big hit in Q3](https://www.theverge.com/2024/4/25/24139988/microsoft-q3-2024-earnings-revenue-profits-windows-xbox-gaming-surface)
+ - [There&#39;s a Rare $25 Discount on the Nintendo Switch OLED Right Now](https://www.wired.com/story/nintendo-switch-oled-deal-april-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
