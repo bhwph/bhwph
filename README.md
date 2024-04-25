@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online update for the week of April 25](https://www.polygon.com/gta-online-guides/2024/4/25/24140514/update-apr-25-weekly-release-time-events-nightclub-bonuses)
- - [This Fallout bundle is a critical hit and at its lowest price ever](https://www.polygon.com/deals/24140482/fallout-franchise-bundle-game-deal-sale-fanatical)
- - [Fortnite Avatar event quests and Elements rewards](https://www.polygon.com/fortnite-guide/24128422/avatar-event-quest-schedule-elements-rewards)<!-- GAME:END -->
+ - [After 10 years on Steam, Korean MMO ArcheAge is giving up on North America and Europe](https://www.pcgamer.com/games/mmo/after-10-years-on-steam-korean-mmo-archeage-is-giving-up-on-north-america-and-europe)
+ - [Xbox Console Sales Are Tanking](https://kotaku.com/xbox-ps5-sales-exclusivity-starfield-microsoft-1851436748)
+ - [Bungie is reversing its decision to sunset weapons for Destiny 2: The Final Shape](https://www.polygon.com/24140650/destiny-2-the-final-shape-sunsetting-weapons-power-bungie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
