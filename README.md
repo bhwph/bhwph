@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
- - 😝 [Engines soundtracks](http://9gag.com/gag/ae9N0Bv)
- - 👉 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)<!-- MEMES:END -->
+ - 6️⃣ [Bro had enough](http://9gag.com/gag/ae9N0yp)
+ - 😝 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
+ - 👉 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)<!-- MEMES:END -->
 
 --- 
 
