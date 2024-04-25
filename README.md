@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Manor Lords&#39; publisher explains why there&#39;s no price attached yet: &#39;we don’t want players to get scammed or cheated&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-publisher-explains-why-theres-no-price-attached-yet-we-dont-want-players-to-get-scammed-or-cheated)
- - [From Fallout to Stalker, GOG&#39;s &#39;Post-apocalyptic Sale&#39; has some strong discounts on well-reviewed PC games](https://www.pcgamer.com/games/action/from-fallout-to-stalker-gogs-post-apocalyptic-sale-has-some-strong-discounts-on-well-reviewed-pc-games)
- - [Jen-Hsun turns delivery driver as he hands over the first DGX H200 to OpenAI to &#39;advance AI, computing, and humanity&#39;](https://www.pcgamer.com/software/ai/jen-hsun-turns-delivery-driver-as-he-hands-over-the-first-dgx-h200-to-openai-to-advance-ai-computing-and-humanity)<!-- GAME:END -->
+ - [Stellar Blade New Game Plus mode available on launch, April 26](https://blog.playstation.com/2024/04/25/stellar-blade-new-game-plus-mode-available-on-launch-april-26/)
+ - [Fallout’s costume designer explains why The Ghoul looks so hot](https://www.polygon.com/24135121/ghoul-fallout-tv-show-new-look-walton-goggins-inspiration-hot)
+ - [Devs Explain Why Most Wishlisted Game On Steam Won&#39;t Reveal Price Until Launch](https://kotaku.com/manor-lords-steam-price-medieval-city-builder-1851434943)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
