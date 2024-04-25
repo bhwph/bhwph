@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Fallout 4 Upgrade Isn&#39;t Free For Owners On PS Plus And They&#39;re Furious](https://kotaku.com/fallout-4-ps5-upgrade-free-ps-plus-game-pass-1851435453)
- - [State of PC gaming roundtable: Larian, Digital Extremes, CCP, Mega Crit on making games in 2024](https://www.pcgamer.com/gaming-industry/podcasts/state-of-pc-gaming-roundtable-2024-with-larian-digital-extremes-ccp-mega-crit)
- - [The best PS5 SSDs](https://www.polygon.com/what-to-buy/23603014/best-ssd-ps5)<!-- GAME:END -->
+ - [Tribeca Festival’s 2024 Lineup Features Some Really Exciting Games](https://kotaku.com/tribeca-festival-2024-indie-games-lineup-1851435906)
+ - [Here&#39;s what god rolls you should be farming for Destiny 2: Into the Light&#39;s Brave Arsenal weapon set](https://www.pcgamer.com/games/fps/heres-what-god-rolls-you-should-be-farming-for-destiny-2-into-the-lights-brave-arsenal-weapon-set)
+ - [BlizzCon 2024 canceled, but promised to come back ‘in future years’](https://www.polygon.com/blizzcon/24140370/blizzcon-2024-canceled)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
