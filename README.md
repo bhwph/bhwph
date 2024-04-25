@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
- - 😝 [It\u2019s a mesmerizing sight](http://9gag.com/gag/aVvOW68)
- - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
+ - 😝 [Engines soundtracks](http://9gag.com/gag/ae9N0Bv)
+ - 👉 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)<!-- MEMES:END -->
 
 --- 
 
