@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
- - 😝 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
- - 👉 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)<!-- MEMES:END -->
+ - 6️⃣ [This is why you only load ONE round when teaching an newbie shooter.. almost self PEPSI](http://9gag.com/gag/aLnKR4z)
+ - 😝 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
+ - 👉 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)<!-- MEMES:END -->
 
 --- 
 
