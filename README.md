@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)
- - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 👉 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)<!-- MEMES:END -->
+ - 6️⃣ [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)
+ - 😝 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
+ - 👉 [He found out.](http://9gag.com/gag/aPAv4dB)<!-- MEMES:END -->
 
 --- 
 
