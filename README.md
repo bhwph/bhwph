@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Perfect car for the apocalypse, now I just need to assemble my crew](http://9gag.com/gag/aByKKgx)
- - 😝 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
- - 👉 [Guessing which hole..](http://9gag.com/gag/aW4ZQP2)<!-- MEMES:END -->
+ - 6️⃣ [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)
+ - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
+ - 👉 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)<!-- MEMES:END -->
 
 --- 
 
