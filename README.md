@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Congo demands that Apple prove iPhone doesn&#39;t use conflict materials](https://appleinsider.com/articles/24/04/25/congo-demands-that-apple-prove-iphone-doesnt-use-conflict-materials?utm_medium=rss)
- - [Interviews with 24+ current and ex-ByteDance staff: the Beijing-based company has increasingly taken a grip over TikTok&#39;s operations, leading to a culture clash &lpar;Financial Times&rpar;](http://www.techmeme.com/240425/p12#a240425p12)
- - [A look at AI video startup Synthesia, whose avatars are more human-like and expressive than predecessors, raising concerns over the consequences of realistic AI &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/240425/p11#a240425p11)<!-- TECH:END -->
+ - [Google Meet rolls out an update to let users seamlessly transfer calls between devices &quot;without hanging up and rejoining&quot; via its Android, iOS, and web apps &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240425/p14#a240425p14)
+ - [14 Last-Minute Tool Deals From Home Depot and Lowe&#39;s: Power Tools, Yard Tools, Hand Tools](https://www.wired.com/story/home-depot-lowes-spring-sale-2024/)
+ - [Test Your Knowledge of Internet Acronyms](https://www.wired.com/story/gadget-lab-podcast-641/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
