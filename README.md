@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
- - 😝 [Man Confronts Toronto Police In a LGBTQ Police Car.](http://9gag.com/gag/aNDeW0w)
- - 👉 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
+ - 😝 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
+ - 👉 [The biggest question](http://9gag.com/gag/a7o5bML)<!-- MEMES:END -->
 
 --- 
 
