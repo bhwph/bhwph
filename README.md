@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stellar Blade New Game Plus mode available on launch, April 26](https://blog.playstation.com/2024/04/25/stellar-blade-new-game-plus-mode-available-on-launch-april-26/)
- - [Fallout’s costume designer explains why The Ghoul looks so hot](https://www.polygon.com/24135121/ghoul-fallout-tv-show-new-look-walton-goggins-inspiration-hot)
- - [Devs Explain Why Most Wishlisted Game On Steam Won&#39;t Reveal Price Until Launch](https://kotaku.com/manor-lords-steam-price-medieval-city-builder-1851434943)<!-- GAME:END -->
+ - [The Fallout 4 Upgrade Isn&#39;t Free For Owners On PS Plus And They&#39;re Furious](https://kotaku.com/fallout-4-ps5-upgrade-free-ps-plus-game-pass-1851435453)
+ - [State of PC gaming roundtable: Larian, Digital Extremes, CCP, Mega Crit on making games in 2024](https://www.pcgamer.com/gaming-industry/podcasts/state-of-pc-gaming-roundtable-2024-with-larian-digital-extremes-ccp-mega-crit)
+ - [The best PS5 SSDs](https://www.polygon.com/what-to-buy/23603014/best-ssd-ps5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
