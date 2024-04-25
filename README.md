@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
- - 😝 [My Idol](http://9gag.com/gag/agmy0Gx)
- - 👉 [Math?](http://9gag.com/gag/avy00Wn)<!-- MEMES:END -->
+ - 6️⃣ [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
+ - 😝 [Spanish patriots in Madrid clear houses occupied by illegal invaders of Europe who commit crimes. More and more often citizens do `work` that should be done by State](http://9gag.com/gag/adBN6OV)
+ - 👉 [Anyone else notice this?](http://9gag.com/gag/aqymNyM)<!-- MEMES:END -->
 
 --- 
 
