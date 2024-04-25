@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never underestimate the power of small habits](http://9gag.com/gag/aKGzzr6)
- - 😝 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
- - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
+ - 6️⃣ [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
+ - 😝 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
+ - 👉 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)<!-- MEMES:END -->
 
 --- 
 
