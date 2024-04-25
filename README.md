@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)
- - 😝 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
- - 👉 [He found out.](http://9gag.com/gag/aPAv4dB)<!-- MEMES:END -->
+ - 6️⃣ [Never underestimate the power of small habits](http://9gag.com/gag/aKGzzr6)
+ - 😝 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
+ - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
 
 --- 
 
