@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 devs confirm that, no, trimming &#39;excess leg space in the cockpit&#39; doesn&#39;t mean the nice Eagle-1 lady is hacking off her legs for liberty](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-devs-confirm-that-no-trimming-excess-leg-space-in-the-cockpit-doesnt-mean-the-nice-eagle-1-lady-is-hacking-off-her-legs-for-liberty)
- - [Fancy a borked Intel CPU for just $3.25? This Japanese Gacha machine is just for you](https://www.pcgamer.com/hardware/processors/fancy-a-borked-intel-cpu-for-just-dollar325-this-japanese-gacha-machine-is-just-for-you)
- - [Intel CEO claims Core Ultra laptop chip is &#39;hot&#39; but the company&#39;s near-term outlook still isn&#39;t exactly on fire](https://www.pcgamer.com/hardware/processors/intel-ceo-claims-core-ultra-laptop-chip-is-hot-but-the-companys-near-term-outlook-still-isnt-exactly-on-fire)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for April 29 to May 3](https://news.xbox.com/en-us/2024/04/26/next-week-on-xbox-new-games-for-april-29-to-may-3/)
+ - [Jim Carrey gave the Knuckles cast permission to make the funniest show possible](https://www.polygon.com/24140560/knuckles-cast-adam-pally-kid-cudi-interview)
+ - [How To Crack Stellar Blade’s Station 8 Monorail Code](https://kotaku.com/stellar-blade-monorail-train-code-power-adam-1851433693)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
