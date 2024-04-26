@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice critique of when gov helps bigcorp with taxpayer&#39;s money.](http://9gag.com/gag/aXPbX0v)
- - 😝 [The delusion](http://9gag.com/gag/aoyz0Ae)
- - 👉 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)<!-- MEMES:END -->
+ - 6️⃣ [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
+ - 😝 [He found out.](http://9gag.com/gag/aPAv4dB)
+ - 👉 [I can fix her](http://9gag.com/gag/a9ydPVK)<!-- MEMES:END -->
 
 --- 
 
