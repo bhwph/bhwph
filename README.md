@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Fallout: New Vegas Is Still Canon After The TV Show](https://kotaku.com/fallout-tv-series-shady-sands-prime-new-vegas-canon-1851439077)
- - [Building the Invoker Archetype for Remnant II: The Forgotten Kingdom DLC](https://news.xbox.com/en-us/2024/04/26/building-the-invoker-archetype-for-remnant-2-dlc/)
- - [Disney Lorcana introduces the rest of Encanto’s Madrigal family](https://www.polygon.com/24141466/disney-lorcana-ursulas-return-madrigal-family-encanto-cards)<!-- GAME:END -->
+ - [The wild successes of Helldivers 2 and Baldur&#39;s Gate 3 send a clear message: Let devs cook](https://www.pcgamer.com/gaming-industry/the-wild-successes-of-helldivers-2-and-baldurs-gate-3-send-a-clear-message-let-devs-cook)
+ - [The Tortured Poets Department Is The Dark Souls Of Taylor Swift Albums](https://kotaku.com/taylor-swift-tortured-poets-department-dark-souls-1851439461)
+ - [Explore the Post-Apocalyptic Seas in Age of Water](https://news.xbox.com/en-us/2024/04/26/explore-the-post-apocalyptic-seas-in-age-of-water/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
