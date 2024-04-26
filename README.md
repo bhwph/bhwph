@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 😝 [I can fix her](http://9gag.com/gag/a9ydPVK)
- - 👉 [He found out.](http://9gag.com/gag/aPAv4dB)<!-- MEMES:END -->
+ - 😝 [You get a refund](http://9gag.com/gag/aPAv4yK)
+ - 👉 [Poland!](http://9gag.com/gag/amoX8KV)<!-- MEMES:END -->
 
 --- 
 
