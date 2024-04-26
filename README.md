@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
- - 😝 [He found out.](http://9gag.com/gag/aPAv4dB)
- - 👉 [I can fix her](http://9gag.com/gag/a9ydPVK)<!-- MEMES:END -->
+ - 6️⃣ [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
+ - 😝 [I can fix her](http://9gag.com/gag/a9ydPVK)
+ - 👉 [He found out.](http://9gag.com/gag/aPAv4dB)<!-- MEMES:END -->
 
 --- 
 
