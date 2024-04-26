@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 6.1.1 could be coming soon with ‘video AI’ feature](https://www.androidauthority.com/one-ui-6-1-1-video-ai-feature-3437586/)
- - [Can’t Afford a House? Buy a Piece of One Instead](https://www.wired.com/story/fractional-home-ownership-startups/)
- - [Snag 2 Anker USB-C Fast Chargers and Cables for Only $13 With Amazon Prime     - CNET](https://www.cnet.com/deals/snag-two-anker-usb-c-fast-chargers-and-cables-for-just-13-with-prime/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPad Air screens, Spotify complaints, and a TikTok ban on the AppleInsider Podcast](https://appleinsider.com/articles/24/04/26/ipad-air-screens-spotify-complaints-and-a-tiktok-ban-on-the-appleinsider-podcast?utm_medium=rss)
+ - [JLab JBuds ANC 3 Review: A $60 Alternative to Apple AirPods Pro](https://www.wired.com/review/jlab-jbuds-anc-3/)
+ - [Xiaomi 14’s AI Editor with generative AI features flew under the radar](https://www.androidauthority.com/xiaomi-14-ai-editor-3437621/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
