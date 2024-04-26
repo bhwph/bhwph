@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why so early ?](http://9gag.com/gag/awyrxD8)
- - 😝 [Someone should report him.](http://9gag.com/gag/aD20o3d)
- - 👉 [You get a refund](http://9gag.com/gag/aPAv4yK)<!-- MEMES:END -->
+ - 6️⃣ [Great horror movie](http://9gag.com/gag/aGy9xwZ)
+ - 😝 [Gothing withing](http://9gag.com/gag/aoyz90n)
+ - 👉 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)<!-- MEMES:END -->
 
 --- 
 
