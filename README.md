@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next OnePlus Nord phone could be a Snapdragon powerhouse](https://www.androidauthority.com/the-next-oneplus-nord-phone-could-be-a-snapdragon-powerhouse-3437530/)
- - [The Galaxy S24 FE takes a step closer to reality with new listing](https://www.androidauthority.com/samsung-galaxy-s24-fe-spotted-uk-carrier-3437532/)
- - [Google is feeling pretty pumped about a new way of showing you ads on YouTube](https://www.androidauthority.com/youtube-pause-ads-3437531/)<!-- TECH:END -->
+ - [One UI 6.1.1 could be coming soon with ‘video AI’ feature](https://www.androidauthority.com/one-ui-6-1-1-video-ai-feature-3437586/)
+ - [Can’t Afford a House? Buy a Piece of One Instead](https://www.wired.com/story/fractional-home-ownership-startups/)
+ - [Snag 2 Anker USB-C Fast Chargers and Cables for Only $13 With Amazon Prime     - CNET](https://www.cnet.com/deals/snag-two-anker-usb-c-fast-chargers-and-cables-for-just-13-with-prime/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
