@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [TSMC looks set to hit Intel where it hurts, announcing its A16 node with &#39;Super Power Rail&#39; backside power delivery](https://www.pcgamer.com/hardware/processors/tsmc-looks-set-to-hit-intel-where-it-hurts-announcing-its-a16-node-with-super-power-rail-backside-power-delivery)
- - [One Year After Launch, You Should Really Check Out Honkai Star Rail](https://kotaku.com/honkai-star-rail-first-year-pc-playstation-mobile-1851438518)
- - [Fortnite fans are losing love for the airbending mythic as it continues to dominate the endgame](https://www.pcgamer.com/games/battle-royale/fortnite-fans-are-losing-love-for-the-airbending-mythic-as-it-continues-to-dominate-the-endgame)<!-- GAME:END -->
+ - [Why Fallout: New Vegas Is Still Canon After The TV Show](https://kotaku.com/fallout-tv-series-shady-sands-prime-new-vegas-canon-1851439077)
+ - [Building the Invoker Archetype for Remnant II: The Forgotten Kingdom DLC](https://news.xbox.com/en-us/2024/04/26/building-the-invoker-archetype-for-remnant-2-dlc/)
+ - [Disney Lorcana introduces the rest of Encanto’s Madrigal family](https://www.polygon.com/24141466/disney-lorcana-ursulas-return-madrigal-family-encanto-cards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
