@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
- - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
- - 👉 [Have you guys seen this shit yet?](http://9gag.com/gag/a87Wp11)<!-- MEMES:END -->
+ - 6️⃣ [I can fix her](http://9gag.com/gag/a9ydPVK)
+ - 😝 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
+ - 👉 [He found out.](http://9gag.com/gag/aPAv4dB)<!-- MEMES:END -->
 
 --- 
 
