@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for April 29 to May 3](https://news.xbox.com/en-us/2024/04/26/next-week-on-xbox-new-games-for-april-29-to-may-3/)
- - [Jim Carrey gave the Knuckles cast permission to make the funniest show possible](https://www.polygon.com/24140560/knuckles-cast-adam-pally-kid-cudi-interview)
- - [How To Crack Stellar Blade’s Station 8 Monorail Code](https://kotaku.com/stellar-blade-monorail-train-code-power-adam-1851433693)<!-- GAME:END -->
+ - [TSMC looks set to hit Intel where it hurts, announcing its A16 node with &#39;Super Power Rail&#39; backside power delivery](https://www.pcgamer.com/hardware/processors/tsmc-looks-set-to-hit-intel-where-it-hurts-announcing-its-a16-node-with-super-power-rail-backside-power-delivery)
+ - [One Year After Launch, You Should Really Check Out Honkai Star Rail](https://kotaku.com/honkai-star-rail-first-year-pc-playstation-mobile-1851438518)
+ - [Fortnite fans are losing love for the airbending mythic as it continues to dominate the endgame](https://www.pcgamer.com/games/battle-royale/fortnite-fans-are-losing-love-for-the-airbending-mythic-as-it-continues-to-dominate-the-endgame)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
