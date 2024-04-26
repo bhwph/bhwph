@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Great horror movie](http://9gag.com/gag/aGy9xwZ)
- - 😝 [Gothing withing](http://9gag.com/gag/aoyz90n)
- - 👉 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)<!-- MEMES:END -->
+ - 6️⃣ [I love Irish girls](http://9gag.com/gag/an7YN2n)
+ - 😝 [Love](http://9gag.com/gag/aQzq8Zq)
+ - 👉 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)<!-- MEMES:END -->
 
 --- 
 
