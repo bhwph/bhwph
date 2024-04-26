@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 😝 [You get a refund](http://9gag.com/gag/aPAv4yK)
- - 👉 [Poland!](http://9gag.com/gag/amoX8KV)<!-- MEMES:END -->
+ - 6️⃣ [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
+ - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
+ - 👉 [Have you guys seen this shit yet?](http://9gag.com/gag/a87Wp11)<!-- MEMES:END -->
 
 --- 
 
