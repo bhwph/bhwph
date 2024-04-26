@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The wild successes of Helldivers 2 and Baldur&#39;s Gate 3 send a clear message: Let devs cook](https://www.pcgamer.com/gaming-industry/the-wild-successes-of-helldivers-2-and-baldurs-gate-3-send-a-clear-message-let-devs-cook)
- - [The Tortured Poets Department Is The Dark Souls Of Taylor Swift Albums](https://kotaku.com/taylor-swift-tortured-poets-department-dark-souls-1851439461)
- - [Explore the Post-Apocalyptic Seas in Age of Water](https://news.xbox.com/en-us/2024/04/26/explore-the-post-apocalyptic-seas-in-age-of-water/)<!-- GAME:END -->
+ - [Manor Lords Players Can’t Get Families To Stop Being Homeless](https://kotaku.com/manor-lords-steam-strategy-sim-family-homeless-bug-1851439744)
+ - [Wait, how did I miss that you can finally preorder Armored Core 6 model kits?](https://www.pcgamer.com/games/third-person-shooter/wait-how-did-i-miss-that-you-can-finally-preorder-armored-core-6-model-kits)
+ - [Deathbound is Coming to Xbox Series X|S](https://news.xbox.com/en-us/2024/04/26/deathbound-is-coming-to-xbox-series-xs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
