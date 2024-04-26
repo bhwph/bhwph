@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TechInsights teardown: Huawei&#39;s Pura 70 uses a 7nm chip, similar to the Mate 60, and a Kirin 9010 processor, a newer version of the Mate 60 Pro&#39;s Kirin 9000s &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240425/p43#a240425p43)
- - [Best 55-Inch TVs for 2024: Hisense, Samsung and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for April 26, #1042     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-26-1042/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A trusted source just showed off more Google Pixel 8a renders](https://www.androidauthority.com/google-pixel-8a-renders-leak-3437510/)
+ - [ByteDance says it has no plans to sell TikTok, responding to a report suggesting that it is considering scenarios for selling a majority stake in US TikTok &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/240426/p1#a240426p1)
+ - [Verizon hikes prices for smartwatch plans by 50%](https://www.androidauthority.com/verizon-smartwatch-plan-price-increase-3437511/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
