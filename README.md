@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
- - 😝 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
- - 👉 [The biggest question](http://9gag.com/gag/a7o5bML)<!-- MEMES:END -->
+ - 6️⃣ [Why so early ?](http://9gag.com/gag/awyrxD8)
+ - 😝 [Someone should report him.](http://9gag.com/gag/aD20o3d)
+ - 👉 [You get a refund](http://9gag.com/gag/aPAv4yK)<!-- MEMES:END -->
 
 --- 
 
