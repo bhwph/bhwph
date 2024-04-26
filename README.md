@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lego is bringing summer vibes with K.K. Slider and new Animal Crossing sets](https://www.theverge.com/2024/4/26/24141487/lego-animal-crossing-kk-slider)
- - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
- - [Sources: China&#39;s muted response to TikTok bill reflects the view that TikTok is of less strategic value than Huawei; China prefers TikTok US closure to sale &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240426/p9#a240426p9)<!-- TECH:END -->
+ - [T-Mobile’s acquisition of Mint Mobile is finally a done deal](https://www.androidauthority.com/tmobile-mint-deal-done-3437838/)
+ - [Congress considers legislation to block DJI drones from running on US communication networks, effectively killing the Chinese company&#39;s US commercial business &lpar;Kate Kelly/New York Times&rpar;](http://www.techmeme.com/240426/p12#a240426p12)
+ - [Akira Toriyama’s Sand Land makes a better show than game](https://www.theverge.com/24141497/sand-land-game-anime-hulu-ps5-xbox-akira-toriyama)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
