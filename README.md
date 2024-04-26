@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)
- - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
- - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
+ - 6️⃣ [I wonder how much horsepower it has?](http://9gag.com/gag/apRqpbB)
+ - 😝 [Poland!](http://9gag.com/gag/amoX8KV)
+ - 👉 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)<!-- MEMES:END -->
 
 --- 
 
