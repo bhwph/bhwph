@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The CHIPS Act has been surprisingly successful so far, giving the US greater scope to meet critical infrastructure needs in the event of a crisis in East Asia &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/240425/p38#a240425p38)
- - [If you&#39;re seeing canceled Apple iPhone trade-in notifications today, you&#39;re not alone](https://appleinsider.com/articles/24/04/25/if-youre-seeing-canceled-apple-iphone-trade-in-notifications-today-youre-not-alone?utm_medium=rss)
- - [iPhone 18 will probably get TSMC&#39;s newly announced next-generation 1.8nm chip process](https://appleinsider.com/articles/24/04/25/iphone-18-will-probably-get-tsmcs-newly-announced-next-generation-18nm-chip-process?utm_medium=rss)<!-- TECH:END -->
+ - [Former Twilio CEO and co-founder Jeff Lawson buys The Onion from G/O Media, via his new company Global Tetrahedron; Lawson had long wanted to buy the site &lpar;Katie Robertson/New York Times&rpar;](http://www.techmeme.com/240425/p40#a240425p40)
+ - [FCC Reportedly Approves T-Mobile&#39;s Deal to Purchase Mint Mobile     - CNET](https://www.cnet.com/tech/mobile/fcc-reportedly-approves-t-mobiles-deal-to-purchase-mint-mobile/#ftag=CAD590a51e)
+ - [Arizona TSMC facility continues to fight cultural battles, rising costs &amp; logistical hurdles](https://appleinsider.com/articles/24/04/25/arizona-tsmc-facility-continues-to-fight-cultural-battles-rising-costs-logistical-hurdles?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
