@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baltimore Police arrest a high school teacher for allegedly framing his principal by using AI to create an audio file of the principal making racist comments &lpar;The Baltimore Banner&rpar;](http://www.techmeme.com/240426/p14#a240426p14)
- - [Amazon Confirms Prime Day Sale Coming This Summer     - CNET](https://www.cnet.com/deals/amazon-confirms-prime-day-sale-coming-this-summer/#ftag=CAD590a51e)
- - [Google Parent Company Issues First Dividend: What to Know, Why This Matters     - CNET](https://www.cnet.com/tech/google-parent-company-issues-first-dividend-what-to-know-why-this-matters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Freestanding Electric Range     - CNET](https://www.cnet.com/home/kitchen-and-household/samsung-freestanding-electric-range-dpnl/#ftag=CAD590a51e)
+ - [NFL Draft 2024: How to Watch Tonight, First Round Grades, Second Round Picks Order     - CNET](https://www.cnet.com/tech/services-and-software/nfl-draft-2024-how-to-watch-tonight-first-round-grades-second-round-picks-order/#ftag=CAD590a51e)
+ - [Samsung Smart Freestanding Gas Range     - CNET](https://www.cnet.com/home/kitchen-and-household/samsung-smart-freestanding-gas-range-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
