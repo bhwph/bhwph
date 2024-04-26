@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Keep people away from your Android TV, or they could hack your email](https://www.androidauthority.com/android-tv-gmail-security-loophole-3437682/)
- - [Apple removes three AI image generation apps from the App Store after 404 Media probe found the apps advertised the ability to create nonconsensual nude images &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240426/p7#a240426p7)
- - [14 Best Car Phone Mounts, Chargers, and Accessories &lpar;2024&rpar;: Wireless Chargers, MagSafe Holders, and Dashcams](https://www.wired.com/gallery/best-car-phone-mounts-chargers-and-accessories/)<!-- TECH:END -->
+ - [Lego is bringing summer vibes with K.K. Slider and new Animal Crossing sets](https://www.theverge.com/2024/4/26/24141487/lego-animal-crossing-kk-slider)
+ - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
+ - [Sources: China&#39;s muted response to TikTok bill reflects the view that TikTok is of less strategic value than Huawei; China prefers TikTok US closure to sale &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240426/p9#a240426p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
