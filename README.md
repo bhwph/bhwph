@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s acquisition of Mint Mobile is finally a done deal](https://www.androidauthority.com/tmobile-mint-deal-done-3437838/)
- - [Congress considers legislation to block DJI drones from running on US communication networks, effectively killing the Chinese company&#39;s US commercial business &lpar;Kate Kelly/New York Times&rpar;](http://www.techmeme.com/240426/p12#a240426p12)
- - [Akira Toriyama’s Sand Land makes a better show than game](https://www.theverge.com/24141497/sand-land-game-anime-hulu-ps5-xbox-akira-toriyama)<!-- TECH:END -->
+ - [Baltimore Police arrest a high school teacher for allegedly framing his principal by using AI to create an audio file of the principal making racist comments &lpar;The Baltimore Banner&rpar;](http://www.techmeme.com/240426/p14#a240426p14)
+ - [Amazon Confirms Prime Day Sale Coming This Summer     - CNET](https://www.cnet.com/deals/amazon-confirms-prime-day-sale-coming-this-summer/#ftag=CAD590a51e)
+ - [Google Parent Company Issues First Dividend: What to Know, Why This Matters     - CNET](https://www.cnet.com/tech/google-parent-company-issues-first-dividend-what-to-know-why-this-matters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
