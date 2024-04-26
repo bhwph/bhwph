@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It took 30 years, but a speedrunner&#39;s finished Doom 2&#39;s opening level in an unbelievable 4.97 seconds](https://www.pcgamer.com/games/fps/it-took-30-years-but-a-speedrunners-finished-doom-2s-opening-level-in-an-unbelievable-497-seconds)
- - [Our top 10 Manor Lords tips for thriving in the survival city builder](https://www.pcgamer.com/games/city-builder/manor-lords-beginner-tips)
- - [Today&#39;s Wordle answer for Friday, April 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-26-2024)<!-- GAME:END -->
+ - [Helldivers 2 devs confirm that, no, trimming &#39;excess leg space in the cockpit&#39; doesn&#39;t mean the nice Eagle-1 lady is hacking off her legs for liberty](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-devs-confirm-that-no-trimming-excess-leg-space-in-the-cockpit-doesnt-mean-the-nice-eagle-1-lady-is-hacking-off-her-legs-for-liberty)
+ - [Fancy a borked Intel CPU for just $3.25? This Japanese Gacha machine is just for you](https://www.pcgamer.com/hardware/processors/fancy-a-borked-intel-cpu-for-just-dollar325-this-japanese-gacha-machine-is-just-for-you)
+ - [Intel CEO claims Core Ultra laptop chip is &#39;hot&#39; but the company&#39;s near-term outlook still isn&#39;t exactly on fire](https://www.pcgamer.com/hardware/processors/intel-ceo-claims-core-ultra-laptop-chip-is-hot-but-the-companys-near-term-outlook-still-isnt-exactly-on-fire)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
