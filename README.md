@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What does this tell us?](http://9gag.com/gag/aqymLbQ)
- - 😝 [From culprit to victim in seconds](http://9gag.com/gag/ae9Nerm)
- - 👉 [`Slide cancel`](http://9gag.com/gag/apRqpgE)<!-- MEMES:END -->
+ - 6️⃣ [The first memorial statue to Queen Elizabeth with, of course, her beloved corgis](http://9gag.com/gag/aQzq96W)
+ - 😝 [Ok gen Z, learn this](http://9gag.com/gag/awyrn5Q)
+ - 👉 [Natural born babies](http://9gag.com/gag/aVvOq22)<!-- MEMES:END -->
 
 --- 
 
