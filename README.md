@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tarkov studio claims it actually doesn&#39;t have the server capacity for everyone who bought the game for $150 to play its upcoming PvE mode, still wants players to pay extra](https://www.pcgamer.com/games/fps/tarkov-studio-claims-it-actually-doesnt-have-the-server-capacity-for-everyone-who-paid-dollar150-to-play-its-upcoming-pve-mode-still-wants-players-to-pay-extra)
  - [7 Days in Hell did Challengers before Challengers — threesomes and all](https://www.polygon.com/24141516/7-days-in-hell-challengers-tennis-is-ridiculous)
- - [Fallout 76&#39;s Redemption Arc, A Great New Zelda-Like, And More Gaming Opinions For The Week](https://kotaku.com/final-fantasy-16-dlc-rising-tide-phantom-fury-1851438696)
- - [No Rest for the Wicked will be a great ARPG if it can get over the hill](https://www.polygon.com/24140129/no-rest-for-the-wicked-early-access-review-impressions)<!-- GAME:END -->
+ - [Fallout 76&#39;s Redemption Arc, A Great New Zelda-Like, And More Gaming Opinions For The Week](https://kotaku.com/final-fantasy-16-dlc-rising-tide-phantom-fury-1851438696)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
