@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mastodon forms a new US non-profit, to receive tax-deductible US donations and in-kind support, with Twitter co-founder Biz Stone and others on its board &lpar;Eugen Rochko/Mastodon Blog&rpar;](http://www.techmeme.com/240427/p9#a240427p9)
- - [Garmin Venu 4 wishlist: All the features I want to see](https://www.androidauthority.com/garmin-venu-4-3433187/)
- - [Have a look at this Terminator 2 fan restoration project](https://www.theverge.com/2024/4/27/24142560/terminator-2-judgment-day-35mm-fan-restoration)<!-- TECH:END -->
+ - [The IRS says it spent $10.5M to develop and $2.4M to run its free tax filing website, used by 140K+ households in 12 states, and claims high user satisfaction &lpar;Julie Zauzmer Weil/Washington Post&rpar;](http://www.techmeme.com/240427/p11#a240427p11)
+ - [EyeEm, the bankrupt photo sharing network acquired by Freepik last year, will license users&#39; photos to train AI if the images are not deleted within 30 days &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240427/p10#a240427p10)
+ - [The Apple Vision Pro’s eBay prices are making me sad](https://www.theverge.com/2024/4/27/24142810/apple-vision-pro-ebay-low-prices)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
