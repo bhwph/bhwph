@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia Vetoed a UN Resolution to Ban Space Nukes](https://www.wired.com/story/russia-un-resolution-space-nuclear-weapons-satellites/)
- - [Best Cheap Phone of 2024: Most Value for the Money     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)
- - [Don&#39;t Panic if Your Dog Eats a Cicada. Here&#39;s What to Know     - CNET](https://www.cnet.com/home/kitchen-and-household/dont-panic-if-your-dog-eats-a-cicada-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best New Albums of Spring 2024](https://www.wired.com/story/best-new-albums-of-2024-spring/)
+ - [Meta’s Ray-Ban Smart Shades Get a Fresh Blast of AI](https://www.wired.com/story/meta-ray-ban-smart-glasses-ai-update/)
+ - [These Common Houseplants Are Known to Repel Bugs     - CNET](https://www.cnet.com/news/these-common-houseplants-are-known-to-repel-bugs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
