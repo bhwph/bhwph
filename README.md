@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google opens its second hardware office in New Taipei City, as VP of Engineering Elmer Peng says &quot;Taiwan is Google&#39;s largest hardware R&amp;D hub outside of the US&quot; &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240427/p1#a240427p1)
- - [A number of Apple users say they were logged out of their Apple ID across multiple devices on April 26 and forced to reset their password before logging back in &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240426/p22#a240426p22)
- - [Today&#39;s Wordle Hints and Answer: Help for April 27, #1043     - CNET](https://www.cnet.com/news/todays-wordle-hints-and-answer-help-for-april-27-1043/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Can I share my Paramount Plus account?](https://www.androidauthority.com/can-i-share-my-paramount-plus-account-3288340/)
+ - [Google plans to invest $2B to set up a data center in Indiana and $1B to expand three Virginia sites, and announces a $75M fund to train Americans on AI skills &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240427/p2#a240427p2)
+ - [Google opens its second hardware office in New Taipei City, as VP of Engineering Elmer Peng says &quot;Taiwan is Google&#39;s largest hardware R&amp;D hub outside of the US&quot; &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240427/p1#a240427p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
