@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Simple](http://9gag.com/gag/aRBQKnG)
- - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
- - 👉 [You just can&#39;t get a decent pair of shoe nowadays.](http://9gag.com/gag/ayN5Lwp)<!-- MEMES:END -->
+ - 6️⃣ [Crazy.](http://9gag.com/gag/amoX2Zv)
+ - 😝 [So many OSHA violations](http://9gag.com/gag/aW4Z8wA)
+ - 👉 [It\u2019s over, we\u2019re done for](http://9gag.com/gag/aqymL6L)<!-- MEMES:END -->
 
 --- 
 
