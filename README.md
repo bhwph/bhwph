@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
- - 😝 [Natural born babies](http://9gag.com/gag/aVvOq22)
- - 👉 [Remembering the BLM mass lootings. Don&#39;t mess with the rooftop Koreans.](http://9gag.com/gag/azxbX1B)<!-- MEMES:END -->
+ - 6️⃣ [Just down the stairs animation of several games](http://9gag.com/gag/aXPbvGv)
+ - 😝 [My man was dead inside](http://9gag.com/gag/an7YjYq)
+ - 👉 [Natural born babies](http://9gag.com/gag/aVvOq22)<!-- MEMES:END -->
 
 --- 
 
