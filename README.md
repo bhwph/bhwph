@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best New Albums of Spring 2024](https://www.wired.com/story/best-new-albums-of-2024-spring/)
- - [Meta’s Ray-Ban Smart Shades Get a Fresh Blast of AI](https://www.wired.com/story/meta-ray-ban-smart-glasses-ai-update/)
- - [These Common Houseplants Are Known to Repel Bugs     - CNET](https://www.cnet.com/news/these-common-houseplants-are-known-to-repel-bugs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple is now looking to OpenAI and Google to bring AI smarts to iOS 18](https://www.androidauthority.com/apple-openai-3437957/)
+ - [The cheapest countries to buy a Surface Studio 2 Plus](https://www.androidauthority.com/cheapest-place-to-buy-surface-studio-2-plus-3437860/)
+ - [A look at the rise in video podcasts, as YouTube leads in podcast consumption in the US and companies invest in video to gain new audiences and boost ad revenue &lpar;Reggie Ugwu/New York Times&rpar;](http://www.techmeme.com/240427/p6#a240427p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
