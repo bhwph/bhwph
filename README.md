@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The first memorial statue to Queen Elizabeth with, of course, her beloved corgis](http://9gag.com/gag/aQzq96W)
- - 😝 [Ok gen Z, learn this](http://9gag.com/gag/awyrn5Q)
- - 👉 [Natural born babies](http://9gag.com/gag/aVvOq22)<!-- MEMES:END -->
+ - 6️⃣ [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
+ - 😝 [Moooazing](http://9gag.com/gag/an7YbO0)
+ - 👉 [The force is strong with this one](http://9gag.com/gag/aZZPmRp)<!-- MEMES:END -->
 
 --- 
 
