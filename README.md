@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fuggin legend](http://9gag.com/gag/aLnKjdx)
- - 😝 [The cheapest and most delicious long-established hamburger shop in Japan run by a grandfather for 50 years.](http://9gag.com/gag/a87W8BQ)
- - 👉 [Facts](http://9gag.com/gag/amoX7bj)<!-- MEMES:END -->
+ - 6️⃣ [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
+ - 😝 [You just can&#39;t get a decent pair of shoe nowadays.](http://9gag.com/gag/ayN5Lwp)
+ - 👉 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)<!-- MEMES:END -->
 
 --- 
 
