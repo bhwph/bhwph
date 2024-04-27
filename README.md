@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US appeals court reverses a 2021 ruling that prevented New York from enforcing a law requiring ISPs to offer low-cost broadband plans to low-income consumers &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240426/p21#a240426p21)
  - [Microsoft partners with IBM to release the MS-DOS 4.0 source code under the MIT license on GitHub &lpar;Andy Edser/PC Gamer&rpar;](http://www.techmeme.com/240426/p20#a240426p20)
- - [Mayor of Kingstown season 3: Release date and other rumors](https://www.androidauthority.com/mayor-of-kingstown-season-3-3437902/)
- - [IBM plans to expand its semiconductor packaging and testing plant in Bromont, Quebec, with more than CA$1B in investments over the next five years &lpar;Mathieu Dion/Bloomberg&rpar;](http://www.techmeme.com/240426/p19#a240426p19)<!-- TECH:END -->
+ - [Mayor of Kingstown season 3: Release date and other rumors](https://www.androidauthority.com/mayor-of-kingstown-season-3-3437902/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
