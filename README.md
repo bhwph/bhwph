@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, April 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-27-2024)
- - [Ridley Scott’s Alien introduced the perfect sci-fi villain](https://www.polygon.com/23593379/best-sci-fi-alien-xenomorph-ridley-scott-45th-anniversary)
- - [Discord drops the hammer on data-scraping &#39;Spy.pet&#39; website, says it is &#39;considering appropriate legal action&#39;](https://www.pcgamer.com/software/discord-drops-the-hammer-on-data-scraping-spypet-website-says-it-is-considering-appropriate-legal-action)<!-- GAME:END -->
+ - [TikTok’s biggest creators imagine what would happen if the app went away](https://www.polygon.com/24141531/tiktok-legislation-divest-ban-viral-creators-reactions)
+ - [Fallout 4&#39;s Big Update, Stellar Blade&#39;s Launch Day Patch, And More Of The Week&#39;s Gaming News](https://kotaku.com/fallout-4-helldivers-2-stellar-blade-gaming-news-1851438694)
+ - [The must-see movies leaving streaming at the end of April](https://www.polygon.com/what-to-watch/2024/4/27/24137404/best-movies-netflix-amazon-hulu-leaving-april-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
