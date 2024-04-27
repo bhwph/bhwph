@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Find Out the Best Time of Day to Exercise for Your Lifestyle     - CNET](https://www.cnet.com/health/fitness/find-the-best-time-of-day-to-exercise/#ftag=CAD590a51e)
- - [A review of Dana Mattioli&#39;s The Everything War, which covers Lina Khan&#39;s antitrust battle against Amazon and makes a case that no company should be so powerful &lpar;Jonathan Ford/Financial Times&rpar;](http://www.techmeme.com/240427/p4#a240427p4)
- - [Investors cheer Microsoft and Alphabet&#39;s huge AI spending plans as shares of both firms rallied but not Meta&#39;s, which saw its worst trading day in 18 months &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240427/p3#a240427p3)<!-- TECH:END -->
+ - [Russia Vetoed a UN Resolution to Ban Space Nukes](https://www.wired.com/story/russia-un-resolution-space-nuclear-weapons-satellites/)
+ - [Best Cheap Phone of 2024: Most Value for the Money     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)
+ - [Don&#39;t Panic if Your Dog Eats a Cicada. Here&#39;s What to Know     - CNET](https://www.cnet.com/home/kitchen-and-household/dont-panic-if-your-dog-eats-a-cicada-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
