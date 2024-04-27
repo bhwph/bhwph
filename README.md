@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Freestanding Electric Range     - CNET](https://www.cnet.com/home/kitchen-and-household/samsung-freestanding-electric-range-dpnl/#ftag=CAD590a51e)
- - [NFL Draft 2024: How to Watch Tonight, First Round Grades, Second Round Picks Order     - CNET](https://www.cnet.com/tech/services-and-software/nfl-draft-2024-how-to-watch-tonight-first-round-grades-second-round-picks-order/#ftag=CAD590a51e)
- - [Samsung Smart Freestanding Gas Range     - CNET](https://www.cnet.com/home/kitchen-and-household/samsung-smart-freestanding-gas-range-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft partners with IBM to release the MS-DOS 4.0 source code under the MIT license on GitHub &lpar;Andy Edser/PC Gamer&rpar;](http://www.techmeme.com/240426/p20#a240426p20)
+ - [Mayor of Kingstown season 3: Release date and other rumors](https://www.androidauthority.com/mayor-of-kingstown-season-3-3437902/)
+ - [IBM plans to expand its semiconductor packaging and testing plant in Bromont, Quebec, with more than CA$1B in investments over the next five years &lpar;Mathieu Dion/Bloomberg&rpar;](http://www.techmeme.com/240426/p19#a240426p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
