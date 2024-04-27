@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Does this non woke studio even exist???](http://9gag.com/gag/ayN5d4r)
- - 😝 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
- - 👉 [From the archives #23](http://9gag.com/gag/a5Qdr0V)<!-- MEMES:END -->
+ - 6️⃣ [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
+ - 😝 [Natural born babies](http://9gag.com/gag/aVvOq22)
+ - 👉 [Remembering the BLM mass lootings. Don&#39;t mess with the rooftop Koreans.](http://9gag.com/gag/azxbX1B)<!-- MEMES:END -->
 
 --- 
 
