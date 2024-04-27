@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, April 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-27-2024)
  - [Ridley Scott’s Alien introduced the perfect sci-fi villain](https://www.polygon.com/23593379/best-sci-fi-alien-xenomorph-ridley-scott-45th-anniversary)
- - [Discord drops the hammer on data-scraping &#39;Spy.pet&#39; website, says it is &#39;considering appropriate legal action&#39;](https://www.pcgamer.com/software/discord-drops-the-hammer-on-data-scraping-spypet-website-says-it-is-considering-appropriate-legal-action)
- - [Boy Kills World is a litmus test for fans of video game-inspired movies](https://www.polygon.com/reviews/24141885/boy-kills-world-review-video-game-movie-bill-skarsgard)<!-- GAME:END -->
+ - [Discord drops the hammer on data-scraping &#39;Spy.pet&#39; website, says it is &#39;considering appropriate legal action&#39;](https://www.pcgamer.com/software/discord-drops-the-hammer-on-data-scraping-spypet-website-says-it-is-considering-appropriate-legal-action)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
