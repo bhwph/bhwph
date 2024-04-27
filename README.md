@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A group of modders are building &#39;Baldur&#39;s Village&#39; in Stardew Valley, an idyllic little town where you can date Astarion and maybe hang out with some of those other guys](https://www.pcgamer.com/games/rpg/a-group-of-modders-are-building-baldurs-village-in-stardew-valley-an-idyllic-little-town-where-you-can-date-astarion-and-maybe-hang-out-with-some-of-those-other-guys)
  - [Tarkov studio claims it actually doesn&#39;t have the server capacity for everyone who bought the game for $150 to play its upcoming PvE mode, still wants players to pay extra](https://www.pcgamer.com/games/fps/tarkov-studio-claims-it-actually-doesnt-have-the-server-capacity-for-everyone-who-paid-dollar150-to-play-its-upcoming-pve-mode-still-wants-players-to-pay-extra)
- - [7 Days in Hell did Challengers before Challengers — threesomes and all](https://www.polygon.com/24141516/7-days-in-hell-challengers-tennis-is-ridiculous)
- - [Fallout 76&#39;s Redemption Arc, A Great New Zelda-Like, And More Gaming Opinions For The Week](https://kotaku.com/final-fantasy-16-dlc-rising-tide-phantom-fury-1851438696)<!-- GAME:END -->
+ - [7 Days in Hell did Challengers before Challengers — threesomes and all](https://www.polygon.com/24141516/7-days-in-hell-challengers-tennis-is-ridiculous)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
