@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [eufy will launch Find My Device network trackers in June](https://www.androidauthority.com/eufy-find-my-device-3437978/)
- - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-532-3437855/)
- - [Nothing Phone 2a could get a fourth colorway in a few days](https://www.androidauthority.com/nothing-phone-2a-fourth-color-3437968/)<!-- TECH:END -->
+ - [Mastodon forms a new US non-profit, to receive tax-deductible US donations and in-kind support, with Twitter co-founder Biz Stone and others on its board &lpar;Eugen Rochko/Mastodon Blog&rpar;](http://www.techmeme.com/240427/p9#a240427p9)
+ - [Garmin Venu 4 wishlist: All the features I want to see](https://www.androidauthority.com/garmin-venu-4-3433187/)
+ - [Have a look at this Terminator 2 fan restoration project](https://www.theverge.com/2024/4/27/24142560/terminator-2-judgment-day-35mm-fan-restoration)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
