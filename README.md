@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is now looking to OpenAI and Google to bring AI smarts to iOS 18](https://www.androidauthority.com/apple-openai-3437957/)
- - [The cheapest countries to buy a Surface Studio 2 Plus](https://www.androidauthority.com/cheapest-place-to-buy-surface-studio-2-plus-3437860/)
- - [A look at the rise in video podcasts, as YouTube leads in podcast consumption in the US and companies invest in video to gain new audiences and boost ad revenue &lpar;Reggie Ugwu/New York Times&rpar;](http://www.techmeme.com/240427/p6#a240427p6)<!-- TECH:END -->
+ - [eufy will launch Find My Device network trackers in June](https://www.androidauthority.com/eufy-find-my-device-3437978/)
+ - [5 Android apps you shouldn’t miss this week and all the latest app news – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-532-3437855/)
+ - [Nothing Phone 2a could get a fourth colorway in a few days](https://www.androidauthority.com/nothing-phone-2a-fourth-color-3437968/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
