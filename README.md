@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
- - 😝 [Moooazing](http://9gag.com/gag/an7YbO0)
- - 👉 [The force is strong with this one](http://9gag.com/gag/aZZPmRp)<!-- MEMES:END -->
+ - 6️⃣ [Why so early ?](http://9gag.com/gag/awyrxD8)
+ - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
+ - 👉 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)<!-- MEMES:END -->
 
 --- 
 
