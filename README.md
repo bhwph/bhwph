@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Manor Lords Players Can’t Get Families To Stop Being Homeless](https://kotaku.com/manor-lords-steam-strategy-sim-family-homeless-bug-1851439744)
- - [Wait, how did I miss that you can finally preorder Armored Core 6 model kits?](https://www.pcgamer.com/games/third-person-shooter/wait-how-did-i-miss-that-you-can-finally-preorder-armored-core-6-model-kits)
- - [Deathbound is Coming to Xbox Series X|S](https://news.xbox.com/en-us/2024/04/26/deathbound-is-coming-to-xbox-series-xs/)<!-- GAME:END -->
+ - [Ridley Scott’s Alien introduced the perfect sci-fi villain](https://www.polygon.com/23593379/best-sci-fi-alien-xenomorph-ridley-scott-45th-anniversary)
+ - [Discord drops the hammer on data-scraping &#39;Spy.pet&#39; website, says it is &#39;considering appropriate legal action&#39;](https://www.pcgamer.com/software/discord-drops-the-hammer-on-data-scraping-spypet-website-says-it-is-considering-appropriate-legal-action)
+ - [Boy Kills World is a litmus test for fans of video game-inspired movies](https://www.polygon.com/reviews/24141885/boy-kills-world-review-video-game-movie-bill-skarsgard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
