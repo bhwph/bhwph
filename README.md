@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I wonder how much horsepower it has?](http://9gag.com/gag/apRqpbB)
- - 😝 [Poland!](http://9gag.com/gag/amoX8KV)
- - 👉 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)<!-- MEMES:END -->
+ - 6️⃣ [What does this tell us?](http://9gag.com/gag/aqymLbQ)
+ - 😝 [From culprit to victim in seconds](http://9gag.com/gag/ae9Nerm)
+ - 👉 [`Slide cancel`](http://9gag.com/gag/apRqpgE)<!-- MEMES:END -->
 
 --- 
 
