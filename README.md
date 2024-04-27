@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [TikTok’s biggest creators imagine what would happen if the app went away](https://www.polygon.com/24141531/tiktok-legislation-divest-ban-viral-creators-reactions)
- - [Fallout 4&#39;s Big Update, Stellar Blade&#39;s Launch Day Patch, And More Of The Week&#39;s Gaming News](https://kotaku.com/fallout-4-helldivers-2-stellar-blade-gaming-news-1851438694)
- - [The must-see movies leaving streaming at the end of April](https://www.polygon.com/what-to-watch/2024/4/27/24137404/best-movies-netflix-amazon-hulu-leaving-april-2024)<!-- GAME:END -->
+ - [7 Days in Hell did Challengers before Challengers — threesomes and all](https://www.polygon.com/24141516/7-days-in-hell-challengers-tennis-is-ridiculous)
+ - [Fallout 76&#39;s Redemption Arc, A Great New Zelda-Like, And More Gaming Opinions For The Week](https://kotaku.com/final-fantasy-16-dlc-rising-tide-phantom-fury-1851438696)
+ - [No Rest for the Wicked will be a great ARPG if it can get over the hill](https://www.polygon.com/24140129/no-rest-for-the-wicked-early-access-review-impressions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
