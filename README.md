@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just down the stairs animation of several games](http://9gag.com/gag/aXPbvGv)
- - 😝 [My man was dead inside](http://9gag.com/gag/an7YjYq)
- - 👉 [Natural born babies](http://9gag.com/gag/aVvOq22)<!-- MEMES:END -->
+ - 6️⃣ [Simple](http://9gag.com/gag/aRBQKnG)
+ - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
+ - 👉 [You just can&#39;t get a decent pair of shoe nowadays.](http://9gag.com/gag/ayN5Lwp)<!-- MEMES:END -->
 
 --- 
 
