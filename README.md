@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why so early ?](http://9gag.com/gag/awyrxD8)
- - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
- - 👉 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)<!-- MEMES:END -->
+ - 6️⃣ [Does this non woke studio even exist???](http://9gag.com/gag/ayN5d4r)
+ - 😝 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
+ - 👉 [From the archives #23](http://9gag.com/gag/a5Qdr0V)<!-- MEMES:END -->
 
 --- 
 
