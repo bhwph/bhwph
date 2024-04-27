@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Fuggin legend](http://9gag.com/gag/aLnKjdx)
- - 😝 [Facts](http://9gag.com/gag/amoX7bj)
- - 👉 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)<!-- MEMES:END -->
+ - 😝 [The cheapest and most delicious long-established hamburger shop in Japan run by a grandfather for 50 years.](http://9gag.com/gag/a87W8BQ)
+ - 👉 [Facts](http://9gag.com/gag/amoX7bj)<!-- MEMES:END -->
 
 --- 
 
