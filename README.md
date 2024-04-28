@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta, Alphabet, and Snap beat analysts&#39; estimates in their Q1 results, showing acceleration in advertising growth after struggling to rebound from a dismal 2022 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240427/p13#a240427p13)
  - [In the first Autonomous Racing League race, the struggle was real](https://www.theverge.com/2024/4/27/24142989/a2rl-autonomous-race-cars-f1-abu-dhabi)
- - [TikTok users with stigmatized interests or marginalized identities express anxiety over its potential ban, as rebuilding their communities elsewhere may be hard &lpar;Washington Post&rpar;](http://www.techmeme.com/240427/p12#a240427p12)
- - [Best French Press of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-french-press/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok users with stigmatized interests or marginalized identities express anxiety over its potential ban, as rebuilding their communities elsewhere may be hard &lpar;Washington Post&rpar;](http://www.techmeme.com/240427/p12#a240427p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
