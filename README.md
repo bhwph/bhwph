@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Iman Vellani dishes on her love of Attack on Titan](https://www.polygon.com/anime/24141496/anime-iman-vellani-attack-on-titan-studio-ghibli-interview)
- - [Stellar Blade, Tales Of Kenzera: Zau, And More Of This Week&#39;s Reviews](https://kotaku.com/tales-kenzera-zau-review-another-crabs-treasure-1851438697)
- - [If you loved Shōgun, keep the historical Japan vibes going with these games](https://www.polygon.com/24138602/games-like-shogun-shadow-tactics-total-war-shogun-2)<!-- GAME:END -->
+ - [You may be kicking yourself for deleting Destiny guns that are all of a sudden viable again, but one of the game&#39;s biggest YouTubers has been Marie Kondo-ing his friends&#39; arsenals on camera for years](https://www.pcgamer.com/games/fps/you-may-be-kicking-yourself-for-deleting-destiny-guns-that-are-all-of-a-sudden-viable-again-but-one-of-the-games-biggest-youtubers-has-been-marie-kondo-ing-his-friends-arsenals-on-camera-for-years)
+ - [Continuing the Fallout bonanza, Humble is offering $238 of the Wasteland Warfare tabletop game&#39;s digital sourcebooks and accessories for $18](https://www.pcgamer.com/games/fallout/continuing-the-fallout-bonanza-humble-is-offering-dollar238-of-the-wasteland-warfare-tabletop-games-digital-sourcebooks-and-accessories-for-dollar18)
+ - [Marvel’s Iman Vellani dishes on her love of Attack on Titan](https://www.polygon.com/anime/24141496/anime-iman-vellani-attack-on-titan-studio-ghibli-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
