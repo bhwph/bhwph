@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some founders say TikTok ban won&#39;t impact creator economy startups much, as they have diversified across multiple platforms after Trump tried banning it in 2020 &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240428/p2#a240428p2)
- - [India&#39;s top five IT services companies, including Infosys and Wipro, collectively saw a decline of 69,167 employees in FY 2024; HCLTech added 1,537 employees &lpar;Debangana Ghosh/Moneycontrol&rpar;](http://www.techmeme.com/240428/p1#a240428p1)
- - [Today&#39;s Wordle Hints and Answer: Help for April 28, #1044     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-28-1044/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Ethan Mollick, a University of Pennsylvania professor whose early embrace of AI made him a go-to expert for policymakers and corporate leaders &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240428/p3#a240428p3)
+ - [How to Get Free Kindle Books With Your Library Card &lpar;2024&rpar;](https://www.wired.com/story/how-to-get-free-kindle-books-with-your-library-card/)
+ - [Why You Endlessly Scroll Through Your Phone, and How to Stop     - CNET](https://www.cnet.com/tech/mobile/why-you-endlessly-scroll-through-your-phone-and-how-to-stop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
