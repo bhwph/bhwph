@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best movie trailers for the week of April 21st](https://www.theverge.com/2024/4/28/24143685/best-movie-trailers-week-april-21)
- - [Nikon Z6 II 4k Camera &lpar;Body Only&rpar;     - CNET](https://www.cnet.com/tech/computing/nikon-z6-ii-4k-camera-body-only-dpnl/#ftag=CAD590a51e)
- - [GE Profile Smart Smoker     - CNET](https://www.cnet.com/home/kitchen-and-household/ge-profile-smart-smoker-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Phone cooler makers need to chill with all the ice](https://www.theverge.com/2024/4/28/24143845/phone-cooler-fans-ice-graphics)
+ - [House of the Dragon season 2: Release date, plot, and other rumors](https://www.androidauthority.com/house-of-the-dragon-season-2-release-date-3438034/)
+ - [AI is making Meta&#39;s apps basically unusable, as the company adds Meta AI everywhere and viral user-generated AI images proliferate on Facebook and Instagram &lpar;Scott Nover/Fast Company&rpar;](http://www.techmeme.com/240428/p7#a240428p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
