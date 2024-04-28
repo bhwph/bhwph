@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Monroe County DA is above the law](http://9gag.com/gag/aE0wgp9)
- - 😝 [Why god WHYYY](http://9gag.com/gag/a34YRY5)
- - 👉 [What do you think they meant by misinformation?](http://9gag.com/gag/aE0wBqp)<!-- MEMES:END -->
+ - 6️⃣ [The ultimate stick](http://9gag.com/gag/aPAvYmG)
+ - 😝 [Functional Fake Plants](http://9gag.com/gag/an7Y9GV)
+ - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
 
 --- 
 
