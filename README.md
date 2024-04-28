@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
- - 😝 [She looks smart.](http://9gag.com/gag/a1mAKVw)
- - 👉 [He went hardcore!](http://9gag.com/gag/a87W57O)<!-- MEMES:END -->
+ - 6️⃣ [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)
+ - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
+ - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
 
 --- 
 
