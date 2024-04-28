@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A challenging wank..](http://9gag.com/gag/a4P4Z3Q)
- - 😝 [Now that&#39;s ... A TURN AROUND](http://9gag.com/gag/aO8qz1r)
- - 👉 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)<!-- MEMES:END -->
+ - 6️⃣ [Reading is for rich ppl](http://9gag.com/gag/azxbXxq)
+ - 😝 [Look at this idiot](http://9gag.com/gag/ae9NbAQ)
+ - 👉 [Do NOT update, Bethesda is having a seizure](http://9gag.com/gag/aYQbxYm)<!-- MEMES:END -->
 
 --- 
 
