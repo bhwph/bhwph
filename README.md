@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [6 Inch cucumber](http://9gag.com/gag/amoX7Mo)
- - 😝 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
- - 👉 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)<!-- MEMES:END -->
+ - 6️⃣ [The proper way to take the trash out](http://9gag.com/gag/aByK06D)
+ - 😝 [Upvote my money cat and get lucky. He&#39;s a 16 yo wizard cat that gives away chances to get rich.](http://9gag.com/gag/aRBQjVQ)
+ - 👉 [Indian Ringneck\u2019s choreography in human steps](http://9gag.com/gag/aRBQ067)<!-- MEMES:END -->
 
 --- 
 
