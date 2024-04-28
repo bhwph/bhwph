@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
- - 😝 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
- - 👉 [Planky](http://9gag.com/gag/aLnKgBv)<!-- MEMES:END -->
+ - 6️⃣ [6 Inch cucumber](http://9gag.com/gag/amoX7Mo)
+ - 😝 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
+ - 👉 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)<!-- MEMES:END -->
 
 --- 
 
