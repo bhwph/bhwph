@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Irish Patriots Protesting Being Mass Invaded By Illegals](http://9gag.com/gag/ajPr9B8)
- - 😝 [Functional Fake Plants](http://9gag.com/gag/an7Y9GV)
- - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
+ - 6️⃣ [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
+ - 😝 [She looks smart.](http://9gag.com/gag/a1mAKVw)
+ - 👉 [He went hardcore!](http://9gag.com/gag/a87W57O)<!-- MEMES:END -->
 
 --- 
 
