@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reading is for rich ppl](http://9gag.com/gag/azxbXxq)
- - 😝 [Look at this idiot](http://9gag.com/gag/ae9NbAQ)
- - 👉 [Do NOT update, Bethesda is having a seizure](http://9gag.com/gag/aYQbxYm)<!-- MEMES:END -->
+ - 6️⃣ [Simple](http://9gag.com/gag/aRBQKnG)
+ - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
+ - 👉 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)<!-- MEMES:END -->
 
 --- 
 
