@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
- - 😝 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
- - 👉 [Planky](http://9gag.com/gag/aLnKgBv)<!-- MEMES:END -->
+ - 6️⃣ [A challenging wank..](http://9gag.com/gag/a4P4Z3Q)
+ - 😝 [Now that&#39;s ... A TURN AROUND](http://9gag.com/gag/aO8qz1r)
+ - 👉 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)<!-- MEMES:END -->
 
 --- 
 
