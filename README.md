@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, April 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-28-2024)
  - [Remembering the weird HeroQuest novel that combined Beowulf, Discworld, Dying Earth, and American Psycho](https://www.pcgamer.com/games/board-games/remembering-the-weird-heroquest-novel-that-combined-beowulf-discworld-dying-earth-and-american-psycho)
- - [YouTube&#39;s been experimenting with ads that play while your video is paused](https://www.pcgamer.com/gaming-industry/youtubes-been-experimenting-with-ads-that-play-while-your-video-is-paused)
- - [A group of modders are building &#39;Baldur&#39;s Village&#39; in Stardew Valley, an idyllic little town where you can date Astarion and maybe hang out with some of those other guys](https://www.pcgamer.com/games/rpg/a-group-of-modders-are-building-baldurs-village-in-stardew-valley-an-idyllic-little-town-where-you-can-date-astarion-and-maybe-hang-out-with-some-of-those-other-guys)<!-- GAME:END -->
+ - [YouTube&#39;s been experimenting with ads that play while your video is paused](https://www.pcgamer.com/gaming-industry/youtubes-been-experimenting-with-ads-that-play-while-your-video-is-paused)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
