@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the new iPad Pro may launch with an M4 chip, kicking off Apple&#39;s AI strategy that will be expanded at WWDC; the new Pencil will have haptic feedback &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240428/p4#a240428p4)
- - [11 Best Sleeping Bags &lpar;2024&rpar;: Ultralight, for Car Campers, Warm Weather, for Kids](https://www.wired.com/story/the-best-sleeping-bags-for-every-adventure/)
- - [Where to get started with Fallout](https://www.theverge.com/2024/4/28/24141907/best-fallout-3-4-76-new-vegas-start)<!-- TECH:END -->
+ - [iPhone 16 dummy units show off gargantuan size of Pro Max, new camera modules](https://www.androidauthority.com/iphone-16-dummy-units-3438018/)
+ - [Amazon discounts the Apple Studio Display to $1,299 &lpar;$300 off&rpar;](https://appleinsider.com/articles/24/04/28/amazon-discounts-the-apple-studio-display-to-1299-300-off?utm_medium=rss)
+ - [Finally, the Play Store can download two apps at once](https://www.androidauthority.com/google-play-store-two-downloads-3438010/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
