@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Ethan Mollick, a University of Pennsylvania professor whose early embrace of AI made him a go-to expert for policymakers and corporate leaders &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240428/p3#a240428p3)
- - [How to Get Free Kindle Books With Your Library Card &lpar;2024&rpar;](https://www.wired.com/story/how-to-get-free-kindle-books-with-your-library-card/)
- - [Why You Endlessly Scroll Through Your Phone, and How to Stop     - CNET](https://www.cnet.com/tech/mobile/why-you-endlessly-scroll-through-your-phone-and-how-to-stop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the new iPad Pro may launch with an M4 chip, kicking off Apple&#39;s AI strategy that will be expanded at WWDC; the new Pencil will have haptic feedback &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240428/p4#a240428p4)
+ - [11 Best Sleeping Bags &lpar;2024&rpar;: Ultralight, for Car Campers, Warm Weather, for Kids](https://www.wired.com/story/the-best-sleeping-bags-for-every-adventure/)
+ - [Where to get started with Fallout](https://www.theverge.com/2024/4/28/24141907/best-fallout-3-4-76-new-vegas-start)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
