@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
- - 😝 [You just can&#39;t get a decent pair of shoe nowadays.](http://9gag.com/gag/ayN5Lwp)
- - 👉 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)<!-- MEMES:END -->
+ - 6️⃣ [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
+ - 😝 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
+ - 👉 [Planky](http://9gag.com/gag/aLnKgBv)<!-- MEMES:END -->
 
 --- 
 
