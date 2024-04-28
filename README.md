@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Simple](http://9gag.com/gag/aRBQKnG)
- - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
- - 👉 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)<!-- MEMES:END -->
+ - 6️⃣ [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
+ - 😝 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
+ - 👉 [Planky](http://9gag.com/gag/aLnKgBv)<!-- MEMES:END -->
 
 --- 
 
