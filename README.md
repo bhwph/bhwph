@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The proper way to take the trash out](http://9gag.com/gag/aByK06D)
- - 😝 [Upvote my money cat and get lucky. He&#39;s a 16 yo wizard cat that gives away chances to get rich.](http://9gag.com/gag/aRBQjVQ)
- - 👉 [Indian Ringneck\u2019s choreography in human steps](http://9gag.com/gag/aRBQ067)<!-- MEMES:END -->
+ - 6️⃣ [Monroe County DA is above the law](http://9gag.com/gag/aE0wgp9)
+ - 😝 [Why god WHYYY](http://9gag.com/gag/a34YRY5)
+ - 👉 [What do you think they meant by misinformation?](http://9gag.com/gag/aE0wBqp)<!-- MEMES:END -->
 
 --- 
 
