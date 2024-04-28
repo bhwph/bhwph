@@ -128,8 +128,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [The best movie trailers for the week of April 21st](https://www.theverge.com/2024/4/28/24143685/best-movie-trailers-week-april-21)
- - [Lawmakers, TikTok staff, and others detail how TikTok lost the war in Washington, including due to CEO Shou Zi Chew&#39;s failure to build support on Capitol Hill &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240428/p6#a240428p6)
- - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)<!-- TECH:END -->
+ - [Nikon Z6 II 4k Camera &lpar;Body Only&rpar;     - CNET](https://www.cnet.com/tech/computing/nikon-z6-ii-4k-camera-body-only-dpnl/#ftag=CAD590a51e)
+ - [GE Profile Smart Smoker     - CNET](https://www.cnet.com/home/kitchen-and-household/ge-profile-smart-smoker-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
