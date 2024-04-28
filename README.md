@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta, Alphabet, and Snap beat analysts&#39; estimates in their Q1 results, showing acceleration in advertising growth after struggling to rebound from a dismal 2022 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240427/p13#a240427p13)
- - [In the first Autonomous Racing League race, the struggle was real](https://www.theverge.com/2024/4/27/24142989/a2rl-autonomous-race-cars-f1-abu-dhabi)
- - [TikTok users with stigmatized interests or marginalized identities express anxiety over its potential ban, as rebuilding their communities elsewhere may be hard &lpar;Washington Post&rpar;](http://www.techmeme.com/240427/p12#a240427p12)<!-- TECH:END -->
+ - [India&#39;s top five IT services companies, including Infosys and Wipro, collectively saw a decline of 69,167 employees in FY 2024; HCLTech added 1,537 employees &lpar;Debangana Ghosh/Moneycontrol&rpar;](http://www.techmeme.com/240428/p1#a240428p1)
+ - [Today&#39;s Wordle Hints and Answer: Help for April 28, #1044     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-28-1044/#ftag=CAD590a51e)
+ - [The Air Up Water Bottle Uses Smell to Make Water Tastier. Here&#39;s My Verdict     - CNET](https://www.cnet.com/health/the-air-up-water-bottle-uses-smell-to-make-water-tastier-heres-my-verdict/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
