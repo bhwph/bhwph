@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kirsten Dunst spells out the meaning of Civil War in one wordless moment](https://www.polygon.com/24140201/alex-garland-civil-war-movie-meaning-kirsten-dunst)
- - [The Best Mario Kart 8 Builds, Surviving And Thriving In Fallout 76, And More Tips For The Week](https://kotaku.com/mario-kart-8-fallout-76-builds-tips-guides-1851438695)
- - [Why is it so difficult to play Fallout games on PC right now?](https://www.polygon.com/24141738/fallout-games-pc-difficult-in-2024-new-vegas-mods)<!-- GAME:END -->
+ - [Marvel’s Iman Vellani dishes on her love of Attack on Titan](https://www.polygon.com/anime/24141496/anime-iman-vellani-attack-on-titan-studio-ghibli-interview)
+ - [Stellar Blade, Tales Of Kenzera: Zau, And More Of This Week&#39;s Reviews](https://kotaku.com/tales-kenzera-zau-review-another-crabs-treasure-1851438697)
+ - [If you loved Shōgun, keep the historical Japan vibes going with these games](https://www.polygon.com/24138602/games-like-shogun-shadow-tactics-total-war-shogun-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
