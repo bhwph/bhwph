@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 dummy units show off gargantuan size of Pro Max, new camera modules](https://www.androidauthority.com/iphone-16-dummy-units-3438018/)
- - [Amazon discounts the Apple Studio Display to $1,299 &lpar;$300 off&rpar;](https://appleinsider.com/articles/24/04/28/amazon-discounts-the-apple-studio-display-to-1299-300-off?utm_medium=rss)
- - [Finally, the Play Store can download two apps at once](https://www.androidauthority.com/google-play-store-two-downloads-3438010/)<!-- TECH:END -->
+ - [The best movie trailers for the week of April 21st](https://www.theverge.com/2024/4/28/24143685/best-movie-trailers-week-april-21)
+ - [Lawmakers, TikTok staff, and others detail how TikTok lost the war in Washington, including due to CEO Shou Zi Chew&#39;s failure to build support on Capitol Hill &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240428/p6#a240428p6)
+ - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
