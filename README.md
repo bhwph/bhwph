@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, April 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-28-2024)
- - [Remembering the weird HeroQuest novel that combined Beowulf, Discworld, Dying Earth, and American Psycho](https://www.pcgamer.com/games/board-games/remembering-the-weird-heroquest-novel-that-combined-beowulf-discworld-dying-earth-and-american-psycho)
- - [YouTube&#39;s been experimenting with ads that play while your video is paused](https://www.pcgamer.com/gaming-industry/youtubes-been-experimenting-with-ads-that-play-while-your-video-is-paused)<!-- GAME:END -->
+ - [Kirsten Dunst spells out the meaning of Civil War in one wordless moment](https://www.polygon.com/24140201/alex-garland-civil-war-movie-meaning-kirsten-dunst)
+ - [The Best Mario Kart 8 Builds, Surviving And Thriving In Fallout 76, And More Tips For The Week](https://kotaku.com/mario-kart-8-fallout-76-builds-tips-guides-1851438695)
+ - [Why is it so difficult to play Fallout games on PC right now?](https://www.polygon.com/24141738/fallout-games-pc-difficult-in-2024-new-vegas-mods)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
