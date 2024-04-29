@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deals: Best Buy slashes iPad Air 5 to $399.99, Apple Pencil 2 drops to $79](https://appleinsider.com/articles/24/04/29/flash-deals-best-buy-slashes-ipad-air-5-to-39999-apple-pencil-2-drops-to-79?utm_medium=rss)
- - [14 Best Laptop Stands &lpar;2024&rpar;: Adjustable, Portable, Lap Desks](https://www.wired.com/gallery/best-laptop-stands/)
- - [A look at the rise of Mustafa Suleyman and Demis Hassabis, two of the most powerful AI executives, who grew up in London and met at Queen Elizabeth&#39;s School &lpar;New York Times&rpar;](http://www.techmeme.com/240429/p15#a240429p15)<!-- TECH:END -->
+ - [What to expect in iOS 18: AI, new look, redesigned stock apps, and more](https://appleinsider.com/articles/24/04/29/what-to-expect-in-ios-18-ai-new-look-redesigned-stock-apps-and-more?utm_medium=rss)
+ - [Retro gold rush: these emulators are coming to the App Store soon](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [Apple&#39;s iPad doesn&#39;t meet DMA criteria, but is getting regulated by the EU anyway](https://appleinsider.com/articles/24/04/29/apples-ipad-doesnt-yet-meet-the-dma-criteria-but-is-getting-regulated-by-the-eu-anyway?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
