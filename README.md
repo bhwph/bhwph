@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deal yet drops on the Google Pixel Watch 2](https://www.androidauthority.com/deal-google-pixel-watch-2-3438026/)
- - [Glestain Gyuto Chef’s Knife Review: The Dimples Do Work](https://www.wired.com/review/glestain-gyuto/)
- - [The legal challenges that lie ahead for TikTok — in both the US and China](https://www.theverge.com/24141539/tiktok-ban-bytedance-china-dc-circuit-supreme-court)<!-- TECH:END -->
+ - [Flash deals: Best Buy slashes iPad Air 5 to $399.99, Apple Pencil 2 drops to $79](https://appleinsider.com/articles/24/04/29/flash-deals-best-buy-slashes-ipad-air-5-to-39999-apple-pencil-2-drops-to-79?utm_medium=rss)
+ - [14 Best Laptop Stands &lpar;2024&rpar;: Adjustable, Portable, Lap Desks](https://www.wired.com/gallery/best-laptop-stands/)
+ - [A look at the rise of Mustafa Suleyman and Demis Hassabis, two of the most powerful AI executives, who grew up in London and met at Queen Elizabeth&#39;s School &lpar;New York Times&rpar;](http://www.techmeme.com/240429/p15#a240429p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
