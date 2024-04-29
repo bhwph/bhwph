@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
- - 😝 [I see what you did there..](http://9gag.com/gag/a34YRzQ)
- - 👉 [He went hardcore!](http://9gag.com/gag/a87W57O)<!-- MEMES:END -->
+ - 6️⃣ [Clickbait](http://9gag.com/gag/aXPboGd)
+ - 😝 [Smart Move](http://9gag.com/gag/aE0wpQn)
+ - 👉 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)<!-- MEMES:END -->
 
 --- 
 
