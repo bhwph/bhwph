@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do you even soy, bro?](http://9gag.com/gag/apRqNeW)
- - 😝 [It will be a good gif when they attack again](http://9gag.com/gag/awyrMqQ)
- - 👉 [We were too young to understand](http://9gag.com/gag/aE0wgWe)<!-- MEMES:END -->
+ - 6️⃣ [Government surveillance ? \u201cThe only people who should worry are those who are doing something immoral or illegal.\u201d](http://9gag.com/gag/aByKmjD)
+ - 😝 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
+ - 👉 [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)<!-- MEMES:END -->
 
 --- 
 
