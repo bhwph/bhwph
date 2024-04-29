@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Return to the Pridelands with the first trailer for Mufasa: The Lion King](https://www.polygon.com/24144281/mufasa-trailer-lion-king-prequel-release-date)
- - [Where to find the &#39;keep surrounded by mountains&#39; in Total War: Warhammer 3 Thrones of Decay](https://www.pcgamer.com/games/strategy/total-war-warhammer-3-elspeth-s-visions-keep-location)
- - [Total War: Warhammer 3&#39;s Thrones of Decay is a gunpowder and steel adventure that puts the Empire and Dwarfs back on top](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-thrones-of-decay-is-a-gunpowder-and-steel-adventure-that-puts-the-empire-and-dwarfs-back-on-top)<!-- GAME:END -->
+ - [Nothing&#39;s made me want to reject modernity more than this videogame scholar documenting the installers of yesteryear](https://www.pcgamer.com/software/nothings-made-me-want-to-reject-modernity-more-than-this-videogame-scholar-documenting-the-game-installers-of-yesteryear)
+ - [Walton Goggins reveals that parts of the Fallout show were filmed at a diamond mine where &#39;there&#39;s still diamonds on the ground&#39;](https://www.pcgamer.com/hardware/streaming/walton-goggins-reveals-that-parts-of-the-fallout-show-were-filmed-at-a-diamond-mine-where-theres-still-diamonds-on-the-ground)
+ - [This Indie Game Captures The Oddly Beautiful Liminality Of Pools](https://kotaku.com/pools-indie-game-liminal-spaces-backrooms-pc-steam-1851442585)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
