@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dragon&#39;s Dogma 2 looks drastically different with path-tracing enabled thanks to a mod](https://www.pcgamer.com/games/rpg/dragons-dogma-2-looks-drastically-different-with-path-tracing-enabled-thank-to-a-mod)
  - [Escape From Tarkov dev finally caves, says people who paid $150 for the game will get access to its new mode &#39;in waves&#39;](https://www.pcgamer.com/games/fps/escape-from-tarkov-dev-finally-caves-says-people-who-paid-dollar150-will-get-access-to-its-new-mode-in-waves)
- - [You may be kicking yourself for deleting Destiny guns that are all of a sudden viable again, but one of the game&#39;s biggest YouTubers has been Marie Kondo-ing his friends&#39; arsenals on camera for years](https://www.pcgamer.com/games/fps/you-may-be-kicking-yourself-for-deleting-destiny-guns-that-are-all-of-a-sudden-viable-again-but-one-of-the-games-biggest-youtubers-has-been-marie-kondo-ing-his-friends-arsenals-on-camera-for-years)
- - [Continuing the Fallout bonanza, Humble is offering $238 of the Wasteland Warfare tabletop game&#39;s digital sourcebooks and accessories for $18](https://www.pcgamer.com/games/fallout/continuing-the-fallout-bonanza-humble-is-offering-dollar238-of-the-wasteland-warfare-tabletop-games-digital-sourcebooks-and-accessories-for-dollar18)<!-- GAME:END -->
+ - [You may be kicking yourself for deleting Destiny guns that are all of a sudden viable again, but one of the game&#39;s biggest YouTubers has been Marie Kondo-ing his friends&#39; arsenals on camera for years](https://www.pcgamer.com/games/fps/you-may-be-kicking-yourself-for-deleting-destiny-guns-that-are-all-of-a-sudden-viable-again-but-one-of-the-games-biggest-youtubers-has-been-marie-kondo-ing-his-friends-arsenals-on-camera-for-years)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
