@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peacock is getting a $2 price increase](https://www.theverge.com/2024/4/29/24144507/peacock-premium-price-increase)
- - [New iPad Pro models will get the best OLED tablet display ever made](https://appleinsider.com/articles/24/04/29/new-ipad-pro-models-will-get-the-best-oled-tablet-display-ever-made?utm_medium=rss)
- - [Meta had its biggest lobbying quarter ever](https://www.theverge.com/2024/4/29/24144333/meta-record-lobbying-q1-2024-us-government-big-tech)<!-- TECH:END -->
+ - [iPad at war: How the iPad is crucial to the Ukraine war effort](https://appleinsider.com/articles/24/04/29/ipad-at-war-how-the-ipad-is-crucial-to-the-ukraine-war-effort?utm_medium=rss)
+ - [FCC fines T-Mobile $80M, AT&amp;T $57M, and Verizon $47M for allegedly illegally sharing customers&#39; location data to aggregators &quot;without customer consent&quot; &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240429/p23#a240429p23)
+ - [Paramount CEO Bob Bakish steps down as merger inches closer](https://www.theverge.com/2024/4/29/24144670/paramount-ceo-bob-bakish-stepping-down-merger-skydance)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
