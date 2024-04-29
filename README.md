@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Escape From Tarkov wiped out years of goodwill in one catastrophic week](https://www.pcgamer.com/games/fps/how-escape-from-tarkov-wiped-out-years-of-goodwill-in-one-catastrophic-week)
- - [One Manor Lords player survived a battle so epic he decided to create a fake Wikipedia article about it](https://www.pcgamer.com/games/city-builder/one-manor-lords-player-survived-a-battle-so-epic-he-decided-to-create-a-fake-wikipedia-article-about-it)
- - [How to upgrade burgage plots in Manor Lords](https://www.pcgamer.com/games/city-builder/manor-lords-how-to-upgrade-burgage-plots)<!-- GAME:END -->
+ - [Return to the Pridelands with the first trailer for Mufasa: The Lion King](https://www.polygon.com/24144281/mufasa-trailer-lion-king-prequel-release-date)
+ - [Where to find the &#39;keep surrounded by mountains&#39; in Total War: Warhammer 3 Thrones of Decay](https://www.pcgamer.com/games/strategy/total-war-warhammer-3-elspeth-s-visions-keep-location)
+ - [Total War: Warhammer 3&#39;s Thrones of Decay is a gunpowder and steel adventure that puts the Empire and Dwarfs back on top](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-thrones-of-decay-is-a-gunpowder-and-steel-adventure-that-puts-the-empire-and-dwarfs-back-on-top)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
