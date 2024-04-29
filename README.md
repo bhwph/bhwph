@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Clickbait](http://9gag.com/gag/aXPboGd)
+ - 6️⃣ [When you get cancelled on](http://9gag.com/gag/aByK2eN)
  - 😝 [Smart Move](http://9gag.com/gag/aE0wpQn)
  - 👉 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)<!-- MEMES:END -->
 
