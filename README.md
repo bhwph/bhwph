@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 could finally overhaul some of the iPhone’s most used apps](https://www.androidauthority.com/ios-18-overhaul-apps-rumor-3438054/)
- - [Feeling blue? Nothing has a new Phone 2a variant for you](https://www.androidauthority.com/nothing-phone-2a-blue-color-3438072/)
- - [An interview with Grindr CEO George Arison on online safety, a mass data protection lawsuit against the app in the UK, plans for increasing ad revenue, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240429/p6#a240429p6)<!-- TECH:END -->
+ - [HomePod and HomePod mini finally launch in Thailand and Malaysia](https://appleinsider.com/articles/24/04/29/homepod-and-homepod-mini-finally-launch-in-thailand-and-malaysia?utm_medium=rss)
+ - [Apple Pencil 3 could outdo Samsung’s S Pen with key upgrades](https://www.androidauthority.com/apple-pencil-3-key-upgrades-rumor-3438093/)
+ - [The European Commission designates iPadOS under the DMA, giving Apple six months to comply; iOS, the App Store, and Safari are already DMA designated &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240429/p9#a240429p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
