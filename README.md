@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese officials have told Tesla that Beijing has tentatively approved the company&#39;s plan to launch its Full Self-Driving software in the country &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240429/p4#a240429p4)
- - [Why China Is So Bad at Disinformation](https://www.wired.com/story/china-bad-at-disinformation/)
- - [The second AI summit, a primarily virtual event in Seoul on May 21 and May 22, faces challenges, as sources say far few leaders and ministers are set to attend &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/240429/p3#a240429p3)<!-- TECH:END -->
+ - [iOS 18 could finally overhaul some of the iPhone’s most used apps](https://www.androidauthority.com/ios-18-overhaul-apps-rumor-3438054/)
+ - [Feeling blue? Nothing has a new Phone 2a variant for you](https://www.androidauthority.com/nothing-phone-2a-blue-color-3438072/)
+ - [An interview with Grindr CEO George Arison on online safety, a mass data protection lawsuit against the app in the UK, plans for increasing ad revenue, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240429/p6#a240429p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
