@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld reveals 4 of the &#39;many more&#39; new Pals coming in its summer update](https://www.pcgamer.com/games/survival-crafting/palworld-reveals-4-of-the-many-more-new-pals-coming-in-its-summer-update)
- - [&#39;Most ambitious&#39; Vampire Survivors update yet features &#39;immersive door opening action&#39; and &#39;world premiere train mechanics&#39;](https://www.pcgamer.com/games/roguelike/vampire-survivors-1.10-patch-notes)
- - [Manor Lords players delighted to discover a villager with an NSFW name, but the developer says it&#39;s historically accurate](https://www.pcgamer.com/games/city-builder/manor-lords-players-delighted-to-discover-a-villager-with-an-nsfw-name-but-the-developer-says-its-historically-accurate)<!-- GAME:END -->
+ - [Starfield&#39;s first expansion, Shattered Space, will be out this fall](https://www.pcgamer.com/games/rpg/starfields-first-expansion-shattered-space-will-be-out-this-fall)
+ - [Bethesda beefing it with a calamitous &#39;next-gen&#39; Fallout 4 update just as everyone&#39;s falling in love with Fallout again is the most Bethesda thing imaginable](https://www.pcgamer.com/games/rpg/bethesda-beefing-it-with-a-calamitous-next-gen-fallout-4-update-just-as-everyones-falling-in-love-with-fallout-again-is-the-most-bethesda-thing-imaginable)
+ - [Todd Howard On Fallout 76 Crossplay And Cross-Progression](https://kotaku.com/fallout-76-cross-play-save-progression-todd-howard-pc-1851444203)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
