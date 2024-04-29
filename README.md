@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect in iOS 18: AI, new look, redesigned stock apps, and more](https://appleinsider.com/articles/24/04/29/what-to-expect-in-ios-18-ai-new-look-redesigned-stock-apps-and-more?utm_medium=rss)
- - [Retro gold rush: these emulators are coming to the App Store soon](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Apple&#39;s iPad doesn&#39;t meet DMA criteria, but is getting regulated by the EU anyway](https://appleinsider.com/articles/24/04/29/apples-ipad-doesnt-yet-meet-the-dma-criteria-but-is-getting-regulated-by-the-eu-anyway?utm_medium=rss)<!-- TECH:END -->
+ - [Peacock is getting a $2 price increase](https://www.theverge.com/2024/4/29/24144507/peacock-premium-price-increase)
+ - [New iPad Pro models will get the best OLED tablet display ever made](https://appleinsider.com/articles/24/04/29/new-ipad-pro-models-will-get-the-best-oled-tablet-display-ever-made?utm_medium=rss)
+ - [Meta had its biggest lobbying quarter ever](https://www.theverge.com/2024/4/29/24144333/meta-record-lobbying-q1-2024-us-government-big-tech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
