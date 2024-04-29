@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It should&#39;ve been me](http://9gag.com/gag/aGy9zY7)
- - 😝 [Real vs. Fake](http://9gag.com/gag/arypgB0)
- - 👉 [Live slot machine](http://9gag.com/gag/aRBQXVM)<!-- MEMES:END -->
+ - 6️⃣ [Do you even soy, bro?](http://9gag.com/gag/apRqNeW)
+ - 😝 [It will be a good gif when they attack again](http://9gag.com/gag/awyrMqQ)
+ - 👉 [We were too young to understand](http://9gag.com/gag/aE0wgWe)<!-- MEMES:END -->
 
 --- 
 
