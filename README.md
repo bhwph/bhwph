@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This guy, son of a big politician allegedly raped many women, kept their videos. After the videos became viral has fled to Germany. In case if you see him greet him nicely](http://9gag.com/gag/aVvOwoM)
- - 😝 [In 2001, a Yakuza mob boss named Tadamasa Goto gave a $100,000 donation to UCLA. In exchange, they gave him a liver transplant, allowing him to jump the queue. That same year, 186 people in the Los Angeles area died while waiting for a liver transplant. The FBI was also involved.](http://9gag.com/gag/abA5MZO)
- - 👉 [Which of the 3 were you??](http://9gag.com/gag/adBNLYD)<!-- MEMES:END -->
+ - 6️⃣ [Why god WHYYY](http://9gag.com/gag/a34YRY5)
+ - 😝 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
+ - 👉 [If buying isn&#39;t owning, pirating isn&#39;t stealing](http://9gag.com/gag/adBN82j)<!-- MEMES:END -->
 
 --- 
 
