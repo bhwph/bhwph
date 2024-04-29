@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with MongoDB CEO Dev Ittycheria on leading the company for a decade, the evolution of databases, AI hype, transitioning to a SaaS model, and more &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240428/p9#a240428p9)
- - [Today&#39;s NYT Connections Hints and Answer: Help for April 29, #323     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hint-answerfor-april-29-323/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for April 29, #1045     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-29-1045/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Chinese officials have told Tesla that Beijing has tentatively approved the company&#39;s plan to launch its Full Self-Driving software in the country &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240429/p4#a240429p4)
+ - [Why China Is So Bad at Disinformation](https://www.wired.com/story/china-bad-at-disinformation/)
+ - [The second AI summit, a primarily virtual event in Seoul on May 21 and May 22, faces challenges, as sources say far few leaders and ministers are set to attend &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/240429/p3#a240429p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
