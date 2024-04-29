@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Give your handheld a little extra space with these SSD deals](https://www.polygon.com/deals/24144343/nintendo-switch-steam-deck-storage-sd-card-ssd-deal-sale)
- - [IGN x ID@Xbox Digital Showcase – See Everything We Showed in Our Second Edition](https://news.xbox.com/en-us/2024/04/29/ign-x-idxbox-digital-showcase-recap-2024/)
- - [The Bad Batch finale, Hacks season 3, and more new TV this week](https://www.polygon.com/2024/4/29/24121601/new-tv-netflix-letterman-bad-batch-hacks-chucky)<!-- GAME:END -->
+ - [Palworld reveals 4 of the &#39;many more&#39; new Pals coming in its summer update](https://www.pcgamer.com/games/survival-crafting/palworld-reveals-4-of-the-many-more-new-pals-coming-in-its-summer-update)
+ - [&#39;Most ambitious&#39; Vampire Survivors update yet features &#39;immersive door opening action&#39; and &#39;world premiere train mechanics&#39;](https://www.pcgamer.com/games/roguelike/vampire-survivors-1.10-patch-notes)
+ - [Manor Lords players delighted to discover a villager with an NSFW name, but the developer says it&#39;s historically accurate](https://www.pcgamer.com/games/city-builder/manor-lords-players-delighted-to-discover-a-villager-with-an-nsfw-name-but-the-developer-says-its-historically-accurate)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
