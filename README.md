@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad at war: How the iPad is crucial to the Ukraine war effort](https://appleinsider.com/articles/24/04/29/ipad-at-war-how-the-ipad-is-crucial-to-the-ukraine-war-effort?utm_medium=rss)
- - [FCC fines T-Mobile $80M, AT&amp;T $57M, and Verizon $47M for allegedly illegally sharing customers&#39; location data to aggregators &quot;without customer consent&quot; &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240429/p23#a240429p23)
- - [Paramount CEO Bob Bakish steps down as merger inches closer](https://www.theverge.com/2024/4/29/24144670/paramount-ceo-bob-bakish-stepping-down-merger-skydance)<!-- TECH:END -->
+ - [FCC just fined major carriers $200 million for selling customer location data](https://www.androidauthority.com/fcc-fined-major-carriers-3438344/)
+ - [NIST launches a new program to assess generative AI technologies, with plans to release benchmarks, help create &quot;content authenticity&quot; detection tech, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240429/p25#a240429p25)
+ - [Apple starts replacing titanium Apple Cards from original 2019 batch](https://appleinsider.com/articles/24/04/29/apple-starts-replacing-titanium-apple-cards-from-original-2019-batch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
