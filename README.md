@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - 😝 [Give you a shot](http://9gag.com/gag/aLnK0zz)
+ - 6️⃣ [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
+ - 😝 [I see what you did there..](http://9gag.com/gag/a34YRzQ)
  - 👉 [He went hardcore!](http://9gag.com/gag/a87W57O)<!-- MEMES:END -->
 
 --- 
