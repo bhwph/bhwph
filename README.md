@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Phone cooler makers need to chill with all the ice](https://www.theverge.com/2024/4/28/24143845/phone-cooler-fans-ice-graphics)
- - [House of the Dragon season 2: Release date, plot, and other rumors](https://www.androidauthority.com/house-of-the-dragon-season-2-release-date-3438034/)
- - [AI is making Meta&#39;s apps basically unusable, as the company adds Meta AI everywhere and viral user-generated AI images proliferate on Facebook and Instagram &lpar;Scott Nover/Fast Company&rpar;](http://www.techmeme.com/240428/p7#a240428p7)<!-- TECH:END -->
+ - [Akamai: US Post Office phishing sites got significantly more DNS queries, cumulatively, than the legitimate website during some weeks of the 2023 holiday season &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240428/p8#a240428p8)
+ - [New iPhone 16 leak blows the cover off of screen sizes &amp; camera bump](https://appleinsider.com/articles/24/04/28/iphone-16-screen-sizes-allegedly-revealed-in-new-leak?utm_medium=rss)
+ - [Crime blotter: NYPD officer acquitted for 2021 punch in Apple Store](https://appleinsider.com/articles/24/04/28/crime-blotter-nypd-officer-acquitted-for-2021-punch-in-apple-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
