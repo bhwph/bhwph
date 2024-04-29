@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HomePod and HomePod mini finally launch in Thailand and Malaysia](https://appleinsider.com/articles/24/04/29/homepod-and-homepod-mini-finally-launch-in-thailand-and-malaysia?utm_medium=rss)
- - [Apple Pencil 3 could outdo Samsung’s S Pen with key upgrades](https://www.androidauthority.com/apple-pencil-3-key-upgrades-rumor-3438093/)
- - [The European Commission designates iPadOS under the DMA, giving Apple six months to comply; iOS, the App Store, and Safari are already DMA designated &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240429/p9#a240429p9)<!-- TECH:END -->
+ - [Best deal yet drops on the Google Pixel Watch 2](https://www.androidauthority.com/deal-google-pixel-watch-2-3438026/)
+ - [Glestain Gyuto Chef’s Knife Review: The Dimples Do Work](https://www.wired.com/review/glestain-gyuto/)
+ - [The legal challenges that lie ahead for TikTok — in both the US and China](https://www.theverge.com/24141539/tiktok-ban-bytedance-china-dc-circuit-supreme-court)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
