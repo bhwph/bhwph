@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait...What?!](http://9gag.com/gag/aKGz7wb)
- - 😝 [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)
- - 👉 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)<!-- MEMES:END -->
+ - 6️⃣ [This guy, son of a big politician allegedly raped many women, kept their videos. After the videos became viral has fled to Germany. In case if you see him greet him nicely](http://9gag.com/gag/aVvOwoM)
+ - 😝 [In 2001, a Yakuza mob boss named Tadamasa Goto gave a $100,000 donation to UCLA. In exchange, they gave him a liver transplant, allowing him to jump the queue. That same year, 186 people in the Los Angeles area died while waiting for a liver transplant. The FBI was also involved.](http://9gag.com/gag/abA5MZO)
+ - 👉 [Which of the 3 were you??](http://9gag.com/gag/adBNLYD)<!-- MEMES:END -->
 
 --- 
 
