@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nothing&#39;s made me want to reject modernity more than this videogame scholar documenting the installers of yesteryear](https://www.pcgamer.com/software/nothings-made-me-want-to-reject-modernity-more-than-this-videogame-scholar-documenting-the-game-installers-of-yesteryear)
- - [Walton Goggins reveals that parts of the Fallout show were filmed at a diamond mine where &#39;there&#39;s still diamonds on the ground&#39;](https://www.pcgamer.com/hardware/streaming/walton-goggins-reveals-that-parts-of-the-fallout-show-were-filmed-at-a-diamond-mine-where-theres-still-diamonds-on-the-ground)
- - [This Indie Game Captures The Oddly Beautiful Liminality Of Pools](https://kotaku.com/pools-indie-game-liminal-spaces-backrooms-pc-steam-1851442585)<!-- GAME:END -->
+ - [Give your handheld a little extra space with these SSD deals](https://www.polygon.com/deals/24144343/nintendo-switch-steam-deck-storage-sd-card-ssd-deal-sale)
+ - [IGN x ID@Xbox Digital Showcase – See Everything We Showed in Our Second Edition](https://news.xbox.com/en-us/2024/04/29/ign-x-idxbox-digital-showcase-recap-2024/)
+ - [The Bad Batch finale, Hacks season 3, and more new TV this week](https://www.polygon.com/2024/4/29/24121601/new-tv-netflix-letterman-bad-batch-hacks-chucky)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
