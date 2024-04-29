@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Superior tactics](http://9gag.com/gag/aZZPr3W)
- - 😝 [Do you even soy, bro?](http://9gag.com/gag/apRqNeW)
- - 👉 [Years ago I was seeing these type of pictures on 9GAG. I guess it\u2019s my turn now. Germany - fresh start.](http://9gag.com/gag/aPAvZGP)<!-- MEMES:END -->
+ - 6️⃣ [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
+ - 😝 [Give you a shot](http://9gag.com/gag/aLnK0zz)
+ - 👉 [He went hardcore!](http://9gag.com/gag/a87W57O)<!-- MEMES:END -->
 
 --- 
 
