@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sea of Thieves’ newest update includes 7 hilarious tools](https://www.polygon.com/24145505/sea-of-thieves-season-twelve-update-playstation-launch)
- - [5 beginner&#39;s tips for Echoes of the Plum Grove to help you survive your first season in Honeywood](https://www.pcgamer.com/games/life-sim/5-beginners-tips-for-echoes-of-the-plum-grove-to-help-you-survive-your-first-season-in-honeywood)
- - [Honkai: Star Rail’s Sentient Capybara Is Everything To Me](https://kotaku.com/honkai-star-rail-hoyoverse-cosmodyssey-capybara-1851446618)<!-- GAME:END -->
+ - [Front Mission 2: Remake is Available Now on Xbox](https://news.xbox.com/en-us/2024/04/30/front-mission-2-remake-is-available-now-on-xbox/)
+ - [Fallout 76’s Great Community Makes It The Next Logical Step For Fans Of The Show](https://kotaku.com/fallout-76-best-community-amazon-show-1851447060)
+ - [Halo Infinite’s Operation: Banished Honor Is Live! Dive Into 20 Tiers of Customization Rewards and Spartan Points](https://www.halowaypoint.com/news/banished-honor-operation-launch#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
