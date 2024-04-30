@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Front Mission 2: Remake is Available Now on Xbox](https://news.xbox.com/en-us/2024/04/30/front-mission-2-remake-is-available-now-on-xbox/)
- - [Fallout 76’s Great Community Makes It The Next Logical Step For Fans Of The Show](https://kotaku.com/fallout-76-best-community-amazon-show-1851447060)
- - [Halo Infinite’s Operation: Banished Honor Is Live! Dive Into 20 Tiers of Customization Rewards and Spartan Points](https://www.halowaypoint.com/news/banished-honor-operation-launch#new_tab)<!-- GAME:END -->
+ - [Sam Raimi’s Spider-Man trilogy has the strongest moral arc in superhero movies](https://www.polygon.com/23043438/best-spider-man-movies-sam-raimi-explained-theaters)
+ - [&#39;New Vegas is a very, very important game to us,&#39; says mildly exasperated Todd Howard, who will never stop getting grilled about New Vegas](https://www.pcgamer.com/games/rpg/fallout/todd-howard-new-vegas-obsidian-show)
+ - [Where to find Archie in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24138396/archie-location-where-in-the-system-tower)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
