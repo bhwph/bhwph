@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is it](http://9gag.com/gag/a87WEA6)
- - 😝 [That&#39;s how you impress men](http://9gag.com/gag/aAyYGWZ)
- - 👉 [He ate them all](http://9gag.com/gag/aW4ZG4n)<!-- MEMES:END -->
+ - 6️⃣ [This is LIBRARY!](http://9gag.com/gag/awyrMAy)
+ - 😝 [You mustn&#39;t](http://9gag.com/gag/a6ZwK0N)
+ - 👉 [I know... But this is t*ts.](http://9gag.com/gag/a0e9ZVq)<!-- MEMES:END -->
 
 --- 
 
