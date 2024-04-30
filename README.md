@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Polish health care at its best](http://9gag.com/gag/aNDeLr0)
- - 😝 [Heroes still exist](http://9gag.com/gag/agmygmg)
- - 👉 [The design is very human](http://9gag.com/gag/a6ZwqV2)<!-- MEMES:END -->
+ - 6️⃣ [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)
+ - 😝 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
+ - 👉 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)<!-- MEMES:END -->
 
 --- 
 
