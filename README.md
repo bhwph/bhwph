@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Arrest Me](http://9gag.com/gag/aQzqXye)
- - 😝 [New fear unlocked](http://9gag.com/gag/agmygzw)
- - 👉 [Swiss: They are mocking Swiss elderly man for standing up against them](http://9gag.com/gag/aQzq1GK)<!-- MEMES:END -->
+ - 6️⃣ [This is it](http://9gag.com/gag/a87WEA6)
+ - 😝 [That&#39;s how you impress men](http://9gag.com/gag/aAyYGWZ)
+ - 👉 [He ate them all](http://9gag.com/gag/aW4ZG4n)<!-- MEMES:END -->
 
 --- 
 
