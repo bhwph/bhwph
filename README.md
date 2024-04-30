@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Stardew Valley-like farms while you work](https://www.polygon.com/gaming/24145363/stardew-valley-like-idle-farming-sim-rustys-retirement)
- - [Alan Tudyk On Game Adaptations &amp; Voicing Hapless Halo Characters](https://kotaku.com/resident-alien-alan-tudyk-halo-3-odst-nathan-fillion-1851443595)
- - [Stellar Blade Combat Tips To Become The Best &lpar;And Prettiest&rpar; Sword Swinger](https://kotaku.com/stellar-blade-combat-tips-demo-parry-blink-1851416441)<!-- GAME:END -->
+ - [Sea of Thieves’ newest update includes 7 hilarious tools](https://www.polygon.com/24145505/sea-of-thieves-season-twelve-update-playstation-launch)
+ - [5 beginner&#39;s tips for Echoes of the Plum Grove to help you survive your first season in Honeywood](https://www.pcgamer.com/games/life-sim/5-beginners-tips-for-echoes-of-the-plum-grove-to-help-you-survive-your-first-season-in-honeywood)
+ - [Honkai: Star Rail’s Sentient Capybara Is Everything To Me](https://kotaku.com/honkai-star-rail-hoyoverse-cosmodyssey-capybara-1851446618)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
