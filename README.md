@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)
- - 😝 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
- - 👉 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)<!-- MEMES:END -->
+ - 6️⃣ [Clickbait](http://9gag.com/gag/aXPboGd)
+ - 😝 [Matisse, a young French teenager, killed in France by young afghan and his mother. He stabbed him in the heart. The mother slapped him as he was dying. Why nobody reacts ?](http://9gag.com/gag/aQzqEv2)
+ - 👉 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)<!-- MEMES:END -->
 
 --- 
 
