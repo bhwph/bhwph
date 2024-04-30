@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Miyazaki’s The Boy and the Heron gets fancy 4K Blu-ray treatment this summer](https://www.polygon.com/24145214/boy-heron-watch-4k-miyazaki-where-to-stream-steelbook)
- - [Studios are sacrificing 2024’s blockbuster movies to boost 2025’s box office](https://www.polygon.com/24144727/2024-movie-release-schedule-blockbusters-2025-box-office)
- - [Xbox Games Showcase Followed by [REDACTED] Direct Airs June 9](https://news.xbox.com/en-us/2024/04/30/xbox-games-showcase-2024-redacted-direct/)<!-- GAME:END -->
+ - [This Stardew Valley-like farms while you work](https://www.polygon.com/gaming/24145363/stardew-valley-like-idle-farming-sim-rustys-retirement)
+ - [Alan Tudyk On Game Adaptations &amp; Voicing Hapless Halo Characters](https://kotaku.com/resident-alien-alan-tudyk-halo-3-odst-nathan-fillion-1851443595)
+ - [Stellar Blade Combat Tips To Become The Best &lpar;And Prettiest&rpar; Sword Swinger](https://kotaku.com/stellar-blade-combat-tips-demo-parry-blink-1851416441)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
