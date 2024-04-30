@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I know... But this is t*ts.](http://9gag.com/gag/a0e9ZVq)
- - 😝 [Arrest Me](http://9gag.com/gag/aQzqXye)
- - 👉 [When you get cancelled on](http://9gag.com/gag/aByK2eN)<!-- MEMES:END -->
+ - 6️⃣ [Polish health care at its best](http://9gag.com/gag/aNDeLr0)
+ - 😝 [Heroes still exist](http://9gag.com/gag/agmygmg)
+ - 👉 [The design is very human](http://9gag.com/gag/a6ZwqV2)<!-- MEMES:END -->
 
 --- 
 
