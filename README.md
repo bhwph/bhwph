@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest OnePlus 10T and 10 Pro updates are all about quality-of-life improvements](https://www.androidauthority.com/oxygenos-update-for-oneplus-10t-3438493/)
- - [Roku plans to start showing video ads on your homescreen](https://www.theverge.com/2024/4/30/24145177/roku-home-screen-video-ads)
- - [Beats Solo 4 headphones review: Great audio quality and features](https://appleinsider.com/articles/24/04/30/beats-solo-4-headphones-review-great-audio-quality-and-features?utm_medium=rss)<!-- TECH:END -->
+ - [Pixel 8A leak reveals $499 starting price](https://www.theverge.com/2024/4/30/24145318/google-pixel-8a-price-leak-battery-details)
+ - [Network security startup Corelight raised a $150M Series E led by Accel, in a deal valuing it at $900M, says it is on track to hit $100M in ARR within months &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240430/p26#a240430p26)
+ - [This app brings Android 15’s new volume panel to any device](https://www.androidauthority.com/get-android-15-volume-panel-3438703/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
