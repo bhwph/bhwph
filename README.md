@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to clear the cache in any browser on any platform](https://www.androidauthority.com/how-to-clear-cache-3071919/)
- - [Microsoft announces plans to invest $1.7B in cloud and AI infrastructure in Indonesia over four years and train 840,000 people with AI skills in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p2#a240430p2)
- - [Best Keto Meal Delivery Services of 2024     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tech journalism is often characterized by scandals, sensationalism, and shoddy research, and publishers are reluctant to invest in it without a clear ROI &lpar;Timothy B. Lee/Asterisk&rpar;](http://www.techmeme.com/240430/p4#a240430p4)
+ - [Microsoft OneDrive finally adds a feature Google Drive has had for years](https://www.androidauthority.com/microsoft-onedrive-offline-mode-3438437/)
+ - [Samsung is betting the future of its smartphone sales on Galaxy AI](https://www.androidauthority.com/samsung-galaxy-ai-investment-3438427/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
