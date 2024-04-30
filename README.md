@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech journalism is often characterized by scandals, sensationalism, and shoddy research, and publishers are reluctant to invest in it without a clear ROI &lpar;Timothy B. Lee/Asterisk&rpar;](http://www.techmeme.com/240430/p4#a240430p4)
- - [Microsoft OneDrive finally adds a feature Google Drive has had for years](https://www.androidauthority.com/microsoft-onedrive-offline-mode-3438437/)
- - [Samsung is betting the future of its smartphone sales on Galaxy AI](https://www.androidauthority.com/samsung-galaxy-ai-investment-3438427/)<!-- TECH:END -->
+ - [Elon Musk goes ‘absolutely hard core’ in another round of Tesla layoffs](https://www.theverge.com/2024/4/30/24145133/tesla-layoffs-supercharger-team-elon-musk-hard-core)
+ - [Internal Oracle documents: ~6,900 workers are assigned to California offices, compared to 2,500 in Texas, despite Oracle moving its HQ to Texas three years ago &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240430/p7#a240430p7)
+ - [The Affordable Connectivity Program Ends Today. Millions of Americans Might Lose Internet Access](https://www.wired.com/story/affordable-connectivity-program-ending/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
