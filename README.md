@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Clefairy be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24144401/can-clefairy-be-shiny-cleffa-clefable)
- - [Today&#39;s Wordle answer for Tuesday, April 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-30-2024)
- - [Razer forced to pay more than $1M in refunds for its RGB &#39;surgical N95 respirators&#39; that were not N95 respirators](https://www.pcgamer.com/hardware/razer-forced-to-pay-more-than-dollar1m-in-refunds-for-its-rgb-surgical-n95-respirators-that-were-not-n95-respirators)<!-- GAME:END -->
+ - [Helldivers 2 players decry broken ricochet changes, then realise it&#39;s probably just shrapnel from the now-deadly Eruptor](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-decry-broken-ricochet-changes-then-realise-its-probably-just-shrapnel-from-the-now-deadly-eruptor)
+ - [Manor Lords seems surprisingly stable for an early access game, and the developer says: &#39;99% crashes so far are old drivers&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-seems-surprisingly-stable-for-an-early-access-game-and-the-developer-says-99-crashes-so-far-are-old-drivers)
+ - [Manor Lords is at its best when &#39;players craft their own stories&#39; and don&#39;t rely on a dev-made tale, which &#39;quickly became repetitive&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-is-at-its-best-when-players-craft-their-own-stories-and-dont-rely-on-a-dev-made-tale-which-quickly-became-repetitive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
