@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 players decry broken ricochet changes, then realise it&#39;s probably just shrapnel from the now-deadly Eruptor](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-decry-broken-ricochet-changes-then-realise-its-probably-just-shrapnel-from-the-now-deadly-eruptor)
- - [Manor Lords seems surprisingly stable for an early access game, and the developer says: &#39;99% crashes so far are old drivers&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-seems-surprisingly-stable-for-an-early-access-game-and-the-developer-says-99-crashes-so-far-are-old-drivers)
- - [Manor Lords is at its best when &#39;players craft their own stories&#39; and don&#39;t rely on a dev-made tale, which &#39;quickly became repetitive&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-is-at-its-best-when-players-craft-their-own-stories-and-dont-rely-on-a-dev-made-tale-which-quickly-became-repetitive)<!-- GAME:END -->
+ - [Miyazaki’s The Boy and the Heron gets fancy 4K Blu-ray treatment this summer](https://www.polygon.com/24145214/boy-heron-watch-4k-miyazaki-where-to-stream-steelbook)
+ - [Studios are sacrificing 2024’s blockbuster movies to boost 2025’s box office](https://www.polygon.com/24144727/2024-movie-release-schedule-blockbusters-2025-box-office)
+ - [Xbox Games Showcase Followed by [REDACTED] Direct Airs June 9](https://news.xbox.com/en-us/2024/04/30/xbox-games-showcase-2024-redacted-direct/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
