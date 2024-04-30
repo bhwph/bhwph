@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield&#39;s first expansion, Shattered Space, will be out this fall](https://www.pcgamer.com/games/rpg/starfields-first-expansion-shattered-space-will-be-out-this-fall)
- - [Bethesda beefing it with a calamitous &#39;next-gen&#39; Fallout 4 update just as everyone&#39;s falling in love with Fallout again is the most Bethesda thing imaginable](https://www.pcgamer.com/games/rpg/bethesda-beefing-it-with-a-calamitous-next-gen-fallout-4-update-just-as-everyones-falling-in-love-with-fallout-again-is-the-most-bethesda-thing-imaginable)
- - [Todd Howard On Fallout 76 Crossplay And Cross-Progression](https://kotaku.com/fallout-76-cross-play-save-progression-todd-howard-pc-1851444203)<!-- GAME:END -->
+ - [Razer forced to pay more than $1M in refunds for its RGB &#39;surgical N95 respirators&#39; that were not N95 respirators](https://www.pcgamer.com/hardware/razer-forced-to-pay-more-than-dollar1m-in-refunds-for-its-rgb-surgical-n95-respirators-that-were-not-n95-respirators)
+ - [Vocaloid queen Hatsune Miku is coming to Magic: The Gathering](https://www.polygon.com/24144527/magic-the-gathering-secret-lair-hatsune-miku-mtg-preorder-price-fan-art)
+ - [That&#39;s rad: with 65 million viewers, the Fallout show is Amazon&#39;s biggest hit since The Rings of Power](https://www.pcgamer.com/movies-tv/thats-rad-with-65-million-viewers-the-fallout-show-is-amazons-biggest-hit-since-the-rings-of-power)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
