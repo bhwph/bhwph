@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The drinking fountain button is tragically misunderstood](https://www.theverge.com/24144774/drinking-fountain-bubbler-button-of-the-month)
- - [Letter from US senators: only five of 14 automakers require police to have a warrant before requesting user data, and only Tesla tells users about such requests &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240430/p35#a240430p35)
- - [Google fired a software engineer over an anti-war demonstration — he says he wasn’t even protesting](https://www.theverge.com/2024/4/30/24145680/google-workers-fired-project-nimbus-protest-nlrb-complaint)<!-- TECH:END -->
+ - [iOS 17.5 beta lets you keep Find My on during iPhone repairs](https://www.theverge.com/2024/4/30/24145803/apple-iphone-repair-state-ios-17-5-beta)
+ - [Coinbase adds support for the Bitcoin Lightning Network via payments startup Lightspark, letting customers transfer bitcoin faster and at a lower cost &lpar;Derek Andersen/Cointelegraph&rpar;](http://www.techmeme.com/240430/p42#a240430p42)
+ - [Apple’s latest AirPods Pro with USB-C have returned to their all-time low](https://www.theverge.com/2024/4/30/24144383/airpods-pro-usb-c-fitbit-charge-6-tracker-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
