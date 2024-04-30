@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 8A leak reveals $499 starting price](https://www.theverge.com/2024/4/30/24145318/google-pixel-8a-price-leak-battery-details)
- - [Network security startup Corelight raised a $150M Series E led by Accel, in a deal valuing it at $900M, says it is on track to hit $100M in ARR within months &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240430/p26#a240430p26)
- - [This app brings Android 15’s new volume panel to any device](https://www.androidauthority.com/get-android-15-volume-panel-3438703/)<!-- TECH:END -->
+ - [&#39;Assassin&#39;s Creed Mirage&#39; sneaks onto iPhone, iPad on June 10](https://appleinsider.com/articles/24/04/30/assassins-creed-mirage-sneaks-onto-iphone-ipad-on-june-10?utm_medium=rss)
+ - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
+ - [SafeBase, which helps companies automate software security reviews using AI, raised a $33M Series B led by Touring Capital, bringing its total funding to $50M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240430/p31#a240430p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
