@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Feast the eyes](http://9gag.com/gag/aZZP056)
- - 😝 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
- - 👉 [Arrest Me](http://9gag.com/gag/aQzqXye)<!-- MEMES:END -->
+ - 6️⃣ [Just use your own gun](http://9gag.com/gag/aVvOwOw)
+ - 😝 [New fear unlocked](http://9gag.com/gag/agmygzw)
+ - 👉 [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)<!-- MEMES:END -->
 
 --- 
 
