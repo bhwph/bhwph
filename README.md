@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Assassin&#39;s Creed Mirage&#39; sneaks onto iPhone, iPad on June 10](https://appleinsider.com/articles/24/04/30/assassins-creed-mirage-sneaks-onto-iphone-ipad-on-june-10?utm_medium=rss)
- - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
- - [SafeBase, which helps companies automate software security reviews using AI, raised a $33M Series B led by Touring Capital, bringing its total funding to $50M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240430/p31#a240430p31)<!-- TECH:END -->
+ - [The drinking fountain button is tragically misunderstood](https://www.theverge.com/24144774/drinking-fountain-bubbler-button-of-the-month)
+ - [Letter from US senators: only five of 14 automakers require police to have a warrant before requesting user data, and only Tesla tells users about such requests &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240430/p35#a240430p35)
+ - [Google fired a software engineer over an anti-war demonstration — he says he wasn’t even protesting](https://www.theverge.com/2024/4/30/24145680/google-workers-fired-project-nimbus-protest-nlrb-complaint)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
