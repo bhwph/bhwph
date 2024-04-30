@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
- - 😝 [Gazans:`we need more humanitarian aid to eat!` US: sending humanitarian aid. Gazans: ...](http://9gag.com/gag/adBNVqM)
- - 👉 [I hope they like waves](http://9gag.com/gag/aNDegjK)<!-- MEMES:END -->
+ - 6️⃣ [Arrest Me](http://9gag.com/gag/aQzqXye)
+ - 😝 [New fear unlocked](http://9gag.com/gag/agmygzw)
+ - 👉 [Swiss: They are mocking Swiss elderly man for standing up against them](http://9gag.com/gag/aQzq1GK)<!-- MEMES:END -->
 
 --- 
 
