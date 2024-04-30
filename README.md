@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Respect](http://9gag.com/gag/a5Qd1YO)
- - 😝 [When you get cancelled on](http://9gag.com/gag/aByK2eN)
- - 👉 [I see what you did there..](http://9gag.com/gag/a34YRzQ)<!-- MEMES:END -->
+ - 6️⃣ [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
+ - 😝 [Gazans:`we need more humanitarian aid to eat!` US: sending humanitarian aid. Gazans: ...](http://9gag.com/gag/adBNVqM)
+ - 👉 [I hope they like waves](http://9gag.com/gag/aNDegjK)<!-- MEMES:END -->
 
 --- 
 
