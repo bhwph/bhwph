@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just use your own gun](http://9gag.com/gag/aVvOwOw)
- - 😝 [New fear unlocked](http://9gag.com/gag/agmygzw)
- - 👉 [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)<!-- MEMES:END -->
+ - 6️⃣ [Respect](http://9gag.com/gag/a5Qd1YO)
+ - 😝 [When you get cancelled on](http://9gag.com/gag/aByK2eN)
+ - 👉 [I see what you did there..](http://9gag.com/gag/a34YRzQ)<!-- MEMES:END -->
 
 --- 
 
