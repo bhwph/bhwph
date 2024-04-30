@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC just fined major carriers $200 million for selling customer location data](https://www.androidauthority.com/fcc-fined-major-carriers-3438344/)
- - [NIST launches a new program to assess generative AI technologies, with plans to release benchmarks, help create &quot;content authenticity&quot; detection tech, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240429/p25#a240429p25)
- - [Apple starts replacing titanium Apple Cards from original 2019 batch](https://appleinsider.com/articles/24/04/29/apple-starts-replacing-titanium-apple-cards-from-original-2019-batch?utm_medium=rss)<!-- TECH:END -->
+ - [Multiple US House aides say ByteDance&#39;s video editing app CapCut could also be subject to the same divest-or-ban requirement as TikTok &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240429/p30#a240429p30)
+ - [Samsung Q1: revenue up 12.81% YoY to ~$52.3B, vs. ~$51.6B est., and operating profit up 932.8% YoY to ~$4.8B, vs. ~$4.3B est., as memory chip prices rebounded &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240429/p29#a240429p29)
+ - [NBCUniversal plans to raise Peacock Premium with ads by $2 to $7.99/month and Premium Plus by $2 to $13.99/month starting July 18, its second hike in two years &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240429/p28#a240429p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
