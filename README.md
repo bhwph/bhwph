@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU probe targets Facebook and Instagram amid spike in Russian disinformation](https://www.theverge.com/2024/4/30/24145165/meta-facebook-instagram-eu-investigation-dsa-russian-disinformation)
- - [Enterprise browser startup Island raised $175M led by Sequoia and Coatue at a $3B valuation, up from $1.5B in October 2023, taking its total funding to $487M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240430/p15#a240430p15)
- - [Acer Nitro 17 &lpar;2024, AMD&rpar; Review: Great Power Yet Affordable](https://www.wired.com/review/acer-nitro-17-2024-amd/)<!-- TECH:END -->
+ - [Latest OnePlus 10T and 10 Pro updates are all about quality-of-life improvements](https://www.androidauthority.com/oxygenos-update-for-oneplus-10t-3438493/)
+ - [Roku plans to start showing video ads on your homescreen](https://www.theverge.com/2024/4/30/24145177/roku-home-screen-video-ads)
+ - [Beats Solo 4 headphones review: Great audio quality and features](https://appleinsider.com/articles/24/04/30/beats-solo-4-headphones-review-great-audio-quality-and-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
