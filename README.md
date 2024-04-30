@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk goes ‘absolutely hard core’ in another round of Tesla layoffs](https://www.theverge.com/2024/4/30/24145133/tesla-layoffs-supercharger-team-elon-musk-hard-core)
- - [Internal Oracle documents: ~6,900 workers are assigned to California offices, compared to 2,500 in Texas, despite Oracle moving its HQ to Texas three years ago &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240430/p7#a240430p7)
- - [The Affordable Connectivity Program Ends Today. Millions of Americans Might Lose Internet Access](https://www.wired.com/story/affordable-connectivity-program-ending/)<!-- TECH:END -->
+ - [EU probe targets Facebook and Instagram amid spike in Russian disinformation](https://www.theverge.com/2024/4/30/24145165/meta-facebook-instagram-eu-investigation-dsa-russian-disinformation)
+ - [Enterprise browser startup Island raised $175M led by Sequoia and Coatue at a $3B valuation, up from $1.5B in October 2023, taking its total funding to $487M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240430/p15#a240430p15)
+ - [Acer Nitro 17 &lpar;2024, AMD&rpar; Review: Great Power Yet Affordable](https://www.wired.com/review/acer-nitro-17-2024-amd/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
