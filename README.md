@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is LIBRARY!](http://9gag.com/gag/awyrMAy)
- - 😝 [You mustn&#39;t](http://9gag.com/gag/a6ZwK0N)
- - 👉 [I know... But this is t*ts.](http://9gag.com/gag/a0e9ZVq)<!-- MEMES:END -->
+ - 6️⃣ [I know... But this is t*ts.](http://9gag.com/gag/a0e9ZVq)
+ - 😝 [Arrest Me](http://9gag.com/gag/aQzqXye)
+ - 👉 [When you get cancelled on](http://9gag.com/gag/aByK2eN)<!-- MEMES:END -->
 
 --- 
 
