@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17.5 beta lets you keep Find My on during iPhone repairs](https://www.theverge.com/2024/4/30/24145803/apple-iphone-repair-state-ios-17-5-beta)
- - [Coinbase adds support for the Bitcoin Lightning Network via payments startup Lightspark, letting customers transfer bitcoin faster and at a lower cost &lpar;Derek Andersen/Cointelegraph&rpar;](http://www.techmeme.com/240430/p42#a240430p42)
- - [Apple’s latest AirPods Pro with USB-C have returned to their all-time low](https://www.theverge.com/2024/4/30/24144383/airpods-pro-usb-c-fitbit-charge-6-tracker-deal-sale)<!-- TECH:END -->
+ - [Over 50 ex-Google employees, fired in connection with a sit-in protest against Google&#39;s business ties to Israel, file an NLRB complaint for unlawful retaliation &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240430/p48#a240430p48)
+ - [The Affordable Connectivity Program Kept Them Online. What Now?](https://www.wired.com/story/affordable-connectivity-program-kept-them-online-what-now/)
+ - [AMD projects its MI300 lineup to generate ~$4B in revenue in 2024, up $500M from an earlier forecast, but short of expectations; AMD drops 6%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240430/p47#a240430p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
