@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to trade, set trade rules, and trade routes in Manor Lords, explained](https://www.polygon.com/manor-lords-guides/24146213/trade-trading-post-trade-rule-set-no-trade)
- - [Finally, The Galaxy&#39;s Coolest Character Arrives In Fortnite&#39;s Big Star Wars Update](https://kotaku.com/fortnite-star-wars-may-4th-update-lando-chewbacca-lego-1851449880)
- - [What you should spend Tomestones of Poetics on in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24125345/tomestones-poetics-what-to-spend-cap)<!-- GAME:END -->
+ - [The PC game releases we&#39;re most excited about in May](https://www.pcgamer.com/games/pc-release-dates-may-2024)
+ - [Earth Defense Force 6 delivers a Helldivers 2-style call to action in its launch date announcement trailer](https://www.pcgamer.com/games/third-person-shooter/earth-defense-force-6-delivers-a-helldivers-2-style-call-to-action-in-its-launch-date-announcement-trailer)
+ - [GTA 6 Publisher Axes Incredible Indie Studio Behind OlliOlli And Rollerdrome](https://kotaku.com/olliolli-world-rollerdrome-kerbal-space-program-2-1851450223)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
