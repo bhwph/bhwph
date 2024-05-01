@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s getting way easier to join PS5 multiplayer games with a friend](https://www.theverge.com/2024/5/1/24146342/ps5-sharable-links-multiplayer-games)
- - [Republicans release tech executives’ internal communications](https://www.theverge.com/24146357/republicans-internal-emails-texts-tech-executives-meta-facebook-white-house)
- - [Sources: Google laid off at least 200 employees from its &quot;Core&quot; teams, including its Python developer team, and plans to move some roles to Mexico and India &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240501/p30#a240501p30)<!-- TECH:END -->
+ - [Walmart is about to launch a 4K Chromecast that’s also a smart speaker](https://www.theverge.com/2024/5/1/24146446/walmart-onn-pro-4k-streaming-chromecast-google-assistant-smart-speaker)
+ - [Qualcomm reports Q2 revenue up 1% YoY to $9.39B, vs. $9.34B est., handset sales up 1% YoY to $6.18B, and Q3 revenue forecast above expectations &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240501/p34#a240501p34)
+ - [Substack now lets writers paywall their Chat discussion spaces and says active Chat participants are 12% more likely to retain their subscriptions &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240501/p33#a240501p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
