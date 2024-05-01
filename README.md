@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Huawei moves Yu Chengdong, the high-profile chief of its consumer business who has held the job since 2012, to a new role as chair of the unit &lpar;Reuters&rpar;](http://www.techmeme.com/240501/p12#a240501p12)
- - [Meet the Woman Who Showed President Biden ChatGPT—and Helped Set the Course for AI](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/)
- - [Rabbit releases its first R1 software update, with &quot;up to 5x&quot; improved idle battery performance, a better music playback UI, more reliable Bluetooth, and more &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240501/p11#a240501p11)<!-- TECH:END -->
+ - [Changpeng Zhao&#39;s short sentence suggests he had some leverage, and the hearing had references to sealed documents and &quot;cooperation&quot;, perhaps over user details &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240501/p17#a240501p17)
+ - [This Ultra flagship could be a telephoto beast with a 200MP periscope camera](https://www.androidauthority.com/vivo-x100-ultra-200mp-periscope-camera-leak-3438883/)
+ - [US NTIA head Alan Davidson says Starlink is an option in extremely remote areas where running fiber is pricey, as part of the $42B high speed internet program &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240501/p16#a240501p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
