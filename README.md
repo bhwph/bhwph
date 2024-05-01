@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [People here don&#39;t give a f**k](http://9gag.com/gag/amoXoKX)
- - 😝 [Pick your side](http://9gag.com/gag/avy0WWM)
- - 👉 [Can someone explain what the logic is for grown woman to have sex with young boys?](http://9gag.com/gag/aByKnzA)<!-- MEMES:END -->
+ - 6️⃣ [Fcckkk!! I didn&#39;t know Wasp had an archenemy. This bird is now my favorite bird!](http://9gag.com/gag/aRBQZ2q)
+ - 😝 [Right?](http://9gag.com/gag/aE0wMPo)
+ - 👉 [5 star service right there](http://9gag.com/gag/avy0ezX)<!-- MEMES:END -->
 
 --- 
 
