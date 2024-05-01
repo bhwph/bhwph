@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In tests run by executives in advertising, animation, and real estate, OpenAI&#39;s Sora generated people with more realistic facial features than Runway or Pika &lpar;Financial Times&rpar;](http://www.techmeme.com/240501/p4#a240501p4)
- - [Rabbit R1, a thing that should just be an app, actually is just an Android app &lpar;Updated&rpar;](https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/)
- - [Taiwan&#39;s KYEC, one of the largest chip testing and packaging services firms, divests its entire stake in a Suzhou, China-based subsidiary citing US restrictions &lpar;Kelly Le/South China Morning Post&rpar;](http://www.techmeme.com/240501/p3#a240501p3)<!-- TECH:END -->
+ - [Experts say Spamouflage Dragon, China&#39;s yearslong disinformation campaign targeting the US, has largely failed due to China missing cultural context and more &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240501/p7#a240501p7)
+ - [Google Photos is preparing to give you more control over which faces you see](https://www.androidauthority.com/google-photos-memories-faces-show-less-option-3438858/)
+ - [This Galaxy Ring rival is all set to launch in the US at $299](https://www.androidauthority.com/amazfit-helio-smart-ring-us-price-availability-release-date-3438862/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
