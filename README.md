@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pick your side](http://9gag.com/gag/avy0WWM)
- - 😝 [Y u internet](http://9gag.com/gag/an7YOEn)
- - 👉 [New fear unlocked](http://9gag.com/gag/agmygzw)<!-- MEMES:END -->
+ - 6️⃣ [WHAT THE ACTUAL F**K](http://9gag.com/gag/aQzqz0e)
+ - 😝 [Lets slide..](http://9gag.com/gag/aQzqE68)
+ - 👉 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)<!-- MEMES:END -->
 
 --- 
 
