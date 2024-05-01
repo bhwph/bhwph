@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [People here don&#39;t give a f**k](http://9gag.com/gag/amoXoKX)
- - 😝 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)
- - 👉 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)<!-- MEMES:END -->
+ - 😝 [Pick your side](http://9gag.com/gag/avy0WWM)
+ - 👉 [Can someone explain what the logic is for grown woman to have sex with young boys?](http://9gag.com/gag/aByKnzA)<!-- MEMES:END -->
 
 --- 
 
