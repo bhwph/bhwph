@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart is about to launch a 4K Chromecast that’s also a smart speaker](https://www.theverge.com/2024/5/1/24146446/walmart-onn-pro-4k-streaming-chromecast-google-assistant-smart-speaker)
- - [Qualcomm reports Q2 revenue up 1% YoY to $9.39B, vs. $9.34B est., handset sales up 1% YoY to $6.18B, and Q3 revenue forecast above expectations &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240501/p34#a240501p34)
- - [Substack now lets writers paywall their Chat discussion spaces and says active Chat participants are 12% more likely to retain their subscriptions &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240501/p33#a240501p33)<!-- TECH:END -->
+ - [Unity names ex-Zynga COO Matthew Bromberg as its new CEO, president, and board member; ex-CEO John Riccitiello resigned in October 2023 after a pricing fiasco &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240501/p38#a240501p38)
+ - [UnitedHealth CEO admits it paid $22 million ransom to BlackCat](https://www.theverge.com/2024/5/1/24146693/unitedhealth-22-million-ransom-ransomware-hack-blackcat)
+ - [How Sidechat Fanned the Flames of University Campus Protests](https://www.wired.com/story/how-sidechat-fanned-the-flames-of-university-campus-protests/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
