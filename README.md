@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fcckkk!! I didn&#39;t know Wasp had an archenemy. This bird is now my favorite bird!](http://9gag.com/gag/aRBQZ2q)
- - 😝 [Right?](http://9gag.com/gag/aE0wMPo)
- - 👉 [5 star service right there](http://9gag.com/gag/avy0ezX)<!-- MEMES:END -->
+ - 6️⃣ [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
+ - 😝 [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
+ - 👉 [Rhodesia](http://9gag.com/gag/a9ydyBZ)<!-- MEMES:END -->
 
 --- 
 
