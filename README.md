@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Esther Crawford joins Meta&#39;s Messenger team as director of product; Crawford was Twitter&#39;s director of product management before being laid off in February 2023 &lpar;Kwan Wei Kevin Tan/Business Insider&rpar;](http://www.techmeme.com/240430/p50#a240430p50)
- - [The House Financial Services Committee Chairman Patrick McHenry accuses Gary Gensler of misleading Congress on the SEC&#39;s position on whether ETH is a security &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240430/p49#a240430p49)
- - [Over 50 ex-Google employees, fired in connection with a sit-in protest against Google&#39;s business ties to Israel, file an NLRB complaint for unlawful retaliation &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240430/p48#a240430p48)<!-- TECH:END -->
+ - [Filing: API Holdings, the parent firm of Indian online pharmacy PharmEasy, raises $216M at a $710M valuation, down ~90% from its peak valuation of $5.6B in 2021 &lpar;Entrackr&rpar;](http://www.techmeme.com/240501/p1#a240501p1)
+ - [Turns out the Rabbit R1 was just an Android app all along](https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a)
+ - [A look at gpt2-chatbot, a mysterious AI chatbot which became available on LLM benchmarking site LMSYS Org and is believed to have similar capabilities as GPT-4 &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240430/p52#a240430p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
