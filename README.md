@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say Spamouflage Dragon, China&#39;s yearslong disinformation campaign targeting the US, has largely failed due to China missing cultural context and more &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240501/p7#a240501p7)
- - [Google Photos is preparing to give you more control over which faces you see](https://www.androidauthority.com/google-photos-memories-faces-show-less-option-3438858/)
- - [This Galaxy Ring rival is all set to launch in the US at $299](https://www.androidauthority.com/amazfit-helio-smart-ring-us-price-availability-release-date-3438862/)<!-- TECH:END -->
+ - [Sources: Huawei moves Yu Chengdong, the high-profile chief of its consumer business who has held the job since 2012, to a new role as chair of the unit &lpar;Reuters&rpar;](http://www.techmeme.com/240501/p12#a240501p12)
+ - [Meet the Woman Who Showed President Biden ChatGPT—and Helped Set the Course for AI](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/)
+ - [Rabbit releases its first R1 software update, with &quot;up to 5x&quot; improved idle battery performance, a better music playback UI, more reliable Bluetooth, and more &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240501/p11#a240501p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
