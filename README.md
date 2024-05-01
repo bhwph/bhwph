@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Lawsuit Argues Meta Is Required by Law to Let You Control Your Own Feed](https://www.wired.com/story/meta-section-230-users-algorithm/)
- - [The US Government Is Asking Big Tech to Promise Better Cybersecurity](https://www.wired.com/story/cisa-cybersecurity-pledge/)
- - [Q&amp;A with White House Office of Science and Technology Policy Director Arati Prabhakar on her role, working at DARPA, AI, showing ChatGPT to Biden, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240501/p28#a240501p28)<!-- TECH:END -->
+ - [It’s getting way easier to join PS5 multiplayer games with a friend](https://www.theverge.com/2024/5/1/24146342/ps5-sharable-links-multiplayer-games)
+ - [Republicans release tech executives’ internal communications](https://www.theverge.com/24146357/republicans-internal-emails-texts-tech-executives-meta-facebook-white-house)
+ - [Sources: Google laid off at least 200 employees from its &quot;Core&quot; teams, including its Python developer team, and plans to move some roles to Mexico and India &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240501/p30#a240501p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
