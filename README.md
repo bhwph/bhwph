@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta announces Batman: Arkham Shadow, the next entry in the iconic Batman: Arkham video game series, exclusive to the Meta Quest 3 and launching later in 2024 &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240501/p22#a240501p22)
- - [Biggest deal yet drops the Razer Edge handheld to just $249.99](https://www.androidauthority.com/razer-edge-handheld-deal-3438821/)
- - [Samsung has the smartphone sales top spot, but not because of AI or Apple weakness](https://appleinsider.com/articles/24/05/01/samsung-has-the-smartphone-sales-top-spot-but-not-because-of-ai-or-apple-weakness?utm_medium=rss)<!-- TECH:END -->
+ - [A Lawsuit Argues Meta Is Required by Law to Let You Control Your Own Feed](https://www.wired.com/story/meta-section-230-users-algorithm/)
+ - [The US Government Is Asking Big Tech to Promise Better Cybersecurity](https://www.wired.com/story/cisa-cybersecurity-pledge/)
+ - [Q&amp;A with White House Office of Science and Technology Policy Director Arati Prabhakar on her role, working at DARPA, AI, showing ChatGPT to Biden, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240501/p28#a240501p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
