@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars has abandoned the prequel trilogy’s greatest gift: sick flips](https://www.polygon.com/star-wars/24141905/star-wars-phantom-menace-lightsaber-duel-fates-fight-choreography)
- - [Xbox Empowers Asian and Pacific Islander Communities with GameTan and NEEL](https://news.xbox.com/en-us/2024/05/01/xbox-empowers-asian-and-pacific-islander-communities-2024/)
- - [The way World of Warcraft: The War Within quest rewards work is game-changing for transmog enthusiasts](https://www.pcgamer.com/games/world-of-warcraft/the-way-world-of-warcraft-the-war-within-quest-rewards-work-is-game-changing-for-transmog-enthusiasts)<!-- GAME:END -->
+ - [I’m very scared of Helldivers 2’s new fight against the Terminid threat](https://www.polygon.com/24146443/helldivers-2-major-orders-terminid-mutation-invisible-stalkers-narrative)
+ - [Starfield’s most annoying feature just got nerfed](https://www.polygon.com/24146378/starfield-improved-maps-difficulty-options)
+ - [PlayStation Stars Campaigns and Digital Collectibles for May 2024](https://blog.playstation.com/2024/05/01/playstation-stars-campaigns-and-digital-collectibles-for-may-2024/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
