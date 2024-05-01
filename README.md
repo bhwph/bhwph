@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A new Batman: Arkham game is coming later this year, and, oh, it&#39;s a VR game](https://www.pcgamer.com/games/vr/a-new-batman-arkham-game-is-coming-later-this-year-and-oh-its-a-vr-game)
- - [The Legend Of Zelda Movie Is Avoiding CG Mo-Cap To Be More &#39;Grounded&#39;](https://kotaku.com/legend-of-zelda-movie-kingdom-of-the-planet-of-the-apes-1851448204)
- - [The best board games of 2024 so far](https://www.polygon.com/what-to-play/24144632/best-board-games-2024-new)<!-- GAME:END -->
+ - [Star Wars has abandoned the prequel trilogy’s greatest gift: sick flips](https://www.polygon.com/star-wars/24141905/star-wars-phantom-menace-lightsaber-duel-fates-fight-choreography)
+ - [Xbox Empowers Asian and Pacific Islander Communities with GameTan and NEEL](https://news.xbox.com/en-us/2024/05/01/xbox-empowers-asian-and-pacific-islander-communities-2024/)
+ - [The way World of Warcraft: The War Within quest rewards work is game-changing for transmog enthusiasts](https://www.pcgamer.com/games/world-of-warcraft/the-way-world-of-warcraft-the-war-within-quest-rewards-work-is-game-changing-for-transmog-enthusiasts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
