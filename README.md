@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: API Holdings, the parent firm of Indian online pharmacy PharmEasy, raises $216M at a $710M valuation, down ~90% from its peak valuation of $5.6B in 2021 &lpar;Entrackr&rpar;](http://www.techmeme.com/240501/p1#a240501p1)
- - [Turns out the Rabbit R1 was just an Android app all along](https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a)
- - [A look at gpt2-chatbot, a mysterious AI chatbot which became available on LLM benchmarking site LMSYS Org and is believed to have similar capabilities as GPT-4 &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240430/p52#a240430p52)<!-- TECH:END -->
+ - [In tests run by executives in advertising, animation, and real estate, OpenAI&#39;s Sora generated people with more realistic facial features than Runway or Pika &lpar;Financial Times&rpar;](http://www.techmeme.com/240501/p4#a240501p4)
+ - [Rabbit R1, a thing that should just be an app, actually is just an Android app &lpar;Updated&rpar;](https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/)
+ - [Taiwan&#39;s KYEC, one of the largest chip testing and packaging services firms, divests its entire stake in a Suzhou, China-based subsidiary citing US restrictions &lpar;Kelly Le/South China Morning Post&rpar;](http://www.techmeme.com/240501/p3#a240501p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
