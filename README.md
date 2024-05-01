@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
- - 😝 [We\u2019ve all been there](http://9gag.com/gag/aAyYE89)
- - 👉 [5 star service right there](http://9gag.com/gag/avy0ezX)<!-- MEMES:END -->
+ - 6️⃣ [And that tells you everything you need to know about the Grammy awards.](http://9gag.com/gag/aO8qZdE)
+ - 😝 [Fcckkk!! I didn&#39;t know Wasp had an archenemy. This bird is now my favorite bird!](http://9gag.com/gag/aRBQZ2q)
+ - 👉 [We\u2019ve all been there](http://9gag.com/gag/aAyYE89)<!-- MEMES:END -->
 
 --- 
 
