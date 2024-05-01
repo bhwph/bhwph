@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I’m very scared of Helldivers 2’s new fight against the Terminid threat](https://www.polygon.com/24146443/helldivers-2-major-orders-terminid-mutation-invisible-stalkers-narrative)
- - [Starfield’s most annoying feature just got nerfed](https://www.polygon.com/24146378/starfield-improved-maps-difficulty-options)
- - [PlayStation Stars Campaigns and Digital Collectibles for May 2024](https://blog.playstation.com/2024/05/01/playstation-stars-campaigns-and-digital-collectibles-for-may-2024/)<!-- GAME:END -->
+ - [How to trade, set trade rules, and trade routes in Manor Lords, explained](https://www.polygon.com/manor-lords-guides/24146213/trade-trading-post-trade-rule-set-no-trade)
+ - [Finally, The Galaxy&#39;s Coolest Character Arrives In Fortnite&#39;s Big Star Wars Update](https://kotaku.com/fortnite-star-wars-may-4th-update-lando-chewbacca-lego-1851449880)
+ - [What you should spend Tomestones of Poetics on in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24125345/tomestones-poetics-what-to-spend-cap)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
