@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [WHAT THE ACTUAL F**K](http://9gag.com/gag/aQzqz0e)
- - 😝 [Lets slide..](http://9gag.com/gag/aQzqE68)
- - 👉 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)<!-- MEMES:END -->
+ - 6️⃣ [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 😝 [New fear unlocked](http://9gag.com/gag/agmygzw)
+ - 👉 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)<!-- MEMES:END -->
 
 --- 
 
