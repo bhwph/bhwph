@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How long did it take you?](http://9gag.com/gag/aZZPrnp)
- - 😝 [Always work](http://9gag.com/gag/aAyYyng)
- - 👉 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)<!-- MEMES:END -->
+ - 6️⃣ [Pick your side](http://9gag.com/gag/avy0WWM)
+ - 😝 [Y u internet](http://9gag.com/gag/an7YOEn)
+ - 👉 [New fear unlocked](http://9gag.com/gag/agmygzw)<!-- MEMES:END -->
 
 --- 
 
