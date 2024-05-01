@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over 50 ex-Google employees, fired in connection with a sit-in protest against Google&#39;s business ties to Israel, file an NLRB complaint for unlawful retaliation &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240430/p48#a240430p48)
- - [The Affordable Connectivity Program Kept Them Online. What Now?](https://www.wired.com/story/affordable-connectivity-program-kept-them-online-what-now/)
- - [AMD projects its MI300 lineup to generate ~$4B in revenue in 2024, up $500M from an earlier forecast, but short of expectations; AMD drops 6%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240430/p47#a240430p47)<!-- TECH:END -->
+ - [Esther Crawford joins Meta&#39;s Messenger team as director of product; Crawford was Twitter&#39;s director of product management before being laid off in February 2023 &lpar;Kwan Wei Kevin Tan/Business Insider&rpar;](http://www.techmeme.com/240430/p50#a240430p50)
+ - [The House Financial Services Committee Chairman Patrick McHenry accuses Gary Gensler of misleading Congress on the SEC&#39;s position on whether ETH is a security &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240430/p49#a240430p49)
+ - [Over 50 ex-Google employees, fired in connection with a sit-in protest against Google&#39;s business ties to Israel, file an NLRB complaint for unlawful retaliation &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240430/p48#a240430p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
