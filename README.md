@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
- - 😝 [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
- - 👉 [Rhodesia](http://9gag.com/gag/a9ydyBZ)<!-- MEMES:END -->
+ - 6️⃣ [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
+ - 😝 [Snack time at the zoo, building core memory too](http://9gag.com/gag/axyNvKp)
+ - 👉 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)<!-- MEMES:END -->
 
 --- 
 
