@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coffee and PC gaming ground together in perfect harmony, in this fabulous Scandi wood-sauna-themed build](https://www.pcgamer.com/hardware/gaming-pcs/coffee-and-pc-gaming-ground-together-in-perfect-harmony-in-this-fabulous-scandi-wood-sauna-themed-build)
- - [Priest accused by cops of spending over $40,000 of church funds on Candy Crush and Pokémon Go, says it might have happened because he&#39;s not a &#39;details guy&#39;](https://www.pcgamer.com/games/priest-accused-by-cops-of-spending-over-dollar40000-of-church-funds-on-candy-crush-and-pokemon-go-says-it-might-have-happened-because-hes-not-a-details-guy)
- - [Buckle up—Hasbro spent over $1 billion on games and has plans for &#39;the next 100 years&#39;, since Baldur&#39;s Gate 3 proved fans &#39;like a great, well-executed D&amp;D game&#39;](https://www.pcgamer.com/games/baldurs-gate/buckle-uphasbro-has-spent-over-dollar1-billion-on-games-and-has-plans-for-the-next-100-years-since-baldurs-gate-3-proved-fans-like-a-great-well-executed-dandd-game)<!-- GAME:END -->
+ - [A new Batman: Arkham game is coming later this year, and, oh, it&#39;s a VR game](https://www.pcgamer.com/games/vr/a-new-batman-arkham-game-is-coming-later-this-year-and-oh-its-a-vr-game)
+ - [The Legend Of Zelda Movie Is Avoiding CG Mo-Cap To Be More &#39;Grounded&#39;](https://kotaku.com/legend-of-zelda-movie-kingdom-of-the-planet-of-the-apes-1851448204)
+ - [The best board games of 2024 so far](https://www.polygon.com/what-to-play/24144632/best-board-games-2024-new)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
