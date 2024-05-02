@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)
- - 😝 [I knew it!](http://9gag.com/gag/apRq6GD)
- - 👉 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)<!-- MEMES:END -->
+ - 6️⃣ [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
+ - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
+ - 👉 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)<!-- MEMES:END -->
 
 --- 
 
