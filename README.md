@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The JBL Xtreme 3 just plunged 53% to an all-time low price](https://www.androidauthority.com/jbl-xtreme-3-deal-3439326/)
- - [Some developers are releasing longer context windows for Llama 3 thanks to Meta&#39;s open-source approach; Llama 3 has a short context window of 8,000+ tokens &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240502/p27#a240502p27)
- - [Helium Mobile, the $20 decentralized mobile network, now offers group plans at same $20 price](https://www.androidauthority.com/helium-group-plans-3438784/)<!-- TECH:END -->
+ - [Google Play Store is rolling out a new badge for government-made apps](https://www.androidauthority.com/google-play-store-government-badge-rollout-3439350/)
+ - [Circle to Search is starting to roll out on the Pixel Tablet](https://www.androidauthority.com/circle-to-search-pixel-tablet-3439365/)
+ - [A federal judge grills both the DOJ and Google in the closing arguments of US v. Google, as the most consequential tech antitrust case since the 1990s concludes &lpar;New York Times&rpar;](http://www.techmeme.com/240502/p31#a240502p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
