@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - 😝 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
- - 👉 [My brothers please join me in my quest for cursed images.](http://9gag.com/gag/aXPbMd6)<!-- MEMES:END -->
+ - 6️⃣ [Layla is showing us her strenght](http://9gag.com/gag/aYQbDOO)
+ - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
+ - 👉 [When the NPC gets out of line](http://9gag.com/gag/azxbG0K)<!-- MEMES:END -->
 
 --- 
 
