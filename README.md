@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Helldivers 2 Warbond brings trap-laying weaponry, arctic-themed armor, and more May 9](https://blog.playstation.com/2024/05/02/new-helldivers-2-warbond-brings-trap-laying-weaponry-arctic-themed-armor-and-more-may-9/)
- - [The forbidden episode of Bluey is forbidden no more](https://www.polygon.com/24147031/bluey-dad-baby-youtube)
- - [Trouble connecting to your VPN? Microsoft admits that a recent Windows security update is preventing virtual connections](https://www.pcgamer.com/software/windows/trouble-connecting-to-your-vpn-microsoft-admits-that-a-recent-windows-security-update-is-preventing-virtual-connections)<!-- GAME:END -->
+ - [Watching Madame Web just made me miss Birds of Prey](https://www.polygon.com/24145766/birds-of-prey-harley-quinn-vs-madame-web)
+ - [Crow Country: retro original PlayStation-era gameplay stylings meet modern horror](https://blog.playstation.com/2024/05/02/crow-country-retro-original-playstation-era-gameplay-stylings-meet-modern-horror/)
+ - [Finally, You Can Play Tetris On The Side Of A 7-Eleven Slurpee Cup!](https://kotaku.com/tetris-7-eleven-slurpee-cup-1851451062)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
