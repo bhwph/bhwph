@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Arthur](http://9gag.com/gag/a4P452m)
- - 😝 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)
- - 👉 [Women without Rights\ud83d\ude06\ud83d\ude06](http://9gag.com/gag/ayN5qVY)<!-- MEMES:END -->
+ - 6️⃣ [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)
+ - 😝 [I knew it!](http://9gag.com/gag/apRq6GD)
+ - 👉 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)<!-- MEMES:END -->
 
 --- 
 
