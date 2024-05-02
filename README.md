@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unity names ex-Zynga COO Matthew Bromberg as its new CEO, president, and board member; ex-CEO John Riccitiello resigned in October 2023 after a pricing fiasco &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240501/p38#a240501p38)
- - [UnitedHealth CEO admits it paid $22 million ransom to BlackCat](https://www.theverge.com/2024/5/1/24146693/unitedhealth-22-million-ransom-ransomware-hack-blackcat)
- - [How Sidechat Fanned the Flames of University Campus Protests](https://www.wired.com/story/how-sidechat-fanned-the-flames-of-university-campus-protests/)<!-- TECH:END -->
+ - [Chromecast killer? Walmart’s leaked 4K box could be the ultimate streaming device](https://www.androidauthority.com/walmart-onn-4k-pro-leaked-3439009/)
+ - [An NLRB judge finds Amazon CEO Andy Jassy violated US labor law with his comments in 2022 suggesting workers would be &quot;less empowered&quot; if they voted in a union &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240501/p42#a240501p42)
+ - [As Questions Swirl Around Tesla’s Superchargers, the Race Is On to Fill the Power Gap](https://www.wired.com/story/tesla-supercharger-pullback-filling-the-power-gap/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
