@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Launching A $60+ Game Seems Like A Bad Idea Right Now](https://kotaku.com/60-70-cheaper-games-helldivers-palworld-gray-zone-pc-1851452869)
- - [Balatro&#39;s first big balance patch fiddles with Fibonacci and makes a mod to Odd Todd](https://www.pcgamer.com/games/card-games/balatros-first-big-balance-patch-fiddles-with-fibonacci-and-makes-a-mod-to-odd-todd)
- - [Don’t Miss This Handy Hidden Adaptation Early In Another Crab’s Treasure](https://kotaku.com/another-crabs-treasure-hidden-adaptation-urchin-toss-1851452712)<!-- GAME:END -->
+ - [XDefiant finally has a release date, and it&#39;s just a couple weeks from now](https://www.pcgamer.com/games/fps/xdefiant-finally-has-a-release-date-and-its-just-a-couple-weeks-from-now)
+ - [Here’s everything changing in Diablo 4 with Loot Reborn](https://www.polygon.com/24147550/diablo-4-d4-season-loot-reborn-patch-notes)
+ - [Blizzard snuck in surprise quality of life changes into Diablo 4&#39;s massive list of season 4 patch notes](https://www.pcgamer.com/games/rpg/blizzard-snuck-in-surprise-quality-of-life-changes-into-diablo-4s-massive-list-of-season-4-patch-notes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
