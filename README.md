@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp told Delhi High Court last week that it will be forced to leave India if required to maintain &quot;traceability&quot; for messages as part of 2021&#39;s IT rules &lpar;Russell Brandom/Rest of World&rpar;](http://www.techmeme.com/240502/p35#a240502p35)
- - [Android 14 quietly made multitasking better on tablets](https://www.androidauthority.com/android-14-alt-tab-shortcut-3439404/)
- - [When notifications remind us of things we’d rather forget](https://www.theverge.com/24147418/intrusive-notifications-bad-memories-cloud-storage)<!-- TECH:END -->
+ - [Massive Sony Xperia 1 VI leak spills the beans on specs, camera, and more](https://www.androidauthority.com/sony-xperia-1-vi-leaked-specs-3439415/)
+ - [Tim Cook says Apple has &quot;big plans to announce&quot; from an &quot;AI point of view&quot; during its May 7 event, where new iPads are expected, and at WWDC in June &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240502/p42#a240502p42)
+ - [Best Bluetooth Speaker for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
