@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our RPG roundtable returns with developers from Baldur&#39;s Gate 3, Avowed, Cyberpunk 2077, In Stars and Time, and The Elder Scrolls](https://www.pcgamer.com/gaming-industry/podcasts/our-rpg-roundtable-returns-with-developers-from-baldurs-gate-3-avowed-cyberpunk-2077-in-stars-and-time-and-the-elder-scrolls)
- - [There’s A Reason Why Sex Games Are Everywhere These Days](https://kotaku.com/youtube-jesse-cox-sex-game-mass-effect-witcher-3-pc-1851451952)
- - [Casper Van Dien geeks out over Helldivers 2&#39;s references and says &#39;it is such a tribute to Starship Troopers it&#39;s really quite wonderful&#39;](https://www.pcgamer.com/games/action/casper-van-dien-geeks-out-over-helldivers-2s-references-and-says-it-is-such-a-tribute-to-starship-troopers-its-really-quite-wonderful)<!-- GAME:END -->
+ - [A Year Later, Redfall Players Who Spent $100 Are Still Waiting For Its Promised Heroes](https://kotaku.com/redfall-xbox-game-pass-bite-back-dlc-heroes-1851452472)
+ - [Kerbal Space Program fans react with anger over Intercept Games closure, and you know what that means: Review bombing on Steam](https://www.pcgamer.com/games/sim/kerbal-space-program-fans-react-with-anger-over-intercept-games-closure-and-you-know-what-that-means-review-bombing-on-steam)
+ - [Fallout 3 And All Its DLC Will Be Free For Amazon Prime Members](https://kotaku.com/fallout-3-dlc-goty-free-amazon-prime-gaming-may-pc-list-1851452352)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
