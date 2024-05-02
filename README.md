@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Intel&#39;s efforts to build Ohio One, a &quot;mega fab&quot; that could become the world&#39;s largest chip factory and for which the company has committed $28B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p6#a240502p6)
- - [Inside Ukraine’s Killer-Drone Startup Industry](https://www.wired.com/story/ukraine-drone-startups-russia/)
- - [Cybersecurity experts say responses to the new US data breach disclosure rules, which have raised legal risks for public companies and their CISOs, have varied &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240502/p5#a240502p5)<!-- TECH:END -->
+ - [Who needs the Galaxy Store? Samsung Good Lock is now on the Play Store](https://www.androidauthority.com/samsung-good-lock-google-play-store-3439066/)
+ - [Universal Music Group and TikTok agree a new music licensing deal to bring UMG music back to the platform, including &quot;improved remuneration&quot; and AI protections &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240502/p8#a240502p8)
+ - [Who needs a Pixel 8a launch event after this huge leak?](https://www.androidauthority.com/massive-google-pixel-8a-leak-features-3439072/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
