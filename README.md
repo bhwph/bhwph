@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ethan Zuckerman sues to stop Meta from blocking his planned Unfollow Everything 2.0 extension that would let Facebook users effectively turn off their newsfeed &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240501/p44#a240501p44)
- - [Google paid Apple $20 Billion to be default search engine in 2022](https://appleinsider.com/articles/24/05/02/google-paid-apple-20-billion-to-be-default-search-engine-in-2022?utm_medium=rss)
- - [Fed Meeting Update: Interest Rates Will Stay High Until Inflation Cools     - CNET](https://www.cnet.com/personal-finance/banking/fed-meeting-update-interest-rates-will-stay-high-until-inflation-cools/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US DOJ sentences Ukrainian national Yaroslav Vasinskyi to 13+ years in prison and orders $16M in restitution for helping REvil conduct ransomware attacks &lpar;Hannah Rabinowitz/CNN&rpar;](http://www.techmeme.com/240502/p1#a240502p1)
+ - [Today&#39;s Wordle Hints and Answer: Help for May 2, #1048     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-2-1048/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints &amp; Answer -- Help for May 2, #326     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-2-326/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
