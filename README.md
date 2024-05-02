@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who needs the Galaxy Store? Samsung Good Lock is now on the Play Store](https://www.androidauthority.com/samsung-good-lock-google-play-store-3439066/)
- - [Universal Music Group and TikTok agree a new music licensing deal to bring UMG music back to the platform, including &quot;improved remuneration&quot; and AI protections &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240502/p8#a240502p8)
- - [Who needs a Pixel 8a launch event after this huge leak?](https://www.androidauthority.com/massive-google-pixel-8a-leak-features-3439072/)<!-- TECH:END -->
+ - [As people yearn for the web&#39;s &quot;good old days&quot;, bringing those days back is possible with new tech, the possibility of new protocols, and more internet users &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/240502/p12#a240502p12)
+ - [Bitwarden launches its own free and open-source Authenticator app](https://www.androidauthority.com/bitwarden-authenticator-app-free-open-source-3439120/)
+ - [The Unsexy Future of Generative AI Is Enterprise Apps](https://www.wired.com/story/unsexy-future-generative-ai-enterprise-apps/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
