@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Store is rolling out a new badge for government-made apps](https://www.androidauthority.com/google-play-store-government-badge-rollout-3439350/)
- - [Circle to Search is starting to roll out on the Pixel Tablet](https://www.androidauthority.com/circle-to-search-pixel-tablet-3439365/)
- - [A federal judge grills both the DOJ and Google in the closing arguments of US v. Google, as the most consequential tech antitrust case since the 1990s concludes &lpar;New York Times&rpar;](http://www.techmeme.com/240502/p31#a240502p31)<!-- TECH:END -->
+ - [WhatsApp told Delhi High Court last week that it will be forced to leave India if required to maintain &quot;traceability&quot; for messages as part of 2021&#39;s IT rules &lpar;Russell Brandom/Rest of World&rpar;](http://www.techmeme.com/240502/p35#a240502p35)
+ - [Android 14 quietly made multitasking better on tablets](https://www.androidauthority.com/android-14-alt-tab-shortcut-3439404/)
+ - [When notifications remind us of things we’d rather forget](https://www.theverge.com/24147418/intrusive-notifications-bad-memories-cloud-storage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
