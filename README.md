@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Karius, which uses AI to help analyze blood tests in 400 hospitals, raised $100M led by Khosla, after raising $165M in early 2020 led by Vision Fund II &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240502/p19#a240502p19)
- - [Microsoft investigating VPN issues with latest Windows 11 update](https://www.theverge.com/2024/5/2/24147054/microsoft-windows-11-vpn-issues-update)
- - [Google says 400M+ Google Accounts have used passkeys since the rollout, logging 1B+ authentications, and expands passkeys to its Advanced Protection Program &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240502/p18#a240502p18)<!-- TECH:END -->
+ - [Samsung rolls out One UI 6.1 with Galaxy AI to Galaxy S21 series and its previous gen foldables](https://www.androidauthority.com/samsung-one-ui-6-1-galaxy-ai-s21-fold-flip-4-3-rollout-3439277/)
+ - [Loopy Pro Review: The Best iPad Music Recording Software](https://www.wired.com/story/loopy-pro-rave/)
+ - [Microsoft launches passkey support for all consumer accounts](https://www.theverge.com/2024/5/2/24147124/microsoft-passkeys-support-consumer-msa)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
