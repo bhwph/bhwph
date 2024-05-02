@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Year Later, Redfall Players Who Spent $100 Are Still Waiting For Its Promised Heroes](https://kotaku.com/redfall-xbox-game-pass-bite-back-dlc-heroes-1851452472)
- - [Kerbal Space Program fans react with anger over Intercept Games closure, and you know what that means: Review bombing on Steam](https://www.pcgamer.com/games/sim/kerbal-space-program-fans-react-with-anger-over-intercept-games-closure-and-you-know-what-that-means-review-bombing-on-steam)
- - [Fallout 3 And All Its DLC Will Be Free For Amazon Prime Members](https://kotaku.com/fallout-3-dlc-goty-free-amazon-prime-gaming-may-pc-list-1851452352)<!-- GAME:END -->
+ - [Launching A $60+ Game Seems Like A Bad Idea Right Now](https://kotaku.com/60-70-cheaper-games-helldivers-palworld-gray-zone-pc-1851452869)
+ - [Balatro&#39;s first big balance patch fiddles with Fibonacci and makes a mod to Odd Todd](https://www.pcgamer.com/games/card-games/balatros-first-big-balance-patch-fiddles-with-fibonacci-and-makes-a-mod-to-odd-todd)
+ - [Don’t Miss This Handy Hidden Adaptation Early In Another Crab’s Treasure](https://kotaku.com/another-crabs-treasure-hidden-adaptation-urchin-toss-1851452712)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
