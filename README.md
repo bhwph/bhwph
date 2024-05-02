@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fcckkk!! I didn&#39;t know Wasp had an archenemy. This bird is now my favorite bird!](http://9gag.com/gag/aRBQZ2q)
- - 😝 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
- - 👉 [Good deal for everyone](http://9gag.com/gag/aE0wALO)<!-- MEMES:END -->
+ - 6️⃣ [Always work](http://9gag.com/gag/aAyYyng)
+ - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
+ - 👉 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)<!-- MEMES:END -->
 
 --- 
 
