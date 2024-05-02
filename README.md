@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watching Madame Web just made me miss Birds of Prey](https://www.polygon.com/24145766/birds-of-prey-harley-quinn-vs-madame-web)
- - [Crow Country: retro original PlayStation-era gameplay stylings meet modern horror](https://blog.playstation.com/2024/05/02/crow-country-retro-original-playstation-era-gameplay-stylings-meet-modern-horror/)
- - [Finally, You Can Play Tetris On The Side Of A 7-Eleven Slurpee Cup!](https://kotaku.com/tetris-7-eleven-slurpee-cup-1851451062)<!-- GAME:END -->
+ - [Our RPG roundtable returns with developers from Baldur&#39;s Gate 3, Avowed, Cyberpunk 2077, In Stars and Time, and The Elder Scrolls](https://www.pcgamer.com/gaming-industry/podcasts/our-rpg-roundtable-returns-with-developers-from-baldurs-gate-3-avowed-cyberpunk-2077-in-stars-and-time-and-the-elder-scrolls)
+ - [There’s A Reason Why Sex Games Are Everywhere These Days](https://kotaku.com/youtube-jesse-cox-sex-game-mass-effect-witcher-3-pc-1851451952)
+ - [Casper Van Dien geeks out over Helldivers 2&#39;s references and says &#39;it is such a tribute to Starship Troopers it&#39;s really quite wonderful&#39;](https://www.pcgamer.com/games/action/casper-van-dien-geeks-out-over-helldivers-2s-references-and-says-it-is-such-a-tribute-to-starship-troopers-its-really-quite-wonderful)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
