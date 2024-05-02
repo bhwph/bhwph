@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ sentences Ukrainian national Yaroslav Vasinskyi to 13+ years in prison and orders $16M in restitution for helping REvil conduct ransomware attacks &lpar;Hannah Rabinowitz/CNN&rpar;](http://www.techmeme.com/240502/p1#a240502p1)
- - [Today&#39;s Wordle Hints and Answer: Help for May 2, #1048     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-2-1048/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints &amp; Answer -- Help for May 2, #326     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-2-326/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Intel&#39;s efforts to build Ohio One, a &quot;mega fab&quot; that could become the world&#39;s largest chip factory and for which the company has committed $28B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p6#a240502p6)
+ - [Inside Ukraine’s Killer-Drone Startup Industry](https://www.wired.com/story/ukraine-drone-startups-russia/)
+ - [Cybersecurity experts say responses to the new US data breach disclosure rules, which have raised legal risks for public companies and their CISOs, have varied &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240502/p5#a240502p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
