@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
- - 😝 [Ryan Gosling and Mikey Day at movie premiere red carpet dressed as Beavis and Butthead](http://9gag.com/gag/aGy9MwK)
- - 👉 [Funny Cat](http://9gag.com/gag/a34YA11)<!-- MEMES:END -->
+ - 6️⃣ [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
+ - 😝 [I knew it!](http://9gag.com/gag/apRq6GD)
+ - 👉 [EmotionalDamage](http://9gag.com/gag/aRBQLp2)<!-- MEMES:END -->
 
 --- 
 
