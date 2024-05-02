@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
- - 😝 [I knew it!](http://9gag.com/gag/apRq6GD)
- - 👉 [EmotionalDamage](http://9gag.com/gag/aRBQLp2)<!-- MEMES:END -->
+ - 6️⃣ [Arthur](http://9gag.com/gag/a4P452m)
+ - 😝 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)
+ - 👉 [Women without Rights\ud83d\ude06\ud83d\ude06](http://9gag.com/gag/ayN5qVY)<!-- MEMES:END -->
 
 --- 
 
