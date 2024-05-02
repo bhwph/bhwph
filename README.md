@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Layla is showing us her strenght](http://9gag.com/gag/aYQbDOO)
- - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - 👉 [When the NPC gets out of line](http://9gag.com/gag/azxbG0K)<!-- MEMES:END -->
+ - 6️⃣ [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
+ - 😝 [Nokia 3210 coming soon](http://9gag.com/gag/aD20nYw)
+ - 👉 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)<!-- MEMES:END -->
 
 --- 
 
