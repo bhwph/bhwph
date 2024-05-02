@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Windows 11 just isn&#39;t enticing Windows 10 users to upgrade, and its market share is actually falling](https://www.pcgamer.com/software/windows/windows-11-just-isnt-enticing-windows-10-users-to-upgrade-and-its-market-share-is-actually-falling)
- - [Today&#39;s Wordle answer for Thursday, May 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-2-2024)
- - [The PC game releases we&#39;re most excited about in May](https://www.pcgamer.com/games/pc-release-dates-may-2024)<!-- GAME:END -->
+ - [New Helldivers 2 Warbond brings trap-laying weaponry, arctic-themed armor, and more May 9](https://blog.playstation.com/2024/05/02/new-helldivers-2-warbond-brings-trap-laying-weaponry-arctic-themed-armor-and-more-may-9/)
+ - [The forbidden episode of Bluey is forbidden no more](https://www.polygon.com/24147031/bluey-dad-baby-youtube)
+ - [Trouble connecting to your VPN? Microsoft admits that a recent Windows security update is preventing virtual connections](https://www.pcgamer.com/software/windows/trouble-connecting-to-your-vpn-microsoft-admits-that-a-recent-windows-security-update-is-preventing-virtual-connections)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
