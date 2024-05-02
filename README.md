@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung rolls out One UI 6.1 with Galaxy AI to Galaxy S21 series and its previous gen foldables](https://www.androidauthority.com/samsung-one-ui-6-1-galaxy-ai-s21-fold-flip-4-3-rollout-3439277/)
- - [Loopy Pro Review: The Best iPad Music Recording Software](https://www.wired.com/story/loopy-pro-rave/)
- - [Microsoft launches passkey support for all consumer accounts](https://www.theverge.com/2024/5/2/24147124/microsoft-passkeys-support-consumer-msa)<!-- TECH:END -->
+ - [The JBL Xtreme 3 just plunged 53% to an all-time low price](https://www.androidauthority.com/jbl-xtreme-3-deal-3439326/)
+ - [Some developers are releasing longer context windows for Llama 3 thanks to Meta&#39;s open-source approach; Llama 3 has a short context window of 8,000+ tokens &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240502/p27#a240502p27)
+ - [Helium Mobile, the $20 decentralized mobile network, now offers group plans at same $20 price](https://www.androidauthority.com/helium-group-plans-3438784/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
