@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
- - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
- - 👉 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)<!-- MEMES:END -->
+ - 6️⃣ [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
+ - 😝 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
+ - 👉 [My brothers please join me in my quest for cursed images.](http://9gag.com/gag/aXPbMd6)<!-- MEMES:END -->
 
 --- 
 
