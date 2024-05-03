@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter, several Democrats serving as their state&#39;s top election officials ask Meta to repeal a policy allowing ads that claim the 2020 election was stolen &lpar;Christina A. Cassidy/Associated Press&rpar;](http://www.techmeme.com/240503/p17#a240503p17)
- - [How to install Steam using Whisky on Apple Silicon Macs](https://appleinsider.com/inside/apple-silicon/tips/how-to-install-steam-using-whisky-on-apple-silicon-macs?utm_medium=rss)
- - [More details emerge about Apple’s plans for AI in iOS 18](https://www.theverge.com/2024/5/3/24148282/apple-ai-iphone-ios-18-plans-ajax)<!-- TECH:END -->
+ - [CSET: global AI research more than doubled between 2017 and 2022; Chinese Academy of Sciences was the top producer of highly cited AI papers, followed by Google &lpar;Alison Snyder/Axios&rpar;](http://www.techmeme.com/240503/p19#a240503p19)
+ - [NHL Playoffs 2024: How to Watch Without Cable, Schedule, Matchups, TV Times     - CNET](https://www.cnet.com/tech/services-and-software/nhl-playoffs-2024-how-to-watch-without-cable-schedule-matchups-tv-times/#ftag=CAD590a51e)
+ - [Best Mattress Deals: Upgrade Your Old Mattress With These Epic Deals     - CNET](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
