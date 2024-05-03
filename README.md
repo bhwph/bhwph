@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mimic, which helps businesses detect, deflect, and quickly recover from ransomware attacks, emerges from stealth with a $27M seed led by Ballistic Ventures &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/240502/p52#a240502p52)
- - [How to keep your Apple TV 4K&#39;s Siri Remote charged](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-keep-your-apple-tv-4ks-siri-remote-charged?utm_medium=rss)
- - [Japan&#39;s PM Fumio Kishida unveils an international voluntary framework for regulation and use of generative AI and says 49 countries and regions have signed up &lpar;Associated Press&rpar;](http://www.techmeme.com/240502/p51#a240502p51)<!-- TECH:END -->
+ - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
+ - [Would you use a ChatGPT-based search engine?](https://www.androidauthority.com/chatgpt-search-poll-3439459/)
+ - [Sources: cloud security startup Wiz will not acquire competitor Lacework; the deal, which was valued at $150M-$200M, fell through during due diligence process &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240503/p3#a240503p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
