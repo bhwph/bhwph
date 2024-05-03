@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Massive Sony Xperia 1 VI leak spills the beans on specs, camera, and more](https://www.androidauthority.com/sony-xperia-1-vi-leaked-specs-3439415/)
- - [Tim Cook says Apple has &quot;big plans to announce&quot; from an &quot;AI point of view&quot; during its May 7 event, where new iPads are expected, and at WWDC in June &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240502/p42#a240502p42)
- - [Best Bluetooth Speaker for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft adds deputy chief information security officers within its product groups after a spate of cyberattacks, but declines to identify the new officials &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p48#a240502p48)
+ - [Tim Cook teases AI ambitions &amp; Apple&#39;s developmental advantages](https://appleinsider.com/articles/24/05/03/tim-cook-teases-ai-ambitions-apples-developmental-advantages?utm_medium=rss)
+ - [X tweaks its block feature to let users see replies to their posts even by users who have blocked them, with the aim of identifying and reporting &quot;bad content&quot; &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240502/p47#a240502p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
