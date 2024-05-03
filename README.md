@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Find My shows Mandalorians the way in latest Apple ad](https://appleinsider.com/articles/24/05/03/apple-wants-you-to-use-find-my-on-iphone-15-to-hunt-down-fellow-mandalorians?utm_medium=rss)
- - [Rabbit R1 Review: Skip This AI-Powered Hardware Assistant](https://www.wired.com/review/rabbit-r1/)
- - [Sources: Fei-Fei Li raised a seed round for a &quot;spatial intelligence&quot; startup using human-like visual data processing to create AI capable of advanced reasoning &lpar;Reuters&rpar;](http://www.techmeme.com/240503/p15#a240503p15)<!-- TECH:END -->
+ - [In a letter, several Democrats serving as their state&#39;s top election officials ask Meta to repeal a policy allowing ads that claim the 2020 election was stolen &lpar;Christina A. Cassidy/Associated Press&rpar;](http://www.techmeme.com/240503/p17#a240503p17)
+ - [How to install Steam using Whisky on Apple Silicon Macs](https://appleinsider.com/inside/apple-silicon/tips/how-to-install-steam-using-whisky-on-apple-silicon-macs?utm_medium=rss)
+ - [More details emerge about Apple’s plans for AI in iOS 18](https://www.theverge.com/2024/5/3/24148282/apple-ai-iphone-ios-18-plans-ajax)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
