@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Xperia 1 VI rumors: Expected release date and what we know so far](https://www.androidauthority.com/sony-xperia-1-vi-3361570/)
- - [Stock photographers prepare for AI disruption, as stock photo companies say traditional photography still has a market but work on building their own AI tools &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/240503/p4#a240503p4)
- - [VPN not working on your Windows PC? Blame Microsoft.](https://www.androidauthority.com/windows-update-break-vpn-3439458/)<!-- TECH:END -->
+ - [Most of you think 128GB storage is not enough for 2024 flagships](https://www.androidauthority.com/poll-results-128gb-storage-not-enough-2024-flagships-3439496/)
+ - [Germany says it found evidence that Russian state-backed hacker Fancy Bear was behind a cyberattack in 2023 that took down several German government websites &lpar;Lisa O&#39;Carroll/The Guardian&rpar;](http://www.techmeme.com/240503/p8#a240503p8)
+ - [A committee of UK legislators says the government&#39;s reticence to address alleged copyright theft is a &quot;de facto endorsement&quot; of the way tech firms build LLMs &lpar;Lindsay Clark/The Register&rpar;](http://www.techmeme.com/240503/p7#a240503p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
