@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - 😝 [Just accepted it guys lol](http://9gag.com/gag/aW4Zo1n)
- - 👉 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)<!-- MEMES:END -->
+ - 6️⃣ [Why won&#39;t we?](http://9gag.com/gag/aXPbKRd)
+ - 😝 [People agree! Start shipping those nose-pierced potatoes to the land of Ham-and-cheese and see how long they can survive without their trigger warnings.](http://9gag.com/gag/aD20VXG)
+ - 👉 [Black queen](http://9gag.com/gag/arypqjB)<!-- MEMES:END -->
 
 --- 
 
