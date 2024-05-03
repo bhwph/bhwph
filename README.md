@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Most of you think 128GB storage is not enough for 2024 flagships](https://www.androidauthority.com/poll-results-128gb-storage-not-enough-2024-flagships-3439496/)
- - [Germany says it found evidence that Russian state-backed hacker Fancy Bear was behind a cyberattack in 2023 that took down several German government websites &lpar;Lisa O&#39;Carroll/The Guardian&rpar;](http://www.techmeme.com/240503/p8#a240503p8)
- - [A committee of UK legislators says the government&#39;s reticence to address alleged copyright theft is a &quot;de facto endorsement&quot; of the way tech firms build LLMs &lpar;Lindsay Clark/The Register&rpar;](http://www.techmeme.com/240503/p7#a240503p7)<!-- TECH:END -->
+ - [Macs, iPad mini, and big AI announcements are not coming at Apple&#39;s iPad event](https://appleinsider.com/articles/24/05/03/macs-ipad-mini-and-big-ai-announcements-are-not-coming-at-apples-ipad-event?utm_medium=rss)
+ - [New iPads are close, EU App Store rules, and Apple ID&#39;s new bug on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/03/new-ipads-are-close-eu-app-store-rules-and-apple-ids-new-bug-on-the-appleinsider-podcast?utm_medium=rss)
+ - [How to Shut Up Your Gadgets at Night So You Can Sleep](https://www.wired.com/story/silence-gadgets-do-not-disturb-nighttime/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
