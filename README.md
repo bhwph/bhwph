@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And about you guys? Me: the difference between a joke and an offense](http://9gag.com/gag/a6ZwB8R)
- - 😝 [World\u2019s fastest karma.](http://9gag.com/gag/aZZP8jz)
- - 👉 [I\u2019m always extremely helpful](http://9gag.com/gag/ae9Nm75)<!-- MEMES:END -->
+ - 6️⃣ [Hey! That&#39;s my side!](http://9gag.com/gag/a6Zwpzm)
+ - 😝 [Of course and indeed.](http://9gag.com/gag/azxbZXz)
+ - 👉 [I want it, but not now with the industry falling apart. F**k the woke](http://9gag.com/gag/a34Y22e)<!-- MEMES:END -->
 
 --- 
 
