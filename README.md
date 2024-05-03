@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
- - [Would you use a ChatGPT-based search engine?](https://www.androidauthority.com/chatgpt-search-poll-3439459/)
- - [Sources: cloud security startup Wiz will not acquire competitor Lacework; the deal, which was valued at $150M-$200M, fell through during due diligence process &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240503/p3#a240503p3)<!-- TECH:END -->
+ - [Sony Xperia 1 VI rumors: Expected release date and what we know so far](https://www.androidauthority.com/sony-xperia-1-vi-3361570/)
+ - [Stock photographers prepare for AI disruption, as stock photo companies say traditional photography still has a market but work on building their own AI tools &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/240503/p4#a240503p4)
+ - [VPN not working on your Windows PC? Blame Microsoft.](https://www.androidauthority.com/windows-update-break-vpn-3439458/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
