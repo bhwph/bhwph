@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
- - 😝 [Nokia 3210 coming soon](http://9gag.com/gag/aD20nYw)
- - 👉 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)<!-- MEMES:END -->
+ - 6️⃣ [Would you rather be alone in the woods with a bear or a man?](http://9gag.com/gag/arypx80)
+ - 😝 [I have a similar experience](http://9gag.com/gag/a6Zw2dm)
+ - 👉 [What do you think of?](http://9gag.com/gag/aVvOZLd)<!-- MEMES:END -->
 
 --- 
 
