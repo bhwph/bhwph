@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T Turbo will boost your service for $7 per month](https://www.theverge.com/2024/5/3/24147641/att-turbo-prioritization-performance-data)
- - [Brane X Speaker: Compact Size, Home Theater Sound](https://www.wired.com/review/brane-x/)
- - [SVB agrees to sell its VC arm SVB Capital, which manages ~$9.8B in assets, to a new entity backed by Brookfield and Sequoia Heritage for $340M in cash &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240503/p13#a240503p13)<!-- TECH:END -->
+ - [iPhone 15 Find My shows Mandalorians the way in latest Apple ad](https://appleinsider.com/articles/24/05/03/apple-wants-you-to-use-find-my-on-iphone-15-to-hunt-down-fellow-mandalorians?utm_medium=rss)
+ - [Rabbit R1 Review: Skip This AI-Powered Hardware Assistant](https://www.wired.com/review/rabbit-r1/)
+ - [Sources: Fei-Fei Li raised a seed round for a &quot;spatial intelligence&quot; startup using human-like visual data processing to create AI capable of advanced reasoning &lpar;Reuters&rpar;](http://www.techmeme.com/240503/p15#a240503p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
