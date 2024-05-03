@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why won&#39;t we?](http://9gag.com/gag/aXPbKRd)
- - 😝 [People agree! Start shipping those nose-pierced potatoes to the land of Ham-and-cheese and see how long they can survive without their trigger warnings.](http://9gag.com/gag/aD20VXG)
- - 👉 [Black queen](http://9gag.com/gag/arypqjB)<!-- MEMES:END -->
+ - 6️⃣ [Its a trap](http://9gag.com/gag/an7YrbE)
+ - 😝 [Witty title](http://9gag.com/gag/aD20VBd)
+ - 👉 [London has fallen](http://9gag.com/gag/a7o5pmz)<!-- MEMES:END -->
 
 --- 
 
