@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab an overclocked version of our favourite AMD graphics card for under its stock price with our exclusive PC Gamer code](https://www.pcgamer.com/hardware/grab-an-overclocked-version-of-our-favourite-amd-graphics-card-for-under-its-stock-price-with-our-exclusive-pc-gamer-code)
- - [Next Week on Xbox: New Games for May 6 to 10](https://news.xbox.com/en-us/2024/05/03/next-week-on-xbox-new-games-for-may-6-to-10/)
- - [The 27 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
+ - [Sweet liberty, are Helldivers 2 players not happy about having to link their Steam accounts to the PlayStation hive mind](https://www.pcgamer.com/games/third-person-shooter/sweet-liberty-are-helldivers-2-players-not-happy-about-having-to-link-their-steam-accounts-to-the-playstation-hive-mind)
+ - [Forget what you think you know about John Green and watch Turtles All The Way Down](https://www.polygon.com/24147497/turtles-all-the-way-down-john-green-the-fault-in-our-stars-tumblr)
+ - [New Storylines, Team Affinity, and more this May in MLB The Show 24](https://blog.playstation.com/2024/05/03/new-storylines-team-affinity-and-more-this-may-in-mlb-the-show-24/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
