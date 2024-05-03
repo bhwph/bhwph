@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Its a trap](http://9gag.com/gag/an7YrbE)
- - 😝 [Witty title](http://9gag.com/gag/aD20VBd)
- - 👉 [London has fallen](http://9gag.com/gag/a7o5pmz)<!-- MEMES:END -->
+ - 😝 [Pattern recognition](http://9gag.com/gag/aYQbPrw)
+ - 👉 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)<!-- MEMES:END -->
 
 --- 
 
