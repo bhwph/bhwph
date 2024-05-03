@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Would you rather be alone in the woods with a bear or a man?](http://9gag.com/gag/arypx80)
- - 😝 [I have a similar experience](http://9gag.com/gag/a6Zw2dm)
- - 👉 [What do you think of?](http://9gag.com/gag/aVvOZLd)<!-- MEMES:END -->
+ - 6️⃣ [Well that&#39;s interesting](http://9gag.com/gag/aVvOmD2)
+ - 😝 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
+ - 👉 [Would you eat it??](http://9gag.com/gag/agmy4Z1)<!-- MEMES:END -->
 
 --- 
 
