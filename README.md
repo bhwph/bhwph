@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Black queen](http://9gag.com/gag/arypqjB)
- - 😝 [In my video: Platinumblonde with purple fishnet and big bewbs.](http://9gag.com/gag/aGy92KZ)
- - 👉 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)<!-- MEMES:END -->
+ - 6️⃣ [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
+ - 😝 [Just accepted it guys lol](http://9gag.com/gag/aW4Zo1n)
+ - 👉 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)<!-- MEMES:END -->
 
 --- 
 
