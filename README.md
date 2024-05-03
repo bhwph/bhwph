@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is pleasing](http://9gag.com/gag/aYQb1zx)
- - 😝 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
- - 👉 [RUN, B*TCH, RUUUN!!!](http://9gag.com/gag/a1mALNw)<!-- MEMES:END -->
+ - 6️⃣ [Black queen](http://9gag.com/gag/arypqjB)
+ - 😝 [In my video: Platinumblonde with purple fishnet and big bewbs.](http://9gag.com/gag/aGy92KZ)
+ - 👉 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)<!-- MEMES:END -->
 
 --- 
 
