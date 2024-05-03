@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We have not confirmed any instance of Vanguard bricking anyone&#39;s hardware&#39; following its League of Legends rollout, Riot says, but there are definitely problems for some players](https://www.pcgamer.com/games/moba/we-have-not-confirmed-any-instance-of-vanguard-bricking-anyones-hardware-following-its-league-of-legends-rollout-riot-says-but-there-are-definitely-problems-for-some-players)
- - [Another Crab’s Treasure Is Even Funnier If You Play It Like A Shooter](https://kotaku.com/another-grabs-treasure-funny-gun-1851455253)
- - [&#39;Ouch, right in the review score&#39;: Arrowhead CEO reacts to Helldivers 2 review bombing, apologizes for PSN mandate communication](https://www.pcgamer.com/games/third-person-shooter/ouch-right-in-the-review-score-arrowhead-ceo-reacts-to-helldivers-2-review-bombing-apologizes-for-psn-mandate-communication)<!-- GAME:END -->
+ - [Gray Zone Warfare players can now change factions so they can team up with their friends](https://www.pcgamer.com/games/fps/gray-zone-warfare-players-can-now-change-factions-so-they-can-team-up-with-their-friends)
+ - [Manor Lords wasn&#39;t made by a &#39;solo developer,&#39; argues competing city builder maker: &#39;The team size on it is maybe even larger than ours&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-solo-developer-perception)
+ - [Senua&#39;s Saga: Hellblade 2 PC system requirements leave one big question unanswered](https://www.pcgamer.com/games/action/senuas-saga-hellblade-2-pc-system-requirements-leave-one-big-question-unanswered)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
