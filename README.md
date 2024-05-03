@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They keep doing it](http://9gag.com/gag/aqymWYP)
- - 😝 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)
- - 👉 [Snack time at the zoo, building core memory too](http://9gag.com/gag/axyNvKp)<!-- MEMES:END -->
+ - 6️⃣ [And about you guys? Me: the difference between a joke and an offense](http://9gag.com/gag/a6ZwB8R)
+ - 😝 [World\u2019s fastest karma.](http://9gag.com/gag/aZZP8jz)
+ - 👉 [I\u2019m always extremely helpful](http://9gag.com/gag/ae9Nm75)<!-- MEMES:END -->
 
 --- 
 
