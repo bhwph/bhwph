@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey! That&#39;s my side!](http://9gag.com/gag/a6Zwpzm)
- - 😝 [Of course and indeed.](http://9gag.com/gag/azxbZXz)
- - 👉 [I want it, but not now with the industry falling apart. F**k the woke](http://9gag.com/gag/a34Y22e)<!-- MEMES:END -->
+ - 6️⃣ [This is pleasing](http://9gag.com/gag/aYQb1zx)
+ - 😝 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
+ - 👉 [RUN, B*TCH, RUUUN!!!](http://9gag.com/gag/a1mALNw)<!-- MEMES:END -->
 
 --- 
 
