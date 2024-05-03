@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [More than half of Fortune 100 companies have bought Vision Pro units according to Apple. So it&#39;s sold at least 50 then](https://www.pcgamer.com/hardware/vr-hardware/more-than-half-of-fortune-100-companies-have-bought-vision-pro-units-according-to-apple-so-its-sold-at-least-50-then)
- - [Seinfeld’s Netflix Pop-Tart movie embarrasses everyone](https://www.polygon.com/reviews/24147505/seinfeld-netflix-unfrosted-review)
- - [Fallout: New Vegas director reveals that game balance is &#39;mostly vibes based&#39;, says he only used a weapons spreadsheet &#39;for maybe a couple of months&#39;](https://www.pcgamer.com/games/fallout/fallout-new-vegas-director-reveals-that-game-balance-is-mostly-vibes-based-says-he-only-used-a-weapons-spreadsheet-for-maybe-a-couple-of-months)<!-- GAME:END -->
+ - [Grab an overclocked version of our favourite AMD graphics card for under its stock price with our exclusive PC Gamer code](https://www.pcgamer.com/hardware/grab-an-overclocked-version-of-our-favourite-amd-graphics-card-for-under-its-stock-price-with-our-exclusive-pc-gamer-code)
+ - [Next Week on Xbox: New Games for May 6 to 10](https://news.xbox.com/en-us/2024/05/03/next-week-on-xbox-new-games-for-may-6-to-10/)
+ - [The 27 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
