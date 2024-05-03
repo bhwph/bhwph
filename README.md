@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Macs, iPad mini, and big AI announcements are not coming at Apple&#39;s iPad event](https://appleinsider.com/articles/24/05/03/macs-ipad-mini-and-big-ai-announcements-are-not-coming-at-apples-ipad-event?utm_medium=rss)
- - [New iPads are close, EU App Store rules, and Apple ID&#39;s new bug on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/03/new-ipads-are-close-eu-app-store-rules-and-apple-ids-new-bug-on-the-appleinsider-podcast?utm_medium=rss)
- - [How to Shut Up Your Gadgets at Night So You Can Sleep](https://www.wired.com/story/silence-gadgets-do-not-disturb-nighttime/)<!-- TECH:END -->
+ - [The Samsung Galaxy Buds 2 Pro hit best price of 2024 at 30% off](https://www.androidauthority.com/deal-samsung-galaxy-buds-2-pro-3439418/)
+ - [Apple said to be stealing tech from expensive suppliers to give to cheaper ones](https://appleinsider.com/articles/24/05/03/apple-said-to-be-stealing-tech-from-expensive-suppliers-to-give-to-cheaper-ones?utm_medium=rss)
+ - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
