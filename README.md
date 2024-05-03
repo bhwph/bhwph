@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy Buds 2 Pro hit best price of 2024 at 30% off](https://www.androidauthority.com/deal-samsung-galaxy-buds-2-pro-3439418/)
- - [Apple said to be stealing tech from expensive suppliers to give to cheaper ones](https://appleinsider.com/articles/24/05/03/apple-said-to-be-stealing-tech-from-expensive-suppliers-to-give-to-cheaper-ones?utm_medium=rss)
- - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)<!-- TECH:END -->
+ - [AT&amp;T Turbo will boost your service for $7 per month](https://www.theverge.com/2024/5/3/24147641/att-turbo-prioritization-performance-data)
+ - [Brane X Speaker: Compact Size, Home Theater Sound](https://www.wired.com/review/brane-x/)
+ - [SVB agrees to sell its VC arm SVB Capital, which manages ~$9.8B in assets, to a new entity backed by Brookfield and Sequoia Heritage for $340M in cash &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240503/p13#a240503p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
