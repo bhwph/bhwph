@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sweet liberty, are Helldivers 2 players not happy about having to link their Steam accounts to the PlayStation hive mind](https://www.pcgamer.com/games/third-person-shooter/sweet-liberty-are-helldivers-2-players-not-happy-about-having-to-link-their-steam-accounts-to-the-playstation-hive-mind)
- - [Forget what you think you know about John Green and watch Turtles All The Way Down](https://www.polygon.com/24147497/turtles-all-the-way-down-john-green-the-fault-in-our-stars-tumblr)
- - [New Storylines, Team Affinity, and more this May in MLB The Show 24](https://blog.playstation.com/2024/05/03/new-storylines-team-affinity-and-more-this-may-in-mlb-the-show-24/)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 once featured an even deeper co-op conversation system, but Swen Vincke said their &#39;dialogue trees blew up so hard, we just couldn&#39;t manage it&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3-once-featured-an-even-deeper-co-op-conversation-system-but-swen-vincke-said-their-dialogue-trees-blew-up-so-hard-we-just-couldnt-manage-it)
+ - [The animated sci-fi mystery Mars Express aims high and lands among the stars](https://www.polygon.com/24147524/mars-express-movie-review-sci-fi-french-animation)
+ - [Hades is on sale for its lowest price ever? Hell yes!](https://www.polygon.com/deals/24148083/hades-steam-supergiant-gaming-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
