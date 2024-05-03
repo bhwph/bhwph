@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s still time to bid on this decommissioned petaflop supercomputer including 8,064 Intel Xeon CPUs but no cables—local collection only](https://www.pcgamer.com/hardware/theres-still-time-to-bid-on-this-decommissioned-petaflop-supercomputer-including-8064-intel-xeon-cpus-but-no-cableslocal-collection-only)
- - [Endgame Gear OP1 8K wired gaming mouse review](https://www.pcgamer.com/hardware/gaming-mice/endgame-gear-op1-8k-wired-gaming-mouse-review)
- - [Today&#39;s Wordle answer for Friday, May 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-3-2024)<!-- GAME:END -->
+ - [More than half of Fortune 100 companies have bought Vision Pro units according to Apple. So it&#39;s sold at least 50 then](https://www.pcgamer.com/hardware/vr-hardware/more-than-half-of-fortune-100-companies-have-bought-vision-pro-units-according-to-apple-so-its-sold-at-least-50-then)
+ - [Seinfeld’s Netflix Pop-Tart movie embarrasses everyone](https://www.polygon.com/reviews/24147505/seinfeld-netflix-unfrosted-review)
+ - [Fallout: New Vegas director reveals that game balance is &#39;mostly vibes based&#39;, says he only used a weapons spreadsheet &#39;for maybe a couple of months&#39;](https://www.pcgamer.com/games/fallout/fallout-new-vegas-director-reveals-that-game-balance-is-mostly-vibes-based-says-he-only-used-a-weapons-spreadsheet-for-maybe-a-couple-of-months)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
