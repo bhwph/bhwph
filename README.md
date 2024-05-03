@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well that&#39;s interesting](http://9gag.com/gag/aVvOmD2)
+ - 6️⃣ [Player 3 entered the game](http://9gag.com/gag/aO8qPdR)
  - 😝 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
- - 👉 [Would you eat it??](http://9gag.com/gag/agmy4Z1)<!-- MEMES:END -->
+ - 👉 [A wise decision.](http://9gag.com/gag/amoX6E9)<!-- MEMES:END -->
 
 --- 
 
