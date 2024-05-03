@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Player 3 entered the game](http://9gag.com/gag/aO8qPdR)
- - 😝 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
- - 👉 [A wise decision.](http://9gag.com/gag/amoX6E9)<!-- MEMES:END -->
+ - 6️⃣ [They keep doing it](http://9gag.com/gag/aqymWYP)
+ - 😝 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)
+ - 👉 [Snack time at the zoo, building core memory too](http://9gag.com/gag/axyNvKp)<!-- MEMES:END -->
 
 --- 
 
