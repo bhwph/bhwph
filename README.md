@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [XDefiant finally has a release date, and it&#39;s just a couple weeks from now](https://www.pcgamer.com/games/fps/xdefiant-finally-has-a-release-date-and-its-just-a-couple-weeks-from-now)
- - [Here’s everything changing in Diablo 4 with Loot Reborn](https://www.polygon.com/24147550/diablo-4-d4-season-loot-reborn-patch-notes)
- - [Blizzard snuck in surprise quality of life changes into Diablo 4&#39;s massive list of season 4 patch notes](https://www.pcgamer.com/games/rpg/blizzard-snuck-in-surprise-quality-of-life-changes-into-diablo-4s-massive-list-of-season-4-patch-notes)<!-- GAME:END -->
+ - [Nintendo keeps playing DMCA whack-a-mole with Yuzu Switch emulator copies on Github, but it&#39;ll never be able to fully stamp them out](https://www.pcgamer.com/gaming-industry/nintendo-keeps-playing-dmca-whack-a-mole-with-yuzu-switch-emulator-copies-on-github-but-itll-never-be-able-to-fully-stamp-them-out)
+ - [New Features and Improvements for Starfield Coming Soon](https://bethesda.net/en/article/6WtjA0qCOiOWiPrCwDFjDt/starfield-may-update-highlights#new_tab)
+ - [Xbox Game Pass’ May lineup has cute kitty cats and Tomb Raider](https://www.polygon.com/24147605/xbox-game-pass-may-2024-free-games-tomb-raider)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
