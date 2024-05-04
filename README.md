@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at AI companies gathering data from real people to create &quot;digital twins&quot;, to use as fashion models, focus group members, or clinical trial participants &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240504/p8#a240504p8)
- - [Defense lawyers question the accuracy and reliability of Cybercheck, an AI tool used in thousands of US cases to identify suspects&#39; locations and other details &lpar;Tim Stelloh/NBC News&rpar;](http://www.techmeme.com/240504/p7#a240504p7)
- - [A look at news publishers&#39; conflicting approaches toward AI companies, and how the lack of a data marketplace makes it hard for buyers and sellers to set rates &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240504/p6#a240504p6)<!-- TECH:END -->
+ - [What Kind of Battery Would You Need to Power a Lightsaber?](https://www.wired.com/story/what-kind-of-battery-would-you-need-to-power-a-lightsaber/)
+ - [Q&amp;A with Nick Bostrom on his book Deep Utopia: Life and Meaning in a Solved World, which considers a future in which AI solves all of humanity&#39;s problems &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240504/p9#a240504p9)
+ - [Funny or Annoying? How Google&#39;s New &#39;Audio Emoji&#39; Feature Works on Android     - CNET](https://www.cnet.com/tech/services-and-software/funny-or-annoying-how-googles-new-audio-emoji-feature-works-on-android/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
