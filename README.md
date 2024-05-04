@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 😝 [Must\u2026.. not\u2026.. see\u2026\u2026](http://9gag.com/gag/aKGz85b)
- - 👉 [The baboon menace](http://9gag.com/gag/a7o5pZz)<!-- MEMES:END -->
+ - 6️⃣ [What 9 years of ice scooping does. &lpar;It\u2019s pretty sharp as well&rpar;](http://9gag.com/gag/a4P42Xp)
+ - 😝 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)
+ - 👉 [2023 thriller call La Roy Texas](http://9gag.com/gag/a6ZwG5m)<!-- MEMES:END -->
 
 --- 
 
