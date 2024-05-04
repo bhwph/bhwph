@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 😝 [Must\u2026.. not\u2026.. see\u2026\u2026](http://9gag.com/gag/aKGz85b)
- - 👉 [You Probably Voted 4 It](http://9gag.com/gag/avy0d8Z)<!-- MEMES:END -->
+ - 6️⃣ [What 9 years of ice scooping does. &lpar;It\u2019s pretty sharp as well&rpar;](http://9gag.com/gag/a4P42Xp)
+ - 😝 [On the left, the state prosecutor shows the size of the fatal hematoma in the skull &lpar;70 ml&rpar;; on the right, the size of the hematoma of the young woman who was killed by the former minister of Kazakhstan Bishimbayev](http://9gag.com/gag/a1mA2PG)
+ - 👉 [Witty title](http://9gag.com/gag/aD20VBd)<!-- MEMES:END -->
 
 --- 
 
