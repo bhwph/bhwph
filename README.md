@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best May the 4th deals on Star Wars merch](https://www.polygon.com/deals/24141828/best-may-4th-deals-star-wars-2024)
- - [The best movies new to streaming this May](https://www.polygon.com/what-to-watch/2024/5/4/24144604/best-new-movies-netflix-amazon-prime-max-hulu-may-2024)
- - [Today&#39;s Wordle answer for Saturday, May 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-4-2024)<!-- GAME:END -->
+ - [The Contestant might be the year’s scariest documentary](https://www.polygon.com/reviews/24148446/the-contestant-hulu-documentary-nasubi-review)
+ - [Stellar Blade&#39;s &#39;Censorship&#39; Circus, Remembering The First Sonic Trailer Five Years Later, And More Of The Week&#39;s Gaming Opinions](https://kotaku.com/stellar-blade-censorship-sonic-hedgehog-1851454628)
+ - [The Best And Worst Parts Of Every Star Wars Movie](https://kotaku.com/the-best-and-worst-parts-of-every-star-wars-movie-1850406311)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
