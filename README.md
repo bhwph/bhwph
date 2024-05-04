@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [2023 thriller call La Roy Texas](http://9gag.com/gag/a6ZwG5m)
+ - 6️⃣ [If you know you know](http://9gag.com/gag/an7YrRL)
  - 😝 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)
- - 👉 [Can someone explain? \ud83e\udd14](http://9gag.com/gag/aNDe41r)<!-- MEMES:END -->
+ - 👉 [Witty title](http://9gag.com/gag/aD20VBd)<!-- MEMES:END -->
 
 --- 
 
