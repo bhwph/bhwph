@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Contestant might be the year’s scariest documentary](https://www.polygon.com/reviews/24148446/the-contestant-hulu-documentary-nasubi-review)
- - [Stellar Blade&#39;s &#39;Censorship&#39; Circus, Remembering The First Sonic Trailer Five Years Later, And More Of The Week&#39;s Gaming Opinions](https://kotaku.com/stellar-blade-censorship-sonic-hedgehog-1851454628)
- - [The Best And Worst Parts Of Every Star Wars Movie](https://kotaku.com/the-best-and-worst-parts-of-every-star-wars-movie-1850406311)<!-- GAME:END -->
+ - [With over 84 thousand negative Helldivers 2 Steam reviews in two days, developer Arrowhead seems to be grappling with Sony over its controversial PSN sign-in requirement](https://www.pcgamer.com/games/third-person-shooter/with-over-84-thousand-negative-helldivers-2-steam-reviews-in-two-days-developer-arrowhead-seems-to-be-grappling-with-sony-over-its-controversial-psn-sign-in-requirement)
+ - [Seekers of Skyveil convinced me the extraction genre isn&#39;t just for shooters anymore](https://www.pcgamer.com/games/rpg/seekers-of-skyveil-convinced-me-the-extraction-genre-isnt-just-for-shooters-anymore)
+ - [The Contestant, like a real life Oldboy, might be the year’s scariest documentary](https://www.polygon.com/reviews/24148446/the-contestant-hulu-documentary-nasubi-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
