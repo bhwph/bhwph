@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you know you know](http://9gag.com/gag/an7YrRL)
- - 😝 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)
- - 👉 [Witty title](http://9gag.com/gag/aD20VBd)<!-- MEMES:END -->
+ - 6️⃣ [How much money did the organizers pay them to attend the protest?](http://9gag.com/gag/aQzqV2r)
+ - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - 👉 [Why won&#39;t we?](http://9gag.com/gag/aXPbKRd)<!-- MEMES:END -->
 
 --- 
 
