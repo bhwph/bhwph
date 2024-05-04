@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Kind of Battery Would You Need to Power a Lightsaber?](https://www.wired.com/story/what-kind-of-battery-would-you-need-to-power-a-lightsaber/)
- - [Q&amp;A with Nick Bostrom on his book Deep Utopia: Life and Meaning in a Solved World, which considers a future in which AI solves all of humanity&#39;s problems &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240504/p9#a240504p9)
- - [Funny or Annoying? How Google&#39;s New &#39;Audio Emoji&#39; Feature Works on Android     - CNET](https://www.cnet.com/tech/services-and-software/funny-or-annoying-how-googles-new-audio-emoji-feature-works-on-android/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Nothing Ear and Ear A are the wireless buds I’m recommending to everyone](https://www.androidauthority.com/nothing-ear-a-review-3437578/)
+ - [Best TV Mounting Options: Stands, Wall Mounts, Corner Mounts, Electric Mounts](https://www.wired.com/story/best-options-for-mounting-a-tv/)
+ - [The Flextail Tiny Bike Pump is a solid pump half the time](https://www.theverge.com/24146158/flextail-tiny-bike-pump-review-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
