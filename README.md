@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How much money did the organizers pay them to attend the protest?](http://9gag.com/gag/aQzqV2r)
- - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 👉 [Why won&#39;t we?](http://9gag.com/gag/aXPbKRd)<!-- MEMES:END -->
+ - 6️⃣ [Could You imagine?](http://9gag.com/gag/aE0wQgp)
+ - 😝 [Wouldn&#39;t?](http://9gag.com/gag/ae9N7rj)
+ - 👉 [How much money did the organizers pay them to attend the protest?](http://9gag.com/gag/aQzqV2r)<!-- MEMES:END -->
 
 --- 
 
