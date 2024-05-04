@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [With over 84 thousand negative Helldivers 2 Steam reviews in two days, developer Arrowhead seems to be grappling with Sony over its controversial PSN sign-in requirement](https://www.pcgamer.com/games/third-person-shooter/with-over-84-thousand-negative-helldivers-2-steam-reviews-in-two-days-developer-arrowhead-seems-to-be-grappling-with-sony-over-its-controversial-psn-sign-in-requirement)
- - [Seekers of Skyveil convinced me the extraction genre isn&#39;t just for shooters anymore](https://www.pcgamer.com/games/rpg/seekers-of-skyveil-convinced-me-the-extraction-genre-isnt-just-for-shooters-anymore)
- - [The Contestant, like a real life Oldboy, might be the year’s scariest documentary](https://www.polygon.com/reviews/24148446/the-contestant-hulu-documentary-nasubi-review)<!-- GAME:END -->
+ - [Eyeing the Helldivers 2 backlash with a nervous flop sweat, Sucker Punch assures us that Ghost of Tsushima won&#39;t need a PSN login for single player](https://www.pcgamer.com/games/action/eyeing-the-helldivers-2-backlash-with-a-nervous-flop-sweat-sucker-punch-assures-us-that-ghost-of-tsushima-wont-need-a-psn-login-for-single-player)
+ - [All four modern Fallout games catapulted into the most-played games on Steam Deck this past month](https://www.pcgamer.com/games/fallout/all-four-modern-fallout-games-catapulted-into-the-most-played-games-on-steam-deck-this-past-month)
+ - [The Best, Freakiest Little Guys From Star Wars](https://kotaku.com/star-wars-creatures-turgle-babu-frik-glup-shitto-1850401401)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
