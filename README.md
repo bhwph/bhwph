@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden is expected to sign the REPORT Act next week; the bipartisan bill targets child sextortion online through new CSAM reporting requirements and more &lpar;Julie Tsirkin/NBC News&rpar;](http://www.techmeme.com/240504/p12#a240504p12)
- - [Best Free VPN for 2024: Affordable Risk-Free Privacy     - CNET](https://www.cnet.com/tech/services-and-software/best-free-vpn/#ftag=CAD590a51e)
- - [‘The Boys’ season 4 trailer is bloody and a little bubbly](https://www.theverge.com/2024/5/4/24148798/the-boys-season-4-amazon-prime-video-homelander-butcher)<!-- TECH:END -->
+ - [US Air Force plans a fleet of 1,000+ AI-controlled jets, the first of them operating by 2028; some AI versions already beat human pilots in air-to-air combat &lpar;Tara Copp/Associated Press&rpar;](http://www.techmeme.com/240504/p14#a240504p14)
+ - [Rabbit and Humane should be a lesson for smartphones too](https://www.androidauthority.com/rabbit-humane-smartphone-warning-3439543/)
+ - [Under-screen Face ID allegedly pushed back to 2026 iPhone 18 Pro](https://appleinsider.com/articles/24/05/04/under-screen-face-id-allegedly-pushed-back-to-2026-iphone-17-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
