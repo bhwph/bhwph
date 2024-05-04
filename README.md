@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gray Zone Warfare players can now change factions so they can team up with their friends](https://www.pcgamer.com/games/fps/gray-zone-warfare-players-can-now-change-factions-so-they-can-team-up-with-their-friends)
- - [Manor Lords wasn&#39;t made by a &#39;solo developer,&#39; argues competing city builder maker: &#39;The team size on it is maybe even larger than ours&#39;](https://www.pcgamer.com/games/city-builder/manor-lords-solo-developer-perception)
- - [Senua&#39;s Saga: Hellblade 2 PC system requirements leave one big question unanswered](https://www.pcgamer.com/games/action/senuas-saga-hellblade-2-pc-system-requirements-leave-one-big-question-unanswered)<!-- GAME:END -->
+ - [I&#39;m so annoyed that they&#39;re calling the new hobbit game &#39;A The Lord of the Rings game&#39;](https://www.pcgamer.com/games/life-sim/a-the-lord-of-the-rings-game-name)
+ - [I fell in love with Abiotic Factor the minute I strapped a couch cushion to my chest and called it armor—there&#39;s no other survival game like it](https://www.pcgamer.com/games/survival-crafting/i-fell-in-love-with-abiotic-factor-the-minute-i-strapped-a-couch-cushion-to-my-chest-and-called-it-armortheres-no-other-survival-game-like-it)
+ - [Insanely ambitious Elder Scrolls remake Skyblivion shows off another reason it&#39;s not releasing until 2025: refreshed dungeons with unique appearances for each region](https://www.pcgamer.com/games/rpg/insanely-ambitious-elder-scrolls-remake-skyblivion-shows-off-another-reason-its-not-releasing-until-2025-refreshed-dungeons-with-unique-appearances-for-each-region)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
