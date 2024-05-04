@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Air Force plans a fleet of 1,000+ AI-controlled jets, the first of them operating by 2028; some AI versions already beat human pilots in air-to-air combat &lpar;Tara Copp/Associated Press&rpar;](http://www.techmeme.com/240504/p14#a240504p14)
- - [Rabbit and Humane should be a lesson for smartphones too](https://www.androidauthority.com/rabbit-humane-smartphone-warning-3439543/)
- - [Under-screen Face ID allegedly pushed back to 2026 iPhone 18 Pro](https://appleinsider.com/articles/24/05/04/under-screen-face-id-allegedly-pushed-back-to-2026-iphone-17-pro?utm_medium=rss)<!-- TECH:END -->
+ - [NHL Playoffs 2024: How to Watch Bruins vs. Maple Leafs Game 7: Schedule, TV Times     - CNET](https://www.cnet.com/tech/services-and-software/nhl-playoffs-2024-how-to-watch-without-cable-schedule-matchups-tv-times/#ftag=CAD590a51e)
+ - [Under-screen Face ID allegedly pushed back to 2026 iPhone 18 Pro](https://appleinsider.com/articles/24/05/04/under-screen-face-id-allegedly-pushed-back-to-2026-iphone-17-pro?utm_medium=rss)
+ - [Crypto startups embrace open-ended, rolling funding rounds that quickly lift valuations, as crypto funds seek to deploy unspent cash raised in 2021 and 2022 &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240504/p15#a240504p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
