@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Its a trap](http://9gag.com/gag/an7YrbE)
- - 😝 [Pattern recognition](http://9gag.com/gag/aYQbPrw)
- - 👉 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)<!-- MEMES:END -->
+ - 6️⃣ [Childhood shoe cleaner put to unexpected use](http://9gag.com/gag/aYQbRNm)
+ - 😝 [Humanity in a nutshell](http://9gag.com/gag/a0e9E1v)
+ - 👉 [.](http://9gag.com/gag/adBNobZ)<!-- MEMES:END -->
 
 --- 
 
