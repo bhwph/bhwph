@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warren Buffett has sold a lot of Apple stock so far in 2024](https://appleinsider.com/articles/24/05/04/warren-buffett-has-sold-a-lot-of-apple-stock-so-far-in-2024?utm_medium=rss)
- - [Apple can keep its new iPads, I’m sticking with my Air 5](https://www.androidauthority.com/no-interest-new-ipads-3437616/)
- - [LinkedIn Has Games Now](https://www.wired.com/story/linkedin-has-games-now/)<!-- TECH:END -->
+ - [Biden is expected to sign the REPORT Act next week; the bipartisan bill targets child sextortion online through new CSAM reporting requirements and more &lpar;Julie Tsirkin/NBC News&rpar;](http://www.techmeme.com/240504/p12#a240504p12)
+ - [Best Free VPN for 2024: Affordable Risk-Free Privacy     - CNET](https://www.cnet.com/tech/services-and-software/best-free-vpn/#ftag=CAD590a51e)
+ - [‘The Boys’ season 4 trailer is bloody and a little bubbly](https://www.theverge.com/2024/5/4/24148798/the-boys-season-4-amazon-prime-video-homelander-butcher)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
