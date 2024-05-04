@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, May 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-4-2024)
- - [Star Wars’ Expanded Universe helped rescue Phantom Menace and the prequel trilogy](https://www.polygon.com/star-wars/2019/5/18/18629598/phantom-menace-star-wars-prequels-expanded-universe-best-books-tv-series-comics)
- - [I&#39;m so annoyed that they&#39;re calling the new hobbit game &#39;A The Lord of the Rings Game&#39;](https://www.pcgamer.com/games/life-sim/a-the-lord-of-the-rings-game-name)<!-- GAME:END -->
+ - [The best May the 4th deals on Star Wars merch](https://www.polygon.com/deals/24141828/best-may-4th-deals-star-wars-2024)
+ - [The best movies new to streaming this May](https://www.polygon.com/what-to-watch/2024/5/4/24144604/best-new-movies-netflix-amazon-prime-max-hulu-may-2024)
+ - [Today&#39;s Wordle answer for Saturday, May 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-4-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
