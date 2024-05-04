@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m so annoyed that they&#39;re calling the new hobbit game &#39;A The Lord of the Rings game&#39;](https://www.pcgamer.com/games/life-sim/a-the-lord-of-the-rings-game-name)
- - [I fell in love with Abiotic Factor the minute I strapped a couch cushion to my chest and called it armor—there&#39;s no other survival game like it](https://www.pcgamer.com/games/survival-crafting/i-fell-in-love-with-abiotic-factor-the-minute-i-strapped-a-couch-cushion-to-my-chest-and-called-it-armortheres-no-other-survival-game-like-it)
- - [Insanely ambitious Elder Scrolls remake Skyblivion shows off another reason it&#39;s not releasing until 2025: refreshed dungeons with unique appearances for each region](https://www.pcgamer.com/games/rpg/insanely-ambitious-elder-scrolls-remake-skyblivion-shows-off-another-reason-its-not-releasing-until-2025-refreshed-dungeons-with-unique-appearances-for-each-region)<!-- GAME:END -->
+ - [Star Wars’ Expanded Universe helped rescue Phantom Menace and the prequel trilogy](https://www.polygon.com/star-wars/2019/5/18/18629598/phantom-menace-star-wars-prequels-expanded-universe-best-books-tv-series-comics)
+ - [I&#39;m so annoyed that they&#39;re calling the new hobbit game &#39;A The Lord of the Rings Game&#39;](https://www.pcgamer.com/games/life-sim/a-the-lord-of-the-rings-game-name)
+ - [I fell in love with Abiotic Factor the minute I strapped a couch cushion to my chest and called it armor—there&#39;s no other survival game like it](https://www.pcgamer.com/games/survival-crafting/i-fell-in-love-with-abiotic-factor-the-minute-i-strapped-a-couch-cushion-to-my-chest-and-called-it-armortheres-no-other-survival-game-like-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
