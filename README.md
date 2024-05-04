@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NHL Playoffs 2024: How to Watch Bruins vs. Maple Leafs Game 7: Schedule, TV Times     - CNET](https://www.cnet.com/tech/services-and-software/nhl-playoffs-2024-how-to-watch-without-cable-schedule-matchups-tv-times/#ftag=CAD590a51e)
- - [Under-screen Face ID allegedly pushed back to 2026 iPhone 18 Pro](https://appleinsider.com/articles/24/05/04/under-screen-face-id-allegedly-pushed-back-to-2026-iphone-17-pro?utm_medium=rss)
- - [Crypto startups embrace open-ended, rolling funding rounds that quickly lift valuations, as crypto funds seek to deploy unspent cash raised in 2021 and 2022 &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240504/p15#a240504p15)<!-- TECH:END -->
+ - [The Verge’s 2024 Mother’s Day gift guide](https://www.theverge.com/24115101/best-mothers-day-gift-ideas-2024-mom-tech-gadgets)
+ - [Most Efficient Solar Panels for 2024: New Record-Setting Panel Tops the List     - CNET](https://www.cnet.com/home/energy-and-utilities/most-efficient-solar-panels/#ftag=CAD590a51e)
+ - [Best Reading Glasses for 2024     - CNET](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
