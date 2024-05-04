@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The baboon menace](http://9gag.com/gag/a7o5pZz)
- - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 👉 [It never gets old seeing USEFUL IDIOTS getting professionally trolled](http://9gag.com/gag/adBNeLB)<!-- MEMES:END -->
+ - 6️⃣ [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - 😝 [Must\u2026.. not\u2026.. see\u2026\u2026](http://9gag.com/gag/aKGz85b)
+ - 👉 [You Probably Voted 4 It](http://9gag.com/gag/avy0d8Z)<!-- MEMES:END -->
 
 --- 
 
