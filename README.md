@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)
- - 😝 [Acting Labor Secretary Can&#39;t Answer If She&#39;s Ever Owned A Business](http://9gag.com/gag/aPAvXgV)
- - 👉 [Can someone explain? \ud83e\udd14](http://9gag.com/gag/aNDe41r)<!-- MEMES:END -->
+ - 6️⃣ [If you know you know](http://9gag.com/gag/an7YrRL)
+ - 😝 [2023 thriller call La Roy Texas](http://9gag.com/gag/a6ZwG5m)
+ - 👉 [Id wear that hair](http://9gag.com/gag/aVvOVmM)<!-- MEMES:END -->
 
 --- 
 
