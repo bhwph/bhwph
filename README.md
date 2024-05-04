@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you know you know](http://9gag.com/gag/an7YrRL)
- - 😝 [2023 thriller call La Roy Texas](http://9gag.com/gag/a6ZwG5m)
- - 👉 [Id wear that hair](http://9gag.com/gag/aVvOVmM)<!-- MEMES:END -->
+ - 6️⃣ [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - 😝 [Must\u2026.. not\u2026.. see\u2026\u2026](http://9gag.com/gag/aKGz85b)
+ - 👉 [The baboon menace](http://9gag.com/gag/a7o5pZz)<!-- MEMES:END -->
 
 --- 
 
