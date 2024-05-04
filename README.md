@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s the launch trailer for V Rising&#39;s 1.0 version, releasing very soon](https://www.pcgamer.com/games/heres-the-launch-trailer-for-v-risings-10-version-releasing-very-soon)
  - [Eyeing the Helldivers 2 backlash with a nervous flop sweat, Sucker Punch assures us that Ghost of Tsushima won&#39;t need a PSN login for single player](https://www.pcgamer.com/games/action/eyeing-the-helldivers-2-backlash-with-a-nervous-flop-sweat-sucker-punch-assures-us-that-ghost-of-tsushima-wont-need-a-psn-login-for-single-player)
- - [All four modern Fallout games catapulted into the most-played games on Steam Deck this past month](https://www.pcgamer.com/games/fallout/all-four-modern-fallout-games-catapulted-into-the-most-played-games-on-steam-deck-this-past-month)
- - [The Best, Freakiest Little Guys From Star Wars](https://kotaku.com/star-wars-creatures-turgle-babu-frik-glup-shitto-1850401401)<!-- GAME:END -->
+ - [All four modern Fallout games catapulted into the most-played games on Steam Deck this past month](https://www.pcgamer.com/games/fallout/all-four-modern-fallout-games-catapulted-into-the-most-played-games-on-steam-deck-this-past-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
