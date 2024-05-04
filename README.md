@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: CRM software maker Freshworks acquires Connecticut-based Device42, which helps companies manage their IT infrastructure and had raised $38.5M, for $230M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240503/p25#a240503p25)
- - [How the AI-generated music video for Washed Out&#39;s The Hardest Part was created entirely using OpenAI&#39;s Sora, a first from a major record label &lpar;Wendy Lee/Los Angeles Times&rpar;](http://www.techmeme.com/240503/p24#a240503p24)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 4, #328     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-4-328/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at news publishers&#39; conflicting approaches toward AI companies, and how the lack of a data marketplace makes it hard for buyers and sellers to set rates &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240504/p6#a240504p6)
+ - [Synergy Research: cloud revenue grew 21% YoY in Q1 2024 to $76B; Altimeter: AWS now has 31% market share followed by Azure with 25% and Google with 11% &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240504/p5#a240504p5)
+ - [Ukraine unveils an AI-generated foreign ministry spokesperson called Victoria Shi, who will make official statements &quot;written and verified by real people&quot; &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/240504/p4#a240504p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
