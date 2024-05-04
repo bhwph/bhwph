@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nothing Ear and Ear A are the wireless buds I’m recommending to everyone](https://www.androidauthority.com/nothing-ear-a-review-3437578/)
- - [Best TV Mounting Options: Stands, Wall Mounts, Corner Mounts, Electric Mounts](https://www.wired.com/story/best-options-for-mounting-a-tv/)
- - [The Flextail Tiny Bike Pump is a solid pump half the time](https://www.theverge.com/24146158/flextail-tiny-bike-pump-review-specs)<!-- TECH:END -->
+ - [Warren Buffett has sold a lot of Apple stock so far in 2024](https://appleinsider.com/articles/24/05/04/warren-buffett-has-sold-a-lot-of-apple-stock-so-far-in-2024?utm_medium=rss)
+ - [Apple can keep its new iPads, I’m sticking with my Air 5](https://www.androidauthority.com/no-interest-new-ipads-3437616/)
+ - [LinkedIn Has Games Now](https://www.wired.com/story/linkedin-has-games-now/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
