@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mastering Stellar Blade&#39;s Combat, Starting Strong In Another Crab&#39;s Treasure, And More Tips For The Week](https://kotaku.com/stellar-blade-tips-ff16-leviathan-fight-xp-1851454627)
- - [Helldivers 2 Boss Says Sorry After Game Gets Review-Bombed To Hell [Update: Steam Removes Game In Some Regions And Offers Refunds]](https://kotaku.com/helldivers-2-steam-reviews-apology-psn-login-1851455150)
- - [The best limited series you can watch right now](https://www.polygon.com/what-to-watch/24146275/best-limited-series-mini-tv-shows-watch-streaming)<!-- GAME:END -->
+ - [Cybersecurity researchers find that fake USPS phishing sites account for at least as much internet traffic as the Postal Service itself](https://www.pcgamer.com/gaming-industry/cybersecurity-researchers-find-that-usps-impersonating-phishing-sites-account-for-at-least-as-much-internet-traffic-as-the-postal-service-itself)
+ - [Check out the trailer for this big, cooperative Halo campaign mod](https://www.pcgamer.com/games/halo/check-out-the-trailer-for-this-big-cooperative-halo-campaign-mod)
+ - [What time does Apex Legends Season 21 Upheaval release?](https://www.polygon.com/guides/24148215/apex-legends-season-21-release-time-start-date-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
