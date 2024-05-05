@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some researchers are training AI models on headcam footage from infants and toddlers, to better understand language acquisition by both AI and children &lpar;Oliver Whang/New York Times&rpar;](http://www.techmeme.com/240504/p18#a240504p18)
  - [Everything to Know About &#39;Bridgerton&#39; Season 3     - CNET](https://www.cnet.com/tech/services-and-software/everything-to-know-about-bridgerton-season-3/#ftag=CAD590a51e)
- - [BEFAST: The Life-Saving Acronym Everyone Should Know for Strokes     - CNET](https://www.cnet.com/health/medical/befast-during-a-stroke/#ftag=CAD590a51e)
- - [What Is Hormone Therapy for Menopause? New Study Revisits Effectiveness     - CNET](https://www.cnet.com/health/medical/what-is-hormone-therapy-for-menopause-new-study-revisits-effectiveness/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BEFAST: The Life-Saving Acronym Everyone Should Know for Strokes     - CNET](https://www.cnet.com/health/medical/befast-during-a-stroke/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
