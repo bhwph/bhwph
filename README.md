@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of ElevenLabs, whose founders seem unprepared for how its impressive AI voice cloning tech can change the internet and unleash political chaos &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/240505/p2#a240505p2)
- - [Tens of thousands of overworked employees have left their jobs at China&#39;s largest tech companies in recent years, as the industry lost its growth momentum &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/240505/p1#a240505p1)
- - [DEX Screener: the value of decentralized social platform Friend.tech&#39;s native token, the Friend, fell ~98% to below $2 after making its trading debut on May 3 &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240504/p19#a240504p19)<!-- TECH:END -->
+ - [How role-playing with an AI chatbot can help prepare for difficult conversations with family, friends, and colleagues, such as for terminating an employee &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240505/p3#a240505p3)
+ - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans     - CNET](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)
+ - [Brighton vs. Aston Villa Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/brighton-vs-aston-villa-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
