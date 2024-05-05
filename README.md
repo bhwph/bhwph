@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Could You imagine?](http://9gag.com/gag/aE0wQgp)
- - 😝 [Wouldn&#39;t?](http://9gag.com/gag/ae9N7rj)
- - 👉 [How much money did the organizers pay them to attend the protest?](http://9gag.com/gag/aQzqV2r)<!-- MEMES:END -->
+ - 6️⃣ [Working under pressure](http://9gag.com/gag/aD20Nod)
+ - 😝 [That\u2019s a pretty wild experiment.](http://9gag.com/gag/a6ZwjqN)
+ - 👉 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)<!-- MEMES:END -->
 
 --- 
 
