@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How role-playing with an AI chatbot can help prepare for difficult conversations with family, friends, and colleagues, such as for terminating an employee &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240505/p3#a240505p3)
- - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans     - CNET](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)
- - [Brighton vs. Aston Villa Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/brighton-vs-aston-villa-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All I want from Samsung’s One UI 7.0 is a vertical app drawer list](https://www.androidauthority.com/samsungs-one-ui-7-vertical-app-drawer-list-3439645/)
+ - [Translation Tech Is Amazing, Except When It’s Not](https://www.wired.com/story/translation-tech-is-amazing-except-when-its-not/)
+ - [The best new browser for Windows](https://www.theverge.com/2024/5/5/24148223/arc-browser-windows-claude-sofa-bose-beats-hacks-coffee-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
