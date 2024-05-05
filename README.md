@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Islamists won elections in Bradford, UK, simply because they are majority. These are the results of uncontrolled immigration. Dark times ahead for UK](http://9gag.com/gag/aD20MPN)
- - 😝 [Nice One](http://9gag.com/gag/avy0DbX)
- - 👉 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)<!-- MEMES:END -->
+ - 6️⃣ [Update](http://9gag.com/gag/awyrPND)
+ - 😝 [Riot in a digital concentration camp.](http://9gag.com/gag/aByKj1A)
+ - 👉 [I know it smell crazy there](http://9gag.com/gag/amoXde9)<!-- MEMES:END -->
 
 --- 
 
