@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Update](http://9gag.com/gag/awyrPND)
- - 😝 [Riot in a digital concentration camp.](http://9gag.com/gag/aByKj1A)
- - 👉 [I know it smell crazy there](http://9gag.com/gag/amoXde9)<!-- MEMES:END -->
+ - 6️⃣ [Nice One](http://9gag.com/gag/avy0DbX)
+ - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
+ - 👉 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)<!-- MEMES:END -->
 
 --- 
 
