@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DEX Screener: the value of decentralized social platform Friend.tech&#39;s native token, the Friend, fell ~98% to below $2 after making its trading debut on May 3 &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240504/p19#a240504p19)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 5, #329     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-5-329/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for May 5, #1051     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-may-5-1051/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of ElevenLabs, whose founders seem unprepared for how its impressive AI voice cloning tech can change the internet and unleash political chaos &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/240505/p2#a240505p2)
+ - [Tens of thousands of overworked employees have left their jobs at China&#39;s largest tech companies in recent years, as the industry lost its growth momentum &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/240505/p1#a240505p1)
+ - [DEX Screener: the value of decentralized social platform Friend.tech&#39;s native token, the Friend, fell ~98% to below $2 after making its trading debut on May 3 &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240504/p19#a240504p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
