@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2024 Mother’s Day gift guide](https://www.theverge.com/24115101/best-mothers-day-gift-ideas-2024-mom-tech-gadgets)
- - [Most Efficient Solar Panels for 2024: New Record-Setting Panel Tops the List     - CNET](https://www.cnet.com/home/energy-and-utilities/most-efficient-solar-panels/#ftag=CAD590a51e)
- - [Best Reading Glasses for 2024     - CNET](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Everything to Know About &#39;Bridgerton&#39; Season 3     - CNET](https://www.cnet.com/tech/services-and-software/everything-to-know-about-bridgerton-season-3/#ftag=CAD590a51e)
+ - [BEFAST: The Life-Saving Acronym Everyone Should Know for Strokes     - CNET](https://www.cnet.com/health/medical/befast-during-a-stroke/#ftag=CAD590a51e)
+ - [What Is Hormone Therapy for Menopause? New Study Revisits Effectiveness     - CNET](https://www.cnet.com/health/medical/what-is-hormone-therapy-for-menopause-new-study-revisits-effectiveness/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
