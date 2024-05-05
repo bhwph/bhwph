@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Skeletor approves GTA VI](http://9gag.com/gag/aXPbGRd)
- - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 👉 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)<!-- MEMES:END -->
+ - 6️⃣ [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)
+ - 😝 [64 Days for perfect Omurice](http://9gag.com/gag/a7o5A4A)
+ - 👉 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)<!-- MEMES:END -->
 
 --- 
 
