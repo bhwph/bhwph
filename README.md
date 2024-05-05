@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best limited series you can watch right now](https://www.polygon.com/what-to-watch/24146275/best-limited-series-mini-tv-shows-watch-streaming)
  - [Today&#39;s Wordle answer for Sunday, May 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-5-2024)
- - [Here&#39;s the launch trailer for V Rising&#39;s 1.0 version, releasing very soon](https://www.pcgamer.com/games/heres-the-launch-trailer-for-v-risings-10-version-releasing-very-soon)
- - [Eyeing the Helldivers 2 backlash with a nervous flop sweat, Sucker Punch assures us that Ghost of Tsushima won&#39;t need a PSN login for single player](https://www.pcgamer.com/games/action/eyeing-the-helldivers-2-backlash-with-a-nervous-flop-sweat-sucker-punch-assures-us-that-ghost-of-tsushima-wont-need-a-psn-login-for-single-player)<!-- GAME:END -->
+ - [Here&#39;s the launch trailer for V Rising&#39;s 1.0 version, releasing very soon](https://www.pcgamer.com/games/heres-the-launch-trailer-for-v-risings-10-version-releasing-very-soon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
