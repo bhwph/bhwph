@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to lose your homeland](http://9gag.com/gag/ae9NyzO)
- - 😝 [It happened in my hometown. Some guy filmed him in a pub and wanted to sabotage his political career.](http://9gag.com/gag/aE0wyvO)
- - 👉 [LMAO](http://9gag.com/gag/aryp9NV)<!-- MEMES:END -->
+ - 6️⃣ [Dicks out for Harambe](http://9gag.com/gag/aPAvnyK)
+ - 😝 [The Islamists won elections in Bradford, UK, simply because they are majority. These are the results of uncontrolled immigration. Dark times ahead for UK](http://9gag.com/gag/aD20MPN)
+ - 👉 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)<!-- MEMES:END -->
 
 --- 
 
