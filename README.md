@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice One](http://9gag.com/gag/avy0DbX)
- - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
- - 👉 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)<!-- MEMES:END -->
+ - 6️⃣ [How to lose your homeland](http://9gag.com/gag/ae9NyzO)
+ - 😝 [It happened in my hometown. Some guy filmed him in a pub and wanted to sabotage his political career.](http://9gag.com/gag/aE0wyvO)
+ - 👉 [LMAO](http://9gag.com/gag/aryp9NV)<!-- MEMES:END -->
 
 --- 
 
