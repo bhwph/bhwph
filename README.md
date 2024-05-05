@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Asking Ellie, mom of 7 small kittens, to adopt 3 abandoned foster kittens into to her family](http://9gag.com/gag/a0e9O3v)
- - 😝 [This is how you have to train someone if they don&#39;t want to listen - experience...](http://9gag.com/gag/a2vNOOY)
+ - 6️⃣ [Samson, a breeding bull for hire, is greeted by a pasture full of cows.](http://9gag.com/gag/azxbDqN)
+ - 😝 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
  - 👉 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)<!-- MEMES:END -->
 
 --- 
