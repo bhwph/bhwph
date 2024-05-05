@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This kid jamming it](http://9gag.com/gag/a7o5pbA)
- - 😝 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)
+ - 6️⃣ [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)
+ - 😝 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)
  - 👉 [If you know you know](http://9gag.com/gag/an7YrRL)<!-- MEMES:END -->
 
 --- 
