@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All I want from Samsung’s One UI 7.0 is a vertical app drawer list](https://www.androidauthority.com/samsungs-one-ui-7-vertical-app-drawer-list-3439645/)
- - [Translation Tech Is Amazing, Except When It’s Not](https://www.wired.com/story/translation-tech-is-amazing-except-when-its-not/)
- - [The best new browser for Windows](https://www.theverge.com/2024/5/5/24148223/arc-browser-windows-claude-sofa-bose-beats-hacks-coffee-installer)<!-- TECH:END -->
+ - [A look at the US and EU&#39;s dueling approaches to rein in Big Tech, splitting tech companies&#39; attention by miring them in separate legal and enforcement battles &lpar;Politico&rpar;](http://www.techmeme.com/240505/p4#a240505p4)
+ - [Unless iOS gets this feature, I’ll stick to Android forever](https://www.androidauthority.com/ios-notification-channels-3437714/)
+ - [Xiaomi Watch S3 Review: Quirky Customization](https://www.wired.com/review/xiaomi-watch-s3/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
