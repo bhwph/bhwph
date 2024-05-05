@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best limited series you can watch right now](https://www.polygon.com/what-to-watch/24146275/best-limited-series-mini-tv-shows-watch-streaming)
- - [Today&#39;s Wordle answer for Sunday, May 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-5-2024)
- - [Here&#39;s the launch trailer for V Rising&#39;s 1.0 version, releasing very soon](https://www.pcgamer.com/games/heres-the-launch-trailer-for-v-risings-10-version-releasing-very-soon)<!-- GAME:END -->
+ - [Mastering Stellar Blade&#39;s Combat, Starting Strong In Another Crab&#39;s Treasure, And More Tips For The Week](https://kotaku.com/stellar-blade-tips-ff16-leviathan-fight-xp-1851454627)
+ - [Helldivers 2 Boss Says Sorry After Game Gets Review-Bombed To Hell [Update: Steam Removes Game In Some Regions And Offers Refunds]](https://kotaku.com/helldivers-2-steam-reviews-apology-psn-login-1851455150)
+ - [The best limited series you can watch right now](https://www.polygon.com/what-to-watch/24146275/best-limited-series-mini-tv-shows-watch-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
