@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jack Dorsey says he’s no longer on Bluesky’s board](https://www.theverge.com/2024/5/5/24149543/jack-dorsey-gone-bluesky-board)
- - [Jack Dorsey replies &quot;no&quot; to an X user who asked if he was still on the Bluesky board; it&#39;s not clear when he left, as Bluesky&#39;s FAQ still lists him as a member &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240505/p5#a240505p5)
- - [These 1-Minute Microwaved Poached Eggs Are a Brunch Hack for the Ages     - CNET](https://www.cnet.com/home/kitchen-and-household/these-1-minute-microwaved-poached-eggs-are-a-brunch-hack-for-the-ages/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deals: Apple AirPods dip to $79, M3 iMac 24-inch drops to $1,149 at Amazon](https://appleinsider.com/articles/24/05/05/deals-apple-airpods-dip-to-79-m3-imac-24-inch-drops-to-1149-at-amazon?utm_medium=rss)
+ - [A new patent about a folding iPhone has surfaced, but is it a good idea?](https://www.androidauthority.com/apple-foldable-patent-3439956/)
+ - [I&#39;m Ditching Extra Baggage Fees on My Next Trip, With These Products     - CNET](https://www.cnet.com/culture/ditch-the-extra-baggage-fees-your-next-trip-with-these-products/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
