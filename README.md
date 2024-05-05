@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the US and EU&#39;s dueling approaches to rein in Big Tech, splitting tech companies&#39; attention by miring them in separate legal and enforcement battles &lpar;Politico&rpar;](http://www.techmeme.com/240505/p4#a240505p4)
- - [Unless iOS gets this feature, I’ll stick to Android forever](https://www.androidauthority.com/ios-notification-channels-3437714/)
- - [Xiaomi Watch S3 Review: Quirky Customization](https://www.wired.com/review/xiaomi-watch-s3/)<!-- TECH:END -->
+ - [Withings ScanWatch Nova review: Should you buy it?](https://www.androidauthority.com/withings-scanwatch-nova-review-3435552/)
+ - [How to Factory-Reset Your Phone Before You Sell It](https://www.wired.com/story/how-to-reset-your-phone-before-you-sell-it/)
+ - [An Italian Chef Weighs In on the 9 Biggest Pasta Myths and Misconceptions     - CNET](https://www.cnet.com/how-to/an-italian-chef-debunks-9-of-the-biggest-pasta-myths/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
