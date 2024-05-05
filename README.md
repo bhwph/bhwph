@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Withings ScanWatch Nova review: Should you buy it?](https://www.androidauthority.com/withings-scanwatch-nova-review-3435552/)
- - [How to Factory-Reset Your Phone Before You Sell It](https://www.wired.com/story/how-to-reset-your-phone-before-you-sell-it/)
- - [An Italian Chef Weighs In on the 9 Biggest Pasta Myths and Misconceptions     - CNET](https://www.cnet.com/how-to/an-italian-chef-debunks-9-of-the-biggest-pasta-myths/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jack Dorsey says he’s no longer on Bluesky’s board](https://www.theverge.com/2024/5/5/24149543/jack-dorsey-gone-bluesky-board)
+ - [Jack Dorsey replies &quot;no&quot; to an X user who asked if he was still on the Bluesky board; it&#39;s not clear when he left, as Bluesky&#39;s FAQ still lists him as a member &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240505/p5#a240505p5)
+ - [These 1-Minute Microwaved Poached Eggs Are a Brunch Hack for the Ages     - CNET](https://www.cnet.com/home/kitchen-and-household/these-1-minute-microwaved-poached-eggs-are-a-brunch-hack-for-the-ages/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
