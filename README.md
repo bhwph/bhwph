@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Unending Debate!\ud83e\udd26\ud83c\udffb](http://9gag.com/gag/amoXQmj)
- - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
- - 👉 [I don&#39;t know why she always need to brag about unimportant stuff.](http://9gag.com/gag/azxbzDq)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m not cleaning it](http://9gag.com/gag/a5Qdgby)
+ - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
+ - 👉 [Save for later:](http://9gag.com/gag/agmybdW)<!-- MEMES:END -->
 
 --- 
 
