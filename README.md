@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Annual Pride Edition Braided Solo Loop for Apple Watch arrives](https://appleinsider.com/articles/24/05/06/annual-pride-edition-braided-solo-loop-for-apple-watch-arrives?utm_medium=rss)
- - [Amazon’s entire Kindle lineup is on sale starting at just $80](https://www.theverge.com/2024/5/6/24150163/amazon-kindle-paperwhite-scribe-deal-sale)
- - [‘Apple Pencil Pro’ spotted in code on Apple’s Japanese site](https://www.theverge.com/2024/5/6/24150198/apple-pencil-pro-japan-website-code-leak)<!-- TECH:END -->
+ - [OpenAI and Stack Overflow partner to bring more technical knowledge into ChatGPT](https://www.theverge.com/2024/5/6/24150341/openai-stack-overflow-partner-api-coding-assistance)
+ - [Can the Manta Sound Sleep Mask Improve Your Rest? I Tested It to Find Out     - CNET](https://www.cnet.com/health/sleep/can-the-manta-sound-sleep-mask-improve-your-rest-i-tested-it-to-find-out/#ftag=CAD590a51e)
+ - [Score 35% off the 2024 Galaxy Tab S6 Lite just weeks after launch](https://www.androidauthority.com/deal-samsung-galaxy-tab-s6-lite-2024-3440223/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
