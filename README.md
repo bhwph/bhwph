@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice One](http://9gag.com/gag/avy0DbX)
- - 😝 [Seriously?](http://9gag.com/gag/awyrPqR)
- - 👉 [Meet the new City Councillor of Leeds, UK who just won their Election.](http://9gag.com/gag/adBNd4N)<!-- MEMES:END -->
+ - 6️⃣ [Two Takes on This Epic Scene. Dune &lpar;1984&rpar; &amp; Dune II &lpar;2024&rpar;](http://9gag.com/gag/ae9NqyQ)
+ - 😝 [Skeletor approves GTA VI](http://9gag.com/gag/aXPbGRd)
+ - 👉 [Lol](http://9gag.com/gag/a9ydeNm)<!-- MEMES:END -->
 
 --- 
 
