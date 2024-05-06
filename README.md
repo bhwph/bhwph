@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI and Stack Overflow partner to bring more technical knowledge into ChatGPT](https://www.theverge.com/2024/5/6/24150341/openai-stack-overflow-partner-api-coding-assistance)
- - [Can the Manta Sound Sleep Mask Improve Your Rest? I Tested It to Find Out     - CNET](https://www.cnet.com/health/sleep/can-the-manta-sound-sleep-mask-improve-your-rest-i-tested-it-to-find-out/#ftag=CAD590a51e)
- - [Score 35% off the 2024 Galaxy Tab S6 Lite just weeks after launch](https://www.androidauthority.com/deal-samsung-galaxy-tab-s6-lite-2024-3440223/)<!-- TECH:END -->
+ - [Study from Meta researchers suggests that training LLMs to predict multiple tokens at once, instead of just the next token, results in better and faster models &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/240506/p18#a240506p18)
+ - [PlayStation 5 Pro GPU details surface, promising major performance leap](https://www.androidauthority.com/ps5-pro-gpu-leak-3440274/)
+ - [How to watch Apple&#39;s &#39;Let Loose&#39; iPad Air &amp; iPad Pro event](https://appleinsider.com/inside/apple-event/tips/how-to-watch-apples-let-loose-ipad-air-ipad-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
