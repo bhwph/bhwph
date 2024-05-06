@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cybersecurity researchers find that fake USPS phishing sites account for at least as much internet traffic as the Postal Service itself](https://www.pcgamer.com/gaming-industry/cybersecurity-researchers-find-that-usps-impersonating-phishing-sites-account-for-at-least-as-much-internet-traffic-as-the-postal-service-itself)
- - [Check out the trailer for this big, cooperative Halo campaign mod](https://www.pcgamer.com/games/halo/check-out-the-trailer-for-this-big-cooperative-halo-campaign-mod)
- - [What time does Apex Legends Season 21 Upheaval release?](https://www.polygon.com/guides/24148215/apex-legends-season-21-release-time-start-date-launch)<!-- GAME:END -->
+ - [The Magic: The Gathering manga set in the &#39;90s will come out in English at last](https://www.pcgamer.com/games/card-games/the-magic-the-gathering-manga-set-in-the-90s-will-come-out-in-english-at-last)
+ - [Love Sucks: Night Two is a horny game where the real fantasy isn&#39;t sex, it&#39;s enjoying a carnival without almost immediately getting tired and wanting to go home](https://www.pcgamer.com/games/visual-novel/love-sucks-night-two-is-a-horny-game-where-the-real-fantasy-isnt-sex-its-enjoying-a-carnival-without-almost-immediately-getting-tired-and-wanting-to-go-home)
+ - [New Apex Legends trailer gets us another look at Alter, Season 21, and the return of solos](https://www.pcgamer.com/games/battle-royale/new-apex-legends-trailer-gets-us-another-look-at-alter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
