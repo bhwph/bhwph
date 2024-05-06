@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m not cleaning it](http://9gag.com/gag/a5Qdgby)
- - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
- - 👉 [Save for later:](http://9gag.com/gag/agmybdW)<!-- MEMES:END -->
+ - 6️⃣ [Bro-zoned](http://9gag.com/gag/a1mAq46)
+ - 😝 [Save for later:](http://9gag.com/gag/agmybdW)
+ - 👉 [Man&#39;s best friend isn&#39;t always Man&#39;s best friend.](http://9gag.com/gag/aAyYNOp)<!-- MEMES:END -->
 
 --- 
 
