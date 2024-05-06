@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Seriously?](http://9gag.com/gag/awyrPqR)
- - 😝 [Oops!](http://9gag.com/gag/apRqjw8)
- - 👉 [Nice One](http://9gag.com/gag/avy0DbX)<!-- MEMES:END -->
+ - 6️⃣ [Nice One](http://9gag.com/gag/avy0DbX)
+ - 😝 [Seriously?](http://9gag.com/gag/awyrPqR)
+ - 👉 [Meet the new City Councillor of Leeds, UK who just won their Election.](http://9gag.com/gag/adBNd4N)<!-- MEMES:END -->
 
 --- 
 
