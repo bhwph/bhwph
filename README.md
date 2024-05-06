@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study from Meta researchers suggests that training LLMs to predict multiple tokens at once, instead of just the next token, results in better and faster models &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/240506/p18#a240506p18)
- - [PlayStation 5 Pro GPU details surface, promising major performance leap](https://www.androidauthority.com/ps5-pro-gpu-leak-3440274/)
- - [How to watch Apple&#39;s &#39;Let Loose&#39; iPad Air &amp; iPad Pro event](https://appleinsider.com/inside/apple-event/tips/how-to-watch-apples-let-loose-ipad-air-ipad-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Synopsys agrees to sell its Software Integrity Group business to a PE consortium led by Clearlake Capital and Francisco Partners in a deal valued at $2.1B &lpar;Reuters&rpar;](http://www.techmeme.com/240506/p22#a240506p22)
+ - [Microsoft ramps up plans to capture carbon from burning wood](https://www.theverge.com/2024/5/6/24150398/microsoft-bioenergy-carbon-capture-stockholm-exergi)
+ - [How to Watch the Boeing Starliner Launch](https://www.wired.com/story/watch-boeing-starliner-launch-livestream/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
