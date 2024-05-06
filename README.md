@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood’s crypto arm receives SEC warning over alleged securities violations](https://www.theverge.com/2024/5/6/24150045/robinhood-cryptocurrency-wells-notice-warning-sec)
- - [Hugging Face launches LeRobot, an open-source robotics code library, after hiring former Tesla scientist Remi Cadene to lead its open-source robotics project &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240506/p10#a240506p10)
- - [Polestar CEO Thomas Ingenlath on life after Volvo and weathering the EV slowdown](https://www.theverge.com/24148110/polestar-ceo-volvo-geely-evs-electric-car-slowdown-decoder-interview)<!-- TECH:END -->
+ - [Annual Pride Edition Braided Solo Loop for Apple Watch arrives](https://appleinsider.com/articles/24/05/06/annual-pride-edition-braided-solo-loop-for-apple-watch-arrives?utm_medium=rss)
+ - [Amazon’s entire Kindle lineup is on sale starting at just $80](https://www.theverge.com/2024/5/6/24150163/amazon-kindle-paperwhite-scribe-deal-sale)
+ - [‘Apple Pencil Pro’ spotted in code on Apple’s Japanese site](https://www.theverge.com/2024/5/6/24150198/apple-pencil-pro-japan-website-code-leak)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
