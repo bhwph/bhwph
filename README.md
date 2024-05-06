@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Buckshot Roulette passes 1 million sales after Steam launch](https://www.polygon.com/24148258/buckshot-roulette-steam-launch-multiplayer-mike-klubnika-success)
- - [It&#39;s Not Just You: Pokémon GO Update Has Broken Curveball Throws](https://kotaku.com/pokemon-go-curveball-throws-not-working-1851457731)
- - [When does Honkai: Star Rail 2.2 release?](https://www.polygon.com/honkai-star-rail-guides/24147278/version-2-2-release-maintenance-times)<!-- GAME:END -->
+ - [Upgrade These Buildings First In No Rest For The Wicked](https://kotaku.com/no-rest-for-the-wicked-building-projects-guide-1851458154)
+ - [Gen V producers won’t recast the late Chance Perdomo’s character](https://www.polygon.com/24150137/gen-v-chance-perdomo-recast-character)
+ - [How To Get Runes In No Rest For The Wicked—And How They Work](https://kotaku.com/no-rest-for-the-wicked-runes-guide-gems-enchantments-1851458066)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
