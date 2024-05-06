@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mako Shark eaten by something HUGE whilst being reeled in, head alone weighed 100kg](http://9gag.com/gag/avy0Bnn)
- - 😝 [Meet the new City Councillor of Leeds, UK who just won their Election.](http://9gag.com/gag/adBNd4N)
- - 👉 [Making an amphibious vehicle for fishing, gaming and camping](http://9gag.com/gag/aO8qGWv)<!-- MEMES:END -->
+ - 6️⃣ [Skeletor approves GTA VI](http://9gag.com/gag/aXPbGRd)
+ - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
+ - 👉 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)<!-- MEMES:END -->
 
 --- 
 
