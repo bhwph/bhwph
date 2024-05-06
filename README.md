@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Atos says it received four distinct offers to restructure its debt and inject cash from investors including Atos&#39; banks and its largest shareholder Onepoint &lpar;Tassilo Hummel/Reuters&rpar;](http://www.techmeme.com/240506/p1#a240506p1)
- - [Google’s working on a way to speed-up data transfers when setting up a new phone: APK Teardown](https://www.androidauthority.com/google-new-data-transfer-restore-methods-3440006/)
- - [Blowout deal: grab Apple&#39;s M2 Pro MacBook Pro for $1,649 today only](https://appleinsider.com/articles/24/05/06/blowout-deal-grab-apples-m2-pro-macbook-pro-for-1649-today-only?utm_medium=rss)<!-- TECH:END -->
+ - [Vodafone Pro II Ultra Hub Review: Wi-Fi 6E With 4G Backup](https://www.wired.com/review/vodafone-pro-ii-ultra-hub/)
+ - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
+ - [This upcoming phone could rival Apple for video, be the new concert photo king](https://www.androidauthority.com/vivo-x100-ultra-cameras-3440005/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
