@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
- - 😝 [Antifa and anti-Nazi protesters block path and only people with given wristbands are allowed into school](http://9gag.com/gag/aYQbm7O)
- - 👉 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)<!-- MEMES:END -->
+ - 6️⃣ [Hopefully no one was hurt](http://9gag.com/gag/aO8qAV2)
+ - 😝 [Two Takes on This Epic Scene. Dune &lpar;1984&rpar; &amp; Dune II &lpar;2024&rpar;](http://9gag.com/gag/ae9NqyQ)
+ - 👉 [Nice One](http://9gag.com/gag/avy0DbX)<!-- MEMES:END -->
 
 --- 
 
