@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vodafone Pro II Ultra Hub Review: Wi-Fi 6E With 4G Backup](https://www.wired.com/review/vodafone-pro-ii-ultra-hub/)
- - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
- - [This upcoming phone could rival Apple for video, be the new concert photo king](https://www.androidauthority.com/vivo-x100-ultra-cameras-3440005/)<!-- TECH:END -->
+ - [An eraseable &#39;Let Loose&#39; event logo teases a new Apple Pencil feature](https://appleinsider.com/articles/24/05/06/an-eraseable-let-loose-event-logo-teases-a-new-apple-pencil-feature?utm_medium=rss)
+ - [A Subreddit for Dumbphones Is the Smartest Place Online](https://www.wired.com/story/dumbphones-reddit-last-good-place/)
+ - [US to fund digital twin research in semiconductors](https://www.theverge.com/2024/5/6/24149817/us-fund-digital-twin-semiconductors-chips-act)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
