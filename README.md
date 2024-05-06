@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [16 Things The First Metal Gear Solid Doesn’t Outright Tell You](https://kotaku.com/metal-gear-solid-mgs1-master-aiming-body-armor-1851459198)
- - [Helldivers 2 players knew how to mobilize against Sony after training in-game](https://www.polygon.com/24150510/helldivers-2-psn-account-sony-response-controversy-steam-review-bombing-refunds)
- - [Why I Won’t Be Playing Hades 2 In Early Access](https://kotaku.com/im-skipping-hades-2-early-access-1851459155)<!-- GAME:END -->
+ - [9 Things To Know Before Starting Hades 2](https://kotaku.com/hades-2-tips-beginner-start-1851459493)
+ - [Looking for a capture card? Our guide has the top picks](https://www.polygon.com/what-to-buy/23808448/best-capture-card)
+ - [Activision Reportedly Ditched Tony Hawk 3+4 For More Call Of Duty](https://kotaku.com/tony-hawks-pro-skater-3-4-call-duty-activision-1851459426)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
