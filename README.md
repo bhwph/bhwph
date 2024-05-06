@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An eraseable &#39;Let Loose&#39; event logo teases a new Apple Pencil feature](https://appleinsider.com/articles/24/05/06/an-eraseable-let-loose-event-logo-teases-a-new-apple-pencil-feature?utm_medium=rss)
- - [A Subreddit for Dumbphones Is the Smartest Place Online](https://www.wired.com/story/dumbphones-reddit-last-good-place/)
- - [US to fund digital twin research in semiconductors](https://www.theverge.com/2024/5/6/24149817/us-fund-digital-twin-semiconductors-chips-act)<!-- TECH:END -->
+ - [The Beats Studio Pro drops $170 to lowest price in months](https://www.androidauthority.com/deal-beats-studio-pro-3439941/)
+ - [5 Best French Presses &lpar;2024&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-presses/)
+ - [iPhone 15 Pro Max was Q1&#39;s best-selling smartphone; Pro phones were 50% of Apple&#39;s sales, up from 24% in 2020; Apple and Samsung each had five phones in top 10 &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240506/p7#a240506p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
