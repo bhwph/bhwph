@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hopefully no one was hurt](http://9gag.com/gag/aO8qAV2)
- - 😝 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
- - 👉 [New fear unlocked](http://9gag.com/gag/ae9NdnQ)<!-- MEMES:END -->
+ - 6️⃣ [Seriously?](http://9gag.com/gag/awyrPqR)
+ - 😝 [Oops!](http://9gag.com/gag/apRqjw8)
+ - 👉 [Nice One](http://9gag.com/gag/avy0DbX)<!-- MEMES:END -->
 
 --- 
 
