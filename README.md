@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Doctor Who, Netflix’s Bodkin, and more new TV this week](https://www.polygon.com/2024/5/6/24141572/new-tv-doctor-who-ncuti-gatwa-netflix-bodkin-interview-vampire)
- - [Finally, Cal Kestis From Star Wars Jedi: Survivor Is Getting A Lego Minifig](https://kotaku.com/star-wars-jedi-survivor-cal-kestis-minifig-lego-set-1851458507)
- - [New Mod Adds The One Thing Elden Ring Was Missing: Capybaras](https://kotaku.com/elden-ring-nexus-mod-pc-adds-capybaras-1851458568)<!-- GAME:END -->
+ - [16 Things The First Metal Gear Solid Doesn’t Outright Tell You](https://kotaku.com/metal-gear-solid-mgs1-master-aiming-body-armor-1851459198)
+ - [Helldivers 2 players knew how to mobilize against Sony after training in-game](https://www.polygon.com/24150510/helldivers-2-psn-account-sony-response-controversy-steam-review-bombing-refunds)
+ - [Why I Won’t Be Playing Hades 2 In Early Access](https://kotaku.com/im-skipping-hades-2-early-access-1851459155)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
