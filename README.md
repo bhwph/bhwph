@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Beats Studio Pro drops $170 to lowest price in months](https://www.androidauthority.com/deal-beats-studio-pro-3439941/)
- - [5 Best French Presses &lpar;2024&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-presses/)
- - [iPhone 15 Pro Max was Q1&#39;s best-selling smartphone; Pro phones were 50% of Apple&#39;s sales, up from 24% in 2020; Apple and Samsung each had five phones in top 10 &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240506/p7#a240506p7)<!-- TECH:END -->
+ - [Robinhood’s crypto arm receives SEC warning over alleged securities violations](https://www.theverge.com/2024/5/6/24150045/robinhood-cryptocurrency-wells-notice-warning-sec)
+ - [Hugging Face launches LeRobot, an open-source robotics code library, after hiring former Tesla scientist Remi Cadene to lead its open-source robotics project &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240506/p10#a240506p10)
+ - [Polestar CEO Thomas Ingenlath on life after Volvo and weathering the EV slowdown](https://www.theverge.com/24148110/polestar-ceo-volvo-geely-evs-electric-car-slowdown-decoder-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
