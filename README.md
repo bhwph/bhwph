@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Hopefully no one was hurt](http://9gag.com/gag/aO8qAV2)
- - 😝 [Two Takes on This Epic Scene. Dune &lpar;1984&rpar; &amp; Dune II &lpar;2024&rpar;](http://9gag.com/gag/ae9NqyQ)
- - 👉 [Nice One](http://9gag.com/gag/avy0DbX)<!-- MEMES:END -->
+ - 😝 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
+ - 👉 [New fear unlocked](http://9gag.com/gag/ae9NdnQ)<!-- MEMES:END -->
 
 --- 
 
