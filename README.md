@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NetherRealm gives us a proper look at Homelander in Mortal Kombat 1&#39;s latest DLC trailer, and somehow the fatalities aren&#39;t the grossest thing in it](https://www.pcgamer.com/games/fighting/netherrealm-gives-us-a-proper-look-at-homelander-in-mortal-kombat-1s-latest-dlc-trailer-and-somehow-the-fatalities-arent-the-grossest-thing-in-it)
- - [Scammers have resorted to selling CPUs without dies, as a well-known Korean overclocker has discovered](https://www.pcgamer.com/hardware/processors/scammers-have-resorted-to-selling-cpus-without-dies-as-a-well-known-korean-overclocker-has-discovered)
- - [Helldivers 2 Won&#39;t Require A PSN Account On Steam After Massive Player Backlash](https://kotaku.com/helldivers-2-do-i-need-psn-steam-account-linking-1851457468)<!-- GAME:END -->
+ - [Buckshot Roulette passes 1 million sales after Steam launch](https://www.polygon.com/24148258/buckshot-roulette-steam-launch-multiplayer-mike-klubnika-success)
+ - [It&#39;s Not Just You: Pokémon GO Update Has Broken Curveball Throws](https://kotaku.com/pokemon-go-curveball-throws-not-working-1851457731)
+ - [When does Honkai: Star Rail 2.2 release?](https://www.polygon.com/honkai-star-rail-guides/24147278/version-2-2-release-maintenance-times)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
