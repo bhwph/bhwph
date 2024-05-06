@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Upgrade These Buildings First In No Rest For The Wicked](https://kotaku.com/no-rest-for-the-wicked-building-projects-guide-1851458154)
- - [Gen V producers won’t recast the late Chance Perdomo’s character](https://www.polygon.com/24150137/gen-v-chance-perdomo-recast-character)
- - [How To Get Runes In No Rest For The Wicked—And How They Work](https://kotaku.com/no-rest-for-the-wicked-runes-guide-gems-enchantments-1851458066)<!-- GAME:END -->
+ - [New Doctor Who, Netflix’s Bodkin, and more new TV this week](https://www.polygon.com/2024/5/6/24141572/new-tv-doctor-who-ncuti-gatwa-netflix-bodkin-interview-vampire)
+ - [Finally, Cal Kestis From Star Wars Jedi: Survivor Is Getting A Lego Minifig](https://kotaku.com/star-wars-jedi-survivor-cal-kestis-minifig-lego-set-1851458507)
+ - [New Mod Adds The One Thing Elden Ring Was Missing: Capybaras](https://kotaku.com/elden-ring-nexus-mod-pc-adds-capybaras-1851458568)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
