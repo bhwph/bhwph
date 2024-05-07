@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No heavy breathing.](http://9gag.com/gag/avy0q8d)
- - 😝 [Tarantino moment](http://9gag.com/gag/aVvO8Zw)
- - 👉 [Thousands of Irish People Protesting Again The Invasion of Ireland](http://9gag.com/gag/axyNw02)<!-- MEMES:END -->
+ - 6️⃣ [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
+ - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
+ - 👉 [What 30 packs of cigarretes can do to cottton balls](http://9gag.com/gag/a9yd4Ro)<!-- MEMES:END -->
 
 --- 
 
