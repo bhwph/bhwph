@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [German chipmaker Infineon cuts its revenue forecast in the year to September 2024 to &amp;euro;15.1B, below &amp;euro;15.7B est., signaling automotive chip demand remains weak &lpar;Bloomberg&rpar;](http://www.techmeme.com/240507/p7#a240507p7)
- - [iPad launch event: How to watch and everything we expect to see](https://www.androidauthority.com/how-to-watch-ipad-event-2024-3440083/)
- - [Amazon’s Delivery Drones Won&#39;t Fly in Arizona&#39;s Summer Heat](https://www.wired.com/story/amazon-delivery-drones-heat-grounded-summer/)<!-- TECH:END -->
+ - [Amazon launches its online store in South Africa, offering same-day and next-day delivery and 3,000+ pickup points, challenging local rivals like Takealot.com &lpar;Nqobile Dludla/Reuters&rpar;](http://www.techmeme.com/240507/p13#a240507p13)
+ - [Akamai agrees to acquire Noname Security, which finds and fixes API vulnerabilities, for ~$450M, closing in Q2 2024; Noname was valued at $1B in December 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240507/p12#a240507p12)
+ - [12 Best Sound Machines and White-Noise Machines &lpar;2024&rpar;: Cheap, Night Lights, Lullabies](https://www.wired.com/gallery/best-sound-machines/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
