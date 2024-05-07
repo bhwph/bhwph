@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ladies and gents, the president of Portugal](http://9gag.com/gag/a7o5xWq)
- - 😝 [Lmao, Helldivers 2 dev putting steam chart review in the game cosmetic](http://9gag.com/gag/adBNzYD)
- - 👉 [Would](http://9gag.com/gag/aO8q5j2)<!-- MEMES:END -->
+ - 6️⃣ [That plot twist in the middle \ud83e\udd23\ud83e\udd23](http://9gag.com/gag/an7YZ8E)
+ - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
+ - 👉 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)<!-- MEMES:END -->
 
 --- 
 
