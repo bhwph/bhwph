@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peak Cinema](http://9gag.com/gag/avy0KrM)
- - 😝 [Just think about it](http://9gag.com/gag/azxb35N)
- - 👉 [Save for later:](http://9gag.com/gag/agmybdW)<!-- MEMES:END -->
+ - 6️⃣ [Excited dog](http://9gag.com/gag/a1mAjRD)
+ - 😝 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
+ - 👉 [Not many i think](http://9gag.com/gag/ayN5w9V)<!-- MEMES:END -->
 
 --- 
 
