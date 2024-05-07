@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
- - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
- - 👉 [What 30 packs of cigarretes can do to cottton balls](http://9gag.com/gag/a9yd4Ro)<!-- MEMES:END -->
+ - 6️⃣ [Tarantino moment](http://9gag.com/gag/aVvO8Zw)
+ - 😝 [Every story deserves a happy ending](http://9gag.com/gag/arypEXp)
+ - 👉 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)<!-- MEMES:END -->
 
 --- 
 
