@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple adds a 13-inch iPad Air to the mix](https://www.theverge.com/2024/5/7/24090026/apple-ipad-air-m2-size-features-specs-2024)
- - [Cloud security startup Wiz raised a $1B Series E co-led by a16z, Lightspeed, and Thrive at a $12B valuation, and plans to expand its business via acquisitions &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240507/p19#a240507p19)
- - [A livestream of Apple&#39;s &quot;Let Loose&quot; event &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/240507/p18#a240507p18)<!-- TECH:END -->
+ - [Google Pixel 8a vs Samsung Galaxy A35 5G: Which should you buy?](https://www.androidauthority.com/google-pixel-8a-vs-samsung-galaxy-a35-5g-3439972/)
+ - [Not just iPad -- Mac gets AI-Enhanced Logic Pro &amp; Final Cut Pro updates](https://appleinsider.com/articles/24/05/07/not-just-ipad----mac-gets-ai-enhanced-logic-pro-final-cut-pro-updates?utm_medium=rss)
+ - [TikTok is suing the US government](https://www.theverge.com/2024/5/7/24151242/tiktok-sues-us-divestment-ban)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
