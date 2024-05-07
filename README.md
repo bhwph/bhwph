@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sekiro Meets Bikini Bottom In Another Crab&#39;s Treasure](https://kotaku.com/another-crabs-treasure-review-sekiro-soulslike-1851459555)
- - [Helldivers 2 Community Rallies To Rescue The Game&#39;s Steam Reviews](https://kotaku.com/helldivers-2-operation-clean-up-positive-review-steam-1851461173)
- - [A People’s History of Dwayne ‘The Rock’ Johnson](https://www.polygon.com/24150495/dwayne-the-rock-johnson-history)<!-- GAME:END -->
+ - [It&#39;s Time To Stop Giving Xbox Boss Phil Spencer A Pass](https://kotaku.com/xbox-phil-spencer-layoffs-hi-fi-rush-studios-closed-1851461546)
+ - [How to get Thavnairian Onions in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24126259/thavnairian-onions-how-to-get-garden-plant-crossbreed-grow-quests)
+ - [How to make the most of Destiny 2 Expansion Open Access, live now](https://blog.playstation.com/2024/05/07/how-to-make-the-most-of-destiny-2-expansion-open-access-live-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
