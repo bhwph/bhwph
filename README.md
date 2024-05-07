@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man that&#39;s bad](http://9gag.com/gag/avy0w2n)
- - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
- - 👉 [Oops!](http://9gag.com/gag/apRqjw8)<!-- MEMES:END -->
+ - 6️⃣ [No heavy breathing.](http://9gag.com/gag/avy0q8d)
+ - 😝 [Tarantino moment](http://9gag.com/gag/aVvO8Zw)
+ - 👉 [Thousands of Irish People Protesting Again The Invasion of Ireland](http://9gag.com/gag/axyNw02)<!-- MEMES:END -->
 
 --- 
 
