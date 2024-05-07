@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hades 2: Essential Settings To Tweak](https://kotaku.com/hades-2-early-access-god-mode-autofire-timer-1851461987)
- - [Hades 2: The Best Cauldron Incantations To Unlock First](https://kotaku.com/hades-2-incantations-unlock-first-tips-1851461926)
- - [Final Fantasy XIV Suffers DDoS Outage As Devs Work On A Fix](https://kotaku.com/final-fantasy-14-ffxiv-ddos-servers-outage-down-1851459148)<!-- GAME:END -->
+ - [It&#39;s Time To Stop Giving Xbox Boss Phil Spencer A Pass](https://kotaku.com/xbox-phil-spencer-layoffs-hi-fi-rush-studios-closed-1851461546)
+ - [Helldivers 2 Community Manager Seemingly Gone After PlayStation Login Meltdown](https://kotaku.com/helldivers-2-community-manager-fired-psn-steam-1851462302)
+ - [Report: Devs Were Working On Redfall&#39;s Offline Mode Up Until They Were Fired](https://kotaku.com/redfall-offline-mode-canceled-arkane-austin-xbox-pc-1851462296)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
