@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches its online store in South Africa, offering same-day and next-day delivery and 3,000+ pickup points, challenging local rivals like Takealot.com &lpar;Nqobile Dludla/Reuters&rpar;](http://www.techmeme.com/240507/p13#a240507p13)
- - [Akamai agrees to acquire Noname Security, which finds and fixes API vulnerabilities, for ~$450M, closing in Q2 2024; Noname was valued at $1B in December 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240507/p12#a240507p12)
- - [12 Best Sound Machines and White-Noise Machines &lpar;2024&rpar;: Cheap, Night Lights, Lullabies](https://www.wired.com/gallery/best-sound-machines/)<!-- TECH:END -->
+ - [Apple adds a 13-inch iPad Air to the mix](https://www.theverge.com/2024/5/7/24090026/apple-ipad-air-m2-size-features-specs-2024)
+ - [Cloud security startup Wiz raised a $1B Series E co-led by a16z, Lightspeed, and Thrive at a $12B valuation, and plans to expand its business via acquisitions &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240507/p19#a240507p19)
+ - [A livestream of Apple&#39;s &quot;Let Loose&quot; event &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/240507/p18#a240507p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
