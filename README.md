@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple in talks with Rivian to revive Apple Car project](https://appleinsider.com/articles/24/05/07/apple-car-may-not-be-cancelled-as-apple-discusses-partnership-with-rivian?utm_medium=rss)
- - [Met Gala Deepfakes Are Flooding Social Media](https://www.wired.com/story/met-gala-deepfakes-katy-perry-rihanna/)
- - [Google Pixel 8a pre-order deals and availability](https://www.androidauthority.com/google-pixel-8a-pre-order-deals-availability-3439734/)<!-- TECH:END -->
+ - [FCC Closes ‘Fast Lane’ Loophole in Final Net Neutrality Order](https://www.wired.com/story/fcc-fast-lane-loophole-final-net-neutrality-order/)
+ - [CMF by Nothing’s first phone has key details revealed in new leak](https://www.androidauthority.com/cmf-by-nothing-phone-leak-3440702/)
+ - [This is the Sonos Roam 2 portable speaker](https://www.theverge.com/2024/5/7/24151392/sonos-roam-2-speaker-features-design-exclusive)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
