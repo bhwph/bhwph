@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US court rejects Realtek&#39;s lawsuit accusing MediaTek of paying a company to file meritless US patent lawsuits to drive Realtek out of the TV chip market &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240506/p28#a240506p28)
- - [Google Cloud unveils Google Threat Intelligence, which uses Gemini and combines insights from Mandiant, VirusTotal, and Google to provide faster protection &lpar;Kyle Alspach/CRN&rpar;](http://www.techmeme.com/240506/p27#a240506p27)
- - [Google gives you more control with updated 2FA setup process](https://www.androidauthority.com/google-2fa-update-3440298/)<!-- TECH:END -->
+ - [Q&amp;A with Ethereum co-founder and Consensys CEO Joe Lubin on Consensys&#39; lawsuit against the SEC, implications of SEC classifying ETH as a security, and more &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240506/p29#a240506p29)
+ - [Boeing Starliner’s crew flight test delayed due to a valve problem](https://www.theverge.com/24150483/nasa-boeing-starliner-launch-livestream-watch)
+ - [Secret Apple &#39;Project ACDC&#39; to pioneer AI chips for data centers](https://appleinsider.com/articles/24/05/07/secret-apple-project-acdc-to-pioneer-ai-chips-for-data-centers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
