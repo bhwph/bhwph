@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Excited dog](http://9gag.com/gag/a1mAjRD)
- - 😝 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
- - 👉 [Not many i think](http://9gag.com/gag/ayN5w9V)<!-- MEMES:END -->
+ - 😝 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
+ - 👉 [What privicy?](http://9gag.com/gag/aPAvq2w)<!-- MEMES:END -->
 
 --- 
 
