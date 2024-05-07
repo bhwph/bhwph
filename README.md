@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Synopsys agrees to sell its Software Integrity Group business to a PE consortium led by Clearlake Capital and Francisco Partners in a deal valued at $2.1B &lpar;Reuters&rpar;](http://www.techmeme.com/240506/p22#a240506p22)
- - [Microsoft ramps up plans to capture carbon from burning wood](https://www.theverge.com/2024/5/6/24150398/microsoft-bioenergy-carbon-capture-stockholm-exergi)
- - [How to Watch the Boeing Starliner Launch](https://www.wired.com/story/watch-boeing-starliner-launch-livestream/)<!-- TECH:END -->
+ - [A US court rejects Realtek&#39;s lawsuit accusing MediaTek of paying a company to file meritless US patent lawsuits to drive Realtek out of the TV chip market &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240506/p28#a240506p28)
+ - [Google Cloud unveils Google Threat Intelligence, which uses Gemini and combines insights from Mandiant, VirusTotal, and Google to provide faster protection &lpar;Kyle Alspach/CRN&rpar;](http://www.techmeme.com/240506/p27#a240506p27)
+ - [Google gives you more control with updated 2FA setup process](https://www.androidauthority.com/google-2fa-update-3440298/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
