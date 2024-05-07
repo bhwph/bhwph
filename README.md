@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s Time To Stop Giving Xbox Boss Phil Spencer A Pass](https://kotaku.com/xbox-phil-spencer-layoffs-hi-fi-rush-studios-closed-1851461546)
- - [How to get Thavnairian Onions in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24126259/thavnairian-onions-how-to-get-garden-plant-crossbreed-grow-quests)
- - [How to make the most of Destiny 2 Expansion Open Access, live now](https://blog.playstation.com/2024/05/07/how-to-make-the-most-of-destiny-2-expansion-open-access-live-now/)<!-- GAME:END -->
+ - [Hades 2: Essential Settings To Tweak](https://kotaku.com/hades-2-early-access-god-mode-autofire-timer-1851461987)
+ - [Hades 2: The Best Cauldron Incantations To Unlock First](https://kotaku.com/hades-2-incantations-unlock-first-tips-1851461926)
+ - [Final Fantasy XIV Suffers DDoS Outage As Devs Work On A Fix](https://kotaku.com/final-fantasy-14-ffxiv-ddos-servers-outage-down-1851459148)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
