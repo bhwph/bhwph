@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo reports net profit up 13% YoY to ~$3.2B in the past fiscal year and expects profit to drop 39% YoY and revenue to drop 19% YoY in this fiscal year &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/240507/p4#a240507p4)
- - [And now his watch is ended: Fossil’s Wear OS smartwatches are now extinct](https://www.androidauthority.com/fossil-wear-os-smartwatch-exit-complete-3440376/)
- - [Nintendo confirms Switch 2 is coming, but you have time to save up](https://www.androidauthority.com/nintendo-switch-2-announcement-confirmation-3440364/)<!-- TECH:END -->
+ - [German chipmaker Infineon cuts its revenue forecast in the year to September 2024 to &amp;euro;15.1B, below &amp;euro;15.7B est., signaling automotive chip demand remains weak &lpar;Bloomberg&rpar;](http://www.techmeme.com/240507/p7#a240507p7)
+ - [iPad launch event: How to watch and everything we expect to see](https://www.androidauthority.com/how-to-watch-ipad-event-2024-3440083/)
+ - [Amazon’s Delivery Drones Won&#39;t Fly in Arizona&#39;s Summer Heat](https://www.wired.com/story/amazon-delivery-drones-heat-grounded-summer/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
