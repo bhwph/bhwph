@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus may have accidentally revealed the new AMD Strix Point naming scheme, before quickly pulling a &#39;nothing to see here&#39;](https://www.pcgamer.com/hardware/processors/asus-may-have-accidentally-revealed-the-new-amd-strix-point-naming-scheme-before-quickly-pulling-a-nothing-to-see-here)
- - [Feel the Burn Today with the Fire Vapor Special Edition Controller](https://news.xbox.com/en-us/2024/05/07/introducing-xbox-wireless-controller-fire-vapor-special-edition/)
- - [Microsoft Promises &#39;Make-Good Offers&#39; As It Cancels Redfall DLC Players Already Paid For](https://kotaku.com/redfall-hero-dlc-bite-back-refund-game-pass-1851460750)<!-- GAME:END -->
+ - [Sekiro Meets Bikini Bottom In Another Crab&#39;s Treasure](https://kotaku.com/another-crabs-treasure-review-sekiro-soulslike-1851459555)
+ - [Helldivers 2 Community Rallies To Rescue The Game&#39;s Steam Reviews](https://kotaku.com/helldivers-2-operation-clean-up-positive-review-steam-1851461173)
+ - [A People’s History of Dwayne ‘The Rock’ Johnson](https://www.polygon.com/24150495/dwayne-the-rock-johnson-history)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
