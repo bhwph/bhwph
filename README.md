@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That plot twist in the middle \ud83e\udd23\ud83e\udd23](http://9gag.com/gag/an7YZ8E)
- - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
- - 👉 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)<!-- MEMES:END -->
+ - 6️⃣ [Peak Cinema](http://9gag.com/gag/avy0KrM)
+ - 😝 [Just think about it](http://9gag.com/gag/azxb35N)
+ - 👉 [Save for later:](http://9gag.com/gag/agmybdW)<!-- MEMES:END -->
 
 --- 
 
