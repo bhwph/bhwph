@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Every story deserves a happy ending](http://9gag.com/gag/arypEXp)
- - 😝 [He knows to much](http://9gag.com/gag/aPAv2jq)
- - 👉 [Fair rules](http://9gag.com/gag/aByKzVO)<!-- MEMES:END -->
+ - 6️⃣ [Bro evolved so fast in like 20 years](http://9gag.com/gag/aByKzrN)
+ - 😝 [Well... Europe does it.](http://9gag.com/gag/a6Zw6e8)
+ - 👉 [He knows to much](http://9gag.com/gag/aPAv2jq)<!-- MEMES:END -->
 
 --- 
 
