@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - 😝 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
- - 👉 [Lol](http://9gag.com/gag/a9ydeNm)<!-- MEMES:END -->
+ - 6️⃣ [Every story deserves a happy ending](http://9gag.com/gag/arypEXp)
+ - 😝 [He knows to much](http://9gag.com/gag/aPAv2jq)
+ - 👉 [Fair rules](http://9gag.com/gag/aByKzVO)<!-- MEMES:END -->
 
 --- 
 
