@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8a vs Samsung Galaxy A35 5G: Which should you buy?](https://www.androidauthority.com/google-pixel-8a-vs-samsung-galaxy-a35-5g-3439972/)
- - [Not just iPad -- Mac gets AI-Enhanced Logic Pro &amp; Final Cut Pro updates](https://appleinsider.com/articles/24/05/07/not-just-ipad----mac-gets-ai-enhanced-logic-pro-final-cut-pro-updates?utm_medium=rss)
- - [TikTok is suing the US government](https://www.theverge.com/2024/5/7/24151242/tiktok-sues-us-divestment-ban)<!-- TECH:END -->
+ - [Apple in talks with Rivian to revive Apple Car project](https://appleinsider.com/articles/24/05/07/apple-car-may-not-be-cancelled-as-apple-discusses-partnership-with-rivian?utm_medium=rss)
+ - [Met Gala Deepfakes Are Flooding Social Media](https://www.wired.com/story/met-gala-deepfakes-katy-perry-rihanna/)
+ - [Google Pixel 8a pre-order deals and availability](https://www.androidauthority.com/google-pixel-8a-pre-order-deals-availability-3439734/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
