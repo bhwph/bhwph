@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tarantino moment](http://9gag.com/gag/aVvO8Zw)
- - 😝 [Every story deserves a happy ending](http://9gag.com/gag/arypEXp)
- - 👉 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)<!-- MEMES:END -->
+ - 6️⃣ [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
+ - 😝 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
+ - 👉 [Lol](http://9gag.com/gag/a9ydeNm)<!-- MEMES:END -->
 
 --- 
 
