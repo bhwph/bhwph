@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro evolved so fast in like 20 years](http://9gag.com/gag/aByKzrN)
- - 😝 [Well... Europe does it.](http://9gag.com/gag/a6Zw6e8)
- - 👉 [He knows to much](http://9gag.com/gag/aPAv2jq)<!-- MEMES:END -->
+ - 6️⃣ [Ladies and gents, the president of Portugal](http://9gag.com/gag/a7o5xWq)
+ - 😝 [Lmao, Helldivers 2 dev putting steam chart review in the game cosmetic](http://9gag.com/gag/adBNzYD)
+ - 👉 [Would](http://9gag.com/gag/aO8q5j2)<!-- MEMES:END -->
 
 --- 
 
