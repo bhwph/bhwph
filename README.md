@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC Closes ‘Fast Lane’ Loophole in Final Net Neutrality Order](https://www.wired.com/story/fcc-fast-lane-loophole-final-net-neutrality-order/)
- - [CMF by Nothing’s first phone has key details revealed in new leak](https://www.androidauthority.com/cmf-by-nothing-phone-leak-3440702/)
- - [This is the Sonos Roam 2 portable speaker](https://www.theverge.com/2024/5/7/24151392/sonos-roam-2-speaker-features-design-exclusive)<!-- TECH:END -->
+ - [Sources: BigCommerce, provider of software and an e-commerce platform to retailers, is exploring a sale after losing 90% of its market value since its 2020 IPO &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/240507/p43#a240507p43)
+ - [US indicts LockBit ransomware ringleader, offers $10 million reward](https://www.theverge.com/2024/5/7/24151493/us-lockbit-ransomware-ringleader-indictment-reward)
+ - [A look at LPCAMM2, a totally modular, repairable, and upgradeable memory standard for laptops that doesn&#39;t require soldering LPDDR chips to the motherboard &lpar;Carsten Frauenheim/iFixit News&rpar;](http://www.techmeme.com/240507/p42#a240507p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
