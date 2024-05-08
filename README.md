@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lol](http://9gag.com/gag/a9ydeNm)
- - 😝 [Making a drink](http://9gag.com/gag/apRq4P5)
- - 👉 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)<!-- MEMES:END -->
+ - 6️⃣ [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
+ - 😝 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
+ - 👉 [Ladies and gents, the president of Portugal](http://9gag.com/gag/a7o5xWq)<!-- MEMES:END -->
 
 --- 
 
