@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Joe Biden to announce AI data center at failed Foxconn site](https://www.theverge.com/2024/5/8/24151927/microsoft-ai-data-center-foxconn-wisconsin-biden)
- - [Apple TV Plus is turning into the best place for streaming sci-fi](https://www.theverge.com/24150193/apple-tv-plus-sci-fi-streaming-dark-matter-constellation)
- - [Deal: The Sony 75-inch X80K Smart TV hits its best price in 12 months](https://www.androidauthority.com/deal-sony-75-inch-x80k-smart-tv-3440828/)<!-- TECH:END -->
+ - [Apple profits surge as consumers choose pricier iPhone storage options](https://appleinsider.com/articles/24/05/08/apple-profits-surge-as-consumers-choose-pricier-iphone-storage-options?utm_medium=rss)
+ - [19 Best Sex Toys &lpar;2024&rpar;: Gender Inclusive, Couples, Solo](https://www.wired.com/gallery/best-sex-toys-and-tech/)
+ - [Intel expects revenue blow after US blocks chip sales to Huawei](https://www.theverge.com/2024/5/8/24152031/intel-revenue-huawei-commerce-department-license-revoked)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
