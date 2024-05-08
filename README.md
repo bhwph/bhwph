@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 could bring better video stabilization to third-party camera apps](https://www.androidauthority.com/android-15-eyes-free-videography-3441137/)
- - [Top FBI Official Urges Agents to Use Warrantless Wiretaps on US Soil](https://www.wired.com/story/fbi-section-702-us-person-queries-email/)
- - [Apple loses another designer who worked in Jony Ive&#39;s core team](https://appleinsider.com/articles/24/05/08/apple-loses-another-designer-who-worked-in-jony-ives-core-team?utm_medium=rss)<!-- TECH:END -->
+ - [The Xbox app on Windows is getting even more handheld-friendly](https://www.theverge.com/2024/5/8/24152252/microsoft-xbox-handheld-compact-mode-controller-improvements)
+ - [Google is bringing a “Circle to Search” variation to Chrome for Desktop](https://www.androidauthority.com/circle-to-search-chrome-3441171/)
+ - [Inside Microsoft’s Xbox turmoil](https://www.theverge.com/2024/5/8/24151814/microsoft-xbox-layoffs-strategy-changes-arkane-tango)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
