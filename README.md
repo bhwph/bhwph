@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What privicy?](http://9gag.com/gag/aPAvq2w)
+ - 6️⃣ [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
  - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - 👉 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)<!-- MEMES:END -->
+ - 👉 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)<!-- MEMES:END -->
 
 --- 
 
