@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Rare Piece Of Batman: Arkham History Is Back On Streaming](https://kotaku.com/coheed-and-cambria-deranged-joke-single-batman-arkham-1851463330)
- - [Star Trek: Discovery boldly goes where no Trek has gone before by saying religion is... OK, actually](https://www.polygon.com/24151113/star-trek-discovery-religion-whistlespeak)
- - [One artist is adding Fortnite into thrift shop paintings, and his latest masterpiece involves the Battle Bus and Peely](https://www.pcgamer.com/games/battle-royale/one-artist-is-adding-fortnite-into-thrift-shop-paintings-and-his-latest-masterpiece-involves-the-battle-bus-and-peely)<!-- GAME:END -->
+ - [Kingdom of the Planet of the Apes brings nothing to the table](https://www.polygon.com/reviews/24152022/kingdom-of-the-planet-of-the-apes-review)
+ - [Kotaku’s Hopes For Spyro The Dragon’s &lpar;Reported&rpar; Comeback](https://kotaku.com/spyro-the-dragon-4-in-development-toys-for-bob-1851459412)
+ - [Fortnite bans Yoda for turning into green spaghetti, crashing your game](https://www.pcgamer.com/games/battle-royale/fortnite-bans-yoda-for-turning-into-green-spaghetti-crashing-your-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
