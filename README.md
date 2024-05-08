@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox’s Shift To ‘High-Impact’ Games Is Misguided At Best, Reckless At Worst](https://kotaku.com/xbox-bethesda-layoffs-high-impact-games-1851464703)
- - [Mark Hamill Is Back As The Joker In MultiVersus](https://kotaku.com/mark-hamill-joker-voice-multiversus-batman-retired-1851464536)
- - [What’s Even The Point Of Xbox Game Pass Now?](https://kotaku.com/xbox-game-pass-arkane-tango-gameworks-closure-1851464470)<!-- GAME:END -->
+ - [EA studios &#39;hunger&#39; to start using generative AI &#39;as quickly as possible,&#39; says CEO](https://www.pcgamer.com/gaming-industry/ea-studios-hunger-to-start-using-generative-ai-as-quickly-as-possible-says-ceo)
+ - [Honkai: Star Rail codes for May 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [Helldivers 2 CEO is worried it&#39;s &#39;too soon&#39; after the PSN fiasco to release a $10 warbond, so he&#39;s letting players vote on a delay](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-ceo-is-worried-its-too-soon-after-the-psn-fiasco-to-release-a-dollar10-warbond-so-hes-letting-players-vote-on-a-delay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
