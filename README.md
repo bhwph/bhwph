@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok vs. US filing: ByteDance founder Zhang Yiming owns a 21% stake in TikTok&#39;s parent company, and is living in Singapore while keeping Chinese citizenship &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240508/p5#a240508p5)
- - [Best Tennis Balls of 2024     - CNET](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)
- - [Sources: Getir faced pressure from investors to cut costs and refocus on Turkey; a source says Mubadala and G Squared have agreed to invest as much as $200M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p4#a240508p4)<!-- TECH:END -->
+ - [Sources: Intel is partnering with 14 Japanese companies to develop tech by 2028 to automate the largely manual &quot;back-end&quot; chipmaking processes like packaging &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240508/p7#a240508p7)
+ - [Moving Soon? All the Discounts You Can Get     - CNET](https://www.cnet.com/home/services/moving-soon-all-the-discounts-you-can-get/#ftag=CAD590a51e)
+ - [Can’t get Circle To Search? Google Lens could have you covered &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-lens-features-circle-to-search-apk-teardown-3440008/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
