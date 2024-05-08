@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
- - 😝 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
+ - 6️⃣ [Lol](http://9gag.com/gag/a9ydeNm)
+ - 😝 [Making a drink](http://9gag.com/gag/apRq4P5)
  - 👉 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)<!-- MEMES:END -->
 
 --- 
