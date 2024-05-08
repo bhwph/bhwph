@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You&#39;ve come to the right place](http://9gag.com/gag/a9ydx31)
- - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - 👉 [My psychologist: the giant dwarf does not exist.... The giant dwarf:](http://9gag.com/gag/ae9NnPq)<!-- MEMES:END -->
+ - 6️⃣ [What privicy?](http://9gag.com/gag/aPAvq2w)
+ - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
+ - 👉 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)<!-- MEMES:END -->
 
 --- 
 
