@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sherk](http://9gag.com/gag/ae9NnWO)
- - 😝 [The cooling must be great thou](http://9gag.com/gag/avy0N7q)
- - 👉 [Now this is good..](http://9gag.com/gag/aryp7yV)<!-- MEMES:END -->
+ - 6️⃣ [What privicy?](http://9gag.com/gag/aPAvq2w)
+ - 😝 [Okay I will not not do that not by before tomorrow but after yesterday if it doesn\u2019t have to not happen\u2026.](http://9gag.com/gag/agmyWgW)
+ - 👉 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)<!-- MEMES:END -->
 
 --- 
 
