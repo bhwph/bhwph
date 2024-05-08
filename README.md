@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel expects Q2 revenue to be &quot;below the midpoint&quot; of the previously guided $12.5B to $13.5B range after a new US ban on Huawei chip exports &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/240508/p28#a240508p28)
- - [Apple&#39;s &#39;Crush&#39; iPad Pro ad sparks intense backlash from creatives](https://appleinsider.com/articles/24/05/08/apples-crush-ipad-pro-ad-sparks-intense-backlash-from-creatives?utm_medium=rss)
- - [Sources: US prosecutors are examining if Tesla committed securities or wire fraud by misleading investors and consumers about Autopilot and Full Self-Driving &lpar;Reuters&rpar;](http://www.techmeme.com/240508/p27#a240508p27)<!-- TECH:END -->
+ - [President Joe Biden to announce AI data center at failed Foxconn site](https://www.theverge.com/2024/5/8/24151927/microsoft-ai-data-center-foxconn-wisconsin-biden)
+ - [Apple TV Plus is turning into the best place for streaming sci-fi](https://www.theverge.com/24150193/apple-tv-plus-sci-fi-streaming-dark-matter-constellation)
+ - [Deal: The Sony 75-inch X80K Smart TV hits its best price in 12 months](https://www.androidauthority.com/deal-sony-75-inch-x80k-smart-tv-3440828/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
