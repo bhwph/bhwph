@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA CEO says they&#39;ve learned &#39;valuable lessons&#39;, so the next Battlefield is going to be &#39;another tremendous live service&#39;](https://www.pcgamer.com/games/fps/ea-ceo-says-theyve-learned-valuable-lessons-so-the-next-battlefield-is-going-to-be-another-tremendous-live-service)
- - [Metaphor: ReFantazio is 100% shaping up to be medieval Persona and I cannot wait](https://www.pcgamer.com/games/rpg/metaphor-refantazio-is-100-shaping-up-to-be-medieval-persona-and-i-cannot-wait)
- - [Activision Blizzard set to cough up $23.4M after losing a 9-year-long patent infringement battle, but claims &#39;We have never used the patented technologies at issue in our games&#39;](https://www.pcgamer.com/gaming-industry/activision-blizzard-set-to-cough-up-dollar234m-after-losing-a-9-year-long-patent-infringement-battle-but-claims-we-have-never-used-the-patented-technologies-at-issue-in-our-games)<!-- GAME:END -->
+ - [A Rare Piece Of Batman: Arkham History Is Back On Streaming](https://kotaku.com/coheed-and-cambria-deranged-joke-single-batman-arkham-1851463330)
+ - [Star Trek: Discovery boldly goes where no Trek has gone before by saying religion is... OK, actually](https://www.polygon.com/24151113/star-trek-discovery-religion-whistlespeak)
+ - [One artist is adding Fortnite into thrift shop paintings, and his latest masterpiece involves the Battle Bus and Peely](https://www.pcgamer.com/games/battle-royale/one-artist-is-adding-fortnite-into-thrift-shop-paintings-and-his-latest-masterpiece-involves-the-battle-bus-and-peely)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
