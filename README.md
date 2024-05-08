@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amit Midha, CEO of Alat, a $100B investment fund focused on AI and chips backed by Saudi Arabia&#39;s PIF, says the fund will divest from China if the US asks &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p1#a240508p1)
- - [Researchers say they have unlocked a kind of sperm whale &quot;alphabet&quot; with the aid of machine learning, a breakthrough in understanding cetacean communication &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240507/p55#a240507p55)
- - [Today&#39;s Wordle Hints and Answer: Help for May 8, #1054     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-8-1054/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok vs. US filing: ByteDance founder Zhang Yiming owns a 21% stake in TikTok&#39;s parent company, and is living in Singapore while keeping Chinese citizenship &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240508/p5#a240508p5)
+ - [Best Tennis Balls of 2024     - CNET](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)
+ - [Sources: Getir faced pressure from investors to cut costs and refocus on Turkey; a source says Mubadala and G Squared have agreed to invest as much as $200M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p4#a240508p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
