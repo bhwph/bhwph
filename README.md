@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: BigCommerce, provider of software and an e-commerce platform to retailers, is exploring a sale after losing 90% of its market value since its 2020 IPO &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/240507/p43#a240507p43)
- - [US indicts LockBit ransomware ringleader, offers $10 million reward](https://www.theverge.com/2024/5/7/24151493/us-lockbit-ransomware-ringleader-indictment-reward)
- - [A look at LPCAMM2, a totally modular, repairable, and upgradeable memory standard for laptops that doesn&#39;t require soldering LPDDR chips to the motherboard &lpar;Carsten Frauenheim/iFixit News&rpar;](http://www.techmeme.com/240507/p42#a240507p42)<!-- TECH:END -->
+ - [President Biden signs the REPORT Act into law, which levies hefty fines against companies that neglect to report CSAM on their sites to the NCMEC&#39;s CyberTipline &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240507/p50#a240507p50)
+ - [C’mon, Why Isn’t the New Apple Pencil Pro Backward Compatible?](https://www.wired.com/story/apple-pencil-pro-not-backward-compatible/)
+ - [Best Wireless Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
