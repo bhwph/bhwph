@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Xbox app on Windows is getting even more handheld-friendly](https://www.theverge.com/2024/5/8/24152252/microsoft-xbox-handheld-compact-mode-controller-improvements)
- - [Google is bringing a “Circle to Search” variation to Chrome for Desktop](https://www.androidauthority.com/circle-to-search-chrome-3441171/)
- - [Inside Microsoft’s Xbox turmoil](https://www.theverge.com/2024/5/8/24151814/microsoft-xbox-layoffs-strategy-changes-arkane-tango)<!-- TECH:END -->
+ - [US hospital operator Ascension reports disruptions to its clinical operations due to a suspected cybersecurity incident and engages Mandiant to help investigate &lpar;Pratik Jain/Reuters&rpar;](http://www.techmeme.com/240508/p45#a240508p45)
+ - [The Pixel 8a can also be located through Find My Device when it’s out of battery](https://www.androidauthority.com/pixel-8a-find-my-device-network-3441230/)
+ - [OpenAI’s Model Spec outlines some basic rules for AI](https://www.theverge.com/2024/5/8/24152273/openai-model-spec-behavior-rules-guidelines-artificial-intelligence)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
