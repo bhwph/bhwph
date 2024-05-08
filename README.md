@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Russia&#39;s homegrown Wikipedia promises a &#39;different direction&#39; from its inspiration: One where Yevgeny Prigozhin just happened to explode in mid-air](https://www.pcgamer.com/software/russias-homegrown-wikipedia-promises-a-different-direction-from-its-inspiration-one-where-yevgeny-prigozhin-just-happened-to-explode-in-mid-air)
- - [Prey, Arkane Austin’s masterpiece, still deserves your attention](https://www.polygon.com/gaming/24151555/prey-arkane-studios-austin-games-microsoft-xbox)
- - [Sega announces Sonic Rumble, a mobile Fall Guys-style party game](https://www.polygon.com/24152123/sega-sonic-rumble-party-game-beta-testing)<!-- GAME:END -->
+ - [Xbox’s Shift To ‘High-Impact’ Games Is Misguided At Best, Reckless At Worst](https://kotaku.com/xbox-bethesda-layoffs-high-impact-games-1851464703)
+ - [Mark Hamill Is Back As The Joker In MultiVersus](https://kotaku.com/mark-hamill-joker-voice-multiversus-batman-retired-1851464536)
+ - [What’s Even The Point Of Xbox Game Pass Now?](https://kotaku.com/xbox-game-pass-arkane-tango-gameworks-closure-1851464470)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
