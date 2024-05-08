@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple profits surge as consumers choose pricier iPhone storage options](https://appleinsider.com/articles/24/05/08/apple-profits-surge-as-consumers-choose-pricier-iphone-storage-options?utm_medium=rss)
- - [19 Best Sex Toys &lpar;2024&rpar;: Gender Inclusive, Couples, Solo](https://www.wired.com/gallery/best-sex-toys-and-tech/)
- - [Intel expects revenue blow after US blocks chip sales to Huawei](https://www.theverge.com/2024/5/8/24152031/intel-revenue-huawei-commerce-department-license-revoked)<!-- TECH:END -->
+ - [Android 15 could bring better video stabilization to third-party camera apps](https://www.androidauthority.com/android-15-eyes-free-videography-3441137/)
+ - [Top FBI Official Urges Agents to Use Warrantless Wiretaps on US Soil](https://www.wired.com/story/fbi-section-702-us-person-queries-email/)
+ - [Apple loses another designer who worked in Jony Ive&#39;s core team](https://appleinsider.com/articles/24/05/08/apple-loses-another-designer-who-worked-in-jony-ives-core-team?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
