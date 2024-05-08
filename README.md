@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s Time To Stop Giving Xbox Boss Phil Spencer A Pass](https://kotaku.com/xbox-phil-spencer-layoffs-hi-fi-rush-studios-closed-1851461546)
- - [Helldivers 2 Community Manager Seemingly Gone After PlayStation Login Meltdown](https://kotaku.com/helldivers-2-community-manager-fired-psn-steam-1851462302)
- - [Report: Devs Were Working On Redfall&#39;s Offline Mode Up Until They Were Fired](https://kotaku.com/redfall-offline-mode-canceled-arkane-austin-xbox-pc-1851462296)<!-- GAME:END -->
+ - [My new favorite Elden Ring mod replaces Torrent, goats, deer, and boars with capybaras](https://www.pcgamer.com/games/rpg/my-new-favorite-elden-ring-mod-replaces-torrent-goats-deer-and-boars-with-capybaras)
+ - [How to find and use Thalamus in Hades 2](https://www.pcgamer.com/games/action/hades-2-how-to-find-and-use-thalamus)
+ - [Steam review bombing is gaming&#39;s most powerful method of protest: 3 takeaways from Helldivers 2&#39;s weekend meltdown](https://www.pcgamer.com/games/third-person-shooter/steam-review-bombing-is-gamings-most-powerful-method-of-protest-3-takeaways-from-helldivers-2s-weekend-meltdown)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
