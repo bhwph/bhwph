@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Intel is partnering with 14 Japanese companies to develop tech by 2028 to automate the largely manual &quot;back-end&quot; chipmaking processes like packaging &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240508/p7#a240508p7)
- - [Moving Soon? All the Discounts You Can Get     - CNET](https://www.cnet.com/home/services/moving-soon-all-the-discounts-you-can-get/#ftag=CAD590a51e)
- - [Can’t get Circle To Search? Google Lens could have you covered &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-lens-features-circle-to-search-apk-teardown-3440008/)<!-- TECH:END -->
+ - [Microsoft closes the engineering section of its Africa Development Center in Nigeria, two years after its opening, reportedly impacting 100+ engineers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p18#a240508p18)
+ - [Tim Cook promises aid for Brazil flooding relief](https://appleinsider.com/articles/24/05/08/tim-cook-promises-aid-for-brazil-flooding-relief?utm_medium=rss)
+ - [Ultra Retina XDR OLED screens in iPad Pro are just the latest evolution of Apple&#39;s flagship display tech](https://appleinsider.com/articles/24/05/07/ultra-retina-xdr-oled-screens-in-ipad-pro-are-just-the-latest-evolution-of-apples-flagship-display-tech?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
