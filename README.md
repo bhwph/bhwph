@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Excited dog](http://9gag.com/gag/a1mAjRD)
- - 😝 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
- - 👉 [What privicy?](http://9gag.com/gag/aPAvq2w)<!-- MEMES:END -->
+ - 6️⃣ [The Irish speak in fire](http://9gag.com/gag/aAyY8Bp)
+ - 😝 [When you realize that you were once the enemy within. Self-awareness is important](http://9gag.com/gag/aGy94dn)
+ - 👉 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)<!-- MEMES:END -->
 
 --- 
 
