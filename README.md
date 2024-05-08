@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft closes the engineering section of its Africa Development Center in Nigeria, two years after its opening, reportedly impacting 100+ engineers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p18#a240508p18)
- - [Tim Cook promises aid for Brazil flooding relief](https://appleinsider.com/articles/24/05/08/tim-cook-promises-aid-for-brazil-flooding-relief?utm_medium=rss)
- - [Ultra Retina XDR OLED screens in iPad Pro are just the latest evolution of Apple&#39;s flagship display tech](https://appleinsider.com/articles/24/05/07/ultra-retina-xdr-oled-screens-in-ipad-pro-are-just-the-latest-evolution-of-apples-flagship-display-tech?utm_medium=rss)<!-- TECH:END -->
+ - [Intel expects Q2 revenue to be &quot;below the midpoint&quot; of the previously guided $12.5B to $13.5B range after a new US ban on Huawei chip exports &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/240508/p28#a240508p28)
+ - [Apple&#39;s &#39;Crush&#39; iPad Pro ad sparks intense backlash from creatives](https://appleinsider.com/articles/24/05/08/apples-crush-ipad-pro-ad-sparks-intense-backlash-from-creatives?utm_medium=rss)
+ - [Sources: US prosecutors are examining if Tesla committed securities or wire fraud by misleading investors and consumers about Autopilot and Full Self-Driving &lpar;Reuters&rpar;](http://www.techmeme.com/240508/p27#a240508p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
