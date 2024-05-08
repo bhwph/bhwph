@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - 😝 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
- - 👉 [Latino&#39;s priorities](http://9gag.com/gag/ayN5jMp)<!-- MEMES:END -->
+ - 6️⃣ [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
+ - 😝 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
+ - 👉 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)<!-- MEMES:END -->
 
 --- 
 
