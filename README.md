@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What privicy?](http://9gag.com/gag/aPAvq2w)
- - 😝 [Okay I will not not do that not by before tomorrow but after yesterday if it doesn\u2019t have to not happen\u2026.](http://9gag.com/gag/agmyWgW)
- - 👉 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)<!-- MEMES:END -->
+ - 6️⃣ [You&#39;ve come to the right place](http://9gag.com/gag/a9ydx31)
+ - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
+ - 👉 [My psychologist: the giant dwarf does not exist.... The giant dwarf:](http://9gag.com/gag/ae9NnPq)<!-- MEMES:END -->
 
 --- 
 
