@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t know why she always need to brag about unimportant stuff.](http://9gag.com/gag/azxbzDq)
- - 😝 [Eva on it again](http://9gag.com/gag/a1mAyov)
- - 👉 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)<!-- MEMES:END -->
+ - 6️⃣ [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
+ - 😝 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
+ - 👉 [Latino&#39;s priorities](http://9gag.com/gag/ayN5jMp)<!-- MEMES:END -->
 
 --- 
 
