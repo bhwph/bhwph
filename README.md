@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Who can you invite to the Hades 2 hot tub?](https://www.pcgamer.com/hades-2-hot-springs-guide)
- - [Today&#39;s Wordle answer for Wednesday, May 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-8-2024)
- - [D&amp;D&#39;s new rules will be available under a Creative Commons licence](https://www.pcgamer.com/games/rpg/dandds-new-rules-will-be-available-under-a-creative-commons-licence)<!-- GAME:END -->
+ - [EA CEO says they&#39;ve learned &#39;valuable lessons&#39;, so the next Battlefield is going to be &#39;another tremendous live service&#39;](https://www.pcgamer.com/games/fps/ea-ceo-says-theyve-learned-valuable-lessons-so-the-next-battlefield-is-going-to-be-another-tremendous-live-service)
+ - [Metaphor: ReFantazio is 100% shaping up to be medieval Persona and I cannot wait](https://www.pcgamer.com/games/rpg/metaphor-refantazio-is-100-shaping-up-to-be-medieval-persona-and-i-cannot-wait)
+ - [Activision Blizzard set to cough up $23.4M after losing a 9-year-long patent infringement battle, but claims &#39;We have never used the patented technologies at issue in our games&#39;](https://www.pcgamer.com/gaming-industry/activision-blizzard-set-to-cough-up-dollar234m-after-losing-a-9-year-long-patent-infringement-battle-but-claims-we-have-never-used-the-patented-technologies-at-issue-in-our-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
