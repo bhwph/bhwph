@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iRobot appoints Gary Cohen as its new CEO after Colin Angle resigned in January 2024 and forecasts 2024 revenue with a midpoint of $837.5M, vs. $829.8M expected &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/240507/p53#a240507p53)
- - [Robinhood CEO Vlad Tenev decries the &quot;regulatory onslaught&quot; and calls SEC&#39;s actions &quot;another improper attempt by the administrative state to stifle innovation&quot; &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/240507/p52#a240507p52)
- - [Red Hat announces RHEL AI, a platform for developing and running open source LLMs, and InstructLab, a community project to let experts enhance AI models &lpar;Bryson Masse/VentureBeat&rpar;](http://www.techmeme.com/240507/p51#a240507p51)<!-- TECH:END -->
+ - [Amit Midha, CEO of Alat, a $100B investment fund focused on AI and chips backed by Saudi Arabia&#39;s PIF, says the fund will divest from China if the US asks &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p1#a240508p1)
+ - [Researchers say they have unlocked a kind of sperm whale &quot;alphabet&quot; with the aid of machine learning, a breakthrough in understanding cetacean communication &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240507/p55#a240507p55)
+ - [Today&#39;s Wordle Hints and Answer: Help for May 8, #1054     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-8-1054/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
