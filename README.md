@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Irish speak in fire](http://9gag.com/gag/aAyY8Bp)
- - 😝 [When you realize that you were once the enemy within. Self-awareness is important](http://9gag.com/gag/aGy94dn)
- - 👉 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)<!-- MEMES:END -->
+ - 6️⃣ [I don&#39;t know why she always need to brag about unimportant stuff.](http://9gag.com/gag/azxbzDq)
+ - 😝 [Eva on it again](http://9gag.com/gag/a1mAyov)
+ - 👉 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)<!-- MEMES:END -->
 
 --- 
 
