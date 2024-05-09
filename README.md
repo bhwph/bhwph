@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bumble reports Q1 revenue up 10.2% YoY to $267.8M, vs. $265.5M est., total paying users of ~4M, up from 3.5M a year ago, and expects Q2 revenue below estimates &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240508/p50#a240508p50)
- - [Sources: Microsoft plans more cuts after closing several game studios, as the massive Activision acquisition has ramped up scrutiny on the Xbox division &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240508/p49#a240508p49)
- - [How Not to Get Brain-Eating Worms and Mercury Poisoning](https://www.wired.com/story/brain-parasite-worm-mercury-fish-robert-kennedy-rfk/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for May 9, #1055     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-9-1055/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints and Answer -- Help for May 9, #333     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-9-333/#ftag=CAD590a51e)
+ - [RunPod, which offers a globally distributed GPU cloud platform for developing and deploying AI, raised a $20M seed co-led by Intel Capital and Dell Technologies &lpar;James Thomason/VentureBeat&rpar;](http://www.techmeme.com/240508/p51#a240508p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
