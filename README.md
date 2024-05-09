@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
- - 😝 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)
- - 👉 [Man saves his cat from pit bull attack](http://9gag.com/gag/a9yd94D)<!-- MEMES:END -->
+ - 6️⃣ [The cooling must be great thou](http://9gag.com/gag/avy0N7q)
+ - 😝 [The famous late revenge](http://9gag.com/gag/an7Y6yq)
+ - 👉 [Well well well...](http://9gag.com/gag/aGy9mbG)<!-- MEMES:END -->
 
 --- 
 
