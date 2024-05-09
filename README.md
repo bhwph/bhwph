@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)
- - 😝 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
- - 👉 [And the Darwin award goes tooooo....](http://9gag.com/gag/aYQb3G2)<!-- MEMES:END -->
+ - 6️⃣ [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
+ - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - 👉 [Man saves his cat from pit bull attack](http://9gag.com/gag/a9yd94D)<!-- MEMES:END -->
 
 --- 
 
