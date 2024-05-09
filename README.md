@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)
- - 😝 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)
- - 👉 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)<!-- MEMES:END -->
+ - 😝 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
+ - 👉 [And the Darwin award goes tooooo....](http://9gag.com/gag/aYQb3G2)<!-- MEMES:END -->
 
 --- 
 
