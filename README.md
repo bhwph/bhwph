@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What privicy?](http://9gag.com/gag/aPAvq2w)
- - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - 👉 [Wait a second](http://9gag.com/gag/aMV1Lz6)<!-- MEMES:END -->
+ - 6️⃣ [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - 😝 [I wonder why people don&#39;t trust journalists ....](http://9gag.com/gag/agmyPLn)
+ - 👉 [Chinese food support](http://9gag.com/gag/aKGz0VQ)<!-- MEMES:END -->
 
 --- 
 
