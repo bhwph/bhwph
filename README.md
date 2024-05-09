@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte Aorus CO49DQ review](https://www.pcgamer.com/hardware/gaming-monitors/gigabyte-aorus-co49dq-review)
- - [TikTok files a lawsuit to fight the &#39;extraordinary intrusion on free speech rights&#39; that would result from a nationwide ban](https://www.pcgamer.com/software/tiktok-files-a-lawsuit-to-fight-the-extraordinary-intrusion-on-free-speech-rights-that-would-result-from-a-nationwide-ban)
- - [Corsair to go all in on sim racing with plans to acquire Fanatec and help with its €70 million debt](https://www.pcgamer.com/games/racing/corsair-to-go-all-in-on-sim-racing-after-it-announces-plans-acquire-fanatec)<!-- GAME:END -->
+ - [Nightdive&#39;s next game, about a chef in space who battles aliens with a frying pan, is coming next week](https://www.pcgamer.com/games/fps/nightdives-next-game-about-a-chef-in-space-who-battles-aliens-with-a-frying-pan-is-coming-next-week)
+ - [Nvidia overtakes Qualcomm to become the biggest chip designer by revenue, which should give Jensen plenty to smile about](https://www.pcgamer.com/hardware/nvidia-overtakes-qualcomm-to-become-the-biggest-chip-designer-by-revenue-which-should-give-jensen-plenty-to-smile-about)
+ - [Someone&#39;s nuked Phil Spencer in Fallout 76](https://www.pcgamer.com/games/fallout/someones-nuked-phil-spencer-in-fallout-76)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
