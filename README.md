@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu VP Qu Jing posted several videos on Douyin demeaning staff, intended to promote Baidu, that reignited criticism of Chinese tech companies&#39; work culture &lpar;Financial Times&rpar;](http://www.techmeme.com/240509/p9#a240509p9)
- - [New Nintendo Switch 2 leaks highlight specs, launch timeline, backwards compatibility, and more](https://www.androidauthority.com/nintendo-switch-2-leaks-specs-launch-timeline-backwards-compatibility-3441297/)
- - [Binance sources and documents: internal investigators, dismissed in late 2023, found evidence of market manipulation by DWF Labs and secret trading accounts &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p8#a240509p8)<!-- TECH:END -->
+ - [Roblox reports Q1 revenue up 22% YoY to $801M, bookings up 19% YoY to $923M, DAUs up 17% YoY to 77.7M, and cuts its full-year bookings forecast; RBLX drops 30% &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240509/p14#a240509p14)
+ - [The Bear season 3: Release window and other rumors](https://www.androidauthority.com/the-bear-season-3-release-date-3439546/)
+ - [TikTok plans to start automatically labeling some AI content, including from Dall-E and Adobe&#39;s Firefly, and joins the Adobe-led content credential coalition &lpar;Financial Times&rpar;](http://www.techmeme.com/240509/p13#a240509p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
