@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acer Chromebook Plus 514 Review: A Great Budget Laptop](https://www.wired.com/review/acer-chromebook-plus-514/)
- - [Sonos says its controversial app redesign took ‘courage’](https://www.theverge.com/2024/5/9/24152675/sonos-new-app-bad-reviews-response-statement)
- - [Save a record $200 on the Samsung Galaxy S24 Plus](https://www.androidauthority.com/deal-samsung-galaxy-s24-plus-3441204/)<!-- TECH:END -->
+ - [Lego’s new Retro Radio is just for looks](https://www.theverge.com/24152765/lego-retro-radio-icons)
+ - [6 Practical Tips for Using Anthropic&#39;s Claude Chatbot](https://www.wired.com/story/six-practical-tips-for-using-anthropic-claude-chatbot/)
+ - [The Conspiracies Swarming Campus Protests](https://www.wired.com/story/campus-protests-gaza-conspiracy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
