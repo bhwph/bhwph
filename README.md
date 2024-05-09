@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s Wordle Hints and Answer: Help for May 9, #1055     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-9-1055/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints and Answer -- Help for May 9, #333     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-9-333/#ftag=CAD590a51e)
- - [RunPod, which offers a globally distributed GPU cloud platform for developing and deploying AI, raised a $20M seed co-led by Intel Capital and Dell Technologies &lpar;James Thomason/VentureBeat&rpar;](http://www.techmeme.com/240508/p51#a240508p51)<!-- TECH:END -->
+ - [Wear OS just got an Apple Watch feature with the latest Play Services update](https://www.androidauthority.com/wear-os-school-time-3441273/)
+ - [Huawei Pura 70 Pro teardown: the 7nm Kirin 9010 is only marginally better than Kirin 9000S, and the majority of the chips are designed and manufactured in China &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240509/p3#a240509p3)
+ - [Town hall: Xbox Game Studios head Matt Booty discussed wanting small and prestigious games, after closing the studio behind a small, prestigious hit Hi-Fi Rush &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240509/p2#a240509p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
