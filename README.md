@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Animal Well is shaping up to be the most acclaimed metroidvania since Hollow Knight](https://www.pcgamer.com/games/action/animal-well-critic-reviews-launch)
- - [How to get thalamus in Hades 2](https://www.polygon.com/hades-2-guides/24152904/thalamus-how-to-get-origin-seed-location)
- - [Critical Role launches its own subscription service, Beacon](https://www.polygon.com/24152976/critical-role-beacon-subscription-membership)<!-- GAME:END -->
+ - [Blizzard&#39;s internal Diablo 4 playtests are a &#39;cursed problem&#39; where &#39;to really test our game, you need to spend your life playing our game,&#39; designer says](https://www.pcgamer.com/games/rpg/blizzards-internal-diablo-4-playtests-are-a-cursed-problem-where-to-really-test-our-game-you-need-to-spend-your-life-playing-our-game-designer-says)
+ - [Cat’s Eye: How to Navigate the World of Little Kitty, Big City](https://news.xbox.com/en-us/2024/05/09/cats-eye-how-to-navigate-the-world-of-little-kitty-big-city/)
+ - [Nintendo Pres Doug Bowser Gets Into LinkedIn Brawl Over Flight Etiquette](https://kotaku.com/nintendo-doug-bowser-president-linkedin-debate-comments-1851467763)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
