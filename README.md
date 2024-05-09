@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Men just want one thing](http://9gag.com/gag/arypYMd)
- - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - 👉 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)<!-- MEMES:END -->
+ - 6️⃣ [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
+ - 😝 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)
+ - 👉 [Man saves his cat from pit bull attack](http://9gag.com/gag/a9yd94D)<!-- MEMES:END -->
 
 --- 
 
