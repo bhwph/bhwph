@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [As cuts and closures batter the industry, Capcom posts its 7th consecutive year of record-high profits and says the 8th is just around the corner](https://www.pcgamer.com/gaming-industry/as-cuts-and-closures-batter-the-industry-capcom-posts-its-7th-consecutive-year-of-record-high-profits-and-says-the-8th-is-just-around-the-corner)
- - [A dragon book by The Last Unicorn author was lost for years — but now we have an excerpt](https://www.polygon.com/24151443/peter-beagle-im-afraid-youve-got-dragons-free-chapter-online)
- - [How To Increase Grasp And Use More Arcana Cards In Hades 2](https://kotaku.com/hades-2-grasp-arcana-cards-how-to-increase-1851465948)<!-- GAME:END -->
+ - [ChatGPT giant OpenAI is &#39;exploring&#39; a more relaxed attitude towards AI-generated porn and smut](https://www.pcgamer.com/software/ai/chatgpt-giant-openai-is-exploring-a-more-relaxed-attitude-towards-ai-generated-porn-and-smut)
+ - [How To Survive On The Surface In Hades 2](https://kotaku.com/hades-2-surface-unraveling-a-fateful-bond-thalamus-1851466545)
+ - [All Keepsakes in Hades 2 and how to get them](https://www.polygon.com/hades-2-guides/24148060/keepsakes-all-list-how-to-unlock-effects)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
