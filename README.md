@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox reports Q1 revenue up 22% YoY to $801M, bookings up 19% YoY to $923M, DAUs up 17% YoY to 77.7M, and cuts its full-year bookings forecast; RBLX drops 30% &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240509/p14#a240509p14)
- - [The Bear season 3: Release window and other rumors](https://www.androidauthority.com/the-bear-season-3-release-date-3439546/)
- - [TikTok plans to start automatically labeling some AI content, including from Dall-E and Adobe&#39;s Firefly, and joins the Adobe-led content credential coalition &lpar;Financial Times&rpar;](http://www.techmeme.com/240509/p13#a240509p13)<!-- TECH:END -->
+ - [Acer Chromebook Plus 514 Review: A Great Budget Laptop](https://www.wired.com/review/acer-chromebook-plus-514/)
+ - [Sonos says its controversial app redesign took ‘courage’](https://www.theverge.com/2024/5/9/24152675/sonos-new-app-bad-reviews-response-statement)
+ - [Save a record $200 on the Samsung Galaxy S24 Plus](https://www.androidauthority.com/deal-samsung-galaxy-s24-plus-3441204/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
