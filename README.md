@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Streaming is cable now](https://www.theverge.com/24152330/netflix-hulu-disney-plus-hbo-streaming-cable-video-verge)
- - [Sources: Apple&#39;s first server chips for its upcoming AI features will be the M2 Ultra; simpler AI tasks will be processed directly on iPhones, iPads, and Macs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240509/p24#a240509p24)
- - [WhatsApp gets major makeover, introduces new colors, icons, and better dark mode](https://www.androidauthority.com/whatsapp-gets-makeover-3441545/)<!-- TECH:END -->
+ - [Elon Musk&#39;s Neuralink Had a Brain Implant Setback. It May Come Down to Design](https://www.wired.com/story/neuralinks-brain-implant-issues/)
+ - [Q&amp;A with Jack Dorsey on his exit from Bluesky to focus on Nostr, Bluesky &quot;repeating all the mistakes we made&quot; at Twitter, Musk&#39;s takeover, censorship, and more &lpar;Mike Solana&rpar;](http://www.techmeme.com/240509/p29#a240509p29)
+ - [Microsoft is testing a new Windows 11 Start menu with floating widgets](https://www.theverge.com/2024/5/9/24153058/microsoft-windows-11-start-menu-companions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
