@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wear OS just got an Apple Watch feature with the latest Play Services update](https://www.androidauthority.com/wear-os-school-time-3441273/)
- - [Huawei Pura 70 Pro teardown: the 7nm Kirin 9010 is only marginally better than Kirin 9000S, and the majority of the chips are designed and manufactured in China &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240509/p3#a240509p3)
- - [Town hall: Xbox Game Studios head Matt Booty discussed wanting small and prestigious games, after closing the studio behind a small, prestigious hit Hi-Fi Rush &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240509/p2#a240509p2)<!-- TECH:END -->
+ - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
+ - [SSI Beneficiaries: You&#39;re Getting a Second Check In May. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-beneficiaries-youre-getting-a-second-check-in-may-heres-why/#ftag=CAD590a51e)
+ - [What US ban? Pura 70 teardown shows a more self-reliant HUAWEI](https://www.androidauthority.com/huawei-pura-70-teardown-3441269/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
