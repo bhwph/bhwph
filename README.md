@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lego’s new Retro Radio is just for looks](https://www.theverge.com/24152765/lego-retro-radio-icons)
- - [6 Practical Tips for Using Anthropic&#39;s Claude Chatbot](https://www.wired.com/story/six-practical-tips-for-using-anthropic-claude-chatbot/)
- - [The Conspiracies Swarming Campus Protests](https://www.wired.com/story/campus-protests-gaza-conspiracy/)<!-- TECH:END -->
+ - [Streaming is cable now](https://www.theverge.com/24152330/netflix-hulu-disney-plus-hbo-streaming-cable-video-verge)
+ - [Sources: Apple&#39;s first server chips for its upcoming AI features will be the M2 Ultra; simpler AI tasks will be processed directly on iPhones, iPads, and Macs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240509/p24#a240509p24)
+ - [WhatsApp gets major makeover, introduces new colors, icons, and better dark mode](https://www.androidauthority.com/whatsapp-gets-makeover-3441545/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
