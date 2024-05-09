@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ChatGPT giant OpenAI is &#39;exploring&#39; a more relaxed attitude towards AI-generated porn and smut](https://www.pcgamer.com/software/ai/chatgpt-giant-openai-is-exploring-a-more-relaxed-attitude-towards-ai-generated-porn-and-smut)
- - [How To Survive On The Surface In Hades 2](https://kotaku.com/hades-2-surface-unraveling-a-fateful-bond-thalamus-1851466545)
- - [All Keepsakes in Hades 2 and how to get them](https://www.polygon.com/hades-2-guides/24148060/keepsakes-all-list-how-to-unlock-effects)<!-- GAME:END -->
+ - [24 years later, Warren Spector offers more details about Deus Ex&#39;s cut &#39;Denver airport conspiracy&#39; mission that was &#39;so crazy no one would believe it&#39;](https://www.pcgamer.com/games/fps/24-years-later-warren-spector-offers-more-details-about-deus-exs-cut-denver-airport-conspiracy-mission-that-was-so-crazy-no-one-would-believe-it)
+ - [V Rising Beginner Guide: 5 Tips to Help Sharpen Your Fangs](https://kotaku.com/v-rising-beginner-tips-guide-1851466949)
+ - [The tricks D&amp;D designers used in Vecna: Eve of Ruin to keep 20th-level characters from breaking the game](https://www.polygon.com/24152845/dnd-dungeons-dragons-nerfs-vecna-eve-of-ruin-high-level-characters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
