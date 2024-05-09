@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice beards...](http://9gag.com/gag/aRBQ5ZQ)
- - 😝 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
- - 👉 [Men just want one thing](http://9gag.com/gag/arypYMd)<!-- MEMES:END -->
+ - 6️⃣ [Happy bday to me! Working 2 jobs to pay the bills, got dumped by gf after 3 year relationship one week ago, taking meds for depression and anxiety but it\u2019s getting worse, no friends or family around, 37 yo and memes for distraction. Raise your glasses for me today and cheers!](http://9gag.com/gag/awyrwE8)
+ - 😝 [Men just want one thing](http://9gag.com/gag/arypYMd)
+ - 👉 [She lives in Chicago streets by the way..](http://9gag.com/gag/aVvOyrn)<!-- MEMES:END -->
 
 --- 
 
