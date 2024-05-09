@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA studios &#39;hunger&#39; to start using generative AI &#39;as quickly as possible,&#39; says CEO](https://www.pcgamer.com/gaming-industry/ea-studios-hunger-to-start-using-generative-ai-as-quickly-as-possible-says-ceo)
- - [Honkai: Star Rail codes for May 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
- - [Helldivers 2 CEO is worried it&#39;s &#39;too soon&#39; after the PSN fiasco to release a $10 warbond, so he&#39;s letting players vote on a delay](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-ceo-is-worried-its-too-soon-after-the-psn-fiasco-to-release-a-dollar10-warbond-so-hes-letting-players-vote-on-a-delay)<!-- GAME:END -->
+ - [The best order to watch all of Star Wars, based on your needs](https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga)
+ - [Elite Dangerous gets its own kick in the Steam ratings shin over real money ship sales](https://www.pcgamer.com/games/sim/elite-dangerous-gets-its-own-kick-in-the-steam-ratings-shin-over-real-money-ship-sales)
+ - [Honkai: Star Rail Penacony treasure chests locations and map](https://www.polygon.com/honkai-star-rail-guides/24058334/penacony-treasure-locations-map-warp-trotters-lordly-trashcans)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
