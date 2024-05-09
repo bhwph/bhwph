@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
- - [SSI Beneficiaries: You&#39;re Getting a Second Check In May. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-beneficiaries-youre-getting-a-second-check-in-may-heres-why/#ftag=CAD590a51e)
- - [What US ban? Pura 70 teardown shows a more self-reliant HUAWEI](https://www.androidauthority.com/huawei-pura-70-teardown-3441269/)<!-- TECH:END -->
+ - [Baidu VP Qu Jing posted several videos on Douyin demeaning staff, intended to promote Baidu, that reignited criticism of Chinese tech companies&#39; work culture &lpar;Financial Times&rpar;](http://www.techmeme.com/240509/p9#a240509p9)
+ - [New Nintendo Switch 2 leaks highlight specs, launch timeline, backwards compatibility, and more](https://www.androidauthority.com/nintendo-switch-2-leaks-specs-launch-timeline-backwards-compatibility-3441297/)
+ - [Binance sources and documents: internal investigators, dismissed in late 2023, found evidence of market manipulation by DWF Labs and secret trading accounts &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p8#a240509p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
