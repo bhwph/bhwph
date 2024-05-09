@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US hospital operator Ascension reports disruptions to its clinical operations due to a suspected cybersecurity incident and engages Mandiant to help investigate &lpar;Pratik Jain/Reuters&rpar;](http://www.techmeme.com/240508/p45#a240508p45)
- - [The Pixel 8a can also be located through Find My Device when it’s out of battery](https://www.androidauthority.com/pixel-8a-find-my-device-network-3441230/)
- - [OpenAI’s Model Spec outlines some basic rules for AI](https://www.theverge.com/2024/5/8/24152273/openai-model-spec-behavior-rules-guidelines-artificial-intelligence)<!-- TECH:END -->
+ - [How Not to Get Brain-Eating Worms and Mercury Poisoning](https://www.wired.com/story/brain-parasite-worm-mercury-fish-robert-kennedy-rfk/)
+ - [Boeing confirms that LockBit attempted to extort a $200M ransom in October 2023; the company reportedly didn&#39;t pay any ransom after ~43GB of its data was posted &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/240508/p48#a240508p48)
+ - [Save up to $130 on Apple&#39;s new iPad Air &amp; M4 iPad Pro with AppleCare](https://appleinsider.com/articles/24/05/08/save-up-to-130-on-apples-new-ipad-air-m4-ipad-pro-with-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
