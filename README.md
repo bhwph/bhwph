@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The cooling must be great thou](http://9gag.com/gag/avy0N7q)
- - 😝 [The famous late revenge](http://9gag.com/gag/an7Y6yq)
- - 👉 [Well well well...](http://9gag.com/gag/aGy9mbG)<!-- MEMES:END -->
+ - 6️⃣ [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
+ - 😝 [Reality hurts](http://9gag.com/gag/aXPbBdP)
+ - 👉 [Asking AI to create Biblically accurate angels.](http://9gag.com/gag/awyrpgy)<!-- MEMES:END -->
 
 --- 
 
