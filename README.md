@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nightdive&#39;s next game, about a chef in space who battles aliens with a frying pan, is coming next week](https://www.pcgamer.com/games/fps/nightdives-next-game-about-a-chef-in-space-who-battles-aliens-with-a-frying-pan-is-coming-next-week)
- - [Nvidia overtakes Qualcomm to become the biggest chip designer by revenue, which should give Jensen plenty to smile about](https://www.pcgamer.com/hardware/nvidia-overtakes-qualcomm-to-become-the-biggest-chip-designer-by-revenue-which-should-give-jensen-plenty-to-smile-about)
- - [Someone&#39;s nuked Phil Spencer in Fallout 76](https://www.pcgamer.com/games/fallout/someones-nuked-phil-spencer-in-fallout-76)<!-- GAME:END -->
+ - [As cuts and closures batter the industry, Capcom posts its 7th consecutive year of record-high profits and says the 8th is just around the corner](https://www.pcgamer.com/gaming-industry/as-cuts-and-closures-batter-the-industry-capcom-posts-its-7th-consecutive-year-of-record-high-profits-and-says-the-8th-is-just-around-the-corner)
+ - [A dragon book by The Last Unicorn author was lost for years — but now we have an excerpt](https://www.polygon.com/24151443/peter-beagle-im-afraid-youve-got-dragons-free-chapter-online)
+ - [How To Increase Grasp And Use More Arcana Cards In Hades 2](https://kotaku.com/hades-2-grasp-arcana-cards-how-to-increase-1851465948)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
