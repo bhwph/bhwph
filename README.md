@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s Neuralink Had a Brain Implant Setback. It May Come Down to Design](https://www.wired.com/story/neuralinks-brain-implant-issues/)
- - [Q&amp;A with Jack Dorsey on his exit from Bluesky to focus on Nostr, Bluesky &quot;repeating all the mistakes we made&quot; at Twitter, Musk&#39;s takeover, censorship, and more &lpar;Mike Solana&rpar;](http://www.techmeme.com/240509/p29#a240509p29)
- - [Microsoft is testing a new Windows 11 Start menu with floating widgets](https://www.theverge.com/2024/5/9/24153058/microsoft-windows-11-start-menu-companions)<!-- TECH:END -->
+ - [Apple plans to use M2 Ultra chips in the cloud for AI](https://www.theverge.com/2024/5/9/24153111/apple-m2-ultra-chips-cloud-data-centers-ai)
+ - [Google’s Find My Device network quietly rolls out to some outside North America](https://www.androidauthority.com/find-my-device-network-slow-global-rollout-3441630/)
+ - [ASUS teases ROG Ally X with major battery upgrades and revamped UI](https://www.androidauthority.com/asus-rog-ally-x-3441625/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
