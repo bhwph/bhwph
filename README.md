@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It is all on you guys, thanks!!!](http://9gag.com/gag/aKGzo5Q)
- - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
- - 👉 [My psychologist: the giant dwarf does not exist.... The giant dwarf:](http://9gag.com/gag/ae9NnPq)<!-- MEMES:END -->
+ - 6️⃣ [Nice beards...](http://9gag.com/gag/aRBQ5ZQ)
+ - 😝 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
+ - 👉 [Men just want one thing](http://9gag.com/gag/arypYMd)<!-- MEMES:END -->
 
 --- 
 
