@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
- - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 👉 [She lives in Chicago streets by the way..](http://9gag.com/gag/aVvOyrn)<!-- MEMES:END -->
+ - 6️⃣ [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)
+ - 😝 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)
+ - 👉 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)<!-- MEMES:END -->
 
 --- 
 
