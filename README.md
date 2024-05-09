@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [24 years later, Warren Spector offers more details about Deus Ex&#39;s cut &#39;Denver airport conspiracy&#39; mission that was &#39;so crazy no one would believe it&#39;](https://www.pcgamer.com/games/fps/24-years-later-warren-spector-offers-more-details-about-deus-exs-cut-denver-airport-conspiracy-mission-that-was-so-crazy-no-one-would-believe-it)
- - [V Rising Beginner Guide: 5 Tips to Help Sharpen Your Fangs](https://kotaku.com/v-rising-beginner-tips-guide-1851466949)
- - [The tricks D&amp;D designers used in Vecna: Eve of Ruin to keep 20th-level characters from breaking the game](https://www.polygon.com/24152845/dnd-dungeons-dragons-nerfs-vecna-eve-of-ruin-high-level-characters)<!-- GAME:END -->
+ - [Animal Well is shaping up to be the most acclaimed metroidvania since Hollow Knight](https://www.pcgamer.com/games/action/animal-well-critic-reviews-launch)
+ - [How to get thalamus in Hades 2](https://www.polygon.com/hades-2-guides/24152904/thalamus-how-to-get-origin-seed-location)
+ - [Critical Role launches its own subscription service, Beacon](https://www.polygon.com/24152976/critical-role-beacon-subscription-membership)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
