@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Brace yourself, EA is thinking real hard about inserting ads into its videogames](https://www.pcgamer.com/games/brace-yourself-ea-is-thinking-real-hard-about-inserting-ads-into-its-videogames)
- - [President of Xbox at Microsoft asked about the closure of Hi-Fi Rush developer Tango Gameworks, spends close to a minute saying almost nothing](https://www.pcgamer.com/gaming-industry/president-of-xbox-at-microsoft-asked-about-the-closure-of-hi-fi-rush-developer-tango-gameworks-spends-close-to-a-minute-saying-almost-nothing)
- - [Popular D&amp;D Group Critical Role Asks Fans To Pay Because YouTube And Twitch Suck](https://kotaku.com/critical-role-subscription-beacon-twitch-youtube-1851469461)<!-- GAME:END -->
+ - [Can you guess which 2 mysterious games Deus Ex director Warren Spector secretly worked on, but decided not to be credited for?](https://www.pcgamer.com/gaming-industry/can-you-guess-which-2-mysterious-games-deus-ex-director-warren-spector-secretly-worked-on-but-decided-not-to-be-credited-for)
+ - [The best strategy games on PC](https://www.pcgamer.com/the-best-strategy-games)
+ - [Here&#39;s when Homeworld 3 launches in your region](https://www.pcgamer.com/games/rts/homeworld-3-release-time-launch-date-collectors-edition-early-access)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
