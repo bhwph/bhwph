@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tiny Tim performing his song `Tiptoe Through the Tulips` live, originally released in 1968](http://9gag.com/gag/aQzqGD2)
- - 😝 [100%](http://9gag.com/gag/adBNZ6N)
- - 👉 [#15.](http://9gag.com/gag/aVvONBn)<!-- MEMES:END -->
+ - 6️⃣ [Bueller? Bueller?](http://9gag.com/gag/a2vNQgE)
+ - 😝 [`Company policies`](http://9gag.com/gag/aPAvKpP)
+ - 👉 [Running a train on Linux](http://9gag.com/gag/a34Ym7m)<!-- MEMES:END -->
 
 --- 
 
