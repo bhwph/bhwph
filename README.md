@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says its Play Store rival launches in July, won’t be an app](https://www.androidauthority.com/microsoft-xbox-mobile-game-store-3441719/)
- - [How to fix pictures not showing on Google Chrome](https://www.androidauthority.com/fix-pictures-not-showing-google-chrome-3163528/)
- - [The OnePlus 13 and 13R’s camera islands could look like this](https://www.androidauthority.com/oneplus-13-13r-camera-island-outline-leak-3441723/)<!-- TECH:END -->
+ - [OpenAI could unveil its Google search competitor on Monday](https://www.theverge.com/2024/5/10/24153421/openai-chatgpt-google-search-competitor-service-io)
+ - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
+ - [Bankrupt crypto lender BlockFi announces plans to shut down its web platform by May and partners with Coinbase to allow clients to access and withdraw funds &lpar;Amaka Nwaokocha/Cointelegraph&rpar;](http://www.techmeme.com/240510/p3#a240510p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
