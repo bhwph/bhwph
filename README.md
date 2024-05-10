@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s AirPods Max are receiving a rare $100 discount at Amazon](https://www.theverge.com/2024/5/10/24075360/amazon-apple-airpods-max-noise-canceling-headphones-deal-sale)
- - [Smartphone addiction is real, and we all probably need to do something about it](https://appleinsider.com/inside/iphone/tips/smartphone-addiction-is-real-and-we-all-probably-need-to-do-something-about-it?utm_medium=rss)
- - [Eureka E10 Review: An Adorably Dumb Robot Vacuum](https://www.wired.com/review/eureka-e10/)<!-- TECH:END -->
+ - [Oura Ring can now tell you your heart’s true age and your cardio capacity](https://www.androidauthority.com/oura-cardiovascular-age-cardio-capacity-3441576/)
+ - [Razer Blade 18 &lpar;2024&rpar; Review: The Gaming Laptop of the Future](https://www.wired.com/review/razer-blade-18-2024/)
+ - [The Oura Ring will soon be able to gauge how ‘old’ your heart is](https://www.theverge.com/2024/5/10/24152827/oura-ring-cardiovascular-age-vo2-max-wearables)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
