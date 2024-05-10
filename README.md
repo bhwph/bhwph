@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Beta teething issues aside, Discord&#39;s Roll20 activity for running D&amp;D and other RPGs inside the app works great](https://www.pcgamer.com/games/rpg/beta-teething-issues-aside-discords-roll20-activity-for-running-dandd-and-other-rpgs-inside-the-app-works-great)
- - [Today&#39;s Wordle answer for Friday, May 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-10-2024)
- - [10 things I wish I knew before playing Animal Well](https://www.pcgamer.com/games/puzzle/10-things-i-wish-i-knew-before-playing-animal-well)<!-- GAME:END -->
+ - [&#39;A number of threads retracted from the brain&#39; of Neuralink&#39;s first implant patient, but they say they&#39;re still &#39;beating my friends in games that as a quadriplegic I should not be beating them in&#39;](https://www.pcgamer.com/hardware/a-number-of-threads-retracted-from-the-brain-of-neuralinks-first-implant-patient-but-they-say-theyre-still-beating-my-friends-in-games-that-as-a-quadriplegic-i-should-not-be-beating-them-in)
+ - [Resident Evil modders and the biggest fighting game channel on YouTube join forces to remedy a 26-year-old April Fools&#39; joke](https://www.pcgamer.com/games/resident-evil/resident-evil-modders-and-the-biggest-fighting-game-channel-on-youtube-join-forces-to-remedy-a-26-year-old-april-fools-joke)
+ - [You can buy Prey, Fallout: New Vegas, and Fallout 3 at just under $2 a pop right now—that&#39;s 3 games for less than I&#39;ll be spending on lunch today](https://www.pcgamer.com/games/rpg/you-can-buy-prey-fallout-new-vegas-and-fallout-3-at-just-under-dollar2-a-pop-right-nowthats-3-games-for-less-than-ill-be-spending-on-lunch-today)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
