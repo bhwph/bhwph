@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI could unveil its Google search competitor on Monday](https://www.theverge.com/2024/5/10/24153421/openai-chatgpt-google-search-competitor-service-io)
- - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
- - [Bankrupt crypto lender BlockFi announces plans to shut down its web platform by May and partners with Coinbase to allow clients to access and withdraw funds &lpar;Amaka Nwaokocha/Cointelegraph&rpar;](http://www.techmeme.com/240510/p3#a240510p3)<!-- TECH:END -->
+ - [Apple’s AirPods Max are receiving a rare $100 discount at Amazon](https://www.theverge.com/2024/5/10/24075360/amazon-apple-airpods-max-noise-canceling-headphones-deal-sale)
+ - [Smartphone addiction is real, and we all probably need to do something about it](https://appleinsider.com/inside/iphone/tips/smartphone-addiction-is-real-and-we-all-probably-need-to-do-something-about-it?utm_medium=rss)
+ - [Eureka E10 Review: An Adorably Dumb Robot Vacuum](https://www.wired.com/review/eureka-e10/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
