@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can you guess which 2 mysterious games Deus Ex director Warren Spector secretly worked on, but decided not to be credited for?](https://www.pcgamer.com/gaming-industry/can-you-guess-which-2-mysterious-games-deus-ex-director-warren-spector-secretly-worked-on-but-decided-not-to-be-credited-for)
- - [The best strategy games on PC](https://www.pcgamer.com/the-best-strategy-games)
- - [Here&#39;s when Homeworld 3 launches in your region](https://www.pcgamer.com/games/rts/homeworld-3-release-time-launch-date-collectors-edition-early-access)<!-- GAME:END -->
+ - [People Watched More Fallout Than Bluey And Grey&#39;s Anatomy Combined](https://kotaku.com/fallout-tv-show-ratings-nielsen-amazon-bluey-netflix-1851470341)
+ - [Bungie’s classic Marathon games are coming to Steam for free](https://www.polygon.com/24153828/bungie-marathon-classic-trilogy-games-steam-free)
+ - [Helldivers 2’s Latest Major Order Suggests Player Choices May Not Really Matter](https://kotaku.com/helldivers-2-stratagem-choice-major-orders-mine-1851470280)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
