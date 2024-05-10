@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
- - 😝 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
- - 👉 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)<!-- MEMES:END -->
+ - 6️⃣ [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
+ - 😝 [100%](http://9gag.com/gag/adBNZ6N)
+ - 👉 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)<!-- MEMES:END -->
 
 --- 
 
