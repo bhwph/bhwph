@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple might bring AI transcription to Voice Memos and Notes](https://www.theverge.com/2024/5/10/24153618/apple-ai-transcription-notes-voice-memos)
- - [Bluesky rolls out an app update that lets users customize their algorithmic feeds through &quot;show more like this&quot; and &quot;show less like this&quot; buttons &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240510/p9#a240510p9)
- - [Nano textured OLED iPad Pros, crushing pianos, and Apple&#39;s AI push on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/10/nano-textured-oled-ipad-pros-crushing-pianos-and-apples-ai-push-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [How to watch the possible aurora borealis this weekend](https://www.theverge.com/2024/5/10/24153694/how-to-watch-aurora-borealis-g4-geomagnetic-storm-noaa)
+ - [OpenAI announces a live stream at 10AM PT on May 13 to demo &quot;some ChatGPT and GPT-4 updates&quot;, which Sam Altman says are &quot;not gpt-5, not a search engine&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240510/p11#a240510p11)
+ - [A rare geomagnetic storm is heading to Earth — here’s what it means for critical infrastructure](https://www.theverge.com/2024/5/10/24153520/geomagnetic-storm-watch-infrastructure-communications-satellites-gps-power-grid)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
