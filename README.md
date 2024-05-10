@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple plans to use M2 Ultra chips in the cloud for AI](https://www.theverge.com/2024/5/9/24153111/apple-m2-ultra-chips-cloud-data-centers-ai)
- - [Google’s Find My Device network quietly rolls out to some outside North America](https://www.androidauthority.com/find-my-device-network-slow-global-rollout-3441630/)
- - [ASUS teases ROG Ally X with major battery upgrades and revamped UI](https://www.androidauthority.com/asus-rog-ally-x-3441625/)<!-- TECH:END -->
+ - [Cybersecurity, AI and Alicia Keys: What We&#39;ve Seen at the RSA Conference     - CNET](https://www.cnet.com/tech/services-and-software/cybersecurity-ai-and-alicia-keys-what-weve-seen-at-the-rsa-conference/#ftag=CAD590a51e)
+ - [Did Stanford just prototype the future of AR glasses?](https://www.theverge.com/2024/5/9/24153092/stanford-ai-holographic-ar-glasses-3d-imaging-research)
+ - [Microsoft’s new Xbox mobile gaming store is launching in July](https://www.theverge.com/2024/5/9/24153245/microsoft-xbox-mobile-gaming-store-july-launch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
