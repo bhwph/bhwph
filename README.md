@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: tech lobbying group NetChoice has kicked TikTok off of its membership after facing pressure from the office of House Majority Leader Steve Scalise &lpar;Politico&rpar;](http://www.techmeme.com/240509/p39#a240509p39)
- - [How to copy text from locked PDFs in macOS](https://appleinsider.com/inside/macos/tips/how-to-copy-text-from-locked-pdfs-in-macos?utm_medium=rss)
- - [Employees say Oracle Health, formerly Cerner, has lost at least 12 of its major clients and product innovation has taken a backseat to upgrading legacy systems &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240509/p38#a240509p38)<!-- TECH:END -->
+ - [Apple says sorry after poorly received iPad Pro ad ‘missed the mark’](https://www.androidauthority.com/apple-apology-ipad-pro-crush-ad-3441698/)
+ - [New update incoming for Samsung Galaxy S24 series!](https://www.androidauthority.com/samsung-galaxy-s24-series-may-2024-update-3441703/)
+ - [Google Messages wants to make sure you don’t see texts from blocked contacts anywhere](https://www.androidauthority.com/google-messages-blocked-contacts-group-chats-3441696/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
