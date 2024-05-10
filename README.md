@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you know, you know](http://9gag.com/gag/a34YV97)
- - 😝 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
- - 👉 [Would race](http://9gag.com/gag/aXPb87d)<!-- MEMES:END -->
+ - 6️⃣ [Tiny Tim performing his song `Tiptoe Through the Tulips` live, originally released in 1968](http://9gag.com/gag/aQzqGD2)
+ - 😝 [100%](http://9gag.com/gag/adBNZ6N)
+ - 👉 [#15.](http://9gag.com/gag/aVvONBn)<!-- MEMES:END -->
 
 --- 
 
