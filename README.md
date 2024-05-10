@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Inmate Recounts How He Killed His Cell-Mate Who Was a Child Molester](http://9gag.com/gag/a7oKvnb)
- - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 👉 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)<!-- MEMES:END -->
+ - 6️⃣ [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
+ - 😝 [Bueller? Bueller?](http://9gag.com/gag/a2vNQgE)
+ - 👉 [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)<!-- MEMES:END -->
 
 --- 
 
