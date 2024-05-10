@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [People Watched More Fallout Than Bluey And Grey&#39;s Anatomy Combined](https://kotaku.com/fallout-tv-show-ratings-nielsen-amazon-bluey-netflix-1851470341)
- - [Bungie’s classic Marathon games are coming to Steam for free](https://www.polygon.com/24153828/bungie-marathon-classic-trilogy-games-steam-free)
- - [Helldivers 2’s Latest Major Order Suggests Player Choices May Not Really Matter](https://kotaku.com/helldivers-2-stratagem-choice-major-orders-mine-1851470280)<!-- GAME:END -->
+ - [Bungie&#39;s first big hit, Classic Marathon, is free on Steam with Marathon 2 and Marathon Infinity to follow](https://www.pcgamer.com/games/fps/bungies-first-big-hit-classic-marathon-is-free-on-steam-with-marathon-2-and-marathon-infinity-to-follow)
+ - [Cyberpunk 2077&#39;s quest lead says it&#39;s a story &#39;about terminal illness,&#39; and playing it while staring down the barrel of one was the most intense RPG experience I&#39;ve ever had](https://www.pcgamer.com/games/rpg/cyberpunk-2077s-quest-lead-says-its-a-story-about-terminal-illness-and-playing-it-while-staring-down-the-barrel-of-one-was-the-most-intense-rpg-experience-ive-ever-had)
+ - [GameStop Wants You To Start Trading In Your Valuable Pokémon Cards](https://kotaku.com/gamestop-gme-pokemon-card-trade-ins-psa-charizard-1851470574)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
