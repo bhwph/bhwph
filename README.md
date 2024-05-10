@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Everyone and their mum&#39; is playing Hades 2, which is exactly why The Rogue Prince of Persia is delayed](https://www.pcgamer.com/games/roguelike/everyone-and-their-mum-is-playing-hades-2-which-is-exactly-why-the-rogue-prince-of-persia-is-delayed)
- - [Kingdom of the Planet of the Apes’ VFX lead argues that the movie uses AI ethically](https://www.polygon.com/24152375/kingdom-planet-apes-visual-effects-weta-fx-mocap)
- - [Next Week on Xbox: New Games for May 13 to 17](https://news.xbox.com/en-us/2024/05/10/next-week-on-xbox-new-games-for-may-13-to-17/)<!-- GAME:END -->
+ - [Brace yourself, EA is thinking real hard about inserting ads into its videogames](https://www.pcgamer.com/games/brace-yourself-ea-is-thinking-real-hard-about-inserting-ads-into-its-videogames)
+ - [President of Xbox at Microsoft asked about the closure of Hi-Fi Rush developer Tango Gameworks, spends close to a minute saying almost nothing](https://www.pcgamer.com/gaming-industry/president-of-xbox-at-microsoft-asked-about-the-closure-of-hi-fi-rush-developer-tango-gameworks-spends-close-to-a-minute-saying-almost-nothing)
+ - [Popular D&amp;D Group Critical Role Asks Fans To Pay Because YouTube And Twitch Suck](https://kotaku.com/critical-role-subscription-beacon-twitch-youtube-1851469461)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
