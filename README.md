@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
- - 😝 [100%](http://9gag.com/gag/adBNZ6N)
- - 👉 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)<!-- MEMES:END -->
+ - 6️⃣ [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - 👉 [Disney](http://9gag.com/gag/aByKDLA)<!-- MEMES:END -->
 
 --- 
 
