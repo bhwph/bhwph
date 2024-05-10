@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch the possible aurora borealis this weekend](https://www.theverge.com/2024/5/10/24153694/how-to-watch-aurora-borealis-g4-geomagnetic-storm-noaa)
- - [OpenAI announces a live stream at 10AM PT on May 13 to demo &quot;some ChatGPT and GPT-4 updates&quot;, which Sam Altman says are &quot;not gpt-5, not a search engine&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240510/p11#a240510p11)
- - [A rare geomagnetic storm is heading to Earth — here’s what it means for critical infrastructure](https://www.theverge.com/2024/5/10/24153520/geomagnetic-storm-watch-infrastructure-communications-satellites-gps-power-grid)<!-- TECH:END -->
+ - [The Pixel Watch’s battery full notification has mysteriously disappeared](https://www.androidauthority.com/pixel-watch-battery-full-notification-gone-3441963/)
+ - [RenAIssance: How Apple will drag Siri into the modern era](https://appleinsider.com/articles/24/05/10/renaissance-how-apple-will-drag-siri-into-the-modern-era?utm_medium=rss)
+ - [Bungie’s classic sci-fi shooter Marathon is now free on Steam](https://www.theverge.com/2024/5/10/24153867/marathon-bungie-shooter-steam-release-date-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
