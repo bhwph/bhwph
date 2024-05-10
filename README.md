@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
- - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 👉 [Man saves his cat from pit bull attack](http://9gag.com/gag/a9yd94D)<!-- MEMES:END -->
+ - 6️⃣ [Emotional damage](http://9gag.com/gag/aRBQYx7)
+ - 😝 [Well this is accurate](http://9gag.com/gag/aByKqED)
+ - 👉 [This app needs more baby cows](http://9gag.com/gag/aYQbzXV)<!-- MEMES:END -->
 
 --- 
 
