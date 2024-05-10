@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel Watch’s battery full notification has mysteriously disappeared](https://www.androidauthority.com/pixel-watch-battery-full-notification-gone-3441963/)
- - [RenAIssance: How Apple will drag Siri into the modern era](https://appleinsider.com/articles/24/05/10/renaissance-how-apple-will-drag-siri-into-the-modern-era?utm_medium=rss)
- - [Bungie’s classic sci-fi shooter Marathon is now free on Steam](https://www.theverge.com/2024/5/10/24153867/marathon-bungie-shooter-steam-release-date-price)<!-- TECH:END -->
+ - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)
+ - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)
+ - [Some Indian journalists who turned to YouTube to dodge censorship say the company is banning or demonetizing their news channels citing government notices &lpar;Raksha Kumar/Reuters Institute&rpar;](http://www.techmeme.com/240510/p15#a240510p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
