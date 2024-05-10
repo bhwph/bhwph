@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oura Ring can now tell you your heart’s true age and your cardio capacity](https://www.androidauthority.com/oura-cardiovascular-age-cardio-capacity-3441576/)
- - [Razer Blade 18 &lpar;2024&rpar; Review: The Gaming Laptop of the Future](https://www.wired.com/review/razer-blade-18-2024/)
- - [The Oura Ring will soon be able to gauge how ‘old’ your heart is](https://www.theverge.com/2024/5/10/24152827/oura-ring-cardiovascular-age-vo2-max-wearables)<!-- TECH:END -->
+ - [Apple might bring AI transcription to Voice Memos and Notes](https://www.theverge.com/2024/5/10/24153618/apple-ai-transcription-notes-voice-memos)
+ - [Bluesky rolls out an app update that lets users customize their algorithmic feeds through &quot;show more like this&quot; and &quot;show less like this&quot; buttons &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240510/p9#a240510p9)
+ - [Nano textured OLED iPad Pros, crushing pianos, and Apple&#39;s AI push on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/10/nano-textured-oled-ipad-pros-crushing-pianos-and-apples-ai-push-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
