@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bueller? Bueller?](http://9gag.com/gag/a2vNQgE)
- - 😝 [`Company policies`](http://9gag.com/gag/aPAvKpP)
- - 👉 [Running a train on Linux](http://9gag.com/gag/a34Ym7m)<!-- MEMES:END -->
+ - 6️⃣ [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
+ - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - 👉 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)<!-- MEMES:END -->
 
 --- 
 
