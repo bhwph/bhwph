@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, May 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-11-2024)
  - [The RTS genre will never be mainstream unless you change it until it&#39;s &#39;no longer the kind of RTS that I want to play,&#39; says Crate Entertainment CEO](https://www.pcgamer.com/games/rts/crate-ceo-rts-genre-interview)
- - [The physics-based vehicle destruction game I&#39;ve waited two years for just hit 1.0 with a full campaign inspired by 1997&#39;s Blast Corps](https://www.pcgamer.com/games/puzzle/the-physics-based-vehicle-demolition-game-ive-waited-two-years-for-just-hit-10-with-a-full-campaign-inspired-by-1997s-blast-corps)
- - [Stray Gods will get a whole story DLC focused on Anthony Rapp&#39;s Orpheus](https://www.pcgamer.com/games/visual-novel/stray-gods-will-get-a-whole-story-dlc-focused-on-anthony-rapps-orpheus)<!-- GAME:END -->
+ - [The physics-based vehicle destruction game I&#39;ve waited two years for just hit 1.0 with a full campaign inspired by 1997&#39;s Blast Corps](https://www.pcgamer.com/games/puzzle/the-physics-based-vehicle-demolition-game-ive-waited-two-years-for-just-hit-10-with-a-full-campaign-inspired-by-1997s-blast-corps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
