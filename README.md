@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This will never get old](http://9gag.com/gag/amoL092)
- - 😝 [Those poor people...](http://9gag.com/gag/adB6Yr9)
- - 👉 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)<!-- MEMES:END -->
+ - 6️⃣ [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)
+ - 😝 [Pov: London in 1940](http://9gag.com/gag/abAqXZ9)
+ - 👉 [If you don&#39;t know what this is, then you&#39;ve never worked with IT!](http://9gag.com/gag/a7oKLRA)<!-- MEMES:END -->
 
 --- 
 
