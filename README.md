@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Evil Does Not Exist offers no answers for its terrifying questions](https://www.polygon.com/reviews/24153139/evil-does-not-exist-review-ryusuke-hamaguchi)
- - [Xbox Shutters Studios, Switch 2 Specs May Have Leaked, And More Of The Week&#39;s Gaming News](https://kotaku.com/xbox-gta-6-hades-2-helldivers-gaming-news-1851469601)
- - [Kingdom of the Planet of the Apes’ posters and trailers all contain a huge spoiler](https://www.polygon.com/24153868/kingdom-of-the-planet-of-the-apes-poster-trailers-end-spoilers)<!-- GAME:END -->
+ - [What time does Diablo 4 season 4 start?](https://www.polygon.com/diablo-4-guides/24152848/season-4-release-time-date-loot-reborn)
+ - [The Buck Stops With Phil Spencer, 1000xRESIST Is A Must-Play, And More Gaming Opinions For The Week](https://kotaku.com/xbox-studios-phil-spencer-helldivers-1851469603)
+ - [Evil Does Not Exist offers no answers for its terrifying questions](https://www.polygon.com/reviews/24153139/evil-does-not-exist-review-ryusuke-hamaguchi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
