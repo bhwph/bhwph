@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The demand for AI chips is driving fierce competition among HBM chipmakers, as Samsung and Micron race to catch up to SK Hynix, which has over 52% market share &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240511/p10#a240511p10)
- - [Northern Lights Alert: Solar Storm Could Bring Striking Aurora Borealis     - CNET](https://www.cnet.com/science/northern-lights-alert-solar-storm-could-bring-striking-aurora-borealis-but-beware-possible-power-outages/#ftag=CAD590a51e)
- - [Fulham vs. Man City Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/fulham-vs-man-city-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Logitech Aurora Collection Review: Heart and Cloud-Shaped Boxes](https://www.wired.com/review/logitech-aurora-collection/)
+ - [Apple inching closer to ChatGPT deal with OpenAI](https://appleinsider.com/articles/24/05/11/apple-inching-closer-to-chatgpt-deal-with-openai?utm_medium=rss)
+ - [Many People Do Not Like the New Sonos App](https://www.wired.com/story/people-do-not-like-the-new-sonos-app/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
