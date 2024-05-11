@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Before taxes of course...](http://9gag.com/gag/abAq52B)
- - 😝 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)
- - 👉 [I love happy endings](http://9gag.com/gag/aXPEbPd)<!-- MEMES:END -->
+ - 6️⃣ [This will never get old](http://9gag.com/gag/amoL092)
+ - 😝 [Those poor people...](http://9gag.com/gag/adB6Yr9)
+ - 👉 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)<!-- MEMES:END -->
 
 --- 
 
