@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Very relatable](http://9gag.com/gag/ae93NdB)
- - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
- - 👉 [What&#39;s this?](http://9gag.com/gag/awybrvQ)<!-- MEMES:END -->
+ - 6️⃣ [Trust me i&#39;m a Tailor](http://9gag.com/gag/a34d30r)
+ - 😝 [Go back](http://9gag.com/gag/aD2wwmK)
+ - 👉 [Cute](http://9gag.com/gag/a6Zdwxm)<!-- MEMES:END -->
 
 --- 
 
