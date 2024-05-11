@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ghost of Tsushima&#39;s PC port has been delisted in nearly 200 countries and territories without PSN access, even though most of the game won&#39;t require a sign-in](https://www.pcgamer.com/games/action/ghosts-of-tsushimas-pc-port-has-been-delisted-in-nearly-200-countries-and-territories-without-psn-access-even-though-most-of-the-game-wont-require-a-sign-in)
  - [Warner Bros. has decided not to take its ball and go home with Adult Swim Games, instead returning control to their original developers](https://www.pcgamer.com/gaming-industry/warner-bros-has-decided-not-to-take-its-ball-and-go-home-with-adult-swim-games-instead-returning-control-to-their-original-developers)
- - [What time does Diablo 4 season 4 start?](https://www.polygon.com/diablo-4-guides/24152848/season-4-release-time-date-loot-reborn)
- - [The Buck Stops With Phil Spencer, 1000xRESIST Is A Must-Play, And More Gaming Opinions For The Week](https://kotaku.com/xbox-studios-phil-spencer-helldivers-1851469603)<!-- GAME:END -->
+ - [What time does Diablo 4 season 4 start?](https://www.polygon.com/diablo-4-guides/24152848/season-4-release-time-date-loot-reborn)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
