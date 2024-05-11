@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instead of designing more durable phones, Google is designing Pixels with cases in mind](https://www.androidauthority.com/google-pixel-cases-durability-design-3442084/)
- - [The Verge’s 2024 Mother’s Day gift guide](https://www.theverge.com/24115101/best-mothers-day-gift-ideas-2024-mom-tech-gadgets)
- - [I struggled through a whole day with the Rabbit R1 so you don’t have to — here’s how it went](https://www.androidauthority.com/rabbit-r1-review-3440725/)<!-- TECH:END -->
+ - [AI is already messing up the era of long-term smartphone updates](https://www.androidauthority.com/galaxy-ai-support-confusion-3440474/)
+ - [6 Things to Add to Your Routine to Maintain Brain Fitness as You Age     - CNET](https://www.cnet.com/health/fitness/6-things-to-add-to-your-routine-to-maintain-brain-fitness-as-you-age/#ftag=CAD590a51e)
+ - [What to expect at Google I/O 2024: Android 15 updates, more generative AI features for Google&#39;s apps, a new Gemini-powered &quot;Pixie&quot; digital assistant, and more &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240511/p13#a240511p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
