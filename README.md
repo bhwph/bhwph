@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
- - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 👉 [Very relatable](http://9gag.com/gag/ae93NdB)<!-- MEMES:END -->
+ - 6️⃣ [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 😝 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
+ - 👉 [Pov: London in 1940](http://9gag.com/gag/abAqXZ9)<!-- MEMES:END -->
 
 --- 
 
