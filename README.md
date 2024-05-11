@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech Aurora Collection Review: Heart and Cloud-Shaped Boxes](https://www.wired.com/review/logitech-aurora-collection/)
- - [Apple inching closer to ChatGPT deal with OpenAI](https://appleinsider.com/articles/24/05/11/apple-inching-closer-to-chatgpt-deal-with-openai?utm_medium=rss)
- - [Many People Do Not Like the New Sonos App](https://www.wired.com/story/people-do-not-like-the-new-sonos-app/)<!-- TECH:END -->
+ - [A budget Pixel phone is an oxymoron in 2024](https://www.androidauthority.com/budget-pixel-phone-oxymoron-3441521/)
+ - [Apollo Go &lpar;2024&rpar; Review: A Great Commuter Scooter](https://www.wired.com/review/apollo-go-2024/)
+ - [Crow Country is a gloriously grimy revival of ’90s survival horror](https://www.theverge.com/24153478/crow-country-review-steam-ps5-xbox)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
