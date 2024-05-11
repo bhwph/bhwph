@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 😝 [SHAAAAAAMMEE](http://9gag.com/gag/aNDeyjK)
- - 👉 [Jobs are a downer, innit](http://9gag.com/gag/adB60nV)<!-- MEMES:END -->
+ - 6️⃣ [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
+ - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 👉 [Very relatable](http://9gag.com/gag/ae93NdB)<!-- MEMES:END -->
 
 --- 
 
