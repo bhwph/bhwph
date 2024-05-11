@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best thrillers to watch on Netflix this May](https://www.polygon.com/what-to-watch/2024/5/11/24150253/best-thriller-movies-netflix-watch-may-2024)
- - [Today&#39;s Wordle answer for Saturday, May 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-11-2024)
- - [The RTS genre will never be mainstream unless you change it until it&#39;s &#39;no longer the kind of RTS that I want to play,&#39; says Crate Entertainment CEO](https://www.pcgamer.com/games/rts/crate-ceo-rts-genre-interview)<!-- GAME:END -->
+ - [Evil Does Not Exist offers no answers for its terrifying questions](https://www.polygon.com/reviews/24153139/evil-does-not-exist-review-ryusuke-hamaguchi)
+ - [Xbox Shutters Studios, Switch 2 Specs May Have Leaked, And More Of The Week&#39;s Gaming News](https://kotaku.com/xbox-gta-6-hades-2-helldivers-gaming-news-1851469601)
+ - [Kingdom of the Planet of the Apes’ posters and trailers all contain a huge spoiler](https://www.polygon.com/24153868/kingdom-of-the-planet-of-the-apes-poster-trailers-end-spoilers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
