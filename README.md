@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Warner Bros. has decided not to take its ball and go home with Adult Swim Games, instead returning control to their original developers](https://www.pcgamer.com/gaming-industry/warner-bros-has-decided-not-to-take-its-ball-and-go-home-with-adult-swim-games-instead-returning-control-to-their-original-developers)
  - [What time does Diablo 4 season 4 start?](https://www.polygon.com/diablo-4-guides/24152848/season-4-release-time-date-loot-reborn)
- - [The Buck Stops With Phil Spencer, 1000xRESIST Is A Must-Play, And More Gaming Opinions For The Week](https://kotaku.com/xbox-studios-phil-spencer-helldivers-1851469603)
- - [Evil Does Not Exist offers no answers for its terrifying questions](https://www.polygon.com/reviews/24153139/evil-does-not-exist-review-ryusuke-hamaguchi)<!-- GAME:END -->
+ - [The Buck Stops With Phil Spencer, 1000xRESIST Is A Must-Play, And More Gaming Opinions For The Week](https://kotaku.com/xbox-studios-phil-spencer-helldivers-1851469603)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
