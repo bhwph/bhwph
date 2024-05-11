@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie&#39;s first big hit, Classic Marathon, is free on Steam with Marathon 2 and Marathon Infinity to follow](https://www.pcgamer.com/games/fps/bungies-first-big-hit-classic-marathon-is-free-on-steam-with-marathon-2-and-marathon-infinity-to-follow)
- - [Cyberpunk 2077&#39;s quest lead says it&#39;s a story &#39;about terminal illness,&#39; and playing it while staring down the barrel of one was the most intense RPG experience I&#39;ve ever had](https://www.pcgamer.com/games/rpg/cyberpunk-2077s-quest-lead-says-its-a-story-about-terminal-illness-and-playing-it-while-staring-down-the-barrel-of-one-was-the-most-intense-rpg-experience-ive-ever-had)
- - [GameStop Wants You To Start Trading In Your Valuable Pokémon Cards](https://kotaku.com/gamestop-gme-pokemon-card-trade-ins-psa-charizard-1851470574)<!-- GAME:END -->
+ - [The physics-based vehicle destruction game I&#39;ve waited two years for just hit 1.0 with a full campaign inspired by 1997&#39;s Blast Corps](https://www.pcgamer.com/games/puzzle/the-physics-based-vehicle-demolition-game-ive-waited-two-years-for-just-hit-10-with-a-full-campaign-inspired-by-1997s-blast-corps)
+ - [Stray Gods will get a whole story DLC focused on Anthony Rapp&#39;s Orpheus](https://www.pcgamer.com/games/visual-novel/stray-gods-will-get-a-whole-story-dlc-focused-on-anthony-rapps-orpheus)
+ - [Abigail, The Book of Clarence on Netflix, Ghostbusters: Frozen Empire, and every new movie to watch at home this weekend](https://www.polygon.com/2024/5/10/24149433/new-movies-watch-abigail-the-book-of-clarence-netflix-ghostbusters-frozen-empire)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
