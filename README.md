@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A budget Pixel phone is an oxymoron in 2024](https://www.androidauthority.com/budget-pixel-phone-oxymoron-3441521/)
- - [Apollo Go &lpar;2024&rpar; Review: A Great Commuter Scooter](https://www.wired.com/review/apollo-go-2024/)
- - [Crow Country is a gloriously grimy revival of ’90s survival horror](https://www.theverge.com/24153478/crow-country-review-steam-ps5-xbox)<!-- TECH:END -->
+ - [Instead of designing more durable phones, Google is designing Pixels with cases in mind](https://www.androidauthority.com/google-pixel-cases-durability-design-3442084/)
+ - [The Verge’s 2024 Mother’s Day gift guide](https://www.theverge.com/24115101/best-mothers-day-gift-ideas-2024-mom-tech-gadgets)
+ - [I struggled through a whole day with the Rabbit R1 so you don’t have to — here’s how it went](https://www.androidauthority.com/rabbit-r1-review-3440725/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
