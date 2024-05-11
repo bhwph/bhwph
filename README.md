@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI could announce new multimodal assistant to directly take on Google](https://www.androidauthority.com/open-ai-multimodal-assistant-3442097/)
- - [Sources: Arm plans to set up an AI chip division, aiming to build a prototype by spring 2025, with mass production expected to start later in the year &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240511/p14#a240511p14)
- - [OpenAI could debut a multimodal AI digital assistant soon](https://www.theverge.com/2024/5/11/24154307/openai-multimodal-digital-assistant-chatgpt-phone-calls)<!-- TECH:END -->
+ - [Large US developers are avoiding third-party App Store alternate payment plans](https://appleinsider.com/articles/24/05/11/large-us-developers-are-avoiding-third-party-app-store-alternate-payment-plans?utm_medium=rss)
+ - [How Trump is courting crypto traders, as GOP becomes increasingly friendly toward crypto while key Democrats remain at odds and SEC cracks down on the industry &lpar;Jasper Goodman/Politico&rpar;](http://www.techmeme.com/240511/p15#a240511p15)
+ - [Use Your iPhone to Take Long-Exposure Photos of This Weekend&#39;s Aurora Light Shows     - CNET](https://www.cnet.com/tech/mobile/use-your-iphone-to-take-long-exposure-photos-of-this-weekends-aurora-light-shows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
