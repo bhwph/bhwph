@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
- - 😝 [Bueller? Bueller?](http://9gag.com/gag/a2vNQgE)
- - 👉 [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)<!-- MEMES:END -->
+ - 6️⃣ [Sex slaves.](http://9gag.com/gag/aPAywbQ)
+ - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
 
 --- 
 
