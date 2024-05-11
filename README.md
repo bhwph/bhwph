@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Christie&#39;s experienced a &quot;technology security issue&quot; that took its website down and affected some systems, ahead of auctions that are expected to generate $840M &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240510/p22#a240510p22)
- - [Jim Simons, a mathematician and founder of hedge fund firm Renaissance Technologies who pioneered computer-based approaches to quantitative trading, dies at 86 &lpar;Gregory Zuckerman/Wall Street Journal&rpar;](http://www.techmeme.com/240510/p21#a240510p21)
- - [Sources: Apple is finalizing a deal with OpenAI to use ChatGPT features in iOS 18; talks with Google to license Gemini are still ongoing &lpar;Bloomberg&rpar;](http://www.techmeme.com/240510/p20#a240510p20)<!-- TECH:END -->
+ - [Meituan, Alibaba, Tencent, and other Chinese tech companies are working to expand in Saudi Arabia and the UAE, where they would face less political scrutiny &lpar;Financial Times&rpar;](http://www.techmeme.com/240511/p7#a240511p7)
+ - [Southeast Asia is drawing more investment from Big Tech than ever, as the CEOs of Apple, Microsoft, and Nvidia commit billions of dollars in the region &lpar;Bloomberg&rpar;](http://www.techmeme.com/240511/p6#a240511p6)
+ - [In Defense of Parasitic Worms](https://www.wired.com/story/parasites-worms-climate-change-rfk/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
