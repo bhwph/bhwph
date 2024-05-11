@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Sex slaves.](http://9gag.com/gag/aPAywbQ)
  - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
+ - 👉 [Go back](http://9gag.com/gag/aD2wwmK)<!-- MEMES:END -->
 
 --- 
 
