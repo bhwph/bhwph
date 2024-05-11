@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sex slaves.](http://9gag.com/gag/aPAywbQ)
- - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 👉 [Go back](http://9gag.com/gag/aD2wwmK)<!-- MEMES:END -->
+ - 6️⃣ [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 😝 [SHAAAAAAMMEE](http://9gag.com/gag/aNDeyjK)
+ - 👉 [Jobs are a downer, innit](http://9gag.com/gag/adB60nV)<!-- MEMES:END -->
 
 --- 
 
