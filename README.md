@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trust me i&#39;m a Tailor](http://9gag.com/gag/a34d30r)
- - 😝 [Go back](http://9gag.com/gag/aD2wwmK)
- - 👉 [Cute](http://9gag.com/gag/a6Zdwxm)<!-- MEMES:END -->
+ - 6️⃣ [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
+ - 😝 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
+ - 👉 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)<!-- MEMES:END -->
 
 --- 
 
