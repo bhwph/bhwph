@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Innovative EV Motor Used by Lamborghini, McLaren, and Ferrari Is Being Mass-Produced by Mercedes](https://www.wired.com/story/yasa-motors-mercedes-axial-flux-2024/)
- - [These 12 Tips Can Make Your Next Move a Breeze     - CNET](https://www.cnet.com/home/services/these-12-tips-can-make-your-next-move-a-breeze/#ftag=CAD590a51e)
- - [Moving Tips for First-Time Renters Embarking on Their New Journey     - CNET](https://www.cnet.com/home/services/moving-tips-for-first-time-renters-embarking-on-their-new-journey/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Sheets &lpar;2024&rpar;: Linen, Percale, and Budget Bedding](https://www.wired.com/story/best-bedsheets/)
+ - [The new iPad Pro looks like a winner](https://www.theverge.com/24153472/apple-ipad-pro-animal-well-final-cut-camera-installer-newsletter)
+ - [Q&amp;A with Oracle CEO Safra Catz on generative AI&#39;s risks and impact, providing cloud infrastructure to TikTok, the importance of workplace diversity, and more &lpar;Keiichi Murayama/Nikkei Asia&rpar;](http://www.techmeme.com/240512/p2#a240512p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
