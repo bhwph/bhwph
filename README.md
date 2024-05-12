@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That laugh!](http://9gag.com/gag/arye4Vd)
- - 😝 [Baby&#39;s day out](http://9gag.com/gag/a9yMdeL)
- - 👉 [The Aurora borealis is being seen across the United States!](http://9gag.com/gag/aAyVr10)<!-- MEMES:END -->
+ - 6️⃣ [Ride](http://9gag.com/gag/an7XBRB)
+ - 😝 [Advice from Gabriel](http://9gag.com/gag/aByQrGz)
+ - 👉 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)<!-- MEMES:END -->
 
 --- 
 
