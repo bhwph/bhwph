@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The neck breaker 4000](http://9gag.com/gag/a1mZYYY)
- - 😝 [Thoughts?](http://9gag.com/gag/aqyZ5Qj)
- - 👉 [Yoink.](http://9gag.com/gag/aRBgVbQ)<!-- MEMES:END -->
+ - 6️⃣ [This dude is patient](http://9gag.com/gag/awybVBD)
+ - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
+ - 👉 [Planted evidence](http://9gag.com/gag/azxLjwZ)<!-- MEMES:END -->
 
 --- 
 
