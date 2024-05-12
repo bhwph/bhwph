@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA’s Quest to Touch the Sun](https://www.wired.com/story/parker-solar-probe-sun-solar-energy-magnetism-wind/)
- - [Alibaba leverages computing resources to become a leading AI investor in China; sources: cloud credits made up ~50% of Alibaba&#39;s $800M investment in Moonshot AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240512/p1#a240512p1)
- - [South Korea&#39;s Finance Minister Choi Sang-mok says the government is preparing a $7.3B+ support package for chip investments to win the &quot;war&quot; in the chip sector &lpar;Ju-min Park/Reuters&rpar;](http://www.techmeme.com/240511/p20#a240511p20)<!-- TECH:END -->
+ - [An Innovative EV Motor Used by Lamborghini, McLaren, and Ferrari Is Being Mass-Produced by Mercedes](https://www.wired.com/story/yasa-motors-mercedes-axial-flux-2024/)
+ - [These 12 Tips Can Make Your Next Move a Breeze     - CNET](https://www.cnet.com/home/services/these-12-tips-can-make-your-next-move-a-breeze/#ftag=CAD590a51e)
+ - [Moving Tips for First-Time Renters Embarking on Their New Journey     - CNET](https://www.cnet.com/home/services/moving-tips-for-first-time-renters-embarking-on-their-new-journey/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
