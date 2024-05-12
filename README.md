@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This dude is patient](http://9gag.com/gag/awybVBD)
- - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
+ - 6️⃣ [\u201cEurope, youth, revolution`, French social right takes back Paris.](http://9gag.com/gag/aLnQ25x)
+ - 😝 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)
  - 👉 [Planted evidence](http://9gag.com/gag/azxLjwZ)<!-- MEMES:END -->
 
 --- 
