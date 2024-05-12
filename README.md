@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mercedes Varnado picks which Sailor Scout would make the best professional wrestler](https://www.polygon.com/anime/24153748/mercedes-varnado-which-sailor-scout-would-be-the-best-wrestler)
- - [The best cozy games to play right now](https://www.polygon.com/what-to-play/24151983/best-cozy-games-play-nintendo-switch-steam-playstation-xbox-pc)
- - [Starting Out Right In Hades 2, How Not To Suck In V Rising, And More Of The Week&#39;s Gaming Tips](https://kotaku.com/hades-2-tips-v-rising-no-rest-wicked-1851469602)<!-- GAME:END -->
+ - [Total War: Pharaoh&#39;s big free update map is far, far larger than I would have thought](https://www.pcgamer.com/games/strategy/total-war-pharaohs-big-free-update-map-is-far-far-larger-than-i-would-have-thought)
+ - [The season of game company gaffes continues with NetEase apologizing for a Marvel Rivals preview contract that asked streamers not to make &#39;subjective negative reviews of the game&#39;](https://www.pcgamer.com/games/third-person-shooter/the-season-of-game-company-gaffes-continues-with-netease-apologizing-for-a-marvel-rivals-preview-contract-that-asked-streamers-not-to-make-subjective-negative-reviews-of-the-game)
+ - [Mercedes Varnado picks which Sailor Scout would make the best professional wrestler](https://www.polygon.com/anime/24153748/mercedes-varnado-which-sailor-scout-would-be-the-best-wrestler)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
