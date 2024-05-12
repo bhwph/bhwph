@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
- - 😝 [Bipitty Boppity](http://9gag.com/gag/aMVbQYW)
- - 👉 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)<!-- MEMES:END -->
+ - 6️⃣ [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
+ - 😝 [7K Yezidi women and children were kidnapped and sold into slavery by lSlS terrorists. 10K were kiIled in a Genocide for refusing to convert to lsIam. 50 Yezidi women were beheaded. 19 were burned alive. Yet not a single MusIim marched for them!](http://9gag.com/gag/aryee75)
+ - 👉 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)<!-- MEMES:END -->
 
 --- 
 
