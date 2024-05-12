@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)
- - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
- - 👉 [I love happy endings](http://9gag.com/gag/aXPEbPd)<!-- MEMES:END -->
+ - 6️⃣ [The neck breaker 4000](http://9gag.com/gag/a1mZYYY)
+ - 😝 [Thoughts?](http://9gag.com/gag/aqyZ5Qj)
+ - 👉 [Yoink.](http://9gag.com/gag/aRBgVbQ)<!-- MEMES:END -->
 
 --- 
 
