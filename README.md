@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u201cEurope, youth, revolution`, French social right takes back Paris.](http://9gag.com/gag/aLnQ25x)
- - 😝 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)
- - 👉 [Planted evidence](http://9gag.com/gag/azxLjwZ)<!-- MEMES:END -->
+ - 6️⃣ [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
+ - 😝 [Bipitty Boppity](http://9gag.com/gag/aMVbQYW)
+ - 👉 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)<!-- MEMES:END -->
 
 --- 
 
