@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [In this clever roguelike you build and rewire your powers using spare parts](https://www.pcgamer.com/games/roguelike/in-this-clever-roguelike-you-build-and-rewire-your-powers-using-spare-parts)
  - [Helldivers 2 only became a live-service game halfway through development, but &#39;feels like what live service was born to do&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-only-became-a-live-service-game-halfway-through-development-but-feels-like-what-live-service-was-born-to-do)
- - [Things get real weird in this dungeon crawler where you type to succeed](https://www.pcgamer.com/games/rpg/things-get-real-weird-in-this-dungeon-crawler-where-you-type-to-succeed)
- - [Ghost of Tsushima&#39;s PC port has been delisted in nearly 200 countries and territories without PSN access, even though most of the game won&#39;t require a sign-in](https://www.pcgamer.com/games/action/ghosts-of-tsushimas-pc-port-has-been-delisted-in-nearly-200-countries-and-territories-without-psn-access-even-though-most-of-the-game-wont-require-a-sign-in)<!-- GAME:END -->
+ - [Things get real weird in this dungeon crawler where you type to succeed](https://www.pcgamer.com/games/rpg/things-get-real-weird-in-this-dungeon-crawler-where-you-type-to-succeed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
