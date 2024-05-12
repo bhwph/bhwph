@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The latest Vampire Survivors release is a straight-up crossover with Contra](https://www.pcgamer.com/games/the-latest-vampire-survivors-release-is-a-straight-up-crossover-with-contra)
- - [YouTuber spots something unusual about Skyrim&#39;s river flow, modder gets on it immediately](https://www.pcgamer.com/games/rpg/youtuber-spots-something-unusual-about-skyrims-river-flow-modder-gets-on-it-immediately)
- - [Today&#39;s Wordle answer for Sunday, May 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-12-2024)<!-- GAME:END -->
+ - [The best cozy games to play right now](https://www.polygon.com/what-to-play/24151983/best-cozy-games-play-nintendo-switch-steam-playstation-xbox-pc)
+ - [Starting Out Right In Hades 2, How Not To Suck In V Rising, And More Of The Week&#39;s Gaming Tips](https://kotaku.com/hades-2-tips-v-rising-no-rest-wicked-1851469602)
+ - [The latest Vampire Survivors release is a straight-up crossover with Contra](https://www.pcgamer.com/games/the-latest-vampire-survivors-release-is-a-straight-up-crossover-with-contra)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
