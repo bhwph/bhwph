@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The world needs more `If you don&#39;t like it don&#39;t watch`](http://9gag.com/gag/a5QNKdg)
- - 😝 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)
- - 👉 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)<!-- MEMES:END -->
+ - 6️⃣ [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)
+ - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 👉 [The neck breaker 4000](http://9gag.com/gag/a1mZYYY)<!-- MEMES:END -->
 
 --- 
 
