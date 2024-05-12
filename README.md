@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Sheets &lpar;2024&rpar;: Linen, Percale, and Budget Bedding](https://www.wired.com/story/best-bedsheets/)
- - [The new iPad Pro looks like a winner](https://www.theverge.com/24153472/apple-ipad-pro-animal-well-final-cut-camera-installer-newsletter)
- - [Q&amp;A with Oracle CEO Safra Catz on generative AI&#39;s risks and impact, providing cloud infrastructure to TikTok, the importance of workplace diversity, and more &lpar;Keiichi Murayama/Nikkei Asia&rpar;](http://www.techmeme.com/240512/p2#a240512p2)<!-- TECH:END -->
+ - [A look at the potential successors to Apple&#39;s top executives across all of the company&#39;s major divisions &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240512/p3#a240512p3)
+ - [Hisense U8N TV Review: Loaded Package, Shades Required](https://www.wired.com/review/hisense-u8n/)
+ - [The best Chromecast alternative is a streaming box many of us can’t buy](https://www.androidauthority.com/walmart-onn-4k-pro-best-chromecast-alternative-3441838/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
