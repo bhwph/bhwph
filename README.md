@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the potential successors to Apple&#39;s top executives across all of the company&#39;s major divisions &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240512/p3#a240512p3)
- - [Hisense U8N TV Review: Loaded Package, Shades Required](https://www.wired.com/review/hisense-u8n/)
- - [The best Chromecast alternative is a streaming box many of us can’t buy](https://www.androidauthority.com/walmart-onn-4k-pro-best-chromecast-alternative-3441838/)<!-- TECH:END -->
+ - [Original PlayStation games come to iPhone with new Gamma emulator](https://appleinsider.com/articles/24/05/12/original-playstation-games-come-to-iphone-with-new-gamma-emulator?utm_medium=rss)
+ - [Apple&#39;s M3 MacBook Air dips to $949 today for Best Buy Plus members](https://appleinsider.com/articles/24/05/12/apples-m3-macbook-air-dips-to-949-today-for-best-buy-plus-members?utm_medium=rss)
+ - [Crime blotter: UPS catches Apple product thieves in sting](https://appleinsider.com/articles/24/05/12/crime-blotter-ups-catches-apple-product-thieves-in-sting?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
