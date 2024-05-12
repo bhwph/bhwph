@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)
- - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 👉 [The neck breaker 4000](http://9gag.com/gag/a1mZYYY)<!-- MEMES:END -->
+ - 6️⃣ [That laugh!](http://9gag.com/gag/arye4Vd)
+ - 😝 [Baby&#39;s day out](http://9gag.com/gag/a9yMdeL)
+ - 👉 [The Aurora borealis is being seen across the United States!](http://9gag.com/gag/aAyVr10)<!-- MEMES:END -->
 
 --- 
 
