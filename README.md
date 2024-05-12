@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Original PlayStation games come to iPhone with new Gamma emulator](https://appleinsider.com/articles/24/05/12/original-playstation-games-come-to-iphone-with-new-gamma-emulator?utm_medium=rss)
- - [Apple&#39;s M3 MacBook Air dips to $949 today for Best Buy Plus members](https://appleinsider.com/articles/24/05/12/apples-m3-macbook-air-dips-to-949-today-for-best-buy-plus-members?utm_medium=rss)
- - [Crime blotter: UPS catches Apple product thieves in sting](https://appleinsider.com/articles/24/05/12/crime-blotter-ups-catches-apple-product-thieves-in-sting?utm_medium=rss)<!-- TECH:END -->
+ - [Solar Storms are disrupting farmer GPS systems during critical planting time](https://www.theverge.com/2024/5/12/24154779/solar-storms-farmer-gps-john-deer)
+ - [A look at professor-led crypto projects EigenLayer and Babylon, which seek to generate yield from cryptocurrencies, as &quot;professor coins&quot; spur investor interest &lpar;Bloomberg&rpar;](http://www.techmeme.com/240512/p4#a240512p4)
+ - [Aurora Light Shows Could Light Up Skies All Week: Where to Watch Them     - CNET](https://www.cnet.com/science/aurora-light-shows-could-light-up-skies-all-week-where-to-watch-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
