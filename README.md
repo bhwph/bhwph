@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Pharaoh&#39;s big free update map is far, far larger than I would have thought](https://www.pcgamer.com/games/strategy/total-war-pharaohs-big-free-update-map-is-far-far-larger-than-i-would-have-thought)
- - [The season of game company gaffes continues with NetEase apologizing for a Marvel Rivals preview contract that asked streamers not to make &#39;subjective negative reviews of the game&#39;](https://www.pcgamer.com/games/third-person-shooter/the-season-of-game-company-gaffes-continues-with-netease-apologizing-for-a-marvel-rivals-preview-contract-that-asked-streamers-not-to-make-subjective-negative-reviews-of-the-game)
- - [Mercedes Varnado picks which Sailor Scout would make the best professional wrestler](https://www.polygon.com/anime/24153748/mercedes-varnado-which-sailor-scout-would-be-the-best-wrestler)<!-- GAME:END -->
+ - [Finally, I have another game about being a freaky little nasty guy trapped in an otherworldly hell dimension to look forward to](https://www.pcgamer.com/games/horror/finally-i-have-another-game-about-being-a-freaky-little-nasty-guy-trapped-in-an-otherworldly-hell-dimension-to-look-forward-to)
+ - [Here&#39;s a co-op action roguelike that&#39;s basically a boss rush of high-tier MMO raids](https://www.pcgamer.com/games/roguelike/heres-a-co-op-action-roguelike-thats-basically-a-boss-rush-of-high-tier-mmo-raids)
+ - [Path of Achra, the approachably bite-size roguelike full of superpowered combos, has hit its full release](https://www.pcgamer.com/games/roguelike/path-of-achra-the-approachably-bite-size-roguelike-full-of-superpowered-combos-has-hit-its-full-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
