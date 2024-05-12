@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ride](http://9gag.com/gag/an7XBRB)
- - 😝 [Advice from Gabriel](http://9gag.com/gag/aByQrGz)
+ - 6️⃣ [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 😝 [Why am I not surprised????](http://9gag.com/gag/ae93Nzp)
  - 👉 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)<!-- MEMES:END -->
 
 --- 
