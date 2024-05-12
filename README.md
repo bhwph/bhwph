@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Large US developers are avoiding third-party App Store alternate payment plans](https://appleinsider.com/articles/24/05/11/large-us-developers-are-avoiding-third-party-app-store-alternate-payment-plans?utm_medium=rss)
- - [How Trump is courting crypto traders, as GOP becomes increasingly friendly toward crypto while key Democrats remain at odds and SEC cracks down on the industry &lpar;Jasper Goodman/Politico&rpar;](http://www.techmeme.com/240511/p15#a240511p15)
- - [Use Your iPhone to Take Long-Exposure Photos of This Weekend&#39;s Aurora Light Shows     - CNET](https://www.cnet.com/tech/mobile/use-your-iphone-to-take-long-exposure-photos-of-this-weekends-aurora-light-shows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 12, #336     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-12-336/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for May 12, #1058     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-12-1058/#ftag=CAD590a51e)
+ - [Best Earplugs for Sleeping in 2024     - CNET](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
