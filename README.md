@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, May 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-12-2024)
- - [In this clever roguelike you build and rewire your powers using spare parts](https://www.pcgamer.com/games/roguelike/in-this-clever-roguelike-you-build-and-rewire-your-powers-using-spare-parts)
- - [Helldivers 2 only became a live-service game halfway through development, but &#39;feels like what live service was born to do&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-only-became-a-live-service-game-halfway-through-development-but-feels-like-what-live-service-was-born-to-do)<!-- GAME:END -->
+ - [The latest Vampire Survivors release is a straight-up crossover with Contra](https://www.pcgamer.com/games/the-latest-vampire-survivors-release-is-a-straight-up-crossover-with-contra)
+ - [YouTuber spots something unusual about Skyrim&#39;s river flow, modder gets on it immediately](https://www.pcgamer.com/games/rpg/youtuber-spots-something-unusual-about-skyrims-river-flow-modder-gets-on-it-immediately)
+ - [Today&#39;s Wordle answer for Sunday, May 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-12-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
