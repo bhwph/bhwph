@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As VC firms pivot to investing in startups developing defense tech for the US and its allies, some of their business ties with China still linger &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240513/p3#a240513p3)
- - [These Artificial Blood Platelets Could One Day Save Lives](https://www.wired.com/story/synthetic-artificial-blood-platelets/)
- - [Using Google Wallet on a super-old Android phone? It’s time to upgrade.](https://www.androidauthority.com/google-wallet-old-android-phone-requirement-3442212/)<!-- TECH:END -->
+ - [Sources: the EU is set to issue new antitrust charges against Microsoft over concerns over undermining Teams competitors, despite Microsoft offering concessions &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240513/p4#a240513p4)
+ - [Here are the commands you can use with Gemini’s upcoming YouTube Music extension](https://www.androidauthority.com/youtube-music-gemini-extension-commands-example-format-3442247/)
+ - [iOS 18 could finally help iPhones catch up to Pixel’s Recorder app](https://www.androidauthority.com/ios-18-audio-transcription-rumor-3442228/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
