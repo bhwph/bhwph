@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
+ - 6️⃣ [Wish me luck my brothers](http://9gag.com/gag/apRo0QB)
  - 😝 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)
- - 👉 [\u201cEurope, youth, revolution`, French social right takes back Paris.](http://9gag.com/gag/aLnQ25x)<!-- MEMES:END -->
+ - 👉 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)<!-- MEMES:END -->
 
 --- 
 
