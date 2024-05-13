@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wish me luck my brothers](http://9gag.com/gag/apRo0QB)
- - 😝 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)
- - 👉 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)<!-- MEMES:END -->
+ - 6️⃣ [A ball launcher](http://9gag.com/gag/aXPEwo6)
+ - 😝 [Oh no.. And she at babies...](http://9gag.com/gag/axy2jXK)
+ - 👉 [If we taking things to the extremes](http://9gag.com/gag/aD2wGEx)<!-- MEMES:END -->
 
 --- 
 
