@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hi-Fi Rush: The Kotaku Retrospective Review](https://kotaku.com/hi-fi-rush-review-tango-gameworks-shutdown-xbox-1851473875)
- - [The Assassin&#39;s Creed game about ninjas in feudal Japan is called Assassin&#39;s Creed Shadows, full reveal coming on Wednesday](https://www.pcgamer.com/games/assassins-creed/the-assassins-creed-game-about-ninjas-in-feudal-japan-is-called-assassins-creed-shadows-full-reveal-coming-on-wednesday)
- - [How the Diablo 4 Helltide Reborn event works](https://www.pcgamer.com/games/rpg/diablo-4-helltide-reborn-aberrant-cinders-explained)<!-- GAME:END -->
+ - [Leaked Dell roadmap introduces split Intel/Qualcomm lineup through to Nova Lake in 2027](https://www.pcgamer.com/hardware/gaming-laptops/leaked-dell-roadmap-introduces-split-intelqualcomm-lineup-through-to-nova-lake-in-2027)
+ - [Arrowhead is actually making a &#39;review bomb&#39; cape to commemorate the Helldivers 2 PSN fiasco, complete with two huge negative review bars](https://www.pcgamer.com/games/third-person-shooter/arrowhead-is-actually-making-a-review-bomb-cape-to-commemorate-the-helldivers-2-psn-fiasco-complete-with-two-huge-negative-review-bars)
+ - [Frustrated developer changes his game&#39;s name to &#39;Bulwark: Falconeer Chronicles, a creative building sandbox&#39; because Steam users keep tagging it as a strategy game](https://www.pcgamer.com/games/city-builder/frustrated-developer-changes-his-games-name-to-bulwark-falconeer-chronicles-a-creative-building-sandbox-because-steam-users-keep-tagging-it-as-a-strategy-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
