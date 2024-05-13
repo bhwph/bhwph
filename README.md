@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researcher Sonia Livingstone says constraining tech companies and empowering young people and parents are better alternatives to banning kids from social media &lpar;Henry Mance/Financial Times&rpar;](http://www.techmeme.com/240512/p6#a240512p6)
- - [Following attempts to malign Signal as insecure by Telegram&#39;s CEO and Elon Musk, a look at why Signal is widely regarded by experts as more secure than Telegram &lpar;Matthew Green/@matthew_d_green&rpar;](http://www.techmeme.com/240512/p5#a240512p5)
- - [Solar Storms are disrupting farmer GPS systems during critical planting time](https://www.theverge.com/2024/5/12/24154779/solar-storms-farmer-gps-john-deer)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 13, #337     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hint-answer-for-may-13-337/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for May 13, #1059     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-13-1059/#ftag=CAD590a51e)
+ - [A look at how Elon Musk uses X to support right-wing world leaders like Narendra Modi who could help secure advantages for his businesses &lpar;New York Times&rpar;](http://www.techmeme.com/240512/p9#a240512p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
