@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop&#39;s Meme Stock Explodes Again After YouTuber Roaring Kitty Returns](https://kotaku.com/gamestop-gme-meme-stock-roaring-kitty-keith-gill-1851472682)
- - [The best movies of 2024 so far](https://www.polygon.com/what-to-watch/24064917/best-movies-2024)
- - [It Looks Like Red Dead Redemption&#39;s PC Port Is Finally Happening](https://kotaku.com/rdr-red-dead-redemption-pc-port-leak-rockstar-launcher-1851473262)<!-- GAME:END -->
+ - [Hi-Fi Rush: The Kotaku Retrospective Review](https://kotaku.com/hi-fi-rush-review-tango-gameworks-shutdown-xbox-1851473875)
+ - [The Assassin&#39;s Creed game about ninjas in feudal Japan is called Assassin&#39;s Creed Shadows, full reveal coming on Wednesday](https://www.pcgamer.com/games/assassins-creed/the-assassins-creed-game-about-ninjas-in-feudal-japan-is-called-assassins-creed-shadows-full-reveal-coming-on-wednesday)
+ - [How the Diablo 4 Helltide Reborn event works](https://www.pcgamer.com/games/rpg/diablo-4-helltide-reborn-aberrant-cinders-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
