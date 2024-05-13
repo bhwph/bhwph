@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Awesome Helldivers 2 Mod Lets Players Reenact Their Star Wars Fantasies](https://kotaku.com/helldivers-2-stars-wars-clone-wars-mod-1851473033)
- - [Square Enix to &#39;aggressively pursue&#39; a new multiplatform business strategy &#39;designed to win over PC users&#39;](https://www.pcgamer.com/games/final-fantasy/square-enix-to-aggressively-pursue-a-new-multiplatform-business-strategy-designed-to-win-over-pc-users)
- - [AMD Linux devs jamming nearly 24,000 lines of RDNA 4 supporting code into its mainstream driver suggests next-gen launch may be close at hand](https://www.pcgamer.com/hardware/graphics-cards/amd-linux-devs-jamming-nearly-24000-lines-of-rdna-4-supporting-code-into-its-mainstream-driver-suggests-next-gen-launch-may-be-close-at-hand)<!-- GAME:END -->
+ - [GameStop&#39;s Meme Stock Explodes Again After YouTuber Roaring Kitty Returns](https://kotaku.com/gamestop-gme-meme-stock-roaring-kitty-keith-gill-1851472682)
+ - [The best movies of 2024 so far](https://www.polygon.com/what-to-watch/24064917/best-movies-2024)
+ - [It Looks Like Red Dead Redemption&#39;s PC Port Is Finally Happening](https://kotaku.com/rdr-red-dead-redemption-pc-port-leak-rockstar-launcher-1851473262)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
