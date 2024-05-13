@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If we taking things to the extremes](http://9gag.com/gag/aD2wGEx)
- - 😝 [A ball launcher](http://9gag.com/gag/aXPEwo6)
- - 👉 [Oh no.. And she at babies...](http://9gag.com/gag/axy2jXK)<!-- MEMES:END -->
+ - 6️⃣ [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
+ - 😝 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
+ - 👉 [Driving test in Afghanistan](http://9gag.com/gag/a9yMYw0)<!-- MEMES:END -->
 
 --- 
 
