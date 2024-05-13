@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That shirt is a little low, isn&#39;t it?](http://9gag.com/gag/ae93YOp)
- - 😝 [The new RTX 5090 power connector.](http://9gag.com/gag/amoLr4v)
- - 👉 [Driving test in Afghanistan](http://9gag.com/gag/a9yMYw0)<!-- MEMES:END -->
+ - 6️⃣ [Happy Endings, yay](http://9gag.com/gag/ayNp8nq)
+ - 😝 [`Anime girls have unrealistic proportions`](http://9gag.com/gag/a2vPr6d)
+ - 👉 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)<!-- MEMES:END -->
 
 --- 
 
