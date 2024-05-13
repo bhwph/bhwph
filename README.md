@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Intel is in advanced, exclusive talks for a deal in which Apollo Global Management would supply $11B+ to help the chip giant build a plant in Ireland &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240513/p19#a240513p19)
- - [Stop spam calls at the source by fighting data brokers with Incogni](https://appleinsider.com/articles/24/05/13/stop-spam-calls-at-the-source-by-fighting-data-brokers-with-incogni?utm_medium=rss)
- - [Isambard-AI, the UK&#39;s fastest supercomputer that cost &amp;pound;225M and ranks 129th on the Top500 list, comes online; the system will contain 5,448 Nvidia GH200 chips &lpar;Charlotte Trueman/DatacenterDynamics&rpar;](http://www.techmeme.com/240513/p18#a240513p18)<!-- TECH:END -->
+ - [Retro gold rush: which emulators on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [OnePlus Watch 2 update adds new Relax and Barometer apps](https://www.androidauthority.com/oneplus-watch-2-update-new-relax-and-barometer-apps-3442315/)
+ - [Is the Pixel 8a’s processor as good as the Pixel 8 and 8 Pro?](https://www.androidauthority.com/pixel-8-vs-pixel-8a-benchmarks-3441857/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
