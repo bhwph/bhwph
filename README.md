@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
- - 😝 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
- - 👉 [Driving test in Afghanistan](http://9gag.com/gag/a9yMYw0)<!-- MEMES:END -->
+ - 6️⃣ [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)
+ - 😝 [Happy Endings, yay](http://9gag.com/gag/ayNp8nq)
+ - 👉 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)<!-- MEMES:END -->
 
 --- 
 
