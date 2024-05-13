@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia testing cooling solutions up to 600W for its Blackwell graphics cards suggests power levels in line with the previous GeForce generations](https://www.pcgamer.com/hardware/graphics-cards/nvidia-testing-cooling-solutions-up-to-600w-for-its-blackwell-graphics-cards-suggests-power-levels-in-line-with-the-previous-geforce-generations)
- - [Underfunded enthusiast too poor for mecha kits turns to smutty &#39;perfect waifu&#39; game, remodels an innocent girl into &#39;a magnificent Destroy Gundam&#39;](https://www.pcgamer.com/games/underfunded-enthusiast-too-poor-for-mecha-kits-turns-to-smutty-perfect-waifu-game-remodels-an-innocent-girl-into-a-magnificent-destroy-gundam)
- - [The monsters that made me: Growing up disabled, all of my heroes were villains](https://www.polygon.com/entertainment/24128340/horror-movie-monsters-disability-relationship-essay)<!-- GAME:END -->
+ - [Awesome Helldivers 2 Mod Lets Players Reenact Their Star Wars Fantasies](https://kotaku.com/helldivers-2-stars-wars-clone-wars-mod-1851473033)
+ - [Square Enix to &#39;aggressively pursue&#39; a new multiplatform business strategy &#39;designed to win over PC users&#39;](https://www.pcgamer.com/games/final-fantasy/square-enix-to-aggressively-pursue-a-new-multiplatform-business-strategy-designed-to-win-over-pc-users)
+ - [AMD Linux devs jamming nearly 24,000 lines of RDNA 4 supporting code into its mainstream driver suggests next-gen launch may be close at hand](https://www.pcgamer.com/hardware/graphics-cards/amd-linux-devs-jamming-nearly-24000-lines-of-rdna-4-supporting-code-into-its-mainstream-driver-suggests-next-gen-launch-may-be-close-at-hand)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
