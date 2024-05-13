@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the EU is set to issue new antitrust charges against Microsoft over concerns over undermining Teams competitors, despite Microsoft offering concessions &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240513/p4#a240513p4)
- - [Here are the commands you can use with Gemini’s upcoming YouTube Music extension](https://www.androidauthority.com/youtube-music-gemini-extension-commands-example-format-3442247/)
- - [iOS 18 could finally help iPhones catch up to Pixel’s Recorder app](https://www.androidauthority.com/ios-18-audio-transcription-rumor-3442228/)<!-- TECH:END -->
+ - [The EU designates Booking as a DMA gatekeeper, saying &quot;holidaymakers will start benefiting from more choice and hotels will have more business opportunities&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240513/p10#a240513p10)
+ - [SoftBank reports a $4.6B gain on its Vision Fund in the fiscal year to March 2024, the first gain since 2021, after ByteDance and DoorDash rose in value &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240513/p9#a240513p9)
+ - [Inside the Cult of the Haskell Programmer](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
