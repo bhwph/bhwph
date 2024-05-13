@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive: Google is experimenting with running Chrome OS on Android](https://www.androidauthority.com/chrome-os-running-on-pixel-3442496/)
- - [Cruise is back driving autonomously for the first time since pedestrian-dragging incident](https://www.theverge.com/2024/5/13/24155559/cruise-robotaxi-return-phoenix-autonomous-safety-driver)
- - [Cash savings available on the 2024 iPads ahead of release](https://www.androidauthority.com/2024-ipad-pro-air-deal-3442549/)<!-- TECH:END -->
+ - [GPT-4o&#39;s text and image capabilities are rolling out to ChatGPT Plus and Team users; GPT-4o&#39;s voice version is coming soon; mysterious gpt2-chatbot was GPT-4o &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240513/p34#a240513p34)
+ - [Melinda French Gates to leave the Bill &amp; Melinda Gates Foundation](https://www.theverge.com/2024/5/13/24155692/melinda-bill-gates-leave-foundation-philanthropy)
+ - [Protesters Are Fighting to Stop AI, but They’re Split on How to Do It](https://www.wired.com/story/protesters-pause-ai-split-stop/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
