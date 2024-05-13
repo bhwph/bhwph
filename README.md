@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Multipoint Bluetooth Headphones and Earbuds for 2024     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)
- - [A look at 01.AI, which is launching Wanzhi, a free generative AI assistant focused on the Chinese market; CEO Kai-Fu Lee says 01.AI is nearing profitability &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240512/p10#a240512p10)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 13, #337     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hint-answer-for-may-13-337/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As VC firms pivot to investing in startups developing defense tech for the US and its allies, some of their business ties with China still linger &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240513/p3#a240513p3)
+ - [These Artificial Blood Platelets Could One Day Save Lives](https://www.wired.com/story/synthetic-artificial-blood-platelets/)
+ - [Using Google Wallet on a super-old Android phone? It’s time to upgrade.](https://www.androidauthority.com/google-wallet-old-android-phone-requirement-3442212/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
