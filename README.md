@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A ball launcher](http://9gag.com/gag/aXPEwo6)
- - 😝 [Oh no.. And she at babies...](http://9gag.com/gag/axy2jXK)
- - 👉 [If we taking things to the extremes](http://9gag.com/gag/aD2wGEx)<!-- MEMES:END -->
+ - 6️⃣ [Yoink.](http://9gag.com/gag/aRBgVbQ)
+ - 😝 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
+ - 👉 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)<!-- MEMES:END -->
 
 --- 
 
