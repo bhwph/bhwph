@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU designates Booking as a DMA gatekeeper, saying &quot;holidaymakers will start benefiting from more choice and hotels will have more business opportunities&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240513/p10#a240513p10)
- - [SoftBank reports a $4.6B gain on its Vision Fund in the fiscal year to March 2024, the first gain since 2021, after ByteDance and DoorDash rose in value &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240513/p9#a240513p9)
- - [Inside the Cult of the Haskell Programmer](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/)<!-- TECH:END -->
+ - [Sources: Intel is in advanced, exclusive talks for a deal in which Apollo Global Management would supply $11B+ to help the chip giant build a plant in Ireland &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240513/p19#a240513p19)
+ - [Stop spam calls at the source by fighting data brokers with Incogni](https://appleinsider.com/articles/24/05/13/stop-spam-calls-at-the-source-by-fighting-data-brokers-with-incogni?utm_medium=rss)
+ - [Isambard-AI, the UK&#39;s fastest supercomputer that cost &amp;pound;225M and ranks 129th on the Top500 list, comes online; the system will contain 5,448 Nvidia GH200 chips &lpar;Charlotte Trueman/DatacenterDynamics&rpar;](http://www.techmeme.com/240513/p18#a240513p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
