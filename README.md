@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GPT-4o&#39;s text and image capabilities are rolling out to ChatGPT Plus and Team users; GPT-4o&#39;s voice version is coming soon; mysterious gpt2-chatbot was GPT-4o &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240513/p34#a240513p34)
- - [Melinda French Gates to leave the Bill &amp; Melinda Gates Foundation](https://www.theverge.com/2024/5/13/24155692/melinda-bill-gates-leave-foundation-philanthropy)
- - [Protesters Are Fighting to Stop AI, but They’re Split on How to Do It](https://www.wired.com/story/protesters-pause-ai-split-stop/)<!-- TECH:END -->
+ - [Anthropic launches its Claude chatbot and subscription plans in Europe, available to individuals and businesses through the web and via an iPhone app &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240513/p38#a240513p38)
+ - [I Am Once Again Asking Our Tech Overlords to Watch the Whole Movie](https://www.wired.com/story/openai-gpt-4o-chatgpt-artificial-intelligence-her-movie/)
+ - [Google’s conversational Gemini teaser sparks off multimodal AI war with OpenAI](https://www.androidauthority.com/google-gemini-video-teaser-3442610/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
