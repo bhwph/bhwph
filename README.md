@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First 25% price drop on the new Beats Solo 4](https://www.androidauthority.com/beats-solo-4-deal-3442466/)
- - [Google says Project Starline, its 3D video conferencing platform first unveiled at 2021&#39;s Google I/O, will ship in 2025 with HP as a launch partner &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240513/p25#a240513p25)
- - [Apple makes breaking your new iPad&#39;s screen a little less painful](https://appleinsider.com/articles/24/05/13/apple-makes-breaking-your-new-ipads-screen-a-little-less-painful?utm_medium=rss)<!-- TECH:END -->
+ - [Exclusive: Google is experimenting with running Chrome OS on Android](https://www.androidauthority.com/chrome-os-running-on-pixel-3442496/)
+ - [Cruise is back driving autonomously for the first time since pedestrian-dragging incident](https://www.theverge.com/2024/5/13/24155559/cruise-robotaxi-return-phoenix-autonomous-safety-driver)
+ - [Cash savings available on the 2024 iPads ahead of release](https://www.androidauthority.com/2024-ipad-pro-air-deal-3442549/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
