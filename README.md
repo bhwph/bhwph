@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retro gold rush: which emulators on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [OnePlus Watch 2 update adds new Relax and Barometer apps](https://www.androidauthority.com/oneplus-watch-2-update-new-relax-and-barometer-apps-3442315/)
- - [Is the Pixel 8a’s processor as good as the Pixel 8 and 8 Pro?](https://www.androidauthority.com/pixel-8-vs-pixel-8a-benchmarks-3441857/)<!-- TECH:END -->
+ - [First 25% price drop on the new Beats Solo 4](https://www.androidauthority.com/beats-solo-4-deal-3442466/)
+ - [Google says Project Starline, its 3D video conferencing platform first unveiled at 2021&#39;s Google I/O, will ship in 2025 with HP as a launch partner &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240513/p25#a240513p25)
+ - [Apple makes breaking your new iPad&#39;s screen a little less painful](https://appleinsider.com/articles/24/05/13/apple-makes-breaking-your-new-ipads-screen-a-little-less-painful?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
