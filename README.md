@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Land of dragons and jank: I took a trip to Wales in the metaverse](https://www.pcgamer.com/games/vr/land-of-dragons-and-jank-i-took-a-trip-to-wales-in-the-metaverse)
- - [Can Abra be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24155512/can-abra-be-shiny-kadabra-alakazam-mega)
- - [Red Dead Redemption may actually be coming to PC after 14 years](https://www.pcgamer.com/games/action/red-dead-redemption-may-actually-be-coming-to-pc-after-14-years)<!-- GAME:END -->
+ - [My penchant for yapping keeps getting me into trouble when the words I type could accidentally kill me](https://www.pcgamer.com/games/puzzle/my-penchant-for-yapping-keeps-getting-me-into-trouble-when-the-words-i-type-could-accidentally-kill-me)
+ - [You should absolutely play the Homeworld Remastered Collection before jumping into Homeworld 3](https://www.pcgamer.com/games/rts/you-should-absolutely-play-the-homeworld-remastered-collection-before-jumping-into-homeworld-3)
+ - [The first patch for Bethesda&#39;s busted Fallout 4 next gen update leaves its biggest problems intact, and you&#39;re still better off downgrading the game](https://www.pcgamer.com/games/fallout/the-first-patch-for-bethesdas-busted-fallout-4-next-gen-update-leaves-its-biggest-problems-intact-and-youre-still-better-off-downgrading-the-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
