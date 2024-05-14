@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces Trillium, its new Google Cloud TPU that has 4.7 times better computing performance compared with the TPU v5e and is 67% more energy efficient &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240514/p34#a240514p34)
- - [The best Snapdragon 8 Gen 3 phones you can buy](https://www.androidauthority.com/best-snapdragon-8-gen-3-phones-3442576/)
- - [Google announces that Gemini Advanced subscribers will soon be able to make personalized Gemini chatbots, called Gems, with distinct personalities and abilities &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240514/p33#a240514p33)<!-- TECH:END -->
+ - [Biden Is Trying to Buy EVs Time With New Tariffs on China. It Might Not Work](https://www.wired.com/story/new-ev-china-tariffs-biden/)
+ - [Blink and you missed it: Google has a new pair of prototype AR glasses](https://www.theverge.com/2024/5/14/24156518/google-glass-prototype-ar-glasses-io-2024)
+ - [Was this the best or worst Google I/O ever?](https://www.androidauthority.com/poll-best-or-worst-google-i-o-3443389/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
