@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Square Enix falls 16%, the biggest decline in 13 years, after President Takashi Kiryu said sales of its big-budget games, exclusive to PlayStation, fell short &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240514/p9#a240514p9)
- - [One of the last roadblocks to selling Apple Vision Pro in China has been lifted](https://appleinsider.com/articles/24/05/14/one-of-the-last-roadblocks-to-selling-apple-vision-pro-in-china-has-been-lifted?utm_medium=rss)
- - [Google I/O 2024 Live Blog: Latest News on Android, Gemini, and Search](https://www.wired.com/live/google-io-2024-liveblog/)<!-- TECH:END -->
+ - [Record deal slashes 46% off the Eufy Security SoloCam S220](https://www.androidauthority.com/deal-eufy-security-solocam-s220-3442616/)
+ - [Generative AI Is Totally Shameless. I Want to Be It](https://www.wired.com/story/generative-ai-totally-shameless/)
+ - [The mission to retrieve a Mars sample is running into turbulence](https://www.theverge.com/2024/5/14/24153047/mars-sample-return-nasa-budget-timeline-extraterrestrial-life)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
