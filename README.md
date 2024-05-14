@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Composer Running For Congress &#39;Intends To Win&#39; Because He&#39;s A &#39;Gamer&#39;](https://kotaku.com/halo-composer-marty-odonnell-bungie-congress-gamer-win-1851476437)
- - [What is the best class in Diablo 4 for you?](https://www.polygon.com/diablo-4-guides/23654552/best-class-solo-beginner-guide)
- - [The best Rogue builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23650988/rogue-best-build-skills)<!-- GAME:END -->
+ - [Final Fantasy 8 Is The Perfect Follow-Up To FF7](https://kotaku.com/final-fantasy-7-8-ff7-ff8-cloud-squall-rinoa-tifa-1851476972)
+ - [A Bunch Of Slept-On Games Are About To Hit Game Pass](https://kotaku.com/xbox-game-pass-may-2024-full-list-leaving-hellblade-2-1851476811)
+ - [The Sims 4&#39;s new roadmap details the &#39;Season of Love&#39; with two build kits and a romantic expansion](https://www.pcgamer.com/games/the-sims/the-sims-4s-new-roadmap-details-the-season-of-love-with-two-build-kits-and-a-romantic-expansion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
