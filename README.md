@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic launches its Claude chatbot and subscription plans in Europe, available to individuals and businesses through the web and via an iPhone app &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240513/p38#a240513p38)
- - [I Am Once Again Asking Our Tech Overlords to Watch the Whole Movie](https://www.wired.com/story/openai-gpt-4o-chatgpt-artificial-intelligence-her-movie/)
- - [Google’s conversational Gemini teaser sparks off multimodal AI war with OpenAI](https://www.androidauthority.com/google-gemini-video-teaser-3442610/)<!-- TECH:END -->
+ - [With OpenAI&#39;s Release of GPT-4o, Is ChatGPT Plus Still Worth It?](https://www.wired.com/story/with-gpt-4o-is-chatgpt-plus-still-worth-it/)
+ - [Mexico-based BNPL startup Aplazo raised a $45M Series B led by QED Investors, bringing its total raised to $100M+ in equity and $75M in committed debt &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/240513/p45#a240513p45)
+ - [Pepper, which provides tools for order management, invoicing, and more for independent food distributors, raised a $30M Series B led by Iconiq Growth &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240513/p44#a240513p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
