@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Brazil is not for beginners](http://9gag.com/gag/ayNpx6q)
- - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 👉 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)<!-- MEMES:END -->
+ - 6️⃣ [Nippy](http://9gag.com/gag/aqyZ73v)
+ - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
+ - 👉 [The new ChatGPT is `Her`](http://9gag.com/gag/a87b31Q)<!-- MEMES:END -->
 
 --- 
 
