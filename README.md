@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
- - 😝 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
+ - 6️⃣ [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
  - 👉 [Where are they boys?](http://9gag.com/gag/aAyVPog)<!-- MEMES:END -->
 
 --- 
