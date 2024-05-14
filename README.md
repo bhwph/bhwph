@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 👉 [Where are they boys?](http://9gag.com/gag/aAyVPog)<!-- MEMES:END -->
+ - 6️⃣ [This is the way](http://9gag.com/gag/avyZO8n)
+ - 😝 [Asshole in the parking](http://9gag.com/gag/a5QNnnN)
+ - 👉 [Are you happy?](http://9gag.com/gag/abAqzdb)<!-- MEMES:END -->
 
 --- 
 
