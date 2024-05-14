@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 8 Is The Perfect Follow-Up To FF7](https://kotaku.com/final-fantasy-7-8-ff7-ff8-cloud-squall-rinoa-tifa-1851476972)
- - [A Bunch Of Slept-On Games Are About To Hit Game Pass](https://kotaku.com/xbox-game-pass-may-2024-full-list-leaving-hellblade-2-1851476811)
- - [The Sims 4&#39;s new roadmap details the &#39;Season of Love&#39; with two build kits and a romantic expansion](https://www.pcgamer.com/games/the-sims/the-sims-4s-new-roadmap-details-the-season-of-love-with-two-build-kits-and-a-romantic-expansion)<!-- GAME:END -->
+ - [Community Update May 2024 – Movements and Requests](https://news.xbox.com/en-us/2024/05/14/community-update-may-2024-movements-and-requests/)
+ - [How to finish ‘Zero Hour’ and get Outbreak Perfected in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24155578/zero-hour-walkthrough-outbreak-perfected-exotic-pattern)
+ - [Amazon Orders Tomb Raider Series From Fleabag Star And Writer](https://kotaku.com/amazon-tomb-raider-tv-series-movie-phoebe-waller-bridge-1851477186)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
