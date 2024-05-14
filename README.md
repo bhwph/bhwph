@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Record deal slashes 46% off the Eufy Security SoloCam S220](https://www.androidauthority.com/deal-eufy-security-solocam-s220-3442616/)
- - [Generative AI Is Totally Shameless. I Want to Be It](https://www.wired.com/story/generative-ai-totally-shameless/)
- - [The mission to retrieve a Mars sample is running into turbulence](https://www.theverge.com/2024/5/14/24153047/mars-sample-return-nasa-budget-timeline-extraterrestrial-life)<!-- TECH:END -->
+ - [Neakasa M1 Self-Cleaning Litter Box Review: Automated No-Scoop Cleaning](https://www.wired.com/review/neakasa-m1-litter-box/)
+ - [SteelSeries’ new headset provides over 100 game-specific audio presets](https://www.theverge.com/2024/5/14/24155623/steelseries-arctis-nova-5-wireless-gaming-headset-price-availability)
+ - [Apple wants iPhone-like touch surfaces to be able to wrap around spheres](https://appleinsider.com/articles/24/05/14/apple-wants-iphone-like-touch-surfaces-to-be-able-to-wrap-around-spheres?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
