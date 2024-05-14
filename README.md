@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 😝 [Brazil is not for beginners](http://9gag.com/gag/ayNpx6q)
- - 👉 [A normal debate...](http://9gag.com/gag/aQzp9Mq)<!-- MEMES:END -->
+ - 6️⃣ [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
+ - 😝 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
+ - 👉 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)<!-- MEMES:END -->
 
 --- 
 
