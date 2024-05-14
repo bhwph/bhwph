@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
- - 😝 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
- - 👉 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)<!-- MEMES:END -->
+ - 6️⃣ [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)
+ - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
+ - 👉 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)<!-- MEMES:END -->
 
 --- 
 
