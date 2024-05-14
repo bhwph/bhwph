@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My penchant for yapping keeps getting me into trouble when the words I type could accidentally kill me](https://www.pcgamer.com/games/puzzle/my-penchant-for-yapping-keeps-getting-me-into-trouble-when-the-words-i-type-could-accidentally-kill-me)
- - [You should absolutely play the Homeworld Remastered Collection before jumping into Homeworld 3](https://www.pcgamer.com/games/rts/you-should-absolutely-play-the-homeworld-remastered-collection-before-jumping-into-homeworld-3)
- - [The first patch for Bethesda&#39;s busted Fallout 4 next gen update leaves its biggest problems intact, and you&#39;re still better off downgrading the game](https://www.pcgamer.com/games/fallout/the-first-patch-for-bethesdas-busted-fallout-4-next-gen-update-leaves-its-biggest-problems-intact-and-youre-still-better-off-downgrading-the-game)<!-- GAME:END -->
+ - [This chocolate factory-building game asks the question &#39;What if Willy Wonka had a gun?&#39;](https://www.pcgamer.com/games/survival-crafting/this-chocolate-factory-building-game-asks-the-question-what-if-willy-wonka-had-a-gun)
+ - [Helldivers 2&#39;s Polar Patriots Warbond gets an icy reception, as over 70% of 21,000 Discord voters declare they&#39;d prefer more patches or simply don&#39;t like it](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-polar-patriots-warbond-gets-an-icy-reception-as-over-70-of-21000-discord-voters-declare-theyd-prefer-more-patches-or-simply-dont-like-it)
+ - [Dread Delusion review](https://www.pcgamer.com/games/rpg/dread-delusion-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
