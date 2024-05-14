@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon season 2 trailer has SO many freaking dragons and houses](https://www.polygon.com/24156462/house-of-the-dragon-season-2-trailer)
- - [Final Fantasy 14&#39;s spin on D&amp;D has proven so popular it&#39;s already sold out before a single dice has been rolled, though a second wave of reprints is on its way](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-spin-on-dandd-has-proven-so-popular-its-already-sold-out-before-a-single-dice-has-been-rolled-though-a-second-wave-of-reprints-is-on-its-way)
- - [Abiotic Factor&#39;s first major update adds alien cheese and corpse bags, as the Half-Life inspired survival sim sells 250,000 copies](https://www.pcgamer.com/games/survival-crafting/abiotic-factors-first-major-update-adds-alien-cheese-and-corpse-bags-as-the-half-life-inspired-survival-sim-sells-250000-copies)<!-- GAME:END -->
+ - [Halo Composer Running For Congress &#39;Intends To Win&#39; Because He&#39;s A &#39;Gamer&#39;](https://kotaku.com/halo-composer-marty-odonnell-bungie-congress-gamer-win-1851476437)
+ - [What is the best class in Diablo 4 for you?](https://www.polygon.com/diablo-4-guides/23654552/best-class-solo-beginner-guide)
+ - [The best Rogue builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23650988/rogue-best-build-skills)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
