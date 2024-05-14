@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden Is Trying to Buy EVs Time With New Tariffs on China. It Might Not Work](https://www.wired.com/story/new-ev-china-tariffs-biden/)
- - [Blink and you missed it: Google has a new pair of prototype AR glasses](https://www.theverge.com/2024/5/14/24156518/google-glass-prototype-ar-glasses-io-2024)
- - [Was this the best or worst Google I/O ever?](https://www.androidauthority.com/poll-best-or-worst-google-i-o-3443389/)<!-- TECH:END -->
+ - [Killer deal: Apple&#39;s iPad Air dips to $399 at Amazon, the lowest price ever](https://appleinsider.com/articles/24/05/14/killer-deal-apples-ipad-air-dips-to-399-at-amazon-the-lowest-price-ever?utm_medium=rss)
+ - [Meta will shut down its Teams competitor Workplace next year](https://www.theverge.com/2024/5/14/24156712/meta-workplace-facebook-work-shutdown)
+ - [Google rolls out a search filter, named &quot;Web&quot;, to show only text-based links in results &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240514/p50#a240514p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
