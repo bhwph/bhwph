@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony reports Q4 revenue up 14% YoY to ~$22.4B, above ~$18.5B est., operating profit up 57% YoY to ~$1.5B, and sold 20.8M PS5 units in FY 2023, below guidance &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240514/p2#a240514p2)
- - [This is the first non-Pixel OEM to confirm Android 15 beta access](https://www.androidauthority.com/android-15-beta-first-oem-3442695/)
- - [SSDI May Payment: Where Is Your Check?     - CNET](https://www.cnet.com/personal-finance/ssdi-may-payment-where-is-your-check/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Square Enix falls 16%, the biggest decline in 13 years, after President Takashi Kiryu said sales of its big-budget games, exclusive to PlayStation, fell short &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240514/p9#a240514p9)
+ - [One of the last roadblocks to selling Apple Vision Pro in China has been lifted](https://appleinsider.com/articles/24/05/14/one-of-the-last-roadblocks-to-selling-apple-vision-pro-in-china-has-been-lifted?utm_medium=rss)
+ - [Google I/O 2024 Live Blog: Latest News on Android, Gemini, and Search](https://www.wired.com/live/google-io-2024-liveblog/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
