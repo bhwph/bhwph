@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This chocolate factory-building game asks the question &#39;What if Willy Wonka had a gun?&#39;](https://www.pcgamer.com/games/survival-crafting/this-chocolate-factory-building-game-asks-the-question-what-if-willy-wonka-had-a-gun)
- - [Helldivers 2&#39;s Polar Patriots Warbond gets an icy reception, as over 70% of 21,000 Discord voters declare they&#39;d prefer more patches or simply don&#39;t like it](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-polar-patriots-warbond-gets-an-icy-reception-as-over-70-of-21000-discord-voters-declare-theyd-prefer-more-patches-or-simply-dont-like-it)
- - [Dread Delusion review](https://www.pcgamer.com/games/rpg/dread-delusion-review)<!-- GAME:END -->
+ - [House of the Dragon season 2 trailer has SO many freaking dragons and houses](https://www.polygon.com/24156462/house-of-the-dragon-season-2-trailer)
+ - [Final Fantasy 14&#39;s spin on D&amp;D has proven so popular it&#39;s already sold out before a single dice has been rolled, though a second wave of reprints is on its way](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-spin-on-dandd-has-proven-so-popular-its-already-sold-out-before-a-single-dice-has-been-rolled-though-a-second-wave-of-reprints-is-on-its-way)
+ - [Abiotic Factor&#39;s first major update adds alien cheese and corpse bags, as the Half-Life inspired survival sim sells 250,000 copies](https://www.pcgamer.com/games/survival-crafting/abiotic-factors-first-major-update-adds-alien-cheese-and-corpse-bags-as-the-half-life-inspired-survival-sim-sells-250000-copies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
