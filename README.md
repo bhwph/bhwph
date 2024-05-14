@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nippy](http://9gag.com/gag/aqyZ73v)
- - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 👉 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)<!-- MEMES:END -->
+ - 6️⃣ [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
+ - 😝 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
+ - 👉 [Final destination vibes](http://9gag.com/gag/a5QNMdO)<!-- MEMES:END -->
 
 --- 
 
