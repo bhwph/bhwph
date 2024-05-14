@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neakasa M1 Self-Cleaning Litter Box Review: Automated No-Scoop Cleaning](https://www.wired.com/review/neakasa-m1-litter-box/)
- - [SteelSeries’ new headset provides over 100 game-specific audio presets](https://www.theverge.com/2024/5/14/24155623/steelseries-arctis-nova-5-wireless-gaming-headset-price-availability)
- - [Apple wants iPhone-like touch surfaces to be able to wrap around spheres](https://appleinsider.com/articles/24/05/14/apple-wants-iphone-like-touch-surfaces-to-be-able-to-wrap-around-spheres?utm_medium=rss)<!-- TECH:END -->
+ - [SEC filing: Unity Create CPO and CTO Marc Whitten is stepping down on June 1, less than one year after becoming entangled in the company&#39;s Runtime Fee fiasco &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240514/p20#a240514p20)
+ - [Amazon follows Fallout with live-action Tomb Raider show](https://www.theverge.com/2024/5/14/24156397/tomb-raider-series-amazon-phoebe-waller-bridge)
+ - [TSMC plans to start building its first European facility in Q4 2024, ahead of production in 2027; TSMC unveiled plans for an $11B factory in Germany last August &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240514/p19#a240514p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
