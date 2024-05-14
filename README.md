@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tower of Fantasy version 4.0 introduces a new open-world update on May 28](https://blog.playstation.com/2024/05/13/tower-of-fantasy-version-4-0-introduces-a-new-open-world-update-on-may-28/)
  - [Sony Names PlayStation&#39;s New Bosses](https://kotaku.com/sony-playstation-ceo-ps5-spring-2024-showcase-1851474530)
- - [One of my most anticipated upcoming RPGs doesn&#39;t just have a fishing minigame⁠—it has a full 3D aquarium where you can view your biggest catches and learn fantasy fish &#39;lore&#39;](https://www.pcgamer.com/games/rpg/one-of-my-most-anticipated-upcoming-rpgs-doesnt-just-have-a-fishing-minigameit-has-a-full-3d-aquarium-where-you-can-view-your-biggest-catches-and-learn-fantasy-fish-lore)<!-- GAME:END -->
+ - [Tower of Fantasy version 4.0 introduces a new open-world update on May 28](https://blog.playstation.com/2024/05/13/tower-of-fantasy-version-4-0-introduces-a-new-open-world-update-on-may-28/)
+ - [Tower of Fantasy version 4.0 introduces a new open-world update on May 28](https://blog.playstation.com/2024/05/13/tower-of-fantasy-version-4-0-introduces-a-new-open-world-update-on-may-28/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
