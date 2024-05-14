@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 😝 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
- - 👉 [Final destination vibes](http://9gag.com/gag/a5QNMdO)<!-- MEMES:END -->
+ - 6️⃣ [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
+ - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
+ - 👉 [3000 Islamists took to the streets of Hamburg today. The Salafist organization \u201cMuslim Interaktiv\u201d and the protesters called for German law to be replaced with Sharia Law and for the Caliphate to be established in place of the German state.](http://9gag.com/gag/a87bp2O)<!-- MEMES:END -->
 
 --- 
 
