@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Leaked Dell docs suggest Qualcomm&#39;s new laptop chips could deliver nearly twice the battery life of the latest Intel CPUs](https://www.pcgamer.com/hardware/gaming-laptops/leaked-dell-docs-suggest-qualcomms-new-laptop-chips-could-deliver-nearly-twice-the-battery-life-of-the-latest-intel-cpus)
- - [How to get to the Ashlands in Valheim without your boat catching fire](https://www.pcgamer.com/games/survival-crafting/valheim-drakkar-boat)
- - [GameSir Nova Lite controller review](https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-controller-review)<!-- GAME:END -->
+ - [D&amp;D reveals the cover art of its revised 2024 Player Handbook—a sweet reminder that not all dragons are trying to eat your face, plus some deep-cut callbacks](https://www.pcgamer.com/games/board-games/dandd-reveals-the-cover-art-of-its-revised-2024-player-handbooka-sweet-reminder-that-not-all-dragons-are-trying-to-eat-your-face-plus-some-deep-cut-callbacks)
+ - [What’s it like to crush on a Victorian man transported to modern London? Kaliane Bradley had to find out](https://www.polygon.com/24153693/ministry-of-time-kaliane-bradley-interview-new-summer-2024-books)
+ - [Avast! New Cat Quest III friends and foes revealed, out August 8](https://blog.playstation.com/2024/05/15/avast-new-cat-quest-iii-friends-and-foes-revealed-out-august-8/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
