@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix strikes a deal with the NFL to stream two new Christmas Day games, beginning this season &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240515/p29#a240515p29)
- - [Instagram’s co-founder is Anthropic’s new chief product officer](https://www.theverge.com/2024/5/15/24157240/mike-krieger-anthropic-instagram-ai)
- - [Billionaire tech critic Frank McCourt says he is preparing a &quot;people&#39;s bid&quot; for TikTok to buy and rebuild the app as &quot;a new and better version of the internet&quot; &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/240515/p28#a240515p28)<!-- TECH:END -->
+ - [Amazon coupon drops the 2024 MacBook Air to just $949.99](https://www.androidauthority.com/deal-2024-macbook-air-3427020/)
+ - [I tried GPT-4o and it’s a gamechanger for free ChatGPT users](https://www.androidauthority.com/what-is-chatgpt-4o-3443460/)
+ - [Xbox Cloud Gaming now has mouse and keyboard support in 26 games](https://www.theverge.com/2024/5/15/24157375/xbox-cloud-gaming-mouse-and-keyboard-support-beta)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
