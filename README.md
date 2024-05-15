@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon coupon drops the 2024 MacBook Air to just $949.99](https://www.androidauthority.com/deal-2024-macbook-air-3427020/)
- - [I tried GPT-4o and it’s a gamechanger for free ChatGPT users](https://www.androidauthority.com/what-is-chatgpt-4o-3443460/)
- - [Xbox Cloud Gaming now has mouse and keyboard support in 26 games](https://www.theverge.com/2024/5/15/24157375/xbox-cloud-gaming-mouse-and-keyboard-support-beta)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Samsung Galaxy S24 FE wishlist: All the features I want to see](https://www.androidauthority.com/samsung-galaxy-s24-fe-3440533/)
+ - [Google and McLaren team up to showcase Android 15 features through mini-games](https://www.androidauthority.com/android-15-mini-games-3443777/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
