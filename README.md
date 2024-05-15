@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Not so funny](http://9gag.com/gag/aKGgxNj)
- - 😝 [It was not gonna last](http://9gag.com/gag/aPAy7LV)
- - 👉 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)<!-- MEMES:END -->
+ - 😝 [Left or right?](http://9gag.com/gag/a2vPoQ1)
+ - 👉 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)<!-- MEMES:END -->
 
 --- 
 
