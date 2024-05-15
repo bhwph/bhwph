@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin&#39;s Creed Shadows Revealed With 4 Minutes Of Bloody Action](https://kotaku.com/assassins-creed-shadows-red-release-date-trailer-1851479039)
- - [Ubisoft reveals Assassin’s Creed Shadows, its long-awaited feudal Japan game](https://www.polygon.com/24156633/ubisoft-assassins-creed-shadows-trailer-release-date-codename-red)
- - [Xbox Recognizes Global Accessibility Awareness Day](https://news.xbox.com/en-us/2024/05/15/xbox-global-accessibility-awareness-day-2024/)<!-- GAME:END -->
+ - [Hi-Fi Rush Devs Fix The Tiniest Bugs In One Last Update](https://kotaku.com/hi-fi-rush-final-update-patch-notes-ps5-xbox-pc-tango-1851479600)
+ - [Destiny 2 Brings Back The First Gun Players Ever Fired As A Powerful New Exotic](https://kotaku.com/destiny-2-the-final-shape-new-exotic-first-gun-khvostov-1851479505)
+ - [Hi-Fi Rush gets a bittersweet final patch as Tango Gameworks takes its final bow: &#39;Thank you again… You&#39;re all rockstars!&#39;](https://www.pcgamer.com/games/action/hi-fi-rush-gets-a-bittersweet-final-patch-as-tango-gameworks-takes-its-final-bow-thank-you-again-youre-all-rockstars)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
