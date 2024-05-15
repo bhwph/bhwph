@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC SVP Kevin Zhang says ASML&#39;s new machines, which cost &amp;euro;350M each, are too expensive, and the A16 node, due in late 2026, won&#39;t need to use the new machines &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240515/p15#a240515p15)
- - [Dell leak details next-gen Windows on Arm chips, 29-hour laptops, and more](https://www.theverge.com/2024/5/15/24157120/dell-windows-on-arm-leak-qualcomm-chips-battery-life)
- - [I Went Undercover as a Secret OnlyFans Chatter. It Wasn&#39;t Pretty](https://www.wired.com/story/i-went-undercover-secret-onlyfans-chatter-wasnt-pretty/)<!-- TECH:END -->
+ - [Sources: Neuralink&#39;s disclosure last week that tiny wires inside its first patient&#39;s brain had pulled out of position is an issue it has known about for years &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/240515/p24#a240515p24)
+ - [Humanity Protocol, a blockchain-based identity system that uses scans of people&#39;s palms, raised a $30M seed led by Kingsway Capital at a $1B valuation &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240515/p23#a240515p23)
+ - [The best alternatives to Apple&#39;s Magic Keyboard for iPad](https://appleinsider.com/inside/ipad/best/the-best-alternatives-to-apples-magic-keyboard-for-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
