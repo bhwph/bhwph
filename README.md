@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D reveals the cover art of its revised 2024 Player Handbook—a sweet reminder that not all dragons are trying to eat your face, plus some deep-cut callbacks](https://www.pcgamer.com/games/board-games/dandd-reveals-the-cover-art-of-its-revised-2024-player-handbooka-sweet-reminder-that-not-all-dragons-are-trying-to-eat-your-face-plus-some-deep-cut-callbacks)
- - [What’s it like to crush on a Victorian man transported to modern London? Kaliane Bradley had to find out](https://www.polygon.com/24153693/ministry-of-time-kaliane-bradley-interview-new-summer-2024-books)
- - [Avast! New Cat Quest III friends and foes revealed, out August 8](https://blog.playstation.com/2024/05/15/avast-new-cat-quest-iii-friends-and-foes-revealed-out-august-8/)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Shadows Revealed With 4 Minutes Of Bloody Action](https://kotaku.com/assassins-creed-shadows-red-release-date-trailer-1851479039)
+ - [Ubisoft reveals Assassin’s Creed Shadows, its long-awaited feudal Japan game](https://www.polygon.com/24156633/ubisoft-assassins-creed-shadows-trailer-release-date-codename-red)
+ - [Xbox Recognizes Global Accessibility Awareness Day](https://news.xbox.com/en-us/2024/05/15/xbox-global-accessibility-awareness-day-2024/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
