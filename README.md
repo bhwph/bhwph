@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
- - 😝 [Once upon a time\u2026](http://9gag.com/gag/aByQm21)
- - 👉 [Not so funny](http://9gag.com/gag/aKGgxNj)<!-- MEMES:END -->
+ - 6️⃣ [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
+ - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 👉 [Movie?](http://9gag.com/gag/aqyZKrZ)<!-- MEMES:END -->
 
 --- 
 
