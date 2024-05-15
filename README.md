@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft cancels The Division Heartland, the latest AAA free-to-play game casualty](https://www.polygon.com/24157512/tom-clancys-division-heartland-canceled-ubisoft)
- - [Ubisoft cancels The Division: Heartland so it can focus on &#39;bigger opportunities&#39; like XDefiant](https://www.pcgamer.com/games/third-person-shooter/ubisoft-cancels-the-division-heartland-so-it-can-focus-on-bigger-opportunities-like-xdefiant)
- - [Furiosa kicks sand in the face of boring franchise-filler movies](https://www.polygon.com/reviews/24157385/furiosa-review-no-spoilers-george-miller-anya-taylor-joy)<!-- GAME:END -->
+ - [UK government responds to Stop Killing Games petition, and it&#39;s not good: &#39;There is no requirement in UK law&#39; that forces companies to support old software](https://www.pcgamer.com/gaming-industry/uk-government-responds-to-stop-killing-games-petition-and-its-not-good-there-is-no-requirement-in-uk-law-that-forces-companies-to-support-old-software)
+ - [X-Men ’97’s Morph actor wants the shapeshifter to find love — just not with Wolverine](https://www.polygon.com/24157588/x-men-97-morph-actor-jp-karliak)
+ - [Red Dead Redemption 2 Dares You To Finish It Now That It&#39;s Back On PS Plus](https://kotaku.com/red-dead-redemption-2-ps-plus-extra-may-2024-ps5-update-1851480235)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
