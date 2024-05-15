@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adam Mosseri says Threads &quot;recently rolled out&quot; its own fact-checking program after piggybacking on Instagram and Facebook&#39;s network for a few months &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240515/p5#a240515p5)
- - [Huawei is revamping its retail strategy and aggressively opening flagship stores in China, opening four such stores between December 2023 and February 2024 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240515/p4#a240515p4)
- - [Foxconn&#39;s Sharp shifts focus to consumer electronics and AI after decision to exit TV display production, and is looking to sell its camera, chip device units &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240515/p3#a240515p3)<!-- TECH:END -->
+ - [Research: Southeast Asian scam syndicates, which typically use forced labor to run online scams like pig butchering, are stealing an estimated $64B annually &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/240515/p10#a240515p10)
+ - [Tado adds Matter to new smart heating range](https://www.theverge.com/2024/5/15/24157114/tado-x-matter-thread-smart-heating-europe-price)
+ - [Raspberry Pi announces plans for a London Stock Exchange IPO; the company was reportedly valued at ~$560M when Arm acquired a minority stake in November 2023 &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240515/p9#a240515p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
