@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research: Southeast Asian scam syndicates, which typically use forced labor to run online scams like pig butchering, are stealing an estimated $64B annually &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/240515/p10#a240515p10)
- - [Tado adds Matter to new smart heating range](https://www.theverge.com/2024/5/15/24157114/tado-x-matter-thread-smart-heating-europe-price)
- - [Raspberry Pi announces plans for a London Stock Exchange IPO; the company was reportedly valued at ~$560M when Arm acquired a minority stake in November 2023 &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240515/p9#a240515p9)<!-- TECH:END -->
+ - [TSMC SVP Kevin Zhang says ASML&#39;s new machines, which cost &amp;euro;350M each, are too expensive, and the A16 node, due in late 2026, won&#39;t need to use the new machines &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240515/p15#a240515p15)
+ - [Dell leak details next-gen Windows on Arm chips, 29-hour laptops, and more](https://www.theverge.com/2024/5/15/24157120/dell-windows-on-arm-leak-qualcomm-chips-battery-life)
+ - [I Went Undercover as a Secret OnlyFans Chatter. It Wasn&#39;t Pretty](https://www.wired.com/story/i-went-undercover-secret-onlyfans-chatter-wasnt-pretty/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
