@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Samsung Galaxy S24 FE wishlist: All the features I want to see](https://www.androidauthority.com/samsung-galaxy-s24-fe-3440533/)
- - [Google and McLaren team up to showcase Android 15 features through mini-games](https://www.androidauthority.com/android-15-mini-games-3443777/)<!-- TECH:END -->
+ - [ASUS ROG Ally X rumor points to big RAM and battery improvements](https://www.androidauthority.com/rog-ally-x-ram-battery-upgrade-3443820/)
+ - [Google announces Android 14 for TV, with new energy modes, accessibility features including color correction, picture-in-picture for some TV models, and more &lpar;Andrew Heinzman/How-To Geek&rpar;](http://www.techmeme.com/240515/p47#a240515p47)
+ - [Microsoft announces the Proteus Controller, a gamepad for Xbox gamers with disabilities](https://www.theverge.com/2024/5/15/24157529/microsoft-proteus-controller-xbox-accessibility)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
