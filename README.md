@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
- - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - 👉 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)<!-- MEMES:END -->
+ - 6️⃣ [Not so funny](http://9gag.com/gag/aKGgxNj)
+ - 😝 [It was not gonna last](http://9gag.com/gag/aPAy7LV)
+ - 👉 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)<!-- MEMES:END -->
 
 --- 
 
