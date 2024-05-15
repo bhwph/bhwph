@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS ROG Ally X rumor points to big RAM and battery improvements](https://www.androidauthority.com/rog-ally-x-ram-battery-upgrade-3443820/)
- - [Google announces Android 14 for TV, with new energy modes, accessibility features including color correction, picture-in-picture for some TV models, and more &lpar;Andrew Heinzman/How-To Geek&rpar;](http://www.techmeme.com/240515/p47#a240515p47)
- - [Microsoft announces the Proteus Controller, a gamepad for Xbox gamers with disabilities](https://www.theverge.com/2024/5/15/24157529/microsoft-proteus-controller-xbox-accessibility)<!-- TECH:END -->
+ - [Samsung&#39;s half-hearted attempt to capitalize on Apple&#39;s Crush ad misses the point](https://appleinsider.com/articles/24/05/15/samsungs-half-hearted-attempt-to-capitalize-on-apples-crush-ad-misses-the-point?utm_medium=rss)
+ - [Sony unveils the &amp;pound;1,299 Xperia 1 VI, with a Snapdragon 8 Gen 3 chipset, a 6.5-inch OLED Full HD+ display, and 7.1x optical zoom lens, and the &amp;pound;349 Xperia 10 VI &lpar;Lewis Empson/What Hi-Fi?&rpar;](http://www.techmeme.com/240515/p52#a240515p52)
+ - [Android 15 can automatically adjust vibration strength on Pixels](https://www.androidauthority.com/android-15-adaptive-vibration-3443842/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
