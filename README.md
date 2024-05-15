@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hi-Fi Rush Devs Fix The Tiniest Bugs In One Last Update](https://kotaku.com/hi-fi-rush-final-update-patch-notes-ps5-xbox-pc-tango-1851479600)
- - [Destiny 2 Brings Back The First Gun Players Ever Fired As A Powerful New Exotic](https://kotaku.com/destiny-2-the-final-shape-new-exotic-first-gun-khvostov-1851479505)
- - [Hi-Fi Rush gets a bittersweet final patch as Tango Gameworks takes its final bow: &#39;Thank you again… You&#39;re all rockstars!&#39;](https://www.pcgamer.com/games/action/hi-fi-rush-gets-a-bittersweet-final-patch-as-tango-gameworks-takes-its-final-bow-thank-you-again-youre-all-rockstars)<!-- GAME:END -->
+ - [Ubisoft cancels The Division Heartland, the latest AAA free-to-play game casualty](https://www.polygon.com/24157512/tom-clancys-division-heartland-canceled-ubisoft)
+ - [Ubisoft cancels The Division: Heartland so it can focus on &#39;bigger opportunities&#39; like XDefiant](https://www.pcgamer.com/games/third-person-shooter/ubisoft-cancels-the-division-heartland-so-it-can-focus-on-bigger-opportunities-like-xdefiant)
+ - [Furiosa kicks sand in the face of boring franchise-filler movies](https://www.polygon.com/reviews/24157385/furiosa-review-no-spoilers-george-miller-anya-taylor-joy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
