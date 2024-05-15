@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
- - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 👉 [Movie?](http://9gag.com/gag/aqyZKrZ)<!-- MEMES:END -->
+ - 6️⃣ [Spiderman VS Predator](http://9gag.com/gag/a87b5o1)
+ - 😝 [Works everytime](http://9gag.com/gag/azxL9OZ)
+ - 👉 [The new ChatGPT is `Her`](http://9gag.com/gag/a87b31Q)<!-- MEMES:END -->
 
 --- 
 
