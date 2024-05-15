@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ASRock Z790I Lightning WiFi review](https://www.pcgamer.com/hardware/motherboards/asrock-z790i-lightning-wifi-motherboard-review)
- - [Today&#39;s Wordle answer for Wednesday, May 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-15-2024)
- - [Monkey Island creator Ron Gilbert&#39;s next game is &#39;classic Zelda meets Diablo meets Thimbleweed Park&#39;](https://www.pcgamer.com/games/monkey-island-creator-ron-gilberts-next-game-is-classic-zelda-meets-diablo-meets-thimbleweed-park)<!-- GAME:END -->
+ - [Leaked Dell docs suggest Qualcomm&#39;s new laptop chips could deliver nearly twice the battery life of the latest Intel CPUs](https://www.pcgamer.com/hardware/gaming-laptops/leaked-dell-docs-suggest-qualcomms-new-laptop-chips-could-deliver-nearly-twice-the-battery-life-of-the-latest-intel-cpus)
+ - [How to get to the Ashlands in Valheim without your boat catching fire](https://www.pcgamer.com/games/survival-crafting/valheim-drakkar-boat)
+ - [GameSir Nova Lite controller review](https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-controller-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
