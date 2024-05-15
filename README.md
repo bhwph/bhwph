@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Neuralink&#39;s disclosure last week that tiny wires inside its first patient&#39;s brain had pulled out of position is an issue it has known about for years &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/240515/p24#a240515p24)
- - [Humanity Protocol, a blockchain-based identity system that uses scans of people&#39;s palms, raised a $30M seed led by Kingsway Capital at a $1B valuation &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240515/p23#a240515p23)
- - [The best alternatives to Apple&#39;s Magic Keyboard for iPad](https://appleinsider.com/inside/ipad/best/the-best-alternatives-to-apples-magic-keyboard-for-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix strikes a deal with the NFL to stream two new Christmas Day games, beginning this season &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240515/p29#a240515p29)
+ - [Instagram’s co-founder is Anthropic’s new chief product officer](https://www.theverge.com/2024/5/15/24157240/mike-krieger-anthropic-instagram-ai)
+ - [Billionaire tech critic Frank McCourt says he is preparing a &quot;people&#39;s bid&quot; for TikTok to buy and rebuild the app as &quot;a new and better version of the internet&quot; &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/240515/p28#a240515p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
