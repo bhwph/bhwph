@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Movie?](http://9gag.com/gag/aqyZKrZ)
- - 😝 [Nippy](http://9gag.com/gag/aqyZ73v)
- - 👉 [I used to use them.](http://9gag.com/gag/aByQ8d1)<!-- MEMES:END -->
+ - 6️⃣ [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
+ - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - 👉 [Not so funny](http://9gag.com/gag/aKGgxNj)<!-- MEMES:END -->
 
 --- 
 
