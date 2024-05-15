@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)
- - 😝 [Yeyeye, and the west is oikophobic for virtue signal points...](http://9gag.com/gag/a0ePKnv)
- - 👉 [Refugees welcome to Poland](http://9gag.com/gag/aO8yY7y)<!-- MEMES:END -->
+ - 6️⃣ [Movie?](http://9gag.com/gag/aqyZKrZ)
+ - 😝 [Nippy](http://9gag.com/gag/aqyZ73v)
+ - 👉 [I used to use them.](http://9gag.com/gag/aByQ8d1)<!-- MEMES:END -->
 
 --- 
 
