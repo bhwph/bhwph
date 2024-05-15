@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spiderman VS Predator](http://9gag.com/gag/a87b5o1)
- - 😝 [Works everytime](http://9gag.com/gag/azxL9OZ)
- - 👉 [The new ChatGPT is `Her`](http://9gag.com/gag/a87b31Q)<!-- MEMES:END -->
+ - 6️⃣ [Normal day in Australia](http://9gag.com/gag/a34dKR8)
+ - 😝 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
+ - 👉 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)<!-- MEMES:END -->
 
 --- 
 
