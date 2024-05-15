@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nippy](http://9gag.com/gag/aqyZ73v)
- - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 👉 [The new ChatGPT is `Her`](http://9gag.com/gag/a87b31Q)<!-- MEMES:END -->
+ - 6️⃣ [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
+ - 😝 [Spiderman VS Predator](http://9gag.com/gag/a87b5o1)
+ - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
 
 --- 
 
