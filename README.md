@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [El Salvador has mined 473.5 bitcoins worth ~$29M since 2021 thanks to a volcano-fueled geothermal power plant, bringing its total bitcoin portfolio to ~$354M &lpar;Nelson Renteria/Reuters&rpar;](http://www.techmeme.com/240514/p57#a240514p57)
- - [Best Weightlifting Shoes for 2024     - CNET](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)
- - [How to mass-delete Finder tags in macOS](https://appleinsider.com/inside/macos/tips/how-to-mass-delete-finder-tags-in-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Adam Mosseri says Threads &quot;recently rolled out&quot; its own fact-checking program after piggybacking on Instagram and Facebook&#39;s network for a few months &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240515/p5#a240515p5)
+ - [Huawei is revamping its retail strategy and aggressively opening flagship stores in China, opening four such stores between December 2023 and February 2024 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240515/p4#a240515p4)
+ - [Foxconn&#39;s Sharp shifts focus to consumer electronics and AI after decision to exit TV display production, and is looking to sell its camera, chip device units &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240515/p3#a240515p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
