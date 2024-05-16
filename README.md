@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Has your VPN failed to connect recently? Microsoft says the latest Windows security update may provide a fix](https://www.pcgamer.com/software/security/has-your-vpn-failed-to-connect-recently-microsoft-says-the-latest-windows-security-update-may-provide-a-fix)
- - [Senua’s Saga: Hellblade II – How Performance Capture and Stunts Created Next-Level Combat](https://news.xbox.com/en-us/2024/05/16/hellblade-2-performance-capture-next-level-combat-design/)
- - [Did you hear what Bridgerton season 3 is up to? Scandalous!](https://www.polygon.com/24156775/bridgerton-season-3-part-1-review-netflix-polin-3a)<!-- GAME:END -->
+ - [Super Mario 64 Player Cracks 28-Year-Old Mystery Behind ‘Unopenable’ Door](https://kotaku.com/super-mario-64-unopenable-door-opened-cool-mountain-1851481734)
+ - [Dave the Diver: free Godzilla DLC arrives May 23](https://blog.playstation.com/2024/05/16/dave-the-diver-free-godzilla-dlc-arrives-may-23/)
+ - [Collect Exclusive Disney Parks Popcorn Buckets in the New In-Game Event from Disney Dreamlight Valley](https://news.xbox.com/en-us/2024/05/16/collect-exclusive-disney-parks-popcorn-buckets-disney-dreamlight-valley/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
