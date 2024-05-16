@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
+ - 6️⃣ [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
  - 😝 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
- - 👉 [Neill Confidence man](http://9gag.com/gag/a0eP4nO)<!-- MEMES:END -->
+ - 👉 [Pineapple skin resisting heat emitted by 1000\u00b0C Iron ball](http://9gag.com/gag/abAqAeX)<!-- MEMES:END -->
 
 --- 
 
