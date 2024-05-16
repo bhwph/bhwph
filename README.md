@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian Disinfo Campaign Blames Ukraine for Shooting of Slovakia&#39;s Prime Minister](https://www.wired.com/story/russia-blaming-ukraine-slovakia-prime-minister-robert-fico-shooting/)
- - [Strava will add AI, dark mode, and night heatmaps](https://www.theverge.com/2024/5/16/24158290/strava-ai-dark-mode-night-heat-maps-family-subscription)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
+ - [AI coding startup Replit, which raised $220M+ and was last valued at $1B, lays off 30 employees, or 20% of its staff, and pivots to enterprise sales &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240516/p35#a240516p35)
+ - [Google’s making it easier for people with low vision to find objects using their phone](https://www.theverge.com/2024/5/16/24158453/google-accessibility-features-android-low-vision)
+ - [X rolls out a revamped version of its Communities feature, which lets users network around topics of interest, including improved discovery tools and search &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240516/p34#a240516p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
