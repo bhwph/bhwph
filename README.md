@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario 64 Player Cracks 28-Year-Old Mystery Behind ‘Unopenable’ Door](https://kotaku.com/super-mario-64-unopenable-door-opened-cool-mountain-1851481734)
- - [Dave the Diver: free Godzilla DLC arrives May 23](https://blog.playstation.com/2024/05/16/dave-the-diver-free-godzilla-dlc-arrives-may-23/)
- - [Collect Exclusive Disney Parks Popcorn Buckets in the New In-Game Event from Disney Dreamlight Valley](https://news.xbox.com/en-us/2024/05/16/collect-exclusive-disney-parks-popcorn-buckets-disney-dreamlight-valley/)<!-- GAME:END -->
+ - [New Xbox Feature Could Save Players Loads Of Time](https://kotaku.com/xbox-series-x-s-preload-update-mouse-keyboard-cloud-1851482275)
+ - [I tried the GameScent so you don&#39;t have to, and trust me, you don&#39;t want to](https://www.pcgamer.com/hardware/i-tried-the-gamescent-so-you-dont-have-to-and-trust-me-you-dont-want-to)
+ - [I’m going to watch the MoviePass documentary for one reason only](https://www.polygon.com/24158282/moviepass-max-documentary-trailer-schadenfreude)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
