@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
- - 😝 [Nippy](http://9gag.com/gag/aqyZ73v)
- - 👉 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)<!-- MEMES:END -->
+ - 6️⃣ [Buckle up it&#39;s going to be a bumpy ride](http://9gag.com/gag/aAyV0gZ)
+ - 😝 [Movie?](http://9gag.com/gag/aqyZKrZ)
+ - 👉 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)<!-- MEMES:END -->
 
 --- 
 
