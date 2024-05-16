@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI coding startup Replit, which raised $220M+ and was last valued at $1B, lays off 30 employees, or 20% of its staff, and pivots to enterprise sales &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240516/p35#a240516p35)
- - [Google’s making it easier for people with low vision to find objects using their phone](https://www.theverge.com/2024/5/16/24158453/google-accessibility-features-android-low-vision)
- - [X rolls out a revamped version of its Communities feature, which lets users network around topics of interest, including improved discovery tools and search &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240516/p34#a240516p34)<!-- TECH:END -->
+ - [Satellite messaging could be coming to T-Mobile users on Android 15](https://www.androidauthority.com/satellite-messaging-t-mobile-android-15-3444192/)
+ - [Apple previews Vehicle Motion Cues, which adds animated dots to iPhone and iPad screens to reduce motion sickness for passengers using them in moving vehicles &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240516/p39#a240516p39)
+ - [Google’s Gemini AI plan for schools promises extra data protection and privacy](https://www.theverge.com/2024/5/16/24158484/google-gemini-ai-workspace-education-school-privacy-accessibility-chromebook)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
