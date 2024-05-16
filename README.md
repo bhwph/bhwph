@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 😝 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
+ - 6️⃣ [Oh the humanity](http://9gag.com/gag/aAyVb2Z)
+ - 😝 [I see what you did there](http://9gag.com/gag/aKGgm4N)
  - 👉 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)<!-- MEMES:END -->
 
 --- 
