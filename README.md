@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta starts testing TweetDeck-style customizable feeds on Threads that are stacked in a column interface on the web, available to selected users &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240516/p27#a240516p27)
- - [House passes bill that would make ticket sellers show total prices upfront](https://www.theverge.com/2024/5/16/24158227/house-passes-ticket-act-junk-fees-taylor-swift)
- - [Disney, Fox, and WBD unveil the name of their sports streaming venture: Venu Sports, which is set to debut in fall 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240516/p26#a240516p26)<!-- TECH:END -->
+ - [Russian Disinfo Campaign Blames Ukraine for Shooting of Slovakia&#39;s Prime Minister](https://www.wired.com/story/russia-blaming-ukraine-slovakia-prime-minister-robert-fico-shooting/)
+ - [Strava will add AI, dark mode, and night heatmaps](https://www.theverge.com/2024/5/16/24158290/strava-ai-dark-mode-night-heat-maps-family-subscription)
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
