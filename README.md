@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU opens a formal DSA investigation into Meta, to assess if Facebook, Instagram, and its other apps were reinforcing &quot;rabbit hole&quot; effects and other issues &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240516/p13#a240516p13)
- - [Worker killed in blast at TSMC&#39;s Arizona construction site](https://appleinsider.com/articles/24/05/16/worker-killed-in-blast-at-tsmcs-arizona-construction-site?utm_medium=rss)
- - [Maven Is a New Social Network That Eliminates Followers—and Hopefully Stress](https://www.wired.com/story/maven-social-network-that-eliminates-followers-and-stress/)<!-- TECH:END -->
+ - [&#39;Assassin&#39;s Creed Shadows&#39; launches on Mac in November](https://appleinsider.com/articles/24/05/16/assassins-creed-shadows-launches-on-apple-silicon-macs-november-15?utm_medium=rss)
+ - [iPhone 16 Pro Max is going to be a bit bigger than the iPhone 15 Pro Max](https://appleinsider.com/articles/24/05/16/iphone-16-pro-max-mockup-shows-size-increase-versus-iphone-15-pro-max?utm_medium=rss)
+ - [Google Search Is Growing Up](https://www.wired.com/story/gadget-lab-podcast-644/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
