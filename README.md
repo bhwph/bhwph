@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In the first high-level AI talks in Geneva, the US raised concerns about China&#39;s &quot;misuse of AI&quot; while China chided the US over &quot;restrictions and pressure&quot; on AI &lpar;Associated Press&rpar;](http://www.techmeme.com/240516/p1#a240516p1)
- - [How to use Startup security in macOS to protect your Mac](https://appleinsider.com/inside/macos/tips/how-to-use-startup-security-in-macos-to-protect-your-mac?utm_medium=rss)
- - [Today&#39;s Wordle Hints and Answer: Help for May 16, #1062     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-16-1062/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fujifilm’s new X-T50 has a film simulation dial — and a questionable price](https://www.theverge.com/2024/5/16/24157566/fujifilm-xt50-camera-features-specs-price)
+ - [Microsoft unveils the Proteus Controller, a $299 modular game controller kit for disabled Xbox and PC gamers by peripheral company ByoWave, shipping in the fall &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240516/p6#a240516p6)
+ - [Grab raises its annual forecast for adjusted EBITDA to $250M-$270M, up from $180M-$200M previously, after Q1 net loss narrowed to $104M from $244M a year ago &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/240516/p5#a240516p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
