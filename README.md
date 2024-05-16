@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Switzerland](http://9gag.com/gag/aByQdpD)
- - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
- - 👉 [It&#39;s important!!](http://9gag.com/gag/adB68qV)<!-- MEMES:END -->
+ - 6️⃣ [It was not gonna last](http://9gag.com/gag/aPAy7LV)
+ - 😝 [What?](http://9gag.com/gag/aW40Gzx)
+ - 👉 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)<!-- MEMES:END -->
 
 --- 
 
