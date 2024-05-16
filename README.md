@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Assassin&#39;s Creed Shadows&#39; launches on Mac in November](https://appleinsider.com/articles/24/05/16/assassins-creed-shadows-launches-on-apple-silicon-macs-november-15?utm_medium=rss)
- - [iPhone 16 Pro Max is going to be a bit bigger than the iPhone 15 Pro Max](https://appleinsider.com/articles/24/05/16/iphone-16-pro-max-mockup-shows-size-increase-versus-iphone-15-pro-max?utm_medium=rss)
- - [Google Search Is Growing Up](https://www.wired.com/story/gadget-lab-podcast-644/)<!-- TECH:END -->
+ - [The ultrathin iPad Pro turns out to be shockingly sturdy](https://www.theverge.com/24158124/apple-ipad-pro-bend-test-durability)
+ - [Oura announces new health features for women, coming to the Oura Ring](https://www.androidauthority.com/oura-ring-new-health-features-women-3444040/)
+ - [Artiphon Chorda Review: A Nifty Toy for Non-Musicians](https://www.wired.com/review/artiphon-chorda/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
