@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fujifilm’s new X-T50 has a film simulation dial — and a questionable price](https://www.theverge.com/2024/5/16/24157566/fujifilm-xt50-camera-features-specs-price)
- - [Microsoft unveils the Proteus Controller, a $299 modular game controller kit for disabled Xbox and PC gamers by peripheral company ByoWave, shipping in the fall &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240516/p6#a240516p6)
- - [Grab raises its annual forecast for adjusted EBITDA to $250M-$270M, up from $180M-$200M previously, after Q1 net loss narrowed to $104M from $244M a year ago &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/240516/p5#a240516p5)<!-- TECH:END -->
+ - [Uh oh: The latest iOS update is bringing back deleted photos from years ago](https://www.androidauthority.com/ios-update-bringing-back-deleted-photos-3443881/)
+ - [Watch: Samsung takes a dig at Apple with Uncrush video ad](https://www.androidauthority.com/samsung-apple-crush-ad-video-response-3443880/)
+ - [US lawmakers are watching to see whether Colorado&#39;s bill for regulating AI, modeled on Connecticut&#39;s now derailed bill, can withstand the tech lobby pressure &lpar;Mallory Culhane/Politico&rpar;](http://www.techmeme.com/240516/p8#a240516p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
