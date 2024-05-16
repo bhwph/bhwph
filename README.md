@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
- - 😝 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
- - 👉 [Pineapple skin resisting heat emitted by 1000\u00b0C Iron ball](http://9gag.com/gag/abAqAeX)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s going down. Let&#39;s hope it will keep going down](http://9gag.com/gag/aMVbVjG)
+ - 😝 [Damn accurate](http://9gag.com/gag/adB6Bqj)
+ - 👉 [I&#39;m in this video and i don&#39;t like it](http://9gag.com/gag/a2vPK9e)<!-- MEMES:END -->
 
 --- 
 
