@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Japanese Switch Online players just got an important piece of Zelda history](https://www.polygon.com/nintendo/24157710/nintendo-switch-online-zelda-links-awakening-the-frog-for-whom-the-bell-tolls)
- - [Helldivers 2 community rallies behind wholesome hero after a remorseful villain kicks them, giving rise to Super Earth&#39;s new battlecry: &#39;im frend&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-community-rallies-behind-wholesome-hero-after-a-remorseful-villain-kicks-them-giving-rise-to-super-earths-new-battlecry-im-frend)
- - [Gone in 12 seconds—Two US brothers charged with stealing $25M in crypto heist using skills they acquired at MIT](https://www.pcgamer.com/hardware/gone-in-12-secondstwo-us-brothers-charged-with-stealing-dollar25m-in-crypto-heist-using-skills-they-acquired-at-mit)<!-- GAME:END -->
+ - [Has your VPN failed to connect recently? Microsoft says the latest Windows security update may provide a fix](https://www.pcgamer.com/software/security/has-your-vpn-failed-to-connect-recently-microsoft-says-the-latest-windows-security-update-may-provide-a-fix)
+ - [Senua’s Saga: Hellblade II – How Performance Capture and Stunts Created Next-Level Combat](https://news.xbox.com/en-us/2024/05/16/hellblade-2-performance-capture-next-level-combat-design/)
+ - [Did you hear what Bridgerton season 3 is up to? Scandalous!](https://www.polygon.com/24156775/bridgerton-season-3-part-1-review-netflix-polin-3a)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
