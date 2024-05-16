@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uh oh: The latest iOS update is bringing back deleted photos from years ago](https://www.androidauthority.com/ios-update-bringing-back-deleted-photos-3443881/)
- - [Watch: Samsung takes a dig at Apple with Uncrush video ad](https://www.androidauthority.com/samsung-apple-crush-ad-video-response-3443880/)
- - [US lawmakers are watching to see whether Colorado&#39;s bill for regulating AI, modeled on Connecticut&#39;s now derailed bill, can withstand the tech lobby pressure &lpar;Mallory Culhane/Politico&rpar;](http://www.techmeme.com/240516/p8#a240516p8)<!-- TECH:END -->
+ - [The EU opens a formal DSA investigation into Meta, to assess if Facebook, Instagram, and its other apps were reinforcing &quot;rabbit hole&quot; effects and other issues &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240516/p13#a240516p13)
+ - [Worker killed in blast at TSMC&#39;s Arizona construction site](https://appleinsider.com/articles/24/05/16/worker-killed-in-blast-at-tsmcs-arizona-construction-site?utm_medium=rss)
+ - [Maven Is a New Social Network That Eliminates Followers—and Hopefully Stress](https://www.wired.com/story/maven-social-network-that-eliminates-followers-and-stress/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
