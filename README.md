@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ultrathin iPad Pro turns out to be shockingly sturdy](https://www.theverge.com/24158124/apple-ipad-pro-bend-test-durability)
- - [Oura announces new health features for women, coming to the Oura Ring](https://www.androidauthority.com/oura-ring-new-health-features-women-3444040/)
- - [Artiphon Chorda Review: A Nifty Toy for Non-Musicians](https://www.wired.com/review/artiphon-chorda/)<!-- TECH:END -->
+ - [Meta starts testing TweetDeck-style customizable feeds on Threads that are stacked in a column interface on the web, available to selected users &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240516/p27#a240516p27)
+ - [House passes bill that would make ticket sellers show total prices upfront](https://www.theverge.com/2024/5/16/24158227/house-passes-ticket-act-junk-fees-taylor-swift)
+ - [Disney, Fox, and WBD unveil the name of their sports streaming venture: Venu Sports, which is set to debut in fall 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240516/p26#a240516p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
