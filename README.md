@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It was not gonna last](http://9gag.com/gag/aPAy7LV)
- - 😝 [What?](http://9gag.com/gag/aW40Gzx)
- - 👉 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)<!-- MEMES:END -->
+ - 6️⃣ [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
+ - 😝 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
+ - 👉 [Neill Confidence man](http://9gag.com/gag/a0eP4nO)<!-- MEMES:END -->
 
 --- 
 
