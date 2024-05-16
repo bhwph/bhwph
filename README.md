@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&#39;s half-hearted attempt to capitalize on Apple&#39;s Crush ad misses the point](https://appleinsider.com/articles/24/05/15/samsungs-half-hearted-attempt-to-capitalize-on-apples-crush-ad-misses-the-point?utm_medium=rss)
- - [Sony unveils the &amp;pound;1,299 Xperia 1 VI, with a Snapdragon 8 Gen 3 chipset, a 6.5-inch OLED Full HD+ display, and 7.1x optical zoom lens, and the &amp;pound;349 Xperia 10 VI &lpar;Lewis Empson/What Hi-Fi?&rpar;](http://www.techmeme.com/240515/p52#a240515p52)
- - [Android 15 can automatically adjust vibration strength on Pixels](https://www.androidauthority.com/android-15-adaptive-vibration-3443842/)<!-- TECH:END -->
+ - [Google I/O 2024: all the news from the developer conference](https://www.theverge.com/2024/5/14/24155647/google-io-news-announcements-rumors-gemini-ai)
+ - [Source: Stability AI has talked to at least one potential buyer in recent weeks about a sale; it lost $30M+ in Q1 and owes ~$100M to cloud providers and others &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240515/p56#a240515p56)
+ - [App Store bundle error punishes developer for success [u]](https://appleinsider.com/articles/24/05/15/developer-owes-apple-money-thanks-to-critical-accounting-error-for-app-store-bundles?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
