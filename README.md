@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Xbox Feature Could Save Players Loads Of Time](https://kotaku.com/xbox-series-x-s-preload-update-mouse-keyboard-cloud-1851482275)
- - [I tried the GameScent so you don&#39;t have to, and trust me, you don&#39;t want to](https://www.pcgamer.com/hardware/i-tried-the-gamescent-so-you-dont-have-to-and-trust-me-you-dont-want-to)
- - [I’m going to watch the MoviePass documentary for one reason only](https://www.polygon.com/24158282/moviepass-max-documentary-trailer-schadenfreude)<!-- GAME:END -->
+ - [Diablo IV Players Can&#39;t Believe How Much Better The Game Is Now](https://kotaku.com/diablo-4-d4-loot-reborn-season-4-helltide-1851482897)
+ - [Halle Berry’s new survival horror movie, Never Let Go, looks like a terrifying trip to the woods](https://www.polygon.com/24158450/never-let-go-trailer-release-date-halle-berry-crawl-director)
+ - [Hades 2&#39;s Olympus-sized first patch introduces the quality of life fix we&#39;ve been begging for](https://www.pcgamer.com/games/roguelike/hades-2s-olympus-sized-first-patch-introduces-the-quality-of-life-fix-weve-been-begging-for)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
