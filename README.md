@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s going down. Let&#39;s hope it will keep going down](http://9gag.com/gag/aMVbVjG)
- - 😝 [Damn accurate](http://9gag.com/gag/adB6Bqj)
- - 👉 [I&#39;m in this video and i don&#39;t like it](http://9gag.com/gag/a2vPK9e)<!-- MEMES:END -->
+ - 6️⃣ [New York City Portal Shut Down After OnlyFans Model Flashes Dublin](http://9gag.com/gag/an7Xz9E)
+ - 😝 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
+ - 👉 [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)<!-- MEMES:END -->
 
 --- 
 
