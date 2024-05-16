@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV Players Can&#39;t Believe How Much Better The Game Is Now](https://kotaku.com/diablo-4-d4-loot-reborn-season-4-helltide-1851482897)
- - [Halle Berry’s new survival horror movie, Never Let Go, looks like a terrifying trip to the woods](https://www.polygon.com/24158450/never-let-go-trailer-release-date-halle-berry-crawl-director)
- - [Hades 2&#39;s Olympus-sized first patch introduces the quality of life fix we&#39;ve been begging for](https://www.pcgamer.com/games/roguelike/hades-2s-olympus-sized-first-patch-introduces-the-quality-of-life-fix-weve-been-begging-for)<!-- GAME:END -->
+ - [The way Embracer&#39;s talking about The Lord of the Rings should say one thing to fans: &#39;Fly, you fools!&#39;](https://www.pcgamer.com/gaming-industry/the-way-embracers-talking-about-the-lord-of-the-rings-should-say-one-thing-to-fans-fly-you-fools)
+ - [MultiVersus’ new PvE mode, explained](https://www.polygon.com/24158526/multiversus-pve-mode-rifts-video)
+ - [Shōgun’s coming back for season 2, but no one’s quite sure how just yet](https://www.polygon.com/24158477/shogun-season-2-renewal-what-about-how)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
