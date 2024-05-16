@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sweet baby Inc killed the Assassin&#39;s Creed franchise.](http://9gag.com/gag/a34d148)
- - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - 👉 [It was not gonna last](http://9gag.com/gag/aPAy7LV)<!-- MEMES:END -->
+ - 6️⃣ [Accurate](http://9gag.com/gag/aE0G84K)
+ - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
+ - 👉 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)<!-- MEMES:END -->
 
 --- 
 
