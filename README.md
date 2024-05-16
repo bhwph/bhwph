@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Disco Elysium, an &#39;irresponsibly deep detective RPG&#39; and the &#39;frankly audacious&#39; crown jewel in our Top 100 PC games list, has its price slashed by 75%—but you&#39;ll need to be quick](https://www.pcgamer.com/games/rpg/disco-elysium-an-irresponsibly-deep-detective-rpg-and-the-frankly-audacious-crown-jewel-in-our-top-100-pc-games-list-has-its-price-slashed-by-75but-youll-need-to-be-quick)
  - [Cinematic superhero tactics game Capes is coming May 29](https://www.pcgamer.com/games/cinematic-superhero-tactics-game-capes-is-coming-may-29)
- - [The Biden administration is set to double tariffs on Chinese made semiconductors, potentially leading to more expensive PC hardware](https://www.pcgamer.com/hardware/the-biden-administration-is-set-to-double-tariffs-on-chinese-made-semiconductors-potentially-leading-to-more-expensive-pc-hardware)
- - [Intel&#39;s Thunderbolt Share is the easiest way yet to link and share data between two PCs](https://www.pcgamer.com/hardware/networking/intels-thunderbolt-share-is-the-easiest-way-yet-to-link-and-share-data-between-two-pcs)<!-- GAME:END -->
+ - [The Biden administration is set to double tariffs on Chinese made semiconductors, potentially leading to more expensive PC hardware](https://www.pcgamer.com/hardware/the-biden-administration-is-set-to-double-tariffs-on-chinese-made-semiconductors-potentially-leading-to-more-expensive-pc-hardware)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
