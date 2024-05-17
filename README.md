@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Flip 6 could bring a key improvement to its foldable screen](https://www.androidauthority.com/samsung-galaxy-z-flip-6-crease-screen-3444336/)
- - [Twitter is officially X.com now](https://www.theverge.com/2024/5/17/23829098/twitter-x-com-url-links-switch)
- - [Prosus and parent group Naspers appoint Fabricio Bloisi as new CEO, replacing interim CEO Ervin Tu; Bloisi, who was the CEO of iFood, will start on July 1 &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/240517/p3#a240517p3)<!-- TECH:END -->
+ - [The Xiaomi 14 Ultra is barely out, but we already have Xiaomi 15 Ultra leaks](https://www.androidauthority.com/xiaomi-15-ultra-camera-leaks-3444359/)
+ - [iPhone 16 Pro Max to get new battery that could last longer](https://appleinsider.com/articles/24/05/17/iphone-16-pro-max-to-get-new-battery-that-could-last-longer?utm_medium=rss)
+ - [Sources: Tesla plans to keep its Chinese FSD training data in the country, a shift from a previous strategy of seeking approval to move data out of China &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240517/p5#a240517p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
