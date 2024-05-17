@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming movies this week: Madame Web, Thelma the Unicorn, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [Circle to Search may no longer be an Android exclusive, could come to Chrome on iOS](https://www.androidauthority.com/chrome-ios-circle-to-search-3444522/)
- - [REI’s anniversary sale is slashing prices on some of the best Garmin watches](https://www.theverge.com/2024/5/17/24158267/rei-anniversary-sale-garmin-watch-inreach-mini-2-deal-sale)<!-- TECH:END -->
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
+ - [Delta Emulator changes logo after Adobe legal threat](https://appleinsider.com/articles/24/05/17/delta-emulator-changes-logo-after-adobe-legal-threat?utm_medium=rss)
+ - [Forget the iPhone 16, this leak reveals Apple’s most exciting iPhone in years](https://www.androidauthority.com/iphone-17-slim-leak-3444559/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
