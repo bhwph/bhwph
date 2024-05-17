@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are the &#39;new&#39; rare hunter pets in World of Warcraft: Cataclysm](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-cataclysm-hunter-pets)
- - [Animal Well&#39;s solo dev casually reveals that the breakout metroidvania left &#39;at least twice as many rooms that are in the game&#39; on the cutting room floor](https://www.pcgamer.com/games/action/animal-wells-solo-dev-casually-reveals-that-the-breakout-metroidvania-left-at-least-twice-as-many-rooms-that-are-in-the-game-on-the-cutting-room-floor)
- - [How to get the seahorse mount in WoW Cataclysm Classic](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-cataclysm-seahorse-mount)<!-- GAME:END -->
+ - [How to breed Pals in Palworld](https://www.polygon.com/24050512/palworld-how-to-breed-pals-breeding-combos)
+ - [Sony&#39;s Ghost of Tsushima has actual g-g-g-ghosts when it comes to Intel&#39;s Arc GPUs](https://www.pcgamer.com/hardware/graphics-cards/sonys-ghost-of-tsushima-has-actual-g-g-g-ghosts-when-it-comes-to-intels-arc-gpus)
+ - [What Lydia Knows, a Deep Visual Novel and RPG Double-Game Pack, Arrives on Xbox](https://news.xbox.com/en-us/2024/05/17/what-lydia-knows-a-deep-visual-novel-and-rpg-double-game-pack-arrives-on-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
