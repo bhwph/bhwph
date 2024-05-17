@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
- - 😝 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
- - 👉 [Tough question, or is it?](http://9gag.com/gag/axy2oGb)<!-- MEMES:END -->
+ - 6️⃣ [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)
+ - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
+ - 👉 [White knights to the rescue!](http://9gag.com/gag/abAq1gv)<!-- MEMES:END -->
 
 --- 
 
