@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peabrained](http://9gag.com/gag/aQzpzDK)
- - 😝 [Cope](http://9gag.com/gag/a9yMzW0)
- - 👉 [Stop Defending this BS](http://9gag.com/gag/a34d455)<!-- MEMES:END -->
+ - 6️⃣ [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
+ - 😝 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
+ - 👉 [It&#39;s important!!](http://9gag.com/gag/adB68qV)<!-- MEMES:END -->
 
 --- 
 
