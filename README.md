@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete Strongarm Tactics in WoW Remix](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-remix-strongarm-tactics)
- - [So far the Manor Lords modding scene is focussed on the essentials: free beer, bigger punch-ups, and letting you walk around as Geralt](https://www.pcgamer.com/games/city-builder/so-far-the-manor-lords-modding-scene-is-focussed-on-the-essentials-free-beer-bigger-punch-ups-and-letting-you-walk-around-as-geralt)
- - [&#39;They are afraid of me&#39;: Mastermind speedrunner bends the rules of a meme contest and bakes 12 actual cookies in under 4 minutes, forces site mods to make a whole new category](https://www.pcgamer.com/games/they-are-afraid-of-me-mastermind-speedrunner-bends-the-rules-of-a-meme-contest-and-bakes-12-actual-cookies-in-under-4-minutes-forces-site-mods-to-make-a-whole-new-category)<!-- GAME:END -->
+ - [Report: Next Call Of Duty Will Be On Game Pass](https://kotaku.com/xbox-game-pass-call-duty-black-ops-release-date-1851484337)
+ - [World of Warcraft is enjoying a golden age and we&#39;ve never had it so good](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-is-enjoying-a-golden-age-and-weve-never-had-it-so-good)
+ - [Headphones Required – Senua’s Saga: Hellblade II’s Binaural Audio Is Like Nothing You’ve Ever Heard](https://news.xbox.com/en-us/2024/05/17/hellblade-2-audio-design-is-like-nothing-youve-ever-heard/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
