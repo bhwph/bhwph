@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russell T. Davies turned to fantasy to make Doctor Who think harder](https://www.theverge.com/24154028/doctor-who-russell-t-davies-interview)
- - [9 Best Coolers WIRED Tested For Every Budget, Any Situation](https://www.wired.com/gallery/best-coolers/)
- - [No, Apple is not going to delete the Clown emoji from the iPhone](https://appleinsider.com/articles/24/05/17/no-apple-is-not-going-to-delete-the-clown-emoji-from-the-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [M4 iPad Pro teardown shows copper logo, highly repairable internals](https://appleinsider.com/articles/24/05/17/m4-ipad-pro-teardown-shows-copper-logo-highly-repairable-internals?utm_medium=rss)
+ - [The Race to Buy TikTok Is On—but There Might Not Be a Winner](https://www.wired.com/story/tiktoks-suitors-face-an-uphill-battle/)
+ - [Slack confirms it is training some of its AI-powered features, but not its generative AI tool, on user content and uploads, with all users opted-in by default &lpar;Kate Irwin/PCMag&rpar;](http://www.techmeme.com/240517/p14#a240517p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
