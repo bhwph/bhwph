@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Xiaomi 14 Ultra is barely out, but we already have Xiaomi 15 Ultra leaks](https://www.androidauthority.com/xiaomi-15-ultra-camera-leaks-3444359/)
- - [iPhone 16 Pro Max to get new battery that could last longer](https://appleinsider.com/articles/24/05/17/iphone-16-pro-max-to-get-new-battery-that-could-last-longer?utm_medium=rss)
- - [Sources: Tesla plans to keep its Chinese FSD training data in the country, a shift from a previous strategy of seeking approval to move data out of China &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240517/p5#a240517p5)<!-- TECH:END -->
+ - [The EU warns Microsoft it could be fined up to 1% of its global annual turnover under DSA after failing to provide risk info about its generative AI tools &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240517/p9#a240517p9)
+ - [Samsung Galaxy Z Flip 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/galaxy-z-flip-6-3384568/)
+ - [How to Use ‘Circle to Search’ on an Android Phone](https://www.wired.com/story/how-to-use-circle-to-search-android/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
