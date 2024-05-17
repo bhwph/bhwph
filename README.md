@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analyst briefing: Microsoft will launch its Cobalt 100 chips, announced in November 2023, to Azure clients as a public preview at its Build conference next week &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240516/p41#a240516p41)
- - [Youth advocacy group Encode Justice unveils 22 policy recommendations to ensure AI protects the &quot;lives, rights, and livelihoods&quot; of young people by 2030 &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240516/p40#a240516p40)
- - [Optavia Diet Review: Does This Program Really Work for Weight Loss?     - CNET](https://www.cnet.com/health/nutrition/optavia-diet-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to repurpose an old iPad and make it useful again](https://appleinsider.com/inside/ipad/tips/how-to-repurpose-an-old-ipad-and-make-it-useful-again?utm_medium=rss)
+ - [OpenAI says ChatGPT can now directly import files from Google Drive and Microsoft OneDrive, available to Plus, Team, and Enterprise users &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240517/p1#a240517p1)
+ - [Fay, which connects registered dietitians with insurance providers and patients, emerges from stealth with $25M in funding from General Catalyst and Forerunner &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240516/p44#a240516p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
