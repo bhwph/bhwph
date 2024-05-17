@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Quite funny.](http://9gag.com/gag/a1mZm4D)
- - 😝 [`imma fight for my life, wait.. I am willing to take you as my slave`](http://9gag.com/gag/aGyVL25)
- - 👉 [Sorry for no Potato](http://9gag.com/gag/a7oKomx)<!-- MEMES:END -->
+ - 6️⃣ [Sorry for no Potato](http://9gag.com/gag/a7oKomx)
+ - 😝 [This is not the revival of art I was expecting.](http://9gag.com/gag/avyZeLb)
+ - 👉 [Sounds familiar?](http://9gag.com/gag/a0ePXyL)<!-- MEMES:END -->
 
 --- 
 
