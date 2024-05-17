@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Next Call Of Duty Will Be On Game Pass](https://kotaku.com/xbox-game-pass-call-duty-black-ops-release-date-1851484337)
- - [World of Warcraft is enjoying a golden age and we&#39;ve never had it so good](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-is-enjoying-a-golden-age-and-weve-never-had-it-so-good)
- - [Headphones Required – Senua’s Saga: Hellblade II’s Binaural Audio Is Like Nothing You’ve Ever Heard](https://news.xbox.com/en-us/2024/05/17/hellblade-2-audio-design-is-like-nothing-youve-ever-heard/)<!-- GAME:END -->
+ - [Here are the &#39;new&#39; rare hunter pets in World of Warcraft: Cataclysm](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-cataclysm-hunter-pets)
+ - [Animal Well&#39;s solo dev casually reveals that the breakout metroidvania left &#39;at least twice as many rooms that are in the game&#39; on the cutting room floor](https://www.pcgamer.com/games/action/animal-wells-solo-dev-casually-reveals-that-the-breakout-metroidvania-left-at-least-twice-as-many-rooms-that-are-in-the-game-on-the-cutting-room-floor)
+ - [How to get the seahorse mount in WoW Cataclysm Classic](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-cataclysm-seahorse-mount)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
