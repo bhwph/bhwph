@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Life Hack!](http://9gag.com/gag/aRBgL22)
- - 😝 [I&#39;m in this video and i don&#39;t like it](http://9gag.com/gag/a2vPK9e)
- - 👉 [The Dutch have a new kabinet. Strikt rules for Illigal immigration and hard penalty&#39;s for foreign law breakers. Thanks to Geert Wilders \ud83c\uddf3\ud83c\uddf1](http://9gag.com/gag/aKGgE0g)<!-- MEMES:END -->
+ - 6️⃣ [Peabrained](http://9gag.com/gag/aQzpzDK)
+ - 😝 [Cope](http://9gag.com/gag/a9yMzW0)
+ - 👉 [Stop Defending this BS](http://9gag.com/gag/a34d455)<!-- MEMES:END -->
 
 --- 
 
