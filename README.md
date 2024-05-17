@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
- - [Delta Emulator changes logo after Adobe legal threat](https://appleinsider.com/articles/24/05/17/delta-emulator-changes-logo-after-adobe-legal-threat?utm_medium=rss)
- - [Forget the iPhone 16, this leak reveals Apple’s most exciting iPhone in years](https://www.androidauthority.com/iphone-17-slim-leak-3444559/)<!-- TECH:END -->
+ - [Logitech Pro X 60 Keyboard Review: Best, Brightest, and Now Smaller](https://www.wired.com/review/logitech-pro-x-60/)
+ - [FCC listings hint at an affordable Galaxy Watch FE variant coming this summer](https://www.androidauthority.com/galaxy-watch-fe-fcc-3444580/)
+ - [Microsoft’s Surface AI event: news, rumors, and lots of Qualcomm laptops](https://www.theverge.com/24159022/microsoft-surface-ai-event-news-rumors-announcements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
