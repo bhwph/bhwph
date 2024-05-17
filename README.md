@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satellite messaging could be coming to T-Mobile users on Android 15](https://www.androidauthority.com/satellite-messaging-t-mobile-android-15-3444192/)
- - [Apple previews Vehicle Motion Cues, which adds animated dots to iPhone and iPad screens to reduce motion sickness for passengers using them in moving vehicles &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240516/p39#a240516p39)
- - [Google’s Gemini AI plan for schools promises extra data protection and privacy](https://www.theverge.com/2024/5/16/24158484/google-gemini-ai-workspace-education-school-privacy-accessibility-chromebook)<!-- TECH:END -->
+ - [Youth advocacy group Encode Justice unveils 22 policy recommendations to ensure AI protects the &quot;lives, rights, and livelihoods&quot; of young people by 2030 &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240516/p40#a240516p40)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Samsung announces first-ever open enrollment period for its Care Plus subscription](https://www.androidauthority.com/samsung-care-open-enrollemnt-3444227/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
