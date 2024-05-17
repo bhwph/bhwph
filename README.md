@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)
- - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
- - 👉 [White knights to the rescue!](http://9gag.com/gag/abAq1gv)<!-- MEMES:END -->
+ - 6️⃣ [Accurate](http://9gag.com/gag/aE0G84K)
+ - 😝 [Man who vanished age 17 is found alive in a hole after being held captive by his neighbour for 27 years](http://9gag.com/gag/a5QNX4y)
+ - 👉 [The real footage of Soviet workers cleaning the roof of the Chernobyl powerplant after its meltdown](http://9gag.com/gag/agm0mbn)<!-- MEMES:END -->
 
 --- 
 
