@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to breed Pals in Palworld](https://www.polygon.com/24050512/palworld-how-to-breed-pals-breeding-combos)
- - [Sony&#39;s Ghost of Tsushima has actual g-g-g-ghosts when it comes to Intel&#39;s Arc GPUs](https://www.pcgamer.com/hardware/graphics-cards/sonys-ghost-of-tsushima-has-actual-g-g-g-ghosts-when-it-comes-to-intels-arc-gpus)
- - [What Lydia Knows, a Deep Visual Novel and RPG Double-Game Pack, Arrives on Xbox](https://news.xbox.com/en-us/2024/05/17/what-lydia-knows-a-deep-visual-novel-and-rpg-double-game-pack-arrives-on-xbox/)<!-- GAME:END -->
+ - [Streamer’s Record-Breaking Cookie Baking Speedrun Leads To Chaos](https://kotaku.com/qtcinderella-twitch-perfect-cookie-baking-speedrun-1851485609)
+ - [OG FF7: How To Get All Of Aerith’s Limit Breaks And Gear Before She [REDACTED]](https://kotaku.com/final-fantasy-7-ff7-aerith-ultimate-weapon-limit-break-1851485513)
+ - [How to Fast Travel in Animal Well](https://kotaku.com/animal-well-fast-travel-guide-flute-1851485528)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
