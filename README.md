@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [#1 Guinness #2 Internet](http://9gag.com/gag/aVvQE9O)
- - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
+ - 6️⃣ [New York City Portal Shut Down After OnlyFans Model Flashes Dublin](http://9gag.com/gag/an7Xz9E)
+ - 😝 [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)
  - 👉 [Find Waldo](http://9gag.com/gag/a4P9Pzd)<!-- MEMES:END -->
 
 --- 
