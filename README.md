@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sorry for no Potato](http://9gag.com/gag/a7oKomx)
- - 😝 [This is not the revival of art I was expecting.](http://9gag.com/gag/avyZeLb)
- - 👉 [Sounds familiar?](http://9gag.com/gag/a0ePXyL)<!-- MEMES:END -->
+ - 6️⃣ [#1 Guinness #2 Internet](http://9gag.com/gag/aVvQE9O)
+ - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
+ - 👉 [Find Waldo](http://9gag.com/gag/a4P9Pzd)<!-- MEMES:END -->
 
 --- 
 
