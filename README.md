@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU warns Microsoft it could be fined up to 1% of its global annual turnover under DSA after failing to provide risk info about its generative AI tools &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240517/p9#a240517p9)
- - [Samsung Galaxy Z Flip 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/galaxy-z-flip-6-3384568/)
- - [How to Use ‘Circle to Search’ on an Android Phone](https://www.wired.com/story/how-to-use-circle-to-search-android/)<!-- TECH:END -->
+ - [Russell T. Davies turned to fantasy to make Doctor Who think harder](https://www.theverge.com/24154028/doctor-who-russell-t-davies-interview)
+ - [9 Best Coolers WIRED Tested For Every Budget, Any Situation](https://www.wired.com/gallery/best-coolers/)
+ - [No, Apple is not going to delete the Clown emoji from the iPhone](https://appleinsider.com/articles/24/05/17/no-apple-is-not-going-to-delete-the-clown-emoji-from-the-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
