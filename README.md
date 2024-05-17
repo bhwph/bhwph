@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Streamer’s Record-Breaking Cookie Baking Speedrun Leads To Chaos](https://kotaku.com/qtcinderella-twitch-perfect-cookie-baking-speedrun-1851485609)
- - [OG FF7: How To Get All Of Aerith’s Limit Breaks And Gear Before She [REDACTED]](https://kotaku.com/final-fantasy-7-ff7-aerith-ultimate-weapon-limit-break-1851485513)
- - [How to Fast Travel in Animal Well](https://kotaku.com/animal-well-fast-travel-guide-flute-1851485528)<!-- GAME:END -->
+ - [Popular Emulator Changes Logo After Adobe Sends Legal Threat](https://kotaku.com/delta-emulator-ios-logo-icon-change-adobe-legal-apple-1851485799)
+ - [Animal Well: How To Solve The Three-Lever Wave Chart Puzzle](https://kotaku.com/animal-well-three-lever-puzzle-guide-how-to-solve-1851485798)
+ - [Twitch unbans shaking butts and twerking for animated emotes](https://www.polygon.com/24159200/twitch-shaking-butts-twerking-emotes-unbanned)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
