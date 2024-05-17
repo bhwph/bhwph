@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Accurate](http://9gag.com/gag/aE0G84K)
- - 😝 [Man who vanished age 17 is found alive in a hole after being held captive by his neighbour for 27 years](http://9gag.com/gag/a5QNX4y)
- - 👉 [The real footage of Soviet workers cleaning the roof of the Chernobyl powerplant after its meltdown](http://9gag.com/gag/agm0mbn)<!-- MEMES:END -->
+ - 6️⃣ [Quite funny.](http://9gag.com/gag/a1mZm4D)
+ - 😝 [`imma fight for my life, wait.. I am willing to take you as my slave`](http://9gag.com/gag/aGyVL25)
+ - 👉 [Sorry for no Potato](http://9gag.com/gag/a7oKomx)<!-- MEMES:END -->
 
 --- 
 
