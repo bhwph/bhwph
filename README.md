@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man who vanished age 17 is found alive in a hole after being held captive by his neighbour for 27 years](http://9gag.com/gag/a5QNX4y)
- - 😝 [Would...](http://9gag.com/gag/aZZWndV)
- - 👉 [Find Waldo](http://9gag.com/gag/a4P9Pzd)<!-- MEMES:END -->
+ - 6️⃣ [Passing the mantle](http://9gag.com/gag/a34d0bQ)
+ - 😝 [Mentally ill](http://9gag.com/gag/ae93OLj)
+ - 👉 [Bro was honest in his resume](http://9gag.com/gag/aryeA66)<!-- MEMES:END -->
 
 --- 
 
