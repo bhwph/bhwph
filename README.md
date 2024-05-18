@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer Fujin Pro Gaming Chair Review: Giving My Back an Extra Life](https://www.wired.com/review/razer-fujin-pro/)
- - [This smart smoker makes barbecuing indoors a breeze](https://www.theverge.com/24159117/ge-profile-smart-indoor-smoker-review)
- - [How bots monopolizing DeviantArt&#39;s promotional and revenue apparatuses and the platform&#39;s unwillingness to address the issue are driving artists to abandon it &lpar;Nitish Pahwa/Slate&rpar;](http://www.techmeme.com/240518/p10#a240518p10)<!-- TECH:END -->
+ - [Ecobee’s Smart Thermostat Premium is nearly matching its all-time low](https://www.theverge.com/2024/5/18/24159171/ecobee-smart-thermostat-premium-xbox-wireless-controller-deal-sale)
+ - [A mobile gacha tie-in game that doesn’t feel like a cheap cash grab? Sign me up!](https://www.androidauthority.com/solo-leveling-arise-3444452/)
+ - [A profile of Netflix co-CEO Greg Peters, who led the company&#39;s successful crackdown on password sharing and is now pushing a focus on live programming &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240518/p11#a240518p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
