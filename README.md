@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Official Warns a Cell Network Flaw Is Being Exploited for Spying](https://www.wired.com/story/ss7-vulnerability-spies-north-korea-tesla-breachforums/)
- - [The MSI Claw is an embarrassment](https://www.theverge.com/24105991/msi-claw-review)
- - [Despite banning TikTok on government devices, Taiwan isn&#39;t considering a US-style ban, saying the app is just one battle in a war against China&#39;s disinformation &lpar;New York Times&rpar;](http://www.techmeme.com/240518/p8#a240518p8)<!-- TECH:END -->
+ - [How to Remove Annoying News Widgets From Windows 11](https://www.wired.com/story/how-to-remove-news-articles-from-windows-11-widget-board/)
+ - [The EV industry can’t shake its human rights abuse problem](https://www.theverge.com/2024/5/18/24158518/ev-critical-mineral-mining-human-rights-abuse-allegations)
+ - [Apple Makes It Easier to Stare at Your Phone in the Car](https://www.wired.com/story/apple-vehicle-motion-cues/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
