@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Adult friendships can be tough. Babes gets it.](https://www.polygon.com/24159206/babes-movie-ilana-glazer-michelle-buteau-adult-friendships)
  - [Final Fantasy Ghosts, Warframe Starting Help, And More Tips](https://kotaku.com/final-fantasy-ghosts-warframe-starting-help-and-more-1851484869)
- - [The best sci-fi movies to watch on Netflix this May](https://www.polygon.com/what-to-watch/2024/5/18/24155689/best-sci-fi-movies-watch-netflix-may-2024)
- - [Diablo 4 Is Great Now, Final Fantasy 14 Changes Are Worrying, And More Of This Week&#39;s Hot Takes](https://kotaku.com/diablo-4-is-great-now-final-fantasy-14-changes-are-wor-1851484870)<!-- GAME:END -->
+ - [The best sci-fi movies to watch on Netflix this May](https://www.polygon.com/what-to-watch/2024/5/18/24155689/best-sci-fi-movies-watch-netflix-may-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
