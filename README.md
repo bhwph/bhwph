@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Expedia fires its CTO Rathi Murthy and SVP Sreenivas Rachamadugu due to a &quot;violation of company policy&quot;, days after its annual product and partner conference &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240518/p2#a240518p2)
- - [The US DOJ charges two arrested Chinese nationals for allegedly orchestrating a crypto pig butchering scam that laundered at least $73M from defrauded victims &lpar;Brendan O&#39;Boyle/Reuters&rpar;](http://www.techmeme.com/240518/p1#a240518p1)
- - [Critics warn the French government&#39;s first-of-its-kind move within the EU to suspend TikTok in New Caledonia amid widespread protests sets a dangerous precedent &lpar;Politico&rpar;](http://www.techmeme.com/240517/p27#a240517p27)<!-- TECH:END -->
+ - [How Big Dairy Took Over Your TikTok Feed—With Help from Uncle Sam](https://www.wired.com/story/milk-dairy-tiktok-x-instagram-social-feed-takeover/)
+ - [Honda plans to invest ~$12.8B in software over the decade up to the FY ending March 2031, as it prepares to join the rapid shift to EVs in markets like China &lpar;Yuichi Shiga/Nikkei Asia&rpar;](http://www.techmeme.com/240518/p6#a240518p6)
+ - [Access Now: 2023 was the worst year for internet shutdowns since monitoring began in 2016, with 283 shutdowns across 39 countries, led by India at 116 &lpar;Astha Rajvanshi/TIME&rpar;](http://www.techmeme.com/240518/p5#a240518p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
