@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Adult friendships can be tough. Babes gets it.](https://www.polygon.com/24159206/babes-movie-ilana-glazer-michelle-buteau-adult-friendships)
- - [Final Fantasy Ghosts, Warframe Starting Help, And More Tips](https://kotaku.com/final-fantasy-ghosts-warframe-starting-help-and-more-1851484869)
- - [The best sci-fi movies to watch on Netflix this May](https://www.polygon.com/what-to-watch/2024/5/18/24155689/best-sci-fi-movies-watch-netflix-may-2024)<!-- GAME:END -->
+ - [With a month to go until Elden Ring: Shadow of the Erdtree, FromSoftware has broken its silence once more to show us a messed up new guy we&#39;ll fight in the expansion](https://www.pcgamer.com/games/rpg/with-a-month-to-go-until-elden-ring-shadow-of-the-erdtree-fromsoftware-has-broken-its-silence-once-more-to-show-us-a-messed-up-new-guy-well-fight-in-the-expansion)
+ - [Is Bridgerton already setting up its promised queer romance?](https://www.polygon.com/24157362/bridgerton-queer-characters-benedict-eloise-brimsley)
+ - [Adult friendships can be tough. Babes gets it.](https://www.polygon.com/24159206/babes-movie-ilana-glazer-michelle-buteau-adult-friendships)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
