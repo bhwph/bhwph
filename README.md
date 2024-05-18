@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You have VERY serious issues, Mauricio](http://9gag.com/gag/a34d0WQ)
- - 😝 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)
- - 👉 [Inflation](http://9gag.com/gag/aAyV63E)<!-- MEMES:END -->
+ - 6️⃣ [Can you name all of them?](http://9gag.com/gag/aZZWnzp)
+ - 😝 [He ducked a bullet.](http://9gag.com/gag/aD2wZGN)
+ - 👉 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)<!-- MEMES:END -->
 
 --- 
 
