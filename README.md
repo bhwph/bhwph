@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Behold Ayaneo’s sophisticated takes on the Game Boy and Game Boy Micro](https://www.theverge.com/2024/5/18/24159584/ayaneo-pocket-dmg-micro-ag01-egpu)
- - [The Palantir-sponsored AI Expo for National Competitiveness featured VR headsets for soldiers, a map tool that can &quot;nominate targets of interest&quot;, and more &lpar;Caroline Haskins/The Guardian&rpar;](http://www.techmeme.com/240518/p7#a240518p7)
- - [How Big Dairy Took Over Your TikTok Feed—With Help from Uncle Sam](https://www.wired.com/story/milk-dairy-tiktok-x-instagram-social-feed-takeover/)<!-- TECH:END -->
+ - [US Official Warns a Cell Network Flaw Is Being Exploited for Spying](https://www.wired.com/story/ss7-vulnerability-spies-north-korea-tesla-breachforums/)
+ - [The MSI Claw is an embarrassment](https://www.theverge.com/24105991/msi-claw-review)
+ - [Despite banning TikTok on government devices, Taiwan isn&#39;t considering a US-style ban, saying the app is just one battle in a war against China&#39;s disinformation &lpar;New York Times&rpar;](http://www.techmeme.com/240518/p8#a240518p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
