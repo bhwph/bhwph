@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;ve somehow not played Baldur&#39;s Gate 3 yet, our 2023 GOTY is on sale for 15% off, the lowest it&#39;s been since launch](https://www.pcgamer.com/games/rpg/if-youve-somehow-not-played-baldurs-gate-3-yet-our-2023-goty-is-on-sale-for-15-off-the-lowest-its-been-since-launch)
- - [With a month to go until Elden Ring: Shadow of the Erdtree, FromSoftware has broken its silence once more to show us a messed up new guy we&#39;ll fight in the expansion](https://www.pcgamer.com/games/rpg/with-a-month-to-go-until-elden-ring-shadow-of-the-erdtree-fromsoftware-has-broken-its-silence-once-more-to-show-us-a-messed-up-new-guy-well-fight-in-the-expansion)
- - [Is Bridgerton already setting up its promised queer romance?](https://www.polygon.com/24157362/bridgerton-queer-characters-benedict-eloise-brimsley)<!-- GAME:END -->
+ - [Always keep backups: an &#39;unprecedented&#39; Google Cloud debacle saw a $135 billion pension fund&#39;s entire account deleted and services knocked out for nearly two weeks](https://www.pcgamer.com/gaming-industry/always-keep-backups-an-unprecedented-google-cloud-debacle-saw-a-dollar135-billion-pension-funds-entire-account-deleted-and-services-knocked-out-for-nearly-two-weeks)
+ - [Wizard with a Gun adds 4 player co-op to its action crafting mix, and it&#39;s free to try for the weekend](https://www.pcgamer.com/games/wizard-with-a-gun-adds-4-player-co-op-to-its-action-crafting-mix-and-its-free-to-try-for-the-weekend)
+ - [If you&#39;ve somehow not played Baldur&#39;s Gate 3 yet, our 2023 GOTY is on sale for 15% off, the lowest it&#39;s been since launch](https://www.pcgamer.com/games/rpg/if-youve-somehow-not-played-baldurs-gate-3-yet-our-2023-goty-is-on-sale-for-15-off-the-lowest-its-been-since-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
