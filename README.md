@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Be a better man than your father](http://9gag.com/gag/aNDoBgv)
- - 😝 [Wholesome grandpa doesn&#39;t believe he&#39;s 90+](http://9gag.com/gag/aMVbnXA)
- - 👉 [Facts](http://9gag.com/gag/aGyVM50)<!-- MEMES:END -->
+ - 6️⃣ [I miss my `nona`!](http://9gag.com/gag/a7oKeRr)
+ - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
+ - 👉 [You have VERY serious issues, Mauricio](http://9gag.com/gag/a34d0WQ)<!-- MEMES:END -->
 
 --- 
 
