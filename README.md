@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some researchers say GPT-4o&#39;s Chinese token-training data is polluted by spam and porn websites, likely due to inadequate data cleaning &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/240517/p25#a240517p25)
- - [Photo editing and sharing app VSCO says it is now profitable, has a user base of 200M worldwide, and has 160K subscribers for its $59.99/year Pro product &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/240517/p24#a240517p24)
- - [Best Home Security Cameras of 2024     - CNET](https://www.cnet.com/home/security/best-home-security-camera/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Expedia fires its CTO Rathi Murthy and SVP Sreenivas Rachamadugu due to a &quot;violation of company policy&quot;, days after its annual product and partner conference &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240518/p2#a240518p2)
+ - [The US DOJ charges two arrested Chinese nationals for allegedly orchestrating a crypto pig butchering scam that laundered at least $73M from defrauded victims &lpar;Brendan O&#39;Boyle/Reuters&rpar;](http://www.techmeme.com/240518/p1#a240518p1)
+ - [Critics warn the French government&#39;s first-of-its-kind move within the EU to suspend TikTok in New Caledonia amid widespread protests sets a dangerous precedent &lpar;Politico&rpar;](http://www.techmeme.com/240517/p27#a240517p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
