@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
- - 👉 [Find Waldo](http://9gag.com/gag/a4P9Pzd)<!-- MEMES:END -->
+ - 6️⃣ [You have VERY serious issues, Mauricio](http://9gag.com/gag/a34d0WQ)
+ - 😝 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)
+ - 👉 [Inflation](http://9gag.com/gag/aAyV63E)<!-- MEMES:END -->
 
 --- 
 
