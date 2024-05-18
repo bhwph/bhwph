@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [AGGRO DR1FT puts messy incel fantasies on the screen, in neon colors](https://www.polygon.com/reviews/23916193/aggro-dr1ft-review-travis-scott-harmony-korine-incel-gamer-movie)
  - [New MultiVersus character is bad news for the guy who said &#39;if Banana Guard gets added I will cut my balls off&#39;](https://www.pcgamer.com/games/fighting/multiversus-banana-guard-announcement)
- - [Microsoft is reportedly taking the nuclear option: releasing the next Call of Duty day one on Game Pass](https://www.pcgamer.com/games/call-of-duty/microsoft-is-reportedly-taking-the-nuclear-option-releasing-the-next-call-of-duty-day-one-on-game-pass)
- - [After an epic 24-hour battle with Malenia and 1,700 deaths, Kai Cenat has finally beaten Elden Ring](https://www.pcgamer.com/games/action/after-165-hours-including-more-than-24-hours-fighting-malenia-and-1700-deaths-kai-cenat-has-finally-beaten-elden-ring)<!-- GAME:END -->
+ - [Microsoft is reportedly taking the nuclear option: releasing the next Call of Duty day one on Game Pass](https://www.pcgamer.com/games/call-of-duty/microsoft-is-reportedly-taking-the-nuclear-option-releasing-the-next-call-of-duty-day-one-on-game-pass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
