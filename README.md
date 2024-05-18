@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, May 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-18-2024)
  - [AGGRO DR1FT puts messy incel fantasies on the screen, in neon colors](https://www.polygon.com/reviews/23916193/aggro-dr1ft-review-travis-scott-harmony-korine-incel-gamer-movie)
- - [New MultiVersus character is bad news for the guy who said &#39;if Banana Guard gets added I will cut my balls off&#39;](https://www.pcgamer.com/games/fighting/multiversus-banana-guard-announcement)
- - [Microsoft is reportedly taking the nuclear option: releasing the next Call of Duty day one on Game Pass](https://www.pcgamer.com/games/call-of-duty/microsoft-is-reportedly-taking-the-nuclear-option-releasing-the-next-call-of-duty-day-one-on-game-pass)<!-- GAME:END -->
+ - [New MultiVersus character is bad news for the guy who said &#39;if Banana Guard gets added I will cut my balls off&#39;](https://www.pcgamer.com/games/fighting/multiversus-banana-guard-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
