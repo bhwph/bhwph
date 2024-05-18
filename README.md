@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can you name all of them?](http://9gag.com/gag/aZZWnzp)
- - 😝 [He ducked a bullet.](http://9gag.com/gag/aD2wZGN)
- - 👉 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)<!-- MEMES:END -->
+ - 6️⃣ [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
+ - 😝 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
+ - 👉 [Passing the mantle](http://9gag.com/gag/a34d0bQ)<!-- MEMES:END -->
 
 --- 
 
