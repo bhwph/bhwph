@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A true homie](http://9gag.com/gag/ae931op)
- - 😝 [Testing a 1920 microphone](http://9gag.com/gag/a9yMvw6)
- - 👉 [Switzerland](http://9gag.com/gag/aByQdpD)<!-- MEMES:END -->
+ - 6️⃣ [You don&#39;t need to understand Dutch for the basics](http://9gag.com/gag/aVvQg9d)
+ - 😝 [So buying a used iphone will now get you free nudes on top](http://9gag.com/gag/ayNp4Rr)
+ - 👉 [Man who vanished age 17 is found alive in a hole after being held captive by his neighbour for 27 years](http://9gag.com/gag/a5QNX4y)<!-- MEMES:END -->
 
 --- 
 
