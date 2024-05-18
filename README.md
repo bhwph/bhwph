@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [If you&#39;ve somehow not played Baldur&#39;s Gate 3 yet, our 2023 GOTY is on sale for 15% off, the lowest it&#39;s been since launch](https://www.pcgamer.com/games/rpg/if-youve-somehow-not-played-baldurs-gate-3-yet-our-2023-goty-is-on-sale-for-15-off-the-lowest-its-been-since-launch)
  - [With a month to go until Elden Ring: Shadow of the Erdtree, FromSoftware has broken its silence once more to show us a messed up new guy we&#39;ll fight in the expansion](https://www.pcgamer.com/games/rpg/with-a-month-to-go-until-elden-ring-shadow-of-the-erdtree-fromsoftware-has-broken-its-silence-once-more-to-show-us-a-messed-up-new-guy-well-fight-in-the-expansion)
- - [Is Bridgerton already setting up its promised queer romance?](https://www.polygon.com/24157362/bridgerton-queer-characters-benedict-eloise-brimsley)
- - [Adult friendships can be tough. Babes gets it.](https://www.polygon.com/24159206/babes-movie-ilana-glazer-michelle-buteau-adult-friendships)<!-- GAME:END -->
+ - [Is Bridgerton already setting up its promised queer romance?](https://www.polygon.com/24157362/bridgerton-queer-characters-benedict-eloise-brimsley)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
