@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ecobee’s Smart Thermostat Premium is nearly matching its all-time low](https://www.theverge.com/2024/5/18/24159171/ecobee-smart-thermostat-premium-xbox-wireless-controller-deal-sale)
- - [A mobile gacha tie-in game that doesn’t feel like a cheap cash grab? Sign me up!](https://www.androidauthority.com/solo-leveling-arise-3444452/)
- - [A profile of Netflix co-CEO Greg Peters, who led the company&#39;s successful crackdown on password sharing and is now pushing a focus on live programming &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240518/p11#a240518p11)<!-- TECH:END -->
+ - [Replacing the OLED iPad Pro’s battery is easier than ever](https://www.theverge.com/2024/5/18/24159722/ifixit-teardown-apple-oled-ipad-pro-13-inch)
+ - [I Traveled to 36 Countries This Past Year. The Card I Reached for the Most Surprised Me     - CNET](https://www.cnet.com/personal-finance/the-most-useful-card-on-my-8-month-backpacking-trip-around-the-world-wasnt-a-credit-card-at-all/#ftag=CAD590a51e)
+ - [Sam Altman and Greg Brockman respond to Jan Leike, say they&#39;ve raised awareness of the risks and opportunities of AGI, will keep doing safety research, and more &lpar;Greg Brockman/@gdb&rpar;](http://www.techmeme.com/240518/p12#a240518p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
