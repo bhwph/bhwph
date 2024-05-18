@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Remove Annoying News Widgets From Windows 11](https://www.wired.com/story/how-to-remove-news-articles-from-windows-11-widget-board/)
- - [The EV industry can’t shake its human rights abuse problem](https://www.theverge.com/2024/5/18/24158518/ev-critical-mineral-mining-human-rights-abuse-allegations)
- - [Apple Makes It Easier to Stare at Your Phone in the Car](https://www.wired.com/story/apple-vehicle-motion-cues/)<!-- TECH:END -->
+ - [Razer Fujin Pro Gaming Chair Review: Giving My Back an Extra Life](https://www.wired.com/review/razer-fujin-pro/)
+ - [This smart smoker makes barbecuing indoors a breeze](https://www.theverge.com/24159117/ge-profile-smart-indoor-smoker-review)
+ - [How bots monopolizing DeviantArt&#39;s promotional and revenue apparatuses and the platform&#39;s unwillingness to address the issue are driving artists to abandon it &lpar;Nitish Pahwa/Slate&rpar;](http://www.techmeme.com/240518/p10#a240518p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
