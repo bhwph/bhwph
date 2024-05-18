@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Replacing the OLED iPad Pro’s battery is easier than ever](https://www.theverge.com/2024/5/18/24159722/ifixit-teardown-apple-oled-ipad-pro-13-inch)
- - [I Traveled to 36 Countries This Past Year. The Card I Reached for the Most Surprised Me     - CNET](https://www.cnet.com/personal-finance/the-most-useful-card-on-my-8-month-backpacking-trip-around-the-world-wasnt-a-credit-card-at-all/#ftag=CAD590a51e)
- - [Sam Altman and Greg Brockman respond to Jan Leike, say they&#39;ve raised awareness of the risks and opportunities of AGI, will keep doing safety research, and more &lpar;Greg Brockman/@gdb&rpar;](http://www.techmeme.com/240518/p12#a240518p12)<!-- TECH:END -->
+ - [Despite some skeptics claiming that AI is an industry-wide delusion, last week&#39;s demos from OpenAI and Google show that the rate of AI progress is not slowing &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240518/p14#a240518p14)
+ - [Moto Razr &lpar;2024&rpar; leak points to an exciting upgrade for the cheaper model](https://www.androidauthority.com/motorola-razr-2024-cover-display-3444660/)
+ - [Best Galaxy Watch Deals: Free With Trade-In or Get $60 Off a Galaxy Watch 6, Up to $197 Off Galaxy Watch 5 Pro     - CNET](https://www.cnet.com/deals/best-galaxy-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
