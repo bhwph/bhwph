@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mentally ill](http://9gag.com/gag/ae93OLj)
- - 😝 [Bro was honest in his resume](http://9gag.com/gag/aryeA66)
- - 👉 [I&#39;m still waiting](http://9gag.com/gag/an7Xn6B)<!-- MEMES:END -->
+ - 6️⃣ [Bro was honest in his resume](http://9gag.com/gag/aryeA66)
+ - 😝 [Mentally ill](http://9gag.com/gag/ae93OLj)
+ - 👉 [Passing the mantle](http://9gag.com/gag/a34d0bQ)<!-- MEMES:END -->
 
 --- 
 
