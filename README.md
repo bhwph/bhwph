@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro was honest in his resume](http://9gag.com/gag/aryeA66)
- - 😝 [Mentally ill](http://9gag.com/gag/ae93OLj)
- - 👉 [Passing the mantle](http://9gag.com/gag/a34d0bQ)<!-- MEMES:END -->
+ - 6️⃣ [Passing the mantle](http://9gag.com/gag/a34d0bQ)
+ - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
+ - 👉 [Find Waldo](http://9gag.com/gag/a4P9Pzd)<!-- MEMES:END -->
 
 --- 
 
