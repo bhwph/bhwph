@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Flight of the Conchords’ Bret McKenzie gave Thelma the Unicorn its gross ‘viral hit’](https://www.polygon.com/24159239/thelma-the-unicorn-viral-song-flight-of-the-conchords-bret-mckenzie)
- - [TikTok has brought back 2000s-era digital cameras — and it’s worth the hype](https://www.polygon.com/24158881/tiktok-retro-digital-camera-trend)
- - [The X-Men games that are actually good](https://www.polygon.com/gaming/24155680/best-x-men-video-games-board-games)<!-- GAME:END -->
+ - [Puzzle box game Machinika: Museum is free to keep on Steam](https://www.pcgamer.com/games/adventure/puzzle-box-game-machinika-museum-is-free-to-keep-on-steam)
+ - [Nothing is too niche for modders to remaster, not even a &#39;90s Star Wars FPS expansion pack where you play as Luke Skywalker&#39;s weird non-canon wife rescuing my favorite Expanded Universe dork](https://www.pcgamer.com/games/fps/nothing-is-too-niche-for-modders-to-remaster-not-even-a-90s-star-wars-fps-expansion-pack-where-you-play-as-luke-skywalkers-weird-non-canon-wife-rescuing-my-favorite-expanded-universe-dork)
+ - [Flight of the Conchords’ Bret McKenzie gave Thelma the Unicorn its gross ‘viral hit’](https://www.polygon.com/24159239/thelma-the-unicorn-viral-song-flight-of-the-conchords-bret-mckenzie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
