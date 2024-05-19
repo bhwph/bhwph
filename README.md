@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to easily see what was talked about at every WWDC session since 2000](https://appleinsider.com/inside/wwdc/tips/how-to-easily-see-what-was-talked-about-at-every-wwdc-session-since-2000?utm_medium=rss)
- - [How Vermont lawmakers passed a strict online data privacy law despite significant pushback from the tech industry; GOP Gov. Phil Scott is yet to sign the bill &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/240519/p7#a240519p7)
- - [How Steve Jobs changed the face of retail with the Apple Store](https://appleinsider.com/articles/18/05/15/steve-jobs-changed-the-face-of-apple-and-retail-forever-on-may-15-2001?utm_medium=rss)<!-- TECH:END -->
+ - [The 18 Best PlayStation Plus Games &lpar;May 2024&rpar;](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)
+ - [The smells and tastes of a great video game](https://www.theverge.com/24158235/gamescent-smellovision-digital-taste-vergecast)
+ - [Updated and enhanced AirTag expected in 2025](https://appleinsider.com/articles/24/05/19/updated-and-enhanced-airtag-expected-in-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
