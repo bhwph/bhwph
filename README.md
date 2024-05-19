@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The makers of Shogun, Wheel of Time, BSG, and more sound off on Game of Thrones’ true legacy](https://www.polygon.com/game-of-thrones/24157742/game-thrones-finale-anniversary-next-show-like)
- - [The Last Of Us Season 2 Pics, Fallout Player Nukes Phil Spencer, And More News](https://kotaku.com/the-last-of-us-season-2-pics-fallout-player-nukes-phil-1851484868)
- - [What time does Hellblade 2 release?](https://www.polygon.com/guides/24159102/hellblade-2-senuas-saga-release-time-date)<!-- GAME:END -->
+ - [TikTok has brought back 2000s-era digital cameras — and it’s worth the hype](https://www.polygon.com/24158881/tiktok-retro-digital-camera-trend)
+ - [The X-Men games that are actually good](https://www.polygon.com/gaming/24155680/best-x-men-video-games-board-games)
+ - [The makers of Shogun, Wheel of Time, BSG, and more sound off on Game of Thrones’ true legacy](https://www.polygon.com/game-of-thrones/24157742/game-thrones-finale-anniversary-next-show-like)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
