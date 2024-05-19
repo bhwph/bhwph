@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 18 Best PlayStation Plus Games &lpar;May 2024&rpar;](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)
- - [The smells and tastes of a great video game](https://www.theverge.com/24158235/gamescent-smellovision-digital-taste-vergecast)
- - [Updated and enhanced AirTag expected in 2025](https://appleinsider.com/articles/24/05/19/updated-and-enhanced-airtag-expected-in-2025?utm_medium=rss)<!-- TECH:END -->
+ - [There is still too much Net Neutrality confusion: Here’s what you need to know](https://www.androidauthority.com/net-neutrality-explained-3440570/)
+ - [Mobvoi’s Home Walking Treadmill doesn’t make Netflix binges healthy, but it doesn’t hurt either](https://www.androidauthority.com/mobvoi-home-walking-treadmill-review-3435985/)
+ - [The Last D&amp;D Campaign Before Everything Changes Is a Wild Ride     - CNET](https://www.cnet.com/culture/entertainment/the-last-d-d-campaign-before-everything-changes-is-a-wild-ride/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
