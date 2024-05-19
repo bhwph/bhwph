@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They still know where he lives..](http://9gag.com/gag/aD2wZy9)
- - 😝 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)
- - 👉 [Where do I apply for this job?](http://9gag.com/gag/avyZ6E5)<!-- MEMES:END -->
+ - 6️⃣ [The near invisible effect of painting the chicken wire black](http://9gag.com/gag/awybdW8)
+ - 😝 [This is the wholesome non woke ads the rest of the world gets](http://9gag.com/gag/azxLRPb)
+ - 👉 [Abbey did not expect that](http://9gag.com/gag/axy2PVb)<!-- MEMES:END -->
 
 --- 
 
