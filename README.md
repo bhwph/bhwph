@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 series rumor claims two new colors may be on the way](https://www.androidauthority.com/iphone-16-rumored-colors-3444770/)
- - [Sonos is teasing its ‘most requested product ever’ on Tuesday](https://www.theverge.com/2024/5/19/24160259/sonos-teasing-new-propduct-announcement-ace-headphones-tuesday-may-21)
- - [At the 2024 Upfronts, streaming services dominated with Amazon Prime Video and Netflix making their debut, and live sports and ad tech were given more attention &lpar;Stephen Battaglio/Los Angeles Times&rpar;](http://www.techmeme.com/240519/p13#a240519p13)<!-- TECH:END -->
+ - [The Mac Pro and Studio won’t get the M4 nod until mid-2025](https://www.theverge.com/2024/5/19/24160117/ipad-pro-m4-single-core-mac-pro-m2-ultra)
+ - [Microsoft, Meta, Google and others pitch smaller language models that are cheaper to build and train, to lower costs and hardware requirements for generative AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240519/p14#a240519p14)
+ - [User pays double to make Magic Keyboard that matches the Siri Remote](https://appleinsider.com/articles/24/05/19/user-pays-double-to-make-magic-keyboard-that-matches-the-siri-remote?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
