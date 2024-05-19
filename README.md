@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I miss my `nona`!](http://9gag.com/gag/a7oKeRr)
- - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
- - 👉 [You have VERY serious issues, Mauricio](http://9gag.com/gag/a34d0WQ)<!-- MEMES:END -->
+ - 6️⃣ [Some people have amazing talent.](http://9gag.com/gag/aO8yDNy)
+ - 😝 [Real creator of the IP left ubisoft after AC Brotherhood](http://9gag.com/gag/ae93xYj)
+ - 👉 [Incredibly clear waters in Maldives](http://9gag.com/gag/avyZxnZ)<!-- MEMES:END -->
 
 --- 
 
