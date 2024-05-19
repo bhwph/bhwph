@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some people have amazing talent.](http://9gag.com/gag/aO8yDNy)
- - 😝 [Real creator of the IP left ubisoft after AC Brotherhood](http://9gag.com/gag/ae93xYj)
- - 👉 [Incredibly clear waters in Maldives](http://9gag.com/gag/avyZxnZ)<!-- MEMES:END -->
+ - 6️⃣ [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
+ - 😝 [Austrian Art](http://9gag.com/gag/ayNp32W)
+ - 👉 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)<!-- MEMES:END -->
 
 --- 
 
