@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There is still too much Net Neutrality confusion: Here’s what you need to know](https://www.androidauthority.com/net-neutrality-explained-3440570/)
- - [Mobvoi’s Home Walking Treadmill doesn’t make Netflix binges healthy, but it doesn’t hurt either](https://www.androidauthority.com/mobvoi-home-walking-treadmill-review-3435985/)
- - [The Last D&amp;D Campaign Before Everything Changes Is a Wild Ride     - CNET](https://www.cnet.com/culture/entertainment/the-last-d-d-campaign-before-everything-changes-is-a-wild-ride/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memo: Didi co-founder Jean Liu steps down as president and board director, positions she has held since December 2014, and will become a &quot;permanent partner&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240519/p12#a240519p12)
+ - [Amazon slashes Apple&#39;s brand-new iPad Air 6 to $569](https://appleinsider.com/articles/24/05/19/amazon-slashes-apples-brand-new-ipad-air-6-to-569?utm_medium=rss)
+ - [Kuo: iPhone 16 Pro replacing blue with rose titanium color](https://appleinsider.com/articles/24/05/19/kuo-iphone-16-pro-replacing-blue-with-rose-titanium-color?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
