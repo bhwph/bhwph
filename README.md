@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [About 38% of webpages that existed in 2013 are unavailable now and 8% of pages from 2023 are unavailable; 23% of news pages have at least one broken link &lpar;Pew Research Center&rpar;](http://www.techmeme.com/240519/p6#a240519p6)
- - [Best Google Pixel Phone to Buy in 2024     - CNET](https://www.cnet.com/tech/mobile/best-google-pixel-phone/#ftag=CAD590a51e)
- - [Run Out of Wordle and Connections Games? Try LinkedIn&#39;s 3 New Puzzles     - CNET](https://www.cnet.com/tech/services-and-software/run-out-of-wordle-and-connections-games-try-linkedins-three-new-puzzles/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to easily see what was talked about at every WWDC session since 2000](https://appleinsider.com/inside/wwdc/tips/how-to-easily-see-what-was-talked-about-at-every-wwdc-session-since-2000?utm_medium=rss)
+ - [How Vermont lawmakers passed a strict online data privacy law despite significant pushback from the tech industry; GOP Gov. Phil Scott is yet to sign the bill &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/240519/p7#a240519p7)
+ - [How Steve Jobs changed the face of retail with the Apple Store](https://appleinsider.com/articles/18/05/15/steve-jobs-changed-the-face-of-apple-and-retail-forever-on-may-15-2001?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
