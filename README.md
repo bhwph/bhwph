@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Didi co-founder Jean Liu steps down as president and board director, positions she has held since December 2014, and will become a &quot;permanent partner&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240519/p12#a240519p12)
- - [Amazon slashes Apple&#39;s brand-new iPad Air 6 to $569](https://appleinsider.com/articles/24/05/19/amazon-slashes-apples-brand-new-ipad-air-6-to-569?utm_medium=rss)
- - [Kuo: iPhone 16 Pro replacing blue with rose titanium color](https://appleinsider.com/articles/24/05/19/kuo-iphone-16-pro-replacing-blue-with-rose-titanium-color?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16 series rumor claims two new colors may be on the way](https://www.androidauthority.com/iphone-16-rumored-colors-3444770/)
+ - [Sonos is teasing its ‘most requested product ever’ on Tuesday](https://www.theverge.com/2024/5/19/24160259/sonos-teasing-new-propduct-announcement-ace-headphones-tuesday-may-21)
+ - [At the 2024 Upfronts, streaming services dominated with Amazon Prime Video and Netflix making their debut, and live sports and ad tech were given more attention &lpar;Stephen Battaglio/Los Angeles Times&rpar;](http://www.techmeme.com/240519/p13#a240519p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
