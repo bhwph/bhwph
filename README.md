@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese firms are selling &quot;AI-in-a-box&quot; products for companies to run on premises; Huawei estimates the Chinese market for such machines will hit ~$2.3B in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240519/p1#a240519p1)
- - [DRAM inventor Robert H. Dennard, who also devised a concept known as Dennard scaling that was complementary to Moore&#39;s Law, died on April 23 at age 91 &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240518/p18#a240518p18)
- - [A profile of Shoichiro Irimajiri, one of Japan&#39;s most admired business leaders who, as a Sega executive, saved Nvidia in the 1990s with a $5M investment &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/240518/p17#a240518p17)<!-- TECH:END -->
+ - [How a rightwing smear campaign against NPR and its CEO Katherine Maher, who is on Signal Foundation&#39;s board, led Elon Musk to malign Signal &lpar;Renee DiResta/The Guardian&rpar;](http://www.techmeme.com/240519/p4#a240519p4)
+ - [The Complex Social Lives of Viruses](https://www.wired.com/story/the-complex-social-lives-of-viruses/)
+ - [Culture secretary Lucy Frazer says the UK is working on rules around the use of creative work for training AI after media and arts executives voiced concerns &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240519/p3#a240519p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
