@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [20 years working together. They&#39;re married to different people. Either women aren&#39;t obvious enough or men are truly clueless.](http://9gag.com/gag/aoyZVX3)
- - 😝 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)
- - 👉 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)<!-- MEMES:END -->
+ - 6️⃣ [They still know where he lives..](http://9gag.com/gag/aD2wZy9)
+ - 😝 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)
+ - 👉 [Where do I apply for this job?](http://9gag.com/gag/avyZ6E5)<!-- MEMES:END -->
 
 --- 
 
