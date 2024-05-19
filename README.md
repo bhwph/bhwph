@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Flight of the Conchords’ Bret McKenzie gave Thelma the Unicorn its gross ‘viral hit’](https://www.polygon.com/24159239/thelma-the-unicorn-viral-song-flight-of-the-conchords-bret-mckenzie)
  - [TikTok has brought back 2000s-era digital cameras — and it’s worth the hype](https://www.polygon.com/24158881/tiktok-retro-digital-camera-trend)
- - [The X-Men games that are actually good](https://www.polygon.com/gaming/24155680/best-x-men-video-games-board-games)
- - [The makers of Shogun, Wheel of Time, BSG, and more sound off on Game of Thrones’ true legacy](https://www.polygon.com/game-of-thrones/24157742/game-thrones-finale-anniversary-next-show-like)<!-- GAME:END -->
+ - [The X-Men games that are actually good](https://www.polygon.com/gaming/24155680/best-x-men-video-games-board-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
