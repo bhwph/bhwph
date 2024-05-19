@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There are supposedly three Total War games in development, one of them Total War: Star Wars](https://www.pcgamer.com/games/strategy/there-are-supposedly-three-total-war-games-in-development-one-of-them-total-war-star-wars)
- - [Excellent fantasy 4X strategy game Endless Legend is free to keep while supplies last](https://www.pcgamer.com/games/strategy/excellent-fantasy-4x-strategy-game-endless-legend-is-free-to-keep-while-supplies-last)
- - [Always keep backups: an &#39;unprecedented&#39; Google Cloud debacle saw a $135 billion pension fund&#39;s entire account deleted and services knocked out for nearly two weeks](https://www.pcgamer.com/gaming-industry/always-keep-backups-an-unprecedented-google-cloud-debacle-saw-a-dollar135-billion-pension-funds-entire-account-deleted-and-services-knocked-out-for-nearly-two-weeks)<!-- GAME:END -->
+ - [Pokémon Go Bounsweet Community Day guide](https://www.polygon.com/pokemon-go-guide/2024/5/18/24159037/bounsweet-community-day-shiny-steenee-tsareena)
+ - [Build a fairytale kingdom in this laid-back, wholesome city builder](https://www.pcgamer.com/games/strategy/build-a-fairytale-kingdom-in-this-laid-back-wholesome-city-builder)
+ - [There are supposedly three Total War games in development, one of them Total War: Star Wars](https://www.pcgamer.com/games/strategy/there-are-supposedly-three-total-war-games-in-development-one-of-them-total-war-star-wars)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
