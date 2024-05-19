@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What time does Hellblade 2 release?](https://www.polygon.com/guides/24159102/hellblade-2-senuas-saga-release-time-date)
  - [There&#39;s a mod to fix Gale&#39;s beard, making Baldur&#39;s Gate 3 playable at last](https://www.pcgamer.com/games/rpg/theres-a-mod-to-fix-gales-beard-making-baldurs-gate-3-playable-at-last)
- - [Today&#39;s Wordle answer for Sunday, May 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-19-2024)
- - [Pokémon Go Bounsweet Community Day guide](https://www.polygon.com/pokemon-go-guide/2024/5/18/24159037/bounsweet-community-day-shiny-steenee-tsareena)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, May 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-19-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
