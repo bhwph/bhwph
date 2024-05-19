@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
- - 😝 [Austrian Art](http://9gag.com/gag/ayNp32W)
- - 👉 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)<!-- MEMES:END -->
+ - 6️⃣ [44 licenses found in shed while cleaning out new home.](http://9gag.com/gag/aVvQmPv)
+ - 😝 [What&#39;s going on here?](http://9gag.com/gag/ae931z5)
+ - 👉 [My fellow 9gaggers, please don&#39;t be rac*st](http://9gag.com/gag/arye387)<!-- MEMES:END -->
 
 --- 
 
