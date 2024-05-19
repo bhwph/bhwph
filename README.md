@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Hellblade 2 release?](https://www.polygon.com/guides/24159102/hellblade-2-senuas-saga-release-time-date)
- - [There&#39;s a mod to fix Gale&#39;s beard, making Baldur&#39;s Gate 3 playable at last](https://www.pcgamer.com/games/rpg/theres-a-mod-to-fix-gales-beard-making-baldurs-gate-3-playable-at-last)
- - [Today&#39;s Wordle answer for Sunday, May 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-19-2024)<!-- GAME:END -->
+ - [The makers of Shogun, Wheel of Time, BSG, and more sound off on Game of Thrones’ true legacy](https://www.polygon.com/game-of-thrones/24157742/game-thrones-finale-anniversary-next-show-like)
+ - [The Last Of Us Season 2 Pics, Fallout Player Nukes Phil Spencer, And More News](https://kotaku.com/the-last-of-us-season-2-pics-fallout-player-nukes-phil-1851484868)
+ - [What time does Hellblade 2 release?](https://www.polygon.com/guides/24159102/hellblade-2-senuas-saga-release-time-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
