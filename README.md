@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When diarrhea strikes](http://9gag.com/gag/aW40oQA)
- - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
- - 👉 [Terrorists get smoked](http://9gag.com/gag/a9yM2VW)<!-- MEMES:END -->
+ - 6️⃣ [How do people like this even exist](http://9gag.com/gag/awybdGW)
+ - 😝 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
+ - 👉 [He was in no rush](http://9gag.com/gag/a7oKemA)<!-- MEMES:END -->
 
 --- 
 
