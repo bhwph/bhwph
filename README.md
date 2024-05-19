@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says he is embarrassed that there was a provision about potential equity cancellation in exit docs, and OpenAI never took back anyone&#39;s vested equity &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/240518/p15#a240518p15)
- - [Blue Origin’s first crewed launch since 2022: Where to watch](https://www.theverge.com/2024/5/18/24159826/blue-origin-first-crewed-launch-since-2022-where-to-watch)
- - [Schiller fails to convince skeptical judge over Apple&#39;s App Store fees](https://appleinsider.com/articles/24/05/18/schiller-fails-to-convince-skeptical-judge-over-apples-app-store-fees?utm_medium=rss)<!-- TECH:END -->
+ - [Researchers are working on sophisticated robots that use AI to converse and play games with people suffering from cognitive disorders like dementia &lpar;Cassandra Willyard/MIT Technology Review&rpar;](http://www.techmeme.com/240518/p16#a240518p16)
+ - [Best Running Headphones and Earbuds for 2024     - CNET](https://www.cnet.com/tech/mobile/best-running-headphones/#ftag=CAD590a51e)
+ - [Sam Altman says he is embarrassed that there was a provision about potential equity cancellation in exit docs, and OpenAI never took back anyone&#39;s vested equity &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/240518/p15#a240518p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
