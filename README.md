@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
+ - 6️⃣ [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
  - 😝 [He was in no rush](http://9gag.com/gag/a7oKemA)
- - 👉 [What&#39;s going on here?](http://9gag.com/gag/ae931z5)<!-- MEMES:END -->
+ - 👉 [Post](http://9gag.com/gag/adB6nYN)<!-- MEMES:END -->
 
 --- 
 
