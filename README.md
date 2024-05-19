@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Bounsweet Community Day guide](https://www.polygon.com/pokemon-go-guide/2024/5/18/24159037/bounsweet-community-day-shiny-steenee-tsareena)
- - [Build a fairytale kingdom in this laid-back, wholesome city builder](https://www.pcgamer.com/games/strategy/build-a-fairytale-kingdom-in-this-laid-back-wholesome-city-builder)
- - [There are supposedly three Total War games in development, one of them Total War: Star Wars](https://www.pcgamer.com/games/strategy/there-are-supposedly-three-total-war-games-in-development-one-of-them-total-war-star-wars)<!-- GAME:END -->
+ - [There&#39;s a mod to fix Gale&#39;s beard, making Baldur&#39;s Gate 3 playable at last](https://www.pcgamer.com/games/rpg/theres-a-mod-to-fix-gales-beard-making-baldurs-gate-3-playable-at-last)
+ - [Today&#39;s Wordle answer for Sunday, May 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-19-2024)
+ - [Pokémon Go Bounsweet Community Day guide](https://www.polygon.com/pokemon-go-guide/2024/5/18/24159037/bounsweet-community-day-shiny-steenee-tsareena)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
