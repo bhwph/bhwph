@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 👉 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)<!-- MEMES:END -->
+ - 6️⃣ [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)
+ - 😝 [Best ad in history!](http://9gag.com/gag/aD2wVow)
+ - 👉 [Real Money like the old days.](http://9gag.com/gag/a2vPDep)<!-- MEMES:END -->
 
 --- 
 
