@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Appfigures: ChatGPT&#39;s iOS and Android apps hit $4.2M in net revenue from May 13 through May 17, as net revenue grew 22% the day of the GPT-4o launch &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240520/p15#a240520p15)
- - [Apple reportedly met with TSMC to snatch up all of its 2nm capacity](https://www.androidauthority.com/apple-tsmc-2nm-process-contract-3444917/)
- - [Score $380 of freebies with the Galaxy S24 Ultra in the Discover Samsung sale](https://www.androidauthority.com/samsung-galaxy-s24-ultra-sale-3444935/)<!-- TECH:END -->
+ - [Jolla, maker of Android variant Sailfish OS, details plans for a privacy-focused AI device, Jolla Mind&amp;sup2;, coming this fall for &amp;euro;699 and a &amp;euro;9.99/mo. subscription &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240520/p27#a240520p27)
+ - [Dell debuts a Dell XPS 13 with Snapdragon X Elite, the first time the XPS 13 has not had Intel, alongside new Dell Latitude and Inspiron PCs with Qualcomm chips &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240520/p26#a240520p26)
+ - [10 Best Deals From the Discover Samsung Sale: TVs, Smartphones, Headphones](https://www.wired.com/story/discover-samsung-summer-event-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
