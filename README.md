@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do they knock you out before the op or are you aware of everything? A lot of friends have recommended this to correct my eyesight.](http://9gag.com/gag/amoLmnv)
- - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
- - 👉 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)<!-- MEMES:END -->
+ - 6️⃣ [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - 😝 [Thick people getting schooled will always be funny. Whilst this is funny it&#39;s also an indication of the stupidity of lefty f*ckwits who dive on any bandwagon without knowing anything about it.](http://9gag.com/gag/abAq2Dp)
+ - 👉 [We are getting old!](http://9gag.com/gag/a9yMO70)<!-- MEMES:END -->
 
 --- 
 
