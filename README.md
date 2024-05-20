@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jolla, maker of Android variant Sailfish OS, details plans for a privacy-focused AI device, Jolla Mind&amp;sup2;, coming this fall for &amp;euro;699 and a &amp;euro;9.99/mo. subscription &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240520/p27#a240520p27)
- - [Dell debuts a Dell XPS 13 with Snapdragon X Elite, the first time the XPS 13 has not had Intel, alongside new Dell Latitude and Inspiron PCs with Qualcomm chips &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240520/p26#a240520p26)
- - [10 Best Deals From the Discover Samsung Sale: TVs, Smartphones, Headphones](https://www.wired.com/story/discover-samsung-summer-event-2024/)<!-- TECH:END -->
+ - [Apple releases iOS 17.5.1 and iPadOS 17.5.1 and says the bug allowing some deleted photos to reappear has now been fixed &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240520/p31#a240520p31)
+ - [Where to preorder Microsoft’s new Surface Laptop and Surface Pro](https://www.theverge.com/24160691/microsoft-2024-surface-laptop-pro-preorder-how-to-buy-release-date-price-availability)
+ - [Microsoft Surface Pro &lpar;11th Edition&rpar; and Surface Laptop &lpar;7th Edition&rpar;: Specs, Price, Features, Release Date](https://www.wired.com/story/everything-announced-microsoft-surface-event-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
