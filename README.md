@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - 😝 [It&#39;s a win win for him, I&#39;d say](http://9gag.com/gag/avyZx9E)
- - 👉 [Got us in the first half.](http://9gag.com/gag/ae932YW)<!-- MEMES:END -->
+ - 6️⃣ [A minor bump.](http://9gag.com/gag/awybYXr)
+ - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 👉 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)<!-- MEMES:END -->
 
 --- 
 
