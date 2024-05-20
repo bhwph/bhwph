@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)
- - 😝 [Best ad in history!](http://9gag.com/gag/aD2wVow)
- - 👉 [Real Money like the old days.](http://9gag.com/gag/a2vPDep)<!-- MEMES:END -->
+ - 6️⃣ [Do they knock you out before the op or are you aware of everything? A lot of friends have recommended this to correct my eyesight.](http://9gag.com/gag/amoLmnv)
+ - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
+ - 👉 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)<!-- MEMES:END -->
 
 --- 
 
