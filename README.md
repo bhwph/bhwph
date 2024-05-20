@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Wanderers – The Team Behind Senua’s Saga: Hellblade II’s Incredible Landscapes](https://news.xbox.com/en-us/2024/05/20/hellblade-2-environmental-design-inspired-by-iceland/)
- - [Life in Reterra is the highly replayable board game that now lives rent-free in my family room](https://www.polygon.com/reviews/24158546/life-in-reterra-board-game-review)
- - [Baldur&#39;s Gate 3 Devs Open Seventh Studio To Help With Two &#39;Very Ambitious RPGs&#39;](https://kotaku.com/baldurs-gate-3-larian-divinity-warsaw-1851487779)<!-- GAME:END -->
+ - [The top 5 times a remastered Phantom Menace trailer made me incorrectly go ‘Star Wars is so back’](https://www.polygon.com/star-wars/24160740/star-wars-phantom-menace-4k-trailer-remaster)
+ - [Fired X-Men ‘97 Creator Says He Wrote ‘A Lot’ Of Season Two](https://kotaku.com/x-men-97-creator-beau-demayo-season-2-disney-marvel-1851488316)
+ - [MultiVersus Adds Murderer Jason Voorhees And Matrix Villain Agent Smith](https://kotaku.com/multiversus-smash-bros-wb-matrix-jason-all-characters-1851488213)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
