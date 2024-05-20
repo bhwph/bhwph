@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The top 5 times a remastered Phantom Menace trailer made me incorrectly go ‘Star Wars is so back’](https://www.polygon.com/star-wars/24160740/star-wars-phantom-menace-4k-trailer-remaster)
- - [Fired X-Men ‘97 Creator Says He Wrote ‘A Lot’ Of Season Two](https://kotaku.com/x-men-97-creator-beau-demayo-season-2-disney-marvel-1851488316)
- - [MultiVersus Adds Murderer Jason Voorhees And Matrix Villain Agent Smith](https://kotaku.com/multiversus-smash-bros-wb-matrix-jason-all-characters-1851488213)<!-- GAME:END -->
+ - [How to finish ‘Zero Hour’ and get Outbreak Perfected in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24155578/zero-hour-walkthrough-outbreak-perfected-exotic-pattern)
+ - [Intel&#39;s Lunar Lake is here to remind you x86 still has a place in laptops: &#39;You&#39;ve never seen x86 power characteristics quite like this&#39;](https://www.pcgamer.com/hardware/processors/intels-lunar-lake-is-here-to-remind-you-x86-still-has-a-place-in-laptops-youve-never-seen-x86-power-characteristics-quite-like-this)
+ - [Abbott Elementary’s season 3 finale, Jeopardy! Masters, and more](https://www.polygon.com/2024/5/20/24152186/new-tv-netflix-abbott-finale-when-kardashians)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
