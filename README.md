@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)
- - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - 👉 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)<!-- MEMES:END -->
+ - 6️⃣ [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
+ - 👉 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)<!-- MEMES:END -->
 
 --- 
 
