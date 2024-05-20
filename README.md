@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
- - 😝 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)
- - 👉 [We are getting old!](http://9gag.com/gag/a9yMO70)<!-- MEMES:END -->
+ - 6️⃣ [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)
+ - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
+ - 👉 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)<!-- MEMES:END -->
 
 --- 
 
