@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to easily see what was talked about at every WWDC session since 2000](https://appleinsider.com/inside/wwdc/tips/how-to-easily-see-what-was-talked-about-at-every-wwdc-session-since-2000?utm_medium=rss)
- - [A look at Overland AI, Potential, and other startups developing off-road self-driving systems, including for military operations, underground mining, and more &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240519/p16#a240519p16)
- - [Two students find security bug that could let millions do laundry for free](https://www.theverge.com/2024/5/19/24160383/students-security-bug-laundry-machines-csc-serviceworks)<!-- TECH:END -->
+ - [An interview with Kokusai Electric CEO Fumiyuki Kanai on KKR&#39;s role in the Japanese chip equipment maker&#39;s IPO, becoming an advocate for PE in Japan, and more &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/240520/p1#a240520p1)
+ - [Best Apple AirPods for 2024     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for May 20, #1066     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-20-1066/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
