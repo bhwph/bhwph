@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases iOS 17.5.1 and iPadOS 17.5.1 and says the bug allowing some deleted photos to reappear has now been fixed &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240520/p31#a240520p31)
- - [Where to preorder Microsoft’s new Surface Laptop and Surface Pro](https://www.theverge.com/24160691/microsoft-2024-surface-laptop-pro-preorder-how-to-buy-release-date-price-availability)
- - [Microsoft Surface Pro &lpar;11th Edition&rpar; and Surface Laptop &lpar;7th Edition&rpar;: Specs, Price, Features, Release Date](https://www.wired.com/story/everything-announced-microsoft-surface-event-2024/)<!-- TECH:END -->
+ - [The FBI has arrested a man on criminal charges for allegedly producing and distributing AI-generated images of minors engaged in sexually explicit conduct &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240520/p39#a240520p39)
+ - [Apple’s Photo Bug Exposes the Myth of ‘Deleted’](https://www.wired.com/story/apple-photo-bug-resurfaced-fix-icloud/)
+ - [Meta approved AI-manipulated Facebook ads during India&#39;s election that spread disinfo and incited religious violence; civil groups submitted them as a test &lpar;Hannah Ellis-Petersen/The Guardian&rpar;](http://www.techmeme.com/240520/p38#a240520p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
