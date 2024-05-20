@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hot coffee!](http://9gag.com/gag/a87bw06)
- - 😝 [Abbey did not expect that](http://9gag.com/gag/axy2PVb)
- - 👉 [Lick](http://9gag.com/gag/awyb4OQ)<!-- MEMES:END -->
+ - 6️⃣ [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
+ - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 👉 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)<!-- MEMES:END -->
 
 --- 
 
