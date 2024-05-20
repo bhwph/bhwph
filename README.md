@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - 😝 [Thick people getting schooled will always be funny. Whilst this is funny it&#39;s also an indication of the stupidity of lefty f*ckwits who dive on any bandwagon without knowing anything about it.](http://9gag.com/gag/abAq2Dp)
- - 👉 [We are getting old!](http://9gag.com/gag/a9yMO70)<!-- MEMES:END -->
+ - 6️⃣ [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
+ - 😝 [It&#39;s a win win for him, I&#39;d say](http://9gag.com/gag/avyZx9E)
+ - 👉 [Got us in the first half.](http://9gag.com/gag/ae932YW)<!-- MEMES:END -->
 
 --- 
 
