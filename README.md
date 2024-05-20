@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty’s Next Crossover Brings Gundam To The Game](https://kotaku.com/call-of-duty-warzone-gundam-crossover-1851489124)
- - [Take-Two CEO says he&#39;s &#39;highly confident&#39; GTA6 will make its release window, gets all philosophical about it: &#39;Perfection is indeed hard to measure, it really is more subjective than objective&#39;](https://www.pcgamer.com/games/grand-theft-auto/take-two-ceo-says-hes-highly-confident-gta6-will-make-its-release-window-gets-all-philosophical-about-it-perfection-is-indeed-hard-to-measure-it-really-is-more-subjective-than-objective)
- - [I Saw the TV Glow is a powerful call to action — any action](https://www.polygon.com/24160895/i-saw-the-tv-glow-ending-explained-interpretation)<!-- GAME:END -->
+ - [Blizzard addresses Diablo 4&#39;s gold problem in a patch, but nobody is quite sure if it&#39;s solved yet](https://www.pcgamer.com/games/rpg/blizzard-addresses-diablo-4s-gold-problem-in-a-patch-but-nobody-is-quite-sure-if-its-solved-yet)
+ - [GTA 6 Could Be The First Game To Push Past $70](https://kotaku.com/gta-6-gtavi-grand-theft-auto-price-70-take-two-ceo-t2-1851489239)
+ - [25 Years Later, I Am Now A Star Wars: The Phantom Menace Apologist](https://kotaku.com/star-wars-episode-1-phantom-menace-25th-anniversary-1851489367)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
