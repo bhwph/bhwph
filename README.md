@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We don&#39;t have to live like this: you can set Chrome to default to Google&#39;s new nonsense-free &#39;Web&#39; search, which also completely bypasses that awful AI answer box](https://www.pcgamer.com/gaming-industry/we-dont-have-to-live-like-this-you-can-set-chrome-to-default-to-googles-new-nonsense-free-web-search-which-also-completely-bypasses-that-awful-ai-answer-box)
- - [Puzzle box game Machinika: Museum is free to keep on Steam](https://www.pcgamer.com/games/adventure/puzzle-box-game-machinika-museum-is-free-to-keep-on-steam)
- - [Nothing is too niche for modders to remaster, not even a &#39;90s Star Wars FPS expansion pack where you play as Luke Skywalker&#39;s weird non-canon wife rescuing my favorite Expanded Universe dork](https://www.pcgamer.com/games/fps/nothing-is-too-niche-for-modders-to-remaster-not-even-a-90s-star-wars-fps-expansion-pack-where-you-play-as-luke-skywalkers-weird-non-canon-wife-rescuing-my-favorite-expanded-universe-dork)<!-- GAME:END -->
+ - [Here&#39;s the dystopian cooking simulator about frying up illegal eggs in Antarctica that you&#39;ve always wanted](https://www.pcgamer.com/games/heres-the-dystopian-cooking-simulator-about-frying-up-illegal-eggs-in-antarctica-that-youve-always-wanted)
+ - [Lootun is an auto-battling RPG for people who just really love managing their party&#39;s gear](https://www.pcgamer.com/games/lootun-is-an-auto-battling-rpg-for-people-who-just-really-love-managing-their-partys-gear)
+ - [We don&#39;t have to live like this: you can set Chrome to default to Google&#39;s new nonsense-free &#39;Web&#39; search, which also completely bypasses that awful AI answer box](https://www.pcgamer.com/gaming-industry/we-dont-have-to-live-like-this-you-can-set-chrome-to-default-to-googles-new-nonsense-free-web-search-which-also-completely-bypasses-that-awful-ai-answer-box)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
