@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 👉 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)<!-- MEMES:END -->
+ - 6️⃣ [She looks nice innit?](http://9gag.com/gag/aZZWRDQ)
+ - 😝 [Iranians deserve freedom](http://9gag.com/gag/ayNpP8b)
+ - 👉 [Too early to win the Darwin award of this year?](http://9gag.com/gag/an7XVOV)<!-- MEMES:END -->
 
 --- 
 
