@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AltStore developers detail the significant hurdles facing those looking to open third-party iOS app stores in Europe; AltStore has had 100K+ downloads in the EU &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240520/p11#a240520p11)
- - [Apple wants all of TSMC&#39;s 2nm chips, so they sent Jeff Williams in secret](https://appleinsider.com/articles/24/05/20/apple-wants-all-of-tsmcs-2nm-chips-so-they-sent-jeff-williams-in-secret?utm_medium=rss)
- - [HUAWEI MateBook X Pro &lpar;2024&rpar; review: Should you buy it?](https://www.androidauthority.com/huawei-matebook-x-pro-2024-review-3437717/)<!-- TECH:END -->
+ - [Appfigures: ChatGPT&#39;s iOS and Android apps hit $4.2M in net revenue from May 13 through May 17, as net revenue grew 22% the day of the GPT-4o launch &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240520/p15#a240520p15)
+ - [Apple reportedly met with TSMC to snatch up all of its 2nm capacity](https://www.androidauthority.com/apple-tsmc-2nm-process-contract-3444917/)
+ - [Score $380 of freebies with the Galaxy S24 Ultra in the Discover Samsung sale](https://www.androidauthority.com/samsung-galaxy-s24-ultra-sale-3444935/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
