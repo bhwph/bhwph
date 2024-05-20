@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces a discount of up to $318 on its Tmall site in China between May 20 and May 28 on select iPhone models amid competition from Huawei and others &lpar;Reuters&rpar;](http://www.techmeme.com/240520/p5#a240520p5)
- - [Indian Voters Are Being Bombarded With Millions of Deepfakes. Political Candidates Approve](https://www.wired.com/story/indian-elections-ai-deepfakes/)
- - [You will soon be able to use ChatGPT instantly on mobile](https://www.androidauthority.com/use-chatgpt-without-account-mobile-3444803/)<!-- TECH:END -->
+ - [CyberArk acquires machine identity management company Venafi from Thoma Bravo in a deal valued at around $1.54B; Thoma Bravo bought Venafi for $1.15B in 2020 &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/240520/p7#a240520p7)
+ - [7 Best Video Doorbell Cameras &lpar;2024&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)
+ - [Election officials are role-playing AI threats to keep them from undermining democracy](https://www.theverge.com/24159214/election-officials-role-playing-ai-democracy-arizona-2024)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
