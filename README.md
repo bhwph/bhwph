@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Mac Pro and Studio won’t get the M4 nod until mid-2025](https://www.theverge.com/2024/5/19/24160117/ipad-pro-m4-single-core-mac-pro-m2-ultra)
- - [Microsoft, Meta, Google and others pitch smaller language models that are cheaper to build and train, to lower costs and hardware requirements for generative AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240519/p14#a240519p14)
- - [User pays double to make Magic Keyboard that matches the Siri Remote](https://appleinsider.com/articles/24/05/19/user-pays-double-to-make-magic-keyboard-that-matches-the-siri-remote?utm_medium=rss)<!-- TECH:END -->
+ - [How to easily see what was talked about at every WWDC session since 2000](https://appleinsider.com/inside/wwdc/tips/how-to-easily-see-what-was-talked-about-at-every-wwdc-session-since-2000?utm_medium=rss)
+ - [A look at Overland AI, Potential, and other startups developing off-road self-driving systems, including for military operations, underground mining, and more &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240519/p16#a240519p16)
+ - [Two students find security bug that could let millions do laundry for free](https://www.theverge.com/2024/5/19/24160383/students-security-bug-laundry-machines-csc-serviceworks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
