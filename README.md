@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD Zen 6 could deliver a full 32-core chiplet, with Zen 5c reportedly set to offer its own 16-core CCX](https://www.pcgamer.com/hardware/processors/amd-zen-6-could-deliver-a-full-32-core-chiplet-with-zen-5c-reportedly-set-to-offer-its-own-16-core-ccx)
- - [Bummer: Tesla&#39;s &#39;gaming computer&#39; that it built a car around for some reason will be &#39;no longer capable of playing Steam games&#39;](https://www.pcgamer.com/hardware/bummer-teslas-gaming-computer-that-it-built-a-car-around-for-some-reason-will-be-no-longer-capable-of-playing-steam-games)
- - [Google&#39;s new AI search feature has been recommending people drink urine &lpar;&#39;light in color&#39;&rpar; so here&#39;s how to turn its AI Overviews off to avoid such dodgy advice](https://www.pcgamer.com/software/ai/googles-new-ai-search-feature-has-been-recommending-people-drink-urine-light-in-color-so-heres-how-to-turn-its-ai-overviews-off-to-avoid-such-dodgy-advice)<!-- GAME:END -->
+ - [The Wanderers – The Team Behind Senua’s Saga: Hellblade II’s Incredible Landscapes](https://news.xbox.com/en-us/2024/05/20/hellblade-2-environmental-design-inspired-by-iceland/)
+ - [Life in Reterra is the highly replayable board game that now lives rent-free in my family room](https://www.polygon.com/reviews/24158546/life-in-reterra-board-game-review)
+ - [Baldur&#39;s Gate 3 Devs Open Seventh Studio To Help With Two &#39;Very Ambitious RPGs&#39;](https://kotaku.com/baldurs-gate-3-larian-divinity-warsaw-1851487779)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
