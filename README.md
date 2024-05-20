@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Kokusai Electric CEO Fumiyuki Kanai on KKR&#39;s role in the Japanese chip equipment maker&#39;s IPO, becoming an advocate for PE in Japan, and more &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/240520/p1#a240520p1)
- - [Best Apple AirPods for 2024     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for May 20, #1066     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-20-1066/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Snap&#39;s shift towards investing aggressively in AI and AR after revamping its ad business, as it tries to adapt to changing social media habits &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240520/p2#a240520p2)
+ - [Samsung Galaxy Ring is coming: What we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-ring-3340682/)
+ - [Samsung Galaxy Watch 7 rumors: Everything we know and want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
