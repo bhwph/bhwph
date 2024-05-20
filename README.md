@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A minor bump.](http://9gag.com/gag/awybYXr)
- - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 👉 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)<!-- MEMES:END -->
+ - 6️⃣ [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
+ - 😝 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)
+ - 👉 [We are getting old!](http://9gag.com/gag/a9yMO70)<!-- MEMES:END -->
 
 --- 
 
