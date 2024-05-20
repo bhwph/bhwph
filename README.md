@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to finish ‘Zero Hour’ and get Outbreak Perfected in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24155578/zero-hour-walkthrough-outbreak-perfected-exotic-pattern)
- - [Intel&#39;s Lunar Lake is here to remind you x86 still has a place in laptops: &#39;You&#39;ve never seen x86 power characteristics quite like this&#39;](https://www.pcgamer.com/hardware/processors/intels-lunar-lake-is-here-to-remind-you-x86-still-has-a-place-in-laptops-youve-never-seen-x86-power-characteristics-quite-like-this)
- - [Abbott Elementary’s season 3 finale, Jeopardy! Masters, and more](https://www.polygon.com/2024/5/20/24152186/new-tv-netflix-abbott-finale-when-kardashians)<!-- GAME:END -->
+ - [Call Of Duty’s Next Crossover Brings Gundam To The Game](https://kotaku.com/call-of-duty-warzone-gundam-crossover-1851489124)
+ - [Take-Two CEO says he&#39;s &#39;highly confident&#39; GTA6 will make its release window, gets all philosophical about it: &#39;Perfection is indeed hard to measure, it really is more subjective than objective&#39;](https://www.pcgamer.com/games/grand-theft-auto/take-two-ceo-says-hes-highly-confident-gta6-will-make-its-release-window-gets-all-philosophical-about-it-perfection-is-indeed-hard-to-measure-it-really-is-more-subjective-than-objective)
+ - [I Saw the TV Glow is a powerful call to action — any action](https://www.polygon.com/24160895/i-saw-the-tv-glow-ending-explained-interpretation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
