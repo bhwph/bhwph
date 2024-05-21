@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
- - 😝 [US Navy cost to fire different weapons](http://9gag.com/gag/adB6dpj)
- - 👉 [How do people like this even exist](http://9gag.com/gag/awybdGW)<!-- MEMES:END -->
+ - 6️⃣ [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 😝 [Men can have an entire conversation with 1 nod](http://9gag.com/gag/aPAy1xQ)
+ - 👉 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)<!-- MEMES:END -->
 
 --- 
 
