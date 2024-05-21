@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost of Tsushima PC performance analysis: Your CPU will be fine, your GPU will whine, but there are settings for every gamer out there](https://www.pcgamer.com/hardware/ghost-of-tsushima-pc-performance)
- - [The best Valorant VPN in 2024](https://www.pcgamer.com/software/security/the-best-valorant-vpn)
- - [Bethesda won&#39;t make a game as cool as Morrowind ever again, so thank god an original dev has come back 20 years on to make quest mods for it](https://www.pcgamer.com/games/the-elder-scrolls/bethesda-wont-make-a-game-as-cool-as-morrowind-ever-again-so-thank-god-an-original-dev-has-come-back-20-years-on-to-make-quest-mods-for-it)<!-- GAME:END -->
+ - [Starving Heroes of Might &amp; Magic fans finally eat as spiritual successor Songs of Conquest leaves its 2-year early access behind](https://www.pcgamer.com/games/strategy/starving-heroes-of-might-and-magic-fans-finally-eat-as-spiritual-successor-songs-of-conquest-leaves-its-2-year-early-access-behind)
+ - [Majora’s Mask brought us the coolest swords in The Legend of Zelda](https://www.polygon.com/zelda/24160854/majoras-mask-coolest-swords-legend-of-zelda-fierce-deity)
+ - [A Note From Ninja Theory – Senua’s Saga: Hellblade II is Out Now](https://news.xbox.com/en-us/2024/05/21/hellblade-2-launch-blog/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
