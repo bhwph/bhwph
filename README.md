@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Obviously these arguments require you to take your clothes off... Right?](http://9gag.com/gag/a7oKpjq)
- - 😝 [C. can&#39;t tell](http://9gag.com/gag/a1mZwxG)
- - 👉 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)<!-- MEMES:END -->
+ - 6️⃣ [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
+ - 😝 [Enormous Plasma Wall spotted on the Sun](http://9gag.com/gag/azxLDxj)
+ - 👉 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)<!-- MEMES:END -->
 
 --- 
 
