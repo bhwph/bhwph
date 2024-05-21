@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [Microsoft announces the developer preview of Windows Volumetric Apps, giving access to an API that lets devs put Windows apps in 3D space on Meta Quest headsets &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240521/p33#a240521p33)
- - [Free Magic Editor is now arriving on older Pixel phones](https://www.androidauthority.com/magic-editor-free-3445296/)<!-- TECH:END -->
+ - [Google’s new ‘Add to Chromebook’ badge makes web apps easier to find and install](https://www.theverge.com/2024/5/21/24161956/google-add-to-chromebook-badge-button-install-progressive-web-apps-pwa)
+ - [Microsoft will soon let businesses build custom Copilot AI agents to automate tasks, and unveils Team Copilot to help with tasks in Teams, Loop, and Planner &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240521/p37#a240521p37)
+ - [Apple wants all of TSMC&#39;s 2nm chips, so they sent Jeff Williams in secret](https://appleinsider.com/articles/24/05/20/apple-wants-all-of-tsmcs-2nm-chips-so-they-sent-jeff-williams-in-secret?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
