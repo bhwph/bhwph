@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to Know About IP Ratings Before Your Phone Gets Wet](https://www.wired.com/story/ip-ratings-explained/)
- - [Microsoft&#39;s Copilot+ PCs event was compelling, the culmination of years of work, and Windows feels revitalized while its hardware is meaningfully differentiated &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240521/p17#a240521p17)
- - [Folding iPhone may repair display scratches &amp; dents by itself](https://appleinsider.com/articles/20/10/01/future-folding-iphones-may-repair-scratches-or-dents-in-the-display-by-themselves?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro&#39;s next &#39;adventure&#39; experience is Parkour in Paris](https://appleinsider.com/articles/24/05/21/apple-vision-pros-next-adventure-experience-is-parkour-in-paris?utm_medium=rss)
+ - [11 Best Cheap Laptops &lpar;2024&rpar;: Our Picks for $700 or Less](https://www.wired.com/gallery/best-cheap-laptops/)
+ - [For the director of I Saw the TV Glow, Buffy the Vampire Slayer was just the start](https://www.theverge.com/24159054/i-saw-the-tv-glow-jane-schoenbrun-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
