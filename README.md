@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Never mind S24 Ultra, Samsung could offer an Ultra watch this year](https://www.androidauthority.com/samsung-galaxy-watch-7-ultra-leak-3445105/)
- - [A look at the use of quantum computing to solve optimization problems, which are devilishly difficult because of the huge number of options they entail &lpar;Bob Henderson/Wall Street Journal&rpar;](http://www.techmeme.com/240521/p4#a240521p4)
- - [Android 15 release date: When is the next update coming?](https://www.androidauthority.com/android-15-release-schedule-3415324/)<!-- TECH:END -->
+ - [London-based Vitesse, which offers a treasury and payment platform for insurance companies, raised a $93M Series C led by KKR, after a $26M Series B in 2022 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240521/p9#a240521p9)
+ - [SEC filing: Chicago-based Tempus, which uses AI to process medical data, files for an IPO, reporting a $266M net loss on $532M revenue in 2023 and 2,300 staff &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/240521/p8#a240521p8)
+ - [Google plans to spend ~&amp;euro;1B to expand its data center in Finland, and will reuse heat from the data center to warm nearby homes, schools, and public buildings &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240521/p7#a240521p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
