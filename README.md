@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie’s Destiny 2 cheating lawsuit will be decided by jury trial this week](https://www.polygon.com/24161935/bungie-destiny-2-cheating-jury-trial-aimjunkies)
- - [Destiny 2 The Pantheon bosses list, rewards, and guide to how it works](https://www.polygon.com/destiny-2-guide-walkthrough/24145806/the-pantheon-bosses-order-rewards-guide)
- - [Street Fighter 6 is launching Akuma by having thousands of Twitch viewers control him simultaneously, and why not](https://www.pcgamer.com/games/fighting/street-fighter-6-is-going-to-launch-akuma-by-having-thousands-of-twitch-viewers-control-him-at-once-which-is-going-to-be-a-sight)<!-- GAME:END -->
+ - [Elden Ring fans are pretty sure those bodies are a tree in the Shadow of the Erdtree story trailer](https://www.pcgamer.com/games/rpg/elden-ring-fans-are-pretty-sure-those-bodies-are-a-tree-in-the-shadow-of-the-erdtree-story-trailer)
+ - [Crytek director says Hunt: Showdown&#39;s big August update represents &#39;a significant relaunch of Hunt: Showdown at a whole new level&#39;](https://www.pcgamer.com/games/fps/crytek-director-says-hunt-showdowns-big-august-update-represents-a-significant-relaunch-of-hunt-showdown-at-a-whole-new-level)
+ - [Free-to-play Ubisoft shooter XDefiant launches with the expected matchmaking issues, but I&#39;m having a good time](https://www.pcgamer.com/games/fps/free-to-play-ubisoft-shooter-xdefiant-launches-with-the-expected-matchmaking-issues-but-im-having-a-good-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
