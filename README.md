@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)
- - 😝 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
- - 👉 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)<!-- MEMES:END -->
+ - 6️⃣ [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
+ - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
+ - 👉 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)<!-- MEMES:END -->
 
 --- 
 
