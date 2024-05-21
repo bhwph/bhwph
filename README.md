@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One Of The Best Video Game Songs Of All Time Just Got Radically Transformed](https://kotaku.com/kingdom-hearts-utada-hikaru-simple-clean-re-recording-1851490877)
- - [PC user annoyed about Task Manager jumping around gets told how to fix it with one button—by the developer that built the application 30 years ago](https://www.pcgamer.com/software/windows/pc-user-annoyed-about-task-manager-jumping-around-gets-told-how-to-fix-it-with-one-buttonby-the-developer-that-built-the-application-30-years-ago)
- - [Why I still hold onto my Phantom Blade in World of Warcraft](https://www.polygon.com/24160618/cool-sword-day-phantom-blade-world-of-warcraft)<!-- GAME:END -->
+ - [We ranked all of League of Legends’ cool swords for cool sword day](https://www.polygon.com/gaming/24156714/league-of-legends-best-swords-lol)
+ - [Fortnite is lowkey becoming the go-to place for Lego video games](https://www.polygon.com/fortnite/24161698/fortnite-new-lego-games-free)
+ - [It was a big weekend for fans of Warhammer: Age of Sigmar, 40K, and Necromunda](https://www.polygon.com/24161719/warhammer-age-of-sigmar-launch-box-reveal-preview-weekend-40k-aos-sisters-of-battle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
