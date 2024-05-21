@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She looks nice innit?](http://9gag.com/gag/aZZWRDQ)
- - 😝 [Iranians deserve freedom](http://9gag.com/gag/ayNpP8b)
- - 👉 [Too early to win the Darwin award of this year?](http://9gag.com/gag/an7XVOV)<!-- MEMES:END -->
+ - 6️⃣ [RIP](http://9gag.com/gag/aGyVoV0)
+ - 😝 [So many years have passed and the feminists are still silent when it comes to womenspreading .... I wonder why... Didn&#39;t they claim to be for equality? Hmmm....](http://9gag.com/gag/abAq23b)
+ - 👉 [Ouch!](http://9gag.com/gag/aNDo340)<!-- MEMES:END -->
 
 --- 
 
