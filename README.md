@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 😝 [Men can have an entire conversation with 1 nod](http://9gag.com/gag/aPAy1xQ)
- - 👉 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)<!-- MEMES:END -->
+ - 6️⃣ [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)
+ - 😝 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
+ - 👉 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)<!-- MEMES:END -->
 
 --- 
 
