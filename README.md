@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at challenges LA faces as it tries to remain a major tech hub; CB Insights: VC funding of startups in LA totaled $6.9B in 2023, down 73% from 2021 &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/240520/p46#a240520p46)
- - [How to look up your App Store purchase history](https://appleinsider.com/inside/app-store/tips/how-to-look-up-your-app-store-purchase-history?utm_medium=rss)
- - [A profile of Alphabet&#39;s moonshot X lab, as it carves out a path in which projects spin off as independent startups, after years of debate and experimentation &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240520/p45#a240520p45)<!-- TECH:END -->
+ - [European research labs led by Belgium-based imec will receive &amp;euro;2.5B in funding under European Chips Act to set up a pilot line to develop and test sub-2nm chips &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240521/p3#a240521p3)
+ - [The World Is Ignoring the Other Deadly Kind of Carbon](https://www.wired.com/story/the-world-is-ignoring-the-other-deadly-kind-of-carbon/)
+ - [Inside Oracle&#39;s Cerner acquisition, including issues with Cerner&#39;s EHR system, which Oracle says it wasn&#39;t aware of, and its rollout at the US Veterans Affairs &lpar;Business Insider&rpar;](http://www.techmeme.com/240521/p2#a240521p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
