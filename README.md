@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Should I give my seat to a women?](http://9gag.com/gag/aMVbWLW)
- - 😝 [Insurance scam](http://9gag.com/gag/aByQvwA)
- - 👉 [Men can have an entire conversation with 1 nod](http://9gag.com/gag/aPAy1xQ)<!-- MEMES:END -->
+ - 6️⃣ [Instant karma - hit by car trying to run away](http://9gag.com/gag/a87bX1Y)
+ - 😝 [Hurts right in the miau miau](http://9gag.com/gag/aD2wNgZ)
+ - 👉 [Should I give my seat to a women?](http://9gag.com/gag/aMVbWLW)<!-- MEMES:END -->
 
 --- 
 
