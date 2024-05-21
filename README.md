@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dancing to the song of thier people](http://9gag.com/gag/a4P9x4Z)
- - 😝 [It&#39;s in black and white](http://9gag.com/gag/avyZmDO)
- - 👉 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)<!-- MEMES:END -->
+ - 6️⃣ [Insurance scam](http://9gag.com/gag/aByQvwA)
+ - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
+ - 👉 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)<!-- MEMES:END -->
 
 --- 
 
