@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is bringing ‘Windows Volumetric Apps’ to Meta Quest headsets](https://www.theverge.com/2024/5/21/24161817/microsoft-windows-volumetric-apps-meta-quest-api)
- - [Elon Musk’s xAI is working on making Grok multimodal](https://www.theverge.com/2024/5/21/24161764/elon-musk-xai-grok-multimodal-ai)
- - [Anthropic researchers detail their attempts to peer inside the &quot;black box&quot; of LLMs, to find associations for a given prompt, which has largely been a mystery &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240521/p32#a240521p32)<!-- TECH:END -->
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
+ - [Microsoft announces the developer preview of Windows Volumetric Apps, giving access to an API that lets devs put Windows apps in 3D space on Meta Quest headsets &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240521/p33#a240521p33)
+ - [Free Magic Editor is now arriving on older Pixel phones](https://www.androidauthority.com/magic-editor-free-3445296/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
