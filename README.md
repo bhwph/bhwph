@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the big laptop makers are embracing Qualcomm&#39;s Snapdragon X, here are all the &#39;PC reborn&#39; models available for pre-order now](https://www.pcgamer.com/hardware/processors/all-the-big-laptop-makers-are-embracing-qualcomms-snapdragon-x-here-are-all-the-pc-reborn-models-available-for-pre-order-now)
- - [The freeform TTRPG Sword Loser gives adults a terrific excuse to play like kids again](https://www.polygon.com/tabletop-games/24160953/best-drawing-ttrpg-sword-loser-adult-art-therapy)
- - [Happy Cool Sword Day](https://www.polygon.com/24158464/cool-sword-day-2024)<!-- GAME:END -->
+ - [Ghost of Tsushima PC performance analysis: Your CPU will be fine, your GPU will whine, but there are settings for every gamer out there](https://www.pcgamer.com/hardware/ghost-of-tsushima-pc-performance)
+ - [The best Valorant VPN in 2024](https://www.pcgamer.com/software/security/the-best-valorant-vpn)
+ - [Bethesda won&#39;t make a game as cool as Morrowind ever again, so thank god an original dev has come back 20 years on to make quest mods for it](https://www.pcgamer.com/games/the-elder-scrolls/bethesda-wont-make-a-game-as-cool-as-morrowind-ever-again-so-thank-god-an-original-dev-has-come-back-20-years-on-to-make-quest-mods-for-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
