@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We ranked all of League of Legends’ cool swords for cool sword day](https://www.polygon.com/gaming/24156714/league-of-legends-best-swords-lol)
- - [Fortnite is lowkey becoming the go-to place for Lego video games](https://www.polygon.com/fortnite/24161698/fortnite-new-lego-games-free)
- - [It was a big weekend for fans of Warhammer: Age of Sigmar, 40K, and Necromunda](https://www.polygon.com/24161719/warhammer-age-of-sigmar-launch-box-reveal-preview-weekend-40k-aos-sisters-of-battle)<!-- GAME:END -->
+ - [Bungie’s Destiny 2 cheating lawsuit will be decided by jury trial this week](https://www.polygon.com/24161935/bungie-destiny-2-cheating-jury-trial-aimjunkies)
+ - [Destiny 2 The Pantheon bosses list, rewards, and guide to how it works](https://www.polygon.com/destiny-2-guide-walkthrough/24145806/the-pantheon-bosses-order-rewards-guide)
+ - [Street Fighter 6 is launching Akuma by having thousands of Twitch viewers control him simultaneously, and why not](https://www.pcgamer.com/games/fighting/street-fighter-6-is-going-to-launch-akuma-by-having-thousands-of-twitch-viewers-control-him-at-once-which-is-going-to-be-a-sight)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
