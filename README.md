@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FBI has arrested a man on criminal charges for allegedly producing and distributing AI-generated images of minors engaged in sexually explicit conduct &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240520/p39#a240520p39)
- - [Apple’s Photo Bug Exposes the Myth of ‘Deleted’](https://www.wired.com/story/apple-photo-bug-resurfaced-fix-icloud/)
- - [Meta approved AI-manipulated Facebook ads during India&#39;s election that spread disinfo and incited religious violence; civil groups submitted them as a test &lpar;Hannah Ellis-Petersen/The Guardian&rpar;](http://www.techmeme.com/240520/p38#a240520p38)<!-- TECH:END -->
+ - [Samsung Electronics names Young-Hyun Jun as the head of its semiconductor arm, replacing co-CEO Kye-Hyun Kyung, who will oversee its business planning team &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240520/p43#a240520p43)
+ - [Volvo teams up with Aurora to reveal an autonomous semi truck](https://www.theverge.com/2024/5/20/24161079/volvo-aurora-autonomous-truck-class-8-production-design)
+ - [Everything Announced at Microsoft&#39;s Surface Copilot + PC Event video     - CNET](https://www.cnet.com/videos/everything-announced-at-microsofts-surface-copilot-pc-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
