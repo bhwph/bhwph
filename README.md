@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Instant karma - hit by car trying to run away](http://9gag.com/gag/a87bX1Y)
- - 😝 [Hurts right in the miau miau](http://9gag.com/gag/aD2wNgZ)
- - 👉 [Should I give my seat to a women?](http://9gag.com/gag/aMVbWLW)<!-- MEMES:END -->
+ - 6️⃣ [Obviously these arguments require you to take your clothes off... Right?](http://9gag.com/gag/a7oKpjq)
+ - 😝 [C. can&#39;t tell](http://9gag.com/gag/a1mZwxG)
+ - 👉 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)<!-- MEMES:END -->
 
 --- 
 
