@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starving Heroes of Might &amp; Magic fans finally eat as spiritual successor Songs of Conquest leaves its 2-year early access behind](https://www.pcgamer.com/games/strategy/starving-heroes-of-might-and-magic-fans-finally-eat-as-spiritual-successor-songs-of-conquest-leaves-its-2-year-early-access-behind)
- - [Majora’s Mask brought us the coolest swords in The Legend of Zelda](https://www.polygon.com/zelda/24160854/majoras-mask-coolest-swords-legend-of-zelda-fierce-deity)
- - [A Note From Ninja Theory – Senua’s Saga: Hellblade II is Out Now](https://news.xbox.com/en-us/2024/05/21/hellblade-2-launch-blog/)<!-- GAME:END -->
+ - [One Of The Best Video Game Songs Of All Time Just Got Radically Transformed](https://kotaku.com/kingdom-hearts-utada-hikaru-simple-clean-re-recording-1851490877)
+ - [PC user annoyed about Task Manager jumping around gets told how to fix it with one button—by the developer that built the application 30 years ago](https://www.pcgamer.com/software/windows/pc-user-annoyed-about-task-manager-jumping-around-gets-told-how-to-fix-it-with-one-buttonby-the-developer-that-built-the-application-30-years-ago)
+ - [Why I still hold onto my Phantom Blade in World of Warcraft](https://www.polygon.com/24160618/cool-sword-day-phantom-blade-world-of-warcraft)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
