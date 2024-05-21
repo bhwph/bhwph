@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Vitesse, which offers a treasury and payment platform for insurance companies, raised a $93M Series C led by KKR, after a $26M Series B in 2022 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240521/p9#a240521p9)
- - [SEC filing: Chicago-based Tempus, which uses AI to process medical data, files for an IPO, reporting a $266M net loss on $532M revenue in 2023 and 2,300 staff &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/240521/p8#a240521p8)
- - [Google plans to spend ~&amp;euro;1B to expand its data center in Finland, and will reuse heat from the data center to warm nearby homes, schools, and public buildings &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240521/p7#a240521p7)<!-- TECH:END -->
+ - [What to Know About IP Ratings Before Your Phone Gets Wet](https://www.wired.com/story/ip-ratings-explained/)
+ - [Microsoft&#39;s Copilot+ PCs event was compelling, the culmination of years of work, and Windows feels revitalized while its hardware is meaningfully differentiated &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240521/p17#a240521p17)
+ - [Folding iPhone may repair display scratches &amp; dents by itself](https://appleinsider.com/articles/20/10/01/future-folding-iphones-may-repair-scratches-or-dents-in-the-display-by-themselves?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
