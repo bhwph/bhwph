@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
- - 😝 [Enormous Plasma Wall spotted on the Sun](http://9gag.com/gag/azxLDxj)
- - 👉 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)<!-- MEMES:END -->
+ - 6️⃣ [How to stop Google listening to your conversation](http://9gag.com/gag/aMVbN3V)
+ - 😝 [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)
+ - 👉 [This restaurant covered up the `No Tip` option with a sticker to force tipping](http://9gag.com/gag/aD2wOXG)<!-- MEMES:END -->
 
 --- 
 
