@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Insurance scam](http://9gag.com/gag/aByQvwA)
- - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - 👉 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)<!-- MEMES:END -->
+ - 6️⃣ [Should I give my seat to a women?](http://9gag.com/gag/aMVbWLW)
+ - 😝 [Insurance scam](http://9gag.com/gag/aByQvwA)
+ - 👉 [Men can have an entire conversation with 1 nod](http://9gag.com/gag/aPAy1xQ)<!-- MEMES:END -->
 
 --- 
 
