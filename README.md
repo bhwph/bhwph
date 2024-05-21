@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s the eight-inch Snapdragon PC for your Windows on Arm experiments](https://www.theverge.com/2024/5/21/24158603/qualcomm-windows-snapdragon-dev-kit-x-elite)
- - [How does the Microsoft Surface Laptop stack up to the MacBook Air?](https://www.theverge.com/24161123/microsoft-surface-vs-macbook-air-comparison)
- - [A live stream of Microsoft&#39;s Build 2024 keynote &lpar;Microsoft Developer on YouTube&rpar;](http://www.techmeme.com/240521/p26#a240521p26)<!-- TECH:END -->
+ - [Microsoft is bringing ‘Windows Volumetric Apps’ to Meta Quest headsets](https://www.theverge.com/2024/5/21/24161817/microsoft-windows-volumetric-apps-meta-quest-api)
+ - [Elon Musk’s xAI is working on making Grok multimodal](https://www.theverge.com/2024/5/21/24161764/elon-musk-xai-grok-multimodal-ai)
+ - [Anthropic researchers detail their attempts to peer inside the &quot;black box&quot; of LLMs, to find associations for a given prompt, which has largely been a mystery &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240521/p32#a240521p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
