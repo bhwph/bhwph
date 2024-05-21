@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Senua&#39;s Saga: Hellblade 2 exposes an uncomfortable truth about upscalers—it&#39;s all about what sort of compromises you&#39;re prepared to make to image quality](https://www.pcgamer.com/hardware/senuas-saga-hellblade-2-exposes-an-uncomfortable-truth-about-upscalersits-all-about-what-sort-of-compromises-youre-prepared-to-make-to-image-quality)
- - [All Hiddenfolk puzzle solutions and stone ball locations in Hellblade 2](https://www.polygon.com/guides/24161019/hellblade-2-hiddenfolk-puzzle-solutions-stone-ball-locations)
- - [Draugar settlement rune puzzle solution in Hellblade 2](https://www.polygon.com/guides/24160714/hellblade-2-draugar-settlement-rune-puzzle-solution)<!-- GAME:END -->
+ - [All the big laptop makers are embracing Qualcomm&#39;s Snapdragon X, here are all the &#39;PC reborn&#39; models available for pre-order now](https://www.pcgamer.com/hardware/processors/all-the-big-laptop-makers-are-embracing-qualcomms-snapdragon-x-here-are-all-the-pc-reborn-models-available-for-pre-order-now)
+ - [The freeform TTRPG Sword Loser gives adults a terrific excuse to play like kids again](https://www.polygon.com/tabletop-games/24160953/best-drawing-ttrpg-sword-loser-adult-art-therapy)
+ - [Happy Cool Sword Day](https://www.polygon.com/24158464/cool-sword-day-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
