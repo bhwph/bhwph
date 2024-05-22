@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Men these days...](http://9gag.com/gag/aD2wLdK)
- - 😝 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
- - 👉 [Diversity Biryani.....](http://9gag.com/gag/aO8ynQy)<!-- MEMES:END -->
+ - 6️⃣ [Oh no... Sucks to be them right now...](http://9gag.com/gag/aoyZGng)
+ - 😝 [Based Korea](http://9gag.com/gag/a5QN90L)
+ - 👉 [Men these days...](http://9gag.com/gag/aD2wLdK)<!-- MEMES:END -->
 
 --- 
 
