@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No wonder the birth rate are so low](http://9gag.com/gag/amoLbyo)
+ - 6️⃣ [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
  - 😝 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
- - 👉 [Tommy Cooper in his last show. notice the people laughing at the end because they thought it was part of the act but the comedian legend was out... RIP.](http://9gag.com/gag/an7XVr0)<!-- MEMES:END -->
+ - 👉 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)<!-- MEMES:END -->
 
 --- 
 
