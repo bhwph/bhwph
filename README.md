@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new ‘Add to Chromebook’ badge makes web apps easier to find and install](https://www.theverge.com/2024/5/21/24161956/google-add-to-chromebook-badge-button-install-progressive-web-apps-pwa)
- - [Microsoft will soon let businesses build custom Copilot AI agents to automate tasks, and unveils Team Copilot to help with tasks in Teams, Loop, and Planner &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240521/p37#a240521p37)
- - [Apple wants all of TSMC&#39;s 2nm chips, so they sent Jeff Williams in secret](https://appleinsider.com/articles/24/05/20/apple-wants-all-of-tsmcs-2nm-chips-so-they-sent-jeff-williams-in-secret?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Paperless Post, a New York-based software company for sending online invitations and events that launched in 2009 and has sent ~650M invitations &lpar;Christopher Barnard/New York Times&rpar;](http://www.techmeme.com/240521/p39#a240521p39)
+ - [Celebrate Memorial Day With 30% Off the Leesa Sapira Chill Mattress     - CNET](https://www.cnet.com/deals/leesa-sapira-chill-hybrid-memorial-day-deal/#ftag=CAD590a51e)
+ - [Report reveals Samsung’s chip choice for its next-gen foldables, and we’re thrilled](https://www.androidauthority.com/galaxy-z-flip-6-snapdragon-3445354/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
