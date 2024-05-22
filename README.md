@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to stop Google listening to your conversation](http://9gag.com/gag/aMVbN3V)
- - 😝 [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)
- - 👉 [This restaurant covered up the `No Tip` option with a sticker to force tipping](http://9gag.com/gag/aD2wOXG)<!-- MEMES:END -->
+ - 6️⃣ [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
+ - 😝 [Women are complicated](http://9gag.com/gag/amoLb4j)
+ - 👉 [Insurance scam](http://9gag.com/gag/aByQvwA)<!-- MEMES:END -->
 
 --- 
 
