@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation into online ticketing service Eventbrite found 7.4K+ illicit listings, including illegal drug sales, some of which its algorithm recommended &lpar;Wired&rpar;](http://www.techmeme.com/240522/p6#a240522p6)
- - [The Galaxy Ring could cost as much as an Oura and come with a subscription too](https://www.androidauthority.com/samsung-galaxy-ring-subscription-price-leak-3445434/)
- - [Samsung Galaxy Z Flip 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/galaxy-z-flip-6-3384568/)<!-- TECH:END -->
+ - [New Beats Pill speaker rumbles closer after appearance in FCC database](https://appleinsider.com/articles/24/05/22/new-beats-pill-speaker-rumbles-closer-after-appearance-in-fcc-database?utm_medium=rss)
+ - [A review of privacy-focused /e/OS, a fully &quot;deGoogled&quot; OS based on the Android Open Source Project, that combines Micro G, to handle Google APIs, and LineageOS &lpar;Scott Gilbertson/Wired&rpar;](http://www.techmeme.com/240522/p8#a240522p8)
+ - [A Far-Right Indian News Site Posts Racist Conspiracies. US Tech Firms Are Profiting From It](https://www.wired.com/story/india-opindia-google-facebook-advertising/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
