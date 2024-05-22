@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is ignoring Congo&#39;s accusations over conflict materials, say lawyers [u]](https://appleinsider.com/articles/24/05/22/apple-is-ignoring-congos-accusations-over-conflict-materials-say-lawyers?utm_medium=rss)
- - [How to Clear Your Browser&#39;s Cache, and Why You Should](https://www.wired.com/story/how-to-clear-your-browsers-cache/)
- - [&#39;Evil&#39; Season 4: What to Remember Before Streaming the Final Season     - CNET](https://www.cnet.com/tech/services-and-software/evil-season-4-what-to-remember-before-streaming-the-final-season/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Panasonic wants to play Fujifilm’s filter game with the new Lumix S9](https://www.theverge.com/24161722/panasonic-lumix-s9-full-frame-camera)
+ - [Teslas Can Still Be Stolen With a Cheap Radio Hack—Despite New Keyless Tech](https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/)
+ - [Link-in-bio startup Linktree passes 50M users, up from 41M in December 2023 and 47M+ in March 2024, and launches a beta of its social commerce product &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240522/p15#a240522p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
