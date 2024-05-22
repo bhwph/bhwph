@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
- - 😝 [Women are complicated](http://9gag.com/gag/amoLb4j)
- - 👉 [Insurance scam](http://9gag.com/gag/aByQvwA)<!-- MEMES:END -->
+ - 6️⃣ [Nice guys finish last](http://9gag.com/gag/aYQpRYV)
+ - 😝 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
+ - 👉 [The average woman these days](http://9gag.com/gag/aD2wP4O)<!-- MEMES:END -->
 
 --- 
 
