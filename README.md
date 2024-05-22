@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh no... Sucks to be them right now...](http://9gag.com/gag/aoyZGng)
- - 😝 [Based Korea](http://9gag.com/gag/a5QN90L)
- - 👉 [Men these days...](http://9gag.com/gag/aD2wLdK)<!-- MEMES:END -->
+ - 6️⃣ [Insurance scam](http://9gag.com/gag/aByQvwA)
+ - 😝 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
+ - 👉 [Living her best life...](http://9gag.com/gag/aQzpB48)<!-- MEMES:END -->
 
 --- 
 
