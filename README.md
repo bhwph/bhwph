@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Pinecone and other startups use vector databases and retrieval-augmented generation, or RAG, to help businesses link their private data with LLMs &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240522/p4#a240522p4)
- - [Neuralink’s First User Is ‘Constantly Multitasking’ With His Brain Implant](https://www.wired.com/story/neuralink-first-patient-interview-noland-arbaugh-elon-musk/)
- - [A Far-Right Indian News Site Posts Racist Conspiracies. US Tech Companies Keep Platforming It](https://www.wired.com/story/india-opindia-google-facebook-advertising/)<!-- TECH:END -->
+ - [An investigation into online ticketing service Eventbrite found 7.4K+ illicit listings, including illegal drug sales, some of which its algorithm recommended &lpar;Wired&rpar;](http://www.techmeme.com/240522/p6#a240522p6)
+ - [The Galaxy Ring could cost as much as an Oura and come with a subscription too](https://www.androidauthority.com/samsung-galaxy-ring-subscription-price-leak-3445434/)
+ - [Samsung Galaxy Z Flip 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/galaxy-z-flip-6-3384568/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
