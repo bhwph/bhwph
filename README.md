@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The average woman these days](http://9gag.com/gag/aD2wP4O)
- - 😝 [Just a conspiracy](http://9gag.com/gag/a34dxP8)
- - 👉 [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)<!-- MEMES:END -->
+ - 6️⃣ [Men these days...](http://9gag.com/gag/aD2wLdK)
+ - 😝 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
+ - 👉 [Diversity Biryani.....](http://9gag.com/gag/aO8ynQy)<!-- MEMES:END -->
 
 --- 
 
