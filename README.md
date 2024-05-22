@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The average woman these days](http://9gag.com/gag/aD2wP4O)
- - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
- - 👉 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)<!-- MEMES:END -->
+ - 6️⃣ [No wonder the birth rate are so low](http://9gag.com/gag/amoLbyo)
+ - 😝 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
+ - 👉 [Tommy Cooper in his last show. notice the people laughing at the end because they thought it was part of the act but the comedian legend was out... RIP.](http://9gag.com/gag/an7XVr0)<!-- MEMES:END -->
 
 --- 
 
