@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Logic](http://9gag.com/gag/avyZD3q)
- - 😝 [How to stop Google listening to your conversation](http://9gag.com/gag/aMVbN3V)
- - 👉 [What a cool dad](http://9gag.com/gag/amoLby9)<!-- MEMES:END -->
+ - 6️⃣ [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
+ - 😝 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
+ - 👉 [Typical](http://9gag.com/gag/aW40N84)<!-- MEMES:END -->
 
 --- 
 
