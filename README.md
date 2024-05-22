@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice guys finish last](http://9gag.com/gag/aYQpRYV)
- - 😝 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
- - 👉 [The average woman these days](http://9gag.com/gag/aD2wP4O)<!-- MEMES:END -->
+ - 6️⃣ [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)
+ - 😝 [Obviously these arguments require you to take your clothes off... Right?](http://9gag.com/gag/a7oKpjq)
+ - 👉 [There is no red in this picture; your brain is filling in the red color. The picture is made up entirely of light blue, black, and white.](http://9gag.com/gag/agm0jR1)<!-- MEMES:END -->
 
 --- 
 
