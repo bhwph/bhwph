@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft&#39;s auto AI upscaler will only be available on Snapdragon-powered Copilot+ AI PCs to begin with](https://www.pcgamer.com/hardware/microsofts-auto-ai-upscaler-will-only-be-available-on-snapdragon-powered-copilot-ai-pcs-to-begin-with)
- - [When does Fortnite downtime end and Chapter 5 Season 3 release?](https://www.polygon.com/fortnite-guide/2024/5/22/24161733/chapter-5-season-3-release-time-start-c5s3-wrecked)
- - [3DMark Steel Nomad is now available to give your GPU an inferiority complex](https://www.pcgamer.com/hardware/graphics-cards/3dmark-steel-nomad-is-now-available-to-give-your-gpu-an-inferiority-complex)<!-- GAME:END -->
+ - [Senua’s Saga: Hellblade II – Our Full Four-Part Feature Series](https://news.xbox.com/en-us/2024/05/22/senuas-saga-hellblade-ii-our-full-four-part-feature-series/)
+ - [Where to find the Earthen Ring quartermaster in WoW Cataclysm](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-cataclysm-earthen-ring-quartermaster)
+ - [A USB stick that will hold your precious data for 200 years, what&#39;s the catch? Er... it only holds 8kB](https://www.pcgamer.com/hardware/storage/a-usb-stick-that-will-hold-your-precious-data-for-200-years-whats-the-catch-er-it-only-holds-8kb)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
