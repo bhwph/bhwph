@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Senua’s Saga: Hellblade II – Our Full Four-Part Feature Series](https://news.xbox.com/en-us/2024/05/22/senuas-saga-hellblade-ii-our-full-four-part-feature-series/)
- - [Where to find the Earthen Ring quartermaster in WoW Cataclysm](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-cataclysm-earthen-ring-quartermaster)
- - [A USB stick that will hold your precious data for 200 years, what&#39;s the catch? Er... it only holds 8kB](https://www.pcgamer.com/hardware/storage/a-usb-stick-that-will-hold-your-precious-data-for-200-years-whats-the-catch-er-it-only-holds-8kb)<!-- GAME:END -->
+ - [Helldivers 2 developer Arrowhead Games has a new CEO—with Johan Pilstedt taking on a different role to direct &#39;100% of my focus [to] the game and community&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-developer-arrowhead-games-has-a-new-ceowith-johan-pilstedt-taking-on-a-different-role-to-direct-100-of-my-focus-to-the-game-and-community)
+ - [Call of Duty&#39;s Gundam crossover has fans frothing at the mouth, but looks aren&#39;t everything](https://www.pcgamer.com/games/call-of-duty/call-of-dutys-gundam-crossover-has-fans-frothing-at-the-mouth-but-looks-arent-everything)
+ - [IF isn’t a cute fantasy for kids, it’s a poisonous fantasy for adults](https://www.polygon.com/24161804/if-ending-explained-john-krasinski-nostalgia-bait)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
