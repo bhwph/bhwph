@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad&#39;s Remaining Players Rewarded With Ugly Arkham Skins](https://kotaku.com/suicide-squad-bad-skins-joker-titan-shop-season-1-patch-1851494445)
- - [Leaked video of alleged Valve hero shooter Deadlock looks kinda like BioShock Infinite](https://www.pcgamer.com/games/third-person-shooter/deadlock-video-leak)
- - [The Next X-Men Game Should Go Full Persona](https://kotaku.com/next-x-men-game-should-be-like-persona-1851494543)<!-- GAME:END -->
+ - [One Of The Best Cowboy Games Ever Made Is Only $1.50 On Steam](https://kotaku.com/call-of-juarez-gunslinger-fps-sale-steam-pc-red-dead-2-1851495121)
+ - [After only 4 months, Blizzard has axed one of Overwatch 2&#39;s last PvE modes because it &#39;hasn&#39;t resonated with players in the ways that we hoped&#39;](https://www.pcgamer.com/games/fps/after-only-4-months-blizzard-has-axed-one-of-overwatch-2s-last-pve-modes-because-it-hasnt-resonated-with-players-in-the-ways-that-we-hoped)
+ - [Helldivers 2 boss wants to make Arrowhead &#39;the next FromSoftware or Blizzard&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-boss-wants-to-make-arrowhead-the-next-fromsoftware-or-blizzard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
