@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can blame astrology for Google naming its AI Gemini](https://www.androidauthority.com/how-gemini-got-its-name-3445531/)
- - [Shazam can now run in the background with Live Activities](https://appleinsider.com/articles/24/05/22/shazam-can-now-run-in-the-background-with-live-activities?utm_medium=rss)
- - [Old iPads are a staple in US homes, long after they&#39;ve gone obsolete](https://appleinsider.com/articles/24/05/22/old-ipads-are-a-staple-in-us-homes-long-after-theyve-gone-obsolete?utm_medium=rss)<!-- TECH:END -->
+ - [Doc: WhatsApp staff warned of traffic analysis flaws where attackers may reveal who is in a conversation; Meta calls them theoretical and not unique to WhatsApp &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/240522/p21#a240522p21)
+ - [Marvel’s Vision-focused Disney Plus series is coming in 2026](https://www.theverge.com/2024/5/22/24162626/vision-disney-plus-terry-matalas-wandavision)
+ - [Meta’s Ray-Ban glasses will post Instagram stories for you](https://www.theverge.com/2024/5/22/24162590/meta-ray-ban-glasses-instagram-stories-hands-free)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
