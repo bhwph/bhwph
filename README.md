@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
- - 😝 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
- - 👉 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)<!-- MEMES:END -->
+ - 6️⃣ [The average woman these days](http://9gag.com/gag/aD2wP4O)
+ - 😝 [Just a conspiracy](http://9gag.com/gag/a34dxP8)
+ - 👉 [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)<!-- MEMES:END -->
 
 --- 
 
