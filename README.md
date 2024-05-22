@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the vault puzzles in Destiny 2’s ‘Zero Hour’](https://www.polygon.com/destiny-2-guide-walkthrough/24160970/vault-puzzle-vaulted-obstacles-code-order)
- - [Where to find the switches in Destiny 2’s ‘Outbreak Refined’ quest](https://www.polygon.com/destiny-2-guide-walkthrough/24160969/outbreak-refined-switch-locations-legend-difficulty-path)
- - [How to finish ‘Zero Hour’ and get Outbreak Perfected in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24155578/zero-hour-walkthrough-outbreak-perfected-exotic-pattern)<!-- GAME:END -->
+ - [All Bardarvik sea giant rune puzzle solutions in Hellblade 2](https://www.polygon.com/guides/24162482/hellblade-2-bardarvik-sea-giant-rune-puzzle-solutions)
+ - [Yolk Heroes: A Long Tamago won’t take a ton of your time — but it’s worth every minute](https://www.polygon.com/24161871/yolk-heroes-a-long-tamago-pet-sim-idle-game)
+ - [You are cordially invited to ruin our esports career](https://www.polygon.com/2024/5/13/24153848/polygon-livestream-the-sims-4-charlie-mcdonnell)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
