@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
- - 😝 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
- - 👉 [Typical](http://9gag.com/gag/aW40N84)<!-- MEMES:END -->
+ - 6️⃣ [The average woman these days](http://9gag.com/gag/aD2wP4O)
+ - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
+ - 👉 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)<!-- MEMES:END -->
 
 --- 
 
