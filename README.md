@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 developer Arrowhead Games has a new CEO—with Johan Pilstedt taking on a different role to direct &#39;100% of my focus [to] the game and community&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-developer-arrowhead-games-has-a-new-ceowith-johan-pilstedt-taking-on-a-different-role-to-direct-100-of-my-focus-to-the-game-and-community)
- - [Call of Duty&#39;s Gundam crossover has fans frothing at the mouth, but looks aren&#39;t everything](https://www.pcgamer.com/games/call-of-duty/call-of-dutys-gundam-crossover-has-fans-frothing-at-the-mouth-but-looks-arent-everything)
- - [IF isn’t a cute fantasy for kids, it’s a poisonous fantasy for adults](https://www.polygon.com/24161804/if-ending-explained-john-krasinski-nostalgia-bait)<!-- GAME:END -->
+ - [How to complete the vault puzzles in Destiny 2’s ‘Zero Hour’](https://www.polygon.com/destiny-2-guide-walkthrough/24160970/vault-puzzle-vaulted-obstacles-code-order)
+ - [Where to find the switches in Destiny 2’s ‘Outbreak Refined’ quest](https://www.polygon.com/destiny-2-guide-walkthrough/24160969/outbreak-refined-switch-locations-legend-difficulty-path)
+ - [How to finish ‘Zero Hour’ and get Outbreak Perfected in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24155578/zero-hour-walkthrough-outbreak-perfected-exotic-pattern)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
