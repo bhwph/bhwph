@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Panasonic wants to play Fujifilm’s filter game with the new Lumix S9](https://www.theverge.com/24161722/panasonic-lumix-s9-full-frame-camera)
- - [Teslas Can Still Be Stolen With a Cheap Radio Hack—Despite New Keyless Tech](https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/)
- - [Link-in-bio startup Linktree passes 50M users, up from 41M in December 2023 and 47M+ in March 2024, and launches a beta of its social commerce product &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240522/p15#a240522p15)<!-- TECH:END -->
+ - [You can blame astrology for Google naming its AI Gemini](https://www.androidauthority.com/how-gemini-got-its-name-3445531/)
+ - [Shazam can now run in the background with Live Activities](https://appleinsider.com/articles/24/05/22/shazam-can-now-run-in-the-background-with-live-activities?utm_medium=rss)
+ - [Old iPads are a staple in US homes, long after they&#39;ve gone obsolete](https://appleinsider.com/articles/24/05/22/old-ipads-are-a-staple-in-us-homes-long-after-theyve-gone-obsolete?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
