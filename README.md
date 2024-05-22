@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Beats Pill speaker rumbles closer after appearance in FCC database](https://appleinsider.com/articles/24/05/22/new-beats-pill-speaker-rumbles-closer-after-appearance-in-fcc-database?utm_medium=rss)
- - [A review of privacy-focused /e/OS, a fully &quot;deGoogled&quot; OS based on the Android Open Source Project, that combines Micro G, to handle Google APIs, and LineageOS &lpar;Scott Gilbertson/Wired&rpar;](http://www.techmeme.com/240522/p8#a240522p8)
- - [A Far-Right Indian News Site Posts Racist Conspiracies. US Tech Firms Are Profiting From It](https://www.wired.com/story/india-opindia-google-facebook-advertising/)<!-- TECH:END -->
+ - [Apple is ignoring Congo&#39;s accusations over conflict materials, say lawyers [u]](https://appleinsider.com/articles/24/05/22/apple-is-ignoring-congos-accusations-over-conflict-materials-say-lawyers?utm_medium=rss)
+ - [How to Clear Your Browser&#39;s Cache, and Why You Should](https://www.wired.com/story/how-to-clear-your-browsers-cache/)
+ - [&#39;Evil&#39; Season 4: What to Remember Before Streaming the Final Season     - CNET](https://www.cnet.com/tech/services-and-software/evil-season-4-what-to-remember-before-streaming-the-final-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
