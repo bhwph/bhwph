@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Humane is looking for a buyer after the AI Pin’s underwhelming debut](https://www.theverge.com/2024/5/21/24162185/humane-seeking-acquisition-rumor-ai-pin)
- - [The UK ICO is &quot;making enquiries with Microsoft&quot; over the company&#39;s Recall feature, which some privacy campaigners have called a potential &quot;privacy nightmare&quot; &lpar;Imran Rahman-Jones/BBC&rpar;](http://www.techmeme.com/240521/p42#a240521p42)
- - [WitnessAI, which intercepts employees&#39; use of custom generative AI models and applies safeguards, raised a $27.5M Series A co-led by GV and Ballistic Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240521/p41#a240521p41)<!-- TECH:END -->
+ - [Toulouse-based OneStock, which provides a cloud-native order management system to retailers, raised $72M from Summit Partners for its continued global expansion &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240521/p45#a240521p45)
+ - [Apple&#39;s 16-inch MacBook Pro drops to all-time low price of $1,798](https://appleinsider.com/articles/24/05/22/apples-16-inch-macbook-pro-drops-to-all-time-low-price-of-1798?utm_medium=rss)
+ - [Adobe Acrobat may soon use on-device AI to summarize documents on Android](https://www.androidauthority.com/adobe-acrobat-ai-summaries-3445302/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
