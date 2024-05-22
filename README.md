@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toulouse-based OneStock, which provides a cloud-native order management system to retailers, raised $72M from Summit Partners for its continued global expansion &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240521/p45#a240521p45)
- - [Apple&#39;s 16-inch MacBook Pro drops to all-time low price of $1,798](https://appleinsider.com/articles/24/05/22/apples-16-inch-macbook-pro-drops-to-all-time-low-price-of-1798?utm_medium=rss)
- - [Adobe Acrobat may soon use on-device AI to summarize documents on Android](https://www.androidauthority.com/adobe-acrobat-ai-summaries-3445302/)<!-- TECH:END -->
+ - [How Pinecone and other startups use vector databases and retrieval-augmented generation, or RAG, to help businesses link their private data with LLMs &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240522/p4#a240522p4)
+ - [Neuralink’s First User Is ‘Constantly Multitasking’ With His Brain Implant](https://www.wired.com/story/neuralink-first-patient-interview-noland-arbaugh-elon-musk/)
+ - [A Far-Right Indian News Site Posts Racist Conspiracies. US Tech Companies Keep Platforming It](https://www.wired.com/story/india-opindia-google-facebook-advertising/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
