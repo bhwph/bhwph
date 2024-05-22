@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)
- - 😝 [Obviously these arguments require you to take your clothes off... Right?](http://9gag.com/gag/a7oKpjq)
- - 👉 [There is no red in this picture; your brain is filling in the red color. The picture is made up entirely of light blue, black, and white.](http://9gag.com/gag/agm0jR1)<!-- MEMES:END -->
+ - 6️⃣ [Logic](http://9gag.com/gag/avyZD3q)
+ - 😝 [How to stop Google listening to your conversation](http://9gag.com/gag/aMVbN3V)
+ - 👉 [What a cool dad](http://9gag.com/gag/amoLby9)<!-- MEMES:END -->
 
 --- 
 
