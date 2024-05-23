@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online update for the week of May 23](https://www.polygon.com/gta-online-guides/2024/5/23/24163344/may-23-weekly-update-events-dewbauchee)
- - [Space Marine 2 Might End Up Being The Best Warhammer Game Ever](https://kotaku.com/warhammer-w40k-space-marine-2-pvp-co-op-reveal-trailer-1851497076)
- - [The 5 biggest announcements from Warhammer Skulls 2024](https://www.polygon.com/24162579/warhammer-skulls-2024-games-announcements-rogue-trader-space-marine)<!-- GAME:END -->
+ - [&#39;I&#39;m not a big fan of survival games,&#39; says director of 2024&#39;s best survival game](https://www.pcgamer.com/games/survival-crafting/abiotic-factor-interview-survival-immersive-sim)
+ - [Relic Entertainment is &#39;returning to its roots as an independent creative studio,&#39; but it&#39;s also owned by a global investment firm now](https://www.pcgamer.com/gaming-industry/relic-entertainment-is-returning-to-its-roots-as-an-independent-creative-studio-but-its-also-owned-by-a-global-investment-firm-now)
+ - [Keith David speaks his first words as Destiny 2&#39;s Commander Zavala: &#39;I used to think I&#39;d give anything to bring him back&#39;](https://www.pcgamer.com/games/fps/keith-david-speaks-his-first-words-as-destiny-2s-commander-zavala-i-used-to-think-id-give-anything-to-bring-him-back)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
