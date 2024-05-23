@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The camping of horrors](http://9gag.com/gag/amoLwyV)
- - 😝 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
- - 👉 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)<!-- MEMES:END -->
+ - 6️⃣ [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
+ - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
+ - 👉 [You go first!!!](http://9gag.com/gag/aqyZOzR)<!-- MEMES:END -->
 
 --- 
 
