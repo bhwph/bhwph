@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Praktika, which lets users create personalized AI-powered avatars to make learning a language feel more natural, raised a $35.5M Series A led by Blossom Capital &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240522/p37#a240522p37)
- - [Truecaller partners with Microsoft&#39;s Azure AI Speech to let its AI Assistant users create an AI version of their voice to answer calls based on a recorded clip &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240522/p36#a240522p36)
- - [Google Pay now lets users see their card benefits and perks before selecting a card, use BNPL on more sites, and fill in card details through biometrics or PIN &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240522/p35#a240522p35)<!-- TECH:END -->
+ - [Source: the US DOJ and state AGs plan to sue Live Nation on Thursday for illegally abusing its live ticketing monopoly through its 2010 Ticketmaster acquisition &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240523/p1#a240523p1)
+ - [T-Mobile confirms price hike for legacy plans: Here’s everything you need to know](https://www.androidauthority.com/t-mobile-price-increase-older-plans-3445515/)
+ - [LA-based Aerodome, which uses autonomous drones to help first responders get a view of problems like crimes and fires, raised a $21.5M Series A led by CRV &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240522/p39#a240522p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
