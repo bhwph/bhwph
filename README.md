@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google details Umoja, the first fiber optic cable to directly connect Africa with Australia, starting in Kenya and running via the DRC, Zambia, and South Africa &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240523/p22#a240523p22)
- - [POCO F6, F6 Pro launched: Which one is actually the Pro phone?](https://www.androidauthority.com/poco-f6-series-3445428/)
- - [Linus Tech Tips, accused in August 2023 of theft, ethical lapses, and sexual harassment, says an outside investigation found the claims were &quot;largely unfounded&quot; &lpar;Jeremy Gan/Dexerto&rpar;](http://www.techmeme.com/240523/p21#a240523p21)<!-- TECH:END -->
+ - [Affinity update adds QR code generator, variable font support](https://appleinsider.com/articles/24/05/23/affinity-update-adds-qr-code-generator-variable-font-support?utm_medium=rss)
+ - [17 Best Apple Watch Accessories &lpar;2024&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
+ - [Google Pixel 8A review: the sensible choice](https://www.theverge.com/24162073/google-pixel-8a-review-specs-price-camera)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
