@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [At least I&#39;m not a virgin..](http://9gag.com/gag/aO8yOwr)
- - 😝 [6 series that made me binge watch and exceeded all my expectations.](http://9gag.com/gag/an7XWm0)
- - 👉 [You go first!!!](http://9gag.com/gag/aqyZOzR)<!-- MEMES:END -->
+ - 6️⃣ [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
+ - 👉 [6 series that made me binge watch and exceeded all my expectations.](http://9gag.com/gag/an7XWm0)<!-- MEMES:END -->
 
 --- 
 
