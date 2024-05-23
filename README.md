@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US House passes the Financial Innovation and Technology for the 21st Century Act, or FIT21, which would create a regulatory framework for digital assets &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/240522/p30#a240522p30)
- - [Truecaller and Microsoft will let users make an AI voice to answer calls](https://www.theverge.com/2024/5/22/24162753/truecaller-ai-microsoft-azure-voice-assistant)
- - [The best Memorial Day deals you can already get](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)<!-- TECH:END -->
+ - [Documents and sources: OpenAI hired an actress to create ChatGPT&#39;s Sky voice months before Sam Altman contacted Scarlett Johansson &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/240522/p34#a240522p34)
+ - [Steve Kramer, the political consultant who admitted to commissioning the deepfake robocall of Biden, has been indicted in New Hampshire and faces five counts &lpar;Alex Seitz-Wald/NBC News&rpar;](http://www.techmeme.com/240522/p33#a240522p33)
+ - [Leaked OpenAI docs show aggressive tactics toward ex-employees and contradict leadership&#39;s comments about being unaware of provisions about equity cancellation &lpar;Kelsey Piper/Vox&rpar;](http://www.techmeme.com/240522/p32#a240522p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
