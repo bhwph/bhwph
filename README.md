@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Turns out that all 3 of them are racist,dick sucking 9gaggers. New job is going to be fun.](http://9gag.com/gag/aXPEz7g)
+ - 6️⃣ [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
  - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 👉 [Men these days...](http://9gag.com/gag/aD2wLdK)<!-- MEMES:END -->
+ - 👉 [Games have been removed from your library. For an unlisted reason. Excuse me wtf EA?](http://9gag.com/gag/aGyVroZ)<!-- MEMES:END -->
 
 --- 
 
