@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 👉 [6 series that made me binge watch and exceeded all my expectations.](http://9gag.com/gag/an7XWm0)<!-- MEMES:END -->
+ - 6️⃣ [Living her best life...](http://9gag.com/gag/aQzpB48)
+ - 😝 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
+ - 👉 [You go first!!!](http://9gag.com/gag/aqyZOzR)<!-- MEMES:END -->
 
 --- 
 
