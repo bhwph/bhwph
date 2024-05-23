@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wuthering Waves codes and how to redeem them](https://www.polygon.com/guides/24163081/wuthering-waves-codes-how-to-redeem-redemption)
- - [PC Gamer magazine&#39;s new issue is on sale now: Destiny 2: The Final Shape](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-destiny-2-the-final-shape)
- - [Nvidia shows no sign of slowing down as it rakes in more than $26 billion in a single quarter thanks to data center demand](https://www.pcgamer.com/software/ai/nvidia-shows-no-sign-of-slowing-down-as-it-rakes-in-more-than-dollar26-billion-in-a-single-quarter-thanks-to-data-center-demand)<!-- GAME:END -->
+ - [Destiny 2 Edge Transit god roll guide: Best perks, barrels, and magazines](https://www.pcgamer.com/games/fps/destiny-2-edge-transit-god-roll)
+ - [Behind its identikit theme and terrible name, XDefiant is the perfect antidote to those tired of Call of Duty’s modern-day bloat](https://www.pcgamer.com/games/fps/behind-its-identikit-theme-and-terrible-name-xdefiant-is-the-perfect-antidote-to-those-tired-of-call-of-dutys-modern-day-bloat)
+ - [The internet is disappearing, with a quarter of all webpages from 2013 to 2023 going the way of the dodo](https://www.pcgamer.com/hardware/the-internet-is-disappearing-with-a-quarter-of-all-webpages-from-2013-to-2023-going-the-way-of-the-dodo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
