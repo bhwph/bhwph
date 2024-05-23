@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Men these days...](http://9gag.com/gag/aD2wLdK)
- - 😝 [Gotta save em all](http://9gag.com/gag/aqyZOyY)
- - 👉 [I couldn&#39;t find a non caption video without the music on, but I agree with her.](http://9gag.com/gag/aGyVN5n)<!-- MEMES:END -->
+ - 6️⃣ [At least I&#39;m not a virgin..](http://9gag.com/gag/aO8yOwr)
+ - 😝 [6 series that made me binge watch and exceeded all my expectations.](http://9gag.com/gag/an7XWm0)
+ - 👉 [You go first!!!](http://9gag.com/gag/aqyZOzR)<!-- MEMES:END -->
 
 --- 
 
