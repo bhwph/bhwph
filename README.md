@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: the US DOJ and state AGs plan to sue Live Nation on Thursday for illegally abusing its live ticketing monopoly through its 2010 Ticketmaster acquisition &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240523/p1#a240523p1)
- - [T-Mobile confirms price hike for legacy plans: Here’s everything you need to know](https://www.androidauthority.com/t-mobile-price-increase-older-plans-3445515/)
- - [LA-based Aerodome, which uses autonomous drones to help first responders get a view of problems like crimes and fires, raised a $21.5M Series A led by CRV &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240522/p39#a240522p39)<!-- TECH:END -->
+ - [In an interview, Brad Smith says Microsoft&#39;s deal with UAE-based AI firm G42 could eventually involve the transfer of key US chips and AI technology abroad &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240523/p7#a240523p7)
+ - [How social e-commerce app Xiaohongshu has defied China&#39;s tech sector crackdown and boomed through a combination of influencers, AI, and soft marketing tactics &lpar;Bloomberg&rpar;](http://www.techmeme.com/240523/p6#a240523p6)
+ - [A profile of Sachin Dev Duggal, the CEO of Builder.ai, which offers low-code tools and has raised ~$450M, as sources describe staff retention problems and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240523/p5#a240523p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
