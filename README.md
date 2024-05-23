@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Box CEO on how generative AI can turn the mostly unstructured data inside enterprises into valuable knowledge, enabling greater automation of workflows and more &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/240523/p9#a240523p9)
- - [Apple M4 processor: A deep dive into features and performance](https://www.androidauthority.com/apple-m4-processor-features-performance-3445467/)
- - [Heartstopper season 3: Release date, cast, and other rumors](https://www.androidauthority.com/heartstopper-season-3-release-date-3445504/)<!-- TECH:END -->
+ - [Embracer reports FY2022-23 net sales up 12% YoY to ~$3.9B, PC/console games up 7% YoY to ~$1.3B, and mobile up 2% YoY to $551M; its CFO and deputy CEO step down &lpar;James Batchelor/GamesIndustry.biz&rpar;](http://www.techmeme.com/240523/p14#a240523p14)
+ - [Kia EV3 Electric SUV: Range, Price, Specs, Release Date](https://www.wired.com/story/kia-ev3-electric-suv-price-range-specs-release-date/)
+ - [As Nvidia&#39;s business booms, a look at some potential issues: rivals and key customers making their own AI chips, startups struggling to monetize AI, and more &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240523/p13#a240523p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
