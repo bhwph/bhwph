@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
- - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 👉 [Games have been removed from your library. For an unlisted reason. Excuse me wtf EA?](http://9gag.com/gag/aGyVroZ)<!-- MEMES:END -->
+ - 6️⃣ [Do you know who I am?!](http://9gag.com/gag/aYQpBBv)
+ - 😝 [Once upon time there was a dog...](http://9gag.com/gag/a34dDdr)
+ - 👉 [12 of the stupidest people on earth](http://9gag.com/gag/a5QNy9g)<!-- MEMES:END -->
 
 --- 
 
