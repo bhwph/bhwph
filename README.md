@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)
- - 😝 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
- - 👉 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)<!-- MEMES:END -->
+ - 6️⃣ [The camping of horrors](http://9gag.com/gag/amoLwyV)
+ - 😝 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
+ - 👉 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)<!-- MEMES:END -->
 
 --- 
 
