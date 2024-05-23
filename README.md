@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Affinity update adds QR code generator, variable font support](https://appleinsider.com/articles/24/05/23/affinity-update-adds-qr-code-generator-variable-font-support?utm_medium=rss)
- - [17 Best Apple Watch Accessories &lpar;2024&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
- - [Google Pixel 8A review: the sensible choice](https://www.theverge.com/24162073/google-pixel-8a-review-specs-price-camera)<!-- TECH:END -->
+ - [Your guide to this year’s summer video game events](https://www.theverge.com/24159055/summer-gaming-events-xbox-showcase-nintendo-direct)
+ - [An interview with Microsoft&#39;s Windows and Surface head Pavan Davuluri on his vision, Copilot AI, Windows Copilot Runtime, streaming Windows to PCs, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240523/p29#a240523p29)
+ - [A Leak of Biometric Police Data Is a Sign of Things to Come](https://www.wired.com/story/police-face-recognition-biometrics-leak-india/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
