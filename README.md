@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your guide to this year’s summer video game events](https://www.theverge.com/24159055/summer-gaming-events-xbox-showcase-nintendo-direct)
- - [An interview with Microsoft&#39;s Windows and Surface head Pavan Davuluri on his vision, Copilot AI, Windows Copilot Runtime, streaming Windows to PCs, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240523/p29#a240523p29)
- - [A Leak of Biometric Police Data Is a Sign of Things to Come](https://www.wired.com/story/police-face-recognition-biometrics-leak-india/)<!-- TECH:END -->
+ - [Canva tackled digital design — and now the office suite is next](https://www.theverge.com/2024/5/23/24163356/canva-enterprise-announcement-design-platform-redesign)
+ - [The Daylight DC1 is a $799 attempt to build a calmer computer](https://www.theverge.com/2024/5/23/24163225/daylight-dc1-tablet-livepaper)
+ - [Samsung’s Galaxy Buds 3 could be going for an AirPods-like design](https://www.androidauthority.com/galaxy-buds-3-design-leak-3445807/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
