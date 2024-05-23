@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do you know who I am?!](http://9gag.com/gag/aYQpBBv)
- - 😝 [Once upon time there was a dog...](http://9gag.com/gag/a34dDdr)
- - 👉 [12 of the stupidest people on earth](http://9gag.com/gag/a5QNy9g)<!-- MEMES:END -->
+ - 6️⃣ [Men these days...](http://9gag.com/gag/aD2wLdK)
+ - 😝 [Gotta save em all](http://9gag.com/gag/aqyZOyY)
+ - 👉 [I couldn&#39;t find a non caption video without the music on, but I agree with her.](http://9gag.com/gag/aGyVN5n)<!-- MEMES:END -->
 
 --- 
 
