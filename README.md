@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Insurance scam](http://9gag.com/gag/aByQvwA)
- - 😝 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
- - 👉 [Living her best life...](http://9gag.com/gag/aQzpB48)<!-- MEMES:END -->
+ - 6️⃣ [Turns out that all 3 of them are racist,dick sucking 9gaggers. New job is going to be fun.](http://9gag.com/gag/aXPEz7g)
+ - 😝 [I couldn&#39;t find a non caption video without the music on, but I agree with her.](http://9gag.com/gag/aGyVN5n)
+ - 👉 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)<!-- MEMES:END -->
 
 --- 
 
