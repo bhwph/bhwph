@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In co-op Viking survival game Aska you can work smarter, not harder, by making your followers do all your chores](https://www.pcgamer.com/games/survival-crafting/in-co-op-viking-survival-game-aska-you-can-work-smarter-not-harder-by-making-your-followers-do-all-your-chores)
- - [Blizzard confirms it&#39;s working on a 1-5 player &#39;story difficulty&#39; for its big raids in World of Warcraft: The War Within, and it&#39;s honestly about time](https://www.pcgamer.com/games/world-of-warcraft/blizzard-confirms-its-working-on-a-1-5-player-story-difficulty-for-its-big-raids-in-world-of-warcraft-the-war-within-and-its-honestly-about-time)
- - [This Might Be The Worst Thing Stephen Colbert&#39;s Ever Done](https://kotaku.com/skibidi-toilet-joe-biden-colbert-late-show-clip-meme-1851496589)<!-- GAME:END -->
+ - [GTA Online update for the week of May 23](https://www.polygon.com/gta-online-guides/2024/5/23/24163344/may-23-weekly-update-events-dewbauchee)
+ - [Space Marine 2 Might End Up Being The Best Warhammer Game Ever](https://kotaku.com/warhammer-w40k-space-marine-2-pvp-co-op-reveal-trailer-1851497076)
+ - [The 5 biggest announcements from Warhammer Skulls 2024](https://www.polygon.com/24162579/warhammer-skulls-2024-games-announcements-rogue-trader-space-marine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
