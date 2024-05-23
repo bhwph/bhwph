@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Living her best life...](http://9gag.com/gag/aQzpB48)
- - 😝 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
- - 👉 [You go first!!!](http://9gag.com/gag/aqyZOzR)<!-- MEMES:END -->
+ - 6️⃣ [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)
+ - 😝 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
+ - 👉 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)<!-- MEMES:END -->
 
 --- 
 
