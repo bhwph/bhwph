@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an interview, Brad Smith says Microsoft&#39;s deal with UAE-based AI firm G42 could eventually involve the transfer of key US chips and AI technology abroad &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240523/p7#a240523p7)
- - [How social e-commerce app Xiaohongshu has defied China&#39;s tech sector crackdown and boomed through a combination of influencers, AI, and soft marketing tactics &lpar;Bloomberg&rpar;](http://www.techmeme.com/240523/p6#a240523p6)
- - [A profile of Sachin Dev Duggal, the CEO of Builder.ai, which offers low-code tools and has raised ~$450M, as sources describe staff retention problems and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240523/p5#a240523p5)<!-- TECH:END -->
+ - [Box CEO on how generative AI can turn the mostly unstructured data inside enterprises into valuable knowledge, enabling greater automation of workflows and more &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/240523/p9#a240523p9)
+ - [Apple M4 processor: A deep dive into features and performance](https://www.androidauthority.com/apple-m4-processor-features-performance-3445467/)
+ - [Heartstopper season 3: Release date, cast, and other rumors](https://www.androidauthority.com/heartstopper-season-3-release-date-3445504/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
