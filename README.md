@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canva tackled digital design — and now the office suite is next](https://www.theverge.com/2024/5/23/24163356/canva-enterprise-announcement-design-platform-redesign)
- - [The Daylight DC1 is a $799 attempt to build a calmer computer](https://www.theverge.com/2024/5/23/24163225/daylight-dc1-tablet-livepaper)
- - [Samsung’s Galaxy Buds 3 could be going for an AirPods-like design](https://www.androidauthority.com/galaxy-buds-3-design-leak-3445807/)<!-- TECH:END -->
+ - [Gemini can now find, play, and control music from YouTube Music](https://www.androidauthority.com/gemini-youtube-music-extension-3445823/)
+ - [Spotify tells customers that its Car Thing dashboard accessory will stop working on December 9, less than a year after it went on sale, without offering refunds &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240523/p36#a240523p36)
+ - [Say cheese, AI!  WhatsApp is testing an AI-generated profile picture feature](https://www.androidauthority.com/whatsapp-ai-profile-pictures-3445828/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
