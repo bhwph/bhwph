@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Edge Transit god roll guide: Best perks, barrels, and magazines](https://www.pcgamer.com/games/fps/destiny-2-edge-transit-god-roll)
- - [Behind its identikit theme and terrible name, XDefiant is the perfect antidote to those tired of Call of Duty’s modern-day bloat](https://www.pcgamer.com/games/fps/behind-its-identikit-theme-and-terrible-name-xdefiant-is-the-perfect-antidote-to-those-tired-of-call-of-dutys-modern-day-bloat)
- - [The internet is disappearing, with a quarter of all webpages from 2013 to 2023 going the way of the dodo](https://www.pcgamer.com/hardware/the-internet-is-disappearing-with-a-quarter-of-all-webpages-from-2013-to-2023-going-the-way-of-the-dodo)<!-- GAME:END -->
+ - [Manga meets VR when Sushi Ben comes to PS VR2 on May 28](https://blog.playstation.com/2024/05/23/manga-meets-vr-when-sushi-ben-comes-to-ps-vr2-on-may-28/)
+ - [Bridgerton’s love triangle teed up the wrong romance](https://www.polygon.com/24162545/bridgerton-lord-debling-colin-penelope-love-triangle)
+ - [New gacha hotness Wuthering Waves is suffering from some catastrophic launch issues, despite making a big splash on Twitch](https://www.pcgamer.com/games/rpg/new-gacha-hotness-wuthering-waves-is-suffering-from-some-catastrophic-launch-issues-despite-making-a-big-splash-on-twitch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
