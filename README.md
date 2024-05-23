@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Manga meets VR when Sushi Ben comes to PS VR2 on May 28](https://blog.playstation.com/2024/05/23/manga-meets-vr-when-sushi-ben-comes-to-ps-vr2-on-may-28/)
- - [Bridgerton’s love triangle teed up the wrong romance](https://www.polygon.com/24162545/bridgerton-lord-debling-colin-penelope-love-triangle)
- - [New gacha hotness Wuthering Waves is suffering from some catastrophic launch issues, despite making a big splash on Twitch](https://www.pcgamer.com/games/rpg/new-gacha-hotness-wuthering-waves-is-suffering-from-some-catastrophic-launch-issues-despite-making-a-big-splash-on-twitch)<!-- GAME:END -->
+ - [In co-op Viking survival game Aska you can work smarter, not harder, by making your followers do all your chores](https://www.pcgamer.com/games/survival-crafting/in-co-op-viking-survival-game-aska-you-can-work-smarter-not-harder-by-making-your-followers-do-all-your-chores)
+ - [Blizzard confirms it&#39;s working on a 1-5 player &#39;story difficulty&#39; for its big raids in World of Warcraft: The War Within, and it&#39;s honestly about time](https://www.pcgamer.com/games/world-of-warcraft/blizzard-confirms-its-working-on-a-1-5-player-story-difficulty-for-its-big-raids-in-world-of-warcraft-the-war-within-and-its-honestly-about-time)
+ - [This Might Be The Worst Thing Stephen Colbert&#39;s Ever Done](https://kotaku.com/skibidi-toilet-joe-biden-colbert-late-show-clip-meme-1851496589)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
