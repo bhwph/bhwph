@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your next iPhone could be the iPad mini - iPhone 15 vs iPad mini showdown](https://appleinsider.com/articles/24/05/24/your-next-iphone-could-be-the-ipad-mini---iphone-15-vs-ipad-mini-showdown?utm_medium=rss)
- - [Hyundai is ‘doubling down’ on EVs despite sales slowdown, CEO says](https://www.theverge.com/24163520/hyundai-randy-parker-interview-ev-sales-ioniq-sales)
- - [Nvidia CEO Jensen Huang&#39;s 3.5%+ stake in the company grew from $3B to $90B in five years, as the stock grew 28x in five years and more than doubled this year &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240524/p10#a240524p10)<!-- TECH:END -->
+ - [Nintendo is opening its second US store in San Francisco](https://www.theverge.com/2024/5/24/24164008/nintendo-next-us-store-san-francisco)
+ - [ChatGPT, explained](https://www.theverge.com/24161231/chatgpt-generative-ai-explained)
+ - [Ember’s temperature-controlled smart mug is nearly half off today only](https://www.theverge.com/2024/5/24/24163964/ember-smart-mug-2-deal-sale-best-buy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
