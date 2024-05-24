@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [At least the Internet made me believe so](http://9gag.com/gag/apRoZ4B)
- - 😝 [Old but gold](http://9gag.com/gag/apRo40p)
- - 👉 [Woman](http://9gag.com/gag/a34dOg5)<!-- MEMES:END -->
+ - 6️⃣ [Climbing day](http://9gag.com/gag/aKGgo1g)
+ - 😝 [Repo man](http://9gag.com/gag/abAqw99)
+ - 👉 [Oops](http://9gag.com/gag/agm0wPr)<!-- MEMES:END -->
 
 --- 
 
