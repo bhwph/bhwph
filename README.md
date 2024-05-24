@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming shows this week: The 8 Show and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [Best 100 albums, iOS 18 Music features, and more iPad Pro on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/24/best-100-albums-ios-18-music-features-and-more-ipad-pro-on-the-appleinsider-podcast?utm_medium=rss)
- - [Google announces plans to invest nearly $350M in Flipkart, as part of a nearly $1B funding round, about $600M of which came from Walmart in 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240524/p7#a240524p7)<!-- TECH:END -->
+ - [Your next iPhone could be the iPad mini - iPhone 15 vs iPad mini showdown](https://appleinsider.com/articles/24/05/24/your-next-iphone-could-be-the-ipad-mini---iphone-15-vs-ipad-mini-showdown?utm_medium=rss)
+ - [Hyundai is ‘doubling down’ on EVs despite sales slowdown, CEO says](https://www.theverge.com/24163520/hyundai-randy-parker-interview-ev-sales-ioniq-sales)
+ - [Nvidia CEO Jensen Huang&#39;s 3.5%+ stake in the company grew from $3B to $90B in five years, as the stock grew 28x in five years and more than doubled this year &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240524/p10#a240524p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
