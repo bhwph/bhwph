@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact version 4.7 livestream codes](https://www.polygon.com/genshin-impact-guides/24163345/version-4-7-livestream-primogem-codes-redeem)
- - [Furiosa and Mad Max’s parallel backstories make Fury Road even better](https://www.polygon.com/24163561/furiosa-mad-max-original-1979-george-miller-movie)
- - [Next Week on Xbox: New Games for May 27 to 31](https://news.xbox.com/en-us/2024/05/24/next-week-on-xbox-new-games-for-may-27-to-31/)<!-- GAME:END -->
+ - [Genshin Impact’s Next Big Region Is Giving Major Pokémon Vibes](https://kotaku.com/genshin-impact-5-0-natlan-pyro-archon-pokemon-1851499488)
+ - [Rian Johnson has a new Knives Out mystery coming, and we’re going to solve it right now](https://www.polygon.com/24163990/knives-out-3-wake-up-dead-man-announced-rian-johnson)
+ - [What are the new map and weapon loot pool changes in Fortnite Chapter 5 Season 3?](https://www.polygon.com/fortnite-guide/24164011/chapter-5-season-3-map-weapon-pool-vaulted-changes-c5s3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
