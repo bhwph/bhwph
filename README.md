@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo is opening its second US store in San Francisco](https://www.theverge.com/2024/5/24/24164008/nintendo-next-us-store-san-francisco)
- - [ChatGPT, explained](https://www.theverge.com/24161231/chatgpt-generative-ai-explained)
- - [Ember’s temperature-controlled smart mug is nearly half off today only](https://www.theverge.com/2024/5/24/24163964/ember-smart-mug-2-deal-sale-best-buy)<!-- TECH:END -->
+ - [Tesla wants net-zero emissions, but its pollution grew in 2023](https://www.theverge.com/2024/5/24/24163590/tesla-greenhouse-gas-emissions-climate-change-risk-disclosure)
+ - [A look at the privacy and security concerns surrounding Microsoft&#39;s Recall, which will record everything users do in Windows for up to three months by default &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240524/p14#a240524p14)
+ - [Best Memorial Day Mattress Sales: Save Hundreds at Amerisleep, Purple and More     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
