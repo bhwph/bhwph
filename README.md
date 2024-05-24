@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [As the Sims 4 continues to buckle under the weight of over $1,200 worth of DLC, EA has &#39;assembled a team&#39; to focus on bug fixes](https://www.pcgamer.com/games/the-sims/as-the-sims-4-continues-to-buckle-under-the-weight-over-dollar1200-worth-of-dlc-ea-has-assembled-a-team-to-focus-on-bug-fixes)
- - [All Genshin Impact codes from the 4.7 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-4-7-livestream)
- - [&#39;Personal best KD at 0.23&#39;: XDefiant is handing out participation trophies to players who suck](https://www.pcgamer.com/games/fps/personal-best-kd-at-023-xdefiant-is-handing-out-participation-trophies-to-players-who-suck)<!-- GAME:END -->
+ - [Genshin Impact version 4.7 livestream codes](https://www.polygon.com/genshin-impact-guides/24163345/version-4-7-livestream-primogem-codes-redeem)
+ - [Furiosa and Mad Max’s parallel backstories make Fury Road even better](https://www.polygon.com/24163561/furiosa-mad-max-original-1979-george-miller-movie)
+ - [Next Week on Xbox: New Games for May 27 to 31](https://news.xbox.com/en-us/2024/05/24/next-week-on-xbox-new-games-for-may-27-to-31/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
