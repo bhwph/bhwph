@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Never mind Kojima’s Mad Max game — I want George Miller’s Metal Gear](https://www.polygon.com/24164022/george-miller-hideo-kojima-mad-max-metal-gear)
- - [Hot New Genshin Impact Clone Suffers Major Launch Day Woes](https://kotaku.com/wuthering-waves-genshin-impact-bugs-free-5-star-1851500233)
- - [Helldivers 2 Is Facing A Numbers Problem](https://kotaku.com/helldivers-2-player-count-down-failing-major-orders-1851500257)<!-- GAME:END -->
+ - [Call Of Duty: Black Ops 6 Will Still Come To PS4 And Xbox One](https://kotaku.com/call-duty-black-ops-6-ps4-xbox-one-price-game-pass-1851500463)
+ - [New &#39;Medieval&#39; Doom Reportedly Coming To PS5 And Xbox, Will Be Announced In June](https://kotaku.com/doom-3-eternal-sequel-dark-ages-year-zero-xbox-june-1851500253)
+ - [Thanks To New EU Rules, Fortnite Is Coming Back To iPhones [Update]](https://kotaku.com/fortnite-iphone-ios-apple-return-epic-store-eu-dma-1851198881)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
