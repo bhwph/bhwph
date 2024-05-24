@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 😝 [Do you know who I am?!](http://9gag.com/gag/aYQpBBv)
- - 👉 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)<!-- MEMES:END -->
+ - 6️⃣ [What a terrible day to have eyes](http://9gag.com/gag/aO8yOgD)
+ - 😝 [How Female Brain works](http://9gag.com/gag/aLnQOqP)
+ - 👉 [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)<!-- MEMES:END -->
 
 --- 
 
