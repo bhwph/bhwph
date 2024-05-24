@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest ROG Ally X leak points to a game-changing battery upgrade](https://www.androidauthority.com/rog-ally-x-specs-leak-3446125/)
- - [A Delaware federal court overturns a jury&#39;s 2022 decision that Shopify owes $40M to Express Mobile for infringing patents related to website-building tools &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240524/p16#a240524p16)
- - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This iPod prototype was hiding Apple’s unreleased Tetris clone](https://www.theverge.com/2024/5/24/24164247/apple-tetris-stacker-ipod-prototype-tony-fadell)
+ - [Memorial Day Sales at Home Depot: Rack Up Massive Savings on Outdoor and Home Essentials     - CNET](https://www.cnet.com/deals/home-depot-memorial-day-sales/#ftag=CAD590a51e)
+ - [ASUS ROG Ally X rumors: Everything we know and what we want to see](https://www.androidauthority.com/asus-rog-ally-x-specs-price-features-3441319/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
