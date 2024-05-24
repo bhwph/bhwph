@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Climbing day](http://9gag.com/gag/aKGgo1g)
- - 😝 [Repo man](http://9gag.com/gag/abAqw99)
- - 👉 [Oops](http://9gag.com/gag/agm0wPr)<!-- MEMES:END -->
+ - 6️⃣ [Eyes on the ball...](http://9gag.com/gag/axy2q8K)
+ - 😝 [This is what happen when caffeine enter your blood](http://9gag.com/gag/a0ePqXX)
+ - 👉 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)<!-- MEMES:END -->
 
 --- 
 
