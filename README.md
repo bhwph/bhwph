@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S25 is far away but we’ve got a new Galaxy S26 rumor](https://www.androidauthority.com/samsung-galaxy-s26-exynos-2600-3445946/)
- - [The best now.gg games to try out](https://www.androidauthority.com/best-now-gg-games-3444615/)
- - [Samsung requires independent repair stores to snitch on you, but it gets worse](https://www.androidauthority.com/samsung-independent-repair-stores-snitch-report-3445933/)<!-- TECH:END -->
+ - [Here’s how Samsung plans to deliver the Galaxy Ring to buyers](https://www.androidauthority.com/samsung-galaxy-ring-delivery-process-3445978/)
+ - [How to play Roblox on now.gg](https://www.androidauthority.com/how-to-play-roblox-on-now-gg-3444675/)
+ - [HUAWEI Pura 70 Ultra review: Should you buy it?](https://www.androidauthority.com/huawei-pura-70-ultra-review-3443999/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
