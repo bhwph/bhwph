@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla wants net-zero emissions, but its pollution grew in 2023](https://www.theverge.com/2024/5/24/24163590/tesla-greenhouse-gas-emissions-climate-change-risk-disclosure)
- - [A look at the privacy and security concerns surrounding Microsoft&#39;s Recall, which will record everything users do in Windows for up to three months by default &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240524/p14#a240524p14)
- - [Best Memorial Day Mattress Sales: Save Hundreds at Amerisleep, Purple and More     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Latest ROG Ally X leak points to a game-changing battery upgrade](https://www.androidauthority.com/rog-ally-x-specs-leak-3446125/)
+ - [A Delaware federal court overturns a jury&#39;s 2022 decision that Shopify owes $40M to Express Mobile for infringing patents related to website-building tools &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240524/p16#a240524p16)
+ - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
