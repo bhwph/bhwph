@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
- - 😝 [At least the Internet made me believe so](http://9gag.com/gag/apRoZ4B)
- - 👉 [Eyes on the ball...](http://9gag.com/gag/axy2q8K)<!-- MEMES:END -->
+ - 6️⃣ [At least the Internet made me believe so](http://9gag.com/gag/apRoZ4B)
+ - 😝 [Old but gold](http://9gag.com/gag/apRo40p)
+ - 👉 [Woman](http://9gag.com/gag/a34dOg5)<!-- MEMES:END -->
 
 --- 
 
