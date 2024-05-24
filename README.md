@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact’s Next Big Region Is Giving Major Pokémon Vibes](https://kotaku.com/genshin-impact-5-0-natlan-pyro-archon-pokemon-1851499488)
- - [Rian Johnson has a new Knives Out mystery coming, and we’re going to solve it right now](https://www.polygon.com/24163990/knives-out-3-wake-up-dead-man-announced-rian-johnson)
- - [What are the new map and weapon loot pool changes in Fortnite Chapter 5 Season 3?](https://www.polygon.com/fortnite-guide/24164011/chapter-5-season-3-map-weapon-pool-vaulted-changes-c5s3)<!-- GAME:END -->
+ - [Get 9 Nightdive remasters for just 20 bucks in the new Humble Bundle](https://www.pcgamer.com/games/fps/get-9-nightdive-remasters-for-just-20-bucks-in-the-new-humble-bundle)
+ - [Fortnite Chapter 5 Season 3 Medallion guide](https://www.polygon.com/fortnite-guide/23988015/medallion-locations-chapter-5)
+ - [Go Spend $10 To Play Chrono Cross Remastered Right Now](https://kotaku.com/chono-cross-radical-dreamers-sale-discount-ps5-cheap-1851499822)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
