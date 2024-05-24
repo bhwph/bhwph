@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
- - 👉 [How Female Brain works](http://9gag.com/gag/aLnQOqP)<!-- MEMES:END -->
+ - 6️⃣ [Lawyers be trippin](http://9gag.com/gag/aD2w569)
+ - 😝 [Kazakhstani is a fun language](http://9gag.com/gag/amoLQyo)
+ - 👉 [Done for day](http://9gag.com/gag/aNDoM74)<!-- MEMES:END -->
 
 --- 
 
