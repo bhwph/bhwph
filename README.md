@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia cuts price of its China-specific H20 chip, selling it below Huawei&#39;s Ascend 910B, underscoring the challenges Nvidia faces amid US sanctions &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240524/p2#a240524p2)
- - [Atropos Health, whose AI chatbot helps clinicians generate observational studies on real world data rapidly and at scale, raised a $33M Series B led by Valtruis &lpar;Heather Landi/Fierce Healthcare ...&rpar;](http://www.techmeme.com/240524/p1#a240524p1)
- - [A look at Daylight Computer&#39;s DC1, a 10.5-inch, $729 tablet that feels like a hybrid of an iPad and a Kindle and runs on a custom Android-based OS called SolOS &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240523/p45#a240523p45)<!-- TECH:END -->
+ - [Fortnite’s new post-apocalyptic season has Fallout, Magneto, and vehicular mayhem](https://www.theverge.com/2024/5/24/24163374/fortnite-chapter-5-season-3-wrecked-battle-pass-fallout-magneto)
+ - [Memorial Day Sales 2024: We&#39;ve Rounded Up the Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)
+ - [T-Mobile confirms price hike for some legacy plans, refuses to clarify affected plans &lpar;Updated&rpar;](https://www.androidauthority.com/t-mobile-price-increase-older-plans-3445515/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
