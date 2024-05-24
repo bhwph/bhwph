@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Fold 6 could ditch S Pen support for a slimmer design](https://www.androidauthority.com/z-fold-6-slim-leak-3445871/)
- - [Motorola Moto G Power 5G &lpar;2024&rpar; review: Should you buy it?](https://www.androidauthority.com/motorola-moto-g-power-5g-2024-review-3433098/)
- - [Apple’s foldable MacBook rumored to be crease-free and ship in 2026](https://www.androidauthority.com/apples-rumored-foldable-macbook-2026-3445858/)<!-- TECH:END -->
+ - [Even J.Lo in a mech suit can’t save Netflix’s by-the-numbers AI thriller](https://www.theverge.com/24162731/netflix-atlas-review-jennifer-lopez-ai)
+ - [OpenAI releases a majority of past employees from nondisparagement agreements tied to their exit contracts and would not seek to cancel staffers&#39; vested equity &lpar;Bloomberg&rpar;](http://www.techmeme.com/240523/p41#a240523p41)
+ - [iOS resurrected photo bug fixed with iOS 17.5.1 detailed by Apple](https://appleinsider.com/articles/24/05/24/ios-resurrected-photo-bug-fixed-with-ios-1751-detailed-by-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
