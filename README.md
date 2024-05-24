@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get 9 Nightdive remasters for just 20 bucks in the new Humble Bundle](https://www.pcgamer.com/games/fps/get-9-nightdive-remasters-for-just-20-bucks-in-the-new-humble-bundle)
- - [Fortnite Chapter 5 Season 3 Medallion guide](https://www.polygon.com/fortnite-guide/23988015/medallion-locations-chapter-5)
- - [Go Spend $10 To Play Chrono Cross Remastered Right Now](https://kotaku.com/chono-cross-radical-dreamers-sale-discount-ps5-cheap-1851499822)<!-- GAME:END -->
+ - [Never mind Kojima’s Mad Max game — I want George Miller’s Metal Gear](https://www.polygon.com/24164022/george-miller-hideo-kojima-mad-max-metal-gear)
+ - [Hot New Genshin Impact Clone Suffers Major Launch Day Woes](https://kotaku.com/wuthering-waves-genshin-impact-bugs-free-5-star-1851500233)
+ - [Helldivers 2 Is Facing A Numbers Problem](https://kotaku.com/helldivers-2-player-count-down-failing-major-orders-1851500257)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
