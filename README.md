@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)
- - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
- - 👉 [You go first!!!](http://9gag.com/gag/aqyZOzR)<!-- MEMES:END -->
+ - 6️⃣ [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 😝 [Do you know who I am?!](http://9gag.com/gag/aYQpBBv)
+ - 👉 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)<!-- MEMES:END -->
 
 --- 
 
