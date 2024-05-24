@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In the 1800s, Scottish surgeon Robert Liston became infamous for a surgery that led to an astonishing 300% mortality rate.](http://9gag.com/gag/aXPE1Nd)
- - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
- - 👉 [Climbing day](http://9gag.com/gag/aKGgo1g)<!-- MEMES:END -->
+ - 6️⃣ [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
+ - 😝 [At least the Internet made me believe so](http://9gag.com/gag/apRoZ4B)
+ - 👉 [Eyes on the ball...](http://9gag.com/gag/axy2q8K)<!-- MEMES:END -->
 
 --- 
 
