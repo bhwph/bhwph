@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a terrible day to have eyes](http://9gag.com/gag/aO8yOgD)
- - 😝 [How Female Brain works](http://9gag.com/gag/aLnQOqP)
- - 👉 [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)<!-- MEMES:END -->
+ - 6️⃣ [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
+ - 👉 [How Female Brain works](http://9gag.com/gag/aLnQOqP)<!-- MEMES:END -->
 
 --- 
 
