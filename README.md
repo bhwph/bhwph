@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Samsung plans to deliver the Galaxy Ring to buyers](https://www.androidauthority.com/samsung-galaxy-ring-delivery-process-3445978/)
- - [How to play Roblox on now.gg](https://www.androidauthority.com/how-to-play-roblox-on-now-gg-3444675/)
- - [HUAWEI Pura 70 Ultra review: Should you buy it?](https://www.androidauthority.com/huawei-pura-70-ultra-review-3443999/)<!-- TECH:END -->
+ - [The best new streaming shows this week: The 8 Show and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [Best 100 albums, iOS 18 Music features, and more iPad Pro on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/24/best-100-albums-ios-18-music-features-and-more-ipad-pro-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Google announces plans to invest nearly $350M in Flipkart, as part of a nearly $1B funding round, about $600M of which came from Walmart in 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240524/p7#a240524p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
