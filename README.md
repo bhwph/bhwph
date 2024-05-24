@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
- - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 👉 [You go first!!!](http://9gag.com/gag/aqyZOzR)<!-- MEMES:END -->
+ - 6️⃣ [All it took for a man was one really bad day. How long would it take for a nation?](http://9gag.com/gag/a34dge8)
+ - 😝 [Wtf](http://9gag.com/gag/aO8ynOr)
+ - 👉 [Damn](http://9gag.com/gag/avyZVed)<!-- MEMES:END -->
 
 --- 
 
