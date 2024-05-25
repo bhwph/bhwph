@@ -127,8 +127,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google now lets you beg your friends to buy a Play Store app for you](https://www.androidauthority.com/google-play-ask-someone-else-to-buy-3446170/)
- - [EcoFlow’s $200 PowerStream is so clever, you might buy a $4,000 solar generator](https://www.theverge.com/24150901/ecoflow-powerstream-review-diy-balcony-solar-microinverter)
+ - [Spotify is bricking its Car Thing gadget and you can’t do anything about it](https://www.androidauthority.com/spotify-bricking-car-thing-gadget-3446194/)
+ - [Yellowstone season 5 part 2: Release date, cast, and more](https://www.androidauthority.com/yellowstone-season-5-part-2-release-date-3445174/)
  - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
