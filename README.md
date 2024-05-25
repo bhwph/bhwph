@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Neil Druckmann Sets The Record Straight On What He Actually Said About Naughty Dog&#39;s Next Game](https://kotaku.com/last-us-2-neil-druckmann-naughty-dog-sony-sequel-tlou3-1851500885)
  - [Today&#39;s Wordle answer for Saturday, May 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-25-2024)
- - [Families of Uvalde victims sue Activision, say Call of Duty is &#39;the most prolific and effective marketer of assault weapons in the United States&#39;](https://www.pcgamer.com/games/fps/uvalde-activision-lawsuit)
- - [Hypercharge: Unboxed Launches on Xbox Series X|S and Xbox One May 31](https://news.xbox.com/en-us/2024/05/24/hypercharge-unboxed-launches-may-31/)<!-- GAME:END -->
+ - [Families of Uvalde victims sue Activision, say Call of Duty is &#39;the most prolific and effective marketer of assault weapons in the United States&#39;](https://www.pcgamer.com/games/fps/uvalde-activision-lawsuit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
