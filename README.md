@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This iPod prototype was hiding Apple’s unreleased Tetris clone](https://www.theverge.com/2024/5/24/24164247/apple-tetris-stacker-ipod-prototype-tony-fadell)
- - [Memorial Day Sales at Home Depot: Rack Up Massive Savings on Outdoor and Home Essentials     - CNET](https://www.cnet.com/deals/home-depot-memorial-day-sales/#ftag=CAD590a51e)
- - [ASUS ROG Ally X rumors: Everything we know and what we want to see](https://www.androidauthority.com/asus-rog-ally-x-specs-price-features-3441319/)<!-- TECH:END -->
+ - [Google scrambles to manually remove weird AI answers in search](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
+ - [Samsung Galaxy Watch 7 rumors: Everything we know and want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)
+ - [Activision and Meta sued by families of Uvalde school shooting victims](https://www.theverge.com/2024/5/24/24164311/activision-meta-lawsuit-call-of-duty-uvalde-shooting)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
