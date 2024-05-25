@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Neil Druckmann Sets The Record Straight On What He Actually Said About Naughty Dog&#39;s Next Game](https://kotaku.com/last-us-2-neil-druckmann-naughty-dog-sony-sequel-tlou3-1851500885)
- - [Today&#39;s Wordle answer for Saturday, May 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-25-2024)
- - [Families of Uvalde victims sue Activision, say Call of Duty is &#39;the most prolific and effective marketer of assault weapons in the United States&#39;](https://www.pcgamer.com/games/fps/uvalde-activision-lawsuit)<!-- GAME:END -->
+ - [The best movies leaving streaming at the end of May](https://www.polygon.com/what-to-watch/2024/5/25/24160753/best-movies-netflix-amazon-hulu-leaving-may-2024)
+ - [GTA 6 Price Predictions, Hades 2 Impressions, And More Hot Takes](https://kotaku.com/gta-6-price-predictions-hades-2-impressions-and-more-1851499572)
+ - [Neil Druckmann Sets The Record Straight On What He Actually Said About Naughty Dog&#39;s Next Game](https://kotaku.com/last-us-2-neil-druckmann-naughty-dog-sony-sequel-tlou3-1851500885)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
