@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is bricking its Car Thing gadget and you can’t do anything about it](https://www.androidauthority.com/spotify-bricking-car-thing-gadget-3446194/)
- - [Yellowstone season 5 part 2: Release date, cast, and more](https://www.androidauthority.com/yellowstone-season-5-part-2-release-date-3445174/)
- - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mexico Is So Hot, Monkeys Are Falling to Their Death From Trees](https://www.wired.com/story/mexico-is-so-hot-monkeys-are-falling-to-their-death-from-trees/)
+ - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
+ - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans     - CNET](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
