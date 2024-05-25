@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
- - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
- - 👉 [Berlin. How are people so calm and let it happen?](http://9gag.com/gag/adB6zj9)<!-- MEMES:END -->
+ - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
+ - 👉 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)<!-- MEMES:END -->
 
 --- 
 
