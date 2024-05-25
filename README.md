@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I planned 30 trips in 3 years, and this is the app that kept me sane](https://www.androidauthority.com/wanderlog-best-travel-planning-app-3434537/)
- - [How to Keep an Old Computer Running](https://www.wired.com/story/how-to-keep-an-old-computer-running/)
- - [A test of 11 WhatsApp-based fact-checking &quot;tip lines&quot; during elections in India finds long delays and inconsistencies in responses &lpar;Rest of World&rpar;](http://www.techmeme.com/240525/p5#a240525p5)<!-- TECH:END -->
+ - [Samsung Galaxy A55 5G review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-a55-5g-review-3441780/)
+ - [Best Memorial Day Laptop Sales: Save Hundreds at Best Buy, Walmart, Target and More     - CNET](https://www.cnet.com/deals/best-memorial-day-laptop-sales-05-25/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
