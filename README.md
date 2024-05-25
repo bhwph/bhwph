@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
- - 😝 [Old but gold](http://9gag.com/gag/apRo40p)
- - 👉 [The better you see today...](http://9gag.com/gag/aPAy5vG)<!-- MEMES:END -->
+ - 6️⃣ [The real doge - Kabosu passed away today in the morning. We will miss you](http://9gag.com/gag/aVvQygP)
+ - 😝 [Eyes on the ball...](http://9gag.com/gag/axy2q8K)
+ - 👉 [Choose, Karen](http://9gag.com/gag/aMVboNx)<!-- MEMES:END -->
 
 --- 
 
