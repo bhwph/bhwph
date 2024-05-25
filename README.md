@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The RPG that inspired Final Fantasy, Dragon Quest, and Demon’s Souls is now more playable than ever](https://www.polygon.com/24162697/wizardry-remaster-final-fantasy-dragon-quest-demons-souls)
- - [10 Unforgettable Cult Movies You Can Watch On Netflix Today](https://kotaku.com/madame-web-cult-movies-on-netflix-starship-troopers-1851500045)
- - [Tiny Glade&#39;s castle-doodling demo is packed with delightful little reactive surprises](https://www.pcgamer.com/games/sim/tiny-glades-castle-doodling-demo-is-packed-with-delightful-little-reactive-surprises)<!-- GAME:END -->
+ - [Respect to the director of Netflix’s Atlas for thinking deeply about mechs](https://www.polygon.com/24164149/atlas-jennifer-lopez-director-brad-peyton-mech-design)
+ - [Bungie wins a little walkin&#39; around money in first of its kind jury trial against Destiny 2 cheat maker, but the victory will likely make it even easier for game companies to keep taking cheaters to court](https://www.pcgamer.com/gaming-industry/bungie-wins-a-little-walkin-around-money-in-first-of-its-kind-jury-trial-against-destiny-2-cheat-maker-but-the-victory-will-likely-make-it-even-easier-for-game-companies-to-keep-taking-cheaters-to-court)
+ - [The RPG that inspired Final Fantasy, Dragon Quest, and Demon’s Souls is now more playable than ever](https://www.polygon.com/24162697/wizardry-remaster-final-fantasy-dragon-quest-demons-souls)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
