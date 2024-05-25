@@ -127,8 +127,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell&#39;s stock rose 4.3% to close at $160.18 after reaching a record high on May 24 amid a rally in companies working on generative AI; DELL is up 114.17% in 2024 &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240524/p23#a240524p23)
- - [Best Memorial Day Deals Under $100: Save on Tech, Home Goods, Fitness and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-100/#ftag=CAD590a51e)
+ - [Google now lets you beg your friends to buy a Play Store app for you](https://www.androidauthority.com/google-play-ask-someone-else-to-buy-3446170/)
+ - [EcoFlow’s $200 PowerStream is so clever, you might buy a $4,000 solar generator](https://www.theverge.com/24150901/ecoflow-powerstream-review-diy-balcony-solar-microinverter)
  - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
