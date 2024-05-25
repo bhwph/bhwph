@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Respect to the director of Netflix’s Atlas for thinking deeply about mechs](https://www.polygon.com/24164149/atlas-jennifer-lopez-director-brad-peyton-mech-design)
- - [Bungie wins a little walkin&#39; around money in first of its kind jury trial against Destiny 2 cheat maker, but the victory will likely make it even easier for game companies to keep taking cheaters to court](https://www.pcgamer.com/gaming-industry/bungie-wins-a-little-walkin-around-money-in-first-of-its-kind-jury-trial-against-destiny-2-cheat-maker-but-the-victory-will-likely-make-it-even-easier-for-game-companies-to-keep-taking-cheaters-to-court)
- - [The RPG that inspired Final Fantasy, Dragon Quest, and Demon’s Souls is now more playable than ever](https://www.polygon.com/24162697/wizardry-remaster-final-fantasy-dragon-quest-demons-souls)<!-- GAME:END -->
+ - [This is getting ridiculous: It looks like one of Deadlock&#39;s leakers has made it so you can see the unannounced Valve shooter&#39;s playtest concurrents, hero code names, and update history on SteamDB](https://www.pcgamer.com/games/third-person-shooter/this-is-getting-ridiculous-it-looks-like-one-of-deadlocks-leakers-has-made-it-so-you-can-see-the-unannounced-valve-shooters-playtest-concurrents-hero-code-names-and-update-history-on-steamdb)
+ - [Here&#39;s a mystery game about salami starring a duck](https://www.pcgamer.com/games/adventure/heres-a-mystery-game-about-salami-starring-a-duck)
+ - [The modern remake of seminal RPG Wizardry is finished and out now](https://www.pcgamer.com/games/rpg/the-modern-remake-of-seminal-rpg-wizardry-is-finished-and-out-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
