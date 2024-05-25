@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A55 5G review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-a55-5g-review-3441780/)
- - [Best Memorial Day Laptop Sales: Save Hundreds at Best Buy, Walmart, Target and More     - CNET](https://www.cnet.com/deals/best-memorial-day-laptop-sales-05-25/#ftag=CAD590a51e)
- - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [14 Must-Know Amazon Prime Perks You&#39;re Probably Not Using     - CNET](https://www.cnet.com/tech/mobile/13-best-little-known-perks-you-can-get-from-amazon-prime/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: Shop the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
+ - [Spend Just $13 and Get 2 Anker USB-C Fast Chargers at Amazon This Memorial Day     - CNET](https://www.cnet.com/deals/spend-just-13-and-get-2-anker-usb-c-fast-chargers-at-amazon-memorial-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
