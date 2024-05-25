@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive: Google Pixel 10’s Tensor G5 chip will be manufactured by TSMC, and we can prove it](https://www.androidauthority.com/tsmc-tensor-g5-proof-pixel-10-3445056/)
- - [Spotify Will Brick Every ‘Car Thing’ It Ever Sold](https://www.wired.com/story/spotify-car-thing-brick/)
- - [Our Favorite TV of 2024 Is Up to $300 With This Memorial Day Deal     - CNET](https://www.cnet.com/deals/tcl-qm8-our-favorite-tv-of-2024-300-off-memorial-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I planned 30 trips in 3 years, and this is the app that kept me sane](https://www.androidauthority.com/wanderlog-best-travel-planning-app-3434537/)
+ - [How to Keep an Old Computer Running](https://www.wired.com/story/how-to-keep-an-old-computer-running/)
+ - [A test of 11 WhatsApp-based fact-checking &quot;tip lines&quot; during elections in India finds long delays and inconsistencies in responses &lpar;Rest of World&rpar;](http://www.techmeme.com/240525/p5#a240525p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
