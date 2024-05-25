@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google scrambles to manually remove weird AI answers in search](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
- - [Samsung Galaxy Watch 7 rumors: Everything we know and want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)
- - [Activision and Meta sued by families of Uvalde school shooting victims](https://www.theverge.com/2024/5/24/24164311/activision-meta-lawsuit-call-of-duty-uvalde-shooting)<!-- TECH:END -->
+ - [Judge orders Google to calculate the costs of Epic’s biggest Play Store demand](https://www.theverge.com/2024/5/24/24164454/epic-google-catalog-access-library-porting)
+ - [A look at the challenges facing AWS&#39; new CEO Matt Garman as the cloud unit battles the perception that it&#39;s falling behind Microsoft and Google in AI rollouts &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240524/p22#a240524p22)
+ - [Google says it is &quot;taking swift action&quot; to remove AI Overviews on certain queries &quot;where appropriate under our content policies&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240524/p21#a240524p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
