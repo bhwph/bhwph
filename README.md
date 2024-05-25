@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Memorial Day TV Sales: Save Thousands on TVs From Sony, Samsung, TCL and More     - CNET](https://www.cnet.com/deals/best-memorial-day-tv-sales-05-25/#ftag=CAD590a51e)
- - [The Best Horror Movies on Max to Watch Right Now     - CNET](https://www.cnet.com/tech/services-and-software/the-best-horror-movies-on-max-may-2024/#ftag=CAD590a51e)
- - [Knock 20% Off My Favorite Sleep Number Comforter for Memorial Day     - CNET](https://www.cnet.com/deals/sleep-number-memorial-day-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stream Netflix, Hulu and More: Top New TV Shows and Movies to Watch This Week     - CNET](https://www.cnet.com/tech/services-and-software/stream-netflix-hulu-more-top-new-tv-shows-movies-watch-this-week/#ftag=CAD590a51e)
+ - [Home Depot Memorial Day Sale: Big Savings on Outdoor Furniture, Appliances and More     - CNET](https://www.cnet.com/deals/home-depot-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
+ - [A US jury finds that Phoenix Digital, which owns the cheat mod site AimJunkies, is guilty of violating Bungie copyrights when it created cheats for Destiny 2 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240525/p9#a240525p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
