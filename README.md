@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge orders Google to calculate the costs of Epic’s biggest Play Store demand](https://www.theverge.com/2024/5/24/24164454/epic-google-catalog-access-library-porting)
- - [A look at the challenges facing AWS&#39; new CEO Matt Garman as the cloud unit battles the perception that it&#39;s falling behind Microsoft and Google in AI rollouts &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240524/p22#a240524p22)
- - [Google says it is &quot;taking swift action&quot; to remove AI Overviews on certain queries &quot;where appropriate under our content policies&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240524/p21#a240524p21)<!-- TECH:END -->
+ - [Dell&#39;s stock rose 4.3% to close at $160.18 after reaching a record high on May 24 amid a rally in companies working on generative AI; DELL is up 114.17% in 2024 &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240524/p23#a240524p23)
+ - [Best Memorial Day Deals Under $100: Save on Tech, Home Goods, Fitness and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-100/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
