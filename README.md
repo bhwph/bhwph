@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just finished watching Blue mountain state + the movie. Great show,happy to hear it&#39;s reportedly coming back](http://9gag.com/gag/aGyVXGG)
- - 😝 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
- - 👉 [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)<!-- MEMES:END -->
+ - 6️⃣ [Resident evil 4?](http://9gag.com/gag/aYQp33v)
+ - 😝 [Super Size me](http://9gag.com/gag/a1mZyw2)
+ - 👉 [`Germany is for Germans, foreigners out!` A curious slogan is gaining popularity in Germany.](http://9gag.com/gag/a4P9X2w)<!-- MEMES:END -->
 
 --- 
 
