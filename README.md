@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The real doge - Kabosu passed away today in the morning. We will miss you](http://9gag.com/gag/aVvQygP)
- - 😝 [Eyes on the ball...](http://9gag.com/gag/axy2q8K)
- - 👉 [Choose, Karen](http://9gag.com/gag/aMVboNx)<!-- MEMES:END -->
+ - 6️⃣ [A Civil Argument](http://9gag.com/gag/ae93L9v)
+ - 😝 [Berlin. How are people so calm and let it happen?](http://9gag.com/gag/adB6zj9)
+ - 👉 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)<!-- MEMES:END -->
 
 --- 
 
