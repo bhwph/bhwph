@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, May 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-25-2024)
  - [Families of Uvalde victims sue Activision, say Call of Duty is &#39;the most prolific and effective marketer of assault weapons in the United States&#39;](https://www.pcgamer.com/games/fps/uvalde-activision-lawsuit)
- - [Hypercharge: Unboxed Launches on Xbox Series X|S and Xbox One May 31](https://news.xbox.com/en-us/2024/05/24/hypercharge-unboxed-launches-may-31/)
- - [Thanks to Modern Horizons 3, my &#39;white weenie&#39; Magic deck is about to get even more obnoxious](https://www.pcgamer.com/games/card-games/thanks-to-modern-horizons-3-my-white-weenie-magic-deck-is-about-to-get-even-more-obnoxious)<!-- GAME:END -->
+ - [Hypercharge: Unboxed Launches on Xbox Series X|S and Xbox One May 31](https://news.xbox.com/en-us/2024/05/24/hypercharge-unboxed-launches-may-31/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
