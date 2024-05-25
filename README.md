@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty: Black Ops 6 Will Still Come To PS4 And Xbox One](https://kotaku.com/call-duty-black-ops-6-ps4-xbox-one-price-game-pass-1851500463)
- - [New &#39;Medieval&#39; Doom Reportedly Coming To PS5 And Xbox, Will Be Announced In June](https://kotaku.com/doom-3-eternal-sequel-dark-ages-year-zero-xbox-june-1851500253)
- - [Thanks To New EU Rules, Fortnite Is Coming Back To iPhones [Update]](https://kotaku.com/fortnite-iphone-ios-apple-return-epic-store-eu-dma-1851198881)<!-- GAME:END -->
+ - [Families of Uvalde victims sue Activision, say Call of Duty is &#39;the most prolific and effective marketer of assault weapons in the United States&#39;](https://www.pcgamer.com/games/fps/uvalde-activision-lawsuit)
+ - [Hypercharge: Unboxed Launches on Xbox Series X|S and Xbox One May 31](https://news.xbox.com/en-us/2024/05/24/hypercharge-unboxed-launches-may-31/)
+ - [Thanks to Modern Horizons 3, my &#39;white weenie&#39; Magic deck is about to get even more obnoxious](https://www.pcgamer.com/games/card-games/thanks-to-modern-horizons-3-my-white-weenie-magic-deck-is-about-to-get-even-more-obnoxious)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
