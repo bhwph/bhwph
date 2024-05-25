@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mexico Is So Hot, Monkeys Are Falling to Their Death From Trees](https://www.wired.com/story/mexico-is-so-hot-monkeys-are-falling-to-their-death-from-trees/)
- - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
- - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans     - CNET](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Exclusive: Google Pixel 10’s Tensor G5 chip will be manufactured by TSMC, and we can prove it](https://www.androidauthority.com/tsmc-tensor-g5-proof-pixel-10-3445056/)
+ - [Spotify Will Brick Every ‘Car Thing’ It Ever Sold](https://www.wired.com/story/spotify-car-thing-brick/)
+ - [Our Favorite TV of 2024 Is Up to $300 With This Memorial Day Deal     - CNET](https://www.cnet.com/deals/tcl-qm8-our-favorite-tv-of-2024-300-off-memorial-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
