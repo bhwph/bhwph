@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Resident evil 4?](http://9gag.com/gag/aYQp33v)
- - 😝 [Super Size me](http://9gag.com/gag/a1mZyw2)
- - 👉 [`Germany is for Germans, foreigners out!` A curious slogan is gaining popularity in Germany.](http://9gag.com/gag/a4P9X2w)<!-- MEMES:END -->
+ - 6️⃣ [No fat chicks please](http://9gag.com/gag/aVvQNAd)
+ - 😝 [The better you see today...](http://9gag.com/gag/aPAy5vG)
+ - 👉 [Thought some of you might need this. How to season a wok](http://9gag.com/gag/aMVb3jP)<!-- MEMES:END -->
 
 --- 
 
