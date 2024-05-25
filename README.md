@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies leaving streaming at the end of May](https://www.polygon.com/what-to-watch/2024/5/25/24160753/best-movies-netflix-amazon-hulu-leaving-may-2024)
- - [GTA 6 Price Predictions, Hades 2 Impressions, And More Hot Takes](https://kotaku.com/gta-6-price-predictions-hades-2-impressions-and-more-1851499572)
- - [Neil Druckmann Sets The Record Straight On What He Actually Said About Naughty Dog&#39;s Next Game](https://kotaku.com/last-us-2-neil-druckmann-naughty-dog-sony-sequel-tlou3-1851500885)<!-- GAME:END -->
+ - [The RPG that inspired Final Fantasy, Dragon Quest, and Demon’s Souls is now more playable than ever](https://www.polygon.com/24162697/wizardry-remaster-final-fantasy-dragon-quest-demons-souls)
+ - [10 Unforgettable Cult Movies You Can Watch On Netflix Today](https://kotaku.com/madame-web-cult-movies-on-netflix-starship-troopers-1851500045)
+ - [Tiny Glade&#39;s castle-doodling demo is packed with delightful little reactive surprises](https://www.pcgamer.com/games/sim/tiny-glades-castle-doodling-demo-is-packed-with-delightful-little-reactive-surprises)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
