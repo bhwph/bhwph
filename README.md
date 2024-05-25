@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Climbing day](http://9gag.com/gag/aKGgo1g)
- - 😝 [The camping of horrors](http://9gag.com/gag/amoLwyV)
- - 👉 [Someone tried to perform a Daigo parry, 20 years later...](http://9gag.com/gag/a1mZ612)<!-- MEMES:END -->
+ - 6️⃣ [At least the Internet made me believe so](http://9gag.com/gag/apRoZ4B)
+ - 😝 [`Germany is for Germans, foreigners out!` A curious slogan is gaining popularity in Germany.](http://9gag.com/gag/a4P9X2w)
+ - 👉 [In the 1800s, Scottish surgeon Robert Liston became infamous for a surgery that led to an astonishing 300% mortality rate.](http://9gag.com/gag/aXPE1Nd)<!-- MEMES:END -->
 
 --- 
 
