@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
- - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
- - 👉 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)<!-- MEMES:END -->
+ - 6️⃣ [Just finished watching Blue mountain state + the movie. Great show,happy to hear it&#39;s reportedly coming back](http://9gag.com/gag/aGyVXGG)
+ - 😝 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
+ - 👉 [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)<!-- MEMES:END -->
 
 --- 
 
