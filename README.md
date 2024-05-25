@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Learned his lesson](http://9gag.com/gag/agm0D7K)
- - 😝 [Spidey fed up with world](http://9gag.com/gag/a9yMg2L)
- - 👉 [Pizza man values life over $20 in his wallet.](http://9gag.com/gag/aZZW64Q)<!-- MEMES:END -->
+ - 6️⃣ [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
+ - 😝 [Pizza man values life over $20 in his wallet.](http://9gag.com/gag/aZZW64Q)
+ - 👉 [Brainscan](http://9gag.com/gag/a7oKXmm)<!-- MEMES:END -->
 
 --- 
 
