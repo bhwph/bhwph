@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [On Sale for Memorial Day, This Rechargeable Mini Lantern Is Great for Camping or Emergencies     - CNET](https://www.cnet.com/deals/on-sale-for-memorial-day-this-rechargeable-mini-lantern-is-great-for-camping-or-emergencies/#ftag=CAD590a51e)
- - [Report: Apple signs deal with OpenAI for iOS, still wants Google as an ‘option’](https://www.androidauthority.com/apple-signs-deal-openai-iphones-3446254/)
- - [Memorial Day Weekend Appliance Deals: Huge Savings on Refrigerators, Dishwashers, Microwaves and More     - CNET](https://www.cnet.com/deals/best-memorial-day-appliance-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
+ - [Best Buy Memorial Day Sale: Shop Steep Discounts on Airpods, Dyson Vacuums and More     - CNET](https://www.cnet.com/deals/best-buy-memorial-day-sale-24-05-26/#ftag=CAD590a51e)
+ - [Best Target Memorial Day Sales: Can&#39;t-Miss Savings on Headphones, TVs, and More     - CNET](https://www.cnet.com/deals/best-target-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
