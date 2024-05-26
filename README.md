@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The better you see today...](http://9gag.com/gag/aPAy5vG)
- - 😝 [Thought some of you might need this. How to season a wok](http://9gag.com/gag/aMVb3jP)
- - 👉 [Just a prank bro](http://9gag.com/gag/a9yMQPo)<!-- MEMES:END -->
+ - 6️⃣ [Best bike ride ever](http://9gag.com/gag/a1mZzgb)
+ - 😝 [Whites only Fried Rice.](http://9gag.com/gag/arye76d)
+ - 👉 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)<!-- MEMES:END -->
 
 --- 
 
