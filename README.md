@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nectar Mattresses Start at $349 This Memorial Day     - CNET](https://www.cnet.com/deals/nectar-memorial-day-deal-2024/#ftag=CAD590a51e)
- - [YouTube Music will let you search by humming into your Android phone](https://www.theverge.com/2024/5/25/24164879/youtube-music-hum-to-search-available-android)
- - [I Love This Portable Car Jump Starter Battery Pack and It&#39;s Over 40% Off for Memorial Day     - CNET](https://www.cnet.com/deals/i-love-this-portable-car-jump-starter-battery-pack-and-its-over-40-off-for-memorial-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save Big on the Best Walmart Memorial Day Sales Across TVs, Laptops, iPads and More     - CNET](https://www.cnet.com/deals/best-walmart-memorial-day-sales-05-25/#ftag=CAD590a51e)
+ - [Best Buy Memorial Day Sale: Shop Steep Discounts on Tech, Appliances and More All Weekend     - CNET](https://www.cnet.com/deals/best-buy-memorial-day-sale/#ftag=CAD590a51e)
+ - [Filings: US pharmaceutical company Cencora notified ~500K individuals since learning about a data breach in February 2024 that exposed health diagnoses and more &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240525/p11#a240525p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
