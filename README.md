@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This smartphone-sized Chrome OS machine wasn’t made for me, but I kinda love it](https://www.androidauthority.com/lenovo-chromebox-micro-review-3443425/)
- - [How to Pick the Best Roku Device &lpar;2024&rpar;: A Guide to Each Model](https://www.wired.com/gallery/how-to-pick-the-right-roku/)
- - [Seeing the real world inside a virtual one](https://www.theverge.com/24163918/flight-simulators-video-game-vr-monitors-vergecast)<!-- TECH:END -->
+ - [Save Big on the Best Walmart Memorial Day Sales on Home, Tech, TVs and More     - CNET](https://www.cnet.com/deals/best-walmart-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
+ - [Big Memorial Day Deal: Grab a Free iPhone 15 Plus With a Freebie iPad or Apple Watch SE     - CNET](https://www.cnet.com/deals/big-memorial-day-deal-grab-a-free-iphone-15-plus-with-a-freebie-ipad-or-apple-watch-se/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
