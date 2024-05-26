@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tiger nearly swiping a guy off an elephant](http://9gag.com/gag/a34d965)
- - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
- - 👉 [This is advanced simping](http://9gag.com/gag/avyZ3eW)<!-- MEMES:END -->
+ - 6️⃣ [Some people remember small things about you and that\u2019s wholesome.](http://9gag.com/gag/adB63MB)
+ - 😝 [His face](http://9gag.com/gag/a0eP20d)
+ - 👉 [Quack](http://9gag.com/gag/an7XA2B)<!-- MEMES:END -->
 
 --- 
 
