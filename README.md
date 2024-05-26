@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save Big on the Best Walmart Memorial Day Sales Across TVs, Laptops, iPads and More     - CNET](https://www.cnet.com/deals/best-walmart-memorial-day-sales-05-25/#ftag=CAD590a51e)
- - [Best Buy Memorial Day Sale: Shop Steep Discounts on Tech, Appliances and More All Weekend     - CNET](https://www.cnet.com/deals/best-buy-memorial-day-sale/#ftag=CAD590a51e)
- - [Filings: US pharmaceutical company Cencora notified ~500K individuals since learning about a data breach in February 2024 that exposed health diagnoses and more &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240525/p11#a240525p11)<!-- TECH:END -->
+ - [LLMs aren&#39;t sentient; they lack the physiological states required for sensations like hunger and pain, and thus can&#39;t have subjective experiences of such states &lpar;TIME&rpar;](http://www.techmeme.com/240526/p4#a240526p4)
+ - [IoT Analytics: Nvidia, whose Q1 data center revenue grew 427% YoY to $22.6B, has 90%+ market share for data center GPUs, as Intel and AMD scrap for second place &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240526/p3#a240526p3)
+ - [Japanese chipmaker Rapidus plans to build and package chips in the same $32B fab in Hokkaido, setting the company apart from TSMC, Intel, and Samsung &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/240526/p2#a240526p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
