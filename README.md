@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 head writer reveals we almost got to revisit the first game&#39;s &#39;academic dungeon&#39; prologue area, Candlekeep](https://www.pcgamer.com/games/rpg/baldurs-gate-3-head-writer-reveals-wea-almost-got-to-revisit-the-first-games-academic-dungeon-prologue-area-candlekeep)
- - [Optimize your production chains in the free preview for minimalist sim Masterplan Tycoon](https://www.pcgamer.com/games/strategy/optimize-your-production-chains-in-the-free-preview-for-minimalist-sim-masterplan-tycoon)
- - [This is getting ridiculous: It looks like one of Deadlock&#39;s leakers has made it so you can see the unannounced Valve shooter&#39;s playtest concurrents, hero code names, and update history on SteamDB](https://www.pcgamer.com/games/third-person-shooter/this-is-getting-ridiculous-it-looks-like-one-of-deadlocks-leakers-has-made-it-so-you-can-see-the-unannounced-valve-shooters-playtest-concurrents-hero-code-names-and-update-history-on-steamdb)<!-- GAME:END -->
+ - [Great moments in PC gaming: That time Valve released three new games on the same day](https://www.pcgamer.com/games/fps/great-moments-in-pc-gaming-that-time-valve-released-three-new-games-on-the-same-day)
+ - [With a new edition on the way, the current version of life-devouring fantasy board game Talisman goes free to play](https://www.pcgamer.com/games/board-games/with-a-new-edition-on-the-way-the-current-version-of-life-devouring-fantasy-board-game-talisman-goes-free-to-play)
+ - [Baldur&#39;s Gate 3 head writer reveals we almost got to revisit the first game&#39;s &#39;academic dungeon&#39; prologue area, Candlekeep](https://www.pcgamer.com/games/rpg/baldurs-gate-3-head-writer-reveals-wea-almost-got-to-revisit-the-first-games-academic-dungeon-prologue-area-candlekeep)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
