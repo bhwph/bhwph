@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This is getting ridiculous: It looks like one of Deadlock&#39;s leakers has made it so you can see the unannounced Valve shooter&#39;s playtest concurrents, hero code names, and update history on SteamDB](https://www.pcgamer.com/games/third-person-shooter/this-is-getting-ridiculous-it-looks-like-one-of-deadlocks-leakers-has-made-it-so-you-can-see-the-unannounced-valve-shooters-playtest-concurrents-hero-code-names-and-update-history-on-steamdb)
- - [Here&#39;s a mystery game about salami starring a duck](https://www.pcgamer.com/games/adventure/heres-a-mystery-game-about-salami-starring-a-duck)
- - [The modern remake of seminal RPG Wizardry is finished and out now](https://www.pcgamer.com/games/rpg/the-modern-remake-of-seminal-rpg-wizardry-is-finished-and-out-now)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 head writer reveals we almost got to revisit the first game&#39;s &#39;academic dungeon&#39; prologue area, Candlekeep](https://www.pcgamer.com/games/rpg/baldurs-gate-3-head-writer-reveals-wea-almost-got-to-revisit-the-first-games-academic-dungeon-prologue-area-candlekeep)
+ - [Optimize your production chains in the free preview for minimalist sim Masterplan Tycoon](https://www.pcgamer.com/games/strategy/optimize-your-production-chains-in-the-free-preview-for-minimalist-sim-masterplan-tycoon)
+ - [This is getting ridiculous: It looks like one of Deadlock&#39;s leakers has made it so you can see the unannounced Valve shooter&#39;s playtest concurrents, hero code names, and update history on SteamDB](https://www.pcgamer.com/games/third-person-shooter/this-is-getting-ridiculous-it-looks-like-one-of-deadlocks-leakers-has-made-it-so-you-can-see-the-unannounced-valve-shooters-playtest-concurrents-hero-code-names-and-update-history-on-steamdb)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
