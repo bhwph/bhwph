@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s taken a long time, but stock Android is finally good enough for me](https://www.androidauthority.com/stock-android-is-finally-good-enough-opinion-3438189/)
- - [A big list of the best tiny games on the internet](https://www.theverge.com/24163971/best-daily-games-internet-wordle-coffee-golf-connections)
- - [T-Mobile Raises Rates on Select Legacy Plans, Here&#39;s the Deal     - CNET](https://www.cnet.com/tech/mobile/t-mobile-raises-rates-on-select-legacy-plans-heres-the-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This smartphone-sized Chrome OS machine wasn’t made for me, but I kinda love it](https://www.androidauthority.com/lenovo-chromebox-micro-review-3443425/)
+ - [How to Pick the Best Roku Device &lpar;2024&rpar;: A Guide to Each Model](https://www.wired.com/gallery/how-to-pick-the-right-roku/)
+ - [Seeing the real world inside a virtual one](https://www.theverge.com/24163918/flight-simulators-video-game-vr-monitors-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
