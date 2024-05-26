@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [UK to force teens to spend a year in the military](http://9gag.com/gag/avyZbqb)
- - 😝 [Adorable Hitler gun](http://9gag.com/gag/avyZMwb)
- - 👉 [Left and right flap?](http://9gag.com/gag/aRBgnO2)<!-- MEMES:END -->
+ - 6️⃣ [Tiger nearly swiping a guy off an elephant](http://9gag.com/gag/a34d965)
+ - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
+ - 👉 [This is advanced simping](http://9gag.com/gag/avyZ3eW)<!-- MEMES:END -->
 
 --- 
 
