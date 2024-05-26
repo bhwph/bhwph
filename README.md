@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best bike ride ever](http://9gag.com/gag/a1mZzgb)
- - 😝 [Whites only Fried Rice.](http://9gag.com/gag/arye76d)
- - 👉 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)<!-- MEMES:END -->
+ - 6️⃣ [Resident evil 4?](http://9gag.com/gag/aYQp33v)
+ - 😝 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
+ - 👉 [Welcome to China, a living utopia](http://9gag.com/gag/a87bR11)<!-- MEMES:END -->
 
 --- 
 
