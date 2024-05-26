@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, May 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-26-2024)
- - [Great moments in PC gaming: That time Valve released three new games on the same day](https://www.pcgamer.com/games/fps/great-moments-in-pc-gaming-that-time-valve-released-three-new-games-on-the-same-day)
- - [With a new edition on the way, the current version of life-devouring fantasy board game Talisman goes free to play](https://www.pcgamer.com/games/board-games/with-a-new-edition-on-the-way-the-current-version-of-life-devouring-fantasy-board-game-talisman-goes-free-to-play)<!-- GAME:END -->
+ - [Hellblade II Combat Mastery, Rewards For Returning MultiVersus Players, And More Tips For The Week](https://kotaku.com/hellblade-ii-combat-mastery-rewards-for-returning-mult-1851499571)
+ - [Mobile games should stop reminding me how annoying my phone is](https://www.polygon.com/24158514/mobile-games-ui-guildlings-honkai-star-rail)
+ - [Today&#39;s Wordle answer for Sunday, May 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-26-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
