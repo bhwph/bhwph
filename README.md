@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Year of the D](http://9gag.com/gag/a0ePm5d)
- - 😝 [After 10 years the DCU&#39;s Flash still has no answer for this classic](http://9gag.com/gag/a4P9DVA)
- - 👉 [Quack](http://9gag.com/gag/an7XA2B)<!-- MEMES:END -->
+ - 6️⃣ [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - 😝 [If you need anymore proof that Congress is owned by billionaires\u2026](http://9gag.com/gag/arye6Qy)
+ - 👉 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)<!-- MEMES:END -->
 
 --- 
 
