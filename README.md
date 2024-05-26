@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;ve never played Baldur&#39;s Gate 3 with its nudity censor turned on, it straight up gives everybody a fig leaf like they&#39;re cartoon characters](https://www.pcgamer.com/games/rpg/if-youve-never-played-bg3-with-its-nudity-censor-turned-on-it-straight-up-gives-everybody-a-fig-leaf-like-theyre-cartoon-characters)
- - [Karyn Kusama on the ‘wonderful and painful’ process of revisiting Girlfight for Criterion](https://www.polygon.com/24163499/girlfight-criterion-karyn-kusama-interview-michelle-rodriguez)
- - [Hellblade II Combat Mastery, Rewards For Returning MultiVersus Players, And More Tips For The Week](https://kotaku.com/hellblade-ii-combat-mastery-rewards-for-returning-mult-1851499571)<!-- GAME:END -->
+ - [Explore some excellent open-world puzzling in Isles of Sea and Sky](https://www.pcgamer.com/games/puzzle/explore-some-excellent-open-world-puzzling-in-isles-of-sea-and-sky)
+ - [I was shocked to find out the Windows 10 desktop background wasn&#39;t computer generated, but a picture of lasers being shot through an actual window](https://www.pcgamer.com/gaming-industry/i-was-shocked-to-find-out-the-windows-10-desktop-background-wasnt-computer-generated-but-a-picture-of-light-being-shot-through-an-actual-window)
+ - [Valve casually upends the Dota 2 meta by adding innate powers to all 124 heroes](https://www.pcgamer.com/games/moba/valve-casually-upends-the-dota-2-meta-by-adding-innate-powers-to-all-124-heroes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
