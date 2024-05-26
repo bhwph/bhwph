@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Sea Is Swallowing This Mexican Town](https://www.wired.com/story/the-sea-is-swallowing-this-mexican-town/)
- - [There’s no easy 3D printer, but Bambu has won me over](https://www.theverge.com/23924708/creality-k1c-bambu-p1p-review)
- - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It’s taken a long time, but stock Android is finally good enough for me](https://www.androidauthority.com/stock-android-is-finally-good-enough-opinion-3438189/)
+ - [A big list of the best tiny games on the internet](https://www.theverge.com/24163971/best-daily-games-internet-wordle-coffee-golf-connections)
+ - [T-Mobile Raises Rates on Select Legacy Plans, Here&#39;s the Deal     - CNET](https://www.cnet.com/tech/mobile/t-mobile-raises-rates-on-select-legacy-plans-heres-the-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
