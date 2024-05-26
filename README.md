@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Year of the D](http://9gag.com/gag/a0ePm5d)
- - 😝 [I finally feel like I am making a difference](http://9gag.com/gag/aMVb35P)
- - 👉 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)<!-- MEMES:END -->
+ - 6️⃣ [Welcome to China, a living utopia](http://9gag.com/gag/a87bR11)
+ - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
+ - 👉 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)<!-- MEMES:END -->
 
 --- 
 
