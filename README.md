@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reality check](http://9gag.com/gag/ae93Xpp)
- - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
- - 👉 [Just a prank bro](http://9gag.com/gag/a9yMQPo)<!-- MEMES:END -->
+ - 6️⃣ [Year of the D](http://9gag.com/gag/a0ePm5d)
+ - 😝 [I finally feel like I am making a difference](http://9gag.com/gag/aMVb35P)
+ - 👉 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)<!-- MEMES:END -->
 
 --- 
 
