@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nectar Mattresses Start at $349 This Memorial Day     - CNET](https://www.cnet.com/deals/nectar-memorial-day-deal-2024/#ftag=CAD590a51e)
  - [YouTube Music will let you search by humming into your Android phone](https://www.theverge.com/2024/5/25/24164879/youtube-music-hum-to-search-available-android)
- - [I Love This Portable Car Jump Starter Battery Pack and It&#39;s Over 40% Off for Memorial Day     - CNET](https://www.cnet.com/deals/i-love-this-portable-car-jump-starter-battery-pack-and-its-over-40-off-for-memorial-day/#ftag=CAD590a51e)
- - [Memorial Day Sales 2024: Shop the Top Deals From Home to Tech to Essentials and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Love This Portable Car Jump Starter Battery Pack and It&#39;s Over 40% Off for Memorial Day     - CNET](https://www.cnet.com/deals/i-love-this-portable-car-jump-starter-battery-pack-and-its-over-40-off-for-memorial-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
