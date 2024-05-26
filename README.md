@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save Big on the Best Walmart Memorial Day Sales on Home, Tech, TVs and More     - CNET](https://www.cnet.com/deals/best-walmart-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
- - [Big Memorial Day Deal: Grab a Free iPhone 15 Plus With a Freebie iPad or Apple Watch SE     - CNET](https://www.cnet.com/deals/big-memorial-day-deal-grab-a-free-iphone-15-plus-with-a-freebie-ipad-or-apple-watch-se/#ftag=CAD590a51e)
- - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [On Sale for Memorial Day, This Rechargeable Mini Lantern Is Great for Camping or Emergencies     - CNET](https://www.cnet.com/deals/on-sale-for-memorial-day-this-rechargeable-mini-lantern-is-great-for-camping-or-emergencies/#ftag=CAD590a51e)
+ - [Report: Apple signs deal with OpenAI for iOS, still wants Google as an ‘option’](https://www.androidauthority.com/apple-signs-deal-openai-iphones-3446254/)
+ - [Memorial Day Weekend Appliance Deals: Huge Savings on Refrigerators, Dishwashers, Microwaves and More     - CNET](https://www.cnet.com/deals/best-memorial-day-appliance-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
