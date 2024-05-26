@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hellblade II Combat Mastery, Rewards For Returning MultiVersus Players, And More Tips For The Week](https://kotaku.com/hellblade-ii-combat-mastery-rewards-for-returning-mult-1851499571)
- - [Mobile games should stop reminding me how annoying my phone is](https://www.polygon.com/24158514/mobile-games-ui-guildlings-honkai-star-rail)
- - [Today&#39;s Wordle answer for Sunday, May 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-26-2024)<!-- GAME:END -->
+ - [If you&#39;ve never played Baldur&#39;s Gate 3 with its nudity censor turned on, it straight up gives everybody a fig leaf like they&#39;re cartoon characters](https://www.pcgamer.com/games/rpg/if-youve-never-played-bg3-with-its-nudity-censor-turned-on-it-straight-up-gives-everybody-a-fig-leaf-like-theyre-cartoon-characters)
+ - [Karyn Kusama on the ‘wonderful and painful’ process of revisiting Girlfight for Criterion](https://www.polygon.com/24163499/girlfight-criterion-karyn-kusama-interview-michelle-rodriguez)
+ - [Hellblade II Combat Mastery, Rewards For Returning MultiVersus Players, And More Tips For The Week](https://kotaku.com/hellblade-ii-combat-mastery-rewards-for-returning-mult-1851499571)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
