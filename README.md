@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Welcome to China, a living utopia](http://9gag.com/gag/a87bR11)
- - 😝 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
- - 👉 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)<!-- MEMES:END -->
+ - 6️⃣ [Reality check](http://9gag.com/gag/ae93Xpp)
+ - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - 👉 [Just a prank bro](http://9gag.com/gag/a9yMQPo)<!-- MEMES:END -->
 
 --- 
 
