@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung will outsource even more smartphones to China](https://www.androidauthority.com/samsung-phones-outsourcing-cheap-phones-3446198/)
- - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
- - [French Open 2024: How to Watch, Stream All the Tennis Live Today From Paris     - CNET](https://www.cnet.com/tech/services-and-software/french-open-2024-how-to-watch-stream-all-the-tennis-live-today-from-paris/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Sea Is Swallowing This Mexican Town](https://www.wired.com/story/the-sea-is-swallowing-this-mexican-town/)
+ - [There’s no easy 3D printer, but Bambu has won me over](https://www.theverge.com/23924708/creality-k1c-bambu-p1p-review)
+ - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
