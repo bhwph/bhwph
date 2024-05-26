@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Explore some excellent open-world puzzling in Isles of Sea and Sky](https://www.pcgamer.com/games/puzzle/explore-some-excellent-open-world-puzzling-in-isles-of-sea-and-sky)
- - [I was shocked to find out the Windows 10 desktop background wasn&#39;t computer generated, but a picture of lasers being shot through an actual window](https://www.pcgamer.com/gaming-industry/i-was-shocked-to-find-out-the-windows-10-desktop-background-wasnt-computer-generated-but-a-picture-of-light-being-shot-through-an-actual-window)
- - [Valve casually upends the Dota 2 meta by adding innate powers to all 124 heroes](https://www.pcgamer.com/games/moba/valve-casually-upends-the-dota-2-meta-by-adding-innate-powers-to-all-124-heroes)<!-- GAME:END -->
+ - [You can&#39;t take it with you, but you can&#39;t leave it for someone else either: Valve says you aren&#39;t allowed to bequeath a Steam account in a will](https://www.pcgamer.com/gaming-industry/you-cant-take-it-with-you-but-you-cant-leave-it-behind-either-valve-says-you-arent-allowed-to-bequeath-a-steam-account-in-a-will)
+ - [An indie parkour game is blowing up among sport fans and genre enthusiasts](https://www.pcgamer.com/games/sports/an-indie-parkour-game-is-blowing-up-among-sport-fans-and-genre-enthusiasts)
+ - [Explore some excellent open-world puzzling in Isles of Sea and Sky](https://www.pcgamer.com/games/puzzle/explore-some-excellent-open-world-puzzling-in-isles-of-sea-and-sky)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
