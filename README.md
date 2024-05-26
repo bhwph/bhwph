@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
- - [Best Buy Memorial Day Sale: Shop Steep Discounts on Airpods, Dyson Vacuums and More     - CNET](https://www.cnet.com/deals/best-buy-memorial-day-sale-24-05-26/#ftag=CAD590a51e)
- - [Best Target Memorial Day Sales: Can&#39;t-Miss Savings on Headphones, TVs, and More     - CNET](https://www.cnet.com/deals/best-target-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Air Purifiers Are Up to 30% Off During Blueair&#39;s Memorial Day Sale     - CNET](https://www.cnet.com/deals/air-purifiers-are-up-to-30-off-during-blueairs-memorial-day-sale/#ftag=CAD590a51e)
+ - [I Bought This Awesome RC Car for 50% Off Thanks to Memorial Day Sales and You Should Too     - CNET](https://www.cnet.com/deals/i-bought-this-awesome-rc-car-for-50-off-thanks-to-memorial-day-sales-and-you-should-too/#ftag=CAD590a51e)
+ - [Best Mattress for Combination Sleepers for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-combination-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
