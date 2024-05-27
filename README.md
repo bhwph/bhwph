@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you follow a few simple rules you can achieve your Dreams](http://9gag.com/gag/aVvWOX8)
- - 😝 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)
- - 👉 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)<!-- MEMES:END -->
+ - 6️⃣ [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)
+ - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
+ - 👉 [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)<!-- MEMES:END -->
 
 --- 
 
