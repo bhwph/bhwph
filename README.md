@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hate WhatsApp’s green theme? You may need to buy an iPhone to change it](https://www.androidauthority.com/whatsapp-closer-releasing-themes-ios-3446262/)
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
- - [The Galaxy S25 Ultra could bring two key camera upgrades](https://www.androidauthority.com/samsung-galaxy-s25-ultra-leaked-camera-specs-3445936/)<!-- TECH:END -->
+ - [The Auroras Should Be Spectacular This Summer, Thanks to Solar Maximum](https://www.wired.com/story/solar-maximum-aurora-northern-lights-2024-cme-sunspots/)
+ - [One UI 6.1.1 could finally be the big camera upgrade for the Galaxy S24 Ultra](https://www.androidauthority.com/samsung-galaxy-s24-ultra-one-ui-6-1-1-camera-3446285/)
+ - [Q&amp;A with Netflix&#39;s Ted Sarandos on the state of Hollywood, shifting US tastes, programming strategy, ads, corporate activism, YouTube, live events, AI, and more &lpar;Lulu Garcia-Navarro/New York Times&rpar;](http://www.techmeme.com/240527/p2#a240527p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
