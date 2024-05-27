@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OLED iPad Pro screens could hit 9 million shipments in 2024](https://appleinsider.com/articles/24/05/27/oled-ipad-pro-screens-could-hit-9-million-shipments-in-2024?utm_medium=rss)
- - [The Rebirth of Queer Cruising Apps](https://www.wired.com/story/the-rebirth-of-queer-cruising-apps-sniffies-bkdr-motto/)
- - [Data.ai: of the top 20 education apps in the US App Store, five are AI agents that help with school assignments, the two most popular of which are Chinese-owned &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/240527/p3#a240527p3)<!-- TECH:END -->
+ - [The Unitree G1 Is a Short Humanoid Robot That Costs Just $16,000](https://www.wired.com/story/unitree-g1-humanoid-robot/)
+ - [HBO’s MoviePass doc is a snapshot of how C-suites kill companies](https://www.theverge.com/24160812/moviepass-moviecrash-review)
+ - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
