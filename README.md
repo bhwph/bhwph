@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
- - 😝 [Reclaim what&#39;s yours, no emotional blackmail](http://9gag.com/gag/aPA46yg)
- - 👉 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)<!-- MEMES:END -->
+ - 6️⃣ [Lighting strike obliterated George Floyd&#39;s Mural in Ohio, striking his face](http://9gag.com/gag/ae93onj)
+ - 😝 [His face](http://9gag.com/gag/a0eP20d)
+ - 👉 [This is Syria, where more than 300,000 civilian men, women, and children have been killed &lpar;millions more displaced&rpar;. You won&#39;t see college students marching around the world, or screaming about genocide. Why? Because it&#39;s Muslims killing Muslims, which doesn&#39;t fit the narrative.](http://9gag.com/gag/a5QPpog)<!-- MEMES:END -->
 
 --- 
 
