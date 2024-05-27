@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The printer-like method of this artist painting a large mural](http://9gag.com/gag/aAyVnA2)
- - 😝 [Tiger nearly swiping a guy off an elephant](http://9gag.com/gag/a34d965)
- - 👉 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)<!-- MEMES:END -->
+ - 6️⃣ [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)
+ - 😝 [Oh yes...the common BMW driver.](http://9gag.com/gag/aBy39LZ)
+ - 👉 [Why there&#39;s never a Fast And Furious set in Germany..](http://9gag.com/gag/aVvWj3n)<!-- MEMES:END -->
 
 --- 
 
