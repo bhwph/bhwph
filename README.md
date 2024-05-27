@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Modern Warfare 3 season 4 release?](https://www.polygon.com/modern-warfare-3-guides/24163289/season-4-release-time-date-mw3)
- - [Helldivers 2 players have successfully emancipated the Emancipator mech from the automaton assembly line, and of course the dual-autocannon exosuit  has triggered another debate about balance](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-have-successfully-emancipated-the-emancipator-mech-from-the-automaton-assembly-line-and-of-course-the-dual-autocannon-exosuit-has-triggered-another-debate-about-balance)
- - [The secrets to gaming gravity](https://www.polygon.com/24157223/how-gravity-physics-work-for-jumping-falling-in-games)<!-- GAME:END -->
+ - [Netflix’s Eric, Star Trek: Discovery’s series finale, and more new TV this week](https://www.polygon.com/2024/5/27/24159372/new-tv-netflix-star-trek-discovery-finale-when-this-week)
+ - [Songs of Conquest is getting a full expansion in 2025, plus 4 DLCs to keep you busy until then](https://www.pcgamer.com/games/strategy/songs-of-conquest-is-getting-a-full-expansion-in-2025-plus-4-dlcs-to-keep-you-busy-until-then)
+ - [Call of Duty: Black Ops 6&#39;s latest teaser trailer is heavy on analogue horror and creepy mannequins](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6s-latest-teaser-trailer-is-heavy-on-analogue-horror-and-creepy-mannequins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
