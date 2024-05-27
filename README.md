@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How Good To See You Again So Soon, Mr. Wick.](http://9gag.com/gag/aW4WBq4)
- - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
- - 👉 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)<!-- MEMES:END -->
+ - 6️⃣ [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
+ - 😝 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)
+ - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
 
 --- 
 
