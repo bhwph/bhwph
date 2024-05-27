@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [35 Best Memorial Day Sales &lpar;2024&rpar;: TVs, Office Chairs, and Ebikes](https://www.wired.com/story/best-memorial-day-sales-2024/)
- - [The best Memorial Day sales happening now](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
- - [Deal: First $120 discount on the Galaxy Tab S9 FE Plus](https://www.androidauthority.com/deal-galaxy-tab-s9-fe-plus-3446427/)<!-- TECH:END -->
+ - [Kenyan tech workers call out US Big Tech for ‘modern-day slavery’](https://www.androidauthority.com/kenyan-workers-open-letter-3446459/)
+ - [The Sony WH-1000XM5 drop back to lowest price in Memorial Day sale](https://www.androidauthority.com/deal-sony-wh-1000xm5-3446455/)
+ - [Dating apps are trying to woo Gen Z women by boosting moderation tools and more; Tinder has consistently lost MAUs since 2021 and paid subs fell under 10M in Q1 &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240527/p5#a240527p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
