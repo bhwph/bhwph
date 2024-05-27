@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a prank bro](http://9gag.com/gag/a9yMQPo)
- - 😝 [Reality check](http://9gag.com/gag/ae93Xpp)
- - 👉 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)<!-- MEMES:END -->
+ - 6️⃣ [If you follow a few simple rules you can achieve your Dreams](http://9gag.com/gag/aVvWOX8)
+ - 😝 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)
+ - 👉 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)<!-- MEMES:END -->
 
 --- 
 
