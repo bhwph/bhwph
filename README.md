@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you are missing the best part of the show...](http://9gag.com/gag/aQz46vd)
- - 😝 [Reclaim what&#39;s yours, no emotional blackmail](http://9gag.com/gag/aPA46yg)
- - 👉 [His face](http://9gag.com/gag/a0eP20d)<!-- MEMES:END -->
+ - 6️⃣ [How Good To See You Again So Soon, Mr. Wick.](http://9gag.com/gag/aW4WBq4)
+ - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
+ - 👉 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)<!-- MEMES:END -->
 
 --- 
 
