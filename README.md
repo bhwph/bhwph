@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The secrets to gaming gravity](https://www.polygon.com/24157223/how-gravity-physics-work-for-jumping-falling-in-games)
- - [A delightfully-detailed, Discworld-inspired inn manager with absurd furniture customisation stashed in the larder: Tavern Keeper enters early access this year](https://www.pcgamer.com/games/life-sim/a-delightfully-detailed-discworld-inspired-inn-manager-with-absurd-furniture-customisation-stashed-in-the-larder-tavern-keeper-enters-early-access-this-year)
- - [Polygon’s most anticipated, least expected, 2024 summer preview](https://www.polygon.com/24164232/summer-2024-entertainment-preview)<!-- GAME:END -->
+ - [What time does Modern Warfare 3 season 4 release?](https://www.polygon.com/modern-warfare-3-guides/24163289/season-4-release-time-date-mw3)
+ - [Helldivers 2 players have successfully emancipated the Emancipator mech from the automaton assembly line, and of course the dual-autocannon exosuit  has triggered another debate about balance](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-have-successfully-emancipated-the-emancipator-mech-from-the-automaton-assembly-line-and-of-course-the-dual-autocannon-exosuit-has-triggered-another-debate-about-balance)
+ - [The secrets to gaming gravity](https://www.polygon.com/24157223/how-gravity-physics-work-for-jumping-falling-in-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
