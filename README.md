@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Auroras Should Be Spectacular This Summer, Thanks to Solar Maximum](https://www.wired.com/story/solar-maximum-aurora-northern-lights-2024-cme-sunspots/)
- - [One UI 6.1.1 could finally be the big camera upgrade for the Galaxy S24 Ultra](https://www.androidauthority.com/samsung-galaxy-s24-ultra-one-ui-6-1-1-camera-3446285/)
- - [Q&amp;A with Netflix&#39;s Ted Sarandos on the state of Hollywood, shifting US tastes, programming strategy, ads, corporate activism, YouTube, live events, AI, and more &lpar;Lulu Garcia-Navarro/New York Times&rpar;](http://www.techmeme.com/240527/p2#a240527p2)<!-- TECH:END -->
+ - [OLED iPad Pro screens could hit 9 million shipments in 2024](https://appleinsider.com/articles/24/05/27/oled-ipad-pro-screens-could-hit-9-million-shipments-in-2024?utm_medium=rss)
+ - [The Rebirth of Queer Cruising Apps](https://www.wired.com/story/the-rebirth-of-queer-cruising-apps-sniffies-bkdr-motto/)
+ - [Data.ai: of the top 20 education apps in the US App Store, five are AI agents that help with school assignments, the two most popular of which are Chinese-owned &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/240527/p3#a240527p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
