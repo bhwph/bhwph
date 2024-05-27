@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [-Which allergy do you have? -Yes](http://9gag.com/gag/aQz4P2d)
- - 😝 [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)
- - 👉 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)<!-- MEMES:END -->
+ - 6️⃣ [The printer-like method of this artist painting a large mural](http://9gag.com/gag/aAyVnA2)
+ - 😝 [Tiger nearly swiping a guy off an elephant](http://9gag.com/gag/a34d965)
+ - 👉 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)<!-- MEMES:END -->
 
 --- 
 
