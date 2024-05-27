@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some people remember small things about you and that\u2019s wholesome.](http://9gag.com/gag/adB63MB)
- - 😝 [His face](http://9gag.com/gag/a0eP20d)
- - 👉 [Quack](http://9gag.com/gag/an7XA2B)<!-- MEMES:END -->
+ - 6️⃣ [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
+ - 😝 [Reclaim what&#39;s yours, no emotional blackmail](http://9gag.com/gag/aPA46yg)
+ - 👉 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)<!-- MEMES:END -->
 
 --- 
 
