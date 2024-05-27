@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s xAI says it raised a $6B Series B from investors including Valor Equity Partners, Vy Capital, a16z, Sequoia Capital, Fidelity, and others &lpar;x.ai&rpar;](http://www.techmeme.com/240527/p1#a240527p1)
- - [Get Up to 50% Off DreamCloud Mattresses This Memorial Day     - CNET](https://www.cnet.com/deals/dreamcloud-memorial-day-deal-2024/#ftag=CAD590a51e)
- - [The Purple Mattress I Slept on for 5 Years Is on Sale This Memorial Day     - CNET](https://www.cnet.com/deals/purple-mattress-memorial-day-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hate WhatsApp’s green theme? You may need to buy an iPhone to change it](https://www.androidauthority.com/whatsapp-closer-releasing-themes-ios-3446262/)
+ - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
+ - [The Galaxy S25 Ultra could bring two key camera upgrades](https://www.androidauthority.com/samsung-galaxy-s25-ultra-leaked-camera-specs-3445936/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
