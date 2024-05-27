@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)
- - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
- - 👉 [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)<!-- MEMES:END -->
+ - 6️⃣ [-Which allergy do you have? -Yes](http://9gag.com/gag/aQz4P2d)
+ - 😝 [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)
+ - 👉 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)<!-- MEMES:END -->
 
 --- 
 
