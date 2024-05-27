@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)
- - 😝 [Oh yes...the common BMW driver.](http://9gag.com/gag/aBy39LZ)
- - 👉 [Why there&#39;s never a Fast And Furious set in Germany..](http://9gag.com/gag/aVvWj3n)<!-- MEMES:END -->
+ - 6️⃣ [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
+ - 😝 [Add `&amp;udm=14` to remove the useless AI results.](http://9gag.com/gag/an7KYyq)
+ - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
 
 --- 
 
