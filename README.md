@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram gets an in-app Copilot bot](https://www.theverge.com/2024/5/28/24166451/telegram-copilot-microsoft-ai-chatbot)
- - [Google won’t comment on a potentially massive leak of its search algorithm documentation](https://www.theverge.com/2024/5/28/24166177/google-search-ranking-algorithm-leak-documents-link-seo)
- - [&#39;Paper Mario: The Thousand-Year Door&#39; Sets the Standard for Classic Game Remakes](https://www.wired.com/story/paper-mario-the-thousand-year-door-sets-the-standard-for-classic-game-remakes/)<!-- TECH:END -->
+ - [Vivek Ramaswamy can’t even dunk on Buzzfeed right](https://www.theverge.com/2024/5/28/24166644/vivek-ramaswamy-buzzfeed-letter-shares)
+ - [Looks like the Galaxy Watch Ultra name is basically confirmed](https://www.androidauthority.com/samsung-galaxy-watch-ultra-tdra-3446862/)
+ - [Microsoft is making Edge faster... starting with this one menu](https://www.theverge.com/2024/5/28/24166556/microsoft-edge-speed-upgrade-webui-2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
