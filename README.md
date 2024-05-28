@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why there&#39;s never a Fast And Furious set in Germany..](http://9gag.com/gag/aVvWj3n)
- - 😝 [White](http://9gag.com/gag/a9yLbD6)
- - 👉 [Nice one &lpar;not mine&rpar;](http://9gag.com/gag/a9yLb0K)<!-- MEMES:END -->
+ - 6️⃣ [Have a rest](http://9gag.com/gag/aRBgxqG)
+ - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - 👉 [Well damnit man](http://9gag.com/gag/ary41L0)<!-- MEMES:END -->
 
 --- 
 
