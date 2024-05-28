@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Plus’ June 2024 lineup gives us Sega’s best beat-’em-up](https://www.polygon.com/24166146/playstation-plus-june-2024-monthly-games-list)
- - [Play Call of Duty: Black Ops 6 on Day One with Xbox Game Pass](https://news.xbox.com/en-us/2024/05/28/play-call-of-duty-black-ops-6-day-one-game-pass/)
- - [The 5 best Korean dramas to watch on Netflix this summer](https://www.polygon.com/what-to-watch/2024/5/28/24159038/best-korean-dramas-netflix-watch-summer-2024)<!-- GAME:END -->
+ - [Rainbow Six Siege’s New Subscription Is Already A Mess](https://kotaku.com/rainbow-six-siege-pass-membership-controversy-1851503881)
+ - [New Destiny 2: The Final Shape gameplay plunges deeper into The Traveler, out June 4](https://blog.playstation.com/2024/05/28/new-destiny-2-the-final-shape-gameplay-plunges-deeper-into-the-traveler-out-june-4/)
+ - [The Final Shape’s campaign finally makes good on Bungie’s ‘raid-lite’ promise](https://www.polygon.com/24164318/campaign-mechanics-raid-final-shape-interview-bungie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
