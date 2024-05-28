@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows will soon let you grab text from your Android photos](https://www.theverge.com/2024/5/27/24165825/windows-phone-link-select-text-photos)
- - [Apple&#39;s MacBook Air with 16GB RAM, 512GB SSD drops to record low $1,239](https://appleinsider.com/articles/24/05/27/apples-macbook-air-with-16gb-ram-512gb-ssd-drops-to-record-low-1269?utm_medium=rss)
- - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The hacking group RansomHub claims to be behind the attack that hit Christie&#39;s, and threatens to release sensitive information about the auction house&#39;s clients &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240527/p8#a240527p8)
+ - [Best Internet Providers in St. Paul, Minnesota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-st-paul-mn/#ftag=CAD590a51e)
+ - [Get Them Before They&#39;re Gone: The Best Memorial Day Deals for Under $100     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-100-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
