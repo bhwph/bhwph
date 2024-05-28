@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Premium class on the security floor of the baggage compartment? -Boldly.](http://9gag.com/gag/awyKbVr)
- - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 👉 [I will beat her lifeless if it\u2019s the last thing I do](http://9gag.com/gag/ae90Nxp)<!-- MEMES:END -->
+ - 6️⃣ [What a great company!](http://9gag.com/gag/a9yLbB6)
+ - 😝 [The acceptance!](http://9gag.com/gag/aRBPwjq)
+ - 👉 [Snaxx time](http://9gag.com/gag/aVvWO1O)<!-- MEMES:END -->
 
 --- 
 
