@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Which movie was great to watch in your teenage years but now feels more depressing?](http://9gag.com/gag/a9yLdj1)
- - 😝 [Do it, do it, do it](http://9gag.com/gag/avygp4Z)
- - 👉 [Made in China](http://9gag.com/gag/a6ZyLOm)<!-- MEMES:END -->
+ - 6️⃣ [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
+ - 😝 [Is this true? Swedish pls confirm. Thoughts?](http://9gag.com/gag/ary44WB)
+ - 👉 [What do you think about that?](http://9gag.com/gag/amo00O4)<!-- MEMES:END -->
 
 --- 
 
