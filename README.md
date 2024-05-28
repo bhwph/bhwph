@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where in Neomuna is Archie in Destiny 2?](https://www.polygon.com/destiny-2-guide-walkthrough/24166036/where-in-neomuna-is-archie-location)
- - [Dare to impress your dad this Father’s Day with these awesome gifts](https://www.polygon.com/24161974/best-fathers-day-gift-guide-ideas)
- - [The Sims 4’s next kits focus on poolside luxury and cozy bistro dining](https://www.polygon.com/24166495/the-sims-4-rivieria-retreat-cozy-bistro-gallery)<!-- GAME:END -->
+ - [CD Projekt doesn&#39;t feel &#39;threatened&#39; by Larian&#39;s move into Warsaw: &#39;The more, the merrier&#39;](https://www.pcgamer.com/gaming-industry/cd-projekt-doesnt-feel-threatened-by-larians-move-into-warsaw-the-more-the-merrier)
+ - [Official PlayStation Podcast Episode 485: Hope For Humanity](https://blog.playstation.com/2024/05/28/official-playstation-podcast-episode-485-hope-for-humanity/)
+ - [Multiversus’ Re-Launch Already Has Its Competitive Fans Upset](https://kotaku.com/multiversus-unlock-characters-local-tournaments-1851505068)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
