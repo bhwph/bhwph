@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How pro-Russian groups exploit Telegram, which has 41M MAUs in the EU, below the DSA&#39;s 45M threshold, to spread disinformation on Ukraine, immigration, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240528/p4#a240528p4)
- - [Anduril Is Building Out the Pentagon’s Dream of Deadly Drone Swarms](https://www.wired.com/story/anduril-is-building-out-the-pentagons-dream-of-deadly-drone-swarms/)
- - [Defunct bitcoin exchange Mt. Gox, which collapsed in 2014, moves 140K bitcoin, worth ~$9B, to an unknown address, likely part of a plan to repay creditors &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240528/p3#a240528p3)<!-- TECH:END -->
+ - [Torras 360 Spin Stand Case for iPhone 15 Pro Max has a MagSafe-compatible ring stand](https://appleinsider.com/articles/24/05/28/torras-360-spin-stand-case-for-iphone-15-pro-max-has-a-magsafe-compatible-ring-stand?utm_medium=rss)
+ - [Microsoft&#39;s Copilot PC and the M3 Mac killer myth](https://appleinsider.com/articles/24/05/28/microsofts-copilot-pc-and-the-m3-mac-killer-myth?utm_medium=rss)
+ - [Logitech Mevo Core Review: Dead Simple Multi-Cam Streaming](https://www.wired.com/review/logitech-mevo-core/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
