@@ -127,8 +127,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI demand is driving a rally in old school stocks in the utilities, energy, and materials sectors, which are needed to make and operate AI products &lpar;Charley Grant/Wall Street Journal&rpar;](http://www.techmeme.com/240528/p1#a240528p1)
- - [Phone Link for Windows will let you copy text from your Android phone’s photos](https://www.androidauthority.com/windows-11-phone-link-copy-text-android-phone-photos-3446532/)
+ - [Dealroom: in 2023, the combined enterprise value of Spanish startups surpassed &amp;euro;100B, and they raised &amp;euro;2.2B across 850+ funding rounds &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/240528/p2#a240528p2)
+ - [YouTube really hates ad blockers, starts skipping and muting videos](https://www.androidauthority.com/youtube-skipping-muting-videos-ad-blockers-3446529/)
  - [Memorial Day Sales Aren&#39;t Over Yet: Find Hefty Deals on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
