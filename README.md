@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memorial Day Sales Aren&#39;t Over Yet: Find Hefty Deals on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [My Favorite Sunrise Alarm Clock From Hatch Is $30 Cheaper This Memorial Day     - CNET](https://www.cnet.com/deals/hatch-restore-memorial-day-2024/#ftag=CAD590a51e)
- - [Nectar Mattresses Start at $349 This Memorial Day     - CNET](https://www.cnet.com/deals/nectar-memorial-day-deal-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to fill out and sign PDF forms on iPhone and iPad](https://appleinsider.com/inside/iphone/tips/how-to-fill-out-and-sign-pdf-forms-on-iphone-and-ipad?utm_medium=rss)
+ - [A look at &quot;prebunking&quot;, exposing people to low doses of misinfo with explanations to develop &quot;mental antibodies&quot; against disinfo, amid AI&#39;s threat to elections &lpar;Washington Post&rpar;](http://www.techmeme.com/240527/p9#a240527p9)
+ - [Earn Mega Savings With Mattress Firm&#39;s Memorial Day Sale     - CNET](https://www.cnet.com/deals/earn-massive-savings-with-mattress-firms-memorial-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
