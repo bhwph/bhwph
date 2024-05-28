@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well damnit man](http://9gag.com/gag/ary41L0)
+ - 6️⃣ [Why there&#39;s never a Fast And Furious set in Germany..](http://9gag.com/gag/aVvWj3n)
  - 😝 [White](http://9gag.com/gag/a9yLbD6)
- - 👉 [Wanting to not be raped, murdered, and replaced by low IQ 3rd worlders is now a `massive racism problem.`Germany\u2019s massive racism problem has been caught on camera again. German elite partying on the luxury island of Sylt were filmed singing `Germany for Germans,foreigners out`](http://9gag.com/gag/a343vne)<!-- MEMES:END -->
+ - 👉 [Nice one &lpar;not mine&rpar;](http://9gag.com/gag/a9yLb0K)<!-- MEMES:END -->
 
 --- 
 
