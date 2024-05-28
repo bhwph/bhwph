@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a great company!](http://9gag.com/gag/a9yLbB6)
- - 😝 [The acceptance!](http://9gag.com/gag/aRBPwjq)
- - 👉 [Snaxx time](http://9gag.com/gag/aVvWO1O)<!-- MEMES:END -->
+ - 6️⃣ [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)
+ - 😝 [Women](http://9gag.com/gag/aqyNm0Y)
+ - 👉 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)<!-- MEMES:END -->
 
 --- 
 
