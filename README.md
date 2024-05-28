@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI researcher who resigned over safety concerns joins Anthropic](https://www.theverge.com/2024/5/28/24166370/jan-leike-openai-anthropic-ai-safety-research)
- - [Apple&#39;s 2024 Design Awards have a new Spatial Computing category](https://appleinsider.com/articles/24/05/28/apples-2024-design-awards-have-a-new-spatial-computing-category?utm_medium=rss)
- - [YouTube&#39;s Playables, a collection of over 75 free games available on mobile and desktop, rolls out to all users &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240528/p18#a240528p18)<!-- TECH:END -->
+ - [Telegram gets an in-app Copilot bot](https://www.theverge.com/2024/5/28/24166451/telegram-copilot-microsoft-ai-chatbot)
+ - [Google won’t comment on a potentially massive leak of its search algorithm documentation](https://www.theverge.com/2024/5/28/24166177/google-search-ranking-algorithm-leak-documents-link-seo)
+ - [&#39;Paper Mario: The Thousand-Year Door&#39; Sets the Standard for Classic Game Remakes](https://www.wired.com/story/paper-mario-the-thousand-year-door-sets-the-standard-for-classic-game-remakes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
