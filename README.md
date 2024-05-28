@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Multiplayer sneakfest Sneak Out has a host of dirty tricks for Hunters to use](https://www.pcgamer.com/games/new-multiplayer-sneakfest-sneak-out-has-a-host-of-dirty-tricks-for-hunters-to-use)
- - [I thought Pine Hearts would be another heartwarming adventure, but it&#39;s actually one of the only games to reduce me to tears](https://www.pcgamer.com/games/adventure/i-thought-pine-hearts-would-be-another-heartwarming-adventure-but-its-actually-one-of-the-only-games-to-reduce-me-to-tears)
- - [China&#39;s latest round of domestic chipmaking funding raises $47 billion](https://www.pcgamer.com/hardware/chinas-latest-round-of-domestic-chipmaking-funding-raises-dollar47-billion)<!-- GAME:END -->
+ - [Days of Play 2024 comes to PlayStation Store](https://blog.playstation.com/2024/05/28/days-of-play-2024-comes-to-playstation-store/)
+ - [Get ready: Days of Play celebration kicks off on May 29](https://blog.playstation.com/2024/05/28/get-ready-days-of-play-celebration-kicks-off-on-may-29/)
+ - [Farmers who &#39;killed an unreasonably large number of Gulp Frogs&#39; for bronze and power have had their demi-godhood stripped from them in WoW&#39;s Mists of Pandaria: Remix](https://www.pcgamer.com/games/world-of-warcraft/farmers-who-killed-an-unreasonably-large-number-of-gulp-frogs-for-bronze-and-power-have-had-their-demi-godhood-stripped-from-them-in-wows-mists-of-pandaria-remix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
