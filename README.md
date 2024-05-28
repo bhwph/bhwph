@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Uvalde parents and school shooting victims  sue Activision](https://www.polygon.com/24166245/uvalde-school-shooting-activision-blizzard-negligence-lawsuit)
- - [There’s never been a better time to delve into Deep Rock Galactic](https://www.polygon.com/24166283/deep-rock-galactic-season-five-updates-franchise-survivor)
- - [Call Of Duty: Black Ops 6 Brings Back &#39;Dude Sitting With Guns&#39; Cover](https://kotaku.com/black-ops-6-call-of-duty-dude-on-cover-sitting-guns-art-1851500508)<!-- GAME:END -->
+ - [Where in Neomuna is Archie in Destiny 2?](https://www.polygon.com/destiny-2-guide-walkthrough/24166036/where-in-neomuna-is-archie-location)
+ - [Dare to impress your dad this Father’s Day with these awesome gifts](https://www.polygon.com/24161974/best-fathers-day-gift-guide-ideas)
+ - [The Sims 4’s next kits focus on poolside luxury and cozy bistro dining](https://www.polygon.com/24166495/the-sims-4-rivieria-retreat-cozy-bistro-gallery)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
