@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Torras 360 Spin Stand Case for iPhone 15 Pro Max has a MagSafe-compatible ring stand](https://appleinsider.com/articles/24/05/28/torras-360-spin-stand-case-for-iphone-15-pro-max-has-a-magsafe-compatible-ring-stand?utm_medium=rss)
- - [Microsoft&#39;s Copilot PC and the M3 Mac killer myth](https://appleinsider.com/articles/24/05/28/microsofts-copilot-pc-and-the-m3-mac-killer-myth?utm_medium=rss)
- - [Logitech Mevo Core Review: Dead Simple Multi-Cam Streaming](https://www.wired.com/review/logitech-mevo-core/)<!-- TECH:END -->
+ - [OpenAI has a new safety team — it’s run by Sam Altman](https://www.theverge.com/2024/5/28/24166105/openai-safety-team-sam-altman)
+ - [Microsoft confirms Call of Duty: Black Ops 6 is coming to Xbox Game Pass](https://www.theverge.com/2024/5/28/24166053/call-of-duty-black-ops-6-xbox-game-pass)
+ - [Sale bring record 33% savings on the Garmin Venu 2 Plus](https://www.androidauthority.com/sale-garmin-venu-2-plus-3446525/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
