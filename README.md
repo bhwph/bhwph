@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Days of Play 2024 comes to PlayStation Store](https://blog.playstation.com/2024/05/28/days-of-play-2024-comes-to-playstation-store/)
- - [Get ready: Days of Play celebration kicks off on May 29](https://blog.playstation.com/2024/05/28/get-ready-days-of-play-celebration-kicks-off-on-may-29/)
- - [Farmers who &#39;killed an unreasonably large number of Gulp Frogs&#39; for bronze and power have had their demi-godhood stripped from them in WoW&#39;s Mists of Pandaria: Remix](https://www.pcgamer.com/games/world-of-warcraft/farmers-who-killed-an-unreasonably-large-number-of-gulp-frogs-for-bronze-and-power-have-had-their-demi-godhood-stripped-from-them-in-wows-mists-of-pandaria-remix)<!-- GAME:END -->
+ - [PlayStation Plus’ June 2024 lineup gives us Sega’s best beat-’em-up](https://www.polygon.com/24166146/playstation-plus-june-2024-monthly-games-list)
+ - [Play Call of Duty: Black Ops 6 on Day One with Xbox Game Pass](https://news.xbox.com/en-us/2024/05/28/play-call-of-duty-black-ops-6-day-one-game-pass/)
+ - [The 5 best Korean dramas to watch on Netflix this summer](https://www.polygon.com/what-to-watch/2024/5/28/24159038/best-korean-dramas-netflix-watch-summer-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
