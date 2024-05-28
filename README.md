@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI has a new safety team — it’s run by Sam Altman](https://www.theverge.com/2024/5/28/24166105/openai-safety-team-sam-altman)
- - [Microsoft confirms Call of Duty: Black Ops 6 is coming to Xbox Game Pass](https://www.theverge.com/2024/5/28/24166053/call-of-duty-black-ops-6-xbox-game-pass)
- - [Sale bring record 33% savings on the Garmin Venu 2 Plus](https://www.androidauthority.com/sale-garmin-venu-2-plus-3446525/)<!-- TECH:END -->
+ - [Deal: The 10th Gen iPad hits new low price of $299.99](https://www.androidauthority.com/deal-10th-gen-ipad-3446707/)
+ - [A US judge sentences former FTX executive Ryan Salame to 7.5 years after he pled guilty to criminal charges over political contributions and more in 2023 &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240528/p14#a240528p14)
+ - [Microsoft confirms Call of Duty: Black Ops 6 will be available day one on Xbox Game Pass and PC Game Pass; Activision typically sells 20M+ copies of a COD game &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240528/p13#a240528p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
