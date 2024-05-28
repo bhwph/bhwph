@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - 6️⃣ [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
  - 😝 [White](http://9gag.com/gag/a9yLbD6)
  - 👉 [I will beat her lifeless if it\u2019s the last thing I do](http://9gag.com/gag/ae90Nxp)<!-- MEMES:END -->
 
