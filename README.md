@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rainbow Six Siege’s New Subscription Is Already A Mess](https://kotaku.com/rainbow-six-siege-pass-membership-controversy-1851503881)
- - [New Destiny 2: The Final Shape gameplay plunges deeper into The Traveler, out June 4](https://blog.playstation.com/2024/05/28/new-destiny-2-the-final-shape-gameplay-plunges-deeper-into-the-traveler-out-june-4/)
- - [The Final Shape’s campaign finally makes good on Bungie’s ‘raid-lite’ promise](https://www.polygon.com/24164318/campaign-mechanics-raid-final-shape-interview-bungie)<!-- GAME:END -->
+ - [Uvalde parents and school shooting victims  sue Activision](https://www.polygon.com/24166245/uvalde-school-shooting-activision-blizzard-negligence-lawsuit)
+ - [There’s never been a better time to delve into Deep Rock Galactic](https://www.polygon.com/24166283/deep-rock-galactic-season-five-updates-franchise-survivor)
+ - [Call Of Duty: Black Ops 6 Brings Back &#39;Dude Sitting With Guns&#39; Cover](https://kotaku.com/black-ops-6-call-of-duty-dude-on-cover-sitting-guns-art-1851500508)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
