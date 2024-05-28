@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
- - 😝 [Add `&amp;udm=14` to remove the useless AI results.](http://9gag.com/gag/an7KYyq)
- - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
+ - 6️⃣ [Premium class on the security floor of the baggage compartment? -Boldly.](http://9gag.com/gag/awyKbVr)
+ - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - 👉 [I will beat her lifeless if it\u2019s the last thing I do](http://9gag.com/gag/ae90Nxp)<!-- MEMES:END -->
 
 --- 
 
