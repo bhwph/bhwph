@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Have a rest](http://9gag.com/gag/aRBgxqG)
- - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 👉 [Well damnit man](http://9gag.com/gag/ary41L0)<!-- MEMES:END -->
+ - 6️⃣ [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - 😝 [White](http://9gag.com/gag/a9yLbD6)
+ - 👉 [I will beat her lifeless if it\u2019s the last thing I do](http://9gag.com/gag/ae90Nxp)<!-- MEMES:END -->
 
 --- 
 
