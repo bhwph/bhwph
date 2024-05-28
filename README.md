@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [White](http://9gag.com/gag/a9yLbD6)
- - 😝 [-Which allergy do you have? -Yes](http://9gag.com/gag/aQz4P2d)
- - 👉 [Well damnit man](http://9gag.com/gag/ary41L0)<!-- MEMES:END -->
+ - 6️⃣ [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
+ - 😝 [Shoulder gunshot wounds are commonly fatal since the brachial artery is typically ruptured.](http://9gag.com/gag/aVvWz3P)
+ - 👉 [White](http://9gag.com/gag/a9yLbD6)<!-- MEMES:END -->
 
 --- 
 
