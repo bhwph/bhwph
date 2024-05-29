@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That moment of realization](http://9gag.com/gag/aoy0z1n)
- - 😝 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
- - 👉 [WTF is even that?](http://9gag.com/gag/axyZ2V1)<!-- MEMES:END -->
+ - 6️⃣ [I want to know](http://9gag.com/gag/aoy09D0)
+ - 😝 [Is in my blood](http://9gag.com/gag/aW4WOr6)
+ - 👉 [How are you holding up fellow 9gaggers](http://9gag.com/gag/a3433m3)<!-- MEMES:END -->
 
 --- 
 
