@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony pulls interview with Neil Druckmann, citing ‘significant errors and inaccuracies’](https://www.theverge.com/2024/5/29/24167052/sony-the-last-of-us-interview-neil-druckmann-retraction)
- - [Sources: Musk and Trump talk many times/month, on topics like a role in a Trump admin, action on &quot;voter fraud&quot;, and X; Musk is organizing friends against Biden &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240529/p24#a240529p24)
- - [TerraMaster D8 Hybrid drive enclosure review: Lots of data, not enough bandwidth](https://appleinsider.com/articles/24/05/29/terramaster-d8-hybrid-drive-enclosure-review-lots-of-data-not-enough-bandwidth?utm_medium=rss)<!-- TECH:END -->
+ - [Framework now lets you upgrade its Laptop 13 with a drop-in 120Hz screen, better webcam, and Core Ultra chip](https://www.theverge.com/2024/5/29/24167310/framework-laptop-13-screen-webcam-core-ultra-sd-upgrades)
+ - [Apple’s new iPad Pro ad puts the focus back on creators](https://www.theverge.com/2024/5/29/24167204/apple-ipad-pro-ad-creators-worlds-crushing-controversy)
+ - [Chrome adds picture-in-picture web browsing for Android apps](https://www.theverge.com/2024/5/29/24167287/google-chrome-picture-in-picture-web-browsing-android-apps)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
