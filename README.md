@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sketchy rumor claims iPhone 16 Pro batteries to see modest size increase](https://appleinsider.com/articles/24/05/29/sketchy-rumor-claims-iphone-16-pro-batteries-to-see-modest-size-increase?utm_medium=rss)
- - [The Internet Archive says it has been under an intermittent DDoS attack for the past three days, making access inconsistent, but &quot;the data is not affected&quot; &lpar;Kate Irwin/PCMag&rpar;](http://www.techmeme.com/240528/p26#a240528p26)
- - [Former OpenAI board member explains why they fired Sam Altman](https://www.theverge.com/2024/5/28/24166713/openai-helen-toner-explains-why-sam-altman-was-fired)<!-- TECH:END -->
+ - [Leaked letter: a US group representing Google, Amazon, and Apple asks India to rethink its DMA-like Digital Competition Bill, saying it could raise user costs &lpar;Reuters&rpar;](http://www.techmeme.com/240529/p1#a240529p1)
+ - [Samsung&#39;s labor union said it will carry out its first ever strike after wage negotiations, which have been ongoing since the start of 2024, broke down &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240528/p28#a240528p28)
+ - [Don&#39;t Snooze on These Remaining Memorial Day Sleep Sales: The Best Deals on Cooling Pillows, Comforters and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024-05-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
