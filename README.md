@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [White](http://9gag.com/gag/a9yLbD6)
- - 😝 [We&#39;ve reached the point where technology isn&#39;t the bottleneck anymore, its the creativity of the devs!](http://9gag.com/gag/aRBPw5y)
- - 👉 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)<!-- MEMES:END -->
+ - 6️⃣ [Berlin, Germany](http://9gag.com/gag/an7KKGB)
+ - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
+ - 👉 [Long story short...](http://9gag.com/gag/aKGPPpg)<!-- MEMES:END -->
 
 --- 
 
