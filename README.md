@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Lorcana’s first tournament winner received an exceptional prize](https://www.polygon.com/24167042/disney-lorcana-challenge-champion-gold-prize-card-mickey-mouse-brave-little-tailor)
- - [Sony apologizes for Sony interview with Sony developer Neil Druckmann](https://www.pcgamer.com/gaming-industry/sony-apologizes-for-sony-interview-with-sony-developer-neil-druckmann)
- - [Hope or nope? 2 radically different readings of I Saw the TV Glow’s bleak ending](https://www.polygon.com/24166500/i-saw-the-tv-glow-ending-interpretations-hope-jane-schoenbrun)<!-- GAME:END -->
+ - [Persona 5 Royal Mod Lets You Finally Date The Dudes](https://kotaku.com/persona-5-royal-gay-romance-mod-pc-ryuji-akechi-yusuke-1851507174)
+ - [Thelma is a geri-action movie that doesn’t miss a step](https://www.polygon.com/24164155/thelma-movie-preview-action-comedy)
+ - [MultiVersus Is Back And It&#39;s A Big Mess](https://kotaku.com/multiversus-return-review-fps-laggy-locked-characters-1851506741)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
