@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s durability testing is way more than a YouTuber can manage](https://appleinsider.com/articles/24/05/29/apples-durability-testing-is-way-more-than-a-youtuber-can-manage?utm_medium=rss)
- - [Cadillac Optiq, the brand’s second EV, will start at $54,000](https://www.theverge.com/2024/5/29/24166206/cadillac-optiq-ev-price-specs-photos)
- - [Galaxy Ring could have a ‘Lost mode’ to make sure you can find it &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-ring-lost-mode-3447019/)<!-- TECH:END -->
+ - [Sony pulls interview with Neil Druckmann, citing ‘significant errors and inaccuracies’](https://www.theverge.com/2024/5/29/24167052/sony-the-last-of-us-interview-neil-druckmann-retraction)
+ - [Sources: Musk and Trump talk many times/month, on topics like a role in a Trump admin, action on &quot;voter fraud&quot;, and X; Musk is organizing friends against Biden &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240529/p24#a240529p24)
+ - [TerraMaster D8 Hybrid drive enclosure review: Lots of data, not enough bandwidth](https://appleinsider.com/articles/24/05/29/terramaster-d8-hybrid-drive-enclosure-review-lots-of-data-not-enough-bandwidth?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
