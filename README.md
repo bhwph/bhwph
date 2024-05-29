@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework now lets you upgrade its Laptop 13 with a drop-in 120Hz screen, better webcam, and Core Ultra chip](https://www.theverge.com/2024/5/29/24167310/framework-laptop-13-screen-webcam-core-ultra-sd-upgrades)
- - [Apple’s new iPad Pro ad puts the focus back on creators](https://www.theverge.com/2024/5/29/24167204/apple-ipad-pro-ad-creators-worlds-crushing-controversy)
- - [Chrome adds picture-in-picture web browsing for Android apps](https://www.theverge.com/2024/5/29/24167287/google-chrome-picture-in-picture-web-browsing-android-apps)<!-- TECH:END -->
+ - [Google confirms the leaked Search documents are real](https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation)
+ - [Custom GPTs open for free ChatGPT users](https://www.theverge.com/2024/5/29/24167436/chatgpt-4o-custom-gpts-free)
+ - [Every M3 iMac 24-inch is up to $200 off, plus get AppleCare savings with coupon](https://appleinsider.com/articles/24/05/29/every-m3-imac-24-inch-is-up-to-200-off-plus-get-applecare-savings-with-coupon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
