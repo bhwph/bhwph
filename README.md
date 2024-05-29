@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Took her a while](http://9gag.com/gag/azxEVAN)
- - 😝 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
- - 👉 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)<!-- MEMES:END -->
+ - 6️⃣ [All hail Denmark](http://9gag.com/gag/aLnPBOA)
+ - 😝 [I want to know](http://9gag.com/gag/aoy09D0)
+ - 👉 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)<!-- MEMES:END -->
 
 --- 
 
