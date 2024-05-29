@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Invisible PC projects are ten a penny but this one is so good, I want all my rigs to be like this](https://www.pcgamer.com/hardware/invisible-pc-projects-are-ten-a-penny-but-this-one-is-so-good-i-want-all-my-rigs-to-be-like-this)
- - [Did you know your gaming PC&#39;s family tree could be traced back to one 1960s nuclear ICBM?](https://www.pcgamer.com/hardware/did-you-know-your-gaming-pcs-family-tree-could-be-traced-back-to-one-1960s-nuclear-icbm)
- - [How to complete the vault puzzles in Destiny 2’s ‘Zero Hour’](https://www.polygon.com/destiny-2-guide-walkthrough/24160970/vault-puzzle-vaulted-obstacles-code-order)<!-- GAME:END -->
+ - [Honkai: Star Rail codes for May 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [Google seemingly leaked a treasure trove of technical search algorithm details by accident and now SEO people are getting real aggro](https://www.pcgamer.com/hardware/google-seemingly-leaked-a-treasure-trove-of-technical-search-algorithm-details-by-accident-and-now-seo-people-are-getting-real-aggro)
+ - [YouTube&#39;s Big Gaming Push Feels Like It&#39;s From 2004](https://kotaku.com/youtube-playables-angry-birds-showdown-1851506040)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
