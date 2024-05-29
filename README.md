@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Took her a while](http://9gag.com/gag/azxEVAN)
- - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
- - 👉 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)<!-- MEMES:END -->
+ - 6️⃣ [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 😝 [This man is driving his car, meanwhile he has a suspended license.](http://9gag.com/gag/ae9065b)
+ - 👉 [Meanwhile in Europe \ud83d\udd0a](http://9gag.com/gag/avygLKM)<!-- MEMES:END -->
 
 --- 
 
