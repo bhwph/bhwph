@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt doesn&#39;t feel &#39;threatened&#39; by Larian&#39;s move into Warsaw: &#39;The more, the merrier&#39;](https://www.pcgamer.com/gaming-industry/cd-projekt-doesnt-feel-threatened-by-larians-move-into-warsaw-the-more-the-merrier)
- - [Official PlayStation Podcast Episode 485: Hope For Humanity](https://blog.playstation.com/2024/05/28/official-playstation-podcast-episode-485-hope-for-humanity/)
- - [Multiversus’ Re-Launch Already Has Its Competitive Fans Upset](https://kotaku.com/multiversus-unlock-characters-local-tournaments-1851505068)<!-- GAME:END -->
+ - [Days of Play 2024 Sale Featuring Discounts on PlayStation 5 and PS VR2 for limited period!](https://blog.playstation.com/2024/05/28/20240529-daysofplay/)
+ - [&lpar;For Southeast Asia&rpar; Get ready: Days of Play Celebration Kicks off on May 29](https://blog.playstation.com/2024/05/28/20240529-daysofplay-2/)
+ - [MultiVersus relaunch attracts over 110K concurrent players on Steam](https://www.pcgamer.com/games/fighting/multiversus-relaunch-attracts-over-110k-concurrent-players-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
