@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Temu and Pinduoduo parent PDD, whose shares are up 109% in the past year, has a ~$208B market cap, compared with Alibaba&#39;s $196B and JD.com&#39;s $48B &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240529/p4#a240529p4)
- - [Malaysia plans to allocate at least ~$5.33B over the next 5-10 years under its new National Semiconductor Strategy, which aims to train 60,000 chip engineers &lpar;Norman Goh/Nikkei Asia&rpar;](http://www.techmeme.com/240529/p3#a240529p3)
- - [The 4 Best Gaming Routers of 2024     - CNET](https://www.cnet.com/home/internet/best-gaming-routers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s precious Search recipe exposed in huge leak](https://www.androidauthority.com/google-search-algorithm-alleged-leak-3446883/)
+ - [Analysis: food delivery apps Deliveroo, Just Eat Takeaway, Delivery Hero, and DoorDash have racked up $20.3B in combined operating losses since they went public &lpar;Financial Times&rpar;](http://www.techmeme.com/240529/p6#a240529p6)
+ - [GPD is making a dual-screen OLED laptop that flips and folds](https://www.theverge.com/2024/5/29/24166852/gpd-duo-dual-screen-oled-laptop-teaser)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
