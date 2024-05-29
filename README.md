@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That moment of realization](http://9gag.com/gag/aoy0z1n)
- - 😝 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
- - 👉 [How are you holding up fellow 9gaggers](http://9gag.com/gag/a3433m3)<!-- MEMES:END -->
+ - 6️⃣ [Which movie was great to watch in your teenage years but now feels more depressing?](http://9gag.com/gag/a9yLdj1)
+ - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - 👉 [All hail Denmark](http://9gag.com/gag/aLnPBOA)<!-- MEMES:END -->
 
 --- 
 
