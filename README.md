@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Solutions by Text, which offers conversational messaging tools for businesses to let users pay bills and more via text, raised $110M, after raising $35M in 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240529/p15#a240529p15)
- - [Get Apple&#39;s 10th-gen iPad for a low $299.99 today](https://appleinsider.com/articles/24/05/29/get-apples-10th-gen-ipad-for-just-29999-today?utm_medium=rss)
- - [BlackRock&#39;s iShares Bitcoin Trust becomes the largest bitcoin fund, holding $19.68B to surpass Grayscale&#39;s $19.65B and Fidelity&#39;s $11.1B since its 2024 launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/240529/p14#a240529p14)<!-- TECH:END -->
+ - [Samsung Messages app crashing over and over? It’s not you, it’s Google. Here’s how to fix!](https://www.androidauthority.com/samsung-messages-app-crash-3447014/)
+ - [Brad Pitt &amp; George Clooney are lone &#39;Wolfs&#39; in Apple movie trailer](https://appleinsider.com/articles/24/05/29/brad-pitt-george-clooney-are-lone-wolfs-in-apple-movie-trailer?utm_medium=rss)
+ - [French publishers ask Tim Cook to abandon forthcoming Web Eraser](https://appleinsider.com/articles/24/05/29/french-publishers-ask-tim-cook-to-abandon-forthcoming-web-eraser?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
