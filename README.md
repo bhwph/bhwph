@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 5 Royal Mod Lets You Finally Date The Dudes](https://kotaku.com/persona-5-royal-gay-romance-mod-pc-ryuji-akechi-yusuke-1851507174)
- - [Thelma is a geri-action movie that doesn’t miss a step](https://www.polygon.com/24164155/thelma-movie-preview-action-comedy)
- - [MultiVersus Is Back And It&#39;s A Big Mess](https://kotaku.com/multiversus-return-review-fps-laggy-locked-characters-1851506741)<!-- GAME:END -->
+ - [This new wave of life sims should take inspiration from Minecraft and Fortnite](https://www.polygon.com/2024/5/29/24166613/life-sim-trend-the-sims-5-inzoi-paralives-life-by-you)
+ - [Fan artists are mashing up their favorite games with Hades 2’s friends and fiends](https://www.polygon.com/24167198/hades-2-jesus-fan-art-crossover-dark-souls-call-of-duty)
+ - [Riot celebrates an esports legend with its &#39;most generous bundles to date&#39; and the best cosmetics will only cost you a measly $500](https://www.pcgamer.com/games/moba/riot-celebrates-an-esports-legend-with-its-most-generous-bundles-to-date-and-the-best-cosmetics-will-only-cost-you-a-measly-dollar500)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
