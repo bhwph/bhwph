@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
- - 😝 [This man is driving his car, meanwhile he has a suspended license.](http://9gag.com/gag/ae9065b)
- - 👉 [Meanwhile in Europe \ud83d\udd0a](http://9gag.com/gag/avygLKM)<!-- MEMES:END -->
+ - 6️⃣ [NDR now deleted the tweet. Imagine having to pay \u20ac19/month for this news channels like this as a German.](http://9gag.com/gag/an7K1zo)
+ - 😝 [Meanwhile in Europe \ud83d\udd0a](http://9gag.com/gag/avygLKM)
+ - 👉 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)<!-- MEMES:END -->
 
 --- 
 
