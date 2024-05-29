@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s precious Search recipe exposed in huge leak](https://www.androidauthority.com/google-search-algorithm-alleged-leak-3446883/)
- - [Analysis: food delivery apps Deliveroo, Just Eat Takeaway, Delivery Hero, and DoorDash have racked up $20.3B in combined operating losses since they went public &lpar;Financial Times&rpar;](http://www.techmeme.com/240529/p6#a240529p6)
- - [GPD is making a dual-screen OLED laptop that flips and folds](https://www.theverge.com/2024/5/29/24166852/gpd-duo-dual-screen-oled-laptop-teaser)<!-- TECH:END -->
+ - [Move over Humane and Rabbit, this startup wants to put generative AI in your ears](https://www.androidauthority.com/iyo-one-genai-tws-earbuds-pre-order-3446911/)
+ - [EU Agency for Cybersecurity head Juhan Lepassaar says disruptive digital attacks, many tied to Russia-backed groups, have doubled in the EU in recent months &lpar;Derek Gatopoulos/Associated Press&rpar;](http://www.techmeme.com/240529/p9#a240529p9)
+ - [Sony made a PSVR 2 adapter for PC support](https://www.theverge.com/2024/5/29/24166879/sony-psvr2-pc-support-adapter-certification-filing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
