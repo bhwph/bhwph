@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [NDR now deleted the tweet. Imagine having to pay \u20ac19/month for this news channels like this as a German.](http://9gag.com/gag/an7K1zo)
- - 😝 [Meanwhile in Europe \ud83d\udd0a](http://9gag.com/gag/avygLKM)
- - 👉 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)<!-- MEMES:END -->
+ - 6️⃣ [Took her a while](http://9gag.com/gag/azxEVAN)
+ - 😝 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
+ - 👉 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)<!-- MEMES:END -->
 
 --- 
 
