@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vivek Ramaswamy can’t even dunk on Buzzfeed right](https://www.theverge.com/2024/5/28/24166644/vivek-ramaswamy-buzzfeed-letter-shares)
- - [Looks like the Galaxy Watch Ultra name is basically confirmed](https://www.androidauthority.com/samsung-galaxy-watch-ultra-tdra-3446862/)
- - [Microsoft is making Edge faster... starting with this one menu](https://www.theverge.com/2024/5/28/24166556/microsoft-edge-speed-upgrade-webui-2)<!-- TECH:END -->
+ - [New Galaxy Z Flip 6 and Galaxy Ring details have leaked, courtesy of the FCC](https://www.theverge.com/2024/5/28/24166632/galaxy-z-flip-6-smart-ring-size-battery-capacity-leaks)
+ - [The 3 Best Juicers of 2024, Tested by CNET Editors     - CNET](https://www.cnet.com/home/kitchen-and-household/best-juicer/#ftag=CAD590a51e)
+ - [My Favorite Sunrise Alarm Clock From Hatch Is Still $30 Cheaper Post-Memorial Day     - CNET](https://www.cnet.com/deals/hatch-restore-memorial-day-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
