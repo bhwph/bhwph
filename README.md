@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Galaxy Z Flip 6 and Galaxy Ring details have leaked, courtesy of the FCC](https://www.theverge.com/2024/5/28/24166632/galaxy-z-flip-6-smart-ring-size-battery-capacity-leaks)
- - [The 3 Best Juicers of 2024, Tested by CNET Editors     - CNET](https://www.cnet.com/home/kitchen-and-household/best-juicer/#ftag=CAD590a51e)
- - [My Favorite Sunrise Alarm Clock From Hatch Is Still $30 Cheaper Post-Memorial Day     - CNET](https://www.cnet.com/deals/hatch-restore-memorial-day-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sketchy rumor claims iPhone 16 Pro batteries to see modest size increase](https://appleinsider.com/articles/24/05/29/sketchy-rumor-claims-iphone-16-pro-batteries-to-see-modest-size-increase?utm_medium=rss)
+ - [The Internet Archive says it has been under an intermittent DDoS attack for the past three days, making access inconsistent, but &quot;the data is not affected&quot; &lpar;Kate Irwin/PCMag&rpar;](http://www.techmeme.com/240528/p26#a240528p26)
+ - [Former OpenAI board member explains why they fired Sam Altman](https://www.theverge.com/2024/5/28/24166713/openai-helen-toner-explains-why-sam-altman-was-fired)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
