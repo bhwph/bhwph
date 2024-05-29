@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Berlin, Germany](http://9gag.com/gag/an7KKGB)
- - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
- - 👉 [Long story short...](http://9gag.com/gag/aKGPPpg)<!-- MEMES:END -->
+ - 6️⃣ [That moment of realization](http://9gag.com/gag/aoy0z1n)
+ - 😝 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
+ - 👉 [WTF is even that?](http://9gag.com/gag/axyZ2V1)<!-- MEMES:END -->
 
 --- 
 
