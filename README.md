@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Berlin, Germany](http://9gag.com/gag/an7KKGB)
- - 😝 [Burger](http://9gag.com/gag/aZZxpNQ)
- - 👉 [Prove me wrong?](http://9gag.com/gag/aPA44vg)<!-- MEMES:END -->
+ - 6️⃣ [Took her a while](http://9gag.com/gag/azxEVAN)
+ - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
+ - 👉 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)<!-- MEMES:END -->
 
 --- 
 
