@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Messages app crashing over and over? It’s not you, it’s Google. Here’s how to fix!](https://www.androidauthority.com/samsung-messages-app-crash-3447014/)
- - [Brad Pitt &amp; George Clooney are lone &#39;Wolfs&#39; in Apple movie trailer](https://appleinsider.com/articles/24/05/29/brad-pitt-george-clooney-are-lone-wolfs-in-apple-movie-trailer?utm_medium=rss)
- - [French publishers ask Tim Cook to abandon forthcoming Web Eraser](https://appleinsider.com/articles/24/05/29/french-publishers-ask-tim-cook-to-abandon-forthcoming-web-eraser?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s durability testing is way more than a YouTuber can manage](https://appleinsider.com/articles/24/05/29/apples-durability-testing-is-way-more-than-a-youtuber-can-manage?utm_medium=rss)
+ - [Cadillac Optiq, the brand’s second EV, will start at $54,000](https://www.theverge.com/2024/5/29/24166206/cadillac-optiq-ev-price-specs-photos)
+ - [Galaxy Ring could have a ‘Lost mode’ to make sure you can find it &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-ring-lost-mode-3447019/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
