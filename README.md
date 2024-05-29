@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Which movie was great to watch in your teenage years but now feels more depressing?](http://9gag.com/gag/a9yLdj1)
- - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
- - 👉 [All hail Denmark](http://9gag.com/gag/aLnPBOA)<!-- MEMES:END -->
+ - 6️⃣ [White](http://9gag.com/gag/a9yLbD6)
+ - 😝 [We&#39;ve reached the point where technology isn&#39;t the bottleneck anymore, its the creativity of the devs!](http://9gag.com/gag/aRBPw5y)
+ - 👉 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)<!-- MEMES:END -->
 
 --- 
 
