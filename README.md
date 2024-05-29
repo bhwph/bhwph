@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This new wave of life sims should take inspiration from Minecraft and Fortnite](https://www.polygon.com/2024/5/29/24166613/life-sim-trend-the-sims-5-inzoi-paralives-life-by-you)
- - [Fan artists are mashing up their favorite games with Hades 2’s friends and fiends](https://www.polygon.com/24167198/hades-2-jesus-fan-art-crossover-dark-souls-call-of-duty)
- - [Riot celebrates an esports legend with its &#39;most generous bundles to date&#39; and the best cosmetics will only cost you a measly $500](https://www.pcgamer.com/games/moba/riot-celebrates-an-esports-legend-with-its-most-generous-bundles-to-date-and-the-best-cosmetics-will-only-cost-you-a-measly-dollar500)<!-- GAME:END -->
+ - [If you love how Balatro mutates the game of poker, Dungeons &amp; Degenerate Gamblers is doing something similar to blackjack, and there&#39;s a demo you can try now](https://www.pcgamer.com/games/card-games/if-you-love-how-balatro-mutates-the-game-of-poker-dungeons-and-degenerate-gamblers-is-doing-something-similar-to-blackjack-and-theres-a-demo-you-can-try-now)
+ - [Wildermyth’s studio will conclude the game with its final expansion](https://www.polygon.com/2024/5/29/24167458/wildermyth-final-expansion-game-ending)
+ - [Diablo 4&#39;s strongest weapon isn&#39;t a weapon at all: It&#39;s a deadly potion capable of dealing billions of damage](https://www.pcgamer.com/games/rpg/diablo-4s-strongest-weapon-isnt-a-weapon-at-all-its-a-deadly-potion-capable-of-dealing-billions-of-damage)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
