@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
- - 😝 [Is this true? Swedish pls confirm. Thoughts?](http://9gag.com/gag/ary44WB)
- - 👉 [What do you think about that?](http://9gag.com/gag/amo00O4)<!-- MEMES:END -->
+ - 6️⃣ [That moment of realization](http://9gag.com/gag/aoy0z1n)
+ - 😝 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
+ - 👉 [How are you holding up fellow 9gaggers](http://9gag.com/gag/a3433m3)<!-- MEMES:END -->
 
 --- 
 
