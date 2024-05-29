@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail codes for May 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
- - [Google seemingly leaked a treasure trove of technical search algorithm details by accident and now SEO people are getting real aggro](https://www.pcgamer.com/hardware/google-seemingly-leaked-a-treasure-trove-of-technical-search-algorithm-details-by-accident-and-now-seo-people-are-getting-real-aggro)
- - [YouTube&#39;s Big Gaming Push Feels Like It&#39;s From 2004](https://kotaku.com/youtube-playables-angry-birds-showdown-1851506040)<!-- GAME:END -->
+ - [Disney Lorcana’s first tournament winner received an exceptional prize](https://www.polygon.com/24167042/disney-lorcana-challenge-champion-gold-prize-card-mickey-mouse-brave-little-tailor)
+ - [Sony apologizes for Sony interview with Sony developer Neil Druckmann](https://www.pcgamer.com/gaming-industry/sony-apologizes-for-sony-interview-with-sony-developer-neil-druckmann)
+ - [Hope or nope? 2 radically different readings of I Saw the TV Glow’s bleak ending](https://www.polygon.com/24166500/i-saw-the-tv-glow-ending-interpretations-hope-jane-schoenbrun)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
