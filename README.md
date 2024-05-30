@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arrowhead&#39;s new CEO says the studio &#39;knew it would be impossible&#39; to keep up with Helldivers 2&#39;s demand for new content, is now focussed on adjusting &#39;so that in the long term we can make more and better stuff&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowheads-new-ceo-says-the-studio-knew-it-would-be-impossible-to-keep-up-with-helldivers-2s-demand-for-new-content-is-now-focussed-on-adjusting-so-that-in-the-long-term-we-can-make-more-and-better-stuff)
- - [Dungeons of Hinterberg Captures True Vacation Vibes &lpar;With Added Monster Slaying&rpar;](https://news.xbox.com/en-us/2024/05/30/dungeons-of-hinterberg-hands-on-preview/)
- - [Helldivers 2 may have triggered a wave of bans for 20,000 Russian and Belarusian Steam accounts](https://www.pcgamer.com/hardware/helldivers-2-may-have-triggered-a-wave-of-bans-for-20000-russian-and-belarusian-steam-accounts)<!-- GAME:END -->
+ - [How to watch PlayStation’s new State of Play stream](https://www.polygon.com/24158274/playstation-state-of-play-may-2024-date-sony)
+ - [Let Keanu Reeves punch and shoot his way onto your summer reading list](https://www.polygon.com/24166316/keanu-reeves-china-mieville-book-of-elsewhere-brzrkr)
+ - [Minecraft Animated Series Coming To Netflix](https://kotaku.com/netflix-minecraft-animated-series-announced-1851508856)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
