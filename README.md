@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
- - 😝 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
- - 👉 [Save Your Beloved ones from such Evil Animals](http://9gag.com/gag/azxEj4p)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
+ - 😝 [They found out](http://9gag.com/gag/a2vY4E1)
+ - 👉 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)<!-- MEMES:END -->
 
 --- 
 
