@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
- - 😝 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
- - 👉 [Prove me wrong?](http://9gag.com/gag/aPA44vg)<!-- MEMES:END -->
+ - 6️⃣ [Let\u2019s go again, hopefully it wont get deleted.](http://9gag.com/gag/adBYXKZ)
+ - 😝 [They terk arr jrbs arrrr](http://9gag.com/gag/amo0rLV)
+ - 👉 [Me watching gigi posts](http://9gag.com/gag/a9yLYBL)<!-- MEMES:END -->
 
 --- 
 
