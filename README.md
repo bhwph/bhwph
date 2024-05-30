@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk finally agrees to testify in the SEC’s Twitter investigation](https://www.theverge.com/2024/5/30/24167910/elon-musk-testify-sec-twitter-investigation)
- - [WeWork Survived Bankruptcy. Now It Has to Make Coworking Pay Off](https://www.wired.com/story/wework-bankruptcy-future-of-work/)
- - [Ecobee’s smart thermostat can automatically respond to a heatwave](https://www.theverge.com/2024/5/30/24167870/ecobees-smart-thermostat-can-automatically-respond-to-a-heatwave)<!-- TECH:END -->
+ - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)
+ - [Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta account for 30% of the S&amp;P 500 Index, up from ~26% at the start of the year, after a surge driven by Nvidia &lpar;Bloomberg&rpar;](http://www.techmeme.com/240530/p35#a240530p35)
+ - [T-Mobile celebrates eight years of T-Mobile Tuesdays with major prizes and new perks](https://www.androidauthority.com/tmobile-tuesdays-anniversary-3447498/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
