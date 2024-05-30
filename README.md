@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
- - 😝 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
- - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
+ - 6️⃣ [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
+ - 👉 [Took her a while](http://9gag.com/gag/azxEVAN)<!-- MEMES:END -->
 
 --- 
 
