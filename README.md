@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)
- - [Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta account for 30% of the S&amp;P 500 Index, up from ~26% at the start of the year, after a surge driven by Nvidia &lpar;Bloomberg&rpar;](http://www.techmeme.com/240530/p35#a240530p35)
- - [T-Mobile celebrates eight years of T-Mobile Tuesdays with major prizes and new perks](https://www.androidauthority.com/tmobile-tuesdays-anniversary-3447498/)<!-- TECH:END -->
+ - [Sources: Apple plans to overhaul Siri with more advanced AI, a move that will allow Siri to take command of all the features within apps for the first time &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240530/p39#a240530p39)
+ - [Android 15 Beta 1 is now available for Nothing Phone 2](https://www.androidauthority.com/nothing-phone-2-android-15-beta-1-3447525/)
+ - [Sources: US has delayed license requests from chipmakers for AI accelerator shipments to the Middle East and is worried about the tech getting diverted to China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240530/p38#a240530p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
