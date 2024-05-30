@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you love how Balatro mutates the game of poker, Dungeons &amp; Degenerate Gamblers is doing something similar to blackjack, and there&#39;s a demo you can try now](https://www.pcgamer.com/games/card-games/if-you-love-how-balatro-mutates-the-game-of-poker-dungeons-and-degenerate-gamblers-is-doing-something-similar-to-blackjack-and-theres-a-demo-you-can-try-now)
- - [Wildermyth’s studio will conclude the game with its final expansion](https://www.polygon.com/2024/5/29/24167458/wildermyth-final-expansion-game-ending)
- - [Diablo 4&#39;s strongest weapon isn&#39;t a weapon at all: It&#39;s a deadly potion capable of dealing billions of damage](https://www.pcgamer.com/games/rpg/diablo-4s-strongest-weapon-isnt-a-weapon-at-all-its-a-deadly-potion-capable-of-dealing-billions-of-damage)<!-- GAME:END -->
+ - [It Takes Two&#39;s Steam Deck update broke old cloud saves, but EA has an old-school workaround](https://www.pcgamer.com/games/action/it-takes-twos-steam-deck-update-broke-old-cloud-saves-but-ea-has-an-old-school-workaround)
+ - [After trying to branch out during the pandemic, Discord&#39;s refocusing on the 90% of users who play games: &#39;We&#39;ve recognized the need to narrow our focus&#39;](https://www.pcgamer.com/software/platforms/after-trying-to-branch-out-during-the-pandemic-discords-refocusing-on-the-90-of-users-who-play-games-weve-recognized-the-need-to-narrow-our-focus)
+ - [If you love how Balatro mutates the game of poker, Dungeons &amp; Degenerate Gamblers is doing something similar to blackjack, and there&#39;s a demo you can try now](https://www.pcgamer.com/games/card-games/if-you-love-how-balatro-mutates-the-game-of-poker-dungeons-and-degenerate-gamblers-is-doing-something-similar-to-blackjack-and-theres-a-demo-you-can-try-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
