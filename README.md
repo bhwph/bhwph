@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and OpenAI allegedly reach deal to bring ChatGPT functionality to iOS 18](https://appleinsider.com/articles/24/05/30/apple-and-openai-allegedly-reach-deal-to-bring-chatgpt-functionality-to-ios-18?utm_medium=rss)
- - [Researchers: an ex-Florida deputy sheriff who received asylum in Russia has built a network of 160+ fake news sites with the help of ChatGPT and other AI tools &lpar;Steven Lee Myers/New York Times&rpar;](http://www.techmeme.com/240529/p37#a240529p37)
- - [Boston-based Maven AGI, which offers AI agents for customer support, comes out of stealth after raising $28M, including a $20M Series A led by M13 &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240529/p36#a240529p36)<!-- TECH:END -->
+ - [The US Army awards Palantir a $480M contract for work on Maven Smart System, which uses AI and computer vision to help soldiers identify targets, through 2029 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240529/p40#a240529p40)
+ - [Verizon and satellite provider AST SpaceMobile partner to provide space-based broadband service direct to phones; Verizon committed $100M as part of the deal &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/240529/p39#a240529p39)
+ - [Celebrate Memorial Day With 30% Off the Leesa Sapira Chill Mattress     - CNET](https://www.cnet.com/deals/leesa-sapira-chill-hybrid-memorial-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
