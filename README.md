@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How NetherRealm Studios Methodically Designed Homelander for Mortal Kombat 1](https://news.xbox.com/en-us/2024/05/30/how-netherrealm-studios-designed-homelander/)
- - [Why Lucasfilm decided the High Republic is the future of Star Wars](https://www.polygon.com/star-wars/24167362/star-wars-acolyte-high-republic-future)
- - [GTA Online update for the week of May 30](https://www.polygon.com/gta-online-guides/2024/5/30/24167876/may-30-weekly-update-events-benefactor)<!-- GAME:END -->
+ - [Dungeons &amp; Dragons is coming to Destiny 2, turning your Warlock into a Mindflayer](https://www.polygon.com/24168022/destiny-2-dnd-dungeons-dragons-items-final-shape-eververse)
+ - [Toppling towers in Beasts of Balance is a genius blend of old and new](https://www.polygon.com/videos/24167860/beasts-of-balance-overboard-jenga-stacking-board-game)
+ - [Best Kar98k loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/24167906/best-kar98k-loadout-class-build-mw3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
