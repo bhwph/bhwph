@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valorant To Its Most Toxic Players: &#39;Please Play Something Else, We Won&#39;t Miss You&#39;](https://kotaku.com/valorant-voice-chat-abuse-hardware-ban-riot-games-1851510233)
- - [The Titanic 25th anniversary edition sinks to its lowest price ever on Amazon](https://www.polygon.com/deals/24168050/titanic-anniversary-collectors-edition-4k-blu-ray-deal-sale)
- - [You’re Definitely Going To Want To Preload Destiny 2: The Final Shape](https://kotaku.com/destiny-2-the-final-shape-file-size-preload-1851510165)<!-- GAME:END -->
+ - [Our First Look At Concord, PlayStation&#39;s Guardians Of The Galaxy-Infused Hero Shooter](https://kotaku.com/concord-ps5-firewalk-release-date-trailer-1851510445)
+ - [Someone Dumped $400,000 Worth Of Stolen Playdate Gaming Handhelds At A Random Restaurant](https://kotaku.com/playdate-panic-true-crime-stolen-gdc-1851510703)
+ - [Here Are The Donald Trump Hush Money Verdicts](https://kotaku.com/trump-verdict-guilty-hush-money-trial-phoenix-wright-1851510635)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
