@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons &amp; Dragons is coming to Destiny 2, turning your Warlock into a Mindflayer](https://www.polygon.com/24168022/destiny-2-dnd-dungeons-dragons-items-final-shape-eververse)
- - [Toppling towers in Beasts of Balance is a genius blend of old and new](https://www.polygon.com/videos/24167860/beasts-of-balance-overboard-jenga-stacking-board-game)
- - [Best Kar98k loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/24167906/best-kar98k-loadout-class-build-mw3)<!-- GAME:END -->
+ - [Valorant To Its Most Toxic Players: &#39;Please Play Something Else, We Won&#39;t Miss You&#39;](https://kotaku.com/valorant-voice-chat-abuse-hardware-ban-riot-games-1851510233)
+ - [The Titanic 25th anniversary edition sinks to its lowest price ever on Amazon](https://www.polygon.com/deals/24168050/titanic-anniversary-collectors-edition-4k-blu-ray-deal-sale)
+ - [You’re Definitely Going To Want To Preload Destiny 2: The Final Shape](https://kotaku.com/destiny-2-the-final-shape-file-size-preload-1851510165)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
