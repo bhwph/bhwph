@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
- - 😝 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
+ - 6️⃣ [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
+ - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
  - 👉 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)<!-- MEMES:END -->
 
 --- 
