@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let\u2019s go again, hopefully it wont get deleted.](http://9gag.com/gag/adBYXKZ)
- - 😝 [They terk arr jrbs arrrr](http://9gag.com/gag/amo0rLV)
- - 👉 [Me watching gigi posts](http://9gag.com/gag/a9yLYBL)<!-- MEMES:END -->
+ - 6️⃣ [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
+ - 👉 [I want to know](http://9gag.com/gag/aoy09D0)<!-- MEMES:END -->
 
 --- 
 
