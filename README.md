@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
- - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
- - 👉 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
+ - 6️⃣ [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
+ - 😝 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
+ - 👉 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)<!-- MEMES:END -->
 
 --- 
 
