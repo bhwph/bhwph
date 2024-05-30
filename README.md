@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Google Photos about to turn into a social network of sorts? &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-social-network-of-sorts-apk-teardown-3446260/)
- - [YouTube and ad blockers: Who’s in the right?](https://www.androidauthority.com/google-youtube-ad-blockers-3447190/)
- - [Best Adjustable Dumbbells for 2024     - CNET](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Modular laptop maker Framework unveils a $269 drop-in 120Hz display, improved $39 webcam, and swappable mainboard to add Intel Core Ultra chips to its laptops &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240530/p11#a240530p11)
+ - [You Think You Know How Misinformation Spreads? Welcome to the Hellhole of Programatic Advertising](https://www.wired.com/story/death-of-truth-misinformation-advertising/)
+ - [Instagram’s ‘limits’ adds a mute button for everyone other than close friends](https://www.theverge.com/2024/5/30/24167259/instagram-limit-posts-everyone-but-close-friends)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
