@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Natural Cycles, an FDA-cleared birth control app with ~3M users, raised a $55M Series C led by Lauxera Capital Partners, bringing its total funding to $95M+ &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240529/p43#a240529p43)
- - [AICore update that brings Gemini Nano to the Pixel 8 is now rolling out](https://www.androidauthority.com/google-pixel-8-gemini-nano-aicore-update-rolling-out-3447239/)
- - [Meta removed hundreds of Facebook accounts linked to influence campaigns from China, Israel, Iran, and more, some of which used AI to generate disinformation &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240529/p42#a240529p42)<!-- TECH:END -->
+ - [Amazon Prime now comes with free Grubhub food delivery](https://www.theverge.com/2024/5/30/24167678/amazon-prime-grubhub-plus-free-food-delivery)
+ - [Policymakers and experts say Hesai and other firms listed as Chinese military entities are rebranding and creating US-domiciled businesses to evade sanctions &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240530/p4#a240530p4)
+ - [Source: Microsoft pushed OpenAI to prioritize commercial products after the attempted coup against Sam Altman in November 2023, amplifying tensions at OpenAI &lpar;Financial Times&rpar;](http://www.techmeme.com/240530/p3#a240530p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
