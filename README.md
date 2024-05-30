@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans to overhaul Siri with more advanced AI, a move that will allow Siri to take command of all the features within apps for the first time &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240530/p39#a240530p39)
- - [Android 15 Beta 1 is now available for Nothing Phone 2](https://www.androidauthority.com/nothing-phone-2-android-15-beta-1-3447525/)
- - [Sources: US has delayed license requests from chipmakers for AI accelerator shipments to the Middle East and is worried about the tech getting diverted to China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240530/p38#a240530p38)<!-- TECH:END -->
+ - [Google finally brings Nest doorbell alerts to the Pixel Tablet](https://www.theverge.com/2024/5/30/24168150/google-nest-doorbell-alerts-pixel-tablet)
+ - [Scuf’s Nomad controller for iPhone has full-size drift-free sticks at a competitive price](https://www.theverge.com/2024/5/30/24168172/scuf-nomad-iphone-mobile-controller-hall-effect-specs-price)
+ - [MediaTek’s latest chip could be good news for fans of flip-style foldables](https://www.androidauthority.com/dimensity-7300x-flip-foldables-3447548/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
