@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Modular laptop maker Framework unveils a $269 drop-in 120Hz display, improved $39 webcam, and swappable mainboard to add Intel Core Ultra chips to its laptops &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240530/p11#a240530p11)
- - [You Think You Know How Misinformation Spreads? Welcome to the Hellhole of Programatic Advertising](https://www.wired.com/story/death-of-truth-misinformation-advertising/)
- - [Instagram’s ‘limits’ adds a mute button for everyone other than close friends](https://www.theverge.com/2024/5/30/24167259/instagram-limit-posts-everyone-but-close-friends)<!-- TECH:END -->
+ - [If you had an iPhone 7 with audio problems, your settlement deadline is soon](https://appleinsider.com/articles/24/05/30/if-you-had-an-iphone-7-with-audio-problems-your-settlement-deadline-is-soon?utm_medium=rss)
+ - [Sightful Spacetop G1: Specs, Features, Release Date, Price](https://www.wired.com/story/sightful-spacetop-g1-augmented-reality-laptop/)
+ - [Motorola Edge 50 Pro Review: A Solid Midrange Android Phone](https://www.wired.com/review/motorola-edge-50-pro/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
