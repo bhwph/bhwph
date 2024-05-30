@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s RTX 5090 might not be the jumbo big boi we were all expecting](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-5090-might-not-be-the-jumbo-big-boi-we-were-all-expecting)
- - [Today&#39;s Wordle answer for Thursday, May 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-30-2024)
- - [It Takes Two&#39;s Steam Deck update broke old cloud saves, but EA has an old-school workaround](https://www.pcgamer.com/games/action/it-takes-twos-steam-deck-update-broke-old-cloud-saves-but-ea-has-an-old-school-workaround)<!-- GAME:END -->
+ - [Arrowhead&#39;s new CEO says the studio &#39;knew it would be impossible&#39; to keep up with Helldivers 2&#39;s demand for new content, is now focussed on adjusting &#39;so that in the long term we can make more and better stuff&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowheads-new-ceo-says-the-studio-knew-it-would-be-impossible-to-keep-up-with-helldivers-2s-demand-for-new-content-is-now-focussed-on-adjusting-so-that-in-the-long-term-we-can-make-more-and-better-stuff)
+ - [Dungeons of Hinterberg Captures True Vacation Vibes &lpar;With Added Monster Slaying&rpar;](https://news.xbox.com/en-us/2024/05/30/dungeons-of-hinterberg-hands-on-preview/)
+ - [Helldivers 2 may have triggered a wave of bans for 20,000 Russian and Belarusian Steam accounts](https://www.pcgamer.com/hardware/helldivers-2-may-have-triggered-a-wave-of-bans-for-20000-russian-and-belarusian-steam-accounts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
