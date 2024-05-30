@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime now comes with free Grubhub food delivery](https://www.theverge.com/2024/5/30/24167678/amazon-prime-grubhub-plus-free-food-delivery)
- - [Policymakers and experts say Hesai and other firms listed as Chinese military entities are rebranding and creating US-domiciled businesses to evade sanctions &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240530/p4#a240530p4)
- - [Source: Microsoft pushed OpenAI to prioritize commercial products after the attempted coup against Sam Altman in November 2023, amplifying tensions at OpenAI &lpar;Financial Times&rpar;](http://www.techmeme.com/240530/p3#a240530p3)<!-- TECH:END -->
+ - [Is Google Photos about to turn into a social network of sorts? &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-social-network-of-sorts-apk-teardown-3446260/)
+ - [YouTube and ad blockers: Who’s in the right?](https://www.androidauthority.com/google-youtube-ad-blockers-3447190/)
+ - [Best Adjustable Dumbbells for 2024     - CNET](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
