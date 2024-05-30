@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch PlayStation’s new State of Play stream](https://www.polygon.com/24158274/playstation-state-of-play-may-2024-date-sony)
- - [Let Keanu Reeves punch and shoot his way onto your summer reading list](https://www.polygon.com/24166316/keanu-reeves-china-mieville-book-of-elsewhere-brzrkr)
- - [Minecraft Animated Series Coming To Netflix](https://kotaku.com/netflix-minecraft-animated-series-announced-1851508856)<!-- GAME:END -->
+ - [How NetherRealm Studios Methodically Designed Homelander for Mortal Kombat 1](https://news.xbox.com/en-us/2024/05/30/how-netherrealm-studios-designed-homelander/)
+ - [Why Lucasfilm decided the High Republic is the future of Star Wars](https://www.polygon.com/star-wars/24167362/star-wars-acolyte-high-republic-future)
+ - [GTA Online update for the week of May 30](https://www.polygon.com/gta-online-guides/2024/5/30/24167876/may-30-weekly-update-events-benefactor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
