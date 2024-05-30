@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms the leaked Search documents are real](https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation)
- - [Custom GPTs open for free ChatGPT users](https://www.theverge.com/2024/5/29/24167436/chatgpt-4o-custom-gpts-free)
- - [Every M3 iMac 24-inch is up to $200 off, plus get AppleCare savings with coupon](https://appleinsider.com/articles/24/05/29/every-m3-imac-24-inch-is-up-to-200-off-plus-get-applecare-savings-with-coupon?utm_medium=rss)<!-- TECH:END -->
+ - [Apple and OpenAI allegedly reach deal to bring ChatGPT functionality to iOS 18](https://appleinsider.com/articles/24/05/30/apple-and-openai-allegedly-reach-deal-to-bring-chatgpt-functionality-to-ios-18?utm_medium=rss)
+ - [Researchers: an ex-Florida deputy sheriff who received asylum in Russia has built a network of 160+ fake news sites with the help of ChatGPT and other AI tools &lpar;Steven Lee Myers/New York Times&rpar;](http://www.techmeme.com/240529/p37#a240529p37)
+ - [Boston-based Maven AGI, which offers AI agents for customer support, comes out of stealth after raising $28M, including a $20M Series A led by M13 &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240529/p36#a240529p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
