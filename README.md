@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fidelity raised the value of its X position by 4.4% to $5.51M in April; since Elon Musk&#39;s October 2022 Twitter takeover, the position has been marked down ~72% &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/240530/p20#a240530p20)
- - [SnuzPod4 Bassinet Review: A Great-Looking and Simple Bassinet](https://www.wired.com/review/snuzpod4-bassinet/)
- - [How to watch Sony’s PlayStation State of Play](https://www.theverge.com/2024/5/30/24167237/playstation-state-of-play-may-2024-how-to-watch)<!-- TECH:END -->
+ - [Elon Musk finally agrees to testify in the SEC’s Twitter investigation](https://www.theverge.com/2024/5/30/24167910/elon-musk-testify-sec-twitter-investigation)
+ - [WeWork Survived Bankruptcy. Now It Has to Make Coworking Pay Off](https://www.wired.com/story/wework-bankruptcy-future-of-work/)
+ - [Ecobee’s smart thermostat can automatically respond to a heatwave](https://www.theverge.com/2024/5/30/24167870/ecobees-smart-thermostat-can-automatically-respond-to-a-heatwave)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
