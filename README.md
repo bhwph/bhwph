@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Long story short...](http://9gag.com/gag/aKGPPpg)
- - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
- - 👉 [Took her a while](http://9gag.com/gag/azxEVAN)<!-- MEMES:END -->
+ - 6️⃣ [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
+ - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 👉 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
 
 --- 
 
