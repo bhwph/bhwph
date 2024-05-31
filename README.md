@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers claim just 2,107 US voters, mostly older, white Republican women, accounted for spreading 80% of the fake news on Twitter during the 2020 election &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240531/p2#a240531p2)
- - [The OnePlus Watch 2 broke the nerdy covenant that smartwatch crowns must scroll](https://www.theverge.com/2024/5/31/24166415/oneplus-watch-2-digital-crown-smartwatches-button-of-the-month)
- - [Best Internet Providers in Raleigh, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-raleigh-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [France could get Apple Vision Pro at end of June](https://appleinsider.com/articles/24/05/31/france-could-get-apple-vision-pro-at-end-of-june?utm_medium=rss)
+ - [TIL that knockoff wired iPhone earbuds require Bluetooth to work :/](https://www.androidauthority.com/wired-iphone-earbuds-require-bluetooth-3447699/)
+ - [I Used ChatGPT to Build My Best Wardrobe Ever, and It Worked     - CNET](https://www.cnet.com/tech/services-and-software/i-tried-chatgpt-to-build-my-best-wardrobe-ever-and-it-actually-worked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
