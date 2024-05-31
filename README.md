@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - 😝 [They found out](http://9gag.com/gag/a2vY4E1)
- - 👉 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)<!-- MEMES:END -->
+ - 6️⃣ [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)
+ - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
+ - 👉 [Best kind of prank](http://9gag.com/gag/an7KbKo)<!-- MEMES:END -->
 
 --- 
 
