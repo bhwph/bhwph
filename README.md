@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scavengers Reign, a sci-fi show like no other, now gets a second shot at life on Netflix](https://www.polygon.com/24168682/scavengers-reign-netflix-sci-fi-show)
- - [Take-Two CEO Asked About GTA 6 On PC, Offers Up Silly Word Salad](https://kotaku.com/take-two-t2-ceo-zelnick-gta-6-rockstar-pc-port-xbox-ps5-1851512434)
- - [The Legally Distinct Not-Bloodborne Kart Is Out Now And Looks Incredible](https://kotaku.com/nightmare-kart-bloodborne-racer-release-1851512470)<!-- GAME:END -->
+ - [Don’t Nod: Play Our Game For Free And Give Money To Trans Charities For Pride](https://kotaku.com/tell-me-why-pride-month-dont-nod-entertainment-free-1851513072)
+ - [New FPS Built Using Doom Tech Is Better Than Most AAA Shooters](https://kotaku.com/selaco-gzdoom-engine-fps-steam-review-early-access-1851513067)
+ - [What to spend Legendary Shards on in Destiny 2 before they go away](https://www.polygon.com/destiny-2-guide-walkthrough/2024/5/31/24168880/legendary-shards-spend-the-final-shape)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
