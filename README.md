@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A $25,000 electric Jeep? Challenging but possible, CEO says](https://www.theverge.com/2024/5/31/24168663/jeep-electric-25000-ceo-antonio-filosa-interview)
- - [Here are a few of our favorite deals from Sony’s latest Days of Play sale](https://www.theverge.com/2024/5/31/24167893/sony-days-of-play-sale-2024-ps5-slim-digital-edition-psvr-2-games-deal)
- - [Apple may add some effects to text to iMessage in iOS 18](https://appleinsider.com/articles/24/05/31/apple-may-some-effects-to-text-to-imessage-in-ios-18?utm_medium=rss)<!-- TECH:END -->
+ - [Google quietly retires Google One branding from its VPN ahead of June shutdown](https://www.androidauthority.com/google-one-vpn-rebranding-3447902/)
+ - [Meta is notifying Instagram and Facebook EU users that it&#39;s using their data to train its AI models, and users can opt out, &quot;if your objection is honoured&quot; &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240531/p20#a240531p20)
+ - [Web Hosting Glossary for Hosting Terms to Know     - CNET](https://www.cnet.com/tech/services-and-software/web-hosting-glossary/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
