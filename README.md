@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 😝 [I usually just eat a churro or popcorn at a concer](http://9gag.com/gag/aNDZ0D0)
- - 👉 [I am sorry. I&#39;d rather be called xenophobe or right wing or whatever if that is the price for living in a save environment.](http://9gag.com/gag/aD23g4B)<!-- MEMES:END -->
+ - 6️⃣ [Cursed image anyone?](http://9gag.com/gag/ary4gKp)
+ - 😝 [`No one can pass, it&#39;s time to pray to Allah, streets are ours!` Denmark, Wake up Europe!!](http://9gag.com/gag/awyKnRr)
+ - 👉 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)<!-- MEMES:END -->
 
 --- 
 
