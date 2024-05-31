@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They found out](http://9gag.com/gag/a2vY4E1)
- - 😝 [Immersive gaming set.](http://9gag.com/gag/a7oy3D2)
- - 👉 [The pain](http://9gag.com/gag/aW4WqL4)<!-- MEMES:END -->
+ - 6️⃣ [The pain](http://9gag.com/gag/aW4WqL4)
+ - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
+ - 👉 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)<!-- MEMES:END -->
 
 --- 
 
