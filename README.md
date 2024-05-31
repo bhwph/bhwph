@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
- - 😝 [Tiny fistbumps](http://9gag.com/gag/aYQWezw)
- - 👉 [I want to know](http://9gag.com/gag/aoy09D0)<!-- MEMES:END -->
+ - 6️⃣ [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)
+ - 😝 [Bear attempts to eat pigs, little did the bear know, these pigs don\u2019t mess around](http://9gag.com/gag/ary45Bp)
+ - 👉 [Here&#39;s your potato](http://9gag.com/gag/ary45zB)<!-- MEMES:END -->
 
 --- 
 
