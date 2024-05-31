@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rest of World retracts an article on WhatsApp misinformation &quot;tip lines&quot; in India after several fact-checking orgs detail how it was &quot;riddled with inaccuracies&quot; &lpar;Joshua Benton/Nieman Lab&rpar;](http://www.techmeme.com/240531/p16#a240531p16)
- - [Dyson&#39;s Airstrait and Airwrap Hair Tools Are $100 Off Right Now](https://www.wired.com/story/dyson-hair-tool-deals-may-2024/)
- - [Nanoleaf’s Essentials Matter HD lightstrip is an RGB dream machine](https://www.androidauthority.com/nanoleaf-essentials-matter-smart-multicolor-hd-lightstrip-review-3441902/)<!-- TECH:END -->
+ - [A $25,000 electric Jeep? Challenging but possible, CEO says](https://www.theverge.com/2024/5/31/24168663/jeep-electric-25000-ceo-antonio-filosa-interview)
+ - [Here are a few of our favorite deals from Sony’s latest Days of Play sale](https://www.theverge.com/2024/5/31/24167893/sony-days-of-play-sale-2024-ps5-slim-digital-edition-psvr-2-games-deal)
+ - [Apple may add some effects to text to iMessage in iOS 18](https://appleinsider.com/articles/24/05/31/apple-may-some-effects-to-text-to-imessage-in-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
