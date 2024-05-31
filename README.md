@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The power of sandwiches](http://9gag.com/gag/a87YprY)
- - 😝 [Bear attempts to eat pigs, little did the bear know, these pigs don\u2019t mess around](http://9gag.com/gag/ary45Bp)
- - 👉 [Best kind of prank](http://9gag.com/gag/an7KbKo)<!-- MEMES:END -->
+ - 6️⃣ [The pain](http://9gag.com/gag/aW4WqL4)
+ - 😝 [Title goes here](http://9gag.com/gag/aW4Wqx2)
+ - 👉 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)<!-- MEMES:END -->
 
 --- 
 
