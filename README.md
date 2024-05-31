@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cursed image anyone?](http://9gag.com/gag/ary4gKp)
- - 😝 [`No one can pass, it&#39;s time to pray to Allah, streets are ours!` Denmark, Wake up Europe!!](http://9gag.com/gag/awyKnRr)
- - 👉 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)<!-- MEMES:END -->
+ - 6️⃣ [Watch it in a dark place](http://9gag.com/gag/ary4go7)
+ - 😝 [Not enough](http://9gag.com/gag/a6ZyO0q)
+ - 👉 [There are extremist Muslims, and there are Muslims who quietly support this. There are no other Muslims.](http://9gag.com/gag/aVvWY8M)<!-- MEMES:END -->
 
 --- 
 
