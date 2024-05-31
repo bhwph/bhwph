@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)
+ - 6️⃣ [The power of sandwiches](http://9gag.com/gag/a87YprY)
  - 😝 [Bear attempts to eat pigs, little did the bear know, these pigs don\u2019t mess around](http://9gag.com/gag/ary45Bp)
- - 👉 [Here&#39;s your potato](http://9gag.com/gag/ary45zB)<!-- MEMES:END -->
+ - 👉 [Best kind of prank](http://9gag.com/gag/an7KbKo)<!-- MEMES:END -->
 
 --- 
 
