@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I need a new gaming setup](http://9gag.com/gag/ayN0Bvy)
- - 😝 [Title goes here](http://9gag.com/gag/aW4Wqx2)
- - 👉 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)<!-- MEMES:END -->
+ - 6️⃣ [Watch it in a dark place](http://9gag.com/gag/ary4go7)
+ - 😝 [I usually just eat a churro or popcorn at a concer](http://9gag.com/gag/aNDZ0D0)
+ - 👉 [I am sorry. I&#39;d rather be called xenophobe or right wing or whatever if that is the price for living in a save environment.](http://9gag.com/gag/aD23g4B)<!-- MEMES:END -->
 
 --- 
 
