@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Stars Campaigns and Digital Collectibles for June 2024](https://blog.playstation.com/2024/05/31/playstation-stars-campaigns-and-digital-collectibles-for-june-2024/)
- - [Next Week on Xbox: New Games for June 3 to 7](https://news.xbox.com/en-us/2024/05/31/next-week-on-xbox-new-games-for-june-3-to-7/)
- - [The 25 must-read books of summer 2024](https://www.polygon.com/2024/5/31/24158244/book-preview-summer-2024)<!-- GAME:END -->
+ - [Fantasy 7: Rebirth is discounted to its lowest price ever on Amazon](https://www.polygon.com/deals/24168243/final-fantasy-7-rebirth-discount-amazon-deal-sale)
+ - [Return to Silent Hill will be a movie adaptation of Silent Hill 2](https://www.polygon.com/24168728/return-to-silent-hill-2-movie-bts-look)
+ - [Ethan Hawke’s Wildcat rescued Flannery O’Connor’s brilliantly bleak work for me](https://www.polygon.com/24167838/wildcat-ethan-maya-hawke-flannery-oconnor-short-stories)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
