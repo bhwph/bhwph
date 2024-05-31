@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our First Look At Concord, PlayStation&#39;s Guardians Of The Galaxy-Infused Hero Shooter](https://kotaku.com/concord-ps5-firewalk-release-date-trailer-1851510445)
- - [Someone Dumped $400,000 Worth Of Stolen Playdate Gaming Handhelds At A Random Restaurant](https://kotaku.com/playdate-panic-true-crime-stolen-gdc-1851510703)
- - [Here Are The Donald Trump Hush Money Verdicts](https://kotaku.com/trump-verdict-guilty-hush-money-trial-phoenix-wright-1851510635)<!-- GAME:END -->
+ - [Silent Hill 2 launches October 8, new gameplay revealed](https://blog.playstation.com/2024/05/30/silent-hill-2-launches-october-8-new-gameplay-revealed/)
+ - [&lpar;For Southeast Asia&rpar; Concord gameplay revealed, launching August 24, 2024 on PS5 and PC](https://blog.playstation.com/2024/05/30/20240531-concord/)
+ - [&lpar;For Southeast Asia&rpar; Concord gameplay revealed, launching August 24, 2024 on PS5 and PC](https://blog.playstation.com/2024/05/30/20240531-concord/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
