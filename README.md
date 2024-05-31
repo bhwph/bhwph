@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New emoji in iOS 18, iPad Pro, and patented Apple Store trees, on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/31/new-emoji-in-ios-18-ipad-pro-and-patented-apple-store-trees-on-the-appleinsider-podcast?utm_medium=rss)
- - [Microsoft Recall Alternatives That Remember Everything on Your Screen: Windrecorder, Rewind](https://www.wired.com/story/microsoft-recall-alternatives/)
- - [iOS makes it more difficult to control the volume when casting media](https://www.androidauthority.com/ios-difficult-control-volume-when-casting-3447744/)<!-- TECH:END -->
+ - [600,000 routers were bricked in a single cyberattack](https://www.theverge.com/2024/5/31/24168584/cyberattack-us-routers-disabled-2023-windstream)
+ - [Sources: Saudi Arabia&#39;s Prosperity7 participated in a ~$400M round in Zhipu AI at a $3B valuation, making it the only foreign investor in Chinese generative AI &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240531/p11#a240531p11)
+ - [OpenAI launches programs making ChatGPT cheaper for schools and nonprofits](https://www.theverge.com/2024/5/31/24168574/openai-chatgpt-schools-nonprofits-discounts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
