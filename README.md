@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill 2 launches October 8, new gameplay revealed](https://blog.playstation.com/2024/05/30/silent-hill-2-launches-october-8-new-gameplay-revealed/)
- - [Silent Hill 2 launches October 8, new gameplay revealed](https://blog.playstation.com/2024/05/30/silent-hill-2-launches-october-8-new-gameplay-revealed/)
- - [&lpar;For Southeast Asia&rpar; Concord gameplay revealed, launching August 24, 2024 on PS5 and PC](https://blog.playstation.com/2024/05/30/20240531-concord/)<!-- GAME:END -->
+ - [PlayStation Stars Campaigns and Digital Collectibles for June 2024](https://blog.playstation.com/2024/05/31/playstation-stars-campaigns-and-digital-collectibles-for-june-2024/)
+ - [Next Week on Xbox: New Games for June 3 to 7](https://news.xbox.com/en-us/2024/05/31/next-week-on-xbox-new-games-for-june-3-to-7/)
+ - [The 25 must-read books of summer 2024](https://www.polygon.com/2024/5/31/24158244/book-preview-summer-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
