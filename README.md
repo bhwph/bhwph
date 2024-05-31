@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [France could get Apple Vision Pro at end of June](https://appleinsider.com/articles/24/05/31/france-could-get-apple-vision-pro-at-end-of-june?utm_medium=rss)
- - [TIL that knockoff wired iPhone earbuds require Bluetooth to work :/](https://www.androidauthority.com/wired-iphone-earbuds-require-bluetooth-3447699/)
- - [I Used ChatGPT to Build My Best Wardrobe Ever, and It Worked     - CNET](https://www.cnet.com/tech/services-and-software/i-tried-chatgpt-to-build-my-best-wardrobe-ever-and-it-actually-worked/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New emoji in iOS 18, iPad Pro, and patented Apple Store trees, on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/31/new-emoji-in-ios-18-ipad-pro-and-patented-apple-store-trees-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Microsoft Recall Alternatives That Remember Everything on Your Screen: Windrecorder, Rewind](https://www.wired.com/story/microsoft-recall-alternatives/)
+ - [iOS makes it more difficult to control the volume when casting media](https://www.androidauthority.com/ios-difficult-control-volume-when-casting-3447744/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
