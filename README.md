@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google defends AI search results after they told us to put glue on pizza](https://www.theverge.com/2024/5/30/24168344/google-defends-ai-overviews-search-results)
- - [Google explains AI Overviews&#39; viral mistakes and updates its systems, including better detection of nonsensical queries and limiting satire and humor content &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240530/p47#a240530p47)
- - [OpenAI unveils ChatGPT Edu, an &quot;affordable&quot; version for universities, including GPT-4o access, custom GPT creation, and higher message limits than the free tier &lpar;Dan Fitzpatrick/Forbes&rpar;](http://www.techmeme.com/240530/p46#a240530p46)<!-- TECH:END -->
+ - [Valar Labs, which has developed AI models to help predict bladder cancer treatment outcomes, raised a $22M Series A led by DCVC and a16z &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240530/p49#a240530p49)
+ - [AI Overviews fiasco: Google responds to backlash, promises improvements](https://www.androidauthority.com/google-ai-overviews-response-3447610/)
+ - [Google Admits Its AI Overviews Search Feature Screwed Up](https://www.wired.com/story/google-ai-overview-search-issues/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
