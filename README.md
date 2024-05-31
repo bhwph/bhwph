@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The pain](http://9gag.com/gag/aW4WqL4)
- - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 👉 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)<!-- MEMES:END -->
+ - 6️⃣ [I need a new gaming setup](http://9gag.com/gag/ayN0Bvy)
+ - 😝 [Title goes here](http://9gag.com/gag/aW4Wqx2)
+ - 👉 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)<!-- MEMES:END -->
 
 --- 
 
