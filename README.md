@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [600,000 routers were bricked in a single cyberattack](https://www.theverge.com/2024/5/31/24168584/cyberattack-us-routers-disabled-2023-windstream)
- - [Sources: Saudi Arabia&#39;s Prosperity7 participated in a ~$400M round in Zhipu AI at a $3B valuation, making it the only foreign investor in Chinese generative AI &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240531/p11#a240531p11)
- - [OpenAI launches programs making ChatGPT cheaper for schools and nonprofits](https://www.theverge.com/2024/5/31/24168574/openai-chatgpt-schools-nonprofits-discounts)<!-- TECH:END -->
+ - [Rest of World retracts an article on WhatsApp misinformation &quot;tip lines&quot; in India after several fact-checking orgs detail how it was &quot;riddled with inaccuracies&quot; &lpar;Joshua Benton/Nieman Lab&rpar;](http://www.techmeme.com/240531/p16#a240531p16)
+ - [Dyson&#39;s Airstrait and Airwrap Hair Tools Are $100 Off Right Now](https://www.wired.com/story/dyson-hair-tool-deals-may-2024/)
+ - [Nanoleaf’s Essentials Matter HD lightstrip is an RGB dream machine](https://www.androidauthority.com/nanoleaf-essentials-matter-smart-multicolor-hd-lightstrip-review-3441902/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
