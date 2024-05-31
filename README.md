@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google finally brings Nest doorbell alerts to the Pixel Tablet](https://www.theverge.com/2024/5/30/24168150/google-nest-doorbell-alerts-pixel-tablet)
- - [Scuf’s Nomad controller for iPhone has full-size drift-free sticks at a competitive price](https://www.theverge.com/2024/5/30/24168172/scuf-nomad-iphone-mobile-controller-hall-effect-specs-price)
- - [MediaTek’s latest chip could be good news for fans of flip-style foldables](https://www.androidauthority.com/dimensity-7300x-flip-foldables-3447548/)<!-- TECH:END -->
+ - [Google defends AI search results after they told us to put glue on pizza](https://www.theverge.com/2024/5/30/24168344/google-defends-ai-overviews-search-results)
+ - [Google explains AI Overviews&#39; viral mistakes and updates its systems, including better detection of nonsensical queries and limiting satire and humor content &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240530/p47#a240530p47)
+ - [OpenAI unveils ChatGPT Edu, an &quot;affordable&quot; version for universities, including GPT-4o access, custom GPT creation, and higher message limits than the free tier &lpar;Dan Fitzpatrick/Forbes&rpar;](http://www.techmeme.com/240530/p46#a240530p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
