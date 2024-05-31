@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fantasy 7: Rebirth is discounted to its lowest price ever on Amazon](https://www.polygon.com/deals/24168243/final-fantasy-7-rebirth-discount-amazon-deal-sale)
- - [Return to Silent Hill will be a movie adaptation of Silent Hill 2](https://www.polygon.com/24168728/return-to-silent-hill-2-movie-bts-look)
- - [Ethan Hawke’s Wildcat rescued Flannery O’Connor’s brilliantly bleak work for me](https://www.polygon.com/24167838/wildcat-ethan-maya-hawke-flannery-oconnor-short-stories)<!-- GAME:END -->
+ - [Scavengers Reign, a sci-fi show like no other, now gets a second shot at life on Netflix](https://www.polygon.com/24168682/scavengers-reign-netflix-sci-fi-show)
+ - [Take-Two CEO Asked About GTA 6 On PC, Offers Up Silly Word Salad](https://kotaku.com/take-two-t2-ceo-zelnick-gta-6-rockstar-pc-port-xbox-ps5-1851512434)
+ - [The Legally Distinct Not-Bloodborne Kart Is Out Now And Looks Incredible](https://kotaku.com/nightmare-kart-bloodborne-racer-release-1851512470)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
