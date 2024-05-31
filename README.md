@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The pain](http://9gag.com/gag/aW4WqL4)
- - 😝 [Title goes here](http://9gag.com/gag/aW4Wqx2)
- - 👉 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)<!-- MEMES:END -->
+ - 6️⃣ [Things you might not get away with. Nr. 16](http://9gag.com/gag/ae90b1v)
+ - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
+ - 👉 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)<!-- MEMES:END -->
 
 --- 
 
