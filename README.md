@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title goes here](http://9gag.com/gag/aW4Wqx2)
- - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
- - 👉 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)<!-- MEMES:END -->
+ - 6️⃣ [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 😝 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
+ - 👉 [That moment of realization](http://9gag.com/gag/aqyNnm7)<!-- MEMES:END -->
 
 --- 
 
