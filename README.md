@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Expensive repairs make seven years of software updates worthless, Samsung](https://www.androidauthority.com/samsung-seven-years-no-repairs-3446692/)
- - [Android Now Lets You Edit Text Messages](https://www.wired.com/story/android-now-lets-you-edit-text-messages/)
- - [This walking app let me whack my co-workers with a baseball bat](https://www.theverge.com/24167330/stompers-ios-walking-app-soren-iverson)<!-- TECH:END -->
+ - [The see-through Beats Studio Buds Plus have dropped to their best of the year](https://www.theverge.com/2024/6/1/24168671/beats-studio-buds-plus-elago-magsafe-ms-w5-charging-stand-deal-sale)
+ - [How to watch NASA and Boeing’s first Starliner launch today](https://www.theverge.com/2024/6/1/24169334/boeing-starliner-launch-livestream-how-to-watch)
+ - [YouTube’s new screensaver on TV is infuriating and you can’t even turn it off!](https://www.androidauthority.com/youtube-tv-screensaver-infuriating-3447834/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
