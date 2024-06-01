@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go ‘Stadium Sights’ event and Timed Research tasks](https://www.polygon.com/pokemon-go-guide/2024/5/31/24168857/stadium-sights-event-shiny-emolga-timed-research)
  - [Doctor Who goes full Black Mirror only to set up its most shocking twist](https://www.polygon.com/24168156/doctor-who-dot-bubble-review-new-episode-6)
- - [Disney’s Jim Henson doc, Boy Kills World, and every movie new to streaming this week](https://www.polygon.com/2024/5/31/24166183/new-movies-watch-jim-henson-doc-disney-plus-boy-kills-world-netflix-a-part-of-you-streaming)
- - [Leaks Show Assassin&#39;s Creed And Rabbids Coming To Ubisoft&#39;s CoD-Like Shooter](https://kotaku.com/xdefiant-year-1-all-factions-leak-datamine-rabbids-maps-1851513219)<!-- GAME:END -->
+ - [Disney’s Jim Henson doc, Boy Kills World, and every movie new to streaming this week](https://www.polygon.com/2024/5/31/24166183/new-movies-watch-jim-henson-doc-disney-plus-boy-kills-world-netflix-a-part-of-you-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
