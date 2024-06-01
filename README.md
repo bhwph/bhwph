@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global foldable phone shipments were up 49% YoY in Q1, marking its highest rate of increase in six quarters; Huawei led with a 35% share, overtaking Samsung &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240531/p22#a240531p22)
- - [An affordable Galaxy Watch is indeed coming, official support page goes live](https://www.androidauthority.com/galaxy-watch-fe-support-page-3447923/)
- - [Massive Ticketmaster, Santander data breaches linked to Snowflake cloud storage](https://www.theverge.com/2024/5/31/24168984/ticketmaster-santander-data-breach-snowflake-cloud-storage)<!-- TECH:END -->
+ - [Filing: Meta agrees to settle a 2022 lawsuit by Texas accusing Meta of using facial recognition tech to collect biometric data of Texans without their consent &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240531/p27#a240531p27)
+ - [President Biden vetoes a bill overturning SAB 121, a controversial SEC bulletin that establishes accounting standards for companies that custody crypto &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240531/p26#a240531p26)
+ - [Live Nation took 11 days to confirm the massive Ticketmaster data breach](https://www.theverge.com/2024/5/31/24169112/ticketmaster-data-breach-confirmed-details-live-nation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
