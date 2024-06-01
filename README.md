@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thirstier than a camel in the Sahara desert](http://9gag.com/gag/azxEqKm)
- - 😝 [Something smells funny](http://9gag.com/gag/aYQW470)
- - 👉 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)<!-- MEMES:END -->
+ - 6️⃣ [Tried stealing a farmers lime harvest but was caught. Now he\u2019s forced to eat it all.](http://9gag.com/gag/aBy3xNO)
+ - 😝 [Remember kids](http://9gag.com/gag/aD23Wn9)
+ - 👉 [Dating in 2024 !](http://9gag.com/gag/aVvWYK2)<!-- MEMES:END -->
 
 --- 
 
