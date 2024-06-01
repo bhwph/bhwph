@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The see-through Beats Studio Buds Plus have dropped to their best of the year](https://www.theverge.com/2024/6/1/24168671/beats-studio-buds-plus-elago-magsafe-ms-w5-charging-stand-deal-sale)
- - [How to watch NASA and Boeing’s first Starliner launch today](https://www.theverge.com/2024/6/1/24169334/boeing-starliner-launch-livestream-how-to-watch)
- - [YouTube’s new screensaver on TV is infuriating and you can’t even turn it off!](https://www.androidauthority.com/youtube-tv-screensaver-infuriating-3447834/)<!-- TECH:END -->
+ - [Google TV and GLAAD are curating a bunch of awesome LGBTQ+ movies and TV shows for Pride Month](https://www.androidauthority.com/google-tv-pride-month-2024-3447841/)
+ - [AI search engine Perplexity launches Pages, which will research and create a customizable webpage based on user prompts, aimed at educators, researchers, others &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240601/p8#a240601p8)
+ - [11 Best Bookshelf Speakers &lpar;2024&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
