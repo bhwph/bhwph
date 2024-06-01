@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Make Espresso at Home &lpar;2024&rpar;](https://www.wired.com/story/how-to-make-espresso/)
- - [Power Grids Under Pressure: US Areas at Risk of Blackouts During the Summer     - CNET](https://www.cnet.com/home/energy-and-utilities/power-grids-under-pressure-us-areas-at-risk-of-blackouts-during-the-summer/#ftag=CAD590a51e)
- - [What to expect at Computex 2024, where the CEOs of Nvidia, AMD, Intel, Qualcomm, and Arm are speaking, as AI hardware products like AI PCs take center stage &lpar;Bloomberg&rpar;](http://www.techmeme.com/240601/p5#a240601p5)<!-- TECH:END -->
+ - [Expensive repairs make seven years of software updates worthless, Samsung](https://www.androidauthority.com/samsung-seven-years-no-repairs-3446692/)
+ - [Android Now Lets You Edit Text Messages](https://www.wired.com/story/android-now-lets-you-edit-text-messages/)
+ - [This walking app let me whack my co-workers with a baseball bat](https://www.theverge.com/24167330/stompers-ios-walking-app-soren-iverson)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
