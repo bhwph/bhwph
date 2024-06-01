@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Website Builder for 2024: Reviewed by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-website-builder/#ftag=CAD590a51e)
- - [Best Chest Strap Heart-Rate Monitors for 2024     - CNET](https://www.cnet.com/health/fitness/best-chest-strap-heart-rate-monitors/#ftag=CAD590a51e)
- - [Sources: a16z and other investors in the fintech Synapse, which filed for bankruptcy in early May, were aware of recordkeeping discrepancies for years &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/240601/p9#a240601p9)<!-- TECH:END -->
+ - [How TikTok influencers helped a self-published author sell 1M+ copies of her book, including ~700K on the TikTok shop, showing how TikTok changed book marketing &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/240601/p10#a240601p10)
+ - [Boeing’s first crewed Starliner launch delayed again over computer issues](https://www.theverge.com/2024/6/1/24169334/boeing-starliner-launch-livestream-how-to-watch)
+ - [Latest Pixel 9 leak gives us a look at the Tensor G4 specs and benchmarks](https://www.androidauthority.com/tensor-g4-benchmarks-leak-3448100/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
