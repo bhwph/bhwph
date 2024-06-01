@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tried stealing a farmers lime harvest but was caught. Now he\u2019s forced to eat it all.](http://9gag.com/gag/aBy3xNO)
- - 😝 [Remember kids](http://9gag.com/gag/aD23Wn9)
- - 👉 [Dating in 2024 !](http://9gag.com/gag/aVvWYK2)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s creepy. It looks like they&#39;re playing with ghost](http://9gag.com/gag/aKGPxmb)
+ - 😝 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
+ - 👉 [This man in the TV show Who Wants to Be a Millionaire, a new morality was expressed](http://9gag.com/gag/aRBP1z2)<!-- MEMES:END -->
 
 --- 
 
