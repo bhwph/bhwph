@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s creepy. It looks like they&#39;re playing with ghost](http://9gag.com/gag/aKGPxmb)
- - 😝 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
- - 👉 [This man in the TV show Who Wants to Be a Millionaire, a new morality was expressed](http://9gag.com/gag/aRBP1z2)<!-- MEMES:END -->
+ - 6️⃣ [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
+ - 😝 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
+ - 👉 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)<!-- MEMES:END -->
 
 --- 
 
