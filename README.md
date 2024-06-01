@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How TikTok influencers helped a self-published author sell 1M+ copies of her book, including ~700K on the TikTok shop, showing how TikTok changed book marketing &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/240601/p10#a240601p10)
- - [Boeing’s first crewed Starliner launch delayed again over computer issues](https://www.theverge.com/2024/6/1/24169334/boeing-starliner-launch-livestream-how-to-watch)
- - [Latest Pixel 9 leak gives us a look at the Tensor G4 specs and benchmarks](https://www.androidauthority.com/tensor-g4-benchmarks-leak-3448100/)<!-- TECH:END -->
+ - [Lego debuts its first Minecraft set for adults](https://www.theverge.com/2024/6/1/24169526/lego-minecraft-the-crafting-table-15th-anniversary-adult-set)
+ - [Apple&#39;s new M2 iPad Air has a nine-core GPU, despite original claims to the contrary](https://appleinsider.com/articles/24/06/01/apples-new-m2-ipad-air-has-a-nine-core-gpu-despite-original-claims-to-the-contrary?utm_medium=rss)
+ - [CISPE denies a report that it was nearing a settlement with Microsoft to withdraw its EU antitrust complaint about Microsoft&#39;s cloud licensing practices &lpar;Reuters&rpar;](http://www.techmeme.com/240601/p11#a240601p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
