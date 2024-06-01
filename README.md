@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Stadium Sights’ event and Timed Research tasks](https://www.polygon.com/pokemon-go-guide/2024/5/31/24168857/stadium-sights-event-shiny-emolga-timed-research)
- - [Doctor Who goes full Black Mirror only to set up its most shocking twist](https://www.polygon.com/24168156/doctor-who-dot-bubble-review-new-episode-6)
- - [Disney’s Jim Henson doc, Boy Kills World, and every movie new to streaming this week](https://www.polygon.com/2024/5/31/24166183/new-movies-watch-jim-henson-doc-disney-plus-boy-kills-world-netflix-a-part-of-you-streaming)<!-- GAME:END -->
+ - [The best movies new to Netflix, Max, and more this June](https://www.polygon.com/what-to-watch/2024/6/1/24166253/best-new-movies-netflix-amazon-prime-max-hulu-june-2024)
+ - [Pokémon Go raid schedule for June 2024’s Legendary and Mega Pokemon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
+ - [Every movie and show coming to Netflix in June](https://www.polygon.com/entertainment/24164128/new-netflix-june-2024-movies-tv-to-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
