@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I know you guys would be amazed by this.](http://9gag.com/gag/avygAGW)
- - 😝 [Giving a show for their fans](http://9gag.com/gag/aW4WjOK)
+ - 6️⃣ [Giving a show for their fans](http://9gag.com/gag/aW4WjOK)
+ - 😝 [It is what it is!](http://9gag.com/gag/aO8b32E)
  - 👉 [Thought?](http://9gag.com/gag/aGywpD6)<!-- MEMES:END -->
 
 --- 
