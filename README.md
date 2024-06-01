@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In a Violent Nature almost made me physically ill, and I loved it](https://www.polygon.com/24168126/in-a-violent-nature-horror-movie-gory-moment-spine-gross-but-good)
- - [Halt and Catch Fire understood video games better than any other show](https://www.polygon.com/24168298/halt-catch-fire-video-games-anniversary-best-show)
- - [The best movies new to Netflix, Max, and more this June](https://www.polygon.com/what-to-watch/2024/6/1/24166253/best-new-movies-netflix-amazon-prime-max-hulu-june-2024)<!-- GAME:END -->
+ - [Tiana’s Bayou Adventure looks better than Splash Mountain, see for yourself](https://www.polygon.com/24169416/tianas-bayou-adventure-pov-video-4k-ride-through)
+ - [Lara Croft roars in the first trailer for Netflix’s Tomb Raider anime](https://www.polygon.com/24169013/tomb-raider-netflix-animated-series-lara-croft-release-date-trailer)
+ - [In a Violent Nature almost made me physically ill, and I loved it](https://www.polygon.com/24168126/in-a-violent-nature-horror-movie-gory-moment-spine-gross-but-good)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
