@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You love cats, right?](http://9gag.com/gag/aKGP67W)
- - 😝 [Just in case anyone wanted to see the video of that is being suppressed in the media and on 9gag](http://9gag.com/gag/aO8b763)
- - 👉 [Giving a show for their fans](http://9gag.com/gag/aW4WjOK)<!-- MEMES:END -->
+ - 6️⃣ [I know you guys would be amazed by this.](http://9gag.com/gag/avygAGW)
+ - 😝 [Giving a show for their fans](http://9gag.com/gag/aW4WjOK)
+ - 👉 [Thought?](http://9gag.com/gag/aGywpD6)<!-- MEMES:END -->
 
 --- 
 
