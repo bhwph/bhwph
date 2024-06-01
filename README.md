@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wholesome friendship](http://9gag.com/gag/aqyNngY)
- - 😝 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
- - 👉 [That moment of realization](http://9gag.com/gag/aqyNnm7)<!-- MEMES:END -->
+ - 6️⃣ [You love cats, right?](http://9gag.com/gag/aKGP67W)
+ - 😝 [Just in case anyone wanted to see the video of that is being suppressed in the media and on 9gag](http://9gag.com/gag/aO8b763)
+ - 👉 [Giving a show for their fans](http://9gag.com/gag/aW4WjOK)<!-- MEMES:END -->
 
 --- 
 
