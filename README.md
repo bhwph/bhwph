@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Meta agrees to settle a 2022 lawsuit by Texas accusing Meta of using facial recognition tech to collect biometric data of Texans without their consent &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240531/p27#a240531p27)
- - [President Biden vetoes a bill overturning SAB 121, a controversial SEC bulletin that establishes accounting standards for companies that custody crypto &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240531/p26#a240531p26)
- - [Live Nation took 11 days to confirm the massive Ticketmaster data breach](https://www.theverge.com/2024/5/31/24169112/ticketmaster-data-breach-confirmed-details-live-nation)<!-- TECH:END -->
+ - [Nectar Mattresses Start at $349 With This Still-Live Memorial Day Sale     - CNET](https://www.cnet.com/deals/nectar-memorial-day-deal-2024/#ftag=CAD590a51e)
+ - [AirTag crucial to recovery of $5 million of stolen tools in Metro DC](https://appleinsider.com/articles/24/06/01/airtag-crucial-to-recovery-of-5-million-of-stolen-tools-in-metro-dc?utm_medium=rss)
+ - [One of My Favorite Pillow-Top Mattresses Is on Sale     - CNET](https://www.cnet.com/deals/helix-luxe-summer-sale-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
