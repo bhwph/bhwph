@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fun in US never stop](http://9gag.com/gag/aRBP0R7)
- - 😝 [When the players would like a nice little chat with the Ref](http://9gag.com/gag/azxEq8B)
- - 👉 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)<!-- MEMES:END -->
+ - 6️⃣ [Just in case anyone wanted to see the video of that is being suppressed in the media and on 9gag](http://9gag.com/gag/aO8b763)
+ - 😝 [Hello, hello, leave this man alone, hello hello hello!](http://9gag.com/gag/aE01gXe)
+ - 👉 [3 Bri&#39;ish got beaten by thai security guards for refusing to pay their bar tabs and telling the guards, `we own this country!` In Pattaya, Thailand](http://9gag.com/gag/aD2349K)<!-- MEMES:END -->
 
 --- 
 
