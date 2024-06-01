@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV and GLAAD are curating a bunch of awesome LGBTQ+ movies and TV shows for Pride Month](https://www.androidauthority.com/google-tv-pride-month-2024-3447841/)
- - [AI search engine Perplexity launches Pages, which will research and create a customizable webpage based on user prompts, aimed at educators, researchers, others &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240601/p8#a240601p8)
- - [11 Best Bookshelf Speakers &lpar;2024&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)<!-- TECH:END -->
+ - [Best Website Builder for 2024: Reviewed by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-website-builder/#ftag=CAD590a51e)
+ - [Best Chest Strap Heart-Rate Monitors for 2024     - CNET](https://www.cnet.com/health/fitness/best-chest-strap-heart-rate-monitors/#ftag=CAD590a51e)
+ - [Sources: a16z and other investors in the fintech Synapse, which filed for bankruptcy in early May, were aware of recordkeeping discrepancies for years &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/240601/p9#a240601p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
