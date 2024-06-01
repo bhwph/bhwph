@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies new to Netflix, Max, and more this June](https://www.polygon.com/what-to-watch/2024/6/1/24166253/best-new-movies-netflix-amazon-prime-max-hulu-june-2024)
- - [Pokémon Go raid schedule for June 2024’s Legendary and Mega Pokemon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
- - [Every movie and show coming to Netflix in June](https://www.polygon.com/entertainment/24164128/new-netflix-june-2024-movies-tv-to-watch)<!-- GAME:END -->
+ - [In a Violent Nature almost made me physically ill, and I loved it](https://www.polygon.com/24168126/in-a-violent-nature-horror-movie-gory-moment-spine-gross-but-good)
+ - [Halt and Catch Fire understood video games better than any other show](https://www.polygon.com/24168298/halt-catch-fire-video-games-anniversary-best-show)
+ - [The best movies new to Netflix, Max, and more this June](https://www.polygon.com/what-to-watch/2024/6/1/24166253/best-new-movies-netflix-amazon-prime-max-hulu-june-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
