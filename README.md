@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In light of recent events...](http://9gag.com/gag/adBY5XN)
- - 😝 [You love cats, right?](http://9gag.com/gag/aKGP67W)
- - 👉 [I need a new gaming setup](http://9gag.com/gag/ayN0Bvy)<!-- MEMES:END -->
+ - 6️⃣ [Title goes here](http://9gag.com/gag/aW4Wqx2)
+ - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
+ - 👉 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)<!-- MEMES:END -->
 
 --- 
 
