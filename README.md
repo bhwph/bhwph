@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 😝 [Not enough](http://9gag.com/gag/a6ZyO0q)
- - 👉 [There are extremist Muslims, and there are Muslims who quietly support this. There are no other Muslims.](http://9gag.com/gag/aVvWY8M)<!-- MEMES:END -->
+ - 6️⃣ [Thirstier than a camel in the Sahara desert](http://9gag.com/gag/azxEqKm)
+ - 😝 [Something smells funny](http://9gag.com/gag/aYQW470)
+ - 👉 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)<!-- MEMES:END -->
 
 --- 
 
