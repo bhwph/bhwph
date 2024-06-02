@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyundai’s first US-built EV will be the tax credit-ready Ioniq 5](https://www.theverge.com/2024/6/2/24169926/hyundai-ioniq-5-ev-first-us-made-electric-car-tax-credit-nacs)
- - [Best Meta Quest 3 Deals: Score a Free Game With Your Purchase     - CNET](https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e)
- - [Circle to Search Is Now on More Devices -- Here&#39;s the Full List     - CNET](https://www.cnet.com/tech/mobile/circle-to-search-is-now-on-more-devices-heres-the-full-list/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with FTC&#39;s Privacy and Identity Protection executive Ben Wiseman on proposed commercial surveillance rules, connected car industry&#39;s data practices, more &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/240602/p8#a240602p8)
+ - [Best Mattress for Adjustable Beds in 2024     - CNET](https://www.cnet.com/health/sleep/best-adjustable-mattress/#ftag=CAD590a51e)
+ - [Best Firm Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
