@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
- - 😝 [She is the chosen one](http://9gag.com/gag/aRBPXg5)
- - 👉 [Wholesome friendship](http://9gag.com/gag/aqyNngY)<!-- MEMES:END -->
+ - 6️⃣ [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
+ - 👉 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)<!-- MEMES:END -->
 
 --- 
 
