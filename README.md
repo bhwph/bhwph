@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram’s latest feature has users considering leaving the platform for good](https://www.androidauthority.com/instagram-ad-breaks-3448134/)
- - [Gemini cheat sheet: Google’s confusing AI jargon decoded](https://www.androidauthority.com/google-gemini-cheat-sheet-3448130/)
- - [Best Solar Panel Installation Companies in Ohio     - CNET](https://www.cnet.com/home/energy-and-utilities/ohio-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hyundai’s first US-built EV will be the tax credit-ready Ioniq 5](https://www.theverge.com/2024/6/2/24169926/hyundai-ioniq-5-ev-first-us-made-electric-car-tax-credit-nacs)
+ - [Best Meta Quest 3 Deals: Score a Free Game With Your Purchase     - CNET](https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e)
+ - [Circle to Search Is Now on More Devices -- Here&#39;s the Full List     - CNET](https://www.cnet.com/tech/mobile/circle-to-search-is-now-on-more-devices-heres-the-full-list/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
