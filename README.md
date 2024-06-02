@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Linen Sheets &lpar;2024&rpar;: Breathable, Soft, Affordable](https://www.wired.com/gallery/best-linen-sheets/)
- - [A better way to take video on your phone](https://www.theverge.com/2024/6/2/24168881/best-app-phone-video-kino-fitbit-ace-moviepass-installer)
- - [The Hunt for Ultralight Dark Matter](https://www.wired.com/story/the-hunt-for-ultralight-dark-matter/)<!-- TECH:END -->
+ - [Exynos vs Snapdragon could be a nightmare for the Samsung Galaxy S25](https://www.androidauthority.com/galaxy-s25-exynos-vs-snapdragon-cpu-3445534/)
+ - [Dyson Supersonic Nural Hair Dryer Review: Fast Drying and New Smart Attachments](https://www.wired.com/review/dyson-supersonic-nural-hair-dryer/)
+ - [Jensen Huang said at Computex that Asus, Pegatron, Wistron, and others will deliver cloud, on-prem, embedded, and edge AI systems using Nvidia Blackwell GPUs &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240602/p3#a240602p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
