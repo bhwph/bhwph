@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Giving a show for their fans](http://9gag.com/gag/aW4WjOK)
- - 😝 [It is what it is!](http://9gag.com/gag/aO8b32E)
- - 👉 [Thought?](http://9gag.com/gag/aGywpD6)<!-- MEMES:END -->
+ - 6️⃣ [Any artist can confirm?](http://9gag.com/gag/ayN0MG8)
+ - 😝 [Thought?](http://9gag.com/gag/aGywpD6)
+ - 👉 [3 Bri&#39;ish got beaten by thai security guards for refusing to pay their bar tabs and telling the guards, `we own this country!` In Pattaya, Thailand](http://9gag.com/gag/aD2349K)<!-- MEMES:END -->
 
 --- 
 
