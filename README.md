@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
- - 😝 [Imagine running for your life and this is the fastest you can run.](http://9gag.com/gag/aXPpob6)
- - 👉 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)<!-- MEMES:END -->
+ - 6️⃣ [Any artist can confirm?](http://9gag.com/gag/ayN0MG8)
+ - 😝 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
+ - 👉 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)<!-- MEMES:END -->
 
 --- 
 
