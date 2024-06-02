@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at activist groups&#39; efforts to keep Amazon, Google, and Microsoft from building more data centers in Chile, amid a drought expected to last until 2040 &lpar;Rest of World&rpar;](http://www.techmeme.com/240601/p12#a240601p12)
  - [You Can Still Get 30% Off the Leesa Sapira Chill Mattress With This Memorial Day Deal     - CNET](https://www.cnet.com/deals/leesa-sapira-chill-hybrid-memorial-day-deal/#ftag=CAD590a51e)
- - [Best Latex Mattresses of 2024     - CNET](https://www.cnet.com/health/sleep/best-latex-mattress/#ftag=CAD590a51e)
- - [Lego debuts its first Minecraft set for adults](https://www.theverge.com/2024/6/1/24169526/lego-minecraft-the-crafting-table-15th-anniversary-adult-set)<!-- TECH:END -->
+ - [Best Latex Mattresses of 2024     - CNET](https://www.cnet.com/health/sleep/best-latex-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
