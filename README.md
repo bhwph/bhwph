@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wholesome friendship](http://9gag.com/gag/aqyNngY)
- - 😝 [Perhaps there is hope..](http://9gag.com/gag/avygAvd)
- - 👉 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)<!-- MEMES:END -->
+ - 6️⃣ [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
+ - 😝 [Imagine running for your life and this is the fastest you can run.](http://9gag.com/gag/aXPpob6)
+ - 👉 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)<!-- MEMES:END -->
 
 --- 
 
