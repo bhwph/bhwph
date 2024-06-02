@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [George Miller’s smartest move in Furiosa is totally dissing Immortan Joe](https://www.polygon.com/24168903/furiosa-villain-immortan-joe-actor)
  - [Who is Furiosa’s equivalent of the Doof Warrior?](https://www.polygon.com/24168839/furiosa-doof-warrior-best-characters)
- - [Godzilla Minus One, the long-awaited Godzilla throwback movie, is finally on Netflix](https://www.polygon.com/reviews/23940888/godzilla-minus-one-review-digital-release)
- - [Tiana’s Bayou Adventure looks better than Splash Mountain, see for yourself](https://www.polygon.com/24169416/tianas-bayou-adventure-pov-video-4k-ride-through)<!-- GAME:END -->
+ - [Godzilla Minus One, the long-awaited Godzilla throwback movie, is finally on Netflix](https://www.polygon.com/reviews/23940888/godzilla-minus-one-review-digital-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
