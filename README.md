@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SSI Recipients Aren&#39;t Getting a Payment in June. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-recipients-arent-getting-a-payment-in-june-heres-why/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for June 2, #1079     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-june-2-1079/#ftag=CAD590a51e)
- - [Donald Trump&#39;s campaign joins TikTok, the app he once tried to ban; a TikTok official says there&#39;s a 2:1 ratio of pro-Trump versus pro-Biden content on the app &lpar;Politico&rpar;](http://www.techmeme.com/240602/p1#a240602p1)<!-- TECH:END -->
+ - [An excerpt from the book The Trolls of Wall Street, which details how r/WallStreetBets fueled a movement that turned millions of young Americans into investors &lpar;Nathaniel Popper/Bloomberg&rpar;](http://www.techmeme.com/240602/p2#a240602p2)
+ - [The Asus ROG Ally X is official — and I took a peek inside](https://www.theverge.com/2024/6/2/24169709/asus-rog-ally-x-price-release-date-inside-gaming-handheld)
+ - [ROG Ally X launched: ASUS levels up handheld with better battery, RAM, and more](https://www.androidauthority.com/asus-rog-ally-x-specs-price-features-3441319/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
