@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Perhaps there is hope..](http://9gag.com/gag/avygAvd)
- - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 6️⃣ [I&#39;ll be in my bunk](http://9gag.com/gag/a1mem0Y)
+ - 😝 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
  - 👉 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)<!-- MEMES:END -->
 
 --- 
