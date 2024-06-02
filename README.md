@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We do immigration all wrong.](http://9gag.com/gag/amo0Ppo)
- - 😝 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
- - 👉 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)<!-- MEMES:END -->
+ - 6️⃣ [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
+ - 😝 [She is the chosen one](http://9gag.com/gag/aRBPXg5)
+ - 👉 [Wholesome friendship](http://9gag.com/gag/aqyNngY)<!-- MEMES:END -->
 
 --- 
 
