@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An excerpt from the book The Trolls of Wall Street, which details how r/WallStreetBets fueled a movement that turned millions of young Americans into investors &lpar;Nathaniel Popper/Bloomberg&rpar;](http://www.techmeme.com/240602/p2#a240602p2)
- - [The Asus ROG Ally X is official — and I took a peek inside](https://www.theverge.com/2024/6/2/24169709/asus-rog-ally-x-price-release-date-inside-gaming-handheld)
- - [ROG Ally X launched: ASUS levels up handheld with better battery, RAM, and more](https://www.androidauthority.com/asus-rog-ally-x-specs-price-features-3441319/)<!-- TECH:END -->
+ - [6 Best Linen Sheets &lpar;2024&rpar;: Breathable, Soft, Affordable](https://www.wired.com/gallery/best-linen-sheets/)
+ - [A better way to take video on your phone](https://www.theverge.com/2024/6/2/24168881/best-app-phone-video-kino-fitbit-ace-moviepass-installer)
+ - [The Hunt for Ultralight Dark Matter](https://www.wired.com/story/the-hunt-for-ultralight-dark-matter/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
