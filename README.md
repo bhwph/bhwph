@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Any artist can confirm?](http://9gag.com/gag/ayN0MG8)
- - 😝 [Thought?](http://9gag.com/gag/aGywpD6)
- - 👉 [3 Bri&#39;ish got beaten by thai security guards for refusing to pay their bar tabs and telling the guards, `we own this country!` In Pattaya, Thailand](http://9gag.com/gag/aD2349K)<!-- MEMES:END -->
+ - 6️⃣ [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 😝 [Perhaps there is hope..](http://9gag.com/gag/avygAvd)
+ - 👉 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)<!-- MEMES:END -->
 
 --- 
 
