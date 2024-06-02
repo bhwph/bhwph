@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best mid-range phone for gaming doesn’t come from Google, Samsung, or OnePlus](https://www.androidauthority.com/best-mid-range-gaming-phone-3447719/)
- - [In a demo, Nvidia shows its G-Assist AI chatbot that could guide users through PC games based on voice queries, configure optimal settings, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240602/p6#a240602p6)
- - [Apple’s non-AI WWDC plans include Settings and Control Center revamps](https://www.theverge.com/2024/6/2/24169802/apple-wwdc-2024-ios-18-mac-os-15-settings-control-center-messages-mail-photos)<!-- TECH:END -->
+ - [Instagram’s latest feature has users considering leaving the platform for good](https://www.androidauthority.com/instagram-ad-breaks-3448134/)
+ - [Gemini cheat sheet: Google’s confusing AI jargon decoded](https://www.androidauthority.com/google-gemini-cheat-sheet-3448130/)
+ - [Best Solar Panel Installation Companies in Ohio     - CNET](https://www.cnet.com/home/energy-and-utilities/ohio-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
