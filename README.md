@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wholesome friendship](http://9gag.com/gag/aqyNngY)
- - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
- - 👉 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)<!-- MEMES:END -->
+ - 6️⃣ [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
+ - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 👉 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)<!-- MEMES:END -->
 
 --- 
 
