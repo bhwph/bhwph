@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exynos vs Snapdragon could be a nightmare for the Samsung Galaxy S25](https://www.androidauthority.com/galaxy-s25-exynos-vs-snapdragon-cpu-3445534/)
- - [Dyson Supersonic Nural Hair Dryer Review: Fast Drying and New Smart Attachments](https://www.wired.com/review/dyson-supersonic-nural-hair-dryer/)
- - [Jensen Huang said at Computex that Asus, Pegatron, Wistron, and others will deliver cloud, on-prem, embedded, and edge AI systems using Nvidia Blackwell GPUs &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240602/p3#a240602p3)<!-- TECH:END -->
+ - [The best mid-range phone for gaming doesn’t come from Google, Samsung, or OnePlus](https://www.androidauthority.com/best-mid-range-gaming-phone-3447719/)
+ - [In a demo, Nvidia shows its G-Assist AI chatbot that could guide users through PC games based on voice queries, configure optimal settings, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240602/p6#a240602p6)
+ - [Apple’s non-AI WWDC plans include Settings and Control Center revamps](https://www.theverge.com/2024/6/2/24169802/apple-wwdc-2024-ios-18-mac-os-15-settings-control-center-messages-mail-photos)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
