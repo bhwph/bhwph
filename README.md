@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
+ - 6️⃣ [L.A. Surgeons are Magicians](http://9gag.com/gag/aLnPL2M)
  - 😝 [Still would](http://9gag.com/gag/a9yL6YL)
  - 👉 [German police officer is dead](http://9gag.com/gag/a9yLygm)<!-- MEMES:END -->
 
