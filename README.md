@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Genshin Impact 4.7 release?](https://www.polygon.com/genshin-impact-guides/24170514/version-4-7-maintenance-release-time)
- - [How to prepare for FFXIV: Dawntrail](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24167088/dawntrail-prepare-how-to-get-ready)
- - [Crusader Kings 3&#39;s next expansion is the one we&#39;ve all been waiting for, and it&#39;s only a few months away](https://www.pcgamer.com/games/strategy/crusader-kings-3s-next-expansion-is-the-one-weve-all-been-waiting-for-and-its-only-a-few-months-away)<!-- GAME:END -->
+ - [Read Only Memories: Neurodiver, Creator’s Diary](https://news.xbox.com/en-us/2024/06/03/read-only-memories-neurodiver-creators-diary/)
+ - [The Acolyte, Clipped, and more new TV this week](https://www.polygon.com/2024/6/3/24132160/new-tv-star-wars-acolyte-clipped-criminal-minds)
+ - [The Internet Reacts To PlayStation’s New Not-Guardians Of The Galaxy Hero Shooter](https://kotaku.com/concord-playstation-5-pc-state-of-play-reaction-reddit-1851516496)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
