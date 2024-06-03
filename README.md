@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s new Ryzen AI 300 APU looks super exciting for handheld gaming but what about the battery life?](https://www.pcgamer.com/hardware/processors/amds-new-ryzen-ai-300-apu-looks-super-exciting-for-handheld-gaming-but-what-about-the-battery-life)
- - [Forget stickers on your laptop, Asus put a customisable e-inkdisplayon the lid instead](https://www.pcgamer.com/hardware/gaming-laptops/forget-stickers-on-your-laptop-asus-put-a-customisable-e-ink-display-on-the-lid-instead)
- - [This new carbon fiber ROG gaming mouse is absurd and awesome in equal measure](https://www.pcgamer.com/hardware/gaming-mice/this-new-carbon-fiber-rog-gaming-mouse-is-absurd-and-awesome-in-equal-measure)<!-- GAME:END -->
+ - [Patch 7 of Baldur&#39;s Gate 3 heralds the arrival of mod support in September, with a closed beta starting next month](https://www.pcgamer.com/games/baldurs-gate/patch-7-of-baldur-s-gate-3-heralds-the-arrival-of-mod-support-in-september-with-a-closed-beta-starting-next-month)
+ - [V Rising devs deep drive into boss encounters, coming to PS5 June 11](https://blog.playstation.com/2024/06/03/v-rising-devs-deep-drive-into-boss-encounters-coming-to-ps5-june-11/)
+ - [Competitive Tekken 8 match causes a frenzy after a rogue controller &#39;robbed&#39; pro player of a game-winning combo](https://www.pcgamer.com/games/fighting/competitive-tekken-8-match-causes-a-frenzy-after-a-rogue-controller-robbed-pro-player-of-a-game-winning-combo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
