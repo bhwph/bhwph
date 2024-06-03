@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [L.A. Surgeons are Magicians](http://9gag.com/gag/aLnPL2M)
- - 😝 [Still would](http://9gag.com/gag/a9yL6YL)
- - 👉 [German police officer is dead](http://9gag.com/gag/a9yLygm)<!-- MEMES:END -->
+ - 6️⃣ [Still would](http://9gag.com/gag/a9yL6YL)
+ - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
+ - 👉 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)<!-- MEMES:END -->
 
 --- 
 
