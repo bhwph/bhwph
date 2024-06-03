@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Still would](http://9gag.com/gag/a9yL6YL)
- - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - 👉 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)<!-- MEMES:END -->
+ - 6️⃣ [The cameraman knows his angle](http://9gag.com/gag/aAyrQEE)
+ - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
+ - 👉 [Still would](http://9gag.com/gag/a9yL6YL)<!-- MEMES:END -->
 
 --- 
 
