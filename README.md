@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Read Only Memories: Neurodiver, Creator’s Diary](https://news.xbox.com/en-us/2024/06/03/read-only-memories-neurodiver-creators-diary/)
- - [The Acolyte, Clipped, and more new TV this week](https://www.polygon.com/2024/6/3/24132160/new-tv-star-wars-acolyte-clipped-criminal-minds)
- - [The Internet Reacts To PlayStation’s New Not-Guardians Of The Galaxy Hero Shooter](https://kotaku.com/concord-playstation-5-pc-state-of-play-reaction-reddit-1851516496)<!-- GAME:END -->
+ - [Team Fortress 2 players gather over 140,000 petition signatures in the latest campaign against the ongoing aimbot menace](https://www.pcgamer.com/games/fps/team-fortress-2-players-gather-over-140000-petition-signatures-in-the-latest-campaign-against-the-ongoing-aimbot-menace)
+ - [The next Pokémon TCG expansion of 2024, Shrouded Fates, is now available to pre-order](https://www.polygon.com/deals/24170458/pokemon-tcg-scarlet-violet-shrouded-fable-pre-order-buy)
+ - [Fortnite&#39;s Free Cars Will Get You Killed Faster Than Its Paid Ones, New Video Shows](https://kotaku.com/fortnite-free-cars-pay-to-win-season-3-premium-skins-1851516668)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
