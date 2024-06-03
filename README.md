@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation VR2 players can access games on PC with adapter starting on August 7](https://blog.playstation.com/2024/06/03/playstation-vr2-players-can-access-games-on-pc-with-adapter-starting-on-august-7/)
- - [How to Watch the Xbox Games Showcase and Call of Duty: Black Ops 6 Direct on Sunday](https://news.xbox.com/en-us/2024/06/03/xbox-games-showcase-2024-black-ops-6-direct-how-to-watch/)
- - [Are 16 cores in the new Ryzen 9950X sufficient for gaming? &#39;There&#39;s no physical reason we couldn&#39;t do more than 16 cores,&#39; says AMD](https://www.pcgamer.com/hardware/processors/are-16-cores-in-the-new-ryzen-9950x-sufficient-for-gaming-theres-no-physical-reason-we-couldnt-do-more-than-16-cores-says-amd)<!-- GAME:END -->
+ - [What time does Genshin Impact 4.7 release?](https://www.polygon.com/genshin-impact-guides/24170514/version-4-7-maintenance-release-time)
+ - [How to prepare for FFXIV: Dawntrail](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24167088/dawntrail-prepare-how-to-get-ready)
+ - [Crusader Kings 3&#39;s next expansion is the one we&#39;ve all been waiting for, and it&#39;s only a few months away](https://www.pcgamer.com/games/strategy/crusader-kings-3s-next-expansion-is-the-one-weve-all-been-waiting-for-and-its-only-a-few-months-away)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
