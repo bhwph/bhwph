@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;ll be in my bunk](http://9gag.com/gag/a1mem0Y)
- - 😝 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
- - 👉 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)<!-- MEMES:END -->
+ - 6️⃣ [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
+ - 😝 [Mario](http://9gag.com/gag/a343ZBe)
+ - 👉 [Never go full retard...](http://9gag.com/gag/aE018Ax)<!-- MEMES:END -->
 
 --- 
 
