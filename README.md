@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The cameraman knows his angle](http://9gag.com/gag/aAyrQEE)
- - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
- - 👉 [Still would](http://9gag.com/gag/a9yL6YL)<!-- MEMES:END -->
+ - 6️⃣ [Heartbreaking, nearly 4 decades in prison despite being innocent](http://9gag.com/gag/aVvWgY2)
+ - 😝 [Nicely Done](http://9gag.com/gag/awyKzE4)
+ - 👉 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)<!-- MEMES:END -->
 
 --- 
 
