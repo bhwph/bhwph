@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is what should be rewarded...](http://9gag.com/gag/a7oyoLb)
- - 😝 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
- - 👉 [Europe 2024](http://9gag.com/gag/a87YqQ6)<!-- MEMES:END -->
+ - 6️⃣ [Headshot confirmed](http://9gag.com/gag/aRBPBK7)
+ - 😝 [There are the types of women I like...](http://9gag.com/gag/ayN02wX)
+ - 👉 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)<!-- MEMES:END -->
 
 --- 
 
