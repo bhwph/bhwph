@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The police officer from Mannheim died today. Where are the protests?](http://9gag.com/gag/ae904gj)
- - 😝 [Heartbreaking, nearly 4 decades in prison despite being innocent](http://9gag.com/gag/aVvWgY2)
+ - 6️⃣ [Slick](http://9gag.com/gag/aGywyNZ)
+ - 😝 [Any artist can confirm?](http://9gag.com/gag/ayN0MG8)
  - 👉 [This is what should be rewarded...](http://9gag.com/gag/a7oyoLb)<!-- MEMES:END -->
 
 --- 
