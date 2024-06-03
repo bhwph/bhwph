@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone 16 Pro could have world&#39;s thinnest bezels](https://appleinsider.com/articles/24/06/03/apples-iphone-16-pro-could-have-worlds-thinnest-bezels?utm_medium=rss)
- - [FTX sells its remaining 15M Anthropic shares, netting $450M+ and taking its total haul to $1.3B from its original $500M investment, as legal costs pass $500M &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/240603/p8#a240603p8)
- - [6 Best Cheap Smartphones &lpar;2024&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)<!-- TECH:END -->
+ - [Spotify is raising prices of its Premium plans yet again](https://www.androidauthority.com/spotify-price-raise-yet-again-3448262/)
+ - [How to buy the best mechanical keyboard for your needs](https://appleinsider.com/inside/accessories-and-io/best/how-to-buy-the-best-mechanical-keyboard-for-your-needs?utm_medium=rss)
+ - [Lovense Mini Sex Machine Review: All the Key Features at an Affordable Price](https://www.wired.com/review/lovense-mini-sex-machine/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
