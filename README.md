@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daisy recycling robot now smashes iPhones for speed](https://appleinsider.com/articles/24/06/03/daisy-recycling-robot-now-smashes-iphones-for-speed?utm_medium=rss)
- - [The 11 Best Travel Adapters &lpar;2024&rpar;: Plug Adapters and Universal Adapters](https://www.wired.com/gallery/best-travel-adapters/)
- - [The CEO of Zoom wants AI clones in meetings](https://www.theverge.com/2024/6/3/24168733/zoom-ceo-ai-clones-digital-twins-videoconferencing-decoder-interview)<!-- TECH:END -->
+ - [Apple&#39;s latest MacBook Air with M3 chip, 16GB RAM drops to $1,149](https://appleinsider.com/articles/24/06/03/apples-latest-macbook-air-with-m3-chip-16gb-ram-drops-to-1149?utm_medium=rss)
+ - [Controversial Windows 11 Recall feature could help hackers steal your passwords](https://www.androidauthority.com/windows-11-recall-passwords-steal-3448318/)
+ - [X has new rules that officially allow porn now](https://www.theverge.com/2024/6/3/24170352/x-xxx-porn-adult-content-terms-of-service-policy-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
