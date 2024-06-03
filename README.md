@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13 leak suggests new upgrades with a controversial trade-off](https://www.androidauthority.com/oneplus-13-wireless-charging-3448397/)
- - [Ahead of WWDC Developer app gets updated, YouTube gets keynote placeholder](https://appleinsider.com/articles/24/06/03/ahead-of-wwdc-developer-app-gets-updated-youtube-gets-keynote-placeholder?utm_medium=rss)
- - [Google Pixel 8a tips and tricks: 20 things to try on your budget Pixel!](https://www.androidauthority.com/google-pixel-8a-tips-3446290/)<!-- TECH:END -->
+ - [Sources: Microsoft is laying off hundreds of employees in Azure; one source estimated the Azure for Operators team cuts involved as many as 1,500 staffers &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/240603/p22#a240603p22)
+ - [Coinbase says it has donated another $25M to the pro-crypto Fairshake SuperPAC; Fairshake has raised ~$161M for 2024&#39;s US election from a16z, Ripple, and others &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240603/p21#a240603p21)
+ - [King of the Rings: Samsung sues Oura ahead of Galaxy Ring debut](https://www.androidauthority.com/samsung-oura-lawsuit-3448420/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
