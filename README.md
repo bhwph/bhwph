@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now play Nintendo 3DS games on your iPhone](https://www.androidauthority.com/folium-nintendo-3ds-emulator-iphone-3448216/)
- - [A look at OP_CAT, the front-runner in Bitcoin&#39;s software upgrade debate that could add new features, from better coin custody to DeFi apps common on ETH and SOL &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240603/p4#a240603p4)
- - [A look at the challenges C.C. Wei faces as he becomes TSMC&#39;s chair on June 4, as part of a reorganization that includes preparing a successor to Wei as CEO &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240603/p3#a240603p3)<!-- TECH:END -->
+ - [Apple&#39;s iPhone 16 Pro could have world&#39;s thinnest bezels](https://appleinsider.com/articles/24/06/03/apples-iphone-16-pro-could-have-worlds-thinnest-bezels?utm_medium=rss)
+ - [FTX sells its remaining 15M Anthropic shares, netting $450M+ and taking its total haul to $1.3B from its original $500M investment, as legal costs pass $500M &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/240603/p8#a240603p8)
+ - [6 Best Cheap Smartphones &lpar;2024&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
