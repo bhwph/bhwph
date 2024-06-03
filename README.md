@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Team Fortress 2 players gather over 140,000 petition signatures in the latest campaign against the ongoing aimbot menace](https://www.pcgamer.com/games/fps/team-fortress-2-players-gather-over-140000-petition-signatures-in-the-latest-campaign-against-the-ongoing-aimbot-menace)
- - [The next Pokémon TCG expansion of 2024, Shrouded Fates, is now available to pre-order](https://www.polygon.com/deals/24170458/pokemon-tcg-scarlet-violet-shrouded-fable-pre-order-buy)
- - [Fortnite&#39;s Free Cars Will Get You Killed Faster Than Its Paid Ones, New Video Shows](https://kotaku.com/fortnite-free-cars-pay-to-win-season-3-premium-skins-1851516668)<!-- GAME:END -->
+ - [Summer Game Fest will focus on existing games, so don&#39;t hype yourself up for &#39;games that are years and years out,&#39; says Geoff Keighley](https://www.pcgamer.com/gaming-industry/summer-game-fest-will-focus-on-existing-games-so-dont-hyper-yourself-up-for-games-that-are-years-and-years-out-says-geoff-keighley)
+ - [Fortnite&#39;s Free Cars Will Get You Killed Faster Than Its Paid Ones, New Video Shows [Update]](https://kotaku.com/fortnite-free-cars-pay-to-win-season-3-premium-skins-1851516668)
+ - [New Zany Open World Game Is For All You Simpsons: Hit And Run Fans](https://kotaku.com/tiny-terry-turbo-trip-review-simpsons-hit-run-steam-pc-1851517168)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
