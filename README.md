@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s latest MacBook Air with M3 chip, 16GB RAM drops to $1,149](https://appleinsider.com/articles/24/06/03/apples-latest-macbook-air-with-m3-chip-16gb-ram-drops-to-1149?utm_medium=rss)
- - [Controversial Windows 11 Recall feature could help hackers steal your passwords](https://www.androidauthority.com/windows-11-recall-passwords-steal-3448318/)
- - [X has new rules that officially allow porn now](https://www.theverge.com/2024/6/3/24170352/x-xxx-porn-adult-content-terms-of-service-policy-update)<!-- TECH:END -->
+ - [OnePlus 13 leak suggests new upgrades with a controversial trade-off](https://www.androidauthority.com/oneplus-13-wireless-charging-3448397/)
+ - [Ahead of WWDC Developer app gets updated, YouTube gets keynote placeholder](https://appleinsider.com/articles/24/06/03/ahead-of-wwdc-developer-app-gets-updated-youtube-gets-keynote-placeholder?utm_medium=rss)
+ - [Google Pixel 8a tips and tricks: 20 things to try on your budget Pixel!](https://www.androidauthority.com/google-pixel-8a-tips-3446290/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
