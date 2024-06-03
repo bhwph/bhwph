@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Patch 7 of Baldur&#39;s Gate 3 heralds the arrival of mod support in September, with a closed beta starting next month](https://www.pcgamer.com/games/baldurs-gate/patch-7-of-baldur-s-gate-3-heralds-the-arrival-of-mod-support-in-september-with-a-closed-beta-starting-next-month)
- - [V Rising devs deep drive into boss encounters, coming to PS5 June 11](https://blog.playstation.com/2024/06/03/v-rising-devs-deep-drive-into-boss-encounters-coming-to-ps5-june-11/)
- - [Competitive Tekken 8 match causes a frenzy after a rogue controller &#39;robbed&#39; pro player of a game-winning combo](https://www.pcgamer.com/games/fighting/competitive-tekken-8-match-causes-a-frenzy-after-a-rogue-controller-robbed-pro-player-of-a-game-winning-combo)<!-- GAME:END -->
+ - [PlayStation VR2 players can access games on PC with adapter starting on August 7](https://blog.playstation.com/2024/06/03/playstation-vr2-players-can-access-games-on-pc-with-adapter-starting-on-august-7/)
+ - [How to Watch the Xbox Games Showcase and Call of Duty: Black Ops 6 Direct on Sunday](https://news.xbox.com/en-us/2024/06/03/xbox-games-showcase-2024-black-ops-6-direct-how-to-watch/)
+ - [Are 16 cores in the new Ryzen 9950X sufficient for gaming? &#39;There&#39;s no physical reason we couldn&#39;t do more than 16 cores,&#39; says AMD](https://www.pcgamer.com/hardware/processors/are-16-cores-in-the-new-ryzen-9950x-sufficient-for-gaming-theres-no-physical-reason-we-couldnt-do-more-than-16-cores-says-amd)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
