@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is raising prices of its Premium plans yet again](https://www.androidauthority.com/spotify-price-raise-yet-again-3448262/)
- - [How to buy the best mechanical keyboard for your needs](https://appleinsider.com/inside/accessories-and-io/best/how-to-buy-the-best-mechanical-keyboard-for-your-needs?utm_medium=rss)
- - [Lovense Mini Sex Machine Review: All the Key Features at an Affordable Price](https://www.wired.com/review/lovense-mini-sex-machine/)<!-- TECH:END -->
+ - [Daisy recycling robot now smashes iPhones for speed](https://appleinsider.com/articles/24/06/03/daisy-recycling-robot-now-smashes-iphones-for-speed?utm_medium=rss)
+ - [The 11 Best Travel Adapters &lpar;2024&rpar;: Plug Adapters and Universal Adapters](https://www.wired.com/gallery/best-travel-adapters/)
+ - [The CEO of Zoom wants AI clones in meetings](https://www.theverge.com/2024/6/3/24168733/zoom-ceo-ai-clones-digital-twins-videoconferencing-decoder-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
