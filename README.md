@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
- - 😝 [Mario](http://9gag.com/gag/a343ZBe)
- - 👉 [Never go full retard...](http://9gag.com/gag/aE018Ax)<!-- MEMES:END -->
+ - 6️⃣ [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
+ - 😝 [Backstory of killdozer](http://9gag.com/gag/aYQWrgx)
+ - 👉 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)<!-- MEMES:END -->
 
 --- 
 
