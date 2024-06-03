@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft is laying off hundreds of employees in Azure; one source estimated the Azure for Operators team cuts involved as many as 1,500 staffers &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/240603/p22#a240603p22)
- - [Coinbase says it has donated another $25M to the pro-crypto Fairshake SuperPAC; Fairshake has raised ~$161M for 2024&#39;s US election from a16z, Ripple, and others &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240603/p21#a240603p21)
- - [King of the Rings: Samsung sues Oura ahead of Galaxy Ring debut](https://www.androidauthority.com/samsung-oura-lawsuit-3448420/)<!-- TECH:END -->
+ - [ASML opens a test laboratory for its High NA EUV machine with Belgium&#39;s Imec in the Netherlands, and expects customers to use it for manufacturing in 2025-2026 &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240603/p25#a240603p25)
+ - [Deal: The Samsung Galaxy Tab S9 Plus plunges by over $250](https://www.androidauthority.com/deal-samsung-galaxy-tab-s9-plus-3448472/)
+ - [YouTube insider access tied to massive leaks](https://www.theverge.com/2024/6/3/24170740/youtube-insider-access-massive-leaks-nintendo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
