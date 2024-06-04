@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
+ - 6️⃣ [Any man will kiss me..](http://9gag.com/gag/aoy0RO3)
  - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
- - 👉 [Bro persisted one day](http://9gag.com/gag/abAyeR9)<!-- MEMES:END -->
+ - 👉 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)<!-- MEMES:END -->
 
 --- 
 
