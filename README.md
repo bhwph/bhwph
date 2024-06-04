@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nintendo Switch OLED is $35 off at Woot on a one-day deal](https://www.theverge.com/good-deals/2024/6/4/24171333/nintendo-switch-oled-console-handheld-woot-deal-sale)
- - [TikTok Hack Targets ‘High-Profile’ Users via DMs](https://www.wired.com/story/tiktok-dm-exploit/)
- - [Meta is fixing three of the Quest 3’s biggest lingering annoyances](https://www.theverge.com/2024/6/4/24171381/meta-quest-3-v66-passthrough-distortion-background-audio-wrist-menu)<!-- TECH:END -->
+ - [Avail, a modular blockchain project building &quot;rollup-centric infrastructure&quot;, raised a $43M Series A, after raising a $27M seed in February 2024 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240604/p34#a240604p34)
+ - [Washington DC&#39;s AG says Michael Saylor and his company MicroStrategy will pay $40M to settle a tax suit, calling it &quot;the largest income tax recovery&quot; ever in DC &lpar;Kelly Phillips Erb/Forbes&rpar;](http://www.techmeme.com/240604/p33#a240604p33)
+ - [Google can keep a phone if you send for repair with non-OEM parts &lpar;Update: Changing policy&rpar;](https://www.androidauthority.com/google-keeps-phones-with-non-oem-parts-3448350/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
