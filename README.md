@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just you: ChatGPT is down for many users](https://www.androidauthority.com/chatgpt-is-down-for-users-3448619/)
- - [YouTube is testing AI-generated backgrounds for Shorts](https://www.androidauthority.com/youtube-testing-ai-backgrounds-shorts-3448604/)
- - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)<!-- TECH:END -->
+ - [Sources: E*Trade is considering kicking meme stock leader Keith Gill off its service over stock manipulation concerns; GameStop jumped 60% since Gill reappeared &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/240604/p11#a240604p11)
+ - [How to use Reader Mode in Safari on iPad](https://appleinsider.com/inside/ipados/tips/how-to-use-the-reader-mode-in-safari-on-ipad?utm_medium=rss)
+ - [Inside the Biggest FBI Sting Operation in History](https://www.wired.com/story/inside-biggest-fbi-sting-operation-in-history/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
