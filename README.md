@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hot on the heels of its hit Fallout show, Amazon is releasing a &#39;gritty&#39; series based on the Yakuza games later this year](https://www.pcgamer.com/games/action/hot-on-the-heels-of-its-hit-fallout-show-amazon-is-releasing-a-gritty-series-based-on-the-yakuza-games-later-this-year)
- - [Meet PC Game Pass’ Summer Curator, Content Creator Cupquake](https://news.xbox.com/en-us/2024/06/04/pc-game-pass-summer-curator-cupquake/)
- - [Someone Is Finally Making The SSX Tricky Successor I&#39;ve Been Waiting For](https://kotaku.com/ssx-spiritual-successor-tricky-madness-demo-steam-1851519350)<!-- GAME:END -->
+ - [Hades 2&#39;s latest patch drops the nerf hammer on everyone&#39;s favorite overpowered build, but players are surprisingly cool with it](https://www.pcgamer.com/games/roguelike/hades-2s-latest-patch-drops-the-nerf-hammer-on-everyones-favorite-overpowered-build-but-players-are-surprisingly-cool-with-it)
+ - [Hades 2&#39;s Biggest Early Access Patch Yet Just Made A Bunch Of Weapons Stronger](https://kotaku.com/hades-2-patch-notes-buff-chronos-steam-early-access-1851519615)
+ - [Over 200k Team Fortress 2 Fans Want Valve To Fix The Game](https://kotaku.com/tf2-team-fortress-bots-valve-fan-petition-fix-pc-fixtf2-1851519583)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
