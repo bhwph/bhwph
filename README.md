@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASML opens a test laboratory for its High NA EUV machine with Belgium&#39;s Imec in the Netherlands, and expects customers to use it for manufacturing in 2025-2026 &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240603/p25#a240603p25)
- - [Deal: The Samsung Galaxy Tab S9 Plus plunges by over $250](https://www.androidauthority.com/deal-samsung-galaxy-tab-s9-plus-3448472/)
- - [YouTube insider access tied to massive leaks](https://www.theverge.com/2024/6/3/24170740/youtube-insider-access-massive-leaks-nintendo)<!-- TECH:END -->
+ - [In a joint statement, Snowflake, CrowdStrike, and Mandiant say they have not found evidence suggesting Snowflake&#39;s platform was breached to hack Ticketmaster &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/240603/p27#a240603p27)
+ - [Snowflake says there’s no evidence attackers breached its platform to hack Ticketmaster](https://www.theverge.com/2024/6/3/24170876/snowflake-ticketmaster-santander-data-breach-details)
+ - [Best Sleep Masks for 2024     - CNET](https://www.cnet.com/health/sleep/best-sleep-mask/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
