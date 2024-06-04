@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D&#39;s Wizards of the Coast come under fire for AI &lpar;again&rpar; after advertising for a &#39;principal AI engineer&#39;, but insists &#39;our stance on AI hasn&#39;t changed&#39; since videogames don&#39;t count](https://www.pcgamer.com/games/rpg/d-d-s-wizards-of-the-coast-come-under-fire-for-ai-again-after-advertising-for-a-principal-ai-engineer-but-insists-our-stance-on-ai-hasn-t-changed-since-videogames-don-t-count)
- - [Witness the mighty Noctua power supply](https://www.pcgamer.com/hardware/power-supplies/witness-the-mighty-noctua-power-supply)
- - [&lpar;For Southeast Asia&rpar; PlayStation VR2 players can access games on PC with adapter starting on August 7](https://blog.playstation.com/2024/06/04/20240604-psvr2/)<!-- GAME:END -->
+ - [Tactical Breach Wizards, a turn-based strategy game about spec-ops casters with a habit of throwing people out of windows, has a free demo after years in the cauldron](https://www.pcgamer.com/games/strategy/tactical-breach-wizards-a-turn-based-strategy-game-about-spec-ops-casters-with-a-habit-of-throwing-people-out-of-windows-has-a-free-demo-after-years-in-the-cauldron)
+ - [Developer of the latest anime gacha hit apologises 5 times for launch issues in a single letter and doles out in-game treats like candy](https://www.pcgamer.com/games/rpg/developer-of-the-latest-anime-gacha-hit-apologises-5-times-for-launch-issues-in-a-single-letter-and-doles-out-in-game-treats-like-candy)
+ - [&#39;The Flame is lit&#39;: Dark Souls is getting a new manga and all I&#39;m hoping for is something more horrifying than Elden Ring&#39;s one](https://www.pcgamer.com/games/rpg/the-flame-is-lit-dark-souls-is-getting-a-new-manga-and-all-im-hoping-for-is-something-more-horrifying-than-elden-rings-one)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
