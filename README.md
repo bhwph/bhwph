@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just you: ChatGPT is down for many users &lpar;Update: Back online&rpar;](https://www.androidauthority.com/chatgpt-is-down-for-users-3448619/)
- - [AI-powered virtual physical therapy startup Sword Health raised $130M at a $3B valuation, up from $2B in November 2021, taking its total funding to $340M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240604/p19#a240604p19)
- - [Sonos Wants to Get Off Your Shelf and Own Audio Everywhere](https://www.wired.com/story/sonos-wants-to-get-off-your-shelf-and-own-audio-everywhere/)<!-- TECH:END -->
+ - [Google Lens could soon make it easier to add context to searches &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-lens-add-context-to-searches-apk-teardown-3448680/)
+ - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2024](https://www.wired.com/gallery/the-best-ipad/)
+ - [Apple just corrected the M2 iPad Air’s core count](https://www.theverge.com/2024/6/4/24171100/apple-m2-ipad-air-gpu-core-count-correction)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
