@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Qualcomm&#39;s CEO on AI performance in laptops: &#39;People talk about TOPS but they should be talking watts&#39;](https://www.pcgamer.com/hardware/processors/qualcomms-ceo-on-ai-performance-in-laptops-people-talk-about-tops-but-they-should-be-talking-watts)
- - [&#39;It&#39;s our way of making a statement in the face of targeted harassment&#39;: Tales of Kenzera: Zau director lowers the price of the game on Switch](https://www.pcgamer.com/games/action/its-our-way-of-making-a-statement-in-the-face-of-targeted-harassment-tales-of-kenzera-zau-director-lowers-the-price-of-the-game-on-switch)
- - [Guild Wars 2&#39;s next expansion will add its first new raid in five years, as well as &#39;the most player-friendly housing system in an MMORPG&#39;](https://www.pcgamer.com/games/mmo/guild-wars-2s-next-expansion-will-add-its-first-new-raid-in-five-years-as-well-as-the-most-player-friendly-housing-system-in-an-mmorpg)<!-- GAME:END -->
+ - [How to enhance weapons in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24168526/enhance-weapons-perks-activities-list)
+ - [Helldivers 2’s latest Major Order was &lpar;mostly&rpar; a narrative success](https://www.polygon.com/24170825/helldivers-2-meridia-system-major-order-black-hole)
+ - [I tried to recreate Marvel&#39;s Iron Man in this movie studio sim, and my version was so bad my own father stormed out of the theater](https://www.pcgamer.com/games/sim/i-tried-to-recreate-marvels-iron-man-in-this-movie-studio-sim-and-my-version-was-so-bad-my-own-father-stormed-out-of-the-theater)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
