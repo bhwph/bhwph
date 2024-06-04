@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It used to, but now it&#39;s just for racists, propaganda and sh*t.. it&#39;s a place where people share hatred. I don&#39;t use it much anymore..](http://9gag.com/gag/aNDZ9qG)
- - 😝 [Nobody reading this?](http://9gag.com/gag/aXPpn62)
- - 👉 [The police officer from Mannheim died today. Where are the protests?](http://9gag.com/gag/ae904gj)<!-- MEMES:END -->
+ - 6️⃣ [Perfect](http://9gag.com/gag/aqyNyNM)
+ - 😝 [Repost..](http://9gag.com/gag/azxE2QN)
+ - 👉 [Bro persisted one day](http://9gag.com/gag/abAyeR9)<!-- MEMES:END -->
 
 --- 
 
