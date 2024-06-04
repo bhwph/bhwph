@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mannheim knife attacker was illegal in Germany for 9 years. His asylum request was rejected in 2014. In 2023 he had a child with a German woman so he got a residence permit. His YT channel was filled with Taliban propaganda.](http://9gag.com/gag/aE016K9)
- - 😝 [Taylor Swift might have finally met her match](http://9gag.com/gag/amo0WM9)
- - 👉 [New Google](http://9gag.com/gag/a6ZyXOq)<!-- MEMES:END -->
+ - 6️⃣ [It looks really reasonable](http://9gag.com/gag/a0eLXrz)
+ - 😝 [Look at these male human...](http://9gag.com/gag/a6ZyXXb)
+ - 👉 [Bread and butter.](http://9gag.com/gag/a9yLvW0)<!-- MEMES:END -->
 
 --- 
 
