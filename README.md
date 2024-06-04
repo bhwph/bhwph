@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It looks really reasonable](http://9gag.com/gag/a0eLXrz)
- - 😝 [Look at these male human...](http://9gag.com/gag/a6ZyXXb)
- - 👉 [Bread and butter.](http://9gag.com/gag/a9yLvW0)<!-- MEMES:END -->
+ - 6️⃣ [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
+ - 😝 [Repost..](http://9gag.com/gag/azxE2QN)
+ - 👉 [It looks really reasonable](http://9gag.com/gag/a0eLXrz)<!-- MEMES:END -->
 
 --- 
 
