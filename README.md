@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [New Google](http://9gag.com/gag/a6ZyXOq)
- - 😝 [Nobody reading this?](http://9gag.com/gag/aXPpn62)
- - 👉 [Taylor Swift might have finally met her match](http://9gag.com/gag/amo0WM9)<!-- MEMES:END -->
+ - 6️⃣ [Bro persisted one day](http://9gag.com/gag/abAyeR9)
+ - 😝 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
+ - 👉 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)<!-- MEMES:END -->
 
 --- 
 
