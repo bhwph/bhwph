@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Keep the good work GTA](http://9gag.com/gag/ae90Zej)
- - 😝 [\u201cThis is our country, and we want it back.\u201d](http://9gag.com/gag/an7KRBL)
- - 👉 [This will be the most downloaded mod for GoWR on PC](http://9gag.com/gag/azxEPDK)<!-- MEMES:END -->
+ - 6️⃣ [How big are the odds...](http://9gag.com/gag/aKGPAY6)
+ - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
+ - 👉 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)<!-- MEMES:END -->
 
 --- 
 
