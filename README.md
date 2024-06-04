@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Dapper Labs, maker of NBA Top Shot Moments NFTs, settles a class action lawsuit for $4M that alleged it violated laws by selling unregistered securities &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/240603/p28#a240603p28)
- - [Microsoft layoffs hit HoloLens, Azure cloud teams](https://www.theverge.com/2024/6/3/24170902/microsoft-hololens-2-mixed-reality-azure-layoffs)
- - [I Tried Green Chef. See How I Liked These Healthy, Organic Meal Kits     - CNET](https://www.cnet.com/health/nutrition/green-chef-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel says a standard AI kit featuring its Gaudi 2 chips, introduced in 2022, will cost $65K while a Gaudi 3 kit, unveiled in April 2024, will cost $125K &lpar;Reuters&rpar;](http://www.techmeme.com/240604/p3#a240604p3)
+ - [Intel announces Xeon 6 data center chips for AI: series 6700 with 144 efficient and 86 performance cores, and 6900 with 288 efficient and 128 performance cores &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240604/p2#a240604p2)
+ - [Intel unveils Lunar Lake, with a new SoC design, up to 14% faster CPU and 50% more graphics performance than Meteor Lake, and 40+ TOPS of AI performance &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240604/p1#a240604p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
