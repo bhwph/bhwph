@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)
- - 😝 [The moment!](http://9gag.com/gag/aoy0R62)
- - 👉 [Drugs are bad, mkay ?](http://9gag.com/gag/aW4Wn7d)<!-- MEMES:END -->
+ - 6️⃣ [Smart photographer...](http://9gag.com/gag/aGywMyw)
+ - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
+ - 👉 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)<!-- MEMES:END -->
 
 --- 
 
