@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Avail, a modular blockchain project building &quot;rollup-centric infrastructure&quot;, raised a $43M Series A, after raising a $27M seed in February 2024 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240604/p34#a240604p34)
- - [Washington DC&#39;s AG says Michael Saylor and his company MicroStrategy will pay $40M to settle a tax suit, calling it &quot;the largest income tax recovery&quot; ever in DC &lpar;Kelly Phillips Erb/Forbes&rpar;](http://www.techmeme.com/240604/p33#a240604p33)
- - [Google can keep a phone if you send for repair with non-OEM parts &lpar;Update: Changing policy&rpar;](https://www.androidauthority.com/google-keeps-phones-with-non-oem-parts-3448350/)<!-- TECH:END -->
+ - [Flash sale: learn a new language on your iPhone or Mac with a lifetime of Babbel for $149.97](https://appleinsider.com/articles/24/06/04/flash-sale-learn-a-new-language-on-your-iphone-or-mac-with-a-lifetime-of-babbel-for-14997?utm_medium=rss)
+ - [An AT&amp;T and Verizon outage is cutting off phone calls](https://www.theverge.com/2024/6/4/24171656/att-verizon-outage-dropped-calls)
+ - [OPPO’s next flagship could feature an even more powerful zoom lens](https://www.androidauthority.com/oppo-find-x8-ultra-camera-leak-3448856/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
