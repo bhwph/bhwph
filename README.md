@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to enhance weapons in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24168526/enhance-weapons-perks-activities-list)
- - [Helldivers 2’s latest Major Order was &lpar;mostly&rpar; a narrative success](https://www.polygon.com/24170825/helldivers-2-meridia-system-major-order-black-hole)
- - [I tried to recreate Marvel&#39;s Iron Man in this movie studio sim, and my version was so bad my own father stormed out of the theater](https://www.pcgamer.com/games/sim/i-tried-to-recreate-marvels-iron-man-in-this-movie-studio-sim-and-my-version-was-so-bad-my-own-father-stormed-out-of-the-theater)<!-- GAME:END -->
+ - [Hot on the heels of its hit Fallout show, Amazon is releasing a &#39;gritty&#39; series based on the Yakuza games later this year](https://www.pcgamer.com/games/action/hot-on-the-heels-of-its-hit-fallout-show-amazon-is-releasing-a-gritty-series-based-on-the-yakuza-games-later-this-year)
+ - [Meet PC Game Pass’ Summer Curator, Content Creator Cupquake](https://news.xbox.com/en-us/2024/06/04/pc-game-pass-summer-curator-cupquake/)
+ - [Someone Is Finally Making The SSX Tricky Successor I&#39;ve Been Waiting For](https://kotaku.com/ssx-spiritual-successor-tricky-madness-demo-steam-1851519350)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
