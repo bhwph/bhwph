@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - 😝 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
- - 👉 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)<!-- MEMES:END -->
+ - 6️⃣ [Keep the good work GTA](http://9gag.com/gag/ae90Zej)
+ - 😝 [\u201cThis is our country, and we want it back.\u201d](http://9gag.com/gag/an7KRBL)
+ - 👉 [This will be the most downloaded mod for GoWR on PC](http://9gag.com/gag/azxEPDK)<!-- MEMES:END -->
 
 --- 
 
