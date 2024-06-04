@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ikea is hiring workers for its online Roblox store for £13.15 per hour, and you can even serve virtual meatballs](https://www.pcgamer.com/software/platforms/ikea-is-hiring-workers-for-its-online-roblox-store-for-pound1315-per-hour-and-you-can-even-serve-virtual-meatballs)
- - [Hidetaka Miyazaki says Shadow of the Erdtree had to be big, because he wanted Elden Ring players &#39;to experience that sense of discovery and that sense of wonder&#39; all over again](https://www.pcgamer.com/games/rpg/hidetaka-miyazaki-erdtree-size-sense-of-discovery)
- - [Here&#39;s how Shadow of the Erdtree&#39;s new leveling system works](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-scadutree-fragments-revered-spirit-ash-blessings)<!-- GAME:END -->
+ - [Qualcomm&#39;s CEO on AI performance in laptops: &#39;People talk about TOPS but they should be talking watts&#39;](https://www.pcgamer.com/hardware/processors/qualcomms-ceo-on-ai-performance-in-laptops-people-talk-about-tops-but-they-should-be-talking-watts)
+ - [&#39;It&#39;s our way of making a statement in the face of targeted harassment&#39;: Tales of Kenzera: Zau director lowers the price of the game on Switch](https://www.pcgamer.com/games/action/its-our-way-of-making-a-statement-in-the-face-of-targeted-harassment-tales-of-kenzera-zau-director-lowers-the-price-of-the-game-on-switch)
+ - [Guild Wars 2&#39;s next expansion will add its first new raid in five years, as well as &#39;the most player-friendly housing system in an MMORPG&#39;](https://www.pcgamer.com/games/mmo/guild-wars-2s-next-expansion-will-add-its-first-new-raid-in-five-years-as-well-as-the-most-player-friendly-housing-system-in-an-mmorpg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
