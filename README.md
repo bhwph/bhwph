@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Perfect](http://9gag.com/gag/aqyNyNM)
- - 😝 [Repost..](http://9gag.com/gag/azxE2QN)
- - 👉 [Bro persisted one day](http://9gag.com/gag/abAyeR9)<!-- MEMES:END -->
+ - 6️⃣ [New Google](http://9gag.com/gag/a6ZyXOq)
+ - 😝 [Nobody reading this?](http://9gag.com/gag/aXPpn62)
+ - 👉 [Taylor Swift might have finally met her match](http://9gag.com/gag/amo0WM9)<!-- MEMES:END -->
 
 --- 
 
