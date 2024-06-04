@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple downgraded the iPad Air M2 and didn’t tell buyers &lpar;Update: Apple statement&rpar;](https://www.androidauthority.com/apple-downgraded-ipad-air-m2-3448329/)
- - [Google Cut Back AI Overviews in Search Even Before Its ‘Pizza Glue’ Fiasco](https://www.wired.com/story/google-cut-back-ai-overviews-before-pizza-glue/)
- - [The Acolyte carves out its own slice of the Star Wars universe](https://www.theverge.com/24171101/the-acolyte-review-star-wars-disney-plus)<!-- TECH:END -->
+ - [The Nintendo Switch OLED is $35 off at Woot on a one-day deal](https://www.theverge.com/good-deals/2024/6/4/24171333/nintendo-switch-oled-console-handheld-woot-deal-sale)
+ - [TikTok Hack Targets ‘High-Profile’ Users via DMs](https://www.wired.com/story/tiktok-dm-exploit/)
+ - [Meta is fixing three of the Quest 3’s biggest lingering annoyances](https://www.theverge.com/2024/6/4/24171381/meta-quest-3-v66-passthrough-distortion-background-audio-wrist-menu)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
