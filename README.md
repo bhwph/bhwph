@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How big are the odds...](http://9gag.com/gag/aKGPAY6)
- - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - 👉 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)<!-- MEMES:END -->
+ - 6️⃣ [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
+ - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
+ - 👉 [Bro persisted one day](http://9gag.com/gag/abAyeR9)<!-- MEMES:END -->
 
 --- 
 
