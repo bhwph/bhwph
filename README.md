@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: E*Trade is considering kicking meme stock leader Keith Gill off its service over stock manipulation concerns; GameStop jumped 60% since Gill reappeared &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/240604/p11#a240604p11)
- - [How to use Reader Mode in Safari on iPad](https://appleinsider.com/inside/ipados/tips/how-to-use-the-reader-mode-in-safari-on-ipad?utm_medium=rss)
- - [Inside the Biggest FBI Sting Operation in History](https://www.wired.com/story/inside-biggest-fbi-sting-operation-in-history/)<!-- TECH:END -->
+ - [It’s not just you: ChatGPT is down for many users &lpar;Update: Back online&rpar;](https://www.androidauthority.com/chatgpt-is-down-for-users-3448619/)
+ - [AI-powered virtual physical therapy startup Sword Health raised $130M at a $3B valuation, up from $2B in November 2021, taking its total funding to $340M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240604/p19#a240604p19)
+ - [Sonos Wants to Get Off Your Shelf and Own Audio Everywhere](https://www.wired.com/story/sonos-wants-to-get-off-your-shelf-and-own-audio-everywhere/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
