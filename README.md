@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After nine months with Starlink, the Marubo, an Indigenous Amazon tribe, faces challenges like addiction and concerns about potential loss of cultural identity &lpar;Jack Nicas/New York Times&rpar;](http://www.techmeme.com/240604/p5#a240604p5)
- - [MSI announces Claw 8 AI+, its next-gen handheld, powered by Intel&#39;s Lunar Lake and comes with an 8&quot; screen, Thunderbolt 4 port, and a larger 80 Wh battery &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240604/p4#a240604p4)
- - [Even Spotify could soon get its own Gemini Extension &lpar;APK teardown&rpar;](https://www.androidauthority.com/spotify-google-gemini-extension-coming-soon-apk-teardown-3448585/)<!-- TECH:END -->
+ - [It’s not just you: ChatGPT is down for many users](https://www.androidauthority.com/chatgpt-is-down-for-users-3448619/)
+ - [YouTube is testing AI-generated backgrounds for Shorts](https://www.androidauthority.com/youtube-testing-ai-backgrounds-shorts-3448604/)
+ - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
