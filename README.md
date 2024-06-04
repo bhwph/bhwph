@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Lens could soon make it easier to add context to searches &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-lens-add-context-to-searches-apk-teardown-3448680/)
- - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2024](https://www.wired.com/gallery/the-best-ipad/)
- - [Apple just corrected the M2 iPad Air’s core count](https://www.theverge.com/2024/6/4/24171100/apple-m2-ipad-air-gpu-core-count-correction)<!-- TECH:END -->
+ - [Apple downgraded the iPad Air M2 and didn’t tell buyers &lpar;Update: Apple statement&rpar;](https://www.androidauthority.com/apple-downgraded-ipad-air-m2-3448329/)
+ - [Google Cut Back AI Overviews in Search Even Before Its ‘Pizza Glue’ Fiasco](https://www.wired.com/story/google-cut-back-ai-overviews-before-pizza-glue/)
+ - [The Acolyte carves out its own slice of the Star Wars universe](https://www.theverge.com/24171101/the-acolyte-review-star-wars-disney-plus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
