@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tactical Breach Wizards, a turn-based strategy game about spec-ops casters with a habit of throwing people out of windows, has a free demo after years in the cauldron](https://www.pcgamer.com/games/strategy/tactical-breach-wizards-a-turn-based-strategy-game-about-spec-ops-casters-with-a-habit-of-throwing-people-out-of-windows-has-a-free-demo-after-years-in-the-cauldron)
- - [Developer of the latest anime gacha hit apologises 5 times for launch issues in a single letter and doles out in-game treats like candy](https://www.pcgamer.com/games/rpg/developer-of-the-latest-anime-gacha-hit-apologises-5-times-for-launch-issues-in-a-single-letter-and-doles-out-in-game-treats-like-candy)
- - [&#39;The Flame is lit&#39;: Dark Souls is getting a new manga and all I&#39;m hoping for is something more horrifying than Elden Ring&#39;s one](https://www.pcgamer.com/games/rpg/the-flame-is-lit-dark-souls-is-getting-a-new-manga-and-all-im-hoping-for-is-something-more-horrifying-than-elden-rings-one)<!-- GAME:END -->
+ - [Ikea is hiring workers for its online Roblox store for £13.15 per hour, and you can even serve virtual meatballs](https://www.pcgamer.com/software/platforms/ikea-is-hiring-workers-for-its-online-roblox-store-for-pound1315-per-hour-and-you-can-even-serve-virtual-meatballs)
+ - [Hidetaka Miyazaki says Shadow of the Erdtree had to be big, because he wanted Elden Ring players &#39;to experience that sense of discovery and that sense of wonder&#39; all over again](https://www.pcgamer.com/games/rpg/hidetaka-miyazaki-erdtree-size-sense-of-discovery)
+ - [Here&#39;s how Shadow of the Erdtree&#39;s new leveling system works](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-scadutree-fragments-revered-spirit-ash-blessings)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
