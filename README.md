@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Any man will kiss me..](http://9gag.com/gag/aoy0RO3)
- - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
- - 👉 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)
+ - 😝 [The moment!](http://9gag.com/gag/aoy0R62)
+ - 👉 [Drugs are bad, mkay ?](http://9gag.com/gag/aW4Wn7d)<!-- MEMES:END -->
 
 --- 
 
