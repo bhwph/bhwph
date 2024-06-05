@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Smart photographer...](http://9gag.com/gag/aGywMyw)
- - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
- - 👉 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)<!-- MEMES:END -->
+ - 6️⃣ [Where&#39;s John Wick when you need him](http://9gag.com/gag/aXPp4Dz)
+ - 😝 [Asian stuffs](http://9gag.com/gag/a2vY0wY)
+ - 👉 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)<!-- MEMES:END -->
 
 --- 
 
