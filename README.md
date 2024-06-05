@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NZXT&#39;s doing something that makes so much damned sense I don&#39;t know why it&#39;s not been done before](https://www.pcgamer.com/hardware/nzxts-unibody-fans-make-so-much-damned-sense-i-dont-know-why-its-not-been-done-before)
- - [Call Of Duty&#39;s &#39;Trans Bullets&#39; Are The Latest Right Wing Conspiracy Rage Bait](https://kotaku.com/call-duty-mw3-warzone-trans-bullets-pride-month-1851521459)
- - [Mech tactics game Grit and Valor doesn&#39;t play much like Into the Breach, and that&#39;s a good thing](https://www.pcgamer.com/games/strategy/mech-tactics-game-grit-and-valor-doesnt-play-much-like-into-the-breach-and-thats-a-good-thing)<!-- GAME:END -->
+ - [The PC Gaming Show turns 10: Looking back at the biggest moments from each show](https://www.pcgamer.com/gaming-industry/the-pc-gaming-show-turns-10-looking-back-at-the-biggest-moments-from-each-show)
+ - [Star Wars: Hunters Is A Fun New Shooter Trapped On Switch And Phones](https://kotaku.com/star-wars-hunters-review-is-it-good-switch-ps5-xbox-pc-1851521852)
+ - [Baldur&#39;s Gate 3 player gits gouda, beats game as wheel of cheese](https://www.pcgamer.com/games/rpg/baldurs-gate-3-player-gits-gouda-beats-game-as-wheel-of-cheese)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
