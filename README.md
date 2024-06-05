@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
- - 😝 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
- - 👉 [F*cking legend](http://9gag.com/gag/a9yL2Vm)<!-- MEMES:END -->
+ - 6️⃣ [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)
+ - 😝 [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)
+ - 👉 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)<!-- MEMES:END -->
 
 --- 
 
