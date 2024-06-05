@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The moment!](http://9gag.com/gag/aoy0R62)
- - 😝 [Clever girl](http://9gag.com/gag/aPA48jq)
- - 👉 [I had a dog once, who did the same thing. Miss you buddy...](http://9gag.com/gag/apR0P5B)<!-- MEMES:END -->
+ - 6️⃣ [Smart photographer...](http://9gag.com/gag/aGywMyw)
+ - 😝 [The moment!](http://9gag.com/gag/aoy0R62)
+ - 👉 [Clever girl](http://9gag.com/gag/aPA48jq)<!-- MEMES:END -->
 
 --- 
 
