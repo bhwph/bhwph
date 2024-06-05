@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All of the iPhone 16 Pro Max measurements have been leaked](https://appleinsider.com/articles/24/06/05/all-of-the-iphone-16-pro-max-measurements-have-been-leaked?utm_medium=rss)
- - [13 Best Office Chairs &lpar;2024&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)
- - [Google Maps is killing Timeline access on the web very soon](https://www.androidauthority.com/google-maps-killing-timeline-web-access-3449017/)<!-- TECH:END -->
+ - [There’s a secret smart home radio in your new Mac](https://www.theverge.com/2024/6/5/24170446/apple-macbook-ipad-imac-thread-radio)
+ - [Asana unveils &quot;AI teammates&quot;, a new feature in beta for select customers to help manage projects and tasks, ahead of general availability later in 2024 &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240605/p19#a240605p19)
+ - [Apple Watch &amp; AirPods still rule the wearables market, despite losing ground](https://appleinsider.com/articles/24/06/05/apple-watch-airpods-still-rule-the-wearables-market-despite-losing-ground?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
