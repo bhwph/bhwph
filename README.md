@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israel reportedly used fake social media accounts to influence US lawmakers](https://www.theverge.com/2024/6/5/24172002/israel-gaza-war-covert-influence-camapaign-meta-openai)
- - [Bartender app&#39;s new owner has burnt years of good-will with a lack of transparency](https://appleinsider.com/articles/24/06/05/bartender-apps-new-owner-has-burnt-years-of-good-will-with-a-lack-of-transparency?utm_medium=rss)
- - [Future-proof your wireless charging needs with ESR’s new MagSafe chargers](https://www.androidauthority.com/esr-new-magsafe-chargers-3448820/)<!-- TECH:END -->
+ - [Google’s latest acquisition will help bring legacy Windows apps to ChromeOS](https://www.androidauthority.com/google-cameyo-acquisition-3449138/)
+ - [Google Maps is making a big privacy change to protect your location history](https://www.theverge.com/2024/6/5/24172204/google-maps-delete-location-history-timeline)
+ - [Apple finally confirms how long it will support iPhones, and it’s less than Samsung and Google](https://www.androidauthority.com/iphone-software-support-commitment-3449135/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
