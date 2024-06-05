@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I had a dog once, who did the same thing. Miss you buddy...](http://9gag.com/gag/apR0P5B)
+ - 6️⃣ [The moment!](http://9gag.com/gag/aoy0R62)
  - 😝 [Clever girl](http://9gag.com/gag/aPA48jq)
- - 👉 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)<!-- MEMES:END -->
+ - 👉 [I had a dog once, who did the same thing. Miss you buddy...](http://9gag.com/gag/apR0P5B)<!-- MEMES:END -->
 
 --- 
 
