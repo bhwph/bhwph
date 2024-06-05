@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palit has created a part-air, part-liquid, all-monster RTX 4090 graphics card](https://www.pcgamer.com/hardware/graphics-cards/palit-has-created-a-part-air-part-liquid-all-monster-rtx-4090-graphics-card)
- - [From abandonware to zoning: 91 terms every PC gamer should know](https://www.pcgamer.com/games/from-abandonware-to-zoning-91-terms-every-pc-gamer-should-know)
- - [This Frostpunk 2 RX 7700 XT from Sapphire is a promotional card that actually captures the game&#39;s vibe](https://www.pcgamer.com/hardware/graphics-cards/this-frostpunk-2-radeon-7700-xt-from-sapphire-is-a-promotional-card-that-actually-captures-the-games-vibe)<!-- GAME:END -->
+ - [Beloved Square Enix RPG Series Could Finally Sort Out Its Messy Exclusivity](https://kotaku.com/octopath-traveler-xbox-game-pass-ps4-ps5-1851520559)
+ - [2024’s must-play PlayStation indie games so far](https://blog.playstation.com/2024/06/05/2024s-must-play-playstation-indie-games-so-far/)
+ - [It’s freaky anime gremlin girl summer](https://www.polygon.com/anime/24171470/dungeon-meshi-apothecary-diaries-gremlin-girls)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
