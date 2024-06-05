@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC Gaming Show turns 10: Looking back at the biggest moments from each show](https://www.pcgamer.com/gaming-industry/the-pc-gaming-show-turns-10-looking-back-at-the-biggest-moments-from-each-show)
- - [Star Wars: Hunters Is A Fun New Shooter Trapped On Switch And Phones](https://kotaku.com/star-wars-hunters-review-is-it-good-switch-ps5-xbox-pc-1851521852)
- - [Baldur&#39;s Gate 3 player gits gouda, beats game as wheel of cheese](https://www.pcgamer.com/games/rpg/baldurs-gate-3-player-gits-gouda-beats-game-as-wheel-of-cheese)<!-- GAME:END -->
+ - [MultiVersus went away for a year, came back different, and fans aren’t sure about it](https://www.polygon.com/24172083/multiversus-2024-changes-fan-feedback)
+ - [PlayStation Hero Shooter Concord Follows Helldivers 2 With $40 Price Tag](https://kotaku.com/concord-price-leak-astro-bot-60-40-hero-shooter-f2p-ps5-1851522161)
+ - [All new Exotics in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24167097/final-shape-exotic-weapon-armor-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
