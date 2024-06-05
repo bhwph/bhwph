@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An excerpt from the book Dark Wire, which details how the biggest FBI sting operation ran the An&amp;oslash;m encrypted phone network to catch criminals like &quot;Microsoft&quot; &lpar;Joseph Cox/Wired&rpar;](http://www.techmeme.com/240605/p5#a240605p5)
- - [China Miéville Writes a Secret Novel With the Internet’s Boyfriend &lpar;It&#39;s Keanu Reeves&rpar;](https://www.wired.com/story/china-mieville-writes-a-secret-novel-with-the-internets-boyfriend-keanu-reeves/)
- - [A profile of CoreWeave, as the cloud GPU provider reveals plans to build three European data centers for $2.2B and repurpose several Core Scientific facilities &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240605/p4#a240605p4)<!-- TECH:END -->
+ - [NXP partners with TSMC-backed Vanguard to build a $7.8B chip wafer plant in Singapore, aiming to begin construction in H2 2024 and production in 2027 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240605/p9#a240605p9)
+ - [Microsoft reopens Windows 10 beta testing for ‘new features’ and improvements](https://www.theverge.com/2024/6/5/24171895/microsoft-windows-10-beta-testing-new-features)
+ - [The Age of the Drone Police Is Here](https://www.wired.com/story/the-age-of-the-drone-police-is-here/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
