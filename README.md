@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
- - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 👉 [Difference between men and women](http://9gag.com/gag/aD23Z2G)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)
+ - 😝 [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
+ - 👉 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)<!-- MEMES:END -->
 
 --- 
 
