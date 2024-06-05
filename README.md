@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dave Bautista takes on the entire assassin underworld in The Killer’s Game trailer](https://www.polygon.com/24171995/killers-game-trailer-release-date-cast-dave-bautista-action-movie)
- - [Fortnite&#39;s Free Cars Will Get You Killed Faster Than Its Paid Ones, New Video Shows [Update]](https://kotaku.com/fortnite-free-cars-pay-to-win-season-3-premium-skins-1851516668)
- - [New Hades 2 patch decreases the likelihood of a ‘patently unfair’ Chronos](https://www.polygon.com/24172050/hades-2-patch-notes-chronos-weapon-upgrades)<!-- GAME:END -->
+ - [NZXT&#39;s doing something that makes so much damned sense I don&#39;t know why it&#39;s not been done before](https://www.pcgamer.com/hardware/nzxts-unibody-fans-make-so-much-damned-sense-i-dont-know-why-its-not-been-done-before)
+ - [Call Of Duty&#39;s &#39;Trans Bullets&#39; Are The Latest Right Wing Conspiracy Rage Bait](https://kotaku.com/call-duty-mw3-warzone-trans-bullets-pride-month-1851521459)
+ - [Mech tactics game Grit and Valor doesn&#39;t play much like Into the Breach, and that&#39;s a good thing](https://www.pcgamer.com/games/strategy/mech-tactics-game-grit-and-valor-doesnt-play-much-like-into-the-breach-and-thats-a-good-thing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
