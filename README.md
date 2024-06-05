@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [I said you have to deal with it!.](http://9gag.com/gag/aNDZVp3)
- - 😝 [Every year on the anniversary of D-Day, French citizens take sand from Omaha Beach and rub it onto the gravestones of fallen soldiers to create a golden shine. They do this for all 9,386 American soldiers buried there.](http://9gag.com/gag/axyZO4n)
- - 👉 [A bit cringe talk](http://9gag.com/gag/an7KxM0)<!-- MEMES:END -->
+ - 😝 [Remember your training](http://9gag.com/gag/aAyrMVL)
+ - 👉 [Every year on the anniversary of D-Day, French citizens take sand from Omaha Beach and rub it onto the gravestones of fallen soldiers to create a golden shine. They do this for all 9,386 American soldiers buried there.](http://9gag.com/gag/axyZO4n)<!-- MEMES:END -->
 
 --- 
 
