@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s latest acquisition will help bring legacy Windows apps to ChromeOS](https://www.androidauthority.com/google-cameyo-acquisition-3449138/)
- - [Google Maps is making a big privacy change to protect your location history](https://www.theverge.com/2024/6/5/24172204/google-maps-delete-location-history-timeline)
- - [Apple finally confirms how long it will support iPhones, and it’s less than Samsung and Google](https://www.androidauthority.com/iphone-software-support-commitment-3449135/)<!-- TECH:END -->
+ - [T-Mobile’s new 5G backup plan can save you from internet downtime](https://www.androidauthority.com/tmobile-home-internet-backup-3449169/)
+ - [Google Sheets’ new ‘conditional notifications’ easily keep track of small changes](https://www.theverge.com/2024/6/5/24172291/google-sheets-workspace-conditional-notifications-microsoft-excel-airtable)
+ - [The Greater Memphis Chamber says xAI plans to develop a new facility in Memphis to house a supercomputer and could receive tax breaks and other incentives &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240605/p24#a240605p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
