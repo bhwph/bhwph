@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s a secret smart home radio in your new Mac](https://www.theverge.com/2024/6/5/24170446/apple-macbook-ipad-imac-thread-radio)
- - [Asana unveils &quot;AI teammates&quot;, a new feature in beta for select customers to help manage projects and tasks, ahead of general availability later in 2024 &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240605/p19#a240605p19)
- - [Apple Watch &amp; AirPods still rule the wearables market, despite losing ground](https://appleinsider.com/articles/24/06/05/apple-watch-airpods-still-rule-the-wearables-market-despite-losing-ground?utm_medium=rss)<!-- TECH:END -->
+ - [Israel reportedly used fake social media accounts to influence US lawmakers](https://www.theverge.com/2024/6/5/24172002/israel-gaza-war-covert-influence-camapaign-meta-openai)
+ - [Bartender app&#39;s new owner has burnt years of good-will with a lack of transparency](https://appleinsider.com/articles/24/06/05/bartender-apps-new-owner-has-burnt-years-of-good-will-with-a-lack-of-transparency?utm_medium=rss)
+ - [Future-proof your wireless charging needs with ESR’s new MagSafe chargers](https://www.androidauthority.com/esr-new-magsafe-chargers-3448820/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
