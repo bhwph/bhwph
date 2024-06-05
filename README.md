@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switzerland-based Neural Concept, whose 3D product design software uses deep learning to help cut development times, raised a $27M Series B led by Forestay &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240604/p49#a240604p49)
- - [How to extract audio from video on Mac with built-in tools](https://appleinsider.com/inside/mac/tips/how-to-extract-audio-from-video-on-mac-with-built-in-tools?utm_medium=rss)
- - [Best Travel Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-travel-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube, the only major US platform available in Russia, has become a primary source of entertainment for many Russians, making a ban tricky for the Kremlin &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/240605/p3#a240605p3)
+ - [Australia&#39;s eSafety commissioner ends the legal action asking X to remove a video of a clergyman&#39;s stabbing; Musk labelled the action an assault on free speech &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240605/p2#a240605p2)
+ - [Singapore-based Nium, a B2B cross-border payments infrastructure provider, raised $50M at a $1.4B valuation, down from $2B in 2022, as the firm eyes a 2025 IPO &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240605/p1#a240605p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
