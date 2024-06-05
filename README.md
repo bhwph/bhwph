@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: some Chinese AI chip companies, including MetaX and Enflame, are submitting less powerful GPU designs to TSMC to comply with US sanctions &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240604/p46#a240604p46)
- - [Best Extra-Firm Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-extra-firm-mattress/#ftag=CAD590a51e)
- - [Best Twin Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-twin-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Switzerland-based Neural Concept, whose 3D product design software uses deep learning to help cut development times, raised a $27M Series B led by Forestay &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240604/p49#a240604p49)
+ - [How to extract audio from video on Mac with built-in tools](https://appleinsider.com/inside/mac/tips/how-to-extract-audio-from-video-on-mac-with-built-in-tools?utm_medium=rss)
+ - [Best Travel Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-travel-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
