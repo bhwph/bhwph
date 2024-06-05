@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Beloved Square Enix RPG Series Could Finally Sort Out Its Messy Exclusivity](https://kotaku.com/octopath-traveler-xbox-game-pass-ps4-ps5-1851520559)
- - [2024’s must-play PlayStation indie games so far](https://blog.playstation.com/2024/06/05/2024s-must-play-playstation-indie-games-so-far/)
- - [It’s freaky anime gremlin girl summer](https://www.polygon.com/anime/24171470/dungeon-meshi-apothecary-diaries-gremlin-girls)<!-- GAME:END -->
+ - [Dave Bautista takes on the entire assassin underworld in The Killer’s Game trailer](https://www.polygon.com/24171995/killers-game-trailer-release-date-cast-dave-bautista-action-movie)
+ - [Fortnite&#39;s Free Cars Will Get You Killed Faster Than Its Paid Ones, New Video Shows [Update]](https://kotaku.com/fortnite-free-cars-pay-to-win-season-3-premium-skins-1851516668)
+ - [New Hades 2 patch decreases the likelihood of a ‘patently unfair’ Chronos](https://www.polygon.com/24172050/hades-2-patch-notes-chronos-weapon-upgrades)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
