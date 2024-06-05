@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash sale: learn a new language on your iPhone or Mac with a lifetime of Babbel for $149.97](https://appleinsider.com/articles/24/06/04/flash-sale-learn-a-new-language-on-your-iphone-or-mac-with-a-lifetime-of-babbel-for-14997?utm_medium=rss)
- - [An AT&amp;T and Verizon outage is cutting off phone calls](https://www.theverge.com/2024/6/4/24171656/att-verizon-outage-dropped-calls)
- - [OPPO’s next flagship could feature an even more powerful zoom lens](https://www.androidauthority.com/oppo-find-x8-ultra-camera-leak-3448856/)<!-- TECH:END -->
+ - [Australia&#39;s privacy regulator sues Medibank over an October 2022 data breach, accusing the health insurer of failing to protect the data of 9.7M customers &lpar;Emilia Terzon/ABC&rpar;](http://www.techmeme.com/240604/p44#a240604p44)
+ - [Compare Electricity Rates in Massachusetts     - CNET](https://www.cnet.com/how-to/electricity-rates-massachusetts/#ftag=CAD590a51e)
+ - [Sources: Joe Benarroch, X&#39;s head of business operations and one of Linda Yaccarino&#39;s most trusted advisers, is leaving the company &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240604/p43#a240604p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
