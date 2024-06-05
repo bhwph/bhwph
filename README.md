@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NXP partners with TSMC-backed Vanguard to build a $7.8B chip wafer plant in Singapore, aiming to begin construction in H2 2024 and production in 2027 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240605/p9#a240605p9)
- - [Microsoft reopens Windows 10 beta testing for ‘new features’ and improvements](https://www.theverge.com/2024/6/5/24171895/microsoft-windows-10-beta-testing-new-features)
- - [The Age of the Drone Police Is Here](https://www.wired.com/story/the-age-of-the-drone-police-is-here/)<!-- TECH:END -->
+ - [All of the iPhone 16 Pro Max measurements have been leaked](https://appleinsider.com/articles/24/06/05/all-of-the-iphone-16-pro-max-measurements-have-been-leaked?utm_medium=rss)
+ - [13 Best Office Chairs &lpar;2024&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)
+ - [Google Maps is killing Timeline access on the web very soon](https://www.androidauthority.com/google-maps-killing-timeline-web-access-3449017/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
