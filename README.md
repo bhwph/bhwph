@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)
+ - 6️⃣ [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
  - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 👉 [I am starting a new religion](http://9gag.com/gag/ae90Omq)<!-- MEMES:END -->
+ - 👉 [Difference between men and women](http://9gag.com/gag/aD23Z2G)<!-- MEMES:END -->
 
 --- 
 
