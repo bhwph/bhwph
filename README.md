@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stormy servers -- Apple Weather suffered an intermittent outage](https://appleinsider.com/articles/24/06/05/stormy-servers----apple-weather-suffers-an-intermittent-outage?utm_medium=rss)
- - [Corning’s Gorilla Glass 7i promises tougher screens for mid-range phones](https://www.androidauthority.com/gorilla-glass-7i-launched-3449196/)
- - [Home Cooling Costs Expected to Hit 10-Year High This Summer     - CNET](https://www.cnet.com/news/home-cooling-costs-expected-to-hit-10-year-high-this-summer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Carl Pei says smartphones will be the main AI form factor of the future, but the UX needs to be redefined, and Phone &lpar;3&rpar; will be Nothing&#39;s first true AI phone &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240605/p33#a240605p33)
+ - [Best Continuous Glucose Monitors of 2024     - CNET](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/#ftag=CAD590a51e)
+ - [Samsung Galaxy Watch 7 rumors: Everything we know and want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
