@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google partners with RapidSOS, a platform for emergency first responders, to let users contact 911 via RCS, starting in winter 2024 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240606/p29#a240606p29)
- - [Hairline cracks on iPhone and Apple Watch no longer covered under warranty](https://www.theverge.com/2024/6/6/24172866/iphone-apple-watch-hairline-crack-warranty)
- - [After Microsoft eroded Windows users&#39; trust with bad practices for years, Recall is a PR disaster, as users remain skeptical despite the company&#39;s assurances &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240606/p28#a240606p28)<!-- TECH:END -->
+ - [Your Galaxy Phone will soon let you peek the time with a back tap](https://www.androidauthority.com/galaxy-double-tap-time-feature-3449500/)
+ - [Cara, an artist-run, anti-AI social platform, grew from 40K to 650K users in the past week, as some Instagram artists leave over plans to train AI on user data &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240606/p31#a240606p31)
+ - [OpenAI Offers a Peek Inside the Guts of ChatGPT](https://www.wired.com/story/openai-offers-a-peek-inside-the-guts-of-chatgpt/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
