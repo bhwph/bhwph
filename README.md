@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
- - 😝 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
- - 👉 [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)<!-- MEMES:END -->
+ - 6️⃣ [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
+ - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
+ - 👉 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)<!-- MEMES:END -->
 
 --- 
 
