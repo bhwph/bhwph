@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Haymitch’s story will finally be told in new Hunger Games book and movie](https://www.polygon.com/24172776/hunger-games-new-book-movie-haymitch-prequel)
- - [A 1-Minute Trailer At Summer Game Fest Costs $250K](https://kotaku.com/summer-game-fest-sgf-prices-trailer-cost-e3-keighley-1851523472)
- - [Hogwarts Legacy free update brings Photo Mode, available today](https://blog.playstation.com/2024/06/06/hogwarts-legacy-free-update-brings-photo-mode-available-today/)<!-- GAME:END -->
+ - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
+ - [A 1-Minute Trailer At Summer Game Fest Costs $250K [Update]](https://kotaku.com/summer-game-fest-sgf-prices-trailer-cost-e3-keighley-1851523472)
+ - [Octopath Traveler 2, Callisto Protocol lead a June 2024 Game Pass update](https://www.polygon.com/xbox/24172968/game-pass-june-2024-free-xbox-games-octopath-traveler-2-callisto-protocol)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
