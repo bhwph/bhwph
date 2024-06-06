@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the now-shuttered news site BNN Breaking, which former staff say mostly published AI-generated content; Microsoft had licensed BNN content for MSN.com &lpar;New York Times&rpar;](http://www.techmeme.com/240606/p7#a240606p7)
- - [Ikea Will Pay You Real Money to Work in Its Virtual Roblox Store](https://www.wired.com/story/ikea-is-hiring-its-next-generation-of-workers-on-roblox/)
- - [Buying a Pixel 8? Get four months of Google One AI Premium on the house](https://www.androidauthority.com/google-pixel-8-one-ai-premium-offer-3449256/)<!-- TECH:END -->
+ - [Craig Federighi ignited Apple&#39;s AI efforts after using Microsoft&#39;s Copilot](https://appleinsider.com/articles/24/06/06/craig-federighi-ignited-apples-ai-efforts-after-using-microsofts-copilot?utm_medium=rss)
+ - [Google’s Business Messaging might be replaced by surprise alternatives](https://www.androidauthority.com/google-business-messaging-replacement-3449286/)
+ - [Coinbase-backed advocacy group Stand with Crypto passes 1M members after targeting voters in swing states, including ~24K members in Georgia and 16K+ in Arizona &lpar;Andrea Shalal/Reuters&rpar;](http://www.techmeme.com/240606/p13#a240606p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
