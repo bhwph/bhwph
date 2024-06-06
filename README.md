@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ThunderX3 shows off two new gaming chairs, an update to one of the best gaming chairs you can buy and a funky-looking mesh model](https://www.pcgamer.com/hardware/gaming-chairs/thunderx3-shows-off-two-new-gaming-chairs-an-update-to-one-of-the-best-gaming-chairs-you-can-buy-and-a-funky-looking-mesh-model)
- - [Helldivers II enlists The Viper Commandos Warbond on June 13](https://blog.playstation.com/2024/06/06/helldivers-ii-enlists-the-viper-commandos-warbond-on-june-13/)
- - [Helldivers II enlists The Viper Commandos Warbond on June 13](https://blog.playstation.com/2024/06/06/helldivers-ii-enlists-the-viper-commandos-warbond-on-june-13/)<!-- GAME:END -->
+ - [Not sure what movie to watch? Leave a comment, we’ll help](https://www.polygon.com/entertainment/2024/6/6/24172064/best-movies-watch-tonight-best-recommendations-streaming)
+ - [Destiny 2: How to unlock the Prismatic subclass plus aspects, fragments, and abilities](https://www.pcgamer.com/games/fps/destiny-2-prismatic-subclass-fragments-unlocks)
+ - [Report: Warner Bros. Execs Thought Suicide Squad Would Make A Ton Of Money Despite Development Woes](https://kotaku.com/suicide-squad-hogwarts-legacy-rocksteady-arkham-1851522893)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
