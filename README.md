@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Glass rumors resurrected thanks to eyeglass hinge patent application](https://appleinsider.com/articles/24/06/06/apple-glass-rumors-resurrected-thanks-to-eyeglass-hinge-patent-application?utm_medium=rss)
- - [The best Sony Xperia 1 VI cases you can buy](https://www.androidauthority.com/best-sony-xperia-1-vi-cases-3443963/)
- - [Amazon acquires key assets of Indian video streaming service MX Player; a source says the deal values the streamer at $100M, below its $500M valuation in 2019 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240606/p20#a240606p20)<!-- TECH:END -->
+ - [Here’s our in-depth Sonos Ace video review](https://www.theverge.com/24172762/sonos-ace-headphones-video-review)
+ - [Why the video game industry is such a mess](https://www.theverge.com/24172733/summer-game-fest-video-game-announcements-layoffs-labor-live-service-fortnite)
+ - [The Rogue Prince of Persia artfully changes up the roguelike format](https://www.theverge.com/2024/6/6/24172102/the-rogue-prince-of-persia-steam-early-access-impression)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
