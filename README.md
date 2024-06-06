@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazil-based Kanastra, which supplies back-office technology for asset-backed securities funds, raised a $21M Series A led by Kaszek, following a $13M seed &lpar;Daniel Cancel/Bloomberg&rpar;](http://www.techmeme.com/240605/p35#a240605p35)
- - [Download these sci-fi wallpapers for your phone](https://www.androidauthority.com/sci-fi-wallpapers-3448945/)
- - [Heybike Hero review: sparing almost no expense in a carbon fiber e-bike](https://appleinsider.com/articles/24/06/06/heybike-hero-review-sparing-almost-no-expense-in-a-carbon-fiber-e-bike?utm_medium=rss)<!-- TECH:END -->
+ - [Which States Have Community Solar? Find Out Here     - CNET](https://www.cnet.com/home/energy-and-utilities/which-states-have-community-solar-find-out-here/#ftag=CAD590a51e)
+ - [Mistral introduces AI model customization options, including an SDK for fine-tuning its models on workstations, servers, and small data center nodes &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240605/p38#a240605p38)
+ - [What Is a Heat Pump Water Heater?     - CNET](https://www.cnet.com/how-to/what-is-a-heat-pump-water-heater/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
