@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Carl Pei says smartphones will be the main AI form factor of the future, but the UX needs to be redefined, and Phone &lpar;3&rpar; will be Nothing&#39;s first true AI phone &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240605/p33#a240605p33)
- - [Best Continuous Glucose Monitors of 2024     - CNET](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/#ftag=CAD590a51e)
- - [Samsung Galaxy Watch 7 rumors: Everything we know and want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)<!-- TECH:END -->
+ - [Brazil-based Kanastra, which supplies back-office technology for asset-backed securities funds, raised a $21M Series A led by Kaszek, following a $13M seed &lpar;Daniel Cancel/Bloomberg&rpar;](http://www.techmeme.com/240605/p35#a240605p35)
+ - [Download these sci-fi wallpapers for your phone](https://www.androidauthority.com/sci-fi-wallpapers-3448945/)
+ - [Heybike Hero review: sparing almost no expense in a carbon fiber e-bike](https://appleinsider.com/articles/24/06/06/heybike-hero-review-sparing-almost-no-expense-in-a-carbon-fiber-e-bike?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
