@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This anti-meat industry horror game was inspired by the death of the dev&#39;s pet chicken, and it&#39;s basically Abe&#39;s Oddysee plus Resident Evil but you&#39;re poultry](https://www.pcgamer.com/games/horror/this-anti-meat-industry-horror-game-was-inspired-by-the-death-of-the-devs-pet-chicken-and-its-basically-abes-oddysee-plus-resident-evil-but-youre-poultry)
- - [The next season of actual play TTRPG series Dimension 20 is based on action movies, and looks like it&#39;s about ordinary people who get Jumanjied into Die Hard](https://www.pcgamer.com/games/board-games/the-next-season-of-actual-play-ttrpg-series-dimension-20-is-based-on-action-movies-and-looks-like-its-about-ordinary-people-who-get-jumanjied-into-die-hard)
- - [Netflix’s killer-shark movie Under Paris is the missing link between Jaws and Sharktopus](https://www.polygon.com/reviews/24172358/under-paris-review-netflix-shark-attack-thriller)<!-- GAME:END -->
+ - [Qualcomm&#39;s new Windows PC chip supports AMD&#39;s FSR… and I&#39;m not sure AMD had any idea about it](https://www.pcgamer.com/hardware/gaming-laptops/qualcomms-new-windows-pc-chip-supports-amds-fsr-and-im-not-sure-amd-had-any-idea-about-it)
+ - [Today&#39;s Wordle answer for Thursday, June 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-6-2024)
+ - [This anti-meat industry horror game was inspired by the death of the dev&#39;s pet chicken, and it&#39;s basically Abe&#39;s Oddysee plus Resident Evil but you&#39;re poultry](https://www.pcgamer.com/games/horror/this-anti-meat-industry-horror-game-was-inspired-by-the-death-of-the-devs-pet-chicken-and-its-basically-abes-oddysee-plus-resident-evil-but-youre-poultry)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
