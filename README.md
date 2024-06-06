@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Craig Federighi ignited Apple&#39;s AI efforts after using Microsoft&#39;s Copilot](https://appleinsider.com/articles/24/06/06/craig-federighi-ignited-apples-ai-efforts-after-using-microsofts-copilot?utm_medium=rss)
- - [Google’s Business Messaging might be replaced by surprise alternatives](https://www.androidauthority.com/google-business-messaging-replacement-3449286/)
- - [Coinbase-backed advocacy group Stand with Crypto passes 1M members after targeting voters in swing states, including ~24K members in Georgia and 16K+ in Arizona &lpar;Andrea Shalal/Reuters&rpar;](http://www.techmeme.com/240606/p13#a240606p13)<!-- TECH:END -->
+ - [Apple Glass rumors resurrected thanks to eyeglass hinge patent application](https://appleinsider.com/articles/24/06/06/apple-glass-rumors-resurrected-thanks-to-eyeglass-hinge-patent-application?utm_medium=rss)
+ - [The best Sony Xperia 1 VI cases you can buy](https://www.androidauthority.com/best-sony-xperia-1-vi-cases-3443963/)
+ - [Amazon acquires key assets of Indian video streaming service MX Player; a source says the deal values the streamer at $100M, below its $500M valuation in 2019 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240606/p20#a240606p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
