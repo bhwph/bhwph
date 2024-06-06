@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Galaxy Phone will soon let you peek the time with a back tap](https://www.androidauthority.com/galaxy-double-tap-time-feature-3449500/)
- - [Cara, an artist-run, anti-AI social platform, grew from 40K to 650K users in the past week, as some Instagram artists leave over plans to train AI on user data &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240606/p31#a240606p31)
- - [OpenAI Offers a Peek Inside the Guts of ChatGPT](https://www.wired.com/story/openai-offers-a-peek-inside-the-guts-of-chatgpt/)<!-- TECH:END -->
+ - [eBay will no longer accept American Express cards over ‘unacceptably high’ fees](https://www.theverge.com/2024/6/6/24173108/ebay-american-express-payment-fees)
+ - [Sources: Kraken seeks to raise $100M+ in a pre-IPO round; the crypto exchange&#39;s previous attempts to go public were thwarted in part by a dispute with the SEC &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240606/p37#a240606p37)
+ - [The Case for MDMA&#39;s Approval Is Riddled With Problems](https://www.wired.com/story/mdma-approval-problems-fda-lykos-psychedelic-therapy-mental-health-ptsd/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
