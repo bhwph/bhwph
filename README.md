@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
- - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
+ - 6️⃣ [Bad Boys of Bahia, Brazil. They look like....](http://9gag.com/gag/awyKYNr)
+ - 😝 [Name the product](http://9gag.com/gag/a2vYb3D)
  - 👉 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)<!-- MEMES:END -->
 
 --- 
