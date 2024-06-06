@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bad Boys of Bahia, Brazil. They look like....](http://9gag.com/gag/awyKYNr)
- - 😝 [Name the product](http://9gag.com/gag/a2vYb3D)
- - 👉 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)<!-- MEMES:END -->
+ - 6️⃣ [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
+ - 😝 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
+ - 👉 [Whoever posted this in first place; I want to thank you. Everybody needs to know.](http://9gag.com/gag/a0eLEeB)<!-- MEMES:END -->
 
 --- 
 
