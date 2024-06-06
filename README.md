@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Try to act surprised and don&#39;t laugh &lpar;too much&rpar;](http://9gag.com/gag/aPA41XV)
- - 😝 [Is that a frostmourne](http://9gag.com/gag/axyZR8W)
- - 👉 [F*cking legend](http://9gag.com/gag/a9yL2Vm)<!-- MEMES:END -->
+ - 6️⃣ [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)
+ - 😝 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
+ - 👉 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)<!-- MEMES:END -->
 
 --- 
 
