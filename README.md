@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s our in-depth Sonos Ace video review](https://www.theverge.com/24172762/sonos-ace-headphones-video-review)
- - [Why the video game industry is such a mess](https://www.theverge.com/24172733/summer-game-fest-video-game-announcements-layoffs-labor-live-service-fortnite)
- - [The Rogue Prince of Persia artfully changes up the roguelike format](https://www.theverge.com/2024/6/6/24172102/the-rogue-prince-of-persia-steam-early-access-impression)<!-- TECH:END -->
+ - [Google partners with RapidSOS, a platform for emergency first responders, to let users contact 911 via RCS, starting in winter 2024 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240606/p29#a240606p29)
+ - [Hairline cracks on iPhone and Apple Watch no longer covered under warranty](https://www.theverge.com/2024/6/6/24172866/iphone-apple-watch-hairline-crack-warranty)
+ - [After Microsoft eroded Windows users&#39; trust with bad practices for years, Recall is a PR disaster, as users remain skeptical despite the company&#39;s assurances &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240606/p28#a240606p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
