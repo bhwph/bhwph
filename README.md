@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
- - [A 1-Minute Trailer At Summer Game Fest Costs $250K [Update]](https://kotaku.com/summer-game-fest-sgf-prices-trailer-cost-e3-keighley-1851523472)
- - [Octopath Traveler 2, Callisto Protocol lead a June 2024 Game Pass update](https://www.polygon.com/xbox/24172968/game-pass-june-2024-free-xbox-games-octopath-traveler-2-callisto-protocol)<!-- GAME:END -->
+ - [One Of The Best Superhero Games Ever Is Free Right Now](https://kotaku.com/marvel-midnight-suns-cards-free-egs-epic-games-pc-xcom-1851524525)
+ - [The PlayStation 5 Slim just got its first discount](https://www.polygon.com/deals/24173090/playstation-5-ps5-best-buy-amazon-gaming-deal-sale)
+ - [The Danganronpa Devs Are Making An ‘Extreme Baseball RPG’](https://kotaku.com/tribe-nine-game-beta-anime-danganronpa-steam-mobile-1851524475)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
