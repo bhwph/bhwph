@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MultiVersus went away for a year, came back different, and fans aren’t sure about it](https://www.polygon.com/24172083/multiversus-2024-changes-fan-feedback)
- - [PlayStation Hero Shooter Concord Follows Helldivers 2 With $40 Price Tag](https://kotaku.com/concord-price-leak-astro-bot-60-40-hero-shooter-f2p-ps5-1851522161)
- - [All new Exotics in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24167097/final-shape-exotic-weapon-armor-list)<!-- GAME:END -->
+ - [This anti-meat industry horror game was inspired by the death of the dev&#39;s pet chicken, and it&#39;s basically Abe&#39;s Oddysee plus Resident Evil but you&#39;re poultry](https://www.pcgamer.com/games/horror/this-anti-meat-industry-horror-game-was-inspired-by-the-death-of-the-devs-pet-chicken-and-its-basically-abes-oddysee-plus-resident-evil-but-youre-poultry)
+ - [The next season of actual play TTRPG series Dimension 20 is based on action movies, and looks like it&#39;s about ordinary people who get Jumanjied into Die Hard](https://www.pcgamer.com/games/board-games/the-next-season-of-actual-play-ttrpg-series-dimension-20-is-based-on-action-movies-and-looks-like-its-about-ordinary-people-who-get-jumanjied-into-die-hard)
+ - [Netflix’s killer-shark movie Under Paris is the missing link between Jaws and Sharktopus](https://www.polygon.com/reviews/24172358/under-paris-review-netflix-shark-attack-thriller)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
