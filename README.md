@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Not sure what movie to watch? Leave a comment, we’ll help](https://www.polygon.com/entertainment/2024/6/6/24172064/best-movies-watch-tonight-best-recommendations-streaming)
- - [Destiny 2: How to unlock the Prismatic subclass plus aspects, fragments, and abilities](https://www.pcgamer.com/games/fps/destiny-2-prismatic-subclass-fragments-unlocks)
- - [Report: Warner Bros. Execs Thought Suicide Squad Would Make A Ton Of Money Despite Development Woes](https://kotaku.com/suicide-squad-hogwarts-legacy-rocksteady-arkham-1851522893)<!-- GAME:END -->
+ - [Haymitch’s story will finally be told in new Hunger Games book and movie](https://www.polygon.com/24172776/hunger-games-new-book-movie-haymitch-prequel)
+ - [A 1-Minute Trailer At Summer Game Fest Costs $250K](https://kotaku.com/summer-game-fest-sgf-prices-trailer-cost-e3-keighley-1851523472)
+ - [Hogwarts Legacy free update brings Photo Mode, available today](https://blog.playstation.com/2024/06/06/hogwarts-legacy-free-update-brings-photo-mode-available-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
