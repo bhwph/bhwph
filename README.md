@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC&#39;s Taiwan-listed shares hit a new record high after its US-listed stock jumped 6.85% overnight, following a rally by shares of Nvidia, a major TSMC customer &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/240606/p5#a240606p5)
- - [Jonathan Kanter, the US DOJ&#39;s assistant AG for antitrust, says he is examining &quot;monopoly choke points and the competitive landscape&quot; in AI and microchips &lpar;Financial Times&rpar;](http://www.techmeme.com/240606/p4#a240606p4)
- - [Apple needs an AI iPhone fold to stem its increasing decline in China](https://appleinsider.com/articles/24/06/06/apple-needs-an-ai-iphone-fold-to-stem-its-increasing-decline-in-china?utm_medium=rss)<!-- TECH:END -->
+ - [A look at the now-shuttered news site BNN Breaking, which former staff say mostly published AI-generated content; Microsoft had licensed BNN content for MSN.com &lpar;New York Times&rpar;](http://www.techmeme.com/240606/p7#a240606p7)
+ - [Ikea Will Pay You Real Money to Work in Its Virtual Roblox Store](https://www.wired.com/story/ikea-is-hiring-its-next-generation-of-workers-on-roblox/)
+ - [Buying a Pixel 8? Get four months of Google One AI Premium on the house](https://www.androidauthority.com/google-pixel-8-one-ai-premium-offer-3449256/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
