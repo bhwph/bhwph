@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [eBay will no longer accept American Express cards over ‘unacceptably high’ fees](https://www.theverge.com/2024/6/6/24173108/ebay-american-express-payment-fees)
- - [Sources: Kraken seeks to raise $100M+ in a pre-IPO round; the crypto exchange&#39;s previous attempts to go public were thwarted in part by a dispute with the SEC &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240606/p37#a240606p37)
- - [The Case for MDMA&#39;s Approval Is Riddled With Problems](https://www.wired.com/story/mdma-approval-problems-fda-lykos-psychedelic-therapy-mental-health-ptsd/)<!-- TECH:END -->
+ - [Sony ditches 8K branding from PlayStation 5 boxes amidst PS5 Pro rumors](https://www.androidauthority.com/sony-ps5-8k-branding-3449583/)
+ - [NY AG sues crypto companies AWS Mining and NovaTechFX for allegedly operating pyramid schemes that targeted Haitian immigrants and bilked investors out of $1B+ &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240606/p39#a240606p39)
+ - [Apple takes aim at third-party password managers with Passwords app](https://www.androidauthority.com/apple-passwords-app-3449573/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
