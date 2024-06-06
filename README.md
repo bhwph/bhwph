@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which States Have Community Solar? Find Out Here     - CNET](https://www.cnet.com/home/energy-and-utilities/which-states-have-community-solar-find-out-here/#ftag=CAD590a51e)
- - [Mistral introduces AI model customization options, including an SDK for fine-tuning its models on workstations, servers, and small data center nodes &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240605/p38#a240605p38)
- - [What Is a Heat Pump Water Heater?     - CNET](https://www.cnet.com/how-to/what-is-a-heat-pump-water-heater/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TSMC&#39;s Taiwan-listed shares hit a new record high after its US-listed stock jumped 6.85% overnight, following a rally by shares of Nvidia, a major TSMC customer &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/240606/p5#a240606p5)
+ - [Jonathan Kanter, the US DOJ&#39;s assistant AG for antitrust, says he is examining &quot;monopoly choke points and the competitive landscape&quot; in AI and microchips &lpar;Financial Times&rpar;](http://www.techmeme.com/240606/p4#a240606p4)
+ - [Apple needs an AI iPhone fold to stem its increasing decline in China](https://appleinsider.com/articles/24/06/06/apple-needs-an-ai-iphone-fold-to-stem-its-increasing-decline-in-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
