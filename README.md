@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why I&#39;m worried about Dragon Age Dreadwolf—and the Tiamat-sized RPG Baldur&#39;s Gate 3 looming over it is just the start](https://www.pcgamer.com/games/rpg/why-im-worried-about-dragon-age-dreadwolfand-the-tiamat-sized-fantasy-rpg-dragon-of-baldurs-gate-3-looming-over-proceedings-is-just-the-start)
- - [Thanks to billionaires and businesses going mad for AI, Nvidia&#39;s market cap rockets past $3 trillion, pushing Apple into third place](https://www.pcgamer.com/software/ai/thanks-to-billionaires-and-businesses-going-mad-for-ai-nvidias-market-cap-rockets-past-dollar3-trillion-pushing-apple-into-third-place)
- - [FF14 director Yoshi-P says &#39;possibly 98%&#39; of the team are inspired by Elden Ring, but assures players Dawntrail won&#39;t be as brutally hard](https://www.pcgamer.com/games/mmo/ff14-director-yoshi-p-says-possibly-98-of-the-team-are-inspired-by-elden-ring-but-assures-players-dawntrail-wont-be-as-brutally-hard)<!-- GAME:END -->
+ - [ThunderX3 shows off two new gaming chairs, an update to one of the best gaming chairs you can buy and a funky-looking mesh model](https://www.pcgamer.com/hardware/gaming-chairs/thunderx3-shows-off-two-new-gaming-chairs-an-update-to-one-of-the-best-gaming-chairs-you-can-buy-and-a-funky-looking-mesh-model)
+ - [Helldivers II enlists The Viper Commandos Warbond on June 13](https://blog.playstation.com/2024/06/06/helldivers-ii-enlists-the-viper-commandos-warbond-on-june-13/)
+ - [Helldivers II enlists The Viper Commandos Warbond on June 13](https://blog.playstation.com/2024/06/06/helldivers-ii-enlists-the-viper-commandos-warbond-on-june-13/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
