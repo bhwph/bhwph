@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How ex-FTC commissioner Joshua Wright became the tech industry&#39;s fixer, while allegedly juggling inappropriate relationships and skirting conflicts of interests &lpar;Brody Mullins/Wall Street Journal&rpar;](http://www.techmeme.com/240607/p18#a240607p18)
- - [Summer Game Fest 2024: all the news, trailers, and announcements](https://www.theverge.com/24170561/summer-game-fest-2024-trailers-news-geoff-keighley)
- - [The Biden administration relaxes another vehicle emission rule](https://www.theverge.com/2024/6/7/24173862/us-fuel-economy-nhtsa-cafe-emissions-biden-epa)<!-- TECH:END -->
+ - [Google’s $2.3 million check helped the company get a trial by judge instead of jury](https://www.theverge.com/2024/6/7/24173981/google-ad-monopoly-antitrust-lawsuit-damages)
+ - [Killer deal: 16-inch MacBook Pro with M2 Max chip, 32GB RAM drops to $2,599](https://appleinsider.com/articles/24/06/07/killer-deal-16-inch-macbook-pro-with-m2-max-chip-32gb-ram-drops-to-2599?utm_medium=rss)
+ - [Civilization 7 Confirmed at Summer Game Fest. Watch the Trailer Here     - CNET](https://www.cnet.com/tech/gaming/civilization-7-confirmed-at-summer-game-fest-watch-the-trailer-here/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
