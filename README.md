@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Local dog name Gray saves an unexpected friend. That big smile at the end says it all](http://9gag.com/gag/abAy2bX)
- - 😝 [Make sure to save it and never watch it again.](http://9gag.com/gag/ayN0PEq)
- - 👉 [Quack](http://9gag.com/gag/aKGPKzO)<!-- MEMES:END -->
+ - 6️⃣ [Very ouch.](http://9gag.com/gag/aLnPWMx)
+ - 😝 [A man rescues a bird and later gets an amazing surprise](http://9gag.com/gag/axyZPGM)
+ - 👉 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)<!-- MEMES:END -->
 
 --- 
 
