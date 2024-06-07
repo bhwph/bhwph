@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix faces $170 million lawsuit over Baby Reindeer stalker depiction](https://www.theverge.com/2024/6/7/24173540/baby-reindeer-lawsuit-netflix-stalker)
- - [Meta is rolling out a new Communities feature on Messenger to all users globally, allowing up to 5,000 people to join a Community through shareable invites &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240607/p11#a240607p11)
- - [Anker’s 3-in-1 Qi2 charger is $30 off in its first sale](https://www.theverge.com/2024/6/7/24173276/anker-qi2-maggo-charging-station-deal-sale)<!-- TECH:END -->
+ - [How hard is it to break into the Apple coding world?](https://appleinsider.com/articles/24/06/07/how-hard-is-it-to-break-into-the-apple-coding-world?utm_medium=rss)
+ - [Microsoft Will Switch Off Recall by Default After Researchers Expose Security Flaws](https://www.wired.com/story/microsoft-recall-off-default-security-concerns/)
+ - [Windows won’t take screenshots of everything you do after all — unless you opt in](https://www.theverge.com/2024/6/7/24173499/microsoft-windows-recall-response-security-concerns)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
