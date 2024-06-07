@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 AI boost could be called &#39;Apple Intelligence&#39;](https://appleinsider.com/articles/24/06/07/ios-18-ai-boost-could-be-called-apple-intelligence?utm_medium=rss)
- - [Adobe&#39;s new terms of service unacceptably gives them access to all of your projects, for free](https://appleinsider.com/articles/24/06/06/adobes-new-terms-of-service-unacceptably-gives-them-access-to-all-of-your-projects-for-free?utm_medium=rss)
- - [Adobe has clarified controversial shrinkwrap license terms, but the damage may have already been done](https://appleinsider.com/articles/24/06/07/adobe-has-clarified-controversial-shrinkwrap-license-terms-but-the-damage-may-have-already-been-done?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix faces $170 million lawsuit over Baby Reindeer stalker depiction](https://www.theverge.com/2024/6/7/24173540/baby-reindeer-lawsuit-netflix-stalker)
+ - [Meta is rolling out a new Communities feature on Messenger to all users globally, allowing up to 5,000 people to join a Community through shareable invites &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240607/p11#a240607p11)
+ - [Anker’s 3-in-1 Qi2 charger is $30 off in its first sale](https://www.theverge.com/2024/6/7/24173276/anker-qi2-maggo-charging-station-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
