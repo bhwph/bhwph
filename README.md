@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Antstream Comes to Xbox in Brazil](https://news.xbox.com/en-us/2024/06/07/antstream-comes-to-xbox-in-brazil/)
- - [Dectus Medallion left and right locations in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24173497/dectus-medallion-left-right-locations-how-to-use-join)
- - [Kotaku’s Weekend Guide: 6 Great Games To Play In Between Summer Game Fest News](https://kotaku.com/kotaku-games-to-play-destiny-2-ff14-star-wars-halo-1851526466)<!-- GAME:END -->
+ - [Why clicker game Banana — the ‘legal infinite money glitch’ — is going viral on Steam](https://www.polygon.com/gaming/24173617/banana-clicker-game-steam-egg)
+ - [Where to watch Ubisoft Forward 2024 — and what you can expect to see](https://www.polygon.com/gaming/24173861/ubisoft-forward-2024-time-where-to-watch-stream)
+ - [Microsoft changes course on the controversial Windows 11 feature that constantly takes screenshots of your PC&#39;s screen: Now you&#39;ll have to opt in if you want to use it](https://www.pcgamer.com/software/windows/microsoft-changes-course-on-the-controversial-windows-11-feature-that-constantly-takes-screenshots-of-your-pcs-screen-now-youll-have-to-opt-in-if-you-want-to-use-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
