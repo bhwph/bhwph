@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title](http://9gag.com/gag/aqyNDAR)
- - 😝 [Very ouch.](http://9gag.com/gag/aLnPWMx)
- - 👉 [Tatoo removal](http://9gag.com/gag/aD23X2x)<!-- MEMES:END -->
+ - 6️⃣ [When she is hungry for something different](http://9gag.com/gag/a5QP5oq)
+ - 😝 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
+ - 👉 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)<!-- MEMES:END -->
 
 --- 
 
