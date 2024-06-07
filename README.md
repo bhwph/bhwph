@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Astro Bot pre-order begins June 7, features PaRappa Lovestruck Lyricist outfit and more](https://blog.playstation.com/2024/06/06/astro-bot-pre-order-begins-june-7-features-parappa-lovestruck-lyricist-outfit-and-more/)
- - [MultiVersus developers say an in-game option to purchase more lives with real money was &#39;a bug&#39;](https://www.pcgamer.com/games/fighting/multiversus-developers-say-an-in-game-option-to-purchase-more-lives-with-real-money-was-a-bug)
- - [The interconnected world of unofficial Dark Souls sequel Nightfall was just about finalized a whole year ago, but advances in modding tools led its creators to rebuild the whole thing](https://www.pcgamer.com/games/rpg/the-interconnected-world-of-unofficial-dark-souls-sequel-nightfall-was-just-about-finalized-a-whole-year-ago-but-advances-in-modding-tools-led-its-creators-to-rebuild-the-whole-thing)<!-- GAME:END -->
+ - [A book about text adventures is the latest essential addition to your videogame history library](https://www.pcgamer.com/games/adventure/a-book-about-text-adventures-is-the-latest-essential-addition-to-your-videogame-history-library)
+ - [Hello, PC gaming here: Are the consoles OK?](https://www.pcgamer.com/gaming-industry/hello-pc-gaming-here-are-the-consoles-ok)
+ - [Astro Bot pre-order begins June 7, features PaRappa Lovestruck Lyricist outfit and more](https://blog.playstation.com/2024/06/06/astro-bot-pre-order-begins-june-7-features-parappa-lovestruck-lyricist-outfit-and-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
