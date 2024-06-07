@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok is testing a streaks feature, which has become a status symbol on Snapchat, with select users in limited markets in order to increase engagement &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240606/p44#a240606p44)
  - [The National Samsung Electronics Union, which has ~28,400 workers, goes on a strike for the first time in the company&#39;s history for one day over a pay dispute &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240606/p43#a240606p43)
- - [Confidence in a Cream Set     - CNET](https://www.cnet.com/health/personal-care/confidence-in-a-cream-set-dpnl/#ftag=CAD590a51e)
- - [Best Phone to Buy for 2024     - CNET](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WEN Intensive Treatment Oil     - CNET](https://www.cnet.com/health/personal-care/wen-intensive-treatment-oil-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
