@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bare bones Steam item generator Banana rakes in over 100,000 concurrents in the span of a few days—reaches top 10 on Steam&#39;s &#39;most played&#39;](https://www.pcgamer.com/games/bare-bones-steam-item-generator-banana-rakes-in-over-130-000-concurrents-in-the-span-of-a-few-days-reaches-top-10-on-steam-s-most-played)
- - [Share of the Week: Hidden](https://blog.playstation.com/2024/06/07/share-of-the-week-hidden/)
- - [Summer Game Fest 2024](https://www.polygon.com/24164106/summer-game-fest-2024)<!-- GAME:END -->
+ - [Antstream Comes to Xbox in Brazil](https://news.xbox.com/en-us/2024/06/07/antstream-comes-to-xbox-in-brazil/)
+ - [Dectus Medallion left and right locations in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24173497/dectus-medallion-left-right-locations-how-to-use-join)
+ - [Kotaku’s Weekend Guide: 6 Great Games To Play In Between Summer Game Fest News](https://kotaku.com/kotaku-games-to-play-destiny-2-ff14-star-wars-halo-1851526466)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
