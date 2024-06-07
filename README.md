@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Summer Game Fest 2024: Watch Live Today](https://www.youtube.com/watch?v=pZzia5NrMuU)
- - [&lpar;For Southeast Asia&rpar; Concord is now available to pre-order, Early Access and beta detailed](https://blog.playstation.com/2024/06/06/20240607-concord/)
- - [&lpar;For Southeast Asia&rpar; Concord is now available to pre-order, Early Access and beta detailed](https://blog.playstation.com/2024/06/06/20240607-concord/)<!-- GAME:END -->
+ - [Gigabyte&#39;s been autograph hunting with signatures from Jen-Hsun, Pat, and Lisa for some of its GPUs and motherboards](https://www.pcgamer.com/hardware/gigabytes-been-autograph-hunting-with-signatures-from-jen-hsun-pat-and-lisa-for-some-of-its-gpus-and-motherboards)
+ - [PC Gamer Chat Log Episode 64: Weird brand tie-ins](https://www.pcgamer.com/gaming-industry/podcasts/pc-gamer-chat-log-episode-64-weird-brand-tie-ins)
+ - [Summer Game Fest 2024: Watch Live Today](https://www.youtube.com/watch?v=pZzia5NrMuU)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
