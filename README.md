@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Witty sound on](http://9gag.com/gag/axyZAop)
- - 😝 [Make sure to save it and never watch it again.](http://9gag.com/gag/ayN0PEq)
- - 👉 [The Waifu in the Cupboard](http://9gag.com/gag/a343nbe)<!-- MEMES:END -->
+ - 6️⃣ [Great game](http://9gag.com/gag/apR08V8)
+ - 😝 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
+ - 👉 [Good for her](http://9gag.com/gag/aXPpdjg)<!-- MEMES:END -->
 
 --- 
 
