@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: Hunters is free-to-play junk food, but I wish it would come to PC just because I miss hero shooters](https://www.pcgamer.com/games/third-person-shooter/star-wars-hunters-is-free-to-play-junk-food-but-i-wish-it-would-come-to-pc-just-because-i-miss-hero-shooters)
- - [Next Week on Xbox: New Games for June 10 to 14](https://news.xbox.com/en-us/2024/06/07/next-week-on-xbox-new-games-for-june-10-to-14/)
- - [Here are the best Lego Star Wars sets from AT-AT to X-Wing](https://www.polygon.com/deals/24171432/best-star-wars-lego-sets)<!-- GAME:END -->
+ - [Bare bones Steam item generator Banana rakes in over 100,000 concurrents in the span of a few days—reaches top 10 on Steam&#39;s &#39;most played&#39;](https://www.pcgamer.com/games/bare-bones-steam-item-generator-banana-rakes-in-over-130-000-concurrents-in-the-span-of-a-few-days-reaches-top-10-on-steam-s-most-played)
+ - [Share of the Week: Hidden](https://blog.playstation.com/2024/06/07/share-of-the-week-hidden/)
+ - [Summer Game Fest 2024](https://www.polygon.com/24164106/summer-game-fest-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
