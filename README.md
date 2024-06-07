@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How hard is it to break into the Apple coding world?](https://appleinsider.com/articles/24/06/07/how-hard-is-it-to-break-into-the-apple-coding-world?utm_medium=rss)
- - [Microsoft Will Switch Off Recall by Default After Researchers Expose Security Flaws](https://www.wired.com/story/microsoft-recall-off-default-security-concerns/)
- - [Windows won’t take screenshots of everything you do after all — unless you opt in](https://www.theverge.com/2024/6/7/24173499/microsoft-windows-recall-response-security-concerns)<!-- TECH:END -->
+ - [WWDC 2024: When is it, how to watch, and what to expect ahead of Apple’s Developers Conference](https://www.androidauthority.com/wwdc-2024-what-to-expect-3444854/)
+ - [NYC’s Congestion Pricing Should Have Been the Future](https://www.wired.com/story/new-york-city-congestion-pricing-should-have-been-the-future/)
+ - [Roaring Kitty Is Playing With Fire](https://www.wired.com/story/roaring-kitty-is-playing-with-fire/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
