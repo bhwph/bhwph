@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why clicker game Banana — the ‘legal infinite money glitch’ — is going viral on Steam](https://www.polygon.com/gaming/24173617/banana-clicker-game-steam-egg)
- - [Where to watch Ubisoft Forward 2024 — and what you can expect to see](https://www.polygon.com/gaming/24173861/ubisoft-forward-2024-time-where-to-watch-stream)
- - [Microsoft changes course on the controversial Windows 11 feature that constantly takes screenshots of your PC&#39;s screen: Now you&#39;ll have to opt in if you want to use it](https://www.pcgamer.com/software/windows/microsoft-changes-course-on-the-controversial-windows-11-feature-that-constantly-takes-screenshots-of-your-pcs-screen-now-youll-have-to-opt-in-if-you-want-to-use-it)<!-- GAME:END -->
+ - [I&#39;m terrified of heights but Cairn makes me want to immediately grab my carabiner and scale a huge mountain](https://www.pcgamer.com/games/adventure/im-terrified-of-heights-but-cairn-makes-me-want-to-immediately-grab-my-carabiner-and-scale-a-huge-mountain)
+ - [Mighty Morphin Power Rangers: Rita’s Rewind looks like a retro masterpiece](https://www.polygon.com/24174016/mighty-morphin-power-rangers-ritas-rewind-announcement-trailer)
+ - [Ex-Silent Hill devs show off new horror game Slitterhead, a gory mix of The Thing and Driver: San Francisco](https://www.polygon.com/24173650/slitterhead-gameplay-trailer-summer-game-fest-bokeh)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
