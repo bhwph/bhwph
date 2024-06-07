@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Very ouch.](http://9gag.com/gag/aLnPWMx)
- - 😝 [A man rescues a bird and later gets an amazing surprise](http://9gag.com/gag/axyZPGM)
- - 👉 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)<!-- MEMES:END -->
+ - 6️⃣ [Activities](http://9gag.com/gag/a5QPD0N)
+ - 😝 [Google `Centennial Olympic Park bombing`](http://9gag.com/gag/a4PdwXA)
+ - 👉 [F*cking legend](http://9gag.com/gag/a9yL2Vm)<!-- MEMES:END -->
 
 --- 
 
