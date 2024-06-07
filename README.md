@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)
- - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
- - 👉 [Title](http://9gag.com/gag/azxEYpN)<!-- MEMES:END -->
+ - 6️⃣ [Witty sound on](http://9gag.com/gag/axyZAop)
+ - 😝 [Make sure to save it and never watch it again.](http://9gag.com/gag/ayN0PEq)
+ - 👉 [The Waifu in the Cupboard](http://9gag.com/gag/a343nbe)<!-- MEMES:END -->
 
 --- 
 
