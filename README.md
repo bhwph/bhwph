@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWDC 2024: When is it, how to watch, and what to expect ahead of Apple’s Developers Conference](https://www.androidauthority.com/wwdc-2024-what-to-expect-3444854/)
- - [NYC’s Congestion Pricing Should Have Been the Future](https://www.wired.com/story/new-york-city-congestion-pricing-should-have-been-the-future/)
- - [Roaring Kitty Is Playing With Fire](https://www.wired.com/story/roaring-kitty-is-playing-with-fire/)<!-- TECH:END -->
+ - [How ex-FTC commissioner Joshua Wright became the tech industry&#39;s fixer, while allegedly juggling inappropriate relationships and skirting conflicts of interests &lpar;Brody Mullins/Wall Street Journal&rpar;](http://www.techmeme.com/240607/p18#a240607p18)
+ - [Summer Game Fest 2024: all the news, trailers, and announcements](https://www.theverge.com/24170561/summer-game-fest-2024-trailers-news-geoff-keighley)
+ - [The Biden administration relaxes another vehicle emission rule](https://www.theverge.com/2024/6/7/24173862/us-fuel-economy-nhtsa-cafe-emissions-biden-epa)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
