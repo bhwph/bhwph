@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)
- - 😝 [Rapeugees welcome!](http://9gag.com/gag/abAy2Gb)
- - 👉 [Very ouch.](http://9gag.com/gag/aLnPWMx)<!-- MEMES:END -->
+ - 6️⃣ [Local dog name Gray saves an unexpected friend. That big smile at the end says it all](http://9gag.com/gag/abAy2bX)
+ - 😝 [Make sure to save it and never watch it again.](http://9gag.com/gag/ayN0PEq)
+ - 👉 [Quack](http://9gag.com/gag/aKGPKzO)<!-- MEMES:END -->
 
 --- 
 
