@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony ditches 8K branding from PlayStation 5 boxes amidst PS5 Pro rumors](https://www.androidauthority.com/sony-ps5-8k-branding-3449583/)
- - [NY AG sues crypto companies AWS Mining and NovaTechFX for allegedly operating pyramid schemes that targeted Haitian immigrants and bilked investors out of $1B+ &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240606/p39#a240606p39)
- - [Apple takes aim at third-party password managers with Passwords app](https://www.androidauthority.com/apple-passwords-app-3449573/)<!-- TECH:END -->
+ - [The National Samsung Electronics Union, which has ~28,400 workers, goes on a strike for the first time in the company&#39;s history for one day over a pay dispute &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240606/p43#a240606p43)
+ - [Confidence in a Cream Set     - CNET](https://www.cnet.com/health/personal-care/confidence-in-a-cream-set-dpnl/#ftag=CAD590a51e)
+ - [Best Phone to Buy for 2024     - CNET](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
