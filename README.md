@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch Summer Game Fest 2024 and what we know will be there](https://www.pcgamer.com/gaming-industry/how-to-watch-summer-game-fest-2024)
- - [Today&#39;s Wordle answer for Friday, June 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-7-2024)
- - [A book about text adventures is the latest essential addition to your videogame history library](https://www.pcgamer.com/games/adventure/a-book-about-text-adventures-is-the-latest-essential-addition-to-your-videogame-history-library)<!-- GAME:END -->
+ - [Summer Game Fest 2024: Watch Live Today](https://www.youtube.com/watch?v=pZzia5NrMuU)
+ - [&lpar;For Southeast Asia&rpar; Concord is now available to pre-order, Early Access and beta detailed](https://blog.playstation.com/2024/06/06/20240607-concord/)
+ - [&lpar;For Southeast Asia&rpar; Concord is now available to pre-order, Early Access and beta detailed](https://blog.playstation.com/2024/06/06/20240607-concord/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
