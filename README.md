@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, June 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-8-2024)
  - [Ass-kicking FPS Anger Foot is coming in July: &#39;Shit City is a disease and your foot is the cure&#39;](https://www.pcgamer.com/games/fps/ass-kicking-fps-anger-foot-is-coming-in-july-shit-city-is-a-disease-and-your-foot-is-the-cure)
- - [Bodycam is out now and feels more like a horror game than a competitive shooter](https://www.pcgamer.com/games/fps/bodycam-is-out-now-and-feels-more-like-a-horror-game-than-a-competitive-shooter)
- - [What a killer year for roguelikes: Former Dead Cells developers are now competing against each other with 3 great-looking action games](https://www.pcgamer.com/games/roguelike/what-a-killer-year-for-roguelikes-former-dead-cells-developers-are-now-competing-against-each-other-with-3-great-looking-action-games)<!-- GAME:END -->
+ - [Bodycam is out on Steam and feels more like a horror game than a competitive shooter](https://www.pcgamer.com/games/fps/bodycam-is-out-now-and-feels-more-like-a-horror-game-than-a-competitive-shooter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
