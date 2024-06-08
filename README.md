@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, a cozy life sim where not everyone in town is thrilled about you turning a cute little shop into a massive megastore](https://www.pcgamer.com/games/life-sim/finally-a-cozy-life-sim-where-not-everyone-in-town-is-thrilled-about-you-turning-a-cute-little-shop-into-a-massive-megastore)
- - [The makers of Parkitect have a new construction game coming, and it&#39;s a froggy colony sim called Croakwood](https://www.pcgamer.com/games/sim/the-makers-of-parkitect-have-a-new-construction-game-coming-and-its-a-froggy-colony-sim-called-croakwood)
- - [Manufactured Call Of Duty Controversies, New Dragon Age Romance Details, And More Of The Week&#39;s Gaming News](https://kotaku.com/call-of-duty-trans-bullets-diablo-4-dragon-age-1851526252)<!-- GAME:END -->
+ - [Destiny 2: The Final Shape Brings The Feels, That New Star Wars Shooter Is Fun, And More Of The Week&#39;s Gaming Takes](https://kotaku.com/octopath-traveler-star-wars-hunters-destiny-fishing-1851526254)
+ - [Look! 4 games surprise launch at Wholesome Direct](https://www.polygon.com/24171519/wholesome-games-direct-june-2024-showcase-trailers)
+ - [This Retro Platformer Is Sapphic Super Mario And I Can&#39;t Wait For Its Full Release](https://kotaku.com/kitsune-tails-retro-platformer-sapphic-super-mario-1851526665)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
