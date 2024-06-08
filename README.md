@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She couldn&#39;t enjoy her pizza after a long day.](http://9gag.com/gag/aNDZOVG)
- - 😝 [Slim shady](http://9gag.com/gag/aYQWm1q)
- - 👉 [Trying to steal the tip jar, bro should get a promotion.](http://9gag.com/gag/apR0jBb)<!-- MEMES:END -->
+ - 6️⃣ [Why government matters](http://9gag.com/gag/aZZxV0n)
+ - 😝 [Relationship](http://9gag.com/gag/a9yLV1L)
+ - 👉 [I love living in this place](http://9gag.com/gag/aAyrNQL)<!-- MEMES:END -->
 
 --- 
 
