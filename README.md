@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: The Final Shape Brings The Feels, That New Star Wars Shooter Is Fun, And More Of The Week&#39;s Gaming Takes](https://kotaku.com/octopath-traveler-star-wars-hunters-destiny-fishing-1851526254)
- - [Look! 4 games surprise launch at Wholesome Direct](https://www.polygon.com/24171519/wholesome-games-direct-june-2024-showcase-trailers)
- - [This Retro Platformer Is Sapphic Super Mario And I Can&#39;t Wait For Its Full Release](https://kotaku.com/kitsune-tails-retro-platformer-sapphic-super-mario-1851526665)<!-- GAME:END -->
+ - [Everyone tries to crib Breath of the Wild&#39;s vibes and open world to no avail, but the former lead of Dragon Age is finally giving me what I really want: Zelda&#39;s wild physics and ability to climb anywhere](https://www.pcgamer.com/games/rpg/everyone-tries-to-crib-breath-of-the-wilds-vibes-and-open-world-to-no-avail-but-the-former-lead-of-dragon-age-is-finally-giving-me-what-i-really-want-zeldas-wild-physics-and-ability-to-climb-anywhere)
+ - [This year&#39;s Access-Ability showcase featured exciting innovations like a blindness-friendly city builder](https://www.pcgamer.com/gaming-industry/events-conferences/this-years-access-ability-showcase-featured-exciting-innovations-like-a-blindness-friendly-city-builder)
+ - [The biggest announcements and trailers from the 2024 summer gaming showcases](https://www.pcgamer.com/games/all-2024-summer-gaming-showcase-announcements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
