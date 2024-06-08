@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wtf](http://9gag.com/gag/avygXBE)
- - 😝 [Great game](http://9gag.com/gag/apR08V8)
- - 👉 [Good for her](http://9gag.com/gag/aXPpdjg)<!-- MEMES:END -->
+ - 6️⃣ [If this is true Disney has butchered the franchise. Well, they kinda already did. Vote with your wallet folks.](http://9gag.com/gag/avyg9zO)
+ - 😝 [Christianity was in africa before europe...](http://9gag.com/gag/aRBPRL2)
+ - 👉 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)<!-- MEMES:END -->
 
 --- 
 
