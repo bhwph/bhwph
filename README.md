@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best thrillers to watch on Netflix this June](https://www.polygon.com/what-to-watch/2024/6/8/24170486/best-thriller-movies-netflix-watch-june-2024)
  - [Today&#39;s Wordle answer for Saturday, June 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-8-2024)
- - [Ass-kicking FPS Anger Foot is coming in July: &#39;Shit City is a disease and your foot is the cure&#39;](https://www.pcgamer.com/games/fps/ass-kicking-fps-anger-foot-is-coming-in-july-shit-city-is-a-disease-and-your-foot-is-the-cure)
- - [Bodycam is out on Steam and feels more like a horror game than a competitive shooter](https://www.pcgamer.com/games/fps/bodycam-is-out-now-and-feels-more-like-a-horror-game-than-a-competitive-shooter)<!-- GAME:END -->
+ - [Ass-kicking FPS Anger Foot is coming in July: &#39;Shit City is a disease and your foot is the cure&#39;](https://www.pcgamer.com/games/fps/ass-kicking-fps-anger-foot-is-coming-in-july-shit-city-is-a-disease-and-your-foot-is-the-cure)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
