@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Witty sound on](http://9gag.com/gag/axyZAop)
- - 😝 [Witch!](http://9gag.com/gag/azxEB2m)
- - 👉 [Relationship](http://9gag.com/gag/a9yLV1L)<!-- MEMES:END -->
+ - 6️⃣ [She couldn&#39;t enjoy her pizza after a long day.](http://9gag.com/gag/aNDZOVG)
+ - 😝 [Slim shady](http://9gag.com/gag/aYQWm1q)
+ - 👉 [Trying to steal the tip jar, bro should get a promotion.](http://9gag.com/gag/apR0jBb)<!-- MEMES:END -->
 
 --- 
 
