@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Critics say California&#39;s AI safety bill, which requires &quot;kill switches&quot; for AI models, will force AI startups to leave, harm open-source models, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240608/p2#a240608p2)
- - [Today&#39;s Wordle Hints and Answer: Help for June 8, #1085     - CNET](https://www.cnet.com/news/todays-wordle-hints-and-answer-help-for-june-8-1085/#ftag=CAD590a51e)
- - [A profile of new AWS CEO Matt Garman, who previously served as AWS&#39; SVP of sales, marketing, and global services after starting as an intern at Amazon in 2005 &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240608/p1#a240608p1)<!-- TECH:END -->
+ - [MSI Claw after more updates: nope, it’s still a dud](https://www.theverge.com/2024/6/8/24174086/msi-claw-updates-review-addendum)
+ - [Social Security Check June 2024: When Is Your Payment Coming?     - CNET](https://www.cnet.com/personal-finance/social-security-check-june-2024-when-is-your-payment-coming/#ftag=CAD590a51e)
+ - [Critics say California&#39;s AI safety bill, which requires &quot;kill switches&quot; for AI models, will force AI startups to leave, harm open-source models, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240608/p2#a240608p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
