@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
- - 😝 [Title](http://9gag.com/gag/aqyNDAR)
- - 👉 [Sexy Austrian accent](http://9gag.com/gag/ae90WBQ)<!-- MEMES:END -->
+ - 6️⃣ [Witty sound on](http://9gag.com/gag/axyZAop)
+ - 😝 [Witch!](http://9gag.com/gag/azxEB2m)
+ - 👉 [Relationship](http://9gag.com/gag/a9yLV1L)<!-- MEMES:END -->
 
 --- 
 
