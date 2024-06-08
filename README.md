@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MSI Claw after more updates: nope, it’s still a dud](https://www.theverge.com/2024/6/8/24174086/msi-claw-updates-review-addendum)
- - [Social Security Check June 2024: When Is Your Payment Coming?     - CNET](https://www.cnet.com/personal-finance/social-security-check-june-2024-when-is-your-payment-coming/#ftag=CAD590a51e)
- - [Critics say California&#39;s AI safety bill, which requires &quot;kill switches&quot; for AI models, will force AI startups to leave, harm open-source models, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240608/p2#a240608p2)<!-- TECH:END -->
+ - [UWB is still under-utilized on Android, but there’s a bit of hope](https://www.androidauthority.com/uwb-under-utilized-android-3446012/)
+ - [Things Keep Getting Worse for the Humane Ai Pin](https://www.wired.com/story/things-keep-getting-worse-for-the-humane-ai-pin/)
+ - [Siri is reborn in iOS 18 -- everything Apple&#39;s voice assistant will be able to do](https://appleinsider.com/articles/24/06/08/siri-is-reborn-in-ios-18----everything-apples-voice-assistant-will-be-able-to-do?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
