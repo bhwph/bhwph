@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With Fossil’s exit, my wardrobe’s at war with tacky smartwatches](https://www.androidauthority.com/fossil-exit-tacky-smartwatches-3448484/)
- - [Raycon The Magic Power Bank 5-in-1 Review: My New Favorite Portable Charger](https://www.wired.com/review/raycon-the-magic-power-bank-5-in-1/)
- - [The Acolyte took Star Wars back in time by taking things away](https://www.theverge.com/24172264/the-acolyte-high-republic-star-wars-design-interview)<!-- TECH:END -->
+ - [Apple&#39;s Mac mini M2 just dropped to $479 in latest price war](https://appleinsider.com/articles/24/06/08/apples-mac-mini-m2-just-dropped-to-479-in-latest-price-war?utm_medium=rss)
+ - [App of the Week: Inflow app helped me get my runaway ADHD symptoms back in check](https://www.androidauthority.com/app-of-the-week-inflow-3449192/)
+ - [Anker recalls its 321 Power Bank due to fire risk](https://www.theverge.com/2024/6/8/24174271/anker-321-power-bank-powercore-5k-a1112-recall)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
