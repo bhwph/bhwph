@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UWB is still under-utilized on Android, but there’s a bit of hope](https://www.androidauthority.com/uwb-under-utilized-android-3446012/)
- - [Things Keep Getting Worse for the Humane Ai Pin](https://www.wired.com/story/things-keep-getting-worse-for-the-humane-ai-pin/)
- - [Siri is reborn in iOS 18 -- everything Apple&#39;s voice assistant will be able to do](https://appleinsider.com/articles/24/06/08/siri-is-reborn-in-ios-18----everything-apples-voice-assistant-will-be-able-to-do?utm_medium=rss)<!-- TECH:END -->
+ - [With Fossil’s exit, my wardrobe’s at war with tacky smartwatches](https://www.androidauthority.com/fossil-exit-tacky-smartwatches-3448484/)
+ - [Raycon The Magic Power Bank 5-in-1 Review: My New Favorite Portable Charger](https://www.wired.com/review/raycon-the-magic-power-bank-5-in-1/)
+ - [The Acolyte took Star Wars back in time by taking things away](https://www.theverge.com/24172264/the-acolyte-high-republic-star-wars-design-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
