@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)
+ - 6️⃣ [Dude just earned the right to keep that dog](http://9gag.com/gag/aBy3NnP)
  - 😝 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
- - 👉 [Brazil.exe](http://9gag.com/gag/ae90PA5)<!-- MEMES:END -->
+ - 👉 [If this is true Disney has butchered the franchise. Well, they kinda already did. Vote with your wallet folks.](http://9gag.com/gag/avyg9zO)<!-- MEMES:END -->
 
 --- 
 
