@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Go buy some coke.](http://9gag.com/gag/a6Zy3gb)
- - 😝 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
- - 👉 [Crash and huff](http://9gag.com/gag/aAyrmeL)<!-- MEMES:END -->
+ - 6️⃣ [Numbers sorted alphabetically in different languages](http://9gag.com/gag/a5QPyWL)
+ - 😝 [Thee exes to go then ...](http://9gag.com/gag/a5QPxbL)
+ - 👉 [Brazil.exe](http://9gag.com/gag/ae90PA5)<!-- MEMES:END -->
 
 --- 
 
