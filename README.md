@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why government matters](http://9gag.com/gag/aZZxV0n)
- - 😝 [Relationship](http://9gag.com/gag/a9yLV1L)
- - 👉 [I love living in this place](http://9gag.com/gag/aAyrNQL)<!-- MEMES:END -->
+ - 6️⃣ [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)
+ - 😝 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
+ - 👉 [Brazil.exe](http://9gag.com/gag/ae90PA5)<!-- MEMES:END -->
 
 --- 
 
