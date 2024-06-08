@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Numbers sorted alphabetically in different languages](http://9gag.com/gag/a5QPyWL)
- - 😝 [Thee exes to go then ...](http://9gag.com/gag/a5QPxbL)
- - 👉 [Brazil.exe](http://9gag.com/gag/ae90PA5)<!-- MEMES:END -->
+ - 6️⃣ [Good for her](http://9gag.com/gag/aXPpdjg)
+ - 😝 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)
+ - 👉 [Wtf](http://9gag.com/gag/avygXBE)<!-- MEMES:END -->
 
 --- 
 
