@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Adulthood can be brutal](http://9gag.com/gag/a343ePQ)
- - 😝 [One chip\u2026](http://9gag.com/gag/agmvjWn)
+ - 6️⃣ [Wtf](http://9gag.com/gag/avygXBE)
+ - 😝 [Great game](http://9gag.com/gag/apR08V8)
  - 👉 [Good for her](http://9gag.com/gag/aXPpdjg)<!-- MEMES:END -->
 
 --- 
