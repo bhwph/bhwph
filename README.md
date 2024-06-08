@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone tries to crib Breath of the Wild&#39;s vibes and open world to no avail, but the former lead of Dragon Age is finally giving me what I really want: Zelda&#39;s wild physics and ability to climb anywhere](https://www.pcgamer.com/games/rpg/everyone-tries-to-crib-breath-of-the-wilds-vibes-and-open-world-to-no-avail-but-the-former-lead-of-dragon-age-is-finally-giving-me-what-i-really-want-zeldas-wild-physics-and-ability-to-climb-anywhere)
- - [This year&#39;s Access-Ability showcase featured exciting innovations like a blindness-friendly city builder](https://www.pcgamer.com/gaming-industry/events-conferences/this-years-access-ability-showcase-featured-exciting-innovations-like-a-blindness-friendly-city-builder)
- - [The biggest announcements and trailers from the 2024 summer gaming showcases](https://www.pcgamer.com/games/all-2024-summer-gaming-showcase-announcements)<!-- GAME:END -->
+ - [The 5 best demos I tried from the Wholesome Games showcase](https://www.pcgamer.com/games/sim/the-5-best-demos-from-the-wholesome-games-showcase)
+ - [One of my favorite games from this year&#39;s summer showcases, a peaceful adventure where you explore a desert planet in a beat up van, has a demo available right now](https://www.pcgamer.com/games/adventure/one-of-my-favorite-games-from-this-years-summer-showcases-a-peaceful-adventure-where-you-explore-a-desert-planet-in-a-beat-up-van-has-a-demo-available-right-now)
+ - [The official Starship Troopers co-op shooter has a full release date, Casper Van Dien, and a miraculous-sounding corpse pile-up system: &#39;No other game has been able to achieve persistent death at the scale we&#39;re doing&#39;](https://www.pcgamer.com/games/action/the-official-starship-troopers-co-op-shooter-has-a-full-release-date-casper-van-dien-and-a-miraculous-sounding-corpse-pile-up-system-no-other-game-has-been-able-to-achieve-persistent-death-at-the-scale-were-doing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
