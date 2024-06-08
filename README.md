@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dude just earned the right to keep that dog](http://9gag.com/gag/aBy3NnP)
- - 😝 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
- - 👉 [If this is true Disney has butchered the franchise. Well, they kinda already did. Vote with your wallet folks.](http://9gag.com/gag/avyg9zO)<!-- MEMES:END -->
+ - 6️⃣ [Adulthood can be brutal](http://9gag.com/gag/a343ePQ)
+ - 😝 [One chip\u2026](http://9gag.com/gag/agmvjWn)
+ - 👉 [Good for her](http://9gag.com/gag/aXPpdjg)<!-- MEMES:END -->
 
 --- 
 
