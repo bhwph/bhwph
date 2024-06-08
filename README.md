@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Mac mini M2 just dropped to $479 in latest price war](https://appleinsider.com/articles/24/06/08/apples-mac-mini-m2-just-dropped-to-479-in-latest-price-war?utm_medium=rss)
- - [App of the Week: Inflow app helped me get my runaway ADHD symptoms back in check](https://www.androidauthority.com/app-of-the-week-inflow-3449192/)
- - [Anker recalls its 321 Power Bank due to fire risk](https://www.theverge.com/2024/6/8/24174271/anker-321-power-bank-powercore-5k-a1112-recall)<!-- TECH:END -->
+ - [iPhone 16 battery leak suggests Apple has overheating issues under control](https://www.androidauthority.com/iphone-16-battery-leak-3449921/)
+ - [The best photo editing apps for iPad](https://appleinsider.com/inside/ipad/best/the-best-photo-editing-apps-for-ipad?utm_medium=rss)
+ - [You can now take a drive on Samsung Highway in Texas](https://www.androidauthority.com/samsung-highway-3449916/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
