@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NY passes legislation to ban social media platforms from using &quot;addictive&quot; recommendation algorithms for users under 18; Gov. Hochul is likely to sign the bill &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/240607/p22#a240607p22)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Devolver’s indie game showcase had yakuza, cults, and a creepy reality TV show](https://www.theverge.com/24171195/devolver-digital-direct-2024-summer-game-fest-news-trailers)<!-- TECH:END -->
+ - [Best Photo Books for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-photo-books/#ftag=CAD590a51e)
+ - [Best Online Glasses and Contacts Deals: Save on Designer Frames and Top Brand Contact Lenses     - CNET](https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e)
+ - [NY passes legislation to ban social media platforms from using &quot;addictive&quot; recommendation algorithms for users under 18; Gov. Hochul is likely to sign the bill &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/240607/p22#a240607p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
