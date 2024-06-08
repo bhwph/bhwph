@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If this is true Disney has butchered the franchise. Well, they kinda already did. Vote with your wallet folks.](http://9gag.com/gag/avyg9zO)
- - 😝 [Christianity was in africa before europe...](http://9gag.com/gag/aRBPRL2)
- - 👉 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)<!-- MEMES:END -->
+ - 6️⃣ [Go buy some coke.](http://9gag.com/gag/a6Zy3gb)
+ - 😝 [97 year old WW2 veteran gets his lifetime dream come true!](http://9gag.com/gag/aPA4rQK)
+ - 👉 [Christianity was in africa before europe...](http://9gag.com/gag/aRBPRL2)<!-- MEMES:END -->
 
 --- 
 
