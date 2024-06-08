@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 battery leak suggests Apple has overheating issues under control](https://www.androidauthority.com/iphone-16-battery-leak-3449921/)
- - [The best photo editing apps for iPad](https://appleinsider.com/inside/ipad/best/the-best-photo-editing-apps-for-ipad?utm_medium=rss)
- - [You can now take a drive on Samsung Highway in Texas](https://www.androidauthority.com/samsung-highway-3449916/)<!-- TECH:END -->
+ - [Spain vs. Northern Ireland Livestream: How to Watch International Friendly Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/spain-vs-northern-ireland-livestream-how-to-watch-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [X remains a popular destination for people highly engaged in politics, with DC insiders reluctantly buying blue checks and candidates paying for cheap ads &lpar;NOTUS&rpar;](http://www.techmeme.com/240608/p7#a240608p7)
+ - [Logan is so annoyed in the third Deadpool &amp; Wolverine trailer](https://www.theverge.com/2024/6/8/24174358/deadpool-wolverine-trailer-3-marvel-hugh-jackman-ryan-reynolds-x-men)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
