@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I was shocked to find out that not only is Hyper Light Drifter&#39;s studio working on a second new project, it&#39;s a return to 2D with action inspired by &#39;platform fighters&#39; like Super Smash Bros](https://www.pcgamer.com/games/action/i-was-shocked-to-find-out-that-not-only-is-hyper-light-drifters-studio-working-on-a-second-new-project-its-a-return-to-2d-with-action-inspired-by-platform-fighters-like-super-smash-bros)
- - [The First Borderlands Movie Clip Looks Like An SNL Skit](https://kotaku.com/borderlands-movie-first-scene-ign-live-clip-trailer-1851527486)
- - [Reality dating game The Crush House to be everything I’ve ever wanted in August](https://www.polygon.com/24171361/the-crush-house-nerial-reality-dating-devolver-digital-release-date)<!-- GAME:END -->
+ - [Ass-kicking FPS Anger Foot is coming in July: &#39;Shit City is a disease and your foot is the cure&#39;](https://www.pcgamer.com/games/fps/ass-kicking-fps-anger-foot-is-coming-in-july-shit-city-is-a-disease-and-your-foot-is-the-cure)
+ - [Bodycam is out now and feels more like a horror game than a competitive shooter](https://www.pcgamer.com/games/fps/bodycam-is-out-now-and-feels-more-like-a-horror-game-than-a-competitive-shooter)
+ - [What a killer year for roguelikes: Former Dead Cells developers are now competing against each other with 3 great-looking action games](https://www.pcgamer.com/games/roguelike/what-a-killer-year-for-roguelikes-former-dead-cells-developers-are-now-competing-against-each-other-with-3-great-looking-action-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
