@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU Is Taking on Big Tech. It May Be Outmatched](https://www.wired.com/story/european-commission-big-tech-regulation-outlook/)
  - [Apple&#39;s M3 MacBook Air plunges to $899, the lowest price ever](https://appleinsider.com/articles/24/06/09/apples-m3-macbook-air-plunges-to-899-the-lowest-price-ever?utm_medium=rss)
- - [Rumors and body-shaming spread through a Vermont high school after students signed up for Fizz, an anonymous message board app for schools that has raised $40M+ &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240609/p3#a240609p3)
- - [Sources: Bharti Airtel&#39;s JV with Eutelsat OneWeb could launch satellite internet services in India in June, and Reliance expects to follow later this year &lpar;Financial Times&rpar;](http://www.techmeme.com/240609/p2#a240609p2)<!-- TECH:END -->
+ - [Rumors and body-shaming spread through a Vermont high school after students signed up for Fizz, an anonymous message board app for schools that has raised $40M+ &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240609/p3#a240609p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
