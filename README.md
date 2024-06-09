@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good for her](http://9gag.com/gag/aXPpdjg)
- - 😝 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)
- - 👉 [Wtf](http://9gag.com/gag/avygXBE)<!-- MEMES:END -->
+ - 6️⃣ [Without the video, the man would be looking at 3-5 in prison and a $17 million civil settlement.](http://9gag.com/gag/aPA4V0B)
+ - 😝 [Ok, it seems legit](http://9gag.com/gag/aKGPNLb)
+ - 👉 [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)<!-- MEMES:END -->
 
 --- 
 
