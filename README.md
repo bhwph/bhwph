@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Prepping For Shadow Of The Erdtree, Stealing In FF7 Rebirth, And More Tips For The Week](https://kotaku.com/elden-ring-xdefiant-ff7-rebirth-steal-morph-1851526253)
- - [Like Scavengers Reign? Here’s some of the show’s influences to explore](https://www.polygon.com/what-to-watch/24173761/scavengers-reign-influences-inspirations-more-like-shows-miyazaki)
- - [The best games like XCOM to play right now](https://www.polygon.com/what-to-play/24170442/best-games-like-xcom-turn-based-tactics)<!-- GAME:END -->
+ - [New Indiana Jones Game Trailer Nails The Feel Of The Movies](https://kotaku.com/indiana-jones-great-circle-bethedsa-trailer-2025-xbox-1851528889)
+ - [Is it just me, or do the newly revealed companions of Dragon Age: The Veilguard look like they&#39;re in a hero shooter?](https://www.pcgamer.com/games/dragon-age/is-it-just-me-or-do-the-newly-revealed-companions-of-dragon-age-the-veilguard-look-like-theyre-in-a-hero-shooter)
+ - [The Fable reboot is coming in 2025 and it&#39;s looking more British than ever](https://www.pcgamer.com/games/rpg/the-fable-reboot-is-coming-in-2025-and-its-looking-more-british-than-ever)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
