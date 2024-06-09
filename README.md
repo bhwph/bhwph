@@ -128,8 +128,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [How to fully restore a 10th generation Mac mini to like-new condition](https://appleinsider.com/inside/mac-mini/tips/how-to-fully-restore-a-10th-generation-mac-mini-to-like-new-condition?utm_medium=rss)
- - [Microsoft Flight Simulator 2024 launches on November 19th](https://www.theverge.com/2024/6/9/24173672/microsoft-flight-simulator-2024-november-19th-release-date-trailer)
- - [Xbox’s new Fable game is coming in 2025](https://www.theverge.com/2024/6/9/24173655/xbox-fable-game-release-date-2025-trailer)<!-- TECH:END -->
+ - [Revive That Scorched Cast-Iron Skillet With This Pantry Staple     - CNET](https://www.cnet.com/how-to/revive-that-scorched-cast-iron-skillet-with-this-pantry-staple/#ftag=CAD590a51e)
+ - [Apple&#39;s AI catch-up ends at WWDC and with the iPhone 16, says Kuo](https://appleinsider.com/articles/24/06/09/apples-ai-catch-up-ends-at-wwdc-and-with-the-iphone-16-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
