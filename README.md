@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sneak past, shoot through, or throw rats at your foes in Fallen Aces, a bloody and creative FPS that is coming out next week](https://www.pcgamer.com/games/fps/sneak-past-shoot-through-or-throw-rats-at-your-foes-in-fallen-aces-a-bloody-and-creative-fps-that-is-coming-out-next-week)
- - [Call of Duty: Black Ops 6&#39;s new &#39;Omnimovement&#39; could be CoD&#39;s best &lpar;or worst&rpar; idea of all time](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6s-new-omnimovement-could-be-cods-best-or-worst-idea-of-all-time)
- - [Sci-fi stealth action game Steel Seed teases some of the story underneath the bloody combat in a new trailer](https://www.pcgamer.com/games/action/sci-fi-stealth-action-game-steel-seed-teases-some-of-the-story-underneath-the-bloody-combat-in-a-new-trailer)<!-- GAME:END -->
+ - [Gunboat God is a hectic seafaring shoot &#39;em up with Cuphead and Luftrausers vibes](https://www.pcgamer.com/games/action/gunboat-god-is-a-hectic-seafaring-shoot-em-up-with-cuphead-and-luftrausers-vibes)
+ - [&#39;Grow your cult… with your friends&#39;: Worship&#39;s new trailer shows off how much chaos you can cause in this dark roguelike](https://www.pcgamer.com/games/rpg/grow-your-cult-with-your-friends-worships-new-trailer-shows-off-how-much-chaos-you-can-cause-in-this-dark-roguelike)
+ - [Dead Cells developer shows off upcoming roguelite Windblown and its stylish, fast-paced 3 player co-op](https://www.pcgamer.com/games/roguelike/dead-cells-developer-shows-off-upcoming-roguelite-windblown-and-its-stylish-fast-paced-3-player-co-op)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
