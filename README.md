@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
- - 😝 [Brazil.exe](http://9gag.com/gag/ae90PA5)
- - 👉 [Duhhh](http://9gag.com/gag/ary4rj6)<!-- MEMES:END -->
+ - 6️⃣ [Say what?](http://9gag.com/gag/a5QPg1o)
+ - 😝 [German green party lost almost half their voters in the EU elections - Look at their faces!](http://9gag.com/gag/ajP0vZQ)
+ - 👉 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)<!-- MEMES:END -->
 
 --- 
 
