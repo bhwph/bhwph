@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wtf](http://9gag.com/gag/avygXBE)
- - 😝 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
- - 👉 [Legolas the Stoic](http://9gag.com/gag/ary4d56)<!-- MEMES:END -->
+ - 6️⃣ [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
+ - 😝 [Conservatives don\u2019t \u201clove the status quo\u201d, they\u2019re just skeptical of your utopian ideas.](http://9gag.com/gag/axyZQXM)
+ - 👉 [Never thought I&#39;d see the day where the Taliban defend Germany better than Germany defends itself](http://9gag.com/gag/aQz4BBK)<!-- MEMES:END -->
 
 --- 
 
