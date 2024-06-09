@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’d given up, but the Snapdragon X launch may have saved Windows on Arm](https://www.androidauthority.com/snapdragon-x-launch-strategy-3448676/)
- - [Smartphones May Affect Sleep—but Not Because of Blue Light](https://www.wired.com/story/blue-light-smartphone-screen-sleep/)
- - [An AI PC you’ll want to tinker with](https://www.theverge.com/24173628/ai-pc-raspberry-pi-hit-man-rivian-chromatic-installer)<!-- TECH:END -->
+ - [iOS 18 will continue to crib from Android with app locking system, dark home screen icons](https://www.androidauthority.com/ios-18-app-lock-dark-icons-3449948/)
+ - [My smartwatch doesn’t get me. Could AI make it better?](https://www.androidauthority.com/ai-smartwatch-please-3448910/)
+ - [Keychron Q1 HE Review: Hall Effect Goes Mainstream](https://www.wired.com/review/keychron-q1-he/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
