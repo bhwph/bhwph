@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Renewable Energy Is Getting Cheaper. Why Aren&#39;t Power Bills?     - CNET](https://www.cnet.com/home/energy-and-utilities/renewable-energy-is-getting-cheaper-why-arent-power-bills/#ftag=CAD590a51e)
- - [Your Monthly Social Security 2024 Benefits and How to Keep Them     - CNET](https://www.cnet.com/personal-finance/your-monthly-social-security-2024-benefits-and-how-to-keep-them/#ftag=CAD590a51e)
- - [Spain vs. Northern Ireland Livestream: How to Watch International Friendly Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/spain-vs-northern-ireland-livestream-how-to-watch-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The first Tales of the TMNT trailer reveals an August 9th release](https://www.theverge.com/2024/6/8/24174515/tales-of-the-teenage-mutant-ninja-turtles-trailer-paramount-plus)
+ - [Did an in-game MLB interview cause a player to miss a catch?](https://www.theverge.com/2024/6/8/24174447/mlb-baseball-in-game-interview-live-apple-tv-kike-hernandez-dodgers-yankees)
+ - [CBRE: India is on track to add up to 850 MW of data center capacity by the end of 2026, outpacing South Korea at 495 MW and Japan at 407 MW over the same period &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240608/p8#a240608p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
