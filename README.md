@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU Is Taking on Big Tech. It May Be Outmatched](https://www.wired.com/story/european-commission-big-tech-regulation-outlook/)
- - [Apple&#39;s M3 MacBook Air plunges to $899, the lowest price ever](https://appleinsider.com/articles/24/06/09/apples-m3-macbook-air-plunges-to-899-the-lowest-price-ever?utm_medium=rss)
- - [Rumors and body-shaming spread through a Vermont high school after students signed up for Fizz, an anonymous message board app for schools that has raised $40M+ &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240609/p3#a240609p3)<!-- TECH:END -->
+ - [How Uber-owned Careem went from Pakistan&#39;s ride-hailing leader to a distant third player after deprioritizing the country due to its unstable economy &lpar;Zuha Siddiqui/Rest of World&rpar;](http://www.techmeme.com/240609/p4#a240609p4)
+ - [Alarming New Gas Stove Study Suggests Leaks Are Undetectable by Smell Alone     - CNET](https://www.cnet.com/news/alarming-new-study-suggests-some-gas-stove-leaks-are-undetectable-by-human-nose/#ftag=CAD590a51e)
+ - [Reactions to Rivian&#39;s New R1T Truck Praise Range, Power: &#39;The Cybertruck I Wanted&#39;     - CNET](https://www.cnet.com/roadshow/news/reactions-to-rivians-new-r1t-truck-praise-range-power-the-cybertruck-i-wanted/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
