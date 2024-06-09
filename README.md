@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Uber-owned Careem went from Pakistan&#39;s ride-hailing leader to a distant third player after deprioritizing the country due to its unstable economy &lpar;Zuha Siddiqui/Rest of World&rpar;](http://www.techmeme.com/240609/p4#a240609p4)
- - [Alarming New Gas Stove Study Suggests Leaks Are Undetectable by Smell Alone     - CNET](https://www.cnet.com/news/alarming-new-study-suggests-some-gas-stove-leaks-are-undetectable-by-human-nose/#ftag=CAD590a51e)
- - [Reactions to Rivian&#39;s New R1T Truck Praise Range, Power: &#39;The Cybertruck I Wanted&#39;     - CNET](https://www.cnet.com/roadshow/news/reactions-to-rivians-new-r1t-truck-praise-range-power-the-cybertruck-i-wanted/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I’d given up, but the Snapdragon X launch may have saved Windows on Arm](https://www.androidauthority.com/snapdragon-x-launch-strategy-3448676/)
+ - [Smartphones May Affect Sleep—but Not Because of Blue Light](https://www.wired.com/story/blue-light-smartphone-screen-sleep/)
+ - [An AI PC you’ll want to tinker with](https://www.theverge.com/24173628/ai-pc-raspberry-pi-hit-man-rivian-chromatic-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
