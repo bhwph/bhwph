@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
- - 😝 [I wonder why....](http://9gag.com/gag/a2vYA8d)
- - 👉 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
+ - 😝 [Trust me, I&#39;m a engineer](http://9gag.com/gag/aAyrLAg)
+ - 👉 [A group of psychiatrists studied 400 movies and identified 126 psychopathic characters. They chose Javier Bardem in \u201cNo Country for Old Men\u201d as the most clinically accurate portrayal of a psychopath.](http://9gag.com/gag/axyZ8Ln)<!-- MEMES:END -->
 
 --- 
 
