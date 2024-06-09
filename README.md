@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 will continue to crib from Android with app locking system, dark home screen icons](https://www.androidauthority.com/ios-18-app-lock-dark-icons-3449948/)
- - [My smartwatch doesn’t get me. Could AI make it better?](https://www.androidauthority.com/ai-smartwatch-please-3448910/)
- - [Keychron Q1 HE Review: Hall Effect Goes Mainstream](https://www.wired.com/review/keychron-q1-he/)<!-- TECH:END -->
+ - [Motorola Moto G 5G &lpar;2024&rpar; review: Should you buy it?](https://www.androidauthority.com/motorola-moto-g-5g-2024-review-3435427/)
+ - [Xbox Games Showcase 2024: all the news, trailers, and announcements](https://www.theverge.com/24173601/xbox-games-showcase-june-2024-microsoft)
+ - [7 Ways Gen Zers and Boomers Spend Money Differently. Who&#39;s Saving More?     - CNET](https://www.cnet.com/personal-finance/boomers-love-saying-back-in-my-day-it-was-cheaper-but-was-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
