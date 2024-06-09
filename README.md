@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ryanair do not land, they arrive](http://9gag.com/gag/awyK8ex)
+ - 6️⃣ [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
  - 😝 [I wonder why....](http://9gag.com/gag/a2vYA8d)
- - 👉 [And just like that\u2026.](http://9gag.com/gag/ary40eK)<!-- MEMES:END -->
+ - 👉 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)<!-- MEMES:END -->
 
 --- 
 
