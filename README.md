@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Indiana Jones Game Trailer Nails The Feel Of The Movies](https://kotaku.com/indiana-jones-great-circle-bethedsa-trailer-2025-xbox-1851528889)
- - [Is it just me, or do the newly revealed companions of Dragon Age: The Veilguard look like they&#39;re in a hero shooter?](https://www.pcgamer.com/games/dragon-age/is-it-just-me-or-do-the-newly-revealed-companions-of-dragon-age-the-veilguard-look-like-theyre-in-a-hero-shooter)
- - [The Fable reboot is coming in 2025 and it&#39;s looking more British than ever](https://www.pcgamer.com/games/rpg/the-fable-reboot-is-coming-in-2025-and-its-looking-more-british-than-ever)<!-- GAME:END -->
+ - [Sneak past, shoot through, or throw rats at your foes in Fallen Aces, a bloody and creative FPS that is coming out next week](https://www.pcgamer.com/games/fps/sneak-past-shoot-through-or-throw-rats-at-your-foes-in-fallen-aces-a-bloody-and-creative-fps-that-is-coming-out-next-week)
+ - [Call of Duty: Black Ops 6&#39;s new &#39;Omnimovement&#39; could be CoD&#39;s best &lpar;or worst&rpar; idea of all time](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6s-new-omnimovement-could-be-cods-best-or-worst-idea-of-all-time)
+ - [Sci-fi stealth action game Steel Seed teases some of the story underneath the bloody combat in a new trailer](https://www.pcgamer.com/games/action/sci-fi-stealth-action-game-steel-seed-teases-some-of-the-story-underneath-the-bloody-combat-in-a-new-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
