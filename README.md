@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best games like XCOM to play right now](https://www.polygon.com/what-to-play/24170442/best-games-like-xcom-turn-based-tactics)
- - [How to watch the Xbox Games Showcase 2024](https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-xbox-games-showcase-2024)
- - [Today&#39;s Wordle answer for Sunday, June 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-9-2024)<!-- GAME:END -->
+ - [Prepping For Shadow Of The Erdtree, Stealing In FF7 Rebirth, And More Tips For The Week](https://kotaku.com/elden-ring-xdefiant-ff7-rebirth-steal-morph-1851526253)
+ - [Like Scavengers Reign? Here’s some of the show’s influences to explore](https://www.polygon.com/what-to-watch/24173761/scavengers-reign-influences-inspirations-more-like-shows-miyazaki)
+ - [The best games like XCOM to play right now](https://www.polygon.com/what-to-play/24170442/best-games-like-xcom-turn-based-tactics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
