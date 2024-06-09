@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [4 Israeli hostages were rescued by the IDF special forces in a super complicated operation, inside highly populated area in central Gaza](http://9gag.com/gag/aLnPVzA)
- - 😝 [No way. where is my straw?](http://9gag.com/gag/azxEoRz)
- - 👉 [Welcome back guys, we will try to bring the others as well.](http://9gag.com/gag/aPA4z1B)<!-- MEMES:END -->
+ - 6️⃣ [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
+ - 😝 [Ok, it seems legit](http://9gag.com/gag/aKGPNLb)
+ - 👉 [Thee exes to go then ...](http://9gag.com/gag/a5QPxbL)<!-- MEMES:END -->
 
 --- 
 
