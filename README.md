@@ -128,8 +128,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [The first Tales of the TMNT trailer reveals an August 9th release](https://www.theverge.com/2024/6/8/24174515/tales-of-the-teenage-mutant-ninja-turtles-trailer-paramount-plus)
- - [Did an in-game MLB interview cause a player to miss a catch?](https://www.theverge.com/2024/6/8/24174447/mlb-baseball-in-game-interview-live-apple-tv-kike-hernandez-dodgers-yankees)
- - [CBRE: India is on track to add up to 850 MW of data center capacity by the end of 2026, outpacing South Korea at 495 MW and Japan at 407 MW over the same period &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240608/p8#a240608p8)<!-- TECH:END -->
+ - [The Best Horror Films on Prime Video to Watch Right Now     - CNET](https://www.cnet.com/tech/services-and-software/the-best-horror-films-on-prime-video-june-2024/#ftag=CAD590a51e)
+ - [Did an in-game MLB interview cause a player to miss a catch?](https://www.theverge.com/2024/6/8/24174447/mlb-baseball-in-game-interview-live-apple-tv-kike-hernandez-dodgers-yankees)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
