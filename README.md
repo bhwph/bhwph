@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 best demos I tried from the Wholesome Games showcase](https://www.pcgamer.com/games/sim/the-5-best-demos-from-the-wholesome-games-showcase)
- - [One of my favorite games from this year&#39;s summer showcases, a peaceful adventure where you explore a desert planet in a beat up van, has a demo available right now](https://www.pcgamer.com/games/adventure/one-of-my-favorite-games-from-this-years-summer-showcases-a-peaceful-adventure-where-you-explore-a-desert-planet-in-a-beat-up-van-has-a-demo-available-right-now)
- - [The official Starship Troopers co-op shooter has a full release date, Casper Van Dien, and a miraculous-sounding corpse pile-up system: &#39;No other game has been able to achieve persistent death at the scale we&#39;re doing&#39;](https://www.pcgamer.com/games/action/the-official-starship-troopers-co-op-shooter-has-a-full-release-date-casper-van-dien-and-a-miraculous-sounding-corpse-pile-up-system-no-other-game-has-been-able-to-achieve-persistent-death-at-the-scale-were-doing)<!-- GAME:END -->
+ - [Horror-shooter The Thing is being remastered by Nightdive](https://www.pcgamer.com/games/horror-shooter-the-thing-is-being-remastered-by-nightdive)
+ - [After Vampire: The Masquerade – Bloodlines, Tim Cain worked up a proposal for a Troika RPG based on Conan](https://www.pcgamer.com/games/rpg/after-vampire-the-masquerade-bloodlines-tim-cain-worked-up-a-proposal-for-a-troika-rpg-based-on-conan)
+ - [Here&#39;s the trailer for Abyss X Zero, a 3D metroidvania that goes full anime](https://www.pcgamer.com/games/action/heres-the-trailer-for-abyss-x-zero-a-3d-metroidvania-that-goes-full-anime)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
