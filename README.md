@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go Goomy Community Day guide](https://www.polygon.com/pokemon-go-guide/2024/6/8/24173718/goomy-community-day-shiny-sliggoo-goodra)
  - [Horror-shooter The Thing is being remastered by Nightdive](https://www.pcgamer.com/games/horror-shooter-the-thing-is-being-remastered-by-nightdive)
- - [After Vampire: The Masquerade – Bloodlines, Tim Cain worked up a proposal for a Troika RPG based on Conan](https://www.pcgamer.com/games/rpg/after-vampire-the-masquerade-bloodlines-tim-cain-worked-up-a-proposal-for-a-troika-rpg-based-on-conan)
- - [Here&#39;s the trailer for Abyss X Zero, a 3D metroidvania that goes full anime](https://www.pcgamer.com/games/action/heres-the-trailer-for-abyss-x-zero-a-3d-metroidvania-that-goes-full-anime)<!-- GAME:END -->
+ - [After Vampire: The Masquerade – Bloodlines, Tim Cain worked up a proposal for a Troika RPG based on Conan](https://www.pcgamer.com/games/rpg/after-vampire-the-masquerade-bloodlines-tim-cain-worked-up-a-proposal-for-a-troika-rpg-based-on-conan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
