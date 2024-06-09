@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
- - 😝 [Ok, it seems legit](http://9gag.com/gag/aKGPNLb)
- - 👉 [Thee exes to go then ...](http://9gag.com/gag/a5QPxbL)<!-- MEMES:END -->
+ - 6️⃣ [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
+ - 😝 [Wtf](http://9gag.com/gag/avygXBE)
+ - 👉 [What will u slap her from?](http://9gag.com/gag/a2vY9zD)<!-- MEMES:END -->
 
 --- 
 
