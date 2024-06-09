@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best games like XCOM to play right now](https://www.polygon.com/what-to-play/24170442/best-games-like-xcom-turn-based-tactics)
  - [How to watch the Xbox Games Showcase 2024](https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-xbox-games-showcase-2024)
- - [Today&#39;s Wordle answer for Sunday, June 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-9-2024)
- - [A mod has finally given New Vegas the more cinematic VATS visuals of Fallout 3](https://www.pcgamer.com/games/rpg/a-mod-has-finally-given-new-vegas-the-more-cinematic-vats-visuals-of-fallout-3)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, June 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-9-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
