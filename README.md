@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
- - 😝 [Dude just earned the right to keep that dog](http://9gag.com/gag/aBy3NnP)
- - 👉 [Duhhh](http://9gag.com/gag/ary4rj6)<!-- MEMES:END -->
+ - 6️⃣ [Ryanair do not land, they arrive](http://9gag.com/gag/awyK8ex)
+ - 😝 [I wonder why....](http://9gag.com/gag/a2vYA8d)
+ - 👉 [And just like that\u2026.](http://9gag.com/gag/ary40eK)<!-- MEMES:END -->
 
 --- 
 
