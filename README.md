@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Moto G 5G &lpar;2024&rpar; review: Should you buy it?](https://www.androidauthority.com/motorola-moto-g-5g-2024-review-3435427/)
- - [Xbox Games Showcase 2024: all the news, trailers, and announcements](https://www.theverge.com/24173601/xbox-games-showcase-june-2024-microsoft)
- - [7 Ways Gen Zers and Boomers Spend Money Differently. Who&#39;s Saving More?     - CNET](https://www.cnet.com/personal-finance/boomers-love-saying-back-in-my-day-it-was-cheaper-but-was-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to fully restore a 10th generation Mac mini to like-new condition](https://appleinsider.com/inside/mac-mini/tips/how-to-fully-restore-a-10th-generation-mac-mini-to-like-new-condition?utm_medium=rss)
+ - [Microsoft Flight Simulator 2024 launches on November 19th](https://www.theverge.com/2024/6/9/24173672/microsoft-flight-simulator-2024-november-19th-release-date-trailer)
+ - [Xbox’s new Fable game is coming in 2025](https://www.theverge.com/2024/6/9/24173655/xbox-fable-game-release-date-2025-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
