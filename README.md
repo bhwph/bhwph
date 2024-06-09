@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Goomy Community Day guide](https://www.polygon.com/pokemon-go-guide/2024/6/8/24173718/goomy-community-day-shiny-sliggoo-goodra)
- - [Horror-shooter The Thing is being remastered by Nightdive](https://www.pcgamer.com/games/horror-shooter-the-thing-is-being-remastered-by-nightdive)
- - [After Vampire: The Masquerade – Bloodlines, Tim Cain worked up a proposal for a Troika RPG based on Conan](https://www.pcgamer.com/games/rpg/after-vampire-the-masquerade-bloodlines-tim-cain-worked-up-a-proposal-for-a-troika-rpg-based-on-conan)<!-- GAME:END -->
+ - [How to watch the Xbox Games Showcase 2024](https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-xbox-games-showcase-2024)
+ - [Today&#39;s Wordle answer for Sunday, June 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-9-2024)
+ - [A mod has finally given New Vegas the more cinematic VATS visuals of Fallout 3](https://www.pcgamer.com/games/rpg/a-mod-has-finally-given-new-vegas-the-more-cinematic-vats-visuals-of-fallout-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
