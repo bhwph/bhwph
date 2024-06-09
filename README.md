@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
- - 😝 [Trust me, I&#39;m a engineer](http://9gag.com/gag/aAyrLAg)
- - 👉 [A group of psychiatrists studied 400 movies and identified 126 psychopathic characters. They chose Javier Bardem in \u201cNo Country for Old Men\u201d as the most clinically accurate portrayal of a psychopath.](http://9gag.com/gag/axyZ8Ln)<!-- MEMES:END -->
+ - 6️⃣ [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
+ - 😝 [Brazil.exe](http://9gag.com/gag/ae90PA5)
+ - 👉 [Duhhh](http://9gag.com/gag/ary4rj6)<!-- MEMES:END -->
 
 --- 
 
