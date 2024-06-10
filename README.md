@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gunboat God is a hectic seafaring shoot &#39;em up with Cuphead and Luftrausers vibes](https://www.pcgamer.com/games/action/gunboat-god-is-a-hectic-seafaring-shoot-em-up-with-cuphead-and-luftrausers-vibes)
- - [&#39;Grow your cult… with your friends&#39;: Worship&#39;s new trailer shows off how much chaos you can cause in this dark roguelike](https://www.pcgamer.com/games/rpg/grow-your-cult-with-your-friends-worships-new-trailer-shows-off-how-much-chaos-you-can-cause-in-this-dark-roguelike)
- - [Dead Cells developer shows off upcoming roguelite Windblown and its stylish, fast-paced 3 player co-op](https://www.pcgamer.com/games/roguelike/dead-cells-developer-shows-off-upcoming-roguelite-windblown-and-its-stylish-fast-paced-3-player-co-op)<!-- GAME:END -->
+ - [This Was The Best Xbox Showcase In Years &lpar;And The Hardest To Root For&rpar;](https://kotaku.com/xbox-showcase-summer-game-fest-layoffs-shutdown-tango-1851529002)
+ - [Age of Mythology: Retold will be out in September and is coming to Game Pass day one](https://www.pcgamer.com/games/rts/age-of-mythology-retold-will-be-out-in-september-and-is-coming-to-game-pass-day-one)
+ - [The new Making of Original Dungeons &amp; Dragons book is a vital piece of gaming history](https://www.pcgamer.com/games/board-games/the-new-making-of-original-dungeons-and-dragons-book-is-a-vital-piece-of-gaming-history)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
