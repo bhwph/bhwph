@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A new Anno city builder is coming in 2025, this time set in Ancient Rome](https://www.pcgamer.com/games/city-builder/a-new-anno-city-builder-is-coming-in-2025-this-time-set-in-ancient-rome)
- - [Rya’s questline walkthrough and steps in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24168693/rya-questline-necklace-zorayas-serpent-amnion-tonic-of-forgetfulness-choice)
- - [Assassin&#39;s Creed Shadows has the best-looking AC combat in ages, and I love that you can crawl through grass](https://www.pcgamer.com/games/rpg/assassins-creed-shadows-previwe-summer-game-fest-2024)<!-- GAME:END -->
+ - [Flintlock: The Siege of Dawn Arrives on July 18 – Learn More About the &lpar;Literally&rpar; Explosive Souls-lite](https://news.xbox.com/en-us/2024/06/10/flintlock-the-siege-of-dawn-arrives-on-july-18/)
+ - [Metal Gear Solid Delta hints at a future for the series](https://www.polygon.com/24175632/metal-gear-solid-3-remake-delta-konami-future-games)
+ - [Vile treachery: When you &#39;ran&#39; on the Citadel in Mass Effect, it just changed the FOV to make it look like you were going faster](https://www.pcgamer.com/games/rpg/vile-treachery-when-you-ran-on-the-citadel-in-mass-effect-it-just-changed-the-fov-to-make-it-look-like-you-were-going-faster)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
