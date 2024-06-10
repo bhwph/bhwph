@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCOTUS declines to question the FCC&#39;s $8B annual subsidy to help cover telecom costs for poor people and residents of rural area, turning away two appeals &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/240610/p9#a240610p9)
- - [Steve Jobs screamed advice at Starbucks CEO, who wishes he&#39;d listened](https://appleinsider.com/articles/24/06/10/steve-jobs-screamed-advice-at-starbucks-ceo-who-wishes-hed-listened?utm_medium=rss)
- - [8 Best Smart Bulbs &lpar;2024&rpar;: Color, Ambient, Filament, and More](https://www.wired.com/gallery/best-smart-bulbs/)<!-- TECH:END -->
+ - [Galaxy S24, S23 are now starting to receive June 2024 update in the US](https://www.androidauthority.com/galaxy-s24-s23-june-2024-update-3450091/)
+ - [Mandiant, which is helping Snowflake investigate its recent cyber attacks, says the two companies have notified ~165 organizations of potential exposure &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240610/p12#a240610p12)
+ - [&#39;Resident Evil 7: Biohazard&#39; coming to iPad, iPhone, and Mac](https://appleinsider.com/articles/24/06/10/resident-evil-7-biohazard-coming-to-ipad-iphone-and-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
