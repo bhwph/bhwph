@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What is the proper way to make an entry? ` Ohh, the two dudes in front of me got shot. I better go in, too.`](http://9gag.com/gag/a5QP9xo)
- - 😝 [Nope](http://9gag.com/gag/aRBP8W5)
- - 👉 [The story behind this assassination is insane. Apparently the assassins didn\u2019t know they were killing somebody. They were hired to do pranks for a YouTube channel, a channel created by North Korean intel.](http://9gag.com/gag/aZZx5BW)<!-- MEMES:END -->
+ - 6️⃣ [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
+ - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
+ - 👉 [California Round Stingray](http://9gag.com/gag/aD23LrG)<!-- MEMES:END -->
 
 --- 
 
