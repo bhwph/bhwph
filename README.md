@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dealroom analysis of European startups: as of May 2024, the UK had 785 startups with at least $25M of annual revenue, France had 309, and Germany had 255 &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240610/p3#a240610p3)
- - [Your Apple Watch is Probably Pretty Gross. Here&#39;s How to Clean It     - CNET](https://www.cnet.com/tech/your-apple-watch-is-probably-pretty-gross-heres-how-to-clean-it/#ftag=CAD590a51e)
- - [Human Rights Watch finds LAION-5B AI training dataset scraped 170+ images and personal info of Brazilian children without consent; LAION pledges to remove them &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240610/p2#a240610p2)<!-- TECH:END -->
+ - [Xbox boss: ‘I think we should have a handheld, too’](https://www.theverge.com/2024/6/10/24175149/xbox-handheld-phil-spencer-interview-2024)
+ - [Samsung might not wait for Unpacked to launch the Galaxy Watch FE](https://www.androidauthority.com/galaxy-watch-fe-launch-date-3449991/)
+ - [Xbox chief confirms more games are coming to other platforms](https://www.theverge.com/2024/6/10/24174977/xbox-phil-spencer-games-ps5-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
