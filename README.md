@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Say what?](http://9gag.com/gag/a5QPg1o)
- - 😝 [German green party lost almost half their voters in the EU elections - Look at their faces!](http://9gag.com/gag/ajP0vZQ)
- - 👉 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)<!-- MEMES:END -->
+ - 6️⃣ [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
+ - 😝 [Took him 5 years](http://9gag.com/gag/avygqM5)
+ - 👉 [Russel](http://9gag.com/gag/aQz4KOW)<!-- MEMES:END -->
 
 --- 
 
