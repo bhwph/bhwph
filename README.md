@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Salvation&#39;s Edge loot table: Find out who drops what in the new raid](https://www.pcgamer.com/games/fps/destiny-2-salvations-edge-loot-table)
- - [Microsoft makes Recall an optional feature on Copilot+ PCs after it &#39;heard a clear signal&#39; from the public](https://www.pcgamer.com/software/operating-systems/microsoft-makes-recall-an-optional-feature-on-copilot-pcs-after-it-heard-a-clear-signal-from-the-public)
- - [Has Dragon Age lost its identity, or am I just being grumpy about BioWare’s new take on it?](https://www.pcgamer.com/games/rpg/has-dragon-age-lost-its-identity-or-am-i-just-being-grumpy-about-biowares-new-take-on-it)<!-- GAME:END -->
+ - [Destiny 2 The Call god roll guide: Best perks, barrels, and magazines](https://www.pcgamer.com/games/fps/destiny-2-the-call-god-roll-guide-best-perks-barrels-and-magazines)
+ - [An Extremely Goofy Movie’s shippy TikToks are missing out on Beret Girl](https://www.polygon.com/24173133/an-extremely-goofy-movie-tiktok-maxley-ship-beret-girl)
+ - [A beginner&#39;s guide to The Elder Scrolls Online in 2024](https://www.pcgamer.com/games/mmo/a-beginners-guide-to-the-elder-scrolls-online-in-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
