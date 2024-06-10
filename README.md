@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 adds pets to the game, and they’ll pick up your gold and gems](https://www.polygon.com/24175495/diablo-4-pets-vessel-of-hatred-expansion-snow-leopard-tiger-husky)
- - [Nine Things We Learned From The Big Phil Spencer Xbox Interview](https://kotaku.com/xbox-phil-spencer-layoffs-handheld-interview-ign-doom-1851530093)
- - [All Visions of the Traveler locations in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24175282/visions-traveler-locations-where-to-find)<!-- GAME:END -->
+ - [A new Anno city builder is coming in 2025, this time set in Ancient Rome](https://www.pcgamer.com/games/city-builder/a-new-anno-city-builder-is-coming-in-2025-this-time-set-in-ancient-rome)
+ - [Rya’s questline walkthrough and steps in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24168693/rya-questline-necklace-zorayas-serpent-amnion-tonic-of-forgetfulness-choice)
+ - [Assassin&#39;s Creed Shadows has the best-looking AC combat in ages, and I love that you can crawl through grass](https://www.pcgamer.com/games/rpg/assassins-creed-shadows-previwe-summer-game-fest-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
