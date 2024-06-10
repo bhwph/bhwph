@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
- - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
- - 👉 [California Round Stingray](http://9gag.com/gag/aD23LrG)<!-- MEMES:END -->
+ - 6️⃣ [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
+ - 😝 [In Marseille, a young man got out of his car and calmly subdued a violent individual in front of two municipal policewomen who tried to stop him on Boulevard de la Lib\u00e9ration, saying: `Madame, shall I catch him for you?`](http://9gag.com/gag/a5QPg0L)
+ - 👉 [I&#39;ve seen a lot of Karaoke videos lately so thought of this](http://9gag.com/gag/abAyoXL)<!-- MEMES:END -->
 
 --- 
 
