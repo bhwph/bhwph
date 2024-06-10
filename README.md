@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The ultimate Ultima retrospective series has now covered Ultima 4 and Ultima 5](https://www.pcgamer.com/games/rpg/the-ultimate-ultima-retrospective-series-has-now-covered-ultima-4-and-ultima-5)
- - [Today&#39;s Wordle answer for Monday, June 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-10-2024)
- - [The next Call of Duty will yet again require a constant internet connection to play the singleplayer campaign on PC, and for the first time on console as well](https://www.pcgamer.com/games/fps/the-next-call-of-duty-will-yet-again-require-a-constant-internet-connection-to-play-the-singleplayer-campaign-on-pc-and-for-the-first-time-on-console-as-well)<!-- GAME:END -->
+ - [Destiny 2 Salvation&#39;s Edge loot table: Find out who drops what in the new raid](https://www.pcgamer.com/games/fps/destiny-2-salvations-edge-loot-table)
+ - [Microsoft makes Recall an optional feature on Copilot+ PCs after it &#39;heard a clear signal&#39; from the public](https://www.pcgamer.com/software/operating-systems/microsoft-makes-recall-an-optional-feature-on-copilot-pcs-after-it-heard-a-clear-signal-from-the-public)
+ - [Has Dragon Age lost its identity, or am I just being grumpy about BioWare’s new take on it?](https://www.pcgamer.com/games/rpg/has-dragon-age-lost-its-identity-or-am-i-just-being-grumpy-about-biowares-new-take-on-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
