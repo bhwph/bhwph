@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad Promises It Won&#39;t Go Full Anthem And Abandon Its First Full Year Of Content](https://kotaku.com/suicide-squad-season-2-release-date-roadmap-freeze-1851529893)
- - [Explore a World of Wonders in Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2024/06/10/clair-obscur-expedition-33-xbox-games-showcase-2024/)
- - [Beating the heat: Huge radiators, clever heatsinks and transparent water blocks were the order of the day at Computex 2024](https://www.pcgamer.com/hardware/cooling/beating-the-heat-huge-radiators-clever-heatsinks-and-transparent-water-blocks-were-the-order-of-the-day-at-computex-2024)<!-- GAME:END -->
+ - [Diablo 4 adds pets to the game, and they’ll pick up your gold and gems](https://www.polygon.com/24175495/diablo-4-pets-vessel-of-hatred-expansion-snow-leopard-tiger-husky)
+ - [Nine Things We Learned From The Big Phil Spencer Xbox Interview](https://kotaku.com/xbox-phil-spencer-layoffs-handheld-interview-ign-doom-1851530093)
+ - [All Visions of the Traveler locations in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24175282/visions-traveler-locations-where-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
