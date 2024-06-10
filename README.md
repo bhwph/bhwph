@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox boss: ‘I think we should have a handheld, too’](https://www.theverge.com/2024/6/10/24175149/xbox-handheld-phil-spencer-interview-2024)
- - [Samsung might not wait for Unpacked to launch the Galaxy Watch FE](https://www.androidauthority.com/galaxy-watch-fe-launch-date-3449991/)
- - [Xbox chief confirms more games are coming to other platforms](https://www.theverge.com/2024/6/10/24174977/xbox-phil-spencer-games-ps5-interview)<!-- TECH:END -->
+ - [Google’s Magic Editor is now available on even more devices](https://www.androidauthority.com/magic-editor-wider-rollout-3450002/)
+ - [Frontier hackers threaten to release private data for at least 750,000 customers](https://www.theverge.com/2024/6/10/24175169/frontier-communications-hack-cyberattack-data-breach-ransom)
+ - [Apple WWDC 2024 Live Blog: All the News as It Happens](https://www.wired.com/live/apple-wwdc-2024-live-blog/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
