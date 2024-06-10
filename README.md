@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 The Call god roll guide: Best perks, barrels, and magazines](https://www.pcgamer.com/games/fps/destiny-2-the-call-god-roll-guide-best-perks-barrels-and-magazines)
- - [An Extremely Goofy Movie’s shippy TikToks are missing out on Beret Girl](https://www.polygon.com/24173133/an-extremely-goofy-movie-tiktok-maxley-ship-beret-girl)
- - [A beginner&#39;s guide to The Elder Scrolls Online in 2024](https://www.pcgamer.com/games/mmo/a-beginners-guide-to-the-elder-scrolls-online-in-2024)<!-- GAME:END -->
+ - [Suicide Squad Promises It Won&#39;t Go Full Anthem And Abandon Its First Full Year Of Content](https://kotaku.com/suicide-squad-season-2-release-date-roadmap-freeze-1851529893)
+ - [Explore a World of Wonders in Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2024/06/10/clair-obscur-expedition-33-xbox-games-showcase-2024/)
+ - [Beating the heat: Huge radiators, clever heatsinks and transparent water blocks were the order of the day at Computex 2024](https://www.pcgamer.com/hardware/cooling/beating-the-heat-huge-radiators-clever-heatsinks-and-transparent-water-blocks-were-the-order-of-the-day-at-computex-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
