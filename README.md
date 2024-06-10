@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says Messages will support RCS in iOS 18, replacing SMS as the default communication protocol between Android and iOS devices, but gives few details &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240610/p27#a240610p27)
- - [Apple unveils Apple Intelligence on macOS and iOS, with system-wide tools for writing and making &quot;totally original&quot; images, custom task orchestration, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240610/p28#a240610p28)
- - [Apple unveils Passwords, an app to let users save logins, create passwords, import passwords from third-party services, across platforms including Windows PCs &lpar;Kerry Wan/ZDNet&rpar;](http://www.techmeme.com/240610/p26#a240610p26)<!-- TECH:END -->
+ - [Genmoji will allow custom AI-created emojis in iOS 18, and might resurrect Memoji](https://appleinsider.com/articles/24/06/10/genmoji-will-allow-custom-ai-created-emojis-in-ios-18-and-might-resurrect-memoji?utm_medium=rss)
+ - [iPadOS 18 gets Math Notes, your own handwriting, and a Calculator](https://appleinsider.com/articles/24/06/10/ipados-18-gets-math-notes-your-own-handwriting-and-a-calculator?utm_medium=rss)
+ - [Here’s 12 minutes of Assassin’s Creed Shadows gameplay](https://www.theverge.com/24172151/assassins-creed-shadows-gameplay-trailer-ubisoft-forward-2024)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
