@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [California Round Stingray](http://9gag.com/gag/aD23LrG)
- - 😝 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
- - 👉 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)<!-- MEMES:END -->
+ - 6️⃣ [What is the proper way to make an entry? ` Ohh, the two dudes in front of me got shot. I better go in, too.`](http://9gag.com/gag/a5QP9xo)
+ - 😝 [Nope](http://9gag.com/gag/aRBP8W5)
+ - 👉 [The story behind this assassination is insane. Apparently the assassins didn\u2019t know they were killing somebody. They were hired to do pranks for a YouTube channel, a channel created by North Korean intel.](http://9gag.com/gag/aZZx5BW)<!-- MEMES:END -->
 
 --- 
 
