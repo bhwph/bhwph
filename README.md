@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S24, S23 are now starting to receive June 2024 update in the US](https://www.androidauthority.com/galaxy-s24-s23-june-2024-update-3450091/)
- - [Mandiant, which is helping Snowflake investigate its recent cyber attacks, says the two companies have notified ~165 organizations of potential exposure &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240610/p12#a240610p12)
- - [&#39;Resident Evil 7: Biohazard&#39; coming to iPad, iPhone, and Mac](https://appleinsider.com/articles/24/06/10/resident-evil-7-biohazard-coming-to-ipad-iphone-and-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Apple says Messages will support RCS in iOS 18, replacing SMS as the default communication protocol between Android and iOS devices, but gives few details &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240610/p27#a240610p27)
+ - [Apple unveils Apple Intelligence on macOS and iOS, with system-wide tools for writing and making &quot;totally original&quot; images, custom task orchestration, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240610/p28#a240610p28)
+ - [Apple unveils Passwords, an app to let users save logins, create passwords, import passwords from third-party services, across platforms including Windows PCs &lpar;Kerry Wan/ZDNet&rpar;](http://www.techmeme.com/240610/p26#a240610p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
