@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Genmoji will allow custom AI-created emojis in iOS 18, and might resurrect Memoji](https://appleinsider.com/articles/24/06/10/genmoji-will-allow-custom-ai-created-emojis-in-ios-18-and-might-resurrect-memoji?utm_medium=rss)
- - [iPadOS 18 gets Math Notes, your own handwriting, and a Calculator](https://appleinsider.com/articles/24/06/10/ipados-18-gets-math-notes-your-own-handwriting-and-a-calculator?utm_medium=rss)
- - [Here’s 12 minutes of Assassin’s Creed Shadows gameplay](https://www.theverge.com/24172151/assassins-creed-shadows-gameplay-trailer-ubisoft-forward-2024)<!-- TECH:END -->
+ - [During an interview, Craig Federighi says Apple looks forward to &quot;doing integrations&quot; with other AI models, including Google Gemini, &quot;in the future&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240610/p35#a240610p35)
+ - [Elon Musk yells at Apple over ChatGPT: Threatens to ban iPhones at Tesla, X](https://www.androidauthority.com/apple-chatgpt-elon-musk-3450357/)
+ - [Elon Musk&#39;s latest anti-Apple tirade is about a ChatGPT feature that doesn&#39;t exist](https://appleinsider.com/articles/24/06/10/elon-musks-latest-anti-apple-tirade-is-about-a-chatgpt-feature-that-doesnt-exist?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
