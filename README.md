@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Perfection](http://9gag.com/gag/apR0wy9)
- - 😝 [Transaction of the century](http://9gag.com/gag/aPA4LRg)
- - 👉 [Finely a movement that is really a movement!](http://9gag.com/gag/aBy3e0O)<!-- MEMES:END -->
+ - 6️⃣ [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
+ - 😝 [If it&#39;s black...](http://9gag.com/gag/aKGPMd1)
+ - 👉 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)<!-- MEMES:END -->
 
 --- 
 
