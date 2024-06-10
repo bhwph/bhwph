@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Magic Editor is now available on even more devices](https://www.androidauthority.com/magic-editor-wider-rollout-3450002/)
- - [Frontier hackers threaten to release private data for at least 750,000 customers](https://www.theverge.com/2024/6/10/24175169/frontier-communications-hack-cyberattack-data-breach-ransom)
- - [Apple WWDC 2024 Live Blog: All the News as It Happens](https://www.wired.com/live/apple-wwdc-2024-live-blog/)<!-- TECH:END -->
+ - [Nokia CEO Pekka Lundmark made a phone call using new &quot;immersive audio and video&quot; tech that uses 3D sound on a 5G smartphone, as part of the 5G Advanced standard &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/240610/p6#a240610p6)
+ - [Which iPhone models are needed to run iOS 18](https://appleinsider.com/articles/24/06/10/which-iphone-models-are-needed-to-run-ios-18?utm_medium=rss)
+ - [Apple’s AI opportunity is all about the big picture](https://www.theverge.com/2024/6/10/24171615/apple-ai-siri-wwdc-2024)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
