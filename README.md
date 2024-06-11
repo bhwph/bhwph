@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech execs and experts say Arm and Qualcomm&#39;s contract dispute could halt the shipment of new Arm-based PCs; the trial is scheduled to begin in December 2024 &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240611/p4#a240611p4)
- - [Hidden feature: You can change the iPhone flashlight’s radius on iOS 18](https://www.androidauthority.com/apple-ios-18-change-flashlight-radius-3450452/)
- - [Zero-knowledge cryptography firm Nexus Labs raised a $25M Series A co-led by Lightspeed Venture Partners and Pantera Capital &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240611/p3#a240611p3)<!-- TECH:END -->
+ - [UAE-based Tenderd, which uses AI to help reduce emissions, raised $30M led by Danish firm A.P. Moller, following a Peter Thiel-backed $5.8M seed in 2019 &lpar;Fahad Abuljadayel/Bloomberg&rpar;](http://www.techmeme.com/240611/p8#a240611p8)
+ - [The Titan Submersible Disaster Shocked the World. The Exclusive Inside Story Is More Disturbing Than Anyone Imagined](https://www.wired.com/story/titan-submersible-disaster-inside-story-oceangate-files/)
+ - [Apple details two Apple Intelligence models: a ~3B parameter on-device language model and a larger server-based model available with Private Cloud Compute &lpar;Apple Machine Learning Research&rpar;](http://www.techmeme.com/240611/p7#a240611p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
