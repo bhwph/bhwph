@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
- - 😝 [If it&#39;s black...](http://9gag.com/gag/aKGPMd1)
- - 👉 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)<!-- MEMES:END -->
+ - 6️⃣ [That one friend who doesn&#39;t take anything seriously.](http://9gag.com/gag/aW4W5XA)
+ - 😝 [When the game&#39;s AI is playing with you. A 10-year old game w/ better AI than today&#39;s releases.](http://9gag.com/gag/aE014x9)
+ - 👉 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)<!-- MEMES:END -->
 
 --- 
 
