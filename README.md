@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s fine](http://9gag.com/gag/aYQWX4w)
- - 😝 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
- - 👉 [California Round Stingray](http://9gag.com/gag/aD23LrG)<!-- MEMES:END -->
+ - 6️⃣ [The perfect keychain doesn&#39;t exi...](http://9gag.com/gag/aAyrzMp)
+ - 😝 [That one friend who doesn&#39;t take anything seriously.](http://9gag.com/gag/aW4W5XA)
+ - 👉 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)<!-- MEMES:END -->
 
 --- 
 
