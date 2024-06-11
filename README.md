@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
- - 😝 [Don&#39;t let Spidey down. Hold nothing back.](http://9gag.com/gag/aAyrz5L)
- - 👉 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)<!-- MEMES:END -->
+ - 6️⃣ [Finger painting](http://9gag.com/gag/aYQW0O7)
+ - 😝 [Be Honest](http://9gag.com/gag/amo04nX)
+ - 👉 [Don&#39;t stop me now](http://9gag.com/gag/aD23eOO)<!-- MEMES:END -->
 
 --- 
 
