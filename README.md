@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s new with macOS Sequoia&#39;s System Settings](https://appleinsider.com/articles/24/06/11/whats-new-with-macos-sequoias-system-settings?utm_medium=rss)
- - [Sources: Spotify plans to launch a higher-priced premium monthly plan later in 2024, charging $5+ more for better audio, playlist and library tools, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240611/p12#a240611p12)
- - [iOS 18 Passwords app can&#39;t import passwords, but macOS can](https://appleinsider.com/articles/24/06/11/ios-18-passwords-app-cant-import-passwords-but-macos-can?utm_medium=rss)<!-- TECH:END -->
+ - [Zack Snyder’s Rebel Moon director’s cut hits Netflix in August](https://www.theverge.com/2024/6/11/24176041/zack-snyder-rebel-moon-directors-cut-netflix-date)
+ - [Canon&#39;s RF-S dual fisheye lens will help produce Apple Vision Pro video](https://appleinsider.com/articles/24/06/11/canons-rf-s-dual-fisheye-lens-will-help-produce-apple-vision-pro-video?utm_medium=rss)
+ - [15 Best Soundbars, Editor Tested and Reviewed &lpar;2024&rpar;: Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
