@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
- - 😝 [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
- - 👉 [Don&#39;t stop me now](http://9gag.com/gag/aD23eOO)<!-- MEMES:END -->
+ - 6️⃣ [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
+ - 😝 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
+ - 👉 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)<!-- MEMES:END -->
 
 --- 
 
