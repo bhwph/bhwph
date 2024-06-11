@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zack Snyder’s Rebel Moon director’s cut hits Netflix in August](https://www.theverge.com/2024/6/11/24176041/zack-snyder-rebel-moon-directors-cut-netflix-date)
- - [Canon&#39;s RF-S dual fisheye lens will help produce Apple Vision Pro video](https://appleinsider.com/articles/24/06/11/canons-rf-s-dual-fisheye-lens-will-help-produce-apple-vision-pro-video?utm_medium=rss)
- - [15 Best Soundbars, Editor Tested and Reviewed &lpar;2024&rpar;: Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
+ - [US Leaders Dodge Questions About Israel’s Influence Campaign](https://www.wired.com/story/israel-us-disinformation-us-lawmakers/)
+ - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)
+ - [Best Google Pixel Phone &lpar;2024&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
