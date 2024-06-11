@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s new Ryzen AI laptop chips aren&#39;t officially supported on Windows 10, thanks to its NPU and Copilot+](https://www.pcgamer.com/hardware/processors/amds-new-ryzen-ai-laptop-chips-arent-officially-supported-on-windows-10-thanks-to-its-npu-and-copilot)
- - [Fresh rumours claim Nvidia&#39;s next-gen Blackwell cards won&#39;t have a wider memory bus or more VRAM—apart from the RTX 5090](https://www.pcgamer.com/hardware/graphics-cards/fresh-rumours-claim-nvidias-next-gen-blackwell-cards-wont-have-a-wider-memory-bus-or-more-vramapart-from-the-rtx-5090)
- - [What time does Helldivers 2’s Viper Commandos Warbond release?](https://www.polygon.com/guides/2024/6/11/24175596/helldivers-2-viper-commandos-warbond-start-time-release-dat)<!-- GAME:END -->
+ - [The case for rewatching The Boys before season 4](https://www.polygon.com/24173211/rewatch-the-boys-season-3-4-what-know-gen-v)
+ - [Almost Two-Thirds Of PC Players Aren&#39;t Ready For Elden Ring DLC](https://kotaku.com/elden-ring-shadow-erdtree-dlc-mogh-achievement-1851531884)
+ - [Fans are afraid they&#39;ll turn Snake into a walking corpse after Konami announces that any injuries will &#39;leave their mark permanently&#39;](https://www.pcgamer.com/games/action/fans-are-afraid-theyll-turn-snake-into-a-walking-corpse-after-konami-announces-that-any-injuries-will-leave-their-mark-permanently)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
