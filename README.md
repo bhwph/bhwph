@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UAE-based Tenderd, which uses AI to help reduce emissions, raised $30M led by Danish firm A.P. Moller, following a Peter Thiel-backed $5.8M seed in 2019 &lpar;Fahad Abuljadayel/Bloomberg&rpar;](http://www.techmeme.com/240611/p8#a240611p8)
- - [The Titan Submersible Disaster Shocked the World. The Exclusive Inside Story Is More Disturbing Than Anyone Imagined](https://www.wired.com/story/titan-submersible-disaster-inside-story-oceangate-files/)
- - [Apple details two Apple Intelligence models: a ~3B parameter on-device language model and a larger server-based model available with Private Cloud Compute &lpar;Apple Machine Learning Research&rpar;](http://www.techmeme.com/240611/p7#a240611p7)<!-- TECH:END -->
+ - [What&#39;s new with macOS Sequoia&#39;s System Settings](https://appleinsider.com/articles/24/06/11/whats-new-with-macos-sequoias-system-settings?utm_medium=rss)
+ - [Sources: Spotify plans to launch a higher-priced premium monthly plan later in 2024, charging $5+ more for better audio, playlist and library tools, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240611/p12#a240611p12)
+ - [iOS 18 Passwords app can&#39;t import passwords, but macOS can](https://appleinsider.com/articles/24/06/11/ios-18-passwords-app-cant-import-passwords-but-macos-can?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
