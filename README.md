@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Flintlock: The Siege of Dawn Arrives on July 18 – Learn More About the &lpar;Literally&rpar; Explosive Souls-lite](https://news.xbox.com/en-us/2024/06/10/flintlock-the-siege-of-dawn-arrives-on-july-18/)
- - [Metal Gear Solid Delta hints at a future for the series](https://www.polygon.com/24175632/metal-gear-solid-3-remake-delta-konami-future-games)
- - [Vile treachery: When you &#39;ran&#39; on the Citadel in Mass Effect, it just changed the FOV to make it look like you were going faster](https://www.pcgamer.com/games/rpg/vile-treachery-when-you-ran-on-the-citadel-in-mass-effect-it-just-changed-the-fov-to-make-it-look-like-you-were-going-faster)<!-- GAME:END -->
+ - [XDefiant will get team deathmatch in &#39;a couple weeks&#39; because we hassled them about it lots](https://www.pcgamer.com/games/fps/xdefiant-will-get-team-deathmatch-in-a-couple-weeks-because-we-hassled-them-about-it-lots)
+ - [Star Wars Outlaws Is The First Canonical Appearance Of A Video Game In The Franchise](https://kotaku.com/star-wars-outlaws-video-game-arcade-canon-ubisoft-gamer-1851531170)
+ - [One of my top early access games is finally getting a second level: a 3-hour underground factory-city with an overhauled, Thief-style stealth system, a new RPG hub area, and an explanation for where all those FPS crates come from](https://www.pcgamer.com/games/fps/one-of-my-top-early-access-games-is-finally-getting-a-second-level-a-3-hour-underground-factory-city-with-an-overhauled-thief-style-stealth-system-a-new-rpg-hub-area-and-an-explanation-for-where-all-those-fps-crates-come-from)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
