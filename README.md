@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [5 Things You Need to Know About Wuchang: Fallen Feathers](https://news.xbox.com/en-us/2024/06/11/5-things-you-need-to-know-about-wuchang-fallen-feathers/)
- - [Dune: War for Arrakis board game owes its success in part due to The Lord of the Rings](https://www.polygon.com/reviews/24173979/dune-war-for-arrakis-review-best-board-games-2024)
- - [Life Is Strange: Double Exposure Brings Back the Series’ Original Star for a Supernatural Murder Mystery](https://news.xbox.com/en-us/2024/06/11/life-is-strange-double-exposure-reveal-xbox-showcase-2024/)<!-- GAME:END -->
+ - [Why’s the Pacific Northwest always so creepy?](https://www.polygon.com/videos/2024/6/11/24173796/pacific-northwest-creepy-weird-video)
+ - [Star Wars Outlaws Hands-On: Good Gameplay, Wonderful World](https://kotaku.com/star-wars-outlaws-hands-on-gameplay-impressions-1851532894)
+ - [Kunitsu-Gami: Path Of The Goddess Is An Incredibly Clever Strategy Mash-Up I Can&#39;t Wait To Return To](https://kotaku.com/kunitsu-gami-path-goddess-tower-defense-hands-on-1851532868)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
