@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Danish Media Threatens to Sue OpenAI](https://www.wired.com/story/danish-media-demands-a-deal-with-openai-or-else/)
- - [A CA administrative judge rejects Tesla&#39;s appeal to dismiss claims by California&#39;s DMV alleging the company overstated its vehicles&#39; self-driving capabilities &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240611/p1#a240611p1)
- - [Today&#39;s NYT Connections Hints and Answers: Help for June 11, #366     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answer-help-for-june-11-366/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tech execs and experts say Arm and Qualcomm&#39;s contract dispute could halt the shipment of new Arm-based PCs; the trial is scheduled to begin in December 2024 &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240611/p4#a240611p4)
+ - [Hidden feature: You can change the iPhone flashlight’s radius on iOS 18](https://www.androidauthority.com/apple-ios-18-change-flashlight-radius-3450452/)
+ - [Zero-knowledge cryptography firm Nexus Labs raised a $25M Series A co-led by Lightspeed Venture Partners and Pantera Capital &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240611/p3#a240611p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
