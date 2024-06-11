@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why’s the Pacific Northwest always so creepy?](https://www.polygon.com/videos/2024/6/11/24173796/pacific-northwest-creepy-weird-video)
- - [Star Wars Outlaws Hands-On: Good Gameplay, Wonderful World](https://kotaku.com/star-wars-outlaws-hands-on-gameplay-impressions-1851532894)
- - [Kunitsu-Gami: Path Of The Goddess Is An Incredibly Clever Strategy Mash-Up I Can&#39;t Wait To Return To](https://kotaku.com/kunitsu-gami-path-goddess-tower-defense-hands-on-1851532868)<!-- GAME:END -->
+ - [Killed by Google in 2021, Discord&#39;s most popular music bot is back from the dead](https://www.pcgamer.com/software/platforms/killed-by-google-in-2021-discords-most-popular-music-bot-is-back-from-the-dead)
+ - [One Moment In Dragon Age: The Veilguard Already Has Fans Shook](https://kotaku.com/dragon-age-veilguard-dreadwolf-varric-bianca-solas-1851533383)
+ - [Horse Armor rides again: Bethesda is charging $7 for a single Starfield mission and after months of minimal post-launch support, unhappy fans are feeling ripped off](https://www.pcgamer.com/games/rpg/horse-armor-rides-again-again-bethesda-is-charging-dollar7-for-a-single-starfield-mission-and-after-months-of-minimal-post-launch-support-unhappy-fans-are-feeling-ripped-off)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
