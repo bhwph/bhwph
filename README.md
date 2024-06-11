@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM is investing another $850M into Cruise to help cover its operational costs as it slowly resumes testing its self-driving vehicles in some US cities &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240611/p25#a240611p25)
- - [SharePlay is coming to Apple TV, HomePods, and Bluetooth speakers](https://www.theverge.com/2024/6/11/24176146/apple-shareplay-homepod-apple-music-wwdc24)
- - [The best trailers of Summer Game Fest 2024](https://www.theverge.com/2024/6/11/24175240/summer-game-fest-2024-best-trailers)<!-- TECH:END -->
+ - [Here’s Blackmagic’s new immersive camera that might enable more Vision Pro content](https://www.theverge.com/2024/6/11/24176281/blackmagic-ursa-cine-immersive-apple-vision-pro-video-camera)
+ - [Get the iOS 18 wallpapers on your Android phone here &lpar;Update: More wallpapers!&rpar;](https://www.androidauthority.com/ios-18-wallpapers-3450414/)
+ - [Apple stock hits new record high after Apple Intelligence reveals](https://appleinsider.com/articles/24/06/11/apple-stock-hits-new-record-high-after-apple-intelligence-reveals?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
