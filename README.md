@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The perfect keychain doesn&#39;t exi...](http://9gag.com/gag/aAyrzMp)
- - 😝 [That one friend who doesn&#39;t take anything seriously.](http://9gag.com/gag/aW4W5XA)
- - 👉 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)<!-- MEMES:END -->
+ - 6️⃣ [Hiker saves a woman struggling on the edge of a trail](http://9gag.com/gag/a87YgPY)
+ - 😝 [Oh Canada... As usual...](http://9gag.com/gag/a6Zy6bq)
+ - 👉 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)<!-- MEMES:END -->
 
 --- 
 
