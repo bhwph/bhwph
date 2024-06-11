@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Tuesday, June 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-11-2024)
- - [XDefiant will get team deathmatch in &#39;a couple weeks&#39; because we hassled them about it lots](https://www.pcgamer.com/games/fps/xdefiant-will-get-team-deathmatch-in-a-couple-weeks-because-we-hassled-them-about-it-lots)
- - [Star Wars Outlaws Is The First Canonical Appearance Of A Video Game In The Franchise](https://kotaku.com/star-wars-outlaws-video-game-arcade-canon-ubisoft-gamer-1851531170)<!-- GAME:END -->
+ - [AMD&#39;s new Ryzen AI laptop chips aren&#39;t officially supported on Windows 10, thanks to its NPU and Copilot+](https://www.pcgamer.com/hardware/processors/amds-new-ryzen-ai-laptop-chips-arent-officially-supported-on-windows-10-thanks-to-its-npu-and-copilot)
+ - [Fresh rumours claim Nvidia&#39;s next-gen Blackwell cards won&#39;t have a wider memory bus or more VRAM—apart from the RTX 5090](https://www.pcgamer.com/hardware/graphics-cards/fresh-rumours-claim-nvidias-next-gen-blackwell-cards-wont-have-a-wider-memory-bus-or-more-vramapart-from-the-rtx-5090)
+ - [What time does Helldivers 2’s Viper Commandos Warbond release?](https://www.polygon.com/guides/2024/6/11/24175596/helldivers-2-viper-commandos-warbond-start-time-release-dat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
