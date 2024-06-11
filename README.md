@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Leaders Dodge Questions About Israel’s Influence Campaign](https://www.wired.com/story/israel-us-disinformation-us-lawmakers/)
- - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)
- - [Best Google Pixel Phone &lpar;2024&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
+ - [GM is investing another $850M into Cruise to help cover its operational costs as it slowly resumes testing its self-driving vehicles in some US cities &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240611/p25#a240611p25)
+ - [SharePlay is coming to Apple TV, HomePods, and Bluetooth speakers](https://www.theverge.com/2024/6/11/24176146/apple-shareplay-homepod-apple-music-wwdc24)
+ - [The best trailers of Summer Game Fest 2024](https://www.theverge.com/2024/6/11/24175240/summer-game-fest-2024-best-trailers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
