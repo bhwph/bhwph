@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Finger painting](http://9gag.com/gag/aYQW0O7)
- - 😝 [Be Honest](http://9gag.com/gag/amo04nX)
+ - 6️⃣ [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
+ - 😝 [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
  - 👉 [Don&#39;t stop me now](http://9gag.com/gag/aD23eOO)<!-- MEMES:END -->
 
 --- 
