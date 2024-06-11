@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s fine](http://9gag.com/gag/aYQWX4w)
- - 😝 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
- - 👉 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)<!-- MEMES:END -->
+ - 6️⃣ [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
+ - 😝 [Don&#39;t let Spidey down. Hold nothing back.](http://9gag.com/gag/aAyrz5L)
+ - 👉 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)<!-- MEMES:END -->
 
 --- 
 
