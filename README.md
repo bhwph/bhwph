@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [During an interview, Craig Federighi says Apple looks forward to &quot;doing integrations&quot; with other AI models, including Google Gemini, &quot;in the future&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240610/p35#a240610p35)
- - [Elon Musk yells at Apple over ChatGPT: Threatens to ban iPhones at Tesla, X](https://www.androidauthority.com/apple-chatgpt-elon-musk-3450357/)
- - [Elon Musk&#39;s latest anti-Apple tirade is about a ChatGPT feature that doesn&#39;t exist](https://appleinsider.com/articles/24/06/10/elon-musks-latest-anti-apple-tirade-is-about-a-chatgpt-feature-that-doesnt-exist?utm_medium=rss)<!-- TECH:END -->
+ - [AI Is Apple’s Best Shot at Getting You to Upgrade Your iPhone](https://www.wired.com/story/ai-is-apples-best-shot-at-getting-you-to-upgrade-your-phone/)
+ - [With iOS 18, iPhone’s dialer will finally get the most basic smartphone feature](https://www.androidauthority.com/ios18-t9-dialing-3450399/)
+ - [WWDC 2024 Recap: Apple Intelligence, iPhone Mirroring and more on the AppleInsider podcast](https://appleinsider.com/articles/24/06/11/wwdc-2024-recap-apple-intelligence-iphone-mirroring-and-more-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
