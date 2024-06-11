@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The case for rewatching The Boys before season 4](https://www.polygon.com/24173211/rewatch-the-boys-season-3-4-what-know-gen-v)
- - [Almost Two-Thirds Of PC Players Aren&#39;t Ready For Elden Ring DLC](https://kotaku.com/elden-ring-shadow-erdtree-dlc-mogh-achievement-1851531884)
- - [Fans are afraid they&#39;ll turn Snake into a walking corpse after Konami announces that any injuries will &#39;leave their mark permanently&#39;](https://www.pcgamer.com/games/action/fans-are-afraid-theyll-turn-snake-into-a-walking-corpse-after-konami-announces-that-any-injuries-will-leave-their-mark-permanently)<!-- GAME:END -->
+ - [5 Things You Need to Know About Wuchang: Fallen Feathers](https://news.xbox.com/en-us/2024/06/11/5-things-you-need-to-know-about-wuchang-fallen-feathers/)
+ - [Dune: War for Arrakis board game owes its success in part due to The Lord of the Rings](https://www.polygon.com/reviews/24173979/dune-war-for-arrakis-review-best-board-games-2024)
+ - [Life Is Strange: Double Exposure Brings Back the Series’ Original Star for a Supernatural Murder Mystery](https://news.xbox.com/en-us/2024/06/11/life-is-strange-double-exposure-reveal-xbox-showcase-2024/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
