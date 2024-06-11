@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
- - 😝 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
- - 👉 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)<!-- MEMES:END -->
+ - 6️⃣ [Got it in two\u2026](http://9gag.com/gag/aYQWXXm)
+ - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
+ - 👉 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)<!-- MEMES:END -->
 
 --- 
 
