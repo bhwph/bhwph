@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Is Apple’s Best Shot at Getting You to Upgrade Your iPhone](https://www.wired.com/story/ai-is-apples-best-shot-at-getting-you-to-upgrade-your-phone/)
- - [With iOS 18, iPhone’s dialer will finally get the most basic smartphone feature](https://www.androidauthority.com/ios18-t9-dialing-3450399/)
- - [WWDC 2024 Recap: Apple Intelligence, iPhone Mirroring and more on the AppleInsider podcast](https://appleinsider.com/articles/24/06/11/wwdc-2024-recap-apple-intelligence-iphone-mirroring-and-more-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Intelligence: What To Know About Apple&#39;s Gen AI video     - CNET](https://www.cnet.com/videos/apple-intelligence-what-to-know-about-apples-gen-ai/#ftag=CAD590a51e)
+ - [Google lets advertisers serve targeted ads across Google TV&#39;s 125+ free channels, and reports 20M+ US monthly active Google TV and Android TV OS devices in 2023 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240610/p41#a240610p41)
+ - [AI Is Apple’s Best Shot at Getting You to Upgrade Your iPhone](https://www.wired.com/story/ai-is-apples-best-shot-at-getting-you-to-upgrade-your-phone/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
