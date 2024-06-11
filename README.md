@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s Blackmagic’s new immersive camera that might enable more Vision Pro content](https://www.theverge.com/2024/6/11/24176281/blackmagic-ursa-cine-immersive-apple-vision-pro-video-camera)
- - [Get the iOS 18 wallpapers on your Android phone here &lpar;Update: More wallpapers!&rpar;](https://www.androidauthority.com/ios-18-wallpapers-3450414/)
- - [Apple stock hits new record high after Apple Intelligence reveals](https://appleinsider.com/articles/24/06/11/apple-stock-hits-new-record-high-after-apple-intelligence-reveals?utm_medium=rss)<!-- TECH:END -->
+ - [iPad finally has a Calculator app - Here&#39;s everything it can do](https://appleinsider.com/articles/24/06/11/ipad-finally-has-a-calculator-app---heres-everything-it-can-do?utm_medium=rss)
+ - [Can we artificially cool the planet? A major environmental group is spending millions to find out](https://www.theverge.com/2024/6/11/24176006/solar-geoengineering-envrionmental-defense-fund)
+ - [Apple shares closed up 7.3% at $207.15 in their biggest one-day jump since November 2022, giving the company a $3.18T market cap, just under Microsoft&#39;s $3.22T &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/240611/p34#a240611p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
