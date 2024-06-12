@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Revamped Photos app in iOS 18 makes searching better, but hides a key sharing control](https://appleinsider.com/articles/24/06/12/revamped-photos-app-in-ios-18-makes-searching-better-but-hides-a-key-sharing-control?utm_medium=rss)
- - [Four more states are jumping onto the DOJ&#39;s antitrust suit against Apple](https://appleinsider.com/articles/24/06/12/four-more-states-are-jumping-onto-the-dojs-antitrust-suit-against-apple?utm_medium=rss)
- - [How to Choose a Camera &lpar;2024&rpar;: Sensors, Megapixels, Terms](https://www.wired.com/story/how-to-choose-a-camera/)<!-- TECH:END -->
+ - [Databricks launches AI/BI, a visualization tool to let users type questions about their data to build charts and graphs, competing with Microsoft and Salesforce &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240612/p22#a240612p22)
+ - [What&#39;s new in Apple Music for iOS 18](https://appleinsider.com/inside/apple-music/tips/whats-new-in-apple-music-for-ios-18?utm_medium=rss)
+ - [PSA: Don’t buy an older iPhone if you want the full iOS experience](https://www.androidauthority.com/older-iphone-apple-intelligence-3450661/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
