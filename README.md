@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Feeling nostalgia yet](http://9gag.com/gag/aGyw5o0)
- - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
+ - 6️⃣ [This won&#39;t end well for Michael.](http://9gag.com/gag/a4PdXBy)
+ - 😝 [What a prick.](http://9gag.com/gag/aGywWYw)
  - 👉 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)<!-- MEMES:END -->
 
 --- 
