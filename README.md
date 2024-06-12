@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New visionOS 2 updates are more significant than Apple initially implied](https://appleinsider.com/articles/24/06/12/new-visionos-2-updates-are-more-significant-than-apple-initially-implied?utm_medium=rss)
- - [Life360 confirms a hacker stole Tile tracker IDs and customer info](https://www.theverge.com/2024/6/12/24176889/tile-life360-customer-data-breach-hacker-extortion)
- - [Jabra’s earbuds are going away, but the impact they made isn’t](https://www.theverge.com/24176836/jabra-earbuds-retrospective-65t-75t-apple-sony)<!-- TECH:END -->
+ - [Fired SpaceX workers sue Elon Musk for sexual harassment and retaliation](https://www.theverge.com/2024/6/12/24177095/spacex-elon-musk-sexual-harassment-lawsuit)
+ - [A growing number of Americans are getting their news from TikTok](https://www.theverge.com/2024/6/12/24177053/tiktok-news-pew-social-media-study-x-facebook-instagram)
+ - [Samsung’s own app leaks major redesign of Galaxy Buds 3](https://www.androidauthority.com/galaxy-buds-3-leak-3451132/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
