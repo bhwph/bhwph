@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard&#39;s romanceable companions won&#39;t just wait around for you to woo them—also, they&#39;re all canonically pansexual](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-s-romanceable-companions-won-t-just-wait-around-for-you-to-woo-them-also-they-re-all-canonically-pansexual)
- - [Could Arm&#39;s legal battle with Qualcomm over technology licences stop Copilot+ PCs from really taking off?](https://www.pcgamer.com/hardware/processors/could-arms-legal-battle-with-qualcomm-over-technology-licences-stop-copilot-pcs-from-really-taking-off)
- - [MediaTek is aiming to do a Qualcomm and make Arm chips for Copilot+ PCs, targeting a 2025 release](https://www.pcgamer.com/hardware/processors/mediatek-is-aiming-to-do-a-qualcomm-and-make-arm-chips-for-copilot-pcs-targeting-a-2025-release)<!-- GAME:END -->
+ - [The Helldivers now have to choose between unlocking a sweet new stratagem or going in to save &#39;Super Citizen Anne&#39;s Hospital for Very Sick Children&#39;](https://www.pcgamer.com/games/third-person-shooter/the-helldivers-now-have-to-choose-between-unlocking-a-sweet-new-stratagem-or-going-in-to-save-super-citizen-annes-hospital-for-very-sick-children)
+ - [Fallout 76 is giving us an outpost that you can customise like &#39;your house in Skyrim&#39; but you&#39;ll have to run the gauntlet first](https://www.pcgamer.com/games/fallout/fallout-76-is-giving-us-an-outpost-that-you-can-customise-like-your-house-in-skyrim-but-youll-have-to-run-the-gauntlet-first)
+ - [Fallout 76&#39;s Skyline Valley update expands the map into new beautiful areas, but I&#39;m just happy to have more cults to fight and weird stories to uncover](https://www.pcgamer.com/games/fallout/fallout-76s-skyline-valley-update-expands-the-map-into-new-beautiful-areas-but-im-just-happy-to-have-more-cults-to-fight-and-weird-stories-to-uncover)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
