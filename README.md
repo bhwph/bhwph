@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
- - 😝 [Sigh.](http://9gag.com/gag/aBy3AV2)
- - 👉 [Bad Prank](http://9gag.com/gag/aZZx613)<!-- MEMES:END -->
+ - 6️⃣ [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
+ - 😝 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
+ - 👉 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)<!-- MEMES:END -->
 
 --- 
 
