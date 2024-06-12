@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just stop it\u2026. #savestarwars](http://9gag.com/gag/axyZxmY)
- - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
- - 👉 [IdkMustBeOnStartup](http://9gag.com/gag/avygN6M)<!-- MEMES:END -->
+ - 6️⃣ [Based AF. Wilders says exactly what needs to be said.](http://9gag.com/gag/a9yL99W)
+ - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
+ - 👉 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)<!-- MEMES:END -->
 
 --- 
 
