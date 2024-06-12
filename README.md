@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
- - 😝 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
- - 👉 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)<!-- MEMES:END -->
+ - 6️⃣ [Night shift at it best](http://9gag.com/gag/a7oyzEq)
+ - 😝 [Big Brother Energy](http://9gag.com/gag/awyK6XB)
+ - 👉 [No title needed](http://9gag.com/gag/awyKw94)<!-- MEMES:END -->
 
 --- 
 
