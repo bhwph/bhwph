@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Heart of the Machine is the most exciting thing happening in the 4X genre, and you can try it now](https://www.pcgamer.com/games/strategy/heart-of-the-machine-is-the-most-exciting-thing-happening-in-the-4x-genre-and-you-can-try-it-now)
- - [According to the game&#39;s director, the $500 League of Legends Ahri skin wasn&#39;t meant for the average fan, but instead &#39;players who are willing to spend $200 a month on their hobbies&#39;](https://www.pcgamer.com/games/moba/according-to-the-games-director-the-dollar500-league-of-legends-ahri-skin-wasnt-meant-for-the-average-fan-but-instead-players-who-are-willing-to-spend-dollar200-a-month-on-their-hobbies)
- - [Final Fantasy 14 director Yoshi-P implies that Dawntrail&#39;s story will have something to do with the Twelve and the Ascians still, and my brain is on fire](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-director-yoshi-p-implies-that-dawntrail-s-story-will-have-something-to-do-with-the-twelve-and-the-ascians-still-and-my-brain-is-on-fire)<!-- GAME:END -->
+ - [Disney Lorcana’s new set includes Wreck-it Ralph and a ‘You’re Welcome’ action card](https://www.polygon.com/24177048/disney-lorcana-shimmering-skies-set-announcement)
+ - [Tell Me Why, the second queer-centric adventure from Dontnod, is free during Pride Month](https://www.polygon.com/deals/24176923/tell-me-why-dontnod-free-pride-month-deal-sale)
+ - [Elden Ring: What Level To Reach For Shadow Of The Erdtree &lpar;And How To Grind Fast&rpar;](https://kotaku.com/elden-ring-erdtree-what-level-before-starting-how-to-1851535830)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
