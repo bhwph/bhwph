@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve is being sued in the UK for $843 million for &#39;overcharging 14 million PC gamers and abusing its dominant position&#39; with Steam](https://www.pcgamer.com/gaming-industry/valve-is-being-sued-in-the-uk-for-dollar843-million-for-overcharging-14-million-pc-gamers-and-abusing-its-dominant-position-with-steam)
- - [How to get the Khvostov Exotic and all Lost Encryption locations in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24172527/khvostov-how-to-get-exotic-legendary-lost-encryption-locations)
- - [How to get Motes of Light in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24173623/motes-light-how-to-get)<!-- GAME:END -->
+ - [Armello studio League of Geeks is &#39;going into hibernation for the foreseeable future&#39; and may not be back](https://www.pcgamer.com/gaming-industry/armello-studio-league-of-geeks-is-going-into-hibernation-for-the-foreseeable-future-and-may-not-be-back)
+ - [Starfield: 6 Free Mods For A More Immersive Experience](https://kotaku.com/starfield-creations-mods-best-immersive-1851536437)
+ - [Diablo Immortal Inspired Blizzard To Add A New Kind Of Class To Diablo 4](https://kotaku.com/diablo-4-immortal-new-class-spiritborn-expansion-hatred-1851536395)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
