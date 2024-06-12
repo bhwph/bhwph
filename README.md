@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Night shift at it best](http://9gag.com/gag/a7oyzEq)
- - 😝 [Big Brother Energy](http://9gag.com/gag/awyK6XB)
- - 👉 [No title needed](http://9gag.com/gag/awyKw94)<!-- MEMES:END -->
+ - 6️⃣ [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
+ - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
+ - 👉 [Police aren\u2019t playing around anymore with Hamas supporters &lpar;SOUND ON&rpar;](http://9gag.com/gag/ayN0bjV)<!-- MEMES:END -->
 
 --- 
 
