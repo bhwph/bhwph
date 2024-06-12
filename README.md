@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never google...](http://9gag.com/gag/a9yLx9m)
- - 😝 [One day, someone will have to explain to me how having your country&#39;s flag without having your country is fascist or racist](http://9gag.com/gag/ayN0jOr)
- - 👉 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)<!-- MEMES:END -->
+ - 6️⃣ [Feeling nostalgia yet](http://9gag.com/gag/aGyw5o0)
+ - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
+ - 👉 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)<!-- MEMES:END -->
 
 --- 
 
