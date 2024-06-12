@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon plans to invest $1.4B to build or maintain 14K affordable houses near its offices, on top of its prior $2.2B housing investment in 2021 in WA, VA, and TN &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/240612/p14#a240612p14)
- - [A January 6 Rioter Is Leading an Armed National Militia From Prison](https://www.wired.com/story/january-6-rioter-leading-armed-national-militia-from-prison/)
- - [iOS 18 gains new slow charger warning in battery settings](https://appleinsider.com/articles/24/06/12/ios-18-gains-new-slow-charger-warning-in-battery-settings?utm_medium=rss)<!-- TECH:END -->
+ - [Revamped Photos app in iOS 18 makes searching better, but hides a key sharing control](https://appleinsider.com/articles/24/06/12/revamped-photos-app-in-ios-18-makes-searching-better-but-hides-a-key-sharing-control?utm_medium=rss)
+ - [Four more states are jumping onto the DOJ&#39;s antitrust suit against Apple](https://appleinsider.com/articles/24/06/12/four-more-states-are-jumping-onto-the-dojs-antitrust-suit-against-apple?utm_medium=rss)
+ - [How to Choose a Camera &lpar;2024&rpar;: Sensors, Megapixels, Terms](https://www.wired.com/story/how-to-choose-a-camera/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
