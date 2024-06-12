@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Says Its AI Sets a &#39;New Standard&#39; for Privacy and Invites Security Experts to Test It     - CNET](https://www.cnet.com/tech/services-and-software/apple-says-its-ai-sets-a-new-standard-for-privacy-invites-security-experts-to-test-it/#ftag=CAD590a51e)
- - [Elon Musk Uses X to Air His Grievances Over Apple-OpenAI Partnership. Here&#39;s Why     - CNET](https://www.cnet.com/tech/mobile/elon-musk-uses-x-to-air-his-grievances-over-apple-openai-partnership-heres-why/#ftag=CAD590a51e)
- - [Raleigh, NC-based Relay, which makes walkie-talkies that can provide real-time location data, do live translation, and more, raised a $35M Series B led by G2 &lpar;Zachery Eanes/Axios&rpar;](http://www.techmeme.com/240611/p36#a240611p36)<!-- TECH:END -->
+ - [Sources and documents detail how Elon Musk blurred boundaries with female employees at SpaceX, including having sex with an employee and a former intern &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240611/p37#a240611p37)
+ - [PNY Elite-X Type-C Drive review: Small size, huge convenience](https://appleinsider.com/articles/24/06/12/pny-elite-x-type-c-drive-review-small-size-huge-convenience?utm_medium=rss)
+ - [The Light Phone 3 Wants To Be Your Digital Detox Companion     - CNET](https://www.cnet.com/tech/mobile/the-light-phone-3-wants-to-be-your-digital-detox-companion/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
