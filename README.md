@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This won&#39;t end well for Michael.](http://9gag.com/gag/a4PdXBy)
- - 😝 [What a prick.](http://9gag.com/gag/aGywWYw)
- - 👉 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)<!-- MEMES:END -->
+ - 6️⃣ [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
+ - 😝 [Sigh.](http://9gag.com/gag/aBy3AV2)
+ - 👉 [Bad Prank](http://9gag.com/gag/aZZx613)<!-- MEMES:END -->
 
 --- 
 
