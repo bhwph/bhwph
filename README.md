@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Be Honest](http://9gag.com/gag/amo04nX)
- - 😝 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
- - 👉 [Don&#39;t stop me now](http://9gag.com/gag/aD23eOO)<!-- MEMES:END -->
+ - 6️⃣ [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
+ - 😝 [Who would\u2019ve thought that targeting the 3% of your audience and alienating your fanbase wouldn\u2019t make money. What a shocker. Die Disney!](http://9gag.com/gag/aqyNo87)
+ - 👉 [Physics in Tom &amp; Jerry](http://9gag.com/gag/aoy072e)<!-- MEMES:END -->
 
 --- 
 
