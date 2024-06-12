@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lockdown mode in Android 15 protects your phone from ‘juice jacking’](https://www.androidauthority.com/android-15-lockdown-mode-changes-3450855/)
- - [Q&amp;A with Cohere CEO Aidan Gomez on co-authoring the &quot;Attention is all you need&quot; paper at Google, focusing on enterprise, whether there&#39;s an AI bubble, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240612/p6#a240612p6)
- - [This new affordable flagship doesn’t reuse an older flagship SoC](https://www.androidauthority.com/xiaomi-14-civi-3450875/)<!-- TECH:END -->
+ - [Amazon plans to invest $1.4B to build or maintain 14K affordable houses near its offices, on top of its prior $2.2B housing investment in 2021 in WA, VA, and TN &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/240612/p14#a240612p14)
+ - [A January 6 Rioter Is Leading an Armed National Militia From Prison](https://www.wired.com/story/january-6-rioter-leading-armed-national-militia-from-prison/)
+ - [iOS 18 gains new slow charger warning in battery settings](https://appleinsider.com/articles/24/06/12/ios-18-gains-new-slow-charger-warning-in-battery-settings?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
