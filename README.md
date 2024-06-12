@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an interview, OpenAI CTO Mira Murati responded to Elon Musk&#39;s denouncement of Apple&#39;s OpenAI deal, saying OpenAI cares deeply about user privacy and security &lpar;Verne Kopytoff/Fortune&rpar;](http://www.techmeme.com/240612/p4#a240612p4)
- - [X says the social network will make likes private for everyone this week; users on X will no longer be able to see who liked someone else&#39;s post &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/240612/p3#a240612p3)
- - [&quot;Tap-to-earn&quot; games like Hamster Kombat, a mini-app with more than 31M followers on Telegram, could become the defining trend of the current crypto bull market &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240612/p2#a240612p2)<!-- TECH:END -->
+ - [Lockdown mode in Android 15 protects your phone from ‘juice jacking’](https://www.androidauthority.com/android-15-lockdown-mode-changes-3450855/)
+ - [Q&amp;A with Cohere CEO Aidan Gomez on co-authoring the &quot;Attention is all you need&quot; paper at Google, focusing on enterprise, whether there&#39;s an AI bubble, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240612/p6#a240612p6)
+ - [This new affordable flagship doesn’t reuse an older flagship SoC](https://www.androidauthority.com/xiaomi-14-civi-3450875/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
