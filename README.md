@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad finally has a Calculator app - Here&#39;s everything it can do](https://appleinsider.com/articles/24/06/11/ipad-finally-has-a-calculator-app---heres-everything-it-can-do?utm_medium=rss)
- - [Can we artificially cool the planet? A major environmental group is spending millions to find out](https://www.theverge.com/2024/6/11/24176006/solar-geoengineering-envrionmental-defense-fund)
- - [Apple shares closed up 7.3% at $207.15 in their biggest one-day jump since November 2022, giving the company a $3.18T market cap, just under Microsoft&#39;s $3.22T &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/240611/p34#a240611p34)<!-- TECH:END -->
+ - [Savings and CD Rates Are as High as They&#39;ll Get in 2024, Experts Say     - CNET](https://www.cnet.com/personal-finance/banking/savings-and-cd-rates-are-as-high-as-theyll-get-in-2024-experts-say/#ftag=CAD590a51e)
+ - [Sources: Samsung is combining its AI-focused research centers in Toronto and Mountain View to improve operations; ex-Apple exec Murat Akbacak will run the group &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240611/p35#a240611p35)
+ - [Mars Volcanoes Are Holding Something Unexpected: Water Frost     - CNET](https://www.cnet.com/science/mars-volcanoes-are-holding-something-unexpected-water-frost/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
