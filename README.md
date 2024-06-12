@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Helldivers now have to choose between unlocking a sweet new stratagem or going in to save &#39;Super Citizen Anne&#39;s Hospital for Very Sick Children&#39;](https://www.pcgamer.com/games/third-person-shooter/the-helldivers-now-have-to-choose-between-unlocking-a-sweet-new-stratagem-or-going-in-to-save-super-citizen-annes-hospital-for-very-sick-children)
- - [Fallout 76 is giving us an outpost that you can customise like &#39;your house in Skyrim&#39; but you&#39;ll have to run the gauntlet first](https://www.pcgamer.com/games/fallout/fallout-76-is-giving-us-an-outpost-that-you-can-customise-like-your-house-in-skyrim-but-youll-have-to-run-the-gauntlet-first)
- - [Fallout 76&#39;s Skyline Valley update expands the map into new beautiful areas, but I&#39;m just happy to have more cults to fight and weird stories to uncover](https://www.pcgamer.com/games/fallout/fallout-76s-skyline-valley-update-expands-the-map-into-new-beautiful-areas-but-im-just-happy-to-have-more-cults-to-fight-and-weird-stories-to-uncover)<!-- GAME:END -->
+ - [Heart of the Machine is the most exciting thing happening in the 4X genre, and you can try it now](https://www.pcgamer.com/games/strategy/heart-of-the-machine-is-the-most-exciting-thing-happening-in-the-4x-genre-and-you-can-try-it-now)
+ - [According to the game&#39;s director, the $500 League of Legends Ahri skin wasn&#39;t meant for the average fan, but instead &#39;players who are willing to spend $200 a month on their hobbies&#39;](https://www.pcgamer.com/games/moba/according-to-the-games-director-the-dollar500-league-of-legends-ahri-skin-wasnt-meant-for-the-average-fan-but-instead-players-who-are-willing-to-spend-dollar200-a-month-on-their-hobbies)
+ - [Final Fantasy 14 director Yoshi-P implies that Dawntrail&#39;s story will have something to do with the Twelve and the Ascians still, and my brain is on fire](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-director-yoshi-p-implies-that-dawntrail-s-story-will-have-something-to-do-with-the-twelve-and-the-ascians-still-and-my-brain-is-on-fire)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
