@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fired SpaceX workers sue Elon Musk for sexual harassment and retaliation](https://www.theverge.com/2024/6/12/24177095/spacex-elon-musk-sexual-harassment-lawsuit)
- - [A growing number of Americans are getting their news from TikTok](https://www.theverge.com/2024/6/12/24177053/tiktok-news-pew-social-media-study-x-facebook-instagram)
- - [Samsung’s own app leaks major redesign of Galaxy Buds 3](https://www.androidauthority.com/galaxy-buds-3-leak-3451132/)<!-- TECH:END -->
+ - [Google Messages is about to put Gemini front and center &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-gemini-button-3451148/)
+ - [Canary Technologies, which offers tools for hotel guest management, raised a $50M Series C led by Insight Partners, bringing its total raised to nearly $100M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240612/p28#a240612p28)
+ - [Roku TV owners complain that motion smoothing is stuck ‘on’ after an update](https://www.theverge.com/2024/6/12/24177117/tcl-roku-tv-motion-smoothing-streaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
