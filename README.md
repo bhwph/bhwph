@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages is about to put Gemini front and center &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-gemini-button-3451148/)
- - [Canary Technologies, which offers tools for hotel guest management, raised a $50M Series C led by Insight Partners, bringing its total raised to nearly $100M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240612/p28#a240612p28)
- - [Roku TV owners complain that motion smoothing is stuck ‘on’ after an update](https://www.theverge.com/2024/6/12/24177117/tcl-roku-tv-motion-smoothing-streaming)<!-- TECH:END -->
+ - [Say goodbye to dirt: Roborock unveils the Qrevo Master and Qrevo S](https://www.androidauthority.com/roborock-launches-qrevo-master-qrevo-s-3450696/)
+ - [Netflix will settle 15 years of Chestnut vs. Kobayashi with a live hot dog-eating contest](https://www.theverge.com/2024/6/12/24177277/netflix-chestnut-kobayashi-unfinished-beef-hot-dogs)
+ - [AI search engine Perplexity says it was working on revenue-sharing deals with publishers when Forbes criticized it for misusing content from Forbes and others &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240612/p31#a240612p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
