@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Lorcana’s new set includes Wreck-it Ralph and a ‘You’re Welcome’ action card](https://www.polygon.com/24177048/disney-lorcana-shimmering-skies-set-announcement)
- - [Tell Me Why, the second queer-centric adventure from Dontnod, is free during Pride Month](https://www.polygon.com/deals/24176923/tell-me-why-dontnod-free-pride-month-deal-sale)
- - [Elden Ring: What Level To Reach For Shadow Of The Erdtree &lpar;And How To Grind Fast&rpar;](https://kotaku.com/elden-ring-erdtree-what-level-before-starting-how-to-1851535830)<!-- GAME:END -->
+ - [Valve is being sued in the UK for $843 million for &#39;overcharging 14 million PC gamers and abusing its dominant position&#39; with Steam](https://www.pcgamer.com/gaming-industry/valve-is-being-sued-in-the-uk-for-dollar843-million-for-overcharging-14-million-pc-gamers-and-abusing-its-dominant-position-with-steam)
+ - [How to get the Khvostov Exotic and all Lost Encryption locations in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24172527/khvostov-how-to-get-exotic-legendary-lost-encryption-locations)
+ - [How to get Motes of Light in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24173623/motes-light-how-to-get)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
