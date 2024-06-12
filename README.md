@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Databricks launches AI/BI, a visualization tool to let users type questions about their data to build charts and graphs, competing with Microsoft and Salesforce &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240612/p22#a240612p22)
- - [What&#39;s new in Apple Music for iOS 18](https://appleinsider.com/inside/apple-music/tips/whats-new-in-apple-music-for-ios-18?utm_medium=rss)
- - [PSA: Don’t buy an older iPhone if you want the full iOS experience](https://www.androidauthority.com/older-iphone-apple-intelligence-3450661/)<!-- TECH:END -->
+ - [New visionOS 2 updates are more significant than Apple initially implied](https://appleinsider.com/articles/24/06/12/new-visionos-2-updates-are-more-significant-than-apple-initially-implied?utm_medium=rss)
+ - [Life360 confirms a hacker stole Tile tracker IDs and customer info](https://www.theverge.com/2024/6/12/24176889/tile-life360-customer-data-breach-hacker-extortion)
+ - [Jabra’s earbuds are going away, but the impact they made isn’t](https://www.theverge.com/24176836/jabra-earbuds-retrospective-65t-75t-apple-sony)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
