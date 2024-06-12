@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
+ - 6️⃣ [Just stop it\u2026. #savestarwars](http://9gag.com/gag/axyZxmY)
  - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
- - 👉 [Police aren\u2019t playing around anymore with Hamas supporters &lpar;SOUND ON&rpar;](http://9gag.com/gag/ayN0bjV)<!-- MEMES:END -->
+ - 👉 [IdkMustBeOnStartup](http://9gag.com/gag/avygN6M)<!-- MEMES:END -->
 
 --- 
 
