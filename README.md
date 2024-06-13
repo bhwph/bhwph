@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Databricks tells investors its annualized revenue is expected to reach $2.4B through July 2024, or the first half of its FY 2025, up 60% from a year earlier &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240612/p36#a240612p36)
- - [A look at Satya Nadella&#39;s AI efforts; source: some future Microsoft AI products may be switched from OpenAI tech to the model being developed by Suleyman&#39;s team &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240612/p35#a240612p35)
- - [Save 50% on PDF Expert Premium for Mac with coupon](https://appleinsider.com/articles/24/06/13/save-50-on-pdf-expert-premium-for-mac-with-coupon?utm_medium=rss)<!-- TECH:END -->
+ - [X all-hands leaves staff with few answers on delayed promotions](https://www.theverge.com/2024/6/12/24172268/x-twitter-all-hands-linda-yaccarino-layoffs-promotions)
+ - [Sources: Indian rapid grocery delivery startup Zepto plans to raise ~$650M co-led by Nexus and StepStone at a valuation of $3.5B, up from $1.4B in August 2023 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/240612/p37#a240612p37)
+ - [Apple Watch can finally track your sleep automatically, with watch OS 11](https://www.androidauthority.com/apple-watch-os-11-automatic-sleep-tracking-3451223/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
