@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is now making shoes: You’ll want them, but you likely can’t have them](https://www.androidauthority.com/samsung-shortcut-sneaker-smart-shoes-3451299/)
- - [As Chinese companies test driverless cars, with government and public support, state media seldom reports crashes or incidents, and online posts are censored &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/240613/p16#a240613p16)
- - [Thinking Different About Apple AI](https://www.wired.com/story/gadget-lab-podcast-647/)<!-- TECH:END -->
+ - [Lux vs. Lumens and Explaining Other Lighting Gear Terms as You Shop &lpar;2024&rpar;](https://www.wired.com/story/what-lumens-lux-and-other-lighting-gear-terms-mean/)
+ - [Here’s how Apple’s AI model tries to keep your data private](https://www.theverge.com/2024/6/13/24175985/apple-intelligence-ai-model-local-cloud-privacy-how-it-works)
+ - [Apple fined in South Korea for collecting users&#39; data without their consent](https://appleinsider.com/articles/24/06/13/apple-fined-in-south-korea-for-collecting-users-data-without-their-consent?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
