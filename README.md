@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile paves the way for future price increases, even for Price Lock subscribers](https://www.androidauthority.com/t-mobile-price-lock-response-3451281/)
- - [Bento breakdown: what Apple wants you to know about watchOS 11](https://appleinsider.com/articles/24/06/13/bento-breakdown-what-apple-wants-you-to-know-about-watchos-11?utm_medium=rss)
- - [Dublin-based AccountsIQ, which offers AI-powered bookkeeping, raised &amp;euro;60M, after raising just &amp;euro;12.7M in its nearly 20 year history, and reports 1,000 clients &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240613/p11#a240613p11)<!-- TECH:END -->
+ - [Samsung is now making shoes: You’ll want them, but you likely can’t have them](https://www.androidauthority.com/samsung-shortcut-sneaker-smart-shoes-3451299/)
+ - [As Chinese companies test driverless cars, with government and public support, state media seldom reports crashes or incidents, and online posts are censored &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/240613/p16#a240613p16)
+ - [Thinking Different About Apple AI](https://www.wired.com/story/gadget-lab-podcast-647/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
