@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
- - 😝 [Such kindest in the reply! \u201cSo close!\u201d](http://9gag.com/gag/aQz4wXK)
- - 👉 [No title needed](http://9gag.com/gag/awyKw94)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m not American. Today I discovered why they have so much problems with police officers.](http://9gag.com/gag/aGywWen)
+ - 😝 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)
+ - 👉 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)<!-- MEMES:END -->
 
 --- 
 
