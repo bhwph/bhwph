@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lux vs. Lumens and Explaining Other Lighting Gear Terms as You Shop &lpar;2024&rpar;](https://www.wired.com/story/what-lumens-lux-and-other-lighting-gear-terms-mean/)
- - [Here’s how Apple’s AI model tries to keep your data private](https://www.theverge.com/2024/6/13/24175985/apple-intelligence-ai-model-local-cloud-privacy-how-it-works)
- - [Apple fined in South Korea for collecting users&#39; data without their consent](https://appleinsider.com/articles/24/06/13/apple-fined-in-south-korea-for-collecting-users-data-without-their-consent?utm_medium=rss)<!-- TECH:END -->
+ - [Android’s leadership team just got another shake-up](https://www.theverge.com/2024/6/13/24177722/google-android-leadership-team-shakeup-dave-burke)
+ - [How to Use Your Smartphone to Counteract Vision Loss &lpar;2024&rpar;: iPhone, Android, Apps](https://www.wired.com/story/smartphone-features-blind-vision-impairment/)
+ - [Price drop: grab Apple&#39;s M2 MacBook Air 13&quot; for $829](https://appleinsider.com/articles/24/06/13/price-drop-grab-apples-m2-macbook-air-13-for-829?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
