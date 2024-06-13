@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snowflake plans to close an internal probe into recent cyberattacks after not detecting any unauthorized access into customer accounts since early last week &lpar;Bloomberg&rpar;](http://www.techmeme.com/240613/p24#a240613p24)
- - [Ford slims down dealership EV requirements after pushback](https://www.theverge.com/2024/6/13/24177715/ford-model-e-dealership-ev-certification-discontinued)
- - [SCOTUS upholds abortion pill access — for now](https://www.theverge.com/2024/6/13/24177827/scotus-mifepristone-abortion-pill-lawsuit-fda-supreme-court)<!-- TECH:END -->
+ - [WhatsApp announces new pro-grade features for video calls](https://www.androidauthority.com/whatsapp-video-calls-update-3451521/)
+ - [US authorities arrest and charge the founder and the head doctor of telehealth company Done Global for an alleged scheme to profit from Adderall prescriptions &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240613/p27#a240613p27)
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
