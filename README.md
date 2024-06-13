@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Ball: Sparking Zero Hands-On: Shaping Up To Be The Budokai Tenkaichi 3 Sequel Fans Deserve](https://kotaku.com/dragon-ball-sparking-zero-tenkaichi-4-local-splitscreen-1851537589)
- - [This Plastic Man body horror odyssey from the Halt and Catch Fire creator looks absolutely sick](https://www.polygon.com/24177632/dc-plastic-man-death-2024-comic-christopher-cantwell-alex-lins)
- - [The Boys season 4 becomes a stronger show but a weaker satire](https://www.polygon.com/reviews/24176428/the-boys-season-4-review-new)<!-- GAME:END -->
+ - [Bridgerton said: gay rights!!](https://www.polygon.com/24157362/bridgerton-queer-characters-benedict-eloise-francesca-brimsley)
+ - [Monster Hunter Wilds interview: How Capcom is evolving its apex franchise](https://blog.playstation.com/2024/06/13/monster-hunter-wilds-interview-how-capcom-is-evolving-its-apex-franchise/)
+ - [Play Minecraft Tricky Trials Today](https://www.minecraft.net/article/play-tricky-trials-update-today#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
