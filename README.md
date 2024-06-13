@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp announces new pro-grade features for video calls](https://www.androidauthority.com/whatsapp-video-calls-update-3451521/)
- - [US authorities arrest and charge the founder and the head doctor of telehealth company Done Global for an alleged scheme to profit from Adderall prescriptions &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240613/p27#a240613p27)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)<!-- TECH:END -->
+ - [Apple’s Sunny makes everyone seem like a suspect in new trailer](https://www.theverge.com/24177191/apple-tv-sunny-trailer)
+ - [We Asked an Expert About the Hardest Houseplants to Kill     - CNET](https://www.cnet.com/news/we-asked-an-expert-about-the-hardest-houseplants-to-kill/#ftag=CAD590a51e)
+ - [Developers can now nominate apps and updates for App Store promotions](https://appleinsider.com/articles/24/06/13/developers-can-now-nominate-apps-and-updates-for-app-store-promotions?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
