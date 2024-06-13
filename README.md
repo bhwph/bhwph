@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bridgerton said: gay rights!!](https://www.polygon.com/24157362/bridgerton-queer-characters-benedict-eloise-francesca-brimsley)
- - [Monster Hunter Wilds interview: How Capcom is evolving its apex franchise](https://blog.playstation.com/2024/06/13/monster-hunter-wilds-interview-how-capcom-is-evolving-its-apex-franchise/)
- - [Play Minecraft Tricky Trials Today](https://www.minecraft.net/article/play-tricky-trials-update-today#new_tab)<!-- GAME:END -->
+ - [Life Is Strange: Double Exposure Gameplay Reveal Confirms It Will Respect Both The First Game&#39;s Endings](https://kotaku.com/life-is-strange-double-exposure-max-endings-chloe-1851538397)
+ - [Metal Gear Solid Delta&#39;s producer is up for the challenge of reviving one of gaming&#39;s greatest series, and wants fans along for the ride: &#39;Please keep watching, and keep us honest&#39;](https://www.pcgamer.com/games/action/metal-gear-solid-deltas-producer-is-up-for-the-challenge-of-reviving-one-of-gamings-greatest-series-and-wants-fans-along-for-the-ride-please-keep-watching-and-keep-us-honest)
+ - [Metallica is bringing its metal guitar — and a new PvP game mode — to Fortnite Festival](https://www.polygon.com/24177794/metallica-stage-fortnite-festival-new-season)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
