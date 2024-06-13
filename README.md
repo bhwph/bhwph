@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japanese trade data: at least 50% of chipmaking equipment exports went to China for three straight quarters through Q1, driven by demand for less advanced gear &lpar;Hirofumi Kanaoka/Nikkei Asia&rpar;](http://www.techmeme.com/240613/p6#a240613p6)
- - [OpenAI says it has expanded its global affairs team from three at the start of 2023 to 35, stationed strategically in locations where AI legislation is advanced &lpar;Financial Times&rpar;](http://www.techmeme.com/240613/p5#a240613p5)
- - [Arcane season 2: Release window, plot, and other rumors](https://www.androidauthority.com/arcane-season-2-release-date-3451237/)<!-- TECH:END -->
+ - [What is now.gg? Everything you need to know](https://www.androidauthority.com/what-is-now-gg-3449633/)
+ - [With One UI 6 Watch beta out, new features and UI elements are starting to surface](https://www.androidauthority.com/one-ui-6-watch-beta-features-photos-3451249/)
+ - [YouTube is breaking ad blockers again, and trials a viewing limitation](https://www.androidauthority.com/youtube-server-side-ads-3451248/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
