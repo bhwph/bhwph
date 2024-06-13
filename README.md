@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jackbox players rejoice: A free &#39;Megapicker&#39; is coming soon that can launch the specific Party Pack game you want to play](https://www.pcgamer.com/games/jackbox-players-rejoice-a-free-megapicker-is-coming-soon-that-can-launch-the-specific-party-pack-game-you-want-to-play)
- - [The Quickest Way To Catch Up On Dragon Age Before The Veilguard Arrives](https://kotaku.com/dragon-age-veilguard-inquisition-origins-what-to-play-1851538846)
- - [GTA Online update for the week of June 13](https://www.polygon.com/gta-online-guides/24177949/june-13-weekly-update-events-data-leaks-dr-dre)<!-- GAME:END -->
+ - [NewJeans is the PUBG collab I didn’t know I needed](https://www.polygon.com/24178043/newjeans-pubg-playerunknown-battlegrounds-event)
+ - [FromSoftware&#39;s Miyazaki On A Bloodborne PC Port: &#39;I&#39;d Love More Players To Be Able To Enjoy It&#39;](https://kotaku.com/bloodborne-pc-port-ps5-fromsoftware-elden-ring-miyazaki-1851539098)
+ - [Star Wars: The Acolyte Tells Us What We Already Knew About The Jedi](https://kotaku.com/star-wars-the-acolyte-episode-3-witches-brendok-jedi-1851539149)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
