@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s leadership team just got another shake-up](https://www.theverge.com/2024/6/13/24177722/google-android-leadership-team-shakeup-dave-burke)
- - [How to Use Your Smartphone to Counteract Vision Loss &lpar;2024&rpar;: iPhone, Android, Apps](https://www.wired.com/story/smartphone-features-blind-vision-impairment/)
- - [Price drop: grab Apple&#39;s M2 MacBook Air 13&quot; for $829](https://appleinsider.com/articles/24/06/13/price-drop-grab-apples-m2-macbook-air-13-for-829?utm_medium=rss)<!-- TECH:END -->
+ - [Snowflake plans to close an internal probe into recent cyberattacks after not detecting any unauthorized access into customer accounts since early last week &lpar;Bloomberg&rpar;](http://www.techmeme.com/240613/p24#a240613p24)
+ - [Ford slims down dealership EV requirements after pushback](https://www.theverge.com/2024/6/13/24177715/ford-model-e-dealership-ev-certification-discontinued)
+ - [SCOTUS upholds abortion pill access — for now](https://www.theverge.com/2024/6/13/24177827/scotus-mifepristone-abortion-pill-lawsuit-fda-supreme-court)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
