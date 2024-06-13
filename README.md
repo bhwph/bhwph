@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 😝 [Eat the rich...](http://9gag.com/gag/ary4PDK)
+ - 6️⃣ [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
+ - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
  - 👉 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)<!-- MEMES:END -->
 
 --- 
