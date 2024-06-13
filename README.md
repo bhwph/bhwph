@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Based AF. Wilders says exactly what needs to be said.](http://9gag.com/gag/a9yL99W)
- - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
- - 👉 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)<!-- MEMES:END -->
+ - 6️⃣ [Life is disappointing](http://9gag.com/gag/aKGPrmb)
+ - 😝 [All I\u2019ll say is Joffrey dodged a bullet.](http://9gag.com/gag/aD23EYw)
+ - 👉 [Lil Dingus went to the vet today, he was diagnosed with smol](http://9gag.com/gag/ajP0eO8)<!-- MEMES:END -->
 
 --- 
 
