@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
- - 👉 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)<!-- MEMES:END -->
+ - 😝 [IdkMustBeOnStartup](http://9gag.com/gag/avygN6M)
+ - 👉 [Unskippable ads are a crime against humanity](http://9gag.com/gag/aoy0BpX)<!-- MEMES:END -->
 
 --- 
 
