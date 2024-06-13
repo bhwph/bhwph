@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
- - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 👉 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)<!-- MEMES:END -->
+ - 6️⃣ [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
+ - 😝 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
+ - 👉 [This won&#39;t end well for Michael.](http://9gag.com/gag/a4PdXBy)<!-- MEMES:END -->
 
 --- 
 
