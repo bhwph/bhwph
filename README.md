@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X all-hands leaves staff with few answers on delayed promotions](https://www.theverge.com/2024/6/12/24172268/x-twitter-all-hands-linda-yaccarino-layoffs-promotions)
- - [Sources: Indian rapid grocery delivery startup Zepto plans to raise ~$650M co-led by Nexus and StepStone at a valuation of $3.5B, up from $1.4B in August 2023 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/240612/p37#a240612p37)
- - [Apple Watch can finally track your sleep automatically, with watch OS 11](https://www.androidauthority.com/apple-watch-os-11-automatic-sleep-tracking-3451223/)<!-- TECH:END -->
+ - [Japanese trade data: at least 50% of chipmaking equipment exports went to China for three straight quarters through Q1, driven by demand for less advanced gear &lpar;Hirofumi Kanaoka/Nikkei Asia&rpar;](http://www.techmeme.com/240613/p6#a240613p6)
+ - [OpenAI says it has expanded its global affairs team from three at the start of 2023 to 35, stationed strategically in locations where AI legislation is advanced &lpar;Financial Times&rpar;](http://www.techmeme.com/240613/p5#a240613p5)
+ - [Arcane season 2: Release window, plot, and other rumors](https://www.androidauthority.com/arcane-season-2-release-date-3451237/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
