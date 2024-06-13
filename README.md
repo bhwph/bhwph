@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Please arrive at airport terminal on time and be accountable for your own actions](http://9gag.com/gag/aYQWzAv)
- - 😝 [Unskippable ads are a crime against humanity](http://9gag.com/gag/aoy0BpX)
- - 👉 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)<!-- MEMES:END -->
+ - 6️⃣ [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
+ - 😝 [Eat the rich...](http://9gag.com/gag/ary4PDK)
+ - 👉 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)<!-- MEMES:END -->
 
 --- 
 
