@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 😝 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
- - 👉 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)<!-- MEMES:END -->
+ - 6️⃣ [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
+ - 😝 [Such kindest in the reply! \u201cSo close!\u201d](http://9gag.com/gag/aQz4wXK)
+ - 👉 [No title needed](http://9gag.com/gag/awyKw94)<!-- MEMES:END -->
 
 --- 
 
