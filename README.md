@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2&#39;s enormous balance patch means business—weapons are getting buffed, galactic map supply lines are here, solo patrols are sensible again, and the worst mission modifier is gone](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-s-enormous-balance-patch-means-business-weapons-are-getting-buffed-galactic-map-supply-lines-are-here-solo-patrols-are-sensible-again-and-the-worst-mission-modifier-is-gone)
- - [Infamous Video Game Leaker Admits To Pretending To Be A Japanese Woman For Clout](https://kotaku.com/midori-mysticdistance-leak-persona-6-kingdom-hearts-4-1851536988)
- - [Gigabyte Aorus 16X review](https://www.pcgamer.com/hardware/gaming-laptops/gigabyte-aorus-16x-review)<!-- GAME:END -->
+ - [Dragon Ball: Sparking Zero Hands-On: Shaping Up To Be The Budokai Tenkaichi 3 Sequel Fans Deserve](https://kotaku.com/dragon-ball-sparking-zero-tenkaichi-4-local-splitscreen-1851537589)
+ - [This Plastic Man body horror odyssey from the Halt and Catch Fire creator looks absolutely sick](https://www.polygon.com/24177632/dc-plastic-man-death-2024-comic-christopher-cantwell-alex-lins)
+ - [The Boys season 4 becomes a stronger show but a weaker satire](https://www.polygon.com/reviews/24176428/the-boys-season-4-review-new)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
