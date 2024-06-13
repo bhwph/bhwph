@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m not American. Today I discovered why they have so much problems with police officers.](http://9gag.com/gag/aGywWen)
- - 😝 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)
- - 👉 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)<!-- MEMES:END -->
+ - 6️⃣ [Everybody act normal, and boys gather around him don&#39;t leave him at the edge.](http://9gag.com/gag/a9yPb16)
+ - 😝 [Ghost boat which the crew disappeared on April 4, 2023 seen adrift with a broken mast and no one on board by a Norwegian Cruise Liner.](http://9gag.com/gag/aE01LvK)
+ - 👉 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)<!-- MEMES:END -->
 
 --- 
 
