@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)
- - [PS5 players will soon be able to join Discord voice chat directly from their console](https://blog.playstation.com/2024/06/13/ps5-players-will-soon-be-able-to-join-discord-voice-chat-directly-from-their-console/)<!-- GAME:END -->
+ - [Helldivers 2&#39;s enormous balance patch means business—weapons are getting buffed, galactic map supply lines are here, solo patrols are sensible again, and the worst mission modifier is gone](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-s-enormous-balance-patch-means-business-weapons-are-getting-buffed-galactic-map-supply-lines-are-here-solo-patrols-are-sensible-again-and-the-worst-mission-modifier-is-gone)
+ - [Infamous Video Game Leaker Admits To Pretending To Be A Japanese Woman For Clout](https://kotaku.com/midori-mysticdistance-leak-persona-6-kingdom-hearts-4-1851536988)
+ - [Gigabyte Aorus 16X review](https://www.pcgamer.com/hardware/gaming-laptops/gigabyte-aorus-16x-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
