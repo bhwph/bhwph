@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Say goodbye to dirt: Roborock unveils the Qrevo Master and Qrevo S](https://www.androidauthority.com/roborock-launches-qrevo-master-qrevo-s-3450696/)
- - [Netflix will settle 15 years of Chestnut vs. Kobayashi with a live hot dog-eating contest](https://www.theverge.com/2024/6/12/24177277/netflix-chestnut-kobayashi-unfinished-beef-hot-dogs)
- - [AI search engine Perplexity says it was working on revenue-sharing deals with publishers when Forbes criticized it for misusing content from Forbes and others &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240612/p31#a240612p31)<!-- TECH:END -->
+ - [We Sleep on Beds for a Living: Here&#39;s How We Test Mattresses     - CNET](https://www.cnet.com/health/sleep/how-cnet-tests-mattresses/#ftag=CAD590a51e)
+ - [Apple paying OpenAI with exposure, not money](https://appleinsider.com/articles/24/06/13/apple-paying-openai-with-exposure-not-money?utm_medium=rss)
+ - [Sources: Apple isn&#39;t paying OpenAI as part of their partnership and aims to eventually make money from AI by striking revenue-sharing deals with chatbot owners &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240612/p34#a240612p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
