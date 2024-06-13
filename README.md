@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 😝 [IdkMustBeOnStartup](http://9gag.com/gag/avygN6M)
- - 👉 [Unskippable ads are a crime against humanity](http://9gag.com/gag/aoy0BpX)<!-- MEMES:END -->
+ - 6️⃣ [Bad Prank](http://9gag.com/gag/aZZx613)
+ - 😝 [One day, someone will have to explain to me how having your country&#39;s flag without having your country is fascist or racist](http://9gag.com/gag/ayN0jOr)
+ - 👉 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)<!-- MEMES:END -->
 
 --- 
 
