@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is now.gg? Everything you need to know](https://www.androidauthority.com/what-is-now-gg-3449633/)
- - [With One UI 6 Watch beta out, new features and UI elements are starting to surface](https://www.androidauthority.com/one-ui-6-watch-beta-features-photos-3451249/)
- - [YouTube is breaking ad blockers again, and trials a viewing limitation](https://www.androidauthority.com/youtube-server-side-ads-3451248/)<!-- TECH:END -->
+ - [T-Mobile paves the way for future price increases, even for Price Lock subscribers](https://www.androidauthority.com/t-mobile-price-lock-response-3451281/)
+ - [Bento breakdown: what Apple wants you to know about watchOS 11](https://appleinsider.com/articles/24/06/13/bento-breakdown-what-apple-wants-you-to-know-about-watchos-11?utm_medium=rss)
+ - [Dublin-based AccountsIQ, which offers AI-powered bookkeeping, raised &amp;euro;60M, after raising just &amp;euro;12.7M in its nearly 20 year history, and reports 1,000 clients &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240613/p11#a240613p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
