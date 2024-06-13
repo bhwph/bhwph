@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Life Is Strange: Double Exposure Gameplay Reveal Confirms It Will Respect Both The First Game&#39;s Endings](https://kotaku.com/life-is-strange-double-exposure-max-endings-chloe-1851538397)
- - [Metal Gear Solid Delta&#39;s producer is up for the challenge of reviving one of gaming&#39;s greatest series, and wants fans along for the ride: &#39;Please keep watching, and keep us honest&#39;](https://www.pcgamer.com/games/action/metal-gear-solid-deltas-producer-is-up-for-the-challenge-of-reviving-one-of-gamings-greatest-series-and-wants-fans-along-for-the-ride-please-keep-watching-and-keep-us-honest)
- - [Metallica is bringing its metal guitar — and a new PvP game mode — to Fortnite Festival](https://www.polygon.com/24177794/metallica-stage-fortnite-festival-new-season)<!-- GAME:END -->
+ - [Jackbox players rejoice: A free &#39;Megapicker&#39; is coming soon that can launch the specific Party Pack game you want to play](https://www.pcgamer.com/games/jackbox-players-rejoice-a-free-megapicker-is-coming-soon-that-can-launch-the-specific-party-pack-game-you-want-to-play)
+ - [The Quickest Way To Catch Up On Dragon Age Before The Veilguard Arrives](https://kotaku.com/dragon-age-veilguard-inquisition-origins-what-to-play-1851538846)
+ - [GTA Online update for the week of June 13](https://www.polygon.com/gta-online-guides/24177949/june-13-weekly-update-events-data-leaks-dr-dre)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
