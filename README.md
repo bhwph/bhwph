@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Hogwarts Legacy – Photo Mode](https://blog.playstation.com/2024/06/14/share-of-the-week-hogwarts-legacy-photo-mode/)
- - [Fallout 76 finally stands triumphant — and there’s more to come](https://www.polygon.com/24177745/fallout-76-skyline-valley-development-update-journey)
- - [Microsoft president grovels before Congress, takes responsibility for a &#39;cascade&#39; of cybersecurity errors](https://www.pcgamer.com/software/operating-systems/microsoft-president-grovels-before-congress-takes-responsibility-for-a-cascade-of-cybersecurity-errors)<!-- GAME:END -->
+ - [Forget House of the Dragon, I am watching ant wars on YouTube](https://www.polygon.com/24178680/antscanada-youtube-vivarium)
+ - [How To Defeat Matador In Shin Megami Tensei V: Vengeance](https://kotaku.com/shin-megami-tensei-v-vengeance-matador-boss-fight-help-1851540546)
+ - [Indiana Jones and the Great Circle: New Details Revealed on the Official Xbox Podcast](https://news.xbox.com/en-us/2024/06/14/indiana-jones-and-the-great-circle-details/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
