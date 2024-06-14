@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
- - 😝 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
- - 👉 [This is me every day!](http://9gag.com/gag/a5QKp1y)<!-- MEMES:END -->
+ - 6️⃣ [Adobe literally said, `you made this? I made this`.](http://9gag.com/gag/aNDZyQr)
+ - 😝 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)
+ - 👉 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)<!-- MEMES:END -->
 
 --- 
 
