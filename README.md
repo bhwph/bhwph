@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Age discrimination in USA](http://9gag.com/gag/aGyR9q7)
- - 😝 [This is me every day!](http://9gag.com/gag/a5QKp1y)
- - 👉 [If your chick looks at another man like this, you aren&#39;t her first choice](http://9gag.com/gag/aPAGvng)<!-- MEMES:END -->
+ - 6️⃣ [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
+ - 😝 [No words necessary](http://9gag.com/gag/aryRpzd)
+ - 👉 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)<!-- MEMES:END -->
 
 --- 
 
