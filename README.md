@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Show me your power nine gagger](http://9gag.com/gag/azxVgBb)
- - 😝 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
- - 👉 [I love this game!](http://9gag.com/gag/a7obL3b)<!-- MEMES:END -->
+ - 6️⃣ [Everybody act normal, and boys gather around him don&#39;t leave him at the edge.](http://9gag.com/gag/a9yPb16)
+ - 😝 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
+ - 👉 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)<!-- MEMES:END -->
 
 --- 
 
