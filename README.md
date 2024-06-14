@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This guy enjoying sex](http://9gag.com/gag/a87jLw6)
- - 😝 [Sure ya did](http://9gag.com/gag/aGyRK7n)
- - 👉 [Unskippable ads are a crime against humanity](http://9gag.com/gag/aoy0BpX)<!-- MEMES:END -->
+ - 6️⃣ [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
+ - 😝 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
+ - 👉 [This is me every day!](http://9gag.com/gag/a5QKp1y)<!-- MEMES:END -->
 
 --- 
 
