@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Best Internet Providers in Orange, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-orange-ca/#ftag=CAD590a51e)
- - [It&#39;s Hot This Summer. But Don&#39;t Think About Sleeping Naked     - CNET](https://www.cnet.com/health/sleep/its-hot-this-summer-but-dont-think-about-sleeping-naked/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 25 Very Best Gifts for Dad, Picked By a Picky Dad &lpar;2024&rpar;](https://www.wired.com/gallery/best-gifts-for-dads/)
+ - [Tim Cook may have met with Trump during WWDC to discuss second term priorities](https://appleinsider.com/articles/24/06/14/tim-cook-may-have-met-with-trump-during-wwdc-to-discuss-second-term-priorities?utm_medium=rss)
+ - [Tempus AI&#39;s shares closed up 8.8% at $40.25 in the company&#39;s Nasdaq debut, giving it a market value of about $6.6B, after raising $410.7M in its IPO &lpar;Riley de Le&amp;oacute;n/CNBC&rpar;](http://www.techmeme.com/240614/p13#a240614p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
