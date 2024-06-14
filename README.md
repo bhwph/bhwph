@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWDC, macOS Sequoia, iOS 18, and Apple Intelligence on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/14/wwdc-macos-sequoia-ios-18-and-apple-intelligence-on-the-appleinsider-podcast?utm_medium=rss)
- - [Reduce AI Hallucinations With This Neat Software Trick](https://www.wired.com/story/reduce-ai-hallucinations-with-rag/)
- - [The much-needed reinvention of the voice assistant is almost here](https://www.theverge.com/2024/6/14/24177991/apple-intelligence-siri-voice-assistant-amazon-alexa-generative-ai)<!-- TECH:END -->
+ - [Disney brings playable ‘advergames’ to Hulu and ESPN](https://www.theverge.com/2024/6/14/24178373/disney-advergames-shoppable-ads-hulu-espn)
+ - [Deal slashes over $200 off the Samsung Galaxy Tab S9](https://www.androidauthority.com/samsung-galaxy-tab-s9-deals-3451538/)
+ - [watchOS 11 hands-on impressions: Apple Watch gets smarter and more personal than ever](https://www.androidauthority.com/watchos-11-hands-on-3451255/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
