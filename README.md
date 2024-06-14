@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Sunny makes everyone seem like a suspect in new trailer](https://www.theverge.com/24177191/apple-tv-sunny-trailer)
- - [We Asked an Expert About the Hardest Houseplants to Kill     - CNET](https://www.cnet.com/news/we-asked-an-expert-about-the-hardest-houseplants-to-kill/#ftag=CAD590a51e)
- - [Developers can now nominate apps and updates for App Store promotions](https://appleinsider.com/articles/24/06/13/developers-can-now-nominate-apps-and-updates-for-app-store-promotions?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: Clearview AI proposes to settle a class action suit by collectively giving a 23% company stake worth ~$52M to Americans whose faces are in its database &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240613/p35#a240613p35)
+ - [Microsoft delays Recall to test it with the Windows Insider Program and won&#39;t ship it with Copilot+ PCs next week, after saying it would make the feature opt-in &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240613/p34#a240613p34)
+ - [After Europe, Japan introduces law to curb Apple and Google’s app store dominance](https://www.androidauthority.com/japan-app-store-act-3451559/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
