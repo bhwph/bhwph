@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Woman Caught Smuggling 350 Nintendo Switch Games In Her Bra](https://kotaku.com/nintendo-switch-smuggling-bra-china-350-games-hong-kong-1851541203)
- - [Starfield’s Paid Mods Ignite A Review Bombing On Steam](https://kotaku.com/starfield-mods-creations-paid-worth-it-steam-review-1851541215)
- - [Destiny 2 Should Do More Quests Like Dual Destiny, Not Less](https://kotaku.com/destiny-2-dual-destiny-exotic-quest-1851541225)<!-- GAME:END -->
+ - [Netflix’s Ultraman: Rising, I Saw the TV Glow, and every movie new to streaming this week](https://www.polygon.com/2024/6/14/24174156/new-movies-i-saw-the-tv-glow-ultraman-rising-netflix-monkey-man)
+ - [As the newly released World of Warcraft was dominating the 2000s, Blizzard&#39;s then-president had his own priorities—working on StarCraft 1 patches](https://www.pcgamer.com/games/rts/as-the-newly-released-world-of-warcraft-was-dominating-the-2000s-blizzards-then-president-had-his-own-prioritiesworking-on-starcraft-1-patches)
+ - [Maxis canceled The Sims in the &#39;90s, but it was saved by an unlikely hero: Electronic Arts](https://www.pcgamer.com/games/the-sims/maxis-had-canceled-the-sims-in-the-90s-but-it-was-saved-by-an-unlikely-hero-electronic-arts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
