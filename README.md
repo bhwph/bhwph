@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget House of the Dragon, I am watching ant wars on YouTube](https://www.polygon.com/24178680/antscanada-youtube-vivarium)
- - [How To Defeat Matador In Shin Megami Tensei V: Vengeance](https://kotaku.com/shin-megami-tensei-v-vengeance-matador-boss-fight-help-1851540546)
- - [Indiana Jones and the Great Circle: New Details Revealed on the Official Xbox Podcast](https://news.xbox.com/en-us/2024/06/14/indiana-jones-and-the-great-circle-details/)<!-- GAME:END -->
+ - [Woman Caught Smuggling 350 Nintendo Switch Games In Her Bra](https://kotaku.com/nintendo-switch-smuggling-bra-china-350-games-hong-kong-1851541203)
+ - [Starfield’s Paid Mods Ignite A Review Bombing On Steam](https://kotaku.com/starfield-mods-creations-paid-worth-it-steam-review-1851541215)
+ - [Destiny 2 Should Do More Quests Like Dual Destiny, Not Less](https://kotaku.com/destiny-2-dual-destiny-exotic-quest-1851541225)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
