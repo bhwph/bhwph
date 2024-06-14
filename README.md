@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Err, is XFX working on swappable GPU fans?](https://www.pcgamer.com/hardware/graphics-cards/err-is-xfx-working-on-swappable-gpu-fans)
- - [Pay no attention to AMD&#39;s horribly misleading benchmarks for its &#39;new&#39; Ryzen 5000 XT CPUs](https://www.pcgamer.com/hardware/processors/pay-no-attention-to-amds-horribly-misleading-benchmarks-for-its-new-ryzen-5000-xt-cpus)
- - [This ChatGPT-powered robot koala bear is giving me serious Five Nights at Freddy&#39;s vibes](https://www.pcgamer.com/hardware/this-chatgpt-powered-robot-koala-bear-is-giving-me-serious-five-nights-at-freddys-vibes)<!-- GAME:END -->
+ - [Microsoft chickens out of rolling out Recall to all Copilot+ PCs, choosing instead to push the all-seeing AI tool out to Windows Insiders first](https://www.pcgamer.com/software/operating-systems/microsoft-chickens-out-of-rolling-out-recall-to-all-copilot-pcs-choosing-instead-to-push-the-all-seeing-ai-tool-out-to-windows-insiders-first)
+ - [Next Week on Xbox: New Games for June 17 to 21](https://news.xbox.com/en-us/2024/06/14/next-week-on-xbox-new-games-for-june-17-to-21/)
+ - [Talisman’s 5th edition will feature a cooperative expansion for the first time](https://www.polygon.com/24177766/talisman-coop-mode-expansion-alliances-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
