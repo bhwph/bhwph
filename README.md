@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft chickens out of rolling out Recall to all Copilot+ PCs, choosing instead to push the all-seeing AI tool out to Windows Insiders first](https://www.pcgamer.com/software/operating-systems/microsoft-chickens-out-of-rolling-out-recall-to-all-copilot-pcs-choosing-instead-to-push-the-all-seeing-ai-tool-out-to-windows-insiders-first)
- - [Next Week on Xbox: New Games for June 17 to 21](https://news.xbox.com/en-us/2024/06/14/next-week-on-xbox-new-games-for-june-17-to-21/)
- - [Talisman’s 5th edition will feature a cooperative expansion for the first time](https://www.polygon.com/24177766/talisman-coop-mode-expansion-alliances-release-date-price)<!-- GAME:END -->
+ - [Share of the Week: Hogwarts Legacy – Photo Mode](https://blog.playstation.com/2024/06/14/share-of-the-week-hogwarts-legacy-photo-mode/)
+ - [Fallout 76 finally stands triumphant — and there’s more to come](https://www.polygon.com/24177745/fallout-76-skyline-valley-development-update-journey)
+ - [Microsoft president grovels before Congress, takes responsibility for a &#39;cascade&#39; of cybersecurity errors](https://www.pcgamer.com/software/operating-systems/microsoft-president-grovels-before-congress-takes-responsibility-for-a-cascade-of-cybersecurity-errors)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
