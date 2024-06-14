@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I love this game!](http://9gag.com/gag/a7obL3b)
- - 😝 [Tatoo](http://9gag.com/gag/aqy24gZ)
- - 👉 [Indeed it is...](http://9gag.com/gag/aNDZxq6)<!-- MEMES:END -->
+ - 6️⃣ [Show me your power nine gagger](http://9gag.com/gag/azxVgBb)
+ - 😝 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
+ - 👉 [I love this game!](http://9gag.com/gag/a7obL3b)<!-- MEMES:END -->
 
 --- 
 
