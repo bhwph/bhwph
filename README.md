@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boulder, Colorado-based Enveda, which combines AI with ancient remedies for drug discovery, raised a $55M Series B extension from investors including Microsoft &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240614/p2#a240614p2)
- - [I Spent a Week Eating Discarded Restaurant Food. But Was It Really Going to Waste?](https://www.wired.com/story/too-good-to-go-app-week-food-waste/)
- - [Grab the June 2024 security patch for your Galaxy Z Fold 5, older flagships now](https://www.androidauthority.com/samsung-june-2024-security-patch-3451639/)<!-- TECH:END -->
+ - [WWDC, macOS Sequoia, iOS 18, and Apple Intelligence on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/14/wwdc-macos-sequoia-ios-18-and-apple-intelligence-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Reduce AI Hallucinations With This Neat Software Trick](https://www.wired.com/story/reduce-ai-hallucinations-with-rag/)
+ - [The much-needed reinvention of the voice assistant is almost here](https://www.theverge.com/2024/6/14/24177991/apple-intelligence-siri-voice-assistant-amazon-alexa-generative-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
