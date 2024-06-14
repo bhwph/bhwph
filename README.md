@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Everybody act normal, and boys gather around him don&#39;t leave him at the edge.](http://9gag.com/gag/a9yPb16)
- - 😝 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
- - 👉 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)<!-- MEMES:END -->
+ - 6️⃣ [This guy enjoying sex](http://9gag.com/gag/a87jLw6)
+ - 😝 [Sure ya did](http://9gag.com/gag/aGyRK7n)
+ - 👉 [Unskippable ads are a crime against humanity](http://9gag.com/gag/aoy0BpX)<!-- MEMES:END -->
 
 --- 
 
