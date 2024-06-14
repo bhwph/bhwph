@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your electricity bill is forecast to climb with the summer heat](https://www.theverge.com/2024/6/14/24178413/summer-bill-electricity-heat-forecast)
- - [Save up to $180 on Sonos speakers with weekend deals at Best Buy](https://appleinsider.com/articles/24/06/14/save-up-to-180-on-sonos-speakers-with-weekend-deals-at-best-buy?utm_medium=rss)
- - [Sources: the EU has determined that Apple&#39;s anti-steering rules for developers do not comply with the DMA, and plans charges against Apple in the coming weeks &lpar;Financial Times&rpar;](http://www.techmeme.com/240614/p7#a240614p7)<!-- TECH:END -->
+ - [The DJI Mini 3 is only $329 right now, its best price yet](https://www.theverge.com/2024/6/14/24178604/dji-mini-3-deal-sale)
+ - [Sources: the EU plans to charge Meta under the DMA, focusing on its pay or consent model where users pay a subscription for an ad-free Facebook and Instagram &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240614/p10#a240614p10)
+ - [Remote workers using ‘mouse-mover’ technology are getting caught](https://www.theverge.com/2024/6/14/24178582/remote-work-mouse-jiggler-mover-wellsfargo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
