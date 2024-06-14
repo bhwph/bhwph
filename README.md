@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney brings playable ‘advergames’ to Hulu and ESPN](https://www.theverge.com/2024/6/14/24178373/disney-advergames-shoppable-ads-hulu-espn)
- - [Deal slashes over $200 off the Samsung Galaxy Tab S9](https://www.androidauthority.com/samsung-galaxy-tab-s9-deals-3451538/)
- - [watchOS 11 hands-on impressions: Apple Watch gets smarter and more personal than ever](https://www.androidauthority.com/watchos-11-hands-on-3451255/)<!-- TECH:END -->
+ - [Your electricity bill is forecast to climb with the summer heat](https://www.theverge.com/2024/6/14/24178413/summer-bill-electricity-heat-forecast)
+ - [Save up to $180 on Sonos speakers with weekend deals at Best Buy](https://appleinsider.com/articles/24/06/14/save-up-to-180-on-sonos-speakers-with-weekend-deals-at-best-buy?utm_medium=rss)
+ - [Sources: the EU has determined that Apple&#39;s anti-steering rules for developers do not comply with the DMA, and plans charges against Apple in the coming weeks &lpar;Financial Times&rpar;](http://www.techmeme.com/240614/p7#a240614p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
