@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Everybody act normal, and boys gather around him don&#39;t leave him at the edge.](http://9gag.com/gag/a9yPb16)
- - 😝 [Ghost boat which the crew disappeared on April 4, 2023 seen adrift with a broken mast and no one on board by a Norwegian Cruise Liner.](http://9gag.com/gag/aE01LvK)
- - 👉 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)<!-- MEMES:END -->
+ - 6️⃣ [Crazy](http://9gag.com/gag/adBp0NV)
+ - 😝 [Such kindest in the reply! \u201cSo close!\u201d](http://9gag.com/gag/aQz4wXK)
+ - 👉 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)<!-- MEMES:END -->
 
 --- 
 
