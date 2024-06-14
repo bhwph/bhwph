@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DJI Mini 3 is only $329 right now, its best price yet](https://www.theverge.com/2024/6/14/24178604/dji-mini-3-deal-sale)
- - [Sources: the EU plans to charge Meta under the DMA, focusing on its pay or consent model where users pay a subscription for an ad-free Facebook and Instagram &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240614/p10#a240614p10)
- - [Remote workers using ‘mouse-mover’ technology are getting caught](https://www.theverge.com/2024/6/14/24178582/remote-work-mouse-jiggler-mover-wellsfargo)<!-- TECH:END -->
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [Best Internet Providers in Orange, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-orange-ca/#ftag=CAD590a51e)
+ - [It&#39;s Hot This Summer. But Don&#39;t Think About Sleeping Naked     - CNET](https://www.cnet.com/health/sleep/its-hot-this-summer-but-dont-think-about-sleeping-naked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
