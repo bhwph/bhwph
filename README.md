@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Crazy](http://9gag.com/gag/adBp0NV)
- - 😝 [Such kindest in the reply! \u201cSo close!\u201d](http://9gag.com/gag/aQz4wXK)
- - 👉 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)<!-- MEMES:END -->
+ - 6️⃣ [I love this game!](http://9gag.com/gag/a7obL3b)
+ - 😝 [Tatoo](http://9gag.com/gag/aqy24gZ)
+ - 👉 [Indeed it is...](http://9gag.com/gag/aNDZxq6)<!-- MEMES:END -->
 
 --- 
 
