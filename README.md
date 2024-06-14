@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Adobe literally said, `you made this? I made this`.](http://9gag.com/gag/aNDZyQr)
- - 😝 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)
- - 👉 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)<!-- MEMES:END -->
+ - 6️⃣ [Age discrimination in USA](http://9gag.com/gag/aGyR9q7)
+ - 😝 [This is me every day!](http://9gag.com/gag/a5QKp1y)
+ - 👉 [If your chick looks at another man like this, you aren&#39;t her first choice](http://9gag.com/gag/aPAGvng)<!-- MEMES:END -->
 
 --- 
 
