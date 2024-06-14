@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The most eagerly anticipated emulator for Android is no more](https://www.androidauthority.com/cassia-app-emulator-cancelled-3451597/)
- - [YouTube is breaking ad blockers again, and trials a viewing limitation &lpar;Update: Google statement&rpar;](https://www.androidauthority.com/youtube-server-side-ads-3451248/)
- - [This Samsung Galaxy Z Fold 6 dummy unit gives us a much better look at the design](https://www.androidauthority.com/samsung-galaxy-z-fold-6-dummy-unit-leak-3451603/)<!-- TECH:END -->
+ - [Boulder, Colorado-based Enveda, which combines AI with ancient remedies for drug discovery, raised a $55M Series B extension from investors including Microsoft &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240614/p2#a240614p2)
+ - [I Spent a Week Eating Discarded Restaurant Food. But Was It Really Going to Waste?](https://www.wired.com/story/too-good-to-go-app-week-food-waste/)
+ - [Grab the June 2024 security patch for your Galaxy Z Fold 5, older flagships now](https://www.androidauthority.com/samsung-june-2024-security-patch-3451639/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
