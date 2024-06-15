@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I\u2019ve had many nightmares take place in similar elevators](http://9gag.com/gag/aGyRwY0)
- - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - 👉 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)<!-- MEMES:END -->
+ - 6️⃣ [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 😝 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
+ - 👉 [Oof](http://9gag.com/gag/ae9ppoq)<!-- MEMES:END -->
 
 --- 
 
