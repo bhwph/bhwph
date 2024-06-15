@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)
- - 😝 [Splash](http://9gag.com/gag/aGyRVm7)
- - 👉 [No words necessary](http://9gag.com/gag/aryRpzd)<!-- MEMES:END -->
+ - 6️⃣ [Giorgia Meloni clearly doesn&#39;t like Emmanuel Macron](http://9gag.com/gag/awy7K0r)
+ - 😝 [One Wheel Bike Stunt While Jumping Rope!](http://9gag.com/gag/a0eY8XQ)
+ - 👉 [Is this real life?](http://9gag.com/gag/aXPXEED)<!-- MEMES:END -->
 
 --- 
 
