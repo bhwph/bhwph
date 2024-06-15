@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Japnese kids doing their assignment](http://9gag.com/gag/aO8mq1r)
- - 😝 [Smol guy meets the pack](http://9gag.com/gag/aByrr21)
- - 👉 [Age discrimination in USA](http://9gag.com/gag/aGyR9q7)<!-- MEMES:END -->
+ - 😝 [Age discrimination in USA](http://9gag.com/gag/aGyR9q7)
+ - 👉 [Smol guy meets the pack](http://9gag.com/gag/aByrr21)<!-- MEMES:END -->
 
 --- 
 
