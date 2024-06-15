@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Avoid Getting Sick This Summer](https://www.wired.com/story/summer-sickness-illness-flu-germs-backyard-water/)
- - [Apple Intelligence Won’t Work on Hundreds of Millions of iPhones—but Maybe It Could](https://www.wired.com/story/apple-intelligence-wont-work-on-100s-of-millions-of-iphones-but-maybe-it-could/)
- - [Panerai’s Submersible Elux Lab-ID Dive Watch Generates Its Own Light Show](https://www.wired.com/story/panerai-submersible-elux-lab-id/)<!-- TECH:END -->
+ - [How the launch of AI search chatbots such as Bing Copilot is affecting advertisers, as they look for new ways to target users with relevant ads &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240615/p3#a240615p3)
+ - [Barnes and Noble Nook 9-Inch Lenovo Tablet Review: Affordable and Capable](https://www.wired.com/review/nook-9-lenovo-tablet/)
+ - [The iPad should fold in half](https://www.theverge.com/2024/6/15/24177306/apple-foldable-phone-ipados-18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
