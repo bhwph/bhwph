@@ -128,8 +128,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [I’ve looked at thousands of phone wallpapers, here are my absolute favorites](https://www.androidauthority.com/best-phone-wallpapers-3451628/)
- - [Nigeria drops tax evasion charges against Binance executives Tigran Gambaryan and Nadeem Anjarwalla, who still face money laundering charges &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240614/p17#a240614p17)
- - [Nvidia announces Nemotron-4 340B, a family of models that developers can use to generate synthetic data for training LLMs for commercial applications &lpar;Ankit Patel/NVIDIA&rpar;](http://www.techmeme.com/240614/p16#a240614p16)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 15, #370     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answer-help-for-june-15-370/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 15, #1092     - CNET](https://www.cnet.com/news/todays-wordle-hints-and-answer-help-for-june-15-1092/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
