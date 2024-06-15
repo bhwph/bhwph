@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of game publisher Devolver Digital, which gives indie studios immense creative freedom, doesn&#39;t take IP rights from them, and is turning 15 on June 25 &lpar;Rollo Romig/New York Times&rpar;](http://www.techmeme.com/240615/p5#a240615p5)
- - [iOS 18 hidden feature: iPhones can do math calculations on any text field!](https://www.androidauthority.com/ios-18-math-calculations-text-field-3451888/)
- - [Philips Hue’s jaunty sunrise smart lamp is called the Twilight](https://www.theverge.com/2024/6/15/24179119/philips-hue-smart-lamp-twilight-solo-lightstrip)<!-- TECH:END -->
+ - [Microsoft simplifies file sharing between PC and Android in new update](https://www.androidauthority.com/microsoft-my-phone-icon-update-3451921/)
+ - [You Can Renew Your Passport Online, but Only if You Act Quickly     - CNET](https://www.cnet.com/tech/services-and-software/you-can-renew-your-passport-online-but-only-if-you-act-quickly/#ftag=CAD590a51e)
+ - [Find Your Estimated Monthly Social Security Benefit Amount Online     - CNET](https://www.cnet.com/personal-finance/find-your-estimated-monthly-social-security-benefit-amount-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
