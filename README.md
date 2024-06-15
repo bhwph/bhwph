@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best T-Mobile Phones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-t-mobile-phones/#ftag=CAD590a51e)
- - [Social Security Checks Are Coming a Day Early This Week. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/social-security-checks-are-coming-a-day-early-this-week-heres-why/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 15, #104     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Avoid Getting Sick This Summer](https://www.wired.com/story/summer-sickness-illness-flu-germs-backyard-water/)
+ - [Apple Intelligence Won’t Work on Hundreds of Millions of iPhones—but Maybe It Could](https://www.wired.com/story/apple-intelligence-wont-work-on-100s-of-millions-of-iphones-but-maybe-it-could/)
+ - [Panerai’s Submersible Elux Lab-ID Dive Watch Generates Its Own Light Show](https://www.wired.com/story/panerai-submersible-elux-lab-id/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
