@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, June 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-15-2024)
  - [Pokémon Go ‘Spelunker’s Cove’ event and Timed Research tasks](https://www.polygon.com/pokemon-go-guide/2024/6/14/24178461/spelunkers-cove-event-timed-research-shiny-crabrawler)
- - [Dying in Spelunky sometimes makes me mad, but it always just makes me laugh in comically brutal roguelike Lucky Tower Ultimate](https://www.pcgamer.com/games/roguelike/dying-in-spelunky-sometimes-makes-me-mad-but-it-always-just-makes-me-laugh-in-comically-brutal-roguelike-lucky-tower-ultimate)
- - [Netflix’s Ultraman: Rising, I Saw the TV Glow, and every movie new to streaming this week](https://www.polygon.com/2024/6/14/24174156/new-movies-i-saw-the-tv-glow-ultraman-rising-netflix-monkey-man)<!-- GAME:END -->
+ - [Dying in Spelunky sometimes makes me mad, but it always just makes me laugh in comically brutal roguelike Lucky Tower Ultimate](https://www.pcgamer.com/games/roguelike/dying-in-spelunky-sometimes-makes-me-mad-but-it-always-just-makes-me-laugh-in-comically-brutal-roguelike-lucky-tower-ultimate)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
