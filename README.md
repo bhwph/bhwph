@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside Out 2 ruins one of Inside Out’s best gags — and it’s no big deal](https://www.polygon.com/24178809/inside-out-2-emotions-plot-holes-explained)
- - [The best sci-fi movies to watch on Netflix this June](https://www.polygon.com/what-to-watch/2024/6/15/24176154/best-sci-fi-movies-watch-netflix-june-2024)
- - [Hands-On With Star Wars Outlaws, Weighing In On Dragon Age Discourse, And More Takes For The Week](https://kotaku.com/star-wars-outlaws-hands-on-astro-boy-dragon-age-1851540656)<!-- GAME:END -->
+ - [There&#39;ll be a limited edition Lamborghini PC case that looks a lot like every other PC case](https://www.pcgamer.com/hardware/pc-cases/therell-be-a-limited-edition-lamborghini-pc-case-that-looks-a-lot-like-every-other-pc-case)
+ - [Dragon Age: The Veilguard leads say it will be &#39;mission-based&#39; rather than open world, with no fetch quests or busywork: &#39;You&#39;re not going to be gathering shards in the Hinterlands&#39;](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-leads-say-it-will-be-mission-based-rather-than-open-world-with-no-fetch-quests-or-busywork-youre-not-going-to-be-gathering-shards-in-the-hinterlands)
+ - [Inside Out 2 ruins one of Inside Out’s best gags — and it’s no big deal](https://www.polygon.com/24178809/inside-out-2-emotions-plot-holes-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
