@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is this real life?](http://9gag.com/gag/aXPXEED)
- - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - 👉 [No words necessary](http://9gag.com/gag/aryRpzd)<!-- MEMES:END -->
+ - 6️⃣ [Some stories just write themselves. EU the land of opportunity](http://9gag.com/gag/a0eYPnX)
+ - 😝 [Japnese kids doing their assignment](http://9gag.com/gag/aO8mq1r)
+ - 👉 [When Coca Cola announced it sold 4 times more than Pepsi in 2001, Pepsi responded with this commercial](http://9gag.com/gag/aNDKZ1K)<!-- MEMES:END -->
 
 --- 
 
