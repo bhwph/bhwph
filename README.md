@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is beautiful](http://9gag.com/gag/a9yPbbm)
+ - 6️⃣ [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)
  - 😝 [Splash](http://9gag.com/gag/aGyRVm7)
- - 👉 [What movie do you think this is behind the scenes of?](http://9gag.com/gag/aKGB46Z)<!-- MEMES:END -->
+ - 👉 [No words necessary](http://9gag.com/gag/aryRpzd)<!-- MEMES:END -->
 
 --- 
 
