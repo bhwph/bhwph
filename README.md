@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve looked at thousands of phone wallpapers, here are my absolute favorites](https://www.androidauthority.com/best-phone-wallpapers-3451628/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 15, #370     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answer-help-for-june-15-370/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for June 15, #1092     - CNET](https://www.cnet.com/news/todays-wordle-hints-and-answer-help-for-june-15-1092/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Social Security Checks Are Coming a Day Early This Week. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/social-security-checks-are-coming-a-day-early-this-week-heres-why/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 15, #104     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)
+ - [Indie games were the real stars of the Summer Game Fest 2024; the top 10 bestselling games of 2024 so far on Steam in terms of units sold are almost all indie &lpar;Keza MacDonald/The Guardian&rpar;](http://www.techmeme.com/240615/p1#a240615p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
