@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is me every day!](http://9gag.com/gag/a5QKp1y)
- - 😝 [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)
- - 👉 [So original, so brave](http://9gag.com/gag/ajPn6D0)<!-- MEMES:END -->
+ - 6️⃣ [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 😝 [Yes I do sex every day](http://9gag.com/gag/avyL0Kn)
+ - 👉 [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)<!-- MEMES:END -->
 
 --- 
 
