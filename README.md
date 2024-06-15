@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Inside Out 2 ruins one of Inside Out’s best gags — and it’s no big deal](https://www.polygon.com/24178809/inside-out-2-emotions-plot-holes-explained)
  - [The best sci-fi movies to watch on Netflix this June](https://www.polygon.com/what-to-watch/2024/6/15/24176154/best-sci-fi-movies-watch-netflix-june-2024)
- - [Hands-On With Star Wars Outlaws, Weighing In On Dragon Age Discourse, And More Takes For The Week](https://kotaku.com/star-wars-outlaws-hands-on-astro-boy-dragon-age-1851540656)
- - [A Revealing Epic Store Leak, New Star Wars Outlaws Details And More Of The Week&#39;s Big Stories](https://kotaku.com/star-wars-outlaws-epic-games-store-leak-nintendo-direct-1851540653)<!-- GAME:END -->
+ - [Hands-On With Star Wars Outlaws, Weighing In On Dragon Age Discourse, And More Takes For The Week](https://kotaku.com/star-wars-outlaws-hands-on-astro-boy-dragon-age-1851540656)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
