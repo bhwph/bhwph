@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)
- - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - 👉 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)<!-- MEMES:END -->
+ - 6️⃣ [This is me every day!](http://9gag.com/gag/a5QKp1y)
+ - 😝 [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)
+ - 👉 [So original, so brave](http://9gag.com/gag/ajPn6D0)<!-- MEMES:END -->
 
 --- 
 
