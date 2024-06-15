@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 25 Very Best Gifts for Dad, Picked By a Picky Dad &lpar;2024&rpar;](https://www.wired.com/gallery/best-gifts-for-dads/)
- - [Tim Cook may have met with Trump during WWDC to discuss second term priorities](https://appleinsider.com/articles/24/06/14/tim-cook-may-have-met-with-trump-during-wwdc-to-discuss-second-term-priorities?utm_medium=rss)
- - [Tempus AI&#39;s shares closed up 8.8% at $40.25 in the company&#39;s Nasdaq debut, giving it a market value of about $6.6B, after raising $410.7M in its IPO &lpar;Riley de Le&amp;oacute;n/CNBC&rpar;](http://www.techmeme.com/240614/p13#a240614p13)<!-- TECH:END -->
+ - [Nvidia announces Nemotron-4 340B, a family of models that developers can use to generate synthetic data for training LLMs for commercial applications &lpar;Ankit Patel/NVIDIA&rpar;](http://www.techmeme.com/240614/p16#a240614p16)
+ - [Source: Sam Altman recently told some investors that OpenAI is considering changing to a for-profit benefit corporation that its nonprofit board doesn&#39;t control &lpar;The Information&rpar;](http://www.techmeme.com/240614/p15#a240614p15)
+ - [How to Reset Your Router: The Quick Fix That Solves Most Internet Issues     - CNET](https://www.cnet.com/home/internet/how-to-reset-your-router-the-quick-fix-that-solves-most-internet-issues/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
