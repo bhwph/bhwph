@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - 😝 [Yes I do sex every day](http://9gag.com/gag/avyL0Kn)
- - 👉 [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)<!-- MEMES:END -->
+ - 6️⃣ [Is this real life?](http://9gag.com/gag/aXPXEED)
+ - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 👉 [No words necessary](http://9gag.com/gag/aryRpzd)<!-- MEMES:END -->
 
 --- 
 
