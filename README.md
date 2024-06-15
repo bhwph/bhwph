@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;I&#39;m still in the process of making my ideal fantasy RPG,&#39; says FromSoftware&#39;s Hidetaka Miyazaki: &#39;While Elden Ring is not quite it, it&#39;s getting close&#39;](https://www.pcgamer.com/games/rpg/im-still-in-the-process-of-making-my-ideal-fantasy-rpg-says-fromsoftwares-hidetaka-miyazaki-while-elden-ring-is-not-quite-it-its-getting-close)
  - [Today&#39;s Wordle answer for Saturday, June 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-15-2024)
- - [Pokémon Go ‘Spelunker’s Cove’ event and Timed Research tasks](https://www.polygon.com/pokemon-go-guide/2024/6/14/24178461/spelunkers-cove-event-timed-research-shiny-crabrawler)
- - [Dying in Spelunky sometimes makes me mad, but it always just makes me laugh in comically brutal roguelike Lucky Tower Ultimate](https://www.pcgamer.com/games/roguelike/dying-in-spelunky-sometimes-makes-me-mad-but-it-always-just-makes-me-laugh-in-comically-brutal-roguelike-lucky-tower-ultimate)<!-- GAME:END -->
+ - [Pokémon Go ‘Spelunker’s Cove’ event and Timed Research tasks](https://www.polygon.com/pokemon-go-guide/2024/6/14/24178461/spelunkers-cove-event-timed-research-shiny-crabrawler)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
