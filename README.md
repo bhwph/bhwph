@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the launch of AI search chatbots such as Bing Copilot is affecting advertisers, as they look for new ways to target users with relevant ads &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240615/p3#a240615p3)
- - [Barnes and Noble Nook 9-Inch Lenovo Tablet Review: Affordable and Capable](https://www.wired.com/review/nook-9-lenovo-tablet/)
- - [The iPad should fold in half](https://www.theverge.com/2024/6/15/24177306/apple-foldable-phone-ipados-18)<!-- TECH:END -->
+ - [Apple may not be bringing Apple Intelligence to iPhone 15, which has 6GB of RAM vs. iPhone 15 Pro&#39;s 8GB, due to RAM requirements for on-device AI processing &lpar;Andrew Williams/Wired&rpar;](http://www.techmeme.com/240615/p4#a240615p4)
+ - [How to make boot media for PowerPC Macs on modern hardware](https://appleinsider.com/inside/mac/tips/how-to-make-boot-media-for-powerpc-macs-on-modern-hardware?utm_medium=rss)
+ - [What happened to Safari Web Eraser -- the controversy, and what it looked like](https://appleinsider.com/articles/24/06/14/what-happened-to-safari-web-eraser----the-controversy-and-what-it-looked-like?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
