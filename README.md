@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh no!](http://9gag.com/gag/ae9p3Vv)
- - 😝 [Brave people of Scotland](http://9gag.com/gag/aLnBKxx)
- - 👉 [And that, my friends, is how you spot a citizen of the US of A](http://9gag.com/gag/amo8XKV)<!-- MEMES:END -->
+ - 6️⃣ [This is beautiful](http://9gag.com/gag/a9yPbbm)
+ - 😝 [Splash](http://9gag.com/gag/aGyRVm7)
+ - 👉 [What movie do you think this is behind the scenes of?](http://9gag.com/gag/aKGB46Z)<!-- MEMES:END -->
 
 --- 
 
