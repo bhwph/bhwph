@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some stories just write themselves. EU the land of opportunity](http://9gag.com/gag/a0eYPnX)
- - 😝 [Japnese kids doing their assignment](http://9gag.com/gag/aO8mq1r)
- - 👉 [When Coca Cola announced it sold 4 times more than Pepsi in 2001, Pepsi responded with this commercial](http://9gag.com/gag/aNDKZ1K)<!-- MEMES:END -->
+ - 6️⃣ [Japnese kids doing their assignment](http://9gag.com/gag/aO8mq1r)
+ - 😝 [Smol guy meets the pack](http://9gag.com/gag/aByrr21)
+ - 👉 [Age discrimination in USA](http://9gag.com/gag/aGyR9q7)<!-- MEMES:END -->
 
 --- 
 
