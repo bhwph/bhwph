@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I&#39;m still in the process of making my ideal fantasy RPG,&#39; says FromSoftware&#39;s Hidetaka Miyazaki: &#39;While Elden Ring is not quite it, it&#39;s getting close&#39;](https://www.pcgamer.com/games/rpg/im-still-in-the-process-of-making-my-ideal-fantasy-rpg-says-fromsoftwares-hidetaka-miyazaki-while-elden-ring-is-not-quite-it-its-getting-close)
- - [Today&#39;s Wordle answer for Saturday, June 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-15-2024)
- - [Pokémon Go ‘Spelunker’s Cove’ event and Timed Research tasks](https://www.polygon.com/pokemon-go-guide/2024/6/14/24178461/spelunkers-cove-event-timed-research-shiny-crabrawler)<!-- GAME:END -->
+ - [Hands-On With Star Wars Outlaws, Weighing In On Dragon Age Discourse, And More Takes For The Week](https://kotaku.com/star-wars-outlaws-hands-on-astro-boy-dragon-age-1851540656)
+ - [A Revealing Epic Store Leak, New Star Wars Outlaws Details And More Of The Week&#39;s Big Stories](https://kotaku.com/star-wars-outlaws-epic-games-store-leak-nintendo-direct-1851540653)
+ - [The House of the Dragon timeline so far](https://www.polygon.com/23367111/house-dragon-time-jumps-years-timeline)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
