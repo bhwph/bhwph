@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nigeria drops tax evasion charges against Binance executives Tigran Gambaryan and Nadeem Anjarwalla, who still face money laundering charges &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240614/p17#a240614p17)
  - [Nvidia announces Nemotron-4 340B, a family of models that developers can use to generate synthetic data for training LLMs for commercial applications &lpar;Ankit Patel/NVIDIA&rpar;](http://www.techmeme.com/240614/p16#a240614p16)
- - [Source: Sam Altman recently told some investors that OpenAI is considering changing to a for-profit benefit corporation that its nonprofit board doesn&#39;t control &lpar;The Information&rpar;](http://www.techmeme.com/240614/p15#a240614p15)
- - [How to Reset Your Router: The Quick Fix That Solves Most Internet Issues     - CNET](https://www.cnet.com/home/internet/how-to-reset-your-router-the-quick-fix-that-solves-most-internet-issues/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Sam Altman recently told some investors that OpenAI is considering changing to a for-profit benefit corporation that its nonprofit board doesn&#39;t control &lpar;The Information&rpar;](http://www.techmeme.com/240614/p15#a240614p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
