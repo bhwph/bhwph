@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dying in Spelunky sometimes makes me mad, but it always just makes me laugh in comically brutal roguelike Lucky Tower Ultimate](https://www.pcgamer.com/games/roguelike/dying-in-spelunky-sometimes-makes-me-mad-but-it-always-just-makes-me-laugh-in-comically-brutal-roguelike-lucky-tower-ultimate)
  - [Netflix’s Ultraman: Rising, I Saw the TV Glow, and every movie new to streaming this week](https://www.polygon.com/2024/6/14/24174156/new-movies-i-saw-the-tv-glow-ultraman-rising-netflix-monkey-man)
- - [As the newly released World of Warcraft was dominating the 2000s, Blizzard&#39;s then-president had his own priorities—working on StarCraft 1 patches](https://www.pcgamer.com/games/rts/as-the-newly-released-world-of-warcraft-was-dominating-the-2000s-blizzards-then-president-had-his-own-prioritiesworking-on-starcraft-1-patches)
- - [Maxis canceled The Sims in the &#39;90s, but it was saved by an unlikely hero: Electronic Arts](https://www.pcgamer.com/games/the-sims/maxis-had-canceled-the-sims-in-the-90s-but-it-was-saved-by-an-unlikely-hero-electronic-arts)<!-- GAME:END -->
+ - [As the newly released World of Warcraft was dominating the 2000s, Blizzard&#39;s then-president had his own priorities—working on StarCraft 1 patches](https://www.pcgamer.com/games/rts/as-the-newly-released-world-of-warcraft-was-dominating-the-2000s-blizzards-then-president-had-his-own-prioritiesworking-on-starcraft-1-patches)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
