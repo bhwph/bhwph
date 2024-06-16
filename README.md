@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 6️⃣ [Bacterial nanomotors spin at around 20,000 rpm and are also almost 100% Efficient, while even the most advanced motors of today are nowhere near it](http://9gag.com/gag/aLnB2gW)
  - 😝 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
- - 👉 [Oof](http://9gag.com/gag/ae9ppoq)<!-- MEMES:END -->
+ - 👉 [She is gonna make him stay after class](http://9gag.com/gag/amo8Lo9)<!-- MEMES:END -->
 
 --- 
 
