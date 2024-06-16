@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Spot a Business Email Compromise Scam](https://www.wired.com/story/how-to-spot-business-email-compromise-scam/)
- - [The super simple gadget trying to replace your phone](https://www.theverge.com/2024/6/16/24178592/light-phone-3-yahoo-news-apple-passwords-installer)
- - [Light-Based Chips Could Help Slake AI&#39;s Ever-Growing Thirst for Energy](https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/)<!-- TECH:END -->
+ - [Not all new Apple Intelligence features will be available in the fall](https://appleinsider.com/articles/24/06/16/not-all-new-apple-intelligence-features-will-be-available-in-the-fall?utm_medium=rss)
+ - [Analog Photography: The Beginner’s Guide to Film Cameras &lpar;2024&rpar;](https://www.wired.com/story/film-photography-beginners-guide/)
+ - [Spotify’s AI DJ has me yearning for a Gemini-infused YouTube Music](https://www.androidauthority.com/spotify-ai-dj-youtube-music-gemni-3451930/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
