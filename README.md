@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No words necessary](http://9gag.com/gag/aryRpzd)
- - 😝 [Woke agenda made fans quit Boys season 4 after just one episode. Yes, it&#39;s them again. Strong black female character who also identifies as `smartest person on the planet`. Show creators tell fans to `watch something else`.](http://9gag.com/gag/aAypY9R)
- - 👉 [Hah....](http://9gag.com/gag/ae9ppAO)<!-- MEMES:END -->
+ - 6️⃣ [Who needs a man?](http://9gag.com/gag/a34Ld3m)
+ - 😝 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
+ - 👉 [Another TV show ruined](http://9gag.com/gag/aD2m31O)<!-- MEMES:END -->
 
 --- 
 
