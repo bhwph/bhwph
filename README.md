@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In 1989, a Nintendo bigwig licensed SimCity on the spot by sliding a million dollar check across the table](https://www.pcgamer.com/games/sim/in-1989-a-nintendo-bigwig-licensed-simcity-on-the-spot-by-sliding-a-million-dollar-check-across-the-table)
- - [FromSoftware says Elden Ring&#39;s popular Seamless Co-op mod is &#39;definitely not something we actively oppose,&#39; and may even &#39;consider ideas like that with our future games&#39;](https://www.pcgamer.com/games/rpg/fromsoftwares-says-elden-rings-seamless-co-op-mod-is-definitely-not-something-we-actively-oppose-and-may-even-consider-ideas-like-that-with-our-future-games)
- - [Sports video games made me understand fanfiction](https://www.polygon.com/24177873/sports-video-games-fanfiction-challengers-topspin)<!-- GAME:END -->
+ - [A Destiny player known for soloing the game&#39;s toughest activities was stumped by the game&#39;s new mission that won&#39;t load without a second player⁠—until he resolved to play two Guardians at once](https://www.pcgamer.com/games/fps/a-destiny-player-known-for-soloing-the-games-toughest-activities-was-stumped-by-the-games-new-mission-that-wont-load-without-a-second-playeruntil-he-resolved-to-play-two-guardians-at-once)
+ - [Senior World of Warcraft dev says we might see single player &#39;story mode&#39; versions of legacy raids in the future](https://www.pcgamer.com/games/world-of-warcraft/senior-world-of-warcraft-dev-says-we-might-see-single-player-story-mode-versions-of-legacy-raids-in-the-future)
+ - [In 1989, a Nintendo bigwig licensed SimCity on the spot by sliding a million dollar check across the table](https://www.pcgamer.com/games/sim/in-1989-a-nintendo-bigwig-licensed-simcity-on-the-spot-by-sliding-a-million-dollar-check-across-the-table)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
