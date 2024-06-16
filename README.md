@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite disinformation concerns during India&#39;s elections, political parties largely used AI, including deepfakes, constructively, primarily for voter outreach &lpar;The Conversation&rpar;](http://www.techmeme.com/240616/p2#a240616p2)
- - [&#39;House of the Dragon&#39; Season 2 Airs Tonight: How to Watch Season 2 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/house-of-the-dragon-how-to-watch-season-2-from-anywhere/#ftag=CAD590a51e)
- - [Best Smart Locks of 2024     - CNET](https://www.cnet.com/home/security/best-smart-locks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Spot a Business Email Compromise Scam](https://www.wired.com/story/how-to-spot-business-email-compromise-scam/)
+ - [The super simple gadget trying to replace your phone](https://www.theverge.com/2024/6/16/24178592/light-phone-3-yahoo-news-apple-passwords-installer)
+ - [Light-Based Chips Could Help Slake AI&#39;s Ever-Growing Thirst for Energy](https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
