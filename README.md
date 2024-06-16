@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple won’t wait until next year for some Siri improvements](https://www.theverge.com/2024/6/16/24179526/apple-intelligence-siri-natural-language-upgrade-ios-18)
- - [Buying a laptop in late 2024 is going to be hella complicated](https://www.androidauthority.com/buying-a-laptop-2024-commentary-3449577/)
- - [The Best Electric Bikes of 2024 That We&#39;ve Tested and Reviewed](https://www.wired.com/gallery/best-electric-bikes/)<!-- TECH:END -->
+ - [The OLED iPad Pro was only the beginning for Apple’s return to thin devices](https://www.theverge.com/2024/6/16/24179598/iphone-17-slim-apple-thinness-ipad-pro-macbook-apple-watch)
+ - [Firefighter credits Apple Watch for live-saving intervention](https://appleinsider.com/articles/24/06/16/firefighter-credits-apple-watch-for-live-saving-intervention?utm_medium=rss)
+ - [With US carrier price hikes, I believe prepaid services are the way forward for most US consumers](https://www.androidauthority.com/prepaid-vs-postpaid-3445837/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
