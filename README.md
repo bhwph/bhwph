@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [In 1989, a Nintendo bigwig licensed SimCity on the spot by sliding a million dollar check across the table](https://www.pcgamer.com/games/sim/in-1989-a-nintendo-bigwig-licensed-simcity-on-the-spot-by-sliding-a-million-dollar-check-across-the-table)
  - [FromSoftware says Elden Ring&#39;s popular Seamless Co-op mod is &#39;definitely not something we actively oppose,&#39; and may even &#39;consider ideas like that with our future games&#39;](https://www.pcgamer.com/games/rpg/fromsoftwares-says-elden-rings-seamless-co-op-mod-is-definitely-not-something-we-actively-oppose-and-may-even-consider-ideas-like-that-with-our-future-games)
- - [Sports video games made me understand fanfiction](https://www.polygon.com/24177873/sports-video-games-fanfiction-challengers-topspin)
- - [How To Prep For Elden Ring: Shadow Of The Erdtree And More Of The Week&#39;s Gaming Tips](https://kotaku.com/tips-guides-shadow-erdtree-how-to-access-prep-level-1851540654)<!-- GAME:END -->
+ - [Sports video games made me understand fanfiction](https://www.polygon.com/24177873/sports-video-games-fanfiction-challengers-topspin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
