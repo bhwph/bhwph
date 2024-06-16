@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Being an ATM til the end](http://9gag.com/gag/avyLnbn)
+ - 6️⃣ [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
  - 😝 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
- - 👉 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)<!-- MEMES:END -->
+ - 👉 [A very beautiful Czech policewoman](http://9gag.com/gag/a9yPLGZ)<!-- MEMES:END -->
 
 --- 
 
