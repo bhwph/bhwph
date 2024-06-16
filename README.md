@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - 😝 [What a mad lad!](http://9gag.com/gag/aGyRx8K)
- - 👉 [Woke agenda made fans quit Boys season 4 after just one episode. Yes, it&#39;s them again. Strong black female character who also identifies as `smartest person on the planet`. Show creators tell fans to `watch something else`.](http://9gag.com/gag/aAypY9R)<!-- MEMES:END -->
+ - 6️⃣ [No words necessary](http://9gag.com/gag/aryRpzd)
+ - 😝 [Woke agenda made fans quit Boys season 4 after just one episode. Yes, it&#39;s them again. Strong black female character who also identifies as `smartest person on the planet`. Show creators tell fans to `watch something else`.](http://9gag.com/gag/aAypY9R)
+ - 👉 [Hah....](http://9gag.com/gag/ae9ppAO)<!-- MEMES:END -->
 
 --- 
 
