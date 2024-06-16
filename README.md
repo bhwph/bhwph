@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just in case...](http://9gag.com/gag/a5QK77o)
- - 😝 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
- - 👉 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
+ - 6️⃣ [Dating pool at 40](http://9gag.com/gag/a0eYdoL)
+ - 😝 [A kid walks by a dog trainer](http://9gag.com/gag/an7BygB)
+ - 👉 [Unexpected](http://9gag.com/gag/a2vqd0p)<!-- MEMES:END -->
 
 --- 
 
