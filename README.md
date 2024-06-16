@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;ll be a limited edition Lamborghini PC case that looks a lot like every other PC case](https://www.pcgamer.com/hardware/pc-cases/therell-be-a-limited-edition-lamborghini-pc-case-that-looks-a-lot-like-every-other-pc-case)
- - [Dragon Age: The Veilguard leads say it will be &#39;mission-based&#39; rather than open world, with no fetch quests or busywork: &#39;You&#39;re not going to be gathering shards in the Hinterlands&#39;](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-leads-say-it-will-be-mission-based-rather-than-open-world-with-no-fetch-quests-or-busywork-youre-not-going-to-be-gathering-shards-in-the-hinterlands)
- - [Inside Out 2 ruins one of Inside Out’s best gags — and it’s no big deal](https://www.polygon.com/24178809/inside-out-2-emotions-plot-holes-explained)<!-- GAME:END -->
+ - [The next game from Heaven&#39;s Vault studio Inkle is about a 1920s school for girls](https://www.pcgamer.com/games/visual-novel/the-next-game-from-heavens-vault-studio-inkle-is-about-a-1920s-school-for-girls)
+ - [Files allegedly obtained in the 2021 CD Projekt hack indicate Cyberpunk 2077 was once planned to have a level or DLC set on the Moon](https://www.pcgamer.com/games/rpg/files-allegedly-obtained-in-the-2021-cd-projekt-hack-indicate-cyberpunk-2077-was-once-planned-to-have-a-level-or-dlc-set-on-the-moon)
+ - [Great moments in PC gaming: Choosing your origin in Dragon Age Origins](https://www.pcgamer.com/games/rpg/great-moments-in-pc-gaming-choosing-your-origin-in-dragon-age-origins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
