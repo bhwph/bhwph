@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos removes a promise to not sell personal data, gets busted by users](https://appleinsider.com/articles/24/06/15/sonos-removes-a-promise-to-not-sell-personal-data-gets-busted-by-users?utm_medium=rss)
- - [You Can Renew Your Passport Online, but Only if You Act Quickly     - CNET](https://www.cnet.com/tech/services-and-software/you-can-renew-your-passport-online-but-only-if-you-act-quickly/#ftag=CAD590a51e)
- - [Apple added a Vocal Shortcuts accessibility feature in iOS 18 that lets users give Siri a new wake word, such as &quot;hello, computer&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240615/p7#a240615p7)<!-- TECH:END -->
+ - [A look at tech companies&#39; investments in AI startups: Nvidia and NVentures completed a total of 32 deals in 2023, while Microsoft and M12 made 21 investments &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/240615/p9#a240615p9)
+ - [Leaked documents reveal life-threatening issues at Amazon&#39;s primary-care service One Medical, raising concerns about Amazon&#39;s frugal approach to health care &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240615/p8#a240615p8)
+ - [NASA says Voyager 1 is fully back online months after it stopped making sense](https://www.theverge.com/2024/6/15/24179265/voyager-1-functioning-again-nasa-deep-space)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
