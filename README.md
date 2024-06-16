@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Destiny player known for soloing the game&#39;s toughest activities was stumped by the game&#39;s new mission that won&#39;t load without a second player⁠—until he resolved to play two Guardians at once](https://www.pcgamer.com/games/fps/a-destiny-player-known-for-soloing-the-games-toughest-activities-was-stumped-by-the-games-new-mission-that-wont-load-without-a-second-playeruntil-he-resolved-to-play-two-guardians-at-once)
- - [Senior World of Warcraft dev says we might see single player &#39;story mode&#39; versions of legacy raids in the future](https://www.pcgamer.com/games/world-of-warcraft/senior-world-of-warcraft-dev-says-we-might-see-single-player-story-mode-versions-of-legacy-raids-in-the-future)
- - [In 1989, a Nintendo bigwig licensed SimCity on the spot by sliding a million dollar check across the table](https://www.pcgamer.com/games/sim/in-1989-a-nintendo-bigwig-licensed-simcity-on-the-spot-by-sliding-a-million-dollar-check-across-the-table)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 fan discovers second, hidden approval score for Shadowheart that unlocks dialogue I&#39;ve never seen in 300 hours of play](https://www.pcgamer.com/games/rpg/baldurs-gate-3-fan-discovers-second-hidden-approval-score-for-shadowheart-that-unlocks-dialogue-ive-never-seen-in-300-hours-of-play)
+ - [Monster Hunter Stories has finally gotten its PC port](https://www.pcgamer.com/games/rpg/monster-hunter-stories-has-finally-gotten-its-pc-port)
+ - [A Destiny player known for soloing the game&#39;s toughest activities was stumped by its new mission that won&#39;t load without a second player⁠—until he resolved to play two Guardians at once](https://www.pcgamer.com/games/fps/a-destiny-player-known-for-soloing-the-games-toughest-activities-was-stumped-by-the-games-new-mission-that-wont-load-without-a-second-playeruntil-he-resolved-to-play-two-guardians-at-once)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
