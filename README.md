@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Plug-In Hybrid EVs for 2024     - CNET](https://www.cnet.com/roadshow/news/best-plug-in-hybrid-evs-for-2024/#ftag=CAD590a51e)
- - [Best Internet Providers in South Dakota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-south-dakota/#ftag=CAD590a51e)
- - [Steven Spielberg rattled by false &quot;hard fall&quot; Apple Watch warning](https://appleinsider.com/articles/24/06/16/steven-spielberg-rattled-by-false-hard-fall-apple-watch-warning?utm_medium=rss)<!-- TECH:END -->
+ - [McDonald’s will stop testing AI to take drive-thru orders, for now](https://www.theverge.com/2024/6/16/24179679/mcdonalds-ending-ai-chatbot-drive-thru-ordering-test-ibm)
+ - [Kids are interacting with AI in school and online, serving as testers for a new generation of tech, making them the ones to experience some of its worst effects &lpar;Caroline Mimbs Nyce/The Atlantic&rpar;](http://www.techmeme.com/240616/p6#a240616p6)
+ - [Switching Phones? Transfer Your Data to Your New iPhone     - CNET](https://www.cnet.com/tech/mobile/switching-phones-transfer-your-data-to-your-new-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
