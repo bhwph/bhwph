@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A Father’s Day Tribute To My Much-Missed Gaming Dad](https://kotaku.com/fathers-day-gaming-tribute-skyrim-xcom-1851540731)
  - [Total War: Warhammer 3&#39;s next DLC will focus on the ogres, the greenskins, and Khorne](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-next-dlc-will-focus-on-the-ogres-the-greenskins-and-khorne)
- - [After 12 years at Blizzard, Warcraft general manager John Hight announces departure: &#39;I&#39;ve been so honored to serve all of the heroes of Azeroth&#39;](https://www.pcgamer.com/games/world-of-warcraft/after-12-years-at-blizzard-warcraft-general-manager-john-hight-announces-departure-ive-been-so-honored-to-serve-all-of-the-heroes-of-azeroth)
- - [The newest soulslike on the block, Enotria: The Last Song needs a bit more rehearsal time](https://www.pcgamer.com/games/action/the-newest-soulslike-on-the-block-enotria-the-last-song-needs-a-bit-more-rehearsal-time)<!-- GAME:END -->
+ - [After 12 years at Blizzard, Warcraft general manager John Hight announces departure: &#39;I&#39;ve been so honored to serve all of the heroes of Azeroth&#39;](https://www.pcgamer.com/games/world-of-warcraft/after-12-years-at-blizzard-warcraft-general-manager-john-hight-announces-departure-ive-been-so-honored-to-serve-all-of-the-heroes-of-azeroth)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
