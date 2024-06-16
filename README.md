@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She is gonna make him stay after class](http://9gag.com/gag/amo8Lo9)
- - 😝 [Who needs a man?](http://9gag.com/gag/a34Ld3m)
- - 👉 [Another TV show ruined](http://9gag.com/gag/aD2m31O)<!-- MEMES:END -->
+ - 6️⃣ [Florida USA](http://9gag.com/gag/a2vqqKd)
+ - 😝 [On the road, anything can be expected](http://9gag.com/gag/amo80y2)
+ - 👉 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)<!-- MEMES:END -->
 
 --- 
 
