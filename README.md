@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Not all new Apple Intelligence features will be available in the fall](https://appleinsider.com/articles/24/06/16/not-all-new-apple-intelligence-features-will-be-available-in-the-fall?utm_medium=rss)
- - [Analog Photography: The Beginner’s Guide to Film Cameras &lpar;2024&rpar;](https://www.wired.com/story/film-photography-beginners-guide/)
- - [Spotify’s AI DJ has me yearning for a Gemini-infused YouTube Music](https://www.androidauthority.com/spotify-ai-dj-youtube-music-gemni-3451930/)<!-- TECH:END -->
+ - [Apple won’t wait until next year for some Siri improvements](https://www.theverge.com/2024/6/16/24179526/apple-intelligence-siri-natural-language-upgrade-ios-18)
+ - [Buying a laptop in late 2024 is going to be hella complicated](https://www.androidauthority.com/buying-a-laptop-2024-commentary-3449577/)
+ - [The Best Electric Bikes of 2024 That We&#39;ve Tested and Reviewed](https://www.wired.com/gallery/best-electric-bikes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
