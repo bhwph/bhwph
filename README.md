@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An award-winning photo was disqualified from the AI category of a photo competition because it turned out to be real](https://www.pcgamer.com/software/ai/an-award-winning-photo-was-disqualified-from-the-ai-category-of-a-photo-competition-because-it-turned-out-to-be-real)
- - [The next game from Heaven&#39;s Vault studio Inkle is about a 1920s school for girls](https://www.pcgamer.com/games/visual-novel/the-next-game-from-heavens-vault-studio-inkle-is-about-a-1920s-school-for-girls)
- - [Files allegedly obtained in the 2021 CD Projekt hack indicate Cyberpunk 2077 was once planned to have a level or DLC set on the Moon](https://www.pcgamer.com/games/rpg/files-allegedly-obtained-in-the-2021-cd-projekt-hack-indicate-cyberpunk-2077-was-once-planned-to-have-a-level-or-dlc-set-on-the-moon)<!-- GAME:END -->
+ - [After 12 years at Blizzard, Warcraft general manager John Hight announces departure: &#39;I&#39;ve been so honored to serve all of the heroes of Azeroth&#39;](https://www.pcgamer.com/games/world-of-warcraft/after-12-years-at-blizzard-warcraft-general-manager-john-hight-announces-departure-ive-been-so-honored-to-serve-all-of-the-heroes-of-azeroth)
+ - [The newest soulslike on the block, Enotria: The Last Song needs a bit more rehearsal time](https://www.pcgamer.com/games/action/the-newest-soulslike-on-the-block-enotria-the-last-song-needs-a-bit-more-rehearsal-time)
+ - [Today&#39;s Wordle answer for Sunday, June 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-16-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
