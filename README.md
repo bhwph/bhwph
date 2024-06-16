@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Father’s Day Tribute To My Much-Missed Gaming Dad](https://kotaku.com/fathers-day-gaming-tribute-skyrim-xcom-1851540731)
- - [Total War: Warhammer 3&#39;s next DLC will focus on the ogres, the greenskins, and Khorne](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-next-dlc-will-focus-on-the-ogres-the-greenskins-and-khorne)
- - [After 12 years at Blizzard, Warcraft general manager John Hight announces departure: &#39;I&#39;ve been so honored to serve all of the heroes of Azeroth&#39;](https://www.pcgamer.com/games/world-of-warcraft/after-12-years-at-blizzard-warcraft-general-manager-john-hight-announces-departure-ive-been-so-honored-to-serve-all-of-the-heroes-of-azeroth)<!-- GAME:END -->
+ - [FromSoftware says Elden Ring&#39;s popular Seamless Co-op mod is &#39;definitely not something we actively oppose,&#39; and may even &#39;consider ideas like that with our future games&#39;](https://www.pcgamer.com/games/rpg/fromsoftwares-says-elden-rings-seamless-co-op-mod-is-definitely-not-something-we-actively-oppose-and-may-even-consider-ideas-like-that-with-our-future-games)
+ - [Sports video games made me understand fanfiction](https://www.polygon.com/24177873/sports-video-games-fanfiction-challengers-topspin)
+ - [How To Prep For Elden Ring: Shadow Of The Erdtree And More Of The Week&#39;s Gaming Tips](https://kotaku.com/tips-guides-shadow-erdtree-how-to-access-prep-level-1851540654)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
