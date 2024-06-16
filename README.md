@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who needs a man?](http://9gag.com/gag/a34Ld3m)
- - 😝 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
+ - 6️⃣ [She is gonna make him stay after class](http://9gag.com/gag/amo8Lo9)
+ - 😝 [Who needs a man?](http://9gag.com/gag/a34Ld3m)
  - 👉 [Another TV show ruined](http://9gag.com/gag/aD2m31O)<!-- MEMES:END -->
 
 --- 
