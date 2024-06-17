@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 dev made a donation to Save the Children because players chose to save the children](https://www.polygon.com/24180189/helldivers-2-save-the-children-trolley-problem-major-order)
- - [Amazon eero Max 7 review](https://www.pcgamer.com/hardware/networking/amazon-eero-max-7-router-review)
- - [Overwatch 2 Season 10 shakes up the game a ton this week](https://www.polygon.com/overwatch-2-guide/24180127/season-11-start-time-release-date-battle-pass)<!-- GAME:END -->
+ - [Embracer has closed Alone in the Dark studio Pieces Interactive](https://www.pcgamer.com/gaming-industry/embracer-has-closed-alone-in-the-dark-studio-pieces-interactive)
+ - [Orphan Black: Echoes, Shoresy season 3, and more new TV this week](https://www.polygon.com/2024/6/17/24174035/new-tv-netflix-orphan-black-echoes-shoresy-agents-mystery)
+ - [Still Wakes The Deep: The Kotaku Review](https://kotaku.com/still-wakes-the-deep-review-the-chinese-room-1851544587)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
