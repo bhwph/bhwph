@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My fellow 30 years old virgin 9gaggers](http://9gag.com/gag/aNDKAyw)
- - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - 👉 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
+ - 6️⃣ [What are the odds?](http://9gag.com/gag/aMVQ8oW)
+ - 😝 [The strongest female characters in fiction](http://9gag.com/gag/aqy21NP)
+ - 👉 [Human pandas](http://9gag.com/gag/aRBVKGQ)<!-- MEMES:END -->
 
 --- 
 
