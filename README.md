@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC targets Adobe for deceiving consumers about early termination fees](https://appleinsider.com/articles/24/06/17/ftc-targets-adobe-for-deceiving-consumers-about-early-termination-fees?utm_medium=rss)
- - [The Google Pixel Tablet hits its lowest price ever &lpar;$129 off&rpar;](https://www.androidauthority.com/deal-pixel-tablet-3452050/)
- - [Finaloop, which offers accounting tools to e-commerce businesses, raised a $35M Series A led by Lightspeed and says its customer base grew 400% in the last year &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240617/p22#a240617p22)<!-- TECH:END -->
+ - [Microsoft says the latest version of Windows 11, version 24H2 now in the Release Preview Channel, is &quot;only available for Copilot+ PCs devices&quot; &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240617/p27#a240617p27)
+ - [Pentax’s new 35mm film camera prioritizes style over quality](https://www.theverge.com/2024/6/17/24178347/pentax-17-35mm-film-analog-half-frame-camera-announcement-price-specs)
+ - [How Apple will label AI-generated images made with Image Playground](https://appleinsider.com/articles/24/06/17/how-apple-will-label-ai-generated-images-made-with-image-playground?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
