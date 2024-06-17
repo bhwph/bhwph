@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
+ - 6️⃣ [This multi-purpose wheelbarrow](http://9gag.com/gag/aD2mzGN)
  - 😝 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
- - 👉 [Sounds easy enough](http://9gag.com/gag/aByr8gO)<!-- MEMES:END -->
+ - 👉 [Never trust people who cry for the camera and choose to post it....](http://9gag.com/gag/a4PLbey)<!-- MEMES:END -->
 
 --- 
 
