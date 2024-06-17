@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak: Here’s how the Samsung Galaxy Ring will charge](https://www.androidauthority.com/leak-samsung-galaxy-ring-charging-case-3451602/)
- - [How Black founders are creating AI models like ChatBlackGPT and Latimer.ai that cater to Black and brown communities, as current AI models lack cultural nuance &lpar;TechCrunch&rpar;](http://www.techmeme.com/240617/p2#a240617p2)
- - [Structure Research: tech companies&#39; data center plans in India will push the nation from the sixth place to the top spot in Asia Pacific for self-built capacity &lpar;Financial Times&rpar;](http://www.techmeme.com/240617/p1#a240617p1)<!-- TECH:END -->
+ - [Experts say generative AI is set to make certain skills in finance and accounting redundant and free up time for workers to focus more on value-added tasks &lpar;Seb Murray/Financial Times&rpar;](http://www.techmeme.com/240617/p4#a240617p4)
+ - [You can now easily listen to a page in Chrome for Android](https://www.androidauthority.com/chrome-for-android-listen-to-this-page-3451954/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 17, #106     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
