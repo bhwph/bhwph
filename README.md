@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple details how the Apple Podcast transcripts came to be](https://appleinsider.com/articles/24/06/17/apple-details-how-the-apple-podcast-transcripts-came-to-be?utm_medium=rss)
- - [Nintendo will detail its holiday 2024 Switch lineup in new Direct](https://www.theverge.com/2024/6/17/24175226/nintendo-direct-june-2024-switch-holiday-lineup)
- - [M4 Macs, iPhone 16, and more: What Apple has planned for the rest of 2024](https://appleinsider.com/articles/24/06/17/m4-macs-iphone-16-and-more-what-apple-has-planned-for-the-rest-of-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Logitech’s first Meta Quest stylus helps artists work in 3D](https://www.theverge.com/2024/6/17/24180060/logitech-mx-ink-stylus-meta-quest-vr-ar)
+ - [This loaded M2 Max MacBook Pro is $1,000 off, delivering the lowest price on record](https://appleinsider.com/articles/24/06/17/this-loaded-m2-max-macbook-pro-is-1000-off-delivering-the-lowest-price-on-record?utm_medium=rss)
+ - [Snapdragon 8 Gen 4 could be much more expensive to make, possibly driving up phone prices](https://www.androidauthority.com/snapdragon-8-gen-4-price-3452027/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
