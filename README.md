@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says the latest version of Windows 11, version 24H2 now in the Release Preview Channel, is &quot;only available for Copilot+ PCs devices&quot; &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240617/p27#a240617p27)
- - [Pentax’s new 35mm film camera prioritizes style over quality](https://www.theverge.com/2024/6/17/24178347/pentax-17-35mm-film-analog-half-frame-camera-announcement-price-specs)
- - [How Apple will label AI-generated images made with Image Playground](https://appleinsider.com/articles/24/06/17/how-apple-will-label-ai-generated-images-made-with-image-playground?utm_medium=rss)<!-- TECH:END -->
+ - [Gemini is finally getting support for Assistant Routines &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-routines-3452134/)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Check out these new ‘HeatRisk’ tools to stay up to date on US heatwaves](https://www.theverge.com/2024/6/17/24093587/heatwave-forecast-health-risks-online-tool-national-weather-service-cdc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
