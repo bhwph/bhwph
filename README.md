@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say generative AI is set to make certain skills in finance and accounting redundant and free up time for workers to focus more on value-added tasks &lpar;Seb Murray/Financial Times&rpar;](http://www.techmeme.com/240617/p4#a240617p4)
- - [You can now easily listen to a page in Chrome for Android](https://www.androidauthority.com/chrome-for-android-listen-to-this-page-3451954/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 17, #106     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Logitech unveils the MX Ink, a stylus for Meta Quest 2 and Quest 3, plus &quot;future headsets&quot;, the Quest&#39;s first third-party input device, shipping in September &lpar;Scott Hayden/Road to VR&rpar;](http://www.techmeme.com/240617/p7#a240617p7)
+ - [AI Is Coming for Big Tech Jobs—but Not in the Way You Think](https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/)
+ - [Google begins rolling out a &quot;Listen to this page&quot; feature on Chrome for Android, letting the browser read text-heavy web pages &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240617/p6#a240617p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
