@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
- - 😝 [Idiot driver ruins trip to Wendys](http://9gag.com/gag/axyGV81)
- - 👉 [Just in case...](http://9gag.com/gag/a5QK77o)<!-- MEMES:END -->
+ - 6️⃣ [My fellow 30 years old virgin 9gaggers](http://9gag.com/gag/aNDKAyw)
+ - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
+ - 👉 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
 
 --- 
 
