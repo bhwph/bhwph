@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [McDonald’s will stop testing AI to take drive-thru orders, for now](https://www.theverge.com/2024/6/16/24179679/mcdonalds-ending-ai-chatbot-drive-thru-ordering-test-ibm)
- - [Kids are interacting with AI in school and online, serving as testers for a new generation of tech, making them the ones to experience some of its worst effects &lpar;Caroline Mimbs Nyce/The Atlantic&rpar;](http://www.techmeme.com/240616/p6#a240616p6)
- - [Switching Phones? Transfer Your Data to Your New iPhone     - CNET](https://www.cnet.com/tech/mobile/switching-phones-transfer-your-data-to-your-new-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Survey: 52% of US and 63% of UK respondents say they would be uneasy with news produced mostly using AI; 59% worry about false news content online, up 3% YoY &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/240616/p8#a240616p8)
+ - [How Apple added support for automatic transcript generation in the Podcast app, a feature highly requested by both disabled users and podcast creators &lpar;Ari Saperstein/The Guardian&rpar;](http://www.techmeme.com/240616/p7#a240616p7)
+ - [Get Ready To See a Sky Explosion That Only Happens Once Every 80 Years     - CNET](https://www.cnet.com/science/get-ready-to-see-a-sky-explosion-that-only-happens-once-every-80-years/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
