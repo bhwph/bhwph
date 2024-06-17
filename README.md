@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I really hope this is true](http://9gag.com/gag/aVvXe0d)
- - 😝 [Sometimes you learn the hard way](http://9gag.com/gag/aD2mowG)
- - 👉 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)<!-- MEMES:END -->
+ - 6️⃣ [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
+ - 😝 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
+ - 👉 [Sounds easy enough](http://9gag.com/gag/aByr8gO)<!-- MEMES:END -->
 
 --- 
 
