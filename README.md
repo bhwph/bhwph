@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Manor Lords players overwhelmingly vote against changing historically accurate yet NSFW character name](https://www.pcgamer.com/games/city-builder/manor-lords-players-overwhelmingly-vote-against-changingerasing-historically-accurate-yet-nsfw-character-name)
- - [New Uncharted Movie In The Works As Everyone Wonders Where The Hell The Next Game Is](https://kotaku.com/uncharted-film-sequel-in-production-1851544964)
- - [Gift ideas for the Elden Ring fan in your life](https://www.polygon.com/24079537/elden-ring-best-books-games-accessories-gifts)<!-- GAME:END -->
+ - [Todd Howard responds to controversy over Starfield&#39;s $7 mission: &#39;We hear the feedback&#39;](https://www.pcgamer.com/games/rpg/todd-howard-responds-to-controversy-over-starfields-dollar7-mission-we-hear-the-feedback)
+ - [All Feathers of Light locations in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24179545/feathers-light-locations-all-where-to-find)
+ - [To create its cast of Baldur&#39;s Gate 3 companions, Larian came up with &#39;hundreds and hundreds&#39; of character concepts: &#39;It was a huge, huge list&#39;](https://www.pcgamer.com/games/rpg/to-create-its-cast-of-baldurs-gate-3-companions-larian-came-up-with-hundreds-and-hundreds-of-character-concepts-it-was-a-huge-huge-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
