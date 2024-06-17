@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s first Meta Quest stylus helps artists work in 3D](https://www.theverge.com/2024/6/17/24180060/logitech-mx-ink-stylus-meta-quest-vr-ar)
- - [This loaded M2 Max MacBook Pro is $1,000 off, delivering the lowest price on record](https://appleinsider.com/articles/24/06/17/this-loaded-m2-max-macbook-pro-is-1000-off-delivering-the-lowest-price-on-record?utm_medium=rss)
- - [Snapdragon 8 Gen 4 could be much more expensive to make, possibly driving up phone prices](https://www.androidauthority.com/snapdragon-8-gen-4-price-3452027/)<!-- TECH:END -->
+ - [FTC targets Adobe for deceiving consumers about early termination fees](https://appleinsider.com/articles/24/06/17/ftc-targets-adobe-for-deceiving-consumers-about-early-termination-fees?utm_medium=rss)
+ - [The Google Pixel Tablet hits its lowest price ever &lpar;$129 off&rpar;](https://www.androidauthority.com/deal-pixel-tablet-3452050/)
+ - [Finaloop, which offers accounting tools to e-commerce businesses, raised a $35M Series A led by Lightspeed and says its customer base grew 400% in the last year &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240617/p22#a240617p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
