@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Embracer has closed Alone in the Dark studio Pieces Interactive](https://www.pcgamer.com/gaming-industry/embracer-has-closed-alone-in-the-dark-studio-pieces-interactive)
- - [Orphan Black: Echoes, Shoresy season 3, and more new TV this week](https://www.polygon.com/2024/6/17/24174035/new-tv-netflix-orphan-black-echoes-shoresy-agents-mystery)
- - [Still Wakes The Deep: The Kotaku Review](https://kotaku.com/still-wakes-the-deep-review-the-chinese-room-1851544587)<!-- GAME:END -->
+ - [Manor Lords players overwhelmingly vote against changing historically accurate yet NSFW character name](https://www.pcgamer.com/games/city-builder/manor-lords-players-overwhelmingly-vote-against-changingerasing-historically-accurate-yet-nsfw-character-name)
+ - [New Uncharted Movie In The Works As Everyone Wonders Where The Hell The Next Game Is](https://kotaku.com/uncharted-film-sequel-in-production-1851544964)
+ - [Gift ideas for the Elden Ring fan in your life](https://www.polygon.com/24079537/elden-ring-best-books-games-accessories-gifts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
