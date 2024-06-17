@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech unveils the MX Ink, a stylus for Meta Quest 2 and Quest 3, plus &quot;future headsets&quot;, the Quest&#39;s first third-party input device, shipping in September &lpar;Scott Hayden/Road to VR&rpar;](http://www.techmeme.com/240617/p7#a240617p7)
- - [AI Is Coming for Big Tech Jobs—but Not in the Way You Think](https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/)
- - [Google begins rolling out a &quot;Listen to this page&quot; feature on Chrome for Android, letting the browser read text-heavy web pages &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240617/p6#a240617p6)<!-- TECH:END -->
+ - [Interviews with ~12 sources detail Google&#39;s decision to create the Google DeepMind &quot;super-unit&quot; in April 2023, shifting the AI lab from research to products &lpar;Bloomberg&rpar;](http://www.techmeme.com/240617/p14#a240617p14)
+ - [Vietnam&#39;s state media says three of its five active international undersea internet cables are down, impacting connections with the US, Europe, and Asia &lpar;Khanh Vu/Reuters&rpar;](http://www.techmeme.com/240617/p13#a240617p13)
+ - [Orkut’s Founder Is Still Dreaming of a Social Media Utopia](https://www.wired.com/story/orkut-founder-social-media-utopia/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
