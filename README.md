@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This multi-purpose wheelbarrow](http://9gag.com/gag/aD2mzGN)
- - 😝 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
- - 👉 [Never trust people who cry for the camera and choose to post it....](http://9gag.com/gag/a4PLbey)<!-- MEMES:END -->
+ - 6️⃣ [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
+ - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
+ - 👉 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)<!-- MEMES:END -->
 
 --- 
 
