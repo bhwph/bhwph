@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dating pool at 40](http://9gag.com/gag/a0eYdoL)
- - 😝 [A kid walks by a dog trainer](http://9gag.com/gag/an7BygB)
- - 👉 [Unexpected](http://9gag.com/gag/a2vqd0p)<!-- MEMES:END -->
+ - 6️⃣ [A nice family dinner!!!](http://9gag.com/gag/aoyjjzm)
+ - 😝 [Orcas surround woman](http://9gag.com/gag/aPAGD8q)
+ - 👉 [Funny Jack Sparrow](http://9gag.com/gag/axyGjmL)<!-- MEMES:END -->
 
 --- 
 
