@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, June 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-17-2024)
- - [Classic indie Shovel Knight is geting a definitive edition](https://www.pcgamer.com/games/action/classic-indie-shovel-knight-is-geting-a-definitive-edition)
- - [House of the Dragon season 2’s premiere lets side characters take the spotlight in a way the book never could](https://www.polygon.com/24178649/house-dragon-season-2-daemon-assassins-prince-blood-cheese)<!-- GAME:END -->
+ - [Gigabyte A620I AX review](https://www.pcgamer.com/hardware/motherboards/gigabyte-a620i-ax-review)
+ - [FromSoftware boss addresses gaming industry layoffs: &#39;As long as this company&#39;s my responsibility, I would not let that happen&#39;](https://www.pcgamer.com/gaming-industry/fromsoftware-boss-addresses-gaming-industry-layoffs-as-long-as-this-companys-my-responsibility-i-would-not-let-that-happen)
+ - [Asus agrees to a whole raft of US warranty service improvements after it meets with Gamers Nexus](https://www.pcgamer.com/hardware/asus-agrees-to-a-whole-raft-of-us-warranty-service-improvements-after-it-meets-with-gamers-nexus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
