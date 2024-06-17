@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My first 2 hours with Black Myth: Wukong were a flurry of demanding boss fights, unbelievably pretty characters, and a surprisingly sparse world](https://www.pcgamer.com/games/rpg/my-first-2-hours-with-black-myth-wukong-were-a-flurry-of-demanding-boss-fights-unbelievably-pretty-characters-and-a-surprisingly-sparse-world)
- - [Lollipop Chainsaw RePOP is coming in September](https://www.pcgamer.com/games/action/lollipop-chainsaw-repop-is-coming-in-september)
- - [Baldur&#39;s Gate 3 fan discovers second, hidden approval score for Shadowheart that unlocks dialogue I&#39;ve never seen in 300 hours of play](https://www.pcgamer.com/games/rpg/baldurs-gate-3-fan-discovers-second-hidden-approval-score-for-shadowheart-that-unlocks-dialogue-ive-never-seen-in-300-hours-of-play)<!-- GAME:END -->
+ - [House of the Dragon season 2’s premiere lets side characters take the spotlight in a way the book never could](https://www.polygon.com/24178649/house-dragon-season-2-daemon-assassins-prince-blood-cheese)
+ - [All the House of the Dragon houses and characters you need to know](https://www.polygon.com/23322393/house-dragon-houses-characters-explained)
+ - [Five new Steam games you probably missed &lpar;June 17, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-june-17-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
