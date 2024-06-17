@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 fan discovers second, hidden approval score for Shadowheart that unlocks dialogue I&#39;ve never seen in 300 hours of play](https://www.pcgamer.com/games/rpg/baldurs-gate-3-fan-discovers-second-hidden-approval-score-for-shadowheart-that-unlocks-dialogue-ive-never-seen-in-300-hours-of-play)
- - [Monster Hunter Stories has finally gotten its PC port](https://www.pcgamer.com/games/rpg/monster-hunter-stories-has-finally-gotten-its-pc-port)
- - [A Destiny player known for soloing the game&#39;s toughest activities was stumped by its new mission that won&#39;t load without a second player⁠—until he resolved to play two Guardians at once](https://www.pcgamer.com/games/fps/a-destiny-player-known-for-soloing-the-games-toughest-activities-was-stumped-by-the-games-new-mission-that-wont-load-without-a-second-playeruntil-he-resolved-to-play-two-guardians-at-once)<!-- GAME:END -->
+ - [My first 2 hours with Black Myth: Wukong were a flurry of demanding boss fights, unbelievably pretty characters, and a surprisingly sparse world](https://www.pcgamer.com/games/rpg/my-first-2-hours-with-black-myth-wukong-were-a-flurry-of-demanding-boss-fights-unbelievably-pretty-characters-and-a-surprisingly-sparse-world)
+ - [Lollipop Chainsaw RePOP is coming in September](https://www.pcgamer.com/games/action/lollipop-chainsaw-repop-is-coming-in-september)
+ - [Baldur&#39;s Gate 3 fan discovers second, hidden approval score for Shadowheart that unlocks dialogue I&#39;ve never seen in 300 hours of play](https://www.pcgamer.com/games/rpg/baldurs-gate-3-fan-discovers-second-hidden-approval-score-for-shadowheart-that-unlocks-dialogue-ive-never-seen-in-300-hours-of-play)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
