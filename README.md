@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Still Wakes the Deep: how a dev’s own claustrophobia inspired the first-person horror, out June 18](https://blog.playstation.com/2024/06/17/still-wakes-the-deep-how-a-devs-own-claustrophobia-inspired-the-first-person-horror-out-june-18/)
- - [Still Wakes the Deep: how a dev’s own claustrophobia inspired the first-person horror, out June 18](https://blog.playstation.com/2024/06/17/still-wakes-the-deep-how-a-devs-own-claustrophobia-inspired-the-first-person-horror-out-june-18/)
- - [Destiny 2: The Final Shape review](https://www.pcgamer.com/games/fps/destiny-2-the-final-shape-review)<!-- GAME:END -->
+ - [Helldivers 2 dev made a donation to Save the Children because players chose to save the children](https://www.polygon.com/24180189/helldivers-2-save-the-children-trolley-problem-major-order)
+ - [Amazon eero Max 7 review](https://www.pcgamer.com/hardware/networking/amazon-eero-max-7-router-review)
+ - [Overwatch 2 Season 10 shakes up the game a ton this week](https://www.polygon.com/overwatch-2-guide/24180127/season-11-start-time-release-date-battle-pass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
