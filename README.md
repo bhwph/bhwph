@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I really hope this is true](http://9gag.com/gag/aVvXe0d)
- - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
- - 👉 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)<!-- MEMES:END -->
+ - 6️⃣ [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
+ - 😝 [Idiot driver ruins trip to Wendys](http://9gag.com/gag/axyGV81)
+ - 👉 [Just in case...](http://9gag.com/gag/a5QK77o)<!-- MEMES:END -->
 
 --- 
 
