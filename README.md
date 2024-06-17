@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - 😝 [The strongest female characters in fiction](http://9gag.com/gag/aqy21NP)
- - 👉 [Human pandas](http://9gag.com/gag/aRBVKGQ)<!-- MEMES:END -->
+ - 6️⃣ [I really hope this is true](http://9gag.com/gag/aVvXe0d)
+ - 😝 [Sometimes you learn the hard way](http://9gag.com/gag/aD2mowG)
+ - 👉 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)<!-- MEMES:END -->
 
 --- 
 
