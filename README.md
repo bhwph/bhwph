@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte A620I AX review](https://www.pcgamer.com/hardware/motherboards/gigabyte-a620i-ax-review)
- - [FromSoftware boss addresses gaming industry layoffs: &#39;As long as this company&#39;s my responsibility, I would not let that happen&#39;](https://www.pcgamer.com/gaming-industry/fromsoftware-boss-addresses-gaming-industry-layoffs-as-long-as-this-companys-my-responsibility-i-would-not-let-that-happen)
- - [Asus agrees to a whole raft of US warranty service improvements after it meets with Gamers Nexus](https://www.pcgamer.com/hardware/asus-agrees-to-a-whole-raft-of-us-warranty-service-improvements-after-it-meets-with-gamers-nexus)<!-- GAME:END -->
+ - [Still Wakes the Deep: how a dev’s own claustrophobia inspired the first-person horror, out June 18](https://blog.playstation.com/2024/06/17/still-wakes-the-deep-how-a-devs-own-claustrophobia-inspired-the-first-person-horror-out-june-18/)
+ - [Still Wakes the Deep: how a dev’s own claustrophobia inspired the first-person horror, out June 18](https://blog.playstation.com/2024/06/17/still-wakes-the-deep-how-a-devs-own-claustrophobia-inspired-the-first-person-horror-out-june-18/)
+ - [Destiny 2: The Final Shape review](https://www.pcgamer.com/games/fps/destiny-2-the-final-shape-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
