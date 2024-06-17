@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with ~12 sources detail Google&#39;s decision to create the Google DeepMind &quot;super-unit&quot; in April 2023, shifting the AI lab from research to products &lpar;Bloomberg&rpar;](http://www.techmeme.com/240617/p14#a240617p14)
- - [Vietnam&#39;s state media says three of its five active international undersea internet cables are down, impacting connections with the US, Europe, and Asia &lpar;Khanh Vu/Reuters&rpar;](http://www.techmeme.com/240617/p13#a240617p13)
- - [Orkut’s Founder Is Still Dreaming of a Social Media Utopia](https://www.wired.com/story/orkut-founder-social-media-utopia/)<!-- TECH:END -->
+ - [Apple details how the Apple Podcast transcripts came to be](https://appleinsider.com/articles/24/06/17/apple-details-how-the-apple-podcast-transcripts-came-to-be?utm_medium=rss)
+ - [Nintendo will detail its holiday 2024 Switch lineup in new Direct](https://www.theverge.com/2024/6/17/24175226/nintendo-direct-june-2024-switch-holiday-lineup)
+ - [M4 Macs, iPhone 16, and more: What Apple has planned for the rest of 2024](https://appleinsider.com/articles/24/06/17/m4-macs-iphone-16-and-more-what-apple-has-planned-for-the-rest-of-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
