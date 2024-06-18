@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - 😝 [Anime recommendations](http://9gag.com/gag/a2vqZje)
- - 👉 [Hello](http://9gag.com/gag/aQzn388)<!-- MEMES:END -->
+ - 6️⃣ [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
+ - 😝 [It&#39;s never their fault, of course.](http://9gag.com/gag/aKGBdwO)
+ - 👉 [The design is very human](http://9gag.com/gag/a34LQg7)<!-- MEMES:END -->
 
 --- 
 
