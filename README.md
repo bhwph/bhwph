@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
- - 😝 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
- - 👉 [A star is born](http://9gag.com/gag/a2vq431)<!-- MEMES:END -->
+ - 6️⃣ [Hello](http://9gag.com/gag/aQzn388)
+ - 😝 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
+ - 👉 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)<!-- MEMES:END -->
 
 --- 
 
