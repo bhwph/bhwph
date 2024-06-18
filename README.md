@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shadow of the Erdtree review roundup: &#39;Recaptures all of the magic of playing Elden Ring for the first time.&#39;](https://www.pcgamer.com/games/rpg/shadow-of-the-erdtree-review-roundup-recaptures-all-of-the-magic-of-playing-elden-ring-for-the-first-time)
- - [Nintendo&#39;s War On Fan Creators Now Includes People Making Sheet Music For Fire Emblem](https://kotaku.com/nintendo-sheet-music-musicnotes-takedown-dmca-1851547320)
- - [Not even Riot wants to try competing with Fortnite on user-generated content: &#39;I&#39;m not gonna go pick that fight with Epic&#39;](https://www.pcgamer.com/games/moba/not-even-riot-wants-to-try-competing-with-fortnite-on-user-generated-content-im-not-gonna-go-pick-that-fight-with-epic)<!-- GAME:END -->
+ - [Plo Koon is in The Acolyte because Dave Filoni remains a Star Wars phantom menace](https://www.polygon.com/star-wars/24181216/star-wars-acolyte-cameo-episode-4-plo-koon)
+ - [What time does Elden Ring: Shadow of the Erdtree DLC release?](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180893/release-time-date-dlc-sote-est-pst-bst-cest)
+ - [Call of Duty&#39;s new Fallout crossover dresses up Price and the lads in stretchy blue jammies, and I&#39;m sorry but it&#39;s not a great look](https://www.pcgamer.com/games/fps/call-of-dutys-new-fallout-crossover-dresses-up-price-and-the-lads-in-stretchy-blue-jammies-and-im-sorry-but-its-not-a-great-look)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
