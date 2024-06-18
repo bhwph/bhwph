@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple will label AI-generated images made with Image Playground](https://appleinsider.com/articles/24/06/17/how-apple-will-label-ai-generated-images-made-with-image-playground?utm_medium=rss)
- - [Autonomous trucking startup Waabi raised a $200M Series B led by Uber and Khosla Ventures, after an $83.5M Series A in 2021, and aims for a full launch in 2025 &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240618/p15#a240618p15)
- - [WhatsApp reunites Modern Family for ad about green bubble friends](https://www.theverge.com/2024/6/18/24180839/whatsapp-modern-family-ad-meta-green-bubbles-rcs)<!-- TECH:END -->
+ - [Beats Solo Buds review: Apple&#39;s best wireless audio bargain yet](https://appleinsider.com/articles/24/06/18/beats-solo-buds-review-apples-best-wireless-audio-bargain-yet?utm_medium=rss)
+ - [The Beats Solo Buds have a great look and an even better price](https://www.theverge.com/24180840/beats-solo-buds-earbuds-hands-on)
+ - [Shadow of the Erdtree reintroduced me to Elden Ring by kicking my ass](https://www.theverge.com/24180536/shadow-of-the-erdtree-review-elden-ring-dlc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
