@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Finbourne, which helps financial companies organize and use their data in AI and other models, raised a &amp;pound;55M Series B at a valuation just over &amp;pound;280M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240617/p34#a240617p34)
- - [Q&amp;A with Tubi CEO Anjali Sud, who joined from Vimeo in September 2023, on the streaming industry, working within Fox, subscription fatigue, copyright, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240617/p33#a240617p33)
- - [Constructor, which provides an AI-powered product discovery and search service for e-commerce companies, raised a $25M Series B at a $550M valuation &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](http://www.techmeme.com/240617/p32#a240617p32)<!-- TECH:END -->
+ - [B&amp;H&#39;s MacBook Pro Mega Deal Zone knocks up to $550 off](https://appleinsider.com/articles/24/06/18/bhs-macbook-pro-mega-deal-zone-knocks-up-to-550-off?utm_medium=rss)
+ - [Dockcase Studio Smart USB-C Hub 8-in-1 Review - Powerful hub with perplexing features.](https://appleinsider.com/articles/24/06/18/dockcase-studio-smart-usb-c-hub-8-in-1-review---powerful-hub-with-perplexing-features?utm_medium=rss)
+ - [Sources: Shein CEO Xu Yangtian has deliberately kept a low profile for fear of attracting unwanted public attention; Shein has never published any photos of him &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/240617/p35#a240617p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
