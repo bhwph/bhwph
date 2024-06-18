@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Score!](http://9gag.com/gag/aoyje2n)
- - 😝 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
+ - 6️⃣ [What are the odds?](http://9gag.com/gag/aMVQ8oW)
+ - 😝 [Anime recommendations](http://9gag.com/gag/a2vqZje)
  - 👉 [Hello](http://9gag.com/gag/aQzn388)<!-- MEMES:END -->
 
 --- 
