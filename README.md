@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So close...](http://9gag.com/gag/aXPXqDv)
- - 😝 [Streamer Sneako gets his teeth broken after trying to bully Security Guard](http://9gag.com/gag/amo8BY6)
- - 👉 [Well that escalated quickly](http://9gag.com/gag/aMVQ8YV)<!-- MEMES:END -->
+ - 6️⃣ [True.](http://9gag.com/gag/aQzneLK)
+ - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
+ - 👉 [Streamer Sneako gets his teeth broken after trying to bully Security Guard](http://9gag.com/gag/amo8BY6)<!-- MEMES:END -->
 
 --- 
 
