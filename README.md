@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H&#39;s MacBook Pro Mega Deal Zone knocks up to $550 off](https://appleinsider.com/articles/24/06/18/bhs-macbook-pro-mega-deal-zone-knocks-up-to-550-off?utm_medium=rss)
- - [Dockcase Studio Smart USB-C Hub 8-in-1 Review - Powerful hub with perplexing features.](https://appleinsider.com/articles/24/06/18/dockcase-studio-smart-usb-c-hub-8-in-1-review---powerful-hub-with-perplexing-features?utm_medium=rss)
- - [Sources: Shein CEO Xu Yangtian has deliberately kept a low profile for fear of attracting unwanted public attention; Shein has never published any photos of him &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/240617/p35#a240617p35)<!-- TECH:END -->
+ - [Down-ballot campaigns in the US are experimenting with AI, which can help them save money and time, while also raising fears about the threats of AI deepfakes &lpar;Associated Press&rpar;](http://www.techmeme.com/240618/p5#a240618p5)
+ - [A look at India&#39;s quick commerce market, which has become an important distribution channel for Indian food brands, as Zepto and others expand beyond groceries &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240618/p4#a240618p4)
+ - [You no longer need a Pixel or Galaxy phone to get Gemini in Messages](https://www.androidauthority.com/gemini-messages-system-requirements-change-3452189/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
