@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HPE and Nvidia unveil private cloud offerings for generative AI workloads coming this fall, including HPE Private Cloud AI, a co-developed &quot;turnkey&quot; option &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240618/p26#a240618p26)
- - [Record deal slashes the TicWatch Pro 3 Ultra to $149.99](https://www.androidauthority.com/deal-ticwatch-pro-3-ultra-3452449/)
- - [Android 15 beta 3 is here, bringing us to the Platform Stability milestone](https://www.androidauthority.com/android-15-beta-3-3452346/)<!-- TECH:END -->
+ - [An ex-Snap engineer debuts Butterflies, a social network where users can create AI personas that then interact with users and other AIs via posts and DMs &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240618/p29#a240618p29)
+ - [The Pixel 9 could let you create your own stickers with generative AI](https://www.androidauthority.com/pixel-9-generative-ai-stickers-3452501/)
+ - [STEM Students Refuse to Work at Google and Amazon Over Project Nimbus](https://www.wired.com/story/stem-students-refuse-to-work-at-google-and-amazon-over-project-nimbus/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
