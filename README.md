@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can grab a Blink Video Doorbell with a Sync Module 2 for just $42 right now](https://www.theverge.com/2024/6/18/24180106/amazon-blink-video-doorbell-anker-747-charger-deal-sale)
- - [Here’s when the CMF by Nothing Phone 1 will launch](https://www.androidauthority.com/cmf-by-nothing-phone-1-3452359/)
- - [Apple Vision Pro sequel stalls as work on cheaper consumer headset continues](https://appleinsider.com/articles/24/06/18/apple-vision-pro-sequel-stalls-as-work-on-cheaper-consumer-headset-continues?utm_medium=rss)<!-- TECH:END -->
+ - [HPE and Nvidia unveil private cloud offerings for generative AI workloads coming this fall, including HPE Private Cloud AI, a co-developed &quot;turnkey&quot; option &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240618/p26#a240618p26)
+ - [Record deal slashes the TicWatch Pro 3 Ultra to $149.99](https://www.androidauthority.com/deal-ticwatch-pro-3-ultra-3452449/)
+ - [Android 15 beta 3 is here, bringing us to the Platform Stability milestone](https://www.androidauthority.com/android-15-beta-3-3452346/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
