@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An ex-Snap engineer debuts Butterflies, a social network where users can create AI personas that then interact with users and other AIs via posts and DMs &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240618/p29#a240618p29)
- - [The Pixel 9 could let you create your own stickers with generative AI](https://www.androidauthority.com/pixel-9-generative-ai-stickers-3452501/)
- - [STEM Students Refuse to Work at Google and Amazon Over Project Nimbus](https://www.wired.com/story/stem-students-refuse-to-work-at-google-and-amazon-over-project-nimbus/)<!-- TECH:END -->
+ - [Apple&#39;s new &#39;Help Me Choose&#39; quiz helps users find the right Mac](https://appleinsider.com/articles/24/06/18/apples-new-help-me-choose-quiz-helps-users-find-the-right-mac?utm_medium=rss)
+ - [Luma promoted its AI video generator with some very familiar incorporated monsters](https://www.theverge.com/2024/6/18/24181375/luma-ai-monster-camp-monsters-inc-pixar)
+ - [Qilin, a cohort of Russian-speaking hackers, claims responsibility for the ransomware attack impacting London hospitals for weeks and demands $50M to end it &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/240618/p34#a240618p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
