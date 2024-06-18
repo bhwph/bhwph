@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40K meets D&amp;D in new series starring former Games Workshop presenters](https://www.polygon.com/24173123/40k-dnd-actual-play-heretic-hunt-louise-sugden-peachy-interview)
- - [737 days since the last Silksong news, and not a whisper from this year&#39;s Nintendo Direct—I&#39;d like to say fans are coping well but, y&#39;know](https://www.pcgamer.com/games/action/737-days-since-the-last-silksong-news-and-not-a-whisper-from-the-nintendo-direct-i-d-like-to-say-fans-are-coping-well-but-y-know)
- - [Original Dragon Quest trilogy getting the ‘HD-2D’ remake treatment](https://www.polygon.com/24180967/dragon-quest-hd-2d-nintendo-switch)<!-- GAME:END -->
+ - [The voice of Mass Effect&#39;s sexy bird man Garrus will be the voice of Avowed&#39;s sexy fish man Kai](https://www.pcgamer.com/games/rpg/the-voice-of-mass-effects-sexy-bird-man-garrus-will-be-the-voice-of-avoweds-sexy-fish-man-kai)
+ - [New Marvel vs. Capcom Collection Latest Game To Also Skip Xbox](https://kotaku.com/xbox-marvel-vs-capcom-mvc2-collection-arcade-switch-ps5-1851546799)
+ - [Dragon Quest 3 Remake Hands-On: A Classic RPG Gets A Stunning Overhaul](https://kotaku.com/dragon-quest-3-hd-2d-remake-preview-1851546965)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
