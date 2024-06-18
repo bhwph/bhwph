@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bandai Namco just surprise-dropped 2 classic Baten Kaitos RPGs on Steam](https://www.pcgamer.com/games/rpg/bandai-namco-just-surprise-dropped-2-classic-baten-kaitos-rpgs-on-steam)
- - [Just days after saving the children, Helldivers 2 players are ordered to annihilate bug children in a weeklong nuke-a-thon](https://www.pcgamer.com/games/third-person-shooter/just-days-after-saving-the-children-helldivers-2-players-are-ordered-to-annihilate-bug-children-in-a-weeklong-nuke-a-thon)
- - [That game where you click a banana is now so popular it&#39;s poised to knock Baldur&#39;s Gate 3 off Steam&#39;s top 10 most-played games of all time](https://www.pcgamer.com/games/that-game-where-you-click-a-banana-is-now-so-popular-its-poised-to-knock-baldurs-gate-3-off-steams-top-10-most-played-games-of-all-time)<!-- GAME:END -->
+ - [Can Roggenrola be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24180267/can-roggenrola-be-shiny-boldore-gigalith)
+ - [Today&#39;s Wordle answer for Tuesday, June 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-18-2024)
+ - [Bandai Namco just surprise-dropped 2 classic Baten Kaitos RPGs on Steam](https://www.pcgamer.com/games/rpg/bandai-namco-just-surprise-dropped-2-classic-baten-kaitos-rpgs-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
