@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Nintendo RPG Bonanza Continues With Gorgeous-Looking Mario &amp; Luigi: Brothership](https://kotaku.com/mario-luigi-brothership-trailer-release-date-rpg-1851546204)
- - [Shadow of the Erdtree is bigger than most full games: Hidetaka Miyazaki must&#39;ve been pulling our legs when he said its map was &#39;comparable&#39; to the size of Limgrave](https://www.pcgamer.com/games/rpg/shadow-of-the-erdtree-is-bigger-than-most-full-games-hidetaka-miyazaki-mustve-been-pulling-our-legs-when-he-said-its-map-was-comparable-to-the-size-of-limgrave)
- - [Elden Ring Shadow of the Erdtree review](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-review)<!-- GAME:END -->
+ - [Warhammer 40K meets D&amp;D in new series starring former Games Workshop presenters](https://www.polygon.com/24173123/40k-dnd-actual-play-heretic-hunt-louise-sugden-peachy-interview)
+ - [737 days since the last Silksong news, and not a whisper from this year&#39;s Nintendo Direct—I&#39;d like to say fans are coping well but, y&#39;know](https://www.pcgamer.com/games/action/737-days-since-the-last-silksong-news-and-not-a-whisper-from-the-nintendo-direct-i-d-like-to-say-fans-are-coping-well-but-y-know)
+ - [Original Dragon Quest trilogy getting the ‘HD-2D’ remake treatment](https://www.polygon.com/24180967/dragon-quest-hd-2d-nintendo-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
