@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Horizon 5: Modern Horizons Update Brings 5 Iconic Cars from Movies and TV](https://forza.net/news/forza-horizon-5-modern-horizons#new_tab)
- - [Tough day at the office? How about a mandatory photo montage to calm you down, ordered by an AI that&#39;s monitoring how close you get to breaking point](https://www.pcgamer.com/software/ai/tough-day-at-the-office-how-about-a-mandatory-photo-montage-to-calm-you-down-ordered-by-an-ai-thats-monitoring-how-close-you-get-to-breaking-point)
- - [Todd Howard confirms that Starfield will get more DLCs after Shattered Space for &#39;hopefully a very long time&#39;](https://www.pcgamer.com/games/rpg/todd-howard-confirms-that-starfield-will-get-more-dlcs-after-shattered-space-for-hopefully-a-very-long-time)<!-- GAME:END -->
+ - [The Nintendo RPG Bonanza Continues With Gorgeous-Looking Mario &amp; Luigi: Brothership](https://kotaku.com/mario-luigi-brothership-trailer-release-date-rpg-1851546204)
+ - [Shadow of the Erdtree is bigger than most full games: Hidetaka Miyazaki must&#39;ve been pulling our legs when he said its map was &#39;comparable&#39; to the size of Limgrave](https://www.pcgamer.com/games/rpg/shadow-of-the-erdtree-is-bigger-than-most-full-games-hidetaka-miyazaki-mustve-been-pulling-our-legs-when-he-said-its-map-was-comparable-to-the-size-of-limgrave)
+ - [Elden Ring Shadow of the Erdtree review](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
