@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The voice of Mass Effect&#39;s sexy bird man Garrus will be the voice of Avowed&#39;s sexy fish man Kai](https://www.pcgamer.com/games/rpg/the-voice-of-mass-effects-sexy-bird-man-garrus-will-be-the-voice-of-avoweds-sexy-fish-man-kai)
- - [New Marvel vs. Capcom Collection Latest Game To Also Skip Xbox](https://kotaku.com/xbox-marvel-vs-capcom-mvc2-collection-arcade-switch-ps5-1851546799)
- - [Dragon Quest 3 Remake Hands-On: A Classic RPG Gets A Stunning Overhaul](https://kotaku.com/dragon-quest-3-hd-2d-remake-preview-1851546965)<!-- GAME:END -->
+ - [Shadow of the Erdtree review roundup: &#39;Recaptures all of the magic of playing Elden Ring for the first time.&#39;](https://www.pcgamer.com/games/rpg/shadow-of-the-erdtree-review-roundup-recaptures-all-of-the-magic-of-playing-elden-ring-for-the-first-time)
+ - [Nintendo&#39;s War On Fan Creators Now Includes People Making Sheet Music For Fire Emblem](https://kotaku.com/nintendo-sheet-music-musicnotes-takedown-dmca-1851547320)
+ - [Not even Riot wants to try competing with Fortnite on user-generated content: &#39;I&#39;m not gonna go pick that fight with Epic&#39;](https://www.pcgamer.com/games/moba/not-even-riot-wants-to-try-competing-with-fortnite-on-user-generated-content-im-not-gonna-go-pick-that-fight-with-epic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
