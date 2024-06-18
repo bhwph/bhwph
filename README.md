@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hello](http://9gag.com/gag/aQzn388)
- - 😝 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
- - 👉 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)<!-- MEMES:END -->
+ - 6️⃣ [Score!](http://9gag.com/gag/aoyje2n)
+ - 😝 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
+ - 👉 [Hello](http://9gag.com/gag/aQzn388)<!-- MEMES:END -->
 
 --- 
 
