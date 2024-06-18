@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Down-ballot campaigns in the US are experimenting with AI, which can help them save money and time, while also raising fears about the threats of AI deepfakes &lpar;Associated Press&rpar;](http://www.techmeme.com/240618/p5#a240618p5)
- - [A look at India&#39;s quick commerce market, which has become an important distribution channel for Indian food brands, as Zepto and others expand beyond groceries &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240618/p4#a240618p4)
- - [You no longer need a Pixel or Galaxy phone to get Gemini in Messages](https://www.androidauthority.com/gemini-messages-system-requirements-change-3452189/)<!-- TECH:END -->
+ - [Social media creators say earning a decent, reliable income is getting harder, as platforms pay less for popular posts and brands get pickier about partnerships &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240618/p7#a240618p7)
+ - [Crypto Scammers Are Targeting Trump’s MAGA Supporters](https://www.wired.com/story/maga-crypto-scammers-donald-trump/)
+ - [Is TikTok’s new app another Instagram clone? Whee aren’t sure](https://www.androidauthority.com/whee-tiktok-app-3452198/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
