@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini is finally getting support for Assistant Routines &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-routines-3452134/)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Check out these new ‘HeatRisk’ tools to stay up to date on US heatwaves](https://www.theverge.com/2024/6/17/24093587/heatwave-forecast-health-risks-online-tool-national-weather-service-cdc)<!-- TECH:END -->
+ - [Q&amp;A with Tubi CEO Anjali Sud, who joined from Vimeo in September 2023, on the streaming industry, working within Fox, subscription fatigue, copyright, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240617/p33#a240617p33)
+ - [Constructor, which provides an AI-powered product discovery and search service for e-commerce companies, raised a $25M Series B at a $550M valuation &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](http://www.techmeme.com/240617/p32#a240617p32)
+ - [Ricoh Shoots Back Into Film Cameras With Pentax 17 Half-Frame 35mm Camera     - CNET](https://www.cnet.com/tech/computing/ricoh-shoots-back-into-film-cameras-with-pentax-17-half-frame-35mm-camera/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
