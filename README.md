@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ISIS Created Fake CNN and Al Jazeera Broadcasts](https://www.wired.com/story/isis-created-fake-cnn-and-al-jazeera-broadcasts/)
- - [Sources: Huawei is considering taking a cut of in-app purchases on its Harmony OS, and has discussed a ~20% fee with developers, below Apple and Google&#39;s 30% &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240618/p10#a240618p10)
- - [Leak: The Xiaomi 15 could be the pocket-friendly flagship phone to beat](https://www.androidauthority.com/leak-xiaomi-15-camera-battery-3452251/)<!-- TECH:END -->
+ - [How Apple will label AI-generated images made with Image Playground](https://appleinsider.com/articles/24/06/17/how-apple-will-label-ai-generated-images-made-with-image-playground?utm_medium=rss)
+ - [Autonomous trucking startup Waabi raised a $200M Series B led by Uber and Khosla Ventures, after an $83.5M Series A in 2021, and aims for a full launch in 2025 &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240618/p15#a240618p15)
+ - [WhatsApp reunites Modern Family for ad about green bubble friends](https://www.theverge.com/2024/6/18/24180839/whatsapp-modern-family-ad-meta-green-bubbles-rcs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
