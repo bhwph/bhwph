@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats Solo Buds review: Apple&#39;s best wireless audio bargain yet](https://appleinsider.com/articles/24/06/18/beats-solo-buds-review-apples-best-wireless-audio-bargain-yet?utm_medium=rss)
- - [The Beats Solo Buds have a great look and an even better price](https://www.theverge.com/24180840/beats-solo-buds-earbuds-hands-on)
- - [Shadow of the Erdtree reintroduced me to Elden Ring by kicking my ass](https://www.theverge.com/24180536/shadow-of-the-erdtree-review-elden-ring-dlc)<!-- TECH:END -->
+ - [You can grab a Blink Video Doorbell with a Sync Module 2 for just $42 right now](https://www.theverge.com/2024/6/18/24180106/amazon-blink-video-doorbell-anker-747-charger-deal-sale)
+ - [Here’s when the CMF by Nothing Phone 1 will launch](https://www.androidauthority.com/cmf-by-nothing-phone-1-3452359/)
+ - [Apple Vision Pro sequel stalls as work on cheaper consumer headset continues](https://appleinsider.com/articles/24/06/18/apple-vision-pro-sequel-stalls-as-work-on-cheaper-consumer-headset-continues?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
