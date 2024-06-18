@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The solid-state AirJet cooler &#39;not bound by the limitations of mechanical devices&#39; aims to double its thermal performance every two years. Y&#39;know, Frore&#39;s Law](https://www.pcgamer.com/hardware/cooling/frore-airjet-hands-on-ceo-interview)
- - [Can Roggenrola be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24180267/can-roggenrola-be-shiny-boldore-gigalith)
- - [Today&#39;s Wordle answer for Tuesday, June 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-18-2024)<!-- GAME:END -->
+ - [Forza Horizon 5: Modern Horizons Update Brings 5 Iconic Cars from Movies and TV](https://forza.net/news/forza-horizon-5-modern-horizons#new_tab)
+ - [Tough day at the office? How about a mandatory photo montage to calm you down, ordered by an AI that&#39;s monitoring how close you get to breaking point](https://www.pcgamer.com/software/ai/tough-day-at-the-office-how-about-a-mandatory-photo-montage-to-calm-you-down-ordered-by-an-ai-thats-monitoring-how-close-you-get-to-breaking-point)
+ - [Todd Howard confirms that Starfield will get more DLCs after Shattered Space for &#39;hopefully a very long time&#39;](https://www.pcgamer.com/games/rpg/todd-howard-confirms-that-starfield-will-get-more-dlcs-after-shattered-space-for-hopefully-a-very-long-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
