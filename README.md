@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
- - 😝 [I just leave this here.](http://9gag.com/gag/a9yPK3m)
- - 👉 [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)<!-- MEMES:END -->
+ - 6️⃣ [Anime recommendations](http://9gag.com/gag/a2vqZje)
+ - 😝 [Work hard, not smart](http://9gag.com/gag/awy7B0R)
+ - 👉 [I just leave this here.](http://9gag.com/gag/a9yPK3m)<!-- MEMES:END -->
 
 --- 
 
