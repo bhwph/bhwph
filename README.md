@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
- - 😝 [It&#39;s never their fault, of course.](http://9gag.com/gag/aKGBdwO)
- - 👉 [The design is very human](http://9gag.com/gag/a34LQg7)<!-- MEMES:END -->
+ - 😝 [I just leave this here.](http://9gag.com/gag/a9yPK3m)
+ - 👉 [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)<!-- MEMES:END -->
 
 --- 
 
