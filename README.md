@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [20 teenagers robbed a diamond store in California](http://9gag.com/gag/aAypwV2)
- - 😝 [Panic after getting into an accident](http://9gag.com/gag/aoyjpG2)
+ - 6️⃣ [Streamer Sneako gets his teeth broken after trying to bully Security Guard](http://9gag.com/gag/amo8BY6)
+ - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
  - 👉 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)<!-- MEMES:END -->
 
 --- 
