@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Plo Koon is in The Acolyte because Dave Filoni remains a Star Wars phantom menace](https://www.polygon.com/star-wars/24181216/star-wars-acolyte-cameo-episode-4-plo-koon)
  - [What time does Elden Ring: Shadow of the Erdtree DLC release?](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180893/release-time-date-dlc-sote-est-pst-bst-cest)
- - [Call of Duty&#39;s new Fallout crossover dresses up Price and the lads in stretchy blue jammies, and I&#39;m sorry but it&#39;s not a great look](https://www.pcgamer.com/games/fps/call-of-dutys-new-fallout-crossover-dresses-up-price-and-the-lads-in-stretchy-blue-jammies-and-im-sorry-but-its-not-a-great-look)<!-- GAME:END -->
+ - [Call of Duty&#39;s new Fallout crossover dresses up Price and the lads in stretchy blue jammies, and I&#39;m sorry but it&#39;s not a great look](https://www.pcgamer.com/games/fps/call-of-dutys-new-fallout-crossover-dresses-up-price-and-the-lads-in-stretchy-blue-jammies-and-im-sorry-but-its-not-a-great-look)
+ - [Fans Are Joking That The New Zelda Game Should Be Called &#39;Legend of Link&#39;](https://kotaku.com/legend-of-link-zelda-echoes-of-wisdom-reactions-1851547513)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
