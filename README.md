@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gen X dads will get it](http://9gag.com/gag/aAypGV9)
- - 😝 [The reality of life.](http://9gag.com/gag/abAbVp8)
- - 👉 [They should teach useful Stuff at School](http://9gag.com/gag/ajPnmvp)<!-- MEMES:END -->
+ - 6️⃣ [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)
+ - 😝 [Oh my ... !](http://9gag.com/gag/aByrm2A)
+ - 👉 [Mommy](http://9gag.com/gag/aoyjP9m)<!-- MEMES:END -->
 
 --- 
 
