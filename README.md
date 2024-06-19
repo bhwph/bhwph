@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hackers claim to have carried off an enormous data heist on AMD, selling info on employee and customer information, future products and specs](https://www.pcgamer.com/hardware/hackers-claim-to-have-carried-off-an-enormous-data-heist-on-amd-selling-info-on-employee-and-customer-information-future-products-and-specs)
- - [All-Time Classic TimeSplitters Looking Likely For PS4, PS5](https://kotaku.com/timesplitters-playstation-ps4-ps5-classics-catalog-1851548513)
- - [The ideal desk fan for a PC builder: I&#39;ve kept the best of Britain&#39;s lacklustre summer away with Noctua&#39;s quiet, effective and pricey desk fan](https://www.pcgamer.com/hardware/cooling/the-ideal-desk-fan-for-a-pc-builder-ive-kept-the-best-of-britains-lacklustre-summer-away-with-noctuas-quiet-effective-and-pricey-desk-fan)<!-- GAME:END -->
+ - [Apple Could Be Fined A Billion Dollars A Day](https://kotaku.com/apple-ios-epic-fortnite-in-app-purchases-fine-1851549043)
+ - [A Deep Dive into the Supernatural Threats and Secrets of New World: Aeternum](https://news.xbox.com/en-us/2024/06/19/new-world-aeternum-deep-dive/)
+ - [The Boys songwriter behind Vought on Ice did the excruciating homework](https://www.polygon.com/24181252/boys-vought-on-ice-lets-put-christ-back-christmas)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
