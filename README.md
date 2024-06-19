@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Mozilla&#39;s acquisition of Anonym, which offers &quot;privacy-preserving&quot; ad tools, and how Anonym might interact with a user base that tends to block ads &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240619/p1#a240619p1)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 19, #108     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 19, #374     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answer-help-for-june-19-374/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Google DeepMind study involving 20 professional comedians who already use AI in their work finds LLMs struggled to produce material that was original or funny &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/240619/p5#a240619p5)
+ - [Fengate Asset Management acquires over two-thirds stake in eStruxture, which operates data centers in 15 locations in four Canadian cities, in a $1.3B deal &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/240619/p4#a240619p4)
+ - [Japan is looking to lure AI investment away from Europe and elsewhere by adopting a light-touch, industry-led approach to regulating AI &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240619/p3#a240619p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
