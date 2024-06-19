@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Score!](http://9gag.com/gag/aoyje2n)
- - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
- - 👉 [Oh my ... !](http://9gag.com/gag/aByrm2A)<!-- MEMES:END -->
+ - 6️⃣ [Gen X dads will get it](http://9gag.com/gag/aAypGV9)
+ - 😝 [The reality of life.](http://9gag.com/gag/abAbVp8)
+ - 👉 [They should teach useful Stuff at School](http://9gag.com/gag/ajPnmvp)<!-- MEMES:END -->
 
 --- 
 
