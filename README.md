@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clean smarter, not harder: Dreametech H14 makes thorough home cleaning a breeze](https://www.androidauthority.com/dreametech-h14-wet-and-dry-3452554/)
- - [Fusion Sparks an Energy Revolution](https://www.wired.com/story/fusion-sparks-an-energy-revolution/)
- - [4 great games I played at Summer Game Fest 2024](https://www.theverge.com/2024/6/19/24180304/summer-game-fest-2024-best-games)<!-- TECH:END -->
+ - [Apple researchers add 20 more open-source models to improve text and image AI](https://appleinsider.com/articles/24/06/19/apple-researchers-add-20-more-open-source-models-to-improve-text-and-image-ai?utm_medium=rss)
+ - [17 Management and City-Building Games for Armchair Tycoons](https://www.wired.com/gallery/best-management-city-building-games/)
+ - [Sunbird just won’t quit, is now opening its iMessage on Android app to 171,000 waitlisters](https://www.androidauthority.com/sunbird-waitlist-beta-3452754/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
