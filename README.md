@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Could Be Fined A Billion Dollars A Day](https://kotaku.com/apple-ios-epic-fortnite-in-app-purchases-fine-1851549043)
- - [A Deep Dive into the Supernatural Threats and Secrets of New World: Aeternum](https://news.xbox.com/en-us/2024/06/19/new-world-aeternum-deep-dive/)
- - [The Boys songwriter behind Vought on Ice did the excruciating homework](https://www.polygon.com/24181252/boys-vought-on-ice-lets-put-christ-back-christmas)<!-- GAME:END -->
+ - [How Disney’s new Princess and the Frog ride connects to the upcoming Tiana TV series](https://www.polygon.com/24180188/tianas-bayou-adventure-show-ride-princess-and-the-frog)
+ - [Fallout: Nuevo Mexico dev team breaks months of silence, confirms the big New Vegas mod we liked so much last year is &#39;on hold&#39; as lead developer steps back from the project](https://www.pcgamer.com/games/rpg/fallout-nuevo-mexico-dev-team-breaks-months-of-silence-confirms-the-big-new-vegas-mod-we-liked-so-much-last-year-is-on-hold-as-lead-developer-steps-back-from-the-project)
+ - [Huh: SimCity 2000&#39;s library has an essay about cities written by Neil Gaiman](https://www.pcgamer.com/games/sim/huh-simcity-2000s-library-has-an-essay-about-cities-written-by-neil-gaiman)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
