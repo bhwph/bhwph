@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, June 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-19-2024)
- - [There’s a... phantom menace... lurking in this week’s Acolyte](https://www.polygon.com/star-wars/24181423/plo-koon-acolyte-dave-filoni)
- - [So who is The Acolyte’s Master? We think episode 4 makes it pretty clear](https://www.polygon.com/star-wars/24177229/acolyte-master-who-is-answer)<!-- GAME:END -->
+ - [&#39;Sekiro was a big turning point&#39;: After Elden Ring Hidetaka Miyazaki says, &#39;there&#39;s one more level we can crank it up to&#39;](https://www.pcgamer.com/games/adventure/sekiro-was-a-big-turning-point-after-elden-ring-hidetaka-miyazaki-says-theres-one-more-level-we-can-crank-it-up-to)
+ - [Intel clarifies what BIOS settings 13th/14th Gen CPUs should be used for power and current](https://www.pcgamer.com/hardware/processors/intel-clarifies-what-bios-settings-13th14th-gen-cpus-should-be-used-for-power-and-current)
+ - [Forget all the AI fluff—some serious next-gen CPUs are on their way, praise the sun](https://www.pcgamer.com/hardware/processors/forget-all-the-ai-fluffsome-serious-next-gen-cpus-are-on-their-way-praise-the-sun)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
