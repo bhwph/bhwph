@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple researchers add 20 more open-source models to improve text and image AI](https://appleinsider.com/articles/24/06/19/apple-researchers-add-20-more-open-source-models-to-improve-text-and-image-ai?utm_medium=rss)
- - [17 Management and City-Building Games for Armchair Tycoons](https://www.wired.com/gallery/best-management-city-building-games/)
- - [Sunbird just won’t quit, is now opening its iMessage on Android app to 171,000 waitlisters](https://www.androidauthority.com/sunbird-waitlist-beta-3452754/)<!-- TECH:END -->
+ - [Three Apple internal tools allegedly stolen following June server breach](https://appleinsider.com/articles/24/06/19/three-apple-internal-tools-allegedly-stolen-following-june-server-breach?utm_medium=rss)
+ - [OpenAI’s former chief scientist is starting a new AI company](https://www.theverge.com/2024/6/19/24181870/openai-former-chief-scientist-ilya-sutskever-ssi-safe-superintelligence)
+ - [Adobe Says It Won&#39;t Train AI Using Artists&#39; Work. Creatives Aren&#39;t Convinced](https://www.wired.com/story/adobe-says-it-wont-train-ai-using-artists-work-creatives-arent-convinced/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
