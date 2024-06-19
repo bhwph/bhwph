@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Sekiro was a big turning point&#39;: After Elden Ring Hidetaka Miyazaki says, &#39;there&#39;s one more level we can crank it up to&#39;](https://www.pcgamer.com/games/adventure/sekiro-was-a-big-turning-point-after-elden-ring-hidetaka-miyazaki-says-theres-one-more-level-we-can-crank-it-up-to)
- - [Intel clarifies what BIOS settings 13th/14th Gen CPUs should be used for power and current](https://www.pcgamer.com/hardware/processors/intel-clarifies-what-bios-settings-13th14th-gen-cpus-should-be-used-for-power-and-current)
- - [Forget all the AI fluff—some serious next-gen CPUs are on their way, praise the sun](https://www.pcgamer.com/hardware/processors/forget-all-the-ai-fluffsome-serious-next-gen-cpus-are-on-their-way-praise-the-sun)<!-- GAME:END -->
+ - [Hackers claim to have carried off an enormous data heist on AMD, selling info on employee and customer information, future products and specs](https://www.pcgamer.com/hardware/hackers-claim-to-have-carried-off-an-enormous-data-heist-on-amd-selling-info-on-employee-and-customer-information-future-products-and-specs)
+ - [All-Time Classic TimeSplitters Looking Likely For PS4, PS5](https://kotaku.com/timesplitters-playstation-ps4-ps5-classics-catalog-1851548513)
+ - [The ideal desk fan for a PC builder: I&#39;ve kept the best of Britain&#39;s lacklustre summer away with Noctua&#39;s quiet, effective and pricey desk fan](https://www.pcgamer.com/hardware/cooling/the-ideal-desk-fan-for-a-pc-builder-ive-kept-the-best-of-britains-lacklustre-summer-away-with-noctuas-quiet-effective-and-pricey-desk-fan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
