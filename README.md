@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh my ... !](http://9gag.com/gag/aByrm2A)
- - 😝 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
- - 👉 [9gaggers...](http://9gag.com/gag/aVvX04K)<!-- MEMES:END -->
+ - 6️⃣ [The gaming crash is closer than ever](http://9gag.com/gag/a6ZLE79)
+ - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - 👉 [Mommy](http://9gag.com/gag/aoyjP9m)<!-- MEMES:END -->
 
 --- 
 
