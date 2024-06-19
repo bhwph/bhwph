@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)
- - 😝 [Oh my ... !](http://9gag.com/gag/aByrm2A)
- - 👉 [Mommy](http://9gag.com/gag/aoyjP9m)<!-- MEMES:END -->
+ - 6️⃣ [Good one](http://9gag.com/gag/an7Bgxb)
+ - 😝 [Diplomatic misadventures](http://9gag.com/gag/ayNn9A8)
+ - 👉 [Hungarian fans singing the German summer hit](http://9gag.com/gag/ajPngwg)<!-- MEMES:END -->
 
 --- 
 
