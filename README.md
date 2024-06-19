@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - 😝 [Anime recommendations](http://9gag.com/gag/a2vqZje)
- - 👉 [A star is born](http://9gag.com/gag/a2vq431)<!-- MEMES:END -->
+ - 6️⃣ [Only on the boat on the way over and they already started the work](http://9gag.com/gag/apRBQDM)
+ - 😝 [Was it the heart?](http://9gag.com/gag/aYQwgpN)
+ - 👉 [Hello](http://9gag.com/gag/aQzn388)<!-- MEMES:END -->
 
 --- 
 
