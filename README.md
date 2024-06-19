@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good one](http://9gag.com/gag/an7Bgxb)
- - 😝 [Diplomatic misadventures](http://9gag.com/gag/ayNn9A8)
- - 👉 [Hungarian fans singing the German summer hit](http://9gag.com/gag/ajPngwg)<!-- MEMES:END -->
+ - 6️⃣ [Mommy](http://9gag.com/gag/aoyjP9m)
+ - 😝 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
+ - 👉 [They went to allah](http://9gag.com/gag/awy7zPx)<!-- MEMES:END -->
 
 --- 
 
