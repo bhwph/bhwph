@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Google Chromecast with Google TV wishlist: All the features I want to see](https://www.androidauthority.com/new-google-chromecast-with-google-tv-3446065/)
- - [Update your Windows PC to avoid a serious Wi-Fi vulnerability](https://www.theverge.com/2024/6/19/24181908/microsoft-windows-pc-update-wi-fi-vulnerability)
- - [China&#39;s top-valued AI startup, Moonshot AI, recently debuted a role-play chat app and music maker app in the US; Chinese rival MiniMax also expanded to the US &lpar;The Information&rpar;](http://www.techmeme.com/240619/p27#a240619p27)<!-- TECH:END -->
+ - [Arvind Mithal, a prolific computer scientist and longtime MIT professor who led the Computation Structures Group in MIT CSAIL, died on June 17 at age 77 &lpar;Adam Zewe/MIT News&rpar;](http://www.techmeme.com/240619/p30#a240619p30)
+ - [Snapchat AI turns prompts into new lens](https://www.theverge.com/2024/6/19/24181965/snapchat-ai-prompt-custom-lens)
+ - [Snap agrees to a $15M settlement with California after a three-year probe into employees&#39; allegations of discrimination, retaliation, and sexual harassment &lpar;Lara Korte/Politico&rpar;](http://www.techmeme.com/240619/p29#a240619p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
