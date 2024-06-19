@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only on the boat on the way over and they already started the work](http://9gag.com/gag/apRBQDM)
- - 😝 [Was it the heart?](http://9gag.com/gag/aYQwgpN)
- - 👉 [Hello](http://9gag.com/gag/aQzn388)<!-- MEMES:END -->
+ - 6️⃣ [Oh my ... !](http://9gag.com/gag/aByrm2A)
+ - 😝 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
+ - 👉 [9gaggers...](http://9gag.com/gag/aVvX04K)<!-- MEMES:END -->
 
 --- 
 
