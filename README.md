@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 16 Best Messenger Bags, Crossbody Bags, Slings and Shoulder Bags &lpar;2024&rpar;](https://www.wired.com/gallery/best-messenger-bags/)
- - [A look at Rebind, a mysterious startup that turns Margaret Atwood and other authors&#39; voices into AI reading companions, and an interview with CEO John Dubuque &lpar;Laura Kipnis/Wired&rpar;](http://www.techmeme.com/240619/p12#a240619p12)
- - [This Is What Would Happen if China Invaded Taiwan](https://www.wired.com/story/this-is-what-would-happen-if-china-invaded-taiwan/)<!-- TECH:END -->
+ - [6 Best Toasters &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-toasters/)
+ - [You’ll need a new smart lock if you want Apple Home to ‘magically’ unlock your door](https://www.theverge.com/2024/6/19/24180813/apple-home-hands-free-unlock-smart-lock-uwb-wwdc-2024)
+ - [This Galaxy S25 camera leak will dash your hopes for a better camera](https://www.androidauthority.com/samsung-galaxy-s25-main-camera-leak-3452651/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
