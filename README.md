@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Toasters &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-toasters/)
- - [You’ll need a new smart lock if you want Apple Home to ‘magically’ unlock your door](https://www.theverge.com/2024/6/19/24180813/apple-home-hands-free-unlock-smart-lock-uwb-wwdc-2024)
- - [This Galaxy S25 camera leak will dash your hopes for a better camera](https://www.androidauthority.com/samsung-galaxy-s25-main-camera-leak-3452651/)<!-- TECH:END -->
+ - [Clean smarter, not harder: Dreametech H14 makes thorough home cleaning a breeze](https://www.androidauthority.com/dreametech-h14-wet-and-dry-3452554/)
+ - [Fusion Sparks an Energy Revolution](https://www.wired.com/story/fusion-sparks-an-energy-revolution/)
+ - [4 great games I played at Summer Game Fest 2024](https://www.theverge.com/2024/6/19/24180304/summer-game-fest-2024-best-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
