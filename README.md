@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new &#39;Help Me Choose&#39; quiz helps users find the right Mac](https://appleinsider.com/articles/24/06/18/apples-new-help-me-choose-quiz-helps-users-find-the-right-mac?utm_medium=rss)
- - [Luma promoted its AI video generator with some very familiar incorporated monsters](https://www.theverge.com/2024/6/18/24181375/luma-ai-monster-camp-monsters-inc-pixar)
- - [Qilin, a cohort of Russian-speaking hackers, claims responsibility for the ransomware attack impacting London hospitals for weeks and demands $50M to end it &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/240618/p34#a240618p34)<!-- TECH:END -->
+ - [US Government Sues Adobe Over &#39;Convoluted&#39; Cancellation Process     - CNET](https://www.cnet.com/tech/services-and-software/us-government-sues-adobe-over-convoluted-cancellation-process/#ftag=CAD590a51e)
+ - [Lift Weights to Lose Weight: How Strength Training Burns Fat     - CNET](https://www.cnet.com/health/fitness/lift-weights-to-lose-weight-how-strength-training-burns-fat/#ftag=CAD590a51e)
+ - [T-Mobile’s new policy on bill credits is bad news for customers](https://www.androidauthority.com/t-mobiles-bill-credits-policy-3452549/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
