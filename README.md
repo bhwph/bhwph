@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)
- - 😝 [Hello](http://9gag.com/gag/aQzn388)
- - 👉 [Comparing body count](http://9gag.com/gag/aVvXM4d)<!-- MEMES:END -->
+ - 6️⃣ [Comparing body count](http://9gag.com/gag/aVvXM4d)
+ - 😝 [Anime recommendations](http://9gag.com/gag/a2vqZje)
+ - 👉 [A star is born](http://9gag.com/gag/a2vq431)<!-- MEMES:END -->
 
 --- 
 
