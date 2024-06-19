@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Google DeepMind study involving 20 professional comedians who already use AI in their work finds LLMs struggled to produce material that was original or funny &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/240619/p5#a240619p5)
- - [Fengate Asset Management acquires over two-thirds stake in eStruxture, which operates data centers in 15 locations in four Canadian cities, in a $1.3B deal &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/240619/p4#a240619p4)
- - [Japan is looking to lure AI investment away from Europe and elsewhere by adopting a light-touch, industry-led approach to regulating AI &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240619/p3#a240619p3)<!-- TECH:END -->
+ - [How generative AI model providers can create business models that reward copyright holders and content creators, much like what has happened on the web &lpar;Tim O&#39;Reilly/O&#39;Reilly Media&rpar;](http://www.techmeme.com/240619/p9#a240619p9)
+ - [One UI 6.1.1 could make your S Pen more exciting again](https://www.androidauthority.com/one-ui-6-1-1-s-pen-ai-graffiti-3452600/)
+ - [The US surgeon general&#39;s call for social media warning labels seems to ignore evidence and may feed into a moral panic, similar to prior panics over video games &lpar;Mike Masnick/The Daily Beast&rpar;](http://www.techmeme.com/240619/p8#a240619p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
