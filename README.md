@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9gaggers...](http://9gag.com/gag/aVvX04K)
- - 😝 [True.](http://9gag.com/gag/aQzneLK)
- - 👉 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/azxVXgj)<!-- MEMES:END -->
+ - 6️⃣ [Score!](http://9gag.com/gag/aoyje2n)
+ - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - 👉 [Oh my ... !](http://9gag.com/gag/aByrm2A)<!-- MEMES:END -->
 
 --- 
 
