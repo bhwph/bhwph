@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Redfall Fans Are Finally Starting To Get Refunds For Abandoned DLC](https://kotaku.com/redfall-refund-hero-dlc-microsoft-arkane-1851550349)
- - [Metroidvania Grappler Rusted Moss Mixes Physics with Creativity](https://news.xbox.com/en-us/2024/06/20/rusted-moss-mixes-physics-with-creativity/)
- - [NYX is a hyper-local teen hangout book for a new X-Men era](https://www.polygon.com/24181086/marvel-nyx-2024-preview-ms-marvel-wolverine)<!-- GAME:END -->
+ - [BitReactor has a Star Wars tactical strategy game in the works, 15 XCOM veterans on its team, and an ambitious vision for the future of the genre](https://www.pcgamer.com/games/strategy/bitreactor-has-a-star-wars-tactical-strategy-game-in-the-works-15-xcom-veterans-on-its-team-and-an-ambitious-vision-for-the-future-of-the-genre)
+ - [The Penguin looks like a heaping helping of Gotham City mob drama](https://www.polygon.com/24182425/batman-penguin-tv-series-hbo-max-colin-farrell)
+ - [Dev promises that Steam sensation Banana has &#39;no scamming&#39;, after fellow dev&#39;s shady faux-Bitcoin past sees his fruits confiscated](https://www.pcgamer.com/games/dev-promises-that-steam-sensation-banana-has-no-scamming-after-fellow-dev-s-shady-faux-bitcoin-past-sees-his-fruits-confiscated)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
