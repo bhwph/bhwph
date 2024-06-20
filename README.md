@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How some Meta users in the US are turning to small claims court, often successfully, to recover their Facebook or Instagram accounts; some won financial damages &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240620/p23#a240620p23)
- - [Watch the trailer for Beyond Good &amp; Evil 20th Anniversary Edition — coming June 25th](https://www.theverge.com/24182577/beyond-good-evil-20th-anniversary-game-trailer-release-date)
- - [Kingdom of the Planet of the Apes ‘Raw Cut’ shows the movie pre-VFX](https://www.theverge.com/2024/6/20/24182452/kingdom-of-the-planet-of-the-apes-raw-cut-blu-ray-release-date)<!-- TECH:END -->
+ - [London-based PQShield, which is developing tools for implementing post-quantum cryptography, raised a $37M Series B, taking its total funding to $57M+ &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/240620/p27#a240620p27)
+ - [Tempur-Pedic Mattress Review for 2024: Is the Brand Worth the Price Tag?     - CNET](https://www.cnet.com/health/sleep/tempurpedic-mattress-review/#ftag=CAD590a51e)
+ - [Move Over, Wordle and Connections. This Taylor Swift Eras Tour Game Has Me Hooked     - CNET](https://www.cnet.com/tech/services-and-software/move-over-wordle-and-connections-this-taylor-swift-eras-tour-game-has-me-hooked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
