@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [History is your murder playground in Assassin&#39;s Creed x Magic: The Gathering](https://www.pcgamer.com/games/card-games/history-is-your-murder-playground-in-assassins-creed-x-magic-the-gathering)
  - [Elden Ring Shadow of the Erdtree unlock times and release date](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-unlock-time)
- - [Elden Ring speedrunners are racing to see who can kill Mohg the fastest, which is a good reminder that most of you still haven&#39;t finished the job](https://www.pcgamer.com/games/rpg/elden-ring-speedrunners-are-racing-to-see-who-can-kill-mohg-the-fastest-which-is-a-good-reminder-that-most-of-you-still-havent-finished-the-job)
- - [Intellectual property law has come for the word &#39;Meeple&#39;](https://www.pcgamer.com/games/board-games/intellectual-property-law-has-come-for-the-word-meeple)<!-- GAME:END -->
+ - [Elden Ring speedrunners are racing to see who can kill Mohg the fastest, which is a good reminder that most of you still haven&#39;t finished the job](https://www.pcgamer.com/games/rpg/elden-ring-speedrunners-are-racing-to-see-who-can-kill-mohg-the-fastest-which-is-a-good-reminder-that-most-of-you-still-havent-finished-the-job)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
