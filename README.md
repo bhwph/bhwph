@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 😝 [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)
- - 👉 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)<!-- MEMES:END -->
+ - 6️⃣ [9gaggers...](http://9gag.com/gag/adBpgRd)
+ - 😝 [This belongs here](http://9gag.com/gag/aryRnpV)
+ - 👉 [Old friends](http://9gag.com/gag/abAbVxO)<!-- MEMES:END -->
 
 --- 
 
