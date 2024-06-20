@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She loves me](http://9gag.com/gag/aByrnKA)
- - 😝 [Rafah before and after](http://9gag.com/gag/a2vqv1e)
- - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
+ - 6️⃣ [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
+ - 😝 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
+ - 👉 [A keeper.](http://9gag.com/gag/a5QKQrg)<!-- MEMES:END -->
 
 --- 
 
