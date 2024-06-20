@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based PQShield, which is developing tools for implementing post-quantum cryptography, raised a $37M Series B, taking its total funding to $57M+ &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/240620/p27#a240620p27)
- - [Tempur-Pedic Mattress Review for 2024: Is the Brand Worth the Price Tag?     - CNET](https://www.cnet.com/health/sleep/tempurpedic-mattress-review/#ftag=CAD590a51e)
- - [Move Over, Wordle and Connections. This Taylor Swift Eras Tour Game Has Me Hooked     - CNET](https://www.cnet.com/tech/services-and-software/move-over-wordle-and-connections-this-taylor-swift-eras-tour-game-has-me-hooked/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok makes its First Amendment case](https://www.theverge.com/2024/6/20/24182551/tiktok-v-garland-creators-brief-first-amendment)
+ - [Samsung Galaxy Buds 3 leak shows off AirPods-like design](https://www.theverge.com/2024/6/20/24182744/samsung-galaxy-buds-3-leak-airpods-design)
+ - [US government will ban Kaspersky antivirus software due to ties to Russia](https://www.androidauthority.com/kaspersky-ban-3453231/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
