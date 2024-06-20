@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The original Counter-Strike mod is 25 years old, Valve calls it &#39;the greatest videogame ever made&#39;](https://www.pcgamer.com/games/fps/the-original-counter-strike-mod-is-25-years-old-valve-calls-it-the-greatest-videogame-ever-made)
- - [Breaking the Fourth Wall: Fiction Meets Reality in ARG Trust No One](https://news.xbox.com/en-us/2024/06/20/breaking-the-fourth-wall-fiction-meets-reality-in-arg-trust-no-one/)
- - [Elden Ring Is Broken On Steam Deck, But A Fix Is On The Way](https://kotaku.com/elden-ring-steam-deck-broken-patch-shadow-erdtree-pc-1851551550)<!-- GAME:END -->
+ - [How to beat the Divine Beast Dancing Lion in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-dancing-lion-tips)
+ - [Elden Ring: Shadow of the Erdtree guides and walkthroughs](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180113/dlc-walkthroughs-guides)
+ - [New DLC spell locations in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180257/all-spell-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
