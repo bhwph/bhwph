@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arvind Mithal, a prolific computer scientist and longtime MIT professor who led the Computation Structures Group in MIT CSAIL, died on June 17 at age 77 &lpar;Adam Zewe/MIT News&rpar;](http://www.techmeme.com/240619/p30#a240619p30)
- - [Snapchat AI turns prompts into new lens](https://www.theverge.com/2024/6/19/24181965/snapchat-ai-prompt-custom-lens)
- - [Snap agrees to a $15M settlement with California after a three-year probe into employees&#39; allegations of discrimination, retaliation, and sexual harassment &lpar;Lara Korte/Politico&rpar;](http://www.techmeme.com/240619/p29#a240619p29)<!-- TECH:END -->
+ - [Paris-based C12, which is developing a carbon nanotube-based quantum computer, raised &amp;euro;18M led by Varsity, EIC, and Verve, after raising a ~&amp;euro;9M seed in 2021 &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/240619/p32#a240619p32)
+ - [At Augmented World Expo, Palmer Luckey says he&#39;s building a new headset &quot;driven by military requirements&quot; that will also be used for &quot;non-military stuff&quot; &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240619/p31#a240619p31)
+ - [T20 Cricket World Cup Livestream: How to Watch West Indies vs. England From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/t20-cricket-world-cup-livestream-how-to-watch-west-indies-vs-england-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
