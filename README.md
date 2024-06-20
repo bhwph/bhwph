@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer magazine&#39;s new issue is on sale now: Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-elden-ring-shadow-of-the-erdtree)
- - [Lords Mobile is getting ready for the next battle as it kicks off collaboration with THE KING OF FIGHTERS XV](https://www.pcgamer.com/games/lords-mobile-is-getting-ready-for-the-next-battle-as-it-kicks-off-collaboration-with-the-king-of-fighters-xv)
- - [Today&#39;s Wordle answer for Thursday, June 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-20-2024)<!-- GAME:END -->
+ - [Asus RT-BE88U review](https://www.pcgamer.com/hardware/networking/asus-rt-be88u-review)
+ - [Avermedia Live Gamer Mini capture card review](https://www.pcgamer.com/hardware/capture-cards/avermedia-live-gamer-mini-capture-card-review)
+ - [Beyond Good and Evil quietly delisted as Ubisoft gears up to release the not-so-secret 20th Anniversary Edition in time for its 21st anniversary](https://www.pcgamer.com/games/adventure/beyond-good-and-evil-quietly-delisted-as-ubisoft-gears-up-to-release-the-not-so-secret-20th-anniversary-edition-in-time-for-its-21st-anniversary)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
