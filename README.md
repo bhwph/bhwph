@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo’s latest tablet doubles as a Bluetooth speaker and packs a whopping 8 speakers](https://www.androidauthority.com/lenovo-tab-plus-bluetooth-speaker-3453079/)
- - [Sunbird, an insecure app that’s never worked properly, will likely cost you $1.99 each month](https://www.androidauthority.com/sunbird-subscription-3453103/)
- - [The newest streaming movies this week: Exhuma, Monkey Man, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
+ - [How some Meta users in the US are turning to small claims court, often successfully, to recover their Facebook or Instagram accounts; some won financial damages &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240620/p23#a240620p23)
+ - [Watch the trailer for Beyond Good &amp; Evil 20th Anniversary Edition — coming June 25th](https://www.theverge.com/24182577/beyond-good-evil-20th-anniversary-game-trailer-release-date)
+ - [Kingdom of the Planet of the Apes ‘Raw Cut’ shows the movie pre-VFX](https://www.theverge.com/2024/6/20/24182452/kingdom-of-the-planet-of-the-apes-raw-cut-blu-ray-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
