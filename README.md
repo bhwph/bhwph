@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the many lawsuits against RealPage, the rent-fixing software company accused of artificially inflating the real estate rental prices across the US &lpar;Maureen Tkacik/American Prospect&rpar;](http://www.techmeme.com/240620/p5#a240620p5)
- - [This leaked Motorola Razr Plus 2024 change could be a double-edged sword](https://www.androidauthority.com/leaked-motorola-razr-plus-2024-video-ad-3452897/)
- - [An investigation details how Chinese gangs, Chinese officials, and Myanmar&#39;s Junta made Myanmar&#39;s Kokang region a key hub in the global online scam industry &lpar;Washington Post&rpar;](http://www.techmeme.com/240620/p4#a240620p4)<!-- TECH:END -->
+ - [Apple reveals first Malaysian store ahead of opening](https://appleinsider.com/articles/24/06/20/apple-reveals-first-malaysian-store-ahead-of-opening?utm_medium=rss)
+ - [TikTok launches an in-app experience to celebrate Taylor Swift&#39;s Eras Tour, giving prizes to users who complete 11 weeks of tasks, following Instagram in April &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240620/p7#a240620p7)
+ - [Potatoes Are the Perfect Vegetable—but You’re Eating Them Wrong](https://www.wired.com/story/potatoes-are-the-perfect-vegetable-but-youre-eating-them-wrong/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
