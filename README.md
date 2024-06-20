@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo squeezed eight speakers into its chonky new tablet](https://www.theverge.com/2024/6/20/24182290/lenovo-tab-plus-tablet-android-bluetooth-speaker)
- - [We’re Still Waiting for the Next Big Leap in AI](https://www.wired.com/story/were-still-waiting-for-the-next-big-leap-in-ai/)
- - [Honor 200 Pro Review: Midrange Mixed Bag](https://www.wired.com/review/honor-200-pro/)<!-- TECH:END -->
+ - [Lenovo’s latest tablet doubles as a Bluetooth speaker and packs a whopping 8 speakers](https://www.androidauthority.com/lenovo-tab-plus-bluetooth-speaker-3453079/)
+ - [Sunbird, an insecure app that’s never worked properly, will likely cost you $1.99 each month](https://www.androidauthority.com/sunbird-subscription-3453103/)
+ - [The newest streaming movies this week: Exhuma, Monkey Man, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
