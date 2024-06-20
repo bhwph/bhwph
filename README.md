@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail Penacony treasure chests locations and map](https://www.polygon.com/honkai-star-rail-guides/24058334/penacony-treasure-locations-map-warp-trotters-lordly-trashcans)
- - [Elden Ring&#39;s pre-Erdtree patch makes a big, surprise quality-of-life change: You can finally summon Torrent for the final fight against the big boss](https://www.pcgamer.com/games/action/elden-rings-pre-erdtree-patch-makes-a-big-surprise-quality-of-life-change-you-can-finally-summon-torrent-for-the-final-fight-against-the-big-boss)
- - [Tips, Tricks, and Shortcuts for Unlocking Elden Ring’s Shadow of the Erdtree DLC](https://news.xbox.com/en-us/2024/06/20/elden-ring-shadow-of-the-erdtree-dlc-how-to-access/)<!-- GAME:END -->
+ - [The original Counter-Strike mod is 25 years old, Valve calls it &#39;the greatest videogame ever made&#39;](https://www.pcgamer.com/games/fps/the-original-counter-strike-mod-is-25-years-old-valve-calls-it-the-greatest-videogame-ever-made)
+ - [Breaking the Fourth Wall: Fiction Meets Reality in ARG Trust No One](https://news.xbox.com/en-us/2024/06/20/breaking-the-fourth-wall-fiction-meets-reality-in-arg-trust-no-one/)
+ - [Elden Ring Is Broken On Steam Deck, But A Fix Is On The Way](https://kotaku.com/elden-ring-steam-deck-broken-patch-shadow-erdtree-pc-1851551550)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
