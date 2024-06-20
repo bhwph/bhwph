@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple held talks with Baidu, Alibaba, Baichuan AI, and others to help offer Apple Intelligence in China as ChatGPT isn&#39;t available in the country &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240619/p34#a240619p34)
- - [How to brainstorm and mind-map in Freeform](https://appleinsider.com/articles/24/06/20/how-to-brainstorm-and-mind-map-in-freeform?utm_medium=rss)
- - [Accel and Dealroom: out of 221 generative AI startups in Europe and Israel, 27% were created in London, 13% in Tel Aviv, 12% in Berlin, and 10% in Paris &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240619/p33#a240619p33)<!-- TECH:END -->
+ - [Software vendors like Salesforce are getting left behind in the AI boom, as most AI spending at this point is going toward hardware or cloud infrastructure &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240620/p3#a240620p3)
+ - [Europe Scrambles for Relevance in the Age of AI](https://www.wired.com/story/europe-scrambles-relevance-ai/)
+ - [Q&amp;A with Meta Oversight Board co-chair Helle-Thorning Schmidt on AI deepfakes, Meta rejecting the board&#39;s decision on former Cambodian PM Hun Sen, and more &lpar;Murad Ahmed/Financial Times&rpar;](http://www.techmeme.com/240620/p2#a240620p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
