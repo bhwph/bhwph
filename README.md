@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [BitReactor has a Star Wars tactical strategy game in the works, 15 XCOM veterans on its team, and an ambitious vision for the future of the genre](https://www.pcgamer.com/games/strategy/bitreactor-has-a-star-wars-tactical-strategy-game-in-the-works-15-xcom-veterans-on-its-team-and-an-ambitious-vision-for-the-future-of-the-genre)
- - [The Penguin looks like a heaping helping of Gotham City mob drama](https://www.polygon.com/24182425/batman-penguin-tv-series-hbo-max-colin-farrell)
- - [Dev promises that Steam sensation Banana has &#39;no scamming&#39;, after fellow dev&#39;s shady faux-Bitcoin past sees his fruits confiscated](https://www.pcgamer.com/games/dev-promises-that-steam-sensation-banana-has-no-scamming-after-fellow-dev-s-shady-faux-bitcoin-past-sees-his-fruits-confiscated)<!-- GAME:END -->
+ - [Honkai: Star Rail Penacony treasure chests locations and map](https://www.polygon.com/honkai-star-rail-guides/24058334/penacony-treasure-locations-map-warp-trotters-lordly-trashcans)
+ - [Elden Ring&#39;s pre-Erdtree patch makes a big, surprise quality-of-life change: You can finally summon Torrent for the final fight against the big boss](https://www.pcgamer.com/games/action/elden-rings-pre-erdtree-patch-makes-a-big-surprise-quality-of-life-change-you-can-finally-summon-torrent-for-the-final-fight-against-the-big-boss)
+ - [Tips, Tricks, and Shortcuts for Unlocking Elden Ring’s Shadow of the Erdtree DLC](https://news.xbox.com/en-us/2024/06/20/elden-ring-shadow-of-the-erdtree-dlc-how-to-access/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
