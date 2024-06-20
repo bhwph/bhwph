@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How much for that? Asking for friend](http://9gag.com/gag/avyLyd5)
- - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
- - 👉 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)<!-- MEMES:END -->
+ - 6️⃣ [Wait for it,](http://9gag.com/gag/aZZNy3Q)
+ - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
+ - 👉 [The real pirates of the Caribbean](http://9gag.com/gag/aGyRzKn)<!-- MEMES:END -->
 
 --- 
 
