@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus RT-BE88U review](https://www.pcgamer.com/hardware/networking/asus-rt-be88u-review)
- - [Avermedia Live Gamer Mini capture card review](https://www.pcgamer.com/hardware/capture-cards/avermedia-live-gamer-mini-capture-card-review)
- - [Beyond Good and Evil quietly delisted as Ubisoft gears up to release the not-so-secret 20th Anniversary Edition in time for its 21st anniversary](https://www.pcgamer.com/games/adventure/beyond-good-and-evil-quietly-delisted-as-ubisoft-gears-up-to-release-the-not-so-secret-20th-anniversary-edition-in-time-for-its-21st-anniversary)<!-- GAME:END -->
+ - [Redfall Fans Are Finally Starting To Get Refunds For Abandoned DLC](https://kotaku.com/redfall-refund-hero-dlc-microsoft-arkane-1851550349)
+ - [Metroidvania Grappler Rusted Moss Mixes Physics with Creativity](https://news.xbox.com/en-us/2024/06/20/rusted-moss-mixes-physics-with-creativity/)
+ - [NYX is a hyper-local teen hangout book for a new X-Men era](https://www.polygon.com/24181086/marvel-nyx-2024-preview-ms-marvel-wolverine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
