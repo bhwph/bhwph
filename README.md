@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9gaggers...](http://9gag.com/gag/adBpgRd)
- - 😝 [This belongs here](http://9gag.com/gag/aryRnpV)
- - 👉 [Old friends](http://9gag.com/gag/abAbVxO)<!-- MEMES:END -->
+ - 6️⃣ [Hello there!](http://9gag.com/gag/ayNn2dp)
+ - 😝 [They went to allah](http://9gag.com/gag/awy7zPx)
+ - 👉 [Can&#39;t wait for the cake](http://9gag.com/gag/avyLoEd)<!-- MEMES:END -->
 
 --- 
 
