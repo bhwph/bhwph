@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Genuine men are willing to make sacrifices](http://9gag.com/gag/aGyRpYZ)
- - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 👉 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)<!-- MEMES:END -->
+ - 6️⃣ [She loves me](http://9gag.com/gag/aByrnKA)
+ - 😝 [New Zealand Women&#39;s Soccer player scores own goal 3x in 30 minutes...](http://9gag.com/gag/aW4OGL3)
+ - 👉 [9gaggers...](http://9gag.com/gag/aVvX04K)<!-- MEMES:END -->
 
 --- 
 
