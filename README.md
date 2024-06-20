@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hello there!](http://9gag.com/gag/ayNn2dp)
- - 😝 [They went to allah](http://9gag.com/gag/awy7zPx)
- - 👉 [Can&#39;t wait for the cake](http://9gag.com/gag/avyLoEd)<!-- MEMES:END -->
+ - 6️⃣ [Genuine men are willing to make sacrifices](http://9gag.com/gag/aGyRpYZ)
+ - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
+ - 👉 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)<!-- MEMES:END -->
 
 --- 
 
