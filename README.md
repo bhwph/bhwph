@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reveals first Malaysian store ahead of opening](https://appleinsider.com/articles/24/06/20/apple-reveals-first-malaysian-store-ahead-of-opening?utm_medium=rss)
- - [TikTok launches an in-app experience to celebrate Taylor Swift&#39;s Eras Tour, giving prizes to users who complete 11 weeks of tasks, following Instagram in April &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240620/p7#a240620p7)
- - [Potatoes Are the Perfect Vegetable—but You’re Eating Them Wrong](https://www.wired.com/story/potatoes-are-the-perfect-vegetable-but-youre-eating-them-wrong/)<!-- TECH:END -->
+ - [Daydream, which is building a search engine for personalized shopping using GenAI, ML, and computer vision, raised a $50M seed co-led by Forerunner and Index &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240620/p12#a240620p12)
+ - [Good Search Borrows, Great Search … Steals?](https://www.wired.com/story/gadget-lab-podcast-648/)
+ - [EU diplomats: a scheduled EU Council vote to amend a draft law that may force WhatsApp and Signal to scan images and links for CSAM was removed from the agenda &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240620/p11#a240620p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
