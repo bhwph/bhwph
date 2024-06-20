@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daydream, which is building a search engine for personalized shopping using GenAI, ML, and computer vision, raised a $50M seed co-led by Forerunner and Index &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240620/p12#a240620p12)
- - [Good Search Borrows, Great Search … Steals?](https://www.wired.com/story/gadget-lab-podcast-648/)
- - [EU diplomats: a scheduled EU Council vote to amend a draft law that may force WhatsApp and Signal to scan images and links for CSAM was removed from the agenda &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240620/p11#a240620p11)<!-- TECH:END -->
+ - [Lenovo squeezed eight speakers into its chonky new tablet](https://www.theverge.com/2024/6/20/24182290/lenovo-tab-plus-tablet-android-bluetooth-speaker)
+ - [We’re Still Waiting for the Next Big Leap in AI](https://www.wired.com/story/were-still-waiting-for-the-next-big-leap-in-ai/)
+ - [Honor 200 Pro Review: Midrange Mixed Bag](https://www.wired.com/review/honor-200-pro/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
