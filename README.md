@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait for it,](http://9gag.com/gag/aZZNy3Q)
- - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 👉 [The real pirates of the Caribbean](http://9gag.com/gag/aGyRzKn)<!-- MEMES:END -->
+ - 6️⃣ [She loves me](http://9gag.com/gag/aByrnKA)
+ - 😝 [Rafah before and after](http://9gag.com/gag/a2vqv1e)
+ - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
 
 --- 
 
