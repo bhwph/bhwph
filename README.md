@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
- - 😝 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
- - 👉 [A keeper.](http://9gag.com/gag/a5QKQrg)<!-- MEMES:END -->
+ - 6️⃣ [Stop oil protestors targeted Taylor swift private jet](http://9gag.com/gag/a2vqvne)
+ - 😝 [A keeper.](http://9gag.com/gag/a5QKQrg)
+ - 👉 [Its Alien....](http://9gag.com/gag/aVvXxr2)<!-- MEMES:END -->
 
 --- 
 
