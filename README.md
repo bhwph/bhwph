@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI MPG B760I Edge WiFi review](https://www.pcgamer.com/hardware/motherboards/msi-mpg-b760i-edge-wifi-review)
- - [Today&#39;s Wordle answer for Friday, June 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-21-2024)
- - [Elden Ring: Shadow of the Erdtree is out now and tearing up the Steam charts](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-is-out-now-and-tearing-up-the-steam-charts)<!-- GAME:END -->
+ - [How to defeat Rellana, Twin Moon Knight in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-rellana)
+ - [Intel&#39;s Lunar Lake mobile CPUs reportedly delayed until the end of the year, missing the big back-to-school period](https://www.pcgamer.com/hardware/processors/intels-lunar-lake-mobile-cpus-reportedly-delayed-until-the-end-of-the-year-missing-the-big-back-to-school-period)
+ - [6 months after revealing plans to become &#39;aggressive in applying AI&#39;, Square Enix&#39;s president announces he&#39;s being careful in applying AI](https://www.pcgamer.com/gaming-industry/game-development/6-months-after-revealing-plans-to-become-aggressive-in-applying-ai-square-enix-s-president-announces-he-s-being-careful-in-applying-ai)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
