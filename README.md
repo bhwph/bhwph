@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meme dump 20 : Rage Comic edition](http://9gag.com/gag/aXPXNgv)
- - 😝 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
- - 👉 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)<!-- MEMES:END -->
+ - 6️⃣ [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)
+ - 😝 [Lmao](http://9gag.com/gag/aLnBe1g)
+ - 👉 [Euro 2024 anthem &lpar;you know the song&rpar; - 20 June 2024](http://9gag.com/gag/aW4OL24)<!-- MEMES:END -->
 
 --- 
 
