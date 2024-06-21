@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to use the Storeroom Key in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183368/storeroom-key-location-how-to-use-sote)
- - [Hornsent Grandam questline walkthrough for Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183155/hornsent-grandam-questline-steps-sote-dlc)
- - [Windstorm: Start of a Great Friendship – Remastered Gallops onto Xbox](https://news.xbox.com/en-us/2024/06/21/windstorm-start-of-a-great-friendship-remastered-on-xbox-june-20/)<!-- GAME:END -->
+ - [Lowering Elden Ring&#39;s difficulty would attract more players but would also &#39;break the game itself,&#39; says director Hidetaka Miyazaki](https://www.pcgamer.com/games/action/lowering-elden-rings-difficulty-would-attract-more-players-but-would-also-break-the-game-itself-says-director-hidetaka-miyazaki)
+ - [An Underrated Mashup Of Zelda 2 And Mega Man Is Finally Getting The Multiplatform Love It Deserves](https://kotaku.com/panzer-paladin-ps5-trophies-zelda-2-mega-man-retro-8bit-1851554364)
+ - [Sir Ansbach questline steps in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183286/sir-ansbach-questline-steps-dlc-sote)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
