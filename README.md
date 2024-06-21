@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s Copilot key on the new Copilot+ PCs launches a PWA version of Copilot, which doesn&#39;t integrate into Windows like the previous Copilot experience &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240621/p24#a240621p24)
- - [US sanctions Kaspersky Lab executives, board members over ‘cooperation’ with Russia](https://www.theverge.com/2024/6/21/24183274/kaspersky-lab-sanctions-treasury-department-russia)
- - [ASUS ROG Phone 9 wishlist: All the features I want to see](https://www.androidauthority.com/asus-rog-phone-9-3441951/)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [4 Ways Online Entrepreneurship Helps Me Live a Wealthy, Well-Traveled Life     - CNET](https://www.cnet.com/personal-finance/4-ways-online-entrepreneurship-helps-me-live-a-wealthy-well-traveled-life/#ftag=CAD590a51e)
+ - [Get This 75-inch Smart TV for Less Than $450 at Walmart Right Now     - CNET](https://www.cnet.com/deals/get-this-75-inch-smart-tv-for-less-than-450-at-walmart-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
