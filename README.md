@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The highly anticipated Altered TCG introduces The Sandman, a tribute to Neil Gaiman](https://www.polygon.com/tabletop-games/24182616/altered-tcg-card-preview-sandman-lyra-ordis)
- - [If you only try one of Elden Ring: Shadow of the Erdtree&#39;s new weapons, make it Dryleaf Arts](https://www.pcgamer.com/games/rpg/if-you-only-try-one-of-elden-ring-shadow-of-the-erdtrees-new-weapons-make-it-dryleaf-arts)
- - [Elden Ring: Shadow of the Erdtree&#39;s release has busted the Seamless Co-op mod, but its creator has a fix incoming &#39;as soon as possible&#39;](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtrees-release-has-busted-the-seamless-co-op-mod-but-its-creator-has-a-fix-incoming-as-soon-as-possible)<!-- GAME:END -->
+ - [&#39;Seems the Spear is cursed&#39;: Even in an otherwise good Helldivers 2 patch, the FAF-14 Spear can&#39;t catch a break as it starts crashing games](https://www.pcgamer.com/games/third-person-shooter/seems-the-spear-is-cursed-even-in-an-otherwise-good-helldivers-2-patch-the-faf-14-spear-can-t-catch-a-break-as-it-starts-crashing-games)
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Backhand Blade](https://kotaku.com/backhand-blade-elden-ring-shadow-erdtree-where-guide-1851553583)
+ - [Xbox executives just cannot give a straight answer to questions about Tango Gameworks](https://www.pcgamer.com/gaming-industry/xbox-executives-just-cannot-give-a-straight-answer-to-questions-about-tango-gameworks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
