@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Change Healthcare says the February ransomware attack on its systems resulted in the theft of medical records of a &quot;substantial proportion of people&quot; in the US &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240621/p20#a240621p20)
- - [Apple Intelligence &amp; iPhone mirroring aren&#39;t coming to EU because of the DMA](https://appleinsider.com/articles/24/06/21/apple-intelligence-iphone-mirroring-arent-coming-to-eu-because-of-the-dma?utm_medium=rss)
- - [Apple may delay AI features in the EU because of its big tech law](https://www.theverge.com/2024/6/21/24183251/apple-eu-delay-ai-screen-mirroring-shareplay-dma)<!-- TECH:END -->
+ - [Microsoft&#39;s Copilot key on the new Copilot+ PCs launches a PWA version of Copilot, which doesn&#39;t integrate into Windows like the previous Copilot experience &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240621/p24#a240621p24)
+ - [US sanctions Kaspersky Lab executives, board members over ‘cooperation’ with Russia](https://www.theverge.com/2024/6/21/24183274/kaspersky-lab-sanctions-treasury-department-russia)
+ - [ASUS ROG Phone 9 wishlist: All the features I want to see](https://www.androidauthority.com/asus-rog-phone-9-3441951/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
