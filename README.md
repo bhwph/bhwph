@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Department of the Treasury announces sanctions against twelve executives of Kaspersky; founder and CEO Eugene Kaspersky is not included in the sanctions &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240621/p14#a240621p14)
- - [The best new streaming shows this week: I Kissed a Girl, Hotel Cocaine, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [Spotify’s $10.99 ‘Basic’ plan drops the audiobooks](https://www.theverge.com/2024/6/21/24183161/spotify-basic-plan-drops-audiobooks)<!-- TECH:END -->
+ - [Change Healthcare says the February ransomware attack on its systems resulted in the theft of medical records of a &quot;substantial proportion of people&quot; in the US &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240621/p20#a240621p20)
+ - [Apple Intelligence &amp; iPhone mirroring aren&#39;t coming to EU because of the DMA](https://appleinsider.com/articles/24/06/21/apple-intelligence-iphone-mirroring-arent-coming-to-eu-because-of-the-dma?utm_medium=rss)
+ - [Apple may delay AI features in the EU because of its big tech law](https://www.theverge.com/2024/6/21/24183251/apple-eu-delay-ai-screen-mirroring-shareplay-dma)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
