@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can&#39;t wait for Summer](http://9gag.com/gag/aYQwOxv)
- - 😝 [Canada](http://9gag.com/gag/aVvXboP)
- - 👉 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)<!-- MEMES:END -->
+ - 6️⃣ [Canada](http://9gag.com/gag/aVvXboP)
+ - 😝 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)
+ - 👉 [Meme dump 20 : Rage Comic edition](http://9gag.com/gag/aXPXNgv)<!-- MEMES:END -->
 
 --- 
 
