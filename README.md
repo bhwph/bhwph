@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A truck driver&#39;s happiness when trains respond when he honks](http://9gag.com/gag/amo8Wzv)
- - 😝 [A little story](http://9gag.com/gag/a0eYe7X)
- - 👉 [Satisfying hoof trimming](http://9gag.com/gag/aPAGxQQ)<!-- MEMES:END -->
+ - 6️⃣ [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
+ - 😝 [Spit on that thang](http://9gag.com/gag/a1mYr5G)
+ - 👉 [Woman starting to be racist...sigh](http://9gag.com/gag/ajPn7W0)<!-- MEMES:END -->
 
 --- 
 
