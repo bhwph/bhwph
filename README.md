@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They are nice and salty](http://9gag.com/gag/aE0z86p)
- - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
- - 👉 [Canada](http://9gag.com/gag/aVvXboP)<!-- MEMES:END -->
+ - 6️⃣ [F**ker died.](http://9gag.com/gag/ayNn3xq)
+ - 😝 [Title](http://9gag.com/gag/a9yPqR6)
+ - 👉 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)<!-- MEMES:END -->
 
 --- 
 
