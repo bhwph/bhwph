@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
- - 😝 [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)
- - 👉 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)<!-- MEMES:END -->
+ - 6️⃣ [What kind of sorcery is this](http://9gag.com/gag/azxVPXj)
+ - 😝 [Wholesome](http://9gag.com/gag/a5QK6dq)
+ - 👉 [Development aid has finally reached Africa.](http://9gag.com/gag/a9yPv7o)<!-- MEMES:END -->
 
 --- 
 
