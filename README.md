@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI-powered language-learning app Speak raised a $20M Series B extension led by Buckley, bringing its total funding to $84M and doubling its valuation to $500M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240621/p8#a240621p8)
- - [Gaming on Snapdragon X: Can it run Crysis?](https://www.androidauthority.com/snapdragon-x-run-crysis-3452699/)
- - [Sony Bravia 7 mini LED TV Review: A Lovely Screen From Center Stage](https://www.wired.com/review/sony-bravia-7-mini-led/)<!-- TECH:END -->
+ - [The US Department of the Treasury announces sanctions against twelve executives of Kaspersky; founder and CEO Eugene Kaspersky is not included in the sanctions &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240621/p14#a240621p14)
+ - [The best new streaming shows this week: I Kissed a Girl, Hotel Cocaine, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [Spotify’s $10.99 ‘Basic’ plan drops the audiobooks](https://www.theverge.com/2024/6/21/24183161/spotify-basic-plan-drops-audiobooks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
