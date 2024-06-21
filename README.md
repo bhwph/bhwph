@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
- - 😝 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
- - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
+ - 6️⃣ [They are nice and salty](http://9gag.com/gag/aE0z86p)
+ - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
+ - 👉 [Canada](http://9gag.com/gag/aVvXboP)<!-- MEMES:END -->
 
 --- 
 
