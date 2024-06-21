@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Seems the Spear is cursed&#39;: Even in an otherwise good Helldivers 2 patch, the FAF-14 Spear can&#39;t catch a break as it starts crashing games](https://www.pcgamer.com/games/third-person-shooter/seems-the-spear-is-cursed-even-in-an-otherwise-good-helldivers-2-patch-the-faf-14-spear-can-t-catch-a-break-as-it-starts-crashing-games)
- - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Backhand Blade](https://kotaku.com/backhand-blade-elden-ring-shadow-erdtree-where-guide-1851553583)
- - [Xbox executives just cannot give a straight answer to questions about Tango Gameworks](https://www.pcgamer.com/gaming-industry/xbox-executives-just-cannot-give-a-straight-answer-to-questions-about-tango-gameworks)<!-- GAME:END -->
+ - [Fans Are In Love With Helldivers 2&#39;s New Jungle Planet](https://kotaku.com/helldivers-2-jungle-biome-reactions-1851553947)
+ - [Finally, a game that captures the best part of my old book store job: making the perfect book rec](https://www.pcgamer.com/games/life-sim/finally-a-game-that-captures-the-best-part-of-my-old-book-store-job-making-the-perfect-book-rec)
+ - [Jessica Alba says playing a knife-wielding Jason Bourne type was always the dream — just no one had asked](https://www.polygon.com/24183018/jessica-alba-trigger-warning-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
