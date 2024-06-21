@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York set to ban so-called addictive social media feeds for children without parental consent](https://www.androidauthority.com/new-york-addictive-feeds-ban-3453265/)
- - [Source: AI chipmaker Cerebras confidentially filed for a US IPO; filing: in early June, it authorized new shares at a steep discount to its 2021 funding round &lpar;The Information&rpar;](http://www.techmeme.com/240620/p32#a240620p32)
- - [Sources: US DOJ won&#39;t pursue FTC&#39;s claim that TikTok misled US consumers on data security in a forthcoming suit accusing TikTok of children&#39;s privacy violations &lpar;Bloomberg&rpar;](http://www.techmeme.com/240620/p31#a240620p31)<!-- TECH:END -->
+ - [In a filing, ByteDance urged a US court to strike down a law that could ban TikTok in the US, recounting lengthy talks that it says the US ended in August 2022 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240620/p34#a240620p34)
+ - [Best Internet Providers in Warwick, Rhode Island     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-warwick-ri/#ftag=CAD590a51e)
+ - [Which Type of Heat Pump Is Right for Your Home?     - CNET](https://www.cnet.com/home/energy-and-utilities/which-type-of-heat-pump-is-right-for-your-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
