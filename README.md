@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei says around 900M gadgets are now running on its HarmonyOS and sales of premium Huawei smartphones climbed 72% in the first five months of 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240621/p5#a240621p5)
- - [Qilin, hackers behind the London hospitals hack, published ~400GB of patient data on their darknet site and Telegram channel; the NHS is investigating the claim &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/240621/p4#a240621p4)
- - [4 New Things I Saw at AWE 2024 That Will Make You Want AR and VR in Your Life     - CNET](https://www.cnet.com/tech/computing/4-new-things-i-saw-at-awe-2024-that-will-make-you-want-ar-and-vr-in-your-life/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deep inside iOS 18&#39;s best new features and improvements on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/21/deep-inside-ios-18s-best-new-features-and-improvements-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Mac App Store&#39;s new game sale has big discounts on major titles](https://appleinsider.com/articles/24/06/21/mac-app-stores-new-game-sale-has-big-discounts-on-major-titles?utm_medium=rss)
+ - [YouTube Music brings design parity with a refreshed album and playlist UI](https://www.androidauthority.com/youtube-music-refreshed-ui-web-3453346/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
