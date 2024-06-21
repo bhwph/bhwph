@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Pixel owners still aren’t seeing the replacement Google VPN service](https://www.androidauthority.com/vpn-by-google-missing-pixel-users-3453309/)
- - [Starlink Mini brings space internet to backpackers](https://www.theverge.com/2024/6/21/24182970/starlink-mini-usb-power-specs-price)
- - [More like T-stationary: T-Mobile fixes roaming loophole for 5G home internet](https://www.androidauthority.com/t-mobile-home-internet-5g-loophole-verification-3451949/)<!-- TECH:END -->
+ - [Huawei says around 900M gadgets are now running on its HarmonyOS and sales of premium Huawei smartphones climbed 72% in the first five months of 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240621/p5#a240621p5)
+ - [Qilin, hackers behind the London hospitals hack, published ~400GB of patient data on their darknet site and Telegram channel; the NHS is investigating the claim &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/240621/p4#a240621p4)
+ - [4 New Things I Saw at AWE 2024 That Will Make You Want AR and VR in Your Life     - CNET](https://www.cnet.com/tech/computing/4-new-things-i-saw-at-awe-2024-that-will-make-you-want-ar-and-vr-in-your-life/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
