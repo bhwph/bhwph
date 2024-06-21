@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deep inside iOS 18&#39;s best new features and improvements on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/21/deep-inside-ios-18s-best-new-features-and-improvements-on-the-appleinsider-podcast?utm_medium=rss)
- - [Mac App Store&#39;s new game sale has big discounts on major titles](https://appleinsider.com/articles/24/06/21/mac-app-stores-new-game-sale-has-big-discounts-on-major-titles?utm_medium=rss)
- - [YouTube Music brings design parity with a refreshed album and playlist UI](https://www.androidauthority.com/youtube-music-refreshed-ui-web-3453346/)<!-- TECH:END -->
+ - [AI-powered language-learning app Speak raised a $20M Series B extension led by Buckley, bringing its total funding to $84M and doubling its valuation to $500M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240621/p8#a240621p8)
+ - [Gaming on Snapdragon X: Can it run Crysis?](https://www.androidauthority.com/snapdragon-x-run-crysis-3452699/)
+ - [Sony Bravia 7 mini LED TV Review: A Lovely Screen From Center Stage](https://www.wired.com/review/sony-bravia-7-mini-led/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
