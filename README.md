@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What kind of sorcery is this](http://9gag.com/gag/azxVPXj)
- - 😝 [Wholesome](http://9gag.com/gag/a5QK6dq)
- - 👉 [Development aid has finally reached Africa.](http://9gag.com/gag/a9yPv7o)<!-- MEMES:END -->
+ - 6️⃣ [Can&#39;t wait for Summer](http://9gag.com/gag/aYQwOxv)
+ - 😝 [Canada](http://9gag.com/gag/aVvXboP)
+ - 👉 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)<!-- MEMES:END -->
 
 --- 
 
