@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans Are In Love With Helldivers 2&#39;s New Jungle Planet](https://kotaku.com/helldivers-2-jungle-biome-reactions-1851553947)
- - [Finally, a game that captures the best part of my old book store job: making the perfect book rec](https://www.pcgamer.com/games/life-sim/finally-a-game-that-captures-the-best-part-of-my-old-book-store-job-making-the-perfect-book-rec)
- - [Jessica Alba says playing a knife-wielding Jason Bourne type was always the dream — just no one had asked](https://www.polygon.com/24183018/jessica-alba-trigger-warning-interview)<!-- GAME:END -->
+ - [How to use the Storeroom Key in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183368/storeroom-key-location-how-to-use-sote)
+ - [Hornsent Grandam questline walkthrough for Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183155/hornsent-grandam-questline-steps-sote-dlc)
+ - [Windstorm: Start of a Great Friendship – Remastered Gallops onto Xbox](https://news.xbox.com/en-us/2024/06/21/windstorm-start-of-a-great-friendship-remastered-on-xbox-june-20/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
