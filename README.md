@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok makes its First Amendment case](https://www.theverge.com/2024/6/20/24182551/tiktok-v-garland-creators-brief-first-amendment)
- - [Samsung Galaxy Buds 3 leak shows off AirPods-like design](https://www.theverge.com/2024/6/20/24182744/samsung-galaxy-buds-3-leak-airpods-design)
- - [US government will ban Kaspersky antivirus software due to ties to Russia](https://www.androidauthority.com/kaspersky-ban-3453231/)<!-- TECH:END -->
+ - [New York set to ban so-called addictive social media feeds for children without parental consent](https://www.androidauthority.com/new-york-addictive-feeds-ban-3453265/)
+ - [Source: AI chipmaker Cerebras confidentially filed for a US IPO; filing: in early June, it authorized new shares at a steep discount to its 2021 funding round &lpar;The Information&rpar;](http://www.techmeme.com/240620/p32#a240620p32)
+ - [Sources: US DOJ won&#39;t pursue FTC&#39;s claim that TikTok misled US consumers on data security in a forthcoming suit accusing TikTok of children&#39;s privacy violations &lpar;Bloomberg&rpar;](http://www.techmeme.com/240620/p31#a240620p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
