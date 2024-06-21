@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to defeat Rellana, Twin Moon Knight in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-rellana)
- - [Intel&#39;s Lunar Lake mobile CPUs reportedly delayed until the end of the year, missing the big back-to-school period](https://www.pcgamer.com/hardware/processors/intels-lunar-lake-mobile-cpus-reportedly-delayed-until-the-end-of-the-year-missing-the-big-back-to-school-period)
- - [6 months after revealing plans to become &#39;aggressive in applying AI&#39;, Square Enix&#39;s president announces he&#39;s being careful in applying AI](https://www.pcgamer.com/gaming-industry/game-development/6-months-after-revealing-plans-to-become-aggressive-in-applying-ai-square-enix-s-president-announces-he-s-being-careful-in-applying-ai)<!-- GAME:END -->
+ - [The highly anticipated Altered TCG introduces The Sandman, a tribute to Neil Gaiman](https://www.polygon.com/tabletop-games/24182616/altered-tcg-card-preview-sandman-lyra-ordis)
+ - [If you only try one of Elden Ring: Shadow of the Erdtree&#39;s new weapons, make it Dryleaf Arts](https://www.pcgamer.com/games/rpg/if-you-only-try-one-of-elden-ring-shadow-of-the-erdtrees-new-weapons-make-it-dryleaf-arts)
+ - [Elden Ring: Shadow of the Erdtree&#39;s release has busted the Seamless Co-op mod, but its creator has a fix incoming &#39;as soon as possible&#39;](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtrees-release-has-busted-the-seamless-co-op-mod-but-its-creator-has-a-fix-incoming-as-soon-as-possible)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
