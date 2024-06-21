@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
- - 😝 [Spit on that thang](http://9gag.com/gag/a1mYr5G)
- - 👉 [Woman starting to be racist...sigh](http://9gag.com/gag/ajPn7W0)<!-- MEMES:END -->
+ - 6️⃣ [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
+ - 😝 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
+ - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
 
 --- 
 
