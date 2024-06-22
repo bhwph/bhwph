@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [No one should be as good as Antony Starr is at being Homelander](https://www.polygon.com/24183429/amazon-boys-antony-starr-homelander-scary-good)
  - [Elden Ring DLC’s screechy birds are scaring the crap out of players](https://www.polygon.com/24183338/elden-ring-dlc-shadow-erdtree-birds-loud-jumpscare)
- - [Hornsent questline walkthrough for Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183407/hornsent-questline-summon-or-leda-sote)
- - [The best movies leaving Netflix, Hulu, Max, and Prime at the end of June 2024](https://www.polygon.com/what-to-watch/2024/6/22/24181248/best-movies-netflix-amazon-max-leaving-june-2024)<!-- GAME:END -->
+ - [Hornsent questline walkthrough for Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183407/hornsent-questline-summon-or-leda-sote)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
