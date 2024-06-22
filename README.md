@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung just &lpar;accidentally&rpar; confirmed the Galaxy Watch Ultra name](https://www.androidauthority.com/samsung-accidentally-confirmed-galaxy-watch-ultra-name-3453692/)
- - [Research: the number of freelance jobs on platforms like Upwork, in areas where generative AI excels, have dropped by as much as 21% since ChatGPT&#39;s debut &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240622/p3#a240622p3)
- - [A look at Singapore&#39;s vital role in the global semiconductor industry: the city-state accounts for ~10% of chip output and 20% of chip-equipment production &lpar;Reuters&rpar;](http://www.techmeme.com/240622/p2#a240622p2)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 7 rumors: Everything we know and want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)
+ - [Galaxy Buds 3 Pro, Watch 7, Watch Ultra prices may have leaked](https://www.androidauthority.com/samsung-galaxy-buds-3-watch-7-watch-ultra-price-leak-3453696/)
+ - [Analysis: the AI frenzy is expected to drive the global data center energy consumption to 1,580 TWh by 2034, about as much as is used by all of India currently &lpar;Bloomberg&rpar;](http://www.techmeme.com/240622/p5#a240622p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
