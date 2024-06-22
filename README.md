@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
- - 😝 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
- - 👉 [What really happened](http://9gag.com/gag/ajPnOxq)<!-- MEMES:END -->
+ - 6️⃣ [I have a plan, Arthur!](http://9gag.com/gag/a6ZLD2A)
+ - 😝 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
+ - 👉 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)<!-- MEMES:END -->
 
 --- 
 
