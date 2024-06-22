@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
- - 😝 [Again and again](http://9gag.com/gag/aD2m6nx)
- - 👉 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)<!-- MEMES:END -->
+ - 6️⃣ [Workers using grass and leaves on an AM radio tower to create audio](http://9gag.com/gag/ayNnqp8)
+ - 😝 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
+ - 👉 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)<!-- MEMES:END -->
 
 --- 
 
