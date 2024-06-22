@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
- - 😝 [Engineers and doctors rip up their passports before reaching Italy. Thank you Qatar for sponsoring this!](http://9gag.com/gag/agmNmBx)
- - 👉 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)<!-- MEMES:END -->
+ - 6️⃣ [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
+ - 😝 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
+ - 👉 [A keeper.](http://9gag.com/gag/a5QKQrg)<!-- MEMES:END -->
 
 --- 
 
