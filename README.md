@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No one should be as good as Antony Starr is at being Homelander](https://www.polygon.com/24183429/amazon-boys-antony-starr-homelander-scary-good)
- - [Elden Ring DLC’s screechy birds are scaring the crap out of players](https://www.polygon.com/24183338/elden-ring-dlc-shadow-erdtree-birds-loud-jumpscare)
- - [Hornsent questline walkthrough for Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183407/hornsent-questline-summon-or-leda-sote)<!-- GAME:END -->
+ - [Elden Ring: Shadow of the Erdtree currently has a &#39;Mixed&#39; status on Steam, with many of the negative reviews complaining that the bosses are too hard](https://www.pcgamer.com/games/rpg/shadows-of-the-erdtree-currently-has-a-mixed-status-on-steam-with-many-of-the-negative-reviews-complaining-that-the-bosses-are-too-hard)
+ - [Ruined Forge Lava Intake walkthrough for Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183721/ruined-forge-lava-intake-sote)
+ - [Nintendo&#39;s Huge June Direct And More Of The Week&#39;s Big Gaming News](https://kotaku.com/nintendo-direct-zelda-metroid-prime-4-1851553647)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
