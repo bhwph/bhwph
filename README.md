@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)
- - 😝 [Lmao](http://9gag.com/gag/aLnBe1g)
- - 👉 [Euro 2024 anthem &lpar;you know the song&rpar; - 20 June 2024](http://9gag.com/gag/aW4OL24)<!-- MEMES:END -->
+ - 6️⃣ [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
+ - 😝 [Engineers and doctors rip up their passports before reaching Italy. Thank you Qatar for sponsoring this!](http://9gag.com/gag/agmNmBx)
+ - 👉 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)<!-- MEMES:END -->
 
 --- 
 
