@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [4 Ways Online Entrepreneurship Helps Me Live a Wealthy, Well-Traveled Life     - CNET](https://www.cnet.com/personal-finance/4-ways-online-entrepreneurship-helps-me-live-a-wealthy-well-traveled-life/#ftag=CAD590a51e)
- - [Get This 75-inch Smart TV for Less Than $450 at Walmart Right Now     - CNET](https://www.cnet.com/deals/get-this-75-inch-smart-tv-for-less-than-450-at-walmart-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A history of text games and interactive fiction, from Infocom to 80 Days, and the roles of MUDs, Usenet, and open source in the 50 years of interactive fiction &lpar;Anna Washenko/Ars Technica&rpar;](http://www.techmeme.com/240621/p28#a240621p28)
+ - [Fortnite OG Returns With Reload Mode Featuring Tilted Towers     - CNET](https://www.cnet.com/tech/gaming/fortnite-og-returns-with-reload-mode-featuring-tilted-towers/#ftag=CAD590a51e)
+ - [Starlink Internet Review: Is It Worth the Cost?     - CNET](https://www.cnet.com/home/internet/starlink-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
