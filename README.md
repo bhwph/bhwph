@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite a $3T+ valuation, Nvidia remains a little-known brand outside gaming and tech industries due to the speed of its ascent and lack of consumer contact &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240622/p11#a240622p11)
- - [Apple is still looking for partners to bring Apple Intelligence to China](https://appleinsider.com/articles/24/06/22/apple-is-still-looking-for-partners-to-bring-apple-intelligence-to-china?utm_medium=rss)
- - [How Much Water Do You Really Need to Drink to Stay Hydrated? 4 Rules to Stay Healthy     - CNET](https://www.cnet.com/health/medical/how-much-water-do-you-really-need-to-drink-to-stay-hydrated-4-rules-to-stay-healthy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Sunscreen Myths to Stop Believing This Summer     - CNET](https://www.cnet.com/health/personal-care/10-sunscreen-myths-to-stop-believing-this-summer/#ftag=CAD590a51e)
+ - [An interview with Netflix&#39;s senior encoding technology director Anne Aaron about the company&#39;s cutting-edge codecs, preparing for livestreaming, and more &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/240622/p12#a240622p12)
+ - [Deals: Amazon drops Apple Watch Series 9 to $299, Apple Watch Ultra 2 to $714](https://appleinsider.com/articles/24/06/22/deals-amazon-drops-apple-watch-series-9-to-299-apple-watch-ultra-2-to-714?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
