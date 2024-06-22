@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go Cyndaquil Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/2024/6/21/24183222/cyndaquil-community-day-classic-shiny-moveset)
  - [The best builds for Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/shadow-of-the-erdtree-best-builds)
- - [Netflix’s Trigger Warning, The Beast, and every movie new to streaming this week](https://www.polygon.com/2024/6/21/24178820/new-movies-the-beast-trigger-warning-netflix-mars-express)
- - [Lowering Elden Ring&#39;s difficulty would attract more players but would also &#39;break the game itself,&#39; says director Hidetaka Miyazaki](https://www.pcgamer.com/games/action/lowering-elden-rings-difficulty-would-attract-more-players-but-would-also-break-the-game-itself-says-director-hidetaka-miyazaki)<!-- GAME:END -->
+ - [Netflix’s Trigger Warning, The Beast, and every movie new to streaming this week](https://www.polygon.com/2024/6/21/24178820/new-movies-the-beast-trigger-warning-netflix-mars-express)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
