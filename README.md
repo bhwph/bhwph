@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What really happened](http://9gag.com/gag/ajPnOxq)
- - 😝 [Nice](http://9gag.com/gag/apRBxPE)
- - 👉 [Facts!](http://9gag.com/gag/awy71GD)<!-- MEMES:END -->
+ - 6️⃣ [A woman stands in a narrow cell with her arms strapped to the wall,circa 1890. She is undergoing treatment for mental illness in 19th century Germany.](http://9gag.com/gag/aXPXM2P)
+ - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
+ - 👉 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)<!-- MEMES:END -->
 
 --- 
 
