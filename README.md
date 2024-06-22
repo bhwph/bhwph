@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
- - 😝 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
- - 👉 [A keeper.](http://9gag.com/gag/a5QKQrg)<!-- MEMES:END -->
+ - 6️⃣ [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
+ - 😝 [Again and again](http://9gag.com/gag/aD2m6nx)
+ - 👉 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)<!-- MEMES:END -->
 
 --- 
 
