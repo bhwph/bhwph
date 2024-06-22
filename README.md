@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch 7 rumors: Everything we know and want to see](https://www.androidauthority.com/samsung-galaxy-watch-7-3389348/)
- - [Galaxy Buds 3 Pro, Watch 7, Watch Ultra prices may have leaked](https://www.androidauthority.com/samsung-galaxy-buds-3-watch-7-watch-ultra-price-leak-3453696/)
- - [Analysis: the AI frenzy is expected to drive the global data center energy consumption to 1,580 TWh by 2034, about as much as is used by all of India currently &lpar;Bloomberg&rpar;](http://www.techmeme.com/240622/p5#a240622p5)<!-- TECH:END -->
+ - [Court filings show how Zuckerberg and other Meta execs played down risks to young users, while rejecting staff pleas to bolster guardrails and hire more staff &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/240622/p7#a240622p7)
+ - [Q&amp;A with AMD executive Forrest Norrod on increasing AI investments, releasing accelerator chips at a faster cadence, AMD&#39;s open standards approach, and more &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/240622/p6#a240622p6)
+ - [Best Internet Providers in Chesapeake, Virginia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-chesapeake-va/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
