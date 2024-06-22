@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What time does Fortnite Reload release?](https://www.polygon.com/fortnite-guide/2024/6/22/24183638/fortnite-reload-release-time-pdt-edt-bst-uk-cest)
  - [Today&#39;s Wordle answer for Saturday, June 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-22-2024)
- - [Pokémon Go Cyndaquil Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/2024/6/21/24183222/cyndaquil-community-day-classic-shiny-moveset)
- - [The best builds for Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/shadow-of-the-erdtree-best-builds)<!-- GAME:END -->
+ - [Pokémon Go Cyndaquil Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/2024/6/21/24183222/cyndaquil-community-day-classic-shiny-moveset)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
