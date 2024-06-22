@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Exercise Safely During a Heat Wave](https://www.wired.com/story/how-to-exercise-safely-during-a-heat-wave/)
- - [Typing to AI assistants might be the way to go](https://www.theverge.com/2024/6/22/24180362/type-to-siri-ios-18-ai-assistants)
- - [Everything’s About to Get a Hell of a Lot More Expensive Due to Climate Change](https://www.wired.com/story/everythings-about-to-get-a-hell-of-a-lot-more-expensive-due-to-climate-change/)<!-- TECH:END -->
+ - [These Are the Best Laptop Backpacks We&#39;ve Tried and Tested](https://www.wired.com/gallery/the-best-backpacks-for-work/)
+ - [How Embracer&#39;s layoffs and project cancellations gutted Fishlabs, a promising studio that now lives on as a cross-dev team supporting other Embracer companies &lpar;Edwin Evans-Thirlwell/Rock, Paper ...&rpar;](http://www.techmeme.com/240622/p8#a240622p8)
+ - [Ringke Onyx for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/ringke-onyx-case-pixel-8a-review-3452254/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
