@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Are the Best Laptop Backpacks We&#39;ve Tried and Tested](https://www.wired.com/gallery/the-best-backpacks-for-work/)
- - [How Embracer&#39;s layoffs and project cancellations gutted Fishlabs, a promising studio that now lives on as a cross-dev team supporting other Embracer companies &lpar;Edwin Evans-Thirlwell/Rock, Paper ...&rpar;](http://www.techmeme.com/240622/p8#a240622p8)
- - [Ringke Onyx for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/ringke-onyx-case-pixel-8a-review-3452254/)<!-- TECH:END -->
+ - [A look at Switzerland&#39;s push to lead the global race to tokenize assets, as officials try to change perceptions around its diminished banking industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/240622/p10#a240622p10)
+ - [Social Security Payment June 2024: When Is Your Money Coming?     - CNET](https://www.cnet.com/personal-finance/social-security-payment-june-2024-when-is-your-money-coming/#ftag=CAD590a51e)
+ - [8 Ways to Keep Your Kitchen Cool During a Heatwave     - CNET](https://www.cnet.com/home/smart-home/8-ways-to-keep-your-kitchen-cool-during-a-heatwave/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
