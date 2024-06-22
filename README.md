@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Switzerland&#39;s push to lead the global race to tokenize assets, as officials try to change perceptions around its diminished banking industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/240622/p10#a240622p10)
- - [Social Security Payment June 2024: When Is Your Money Coming?     - CNET](https://www.cnet.com/personal-finance/social-security-payment-june-2024-when-is-your-money-coming/#ftag=CAD590a51e)
- - [8 Ways to Keep Your Kitchen Cool During a Heatwave     - CNET](https://www.cnet.com/home/smart-home/8-ways-to-keep-your-kitchen-cool-during-a-heatwave/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Despite a $3T+ valuation, Nvidia remains a little-known brand outside gaming and tech industries due to the speed of its ascent and lack of consumer contact &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240622/p11#a240622p11)
+ - [Apple is still looking for partners to bring Apple Intelligence to China](https://appleinsider.com/articles/24/06/22/apple-is-still-looking-for-partners-to-bring-apple-intelligence-to-china?utm_medium=rss)
+ - [How Much Water Do You Really Need to Drink to Stay Hydrated? 4 Rules to Stay Healthy     - CNET](https://www.cnet.com/health/medical/how-much-water-do-you-really-need-to-drink-to-stay-hydrated-4-rules-to-stay-healthy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
