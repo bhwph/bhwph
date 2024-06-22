@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei announces HarmonyOS Next, to be used in all of its devices, Harmony Intelligence, to integrate AI onto its devices, and Pangu 5.0, a family of four LLMs &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240621/p30#a240621p30)
  - [In response to plagiarism allegations, Perplexity CEO Aravind Srinivas says the company &quot;is not ignoring&quot; robots.txt, but does rely on third-party web crawlers &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/240621/p29#a240621p29)
- - [A history of text games and interactive fiction, from Infocom to 80 Days, and the roles of MUDs, Usenet, and open source in the 50 years of interactive fiction &lpar;Anna Washenko/Ars Technica&rpar;](http://www.techmeme.com/240621/p28#a240621p28)
- - [Fortnite OG Returns With Reload Mode Featuring Tilted Towers     - CNET](https://www.cnet.com/tech/gaming/fortnite-og-returns-with-reload-mode-featuring-tilted-towers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spectrum Is Raising Prices for the Second Time This Year. Here’s What You Can Do     - CNET](https://www.cnet.com/home/internet/spectrum-is-raising-prices-for-the-second-time-this-year-heres-what-you-can-do/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
