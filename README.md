@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court filings show how Zuckerberg and other Meta execs played down risks to young users, while rejecting staff pleas to bolster guardrails and hire more staff &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/240622/p7#a240622p7)
- - [Q&amp;A with AMD executive Forrest Norrod on increasing AI investments, releasing accelerator chips at a faster cadence, AMD&#39;s open standards approach, and more &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/240622/p6#a240622p6)
- - [Best Internet Providers in Chesapeake, Virginia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-chesapeake-va/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Exercise Safely During a Heat Wave](https://www.wired.com/story/how-to-exercise-safely-during-a-heat-wave/)
+ - [Typing to AI assistants might be the way to go](https://www.theverge.com/2024/6/22/24180362/type-to-siri-ios-18-ai-assistants)
+ - [Everything’s About to Get a Hell of a Lot More Expensive Due to Climate Change](https://www.wired.com/story/everythings-about-to-get-a-hell-of-a-lot-more-expensive-due-to-climate-change/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
