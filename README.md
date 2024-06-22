@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
- - 😝 [The policeman got hit in the head with a beer bottle. The answer was interesting.](http://9gag.com/gag/awy7L34)
- - 👉 [What happend?](http://9gag.com/gag/a0eYVQv)<!-- MEMES:END -->
+ - 6️⃣ [What really happened](http://9gag.com/gag/ajPnOxq)
+ - 😝 [Nice](http://9gag.com/gag/apRBxPE)
+ - 👉 [Facts!](http://9gag.com/gag/awy71GD)<!-- MEMES:END -->
 
 --- 
 
