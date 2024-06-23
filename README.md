@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at pre-smartphone services like GOOG-411 and AQA, which used to employ humans to answer questions with witty responses and encyclopedic knowledge &lpar;Amelia Tait/Wired&rpar;](http://www.techmeme.com/240622/p15#a240622p15)
- - [Best Internet Providers in Washington     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-washington/#ftag=CAD590a51e)
- - [Interviews with several journalists who helped saturate the web with Game of Thrones coverage, leveraging fans&#39; obsessions for traffic via SEO and social media &lpar;Kevin Nguyen/The Verge&rpar;](http://www.techmeme.com/240622/p14#a240622p14)<!-- TECH:END -->
+ - [A look at efforts by Google DeepMind, Anthropic, xAI, and other companies to make their chatbots funnier and keep users engaged with them at home and at work &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240623/p2#a240623p2)
+ - [This is our first look at the Galaxy Tab S10 Ultra, and the notch is here to stay](https://www.androidauthority.com/samsung-galaxy-tab-s10-ultra-renders-leak-3453735/)
+ - [Sources detail growing tensions between Elon Musk and Linda Yaccarino, stemming from her struggle to steady X&#39;s financial health a year after being named CEO &lpar;Financial Times&rpar;](http://www.techmeme.com/240623/p1#a240623p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
