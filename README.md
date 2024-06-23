@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Apple&#39;s plans for Vision headsets and AR glasses, M4 Macs, reasons for limiting Apple Intelligence to the latest iPhones and delaying it in the EU &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240623/p5#a240623p5)
- - [28 Best Nintendo Switch Games for Every Player &lpar;2024&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)
- - [An Apple Vision Pro successor may need to be tethered to an iPhone or Mac](https://appleinsider.com/articles/24/06/23/an-apple-vision-pro-successor-may-need-to-be-tethered-to-an-iphone-or-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Apple could pull a Samsung Gear VR with its cheaper Vision headset](https://www.androidauthority.com/apple-samsung-gear-vr-cheaper-vision-headset-3453753/)
+ - [Here’s why the iPhone 15, 15 Plus won’t have new AI tricks &lpar;it’s not the chip&rpar;](https://www.androidauthority.com/iphone-15-plus-apple-intelligence-features-missing-reason-3453284/)
+ - [The Best Pickleball Paddles, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-pickleball-paddles/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
