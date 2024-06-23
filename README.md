@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New DLC spell locations in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180257/all-spell-locations)
- - [Mad with power, researcher and Minecraft fan creates a way to voxelize the whole world](https://www.pcgamer.com/games/survival-crafting/mad-with-power-researcher-and-minecraft-fan-creates-a-way-to-voxelize-the-whole-world)
- - [All Backhand Blade locations in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24184262/backhand-blade-locations-all-where-to-find-dlc-sote)<!-- GAME:END -->
+ - [There is an early power up in Elden Ring: Shadow of the Erdtree that basically turns the game into Sekiro, but the description is so vague I didn&#39;t realize how good it was until 40 hours later](https://www.pcgamer.com/games/rpg/there-is-an-early-power-up-in-elden-ring-shadow-of-the-erdtree-that-basically-turns-the-game-into-sekiro-but-the-description-is-so-vague-i-didnt-realize-how-good-it-was-until-40-hours-later)
+ - [FIFA will host an actual Rocket League world cup complete with national teams](https://www.pcgamer.com/games/sports/fifa-will-host-an-actual-rocket-league-world-cup-complete-with-national-teams)
+ - [New DLC spell locations in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180257/all-spell-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
