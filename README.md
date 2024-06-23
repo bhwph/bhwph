@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
- - 😝 [Someone stuck his d!ck in crazy and is about to find out. Fu&lpar;king mind games](http://9gag.com/gag/aoyjVvX)
- - 👉 [Nice](http://9gag.com/gag/apRBxPE)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s a simpin&#39; time](http://9gag.com/gag/aqy28wM)
+ - 😝 [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)
+ - 👉 [Facts!](http://9gag.com/gag/awy71GD)<!-- MEMES:END -->
 
 --- 
 
