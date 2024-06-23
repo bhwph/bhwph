@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Two thieves fight to steal a package as its delivered.](http://9gag.com/gag/ae9pZzW)
- - 😝 [The micro nuclear reactor that is being developed RollsRoyce will provide constant electrical energy &lpar;up to 10 MW of power&rpar;, scalable, reliable and emission-free, will be transportable in a small truck &lpar;about 3 meters long&rpar;, will operate without human intervention](http://9gag.com/gag/aVvX2Wd)
- - 👉 [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)<!-- MEMES:END -->
+ - 6️⃣ [Sorry for the emoji](http://9gag.com/gag/aByrPjP)
+ - 😝 [Result speaks for itself](http://9gag.com/gag/a5QKzLg)
+ - 👉 [He may have lost the battle, but he won the war](http://9gag.com/gag/azxVZAb)<!-- MEMES:END -->
 
 --- 
 
