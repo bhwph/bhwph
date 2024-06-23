@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cameraman saves a reporter from getting nailed by a baseball](http://9gag.com/gag/aZZNE6V)
- - 😝 [My fellow gamer](http://9gag.com/gag/aZZNjL6)
- - 👉 [Because why not?](http://9gag.com/gag/aVvXZ0P)<!-- MEMES:END -->
+ - 6️⃣ [Two thieves fight to steal a package as its delivered.](http://9gag.com/gag/ae9pZzW)
+ - 😝 [The micro nuclear reactor that is being developed RollsRoyce will provide constant electrical energy &lpar;up to 10 MW of power&rpar;, scalable, reliable and emission-free, will be transportable in a small truck &lpar;about 3 meters long&rpar;, will operate without human intervention](http://9gag.com/gag/aVvX2Wd)
+ - 👉 [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)<!-- MEMES:END -->
 
 --- 
 
