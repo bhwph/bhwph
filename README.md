@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cristiano](http://9gag.com/gag/aYQwqvv)
- - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
- - 👉 [Title this](http://9gag.com/gag/adBp2yN)<!-- MEMES:END -->
+ - 6️⃣ [Movies these days](http://9gag.com/gag/aAypXy0)
+ - 😝 [The hate within](http://9gag.com/gag/aAypXx9)
+ - 👉 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)<!-- MEMES:END -->
 
 --- 
 
