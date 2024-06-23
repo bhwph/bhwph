@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Getting Started In Shadow Of The Erdtree And More Gaming Tips For The Week](https://kotaku.com/shadow-erdtree-starfield-ff7-rebirth-warzone-tips-1851553648)
  - [All DLC talisman locations in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24177999/talisman-locations-all-dlc-sote)
- - [Gamers Are Reeling From Erdtree&#39;s Difficulty, The Switch Is Going Out Strong, And More Of The Week&#39;s Takes](https://kotaku.com/erdtree-hard-switch-zelda-metroid-acolyte-1851553650)
- - [Mars Express’ fascinating vision of a robotic future was inspired by film noir and Big Tech](https://www.polygon.com/24183308/mars-express-director-jeremie-perin-interview)<!-- GAME:END -->
+ - [Gamers Are Reeling From Erdtree&#39;s Difficulty, The Switch Is Going Out Strong, And More Of The Week&#39;s Takes](https://kotaku.com/erdtree-hard-switch-zelda-metroid-acolyte-1851553650)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
