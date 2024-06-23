@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Moto Tag certified: Motorola’s first tracker to support Google’s network?](https://www.androidauthority.com/motorola-moto-tag-fcc-3453743/)
  - [A look at efforts by Google DeepMind, Anthropic, xAI, and other companies to make their chatbots funnier and keep users engaged with them at home and at work &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240623/p2#a240623p2)
- - [This is our first look at the Galaxy Tab S10 Ultra, and the notch is here to stay](https://www.androidauthority.com/samsung-galaxy-tab-s10-ultra-renders-leak-3453735/)
- - [Sources detail growing tensions between Elon Musk and Linda Yaccarino, stemming from her struggle to steady X&#39;s financial health a year after being named CEO &lpar;Financial Times&rpar;](http://www.techmeme.com/240623/p1#a240623p1)<!-- TECH:END -->
+ - [This is our first look at the Galaxy Tab S10 Ultra, and the notch is here to stay](https://www.androidauthority.com/samsung-galaxy-tab-s10-ultra-renders-leak-3453735/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
