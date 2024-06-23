@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sorry for the emoji](http://9gag.com/gag/aByrPjP)
- - 😝 [Result speaks for itself](http://9gag.com/gag/a5QKzLg)
- - 👉 [He may have lost the battle, but he won the war](http://9gag.com/gag/azxVZAb)<!-- MEMES:END -->
+ - 6️⃣ [Cristiano](http://9gag.com/gag/aYQwqvv)
+ - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
+ - 👉 [Title this](http://9gag.com/gag/adBp2yN)<!-- MEMES:END -->
 
 --- 
 
