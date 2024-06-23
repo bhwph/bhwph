@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC Gamer team has collectively spent hundreds of hours playing Elden Ring: Shadow of the Erdtree, and we still have no idea what the deal is with the glowing blue wormy guy](https://www.pcgamer.com/games/rpg/the-pc-gamer-team-has-collectively-spent-hundreds-of-hours-playing-elden-ring-shadow-of-the-erdtree-and-we-still-have-no-idea-what-the-deal-is-with-the-glowing-blue-wormy-guy)
- - [Dryleaf Dane questline walkthrough for Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183809/dryleaf-dane-questline-monks-missive-may-the-best-win-sote)
- - [Elden Ring: Shadow of the Erdtree currently has a &#39;Mixed&#39; status on Steam, with many of the negative reviews complaining that the bosses are too hard](https://www.pcgamer.com/games/rpg/shadows-of-the-erdtree-currently-has-a-mixed-status-on-steam-with-many-of-the-negative-reviews-complaining-that-the-bosses-are-too-hard)<!-- GAME:END -->
+ - [Larian gave Baldur&#39;s Gate 3 its acclaimed reactivity by approaching it as &#39;weird Dungeon Masters&#39;](https://www.pcgamer.com/games/rpg/larian-gave-baldurs-gate-3-its-acclaimed-reactivity-by-approaching-it-as-weird-dungeon-masters)
+ - [Diablo 4&#39;s adding a wave-based roguelite mode in Season 5](https://www.pcgamer.com/games/rpg/diablo-4s-adding-a-wave-based-roguelite-mode-in-season-5)
+ - [The PC Gamer team has collectively spent hundreds of hours playing Elden Ring: Shadow of the Erdtree, and we still have no idea what the deal is with the glowing blue wormy guy](https://www.pcgamer.com/games/rpg/the-pc-gamer-team-has-collectively-spent-hundreds-of-hours-playing-elden-ring-shadow-of-the-erdtree-and-we-still-have-no-idea-what-the-deal-is-with-the-glowing-blue-wormy-guy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
