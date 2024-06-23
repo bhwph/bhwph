@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hate man spreading](http://9gag.com/gag/a5QKw4O)
- - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
- - 👉 [She knows](http://9gag.com/gag/ae9pO0W)<!-- MEMES:END -->
+ - 6️⃣ [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
+ - 😝 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
+ - 👉 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)<!-- MEMES:END -->
 
 --- 
 
