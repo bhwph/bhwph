@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at pre-smartphone services like GOOG-411 and AQA, which used to employ humans to answer questions with witty responses and encyclopedic knowledge &lpar;Amelia Tait/Wired&rpar;](http://www.techmeme.com/240622/p15#a240622p15)
  - [Interviews with several journalists who helped saturate the web with Game of Thrones coverage, leveraging fans&#39; obsessions for traffic via SEO and social media &lpar;Kevin Nguyen/The Verge&rpar;](http://www.techmeme.com/240622/p14#a240622p14)
- - [Best Internet Providers in Hickory, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-hickory-nc/#ftag=CAD590a51e)
- - [Copa America 2024 Soccer: Livestream Mexico vs. Jamaica From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/copa-america-2024-soccer-livestream-mexico-vs-jamaica-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Hickory, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-hickory-nc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
