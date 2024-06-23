@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus Vivobook S 15 Copilot+ PC Review: Promising Battery Life](https://www.wired.com/review/asus-vivobook-s-15-copilot-pc-2024/)
- - [I regret buying the PSVR 2](https://www.theverge.com/2024/6/23/24183482/psvr-2-regret)
- - [The new and improved Windows PCs are finally here](https://www.theverge.com/2024/6/23/24183235/copilot-pcs-elden-ring-erdtree-hank-green-installer)<!-- TECH:END -->
+ - [A look at Apple&#39;s plans for Vision headsets and AR glasses, M4 Macs, reasons for limiting Apple Intelligence to the latest iPhones and delaying it in the EU &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240623/p5#a240623p5)
+ - [28 Best Nintendo Switch Games for Every Player &lpar;2024&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)
+ - [An Apple Vision Pro successor may need to be tethered to an iPhone or Mac](https://appleinsider.com/articles/24/06/23/an-apple-vision-pro-successor-may-need-to-be-tethered-to-an-iphone-or-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
