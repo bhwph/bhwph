@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Redmane Freyja questline steps in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24184197/freyja-redmane-questline-steps-dlc-sote)
- - [Getting Started In Shadow Of The Erdtree And More Gaming Tips For The Week](https://kotaku.com/shadow-erdtree-starfield-ff7-rebirth-warzone-tips-1851553648)
- - [All DLC talisman locations in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24177999/talisman-locations-all-dlc-sote)<!-- GAME:END -->
+ - [New DLC spell locations in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180257/all-spell-locations)
+ - [Mad with power, researcher and Minecraft fan creates a way to voxelize the whole world](https://www.pcgamer.com/games/survival-crafting/mad-with-power-researcher-and-minecraft-fan-creates-a-way-to-voxelize-the-whole-world)
+ - [All Backhand Blade locations in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24184262/backhand-blade-locations-all-where-to-find-dlc-sote)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
