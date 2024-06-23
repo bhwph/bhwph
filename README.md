@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A woman stands in a narrow cell with her arms strapped to the wall,circa 1890. She is undergoing treatment for mental illness in 19th century Germany.](http://9gag.com/gag/aXPXM2P)
- - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
+ - 6️⃣ [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)
+ - 😝 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)
  - 👉 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)<!-- MEMES:END -->
 
 --- 
