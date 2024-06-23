@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Larian gave Baldur&#39;s Gate 3 its acclaimed reactivity by approaching it as &#39;weird Dungeon Masters&#39;](https://www.pcgamer.com/games/rpg/larian-gave-baldurs-gate-3-its-acclaimed-reactivity-by-approaching-it-as-weird-dungeon-masters)
- - [Diablo 4&#39;s adding a wave-based roguelite mode in Season 5](https://www.pcgamer.com/games/rpg/diablo-4s-adding-a-wave-based-roguelite-mode-in-season-5)
- - [The PC Gamer team has collectively spent hundreds of hours playing Elden Ring: Shadow of the Erdtree, and we still have no idea what the deal is with the glowing blue wormy guy](https://www.pcgamer.com/games/rpg/the-pc-gamer-team-has-collectively-spent-hundreds-of-hours-playing-elden-ring-shadow-of-the-erdtree-and-we-still-have-no-idea-what-the-deal-is-with-the-glowing-blue-wormy-guy)<!-- GAME:END -->
+ - [Check out this hilarious indie about a robot reporter working for a sci-fi newspaper](https://www.pcgamer.com/games/visual-novel/check-out-this-hilarious-indie-about-a-robot-reporter-working-for-a-sci-fi-newspaper)
+ - [Today&#39;s Wordle answer for Sunday, June 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-23-2024)
+ - [Larian gave Baldur&#39;s Gate 3 its acclaimed reactivity by approaching it as &#39;weird Dungeon Masters&#39;](https://www.pcgamer.com/games/rpg/larian-gave-baldurs-gate-3-its-acclaimed-reactivity-by-approaching-it-as-weird-dungeon-masters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
