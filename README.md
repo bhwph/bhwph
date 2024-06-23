@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Recluse Spider Season Is a Myth](https://www.wired.com/story/fiddler-spider-season-myth-recluse-violin-loxosceles-arachnid-mexico/)
- - [Moto Tag certified: Motorola’s first tracker to support Google’s network?](https://www.androidauthority.com/motorola-moto-tag-fcc-3453743/)
- - [A look at efforts by Google DeepMind, Anthropic, xAI, and other companies to make their chatbots funnier and keep users engaged with them at home and at work &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240623/p2#a240623p2)<!-- TECH:END -->
+ - [Asus Vivobook S 15 Copilot+ PC Review: Promising Battery Life](https://www.wired.com/review/asus-vivobook-s-15-copilot-pc-2024/)
+ - [I regret buying the PSVR 2](https://www.theverge.com/2024/6/23/24183482/psvr-2-regret)
+ - [The new and improved Windows PCs are finally here](https://www.theverge.com/2024/6/23/24183235/copilot-pcs-elden-ring-erdtree-hank-green-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
