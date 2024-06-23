@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Check out this hilarious indie about a robot reporter working for a sci-fi newspaper](https://www.pcgamer.com/games/visual-novel/check-out-this-hilarious-indie-about-a-robot-reporter-working-for-a-sci-fi-newspaper)
- - [Today&#39;s Wordle answer for Sunday, June 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-23-2024)
- - [Larian gave Baldur&#39;s Gate 3 its acclaimed reactivity by approaching it as &#39;weird Dungeon Masters&#39;](https://www.pcgamer.com/games/rpg/larian-gave-baldurs-gate-3-its-acclaimed-reactivity-by-approaching-it-as-weird-dungeon-masters)<!-- GAME:END -->
+ - [All DLC talisman locations in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24177999/talisman-locations-all-dlc-sote)
+ - [Gamers Are Reeling From Erdtree&#39;s Difficulty, The Switch Is Going Out Strong, And More Of The Week&#39;s Takes](https://kotaku.com/erdtree-hard-switch-zelda-metroid-acolyte-1851553650)
+ - [Mars Express’ fascinating vision of a robotic future was inspired by film noir and Big Tech](https://www.polygon.com/24183308/mars-express-director-jeremie-perin-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
