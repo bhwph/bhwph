@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
- - 😝 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
- - 👉 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)<!-- MEMES:END -->
+ - 6️⃣ [Cameraman saves a reporter from getting nailed by a baseball](http://9gag.com/gag/aZZNE6V)
+ - 😝 [My fellow gamer](http://9gag.com/gag/aZZNjL6)
+ - 👉 [Because why not?](http://9gag.com/gag/aVvXZ0P)<!-- MEMES:END -->
 
 --- 
 
