@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s a simpin&#39; time](http://9gag.com/gag/aqy28wM)
- - 😝 [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)
- - 👉 [Facts!](http://9gag.com/gag/awy71GD)<!-- MEMES:END -->
+ - 6️⃣ [Hate man spreading](http://9gag.com/gag/a5QKw4O)
+ - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
+ - 👉 [She knows](http://9gag.com/gag/ae9pO0W)<!-- MEMES:END -->
 
 --- 
 
