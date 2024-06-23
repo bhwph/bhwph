@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Redmane Freyja questline steps in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24184197/freyja-redmane-questline-steps-dlc-sote)
  - [Getting Started In Shadow Of The Erdtree And More Gaming Tips For The Week](https://kotaku.com/shadow-erdtree-starfield-ff7-rebirth-warzone-tips-1851553648)
- - [All DLC talisman locations in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24177999/talisman-locations-all-dlc-sote)
- - [Gamers Are Reeling From Erdtree&#39;s Difficulty, The Switch Is Going Out Strong, And More Of The Week&#39;s Takes](https://kotaku.com/erdtree-hard-switch-zelda-metroid-acolyte-1851553650)<!-- GAME:END -->
+ - [All DLC talisman locations in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24177999/talisman-locations-all-dlc-sote)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
