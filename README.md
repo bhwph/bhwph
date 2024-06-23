@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starliner Faces an Indefinite Wait in Space While NASA Investigates Its Faults](https://www.wired.com/story/starliner-faces-an-indefinite-wait-in-space-while-nasa-investigates-its-faults/)
- - [These Are the Best Smart Devices for Amazon Alexa in 2024     - CNET](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)
- - [Y Combinator and 140 AI startups sign a letter opposing California&#39;s AI safety bill, saying the bill could harm California&#39;s ability to retain its AI talent &lpar;Politico&rpar;](http://www.techmeme.com/240623/p6#a240623p6)<!-- TECH:END -->
+ - [Interviews with ~12 media executives, including Brian Roberts, John Malone, Barry Diller, and Ted Sarandos, about the future of streaming, bundling, ads, more &lpar;New York Times&rpar;](http://www.techmeme.com/240623/p7#a240623p7)
+ - [Best AirPods Deals: Snag Apple AirPods for Less     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
+ - [Twitch banned Dr Disrespect after viewing messages sent to a minor, say former employees](https://www.theverge.com/2024/6/23/24183875/dr-disrespect-twitch-ban-explanation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
