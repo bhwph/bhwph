@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)
- - 😝 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)
- - 👉 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)<!-- MEMES:END -->
+ - 6️⃣ [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
+ - 😝 [Someone stuck his d!ck in crazy and is about to find out. Fu&lpar;king mind games](http://9gag.com/gag/aoyjVvX)
+ - 👉 [Nice](http://9gag.com/gag/apRBxPE)<!-- MEMES:END -->
 
 --- 
 
