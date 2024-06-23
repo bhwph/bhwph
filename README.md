@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Y Combinator and 140 AI startups sign a letter opposing California&#39;s AI safety bill, saying the bill could harm California&#39;s ability to retain its AI talent &lpar;Politico&rpar;](http://www.techmeme.com/240623/p6#a240623p6)
- - [Apple is stepping up its work on AR glasses, but don’t expect them soon](https://www.androidauthority.com/apple-ar-glasses-3453755/)
- - [This $50 Kitchen Tool Will Save You from Overheating During a Heatwave     - CNET](https://www.cnet.com/news/this-50-kitchen-tool-will-save-you-from-overheating-during-a-heatwave/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Starliner Faces an Indefinite Wait in Space While NASA Investigates Its Faults](https://www.wired.com/story/starliner-faces-an-indefinite-wait-in-space-while-nasa-investigates-its-faults/)
+ - [These Are the Best Smart Devices for Amazon Alexa in 2024     - CNET](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)
+ - [Y Combinator and 140 AI startups sign a letter opposing California&#39;s AI safety bill, saying the bill could harm California&#39;s ability to retain its AI talent &lpar;Politico&rpar;](http://www.techmeme.com/240623/p6#a240623p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
