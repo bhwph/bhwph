@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Sweden&#39;s push to go cashless has left consumers and the country vulnerable to online fraud; value of fraudulent transactions has doubled since 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240622/p13#a240622p13)
- - [10 Sunscreen Myths to Stop Believing This Summer     - CNET](https://www.cnet.com/health/personal-care/10-sunscreen-myths-to-stop-believing-this-summer/#ftag=CAD590a51e)
- - [An interview with Netflix&#39;s senior encoding technology director Anne Aaron about the company&#39;s cutting-edge codecs, preparing for livestreaming, and more &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/240622/p12#a240622p12)<!-- TECH:END -->
+ - [Interviews with several journalists who helped saturate the web with Game of Thrones coverage, leveraging fans&#39; obsessions for traffic via SEO and social media &lpar;Kevin Nguyen/The Verge&rpar;](http://www.techmeme.com/240622/p14#a240622p14)
+ - [Best Internet Providers in Hickory, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-hickory-nc/#ftag=CAD590a51e)
+ - [Copa America 2024 Soccer: Livestream Mexico vs. Jamaica From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/copa-america-2024-soccer-livestream-mexico-vs-jamaica-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
