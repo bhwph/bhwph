@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
- - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
- - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
+ - 6️⃣ [Gorgeous views](http://9gag.com/gag/aD2mV9d)
+ - 😝 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)
+ - 👉 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)<!-- MEMES:END -->
 
 --- 
 
