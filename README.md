@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prosus, the largest external investor in Byju&#39;s with a 9.6% stake, says its stake in the Indian edtech giant is now worth zero; Prosus invested a total of $570M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240624/p8#a240624p8)
- - [iPhone 16 leaks and rumors explained: what to expect in the fall of 2024](https://appleinsider.com/articles/24/06/24/iphone-16-leaks-and-rumors-explained-what-to-expect-in-the-fall-of-2024?utm_medium=rss)
- - [iPhone 15 Pro Max somehow fails to survive having a 90lb dumbbell dropped on it](https://appleinsider.com/articles/24/06/24/iphone-15-pro-max-somehow-fails-to-survive-having-a-90lb-dumbbell-dropped-on-it?utm_medium=rss)<!-- TECH:END -->
+ - [Retailer confirms the date for Samsung’s next Galaxy Unpacked event](https://www.androidauthority.com/galaxy-unpacked-july-leak-3454004/)
+ - [As Apple embraces automation, it plans to scale back workers on its production lines](https://appleinsider.com/articles/24/06/24/as-apple-embraces-automation-it-plans-to-scale-back-workers-on-its-production-lines?utm_medium=rss)
+ - [SwitchBot’s cheap universal remote can control your smart home, too](https://www.theverge.com/2024/6/24/24184673/switchbot-smart-home-universal-remote-matter-bluetooth)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
