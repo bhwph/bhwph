@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [More details on MS Flight Simulator 2024, including full 3D landscapes in 30 biomes](https://www.pcgamer.com/games/sim/more-details-on-ms-flight-simulator-2024-including-full-3d-landscapes-in-30-biomes)
  - [There is an early power up in Elden Ring: Shadow of the Erdtree that basically turns the game into Sekiro, but the description is so vague I didn&#39;t realize how good it was until 40 hours later](https://www.pcgamer.com/games/rpg/there-is-an-early-power-up-in-elden-ring-shadow-of-the-erdtree-that-basically-turns-the-game-into-sekiro-but-the-description-is-so-vague-i-didnt-realize-how-good-it-was-until-40-hours-later)
- - [FIFA will host an actual Rocket League world cup complete with national teams](https://www.pcgamer.com/games/sports/fifa-will-host-an-actual-rocket-league-world-cup-complete-with-national-teams)
- - [New DLC spell locations in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180257/all-spell-locations)<!-- GAME:END -->
+ - [FIFA will host an actual Rocket League world cup complete with national teams](https://www.pcgamer.com/games/sports/fifa-will-host-an-actual-rocket-league-world-cup-complete-with-national-teams)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
