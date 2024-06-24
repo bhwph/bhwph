@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU takes aim at Apple&#39;s Core Technology Fee in DMA non-compliance investigations](https://appleinsider.com/articles/24/06/24/eu-takes-aim-at-apples-core-technology-fee-in-non-compliance-investigations?utm_medium=rss)
- - [The Eternal Truth of Markdown](https://www.wired.com/story/the-eternal-truth-of-markdown/)
- - [iPhones and iPads will soon give you one less reason to use your Mac](https://www.androidauthority.com/ios-ipados-18-reformat-external-drives-3453919/)<!-- TECH:END -->
+ - [Prosus, the largest external investor in Byju&#39;s with a 9.6% stake, says its stake in the Indian edtech giant is now worth zero; Prosus invested a total of $570M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240624/p8#a240624p8)
+ - [iPhone 16 leaks and rumors explained: what to expect in the fall of 2024](https://appleinsider.com/articles/24/06/24/iphone-16-leaks-and-rumors-explained-what-to-expect-in-the-fall-of-2024?utm_medium=rss)
+ - [iPhone 15 Pro Max somehow fails to survive having a 90lb dumbbell dropped on it](https://appleinsider.com/articles/24/06/24/iphone-15-pro-max-somehow-fails-to-survive-having-a-90lb-dumbbell-dropped-on-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
