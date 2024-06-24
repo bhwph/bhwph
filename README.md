@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Smithscript Shield](https://kotaku.com/elden-ring-shadow-erdtree-smithscript-shield-guide-1851556978)
- - [The eco-puzzler Terra Nil is getting its first major update featuring a &#39;dramatic overhaul of the wildlife system&#39;](https://www.pcgamer.com/games/city-builder/the-eco-puzzler-terra-nil-is-getting-its-first-major-update-featuring-a-dramatic-overhaul-of-the-wildlife-system)
- - [House of the Dragon’s King Aegon is far more than just Joffrey 2.0](https://www.polygon.com/24182763/house-dragon-king-aegon-2-joffrey-game-thrones)<!-- GAME:END -->
+ - [How to beat Ghostflame Dragons in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24185125/ghostflame-dragon-locations-weakness-strategy-how-to-beat-sote-dlc)
+ - [Starfield’s 20-Minute, $7 Bounty Hunter Quest: The Kotaku Review](https://kotaku.com/starfield-vulture-quest-worth-it-review-1851557774)
+ - [Shadow of the Erdtree&#39;s unmasked NPC faces prove once again FromSoftware is the king of completely unnecessary details](https://www.pcgamer.com/games/rpg/shadow-of-the-erdtrees-unmasked-npc-faces-prove-once-again-fromsoftware-is-the-king-of-completely-unnecessary-details)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
