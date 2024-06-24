@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat Ghostflame Dragons in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24185125/ghostflame-dragon-locations-weakness-strategy-how-to-beat-sote-dlc)
- - [Starfield’s 20-Minute, $7 Bounty Hunter Quest: The Kotaku Review](https://kotaku.com/starfield-vulture-quest-worth-it-review-1851557774)
- - [Shadow of the Erdtree&#39;s unmasked NPC faces prove once again FromSoftware is the king of completely unnecessary details](https://www.pcgamer.com/games/rpg/shadow-of-the-erdtrees-unmasked-npc-faces-prove-once-again-fromsoftware-is-the-king-of-completely-unnecessary-details)<!-- GAME:END -->
+ - [Add a trio of games to your backlog for just $15 with the Fanatical Diamond Collection](https://www.polygon.com/deals/24183376/fanatical-gaming-fallout-arkane-dishonored-deal-sale)
+ - [How to duplicate Remembrances in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24184933/duplicate-remembrances-how-to-stone-coffin-altar-locations)
+ - [All Elden Ring DLC Remembrance bosses and rewards](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183189/dlc-remembrance-all-rewards-how-to-get-sote)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
