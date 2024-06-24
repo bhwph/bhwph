@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Apple Intelligence, an umbrella for dozens of models running on-device or in carbon neutral data centers, and why Vision Pro is not getting it yet &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/240624/p3#a240624p3)
- - [Sources: the EU plans to charge Apple for alleged anti-competitive conduct and Microsoft on suspicions of taking advantage of its market dominance this week &lpar;Financial Times&rpar;](http://www.techmeme.com/240624/p2#a240624p2)
- - [Best Internet Providers in Cary, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-cary-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Revolutionary Alzheimer’s Treatments Can’t Help Patients Who Go Undiagnosed](https://www.wired.com/story/wired-health-hilary-evans-dementia-alzheimers/)
+ - [Post-Pandemic Recovery Isn’t Guaranteed](https://www.wired.com/story/wired-health-disaster-planning-lucy-easthope-pandemic/)
+ - [Best Internet Providers in Roseville, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-roseville-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
