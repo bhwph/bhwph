@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
- - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
- - 👉 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)<!-- MEMES:END -->
+ - 6️⃣ [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
+ - 😝 [Title](http://9gag.com/gag/aO8mpZv)
+ - 👉 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)<!-- MEMES:END -->
 
 --- 
 
