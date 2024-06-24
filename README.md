@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Revolutionary Alzheimer’s Treatments Can’t Help Patients Who Go Undiagnosed](https://www.wired.com/story/wired-health-hilary-evans-dementia-alzheimers/)
- - [Post-Pandemic Recovery Isn’t Guaranteed](https://www.wired.com/story/wired-health-disaster-planning-lucy-easthope-pandemic/)
- - [Best Internet Providers in Roseville, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-roseville-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EU takes aim at Apple&#39;s Core Technology Fee in DMA non-compliance investigations](https://appleinsider.com/articles/24/06/24/eu-takes-aim-at-apples-core-technology-fee-in-non-compliance-investigations?utm_medium=rss)
+ - [The Eternal Truth of Markdown](https://www.wired.com/story/the-eternal-truth-of-markdown/)
+ - [iPhones and iPads will soon give you one less reason to use your Mac](https://www.androidauthority.com/ios-ipados-18-reformat-external-drives-3453919/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
