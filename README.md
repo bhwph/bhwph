@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paramount Plus announces price hike for later this year](https://www.androidauthority.com/paramount-plus-price-increase-in-august-3454140/)
- - [How to get started with iPhone Mirroring in iOS 18 and macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-get-started-with-iphone-mirroring-in-ios-18-and-macos-sequoia?utm_medium=rss)
- - [Best Outdoor Home Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-outdoor-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple rejected Meta&#39;s overtures to integrate Llama into the iPhone months ago, in part because it sees Meta&#39;s privacy practices as not stringent enough &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240624/p23#a240624p23)
+ - [Sources: Amazon is working on an AI chatbot, codenamed Metis, designed to compete directly with ChatGPT; source: it&#39;s tentatively slated for a September launch &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/240624/p22#a240624p22)
+ - [Hot deal: Get 48% off the CUKTECH 20 Power Bank, one of our favorite battery packs!](https://www.androidauthority.com/cuktech-20-power-bank-deal-3454185/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
