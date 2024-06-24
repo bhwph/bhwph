@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Goat](http://9gag.com/gag/axyGPw1)
- - 😝 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
- - 👉 [Best hangover scene ever](http://9gag.com/gag/an7Br1z)<!-- MEMES:END -->
+ - 6️⃣ [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
+ - 😝 [Day 9 - The ORIGINAL Taxi movie, with a superhot french actress :p](http://9gag.com/gag/adBp2OM)
+ - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
 
 --- 
 
