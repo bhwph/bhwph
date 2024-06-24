@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Why bother using spinning fans to cool your PC when you can just spin your whole rig?](https://www.pcgamer.com/hardware/cooling/why-bother-using-spinning-fans-to-cool-your-pc-when-you-can-just-spin-the-whole-pc)
  - [Today&#39;s Wordle answer for Monday, June 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-24-2024)
- - [Its five year plan complete, Workers &amp; Resources: Soviet Republic releases its industrial city-building into 1.0](https://www.pcgamer.com/games/city-builder/its-five-year-plan-complete-workers-and-resources-soviet-republic-releases-its-industrial-city-building-into-10)
- - [House of the Dragon’s twins perfect ‘Which one do I shoot?!’](https://www.polygon.com/24183307/house-dragon-twin-fight-episode-2)<!-- GAME:END -->
+ - [Its five year plan complete, Workers &amp; Resources: Soviet Republic releases its industrial city-building into 1.0](https://www.pcgamer.com/games/city-builder/its-five-year-plan-complete-workers-and-resources-soviet-republic-releases-its-industrial-city-building-into-10)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
