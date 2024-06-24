@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retailer confirms the date for Samsung’s next Galaxy Unpacked event](https://www.androidauthority.com/galaxy-unpacked-july-leak-3454004/)
- - [As Apple embraces automation, it plans to scale back workers on its production lines](https://appleinsider.com/articles/24/06/24/as-apple-embraces-automation-it-plans-to-scale-back-workers-on-its-production-lines?utm_medium=rss)
- - [SwitchBot’s cheap universal remote can control your smart home, too](https://www.theverge.com/2024/6/24/24184673/switchbot-smart-home-universal-remote-matter-bluetooth)<!-- TECH:END -->
+ - [Ray-Ban Meta Smart Glasses’ new update triples recording time limit](https://www.androidauthority.com/ray-ban-smart-glasses-triples-recording-time-3454060/)
+ - [The Surface Laptop 7 and Surface Pro 11 receive a repairability score of 8 out of 10, far better than the first Surface Laptop, which got a 0 &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240624/p15#a240624p15)
+ - [Vampire is the word in Nosferatu’s new teaser trailer](https://www.theverge.com/24184823/nosferatu-trailer-date-robert-eggers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
