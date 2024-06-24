@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ray-Ban Meta Smart Glasses’ new update triples recording time limit](https://www.androidauthority.com/ray-ban-smart-glasses-triples-recording-time-3454060/)
- - [The Surface Laptop 7 and Surface Pro 11 receive a repairability score of 8 out of 10, far better than the first Surface Laptop, which got a 0 &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240624/p15#a240624p15)
- - [Vampire is the word in Nosferatu’s new teaser trailer](https://www.theverge.com/24184823/nosferatu-trailer-date-robert-eggers)<!-- TECH:END -->
+ - [Amazon has the Sabrent Thunderbolt 4 KVM Switch in stock for $299.97](https://appleinsider.com/articles/24/06/24/amazon-has-the-sabrent-thunderbolt-4-kvm-switch-in-stock-for-29997?utm_medium=rss)
+ - [Paramount Plus is getting yet another price hike](https://www.theverge.com/2024/6/24/24184979/paramount-plus-price-hike-august-2024)
+ - [Deals: Amazon drops Apple Watch Series 9 to $299, Apple Watch Ultra 2 to $714](https://appleinsider.com/articles/24/06/22/deals-amazon-drops-apple-watch-series-9-to-299-apple-watch-ultra-2-to-714?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
