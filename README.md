@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My opinion, this is the last film from star wars world.](http://9gag.com/gag/amo8Vwj)
- - 😝 [Best hangover scene ever](http://9gag.com/gag/an7Br1z)
- - 👉 [Maybe](http://9gag.com/gag/aPAGXXn)<!-- MEMES:END -->
+ - 6️⃣ [The hate within](http://9gag.com/gag/aAypXx9)
+ - 😝 [Maybe](http://9gag.com/gag/aPAGXXn)
+ - 👉 [Best hangover scene ever](http://9gag.com/gag/an7Br1z)<!-- MEMES:END -->
 
 --- 
 
