@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Sigewinne build—The best artifacts and weapons](https://www.pcgamer.com/games/rpg/genshin-impact-sigewinne-build)
- - [Dustborn let me smash fascists and flirt with my situationship on a road trip across America](https://www.pcgamer.com/games/adventure/dustborn-let-me-smash-fascists-and-flirt-with-my-situationship-on-a-road-trip-across-america)
- - [Super Monkey Ball: Banana Rumble: The Kotaku Review](https://kotaku.com/super-monkey-ball-banana-rumble-review-nintendo-switch-1851556393)<!-- GAME:END -->
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Smithscript Shield](https://kotaku.com/elden-ring-shadow-erdtree-smithscript-shield-guide-1851556978)
+ - [The eco-puzzler Terra Nil is getting its first major update featuring a &#39;dramatic overhaul of the wildlife system&#39;](https://www.pcgamer.com/games/city-builder/the-eco-puzzler-terra-nil-is-getting-its-first-major-update-featuring-a-dramatic-overhaul-of-the-wildlife-system)
+ - [House of the Dragon’s King Aegon is far more than just Joffrey 2.0](https://www.polygon.com/24182763/house-dragon-king-aegon-2-joffrey-game-thrones)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
