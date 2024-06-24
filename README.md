@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
- - 😝 [When you didn&#39;t know you need something.](http://9gag.com/gag/a2vqy8e)
- - 👉 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)<!-- MEMES:END -->
+ - 6️⃣ [My opinion, this is the last film from star wars world.](http://9gag.com/gag/amo8Vwj)
+ - 😝 [Best hangover scene ever](http://9gag.com/gag/an7Br1z)
+ - 👉 [Maybe](http://9gag.com/gag/aPAGXXn)<!-- MEMES:END -->
 
 --- 
 
