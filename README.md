@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with ~12 media executives, including Brian Roberts, John Malone, Barry Diller, and Ted Sarandos, about the future of streaming, bundling, ads, more &lpar;New York Times&rpar;](http://www.techmeme.com/240623/p7#a240623p7)
- - [Best AirPods Deals: Snag Apple AirPods for Less     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
- - [Twitch banned Dr Disrespect after viewing messages sent to a minor, say former employees](https://www.theverge.com/2024/6/23/24183875/dr-disrespect-twitch-ban-explanation)<!-- TECH:END -->
+ - [Best Internet Providers in Sugar Land, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-sugar-land-tx/#ftag=CAD590a51e)
+ - [Food delivery apps are contending with plunging orders and frustrated drivers, after raising fees in NYC and Seattle due to wage-increase laws for gig workers &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/240623/p8#a240623p8)
+ - [Clean That Filthy Apple Watch With This Five-Minute Routine     - CNET](https://www.cnet.com/tech/clean-that-filthy-apple-watch-with-this-five-minute-routine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
