@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gorgeous views](http://9gag.com/gag/aD2mV9d)
- - 😝 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)
- - 👉 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)<!-- MEMES:END -->
+ - 6️⃣ [Da best buddy](http://9gag.com/gag/aNDK3g3)
+ - 😝 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
+ - 👉 [She&#39;s a good mother wanting the best for her child](http://9gag.com/gag/avyLmOq)<!-- MEMES:END -->
 
 --- 
 
