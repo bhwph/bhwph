@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The hate within](http://9gag.com/gag/aAypXx9)
- - 😝 [Maybe](http://9gag.com/gag/aPAGXXn)
+ - 6️⃣ [Goat](http://9gag.com/gag/axyGPw1)
+ - 😝 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
  - 👉 [Best hangover scene ever](http://9gag.com/gag/an7Br1z)<!-- MEMES:END -->
 
 --- 
