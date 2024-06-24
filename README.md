@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)
- - 😝 [Don&#39;t know who you are sir, but I concur.](http://9gag.com/gag/agmNj5g)
- - 👉 [That means somethings are truly bizarre. No joke.](http://9gag.com/gag/aRBVRG2)<!-- MEMES:END -->
+ - 6️⃣ [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
+ - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 👉 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)<!-- MEMES:END -->
 
 --- 
 
