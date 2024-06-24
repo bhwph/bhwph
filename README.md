@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Armed Squirrel’s Weapon Guide: An Arsenal Overview of Squirrel With a Gun](https://news.xbox.com/en-us/2024/06/24/squirrel-with-a-gun/)
- - [The first technical deep dive of the Zen 5 architecture is here, with preliminary benchmarks supporting AMD&#39;s IPC claims](https://www.pcgamer.com/hardware/processors/the-first-technical-deep-dive-of-the-zen-5-architecture-is-here-with-preliminary-benchmarks-supporting-amds-ipc-claims)
- - [House of the Dragon crossed a line, and episode 2 pushes it further](https://www.polygon.com/24183267/house-dragon-episode-season-2-review)<!-- GAME:END -->
+ - [Genshin Impact Sigewinne build—The best artifacts and weapons](https://www.pcgamer.com/games/rpg/genshin-impact-sigewinne-build)
+ - [Dustborn let me smash fascists and flirt with my situationship on a road trip across America](https://www.pcgamer.com/games/adventure/dustborn-let-me-smash-fascists-and-flirt-with-my-situationship-on-a-road-trip-across-america)
+ - [Super Monkey Ball: Banana Rumble: The Kotaku Review](https://kotaku.com/super-monkey-ball-banana-rumble-review-nintendo-switch-1851556393)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
