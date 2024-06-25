@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get to the Ruins of Unte in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24185145/ruins-of-unte-location-how-to-get-enter)
- - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Black Steel Greatshield](https://kotaku.com/elden-ring-shadow-erdtree-black-steel-greatshield-guide-1851559011)
- - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Ash of War: Wing Stance](https://kotaku.com/elden-ring-shadow-erdtree-ash-of-war-wing-stance-guide-1851558922)<!-- GAME:END -->
+ - [Total War: Warhammer 3 is giving away a big dog that summons little dogs for free](https://www.pcgamer.com/games/strategy/total-war-warhammer-3-is-giving-away-a-big-dog-that-summons-little-dogs-for-free)
+ - [Nearly 6 months later, Palworld devs confirm Nintendo never drew so much as an inch of its legal sword over bootleg Pokémon allegations](https://www.pcgamer.com/games/survival-crafting/nearly-6-months-later-palworld-devs-confirm-nintendo-never-drew-so-much-as-an-inch-of-its-legal-sword-over-bootleg-pokemon-allegations)
+ - [Elden Ring: Shadow of the Erdtree may still take inspiration from Berserk, but this mod will turn you into the best sorcerer from Jujutsu Kaisen](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-may-still-take-inspiration-from-berserk-but-this-mod-will-turn-you-into-the-best-sorcerer-from-jujutsu-kaisen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
