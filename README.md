@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Morelull be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24184830/can-morelull-be-shiny-shiinotic)
- - [Today&#39;s Wordle answer for Tuesday, June 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-25-2024)
- - [Add a trio of games to your backlog for just $15 with the Fanatical Diamond Collection](https://www.polygon.com/deals/24183376/fanatical-gaming-fallout-arkane-dishonored-deal-sale)<!-- GAME:END -->
+ - [A Stardew Valley modder has decided to weed out the weak with a hardcore mode that&#39;ll delete your save if you look at the wiki](https://www.pcgamer.com/games/life-sim/a-stardew-valley-modder-has-decided-to-weed-out-the-weak-with-a-hardcore-mode-thatll-delete-your-save-if-you-look-at-the-wiki)
+ - [Witchcraft simulator REKA has everything I could ever want as a witch&#39;s apprentice, like mushroom foraging, an army of crows, and oh yeah—a customisable chicken-legged cabin](https://www.pcgamer.com/games/sim/witchcraft-simulator-reka-has-everything-i-could-ever-want-as-a-witchs-apprentice-like-mushroom-foraging-an-army-of-crows-and-oh-yeaha-customisable-chicken-legged-cabin)
+ - [Nvidia loses $500 billion in the biggest short term loss in company value in all of recorded history. A year ago that would have killed it yet today it will barely notice](https://www.pcgamer.com/hardware/graphics-cards/nvidia-loses-dollar500-billion-in-the-biggest-short-term-loss-in-company-value-in-all-of-recorded-history-a-year-ago-that-would-have-killed-it-yet-today-it-will-barely-notice)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
