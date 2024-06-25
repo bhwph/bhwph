@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day announced, with some early deals in tow](https://www.androidauthority.com/amazon-prime-day-2024-announced-3453902/)
- - [A Google DeepMind study of 200 observed incidents of misuse between January 2023 and March 2024 finds political deepfakes are the most common misuse of AI &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/240625/p3#a240625p3)
- - [Amazon plans to hold Prime Day 2024 on July 16 and July 17 in 24 countries including the US, the UK, and Japan; India will receive a separate event later &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/240625/p2#a240625p2)<!-- TECH:END -->
+ - [Oops: Amazon may have revealed key Galaxy Watch 7 features](https://www.androidauthority.com/samsung-galaxy-watch-7-amazon-listing-3454272/)
+ - [New Google AI experiment could let you chat with celebrities, YouTube influencers](https://www.androidauthority.com/google-ai-chat-youtube-celebrities-3454283/)
+ - [Logitech’s affordable new low-profile keyboard also fits Cherry MX-style keycaps](https://www.theverge.com/2024/6/25/24185020/logitech-keyboard-mx-keycaps-gaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
