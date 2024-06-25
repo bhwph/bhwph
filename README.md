@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oops: Amazon may have revealed key Galaxy Watch 7 features](https://www.androidauthority.com/samsung-galaxy-watch-7-amazon-listing-3454272/)
- - [New Google AI experiment could let you chat with celebrities, YouTube influencers](https://www.androidauthority.com/google-ai-chat-youtube-celebrities-3454283/)
- - [Logitech’s affordable new low-profile keyboard also fits Cherry MX-style keycaps](https://www.theverge.com/2024/6/25/24185020/logitech-keyboard-mx-keycaps-gaming)<!-- TECH:END -->
+ - [Deepfake Creators Are Revictimizing GirlsDoPorn Sex Trafficking Survivors](https://www.wired.com/story/girlsdoporn-deepfake-victim-videos/)
+ - [In preliminary findings, the EU charges Microsoft with antitrust violations over concerns that it gave Teams an &quot;undue advantage&quot; by bundling it with Office &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240625/p7#a240625p7)
+ - [Chinese state media: OpenAI told Chinese developers that they will lose API access from July 9 as they are in a &quot;region that OpenAI does not currently support&quot; &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240625/p6#a240625p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
