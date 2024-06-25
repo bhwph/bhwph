@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats Pill review: Premium, but worth the money](https://appleinsider.com/articles/24/06/25/beats-pill-review-premium-but-worth-the-money?utm_medium=rss)
- - [The Beats Pill speaker is back — now with 24-hour battery life and USB-C audio](https://www.theverge.com/2024/6/25/24185530/beats-pill-2024-features-price)
- - [Beats Pill review: much easier to swallow this time](https://www.theverge.com/24185290/beats-pill-2024-bluetooth-speaker-review)<!-- TECH:END -->
+ - [Stability AI says it closed a new funding round; sources: investors committed $80M to take over the company, and some suppliers have forgiven debt obligations &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240625/p18#a240625p18)
+ - [You can own Steve Jobs&#39; iconic 1984 Macintosh ad suit -- but it&#39;ll cost you](https://appleinsider.com/articles/24/06/25/you-can-own-steve-jobs-iconic-1984-macintosh-ad-suit----but-itll-cost-you?utm_medium=rss)
+ - [Meta is connecting Threads more deeply with the fediverse](https://www.theverge.com/2024/6/25/24185226/meta-threads-fediverse-likes-replies)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
