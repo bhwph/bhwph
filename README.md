@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
- - 😝 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
- - 👉 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)<!-- MEMES:END -->
+ - 6️⃣ [Title](http://9gag.com/gag/aKGBN61)
+ - 😝 [Mamma Mia](http://9gag.com/gag/aVvX4Ow)
+ - 👉 [Title](http://9gag.com/gag/a87jXgd)<!-- MEMES:END -->
 
 --- 
 
