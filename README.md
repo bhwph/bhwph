@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer 3 is giving away a big dog that summons little dogs for free](https://www.pcgamer.com/games/strategy/total-war-warhammer-3-is-giving-away-a-big-dog-that-summons-little-dogs-for-free)
- - [Nearly 6 months later, Palworld devs confirm Nintendo never drew so much as an inch of its legal sword over bootleg Pokémon allegations](https://www.pcgamer.com/games/survival-crafting/nearly-6-months-later-palworld-devs-confirm-nintendo-never-drew-so-much-as-an-inch-of-its-legal-sword-over-bootleg-pokemon-allegations)
- - [Elden Ring: Shadow of the Erdtree may still take inspiration from Berserk, but this mod will turn you into the best sorcerer from Jujutsu Kaisen](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-may-still-take-inspiration-from-berserk-but-this-mod-will-turn-you-into-the-best-sorcerer-from-jujutsu-kaisen)<!-- GAME:END -->
+ - [Amazon Giving Away 15 Free Games To Prime Members](https://kotaku.com/amazon-prime-gaming-free-15-games-list-star-wars-tmnt-1851559736)
+ - [How to Deactivate Conduits in Destiny 2: The Final Shape](https://kotaku.com/destiny-2-final-shape-conduit-deactivated-insight-psion-1851559351)
+ - [Overwatch 2’s New Mercy Skins Fuel Lifesaving Breast Cancer Research](https://news.xbox.com/en-us/2024/06/25/overwatch-2-breast-cancer-charity-pink-rose-gold-mercy-skin/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
