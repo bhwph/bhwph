@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
- - 😝 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
- - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
+ - 6️⃣ [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)
+ - 😝 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)
+ - 👉 [Are Germans the ultimate cucks?](http://9gag.com/gag/a9yPB50)<!-- MEMES:END -->
 
 --- 
 
