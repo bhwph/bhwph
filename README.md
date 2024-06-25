@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guys Literally Only Want One Thing And It&#39;s F**king Disgusting](http://9gag.com/gag/a2vqGjO)
- - 😝 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
- - 👉 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)<!-- MEMES:END -->
+ - 6️⃣ [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
+ - 😝 [Title](http://9gag.com/gag/aKGBN61)
+ - 👉 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)<!-- MEMES:END -->
 
 --- 
 
