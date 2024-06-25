@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stability AI says it closed a new funding round; sources: investors committed $80M to take over the company, and some suppliers have forgiven debt obligations &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240625/p18#a240625p18)
- - [You can own Steve Jobs&#39; iconic 1984 Macintosh ad suit -- but it&#39;ll cost you](https://appleinsider.com/articles/24/06/25/you-can-own-steve-jobs-iconic-1984-macintosh-ad-suit----but-itll-cost-you?utm_medium=rss)
- - [Meta is connecting Threads more deeply with the fediverse](https://www.theverge.com/2024/6/25/24185226/meta-threads-fediverse-likes-replies)<!-- TECH:END -->
+ - [It’s official: The Pixel 9 series in coming in August](https://www.androidauthority.com/pixel-9-launch-confirmed-3454548/)
+ - [CMF by Nothing releases new teasers for trio of upcoming devices](https://www.androidauthority.com/cmf-by-nothing-device-teasers-3454461/)
+ - [The RIAA&#39;s lawsuit against generative music startups will be the bloodbath AI needs and an object lesson in hubris for similarly unethical AI companies &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240625/p23#a240625p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
