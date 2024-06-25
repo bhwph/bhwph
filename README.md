@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)
- - 😝 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)
- - 👉 [Are Germans the ultimate cucks?](http://9gag.com/gag/a9yPB50)<!-- MEMES:END -->
+ - 6️⃣ [Guys Literally Only Want One Thing And It&#39;s F**king Disgusting](http://9gag.com/gag/a2vqGjO)
+ - 😝 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
+ - 👉 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)<!-- MEMES:END -->
 
 --- 
 
