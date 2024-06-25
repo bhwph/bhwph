@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Stardew Valley modder has decided to weed out the weak with a hardcore mode that&#39;ll delete your save if you look at the wiki](https://www.pcgamer.com/games/life-sim/a-stardew-valley-modder-has-decided-to-weed-out-the-weak-with-a-hardcore-mode-thatll-delete-your-save-if-you-look-at-the-wiki)
- - [Witchcraft simulator REKA has everything I could ever want as a witch&#39;s apprentice, like mushroom foraging, an army of crows, and oh yeah—a customisable chicken-legged cabin](https://www.pcgamer.com/games/sim/witchcraft-simulator-reka-has-everything-i-could-ever-want-as-a-witchs-apprentice-like-mushroom-foraging-an-army-of-crows-and-oh-yeaha-customisable-chicken-legged-cabin)
- - [Nvidia loses $500 billion in the biggest short term loss in company value in all of recorded history. A year ago that would have killed it yet today it will barely notice](https://www.pcgamer.com/hardware/graphics-cards/nvidia-loses-dollar500-billion-in-the-biggest-short-term-loss-in-company-value-in-all-of-recorded-history-a-year-ago-that-would-have-killed-it-yet-today-it-will-barely-notice)<!-- GAME:END -->
+ - [How to get to the Ruins of Unte in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24185145/ruins-of-unte-location-how-to-get-enter)
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Black Steel Greatshield](https://kotaku.com/elden-ring-shadow-erdtree-black-steel-greatshield-guide-1851559011)
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Ash of War: Wing Stance](https://kotaku.com/elden-ring-shadow-erdtree-ash-of-war-wing-stance-guide-1851558922)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
