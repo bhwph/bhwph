@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
- - 😝 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
- - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
+ - 6️⃣ [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
+ - 😝 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
+ - 👉 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)<!-- MEMES:END -->
 
 --- 
 
