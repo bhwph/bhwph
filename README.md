@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deepfake Creators Are Revictimizing GirlsDoPorn Sex Trafficking Survivors](https://www.wired.com/story/girlsdoporn-deepfake-victim-videos/)
- - [In preliminary findings, the EU charges Microsoft with antitrust violations over concerns that it gave Teams an &quot;undue advantage&quot; by bundling it with Office &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240625/p7#a240625p7)
- - [Chinese state media: OpenAI told Chinese developers that they will lose API access from July 9 as they are in a &quot;region that OpenAI does not currently support&quot; &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240625/p6#a240625p6)<!-- TECH:END -->
+ - [If Apple&#39;s research pans out, an iPhone could be a portable science lab](https://appleinsider.com/articles/24/06/25/if-apples-research-pans-out-an-iphone-could-be-a-portable-science-lab?utm_medium=rss)
+ - [Etched, which is building Sohu, an inferencing chip that only runs transformer AI models, raised a $120M Series A, bringing its total funding to $125.36M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240625/p11#a240625p11)
+ - [Wahoo’s new Trackr Heart Rate is the brand’s first HR monitor with a rechargeable battery](https://www.androidauthority.com/wahoo-trackr-heart-rate-hr-monitor-3453659/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
