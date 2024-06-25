@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple rejected Meta&#39;s overtures to integrate Llama into the iPhone months ago, in part because it sees Meta&#39;s privacy practices as not stringent enough &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240624/p23#a240624p23)
- - [Sources: Amazon is working on an AI chatbot, codenamed Metis, designed to compete directly with ChatGPT; source: it&#39;s tentatively slated for a September launch &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/240624/p22#a240624p22)
- - [Hot deal: Get 48% off the CUKTECH 20 Power Bank, one of our favorite battery packs!](https://www.androidauthority.com/cuktech-20-power-bank-deal-3454185/)<!-- TECH:END -->
+ - [Sources: US is probing China Mobile, China Telecom, and China Unicom over concerns they are providing Americans&#39; data to Beijing through their US cloud services &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240624/p26#a240624p26)
+ - [Julian Assange is ‘free,’ will plead guilty to leaking national security secrets](https://www.theverge.com/2024/6/24/24185279/wikileaks-julian-assange-plea-agreement)
+ - [Q&amp;A with Netflix co-CEO Greg Peters on updating the company&#39;s famous culture memo, its advertising ambitions, bundling, game streaming, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240624/p25#a240624p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
