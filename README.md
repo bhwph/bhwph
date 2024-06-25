@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s official: The Pixel 9 series in coming in August](https://www.androidauthority.com/pixel-9-launch-confirmed-3454548/)
- - [CMF by Nothing releases new teasers for trio of upcoming devices](https://www.androidauthority.com/cmf-by-nothing-device-teasers-3454461/)
- - [The RIAA&#39;s lawsuit against generative music startups will be the bloodbath AI needs and an object lesson in hubris for similarly unethical AI companies &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240625/p23#a240625p23)<!-- TECH:END -->
+ - [New firmware available for AirPods, AirPods Pro, &amp; AirPods Max](https://appleinsider.com/articles/24/06/25/new-firmware-available-for-airpods-airpods-pro-airpods-max?utm_medium=rss)
+ - [You have five hours to save $400 on the Anker SOLIX C1000 Portable Power Station!](https://www.androidauthority.com/400-off-anker-solix-c1000-power-station-3454589/)
+ - [This Matter-enabled smart ceiling light costs under $100](https://www.theverge.com/2024/6/25/24185684/lifx-super-color-ceiling-light-matter-price-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
