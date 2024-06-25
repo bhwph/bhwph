@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You can tell the Second this boy became a man](http://9gag.com/gag/aXPXeGP)
- - 😝 [Party among friends](http://9gag.com/gag/aZZNdP9)
- - 👉 [I&#39;m old school I like my women without the peenus](http://9gag.com/gag/aKGBpXb)<!-- MEMES:END -->
+ - 6️⃣ [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
+ - 😝 [Guys Literally Only Want One Thing And It&#39;s F**king Disgusting](http://9gag.com/gag/a2vqGjO)
+ - 👉 [Deliveryyy](http://9gag.com/gag/aGyRO3n)<!-- MEMES:END -->
 
 --- 
 
