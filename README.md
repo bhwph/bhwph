@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New firmware available for AirPods, AirPods Pro, &amp; AirPods Max](https://appleinsider.com/articles/24/06/25/new-firmware-available-for-airpods-airpods-pro-airpods-max?utm_medium=rss)
- - [You have five hours to save $400 on the Anker SOLIX C1000 Portable Power Station!](https://www.androidauthority.com/400-off-anker-solix-c1000-power-station-3454589/)
- - [This Matter-enabled smart ceiling light costs under $100](https://www.theverge.com/2024/6/25/24185684/lifx-super-color-ceiling-light-matter-price-specs)<!-- TECH:END -->
+ - [Chicago-based Formic, which provides robots-as-a-service automation to US manufacturers, raised $27.4M, bringing its total Series A funding to $52M+ &lpar;Brianna Wessling/The Robot Report&rpar;](http://www.techmeme.com/240625/p31#a240625p31)
+ - [Forza Horizon 4 will be delisted from Microsoft stores and Steam in December](https://www.theverge.com/2024/6/25/24185972/forza-horizon-4-xbox-pc-microsoft-steam-delisted)
+ - [OpenAI delays the release of its advanced Voice Mode for ChatGPT by a month to address safety issues and plans to roll out the feature to Plus users in the fall &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240625/p30#a240625p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
