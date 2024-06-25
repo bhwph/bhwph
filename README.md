@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US is probing China Mobile, China Telecom, and China Unicom over concerns they are providing Americans&#39; data to Beijing through their US cloud services &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240624/p26#a240624p26)
- - [Julian Assange is ‘free,’ will plead guilty to leaking national security secrets](https://www.theverge.com/2024/6/24/24185279/wikileaks-julian-assange-plea-agreement)
- - [Q&amp;A with Netflix co-CEO Greg Peters on updating the company&#39;s famous culture memo, its advertising ambitions, bundling, game streaming, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240624/p25#a240624p25)<!-- TECH:END -->
+ - [EcoFlow’s new solar generator is a portable powerhouse](https://www.theverge.com/2024/6/24/24182250/ecoflow-delta-pro-3-price-specs-blackout-generator-van-rv)
+ - [Seven things I learned about the Sony car while playing Gran Turismo inside one](https://www.theverge.com/2024/6/24/24185255/sony-afeela-gran-turismo-privacy-wheel)
+ - [Sources: US is probing China Mobile, China Telecom, and China Unicom over concerns they are providing Americans&#39; data to Beijing through their US cloud services &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240624/p26#a240624p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
