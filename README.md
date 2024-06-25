@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
- - 😝 [Guys Literally Only Want One Thing And It&#39;s F**king Disgusting](http://9gag.com/gag/a2vqGjO)
- - 👉 [Deliveryyy](http://9gag.com/gag/aGyRO3n)<!-- MEMES:END -->
+ - 6️⃣ [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
+ - 😝 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
+ - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
 
 --- 
 
