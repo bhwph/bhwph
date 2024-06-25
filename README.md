@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Add a trio of games to your backlog for just $15 with the Fanatical Diamond Collection](https://www.polygon.com/deals/24183376/fanatical-gaming-fallout-arkane-dishonored-deal-sale)
- - [How to duplicate Remembrances in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24184933/duplicate-remembrances-how-to-stone-coffin-altar-locations)
- - [All Elden Ring DLC Remembrance bosses and rewards](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183189/dlc-remembrance-all-rewards-how-to-get-sote)<!-- GAME:END -->
+ - [Can Morelull be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24184830/can-morelull-be-shiny-shiinotic)
+ - [Today&#39;s Wordle answer for Tuesday, June 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-25-2024)
+ - [Add a trio of games to your backlog for just $15 with the Fanatical Diamond Collection](https://www.polygon.com/deals/24183376/fanatical-gaming-fallout-arkane-dishonored-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
