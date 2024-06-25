@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
- - 😝 [Title](http://9gag.com/gag/aKGBN61)
- - 👉 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)<!-- MEMES:END -->
+ - 6️⃣ [Pure instinct\u2019s\u2026](http://9gag.com/gag/aLnBbeg)
+ - 😝 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)
+ - 👉 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)<!-- MEMES:END -->
 
 --- 
 
