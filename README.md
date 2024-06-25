@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
- - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
- - 👉 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)<!-- MEMES:END -->
+ - 6️⃣ [You can tell the Second this boy became a man](http://9gag.com/gag/aXPXeGP)
+ - 😝 [Party among friends](http://9gag.com/gag/aZZNdP9)
+ - 👉 [I&#39;m old school I like my women without the peenus](http://9gag.com/gag/aKGBpXb)<!-- MEMES:END -->
 
 --- 
 
