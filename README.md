@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Halo and Destiny producer says live service model is &#39;much better for developers and players&#39; than the &#39;$60 boxed product model&#39;](https://www.pcgamer.com/games/battle-royale/former-halo-and-destiny-producer-says-live-service-model-is-much-better-for-developers-and-players-than-the-dollar60-boxed-product-model)
- - [RPG expansions that offer seemingly endless adventures? Sorcerian did that 36 years ago](https://www.pcgamer.com/games/rpg/rpg-expansions-that-offer-seemingly-endless-adventures-sorcerian-did-that-36-years-ago)
- - [Shadow Of The Erdtree’s Abyssal Woods Sucks](https://kotaku.com/elden-ring-shadow-of-the-erdtree-abyssal-woods-torrent-1851560149)<!-- GAME:END -->
+ - [Following AI art complaints, Pokémon Company boots contest finalists who allegedly already robbed themselves of the joy of drawing a little guy](https://www.pcgamer.com/games/card-games/following-ai-art-complaints-pokemon-company-boots-contest-finalists-who-allegedly-already-robbed-themselves-of-the-joy-of-drawing-a-little-guy)
+ - [The Ministry of Ungentlemanly Warfare is like an origin story for Guy Ritchie’s whole thing](https://www.polygon.com/reviews/24185907/ministry-of-ungentlemanly-warfare-guy-ritchie)
+ - [How To Defeat The Furnace Golems In Elden Ring: Shadow Of The Erdtree](https://kotaku.com/furnace-golem-elden-ring-dlc-fire-shadow-of-the-erdtree-1851560301)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
