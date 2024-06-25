@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EcoFlow’s new solar generator is a portable powerhouse](https://www.theverge.com/2024/6/24/24182250/ecoflow-delta-pro-3-price-specs-blackout-generator-van-rv)
- - [Seven things I learned about the Sony car while playing Gran Turismo inside one](https://www.theverge.com/2024/6/24/24185255/sony-afeela-gran-turismo-privacy-wheel)
- - [Sources: US is probing China Mobile, China Telecom, and China Unicom over concerns they are providing Americans&#39; data to Beijing through their US cloud services &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240624/p26#a240624p26)<!-- TECH:END -->
+ - [Google’s new shopping tools will help you find the best summer deals](https://www.androidauthority.com/google-shopping-tools-summer-deals-3454154/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 25, #380     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-25-380/#ftag=CAD590a51e)
+ - [Narwal Freo X Ultra review: smart and powerful whole home cleaning](https://appleinsider.com/articles/24/06/25/narwal-freo-x-ultra-review-smart-and-powerful-whole-home-cleaning?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
