@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Giving Away 15 Free Games To Prime Members](https://kotaku.com/amazon-prime-gaming-free-15-games-list-star-wars-tmnt-1851559736)
- - [How to Deactivate Conduits in Destiny 2: The Final Shape](https://kotaku.com/destiny-2-final-shape-conduit-deactivated-insight-psion-1851559351)
- - [Overwatch 2’s New Mercy Skins Fuel Lifesaving Breast Cancer Research](https://news.xbox.com/en-us/2024/06/25/overwatch-2-breast-cancer-charity-pink-rose-gold-mercy-skin/)<!-- GAME:END -->
+ - [Former Halo and Destiny producer says live service model is &#39;much better for developers and players&#39; than the &#39;$60 boxed product model&#39;](https://www.pcgamer.com/games/battle-royale/former-halo-and-destiny-producer-says-live-service-model-is-much-better-for-developers-and-players-than-the-dollar60-boxed-product-model)
+ - [RPG expansions that offer seemingly endless adventures? Sorcerian did that 36 years ago](https://www.pcgamer.com/games/rpg/rpg-expansions-that-offer-seemingly-endless-adventures-sorcerian-did-that-36-years-ago)
+ - [Shadow Of The Erdtree’s Abyssal Woods Sucks](https://kotaku.com/elden-ring-shadow-of-the-erdtree-abyssal-woods-torrent-1851560149)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
