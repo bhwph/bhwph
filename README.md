@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
+ - 6️⃣ [Judge giving justice](http://9gag.com/gag/aRBV8eG)
  - 😝 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
- - 👉 [They are living with us, near you, maybe they are your neighbours...or maybe it&#39;s you !](http://9gag.com/gag/a9yPNXj)<!-- MEMES:END -->
+ - 👉 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)<!-- MEMES:END -->
 
 --- 
 
