@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Figma announces big redesign with AI](https://www.theverge.com/2024/6/26/24183730/figma-ai-tools-app-redesign-slides)
- - [Rivian teases four new vehicles, and I have no idea what they are](https://www.theverge.com/2024/6/26/24186332/rivian-tease-mystery-vehicle-r1-r2-r3-shareholder-letter)
- - [How to use CarPlay&#39;s handy new features in iOS 18](https://appleinsider.com/inside/carplay/tips/how-to-use-carplays-handy-new-features-in-ios-18?utm_medium=rss)<!-- TECH:END -->
+ - [Google Wallet now lets you use your phone as a hotel room key](https://www.androidauthority.com/google-wallet-hotel-room-3454924/)
+ - [Researchers in Rabbit R1&#39;s jailbreaking community say Rabbit left critical API keys hardcoded in its code, which would let hackers use Rabbit&#39;s internal systems &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240626/p36#a240626p36)
+ - [At Nvidia&#39;s first shareholder meeting since the recent stock surge, CEO Jensen Huang laid out Nvidia&#39;s strategy to maintain its position amid rising competition &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240626/p35#a240626p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
