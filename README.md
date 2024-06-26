@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GOG is bringing the original Resident Evil trilogy back from the dead, and to digital PC storefronts for the first time](https://www.pcgamer.com/games/resident-evil/gog-is-bringing-the-original-resident-evil-trilogy-back-from-the-dead-and-to-digital-pc-storefronts-for-the-first-time)
- - [The original Resident Evil comes to PC, in all its unremastered glory](https://www.polygon.com/24185916/resident-evil-1-pc-original-version-capcom)
- - [Today&#39;s Wordle answer for Wednesday, June 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-26-2024)<!-- GAME:END -->
+ - [ASRock B760I Lightning WiFi review](https://www.pcgamer.com/hardware/motherboards/asrock-b760i-lightning-wifi-review)
+ - [MSI is using cut-down RTX 4090 GPUs in at least one of its RTX 4070 Ti Super models, with a higher TGP but no extra performance](https://www.pcgamer.com/hardware/graphics-cards/msi-is-using-cut-down-rtx-4090-gpus-in-at-least-one-of-its-rtx-4070-ti-super-models-with-a-higher-tgp-but-no-extra-performance)
+ - [What time does FFXIV maintenance end and Dawntrail release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2024/6/24/24184779/dawntrail-maintenance-start-end-time-zone-est-pst-bst)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
