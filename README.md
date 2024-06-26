@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything You Need To Know About Shin Megami Tensei V: Vengeance&#39;s Holy Will And Profane Dissent DLC](https://kotaku.com/shin-megami-tensei-5-holy-will-profane-dissent-dlc-1851561953)
- - [Capcom just surprise-announced a new Dead Rising remaster](https://www.polygon.com/24186644/dead-rising-remaster-capcom-release-date)
- - [Indie Selects for June: Amazing Indie Games We Are Really Excited About](https://news.xbox.com/en-us/2024/06/26/indie-selects-for-june-amazing-indie-games-we-are-really-excited-about/)<!-- GAME:END -->
+ - [DRDR, Frank&#39;s in the news: Capcom announces Dead Rising Deluxe Remaster](https://www.pcgamer.com/games/action/drdr-franks-in-the-news-capcom-announces-dead-rising-deluxe-remaster)
+ - [The Latest Acolyte Episode Is Star Wars At Its Most Sexy, Deadly](https://kotaku.com/star-wars-acolyte-episode-5-qimir-master-review-1851562506)
+ - [How to beat Golden Hippopotamus in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24182448/golden-hippopotamus-location-weakness-strategy-how-to-beat-sote-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
