@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BCG, McKinsey, KPMG, and other consultants see rising demand for AI advisory services; BCG earns 20% of its revenue from AI-related work vs. 0% two years ago &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240626/p8#a240626p8)
- - [How to Navigate Summer Holiday Travel Like a Pro](https://www.wired.com/story/how-to-navigate-summer-holiday-travel-like-a-pro/)
- - [I Wore Meta Ray-Bans in Montreal to Test Their AI Translation Skills. It Did Not Go Well](https://www.wired.com/story/meta-ray-ban-ai-translation-skills-do-not-work-well/)<!-- TECH:END -->
+ - [Kaiko: spot bitcoin ETFs&#39; launch in the US helped Bybit double its market share to 16% in March, crossing Coinbase to become the world&#39;s second-largest exchange &lpar;Benjamin Taubman/Bloomberg&rpar;](http://www.techmeme.com/240626/p14#a240626p14)
+ - [Microsoft’s canceled Surface Duo 3 was aiming to be a true foldable](https://www.androidauthority.com/microsoft-surface-duo-3-patent-3454764/)
+ - [Sensi, which uses AI to analyze audio and let home care agencies virtually monitor seniors, raised a $31M Series B, bringing its total funding to $53M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240626/p13#a240626p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
