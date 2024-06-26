@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
- - 😝 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
- - 👉 [`Hear me out... `](http://9gag.com/gag/amo8beo)<!-- MEMES:END -->
+ - 6️⃣ [All nations should learn from Winston Churchill](http://9gag.com/gag/aO8mN1D)
+ - 😝 [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)
+ - 👉 [The perfect Pokemon figure doesn&#39;t exi...](http://9gag.com/gag/a5QKAoq)<!-- MEMES:END -->
 
 --- 
 
