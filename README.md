@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Following AI art complaints, Pokémon Company boots contest finalists who allegedly already robbed themselves of the joy of drawing a little guy](https://www.pcgamer.com/games/card-games/following-ai-art-complaints-pokemon-company-boots-contest-finalists-who-allegedly-already-robbed-themselves-of-the-joy-of-drawing-a-little-guy)
- - [The Ministry of Ungentlemanly Warfare is like an origin story for Guy Ritchie’s whole thing](https://www.polygon.com/reviews/24185907/ministry-of-ungentlemanly-warfare-guy-ritchie)
- - [How To Defeat The Furnace Golems In Elden Ring: Shadow Of The Erdtree](https://kotaku.com/furnace-golem-elden-ring-dlc-fire-shadow-of-the-erdtree-1851560301)<!-- GAME:END -->
+ - [How to beat Bayle the Dread in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bayle-the-dread-boss)
+ - [Diablo 4 Season 4 dragged me back despite the rampant overgrowth of currencies to keep track of](https://www.pcgamer.com/games/rpg/diablo-4-season-4-dragged-me-back-despite-the-rampant-overgrowth-of-currencies-to-keep-track-of)
+ - [MMOs &#39;don&#39;t give people the tools to build community anymore,&#39; says EverQuest 2 creative director](https://www.pcgamer.com/games/mmo/mmos-dont-give-people-the-tools-to-build-community-anymore-says-everquest-2-creative-director)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
