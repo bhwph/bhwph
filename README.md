@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prince Constantijn of the Netherlands, a special envoy to Techleap startup accelerator, says Europe risks falling behind the US and China by over-regulating AI &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240626/p5#a240626p5)
- - [Sources: India&#39;s Ministry of Corporate Affairs investigation finds Byju&#39;s did not commit financial fraud but had compliance lapses that led to mounting losses &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p4#a240626p4)
- - [Sensor Tower: Dungeon &amp; Fighter Mobile generated $270M in Chinese iOS sales in the 30 days after its launch on May 21, marking Tencent&#39;s biggest release in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p3#a240626p3)<!-- TECH:END -->
+ - [With AI Tools, Scientists Can Crack the Code of Life](https://www.wired.com/story/wired-health-pushmeet-kohli-deepmind-ai-google/)
+ - [Ultimate Ears announces new Everboom speaker, Boom 4 with USB-C, and more](https://www.theverge.com/2024/6/26/24185957/ue-everboom-boom-4-wonderboom-megaboom-features)
+ - [Air So Polluted It Can Kill Isn’t Being Taken Seriously Enough](https://www.wired.com/story/wired-health-rosamund-adoo-kissi-debrah-clean-air-pollution/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
