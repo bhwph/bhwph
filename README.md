@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DRDR, Frank&#39;s in the news: Capcom announces Dead Rising Deluxe Remaster](https://www.pcgamer.com/games/action/drdr-franks-in-the-news-capcom-announces-dead-rising-deluxe-remaster)
- - [The Latest Acolyte Episode Is Star Wars At Its Most Sexy, Deadly](https://kotaku.com/star-wars-acolyte-episode-5-qimir-master-review-1851562506)
- - [How to beat Golden Hippopotamus in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24182448/golden-hippopotamus-location-weakness-strategy-how-to-beat-sote-dlc)<!-- GAME:END -->
+ - [Shadow of the Erdtree&#39;s brutal difficulty spike is what happens when you inject Dark Souls into Elden Ring](https://www.pcgamer.com/games/rpg/shadow-of-the-erdtrees-brutal-difficulty-spike-is-what-happens-when-you-inject-dark-souls-into-elden-ring)
+ - [Someone Is Porting Super Mario 64 To The Game Boy Advance](https://kotaku.com/sm64-super-mario-64-game-boy-advance-gba-port-gameplay-1851562711)
+ - [Enir-Ilim walkthrough in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186341/enir-ilim-steps-sealing-tree-sote-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
