@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Route: TikTok Shop saw a 13% jump in orders from April to May, as TikTok appears to be hiring hundreds of employees in the US to support its e-commerce efforts &lpar;Alexandra S. Levine/Forbes&rpar;](http://www.techmeme.com/240625/p35#a240625p35)
- - [Meta tests Vision Pro-like freeform virtual screen placement for Quest headsets](https://www.theverge.com/2024/6/25/24185869/meta-quest-vr-virtual-screen-placement)
- - [Soaking Up the Summer Rays? What to Know About Checking Your Skin for Cancer](https://www.cnet.com/health/medical/soaking-up-the-summer-rays-what-to-know-about-checking-your-skin-for-cancer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vienna-based Prewave, which helps companies monitor their supply chain risks, raised a &amp;euro;63M Series B led by Hedosophia, bringing its total funding to &amp;euro;90M+ &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240625/p37#a240625p37)
+ - [Best Internet Providers in New York](https://www.cnet.com/home/internet/best-internet-providers-in-new-york/#ftag=CAD590a51e)
+ - [Best Internet Providers in Iowa City, Iowa](https://www.cnet.com/home/internet/best-internet-providers-in-iowa-city-ia/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
