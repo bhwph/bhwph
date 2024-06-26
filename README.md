@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ASRock B760I Lightning WiFi review](https://www.pcgamer.com/hardware/motherboards/asrock-b760i-lightning-wifi-review)
- - [MSI is using cut-down RTX 4090 GPUs in at least one of its RTX 4070 Ti Super models, with a higher TGP but no extra performance](https://www.pcgamer.com/hardware/graphics-cards/msi-is-using-cut-down-rtx-4090-gpus-in-at-least-one-of-its-rtx-4070-ti-super-models-with-a-higher-tgp-but-no-extra-performance)
- - [What time does FFXIV maintenance end and Dawntrail release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2024/6/24/24184779/dawntrail-maintenance-start-end-time-zone-est-pst-bst)<!-- GAME:END -->
+ - [Grab your popcorn as Microsoft lands in hot water again with the EU for its &#39;insufficient&#39; changes to how it bundles Teams](https://www.pcgamer.com/software/grab-your-popcorn-as-microsoft-lands-in-hot-water-again-with-the-eu-for-its-insufficient-changes-to-how-it-bundles-teams)
+ - [The MCU’s Fantastic Four will be a period piece, Kevin Feige confirms](https://www.polygon.com/24185973/fantastic-four-mcu-time-period-setting-kevin-feige)
+ - [Zenless Zone Zero&#39;s producer has spent an ungodly amount of time playing Street Fighter 6, which makes the whisperings of a collaboration even more understandable](https://www.pcgamer.com/games/action/zenless-zone-zeros-producer-has-spent-an-ungodly-amount-of-time-playing-street-fighter-6-which-makes-the-whisperings-of-a-collaboration-even-more-understandable)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
