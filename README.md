@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Tencent&#39;s removal of hit game Dungeon &amp; Fighter from Android app stores in China, some of which have default sales split of 50% on games revenue &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240626/p1#a240626p1)
- - [Sources: Huawei is struggling to ramp up production of its Ascend AI server chip, China&#39;s leading alternative to Nvidia&#39;s A100, due to a new US crackdown &lpar;The Information&rpar;](http://www.techmeme.com/240625/p39#a240625p39)
- - [Adonis, which provides healthcare revenue cycle automation services, raised a $31M Series B led by Point72 Private Investments, taking its total funding to $54M &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/240625/p38#a240625p38)<!-- TECH:END -->
+ - [Prince Constantijn of the Netherlands, a special envoy to Techleap startup accelerator, says Europe risks falling behind the US and China by over-regulating AI &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240626/p5#a240626p5)
+ - [Sources: India&#39;s Ministry of Corporate Affairs investigation finds Byju&#39;s did not commit financial fraud but had compliance lapses that led to mounting losses &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p4#a240626p4)
+ - [Sensor Tower: Dungeon &amp; Fighter Mobile generated $270M in Chinese iOS sales in the 30 days after its launch on May 21, marking Tencent&#39;s biggest release in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p3#a240626p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
