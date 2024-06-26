@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
- - 😝 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
- - 👉 [Results are recorded... so it&#39;s science...](http://9gag.com/gag/axyGepD)<!-- MEMES:END -->
+ - 6️⃣ [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
+ - 😝 [`Hear me out... `](http://9gag.com/gag/amo8beo)
+ - 👉 [Judge giving justice](http://9gag.com/gag/aRBV8eG)<!-- MEMES:END -->
 
 --- 
 
