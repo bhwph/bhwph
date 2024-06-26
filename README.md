@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Results are recorded... so it&#39;s science...](http://9gag.com/gag/axyGepD)
- - 😝 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
- - 👉 [Is this true?](http://9gag.com/gag/abAboW8)<!-- MEMES:END -->
+ - 6️⃣ [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
+ - 😝 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
+ - 👉 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)<!-- MEMES:END -->
 
 --- 
 
