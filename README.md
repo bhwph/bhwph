@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xiaomi G27i review](https://www.pcgamer.com/hardware/gaming-monitors/xiaomi-g27i-review)
- - [The best thriller TV series to watch on Netflix](https://www.polygon.com/what-to-watch/23745847/best-thriller-tv-series-netflix-shows-watch-streaming)
- - [This Baldur&#39;s Gate 3 mod turns the game into a chaotic roguelike, which is great if you just want to slay some monsters like you&#39;re in an old school D&amp;D campaign](https://www.pcgamer.com/games/baldurs-gate/this-baldur-s-gate-3-mod-turns-the-game-into-a-chaotic-roguelike-which-is-great-if-you-just-want-to-slay-some-monsters-like-you-re-in-an-old-school-d-d-campaign)<!-- GAME:END -->
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Rabbath&#39;s Cannon](https://kotaku.com/elden-ring-shadow-erdtrees-rabbaths-cannon-guide-1851561571)
+ - [How to get into horror movies, according to Joe Dante](https://www.polygon.com/24183313/how-to-get-into-horror-movies-joe-dante-gremlins)
+ - [Four Tasty Tips &amp; Tricks to Aid Your Adventure in BattleCakes](https://news.xbox.com/en-us/2024/06/26/four-tips-amp-tricks-to-aid-you-in-battlecakes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
