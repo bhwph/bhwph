@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Judge giving justice](http://9gag.com/gag/aRBV8eG)
- - 😝 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
- - 👉 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)<!-- MEMES:END -->
+ - 6️⃣ [Ultra reaction](http://9gag.com/gag/aByrvdN)
+ - 😝 [Fill up the other tiers lol.](http://9gag.com/gag/a4PLrPp)
+ - 👉 [Football team scores without touching the ball](http://9gag.com/gag/a0eYD7q)<!-- MEMES:END -->
 
 --- 
 
