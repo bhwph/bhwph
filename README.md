@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kaiko: spot bitcoin ETFs&#39; launch in the US helped Bybit double its market share to 16% in March, crossing Coinbase to become the world&#39;s second-largest exchange &lpar;Benjamin Taubman/Bloomberg&rpar;](http://www.techmeme.com/240626/p14#a240626p14)
- - [Microsoft’s canceled Surface Duo 3 was aiming to be a true foldable](https://www.androidauthority.com/microsoft-surface-duo-3-patent-3454764/)
- - [Sensi, which uses AI to analyze audio and let home care agencies virtually monitor seniors, raised a $31M Series B, bringing its total funding to $53M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240626/p13#a240626p13)<!-- TECH:END -->
+ - [OnePlus phones in some regions aren’t getting in-box chargers &lpar;Update: Common Charger Directive&rpar;](https://www.androidauthority.com/oneplus-not-shipping-chargers-some-phones-3454264/)
+ - [The 17 Best Hair Straighteners We Tested: Flat Irons, Hot Combs, and Straightening Brushes](https://www.wired.com/gallery/best-hair-straighteners/)
+ - [Google is prepping reliability enhancements for its Find My Device network](https://www.androidauthority.com/google-find-my-device-reliability-update-3454811/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
