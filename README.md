@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
- - 😝 [`Hear me out... `](http://9gag.com/gag/amo8beo)
- - 👉 [Judge giving justice](http://9gag.com/gag/aRBV8eG)<!-- MEMES:END -->
+ - 6️⃣ [Is this true?](http://9gag.com/gag/abAboW8)
+ - 😝 [Nice cop](http://9gag.com/gag/ajPn3w0)
+ - 👉 [Results are recorded... so it&#39;s science...](http://9gag.com/gag/axyGepD)<!-- MEMES:END -->
 
 --- 
 
