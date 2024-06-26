@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
- - 😝 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
- - 👉 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)<!-- MEMES:END -->
+ - 6️⃣ [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)
+ - 😝 [He did it](http://9gag.com/gag/aByrMxA)
+ - 👉 [Make Europe European Again!](http://9gag.com/gag/a87j97Z)<!-- MEMES:END -->
 
 --- 
 
