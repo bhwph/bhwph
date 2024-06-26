@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab your popcorn as Microsoft lands in hot water again with the EU for its &#39;insufficient&#39; changes to how it bundles Teams](https://www.pcgamer.com/software/grab-your-popcorn-as-microsoft-lands-in-hot-water-again-with-the-eu-for-its-insufficient-changes-to-how-it-bundles-teams)
- - [The MCU’s Fantastic Four will be a period piece, Kevin Feige confirms](https://www.polygon.com/24185973/fantastic-four-mcu-time-period-setting-kevin-feige)
- - [Zenless Zone Zero&#39;s producer has spent an ungodly amount of time playing Street Fighter 6, which makes the whisperings of a collaboration even more understandable](https://www.pcgamer.com/games/action/zenless-zone-zeros-producer-has-spent-an-ungodly-amount-of-time-playing-street-fighter-6-which-makes-the-whisperings-of-a-collaboration-even-more-understandable)<!-- GAME:END -->
+ - [Xiaomi G27i review](https://www.pcgamer.com/hardware/gaming-monitors/xiaomi-g27i-review)
+ - [The best thriller TV series to watch on Netflix](https://www.polygon.com/what-to-watch/23745847/best-thriller-tv-series-netflix-shows-watch-streaming)
+ - [This Baldur&#39;s Gate 3 mod turns the game into a chaotic roguelike, which is great if you just want to slay some monsters like you&#39;re in an old school D&amp;D campaign](https://www.pcgamer.com/games/baldurs-gate/this-baldur-s-gate-3-mod-turns-the-game-into-a-chaotic-roguelike-which-is-great-if-you-just-want-to-slay-some-monsters-like-you-re-in-an-old-school-d-d-campaign)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
