@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ultra reaction](http://9gag.com/gag/aByrvdN)
- - 😝 [Fill up the other tiers lol.](http://9gag.com/gag/a4PLrPp)
- - 👉 [Football team scores without touching the ball](http://9gag.com/gag/a0eYD7q)<!-- MEMES:END -->
+ - 6️⃣ [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
+ - 😝 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
+ - 👉 [`Hear me out... `](http://9gag.com/gag/amo8beo)<!-- MEMES:END -->
 
 --- 
 
