@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chicago-based Formic, which provides robots-as-a-service automation to US manufacturers, raised $27.4M, bringing its total Series A funding to $52M+ &lpar;Brianna Wessling/The Robot Report&rpar;](http://www.techmeme.com/240625/p31#a240625p31)
- - [Forza Horizon 4 will be delisted from Microsoft stores and Steam in December](https://www.theverge.com/2024/6/25/24185972/forza-horizon-4-xbox-pc-microsoft-steam-delisted)
- - [OpenAI delays the release of its advanced Voice Mode for ChatGPT by a month to address safety issues and plans to roll out the feature to Plus users in the fall &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240625/p30#a240625p30)<!-- TECH:END -->
+ - [Route: TikTok Shop saw a 13% jump in orders from April to May, as TikTok appears to be hiring hundreds of employees in the US to support its e-commerce efforts &lpar;Alexandra S. Levine/Forbes&rpar;](http://www.techmeme.com/240625/p35#a240625p35)
+ - [Meta tests Vision Pro-like freeform virtual screen placement for Quest headsets](https://www.theverge.com/2024/6/25/24185869/meta-quest-vr-virtual-screen-placement)
+ - [Soaking Up the Summer Rays? What to Know About Checking Your Skin for Cancer](https://www.cnet.com/health/medical/soaking-up-the-summer-rays-what-to-know-about-checking-your-skin-for-cancer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
