@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet now lets you use your phone as a hotel room key](https://www.androidauthority.com/google-wallet-hotel-room-3454924/)
- - [Researchers in Rabbit R1&#39;s jailbreaking community say Rabbit left critical API keys hardcoded in its code, which would let hackers use Rabbit&#39;s internal systems &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240626/p36#a240626p36)
- - [At Nvidia&#39;s first shareholder meeting since the recent stock surge, CEO Jensen Huang laid out Nvidia&#39;s strategy to maintain its position amid rising competition &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240626/p35#a240626p35)<!-- TECH:END -->
+ - [Got Wi-Fi problems? This TP-Link Wi-Fi extender is 52% off right now!](https://www.androidauthority.com/tp-link-wi-fi-extender-deal-3455050/)
+ - [Activist investor Jana Partners announces an investment in Rapid7; sources say Jana plans to push the cybersecurity company to sell itself &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240626/p38#a240626p38)
+ - [A group of R1 jailbreakers found a massive security flaw in Rabbit’s code](https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
