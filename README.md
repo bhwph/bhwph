@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All nations should learn from Winston Churchill](http://9gag.com/gag/aO8mN1D)
- - 😝 [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)
- - 👉 [The perfect Pokemon figure doesn&#39;t exi...](http://9gag.com/gag/a5QKAoq)<!-- MEMES:END -->
+ - 6️⃣ [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
+ - 😝 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
+ - 👉 [Results are recorded... so it&#39;s science...](http://9gag.com/gag/axyGepD)<!-- MEMES:END -->
 
 --- 
 
