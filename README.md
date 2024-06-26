@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus phones in some regions aren’t getting in-box chargers &lpar;Update: Common Charger Directive&rpar;](https://www.androidauthority.com/oneplus-not-shipping-chargers-some-phones-3454264/)
- - [The 17 Best Hair Straighteners We Tested: Flat Irons, Hot Combs, and Straightening Brushes](https://www.wired.com/gallery/best-hair-straighteners/)
- - [Google is prepping reliability enhancements for its Find My Device network](https://www.androidauthority.com/google-find-my-device-reliability-update-3454811/)<!-- TECH:END -->
+ - [Figma announces big redesign with AI](https://www.theverge.com/2024/6/26/24183730/figma-ai-tools-app-redesign-slides)
+ - [Rivian teases four new vehicles, and I have no idea what they are](https://www.theverge.com/2024/6/26/24186332/rivian-tease-mystery-vehicle-r1-r2-r3-shareholder-letter)
+ - [How to use CarPlay&#39;s handy new features in iOS 18](https://appleinsider.com/inside/carplay/tips/how-to-use-carplays-handy-new-features-in-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
