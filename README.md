@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With AI Tools, Scientists Can Crack the Code of Life](https://www.wired.com/story/wired-health-pushmeet-kohli-deepmind-ai-google/)
- - [Ultimate Ears announces new Everboom speaker, Boom 4 with USB-C, and more](https://www.theverge.com/2024/6/26/24185957/ue-everboom-boom-4-wonderboom-megaboom-features)
- - [Air So Polluted It Can Kill Isn’t Being Taken Seriously Enough](https://www.wired.com/story/wired-health-rosamund-adoo-kissi-debrah-clean-air-pollution/)<!-- TECH:END -->
+ - [BCG, McKinsey, KPMG, and other consultants see rising demand for AI advisory services; BCG earns 20% of its revenue from AI-related work vs. 0% two years ago &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240626/p8#a240626p8)
+ - [How to Navigate Summer Holiday Travel Like a Pro](https://www.wired.com/story/how-to-navigate-summer-holiday-travel-like-a-pro/)
+ - [I Wore Meta Ray-Bans in Montreal to Test Their AI Translation Skills. It Did Not Go Well](https://www.wired.com/story/meta-ray-ban-ai-translation-skills-do-not-work-well/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
