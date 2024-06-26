@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Got Wi-Fi problems? This TP-Link Wi-Fi extender is 52% off right now!](https://www.androidauthority.com/tp-link-wi-fi-extender-deal-3455050/)
- - [Activist investor Jana Partners announces an investment in Rapid7; sources say Jana plans to push the cybersecurity company to sell itself &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240626/p38#a240626p38)
- - [A group of R1 jailbreakers found a massive security flaw in Rabbit’s code](https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase)<!-- TECH:END -->
+ - [Crypto investment app Abra and CEO William Barhydt settle with 25 US states for operating without proper licenses and will return up to $82.1M to US customers &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240626/p43#a240626p43)
+ - [You will never guess Wordle’s terrible, hilarious original name](https://www.theverge.com/24186786/wordle-original-name-mr-bugs-wordy-nugz-wardle)
+ - [Save $300 on the Lenovo Yoga Book 9i dual-screen laptop](https://www.androidauthority.com/lenovo-yoga-book-9i-deal-3455098/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
