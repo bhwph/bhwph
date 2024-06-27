@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces faster Sheets calculations on Chrome and Edge browsers on desktop, doubling speeds for running formulas, creating pivot tables, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240627/p7#a240627p7)
- - [Q&amp;A with Beijing Academy of Artificial Intelligence&#39;s Zhang Hongjiang on becoming one of China&#39;s leading advocates for AI regulation, US export curbs, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240627/p6#a240627p6)
- - [How landlords are using AI tools to communicate with tenants, track the use of common areas, monitor energy use, and more &lpar;Julie Weed/New York Times&rpar;](http://www.techmeme.com/240627/p5#a240627p5)<!-- TECH:END -->
+ - [Aging Might Not Be Inevitable](https://www.wired.com/story/aging-might-not-be-inevitable-wired-health-venki-ramakrishnan/)
+ - [Samsung may have just revealed the Galaxy S25’s main camera](https://www.androidauthority.com/samsung-new-camera-sensors-galaxy-s25-3454258/)
+ - [Travelers, Rejoice: Google Translate Adds 110 New Languages, Thanks to AI](https://www.cnet.com/tech/mobile/travelers-rejoice-google-translate-adds-110-new-languages-thanks-to-ai/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
