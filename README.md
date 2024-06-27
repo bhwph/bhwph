@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)
- - 😝 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
- - 👉 [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)<!-- MEMES:END -->
+ - 6️⃣ [Okey...](http://9gag.com/gag/aAyp5K9)
+ - 😝 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
+ - 👉 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)<!-- MEMES:END -->
 
 --- 
 
