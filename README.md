@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
- - 😝 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
- - 👉 [ICantBeliveThatWorked](http://9gag.com/gag/a4PLgw1)<!-- MEMES:END -->
+ - 6️⃣ [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)
+ - 😝 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
+ - 👉 [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)<!-- MEMES:END -->
 
 --- 
 
