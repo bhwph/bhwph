@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New evidence suggests that Gery Shalon, mastermind of the 2014 JPMorgan hack, built a massive new fraud empire in Europe while he was cooperating with the FBI &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p48#a240626p48)
- - [The US DOJ indicts a Russian national, who remains at large, for his alleged involvement in the WhisperGate malware attack on Ukrainian systems in January 2022 &lpar;Katie Mettler/Washington Post&rpar;](http://www.techmeme.com/240626/p47#a240626p47)
- - [Former CEO of digital pharma ad company Outcome Health is sentenced to seven and a half years in prison, after being found guilty of a ~$1B fraud in April 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240626/p46#a240626p46)<!-- TECH:END -->
+ - [Top German antitrust official Andreas Mundt says AI is a &quot;first-class fire accelerator&quot; for anticompetitive tactics and &quot;will make all the problems only worse&quot; &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/240627/p2#a240627p2)
+ - [Progress Software discloses a critical vulnerability in the MOVEit SFTP module; hackers exploited a similar flaw in MOVEit last year to breach ~1,800 networks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240627/p1#a240627p1)
+ - [A look at the pro-crypto Fairshake super PAC, which raised $169M from Coinbase, Ripple, a16z, and more, and has backed 20+ US congressional primary wins in 2024 &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240626/p50#a240626p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
