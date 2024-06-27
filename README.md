@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox games will soon be playable via your Amazon Fire TV Stick](https://www.polygon.com/24187316/xbox-amazon-fire-tv-partnership)
- - [The deadliest weapon in Shadow of the Erdtree is a bottle of perfume which can evaporate the DLC&#39;s final boss in 13 seconds, thanks to hitbox buffoonery](https://www.pcgamer.com/games/rpg/the-deadliest-weapon-in-shadow-of-the-erdtree-is-a-bottle-of-perfume-which-can-evaporate-the-dlc-s-final-boss-in-13-seconds-thanks-to-hitbox-buffoonery)
- - [Concord seems under-anticipated: Sony&#39;s hero shooter has some juice](https://www.pcgamer.com/games/fps/concord-hands-on-preview)<!-- GAME:END -->
+ - [1980s court documents show Nintendo considered &#39;Kong Dong&#39; and &#39;Kong the Kong&#39; before settling on the name Donkey Kong](https://www.pcgamer.com/gaming-industry/1980s-court-documents-show-nintendo-considered-kong-dong-and-kong-the-kong-before-settling-on-the-name-donkey-kong)
+ - [Oh, Hey, Halo Infinite Works On PCs With Nvidia Graphics Cards Again](https://kotaku.com/halo-infinite-wont-start-nvidia-driver-update-1851564447)
+ - [Concord Devs Respond To Everyone Hating On The Trailer](https://kotaku.com/concord-dev-respond-reveal-trailer-backlash-playstation-1851564299)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
