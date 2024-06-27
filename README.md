@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI details CriticGPT, a model based on GPT-4 to catch errors in ChatGPT&#39;s code output, assisting human trainers in assessing and spotting errors &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240627/p33#a240627p33)
- - [YouTube’s new Premium features cater to our ever-shortening attention spans](https://www.androidauthority.com/youtube-premium-jump-ahead-shorts-pip-3455378/)
- - [TP-Link’s first Wi-Fi 7 gaming router costs $600](https://www.theverge.com/2024/6/27/24187362/tp-link-router-wifi-7-ge800-be19000-gaming)<!-- TECH:END -->
+ - [More YouTube Premium plans are coming](https://www.theverge.com/2024/6/27/24187590/youtube-premium-subscription-more-plans)
+ - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
+ - [There are drastic steps to take, if your tattoo is hampering your Apple Watch](https://appleinsider.com/articles/24/06/27/there-are-drastic-steps-to-take-if-your-tattoo-is-hampering-your-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
