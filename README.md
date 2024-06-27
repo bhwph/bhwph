@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prepaid or postpaid? Carrier plan preferences are changing](https://www.androidauthority.com/prepaid-vs-postpaid-poll-results-3455141/)
- - [Traveling for the Fourth of July? Save Money by Borrowing an AirTag](https://www.cnet.com/tech/mobile/traveling-for-the-fourth-of-july-save-money-by-borrowing-an-airtag/#ftag=CAD590a51e)
- - [Xbox Game Pass: Play My Time at Sandrock, FC 24 and More Now](https://www.cnet.com/tech/gaming/xbox-game-pass-play-my-time-at-sandrock-fc-24-and-more-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fitbit users can finally add American Express cards to Google Wallet](https://www.androidauthority.com/fitbit-american-express-wallet-3455178/)
+ - [The Future of Vaping After the Fall of Juul](https://www.wired.com/story/gadget-lab-podcast-649/)
+ - [US AT&amp;T, Verizon, T-Mobile users overseas hit by major outage](https://appleinsider.com/articles/24/06/27/us-att-verizon-t-mobile-users-overseas-hit-by-major-outage?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
