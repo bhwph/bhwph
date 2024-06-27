@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I absolutely suck at video games&#39;: Hidetaka Miyazaki discusses how he prepped for Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/i-absolutely-suck-at-video-games-hidetaka-miyazaki-discusses-how-he-prepped-for-elden-ring-shadow-of-the-erdtree)
- - [Nice, you can kill Conor McGregor in Hitman’s new DLC](https://www.polygon.com/24186771/hitman-conor-mcgregor-elusive-target-ufc-disruptor-dlc)
- - [I&#39;ve just been put to shame: Elden Ring: Shadow of the Erdtree player parries its final boss into the dirt like they&#39;re Gwyn, Lord of Chumps](https://www.pcgamer.com/games/rpg/i-ve-just-been-put-to-shame-elden-ring-shadow-of-the-erdtree-player-parries-its-final-boss-into-the-dirt-like-he-s-gwyn-lord-of-chumps)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Fan Expo Dallas 2024](https://kotaku.com/fan-expo-dallas-2024-best-cosplay-costume-star-wars-1851562355)
+ - [Razer BlackWidow V4 75% review](https://www.pcgamer.com/hardware/gaming-keyboards/razer-blackwidow-v4-75-review)
+ - [FromSoftware all but gets on its knees and begs Shadow of the Erdtree players to take their Scadutree supplements, posts a map to one on Steam](https://www.pcgamer.com/games/rpg/fromsoftware-all-but-gets-on-its-knees-and-begs-shadow-of-the-erdtree-players-to-take-their-scadutree-supplements-posts-a-map-to-an-early-game-location-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
