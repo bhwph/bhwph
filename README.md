@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit users can finally add American Express cards to Google Wallet](https://www.androidauthority.com/fitbit-american-express-wallet-3455178/)
- - [The Future of Vaping After the Fall of Juul](https://www.wired.com/story/gadget-lab-podcast-649/)
- - [US AT&amp;T, Verizon, T-Mobile users overseas hit by major outage](https://appleinsider.com/articles/24/06/27/us-att-verizon-t-mobile-users-overseas-hit-by-major-outage?utm_medium=rss)<!-- TECH:END -->
+ - [Test your Google knowledge with this official I/O Crossword](https://www.androidauthority.com/google-io-crossword-gemini-3455260/)
+ - [Forget folding screens, Apple is working on stretchable ones](https://appleinsider.com/articles/24/06/27/forget-folding-screens-apple-is-working-on-stretchable-ones?utm_medium=rss)
+ - [Google Cloud announces deals, including with Moody&#39;s, Thomson Reuters, and ZoomInfo, to &quot;ground&quot; responses from its enterprise AI chatbots in real-world facts &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240627/p22#a240627p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
