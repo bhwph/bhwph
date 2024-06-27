@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [More YouTube Premium plans are coming](https://www.theverge.com/2024/6/27/24187590/youtube-premium-subscription-more-plans)
- - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
- - [There are drastic steps to take, if your tattoo is hampering your Apple Watch](https://appleinsider.com/articles/24/06/27/there-are-drastic-steps-to-take-if-your-tattoo-is-hampering-your-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Uber and Lyft agree to pay drivers in Massachusetts a minimum wage and give them some benefits, and pay a combined $175M to the state to settle a 2020 lawsuit &lpar;Chris Lisinski/State House News Service&rpar;](http://www.techmeme.com/240627/p36#a240627p36)
+ - [FCC proposes 60-day unlocking rule for all mobile phones](https://www.androidauthority.com/fcc-mobile-unlocking-proposal-3455448/)
+ - [The New York Times’ excellent word search game is now in its Games app](https://www.theverge.com/2024/6/27/24187656/new-york-times-strands-word-search-games-app)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
