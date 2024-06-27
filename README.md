@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FromSoftware Owner Hit By Massive Ransomware Attack](https://kotaku.com/fromsoftware-ransomware-hack-elden-ring-bloodborne-2-1851564840)
- - [It’s The Summer of George R.R. Martin Even Though He Hasn’t Finished A Book In Six Years](https://kotaku.com/elden-ring-house-of-the-dragon-george-rr-martin-1851564857)
- - [Frostpunk 2 delayed because its developers want to add features &#39;you deserve to see in-game on day one, not in a patch added after the release&#39;](https://www.pcgamer.com/games/city-builder/frostpunk-2-delayed-because-its-developers-want-to-add-features-you-deserve-to-see-in-game-on-day-one-not-in-a-patch-added-after-the-release)<!-- GAME:END -->
+ - [Paramount rounds out a grim month for media preservation by nuking 25 years of Comedy Central video](https://www.pcgamer.com/movies-tv/paramount-rounds-out-a-grim-month-for-media-preservation-by-nuking-25-years-of-comedy-central-video)
+ - [Elden Ring folk hero Let Me Solo Her has been reborn in Shadow of the Erdtree as Let Me Solo Him](https://www.pcgamer.com/games/rpg/elden-ring-folk-hero-let-me-solo-her-has-been-reborn-in-shadow-of-the-erdtree-as-let-me-solo-him)
+ - [Hidetaka Miyazaki says Elden Ring might be as big a game as he ever wants to make: &#39;Where FromSoftware is right now, in terms of scale, I would say Elden Ring is really the limit&#39;](https://www.pcgamer.com/games/rpg/hidetaka-miyazaki-says-elden-ring-might-be-as-big-a-game-as-he-ever-wants-to-make-where-fromsoftware-is-right-now-in-terms-of-scale-i-would-say-elden-ring-is-really-the-limit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
