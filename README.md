@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Judged by color](http://9gag.com/gag/ayNnAy8)
- - 😝 [Bro missed](http://9gag.com/gag/avyLqm5)
- - 👉 [Footage of the Roman Empire using Midjourney and the Luma Dream Machine](http://9gag.com/gag/aByr5q2)<!-- MEMES:END -->
+ - 6️⃣ [Bro missed](http://9gag.com/gag/avyLqm5)
+ - 😝 [Worth a Try](http://9gag.com/gag/aYQw0g7)
+ - 👉 [This man&#39;s a legend](http://9gag.com/gag/apRBMG8)<!-- MEMES:END -->
 
 --- 
 
