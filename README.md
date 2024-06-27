@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Test your Google knowledge with this official I/O Crossword](https://www.androidauthority.com/google-io-crossword-gemini-3455260/)
- - [Forget folding screens, Apple is working on stretchable ones](https://appleinsider.com/articles/24/06/27/forget-folding-screens-apple-is-working-on-stretchable-ones?utm_medium=rss)
- - [Google Cloud announces deals, including with Moody&#39;s, Thomson Reuters, and ZoomInfo, to &quot;ground&quot; responses from its enterprise AI chatbots in real-world facts &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240627/p22#a240627p22)<!-- TECH:END -->
+ - [Samsung Galaxy Watch Ultra, Watch 7, and Buds 3 leak in high-quality official renders](https://www.androidauthority.com/galaxy-watch-buds-renders-leak-3455310/)
+ - [Best Buy takes on Prime Day with its Member Deals Days sale that starts now](https://appleinsider.com/articles/24/06/27/best-buy-takes-on-prime-day-with-its-member-deals-days-sale-that-starts-now?utm_medium=rss)
+ - [Google says Gemma 2 will be available to researchers and developers through Vertex AI starting next month, including with a new 9B-parameter model &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240627/p28#a240627p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
