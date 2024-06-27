@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Favorite Cosplay From Fan Expo Dallas 2024](https://kotaku.com/fan-expo-dallas-2024-best-cosplay-costume-star-wars-1851562355)
- - [Razer BlackWidow V4 75% review](https://www.pcgamer.com/hardware/gaming-keyboards/razer-blackwidow-v4-75-review)
- - [FromSoftware all but gets on its knees and begs Shadow of the Erdtree players to take their Scadutree supplements, posts a map to one on Steam](https://www.pcgamer.com/games/rpg/fromsoftware-all-but-gets-on-its-knees-and-begs-shadow-of-the-erdtree-players-to-take-their-scadutree-supplements-posts-a-map-to-an-early-game-location-on-steam)<!-- GAME:END -->
+ - [Xbox games will soon be playable via your Amazon Fire TV Stick](https://www.polygon.com/24187316/xbox-amazon-fire-tv-partnership)
+ - [The deadliest weapon in Shadow of the Erdtree is a bottle of perfume which can evaporate the DLC&#39;s final boss in 13 seconds, thanks to hitbox buffoonery](https://www.pcgamer.com/games/rpg/the-deadliest-weapon-in-shadow-of-the-erdtree-is-a-bottle-of-perfume-which-can-evaporate-the-dlc-s-final-boss-in-13-seconds-thanks-to-hitbox-buffoonery)
+ - [Concord seems under-anticipated: Sony&#39;s hero shooter has some juice](https://www.pcgamer.com/games/fps/concord-hands-on-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
