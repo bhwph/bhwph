@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro missed](http://9gag.com/gag/avyLqm5)
- - 😝 [Worth a Try](http://9gag.com/gag/aYQw0g7)
- - 👉 [This man&#39;s a legend](http://9gag.com/gag/apRBMG8)<!-- MEMES:END -->
+ - 6️⃣ [London situation](http://9gag.com/gag/aRBVp5A)
+ - 😝 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
+ - 👉 [Lisa gets it](http://9gag.com/gag/a7obg5e)<!-- MEMES:END -->
 
 --- 
 
