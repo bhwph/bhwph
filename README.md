@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto investment app Abra and CEO William Barhydt settle with 25 US states for operating without proper licenses and will return up to $82.1M to US customers &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240626/p43#a240626p43)
- - [You will never guess Wordle’s terrible, hilarious original name](https://www.theverge.com/24186786/wordle-original-name-mr-bugs-wordy-nugz-wardle)
- - [Save $300 on the Lenovo Yoga Book 9i dual-screen laptop](https://www.androidauthority.com/lenovo-yoga-book-9i-deal-3455098/)<!-- TECH:END -->
+ - [Best Portable Mini Bluetooth Speakers for 2024: Top Compact Waterproof Wireless Speakers](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)
+ - [ORA, a blockchain project to incorporate AI into decentralized apps, raised a $20M Series A from Polychain, HF0, HashKey Capital, and others &lpar;Bradley Keoun/CoinDesk&rpar;](http://www.techmeme.com/240626/p45#a240626p45)
+ - [This AI Biographer Wants to Help You Tell Your Life Story](https://www.cnet.com/tech/services-and-software/this-ai-biographer-wants-to-help-you-tell-your-life-story/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
