@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Weather&#39;s heatwave predictions probably won&#39;t apply to you](https://appleinsider.com/articles/24/06/28/apple-weathers-heatwave-predictions-probably-wont-apply-to-you?utm_medium=rss)
- - [Beats Pill, Final Cut Camera, and even beta RCS are out now on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/28/beats-pill-final-cut-camera-and-even-beta-rcs-are-out-now-on-the-appleinsider-podcast?utm_medium=rss)
- - [Home Generator Buying Guide: What to Consider to Get the Best Power Backup](https://www.cnet.com/home/energy-and-utilities/home-generator-buying-guide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This underrated show on Hulu deserves more attention](https://www.androidauthority.com/underrated-show-hulu-superstore-3454785/)
+ - [How to turn DAS into NAS using a Raspberry Pi and OpenMediaVault](https://www.androidauthority.com/raspberry-pi-das-nas-openmediavault-3455635/)
+ - [Sources: Italy launched a probe into Google in 2022 for &amp;euro;1B in unpaid taxes and penalties from 2018 to 2022, seven years after settling another tax dispute &lpar;Emilio Parodi/Reuters&rpar;](http://www.techmeme.com/240628/p13#a240628p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
