@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Based on a true story](http://9gag.com/gag/aRBVbOq)
- - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
- - 👉 [Hmmmmm](http://9gag.com/gag/aByrAAO)<!-- MEMES:END -->
+ - 6️⃣ [Not today](http://9gag.com/gag/agmNWz1)
+ - 😝 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)
+ - 👉 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)<!-- MEMES:END -->
 
 --- 
 
