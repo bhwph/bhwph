@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Employees block woman trying to leave without paying](http://9gag.com/gag/ajPnwy0)
- - 😝 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
- - 👉 [Judged by color](http://9gag.com/gag/ayNnAy8)<!-- MEMES:END -->
+ - 6️⃣ [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
+ - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
+ - 👉 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)<!-- MEMES:END -->
 
 --- 
 
