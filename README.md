@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are you buying too much phone? Here’s how much you should spend on your device.](https://www.androidauthority.com/how-much-spend-on-smartphone-3452925/)
- - [More YouTube Premium plans are on the way](https://www.androidauthority.com/more-youtube-premium-plans-coming-3455595/)
- - [Download Offline Maps on Your iPhone Before Traveling for the Fourth of July](https://www.cnet.com/tech/mobile/download-offline-maps-on-your-iphone-before-traveling-for-the-fourth-of-july/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Weather&#39;s heatwave predictions probably won&#39;t apply to you](https://appleinsider.com/articles/24/06/28/apple-weathers-heatwave-predictions-probably-wont-apply-to-you?utm_medium=rss)
+ - [Beats Pill, Final Cut Camera, and even beta RCS are out now on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/28/beats-pill-final-cut-camera-and-even-beta-rcs-are-out-now-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Home Generator Buying Guide: What to Consider to Get the Best Power Backup](https://www.cnet.com/home/energy-and-utilities/home-generator-buying-guide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
