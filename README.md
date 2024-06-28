@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Be comfortable!](http://9gag.com/gag/agmNDL6)
- - 😝 [Judged by color](http://9gag.com/gag/ayNnAy8)
- - 👉 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)<!-- MEMES:END -->
+ - 6️⃣ [J.K. Trolling](http://9gag.com/gag/abAbnNL)
+ - 😝 [ICantBeliveThatWorked](http://9gag.com/gag/a4PLgw1)
+ - 👉 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)<!-- MEMES:END -->
 
 --- 
 
