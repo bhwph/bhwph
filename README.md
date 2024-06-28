@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Vehicle Motion Cues in iOS 18 to reduce motion sickness](https://appleinsider.com/inside/ios-18/tips/how-to-use-vehicle-motion-cues-in-ios-18-to-reduce-motion-sickness?utm_medium=rss)
- - [Google Play Store’s Cubes feature now goes by a different name &lpar;APK teardown&rpar;](https://www.androidauthority.com/play-store-collections-apk-teardown-3455728/)
- - [Your Thermostat Can Save You Money This Summer: Here&#39;s How](https://www.cnet.com/home/energy-and-utilities/your-thermostat-can-save-you-money-this-summer-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Ring: Two decades of rumors and speculation about a smart ring](https://appleinsider.com/articles/24/06/28/apple-ring-two-decades-of-rumors-and-speculation-about-a-smart-ring?utm_medium=rss)
+ - [The White House will host the first-ever White House Creator Economy Conference in August to &quot;emphasize the Administration&#39;s commitment to creators&quot; &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240628/p17#a240628p17)
+ - [Microsoft AI CEO thinks you agreed to a ‘social contract’ for AI training](https://www.androidauthority.com/microsoft-ai-ceo-interview-3455794/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
