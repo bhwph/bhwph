@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [London situation](http://9gag.com/gag/aRBVp5A)
- - 😝 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
- - 👉 [Lisa gets it](http://9gag.com/gag/a7obg5e)<!-- MEMES:END -->
+ - 6️⃣ [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
+ - 😝 [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)
+ - 👉 [ICantBeliveThatWorked](http://9gag.com/gag/a4PLgw1)<!-- MEMES:END -->
 
 --- 
 
