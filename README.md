@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber and Lyft agree to pay drivers in Massachusetts a minimum wage and give them some benefits, and pay a combined $175M to the state to settle a 2020 lawsuit &lpar;Chris Lisinski/State House News Service&rpar;](http://www.techmeme.com/240627/p36#a240627p36)
- - [FCC proposes 60-day unlocking rule for all mobile phones](https://www.androidauthority.com/fcc-mobile-unlocking-proposal-3455448/)
- - [The New York Times’ excellent word search game is now in its Games app](https://www.theverge.com/2024/6/27/24187656/new-york-times-strands-word-search-games-app)<!-- TECH:END -->
+ - [A look at Dubai-based Bybit, whose co-founder says it became the world&#39;s second largest crypto exchange by volume partly by serving former FTX users &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240627/p40#a240627p40)
+ - [Perplexity AI: the answer engine with a lot of question marks](https://www.theverge.com/24187792/perplexity-ai-news-updates)
+ - [Elden Ring DLC: Did You Miss These Easy-To-Find Scadutree Fragments?](https://www.cnet.com/tech/gaming/elden-ring-dlc-did-you-miss-these-easy-to-find-scadutree-fragments/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
