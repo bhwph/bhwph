@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Amazon prime](http://9gag.com/gag/aRBVbnM)
- - 😝 [Wtf](http://9gag.com/gag/an7Bmjb)
- - 👉 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)<!-- MEMES:END -->
+ - 6️⃣ [3.. 2.. 1..](http://9gag.com/gag/a1mYj0w)
+ - 😝 [Cheers](http://9gag.com/gag/aKGBMw1)
+ - 👉 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)<!-- MEMES:END -->
 
 --- 
 
