@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wow](http://9gag.com/gag/an7B0LB)
- - 😝 [When she&#39;s safe](http://9gag.com/gag/aAyp7mR)
- - 👉 [Hippo eats a Coconut](http://9gag.com/gag/apRBX25)<!-- MEMES:END -->
+ - 6️⃣ [Impressive clouds](http://9gag.com/gag/a7obRee)
+ - 😝 [Bro missed](http://9gag.com/gag/avyLqm5)
+ - 👉 [Food thief has been defeated](http://9gag.com/gag/aryRL5K)<!-- MEMES:END -->
 
 --- 
 
