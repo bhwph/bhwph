@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Impressive clouds](http://9gag.com/gag/a7obRee)
- - 😝 [Bro missed](http://9gag.com/gag/avyLqm5)
- - 👉 [Food thief has been defeated](http://9gag.com/gag/aryRL5K)<!-- MEMES:END -->
+ - 6️⃣ [Be comfortable!](http://9gag.com/gag/agmNDL6)
+ - 😝 [Judged by color](http://9gag.com/gag/ayNnAy8)
+ - 👉 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)<!-- MEMES:END -->
 
 --- 
 
