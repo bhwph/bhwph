@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Box sets and 4K Blu-rays from the Criterion Collection are on sale](https://www.polygon.com/deals/24188281/criterion-collection-4k-blu-ray-movies-barnes-and-noble-deal-sale)
- - [Olympic Athlete Keeps Bringing Yu-Gi-Oh Cards To His Races—And Winning](https://kotaku.com/olympic-athlete-keeps-bringing-yu-gi-oh-cards-to-his-ra-1851566955)
- - [Dropout’s surprise new show is a slumber party hosted by drag star Monét X Change](https://www.polygon.com/24188221/dropout-monet-x-change-slumber-party-show)<!-- GAME:END -->
+ - [Player laments the fall of Soulcalibur, Tekken director Harada responds with a literal essay about it: &#39;I don&#39;t think the fire of Project Soul has been extinguished&#39;](https://www.pcgamer.com/games/fighting/player-laments-the-fall-of-soulcalibur-tekken-director-harada-responds-with-a-literal-essay-about-it-i-dont-think-the-fire-of-project-soul-has-been-extinguished)
+ - [Elden Ring: Shadow of the Erdtree claws its way back to a &#39;Mostly Positive&#39; rating on Steam: &#39;Don&#39;t listen to the negativity. Big sword still go brrr&#39;](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-claws-its-way-back-to-a-mostly-positive-rating-on-steam-dont-listen-to-the-negativity-big-sword-still-go-brrr)
+ - [A new action-RPG inspired by Dark Messiah of Might and Magic looks almost too good to be true, and some people are worried it&#39;s The Day Before all over again](https://www.pcgamer.com/games/action/a-new-action-rpg-inspired-by-dark-messiah-of-might-and-magic-looks-almost-too-good-to-be-true-and-some-people-are-worried-its-the-day-before-all-over-again)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
