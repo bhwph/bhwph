@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What SCOTUS just did to broadband, the right to repair, the environment, and more](https://www.theverge.com/24188365/chevron-scotus-net-neutrality-dmca-visa-fcc-ftc-epa)
- - [ZeroEyes, a gun detection video analytics and alert service, raised a $53M Series B led by Sorenson Capital, and says it has ~400 clients in 42 US states &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240628/p19#a240628p19)
- - [The 19 Best Movies on Amazon Prime Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
+ - [eBay&#39;s 4th of July coupon knocks 20% off popular tech](https://appleinsider.com/articles/24/06/28/ebays-4th-of-july-coupon-knocks-20-off-popular-tech?utm_medium=rss)
+ - [Hot deal for gamers: The Samsung Odyssey G32A gaming monitor is just $130 right now!](https://www.androidauthority.com/samsung-odyssey-g32a-monitor-deal-3455854/)
+ - [Here comes a Meta Ray-Bans challenger with ChatGPT-4o and a camera](https://www.theverge.com/2024/6/28/24188457/solos-airgo-vision-glasses-chatgpt-ray-ban-meta-competitor)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
