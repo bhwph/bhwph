@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s FSR 3.1 finally arrives, sporting an improved upscaler for less ghosting, flickering, and shimmering in games](https://www.pcgamer.com/hardware/graphics-cards/amds-fsr-31-finally-arrives-sporting-an-improved-upscaler-for-less-ghosting-flickering-and-shimmering-in-games)
- - [Magic: The Gathering reveals Foundations, a new set expressly made for beginners](https://www.polygon.com/24187331/mtg-foundations-announcement-release-date-price)
- - [I&#39;m now hooked on Starfield, and it&#39;s all thanks to its recent game-changing upgrade](https://www.pcgamer.com/games/rpg/im-now-hooked-on-starfield-and-its-all-thanks-to-its-recent-game-changing-upgrade)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for July 1 to 5](https://news.xbox.com/en-us/2024/06/28/next-week-on-xbox-new-games-for-july-1-to-5/)
+ - [Where to unlock Viper in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24186727/unlock-viper-location-how-to-quest-vpr)
+ - [Where to unlock Pictomancer in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24186702/pictomancer-unlock-location-how-to-quest-pct)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
