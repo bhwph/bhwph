@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for July 1 to 5](https://news.xbox.com/en-us/2024/06/28/next-week-on-xbox-new-games-for-july-1-to-5/)
- - [Where to unlock Viper in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24186727/unlock-viper-location-how-to-quest-vpr)
- - [Where to unlock Pictomancer in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24186702/pictomancer-unlock-location-how-to-quest-pct)<!-- GAME:END -->
+ - [Pink Mercy is back in Overwatch 2, and apart from ruining years of black market accounts, it vaulted the FPS onto Steam&#39;s best-sellers list](https://www.pcgamer.com/games/fps/pink-mercy-is-back-in-overwatch-2-and-apart-from-ruining-years-of-black-market-accounts-it-vaulted-the-fps-onto-steams-best-sellers-list)
+ - [Tiana’s Bayou Adventure is way better than Splash Mountain probably deserved](https://www.polygon.com/24187687/tianas-bayou-adventure-splash-mountain-review-walt-disney-world)
+ - [Share of the Week: Summer](https://blog.playstation.com/2024/06/28/share-of-the-week-summer-3/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
