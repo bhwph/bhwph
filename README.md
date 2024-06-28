@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Player laments the fall of Soulcalibur, Tekken director Harada responds with a literal essay about it: &#39;I don&#39;t think the fire of Project Soul has been extinguished&#39;](https://www.pcgamer.com/games/fighting/player-laments-the-fall-of-soulcalibur-tekken-director-harada-responds-with-a-literal-essay-about-it-i-dont-think-the-fire-of-project-soul-has-been-extinguished)
- - [Elden Ring: Shadow of the Erdtree claws its way back to a &#39;Mostly Positive&#39; rating on Steam: &#39;Don&#39;t listen to the negativity. Big sword still go brrr&#39;](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-claws-its-way-back-to-a-mostly-positive-rating-on-steam-dont-listen-to-the-negativity-big-sword-still-go-brrr)
- - [A new action-RPG inspired by Dark Messiah of Might and Magic looks almost too good to be true, and some people are worried it&#39;s The Day Before all over again](https://www.pcgamer.com/games/action/a-new-action-rpg-inspired-by-dark-messiah-of-might-and-magic-looks-almost-too-good-to-be-true-and-some-people-are-worried-its-the-day-before-all-over-again)<!-- GAME:END -->
+ - [Sir Moore questline walkthrough for Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24188315/sir-moore-sote-behind-remain-sad-forager-brood-cookbook)
+ - [They&#39;re gonna let us kill Conor McGregor in Hitman](https://www.pcgamer.com/games/action/theyre-gonna-let-us-kill-conor-mcgregor-in-hitman)
+ - [PC gaming is mainstream. Now what?](https://www.pcgamer.com/pc-gaming-is-mainstream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
