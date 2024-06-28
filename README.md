@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Ring: Two decades of rumors and speculation about a smart ring](https://appleinsider.com/articles/24/06/28/apple-ring-two-decades-of-rumors-and-speculation-about-a-smart-ring?utm_medium=rss)
- - [The White House will host the first-ever White House Creator Economy Conference in August to &quot;emphasize the Administration&#39;s commitment to creators&quot; &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240628/p17#a240628p17)
- - [Microsoft AI CEO thinks you agreed to a ‘social contract’ for AI training](https://www.androidauthority.com/microsoft-ai-ceo-interview-3455794/)<!-- TECH:END -->
+ - [What SCOTUS just did to broadband, the right to repair, the environment, and more](https://www.theverge.com/24188365/chevron-scotus-net-neutrality-dmca-visa-fcc-ftc-epa)
+ - [ZeroEyes, a gun detection video analytics and alert service, raised a $53M Series B led by Sorenson Capital, and says it has ~400 clients in 42 US states &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240628/p19#a240628p19)
+ - [The 19 Best Movies on Amazon Prime Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
