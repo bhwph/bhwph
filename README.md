@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus ROG Strix X670E-I Gaming WiFi review](https://www.pcgamer.com/hardware/motherboards/asus-rog-strix-x670e-i-gaming-wifi-review)
- - [Pokémon Go ‘Whispering in the Woods’ Masterwork Research tasks and rewards so far](https://www.polygon.com/pokemon-go-guide/24188008/whispering-in-the-woods-masterwork-research-tasks-rewards-shiny-celebi)
- - [Pokémon Go ‘8th Anniversary Party’ Timed Research tasks and event schedule](https://www.polygon.com/pokemon-go-guide/24187396/8th-anniversary-party-timed-research-tasks-event-schedule)<!-- GAME:END -->
+ - [AMD&#39;s FSR 3.1 finally arrives, sporting an improved upscaler for less ghosting, flickering, and shimmering in games](https://www.pcgamer.com/hardware/graphics-cards/amds-fsr-31-finally-arrives-sporting-an-improved-upscaler-for-less-ghosting-flickering-and-shimmering-in-games)
+ - [Magic: The Gathering reveals Foundations, a new set expressly made for beginners](https://www.polygon.com/24187331/mtg-foundations-announcement-release-date-price)
+ - [I&#39;m now hooked on Starfield, and it&#39;s all thanks to its recent game-changing upgrade](https://www.pcgamer.com/games/rpg/im-now-hooked-on-starfield-and-its-all-thanks-to-its-recent-game-changing-upgrade)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
