@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EFF, the Center for Democracy &amp; Technology, and others file a brief saying the US law forcing ByteDance to sell TikTok or face a ban is unconstitutional &lpar;Electronic Frontier Foundation&rpar;](http://www.techmeme.com/240628/p1#a240628p1)
- - [It’s not just you: TikTok is down right now](https://www.androidauthority.com/tiktok-is-down-right-now-3455493/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 28, #383](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-28-383/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tencent&#39;s shares are up 28% so far in 2024 after the strong debut of Dungeon &amp; Fighter Mobile, adding $91B in market value, more than any other Chinese company &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/240628/p3#a240628p3)
+ - [Samsung Galaxy Z Fold 6 and Flip 6 get shown off in massive leak from retailer](https://www.androidauthority.com/samsung-galaxy-z-fold-6-flip-6-massive-retailer-leak-3455499/)
+ - [ChatGPT and Microsoft&#39;s Copilot seemingly drew on conservative misinformation to repeat a false claim about CNN&#39;s debate broadcast being on a &quot;1-2 minute delay&quot; &lpar;Ben Goggin/NBC News&rpar;](http://www.techmeme.com/240628/p2#a240628p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
