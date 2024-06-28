@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surface Pro Copilot+ review: the best Microsoft tablet yet, with a versatile Flex keyboard and powerful AI features but has noticeable heat and fan noise issues &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/240628/p5#a240628p5)
- - [Samsung takes inspiration from the Note 7 for the Galaxy S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-thinner-design-3455568/)
- - [Thought the Rabbit R1 saga couldn’t get worse? Well, it just did.](https://www.androidauthority.com/rabbit-r1-security-flaw-3455555/)<!-- TECH:END -->
+ - [Are you buying too much phone? Here’s how much you should spend on your device.](https://www.androidauthority.com/how-much-spend-on-smartphone-3452925/)
+ - [More YouTube Premium plans are on the way](https://www.androidauthority.com/more-youtube-premium-plans-coming-3455595/)
+ - [Download Offline Maps on Your iPhone Before Traveling for the Fourth of July](https://www.cnet.com/tech/mobile/download-offline-maps-on-your-iphone-before-traveling-for-the-fourth-of-july/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
