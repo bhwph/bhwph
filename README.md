@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
- - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
- - 👉 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)<!-- MEMES:END -->
+ - 6️⃣ [Atlanta Dog fights 13 coyotes attacking his sheep. Kills 8 on the spot. Goes missing 4 days. Comes home after killing the remaining 5.](http://9gag.com/gag/a87jNBO)
+ - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
+ - 👉 [Cheers](http://9gag.com/gag/aKGBMw1)<!-- MEMES:END -->
 
 --- 
 
