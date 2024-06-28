@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M3 MacBook Pro 14-inch with 16GB RAM drops to $1,599](https://appleinsider.com/articles/24/06/28/apples-m3-macbook-pro-14-inch-with-16gb-ram-drops-to-1599?utm_medium=rss)
- - [Sources: Hebbia, which is developing an AI-powered document search tool, raised a nearly $100M Series B led by a16z at a valuation between $700M and $800M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240627/p41#a240627p41)
- - [Helix Mattresses Review 2024: Options for All Sleeper Types](https://www.cnet.com/health/sleep/helix-mattress-reviews/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The EFF, the Center for Democracy &amp; Technology, and others file a brief saying the US law forcing ByteDance to sell TikTok or face a ban is unconstitutional &lpar;Electronic Frontier Foundation&rpar;](http://www.techmeme.com/240628/p1#a240628p1)
+ - [It’s not just you: TikTok is down right now](https://www.androidauthority.com/tiktok-is-down-right-now-3455493/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 28, #383](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-28-383/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
