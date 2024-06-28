@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This underrated show on Hulu deserves more attention](https://www.androidauthority.com/underrated-show-hulu-superstore-3454785/)
- - [How to turn DAS into NAS using a Raspberry Pi and OpenMediaVault](https://www.androidauthority.com/raspberry-pi-das-nas-openmediavault-3455635/)
- - [Sources: Italy launched a probe into Google in 2022 for &amp;euro;1B in unpaid taxes and penalties from 2018 to 2022, seven years after settling another tax dispute &lpar;Emilio Parodi/Reuters&rpar;](http://www.techmeme.com/240628/p13#a240628p13)<!-- TECH:END -->
+ - [How to use Vehicle Motion Cues in iOS 18 to reduce motion sickness](https://appleinsider.com/inside/ios-18/tips/how-to-use-vehicle-motion-cues-in-ios-18-to-reduce-motion-sickness?utm_medium=rss)
+ - [Google Play Store’s Cubes feature now goes by a different name &lpar;APK teardown&rpar;](https://www.androidauthority.com/play-store-collections-apk-teardown-3455728/)
+ - [Your Thermostat Can Save You Money This Summer: Here&#39;s How](https://www.cnet.com/home/energy-and-utilities/your-thermostat-can-save-you-money-this-summer-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
