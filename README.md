@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pink Mercy is back in Overwatch 2, and apart from ruining years of black market accounts, it vaulted the FPS onto Steam&#39;s best-sellers list](https://www.pcgamer.com/games/fps/pink-mercy-is-back-in-overwatch-2-and-apart-from-ruining-years-of-black-market-accounts-it-vaulted-the-fps-onto-steams-best-sellers-list)
- - [Tiana’s Bayou Adventure is way better than Splash Mountain probably deserved](https://www.polygon.com/24187687/tianas-bayou-adventure-splash-mountain-review-walt-disney-world)
- - [Share of the Week: Summer](https://blog.playstation.com/2024/06/28/share-of-the-week-summer-3/)<!-- GAME:END -->
+ - [Box sets and 4K Blu-rays from the Criterion Collection are on sale](https://www.polygon.com/deals/24188281/criterion-collection-4k-blu-ray-movies-barnes-and-noble-deal-sale)
+ - [Olympic Athlete Keeps Bringing Yu-Gi-Oh Cards To His Races—And Winning](https://kotaku.com/olympic-athlete-keeps-bringing-yu-gi-oh-cards-to-his-ra-1851566955)
+ - [Dropout’s surprise new show is a slumber party hosted by drag star Monét X Change](https://www.polygon.com/24188221/dropout-monet-x-change-slumber-party-show)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
