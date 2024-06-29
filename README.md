@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is the Pixel 8a waterproof? I put it through three real-life tests to find out](https://www.androidauthority.com/google-pixel-8a-waterproof-3445479/)
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
- - [Redbox&#39;s owner, Chicken Soup for the Soul Entertainment, files for bankruptcy protection; Chicken Soup took on $325M in debt when it acquired Redbox in 2022 &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/240629/p9#a240629p9)<!-- TECH:END -->
+ - [T-Mobile is becoming the mirror image of the carriers it claimed to fight against](https://www.androidauthority.com/t-mobile-uncarrier-mirror-3447482/)
+ - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
+ - [Don&#39;t Skip the SPF This Summer: A Dermatologist Shares Sun Safety Tips](https://www.cnet.com/health/personal-care/dont-skip-the-spf-this-summer-a-dermatologist-shares-sun-safety-tips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
