@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)
- - 😝 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)
- - 👉 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)<!-- MEMES:END -->
+ - 6️⃣ [Bamboozled](http://9gag.com/gag/a87jBde)
+ - 😝 [Hmmmmm](http://9gag.com/gag/aByrAAO)
+ - 👉 [Democrats after the Biden-Trump debate!](http://9gag.com/gag/an7B6VE)<!-- MEMES:END -->
 
 --- 
 
