@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, June 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-29-2024)
- - [Kalki 2898 AD has the ultimate recipe for a sci-fi epic: Star Wars + Hindu myth + RRR](https://www.polygon.com/reviews/24188449/kalki-2898-ad-indian-sci-fi-epic-amitabh-bachchan)
- - [It would take a lot to get OG Fallout lead Tim Cain to return to the series: &#39;The very first question out of my mouth is &#39;What&#39;s new about it?&#39;&#39;](https://www.pcgamer.com/games/fallout/it-would-take-a-lot-to-get-og-fallout-lead-tim-cain-to-return-to-the-series-the-very-first-question-out-of-my-mouth-is-whats-new-about-it)<!-- GAME:END -->
+ - [Dr Disrespect Admits &#39;Sexting&#39; Minor And More Of The Week&#39;s Top Stories](https://kotaku.com/dr-disrespect-twitch-ban-gaming-news-1851566623)
+ - [The best movies to watch for free on YouTube](https://www.polygon.com/what-to-watch/24184669/best-movies-youtube-free-train-to-busan-true-grit)
+ - [Today&#39;s Wordle answer for Saturday, June 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-29-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
