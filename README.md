@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile is becoming the mirror image of the carriers it claimed to fight against](https://www.androidauthority.com/t-mobile-uncarrier-mirror-3447482/)
- - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
- - [Don&#39;t Skip the SPF This Summer: A Dermatologist Shares Sun Safety Tips](https://www.cnet.com/health/personal-care/dont-skip-the-spf-this-summer-a-dermatologist-shares-sun-safety-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save 51% on Beats Studio Pro Headphones at Woot Right Now](https://www.cnet.com/deals/save-51on-beats-studio-pro-headphones-at-woot-right-now/#ftag=CAD590a51e)
+ - [6 Foods You Should Never Cook in the Air Fryer](https://www.cnet.com/how-to/6-foods-you-should-never-cook-in-an-air-fryer/#ftag=CAD590a51e)
+ - [Uber and Lyft now required to pay Massachusetts rideshare drivers $32 an hour](https://www.theverge.com/2024/6/29/24188851/uber-lyft-driver-minimum-wage-settlement-massachusetts-benefits-healthcare-sick-leave)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
