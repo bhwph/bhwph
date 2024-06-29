@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Photos: This is the canceled Pixel Fold that wasn’t good enough for Google](https://www.androidauthority.com/canceled-first-gen-pixel-fold-3454634/)
- - [How to manage deleted files on iOS, iPadOS, and macOS](https://www.theverge.com/24188104/ios-icloud-iphone-mac-delete-files)
- - [How some doctors are using the Apple Watch to diagnose and help their patients manage medical conditions, despite the availability of FDA-approved devices &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240629/p7#a240629p7)<!-- TECH:END -->
+ - [Is the Pixel 8a waterproof? I put it through three real-life tests to find out](https://www.androidauthority.com/google-pixel-8a-waterproof-3445479/)
+ - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
+ - [Redbox&#39;s owner, Chicken Soup for the Soul Entertainment, files for bankruptcy protection; Chicken Soup took on $325M in debt when it acquired Redbox in 2022 &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/240629/p9#a240629p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
