@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Every now and then I rewatch this](http://9gag.com/gag/aAypnwR)
+ - 6️⃣ [Powerful](http://9gag.com/gag/aD2mB1Z)
  - 😝 [I think i made a new friend. Racism uniting people.](http://9gag.com/gag/avyLYnX)
- - 👉 [Don&#39;t waste your time, you can&#39;t fix her](http://9gag.com/gag/azxVNEm)<!-- MEMES:END -->
+ - 👉 [This actually explains a lot](http://9gag.com/gag/aAypWEE)<!-- MEMES:END -->
 
 --- 
 
