@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bamboozled](http://9gag.com/gag/a87jBde)
- - 😝 [Hmmmmm](http://9gag.com/gag/aByrAAO)
- - 👉 [Democrats after the Biden-Trump debate!](http://9gag.com/gag/an7B6VE)<!-- MEMES:END -->
+ - 6️⃣ [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
+ - 😝 [Cheers](http://9gag.com/gag/aKGBMw1)
+ - 👉 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)<!-- MEMES:END -->
 
 --- 
 
