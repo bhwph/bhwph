@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Amazon Deals: Save Big on New Tech, Home Goods, Outdoor Gear and More](https://www.cnet.com/deals/best-amazon-deals-save-big-on-new-tech-home-goods-outdoor-gear-under-100/#ftag=CAD590a51e)
- - [You Asked How to Use iPhone&#39;s iMessage on Windows. We Have Answers](https://www.cnet.com/tech/services-and-software/you-asked-how-to-use-iphones-imessage-on-windows-we-have-answers/#ftag=CAD590a51e)
- - [Before iOS 18 Is Released This Fall, Don&#39;t Miss These iOS 17.2 Features](https://www.cnet.com/tech/services-and-software/before-ios-18-is-released-this-fall-dont-miss-these-ios-17-2-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s a demo of Circle to Search’s upcoming QR code scan feature](https://www.androidauthority.com/circle-to-search-qr-code-scan-feature-demo-3455910/)
+ - [How NASA Is Using Machine Learning to Predict and Fight Wildfires](https://www.cnet.com/science/climate/how-nasa-is-using-machine-learning-to-predict-and-fight-wildfires/#ftag=CAD590a51e)
+ - [Heat Waves Are Sweeping Across the US. This Clickable Map Provides a New Warning System](https://www.cnet.com/science/heat-waves-are-sweeping-across-the-us-this-clickable-map-provides-a-new-warning-system/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
