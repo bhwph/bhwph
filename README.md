@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All hail the white dragon](http://9gag.com/gag/azxVW5j)
- - 😝 [The council of men approved...](http://9gag.com/gag/azxVnwK)
- - 👉 [Sauron&#39;s new ring that cannot be destroyed even on the Mount of Doom](http://9gag.com/gag/adBpmq9)<!-- MEMES:END -->
+ - 6️⃣ [Wyd](http://9gag.com/gag/adBpGVB)
+ - 😝 [There is no way\u2026](http://9gag.com/gag/azxV0gZ)
+ - 👉 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)<!-- MEMES:END -->
 
 --- 
 
