@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [eBay&#39;s 4th of July coupon knocks 20% off popular tech](https://appleinsider.com/articles/24/06/28/ebays-4th-of-july-coupon-knocks-20-off-popular-tech?utm_medium=rss)
- - [Hot deal for gamers: The Samsung Odyssey G32A gaming monitor is just $130 right now!](https://www.androidauthority.com/samsung-odyssey-g32a-monitor-deal-3455854/)
- - [Here comes a Meta Ray-Bans challenger with ChatGPT-4o and a camera](https://www.theverge.com/2024/6/28/24188457/solos-airgo-vision-glasses-chatgpt-ray-ban-meta-competitor)<!-- TECH:END -->
+ - [&#39;Zenless Zone Zero&#39; officially lands on iPhone &amp; iPad on July 4](https://appleinsider.com/articles/24/06/29/zenless-zone-zero-officially-lands-on-iphone-ipad-on-july-4?utm_medium=rss)
+ - [Source: Microsoft told over a dozen Texas agencies and public universities that their emails were exposed in the Russian hack of Microsoft, disclosed in January &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/240628/p27#a240628p27)
+ - [A look at the possible impact of SCOTUS overturning Chevron deference and curbing federal agencies&#39; power on net neutrality, Big Tech regulation, and more &lpar;The Verge&rpar;](http://www.techmeme.com/240628/p26#a240628p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
