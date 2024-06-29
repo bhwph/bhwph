@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s a demo of Circle to Search’s upcoming QR code scan feature](https://www.androidauthority.com/circle-to-search-qr-code-scan-feature-demo-3455910/)
- - [How NASA Is Using Machine Learning to Predict and Fight Wildfires](https://www.cnet.com/science/climate/how-nasa-is-using-machine-learning-to-predict-and-fight-wildfires/#ftag=CAD590a51e)
- - [Heat Waves Are Sweeping Across the US. This Clickable Map Provides a New Warning System](https://www.cnet.com/science/heat-waves-are-sweeping-across-the-us-this-clickable-map-provides-a-new-warning-system/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Photos: This is the canceled Pixel Fold that wasn’t good enough for Google](https://www.androidauthority.com/canceled-first-gen-pixel-fold-3454634/)
+ - [How to manage deleted files on iOS, iPadOS, and macOS](https://www.theverge.com/24188104/ios-icloud-iphone-mac-delete-files)
+ - [How some doctors are using the Apple Watch to diagnose and help their patients manage medical conditions, despite the availability of FDA-approved devices &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240629/p7#a240629p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
