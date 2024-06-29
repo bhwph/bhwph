@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I already thought Elden Ring: Shadow of the Erdtree&#39;s new throwing weapons were sick, but at least one of them also seems to have near-infinite range](https://www.pcgamer.com/games/rpg/i-already-thought-elden-ring-shadow-of-the-erdtrees-new-throwing-weapons-were-sick-but-at-least-one-of-them-also-seems-to-have-near-infinite-range)
- - [Hori&#39;s new &#39;Steam Controller&#39; might be the first third party Steam hardware we&#39;ve seen in years, but where are its trackpads, its adorable owl-like face?](https://www.pcgamer.com/hardware/horis-new-steam-controller-might-be-the-first-third-party-steam-hardware-weve-seen-in-almost-a-decade-but-where-are-its-trackpads-its-adorable-owl-like-face)
- - [Yorgos Lanthimos on how to be an actor in his movies: ‘You might feel ridiculous’](https://www.polygon.com/24188016/kinds-of-kindness-yorgos-lanthimos-joe-alwyn-interview)<!-- GAME:END -->
+ - [Check out City Bus Manager, which lets you set up routes in your hometown using real world map data](https://www.pcgamer.com/games/sim/check-out-city-bus-manager-which-lets-you-set-up-routes-in-your-hometown-using-real-world-map-data)
+ - [Check out this visual novel that blends 3D and 2D visuals in a story about teens who&#39;ve &lpar;mostly&rpar; avoided the end of the world](https://www.pcgamer.com/games/adventure/check-out-this-visual-novel-that-blends-3d-and-2d-visuals-in-a-story-about-teens-whove-mostly-avoided-the-end-of-the-world)
+ - [I already thought Elden Ring: Shadow of the Erdtree&#39;s new throwing weapons were sick, but at least one of them also seems to have near-infinite range](https://www.pcgamer.com/games/rpg/i-already-thought-elden-ring-shadow-of-the-erdtrees-new-throwing-weapons-were-sick-but-at-least-one-of-them-also-seems-to-have-near-infinite-range)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
