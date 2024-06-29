@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
- - 😝 [Cheers](http://9gag.com/gag/aKGBMw1)
- - 👉 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)<!-- MEMES:END -->
+ - 6️⃣ [There is no way\u2026](http://9gag.com/gag/azxV0gZ)
+ - 😝 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)
+ - 👉 [SBI is a pest of gaming community](http://9gag.com/gag/aqy2qoY)<!-- MEMES:END -->
 
 --- 
 
