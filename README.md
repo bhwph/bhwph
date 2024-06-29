@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tour de France 2024: How to Watch a Free Livestream](https://www.cnet.com/tech/services-and-software/tour-de-france-2024-how-to-watch-a-free-livestream/#ftag=CAD590a51e)
- - [A look at the disastrous launch of Stable Diffusion 3, which struggles to generate correct human anatomy, and concerns over the tool&#39;s new and different license &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240629/p5#a240629p5)
- - [Microsoft Surface Laptop 7th Edition review: great native app performance but emulated apps can be more battery intensive, and AI features feel gimmicky &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240629/p4#a240629p4)<!-- TECH:END -->
+ - [Best Amazon Deals: Save Big on New Tech, Home Goods, Outdoor Gear and More](https://www.cnet.com/deals/best-amazon-deals-save-big-on-new-tech-home-goods-outdoor-gear-under-100/#ftag=CAD590a51e)
+ - [You Asked How to Use iPhone&#39;s iMessage on Windows. We Have Answers](https://www.cnet.com/tech/services-and-software/you-asked-how-to-use-iphones-imessage-on-windows-we-have-answers/#ftag=CAD590a51e)
+ - [Before iOS 18 Is Released This Fall, Don&#39;t Miss These iOS 17.2 Features](https://www.cnet.com/tech/services-and-software/before-ios-18-is-released-this-fall-dont-miss-these-ios-17-2-features/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
