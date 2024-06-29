@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yorgos Lanthimos on how to be an actor in his movies: ‘You might feel ridiculous’](https://www.polygon.com/24188016/kinds-of-kindness-yorgos-lanthimos-joe-alwyn-interview)
- - [Toys &#39;R&#39; Us&#39; New AI-Generated Ad Is Truly Horrible And More Of The Week&#39;s Takes](https://kotaku.com/toys-r-us-ai-generated-ad-dkc-switch-1851566625)
- - [Dr Disrespect Admits &#39;Sexting&#39; Minor And More Of The Week&#39;s Top Stories](https://kotaku.com/dr-disrespect-twitch-ban-gaming-news-1851566623)<!-- GAME:END -->
+ - [I already thought Elden Ring: Shadow of the Erdtree&#39;s new throwing weapons were sick, but at least one of them also seems to have near-infinite range](https://www.pcgamer.com/games/rpg/i-already-thought-elden-ring-shadow-of-the-erdtrees-new-throwing-weapons-were-sick-but-at-least-one-of-them-also-seems-to-have-near-infinite-range)
+ - [Hori&#39;s new &#39;Steam Controller&#39; might be the first third party Steam hardware we&#39;ve seen in years, but where are its trackpads, its adorable owl-like face?](https://www.pcgamer.com/hardware/horis-new-steam-controller-might-be-the-first-third-party-steam-hardware-weve-seen-in-almost-a-decade-but-where-are-its-trackpads-its-adorable-owl-like-face)
+ - [Yorgos Lanthimos on how to be an actor in his movies: ‘You might feel ridiculous’](https://www.polygon.com/24188016/kinds-of-kindness-yorgos-lanthimos-joe-alwyn-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
