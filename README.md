@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dr Disrespect Admits &#39;Sexting&#39; Minor And More Of The Week&#39;s Top Stories](https://kotaku.com/dr-disrespect-twitch-ban-gaming-news-1851566623)
- - [The best movies to watch for free on YouTube](https://www.polygon.com/what-to-watch/24184669/best-movies-youtube-free-train-to-busan-true-grit)
- - [Today&#39;s Wordle answer for Saturday, June 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-29-2024)<!-- GAME:END -->
+ - [Yorgos Lanthimos on how to be an actor in his movies: ‘You might feel ridiculous’](https://www.polygon.com/24188016/kinds-of-kindness-yorgos-lanthimos-joe-alwyn-interview)
+ - [Toys &#39;R&#39; Us&#39; New AI-Generated Ad Is Truly Horrible And More Of The Week&#39;s Takes](https://kotaku.com/toys-r-us-ai-generated-ad-dkc-switch-1851566625)
+ - [Dr Disrespect Admits &#39;Sexting&#39; Minor And More Of The Week&#39;s Top Stories](https://kotaku.com/dr-disrespect-twitch-ban-gaming-news-1851566623)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
