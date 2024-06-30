@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Check out City Bus Manager, which lets you set up routes in your hometown using real world map data](https://www.pcgamer.com/games/sim/check-out-city-bus-manager-which-lets-you-set-up-routes-in-your-hometown-using-real-world-map-data)
- - [Check out this visual novel that blends 3D and 2D visuals in a story about teens who&#39;ve &lpar;mostly&rpar; avoided the end of the world](https://www.pcgamer.com/games/adventure/check-out-this-visual-novel-that-blends-3d-and-2d-visuals-in-a-story-about-teens-whove-mostly-avoided-the-end-of-the-world)
- - [I already thought Elden Ring: Shadow of the Erdtree&#39;s new throwing weapons were sick, but at least one of them also seems to have near-infinite range](https://www.pcgamer.com/games/rpg/i-already-thought-elden-ring-shadow-of-the-erdtrees-new-throwing-weapons-were-sick-but-at-least-one-of-them-also-seems-to-have-near-infinite-range)<!-- GAME:END -->
+ - [After three hours of attempts, Elden Ring folk hero Let Me Solo Her has beaten Shadow of the Erdtree&#39;s final boss⁠: &#39;Holy crap, I am shaking&#39;](https://www.pcgamer.com/games/rpg/after-three-hours-of-attempts-elden-ring-folk-hero-let-me-solo-her-has-beaten-shadow-of-the-erdtrees-final-boss-holy-crap-i-am-shaking)
+ - [BroShep&#39;s voice actor played so many weird alien side characters in Mass Effect he doesn&#39;t mind if people prefer FemShep: &#39;I&#39;m afraid you&#39;ll be forced to encounter me as Niftu Cal and Blasto and any vorcha you run into&#39;](https://www.pcgamer.com/games/rpg/brosheps-voice-actor-played-so-many-weird-alien-side-characters-in-mass-effect-he-doesnt-mind-if-people-prefer-femshep-im-afraid-youll-be-forced-to-encounter-me-as-niftu-cal-and-blasto-and-any-vorcha-you-run-into)
+ - [Check out City Bus Manager, which lets you set up routes in your hometown using real world map data](https://www.pcgamer.com/games/sim/check-out-city-bus-manager-which-lets-you-set-up-routes-in-your-hometown-using-real-world-map-data)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
