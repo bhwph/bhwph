@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best iPad Deals: Score Up to $200 Off on New Apple Tablets](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
- - [An interview with Plaid&#39;s first president, Jennifer Taylor, on expanding beyond its traditional fintech customers as its enterprise customer base crosses 1,000 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240630/p4#a240630p4)
- - [SK Hynix plans to invest ~$75B on chips through 2028, allocating ~80%, or $60B, on manufacturing HBM chips, as part of the parent company SK Group&#39;s bet on AI &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240630/p3#a240630p3)<!-- TECH:END -->
+ - [The portable speakers you need this summer](https://www.theverge.com/24188267/best-portable-bluetooth-speakers-boom-beats-installer)
+ - [New AirPods with IR camera coming to enhance Spatial Audio in Apple Vision Pro](https://appleinsider.com/articles/24/06/30/new-airpods-with-ir-camera-coming-to-enhance-spatial-audio-in-apple-vision-pro?utm_medium=rss)
+ - [Kaiko: the proportion of Bitcoin traded over weekends has fallen to 16% in 2024 so far, down from 28% in 2019, a trend likely accelerated by Bitcoin ETFs launch &lpar;Benjamin Taubman/Bloomberg&rpar;](http://www.techmeme.com/240630/p5#a240630p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
