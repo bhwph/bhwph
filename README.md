@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best iPad Deals: Score Up to $200 Off on New Apple Tablets](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
  - [An interview with Plaid&#39;s first president, Jennifer Taylor, on expanding beyond its traditional fintech customers as its enterprise customer base crosses 1,000 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240630/p4#a240630p4)
- - [SK Hynix plans to invest ~$75B on chips through 2028, allocating ~80%, or $60B, on manufacturing HBM chips, as part of the parent company SK Group&#39;s bet on AI &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240630/p3#a240630p3)
- - [European fintech execs say financial services are shunning AI over job loss and regulatory fears, despite evidence that AI will boost productivity and cut costs &lpar;Financial Times&rpar;](http://www.techmeme.com/240630/p2#a240630p2)<!-- TECH:END -->
+ - [SK Hynix plans to invest ~$75B on chips through 2028, allocating ~80%, or $60B, on manufacturing HBM chips, as part of the parent company SK Group&#39;s bet on AI &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240630/p3#a240630p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
