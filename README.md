@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
- - 😝 [Man confronting shoplifters as they try to leave in Downey, California](http://9gag.com/gag/agmVrLq)
+ - 6️⃣ [Man confronting shoplifters as they try to leave in Downey, California](http://9gag.com/gag/agmVrLq)
+ - 😝 [Entitled douche](http://9gag.com/gag/aXPXD3d)
  - 👉 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)<!-- MEMES:END -->
 
 --- 
