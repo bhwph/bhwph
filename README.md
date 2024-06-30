@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU tech regulators asked Temu and Shein to provide details on how they comply with the Digital Services Act by July 12, following complaints by consumer bodies &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240629/p14#a240629p14)
- - [The biggest trailers of the week: June 23rd to June 29th](https://www.theverge.com/2024/6/29/24189019/biggest-trailers-deadpool-wolverine-nosferatu-batman-heretic-week-june-23-29)
- - [How Avery Johnson and Warren Brodey, early members of the American Society for Cybernetics, created a lab in 1967 with a utopian vision to personalize computing &lpar;Evgeny Morozov/Financial Times&rpar;](http://www.techmeme.com/240629/p13#a240629p13)<!-- TECH:END -->
+ - [Solera, which offers SaaS tools for integrated vehicle lifecycle and fleet management, files for a US IPO; sources: Solera may seek to raise as much as $1.5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240630/p1#a240630p1)
+ - [Chime buys enterprise employee rewards company Salt Labs, sources say in a deal worth up to $173M; Salt Labs had raised $18M and was valued at $80M in December &lpar;Luisa Beltran/Fortune&rpar;](http://www.techmeme.com/240629/p15#a240629p15)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 30, #385](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-30-385/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
