@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may be already lining up suppliers for a second Apple Vision headset](https://appleinsider.com/articles/24/06/29/apple-may-be-already-lining-up-suppliers-for-a-second-apple-vision-headset?utm_medium=rss)
- - [How to Make Google Maps Work for You While Traveling This Summer](https://www.cnet.com/tech/services-and-software/how-to-make-google-maps-work-for-you-while-traveling-this-summer/#ftag=CAD590a51e)
- - [The Ultimate Visual Guide to Protein: Making Sure You Eat Enough Each Day](https://www.cnet.com/health/nutrition/the-ultimate-visual-guide-to-protein-making-sure-you-eat-enough-eachd-ay/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EU tech regulators asked Temu and Shein to provide details on how they comply with the Digital Services Act by July 12, following complaints by consumer bodies &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240629/p14#a240629p14)
+ - [The biggest trailers of the week: June 23rd to June 29th](https://www.theverge.com/2024/6/29/24189019/biggest-trailers-deadpool-wolverine-nosferatu-batman-heretic-week-june-23-29)
+ - [How Avery Johnson and Warren Brodey, early members of the American Society for Cybernetics, created a lab in 1967 with a utopian vision to personalize computing &lpar;Evgeny Morozov/Financial Times&rpar;](http://www.techmeme.com/240629/p13#a240629p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
