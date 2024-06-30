@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tiny body, big heart](http://9gag.com/gag/amo8Ej4)
- - 😝 [What do we say to the god of death](http://9gag.com/gag/a5QKLVr)
- - 👉 [Uh oh....](http://9gag.com/gag/agmNWVK)<!-- MEMES:END -->
+ - 6️⃣ [Tell me, who number two works for?](http://9gag.com/gag/aqy54Nj)
+ - 😝 [Lol](http://9gag.com/gag/a87jBM1)
+ - 👉 [The debates.](http://9gag.com/gag/amo8jV9)<!-- MEMES:END -->
 
 --- 
 
