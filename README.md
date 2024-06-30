@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows on arm emulator gets a boost, just in time for Copilot PCs](https://www.androidauthority.com/windows-prism-arm-emulator-3455590/)
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
- - [Atos reaches a deal in principle with its creditors that restructures its debt, including injecting &amp;euro;233M in equity, and lets the creditors take control of Atos &lpar;Irene Garcia Perez/Bloomberg&rpar;](http://www.techmeme.com/240630/p9#a240630p9)<!-- TECH:END -->
+ - [The Vision Pro will get Apple Intelligence and “Go Deeper” in-store demos](https://www.theverge.com/2024/6/30/24189328/vision-pro-apple-intelligence-in-store-demo-cheaper-version)
+ - [Apple Ring: Two decades of rumors and speculation about a smart ring](https://appleinsider.com/articles/24/06/28/apple-ring-two-decades-of-rumors-and-speculation-about-a-smart-ring?utm_medium=rss)
+ - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
