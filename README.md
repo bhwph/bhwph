@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cringe but wood](http://9gag.com/gag/apRBOND)
- - 😝 [Man confronting shoplifters as they try to leave in Downey, California](http://9gag.com/gag/agmVrLq)
- - 👉 [Uh oh....](http://9gag.com/gag/agmNWVK)<!-- MEMES:END -->
+ - 6️⃣ [Uh oh....](http://9gag.com/gag/agmNWVK)
+ - 😝 [`He&#39;s fine.....`](http://9gag.com/gag/aryRY3p)
+ - 👉 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)<!-- MEMES:END -->
 
 --- 
 
