@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Would a MediaTek-powered Galaxy S25 really be such a bad thing?](https://www.androidauthority.com/samsung-galaxy-s25-mediatek-3453951/)
- - [Want a Cooler House? Buying These Houseplants Can Help](https://www.cnet.com/news/want-a-cooler-house-buying-these-houseplants-can-help/#ftag=CAD590a51e)
- - [SZA at Glastonbury 2024: Livestream Her Headline Festival Set From Anywhere](https://www.cnet.com/tech/services-and-software/sza-at-glastonbury-2024-livestream-her-headline-festival-set-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s your first look at some of Galaxy Ring’s health tracking features](https://www.androidauthority.com/samsung-galaxy-ring-health-features-first-look-3455959/)
+ - [I blame Apple for Samsung settling into foldable mediocrity](https://www.androidauthority.com/apple-samsung-mediocrity-3455410/)
+ - [Apple could announce a Google Gemini deal this fall](https://www.theverge.com/2024/6/30/24189262/apple-intelligence-google-gemini-deal-iphone-mac-ipad-openai-chatgpt)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
