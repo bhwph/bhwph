@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Solera, which offers SaaS tools for integrated vehicle lifecycle and fleet management, files for a US IPO; sources: Solera may seek to raise as much as $1.5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240630/p1#a240630p1)
- - [Chime buys enterprise employee rewards company Salt Labs, sources say in a deal worth up to $173M; Salt Labs had raised $18M and was valued at $80M in December &lpar;Luisa Beltran/Fortune&rpar;](http://www.techmeme.com/240629/p15#a240629p15)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 30, #385](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-30-385/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Plaid&#39;s first president, Jennifer Taylor, on expanding beyond its traditional fintech customers as its enterprise customer base crosses 1,000 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240630/p4#a240630p4)
+ - [SK Hynix plans to invest ~$75B on chips through 2028, allocating ~80%, or $60B, on manufacturing HBM chips, as part of the parent company SK Group&#39;s bet on AI &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240630/p3#a240630p3)
+ - [European fintech execs say financial services are shunning AI over job loss and regulatory fears, despite evidence that AI will boost productivity and cut costs &lpar;Financial Times&rpar;](http://www.techmeme.com/240630/p2#a240630p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
