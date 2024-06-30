@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, June 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-30-2024)
- - [Get a taste of automated, voxelated terraforming in the free preview of Eden Crafters](https://www.pcgamer.com/games/survival-crafting/get-a-taste-of-automated-voxelated-terraforming-in-the-free-preview-of-eden-crafters)
- - [After three hours of attempts, Elden Ring folk hero Let Me Solo Her has beaten Shadow of the Erdtree&#39;s final boss⁠: &#39;Holy crap, I am shaking&#39;](https://www.pcgamer.com/games/rpg/after-three-hours-of-attempts-elden-ring-folk-hero-let-me-solo-her-has-beaten-shadow-of-the-erdtrees-final-boss-holy-crap-i-am-shaking)<!-- GAME:END -->
+ - [After a Shadow of the Erdtree-induced hiatus, Elden Ring&#39;s Seamless Co-op mod is already back, and it now supports hostile invasions](https://www.pcgamer.com/games/rpg/after-a-shadow-of-the-erdtree-induced-hiatus-elden-rings-seamless-co-op-mod-is-already-back-and-it-now-supports-hostile-invasions)
+ - [Why You Keep Dying In The Elden Ring DLC And More Of The Week&#39;s Tips](https://kotaku.com/elden-ring-erdtree-dr-disrespect-1851566624)
+ - [Today&#39;s Wordle answer for Sunday, June 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-30-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
