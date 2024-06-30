@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s your first look at some of Galaxy Ring’s health tracking features](https://www.androidauthority.com/samsung-galaxy-ring-health-features-first-look-3455959/)
- - [I blame Apple for Samsung settling into foldable mediocrity](https://www.androidauthority.com/apple-samsung-mediocrity-3455410/)
- - [Apple could announce a Google Gemini deal this fall](https://www.theverge.com/2024/6/30/24189262/apple-intelligence-google-gemini-deal-iphone-mac-ipad-openai-chatgpt)<!-- TECH:END -->
+ - [Windows on arm emulator gets a boost, just in time for Copilot PCs](https://www.androidauthority.com/windows-prism-arm-emulator-3455590/)
+ - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
+ - [Atos reaches a deal in principle with its creditors that restructures its debt, including injecting &amp;euro;233M in equity, and lets the creditors take control of Atos &lpar;Irene Garcia Perez/Bloomberg&rpar;](http://www.techmeme.com/240630/p9#a240630p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
