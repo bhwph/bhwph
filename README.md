@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Demon Slayer’s final arc will arrive as a trilogy of movies — and here’s the first look](https://www.polygon.com/anime/24189436/demon-slayer-infinity-castle-final-arc-movies-trailer-trilogy)
- - [After a Shadow of the Erdtree-induced hiatus, Elden Ring&#39;s Seamless Co-op mod is already back with support for the expansion](https://www.pcgamer.com/games/rpg/after-a-shadow-of-the-erdtree-induced-hiatus-elden-rings-seamless-co-op-mod-is-already-back-and-it-now-supports-hostile-invasions)
- - [Why You Keep Dying In The Elden Ring DLC And More Of The Week&#39;s Tips](https://kotaku.com/elden-ring-erdtree-dr-disrespect-1851566624)<!-- GAME:END -->
+ - [Digital board game Dune: Imperium is getting the Rise of Ix expansion in July](https://www.pcgamer.com/games/strategy/digital-board-game-dune-imperium-is-getting-the-rise-of-ix-expansion-in-july)
+ - [Modders have uncovered an extended version of The Witcher 3&#39;s ending where Yennefer pulls off a shocking betrayal of her sorceress friends](https://www.pcgamer.com/games/rpg/modders-have-uncovered-an-extended-version-of-the-witcher-3s-ending-where-yennefer-pulls-off-a-shocking-betrayal-of-her-sorceress-friends)
+ - [Demon Slayer’s final arc will arrive as a trilogy of movies — and here’s the first look](https://www.polygon.com/anime/24189436/demon-slayer-infinity-castle-final-arc-movies-trailer-trilogy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
