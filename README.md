@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tell me, who number two works for?](http://9gag.com/gag/aqy54Nj)
- - 😝 [Lol](http://9gag.com/gag/a87jBM1)
- - 👉 [The debates.](http://9gag.com/gag/amo8jV9)<!-- MEMES:END -->
+ - 6️⃣ [Entitled douche](http://9gag.com/gag/aXPXD3d)
+ - 😝 [The debates.](http://9gag.com/gag/amo8jV9)
+ - 👉 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)<!-- MEMES:END -->
 
 --- 
 
