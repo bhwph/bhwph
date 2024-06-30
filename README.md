@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Get a taste of automated, voxelated terraforming in the free preview of Eden Crafters](https://www.pcgamer.com/games/survival-crafting/get-a-taste-of-automated-voxelated-terraforming-in-the-free-preview-of-eden-crafters)
  - [After three hours of attempts, Elden Ring folk hero Let Me Solo Her has beaten Shadow of the Erdtree&#39;s final boss⁠: &#39;Holy crap, I am shaking&#39;](https://www.pcgamer.com/games/rpg/after-three-hours-of-attempts-elden-ring-folk-hero-let-me-solo-her-has-beaten-shadow-of-the-erdtrees-final-boss-holy-crap-i-am-shaking)
- - [BroShep&#39;s voice actor played so many weird alien side characters in Mass Effect he doesn&#39;t mind if people prefer FemShep: &#39;I&#39;m afraid you&#39;ll be forced to encounter me as Niftu Cal and Blasto and any vorcha you run into&#39;](https://www.pcgamer.com/games/rpg/brosheps-voice-actor-played-so-many-weird-alien-side-characters-in-mass-effect-he-doesnt-mind-if-people-prefer-femshep-im-afraid-youll-be-forced-to-encounter-me-as-niftu-cal-and-blasto-and-any-vorcha-you-run-into)
- - [Check out City Bus Manager, which lets you set up routes in your hometown using real world map data](https://www.pcgamer.com/games/sim/check-out-city-bus-manager-which-lets-you-set-up-routes-in-your-hometown-using-real-world-map-data)<!-- GAME:END -->
+ - [BroShep&#39;s voice actor played so many weird alien side characters in Mass Effect he doesn&#39;t mind if people prefer FemShep: &#39;I&#39;m afraid you&#39;ll be forced to encounter me as Niftu Cal and Blasto and any vorcha you run into&#39;](https://www.pcgamer.com/games/rpg/brosheps-voice-actor-played-so-many-weird-alien-side-characters-in-mass-effect-he-doesnt-mind-if-people-prefer-femshep-im-afraid-youll-be-forced-to-encounter-me-as-niftu-cal-and-blasto-and-any-vorcha-you-run-into)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
