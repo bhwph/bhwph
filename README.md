@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The portable speakers you need this summer](https://www.theverge.com/24188267/best-portable-bluetooth-speakers-boom-beats-installer)
- - [New AirPods with IR camera coming to enhance Spatial Audio in Apple Vision Pro](https://appleinsider.com/articles/24/06/30/new-airpods-with-ir-camera-coming-to-enhance-spatial-audio-in-apple-vision-pro?utm_medium=rss)
- - [Kaiko: the proportion of Bitcoin traded over weekends has fallen to 16% in 2024 so far, down from 28% in 2019, a trend likely accelerated by Bitcoin ETFs launch &lpar;Benjamin Taubman/Bloomberg&rpar;](http://www.techmeme.com/240630/p5#a240630p5)<!-- TECH:END -->
+ - [Would a MediaTek-powered Galaxy S25 really be such a bad thing?](https://www.androidauthority.com/samsung-galaxy-s25-mediatek-3453951/)
+ - [Want a Cooler House? Buying These Houseplants Can Help](https://www.cnet.com/news/want-a-cooler-house-buying-these-houseplants-can-help/#ftag=CAD590a51e)
+ - [SZA at Glastonbury 2024: Livestream Her Headline Festival Set From Anywhere](https://www.cnet.com/tech/services-and-software/sza-at-glastonbury-2024-livestream-her-headline-festival-set-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
