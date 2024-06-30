@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imagine if this is canon](http://9gag.com/gag/aQznLwd)
- - 😝 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)
- - 👉 [Which one of you was that?](http://9gag.com/gag/avyLbXM)<!-- MEMES:END -->
+ - 6️⃣ [Powerful](http://9gag.com/gag/aD2mB1Z)
+ - 😝 [How to ruin everybodys day](http://9gag.com/gag/aPAGOvn)
+ - 👉 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)<!-- MEMES:END -->
 
 --- 
 
