@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Powerful](http://9gag.com/gag/aD2mB1Z)
- - 😝 [How to ruin everybodys day](http://9gag.com/gag/aPAGOvn)
- - 👉 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)<!-- MEMES:END -->
+ - 6️⃣ [Risk it all](http://9gag.com/gag/aO8mgXr)
+ - 😝 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
+ - 👉 [Uh oh....](http://9gag.com/gag/agmNWVK)<!-- MEMES:END -->
 
 --- 
 
