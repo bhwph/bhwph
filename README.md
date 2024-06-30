@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Uh oh....](http://9gag.com/gag/agmNWVK)
- - 😝 [`He&#39;s fine.....`](http://9gag.com/gag/aryRY3p)
- - 👉 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)<!-- MEMES:END -->
+ - 6️⃣ [Tiny body, big heart](http://9gag.com/gag/amo8Ej4)
+ - 😝 [What do we say to the god of death](http://9gag.com/gag/a5QKLVr)
+ - 👉 [Uh oh....](http://9gag.com/gag/agmNWVK)<!-- MEMES:END -->
 
 --- 
 
