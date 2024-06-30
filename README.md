@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Risk it all](http://9gag.com/gag/aO8mgXr)
- - 😝 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
+ - 6️⃣ [Cringe but wood](http://9gag.com/gag/apRBOND)
+ - 😝 [Man confronting shoplifters as they try to leave in Downey, California](http://9gag.com/gag/agmVrLq)
  - 👉 [Uh oh....](http://9gag.com/gag/agmNWVK)<!-- MEMES:END -->
 
 --- 
