@@ -120,7 +120,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After a Shadow of the Erdtree-induced hiatus, Elden Ring&#39;s Seamless Co-op mod is already back, and it now supports hostile invasions](https://www.pcgamer.com/games/rpg/after-a-shadow-of-the-erdtree-induced-hiatus-elden-rings-seamless-co-op-mod-is-already-back-and-it-now-supports-hostile-invasions)
+ - [After a Shadow of the Erdtree-induced hiatus, Elden Ring&#39;s Seamless Co-op mod is already back with support for the expansion](https://www.pcgamer.com/games/rpg/after-a-shadow-of-the-erdtree-induced-hiatus-elden-rings-seamless-co-op-mod-is-already-back-and-it-now-supports-hostile-invasions)
  - [Why You Keep Dying In The Elden Ring DLC And More Of The Week&#39;s Tips](https://kotaku.com/elden-ring-erdtree-dr-disrespect-1851566624)
  - [Today&#39;s Wordle answer for Sunday, June 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-30-2024)<!-- GAME:END -->
 
