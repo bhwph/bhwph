@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan-based SmartHR, which offers a cloud human resources and labor management software, raised a $140M Series E led by KKR and Teachers&#39; Ventures Growth &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240701/p6#a240701p6)
- - [Deadline for iPhone 7 audio settlement extended to July 3, 2024](https://appleinsider.com/articles/24/07/01/deadline-for-iphone-7-audio-settlement-extended-to-july-3-2024?utm_medium=rss)
- - [Government data: the value of South Korea&#39;s chip shipments reached $13.4B in June, up 51% YoY; exports of display products up 26% YoY and computers up 59% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/240701/p5#a240701p5)<!-- TECH:END -->
+ - [Here’s an early look at Samsung’s new Energy Score feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-energy-score-apk-teardown-3456100/)
+ - [Singapore is emerging as a destination for Chinese AI startups due to less stringent AI regulations and access to Nvidia&#39;s latest chips amid US chips ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/240701/p8#a240701p8)
+ - [Here’s who the true king of US mobile in 2024 is, according to report](https://www.androidauthority.com/wireless-experience-report-2024-3455442/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
