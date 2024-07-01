@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Pixel 6 owners say factory resets have bricked their phones](https://www.theverge.com/2024/7/1/24190024/google-pixel-6-factory-reset-bricking-phones)
- - [Google could soon add Quick Share directly in the Files app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-files-quick-share-3456247/)
- - [Android quietly enhances split-screen mode in preparation for the Pixel 9 Pro Fold](https://www.androidauthority.com/pixel-9-pro-fold-split-screen-changes-3456265/)<!-- TECH:END -->
+ - [Deal: Save $40 and upgrade to the Google Nest Wi-Fi Pro router](https://www.androidauthority.com/google-nest-wi-fi-pro-deal-3456326/)
+ - [This is Big Tech’s playbook for swallowing the AI industry](https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection)
+ - [Apple Fourth of July Sales: 26 Deals on iPads, Macs, AirPods and More Apple Gear](https://www.cnet.com/deals/apple-fourth-of-july-sales-26-deals-on-ipads-macs-airpods-and-more-apple-gear/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
