@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Save $40 and upgrade to the Google Nest Wi-Fi Pro router](https://www.androidauthority.com/google-nest-wi-fi-pro-deal-3456326/)
- - [This is Big Tech’s playbook for swallowing the AI industry](https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection)
- - [Apple Fourth of July Sales: 26 Deals on iPads, Macs, AirPods and More Apple Gear](https://www.cnet.com/deals/apple-fourth-of-july-sales-26-deals-on-ipads-macs-airpods-and-more-apple-gear/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Got a Pixel 6 series device? You may not want to factory reset it](https://www.androidauthority.com/pixel-6-series-factory-reset-brick-3456346/)
+ - [Google app makes private browsing effortless with new Incognito button &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-incognito-button-3456357/)
+ - [Google says it will require advertisers to disclose election ads that use digitally altered content that depicts real or realistic-looking people or events &lpar;Reuters&rpar;](http://www.techmeme.com/240701/p18#a240701p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
