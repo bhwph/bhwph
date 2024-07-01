@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Ditto disguises list for July 2024](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)
- - [Pokémon Go Giovanni counters, team line-up in July 2024](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)
- - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in July 2024](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)<!-- GAME:END -->
+ - [Final Fantasy 14: Dawntrail rises to a mixed reception in its opening weekend, though I don&#39;t think the sky&#39;s falling just yet](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-rises-to-a-mixed-reception-in-its-opening-weekend-though-i-don-t-think-the-sky-s-falling-just-yet)
+ - [Every movie and show coming to Netflix in July](https://www.polygon.com/entertainment/24185038/new-netflix-july-2024-movies-tv-to-watch)
+ - [Fortnite Crew Pack and skin for July 2024](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
