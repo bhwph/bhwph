@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new Mac app uses animated flies to tell you when to take out the trash](https://www.theverge.com/2024/6/30/24189505/bananabin-app-flies-trash-macos-sonoma)
- - [Best Foldable Phones in 2024: Samsung Galaxy Z Fold, Z Flip, Moto Razr, Pixel Fold](https://www.cnet.com/tech/mobile/best-foldable-phones/#ftag=CAD590a51e)
- - [Best Internet Providers in Vancouver, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-vancouver-wa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: BlackRock has agreed to buy Preqin, a UK-based provider of private markets data, for &amp;pound;2.55B in cash &lpar;Financial Times&rpar;](http://www.techmeme.com/240630/p11#a240630p11)
+ - [Best Internet Providers in Yonkers, New York](https://www.cnet.com/home/internet/best-internet-providers-in-yonkers-ny/#ftag=CAD590a51e)
+ - [Copa America 2024 Soccer: Livestream Mexico vs. Ecuador From Anywhere](https://www.cnet.com/tech/services-and-software/copa-america-2024-soccer-livestream-mexico-vs-ecuador-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
