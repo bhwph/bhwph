@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 6️⃣ [Gear up people down](http://9gag.com/gag/aoy9Zyn)
  - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 👉 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)<!-- MEMES:END -->
+ - 👉 [Powerful](http://9gag.com/gag/aD2mB1Z)<!-- MEMES:END -->
 
 --- 
 
