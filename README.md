@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Should You Buy The Shin Megami Tensei V: Vengeance Digital Deluxe Edition?](https://kotaku.com/shin-megami-tensei-v-deluxe-edition-worth-it-1851570189)
- - [SSD storage is set to use 1,000 layer memory chips by 2027, potentially offering 20 TB NVMe drives for under $300](https://www.pcgamer.com/hardware/ssds/ssd-storage-is-set-to-use-1000-layer-memory-chips-by-2027-potentially-offering-20-tb-nvme-drives-for-under-dollar300)
- - [The Acolyte Episode 3 Review: Star Wars Finds Religion In A Whole New Way](https://kotaku.com/acolyte-episode-3-review-force-1851570042)<!-- GAME:END -->
+ - [GTA Online adds a qualify-of-life feature players have wanted for years then upsets everyone by paywalling it: &#39;One of the slimiest things they&#39;ve done in a while&#39;](https://www.pcgamer.com/games/grand-theft-auto/gta-online-adds-a-qualify-of-life-feature-players-have-wanted-for-years-then-upsets-everyone-by-paywalling-it-one-of-the-slimiest-things-theyve-done-in-a-while)
+ - [Star Trek: Prodigy season 2, Tower of God season 2, and more new TV this week](https://www.polygon.com/2024/7/1/24183180/new-tv-netflix-star-trek-prodigy-tower-god-season-2-nfl-anime)
+ - [It Sounds Like Destiny 2 Is Finally Leaving Our Solar System Next Year](https://kotaku.com/destiny-2-year-11-new-world-frontiers-1851570524)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
