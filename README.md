@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 😝 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
- - 👉 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)<!-- MEMES:END -->
+ - 6️⃣ [Recklessness](http://9gag.com/gag/aryKpEB)
+ - 😝 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 👉 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)<!-- MEMES:END -->
 
 --- 
 
