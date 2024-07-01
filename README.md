@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
+ - 6️⃣ [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
  - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 👉 [A meme came to life](http://9gag.com/gag/a34LopQ)<!-- MEMES:END -->
+ - 👉 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)<!-- MEMES:END -->
 
 --- 
 
