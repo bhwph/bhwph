@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Recklessness](http://9gag.com/gag/aryKpEB)
- - 😝 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
- - 👉 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)<!-- MEMES:END -->
+ - 6️⃣ [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
+ - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
+ - 👉 [A meme came to life](http://9gag.com/gag/a34LopQ)<!-- MEMES:END -->
 
 --- 
 
