@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Dragon Age II Companions, Ranked From Worst To Best](https://kotaku.com/dragon-age-2-best-characters-anders-varric-isabela-1851571061)
- - [Grab 3 months Xbox Game Pass Ultimate for under $35 at Woot](https://www.polygon.com/deals/2024/7/1/24190165/xbox-game-pass-ultimate-pc-deal-sale-woot)
- - [Team Fortress 2 players are not loving the announcement of TF2 DLC for Funko Fusion instead of, y&#39;know, TF2: &#39;Genuinely would rather bots continue to overrun the game than this happen&#39;](https://www.pcgamer.com/games/action/team-fortress-2-players-are-not-loving-the-announcement-of-tf2-dlc-for-funko-fusion-instead-of-yknow-tf2-genuinely-would-rather-bots-continue-to-overrun-the-game-than-this-happen)<!-- GAME:END -->
+ - [Dawntrail aether current locations in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24188312/dawntrail-aether-currents-locations-map-dt)
+ - [A Japanese company is making an adorable Elden Ring warrior jar mug just in time for everyone to get really freaked out by their new lore in the DLC](https://www.pcgamer.com/games/rpg/a-japanese-company-is-making-an-adorable-elden-ring-warrior-jar-mug-just-in-time-for-everyone-to-get-really-freaked-out-by-their-new-lore-in-the-dlc)
+ - [Trust me, you should rewatch the Elden Ring: Shadow of the Erdtree cinematic trailer after beating the expansion](https://www.pcgamer.com/games/rpg/trust-me-you-should-rewatch-the-elden-ring-shadow-of-the-erdtree-cinematic-trailer-after-beating-the-expansion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
