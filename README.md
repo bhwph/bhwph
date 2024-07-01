@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9 phones could get better screens than the S24 series](https://www.androidauthority.com/google-pixel-9-series-screen-leak-3456027/)
- - [There’s bad news if you’ve got an old phone with Samsung Health &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-health-drop-support-older-phones-3456016/)
- - [Sources: the EU plans to charge Meta under the DMA this week, focusing on Meta&#39;s pay or consent model where users pay for an ad-free Facebook and Instagram &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240701/p4#a240701p4)<!-- TECH:END -->
+ - [Japan-based SmartHR, which offers a cloud human resources and labor management software, raised a $140M Series E led by KKR and Teachers&#39; Ventures Growth &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240701/p6#a240701p6)
+ - [Deadline for iPhone 7 audio settlement extended to July 3, 2024](https://appleinsider.com/articles/24/07/01/deadline-for-iphone-7-audio-settlement-extended-to-july-3-2024?utm_medium=rss)
+ - [Government data: the value of South Korea&#39;s chip shipments reached $13.4B in June, up 51% YoY; exports of display products up 26% YoY and computers up 59% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/240701/p5#a240701p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
