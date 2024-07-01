@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online adds a qualify-of-life feature players have wanted for years then upsets everyone by paywalling it: &#39;One of the slimiest things they&#39;ve done in a while&#39;](https://www.pcgamer.com/games/grand-theft-auto/gta-online-adds-a-qualify-of-life-feature-players-have-wanted-for-years-then-upsets-everyone-by-paywalling-it-one-of-the-slimiest-things-theyve-done-in-a-while)
- - [Star Trek: Prodigy season 2, Tower of God season 2, and more new TV this week](https://www.polygon.com/2024/7/1/24183180/new-tv-netflix-star-trek-prodigy-tower-god-season-2-nfl-anime)
- - [It Sounds Like Destiny 2 Is Finally Leaving Our Solar System Next Year](https://kotaku.com/destiny-2-year-11-new-world-frontiers-1851570524)<!-- GAME:END -->
+ - [The Dragon Age II Companions, Ranked From Worst To Best](https://kotaku.com/dragon-age-2-best-characters-anders-varric-isabela-1851571061)
+ - [Grab 3 months Xbox Game Pass Ultimate for under $35 at Woot](https://www.polygon.com/deals/2024/7/1/24190165/xbox-game-pass-ultimate-pc-deal-sale-woot)
+ - [Team Fortress 2 players are not loving the announcement of TF2 DLC for Funko Fusion instead of, y&#39;know, TF2: &#39;Genuinely would rather bots continue to overrun the game than this happen&#39;](https://www.pcgamer.com/games/action/team-fortress-2-players-are-not-loving-the-announcement-of-tf2-dlc-for-funko-fusion-instead-of-yknow-tf2-genuinely-would-rather-bots-continue-to-overrun-the-game-than-this-happen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
