@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s Wordle Hints, Answer and Help for July 1, #1108](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-1-1108/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 1, #386](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-1-386/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 1, #120](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-1-120/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the EU plans to charge Meta under the DMA this week, focusing on Meta&#39;s pay or consent model where users pay for an ad-free Facebook and Instagram &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240701/p4#a240701p4)
+ - [Nigeria&#39;s food delivery startups are attracting investors optimistic about the growing demand in a market that is expected to double to $2.4B over eight years &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/240701/p3#a240701p3)
+ - [Best Internet Providers in Kansas](https://www.cnet.com/home/internet/best-internet-providers-in-kansas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
