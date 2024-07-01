@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Stand-Up Paddle Boards for 2024](https://www.cnet.com/health/fitness/best-stand-up-paddle-boards/#ftag=CAD590a51e)
  - [Sources: BlackRock has agreed to buy Preqin, a UK-based provider of private markets data, for &amp;pound;2.55B in cash &lpar;Financial Times&rpar;](http://www.techmeme.com/240630/p11#a240630p11)
- - [Best Internet Providers in Yonkers, New York](https://www.cnet.com/home/internet/best-internet-providers-in-yonkers-ny/#ftag=CAD590a51e)
- - [Copa America 2024 Soccer: Livestream Mexico vs. Ecuador From Anywhere](https://www.cnet.com/tech/services-and-software/copa-america-2024-soccer-livestream-mexico-vs-ecuador-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Yonkers, New York](https://www.cnet.com/home/internet/best-internet-providers-in-yonkers-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
