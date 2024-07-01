@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 👉 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)<!-- MEMES:END -->
+ - 6️⃣ [Proof that Arcanine is a legendary Pokemon](http://9gag.com/gag/a6Z7yoN)
+ - 😝 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
+ - 👉 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)<!-- MEMES:END -->
 
 --- 
 
