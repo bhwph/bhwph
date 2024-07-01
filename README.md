@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Big Green Egg is inviting zoomers to the cult of kamado cooking](https://www.theverge.com/24188080/big-green-egg-smoker-grill-cooking-kamado-backyard-dan-gertsacov-fire-fourth-of-july)
- - [You can now use two Google Keep accounts simultaneously on your Android tablet](https://www.androidauthority.com/you-can-use-two-google-keep-accounts-android-tablet-3456175/)
- - [Source: Character.AI held talks over partnerships with Google, Meta, and xAI, to access the partnering company&#39;s computing in return for sharing some of its IP &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240701/p9#a240701p9)<!-- TECH:END -->
+ - [Here’s even more info on four of the most exciting new Android 15 features](https://www.androidauthority.com/android-15-adaptive-features-info-3456217/)
+ - [Circle says it has been granted an e-money license from France, making the crypto startup compliant with stablecoin provisions under the EU&#39;s tough crypto laws &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240701/p12#a240701p12)
+ - [Surprise! Samsung Galaxy Watch 7 and Ultra leak in full detail ahead of event](https://www.androidauthority.com/galaxy-watch-7-full-specs-leak-3456205/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
