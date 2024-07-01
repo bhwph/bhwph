@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 6️⃣ [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
  - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 👉 [Why would she do this to herself? Why did her friends and family let her? And why are people making up excuses for what she did to herself?](http://9gag.com/gag/azxj7jq)<!-- MEMES:END -->
+ - 👉 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)<!-- MEMES:END -->
 
 --- 
 
