@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gear up people down](http://9gag.com/gag/aoy9Zyn)
- - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 👉 [Powerful](http://9gag.com/gag/aD2mB1Z)<!-- MEMES:END -->
+ - 6️⃣ [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)
+ - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 👉 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)<!-- MEMES:END -->
 
 --- 
 
