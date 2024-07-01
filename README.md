@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Crazy Taxi is going to be a ‘large-scale, open-world online game’ because of course it is](https://www.polygon.com/24189842/crazy-taxi-reboot-mmo)
- - [Pokémon Go raid schedule for July 2024’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
- - [FFXIV housing lottery schedule for July 2024](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)<!-- GAME:END -->
+ - [Should You Buy The Shin Megami Tensei V: Vengeance Digital Deluxe Edition?](https://kotaku.com/shin-megami-tensei-v-deluxe-edition-worth-it-1851570189)
+ - [SSD storage is set to use 1,000 layer memory chips by 2027, potentially offering 20 TB NVMe drives for under $300](https://www.pcgamer.com/hardware/ssds/ssd-storage-is-set-to-use-1000-layer-memory-chips-by-2027-potentially-offering-20-tb-nvme-drives-for-under-dollar300)
+ - [The Acolyte Episode 3 Review: Star Wars Finds Religion In A Whole New Way](https://kotaku.com/acolyte-episode-3-review-force-1851570042)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
