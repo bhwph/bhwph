@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s even more info on four of the most exciting new Android 15 features](https://www.androidauthority.com/android-15-adaptive-features-info-3456217/)
- - [Circle says it has been granted an e-money license from France, making the crypto startup compliant with stablecoin provisions under the EU&#39;s tough crypto laws &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240701/p12#a240701p12)
- - [Surprise! Samsung Galaxy Watch 7 and Ultra leak in full detail ahead of event](https://www.androidauthority.com/galaxy-watch-7-full-specs-leak-3456205/)<!-- TECH:END -->
+ - [Some Pixel 6 owners say factory resets have bricked their phones](https://www.theverge.com/2024/7/1/24190024/google-pixel-6-factory-reset-bricking-phones)
+ - [Google could soon add Quick Share directly in the Files app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-files-quick-share-3456247/)
+ - [Android quietly enhances split-screen mode in preparation for the Pixel 9 Pro Fold](https://www.androidauthority.com/pixel-9-pro-fold-split-screen-changes-3456265/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
