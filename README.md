@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)
- - 😝 [Bring more of them to Europe](http://9gag.com/gag/a87jPne)
- - 👉 [Based](http://9gag.com/gag/aRBAweQ)<!-- MEMES:END -->
+ - 6️⃣ [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
+ - 😝 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
+ - 👉 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)<!-- MEMES:END -->
 
 --- 
 
