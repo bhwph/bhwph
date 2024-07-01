@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s an early look at Samsung’s new Energy Score feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-energy-score-apk-teardown-3456100/)
- - [Singapore is emerging as a destination for Chinese AI startups due to less stringent AI regulations and access to Nvidia&#39;s latest chips amid US chips ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/240701/p8#a240701p8)
- - [Here’s who the true king of US mobile in 2024 is, according to report](https://www.androidauthority.com/wireless-experience-report-2024-3455442/)<!-- TECH:END -->
+ - [How Big Green Egg is inviting zoomers to the cult of kamado cooking](https://www.theverge.com/24188080/big-green-egg-smoker-grill-cooking-kamado-backyard-dan-gertsacov-fire-fourth-of-july)
+ - [You can now use two Google Keep accounts simultaneously on your Android tablet](https://www.androidauthority.com/you-can-use-two-google-keep-accounts-android-tablet-3456175/)
+ - [Source: Character.AI held talks over partnerships with Google, Meta, and xAI, to access the partnering company&#39;s computing in return for sharing some of its IP &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240701/p9#a240701p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
