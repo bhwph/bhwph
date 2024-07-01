@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14: Dawntrail rises to a mixed reception in its opening weekend, though I don&#39;t think the sky&#39;s falling just yet](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-rises-to-a-mixed-reception-in-its-opening-weekend-though-i-don-t-think-the-sky-s-falling-just-yet)
- - [Every movie and show coming to Netflix in July](https://www.polygon.com/entertainment/24185038/new-netflix-july-2024-movies-tv-to-watch)
- - [Fortnite Crew Pack and skin for July 2024](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)<!-- GAME:END -->
+ - [The new Crazy Taxi is going to be a ‘large-scale, open-world online game’ because of course it is](https://www.polygon.com/24189842/crazy-taxi-reboot-mmo)
+ - [Pokémon Go raid schedule for July 2024’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
+ - [FFXIV housing lottery schedule for July 2024](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
