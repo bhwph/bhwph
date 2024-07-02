@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Super Heroes and zeroes](http://9gag.com/gag/aKGqBbQ)
- - 😝 [Not so friends](http://9gag.com/gag/a9y7P3L)
- - 👉 [Gear up people down](http://9gag.com/gag/aoy9Zyn)<!-- MEMES:END -->
+ - 6️⃣ [Face-palm](http://9gag.com/gag/avyPLBq)
+ - 😝 [The way this brick wall goes through the floor](http://9gag.com/gag/a4PYYW6)
+ - 👉 [The problem with Islamic Paradise is that it is full of Islamic People.](http://9gag.com/gag/a4PYYdm)<!-- MEMES:END -->
 
 --- 
 
