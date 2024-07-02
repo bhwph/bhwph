@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I love that a website that\u2019s So homophobic and So racist has collectively decided that these two are amongst their favorite people](http://9gag.com/gag/aryKpDV)
- - 😝 [Modern problem required modern solutions](http://9gag.com/gag/avyPpbM)
- - 👉 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)<!-- MEMES:END -->
+ - 6️⃣ [A short and witty title does the trick.](http://9gag.com/gag/aRBAgG5)
+ - 😝 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
+ - 👉 [Love happy endings!](http://9gag.com/gag/aAy1r7E)<!-- MEMES:END -->
 
 --- 
 
