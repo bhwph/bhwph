@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Got a Pixel 6 series device? You may not want to factory reset it](https://www.androidauthority.com/pixel-6-series-factory-reset-brick-3456346/)
- - [Google app makes private browsing effortless with new Incognito button &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-incognito-button-3456357/)
- - [Google says it will require advertisers to disclose election ads that use digitally altered content that depicts real or realistic-looking people or events &lpar;Reuters&rpar;](http://www.techmeme.com/240701/p18#a240701p18)<!-- TECH:END -->
+ - [6 ethical ways to use Gemini at work to make your life easier](https://www.androidauthority.com/google-gemini-ethical-uses-work-3456422/)
+ - [Sources: Northern Data is weighing a US IPO of its combined AI cloud computing and data center businesses at a valuation of up to $16B as early as in H1 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240701/p20#a240701p20)
+ - [A new Resident Evil is in the works](https://www.theverge.com/2024/7/1/24190381/capcom-resident-evil-9-dead-rising)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
