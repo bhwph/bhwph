@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 ethical ways to use Gemini at work to make your life easier](https://www.androidauthority.com/google-gemini-ethical-uses-work-3456422/)
- - [Sources: Northern Data is weighing a US IPO of its combined AI cloud computing and data center businesses at a valuation of up to $16B as early as in H1 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240701/p20#a240701p20)
- - [A new Resident Evil is in the works](https://www.theverge.com/2024/7/1/24190381/capcom-resident-evil-9-dead-rising)<!-- TECH:END -->
+ - [An overview of &quot;looksmaxxing&quot; apps that rate teen boys&#39; faces, boast millions of downloads, and, critics say, are exacerbating the youth mental health crisis &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/240701/p21#a240701p21)
+ - [Best Printer for 2024](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
+ - [6 ethical ways to use Gemini at work to make your life easier](https://www.androidauthority.com/google-gemini-ethical-uses-work-3456422/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
