@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube says it’s fighting NSFW ads, but here are some new ones](https://www.androidauthority.com/youtube-nsfw-porn-ads-3456501/)
- - [New WhatsApp “Imagine Me” feature leaks, may let you create AI stickers of yourself](https://www.androidauthority.com/whatsapp-imagine-me-leak-3456516/)
- - [Forget software updates, expensive repairs are the biggest hurdle to smartphone longevity](https://www.androidauthority.com/samsung-smartphone-repairs-poll-results-3456499/)<!-- TECH:END -->
+ - [Future Apple Pencil could be modular with new features added by swappable sleeves](https://appleinsider.com/articles/24/02/22/future-apple-pencil-could-be-modular-with-new-features-added-by-swappable-sleeves?utm_medium=rss)
+ - [A look at why Japan, due to its culture and employment laws, is not undergoing mass layoffs in the gaming industry as Microsoft owned Tango Gameworks closes &lpar;Alicia Haddick/GamesIndustry.biz&rpar;](http://www.techmeme.com/240702/p8#a240702p8)
+ - [Should you buy a Pixel Watch 2 or wait for the Pixel Watch 3?](https://www.androidauthority.com/pixel-watch-2-vs-pixel-watch-3-3455715/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
