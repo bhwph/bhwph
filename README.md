@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring: Shadow of the Erdtree players are sleepwalking through bossfights with the DLC&#39;s silly, pointy shields](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-players-are-sleepwalking-through-bossfights-with-the-dlcs-silly-pointy-shields)
- - [I’m Begging Final Fantasy 14 Players To Just Read The Dialogue In Dawntrail](https://kotaku.com/final-fantasy-14-dawntrail-players-need-to-read-a-book-1851573545)
- - [Popular YouTube Rapper And Famous TikTok Wizard Get Into Viral Barking Match](https://kotaku.com/ishowspeed-crawley-tiktok-wizard-bark-off-twitch-clip-1851573475)<!-- GAME:END -->
+ - [So we’ve all been saying ‘scadutree’ wrong](https://www.polygon.com/24191083/how-to-pronounce-scadutree-elden-ring)
+ - [Xbox Live suffers a &#39;major outage&#39; that&#39;s keeping people from logging in, Microsoft says fixing it is &#39;taking longer than expected&#39;](https://www.pcgamer.com/software/platforms/xbox-live-suffers-a-major-outage-thats-keeping-people-from-logging-in-microsoft-says-fixing-it-is-taking-longer-than-expected)
+ - [Stardew Valley players on Steam Deck can test out the new Nexus Mods app](https://www.pcgamer.com/games/life-sim/stardew-valley-players-on-steam-deck-can-test-out-the-new-nexus-mods-app)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
