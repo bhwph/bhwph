@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can cake hat Pikachu be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24189900/can-pikachu-cake-hat-be-shiny)
  - [Today&#39;s Wordle answer for Tuesday, July 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-July-2-2024)
- - [After years of coasting on Dr Disrespect&#39;s fame, it&#39;s hard to imagine a happy ending for Midnight Society](https://www.pcgamer.com/games/fps/after-years-of-coasting-on-dr-disrespects-fame-its-hard-to-envision-a-happy-ending-for-midnight-society)
- - [It took me 7 hours to beat Elden Ring: Shadow of the Erdtree&#39;s final boss, and people are already demolishing it without getting hit⁠ a single time](https://www.pcgamer.com/games/rpg/it-took-me-7-hours-to-beat-elden-ring-shadow-of-the-erdtrees-final-boss-and-people-are-already-demolishing-it-without-getting-hit-a-single-time)<!-- GAME:END -->
+ - [After years of coasting on Dr Disrespect&#39;s fame, it&#39;s hard to imagine a happy ending for Midnight Society](https://www.pcgamer.com/games/fps/after-years-of-coasting-on-dr-disrespects-fame-its-hard-to-envision-a-happy-ending-for-midnight-society)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
