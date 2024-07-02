@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Samsung was either feeling generous or someone messed up big time when it temporarily slashed £1,400 off a 49-inch 240 Hz OLED gaming monitor](https://www.pcgamer.com/hardware/gaming-monitors/samsung-was-either-feeling-generous-or-someone-messed-up-big-time-when-it-temporarily-slashed-pound1400-off-a-49-inch-240-hz-oled-gaming-monitor)
  - [Can cake hat Pikachu be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24189900/can-pikachu-cake-hat-be-shiny)
- - [Today&#39;s Wordle answer for Tuesday, July 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-July-2-2024)
- - [After years of coasting on Dr Disrespect&#39;s fame, it&#39;s hard to imagine a happy ending for Midnight Society](https://www.pcgamer.com/games/fps/after-years-of-coasting-on-dr-disrespects-fame-its-hard-to-envision-a-happy-ending-for-midnight-society)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, July 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-July-2-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
