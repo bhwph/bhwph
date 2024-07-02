@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The sequel to 2023’s most exciting foldable is coming next week](https://www.androidauthority.com/honor-magic-v3-launch-date-3455174/)
- - [These 5 shades could be the Galaxy S24 FE’s colorway options](https://www.androidauthority.com/galaxy-s24-fe-colors-3456474/)
- - [China plans to form a technical committee to develop standards for brain-computer interfaces, including a standard for brain information encoding and decoding &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/240702/p2#a240702p2)<!-- TECH:END -->
+ - [Revolut says its 2023 almost doubled to &amp;pound;1.8B, after interest income grew to &amp;pound;500M from &amp;pound;83M in 2022; auditor BDO gave Revolut&#39;s accounts a clean bill of health &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240702/p3#a240702p3)
+ - [SSDI July Payment 2024: Here&#39;s When Your Check Is Coming](https://www.cnet.com/personal-finance/ssdi-july-payment-2024-heres-when-your-check-is-coming/#ftag=CAD590a51e)
+ - [The OnePlus 13 could offer a better IP rating than the Galaxy S24](https://www.androidauthority.com/oneplus-13-ip-rating-3456492/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
