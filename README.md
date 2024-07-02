@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dawntrail aether current locations in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24188312/dawntrail-aether-currents-locations-map-dt)
- - [A Japanese company is making an adorable Elden Ring warrior jar mug just in time for everyone to get really freaked out by their new lore in the DLC](https://www.pcgamer.com/games/rpg/a-japanese-company-is-making-an-adorable-elden-ring-warrior-jar-mug-just-in-time-for-everyone-to-get-really-freaked-out-by-their-new-lore-in-the-dlc)
- - [Trust me, you should rewatch the Elden Ring: Shadow of the Erdtree cinematic trailer after beating the expansion](https://www.pcgamer.com/games/rpg/trust-me-you-should-rewatch-the-elden-ring-shadow-of-the-erdtree-cinematic-trailer-after-beating-the-expansion)<!-- GAME:END -->
+ - [After years of coasting on Dr Disrespect&#39;s fame, it&#39;s hard to imagine a happy ending for Midnight Society](https://www.pcgamer.com/games/fps/after-years-of-coasting-on-dr-disrespects-fame-its-hard-to-envision-a-happy-ending-for-midnight-society)
+ - [It took me 7 hours to beat Elden Ring: Shadow of the Erdtree&#39;s final boss, and people are already demolishing it without getting hit⁠ a single time](https://www.pcgamer.com/games/rpg/it-took-me-7-hours-to-beat-elden-ring-shadow-of-the-erdtrees-final-boss-and-people-are-already-demolishing-it-without-getting-hit-a-single-time)
+ - [Frank is Back in Dead Rising Deluxe Remaster, Launching September 19 for Xbox Series X|S](https://news.xbox.com/en-us/2024/07/01/frank-is-back-in-dead-rising-deluxe-remaster-launching-september-19-for-xbox-series-xs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
