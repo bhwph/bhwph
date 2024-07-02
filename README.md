@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A short and witty title does the trick.](http://9gag.com/gag/aRBAgG5)
- - 😝 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
- - 👉 [Love happy endings!](http://9gag.com/gag/aAy1r7E)<!-- MEMES:END -->
+ - 6️⃣ [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
+ - 😝 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
+ - 👉 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)<!-- MEMES:END -->
 
 --- 
 
