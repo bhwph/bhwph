@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not so friends](http://9gag.com/gag/a9y7P3L)
- - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
- - 👉 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)<!-- MEMES:END -->
+ - 6️⃣ [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
+ - 😝 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
+ - 👉 [Hate this idiots](http://9gag.com/gag/amo99q9)<!-- MEMES:END -->
 
 --- 
 
