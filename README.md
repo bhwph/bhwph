@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Game Pass Gets Some Must-Play Games In July](https://kotaku.com/xbox-game-pass-july-2024-neon-white-savage-planet-list-1851572734)
- - [Palia developer Singularity 6 is now part of the Daybreak Game Company](https://www.pcgamer.com/gaming-industry/palia-developer-singularity-6-is-now-part-of-the-daybreak-game-company)
- - [Mortal Kombat player wins $565, celebrates by breaking a light worth $3000](https://www.pcgamer.com/games/fighting/mortal-kombat-player-wins-dollar565-celebrates-by-breaking-a-light-worth-dollar3000)<!-- GAME:END -->
+ - [Some Mortal Kombat Fans Worry The Latest Game Is Already Dead, But It Might Be More Complicated](https://kotaku.com/mortal-kombat-1-mk1-evo-registration-fgc-netherrealm-1851573294)
+ - [Add the Skaven to Warhammer 40K, you cowards](https://www.polygon.com/24190812/skaven-age-of-sigmar-army-warhammer-40k-addition)
+ - [Minecraft: The Summer Celebration Returns](https://minecraft.net/article/the-summer-celebration-returns#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
