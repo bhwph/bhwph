@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden administration proposes new heat protections for workers](https://www.theverge.com/2024/7/2/24190311/biden-extreme-heat-worker-labor-protections-proposed-rule)
- - [‘Maxxxine is very different from both of them’: Ti West on closing out his X horror trilogy](https://www.theverge.com/24190083/ti-west-interview-maxxxine-a24)
- - [Tesla delivered fewer vehicles to customers for the second quarter in a row](https://www.theverge.com/2024/7/2/24187320/tesla-q2-2024-production-deliveries-decline)<!-- TECH:END -->
+ - [Apple turns to Samsung for new iPhone 16 camera sensors](https://appleinsider.com/articles/24/07/02/apple-turns-to-samsung-for-new-iphone-16-camera-sensors?utm_medium=rss)
+ - [Google says its greenhouse gas emissions have surged 48% in the past five years due to the expansion of the data centers that underpin its AI efforts &lpar;Financial Times&rpar;](http://www.techmeme.com/240702/p15#a240702p15)
+ - [The Galaxy Z Flip 6 could arrive with a much-needed RAM upgrade](https://www.androidauthority.com/galaxy-z-flip-6-ram-leak-3456571/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
