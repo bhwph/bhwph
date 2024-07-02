@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
+ - 6️⃣ [Witness the evolution of an artist from the age of 3 to age 17.](http://9gag.com/gag/aE07w5N)
  - 😝 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
- - 👉 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)<!-- MEMES:END -->
+ - 👉 [Fat shamed](http://9gag.com/gag/aD2oAX9)<!-- MEMES:END -->
 
 --- 
 
