@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Some Mortal Kombat Fans Worry The Latest Game Is Already Dead, But It Might Be More Complicated](https://kotaku.com/mortal-kombat-1-mk1-evo-registration-fgc-netherrealm-1851573294)
- - [Add the Skaven to Warhammer 40K, you cowards](https://www.polygon.com/24190812/skaven-age-of-sigmar-army-warhammer-40k-addition)
- - [Minecraft: The Summer Celebration Returns](https://minecraft.net/article/the-summer-celebration-returns#new_tab)<!-- GAME:END -->
+ - [Elden Ring: Shadow of the Erdtree players are sleepwalking through bossfights with the DLC&#39;s silly, pointy shields](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-players-are-sleepwalking-through-bossfights-with-the-dlcs-silly-pointy-shields)
+ - [I’m Begging Final Fantasy 14 Players To Just Read The Dialogue In Dawntrail](https://kotaku.com/final-fantasy-14-dawntrail-players-need-to-read-a-book-1851573545)
+ - [Popular YouTube Rapper And Famous TikTok Wizard Get Into Viral Barking Match](https://kotaku.com/ishowspeed-crawley-tiktok-wizard-bark-off-twitch-clip-1851573475)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
