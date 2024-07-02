@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Figma pulls AI tool after criticism that it ripped off Apple’s design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)
- - [A US judge temporarily blocked a new Mississippi law that would require age verification for all and parental consent for teens to join some social networks &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240702/p20#a240702p20)
- - [Netflix’s latest game is a mobile take on Minesweeper](https://www.theverge.com/2024/7/2/24190961/netflix-games-minesweeper-subscribers-launch-trailer)<!-- TECH:END -->
+ - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
+ - [Apple to receive new board observer role at OpenAI as part of partnership](https://appleinsider.com/articles/24/07/02/apple-to-receive-new-board-observer-role-at-openai-as-part-of-partnership?utm_medium=rss)
+ - [Here’s a golden 34% discount on the Samsung Galaxy Watch 6](https://www.androidauthority.com/samsung-galaxy-watch-6-deal-2-3456753/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
