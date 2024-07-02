@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Fat shamed](http://9gag.com/gag/aD2oAX9)
- - 😝 [Interesting](http://9gag.com/gag/ayNd7nb)
+ - 😝 [North Koreans see K-pop for the first time, fully aware they\u2019re being watched, unsure how to react](http://9gag.com/gag/aD2o3oG)
  - 👉 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)<!-- MEMES:END -->
 
 --- 
