@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future Apple Pencil could be modular with new features added by swappable sleeves](https://appleinsider.com/articles/24/02/22/future-apple-pencil-could-be-modular-with-new-features-added-by-swappable-sleeves?utm_medium=rss)
- - [A look at why Japan, due to its culture and employment laws, is not undergoing mass layoffs in the gaming industry as Microsoft owned Tango Gameworks closes &lpar;Alicia Haddick/GamesIndustry.biz&rpar;](http://www.techmeme.com/240702/p8#a240702p8)
- - [Should you buy a Pixel Watch 2 or wait for the Pixel Watch 3?](https://www.androidauthority.com/pixel-watch-2-vs-pixel-watch-3-3455715/)<!-- TECH:END -->
+ - [Biden administration proposes new heat protections for workers](https://www.theverge.com/2024/7/2/24190311/biden-extreme-heat-worker-labor-protections-proposed-rule)
+ - [‘Maxxxine is very different from both of them’: Ti West on closing out his X horror trilogy](https://www.theverge.com/24190083/ti-west-interview-maxxxine-a24)
+ - [Tesla delivered fewer vehicles to customers for the second quarter in a row](https://www.theverge.com/2024/7/2/24187320/tesla-q2-2024-production-deliveries-decline)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
