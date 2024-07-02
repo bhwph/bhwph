@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is the Pixel 9 in its new pink color, check it out!](https://www.androidauthority.com/google-pixel-9-pink-color-hands-on-leak-3456457/)
- - [How to plan hikes &amp; other outdoor adventures in Apple Maps with iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-plan-hikes-other-outdoor-adventures-in-apple-maps-with-ios-18?utm_medium=rss)
- - [Today&#39;s Wordle Hints, Answer and Help for July 2, #1109](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-2-1109/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The sequel to 2023’s most exciting foldable is coming next week](https://www.androidauthority.com/honor-magic-v3-launch-date-3455174/)
+ - [These 5 shades could be the Galaxy S24 FE’s colorway options](https://www.androidauthority.com/galaxy-s24-fe-colors-3456474/)
+ - [China plans to form a technical committee to develop standards for brain-computer interfaces, including a standard for brain information encoding and decoding &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/240702/p2#a240702p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
