@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus could be working on generating summaries for voice recordings &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-ai-voice-recording-summaries-3456640/)
- - [OnePlus could soon let users cap battery level at 80% to slow aging &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-charging-limit-teardown-3456617/)
- - [DeArrow aims to fix YouTube’s sensationalist thumbnails](https://www.androidauthority.com/dearrow-youtube-thumbnails-3456613/)<!-- TECH:END -->
+ - [Figma pulls AI tool after criticism that it ripped off Apple’s design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)
+ - [A US judge temporarily blocked a new Mississippi law that would require age verification for all and parental consent for teens to join some social networks &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240702/p20#a240702p20)
+ - [Netflix’s latest game is a mobile take on Minesweeper](https://www.theverge.com/2024/7/2/24190961/netflix-games-minesweeper-subscribers-launch-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
