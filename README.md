@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fire Off Flurries Of Deadly Bolts With This Speedy Shadow Of The Erdtree Crossbow](https://kotaku.com/elden-ring-shadow-erdtree-repeating-crossbow-1851572336)
- - [Capcom announces the next mainline Resident Evil is in development, and the great news is it&#39;s being helmed by Resident Evil 7&#39;s director](https://www.pcgamer.com/games/resident-evil/capcom-announces-the-next-mainline-resident-evil-is-in-development-and-the-great-news-is-its-being-helmed-by-resident-evil-7s-director)
- - [Shadow Of The Erdtree&#39;s Minor Erdtree Incantation Is The Cutest Little Healer](https://kotaku.com/elden-ring-shadow-erdtree-minor-erdtree-incantation-1851570252)<!-- GAME:END -->
+ - [Xbox Game Pass Gets Some Must-Play Games In July](https://kotaku.com/xbox-game-pass-july-2024-neon-white-savage-planet-list-1851572734)
+ - [Palia developer Singularity 6 is now part of the Daybreak Game Company](https://www.pcgamer.com/gaming-industry/palia-developer-singularity-6-is-now-part-of-the-daybreak-game-company)
+ - [Mortal Kombat player wins $565, celebrates by breaking a light worth $3000](https://www.pcgamer.com/games/fighting/mortal-kombat-player-wins-dollar565-celebrates-by-breaking-a-light-worth-dollar3000)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
