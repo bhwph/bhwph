@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
- - 😝 [Can&#39;t be saying that anymore](http://9gag.com/gag/aW460LZ)
- - 👉 [When Culture Tricks You](http://9gag.com/gag/aQz8nLr)<!-- MEMES:END -->
+ - 6️⃣ [Not so friends](http://9gag.com/gag/a9y7P3L)
+ - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
+ - 👉 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)<!-- MEMES:END -->
 
 --- 
 
