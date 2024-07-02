@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Proof that Arcanine is a legendary Pokemon](http://9gag.com/gag/a6Z7yoN)
- - 😝 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
- - 👉 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)<!-- MEMES:END -->
+ - 6️⃣ [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
+ - 😝 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
+ - 👉 [How defeat a Jedi](http://9gag.com/gag/aoy90GA)<!-- MEMES:END -->
 
 --- 
 
