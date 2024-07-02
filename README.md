@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Witness the evolution of an artist from the age of 3 to age 17.](http://9gag.com/gag/aE07w5N)
- - 😝 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
- - 👉 [Fat shamed](http://9gag.com/gag/aD2oAX9)<!-- MEMES:END -->
+ - 6️⃣ [Fat shamed](http://9gag.com/gag/aD2oAX9)
+ - 😝 [Interesting](http://9gag.com/gag/ayNd7nb)
+ - 👉 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)<!-- MEMES:END -->
 
 --- 
 
