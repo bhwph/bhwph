@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple turns to Samsung for new iPhone 16 camera sensors](https://appleinsider.com/articles/24/07/02/apple-turns-to-samsung-for-new-iphone-16-camera-sensors?utm_medium=rss)
- - [Google says its greenhouse gas emissions have surged 48% in the past five years due to the expansion of the data centers that underpin its AI efforts &lpar;Financial Times&rpar;](http://www.techmeme.com/240702/p15#a240702p15)
- - [The Galaxy Z Flip 6 could arrive with a much-needed RAM upgrade](https://www.androidauthority.com/galaxy-z-flip-6-ram-leak-3456571/)<!-- TECH:END -->
+ - [OnePlus could be working on generating summaries for voice recordings &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-ai-voice-recording-summaries-3456640/)
+ - [OnePlus could soon let users cap battery level at 80% to slow aging &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-charging-limit-teardown-3456617/)
+ - [DeArrow aims to fix YouTube’s sensationalist thumbnails](https://www.androidauthority.com/dearrow-youtube-thumbnails-3456613/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
