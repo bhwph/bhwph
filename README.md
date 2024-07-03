@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
- - [Apple to receive new board observer role at OpenAI as part of partnership](https://appleinsider.com/articles/24/07/02/apple-to-receive-new-board-observer-role-at-openai-as-part-of-partnership?utm_medium=rss)
- - [Here’s a golden 34% discount on the Samsung Galaxy Watch 6](https://www.androidauthority.com/samsung-galaxy-watch-6-deal-2-3456753/)<!-- TECH:END -->
+ - [Blockchain platform Polkadot faces criticism from users after spending $36M+ on marketing and outreach in H1 2024, nearly half of its total spend of $87M &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240702/p27#a240702p27)
+ - [A look at a US State Department program to train diplomats in cybersecurity, privacy, and other tech issues, allowing them to spot threats and advance US policy &lpar;Eric Geller/Wired&rpar;](http://www.techmeme.com/240702/p26#a240702p26)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
