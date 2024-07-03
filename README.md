@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon, Best Buy launch price war on Apple&#39;s latest MacBook Pro - save up to $500](https://appleinsider.com/articles/24/07/03/amazon-best-buy-launch-price-war-on-apples-latest-macbook-pro---save-up-to-500?utm_medium=rss)
- - [A cheaper, weirder e-reader alternative to the Boox Palma](https://www.theverge.com/2024/7/3/24191451/xiaomi-moaan-inkpalm-plus-reader-e-ink-onyx-boox-palma-smartphone)
- - [Alphabet is abandoning its Mineral robo-agriculture startup](https://www.theverge.com/2024/7/3/24191582/alphabet-shutters-mineral-agriculture-robot-startup-x-labs)<!-- TECH:END -->
+ - [Amazon is bricking its Astro business robots less than a year after launch](https://www.theverge.com/2024/7/3/24190410/amazon-astro-business-robot-discontinued-refunds)
+ - [Vision Hack hackathon wants to help expand the Apple Vision Pro&#39;s tiny app library](https://appleinsider.com/articles/24/07/03/vision-hack-hackathon-wants-to-help-expand-the-apple-vision-pros-tiny-app-library?utm_medium=rss)
+ - [Google will now generate disclosures for political ads that use AI](https://www.theverge.com/2024/7/3/24191669/google-generate-disclosures-political-ads-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
