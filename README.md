@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
- - 😝 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
- - 👉 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)<!-- MEMES:END -->
+ - 6️⃣ [A short and witty title does the trick.](http://9gag.com/gag/aRBAgG5)
+ - 😝 [Where tf feminists now](http://9gag.com/gag/azxjLNj)
+ - 👉 [Proof that Arcanine is a legendary Pokemon](http://9gag.com/gag/a6Z7yoN)<!-- MEMES:END -->
 
 --- 
 
