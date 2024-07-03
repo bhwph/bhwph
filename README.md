@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Seeenk u very much](http://9gag.com/gag/azxjrKj)
- - 😝 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
- - 👉 [Your daily dose](http://9gag.com/gag/amo9rO4)<!-- MEMES:END -->
+ - 6️⃣ [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
+ - 👉 [Rocket engine designer by ai](http://9gag.com/gag/abA00Kp)<!-- MEMES:END -->
 
 --- 
 
