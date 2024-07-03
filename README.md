@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Watch Dogs Movie Is Actually Happening, Over A Decade After It Was Announced](https://kotaku.com/watch-dogs-movie-live-action-film-ubisoft-decade-later-1851575957)
- - [The &#39;historical adventure&#39; game that lets you ground pound an ogre is free on GOG](https://www.pcgamer.com/games/action/the-historical-adventure-game-that-lets-you-ground-pound-an-ogre-is-free-on-gog)
- - [New DLC weapon locations in Elden Ring Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180256/all-new-dlc-weapon-locations)<!-- GAME:END -->
+ - [After seeing this handheld pixel filter prism on Twitter, I&#39;m haunted by an insatiable urge to pixelate everything in my home](https://www.pcgamer.com/gaming-industry/after-seeing-this-handheld-pixel-filter-prism-on-twitter-im-haunted-by-an-insatiable-urge-to-pixelate-everything-in-my-home)
+ - [Temtem veterans are working on a Breath of the Wild-inspired narrative survival game for 1-4 players, set to arrive later this year](https://www.pcgamer.com/games/survival-crafting/temtem-veterans-are-working-on-a-breath-of-the-wild-inspired-narrative-survival-game-for-1-4-players-set-to-arrive-later-this-year)
+ - [Dead Space x Battlefield 2042 crossover event looks fun, even if it isn&#39;t quite what Dead Space fans have been hoping for](https://www.pcgamer.com/games/fps/dead-space-x-battlefield-2042-crossover-event-looks-fun-even-if-it-isnt-quite-what-dead-space-fans-have-been-hoping-for)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
