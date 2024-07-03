@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blockchain platform Polkadot faces criticism from users after spending $36M+ on marketing and outreach in H1 2024, nearly half of its total spend of $87M &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240702/p27#a240702p27)
- - [A look at a US State Department program to train diplomats in cybersecurity, privacy, and other tech issues, allowing them to spot threats and advance US policy &lpar;Eric Geller/Wired&rpar;](http://www.techmeme.com/240702/p26#a240702p26)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [How an underground network of Chinese sellers is bypassing US export controls through supply-chain blind spots to smuggle Nvidia&#39;s advanced AI chips into China &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240702/p30#a240702p30)
+ - [Bruce Bastian, who co-created the popular word processing software WordPerfect and was an LGBTQ activist, died on June 16 at age 76 &lpar;Chris Kornelis/Wall Street Journal&rpar;](http://www.techmeme.com/240702/p29#a240702p29)
+ - [Vulnerabilities found in Swift repository left millions of apps exposed, now patched](https://appleinsider.com/articles/24/07/03/vulnerabilities-found-in-swift-repository-left-millions-of-apps-exposed-now-patched?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
