@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCOTUS&#39; Chevron ruling could weaken federal cybersecurity regulations, as FCC data breach reporting requirements and other rules are likely to be challenged &lpar;Cynthia Brumfield/CSO&rpar;](http://www.techmeme.com/240703/p1#a240703p1)
- - [Flash deal: save $460 on a Babbel lifetime subscription](https://appleinsider.com/articles/24/07/03/flash-deal-save-460-on-a-babbel-lifetime-subscription?utm_medium=rss)
- - [From the iPhone 16 to the Galaxy Z Fold 6: Top Phones We Expect in 2024](https://www.cnet.com/tech/mobile/from-the-iphone-16-to-the-galaxy-z-fold-6-top-phones-we-expect-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As teachers embrace new AI grading tools, saying the programs let them give students faster feedback, critics say the tools can be glitchy or grade too harshly &lpar;Sara Randazzo/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p5#a240703p5)
+ - [PitchBook: US startups raised $56B in Q2 2024, up 57% YoY and the highest three-month haul in two years; AI startups raised $27.1B, nearly half of the total &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/240703/p4#a240703p4)
+ - [Sources: the EC later in July will suggest scrapping the &amp;euro;150 threshold below which goods are exempt from customs duties, targeting Temu, AliExpress, and Shein &lpar;Financial Times&rpar;](http://www.techmeme.com/240703/p3#a240703p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
