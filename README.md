@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
- - 😝 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
- - 👉 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)<!-- MEMES:END -->
+ - 6️⃣ [Seeenk u very much](http://9gag.com/gag/azxjrKj)
+ - 😝 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
+ - 👉 [Your daily dose](http://9gag.com/gag/amo9rO4)<!-- MEMES:END -->
 
 --- 
 
