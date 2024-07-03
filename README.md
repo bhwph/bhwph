@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [SteelSeries Arena 9 review](https://www.pcgamer.com/hardware/speakers/steelseries-arena-9-review)
- - [Elden Ring: Shadow of the Erdtree robs one player as the final boss bugs into a wall and then just dies, &#39;I was enjoying it too&#39;](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-robs-one-player-as-the-final-boss-bugs-into-a-wall-and-then-just-dies-i-was-enjoying-it-too)
- - [Final Fantasy 14: Dawntrail players warn side-questers: don&#39;t solve these riddles for an NPC that blabs a big spoiler right before it happens](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-players-warn-side-questers-don-t-solve-these-riddles-for-an-npc-that-blabs-a-big-spoiler-right-before-it-happens)<!-- GAME:END -->
+ - [Despicable Me 4 has an unusual flaw: too much plot potential](https://www.polygon.com/reviews/24191034/despicable-me-4-review-mega-minions-gru)
+ - [Not sure what movie to watch this weekend? Leave a comment, we’ll help](https://www.polygon.com/2024/7/3/24190782/best-movies-watch-tonight-best-recommendations-streaming)
+ - [Build the galactic hotel of your dreams in this Ghibli-inspired management sim](https://www.pcgamer.com/games/build-the-galactic-hotel-of-your-dreams-in-this-ghibli-inspired-management-sim)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
