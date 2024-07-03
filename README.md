@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)
+ - 6️⃣ [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
  - 😝 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
- - 👉 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)<!-- MEMES:END -->
+ - 👉 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)<!-- MEMES:END -->
 
 --- 
 
