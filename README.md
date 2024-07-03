@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As teachers embrace new AI grading tools, saying the programs let them give students faster feedback, critics say the tools can be glitchy or grade too harshly &lpar;Sara Randazzo/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p5#a240703p5)
- - [PitchBook: US startups raised $56B in Q2 2024, up 57% YoY and the highest three-month haul in two years; AI startups raised $27.1B, nearly half of the total &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/240703/p4#a240703p4)
- - [Sources: the EC later in July will suggest scrapping the &amp;euro;150 threshold below which goods are exempt from customs duties, targeting Temu, AliExpress, and Shein &lpar;Financial Times&rpar;](http://www.techmeme.com/240703/p3#a240703p3)<!-- TECH:END -->
+ - [Koo, an Indian rival to X that had raised $60M+ from Tiger Global, Accel, and others, is shutting down after acquisition talks with Dailyhunt fell through &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240703/p8#a240703p8)
+ - [UK-listed Keywords Studios, which provides game development, audio, and art services to clients such as Epic, agrees to a ~&amp;pound;2.1B takeover bid from PE firm EQT &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240703/p7#a240703p7)
+ - [Galaxy Watch 7, Watch Ultra designs confirmed through major certification](https://www.androidauthority.com/galaxy-watch-7-ultra-design-confirmed-3456823/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
