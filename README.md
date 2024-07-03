@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Love happy endings!](http://9gag.com/gag/aAy1r7E)
- - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 👉 [Hate this idiots](http://9gag.com/gag/amo99q9)<!-- MEMES:END -->
+ - 6️⃣ [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
+ - 😝 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
+ - 👉 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)<!-- MEMES:END -->
 
 --- 
 
