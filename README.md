@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A short and witty title does the trick.](http://9gag.com/gag/aRBAgG5)
- - 😝 [Where tf feminists now](http://9gag.com/gag/azxjLNj)
- - 👉 [Proof that Arcanine is a legendary Pokemon](http://9gag.com/gag/a6Z7yoN)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
+ - 😝 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
+ - 👉 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)<!-- MEMES:END -->
 
 --- 
 
