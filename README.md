@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After seeing this handheld pixel filter prism on Twitter, I&#39;m haunted by an insatiable urge to pixelate everything in my home](https://www.pcgamer.com/gaming-industry/after-seeing-this-handheld-pixel-filter-prism-on-twitter-im-haunted-by-an-insatiable-urge-to-pixelate-everything-in-my-home)
- - [Temtem veterans are working on a Breath of the Wild-inspired narrative survival game for 1-4 players, set to arrive later this year](https://www.pcgamer.com/games/survival-crafting/temtem-veterans-are-working-on-a-breath-of-the-wild-inspired-narrative-survival-game-for-1-4-players-set-to-arrive-later-this-year)
- - [Dead Space x Battlefield 2042 crossover event looks fun, even if it isn&#39;t quite what Dead Space fans have been hoping for](https://www.pcgamer.com/games/fps/dead-space-x-battlefield-2042-crossover-event-looks-fun-even-if-it-isnt-quite-what-dead-space-fans-have-been-hoping-for)<!-- GAME:END -->
+ - [Dbrand has discounted pretty much everything for its summer sale](https://www.polygon.com/deals/2024/7/3/24191648/dbrand-summer-sale-cases-skins-discount)
+ - [Attention former RuneScape preteens: You owe it to yourselves to hear this official metal cover of the RuneScape theme](https://www.pcgamer.com/games/mmo/attention-former-runescape-preteens-you-owe-it-to-yourselves-to-hear-this-official-metal-cover-of-the-runescape-theme)
+ - [Dragon Age: The Veilguard&#39;s difficulty options will let you turn off death entirely](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguards-difficulty-options-will-let-you-turn-off-death-entirely)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
