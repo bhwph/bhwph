@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These beautiful Tolkien-illustrated Lord of the Rings books are half off for Prime Day](https://www.polygon.com/amazon-prime-day/24191453/best-lotr-deals-books-movies)
- - [UK man imprisoned for 4 months after walking up to cops wielding 6-inch Master Sword](https://www.pcgamer.com/games/uk-man-imprisoned-for-4-months-after-walking-up-to-cops-wielding-6-inch-master-sword)
- - [FFXIV Endwalker Manderville relic weapon guide, quest, and steps](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23410988/endwalker-relic-weapon-manderville-steps-upgrade-requirements)<!-- GAME:END -->
+ - [The Watch Dogs Movie Is Actually Happening, Over A Decade After It Was Announced](https://kotaku.com/watch-dogs-movie-live-action-film-ubisoft-decade-later-1851575957)
+ - [The &#39;historical adventure&#39; game that lets you ground pound an ogre is free on GOG](https://www.pcgamer.com/games/action/the-historical-adventure-game-that-lets-you-ground-pound-an-ogre-is-free-on-gog)
+ - [New DLC weapon locations in Elden Ring Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180256/all-new-dlc-weapon-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
