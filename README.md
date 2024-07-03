@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Face-palm](http://9gag.com/gag/avyPLBq)
- - 😝 [The way this brick wall goes through the floor](http://9gag.com/gag/a4PYYW6)
- - 👉 [The problem with Islamic Paradise is that it is full of Islamic People.](http://9gag.com/gag/a4PYYdm)<!-- MEMES:END -->
+ - 6️⃣ [Just move on.](http://9gag.com/gag/a5Q7rDG)
+ - 😝 [So brave](http://9gag.com/gag/aPADDgg)
+ - 👉 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)<!-- MEMES:END -->
 
 --- 
 
