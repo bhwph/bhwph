@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
- - 😝 [One more thing!!](http://9gag.com/gag/aqy5rQM)
- - 👉 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
+ - 😝 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
+ - 👉 [Woman had her arms ripped off and colon torn out in savage pit bull attack](http://9gag.com/gag/axyjZLp)<!-- MEMES:END -->
 
 --- 
 
