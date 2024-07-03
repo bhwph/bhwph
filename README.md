@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
- - 😝 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
- - 👉 [Woman had her arms ripped off and colon torn out in savage pit bull attack](http://9gag.com/gag/axyjZLp)<!-- MEMES:END -->
+ - 6️⃣ [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)
+ - 😝 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
+ - 👉 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)<!-- MEMES:END -->
 
 --- 
 
