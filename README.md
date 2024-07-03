@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Despicable Me 4 has an unusual flaw: too much plot potential](https://www.polygon.com/reviews/24191034/despicable-me-4-review-mega-minions-gru)
- - [Not sure what movie to watch this weekend? Leave a comment, we’ll help](https://www.polygon.com/2024/7/3/24190782/best-movies-watch-tonight-best-recommendations-streaming)
- - [Build the galactic hotel of your dreams in this Ghibli-inspired management sim](https://www.pcgamer.com/games/build-the-galactic-hotel-of-your-dreams-in-this-ghibli-inspired-management-sim)<!-- GAME:END -->
+ - [These beautiful Tolkien-illustrated Lord of the Rings books are half off for Prime Day](https://www.polygon.com/amazon-prime-day/24191453/best-lotr-deals-books-movies)
+ - [UK man imprisoned for 4 months after walking up to cops wielding 6-inch Master Sword](https://www.pcgamer.com/games/uk-man-imprisoned-for-4-months-after-walking-up-to-cops-wielding-6-inch-master-sword)
+ - [FFXIV Endwalker Manderville relic weapon guide, quest, and steps](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23410988/endwalker-relic-weapon-manderville-steps-upgrade-requirements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
