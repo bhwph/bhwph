@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads hits 175 million users after a year](https://www.theverge.com/2024/7/3/24191074/meta-threads-users-mark-zuckerberg)
- - [Perplexity’s ‘Pro Search’ AI upgrade makes it better at math and research](https://www.theverge.com/2024/7/3/24191431/perplexity-upgraded-pro-search-ai-research-assistant)
- - [The Best Electric Kick Scooters &lpar;2024&rpar;](https://www.wired.com/gallery/best-electric-scooters/)<!-- TECH:END -->
+ - [Amazon, Best Buy launch price war on Apple&#39;s latest MacBook Pro - save up to $500](https://appleinsider.com/articles/24/07/03/amazon-best-buy-launch-price-war-on-apples-latest-macbook-pro---save-up-to-500?utm_medium=rss)
+ - [A cheaper, weirder e-reader alternative to the Boox Palma](https://www.theverge.com/2024/7/3/24191451/xiaomi-moaan-inkpalm-plus-reader-e-ink-onyx-boox-palma-smartphone)
+ - [Alphabet is abandoning its Mineral robo-agriculture startup](https://www.theverge.com/2024/7/3/24191582/alphabet-shutters-mineral-agriculture-robot-startup-x-labs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
