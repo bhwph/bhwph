@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rival Perplexity unveils enhanced Pro Search with multi-step reasoning](https://www.androidauthority.com/perplexity-pro-search-upgrade-3456870/)
- - [Proton Is Launching Encrypted Documents to Take On Google Docs](https://www.wired.com/story/proton-docs-end-to-end-encryption-google-docs/)
- - [Proton just launched a privacy-focused alternative to Google Docs](https://www.theverge.com/2024/7/3/24190732/proton-docs-document-editor-privacy-google)<!-- TECH:END -->
+ - [Indian sends labor officials to grill Foxconn over hiring practices](https://appleinsider.com/articles/24/07/03/indian-sends-labor-officials-to-grill-foxconn-over-hiring-practices?utm_medium=rss)
+ - [Alphabet winds down agriculture startup Mineral, which became an independent subsidiary in 2023, and is licensing some of its tech to berry producer Driscoll&#39;s &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240703/p13#a240703p13)
+ - [WIPO: between 2014 and 2023, 54K generative AI patents were filed, 25% of which were filed in 2023; China leads with 38K+ patents, followed by the US with 6,276 &lpar;Emma Farge/Reuters&rpar;](http://www.techmeme.com/240703/p12#a240703p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
