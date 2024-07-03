@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian sends labor officials to grill Foxconn over hiring practices](https://appleinsider.com/articles/24/07/03/indian-sends-labor-officials-to-grill-foxconn-over-hiring-practices?utm_medium=rss)
- - [Alphabet winds down agriculture startup Mineral, which became an independent subsidiary in 2023, and is licensing some of its tech to berry producer Driscoll&#39;s &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240703/p13#a240703p13)
- - [WIPO: between 2014 and 2023, 54K generative AI patents were filed, 25% of which were filed in 2023; China leads with 38K+ patents, followed by the US with 6,276 &lpar;Emma Farge/Reuters&rpar;](http://www.techmeme.com/240703/p12#a240703p12)<!-- TECH:END -->
+ - [Threads hits 175 million users after a year](https://www.theverge.com/2024/7/3/24191074/meta-threads-users-mark-zuckerberg)
+ - [Perplexity’s ‘Pro Search’ AI upgrade makes it better at math and research](https://www.theverge.com/2024/7/3/24191431/perplexity-upgraded-pro-search-ai-research-assistant)
+ - [The Best Electric Kick Scooters &lpar;2024&rpar;](https://www.wired.com/gallery/best-electric-scooters/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
