@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hikers encounter mountain lion](http://9gag.com/gag/ajPAAVR)
- - 😝 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
- - 👉 [Gear up people down](http://9gag.com/gag/aoy9Zyn)<!-- MEMES:END -->
+ - 6️⃣ [Love happy endings!](http://9gag.com/gag/aAy1r7E)
+ - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 👉 [Hate this idiots](http://9gag.com/gag/amo99q9)<!-- MEMES:END -->
 
 --- 
 
