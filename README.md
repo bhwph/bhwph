@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT for Mac app logged queries in an unencrypted file before getting caught](https://appleinsider.com/articles/24/07/03/chatgpt-for-mac-app-logged-queries-in-an-unencrypted-file-before-getting-caught?utm_medium=rss)
- - [The FTC is investigating PC manufacturers who scare you away from your right to repair](https://www.theverge.com/2024/7/3/24191790/asrock-gigabyte-zotac-ftc-warranty-void-right-to-repair)
- - [Information management company OpenText plans to cut about 1,200 jobs, or ~1.7% of its workforce, and expects to reduce its annual expenses by CA$150M in 2025 &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/240703/p24#a240703p24)<!-- TECH:END -->
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
+ - [The Game Boy Camera will soon get a second life as an awful webcam](https://www.theverge.com/2024/7/3/24191794/gb-operator-game-boy-camera-webcam-epilogue-nintendo)
+ - [Here&#39;s How to Marvel at the Milky Way Without a Telescope Until July 13](https://www.cnet.com/science/heres-how-to-marvel-at-the-milky-way-without-a-telescope-until-july-13/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
