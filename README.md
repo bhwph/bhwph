@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Koo, an Indian rival to X that had raised $60M+ from Tiger Global, Accel, and others, is shutting down after acquisition talks with Dailyhunt fell through &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240703/p8#a240703p8)
- - [UK-listed Keywords Studios, which provides game development, audio, and art services to clients such as Epic, agrees to a ~&amp;pound;2.1B takeover bid from PE firm EQT &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240703/p7#a240703p7)
- - [Galaxy Watch 7, Watch Ultra designs confirmed through major certification](https://www.androidauthority.com/galaxy-watch-7-ultra-design-confirmed-3456823/)<!-- TECH:END -->
+ - [Google rival Perplexity unveils enhanced Pro Search with multi-step reasoning](https://www.androidauthority.com/perplexity-pro-search-upgrade-3456870/)
+ - [Proton Is Launching Encrypted Documents to Take On Google Docs](https://www.wired.com/story/proton-docs-end-to-end-encryption-google-docs/)
+ - [Proton just launched a privacy-focused alternative to Google Docs](https://www.theverge.com/2024/7/3/24190732/proton-docs-document-editor-privacy-google)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
