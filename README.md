@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC’s ban against noncompete agreements is under threat](https://www.theverge.com/2024/7/3/24191946/ftc-noncompete-ban-judge-preliminary-injunction)
- - [Turn Up the Sound on July 4th With Over $150 Off the Sonos Arc Soundbar](https://www.cnet.com/deals/turn-up-the-sound-on-july-4th-with-over-150-off-the-sonos-arc-soundbar/#ftag=CAD590a51e)
- - [Microsoft agrees to pay $14.4M to settle with the California Civil Rights Department over allegations it discriminated against workers who took protected leave &lpar;Associated Press&rpar;](http://www.techmeme.com/240703/p27#a240703p27)<!-- TECH:END -->
+ - [Save $50 on the Sony WH-1000XM5 headphones](https://www.androidauthority.com/sony-wh-1000xm5-headphones-deal-3457129/)
+ - [Ericsson expects a $1.1B noncash impairment charge in Q2 for its 2022 purchase of cloud communications company Vonage, after a $2.9B impairment charge in 2023 &lpar;Sabela Ojea/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p28#a240703p28)
+ - [Best July 4th Sales 2024: Save Up to 70% Off on Home Tech, Appliances and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-03/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
