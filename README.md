@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15’s Contact Keys is a step towards Apple-like protection from cyber attacks &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contact-keys-feature-apk-teardown-3457277/)
- - [Meta releases pre-trained models that use a novel multi-token prediction approach, available on Hugging Face under a non-commercial research license &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240704/p12#a240704p12)
- - [Nike’s self-lacing Adapt BB sneakers are losing their remote control mobile app](https://www.theverge.com/2024/7/4/24192184/nike-adapt-bb-shoes-sneakers-apple-android-app)<!-- TECH:END -->
+ - [Sources: the EU plans to issue a final warning to X over its failure to combat dangerous content under the DSA; X faces fines of 6% of its global revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/240704/p14#a240704p14)
+ - [Best Buy knocks 40% off Backbone One gaming controller for iPhone today only](https://appleinsider.com/articles/24/07/04/best-buy-knocks-40-off-backbone-one-gaming-controller-for-iphone-today-only?utm_medium=rss)
+ - [Amazon will brick its Astro robot intentionally within a year of launch](https://www.androidauthority.com/amazon-astro-robot-3457379/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
