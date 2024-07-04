@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - 😝 [Smooth taekwondo](http://9gag.com/gag/aByYW4Z)
- - 👉 [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)<!-- MEMES:END -->
+ - 6️⃣ [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
+ - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
+ - 👉 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)<!-- MEMES:END -->
 
 --- 
 
