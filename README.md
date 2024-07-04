@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The first Elden Ring: Shadow of the Erdtree patch nerfs the boss-melting explosive perfumes into the ground](https://www.pcgamer.com/games/rpg/fromsoftwares-first-elden-ring-shadow-of-the-erdtree-patch-nerfs-the-boss-melting-explosive-perfumes-into-the-ground)
- - [The father of Final Fantasy loves FF14 so much, fellow devs at his studio have had to log on sometimes to say &#39;hey, the meeting&#39;s started&#39;](https://www.pcgamer.com/games/final-fantasy/the-father-of-final-fantasy-loves-ff14-so-much-fellow-devs-at-his-studio-have-had-to-log-on-sometimes-to-remind-him-he-has-meetings-to-attend)
- - [Someone has slowly been modding Naruto games to give a character his father&#39;s eyes—who knows why, but we&#39;re at 5 and counting](https://www.pcgamer.com/games/fighting/someone-has-slowly-been-modding-naruto-games-to-give-a-character-his-fathers-eyeswho-knows-why-but-were-at-5-and-counting)<!-- GAME:END -->
+ - [Disney abandoned Princess Tiana — until it suddenly needed her help](https://www.polygon.com/24191797/tianas-bayou-adventure-splash-mountain-song-of-the-south-racism)
+ - [FTC fires out warnings to ASRock, Gigabyte and Zotac over &#39;Warranty void if removed&#39; stickers in violation of US law](https://www.pcgamer.com/hardware/ftc-fires-out-warnings-to-asrock-gigabyte-and-zotac-over-warranty-void-if-removed-stickers-in-violation-of-us-law)
+ - [Nintendo just dropped 7 NES curios on Switch Online for the holiday weekend](https://www.polygon.com/nintendo/24192167/nintendo-switch-online-nes-july-4-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
