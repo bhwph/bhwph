@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
- - 😝 [Batgirl](http://9gag.com/gag/amo97X4)
- - 👉 [And now I&#39;m an unemployed software engineer](http://9gag.com/gag/abA0Mqb)<!-- MEMES:END -->
+ - 6️⃣ [He was not ready for that.](http://9gag.com/gag/a2vm49e)
+ - 😝 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
+ - 👉 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)<!-- MEMES:END -->
 
 --- 
 
