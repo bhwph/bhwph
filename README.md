@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s entire iPad lineup for the next year may have just been leaked](https://appleinsider.com/articles/24/07/04/apples-entire-ipad-lineup-for-the-next-year-may-have-just-been-leaked?utm_medium=rss)
- - [Evan Blass leaks Samsung&#39;s entire specs sheets and marketing materials for the Galaxy Z Fold 6 and Galaxy Z Flip 6, expected at its Unpacked event on July 10 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240704/p9#a240704p9)
- - [How to Use Samsung DeX and Turn Your Phone Into a Desktop Computer](https://www.wired.com/story/how-to-use-samsung-dex-mobile-desktop/)<!-- TECH:END -->
+ - [Microsoft’s Midnight Blizzard source code breach also impacted federal agencies](https://www.theverge.com/2024/7/4/24192159/microsoft-midnight-blizzard-hack-targets)
+ - [A Samsung Galaxy Ring subscription should terrify Galaxy Watch owners](https://www.androidauthority.com/samsung-galaxy-ring-subscription-3456523/)
+ - [Dear Roku, you ruined my TV](https://www.theverge.com/24188282/roku-tv-update-motion-smoothing-turn-off)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
