@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s so cute](http://9gag.com/gag/azxjXbz)
+ - 6️⃣ [Stunt man at next f**king lvl](http://9gag.com/gag/aVvPqNn)
  - 😝 [Smooth taekwondo](http://9gag.com/gag/aByYW4Z)
- - 👉 [Do you agree?](http://9gag.com/gag/aMVG8Rx)<!-- MEMES:END -->
+ - 👉 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)<!-- MEMES:END -->
 
 --- 
 
