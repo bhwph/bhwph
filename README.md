@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dbrand has discounted pretty much everything for its summer sale](https://www.polygon.com/deals/2024/7/3/24191648/dbrand-summer-sale-cases-skins-discount)
- - [Attention former RuneScape preteens: You owe it to yourselves to hear this official metal cover of the RuneScape theme](https://www.pcgamer.com/games/mmo/attention-former-runescape-preteens-you-owe-it-to-yourselves-to-hear-this-official-metal-cover-of-the-runescape-theme)
- - [Dragon Age: The Veilguard&#39;s difficulty options will let you turn off death entirely](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguards-difficulty-options-will-let-you-turn-off-death-entirely)<!-- GAME:END -->
+ - [The final Steam playtest for fantasy extraction game Dungeonborne attracts thousands of eager adventurers](https://www.pcgamer.com/games/action/dungeonborne-steam-playtest)
+ - [Godzilla x Kong: The New Empire, Netflix’s Beverly Hills Cop 4, and every movie new to streaming this week](https://www.polygon.com/2024/7/3/24184980/new-movies-beverly-hills-cop-4-axel-f-netflix-godzilla-x-kong-new-empire-the-imaginary)
+ - [Dbrand has discounted pretty much everything for its summer sale](https://www.polygon.com/deals/2024/7/3/24191648/dbrand-summer-sale-cases-skins-discount)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
