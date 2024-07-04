@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14&#39;s director confirms that no, Pictomancers weren&#39;t meant to manually remove their own buffs for a 1% DPS increase—outlines other job changes for patch 7.01 of Dawntrail](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-s-director-confirms-that-no-pictomancers-weren-t-meant-to-manually-remove-their-own-buffs-for-a-1-dps-increase-outlines-other-job-changes-for-patch-7-01-of-dawntrail)
- - [David Hasselhoff cracks out the old leather jacket and KITT from Knight Rider to tell gamers to &#39;grab your joysticks&#39; and fight global warming](https://www.pcgamer.com/gaming-industry/david-hasselhoff-cracks-out-the-old-leather-jacket-and-kitt-from-knight-rider-to-tell-gamers-to-grab-your-joysticks-and-fight-global-warming)
- - [Maxxxine isn’t just paying homage to exploitation thrillers… it is one](https://www.polygon.com/24191973/maxxxine-ti-west-x-trilogy-1980s-exploitation-thrillers)<!-- GAME:END -->
+ - [Strap a gun to a giant bird and fly the fantasy skies in the latest free game from the Epic Store](https://www.pcgamer.com/games/sim/strap-a-gun-to-a-giant-bird-and-fly-the-fantasy-skies-in-the-latest-free-game-from-the-epic-store)
+ - [The next Gundam game plays into the joy of Gunpla model kitbashing with decades of parts to mix and match](https://www.pcgamer.com/games/action/the-next-gundam-game-plays-into-the-joy-of-gunpla-model-kitbashing-with-decades-of-parts-to-mix-and-match)
+ - [16 Extraordinary Games You Need To Wishlist This Indie-Penance Day!](https://kotaku.com/best-indie-games-steam-wishlist-indiepenance-day-1851577525)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
