@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Impressive](http://9gag.com/gag/aO8VzNr)
- - 😝 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
- - 👉 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s so cute](http://9gag.com/gag/azxjXbz)
+ - 😝 [Smooth taekwondo](http://9gag.com/gag/aByYW4Z)
+ - 👉 [Do you agree?](http://9gag.com/gag/aMVG8Rx)<!-- MEMES:END -->
 
 --- 
 
