@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming movies this week: A Family Affair, Fancy Dance, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [2FA hack reveals personal info on millions of people](https://www.androidauthority.com/authy-2fa-api-hack-3457429/)
- - [SemiAnalysis: Nvidia is set to sell $12B worth of H20 chips in China in 2024, or 1M+ units; Huawei expects to sell ~550,000 units of Ascend 910B chips in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240704/p15#a240704p15)<!-- TECH:END -->
+ - [Microsoft-owned Mojang is exploring deals in areas like merchandising, education, and streaming, on top of movies and TV series, as gaming sector growth slows &lpar;Bloomberg&rpar;](http://www.techmeme.com/240704/p16#a240704p16)
+ - [Light up your TV for just $6.50 with this Govee TV LED Backlights deal](https://www.androidauthority.com/govee-tv-led-backlights-deal-3457493/)
+ - [Google takes first major step for E2EE interoperability across all messaging apps &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-mls-e2ee-messages-3457483/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
