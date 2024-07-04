@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the EU plans to issue a final warning to X over its failure to combat dangerous content under the DSA; X faces fines of 6% of its global revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/240704/p14#a240704p14)
- - [Best Buy knocks 40% off Backbone One gaming controller for iPhone today only](https://appleinsider.com/articles/24/07/04/best-buy-knocks-40-off-backbone-one-gaming-controller-for-iphone-today-only?utm_medium=rss)
- - [Amazon will brick its Astro robot intentionally within a year of launch](https://www.androidauthority.com/amazon-astro-robot-3457379/)<!-- TECH:END -->
+ - [The best new streaming movies this week: A Family Affair, Fancy Dance, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [2FA hack reveals personal info on millions of people](https://www.androidauthority.com/authy-2fa-api-hack-3457429/)
+ - [SemiAnalysis: Nvidia is set to sell $12B worth of H20 chips in China in 2024, or 1M+ units; Huawei expects to sell ~550,000 units of Ascend 910B chips in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240704/p15#a240704p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
