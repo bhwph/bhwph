@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
- - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
- - 👉 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)<!-- MEMES:END -->
+ - 6️⃣ [Rabbit hole](http://9gag.com/gag/aD2oWnx)
+ - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 👉 [Stress level went down 1000%](http://9gag.com/gag/aoy9162)<!-- MEMES:END -->
 
 --- 
 
