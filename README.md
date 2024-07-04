@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
- - 👉 [Rocket engine designer by ai](http://9gag.com/gag/abA00Kp)<!-- MEMES:END -->
+ - 6️⃣ [After being knocked out of the Euros the Romanian team left their locker room spotless and wrote a thank you note for Germany for hosting. For many we are still gypsies but we are not so much as we used to be](http://9gag.com/gag/aZZMmLV)
+ - 😝 [Just move on.](http://9gag.com/gag/a5Q7rDG)
+ - 👉 [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)<!-- MEMES:END -->
 
 --- 
 
