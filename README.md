@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zenless Zone Zero codes for July 2024](https://www.polygon.com/zenless-zone-zero-guides/24191640/zzz-codes-redeem-redemption-gift-polychrome)
- - [Officer Mewmew Medal locations in Zenless Zone Zero](https://www.polygon.com/zenless-zone-zero-guides/24191618/officer-mewmew-medal-locations-zzz)
- - [Chapter 2 ‘Speedy Chaser’ exploration walkthrough in Zenless Zone Zero](https://www.polygon.com/zenless-zone-zero-guides/24191597/chapter-2-zzz-speedy-chaser-exploration-walkthrough)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, July 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-4-2024)
+ - [The making of Cult of the Lamb: &#39;A lot of the design was trying to encourage the player to be evil&#39;](https://www.pcgamer.com/games/action/the-making-of-cult-of-the-lamb-a-lot-of-the-design-was-trying-to-encourage-the-player-to-be-evil)
+ - [Zenless Zone Zero codes for July 2024](https://www.polygon.com/zenless-zone-zero-guides/24191640/zzz-codes-redeem-redemption-gift-polychrome)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
