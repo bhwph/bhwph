@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
- - 😝 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)
- - 👉 [Seeenk u very much](http://9gag.com/gag/azxjrKj)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s why I love Italy](http://9gag.com/gag/aO8VzZv)
+ - 😝 [And now I&#39;m an unemployed software engineer](http://9gag.com/gag/abA0Mqb)
+ - 👉 [Batgirl](http://9gag.com/gag/amo97X4)<!-- MEMES:END -->
 
 --- 
 
