@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A massive new Galaxy Z Fold 6 and Flip 6 leak confirms few upgrades and stale specs](https://www.androidauthority.com/z-fold6-flip6-major-leak-3457173/)
- - [Boox Go Color 7 review: a simulacra of the paperback experience](https://appleinsider.com/articles/24/07/04/boox-go-color-7-review-a-simulacra-of-the-paperback-experience?utm_medium=rss)
- - [Canada authorizes the implementation of a 3% levy on revenue from large tech companies that provide digital services to or sell data of Canadian users &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p29#a240703p29)<!-- TECH:END -->
+ - [An investigation details how online gambling giants Flutter and Entain employ practices in the US that they dropped in the UK after admitting risks to UK users &lpar;Tom Bergin/Reuters&rpar;](http://www.techmeme.com/240704/p2#a240704p2)
+ - [Fitbit Charge 7 wishlist: All the features I want to see](https://www.androidauthority.com/fitbit-charge-7-3457151/)
+ - [Google doesn’t fully understand what a Locked Folder is for in Google Photos](https://www.androidauthority.com/google-photos-locked-folder-button-3457108/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
