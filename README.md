@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney abandoned Princess Tiana — until it suddenly needed her help](https://www.polygon.com/24191797/tianas-bayou-adventure-splash-mountain-song-of-the-south-racism)
- - [FTC fires out warnings to ASRock, Gigabyte and Zotac over &#39;Warranty void if removed&#39; stickers in violation of US law](https://www.pcgamer.com/hardware/ftc-fires-out-warnings-to-asrock-gigabyte-and-zotac-over-warranty-void-if-removed-stickers-in-violation-of-us-law)
- - [Nintendo just dropped 7 NES curios on Switch Online for the holiday weekend](https://www.polygon.com/nintendo/24192167/nintendo-switch-online-nes-july-4-2024)<!-- GAME:END -->
+ - [Final Fantasy 14&#39;s director confirms that no, Pictomancers weren&#39;t meant to manually remove their own buffs for a 1% DPS increase—outlines other job changes for patch 7.01 of Dawntrail](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-s-director-confirms-that-no-pictomancers-weren-t-meant-to-manually-remove-their-own-buffs-for-a-1-dps-increase-outlines-other-job-changes-for-patch-7-01-of-dawntrail)
+ - [David Hasselhoff cracks out the old leather jacket and KITT from Knight Rider to tell gamers to &#39;grab your joysticks&#39; and fight global warming](https://www.pcgamer.com/gaming-industry/david-hasselhoff-cracks-out-the-old-leather-jacket-and-kitt-from-knight-rider-to-tell-gamers-to-grab-your-joysticks-and-fight-global-warming)
+ - [Maxxxine isn’t just paying homage to exploitation thrillers… it is one](https://www.polygon.com/24191973/maxxxine-ti-west-x-trilogy-1980s-exploitation-thrillers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
