@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s why I love Italy](http://9gag.com/gag/aO8VzZv)
- - 😝 [And now I&#39;m an unemployed software engineer](http://9gag.com/gag/abA0Mqb)
- - 👉 [Batgirl](http://9gag.com/gag/amo97X4)<!-- MEMES:END -->
+ - 6️⃣ [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
+ - 😝 [Batgirl](http://9gag.com/gag/amo97X4)
+ - 👉 [And now I&#39;m an unemployed software engineer](http://9gag.com/gag/abA0Mqb)<!-- MEMES:END -->
 
 --- 
 
