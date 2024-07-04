@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Midnight Blizzard source code breach also impacted federal agencies](https://www.theverge.com/2024/7/4/24192159/microsoft-midnight-blizzard-hack-targets)
- - [A Samsung Galaxy Ring subscription should terrify Galaxy Watch owners](https://www.androidauthority.com/samsung-galaxy-ring-subscription-3456523/)
- - [Dear Roku, you ruined my TV](https://www.theverge.com/24188282/roku-tv-update-motion-smoothing-turn-off)<!-- TECH:END -->
+ - [Android 15’s Contact Keys is a step towards Apple-like protection from cyber attacks &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contact-keys-feature-apk-teardown-3457277/)
+ - [Meta releases pre-trained models that use a novel multi-token prediction approach, available on Hugging Face under a non-commercial research license &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240704/p12#a240704p12)
+ - [Nike’s self-lacing Adapt BB sneakers are losing their remote control mobile app](https://www.theverge.com/2024/7/4/24192184/nike-adapt-bb-shoes-sneakers-apple-android-app)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
