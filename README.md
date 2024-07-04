@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stunt man at next f**king lvl](http://9gag.com/gag/aVvPqNn)
- - 😝 [Smooth taekwondo](http://9gag.com/gag/aByYW4Z)
- - 👉 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)<!-- MEMES:END -->
+ - 6️⃣ [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
+ - 😝 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)
+ - 👉 [Seeenk u very much](http://9gag.com/gag/azxjrKj)<!-- MEMES:END -->
 
 --- 
 
