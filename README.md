@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [The Game Boy Camera will soon get a second life as an awful webcam](https://www.theverge.com/2024/7/3/24191794/gb-operator-game-boy-camera-webcam-epilogue-nintendo)
- - [Here&#39;s How to Marvel at the Milky Way Without a Telescope Until July 13](https://www.cnet.com/science/heres-how-to-marvel-at-the-milky-way-without-a-telescope-until-july-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The FTC’s ban against noncompete agreements is under threat](https://www.theverge.com/2024/7/3/24191946/ftc-noncompete-ban-judge-preliminary-injunction)
+ - [Turn Up the Sound on July 4th With Over $150 Off the Sonos Arc Soundbar](https://www.cnet.com/deals/turn-up-the-sound-on-july-4th-with-over-150-off-the-sonos-arc-soundbar/#ftag=CAD590a51e)
+ - [Microsoft agrees to pay $14.4M to settle with the California Civil Rights Department over allegations it discriminated against workers who took protected leave &lpar;Associated Press&rpar;](http://www.techmeme.com/240703/p27#a240703p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
