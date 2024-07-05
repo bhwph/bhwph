@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming shows this week: Red Swan, Land of Tanabata, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [Stay Powered Up on the Go With Huge Savings on a Jackery Power Station for Prime Members](https://www.cnet.com/deals/stay-powered-up-on-the-go-with-huge-savings-on-a-jackery-power-station-for-prime-members/#ftag=CAD590a51e)
- - [Save up to 39% on MyQ Smart Home Devices With This Extended July 4th Sale](https://www.cnet.com/deals/save-up-to-39-on-myq-smart-home-devices-with-this-extended-july-4th-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Samsung and LG amazing gaming monitor are 31-41% off!](https://www.androidauthority.com/samsung-lg-gaming-monitor-deals-3457843/)
+ - [Interfax: Apple removed the mobile apps of 25 VPN services from its App Store in Russia, following a request by state communications watchdog Roskomnadzor &lpar;Reuters&rpar;](http://www.techmeme.com/240705/p11#a240705p11)
+ - [Save $207 on four Blink Outdoor 4 security cameras](https://www.androidauthority.com/blink-outdoor-4-deal-3457818/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
