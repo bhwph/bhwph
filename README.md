@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Home Hub may be more than just a HomePod with a screen](https://appleinsider.com/articles/24/07/05/apples-home-hub-may-be-more-than-just-a-homepod-with-a-screen?utm_medium=rss)
- - [Epic says Apple is impeding its attempts to set up a games store on iPhones and iPads in Europe and that it has shared its concerns with the European Commission &lpar;Reuters&rpar;](http://www.techmeme.com/240705/p4#a240705p4)
- - [The World’s Most Popular 3D-Printed Gun Was Designed by an Aspiring Terrorist](https://www.wired.com/story/3d-printing-guns-fgc9-creator-jacob-dugyu-jstark1809/)<!-- TECH:END -->
+ - [Google wants to cut its reliance on Apple for search revenue](https://appleinsider.com/articles/24/07/05/google-wants-to-cut-its-reliance-on-apple-for-search-revenue?utm_medium=rss)
+ - [Don’t shut down my phone, Google, get those temps under control!](https://www.androidauthority.com/google-pixel-adaptive-thermal-heating-3456013/)
+ - [The Playdate makes a surprisingly good e-reader](https://www.theverge.com/24191461/playdate-ereader-app-playbook-panic-teenage-engineering)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
