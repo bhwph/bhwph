@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to create PDFs on iPhones using Notes](https://www.theverge.com/24191864/pdf-iphone-ipad-ios-how-to)
- - [Google could make it easier to remove accounts from the Contacts app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-without-account-3457395/)
- - [Brad Pitt&#39;s &#39;F1&#39; Apple Original film speeds to theaters in summer 2025](https://appleinsider.com/articles/24/07/05/brad-pitts-f1-apple-original-film-speeds-to-theaters-in-summer-2025?utm_medium=rss)<!-- TECH:END -->
+ - [The best new streaming shows this week: Red Swan, Land of Tanabata, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [Stay Powered Up on the Go With Huge Savings on a Jackery Power Station for Prime Members](https://www.cnet.com/deals/stay-powered-up-on-the-go-with-huge-savings-on-a-jackery-power-station-for-prime-members/#ftag=CAD590a51e)
+ - [Save up to 39% on MyQ Smart Home Devices With This Extended July 4th Sale](https://www.cnet.com/deals/save-up-to-39-on-myq-smart-home-devices-with-this-extended-july-4th-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
