@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Every damn time.](http://9gag.com/gag/avyPoDq)
- - 😝 [Lol.](http://9gag.com/gag/aByYgLO)
- - 👉 [\u2606\u2606\u2606](http://9gag.com/gag/aByY09D)<!-- MEMES:END -->
+ - 6️⃣ [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
+ - 😝 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
+ - 👉 [Here kitty kitty](http://9gag.com/gag/a9y7AdD)<!-- MEMES:END -->
 
 --- 
 
