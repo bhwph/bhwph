@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Genshin Impact codes from the 4.8 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-4-8-livestream)
- - [Microsoft patents a technique to display encrypted documents so only you can see them](https://www.pcgamer.com/software/security/microsoft-patents-a-technique-to-display-encrypted-documents-so-only-you-can-see-them)
- - [An ambitious Starfield mod that sought to bring Elder Scrolls to a single planet has been canned, but the modders insist that it wasn&#39;t a joke: &#39;The project was genuine&#39;](https://www.pcgamer.com/games/rpg/an-ambitious-starfield-mod-that-sought-to-bring-elder-scrolls-to-a-single-planet-has-been-canned-but-the-modders-insist-that-it-wasnt-a-joke-the-project-was-genuine)<!-- GAME:END -->
+ - [Space Cadet is a spiritual successor to Legally Blonde](https://www.polygon.com/reviews/24191786/space-cadet-emma-roberts-review)
+ - [Next Week on Xbox: New Games for July 8 to 12](https://news.xbox.com/en-us/2024/07/05/next-week-on-xbox-new-games-for-july-8-to-12/)
+ - [Here&#39;s your reminder how close AMD came to financial collapse and just how much we owe to the PlayStation 4 and Xbox One](https://www.pcgamer.com/hardware/processors/heres-your-reminder-how-close-amd-came-to-financial-collapse-and-just-how-much-we-owe-to-the-playstation-4-and-xbox-one)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
