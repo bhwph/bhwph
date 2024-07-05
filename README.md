@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
- - 😝 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)
- - 👉 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)<!-- MEMES:END -->
+ - 6️⃣ [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
+ - 😝 [Little old lady walking jacob around the city](http://9gag.com/gag/a5Q7RZy)
+ - 👉 [Ubisoft CEO says the outrage ove Assassins Creed Shadows is bunch of white men posing as Japanese. In response the Japanese start a petition and start voicing their discontent on yt. My Japanese gaming brothers speak up you have every right](http://9gag.com/gag/amo95ny)<!-- MEMES:END -->
 
 --- 
 
