@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Phew. The Galaxy Z Flip 6 might not have a downgraded cover screen afterall &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-z-flip-6-cover-screen-downgrade-3457580/)
- - [The Steam Summer Sale Has Arrived. Here&#39;s a List of All Steam Sales](https://www.cnet.com/tech/services-and-software/when-are-steam-sales/#ftag=CAD590a51e)
- - [My Go-To Wearable Air Conditioner Is 15% Off](https://www.cnet.com/tech/mobile/my-go-to-wearable-air-conditioner-is-15-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to create PDFs on iPhones using Notes](https://www.theverge.com/24191864/pdf-iphone-ipad-ios-how-to)
+ - [Google could make it easier to remove accounts from the Contacts app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-without-account-3457395/)
+ - [Brad Pitt&#39;s &#39;F1&#39; Apple Original film speeds to theaters in summer 2025](https://appleinsider.com/articles/24/07/05/brad-pitts-f1-apple-original-film-speeds-to-theaters-in-summer-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
