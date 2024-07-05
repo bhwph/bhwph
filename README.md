@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google wants to cut its reliance on Apple for search revenue](https://appleinsider.com/articles/24/07/05/google-wants-to-cut-its-reliance-on-apple-for-search-revenue?utm_medium=rss)
- - [Don’t shut down my phone, Google, get those temps under control!](https://www.androidauthority.com/google-pixel-adaptive-thermal-heating-3456013/)
- - [The Playdate makes a surprisingly good e-reader](https://www.theverge.com/24191461/playdate-ereader-app-playbook-panic-teenage-engineering)<!-- TECH:END -->
+ - [Phew. The Galaxy Z Flip 6 might not have a downgraded cover screen afterall &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-z-flip-6-cover-screen-downgrade-3457580/)
+ - [The Steam Summer Sale Has Arrived. Here&#39;s a List of All Steam Sales](https://www.cnet.com/tech/services-and-software/when-are-steam-sales/#ftag=CAD590a51e)
+ - [My Go-To Wearable Air Conditioner Is 15% Off](https://www.cnet.com/tech/mobile/my-go-to-wearable-air-conditioner-is-15-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
