@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Flip 6 might have a downgraded cover screen](https://www.androidauthority.com/samsung-galaxy-z-flip-6-cover-screen-downgrade-3457580/)
- - [How Labour Can Fix the UK’s Tech Industry](https://www.wired.com/story/can-the-uk-finally-fix-techs-big-pipeline-problem/)
- - [Health Care Should Be Designed for the Extremes of Life](https://www.wired.com/story/wired-health-yves-behar-design-health-fuseproject-snoo-moxie/)<!-- TECH:END -->
+ - [The Galaxy Z Fold 6 slim model could be bigger &lpar;in a good way&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-6-slim-launch-window-screen-size-3457619/)
+ - [YouTube releases an updated Erase Song tool for creators that uses AI to detect and remove any copyrighted music from their videos without impacting other audio &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240705/p2#a240705p2)
+ - [Russia forces Apple to remove VPN apps from the App Store](https://appleinsider.com/articles/24/07/05/russia-forces-apple-to-remove-vpn-apps-from-the-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
