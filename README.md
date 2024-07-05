@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Studio Ponoc wants its anime to change the world — and escape Studio Ghibli’s shadow](https://www.polygon.com/anime/24190136/studio-ponoc-the-imaginary-netflix-yoshiaki-nishimura-interview)
- - [Share of the Week: Fireworks](https://blog.playstation.com/2024/07/05/share-of-the-week-fireworks/)
- - [Steamy &#39;Overwatch cabaret club&#39; where you can pay to have women fall asleep on voice chat with you gets obliterated, is immediately replaced by even steamier Apex version](https://www.pcgamer.com/games/fps/steamy-overwatch-cabaret-club-where-you-can-pay-to-have-women-fall-asleep-on-voice-chat-with-you-gets-obliterated-is-immediately-replaced-by-even-steamier-apex-version)<!-- GAME:END -->
+ - [It&#39;s Time To Jump Into One Of The Longest-Running Japanese RPG Series Out There](https://kotaku.com/trails-daybreak-where-start-ps5-switch-rpg-1851578706)
+ - [Kotaku’s Weekend Guide: 6 Great Games We’re Kicking Off July With](https://kotaku.com/kotaku-games-to-play-ff14-gdq-helldivers-1851578676)
+ - [Card-based city-builder Tiny Kingdom might look cosy, but there&#39;s no time to relax when the fate of the realm is literally in your hand](https://www.pcgamer.com/games/city-builder/card-based-city-builder-tiny-kingdom-might-look-cosy-but-theres-no-time-to-relax-when-the-fate-of-the-realm-is-literally-in-your-hand)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
