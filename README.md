@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ms. Le Pen met the Grand Mufti of Al Azhar. The Mufti asked him to put on her veil to visit her. Le Pen, I wish you good afternoon. Separating the political color, She acted like a true empowering woman as well as a feminist.](http://9gag.com/gag/aE07x5n)
- - 😝 [A day in the life of a delivery man](http://9gag.com/gag/aqy5777)
- - 👉 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)<!-- MEMES:END -->
+ - 6️⃣ [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
+ - 😝 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)
+ - 👉 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)<!-- MEMES:END -->
 
 --- 
 
