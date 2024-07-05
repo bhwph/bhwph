@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 5, #124](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-5-124/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 5, #1112](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-5-1112/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 5, #390](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-5-390/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Ultra 3 wishlist: All the features I want to see](https://www.androidauthority.com/apple-watch-ultra-3-3456461/)
+ - [The prospect of applying generative AI to contract lifecycle management software has prompted a flurry of deals, as experts expect further market consolidation &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/240705/p1#a240705p1)
+ - [Best July 4th Mattress Deals: 23 Different Designs to Find the Best Night&#39;s Sleep](https://www.cnet.com/deals/best-july-4th-mattress-deals-23-different-designs-to-find-the-best-nights-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
