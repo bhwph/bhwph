@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Space Cadet is a spiritual successor to Legally Blonde](https://www.polygon.com/reviews/24191786/space-cadet-emma-roberts-review)
- - [Next Week on Xbox: New Games for July 8 to 12](https://news.xbox.com/en-us/2024/07/05/next-week-on-xbox-new-games-for-july-8-to-12/)
- - [Here&#39;s your reminder how close AMD came to financial collapse and just how much we owe to the PlayStation 4 and Xbox One](https://www.pcgamer.com/hardware/processors/heres-your-reminder-how-close-amd-came-to-financial-collapse-and-just-how-much-we-owe-to-the-playstation-4-and-xbox-one)<!-- GAME:END -->
+ - [Studio Ponoc wants its anime to change the world — and escape Studio Ghibli’s shadow](https://www.polygon.com/anime/24190136/studio-ponoc-the-imaginary-netflix-yoshiaki-nishimura-interview)
+ - [Share of the Week: Fireworks](https://blog.playstation.com/2024/07/05/share-of-the-week-fireworks/)
+ - [Steamy &#39;Overwatch cabaret club&#39; where you can pay to have women fall asleep on voice chat with you gets obliterated, is immediately replaced by even steamier Apex version](https://www.pcgamer.com/games/fps/steamy-overwatch-cabaret-club-where-you-can-pay-to-have-women-fall-asleep-on-voice-chat-with-you-gets-obliterated-is-immediately-replaced-by-even-steamier-apex-version)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
