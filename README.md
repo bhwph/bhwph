@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft-owned Mojang is exploring deals in areas like merchandising, education, and streaming, on top of movies and TV series, as gaming sector growth slows &lpar;Bloomberg&rpar;](http://www.techmeme.com/240704/p16#a240704p16)
- - [Light up your TV for just $6.50 with this Govee TV LED Backlights deal](https://www.androidauthority.com/govee-tv-led-backlights-deal-3457493/)
- - [Google takes first major step for E2EE interoperability across all messaging apps &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-mls-e2ee-messages-3457483/)<!-- TECH:END -->
+ - [Cloudflare launches a tool that aims to block bots from scraping websites for AI training data, available free for all customers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240704/p18#a240704p18)
+ - [Download the Samsung Galaxy Z Flip 6 wallpapers here](https://www.androidauthority.com/samsung-galaxy-z-flip-6-wallpapers-3457525/)
+ - [Get a Sitewide 20% Discount at Urban Armor Gear for July 4th](https://www.cnet.com/deals/sitewide-20-discount-urban-armor-gear-july-4th/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
