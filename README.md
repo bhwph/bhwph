@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
- - 😝 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)
- - 👉 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)<!-- MEMES:END -->
+ - 😝 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)
+ - 👉 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)<!-- MEMES:END -->
 
 --- 
 
