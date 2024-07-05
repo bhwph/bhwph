@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)
- - 😝 [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
- - 👉 [He was not ready for that.](http://9gag.com/gag/a2vm49e)<!-- MEMES:END -->
+ - 6️⃣ [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
+ - 😝 [Holy f**king christ!](http://9gag.com/gag/axyj7rD)
+ - 👉 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)<!-- MEMES:END -->
 
 --- 
 
