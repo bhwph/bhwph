@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s Time To Jump Into One Of The Longest-Running Japanese RPG Series Out There](https://kotaku.com/trails-daybreak-where-start-ps5-switch-rpg-1851578706)
- - [Kotaku’s Weekend Guide: 6 Great Games We’re Kicking Off July With](https://kotaku.com/kotaku-games-to-play-ff14-gdq-helldivers-1851578676)
- - [Card-based city-builder Tiny Kingdom might look cosy, but there&#39;s no time to relax when the fate of the realm is literally in your hand](https://www.pcgamer.com/games/city-builder/card-based-city-builder-tiny-kingdom-might-look-cosy-but-theres-no-time-to-relax-when-the-fate-of-the-realm-is-literally-in-your-hand)<!-- GAME:END -->
+ - [Satisfactory 1.0 is finally out in September with two megaton changes: easier-to-manufacture computers and flushable toilets](https://www.pcgamer.com/games/sim/satisfactory-10-is-finally-out-in-september-with-two-megaton-changes-easier-to-manufacture-computers-and-flushable-toilets)
+ - [After a year of competitive dino survival, Capcom ends new updates for Exoprimal](https://www.pcgamer.com/games/action/after-a-year-of-competitive-dino-survival-capcom-ends-new-updates-for-exoprimal)
+ - [Factorio&#39;s big Space Age expansion arrives in October and it&#39;s going to be even bigger than we thought](https://www.pcgamer.com/games/sim/factorios-big-space-age-expansion-arrives-in-october-and-its-going-to-be-even-bigger-than-we-thought)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
