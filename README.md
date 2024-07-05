@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
- - 😝 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
- - 👉 [Here kitty kitty](http://9gag.com/gag/a9y7AdD)<!-- MEMES:END -->
+ - 6️⃣ [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)
+ - 😝 [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
+ - 👉 [He was not ready for that.](http://9gag.com/gag/a2vm49e)<!-- MEMES:END -->
 
 --- 
 
