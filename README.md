@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Fold 6 slim model could be bigger &lpar;in a good way&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-6-slim-launch-window-screen-size-3457619/)
- - [YouTube releases an updated Erase Song tool for creators that uses AI to detect and remove any copyrighted music from their videos without impacting other audio &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240705/p2#a240705p2)
- - [Russia forces Apple to remove VPN apps from the App Store](https://appleinsider.com/articles/24/07/05/russia-forces-apple-to-remove-vpn-apps-from-the-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s Home Hub may be more than just a HomePod with a screen](https://appleinsider.com/articles/24/07/05/apples-home-hub-may-be-more-than-just-a-homepod-with-a-screen?utm_medium=rss)
+ - [Epic says Apple is impeding its attempts to set up a games store on iPhones and iPads in Europe and that it has shared its concerns with the European Commission &lpar;Reuters&rpar;](http://www.techmeme.com/240705/p4#a240705p4)
+ - [The World’s Most Popular 3D-Printed Gun Was Designed by an Aspiring Terrorist](https://www.wired.com/story/3d-printing-guns-fgc9-creator-jacob-dugyu-jstark1809/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
