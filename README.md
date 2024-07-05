@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He was not ready for that.](http://9gag.com/gag/a2vm49e)
- - 😝 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
- - 👉 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s same as spiderteen having a hot aunt.](http://9gag.com/gag/aW468A6)
+ - 😝 [BALERION](http://9gag.com/gag/azxj9GB)
+ - 👉 [Fire in the hole](http://9gag.com/gag/a1mMQpD)<!-- MEMES:END -->
 
 --- 
 
