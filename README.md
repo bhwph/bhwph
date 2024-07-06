@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Police pulled over a Waymo car that drove in the oncoming lane in Phoenix](https://www.theverge.com/2024/7/6/24193094/phoenix-waymo-car-pulled-over-traffic-stop-oncoming-lane-police)
- - [July 4th Smart Home Deals Not to Miss: Big Discounts on Our Favorite Security Cameras, Video Doorbells, Smartbulbs and More](https://www.cnet.com/deals/best-july-4th-smart-home-sales-2024-07-06/#ftag=CAD590a51e)
- - [Best VPN for Netflix in 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Soft reset: Three ways Motorola can recapture its glory days](https://www.androidauthority.com/soft-reset-motorola-changes-3453528/)
+ - [Save Up to 50% on Govee Smart Lights This Weekend With These Post-July 4th Deals](https://www.cnet.com/deals/save-up-to-50-on-govee-smart-lights-this-weekend-with-these-post-july-4th-deals/#ftag=CAD590a51e)
+ - [Save Up to 50% on Portable Power Stations With Jackery&#39;s July 4th Weekend Sale](https://www.cnet.com/deals/save-up-to-50-on-portable-power-stations-with-jackerys-july-4th-weekend-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
