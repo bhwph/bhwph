@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
- - 😝 [Holy f**king christ!](http://9gag.com/gag/axyj7rD)
- - 👉 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)<!-- MEMES:END -->
+ - 6️⃣ [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
+ - 😝 [The End](http://9gag.com/gag/aQz8oxK)
+ - 👉 [Lovely](http://9gag.com/gag/a5Q7WdE)<!-- MEMES:END -->
 
 --- 
 
