@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final Fantasy creator Hironobu Sakaguchi talks about reuniting with Square Enix to bring his company Mistwalker&#39;s Apple Arcade RPG Fantasian to PC and consoles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240706/p5#a240706p5)
- - [Dear. Android — Leave. The. Power. Button. Alone.](https://www.androidauthority.com/dear-android-leave-power-button-alone-3456098/)
- - [How to Choose the Right TV: Quantum Dots, HDR, and More in 2024](https://www.wired.com/story/how-to-buy-the-right-tv/)<!-- TECH:END -->
+ - [Police pulled over a Waymo car that drove in the oncoming lane in Phoenix](https://www.theverge.com/2024/7/6/24193094/phoenix-waymo-car-pulled-over-traffic-stop-oncoming-lane-police)
+ - [July 4th Smart Home Deals Not to Miss: Big Discounts on Our Favorite Security Cameras, Video Doorbells, Smartbulbs and More](https://www.cnet.com/deals/best-july-4th-smart-home-sales-2024-07-06/#ftag=CAD590a51e)
+ - [Best VPN for Netflix in 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
