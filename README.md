@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Kenya&#39;s anti-government protestors are using AI tools, including the Corrupt Politicians GPT, a chatbot that reveals corruption cases involving politicians &lpar;Martin K.N Siele/Semafor&rpar;](http://www.techmeme.com/240705/p13#a240705p13)
- - [July 4th Smart Home Deals Still Going Strong: Save on Smart Lights, Robot Vacuums and More](https://www.cnet.com/deals/best-july-4th-smart-home-sales-2024-07-05/#ftag=CAD590a51e)
- - [Sleep It Off With Bedgear&#39;s Extended July 4 Deal: Up to $800 Off Select Mattresses](https://www.cnet.com/deals/sleep-it-off-with-bedgears-extended-july-4-deal-up-to-800-off-select-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Preqin: China accounted for 90% of global semiconductor VC funding in 2023, with $22.2B and up from $9.5B in 2022; the funding slowed to just $1.6B in H1 2024 &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/240706/p1#a240706p1)
+ - [French AI research lab Kyutai, which launched in November with &amp;euro;300M in funding and is backed by billionaire Xavier Niel, demos its AI voice assistant Moshi &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240705/p14#a240705p14)
+ - [How Kenya&#39;s anti-government protestors are using AI tools, including the Corrupt Politicians GPT, a chatbot that reveals corruption cases involving politicians &lpar;Martin K.N Siele/Semafor&rpar;](http://www.techmeme.com/240705/p13#a240705p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
