@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)
- - 😝 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
- - 👉 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)<!-- MEMES:END -->
+ - 6️⃣ [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
+ - 😝 [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
+ - 👉 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)<!-- MEMES:END -->
 
 --- 
 
