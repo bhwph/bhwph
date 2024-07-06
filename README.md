@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now give me your money!](http://9gag.com/gag/aKGq7qb)
- - 😝 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
- - 👉 [David Purley trying to save Roger Williamson &lpar;1973&rpar;. Purley later recalled that upon arriving at the scene, he heard Williamson crying for help as the fire began to take hold. The marshals were not wearing fire resistant clothing.](http://9gag.com/gag/a6Z71oR)<!-- MEMES:END -->
+ - 6️⃣ [Moose impression](http://9gag.com/gag/aYQeYX2)
+ - 😝 [Holy f**king christ!](http://9gag.com/gag/axyj7rD)
+ - 👉 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)<!-- MEMES:END -->
 
 --- 
 
