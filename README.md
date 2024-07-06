@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [33 Best Apple July 4th Deals: Grab Savings on AirPods, Apple Watch, MacBooks and More Before They’re Gone](https://www.cnet.com/deals/apple-july-4th-deals-2024-07-05/#ftag=CAD590a51e)
- - [Best July 4th Sales 2024: 89 Deals You Can Still Shop at Amazon, Best Buy, Home Depot and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-05/#ftag=CAD590a51e)
- - [How to Lose Weight and Keep It Off by Avoiding These 6 Habits](https://www.cnet.com/health/nutrition/how-to-lose-weight-and-keep-it-off-by-avoiding-these-6-habits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Kenya&#39;s anti-government protestors are using AI tools, including the Corrupt Politicians GPT, a chatbot that reveals corruption cases involving politicians &lpar;Martin K.N Siele/Semafor&rpar;](http://www.techmeme.com/240705/p13#a240705p13)
+ - [July 4th Smart Home Deals Still Going Strong: Save on Smart Lights, Robot Vacuums and More](https://www.cnet.com/deals/best-july-4th-smart-home-sales-2024-07-05/#ftag=CAD590a51e)
+ - [Sleep It Off With Bedgear&#39;s Extended July 4 Deal: Up to $800 Off Select Mattresses](https://www.cnet.com/deals/sleep-it-off-with-bedgears-extended-july-4-deal-up-to-800-off-select-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
