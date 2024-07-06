@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Original Fallout lead Tim Cain says the team planned for there to be 1000 Vaults, but he thinks there are actually far fewer in the setting](https://www.pcgamer.com/games/rpg/original-fallout-lead-tim-cain-says-the-team-originally-planned-for-there-to-be-1000-vaults-but-he-thinks-there-are-actually-far-fewer-in-the-setting)
  - [Super Mario Odyssey is actually the best venue for virtual hide-and-seek ever](https://www.polygon.com/24191500/super-mario-odyssey-hide-and-seek-mod)
- - [Dawntrail Players Should Read The Damn Dialogue, Cloud Gaming Is Good Actually, And More Opinions For The Week](https://kotaku.com/dawntrail-story-cutscenes-sony-ps4-support-1851578552)
- - [Did Ti West cut an entire gay subplot from Maxxxine?](https://www.polygon.com/24191118/maxxxine-subplot-leon-gay-friend-explained)<!-- GAME:END -->
+ - [Dawntrail Players Should Read The Damn Dialogue, Cloud Gaming Is Good Actually, And More Opinions For The Week](https://kotaku.com/dawntrail-story-cutscenes-sony-ps4-support-1851578552)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
