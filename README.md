@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Modern problems require ancient solution](http://9gag.com/gag/aMVG4PR)
- - 😝 [Sweden](http://9gag.com/gag/a7o7E8r)
- - 👉 [Now give me your money!](http://9gag.com/gag/aKGq7qb)<!-- MEMES:END -->
+ - 6️⃣ [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)
+ - 😝 [Welcome to Houston](http://9gag.com/gag/aKGqdDg)
+ - 👉 [F around and find out](http://9gag.com/gag/awyxzMB)<!-- MEMES:END -->
 
 --- 
 
