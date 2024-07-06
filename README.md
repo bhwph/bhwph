@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Soft reset: Three ways Motorola can recapture its glory days](https://www.androidauthority.com/soft-reset-motorola-changes-3453528/)
- - [Save Up to 50% on Govee Smart Lights This Weekend With These Post-July 4th Deals](https://www.cnet.com/deals/save-up-to-50-on-govee-smart-lights-this-weekend-with-these-post-july-4th-deals/#ftag=CAD590a51e)
- - [Save Up to 50% on Portable Power Stations With Jackery&#39;s July 4th Weekend Sale](https://www.cnet.com/deals/save-up-to-50-on-portable-power-stations-with-jackerys-july-4th-weekend-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Messages better get this fix before iPhone RCS support rolls out](https://www.androidauthority.com/google-messages-rcs-photos-3457082/)
+ - [OnePlus Pad 2 detailed specifications leaked ahead of imminent launch](https://www.androidauthority.com/oneplus-pad2-specs-leak-3457913/)
+ - [33 Best Still-Live Apple July 4th Deals: Nab AirPods, MacBooks and More](https://www.cnet.com/deals/apple-july-4th-deals-2024-07-06/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
