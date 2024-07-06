@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, July 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-6-2024)
- - [Oh no, Rust just added my least favorite item from DayZ: handcuffs](https://www.pcgamer.com/games/survival-crafting/oh-no-rust-just-added-my-least-favorite-item-from-dayz-handcuffs)
- - [Marvel Snap&#39;s new Deadpool trailer accidentally included a phone number leading to a fishy &#39;free medical alert device&#39; promotion that I&#39;m pretty sure is a scam](https://www.pcgamer.com/games/card-games/marvel-snaps-new-deadpool-trailer-accidentally-included-a-phone-number-leading-to-a-fishy-free-medical-alert-device-promotion-that-im-pretty-sure-is-a-scam)<!-- GAME:END -->
+ - [What’s up with Beyond Good and Evil 2?](https://www.polygon.com/gaming/24191681/beyond-good-evil-2-development-what-happened)
+ - [Resident Evil 9 Quietly Announced, Nintendo Has Plans To Thwart Switch 2 Resellers, And More Of The Week&#39;s News](https://kotaku.com/nintendo-switch-scalpers-kai-cenat-mrbeast-4th-july-1851578550)
+ - [The best movies new to streaming this July](https://www.polygon.com/what-to-watch/2024/7/6/24186580/best-new-movies-netflix-amazon-prime-max-hulu-july-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
