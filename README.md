@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
- - 😝 [The End](http://9gag.com/gag/aQz8oxK)
- - 👉 [Lovely](http://9gag.com/gag/a5Q7WdE)<!-- MEMES:END -->
+ - 6️⃣ [After all those years\u2026 We are still waiting](http://9gag.com/gag/a1mMWXG)
+ - 😝 [Saharan sand from Africa covering snow in Europe.](http://9gag.com/gag/a5Q7MpV)
+ - 👉 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)<!-- MEMES:END -->
 
 --- 
 
