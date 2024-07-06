@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)
- - 😝 [Welcome to Houston](http://9gag.com/gag/aKGqdDg)
- - 👉 [F around and find out](http://9gag.com/gag/awyxzMB)<!-- MEMES:END -->
+ - 6️⃣ [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)
+ - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
+ - 👉 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)<!-- MEMES:END -->
 
 --- 
 
