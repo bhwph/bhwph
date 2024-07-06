@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s up with Beyond Good and Evil 2?](https://www.polygon.com/gaming/24191681/beyond-good-evil-2-development-what-happened)
- - [Resident Evil 9 Quietly Announced, Nintendo Has Plans To Thwart Switch 2 Resellers, And More Of The Week&#39;s News](https://kotaku.com/nintendo-switch-scalpers-kai-cenat-mrbeast-4th-july-1851578550)
- - [The best movies new to streaming this July](https://www.polygon.com/what-to-watch/2024/7/6/24186580/best-new-movies-netflix-amazon-prime-max-hulu-july-2024)<!-- GAME:END -->
+ - [Super Mario Odyssey is actually the best venue for virtual hide-and-seek ever](https://www.polygon.com/24191500/super-mario-odyssey-hide-and-seek-mod)
+ - [Dawntrail Players Should Read The Damn Dialogue, Cloud Gaming Is Good Actually, And More Opinions For The Week](https://kotaku.com/dawntrail-story-cutscenes-sony-ps4-support-1851578552)
+ - [Did Ti West cut an entire gay subplot from Maxxxine?](https://www.polygon.com/24191118/maxxxine-subplot-leon-gay-friend-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
