@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [After all those years\u2026 We are still waiting](http://9gag.com/gag/a1mMWXG)
- - 😝 [Saharan sand from Africa covering snow in Europe.](http://9gag.com/gag/a5Q7MpV)
- - 👉 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)<!-- MEMES:END -->
+ - 6️⃣ [AEZAKMI](http://9gag.com/gag/adBj5b9)
+ - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
+ - 👉 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)<!-- MEMES:END -->
 
 --- 
 
