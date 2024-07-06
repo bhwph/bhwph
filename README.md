@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, July 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-6-2024)
  - [Oh no, Rust just added my least favorite item from DayZ: handcuffs](https://www.pcgamer.com/games/survival-crafting/oh-no-rust-just-added-my-least-favorite-item-from-dayz-handcuffs)
- - [Marvel Snap&#39;s new Deadpool trailer accidentally included a phone number leading to a fishy &#39;free medical alert device&#39; promotion that I&#39;m pretty sure is a scam](https://www.pcgamer.com/games/card-games/marvel-snaps-new-deadpool-trailer-accidentally-included-a-phone-number-leading-to-a-fishy-free-medical-alert-device-promotion-that-im-pretty-sure-is-a-scam)
- - [Game Delayed For 22 Years Is Finally Out](https://kotaku.com/kien-game-boy-advance-22-years-most-delayed-game-gba-1851578935)<!-- GAME:END -->
+ - [Marvel Snap&#39;s new Deadpool trailer accidentally included a phone number leading to a fishy &#39;free medical alert device&#39; promotion that I&#39;m pretty sure is a scam](https://www.pcgamer.com/games/card-games/marvel-snaps-new-deadpool-trailer-accidentally-included-a-phone-number-leading-to-a-fishy-free-medical-alert-device-promotion-that-im-pretty-sure-is-a-scam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
