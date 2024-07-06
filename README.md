@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Samsung Phone of 2024](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
- - [Mt. Gox starts repaying customers, who will receive only ~15% of their lost bitcoins, but now worth many times more than their total 2014 holdings &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240706/p3#a240706p3)
- - [Electric bikepacking: lessons learned over four days and 250 miles](https://www.theverge.com/24187989/e-bikepacking-charging-range-lessons-gear-review)<!-- TECH:END -->
+ - [Better late than never: Apple remembers that women could get pregnant](https://www.androidauthority.com/apple-watch-pregnancy-3455116/)
+ - [This is the summer’s coolest new smart kitchen gadget — literally](https://www.theverge.com/24191807/ge-profile-opal-2-0-ultra-nugget-ice-maker-review)
+ - [A look at Meta&#39;s struggles to attract influencers to Threads, due to the platform&#39;s focus on text and its lack of a clear purpose for users &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240706/p4#a240706p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
