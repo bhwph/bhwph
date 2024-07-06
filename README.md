@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
- - 😝 [This dude has no job, 4 wives, and 2 girlfriends](http://9gag.com/gag/a6Z7E82)
- - 👉 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)<!-- MEMES:END -->
+ - 6️⃣ [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)
+ - 😝 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
+ - 👉 [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)<!-- MEMES:END -->
 
 --- 
 
