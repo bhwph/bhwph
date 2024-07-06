@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Better late than never: Apple remembers that women could get pregnant](https://www.androidauthority.com/apple-watch-pregnancy-3455116/)
- - [This is the summer’s coolest new smart kitchen gadget — literally](https://www.theverge.com/24191807/ge-profile-opal-2-0-ultra-nugget-ice-maker-review)
- - [A look at Meta&#39;s struggles to attract influencers to Threads, due to the platform&#39;s focus on text and its lack of a clear purpose for users &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240706/p4#a240706p4)<!-- TECH:END -->
+ - [Final Fantasy creator Hironobu Sakaguchi talks about reuniting with Square Enix to bring his company Mistwalker&#39;s Apple Arcade RPG Fantasian to PC and consoles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240706/p5#a240706p5)
+ - [Dear. Android — Leave. The. Power. Button. Alone.](https://www.androidauthority.com/dear-android-leave-power-button-alone-3456098/)
+ - [How to Choose the Right TV: Quantum Dots, HDR, and More in 2024](https://www.wired.com/story/how-to-buy-the-right-tv/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
