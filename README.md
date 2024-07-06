@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages better get this fix before iPhone RCS support rolls out](https://www.androidauthority.com/google-messages-rcs-photos-3457082/)
- - [OnePlus Pad 2 detailed specifications leaked ahead of imminent launch](https://www.androidauthority.com/oneplus-pad2-specs-leak-3457913/)
- - [33 Best Still-Live Apple July 4th Deals: Nab AirPods, MacBooks and More](https://www.cnet.com/deals/apple-july-4th-deals-2024-07-06/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [More than just a redesign: Photos in iOS 18 will also beef up security](https://appleinsider.com/articles/24/07/06/more-than-just-a-redesign-apples-next-photos-version-will-also-beef-up-security?utm_medium=rss)
+ - [NASCAR shows off an EV prototype](https://www.theverge.com/2024/7/6/24193272/nascar-ev-prototype-abb-electric-racing-sustainability)
+ - [Internet in the US Costs $63 a Month. Here’s How You Can Pay Less](https://www.cnet.com/home/internet/internet-in-the-us-costs-63-a-month-heres-how-you-can-pay-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
