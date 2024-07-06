@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)
+ - 6️⃣ [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)
  - 😝 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
- - 👉 [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)<!-- MEMES:END -->
+ - 👉 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)<!-- MEMES:END -->
 
 --- 
 
