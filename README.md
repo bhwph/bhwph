@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Apate, a conversational bot developed by Macquarie University&#39;s Cyber Security Hub in Australia to keep scam callers on the line while collecting data &lpar;Tory Shepherd/The Guardian&rpar;](http://www.techmeme.com/240707/p2#a240707p2)
- - [Worried about cleaning your pool this summer? The Beatbot AquaSense Pro has you covered](https://www.androidauthority.com/beatbot-aquasense-pro-3457879/)
- - [Why I’m making sure my next smartphone has tons of RAM](https://www.androidauthority.com/next-phone-more-ram-3456172/)<!-- TECH:END -->
+ - [Sources: Apple Watch Series 10 will be thinner and have bigger screens; main Siri upgrade will be part of iOS 18.4, with a dev beta in Jan. and a spring release &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240707/p3#a240707p3)
+ - [Big smartwatches look ridiculous on my small female wrist, but I still prefer them](https://www.androidauthority.com/big-smartwatches-on-small-wrists-3455468/)
+ - [What to expect at Samsung’s Galaxy Unpacked event in July](https://www.theverge.com/2024/7/7/24193550/samsung-galaxy-unpacked-july-2024-what-to-expect-z-fold-6-z-flip-6-galaxy-ring-watch-7-ultra-buds)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
