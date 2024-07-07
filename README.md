@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How To Use the iPhone Notes App To Send Secret Chats](https://www.cnet.com/tech/mobile/how-to-use-the-iphone-notes-app-to-send-secret-chats/#ftag=CAD590a51e)
  - [Last Chance July 4th Grill Deals: Fuel Up Your Summer Parties With Massive Savings](https://www.cnet.com/deals/best-july-4th-grill-sales-2024-07-06/#ftag=CAD590a51e)
- - [Extended July 4th Walmart Sales: 57 Great Deals on Home Goods, Tech, Video Games and More to Grab Before They&#39;re Gone](https://www.cnet.com/deals/walmart-july-4th-sale-2024-07-06/#ftag=CAD590a51e)
- - [July 4th Laptop Deals Expiring Soon: Grab These Discounts on Apple, Lenovo, HP, Dell and More](https://www.cnet.com/deals/july-4th-laptop-deals-2024-07-06/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Extended July 4th Walmart Sales: 57 Great Deals on Home Goods, Tech, Video Games and More to Grab Before They&#39;re Gone](https://www.cnet.com/deals/walmart-july-4th-sale-2024-07-06/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
