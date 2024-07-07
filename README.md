@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp’s new feature will let Meta AI edit your photos for you](https://www.androidauthority.com/whatsapp-meta-ai-update-3457975/)
- - [Score These Massively Discounted Open Earbuds for Just $25 Ahead of Prime Day](https://www.cnet.com/deals/score-these-massively-discounted-open-earbuds-for-just-25-ahead-of-prime-day/#ftag=CAD590a51e)
- - [Best Over-the-Counter Eye Drops of 2024](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Saudi media group MBC&#39;s Shahid has become the biggest streaming service in MENA with a 22% share, ahead of Starz Play Arabia at 18% and Netflix at 17% &lpar;Financial Times&rpar;](http://www.techmeme.com/240707/p5#a240707p5)
+ - [22 CNET Reader-Approved July 4th Deals That Are Still Going Strong](https://www.cnet.com/deals/here-are-cnet-readers-22-favorite-july-4th-deals-2024-07-07/#ftag=CAD590a51e)
+ - [Best Electric Toothbrushes of 2024](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
