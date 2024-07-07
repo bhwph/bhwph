@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Fold 6 is nearly here, but I’ve already found the foldable phone I’ve been waiting for](https://www.androidauthority.com/vivo-x-fold-3-pro-hands-on-review-3457603/)
- - [Score $300 Off Mattresses in WinkBeds&#39; Extended July 4th Sale](https://www.cnet.com/deals/score-300-off-mattresses-in-winkbeds-extended-july-4th-sale/#ftag=CAD590a51e)
- - [DefiLlama: the value of assets locked on the TON blockchain, which is used by Telegram, surged 1,400% this year to briefly top $1B &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/240707/p1#a240707p1)<!-- TECH:END -->
+ - [A look at Apate, a conversational bot developed by Macquarie University&#39;s Cyber Security Hub in Australia to keep scam callers on the line while collecting data &lpar;Tory Shepherd/The Guardian&rpar;](http://www.techmeme.com/240707/p2#a240707p2)
+ - [Worried about cleaning your pool this summer? The Beatbot AquaSense Pro has you covered](https://www.androidauthority.com/beatbot-aquasense-pro-3457879/)
+ - [Why I’m making sure my next smartphone has tons of RAM](https://www.androidauthority.com/next-phone-more-ram-3456172/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
