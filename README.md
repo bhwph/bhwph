@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How To Use the iPhone Notes App To Send Secret Chats](https://www.cnet.com/tech/mobile/how-to-use-the-iphone-notes-app-to-send-secret-chats/#ftag=CAD590a51e)
- - [Last Chance July 4th Grill Deals: Fuel Up Your Summer Parties With Massive Savings](https://www.cnet.com/deals/best-july-4th-grill-sales-2024-07-06/#ftag=CAD590a51e)
- - [Extended July 4th Walmart Sales: 57 Great Deals on Home Goods, Tech, Video Games and More to Grab Before They&#39;re Gone](https://www.cnet.com/deals/walmart-july-4th-sale-2024-07-06/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DefiLlama: the value of assets locked on the TON blockchain, which is used by Telegram, surged 1,400% this year to briefly top $1B &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/240707/p1#a240707p1)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 7, #126](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-7-126/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 7, #392](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-7-392/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
