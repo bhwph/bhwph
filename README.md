@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
- - 😝 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
- - 👉 [Sweden](http://9gag.com/gag/a7o7E8r)<!-- MEMES:END -->
+ - 6️⃣ [Wow](http://9gag.com/gag/aKGqG9Q)
+ - 😝 [The tragedy of eating bread.](http://9gag.com/gag/a2vmv69)
+ - 👉 [All About Cats](http://9gag.com/gag/aqy5R2p)<!-- MEMES:END -->
 
 --- 
 
