@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I hope Oura and Samsung take some lessons from the RingConn Smart Ring](https://www.androidauthority.com/ringconn-smart-ring-review-3454222/)
- - [July 4th Weekend Sales Still Live: Savings at Amazon, Best Buy, Target and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-07/#ftag=CAD590a51e)
- - [Apple Watch SE may switch to an all-plastic chassis to lower costs](https://appleinsider.com/articles/24/07/07/apple-watch-se-may-switch-to-an-all-plastic-chassis-to-lower-costs?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp’s new feature will let Meta AI edit your photos for you](https://www.androidauthority.com/whatsapp-meta-ai-update-3457975/)
+ - [Score These Massively Discounted Open Earbuds for Just $25 Ahead of Prime Day](https://www.cnet.com/deals/score-these-massively-discounted-open-earbuds-for-just-25-ahead-of-prime-day/#ftag=CAD590a51e)
+ - [Best Over-the-Counter Eye Drops of 2024](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
