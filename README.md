@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Witcher 3 mod restores cut boat-racing quests](https://www.pcgamer.com/games/rpg/witcher-3-mod-restores-cut-boat-racing-quests)
- - [Today&#39;s Wordle answer for Sunday, July 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-7-2024)
- - [The next Transformers game will be a combat-racing roguelite](https://www.pcgamer.com/games/racing/the-next-transformers-game-will-be-a-combat-racing-roguelite)<!-- GAME:END -->
+ - [This minor character is the new hero of the Demon Slayer fandom](https://www.polygon.com/24191798/demon-slayer-murata-fandom-meme)
+ - [Erdtree Builds, Dawntrail Advice, And More Tips That Aren&#39;t Just For DLC](https://kotaku.com/erdtree-builds-dawntrail-advice-and-more-tips-that-ar-1851578551)
+ - [All the new video games launching in 2025](https://www.polygon.com/24188125/2025-video-game-release-dates-new-upcoming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
