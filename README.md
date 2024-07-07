@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nintendo becomes the biggest company in the games industry⁠—and maybe the world⁠—to say &#39;no, thank you&#39; to using generative AI](https://www.pcgamer.com/gaming-industry/nintendo-becomes-the-biggest-company-in-the-games-industryand-maybe-the-worldto-say-no-thank-you-to-using-generative-ai)
  - [This minor character is the new hero of the Demon Slayer fandom](https://www.polygon.com/24191798/demon-slayer-murata-fandom-meme)
- - [Erdtree Builds, Dawntrail Advice, And More Tips That Aren&#39;t Just For DLC](https://kotaku.com/erdtree-builds-dawntrail-advice-and-more-tips-that-ar-1851578551)
- - [All the new video games launching in 2025](https://www.polygon.com/24188125/2025-video-game-release-dates-new-upcoming)<!-- GAME:END -->
+ - [Erdtree Builds, Dawntrail Advice, And More Tips That Aren&#39;t Just For DLC](https://kotaku.com/erdtree-builds-dawntrail-advice-and-more-tips-that-ar-1851578551)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
