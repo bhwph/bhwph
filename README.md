@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple Watch Series 10 will be thinner and have bigger screens; main Siri upgrade will be part of iOS 18.4, with a dev beta in Jan. and a spring release &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240707/p3#a240707p3)
- - [Big smartwatches look ridiculous on my small female wrist, but I still prefer them](https://www.androidauthority.com/big-smartwatches-on-small-wrists-3455468/)
- - [What to expect at Samsung’s Galaxy Unpacked event in July](https://www.theverge.com/2024/7/7/24193550/samsung-galaxy-unpacked-july-2024-what-to-expect-z-fold-6-z-flip-6-galaxy-ring-watch-7-ultra-buds)<!-- TECH:END -->
+ - [I thought small phones were dead, but I want AI to bring them back](https://www.androidauthority.com/small-phones-ai-return-3456725/)
+ - [The Apple Watch Series 10 may get an Ultra-sized screen](https://www.theverge.com/2024/7/7/24193595/apple-watch-x-series-10-thinner-bigger-screen-ultra-3-plastic-se)
+ - [I wanted to love the Amazfit Helio Ring but it has one big flaw: I can’t wear it](https://www.androidauthority.com/amazfit-helio-ring-review-3453652/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
