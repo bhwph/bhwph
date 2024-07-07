@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Magic&#39;s videogame crossovers continue to not suck](https://www.pcgamer.com/games/card-games/magics-videogame-crossovers-continue-to-not-suck)
  - [Original Fallout lead Tim Cain says the team planned for there to be 1000 Vaults, but he thinks there are actually far fewer in the setting](https://www.pcgamer.com/games/rpg/original-fallout-lead-tim-cain-says-the-team-originally-planned-for-there-to-be-1000-vaults-but-he-thinks-there-are-actually-far-fewer-in-the-setting)
- - [Super Mario Odyssey is actually the best venue for virtual hide-and-seek ever](https://www.polygon.com/24191500/super-mario-odyssey-hide-and-seek-mod)
- - [Dawntrail Players Should Read The Damn Dialogue, Cloud Gaming Is Good Actually, And More Opinions For The Week](https://kotaku.com/dawntrail-story-cutscenes-sony-ps4-support-1851578552)<!-- GAME:END -->
+ - [Super Mario Odyssey is actually the best venue for virtual hide-and-seek ever](https://www.polygon.com/24191500/super-mario-odyssey-hide-and-seek-mod)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
