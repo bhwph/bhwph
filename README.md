@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I thought small phones were dead, but I want AI to bring them back](https://www.androidauthority.com/small-phones-ai-return-3456725/)
- - [The Apple Watch Series 10 may get an Ultra-sized screen](https://www.theverge.com/2024/7/7/24193595/apple-watch-x-series-10-thinner-bigger-screen-ultra-3-plastic-se)
- - [I wanted to love the Amazfit Helio Ring but it has one big flaw: I can’t wear it](https://www.androidauthority.com/amazfit-helio-ring-review-3453652/)<!-- TECH:END -->
+ - [I hope Oura and Samsung take some lessons from the RingConn Smart Ring](https://www.androidauthority.com/ringconn-smart-ring-review-3454222/)
+ - [July 4th Weekend Sales Still Live: Savings at Amazon, Best Buy, Target and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-07/#ftag=CAD590a51e)
+ - [Apple Watch SE may switch to an all-plastic chassis to lower costs](https://appleinsider.com/articles/24/07/07/apple-watch-se-may-switch-to-an-all-plastic-chassis-to-lower-costs?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
