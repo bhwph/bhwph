@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Witcher 3 mod restores cut boat-racing quests](https://www.pcgamer.com/games/rpg/witcher-3-mod-restores-cut-boat-racing-quests)
  - [Today&#39;s Wordle answer for Sunday, July 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-7-2024)
- - [The next Transformers game will be a combat-racing roguelite](https://www.pcgamer.com/games/racing/the-next-transformers-game-will-be-a-combat-racing-roguelite)
- - [Magic&#39;s videogame crossovers continue to not suck](https://www.pcgamer.com/games/card-games/magics-videogame-crossovers-continue-to-not-suck)<!-- GAME:END -->
+ - [The next Transformers game will be a combat-racing roguelite](https://www.pcgamer.com/games/racing/the-next-transformers-game-will-be-a-combat-racing-roguelite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
