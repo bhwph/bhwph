@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)
- - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
- - 👉 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)<!-- MEMES:END -->
+ - 6️⃣ [AEZAKMI](http://9gag.com/gag/adBj5b9)
+ - 😝 [Brooke Shields](http://9gag.com/gag/a5Q7X2O)
+ - 👉 [Miss Poland 2024](http://9gag.com/gag/aO8VxK6)<!-- MEMES:END -->
 
 --- 
 
