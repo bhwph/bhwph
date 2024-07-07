@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic&#39;s videogame crossovers continue to not suck](https://www.pcgamer.com/games/card-games/magics-videogame-crossovers-continue-to-not-suck)
- - [Original Fallout lead Tim Cain says the team planned for there to be 1000 Vaults, but he thinks there are actually far fewer in the setting](https://www.pcgamer.com/games/rpg/original-fallout-lead-tim-cain-says-the-team-originally-planned-for-there-to-be-1000-vaults-but-he-thinks-there-are-actually-far-fewer-in-the-setting)
- - [Super Mario Odyssey is actually the best venue for virtual hide-and-seek ever](https://www.polygon.com/24191500/super-mario-odyssey-hide-and-seek-mod)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, July 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-7-2024)
+ - [The next Transformers game will be a combat-racing roguelite](https://www.pcgamer.com/games/racing/the-next-transformers-game-will-be-a-combat-racing-roguelite)
+ - [Magic&#39;s videogame crossovers continue to not suck](https://www.pcgamer.com/games/card-games/magics-videogame-crossovers-continue-to-not-suck)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
