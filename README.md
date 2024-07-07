@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [AEZAKMI](http://9gag.com/gag/adBj5b9)
- - 😝 [Brooke Shields](http://9gag.com/gag/a5Q7X2O)
- - 👉 [Miss Poland 2024](http://9gag.com/gag/aO8VxK6)<!-- MEMES:END -->
+ - 6️⃣ [Gotta grind for that executive role](http://9gag.com/gag/a4PYonm)
+ - 😝 [Howard the grill master](http://9gag.com/gag/aKGqm4Z)
+ - 👉 [Now give me your money!](http://9gag.com/gag/aKGq7qb)<!-- MEMES:END -->
 
 --- 
 
