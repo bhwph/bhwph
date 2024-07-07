@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wow](http://9gag.com/gag/aKGqG9Q)
- - 😝 [The tragedy of eating bread.](http://9gag.com/gag/a2vmv69)
- - 👉 [All About Cats](http://9gag.com/gag/aqy5R2p)<!-- MEMES:END -->
+ - 6️⃣ [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
+ - 😝 [If you know, you already understood.](http://9gag.com/gag/awyx3rR)
+ - 👉 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)<!-- MEMES:END -->
 
 --- 
 
