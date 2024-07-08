@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - 😝 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
- - 👉 [Oh no](http://9gag.com/gag/awyxgxr)<!-- MEMES:END -->
+ - 6️⃣ [Not all capes wear heroes](http://9gag.com/gag/a9y7yNW)
+ - 😝 [They identify as jobless now](http://9gag.com/gag/aW46LY6)
+ - 👉 [How to roast.](http://9gag.com/gag/a5Q76yG)<!-- MEMES:END -->
 
 --- 
 
