@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One Swedish Apple Store closes, but its replacement is far, far away](https://appleinsider.com/articles/24/07/08/one-swedish-apple-store-closes-but-its-replacement-is-far-far-away?utm_medium=rss)
- - [Chrome beefs up Android security with upgraded Safety Check feature](https://www.androidauthority.com/chrome-for-android-security-3458203/)
- - [How Japan has avoided the gaming industry’s persistent layoffs](https://www.theverge.com/24191650/nintendo-sega-from-software-japan-video-game-layoffs)<!-- TECH:END -->
+ - [Amazon’s Echo Spot gets a long-awaited refresh with a new design and better audio](https://www.androidauthority.com/echo-spot-2024-launch-3458262/)
+ - [Google Pixel 9 rumors: Everything we know so far about the upcoming Pixels](https://www.androidauthority.com/google-pixel-9-3365966/)
+ - [Apple releases iOS 18 beta 3 to developers](https://www.androidauthority.com/ios-18-beta-3-3458184/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
