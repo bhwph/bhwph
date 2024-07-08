@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Even Kroos has admitted it](http://9gag.com/gag/amo9WoX)
- - 😝 [Wow](http://9gag.com/gag/aKGqG9Q)
- - 👉 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)<!-- MEMES:END -->
+ - 6️⃣ [Jumper](http://9gag.com/gag/adBj1pV)
+ - 😝 [There is 1 who understood everything.](http://9gag.com/gag/amo9Wq4)
+ - 👉 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)<!-- MEMES:END -->
 
 --- 
 
