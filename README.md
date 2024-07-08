@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - 😝 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
- - 👉 [Oh no](http://9gag.com/gag/awyxgxr)<!-- MEMES:END -->
+ - 6️⃣ [LOL](http://9gag.com/gag/awyxgAW)
+ - 😝 [Drop the gun!](http://9gag.com/gag/aByYdOZ)
+ - 👉 [Jumper](http://9gag.com/gag/adBj1pV)<!-- MEMES:END -->
 
 --- 
 
