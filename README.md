@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola has not forgotten its old foldables, as Android 14 arrives for Razr &lpar;2023&rpar; series](https://www.androidauthority.com/moto-razr-2023-android-14-3457859/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 8, #127](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-8-127/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 8, #393](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-8-393/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google extends Linux kernel support to keep Android devices secure for longer](https://www.androidauthority.com/google-extends-linux-support-3457871/)
+ - [The National Samsung Electronics Union goes on a three-day strike for better pay; analysts: the strike is unlikely to have an impact due to low participation &lpar;Heekyong Yang/Reuters&rpar;](http://www.techmeme.com/240708/p2#a240708p2)
+ - [The National Samsung Electronics Union goes on a three-day strike for better pay; analysts: the strike is unlikely to have an impact due to low participation &lpar;Reuters&rpar;](http://www.techmeme.com/240708/p1#a240708p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
