@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 players realise you can survive ludicrous falls by doing a Hug emote while flying through the air](https://www.pcgamer.com/games/action/helldivers-2-players-realise-you-can-survive-ludicrous-falls-by-doing-a-hug-emote-while-flying-through-the-air)
- - [House of the Dragon’s epic dragon battle hinged on the details](https://www.polygon.com/24191638/house-dragon-season-2-episode-4-dragon-battle-details)
- - [How To Level From 80 To 90 Fast In Final Fantasy XIV](https://kotaku.com/final-fantasy-14-grind-level-80-90-fast-1851580902)<!-- GAME:END -->
+ - [Shadows of the Galaxy is the first expansion for Star Wars: Unlimited, here’s where to pre-order](https://www.polygon.com/24191030/star-wars-unlimited-shadows-of-the-galaxy-tcg-pre-order)
+ - [Netflix’s final season of Vikings: Valhalla and more new TV to watch this week](https://www.polygon.com/2024/7/8/24191611/new-tv-netflix-vikings-valhalla-premiere-boyfriend-sunny)
+ - [How To Find The Brand New Returnal Bot In Astro&#39;s Playroom](https://kotaku.com/astro-playroom-returnal-special-bot-selene-1851581243)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
