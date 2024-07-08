@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 has a new ‘dynamic’ color-shifting wallpaper](https://www.theverge.com/2024/7/8/24194437/ios-18-dynamic-color-shifting-wallpaper-apple)
- - [Apple moves on to third betas of iOS 18, iPadOS 18, tvOS 18, watchOS 11, visionOS 2](https://appleinsider.com/articles/24/07/08/apple-moves-on-to-third-betas-of-ios-18-ipados-18-tvos-18-watchos-11?utm_medium=rss)
- - [The M1 MacBook Air is back down to its all-time low of $649](https://www.theverge.com/2024/7/8/24194403/apple-macbook-air-m1-laptop-walmart-early-access-deal-sale)<!-- TECH:END -->
+ - [The Google Nest Wi-Fi router is great, especially at just $40](https://www.androidauthority.com/google-nest-wi-fi-deal-3458409/)
+ - [Meta’s $24.99 monthly pay later plan covers the Quest 3 and Quest Plus](https://www.theverge.com/2024/7/8/24194406/meta-quest-3-buy-now-pay-later-loan-plus-subscription)
+ - [IDC: ~3% of PCs shipped in 2024 will meet Microsoft&#39;s processing power threshold for AI PCs; source: some big app makers rebuff a push for on-device AI features &lpar;Bloomberg&rpar;](http://www.techmeme.com/240708/p12#a240708p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
