@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing unveils the $199 CMF Phone 1, with swappable parts, a 6.67&quot; display, MediaTek SoC, and Nothing OS, alongside the $69 CMF Watch Pro 2 and $59 Buds Pro 2 &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240708/p5#a240708p5)
- - [Internal memo: Microsoft tells staff in China that from September 2024 they can only use iPhones for work, including to verify identities, affecting hundreds &lpar;Bloomberg&rpar;](http://www.techmeme.com/240708/p4#a240708p4)
- - [Microsoft China bans Android, demands staff use iPhones](https://appleinsider.com/articles/24/07/08/microsoft-china-bans-android-demands-staff-use-iphones?utm_medium=rss)<!-- TECH:END -->
+ - [How the BBC used the iPhone in hundreds of locations to cover the UK election](https://appleinsider.com/articles/24/07/08/how-the-bbc-used-the-iphone-in-hundreds-of-locations-to-cover-the-uk-election?utm_medium=rss)
+ - [The Verge’s guide to moving](https://www.theverge.com/24185638/moving-tech-how-to-tips-hacks)
+ - [The best way to get rid of all the clutter you don’t need](https://www.theverge.com/24163473/moving-sale-facebook-marketplace-buy-nothing-declutter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
