@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
- - 😝 [There&#39;s still hope my dudes!](http://9gag.com/gag/awyxm9R)
- - 👉 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)<!-- MEMES:END -->
+ - 6️⃣ [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
+ - 😝 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
+ - 👉 [Oh no](http://9gag.com/gag/awyxgxr)<!-- MEMES:END -->
 
 --- 
 
