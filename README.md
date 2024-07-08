@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Saudi media group MBC&#39;s Shahid has become the biggest streaming service in MENA with a 22% share, ahead of Starz Play Arabia at 18% and Netflix at 17% &lpar;Financial Times&rpar;](http://www.techmeme.com/240707/p5#a240707p5)
- - [22 CNET Reader-Approved July 4th Deals That Are Still Going Strong](https://www.cnet.com/deals/here-are-cnet-readers-22-favorite-july-4th-deals-2024-07-07/#ftag=CAD590a51e)
- - [Best Electric Toothbrushes of 2024](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An analyst at Sequoia Capital estimated companies developing top AI models need to collectively generate ~$600B/year to pay for their AI infrastructure &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240707/p6#a240707p6)
+ - [New 24-inch iMac M3 deals deliver prices as low as $1,149 on upgraded models](https://appleinsider.com/articles/24/07/07/new-24-inch-imac-m3-deals-deliver-prices-as-low-as-1149-on-upgraded-models?utm_medium=rss)
+ - [38 July 4th Mattress Deals Still Live: Major Discounts on Saatva, Vaya, Brooklyn Bedding and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
