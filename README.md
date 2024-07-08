@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring: Shadow of the Erdtree has the coolest arsenal FromSoftware&#39;s ever made, but I think I picked wrong my first time through](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-has-the-coolest-arsenal-fromsoftwares-ever-made-but-i-think-i-picked-wrong-my-first-time-through)
- - [Tend a cozy garden and stave off corruption, with the help of some cool gnomes, in Horticular](https://www.pcgamer.com/games/tend-a-cozy-garden-and-stave-off-corruption-with-the-help-of-some-cool-gnomes-in-horticular)
- - [Besiege&#39;s watery expansion will get a patch adding new missions, giant sharks, tentacled horrors of the deep](https://www.pcgamer.com/games/besieges-watery-expansion-will-get-a-patch-adding-new-missions-giant-sharks-tentacled-horrors-of-the-deep)<!-- GAME:END -->
+ - [Why I love The Shivering Isles in Oblivion](https://www.pcgamer.com/games/rpg/why-i-love-the-shivering-isles-in-oblivion)
+ - [House of the Dragon takes sibling rivalry to new levels](https://www.polygon.com/24191667/house-dragon-season-2-episode-4-review)
+ - [Rhaenys has always been one of House of the Dragon’s most important characters](https://www.polygon.com/24191312/house-dragon-rhaenys-death-episode-4-battle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
