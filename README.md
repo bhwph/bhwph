@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
- - 😝 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
- - 👉 [Lara Logan explains what happened to her covering the protests in Egypt](http://9gag.com/gag/aVvPoMM)<!-- MEMES:END -->
+ - 6️⃣ [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
+ - 😝 [LOL](http://9gag.com/gag/awyxgAW)
+ - 👉 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)<!-- MEMES:END -->
 
 --- 
 
