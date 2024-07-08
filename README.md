@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)
- - 😝 [I guess infinite money and bribed editors will do the trick](http://9gag.com/gag/aVvPxow)
- - 👉 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)<!-- MEMES:END -->
+ - 6️⃣ [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
+ - 😝 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
+ - 👉 [Lara Logan explains what happened to her covering the protests in Egypt](http://9gag.com/gag/aVvPoMM)<!-- MEMES:END -->
 
 --- 
 
