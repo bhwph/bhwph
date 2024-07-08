@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Witch Hat Atelier’s first anime trailer is an absolute dream](https://www.polygon.com/anime/24192483/witch-hat-atelier-anime-trailer-announcement-2025)
- - [House of the Dragon is bringing back Game of Thrones’ long travel times](https://www.polygon.com/24191552/house-dragon-long-travel-times-game-thrones-teleporting)
- - [Say what you like about Final Fantasy 14: Dawntrail&#39;s story, but these bosses and dungeons are some of the dev&#39;s best work so far](https://www.pcgamer.com/games/final-fantasy/say-what-you-like-about-final-fantasy-14-dawntrail-s-story-but-these-bosses-and-dungeons-are-some-of-the-dev-s-best-work-so-far)<!-- GAME:END -->
+ - [Helldivers 2 players realise you can survive ludicrous falls by doing a Hug emote while flying through the air](https://www.pcgamer.com/games/action/helldivers-2-players-realise-you-can-survive-ludicrous-falls-by-doing-a-hug-emote-while-flying-through-the-air)
+ - [House of the Dragon’s epic dragon battle hinged on the details](https://www.polygon.com/24191638/house-dragon-season-2-episode-4-dragon-battle-details)
+ - [How To Level From 80 To 90 Fast In Final Fantasy XIV](https://kotaku.com/final-fantasy-14-grind-level-80-90-fast-1851580902)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
