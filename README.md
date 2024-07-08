@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Very few&#39; people would play a Morrowind-style RPG with &#39;no compass, no map&#39; and a reliance on quest text, says ESO director, &#39;which is kind of sad&#39;](https://www.pcgamer.com/games/the-elder-scrolls/very-few-people-would-play-a-morrowind-style-rpg-with-no-compass-no-map-and-a-reliance-on-quest-text-says-eso-director-which-is-kind-of-sad)
- - [House of the Dragon finally gives a tour of Harrenhal, Westeros’ most haunted castle](https://www.polygon.com/24182771/house-dragon-harrenhal-haunted-explained-history-strong)
- - [Today&#39;s Wordle answer for Monday, July 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-8-2024)<!-- GAME:END -->
+ - [Witch Hat Atelier’s first anime trailer is an absolute dream](https://www.polygon.com/anime/24192483/witch-hat-atelier-anime-trailer-announcement-2025)
+ - [House of the Dragon is bringing back Game of Thrones’ long travel times](https://www.polygon.com/24191552/house-dragon-long-travel-times-game-thrones-teleporting)
+ - [Say what you like about Final Fantasy 14: Dawntrail&#39;s story, but these bosses and dungeons are some of the dev&#39;s best work so far](https://www.pcgamer.com/games/final-fantasy/say-what-you-like-about-final-fantasy-14-dawntrail-s-story-but-these-bosses-and-dungeons-are-some-of-the-dev-s-best-work-so-far)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
