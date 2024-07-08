@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shadows of the Galaxy is the first expansion for Star Wars: Unlimited, here’s where to pre-order](https://www.polygon.com/24191030/star-wars-unlimited-shadows-of-the-galaxy-tcg-pre-order)
- - [Netflix’s final season of Vikings: Valhalla and more new TV to watch this week](https://www.polygon.com/2024/7/8/24191611/new-tv-netflix-vikings-valhalla-premiere-boyfriend-sunny)
- - [How To Find The Brand New Returnal Bot In Astro&#39;s Playroom](https://kotaku.com/astro-playroom-returnal-special-bot-selene-1851581243)<!-- GAME:END -->
+ - [Cities: Skylines 2 for console delayed indefinitely](https://www.polygon.com/gaming/24194344/cities-skylines-2-console-version-delayed-paradox)
+ - [House of the Dragon Episode 4 Recap: Dragon Vs. Dragon Vs. Dragon](https://kotaku.com/house-of-the-dragon-recap-episode-4-1851581566)
+ - [Controversial Streamer Nickmercs Banned By Twitch After Dropping Transphobic Slur [Update]](https://kotaku.com/nickmercs-twitch-ban-slur-mrbeast-drdisrespect-1851566196)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
