@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jumper](http://9gag.com/gag/adBj1pV)
- - 😝 [There is 1 who understood everything.](http://9gag.com/gag/amo9Wq4)
- - 👉 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)<!-- MEMES:END -->
+ - 6️⃣ [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
+ - 😝 [Drop the gun!](http://9gag.com/gag/aByYdOZ)
+ - 👉 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)<!-- MEMES:END -->
 
 --- 
 
