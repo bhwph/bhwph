@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not all capes wear heroes](http://9gag.com/gag/a9y7yNW)
- - 😝 [They identify as jobless now](http://9gag.com/gag/aW46LY6)
- - 👉 [How to roast.](http://9gag.com/gag/a5Q76yG)<!-- MEMES:END -->
+ - 6️⃣ [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
+ - 😝 [There&#39;s still hope my dudes!](http://9gag.com/gag/awyxm9R)
+ - 👉 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)<!-- MEMES:END -->
 
 --- 
 
