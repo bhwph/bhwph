@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [LOL](http://9gag.com/gag/awyxgAW)
- - 😝 [Drop the gun!](http://9gag.com/gag/aByYdOZ)
- - 👉 [Jumper](http://9gag.com/gag/adBj1pV)<!-- MEMES:END -->
+ - 6️⃣ [IQ 60. An idiot shows his talent](http://9gag.com/gag/apRv6V5)
+ - 😝 [How to roast.](http://9gag.com/gag/a5Q76yG)
+ - 👉 [Should never have been allowed in to begin with](http://9gag.com/gag/aZZMwAQ)<!-- MEMES:END -->
 
 --- 
 
