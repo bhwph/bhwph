@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cities: Skylines 2 for console delayed indefinitely](https://www.polygon.com/gaming/24194344/cities-skylines-2-console-version-delayed-paradox)
- - [House of the Dragon Episode 4 Recap: Dragon Vs. Dragon Vs. Dragon](https://kotaku.com/house-of-the-dragon-recap-episode-4-1851581566)
- - [Controversial Streamer Nickmercs Banned By Twitch After Dropping Transphobic Slur [Update]](https://kotaku.com/nickmercs-twitch-ban-slur-mrbeast-drdisrespect-1851566196)<!-- GAME:END -->
+ - [Elden Ring players team up as &#39;let us duo her&#39; to spin kick its most infamous boss so fast she can&#39;t move](https://www.pcgamer.com/games/rpg/elden-ring-players-team-up-as-let-us-duo-her-to-spin-kick-its-most-infamous-boss-so-fast-she-cant-move)
+ - [The First Descendant contains icons from Destiny 2, and one theory about how they got there is a reminder that not everything on the internet is what it purports to be](https://www.pcgamer.com/games/third-person-shooter/the-first-descendant-contains-icons-from-destiny-2-and-one-theory-about-how-they-got-there-is-a-reminder-that-not-everything-on-the-internet-is-what-it-purports-to-be)
+ - [Apex Legends announces &#39;improved&#39; battle pass structure that actually sucks for players, removes option to pay with in-game currency](https://www.pcgamer.com/games/battle-royale/apex-legends-new-battle-pass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
