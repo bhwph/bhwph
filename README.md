@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Echo Spot gets a long-awaited refresh with a new design and better audio](https://www.androidauthority.com/echo-spot-2024-launch-3458262/)
- - [Google Pixel 9 rumors: Everything we know so far about the upcoming Pixels](https://www.androidauthority.com/google-pixel-9-3365966/)
- - [Apple releases iOS 18 beta 3 to developers](https://www.androidauthority.com/ios-18-beta-3-3458184/)<!-- TECH:END -->
+ - [iOS 18 has a new ‘dynamic’ color-shifting wallpaper](https://www.theverge.com/2024/7/8/24194437/ios-18-dynamic-color-shifting-wallpaper-apple)
+ - [Apple moves on to third betas of iOS 18, iPadOS 18, tvOS 18, watchOS 11, visionOS 2](https://appleinsider.com/articles/24/07/08/apple-moves-on-to-third-betas-of-ios-18-ipados-18-tvos-18-watchos-11?utm_medium=rss)
+ - [The M1 MacBook Air is back down to its all-time low of $649](https://www.theverge.com/2024/7/8/24194403/apple-macbook-air-m1-laptop-walmart-early-access-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
