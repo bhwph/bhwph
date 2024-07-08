@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analyst at Sequoia Capital estimated companies developing top AI models need to collectively generate ~$600B/year to pay for their AI infrastructure &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240707/p6#a240707p6)
- - [New 24-inch iMac M3 deals deliver prices as low as $1,149 on upgraded models](https://appleinsider.com/articles/24/07/07/new-24-inch-imac-m3-deals-deliver-prices-as-low-as-1149-on-upgraded-models?utm_medium=rss)
- - [38 July 4th Mattress Deals Still Live: Major Discounts on Saatva, Vaya, Brooklyn Bedding and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Motorola has not forgotten its old foldables, as Android 14 arrives for Razr &lpar;2023&rpar; series](https://www.androidauthority.com/moto-razr-2023-android-14-3457859/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 8, #127](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-8-127/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 8, #393](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-8-393/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
