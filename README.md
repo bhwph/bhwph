@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Shadow Of The Erdtree Armor Will Make You An Even More Effective Damage-Dealer](https://kotaku.com/elden-ring-shadow-erdtree-rakshasa-armor-1851583282)
- - [More than Meets the Eye – Exploring the Art of Optimus Prime in the Overwatch 2 x TRANSFORMERS Collab](https://news.xbox.com/en-us/2024/07/09/overwatch-2-transformers-collab-optimus-prime/)
- - [How To Defeat Romina, Saint Of The Bud In Elden Ring: Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-romina-how-to-beat-1851583214)<!-- GAME:END -->
+ - [The Dragon Age: Origins Companions, Ranked From Worst To Best](https://kotaku.com/dragon-age-origins-best-characters-morrigan-alistair-1851583570)
+ - [The best early Prime Day 2024 deals](https://www.polygon.com/amazon-prime-day/24191144/best-prime-day-gaming-deals-blu-ray-board-games)
+ - [The First Descendant, As Told By Steam Reviews](https://kotaku.com/first-descendant-steam-reviews-warframe-destiny-2-nexon-1851583423)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
