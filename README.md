@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get files off your old PC before you move](https://www.theverge.com/24173942/pc-max-hhd-ssd-how-to)
- - [Meta plans to remove more Facebook and Instagram posts that attack &quot;Zionism&quot; or threaten &quot;Zionists&quot; when the term is conflated with Jewish people or Israelis &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240709/p7#a240709p7)
- - [When you move, what do you do with all those books?](https://www.theverge.com/24183372/books-move-donate-sell-how-to-declutter)<!-- TECH:END -->
+ - [Rome must fall in the first Gladiator II trailer](https://www.theverge.com/2024/7/9/24194848/gladiator-2-trailer)
+ - [The FTC bans teen messaging app NGL from serving users under 18, a first; NGL agreed to pay $5M and stop marketing to kids and teens to settle the FTC lawsuit &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240709/p12#a240709p12)
+ - [TSMC gearing up for iPhone 17 A19 chip production with 2-nanometer test](https://appleinsider.com/articles/24/07/09/tsmc-gearing-up-for-iphone-17-a19-chip-production-with-2-nanometer-test?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
