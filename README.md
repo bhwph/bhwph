@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $650 on Apple&#39;s latest 14-inch MacBook Pro with M3 Pro, M3 Max chip](https://appleinsider.com/articles/24/06/21/save-up-to-650-on-apples-latest-14-inch-macbook-pro-with-m3-pro-m3-max-chip?utm_medium=rss)
- - [Exclusive: Google Pixel Watch 3 set for major display upgrades, new colors, UWB, and much more](https://www.androidauthority.com/exclusive-google-pixel-watch-3-changes-3458593/)
- - [WhatsApp is making it easier to identify and leave suspicious group chats](https://www.theverge.com/2024/7/9/24194908/whatsapp-group-chats-context-card-spam)<!-- TECH:END -->
+ - [How to manage deleted files on a Chromebook](https://www.theverge.com/24195066/chromeos-chromebook-files-delete-how-to)
+ - [Current and former Tesla staff: self-driving data annotation staff were told to prioritize analyzing car data of VIP drivers, like Elon Musk and YouTube stars &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/240709/p19#a240709p19)
+ - [Report: Samsung’s software prowess could drive Galaxy Z Fold 6 and Flip 6 sales](https://www.androidauthority.com/galaxy-z-fold-6-counterpoint-3458847/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
