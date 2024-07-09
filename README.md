@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to manage deleted files on a Chromebook](https://www.theverge.com/24195066/chromeos-chromebook-files-delete-how-to)
- - [Current and former Tesla staff: self-driving data annotation staff were told to prioritize analyzing car data of VIP drivers, like Elon Musk and YouTube stars &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/240709/p19#a240709p19)
- - [Report: Samsung’s software prowess could drive Galaxy Z Fold 6 and Flip 6 sales](https://www.androidauthority.com/galaxy-z-fold-6-counterpoint-3458847/)<!-- TECH:END -->
+ - [The best deals you can get from Walmart’s rival Prime Day sale](https://www.theverge.com/24194147/best-walmart-deals-airpods-nintendo-switch-oled-anti-prime-day-2024-sale)
+ - [A US judge dismisses more claims in a lawsuit brought by devs, who allege GitHub Copilot unlawfully copied their code; of 22 original claims, only two remain &lpar;Matthew Connatser/The Register&rpar;](http://www.techmeme.com/240709/p22#a240709p22)
+ - [The Pixel Watch 3 could get ultra wideband and a brighter screen](https://www.theverge.com/2024/7/9/24195013/google-pixel-watch-3-uwb-bigger-battery-smaller-bezels)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
