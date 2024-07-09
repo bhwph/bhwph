@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rome must fall in the first Gladiator II trailer](https://www.theverge.com/2024/7/9/24194848/gladiator-2-trailer)
- - [The FTC bans teen messaging app NGL from serving users under 18, a first; NGL agreed to pay $5M and stop marketing to kids and teens to settle the FTC lawsuit &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240709/p12#a240709p12)
- - [TSMC gearing up for iPhone 17 A19 chip production with 2-nanometer test](https://appleinsider.com/articles/24/07/09/tsmc-gearing-up-for-iphone-17-a19-chip-production-with-2-nanometer-test?utm_medium=rss)<!-- TECH:END -->
+ - [Save up to $650 on Apple&#39;s latest 14-inch MacBook Pro with M3 Pro, M3 Max chip](https://appleinsider.com/articles/24/06/21/save-up-to-650-on-apples-latest-14-inch-macbook-pro-with-m3-pro-m3-max-chip?utm_medium=rss)
+ - [Exclusive: Google Pixel Watch 3 set for major display upgrades, new colors, UWB, and much more](https://www.androidauthority.com/exclusive-google-pixel-watch-3-changes-3458593/)
+ - [WhatsApp is making it easier to identify and leave suspicious group chats](https://www.theverge.com/2024/7/9/24194908/whatsapp-group-chats-context-card-spam)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
