@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Painting Your Partner](http://9gag.com/gag/aAy16Vd)
- - 😝 [No pork in KFC Ontario](http://9gag.com/gag/ae9G1Kj)
- - 👉 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)<!-- MEMES:END -->
+ - 6️⃣ [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)
+ - 😝 [LOL](http://9gag.com/gag/awyxgAW)
+ - 👉 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)<!-- MEMES:END -->
 
 --- 
 
