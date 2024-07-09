@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)
- - 😝 [LOL](http://9gag.com/gag/awyxgAW)
- - 👉 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)<!-- MEMES:END -->
+ - 6️⃣ [Trying not to damage another car](http://9gag.com/gag/a9y784o)
+ - 😝 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)
+ - 👉 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)<!-- MEMES:END -->
 
 --- 
 
