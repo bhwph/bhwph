@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus’s upcoming tablet, watch and earbuds leak once again before next week’s launch](https://www.androidauthority.com/oneplus-pad-2-watch-2r-nord-buds-3-pro-renders-leak-3458511/)
- - [Hulu was down for a lot of people, but now it’s fixed](https://www.theverge.com/2024/7/8/24194699/hulu-down-outage-error-streaming)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 9, #128](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-9-128/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Now the Samsung Galaxy Buds 3 get unboxed on video before launch](https://www.androidauthority.com/samsung-galaxy-buds-3-video-leak-3458045/)
+ - [Garmin Vivoactive 6 wishlist: All the features I want to see](https://www.androidauthority.com/garmin-vivoactive-6-3458019/)
+ - [Quora&#39;s Poe launches Previews, letting users create web apps like data visualizations, games, and animations using more than one LLMs like Llama 3 and GPT-4o &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240709/p1#a240709p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
