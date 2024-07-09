@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring’s new dragon could beat up House of the Dragon’s dragons, study confirms](https://www.polygon.com/24194492/elden-ring-dlc-sote-giant-dragon-size)
- - [Xiaomi Mi Curved Gaming Monitor 34 review](https://www.pcgamer.com/hardware/gaming-monitors/xiaomi-mi-curved-gaming-monitor-34-review)
- - [League of Legends game director asks the community how players who throw games should be punished: &#39;Immediately or some lenience?&#39;](https://www.pcgamer.com/games/moba/league-of-legends-game-director-asks-the-community-how-players-who-throw-games-should-be-punished-immediately-or-some-lenience)<!-- GAME:END -->
+ - [The Umbrella Academy final season trailer rightfully rocks to MCR’s The End.](https://www.polygon.com/24194484/umbrella-academy-trailer-final-season-my-chemical-romance)
+ - [PlayStation Store: June 2024’s top downloads](https://blog.playstation.com/2024/07/09/playstation-store-june-2024s-top-downloads/)
+ - [The Baldur&#39;s Gate 3 council of sages &lpar;or Larian Studios, if you want to be boring&rpar; meets on holy ground to discuss &#39;lift off&#39; for its next big game](https://www.pcgamer.com/games/baldurs-gate/the-baldur-s-gate-3-council-of-sages-or-larian-studios-if-you-want-to-be-boring-meets-on-holy-ground-to-discuss-lift-off-for-its-next-big-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
