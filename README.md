@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
- - 😝 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
- - 👉 [Trying not to damage another car](http://9gag.com/gag/a9y784o)<!-- MEMES:END -->
+ - 6️⃣ [So Tolerant So Destructive](http://9gag.com/gag/azxjOXZ)
+ - 😝 [But why.. just why](http://9gag.com/gag/aGyxGv0)
+ - 👉 [What to do in this case](http://9gag.com/gag/aMVGzN1)<!-- MEMES:END -->
 
 --- 
 
