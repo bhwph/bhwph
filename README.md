@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)
- - 😝 [LOL](http://9gag.com/gag/awyxgAW)
- - 👉 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)<!-- MEMES:END -->
+ - 6️⃣ [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
+ - 😝 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)
+ - 👉 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)<!-- MEMES:END -->
 
 --- 
 
