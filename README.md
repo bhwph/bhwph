@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Tuesday, July 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-9-2024)
- - [Elden Ring mod finally lets you wear Ranni as a demigod backpack like the true consort you are](https://www.pcgamer.com/games/rpg/elden-ring-mod-finally-lets-you-wear-ranni-as-a-demigod-backpack-like-the-true-consort-you-are)
- - [Sony&#39;s hero shooter Concord reveals PC system requirements ahead of two weekend beta tests](https://www.pcgamer.com/games/fps/sonys-hero-shooter-concord-reveals-pc-system-requirements-ahead-of-two-weekend-beta-tests)<!-- GAME:END -->
+ - [Elden Ring’s new dragon could beat up House of the Dragon’s dragons, study confirms](https://www.polygon.com/24194492/elden-ring-dlc-sote-giant-dragon-size)
+ - [Xiaomi Mi Curved Gaming Monitor 34 review](https://www.pcgamer.com/hardware/gaming-monitors/xiaomi-mi-curved-gaming-monitor-34-review)
+ - [League of Legends game director asks the community how players who throw games should be punished: &#39;Immediately or some lenience?&#39;](https://www.pcgamer.com/games/moba/league-of-legends-game-director-asks-the-community-how-players-who-throw-games-should-be-punished-immediately-or-some-lenience)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
