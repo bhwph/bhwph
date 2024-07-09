@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now the Samsung Galaxy Buds 3 get unboxed on video before launch](https://www.androidauthority.com/samsung-galaxy-buds-3-video-leak-3458045/)
- - [Garmin Vivoactive 6 wishlist: All the features I want to see](https://www.androidauthority.com/garmin-vivoactive-6-3458019/)
- - [Quora&#39;s Poe launches Previews, letting users create web apps like data visualizations, games, and animations using more than one LLMs like Llama 3 and GPT-4o &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240709/p1#a240709p1)<!-- TECH:END -->
+ - [Even more users can try out RCS on iPhone with iOS 18 beta 3](https://www.androidauthority.com/more-users-can-rcs-ios-18-beta-3-3458678/)
+ - [How the US is trying to transform the world&#39;s chip supply chain, including getting more countries to set up factories to do final chip assembly and packaging &lpar;New York Times&rpar;](http://www.techmeme.com/240709/p2#a240709p2)
+ - [Leak: OnePlus is now working on a 7,000mAh &lpar;!!!&rpar; battery for phones](https://www.androidauthority.com/oneplus-7000mah-battery-phone-leak-3458674/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
