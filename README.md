@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If Europeans made street food the same way Indians do.](http://9gag.com/gag/a34B2Y7)
- - 😝 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
- - 👉 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)<!-- MEMES:END -->
+ - 6️⃣ [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
+ - 😝 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
+ - 👉 [Trying not to damage another car](http://9gag.com/gag/a9y784o)<!-- MEMES:END -->
 
 --- 
 
