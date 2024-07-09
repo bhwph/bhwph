@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon announces an updated $79 Echo Spot alarm clock, with a revamped design and improved audio quality, the first update to the device since its 2017 launch &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240709/p4#a240709p4)
- - [Sam Altman and Arianna Huffington announce Thrive AI Health, a new startup backed by OpenAI and Thrive Global to build a &quot;hyper-personalized AI health coach&quot; &lpar;TIME&rpar;](http://www.techmeme.com/240709/p3#a240709p3)
- - [iOS 18 beta 3 brings this highly requested Mac feature to your iPhone](https://www.androidauthority.com/ios-18-beta-3-dynamic-wallpaper-3458695/)<!-- TECH:END -->
+ - [How to get files off your old PC before you move](https://www.theverge.com/24173942/pc-max-hhd-ssd-how-to)
+ - [Meta plans to remove more Facebook and Instagram posts that attack &quot;Zionism&quot; or threaten &quot;Zionists&quot; when the term is conflated with Jewish people or Israelis &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240709/p7#a240709p7)
+ - [When you move, what do you do with all those books?](https://www.theverge.com/24183372/books-move-donate-sell-how-to-declutter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
