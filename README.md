@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Go go go!](http://9gag.com/gag/aD2onbw)
- - 😝 [#RIPCartoonNetwork. Corporate greed has led to the destruction of yet another creative powerhouse.](http://9gag.com/gag/a87MDD6)
- - 👉 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)<!-- MEMES:END -->
+ - 6️⃣ [If Europeans made street food the same way Indians do.](http://9gag.com/gag/a34B2Y7)
+ - 😝 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
+ - 👉 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)<!-- MEMES:END -->
 
 --- 
 
