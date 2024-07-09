@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trying not to damage another car](http://9gag.com/gag/a9y784o)
- - 😝 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)
- - 👉 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)<!-- MEMES:END -->
+ - 6️⃣ [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
+ - 😝 [Man i would hate to learn French](http://9gag.com/gag/ae9GZrj)
+ - 👉 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)<!-- MEMES:END -->
 
 --- 
 
