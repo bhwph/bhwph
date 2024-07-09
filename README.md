@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Dragon Age: Origins Companions, Ranked From Worst To Best](https://kotaku.com/dragon-age-origins-best-characters-morrigan-alistair-1851583570)
- - [The best early Prime Day 2024 deals](https://www.polygon.com/amazon-prime-day/24191144/best-prime-day-gaming-deals-blu-ray-board-games)
- - [The First Descendant, As Told By Steam Reviews](https://kotaku.com/first-descendant-steam-reviews-warframe-destiny-2-nexon-1851583423)<!-- GAME:END -->
+ - [&#39;It&#39;s time to rebuild some foundations&#39;: Shadowlands forced Blizzard to rethink World of Warcraft&#39;s oldest ideas to make it a better MMO, director says](https://www.pcgamer.com/games/world-of-warcraft/its-time-to-rebuild-some-foundations-shadowlands-forced-blizzard-to-rethink-world-of-warcrafts-oldest-ideas-to-make-a-better-mmo-director-says)
+ - [The kaiju-sized Godzilla Minus One collector’s edition Blu-ray is now available to pre-order](https://www.polygon.com/24195225/godzilla-minus-one-collectors-edition-blu-ray-pre-order)
+ - [Iizuka says Shadow the Hedgehog wasn&#39;t inspired by Vegeta, but fans have receipts that say otherwise](https://www.pcgamer.com/games/action/iizuka-says-shadow-the-hedgehog-wasnt-inspired-by-vegeta-but-fans-have-receipts-that-say-otherwise)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
