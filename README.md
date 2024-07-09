@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring players team up as &#39;let us duo her&#39; to spin kick its most infamous boss so fast she can&#39;t move](https://www.pcgamer.com/games/rpg/elden-ring-players-team-up-as-let-us-duo-her-to-spin-kick-its-most-infamous-boss-so-fast-she-cant-move)
- - [The First Descendant contains icons from Destiny 2, and one theory about how they got there is a reminder that not everything on the internet is what it purports to be](https://www.pcgamer.com/games/third-person-shooter/the-first-descendant-contains-icons-from-destiny-2-and-one-theory-about-how-they-got-there-is-a-reminder-that-not-everything-on-the-internet-is-what-it-purports-to-be)
- - [Apex Legends announces &#39;improved&#39; battle pass structure that actually sucks for players, removes option to pay with in-game currency](https://www.pcgamer.com/games/battle-royale/apex-legends-new-battle-pass)<!-- GAME:END -->
+ - [Elden Ring mod finally lets you wear Ranni as a demigod backpack like the true consort you are](https://www.pcgamer.com/games/rpg/elden-ring-mod-finally-lets-you-wear-ranni-as-a-demigod-backpack-like-the-true-consort-you-are)
+ - [Sony&#39;s hero shooter Concord reveals PC system requirements ahead of two weekend beta tests](https://www.pcgamer.com/games/fps/sonys-hero-shooter-concord-reveals-pc-system-requirements-ahead-of-two-weekend-beta-tests)
+ - [Elden Ring players team up as &#39;let us duo her&#39; to spin kick its most infamous boss so fast she can&#39;t move](https://www.pcgamer.com/games/rpg/elden-ring-players-team-up-as-let-us-duo-her-to-spin-kick-its-most-infamous-boss-so-fast-she-cant-move)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
