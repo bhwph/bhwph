@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [IQ 60. An idiot shows his talent](http://9gag.com/gag/apRv6V5)
- - 😝 [Everything reminds me of Him](http://9gag.com/gag/aLn2Lqg)
- - 👉 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)<!-- MEMES:END -->
+ - 6️⃣ [Painting Your Partner](http://9gag.com/gag/aAy16Vd)
+ - 😝 [No pork in KFC Ontario](http://9gag.com/gag/ae9G1Kj)
+ - 👉 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)<!-- MEMES:END -->
 
 --- 
 
