@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Umbrella Academy final season trailer rightfully rocks to MCR’s The End.](https://www.polygon.com/24194484/umbrella-academy-trailer-final-season-my-chemical-romance)
- - [PlayStation Store: June 2024’s top downloads](https://blog.playstation.com/2024/07/09/playstation-store-june-2024s-top-downloads/)
- - [The Baldur&#39;s Gate 3 council of sages &lpar;or Larian Studios, if you want to be boring&rpar; meets on holy ground to discuss &#39;lift off&#39; for its next big game](https://www.pcgamer.com/games/baldurs-gate/the-baldur-s-gate-3-council-of-sages-or-larian-studios-if-you-want-to-be-boring-meets-on-holy-ground-to-discuss-lift-off-for-its-next-big-game)<!-- GAME:END -->
+ - [Apex Legends Players Are In Full Revolt After Battle Pass Controversy](https://kotaku.com/apex-legends-battle-pass-price-boycott-steam-reviews-1851582840)
+ - [Keychron Q3 Max review](https://www.pcgamer.com/hardware/gaming-keyboards/keychron-q3-max-review)
+ - [Baldur&#39;s Village, the Stardew Valley/BG3 mash-up mod that lets you kiss Astarion, has a new update and potential release window](https://www.pcgamer.com/games/life-sim/baldurs-village-the-stardew-valleybg3-mash-up-mod-that-lets-you-kiss-astarion-has-a-new-update-and-potential-release-window)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
