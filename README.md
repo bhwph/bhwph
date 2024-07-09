@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends Players Are In Full Revolt After Battle Pass Controversy](https://kotaku.com/apex-legends-battle-pass-price-boycott-steam-reviews-1851582840)
- - [Keychron Q3 Max review](https://www.pcgamer.com/hardware/gaming-keyboards/keychron-q3-max-review)
- - [Baldur&#39;s Village, the Stardew Valley/BG3 mash-up mod that lets you kiss Astarion, has a new update and potential release window](https://www.pcgamer.com/games/life-sim/baldurs-village-the-stardew-valleybg3-mash-up-mod-that-lets-you-kiss-astarion-has-a-new-update-and-potential-release-window)<!-- GAME:END -->
+ - [This Shadow Of The Erdtree Armor Will Make You An Even More Effective Damage-Dealer](https://kotaku.com/elden-ring-shadow-erdtree-rakshasa-armor-1851583282)
+ - [More than Meets the Eye – Exploring the Art of Optimus Prime in the Overwatch 2 x TRANSFORMERS Collab](https://news.xbox.com/en-us/2024/07/09/overwatch-2-transformers-collab-optimus-prime/)
+ - [How To Defeat Romina, Saint Of The Bud In Elden Ring: Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-romina-how-to-beat-1851583214)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
