@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Nest Wi-Fi router is great, especially at just $40](https://www.androidauthority.com/google-nest-wi-fi-deal-3458409/)
- - [Meta’s $24.99 monthly pay later plan covers the Quest 3 and Quest Plus](https://www.theverge.com/2024/7/8/24194406/meta-quest-3-buy-now-pay-later-loan-plus-subscription)
- - [IDC: ~3% of PCs shipped in 2024 will meet Microsoft&#39;s processing power threshold for AI PCs; source: some big app makers rebuff a push for on-device AI features &lpar;Bloomberg&rpar;](http://www.techmeme.com/240708/p12#a240708p12)<!-- TECH:END -->
+ - [Need to Return Your Amazon Products for Free? Here&#39;s How](https://www.cnet.com/how-to/need-to-return-your-amazon-products-for-free-heres-how/#ftag=CAD590a51e)
+ - [Sources: HongShan, formerly Sequoia China, raised a $2.5B fund; the new RMB fund can more easily invest in sensitive tech than its prior $9B fund raised in USD &lpar;Financial Times&rpar;](http://www.techmeme.com/240708/p13#a240708p13)
+ - [How the BBC used the iPhone in hundreds of locations to cover the UK election](https://appleinsider.com/articles/24/07/08/how-the-bbc-used-the-iphone-in-hundreds-of-locations-to-cover-the-uk-election?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
