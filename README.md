@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals you can get from Walmart’s rival Prime Day sale](https://www.theverge.com/24194147/best-walmart-deals-airpods-nintendo-switch-oled-anti-prime-day-2024-sale)
- - [A US judge dismisses more claims in a lawsuit brought by devs, who allege GitHub Copilot unlawfully copied their code; of 22 original claims, only two remain &lpar;Matthew Connatser/The Register&rpar;](http://www.techmeme.com/240709/p22#a240709p22)
- - [The Pixel Watch 3 could get ultra wideband and a brighter screen](https://www.theverge.com/2024/7/9/24195013/google-pixel-watch-3-uwb-bigger-battery-smaller-bezels)<!-- TECH:END -->
+ - [The Biden administration says it will direct up to $1.6B in CHIPS Act funding towards R&amp;D to accelerate domestic capacity for advanced chip packaging &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/240709/p27#a240709p27)
+ - [The developers suing over GitHub Copilot got dealt a major blow in court](https://www.theverge.com/2024/7/9/24195233/github-ai-copyright-coding-lawsuit-microsoft-openai)
+ - [The US DOJ and its partners seized two domain names and 968 accounts on X used by Russian actors to create an AI-enhanced bot farm that spread disinformation &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240709/p26#a240709p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
