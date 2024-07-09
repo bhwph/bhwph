@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man arrested in London for the crime of public swearing. Last week another lad was arrested for eating pork in public. Welcome to the &#39;free&#39; western country](http://9gag.com/gag/aYQeQAx)
- - 😝 [Normal day in Australia](http://9gag.com/gag/adBjOBj)
- - 👉 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)<!-- MEMES:END -->
+ - 6️⃣ [IQ 60. An idiot shows his talent](http://9gag.com/gag/apRv6V5)
+ - 😝 [Everything reminds me of Him](http://9gag.com/gag/aLn2Lqg)
+ - 👉 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)<!-- MEMES:END -->
 
 --- 
 
