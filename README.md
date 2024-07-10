@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trying not to damage another car](http://9gag.com/gag/a9y784o)
- - 😝 [Go go go!](http://9gag.com/gag/aD2onbw)
- - 👉 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)<!-- MEMES:END -->
+ - 6️⃣ [Corporate sponsors now allowed to edit truth. All hail corporate overlords.](http://9gag.com/gag/a4PY2NQ)
+ - 😝 [But why.. just why](http://9gag.com/gag/aGyxGv0)
+ - 👉 [What to do in this case](http://9gag.com/gag/aMVGzN1)<!-- MEMES:END -->
 
 --- 
 
