@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Fi users now have a handy tool to fight illegal SIM swaps](https://www.androidauthority.com/google-fi-number-lock-sim-swaps-3459216/)
- - [A look at the rise of algorithmic trading in currency markets: ~50% of hedge funds are using the tech for FX trading in 2024, up from 22% before the pandemic &lpar;Bloomberg&rpar;](http://www.techmeme.com/240710/p6#a240710p6)
- - [The $11 Billion Marketplace Enabling the Crypto Scam Economy](https://www.wired.com/story/pig-butchering-scam-crypto-huione-guarantee/)<!-- TECH:END -->
+ - [Amazon reaches its goal of 100% clean energy in 2023 seven years ahead of schedule, after investing in 500+ solar and wind projects, but experts are skeptical &lpar;New York Times&rpar;](http://www.techmeme.com/240710/p11#a240710p11)
+ - [Apple probably isn&#39;t taking a seat on OpenAI&#39;s board after all](https://appleinsider.com/articles/24/07/10/apple-probably-isnt-taking-a-seat-on-openais-board-after-all?utm_medium=rss)
+ - [Now you don’t need a Titan Security Key for Google’s ultra-secure protection program](https://www.androidauthority.com/passkey-for-google-app-3458930/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
