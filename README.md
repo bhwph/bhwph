@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Want to smooch a Sith? Star Wars: The Old Republic delivers](https://www.polygon.com/24195299/star-wars-old-republic-romance-acolyte-qimir)
- - [How To Complete All Of Fortnite’s Chapter 5 Season 3 Week 6 Quests](https://kotaku.com/fortnite-chapter-5-season-3-week-6-quests-1851584934)
- - [Bioshock 4 studio is now &#39;recruiting like mad&#39; but the game&#39;s nature remains a mystery](https://www.pcgamer.com/games/fps/bioshock-4-studio-is-now-recruiting-like-mad-but-the-games-nature-remains-a-mystery)<!-- GAME:END -->
+ - [Ubisoft apologizes for using a real-life reenactment group&#39;s flag in Assassin&#39;s Creed Shadows concept art without permission](https://www.pcgamer.com/games/action/ubisoft-apologizes-for-using-a-real-life-reenactment-groups-flag-in-assassins-creed-shadows-concept-art-without-permission)
+ - [If Shadow Of The Erdtree’s Final Boss Feels Like BS, It’s Because It Kind Of Is](https://kotaku.com/elden-ring-shadow-erdtree-radahn-hitboxes-dark-souls-2-1851585346)
+ - [The Nier: Automata Anime Is Back And Still The Most Impressive Game Adaptation Around](https://kotaku.com/nier-automata-anime-part-2-crunchyroll-adaptation-1851585264)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
