@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to move a smart home](https://www.theverge.com/24184716/moving-smart-home-tech-setup)
- - [Apple and Microsoft give up their chance to peek into OpenAI secrets](https://www.androidauthority.com/apple-microsoft-give-up-openai-board-seats-3459293/)
- - [iPhone 16 fast charging could get a 40W boost](https://appleinsider.com/articles/24/07/10/iphone-16-fast-charging-could-get-a-40w-boost?utm_medium=rss)<!-- TECH:END -->
+ - [AMD agrees to buy Helsinki-based Silo AI, which offers tailored AI models and platforms to enterprise customers, for $665M in cash; Silo has a 300-person team &lpar;Financial Times&rpar;](http://www.techmeme.com/240710/p24#a240710p24)
+ - [Galaxy Ring features: Here’s everything Samsung’s smart ring can do](https://www.androidauthority.com/galaxy-ring-features-3458125/)
+ - [The aftermath of the Supreme Court’s NetChoice ruling](https://www.theverge.com/24195235/scotus-netchoice-kosa-kids-safety-age-verification-tiktok-ban)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
