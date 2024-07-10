@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft says a Star Wars Outlaws planet is the size of &#39;2 or 3&#39; Assassin&#39;s Creed Odyssey map zones put together, which takes about 5 minutes &#39;nonstop&#39; on a speeder to cross](https://www.pcgamer.com/games/action/ubisoft-says-a-star-wars-outlaws-planet-is-the-size-of-2-or-3-assassins-creed-odyssey-map-zones-put-together-which-takes-about-5-minutes-nonstop-on-a-speeder-to-cross)
- - [Disney Dreamlight Valley: How To Complete All ‘Majesty And Magnolia’ Dreamlight Duties](https://kotaku.com/disney-dreamlight-valley-majesty-magnolia-duties-1851585711)
- - [Where to find HIA Coins in Zenless Zone Zero](https://www.polygon.com/zenless-zone-zero-guides/24195730/hia-coin-locations-where-to-find-zzz)<!-- GAME:END -->
+ - [Board games, books, movies, and more are buy 2, get 1 free at Target](https://www.polygon.com/deals/24195183/target-buy-two-get-one-free-gaming-tabletop-deal-sale)
+ - [Star Wars Outlaws&#39; maps won&#39;t initially be blanketed in Ubisoft&#39;s infamous map icons because your character Kay &#39;hasn&#39;t seen the galaxy&#39; and &#39;doesn&#39;t know everything&#39; yet](https://www.pcgamer.com/games/action/star-wars-outlaws-maps-wont-initially-be-blanketed-in-ubisofts-infamous-map-icons-because-your-character-kay-hasnt-seen-the-galaxy-and-doesnt-know-everything-yet)
+ - [The Sims 4 Lovestruck expansion: release date and feature details](https://www.pcgamer.com/games/the-sims/the-sims-4-lovestruck-release-date-trailer-features)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
