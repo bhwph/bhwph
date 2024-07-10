@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Acolyte is hinging its whole story on vergences, of all things](https://www.polygon.com/star-wars/24195436/acolyte-vergences-star-wars-m-count-midi-chlorians)
- - [Today&#39;s Wordle answer for Wednesday, July 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-July-10-2024)
- - [Who are Star Wars’ Nightsisters?](https://www.polygon.com/star-wars/23840577/star-wars-acolyte-nightsisters-witches-of-dathomir-clone-wars)<!-- GAME:END -->
+ - [Palworld announces merch after a new partnership with Sony Music, and I&#39;m praying to Jormuntide Ignis that means plushies](https://www.pcgamer.com/games/survival-crafting/palworld-announces-merch-after-new-partnership-with-sony-music-and-im-praying-to-jormuntide-ignis-that-means-plushies)
+ - [Severance finally returns to the office with a release date and a new trailer](https://www.polygon.com/24195201/severance-season-2-trailer-announcement-release-date-first-look)
+ - [Microsoft to increase Game Pass prices and drop day one games from standard tier](https://www.polygon.com/xbox/24195533/game-pass-price-increase-console-standard-ultimate-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
