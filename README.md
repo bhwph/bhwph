@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Classic](http://9gag.com/gag/a2vmDMd)
- - 😝 [What to do in this case](http://9gag.com/gag/aMVGzN1)
- - 👉 [Go go go!](http://9gag.com/gag/aD2onbw)<!-- MEMES:END -->
+ - 6️⃣ [Smuggling hashish to from Afghanistan to Pakistan](http://9gag.com/gag/aXP97Dd)
+ - 😝 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
+ - 👉 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)<!-- MEMES:END -->
 
 --- 
 
