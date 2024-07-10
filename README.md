@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld team strikes deal with Sony that could lead to an anime](https://www.polygon.com/24195617/palworld-sony-music-anime-licensing-deal)
- - [The latest Windows update means Notepad might now be my favourite word processor](https://www.pcgamer.com/software/windows/the-latest-windows-update-means-notepad-might-now-be-my-favourite-word-processor)
- - [Sandman season 2 cast expands with Norse gods, Greek heroes, and a talking dog](https://www.polygon.com/24195100/sandman-season-2-cast-release-date-netflix)<!-- GAME:END -->
+ - [Want to smooch a Sith? Star Wars: The Old Republic delivers](https://www.polygon.com/24195299/star-wars-old-republic-romance-acolyte-qimir)
+ - [How To Complete All Of Fortnite’s Chapter 5 Season 3 Week 6 Quests](https://kotaku.com/fortnite-chapter-5-season-3-week-6-quests-1851584934)
+ - [Bioshock 4 studio is now &#39;recruiting like mad&#39; but the game&#39;s nature remains a mystery](https://www.pcgamer.com/games/fps/bioshock-4-studio-is-now-recruiting-like-mad-but-the-games-nature-remains-a-mystery)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
