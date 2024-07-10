@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld announces merch after a new partnership with Sony Music, and I&#39;m praying to Jormuntide Ignis that means plushies](https://www.pcgamer.com/games/survival-crafting/palworld-announces-merch-after-new-partnership-with-sony-music-and-im-praying-to-jormuntide-ignis-that-means-plushies)
- - [Severance finally returns to the office with a release date and a new trailer](https://www.polygon.com/24195201/severance-season-2-trailer-announcement-release-date-first-look)
- - [Microsoft to increase Game Pass prices and drop day one games from standard tier](https://www.polygon.com/xbox/24195533/game-pass-price-increase-console-standard-ultimate-2024)<!-- GAME:END -->
+ - [Palworld team strikes deal with Sony that could lead to an anime](https://www.polygon.com/24195617/palworld-sony-music-anime-licensing-deal)
+ - [The latest Windows update means Notepad might now be my favourite word processor](https://www.pcgamer.com/software/windows/the-latest-windows-update-means-notepad-might-now-be-my-favourite-word-processor)
+ - [Sandman season 2 cast expands with Norse gods, Greek heroes, and a talking dog](https://www.polygon.com/24195100/sandman-season-2-cast-release-date-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
