@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What to do in this case](http://9gag.com/gag/aMVGzN1)
- - 😝 [True words aye!](http://9gag.com/gag/ae9GmQQ)
- - 👉 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)<!-- MEMES:END -->
+ - 6️⃣ [Classic](http://9gag.com/gag/a2vmDMd)
+ - 😝 [What to do in this case](http://9gag.com/gag/aMVGzN1)
+ - 👉 [Go go go!](http://9gag.com/gag/aD2onbw)<!-- MEMES:END -->
 
 --- 
 
