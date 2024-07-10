@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biden administration says it will direct up to $1.6B in CHIPS Act funding towards R&amp;D to accelerate domestic capacity for advanced chip packaging &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/240709/p27#a240709p27)
- - [The developers suing over GitHub Copilot got dealt a major blow in court](https://www.theverge.com/2024/7/9/24195233/github-ai-copyright-coding-lawsuit-microsoft-openai)
- - [The US DOJ and its partners seized two domain names and 968 accounts on X used by Russian actors to create an AI-enhanced bot farm that spread disinformation &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240709/p26#a240709p26)<!-- TECH:END -->
+ - [Xbox Game Pass: Play Nickelodeon All-Star Brawl 2 Now and More Soon in July](https://www.cnet.com/tech/gaming/xbox-game-pass-play-nickelodeon-all-star-brawl-2-now-and-more-soon-in-july/#ftag=CAD590a51e)
+ - [Anthropic now lets developers use Claude 3.5 Sonnet to generate, test, and evaluate their prompts, and adds new features, like generating automatic test cases &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240709/p31#a240709p31)
+ - [Watching &#39;The Boys&#39;? This Prime Video Feature Is a Treat for Fans](https://www.cnet.com/tech/services-and-software/watching-the-boys-this-prime-video-feature-is-a-treat-for-fans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
