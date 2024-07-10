@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
- - 😝 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
- - 👉 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)<!-- MEMES:END -->
+ - 6️⃣ [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
+ - 😝 [Ivy League Graduates](http://9gag.com/gag/a1mM2GY)
+ - 👉 [The only correct response](http://9gag.com/gag/aAy128R)<!-- MEMES:END -->
 
 --- 
 
