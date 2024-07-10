@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft apologizes for using a real-life reenactment group&#39;s flag in Assassin&#39;s Creed Shadows concept art without permission](https://www.pcgamer.com/games/action/ubisoft-apologizes-for-using-a-real-life-reenactment-groups-flag-in-assassins-creed-shadows-concept-art-without-permission)
- - [If Shadow Of The Erdtree’s Final Boss Feels Like BS, It’s Because It Kind Of Is](https://kotaku.com/elden-ring-shadow-erdtree-radahn-hitboxes-dark-souls-2-1851585346)
- - [The Nier: Automata Anime Is Back And Still The Most Impressive Game Adaptation Around](https://kotaku.com/nier-automata-anime-part-2-crunchyroll-adaptation-1851585264)<!-- GAME:END -->
+ - [Ubisoft says a Star Wars Outlaws planet is the size of &#39;2 or 3&#39; Assassin&#39;s Creed Odyssey map zones put together, which takes about 5 minutes &#39;nonstop&#39; on a speeder to cross](https://www.pcgamer.com/games/action/ubisoft-says-a-star-wars-outlaws-planet-is-the-size-of-2-or-3-assassins-creed-odyssey-map-zones-put-together-which-takes-about-5-minutes-nonstop-on-a-speeder-to-cross)
+ - [Disney Dreamlight Valley: How To Complete All ‘Majesty And Magnolia’ Dreamlight Duties](https://kotaku.com/disney-dreamlight-valley-majesty-magnolia-duties-1851585711)
+ - [Where to find HIA Coins in Zenless Zone Zero](https://www.polygon.com/zenless-zone-zero-guides/24195730/hia-coin-locations-where-to-find-zzz)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
