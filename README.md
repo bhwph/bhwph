@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;It&#39;s time to rebuild some foundations&#39;: Shadowlands forced Blizzard to rethink World of Warcraft&#39;s oldest ideas to make it a better MMO, director says](https://www.pcgamer.com/games/world-of-warcraft/its-time-to-rebuild-some-foundations-shadowlands-forced-blizzard-to-rethink-world-of-warcrafts-oldest-ideas-to-make-a-better-mmo-director-says)
- - [The kaiju-sized Godzilla Minus One collector’s edition Blu-ray is now available to pre-order](https://www.polygon.com/24195225/godzilla-minus-one-collectors-edition-blu-ray-pre-order)
- - [Iizuka says Shadow the Hedgehog wasn&#39;t inspired by Vegeta, but fans have receipts that say otherwise](https://www.pcgamer.com/games/action/iizuka-says-shadow-the-hedgehog-wasnt-inspired-by-vegeta-but-fans-have-receipts-that-say-otherwise)<!-- GAME:END -->
+ - [In Dragon Age: The Veilguard, your companions earn skill points as you rank up their &#39;Relationship Level&#39;](https://www.pcgamer.com/games/rpg/in-dragon-age-the-veilguard-your-companions-earn-skill-points-as-you-rank-up-their-relationship-level)
+ - [New free-to-play survival game Once Human isn&#39;t basking in praise, but it does have an unnecessarily granular character creator with no guard rails](https://www.pcgamer.com/games/survival-crafting/once-human-character-creator)
+ - [PC Game Pass is getting a $2 price hike this September, but consoles will be hit harder](https://www.pcgamer.com/games/pc-game-pass-is-getting-a-dollar2-price-hike-this-september-but-consoles-will-be-hit-harder)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
