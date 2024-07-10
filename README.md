@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD agrees to buy Helsinki-based Silo AI, which offers tailored AI models and platforms to enterprise customers, for $665M in cash; Silo has a 300-person team &lpar;Financial Times&rpar;](http://www.techmeme.com/240710/p24#a240710p24)
- - [Galaxy Ring features: Here’s everything Samsung’s smart ring can do](https://www.androidauthority.com/galaxy-ring-features-3458125/)
- - [The aftermath of the Supreme Court’s NetChoice ruling](https://www.theverge.com/24195235/scotus-netchoice-kosa-kids-safety-age-verification-tiktok-ban)<!-- TECH:END -->
+ - [Best monitor for MacBook Pro in 2024: best buys from Apple, Dell, LG &amp; Samsung](https://appleinsider.com/inside/macbook-pro/best/best-monitor-for-macbook-pro?utm_medium=rss)
+ - [England&#39;s poshest school Eton bans iPhones but provides iPads](https://appleinsider.com/articles/24/07/10/englands-poshest-school-eton-bans-iphones-but-provides-ipads?utm_medium=rss)
+ - [Here’s where you can preorder the Samsung Galaxy Z Fold 6 and Galaxy Z Flip 6](https://www.theverge.com/2024/7/10/24195208/samsung-galaxy-z-fold-flip-6-preorder-buy-price-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
