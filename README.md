@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Smuggling hashish to from Afghanistan to Pakistan](http://9gag.com/gag/aXP97Dd)
- - 😝 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
- - 👉 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)<!-- MEMES:END -->
+ - 6️⃣ [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
+ - 😝 [Traditional vs madonna](http://9gag.com/gag/aByYVBx)
+ - 👉 [They used real person for this scene](http://9gag.com/gag/apRvAVb)<!-- MEMES:END -->
 
 --- 
 
