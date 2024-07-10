@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 😝 [Ivy League Graduates](http://9gag.com/gag/a1mM2GY)
- - 👉 [The only correct response](http://9gag.com/gag/aAy128R)<!-- MEMES:END -->
+ - 6️⃣ [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
+ - 😝 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
+ - 👉 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)<!-- MEMES:END -->
 
 --- 
 
