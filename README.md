@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In Dragon Age: The Veilguard, your companions earn skill points as you rank up their &#39;Relationship Level&#39;](https://www.pcgamer.com/games/rpg/in-dragon-age-the-veilguard-your-companions-earn-skill-points-as-you-rank-up-their-relationship-level)
- - [New free-to-play survival game Once Human isn&#39;t basking in praise, but it does have an unnecessarily granular character creator with no guard rails](https://www.pcgamer.com/games/survival-crafting/once-human-character-creator)
- - [PC Game Pass is getting a $2 price hike this September, but consoles will be hit harder](https://www.pcgamer.com/games/pc-game-pass-is-getting-a-dollar2-price-hike-this-september-but-consoles-will-be-hit-harder)<!-- GAME:END -->
+ - [The Acolyte is hinging its whole story on vergences, of all things](https://www.polygon.com/star-wars/24195436/acolyte-vergences-star-wars-m-count-midi-chlorians)
+ - [Today&#39;s Wordle answer for Wednesday, July 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-July-10-2024)
+ - [Who are Star Wars’ Nightsisters?](https://www.polygon.com/star-wars/23840577/star-wars-acolyte-nightsisters-witches-of-dathomir-clone-wars)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
