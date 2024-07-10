@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
- - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - 👉 [Good citizen bonus](http://9gag.com/gag/a4PYNvw)<!-- MEMES:END -->
+ - 6️⃣ [Good citizen bonus](http://9gag.com/gag/a4PYNvw)
+ - 😝 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
+ - 👉 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)<!-- MEMES:END -->
 
 --- 
 
