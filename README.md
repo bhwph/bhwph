@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switching from Google Photos to iCloud is about to be a lot less painful](https://www.theverge.com/2024/7/10/24195796/google-photos-transfer-to-icloud)
- - [Microsoft has nine months to stop another antitrust battle from escalating](https://www.theverge.com/2024/7/10/24195772/microsofts-cloud-licensing-deal-cispe-eu-antitrust)
- - [AWS launches App Studio in public preview, which is a generative AI-powered service allowing enterprise users to create internal apps using text prompts &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240710/p30#a240710p30)<!-- TECH:END -->
+ - [iPhone 16 fast charging could get a 40W boost](https://appleinsider.com/articles/24/07/10/iphone-16-fast-charging-could-get-a-40w-boost?utm_medium=rss)
+ - [Switching from Google Photos to iCloud Photos just became a whole lot easier](https://www.androidauthority.com/google-photos-icloud-photos-3459533/)
+ - [Get a free $200-$300 Amazon gift card when you pre-order a Samsung Galaxy Z Fold 6 or Z Flip 6](https://www.androidauthority.com/pre-order-samsung-galaxy-z-fold-5-flip-6-deals-3459553/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
