@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft agrees to buy a record 500K carbon credits from US oil producer Occidental&#39;s 1PointFive to offset its emissions amid the AI energy surge &lpar;Financial Times&rpar;](http://www.techmeme.com/240709/p33#a240709p33)
- - [IDC: global shipments of PCs reached 64.9M units in Q2 2024, up 3% YoY; Apple&#39;s shipments rose 20.8% YoY, the biggest jump among global PC makers &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/240709/p32#a240709p32)
- - [Xbox Game Pass: Play Nickelodeon All-Star Brawl 2 Now and More Soon in July](https://www.cnet.com/tech/gaming/xbox-game-pass-play-nickelodeon-all-star-brawl-2-now-and-more-soon-in-july/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This MacBook Air with 16GB RAM, 512GB SSD is on sale for $1,249, the lowest price ever](https://appleinsider.com/articles/24/07/10/this-macbook-air-with-16gb-ram-512gb-ssd-is-on-sale-for-1249-the-lowest-price-ever?utm_medium=rss)
+ - [Google says it has stopped purchasing carbon offsets and is no longer maintaining operational carbon neutrality, but still aims to reach net-zero carbon by 2030 &lpar;Akshat Rathi/Bloomberg&rpar;](http://www.techmeme.com/240709/p35#a240709p35)
+ - [Google Pixel Watch 3 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-watch-3-features-specs-price-3415632/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
