@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
- - 😝 [Traditional vs madonna](http://9gag.com/gag/aByYVBx)
- - 👉 [They used real person for this scene](http://9gag.com/gag/apRvAVb)<!-- MEMES:END -->
+ - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
+ - 👉 [Good citizen bonus](http://9gag.com/gag/a4PYNvw)<!-- MEMES:END -->
 
 --- 
 
