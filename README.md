@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation finds Airbnb fails to protect its guests from hidden cameras and moves swiftly to contain user complaints and resolve them out of court &lpar;CNN&rpar;](http://www.techmeme.com/240710/p4#a240710p4)
- - [Not just streaming services: Even Xbox Game Pass is getting more expensive](https://www.androidauthority.com/xbox-game-pass-price-increase-3458660/)
- - [Source: Apple is not taking an observer role on OpenAI&#39;s board; OpenAI says it will host regular meetings with investors and partners like Microsoft and Apple &lpar;Financial Times&rpar;](http://www.techmeme.com/240710/p3#a240710p3)<!-- TECH:END -->
+ - [Google Fi users now have a handy tool to fight illegal SIM swaps](https://www.androidauthority.com/google-fi-number-lock-sim-swaps-3459216/)
+ - [A look at the rise of algorithmic trading in currency markets: ~50% of hedge funds are using the tech for FX trading in 2024, up from 22% before the pandemic &lpar;Bloomberg&rpar;](http://www.techmeme.com/240710/p6#a240710p6)
+ - [The $11 Billion Marketplace Enabling the Crypto Scam Economy](https://www.wired.com/story/pig-butchering-scam-crypto-huione-guarantee/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
