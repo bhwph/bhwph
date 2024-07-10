@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon reaches its goal of 100% clean energy in 2023 seven years ahead of schedule, after investing in 500+ solar and wind projects, but experts are skeptical &lpar;New York Times&rpar;](http://www.techmeme.com/240710/p11#a240710p11)
- - [Apple probably isn&#39;t taking a seat on OpenAI&#39;s board after all](https://appleinsider.com/articles/24/07/10/apple-probably-isnt-taking-a-seat-on-openais-board-after-all?utm_medium=rss)
- - [Now you don’t need a Titan Security Key for Google’s ultra-secure protection program](https://www.androidauthority.com/passkey-for-google-app-3458930/)<!-- TECH:END -->
+ - [How to move a smart home](https://www.theverge.com/24184716/moving-smart-home-tech-setup)
+ - [Apple and Microsoft give up their chance to peek into OpenAI secrets](https://www.androidauthority.com/apple-microsoft-give-up-openai-board-seats-3459293/)
+ - [iPhone 16 fast charging could get a 40W boost](https://appleinsider.com/articles/24/07/10/iphone-16-fast-charging-could-get-a-40w-boost?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
