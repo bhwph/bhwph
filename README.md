@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best monitor for MacBook Pro in 2024: best buys from Apple, Dell, LG &amp; Samsung](https://appleinsider.com/inside/macbook-pro/best/best-monitor-for-macbook-pro?utm_medium=rss)
- - [England&#39;s poshest school Eton bans iPhones but provides iPads](https://appleinsider.com/articles/24/07/10/englands-poshest-school-eton-bans-iphones-but-provides-ipads?utm_medium=rss)
- - [Here’s where you can preorder the Samsung Galaxy Z Fold 6 and Galaxy Z Flip 6](https://www.theverge.com/2024/7/10/24195208/samsung-galaxy-z-fold-flip-6-preorder-buy-price-release-date)<!-- TECH:END -->
+ - [Switching from Google Photos to iCloud is about to be a lot less painful](https://www.theverge.com/2024/7/10/24195796/google-photos-transfer-to-icloud)
+ - [Microsoft has nine months to stop another antitrust battle from escalating](https://www.theverge.com/2024/7/10/24195772/microsofts-cloud-licensing-deal-cispe-eu-antitrust)
+ - [AWS launches App Studio in public preview, which is a generative AI-powered service allowing enterprise users to create internal apps using text prompts &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240710/p30#a240710p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
