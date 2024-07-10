@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This MacBook Air with 16GB RAM, 512GB SSD is on sale for $1,249, the lowest price ever](https://appleinsider.com/articles/24/07/10/this-macbook-air-with-16gb-ram-512gb-ssd-is-on-sale-for-1249-the-lowest-price-ever?utm_medium=rss)
- - [Google says it has stopped purchasing carbon offsets and is no longer maintaining operational carbon neutrality, but still aims to reach net-zero carbon by 2030 &lpar;Akshat Rathi/Bloomberg&rpar;](http://www.techmeme.com/240709/p35#a240709p35)
- - [Google Pixel Watch 3 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-watch-3-features-specs-price-3415632/)<!-- TECH:END -->
+ - [An investigation finds Airbnb fails to protect its guests from hidden cameras and moves swiftly to contain user complaints and resolve them out of court &lpar;CNN&rpar;](http://www.techmeme.com/240710/p4#a240710p4)
+ - [Not just streaming services: Even Xbox Game Pass is getting more expensive](https://www.androidauthority.com/xbox-game-pass-price-increase-3458660/)
+ - [Source: Apple is not taking an observer role on OpenAI&#39;s board; OpenAI says it will host regular meetings with investors and partners like Microsoft and Apple &lpar;Financial Times&rpar;](http://www.techmeme.com/240710/p3#a240710p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
