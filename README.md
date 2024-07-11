@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Her friend is cute too](http://9gag.com/gag/a9y7Bn1)
- - 😝 [Listen fat ass!](http://9gag.com/gag/aVvPBPP)
- - 👉 [Trevor](http://9gag.com/gag/a9y7DYL)<!-- MEMES:END -->
+ - 6️⃣ [Journalist think The Red Baron&#39;s Aircraft is a Nazi Aircraft](http://9gag.com/gag/an7NE1B)
+ - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
+ - 👉 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)<!-- MEMES:END -->
 
 --- 
 
