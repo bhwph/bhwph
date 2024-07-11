@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US prosecutors say crypto exchange BitMEX pled guilty to one count of Bank Secrecy Act violations by operating without an adequate AML program from 2015 to 2020 &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/240710/p35#a240710p35)
- - [Florida has temporarily suspended support for its digital driver&#39;s license app](https://appleinsider.com/articles/24/07/10/florida-has-temporarily-suspended-support-for-its-digital-drivers-license-app?utm_medium=rss)
- - [Hayden AI, which provides vision AI solutions for cities to monitor traffic safety and more, raised a $90M Series C led by TPG&#39;s The Rise Fund &lpar;FinSMEs&rpar;](http://www.techmeme.com/240710/p34#a240710p34)<!-- TECH:END -->
+ - [Redbox owner Chicken Soup for the Soul Entertainment is granted Chapter 7 bankruptcy, paving the way for shutting down the company and liquidating its assets &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/240710/p36#a240710p36)
+ - [Redbox’s disc rentals are over](https://www.theverge.com/2024/7/10/24196063/redbox-chicken-soup-bankruptcy-liquidate)
+ - [Florida’s digital ID app has suddenly disappeared](https://www.theverge.com/2024/7/10/24196044/florida-smart-id-digital-state-id-app-shut-down)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
