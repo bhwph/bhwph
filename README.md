@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whoop users can now track a healthier take on weight and body mass](https://www.androidauthority.com/whoop-track-body-composition-weight-trends-3459661/)
- - [What does Oura think of the Samsung Galaxy Ring?](https://www.androidauthority.com/oura-reacts-to-samsung-galaxy-ring-launch-3459203/)
- - [Starlink Mini is now available for anyone in the US to roam](https://www.theverge.com/2024/7/11/24196294/starlink-mini-available-us-price-specs)<!-- TECH:END -->
+ - [Sources: Xiaohongshu, China&#39;s fastest-growing social media platform, sold existing shares in recent weeks at a $17B valuation; DST took part in the round &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240711/p12#a240711p12)
+ - [EU Apple Pay antitrust action is complete, after NFC opened to competitors](https://appleinsider.com/articles/24/07/11/apple-will-now-allow-rivals-access-to-its-iphone-nfc-payments-in-eu?utm_medium=rss)
+ - [Camera zoom could get a lot better on the iPhone 17 Pro Max](https://www.androidauthority.com/iphone-17-pro-max-camera-zoom-rumor-3459695/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
