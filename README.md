@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bear sex &#39;a watershed moment in game history&#39;, says Baldur&#39;s Gate 3 writer](https://www.pcgamer.com/games/baldurs-gate/bear-sex-a-watershed-moment-in-game-history-says-baldur-s-gate-3-writer)
- - [Flintlock: The Siege of Dawn – discover the gods you’ll battle July 18](https://blog.playstation.com/2024/07/11/flintlock-the-siege-of-dawn-discover-the-gods-youll-battle-july-18/)
- - [Flintlock: The Siege of Dawn – discover the gods you’ll battle July 18](https://blog.playstation.com/2024/07/11/flintlock-the-siege-of-dawn-discover-the-gods-youll-battle-july-18/)<!-- GAME:END -->
+ - [A Famously Canceled Fallout Game Finds New Life As A Free Mod](https://kotaku.com/fallout-yesterday-van-buren-free-mod-1851587293)
+ - [Hell yeah, the sequel to Netflix’s best horror-thriller has a trailer and release date](https://www.polygon.com/24196440/platform-2-netflix-best-horror-thriller-teaser-trailer-release-date)
+ - [It&#39;s 2024 and yet Intel is still churning out DUAL CORE CPUs for desktop PCs, and I&#39;m a little in awe of the plucky trooper](https://www.pcgamer.com/hardware/processors/its-2024-and-yet-intel-is-still-churning-out-dual-core-cpus-for-desktop-pcs-and-im-a-little-in-awe-of-the-plucky-trooper)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
