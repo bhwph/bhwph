@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Catch](http://9gag.com/gag/a9y7BMj)
- - 😝 [When Your World Fall&#39;s Apart](http://9gag.com/gag/aD2oOYK)
- - 👉 [Easy peasy](http://9gag.com/gag/a9y7X8D)<!-- MEMES:END -->
+ - 6️⃣ [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
+ - 😝 [Hummmmmmmm](http://9gag.com/gag/an7NDjo)
+ - 👉 [There is a reason why they total the car](http://9gag.com/gag/adBje29)<!-- MEMES:END -->
 
 --- 
 
