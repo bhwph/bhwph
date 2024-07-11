@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arab and Muslim workers at Meta detail frustrations over Meta&#39;s handling of internal discussions on the Israel-Hamas war, worrying it led to bad product choices &lpar;Wired&rpar;](http://www.techmeme.com/240711/p23#a240711p23)
- - [Florida digital driver’s licenses are broken until at least next year](https://www.androidauthority.com/florida-digital-drivers-license-3459956/)
- - [You can’t screw up Arduino’s new DIY electronics kit](https://www.theverge.com/2024/7/11/24196432/arduino-electronics-starter-kit-educational)<!-- TECH:END -->
+ - [Save $300 on the ASUS ROG Zephyrus G14, an amazing gaming laptop](https://www.androidauthority.com/asus-rog-zephyrus-g14-deal-3460037/)
+ - [Forget wake words! Galaxy Buds 3 Pro get supercharged Voice Control feature](https://www.androidauthority.com/galaxy-buds3-pro-features-3459971/)
+ - [Apple’s AirPods Max have dropped below $400 for the first time](https://www.theverge.com/2024/7/11/24196451/apple-airpods-max-noise-canceling-headphones-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
