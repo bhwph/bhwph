@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 😝 [Hummmmmmmm](http://9gag.com/gag/an7NDjo)
- - 👉 [There is a reason why they total the car](http://9gag.com/gag/adBje29)<!-- MEMES:END -->
+ - 6️⃣ [Her friend is cute too](http://9gag.com/gag/a9y7Bn1)
+ - 😝 [Listen fat ass!](http://9gag.com/gag/aVvPBPP)
+ - 👉 [Trevor](http://9gag.com/gag/a9y7DYL)<!-- MEMES:END -->
 
 --- 
 
