@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nasscom expects India&#39;s digital talent gap to widen to ~29% in 2028 and says India needs 1M+ engineers with advanced AI skills and more over the next 2-3 years &lpar;Ruchi Bhatia/Bloomberg&rpar;](http://www.techmeme.com/240711/p4#a240711p4)
- - [Kearney-Amazon Pay survey of 6,000 consumers and 1,000 merchants across 120 Indian cities: 46% of transactions for street vendors are digital &lpar;Bhupendra Paintola/Inc42 Media&rpar;](http://www.techmeme.com/240711/p3#a240711p3)
- - [A survey of 1,600 decision makers in key global markets: 83% of Chinese respondents said they&#39;ve adopted generative AI vs. 65% in the US and 54% global average &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240711/p2#a240711p2)<!-- TECH:END -->
+ - [Whoop users can now track a healthier take on weight and body mass](https://www.androidauthority.com/whoop-track-body-composition-weight-trends-3459661/)
+ - [What does Oura think of the Samsung Galaxy Ring?](https://www.androidauthority.com/oura-reacts-to-samsung-galaxy-ring-launch-3459203/)
+ - [Starlink Mini is now available for anyone in the US to roam](https://www.theverge.com/2024/7/11/24196294/starlink-mini-available-us-price-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
