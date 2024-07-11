@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube announces new Shorts features, including TikTok-like text-to-speech video narration, in-app auto-generated captions, and a set of Minecraft effects &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240711/p21#a240711p21)
- - [Apple is trying to reinvent group audio chat with no cell or WiFi needed](https://appleinsider.com/articles/24/07/11/apple-is-trying-to-reinvent-group-audio-chat-with-no-cell-or-wifi-needed?utm_medium=rss)
- - [Two Republican US House Committee chairs call for an intelligence assessment of Microsoft&#39;s deal with Abu Dhabi&#39;s G42, including a focus on G42&#39;s China ties &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240711/p20#a240711p20)<!-- TECH:END -->
+ - [Arab and Muslim workers at Meta detail frustrations over Meta&#39;s handling of internal discussions on the Israel-Hamas war, worrying it led to bad product choices &lpar;Wired&rpar;](http://www.techmeme.com/240711/p23#a240711p23)
+ - [Florida digital driver’s licenses are broken until at least next year](https://www.androidauthority.com/florida-digital-drivers-license-3459956/)
+ - [You can’t screw up Arduino’s new DIY electronics kit](https://www.theverge.com/2024/7/11/24196432/arduino-electronics-starter-kit-educational)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
