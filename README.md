@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mexican food vendors traveled down to India to eat Indian street food on a dare. It didn\u2019t end well.](http://9gag.com/gag/aKGqYwN)
- - 😝 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
- - 👉 [Did the Discounts Justify the Cost?](http://9gag.com/gag/aE07O0o)<!-- MEMES:END -->
+ - 6️⃣ [The only correct response](http://9gag.com/gag/aAy128R)
+ - 😝 [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
+ - 👉 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)<!-- MEMES:END -->
 
 --- 
 
