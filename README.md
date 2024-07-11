@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fireworks AI, which helps companies fine-tune and customize AI models, raised $52M led by Sequoia at a $552M valuation, taking its total funding to $77M &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/240711/p15#a240711p15)
- - [This is Sonos’ next flagship soundbar](https://www.theverge.com/2024/7/11/24195947/sonos-lasso-soundbar-photos-features-leak)
- - [Early Prime Day deals: The best robot vacuum deals available now](https://www.androidauthority.com/best-vacuum-deals-amazon-prime-day-2024-3459055/)<!-- TECH:END -->
+ - [The King of Chum](https://www.theverge.com/24195879/advon-commerce-ai-sports-illustrated-gannett-product-reviews-spam-seo)
+ - [Wimbledon 2024: How to Watch a Barbora Krejčíková vs. Elena Rybakina Free Tennis Livestream](https://www.cnet.com/tech/services-and-software/wimbledon-2024-how-to-watch-a-barbora-krejcikova-vs-elena-rybakina-free-tennis-livestream/#ftag=CAD590a51e)
+ - [How to Find the Best Amazon Deals This Prime Day](https://www.cnet.com/deals/how-to-find-the-best-amazon-deals-this-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
