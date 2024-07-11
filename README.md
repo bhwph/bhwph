@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Xiaohongshu, China&#39;s fastest-growing social media platform, sold existing shares in recent weeks at a $17B valuation; DST took part in the round &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240711/p12#a240711p12)
- - [EU Apple Pay antitrust action is complete, after NFC opened to competitors](https://appleinsider.com/articles/24/07/11/apple-will-now-allow-rivals-access-to-its-iphone-nfc-payments-in-eu?utm_medium=rss)
- - [Camera zoom could get a lot better on the iPhone 17 Pro Max](https://www.androidauthority.com/iphone-17-pro-max-camera-zoom-rumor-3459695/)<!-- TECH:END -->
+ - [Fireworks AI, which helps companies fine-tune and customize AI models, raised $52M led by Sequoia at a $552M valuation, taking its total funding to $77M &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/240711/p15#a240711p15)
+ - [This is Sonos’ next flagship soundbar](https://www.theverge.com/2024/7/11/24195947/sonos-lasso-soundbar-photos-features-leak)
+ - [Early Prime Day deals: The best robot vacuum deals available now](https://www.androidauthority.com/best-vacuum-deals-amazon-prime-day-2024-3459055/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
