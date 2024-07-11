@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Angry Birds Seemingly Confirms Gay Bird Is Just An Ally](https://kotaku.com/angry-birds-chuck-gay-ally-pride-post-mighty-eagle-1851587700)
- - [Deathbound Launching this Summer on Xbox](https://news.xbox.com/en-us/2024/07/11/deathbound-launching-this-summer-on-xbox/)
- - [Sony’s new hero shooter Concord is playable this weekend for all PS Plus subscribers](https://www.polygon.com/24196536/concord-early-access-beta-dates-ps-plus-ps5-pc)<!-- GAME:END -->
+ - [Overwatch 2 is teasing its new hero in game — with some big lore implications](https://www.polygon.com/24196032/overwatch-2-space-ranger-teaser-lore-jiayi)
+ - [Final Fantasy 14 Heroes Can Now Make Silly Faces And Players Are Obsessed](https://kotaku.com/final-fantasy-14-graphics-update-silly-faces-gpose-1851587987)
+ - [Doom Fans Go Too Far, Port The Shooter To A Sex Toy](https://kotaku.com/doom-port-sex-toy-electronic-fleshlight-mod-weird-1851587885)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
