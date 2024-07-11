@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
- - 😝 [He was in the bushes watching! he didn&#39;t like that move at his friend](http://9gag.com/gag/aYQePzq)
- - 👉 [Different abby, same cocks](http://9gag.com/gag/aE07Xmo)<!-- MEMES:END -->
+ - 6️⃣ [Never forget](http://9gag.com/gag/aRBAR1j)
+ - 😝 [Shut up and take my money](http://9gag.com/gag/aO8VRNv)
+ - 👉 [That smile](http://9gag.com/gag/amo9p46)<!-- MEMES:END -->
 
 --- 
 
