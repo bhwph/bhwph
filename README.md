@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The King of Chum](https://www.theverge.com/24195879/advon-commerce-ai-sports-illustrated-gannett-product-reviews-spam-seo)
- - [Wimbledon 2024: How to Watch a Barbora Krejčíková vs. Elena Rybakina Free Tennis Livestream](https://www.cnet.com/tech/services-and-software/wimbledon-2024-how-to-watch-a-barbora-krejcikova-vs-elena-rybakina-free-tennis-livestream/#ftag=CAD590a51e)
- - [How to Find the Best Amazon Deals This Prime Day](https://www.cnet.com/deals/how-to-find-the-best-amazon-deals-this-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube announces new Shorts features, including TikTok-like text-to-speech video narration, in-app auto-generated captions, and a set of Minecraft effects &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240711/p21#a240711p21)
+ - [Apple is trying to reinvent group audio chat with no cell or WiFi needed](https://appleinsider.com/articles/24/07/11/apple-is-trying-to-reinvent-group-audio-chat-with-no-cell-or-wifi-needed?utm_medium=rss)
+ - [Two Republican US House Committee chairs call for an intelligence assessment of Microsoft&#39;s deal with Abu Dhabi&#39;s G42, including a focus on G42&#39;s China ties &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240711/p20#a240711p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
