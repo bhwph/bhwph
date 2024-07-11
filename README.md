@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Famously Canceled Fallout Game Finds New Life As A Free Mod](https://kotaku.com/fallout-yesterday-van-buren-free-mod-1851587293)
- - [Hell yeah, the sequel to Netflix’s best horror-thriller has a trailer and release date](https://www.polygon.com/24196440/platform-2-netflix-best-horror-thriller-teaser-trailer-release-date)
- - [It&#39;s 2024 and yet Intel is still churning out DUAL CORE CPUs for desktop PCs, and I&#39;m a little in awe of the plucky trooper](https://www.pcgamer.com/hardware/processors/its-2024-and-yet-intel-is-still-churning-out-dual-core-cpus-for-desktop-pcs-and-im-a-little-in-awe-of-the-plucky-trooper)<!-- GAME:END -->
+ - [Angry Birds Seemingly Confirms Gay Bird Is Just An Ally](https://kotaku.com/angry-birds-chuck-gay-ally-pride-post-mighty-eagle-1851587700)
+ - [Deathbound Launching this Summer on Xbox](https://news.xbox.com/en-us/2024/07/11/deathbound-launching-this-summer-on-xbox/)
+ - [Sony’s new hero shooter Concord is playable this weekend for all PS Plus subscribers](https://www.polygon.com/24196536/concord-early-access-beta-dates-ps-plus-ps5-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
