@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Journalist think The Red Baron&#39;s Aircraft is a Nazi Aircraft](http://9gag.com/gag/an7NE1B)
- - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 👉 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)<!-- MEMES:END -->
+ - 6️⃣ [Mexican food vendors traveled down to India to eat Indian street food on a dare. It didn\u2019t end well.](http://9gag.com/gag/aKGqYwN)
+ - 😝 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
+ - 👉 [Did the Discounts Justify the Cost?](http://9gag.com/gag/aE07O0o)<!-- MEMES:END -->
 
 --- 
 
