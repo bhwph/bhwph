@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never forget](http://9gag.com/gag/aRBAR1j)
- - 😝 [Shut up and take my money](http://9gag.com/gag/aO8VRNv)
- - 👉 [That smile](http://9gag.com/gag/amo9p46)<!-- MEMES:END -->
+ - 6️⃣ [Catch](http://9gag.com/gag/a9y7BMj)
+ - 😝 [When Your World Fall&#39;s Apart](http://9gag.com/gag/aD2oOYK)
+ - 👉 [Easy peasy](http://9gag.com/gag/a9y7X8D)<!-- MEMES:END -->
 
 --- 
 
