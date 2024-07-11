@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The only correct response](http://9gag.com/gag/aAy128R)
- - 😝 [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
- - 👉 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)<!-- MEMES:END -->
+ - 6️⃣ [The making of Daft Punk&#39;s &#39;Around the World&#39; music video in 1997, directed by Michael Gondry.](http://9gag.com/gag/ae9GdMj)
+ - 😝 [For real](http://9gag.com/gag/aD2oMB9)
+ - 👉 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)<!-- MEMES:END -->
 
 --- 
 
