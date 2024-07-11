@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FF14 player counts around 21 hours of cutscenes in Dawntrail—making it the second longest expansion next to Endwalker—and I can&#39;t for the life of me tell you why](https://www.pcgamer.com/games/final-fantasy/ff14-player-counts-around-21-hours-of-cutscenes-in-dawntrail-making-it-the-second-longest-expansion-next-to-endwalker-and-i-can-t-for-the-life-of-me-tell-you-why)
- - [Today&#39;s Wordle answer for Thursday, July 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-11-2024)
- - [Whether or not we&#39;ll see a penis in Dragon Age: The Veilguard is a spoiler, apparently](https://www.pcgamer.com/games/rpg/whether-or-not-you-can-see-a-penis-in-dragon-age-the-veilguard-is-a-spoiler-apparently)<!-- GAME:END -->
+ - [Ayaneo Retro Mini AM02](https://www.pcgamer.com/hardware/gaming-pcs/ayaneo-retro-mini-am02)
+ - [Las Vegas&#39; dystopia-sphere, powered by 150 Nvidia GPUs and drawing up to 28,000,000 watts, is both a testament to the hubris of humanity and an admittedly impressive technical feat](https://www.pcgamer.com/hardware/las-vegas-dystopia-sphere-powered-by-150-nvidia-gpus-and-drawing-up-to-28000000-watts-is-both-a-testament-to-the-hubris-of-humanity-and-an-admittedly-impressive-technical-feat)
+ - [Concord Beta Early Access: Preload and server times, PC specs, and more detailed](https://blog.playstation.com/2024/07/11/concord-beta-early-access-preload-and-server-times-pc-specs-and-more-detailed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
