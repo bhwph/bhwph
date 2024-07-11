@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 is teasing its new hero in game — with some big lore implications](https://www.polygon.com/24196032/overwatch-2-space-ranger-teaser-lore-jiayi)
- - [Final Fantasy 14 Heroes Can Now Make Silly Faces And Players Are Obsessed](https://kotaku.com/final-fantasy-14-graphics-update-silly-faces-gpose-1851587987)
- - [Doom Fans Go Too Far, Port The Shooter To A Sex Toy](https://kotaku.com/doom-port-sex-toy-electronic-fleshlight-mod-weird-1851587885)<!-- GAME:END -->
+ - [Deathbound is a &#39;party-based soulslike,&#39; but everyone in the party lives inside you](https://www.pcgamer.com/games/action/deathbound-is-a-party-based-soulslike-but-everyone-in-the-party-lives-inside-you)
+ - [Elden Ring Fans Let Down By The DLC’s Ending Are Missing The Point](https://kotaku.com/elden-ring-shadow-erdtree-lore-disappointed-fans-ending-1851588208)
+ - [8BitDo celebrates its 11th anniversary with a massive sale and gold SN30 Pro controllers](https://www.polygon.com/deals/2024/7/11/24196710/8bitdo-sale-gold-sn30-pro-controllers-pro-2-discount)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
