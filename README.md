@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google warns that older watch faces won’t work with Wear OS 5](https://www.androidauthority.com/wear-os-5-watch-face-format-compatibility-3459557/)
- - [How to add sensors to Apple Watch and iPhone for an improved cycling experience](https://appleinsider.com/inside/apple-watch/tips/how-to-add-sensors-to-apple-watch-and-iphone-for-an-improved-cycling-experience?utm_medium=rss)
- - [An international study of 642 websites and mobile apps offering subscription services finds ~76% with at least one possible dark pattern and ~67% with multiple &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240710/p37#a240710p37)<!-- TECH:END -->
+ - [Nasscom expects India&#39;s digital talent gap to widen to ~29% in 2028 and says India needs 1M+ engineers with advanced AI skills and more over the next 2-3 years &lpar;Ruchi Bhatia/Bloomberg&rpar;](http://www.techmeme.com/240711/p4#a240711p4)
+ - [Kearney-Amazon Pay survey of 6,000 consumers and 1,000 merchants across 120 Indian cities: 46% of transactions for street vendors are digital &lpar;Bhupendra Paintola/Inc42 Media&rpar;](http://www.techmeme.com/240711/p3#a240711p3)
+ - [A survey of 1,600 decision makers in key global markets: 83% of Chinese respondents said they&#39;ve adopted generative AI vs. 65% in the US and 54% global average &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240711/p2#a240711p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
