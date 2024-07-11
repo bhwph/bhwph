@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ayaneo Retro Mini AM02](https://www.pcgamer.com/hardware/gaming-pcs/ayaneo-retro-mini-am02)
- - [Las Vegas&#39; dystopia-sphere, powered by 150 Nvidia GPUs and drawing up to 28,000,000 watts, is both a testament to the hubris of humanity and an admittedly impressive technical feat](https://www.pcgamer.com/hardware/las-vegas-dystopia-sphere-powered-by-150-nvidia-gpus-and-drawing-up-to-28000000-watts-is-both-a-testament-to-the-hubris-of-humanity-and-an-admittedly-impressive-technical-feat)
- - [Concord Beta Early Access: Preload and server times, PC specs, and more detailed](https://blog.playstation.com/2024/07/11/concord-beta-early-access-preload-and-server-times-pc-specs-and-more-detailed/)<!-- GAME:END -->
+ - [Bear sex &#39;a watershed moment in game history&#39;, says Baldur&#39;s Gate 3 writer](https://www.pcgamer.com/games/baldurs-gate/bear-sex-a-watershed-moment-in-game-history-says-baldur-s-gate-3-writer)
+ - [Flintlock: The Siege of Dawn – discover the gods you’ll battle July 18](https://blog.playstation.com/2024/07/11/flintlock-the-siege-of-dawn-discover-the-gods-youll-battle-july-18/)
+ - [Flintlock: The Siege of Dawn – discover the gods you’ll battle July 18](https://blog.playstation.com/2024/07/11/flintlock-the-siege-of-dawn-discover-the-gods-youll-battle-july-18/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
