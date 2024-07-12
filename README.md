@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Outlast Trials&#39; new major update has given a deranged killer a shotgun because all the melee opponents weren&#39;t hard enough](https://www.pcgamer.com/games/horror/the-outlast-trials-new-major-update-has-given-a-deranged-killer-a-shotgun-because-all-the-melee-opponents-werent-hard-enough)
- - [You can pick up the best Star Wars RPG ever made on the most forgettable launcher ever made for free if you&#39;re a Prime Gaming sub](https://www.pcgamer.com/games/rpg/you-can-pick-up-the-best-star-wars-rpg-ever-made-on-the-most-forgettable-launcher-ever-made-for-free-if-youre-a-prime-gaming-sub-right-now)
- - [World of Warcraft: The War Within&#39;s pre-patch is coming soon—alongside Warbands, a quality-of-life game changer that lets you share rep, gear, and currencies across your alts](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-the-war-within-s-pre-patch-is-coming-soon-alongside-warbands-a-quality-of-life-game-changer-that-lets-you-share-rep-gear-and-currencies-across-your-alts)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for July 15 to 19](https://news.xbox.com/en-us/2024/07/12/next-week-on-xbox-new-games-for-july-15-to-19/)
+ - [Win a Steam Deck from Polygon!](https://www.polygon.com/24188193/steamdeck-sweepstakes-newsletter-entry-details)
+ - [Apex Legends league looking to ‘resolve’ gaffe that awarded more than $100,000 prize money incorrectly](https://www.polygon.com/24196854/apex-legends-global-series-agls-pro-league-wrong-prize-payment)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
