@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First Female To Have Male Hands](http://9gag.com/gag/aqy5YvY)
- - 😝 [Diversity goes brrr](http://9gag.com/gag/aYQed3w)
- - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
+ - 6️⃣ [???????????](http://9gag.com/gag/aW469DZ)
+ - 😝 [Diversity is our strength](http://9gag.com/gag/aVvPBpM)
+ - 👉 [For real](http://9gag.com/gag/aD2oMB9)<!-- MEMES:END -->
 
 --- 
 
