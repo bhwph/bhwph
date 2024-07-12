@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You heard that little bud?](http://9gag.com/gag/aE07E4p)
- - 😝 [That smile](http://9gag.com/gag/amo9p46)
- - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
+ - 6️⃣ [Please don&#39;t please don&#39;t](http://9gag.com/gag/azxjobz)
+ - 😝 [I go to Japan](http://9gag.com/gag/aYQeZbw)
+ - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
 
 --- 
 
