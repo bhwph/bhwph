@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deathbound is a &#39;party-based soulslike,&#39; but everyone in the party lives inside you](https://www.pcgamer.com/games/action/deathbound-is-a-party-based-soulslike-but-everyone-in-the-party-lives-inside-you)
- - [Elden Ring Fans Let Down By The DLC’s Ending Are Missing The Point](https://kotaku.com/elden-ring-shadow-erdtree-lore-disappointed-fans-ending-1851588208)
- - [8BitDo celebrates its 11th anniversary with a massive sale and gold SN30 Pro controllers](https://www.polygon.com/deals/2024/7/11/24196710/8bitdo-sale-gold-sn30-pro-controllers-pro-2-discount)<!-- GAME:END -->
+ - [This Witcher 3 mod that lets you play as a custom character or a whole new sorceress class is super promising, but maybe wait a few months for it to iron out the kinks](https://www.pcgamer.com/games/rpg/this-witcher-3-mod-that-lets-you-play-as-a-custom-character-or-a-whole-new-sorceress-class-is-super-promising-but-maybe-wait-a-few-months-for-it-to-iron-out-the-kinks)
+ - [The designer of mobile hits Fruit Ninja and Jetpack Joyride is making a deep-sea Lovecraftian horror game](https://www.pcgamer.com/games/roguelike/the-designer-of-mobile-hits-fruit-ninja-and-jetpack-joyride-is-making-a-deep-sea-lovecraftian-horror-game)
+ - [You don&#39;t lose all your progress when a Once Human season ends—here&#39;s how the survival game&#39;s server resets work](https://www.pcgamer.com/games/survival-crafting/once-human-season-reset)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
