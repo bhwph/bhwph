@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
- - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 👉 [Trevor](http://9gag.com/gag/a9y7DYL)<!-- MEMES:END -->
+ - 6️⃣ [No nonsense, girl](http://9gag.com/gag/a7o7nm2)
+ - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
+ - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
 
 --- 
 
