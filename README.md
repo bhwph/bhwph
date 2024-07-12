@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nearly every AT&amp;T customer just had six months of call logs stolen](https://appleinsider.com/articles/24/07/12/nearly-every-att-customer-just-had-six-months-of-call-logs-stolen?utm_medium=rss)
- - [In a June report, India&#39;s antitrust body CCI found that Apple exploited its dominant position in iOS Apps Store and engaged &quot;in abusive conduct and practices&quot; &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240712/p7#a240712p7)
- - [Samsung Galaxy Watch 7 vs Watch Ultra: What’s the difference and which should you buy?](https://www.androidauthority.com/samsung-galaxy-watch-7-vs-watch-ultra-3459963/)<!-- TECH:END -->
+ - [Captain America: Brave New World sends an Avenger to Washington in new trailer](https://www.theverge.com/24197093/captain-america-brave-new-world-trailer)
+ - [MacPaw introduces on-device phishing detection to boost macOS security](https://appleinsider.com/articles/24/07/12/macpaw-introduces-on-device-phishing-detection-to-boost-macos-security?utm_medium=rss)
+ - [Amazon says its AI-powered shopping assistant Rufus is now live in the Amazon mobile app for all US customers, after launching in beta in February 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240712/p12#a240712p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
