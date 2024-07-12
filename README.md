@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Meta plans to release the largest version of its Llama 3 model with 405B parameters and multimodal capabilities on July 23 &lpar;The Information&rpar;](http://www.techmeme.com/240712/p15#a240712p15)
- - [Level up your shopping game with Rufus, Amazon’s AI assistant](https://www.androidauthority.com/rufus-amazon-ai-3460292/)
- - [The best new streaming shows this week: The Boyfriend, Sunny, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)<!-- TECH:END -->
+ - [The Verge’s guide to Amazon Prime Day 2024](https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024)
+ - [The best early Prime Day deals on Amazon devices](https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024)
+ - [Apple Pay is convenient and brings out the worst in me](https://www.theverge.com/2024/7/12/24197272/apple-pay-convenience-frictionless-lost-wallet)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
