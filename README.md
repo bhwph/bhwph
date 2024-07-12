@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Captain America: Brave New World sends an Avenger to Washington in new trailer](https://www.theverge.com/24197093/captain-america-brave-new-world-trailer)
- - [MacPaw introduces on-device phishing detection to boost macOS security](https://appleinsider.com/articles/24/07/12/macpaw-introduces-on-device-phishing-detection-to-boost-macos-security?utm_medium=rss)
- - [Amazon says its AI-powered shopping assistant Rufus is now live in the Amazon mobile app for all US customers, after launching in beta in February 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240712/p12#a240712p12)<!-- TECH:END -->
+ - [Source: Meta plans to release the largest version of its Llama 3 model with 405B parameters and multimodal capabilities on July 23 &lpar;The Information&rpar;](http://www.techmeme.com/240712/p15#a240712p15)
+ - [Level up your shopping game with Rufus, Amazon’s AI assistant](https://www.androidauthority.com/rufus-amazon-ai-3460292/)
+ - [The best new streaming shows this week: The Boyfriend, Sunny, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
