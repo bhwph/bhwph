@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
- - 😝 [Grey dress](http://9gag.com/gag/apRvVnn)
- - 👉 [Aliens among us](http://9gag.com/gag/aYQeRK2)<!-- MEMES:END -->
+ - 6️⃣ [Listen fat ass!](http://9gag.com/gag/aVvPBPP)
+ - 😝 [When Your World Fall&#39;s Apart](http://9gag.com/gag/aD2oOYK)
+ - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
 
 --- 
 
