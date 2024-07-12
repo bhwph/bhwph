@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [???????????](http://9gag.com/gag/aW469DZ)
- - 😝 [Diversity is our strength](http://9gag.com/gag/aVvPBpM)
- - 👉 [For real](http://9gag.com/gag/aD2oMB9)<!-- MEMES:END -->
+ - 6️⃣ [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
+ - 😝 [Grey dress](http://9gag.com/gag/apRvVnn)
+ - 👉 [Aliens among us](http://9gag.com/gag/aYQeRK2)<!-- MEMES:END -->
 
 --- 
 
