@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The making of Daft Punk&#39;s &#39;Around the World&#39; music video in 1997, directed by Michael Gondry.](http://9gag.com/gag/ae9GdMj)
- - 😝 [For real](http://9gag.com/gag/aD2oMB9)
- - 👉 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)<!-- MEMES:END -->
+ - 6️⃣ [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)
+ - 😝 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
+ - 👉 [Hummmmmmmm](http://9gag.com/gag/an7NDjo)<!-- MEMES:END -->
 
 --- 
 
