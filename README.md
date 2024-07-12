@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Preliminary findings: the EU says X&#39;s paid blue checkmark deceives users and breaches the DSA; X faces a fine of up to 6% of its global revenue if found guilty &lpar;Financial Times&rpar;](http://www.techmeme.com/240712/p4#a240712p4)
- - [The Galaxy Buds 3 Pro’s voice commands are a prankster’s paradise](https://www.androidauthority.com/galaxy-buds-3-pro-voice-commands-3460172/)
- - [Amazon Will Brick Its $2,350 Astro Robots Just 10 Months After Release](https://www.wired.com/story/amazon-astro-robot-brick/)<!-- TECH:END -->
+ - [Nearly every AT&amp;T customer just had six months of call logs stolen](https://appleinsider.com/articles/24/07/12/nearly-every-att-customer-just-had-six-months-of-call-logs-stolen?utm_medium=rss)
+ - [In a June report, India&#39;s antitrust body CCI found that Apple exploited its dominant position in iOS Apps Store and engaged &quot;in abusive conduct and practices&quot; &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240712/p7#a240712p7)
+ - [Samsung Galaxy Watch 7 vs Watch Ultra: What’s the difference and which should you buy?](https://www.androidauthority.com/samsung-galaxy-watch-7-vs-watch-ultra-3459963/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
