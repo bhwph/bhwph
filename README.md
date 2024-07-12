@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)
- - 😝 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
- - 👉 [Hummmmmmmm](http://9gag.com/gag/an7NDjo)<!-- MEMES:END -->
+ - 6️⃣ [First Female To Have Male Hands](http://9gag.com/gag/aqy5YvY)
+ - 😝 [Diversity goes brrr](http://9gag.com/gag/aYQed3w)
+ - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
 
 --- 
 
