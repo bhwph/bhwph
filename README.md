@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some devs remain optimistic as Apple seeks a &quot;killer app&quot; for Vision Pro; Appfigures: the number of new Vision Pro apps has fallen since January and February &lpar;Financial Times&rpar;](http://www.techmeme.com/240712/p2#a240712p2)
- - [Samsung’s older watches are one step closer to running stable Wear OS 5](https://www.androidauthority.com/galaxy-watch-one-ui-6-watch-beta-update-3460145/)
- - [Chatting with foreigners on WhatsApp could soon get a lot easier](https://www.androidauthority.com/whatsapp-soon-google-live-translate-3460129/)<!-- TECH:END -->
+ - [Preliminary findings: the EU says X&#39;s paid blue checkmark deceives users and breaches the DSA; X faces a fine of up to 6% of its global revenue if found guilty &lpar;Financial Times&rpar;](http://www.techmeme.com/240712/p4#a240712p4)
+ - [The Galaxy Buds 3 Pro’s voice commands are a prankster’s paradise](https://www.androidauthority.com/galaxy-buds-3-pro-voice-commands-3460172/)
+ - [Amazon Will Brick Its $2,350 Astro Robots Just 10 Months After Release](https://www.wired.com/story/amazon-astro-robot-brick/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
