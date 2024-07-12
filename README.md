@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alienware Pro Wireless Gaming Keyboard review](https://www.pcgamer.com/hardware/gaming-keyboards/alienware-pro-wireless-gaming-keyboard-review)
- - [How to get free Solar Fusion Energy and Lunar Fusion Energy with codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24195548/solar-fusion-energy-lunar-fusion-how-to-get)
- - [Today&#39;s Wordle answer for Friday, July 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-12-2024)<!-- GAME:END -->
+ - [The Outlast Trials&#39; new major update has given a deranged killer a shotgun because all the melee opponents weren&#39;t hard enough](https://www.pcgamer.com/games/horror/the-outlast-trials-new-major-update-has-given-a-deranged-killer-a-shotgun-because-all-the-melee-opponents-werent-hard-enough)
+ - [You can pick up the best Star Wars RPG ever made on the most forgettable launcher ever made for free if you&#39;re a Prime Gaming sub](https://www.pcgamer.com/games/rpg/you-can-pick-up-the-best-star-wars-rpg-ever-made-on-the-most-forgettable-launcher-ever-made-for-free-if-youre-a-prime-gaming-sub-right-now)
+ - [World of Warcraft: The War Within&#39;s pre-patch is coming soon—alongside Warbands, a quality-of-life game changer that lets you share rep, gear, and currencies across your alts](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-the-war-within-s-pre-patch-is-coming-soon-alongside-warbands-a-quality-of-life-game-changer-that-lets-you-share-rep-gear-and-currencies-across-your-alts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
