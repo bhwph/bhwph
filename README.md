@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Taking matters into her own hands: How a fan became a dev and went on a quest for missing EverQuest 2 furniture](https://www.pcgamer.com/games/mmo/everquest-2-unobtainable-list-furniture-crafting)
- - [Sausage Party’s sequel makes a strong case that Seth Rogen needs more boundaries](https://www.polygon.com/24196793/sausage-party-seth-rogen-review-amazon-prime-video)
- - [Space Marine 2 pulls its visual inspiration straight from the tabletop](https://www.polygon.com/24196453/space-marine-2-tabletop-visuals-interview-customization)<!-- GAME:END -->
+ - [Final Fantasy 14’s Post-Endwalker Story Feels Like A Mini-Expansion In The Best Way](https://kotaku.com/final-fantasy-14-endwalker-patch-quest-zero-dawntrail-1851590504)
+ - [Every Marvel movie and TV release set for 2024 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)
+ - [These existential robots are the best thing in Times &amp; Galaxy](https://www.polygon.com/gaming/24197377/times-galaxy-game-existential-robots)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
