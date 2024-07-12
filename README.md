@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You heard that little bud?](http://9gag.com/gag/aE07E4p)
- - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
- - 👉 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)<!-- MEMES:END -->
+ - 6️⃣ [And they lost their job](http://9gag.com/gag/a9y7VMW)
+ - 😝 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
+ - 👉 [You heard that little bud?](http://9gag.com/gag/aE07E4p)<!-- MEMES:END -->
 
 --- 
 
