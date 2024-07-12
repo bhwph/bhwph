@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
- - [Meta says it will soon roll back restrictions on Donald Trump&#39;s Instagram and Facebook accounts to ensure parity among candidates ahead of the 2024 election &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240712/p22#a240712p22)
- - [Sources: the US DOJ plans to sue RealPage by the end of the summer, accusing the company of selling software that allows landlords to collude on setting rents &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240712/p21#a240712p21)<!-- TECH:END -->
+ - [Google is shutting down a browser you probably didn’t know existed](https://www.androidauthority.com/google-browser-shutdown-3460392/)
+ - [Snowflake confirms that the data breach at AT&amp;T is connected to the hack that has affected other customers, including Ticketmaster and LendingTree &lpar;Bloomberg&rpar;](http://www.techmeme.com/240712/p25#a240712p25)
+ - [Is the Samsung Galaxy Ring waterproof?](https://www.androidauthority.com/is-samsung-galaxy-ring-waterproof-3459635/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
