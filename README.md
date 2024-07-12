@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus ROG Zephyrus G16 Review: A Top Gaming Laptop for Creators Too](https://www.cnet.com/tech/computing/asus-rog-zephyrus-g16-review-a-top-gaming-laptop-for-creators-too/#ftag=CAD590a51e)
- - [Asia-based startups raised only $14.6B in Q2 2024, down 24% from Q1 and 32% YoY, with only 1,511 funding deals announced in Q2, down 15% from Q1 and 27% YoY &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/240712/p1#a240712p1)
- - [Nintendo’s Zelda-themed ‘Hyrule Edition’ Switch Lite is finally up for preorder](https://www.theverge.com/24190886/nintendo-switch-lite-hyrule-edition-preorder-price-release-date-zelda)<!-- TECH:END -->
+ - [Some devs remain optimistic as Apple seeks a &quot;killer app&quot; for Vision Pro; Appfigures: the number of new Vision Pro apps has fallen since January and February &lpar;Financial Times&rpar;](http://www.techmeme.com/240712/p2#a240712p2)
+ - [Samsung’s older watches are one step closer to running stable Wear OS 5](https://www.androidauthority.com/galaxy-watch-one-ui-6-watch-beta-update-3460145/)
+ - [Chatting with foreigners on WhatsApp could soon get a lot easier](https://www.androidauthority.com/whatsapp-soon-google-live-translate-3460129/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
