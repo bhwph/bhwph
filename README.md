@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Listen fat ass!](http://9gag.com/gag/aVvPBPP)
- - 😝 [When Your World Fall&#39;s Apart](http://9gag.com/gag/aD2oOYK)
- - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
+ - 6️⃣ [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
+ - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
+ - 👉 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)<!-- MEMES:END -->
 
 --- 
 
