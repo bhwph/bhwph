@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No nonsense, girl](http://9gag.com/gag/a7o7nm2)
- - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
- - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
+ - 6️⃣ [You heard that little bud?](http://9gag.com/gag/aE07E4p)
+ - 😝 [That smile](http://9gag.com/gag/amo9p46)
+ - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
 
 --- 
 
