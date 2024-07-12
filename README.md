@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s guide to Amazon Prime Day 2024](https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024)
- - [The best early Prime Day deals on Amazon devices](https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024)
- - [Apple Pay is convenient and brings out the worst in me](https://www.theverge.com/2024/7/12/24197272/apple-pay-convenience-frictionless-lost-wallet)<!-- TECH:END -->
+ - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
+ - [Meta says it will soon roll back restrictions on Donald Trump&#39;s Instagram and Facebook accounts to ensure parity among candidates ahead of the 2024 election &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240712/p22#a240712p22)
+ - [Sources: the US DOJ plans to sue RealPage by the end of the summer, accusing the company of selling software that allows landlords to collude on setting rents &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240712/p21#a240712p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
