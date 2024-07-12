@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for July 15 to 19](https://news.xbox.com/en-us/2024/07/12/next-week-on-xbox-new-games-for-july-15-to-19/)
- - [Win a Steam Deck from Polygon!](https://www.polygon.com/24188193/steamdeck-sweepstakes-newsletter-entry-details)
- - [Apex Legends league looking to ‘resolve’ gaffe that awarded more than $100,000 prize money incorrectly](https://www.polygon.com/24196854/apex-legends-global-series-agls-pro-league-wrong-prize-payment)<!-- GAME:END -->
+ - [Microsoft&#39;s latest speech generator is so good they&#39;re scared to release it to the public](https://www.pcgamer.com/software/ai/microsofts-latest-speech-generator-is-so-good-theyre-scared-to-release-it-to-the-public)
+ - [Harness The Power Of Lightning With This Electrifying Shadow Of The Erdtree Build](https://kotaku.com/elden-ring-shadow-erdtree-lightning-perfumer-build-1851589470)
+ - [How the Descendants franchise became the biggest thing in Disney villainy](https://www.polygon.com/24196575/descendants-rise-red-explainer-disney-villains)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
