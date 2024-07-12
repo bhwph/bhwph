@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft&#39;s latest speech generator is so good they&#39;re scared to release it to the public](https://www.pcgamer.com/software/ai/microsofts-latest-speech-generator-is-so-good-theyre-scared-to-release-it-to-the-public)
- - [Harness The Power Of Lightning With This Electrifying Shadow Of The Erdtree Build](https://kotaku.com/elden-ring-shadow-erdtree-lightning-perfumer-build-1851589470)
- - [How the Descendants franchise became the biggest thing in Disney villainy](https://www.polygon.com/24196575/descendants-rise-red-explainer-disney-villains)<!-- GAME:END -->
+ - [Taking matters into her own hands: How a fan became a dev and went on a quest for missing EverQuest 2 furniture](https://www.pcgamer.com/games/mmo/everquest-2-unobtainable-list-furniture-crafting)
+ - [Sausage Party’s sequel makes a strong case that Seth Rogen needs more boundaries](https://www.polygon.com/24196793/sausage-party-seth-rogen-review-amazon-prime-video)
+ - [Space Marine 2 pulls its visual inspiration straight from the tabletop](https://www.polygon.com/24196453/space-marine-2-tabletop-visuals-interview-customization)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
