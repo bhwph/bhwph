@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing announces CMF Phone 1 update coming after ‘see-through’ camera discovery](https://www.androidauthority.com/cmf-phone-1-see-through-camera-3460476/)
- - [Should you buy the Samsung Galaxy Z Fold 6 or wait for the Google Pixel 9 Pro Fold?](https://www.androidauthority.com/samsung-galaxy-z-fold-6-vs-google-pixel-9-pro-fold-3459364/)
- - [Save $50 on a Ninja Creami With This Early Amazon Prime Day Deal](https://www.cnet.com/deals/ninja-creami-ice-cream-maker-for-50-off-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Is Apple finally serious about gaming after its latest push?](https://appleinsider.com/articles/24/07/13/apple-wants-you-to-believe-its-serious-about-gaming-for-real-this-time?utm_medium=rss)
+ - [Power Up and Save Ahead of Prime Day: Get 2 Anker USB-C Chargers for Only $13](https://www.cnet.com/deals/prime-day-anker-usb-c-two-pack-13-dollar-deal/#ftag=CAD590a51e)
+ - [Early Prime Day Sales Bring Amazon Echo Devices to All-Time-Low of $18](https://www.cnet.com/deals/early-prime-day-sales-reduce-amazon-echo-devices-to-as-low-as-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
