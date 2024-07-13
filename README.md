@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at challenges indie video game devs face, as they struggle to survive due to lack of funding and studio closures, leading to talent loss in the industry &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/240712/p28#a240712p28)
- - [Amazon Prime Day Live Blog: Secure Deep Discounts With the Best Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
- - [Boost Prime Day Savings with These Smart Amazon Shopping Tips](https://www.cnet.com/pictures/boost-prime-day-savings-with-these-smart-amazon-shopping-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Day Live Blog: Shop the Best Deals We&#39;ve Found So Far On TVs, Laptops and More](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
+ - [Here&#39;s How to Get an Instant $200 Amazon Gift Card for Prime Day](https://www.cnet.com/personal-finance/heres-how-to-get-an-instant-200-dollar-amazon-gift-card-for-prime-day/#ftag=CAD590a51e)
+ - [Best Electric Toothbrushes of 2024](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
