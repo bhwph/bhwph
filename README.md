@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Find My&#39; feature helps diver recover lost Apple Watch nearly two years later](https://appleinsider.com/articles/24/07/13/find-my-feature-helps-diver-recover-lost-apple-watch-nearly-two-years-later?utm_medium=rss)
- - [Amazon Prime Day Live Blog: Shop Top Deals We&#39;ve Spotted So Far on TVs, Laptops, Kitchen Gadgets and More](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-13/#ftag=CAD590a51e)
- - [Walmart Anti-Prime Day Deals Offer Savings on Tech, Home Goods and More](https://www.cnet.com/deals/best-walmart-anti-prime-day-deals-2024-07-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nothing announces CMF Phone 1 update coming after ‘see-through’ camera discovery](https://www.androidauthority.com/cmf-phone-1-see-through-camera-3460476/)
+ - [Should you buy the Samsung Galaxy Z Fold 6 or wait for the Google Pixel 9 Pro Fold?](https://www.androidauthority.com/samsung-galaxy-z-fold-6-vs-google-pixel-9-pro-fold-3459364/)
+ - [Save $50 on a Ninja Creami With This Early Amazon Prime Day Deal](https://www.cnet.com/deals/ninja-creami-ice-cream-maker-for-50-off-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
