@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Necrozma counters, weakness in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24196455/necrozma-raid-counters-weakness-dusk-mane-dawn-wing)
  - [Pokémon Go Fest 2024 start time, habitat spawn schedule, and ticket bonuses](https://www.polygon.com/24196517/fest-2024-global-habitat-schedule-ticket-perks)
- - [Pokémon Go ‘A Shadowy Caper’ Marshadow Special Research tasks](https://www.polygon.com/pokemon-go-guide/24196544/marshadow-special-research-a-shadowy-caper)
- - [Today&#39;s Wordle answer for Saturday, July 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-13-2024)<!-- GAME:END -->
+ - [Pokémon Go ‘A Shadowy Caper’ Marshadow Special Research quest](https://www.polygon.com/pokemon-go-guide/24196544/marshadow-special-research-a-shadowy-caper)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
