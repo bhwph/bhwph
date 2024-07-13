@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is he right?](http://9gag.com/gag/a9y74mZ)
- - 😝 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)
- - 👉 [Supporter breaks corner post on goalkeeper&#39;s back.](http://9gag.com/gag/a2vmx6E)<!-- MEMES:END -->
+ - 6️⃣ [Muslim man in London parks car on sidewalk and gets fined then cries about racism and Islamophobia](http://9gag.com/gag/ajPAGEQ)
+ - 😝 [Now this is it.](http://9gag.com/gag/aW46epq)
+ - 👉 [Magic!!](http://9gag.com/gag/amo9OG2)<!-- MEMES:END -->
 
 --- 
 
