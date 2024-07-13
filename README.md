@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Zip Tied](http://9gag.com/gag/aO8VA4D)
- - 😝 [Supporter breaks corner post on goalkeeper&#39;s back.](http://9gag.com/gag/a2vmx6E)
- - 👉 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)<!-- MEMES:END -->
+ - 6️⃣ [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)
+ - 😝 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
+ - 👉 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)<!-- MEMES:END -->
 
 --- 
 
