@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now this is it.](http://9gag.com/gag/aW46epq)
- - 😝 [I\u00b4ll take it from here](http://9gag.com/gag/adBjWRM)
- - 👉 [Men in love...](http://9gag.com/gag/ae9GEM5)<!-- MEMES:END -->
+ - 6️⃣ [Zip Tied](http://9gag.com/gag/aO8VA4D)
+ - 😝 [Supporter breaks corner post on goalkeeper&#39;s back.](http://9gag.com/gag/a2vmx6E)
+ - 👉 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)<!-- MEMES:END -->
 
 --- 
 
