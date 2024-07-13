@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Muslim man in London parks car on sidewalk and gets fined then cries about racism and Islamophobia](http://9gag.com/gag/ajPAGEQ)
- - 😝 [Now this is it.](http://9gag.com/gag/aW46epq)
- - 👉 [Magic!!](http://9gag.com/gag/amo9OG2)<!-- MEMES:END -->
+ - 6️⃣ [Now this is it.](http://9gag.com/gag/aW46epq)
+ - 😝 [I\u00b4ll take it from here](http://9gag.com/gag/adBjWRM)
+ - 👉 [Men in love...](http://9gag.com/gag/ae9GEM5)<!-- MEMES:END -->
 
 --- 
 
