@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An experiment where writers had access to GPT-4 for short story ideas finds it boosted creativity for some but reduced the collective diversity of novel content &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240712/p27#a240712p27)
- - [The Amazon Smart Plug is 48% off right now, at just $13!](https://www.androidauthority.com/amazon-smart-plug-deal-3460403/)
- - [Top Prime Day Monitor Deals: Huge Savings on Acer, Samsung, Dell, and More](https://www.cnet.com/deals/best-prime-day-monitor-deals-2024-07-12/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at challenges indie video game devs face, as they struggle to survive due to lack of funding and studio closures, leading to talent loss in the industry &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/240712/p28#a240712p28)
+ - [Amazon Prime Day Live Blog: Secure Deep Discounts With the Best Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
+ - [Boost Prime Day Savings with These Smart Amazon Shopping Tips](https://www.cnet.com/pictures/boost-prime-day-savings-with-these-smart-amazon-shopping-tips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
