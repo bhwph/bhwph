@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day Live Blog: Shop the Best Deals We&#39;ve Found So Far On TVs, Laptops and More](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
- - [Here&#39;s How to Get an Instant $200 Amazon Gift Card for Prime Day](https://www.cnet.com/personal-finance/heres-how-to-get-an-instant-200-dollar-amazon-gift-card-for-prime-day/#ftag=CAD590a51e)
- - [Best Electric Toothbrushes of 2024](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tether-backed Northern Data expects sales of &amp;euro;200M-&amp;euro;240M in 2024, up from &amp;euro;77.5M in 2023, on AI demand, as it disputes allegations of misrepresenting finances &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/240713/p6#a240713p6)
+ - [Sources: X-Epic, a Chinese EDA software maker for designing chips that had raised $121.7M as of March 2023, is laying off up to 50% staff amid market headwinds &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/240713/p5#a240713p5)
+ - [A profile of Shein&#39;s executive chair Donald Tang, who has become the public face of the company as he leads its expansion overseas and prepares for a London IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/240713/p4#a240713p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
