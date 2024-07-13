@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u201cIt was as if these stark, nightmare spires marked the pylons of a frightful gateway into forbidden spheres of dream, and complex gulfs of remote time, space, and ultra-dimensionality\u201d \u2015 H.P. Lovecraft](http://9gag.com/gag/aO8VNN2)
- - 😝 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
- - 👉 [Girl got in man&#39;s car and refused to leave](http://9gag.com/gag/a4PYB1m)<!-- MEMES:END -->
+ - 6️⃣ [The worst she could say is no. &#39;Yeah&#39;](http://9gag.com/gag/aMVG01A)
+ - 😝 [Magic!!](http://9gag.com/gag/amo9OG2)
+ - 👉 [There&#39;s nothing you can do. Leave guys](http://9gag.com/gag/aW46NNq)<!-- MEMES:END -->
 
 --- 
 
