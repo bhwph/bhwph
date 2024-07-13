@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about OD, Hideo Kojima’s Xbox horror game](https://www.polygon.com/gaming/24197091/od-hideo-kojima-release-date-trailer-gameplay)
- - [There is an objectively correct amount of Minions, and this is not it](https://www.polygon.com/24197471/despicable-me-4-minions-too-many)
- - [A Free Game, More Elden Ring: Shadow Of The Erdtree Help, And This Week&#39;s Other Tips](https://kotaku.com/a-free-game-more-elden-ring-shadow-of-the-erdtree-hel-1851590034)<!-- GAME:END -->
+ - [It&#39;s rare for a pixel art throwback to really wow me these days, but a hybrid action-JRPG where you collect magical octopus friends to cast spells might just fit the bill](https://www.pcgamer.com/games/rpg/its-rare-for-a-pixel-art-throwback-to-really-wow-me-these-days-but-a-hybrid-action-jrpg-where-you-collect-magical-octopus-friends-to-cast-spells-might-just-fit-the-bill)
+ - [What time does EA Sports College Football 25 release?](https://www.polygon.com/guides/24195978/college-football-ea-sports-release-time-date-early-access)
+ - [Everything we know about OD, Hideo Kojima’s Xbox horror game](https://www.polygon.com/gaming/24197091/od-hideo-kojima-release-date-trailer-gameplay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
