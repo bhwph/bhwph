@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is shutting down a browser you probably didn’t know existed](https://www.androidauthority.com/google-browser-shutdown-3460392/)
- - [Snowflake confirms that the data breach at AT&amp;T is connected to the hack that has affected other customers, including Ticketmaster and LendingTree &lpar;Bloomberg&rpar;](http://www.techmeme.com/240712/p25#a240712p25)
- - [Is the Samsung Galaxy Ring waterproof?](https://www.androidauthority.com/is-samsung-galaxy-ring-waterproof-3459635/)<!-- TECH:END -->
+ - [An experiment where writers had access to GPT-4 for short story ideas finds it boosted creativity for some but reduced the collective diversity of novel content &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240712/p27#a240712p27)
+ - [The Amazon Smart Plug is 48% off right now, at just $13!](https://www.androidauthority.com/amazon-smart-plug-deal-3460403/)
+ - [Top Prime Day Monitor Deals: Huge Savings on Acer, Samsung, Dell, and More](https://www.cnet.com/deals/best-prime-day-monitor-deals-2024-07-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
