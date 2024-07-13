@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Engwe P20 folding e-bike review: how forgiving are you?](https://www.theverge.com/24194819/engwe-p20-folding-e-bike-review-price-range-features)
- - [A look at the rise and fall of Jump Crypto and former President Kanav Kariya, and Jump&#39;s involvement in some of crypto&#39;s biggest scandals, like FTX&#39;s collapse &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240713/p7#a240713p7)
- - [Tether-backed Northern Data expects sales of &amp;euro;200M-&amp;euro;240M in 2024, up from &amp;euro;77.5M in 2023, on AI demand, as it disputes allegations of misrepresenting finances &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/240713/p6#a240713p6)<!-- TECH:END -->
+ - [Prime Day Steals Under $10: 23 Unbeatable Bargains at Rock-Bottom Prices](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-07-13/#ftag=CAD590a51e)
+ - [Amazon Prime Day Live Blog: Shop the Best Deals We&#39;ve Found So Far On TVs, Laptops and More](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
+ - [Prime Day Deals Under $100: Sweet Savings on Kitchen Essentials, Tech and More at Amazon](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-07-13/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
