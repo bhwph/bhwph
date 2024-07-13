@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Bungie lead counsel explains how the studio nailed one of Destiny 2&#39;s most infamous leakers](https://www.pcgamer.com/gaming-industry/former-bungie-lead-counsel-explains-how-the-studio-nailed-one-of-destiny-2s-most-infamous-leakers)
- - [Prepare to hear opinions: Concord&#39;s first beta is live now](https://www.pcgamer.com/games/fps/prepare-to-hear-opinions-concords-first-beta-is-live-now)
- - [Metroid Prime 4: Beyond artist opens up about redesigning Samus’ HUD](https://www.polygon.com/gaming/24197414/metroid-prime-4-beyond-samus-aran-visor-hud-view-redesign)<!-- GAME:END -->
+ - [Concord&#39;s persistent deployables have players building makeshift forts out of healing pads, shields, and walls](https://www.pcgamer.com/games/fps/concords-persistent-deployables-have-players-building-makeshift-forts-out-of-healing-pads-shields-and-walls)
+ - [Pokémon Go Fest 2024: Global habitat schedule and event perks](https://www.polygon.com/24196517/fest-2024-global-habitat-schedule-ticket-perks)
+ - [Necrozma raid counters in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24196455/necrozma-raid-counters-weakness-dusk-mane-dawn-wing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
