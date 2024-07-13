@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, July 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-13-2024)
- - [Concord&#39;s persistent deployables have players building makeshift forts out of healing pads, shields, and walls](https://www.pcgamer.com/games/fps/concords-persistent-deployables-have-players-building-makeshift-forts-out-of-healing-pads-shields-and-walls)
- - [Pokémon Go Fest 2024: Global habitat schedule and event perks](https://www.polygon.com/24196517/fest-2024-global-habitat-schedule-ticket-perks)<!-- GAME:END -->
+ - [Pokémon Go Fest 2024 start time, habitat spawn schedule, and ticket bonuses](https://www.polygon.com/24196517/fest-2024-global-habitat-schedule-ticket-perks)
+ - [Pokémon Go ‘A Shadowy Caper’ Marshadow Special Research tasks](https://www.polygon.com/pokemon-go-guide/24196544/marshadow-special-research-a-shadowy-caper)
+ - [Today&#39;s Wordle answer for Saturday, July 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-13-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
