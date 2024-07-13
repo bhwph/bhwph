@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women](http://9gag.com/gag/aAy1N30)
- - 😝 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
- - 👉 [11 Things People Learn Too Late in Life](http://9gag.com/gag/aNDn8qG)<!-- MEMES:END -->
+ - 6️⃣ [You heard that little bud?](http://9gag.com/gag/aE07E4p)
+ - 😝 [Disappointed parent](http://9gag.com/gag/a87MXXO)
+ - 👉 [Breaking hearts quicker than Boeing breaks parts.](http://9gag.com/gag/a2vmAMO)<!-- MEMES:END -->
 
 --- 
 
