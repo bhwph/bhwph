@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day Steals Under $10: 23 Unbeatable Bargains at Rock-Bottom Prices](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-07-13/#ftag=CAD590a51e)
- - [Amazon Prime Day Live Blog: Shop the Best Deals We&#39;ve Found So Far On TVs, Laptops and More](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
- - [Prime Day Deals Under $100: Sweet Savings on Kitchen Essentials, Tech and More at Amazon](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-07-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s how much Valve pays its staff — and how few people it employs](https://www.theverge.com/2024/7/13/24197477/valve-employs-few-hundred-people-payroll-redacted)
+ - [Poll result: Pixel 9 hardware has charmed you, but Google AI’s a harder sell](https://www.androidauthority.com/pixel-9-poll-results-3460298/)
+ - [The making of Eno, the first generative feature film](https://www.theverge.com/24197153/eno-documentary-generative-film-gary-hustwit-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
