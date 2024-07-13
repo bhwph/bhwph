@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is he right?](http://9gag.com/gag/a9y74mZ)
- - 😝 [Terrible crime](http://9gag.com/gag/an7N35z)
- - 👉 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)<!-- MEMES:END -->
+ - 6️⃣ [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)
+ - 😝 [Member when we memed that companies would start doing that sh*t?](http://9gag.com/gag/aD2oPy7)
+ - 👉 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)<!-- MEMES:END -->
 
 --- 
 
