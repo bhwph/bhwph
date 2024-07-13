@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact’s Natlan trailer has fans divided](https://www.polygon.com/gaming/24197155/genshin-impact-natlan-trailer-fan-reaction)
- - [The best thrillers to watch on Netflix this July](https://www.polygon.com/what-to-watch/2024/7/13/24195230/best-thriller-movies-netflix-watch-july-2024)
- - [Game Pass Gets Pricier, Nintendo Teases A Horror Game, And More News For The Week](https://kotaku.com/game-pass-price-increase-dr-disrespect-1851590033)<!-- GAME:END -->
+ - [Everything we know about OD, Hideo Kojima’s Xbox horror game](https://www.polygon.com/gaming/24197091/od-hideo-kojima-release-date-trailer-gameplay)
+ - [There is an objectively correct amount of Minions, and this is not it](https://www.polygon.com/24197471/despicable-me-4-minions-too-many)
+ - [A Free Game, More Elden Ring: Shadow Of The Erdtree Help, And This Week&#39;s Other Tips](https://kotaku.com/a-free-game-more-elden-ring-shadow-of-the-erdtree-hel-1851590034)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
