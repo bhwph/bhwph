@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flattery or all out of ideas? Samsung borrows from Apple, Oura, and Nothing](https://www.androidauthority.com/samsung-unpacked-2024-copy-rivals-3459694/)
- - [The Best Hearing Aids for Seniors &lpar;2024&rpar;](https://www.wired.com/gallery/best-hearing-aids-for-seniors/)
- - [Fantasmas’ vision of the future is a dystopian dreamland](https://www.theverge.com/24195902/fantasmas-hbo-max-dystopia)<!-- TECH:END -->
+ - [&#39;Find My&#39; feature helps diver recover lost Apple Watch nearly two years later](https://appleinsider.com/articles/24/07/13/find-my-feature-helps-diver-recover-lost-apple-watch-nearly-two-years-later?utm_medium=rss)
+ - [Amazon Prime Day Live Blog: Shop Top Deals We&#39;ve Spotted So Far on TVs, Laptops, Kitchen Gadgets and More](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-13/#ftag=CAD590a51e)
+ - [Walmart Anti-Prime Day Deals Offer Savings on Tech, Home Goods and More](https://www.cnet.com/deals/best-walmart-anti-prime-day-deals-2024-07-13/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
