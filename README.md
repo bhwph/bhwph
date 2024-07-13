@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The worst she could say is no. &#39;Yeah&#39;](http://9gag.com/gag/aMVG01A)
- - 😝 [Magic!!](http://9gag.com/gag/amo9OG2)
- - 👉 [There&#39;s nothing you can do. Leave guys](http://9gag.com/gag/aW46NNq)<!-- MEMES:END -->
+ - 6️⃣ [Women](http://9gag.com/gag/aAy1N30)
+ - 😝 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
+ - 👉 [11 Things People Learn Too Late in Life](http://9gag.com/gag/aNDn8qG)<!-- MEMES:END -->
 
 --- 
 
