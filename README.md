@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, July 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-13-2024)
  - [Concord&#39;s persistent deployables have players building makeshift forts out of healing pads, shields, and walls](https://www.pcgamer.com/games/fps/concords-persistent-deployables-have-players-building-makeshift-forts-out-of-healing-pads-shields-and-walls)
- - [Pokémon Go Fest 2024: Global habitat schedule and event perks](https://www.polygon.com/24196517/fest-2024-global-habitat-schedule-ticket-perks)
- - [Necrozma raid counters in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24196455/necrozma-raid-counters-weakness-dusk-mane-dawn-wing)<!-- GAME:END -->
+ - [Pokémon Go Fest 2024: Global habitat schedule and event perks](https://www.polygon.com/24196517/fest-2024-global-habitat-schedule-ticket-perks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
