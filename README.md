@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You heard that little bud?](http://9gag.com/gag/aE07E4p)
- - 😝 [Disappointed parent](http://9gag.com/gag/a87MXXO)
- - 👉 [Breaking hearts quicker than Boeing breaks parts.](http://9gag.com/gag/a2vmAMO)<!-- MEMES:END -->
+ - 6️⃣ [Is he right?](http://9gag.com/gag/a9y74mZ)
+ - 😝 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)
+ - 👉 [Supporter breaks corner post on goalkeeper&#39;s back.](http://9gag.com/gag/a2vmx6E)<!-- MEMES:END -->
 
 --- 
 
