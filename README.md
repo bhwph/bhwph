@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)
- - 😝 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
- - 👉 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)<!-- MEMES:END -->
+ - 6️⃣ [Is he right?](http://9gag.com/gag/a9y74mZ)
+ - 😝 [Terrible crime](http://9gag.com/gag/an7N35z)
+ - 👉 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)<!-- MEMES:END -->
 
 --- 
 
