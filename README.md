@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how much Valve pays its staff — and how few people it employs](https://www.theverge.com/2024/7/13/24197477/valve-employs-few-hundred-people-payroll-redacted)
- - [Poll result: Pixel 9 hardware has charmed you, but Google AI’s a harder sell](https://www.androidauthority.com/pixel-9-poll-results-3460298/)
- - [The making of Eno, the first generative feature film](https://www.theverge.com/24197153/eno-documentary-generative-film-gary-hustwit-interview)<!-- TECH:END -->
+ - [Flattery or all out of ideas? Samsung borrows from Apple, Oura, and Nothing](https://www.androidauthority.com/samsung-unpacked-2024-copy-rivals-3459694/)
+ - [The Best Hearing Aids for Seniors &lpar;2024&rpar;](https://www.wired.com/gallery/best-hearing-aids-for-seniors/)
+ - [Fantasmas’ vision of the future is a dystopian dreamland](https://www.theverge.com/24195902/fantasmas-hbo-max-dystopia)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
