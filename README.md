@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This guy surprises his blind girlfriend with a braille marriage proposal](http://9gag.com/gag/awyxP18)
- - 😝 [Whoever did this just WON Trump the election](http://9gag.com/gag/a6Z7682)
- - 👉 [I go to Japan](http://9gag.com/gag/aYQeZbw)<!-- MEMES:END -->
+ - 6️⃣ [Free Rent](http://9gag.com/gag/aO8VOdD)
+ - 😝 [How twats start fights](http://9gag.com/gag/aD2o9Gw)
+ - 👉 [This guy surprises his blind girlfriend with a braille marriage proposal](http://9gag.com/gag/awyxP18)<!-- MEMES:END -->
 
 --- 
 
