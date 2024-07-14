@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Buckle up! The meme world is about to go on a wild ride for the next four years!](http://9gag.com/gag/aW46ARA)
- - 😝 [Free Rent](http://9gag.com/gag/aO8VOdD)
- - 👉 [Terrible crime](http://9gag.com/gag/an7N35z)<!-- MEMES:END -->
+ - 6️⃣ [Terrible crime](http://9gag.com/gag/an7N35z)
+ - 😝 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
+ - 👉 [First world stupidity](http://9gag.com/gag/aGyxqr5)<!-- MEMES:END -->
 
 --- 
 
