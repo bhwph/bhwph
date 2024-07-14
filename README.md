@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Messaging and VoIP apps will soon land on cars running Android Automotive](https://www.androidauthority.com/android-automotive-messaging-voip-apps-3460462/)
- - [Inside the AI memory machine](https://www.theverge.com/2024/7/14/24197107/ai-memory-recall-limitless-gemini-vergecast)
- - [The Best Amazon Prime Day Picks Under $10: Nifty Savings on Tech, Essentials, Gifts and More](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple hasn’t made a foldable yet because there’s still no good reason to buy one](https://www.androidauthority.com/galaxy-z-flip-6-flop-3459437/)
+ - [Here&#39;s How Much an Oven Heats Up My Kitchen Versus an Air Fryer](https://www.cnet.com/news/during-extreme-heat-i-ditch-the-grill-in-favor-of-this-cooking-tool/#ftag=CAD590a51e)
+ - [Keychron B6 and B1 Keyboard Review: Elegant and Inexpensive](https://www.wired.com/review/keychron-b1-pro-and-b6-pro/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
