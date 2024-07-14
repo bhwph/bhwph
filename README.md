@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Influencers Are Racing to Profit From the Trump Shooting](https://www.wired.com/story/trump-shooting-influencer-merchandise/)
- - [Complaints about crashing 13th, 14th Gen Intel CPUs now have data to back them up](https://www.theverge.com/2024/7/14/24198299/intel-13th-14th-gen-i9-cpu-crashes-telemetry-alderon-games-warframe)
- - [X&#39;s trending topics surfaced conspiracy theories around Donald Trump&#39;s assassination attempt; YouTube and Facebook primarily directed users to news outlets &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/240714/p7#a240714p7)<!-- TECH:END -->
+ - [Secure Your Home With the Ring Alarm 14-Piece Kit at 39% Off Pre-Prime Day](https://www.cnet.com/deals/secure-your-home-with-the-ring-alarm-14-piece-kit-at-39-off-pre-prime-day/#ftag=CAD590a51e)
+ - [AT&amp;T reportedly gave $370,000 to a hacker to delete its stolen customer data](https://www.theverge.com/2024/7/14/24198294/att-paid-370000-ransom-hacked-customer-data-deleted-may)
+ - [Best Internet Providers in Providence, Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-providence-ri/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
