@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Polymarket, a crypto-based prediction market with a focus on elections that has raised $70M+ and traded $350M+ in predictions on the US election &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/240714/p2#a240714p2)
- - [Intel has been facing mounting pressure to fix Raptor Lake CPU stability issues since February 2024; a game studio accuses Intel of selling &quot;defective&quot; CPUs &lpar;Matthew Connatser/The Register&rpar;](http://www.techmeme.com/240714/p1#a240714p1)
- - [Garmin Forerunner 275 wishlist: All the features I want to see](https://www.androidauthority.com/garmin-forerunner-275-3460468/)<!-- TECH:END -->
+ - [In their first-ever interview, Shiba Inu leaders Shytoshi Kusama and Kaal Dhairya discuss remaining anonymous, Elon Musk, SHIB&#39;s origins, future plans, and more &lpar;Anil Bhoyrul/Arabian Business&rpar;](http://www.techmeme.com/240714/p3#a240714p3)
+ - [Google is bringing Ultra HDR capture support to more third-party apps](https://www.androidauthority.com/android-ultra-hdr-camera-apps-3460456/)
+ - [Prime Day Laptop Deals: Big Savings From Apple, Lenovo and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
