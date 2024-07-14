@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Pad 2 price leak suggests you could be paying more](https://www.androidauthority.com/oneplus-pad-2-price-leak-3460507/)
- - [AT&amp;T Paid a Hacker $370,000 to Delete Stolen Phone Records](https://www.wired.com/story/atandt-paid-hacker-300000-to-delete-stolen-call-records/)
- - [Amazon Prime Live Blog: The Top 133 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Influencers Are Racing to Profit From the Trump Shooting](https://www.wired.com/story/trump-shooting-influencer-merchandise/)
+ - [Complaints about crashing 13th, 14th Gen Intel CPUs now have data to back them up](https://www.theverge.com/2024/7/14/24198299/intel-13th-14th-gen-i9-cpu-crashes-telemetry-alderon-games-warframe)
+ - [X&#39;s trending topics surfaced conspiracy theories around Donald Trump&#39;s assassination attempt; YouTube and Facebook primarily directed users to news outlets &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/240714/p7#a240714p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
