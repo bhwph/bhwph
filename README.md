@@ -120,7 +120,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A definitive ranking of the 100 greatest movie hitmen, by how good they are at their job](https://www.polygon.com/24188117/best-movie-hitmen-ranked)
+ - [How this year’s most exciting video game trailer was made](https://www.polygon.com/24196698/unbeatable-trailer-summer-game-fest-sgf-announcement)
  - [Game Pass Woes, Elden Ring Takes, And More Of This Week&#39;s Spiciest Opinions](https://kotaku.com/game-pass-woes-elden-ring-takes-and-more-of-this-week-1851590035)
  - [Necrozma counters, weakness in Pokémon Go raids](https://www.polygon.com/pokemon-go-guide/24196455/necrozma-raid-counters-weakness-dusk-mane-dawn-wing)<!-- GAME:END -->
 
