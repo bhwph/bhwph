@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you&#39;re friend understand the jokes and back you up](http://9gag.com/gag/agmVeBn)
- - 😝 [Men in love...](http://9gag.com/gag/ae9GEM5)
- - 👉 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)<!-- MEMES:END -->
+ - 6️⃣ [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
+ - 😝 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)
+ - 👉 [Free Rent](http://9gag.com/gag/aO8VOdD)<!-- MEMES:END -->
 
 --- 
 
