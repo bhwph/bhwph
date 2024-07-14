@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A heap of award-winning indie games are currently on sale at Steam](https://www.pcgamer.com/software/platforms/a-heap-of-award-winning-indie-games-are-currently-on-sale-at-steam)
  - [Today&#39;s Wordle answer for Sunday, July 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-14-2024)
- - [We may have lost Piranha Bytes, but at least Eurojank RPG Greedfall 2 is still on the way, announcing early access will begin in September](https://www.pcgamer.com/games/rpg/we-may-have-lost-piranha-bytes-but-at-least-eurojank-rpg-greedfall-2-is-still-on-the-way-announcing-early-access-will-begin-in-september)
- - [Court documents show that not only is Valve a fraction the size of companies like EA or Ubisoft, it&#39;s smaller than a lot of triple-A developers](https://www.pcgamer.com/gaming-industry/court-documents-show-that-not-only-is-valve-a-fraction-the-size-of-companies-like-ea-or-ubisoft-its-smaller-than-a-lot-of-triple-a-developers)<!-- GAME:END -->
+ - [We may have lost Piranha Bytes, but at least Eurojank RPG Greedfall 2 is still on the way, announcing early access will begin in September](https://www.pcgamer.com/games/rpg/we-may-have-lost-piranha-bytes-but-at-least-eurojank-rpg-greedfall-2-is-still-on-the-way-announcing-early-access-will-begin-in-september)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
