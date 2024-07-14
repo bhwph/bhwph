@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A heap of award-winning indie games are currently on sale at Steam](https://www.pcgamer.com/software/platforms/a-heap-of-award-winning-indie-games-are-currently-on-sale-at-steam)
- - [Today&#39;s Wordle answer for Sunday, July 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-14-2024)
- - [We may have lost Piranha Bytes, but at least Eurojank RPG Greedfall 2 is still on the way, announcing early access will begin in September](https://www.pcgamer.com/games/rpg/we-may-have-lost-piranha-bytes-but-at-least-eurojank-rpg-greedfall-2-is-still-on-the-way-announcing-early-access-will-begin-in-september)<!-- GAME:END -->
+ - [Pokémon Go Fest 2024 day 2 habitat spawns and ticket bonuses](https://www.polygon.com/24196517/fest-2024-global-habitat-schedule-ticket-perks)
+ - [Pokémon Go ‘The Dusk Settles’ choose a path quest steps: Solgaleo or Lunala?](https://www.polygon.com/pokemon-go-guide/24197724/the-dust-settles-choose-a-path-quest-steps-solgaleo-lunala)
+ - [Pokémon Go ‘The Dawn of a New Discovery’ Radar Tuning choose a path quest steps: Emolga, Crabrawler, or Ducklett?](https://www.polygon.com/pokemon-go-guide/24198133/fest-2024-dawn-of-a-new-discovery-cosmog-special-research-quest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
