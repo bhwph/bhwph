@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Fest 2024 day 2 habitat spawns and ticket bonuses](https://www.polygon.com/24196517/fest-2024-global-habitat-schedule-ticket-perks)
- - [Pokémon Go ‘The Dusk Settles’ choose a path quest steps: Solgaleo or Lunala?](https://www.polygon.com/pokemon-go-guide/24197724/the-dust-settles-choose-a-path-quest-steps-solgaleo-lunala)
- - [Pokémon Go ‘The Dawn of a New Discovery’ Radar Tuning choose a path quest steps: Emolga, Crabrawler, or Ducklett?](https://www.polygon.com/pokemon-go-guide/24198133/fest-2024-dawn-of-a-new-discovery-cosmog-special-research-quest)<!-- GAME:END -->
+ - [Necrozma counters, weakness in Pokémon Go raids](https://www.polygon.com/pokemon-go-guide/24196455/necrozma-raid-counters-weakness-dusk-mane-dawn-wing)
+ - [How to get Dusk Mane and Dawn Wings Necrozma with Fusion in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24195534/dusk-mane-dawn-wings-necrozma-fusion-sunsteel-strike-moongeist-beam)
+ - [How to get free Solar Fusion Energy and Lunar Fusion Energy with codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24195548/solar-fusion-energy-lunar-fusion-how-to-get)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
