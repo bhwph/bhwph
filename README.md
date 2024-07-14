@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Necrozma counters, weakness in Pokémon Go raids](https://www.polygon.com/pokemon-go-guide/24196455/necrozma-raid-counters-weakness-dusk-mane-dawn-wing)
- - [How to get Dusk Mane and Dawn Wings Necrozma with Fusion in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24195534/dusk-mane-dawn-wings-necrozma-fusion-sunsteel-strike-moongeist-beam)
- - [How to get free Solar Fusion Energy and Lunar Fusion Energy with codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24195548/solar-fusion-energy-lunar-fusion-how-to-get)<!-- GAME:END -->
+ - [A definitive ranking of the 100 greatest movie hitmen, by how good they are at their job](https://www.polygon.com/24188117/best-movie-hitmen-ranked)
+ - [Game Pass Woes, Elden Ring Takes, And More Of This Week&#39;s Spiciest Opinions](https://kotaku.com/game-pass-woes-elden-ring-takes-and-more-of-this-week-1851590035)
+ - [Necrozma counters, weakness in Pokémon Go raids](https://www.polygon.com/pokemon-go-guide/24196455/necrozma-raid-counters-weakness-dusk-mane-dawn-wing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
