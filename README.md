@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How this year’s most exciting video game trailer was made](https://www.polygon.com/24196698/unbeatable-trailer-summer-game-fest-sgf-announcement)
- - [Game Pass Woes, Elden Ring Takes, And More Of This Week&#39;s Spiciest Opinions](https://kotaku.com/game-pass-woes-elden-ring-takes-and-more-of-this-week-1851590035)
- - [Necrozma counters, weakness in Pokémon Go raids](https://www.polygon.com/pokemon-go-guide/24196455/necrozma-raid-counters-weakness-dusk-mane-dawn-wing)<!-- GAME:END -->
+ - [Teamfight Tactics’ next set is a magical showdown with new spells](https://www.polygon.com/24197358/teamfight-tactics-magic-n-mayhem-new-set-spells-augments-charms)
+ - [Elden Ring mod turns the DLC into a Pokémon battle between bosses](https://www.polygon.com/24197346/elden-ring-mod-summon-bosses-as-allies)
+ - [Suspect Behind Trump Assassination Attempt Had A Discord Account But &#39;Rarely&#39; Used It, Company Says](https://kotaku.com/thomas-crooks-discord-trump-rally-shooter-suspect-1851591902)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
