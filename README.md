@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple approves the first PC emulator for iOS, UTM SE, weeks after initially rejecting and barring it from being notarized for third-party app stores in the EU &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240713/p15#a240713p15)
- - [Amazon Prime Day Live Blog: The Top 114 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-13/#ftag=CAD590a51e)
- - [Save $700 on This xTools Laser Engraver Ahead of Amazon Prime Day](https://www.cnet.com/deals/save-700-on-this-xtools-laser-engraver-ahead-of-amazon-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Polymarket, a crypto-based prediction market with a focus on elections that has raised $70M+ and traded $350M+ in predictions on the US election &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/240714/p2#a240714p2)
+ - [Intel has been facing mounting pressure to fix Raptor Lake CPU stability issues since February 2024; a game studio accuses Intel of selling &quot;defective&quot; CPUs &lpar;Matthew Connatser/The Register&rpar;](http://www.techmeme.com/240714/p1#a240714p1)
+ - [Garmin Forerunner 275 wishlist: All the features I want to see](https://www.androidauthority.com/garmin-forerunner-275-3460468/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
