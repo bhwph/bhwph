@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Star Citizen is free this week, if you&#39;d like to try it](https://www.pcgamer.com/games/star-citizen-is-free-this-week-if-youd-like-to-try-it)
  - [How well does XCOM: Enemy Within hold up today?](https://www.pcgamer.com/games/strategy/how-well-does-xcom-enemy-within-hold-up-today)
- - [It&#39;s rare for a pixel art throwback to really wow me these days, but a hybrid action-JRPG where you collect magical octopus friends to cast spells might just fit the bill](https://www.pcgamer.com/games/rpg/its-rare-for-a-pixel-art-throwback-to-really-wow-me-these-days-but-a-hybrid-action-jrpg-where-you-collect-magical-octopus-friends-to-cast-spells-might-just-fit-the-bill)
- - [What time does EA Sports College Football 25 release?](https://www.polygon.com/guides/24195978/college-football-ea-sports-release-time-date-early-access)<!-- GAME:END -->
+ - [It&#39;s rare for a pixel art throwback to really wow me these days, but a hybrid action-JRPG where you collect magical octopus friends to cast spells might just fit the bill](https://www.pcgamer.com/games/rpg/its-rare-for-a-pixel-art-throwback-to-really-wow-me-these-days-but-a-hybrid-action-jrpg-where-you-collect-magical-octopus-friends-to-cast-spells-might-just-fit-the-bill)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
