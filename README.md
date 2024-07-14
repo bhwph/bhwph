@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Free Rent](http://9gag.com/gag/aO8VOdD)
- - 😝 [How twats start fights](http://9gag.com/gag/aD2o9Gw)
- - 👉 [This guy surprises his blind girlfriend with a braille marriage proposal](http://9gag.com/gag/awyxP18)<!-- MEMES:END -->
+ - 6️⃣ [I go to Japan](http://9gag.com/gag/aYQeZbw)
+ - 😝 [Terrible crime](http://9gag.com/gag/an7N35z)
+ - 👉 [Assassination attempt on Donald Trump at rally in Pennsylvania. Trump is bleeding.](http://9gag.com/gag/a5Q73QV)<!-- MEMES:END -->
 
 --- 
 
