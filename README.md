@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In their first-ever interview, Shiba Inu leaders Shytoshi Kusama and Kaal Dhairya discuss remaining anonymous, Elon Musk, SHIB&#39;s origins, future plans, and more &lpar;Anil Bhoyrul/Arabian Business&rpar;](http://www.techmeme.com/240714/p3#a240714p3)
- - [Google is bringing Ultra HDR capture support to more third-party apps](https://www.androidauthority.com/android-ultra-hdr-camera-apps-3460456/)
- - [Prime Day Laptop Deals: Big Savings From Apple, Lenovo and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Properly Archive Your Digital Files](https://www.wired.com/story/how-to-properly-archive-your-digital-files/)
+ - [A supercheap Android phone with looks to spare](https://www.theverge.com/24197282/cmf-phone-1-diggnation-galaxy-ring-installer-newsletter)
+ - [Prime Day Deals Under $50: Nab Bargains on Home Tech, Fitness Equipment, Outdoor Essentials and More](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
