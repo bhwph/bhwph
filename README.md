@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Teamfight Tactics’ next set is a magical showdown with new spells](https://www.polygon.com/24197358/teamfight-tactics-magic-n-mayhem-new-set-spells-augments-charms)
- - [Elden Ring mod turns the DLC into a Pokémon battle between bosses](https://www.polygon.com/24197346/elden-ring-mod-summon-bosses-as-allies)
- - [Suspect Behind Trump Assassination Attempt Had A Discord Account But &#39;Rarely&#39; Used It, Company Says](https://kotaku.com/thomas-crooks-discord-trump-rally-shooter-suspect-1851591902)<!-- GAME:END -->
+ - [My favorite weapon from Elden Ring: Shadow of the Erdtree is even more powerful than I thought, letting you completely juke legendary boss Malenia&#39;s Waterfowl Dance](https://www.pcgamer.com/games/rpg/my-favorite-weapon-from-elden-ring-shadow-of-the-erdtree-is-even-more-powerful-than-i-thought-letting-you-completely-juke-legendary-boss-malenias-waterfowl-dance)
+ - [We Compared HBO’s House of the Dragon To Game Of Thrones To Determine The Worst Ways To Die](https://kotaku.com/game-of-thrones-house-dragon-worst-deaths-red-wedding-1851592038)
+ - [Black Desert Online is introducing a mammoth-size &#39;War of the Roses&#39; PvP mode for duking it out with 599 of your closest friends](https://www.pcgamer.com/games/mmo/black-desert-online-is-introducing-a-mammoth-size-war-of-the-roses-pvp-mode-for-duking-it-out-with-599-of-your-closest-friends)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
