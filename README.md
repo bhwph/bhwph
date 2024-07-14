@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Properly Archive Your Digital Files](https://www.wired.com/story/how-to-properly-archive-your-digital-files/)
- - [A supercheap Android phone with looks to spare](https://www.theverge.com/24197282/cmf-phone-1-diggnation-galaxy-ring-installer-newsletter)
- - [Prime Day Deals Under $50: Nab Bargains on Home Tech, Fitness Equipment, Outdoor Essentials and More](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Messaging and VoIP apps will soon land on cars running Android Automotive](https://www.androidauthority.com/android-automotive-messaging-voip-apps-3460462/)
+ - [Inside the AI memory machine](https://www.theverge.com/2024/7/14/24197107/ai-memory-recall-limitless-gemini-vergecast)
+ - [The Best Amazon Prime Day Picks Under $10: Nifty Savings on Tech, Essentials, Gifts and More](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
