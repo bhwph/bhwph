@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
- - 😝 [Funny tittle](http://9gag.com/gag/adBjr0V)
- - 👉 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)<!-- MEMES:END -->
+ - 6️⃣ [9gager right now:](http://9gag.com/gag/agmVw4q)
+ - 😝 [Japan, never change.](http://9gag.com/gag/axyjezn)
+ - 👉 [Shadow of Death](http://9gag.com/gag/amo9wX4)<!-- MEMES:END -->
 
 --- 
 
