@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)
- - 😝 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
- - 👉 [When you&#39;re friend understand the jokes and back you up](http://9gag.com/gag/agmVeBn)<!-- MEMES:END -->
+ - 6️⃣ [How is this even legal?](http://9gag.com/gag/aRBAp8B)
+ - 😝 [The best doctors](http://9gag.com/gag/aByYevx)
+ - 👉 [Sure does](http://9gag.com/gag/agmVeWn)<!-- MEMES:END -->
 
 --- 
 
