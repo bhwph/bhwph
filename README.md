@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Terrible crime](http://9gag.com/gag/an7N35z)
- - 😝 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
+ - 6️⃣ [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
+ - 😝 [Terrible crime](http://9gag.com/gag/an7N35z)
  - 👉 [First world stupidity](http://9gag.com/gag/aGyxqr5)<!-- MEMES:END -->
 
 --- 
