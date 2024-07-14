@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, July 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-14-2024)
  - [We may have lost Piranha Bytes, but at least Eurojank RPG Greedfall 2 is still on the way, announcing early access will begin in September](https://www.pcgamer.com/games/rpg/we-may-have-lost-piranha-bytes-but-at-least-eurojank-rpg-greedfall-2-is-still-on-the-way-announcing-early-access-will-begin-in-september)
- - [Court documents show that not only is Valve a fraction the size of companies like EA or Ubisoft, it&#39;s smaller than a lot of triple-A developers](https://www.pcgamer.com/gaming-industry/court-documents-show-that-not-only-is-valve-a-fraction-the-size-of-companies-like-ea-or-ubisoft-its-smaller-than-a-lot-of-triple-a-developers)
- - [Star Citizen is free this week, if you&#39;d like to try it](https://www.pcgamer.com/games/star-citizen-is-free-this-week-if-youd-like-to-try-it)<!-- GAME:END -->
+ - [Court documents show that not only is Valve a fraction the size of companies like EA or Ubisoft, it&#39;s smaller than a lot of triple-A developers](https://www.pcgamer.com/gaming-industry/court-documents-show-that-not-only-is-valve-a-fraction-the-size-of-companies-like-ea-or-ubisoft-its-smaller-than-a-lot-of-triple-a-developers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
