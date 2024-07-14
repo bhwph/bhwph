@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shooting conspiracies trend on X as Musk endorses Trump](https://www.theverge.com/2024/7/13/24198049/trump-x-shooting-conspiracy-theories-trending)
- - [Elon Musk ‘Fully Endorses’ Donald Trump After Deadly Rally Shooting](https://www.wired.com/story/elon-musk-endorse-donald-trump-rally-shooting/)
- - [Catch This Leaf Blower at a Low Price of $76 Ahead of Prime Day](https://www.cnet.com/news/catch-this-leaf-blower-at-a-low-price-of-76-ahead-of-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Outspent by tech companies, universities are racing to stay relevant in AI research, as some academics turn their focus to less computing-intensive areas of AI &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240713/p14#a240713p14)
+ - [After initially rejecting it, Apple has approved the first PC emulator for iOS](https://www.theverge.com/2024/7/13/24198015/apple-utm-se-pc-os-emulator-for-ios)
+ - [Shooting conspiracies trend on X as Musk endorses Trump](https://www.theverge.com/2024/7/13/24198049/trump-x-shooting-conspiracy-theories-trending)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
