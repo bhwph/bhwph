@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hasn’t made a foldable yet because there’s still no good reason to buy one](https://www.androidauthority.com/galaxy-z-flip-6-flop-3459437/)
- - [Here&#39;s How Much an Oven Heats Up My Kitchen Versus an Air Fryer](https://www.cnet.com/news/during-extreme-heat-i-ditch-the-grill-in-favor-of-this-cooking-tool/#ftag=CAD590a51e)
- - [Keychron B6 and B1 Keyboard Review: Elegant and Inexpensive](https://www.wired.com/review/keychron-b1-pro-and-b6-pro/)<!-- TECH:END -->
+ - [OnePlus Pad 2 price leak suggests you could be paying more](https://www.androidauthority.com/oneplus-pad-2-price-leak-3460507/)
+ - [AT&amp;T Paid a Hacker $370,000 to Delete Stolen Phone Records](https://www.wired.com/story/atandt-paid-hacker-300000-to-delete-stolen-call-records/)
+ - [Amazon Prime Live Blog: The Top 133 Deals We&#39;ve Discovered So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
