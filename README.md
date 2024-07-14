@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Apple finally serious about gaming after its latest push?](https://appleinsider.com/articles/24/07/13/apple-wants-you-to-believe-its-serious-about-gaming-for-real-this-time?utm_medium=rss)
- - [Amazon&#39;s Omni QLED Series TVs Hit Low Prices Ahead of Prime Day](https://www.cnet.com/deals/amazon-fire-tv-omni-qled-series-models-hit-low-prices/#ftag=CAD590a51e)
- - [Amazon Prime Day Live Blog: The Best Deals We Found So Far on Tech, Home, TVs and More](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Shooting conspiracies trend on X as Musk endorses Trump](https://www.theverge.com/2024/7/13/24198049/trump-x-shooting-conspiracy-theories-trending)
+ - [Elon Musk ‘Fully Endorses’ Donald Trump After Deadly Rally Shooting](https://www.wired.com/story/elon-musk-endorse-donald-trump-rally-shooting/)
+ - [Catch This Leaf Blower at a Low Price of $76 Ahead of Prime Day](https://www.cnet.com/news/catch-this-leaf-blower-at-a-low-price-of-76-ahead-of-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
