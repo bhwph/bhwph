@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
- - 😝 [Terrible crime](http://9gag.com/gag/an7N35z)
- - 👉 [First world stupidity](http://9gag.com/gag/aGyxqr5)<!-- MEMES:END -->
+ - 6️⃣ [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)
+ - 😝 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
+ - 👉 [When you&#39;re friend understand the jokes and back you up](http://9gag.com/gag/agmVeBn)<!-- MEMES:END -->
 
 --- 
 
