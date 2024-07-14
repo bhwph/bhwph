@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How is this even legal?](http://9gag.com/gag/aRBAp8B)
- - 😝 [The best doctors](http://9gag.com/gag/aByYevx)
- - 👉 [Sure does](http://9gag.com/gag/agmVeWn)<!-- MEMES:END -->
+ - 6️⃣ [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 😝 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
+ - 👉 [First world stupidity](http://9gag.com/gag/aGyxqr5)<!-- MEMES:END -->
 
 --- 
 
