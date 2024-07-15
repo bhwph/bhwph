@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [9 beginner’s tips to know before starting EA Sports College Football 25](https://www.polygon.com/guides/24198927/ea-sports-college-football-25-beginners-tips-tricks)
- - [Final Fantasy XIV: A Beginner’s Guide To Questing](https://kotaku.com/final-fantasy-14-ff14-quest-red-green-blue-1851593464)
- - [My Lengthy, Frustrating Quest To Become A PC Gamer](https://kotaku.com/nzxt-player-three-gaming-pc-best-monitor-setup-1851593290)<!-- GAME:END -->
+ - [Here&#39;s 3 reasons I&#39;m actually pretty optimistic about Dragon Age: The Veilguard despite being an old school RPG sicko](https://www.pcgamer.com/games/rpg/heres-three-reasons-im-actually-pretty-optimistic-about-dragon-age-the-veilguard-despite-being-an-old-school-rpg-sicko)
+ - [Jackass Star Steve-O Got Paid $100,000 For Appearing In NFL 2K5](https://kotaku.com/steve-o-nfl-2k5-tony-hawk-underground-paid-100k-5k-ps2-1851593576)
+ - [How To Unlock Bunny In The First Descendant](https://kotaku.com/first-descendant-bunny-unlock-free-worth-it-1851593517)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
