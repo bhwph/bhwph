@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well well](http://9gag.com/gag/aryKYv5)
- - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
- - 👉 [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)<!-- MEMES:END -->
+ - 6️⃣ [Summer Yukata](http://9gag.com/gag/azxj3mm)
+ - 😝 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
+ - 👉 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)<!-- MEMES:END -->
 
 --- 
 
