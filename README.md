@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [These people belong in a psych-ward](http://9gag.com/gag/adBjGDM)
- - 😝 [If only they knew](http://9gag.com/gag/adBjGPN)
- - 👉 [First world stupidity](http://9gag.com/gag/aGyxqr5)<!-- MEMES:END -->
+ - 6️⃣ [Well well](http://9gag.com/gag/aryKYv5)
+ - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
+ - 👉 [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)<!-- MEMES:END -->
 
 --- 
 
