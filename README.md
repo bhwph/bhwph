@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Trump VP pick JD Vance&#39;s tech ties, including working at Peter Thiel&#39;s Mithril Capital and investing in Rumble; Vance advocated repealing Section 230 &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240715/p21#a240715p21)
- - [The watchOS 11 beta slowed me down, in a good way](https://www.theverge.com/2024/7/15/24195983/watchos-11-preview-training-load-vitals-fitness)
- - [Trio of new weather widgets is in the forecast for Google](https://www.androidauthority.com/google-weather-widgets-3460853/)<!-- TECH:END -->
+ - [Sources: Index is Wiz&#39;s largest outside shareholder, with an 11%+ stake; Sequoia owns 10%+, Insight owns ~9%, Greenoaks owns ~5%, and Cyberstarts owns ~4% &lpar;The Information&rpar;](http://www.techmeme.com/240715/p24#a240715p24)
+ - [The Trump rally shooting is a cash cow for the dropshippers](https://www.theverge.com/2024/7/15/24199146/donald-trump-rally-shooting-assassination-picture-merch-tshirts-etsy-amazon)
+ - [AliveCor suffers another loss in Apple Watch ECG patent battle](https://appleinsider.com/articles/24/07/15/alivecor-suffers-another-loss-in-apple-watch-ecg-patent-battle?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
