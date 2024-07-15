@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Imran Ahmed, founder of the Center for Countering Digital Hate, on Elon Musk&#39;s lawsuit, election disinformation, social media harms, AI, and more &lpar;Jason Parham/Wired&rpar;](http://www.techmeme.com/240714/p10#a240714p10)
- - [Amazon Prime Live Blog: Our Favorite 136 Deals So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
- - [Google is reportedly planning its biggest startup acquisition ever](https://www.theverge.com/2024/7/14/24198613/google-wiz-acquisition-talks-23-billion-cloud-cybersecurity)<!-- TECH:END -->
+ - [IDC: ~350M people in India still use a feature phone, and 50% of them have a model that costs less than $18; ASP of a smartphone is $255, up 54% from 2020 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240715/p1#a240715p1)
+ - [Amazon Prime Live Blog: The Best 100-Plus Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
+ - [Best Prime Day Laptop Deals: Score Major Savings From Apple, HP, Acer and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
