@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Stream Deck Mk. 2 is discounted to its lowest price ever](https://www.polygon.com/24199093/elgato-stream-deck-mk-2-amazon-deal-sale)
- - [How Detective Dotson Brings Co-op Cases to Your Couch](https://news.xbox.com/en-us/2024/07/15/detective-dotson-co-op-cases-to-your-couch/)
- - [Kite Man, The Acolyte finale, The Boys finale, and more new TV this week](https://www.polygon.com/2024/7/15/24194371/new-tv-netflix-cobra-kai-acolyte-kite-man-hit-monkey-ark-season-boys)<!-- GAME:END -->
+ - [9 beginner’s tips to know before starting EA Sports College Football 25](https://www.polygon.com/guides/24198927/ea-sports-college-football-25-beginners-tips-tricks)
+ - [Final Fantasy XIV: A Beginner’s Guide To Questing](https://kotaku.com/final-fantasy-14-ff14-quest-red-green-blue-1851593464)
+ - [My Lengthy, Frustrating Quest To Become A PC Gamer](https://kotaku.com/nzxt-player-three-gaming-pc-best-monitor-setup-1851593290)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
