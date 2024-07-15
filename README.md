@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s an early look at how Google Wallet will let you scan and save anything &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-everything-else-apk-3460569/)
- - [Global iPhone shipments are rising, but Apple is losing share to Chinese rivals](https://appleinsider.com/articles/24/07/15/global-iphone-shipments-are-rising-but-apple-is-losing-share-to-chinese-rivals?utm_medium=rss)
- - [Analysis: North Korea&#39;s Lazarus sent $150K+ in crypto to Cambodian company Huione Pay between June 2023 and February 2024, showing how the group launders funds &lpar;Tom Wilson/Reuters&rpar;](http://www.techmeme.com/240715/p7#a240715p7)<!-- TECH:END -->
+ - [OpenAI developing secret “Strawberry” project to help ChatGPT outthink humans](https://www.androidauthority.com/openai-strawberry-project-3460667/)
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [Biden’s top tech adviser says AI is a ‘today problem’](https://www.theverge.com/24197237/arati-prabhakar-ostp-director-tech-policy-science-ai-regulation-decoder-podcast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
