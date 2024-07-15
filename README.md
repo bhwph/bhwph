@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
- - 😝 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)
- - 👉 [Free Rent](http://9gag.com/gag/aO8VOdD)<!-- MEMES:END -->
+ - 6️⃣ [Who can confirm?](http://9gag.com/gag/aGyx5gK)
+ - 😝 [That worthless coworker](http://9gag.com/gag/a9y7woj)
+ - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
 
 --- 
 
