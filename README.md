@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
- - 😝 [Man of culture](http://9gag.com/gag/aQz8Wg7)
- - 👉 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)<!-- MEMES:END -->
+ - 6️⃣ [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
+ - 😝 [If only they knew](http://9gag.com/gag/adBjGPN)
+ - 👉 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)<!-- MEMES:END -->
 
 --- 
 
