@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI developing secret “Strawberry” project to help ChatGPT outthink humans](https://www.androidauthority.com/openai-strawberry-project-3460667/)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Biden’s top tech adviser says AI is a ‘today problem’](https://www.theverge.com/24197237/arati-prabhakar-ostp-director-tech-policy-science-ai-regulation-decoder-podcast)<!-- TECH:END -->
+ - [Google Maps tweaks UI to waste less screen space](https://www.androidauthority.com/google-maps-redesign-3460680/)
+ - [FBI is working to break into the phone of the Trump rally shooter](https://www.theverge.com/2024/7/15/24198946/fbi-encryption-phone-trump-attempted-assassination-shooter)
+ - [Apple&#39;s latest Mac mini is on sale from $499 as Prime Week kicks off](https://appleinsider.com/articles/24/07/15/apples-latest-mac-mini-is-on-sale-from-499-as-prime-week-kicks-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
