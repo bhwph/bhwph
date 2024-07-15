@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Bose QuietComfort Ultra headphones discounted to an all-time-low](https://www.androidauthority.com/bose-quietcomfort-ultra-deal-3460779/)
- - [YouTube Music tests &quot;AI-generated conversational radio&quot;, which lets Premium users in the US create a custom radio station by &quot;describing exactly what they want&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240715/p19#a240715p19)
- - [The Trump shooting: what happened and what’s next](https://www.theverge.com/2024/7/15/24199116/trump-shooting-assassination-attempt-rally-presidential-race)<!-- TECH:END -->
+ - [A look at Trump VP pick JD Vance&#39;s tech ties, including working at Peter Thiel&#39;s Mithril Capital and investing in Rumble; Vance advocated repealing Section 230 &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240715/p21#a240715p21)
+ - [The watchOS 11 beta slowed me down, in a good way](https://www.theverge.com/2024/7/15/24195983/watchos-11-preview-training-load-vitals-fitness)
+ - [Trio of new weather widgets is in the forecast for Google](https://www.androidauthority.com/google-weather-widgets-3460853/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
