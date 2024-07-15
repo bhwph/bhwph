@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
- - 😝 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
- - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
+ - 6️⃣ [Very effective security](http://9gag.com/gag/a1mM9rb)
+ - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 👉 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)<!-- MEMES:END -->
 
 --- 
 
