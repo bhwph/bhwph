@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 director Swen Vincke says that all the awards actually started to obstruct development: &#39;It is surprisingly draining on the soul&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3-director-swen-vincke-says-that-all-the-awards-actually-started-to-obstruct-development-it-is-surprisingly-draining-on-the-soul)
- - [Get a jump on Prime Day with these awesome Best Buy deals](https://www.polygon.com/24196656/best-buy-black-friday-prime-day-gaming-deal-sale)
- - [Get ready to cook and explore at the same time in wholesome metroidvania Magical Delicacy](https://www.pcgamer.com/games/get-ready-to-cook-and-explore-at-the-same-time-in-wholesome-metroidvania-magical-delicacy)<!-- GAME:END -->
+ - [Finding your flow in Bō: Path of the Teal Lotus, out July 17](https://blog.playstation.com/2024/07/15/finding-your-flow-in-bo-path-of-the-teal-lotus-out-july-17/)
+ - [&#39;We can&#39;t stay here&#39;: Larian CEO opens up about relocating Russian developers otherwise, &#39;all of my team was going to go to war&#39;](https://www.pcgamer.com/games/rpg/we-cant-stay-here-larian-ceo-opens-up-about-relocating-russian-developers-otherwise-all-of-my-team-was-going-to-go-to-war)
+ - [Dystopian anime Terminator Zero annihilates civilization in its first trailer](https://www.polygon.com/anime/24198856/terminator-zero-anime-trailer-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
