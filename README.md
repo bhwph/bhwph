@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Looks like Journey to the Savage Planet is getting a sequel](https://www.pcgamer.com/games/adventure/looks-like-journey-to-the-savage-planet-is-getting-a-sequel)
- - [It turns out that Commander Shepard runs a great game of Call of Cthulhu](https://www.pcgamer.com/games/rpg/it-turns-out-that-commander-shepard-runs-a-great-game-of-call-of-cthulhu)
- - [All the House of the Dragon houses and characters you need to know](https://www.polygon.com/23322393/house-dragon-houses-characters-explained)<!-- GAME:END -->
+ - [Despite its &#39;mixed&#39; user rating on Steam, The First Descendant has racked up over 10 million players in its first week](https://www.pcgamer.com/games/third-person-shooter/despite-its-mixed-user-rating-on-steam-the-first-descendant-has-racked-up-over-10-million-players-in-its-first-week)
+ - [Double Dragon Revive promises a refresh of the venerable beat &#39;em up in 2025](https://www.pcgamer.com/games/action/double-dragon-revive-promises-a-refresh-of-the-venerable-beat-em-up-in-2025)
+ - [Today&#39;s Wordle answer for Monday, July 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-15-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
