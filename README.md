@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Turtle Beach Burst II Air review](https://www.pcgamer.com/hardware/gaming-mice/turtle-beach-burst-ii-air-review)
- - [Kunitsu-Gami: Path of the Goddess review](https://www.pcgamer.com/games/strategy/kunitsu-gami-path-of-the-goddess-review)
- - [Can Binacle be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23758354/can-binacle-be-shiny-barbaracle)<!-- GAME:END -->
+ - [The Stream Deck Mk. 2 is discounted to its lowest price ever](https://www.polygon.com/24199093/elgato-stream-deck-mk-2-amazon-deal-sale)
+ - [How Detective Dotson Brings Co-op Cases to Your Couch](https://news.xbox.com/en-us/2024/07/15/detective-dotson-co-op-cases-to-your-couch/)
+ - [Kite Man, The Acolyte finale, The Boys finale, and more new TV this week](https://www.polygon.com/2024/7/15/24194371/new-tv-netflix-cobra-kai-acolyte-kite-man-hit-monkey-ark-season-boys)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
