@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps tweaks UI to waste less screen space](https://www.androidauthority.com/google-maps-redesign-3460680/)
- - [FBI is working to break into the phone of the Trump rally shooter](https://www.theverge.com/2024/7/15/24198946/fbi-encryption-phone-trump-attempted-assassination-shooter)
- - [Apple&#39;s latest Mac mini is on sale from $499 as Prime Week kicks off](https://appleinsider.com/articles/24/07/15/apples-latest-mac-mini-is-on-sale-from-499-as-prime-week-kicks-off?utm_medium=rss)<!-- TECH:END -->
+ - [Deal: Bose QuietComfort Ultra headphones discounted to an all-time-low](https://www.androidauthority.com/bose-quietcomfort-ultra-deal-3460779/)
+ - [YouTube Music tests &quot;AI-generated conversational radio&quot;, which lets Premium users in the US create a custom radio station by &quot;describing exactly what they want&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240715/p19#a240715p19)
+ - [The Trump shooting: what happened and what’s next](https://www.theverge.com/2024/7/15/24199116/trump-shooting-assassination-attempt-rally-presidential-race)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
