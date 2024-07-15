@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Secure Your Home With the Ring Alarm 14-Piece Kit at 39% Off Pre-Prime Day](https://www.cnet.com/deals/secure-your-home-with-the-ring-alarm-14-piece-kit-at-39-off-pre-prime-day/#ftag=CAD590a51e)
- - [AT&amp;T reportedly gave $370,000 to a hacker to delete its stolen customer data](https://www.theverge.com/2024/7/14/24198294/att-paid-370000-ransom-hacked-customer-data-deleted-may)
- - [Best Internet Providers in Providence, Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-providence-ri/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hopefully, this new PARAMOUNT logo won’t stick around for long](https://www.theverge.com/2024/7/14/24198505/paramount-global-skydance-logo-redesign-merger)
+ - [Amazon Prime Live Blog: Our Favorite 138 Deals So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
+ - [Apple Watch Early Prime Day Deal: Save $100 on an Apple Watch Series 9](https://www.cnet.com/deals/apple-watch-prime-day-deals-save-100-on-an-apple-watch-series-9/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
