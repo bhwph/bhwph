@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy Black Friday in July sale: Apple Watch $100 off, $749 M2 MacBook Air, $500 off iPad](https://appleinsider.com/articles/24/07/15/best-buy-black-friday-in-july-sale-apple-watch-100-off-749-m2-macbook-air-500-off-ipad?utm_medium=rss)
- - [An interview with Netflix Chief Content Officer Bela Bajaria, who presides over the company&#39;s $17B content budget, on catering to different tastes and more &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240715/p2#a240715p2)
- - [T-Mobile employee paints miserable picture as shady sales tactics are uncovered](https://www.androidauthority.com/t-mobile-sales-tactics-employee-interview-3460125/)<!-- TECH:END -->
+ - [A profile of Israeli cybersecurity startup Wiz, founded in 2020, and its co-founders, as Alphabet prepares a $23B deal; a source says each co-founder owns 9% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240715/p5#a240715p5)
+ - [The Hidden Ties Between Google and Amazon’s Project Nimbus and Israel&#39;s Military](https://www.wired.com/story/amazon-google-project-nimbus-israel-idf/)
+ - [Source: Apple&#39;s India revenue rose 33% YoY to almost $8B between March 2023 and March 2024, and up from $4.1B in March 2022; pricey iPhones were 50%+ of sales &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240715/p4#a240715p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
