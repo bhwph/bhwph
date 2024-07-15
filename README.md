@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Very effective security](http://9gag.com/gag/a1mM9rb)
+ - 6️⃣ [If only they knew](http://9gag.com/gag/adBjGPN)
  - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
- - 👉 [When hard boiled eggs peel like this :&lpar;](http://9gag.com/gag/aVvPAVn)<!-- MEMES:END -->
+ - 👉 [Shadow of Death](http://9gag.com/gag/amo9wX4)<!-- MEMES:END -->
 
 --- 
 
