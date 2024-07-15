@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who can confirm?](http://9gag.com/gag/aGyx5gK)
- - 😝 [That worthless coworker](http://9gag.com/gag/a9y7woj)
- - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
+ - 6️⃣ [These people belong in a psych-ward](http://9gag.com/gag/adBjGDM)
+ - 😝 [If only they knew](http://9gag.com/gag/adBjGPN)
+ - 👉 [First world stupidity](http://9gag.com/gag/aGyxqr5)<!-- MEMES:END -->
 
 --- 
 
