@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Israeli cybersecurity startup Wiz, founded in 2020, and its co-founders, as Alphabet prepares a $23B deal; a source says each co-founder owns 9% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240715/p5#a240715p5)
- - [The Hidden Ties Between Google and Amazon’s Project Nimbus and Israel&#39;s Military](https://www.wired.com/story/amazon-google-project-nimbus-israel-idf/)
- - [Source: Apple&#39;s India revenue rose 33% YoY to almost $8B between March 2023 and March 2024, and up from $4.1B in March 2022; pricey iPhones were 50%+ of sales &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240715/p4#a240715p4)<!-- TECH:END -->
+ - [Here’s an early look at how Google Wallet will let you scan and save anything &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-everything-else-apk-3460569/)
+ - [Global iPhone shipments are rising, but Apple is losing share to Chinese rivals](https://appleinsider.com/articles/24/07/15/global-iphone-shipments-are-rising-but-apple-is-losing-share-to-chinese-rivals?utm_medium=rss)
+ - [Analysis: North Korea&#39;s Lazarus sent $150K+ in crypto to Cambodian company Huione Pay between June 2023 and February 2024, showing how the group launders funds &lpar;Tom Wilson/Reuters&rpar;](http://www.techmeme.com/240715/p7#a240715p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
