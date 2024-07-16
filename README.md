@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day: Supersize your Mac desktop with these monitor deals](https://appleinsider.com/articles/24/07/16/amazon-prime-day-supersize-your-mac-desktop-with-these-monitor-deals?utm_medium=rss)
- - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)
- - [Samsung’s Live Translate feature is expanding support to these messaging apps](https://www.androidauthority.com/samsung-live-translate-supported-apps-3461242/)<!-- TECH:END -->
+ - [Don’t miss this Pixel Watch 2 deal that slashes up to $100 off](https://www.androidauthority.com/pixel-watch-2-prime-day-deal-3461385/)
+ - [Pixel 9, Pixel 9 Pro, Pixel 9 Pro XL, and Pixel 9 Pro Fold details, including photos, battery sizes, and charging speeds, leak from Taiwanese regulator NCC &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/240716/p16#a240716p16)
+ - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
