@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch streamer Ibai Llanos&#39; fourth boxing tournament in Madrid, with matches between influencers, set a record 3.85M+ concurrent viewers at its peak on July 13 &lpar;Adam Bumas/Wired&rpar;](http://www.techmeme.com/240715/p31#a240715p31)
  - [Sources: Elon Musk plans to commit ~$45M/month to America PAC, a new pro-Trump super PAC; other backers include Palantir&#39;s Joe Lonsdale and the Winklevoss twins &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240715/p30#a240715p30)
- - [Mexican fintech OCN, formerly known as OneCarNow, which offers car rentals for gig workers in Mexico and the US, raised a $86M Series A in equity and debt &lpar;Andrea Navarro/Bloomberg&rpar;](http://www.techmeme.com/240715/p29#a240715p29)
- - [iOS 18, iPadOS 18, and macOS Sequoia add a &quot;Recovered&quot; album to the Photos app that shows previously lost or damaged photos and videos &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240715/p28#a240715p28)<!-- TECH:END -->
+ - [Mexican fintech OCN, formerly known as OneCarNow, which offers car rentals for gig workers in Mexico and the US, raised a $86M Series A in equity and debt &lpar;Andrea Navarro/Bloomberg&rpar;](http://www.techmeme.com/240715/p29#a240715p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
