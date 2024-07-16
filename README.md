@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab one of the best Samsung smartphones for 25% off on Prime Day](https://www.androidauthority.com/galaxy-a35-prime-day-2024-deal-3461063/)
- - [Xreal Beam Pro hands-on: the $199 Android companion to Xreal&#39;s AR glasses feels a bit underpowered and unfinished, with too many bugs in AR-specific features &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240716/p8#a240716p8)
- - [Prime Day deals: The best smart doorbell deals available now](https://www.androidauthority.com/amazon-prime-day-2024-best-smart-doorbell-deals-3460900/)<!-- TECH:END -->
+ - [The Verge’s guide to Amazon Prime Day 2024](https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024)
+ - [The best Amazon Prime Day deals you can get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
+ - [The best smartphone Prime Day deals](https://www.androidauthority.com/best-smartphone-prime-day-deals-2024-3461033/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
