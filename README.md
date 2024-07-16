@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yoshi-P is just as confused about Final Fantasy 14 players being horny for a two-headed lizard as I am: &#39;I would never have guessed this&#39;](https://www.pcgamer.com/games/final-fantasy/yoshi-p-is-just-as-confused-about-final-fantasy-14-players-being-horny-for-a-two-headed-lizard-as-i-am-i-would-never-have-guessed-this)
- - [Rejoice! Save more than 50% on the Complete Calvin and Hobbes for Prime Day](https://www.polygon.com/amazon-prime-day/24190884/calvin-hobbes-complete-bill-watterson-mysteries-deal-sales)
- - [The best Lord of the Rings deals for Prime Day](https://www.polygon.com/amazon-prime-day/24191453/best-lotr-deals-books-movies)<!-- GAME:END -->
+ - [The best Magic: The Gathering deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering)
+ - [The Outlast Trials: a behind-the-scenes look at Project Lupara](https://blog.playstation.com/2024/07/16/the-outlast-trials-a-behind-the-scenes-look-at-project-lupara/)
+ - [The Death Note musical fixed the anime to become the superior adaptation](https://www.polygon.com/24195889/death-note-anime-bad-musical-good)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
