@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends players are furious over new battle pass](https://www.polygon.com/24199903/apex-legends-players-battle-pass-uproar-controversy-steam-review-bomb)
- - [The X-Men Films, Ranked From Worst To Best](https://kotaku.com/x-men-movies-best-worst-ranked-deadpool-logan-wolverine-1851595435)
- - [The best Dungeons &amp; Dragons deals of Amazon Prime Day](https://www.polygon.com/amazon-prime-day/24199887/best-dnd-deals-dungeons-dragons)<!-- GAME:END -->
+ - [Lord of the Rings Trilogy 4K box set and Tolkien-illustrated books get big Prime Day discounts](https://www.polygon.com/amazon-prime-day/24191453/best-lotr-deals-books-movies)
+ - [The best Dungeons &amp; Dragons deals of Amazon Prime Day](https://www.polygon.com/amazon-prime-day/24199887/best-dnd-deals-dungeons-dragons)
+ - [Resident Evil 7 Is The Latest AAA Port To Flop On iPhone](https://kotaku.com/re7-aaa-ios-iphone-village-remake-flop-low-sales-why-1851595596)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
