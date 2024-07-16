@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are 50 Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)
- - [Best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)
- - [Andrej Karpathy, an OpenAI co-founder and former head of Tesla&#39;s autopilot unit, unveils Eureka Labs, a &quot;new kind of school&quot; aiming to support teachers with AI &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240716/p20#a240716p20)<!-- TECH:END -->
+ - [Source: in an informal inquiry, the US FTC has asked Amazon to provide more details on its deal to hire top executives and license tech from AI startup Adept &lpar;Reuters&rpar;](http://www.techmeme.com/240716/p23#a240716p23)
+ - [The best mobile accessories Prime Day deals](https://www.androidauthority.com/mobile-accessories-prime-day-deals-3461531/)
+ - [The best smart home Prime Day deals](https://www.androidauthority.com/best-smart-home-prime-day-deals-3461503/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
