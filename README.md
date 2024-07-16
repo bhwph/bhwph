@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
- - 😝 [Very effective security](http://9gag.com/gag/a1mM9rb)
- - 👉 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)<!-- MEMES:END -->
+ - 6️⃣ [If you don\u2019t understand this, we can\u2019t be friends](http://9gag.com/gag/a1mMGQY)
+ - 😝 [Always try to get up early, even if you&#39;re lazy, you&#39;ll always get something out of it. You don&#39;t know how little things can change you](http://9gag.com/gag/ae9Gv75)
+ - 👉 [Someone&#39;s got a new best friend.](http://9gag.com/gag/aD2op97)<!-- MEMES:END -->
 
 --- 
 
