@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy Z Fold 6 Ultra saga takes yet another turn](https://www.androidauthority.com/samsung-galaxy-z-fold-6-ultra-slim-firmware-3461040/)
- - [Analysis: Intel&#39;s VC arm is one of the most active foreign investors in Chinese AI and chip startups; Intel Capital owns stakes in 43 Chinese tech startups &lpar;Financial Times&rpar;](http://www.techmeme.com/240716/p3#a240716p3)
- - [Best Adjustable Dumbbells for 2024](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple Prime Day deals - live coverage of the top sales](https://appleinsider.com/articles/24/07/16/best-apple-prime-day-deals---live-coverage-of-the-top-sales?utm_medium=rss)
+ - [As the EU&#39;s AI Act takes effect in August, critics say the law is undercooked and regulators left out essential details needed to give clarity to businesses &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240716/p4#a240716p4)
+ - [Prime Day deals are live: Here are the best we’ve found so far](https://www.androidauthority.com/prime-day-deals-2024-3460969/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
