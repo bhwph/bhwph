@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Horizon 5’s Latest Update Brings Cars &amp; Coffee](https://forza.net/news/forza-horizon-5-horizon-cars-coffee/#new_tab)
- - [Everyone hates Spider-Man 3 for the wrong reason](https://www.polygon.com/24196741/spider-man-3-peter-parker)
- - [The best Amazon Prime Day board game deals under $50](https://www.polygon.com/amazon-prime-day/24191421/best-board-game-deals)<!-- GAME:END -->
+ - [This gorgeous Suzume box set is on sale for Prime Day](https://www.polygon.com/amazon-prime-day/2024/7/16/24199826/suzume-your-name-best-blu-ray-deals)
+ - [The 9 Must-Watch Anime Of the Summer 2024 Season](https://kotaku.com/summer-2024-anime-crunchyroll-hidive-oshi-no-ko-1851595135)
+ - [EA Play July 2024: Chase Greatness Early in EA Sports College Football 25](https://news.xbox.com/en-us/2024/07/16/ea-play-july-2024-college-football-25/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
