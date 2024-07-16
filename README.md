@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Magic: The Gathering deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering)
- - [The Outlast Trials: a behind-the-scenes look at Project Lupara](https://blog.playstation.com/2024/07/16/the-outlast-trials-a-behind-the-scenes-look-at-project-lupara/)
- - [The Death Note musical fixed the anime to become the superior adaptation](https://www.polygon.com/24195889/death-note-anime-bad-musical-good)<!-- GAME:END -->
+ - [Forza Horizon 5’s Latest Update Brings Cars &amp; Coffee](https://forza.net/news/forza-horizon-5-horizon-cars-coffee/#new_tab)
+ - [Everyone hates Spider-Man 3 for the wrong reason](https://www.polygon.com/24196741/spider-man-3-peter-parker)
+ - [The best Amazon Prime Day board game deals under $50](https://www.polygon.com/amazon-prime-day/24191421/best-board-game-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
