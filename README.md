@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
- - 😝 [If only they knew](http://9gag.com/gag/adBjGPN)
- - 👉 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)<!-- MEMES:END -->
+ - 6️⃣ [\u00ae\u00ae\u00ae\u00ae](http://9gag.com/gag/azxj3Pj)
+ - 😝 [Asylum seekers in Germany threaten German homeowners. Now it&#39;s their home.](http://9gag.com/gag/aRBAb72)
+ - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
 
 --- 
 
