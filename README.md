@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s guide to Amazon Prime Day 2024](https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024)
- - [The best Amazon Prime Day deals you can get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
- - [The best smartphone Prime Day deals](https://www.androidauthority.com/best-smartphone-prime-day-deals-2024-3461033/)<!-- TECH:END -->
+ - [Amazon Prime Day: Supersize your Mac desktop with these monitor deals](https://appleinsider.com/articles/24/07/16/amazon-prime-day-supersize-your-mac-desktop-with-these-monitor-deals?utm_medium=rss)
+ - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)
+ - [Samsung’s Live Translate feature is expanding support to these messaging apps](https://www.androidauthority.com/samsung-live-translate-supported-apps-3461242/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
