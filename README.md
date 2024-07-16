@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t miss this Pixel Watch 2 deal that slashes up to $100 off](https://www.androidauthority.com/pixel-watch-2-prime-day-deal-3461385/)
- - [Pixel 9, Pixel 9 Pro, Pixel 9 Pro XL, and Pixel 9 Pro Fold details, including photos, battery sizes, and charging speeds, leak from Taiwanese regulator NCC &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/240716/p16#a240716p16)
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)<!-- TECH:END -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [The new Lenovo Tab P12 tablet gets its first 20% price drop](https://www.androidauthority.com/lenovo-tab-p12-prime-day-3461335/)
+ - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
