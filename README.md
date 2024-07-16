@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Say hi to paul](http://9gag.com/gag/aO8VgxM)
- - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
- - 👉 [Fatality](http://9gag.com/gag/aBy19gZ)<!-- MEMES:END -->
+ - 6️⃣ [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
+ - 😝 [Fatality](http://9gag.com/gag/aBy19gZ)
+ - 👉 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)<!-- MEMES:END -->
 
 --- 
 
