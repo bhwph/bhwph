@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China&#39;s CAC requires AI companies to prepare between 20K and 70K questions designed to test whether their AI models produce safe answers before release &lpar;Liza Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240716/p1#a240716p1)
- - [Itching for new iPhone features? iOS 18 public beta is here for you to try](https://www.androidauthority.com/ios-18-public-beta-3460590/)
- - [Apple&#39;s latest Mac mini is on sale from $499 as Prime Week kicks off](https://appleinsider.com/articles/24/07/15/apples-latest-mac-mini-is-on-sale-from-499-as-prime-week-kicks-off?utm_medium=rss)<!-- TECH:END -->
+ - [The Samsung Galaxy Z Fold 6 Ultra saga takes yet another turn](https://www.androidauthority.com/samsung-galaxy-z-fold-6-ultra-slim-firmware-3461040/)
+ - [Analysis: Intel&#39;s VC arm is one of the most active foreign investors in Chinese AI and chip startups; Intel Capital owns stakes in 43 Chinese tech startups &lpar;Financial Times&rpar;](http://www.techmeme.com/240716/p3#a240716p3)
+ - [Best Adjustable Dumbbells for 2024](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
