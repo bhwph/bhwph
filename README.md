@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Index is Wiz&#39;s largest outside shareholder, with an 11%+ stake; Sequoia owns 10%+, Insight owns ~9%, Greenoaks owns ~5%, and Cyberstarts owns ~4% &lpar;The Information&rpar;](http://www.techmeme.com/240715/p24#a240715p24)
- - [The Trump rally shooting is a cash cow for the dropshippers](https://www.theverge.com/2024/7/15/24199146/donald-trump-rally-shooting-assassination-picture-merch-tshirts-etsy-amazon)
- - [AliveCor suffers another loss in Apple Watch ECG patent battle](https://appleinsider.com/articles/24/07/15/alivecor-suffers-another-loss-in-apple-watch-ecg-patent-battle?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Elon Musk plans to commit ~$45M/month to America PAC, a new pro-Trump super PAC; other backers include Palantir&#39;s Joe Lonsdale and the Winklevoss twins &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240715/p30#a240715p30)
+ - [Mexican fintech OCN, formerly known as OneCarNow, which offers car rentals for gig workers in Mexico and the US, raised a $86M Series A in equity and debt &lpar;Andrea Navarro/Bloomberg&rpar;](http://www.techmeme.com/240715/p29#a240715p29)
+ - [iOS 18, iPadOS 18, and macOS Sequoia add a &quot;Recovered&quot; album to the Photos app that shows previously lost or damaged photos and videos &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240715/p28#a240715p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
