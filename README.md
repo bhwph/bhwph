@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
- - 😝 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)
- - 👉 [If two doctors are arguing about the line, imagine people who don&#39;t know anything](http://9gag.com/gag/aAy1jq2)<!-- MEMES:END -->
+ - 6️⃣ [Say hi to paul](http://9gag.com/gag/aO8VgxM)
+ - 😝 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
+ - 👉 [Fatality](http://9gag.com/gag/aBy19gZ)<!-- MEMES:END -->
 
 --- 
 
