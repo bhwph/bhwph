@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [The new Lenovo Tab P12 tablet gets its first 20% price drop](https://www.androidauthority.com/lenovo-tab-p12-prime-day-3461335/)
- - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)<!-- TECH:END -->
+ - [Here are 50 Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)
+ - [Best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)
+ - [Andrej Karpathy, an OpenAI co-founder and former head of Tesla&#39;s autopilot unit, unveils Eureka Labs, a &quot;new kind of school&quot; aiming to support teachers with AI &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240716/p20#a240716p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
