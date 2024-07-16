@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Apple Prime Day deals - live coverage of the top sales](https://appleinsider.com/articles/24/07/16/best-apple-prime-day-deals---live-coverage-of-the-top-sales?utm_medium=rss)
- - [As the EU&#39;s AI Act takes effect in August, critics say the law is undercooked and regulators left out essential details needed to give clarity to businesses &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240716/p4#a240716p4)
- - [Prime Day deals are live: Here are the best we’ve found so far](https://www.androidauthority.com/prime-day-deals-2024-3460969/)<!-- TECH:END -->
+ - [Grab one of the best Samsung smartphones for 25% off on Prime Day](https://www.androidauthority.com/galaxy-a35-prime-day-2024-deal-3461063/)
+ - [Xreal Beam Pro hands-on: the $199 Android companion to Xreal&#39;s AR glasses feels a bit underpowered and unfinished, with too many bugs in AR-specific features &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240716/p8#a240716p8)
+ - [Prime Day deals: The best smart doorbell deals available now](https://www.androidauthority.com/amazon-prime-day-2024-best-smart-doorbell-deals-3460900/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
