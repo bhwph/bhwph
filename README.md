@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Very effective security](http://9gag.com/gag/a1mM9rb)
- - 😝 [`The Angle`](http://9gag.com/gag/aNDn7QG)
- - 👉 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)<!-- MEMES:END -->
+ - 6️⃣ [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
+ - 😝 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 👉 [The perfect adaptation cycle doesn&#39;t exis-](http://9gag.com/gag/axyjLpD)<!-- MEMES:END -->
 
 --- 
 
