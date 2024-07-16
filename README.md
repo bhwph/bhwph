@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This gorgeous Suzume box set is on sale for Prime Day](https://www.polygon.com/amazon-prime-day/2024/7/16/24199826/suzume-your-name-best-blu-ray-deals)
- - [The 9 Must-Watch Anime Of the Summer 2024 Season](https://kotaku.com/summer-2024-anime-crunchyroll-hidive-oshi-no-ko-1851595135)
- - [EA Play July 2024: Chase Greatness Early in EA Sports College Football 25](https://news.xbox.com/en-us/2024/07/16/ea-play-july-2024-college-football-25/)<!-- GAME:END -->
+ - [Apex Legends players are furious over new battle pass](https://www.polygon.com/24199903/apex-legends-players-battle-pass-uproar-controversy-steam-review-bomb)
+ - [The X-Men Films, Ranked From Worst To Best](https://kotaku.com/x-men-movies-best-worst-ranked-deadpool-logan-wolverine-1851595435)
+ - [The best Dungeons &amp; Dragons deals of Amazon Prime Day](https://www.polygon.com/amazon-prime-day/24199887/best-dnd-deals-dungeons-dragons)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
