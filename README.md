@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Star Wars and Super Mario sets are 20% off for Prime Day](https://www.polygon.com/amazon-prime-day/24191428/best-lego-deals)
- - [The best gaming deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games)
- - [The best Amazon Prime Day board game deals under $50](https://www.polygon.com/amazon-prime-day/24191421/best-board-game-deals)<!-- GAME:END -->
+ - [Yoshi-P is just as confused about Final Fantasy 14 players being horny for a two-headed lizard as I am: &#39;I would never have guessed this&#39;](https://www.pcgamer.com/games/final-fantasy/yoshi-p-is-just-as-confused-about-final-fantasy-14-players-being-horny-for-a-two-headed-lizard-as-i-am-i-would-never-have-guessed-this)
+ - [Rejoice! Save more than 50% on the Complete Calvin and Hobbes for Prime Day](https://www.polygon.com/amazon-prime-day/24190884/calvin-hobbes-complete-bill-watterson-mysteries-deal-sales)
+ - [The best Lord of the Rings deals for Prime Day](https://www.polygon.com/amazon-prime-day/24191453/best-lotr-deals-books-movies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
