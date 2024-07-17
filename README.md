@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify launches a new voice and language for its AI DJ](https://www.theverge.com/2024/7/17/24200511/spotify-ai-dj-spanish-language-update-playlist-feature)
- - [Best 50+ Prime Day deals on Apple to grab before the sale ends tonight](https://appleinsider.com/articles/24/07/17/best-50-prime-day-deals-on-apple-to-grab-before-the-sale-ends-tonight?utm_medium=rss)
- - [The best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)<!-- TECH:END -->
+ - [Samsung is prepping its phones for satellite communication &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-satellite-3461852/)
+ - [T-Mobile was the fastest US mobile network in H1 2024, with a Speed Score, which combines download and upload speeds, of ~206, vs. AT&amp;T&#39;s ~112, Verizon&#39;s ~108 &lpar;Ookla&rpar;](http://www.techmeme.com/240717/p23#a240717p23)
+ - [Apple executives talk about the origins of Math Notes in iPadOS 18](https://appleinsider.com/articles/24/07/17/apple-executives-talk-about-the-origins-of-math-notes-in-ipados-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
