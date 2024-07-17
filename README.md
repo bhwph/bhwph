@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany-based One Data, which provides AI-powered enterprise data management software, raised a &amp;euro;32M Series B extension led by Vsquared, Molten, and HV Capital &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240716/p31#a240716p31)
- - [The best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)
- - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)<!-- TECH:END -->
+ - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)
+ - [Prime Day deals: Apple&#39;s Mac mini falls to $479; 16GB RAM, 512GB SSD model $799 &lpar;$200 off&rpar;](https://appleinsider.com/articles/24/07/17/prime-day-deals-apples-mac-mini-falls-to-479-16gb-ram-512gb-ssd-model-799-200-off?utm_medium=rss)
+ - [Amazon Prime Day 2024: 140+ Hottest Amazon Prime Day Deals Vetted by Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
