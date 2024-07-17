@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: GitLab, which has a market cap of ~$8B, is exploring a sale after attracting interest from peers, including Datadog, which has a market cap of $44B &lpar;Reuters&rpar;](http://www.techmeme.com/240717/p5#a240717p5)
- - [The Claude app for Android is finally here](https://www.androidauthority.com/claude-android-app-launch-3461043/)
- - [ASML reports Q2 net sales of &amp;euro;6.24B &lpar;$6.8B&rpar; vs. &amp;euro;6.03B est., net income of &amp;euro;1.58B vs. &amp;euro;1.43B est., and expects 2024 total net sales to be similar to 2023 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240717/p4#a240717p4)<!-- TECH:END -->
+ - [Dealogic: foreign capital in China&#39;s VC industry fell 60% YoY to $3.7B in 2023, just 10% of the 2021 peak, leading to an expansion of state-backed funds &lpar;South China Morning Post&rpar;](http://www.techmeme.com/240717/p9#a240717p9)
+ - [Twitter looking wonky on your foldable? The Galaxy Z Fold 6 has a workaround.](https://www.androidauthority.com/galaxy-z-fold-6-narrow-view-option-3461653/)
+ - [New features coming to Files by Google: Compress files and pin collections &lpar;APK Teardown&rpar;](https://www.androidauthority.com/files-google-new-features-3461452/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
