@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The moment when Trump arrived at hospital. The lady from the secret service still has issues with her holster...](http://9gag.com/gag/aVveQew)
- - 😝 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)
- - 👉 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)<!-- MEMES:END -->
+ - 6️⃣ [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
+ - 😝 [Smell of Pepsi](http://9gag.com/gag/a0ejP9X)
+ - 👉 [Ozzy](http://9gag.com/gag/aD2G0Dx)<!-- MEMES:END -->
 
 --- 
 
