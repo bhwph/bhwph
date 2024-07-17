@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
- - 😝 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
- - 👉 [Fatality](http://9gag.com/gag/aBy19gZ)<!-- MEMES:END -->
+ - 6️⃣ [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)
+ - 😝 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)
+ - 👉 [Just some cars crashing into each other.HOLY-SHIT -IT&#39;S A UNICORN..](http://9gag.com/gag/a2v5E0E)<!-- MEMES:END -->
 
 --- 
 
