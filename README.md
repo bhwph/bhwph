@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI CEO Sam Altman’s $27 million mansion is a ‘lemon’ with a leaky pool, lawsuit alleges](https://www.theverge.com/2024/7/17/24200354/sam-altman-san-francisco-mansion-lawsuit-lemon-openai)
- - [Last call to grab an Apple AirTag for just $23.99 during Prime Day](https://appleinsider.com/articles/24/07/17/last-call-to-grab-an-apple-airtag-for-just-2399-during-prime-day?utm_medium=rss)
- - [Home Depot’s viral giant skeleton has some upgrades — and lots of new friends](https://www.theverge.com/2024/7/17/24199821/home-depot-halloween-2024-skelly-skeleton)<!-- TECH:END -->
+ - [Spotify launches a new voice and language for its AI DJ](https://www.theverge.com/2024/7/17/24200511/spotify-ai-dj-spanish-language-update-playlist-feature)
+ - [Best 50+ Prime Day deals on Apple to grab before the sale ends tonight](https://appleinsider.com/articles/24/07/17/best-50-prime-day-deals-on-apple-to-grab-before-the-sale-ends-tonight?utm_medium=rss)
+ - [The best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
