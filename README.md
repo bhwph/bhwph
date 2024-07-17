@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)
- - 😝 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
- - 👉 [Fatality](http://9gag.com/gag/aBy19gZ)<!-- MEMES:END -->
+ - 6️⃣ [Fatality](http://9gag.com/gag/aBy19gZ)
+ - 😝 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
+ - 👉 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)<!-- MEMES:END -->
 
 --- 
 
