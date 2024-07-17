@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The 5 most famous laws in the world](http://9gag.com/gag/ayN85BX)
- - 😝 [Yoinkers](http://9gag.com/gag/aKG3wRN)
- - 👉 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)<!-- MEMES:END -->
+ - 6️⃣ [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
+ - 😝 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
+ - 👉 [Fatality](http://9gag.com/gag/aBy19gZ)<!-- MEMES:END -->
 
 --- 
 
