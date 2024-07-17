@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: in an informal inquiry, the US FTC has asked Amazon to provide more details on its deal to hire top executives and license tech from AI startup Adept &lpar;Reuters&rpar;](http://www.techmeme.com/240716/p23#a240716p23)
- - [The best mobile accessories Prime Day deals](https://www.androidauthority.com/mobile-accessories-prime-day-deals-3461531/)
- - [The best smart home Prime Day deals](https://www.androidauthority.com/best-smart-home-prime-day-deals-3461503/)<!-- TECH:END -->
+ - [Flash deal: Apple&#39;s 1TB 14-inch MacBook Pro M3 Pro drops to $1,899](https://appleinsider.com/articles/24/07/17/flash-deal-apples-1tb-14-inch-macbook-pro-m3-pro-drops-to-1899?utm_medium=rss)
+ - [Sources: Disney is working on features to increase the hours viewers spend on streaming, including pop-up live channels and more-tailored recommendations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240716/p28#a240716p28)
+ - [The best Prime Day phone and accessory deals you can get right now](https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
