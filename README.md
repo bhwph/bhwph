@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo World Championships: NES Edition is all about millennials killing milliseconds](https://www.polygon.com/reviews/24199926/nintendo-world-championships-nes-edition-review-switch)
- - [Flintlock: The Siege Of Dawn: The Kotaku Review](https://kotaku.com/flintlock-game-review-soulslike-ashen-difficult-1851595559)
- - [Flintlock: The Siege of Dawn review](https://www.pcgamer.com/games/action/flintlock-the-siege-of-dawn-review)<!-- GAME:END -->
+ - [Free George R. R. Martin from The Winds of Winter](https://www.polygon.com/24196597/free-george-r-r-martin-grrm-winds-of-winter-game-of-thrones-book-deadline)
+ - [So many great Lego sets are 20% off for Prime Day](https://www.polygon.com/amazon-prime-day/24199715/best-deals-lego-sets)
+ - [The best Prime Day deals on D&amp;D, Magic: The Gathering, and more](https://www.polygon.com/amazon-prime-day/2024/7/17/24200331/best-deals-board-games-gaming-toys)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
