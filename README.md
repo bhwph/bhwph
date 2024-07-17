@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asphalt Legends Unite Transforms the Game – and Adds a Brand-New Mode!](https://news.xbox.com/en-us/2024/07/17/asphalt-legends-unite-new-mode/)
- - [The best gaming deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games)
- - [Fantasy becomes reality in Neverness to Everness, a supernatural, urban, open-world anime game built in UE5](https://www.pcgamer.com/games/life-sim/fantasy-becomes-reality-in-neverness-to-everness-a-supernatural-urban-open-world-anime-game-built-in-ue5)<!-- GAME:END -->
+ - [Nintendo World Championships: NES Edition is all about millennials killing milliseconds](https://www.polygon.com/reviews/24199926/nintendo-world-championships-nes-edition-review-switch)
+ - [Flintlock: The Siege Of Dawn: The Kotaku Review](https://kotaku.com/flintlock-game-review-soulslike-ashen-difficult-1851595559)
+ - [Flintlock: The Siege of Dawn review](https://www.pcgamer.com/games/action/flintlock-the-siege-of-dawn-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
