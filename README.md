@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
- - 😝 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
- - 👉 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)<!-- MEMES:END -->
+ - 6️⃣ [Meanwhile in Ireland, police clash with local protesters in Coolocks over plan to move hundreds of refugees into their town. Residents set a new migrant center construction on fire.](http://9gag.com/gag/a0ej8pZ)
+ - 😝 [Its feels time!](http://9gag.com/gag/azxAgoz)
+ - 👉 [The car is lava](http://9gag.com/gag/aYQLjAm)<!-- MEMES:END -->
 
 --- 
 
