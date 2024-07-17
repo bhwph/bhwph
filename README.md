@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day TV Deals: Up to $1,500 Off Sony, Samsung, LG and More](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-07-17/#ftag=CAD590a51e)
- - [Amazon Prime Day 2024: 131 Must-See Amazon Prime Day Deals Handpicked by Our Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)
- - [13 Best Amazon Prime Day Monitor Deals: Save Up to 45% on Acer, Alienware, LG and More](https://www.cnet.com/deals/best-prime-day-monitor-deals-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vietnam camera supplier added for M5 MacBook Pro](https://appleinsider.com/articles/24/07/17/vietnam-camera-supplier-added-for-m5-macbook-pro?utm_medium=rss)
+ - [Human Interest, a 401&lpar;k&rpar; provider for SMBs that aims to cut down on administration and compliance work, raised $267M in equity and debt at a $1.33B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240717/p16#a240717p16)
+ - [Don&#39;t Wait to Plan Your Holiday Travel. Booking Now Could Save You Thousands](https://www.cnet.com/personal-finance/credit-cards/dont-wait-to-plan-your-holiday-travel-booking-now-could-save-you-thousands/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
