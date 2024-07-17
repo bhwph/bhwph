@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fatality](http://9gag.com/gag/aBy19gZ)
- - 😝 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
- - 👉 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)<!-- MEMES:END -->
+ - 6️⃣ [Meanwhile in Ireland, police clash with local protesters in Coolocks over plan to move hundreds of refugees into their town. Residents set a new migrant center construction on fire.](http://9gag.com/gag/a0ej8pZ)
+ - 😝 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
+ - 👉 [Fatality](http://9gag.com/gag/aBy19gZ)<!-- MEMES:END -->
 
 --- 
 
