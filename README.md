@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)
- - [Prime Day deals: Apple&#39;s Mac mini falls to $479; 16GB RAM, 512GB SSD model $799 &lpar;$200 off&rpar;](https://appleinsider.com/articles/24/07/17/prime-day-deals-apples-mac-mini-falls-to-479-16gb-ram-512gb-ssd-model-799-200-off?utm_medium=rss)
- - [Amazon Prime Day 2024: 140+ Hottest Amazon Prime Day Deals Vetted by Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-16/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: GitLab, which has a market cap of ~$8B, is exploring a sale after attracting interest from peers, including Datadog, which has a market cap of $44B &lpar;Reuters&rpar;](http://www.techmeme.com/240717/p5#a240717p5)
+ - [The Claude app for Android is finally here](https://www.androidauthority.com/claude-android-app-launch-3461043/)
+ - [ASML reports Q2 net sales of &amp;euro;6.24B &lpar;$6.8B&rpar; vs. &amp;euro;6.03B est., net income of &amp;euro;1.58B vs. &amp;euro;1.43B est., and expects 2024 total net sales to be similar to 2023 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240717/p4#a240717p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
