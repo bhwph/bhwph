@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is prepping its phones for satellite communication &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-satellite-3461852/)
- - [T-Mobile was the fastest US mobile network in H1 2024, with a Speed Score, which combines download and upload speeds, of ~206, vs. AT&amp;T&#39;s ~112, Verizon&#39;s ~108 &lpar;Ookla&rpar;](http://www.techmeme.com/240717/p23#a240717p23)
- - [Apple executives talk about the origins of Math Notes in iPadOS 18](https://appleinsider.com/articles/24/07/17/apple-executives-talk-about-the-origins-of-math-notes-in-ipados-18?utm_medium=rss)<!-- TECH:END -->
+ - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)
+ - [This high-tech earplug allows users to control sound on the go](https://www.androidauthority.com/loop-switch-earplug-sound-control-3460998/)
+ - [A long-delayed hands-on with Essential’s skinny Android phone](https://www.theverge.com/2024/7/17/24200617/essential-phone-project-gem-ph-2-prototype-hands-on-video)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
