@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We’ve found the best Prime Day deals you can get right now](https://www.polygon.com/amazon-prime-day/2024/7/17/24200331/best-deals-board-games-gaming-toys)
- - [Here&#39;s How Today&#39;s Best-Selling Games Compare To Those From 20 Years Ago](https://kotaku.com/best-selling-games-2024-2004-ncaa-spider-man-shrek-ps2-1851597357)
- - [The cheapest Xbox console is a Fire TV Stick, now half off for Prime Day](https://www.polygon.com/amazon-prime-day/2024/7/17/24200649/fire-tv-4k-deal-xbox-game-pass-ultimate)<!-- GAME:END -->
+ - [The most popular Amazon Prime Day deals for Polygon readers](https://www.polygon.com/amazon-prime-day/24194286/favorite-gaming-deals-most-popular)
+ - [Apex Legends suffers close to 30,000 negative Steam reviews in one week as the battle pass bombing campaign continues](https://www.pcgamer.com/games/battle-royale/apex-legends-suffers-close-to-30000-negative-steam-reviews-in-one-week-as-the-battle-pass-bombing-campaign-continues)
+ - [The 50 Best Xbox Summer Sale 2024 Deals](https://kotaku.com/best-biggest-deals-low-prices-list-xbox-summer-sale-1851597604)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
