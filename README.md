@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of Star Wars’ most fascinating characters had a cameo in The Acolyte](https://www.polygon.com/star-wars/24200243/star-wars-acolyte-darth-plagueis-sith-cave-master)
- - [Today&#39;s Wordle answer for Wednesday, July 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-17-2024)
- - [Is Star Wars: The Acolyte just an elaborate Force choke origin story?](https://www.polygon.com/star-wars/24181235/star-wars-acolyte-mae-master-jedi-force-choke-origin)<!-- GAME:END -->
+ - [Asphalt Legends Unite Transforms the Game – and Adds a Brand-New Mode!](https://news.xbox.com/en-us/2024/07/17/asphalt-legends-unite-new-mode/)
+ - [The best gaming deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games)
+ - [Fantasy becomes reality in Neverness to Everness, a supernatural, urban, open-world anime game built in UE5](https://www.pcgamer.com/games/life-sim/fantasy-becomes-reality-in-neverness-to-everness-a-supernatural-urban-open-world-anime-game-built-in-ue5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
