@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [People in the crypto space should not choose political allegiances based on who claims to be &quot;pro-crypto&quot;, as they might go against crypto&#39;s underlying goals &lpar;Vitalik Buterin&rpar;](http://www.techmeme.com/240717/p29#a240717p29)
  - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)
- - [This high-tech earplug allows users to control sound on the go](https://www.androidauthority.com/loop-switch-earplug-sound-control-3460998/)
- - [A long-delayed hands-on with Essential’s skinny Android phone](https://www.theverge.com/2024/7/17/24200617/essential-phone-project-gem-ph-2-prototype-hands-on-video)<!-- TECH:END -->
+ - [Here are our favorite tech deals from the last day of Prime Day](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
