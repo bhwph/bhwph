@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
- - 😝 [Smell of Pepsi](http://9gag.com/gag/a0ejP9X)
- - 👉 [Ozzy](http://9gag.com/gag/aD2G0Dx)<!-- MEMES:END -->
+ - 😝 [Ozzy](http://9gag.com/gag/aD2G0Dx)
+ - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
 
 --- 
 
