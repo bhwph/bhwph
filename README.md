@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You should hear the tragedy of Darth Plagueis, one of the great Star Wars books](https://www.polygon.com/24200462/star-wars-darth-plagueis-book-connection-acolyte)
- - [Sega Sues Online Troll Who Harassed Its Staff, And Wins](https://kotaku.com/sega-sues-online-troll-defamation-lawsuit-1851596985)
- - [The best Prime Day deals on D&amp;D, Magic: The Gathering, and more](https://www.polygon.com/amazon-prime-day/2024/7/17/24200331/best-deals-board-games-gaming-toys)<!-- GAME:END -->
+ - [We’ve found the best Prime Day deals you can get right now](https://www.polygon.com/amazon-prime-day/2024/7/17/24200331/best-deals-board-games-gaming-toys)
+ - [Here&#39;s How Today&#39;s Best-Selling Games Compare To Those From 20 Years Ago](https://kotaku.com/best-selling-games-2024-2004-ncaa-spider-man-shrek-ps2-1851597357)
+ - [The cheapest Xbox console is a Fire TV Stick, now half off for Prime Day](https://www.polygon.com/amazon-prime-day/2024/7/17/24200649/fire-tv-4k-deal-xbox-game-pass-ultimate)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
