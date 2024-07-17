@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deal: Apple&#39;s 1TB 14-inch MacBook Pro M3 Pro drops to $1,899](https://appleinsider.com/articles/24/07/17/flash-deal-apples-1tb-14-inch-macbook-pro-m3-pro-drops-to-1899?utm_medium=rss)
- - [Sources: Disney is working on features to increase the hours viewers spend on streaming, including pop-up live channels and more-tailored recommendations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240716/p28#a240716p28)
- - [The best Prime Day phone and accessory deals you can get right now](https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024)<!-- TECH:END -->
+ - [Germany-based One Data, which provides AI-powered enterprise data management software, raised a &amp;euro;32M Series B extension led by Vsquared, Molten, and HV Capital &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240716/p31#a240716p31)
+ - [The best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)
+ - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
