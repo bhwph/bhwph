@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dealogic: foreign capital in China&#39;s VC industry fell 60% YoY to $3.7B in 2023, just 10% of the 2021 peak, leading to an expansion of state-backed funds &lpar;South China Morning Post&rpar;](http://www.techmeme.com/240717/p9#a240717p9)
- - [Twitter looking wonky on your foldable? The Galaxy Z Fold 6 has a workaround.](https://www.androidauthority.com/galaxy-z-fold-6-narrow-view-option-3461653/)
- - [New features coming to Files by Google: Compress files and pin collections &lpar;APK Teardown&rpar;](https://www.androidauthority.com/files-google-new-features-3461452/)<!-- TECH:END -->
+ - [Best Prime Day TV Deals: Up to $1,500 Off Sony, Samsung, LG and More](https://www.cnet.com/deals/best-prime-day-tv-deals-2024-07-17/#ftag=CAD590a51e)
+ - [Amazon Prime Day 2024: 131 Must-See Amazon Prime Day Deals Handpicked by Our Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)
+ - [13 Best Amazon Prime Day Monitor Deals: Save Up to 45% on Acer, Alienware, LG and More](https://www.cnet.com/deals/best-prime-day-monitor-deals-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
