@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vietnam camera supplier added for M5 MacBook Pro](https://appleinsider.com/articles/24/07/17/vietnam-camera-supplier-added-for-m5-macbook-pro?utm_medium=rss)
- - [Human Interest, a 401&lpar;k&rpar; provider for SMBs that aims to cut down on administration and compliance work, raised $267M in equity and debt at a $1.33B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240717/p16#a240717p16)
- - [Don&#39;t Wait to Plan Your Holiday Travel. Booking Now Could Save You Thousands](https://www.cnet.com/personal-finance/credit-cards/dont-wait-to-plan-your-holiday-travel-booking-now-could-save-you-thousands/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI CEO Sam Altman’s $27 million mansion is a ‘lemon’ with a leaky pool, lawsuit alleges](https://www.theverge.com/2024/7/17/24200354/sam-altman-san-francisco-mansion-lawsuit-lemon-openai)
+ - [Last call to grab an Apple AirTag for just $23.99 during Prime Day](https://appleinsider.com/articles/24/07/17/last-call-to-grab-an-apple-airtag-for-just-2399-during-prime-day?utm_medium=rss)
+ - [Home Depot’s viral giant skeleton has some upgrades — and lots of new friends](https://www.theverge.com/2024/7/17/24199821/home-depot-halloween-2024-skelly-skeleton)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
