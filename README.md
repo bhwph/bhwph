@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer magazine&#39;s new issue is on sale now: World of Warcraft: The War Within](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-world-of-warcraft-the-war-within)
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [Pokémon Go ‘Whispers in the Woods’ Masterwork Research tasks and rewards so far](https://www.polygon.com/pokemon-go-guide/24188008/whispering-in-the-woods-masterwork-research-tasks-rewards-shiny-celebi)<!-- GAME:END -->
+ - [Russian antivirus giant Kaspersky says do svidaniya to US customers with 6 months of free software: &#39;stay safe&#39;](https://www.pcgamer.com/gaming-industry/russian-antivirus-giant-kaspersky-says-do-svidaniya-to-us-customers-with-6-months-of-free-software-stay-safe)
+ - [Schim: How the shadow-jumping adventure prioritizes accessibility, out July 18](https://blog.playstation.com/2024/07/18/schim-how-the-shadow-jumping-adventure-prioritizes-accessibility-out-july-18/)
+ - [I&#39;ve never been interested in League of Legends but its new Vampire Survivors mode might be the thing that kickstarts my esports career](https://www.pcgamer.com/games/moba/ive-never-been-interested-in-league-of-legends-but-its-new-vampire-survivors-mode-might-be-the-thing-that-kickstarts-my-esports-career)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
