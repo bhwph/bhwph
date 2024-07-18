@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons of Hinterberg](https://www.pcgamer.com/games/rpg/dungeons-of-hinterberg)
- - [All the Boys season 5 news we’ve heard so far](https://www.polygon.com/24199837/boys-season-5-release-date-cast-news)
- - [Clickolding&#39;s Click Daddy made me his Click Piggy, oink oink](https://www.pcgamer.com/games/horror/clickoldings-click-daddy-made-me-his-click-piggy-oink-oink)<!-- GAME:END -->
+ - [PC Gamer magazine&#39;s new issue is on sale now: World of Warcraft: The War Within](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-world-of-warcraft-the-war-within)
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
+ - [Pokémon Go ‘Whispers in the Woods’ Masterwork Research tasks and rewards so far](https://www.polygon.com/pokemon-go-guide/24188008/whispering-in-the-woods-masterwork-research-tasks-rewards-shiny-celebi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
