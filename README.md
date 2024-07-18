@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gboard might soon let users switch to a different font &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-change-font-apk-3462256/)
- - [Splitgate’s portal-hopping sequel announced for next year](https://www.theverge.com/2024/7/18/24201104/splitgate-2-trailer-xbox-playstation-pc)
- - [Metaverse expert Matthew Ball still believes in the 3D internet](https://www.theverge.com/24201098/metaverse-matthew-ball-apple-vision-pro-fortnite-gaming-spatial-internet-3d-decoder-interview)<!-- TECH:END -->
+ - [Boost Mobile and Boost Infinite merge, now offers postpaid and prepaid under one brand](https://www.androidauthority.com/boost-mobile-new-plans-3462340/)
+ - [An ex-Reality Labs manager says Meta asked the unit to cut spending by ~20% between 2024-2026; Meta plans two Quest 4 versions in 2026 and Quest Pro 2 in 2027 &lpar;The Information&rpar;](http://www.techmeme.com/240718/p21#a240718p21)
+ - [Intel veteran Lisa Spelman plans to become CEO of Cornelis, a networking startup spun off from Intel in 2020, on August 15; Spelman worked at Intel for 20 years &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240718/p20#a240718p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
