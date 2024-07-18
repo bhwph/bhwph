@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [150+ Best Prime Day Deals: Final Hours to Score Deep Discounts on Tech, Home Goods and So Much More](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)
- - [China has been ASML&#39;s biggest market for four quarters in a row, with sales rising 21% YoY to &amp;euro;2.3B in Q2 2024, accounting for 49% of the company&#39;s sales &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240718/p2#a240718p2)
- - [I Use My Stanley Tumblers Every Day, and They&#39;re on Sale for Prime Day&#39;s Last Day](https://www.cnet.com/deals/i-use-my-stanley-tumblers-every-day-and-theyre-on-sale-for-prime-days-last-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Tim Sweeney and Neal Stephenson on their definitions of &quot;Metaverse&quot;, Fortnite, Apple Vision Pro, blockchains, generative AI, and more &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/240718/p4#a240718p4)
+ - [The next Nothing Phone could be a Plus](https://www.androidauthority.com/nothing-phone-2a-plus-coming-3461640/)
+ - [TSMC reports Q2 revenue up 40.1% YoY to $20.82B and net income up 36.3% YoY to $7.62B, both above estimates, as demand for advanced AI chips continue to surge &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240718/p3#a240718p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
