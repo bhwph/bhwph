@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Prime Day deals still available](https://www.polygon.com/amazon-prime-day/2024/7/18/24200717/best-deals-still-available)
- - [Concord Open Beta gameplay tips](https://blog.playstation.com/2024/07/18/concord-open-beta-gameplay-tips/)
- - [How to Navigate the Shadows in Schim, Out Now on Xbox](https://news.xbox.com/en-us/2024/07/18/how-to-navigate-the-shadows-in-schim-out-now-on-xbox/)<!-- GAME:END -->
+ - [Overwatch 2&#39;s new support hero Juno joins the roster in August, but you can play her for free this weekend](https://www.pcgamer.com/games/fps/overwatch-2s-new-support-hero-juno-joins-the-roster-in-august-but-you-can-play-her-for-free-this-weekend)
+ - [Overwatch 2’s next hero, Juno, revealed — and she’s playable this weekend](https://www.polygon.com/24200684/overwatch-2-space-ranger-release-date-juno-season-12)
+ - [Mortal Kombat 1: Takeda’s disarming Brutality revealed](https://blog.playstation.com/2024/07/18/mortal-kombat-1-takedas-disarming-brutality-revealed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
