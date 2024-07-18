@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Max is half off if you sign up for college](https://www.polygon.com/deals/2024/7/18/24201426/hbo-max-college-student-discount)
- - [82 Percent Of Adult Gamers Have Spent Money In A F2P Game, New Study Shows](https://kotaku.com/free-to-play-mtx-adults-82-video-games-usa-comscore-1851599100)
- - [Dungeons 4 Heads West in New DLC: The Good, the Bad, and the Evil](https://news.xbox.com/en-us/2024/07/18/dungeons-4-new-dlc-the-good-the-bad-and-the-evil/)<!-- GAME:END -->
+ - [FTC Calls Xbox Game Pass Price Hike &#39;Exactly The Sort Of Consumer Harm&#39; It Tried To Stop](https://kotaku.com/xbox-game-pass-price-ftc-black-ops-6-appeal-1851599323)
+ - [The First Descendant changes Destiny 2 lookalike icons, but Nexon still won&#39;t say how they ended up in the game](https://www.pcgamer.com/games/third-person-shooter/the-first-descendant-changes-destiny-2-lookalike-icons-but-nexon-still-wont-say-how-they-ended-up-in-the-game)
+ - [The Immortal Lock is a gnarly new Quake map that&#39;s meatier than some entire FPS campaigns—literally and figuratively](https://www.pcgamer.com/games/fps/the-immortal-lock-is-a-gnarly-new-quake-map-thats-meatier-than-some-entire-fps-campaignsliterally-and-figuratively)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
