@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shake it off](http://9gag.com/gag/agmGyEv)
- - 😝 [The same searches did a few years ago. The results are completely different and contradicting....](http://9gag.com/gag/a5Qre3N)
- - 👉 [Totally worth it](http://9gag.com/gag/aAyPYoR)<!-- MEMES:END -->
+ - 6️⃣ [Someone had to say it \u2764\ufe0f](http://9gag.com/gag/aYQLwEN)
+ - 😝 [Not alarming at all](http://9gag.com/gag/avynLmd)
+ - 👉 [Yeah...](http://9gag.com/gag/aVveQ2K)<!-- MEMES:END -->
 
 --- 
 
