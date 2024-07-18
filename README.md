@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy](http://9gag.com/gag/aVvePO2)
- - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
- - 👉 [No title](http://9gag.com/gag/aE0n1rx)<!-- MEMES:END -->
+ - 6️⃣ [Shake it off](http://9gag.com/gag/agmGyEv)
+ - 😝 [The same searches did a few years ago. The results are completely different and contradicting....](http://9gag.com/gag/a5Qre3N)
+ - 👉 [Totally worth it](http://9gag.com/gag/aAyPYoR)<!-- MEMES:END -->
 
 --- 
 
