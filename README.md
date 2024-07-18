@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Starcraft - 1950s movie](http://9gag.com/gag/a7odKnb)
- - 😝 [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)
- - 👉 [The did not break character](http://9gag.com/gag/ae9637v)<!-- MEMES:END -->
+ - 6️⃣ [What are u doing, woman??](http://9gag.com/gag/aAyPBME)
+ - 😝 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
+ - 👉 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)<!-- MEMES:END -->
 
 --- 
 
