@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2&#39;s new support hero Juno joins the roster in August, but you can play her for free this weekend](https://www.pcgamer.com/games/fps/overwatch-2s-new-support-hero-juno-joins-the-roster-in-august-but-you-can-play-her-for-free-this-weekend)
- - [Overwatch 2’s next hero, Juno, revealed — and she’s playable this weekend](https://www.polygon.com/24200684/overwatch-2-space-ranger-release-date-juno-season-12)
- - [Mortal Kombat 1: Takeda’s disarming Brutality revealed](https://blog.playstation.com/2024/07/18/mortal-kombat-1-takedas-disarming-brutality-revealed/)<!-- GAME:END -->
+ - [Damian Wayne irrevocably changed the Bat-family](https://www.polygon.com/24199927/batman-family-history)
+ - [Overwatch has managed to snag a whopping 100 million players in 8 years and is slapping your terrible K/D ratio into a fun montage to celebrate](https://www.pcgamer.com/games/fps/overwatch-has-managed-to-snag-a-whopping-100-million-players-in-8-years-and-is-slapping-your-terrible-kd-ratio-into-a-fun-montage-to-celebrate)
+ - [Splitgate 2 is coming in 2025 with a big promise from the developers: &#39;This is a revolutionary step forward for competitive shooters&#39;](https://www.pcgamer.com/games/fps/splitgate-2-is-coming-in-2025-with-a-big-promise-from-the-developers-this-is-a-revolutionary-step-forward-for-competitive-shooters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
