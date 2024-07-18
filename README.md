@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [People in the crypto space should not choose political allegiances based on who claims to be &quot;pro-crypto&quot;, as they might go against crypto&#39;s underlying goals &lpar;Vitalik Buterin&rpar;](http://www.techmeme.com/240717/p29#a240717p29)
- - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)
- - [Here are our favorite tech deals from the last day of Prime Day](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)<!-- TECH:END -->
+ - [Apple says its OpenELM model doesn&#39;t power any AI features, including Apple Intelligence, after a report said Apple used YouTube subtitles to train the model &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240717/p32#a240717p32)
+ - [The US SEC sues former DWAC CEO Patrick Orlando for allegedly misleading investors about his company&#39;s plans for a SPAC merger with Trump&#39;s social media company &lpar;Bloomberg&rpar;](http://www.techmeme.com/240717/p31#a240717p31)
+ - [The best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
