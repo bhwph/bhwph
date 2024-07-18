@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Tim Sweeney and Neal Stephenson on their definitions of &quot;Metaverse&quot;, Fortnite, Apple Vision Pro, blockchains, generative AI, and more &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/240718/p4#a240718p4)
- - [The next Nothing Phone could be a Plus](https://www.androidauthority.com/nothing-phone-2a-plus-coming-3461640/)
- - [TSMC reports Q2 revenue up 40.1% YoY to $20.82B and net income up 36.3% YoY to $7.62B, both above estimates, as demand for advanced AI chips continue to surge &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240718/p3#a240718p3)<!-- TECH:END -->
+ - [Indian crypto exchange WazirX says one of its multisig wallets &quot;experienced a security breach&quot; after $230M+ in withdrawals; WazirX had $500M in holdings in June &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240718/p7#a240718p7)
+ - [Rotterdam-based chip gear maker Nearfield raised a &amp;euro;135M Series C led by Walden Catalyst Management and Temasek, and &quot;is on track to become a unicorn by 2026&quot; &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240718/p6#a240718p6)
+ - [WhatsApp’s auto-translate feature may not adopt Google tech after all](https://www.androidauthority.com/whatsapp-translate-may-not-adopt-google-3462143/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
