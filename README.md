@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian crypto exchange WazirX says one of its multisig wallets &quot;experienced a security breach&quot; after $230M+ in withdrawals; WazirX had $500M in holdings in June &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240718/p7#a240718p7)
- - [Rotterdam-based chip gear maker Nearfield raised a &amp;euro;135M Series C led by Walden Catalyst Management and Temasek, and &quot;is on track to become a unicorn by 2026&quot; &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240718/p6#a240718p6)
- - [WhatsApp’s auto-translate feature may not adopt Google tech after all](https://www.androidauthority.com/whatsapp-translate-may-not-adopt-google-3462143/)<!-- TECH:END -->
+ - [Cellebrite can&#39;t crack iPhones running iOS 17.4 or later](https://appleinsider.com/articles/24/07/18/cellebrite-cant-crack-iphones-running-ios-174-or-later?utm_medium=rss)
+ - [Don’t do this when changing your Galaxy Buds 3 Pro ear tips](https://www.androidauthority.com/galaxy-buds-3-pro-ear-tips-tear-3462204/)
+ - [Sources: Meta has explored a multibillion-euro investment in eyewear group EssilorLuxottica, which makes the Ray Ban-Meta glasses, to expand its partnership &lpar;Financial Times&rpar;](http://www.techmeme.com/240718/p12#a240718p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
