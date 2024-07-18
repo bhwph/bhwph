@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cellebrite can&#39;t crack iPhones running iOS 17.4 or later](https://appleinsider.com/articles/24/07/18/cellebrite-cant-crack-iphones-running-ios-174-or-later?utm_medium=rss)
- - [Don’t do this when changing your Galaxy Buds 3 Pro ear tips](https://www.androidauthority.com/galaxy-buds-3-pro-ear-tips-tear-3462204/)
- - [Sources: Meta has explored a multibillion-euro investment in eyewear group EssilorLuxottica, which makes the Ray Ban-Meta glasses, to expand its partnership &lpar;Financial Times&rpar;](http://www.techmeme.com/240718/p12#a240718p12)<!-- TECH:END -->
+ - [Gboard might soon let users switch to a different font &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-change-font-apk-3462256/)
+ - [Splitgate’s portal-hopping sequel announced for next year](https://www.theverge.com/2024/7/18/24201104/splitgate-2-trailer-xbox-playstation-pc)
+ - [Metaverse expert Matthew Ball still believes in the 3D internet](https://www.theverge.com/24201098/metaverse-matthew-ball-apple-vision-pro-fortnite-gaming-spatial-internet-3d-decoder-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
