@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spent thousands getting tickets, booking accommodation and flights to go to their concert in Australia....they broke up and cancelled due to kyle gas&#39; comments about the shooter missing trump...](http://9gag.com/gag/an71YrE)
- - 😝 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
- - 👉 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)<!-- MEMES:END -->
+ - 6️⃣ [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
+ - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
+ - 👉 [The same searches did a few years ago. The results are completely different and contradicting....](http://9gag.com/gag/a5Qre3N)<!-- MEMES:END -->
 
 --- 
 
