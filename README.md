@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
- - 😝 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - 👉 [The same searches did a few years ago. The results are completely different and contradicting....](http://9gag.com/gag/a5Qre3N)<!-- MEMES:END -->
+ - 6️⃣ [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
+ - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 👉 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)<!-- MEMES:END -->
 
 --- 
 
