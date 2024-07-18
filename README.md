@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence wasn&#39;t trained on stolen YouTube videos](https://appleinsider.com/articles/24/07/18/apple-intelligence-wasnt-trained-on-stolen-youtube-videos?utm_medium=rss)
- - [The best last-minute Prime Day deals you can still grab](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)
- - [The best Prime Day deals on the Verge’s favorite desk accessories](https://www.theverge.com/24200654/amazon-prime-day-deals-desk-acessories-keyboards-lighting-webcams)<!-- TECH:END -->
+ - [Leaked docs show Cellebrite couldn&#39;t forcibly unlock any iPhone running iOS 17.4 or newer as of April 2024; most of the listed Android devices could be unlocked &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240718/p1#a240718p1)
+ - [Dyson unmasks its super customizable OnTrac headphones](https://www.theverge.com/2024/7/18/24200553/dyson-ontrac-headphones-customizable-ear-cups-cushions)
+ - [A look at the Cyberspace Administration of China, which oversees the country&#39;s AI and data strategy, as it relaxes some policies to promote economic growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/240717/p34#a240717p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
