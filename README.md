@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boost Mobile and Boost Infinite merge, now offers postpaid and prepaid under one brand](https://www.androidauthority.com/boost-mobile-new-plans-3462340/)
- - [An ex-Reality Labs manager says Meta asked the unit to cut spending by ~20% between 2024-2026; Meta plans two Quest 4 versions in 2026 and Quest Pro 2 in 2027 &lpar;The Information&rpar;](http://www.techmeme.com/240718/p21#a240718p21)
- - [Intel veteran Lisa Spelman plans to become CEO of Cornelis, a networking startup spun off from Intel in 2020, on August 15; Spelman worked at Intel for 20 years &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240718/p20#a240718p20)<!-- TECH:END -->
+ - [Google, OpenAI, Microsoft, Nvidia, and others form the Coalition for Secure AI to share best practices and open-source methodologies for secure AI deployment &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240718/p25#a240718p25)
+ - [Elephants and big waves are subjects of inbound Immersive Video releases](https://appleinsider.com/articles/24/07/18/elephants-and-big-waves-are-subjects-of-inbound-immersive-video-releases?utm_medium=rss)
+ - [Apple is launching new immersive video content for the Vision Pro over the next few months, including content from The Weeknd and the 2024 NBA All-Star Weekend &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240718/p24#a240718p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
