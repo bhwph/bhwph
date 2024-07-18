@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ozzy](http://9gag.com/gag/aD2G0Dx)
- - 😝 [Nice and naturally](http://9gag.com/gag/a9yYdyD)
- - 👉 [Ubisoft tried to pass Zoro&#39;s Sandai Kitetsu as Yasuke&#39;s sword](http://9gag.com/gag/a9yYdZj)<!-- MEMES:END -->
+ - 6️⃣ [G.O.A.T](http://9gag.com/gag/aPAWy1w)
+ - 😝 [Owner saves dog from coyote that owed him money](http://9gag.com/gag/aYQLW7N)
+ - 👉 [No overtime](http://9gag.com/gag/aGyDK2X)<!-- MEMES:END -->
 
 --- 
 
