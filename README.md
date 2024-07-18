@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix reports Q2 revenue up 16.8% YoY to $9.56B, vs. $9.53B est., paid memberships up 16.5% YoY to 277.65M, vs. 274.4M est., net income up 44% YoY to $2.15B &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/240718/p30#a240718p30)
- - [The Acolyte’s first season made Star Wars’ dark past feel like a bright future](https://www.theverge.com/2024/7/18/24200454/the-acolyte-season-one-finale)
- - [Google set to purge the Play Store of low-quality apps](https://www.androidauthority.com/google-apps-play-store-3462390/)<!-- TECH:END -->
+ - [Netflix says its ad tier now accounts for over 45% of all signups in the markets where it&#39;s available, and ad tier memberships grew 34% QoQ in Q2 &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/240718/p33#a240718p33)
+ - [Deals: All Samsung Galaxy S24 variants are still on sale](https://www.androidauthority.com/samsung-galaxy-s24-plus-ultra-deals-3462398/)
+ - [Google reveals the Pixel 9 Pro Fold before it can leak again](https://www.theverge.com/2024/7/18/24201491/google-pixel-9-pro-fold-release-date-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
