@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What are u doing, woman??](http://9gag.com/gag/aAyPBME)
- - 😝 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
- - 👉 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)<!-- MEMES:END -->
+ - 6️⃣ [Ozzy](http://9gag.com/gag/aD2G0Dx)
+ - 😝 [Nice and naturally](http://9gag.com/gag/a9yYdyD)
+ - 👉 [Ubisoft tried to pass Zoro&#39;s Sandai Kitetsu as Yasuke&#39;s sword](http://9gag.com/gag/a9yYdZj)<!-- MEMES:END -->
 
 --- 
 
