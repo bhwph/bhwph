@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Damian Wayne irrevocably changed the Bat-family](https://www.polygon.com/24199927/batman-family-history)
- - [Overwatch has managed to snag a whopping 100 million players in 8 years and is slapping your terrible K/D ratio into a fun montage to celebrate](https://www.pcgamer.com/games/fps/overwatch-has-managed-to-snag-a-whopping-100-million-players-in-8-years-and-is-slapping-your-terrible-kd-ratio-into-a-fun-montage-to-celebrate)
- - [Splitgate 2 is coming in 2025 with a big promise from the developers: &#39;This is a revolutionary step forward for competitive shooters&#39;](https://www.pcgamer.com/games/fps/splitgate-2-is-coming-in-2025-with-a-big-promise-from-the-developers-this-is-a-revolutionary-step-forward-for-competitive-shooters)<!-- GAME:END -->
+ - [Max is half off if you sign up for college](https://www.polygon.com/deals/2024/7/18/24201426/hbo-max-college-student-discount)
+ - [82 Percent Of Adult Gamers Have Spent Money In A F2P Game, New Study Shows](https://kotaku.com/free-to-play-mtx-adults-82-video-games-usa-comscore-1851599100)
+ - [Dungeons 4 Heads West in New DLC: The Good, the Bad, and the Evil](https://news.xbox.com/en-us/2024/07/18/dungeons-4-new-dlc-the-good-the-bad-and-the-evil/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
