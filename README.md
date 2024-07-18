@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Russian antivirus giant Kaspersky says do svidaniya to US customers with 6 months of free software: &#39;stay safe&#39;](https://www.pcgamer.com/gaming-industry/russian-antivirus-giant-kaspersky-says-do-svidaniya-to-us-customers-with-6-months-of-free-software-stay-safe)
- - [Schim: How the shadow-jumping adventure prioritizes accessibility, out July 18](https://blog.playstation.com/2024/07/18/schim-how-the-shadow-jumping-adventure-prioritizes-accessibility-out-july-18/)
- - [I&#39;ve never been interested in League of Legends but its new Vampire Survivors mode might be the thing that kickstarts my esports career](https://www.pcgamer.com/games/moba/ive-never-been-interested-in-league-of-legends-but-its-new-vampire-survivors-mode-might-be-the-thing-that-kickstarts-my-esports-career)<!-- GAME:END -->
+ - [The best Prime Day deals still available](https://www.polygon.com/amazon-prime-day/2024/7/18/24200717/best-deals-still-available)
+ - [Concord Open Beta gameplay tips](https://blog.playstation.com/2024/07/18/concord-open-beta-gameplay-tips/)
+ - [How to Navigate the Shadows in Schim, Out Now on Xbox](https://news.xbox.com/en-us/2024/07/18/how-to-navigate-the-shadows-in-schim-out-now-on-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
