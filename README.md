@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The most popular Amazon Prime Day deals for Polygon readers](https://www.polygon.com/amazon-prime-day/24194286/favorite-gaming-deals-most-popular)
- - [Apex Legends suffers close to 30,000 negative Steam reviews in one week as the battle pass bombing campaign continues](https://www.pcgamer.com/games/battle-royale/apex-legends-suffers-close-to-30000-negative-steam-reviews-in-one-week-as-the-battle-pass-bombing-campaign-continues)
- - [The 50 Best Xbox Summer Sale 2024 Deals](https://kotaku.com/best-biggest-deals-low-prices-list-xbox-summer-sale-1851597604)<!-- GAME:END -->
+ - [Walton Goggins earns an &#39;Outstanding Actor&#39; Emmy nomination for playing a sexy noseless mutant in Fallout](https://www.pcgamer.com/movies-tv/walton-goggins-earns-an-outstanding-actor-emmy-nomination-for-playing-a-sexy-noseless-mutant-in-fallout)
+ - [Get the best Magic: The Gathering Prime Day deals before they end tonight](https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering)
+ - [The best Amazon Prime Day deals to get before the sale ends tonight](https://www.polygon.com/amazon-prime-day/2024/7/17/24200331/best-deals-board-games-gaming-toys)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
