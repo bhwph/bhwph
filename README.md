@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Somehow, the 11-year-old niche mil-sim Arma 3 managed to sell nearly 700,000 copies during the Steam Summer Sale](https://www.pcgamer.com/games/fps/somehow-the-11-year-old-niche-mil-sim-arma-3-managed-to-sell-nearly-700000-copies-during-the-steam-summer-sale)
- - [Stampede: Racing Royale – How Sumo Digital Built a 60-Player Kart Racer](https://news.xbox.com/en-us/2024/07/19/stampede-racing-royale-60-player-kart-racer/)
- - [13 glowing reviews of reviled movies](https://www.polygon.com/24194672/worst-movies-with-good-reviews)<!-- GAME:END -->
+ - [Twitch unbans Donald Trump: &#39;We believe there is value in hearing from Presidential nominees directly&#39;](https://www.pcgamer.com/hardware/streaming/twitch-unbans-donald-trump-we-believe-there-is-value-in-hearing-from-presidential-nominees-directly)
+ - [Donald Trump&#39;s Twitch Account Unbanned After 3+ Years](https://kotaku.com/donald-trump-unbanned-twitch-account-permanent-hateful-1851600315)
+ - [Official PlayStation Podcast Episode 490: Interview w/ Firewalk Studios on Concord](https://blog.playstation.com/2024/07/19/official-playstation-podcast-episode-490-interview-w-firewalk-studios-on-concord/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
