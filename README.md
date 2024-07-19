@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox says an outage is affecting the Xbox Store and subscriptions, and it is investigating the cause; the outage has been going on since at least 6:57PM ET &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240718/p37#a240718p37)
- - [Sources: Cellebrite gave the FBI unreleased tech to access the Trump shooter&#39;s phone, a &quot;newer Samsung model&quot;, after the FBI&#39;s first attempt to crack it failed &lpar;Bloomberg&rpar;](http://www.techmeme.com/240718/p36#a240718p36)
- - [Appeals Court Blocks the Rest of Biden&#39;s Student Loan Plan, Creating Uncertainty for Borrowers](https://www.cnet.com/personal-finance/loans/appeals-court-blocks-the-rest-of-bidens-student-loan-plan-creating-uncertainty-for-borrowers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Messari CEO Ryan Selkis says he ran &quot;too hot&quot; with X posts this week calling for war and sending immigrants back, after Messari management told him to cool it &lpar;Nick Baker/CoinDesk&rpar;](http://www.techmeme.com/240718/p40#a240718p40)
+ - [Montr&amp;eacute;al-based Planned, which offers corporate events and travel planning tools, raised a CAD$35M Series B led by Drive Capital &lpar;Bianca Bharti/BetaKit&rpar;](http://www.techmeme.com/240718/p39#a240718p39)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 19, #138](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-19-138/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
