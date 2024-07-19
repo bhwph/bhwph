@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s kiss of death is coming for your goo.gl links](https://www.androidauthority.com/when-google-will-break-googl-links-3462692/)
- - [Netflix added 8M subscribers in Q2 vs. 5M est., as it benefited from a crackdown on password-sharing and popular titles like Bridgerton and Baby Reindeer &lpar;Reuters&rpar;](http://www.techmeme.com/240719/p6#a240719p6)
- - [CrowdStrike CEO George Kurtz says &quot;the issue has been identified, isolated and a fix has been deployed&quot;, and CrowdStrike is working with impacted customers &lpar;George Kurtz/@george_kurtz&rpar;](http://www.techmeme.com/240719/p5#a240719p5)<!-- TECH:END -->
+ - [How do you like the new look of the Pixel 9 series?](https://www.androidauthority.com/pixel-9-series-design-poll-3462738/)
+ - [Android 15’s Device diagnostics tool is live in the latest beta](https://www.androidauthority.com/android-15-diagnostics-beta-4-3462726/)
+ - [Cops find $30k of fake Apple products in PA traffic stop](https://appleinsider.com/articles/24/07/19/cops-find-30k-of-fake-apple-products-in-pa-traffic-stop?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
