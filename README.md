@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Someone had to say it \u2764\ufe0f](http://9gag.com/gag/aYQLwEN)
- - 😝 [Not alarming at all](http://9gag.com/gag/avynLmd)
- - 👉 [Yeah...](http://9gag.com/gag/aVveQ2K)<!-- MEMES:END -->
+ - 6️⃣ [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
+ - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
+ - 👉 [Poor kid](http://9gag.com/gag/aVveXmy)<!-- MEMES:END -->
 
 --- 
 
