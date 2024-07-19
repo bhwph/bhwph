@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You&#39;ve been hit by; you&#39;ve been struck by; a smooth criminal](http://9gag.com/gag/ae96pLv)
- - 😝 [Adult sleepovers are underrated.](http://9gag.com/gag/a6ZQ7ON)
- - 👉 [The internet is really really great!](http://9gag.com/gag/ae96GjO)<!-- MEMES:END -->
+ - 6️⃣ [Anime logic](http://9gag.com/gag/avynLoX)
+ - 😝 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)
+ - 👉 [She loves me](http://9gag.com/gag/a874Ybd)<!-- MEMES:END -->
 
 --- 
 
