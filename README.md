@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I downloaded the right Star Wars](http://9gag.com/gag/aPAWGNR)
- - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
- - 👉 [That sums it up ....](http://9gag.com/gag/a34jjP1)<!-- MEMES:END -->
+ - 6️⃣ [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 😝 [This is one of the best insults that I ever heard](http://9gag.com/gag/aW4MMLd)
+ - 👉 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)<!-- MEMES:END -->
 
 --- 
 
