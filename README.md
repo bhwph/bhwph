@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei sues MediaTek in China over alleged infringement of its intellectual property patents; MediaTek says the lawsuit would have no significant impact &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240719/p3#a240719p3)
- - [It’s not just you: Windows PCs are BSOD’ing all over the world](https://www.androidauthority.com/windows-pc-bsod-global-outage-3462652/)
- - [CrowdStrike says it has &quot;widespread reports of BSODs on Windows hosts&quot;, impacting thousands of PCs and taking banks, airlines, broadcasters, and more offline &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240719/p2#a240719p2)<!-- TECH:END -->
+ - [Google’s kiss of death is coming for your goo.gl links](https://www.androidauthority.com/when-google-will-break-googl-links-3462692/)
+ - [Netflix added 8M subscribers in Q2 vs. 5M est., as it benefited from a crackdown on password-sharing and popular titles like Bridgerton and Baby Reindeer &lpar;Reuters&rpar;](http://www.techmeme.com/240719/p6#a240719p6)
+ - [CrowdStrike CEO George Kurtz says &quot;the issue has been identified, isolated and a fix has been deployed&quot;, and CrowdStrike is working with impacted customers &lpar;George Kurtz/@george_kurtz&rpar;](http://www.techmeme.com/240719/p5#a240719p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
