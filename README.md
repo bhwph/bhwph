@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
- - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
+ - 6️⃣ [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
+ - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
  - 👉 [Poor kid](http://9gag.com/gag/aVveXmy)<!-- MEMES:END -->
 
 --- 
