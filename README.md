@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How do you like the new look of the Pixel 9 series?](https://www.androidauthority.com/pixel-9-series-design-poll-3462738/)
- - [Android 15’s Device diagnostics tool is live in the latest beta](https://www.androidauthority.com/android-15-diagnostics-beta-4-3462726/)
- - [Cops find $30k of fake Apple products in PA traffic stop](https://appleinsider.com/articles/24/07/19/cops-find-30k-of-fake-apple-products-in-pa-traffic-stop?utm_medium=rss)<!-- TECH:END -->
+ - [Xiaomi’s latest fitness tracker brings some much-needed upgrades](https://www.androidauthority.com/xiaomi-mi-band-9-3391412/)
+ - [I’m super pumped about the Pixel 9 Pro’s improved selfie camera](https://www.androidauthority.com/pixel-9-pro-improved-selfie-camera-3461294/)
+ - [Samsung says it has &quot;temporarily&quot; stopped deliveries of Galaxy Buds 3 Pro to retailers after some early owners reported quality control issues with the ear tips &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/240719/p12#a240719p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
