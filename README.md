@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi’s latest fitness tracker brings some much-needed upgrades](https://www.androidauthority.com/xiaomi-mi-band-9-3391412/)
- - [I’m super pumped about the Pixel 9 Pro’s improved selfie camera](https://www.androidauthority.com/pixel-9-pro-improved-selfie-camera-3461294/)
- - [Samsung says it has &quot;temporarily&quot; stopped deliveries of Galaxy Buds 3 Pro to retailers after some early owners reported quality control issues with the ear tips &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/240719/p12#a240719p12)<!-- TECH:END -->
+ - [A study of 14K web domains in the C4, RefinedWeb, and Dolma AI training datasets: 5% of all the data, and 25% of the highest-quality data, has been restricted &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240719/p16#a240719p16)
+ - [CrowdStrike and Microsoft: all the latest news on the global IT outage](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)
+ - [The FBI got into the Trump rally shooter’s phone in just 40 minutes](https://www.theverge.com/2024/7/19/24201935/fbi-trump-rally-shooter-phone-thomas-matthew-crooks-cellebrite)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
