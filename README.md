@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll results: Let no smartphone be upgraded prematurely](https://www.androidauthority.com/smartphone-upgrade-poll-3462949/)
- - [Do you love sim racing enough to spend $2,499 on a steering wheel?](https://www.theverge.com/2024/7/19/24202067/sim-lab-formula-one-racing-gaming-mercedes-amg-petronas)
- - [Crypto CEO steps down after posts endorsing political violence and deportations](https://www.theverge.com/2024/7/19/24202046/ryan-selkis-messari-steps-down-donald-trump-x)<!-- TECH:END -->
+ - [Hospitals Around the World Are Struggling in the Aftermath of the Great IT Meltdown](https://www.wired.com/story/hospitals-crowdstrike-microsoft-it-outage-meltdown/)
+ - [Why the Global Crowdstrike Outage Hit Airports So Hard](https://www.wired.com/story/crowdstrike-windows-outage-airport-travel-delays/)
+ - [EV Charging vs Gas Cost Comparison: We Used Math to Determine Which Is Cheaper](https://www.cnet.com/roadshow/news/ev-charging-vs-gas-cost-comparison-we-used-math-to-determine-which-is-cheaper/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
