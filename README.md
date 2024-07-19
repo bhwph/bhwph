@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Magic Leap cut ~75 jobs, including its entire sales and marketing units, and told staffers it&#39;s pivoting from selling headsets to licensing its tech &lpar;Bloomberg&rpar;](http://www.techmeme.com/240719/p18#a240719p18)
- - [Don’t be jealous: some Pixel 9 Pro orders to get limited-edition collectible](https://www.androidauthority.com/pixel-9-pro-gift-3462911/)
- - [This could be the Xiaomi 14T Pro: An $800 spec powerhouse coming to global markets this year](https://www.androidauthority.com/redmi-k70-ultra-xiaomi-14t-pro-launch-3462910/)<!-- TECH:END -->
+ - [Poll results: Let no smartphone be upgraded prematurely](https://www.androidauthority.com/smartphone-upgrade-poll-3462949/)
+ - [Do you love sim racing enough to spend $2,499 on a steering wheel?](https://www.theverge.com/2024/7/19/24202067/sim-lab-formula-one-racing-gaming-mercedes-amg-petronas)
+ - [Crypto CEO steps down after posts endorsing political violence and deportations](https://www.theverge.com/2024/7/19/24202046/ryan-selkis-messari-steps-down-donald-trump-x)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
