@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for July 22 to 26](https://news.xbox.com/en-us/2024/07/19/next-week-on-xbox-new-games-for-july-22-to-26/)
- - [The magic of tabletop crowdfunding is dying](https://www.polygon.com/24200145/tabletop-crowdfunding-is-dying)
- - [You’ll get so engrossed building castles and barricades that you’ll almost forget about the monsters in survival RTS Cataclismo, out next week in Early Access](https://www.pcgamer.com/games/strategy/youll-get-so-engrossed-building-castles-and-barricades-that-youll-almost-forget-about-the-monsters-in-survival-rts-cataclismo-out-next-week-in-early-access)<!-- GAME:END -->
+ - [Final Deadpool &amp; Wolverine Trailer Spoils The Whole Damn Thing](https://kotaku.com/deadpool-wolverine-final-trailer-spoilers-1851599966)
+ - [Where to unlock every normal raid in FFXIV](https://www.polygon.com/24171296/normal-raids-unlock-roulette-list-tiers-gear)
+ - [Kotaku’s Weekend Guide: 6 Engrossing Games To Distract You From The World](https://kotaku.com/kotaku-games-to-play-dungeons-nintendo-elden-ring-1851599824)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
