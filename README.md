@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy international bluescreen day](http://9gag.com/gag/aMV9wQM)
- - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
- - 👉 [Incompatible.](http://9gag.com/gag/aBy11xD)<!-- MEMES:END -->
+ - 6️⃣ [I downloaded the right Star Wars](http://9gag.com/gag/aPAWGNR)
+ - 😝 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
+ - 👉 [That sums it up ....](http://9gag.com/gag/a34jjP1)<!-- MEMES:END -->
 
 --- 
 
