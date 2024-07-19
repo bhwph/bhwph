@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 😝 [Poor kid](http://9gag.com/gag/aVveXmy)
- - 👉 [Not alarming at all](http://9gag.com/gag/avynLmd)<!-- MEMES:END -->
+ - 6️⃣ [Happy international bluescreen day](http://9gag.com/gag/aMV9wQM)
+ - 😝 [Anime logic](http://9gag.com/gag/avynLoX)
+ - 👉 [Incompatible.](http://9gag.com/gag/aBy11xD)<!-- MEMES:END -->
 
 --- 
 
