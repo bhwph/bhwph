@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A study of 14K web domains in the C4, RefinedWeb, and Dolma AI training datasets: 5% of all the data, and 25% of the highest-quality data, has been restricted &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240719/p16#a240719p16)
- - [CrowdStrike and Microsoft: all the latest news on the global IT outage](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)
- - [The FBI got into the Trump rally shooter’s phone in just 40 minutes](https://www.theverge.com/2024/7/19/24201935/fbi-trump-rally-shooter-phone-thomas-matthew-crooks-cellebrite)<!-- TECH:END -->
+ - [Sources: Magic Leap cut ~75 jobs, including its entire sales and marketing units, and told staffers it&#39;s pivoting from selling headsets to licensing its tech &lpar;Bloomberg&rpar;](http://www.techmeme.com/240719/p18#a240719p18)
+ - [Don’t be jealous: some Pixel 9 Pro orders to get limited-edition collectible](https://www.androidauthority.com/pixel-9-pro-gift-3462911/)
+ - [This could be the Xiaomi 14T Pro: An $800 spec powerhouse coming to global markets this year](https://www.androidauthority.com/redmi-k70-ultra-xiaomi-14t-pro-launch-3462910/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
