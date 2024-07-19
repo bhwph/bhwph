@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Handsome is indias tallest elephant. ~50yrs old near blind killed 2 other elephants and 15 indians](http://9gag.com/gag/a5QrKrg)
- - 😝 [Is this some next level maths?](http://9gag.com/gag/a0ejLrv)
- - 👉 [Almost got Steve Irwin\u2019d by a dang Marlin](http://9gag.com/gag/avyngRM)<!-- MEMES:END -->
+ - 6️⃣ [Anime logic](http://9gag.com/gag/avynLoX)
+ - 😝 [Poor kid](http://9gag.com/gag/aVveXmy)
+ - 👉 [That sums it up ....](http://9gag.com/gag/a34jjP1)<!-- MEMES:END -->
 
 --- 
 
