@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Deadpool &amp; Wolverine Trailer Spoils The Whole Damn Thing](https://kotaku.com/deadpool-wolverine-final-trailer-spoilers-1851599966)
- - [Where to unlock every normal raid in FFXIV](https://www.polygon.com/24171296/normal-raids-unlock-roulette-list-tiers-gear)
- - [Kotaku’s Weekend Guide: 6 Engrossing Games To Distract You From The World](https://kotaku.com/kotaku-games-to-play-dungeons-nintendo-elden-ring-1851599824)<!-- GAME:END -->
+ - [Somehow, the 11-year-old niche mil-sim Arma 3 managed to sell nearly 700,000 copies during the Steam Summer Sale](https://www.pcgamer.com/games/fps/somehow-the-11-year-old-niche-mil-sim-arma-3-managed-to-sell-nearly-700000-copies-during-the-steam-summer-sale)
+ - [Stampede: Racing Royale – How Sumo Digital Built a 60-Player Kart Racer](https://news.xbox.com/en-us/2024/07/19/stampede-racing-royale-60-player-kart-racer/)
+ - [13 glowing reviews of reviled movies](https://www.polygon.com/24194672/worst-movies-with-good-reviews)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
