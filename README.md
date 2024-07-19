@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch unbans Donald Trump: &#39;We believe there is value in hearing from Presidential nominees directly&#39;](https://www.pcgamer.com/hardware/streaming/twitch-unbans-donald-trump-we-believe-there-is-value-in-hearing-from-presidential-nominees-directly)
- - [Donald Trump&#39;s Twitch Account Unbanned After 3+ Years](https://kotaku.com/donald-trump-unbanned-twitch-account-permanent-hateful-1851600315)
- - [Official PlayStation Podcast Episode 490: Interview w/ Firewalk Studios on Concord](https://blog.playstation.com/2024/07/19/official-playstation-podcast-episode-490-interview-w-firewalk-studios-on-concord/)<!-- GAME:END -->
+ - [I don&#39;t play Counter-Strike 2, but I do follow this CS2 player dedicated to finding weird mistakes and &#39;bomb stuck&#39; spots on Valve&#39;s maps](https://www.pcgamer.com/games/fps/i-don-t-play-counter-strike-2-but-i-do-follow-this-cs2-player-dedicated-to-finding-weird-mistakes-and-bomb-stuck-spots-on-valve-s-maps)
+ - [The open beta for Throne and Liberty, Amazon&#39;s latest MMO import, is available now](https://www.pcgamer.com/games/mmo/the-open-beta-for-throne-and-liberty-amazons-latest-mmo-import-is-available-now)
+ - [Save on some of our favorite games of 2024 during the Humble Heatwave sale](https://www.polygon.com/2024/7/19/24202156/humble-sale-dragons-dogma-resident-evil-gaming-deal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
