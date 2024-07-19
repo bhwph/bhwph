@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FTC Calls Xbox Game Pass Price Hike &#39;Exactly The Sort Of Consumer Harm&#39; It Tried To Stop](https://kotaku.com/xbox-game-pass-price-ftc-black-ops-6-appeal-1851599323)
- - [The First Descendant changes Destiny 2 lookalike icons, but Nexon still won&#39;t say how they ended up in the game](https://www.pcgamer.com/games/third-person-shooter/the-first-descendant-changes-destiny-2-lookalike-icons-but-nexon-still-wont-say-how-they-ended-up-in-the-game)
- - [The Immortal Lock is a gnarly new Quake map that&#39;s meatier than some entire FPS campaigns—literally and figuratively](https://www.pcgamer.com/games/fps/the-immortal-lock-is-a-gnarly-new-quake-map-thats-meatier-than-some-entire-fps-campaignsliterally-and-figuratively)<!-- GAME:END -->
+ - [Devolver announces Forestrike, a kung fu roguelike where you can plan your moves in advance](https://www.pcgamer.com/games/action/devolver-announces-forestrike-a-kung-fu-roguelike-where-you-can-plan-your-moves-in-advance)
+ - [Despite its relaxing pastels and quaint mountain village, Dungeons of Hinterberg is pushing against the confines of cozy games](https://www.pcgamer.com/games/rpg/despite-its-relaxing-pastels-and-quaint-mountain-village-dungeons-of-hinterberg-is-pushing-against-the-confines-of-cozy-games)
+ - [Halo, which only just made it to Halo, canceled after 2 seasons](https://www.polygon.com/24106882/halo-season-3-tv-show-release-cast-news)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
