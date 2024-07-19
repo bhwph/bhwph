@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The misfiring Halo TV series has been cancelled just as the Chief actually found a Halo ring](https://www.pcgamer.com/movies-tv/the-misfiring-halo-tv-series-has-been-cancelled-just-as-the-chief-actually-found-a-halo-ring)
- - [The Whole World Came To A Halt Thanks To A Single Software Update](https://kotaku.com/crowdstrike-microsoft-worldwide-outage-crash-1851599499)
- - [The CrowdStrike IT outage is pretty grim but let&#39;s hope it&#39;s not as bad as the infamous Dyn DDoS attack, Facebook mega-crash, and Rogers network disaster](https://www.pcgamer.com/software/the-crowdstrike-it-outage-is-pretty-grim-but-lets-hope-its-not-as-bad-as-the-infamous-dyn-ddos-attack-facebook-mega-crash-and-rogers-network-disaster)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for July 22 to 26](https://news.xbox.com/en-us/2024/07/19/next-week-on-xbox-new-games-for-july-22-to-26/)
+ - [The magic of tabletop crowdfunding is dying](https://www.polygon.com/24200145/tabletop-crowdfunding-is-dying)
+ - [You’ll get so engrossed building castles and barricades that you’ll almost forget about the monsters in survival RTS Cataclismo, out next week in Early Access](https://www.pcgamer.com/games/strategy/youll-get-so-engrossed-building-castles-and-barricades-that-youll-almost-forget-about-the-monsters-in-survival-rts-cataclismo-out-next-week-in-early-access)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
