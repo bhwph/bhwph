@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 😝 [This is one of the best insults that I ever heard](http://9gag.com/gag/aW4MMLd)
- - 👉 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)<!-- MEMES:END -->
+ - 6️⃣ [Who grabbed what?](http://9gag.com/gag/aMV99OG)
+ - 😝 [It&#39;s parkour.](http://9gag.com/gag/apRLrL5)
+ - 👉 [Figure hugging](http://9gag.com/gag/aLn9B9v)<!-- MEMES:END -->
 
 --- 
 
