@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - 😝 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
- - 👉 [Poor kid](http://9gag.com/gag/aVveXmy)<!-- MEMES:END -->
+ - 6️⃣ [You&#39;ve been hit by; you&#39;ve been struck by; a smooth criminal](http://9gag.com/gag/ae96pLv)
+ - 😝 [Adult sleepovers are underrated.](http://9gag.com/gag/a6ZQ7ON)
+ - 👉 [The internet is really really great!](http://9gag.com/gag/ae96GjO)<!-- MEMES:END -->
 
 --- 
 
