@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, July 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-19-2024)
- - [Devolver announces Forestrike, a kung fu roguelike where you can plan your moves in advance](https://www.pcgamer.com/games/action/devolver-announces-forestrike-a-kung-fu-roguelike-where-you-can-plan-your-moves-in-advance)
- - [Despite its relaxing pastels and quaint mountain village, Dungeons of Hinterberg is pushing against the confines of cozy games](https://www.pcgamer.com/games/rpg/despite-its-relaxing-pastels-and-quaint-mountain-village-dungeons-of-hinterberg-is-pushing-against-the-confines-of-cozy-games)<!-- GAME:END -->
+ - [Infamous BSOD appears across Windows machines globally as suspected security bug grounds planes, hits health services](https://www.pcgamer.com/hardware/infamous-bsod-appears-across-windows-machines-globally-as-suspected-security-bug-grounds-planes-hits-health-services)
+ - [Do temps matter no more? Next-gen Intel desktop CPUs might run as hot as Meteor Lake laptop chips](https://www.pcgamer.com/hardware/processors/do-temps-matter-no-more-next-gen-intel-desktop-cpus-might-run-as-hot-as-meteor-lake-laptop-chips)
+ - [Today&#39;s Wordle answer for Friday, July 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-19-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
