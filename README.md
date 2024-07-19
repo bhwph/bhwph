@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anime logic](http://9gag.com/gag/avynLoX)
- - 😝 [Poor kid](http://9gag.com/gag/aVveXmy)
- - 👉 [That sums it up ....](http://9gag.com/gag/a34jjP1)<!-- MEMES:END -->
+ - 6️⃣ [No culture at all](http://9gag.com/gag/a0ejpEv)
+ - 😝 [I downloaded the right Star Wars](http://9gag.com/gag/aPAWGNR)
+ - 👉 [Just simple magic](http://9gag.com/gag/abAZZbL)<!-- MEMES:END -->
 
 --- 
 
