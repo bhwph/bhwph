@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 6️⃣ [Fame done right](http://9gag.com/gag/ayN8Dwp)
  - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 👉 [The wife that dies at the start of the movie!!!](http://9gag.com/gag/aO8vzvR)<!-- MEMES:END -->
+ - 👉 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)<!-- MEMES:END -->
 
 --- 
 
