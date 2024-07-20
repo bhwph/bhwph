@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fame done right](http://9gag.com/gag/ayN8Dwp)
- - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 👉 [NASA found a perfectly cut, trillion-ton rectangular iceberg](http://9gag.com/gag/aVveq68)<!-- MEMES:END -->
+ - 6️⃣ [How to fix the blue screen error. crowdstrike fix](http://9gag.com/gag/a9yYpLW)
+ - 😝 [Cool.](http://9gag.com/gag/a34jqNv)
+ - 👉 [Save the planet and stream!](http://9gag.com/gag/aqyLbLR)<!-- MEMES:END -->
 
 --- 
 
