@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Go sports](http://9gag.com/gag/aKG3Dqg)
- - 😝 [Both are sad but at least you get laid](http://9gag.com/gag/a5QrbGy)
- - 👉 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)<!-- MEMES:END -->
+ - 6️⃣ [Ballet and Stamina. A young male at his prime.](http://9gag.com/gag/aO8vzwN)
+ - 😝 [Patience](http://9gag.com/gag/aD2GWXG)
+ - 👉 [Card trick](http://9gag.com/gag/aRBemLQ)<!-- MEMES:END -->
 
 --- 
 
