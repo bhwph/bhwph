@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I don&#39;t play Counter-Strike 2, but I do follow this CS2 player dedicated to finding weird mistakes and &#39;bomb stuck&#39; spots on Valve&#39;s maps](https://www.pcgamer.com/games/fps/i-don-t-play-counter-strike-2-but-i-do-follow-this-cs2-player-dedicated-to-finding-weird-mistakes-and-bomb-stuck-spots-on-valve-s-maps)
- - [The open beta for Throne and Liberty, Amazon&#39;s latest MMO import, is available now](https://www.pcgamer.com/games/mmo/the-open-beta-for-throne-and-liberty-amazons-latest-mmo-import-is-available-now)
- - [Save on some of our favorite games of 2024 during the Humble Heatwave sale](https://www.polygon.com/2024/7/19/24202156/humble-sale-dragons-dogma-resident-evil-gaming-deal)<!-- GAME:END -->
+ - [Overwatch 2&#39;s new space girl healer takes the throne as one of the most strategically satisfying heroes in the game](https://www.pcgamer.com/games/fps/overwatch-2s-new-space-girl-healer-takes-the-throne-as-one-of-the-most-strategically-satisfying-heroes-in-the-game)
+ - [Bethesda Game Studios developers form &#39;wall to wall&#39; union that includes artists, designers, and programmers](https://www.pcgamer.com/gaming-industry/bethesda-game-studios-developers-form-wall-to-wall-union-with-241-members)
+ - [One of the biggest games in the world right now isn&#39;t on PC, and it&#39;s not clear why](https://www.pcgamer.com/games/sports/one-of-the-biggest-games-in-the-world-right-now-isn-t-on-pc-and-it-s-not-clear-why)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
