@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I really like the Samsung Galaxy Buds 3 Pro, except for this one thing](https://www.androidauthority.com/galaxy-buds-3-pro-triangle-stems-3462266/)
- - [Galaxy Watch 7 and Ultra Review: Samsung Squares Up Its Smartwatches](https://www.cnet.com/tech/mobile/galaxy-watch-7-and-ultra-review-samsung-squares-up-its-smartwatches/#ftag=CAD590a51e)
- - [Where Are the Qi2 Android Phones?](https://www.cnet.com/tech/mobile/where-are-the-qi2-android-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Galaxy Z Flip 6 benchmarks: Finally, a Flip that doesn’t hold back on performance](https://www.androidauthority.com/galaxy-z-flip-6-benchmarks-3458862/)
+ - [The cheapest countries to buy a Samsung Galaxy Z Fold 6](https://www.androidauthority.com/cheapest-place-to-buy-galazy-z-fold-6-3462912/)
+ - [Capcom’s Kunitsu-Gami combines tower defense strategy with the heart of community organizing](https://www.theverge.com/24202033/kunitsu-gami-path-of-the-goddess-review-capcom)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
