@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Microsoft responds to the FTC, argues its Game Pass price hike is actually a good deal for gamers because the new cheapest tier includes multiplayer now](https://www.pcgamer.com/gaming-industry/microsoft-responds-to-the-ftc-argues-its-game-pass-price-hike-is-actually-a-good-deal-for-gamers-because-the-new-cheapest-tier-includes-multiplayer-now)
  - [Inside Out 2 vs. Big Mouth: Who wore anxiety better?](https://www.polygon.com/24201282/inside-out-2-vs-big-mouth-dealing-with-anxiety)
- - [Great news: Soulframe will have customizable moms](https://www.pcgamer.com/games/action/great-news-soulframe-will-have-customizable-moms)
- - [A Baldur&#39;s Gate 3 player has discovered hidden mini-quests you can only get by leaving the most important items in the game in an exploding building or at the bottom of the ocean](https://www.pcgamer.com/games/baldurs-gate/a-baldurs-gate-3-player-has-discovered-hidden-mini-quests-you-can-only-get-by-leaving-the-most-important-items-in-the-game-in-an-exploding-building-or-at-the-bottom-of-the-ocean)<!-- GAME:END -->
+ - [Great news: Soulframe will have customizable moms](https://www.pcgamer.com/games/action/great-news-soulframe-will-have-customizable-moms)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
