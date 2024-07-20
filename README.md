@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who grabbed what?](http://9gag.com/gag/aMV99OG)
- - 😝 [It&#39;s parkour.](http://9gag.com/gag/apRLrL5)
- - 👉 [Figure hugging](http://9gag.com/gag/aLn9B9v)<!-- MEMES:END -->
+ - 6️⃣ [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
+ - 😝 [The plot twist is crazy](http://9gag.com/gag/azxAAAB)
+ - 👉 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)<!-- MEMES:END -->
 
 --- 
 
