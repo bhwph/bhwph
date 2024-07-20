@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google wants to steal Ray-Ban maker from Meta for Gemini smart glasses](https://www.androidauthority.com/google-steal-ray-ban-meta-maker-gemini-glasses-3462619/)
- - [DJI Power 1000 review: with great power comes many dongles](https://www.theverge.com/24200296/dji-power-station-review-140w-usb-specs-price)
- - [Healthcare payments infrastructure provider Commure plans to acquire and take private Augmedix, which develops AI ambient clinical documentation tech, for $139M &lpar;Emma Beavins/FierceHealthcare&rpar;](http://www.techmeme.com/240720/p2#a240720p2)<!-- TECH:END -->
+ - [Android 15 has a hidden screen saver that’s out of this world](https://www.androidauthority.com/android-15-landroid-screen-saver-3463022/)
+ - [Q&amp;A with California state Senator Scott Wiener on his AI safety bill, addressing AI risks and liability concerns, critiques from the open source community, more &lpar;Kelsey Piper/Vox&rpar;](http://www.techmeme.com/240720/p3#a240720p3)
+ - [Google wants to steal Ray-Ban maker from Meta for Gemini smart glasses](https://www.androidauthority.com/google-steal-ray-ban-meta-maker-gemini-glasses-3462619/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
