@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stop holding hands at interactive shows!](https://www.polygon.com/24201901/sleep-no-more-interactive-theater-couples-hold-hands)
- - [Jeanne D&#39;Arc Is Great, Flock Is Supremely Chill, And More Video Game Takes For The Week](https://kotaku.com/jeanne-d-arc-ps-plus-pokemon-go-1851600038)
- - [The producer of Droids, Ewoks on why the early Star Wars cartoons flopped](https://www.polygon.com/24199125/star-wars-droids-ewoks-shows)<!-- GAME:END -->
+ - [Inside Out 2 vs. Big Mouth: Who wore anxiety better?](https://www.polygon.com/24201282/inside-out-2-vs-big-mouth-dealing-with-anxiety)
+ - [Great news: Soulframe will have customizable moms](https://www.pcgamer.com/games/action/great-news-soulframe-will-have-customizable-moms)
+ - [A Baldur&#39;s Gate 3 player has discovered hidden mini-quests you can only get by leaving the most important items in the game in an exploding building or at the bottom of the ocean](https://www.pcgamer.com/games/baldurs-gate/a-baldurs-gate-3-player-has-discovered-hidden-mini-quests-you-can-only-get-by-leaving-the-most-important-items-in-the-game-in-an-exploding-building-or-at-the-bottom-of-the-ocean)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
