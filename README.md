@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Flip 6 benchmarks: Finally, a Flip that doesn’t hold back on performance](https://www.androidauthority.com/galaxy-z-flip-6-benchmarks-3458862/)
- - [The cheapest countries to buy a Samsung Galaxy Z Fold 6](https://www.androidauthority.com/cheapest-place-to-buy-galazy-z-fold-6-3462912/)
- - [Capcom’s Kunitsu-Gami combines tower defense strategy with the heart of community organizing](https://www.theverge.com/24202033/kunitsu-gami-path-of-the-goddess-review-capcom)<!-- TECH:END -->
+ - [Apple financial partner Green Dot slapped with millions in fines over hidden fees](https://appleinsider.com/articles/24/07/20/apple-financial-partner-green-dot-slapped-with-millions-in-fines-over-hidden-fees?utm_medium=rss)
+ - [Need a large tablet? Here are 4 reasons I love big slates like the 13-inch iPad Air](https://www.androidauthority.com/apple-13-inch-ipad-air-review-3455396/)
+ - [Fire Country season 3: Release date, cast, plot, and other rumors](https://www.androidauthority.com/fire-country-season-3-3463054/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
