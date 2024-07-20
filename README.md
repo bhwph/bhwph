@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Both are sad but at least you get laid](http://9gag.com/gag/a5QrbGy)
- - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 👉 [Cool.](http://9gag.com/gag/a34jqNv)<!-- MEMES:END -->
+ - 6️⃣ [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)
+ - 😝 [When you are illiterate, you are not bound by laws.](http://9gag.com/gag/aXPwXyP)
+ - 👉 [Nature](http://9gag.com/gag/aKG32p3)<!-- MEMES:END -->
 
 --- 
 
