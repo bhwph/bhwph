@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ballet and Stamina. A young male at his prime.](http://9gag.com/gag/aO8vzwN)
- - 😝 [Patience](http://9gag.com/gag/aD2GWXG)
- - 👉 [Card trick](http://9gag.com/gag/aRBemLQ)<!-- MEMES:END -->
+ - 6️⃣ [Is this really Naples? Wtf](http://9gag.com/gag/aPAW94G)
+ - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 👉 [Go sports](http://9gag.com/gag/aKG3Dqg)<!-- MEMES:END -->
 
 --- 
 
