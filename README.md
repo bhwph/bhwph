@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
- - 😝 [The plot twist is crazy](http://9gag.com/gag/azxAAAB)
- - 👉 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)<!-- MEMES:END -->
+ - 6️⃣ [Both are sad but at least you get laid](http://9gag.com/gag/a5QrbGy)
+ - 😝 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 👉 [Cool.](http://9gag.com/gag/a34jqNv)<!-- MEMES:END -->
 
 --- 
 
