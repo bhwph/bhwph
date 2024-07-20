@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)
- - 😝 [When you are illiterate, you are not bound by laws.](http://9gag.com/gag/aXPwXyP)
- - 👉 [Nature](http://9gag.com/gag/aKG32p3)<!-- MEMES:END -->
+ - 6️⃣ [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 😝 [Both are sad but at least you get laid](http://9gag.com/gag/a5QrbGy)
+ - 👉 [Never push an update on a Friday](http://9gag.com/gag/aNDWAeA)<!-- MEMES:END -->
 
 --- 
 
