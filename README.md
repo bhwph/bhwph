@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, July 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-20-2024)
- - [Overwatch 2&#39;s new space girl healer takes the throne as one of the most strategically satisfying heroes in the game](https://www.pcgamer.com/games/fps/overwatch-2s-new-space-girl-healer-takes-the-throne-as-one-of-the-most-strategically-satisfying-heroes-in-the-game)
- - [Bethesda Game Studios developers form &#39;wall to wall&#39; union that includes artists, designers, and programmers](https://www.pcgamer.com/gaming-industry/bethesda-game-studios-developers-form-wall-to-wall-union-with-241-members)<!-- GAME:END -->
+ - [Lego Hill Climb Adventures is a charming, simplified Trials](https://www.polygon.com/24202114/lego-hill-climb-adventures-cute-physics-racer-trials)
+ - [The best sci-fi movies to watch on Netflix this July](https://www.polygon.com/what-to-watch/24199861/best-sci-fi-movies-watch-netflix-july-2024)
+ - [No Man&#39;s Sky&#39;s Huge Overhaul, The Software Update That Stopped The World, And More Of The Week&#39;s Top Stories](https://kotaku.com/gaming-news-no-mans-sky-update-baldurs-gate-3-1851600036)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
