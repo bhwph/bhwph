@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is this really Naples? Wtf](http://9gag.com/gag/aPAW94G)
- - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 6️⃣ [Teachers saved up money and surprised their school janitor with a car after seeing him walk to work everyday](http://9gag.com/gag/aoyp25X)
+ - 😝 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
  - 👉 [Go sports](http://9gag.com/gag/aKG3Dqg)<!-- MEMES:END -->
 
 --- 
