@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Teachers saved up money and surprised their school janitor with a car after seeing him walk to work everyday](http://9gag.com/gag/aoyp25X)
- - 😝 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
- - 👉 [Go sports](http://9gag.com/gag/aKG3Dqg)<!-- MEMES:END -->
+ - 6️⃣ [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 😝 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 👉 [The wife that dies at the start of the movie!!!](http://9gag.com/gag/aO8vzvR)<!-- MEMES:END -->
 
 --- 
 
