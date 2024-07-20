@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch the Olympics 2024 on the Best Olympic Streaming Service](https://www.cnet.com/tech/services-and-software/how-to-watch-the-olympics/#ftag=CAD590a51e)
- - [The OnePlus Open 2 might have a huge battery, and not just for a foldable](https://www.androidauthority.com/oneplus-open-2-battery-leak-3463042/)
- - [Social Security Payment July 2024: When Will You Get Your Money?](https://www.cnet.com/personal-finance/social-security-payment-july-2024-when-will-you-get-your-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I really like the Samsung Galaxy Buds 3 Pro, except for this one thing](https://www.androidauthority.com/galaxy-buds-3-pro-triangle-stems-3462266/)
+ - [Galaxy Watch 7 and Ultra Review: Samsung Squares Up Its Smartwatches](https://www.cnet.com/tech/mobile/galaxy-watch-7-and-ultra-review-samsung-squares-up-its-smartwatches/#ftag=CAD590a51e)
+ - [Where Are the Qi2 Android Phones?](https://www.cnet.com/tech/mobile/where-are-the-qi2-android-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
