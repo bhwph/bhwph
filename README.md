@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Hill Climb Adventures is a charming, simplified Trials](https://www.polygon.com/24202114/lego-hill-climb-adventures-cute-physics-racer-trials)
- - [The best sci-fi movies to watch on Netflix this July](https://www.polygon.com/what-to-watch/24199861/best-sci-fi-movies-watch-netflix-july-2024)
- - [No Man&#39;s Sky&#39;s Huge Overhaul, The Software Update That Stopped The World, And More Of The Week&#39;s Top Stories](https://kotaku.com/gaming-news-no-mans-sky-update-baldurs-gate-3-1851600036)<!-- GAME:END -->
+ - [Stop holding hands at interactive shows!](https://www.polygon.com/24201901/sleep-no-more-interactive-theater-couples-hold-hands)
+ - [Jeanne D&#39;Arc Is Great, Flock Is Supremely Chill, And More Video Game Takes For The Week](https://kotaku.com/jeanne-d-arc-ps-plus-pokemon-go-1851600038)
+ - [The producer of Droids, Ewoks on why the early Star Wars cartoons flopped](https://www.polygon.com/24199125/star-wars-droids-ewoks-shows)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
