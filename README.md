@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 has a hidden screen saver that’s out of this world](https://www.androidauthority.com/android-15-landroid-screen-saver-3463022/)
- - [Q&amp;A with California state Senator Scott Wiener on his AI safety bill, addressing AI risks and liability concerns, critiques from the open source community, more &lpar;Kelsey Piper/Vox&rpar;](http://www.techmeme.com/240720/p3#a240720p3)
- - [Google wants to steal Ray-Ban maker from Meta for Gemini smart glasses](https://www.androidauthority.com/google-steal-ray-ban-meta-maker-gemini-glasses-3462619/)<!-- TECH:END -->
+ - [How to Watch the Olympics 2024 on the Best Olympic Streaming Service](https://www.cnet.com/tech/services-and-software/how-to-watch-the-olympics/#ftag=CAD590a51e)
+ - [The OnePlus Open 2 might have a huge battery, and not just for a foldable](https://www.androidauthority.com/oneplus-open-2-battery-leak-3463042/)
+ - [Social Security Payment July 2024: When Will You Get Your Money?](https://www.cnet.com/personal-finance/social-security-payment-july-2024-when-will-you-get-your-money/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
