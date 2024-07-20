@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [TennoCon&#39;s Warframe: 1999 demo reveals &#39;90s instant messenger clients, motorcycle stunts, and an Infested space mutant boy band](https://www.pcgamer.com/games/action/tennocons-warframe-1999-demo-reveals-90s-instant-messenger-clients-motorcycle-stunts-and-an-infested-space-mutant-boy-band)
  - [Microsoft responds to the FTC, argues its Game Pass price hike is actually a good deal for gamers because the new cheapest tier includes multiplayer now](https://www.pcgamer.com/gaming-industry/microsoft-responds-to-the-ftc-argues-its-game-pass-price-hike-is-actually-a-good-deal-for-gamers-because-the-new-cheapest-tier-includes-multiplayer-now)
- - [Inside Out 2 vs. Big Mouth: Who wore anxiety better?](https://www.polygon.com/24201282/inside-out-2-vs-big-mouth-dealing-with-anxiety)
- - [Great news: Soulframe will have customizable moms](https://www.pcgamer.com/games/action/great-news-soulframe-will-have-customizable-moms)<!-- GAME:END -->
+ - [Inside Out 2 vs. Big Mouth: Who wore anxiety better?](https://www.polygon.com/24201282/inside-out-2-vs-big-mouth-dealing-with-anxiety)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
