@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kunitsu-Gami: Path of the Goddess: 5 Tips When Starting the Game](https://www.cnet.com/tech/gaming/kunitsu-gami-path-of-the-goddess-5-tips-when-starting-the-game/#ftag=CAD590a51e)
  - [Xiaomi unveils the Mix Fold 4, starting at ~$1,237, and the Mix Flip, its first flip foldable, with a 4.01&quot; cover display, starting at ~$825, available in China &lpar;Damien Wilde/9to5Google&rpar;](http://www.techmeme.com/240719/p29#a240719p29)
- - [All these Anker and UGREEN deals will keep your devices charged on the cheap](https://www.androidauthority.com/anker-ugreen-deals-3462900/)
- - [Over 200 Bethesda Game Studios workers unionize with the CWA, forming the first &quot;wall-to-wall&quot; union at a Microsoft game studio; Microsoft recognized the union &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240719/p28#a240719p28)<!-- TECH:END -->
+ - [All these Anker and UGREEN deals will keep your devices charged on the cheap](https://www.androidauthority.com/anker-ugreen-deals-3462900/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
