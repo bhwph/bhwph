@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple financial partner Green Dot slapped with millions in fines over hidden fees](https://appleinsider.com/articles/24/07/20/apple-financial-partner-green-dot-slapped-with-millions-in-fines-over-hidden-fees?utm_medium=rss)
- - [Need a large tablet? Here are 4 reasons I love big slates like the 13-inch iPad Air](https://www.androidauthority.com/apple-13-inch-ipad-air-review-3455396/)
- - [Fire Country season 3: Release date, cast, plot, and other rumors](https://www.androidauthority.com/fire-country-season-3-3463054/)<!-- TECH:END -->
+ - [Can you get reliable phone service for less than $15 a month?](https://www.androidauthority.com/prepaid-for-15-or-less-3450691/)
+ - [A look at Marc Andreessen and Ben Horowitz&#39;s self-interested Trump support, including the &quot;final straw&quot;, a Biden proposal to tax unrealized capital gains at 25% &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240720/p8#a240720p8)
+ - [How to make it easier to use your phone one-handed](https://www.theverge.com/24201413/iphone-android-ios-samsung-one-hand-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
