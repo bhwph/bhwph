@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
- - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
- - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
+ - 6️⃣ [Go sports](http://9gag.com/gag/aKG3Dqg)
+ - 😝 [Can&#39;t make this shit up](http://9gag.com/gag/a5QrooL)
+ - 👉 [Oh look it&#39;s that Guy from Gladiator](http://9gag.com/gag/aBy10qx)<!-- MEMES:END -->
 
 --- 
 
