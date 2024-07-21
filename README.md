@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fame done right](http://9gag.com/gag/ayN8Dwp)
- - 😝 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
- - 👉 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)<!-- MEMES:END -->
+ - 6️⃣ [The explosion of excitement could not be contained](http://9gag.com/gag/aXPwxeD)
+ - 😝 [If you touch the ball twice, you&#39;re geh](http://9gag.com/gag/awyVAOD)
+ - 👉 [Looking for work? We need 3 workers](http://9gag.com/gag/ae9659O)<!-- MEMES:END -->
 
 --- 
 
