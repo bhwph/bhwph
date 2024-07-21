@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Guilty Gear Strive is getting Lucy from Cyberpunk: Edgerunners as a guest fighter next year](https://www.pcgamer.com/games/fighting/guilty-gear-strive-is-getting-lucy-from-cyberpunk-edgerunners-as-a-guest-fighter-next-year)
  - [Evo 2024: All the big reveals and announcements](https://www.polygon.com/24201533/evo-announcements-reveals-trailers-2024)
- - [Twister still looks great because the director put his cast through hell for it](https://www.polygon.com/24199726/twister-4k-jan-de-bont-interview)
- - [How To Get Started In Final Fantasy 14 And More Tips For The Week](https://kotaku.com/ff14-tips-guides-once-human-first-descendant-1851600037)<!-- GAME:END -->
+ - [Twister still looks great because the director put his cast through hell for it](https://www.polygon.com/24199726/twister-4k-jan-de-bont-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
