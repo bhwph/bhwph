@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike has a new guidance hub for dealing with the Windows outage](https://www.theverge.com/2024/7/21/24202923/crowdstrike-remediation-guidance-hub-windows-bsods-outage-malware)
- - [Welcome to the Samsung and Apple confusion era; Google was here first](https://www.androidauthority.com/welcome-samsung-apple-confusion-era-3460681/)
- - [By endorsing Trump, Elon Musk is gambling with Tesla’s future](https://www.theverge.com/2024/7/21/24202062/elon-musk-donald-trump-endorsement-tesla-ev-tax-credit)<!-- TECH:END -->
+ - [Don’t buy a new Surface Laptop as a console game emulator](https://www.androidauthority.com/copilot-pc-emulator-3459316/)
+ - [How to Tell When Expired Food Should Be Thrown Out and When to Keep It](https://www.cnet.com/news/how-to-tell-when-expired-food-should-be-thrown-out-and-when-to-keep-it/#ftag=CAD590a51e)
+ - [Here’s How Many Calories You Need to Burn to Lose Weight, According to Experts](https://www.cnet.com/health/fitness/how-many-calories-do-i-need-to-lose-weight-we-asked-the-experts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
