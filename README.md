@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Joe Biden Drops Out of 2024 Presidential Election](https://www.wired.com/story/joe-biden-drops-out-of-2024-election/)
- - [President Biden drops his re-election bid](https://www.theverge.com/2024/7/21/24195289/biden-drops-out-presidential-election-race)
- - [Amazon&#39;s $299 iPad 10th Gen deal is back in stock, marking return of Prime Day pricing](https://appleinsider.com/articles/24/07/21/amazons-299-ipad-10th-gen-deal-is-back-in-stock?utm_medium=rss)<!-- TECH:END -->
+ - [Best Invisible Braces of 2024](https://www.cnet.com/health/personal-care/best-invisible-braces/#ftag=CAD590a51e)
+ - [The Best Places to Put Indoor Houseplants](https://www.cnet.com/how-to/best-places-for-indoor-houseplants/#ftag=CAD590a51e)
+ - [Are Your Gas, Electric and Water Bills Rising This Summer? Here Are 8 Easy Ways to Save Money on Utilities](https://www.cnet.com/how-to/8-easy-and-free-ways-to-save-money-on-your-gas-electric-and-water-bills/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
