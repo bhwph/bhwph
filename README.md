@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ballet and Stamina. A young male at his prime.](http://9gag.com/gag/aO8vzwN)
- - 😝 [How to fix the blue screen error. crowdstrike fix](http://9gag.com/gag/a9yYpLW)
- - 👉 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)<!-- MEMES:END -->
+ - 6️⃣ [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
+ - 😝 [Parking skills](http://9gag.com/gag/aGyD0z5)
+ - 👉 [Nature](http://9gag.com/gag/aKG32p3)<!-- MEMES:END -->
 
 --- 
 
