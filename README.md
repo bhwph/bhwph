@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [More than 10 years after its creation, massive Russian Oblivion mod Citadel of Madness has been translated into English](https://www.pcgamer.com/games/rpg/more-than-10-years-after-its-creation-massive-russian-oblivion-mod-citadel-of-madness-has-been-translated-into-english)
- - [D&amp;D&#39;s new 2024 Player&#39;s Handbook will have 10 species to choose from including goliaths, and drow will be closer to their Baldur&#39;s Gate 3 version](https://www.pcgamer.com/games/rpg/dandds-new-2024-players-handbook-will-have-10-species-to-choose-from-including-goliaths-and-drow-will-be-closer-to-their-baldurs-gate-3-version)
- - [Today&#39;s Wordle answer for Sunday, July 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-21-2024)<!-- GAME:END -->
+ - [How To Get Started In Final Fantasy 14 And More Tips For The Week](https://kotaku.com/ff14-tips-guides-once-human-first-descendant-1851600037)
+ - [The best Netflix TV shows of 2024 so far](https://www.polygon.com/what-to-watch/24195042/best-netflix-tv-shows-series-2024)
+ - [More than 10 years after its creation, massive Russian Oblivion mod Citadel of Madness has been translated into English](https://www.pcgamer.com/games/rpg/more-than-10-years-after-its-creation-massive-russian-oblivion-mod-citadel-of-madness-has-been-translated-into-english)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
