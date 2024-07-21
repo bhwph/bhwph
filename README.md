@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Open Secrets: ~80% of donations from internet companies have gone to Democrats so far this US election cycle, down from 90% in 2020, as support for Trump grows &lpar;Financial Times&rpar;](http://www.techmeme.com/240720/p12#a240720p12)
- - [Best Phone to Buy for 2024](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Florida](https://www.cnet.com/home/energy-and-utilities/florida-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-21/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 21, #406](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-21-406/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 21, #1128](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-21-1128/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
