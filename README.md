@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Academics say publisher Taylor &amp; Francis hadn&#39;t told them about selling access to authors&#39; research as part of a $10M+ Microsoft AI deal, nor let them opt out &lpar;Matilda Battersby/The Bookseller&rpar;](http://www.techmeme.com/240721/p4#a240721p4)
  - [Goodbye, Samsung Messages: Google Messages to be new default on Galaxy phones](https://www.androidauthority.com/google-messages-preloaded-samsung-phones-no-samsung-messages-3463077/)
- - [An investigation details how scammers are using crypto ATMs to commit fraud; the FBI says US losses from scams carried out via crypto ATMs was $120M+ in 2023 &lpar;OCCRP&rpar;](http://www.techmeme.com/240721/p3#a240721p3)
- - [The officers of India&#39;s largest retirement fund, the EPFO, warn the organization&#39;s crash-prone IT systems require immediate attention of the Union Government &lpar;Vikas Dhoot/The Hindu&rpar;](http://www.techmeme.com/240721/p2#a240721p2)<!-- TECH:END -->
+ - [An investigation details how scammers are using crypto ATMs to commit fraud; the FBI says US losses from scams carried out via crypto ATMs was $120M+ in 2023 &lpar;OCCRP&rpar;](http://www.techmeme.com/240721/p3#a240721p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
