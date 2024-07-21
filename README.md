@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Planky](http://9gag.com/gag/aqyLgzP)
- - 😝 [Space - the final frontier..](http://9gag.com/gag/aNDWYy6)
- - 👉 [Can&#39;t make this shit up](http://9gag.com/gag/a5QrooL)<!-- MEMES:END -->
+ - 6️⃣ [Fame done right](http://9gag.com/gag/ayN8Dwp)
+ - 😝 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
+ - 👉 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)<!-- MEMES:END -->
 
 --- 
 
