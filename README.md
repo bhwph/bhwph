@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The explosion of excitement could not be contained](http://9gag.com/gag/aXPwxeD)
- - 😝 [If you touch the ball twice, you&#39;re geh](http://9gag.com/gag/awyVAOD)
- - 👉 [Looking for work? We need 3 workers](http://9gag.com/gag/ae9659O)<!-- MEMES:END -->
+ - 6️⃣ [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
+ - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
+ - 👉 [Fame done right](http://9gag.com/gag/ayN8Dwp)<!-- MEMES:END -->
 
 --- 
 
