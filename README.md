@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Schim review](https://www.pcgamer.com/games/puzzle/schim-review)
- - [Evo 2024: All the big reveals and announcements](https://www.polygon.com/24201533/evo-announcements-reveals-trailers-2024)
- - [TennoCon&#39;s Warframe: 1999 demo reveals &#39;90s instant messenger clients, motorcycle stunts, and an Infested space mutant boy band](https://www.pcgamer.com/games/action/tennocons-warframe-1999-demo-reveals-90s-instant-messenger-clients-motorcycle-stunts-and-an-infested-space-mutant-boy-band)<!-- GAME:END -->
+ - [Pokémon Go Tynamo Community Day guide](https://www.polygon.com/pokemon-go-guide/2024/7/20/24201236/tynamo-community-day-shiny-moveset)
+ - [The Polish Witcher comics from the &#39;90s where Geralt has terrible hair are being translated into English](https://www.pcgamer.com/games/rpg/the-polish-witcher-comics-from-the-90s-where-geralt-has-terrible-hair-are-being-translated-into-english)
+ - [Schim review](https://www.pcgamer.com/games/puzzle/schim-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
