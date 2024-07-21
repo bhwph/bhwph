@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, July 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-21-2024)
  - [Pokémon Go Tynamo Community Day guide](https://www.polygon.com/pokemon-go-guide/2024/7/20/24201236/tynamo-community-day-shiny-moveset)
- - [The Polish Witcher comics from the &#39;90s where Geralt has terrible hair are being translated into English](https://www.pcgamer.com/games/rpg/the-polish-witcher-comics-from-the-90s-where-geralt-has-terrible-hair-are-being-translated-into-english)
- - [Schim review](https://www.pcgamer.com/games/puzzle/schim-review)<!-- GAME:END -->
+ - [The Polish Witcher comics from the &#39;90s where Geralt has terrible hair are being translated into English](https://www.pcgamer.com/games/rpg/the-polish-witcher-comics-from-the-90s-where-geralt-has-terrible-hair-are-being-translated-into-english)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
