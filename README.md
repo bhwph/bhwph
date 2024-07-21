@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My search for a great Android emulator for my new Mac took me down a rabbit hole](https://www.androidauthority.com/mac-android-emulator-3460118/)
- - [Two new must-have Android apps](https://www.theverge.com/2024/7/21/24202162/notion-calendar-claude-android-tinypod-ea-football-installer)
- - [Microsoft releases recovery tool to help repair Windows machines hit by CrowdStrike issue](https://www.theverge.com/2024/7/21/24202883/microsoft-recovery-tool-windows-crowdstrike-issue-it-admins)<!-- TECH:END -->
+ - [CrowdStrike has a new guidance hub for dealing with the Windows outage](https://www.theverge.com/2024/7/21/24202923/crowdstrike-remediation-guidance-hub-windows-bsods-outage-malware)
+ - [Welcome to the Samsung and Apple confusion era; Google was here first](https://www.androidauthority.com/welcome-samsung-apple-confusion-era-3460681/)
+ - [By endorsing Trump, Elon Musk is gambling with Tesla’s future](https://www.theverge.com/2024/7/21/24202062/elon-musk-donald-trump-endorsement-tesla-ev-tax-credit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
