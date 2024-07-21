@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t buy a new Surface Laptop as a console game emulator](https://www.androidauthority.com/copilot-pc-emulator-3459316/)
- - [How to Tell When Expired Food Should Be Thrown Out and When to Keep It](https://www.cnet.com/news/how-to-tell-when-expired-food-should-be-thrown-out-and-when-to-keep-it/#ftag=CAD590a51e)
- - [Here’s How Many Calories You Need to Burn to Lose Weight, According to Experts](https://www.cnet.com/health/fitness/how-many-calories-do-i-need-to-lose-weight-we-asked-the-experts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Joe Biden Drops Out of 2024 Presidential Election](https://www.wired.com/story/joe-biden-drops-out-of-2024-election/)
+ - [President Biden drops his re-election bid](https://www.theverge.com/2024/7/21/24195289/biden-drops-out-presidential-election-race)
+ - [Amazon&#39;s $299 iPad 10th Gen deal is back in stock, marking return of Prime Day pricing](https://appleinsider.com/articles/24/07/21/amazons-299-ipad-10th-gen-deal-is-back-in-stock?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
