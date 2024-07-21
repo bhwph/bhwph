@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-21/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 21, #406](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-21-406/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 21, #1128](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-21-1128/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Goodbye, Samsung Messages: Google Messages to be new default on Galaxy phones](https://www.androidauthority.com/google-messages-preloaded-samsung-phones-no-samsung-messages-3463077/)
+ - [An investigation details how scammers are using crypto ATMs to commit fraud; the FBI says US losses from scams carried out via crypto ATMs was $120M+ in 2023 &lpar;OCCRP&rpar;](http://www.techmeme.com/240721/p3#a240721p3)
+ - [The officers of India&#39;s largest retirement fund, the EPFO, warn the organization&#39;s crash-prone IT systems require immediate attention of the Union Government &lpar;Vikas Dhoot/The Hindu&rpar;](http://www.techmeme.com/240721/p2#a240721p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
