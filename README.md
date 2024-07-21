@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Academics say publisher Taylor &amp; Francis hadn&#39;t told them about selling access to authors&#39; research as part of a $10M+ Microsoft AI deal, nor let them opt out &lpar;Matilda Battersby/The Bookseller&rpar;](http://www.techmeme.com/240721/p4#a240721p4)
- - [Goodbye, Samsung Messages: Google Messages to be new default on Galaxy phones](https://www.androidauthority.com/google-messages-preloaded-samsung-phones-no-samsung-messages-3463077/)
- - [An investigation details how scammers are using crypto ATMs to commit fraud; the FBI says US losses from scams carried out via crypto ATMs was $120M+ in 2023 &lpar;OCCRP&rpar;](http://www.techmeme.com/240721/p3#a240721p3)<!-- TECH:END -->
+ - [My search for a great Android emulator for my new Mac took me down a rabbit hole](https://www.androidauthority.com/mac-android-emulator-3460118/)
+ - [Two new must-have Android apps](https://www.theverge.com/2024/7/21/24202162/notion-calendar-claude-android-tinypod-ea-football-installer)
+ - [Microsoft releases recovery tool to help repair Windows machines hit by CrowdStrike issue](https://www.theverge.com/2024/7/21/24202883/microsoft-recovery-tool-windows-crowdstrike-issue-it-admins)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
