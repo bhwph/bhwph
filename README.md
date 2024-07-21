@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, July 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-21-2024)
- - [Pokémon Go Tynamo Community Day guide](https://www.polygon.com/pokemon-go-guide/2024/7/20/24201236/tynamo-community-day-shiny-moveset)
- - [The Polish Witcher comics from the &#39;90s where Geralt has terrible hair are being translated into English](https://www.pcgamer.com/games/rpg/the-polish-witcher-comics-from-the-90s-where-geralt-has-terrible-hair-are-being-translated-into-english)<!-- GAME:END -->
+ - [More than 10 years after its creation, massive Russian Oblivion mod Citadel of Madness has been translated into English](https://www.pcgamer.com/games/rpg/more-than-10-years-after-its-creation-massive-russian-oblivion-mod-citadel-of-madness-has-been-translated-into-english)
+ - [D&amp;D&#39;s new 2024 Player&#39;s Handbook will have 10 species to choose from including goliaths, and drow will be closer to their Baldur&#39;s Gate 3 version](https://www.pcgamer.com/games/rpg/dandds-new-2024-players-handbook-will-have-10-species-to-choose-from-including-goliaths-and-drow-will-be-closer-to-their-baldurs-gate-3-version)
+ - [Today&#39;s Wordle answer for Sunday, July 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-21-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
