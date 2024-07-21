@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Where my Balkan bros at?](http://9gag.com/gag/aMV98VW)
- - 😝 [Garbage men refused to pickup the trash, saying `too heavy`](http://9gag.com/gag/aryNObB)
- - 👉 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)<!-- MEMES:END -->
+ - 6️⃣ [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 😝 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
+ - 👉 [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)<!-- MEMES:END -->
 
 --- 
 
