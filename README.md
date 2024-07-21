@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Doesn&#39;t really need title](http://9gag.com/gag/azxAqYN)
- - 😝 [Parking skills](http://9gag.com/gag/aGyD0z5)
- - 👉 [Nature](http://9gag.com/gag/aKG32p3)<!-- MEMES:END -->
+ - 6️⃣ [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
+ - 👉 [Fame done right](http://9gag.com/gag/ayN8Dwp)<!-- MEMES:END -->
 
 --- 
 
