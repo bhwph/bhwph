@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Orcs Must Die&#39;s next entry will bring a roguelite twist next year](https://www.pcgamer.com/games/roguelike/orcs-must-dies-next-entry-will-bring-a-roguelite-twist-next-year)
  - [Guilty Gear Strive is getting Lucy from Cyberpunk: Edgerunners as a guest fighter next year](https://www.pcgamer.com/games/fighting/guilty-gear-strive-is-getting-lucy-from-cyberpunk-edgerunners-as-a-guest-fighter-next-year)
- - [Evo 2024: All the big reveals and announcements](https://www.polygon.com/24201533/evo-announcements-reveals-trailers-2024)
- - [Twister still looks great because the director put his cast through hell for it](https://www.polygon.com/24199726/twister-4k-jan-de-bont-interview)<!-- GAME:END -->
+ - [Evo 2024: All the big reveals and announcements](https://www.polygon.com/24201533/evo-announcements-reveals-trailers-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
