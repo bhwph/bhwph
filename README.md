@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Go sports](http://9gag.com/gag/aKG3Dqg)
- - 😝 [Can&#39;t make this shit up](http://9gag.com/gag/a5QrooL)
- - 👉 [Oh look it&#39;s that Guy from Gladiator](http://9gag.com/gag/aBy10qx)<!-- MEMES:END -->
+ - 6️⃣ [Planky](http://9gag.com/gag/aqyLgzP)
+ - 😝 [Space - the final frontier..](http://9gag.com/gag/aNDWYy6)
+ - 👉 [Can&#39;t make this shit up](http://9gag.com/gag/a5QrooL)<!-- MEMES:END -->
 
 --- 
 
