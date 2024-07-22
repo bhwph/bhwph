@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
- - 😝 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
- - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
+ - 6️⃣ [Daniel&#39;s first time.](http://9gag.com/gag/aNDWpNv)
+ - 😝 [What&#39;s your darkest secret?](http://9gag.com/gag/aNDWPj0)
+ - 👉 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)<!-- MEMES:END -->
 
 --- 
 
