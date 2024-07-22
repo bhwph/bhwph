@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s recruiting a new wave of Pixel Superfans](https://www.androidauthority.com/pixel-superfan-sign-ups-3463335/)
- - [A look inside Iconiq Growth two months after it closed a $5.75B fund, its largest ever and 42% larger than its previous fund &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/240722/p16#a240722p16)
- - [One of the rarest NES games of all time goes up for auction today](https://www.theverge.com/2024/7/22/24203796/nintendo-nes-gaming-auction-rare-gold-cartridge-world-championships)<!-- TECH:END -->
+ - [Free update makes Cowboy e-bikes better climbers and more efficient](https://www.theverge.com/2024/7/22/24203864/cowboy-adaptive-power-2-wind-weight-hills)
+ - [Google backtracks on Chrome’s biggest privacy promise](https://www.androidauthority.com/chrome-third-party-cookies-3463374/)
+ - [Intel says elevated voltage is causing the ongoing &quot;instability issues&quot; in some Core 13th and 14th Gen desktop processors, and plans to release a fix in August &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240722/p19#a240722p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
