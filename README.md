@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)
- - 😝 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
- - 👉 [Go sports](http://9gag.com/gag/aKG3Dqg)<!-- MEMES:END -->
+ - 6️⃣ [ProbablyNotGettingPaidEnoughForThisShit](http://9gag.com/gag/an71MVq)
+ - 😝 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
+ - 👉 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)<!-- MEMES:END -->
 
 --- 
 
