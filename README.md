@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian CEO RJ Scaringe says too many carmakers are copying Tesla](https://www.theverge.com/24201749/rivian-ceo-rj-scaringe-ev-electric-truck-r1-tesla-model-y-competition-decoder-interview)
- - [Play Protect could soon let users rescan apps without uninstalling offending apps &lpar;APK teardown&rpar;](https://www.androidauthority.com/play-protect-rescan-apk-teardown-3463186/)
- - [Hands on: Nomad eSIM provides simple travel data options in over 170 countries](https://appleinsider.com/articles/24/07/22/hands-on-nomad-esim-provides-simple-travel-data-options-in-over-170-countries?utm_medium=rss)<!-- TECH:END -->
+ - [Google Personal Safety tweak reminds us non-Pixel support even exists &lpar;APK teardown&rpar;](https://www.androidauthority.com/personal-safety-app-3463214/)
+ - [Tulsa King season 2: Release date, plot, cast, and other rumors](https://www.androidauthority.com/tulsa-king-season-2-3463227/)
+ - [The Amazfit GTR 4, our favorite fitness tracker, has hit a new all-time low price](https://www.theverge.com/2024/7/22/24203570/amazon-amazfit-gtr-4-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
