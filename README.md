@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI terminology, explained for humans](https://www.theverge.com/24201441/ai-terminology-explained-humans)
- - [Apple TV Plus budgets come under close scrutiny from top exec](https://www.theverge.com/2024/7/22/24203423/apple-tv-plus-tighten-budget-streaming-losses)
- - [The Right Reacts to Biden’s Withdrawal: It’s a ‘Coup’](https://www.wired.com/story/gop-reaction-biden-coup/)<!-- TECH:END -->
+ - [Rivian CEO RJ Scaringe says too many carmakers are copying Tesla](https://www.theverge.com/24201749/rivian-ceo-rj-scaringe-ev-electric-truck-r1-tesla-model-y-competition-decoder-interview)
+ - [Play Protect could soon let users rescan apps without uninstalling offending apps &lpar;APK teardown&rpar;](https://www.androidauthority.com/play-protect-rescan-apk-teardown-3463186/)
+ - [Hands on: Nomad eSIM provides simple travel data options in over 170 countries](https://appleinsider.com/articles/24/07/22/hands-on-nomad-esim-provides-simple-travel-data-options-in-over-170-countries?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
