@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Daniel&#39;s first time.](http://9gag.com/gag/aNDWpNv)
- - 😝 [What&#39;s your darkest secret?](http://9gag.com/gag/aNDWPj0)
- - 👉 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)<!-- MEMES:END -->
+ - 6️⃣ [Italy is probably bigger than Texas then](http://9gag.com/gag/awyVB8R)
+ - 😝 [The more comments I read the more I realise you&#39;re not kids, you&#39;re just bitter f**ks](http://9gag.com/gag/a6ZQOM8)
+ - 👉 [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)<!-- MEMES:END -->
 
 --- 
 
