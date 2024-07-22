@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [More game studios are changing the industry by unionizing](https://www.polygon.com/gaming/23538801/video-game-studio-union-microsoft-activision-blizzard)
- - [Heads up, Arcane fans: Riot&#39;s released a new season two teaser, and preorders are up for the fancy Blu-ray of season one](https://www.pcgamer.com/movies-tv/heads-up-arcane-fans-riots-released-a-new-season-two-teaser-and-preorders-are-up-for-the-fancy-blu-ray-of-season-one)
- - [Tekken 8 Director Delves into Lidia’s Gameplay Highlights](https://news.xbox.com/en-us/2024/07/22/tekken-8-director-delves-into-lidias-gameplay-highlights/)<!-- GAME:END -->
+ - [Every Big Announcement From Evo 2024](https://kotaku.com/evo-2024-guilty-gear-lucy-cyberpunk-tekken-8-heihachi-1851601248)
+ - [AMD RDNA 4 info leak confirms RT performance is getting boosted but could fall short of a major hardware redesign](https://www.pcgamer.com/hardware/graphics-cards/amd-rdna-4-info-leak-confirms-rt-performance-is-getting-boosted-but-could-fall-short-of-a-major-hardware-redesign)
+ - [Modiphius has announced the year&#39;s most obscure tabletop RPG adaptation](https://www.pcgamer.com/games/rpg/modiphius-has-announced-the-years-most-obscure-tabletop-rpg-adaptation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
