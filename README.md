@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Big Announcement From Evo 2024](https://kotaku.com/evo-2024-guilty-gear-lucy-cyberpunk-tekken-8-heihachi-1851601248)
- - [AMD RDNA 4 info leak confirms RT performance is getting boosted but could fall short of a major hardware redesign](https://www.pcgamer.com/hardware/graphics-cards/amd-rdna-4-info-leak-confirms-rt-performance-is-getting-boosted-but-could-fall-short-of-a-major-hardware-redesign)
- - [Modiphius has announced the year&#39;s most obscure tabletop RPG adaptation](https://www.pcgamer.com/games/rpg/modiphius-has-announced-the-years-most-obscure-tabletop-rpg-adaptation)<!-- GAME:END -->
+ - [Game Pass Is Finally Getting Its First Call Of Duty Later This Week](https://kotaku.com/game-pass-call-of-duty-modern-warfare-3-mw3-july-xbox-1851601479)
+ - [This new co-op horde shooter on Steam is so bad it made me feel physically ill](https://www.pcgamer.com/games/fps/this-new-co-op-horde-shooter-on-steam-is-so-bad-it-made-me-feel-physically-ill)
+ - [Epic&#39;s bringing the joy of mocking a passing Cybertruck to Fortnite](https://www.pcgamer.com/games/battle-royale/epics-bringing-the-joy-of-mocking-a-passing-cybertruck-to-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
