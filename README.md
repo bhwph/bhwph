@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Strategy Game Is They Are Billions For Lego Freaks And I Can&#39;t Put It Down](https://kotaku.com/cataclismo-lego-steam-city-builder-strategy-horde-mode-1851601693)
- - [What time does Modern Warfare 3 season 5 release?](https://www.polygon.com/modern-warfare-3-guides/24203809/season-5-release-time-date-mw3-summerslam)
- - [Stardew Valley creator swears &#39;on the honor of my family name&#39; that he&#39;ll never charge money for DLC](https://www.pcgamer.com/games/life-sim/stardew-valley-creator-swears-on-the-honor-of-my-family-name-that-hell-never-charge-money-for-dlc)<!-- GAME:END -->
+ - [Donald Trump’s Twitch channel is back](https://www.polygon.com/24203801/donald-trump-twitch-channel-unbanned)
+ - [Trump&#39;s VP Nom Connects Mtn Dew And Racism In Front Of Confused Crowd](https://kotaku.com/jd-vance-mountain-dew-racism-racist-trump-vp-speech-1851601858)
+ - [Warner Bros acquires MultiVersus devs as it shifts focus to free-to-play](https://www.pcgamer.com/games/fighting/warner-bros-acquires-multiversus-devs-as-it-shifts-focus-to-free-to-play)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
