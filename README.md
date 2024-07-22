@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Personal Safety tweak reminds us non-Pixel support even exists &lpar;APK teardown&rpar;](https://www.androidauthority.com/personal-safety-app-3463214/)
- - [Tulsa King season 2: Release date, plot, cast, and other rumors](https://www.androidauthority.com/tulsa-king-season-2-3463227/)
- - [The Amazfit GTR 4, our favorite fitness tracker, has hit a new all-time low price](https://www.theverge.com/2024/7/22/24203570/amazon-amazfit-gtr-4-deal-sale)<!-- TECH:END -->
+ - [Apple’s 2025 smartphone lineup could start with the iPhone SE 4](https://www.androidauthority.com/apple-2025-iphone-lineup-3463265/)
+ - [Here are a couple of great portable monitor deals for your multi-tasking pleasure](https://www.androidauthority.com/portable-monitor-deals-3463300/)
+ - [Eufy quietly pushes release of Find My Device trackers to late 2024](https://www.androidauthority.com/eufy-trackers-delayed-3463194/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
