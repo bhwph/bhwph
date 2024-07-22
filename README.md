@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Astarion&#39;s voice actor says it&#39;d be &#39;awesome&#39; to play the character again after Baldur&#39;s Gate 3: &#39;Live action, game … advert for grape juice, I don&#39;t know&#39;](https://www.pcgamer.com/games/baldurs-gate/astarion-s-voice-actor-says-it-d-be-awesome-to-play-the-character-again-after-baldur-s-gate-3-live-action-game-advert-for-grape-juice-i-don-t-know)
- - [Smaller and faster Windows 11 updates are on the way as Microsoft switches to downloading just what you need and none of what you don&#39;t](https://www.pcgamer.com/software/windows/smaller-and-faster-windows-11-updates-are-on-the-way-as-microsoft-switches-to-downloading-just-what-you-need-and-none-of-what-you-dont)
- - [No E, just the P—Intel quietly launches Raptor Lake Rekked for the embedded market](https://www.pcgamer.com/hardware/processors/no-e-just-the-pintel-quietly-launches-raptor-lake-rekked-for-the-embedded-market)<!-- GAME:END -->
+ - [More game studios are changing the industry by unionizing](https://www.polygon.com/gaming/23538801/video-game-studio-union-microsoft-activision-blizzard)
+ - [Heads up, Arcane fans: Riot&#39;s released a new season two teaser, and preorders are up for the fancy Blu-ray of season one](https://www.pcgamer.com/movies-tv/heads-up-arcane-fans-riots-released-a-new-season-two-teaser-and-preorders-are-up-for-the-fancy-blu-ray-of-season-one)
+ - [Tekken 8 Director Delves into Lidia’s Gameplay Highlights](https://news.xbox.com/en-us/2024/07/22/tekken-8-director-delves-into-lidias-gameplay-highlights/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
