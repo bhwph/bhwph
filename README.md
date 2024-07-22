@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
- - 😝 [Two years of relationship, had everything we needed, sex was good, enough free time for events and trips with motorcycle, still didn&#39;t work](http://9gag.com/gag/azxAmnm)
- - 👉 [Find the Pattern](http://9gag.com/gag/aLn9wDP)<!-- MEMES:END -->
+ - 6️⃣ [This wont make it to hot anyway.](http://9gag.com/gag/a0ejQQv)
+ - 😝 [Planky](http://9gag.com/gag/aqyLgzP)
+ - 👉 [System malfunction.](http://9gag.com/gag/aGyDZQG)<!-- MEMES:END -->
 
 --- 
 
