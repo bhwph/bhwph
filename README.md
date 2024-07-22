@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass Is Finally Getting Its First Call Of Duty Later This Week](https://kotaku.com/game-pass-call-of-duty-modern-warfare-3-mw3-july-xbox-1851601479)
- - [This new co-op horde shooter on Steam is so bad it made me feel physically ill](https://www.pcgamer.com/games/fps/this-new-co-op-horde-shooter-on-steam-is-so-bad-it-made-me-feel-physically-ill)
- - [Epic&#39;s bringing the joy of mocking a passing Cybertruck to Fortnite](https://www.pcgamer.com/games/battle-royale/epics-bringing-the-joy-of-mocking-a-passing-cybertruck-to-fortnite)<!-- GAME:END -->
+ - [New Strategy Game Is They Are Billions For Lego Freaks And I Can&#39;t Put It Down](https://kotaku.com/cataclismo-lego-steam-city-builder-strategy-horde-mode-1851601693)
+ - [What time does Modern Warfare 3 season 5 release?](https://www.polygon.com/modern-warfare-3-guides/24203809/season-5-release-time-date-mw3-summerslam)
+ - [Stardew Valley creator swears &#39;on the honor of my family name&#39; that he&#39;ll never charge money for DLC](https://www.pcgamer.com/games/life-sim/stardew-valley-creator-swears-on-the-honor-of-my-family-name-that-hell-never-charge-money-for-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
