@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
- - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
- - 👉 [Filtering water using gravity and a paper towel](http://9gag.com/gag/a34jwzv)<!-- MEMES:END -->
+ - 😝 [Two years of relationship, had everything we needed, sex was good, enough free time for events and trips with motorcycle, still didn&#39;t work](http://9gag.com/gag/azxAmnm)
+ - 👉 [Find the Pattern](http://9gag.com/gag/aLn9wDP)<!-- MEMES:END -->
 
 --- 
 
