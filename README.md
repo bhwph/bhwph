@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Planky](http://9gag.com/gag/aqyLgzP)
- - 😝 [Find the Pattern](http://9gag.com/gag/aLn9wDP)
- - 👉 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)<!-- MEMES:END -->
+ - 6️⃣ [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
+ - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
+ - 👉 [Filtering water using gravity and a paper towel](http://9gag.com/gag/a34jwzv)<!-- MEMES:END -->
 
 --- 
 
