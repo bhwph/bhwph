@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Japan lured some AI companies with copyright laws that critics say allow widespread use of copyrighted images and other materials, alarming creators &lpar;Financial Times&rpar;](http://www.techmeme.com/240722/p6#a240722p6)
- - [Apple TV Plus isn’t overtaking Netflix anytime soon, and Apple knows it](https://www.androidauthority.com/apple-tv-plus-isnt-overtaking-netflix-3463133/)
- - [Child safety watchdog accuses Apple of hiding real CSAM figures](https://appleinsider.com/articles/24/07/22/child-safety-watchdog-accuses-apple-of-hiding-real-csam-figures?utm_medium=rss)<!-- TECH:END -->
+ - [AI terminology, explained for humans](https://www.theverge.com/24201441/ai-terminology-explained-humans)
+ - [Apple TV Plus budgets come under close scrutiny from top exec](https://www.theverge.com/2024/7/22/24203423/apple-tv-plus-tighten-budget-streaming-losses)
+ - [The Right Reacts to Biden’s Withdrawal: It’s a ‘Coup’](https://www.wired.com/story/gop-reaction-biden-coup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
