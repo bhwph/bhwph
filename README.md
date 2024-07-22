@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How EA uses AI to scan ~11K players&#39; photos to create 3D avatars for its college football game; EA secured players&#39; likeness rights for the first time in 2021 &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/240722/p3#a240722p3)
- - [PSA: The Samsung Galaxy Ring works with any Android phone](https://www.androidauthority.com/psa-samsung-galaxy-ring-support-any-android-phone-3463119/)
- - [Pixel 9 leak gives us more hope for good network reception](https://www.androidauthority.com/google-pixel-9-series-modem-leak-3463020/)<!-- TECH:END -->
+ - [How Japan lured some AI companies with copyright laws that critics say allow widespread use of copyrighted images and other materials, alarming creators &lpar;Financial Times&rpar;](http://www.techmeme.com/240722/p6#a240722p6)
+ - [Apple TV Plus isn’t overtaking Netflix anytime soon, and Apple knows it](https://www.androidauthority.com/apple-tv-plus-isnt-overtaking-netflix-3463133/)
+ - [Child safety watchdog accuses Apple of hiding real CSAM figures](https://appleinsider.com/articles/24/07/22/child-safety-watchdog-accuses-apple-of-hiding-real-csam-figures?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
