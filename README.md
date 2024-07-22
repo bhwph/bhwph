@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s 2025 smartphone lineup could start with the iPhone SE 4](https://www.androidauthority.com/apple-2025-iphone-lineup-3463265/)
- - [Here are a couple of great portable monitor deals for your multi-tasking pleasure](https://www.androidauthority.com/portable-monitor-deals-3463300/)
- - [Eufy quietly pushes release of Find My Device trackers to late 2024](https://www.androidauthority.com/eufy-trackers-delayed-3463194/)<!-- TECH:END -->
+ - [Google’s recruiting a new wave of Pixel Superfans](https://www.androidauthority.com/pixel-superfan-sign-ups-3463335/)
+ - [A look inside Iconiq Growth two months after it closed a $5.75B fund, its largest ever and 42% larger than its previous fund &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/240722/p16#a240722p16)
+ - [One of the rarest NES games of all time goes up for auction today](https://www.theverge.com/2024/7/22/24203796/nintendo-nes-gaming-auction-rare-gold-cartridge-world-championships)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
