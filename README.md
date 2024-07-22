@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Orcs Must Die&#39;s next entry will bring a roguelite twist next year](https://www.pcgamer.com/games/roguelike/orcs-must-dies-next-entry-will-bring-a-roguelite-twist-next-year)
- - [Guilty Gear Strive is getting Lucy from Cyberpunk: Edgerunners as a guest fighter next year](https://www.pcgamer.com/games/fighting/guilty-gear-strive-is-getting-lucy-from-cyberpunk-edgerunners-as-a-guest-fighter-next-year)
- - [Evo 2024: All the big reveals and announcements](https://www.polygon.com/24201533/evo-announcements-reveals-trailers-2024)<!-- GAME:END -->
+ - [Here&#39;s a game that combines jigsaw puzzles with arithmetic problems to great success](https://www.pcgamer.com/games/puzzle/heres-a-game-that-combines-jigsaw-puzzles-with-arithmetic-problems-to-great-success)
+ - [Conscript is an old school survival horror game where the horror is just that you&#39;re in World War 1](https://www.pcgamer.com/games/horror/conscript-is-an-old-school-survival-horror-game-where-the-horror-is-just-that-youre-in-world-war-1)
+ - [PowerWash Simulator keeps on giving, with two nautical maps chosen by the community coming to the people&#39;s champ in a free update](https://www.pcgamer.com/games/fps/powerwash-simulator-keeps-on-giving-with-two-nautical-maps-chosen-by-the-community-coming-to-the-peoples-champ-in-a-free-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
