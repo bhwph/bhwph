@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I support this](http://9gag.com/gag/adBXKd9)
+ - 6️⃣ [Planky](http://9gag.com/gag/aqyLgzP)
  - 😝 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
- - 👉 [I guess we&#39;ll never know.](http://9gag.com/gag/a4PjRPy)<!-- MEMES:END -->
+ - 👉 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)<!-- MEMES:END -->
 
 --- 
 
