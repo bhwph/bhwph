@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is our first look at the Oura Ring 4](https://www.androidauthority.com/oura-ring-4-first-look-3463096/)
- - [Asus ROG Ally X Review: More Battery and Storage, Same Windows Problems](https://www.wired.com/review/asus-rog-ally-x/)
- - [Sources: Nvidia is working with Inspur to launch and distribute a new flagship AI chip &quot;B20&quot; for China that would be compatible with current US restrictions &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240722/p1#a240722p1)<!-- TECH:END -->
+ - [How EA uses AI to scan ~11K players&#39; photos to create 3D avatars for its college football game; EA secured players&#39; likeness rights for the first time in 2021 &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/240722/p3#a240722p3)
+ - [PSA: The Samsung Galaxy Ring works with any Android phone](https://www.androidauthority.com/psa-samsung-galaxy-ring-support-any-android-phone-3463119/)
+ - [Pixel 9 leak gives us more hope for good network reception](https://www.androidauthority.com/google-pixel-9-series-modem-leak-3463020/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
