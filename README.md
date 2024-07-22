@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Store preps new tools for app discovery &lpar;Update: Screenshots&rpar;](https://www.androidauthority.com/play-store-interests-3458223/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 22, #141](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-22-141/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 21, #140](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-21-140/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This is our first look at the Oura Ring 4](https://www.androidauthority.com/oura-ring-4-first-look-3463096/)
+ - [Asus ROG Ally X Review: More Battery and Storage, Same Windows Problems](https://www.wired.com/review/asus-rog-ally-x/)
+ - [Sources: Nvidia is working with Inspur to launch and distribute a new flagship AI chip &quot;B20&quot; for China that would be compatible with current US restrictions &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240722/p1#a240722p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
