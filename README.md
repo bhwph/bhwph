@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This wont make it to hot anyway.](http://9gag.com/gag/a0ejQQv)
- - 😝 [Planky](http://9gag.com/gag/aqyLgzP)
- - 👉 [System malfunction.](http://9gag.com/gag/aGyDZQG)<!-- MEMES:END -->
+ - 6️⃣ [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
+ - 😝 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
+ - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
 
 --- 
 
