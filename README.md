@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Planky](http://9gag.com/gag/aqyLgzP)
- - 😝 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
- - 👉 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)<!-- MEMES:END -->
+ - 😝 [Find the Pattern](http://9gag.com/gag/aLn9wDP)
+ - 👉 [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)<!-- MEMES:END -->
 
 --- 
 
