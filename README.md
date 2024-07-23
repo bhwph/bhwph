@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Farming sux in South Africa](http://9gag.com/gag/a2v5ZyD)
- - 😝 [Dear John:](http://9gag.com/gag/aAyPGxZ)
- - 👉 [Daniel&#39;s first time.](http://9gag.com/gag/aNDWpNv)<!-- MEMES:END -->
+ - 6️⃣ [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
+ - 😝 [What&#39;s your darkest secret?](http://9gag.com/gag/aNDWPj0)
+ - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
 
 --- 
 
