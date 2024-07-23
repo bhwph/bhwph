@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Farming sux in South Africa](http://9gag.com/gag/a2v5ZyD)
- - 😝 [This was the best wizard fight in the entire Harry Potter franchise. There was nothing like it ever again.](http://9gag.com/gag/aqyLGVQ)
- - 👉 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)<!-- MEMES:END -->
+ - 😝 [Dear John:](http://9gag.com/gag/aAyPGxZ)
+ - 👉 [Daniel&#39;s first time.](http://9gag.com/gag/aNDWpNv)<!-- MEMES:END -->
 
 --- 
 
