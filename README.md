@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV will no longer let you rent or purchase videos, but there’s a solution](https://www.androidauthority.com/google-tv-rent-movie-tv-shows-3463522/)
- - [Vancouver-based Clio, which makes cloud tools to help law firms run more efficiently, raised a $900M Series F at a $3B valuation, up from $1.6B in April 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240723/p17#a240723p17)
- - [Amazon begins rolling out a new UI for Prime Video to help distinguish content included with Prime, update its navigation bar, manage subscriptions, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240723/p16#a240723p16)<!-- TECH:END -->
+ - [Google gives up on Chrome plan to ditch third-party cookies](https://appleinsider.com/articles/24/07/23/google-gives-up-on-chrome-plan-to-ditch-third-party-cookies?utm_medium=rss)
+ - [Angry Miao’s new $559 mechanical keyboard has Game Boy vibes](https://www.theverge.com/2024/7/23/24204005/angry-miao-am-rgb-65-nintendo-game-boy-mechanical-keyboard-price-specs)
+ - [Posh, an iOS app that offers a TikTok-like vertical feed of events, raised a $22M Series A, taking its total funding to $31M, and claims 2M registered users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240723/p19#a240723p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
