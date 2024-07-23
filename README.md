@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google gives up on Chrome plan to ditch third-party cookies](https://appleinsider.com/articles/24/07/23/google-gives-up-on-chrome-plan-to-ditch-third-party-cookies?utm_medium=rss)
- - [Angry Miao’s new $559 mechanical keyboard has Game Boy vibes](https://www.theverge.com/2024/7/23/24204005/angry-miao-am-rgb-65-nintendo-game-boy-mechanical-keyboard-price-specs)
- - [Posh, an iOS app that offers a TikTok-like vertical feed of events, raised a $22M Series A, taking its total funding to $31M, and claims 2M registered users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240723/p19#a240723p19)<!-- TECH:END -->
+ - [Netflix has a new gaming boss after hiring former Epic exec](https://www.theverge.com/2024/7/23/24204447/netflix-president-of-games-alain-tascan)
+ - [Meta VP Rob Sherman confirms a report that Meta received an EU request to pause future AI model training on data in the EU, and says the EU may get left behind &lpar;Financial Times&rpar;](http://www.techmeme.com/240723/p23#a240723p23)
+ - [Future Apple Vision Pro update could let users create their own gestures](https://appleinsider.com/articles/24/07/23/future-apple-vision-pro-update-could-let-users-create-their-own-gestures?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
