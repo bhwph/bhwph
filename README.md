@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mozilla and AI Forensics: TikTok Lite, launched in 2018 and aimed at poorer markets, leaves AI-generated content unlabeled and lacks other similar safeguards &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240723/p8#a240723p8)
- - [Leaked images show the upcoming &quot;Google TV Streamer&quot;, a new set-top box with a pill-shaped design, to replace the dongle form factor, and an updated remote &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240723/p7#a240723p7)
- - [Samsung says its future phones might not look like anything we’ve seen yet](https://www.androidauthority.com/samsung-new-form-factors-ai-smartphones-3463478/)<!-- TECH:END -->
+ - [Google TV will no longer let you rent or purchase videos, but there’s a solution](https://www.androidauthority.com/google-tv-rent-movie-tv-shows-3463522/)
+ - [Vancouver-based Clio, which makes cloud tools to help law firms run more efficiently, raised a $900M Series F at a $3B valuation, up from $1.6B in April 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240723/p17#a240723p17)
+ - [Amazon begins rolling out a new UI for Prime Video to help distinguish content included with Prime, update its navigation bar, manage subscriptions, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240723/p16#a240723p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
