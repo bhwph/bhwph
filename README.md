@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon lost $25B+ on its devices business between 2017 and 2021 as its plan to sell hardware at a lower price and make money elsewhere hasn&#39;t worked &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/240722/p24#a240722p24)
- - [If you want a great smartwatch at a low price, the Amazfit GTR 3 is only $80 right now](https://www.androidauthority.com/amazfit-gtr-3-smartwatch-deal-3463299/)
- - [Wa&#39;ed Ventures, the $500M venture arm of Saudi Aramco, made its first investment in South Korea by investing $15M in AI chipmaker Rebellions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p23#a240722p23)<!-- TECH:END -->
+ - [An investigation shows how pedophiles groom children using Roblox, a problem exacerbated by Roblox not collecting any personal information beyond a user&#39;s age &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p26#a240722p26)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 23, #142](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-23-142/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 23, #408](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-23-408/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
