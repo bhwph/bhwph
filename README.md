@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [T.A.t.U is a duo of singers who became the largest `Gay icon`... only to be revealed that they&#39;ve been Queerbaiting the entire time and one of them even views LGBT as a form of mental illness.](http://9gag.com/gag/aPAWgqw)
- - 😝 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)
- - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
+ - 6️⃣ [What was next?](http://9gag.com/gag/abAZvNO)
+ - 😝 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
+ - 👉 [T.A.t.U is a duo of singers who became the largest `Gay icon`... only to be revealed that they&#39;ve been Queerbaiting the entire time and one of them even views LGBT as a form of mental illness.](http://9gag.com/gag/aPAWgqw)<!-- MEMES:END -->
 
 --- 
 
