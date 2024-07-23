@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cool!](http://9gag.com/gag/apRL9m5)
- - 😝 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
- - 👉 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)<!-- MEMES:END -->
+ - 6️⃣ [Bikini bottom](http://9gag.com/gag/a87412d)
+ - 😝 [Still warm](http://9gag.com/gag/aW4MGb3)
+ - 👉 [Instant trigger](http://9gag.com/gag/avynyYb)<!-- MEMES:END -->
 
 --- 
 
