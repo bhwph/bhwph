@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What was next?](http://9gag.com/gag/abAZvNO)
- - 😝 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
- - 👉 [T.A.t.U is a duo of singers who became the largest `Gay icon`... only to be revealed that they&#39;ve been Queerbaiting the entire time and one of them even views LGBT as a form of mental illness.](http://9gag.com/gag/aPAWgqw)<!-- MEMES:END -->
+ - 6️⃣ [Dear John:](http://9gag.com/gag/aAyPGxZ)
+ - 😝 [Always the victim](http://9gag.com/gag/ayN8N5q)
+ - 👉 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)<!-- MEMES:END -->
 
 --- 
 
