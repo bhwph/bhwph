@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Italy is probably bigger than Texas then](http://9gag.com/gag/awyVB8R)
- - 😝 [The more comments I read the more I realise you&#39;re not kids, you&#39;re just bitter f**ks](http://9gag.com/gag/a6ZQOM8)
- - 👉 [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)<!-- MEMES:END -->
+ - 6️⃣ [Farming sux in South Africa](http://9gag.com/gag/a2v5ZyD)
+ - 😝 [This was the best wizard fight in the entire Harry Potter franchise. There was nothing like it ever again.](http://9gag.com/gag/aqyLGVQ)
+ - 👉 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)<!-- MEMES:END -->
 
 --- 
 
