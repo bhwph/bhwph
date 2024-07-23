@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dear John:](http://9gag.com/gag/aAyPGxZ)
- - 😝 [Always the victim](http://9gag.com/gag/ayN8N5q)
- - 👉 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)<!-- MEMES:END -->
+ - 6️⃣ [Germans are the level 99 boss](http://9gag.com/gag/aD2G2WB)
+ - 😝 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)
+ - 👉 [Cool!](http://9gag.com/gag/apRL9m5)<!-- MEMES:END -->
 
 --- 
 
