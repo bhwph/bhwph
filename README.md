@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wa&#39;ed Ventures, the $500M venture arm of Saudi Aramco, made its first investment in South Korea by investing $15M in AI chipmaker Rebellions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p23#a240722p23)
- - [Tech billionaires can’t build their ‘California Forever’ city yet](https://www.theverge.com/2024/7/22/24203960/california-forever-billionaire-city-environmental-impact-study)
- - [Reeling from CrowdStrike-related outages, Delta has canceled 4,000+ flights since Friday, including 900+ flights on Monday so far, according to FlightAware &lpar;Reuters&rpar;](http://www.techmeme.com/240722/p22#a240722p22)<!-- TECH:END -->
+ - [Sources: Amazon lost $25B+ on its devices business between 2017 and 2021 as its plan to sell hardware at a lower price and make money elsewhere hasn&#39;t worked &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/240722/p24#a240722p24)
+ - [If you want a great smartwatch at a low price, the Amazfit GTR 3 is only $80 right now](https://www.androidauthority.com/amazfit-gtr-3-smartwatch-deal-3463299/)
+ - [Wa&#39;ed Ventures, the $500M venture arm of Saudi Aramco, made its first investment in South Korea by investing $15M in AI chipmaker Rebellions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p23#a240722p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
