@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I downloaded Intel&#39;s new AI Playground beta and may have finally found something Arc is honestly good at](https://www.pcgamer.com/hardware/graphics-cards/i-downloaded-intels-new-ai-playground-beta-and-may-have-finally-found-something-arc-is-honestly-good-at)
- - [Minisforum AtomMan X7 Ti review](https://www.pcgamer.com/hardware/gaming-pcs/minisforum-atomman-x7-ti-review)
- - [Tesla will roll out &#39;genuinely useful&#39; humanoid robots to factory floor next year says Musk](https://www.pcgamer.com/hardware/tesla-will-roll-out-genuinely-useful-humanoid-robots-to-factory-floor-next-year-says-musk)<!-- GAME:END -->
+ - [New Joker 2 Trailer Reveals A Chaotic Musical Love Story](https://kotaku.com/joker-2-folie-deux-trailer-release-date-musical-1851602214)
+ - [Amazon Prime Video Is Fixing Its Absolute Worst Feature](https://kotaku.com/amazon-prime-video-ui-subscriptions-fallout-1851602153)
+ - [Final Fantasy 14: Dawntrail is a great story with a ton of potential, but it&#39;s told so poorly it nearly ruins the whole thing](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-is-a-great-story-with-a-ton-of-potential-on-paper-but-it-s-told-so-poorly-it-nearly-ruins-the-whole-thing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
