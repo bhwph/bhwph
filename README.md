@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Free update makes Cowboy e-bikes better climbers and more efficient](https://www.theverge.com/2024/7/22/24203864/cowboy-adaptive-power-2-wind-weight-hills)
- - [Google backtracks on Chrome’s biggest privacy promise](https://www.androidauthority.com/chrome-third-party-cookies-3463374/)
- - [Intel says elevated voltage is causing the ongoing &quot;instability issues&quot; in some Core 13th and 14th Gen desktop processors, and plans to release a fix in August &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240722/p19#a240722p19)<!-- TECH:END -->
+ - [Wa&#39;ed Ventures, the $500M venture arm of Saudi Aramco, made its first investment in South Korea by investing $15M in AI chipmaker Rebellions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p23#a240722p23)
+ - [Tech billionaires can’t build their ‘California Forever’ city yet](https://www.theverge.com/2024/7/22/24203960/california-forever-billionaire-city-environmental-impact-study)
+ - [Reeling from CrowdStrike-related outages, Delta has canceled 4,000+ flights since Friday, including 900+ flights on Monday so far, according to FlightAware &lpar;Reuters&rpar;](http://www.techmeme.com/240722/p22#a240722p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
