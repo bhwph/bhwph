@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4 romantic boundaries settings: What they mean and how to change them](https://www.pcgamer.com/games/the-sims/sims-4-romantic-boundaries)
- - [Survival Horror Perfected: The Terrifying Solitude of Empty Shell](https://news.xbox.com/en-us/2024/07/23/survival-horror-perfected-the-terrifying-solitude-of-empty-shell/)
- - [Nintendo revokes Splatoon championship title following misconduct from winning team](https://www.polygon.com/nintendo/24204551/nintendo-splatoon-championship-revoked-racism-allegations)<!-- GAME:END -->
+ - [The developers of this new micro-tactics roguelite RPG say it&#39;s &#39;small in scale, grand in depth&#39;](https://www.pcgamer.com/games/rpg/the-developers-of-this-new-micro-tactics-roguelite-rpg-say-its-small-in-scale-grand-in-depth)
+ - [A Google Doodle animator is my new favorite Elden Ring lore theorist thanks to this cartoon retelling of Shadow of the Erdtree set to a Taylor Swift song](https://www.pcgamer.com/games/rpg/a-google-doodle-animator-is-my-new-favorite-elden-ring-lore-theorist-thanks-to-this-cartoon-retelling-of-shadow-of-the-erdtree-set-to-a-taylor-swift-song)
+ - [No, Southwest Airlines Isn&#39;t Using Windows 3.1 In 2024](https://kotaku.com/southwest-airlines-windows-3-1-blue-screen-crowdstrike-1851603013)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
