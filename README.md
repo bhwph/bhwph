@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [dYdX, which is reportedly exploring a sale, says v3, an older version of its DeFi crypto exchange that averages ~$1.5B/week in derivates trading, was hacked &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240723/p28#a240723p28)
- - [YouTube Music streamlines artist pages with new layout](https://www.androidauthority.com/youtube-music-makeover-3463604/)
- - [X website reverts water pistol emoji to realistic gun](https://appleinsider.com/articles/24/07/23/x-website-reverts-water-pistol-emoji-to-realistic-gun?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel 9 Pro XL goes up against last year’s 8 Pro in latest video leak](https://www.androidauthority.com/pixel-9-pro-xl-hands-on-leak-3463700/)
+ - [Alphabet Q2: revenue of $84.7B, up 14% YoY, net income of $23.6B, up 29% YoY, Google Cloud revenue of $10.3B, up from $8B YoY, and headcount down 1% to 179,582 &lpar;Alphabet&rpar;](http://www.techmeme.com/240723/p32#a240723p32)
+ - [Daniel Ek says Spotify is working on a deluxe Spotify tier, around a $17-$18 price point, that has &quot;a lot more control, a lot higher quality across the board&quot; &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240723/p31#a240723p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
