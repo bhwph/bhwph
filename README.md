@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix has a new gaming boss after hiring former Epic exec](https://www.theverge.com/2024/7/23/24204447/netflix-president-of-games-alain-tascan)
- - [Meta VP Rob Sherman confirms a report that Meta received an EU request to pause future AI model training on data in the EU, and says the EU may get left behind &lpar;Financial Times&rpar;](http://www.techmeme.com/240723/p23#a240723p23)
- - [Future Apple Vision Pro update could let users create their own gestures](https://appleinsider.com/articles/24/07/23/future-apple-vision-pro-update-could-let-users-create-their-own-gestures?utm_medium=rss)<!-- TECH:END -->
+ - [dYdX, which is reportedly exploring a sale, says v3, an older version of its DeFi crypto exchange that averages ~$1.5B/week in derivates trading, was hacked &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240723/p28#a240723p28)
+ - [YouTube Music streamlines artist pages with new layout](https://www.androidauthority.com/youtube-music-makeover-3463604/)
+ - [X website reverts water pistol emoji to realistic gun](https://appleinsider.com/articles/24/07/23/x-website-reverts-water-pistol-emoji-to-realistic-gun?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
