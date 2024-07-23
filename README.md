@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Italy is probably bigger than Texas then](http://9gag.com/gag/awyVB8R)
  - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
- - 👉 [The best culture in the history of the earth.](http://9gag.com/gag/agmGB4x)<!-- MEMES:END -->
+ - 👉 [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)<!-- MEMES:END -->
 
 --- 
 
