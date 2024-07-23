@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientists hunt for clues about China&#39;s supercomputing progress as Chinese scientists turn secretive and stop participating in the Top500, after US sanctions &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/240723/p4#a240723p4)
- - [Here&#39;s How Much Experts Predict Your Social Security Check Will Increase in 2025](https://www.cnet.com/personal-finance/heres-how-much-experts-predict-your-social-security-check-will-increase-in-2025/#ftag=CAD590a51e)
- - [The One UI 7 beta could be right around the corner for your Samsung phone](https://www.androidauthority.com/leak-samsung-one-ui-7-beta-launch-date-3463465/)<!-- TECH:END -->
+ - [Mozilla and AI Forensics: TikTok Lite, launched in 2018 and aimed at poorer markets, leaves AI-generated content unlabeled and lacks other similar safeguards &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240723/p8#a240723p8)
+ - [Leaked images show the upcoming &quot;Google TV Streamer&quot;, a new set-top box with a pill-shaped design, to replace the dongle form factor, and an updated remote &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240723/p7#a240723p7)
+ - [Samsung says its future phones might not look like anything we’ve seen yet](https://www.androidauthority.com/samsung-new-form-factors-ai-smartphones-3463478/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
