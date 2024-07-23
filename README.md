@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Google has changed its mind about dropping support for third-party cookies in Chrome, after years of trying to make it happen](https://www.pcgamer.com/software/browsers/google-has-changed-its-mind-about-dropping-support-for-third-party-cookies-in-chrome-after-years-of-trying-to-make-it-happen)
- - [How to solve the telephone booth puzzle in Once Human](https://www.pcgamer.com/games/survival-crafting/once-human-telephone-booth-puzzle)
- - [Intel finally breaks silence, points finger at &#39;microcode algorithm&#39; voltage errors, and says it&#39;s going to patch Core 13th/14th Gen CPU stability issues mid-August](https://www.pcgamer.com/hardware/processors/intel-finally-breaks-silence-points-finger-at-microcode-algorithm-voltage-errors-and-says-its-going-to-patch-core-13th14th-gen-cpu-stability-issues-mid-august)<!-- GAME:END -->
+ - [I downloaded Intel&#39;s new AI Playground beta and may have finally found something Arc is honestly good at](https://www.pcgamer.com/hardware/graphics-cards/i-downloaded-intels-new-ai-playground-beta-and-may-have-finally-found-something-arc-is-honestly-good-at)
+ - [Minisforum AtomMan X7 Ti review](https://www.pcgamer.com/hardware/gaming-pcs/minisforum-atomman-x7-ti-review)
+ - [Tesla will roll out &#39;genuinely useful&#39; humanoid robots to factory floor next year says Musk](https://www.pcgamer.com/hardware/tesla-will-roll-out-genuinely-useful-humanoid-robots-to-factory-floor-next-year-says-musk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
