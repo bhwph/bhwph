@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
- - 😝 [What&#39;s your darkest secret?](http://9gag.com/gag/aNDWPj0)
- - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
+ - 6️⃣ [Italy is probably bigger than Texas then](http://9gag.com/gag/awyVB8R)
+ - 😝 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
+ - 👉 [The best culture in the history of the earth.](http://9gag.com/gag/agmGB4x)<!-- MEMES:END -->
 
 --- 
 
