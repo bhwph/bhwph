@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation shows how pedophiles groom children using Roblox, a problem exacerbated by Roblox not collecting any personal information beyond a user&#39;s age &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p26#a240722p26)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 23, #142](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-23-142/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 23, #408](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-23-408/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leak: The Galaxy Z Fold 6 Slim now has a launch window](https://www.androidauthority.com/samsung-galaxy-z-fold-6-slim-ultra-launch-window-3463100/)
+ - [A profile of Nick Pickles, who has recently been promoted to X&#39;s VP of global affairs; sources: Pickles has become the right-hand man to CEO Linda Yaccarino &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240723/p3#a240723p3)
+ - [Malaysia plans to require social and messaging apps to register for a renewable license starting late 2024; Singapore asks online platforms to curb scams &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240723/p2#a240723p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
