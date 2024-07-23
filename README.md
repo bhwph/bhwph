@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Instant trigger](http://9gag.com/gag/avynyYb)
- - 😝 [Cool!](http://9gag.com/gag/apRL9m5)
- - 👉 [Germans are the level 99 boss](http://9gag.com/gag/aD2G2WB)<!-- MEMES:END -->
+ - 6️⃣ [Cool!](http://9gag.com/gag/apRL9m5)
+ - 😝 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
+ - 👉 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)<!-- MEMES:END -->
 
 --- 
 
