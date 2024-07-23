@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9 Pro XL goes up against last year’s 8 Pro in latest video leak](https://www.androidauthority.com/pixel-9-pro-xl-hands-on-leak-3463700/)
- - [Alphabet Q2: revenue of $84.7B, up 14% YoY, net income of $23.6B, up 29% YoY, Google Cloud revenue of $10.3B, up from $8B YoY, and headcount down 1% to 179,582 &lpar;Alphabet&rpar;](http://www.techmeme.com/240723/p32#a240723p32)
- - [Daniel Ek says Spotify is working on a deluxe Spotify tier, around a $17-$18 price point, that has &quot;a lot more control, a lot higher quality across the board&quot; &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240723/p31#a240723p31)<!-- TECH:END -->
+ - [The cheapest Wi-Fi 7 router is this $99 TP-Link one](https://www.theverge.com/2024/7/23/24204616/cheapest-wi-fi-7-router-tp-link-archer-be-3600-easymesh-no-6ghz-band)
+ - [Internal messages: Meta staff complained about Threads&#39; algorithm limiting political posts, after the For You page was slow to show news of Biden dropping out &lpar;The Information&rpar;](http://www.techmeme.com/240723/p38#a240723p38)
+ - [Deadpool &amp; Wolverine is a desperate Hail Mary](https://www.theverge.com/24204339/deadpool-wolverine-review-xmen-marvel-mcu)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
