@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Our resolve is unwavering and should not be tested&#39;: Major union SAG-AFTRA breaks  glass on big red strike button as negotiations continue on voice actor AI protections](https://www.pcgamer.com/gaming-industry/our-resolve-is-unwavering-and-should-not-be-tested-major-union-sag-aftra-breaks-glass-on-big-red-strike-button-as-negotiations-continue-on-voice-actor-ai-protections)
- - [The Best Class For Solo Players In Final Fantasy XIV](https://kotaku.com/final-fantasy-xiv-14-solo-play-classes-jobs-1851602448)
- - [Once Human codes and how to redeem them](https://www.pcgamer.com/games/survival-crafting/once-human-codes)<!-- GAME:END -->
+ - [Designing Fan-Favorite Kombatant Takeda Takahashi for Mortal Kombat 1](https://news.xbox.com/en-us/2024/07/23/mortal-kombat-1-takeda-dlc/)
+ - [Call of Duty finally comes to Game Pass with Modern Warfare 3 release](https://www.polygon.com/24204402/call-of-duty-modern-warfare-3-game-pass-cod-mw3)
+ - [Pokémon Go ‘Grow Together’ Timed Research — is it worth it?](https://www.polygon.com/pokemon-go-guide/24200541/grow-together-paid-timed-research-worth-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
