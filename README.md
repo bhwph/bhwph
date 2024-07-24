@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In my country,a wife cannot claim a husband&#39;s pre-marriage property.she can only ask for a reasonable alimony/maintanence.also,my country is misogynist AF.](http://9gag.com/gag/aD2GYEd)
- - 😝 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
- - 👉 [How hikers was born](http://9gag.com/gag/amozoeo)<!-- MEMES:END -->
+ - 6️⃣ [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)
+ - 😝 [A real G](http://9gag.com/gag/aryNm5p)
+ - 👉 [Funerals in Africa](http://9gag.com/gag/a7odORr)<!-- MEMES:END -->
 
 --- 
 
