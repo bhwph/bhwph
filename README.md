@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 Trolls Crowdstrike Over Worldwide Outage](https://kotaku.com/helldivers-2-joke-arrowhead-crowdstrike-1851603412)
- - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
- - [Empire of the Ants marches to PS5 November 7: Details on crafting a realistic microscopic world](https://blog.playstation.com/2024/07/24/empire-of-the-ants-marches-to-ps5-november-7-details-on-crafting-a-realistic-microscopic-world/)<!-- GAME:END -->
+ - [It&#39;s official: International Olympic Committee votes to confirm the first Olympic Esports Games will happen in 2025, even if they don&#39;t know the games yet](https://www.pcgamer.com/gaming-industry/its-official-international-olympic-committee-votes-to-confirm-the-first-olympic-esports-games-will-happen-in-2025-even-if-they-dont-know-the-games-yet)
+ - [Warframe Players Have Baldur’s Gate 3 To Thank For New Romance System](https://kotaku.com/waframe-1999-romance-system-inspired-by-baldurs-gate-3-1851603674)
+ - [Mark Zuckerberg launches Meta&#39;s latest AI model, moans about Apple being mean and imagines a future of AI bots commenting on each other&#39;s social media posts](https://www.pcgamer.com/software/ai/mark-zuckerberg-launches-metas-latest-ai-model-moans-about-apple-being-mean-and-imagines-a-future-of-ai-bots-commenting-on-each-others-social-media-posts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
