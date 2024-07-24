@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Sims 4 Update Breaks Game, But At Least You Can Build Phallic Pools](https://kotaku.com/sims-4-lovestruck-july-update-issues-ui-cas-1851604005)
- - [Nintendo summer sale has big discounts on NES controllers, Final Fantasy, and Resident Evil](https://www.polygon.com/deals/24205225/nintendo-switch-summer-sale-square-enix-capcom-wb-games-nes)
- - [Co-op makes Slay the Spire: The Board Game an instant classic](https://www.polygon.com/tabletop-games/2024/7/24/24204495/slay-the-spire-the-board-game-cooperative-overboard)<!-- GAME:END -->
+ - [World of Warcraft’s new character-select screen made me emotional](https://www.polygon.com/24205283/world-of-warcraft-pre-patch-11-0-warband-character-select)
+ - [The worst part of the new Apex Legends battle pass plan is being reversed](https://www.pcgamer.com/games/battle-royale/the-worst-part-of-the-new-apex-legends-battle-pass-plan-is-being-reversed)
+ - [EA College Football Is A Perfect Storm Of Confusion For Xbox Fans](https://kotaku.com/xbox-one-series-x-s-college-football-25-madden-nfl-ea-1851604118)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
