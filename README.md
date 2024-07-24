@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn to invest $138 mln for new business headquarters in China &lpar;Reuters&rpar;](http://www.techmeme.com/240724/p4#a240724p4)
- - [Sources: enterprise financial software maker OneStream raised $490M after pricing its IPO at $20 a share, above its $17-$19 marketed range, at a $4.6B valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/240724/p3#a240724p3)
- - [Elon Musk says Starlink service is now active in a hospital in Gaza, reflecting Israel&#39;s reluctance for Gaza residents to have internet access more broadly &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240724/p2#a240724p2)<!-- TECH:END -->
+ - [A dip in rental profits and a shift to longer stays has led some US hosts and property managers to circumvent Airbnb, including asking guests to book directly &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240724/p7#a240724p7)
+ - [Best Tablet Deals: Score Up to $200 off Apple iPad, Samsung Galaxy, Google Pixel and More](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)
+ - [Some in Silicon Valley hope Kamala Harris could provide a chance for a reset, after years of bipartisan criticism in Washington DC toward Big Tech companies &lpar;Politico&rpar;](http://www.techmeme.com/240724/p6#a240724p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
