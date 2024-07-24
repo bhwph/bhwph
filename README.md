@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Damn...](http://9gag.com/gag/aD2G2xB)
- - 😝 [Congresswoman Lisa McClain confronts Secret Service Director Cheatle about the lack of transparency regarding the Trump shooting incident. She demands answers on the number of shell casings and criticizes Cheatle for not sharing crucial information.](http://9gag.com/gag/azxA2Yz)
- - 👉 [Almost identical](http://9gag.com/gag/awyVg8y)<!-- MEMES:END -->
+ - 6️⃣ [Instant trigger](http://9gag.com/gag/avynyYb)
+ - 😝 [Spooder collects wata](http://9gag.com/gag/a874A2Y)
+ - 👉 [Still warm](http://9gag.com/gag/aW4MGb3)<!-- MEMES:END -->
 
 --- 
 
