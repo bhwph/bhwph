@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A dip in rental profits and a shift to longer stays has led some US hosts and property managers to circumvent Airbnb, including asking guests to book directly &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240724/p7#a240724p7)
- - [Best Tablet Deals: Score Up to $200 off Apple iPad, Samsung Galaxy, Google Pixel and More](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)
- - [Some in Silicon Valley hope Kamala Harris could provide a chance for a reset, after years of bipartisan criticism in Washington DC toward Big Tech companies &lpar;Politico&rpar;](http://www.techmeme.com/240724/p6#a240724p6)<!-- TECH:END -->
+ - [Google&#39;s failed deal with Wiz, and with HubSpot before that, puts Google in an awkward spot to grow Cloud; Wiz staff are likely upset at missing a big payday &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240724/p11#a240724p11)
+ - [A profile of Blake Benthall, arrested in 2014 for running Silk Road 2.0, which had 1.7M users and $8M/month sales, as he promotes his crypto startup Fathom&lpar;x&rpar; &lpar;New York Times&rpar;](http://www.techmeme.com/240724/p10#a240724p10)
+ - [RCS on iPhone expands to more carriers and regions with iOS 18 beta 4](https://www.androidauthority.com/rcs-more-carriers-ios-18-beta-4-3464006/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
