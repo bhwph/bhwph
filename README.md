@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Greetings from Poland, no drama, no politics, just BBQ](http://9gag.com/gag/aGyDBD7)
- - 😝 [It&#39;s a nice thing going on around here, thank you.](http://9gag.com/gag/a6ZQ9R8)
- - 👉 [Here meat on a stick](http://9gag.com/gag/aqyL8oQ)<!-- MEMES:END -->
+ - 6️⃣ [We all knew someone like Lance and Greg](http://9gag.com/gag/aAyPEQo)
+ - 😝 [Cool but dead](http://9gag.com/gag/a2v50RY)
+ - 👉 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)<!-- MEMES:END -->
 
 --- 
 
