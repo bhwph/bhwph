@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Olympic drone spying scandal lands Canadian coach a red card](https://www.theverge.com/2024/7/24/24205155/drones-olympics-soccer-canada-spying)
- - [One UI 7 beta could arrive soon with controversial potential design tweaks](https://www.androidauthority.com/one-ui-7-beta-leaks-3464116/)
- - [Chrome adds new warnings and cloud scanning for suspicious downloads](https://www.theverge.com/2024/7/24/24205249/google-chrome-download-malicious-file-cloud-malware-scanning)<!-- TECH:END -->
+ - [Exclusive: Google Pixel 9 Pro Fold ditches its unique form for a taller display](https://www.androidauthority.com/exclusive-pixel-9-pro-fold-display-3464091/)
+ - [ADT rolls out new security system with Nest Secure capabilities and more](https://www.androidauthority.com/adt-security-system-nest-secure-3464125/)
+ - [Atos appoints its chairman Jean Pierre Mustier as CEO to replace departing boss Paul Saleh, in its fifth top management reshuffle in less than two years &lpar;Reuters&rpar;](http://www.techmeme.com/240724/p28#a240724p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
