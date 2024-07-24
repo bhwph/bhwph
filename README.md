@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s official: International Olympic Committee votes to confirm the first Olympic Esports Games will happen in 2025, even if they don&#39;t know the games yet](https://www.pcgamer.com/gaming-industry/its-official-international-olympic-committee-votes-to-confirm-the-first-olympic-esports-games-will-happen-in-2025-even-if-they-dont-know-the-games-yet)
- - [Warframe Players Have Baldur’s Gate 3 To Thank For New Romance System](https://kotaku.com/waframe-1999-romance-system-inspired-by-baldurs-gate-3-1851603674)
- - [Mark Zuckerberg launches Meta&#39;s latest AI model, moans about Apple being mean and imagines a future of AI bots commenting on each other&#39;s social media posts](https://www.pcgamer.com/software/ai/mark-zuckerberg-launches-metas-latest-ai-model-moans-about-apple-being-mean-and-imagines-a-future-of-ai-bots-commenting-on-each-others-social-media-posts)<!-- GAME:END -->
+ - [Free Sims 4 Update Breaks Game, But At Least You Can Build Phallic Pools](https://kotaku.com/sims-4-lovestruck-july-update-issues-ui-cas-1851604005)
+ - [Nintendo summer sale has big discounts on NES controllers, Final Fantasy, and Resident Evil](https://www.polygon.com/deals/24205225/nintendo-switch-summer-sale-square-enix-capcom-wb-games-nes)
+ - [Co-op makes Slay the Spire: The Board Game an instant classic](https://www.polygon.com/tabletop-games/2024/7/24/24204495/slay-the-spire-the-board-game-cooperative-overboard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
