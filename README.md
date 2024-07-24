@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s failed deal with Wiz, and with HubSpot before that, puts Google in an awkward spot to grow Cloud; Wiz staff are likely upset at missing a big payday &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240724/p11#a240724p11)
- - [A profile of Blake Benthall, arrested in 2014 for running Silk Road 2.0, which had 1.7M users and $8M/month sales, as he promotes his crypto startup Fathom&lpar;x&rpar; &lpar;New York Times&rpar;](http://www.techmeme.com/240724/p10#a240724p10)
- - [RCS on iPhone expands to more carriers and regions with iOS 18 beta 4](https://www.androidauthority.com/rcs-more-carriers-ios-18-beta-4-3464006/)<!-- TECH:END -->
+ - [Twitch introduces new policy and moderation updates to curb sexual harassment, including making its policy &quot;easier to understand&quot; and adding moderation tools &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240724/p16#a240724p16)
+ - [Hohem iSteady V3 — A Must-Have for Solo Content Creators](https://www.androidauthority.com/hohem-isteady-v3-gimbal-3463436/)
+ - [Apple Intelligence may get ability to create Apple Music playlist art](https://appleinsider.com/articles/24/07/24/apple-intelligence-may-get-ability-to-create-apple-music-playlist-art?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
