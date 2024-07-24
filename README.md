@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bikini bottom](http://9gag.com/gag/a87412d)
- - 😝 [Still warm](http://9gag.com/gag/aW4MGb3)
- - 👉 [Spooder collects wata](http://9gag.com/gag/a874A2Y)<!-- MEMES:END -->
+ - 6️⃣ [A real G](http://9gag.com/gag/aryNm5p)
+ - 😝 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
+ - 👉 [Key and Peele were right](http://9gag.com/gag/aLn91n6)<!-- MEMES:END -->
 
 --- 
 
