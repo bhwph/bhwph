@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches Apple Maps on the web in beta, available in English and compatible with Safari and Chrome on Mac and iPad, and Chrome and Edge on Windows PCs &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240724/p31#a240724p31)
- - [AMD is slightly delaying its Ryzen 9000 desktop CPUs ‘out of an abundance of caution’](https://www.theverge.com/2024/7/24/24205416/amd-zen-5-ryzen-9000-desktop-delay)
- - [Google’s Reddit monopoly sparks concerns for alternative search engines](https://www.androidauthority.com/google-reddit-monopoly-3464268/)<!-- TECH:END -->
+ - [Looking for a laptop? Here are three hot deals from Apple and ASUS!](https://www.androidauthority.com/laptop-deals-apple-macbook-asus-3464237/)
+ - [A new Nest Learning Thermostat looks like it’s finally on the way](https://www.androidauthority.com/nest-learning-thermostat-4th-gen-3464368/)
+ - [Oyen Digital U34 Bolt SSD review - Enormous drive speed in a rugged package](https://appleinsider.com/articles/24/07/24/oyen-digital-u34-bolt-ssd-review---enormous-drive-speed-in-a-rugged-package?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
