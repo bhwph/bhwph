@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch introduces new policy and moderation updates to curb sexual harassment, including making its policy &quot;easier to understand&quot; and adding moderation tools &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240724/p16#a240724p16)
- - [Hohem iSteady V3 — A Must-Have for Solo Content Creators](https://www.androidauthority.com/hohem-isteady-v3-gimbal-3463436/)
- - [Apple Intelligence may get ability to create Apple Music playlist art](https://appleinsider.com/articles/24/07/24/apple-intelligence-may-get-ability-to-create-apple-music-playlist-art?utm_medium=rss)<!-- TECH:END -->
+ - [The US NCSC warns US tech startups that &quot;foreign threat actors&quot;, including China, might use private investment to exploit them and threaten national security &lpar;Financial Times&rpar;](http://www.techmeme.com/240724/p21#a240724p21)
+ - [We experimented with macOS on the iPad and it was surprisingly good](https://www.theverge.com/24204727/macos-on-ipad-pro-apple-ios-18)
+ - [Apple’s Sunny imagines a cozy future where screens fade into the background](https://www.theverge.com/2024/7/24/24204666/sunny-apple-tv-plus-gadget-interview-katie-robbins)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
