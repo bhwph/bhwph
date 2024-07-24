@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A real G](http://9gag.com/gag/aryNm5p)
- - 😝 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
- - 👉 [Key and Peele were right](http://9gag.com/gag/aLn91n6)<!-- MEMES:END -->
+ - 6️⃣ [How hikers was born](http://9gag.com/gag/amozoeo)
+ - 😝 [That\u2019s cute](http://9gag.com/gag/aYQLGRN)
+ - 👉 [\u201cI lost my son essentially. My son Xavier is dead. Killed by the woke mind virus. So I vowed to destroy the woke mind virus after that.\u201d - Elon Musk](http://9gag.com/gag/aryNm7B)<!-- MEMES:END -->
 
 --- 
 
