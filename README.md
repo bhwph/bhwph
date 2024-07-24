@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How hikers was born](http://9gag.com/gag/amozoeo)
- - 😝 [A real G](http://9gag.com/gag/aryNm5p)
- - 👉 [We must not forget him.](http://9gag.com/gag/aBy1LrQ)<!-- MEMES:END -->
+ - 6️⃣ [In my country,a wife cannot claim a husband&#39;s pre-marriage property.she can only ask for a reasonable alimony/maintanence.also,my country is misogynist AF.](http://9gag.com/gag/aD2GYEd)
+ - 😝 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
+ - 👉 [How hikers was born](http://9gag.com/gag/amozoeo)<!-- MEMES:END -->
 
 --- 
 
