@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How hikers was born](http://9gag.com/gag/amozoeo)
- - 😝 [In my country,a wife cannot claim a husband&#39;s pre-marriage property.she can only ask for a reasonable alimony/maintanence.also,my country is misogynist AF.](http://9gag.com/gag/aD2GYEd)
- - 👉 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)<!-- MEMES:END -->
+ - 6️⃣ [Bikini bottom](http://9gag.com/gag/a87412d)
+ - 😝 [Still warm](http://9gag.com/gag/aW4MGb3)
+ - 👉 [Spooder collects wata](http://9gag.com/gag/a874A2Y)<!-- MEMES:END -->
 
 --- 
 
