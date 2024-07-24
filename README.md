@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Greatest prank ever done](http://9gag.com/gag/ae96QZj)
- - 😝 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)
- - 👉 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)<!-- MEMES:END -->
+ - 6️⃣ [Greetings from Poland, no drama, no politics, just BBQ](http://9gag.com/gag/aGyDBD7)
+ - 😝 [It&#39;s a nice thing going on around here, thank you.](http://9gag.com/gag/a6ZQ9R8)
+ - 👉 [Here meat on a stick](http://9gag.com/gag/aqyL8oQ)<!-- MEMES:END -->
 
 --- 
 
