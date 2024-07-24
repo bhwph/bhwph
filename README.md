@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Designer hands-on: Finally, an AI image creator you’ll want to use](https://www.androidauthority.com/microsoft-designer-hands-on-3463898/)
- - [India scraps &quot;angel tax&quot; for all classes of investors, a major victory to the country&#39;s startup ecosystem that had lobbied for years against the measure &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240723/p49#a240723p49)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 24, #409](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-24-409/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Foxconn to invest $138 mln for new business headquarters in China &lpar;Reuters&rpar;](http://www.techmeme.com/240724/p4#a240724p4)
+ - [Sources: enterprise financial software maker OneStream raised $490M after pricing its IPO at $20 a share, above its $17-$19 marketed range, at a $4.6B valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/240724/p3#a240724p3)
+ - [Elon Musk says Starlink service is now active in a hospital in Gaza, reflecting Israel&#39;s reluctance for Gaza residents to have internet access more broadly &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240724/p2#a240724p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
