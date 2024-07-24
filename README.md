@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US NCSC warns US tech startups that &quot;foreign threat actors&quot;, including China, might use private investment to exploit them and threaten national security &lpar;Financial Times&rpar;](http://www.techmeme.com/240724/p21#a240724p21)
- - [We experimented with macOS on the iPad and it was surprisingly good](https://www.theverge.com/24204727/macos-on-ipad-pro-apple-ios-18)
- - [Apple’s Sunny imagines a cozy future where screens fade into the background](https://www.theverge.com/2024/7/24/24204666/sunny-apple-tv-plus-gadget-interview-katie-robbins)<!-- TECH:END -->
+ - [Olympic drone spying scandal lands Canadian coach a red card](https://www.theverge.com/2024/7/24/24205155/drones-olympics-soccer-canada-spying)
+ - [One UI 7 beta could arrive soon with controversial potential design tweaks](https://www.androidauthority.com/one-ui-7-beta-leaks-3464116/)
+ - [Chrome adds new warnings and cloud scanning for suspicious downloads](https://www.theverge.com/2024/7/24/24205249/google-chrome-download-malicious-file-cloud-malware-scanning)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
