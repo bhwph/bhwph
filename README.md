@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [How hikers was born](http://9gag.com/gag/amozoeo)
- - 😝 [That\u2019s cute](http://9gag.com/gag/aYQLGRN)
- - 👉 [\u201cI lost my son essentially. My son Xavier is dead. Killed by the woke mind virus. So I vowed to destroy the woke mind virus after that.\u201d - Elon Musk](http://9gag.com/gag/aryNm7B)<!-- MEMES:END -->
+ - 😝 [A real G](http://9gag.com/gag/aryNm5p)
+ - 👉 [We must not forget him.](http://9gag.com/gag/aBy1LrQ)<!-- MEMES:END -->
 
 --- 
 
