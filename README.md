@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft’s new character-select screen made me emotional](https://www.polygon.com/24205283/world-of-warcraft-pre-patch-11-0-warband-character-select)
- - [The worst part of the new Apex Legends battle pass plan is being reversed](https://www.pcgamer.com/games/battle-royale/the-worst-part-of-the-new-apex-legends-battle-pass-plan-is-being-reversed)
- - [EA College Football Is A Perfect Storm Of Confusion For Xbox Fans](https://kotaku.com/xbox-one-series-x-s-college-football-25-madden-nfl-ea-1851604118)<!-- GAME:END -->
+ - [Dungeons and Kingdoms is an upcoming game that&#39;s about exactly what it sounds like: dungeon crawling and kingdom management](https://www.pcgamer.com/games/sim/dungeons-and-kingdoms-is-an-upcoming-game-thats-about-exactly-what-it-sounds-like-dungeon-crawling-and-kingdom-management)
+ - [New PS5 beta update makes roommate-friendly changes to Remote Play, audio](https://www.polygon.com/24205485/ps5-beta-update-remote-play-audio)
+ - [Blizzard&#39;s World of Warcraft team has unionized](https://www.pcgamer.com/games/mmo/blizzards-world-of-warcraft-team-has-unionized)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
