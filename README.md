@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New PS5 beta rolls out tomorrow with personalized 3D audio profiles and new Remote Play settings](https://blog.playstation.com/2024/07/24/new-ps5-beta-rolls-out-tomorrow-with-personalized-3d-audio-profiles-and-new-remote-play-settings/)
- - [Warframe&#39;s upcoming 1999 expansion adds a romance system, and it&#39;s all thanks to Baldur&#39;s Gate 3](https://www.pcgamer.com/games/third-person-shooter/warframes-upcoming-1999-expansion-adds-a-romance-system-and-its-all-thanks-to-baldurs-gate-3)
- - [AMD is already prepping a 3nm update to its new Zen 5 CPUs](https://www.pcgamer.com/hardware/processors/amd-is-already-prepping-a-3nm-update-to-its-new-zen-5-cpus)<!-- GAME:END -->
+ - [Helldivers 2 Trolls Crowdstrike Over Worldwide Outage](https://kotaku.com/helldivers-2-joke-arrowhead-crowdstrike-1851603412)
+ - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
+ - [Empire of the Ants marches to PS5 November 7: Details on crafting a realistic microscopic world](https://blog.playstation.com/2024/07/24/empire-of-the-ants-marches-to-ps5-november-7-details-on-crafting-a-realistic-microscopic-world/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
