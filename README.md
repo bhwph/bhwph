@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The developers of this new micro-tactics roguelite RPG say it&#39;s &#39;small in scale, grand in depth&#39;](https://www.pcgamer.com/games/rpg/the-developers-of-this-new-micro-tactics-roguelite-rpg-say-its-small-in-scale-grand-in-depth)
- - [A Google Doodle animator is my new favorite Elden Ring lore theorist thanks to this cartoon retelling of Shadow of the Erdtree set to a Taylor Swift song](https://www.pcgamer.com/games/rpg/a-google-doodle-animator-is-my-new-favorite-elden-ring-lore-theorist-thanks-to-this-cartoon-retelling-of-shadow-of-the-erdtree-set-to-a-taylor-swift-song)
- - [No, Southwest Airlines Isn&#39;t Using Windows 3.1 In 2024](https://kotaku.com/southwest-airlines-windows-3-1-blue-screen-crowdstrike-1851603013)<!-- GAME:END -->
+ - [Here&#39;s a free walking sim about cryptid investigation that&#39;s dripping with early 2000s vibes, complete with fake forums](https://www.pcgamer.com/games/horror/heres-a-free-walking-sim-about-cryptid-investigation-thats-dripping-with-early-2000s-vibes-complete-with-fake-forums)
+ - [Marvel&#39;s Overwatch-style hero shooter has players scrambling to log in and push a payload as their favorite superheroes](https://www.pcgamer.com/games/third-person-shooter/marvels-overwatch-style-hero-shooter-has-players-scrambling-to-log-in-and-push-a-payload-as-their-favorite-superheroes)
+ - [Call of Duty: Modern Warfare 3 comes to Game Pass this week](https://www.pcgamer.com/games/fps/call-of-duty-modern-warfare-3-comes-to-game-pass-this-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
