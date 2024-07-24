@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The cheapest Wi-Fi 7 router is this $99 TP-Link one](https://www.theverge.com/2024/7/23/24204616/cheapest-wi-fi-7-router-tp-link-archer-be-3600-easymesh-no-6ghz-band)
- - [Internal messages: Meta staff complained about Threads&#39; algorithm limiting political posts, after the For You page was slow to show news of Biden dropping out &lpar;The Information&rpar;](http://www.techmeme.com/240723/p38#a240723p38)
- - [Deadpool &amp; Wolverine is a desperate Hail Mary](https://www.theverge.com/24204339/deadpool-wolverine-review-xmen-marvel-mcu)<!-- TECH:END -->
+ - [Apple seeds fourth developer betas of iOS 18, iPadOS 18, tvOS 18, watchOS 11, visionOS 2](https://appleinsider.com/articles/24/07/23/apple-seeds-fourth-developer-betas-of-ios-18-ipados-18-tvos-18-watchos-11-visionos-2?utm_medium=rss)
+ - [Meta says it will allow developers to use the outputs from Llama models, including Llama 3.1 405B, to improve other models for the first time &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240723/p45#a240723p45)
+ - [Elon Musk says &quot;I am not donating $45M a month to Trump&quot;, but states he created American PAC to support Trump, without revealing how much he will donate &lpar;Eva Roytburg/Fortune&rpar;](http://www.techmeme.com/240723/p44#a240723p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
