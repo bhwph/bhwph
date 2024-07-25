@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [No surprise: Microsoft confirms Reddit has blocked Bing](https://www.androidauthority.com/microsoft-confirm-reddit-block-bing-3464523/)
- - [Revolut secures a preliminary UK banking license, ending a three-year long regulatory battle; the London-based fintech has ~9M UK customers and 45M+ globally &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240725/p8#a240725p8)
- - [Google Messages is now getting Snapchat-style face filters](https://www.androidauthority.com/google-messages-face-filters-launch-3463460/)<!-- TECH:END -->
+ - [Google debuts new Maps features in India to help users easily navigate though flyovers and narrow roads, says it built an AI model specifically for Indian roads &lpar;TechCrunch&rpar;](http://www.techmeme.com/240725/p10#a240725p10)
+ - [Beijing-based AI startup Baichuan raised about $687M at a $2.8B valuation from investors, including Beijing, Shanghai, and Shenzhen governments, and Alibaba &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p9#a240725p9)
+ - [Asus ROG Ally X review: the best Windows gaming handheld by a mile](https://www.theverge.com/24204770/asus-rog-ally-x-review-handheld-gaming-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
