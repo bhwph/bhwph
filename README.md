@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We all knew someone like Lance and Greg](http://9gag.com/gag/aAyPEQo)
- - 😝 [Cool but dead](http://9gag.com/gag/a2v50RY)
- - 👉 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)<!-- MEMES:END -->
+ - 6️⃣ [Day 1 France 2024 Olympic Games: 1- Australian Cycling team robbed. 2- Match abandoned due to violence 3- Trans woman delivered Olympic flame.](http://9gag.com/gag/a34jyp5)
+ - 😝 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
+ - 👉 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)<!-- MEMES:END -->
 
 --- 
 
