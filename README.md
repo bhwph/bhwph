@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Day 1 France 2024 Olympic Games: 1- Australian Cycling team robbed. 2- Match abandoned due to violence 3- Trans woman delivered Olympic flame.](http://9gag.com/gag/a34jyp5)
- - 😝 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
- - 👉 [Great success](http://9gag.com/gag/aqyLW9L)<!-- MEMES:END -->
+ - 6️⃣ [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
+ - 😝 [Boys](http://9gag.com/gag/amozWv4)
+ - 👉 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)<!-- MEMES:END -->
 
 --- 
 
