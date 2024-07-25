@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo 7’s cars can fly, for now](https://www.polygon.com/24206329/gt7-update-149-flying-car-bug-patch-ps5)
- - [The best Modern Warfare 3 guns to use in Season 5](https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3)
- - [New Transformers One trailer shows the humor and heartbreak of Optimus Prime and Megatron’s break-up](https://www.polygon.com/sdcc/24205212/transformers-one-movie-trailer-sdcc-2024)<!-- GAME:END -->
+ - [I’m running out of reasons to keep Apple Arcade](https://www.polygon.com/24206470/quit-apple-arcade-fantasian-neo-dimension)
+ - [Deadpool &amp; Wolverine spends its two credits scenes on radically different goodbyes](https://www.polygon.com/24206373/deadpool-wolverine-post-credits-scenes)
+ - [James Wan shows first look at Peacock horror series at SDCC](https://www.polygon.com/sdcc/24205445/james-wan-teacup-trailer-peacock-release-date-cast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
