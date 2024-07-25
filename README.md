@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego&#39;s Super Mario World Build Is The 16-Bit Perfection We Need](https://kotaku.com/super-mario-world-lego-yoshi-leak-1851605026)
- - [Pokémon Go ‘Strength of Steel’ Ultra Unlock event challenges and rewards](https://www.polygon.com/pokemon-go-guide/24206105/strength-of-steel-ultra-unlock-part-2-togedemaru-collection-challenge)
- - [A big gameplay leak for Star Wars Outlaws has done wonders for my Ubisoft showcase fatigue—it&#39;s actually given me a new hope](https://www.pcgamer.com/games/action/a-big-gameplay-leak-for-star-wars-outlaws-has-done-wonders-for-my-Ubisoft-showcase-fatigue-it-s-actually-given-me-a-new-hope)<!-- GAME:END -->
+ - [Collegiate League of Legends and Valorant champs have to pay for their own trophies](https://www.polygon.com/24206053/collegiate-league-of-legends-valorant-tournament-trophies)
+ - [Overwatch 2 Is Trapped In A Crisis Of Its Own Making](https://kotaku.com/overwatch-2-5v5-6v6-team-comp-steam-juno-patch-1851605293)
+ - [Blizzard is finally doing it: Overwatch 2 will try 6v6 again, reversing the single biggest change of the sequel](https://www.pcgamer.com/games/fps/blizzard-is-finally-doing-it-overwatch-2-will-try-6v6-again-reversing-the-single-biggest-change-of-the-sequel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
