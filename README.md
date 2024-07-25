@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Tanks Modern Armor gets loud with Motörhead and Rob Zombie July 30](https://blog.playstation.com/2024/07/25/world-of-tanks-modern-armor-gets-loud-with-motorhead-and-rob-zombie-july-30/)
- - [Asus ROG Ally X review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/asus-rog-ally-x-review)
- - [Blizzard mends rift with Whoopi Goldberg at Whoopi Goldberg-themed weed event as Diablo 4&#39;s Lilith presents star with &#39;key to hell&#39;](https://www.pcgamer.com/games/rpg/blizzard-mends-rift-with-whoopi-goldberg-at-whoopi-goldberg-themed-weed-event-as-diablo-4s-lilith-presents-star-with-key-to-hell)<!-- GAME:END -->
+ - [Evo 2024: Hands-on report with new fighting game content](https://blog.playstation.com/2024/07/25/evo-2024-hands-on-report-with-new-fighting-game-content/)
+ - [After Life by You&#39;s disastrous end, Paradox chalks up a 90% drop in operating profit for Q2: &#39;We end the second quarter of the year with mixed feelings&#39;](https://www.pcgamer.com/gaming-industry/after-life-by-yous-disastrous-end-paradox-chalks-up-a-90-drop-in-operating-profit-for-q2-we-end-the-second-quarter-of-the-year-with-mixed-feelings)
+ - [Tekken 8 director spends months insisting &#39;Heihachi Mishima is completely dead&#39; before giggling and unveiling him as the newest DLC character anyway](https://www.pcgamer.com/games/fighting/tekken-8-director-spends-months-insisting-heihachi-mishima-is-completely-dead-before-giggling-and-unveiling-him-as-the-newest-dlc-character-anyway)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
