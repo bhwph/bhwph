@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looking for a laptop? Here are three hot deals from Apple and ASUS!](https://www.androidauthority.com/laptop-deals-apple-macbook-asus-3464237/)
- - [A new Nest Learning Thermostat looks like it’s finally on the way](https://www.androidauthority.com/nest-learning-thermostat-4th-gen-3464368/)
- - [Oyen Digital U34 Bolt SSD review - Enormous drive speed in a rugged package](https://appleinsider.com/articles/24/07/24/oyen-digital-u34-bolt-ssd-review---enormous-drive-speed-in-a-rugged-package?utm_medium=rss)<!-- TECH:END -->
+ - [SK Hynix Q2: revenue up 125% YoY to ~$11.86B, operating profit of ~$3.96B, its highest quarterly profit in six years, and sees further rising chip demand in H2 &lpar;Reuters&rpar;](http://www.techmeme.com/240724/p38#a240724p38)
+ - [Amazon is discontinuing my favorite Echo — the one with a dot-matrix clock](https://www.theverge.com/2024/7/24/24205675/amazon-discontinue-echo-dot-with-clock)
+ - [Circle to Search finally hits the big time: its first Easter egg has arrived](https://www.androidauthority.com/circle-to-search-easter-egg-3464459/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
