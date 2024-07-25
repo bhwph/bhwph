@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check out the Pixel 9 Pro in all four colors in these new renders](https://www.androidauthority.com/pixel-9-pro-renders-colors-3464646/)
- - [Bing rolls out a new search interface that might steal you away from Google](https://www.androidauthority.com/bing-generative-search-update-3464659/)
- - [Chainguard, which helps companies secure their software supply chain, raised a $140M Series C co-led by Redpoint, Lightspeed, and IVP at a $1.12B valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240725/p17#a240725p17)<!-- TECH:END -->
+ - [Google Phone’s AI-powered scam detection looks nearly ready to go &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-scam-detection-3464690/)
+ - [YouTube’s mini-player is getting a major picture-in-picture upgrade](https://www.androidauthority.com/youtube-miniplayer-upgrade-3464699/)
+ - [The Associated Press removes a fact-check claiming JD Vance has not had sex with a couch](https://www.theverge.com/2024/7/25/24206088/jd-vance-fact-check-sex-couch-rumor-associated-press-retraction)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
