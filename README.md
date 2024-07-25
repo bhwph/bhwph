@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [STMicro reports Q2 net revenue down 25.3% YoY to $3.23B and cuts its FY 2024 revenue outlook to $13.2B to $13.7B, down from a previous range of $14B to $15B &lpar;Michael Hennessey/Bloomberg&rpar;](http://www.techmeme.com/240725/p6#a240725p6)
- - [India drops the 2% equalization levy on digital services offered by foreign companies starting August 1; the levy had become a point of contention with the US &lpar;Laura Dobberstein/The Register&rpar;](http://www.techmeme.com/240725/p5#a240725p5)
- - [What are you willing to give up to pay less for Google One?](https://www.androidauthority.com/lite-google-one-subscription-poll-3464201/)<!-- TECH:END -->
+ - [No surprise: Microsoft confirms Reddit has blocked Bing](https://www.androidauthority.com/microsoft-confirm-reddit-block-bing-3464523/)
+ - [Revolut secures a preliminary UK banking license, ending a three-year long regulatory battle; the London-based fintech has ~9M UK customers and 45M+ globally &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240725/p8#a240725p8)
+ - [Google Messages is now getting Snapchat-style face filters](https://www.androidauthority.com/google-messages-face-filters-launch-3463460/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
