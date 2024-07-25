@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Horse gets a belly rub](http://9gag.com/gag/a6ZQXZm)
- - 😝 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
- - 👉 [Day 1 France 2024 Olympic Games: 1- Australian Cycling team robbed. 2- Match abandoned due to violence 3- Trans woman delivered Olympic flame.](http://9gag.com/gag/a34jyp5)<!-- MEMES:END -->
+ - 6️⃣ [That\u2019s cute](http://9gag.com/gag/aYQLGRN)
+ - 😝 [We all knew someone like Lance and Greg](http://9gag.com/gag/aAyPEQo)
+ - 👉 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)<!-- MEMES:END -->
 
 --- 
 
