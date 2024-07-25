@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google debuts new Maps features in India to help users easily navigate though flyovers and narrow roads, says it built an AI model specifically for Indian roads &lpar;TechCrunch&rpar;](http://www.techmeme.com/240725/p10#a240725p10)
- - [Beijing-based AI startup Baichuan raised about $687M at a $2.8B valuation from investors, including Beijing, Shanghai, and Shenzhen governments, and Alibaba &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p9#a240725p9)
- - [Asus ROG Ally X review: the best Windows gaming handheld by a mile](https://www.theverge.com/24204770/asus-rog-ally-x-review-handheld-gaming-pc)<!-- TECH:END -->
+ - [Don&#39;t lose your iPhone in South Korea, because Find My doesn&#39;t work there](https://appleinsider.com/articles/24/07/25/dont-lose-your-iphone-in-south-korea-because-find-my-doesnt-work-there?utm_medium=rss)
+ - [DefiLlama and Wintermute: the aggregate market cap of stablecoins crossed $164B for the first time since the collapse of Terra in May 2022; USDT is at $114.26B &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/240725/p13#a240725p13)
+ - [Download: OnePlus Nord 4 gets its first update with AI Best Face and other camera improvements](https://www.androidauthority.com/download-oneplus-nord-4-ai-best-face-update-3464595/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
