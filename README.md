@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t lose your iPhone in South Korea, because Find My doesn&#39;t work there](https://appleinsider.com/articles/24/07/25/dont-lose-your-iphone-in-south-korea-because-find-my-doesnt-work-there?utm_medium=rss)
- - [DefiLlama and Wintermute: the aggregate market cap of stablecoins crossed $164B for the first time since the collapse of Terra in May 2022; USDT is at $114.26B &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/240725/p13#a240725p13)
- - [Download: OnePlus Nord 4 gets its first update with AI Best Face and other camera improvements](https://www.androidauthority.com/download-oneplus-nord-4-ai-best-face-update-3464595/)<!-- TECH:END -->
+ - [Check out the Pixel 9 Pro in all four colors in these new renders](https://www.androidauthority.com/pixel-9-pro-renders-colors-3464646/)
+ - [Bing rolls out a new search interface that might steal you away from Google](https://www.androidauthority.com/bing-generative-search-update-3464659/)
+ - [Chainguard, which helps companies secure their software supply chain, raised a $140M Series C co-led by Redpoint, Lightspeed, and IVP at a $1.12B valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240725/p17#a240725p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
