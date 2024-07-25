@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
- - 😝 [Mindly interesting](http://9gag.com/gag/a8740Ge)
- - 👉 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)<!-- MEMES:END -->
+ - 6️⃣ [The news we deserve](http://9gag.com/gag/aKG3eZN)
+ - 😝 [Lol](http://9gag.com/gag/apRLx85)
+ - 👉 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)<!-- MEMES:END -->
 
 --- 
 
