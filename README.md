@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Runway’s AI video generator trained on thousands of scraped YouTube videos](https://www.theverge.com/2024/7/25/24206120/runway-ai-video-generator-scraped-youtube-videos-report)
- - [OpenAI unveils SearchGPT, a search tool powered by GPT-4 that can organize links and summarize its findings, available as a prototype to 10,000 users at launch &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240725/p26#a240725p26)
- - [California&#39;s Supreme Court upholds Prop 22, allowing Uber, Lyft, DoorDash, and other companies to keep classifying California drivers as independent contractors &lpar;Maia Spoto/Bloomberg&rpar;](http://www.techmeme.com/240725/p25#a240725p25)<!-- TECH:END -->
+ - [Video game performers to go on strike](https://www.theverge.com/2024/7/25/24206357/video-game-performer-strike-sag-aftra)
+ - [Deal: This amazing Samsung smart monitor is $700 off!](https://www.androidauthority.com/samsung-viewfinity-s9-monitor-deal-3464792/)
+ - [SearchGPT is here: The inevitable threat to Google’s core business](https://www.androidauthority.com/searchgpt-prototype-launched-3464858/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
