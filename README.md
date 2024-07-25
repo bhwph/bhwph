@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some day in uk, be the most beautiful in uk](http://9gag.com/gag/aKG31jg)
- - 😝 [Kirby&#39;s Bold Request](http://9gag.com/gag/aryNy5X)
- - 👉 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)<!-- MEMES:END -->
+ - 6️⃣ [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)
+ - 😝 [Boys](http://9gag.com/gag/amozWv4)
+ - 👉 [None of your business](http://9gag.com/gag/an717Do)<!-- MEMES:END -->
 
 --- 
 
