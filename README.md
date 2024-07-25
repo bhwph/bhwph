@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix Q2: revenue up 125% YoY to ~$11.86B, operating profit of ~$3.96B, its highest quarterly profit in six years, and sees further rising chip demand in H2 &lpar;Reuters&rpar;](http://www.techmeme.com/240724/p38#a240724p38)
- - [Amazon is discontinuing my favorite Echo — the one with a dot-matrix clock](https://www.theverge.com/2024/7/24/24205675/amazon-discontinue-echo-dot-with-clock)
- - [Circle to Search finally hits the big time: its first Easter egg has arrived](https://www.androidauthority.com/circle-to-search-easter-egg-3464459/)<!-- TECH:END -->
+ - [ServiceNow President CJ Desai leaves the company after an internal probe found he violated company policy related to a US contract and an ex-Army CIO&#39;s hiring &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240724/p42#a240724p42)
+ - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-25/#ftag=CAD590a51e)
+ - [Meta removes ~63K Instagram accounts used by sextortion scammers in Nigeria, along with ~7,200 Facebook assets, including accounts linked to the Yahoo Boys &lpar;Olivia Carville/Bloomberg&rpar;](http://www.techmeme.com/240724/p41#a240724p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
