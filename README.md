@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Phone’s AI-powered scam detection looks nearly ready to go &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-scam-detection-3464690/)
- - [YouTube’s mini-player is getting a major picture-in-picture upgrade](https://www.androidauthority.com/youtube-miniplayer-upgrade-3464699/)
- - [The Associated Press removes a fact-check claiming JD Vance has not had sex with a couch](https://www.theverge.com/2024/7/25/24206088/jd-vance-fact-check-sex-couch-rumor-associated-press-retraction)<!-- TECH:END -->
+ - [Runway’s AI video generator trained on thousands of scraped YouTube videos](https://www.theverge.com/2024/7/25/24206120/runway-ai-video-generator-scraped-youtube-videos-report)
+ - [OpenAI unveils SearchGPT, a search tool powered by GPT-4 that can organize links and summarize its findings, available as a prototype to 10,000 users at launch &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240725/p26#a240725p26)
+ - [California&#39;s Supreme Court upholds Prop 22, allowing Uber, Lyft, DoorDash, and other companies to keep classifying California drivers as independent contractors &lpar;Maia Spoto/Bloomberg&rpar;](http://www.techmeme.com/240725/p25#a240725p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
