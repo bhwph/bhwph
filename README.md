@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The news we deserve](http://9gag.com/gag/aKG3eZN)
- - 😝 [Lol](http://9gag.com/gag/apRLx85)
- - 👉 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)<!-- MEMES:END -->
+ - 6️⃣ [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
+ - 😝 [Cool but dead](http://9gag.com/gag/a2v50RY)
+ - 👉 [Lol](http://9gag.com/gag/apRLx85)<!-- MEMES:END -->
 
 --- 
 
