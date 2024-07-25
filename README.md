@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Video game performers to go on strike](https://www.theverge.com/2024/7/25/24206357/video-game-performer-strike-sag-aftra)
- - [Deal: This amazing Samsung smart monitor is $700 off!](https://www.androidauthority.com/samsung-viewfinity-s9-monitor-deal-3464792/)
- - [SearchGPT is here: The inevitable threat to Google’s core business](https://www.androidauthority.com/searchgpt-prototype-launched-3464858/)<!-- TECH:END -->
+ - [Google Home is ready to stop you from leaving the garage door open](https://www.androidauthority.com/google-home-garage-door-3464910/)
+ - [Peacock’s horror thriller Teacup starts streaming in October](https://www.theverge.com/24205137/teacup-date-teaser-peacock-horror-sdcc-2024)
+ - [Epic will bring Fortnite to third-party iOS app stores](https://www.theverge.com/2024/7/25/24206372/epic-games-fortnite-third-party-ios-app-stores-altstore)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
