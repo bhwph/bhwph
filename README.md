@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Collegiate League of Legends and Valorant champs have to pay for their own trophies](https://www.polygon.com/24206053/collegiate-league-of-legends-valorant-tournament-trophies)
- - [Overwatch 2 Is Trapped In A Crisis Of Its Own Making](https://kotaku.com/overwatch-2-5v5-6v6-team-comp-steam-juno-patch-1851605293)
- - [Blizzard is finally doing it: Overwatch 2 will try 6v6 again, reversing the single biggest change of the sequel](https://www.pcgamer.com/games/fps/blizzard-is-finally-doing-it-overwatch-2-will-try-6v6-again-reversing-the-single-biggest-change-of-the-sequel)<!-- GAME:END -->
+ - [Gran Turismo 7’s cars can fly, for now](https://www.polygon.com/24206329/gt7-update-149-flying-car-bug-patch-ps5)
+ - [The best Modern Warfare 3 guns to use in Season 5](https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3)
+ - [New Transformers One trailer shows the humor and heartbreak of Optimus Prime and Megatron’s break-up](https://www.polygon.com/sdcc/24205212/transformers-one-movie-trailer-sdcc-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
