@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Evo 2024: Hands-on report with new fighting game content](https://blog.playstation.com/2024/07/25/evo-2024-hands-on-report-with-new-fighting-game-content/)
- - [After Life by You&#39;s disastrous end, Paradox chalks up a 90% drop in operating profit for Q2: &#39;We end the second quarter of the year with mixed feelings&#39;](https://www.pcgamer.com/gaming-industry/after-life-by-yous-disastrous-end-paradox-chalks-up-a-90-drop-in-operating-profit-for-q2-we-end-the-second-quarter-of-the-year-with-mixed-feelings)
- - [Tekken 8 director spends months insisting &#39;Heihachi Mishima is completely dead&#39; before giggling and unveiling him as the newest DLC character anyway](https://www.pcgamer.com/games/fighting/tekken-8-director-spends-months-insisting-heihachi-mishima-is-completely-dead-before-giggling-and-unveiling-him-as-the-newest-dlc-character-anyway)<!-- GAME:END -->
+ - [An Elden Ring speedrunner has a $10,000 reward for the fastest Shadow of the Erdtree completion at level 1 with limited Scadutree levels and DLC weapons only](https://www.pcgamer.com/games/rpg/an-elden-ring-speedrunner-has-a-dollar10000-reward-for-the-fastest-shadow-of-the-erdtree-completion-at-level-1-with-limited-scadutree-levels-and-dlc-weapons-only)
+ - [Sea of Thieves Blazes Into Season 13](https://www.seaofthieves.com/news/season-13-launch#new_tab)
+ - [Crowdstrike Says Sorry For Breaking Everything With $10 Uber Eats Coupons](https://kotaku.com/crowdstrike-microsoft-10-uber-eats-outage-1851604737)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
