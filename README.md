@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
- - 😝 [Boys](http://9gag.com/gag/amozWv4)
- - 👉 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)<!-- MEMES:END -->
+ - 6️⃣ [9gagers rn](http://9gag.com/gag/aAyP2g0)
+ - 😝 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)
+ - 👉 [Let the Logic Flow Through You](http://9gag.com/gag/avyn6yO)<!-- MEMES:END -->
 
 --- 
 
