@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9gagers rn](http://9gag.com/gag/aAyP2g0)
- - 😝 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)
- - 👉 [Let the Logic Flow Through You](http://9gag.com/gag/avyn6yO)<!-- MEMES:END -->
+ - 6️⃣ [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
+ - 😝 [Mindly interesting](http://9gag.com/gag/a8740Ge)
+ - 👉 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)<!-- MEMES:END -->
 
 --- 
 
