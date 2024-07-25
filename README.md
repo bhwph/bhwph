@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An Elden Ring speedrunner has a $10,000 reward for the fastest Shadow of the Erdtree completion at level 1 with limited Scadutree levels and DLC weapons only](https://www.pcgamer.com/games/rpg/an-elden-ring-speedrunner-has-a-dollar10000-reward-for-the-fastest-shadow-of-the-erdtree-completion-at-level-1-with-limited-scadutree-levels-and-dlc-weapons-only)
- - [Sea of Thieves Blazes Into Season 13](https://www.seaofthieves.com/news/season-13-launch#new_tab)
- - [Crowdstrike Says Sorry For Breaking Everything With $10 Uber Eats Coupons](https://kotaku.com/crowdstrike-microsoft-10-uber-eats-outage-1851604737)<!-- GAME:END -->
+ - [Lego&#39;s Super Mario World Build Is The 16-Bit Perfection We Need](https://kotaku.com/super-mario-world-lego-yoshi-leak-1851605026)
+ - [Pokémon Go ‘Strength of Steel’ Ultra Unlock event challenges and rewards](https://www.polygon.com/pokemon-go-guide/24206105/strength-of-steel-ultra-unlock-part-2-togedemaru-collection-challenge)
+ - [A big gameplay leak for Star Wars Outlaws has done wonders for my Ubisoft showcase fatigue—it&#39;s actually given me a new hope](https://www.pcgamer.com/games/action/a-big-gameplay-leak-for-star-wars-outlaws-has-done-wonders-for-my-Ubisoft-showcase-fatigue-it-s-actually-given-me-a-new-hope)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
