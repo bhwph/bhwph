@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ServiceNow President CJ Desai leaves the company after an internal probe found he violated company policy related to a US contract and an ex-Army CIO&#39;s hiring &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240724/p42#a240724p42)
- - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-25/#ftag=CAD590a51e)
- - [Meta removes ~63K Instagram accounts used by sextortion scammers in Nigeria, along with ~7,200 Facebook assets, including accounts linked to the Yahoo Boys &lpar;Olivia Carville/Bloomberg&rpar;](http://www.techmeme.com/240724/p41#a240724p41)<!-- TECH:END -->
+ - [Enterprise financial software company OneStream&#39;s shares closed up 34.25% at $26.85 in its Nasdaq debut, giving it a market cap of ~$6.2B, after a ~$490M IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p1#a240725p1)
+ - [Dazz, which provides AI-based cloud security remediation software for enterprises, raised $50M from Greylock and others, sources say at a ~$400M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240724/p43#a240724p43)
+ - [How to use the new &#39;Search Here&#39; feature in Apple Maps with iOS 18](https://appleinsider.com/inside/apple-maps/tips/how-to-use-the-new-search-here-feature-in-apple-maps-with-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
