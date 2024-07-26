@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I’m running out of reasons to keep Apple Arcade](https://www.polygon.com/24206470/quit-apple-arcade-fantasian-neo-dimension)
- - [Deadpool &amp; Wolverine spends its two credits scenes on radically different goodbyes](https://www.polygon.com/24206373/deadpool-wolverine-post-credits-scenes)
- - [James Wan shows first look at Peacock horror series at SDCC](https://www.polygon.com/sdcc/24205445/james-wan-teacup-trailer-peacock-release-date-cast)<!-- GAME:END -->
+ - [Every major announcement from SDCC 2024](https://www.polygon.com/sdcc/24203751/comic-con-2024-news-announcements-trailers-release-dates-sdcc)
+ - [Videogame voice actors are officially on strike over AI: &#39;We refuse this paradigm&#39;](https://www.pcgamer.com/gaming-industry/videogame-voice-actors-are-officially-on-strike-over-ai-we-refuse-this-paradigm)
+ - [Cyberpunk adventure Nobody Wants to Die feels like if you made an entire game out of the boring no-combat intro of a triple-A FPS](https://www.pcgamer.com/games/adventure/cyberpunk-adventure-nobody-wants-to-die-feels-like-if-you-made-an-entire-game-out-of-the-boring-no-combat-intro-of-a-triple-a-fps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
