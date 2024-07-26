@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ph.D.](http://9gag.com/gag/a874zOY)
- - 😝 [Lol](http://9gag.com/gag/apRLx85)
- - 👉 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)<!-- MEMES:END -->
+ - 6️⃣ [Must feel great to set a trend](http://9gag.com/gag/a9yY2GW)
+ - 😝 [Should have used the right hand](http://9gag.com/gag/aAyPvWL)
+ - 👉 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)<!-- MEMES:END -->
 
 --- 
 
