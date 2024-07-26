@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home is ready to stop you from leaving the garage door open](https://www.androidauthority.com/google-home-garage-door-3464910/)
- - [Peacock’s horror thriller Teacup starts streaming in October](https://www.theverge.com/24205137/teacup-date-teaser-peacock-horror-sdcc-2024)
- - [Epic will bring Fortnite to third-party iOS app stores](https://www.theverge.com/2024/7/25/24206372/epic-games-fortnite-third-party-ios-app-stores-altstore)<!-- TECH:END -->
+ - [What is tandem OLED and how does the display technology work?](https://www.androidauthority.com/what-is-tandem-oled-3464942/)
+ - [The US DOJ indicts a North Korean hacker, who remains at large, for his alleged role in Andariel group&#39;s cyberattacks on US hospitals, NASA, and military bases &lpar;Associated Press&rpar;](http://www.techmeme.com/240725/p41#a240725p41)
+ - [Kamala Harris joins TikTok, following an explosion of Harris memes since announcing her presidential run; her account has attracted 400K+ followers in ~2 hours &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240725/p40#a240725p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
