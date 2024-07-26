@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Was there ever any doubt Apple’s first foldable iPhone would be a flip phone?](https://www.androidauthority.com/apple-foldable-iphone-duh-3464653/)
- - [ESR’s inexpensive Qi2 car charger is more than 40 off for a limited time](https://www.theverge.com/2024/7/26/24206412/esr-qi2-magnetic-car-charger-nes-controllers-deal-sale)
- - [How TikTok is trying to fend off a potential US ban, including through ad campaigns, lobbying, and funding lawsuits by creators &lpar;Bloomberg&rpar;](http://www.techmeme.com/240726/p8#a240726p8)<!-- TECH:END -->
+ - [The best Samsung Galaxy Ring alternatives](https://www.androidauthority.com/galaxy-ring-alternatives-3464698/)
+ - [There is no fix for Intel’s crashing 13th and 14th Gen CPUs — any damage is permanent](https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a)
+ - [X activates a default setting that gives it permission to train Grok AI on user&#39;s posts; the setting can be turned off on the web but not in the mobile app &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/240726/p10#a240726p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
