@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Samsung&#39;s mobile chief TM Roh on the Galaxy AI push, monetizing AI, future products in foldables and mixed reality, and more &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240726/p7#a240726p7)
- - [Apple Ring, iOS betas, and iPhone 17 camera rumors, on the AppleInsider Podcast](https://appleinsider.com/articles/24/07/26/apple-ring-ios-betas-and-iphone-17-camera-rumors-on-the-appleinsider-podcast?utm_medium=rss)
- - [How to stream the Olympics like a champ](https://www.theverge.com/2024/7/26/24206108/how-to-watch-olympics-2024-paris-peacock)<!-- TECH:END -->
+ - [Was there ever any doubt Apple’s first foldable iPhone would be a flip phone?](https://www.androidauthority.com/apple-foldable-iphone-duh-3464653/)
+ - [ESR’s inexpensive Qi2 car charger is more than 40 off for a limited time](https://www.theverge.com/2024/7/26/24206412/esr-qi2-magnetic-car-charger-nes-controllers-deal-sale)
+ - [How TikTok is trying to fend off a potential US ban, including through ad campaigns, lobbying, and funding lawsuits by creators &lpar;Bloomberg&rpar;](http://www.techmeme.com/240726/p8#a240726p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
