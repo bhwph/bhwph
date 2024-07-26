@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How And Why You Should Farm Automatic Parts In Once Human](https://kotaku.com/once-human-automatic-parts-farm-find-craft-1851606335)
- - [Japanese man gets jailed for repeated death and bomb threats that saw multiple Nintendo events cancelled, judge excoriates &#39;selfish motive&#39; and &#39;persistent and vicious&#39; behaviour](https://www.pcgamer.com/gaming-industry/japanese-man-gets-jailed-for-repeated-death-and-bomb-threats-that-saw-multiple-nintendo-events-cancelled-judge-excoriates-selfish-motive-and-persistent-and-vicious-behaviour)
- - [Gran Turismo 7 Update Breaks Cars, Turns Them Into Wacky Missiles](https://kotaku.com/gt7-gran-turismo-7-flying-cars-patch-1-49-fix-ps5-ps4-1851606294)<!-- GAME:END -->
+ - [The 32 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [The tortured production timeline of Marvel’s Blade reboot, explained](https://www.polygon.com/24206301/mcu-blade-timeline-production-delays-release-date-director)
+ - [Another Game Just Got Review-Bombed Into Dropping Controversial Login Requirement](https://kotaku.com/epic-account-edf6-earth-defense-force-steam-helldivers-1851606486)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
