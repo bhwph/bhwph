@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ad-blocking users are now seeing black ads on YouTube](https://www.androidauthority.com/black-ads-youtube-ad-block-extension-3465017/)
- - [Inside JD Vance&#39;s VC career: five years, two firms before co-founding Narya, investing in AppHarvest, which faced lawsuits and filed for bankruptcy, and more &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/240726/p2#a240726p2)
- - [Would you pay a premium for a removable battery smartphone?](https://www.androidauthority.com/smartphone-battery-removable-replaceable-poll-3464650/)<!-- TECH:END -->
+ - [Steam is getting some big upgrades for game demos](https://www.theverge.com/2024/7/26/24206720/steam-game-demos-update-library-store-pages)
+ - [SK Hynix announces plans to invest roughly $6.8B through 2028 on a chip plant in Yongin, South Korea, including a &quot;mini-fab&quot; to process 300mm silicon wafers &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240726/p4#a240726p4)
+ - [iCloud Private Relay outage hits iPhone Safari users](https://appleinsider.com/articles/24/07/26/icloud-private-relay-outage-hits-iphone-safari-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
