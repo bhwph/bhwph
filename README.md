@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
- - 😝 [Best handshake doesn&#39;t exist](http://9gag.com/gag/an71ng5)
- - 👉 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)<!-- MEMES:END -->
+ - 6️⃣ [The news we deserve](http://9gag.com/gag/aKG3eZN)
+ - 😝 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
+ - 👉 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)<!-- MEMES:END -->
 
 --- 
 
