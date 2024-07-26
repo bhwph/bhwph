@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 32 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [The tortured production timeline of Marvel’s Blade reboot, explained](https://www.polygon.com/24206301/mcu-blade-timeline-production-delays-release-date-director)
- - [Another Game Just Got Review-Bombed Into Dropping Controversial Login Requirement](https://kotaku.com/epic-account-edf6-earth-defense-force-steam-helldivers-1851606486)<!-- GAME:END -->
+ - [X-Men Comics Fans At War Over Bonus Pages Hidden Behind QR Codes](https://kotaku.com/x-men-1-comic-fans-bonus-pages-qr-codes-hidden-locked-1851606688)
+ - [MrBeast Has Hired An Investigator To Look Into Grooming Allegations Against Ex-Co-Host Ava Kris Tyson](https://kotaku.com/ava-kris-tyson-mr-beast-grooming-allegations-1851606782)
+ - [The grandest WoW guilds raced for a world first raid clear hinged on a new secret boss, and the winner was &#39;None of the Above&#39;](https://www.pcgamer.com/games/world-of-warcraft/the-grandest-wow-guilds-race-for-a-world-first-raid-clear-hinged-on-a-new-secret-boss-and-the-winner-was-none-of-the-above)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
