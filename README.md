@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Beckham &gt; Roberto Carlos &lpar;2003&rpar;](http://9gag.com/gag/abAZRNB)
+ - 6️⃣ [Ph.D.](http://9gag.com/gag/a874zOY)
  - 😝 [Lol](http://9gag.com/gag/apRLx85)
- - 👉 [Ph.D.](http://9gag.com/gag/a874zOY)<!-- MEMES:END -->
+ - 👉 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)<!-- MEMES:END -->
 
 --- 
 
