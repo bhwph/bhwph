@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Florida-based IntelePeer, which develops software to help businesses automate customer contact centers using AI, raised $140M in equity and debt &lpar;Denver Business Journal&rpar;](http://www.techmeme.com/240725/p44#a240725p44)
- - [FTC&#39;s Lina Khan says open-weights AI models can promote competition and &quot;liberate startups from the arbitrary whims of closed developers and cloud gatekeepers&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p43#a240725p43)
- - [Mix Flip sales are going international — but you still might be out of luck](https://www.androidauthority.com/mix-flip-international-sales-3464944/)<!-- TECH:END -->
+ - [A look at the flood of &quot;fancam&quot; videos and memes about Kamala Harris on short-form video platforms, echoing &quot;meme armies&quot; that have supported Donald Trump &lpar;Washington Post&rpar;](http://www.techmeme.com/240725/p46#a240725p46)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 26, #145](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-26-145/#ftag=CAD590a51e)
+ - [Best Camera Phone of 2024](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
