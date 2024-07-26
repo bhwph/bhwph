@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As xAI builds a supercomputer in Memphis, many locals are wary of its benefits, and environmental advocates are puzzled over its potential effects &lpar;Patrick Sisson/Bloomberg&rpar;](http://www.techmeme.com/240726/p1#a240726p1)
- - [Samsung reveals why it’s dropping Samsung Messages for Google Messages &lpar;Update&rpar;](https://www.androidauthority.com/samsung-drop-samsung-messages-google-messages-reason-3463520/)
- - [A look at the flood of &quot;fancam&quot; videos and memes about Kamala Harris on short-form video platforms, echoing &quot;meme armies&quot; that have supported Donald Trump &lpar;Washington Post&rpar;](http://www.techmeme.com/240725/p46#a240725p46)<!-- TECH:END -->
+ - [Ad-blocking users are now seeing black ads on YouTube](https://www.androidauthority.com/black-ads-youtube-ad-block-extension-3465017/)
+ - [Inside JD Vance&#39;s VC career: five years, two firms before co-founding Narya, investing in AppHarvest, which faced lawsuits and filed for bankruptcy, and more &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/240726/p2#a240726p2)
+ - [Would you pay a premium for a removable battery smartphone?](https://www.androidauthority.com/smartphone-battery-removable-replaceable-poll-3464650/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
