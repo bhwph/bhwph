@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Messages found across Belfast, Noethern Ireland. The Irish don&#39;t play around!](http://9gag.com/gag/a5Qrx7G)
- - 😝 [That&#39;s so wholesome..... WAIT A MINUTE!](http://9gag.com/gag/aAyP2b0)
- - 👉 [Beckham &gt; Roberto Carlos &lpar;2003&rpar;](http://9gag.com/gag/abAZRNB)<!-- MEMES:END -->
+ - 6️⃣ [Beckham &gt; Roberto Carlos &lpar;2003&rpar;](http://9gag.com/gag/abAZRNB)
+ - 😝 [Lol](http://9gag.com/gag/apRLx85)
+ - 👉 [Ph.D.](http://9gag.com/gag/a874zOY)<!-- MEMES:END -->
 
 --- 
 
