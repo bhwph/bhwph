@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
- - 😝 [Cool but dead](http://9gag.com/gag/a2v50RY)
- - 👉 [Lol](http://9gag.com/gag/apRLx85)<!-- MEMES:END -->
+ - 6️⃣ [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
+ - 😝 [I guess he saw us and wanted to join the boys !](http://9gag.com/gag/aNDWO23)
+ - 👉 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)<!-- MEMES:END -->
 
 --- 
 
