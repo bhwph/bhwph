@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Must feel great to set a trend](http://9gag.com/gag/a9yY2GW)
- - 😝 [Should have used the right hand](http://9gag.com/gag/aAyPvWL)
- - 👉 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)<!-- MEMES:END -->
+ - 6️⃣ [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)
+ - 😝 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
+ - 👉 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)<!-- MEMES:END -->
 
 --- 
 
