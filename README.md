@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Junji Ito’s terrifying Uzumaki hits Adult Swim in September](https://www.theverge.com/2024/7/26/24207163/junji-ito-uzumaki-adult-swim-trailer-date)
- - [A new Doctor Who spinoff series is coming to Disney Plus](https://www.theverge.com/2024/7/26/24207092/doctor-who-the-war-between-the-land-and-the-sea-sdcc-2024)
- - [Keychron K10 Pro review: All-rounder and affordable keyboard](https://appleinsider.com/articles/24/07/26/keychron-k10-pro-review-all-rounder-and-affordable-keyboard?utm_medium=rss)<!-- TECH:END -->
+ - [Google Discover gets interactive with ‘Today’s Teaser’ polls](https://www.androidauthority.com/google-discover-polls-3465236/)
+ - [The Galaxy Z Flip 6 actually does support Samsung DeX, but not the version you’re used to](https://www.androidauthority.com/samsung-galaxy-z-flip-6-new-dex-3465384/)
+ - [A look at the race to build advanced AI robots; PitchBook: robotics startups have raised $6.5B across 552 deals in 2024 vs. $9.7B across 1,256 deals in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240726/p14#a240726p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
