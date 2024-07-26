@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam is changing demos to be easier to find, easier to see, and easier to handle in your library](https://www.pcgamer.com/software/platforms/steam-is-changing-demos-to-be-easier-to-find-easier-to-see-and-easier-to-handle-in-your-library)
- - [Guilty Gear Strive&#39;s producer hints at further Cyberpunk: Edgerunners characters—or a continuation of Lucy&#39;s story from the anime—before clamming up to avoid spoilers](https://www.pcgamer.com/games/fighting/guilty-gear-strive-s-producer-hints-at-further-cyberpunk-edgerunners-characters-or-a-continuation-of-lucy-s-story-from-the-anime-before-clamming-up-to-avoid-spoilers)
- - [Bing is experimenting with search pages that boot traditional results off to the side in favour of AI summaries, and the results are a bit of a mess](https://www.pcgamer.com/software/ai/bing-is-experimenting-with-search-pages-that-boot-traditional-results-off-to-the-side-in-favour-of-ai-summaries-and-the-results-are-a-bit-of-a-mess)<!-- GAME:END -->
+ - [How And Why You Should Farm Automatic Parts In Once Human](https://kotaku.com/once-human-automatic-parts-farm-find-craft-1851606335)
+ - [Japanese man gets jailed for repeated death and bomb threats that saw multiple Nintendo events cancelled, judge excoriates &#39;selfish motive&#39; and &#39;persistent and vicious&#39; behaviour](https://www.pcgamer.com/gaming-industry/japanese-man-gets-jailed-for-repeated-death-and-bomb-threats-that-saw-multiple-nintendo-events-cancelled-judge-excoriates-selfish-motive-and-persistent-and-vicious-behaviour)
+ - [Gran Turismo 7 Update Breaks Cars, Turns Them Into Wacky Missiles](https://kotaku.com/gt7-gran-turismo-7-flying-cars-patch-1-49-fix-ps5-ps4-1851606294)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
