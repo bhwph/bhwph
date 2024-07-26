@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US unions are trying to organize staff at chip firms set to receive CHIPS Act grants; CWA is pushing to organize workers at Intel and other big chip companies &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/240726/p12#a240726p12)
- - [SharkNinja’s new coffee machine takes the hard parts out of making espresso](https://www.theverge.com/2024/7/26/24206758/sharkninja-ninja-luxe-cafe-coffee-espresso-cold-brew)
- - [San Diego Comic-Con 2024: all the biggest trailers and news](https://www.theverge.com/24205446/san-diego-comic-con-2024-news-trailers-announcements-marvel)<!-- TECH:END -->
+ - [Junji Ito’s terrifying Uzumaki hits Adult Swim in September](https://www.theverge.com/2024/7/26/24207163/junji-ito-uzumaki-adult-swim-trailer-date)
+ - [A new Doctor Who spinoff series is coming to Disney Plus](https://www.theverge.com/2024/7/26/24207092/doctor-who-the-war-between-the-land-and-the-sea-sdcc-2024)
+ - [Keychron K10 Pro review: All-rounder and affordable keyboard](https://appleinsider.com/articles/24/07/26/keychron-k10-pro-review-all-rounder-and-affordable-keyboard?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
