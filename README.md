@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nara police&#39;s response to latest trend of Chinese tourists beating up deer for fun.](http://9gag.com/gag/ae962pm)
- - 😝 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
- - 👉 [Best handshake doesn&#39;t exist](http://9gag.com/gag/an71ng5)<!-- MEMES:END -->
+ - 6️⃣ [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
+ - 😝 [Best handshake doesn&#39;t exist](http://9gag.com/gag/an71ng5)
+ - 👉 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)<!-- MEMES:END -->
 
 --- 
 
