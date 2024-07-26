@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)
- - 😝 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
- - 👉 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)<!-- MEMES:END -->
+ - 6️⃣ [Kaboom](http://9gag.com/gag/a34jxdv)
+ - 😝 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)
+ - 👉 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)<!-- MEMES:END -->
 
 --- 
 
