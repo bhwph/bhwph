@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [X-Men Comics Fans At War Over Bonus Pages Hidden Behind QR Codes](https://kotaku.com/x-men-1-comic-fans-bonus-pages-qr-codes-hidden-locked-1851606688)
- - [MrBeast Has Hired An Investigator To Look Into Grooming Allegations Against Ex-Co-Host Ava Kris Tyson](https://kotaku.com/ava-kris-tyson-mr-beast-grooming-allegations-1851606782)
- - [The grandest WoW guilds raced for a world first raid clear hinged on a new secret boss, and the winner was &#39;None of the Above&#39;](https://www.pcgamer.com/games/world-of-warcraft/the-grandest-wow-guilds-race-for-a-world-first-raid-clear-hinged-on-a-new-secret-boss-and-the-winner-was-none-of-the-above)<!-- GAME:END -->
+ - [Bad Boys: Ride or Die, Ghostbusters: Frozen Empire on Netflix, and every movie new to streaming this week](https://www.polygon.com/2024/7/26/24199709/new-movies-bad-boys-ride-or-die-netflix-ghostbusters-frozen-empire)
+ - [I hope Elden Ring never gets a boss rush mode like Sekiro⁠—helping out strangers in co-op is a much more interesting way of revisiting these fights](https://www.pcgamer.com/games/rpg/i-hope-elden-ring-never-gets-a-boss-rush-mode-like-sekirohelping-out-strangers-in-co-op-is-a-much-more-interesting-way-of-revisiting-these-fights)
+ - [The 2024 Olympic Games Opening Ceremony Goes Full Assassin&#39;s Creed Parkour On Paris&#39; Rooftops](https://kotaku.com/assassins-creed-2024-summer-olympic-games-paris-1851606886)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
