@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is tandem OLED and how does the display technology work?](https://www.androidauthority.com/what-is-tandem-oled-3464942/)
- - [The US DOJ indicts a North Korean hacker, who remains at large, for his alleged role in Andariel group&#39;s cyberattacks on US hospitals, NASA, and military bases &lpar;Associated Press&rpar;](http://www.techmeme.com/240725/p41#a240725p41)
- - [Kamala Harris joins TikTok, following an explosion of Harris memes since announcing her presidential run; her account has attracted 400K+ followers in ~2 hours &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240725/p40#a240725p40)<!-- TECH:END -->
+ - [Florida-based IntelePeer, which develops software to help businesses automate customer contact centers using AI, raised $140M in equity and debt &lpar;Denver Business Journal&rpar;](http://www.techmeme.com/240725/p44#a240725p44)
+ - [FTC&#39;s Lina Khan says open-weights AI models can promote competition and &quot;liberate startups from the arbitrary whims of closed developers and cloud gatekeepers&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p43#a240725p43)
+ - [Mix Flip sales are going international — but you still might be out of luck](https://www.androidauthority.com/mix-flip-international-sales-3464944/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
