@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam is getting some big upgrades for game demos](https://www.theverge.com/2024/7/26/24206720/steam-game-demos-update-library-store-pages)
- - [SK Hynix announces plans to invest roughly $6.8B through 2028 on a chip plant in Yongin, South Korea, including a &quot;mini-fab&quot; to process 300mm silicon wafers &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240726/p4#a240726p4)
- - [iCloud Private Relay outage hits iPhone Safari users](https://appleinsider.com/articles/24/07/26/icloud-private-relay-outage-hits-iphone-safari-users?utm_medium=rss)<!-- TECH:END -->
+ - [An interview with Samsung&#39;s mobile chief TM Roh on the Galaxy AI push, monetizing AI, future products in foldables and mixed reality, and more &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240726/p7#a240726p7)
+ - [Apple Ring, iOS betas, and iPhone 17 camera rumors, on the AppleInsider Podcast](https://appleinsider.com/articles/24/07/26/apple-ring-ios-betas-and-iphone-17-camera-rumors-on-the-appleinsider-podcast?utm_medium=rss)
+ - [How to stream the Olympics like a champ](https://www.theverge.com/2024/7/26/24206108/how-to-watch-olympics-2024-paris-peacock)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
