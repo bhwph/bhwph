@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hard to believe but Secure Boot BIOS security has been compromised on hundreds of PC models from big brands because firmware engineers used four-letter passwords](https://www.pcgamer.com/hardware/hard-to-believe-but-secure-boot-bios-security-has-been-compromised-on-hundreds-of-pc-models-from-big-brands-because-firmware-engineers-used-four-letter-passwords)
- - [After an icy response to the D&amp;D 2024 Ranger&#39;s proposed reliance on spells, lead rules designer Jeremy Crawford says don&#39;t worry, the spells should help](https://www.pcgamer.com/games/rpg/after-an-icy-response-to-the-d-d-2024-ranger-s-proposed-reliance-on-spells-lead-designer-jeremy-crawford-says-don-t-worry-the-spells-should-help)
- - [Marvel Rivals is adding two new heroes before the end of the closed beta test: Thor, the god of thunder, and Jeff, a shark with legs](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-adding-two-new-heroes-before-the-end-of-the-closed-beta-test-thor-the-god-of-thunder-and-jeff-a-shark-with-legs)<!-- GAME:END -->
+ - [Steam is changing demos to be easier to find, easier to see, and easier to handle in your library](https://www.pcgamer.com/software/platforms/steam-is-changing-demos-to-be-easier-to-find-easier-to-see-and-easier-to-handle-in-your-library)
+ - [Guilty Gear Strive&#39;s producer hints at further Cyberpunk: Edgerunners characters—or a continuation of Lucy&#39;s story from the anime—before clamming up to avoid spoilers](https://www.pcgamer.com/games/fighting/guilty-gear-strive-s-producer-hints-at-further-cyberpunk-edgerunners-characters-or-a-continuation-of-lucy-s-story-from-the-anime-before-clamming-up-to-avoid-spoilers)
+ - [Bing is experimenting with search pages that boot traditional results off to the side in favour of AI summaries, and the results are a bit of a mess](https://www.pcgamer.com/software/ai/bing-is-experimenting-with-search-pages-that-boot-traditional-results-off-to-the-side-in-favour-of-ai-summaries-and-the-results-are-a-bit-of-a-mess)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
