@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not Ok!](http://9gag.com/gag/aVveVB2)
- - 😝 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
- - 👉 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)<!-- MEMES:END -->
+ - 6️⃣ [Messages found across Belfast, Noethern Ireland. The Irish don&#39;t play around!](http://9gag.com/gag/a5Qrx7G)
+ - 😝 [That&#39;s so wholesome..... WAIT A MINUTE!](http://9gag.com/gag/aAyP2b0)
+ - 👉 [Beckham &gt; Roberto Carlos &lpar;2003&rpar;](http://9gag.com/gag/abAZRNB)<!-- MEMES:END -->
 
 --- 
 
