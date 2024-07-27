@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, July 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-27-2024)
  - [How to find the &#39;Wealthy Weirdo&#39; at the Beso Rápido Motel in The Sims 4 Lovestruck expansion](https://www.pcgamer.com/games/the-sims/sims-4-lovestruck-beso-rapido-motel-location)
- - [A dairy-sponsored women&#39;s Fortnite tournament called &#39;The Milk Cup&#39; is awarding &#39;the largest women&#39;s esports prize pool in North America&#39; this year](https://www.pcgamer.com/gaming-industry/a-dairy-sponsored-womens-fortnite-tournament-called-the-milk-cup-is-awarding-the-largest-womens-esports-prize-pool-in-north-america-this-year)
- - [Activision secretly experimented on 50% of Call of Duty players by &#39;decreasing&#39; skill-based matchmaking, and determined players like SBMM even if they don&#39;t know it](https://www.pcgamer.com/games/activision-secretly-experimented-on-50-of-call-of-duty-players-by-decreasing-skill-based-matchmaking-and-determined-players-like-sbmm-even-if-they-don-t-know-it)<!-- GAME:END -->
+ - [A dairy-sponsored women&#39;s Fortnite tournament called &#39;The Milk Cup&#39; is awarding &#39;the largest women&#39;s esports prize pool in North America&#39; this year](https://www.pcgamer.com/gaming-industry/a-dairy-sponsored-womens-fortnite-tournament-called-the-milk-cup-is-awarding-the-largest-womens-esports-prize-pool-in-north-america-this-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
