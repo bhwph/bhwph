@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bad Boys: Ride or Die, Ghostbusters: Frozen Empire on Netflix, and every movie new to streaming this week](https://www.polygon.com/2024/7/26/24199709/new-movies-bad-boys-ride-or-die-netflix-ghostbusters-frozen-empire)
- - [I hope Elden Ring never gets a boss rush mode like Sekiro⁠—helping out strangers in co-op is a much more interesting way of revisiting these fights](https://www.pcgamer.com/games/rpg/i-hope-elden-ring-never-gets-a-boss-rush-mode-like-sekirohelping-out-strangers-in-co-op-is-a-much-more-interesting-way-of-revisiting-these-fights)
- - [The 2024 Olympic Games Opening Ceremony Goes Full Assassin&#39;s Creed Parkour On Paris&#39; Rooftops](https://kotaku.com/assassins-creed-2024-summer-olympic-games-paris-1851606886)<!-- GAME:END -->
+ - [How to find the &#39;Wealthy Weirdo&#39; at the Beso Rápido Motel in The Sims 4 Lovestruck expansion](https://www.pcgamer.com/games/the-sims/sims-4-lovestruck-beso-rapido-motel-location)
+ - [A dairy-sponsored women&#39;s Fortnite tournament called &#39;The Milk Cup&#39; is awarding &#39;the largest women&#39;s esports prize pool in North America&#39; this year](https://www.pcgamer.com/gaming-industry/a-dairy-sponsored-womens-fortnite-tournament-called-the-milk-cup-is-awarding-the-largest-womens-esports-prize-pool-in-north-america-this-year)
+ - [Activision secretly experimented on 50% of Call of Duty players by &#39;decreasing&#39; skill-based matchmaking, and determined players like SBMM even if they don&#39;t know it](https://www.pcgamer.com/games/activision-secretly-experimented-on-50-of-call-of-duty-players-by-decreasing-skill-based-matchmaking-and-determined-players-like-sbmm-even-if-they-don-t-know-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
