@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The SDCC test clip from Critical Role’s new Mighty Nein series is actually adorable](https://www.polygon.com/sdcc/2024/7/27/24207671/critical-role-mighty-nein-clip-animatic)
- - [The Like a Dragon live action show&#39;s first trailer isn&#39;t giving the same vibe as the games, but it still might make for some great martial arts-infused noir](https://www.pcgamer.com/movies-tv/the-like-a-dragon-live-action-shows-first-trailer-isnt-giving-the-same-vibe-as-the-games-but-it-still-might-make-for-some-great-martial-arts-infused-noir)
- - [One of 2024’s best comedies, now on Netflix, is balm for the internet-weary soul](https://www.polygon.com/24206920/wicked-little-letters-netflix-comedy-streaming)<!-- GAME:END -->
+ - [Michelle Yeoh boldly goes off in the Star Trek: Section 31 SDCC trailer](https://www.polygon.com/sdcc/24201630/star-trek-section-31-trailer-michelle-yeoh-sdcc-2024)
+ - [Star Trek SDCC panel welcomes the cast of Starfleet Academy](https://www.polygon.com/sdcc/2024/7/27/24205339/star-trek-starfleet-academy-first-look)
+ - [If you want to talk about &#39;getting good,&#39; one Elden Ring player has beaten Messmer the Impaler at level 1 without dodging, blocking, or getting hit a single time](https://www.pcgamer.com/games/rpg/if-you-want-to-talk-about-getting-good-one-elden-ring-player-has-beaten-messmer-the-impaler-at-level-1-without-dodging-blocking-or-getting-hit-a-single-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
