@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies leaving Netflix, Max, and Prime at the end of July 2024](https://www.polygon.com/what-to-watch/24205364/best-movies-netflix-amazon-hulu-leaving-july-2024)
- - [Today&#39;s Wordle answer for Saturday, July 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-27-2024)
- - [How to find the &#39;Wealthy Weirdo&#39; at the Beso Rápido Motel in The Sims 4 Lovestruck expansion](https://www.pcgamer.com/games/the-sims/sims-4-lovestruck-beso-rapido-motel-location)<!-- GAME:END -->
+ - [Fallout 76 Farming Advice, FFXIV Help, And More Tips](https://kotaku.com/fallout-76-farming-advice-ffxiv-help-and-more-tips-1851606441)
+ - [Fallout: London Arrives, Call Of Duty Hits Game Pass, And More Of The Week&#39;s Top News](https://kotaku.com/fallout-london-call-of-duty-game-pass-fortnite-tesla-1851606440)
+ - [The best movies leaving Netflix, Max, and Prime at the end of July 2024](https://www.polygon.com/what-to-watch/24205364/best-movies-netflix-amazon-hulu-leaving-july-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
