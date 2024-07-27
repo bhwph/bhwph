@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Buds3 review: auto-pause works well, but expensive, copy Apple&#39;s dated design with plastic tips, shoddy ANC, and AI tools are mostly useless &lpar;Parker Hall/Wired&rpar;](http://www.techmeme.com/240727/p9#a240727p9)
- - [Apple, Amazon target Twitch users for new Apple TV+ trial promotion](https://appleinsider.com/articles/24/07/27/apple-amazon-target-twitch-users-for-new-apple-tv-trial-promotion?utm_medium=rss)
- - [Olympic Gymnastics 2024: How to Watch Simone Biles and Team USA](https://www.cnet.com/tech/services-and-software/olympic-gymnastics-2024-how-to-watch-simone-biles-and-team-usa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump proposes a strategic national crypto stockpile; Bitcoin 2024 organizers say they were in talks to have Kamala Harris appear, but she ultimately declined &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240727/p11#a240727p11)
+ - [The 8 Best Grocery Delivery Services to Use in 2024](https://www.cnet.com/news/best-grocery-delivery-service/#ftag=CAD590a51e)
+ - [Best Open Wireless Earbuds for 2024](https://www.cnet.com/tech/mobile/best-open-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
