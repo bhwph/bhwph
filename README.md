@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Talkie, which lets users chat with AI personas of celebrities and was one of most downloaded AI apps in the US in H1, is owned by China-based MiniMax &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240727/p8#a240727p8)
- - [Boost Mobile’s big change made picking a plan so easy, the Big Three should copy it](https://www.androidauthority.com/boost-change-big-three-3463253/)
- - [Futurama’s new season struggles to make NFTs and AI funny](https://www.theverge.com/24206898/futurama-season-12-review-hulu-nft-ai)<!-- TECH:END -->
+ - [Samsung Galaxy Buds3 review: auto-pause works well, but expensive, copy Apple&#39;s dated design with plastic tips, shoddy ANC, and AI tools are mostly useless &lpar;Parker Hall/Wired&rpar;](http://www.techmeme.com/240727/p9#a240727p9)
+ - [Apple, Amazon target Twitch users for new Apple TV+ trial promotion](https://appleinsider.com/articles/24/07/27/apple-amazon-target-twitch-users-for-new-apple-tv-trial-promotion?utm_medium=rss)
+ - [Olympic Gymnastics 2024: How to Watch Simone Biles and Team USA](https://www.cnet.com/tech/services-and-software/olympic-gymnastics-2024-how-to-watch-simone-biles-and-team-usa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
