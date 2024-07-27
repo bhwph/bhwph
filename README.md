@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Android-iPhone RCS will still &lpar;sometimes&rpar; suck](https://www.androidauthority.com/why-android-iphone-rcs-sucks-3464331/)
- - [How to find the reading mode built into your browser](https://www.theverge.com/24206804/reading-mode-chrome-safari-firefox-how-to)
- - [8BitDo’s first mechanical keyboard is down to its best price to date](https://www.theverge.com/2024/7/27/24206927/8bitdo-retro-mechanical-keyboard-blink-mini-2-camera-deal-sale)<!-- TECH:END -->
+ - [Pixel 9 Pro XL gets a video review, but one thing is curiously absent](https://www.androidauthority.com/google-pixel-9-pro-xl-video-review-leak-3465481/)
+ - [Downcycled: The story of Samsung’s failed deal with iFixit, as told by iFixit’s CEO](https://www.androidauthority.com/samsung-ifixit-partnership-story-3456726/)
+ - [Apple reaches agreement with unionized Maryland Apple Store workers](https://appleinsider.com/articles/24/07/27/apple-reaches-agreement-with-unionized-maryland-apple-store-workers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
