@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
- - 😝 [Lady signature](http://9gag.com/gag/aE0njMo)
- - 👉 [What is her superhero name?](http://9gag.com/gag/a34jpY7)<!-- MEMES:END -->
+ - 6️⃣ [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
+ - 😝 [I know you pause here....](http://9gag.com/gag/a2v5bwd)
+ - 👉 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)<!-- MEMES:END -->
 
 --- 
 
