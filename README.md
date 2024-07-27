@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus Chromebook Plus CX34 Review: A Pretty Chromebook](https://www.wired.com/review/asus-chromebook-plus-cx34/)
- - [Stream the Olympics Using Peacock&#39;s New Interactive Features](https://www.cnet.com/tech/services-and-software/stream-the-olympics-using-peacocks-new-interactive-features/#ftag=CAD590a51e)
- - [Galaxy Z Flip 6 Review: The Aha Moment That Sold Me -- Until I Saw the Price](https://www.cnet.com/tech/mobile/galaxy-z-flip-6-review-the-aha-moment-that-sold-me-until-i-saw-the-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Android-iPhone RCS will still &lpar;sometimes&rpar; suck](https://www.androidauthority.com/why-android-iphone-rcs-sucks-3464331/)
+ - [How to find the reading mode built into your browser](https://www.theverge.com/24206804/reading-mode-chrome-safari-firefox-how-to)
+ - [8BitDo’s first mechanical keyboard is down to its best price to date](https://www.theverge.com/2024/7/27/24206927/8bitdo-retro-mechanical-keyboard-blink-mini-2-camera-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
