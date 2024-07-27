@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best movies leaving Netflix, Max, and Prime at the end of July 2024](https://www.polygon.com/what-to-watch/24205364/best-movies-netflix-amazon-hulu-leaving-july-2024)
  - [Today&#39;s Wordle answer for Saturday, July 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-27-2024)
- - [How to find the &#39;Wealthy Weirdo&#39; at the Beso Rápido Motel in The Sims 4 Lovestruck expansion](https://www.pcgamer.com/games/the-sims/sims-4-lovestruck-beso-rapido-motel-location)
- - [A dairy-sponsored women&#39;s Fortnite tournament called &#39;The Milk Cup&#39; is awarding &#39;the largest women&#39;s esports prize pool in North America&#39; this year](https://www.pcgamer.com/gaming-industry/a-dairy-sponsored-womens-fortnite-tournament-called-the-milk-cup-is-awarding-the-largest-womens-esports-prize-pool-in-north-america-this-year)<!-- GAME:END -->
+ - [How to find the &#39;Wealthy Weirdo&#39; at the Beso Rápido Motel in The Sims 4 Lovestruck expansion](https://www.pcgamer.com/games/the-sims/sims-4-lovestruck-beso-rapido-motel-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
