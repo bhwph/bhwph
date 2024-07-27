@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Show this to your bf](http://9gag.com/gag/aD2GX37)
- - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
- - 👉 [I know you pause here....](http://9gag.com/gag/a2v5bwd)<!-- MEMES:END -->
+ - 6️⃣ [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)
+ - 😝 [Kaboom](http://9gag.com/gag/a34jxdv)
+ - 👉 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)<!-- MEMES:END -->
 
 --- 
 
