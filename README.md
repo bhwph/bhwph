@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kaboom](http://9gag.com/gag/a34jxdv)
- - 😝 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)
- - 👉 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)<!-- MEMES:END -->
+ - 6️⃣ [Lol](http://9gag.com/gag/apRLx85)
+ - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
+ - 👉 [Should have used the right hand](http://9gag.com/gag/aAyPvWL)<!-- MEMES:END -->
 
 --- 
 
