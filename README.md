@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)
- - 😝 [Lady signature](http://9gag.com/gag/aE0njMo)
- - 👉 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)<!-- MEMES:END -->
+ - 6️⃣ [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
+ - 😝 [Core memory created](http://9gag.com/gag/adBXMyN)
+ - 👉 [Mr Beast new video: survive 24 hrs locked in a room with Chris win 100k](http://9gag.com/gag/aVveBXK)<!-- MEMES:END -->
 
 --- 
 
