@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [One of 2024’s best comedies, now on Netflix, is balm for the internet-weary soul](https://www.polygon.com/24206920/wicked-little-letters-netflix-comedy-streaming)
  - [Fallout 76 Farming Advice, FFXIV Help, And More Tips](https://kotaku.com/fallout-76-farming-advice-ffxiv-help-and-more-tips-1851606441)
- - [Fallout: London Arrives, Call Of Duty Hits Game Pass, And More Of The Week&#39;s Top News](https://kotaku.com/fallout-london-call-of-duty-game-pass-fortnite-tesla-1851606440)
- - [The best movies leaving Netflix, Max, and Prime at the end of July 2024](https://www.polygon.com/what-to-watch/24205364/best-movies-netflix-amazon-hulu-leaving-july-2024)<!-- GAME:END -->
+ - [Fallout: London Arrives, Call Of Duty Hits Game Pass, And More Of The Week&#39;s Top News](https://kotaku.com/fallout-london-call-of-duty-game-pass-fortnite-tesla-1851606440)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
