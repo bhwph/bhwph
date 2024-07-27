@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
- - 😝 [9gag: Racism is like breathing](http://9gag.com/gag/aKG3LM1)
- - 👉 [Bonk](http://9gag.com/gag/a0ejx5B)<!-- MEMES:END -->
+ - 6️⃣ [Show this to your bf](http://9gag.com/gag/aD2GX37)
+ - 😝 [What is her superhero name?](http://9gag.com/gag/a34jpY7)
+ - 👉 [I know you pause here....](http://9gag.com/gag/a2v5bwd)<!-- MEMES:END -->
 
 --- 
 
