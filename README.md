@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me watching the Olympic games opening ceremony...](http://9gag.com/gag/avynBPX)
- - 😝 [Core memory created](http://9gag.com/gag/adBXMyN)
- - 👉 [Mr Beast new video: survive 24 hrs locked in a room with Chris win 100k](http://9gag.com/gag/aVveBXK)<!-- MEMES:END -->
+ - 6️⃣ [The culprit of paris olympic ceremony](http://9gag.com/gag/aE0nj4N)
+ - 😝 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)
+ - 👉 [Lord of the Chad](http://9gag.com/gag/awyVvrD)<!-- MEMES:END -->
 
 --- 
 
