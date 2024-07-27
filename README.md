@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Discover gets interactive with ‘Today’s Teaser’ polls](https://www.androidauthority.com/google-discover-polls-3465236/)
- - [The Galaxy Z Flip 6 actually does support Samsung DeX, but not the version you’re used to](https://www.androidauthority.com/samsung-galaxy-z-flip-6-new-dex-3465384/)
- - [A look at the race to build advanced AI robots; PitchBook: robotics startups have raised $6.5B across 552 deals in 2024 vs. $9.7B across 1,256 deals in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240726/p14#a240726p14)<!-- TECH:END -->
+ - [These Marshall portable speaker deals will turn you into the life of the party](https://www.androidauthority.com/deals-marshall-stockwell-ii-killburn-ii-tufton-3465314/)
+ - [Mortal Kombat 1: Khaos Reigns Expansion Includes Conan, Ghostface and the T-1000](https://www.cnet.com/tech/gaming/mortal-kombat-1-khaos-reigns-expansion-includes-conan-ghostface-and-the-t-1000/#ftag=CAD590a51e)
+ - [Chinese self-driving startup WeRide files to list on the Nasdaq under the symbol WRD, reporting a loss of $268M on revenue of $55M in 2023 &lpar;Michael Hytha/Bloomberg&rpar;](http://www.techmeme.com/240726/p17#a240726p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
