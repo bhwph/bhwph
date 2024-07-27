@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The culprit of paris olympic ceremony](http://9gag.com/gag/aE0nj4N)
- - 😝 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)
- - 👉 [Lord of the Chad](http://9gag.com/gag/awyVvrD)<!-- MEMES:END -->
+ - 6️⃣ [What is her superhero name?](http://9gag.com/gag/a34jpY7)
+ - 😝 [Core memory created](http://9gag.com/gag/adBXMyN)
+ - 👉 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)<!-- MEMES:END -->
 
 --- 
 
