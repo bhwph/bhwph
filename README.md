@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
- - 😝 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)
- - 👉 [Lady signature](http://9gag.com/gag/aE0njMo)<!-- MEMES:END -->
+ - 6️⃣ [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)
+ - 😝 [Lady signature](http://9gag.com/gag/aE0njMo)
+ - 👉 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)<!-- MEMES:END -->
 
 --- 
 
