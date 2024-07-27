@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 9 Pro XL gets a video review, but one thing is curiously absent](https://www.androidauthority.com/google-pixel-9-pro-xl-video-review-leak-3465481/)
- - [Downcycled: The story of Samsung’s failed deal with iFixit, as told by iFixit’s CEO](https://www.androidauthority.com/samsung-ifixit-partnership-story-3456726/)
- - [Apple reaches agreement with unionized Maryland Apple Store workers](https://appleinsider.com/articles/24/07/27/apple-reaches-agreement-with-unionized-maryland-apple-store-workers?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Talkie, which lets users chat with AI personas of celebrities and was one of most downloaded AI apps in the US in H1, is owned by China-based MiniMax &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240727/p8#a240727p8)
+ - [Boost Mobile’s big change made picking a plan so easy, the Big Three should copy it](https://www.androidauthority.com/boost-change-big-three-3463253/)
+ - [Futurama’s new season struggles to make NFTs and AI funny](https://www.theverge.com/24206898/futurama-season-12-review-hulu-nft-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
