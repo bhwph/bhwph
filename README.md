@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lol](http://9gag.com/gag/apRLx85)
- - 😝 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
- - 👉 [Should have used the right hand](http://9gag.com/gag/aAyPvWL)<!-- MEMES:END -->
+ - 6️⃣ [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
+ - 😝 [9gag: Racism is like breathing](http://9gag.com/gag/aKG3LM1)
+ - 👉 [Bonk](http://9gag.com/gag/a0ejx5B)<!-- MEMES:END -->
 
 --- 
 
