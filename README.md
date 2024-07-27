@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Marshall portable speaker deals will turn you into the life of the party](https://www.androidauthority.com/deals-marshall-stockwell-ii-killburn-ii-tufton-3465314/)
- - [Mortal Kombat 1: Khaos Reigns Expansion Includes Conan, Ghostface and the T-1000](https://www.cnet.com/tech/gaming/mortal-kombat-1-khaos-reigns-expansion-includes-conan-ghostface-and-the-t-1000/#ftag=CAD590a51e)
- - [Chinese self-driving startup WeRide files to list on the Nasdaq under the symbol WRD, reporting a loss of $268M on revenue of $55M in 2023 &lpar;Michael Hytha/Bloomberg&rpar;](http://www.techmeme.com/240726/p17#a240726p17)<!-- TECH:END -->
+ - [Sources: Honeywell is considering a US IPO of its majority-owned quantum computing firm Quantinuum as soon as 2025, and could seek a valuation of about $10B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240726/p18#a240726p18)
+ - [Get Apple&#39;s latest Mac mini with 16GB RAM, 512GB SSD for just $799](https://appleinsider.com/articles/24/07/27/get-apples-latest-mac-mini-with-16gb-ram-512gb-ssd-for-just-799?utm_medium=rss)
+ - [Is the Olympic Cauldron Flying With a Hot-Air Balloon? Here&#39;s Everything We Know](https://www.cnet.com/tech/olympic-cauldron-is-flying-with-a-hot-air-balloon-heres-everything-we-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
