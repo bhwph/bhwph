@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Inside Look at &#39;Alien: Romulus&#39; at Comic-Con 2024](https://www.cnet.com/tech/services-and-software/an-inside-look-at-alien-romulus-at-comic-con-2024/#ftag=CAD590a51e)
- - [The 2024 Paris Summer Olympics is using real-time AI-based video surveillance tech to detect and predict threats, raising concerns over mass surveillance &lpar;Jorja Siemons/Bloomberg Law&rpar;](http://www.techmeme.com/240727/p2#a240727p2)
- - [Today&#39;s NYT Mini Crossword Answers for July 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-july-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Which Google Pixel 9 Pro color is your favorite?](https://www.androidauthority.com/google-pixel-9-pro-color-poll-3465035/)
+ - [From Skeptics to Superfans: How I Sold My Boomer Parents on the Apple Watch](https://www.cnet.com/tech/mobile/my-parents-health-worried-me-an-apple-watch-fixed-that-and-more/#ftag=CAD590a51e)
+ - [To Actually Enjoy In-Flight Entertainment Audio, Add This Adapter to Your Bag](https://www.cnet.com/tech/mobile/connect-any-bluetooth-headphones-to-in-flight-entertainment-with-this-55-device/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
