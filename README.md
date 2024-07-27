@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which Google Pixel 9 Pro color is your favorite?](https://www.androidauthority.com/google-pixel-9-pro-color-poll-3465035/)
- - [From Skeptics to Superfans: How I Sold My Boomer Parents on the Apple Watch](https://www.cnet.com/tech/mobile/my-parents-health-worried-me-an-apple-watch-fixed-that-and-more/#ftag=CAD590a51e)
- - [To Actually Enjoy In-Flight Entertainment Audio, Add This Adapter to Your Bag](https://www.cnet.com/tech/mobile/connect-any-bluetooth-headphones-to-in-flight-entertainment-with-this-55-device/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Asus Chromebook Plus CX34 Review: A Pretty Chromebook](https://www.wired.com/review/asus-chromebook-plus-cx34/)
+ - [Stream the Olympics Using Peacock&#39;s New Interactive Features](https://www.cnet.com/tech/services-and-software/stream-the-olympics-using-peacocks-new-interactive-features/#ftag=CAD590a51e)
+ - [Galaxy Z Flip 6 Review: The Aha Moment That Sold Me -- Until I Saw the Price](https://www.cnet.com/tech/mobile/galaxy-z-flip-6-review-the-aha-moment-that-sold-me-until-i-saw-the-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
