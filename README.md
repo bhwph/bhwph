@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Michelle Yeoh boldly goes off in the Star Trek: Section 31 SDCC trailer](https://www.polygon.com/sdcc/24201630/star-trek-section-31-trailer-michelle-yeoh-sdcc-2024)
- - [Star Trek SDCC panel welcomes the cast of Starfleet Academy](https://www.polygon.com/sdcc/2024/7/27/24205339/star-trek-starfleet-academy-first-look)
- - [If you want to talk about &#39;getting good,&#39; one Elden Ring player has beaten Messmer the Impaler at level 1 without dodging, blocking, or getting hit a single time](https://www.pcgamer.com/games/rpg/if-you-want-to-talk-about-getting-good-one-elden-ring-player-has-beaten-messmer-the-impaler-at-level-1-without-dodging-blocking-or-getting-hit-a-single-time)<!-- GAME:END -->
+ - [The Penguin’s SDCC panels hints at how the series is handling the Batman](https://www.polygon.com/sdcc/24203926/where-batman-penguin-hbo-show-sdcc-panel)
+ - [A surprise final episode of the Psychonauts 2 documentary series has dropped more than a year after its initial release](https://www.pcgamer.com/games/action/a-surprise-final-episode-of-the-psychonauts-2-documentary-series-has-dropped-more-than-a-year-after-its-initial-release)
+ - [Blizzard politely tells Hearthstone players their game isn&#39;t dead just because it&#39;s not getting a new cosmetic board this expansion](https://www.pcgamer.com/games/card-games/blizzard-politely-tells-hearthstone-players-their-game-isnt-dead-just-because-its-not-getting-a-new-cosmetic-board-this-expansion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
