@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Core memory created](http://9gag.com/gag/adBXMyN)
- - 😝 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)
- - 👉 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)<!-- MEMES:END -->
+ - 6️⃣ [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
+ - 😝 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)
+ - 👉 [When your diplomacy skill is zero](http://9gag.com/gag/aMV9616)<!-- MEMES:END -->
 
 --- 
 
