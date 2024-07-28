@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 17 wishlist: All the features I want to see](https://www.androidauthority.com/apple-iphone-17-3453759/)
- - [Microsoft provides a technical overview of the CrowdStrike incident, explains why security products use Windows kernel drivers, and outlines future improvements &lpar;David Weston/Microsoft Security Blog&rpar;](http://www.techmeme.com/240728/p6#a240728p6)
- - [In search of the perfect movie recommendation](https://www.theverge.com/2024/7/28/24206171/ai-movie-recommendations-chatgpt-vergecast)<!-- TECH:END -->
+ - [Here’s more info on the ‘Google TV Streamer,’ including possible Ethernet support](https://www.androidauthority.com/google-tv-streamer-ethernet-3465531/)
+ - [The US NIST re-releases Dioptra, an open-source web-based tool first unveiled in 2022 for benchmarking, testing, and assessing risks in AI models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240728/p8#a240728p8)
+ - [Fitbit Arcade is for kids, but this adult wants to see it on every smartwatch](https://www.androidauthority.com/fitbit-arcade-on-every-smartwatch-3458040/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
