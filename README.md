@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Ozempic Games](http://9gag.com/gag/a874N1e)
- - 😝 [Olympics are a joke](http://9gag.com/gag/azxAyqz)
+ - 😝 [Women logic](http://9gag.com/gag/azxAvpB)
  - 👉 [What is her superhero name?](http://9gag.com/gag/a34jpY7)<!-- MEMES:END -->
 
 --- 
