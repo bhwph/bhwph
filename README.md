@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel is bringing the Russo Bros. back to direct the next two Avengers films](https://www.theverge.com/2024/7/27/24206259/marvel-russo-brothers-avengers-doomsday-secret-wars-sdcc)
- - [California DMV granted Nuro approval to test its third-gen R3 autonomous delivery vehicle in four Bay Area cities, a boost for the startup after some setbacks &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240727/p13#a240727p13)
- - [Best Showerhead for 2024](https://www.cnet.com/news/best-showerhead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Musk reposts an edited Kamala Harris campaign video that mimics her voice, possibly with deepfake tech; it has 104M+ views and seemingly breaks X&#39;s own rules &lpar;Ken Bensinger/New York Times&rpar;](http://www.techmeme.com/240727/p14#a240727p14)
+ - [Today&#39;s NYT Mini Crossword Answers for July 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-july-28/#ftag=CAD590a51e)
+ - [Robert Downey Jr. to Play Doctor Doom in &#39;Avengers 5&#39;](https://www.cnet.com/tech/services-and-software/robert-downey-jr-to-play-doctor-doom-in-avengers-5/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
