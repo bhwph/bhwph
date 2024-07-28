@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women logic](http://9gag.com/gag/azxAvpB)
- - 😝 [The Olympics deleted their own video of the opening ceremony because it was being criticized too much.](http://9gag.com/gag/a6ZQg89)
- - 👉 [Olympics are a joke](http://9gag.com/gag/azxAyqz)<!-- MEMES:END -->
+ - 6️⃣ [The Olympics deleted their own video of the opening ceremony because it was being criticized too much.](http://9gag.com/gag/a6ZQg89)
+ - 😝 [Merican things](http://9gag.com/gag/a874NyQ)
+ - 👉 [Beethoven was not from this planet](http://9gag.com/gag/avynVNO)<!-- MEMES:END -->
 
 --- 
 
