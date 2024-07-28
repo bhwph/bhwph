@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s more info on the ‘Google TV Streamer,’ including possible Ethernet support](https://www.androidauthority.com/google-tv-streamer-ethernet-3465531/)
- - [The US NIST re-releases Dioptra, an open-source web-based tool first unveiled in 2022 for benchmarking, testing, and assessing risks in AI models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240728/p8#a240728p8)
- - [Fitbit Arcade is for kids, but this adult wants to see it on every smartwatch](https://www.androidauthority.com/fitbit-arcade-on-every-smartwatch-3458040/)<!-- TECH:END -->
+ - [I’ve avoided Wahoo HR straps, but the Trackr Heart Rate monitor is so good it changed my mind](https://www.androidauthority.com/wahoo-trackr-heart-rate-monitor-review-3459652/)
+ - [Gemini will soon allow you to fine-tune your generated images &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-images-fine-tune-3465549/)
+ - [Gemini getting loads of new Google extensions, including Home, Phone, more &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-extensions-leaks-3465539/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
