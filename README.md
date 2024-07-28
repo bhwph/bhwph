@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ozempic Games](http://9gag.com/gag/a874N1e)
- - 😝 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
- - 👉 [Women logic](http://9gag.com/gag/azxAvpB)<!-- MEMES:END -->
+ - 6️⃣ [I mean, I hope it wasn&#39;t for nothing at least](http://9gag.com/gag/ae96ERB)
+ - 😝 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)
+ - 👉 [British patriot march today in London. Natives are waking up!](http://9gag.com/gag/aD2G5DN)<!-- MEMES:END -->
 
 --- 
 
