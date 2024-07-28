@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
- - 😝 [Olympics are a joke](http://9gag.com/gag/azxAyqz)
- - 👉 [Women logic](http://9gag.com/gag/azxAvpB)<!-- MEMES:END -->
+ - 6️⃣ [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)
+ - 😝 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)
+ - 👉 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)<!-- MEMES:END -->
 
 --- 
 
