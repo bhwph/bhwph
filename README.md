@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel shows footage from Thunderbolts* at Comic-Con, doesn’t explain the asterisk](https://www.polygon.com/sdcc/24205391/thunderbolts-first-trailer-marvel-mcu-sdcc-2024)
- - [Today&#39;s Wordle answer for Sunday, July 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-28-2024)
- - [Everyone gets a free feat and a more mechanically impactful background in D&amp;D&#39;s 2024 Player&#39;s Handbook](https://www.pcgamer.com/games/rpg/everyone-gets-a-free-feat-and-a-more-mechanically-impactful-background-in-dandds-2024-players-handbook)<!-- GAME:END -->
+ - [Overwatch 2&#39;s Identity Crisis, The Hate Driving The Assassin&#39;s Creed &#39;Controversy,&#39; And More Opinions For The Week](https://kotaku.com/ac-shadows-yasuke-overwatch-2-5v5-6v6-1851606442)
+ - [Isles of Sea and Sky taught me it’s okay to move on](https://www.polygon.com/24205518/isles-of-sea-and-sky-sokoban-impressions)
+ - [Marvel shows footage from Thunderbolts* at Comic-Con, doesn’t explain the asterisk](https://www.polygon.com/sdcc/24205391/thunderbolts-first-trailer-marvel-mcu-sdcc-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
