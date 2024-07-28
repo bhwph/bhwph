@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best games like the Sims to play right now](https://www.polygon.com/what-to-play/24203662/best-games-like-the-sims-best-life-simulation-play)
  - [Overwatch 2&#39;s Identity Crisis, The Hate Driving The Assassin&#39;s Creed &#39;Controversy,&#39; And More Opinions For The Week](https://kotaku.com/ac-shadows-yasuke-overwatch-2-5v5-6v6-1851606442)
- - [Isles of Sea and Sky taught me it’s okay to move on](https://www.polygon.com/24205518/isles-of-sea-and-sky-sokoban-impressions)
- - [Marvel shows footage from Thunderbolts* at Comic-Con, doesn’t explain the asterisk](https://www.polygon.com/sdcc/24205391/thunderbolts-first-trailer-marvel-mcu-sdcc-2024)<!-- GAME:END -->
+ - [Isles of Sea and Sky taught me it’s okay to move on](https://www.polygon.com/24205518/isles-of-sea-and-sky-sokoban-impressions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
