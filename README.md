@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Penguin’s SDCC panels hints at how the series is handling the Batman](https://www.polygon.com/sdcc/24203926/where-batman-penguin-hbo-show-sdcc-panel)
- - [A surprise final episode of the Psychonauts 2 documentary series has dropped more than a year after its initial release](https://www.pcgamer.com/games/action/a-surprise-final-episode-of-the-psychonauts-2-documentary-series-has-dropped-more-than-a-year-after-its-initial-release)
- - [Blizzard politely tells Hearthstone players their game isn&#39;t dead just because it&#39;s not getting a new cosmetic board this expansion](https://www.pcgamer.com/games/card-games/blizzard-politely-tells-hearthstone-players-their-game-isnt-dead-just-because-its-not-getting-a-new-cosmetic-board-this-expansion)<!-- GAME:END -->
+ - [Avengers 5 now called Doomsday, will introduce Doctor Doom to the MCU, Marvel announced at SDCC](https://www.polygon.com/sdcc/24201657/avengers-doomsday-5-kang-dynasty-doom-robert-downey-jr)
+ - [Giancarlo Esposito will play Sidewinder in Captain America: Brave New World](https://www.polygon.com/24197123/giancarlo-esposito-serpent-society-sidewinder-captain-america-villain-brave-new-world-sdcc-2024)
+ - [Robert Downey Jr. is returning to the MCU as Doctor Doom](https://www.polygon.com/sdcc/24207892/robert-downey-jr-doctor-doom-marvel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
