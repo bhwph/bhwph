@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump proposes a strategic national crypto stockpile; Bitcoin 2024 organizers say they were in talks to have Kamala Harris appear, but she ultimately declined &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240727/p11#a240727p11)
- - [The 8 Best Grocery Delivery Services to Use in 2024](https://www.cnet.com/news/best-grocery-delivery-service/#ftag=CAD590a51e)
- - [Best Open Wireless Earbuds for 2024](https://www.cnet.com/tech/mobile/best-open-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Printer for 2024](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
+ - [Silo season 2 hits Apple TV Plus this November](https://www.theverge.com/24177603/silo-season-2-apple-tv-plus-premiere-date-sdcc-2024)
+ - [Sources: Apple met with UK TV ratings body Barb to discuss options for tracking ads on Apple TV+, in another sign that it plans to introduce ads on the service &lpar;James Warrington/The Telegraph&rpar;](http://www.techmeme.com/240727/p12#a240727p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
