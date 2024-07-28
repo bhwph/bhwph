@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avengers 5 now called Doomsday, will introduce Doctor Doom to the MCU, Marvel announced at SDCC](https://www.polygon.com/sdcc/24201657/avengers-doomsday-5-kang-dynasty-doom-robert-downey-jr)
- - [Giancarlo Esposito will play Sidewinder in Captain America: Brave New World](https://www.polygon.com/24197123/giancarlo-esposito-serpent-society-sidewinder-captain-america-villain-brave-new-world-sdcc-2024)
- - [Robert Downey Jr. is returning to the MCU as Doctor Doom](https://www.polygon.com/sdcc/24207892/robert-downey-jr-doctor-doom-marvel)<!-- GAME:END -->
+ - [Marvel shows footage from Thunderbolts* at SDCC, doesn’t explain the asterisk](https://www.polygon.com/sdcc/24205391/thunderbolts-first-trailer-marvel-mcu-sdcc-2024)
+ - [Today&#39;s Wordle answer for Sunday, July 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-28-2024)
+ - [Everyone gets a free feat and a more mechanically impactful background in D&amp;D&#39;s 2024 Player&#39;s Handbook](https://www.pcgamer.com/games/rpg/everyone-gets-a-free-feat-and-a-more-mechanically-impactful-background-in-dandds-2024-players-handbook)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
