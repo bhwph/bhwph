@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at AIxCC, or AI Cyber Challenge, a competition launched in 2023 and run by DARPA to design an AI program that scans open source code for security flaws &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240728/p5#a240728p5)
- - [The CMF Phone 1’s modular approach made tech fun again for me](https://www.androidauthority.com/cmf-phone-1-modular-design-3464446/)
- - [The best way to watch the Olympics](https://www.theverge.com/2024/7/28/24206986/watch-olympics-multiview-apple-maps-meta-ai-installer)<!-- TECH:END -->
+ - [Apple iPhone 17 wishlist: All the features I want to see](https://www.androidauthority.com/apple-iphone-17-3453759/)
+ - [Microsoft provides a technical overview of the CrowdStrike incident, explains why security products use Windows kernel drivers, and outlines future improvements &lpar;David Weston/Microsoft Security Blog&rpar;](http://www.techmeme.com/240728/p6#a240728p6)
+ - [In search of the perfect movie recommendation](https://www.theverge.com/2024/7/28/24206171/ai-movie-recommendations-chatgpt-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
