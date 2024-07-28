@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Printer for 2024](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
- - [Silo season 2 hits Apple TV Plus this November](https://www.theverge.com/24177603/silo-season-2-apple-tv-plus-premiere-date-sdcc-2024)
- - [Sources: Apple met with UK TV ratings body Barb to discuss options for tracking ads on Apple TV+, in another sign that it plans to introduce ads on the service &lpar;James Warrington/The Telegraph&rpar;](http://www.techmeme.com/240727/p12#a240727p12)<!-- TECH:END -->
+ - [Marvel is bringing the Russo Bros. back to direct the next two Avengers films](https://www.theverge.com/2024/7/27/24206259/marvel-russo-brothers-avengers-doomsday-secret-wars-sdcc)
+ - [California DMV granted Nuro approval to test its third-gen R3 autonomous delivery vehicle in four Bay Area cities, a boost for the startup after some setbacks &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240727/p13#a240727p13)
+ - [Best Showerhead for 2024](https://www.cnet.com/news/best-showerhead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
