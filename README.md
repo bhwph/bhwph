@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS ROG Ally 2 wishlist: All the features I want to see](https://www.androidauthority.com/asus-rog-ally-2-features-specs-price-3457367/)
- - [Sources: Apple plans to roll out Apple Intelligence by October, missing the planned Sept. launch of its OSes; devs get to test AI features as soon as this week &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240728/p10#a240728p10)
- - [Apple in talks to bring ad-supported Apple TV+ option to UK, US](https://appleinsider.com/articles/24/07/28/apple-in-talks-to-bring-ad-supported-apple-tv-option-to-uk-us?utm_medium=rss)<!-- TECH:END -->
+ - [Crime blotter: Arrest made in theft of 280 iPhones](https://appleinsider.com/articles/24/07/28/crime-blotter-arrest-made-in-theft-of-280-iphones?utm_medium=rss)
+ - [Grab a Microsoft Windows 11 Pro license for just $19.97](https://appleinsider.com/articles/24/07/28/grab-a-microsoft-windows-11-pro-license-for-just-1997?utm_medium=rss)
+ - [Apple Intelligence features will probably wait until iOS 18.1](https://appleinsider.com/articles/24/07/28/apple-intelligence-features-will-probably-wait-until-ios-181?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
