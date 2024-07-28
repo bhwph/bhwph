@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Banking trade body UK Finance: while 60% of all UK adults used mobile banking in 2023, people mainly using cash for everyday spending increased 66% YoY &lpar;Claer Barrett/Financial Times&rpar;](http://www.techmeme.com/240728/p4#a240728p4)
  - [A dozen technologists and researchers at Chinese tech companies say open-source technologies were a key reason behind China narrowing the AI gap with the US &lpar;New York Times&rpar;](http://www.techmeme.com/240728/p3#a240728p3)
- - [Study: the shipping industry faced 64+ cyber attacks in 2023, up from ~20 in 2022, as geopolitical disputes prompt state-linked hackers to target trade flows &lpar;Financial Times&rpar;](http://www.techmeme.com/240728/p2#a240728p2)
- - [Indian crypto exchange WazirX announces a controversial plan to &quot;socialize&quot; the ~$230M loss from its recent security breach among all its customers &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240728/p1#a240728p1)<!-- TECH:END -->
+ - [Analysis: the shipping industry faced 64+ cyber attacks in 2023, up from ~20 in 2022, as geopolitical disputes prompt state-linked hackers to target trade flows &lpar;Financial Times&rpar;](http://www.techmeme.com/240728/p2#a240728p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
