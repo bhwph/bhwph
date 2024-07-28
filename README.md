@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve avoided Wahoo HR straps, but the Trackr Heart Rate monitor is so good it changed my mind](https://www.androidauthority.com/wahoo-trackr-heart-rate-monitor-review-3459652/)
- - [Gemini will soon allow you to fine-tune your generated images &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-images-fine-tune-3465549/)
- - [Gemini getting loads of new Google extensions, including Home, Phone, more &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-extensions-leaks-3465539/)<!-- TECH:END -->
+ - [ASUS ROG Ally 2 wishlist: All the features I want to see](https://www.androidauthority.com/asus-rog-ally-2-features-specs-price-3457367/)
+ - [Sources: Apple plans to roll out Apple Intelligence by October, missing the planned Sept. launch of its OSes; devs get to test AI features as soon as this week &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240728/p10#a240728p10)
+ - [Apple in talks to bring ad-supported Apple TV+ option to UK, US](https://appleinsider.com/articles/24/07/28/apple-in-talks-to-bring-ad-supported-apple-tv-option-to-uk-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
