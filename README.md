@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Abstract factory game sequel Shapez 2 will release in August](https://www.pcgamer.com/games/strategy/abstract-factory-game-sequel-shapez-2-will-release-in-august)
- - [I am continually betrayed by Deep Rock Galactic: Survivor’s shiny snail](https://www.polygon.com/24206244/deep-rock-galactic-huuli-hoarder-treasure-snail)
- - [The best games like the Sims to play right now](https://www.polygon.com/what-to-play/24203662/best-games-like-the-sims-best-life-simulation-play)<!-- GAME:END -->
+ - [The Behemoth will update Castle Crashers, Battleblock Theater, and more](https://www.pcgamer.com/games/the-behemoth-will-update-castle-crashers-battleblock-theater-and-more)
+ - [Abstract factory-building sequel Shapez 2 will release in August](https://www.pcgamer.com/games/strategy/abstract-factory-game-sequel-shapez-2-will-release-in-august)
+ - [I am continually betrayed by Deep Rock Galactic: Survivor’s shiny snail](https://www.polygon.com/24206244/deep-rock-galactic-huuli-hoarder-treasure-snail)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
