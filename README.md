@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I mean, I hope it wasn&#39;t for nothing at least](http://9gag.com/gag/ae96ERB)
- - 😝 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)
- - 👉 [British patriot march today in London. Natives are waking up!](http://9gag.com/gag/aD2G5DN)<!-- MEMES:END -->
+ - 6️⃣ [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
+ - 😝 [Olympics are a joke](http://9gag.com/gag/azxAyqz)
+ - 👉 [Women logic](http://9gag.com/gag/azxAvpB)<!-- MEMES:END -->
 
 --- 
 
