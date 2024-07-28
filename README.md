@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Banking trade body UK Finance: while 60% of all UK adults used mobile banking in 2023, people mainly using cash for everyday spending increased 66% YoY &lpar;Claer Barrett/Financial Times&rpar;](http://www.techmeme.com/240728/p4#a240728p4)
- - [A dozen technologists and researchers at Chinese tech companies say open-source technologies were a key reason behind China narrowing the AI gap with the US &lpar;New York Times&rpar;](http://www.techmeme.com/240728/p3#a240728p3)
- - [Analysis: the shipping industry faced 64+ cyber attacks in 2023, up from ~20 in 2022, as geopolitical disputes prompt state-linked hackers to target trade flows &lpar;Financial Times&rpar;](http://www.techmeme.com/240728/p2#a240728p2)<!-- TECH:END -->
+ - [A look at AIxCC, or AI Cyber Challenge, a competition launched in 2023 and run by DARPA to design an AI program that scans open source code for security flaws &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240728/p5#a240728p5)
+ - [The CMF Phone 1’s modular approach made tech fun again for me](https://www.androidauthority.com/cmf-phone-1-modular-design-3464446/)
+ - [The best way to watch the Olympics](https://www.theverge.com/2024/7/28/24206986/watch-olympics-multiview-apple-maps-meta-ai-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
