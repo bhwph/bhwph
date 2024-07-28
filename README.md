@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women logic](http://9gag.com/gag/azxAvpB)
+ - 6️⃣ [Ozempic Games](http://9gag.com/gag/a874N1e)
  - 😝 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
- - 👉 [What is her superhero name?](http://9gag.com/gag/a34jpY7)<!-- MEMES:END -->
+ - 👉 [Women logic](http://9gag.com/gag/azxAvpB)<!-- MEMES:END -->
 
 --- 
 
