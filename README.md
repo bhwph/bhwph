@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [7 years ago this was the BBQ we had, little back story, he used to give free meal to any 9gager coming to his shop. RIP? Kabab guy.](http://9gag.com/gag/aoypGnx)
- - 😝 [Olympics are a joke](http://9gag.com/gag/azxAyqz)
- - 👉 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)<!-- MEMES:END -->
+ - 6️⃣ [Women logic](http://9gag.com/gag/azxAvpB)
+ - 😝 [The Olympics deleted their own video of the opening ceremony because it was being criticized too much.](http://9gag.com/gag/a6ZQg89)
+ - 👉 [Olympics are a joke](http://9gag.com/gag/azxAyqz)<!-- MEMES:END -->
 
 --- 
 
