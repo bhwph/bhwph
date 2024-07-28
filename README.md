@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
- - 😝 [Pirate Hunt](http://9gag.com/gag/aE0nQ6e)
- - 👉 [When your diplomacy skill is zero](http://9gag.com/gag/aMV9616)<!-- MEMES:END -->
+ - 6️⃣ [7 years ago this was the BBQ we had, little back story, he used to give free meal to any 9gager coming to his shop. RIP? Kabab guy.](http://9gag.com/gag/aoypGnx)
+ - 😝 [Olympics are a joke](http://9gag.com/gag/azxAyqz)
+ - 👉 [Understandable, have a nice day.](http://9gag.com/gag/aO8vA9v)<!-- MEMES:END -->
 
 --- 
 
