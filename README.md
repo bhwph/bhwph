@@ -120,7 +120,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel shows footage from Thunderbolts* at SDCC, doesn’t explain the asterisk](https://www.polygon.com/sdcc/24205391/thunderbolts-first-trailer-marvel-mcu-sdcc-2024)
+ - [Marvel shows footage from Thunderbolts* at Comic-Con, doesn’t explain the asterisk](https://www.polygon.com/sdcc/24205391/thunderbolts-first-trailer-marvel-mcu-sdcc-2024)
  - [Today&#39;s Wordle answer for Sunday, July 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-28-2024)
  - [Everyone gets a free feat and a more mechanically impactful background in D&amp;D&#39;s 2024 Player&#39;s Handbook](https://www.pcgamer.com/games/rpg/everyone-gets-a-free-feat-and-a-more-mechanically-impactful-background-in-dandds-2024-players-handbook)<!-- GAME:END -->
 
