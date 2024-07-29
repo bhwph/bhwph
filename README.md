@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 😝 [Press F to pay respect](http://9gag.com/gag/aZZpXg9)
- - 👉 [Why is that?](http://9gag.com/gag/aXPw1zV)<!-- MEMES:END -->
+ - 6️⃣ [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
+ - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
+ - 👉 [Proud smile](http://9gag.com/gag/aqyLPKR)<!-- MEMES:END -->
 
 --- 
 
