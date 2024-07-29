@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Visions of Mana: new details on three Elemental Vessels, plus deep dive video](https://blog.playstation.com/2024/07/29/visions-of-mana-new-details-on-three-elemental-vessels-plus-deep-dive-video/)
- - [Finally, House of the Dragon gets to the goddamn dragons](https://www.polygon.com/24207162/house-dragon-hotd-season-2-episode-7-review)
- - [&#39;It&#39;s a soccer ball&#39;: Modders are already correcting Fallout: London&#39;s local lingo one sport at a time](https://www.pcgamer.com/games/fallout/its-a-soccer-ball-modders-are-already-correcting-fallout-londons-local-lingo-one-sport-at-a-time)<!-- GAME:END -->
+ - [AMD&#39;s Ryzen 9000-series CPUs may have been delayed because of a typo on the heatspreader, which is definitely not the sort of mistake I&#39;d ever make](https://www.pcgamer.com/hardware/processors/amds-ryzen-9000-series-cpus-may-have-been-delayed-because-of-a-typo-on-the-heatspreader-which-is-definitely-not-the-sort-of-mistake-id-ever-make)
+ - [Wield Magic While Cutting Down Your Enemies With This Shadow Of The Erdtree Sword](https://kotaku.com/elden-ring-shadow-erdtree-carian-sword-location-1851607548)
+ - [First Look: Astro Bot Limited Edition DualSense Wireless Controller](https://blog.playstation.com/2024/07/29/first-look-astro-bot-limited-edition-dualsense-wireless-controller/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
