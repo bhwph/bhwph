@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your iPhone 16 might not pack Apple Intelligence at launch](https://www.androidauthority.com/iphone-16-might-not-pack-apple-intelligence-3465602/)
- - [Buy games while you can: The Xbox 360 store shuts down today](https://www.androidauthority.com/xbox-360-store-shut-down-today-3465587/)
- - [CNET Survey: US Adults Will Spend an Average of $662 This Year on Back-to-School Shopping](https://www.cnet.com/personal-finance/us-adults-will-spend-an-average-of-662-this-year-on-back-to-school-shopping/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oura rings could soon help you track your meals &lpar;APK teardown&rpar;](https://www.androidauthority.com/oura-ring-log-meals-apk-3465648/)
+ - [Sources: Twitch remains unprofitable a decade after Amazon&#39;s acquisition; Docs show Twitch generated ~$667M in ad revenue and $1.3B in commerce revenue in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240729/p2#a240729p2)
+ - [Xiaomi 15 wishlist: All the features I want to see](https://www.androidauthority.com/xiaomi-15-3454933/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
