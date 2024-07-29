@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s why people think fictional vampire Lestat de Lioncourt is feuding with Taylor Swift](https://www.polygon.com/24208936/lestat-interview-vampire-taylor-swift-feud)
- - [Gamers mourn Xbox 360 after digital store shutdown](https://www.polygon.com/24209001/xbox-360-store-shutdown-rip)
- - [Another Call of Duty cheat maker bites the dust, this time without a fight](https://www.pcgamer.com/games/another-call-of-duty-cheat-maker-bites-the-dust-this-time-without-a-fight)<!-- GAME:END -->
+ - [World of Goo 2 drops globular trailer, soundtrack preview ahead of launch this week](https://www.pcgamer.com/games/world-of-goo-2-drops-globular-trailer-soundtrack-preview-ahead-of-launch-this-week)
+ - [Diablo 4 player finds counterfeit &#39;legendary&#39; items that shouldn&#39;t exist](https://www.pcgamer.com/games/rpg/diablo-4-player-finds-counterfeit-legendary-items-that-shouldnt-exist)
+ - [The Steam Tower Defense Fest is here, bringing sales on games where buildings do the battling](https://www.pcgamer.com/games/strategy/the-steam-tower-defense-fest-is-here-bringing-sales-on-games-where-buildings-do-the-battling)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
