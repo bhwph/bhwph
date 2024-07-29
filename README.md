@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)
- - 😝 [The amount of money Olympic Athletes earn winning a medal based on their country](http://9gag.com/gag/aO8vEgv)
- - 👉 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)<!-- MEMES:END -->
+ - 6️⃣ [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 😝 [Ah yes, another racist app](http://9gag.com/gag/an71P50)
+ - 👉 [Anyone into knots?](http://9gag.com/gag/a0ej3Qv)<!-- MEMES:END -->
 
 --- 
 
