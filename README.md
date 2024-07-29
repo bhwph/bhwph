@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 😝 [Ah yes, another racist app](http://9gag.com/gag/an71P50)
- - 👉 [Anyone into knots?](http://9gag.com/gag/a0ej3Qv)<!-- MEMES:END -->
+ - 6️⃣ [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)
+ - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 👉 [Ozempic Games](http://9gag.com/gag/a874N1e)<!-- MEMES:END -->
 
 --- 
 
