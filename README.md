@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oof....](http://9gag.com/gag/a6ZQ0rb)
- - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 👉 [I never knew until now](http://9gag.com/gag/aE0nLqo)<!-- MEMES:END -->
+ - 6️⃣ [Bailey R.](http://9gag.com/gag/aE0n94p)
+ - 😝 [Doesn\u2019t seem so ba-](http://9gag.com/gag/aXPwOQP)
+ - 👉 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)<!-- MEMES:END -->
 
 --- 
 
