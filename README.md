@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Indian Things](http://9gag.com/gag/aoypQDm)
- - 😝 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
+ - 6️⃣ [`He Who Has No Life` was real?!](http://9gag.com/gag/apRL4Y9)
+ - 😝 [Streatch your back!](http://9gag.com/gag/aXPwy0v)
  - 👉 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)<!-- MEMES:END -->
 
 --- 
