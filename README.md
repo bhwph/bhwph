@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)
- - [House of the Dragon makes dragon riding look easy&lpar;ish&rpar; — is it supposed to be?](https://www.polygon.com/24205330/house-dragon-riding-bonding-books-grrm-comparison)
- - [Mortal Kombat 1 is getting animalities, the T-1000, Conan, and Ghostface from Scream](https://www.pcgamer.com/games/fighting/mortal-kombat-1-is-getting-animalities-the-t-1000-conan-and-ghostface-from-scream)<!-- GAME:END -->
+ - [Visions of Mana: new details on three Elemental Vessels, plus deep dive video](https://blog.playstation.com/2024/07/29/visions-of-mana-new-details-on-three-elemental-vessels-plus-deep-dive-video/)
+ - [Finally, House of the Dragon gets to the goddamn dragons](https://www.polygon.com/24207162/house-dragon-hotd-season-2-episode-7-review)
+ - [&#39;It&#39;s a soccer ball&#39;: Modders are already correcting Fallout: London&#39;s local lingo one sport at a time](https://www.pcgamer.com/games/fallout/its-a-soccer-ball-modders-are-already-correcting-fallout-londons-local-lingo-one-sport-at-a-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
