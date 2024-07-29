@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Android 15 beta 4.1 update fuels speculation on public release](https://www.androidauthority.com/android-15-beta-4-1-update-3465903/)
- - [iOS 18.1 beta 1 rolls out, offers first taste of Apple Intelligence](https://www.androidauthority.com/apple-ios-beta-apple-intelligence-3465858/)
- - [Google app can now show contacts, apps, and device settings in search &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-app-new-search-features-3465905/)<!-- TECH:END -->
+ - [Here’s everything we may see at Made by Google 2024](https://www.androidauthority.com/made-by-google-2024-expectations-3465415/)
+ - [ADT’s new smart security system will unlock your door for a Trusted Neighbor](https://www.theverge.com/2024/7/29/24208782/adt-google-nest-smart-security-system-yale-assure-door-lock)
+ - [Circle to Search arriving to streamline Google Lens in your Chrome browser](https://www.androidauthority.com/circle-search-chrome-3465899/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
