@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us anniversary vinyl box set is on sale for its lowest price yet](https://www.polygon.com/deals/2024/7/29/24208886/last-of-us-10th-anniversary-vinyl-box-set-sale-discount-tlou-2)
- - [Dance Your Enemies To Death With This Shadow Of The Erdtree Sword](https://kotaku.com/elden-ring-shadow-erdtree-dancing-blade-ranah-location-1851607969)
- - [Batman: Caped Crusader, House of the Dragon’s finale, and more new TV this week](https://www.polygon.com/2024/7/29/24199882/new-tv-batman-netflix-hotd-finale-time-when-futurama)<!-- GAME:END -->
+ - [Here’s why people think fictional vampire Lestat de Lioncourt is feuding with Taylor Swift](https://www.polygon.com/24208936/lestat-interview-vampire-taylor-swift-feud)
+ - [Gamers mourn Xbox 360 after digital store shutdown](https://www.polygon.com/24209001/xbox-360-store-shutdown-rip)
+ - [Another Call of Duty cheat maker bites the dust, this time without a fight](https://www.pcgamer.com/games/another-call-of-duty-cheat-maker-bites-the-dust-this-time-without-a-fight)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
