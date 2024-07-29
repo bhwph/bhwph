@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oura rings could soon help you track your meals &lpar;APK teardown&rpar;](https://www.androidauthority.com/oura-ring-log-meals-apk-3465648/)
- - [Sources: Twitch remains unprofitable a decade after Amazon&#39;s acquisition; Docs show Twitch generated ~$667M in ad revenue and $1.3B in commerce revenue in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240729/p2#a240729p2)
- - [Xiaomi 15 wishlist: All the features I want to see](https://www.androidauthority.com/xiaomi-15-3454933/)<!-- TECH:END -->
+ - [Samsung Galaxy Ring battery life: Here’s what to expect](https://www.androidauthority.com/samsung-galaxy-ring-battery-life-testing-3458592/)
+ - [iCloud Private Relay outage finally resolved](https://appleinsider.com/articles/24/07/29/icloud-private-relay-outage-finally-resolved?utm_medium=rss)
+ - [People Are Using Memecoins to Bet on the US Election](https://www.wired.com/story/political-memecoins-betting-trump-biden-harris/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
