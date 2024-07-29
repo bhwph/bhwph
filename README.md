@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Ring battery life: Here’s what to expect](https://www.androidauthority.com/samsung-galaxy-ring-battery-life-testing-3458592/)
- - [iCloud Private Relay outage finally resolved](https://appleinsider.com/articles/24/07/29/icloud-private-relay-outage-finally-resolved?utm_medium=rss)
- - [People Are Using Memecoins to Bet on the US Election](https://www.wired.com/story/political-memecoins-betting-trump-biden-harris/)<!-- TECH:END -->
+ - [Here are 5 Pixel UI features I’d love to see Samsung copy](https://www.androidauthority.com/google-pixel-ui-features-samsung-galaxy-3464842/)
+ - [Sources: HPE is expected to secure unconditional EU approval for its $14B acquisition of Juniper Networks; the EC is scheduled to decide on the deal by Aug. 1 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240729/p5#a240729p5)
+ - [Logitech CEO Hanneke Faber wants your next mouse to last forever](https://www.theverge.com/24206847/logitech-ceo-hanneke-faber-mouse-keyboard-gaming-decdoer-podcast-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
