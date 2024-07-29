@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are 5 Pixel UI features I’d love to see Samsung copy](https://www.androidauthority.com/google-pixel-ui-features-samsung-galaxy-3464842/)
- - [Sources: HPE is expected to secure unconditional EU approval for its $14B acquisition of Juniper Networks; the EC is scheduled to decide on the deal by Aug. 1 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240729/p5#a240729p5)
- - [Logitech CEO Hanneke Faber wants your next mouse to last forever](https://www.theverge.com/24206847/logitech-ceo-hanneke-faber-mouse-keyboard-gaming-decdoer-podcast-interview)<!-- TECH:END -->
+ - [LinkedIn and Pinterest are testing programs that let publishers sell ads on their videos and pages, respectively, in exchange for a cut of the resulting revenue &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/240729/p9#a240729p9)
+ - [Astro Bot’s new PS5 controller has a pair of adorable eyes](https://www.theverge.com/2024/7/29/24208726/astro-bot-limited-edition-ps5-dual-sense-controller)
+ - [Here’s how I easily debloated my Android phone](https://www.androidauthority.com/debloat-android-phone-shizuku-canta-3465600/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
