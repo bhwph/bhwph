@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
+ - 6️⃣ [Oof....](http://9gag.com/gag/a6ZQ0rb)
  - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 👉 [Proud smile](http://9gag.com/gag/aqyLPKR)<!-- MEMES:END -->
+ - 👉 [I never knew until now](http://9gag.com/gag/aE0nLqo)<!-- MEMES:END -->
 
 --- 
 
