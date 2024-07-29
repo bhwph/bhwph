@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad: Kill the Justice League has started to un-kill the Justice League](https://www.polygon.com/24207264/suicide-squad-kill-justice-league-mrs-freeze-dlc)
- - [Devolver divulges deeper Cult of the Lamb: Unholy Alliance details, out August 12](https://blog.playstation.com/2024/07/29/devolver-divulges-deeper-cult-of-the-lamb-unholy-alliance-details-out-august-12/)
- - [Forget fancy art programs — Worm Paint is my new canvas of choice](https://www.polygon.com/24206364/worm-paint-art-program-silly-game)<!-- GAME:END -->
+ - [The Last of Us anniversary vinyl box set is on sale for its lowest price yet](https://www.polygon.com/deals/2024/7/29/24208886/last-of-us-10th-anniversary-vinyl-box-set-sale-discount-tlou-2)
+ - [Dance Your Enemies To Death With This Shadow Of The Erdtree Sword](https://kotaku.com/elden-ring-shadow-erdtree-dancing-blade-ranah-location-1851607969)
+ - [Batman: Caped Crusader, House of the Dragon’s finale, and more new TV this week](https://www.polygon.com/2024/7/29/24199882/new-tv-batman-netflix-hotd-finale-time-when-futurama)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
