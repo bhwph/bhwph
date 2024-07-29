@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So much was lost, like the roman empire](http://9gag.com/gag/aAyPzwg)
- - 😝 [In 3 days, Deadpool and Wolverine has blown by the entirety of what The Marvels pulled in. There is no super hero fatigue. We are just sick of woke crap and bad scripts.](http://9gag.com/gag/an71wWE)
- - 👉 [Deport Deport Deport](http://9gag.com/gag/ayN8Knp)<!-- MEMES:END -->
+ - 6️⃣ [Some driver just can&#39;t grasp the concept that road rules exist](http://9gag.com/gag/amozw7X)
+ - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 👉 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)<!-- MEMES:END -->
 
 --- 
 
