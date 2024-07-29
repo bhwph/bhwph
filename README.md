@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s Ryzen 9000-series CPUs may have been delayed because of a typo on the heatspreader, which is definitely not the sort of mistake I&#39;d ever make](https://www.pcgamer.com/hardware/processors/amds-ryzen-9000-series-cpus-may-have-been-delayed-because-of-a-typo-on-the-heatspreader-which-is-definitely-not-the-sort-of-mistake-id-ever-make)
- - [Wield Magic While Cutting Down Your Enemies With This Shadow Of The Erdtree Sword](https://kotaku.com/elden-ring-shadow-erdtree-carian-sword-location-1851607548)
- - [First Look: Astro Bot Limited Edition DualSense Wireless Controller](https://blog.playstation.com/2024/07/29/first-look-astro-bot-limited-edition-dualsense-wireless-controller/)<!-- GAME:END -->
+ - [Suicide Squad: Kill the Justice League has started to un-kill the Justice League](https://www.polygon.com/24207264/suicide-squad-kill-justice-league-mrs-freeze-dlc)
+ - [Devolver divulges deeper Cult of the Lamb: Unholy Alliance details, out August 12](https://blog.playstation.com/2024/07/29/devolver-divulges-deeper-cult-of-the-lamb-unholy-alliance-details-out-august-12/)
+ - [Forget fancy art programs — Worm Paint is my new canvas of choice](https://www.polygon.com/24206364/worm-paint-art-program-silly-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
