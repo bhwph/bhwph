@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)
- - 😝 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
- - 👉 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)<!-- MEMES:END -->
+ - 6️⃣ [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 😝 [Press F to pay respect](http://9gag.com/gag/aZZpXg9)
+ - 👉 [Why is that?](http://9gag.com/gag/aXPw1zV)<!-- MEMES:END -->
 
 --- 
 
