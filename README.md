@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: The rumored Galaxy Z Fold 6 ‘Slim’ might still not be slim enough to compete](https://www.androidauthority.com/z-fold6-slim-thinness-3465838/)
- - [The 8 biggest Google Pixel 9 leaks you should definitely know about](https://www.androidauthority.com/google-pixel-9-series-leak-roundup-3464550/)
- - [Some popular sites like Cond&amp;eacute; Nast&#39;s and Reuters&#39; have robots.txt files meant to block Anthropic&#39;s bots, but Anthropic has just made new bots with other names &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240729/p12#a240729p12)<!-- TECH:END -->
+ - [Google’s Android 15 beta 4.1 update fuels speculation on public release](https://www.androidauthority.com/android-15-beta-4-1-update-3465903/)
+ - [iOS 18.1 beta 1 rolls out, offers first taste of Apple Intelligence](https://www.androidauthority.com/apple-ios-beta-apple-intelligence-3465858/)
+ - [Google app can now show contacts, apps, and device settings in search &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-app-new-search-features-3465905/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
