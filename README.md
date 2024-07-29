@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)
- - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 👉 [Ozempic Games](http://9gag.com/gag/a874N1e)<!-- MEMES:END -->
+ - 6️⃣ [Indian Things](http://9gag.com/gag/aoypQDm)
+ - 😝 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
+ - 👉 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)<!-- MEMES:END -->
 
 --- 
 
