@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LinkedIn and Pinterest are testing programs that let publishers sell ads on their videos and pages, respectively, in exchange for a cut of the resulting revenue &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/240729/p9#a240729p9)
- - [Astro Bot’s new PS5 controller has a pair of adorable eyes](https://www.theverge.com/2024/7/29/24208726/astro-bot-limited-edition-ps5-dual-sense-controller)
- - [Here’s how I easily debloated my Android phone](https://www.androidauthority.com/debloat-android-phone-shizuku-canta-3465600/)<!-- TECH:END -->
+ - [Report: The rumored Galaxy Z Fold 6 ‘Slim’ might still not be slim enough to compete](https://www.androidauthority.com/z-fold6-slim-thinness-3465838/)
+ - [The 8 biggest Google Pixel 9 leaks you should definitely know about](https://www.androidauthority.com/google-pixel-9-series-leak-roundup-3464550/)
+ - [Some popular sites like Cond&amp;eacute; Nast&#39;s and Reuters&#39; have robots.txt files meant to block Anthropic&#39;s bots, but Anthropic has just made new bots with other names &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240729/p12#a240729p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
