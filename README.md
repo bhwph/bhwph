@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some driver just can&#39;t grasp the concept that road rules exist](http://9gag.com/gag/amozw7X)
- - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 👉 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)<!-- MEMES:END -->
+ - 6️⃣ [Cheers to all the fathers](http://9gag.com/gag/aLn9oEv)
+ - 😝 [Olympic Muses #003 Alicia Schmidt &lpar;Germany&rpar; Athletics &lpar;+ pics in comments&rpar;](http://9gag.com/gag/a0ejgyO)
+ - 👉 [Why is that?](http://9gag.com/gag/aXPw1zV)<!-- MEMES:END -->
 
 --- 
 
