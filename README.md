@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Togedemaru be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24208974/can-togedemaru-be-shiny)
- - [Today&#39;s Wordle answer for Tuesday, July 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-30-2024)
- - [Game archivists lament end of the Xbox 360 Marketplace](https://www.pcgamer.com/gaming-industry/game-archivists-lament-the-end-of-the-xbox-360-marketplace)<!-- GAME:END -->
+ - [Total War: Pharaoh Dynasties has quietly become one of the best historical Total War games ever](https://www.pcgamer.com/games/strategy/total-war-pharaoh-dynasties-has-quietly-become-one-of-the-best-historical-total-war-games-ever)
+ - [Where to find and unlock artifact armor in Final Fantasy 14: Dawntrail](https://www.pcgamer.com/games/final-fantasy/ffxiv-dawntrail-artifact-gear-location)
+ - [Fallout: London devs hand out maths homework to players who are suffering from a bug that lowers their HP](https://www.pcgamer.com/games/fallout/fallout-london-devs-hand-out-maths-homework-to-players-who-are-suffering-from-a-bug-that-lowers-their-hp)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
