@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta agrees to pay $1.4B to settle Texas&#39; lawsuit accusing Meta of using facial-recognition tech to collect biometric data of millions of Texans without consent &lpar;Reuters&rpar;](http://www.techmeme.com/240730/p18#a240730p18)
- - [Samsung’s latest cases are too sweet to handle](https://www.androidauthority.com/samsung-hersheys-accessories-3466150/)
- - [The Purple Track at the 2024 Summer Olympic Games Has a Secret Ingredient](https://www.wired.com/story/paris-summer-olympics-2024-purple-track-athletics-mondo/)<!-- TECH:END -->
+ - [The Samsung Galaxy S24 Ultra is $331 off right now!](https://www.androidauthority.com/samsung-galaxy-s24-ultra-deal-3-3465992/)
+ - [Meta to pay $1.4 billion settlement with Texas over facial recognition and photo tags](https://www.theverge.com/2024/7/30/24209538/meta-settlement-facial-recognition-tag-suggestion-texas-lawsuit)
+ - [You may be able to unlock future Apple devices with only your heart](https://appleinsider.com/articles/24/07/30/you-may-be-able-to-unlock-future-apple-devices-with-only-your-heart?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
