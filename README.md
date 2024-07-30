@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
- - 😝 [Wow](http://9gag.com/gag/aW4MwG2)
- - 👉 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)<!-- MEMES:END -->
+ - 6️⃣ [Dad instincts?](http://9gag.com/gag/aNDWxmA)
+ - 😝 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
+ - 👉 [Wow](http://9gag.com/gag/aW4MwG2)<!-- MEMES:END -->
 
 --- 
 
