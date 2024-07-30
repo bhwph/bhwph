@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anyone remember this classic?](http://9gag.com/gag/a5Qrm3q)
- - 😝 [Nice one, guy](http://9gag.com/gag/aBy1pzx)
- - 👉 [A sexologist on a Dutch talk show](http://9gag.com/gag/awyVqzB)<!-- MEMES:END -->
+ - 6️⃣ [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - 😝 [Wow](http://9gag.com/gag/aW4MwG2)
+ - 👉 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)<!-- MEMES:END -->
 
 --- 
 
