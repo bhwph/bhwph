@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [End of an era: NASA to pull the plug on its cable channel](https://www.androidauthority.com/nasa-cable-channel-3466167/)
- - [A massive Pixel Watch 3 leak reveals better displays, fitness features, and more](https://www.androidauthority.com/pixel-watch-3-promo-leak-3466256/)
- - [California&#39;s DMV says it has created tokens for 42M car titles on the Avalanche blockchain and aims to help residents access them by early next year &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240730/p26#a240730p26)<!-- TECH:END -->
+ - [Microsoft reports Q4 revenue up 15% YoY to $64.7B, net income up 10% to $22B, Azure and other cloud services revenue up 29% YoY, and LinkedIn revenue up 10% YoY &lpar;Microsoft&rpar;](http://www.techmeme.com/240730/p29#a240730p29)
+ - [Files by Google app gets carousel view in beta](https://www.androidauthority.com/google-files-app-carousel-3466286/)
+ - [The OnePlus Pad 2 is now available in the USA, and it launched with plenty of deals!](https://www.androidauthority.com/oneplus-pad-2-deals-3466251/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
