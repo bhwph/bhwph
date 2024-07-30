@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 😝 [I thought she was the daughter](http://9gag.com/gag/azxAn3K)
- - 👉 [I never knew until now](http://9gag.com/gag/aE0nLqo)<!-- MEMES:END -->
+ - 6️⃣ [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
+ - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 👉 [Bailey R.](http://9gag.com/gag/aE0n94p)<!-- MEMES:END -->
 
 --- 
 
