@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s everything we may see at Made by Google 2024](https://www.androidauthority.com/made-by-google-2024-expectations-3465415/)
- - [ADT’s new smart security system will unlock your door for a Trusted Neighbor](https://www.theverge.com/2024/7/29/24208782/adt-google-nest-smart-security-system-yale-assure-door-lock)
- - [Circle to Search arriving to streamline Google Lens in your Chrome browser](https://www.androidauthority.com/circle-search-chrome-3465899/)<!-- TECH:END -->
+ - [How to opt out of AI model training to keep your ChatGPT and Gemini chats private](https://www.androidauthority.com/how-to-disable-ai-model-training-3466024/)
+ - [You can save $350 on this amazing Samsung Galaxy Book 4 Edge laptop](https://www.androidauthority.com/samsung-galaxy-book-4-edge-deal-2-3465993/)
+ - [The Northern Lights Are Coming Back: How to See the Aurora Borealis This Week](https://www.cnet.com/science/the-northern-lights-are-coming-back-how-to-see-the-aurora-borealis-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
