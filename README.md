@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I thought she was the daughter](http://9gag.com/gag/azxAn3K)
- - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 👉 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)<!-- MEMES:END -->
+ - 6️⃣ [So big](http://9gag.com/gag/aPAWNen)
+ - 😝 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
+ - 👉 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)<!-- MEMES:END -->
 
 --- 
 
