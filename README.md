@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)
- - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - 👉 [Wow](http://9gag.com/gag/aW4MwG2)<!-- MEMES:END -->
+ - 6️⃣ [Anyone remember this classic?](http://9gag.com/gag/a5Qrm3q)
+ - 😝 [Nice one, guy](http://9gag.com/gag/aBy1pzx)
+ - 👉 [A sexologist on a Dutch talk show](http://9gag.com/gag/awyVqzB)<!-- MEMES:END -->
 
 --- 
 
