@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NHTSA says Tesla released an OTA update for 1.8M cars, including 2021-2024 Model 3, Model S, and Model X, to fix a software failure to detect unlatched hood &lpar;Disha Mishra/Reuters&rpar;](http://www.techmeme.com/240730/p9#a240730p9)
- - [RCS Messaging Finally Lands on Your iPhone With the iOS 18 Public Betas](https://www.cnet.com/tech/services-and-software/rcs-messaging-finally-lands-on-your-iphone-with-the-ios-18-public-betas/#ftag=CAD590a51e)
- - [Want to Try iOS 18 Now? Here&#39;s All You Need to Know About the Public Beta](https://www.cnet.com/tech/services-and-software/want-to-try-ios-18-now-heres-all-you-need-to-know-about-the-public-beta/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK CMA is gathering information from market players to determine whether Google&#39;s partnership with Anthropic qualifies as a merger and harms competition &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240730/p13#a240730p13)
+ - [Best Password Manager in 2024](https://www.cnet.com/tech/services-and-software/best-password-manager/#ftag=CAD590a51e)
+ - [The 17 Best Laptop Stands We&#39;ve Tried and Tested &lpar;2024&rpar;](https://www.wired.com/gallery/best-laptop-stands/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
