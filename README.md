@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy S24 Ultra is $331 off right now!](https://www.androidauthority.com/samsung-galaxy-s24-ultra-deal-3-3465992/)
- - [Meta to pay $1.4 billion settlement with Texas over facial recognition and photo tags](https://www.theverge.com/2024/7/30/24209538/meta-settlement-facial-recognition-tag-suggestion-texas-lawsuit)
- - [You may be able to unlock future Apple devices with only your heart](https://appleinsider.com/articles/24/07/30/you-may-be-able-to-unlock-future-apple-devices-with-only-your-heart?utm_medium=rss)<!-- TECH:END -->
+ - [End of an era: NASA to pull the plug on its cable channel](https://www.androidauthority.com/nasa-cable-channel-3466167/)
+ - [A massive Pixel Watch 3 leak reveals better displays, fitness features, and more](https://www.androidauthority.com/pixel-watch-3-promo-leak-3466256/)
+ - [California&#39;s DMV says it has created tokens for 42M car titles on the Avalanche blockchain and aims to help residents access them by early next year &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240730/p26#a240730p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
