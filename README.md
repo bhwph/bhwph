@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Relaxing gardening simulator The Garden Path is the breath of fresh air I&#39;ve been in desperate need of](https://www.pcgamer.com/games/sim/relaxing-gardening-simulator-the-garden-path-is-the-breath-of-fresh-air-ive-been-in-desperate-need-of)
- - [Gen Con 2024: The best new board games, card games, and tabletop RPGs](https://www.polygon.com/24209479/gen-con-2024-the-best-new-board-games-card-games-and-tabletop-rpgs)
- - [Wildermyth, a procedural storytelling RPG, comes to PS5 &amp; PS4 on October 22](https://blog.playstation.com/2024/07/30/wildermyth-a-procedural-storytelling-rpg-comes-to-ps5-ps4-on-october-22/)<!-- GAME:END -->
+ - [Duck Detective: The Secret Salami takes the hard-boiled detective trope and makes it quack](https://www.polygon.com/review/24209581/duck-detective-the-secret-salami-review)
+ - [3 Hours With Star Wars Outlaws: A Beautiful Game That Feels Dated](https://kotaku.com/star-wars-outlaws-hands-on-demo-gameplay-preview-1851608928)
+ - [AI avatars may soon be attending meetings for us and that sure feels like a slippery slope towards an AI future none of us want](https://www.pcgamer.com/software/ai/ai-avatars-may-soon-be-attending-meetings-for-us-and-that-sure-feels-like-a-slippery-slope-towards-an-ai-future-none-of-us-want)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
