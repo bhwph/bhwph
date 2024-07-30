@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dad instincts?](http://9gag.com/gag/aNDWxmA)
- - 😝 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
- - 👉 [Wow](http://9gag.com/gag/aW4MwG2)<!-- MEMES:END -->
+ - 6️⃣ [I never knew until now](http://9gag.com/gag/aE0nLqo)
+ - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
+ - 👉 [Her reaction was so genuine and pure! Totally priceless](http://9gag.com/gag/an71A3L)<!-- MEMES:END -->
 
 --- 
 
