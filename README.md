@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Duck Detective: The Secret Salami takes the hard-boiled detective trope and makes it quack](https://www.polygon.com/review/24209581/duck-detective-the-secret-salami-review)
- - [3 Hours With Star Wars Outlaws: A Beautiful Game That Feels Dated](https://kotaku.com/star-wars-outlaws-hands-on-demo-gameplay-preview-1851608928)
- - [AI avatars may soon be attending meetings for us and that sure feels like a slippery slope towards an AI future none of us want](https://www.pcgamer.com/software/ai/ai-avatars-may-soon-be-attending-meetings-for-us-and-that-sure-feels-like-a-slippery-slope-towards-an-ai-future-none-of-us-want)<!-- GAME:END -->
+ - [Save big on Mario sports games with Nintendo’s Play Together sale](https://www.polygon.com/deals/2024/7/30/24209587/nintendo-games-sale-mario-tennis-strikers-golf-discount)
+ - [My favorite modern spy movie is finally on Netflix, and I’m so conflicted about it](https://www.polygon.com/24207083/man-from-uncle-streaming-netflix-henry-cavill-armie-hammer)
+ - [Minecraft x Tetris](https://minecraft.net/article/the-tetris-dlc-rotation#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
