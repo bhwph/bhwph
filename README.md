@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Save big on Mario sports games with Nintendo’s Play Together sale](https://www.polygon.com/deals/2024/7/30/24209587/nintendo-games-sale-mario-tennis-strikers-golf-discount)
- - [My favorite modern spy movie is finally on Netflix, and I’m so conflicted about it](https://www.polygon.com/24207083/man-from-uncle-streaming-netflix-henry-cavill-armie-hammer)
- - [Minecraft x Tetris](https://minecraft.net/article/the-tetris-dlc-rotation#new_tab)<!-- GAME:END -->
+ - [7 Great Doctor Doom Comics You Should Go Read Right Now](https://kotaku.com/doctor-doom-mcu-robert-downey-jr-rdj-recommended-comics-1851609329)
+ - [The latest Sims 4 bug fix stops Sims from committing autonomous incest](https://www.pcgamer.com/games/the-sims/the-sims-4-bug-fix-will-stop-sims-from-committing-autonomous-incest)
+ - [Read Karen Joy Fowler’s new introduction for Annihilation, which still captivates a decade later](https://www.polygon.com/24208770/annihilation-jeff-vandermeer-karen-joy-fowler-intro)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
