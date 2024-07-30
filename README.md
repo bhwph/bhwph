@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA is gathering information from market players to determine whether Google&#39;s partnership with Anthropic qualifies as a merger and harms competition &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240730/p13#a240730p13)
- - [Best Password Manager in 2024](https://www.cnet.com/tech/services-and-software/best-password-manager/#ftag=CAD590a51e)
- - [The 17 Best Laptop Stands We&#39;ve Tried and Tested &lpar;2024&rpar;](https://www.wired.com/gallery/best-laptop-stands/)<!-- TECH:END -->
+ - [Meta agrees to pay $1.4B to settle Texas&#39; lawsuit accusing Meta of using facial-recognition tech to collect biometric data of millions of Texans without consent &lpar;Reuters&rpar;](http://www.techmeme.com/240730/p18#a240730p18)
+ - [Samsung’s latest cases are too sweet to handle](https://www.androidauthority.com/samsung-hersheys-accessories-3466150/)
+ - [The Purple Track at the 2024 Summer Olympic Games Has a Secret Ingredient](https://www.wired.com/story/paris-summer-olympics-2024-purple-track-athletics-mondo/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
