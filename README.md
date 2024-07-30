@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Nothing Phone 2a Plus image shows it really is a bigger Phone 2a](https://www.androidauthority.com/nothing-phone-2a-plus-image-leak-3465590/)
- - [The US NTIA issues a report in support of &quot;open-weight&quot; generative AI models like Meta&#39;s Llama 3.1, but recommends the government to monitor for potential risks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240730/p3#a240730p3)
- - [Price war: Amazon, Best Buy drop 16-inch MacBook Pro to $1,999 &lpar;$500 off&rpar;](https://appleinsider.com/articles/24/07/30/price-war-amazon-best-buy-drop-16-inch-macbook-pro-to-1999-500-off?utm_medium=rss)<!-- TECH:END -->
+ - [Chinese e-commerce firms prioritize sustainable growth over ultra-low prices amid slow GMV growth and anti-unfair competition rules taking effect on September 1 &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/240730/p6#a240730p6)
+ - [Sensitive to screen flickering? This Pixel 8 Pro mod does what Google is afraid to do](https://www.androidauthority.com/google-pixel-8-pro-mod-screen-flickering-3466042/)
+ - [Qualcomm’s latest chip brings 5G to sub-$100 phones](https://www.androidauthority.com/qualcomm-snapdragon-4s-gen-2-3465642/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
