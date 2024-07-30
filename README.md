@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So big](http://9gag.com/gag/aPAWNen)
- - 😝 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
- - 👉 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)<!-- MEMES:END -->
+ - 6️⃣ [Honestly no idea what&#39;s happening here.](http://9gag.com/gag/a7odY2z)
+ - 😝 [Hikaru notices that Magnus Carlsen is in a losing position](http://9gag.com/gag/aNDWb24)
+ - 👉 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)<!-- MEMES:END -->
 
 --- 
 
