@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
- - 😝 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 👉 [Bailey R.](http://9gag.com/gag/aE0n94p)<!-- MEMES:END -->
+ - 6️⃣ [I thought she was the daughter](http://9gag.com/gag/azxAn3K)
+ - 😝 [Bailey R.](http://9gag.com/gag/aE0n94p)
+ - 👉 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)<!-- MEMES:END -->
 
 --- 
 
