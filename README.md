@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft reports Q4 revenue up 15% YoY to $64.7B, net income up 10% to $22B, Azure and other cloud services revenue up 29% YoY, and LinkedIn revenue up 10% YoY &lpar;Microsoft&rpar;](http://www.techmeme.com/240730/p29#a240730p29)
- - [Files by Google app gets carousel view in beta](https://www.androidauthority.com/google-files-app-carousel-3466286/)
- - [The OnePlus Pad 2 is now available in the USA, and it launched with plenty of deals!](https://www.androidauthority.com/oneplus-pad-2-deals-3466251/)<!-- TECH:END -->
+ - [Startup Friend previews a $99 AI pendant with an always-on microphone that&#39;s designed to provide the wearer with companionship, set to ship in January 2025 &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/240730/p38#a240730p38)
+ - [Microsoft Q4: Windows OEM revenue up 4% YoY, devices revenue down 11% YoY, overall gaming revenue up 44% YoY, and Xbox content and services revenue up 61% YoY &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240730/p37#a240730p37)
+ - [Philips Hue leans into affordability with new Tento ceiling light lineup](https://www.androidauthority.com/philips-hue-tento-3466334/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
