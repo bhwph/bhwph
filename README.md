@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Pharaoh Dynasties has quietly become one of the best historical Total War games ever](https://www.pcgamer.com/games/strategy/total-war-pharaoh-dynasties-has-quietly-become-one-of-the-best-historical-total-war-games-ever)
- - [Where to find and unlock artifact armor in Final Fantasy 14: Dawntrail](https://www.pcgamer.com/games/final-fantasy/ffxiv-dawntrail-artifact-gear-location)
- - [Fallout: London devs hand out maths homework to players who are suffering from a bug that lowers their HP](https://www.pcgamer.com/games/fallout/fallout-london-devs-hand-out-maths-homework-to-players-who-are-suffering-from-a-bug-that-lowers-their-hp)<!-- GAME:END -->
+ - [Relaxing gardening simulator The Garden Path is the breath of fresh air I&#39;ve been in desperate need of](https://www.pcgamer.com/games/sim/relaxing-gardening-simulator-the-garden-path-is-the-breath-of-fresh-air-ive-been-in-desperate-need-of)
+ - [Gen Con 2024: The best new board games, card games, and tabletop RPGs](https://www.polygon.com/24209479/gen-con-2024-the-best-new-board-games-card-games-and-tabletop-rpgs)
+ - [Wildermyth, a procedural storytelling RPG, comes to PS5 &amp; PS4 on October 22](https://blog.playstation.com/2024/07/30/wildermyth-a-procedural-storytelling-rpg-comes-to-ps5-ps4-on-october-22/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
