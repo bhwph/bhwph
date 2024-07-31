@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
+ - 6️⃣ [What a bunch of silly mimes. Im sure there is nothing wrong with them at all\u2026](http://9gag.com/gag/a874PoO)
  - 😝 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
- - 👉 [Maya Rudolph on Hot Ones is the funniest thing I&#39;ve ever seen](http://9gag.com/gag/aKG3RPj)<!-- MEMES:END -->
+ - 👉 [Her reaction was so genuine and pure! Totally priceless](http://9gag.com/gag/an71A3L)<!-- MEMES:END -->
 
 --- 
 
