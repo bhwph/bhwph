@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US plans to unveil a new rule next month to stop chipmaking equipment exports from some countries to China, exempting allies like the Netherlands &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/240731/p2#a240731p2)
- - [Nvidia shares close down 7% to $103.73, after falling ~23% since July 10, as investors pull back from large tech stocks amid doubts over AI spending paying off &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/240731/p1#a240731p1)
- - [OpenAI rolls out much-awaited ChatGPT advanced voice mode to select users](https://www.androidauthority.com/open-ai-advanced-voice-mode-rollout-3466329/)<!-- TECH:END -->
+ - [T-Mobile now has five partnerships with fiber internet providers that could serve millions of US users in the coming years, in a bid to catch AT&amp;T and Verizon &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/240731/p7#a240731p7)
+ - [Samsung says Galaxy S24 shipments are soaring above Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-s24-shipments-growth-earnings-3466507/)
+ - [Can ChatGPT-4o Be Trusted With Your Private Data?](https://www.wired.com/story/can-chatgpt-4o-be-trusted-with-your-private-data/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
