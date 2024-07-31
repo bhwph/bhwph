@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
- - 😝 [Best community is...](http://9gag.com/gag/aGy0Y5G)
- - 👉 [\u201cIt\u2019s not about money. It\u2019s about sending a message..](http://9gag.com/gag/a5QZe5E)<!-- MEMES:END -->
+ - 6️⃣ [That would hurt so bad](http://9gag.com/gag/azxr7Nb)
+ - 😝 [By the time COCO is done, I NUT](http://9gag.com/gag/aQzxYpz)
+ - 👉 [Wife material](http://9gag.com/gag/a9yWd8m)<!-- MEMES:END -->
 
 --- 
 
