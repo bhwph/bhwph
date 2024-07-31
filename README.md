@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bungie is laying off 220 employees and moving others to PlayStation](https://www.theverge.com/2024/7/31/24210476/bungie-to-layoff-220-employees-new-project)
- - [Milan-based mobile app developer Bending Spoons acquires Dutch file-sharing service WeTransfer, which backed out of an IPO in 2022, without disclosing terms &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240731/p25#a240731p25)
- - [Rising popularity of older iPhone models drove down average selling prices in June quarter](https://appleinsider.com/articles/24/07/31/rising-popularity-in-older-models-drove-down-iphone-prices-in-june-quarter?utm_medium=rss)<!-- TECH:END -->
+ - [Nvidia shares jump 10%+ after Microsoft and AMD signaled no slowdown in the buildout of AI servers built around GPUs; Microsoft spent $19B on capex in Q4 &lpar;CNBC&rpar;](http://www.techmeme.com/240731/p29#a240731p29)
+ - [The latest Google Maps update streamlines crash reporting for safer roads](https://www.androidauthority.com/google-maps-incident-reporting-3466683/)
+ - [Source: TikTok was paying Microsoft ~$20M/mo. to use OpenAI&#39;s models in Azure OpenAI Service as of March, ~25% of the total revenue that service was generating &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240731/p28#a240731p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
