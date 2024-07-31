@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reports Q2 revenue up 23.42% YoY to ~$53.45B, vs. ~$53.3B est., operating profit up 1,458% YoY to ~$7.5B, as AI memory chip demand remains strong &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240730/p42#a240730p42)
- - [Ring camera features are down due to AWS problems](https://www.theverge.com/2024/7/30/24210064/ring-camera-down-outage-amazon-aws-us-east)
- - [How Elon Musk and X&#39;s division of labor stymied some of Linda Yaccarino&#39;s plans, like a Visa deal; internal figures show X had 250.8M DAUs in Q2, up 1.56% YoY &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240730/p41#a240730p41)<!-- TECH:END -->
+ - [Netflix files to raise $1.8B in a new debt offering, its first since the company was elevated to investment-grade status by Moody&#39;s and S&amp;P Global &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240730/p43#a240730p43)
+ - [Meta blames hallucinations after its AI said Trump rally shooting didn’t happen](https://www.theverge.com/2024/7/30/24210108/meta-trump-shooting-ai-hallucinations)
+ - [Samsung reports Q2 revenue up 23.42% YoY to ~$53.45B, vs. ~$53.3B est., operating profit up 1,458% YoY to ~$7.5B, as AI memory chip demand remains strong &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240730/p42#a240730p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
