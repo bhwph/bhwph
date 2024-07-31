@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia shares jump 10%+ after Microsoft and AMD signaled no slowdown in the buildout of AI servers built around GPUs; Microsoft spent $19B on capex in Q4 &lpar;CNBC&rpar;](http://www.techmeme.com/240731/p29#a240731p29)
- - [The latest Google Maps update streamlines crash reporting for safer roads](https://www.androidauthority.com/google-maps-incident-reporting-3466683/)
- - [Source: TikTok was paying Microsoft ~$20M/mo. to use OpenAI&#39;s models in Azure OpenAI Service as of March, ~25% of the total revenue that service was generating &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240731/p28#a240731p28)<!-- TECH:END -->
+ - [Deal: This tiny Logitech mouse is gorgeous and only $15 right now](https://www.androidauthority.com/logitech-m340-limited-edition-prints-deal-3466715/)
+ - [Meta reports Q2 revenue up 22% YoY to $39.07B, net income up 73% YoY to $13.47B, and family daily active people up 7% YoY to 3.27B on average for June 2024 &lpar;Meta&rpar;](http://www.techmeme.com/240731/p33#a240731p33)
+ - [Bungie announces it will lay off 220 employees, or 17% of its workforce, and integrate an additional 155 roles into its parent Sony Interactive Entertainment &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240731/p32#a240731p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
