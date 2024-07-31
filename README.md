@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)
- - 😝 [Hold my Wednesday](http://9gag.com/gag/aryOvb7)
- - 👉 [Why japanese always wear a mask.](http://9gag.com/gag/apRLeQD)<!-- MEMES:END -->
+ - 😝 [Funny genetics. Brazilian table tennis player Bruna Takahashi &lpar;right&rpar; with her parents and sister.](http://9gag.com/gag/aNDWxqG)
+ - 👉 [You have to be a special kind of person to be pissed off someone who avoided crashing into you in the first place.](http://9gag.com/gag/abA6X7B)<!-- MEMES:END -->
 
 --- 
 
