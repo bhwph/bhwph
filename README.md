@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Donald Trump’s Plan to Hoard Billions in Bitcoin Has Economists Stumped](https://www.wired.com/story/donald-trumps-plan-to-hoard-billions-in-bitcoin-has-economists-stumped/)
- - [Logitech wants to sell you a subscription mouse some day](https://appleinsider.com/articles/24/07/31/logitech-wants-to-sell-you-a-subscription-mouse-some-day?utm_medium=rss)
- - [10 Best Apple AirPods Cases We&#39;ve Tried and Tested &lpar;2024&rpar;](https://www.wired.com/gallery/best-apple-airpods-cases/)<!-- TECH:END -->
+ - [Moog Muse Review: A Machine for Musical Inspiration](https://www.wired.com/review/moog-muse-review/)
+ - [Amazon’s big-screen Kindle Scribe is more than $100 off right now](https://www.theverge.com/2024/7/31/24209525/amazon-kindle-scribe-echo-show-8-smart-display-deal-sale)
+ - [Delta Air Lines CEO Ed Bastian says the CrowdStrike outage will cost the company $500M, after canceling 6,000+ flights, and Delta will seek damages &lpar;Financial Times&rpar;](http://www.techmeme.com/240731/p19#a240731p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
