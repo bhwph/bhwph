@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why japanese always wear a mask.](http://9gag.com/gag/apRLeQD)
- - 😝 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
- - 👉 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)<!-- MEMES:END -->
+ - 6️⃣ [When toleration stops, boss music starts](http://9gag.com/gag/avyrpgb)
+ - 😝 [And that&#39;s just the last few days..](http://9gag.com/gag/abA6Xnr)
+ - 👉 [Aaaand he&#39;s gone. Killed in Iran, he won&#39;t be missed](http://9gag.com/gag/aKG2w9O)<!-- MEMES:END -->
 
 --- 
 
