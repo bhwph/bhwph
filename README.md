@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to infuse the Lifeless Stone Ring in World of Warcraft](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-lifeless-stone-ring)
- - [SCP: Secret Lab player who &#39;can&#39;t remember s***&#39; invents their own custom mapping tool like a horror game MacGyver](https://www.pcgamer.com/games/horror/scp-secret-lab-player-who-cant-remember-s-invents-their-own-custom-mapping-tool-like-a-horror-game-macgyver)
- - [EA CEO calls the next Battlefield &#39;one of the most ambitious projects in our history&#39; as all hands get to work on a &#39;Battlefield universe&#39;](https://www.pcgamer.com/games/fps/ea-ceo-calls-the-next-battlefield-one-of-the-most-ambitious-projects-in-our-history-as-all-hands-get-to-work-on-a-battlefield-universe)<!-- GAME:END -->
+ - [Star Wars Outlaws Has A Great Option Every Game Should Offer](https://kotaku.com/star-wars-outlaws-ubisoft-yellow-paint-explorer-mode-1851609735)
+ - [Reveal Your Own Path with the Sky Cipher Special Edition Controller](https://news.xbox.com/en-us/2024/07/31/sky-cipher-xbox-wireless-controller-transparent/)
+ - [EA College Football 25 Used AI To Make All 11,000 Players&#39; Faces](https://kotaku.com/ea-college-football-25-generative-ai-fifa-1851609733)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
