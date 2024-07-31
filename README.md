@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile now has five partnerships with fiber internet providers that could serve millions of US users in the coming years, in a bid to catch AT&amp;T and Verizon &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/240731/p7#a240731p7)
- - [Samsung says Galaxy S24 shipments are soaring above Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-s24-shipments-growth-earnings-3466507/)
- - [Can ChatGPT-4o Be Trusted With Your Private Data?](https://www.wired.com/story/can-chatgpt-4o-be-trusted-with-your-private-data/)<!-- TECH:END -->
+ - [Donald Trump’s Plan to Hoard Billions in Bitcoin Has Economists Stumped](https://www.wired.com/story/donald-trumps-plan-to-hoard-billions-in-bitcoin-has-economists-stumped/)
+ - [Logitech wants to sell you a subscription mouse some day](https://appleinsider.com/articles/24/07/31/logitech-wants-to-sell-you-a-subscription-mouse-some-day?utm_medium=rss)
+ - [10 Best Apple AirPods Cases We&#39;ve Tried and Tested &lpar;2024&rpar;](https://www.wired.com/gallery/best-apple-airpods-cases/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
