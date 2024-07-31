@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a bunch of silly mimes. Im sure there is nothing wrong with them at all\u2026](http://9gag.com/gag/a874PoO)
- - 😝 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
- - 👉 [Her reaction was so genuine and pure! Totally priceless](http://9gag.com/gag/an71A3L)<!-- MEMES:END -->
+ - 6️⃣ [Guys, is this depression? Am i okay?](http://9gag.com/gag/aqyr4KP)
+ - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
+ - 👉 [They teach you everything in life, except how to leave without them.](http://9gag.com/gag/axyDpxb)<!-- MEMES:END -->
 
 --- 
 
