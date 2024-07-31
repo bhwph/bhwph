@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Old but gold](http://9gag.com/gag/a4PjDWm)
- - 😝 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
- - 👉 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)<!-- MEMES:END -->
+ - 6️⃣ [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
+ - 😝 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
+ - 👉 [Maya Rudolph on Hot Ones is the funniest thing I&#39;ve ever seen](http://9gag.com/gag/aKG3RPj)<!-- MEMES:END -->
 
 --- 
 
