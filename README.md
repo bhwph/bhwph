@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Outlaws Has A Great Option Every Game Should Offer](https://kotaku.com/star-wars-outlaws-ubisoft-yellow-paint-explorer-mode-1851609735)
- - [Reveal Your Own Path with the Sky Cipher Special Edition Controller](https://news.xbox.com/en-us/2024/07/31/sky-cipher-xbox-wireless-controller-transparent/)
- - [EA College Football 25 Used AI To Make All 11,000 Players&#39; Faces](https://kotaku.com/ea-college-football-25-generative-ai-fifa-1851609733)<!-- GAME:END -->
+ - [PlayStation Plus subscribers get Lego Star Wars, FNAF, and more in August](https://www.polygon.com/24209897/playstation-plus-august-2024-monthly-games-list)
+ - [Final Fantasy XIV Players Are Up In Arms Over The Latest Patch](https://kotaku.com/final-fantasy-14-dawntrail-patch-viper-changes-1851609910)
+ - [How Towerborne’s Weapons Work Together to Create A Symphony of Combat Chaos](https://news.xbox.com/en-us/2024/07/31/towerborne-weapons-work-together-combat-chaos/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
