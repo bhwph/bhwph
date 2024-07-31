@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: This tiny Logitech mouse is gorgeous and only $15 right now](https://www.androidauthority.com/logitech-m340-limited-edition-prints-deal-3466715/)
- - [Meta reports Q2 revenue up 22% YoY to $39.07B, net income up 73% YoY to $13.47B, and family daily active people up 7% YoY to 3.27B on average for June 2024 &lpar;Meta&rpar;](http://www.techmeme.com/240731/p33#a240731p33)
- - [Bungie announces it will lay off 220 employees, or 17% of its workforce, and integrate an additional 155 roles into its parent Sony Interactive Entertainment &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240731/p32#a240731p32)<!-- TECH:END -->
+ - [New York-based Spring Health, which offers a mental health app that matches patients with care providers, raised a $100M Series E at a $3.3B valuation &lpar;Emma Hinchliffe/Fortune&rpar;](http://www.techmeme.com/240731/p40#a240731p40)
+ - [How to get started using Apple Open Directory](https://appleinsider.com/inside/macos/tips/how-to-get-started-using-apple-open-directory?utm_medium=rss)
+ - [TikTok is one of Microsoft’s biggest AI cloud computing customers](https://www.theverge.com/2024/7/31/24210667/microsoft-tiktok-ai-openai-customer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
