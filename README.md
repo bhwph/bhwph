@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [College Football 25 wouldn’t have been possible without AI, EA boss says](https://www.polygon.com/24210468/college-football-25-ai-machine-learning-ea-sports)
- - [Bungie Devs React To More Mass Layoffs: ‘My Whole Team Is Gone&#39;](https://kotaku.com/bungie-ceo-layoffs-locked-account-destiny-pete-parsons-1851610118)
- - [Retro-Futuristic Saga Cilla Now Launches August 2](https://news.xbox.com/en-us/2024/07/31/retro-futuristic-saga-cilla-now-launches-august-2/)<!-- GAME:END -->
+ - [This CT scanning company is sowing chaos for Pokémon card collectors by selling X-ray scans of booster packs: &#39;We firmly believe we stand in the zone of chaotic good&#39;](https://www.pcgamer.com/games/card-games/this-ct-scanning-company-is-sowing-chaos-for-pokemon-card-collectors-by-selling-x-ray-scans-of-booster-packs-we-firmly-believe-we-stand-in-the-zone-of-chaotic-good)
+ - [Hugh Jackman’s performance is the one sincere thing in Deadpool &amp; Wolverine](https://www.polygon.com/24209959/deadpool-wolverine-hugh-jackman-best-part-logan)
+ - [Palia’s new Home Tours showcase some delightful and creative plots](https://www.polygon.com/24210643/palia-home-tours-player-made-plots)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
