@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guys, is this depression? Am i okay?](http://9gag.com/gag/aqyr4KP)
- - 😝 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - 👉 [They teach you everything in life, except how to leave without them.](http://9gag.com/gag/axyDpxb)<!-- MEMES:END -->
+ - 6️⃣ [When toleration stops, boss music starts](http://9gag.com/gag/avyrpgb)
+ - 😝 [Hot very hot](http://9gag.com/gag/a9yY9GZ)
+ - 👉 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)<!-- MEMES:END -->
 
 --- 
 
