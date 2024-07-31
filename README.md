@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This CT scanning company is sowing chaos for Pokémon card collectors by selling X-ray scans of booster packs: &#39;We firmly believe we stand in the zone of chaotic good&#39;](https://www.pcgamer.com/games/card-games/this-ct-scanning-company-is-sowing-chaos-for-pokemon-card-collectors-by-selling-x-ray-scans-of-booster-packs-we-firmly-believe-we-stand-in-the-zone-of-chaotic-good)
- - [Hugh Jackman’s performance is the one sincere thing in Deadpool &amp; Wolverine](https://www.polygon.com/24209959/deadpool-wolverine-hugh-jackman-best-part-logan)
- - [Palia’s new Home Tours showcase some delightful and creative plots](https://www.polygon.com/24210643/palia-home-tours-player-made-plots)<!-- GAME:END -->
+ - [Here&#39;s a 15 minute gameplay deep dive on water parks in Planet Coaster 2](https://www.pcgamer.com/games/sim/heres-a-15-minute-gameplay-deep-dive-on-water-parks-in-planet-coaster-2)
+ - [Devs Say Working With Apple Arcade Is Frustrating, &#39;Like An Abusive Relationship&#39;](https://kotaku.com/apple-arcade-abusive-horrible-mobilegamer-report-devs-1851610313)
+ - [Jonathan Blow says the Braid remaster &#39;sold like dog****&#39;](https://www.pcgamer.com/games/jonathan-blow-says-the-braid-remaster-sold-like-dog)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
