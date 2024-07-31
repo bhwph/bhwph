@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI rolls out much-awaited advanced voice mode to select users](https://www.androidauthority.com/open-ai-advanced-voice-mode-rollout-3466329/)
- - [This is what the iPhone 16’s color lineup could turn out to be](https://www.androidauthority.com/apple-iphone-16-colors-dummy-unit-leak-3466464/)
- - [Samsung Galaxy Watch Ultra review: premium materials and build quality, powerful Exynos processor, but large and bulky with only one size, and expensive &lpar;Steve Smith/SlashGear&rpar;](http://www.techmeme.com/240730/p45#a240730p45)<!-- TECH:END -->
+ - [Sources: the US plans to unveil a new rule next month to stop chipmaking equipment exports from some countries to China, exempting allies like the Netherlands &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/240731/p2#a240731p2)
+ - [Nvidia shares close down 7% to $103.73, after falling ~23% since July 10, as investors pull back from large tech stocks amid doubts over AI spending paying off &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/240731/p1#a240731p1)
+ - [OpenAI rolls out much-awaited ChatGPT advanced voice mode to select users](https://www.androidauthority.com/open-ai-advanced-voice-mode-rollout-3466329/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
