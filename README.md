@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Plus subscribers get Lego Star Wars, FNAF, and more in August](https://www.polygon.com/24209897/playstation-plus-august-2024-monthly-games-list)
- - [Final Fantasy XIV Players Are Up In Arms Over The Latest Patch](https://kotaku.com/final-fantasy-14-dawntrail-patch-viper-changes-1851609910)
- - [How Towerborne’s Weapons Work Together to Create A Symphony of Combat Chaos](https://news.xbox.com/en-us/2024/07/31/towerborne-weapons-work-together-combat-chaos/)<!-- GAME:END -->
+ - [College Football 25 wouldn’t have been possible without AI, EA boss says](https://www.polygon.com/24210468/college-football-25-ai-machine-learning-ea-sports)
+ - [Bungie Devs React To More Mass Layoffs: ‘My Whole Team Is Gone&#39;](https://kotaku.com/bungie-ceo-layoffs-locked-account-destiny-pete-parsons-1851610118)
+ - [Retro-Futuristic Saga Cilla Now Launches August 2](https://news.xbox.com/en-us/2024/07/31/retro-futuristic-saga-cilla-now-launches-august-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
