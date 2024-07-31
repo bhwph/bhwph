@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, July 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-31-2024)
- - [Wizards of the Coast broke glass on the alarm marked &#39;anthropomorphic animal Magic set&#39;, and it seems to have worked](https://www.pcgamer.com/games/card-games/wizards-of-the-coast-broke-glass-on-the-alarm-marked-anthropomorphic-animal-magic-set-and-it-seems-to-have-worked)
- - [Former GTA dev says &#39;it&#39;s time for a revolution&#39; where &#39;animation is more AI-driven and physics-driven&#39; than done by hand](https://www.pcgamer.com/games/action/former-gta-dev-says-its-time-for-a-revolution-where-animation-is-more-ai-driven-and-physics-driven-than-done-by-hand)<!-- GAME:END -->
+ - [How to infuse the Lifeless Stone Ring in World of Warcraft](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-lifeless-stone-ring)
+ - [SCP: Secret Lab player who &#39;can&#39;t remember s***&#39; invents their own custom mapping tool like a horror game MacGyver](https://www.pcgamer.com/games/horror/scp-secret-lab-player-who-cant-remember-s-invents-their-own-custom-mapping-tool-like-a-horror-game-macgyver)
+ - [EA CEO calls the next Battlefield &#39;one of the most ambitious projects in our history&#39; as all hands get to work on a &#39;Battlefield universe&#39;](https://www.pcgamer.com/games/fps/ea-ceo-calls-the-next-battlefield-one-of-the-most-ambitious-projects-in-our-history-as-all-hands-get-to-work-on-a-battlefield-universe)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
