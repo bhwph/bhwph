@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That would hurt so bad](http://9gag.com/gag/azxr7Nb)
- - 😝 [By the time COCO is done, I NUT](http://9gag.com/gag/aQzxYpz)
+ - 6️⃣ [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)
+ - 😝 [You Know](http://9gag.com/gag/aNDdozG)
  - 👉 [Wife material](http://9gag.com/gag/a9yWd8m)<!-- MEMES:END -->
 
 --- 
