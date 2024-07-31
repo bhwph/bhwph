@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moog Muse Review: A Machine for Musical Inspiration](https://www.wired.com/review/moog-muse-review/)
- - [Amazon’s big-screen Kindle Scribe is more than $100 off right now](https://www.theverge.com/2024/7/31/24209525/amazon-kindle-scribe-echo-show-8-smart-display-deal-sale)
- - [Delta Air Lines CEO Ed Bastian says the CrowdStrike outage will cost the company $500M, after canceling 6,000+ flights, and Delta will seek damages &lpar;Financial Times&rpar;](http://www.techmeme.com/240731/p19#a240731p19)<!-- TECH:END -->
+ - [Bungie is laying off 220 employees and moving others to PlayStation](https://www.theverge.com/2024/7/31/24210476/bungie-to-layoff-220-employees-new-project)
+ - [Milan-based mobile app developer Bending Spoons acquires Dutch file-sharing service WeTransfer, which backed out of an IPO in 2022, without disclosing terms &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240731/p25#a240731p25)
+ - [Rising popularity of older iPhone models drove down average selling prices in June quarter](https://appleinsider.com/articles/24/07/31/rising-popularity-in-older-models-drove-down-iphone-prices-in-june-quarter?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
