@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When toleration stops, boss music starts](http://9gag.com/gag/avyrpgb)
- - 😝 [Hot very hot](http://9gag.com/gag/a9yY9GZ)
- - 👉 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)<!-- MEMES:END -->
+ - 6️⃣ [Why japanese always wear a mask.](http://9gag.com/gag/apRLeQD)
+ - 😝 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - 👉 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)<!-- MEMES:END -->
 
 --- 
 
