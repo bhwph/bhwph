@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When toleration stops, boss music starts](http://9gag.com/gag/avyrpgb)
- - 😝 [And that&#39;s just the last few days..](http://9gag.com/gag/abA6Xnr)
- - 👉 [Aaaand he&#39;s gone. Killed in Iran, he won&#39;t be missed](http://9gag.com/gag/aKG2w9O)<!-- MEMES:END -->
+ - 6️⃣ [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)
+ - 😝 [Hold my Wednesday](http://9gag.com/gag/aryOvb7)
+ - 👉 [Why japanese always wear a mask.](http://9gag.com/gag/apRLeQD)<!-- MEMES:END -->
 
 --- 
 
