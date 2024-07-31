@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix files to raise $1.8B in a new debt offering, its first since the company was elevated to investment-grade status by Moody&#39;s and S&amp;P Global &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240730/p43#a240730p43)
- - [Meta blames hallucinations after its AI said Trump rally shooting didn’t happen](https://www.theverge.com/2024/7/30/24210108/meta-trump-shooting-ai-hallucinations)
- - [Samsung reports Q2 revenue up 23.42% YoY to ~$53.45B, vs. ~$53.3B est., operating profit up 1,458% YoY to ~$7.5B, as AI memory chip demand remains strong &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240730/p42#a240730p42)<!-- TECH:END -->
+ - [OpenAI rolls out much-awaited advanced voice mode to select users](https://www.androidauthority.com/open-ai-advanced-voice-mode-rollout-3466329/)
+ - [This is what the iPhone 16’s color lineup could turn out to be](https://www.androidauthority.com/apple-iphone-16-colors-dummy-unit-leak-3466464/)
+ - [Samsung Galaxy Watch Ultra review: premium materials and build quality, powerful Exynos processor, but large and bulky with only one size, and expensive &lpar;Steve Smith/SlashGear&rpar;](http://www.techmeme.com/240730/p45#a240730p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
