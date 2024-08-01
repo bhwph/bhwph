@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Olympic gymnast Casimir Schmidt has a Mew tattoo — but that’s not his favorite Pokémon](https://www.polygon.com/24211259/olympic-gymnastic-casimir-schmidt-gaming-pokemon-nintendo-tattoo)
- - [Amazon Giving Away 20 Free Games This Month, Including Deus Ex And Tomb Raider](https://kotaku.com/amazon-prime-free-games-20-august-2024-deus-ex-pc-steam-1851611047)
- - [Alien: The Role-Playing Game Second Edition hits Kickstarter](https://www.polygon.com/24211249/alien-ttrpg-second-edition-kickstarter-campaign)<!-- GAME:END -->
+ - [Intel is laying off 15,000 people: &#39;we are making some of the most consequential changes in our company’s history&#39;](https://www.pcgamer.com/hardware/processors/intel-is-laying-off-15000-people-we-are-making-some-of-the-most-consequential-changes-in-our-companys-history)
+ - [Arrowhead posts shocking found footage of elusive Helldivers 2 game master Joel](https://www.pcgamer.com/games/arrowhead-posts-shocking-found-footage-of-elusive-helldivers-2-game-master-joel)
+ - [Obsidian&#39;s first person RPG Avowed is reportedly getting delayed into next year despite being &#39;in good shape&#39; for its original November release](https://www.pcgamer.com/games/rpg/obsidians-first-person-rpg-avowed-is-reportedly-getting-delayed-into-next-year-despite-being-in-good-shape-for-its-original-november-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
