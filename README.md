@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung promises Galaxy S25 will get ‘top-of-the-line’ camera, display upgrades](https://www.androidauthority.com/samsung-galaxy-s25-top-of-the-line-camera-display-upgrades-3466897/)
- - [A look at Baidu&#39;s experiment with driverless taxis in Wuhan, which became China&#39;s biggest proving ground for Baidu&#39;s taxis due to a relaxed regulatory approach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240801/p5#a240801p5)
- - [Leak: The Pixel 9 Pro Fold could be thinner &lpar;but heavier&rpar; than the Z Fold 6](https://www.androidauthority.com/leak-google-pixel-9-pro-fold-thinner-heavier-z-fold-6-3466889/)<!-- TECH:END -->
+ - [Watch ChatGPT’s new voice mode mimic accents and correct pronunciation](https://www.theverge.com/2024/8/1/24211087/openai-chatgpt-advanced-voice-mode-demo-accents-language)
+ - [Infosys confirms that Indian authorities hit the IT giant with a $3.9B tax demand, covering July 2017 to March 2022, the latest company to get such a demand &lpar;Chris Kay/Financial Times&rpar;](http://www.techmeme.com/240801/p9#a240801p9)
+ - [Spotify could soon get its own Gemini extension, and here’s how it could work](https://www.androidauthority.com/spotify-gemini-extension-apk-teardown-3466912/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
