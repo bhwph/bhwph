@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro Max leak shows off an actually-black Pro Max iPhone &lpar;finally!&rpar;](https://www.androidauthority.com/apple-iphone-16-pro-max-colors-dummy-unit-leak-3466871/)
- - [Delivery Hero plans to merge two of its European businesses, Foodora and Yemeksepeti, with its Asian business, Foodpanda, and cut fewer than 200 employees &lpar;Michael Hennessey/Bloomberg&rpar;](http://www.techmeme.com/240731/p47#a240731p47)
- - [Today&#39;s NYT Connections Hints, Answers and Help for August 1, #417](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-1-417/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a memo to staff, Samsung&#39;s chip business head Jun Young-hyun warns Samsung risks getting into a &quot;vicious cycle&quot; if it doesn&#39;t revamp its workplace culture &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240801/p4#a240801p4)
+ - [OpenSecrets: the number of groups lobbying the US government on AI grew from 459 in 2023 to 556 in H1 2024; OpenAI spent $800K in H1 2024, vs. $260K in 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240801/p3#a240801p3)
+ - [While owning less than 1% of TSMC, the number of retail shareholders hit a new high in 2024, as locals believe TSMC&#39;s success helps Taiwan fend off China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240801/p2#a240801p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
