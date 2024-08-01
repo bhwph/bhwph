@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Contacts “Besties” label hints at new relationship options &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-besties-3467034/)
- - [Google unveils AI features for Chrome on desktop, including support for Google Lens and searching history via natural language queries, rolling out in the US &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240801/p27#a240801p27)
- - [Google Contacts tests new changes to improve syncing experience &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-sync-changes-apk-3467018/)<!-- TECH:END -->
+ - [A Montenegro appeals court upholds a ruling to hand over Terraform Labs co-founder Do Kwon to South Korea, rejecting a bid to extradite him to the US &lpar;Associated Press&rpar;](http://www.techmeme.com/240801/p32#a240801p32)
+ - [How QAnon Destroys American Families](https://www.wired.com/story/qanon-destroys-american-families/)
+ - [The Twitter for Mac app appears to have been delisted from the App Store; some users say their X accounts were suspended after using the X for iPad app on macOS &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240801/p31#a240801p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
