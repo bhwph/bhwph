@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)
- - 😝 [You Know](http://9gag.com/gag/aNDdozG)
- - 👉 [Wife material](http://9gag.com/gag/a9yWd8m)<!-- MEMES:END -->
+ - 6️⃣ [Fo realz tho](http://9gag.com/gag/aVvDQ2y)
+ - 😝 [Well he got the silver medal though](http://9gag.com/gag/ae9Y37j)
+ - 👉 [Did Turkey send a hitman to the Olympics? Many teams send fully-kitted out players for the Olympic shooting. Turkey just sent an guy with no specialized lenses, eye cover or ear protection and got the silver medal.](http://9gag.com/gag/a9yWM40)<!-- MEMES:END -->
 
 --- 
 
