@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals on Portable Jump-Starters Will Spark Big Savings and Give You Peace of Mind on the Road](https://www.cnet.com/roadshow/news/best-portable-jump-starter-deals/#ftag=CAD590a51e)
- - [Sources: Commerce Department officials inform Applied Materials that the company&#39;s planned $4B Silicon Valley R&amp;D facility doesn&#39;t qualify for CHIPS Act grants &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240731/p45#a240731p45)
- - [On Meta&#39;s earnings call, Mark Zuckerberg said Llama 4 will likely need ~10x more compute than Llama 3.1 to train, Quest 3 sales exceeded expectations, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240731/p44#a240731p44)<!-- TECH:END -->
+ - [iPhone 16 Pro Max leak shows off an actually-black Pro Max iPhone &lpar;finally!&rpar;](https://www.androidauthority.com/apple-iphone-16-pro-max-colors-dummy-unit-leak-3466871/)
+ - [Delivery Hero plans to merge two of its European businesses, Foodora and Yemeksepeti, with its Asian business, Foodpanda, and cut fewer than 200 employees &lpar;Michael Hennessey/Bloomberg&rpar;](http://www.techmeme.com/240731/p47#a240731p47)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for August 1, #417](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-1-417/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
