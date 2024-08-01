@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Spring Health, which offers a mental health app that matches patients with care providers, raised a $100M Series E at a $3.3B valuation &lpar;Emma Hinchliffe/Fortune&rpar;](http://www.techmeme.com/240731/p40#a240731p40)
- - [How to get started using Apple Open Directory](https://appleinsider.com/inside/macos/tips/how-to-get-started-using-apple-open-directory?utm_medium=rss)
- - [TikTok is one of Microsoft’s biggest AI cloud computing customers](https://www.theverge.com/2024/7/31/24210667/microsoft-tiktok-ai-openai-customer)<!-- TECH:END -->
+ - [On Meta&#39;s earnings call, Mark Zuckerberg said Llama 4 will likely need ~10x more compute than Llama 3.1 to train, Quest 3 sales exceeded expectations, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240731/p44#a240731p44)
+ - [Best Internet Providers in Lakeland, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-lakeland-fl/#ftag=CAD590a51e)
+ - [Best Internet Providers in Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-connecticut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
