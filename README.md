@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Outlaws devs were stunned by the internet&#39;s response to its sexy, sexy droid: &#39;There&#39;s nothing sexy about sitting in the skintight suit&#39;](https://www.pcgamer.com/games/action/star-wars-outlaws-devs-were-stunned-by-the-internets-response-to-its-sexy-sexy-droid-theres-nothing-sexy-about-sitting-in-the-skintight-suit)
- - [Marvel Rivals Feels Like Overwatch Without All The Baggage](https://kotaku.com/marvel-rivals-beta-impressions-preview-overwatch-1851610920)
- - [Thank Goodness You&#39;re Here is one of the most charming games I have ever played, but I can&#39;t really explain why](https://www.pcgamer.com/games/adventure/thank-goodness-youre-here-is-one-of-the-most-charming-games-i-have-ever-played-but-i-cant-really-explain-why)<!-- GAME:END -->
+ - [I played Elden Ring wrong for two years](https://www.polygon.com/24211369/playing-elden-ring-wrong)
+ - [Mars 2120: How a Veteran Indie Team Turned their 90s Dream into Martian Reality](https://news.xbox.com/en-us/2024/08/01/mars-2120-dream-into-martian-reality/)
+ - [The Sims 4’s Lovestruck expansion adds swinging neighbors and complex courtships](https://www.polygon.com/24210698/sims-4-lovestruck-player-diary-dating-romance)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
