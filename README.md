@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch ChatGPT’s new voice mode mimic accents and correct pronunciation](https://www.theverge.com/2024/8/1/24211087/openai-chatgpt-advanced-voice-mode-demo-accents-language)
- - [Infosys confirms that Indian authorities hit the IT giant with a $3.9B tax demand, covering July 2017 to March 2022, the latest company to get such a demand &lpar;Chris Kay/Financial Times&rpar;](http://www.techmeme.com/240801/p9#a240801p9)
- - [Spotify could soon get its own Gemini extension, and here’s how it could work](https://www.androidauthority.com/spotify-gemini-extension-apk-teardown-3466912/)<!-- TECH:END -->
+ - [Here’s how to make your phone last longer](https://www.androidauthority.com/how-to-make-your-phone-last-longer-3466285/)
+ - [Outbrain confirms plans to acquire Altice-owned Teads, in a transaction valuing the SSP and video monetization company at $1B+; Outbrain will pay $725M in cash &lpar;Alyssa Boyle/AdExchanger&rpar;](http://www.techmeme.com/240801/p17#a240801p17)
+ - [16 Best Fitness Trackers &lpar;2024&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
