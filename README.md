@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how to make your phone last longer](https://www.androidauthority.com/how-to-make-your-phone-last-longer-3466285/)
- - [Outbrain confirms plans to acquire Altice-owned Teads, in a transaction valuing the SSP and video monetization company at $1B+; Outbrain will pay $725M in cash &lpar;Alyssa Boyle/AdExchanger&rpar;](http://www.techmeme.com/240801/p17#a240801p17)
- - [16 Best Fitness Trackers &lpar;2024&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
+ - [I tried to replace Grammarly with Apple Intelligence, here’s how it went](https://www.androidauthority.com/apple-intelligence-vs-grammarly-feature-3466509/)
+ - [Asus Chromebook CM14 Review: An Uber-Cheap Laptop](https://www.wired.com/review/asus-chromebook-cm14/)
+ - [AI has a climate problem — but so does all of tech](https://www.theverge.com/24211177/ai-climate-crisis-energy-use-microsoft-openai-chatgpt-google-gemini-decoder-podcast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
