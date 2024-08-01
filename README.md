@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
- - 😝 [Keep your foreign ass out of my daughter.](http://9gag.com/gag/a5QZepN)
- - 👉 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)<!-- MEMES:END -->
+ - 6️⃣ [Guatemala just won their first ever golden medal at the Olympics](http://9gag.com/gag/aVvDQm2)
+ - 😝 [Well he got the silver medal though](http://9gag.com/gag/ae9Y37j)
+ - 👉 [Back in &#39;92, a gay dude and a fat lady sung at the summer Olympics. But why wasn&#39;t it shitty and woke ? Because of talent.](http://9gag.com/gag/a347Pr7)<!-- MEMES:END -->
 
 --- 
 
