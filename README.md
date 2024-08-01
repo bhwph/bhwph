@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel is laying off over 10,000 employees and will cut $10 billion in costs](https://www.theverge.com/2024/8/1/24210656/intel-is-laying-off-over-10000-employees-and-will-cut-10-billion-in-costs)
- - [Intel Q2: revenue down 1% YoY to $12.8B, vs. $12.9B est., Data Center and AI down 3% to $3B; announces $10B cost reduction plan, including cutting 15% of staff &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240801/p38#a240801p38)
- - [Amazon reports Q2 revenue up 10% YoY to $148B, a $13.5B net income, vs. $6.7B YoY, $14.7B operating income, vs. $7.7B YoY, subscription sales up 10% to $10.9B &lpar;Amazon.com, Inc.&rpar;](http://www.techmeme.com/240801/p37#a240801p37)<!-- TECH:END -->
+ - [Court filings: AI startups Suno and Udio respond to copyright lawsuits from major music labels, saying their use of proprietary music to train AI is fair use &lpar;Bill Donahue/Billboard&rpar;](http://www.techmeme.com/240801/p51#a240801p51)
+ - [WhatsApp’s new feature makes chatting with AI easier for bad texters](https://www.androidauthority.com/whatsapp-meta-ai-voice-notes-3467252/)
+ - [YouTube finally makes a creator-friendly change to how it handles suspensions](https://www.androidauthority.com/youtube-suspensions-3467227/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
