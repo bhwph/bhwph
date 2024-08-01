@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, August 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-1-2024)
- - [Squid Game season 2 has a release date — and a season 3 renewal](https://www.polygon.com/24058115/squid-game-season-2-release-date-cast-news)
- - [Star Wars Outlaws director was inspired by a samurai action game more than Red Dead or Assassin&#39;s Creed: &#39;My biggest reference was Ghost of Tsushima&#39;](https://www.pcgamer.com/games/action/star-wars-outlaws-director-was-inspired-by-a-samurai-action-game-more-than-red-dead-or-assassins-creed-my-biggest-reference-was-ghost-of-tsushima)<!-- GAME:END -->
+ - [As rage factories howl about Kay Vess&#39; looks, Star Wars Outlaws lead says there&#39;s no point engaging with &#39;bad faith&#39; criticism: &#39;No nuance and no possibility of real dialogue&#39;](https://www.pcgamer.com/games/action/as-rage-factories-howl-about-kay-vess-looks-star-wars-outlaws-lead-says-theres-no-point-engaging-with-bad-faith-criticism-no-nuance-and-no-possibility-of-real-dialogue)
+ - [Logitech&#39;s &#39;forever mouse&#39; could mean peripherals go the way of coffee beans, TVs, and printer ink by pushing a subscription](https://www.pcgamer.com/hardware/gaming-mice/logitechs-forever-mouse-could-mean-peripherals-go-the-way-of-coffee-beans-tvs-and-printer-ink-by-pushing-a-subscription)
+ - [A law firm is investigating whether to launch a class action case against Intel for 13th/14th Gen CPU instability issues](https://www.pcgamer.com/hardware/processors/a-law-firm-is-investigating-whether-to-launch-a-class-action-case-against-intel-for-13th14th-gen-cpu-instability-issues)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
