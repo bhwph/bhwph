@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why you should never eat undercooked bear meat](http://9gag.com/gag/ajPq0B8)
- - 😝 [The jiggles](http://9gag.com/gag/a347dOr)
- - 👉 [Yay or nay](http://9gag.com/gag/aGy09gK)<!-- MEMES:END -->
+ - 6️⃣ [Final Boss\u2026](http://9gag.com/gag/a5QZ7KN)
+ - 😝 [This sums up the clown world so accurately](http://9gag.com/gag/a9yW71Z)
+ - 👉 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)<!-- MEMES:END -->
 
 --- 
 
