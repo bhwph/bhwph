@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Did Turkey send a hitman to the Olympics? Many teams send fully-kitted out players for the Olympic shooting. Turkey just sent an guy with no specialized lenses, eye cover or ear protection and got the silver medal.](http://9gag.com/gag/a9yWM40)
- - 😝 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
- - 👉 [A moment of respect for this guy. No specialized lenses, eye cover or ear protection. But still won a silver medal in the Olympic shooting](http://9gag.com/gag/aBywQox)<!-- MEMES:END -->
+ - 6️⃣ [Things you don&#39;t learn in Middle School Biology #37](http://9gag.com/gag/aNDdrK4)
+ - 😝 [My fellow horny 9gaggers](http://9gag.com/gag/aKG2gL6)
+ - 👉 [Security guard welcomes invisible guest at 3am even brings the wheels](http://9gag.com/gag/aryO1Y5)<!-- MEMES:END -->
 
 --- 
 
