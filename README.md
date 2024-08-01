@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried to replace Grammarly with Apple Intelligence, here’s how it went](https://www.androidauthority.com/apple-intelligence-vs-grammarly-feature-3466509/)
- - [Asus Chromebook CM14 Review: An Uber-Cheap Laptop](https://www.wired.com/review/asus-chromebook-cm14/)
- - [AI has a climate problem — but so does all of tech](https://www.theverge.com/24211177/ai-climate-crisis-energy-use-microsoft-openai-chatgpt-google-gemini-decoder-podcast)<!-- TECH:END -->
+ - [Google Contacts “Besties” label hints at new relationship options &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-besties-3467034/)
+ - [Google unveils AI features for Chrome on desktop, including support for Google Lens and searching history via natural language queries, rolling out in the US &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240801/p27#a240801p27)
+ - [Google Contacts tests new changes to improve syncing experience &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-sync-changes-apk-3467018/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
