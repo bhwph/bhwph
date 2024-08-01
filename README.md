@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [On Meta&#39;s earnings call, Mark Zuckerberg said Llama 4 will likely need ~10x more compute than Llama 3.1 to train, Quest 3 sales exceeded expectations, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240731/p44#a240731p44)
- - [Best Internet Providers in Lakeland, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-lakeland-fl/#ftag=CAD590a51e)
- - [Best Internet Providers in Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-connecticut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Deals on Portable Jump-Starters Will Spark Big Savings and Give You Peace of Mind on the Road](https://www.cnet.com/roadshow/news/best-portable-jump-starter-deals/#ftag=CAD590a51e)
+ - [Sources: Commerce Department officials inform Applied Materials that the company&#39;s planned $4B Silicon Valley R&amp;D facility doesn&#39;t qualify for CHIPS Act grants &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240731/p45#a240731p45)
+ - [On Meta&#39;s earnings call, Mark Zuckerberg said Llama 4 will likely need ~10x more compute than Llama 3.1 to train, Quest 3 sales exceeded expectations, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240731/p44#a240731p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
