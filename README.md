@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That would hurt so bad](http://9gag.com/gag/azxr7Nb)
- - 😝 [Did Turkey send a hitman to the Olympics? Many teams send fully-kitted out players for the Olympic shooting. Turkey just sent an guy with no specialized lenses, eye cover or ear protection and got the silver medal.](http://9gag.com/gag/a9yWM40)
- - 👉 [Only old gamers understand](http://9gag.com/gag/a87pW5Y)<!-- MEMES:END -->
+ - 6️⃣ [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
+ - 😝 [Only old gamers understand](http://9gag.com/gag/a87pW5Y)
+ - 👉 [Why you should never eat undercooked bear meat](http://9gag.com/gag/ajPq0B8)<!-- MEMES:END -->
 
 --- 
 
