@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fo realz tho](http://9gag.com/gag/aVvDQ2y)
- - 😝 [Well he got the silver medal though](http://9gag.com/gag/ae9Y37j)
- - 👉 [Did Turkey send a hitman to the Olympics? Many teams send fully-kitted out players for the Olympic shooting. Turkey just sent an guy with no specialized lenses, eye cover or ear protection and got the silver medal.](http://9gag.com/gag/a9yWM40)<!-- MEMES:END -->
+ - 6️⃣ [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
+ - 😝 [Keep your foreign ass out of my daughter.](http://9gag.com/gag/a5QZepN)
+ - 👉 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)<!-- MEMES:END -->
 
 --- 
 
