@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We preview the Pathfinder 2e playtest, which fully separates the science fantasy game from the OGL](https://www.polygon.com/24206159/starfinder-2e-playtest-launch-pathfinder-compatible-gen-con)
- - [D&amp;D&#39;s upcoming VTT, codenamed Project Sigil, will come with Baldur&#39;s Gate 3 minis—further cementing WoTC&#39;s plans to franchise the heck out of it](https://www.pcgamer.com/games/rpg/d-d-s-upcoming-vtt-codenamed-project-sigil-will-come-with-baldur-s-gate-3-minis-further-cementing-wotc-s-plans-to-franchise-the-heck-out-of-it)
- - [Squid Game&#39;s Finally Back This December, And Wraps Up For Good In 2025](https://kotaku.com/squid-game-season-two-air-date-netflix-1851610597)<!-- GAME:END -->
+ - [Star Wars Outlaws devs were stunned by the internet&#39;s response to its sexy, sexy droid: &#39;There&#39;s nothing sexy about sitting in the skintight suit&#39;](https://www.pcgamer.com/games/action/star-wars-outlaws-devs-were-stunned-by-the-internets-response-to-its-sexy-sexy-droid-theres-nothing-sexy-about-sitting-in-the-skintight-suit)
+ - [Marvel Rivals Feels Like Overwatch Without All The Baggage](https://kotaku.com/marvel-rivals-beta-impressions-preview-overwatch-1851610920)
+ - [Thank Goodness You&#39;re Here is one of the most charming games I have ever played, but I can&#39;t really explain why](https://www.pcgamer.com/games/adventure/thank-goodness-youre-here-is-one-of-the-most-charming-games-i-have-ever-played-but-i-cant-really-explain-why)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
