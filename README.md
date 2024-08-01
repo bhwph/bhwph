@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Montenegro appeals court upholds a ruling to hand over Terraform Labs co-founder Do Kwon to South Korea, rejecting a bid to extradite him to the US &lpar;Associated Press&rpar;](http://www.techmeme.com/240801/p32#a240801p32)
- - [How QAnon Destroys American Families](https://www.wired.com/story/qanon-destroys-american-families/)
- - [The Twitter for Mac app appears to have been delisted from the App Store; some users say their X accounts were suspended after using the X for iPad app on macOS &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240801/p31#a240801p31)<!-- TECH:END -->
+ - [Intel is laying off over 10,000 employees and will cut $10 billion in costs](https://www.theverge.com/2024/8/1/24210656/intel-is-laying-off-over-10000-employees-and-will-cut-10-billion-in-costs)
+ - [Intel Q2: revenue down 1% YoY to $12.8B, vs. $12.9B est., Data Center and AI down 3% to $3B; announces $10B cost reduction plan, including cutting 15% of staff &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240801/p38#a240801p38)
+ - [Amazon reports Q2 revenue up 10% YoY to $148B, a $13.5B net income, vs. $6.7B YoY, $14.7B operating income, vs. $7.7B YoY, subscription sales up 10% to $10.9B &lpar;Amazon.com, Inc.&rpar;](http://www.techmeme.com/240801/p37#a240801p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
