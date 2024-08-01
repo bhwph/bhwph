@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why you should never eat undercooked bear meat](http://9gag.com/gag/ajPq0B8)
- - 😝 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)
- - 👉 [The jiggles](http://9gag.com/gag/a347dOr)<!-- MEMES:END -->
+ - 6️⃣ [The jiggles](http://9gag.com/gag/a347dOr)
+ - 😝 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
+ - 👉 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)<!-- MEMES:END -->
 
 --- 
 
