@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google pulled an Olympics TV ad where a father uses Gemini to help his daughter write a personal letter to an athlete, after criticisms the ad was tone deaf &lpar;Asa Hiken/Ad Age&rpar;](http://www.techmeme.com/240802/p14#a240802p14)
- - [Someone casually used a Pixel 9 Pro Fold at a Starbucks, complete with official case](https://www.androidauthority.com/pixel-9-pro-fold-leak-starbucks-3467562/)
- - [Valorant launches on Xbox Series S / X and PS5](https://www.theverge.com/2024/8/2/24211812/valorant-console-launch-xbox-series-s-x-ps5-download)<!-- TECH:END -->
+ - [iPhone Fold to be joined by foldable iPad in 2026](https://appleinsider.com/articles/24/08/02/iphone-fold-to-be-joined-by-foldable-ipad-in-2026?utm_medium=rss)
+ - [Character.AI co-founders Noam Shazeer and Daniel De Freitas, and some employees, are joining Google; Google has signed a non-exclusive agreement to use its tech &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240802/p18#a240802p18)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
