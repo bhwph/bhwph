@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The jiggles](http://9gag.com/gag/a347dOr)
- - 😝 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
- - 👉 [Europe invasion](http://9gag.com/gag/an7y1dV)<!-- MEMES:END -->
+ - 6️⃣ [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)
+ - 😝 [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)
+ - 👉 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)<!-- MEMES:END -->
 
 --- 
 
