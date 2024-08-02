@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I chose the worst four years to take a hiatus from gaming hardware because now I feel like I&#39;m being handed alien tech when confronted with a Steam Deck](https://www.pcgamer.com/hardware/i-chose-the-worst-four-years-to-take-a-hiatus-from-gaming-hardware-because-now-i-feel-like-im-being-handed-alien-tech-when-confronted-with-a-steam-deck)
- - [GameStop Shuts Down Game Informer, The Longest-Running Gaming Magazine In The US](https://kotaku.com/game-informer-gamestop-meme-stock-gme-last-issue-1851611973)
- - [Larian nearly made Baldur&#39;s Gate 4, it was partially playable and &#39;something that you all would have liked&#39;, but the studio didn&#39;t want to spend another 3 years on it](https://www.pcgamer.com/games/baldurs-gate/larian-nearly-made-baldurs-gate-4-it-was-partially-playable-and-something-that-you-all-would-have-liked-but-the-studio-didnt-want-to-spend-another-3-years-on-it)<!-- GAME:END -->
+ - [Fortnite: How To Complete The Seventh Set Of Pirate Code Quests](https://kotaku.com/fortnite-pirates-caribbean-cursed-sails-quests-1851612203)
+ - [New Path of Exile league crushes concurrent player record, introduces city builder mode, shakes up the metagame](https://www.pcgamer.com/games/rpg/new-path-of-exile-league-crushes-concurrent-player-record-introduces-city-builder-mode-shakes-up-the-metagame)
+ - [Suda51 And Shinji Mikami Really Want To Bring Back Killer7](https://kotaku.com/killer7-sequel-suda51-shinji-mikami-resident-evil-1851612219)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
