@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite: How To Complete The Seventh Set Of Pirate Code Quests](https://kotaku.com/fortnite-pirates-caribbean-cursed-sails-quests-1851612203)
- - [New Path of Exile league crushes concurrent player record, introduces city builder mode, shakes up the metagame](https://www.pcgamer.com/games/rpg/new-path-of-exile-league-crushes-concurrent-player-record-introduces-city-builder-mode-shakes-up-the-metagame)
- - [Suda51 And Shinji Mikami Really Want To Bring Back Killer7](https://kotaku.com/killer7-sequel-suda51-shinji-mikami-resident-evil-1851612219)<!-- GAME:END -->
+ - [MrBeast&#39;s Nice Guy Empire Starting To Show Cracks After Recent Controversies](https://kotaku.com/mrbeast-slur-n-word-clip-2017-controversy-explained-1851612313)
+ - [Car destruction lovers rejoice, Wreckfest 2 is on the way](https://www.pcgamer.com/games/racing/car-destruction-lovers-rejoice-wreckfest-2-is-on-the-way)
+ - [THQ Nordic Showcase 2024 recap](https://blog.playstation.com/2024/08/02/thq-nordic-showcase-2024-recap/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
