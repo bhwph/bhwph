@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)
- - 😝 [But wait there&#39;s more...](http://9gag.com/gag/amor9X9)
+ - 6️⃣ [The jiggles](http://9gag.com/gag/a347dOr)
+ - 😝 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
  - 👉 [Europe invasion](http://9gag.com/gag/an7y1dV)<!-- MEMES:END -->
 
 --- 
