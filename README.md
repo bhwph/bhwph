@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Students, don&#39;t miss out: GeForce Now Ultimate RTX 4080 for just a tenner](https://www.pcgamer.com/games/students-dont-miss-out-geforce-now-ultimate-rtx-4080-for-just-a-tenner)
- - [Today&#39;s Wordle answer for Friday, August 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-August-2-2024)
- - [Once Human patch speeds up motorcycles and makes respeccing easier](https://www.pcgamer.com/games/survival-crafting/once-human-august-2024-patch)<!-- GAME:END -->
+ - [Paradox indefinitely delays Prison Architect 2, just like it did with Life By You before it was scrapped](https://www.pcgamer.com/games/strategy/paradox-indefinitely-delays-prison-architect-2-just-like-it-did-with-life-by-you-before-it-was-scrapped)
+ - [Bungie was reportedly going to pull the trigger on layoffs regardless of The Final Shape&#39;s success, due to leadership under-delivering on &#39;financial promises&#39; to Sony](https://www.pcgamer.com/games/fps/bungie-was-reportedly-going-to-pull-the-trigger-on-layoffs-regardless-of-the-final-shape-s-success-due-to-leadership-under-delivering-on-financial-promises-to-sony)
+ - [You officially have no excuse not to play Deus Ex: Mankind Divided now Prime Gaming is doling out free GOG copies of the game](https://www.pcgamer.com/games/rpg/you-officially-have-no-excuse-not-to-play-deus-ex-mankind-divided-now-prime-gaming-is-doling-out-free-gog-copies-of-the-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
