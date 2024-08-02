@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Japan was up on France 78 - 77 with two minutes left in the game at this moment. This is a real picture from the game.](http://9gag.com/gag/aNDdo8v)
- - 😝 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
- - 👉 [Priceless US team\u2019s reaction to Chinese winning pose](http://9gag.com/gag/aMVwQNV)<!-- MEMES:END -->
+ - 6️⃣ [You can&#39;t prove yourself to your gender, so you go and beat women. Miserable. This has nothing to do with the sport.](http://9gag.com/gag/amor8Md)
+ - 😝 [Angela Carini refuses to fight against ts boxer.](http://9gag.com/gag/azxrVMq)
+ - 👉 [This sums up the clown world so accurately](http://9gag.com/gag/a9yW71Z)<!-- MEMES:END -->
 
 --- 
 
