@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Paradox indefinitely delays Prison Architect 2, just like it did with Life By You before it was scrapped](https://www.pcgamer.com/games/strategy/paradox-indefinitely-delays-prison-architect-2-just-like-it-did-with-life-by-you-before-it-was-scrapped)
- - [Bungie was reportedly going to pull the trigger on layoffs regardless of The Final Shape&#39;s success, due to leadership under-delivering on &#39;financial promises&#39; to Sony](https://www.pcgamer.com/games/fps/bungie-was-reportedly-going-to-pull-the-trigger-on-layoffs-regardless-of-the-final-shape-s-success-due-to-leadership-under-delivering-on-financial-promises-to-sony)
- - [You officially have no excuse not to play Deus Ex: Mankind Divided now Prime Gaming is doling out free GOG copies of the game](https://www.pcgamer.com/games/rpg/you-officially-have-no-excuse-not-to-play-deus-ex-mankind-divided-now-prime-gaming-is-doling-out-free-gog-copies-of-the-game)<!-- GAME:END -->
+ - [The 33 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Harrison Ford Had Fun Playing Red Hulk And ‘Being An Idiot For Money’](https://kotaku.com/captain-america-brave-new-world-harrison-ford-red-hulk-1851611735)
+ - [&#39;I call it chaos at scale&#39;: For the first anniversary of Baldur&#39;s Gate 3, we spoke exclusively to Swen Vincke about the past, present and future of Larian Studios](https://www.pcgamer.com/games/baldurs-gate/i-call-it-chaos-at-scale-for-the-first-anniversary-of-baldurs-gate-3-we-spoke-exclusively-to-swen-vincke-about-the-past-present-and-future-of-larian-studios)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
