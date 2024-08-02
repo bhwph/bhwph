@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This giant One UI 7 leak shows all the changes coming to your Samsung phone](https://www.androidauthority.com/samsung-one-ui-7-changelog-leak-3467396/)
- - [Samsung Keyboard quietly loses key extensions, but why?](https://www.androidauthority.com/samsung-keyboard-lose-extensions-3467380/)
- - [This company sells more phones than Google, but you’ve likely never heard of it](https://www.androidauthority.com/what-is-transsion-3466021/)<!-- TECH:END -->
+ - [How the ‘Slamming Door’ Sound Became Embedded in Hip-Hop History](https://www.wired.com/story/korg-tribe-slam-sound-hip-hop-history/)
+ - [Stability AI announces Stable Fast 3D, a generative AI model for rapid 3D asset generation, says it can generate a 3D asset from a single image in 0.5 seconds &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240802/p8#a240802p8)
+ - [Nvidia faces two DOJ antitrust probes over market dominance](https://www.theverge.com/2024/8/2/24211810/nvidia-doj-antitrust-probes-ai-market-dominance)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
