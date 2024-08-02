@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Final Boss\u2026](http://9gag.com/gag/a5QZ7KN)
- - 😝 [This sums up the clown world so accurately](http://9gag.com/gag/a9yW71Z)
- - 👉 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)<!-- MEMES:END -->
+ - 6️⃣ [Return of The Donald](http://9gag.com/gag/aKG2PKj)
+ - 😝 [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)
+ - 👉 [Silver medal guy reacting to gold medal winner](http://9gag.com/gag/aRBKAZq)<!-- MEMES:END -->
 
 --- 
 
