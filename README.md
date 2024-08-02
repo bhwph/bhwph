@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The way she grabbed his hand without hesitation.](http://9gag.com/gag/aGy0xY7)
- - 😝 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - 👉 [But wait there&#39;s more...](http://9gag.com/gag/amor9X9)<!-- MEMES:END -->
+ - 6️⃣ [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)
+ - 😝 [But wait there&#39;s more...](http://9gag.com/gag/amor9X9)
+ - 👉 [Europe invasion](http://9gag.com/gag/an7y1dV)<!-- MEMES:END -->
 
 --- 
 
