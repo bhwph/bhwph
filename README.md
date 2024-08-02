@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MrBeast&#39;s Nice Guy Empire Starting To Show Cracks After Recent Controversies](https://kotaku.com/mrbeast-slur-n-word-clip-2017-controversy-explained-1851612313)
- - [Car destruction lovers rejoice, Wreckfest 2 is on the way](https://www.pcgamer.com/games/racing/car-destruction-lovers-rejoice-wreckfest-2-is-on-the-way)
- - [THQ Nordic Showcase 2024 recap](https://blog.playstation.com/2024/08/02/thq-nordic-showcase-2024-recap/)<!-- GAME:END -->
+ - [Valve&#39;s former economist says Steam could produce &#39;better macroeconomic forecasts&#39; than Goldman Sachs with the power of crowdsourcing and brownie points](https://www.pcgamer.com/gaming-industry/valves-former-economist-says-steam-could-produce-better-macroeconomic-forecasts-than-goldman-sachs-with-the-power-of-crowdsourcing-and-brownie-points)
+ - [Trap feels like a Shyamalan movie through and through — for better and worse](https://www.polygon.com/24212250/trap-review-shyamalan-m-night-movie-hartnett)
+ - [Prison Architect 2 Delayed Indefinitely Weeks Before Launch, Pre-Orders Refunded](https://kotaku.com/prison-architect-2-delayed-canceled-pre-orders-refunded-1851612415)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
