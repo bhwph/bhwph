@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court filings: AI startups Suno and Udio respond to copyright lawsuits from major music labels, saying their use of proprietary music to train AI is fair use &lpar;Bill Donahue/Billboard&rpar;](http://www.techmeme.com/240801/p51#a240801p51)
- - [WhatsApp’s new feature makes chatting with AI easier for bad texters](https://www.androidauthority.com/whatsapp-meta-ai-voice-notes-3467252/)
- - [YouTube finally makes a creator-friendly change to how it handles suspensions](https://www.androidauthority.com/youtube-suspensions-3467227/)<!-- TECH:END -->
+ - [Sources: the US DOJ is investigating Nvidia&#39;s acquisition of Israeli AI infrastructure orchestration and management service Run:ai on antitrust grounds &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240801/p57#a240801p57)
+ - [Amazon extends $299 iPad 10th Gen deal into August](https://appleinsider.com/articles/24/08/02/amazon-extends-299-ipad-10th-gen-deal-into-august?utm_medium=rss)
+ - [Intel extends the warranty for its boxed Core 13th and 14th Gen desktop processors by an additional two years, due to customers experiencing instability issues &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240801/p56#a240801p56)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
