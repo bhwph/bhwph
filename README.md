@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the ‘Slamming Door’ Sound Became Embedded in Hip-Hop History](https://www.wired.com/story/korg-tribe-slam-sound-hip-hop-history/)
- - [Stability AI announces Stable Fast 3D, a generative AI model for rapid 3D asset generation, says it can generate a 3D asset from a single image in 0.5 seconds &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240802/p8#a240802p8)
- - [Nvidia faces two DOJ antitrust probes over market dominance](https://www.theverge.com/2024/8/2/24211810/nvidia-doj-antitrust-probes-ai-market-dominance)<!-- TECH:END -->
+ - [Berkshire Hathaway may have continued its streak of selling off Apple stock](https://appleinsider.com/articles/24/08/02/berkshire-hathaway-may-have-continued-its-streak-of-selling-off-apple-stock?utm_medium=rss)
+ - [AI music startups say copyright violation is just rock-and-roll](https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use)
+ - [What are modded Android games and are they safe?](https://www.androidauthority.com/modded-android-games-3466945/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
