@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump says Zuckerberg called him after the assassination attempt and told Trump he wouldn&#39;t endorse a Democrat because he &quot;respected&quot; Trump&#39;s reaction that day &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240802/p22#a240802p22)
- - [TikTok Sued by US Justice Department for Alleged Violations of Kids’ Privacy](https://www.wired.com/story/us-justice-department-sues-tiktok-kids-privacy/)
- - [This ASUS laptop is way too good for only $220!](https://www.androidauthority.com/asus-vivobook-14-3467610/)<!-- TECH:END -->
+ - [The 2025 Explorer is the first Ford to get the new Android-powered infotainment system](https://www.theverge.com/2024/8/2/24212211/ford-explorer-2025-digital-experience-android-infortainment)
+ - [Sources: Meta is offering Hollywood celebrities like Judi Dench millions of dollars for the right to use their voices for AI projects; SAG-AFTRA agreed to terms &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240802/p24#a240802p24)
+ - [Google Pixel Watch 3 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-watch-3-features-specs-price-3415632/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
