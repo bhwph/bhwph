@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 9 series shipping dates leaked: You could be waiting for a long time for your Pixel 9 Pro Fold](https://www.androidauthority.com/pixel-9-series-availability-date-leaked-3467324/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for August 2, #152](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-august-2-152/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for August 2, #418](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-2-418/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel 9 rumors: Everything we know so far about the upcoming Pixels](https://www.androidauthority.com/google-pixel-9-3365966/)
+ - [Turkey blocks Instagram without stating a reason or the duration; a Turkish official claimed Instagram blocked condolence posts on Ismail Haniyeh&#39;s killing &lpar;Tuvan Gumrukcu/Reuters&rpar;](http://www.techmeme.com/240802/p3#a240802p3)
+ - [Leak: These might be the cleanest Google Pixel 9 series renders yet](https://www.androidauthority.com/google-pixel-9-series-leaked-renders-clean-3466483/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
