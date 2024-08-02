@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berkshire Hathaway may have continued its streak of selling off Apple stock](https://appleinsider.com/articles/24/08/02/berkshire-hathaway-may-have-continued-its-streak-of-selling-off-apple-stock?utm_medium=rss)
- - [AI music startups say copyright violation is just rock-and-roll](https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use)
- - [What are modded Android games and are they safe?](https://www.androidauthority.com/modded-android-games-3466945/)<!-- TECH:END -->
+ - [Edifier Stax Spirit S5 Headphones Review: Great Sound, No Noise Canceling](https://www.wired.com/review/edifier-stax-spirit-s5/)
+ - [Kamala Harris and the Paradox of Progress](https://www.wired.com/story/kamala-harris-and-the-paradox-of-progress/)
+ - [This online puzzle community has a fresh twist on battle passes](https://www.theverge.com/2024/8/2/24211408/puzzmo-pile-up-poker-battle-pass-zach-gage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
