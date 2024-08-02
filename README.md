@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Contextual AI, which offers retrieval augmented generation tools for enterprises, raised an $80M Series A led by Greycroft; PitchBook values Contextual at $609M &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/240801/p58#a240801p58)
- - [Sources: the US DOJ is investigating Nvidia&#39;s acquisition of Israeli AI infrastructure orchestration and management service Run:ai on antitrust grounds &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240801/p57#a240801p57)
- - [Amazon extends $299 iPad 10th Gen deal into August](https://appleinsider.com/articles/24/08/02/amazon-extends-299-ipad-10th-gen-deal-into-august?utm_medium=rss)<!-- TECH:END -->
+ - [Pixel 9 series shipping dates leaked: You could be waiting for a long time for your Pixel 9 Pro Fold](https://www.androidauthority.com/pixel-9-series-availability-date-leaked-3467324/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for August 2, #152](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-august-2-152/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for August 2, #418](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-2-418/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
