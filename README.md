@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9 rumors: Everything we know so far about the upcoming Pixels](https://www.androidauthority.com/google-pixel-9-3365966/)
- - [Turkey blocks Instagram without stating a reason or the duration; a Turkish official claimed Instagram blocked condolence posts on Ismail Haniyeh&#39;s killing &lpar;Tuvan Gumrukcu/Reuters&rpar;](http://www.techmeme.com/240802/p3#a240802p3)
- - [Leak: These might be the cleanest Google Pixel 9 series renders yet](https://www.androidauthority.com/google-pixel-9-series-leaked-renders-clean-3466483/)<!-- TECH:END -->
+ - [This giant One UI 7 leak shows all the changes coming to your Samsung phone](https://www.androidauthority.com/samsung-one-ui-7-changelog-leak-3467396/)
+ - [Samsung Keyboard quietly loses key extensions, but why?](https://www.androidauthority.com/samsung-keyboard-lose-extensions-3467380/)
+ - [This company sells more phones than Google, but you’ve likely never heard of it](https://www.androidauthority.com/what-is-transsion-3466021/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
