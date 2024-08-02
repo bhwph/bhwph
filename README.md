@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold to be joined by foldable iPad in 2026](https://appleinsider.com/articles/24/08/02/iphone-fold-to-be-joined-by-foldable-ipad-in-2026?utm_medium=rss)
- - [Character.AI co-founders Noam Shazeer and Daniel De Freitas, and some employees, are joining Google; Google has signed a non-exclusive agreement to use its tech &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240802/p18#a240802p18)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [Trump says Zuckerberg called him after the assassination attempt and told Trump he wouldn&#39;t endorse a Democrat because he &quot;respected&quot; Trump&#39;s reaction that day &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240802/p22#a240802p22)
+ - [TikTok Sued by US Justice Department for Alleged Violations of Kids’ Privacy](https://www.wired.com/story/us-justice-department-sues-tiktok-kids-privacy/)
+ - [This ASUS laptop is way too good for only $220!](https://www.androidauthority.com/asus-vivobook-14-3467610/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
