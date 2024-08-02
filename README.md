@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 33 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Harrison Ford Had Fun Playing Red Hulk And ‘Being An Idiot For Money’](https://kotaku.com/captain-america-brave-new-world-harrison-ford-red-hulk-1851611735)
- - [&#39;I call it chaos at scale&#39;: For the first anniversary of Baldur&#39;s Gate 3, we spoke exclusively to Swen Vincke about the past, present and future of Larian Studios](https://www.pcgamer.com/games/baldurs-gate/i-call-it-chaos-at-scale-for-the-first-anniversary-of-baldurs-gate-3-we-spoke-exclusively-to-swen-vincke-about-the-past-present-and-future-of-larian-studios)<!-- GAME:END -->
+ - [I chose the worst four years to take a hiatus from gaming hardware because now I feel like I&#39;m being handed alien tech when confronted with a Steam Deck](https://www.pcgamer.com/hardware/i-chose-the-worst-four-years-to-take-a-hiatus-from-gaming-hardware-because-now-i-feel-like-im-being-handed-alien-tech-when-confronted-with-a-steam-deck)
+ - [GameStop Shuts Down Game Informer, The Longest-Running Gaming Magazine In The US](https://kotaku.com/game-informer-gamestop-meme-stock-gme-last-issue-1851611973)
+ - [Larian nearly made Baldur&#39;s Gate 4, it was partially playable and &#39;something that you all would have liked&#39;, but the studio didn&#39;t want to spend another 3 years on it](https://www.pcgamer.com/games/baldurs-gate/larian-nearly-made-baldurs-gate-4-it-was-partially-playable-and-something-that-you-all-would-have-liked-but-the-studio-didnt-want-to-spend-another-3-years-on-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
