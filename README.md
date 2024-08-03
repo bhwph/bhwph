@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve&#39;s former economist says Steam could produce &#39;better macroeconomic forecasts&#39; than Goldman Sachs with the power of crowdsourcing and brownie points](https://www.pcgamer.com/gaming-industry/valves-former-economist-says-steam-could-produce-better-macroeconomic-forecasts-than-goldman-sachs-with-the-power-of-crowdsourcing-and-brownie-points)
- - [Trap feels like a Shyamalan movie through and through — for better and worse](https://www.polygon.com/24212250/trap-review-shyamalan-m-night-movie-hartnett)
- - [Prison Architect 2 Delayed Indefinitely Weeks Before Launch, Pre-Orders Refunded](https://kotaku.com/prison-architect-2-delayed-canceled-pre-orders-refunded-1851612415)<!-- GAME:END -->
+ - [Dishonorable Elden Ring players bypass Shadow of the Erdtree&#39;s greatest duel without even entering the boss room](https://www.pcgamer.com/games/rpg/dishonorable-elden-ring-players-bypass-shadow-of-the-erdtrees-greatest-duel-without-even-entering-the-boss-room)
+ - [Ark 2, blink twice if you&#39;re OK: Xbox announces a playable demo of the survival crafting sequel at Gamescom and then unannounces it](https://www.pcgamer.com/games/survival-crafting/ark-2-blink-twice-if-youre-ok-xbox-announces-a-playable-demo-of-the-survival-crafting-sequel-at-gamescom-and-then-unannounces-it)
+ - [Fallen London is getting a tabletop RPG for its 15th anniversary](https://www.pcgamer.com/games/board-games/fallen-london-is-getting-a-tabletop-rpg-for-its-15th-anniversary)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
