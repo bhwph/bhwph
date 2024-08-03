@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)
- - 😝 [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)
- - 👉 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)<!-- MEMES:END -->
+ - 6️⃣ [When It&#39;s so `bad` even the actor calls you out](http://9gag.com/gag/a2vdY7p)
+ - 😝 [Aquaman, Stan Lee and Sasha Grey](http://9gag.com/gag/awy5VqW)
+ - 👉 [Maybe catwoman will be a trans?](http://9gag.com/gag/amor9Od)<!-- MEMES:END -->
 
 --- 
 
