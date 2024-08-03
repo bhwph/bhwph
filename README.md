@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, August 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-3-2024)
  - [Dishonorable Elden Ring players bypass Shadow of the Erdtree&#39;s greatest duel without even entering the boss room](https://www.pcgamer.com/games/rpg/dishonorable-elden-ring-players-bypass-shadow-of-the-erdtrees-greatest-duel-without-even-entering-the-boss-room)
- - [Ark 2, blink twice if you&#39;re OK: Xbox announces a playable demo of the survival crafting sequel at Gamescom and then unannounces it](https://www.pcgamer.com/games/survival-crafting/ark-2-blink-twice-if-youre-ok-xbox-announces-a-playable-demo-of-the-survival-crafting-sequel-at-gamescom-and-then-unannounces-it)
- - [Fallen London is getting a tabletop RPG for its 15th anniversary](https://www.pcgamer.com/games/board-games/fallen-london-is-getting-a-tabletop-rpg-for-its-15th-anniversary)<!-- GAME:END -->
+ - [Ark 2, blink twice if you&#39;re OK: Xbox announces a playable demo of the survival crafting sequel at Gamescom and then unannounces it](https://www.pcgamer.com/games/survival-crafting/ark-2-blink-twice-if-youre-ok-xbox-announces-a-playable-demo-of-the-survival-crafting-sequel-at-gamescom-and-then-unannounces-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
