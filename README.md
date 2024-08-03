@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 2025 Explorer is the first Ford to get the new Android-powered infotainment system](https://www.theverge.com/2024/8/2/24212211/ford-explorer-2025-digital-experience-android-infortainment)
- - [Sources: Meta is offering Hollywood celebrities like Judi Dench millions of dollars for the right to use their voices for AI projects; SAG-AFTRA agreed to terms &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240802/p24#a240802p24)
- - [Google Pixel Watch 3 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-watch-3-features-specs-price-3415632/)<!-- TECH:END -->
+ - [Best Sleep Trackers of 2024](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)
+ - [Best Business Laptop for 2024](https://www.cnet.com/tech/computing/best-laptop-for-business/#ftag=CAD590a51e)
+ - [Apple apologizes and pulls an ad set in Thailand after backlash from Thai lawmakers and influencers who deemed its portrayal of the country offensive &lpar;Patpicha Tanakasempipat/Bloomberg&rpar;](http://www.techmeme.com/240802/p26#a240802p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
