@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Sleep Trackers of 2024](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)
- - [Best Business Laptop for 2024](https://www.cnet.com/tech/computing/best-laptop-for-business/#ftag=CAD590a51e)
- - [Apple apologizes and pulls an ad set in Thailand after backlash from Thai lawmakers and influencers who deemed its portrayal of the country offensive &lpar;Patpicha Tanakasempipat/Bloomberg&rpar;](http://www.techmeme.com/240802/p26#a240802p26)<!-- TECH:END -->
+ - [A security researcher says 4.6M Illinois voter and election records, including Social Security Numbers, were exposed by a contractor&#39;s unsecured databases &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/240802/p27#a240802p27)
+ - [Best Mattress for Back Pain of 2024](https://www.cnet.com/health/sleep/best-mattress-for-back-pain/#ftag=CAD590a51e)
+ - [Best Streaming Device for 2024: Roku, Chromecast and More](https://www.cnet.com/tech/home-entertainment/best-streaming-device/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
