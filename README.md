@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Aquaman, Stan Lee and Sasha Grey](http://9gag.com/gag/awy5VqW)
+ - 6️⃣ [What is your secret?](http://9gag.com/gag/a7oZDy2)
  - 😝 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
- - 👉 [Is this legal](http://9gag.com/gag/a6ZMMqR)<!-- MEMES:END -->
+ - 👉 [LET&#39;S F**KING GO!](http://9gag.com/gag/azxr8Yp)<!-- MEMES:END -->
 
 --- 
 
