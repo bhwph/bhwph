@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [H E R O .....](http://9gag.com/gag/an7y1Mb)
- - 😝 [Let them fight](http://9gag.com/gag/aD2jG6d)
- - 👉 [Sometimes you must serve justice by yourself.](http://9gag.com/gag/a0eddrO)<!-- MEMES:END -->
+ - 6️⃣ [Woman randomly maces Uber driver for no reason](http://9gag.com/gag/avyrrMn)
+ - 😝 [Europe invasion](http://9gag.com/gag/an7y1dV)
+ - 👉 [The way she grabbed his hand without hesitation.](http://9gag.com/gag/aGy0xY7)<!-- MEMES:END -->
 
 --- 
 
