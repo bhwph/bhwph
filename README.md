@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, August 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-3-2024)
- - [Dishonorable Elden Ring players bypass Shadow of the Erdtree&#39;s greatest duel without even entering the boss room](https://www.pcgamer.com/games/rpg/dishonorable-elden-ring-players-bypass-shadow-of-the-erdtrees-greatest-duel-without-even-entering-the-boss-room)
- - [Ark 2, blink twice if you&#39;re OK: Xbox announces a playable demo of the survival crafting sequel at Gamescom and then unannounces it](https://www.pcgamer.com/games/survival-crafting/ark-2-blink-twice-if-youre-ok-xbox-announces-a-playable-demo-of-the-survival-crafting-sequel-at-gamescom-and-then-unannounces-it)<!-- GAME:END -->
+ - [The best movies new to streaming this August](https://www.polygon.com/what-to-watch/2024/8/3/24207097/best-new-movies-netflix-amazon-prime-max-hulu-august-2024)
+ - [All Zenless Zone Zero codes from the 1.1 livestream](https://www.pcgamer.com/games/action/zenless-zone-zero-1-1-livestream-codes)
+ - [Today&#39;s Wordle answer for Saturday, August 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-3-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
