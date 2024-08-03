@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A weak Pixel 9 processor will test Google’s commitment to Pixel 8 Feature Drops](https://www.androidauthority.com/google-tensor-g4-ai-feature-lock-3466560/)
- - [Microsoft, Alphabet, Amazon, and Meta boosted capex by 50% to a total of $106B in H1 2024, as they build AI infrastructure and pledge more investment hikes &lpar;Financial Times&rpar;](http://www.techmeme.com/240803/p6#a240803p6)
- - [Shoot Better Videos With This YouTuber&#39;s 20 Equipment Picks](https://www.cnet.com/tech/computing/im-a-pro-youtuber-heres-the-video-equipment-that-powers-my-setup/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta could show AI voiced by celebrities like Judi Dench next month](https://www.theverge.com/2024/8/3/24212580/meta-ai-voice-assistant-celebrity-voices-judi-dench-awkwafina-keegan-michael-key)
+ - [Smartphone marketing demystified: The specs that matter, those that don’t](https://www.androidauthority.com/smartphone-specs-demystified-3456898/)
+ - [How Much Will Social Security Increase in 2025? Here&#39;s What Experts Predict](https://www.cnet.com/personal-finance/social-security-cola-increase-benefits-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
