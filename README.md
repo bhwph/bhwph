@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia told Microsoft, and another large cloud provider, that its new Blackwell AI chips will be delayed by three months or more due to design flaws &lpar;The Information&rpar;](http://www.techmeme.com/240802/p28#a240802p28)
- - [Today&#39;s NYT Strands Hints, Answers and Help for August 3, #153](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-august-3-153/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for August 3, #419](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-3-419/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Huawei, which has expanded into new businesses, built out its supply chain, and boosted profit, thanks to billions of dollars in Beijing support &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240803/p3#a240803p3)
+ - [OnePlus Buds Pro 3 price leaks: Prepare for a price hike?](https://www.androidauthority.com/oneplus-buds-pro-3-price-leaks-prepare-for-a-price-hike-3467360/)
+ - [The best new streaming shows this week: Cowboy Cartel, Unstable, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
