@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Squid Game season 2: Release date, plot, and other rumors](https://www.androidauthority.com/squid-game-season-2-release-date-3467748/)
- - [The iPhone 17 series could get a big selfie camera boost](https://www.androidauthority.com/iphone-17-selfie-camera-upgrade-3467734/)
- - [Amerisleep Mattress Review: Memory Foam Feel With Multiple Firmness Options](https://www.cnet.com/health/sleep/amerisleep-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Inside the MAGA-fueled 2024 Bitcoin Conference in Nashville, as attendees were divided on Trump&#39;s keynote speech, some let down, others calling it historic &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240803/p4#a240803p4)
+ - [Olympics 100 Meters: How to Watch the Men&#39;s and Women&#39;s Sprint Finals](https://www.cnet.com/tech/services-and-software/olympics-100-meters-how-to-watch/#ftag=CAD590a51e)
+ - [The HoverAir X1 is the first drone I want to use all the time](https://www.theverge.com/24211113/hoverair-x1-review-selfie-drone-price-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
