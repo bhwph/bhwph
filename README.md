@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woman randomly maces Uber driver for no reason](http://9gag.com/gag/avyrrMn)
- - 😝 [Europe invasion](http://9gag.com/gag/an7y1dV)
- - 👉 [The way she grabbed his hand without hesitation.](http://9gag.com/gag/aGy0xY7)<!-- MEMES:END -->
+ - 6️⃣ [Sound of Mazda 787B. banned from 24 Hours of Le Mans](http://9gag.com/gag/a87ppmO)
+ - 😝 [What is your secret?](http://9gag.com/gag/a7oZDy2)
+ - 👉 [Priceless US team\u2019s reaction to Chinese winning pose](http://9gag.com/gag/aMVwQNV)<!-- MEMES:END -->
 
 --- 
 
