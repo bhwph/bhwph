@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What is your secret?](http://9gag.com/gag/a7oZDy2)
- - 😝 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)
- - 👉 [LET&#39;S F**KING GO!](http://9gag.com/gag/azxr8Yp)<!-- MEMES:END -->
+ - 6️⃣ [When u can&#39;t even focus on a simple task](http://9gag.com/gag/aNDdAb3)
+ - 😝 [LET&#39;S F**KING GO!](http://9gag.com/gag/azxr8Yp)
+ - 👉 [Sweet Dieversity](http://9gag.com/gag/aXPAxXg)<!-- MEMES:END -->
 
 --- 
 
