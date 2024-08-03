@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is this legal](http://9gag.com/gag/a6ZMMqR)
- - 😝 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
- - 👉 [Peak female performance](http://9gag.com/gag/abA6MGp)<!-- MEMES:END -->
+ - 6️⃣ [He&#39;s honest](http://9gag.com/gag/aBywxXx)
+ - 😝 [Didn&#39;t expect that](http://9gag.com/gag/aMVwjBR)
+ - 👉 [Police inspection](http://9gag.com/gag/aoy2N7w)<!-- MEMES:END -->
 
 --- 
 
