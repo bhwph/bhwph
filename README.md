@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is your NVIDIA Shield TV too slow? Try a factory reset &lpar;duh!&rpar;](https://www.androidauthority.com/nvidia-shield-tv-too-slow-factory-reset-3464630/)
- - [How to Stop Wildfire Smoke Damaging Your Health](https://www.wired.com/story/wildfire-smoke-causes-long-term-health-problems-heres-how-to-protect-yourself/)
- - [The video game industry is mourning the loss of Game Informer](https://www.theverge.com/2024/8/3/24212291/game-informer-video-game-industry-mourns)<!-- TECH:END -->
+ - [8 exercises I can’t do when I’m wearing a Galaxy or Oura Ring](https://www.androidauthority.com/8-exercises-cant-do-wearing-samsung-oura-ring-3465364/)
+ - [Has Google ruined Fitbit?](https://www.androidauthority.com/has-google-ruined-fitbit-3464543/)
+ - [Is it time for a new phone? 10 clear signs you need to upgrade](https://www.androidauthority.com/signs-you-need-to-upgrade-phone-3467182/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
