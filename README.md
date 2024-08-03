@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies new to streaming this August](https://www.polygon.com/what-to-watch/2024/8/3/24207097/best-new-movies-netflix-amazon-prime-max-hulu-august-2024)
- - [All Zenless Zone Zero codes from the 1.1 livestream](https://www.pcgamer.com/games/action/zenless-zone-zero-1-1-livestream-codes)
- - [Today&#39;s Wordle answer for Saturday, August 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-3-2024)<!-- GAME:END -->
+ - [Here’s where you can add the best TTRPGs of 2024 to your personal library](https://www.polygon.com/24208883/best-rpg-games-tabletop-ennie-awards-gen-con-2024-buy-pre-order)
+ - [Star Wars Outlaws Preview, Destiny 2&#39;s Future, And More Hot Takes](https://kotaku.com/star-wars-outlaws-preview-destiny-2s-future-and-more-1851612056)
+ - [Larian&#39;s not holding back for its next two RPGs: &#39;The machine was meant to make large games&#39;](https://www.pcgamer.com/games/baldurs-gate/larians-not-holding-back-for-its-next-two-rpgs-the-machine-was-meant-to-make-large-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
