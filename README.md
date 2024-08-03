@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 exercises I can’t do when I’m wearing a Galaxy or Oura Ring](https://www.androidauthority.com/8-exercises-cant-do-wearing-samsung-oura-ring-3465364/)
- - [Has Google ruined Fitbit?](https://www.androidauthority.com/has-google-ruined-fitbit-3464543/)
- - [Is it time for a new phone? 10 clear signs you need to upgrade](https://www.androidauthority.com/signs-you-need-to-upgrade-phone-3467182/)<!-- TECH:END -->
+ - [A weak Pixel 9 processor will test Google’s commitment to Pixel 8 Feature Drops](https://www.androidauthority.com/google-tensor-g4-ai-feature-lock-3466560/)
+ - [Microsoft, Alphabet, Amazon, and Meta boosted capex by 50% to a total of $106B in H1 2024, as they build AI infrastructure and pledge more investment hikes &lpar;Financial Times&rpar;](http://www.techmeme.com/240803/p6#a240803p6)
+ - [Shoot Better Videos With This YouTuber&#39;s 20 Equipment Picks](https://www.cnet.com/tech/computing/im-a-pro-youtuber-heres-the-video-equipment-that-powers-my-setup/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
