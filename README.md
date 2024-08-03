@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sound of Mazda 787B. banned from 24 Hours of Le Mans](http://9gag.com/gag/a87ppmO)
- - 😝 [What is your secret?](http://9gag.com/gag/a7oZDy2)
- - 👉 [Priceless US team\u2019s reaction to Chinese winning pose](http://9gag.com/gag/aMVwQNV)<!-- MEMES:END -->
+ - 6️⃣ [What is your secret?](http://9gag.com/gag/a7oZDy2)
+ - 😝 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)
+ - 👉 [Europe invasion](http://9gag.com/gag/an7y1dV)<!-- MEMES:END -->
 
 --- 
 
