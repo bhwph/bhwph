@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the MAGA-fueled 2024 Bitcoin Conference in Nashville, as attendees were divided on Trump&#39;s keynote speech, some let down, others calling it historic &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240803/p4#a240803p4)
- - [Olympics 100 Meters: How to Watch the Men&#39;s and Women&#39;s Sprint Finals](https://www.cnet.com/tech/services-and-software/olympics-100-meters-how-to-watch/#ftag=CAD590a51e)
- - [The HoverAir X1 is the first drone I want to use all the time](https://www.theverge.com/24211113/hoverair-x1-review-selfie-drone-price-specs)<!-- TECH:END -->
+ - [Is your NVIDIA Shield TV too slow? Try a factory reset &lpar;duh!&rpar;](https://www.androidauthority.com/nvidia-shield-tv-too-slow-factory-reset-3464630/)
+ - [How to Stop Wildfire Smoke Damaging Your Health](https://www.wired.com/story/wildfire-smoke-causes-long-term-health-problems-heres-how-to-protect-yourself/)
+ - [The video game industry is mourning the loss of Game Informer](https://www.theverge.com/2024/8/3/24212291/game-informer-video-game-industry-mourns)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
