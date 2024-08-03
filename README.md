@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He&#39;s honest](http://9gag.com/gag/aBywxXx)
- - 😝 [Didn&#39;t expect that](http://9gag.com/gag/aMVwjBR)
- - 👉 [Police inspection](http://9gag.com/gag/aoy2N7w)<!-- MEMES:END -->
+ - 6️⃣ [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
+ - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
+ - 👉 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)<!-- MEMES:END -->
 
 --- 
 
