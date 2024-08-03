@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ex husband throws red liquid on his ex wife and new man, causing a fire](http://9gag.com/gag/an7yjBb)
- - 😝 [Winter sports](http://9gag.com/gag/ayNLDOy)
- - 👉 [Salute to our fallen brother](http://9gag.com/gag/agmqvpW)<!-- MEMES:END -->
+ - 6️⃣ [H E R O .....](http://9gag.com/gag/an7y1Mb)
+ - 😝 [Let them fight](http://9gag.com/gag/aD2jG6d)
+ - 👉 [Sometimes you must serve justice by yourself.](http://9gag.com/gag/a0eddrO)<!-- MEMES:END -->
 
 --- 
 
