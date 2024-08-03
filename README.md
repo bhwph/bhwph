@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta could show AI voiced by celebrities like Judi Dench next month](https://www.theverge.com/2024/8/3/24212580/meta-ai-voice-assistant-celebrity-voices-judi-dench-awkwafina-keegan-michael-key)
- - [Smartphone marketing demystified: The specs that matter, those that don’t](https://www.androidauthority.com/smartphone-specs-demystified-3456898/)
- - [How Much Will Social Security Increase in 2025? Here&#39;s What Experts Predict](https://www.cnet.com/personal-finance/social-security-cola-increase-benefits-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EcoFlow’s Power Hat is a floppy, phone-charging solar panel for your noggin](https://www.theverge.com/2024/8/3/24212686/ecoflow-power-hat-solar-powered-hat-usb-c-charger-smartphone)
+ - [Reimagine Your Sleep Quality With These 9 Yoga Poses](https://www.cnet.com/health/sleep/reimagine-your-sleep-quality-with-these-9-yoga-poses/#ftag=CAD590a51e)
+ - [A look at Bungie&#39;s future after it laid off 220 staffers, as current and former employees say it grew too fast and tried to develop too many projects at once &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240803/p8#a240803p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
