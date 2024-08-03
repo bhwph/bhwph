@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Huawei, which has expanded into new businesses, built out its supply chain, and boosted profit, thanks to billions of dollars in Beijing support &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240803/p3#a240803p3)
- - [OnePlus Buds Pro 3 price leaks: Prepare for a price hike?](https://www.androidauthority.com/oneplus-buds-pro-3-price-leaks-prepare-for-a-price-hike-3467360/)
- - [The best new streaming shows this week: Cowboy Cartel, Unstable, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)<!-- TECH:END -->
+ - [Squid Game season 2: Release date, plot, and other rumors](https://www.androidauthority.com/squid-game-season-2-release-date-3467748/)
+ - [The iPhone 17 series could get a big selfie camera boost](https://www.androidauthority.com/iphone-17-selfie-camera-upgrade-3467734/)
+ - [Amerisleep Mattress Review: Memory Foam Feel With Multiple Firmness Options](https://www.cnet.com/health/sleep/amerisleep-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
