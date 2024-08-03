@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EcoFlow’s Power Hat is a floppy, phone-charging solar panel for your noggin](https://www.theverge.com/2024/8/3/24212686/ecoflow-power-hat-solar-powered-hat-usb-c-charger-smartphone)
- - [Reimagine Your Sleep Quality With These 9 Yoga Poses](https://www.cnet.com/health/sleep/reimagine-your-sleep-quality-with-these-9-yoga-poses/#ftag=CAD590a51e)
- - [A look at Bungie&#39;s future after it laid off 220 staffers, as current and former employees say it grew too fast and tried to develop too many projects at once &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240803/p8#a240803p8)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip6 review: all-day battery, seven years of updates, and widgets for the outer screen are helpful but hard to run full apps &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240803/p9#a240803p9)
+ - [Quick Cleaning Tips to Make Your AC Unit Run Like New](https://www.cnet.com/home/kitchen-and-household/how-to-clean-your-air-conditioner/#ftag=CAD590a51e)
+ - [Get 4 Apple AirTags for just $75.99 at Amazon](https://appleinsider.com/articles/24/08/03/get-4-apple-airtags-for-just-7599-at-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
