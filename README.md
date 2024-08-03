@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When u can&#39;t even focus on a simple task](http://9gag.com/gag/aNDdAb3)
- - 😝 [LET&#39;S F**KING GO!](http://9gag.com/gag/azxr8Yp)
- - 👉 [Sweet Dieversity](http://9gag.com/gag/aXPAxXg)<!-- MEMES:END -->
+ - 6️⃣ [Is this legal](http://9gag.com/gag/a6ZMMqR)
+ - 😝 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
+ - 👉 [Peak female performance](http://9gag.com/gag/abA6MGp)<!-- MEMES:END -->
 
 --- 
 
