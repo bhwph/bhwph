@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zenless Zone Zero 1.1 livestream codes](https://www.polygon.com/zenless-zone-zero-guides/2024/8/3/24211901/1-1-livestream-code-redeem)
- - [Here’s where you can add the best TTRPGs of 2024 to your personal library](https://www.polygon.com/24208883/best-rpg-games-tabletop-ennie-awards-gen-con-2024-buy-pre-order)
- - [Star Wars Outlaws Preview, Destiny 2&#39;s Future, And More Hot Takes](https://kotaku.com/star-wars-outlaws-preview-destiny-2s-future-and-more-1851612056)<!-- GAME:END -->
+ - [Mega streamer Kai Cenat is streaming Bloodborne to call attention to fan demand for a PC port: &#39;PlayStation, FromSoft, this is one of the most highly requested games for a remaster and a PC version&#39;](https://www.pcgamer.com/games/rpg/mega-streamer-kai-cenat-is-streaming-bloodborne-to-call-attention-to-fan-demand-for-a-pc-port-playstation-fromsoft-this-is-one-of-the-most-highly-requested-games-for-a-remaster-and-a-pc-version)
+ - [After an uneven first episode, battlemage boomer shooter Wizordum sticks the landing in its second wave of levels](https://www.pcgamer.com/games/fps/after-an-uneven-first-episode-battlemage-boomer-shooter-wizordum-sticks-the-landing-in-its-second-wave-of-levels)
+ - [To celebrate Baldur&#39;s Gate 3&#39;s first birthday, Larian announces a &#39;Channel From Hell&#39; on YouTube for &#39;community-focused&#39; and &#39;never-before-seen&#39; videos](https://www.pcgamer.com/games/baldurs-gate/to-celebrate-baldurs-gate-3s-first-birthday-larian-announces-a-channel-from-hell-on-youtube-for-community-focused-and-never-before-seen-videos)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
