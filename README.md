@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When It&#39;s so `bad` even the actor calls you out](http://9gag.com/gag/a2vdY7p)
- - 😝 [Aquaman, Stan Lee and Sasha Grey](http://9gag.com/gag/awy5VqW)
- - 👉 [Maybe catwoman will be a trans?](http://9gag.com/gag/amor9Od)<!-- MEMES:END -->
+ - 6️⃣ [Ex husband throws red liquid on his ex wife and new man, causing a fire](http://9gag.com/gag/an7yjBb)
+ - 😝 [Winter sports](http://9gag.com/gag/ayNLDOy)
+ - 👉 [Salute to our fallen brother](http://9gag.com/gag/agmqvpW)<!-- MEMES:END -->
 
 --- 
 
