@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
- - 😝 [UK politics right now](http://9gag.com/gag/amor2e6)
- - 👉 [True](http://9gag.com/gag/aXPAvQ9)<!-- MEMES:END -->
+ - 6️⃣ [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
+ - 😝 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)
+ - 👉 [Aquaman, Stan Lee and Sasha Grey](http://9gag.com/gag/awy5VqW)<!-- MEMES:END -->
 
 --- 
 
