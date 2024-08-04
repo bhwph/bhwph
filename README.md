@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
- - 😝 [Dad walks in on daughter twerking to cousin](http://9gag.com/gag/aLnMgEP)
- - 👉 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)<!-- MEMES:END -->
+ - 6️⃣ [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
+ - 😝 [This](http://9gag.com/gag/aVvDMrO)
+ - 👉 [UK politics right now](http://9gag.com/gag/amor2e6)<!-- MEMES:END -->
 
 --- 
 
