@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI summaries in Apple Mail put Gmail to absolute shame](https://www.androidauthority.com/ai-summaries-apple-mail-feature-3466934/)
- - [Roku Pro Series TV Review: Bright and Easy to Use](https://www.wired.com/review/roku-pro-series-4k/)
- - [How to find your oldest social media posts and delete them](https://www.theverge.com/24212111/social-media-twitter-facebook-instagram-how-to)<!-- TECH:END -->
+ - [The first-gen OnePlus Pad is selling for a new low of $379.99](https://www.theverge.com/2024/8/4/24211817/oneplus-pad-android-tablet-xbox-game-pass-ultimate-deal-sale)
+ - [The plastic Apple Watch SE could be for kids, and that’s actually exciting](https://www.theverge.com/2024/8/4/24213086/plastic-apple-watch-se-3rd-generation-colors-kid-friendly)
+ - [An investigation finds an active trade in Nvidia chips in China despite US restrictions; some Chinese orgs with state military ties have bought restricted chips &lpar;New York Times&rpar;](http://www.techmeme.com/240804/p5#a240804p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
