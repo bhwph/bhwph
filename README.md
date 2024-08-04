@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first-gen OnePlus Pad is selling for a new low of $379.99](https://www.theverge.com/2024/8/4/24211817/oneplus-pad-android-tablet-xbox-game-pass-ultimate-deal-sale)
- - [The plastic Apple Watch SE could be for kids, and that’s actually exciting](https://www.theverge.com/2024/8/4/24213086/plastic-apple-watch-se-3rd-generation-colors-kid-friendly)
- - [An investigation finds an active trade in Nvidia chips in China despite US restrictions; some Chinese orgs with state military ties have bought restricted chips &lpar;New York Times&rpar;](http://www.techmeme.com/240804/p5#a240804p5)<!-- TECH:END -->
+ - [A look at the flurry of so-called Zoom rallies supporting the campaign to elect Kamala Harris; one Zoom call reportedly attracted 190K people and raised $4M &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240804/p6#a240804p6)
+ - [How to Quickly Charge Your iPhone and Get to 100% Faster](https://www.cnet.com/tech/mobile/how-to-charge-iphone-faster/#ftag=CAD590a51e)
+ - [Best Streaming Services for Documentaries](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-documentaries/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
