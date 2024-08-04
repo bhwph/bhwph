@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Every banned Pokémon episode and why they were pulled from TV](https://www.polygon.com/anime/24209763/every-banned-pokemon-episode)
  - [Baldur&#39;s Gate 3 was so big that Larian has developed a &#39;Simpsons did it&#39; problem: &#39;Whenever we&#39;re talking about things, we say we did that in BG3&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-was-so-big-that-larian-has-developed-a-simpsons-did-it-problem-whenever-were-talking-about-things-we-say-we-did-that-in-bg3)
- - [August Game Releases, Elden Ring Help, And More Tips](https://kotaku.com/august-game-releases-elden-ring-help-and-more-tips-1851612055)
- - [Crafting in crafting games may suck, but it seems surprisingly decent in the updated rules for Dungeons &amp; Dragons of all things](https://www.pcgamer.com/games/rpg/crafting-in-crafting-games-may-suck-but-it-seems-surprisingly-decent-in-the-updated-rules-for-dungeons-and-dragons-of-all-things)<!-- GAME:END -->
+ - [August Game Releases, Elden Ring Help, And More Tips](https://kotaku.com/august-game-releases-elden-ring-help-and-more-tips-1851612055)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
