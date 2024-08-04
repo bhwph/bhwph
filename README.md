@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Crafting in crafting games may suck, but it seems surprisingly decent in the updated rules for Dungeons &amp; Dragons of all things](https://www.pcgamer.com/games/rpg/crafting-in-crafting-games-may-suck-but-it-seems-surprisingly-decent-in-the-updated-rules-for-dungeons-and-dragons-of-all-things)
  - [Elden Ring&#39;s latest patch tried to sneak a big &#39;ole chair into a boss arena like we wouldn&#39;t notice and immediately ponder the lore implications](https://www.pcgamer.com/games/rpg/elden-rings-latest-patch-tried-to-sneak-a-big-ole-chair-into-boss-arena-like-we-wouldnt-notice-and-immediately-ponder-the-lore-implications)
- - [Today&#39;s Wordle answer for Sunday, August 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-4-2024)
- - [Don&#39;t expect Dragon Age: The Veilguard before October at the absolute earliest](https://www.pcgamer.com/games/rpg/dont-expect-dragon-age-the-veilguard-before-october-at-the-absolute-earliest)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, August 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-4-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
