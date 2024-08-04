@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T9 Dialing Lands on Your iPhone With the iOS 18 Betas](https://www.cnet.com/tech/services-and-software/t9-dialing-lands-on-your-iphone-with-the-ios-18-betas/#ftag=CAD590a51e)
- - [See the Perseids and Southern Delta Aquariids in a Stunning Double Meteor Shower](https://www.wired.com/story/see-the-perseids-and-southern-delta-aquariids-in-a-stunning-double-meteor-shower/)
- - [Best T-Mobile Phones for 2024](https://www.cnet.com/tech/mobile/best-t-mobile-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why iOS 18&#39;s Newest Messaging Features Have Me Hooked](https://www.cnet.com/tech/services-and-software/why-ios-18s-newest-messaging-features-have-me-hooked/#ftag=CAD590a51e)
+ - [9 Best Action Cameras &lpar;2024&rpar;: Underwater, 360, Compact, and More](https://www.wired.com/gallery/best-action-cameras/)
+ - [Best Multidevice VPNs](https://www.cnet.com/tech/services-and-software/best-multi-device-vpns/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
