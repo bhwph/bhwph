@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crafting in crafting games may suck, but it seems surprisingly decent in the updated rules for Dungeons &amp; Dragons of all things](https://www.pcgamer.com/games/rpg/crafting-in-crafting-games-may-suck-but-it-seems-surprisingly-decent-in-the-updated-rules-for-dungeons-and-dragons-of-all-things)
- - [Elden Ring&#39;s latest patch tried to sneak a big &#39;ole chair into a boss arena like we wouldn&#39;t notice and immediately ponder the lore implications](https://www.pcgamer.com/games/rpg/elden-rings-latest-patch-tried-to-sneak-a-big-ole-chair-into-boss-arena-like-we-wouldnt-notice-and-immediately-ponder-the-lore-implications)
- - [Today&#39;s Wordle answer for Sunday, August 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-4-2024)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 was so big that Larian has developed a &#39;Simpsons did it&#39; problem: &#39;Whenever we&#39;re talking about things, we say we did that in BG3&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-was-so-big-that-larian-has-developed-a-simpsons-did-it-problem-whenever-were-talking-about-things-we-say-we-did-that-in-bg3)
+ - [August Game Releases, Elden Ring Help, And More Tips](https://kotaku.com/august-game-releases-elden-ring-help-and-more-tips-1851612055)
+ - [Crafting in crafting games may suck, but it seems surprisingly decent in the updated rules for Dungeons &amp; Dragons of all things](https://www.pcgamer.com/games/rpg/crafting-in-crafting-games-may-suck-but-it-seems-surprisingly-decent-in-the-updated-rules-for-dungeons-and-dragons-of-all-things)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
