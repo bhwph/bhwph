@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
- - 😝 [This](http://9gag.com/gag/aVvDMrO)
- - 👉 [UK politics right now](http://9gag.com/gag/amor2e6)<!-- MEMES:END -->
+ - 😝 [UK politics right now](http://9gag.com/gag/amor2e6)
+ - 👉 [True](http://9gag.com/gag/aXPAvQ9)<!-- MEMES:END -->
 
 --- 
 
