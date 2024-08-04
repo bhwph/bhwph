@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My fellow coomer... I keep bust the nuts on this...](http://9gag.com/gag/aLnMjd5)
- - 😝 [The One piece here I come](http://9gag.com/gag/aByw0bP)
- - 👉 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)<!-- MEMES:END -->
+ - 6️⃣ [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)
+ - 😝 [Indeed.](http://9gag.com/gag/aD2j1Xd)
+ - 👉 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)<!-- MEMES:END -->
 
 --- 
 
