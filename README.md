@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)
- - 😝 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
- - 👉 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)<!-- MEMES:END -->
+ - 6️⃣ [LET&#39;S F**KING GO!](http://9gag.com/gag/azxr8Yp)
+ - 😝 [Spoiler alert!](http://9gag.com/gag/aGy0eE5)
+ - 👉 [I Dunno](http://9gag.com/gag/amorY5X)<!-- MEMES:END -->
 
 --- 
 
