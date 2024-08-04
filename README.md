@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Breville Oracle Jet is a $2,000 computer that also makes coffee](https://www.theverge.com/24211592/breville-oracle-jet-espresso-machine-review)
- - [Apple Intelligence rollout timetable won&#39;t delay iPhone 16](https://appleinsider.com/articles/24/08/04/apple-intelligence-rollout-timetable-wont-delay-iphone-16?utm_medium=rss)
- - [Two years on, the Pixel Buds Pro have aged like fine wine](https://www.androidauthority.com/pixel-buds-pro-two-years-updates-3465178/)<!-- TECH:END -->
+ - [AI summaries in Apple Mail put Gmail to absolute shame](https://www.androidauthority.com/ai-summaries-apple-mail-feature-3466934/)
+ - [Roku Pro Series TV Review: Bright and Easy to Use](https://www.wired.com/review/roku-pro-series-4k/)
+ - [How to find your oldest social media posts and delete them](https://www.theverge.com/24212111/social-media-twitter-facebook-instagram-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
