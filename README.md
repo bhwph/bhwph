@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Don&#39;t expect Dragon Age: The Veilguard before October at the absolute earliest](https://www.pcgamer.com/games/rpg/dont-expect-dragon-age-the-veilguard-before-october-at-the-absolute-earliest)
  - [Mega streamer Kai Cenat is streaming Bloodborne to call attention to fan demand for a PC port: &#39;PlayStation, FromSoft, this is one of the most highly requested games for a remaster and a PC version&#39;](https://www.pcgamer.com/games/rpg/mega-streamer-kai-cenat-is-streaming-bloodborne-to-call-attention-to-fan-demand-for-a-pc-port-playstation-fromsoft-this-is-one-of-the-most-highly-requested-games-for-a-remaster-and-a-pc-version)
- - [After an uneven first episode, battlemage boomer shooter Wizordum sticks the landing in its second wave of levels](https://www.pcgamer.com/games/fps/after-an-uneven-first-episode-battlemage-boomer-shooter-wizordum-sticks-the-landing-in-its-second-wave-of-levels)
- - [To celebrate Baldur&#39;s Gate 3&#39;s first birthday, Larian announces a &#39;Channel From Hell&#39; on YouTube for &#39;community-focused&#39; and &#39;never-before-seen&#39; videos](https://www.pcgamer.com/games/baldurs-gate/to-celebrate-baldurs-gate-3s-first-birthday-larian-announces-a-channel-from-hell-on-youtube-for-community-focused-and-never-before-seen-videos)<!-- GAME:END -->
+ - [After an uneven first episode, battlemage boomer shooter Wizordum sticks the landing in its second wave of levels](https://www.pcgamer.com/games/fps/after-an-uneven-first-episode-battlemage-boomer-shooter-wizordum-sticks-the-landing-in-its-second-wave-of-levels)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
