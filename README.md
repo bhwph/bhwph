@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t expect Dragon Age: The Veilguard before October at the absolute earliest](https://www.pcgamer.com/games/rpg/dont-expect-dragon-age-the-veilguard-before-october-at-the-absolute-earliest)
- - [Mega streamer Kai Cenat is streaming Bloodborne to call attention to fan demand for a PC port: &#39;PlayStation, FromSoft, this is one of the most highly requested games for a remaster and a PC version&#39;](https://www.pcgamer.com/games/rpg/mega-streamer-kai-cenat-is-streaming-bloodborne-to-call-attention-to-fan-demand-for-a-pc-port-playstation-fromsoft-this-is-one-of-the-most-highly-requested-games-for-a-remaster-and-a-pc-version)
- - [After an uneven first episode, battlemage boomer shooter Wizordum sticks the landing in its second wave of levels](https://www.pcgamer.com/games/fps/after-an-uneven-first-episode-battlemage-boomer-shooter-wizordum-sticks-the-landing-in-its-second-wave-of-levels)<!-- GAME:END -->
+ - [Elden Ring&#39;s latest patch tried to sneak a big &#39;ole chair into a boss arena like we wouldn&#39;t notice and immediately ponder the lore implications](https://www.pcgamer.com/games/rpg/elden-rings-latest-patch-tried-to-sneak-a-big-ole-chair-into-boss-arena-like-we-wouldnt-notice-and-immediately-ponder-the-lore-implications)
+ - [Today&#39;s Wordle answer for Sunday, August 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-4-2024)
+ - [Don&#39;t expect Dragon Age: The Veilguard before October at the absolute earliest](https://www.pcgamer.com/games/rpg/dont-expect-dragon-age-the-veilguard-before-october-at-the-absolute-earliest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
