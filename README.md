@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wtf is going on](http://9gag.com/gag/aVvD3w8)
+ - 6️⃣ [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)
  - 😝 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
- - 👉 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)<!-- MEMES:END -->
+ - 👉 [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)<!-- MEMES:END -->
 
 --- 
 
