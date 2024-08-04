@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A pivotal online hub for ROM hacks goes news-only after two decades](https://www.theverge.com/2024/8/3/24212750/romhacking-net-shuts-down-emulation-roms-classic-gaming)
- - [How YouTube, NBC, Eurosport, and others are enlisting creators to cover the Paris Olympics, to fill in storytelling gaps and captivate a younger generation &lpar;Josh Noble/Financial Times&rpar;](http://www.techmeme.com/240803/p10#a240803p10)
- - [How to Keep Your Home Cool in a Heat Wave](https://www.cnet.com/home/security/keep-home-cool-heat-wave-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Chrome warns uBlock Origin may soon be disabled and tells users to switch to other ad blockers before deprecation of Manifest V2 extensions &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240803/p11#a240803p11)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 4, #154](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-august-4-154/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 4, #420](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-4-420/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
