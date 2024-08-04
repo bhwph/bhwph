@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: JD.com founder and chair Richard Liu has been quietly leading the company from overseas, primarily in London, despite stepping down as the CEO in 2022 &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240804/p1#a240804p1)
- - [New leak suggests Apple could launch two &lpar;!&rpar; foldables in 2026](https://www.androidauthority.com/apple-two-foldables-2026-3467724/)
- - [Google Chrome warns uBlock Origin may soon be disabled and tells users to switch to other ad blockers before deprecation of Manifest V2 extensions &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240803/p11#a240803p11)<!-- TECH:END -->
+ - [The 3 Best Espresso Machines of 2024](https://www.cnet.com/home/kitchen-and-household/best-espresso-machine/#ftag=CAD590a51e)
+ - [3 Best Stainless Steel Frying Pans in 2024](https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CAD590a51e)
+ - [Sources: JD.com founder and chair Richard Liu has been quietly leading the company from overseas, primarily in London, despite stepping down as the CEO in 2022 &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240804/p1#a240804p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
