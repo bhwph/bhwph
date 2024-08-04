@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The One piece here I come](http://9gag.com/gag/aByw0bP)
- - 😝 [LET&#39;S F**KING GO!](http://9gag.com/gag/azxr8Yp)
- - 👉 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)<!-- MEMES:END -->
+ - 6️⃣ [Wtf is going on](http://9gag.com/gag/aVvD3w8)
+ - 😝 [To reach the rings without help](http://9gag.com/gag/a6ZMNNe)
+ - 👉 [Last night after the freed Americans left the plane, Biden himself for some reason randomly entered the empty plane...](http://9gag.com/gag/agmqLnK)<!-- MEMES:END -->
 
 --- 
 
