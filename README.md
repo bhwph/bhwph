@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every banned Pokémon episode and why they were pulled from TV](https://www.polygon.com/anime/24209763/every-banned-pokemon-episode)
- - [Baldur&#39;s Gate 3 was so big that Larian has developed a &#39;Simpsons did it&#39; problem: &#39;Whenever we&#39;re talking about things, we say we did that in BG3&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-was-so-big-that-larian-has-developed-a-simpsons-did-it-problem-whenever-were-talking-about-things-we-say-we-did-that-in-bg3)
- - [August Game Releases, Elden Ring Help, And More Tips](https://kotaku.com/august-game-releases-elden-ring-help-and-more-tips-1851612055)<!-- GAME:END -->
+ - [House of the Dragon star Kieran Bew wanted to look like his dragon](https://www.polygon.com/24212224/house-dragon-hugh-hammer-vermithor-interview-episode)
+ - [What time does Diablo 4 season 5 start?](https://www.polygon.com/diablo-4-guides/24211784/season-5-release-time-date)
+ - [Every banned Pokémon episode and why they were pulled from TV](https://www.polygon.com/anime/24209763/every-banned-pokemon-episode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
