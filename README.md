@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I Dunno](http://9gag.com/gag/amorY5X)
- - 😝 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)
- - 👉 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)<!-- MEMES:END -->
+ - 6️⃣ [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
+ - 😝 [Win for Spain](http://9gag.com/gag/axyg7oW)
+ - 👉 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)<!-- MEMES:END -->
 
 --- 
 
