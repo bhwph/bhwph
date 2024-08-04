@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jamaicans can jump](http://9gag.com/gag/aZZBgMX)
- - 😝 [You guys are disgusting!](http://9gag.com/gag/a5QZZNV)
- - 👉 [Aquaman, Stan Lee and Sasha Grey](http://9gag.com/gag/awy5VqW)<!-- MEMES:END -->
+ - 6️⃣ [The One piece here I come](http://9gag.com/gag/aByw0bP)
+ - 😝 [LET&#39;S F**KING GO!](http://9gag.com/gag/azxr8Yp)
+ - 👉 [Trump Shooter\u2019s father breaks his silence](http://9gag.com/gag/a1mdKbw)<!-- MEMES:END -->
 
 --- 
 
