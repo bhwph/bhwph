@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why iOS 18&#39;s Newest Messaging Features Have Me Hooked](https://www.cnet.com/tech/services-and-software/why-ios-18s-newest-messaging-features-have-me-hooked/#ftag=CAD590a51e)
- - [9 Best Action Cameras &lpar;2024&rpar;: Underwater, 360, Compact, and More](https://www.wired.com/gallery/best-action-cameras/)
- - [Best Multidevice VPNs](https://www.cnet.com/tech/services-and-software/best-multi-device-vpns/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Breville Oracle Jet is a $2,000 computer that also makes coffee](https://www.theverge.com/24211592/breville-oracle-jet-espresso-machine-review)
+ - [Apple Intelligence rollout timetable won&#39;t delay iPhone 16](https://appleinsider.com/articles/24/08/04/apple-intelligence-rollout-timetable-wont-delay-iphone-16?utm_medium=rss)
+ - [Two years on, the Pixel Buds Pro have aged like fine wine](https://www.androidauthority.com/pixel-buds-pro-two-years-updates-3465178/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
