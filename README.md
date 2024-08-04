@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 3 Best Espresso Machines of 2024](https://www.cnet.com/home/kitchen-and-household/best-espresso-machine/#ftag=CAD590a51e)
- - [3 Best Stainless Steel Frying Pans in 2024](https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CAD590a51e)
- - [Sources: JD.com founder and chair Richard Liu has been quietly leading the company from overseas, primarily in London, despite stepping down as the CEO in 2022 &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240804/p1#a240804p1)<!-- TECH:END -->
+ - [T9 Dialing Lands on Your iPhone With the iOS 18 Betas](https://www.cnet.com/tech/services-and-software/t9-dialing-lands-on-your-iphone-with-the-ios-18-betas/#ftag=CAD590a51e)
+ - [See the Perseids and Southern Delta Aquariids in a Stunning Double Meteor Shower](https://www.wired.com/story/see-the-perseids-and-southern-delta-aquariids-in-a-stunning-double-meteor-shower/)
+ - [Best T-Mobile Phones for 2024](https://www.cnet.com/tech/mobile/best-t-mobile-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
