@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait, Whaaaat?!](http://9gag.com/gag/a7oZEWb)
- - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - 👉 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)<!-- MEMES:END -->
+ - 6️⃣ [Never thought that&#39;d work](http://9gag.com/gag/a2vdRyY)
+ - 😝 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)
+ - 👉 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)<!-- MEMES:END -->
 
 --- 
 
