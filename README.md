@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Limited sets of collectible cards inspired by D&amp;D are coming to Magic: The Gathering](https://www.polygon.com/24212178/magic-the-gathering-dungeons-and-dragons-secret-lair-where-to-buy)
- - [Destiny 2’s Planetary Piston Hammer Is A Great Way To Snag Better Loot](https://kotaku.com/destiny-2-echoes-planetary-piston-hammers-1851613479)
- - [Zelda: Tears of the Kingdom players find complicated glitch that ends with an unbreakable Master Sword](https://www.polygon.com/legend-zelda-tears-kingdom/24213767/zelda-tears-kingdom-unbreakable-master-sword-glitch)<!-- GAME:END -->
+ - [&#39;Our 33-year legacy deserves a genuine goodbye&#39;: Game Informer staff tweets one last goodbye after all of their work was deleted, then GameStop nukes the account from orbit](https://www.pcgamer.com/gaming-industry/our-33-year-legacy-deserves-a-genuine-goodbye-game-informer-staff-tweets-one-last-goodbye-after-all-of-their-work-was-deleted-then-gamestop-nukes-the-account-from-orbit)
+ - [All the House of the Dragon season 3 news we’ve heard so far](https://www.polygon.com/24212021/house-of-the-dragon-season-3-release-date-cast-news)
+ - [The House of the Dragon season 2 finale is Westeros at its best and worst](https://www.polygon.com/24213814/house-dragon-season-2-finale-review-episode-8)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
