@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
- - 😝 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
- - 👉 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)<!-- MEMES:END -->
+ - 6️⃣ [The dildo of consequences rarely arrives lubed](http://9gag.com/gag/abA6MAL)
+ - 😝 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
+ - 👉 [My fellow coomer... I keep bust the nuts on this...](http://9gag.com/gag/aLnMjd5)<!-- MEMES:END -->
 
 --- 
 
