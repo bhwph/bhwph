@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never thought that&#39;d work](http://9gag.com/gag/a2vdRyY)
- - 😝 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)
- - 👉 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)<!-- MEMES:END -->
+ - 6️⃣ [A giant play button in the middle of London.](http://9gag.com/gag/a347RnN)
+ - 😝 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
+ - 👉 [The flashlight in the daytime](http://9gag.com/gag/amorvXo)<!-- MEMES:END -->
 
 --- 
 
