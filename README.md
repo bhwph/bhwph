@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk says his brainchip patients will soon &#39;outperform a pro gamer&#39;, then takes a big old puff and says &#39;let’s give people superpowers&#39;](https://www.pcgamer.com/gaming-industry/elon-musk-says-his-brainchip-patients-will-soon-outperform-a-pro-gamer-then-takes-a-big-old-puff-and-says-lets-give-people-superpowers)
- - [Microsoft, Meta and more might have to wait for their shiny new AI hardware as Nvidia&#39;s Blackwell server GPUs are reportedly delayed](https://www.pcgamer.com/hardware/graphics-cards/microsoft-meta-and-more-might-have-to-wait-for-their-shiny-new-ai-hardware-as-nvidias-blackwell-server-gpus-are-reportedly-delayed)
- - [New Zelda: Echoes of Wisdom trailer reveals the cutest dang horses](https://www.polygon.com/24213605/legend-of-zelda-echoes-of-wisdom-abilities-horse)<!-- GAME:END -->
+ - [The performer for Baldur&#39;s Gate 3&#39;s smooth-talking devil, Raphael, thought the RPG was a musical](https://www.pcgamer.com/games/baldurs-gate/the-performer-for-baldurs-gate-3s-smooth-talking-devil-raphael-thought-the-rpg-was-a-musical)
+ - [The Legend of Zelda: Echoes of Wisdom is full of references to other Zelda games](https://www.polygon.com/zelda/24213626/legend-of-zelda-echoes-of-wisdom-references-other-zelda-games)
+ - [Humble Bundle’s latest deal offers 90% off digital board game essentials](https://www.polygon.com/24213616/digital-board-games-humble-bundle-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
