@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Our 33-year legacy deserves a genuine goodbye&#39;: Game Informer staff tweets one last goodbye after all of their work was deleted, then GameStop nukes the account from orbit](https://www.pcgamer.com/gaming-industry/our-33-year-legacy-deserves-a-genuine-goodbye-game-informer-staff-tweets-one-last-goodbye-after-all-of-their-work-was-deleted-then-gamestop-nukes-the-account-from-orbit)
- - [All the House of the Dragon season 3 news we’ve heard so far](https://www.polygon.com/24212021/house-of-the-dragon-season-3-release-date-cast-news)
- - [The House of the Dragon season 2 finale is Westeros at its best and worst](https://www.polygon.com/24213814/house-dragon-season-2-finale-review-episode-8)<!-- GAME:END -->
+ - [Nightingale devs say they&#39;re &#39;not satisfied&#39; with the game, its reception, or its player numbers, but they&#39;ve got big improvements coming](https://www.pcgamer.com/games/survival-crafting/nightingale-devs-say-theyre-not-satisfied-with-the-game-its-reception-or-its-player-numbers-but-theyve-got-big-improvements-coming)
+ - [Gen Con’s 3-hour D&amp;D actual play is now on YouTube](https://www.polygon.com/24213975/dnd-dungeons-dragons-gen-con-2024-actual-play-brennan-aabria-astarion-karlach-anjali-bhimani)
+ - [How To Get Union Power Armor In Fallout 76](https://kotaku.com/fallout-76-union-power-armor-expedition-the-pitt-1851613655)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
