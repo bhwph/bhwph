@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [LOL](http://9gag.com/gag/aPAM7Vw)
  - 😝 [A voice that can make eargasm? No, its the drum](http://9gag.com/gag/aBywgV2)
- - 👉 [Powerful](http://9gag.com/gag/aoy2MAe)<!-- MEMES:END -->
+ - 👉 [New GTA 6](http://9gag.com/gag/ayNLeM8)<!-- MEMES:END -->
 
 --- 
 
