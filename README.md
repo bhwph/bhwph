@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fast Pair will make it easier to connect Bluetooth keyboards to your Chromebook or Android tablet](https://www.androidauthority.com/fast-pair-bluetooth-keyboards-chromebook-android-3467596/)
- - [A look at Operation Intering, an FBI-led sabotage campaign in the 1980s to secretly ship millions worth of faulty chips to the Soviet Bloc &lpar;Zach Dorfman/Politico&rpar;](http://www.techmeme.com/240805/p1#a240805p1)
- - [Today&#39;s NYT Mini Crossword Answers for Aug. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CrowdStrike says Delta CEO Ed Bastian failed to respond to an assistance offer from CEO George Kurtz; CrowdStrike hopes Delta will &quot;agree to work cooperatively&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240805/p5#a240805p5)
+ - [JLab Hear OTC Hearing Aid Review: Super Affordable](https://www.wired.com/review/jlab-hear-otc-hearing-aid/)
+ - [Elon Musk says Neuralink has implanted its device in a second trial patient, who had a spinal cord injury, and 400 of the implant&#39;s 1,024 electrodes are working &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/240805/p4#a240805p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
