@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The performer for Baldur&#39;s Gate 3&#39;s smooth-talking devil, Raphael, thought the RPG was a musical](https://www.pcgamer.com/games/baldurs-gate/the-performer-for-baldurs-gate-3s-smooth-talking-devil-raphael-thought-the-rpg-was-a-musical)
- - [The Legend of Zelda: Echoes of Wisdom is full of references to other Zelda games](https://www.polygon.com/zelda/24213626/legend-of-zelda-echoes-of-wisdom-references-other-zelda-games)
- - [Humble Bundle’s latest deal offers 90% off digital board game essentials](https://www.polygon.com/24213616/digital-board-games-humble-bundle-sale)<!-- GAME:END -->
+ - [Limited sets of collectible cards inspired by D&amp;D are coming to Magic: The Gathering](https://www.polygon.com/24212178/magic-the-gathering-dungeons-and-dragons-secret-lair-where-to-buy)
+ - [Destiny 2’s Planetary Piston Hammer Is A Great Way To Snag Better Loot](https://kotaku.com/destiny-2-echoes-planetary-piston-hammers-1851613479)
+ - [Zelda: Tears of the Kingdom players find complicated glitch that ends with an unbreakable Master Sword](https://www.polygon.com/legend-zelda-tears-kingdom/24213767/zelda-tears-kingdom-unbreakable-master-sword-glitch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
