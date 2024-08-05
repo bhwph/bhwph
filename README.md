@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cygni: All Guns Blazing](https://www.pcgamer.com/games/action/cygni-all-guns-blazing)
- - [Kick back by the pool with a half price RTX 4080 GeForce NOW subscription this summer](https://www.pcgamer.com/geforce-now-summer-sale-half-price)
- - [A codenamed Valve project found in a voice actor&#39;s résumé has Half-Life fans putting on the clown makeup yet again](https://www.pcgamer.com/games/fps/a-codenamed-valve-project-found-in-a-voice-actors-resume-has-half-life-fans-putting-on-the-clown-makeup-yet-again)<!-- GAME:END -->
+ - [Devs turn to Patreon after Humble Games collapse leaves studio without support: &#39;We lost access to the pipeline of critical systems without warning&#39;](https://www.pcgamer.com/games/action/devs-turn-to-patreon-after-humble-games-collapse-leaves-studio-without-support-we-lost-access-to-the-pipeline-of-critical-systems-without-warning)
+ - [This 3D printed laser chip-hacking device uses a $20 laser pointer, costs $500 to build, and was developed so that &#39;people can do this in their homes&#39;](https://www.pcgamer.com/hardware/this-3d-printed-laser-chip-hacking-device-uses-a-dollar20-laser-pointer-costs-dollar500-to-build-and-was-developed-so-that-people-can-do-this-in-their-homes)
+ - [Sega files mysterious &#39;Yakuza Wars&#39; trademark right after Like A Dragon studio teases fans that the next game will leave them &#39;surprised&#39;](https://www.pcgamer.com/games/rpg/sega-files-mysterious-yakuza-wars-trademark-right-after-like-a-dragon-studio-teases-fans-that-the-next-game-will-leave-them-surprised)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
