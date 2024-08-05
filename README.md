@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
  - [Judge rules Google is a search and advertising monopoly](https://appleinsider.com/articles/24/08/05/judge-rules-that-google-is-a-search-and-advertising-monopoly?utm_medium=rss)
- - [Bundles are tossing a wrench into the works of Android sideloading](https://www.androidauthority.com/mandatory-app-bundles-3468132/)
- - [In an email to staff, Linda Yaccarino says X will close its San Francisco office and move workers to San Jose offices and a new Palo Alto office shared with xAI &lpar;New York Times&rpar;](http://www.techmeme.com/240805/p33#a240805p33)<!-- TECH:END -->
+ - [Q&amp;A with Booking CEO Glenn Fogel on the company&#39;s Booking.com, OpenTable, Kayak, Priceline, and Agoda brands, using AI to book trips, hotel industry, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240805/p38#a240805p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
