@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter, the secretaries of state from PA, WA, MI, NM, and MN ask Elon Musk to change X&#39;s AI assistant Grok to stop it from spreading false election info &lpar;Washington Post&rpar;](http://www.techmeme.com/240805/p29#a240805p29)
- - [Apple hands out fifth beta round of fall OS updates to developers](https://appleinsider.com/articles/24/08/05/apple-hands-out-fifth-beta-round-of-fall-os-updates-to-developers?utm_medium=rss)
- - [Where in the world is Samsung One UI 7 beta?](https://www.androidauthority.com/samsung-one-ui-7-beta-delay-2-3468070/)<!-- TECH:END -->
+ - [Judge rules Google is a search and advertising monopoly](https://appleinsider.com/articles/24/08/05/judge-rules-that-google-is-a-search-and-advertising-monopoly?utm_medium=rss)
+ - [Bundles are tossing a wrench into the works of Android sideloading](https://www.androidauthority.com/mandatory-app-bundles-3468132/)
+ - [In an email to staff, Linda Yaccarino says X will close its San Francisco office and move workers to San Jose offices and a new Palo Alto office shared with xAI &lpar;New York Times&rpar;](http://www.techmeme.com/240805/p33#a240805p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
