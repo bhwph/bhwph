@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Google DeepMind research scientist details some LLM use cases, argues LLMs are not overhyped and should be judged on what they can do, not what they can&#39;t &lpar;Nicholas Carlini&rpar;](http://www.techmeme.com/240804/p7#a240804p7)
- - [Best Protein Shakes for an Effortless Boost](https://www.cnet.com/health/fitness/best-protein-shakes/#ftag=CAD590a51e)
- - [Best Apple AirTag Accessories of 2024](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI won’t watermark ChatGPT text because its users could get caught](https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool)
+ - [Best Earplugs to Prevent Hearing Loss for 2024](https://www.cnet.com/health/medical/best-earplugs-to-prevent-hearing-loss/#ftag=CAD590a51e)
+ - [Mynt, the parent company of Philippines-based e-wallet GCash, more than doubled its valuation to $5B after investments from Ayala Corp, Mitsubishi UFJ Financial &lpar;Rishav Chatterjee/Reuters&rpar;](http://www.techmeme.com/240804/p8#a240804p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
