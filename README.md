@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Nvidia, Alphabet, Amazon, Meta, and Microsoft stocks led a tech stock sell-off amid US recession fears; AAPL drops 5%, NVDA drops 7%+, and MSFT drops ~4% &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/240805/p20#a240805p20)
- - [Exclusive: Google Pixel 9 has a new weather app, here’s what it looks like](https://www.androidauthority.com/google-pixel-9-weather-app-3467819/)
- - [Booking CEO Glenn Fogel wants you to take out your travel frustrations on AI chatbots](https://www.theverge.com/24212137/booking-ceo-glenn-fogel-priceline-kayak-travel-ai-chatbots-decoder-podcast-interview)<!-- TECH:END -->
+ - [What’s next for Google Play Store AI review summaries &lpar;APK teardown&rpar;](https://www.androidauthority.com/play-store-ai-review-summaries-3467971/)
+ - [Apple is finally sending checks for its bad MacBook keyboards](https://www.theverge.com/2024/8/5/24213718/apple-butterfly-keyboard-settlement-checks-macbook-pro-air)
+ - [Sources: Samsung plans to bring some Galaxy AI features to select mid-range smartphones as well, including the Galaxy A35 and Galaxy A55 which launched in 2024 &lpar;Mihai Matei/SamMobile&rpar;](http://www.techmeme.com/240805/p23#a240805p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
