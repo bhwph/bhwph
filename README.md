@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
- - 😝 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)
- - 👉 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)<!-- MEMES:END -->
+ - 6️⃣ [Wait, Whaaaat?!](http://9gag.com/gag/a7oZEWb)
+ - 😝 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
+ - 👉 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)<!-- MEMES:END -->
 
 --- 
 
