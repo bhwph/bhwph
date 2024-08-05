@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Devs turn to Patreon after Humble Games collapse leaves studio without support: &#39;We lost access to the pipeline of critical systems without warning&#39;](https://www.pcgamer.com/games/action/devs-turn-to-patreon-after-humble-games-collapse-leaves-studio-without-support-we-lost-access-to-the-pipeline-of-critical-systems-without-warning)
- - [This 3D printed laser chip-hacking device uses a $20 laser pointer, costs $500 to build, and was developed so that &#39;people can do this in their homes&#39;](https://www.pcgamer.com/hardware/this-3d-printed-laser-chip-hacking-device-uses-a-dollar20-laser-pointer-costs-dollar500-to-build-and-was-developed-so-that-people-can-do-this-in-their-homes)
- - [Sega files mysterious &#39;Yakuza Wars&#39; trademark right after Like A Dragon studio teases fans that the next game will leave them &#39;surprised&#39;](https://www.pcgamer.com/games/rpg/sega-files-mysterious-yakuza-wars-trademark-right-after-like-a-dragon-studio-teases-fans-that-the-next-game-will-leave-them-surprised)<!-- GAME:END -->
+ - [Elon Musk says his brainchip patients will soon &#39;outperform a pro gamer&#39;, then takes a big old puff and says &#39;let’s give people superpowers&#39;](https://www.pcgamer.com/gaming-industry/elon-musk-says-his-brainchip-patients-will-soon-outperform-a-pro-gamer-then-takes-a-big-old-puff-and-says-lets-give-people-superpowers)
+ - [Microsoft, Meta and more might have to wait for their shiny new AI hardware as Nvidia&#39;s Blackwell server GPUs are reportedly delayed](https://www.pcgamer.com/hardware/graphics-cards/microsoft-meta-and-more-might-have-to-wait-for-their-shiny-new-ai-hardware-as-nvidias-blackwell-server-gpus-are-reportedly-delayed)
+ - [New Zelda: Echoes of Wisdom trailer reveals the cutest dang horses](https://www.polygon.com/24213605/legend-of-zelda-echoes-of-wisdom-abilities-horse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
