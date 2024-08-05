@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A giant play button in the middle of London.](http://9gag.com/gag/a347RnN)
- - 😝 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
- - 👉 [The flashlight in the daytime](http://9gag.com/gag/amorvXo)<!-- MEMES:END -->
+ - 6️⃣ [Aleksandra Miroslaw twice breaks sport climbing world record](http://9gag.com/gag/aXPAnng)
+ - 😝 [The flashlight in the daytime](http://9gag.com/gag/amorvXo)
+ - 👉 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)<!-- MEMES:END -->
 
 --- 
 
