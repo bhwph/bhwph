@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The One piece here I come](http://9gag.com/gag/aByw0bP)
- - 😝 [Spoiler alert!](http://9gag.com/gag/aGy0eE5)
- - 👉 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)<!-- MEMES:END -->
+ - 6️⃣ [LOL](http://9gag.com/gag/aPAM7Vw)
+ - 😝 [A voice that can make eargasm? No, its the drum](http://9gag.com/gag/aBywgV2)
+ - 👉 [Powerful](http://9gag.com/gag/aoy2MAe)<!-- MEMES:END -->
 
 --- 
 
