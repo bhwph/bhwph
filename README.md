@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A voice that can make eargasm? No, its the drum](http://9gag.com/gag/aBywgV2)
- - 😝 [LOL](http://9gag.com/gag/aPAM7Vw)
- - 👉 [Thousands of British people gather outside immigration hotel in Rotherham.](http://9gag.com/gag/aByw282)<!-- MEMES:END -->
+ - 6️⃣ [UK officer tells Sharia gang members to how to avoid getting arrested `if there&#39;s any weapon just hide them in a mosque`](http://9gag.com/gag/a4PZ1jw)
+ - 😝 [Half Half](http://9gag.com/gag/a87pGXe)
+ - 👉 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)<!-- MEMES:END -->
 
 --- 
 
