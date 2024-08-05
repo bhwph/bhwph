@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike says Delta CEO Ed Bastian failed to respond to an assistance offer from CEO George Kurtz; CrowdStrike hopes Delta will &quot;agree to work cooperatively&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240805/p5#a240805p5)
- - [JLab Hear OTC Hearing Aid Review: Super Affordable](https://www.wired.com/review/jlab-hear-otc-hearing-aid/)
- - [Elon Musk says Neuralink has implanted its device in a second trial patient, who had a spinal cord injury, and 400 of the implant&#39;s 1,024 electrodes are working &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/240805/p4#a240805p4)<!-- TECH:END -->
+ - [Chinese state media: a state-owned company launched its first batch of internet satellites to rival Starlink, part of plans for 15K+ low Earth orbit satellites &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240805/p15#a240805p15)
+ - [Nvidia using Apple Vision Pro to control humanoid robots](https://appleinsider.com/articles/24/08/05/nvidia-using-apple-vision-pro-to-control-humanoid-robots?utm_medium=rss)
+ - [Elon Musk revives his OpenAI lawsuit, filing a complaint in California to allege that OpenAI, Sam Altman, and Greg Brockman breached OpenAI&#39;s founding contract &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240805/p14#a240805p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
