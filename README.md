@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese state media: a state-owned company launched its first batch of internet satellites to rival Starlink, part of plans for 15K+ low Earth orbit satellites &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240805/p15#a240805p15)
- - [Nvidia using Apple Vision Pro to control humanoid robots](https://appleinsider.com/articles/24/08/05/nvidia-using-apple-vision-pro-to-control-humanoid-robots?utm_medium=rss)
- - [Elon Musk revives his OpenAI lawsuit, filing a complaint in California to allege that OpenAI, Sam Altman, and Greg Brockman breached OpenAI&#39;s founding contract &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240805/p14#a240805p14)<!-- TECH:END -->
+ - [Apple, Nvidia, Alphabet, Amazon, Meta, and Microsoft stocks led a tech stock sell-off amid US recession fears; AAPL drops 5%, NVDA drops 7%+, and MSFT drops ~4% &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/240805/p20#a240805p20)
+ - [Exclusive: Google Pixel 9 has a new weather app, here’s what it looks like](https://www.androidauthority.com/google-pixel-9-weather-app-3467819/)
+ - [Booking CEO Glenn Fogel wants you to take out your travel frustrations on AI chatbots](https://www.theverge.com/24212137/booking-ceo-glenn-fogel-priceline-kayak-travel-ai-chatbots-decoder-podcast-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
