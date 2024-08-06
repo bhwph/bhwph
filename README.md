@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Photos jettisons the Carousel in fifth iOS 18 beta](https://appleinsider.com/articles/24/08/05/photos-gets-off-the-carousel-in-fifth-ios-18-developer-beta?utm_medium=rss)
- - [Quibi’s epic fall and the future of books](https://www.theverge.com/2024/8/6/24205146/quibi-history-ebooks-future-vergecast)
- - [I wish the Samsung Galaxy Ring had an alarm function](https://www.androidauthority.com/samsung-galaxy-ring-alarm-function-3466886/)<!-- TECH:END -->
+ - [Personal Safety’s Crisis Alerts could be planning a big expansion &lpar;APK teardown&rpar;](https://www.androidauthority.com/personal-safety-crisis-alerts-3468444/)
+ - [Microsoft says Delta ignored Satya Nadella’s offer of CrowdStrike help](https://www.theverge.com/2024/8/6/24214371/microsoft-delta-letter-crowdstrike-response-comments)
+ - [Sonos brings TV Audio Swap to its more affordable soundbars — and Android](https://www.theverge.com/2024/8/6/24214510/sonos-ace-tv-audio-swap-beam-ray-android)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
