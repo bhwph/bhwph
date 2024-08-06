@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
- - [Judge rules Google is a search and advertising monopoly](https://appleinsider.com/articles/24/08/05/judge-rules-that-google-is-a-search-and-advertising-monopoly?utm_medium=rss)
- - [Q&amp;A with Booking CEO Glenn Fogel on the company&#39;s Booking.com, OpenTable, Kayak, Priceline, and Agoda brands, using AI to book trips, hotel industry, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240805/p38#a240805p38)<!-- TECH:END -->
+ - [The Verge’s 2024 back-to-school gift guide](https://www.theverge.com/24186140/back-to-school-student-gifts-college-high-school-dorm-accessories-ideas-2024)
+ - [Apple&#39;s shift to AI could allow it to handle searches via Siri and AI chatbots instead of web browsers, softening the blow from the Google antitrust ruling &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240805/p42#a240805p42)
+ - [Source: OpenAI President and co-founder Greg Brockman is taking an extended leave of absence, and product leader Peter Deng, who joined last year, has left &lpar;The Information&rpar;](http://www.techmeme.com/240805/p41#a240805p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
