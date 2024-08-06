@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Apple&#39;s M3 MacBook Air 15-inch with 16GB RAM, 1TB SSD is on sale for $1,699](https://appleinsider.com/articles/24/08/06/deals-apples-m3-macbook-air-15-inch-with-16gb-ram-1tb-ssd-is-on-sale-for-1699?utm_medium=rss)
- - [OpenAI has developed a 99.9% accuracy tool to detect ChatGPT content, but you are safe for now](https://www.androidauthority.com/openai-tool-detect-chatgpt-content-3468136/)
- - [Tablet sales are finally starting to look normal again](https://www.androidauthority.com/tablet-sales-report-3468204/)<!-- TECH:END -->
+ - [Google loses big in antitrust case, judge calls company a ‘monopolist’ &lpar;Update: Statement&rpar;](https://www.androidauthority.com/google-loses-antitrust-case-for-search-3468147/)
+ - [Samsung starts mass production of world&#39;s thinnest LPDDR5X DRAM, claiming it&#39;s 9% thinner than typical LPDDR5X and improves devices&#39; heat resistance by 21.2% &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240805/p47#a240805p47)
+ - [How to add money to your Apple Account on iPhone, iPad &amp; Mac](https://appleinsider.com/inside/app-store/tips/how-to-add-money-to-your-apple-account-on-iphone-ipad-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
