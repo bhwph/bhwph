@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Nvidia is racing to build the staff and offices needed to respond to scrutiny by the US, UK, EU, and China; the company controls 90% of the AI chip market &lpar;New York Times&rpar;](http://www.techmeme.com/240806/p7#a240806p7)
- - [Google losing its US antitrust case may have major ripple effects for Apple, Amazon, and Meta, just as Microsoft&#39;s loss in 2000 influenced the Google decision &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240806/p6#a240806p6)
- - [iOS 18 has fulfilled my dream of destroying ads with a Thanos snap](https://www.theverge.com/2024/8/6/24214338/apple-ios-18-thanos-snap-animation-hide-ads)<!-- TECH:END -->
+ - [Ziff Davis is buying CNET for just $100 million](https://www.theverge.com/2024/8/6/24214374/cnet-zeff-davis-acquisition-digital-media-100-million)
+ - [Arturia AudioFuse 16Rig Audio Interface Review: So Many Inputs](https://www.wired.com/review/arturia-audiofuse-16rig/)
+ - [The Best Climbing Gear for Beginners &lpar;2024&rpar;: Shoes, Harnesses, and Ropes](https://www.wired.com/gallery/best-climbing-gear/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
