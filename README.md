@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man helping his girl finding her keys](http://9gag.com/gag/aryOod7)
- - 😝 [An autistic non-verbal boy speaks directly to his mother for the first time](http://9gag.com/gag/agmqgRn)
- - 👉 [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)<!-- MEMES:END -->
+ - 6️⃣ [Energetic policewomen](http://9gag.com/gag/aryOmpB)
+ - 😝 [They did it AGAIN](http://9gag.com/gag/aKG2mG1)
+ - 👉 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)<!-- MEMES:END -->
 
 --- 
 
