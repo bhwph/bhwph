@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nightingale devs say they&#39;re &#39;not satisfied&#39; with the game, its reception, or its player numbers, but they&#39;ve got big improvements coming](https://www.pcgamer.com/games/survival-crafting/nightingale-devs-say-theyre-not-satisfied-with-the-game-its-reception-or-its-player-numbers-but-theyve-got-big-improvements-coming)
- - [Gen Con’s 3-hour D&amp;D actual play is now on YouTube](https://www.polygon.com/24213975/dnd-dungeons-dragons-gen-con-2024-actual-play-brennan-aabria-astarion-karlach-anjali-bhimani)
- - [How To Get Union Power Armor In Fallout 76](https://kotaku.com/fallout-76-union-power-armor-expedition-the-pitt-1851613655)<!-- GAME:END -->
+ - [House Flipper 2 update adds 150 new items, including towels, decorative moss, and weeds](https://www.pcgamer.com/games/sim/house-flipper-2-update-adds-150-new-items-including-towels-decorative-moss-and-weeds)
+ - [Former Blizzard president Mike Ybarra is now CEO of one of those technically-not-gambling daily fantasy sports apps](https://www.pcgamer.com/gaming-industry/former-blizzard-president-mike-ybarra-is-now-ceo-of-one-of-those-technically-not-gambling-daily-fantasy-sports-apps)
+ - [The follow-up to Palworld could go &#39;beyond AAA&#39;, but Pocketpair&#39;s CEO only wants to pursue projects that &#39;are interesting as indie games&#39;](https://www.pcgamer.com/games/survival-crafting/the-follow-up-to-palworld-could-go-beyond-aaa-but-pocketpairs-ceo-only-wants-to-pursue-projects-that-are-interesting-as-indie-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
