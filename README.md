@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That simple.](http://9gag.com/gag/a4PZn51)
- - 😝 [Lets see how long this one stays up.](http://9gag.com/gag/aZZB1j6)
- - 👉 [Fake speed bumper](http://9gag.com/gag/abA6enp)<!-- MEMES:END -->
+ - 6️⃣ [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)
+ - 😝 [So this warning was legit lmao](http://9gag.com/gag/agmqoZv)
+ - 👉 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)<!-- MEMES:END -->
 
 --- 
 
