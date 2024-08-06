@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chrono Cross’ minimalist music drove Disasterpeace to Hyper Light Drifter and beyond](https://www.polygon.com/24213818/disasterpeace-songs-interview)
- - [Bloober Team knows fans don&#39;t really trust it with the Silent Hill 2 remake, so it&#39;s asking for the next-best thing: &#39;Give us a chance&#39;](https://www.pcgamer.com/games/horror/bloober-team-knows-fans-dont-really-trust-it-with-the-silent-hill-2-remake-so-its-asking-for-the-next-best-thing-give-us-a-chance)
- - [Destiny 2 Brings Back Attunement So You Can Farm These Great Weapons Again](https://kotaku.com/destiny-2-attunement-zavala-guide-tip-1851614821)<!-- GAME:END -->
+ - [Helldivers 2&#39;s loudest players go nuclear over another unpopular nerf, but Arrowhead CEO keeps calm: &#39;Some are going &#39;Buff everything!&#39; Others are saying &#39;It&#39;s too easy!&#39; Most are just playing.&#39;](https://www.pcgamer.com/games/helldivers-2-s-loudest-players-are-going-nuclear-over-another-unpopular-nerf-but-arrowhead-s-ceo-is-keeping-calm-some-are-going-buff-everything-others-are-saying-it-s-too-easy-most-are-just-playing)
+ - [The maker of this beautiful retro city builder wants to include events like bank robberies, police chases, and zombie outbreaks](https://www.pcgamer.com/games/city-builder/the-maker-of-this-beautiful-retro-city-builder-wants-to-include-events-like-bank-robberies-police-chases-and-zombie-outbreaks)
+ - [Disney+ Gets Another Price Increase, Will Cost Twice As Much As It Did In 2019](https://kotaku.com/disney-streaming-inside-out-price-hike-increase-when-1851614922)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
