@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dad helped his kid pop the bubble in the most dad way possible](http://9gag.com/gag/a9yWqgm)
- - 😝 [What kind of sorcery is this?](http://9gag.com/gag/awy5yrr)
- - 👉 [Tommy Robinson, who is hiding from British authorities for daring to speaking out against migrants destroying Britain....](http://9gag.com/gag/ae9Y9MO)<!-- MEMES:END -->
+ - 6️⃣ [Date Night](http://9gag.com/gag/aVvDgMK)
+ - 😝 [Fake speed bumper](http://9gag.com/gag/abA6enp)
+ - 👉 [You cut me deep, Shrek.](http://9gag.com/gag/ae9Y4bQ)<!-- MEMES:END -->
 
 --- 
 
