@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Star Wars Jedi: Survivor is coming to last-gen consoles](https://www.theverge.com/2024/8/6/24214608/star-wars-jedi-survivor-xbox-one-ps4-preorder)
- - [Google Search is an illegal monopoly — what happens now?](https://www.theverge.com/2024/8/6/24214641/google-us-monopoly-ruling-what-happens)
- - [Microsoft says Delta, which said it had to manually reset ~40K PC servers because of CrowdStrike, had &quot;not modernized its IT infrastructure&quot; and refused &quot;help&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/240806/p26#a240806p26)<!-- TECH:END -->
+ - [Seattle-based industrial analytics startup Seeq raised a $50M Series D led by Sixth Street Growth, bringing its total raised to ~$165M &lpar;Lisa Stiffler/GeekWire&rpar;](http://www.techmeme.com/240806/p29#a240806p29)
+ - [Poll results: Satellite SOS may save your life, but no one wants to pay for it](https://www.androidauthority.com/paid-satellite-sos-3468530/)
+ - [Disney+, Hulu, and ESPN will cost more in October](https://appleinsider.com/articles/24/08/06/disney-hulu-and-espn-will-cost-more-in-october?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
