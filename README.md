@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chinese shuttler He Bingjiao carries Spanish flag badge onto the podium after her Spanish semifinal opponent&#39;s withdrawal due to injury](http://9gag.com/gag/aKG2G96)
- - 😝 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)
- - 👉 [This feels like entrapment](http://9gag.com/gag/azxreXz)<!-- MEMES:END -->
+ - 6️⃣ [Man helping his girl finding her keys](http://9gag.com/gag/aryOod7)
+ - 😝 [An autistic non-verbal boy speaks directly to his mother for the first time](http://9gag.com/gag/agmqgRn)
+ - 👉 [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)<!-- MEMES:END -->
 
 --- 
 
