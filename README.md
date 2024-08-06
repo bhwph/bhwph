@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA’s radio shows that Rockstar is a DJ](https://www.polygon.com/24208534/gta-radio-rockstar-dj-non-stop-pop)
- - [Cat Quest 3 Is A Fun New Swashbuckling Action-RPG](https://kotaku.com/cat-quest-3-impressions-gentlebros-indie-action-rpg-1851613732)
- - [Xbox Game Pass Snags Beloved Crash Bandicoot Trilogy And More In August](https://kotaku.com/xbox-game-pass-august-2024-crash-bandicoot-tony-hawk-1851614151)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 6 Zombies: Requiem for a Lost Soul – Meet the Terminus Team](https://www.callofduty.com/blog/2024/08/call-of-duty-black-ops-6-zombies-lost-soul-requiem-terminus-team-intel#new_tab)
+ - [This Frenetic Platformer With Fantastic Movement Is Now Available On PlayStation And Xbox](https://kotaku.com/pepper-grinder-indie-platformer-playstation-xbox-1851614429)
+ - [Flexispot E2Q gaming desk review](https://www.pcgamer.com/hardware/gaming-desks/flexispot-e2q-gaming-desk-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
