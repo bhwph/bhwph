@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yes!](http://9gag.com/gag/aD2j2xd)
- - 😝 [No comment, see comments](http://9gag.com/gag/aKG2EyZ)
- - 👉 [Dad helped his kid pop the bubble in the most dad way possible](http://9gag.com/gag/a9yWqgm)<!-- MEMES:END -->
+ - 6️⃣ [Your first project when you lie on your job application](http://9gag.com/gag/aGy0ERZ)
+ - 😝 [So this warning was legit lmao](http://9gag.com/gag/agmqoZv)
+ - 👉 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)<!-- MEMES:END -->
 
 --- 
 
