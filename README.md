@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Huawei, Baidu, and other Chinese tech companies have been stockpiling Samsung HBM chips since early 2024, in anticipation of US curbs on those chips &lpar;Reuters&rpar;](http://www.techmeme.com/240806/p1#a240806p1)
- - [Today&#39;s NYT Mini Crossword Answers for Aug. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-6/#ftag=CAD590a51e)
- - [Google loses big in antitrust case, judge calls company a ‘monopolist’ &lpar;Update: Statement&rpar;](https://www.androidauthority.com/google-loses-antitrust-case-for-search-3468147/)<!-- TECH:END -->
+ - [Android 15 could bring the tablet taskbar to phones: Here’s your first look at the ‘tiny’ taskbar](https://www.androidauthority.com/android-15-tiny-taskbar-phones-3468110/)
+ - [The US NIST is set to publish three security algorithms, put out for comment in 2023, to protect data from quantum hacking, as the agency awaits the sign off &lpar;Financial Times&rpar;](http://www.techmeme.com/240806/p4#a240806p4)
+ - [Riverlane, a Cambridge, UK-based maker of quantum error correction tech, raised a $75M Series C led by Planet First Partners, sources say at a $400M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240806/p3#a240806p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
