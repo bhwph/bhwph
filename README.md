@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Google is a monopolist&#39; says US judge in ruling on exclusivity deals to get Google Search on all your platforms all the time](https://www.pcgamer.com/software/google-is-a-monopolist-says-us-judge-in-ruling-on-exclusivity-deals-to-get-google-search-on-all-your-platforms-all-the-time)
- - [World of Goo 2 review](https://www.pcgamer.com/games/puzzle/world-of-goo-2-review)
- - [Cult of the Lamb&#39;s next free major content update will be an interactive digital comic: &#39;Where all your choices will take you on a colourful adventure&#39;](https://www.pcgamer.com/games/roguelike/cult-of-the-lambs-next-free-major-content-update-will-be-an-interactive-digital-comic-where-all-your-choices-will-take-you-on-a-colourful-adventure)<!-- GAME:END -->
+ - [GTA’s radio shows that Rockstar is a DJ](https://www.polygon.com/24208534/gta-radio-rockstar-dj-non-stop-pop)
+ - [Cat Quest 3 Is A Fun New Swashbuckling Action-RPG](https://kotaku.com/cat-quest-3-impressions-gentlebros-indie-action-rpg-1851613732)
+ - [Xbox Game Pass Snags Beloved Crash Bandicoot Trilogy And More In August](https://kotaku.com/xbox-game-pass-august-2024-crash-bandicoot-tony-hawk-1851614151)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
