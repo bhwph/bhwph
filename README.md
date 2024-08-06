@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 could bring the tablet taskbar to phones: Here’s your first look at the ‘tiny’ taskbar](https://www.androidauthority.com/android-15-tiny-taskbar-phones-3468110/)
- - [The US NIST is set to publish three security algorithms, put out for comment in 2023, to protect data from quantum hacking, as the agency awaits the sign off &lpar;Financial Times&rpar;](http://www.techmeme.com/240806/p4#a240806p4)
- - [Riverlane, a Cambridge, UK-based maker of quantum error correction tech, raised a $75M Series C led by Planet First Partners, sources say at a $400M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240806/p3#a240806p3)<!-- TECH:END -->
+ - [How Nvidia is racing to build the staff and offices needed to respond to scrutiny by the US, UK, EU, and China; the company controls 90% of the AI chip market &lpar;New York Times&rpar;](http://www.techmeme.com/240806/p7#a240806p7)
+ - [Google losing its US antitrust case may have major ripple effects for Apple, Amazon, and Meta, just as Microsoft&#39;s loss in 2000 influenced the Google decision &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240806/p6#a240806p6)
+ - [iOS 18 has fulfilled my dream of destroying ads with a Thanos snap](https://www.theverge.com/2024/8/6/24214338/apple-ios-18-thanos-snap-animation-hide-ads)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
