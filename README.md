@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2024 back-to-school gift guide](https://www.theverge.com/24186140/back-to-school-student-gifts-college-high-school-dorm-accessories-ideas-2024)
- - [Apple&#39;s shift to AI could allow it to handle searches via Siri and AI chatbots instead of web browsers, softening the blow from the Google antitrust ruling &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240805/p42#a240805p42)
- - [Source: OpenAI President and co-founder Greg Brockman is taking an extended leave of absence, and product leader Peter Deng, who joined last year, has left &lpar;The Information&rpar;](http://www.techmeme.com/240805/p41#a240805p41)<!-- TECH:END -->
+ - [Deals: Apple&#39;s M3 MacBook Air 15-inch with 16GB RAM, 1TB SSD is on sale for $1,699](https://appleinsider.com/articles/24/08/06/deals-apples-m3-macbook-air-15-inch-with-16gb-ram-1tb-ssd-is-on-sale-for-1699?utm_medium=rss)
+ - [OpenAI has developed a 99.9% accuracy tool to detect ChatGPT content, but you are safe for now](https://www.androidauthority.com/openai-tool-detect-chatgpt-content-3468136/)
+ - [Tablet sales are finally starting to look normal again](https://www.androidauthority.com/tablet-sales-report-3468204/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
