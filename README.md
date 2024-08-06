@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ziff Davis is buying CNET for just $100 million](https://www.theverge.com/2024/8/6/24214374/cnet-zeff-davis-acquisition-digital-media-100-million)
- - [Arturia AudioFuse 16Rig Audio Interface Review: So Many Inputs](https://www.wired.com/review/arturia-audiofuse-16rig/)
- - [The Best Climbing Gear for Beginners &lpar;2024&rpar;: Shoes, Harnesses, and Ropes](https://www.wired.com/gallery/best-climbing-gear/)<!-- TECH:END -->
+ - [Photos jettisons the Carousel in fifth iOS 18 beta](https://appleinsider.com/articles/24/08/05/photos-gets-off-the-carousel-in-fifth-ios-18-developer-beta?utm_medium=rss)
+ - [Quibi’s epic fall and the future of books](https://www.theverge.com/2024/8/6/24205146/quibi-history-ebooks-future-vergecast)
+ - [I wish the Samsung Galaxy Ring had an alarm function](https://www.androidauthority.com/samsung-galaxy-ring-alarm-function-3466886/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
