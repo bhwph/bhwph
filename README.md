@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
- - 😝 [The flashlight in the daytime](http://9gag.com/gag/amorvXo)
- - 👉 [Energetic policewomen](http://9gag.com/gag/aryOmpB)<!-- MEMES:END -->
+ - 6️⃣ [Yes!](http://9gag.com/gag/aD2j2xd)
+ - 😝 [No comment, see comments](http://9gag.com/gag/aKG2EyZ)
+ - 👉 [Dad helped his kid pop the bubble in the most dad way possible](http://9gag.com/gag/a9yWqgm)<!-- MEMES:END -->
 
 --- 
 
