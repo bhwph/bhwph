@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Date Night](http://9gag.com/gag/aVvDgMK)
- - 😝 [Fake speed bumper](http://9gag.com/gag/abA6enp)
- - 👉 [You cut me deep, Shrek.](http://9gag.com/gag/ae9Y4bQ)<!-- MEMES:END -->
+ - 6️⃣ [That simple.](http://9gag.com/gag/a4PZn51)
+ - 😝 [Lets see how long this one stays up.](http://9gag.com/gag/aZZB1j6)
+ - 👉 [Fake speed bumper](http://9gag.com/gag/abA6enp)<!-- MEMES:END -->
 
 --- 
 
