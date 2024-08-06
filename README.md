@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seattle-based industrial analytics startup Seeq raised a $50M Series D led by Sixth Street Growth, bringing its total raised to ~$165M &lpar;Lisa Stiffler/GeekWire&rpar;](http://www.techmeme.com/240806/p29#a240806p29)
- - [Poll results: Satellite SOS may save your life, but no one wants to pay for it](https://www.androidauthority.com/paid-satellite-sos-3468530/)
- - [Disney+, Hulu, and ESPN will cost more in October](https://appleinsider.com/articles/24/08/06/disney-hulu-and-espn-will-cost-more-in-october?utm_medium=rss)<!-- TECH:END -->
+ - [A US Judge Ruled Google an Illegal Monopolist. Here Are 5 Things He Could Do Next](https://www.wired.com/story/google-search-monopoly-judge-amit-mehta-options/)
+ - [Google Gemini now supports the Pixel Tablet — kind of](https://www.androidauthority.com/gemini-pixel-tablet-3468580/)
+ - [Pack Your Bags With 8 Great Deals from Patagonia&#39;s Past-Season Sale](https://www.wired.com/story/patagonias-past-season-sale-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
