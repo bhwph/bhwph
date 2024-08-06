@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Black Ops 6 Zombies: Requiem for a Lost Soul – Meet the Terminus Team](https://www.callofduty.com/blog/2024/08/call-of-duty-black-ops-6-zombies-lost-soul-requiem-terminus-team-intel#new_tab)
- - [This Frenetic Platformer With Fantastic Movement Is Now Available On PlayStation And Xbox](https://kotaku.com/pepper-grinder-indie-platformer-playstation-xbox-1851614429)
- - [Flexispot E2Q gaming desk review](https://www.pcgamer.com/hardware/gaming-desks/flexispot-e2q-gaming-desk-review)<!-- GAME:END -->
+ - [Why the Relentless Challenge of Volgarr the Viking II Means I Love You](https://news.xbox.com/en-us/2024/08/06/why-the-relentless-challenge-of-volgarr-the-viking-ii-means-i-love-you/)
+ - [Warhammer 40,000: Space Marine 2 system requirements are out, and you probably won&#39;t need to buy a new PC to play it](https://www.pcgamer.com/games/third-person-shooter/warhammer-40000-space-marine-2-system-requirements-are-out-and-you-probably-wont-need-to-buy-a-new-pc-to-play-it)
+ - [The Secret To Final Fantasy XIV’s New Elusive Hunt Is Patience](https://kotaku.com/final-fantasy-14-dawntrail-s-rank-hunt-kirlirger-1851614627)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
