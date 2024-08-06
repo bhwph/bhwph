@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)
- - 😝 [So this warning was legit lmao](http://9gag.com/gag/agmqoZv)
- - 👉 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)<!-- MEMES:END -->
+ - 6️⃣ [Fake speed bumper](http://9gag.com/gag/abA6enp)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)
+ - 👉 [They won&#39;t show this on the news channel, would they?](http://9gag.com/gag/a0edo0n)<!-- MEMES:END -->
 
 --- 
 
