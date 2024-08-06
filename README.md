@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - 😝 [They did it AGAIN](http://9gag.com/gag/aKG2mG1)
- - 👉 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)<!-- MEMES:END -->
+ - 6️⃣ [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
+ - 😝 [The flashlight in the daytime](http://9gag.com/gag/amorvXo)
+ - 👉 [Energetic policewomen](http://9gag.com/gag/aryOmpB)<!-- MEMES:END -->
 
 --- 
 
