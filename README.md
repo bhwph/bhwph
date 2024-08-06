@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the TR-40 Gold Eagle armor in Helldivers 2 early](https://www.pcgamer.com/games/third-person-shooter/helldivers-tr-40-gold-eagle-armor)
- - [What time does Helldivers 2’s Freedom’s Flame Warbond release?](https://www.polygon.com/guides/2024/8/6/24214100/helldivers-2-freedoms-flame-warbond-start-time-release-date)
- - [Final Fantasy 14 hunter spent 3 days collectively losing their minds trying to spawn a monster with sunglasses, mass crying sessions, and alpacas… only to find out they just needed to wait](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-hunter-spent-3-days-collectively-losing-their-minds-trying-to-spawn-a-monster-with-sunglasses-mass-crying-sessions-and-alpacas-only-to-find-out-they-just-needed-to-wait)<!-- GAME:END -->
+ - [&#39;Google is a monopolist&#39; says US judge in ruling on exclusivity deals to get Google Search on all your platforms all the time](https://www.pcgamer.com/software/google-is-a-monopolist-says-us-judge-in-ruling-on-exclusivity-deals-to-get-google-search-on-all-your-platforms-all-the-time)
+ - [World of Goo 2 review](https://www.pcgamer.com/games/puzzle/world-of-goo-2-review)
+ - [Cult of the Lamb&#39;s next free major content update will be an interactive digital comic: &#39;Where all your choices will take you on a colourful adventure&#39;](https://www.pcgamer.com/games/roguelike/cult-of-the-lambs-next-free-major-content-update-will-be-an-interactive-digital-comic-where-all-your-choices-will-take-you-on-a-colourful-adventure)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
