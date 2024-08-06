@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Personal Safety’s Crisis Alerts could be planning a big expansion &lpar;APK teardown&rpar;](https://www.androidauthority.com/personal-safety-crisis-alerts-3468444/)
- - [Microsoft says Delta ignored Satya Nadella’s offer of CrowdStrike help](https://www.theverge.com/2024/8/6/24214371/microsoft-delta-letter-crowdstrike-response-comments)
- - [Sonos brings TV Audio Swap to its more affordable soundbars — and Android](https://www.theverge.com/2024/8/6/24214510/sonos-ace-tv-audio-swap-beam-ray-android)<!-- TECH:END -->
+ - [Star Wars Jedi: Survivor is coming to last-gen consoles](https://www.theverge.com/2024/8/6/24214608/star-wars-jedi-survivor-xbox-one-ps4-preorder)
+ - [Google Search is an illegal monopoly — what happens now?](https://www.theverge.com/2024/8/6/24214641/google-us-monopoly-ruling-what-happens)
+ - [Microsoft says Delta, which said it had to manually reset ~40K PC servers because of CrowdStrike, had &quot;not modernized its IT infrastructure&quot; and refused &quot;help&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/240806/p26#a240806p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
