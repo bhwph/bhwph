@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why the Relentless Challenge of Volgarr the Viking II Means I Love You](https://news.xbox.com/en-us/2024/08/06/why-the-relentless-challenge-of-volgarr-the-viking-ii-means-i-love-you/)
- - [Warhammer 40,000: Space Marine 2 system requirements are out, and you probably won&#39;t need to buy a new PC to play it](https://www.pcgamer.com/games/third-person-shooter/warhammer-40000-space-marine-2-system-requirements-are-out-and-you-probably-wont-need-to-buy-a-new-pc-to-play-it)
- - [The Secret To Final Fantasy XIV’s New Elusive Hunt Is Patience](https://kotaku.com/final-fantasy-14-dawntrail-s-rank-hunt-kirlirger-1851614627)<!-- GAME:END -->
+ - [Chrono Cross’ minimalist music drove Disasterpeace to Hyper Light Drifter and beyond](https://www.polygon.com/24213818/disasterpeace-songs-interview)
+ - [Bloober Team knows fans don&#39;t really trust it with the Silent Hill 2 remake, so it&#39;s asking for the next-best thing: &#39;Give us a chance&#39;](https://www.pcgamer.com/games/horror/bloober-team-knows-fans-dont-really-trust-it-with-the-silent-hill-2-remake-so-its-asking-for-the-next-best-thing-give-us-a-chance)
+ - [Destiny 2 Brings Back Attunement So You Can Farm These Great Weapons Again](https://kotaku.com/destiny-2-attunement-zavala-guide-tip-1851614821)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
