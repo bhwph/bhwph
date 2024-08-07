@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2&#39;s loudest players go nuclear over another unpopular nerf, but Arrowhead CEO keeps calm: &#39;Some are going &#39;Buff everything!&#39; Others are saying &#39;It&#39;s too easy!&#39; Most are just playing.&#39;](https://www.pcgamer.com/games/helldivers-2-s-loudest-players-are-going-nuclear-over-another-unpopular-nerf-but-arrowhead-s-ceo-is-keeping-calm-some-are-going-buff-everything-others-are-saying-it-s-too-easy-most-are-just-playing)
- - [The maker of this beautiful retro city builder wants to include events like bank robberies, police chases, and zombie outbreaks](https://www.pcgamer.com/games/city-builder/the-maker-of-this-beautiful-retro-city-builder-wants-to-include-events-like-bank-robberies-police-chases-and-zombie-outbreaks)
- - [Disney+ Gets Another Price Increase, Will Cost Twice As Much As It Did In 2019](https://kotaku.com/disney-streaming-inside-out-price-hike-increase-when-1851614922)<!-- GAME:END -->
+ - [Vice-presidential candidate Tim Walz once endorsed a high school Valorant team](https://www.pcgamer.com/games/fps/vice-presidential-candidate-tim-walz-once-endorsed-a-high-school-valorant-team)
+ - [Final Fantasy 14 is a load-bearing MMO helping to keep Square Enix profitable](https://www.pcgamer.com/games/mmo/final-fantasy-14-is-a-load-bearing-mmo-helping-to-keep-square-enix-profitable)
+ - [I thought Diablo 4 had already evolved into a great action RPG, but its latest season just made it even better](https://www.pcgamer.com/games/rpg/i-thought-diablo-4-had-already-evolved-into-a-great-action-rpg-but-its-latest-season-just-made-it-even-better)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
