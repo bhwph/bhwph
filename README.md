@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supermicro shares drop 13% after hours after the company reported Q4 earnings missing analyst expectations, and announces a 10-for-1 stock split &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240806/p40#a240806p40)
- - [Tribit StormBox Speaker review: Simple, yet solid summer speaker](https://appleinsider.com/articles/24/08/07/tribit-stormbox-speaker-review-simple-yet-solid-summer-speaker?utm_medium=rss)
- - [CrowdStrike shares a root cause analysis of the July 19 outage, and says it&#39;s working with two third-party software security vendors to conduct further review &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/240806/p39#a240806p39)<!-- TECH:END -->
+ - [Lenovo leak hints at a Legion Go ‘Lite’ handheld gaming console with a 7-inch display](https://www.androidauthority.com/leak-lenovo-legion-go-lite-3468502/)
+ - [How Les Wexner, Victoria&#39;s Secret billionaire owner, made early investments in Atlantic Crypto, which then turned into CoreWeave, netting him a $720M stake &lpar;Forbes&rpar;](http://www.techmeme.com/240806/p42#a240806p42)
+ - [Chrome just made your browsing history easier to understand](https://www.androidauthority.com/chrome-history-third-party-apps-3468437/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
