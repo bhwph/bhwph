@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Comparison.](http://9gag.com/gag/a7oZoXA)
- - 😝 [Understandable](http://9gag.com/gag/ajPq7n1)
- - 👉 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)<!-- MEMES:END -->
+ - 6️⃣ [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)
+ - 😝 [Brutal](http://9gag.com/gag/apRr1Ln)
+ - 👉 [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)<!-- MEMES:END -->
 
 --- 
 
