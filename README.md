@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Groom exposes bride that cheated with his friend](http://9gag.com/gag/ae9Y4rv)
- - 😝 [Terrorist trying to sneak inside israel](http://9gag.com/gag/a5QZBzq)
- - 👉 [Oh boy oh boy](http://9gag.com/gag/a4PZPo1)<!-- MEMES:END -->
+ - 6️⃣ [Bad ride](http://9gag.com/gag/aMVwmOV)
+ - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
+ - 👉 [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)<!-- MEMES:END -->
 
 --- 
 
