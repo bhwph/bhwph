@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo leak hints at a Legion Go ‘Lite’ handheld gaming console with a 7-inch display](https://www.androidauthority.com/leak-lenovo-legion-go-lite-3468502/)
- - [How Les Wexner, Victoria&#39;s Secret billionaire owner, made early investments in Atlantic Crypto, which then turned into CoreWeave, netting him a $720M stake &lpar;Forbes&rpar;](http://www.techmeme.com/240806/p42#a240806p42)
- - [Chrome just made your browsing history easier to understand](https://www.androidauthority.com/chrome-history-third-party-apps-3468437/)<!-- TECH:END -->
+ - [Global crypto hubs like Hong Kong and Dubai face a challenging outlook, as the brightening US political backdrop for crypto attracts companies and investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/240807/p3#a240807p3)
+ - [A profile of Kakao founder Kim Beom-su, who was arrested in July on stock manipulation charges relating to Kakao&#39;s takeover of K-pop agency SM Entertainment &lpar;Financial Times&rpar;](http://www.techmeme.com/240807/p2#a240807p2)
+ - [Best Apple iPhone SE Cases for 2024](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
