@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4: How to get an Infernal Hordes Compass and unlock the new hellish mode](https://www.pcgamer.com/games/rpg/diablo-4-infernal-hordes-compass-abyssal-scrolls)
- - [Elgato Key Light Neo review](https://www.pcgamer.com/hardware/lighting/elgato-key-light-neo-review)
- - [&#39;Everything&#39;s held together with duct tape&#39;: Fallout London&#39;s project lead discusses all the bugs, including the infamous train crash](https://www.pcgamer.com/games/fallout/everythings-held-together-with-duct-tape-fallout-londons-project-lead-discusses-all-the-bugs-including-the-infamous-train-crash)<!-- GAME:END -->
+ - [Space Marine 2 feels even more explosively, grimly, and hilariously authentic to the Warhammer 40,000 universe than the first game](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-feels-even-more-explosively-grimly-and-hilariously-authentic-to-the-warhammer-40-000-universe-than-the-first-game)
+ - [House of the Dragon season 2 told a deeper story through its dragons](https://www.polygon.com/24214547/house-dragon-season-2-book-spoilers-rhaenyra)
+ - [Intel CEO says Panther Lake CPU on its new 18A node is already up and running with production slated for next year](https://www.pcgamer.com/hardware/processors/intel-ceo-says-panther-lake-cpu-on-its-new-18a-node-is-already-up-and-running-with-production-slated-for-next-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
