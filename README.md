@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says Facebook creators who violate Community Standards for the first time will be given the option to take a training course to remove their warning &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240807/p26#a240807p26)
- - [Kamala Harris is Brat, Tim Walz is Midwest Princess](https://www.theverge.com/2024/8/7/24215327/kamala-harris-tim-walz-memes-chappell-roan-midwest-princess-camo-hat)
- - [US Credit Card Debt Notches New High of $1.14 Trillion](https://www.cnet.com/personal-finance/us-credit-card-debt-hits-1-13-trillion-as-high-prices-persist/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android app devs can now test their apps on Samsung, Xiaomi, and OPPO devices via streaming](https://www.androidauthority.com/android-device-streaming-3469033/)
+ - [Bumble reports Q2 revenue up 3.4% YoY to $268.6M, vs. $273.2M est., and projects 1% to 2% annual revenue growth, vs. 8.4% expected; BMBL drops 28%+ after hours &lpar;Evan Gorelick/Bloomberg&rpar;](http://www.techmeme.com/240807/p29#a240807p29)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
