@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gamefound’s next big campaign is a board game from Hasbro’s Avalon Hill](https://www.polygon.com/24215341/asara-gamefound-campaign-hasbro-avalon-hill)
- - [Republican vice prez candidate JD Vance nurses a secret passion for Magic: The Gathering, says his wife](https://www.pcgamer.com/games/card-games/republican-vice-prez-candidate-jd-vance-nurses-a-secret-passion-for-magic-the-gathering-says-his-wife)
- - [SteamWorld Heist II: Upgrading Greatness](https://news.xbox.com/en-us/2024/08/07/steamworld-heist-2-xbox/)<!-- GAME:END -->
+ - [Why was Magic School simultaneously announced and canceled? For once, we actually know](https://www.polygon.com/24215274/magic-school-dinosaur-polo-club-canceled-interview)
+ - [Call Of Duty: Black Ops 6 Action Looks Wild With Low Gravity Mod](https://kotaku.com/call-duty-black-ops-6-cod-blops-ps4-leak-mod-1851615761)
+ - [I&#39;ve never needed anything more than &#39;the world&#39;s first medieval electronic instrument,&#39; a pre-Baroque beatbox that looks like a Pentiment/DJ Hero collab](https://www.pcgamer.com/hardware/ive-never-needed-anything-more-than-the-worlds-first-medieval-electronic-instrument-a-pre-baroque-beatbox-that-looks-like-a-pentimentdj-hero-collab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
