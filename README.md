@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, August 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-7-2024)
- - [Here&#39;s what Karlach and Astarion get up to if you leave them at camp: Joining a D&amp;D actual-play show](https://www.pcgamer.com/games/rpg/heres-what-karlach-and-astarion-get-up-to-if-you-leave-them-at-camp-joining-a-dandd-actual-play-show)
- - [Vice-presidential candidate Tim Walz once endorsed a high school Valorant team](https://www.pcgamer.com/games/fps/vice-presidential-candidate-tim-walz-once-endorsed-a-high-school-valorant-team)<!-- GAME:END -->
+ - [Diablo 4: How to get an Infernal Hordes Compass and unlock the new hellish mode](https://www.pcgamer.com/games/rpg/diablo-4-infernal-hordes-compass-abyssal-scrolls)
+ - [Elgato Key Light Neo review](https://www.pcgamer.com/hardware/lighting/elgato-key-light-neo-review)
+ - [&#39;Everything&#39;s held together with duct tape&#39;: Fallout London&#39;s project lead discusses all the bugs, including the infamous train crash](https://www.pcgamer.com/games/fallout/everythings-held-together-with-duct-tape-fallout-londons-project-lead-discusses-all-the-bugs-including-the-infamous-train-crash)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
