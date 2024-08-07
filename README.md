@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Space Marine 2 feels even more explosively, grimly, and hilariously authentic to the Warhammer 40,000 universe than the first game](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-feels-even-more-explosively-grimly-and-hilariously-authentic-to-the-warhammer-40-000-universe-than-the-first-game)
- - [House of the Dragon season 2 told a deeper story through its dragons](https://www.polygon.com/24214547/house-dragon-season-2-book-spoilers-rhaenyra)
- - [Intel CEO says Panther Lake CPU on its new 18A node is already up and running with production slated for next year](https://www.pcgamer.com/hardware/processors/intel-ceo-says-panther-lake-cpu-on-its-new-18a-node-is-already-up-and-running-with-production-slated-for-next-year)<!-- GAME:END -->
+ - [Gamefound’s next big campaign is a board game from Hasbro’s Avalon Hill](https://www.polygon.com/24215341/asara-gamefound-campaign-hasbro-avalon-hill)
+ - [Republican vice prez candidate JD Vance nurses a secret passion for Magic: The Gathering, says his wife](https://www.pcgamer.com/games/card-games/republican-vice-prez-candidate-jd-vance-nurses-a-secret-passion-for-magic-the-gathering-says-his-wife)
+ - [SteamWorld Heist II: Upgrading Greatness](https://news.xbox.com/en-us/2024/08/07/steamworld-heist-2-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
