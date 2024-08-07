@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fake speed bumper](http://9gag.com/gag/abA6enp)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)
- - 👉 [They won&#39;t show this on the news channel, would they?](http://9gag.com/gag/a0edo0n)<!-- MEMES:END -->
+ - 6️⃣ [Oh boy oh boy](http://9gag.com/gag/a4PZPo1)
+ - 😝 [Japan right now](http://9gag.com/gag/aXPAPe9)
+ - 👉 [Brutal](http://9gag.com/gag/apRr1Ln)<!-- MEMES:END -->
 
 --- 
 
