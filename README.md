@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh boy oh boy](http://9gag.com/gag/a4PZPo1)
- - 😝 [Understandable](http://9gag.com/gag/ajPq7n1)
- - 👉 [Pedo woman](http://9gag.com/gag/ayNL4Wp)<!-- MEMES:END -->
+ - 6️⃣ [That was cute AF](http://9gag.com/gag/aD2jndN)
+ - 😝 [Pedo woman](http://9gag.com/gag/ayNL4Wp)
+ - 👉 [Civil War among us](http://9gag.com/gag/aD2j85O)<!-- MEMES:END -->
 
 --- 
 
