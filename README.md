@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike Faces a Potential Tsunami of Lawsuits. Only the Fine Print Can Save It, Experts Say](https://www.wired.com/story/crowdstrike-outage-microsoft-delta-lawsuits-analysis/)
- - [Ford announces Bronco- and Mustang-inspired e-bikes](https://www.theverge.com/2024/8/7/24214731/ford-ebike-bronco-mustang-specs-price-photos)
- - [UK officials say X has been less responsive to removing disinformation than Meta, Google, and TikTok, as Elon Musk launches a series of jibes at Keir Starmer &lpar;Financial Times&rpar;](http://www.techmeme.com/240807/p7#a240807p7)<!-- TECH:END -->
+ - [Sources: in 2017 and 2018, Intel and OpenAI executives discussed Intel buying a 15% stake for $1B in cash, but CEO Bob Swan did not go forward with the deal &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240807/p17#a240807p17)
+ - [Samsung’s Frame TV is finally getting the knockoffs it deserves](https://www.theverge.com/2024/8/7/24215184/tcl-nxtframe-samsung-frame-tv-knockoff-price-announcement)
+ - [The UK Online Safety Bill, set to take effect in 2025, wouldn&#39;t address anti-immigrant lies on X and Telegram that fueled riots, even before it was watered down &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240807/p16#a240807p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
