@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)
- - 😝 [Brutal](http://9gag.com/gag/apRr1Ln)
- - 👉 [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)<!-- MEMES:END -->
+ - 6️⃣ [Groom exposes bride that cheated with his friend](http://9gag.com/gag/ae9Y4rv)
+ - 😝 [Terrorist trying to sneak inside israel](http://9gag.com/gag/a5QZBzq)
+ - 👉 [Oh boy oh boy](http://9gag.com/gag/a4PZPo1)<!-- MEMES:END -->
 
 --- 
 
