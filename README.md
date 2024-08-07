@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTuber iShowSpeed Challenged By Olympic Runner After Saying He&#39;s Never Lost A Race](https://kotaku.com/ishowspeed-ewa-swoboda-olympics-youtube-ban-1851615934)
- - [A pedophile used Roblox to groom, abduct and sexually assault a 15-year-old girl, a full 18 months after the community had outed him as a predator](https://www.pcgamer.com/software/platforms/a-pedophile-used-roblox-to-groom-abduct-and-sexually-assault-a-15-year-old-girl-a-full-18-months-after-the-community-had-outed-him-as-a-predator)
- - [Baldur&#39;s Gate 3 anniversary statistics cement the popularity of Astarion, kissing, and being turned into a cheese wheel](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-anniversary-statistics-cement-the-popularity-of-astarion-kissing-and-being-turned-into-a-cheese-wheel)<!-- GAME:END -->
+ - [Lone Echo developer Ready at Dawn has reportedly been closed by Meta](https://www.pcgamer.com/games/vr/lone-echo-developer-ready-at-dawn-has-reportedly-been-closed-by-meta)
+ - [The Return Of Christopher Nolan&#39;s Interstellar Gets Delayed](https://kotaku.com/interstellar-theaters-70mm-imax-nolan-release-date-1851616103)
+ - [Diablo IV Glitch Lets Player Gain 30+ Levels In One Second](https://kotaku.com/diablo-iv-umbracrux-level-up-bug-xp-season-5-blizzard-1851616082)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
