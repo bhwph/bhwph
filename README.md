@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why was Magic School simultaneously announced and canceled? For once, we actually know](https://www.polygon.com/24215274/magic-school-dinosaur-polo-club-canceled-interview)
- - [Call Of Duty: Black Ops 6 Action Looks Wild With Low Gravity Mod](https://kotaku.com/call-duty-black-ops-6-cod-blops-ps4-leak-mod-1851615761)
- - [I&#39;ve never needed anything more than &#39;the world&#39;s first medieval electronic instrument,&#39; a pre-Baroque beatbox that looks like a Pentiment/DJ Hero collab](https://www.pcgamer.com/hardware/ive-never-needed-anything-more-than-the-worlds-first-medieval-electronic-instrument-a-pre-baroque-beatbox-that-looks-like-a-pentimentdj-hero-collab)<!-- GAME:END -->
+ - [YouTuber iShowSpeed Challenged By Olympic Runner After Saying He&#39;s Never Lost A Race](https://kotaku.com/ishowspeed-ewa-swoboda-olympics-youtube-ban-1851615934)
+ - [A pedophile used Roblox to groom, abduct and sexually assault a 15-year-old girl, a full 18 months after the community had outed him as a predator](https://www.pcgamer.com/software/platforms/a-pedophile-used-roblox-to-groom-abduct-and-sexually-assault-a-15-year-old-girl-a-full-18-months-after-the-community-had-outed-him-as-a-predator)
+ - [Baldur&#39;s Gate 3 anniversary statistics cement the popularity of Astarion, kissing, and being turned into a cheese wheel](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-anniversary-statistics-cement-the-popularity-of-astarion-kissing-and-being-turned-into-a-cheese-wheel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
