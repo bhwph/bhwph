@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US Judge Ruled Google an Illegal Monopolist. Here Are 5 Things He Could Do Next](https://www.wired.com/story/google-search-monopoly-judge-amit-mehta-options/)
- - [Google Gemini now supports the Pixel Tablet — kind of](https://www.androidauthority.com/gemini-pixel-tablet-3468580/)
- - [Pack Your Bags With 8 Great Deals from Patagonia&#39;s Past-Season Sale](https://www.wired.com/story/patagonias-past-season-sale-2024/)<!-- TECH:END -->
+ - [Coupang reports Q2 revenue up 25% YoY to $7.3B and a net loss of $77M, its first loss since 2022, due to its Farfetch deal and a South Korean regulatory fine &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240806/p38#a240806p38)
+ - [Now Logitech says the ‘forever mouse’ was just an idea](https://www.theverge.com/2024/8/6/24214857/logitech-subscription-mouse-decoder-podcast-hanneke-faber)
+ - [Best Food Processors of 2024: KitchenAid, Cuisinart and More](https://www.cnet.com/home/kitchen-and-household/best-food-processor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
