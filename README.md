@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: in 2017 and 2018, Intel and OpenAI executives discussed Intel buying a 15% stake for $1B in cash, but CEO Bob Swan did not go forward with the deal &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240807/p17#a240807p17)
- - [Samsung’s Frame TV is finally getting the knockoffs it deserves](https://www.theverge.com/2024/8/7/24215184/tcl-nxtframe-samsung-frame-tv-knockoff-price-announcement)
- - [The UK Online Safety Bill, set to take effect in 2025, wouldn&#39;t address anti-immigrant lies on X and Telegram that fueled riots, even before it was watered down &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240807/p16#a240807p16)<!-- TECH:END -->
+ - [The RadKick is Rad Power Bikes’ most affordable e-bike yet — and its first belt drive](https://www.theverge.com/2024/8/7/24215204/rad-power-bikes-radkick-ebike-affordable-belt-drive)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 7&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-07-2024-3466750/)
+ - [Use it or not, AI will have one awesome impact on the Pixel 9](https://www.androidauthority.com/ai-awesome-impact-pixel-9-3467608/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
