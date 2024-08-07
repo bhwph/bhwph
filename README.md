@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That was cute AF](http://9gag.com/gag/aD2jndN)
- - 😝 [Pedo woman](http://9gag.com/gag/ayNL4Wp)
+ - 6️⃣ [During the Spanish Civil War, French architect surrealist painter Alphonse Laurencic designed holding cells for the Spanish government. He built beds in such a manner that the prisoners would roll off them, and placed obstacles on the floor making it impossible to sleep](http://9gag.com/gag/aAyw6gR)
+ - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
  - 👉 [Civil War among us](http://9gag.com/gag/aD2j85O)<!-- MEMES:END -->
 
 --- 
