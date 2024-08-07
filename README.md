@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ad companies making money off of obituary spam](https://www.theverge.com/2024/8/7/24213699/obituray-spam-ai-advertising-ad-exchanges-google-search)
- - [Balatro is getting a free ‘major gameplay update’ in 2025](https://www.theverge.com/2024/8/7/24215342/balatro-free-major-gameplay-update-2025)
- - [X Is Boosting the Far Right’s UK Riots as Telegram Scrambles for Control](https://www.wired.com/story/telegram-is-blocking-the-far-right-from-boosting-the-uk-riots-x-is-emboldening-them/)<!-- TECH:END -->
+ - [Deal: The Apple MacBook Air with M2 goes back to all-time lows](https://www.androidauthority.com/apple-macbook-air-m2-deal-2-3468941/)
+ - [How to transform your Samsung Galaxy Watch Ultra into a Casio G-Shock look-alike](https://www.androidauthority.com/galaxy-watch-ultra-g-shock-3468903/)
+ - [Apple has closed an ancient macOS Safari security hole](https://appleinsider.com/articles/24/08/07/apple-has-closed-an-ancient-macos-safari-security-hole?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
