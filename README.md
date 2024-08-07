@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global crypto hubs like Hong Kong and Dubai face a challenging outlook, as the brightening US political backdrop for crypto attracts companies and investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/240807/p3#a240807p3)
- - [A profile of Kakao founder Kim Beom-su, who was arrested in July on stock manipulation charges relating to Kakao&#39;s takeover of K-pop agency SM Entertainment &lpar;Financial Times&rpar;](http://www.techmeme.com/240807/p2#a240807p2)
- - [Best Apple iPhone SE Cases for 2024](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Yang Zhilin, the founder and CEO of China&#39;s highest-valued AI unicorn Moonshot, who studied at Carnegie Mellon University and worked at Huawei &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/240807/p5#a240807p5)
+ - [Anker charges ahead with launch of 2024 Prime lineup](https://www.androidauthority.com/anker-prime-chargers-2024-3468569/)
+ - [Do you use uBlock Origin on Chrome? You’ll soon have to use another ad blocker](https://www.androidauthority.com/ublock-origin-chrome-ad-blocker-manifest-v2-deprecation-3468485/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
