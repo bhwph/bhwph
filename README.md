@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The RadKick is Rad Power Bikes’ most affordable e-bike yet — and its first belt drive](https://www.theverge.com/2024/8/7/24215204/rad-power-bikes-radkick-ebike-affordable-belt-drive)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 7&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-07-2024-3466750/)
- - [Use it or not, AI will have one awesome impact on the Pixel 9](https://www.androidauthority.com/ai-awesome-impact-pixel-9-3467608/)<!-- TECH:END -->
+ - [The ad companies making money off of obituary spam](https://www.theverge.com/2024/8/7/24213699/obituray-spam-ai-advertising-ad-exchanges-google-search)
+ - [Balatro is getting a free ‘major gameplay update’ in 2025](https://www.theverge.com/2024/8/7/24215342/balatro-free-major-gameplay-update-2025)
+ - [X Is Boosting the Far Right’s UK Riots as Telegram Scrambles for Control](https://www.wired.com/story/telegram-is-blocking-the-far-right-from-boosting-the-uk-riots-x-is-emboldening-them/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
