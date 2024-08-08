@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use built-in network security features for Mac, iPhone, and iPad](https://appleinsider.com/articles/24/08/08/how-to-use-built-in-network-security-features-for-apple-devices?utm_medium=rss)
- - [The Google TV Streamer is the first device to run Android 14 for TVs](https://www.androidauthority.com/google-tv-streamer-android-14-for-tvs-3469245/)
- - [Apple charging extra for future Apple Intelligence features is probable -- but not imminent](https://appleinsider.com/articles/24/08/08/apple-charging-extra-for-future-apple-intelligence-features-is-probable----but-not-soon?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft’s AI Can Be Turned Into an Automated Phishing Machine](https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/)
+ - [Twitch’s New DJ Program Has Flaws, But It’s the Best There Is](https://www.wired.com/story/twitchs-new-dj-program-may-be-doomed-but-its-the-best-there-is/)
+ - [Tampa-based Rewst, which provides robotic process automation services, raised a $45M Series C led by Sapphire Ventures, bringing its total raised to $104M &lpar;CJ Fairfield/CRN&rpar;](http://www.techmeme.com/240808/p26#a240808p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
