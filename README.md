@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Understandable](http://9gag.com/gag/ajPq7n1)
- - 😝 [Bro used it as a trampoline damn](http://9gag.com/gag/an7yRLn)
+ - 6️⃣ [Next time baby...](http://9gag.com/gag/aVvDmrK)
+ - 😝 [This man took way too much of everything](http://9gag.com/gag/a6ZM51e)
  - 👉 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)<!-- MEMES:END -->
 
 --- 
