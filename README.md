@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)
- - 😝 [Suits and ties](http://9gag.com/gag/aE0RWXx)
- - 👉 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)<!-- MEMES:END -->
+ - 6️⃣ [We salute you](http://9gag.com/gag/axygO3K)
+ - 😝 [BRO !! WTF !! I understand about 10% of what&#39;s going on. The f**k did I do for the last 4 years.](http://9gag.com/gag/ajPqZwp)
+ - 👉 [The Most german Athlete I could Imagine](http://9gag.com/gag/awy5dP8)<!-- MEMES:END -->
 
 --- 
 
