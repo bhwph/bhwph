@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon’s Ewan Mitchell loves not knowing what Aemond will do next](https://www.polygon.com/24214846/house-dragon-ewan-mitchell-interview-season-2-finale)
- - [That Time I Got Reincarnated as a Slime Isekai Chronicles: city-building gameplay details](https://blog.playstation.com/2024/08/08/that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-city-building-gameplay-details/)
- - [A rare A24 doc probes the undeniable power of psychics, even if it’s all BS](https://www.polygon.com/24215969/look-into-my-eyes-trailer-psychic-a24-documentary)<!-- GAME:END -->
+ - [This Is Your Regularly Scheduled Reminder That Dishonored 2 Is A Masterpiece](https://kotaku.com/dishonored-2-arkane-wolfeye-new-game-immersive-sim-1851616734)
+ - [Turkey just straight-up banned Roblox for &#39;child exploitation&#39;](https://www.pcgamer.com/gaming-industry/turkey-just-straight-up-banned-roblox-for-child-exploitation)
+ - [Alien: Isolation under the microscope: an excerpt from new companion book Perfect Organism](https://www.pcgamer.com/gaming-industry/alien-isolation-under-the-microscope-an-excerpt-from-new-companion-book-perfect-organism)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
