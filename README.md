@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Similarweb: active UK Telegram users hit 3.1M on July 29 and 3.7M on July 30 after a stabbing, as rioters turn to chat apps, up from 2.7M average in early 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240808/p6#a240808p6)
- - [The Trump Campaign Is All In on Dude-Bro Politics](https://www.wired.com/story/the-trump-campaign-is-all-in-on-dude-bro-politics/)
- - [YouTube gives more users the power to call out fake news and misinformation](https://www.androidauthority.com/youtube-inviting-more-users-notes-feature-3469099/)<!-- TECH:END -->
+ - [Indian crypto exchange WazirX plans to undo all trades that occurred following its withdrawal freeze on July 18 &quot;over the next few days&quot;, after a $230M+ hack &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/240808/p15#a240808p15)
+ - [The cheesegrater Mac Pro could still be the best Mac ever made](https://appleinsider.com/articles/22/08/07/the-cheesegrater-mac-pro-is-16-year-old-and-still-the-best-mac-ever-made----for-now?utm_medium=rss)
+ - [How to use built-in network security features for Apple devices](https://appleinsider.com/articles/24/08/08/how-to-use-built-in-network-security-features-for-apple-devices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
