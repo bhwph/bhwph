@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palmer Luckey’s Defense Startup, Anduril, Raises $1.5 Billion to Produce AI-Powered Weapons](https://www.wired.com/story/anduril-palmer-luckey-funding-ai-drones-arsenal-factory/)
- - [An interview with Mozilla interim CEO Laura Chambers on investing in Firefox, privacy-preserving ad measurements, becoming less dependent on Google, and more &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/240807/p38#a240807p38)
- - [A group of VCs, including Reid Hoffman and Ron Conway, hosted a &quot;VCs for Kamala&quot; Zoom call to support Harris&#39; campaign with up to 600 attendees, raising $150K &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240807/p37#a240807p37)<!-- TECH:END -->
+ - [YouTube channels focusing on cars, like Car Throttle and Donut, have seen an exodus of popular on-camera talent, often after investors acquired their channels &lpar;Tim Stevens/The Verge&rpar;](http://www.techmeme.com/240808/p3#a240808p3)
+ - [Sources: Google and Meta ran a pilot program in the US in May 2024 to target Instagram ads to teenagers on YouTube, which prohibits targeting ads to under-18s &lpar;Financial Times&rpar;](http://www.techmeme.com/240808/p2#a240808p2)
+ - [You can now try out the new Weather app ahead of the Pixel 9’s release](https://www.androidauthority.com/pixel-9-weather-app-sideload-apk-available-3469072/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
