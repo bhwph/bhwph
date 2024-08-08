@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Solar Companies of August 2024](https://www.cnet.com/home/energy-and-utilities/best-solar-companies/#ftag=CAD590a51e)
- - [Techstars lays off 17% of its workforce, and says it will end the JP Morgan-backed $80M Advancing Cities fund after it is fully deployed at the end of 2024 &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240807/p35#a240807p35)
- - [Kamala Harris’ VC supporters raise $150,000 on a Zoom call](https://www.theverge.com/2024/8/7/24215669/vcs-for-kamala-harris-zoom-call)<!-- TECH:END -->
+ - [Palmer Luckey’s Defense Startup, Anduril, Raises $1.5 Billion to Produce AI-Powered Weapons](https://www.wired.com/story/anduril-palmer-luckey-funding-ai-drones-arsenal-factory/)
+ - [An interview with Mozilla interim CEO Laura Chambers on investing in Firefox, privacy-preserving ad measurements, becoming less dependent on Google, and more &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/240807/p38#a240807p38)
+ - [A group of VCs, including Reid Hoffman and Ron Conway, hosted a &quot;VCs for Kamala&quot; Zoom call to support Harris&#39; campaign with up to 600 attendees, raising $150K &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240807/p37#a240807p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
