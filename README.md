@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [During the Spanish Civil War, French architect surrealist painter Alphonse Laurencic designed holding cells for the Spanish government. He built beds in such a manner that the prisoners would roll off them, and placed obstacles on the floor making it impossible to sleep](http://9gag.com/gag/aAyw6gR)
- - 😝 [Comparison.](http://9gag.com/gag/a7oZoXA)
- - 👉 [Civil War among us](http://9gag.com/gag/aD2j85O)<!-- MEMES:END -->
+ - 6️⃣ [Understandable](http://9gag.com/gag/ajPq7n1)
+ - 😝 [Bro used it as a trampoline damn](http://9gag.com/gag/an7yRLn)
+ - 👉 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)<!-- MEMES:END -->
 
 --- 
 
