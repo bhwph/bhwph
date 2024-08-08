@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We salute you](http://9gag.com/gag/axygO3K)
- - 😝 [BRO !! WTF !! I understand about 10% of what&#39;s going on. The f**k did I do for the last 4 years.](http://9gag.com/gag/ajPqZwp)
- - 👉 [The Most german Athlete I could Imagine](http://9gag.com/gag/awy5dP8)<!-- MEMES:END -->
+ - 6️⃣ [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
+ - 😝 [The Olympics under Shari&#39;a law TV](http://9gag.com/gag/a1md2NY)
+ - 👉 [Gimme your worst](http://9gag.com/gag/aZZBwXn)<!-- MEMES:END -->
 
 --- 
 
