@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s AI Can Be Turned Into an Automated Phishing Machine](https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/)
- - [Twitch’s New DJ Program Has Flaws, But It’s the Best There Is](https://www.wired.com/story/twitchs-new-dj-program-may-be-doomed-but-its-the-best-there-is/)
- - [Tampa-based Rewst, which provides robotic process automation services, raised a $45M Series C led by Sapphire Ventures, bringing its total raised to $104M &lpar;CJ Fairfield/CRN&rpar;](http://www.techmeme.com/240808/p26#a240808p26)<!-- TECH:END -->
+ - [Deal: The Apple MacBook Pro with M3 is $300 of right now!](https://www.androidauthority.com/apple-macbook-pro-m3-deal-3469289/)
+ - [OpenAI says its latest GPT-4o model is ‘medium’ risk](https://www.theverge.com/2024/8/8/24216193/openai-safety-assessment-gpt-4o)
+ - [What to expect from Google’s Pixel 9 event](https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
