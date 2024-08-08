@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 12 Best Hair Dryers That We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-hair-dryers/)
- - [Rivian and Lucid are still burning a lot of cash, but thankfully, they have rich backers](https://www.theverge.com/2024/8/8/24215217/rivian-lucid-q2-earnings-ev-investors-vw-saudi-arabia)
- - [Google’s new weather app has leaked ahead of the Pixel 9 launch](https://www.theverge.com/2024/8/8/24215947/google-pixel-weather-app-sideload-early)<!-- TECH:END -->
+ - [How to use built-in network security features for Mac, iPhone, and iPad](https://appleinsider.com/articles/24/08/08/how-to-use-built-in-network-security-features-for-apple-devices?utm_medium=rss)
+ - [The Google TV Streamer is the first device to run Android 14 for TVs](https://www.androidauthority.com/google-tv-streamer-android-14-for-tvs-3469245/)
+ - [Apple charging extra for future Apple Intelligence features is probable -- but not imminent](https://appleinsider.com/articles/24/08/08/apple-charging-extra-for-future-apple-intelligence-features-is-probable----but-not-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
