@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The CrowdStrike bug showed the world that one weak link in the chain can lead to chaos in a heartbeat](https://www.pcgamer.com/software/the-crowdstrike-bug-showed-the-world-that-one-weak-link-in-the-chain-can-lead-to-chaos-in-a-heartbeat)
- - [&#39;Now it is war&#39;: Elon Musk and Twitter accuse an advertising alliance, which includes EA and Twitch, of conspiring against the platform and breaking US antitrust law](https://www.pcgamer.com/gaming-industry/now-it-is-war-elon-musk-and-twitter-accuse-an-advertising-alliance-which-includes-ea-and-twitch-of-conspiring-against-the-platform-and-breaking-us-antitrust-law)
- - [Sony says the 220 layoffs at Bungie were made in the name of—you guessed it—things like &#39;portfolio optimization&#39; and enhancing &#39;the efficiency of the business&#39;](https://www.pcgamer.com/games/fps/sony-says-the-220-layoffs-at-bungie-were-made-in-the-name-of-you-guessed-it-things-like-portfolio-optimization-and-enhancing-the-efficiency-of-the-business)<!-- GAME:END -->
+ - [House of the Dragon’s Ewan Mitchell loves not knowing what Aemond will do next](https://www.polygon.com/24214846/house-dragon-ewan-mitchell-interview-season-2-finale)
+ - [That Time I Got Reincarnated as a Slime Isekai Chronicles: city-building gameplay details](https://blog.playstation.com/2024/08/08/that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-city-building-gameplay-details/)
+ - [A rare A24 doc probes the undeniable power of psychics, even if it’s all BS](https://www.polygon.com/24215969/look-into-my-eyes-trailer-psychic-a24-documentary)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
