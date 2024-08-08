@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I\u2019m here just for the comments](http://9gag.com/gag/avyrRyn)
- - 😝 [Go Ireland!](http://9gag.com/gag/aXPA4oD)
- - 👉 [Just think about it](http://9gag.com/gag/a1md5WG)<!-- MEMES:END -->
+ - 6️⃣ [The Olympics under Shari&#39;a law TV](http://9gag.com/gag/a1md2NY)
+ - 😝 [Shocked with the power of it](http://9gag.com/gag/a9yW8mm)
+ - 👉 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)<!-- MEMES:END -->
 
 --- 
 
