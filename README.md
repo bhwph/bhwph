@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
- - 😝 [Paris Olympics 100m winner Noah Lyles pulling out a Yu-Gi-Oh &lpar;Blue-Eyes White Dragon&rpar; card for his 100m intro at the US trials](http://9gag.com/gag/aMVwm5P)
- - 👉 [You got this? How\u2019s work lately?](http://9gag.com/gag/aqyrxNY)<!-- MEMES:END -->
+ - 6️⃣ [Cuban superheavyweight Greco-Roman wrestler Mija\u00edn L\u00f3pez is the first athlete EVER to claim five successive Olympic gold medals in an individual event. He left his shoes in the ring to signal his retirement. F**king legend.](http://9gag.com/gag/aXPA45D)
+ - 😝 [`f**k around and find out`](http://9gag.com/gag/aO8dDw6)
+ - 👉 [Go Ireland!](http://9gag.com/gag/aXPA4oD)<!-- MEMES:END -->
 
 --- 
 
