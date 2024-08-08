@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android app devs can now test their apps on Samsung, Xiaomi, and OPPO devices via streaming](https://www.androidauthority.com/android-device-streaming-3469033/)
- - [Bumble reports Q2 revenue up 3.4% YoY to $268.6M, vs. $273.2M est., and projects 1% to 2% annual revenue growth, vs. 8.4% expected; BMBL drops 28%+ after hours &lpar;Evan Gorelick/Bloomberg&rpar;](http://www.techmeme.com/240807/p29#a240807p29)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Kamala Harris’ VC supporters raise $150,000 on a Zoom call](https://www.theverge.com/2024/8/7/24215669/vcs-for-kamala-harris-zoom-call)
+ - [Midea 2 Zone Air Fryer review: great air fryer, abysmal app, and lots of sticker shock](https://appleinsider.com/articles/24/08/08/midea-2-zone-air-fryer-review-great-air-fryer-abysmal-app-and-lots-of-sticker-shock?utm_medium=rss)
+ - [A researcher details a Windows Update vulnerability that could be exploited to downgrade key components of Windows to older versions that contain known flaws &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/240807/p34#a240807p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
