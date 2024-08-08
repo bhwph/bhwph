@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Paris Olympics 100m winner Noah Lyles pulling out a Yu-Gi-Oh &lpar;Blue-Eyes White Dragon&rpar; card for his 100m intro at the US trials](http://9gag.com/gag/aMVwm5P)
- - 😝 [During the Spanish Civil War, French architect surrealist painter Alphonse Laurencic designed holding cells for the Spanish government. He built beds in such a manner that the prisoners would roll off them, and placed obstacles on the floor making it impossible to sleep](http://9gag.com/gag/aAyw6gR)
- - 👉 [Bro used it as a trampoline damn](http://9gag.com/gag/an7yRLn)<!-- MEMES:END -->
+ - 6️⃣ [Everything changed when the firefox attacked..](http://9gag.com/gag/apRr1dD)
+ - 😝 [The vet visit\u2019s gonna be expensive](http://9gag.com/gag/a3475Le)
+ - 👉 [Gimme your worst](http://9gag.com/gag/aZZBwXn)<!-- MEMES:END -->
 
 --- 
 
