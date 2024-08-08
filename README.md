@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Critic reviews of the Borderlands movie are absolutely savage](https://www.pcgamer.com/movies-tv/critic-reviews-of-the-borderlands-movie-are-absolutely-savage)
- - [You Should Give The Order: 1886 Another Chance](https://kotaku.com/the-order-1886-ps4-sale-ready-at-dawn-closure-1851617233)
- - [Final Fantasy 1-6 Pixel Remaster games are 20% off through this weekend](https://www.polygon.com/deals/2024/8/8/24216226/final-fantasy-i-vi-pixel-remaster-sale)<!-- GAME:END -->
+ - [Arrowhead boss says he&#39;s not upset by the latest Helldivers 2 balance uproar: &#39;I&#39;d take this ANY day of the week over nobody giving a s**t&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-boss-says-hes-not-upset-by-the-latest-helldivers-2-balance-uproar-id-take-this-any-day-of-the-week-over-nobody-giving-a-st)
+ - [GTA 6: Everything we know so far about Rockstar’s next game](https://www.polygon.com/23952805/gta-6-grand-theft-auto-leaks-release-date-trailer)
+ - [Splitgate 2&#39;s first gameplay is here, and yep, added classes changes everything](https://www.pcgamer.com/games/fps/splitgate-2s-first-gameplay-is-here-and-yep-added-classes-changes-everything)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
