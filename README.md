@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Everything changed when the firefox attacked..](http://9gag.com/gag/apRr1dD)
- - 😝 [The vet visit\u2019s gonna be expensive](http://9gag.com/gag/a3475Le)
- - 👉 [Gimme your worst](http://9gag.com/gag/aZZBwXn)<!-- MEMES:END -->
+ - 6️⃣ [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
+ - 😝 [Paris Olympics 100m winner Noah Lyles pulling out a Yu-Gi-Oh &lpar;Blue-Eyes White Dragon&rpar; card for his 100m intro at the US trials](http://9gag.com/gag/aMVwm5P)
+ - 👉 [You got this? How\u2019s work lately?](http://9gag.com/gag/aqyrxNY)<!-- MEMES:END -->
 
 --- 
 
