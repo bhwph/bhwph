@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The Apple MacBook Pro with M3 is $300 of right now!](https://www.androidauthority.com/apple-macbook-pro-m3-deal-3469289/)
- - [OpenAI says its latest GPT-4o model is ‘medium’ risk](https://www.theverge.com/2024/8/8/24216193/openai-safety-assessment-gpt-4o)
- - [What to expect from Google’s Pixel 9 event](https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks)<!-- TECH:END -->
+ - [OLED displays might be coming to the iPad Air and Mini as early as 2026](https://www.androidauthority.com/oled-display-ipad-air-mini-2026-3469389/)
+ - [Epic Games &amp; Spotify unsurprisingly unhappy with Apple&#39;s latest DMA update](https://appleinsider.com/articles/24/08/08/epic-games-spotify-unsurprisingly-unhappy-with-apples-latest-dma-update?utm_medium=rss)
+ - [Google is already testing Wear OS 5.1, could be based on Android 15](https://www.androidauthority.com/wear-os-5-1-android-15-3469455/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
