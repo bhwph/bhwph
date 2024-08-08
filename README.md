@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at AI age scanners, which websites use to verify a person&#39;s age by analyzing their facial patterns via webcam to help safeguard kids online &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240808/p4#a240808p4)
- - [As Skies Fill With Space Junk, Nonprofit Urges US to Pause StarLink Launches](https://www.wired.com/story/pirg-starlink-environmental-review-space-garbage/)
- - [YouTube channels focusing on cars, like Car Throttle and Donut, have seen an exodus of popular on-camera talent, often after investors acquired their channels &lpar;Tim Stevens/The Verge&rpar;](http://www.techmeme.com/240808/p3#a240808p3)<!-- TECH:END -->
+ - [Similarweb: active UK Telegram users hit 3.1M on July 29 and 3.7M on July 30 after a stabbing, as rioters turn to chat apps, up from 2.7M average in early 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240808/p6#a240808p6)
+ - [The Trump Campaign Is All In on Dude-Bro Politics](https://www.wired.com/story/the-trump-campaign-is-all-in-on-dude-bro-politics/)
+ - [YouTube gives more users the power to call out fake news and misinformation](https://www.androidauthority.com/youtube-inviting-more-users-notes-feature-3469099/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
