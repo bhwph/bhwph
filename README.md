@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands film goes from disaster to farce as the guy who rigged Claptrap says neither he nor the model artist are credited](https://www.pcgamer.com/gaming-industry/borderlands-film-goes-from-disaster-to-farce-as-the-guy-who-rigged-claptrap-says-neither-he-nor-the-model-artist-are-credited)
- - [Behind the music video ‘mods’ MTV doesn’t want you to see &lpar;legally&rpar;](https://www.polygon.com/24213898/mtv-video-mods-retrospective-what-happened)
- - [The first look at Netflix’s YA dystopian series Uglies is a helluva flashback](https://www.polygon.com/24216121/uglies-netflix-first-look-trailer-ya-dystopia)<!-- GAME:END -->
+ - [Critic reviews of the Borderlands movie are absolutely savage](https://www.pcgamer.com/movies-tv/critic-reviews-of-the-borderlands-movie-are-absolutely-savage)
+ - [You Should Give The Order: 1886 Another Chance](https://kotaku.com/the-order-1886-ps4-sale-ready-at-dawn-closure-1851617233)
+ - [Final Fantasy 1-6 Pixel Remaster games are 20% off through this weekend](https://www.polygon.com/deals/2024/8/8/24216226/final-fantasy-i-vi-pixel-remaster-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
