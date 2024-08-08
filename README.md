@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian crypto exchange WazirX plans to undo all trades that occurred following its withdrawal freeze on July 18 &quot;over the next few days&quot;, after a $230M+ hack &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/240808/p15#a240808p15)
- - [The cheesegrater Mac Pro could still be the best Mac ever made](https://appleinsider.com/articles/22/08/07/the-cheesegrater-mac-pro-is-16-year-old-and-still-the-best-mac-ever-made----for-now?utm_medium=rss)
- - [How to use built-in network security features for Apple devices](https://appleinsider.com/articles/24/08/08/how-to-use-built-in-network-security-features-for-apple-devices?utm_medium=rss)<!-- TECH:END -->
+ - [The 12 Best Hair Dryers That We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-hair-dryers/)
+ - [Rivian and Lucid are still burning a lot of cash, but thankfully, they have rich backers](https://www.theverge.com/2024/8/8/24215217/rivian-lucid-q2-earnings-ev-investors-vw-saudi-arabia)
+ - [Google’s new weather app has leaked ahead of the Pixel 9 launch](https://www.theverge.com/2024/8/8/24215947/google-pixel-weather-app-sideload-early)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
