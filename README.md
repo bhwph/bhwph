@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cuban superheavyweight Greco-Roman wrestler Mija\u00edn L\u00f3pez is the first athlete EVER to claim five successive Olympic gold medals in an individual event. He left his shoes in the ring to signal his retirement. F**king legend.](http://9gag.com/gag/aXPA45D)
- - 😝 [`f**k around and find out`](http://9gag.com/gag/aO8dDw6)
- - 👉 [Go Ireland!](http://9gag.com/gag/aXPA4oD)<!-- MEMES:END -->
+ - 6️⃣ [I\u2019m here just for the comments](http://9gag.com/gag/avyrRyn)
+ - 😝 [Go Ireland!](http://9gag.com/gag/aXPA4oD)
+ - 👉 [Just think about it](http://9gag.com/gag/a1md5WG)<!-- MEMES:END -->
 
 --- 
 
