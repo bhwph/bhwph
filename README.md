@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Olympics under Shari&#39;a law TV](http://9gag.com/gag/a1md2NY)
- - 😝 [Shocked with the power of it](http://9gag.com/gag/a9yW8mm)
- - 👉 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)<!-- MEMES:END -->
+ - 6️⃣ [Like a movie star!](http://9gag.com/gag/a2vdyZO)
+ - 😝 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
+ - 👉 [Not a boomer complaint. Reality. I&#39;m tired of knowing a million logins, passwords and being tracked with everything. Even basic household items now want to track and log me in. Forget it.](http://9gag.com/gag/an7yD4o)<!-- MEMES:END -->
 
 --- 
 
