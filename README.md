@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Is Your Regularly Scheduled Reminder That Dishonored 2 Is A Masterpiece](https://kotaku.com/dishonored-2-arkane-wolfeye-new-game-immersive-sim-1851616734)
- - [Turkey just straight-up banned Roblox for &#39;child exploitation&#39;](https://www.pcgamer.com/gaming-industry/turkey-just-straight-up-banned-roblox-for-child-exploitation)
- - [Alien: Isolation under the microscope: an excerpt from new companion book Perfect Organism](https://www.pcgamer.com/gaming-industry/alien-isolation-under-the-microscope-an-excerpt-from-new-companion-book-perfect-organism)<!-- GAME:END -->
+ - [Borderlands film goes from disaster to farce as the guy who rigged Claptrap says neither he nor the model artist are credited](https://www.pcgamer.com/gaming-industry/borderlands-film-goes-from-disaster-to-farce-as-the-guy-who-rigged-claptrap-says-neither-he-nor-the-model-artist-are-credited)
+ - [Behind the music video ‘mods’ MTV doesn’t want you to see &lpar;legally&rpar;](https://www.polygon.com/24213898/mtv-video-mods-retrospective-what-happened)
+ - [The first look at Netflix’s YA dystopian series Uglies is a helluva flashback](https://www.polygon.com/24216121/uglies-netflix-first-look-trailer-ya-dystopia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
