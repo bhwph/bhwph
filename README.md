@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube channels focusing on cars, like Car Throttle and Donut, have seen an exodus of popular on-camera talent, often after investors acquired their channels &lpar;Tim Stevens/The Verge&rpar;](http://www.techmeme.com/240808/p3#a240808p3)
- - [Sources: Google and Meta ran a pilot program in the US in May 2024 to target Instagram ads to teenagers on YouTube, which prohibits targeting ads to under-18s &lpar;Financial Times&rpar;](http://www.techmeme.com/240808/p2#a240808p2)
- - [You can now try out the new Weather app ahead of the Pixel 9’s release](https://www.androidauthority.com/pixel-9-weather-app-sideload-apk-available-3469072/)<!-- TECH:END -->
+ - [A look at AI age scanners, which websites use to verify a person&#39;s age by analyzing their facial patterns via webcam to help safeguard kids online &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240808/p4#a240808p4)
+ - [As Skies Fill With Space Junk, Nonprofit Urges US to Pause StarLink Launches](https://www.wired.com/story/pirg-starlink-environmental-review-space-garbage/)
+ - [YouTube channels focusing on cars, like Car Throttle and Donut, have seen an exodus of popular on-camera talent, often after investors acquired their channels &lpar;Tim Stevens/The Verge&rpar;](http://www.techmeme.com/240808/p3#a240808p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
