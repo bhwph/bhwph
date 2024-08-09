@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
- - 😝 [This is so disgusting..](http://9gag.com/gag/a1mdOmG)
- - 👉 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)<!-- MEMES:END -->
+ - 6️⃣ [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
+ - 😝 [I know someone who will do it for less](http://9gag.com/gag/aBywEVZ)
+ - 👉 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)<!-- MEMES:END -->
 
 --- 
 
