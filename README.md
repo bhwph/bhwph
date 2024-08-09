@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [Gossip Girl Captures The Bizarre Energy Of The Aughts Like No Other Show](https://kotaku.com/gossip-girl-show-cast-watch-blair-chuck-serena-dan-nate-1851617844)
- - [The Borderlands movie lands on the border between good and bad](https://www.polygon.com/review/24216309/borderlands-movie-review-cate-blanchett)<!-- GAME:END -->
+ - [New SteamOS beta hints at an imminent general install with ROG Ally support added](https://www.pcgamer.com/hardware/handheld-gaming-pcs/new-steamos-beta-hints-at-an-imminent-general-install-with-rog-ally-support-added)
+ - [Last chance to save big on Mario sports games with Nintendo’s Play Together sale](https://www.polygon.com/deals/2024/7/30/24209587/nintendo-games-sale-mario-tennis-strikers-golf-discount)
+ - [Share of the Week: Running](https://blog.playstation.com/2024/08/09/share-of-the-week-running/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
