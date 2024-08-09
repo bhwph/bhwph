@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
- - 😝 [The Olympics under Shari&#39;a law TV](http://9gag.com/gag/a1md2NY)
- - 👉 [Gimme your worst](http://9gag.com/gag/aZZBwXn)<!-- MEMES:END -->
+ - 6️⃣ [Suits and ties](http://9gag.com/gag/aE0RWXx)
+ - 😝 [Craziest gold medal win](http://9gag.com/gag/a7oZNAb)
+ - 👉 [You failed one community duty today](http://9gag.com/gag/an7yx8z)<!-- MEMES:END -->
 
 --- 
 
