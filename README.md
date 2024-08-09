@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh yes....let&#39;s see the kid having fun...](http://9gag.com/gag/a87pV4Q)
- - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
- - 👉 [Truly an Olympics moment](http://9gag.com/gag/aAyw28L)<!-- MEMES:END -->
+ - 6️⃣ [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
+ - 😝 [This is so disgusting..](http://9gag.com/gag/a1mdOmG)
+ - 👉 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)<!-- MEMES:END -->
 
 --- 
 
