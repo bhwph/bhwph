@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Come: Deliverance, a &#39;seriously satisfying RPG&#39; that lets you live the life of a medieval knight in a &#39;rich and reactive open world&#39;, has its price slashed by 83%](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-a-seriously-satisfying-rpg-that-lets-you-live-the-life-of-a-medieval-knight-in-a-rich-and-reactive-open-world-has-its-price-slashed-by-83)
- - [God of War Ragnarök needs a chonky 190 GB of SSD space but the rest of the system requirements seem pretty reasonable](https://www.pcgamer.com/games/action/god-of-war-ragnarok-needs-a-chonky-190-gb-of-ssd-space-but-the-rest-of-the-system-requirements-seem-pretty-reasonable)
- - [Best Sorcerer builds in Diablo 4 season 5](https://www.polygon.com/diablo-4-guides/23653283/sorcerer-best-build-skills)<!-- GAME:END -->
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [Gossip Girl Captures The Bizarre Energy Of The Aughts Like No Other Show](https://kotaku.com/gossip-girl-show-cast-watch-blair-chuck-serena-dan-nate-1851617844)
+ - [The Borderlands movie lands on the border between good and bad](https://www.polygon.com/review/24216309/borderlands-movie-review-cate-blanchett)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
