@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You failed one community duty today](http://9gag.com/gag/an7yx8z)
+ - 6️⃣ [Oh yes....let&#39;s see the kid having fun...](http://9gag.com/gag/a87pV4Q)
  - 😝 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
- - 👉 [Simps are cancer](http://9gag.com/gag/aVvDVXM)<!-- MEMES:END -->
+ - 👉 [Truly an Olympics moment](http://9gag.com/gag/aAyw28L)<!-- MEMES:END -->
 
 --- 
 
