@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [30 Best Mac Apps You Should Download Now &lpar;2024&rpar;: Free and Paid](https://www.wired.com/story/best-mac-apps/)
- - [Price war: Apple&#39;s M3 14-inch MacBook Pro drops to record low $1,299](https://appleinsider.com/articles/24/08/09/price-war-apples-m3-14-inch-macbook-pro-drops-to-record-low-1299?utm_medium=rss)
- - [How to Build a PC &lpar;2024&rpar;: Hardware Suggestions, Instructions, and More](https://www.wired.com/story/how-to-build-a-pc/)<!-- TECH:END -->
+ - [&#39;Crush House&#39; Is a Game For People Who Love Drama](https://www.wired.com/story/crush-house-is-the-sims-for-people-who-like-drama/)
+ - [Intel details a microcode patch, available through BIOS updates, to address the elevated voltage issues that were damaging some of its 13th- and 14th-gen CPUs &lpar;Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240809/p14#a240809p14)
+ - [YouTube’s latest experiment is a sleep timer](https://www.androidauthority.com/youtube-sleep-timer-experiment-3469668/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
