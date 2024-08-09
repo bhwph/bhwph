@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
- - 😝 [I know someone who will do it for less](http://9gag.com/gag/aBywEVZ)
- - 👉 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)<!-- MEMES:END -->
+ - 6️⃣ [Simps are cancer](http://9gag.com/gag/aVvDVXM)
+ - 😝 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
+ - 👉 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)<!-- MEMES:END -->
 
 --- 
 
