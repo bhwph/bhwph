@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cambridge Audio Evo One Review: A Gorgeous High-End Speaker](https://www.wired.com/review/review-cambridge-audio-evo-one/)
- - [Judging Breaking At the Olympics Is an Art, Not a Science](https://www.wired.com/story/judging-breaking-at-the-olympics-is-an-art-not-a-science/)
- - [Olympic Drag Artist Nicky Doll Hits Back at Online Hate Mob](https://www.wired.com/story/olympics-opening-ceremony-drag-artist-nicky-doll-harassment/)<!-- TECH:END -->
+ - [Venezuelan President Nicolas Maduro bans X in the country for ten days, accusing Elon Musk of using X to promote hatred after Venezuela&#39;s disputed election &lpar;Reuters&rpar;](http://www.techmeme.com/240809/p4#a240809p4)
+ - [Google Photos’ Library is dead — say hello to Collections](https://www.theverge.com/2024/8/9/24216637/google-photos-collections-library-update-ios-android)
+ - [The Olympics&#39; Hostile Architecture Is a Preview of What&#39;s to Come](https://www.wired.com/story/paris-los-angeles-olympics-hostile-architecture-homeless/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
