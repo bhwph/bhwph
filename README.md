@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You failed one community duty today](http://9gag.com/gag/an7yx8z)
- - 😝 [Husband and wife tag team](http://9gag.com/gag/aMVwvAP)
- - 👉 [Suits and ties](http://9gag.com/gag/aE0RWXx)<!-- MEMES:END -->
+ - 6️⃣ [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)
+ - 😝 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
+ - 👉 [Meanwhile we have our own meme... The guy won 2 golds...yey..](http://9gag.com/gag/aYQKPZ2)<!-- MEMES:END -->
 
 --- 
 
