@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New SteamOS beta hints at an imminent general install with ROG Ally support added](https://www.pcgamer.com/hardware/handheld-gaming-pcs/new-steamos-beta-hints-at-an-imminent-general-install-with-rog-ally-support-added)
- - [Last chance to save big on Mario sports games with Nintendo’s Play Together sale](https://www.polygon.com/deals/2024/7/30/24209587/nintendo-games-sale-mario-tennis-strikers-golf-discount)
- - [Share of the Week: Running](https://blog.playstation.com/2024/08/09/share-of-the-week-running/)<!-- GAME:END -->
+ - [Disney’s limited edition Star Tours playset just activated the nostalgia center of my brain.](https://www.polygon.com/24216914/d23-disney-star-tours-starspeeder-playset-pre-order-where-to-buy)
+ - [The Internet Reacts To Breakdancing &#39;Abomination&#39; At Summer Olympics](https://kotaku.com/olympics-2024-breakdancing-raygun-rachael-gunn-1851618427)
+ - [Fallout 4&#39;s best modder is bringing Doom to Starfield and bards to Skyrim](https://www.pcgamer.com/games/rpg/fallout-4s-best-modder-is-bringing-doom-to-starfield-and-bards-to-skyrim)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
