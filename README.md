@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T changes its ‘Bad Golf Day’ ad after T-Mobile complained](https://www.theverge.com/2024/8/9/24216664/att-satellite-calling-ad-updated-tmobile-complained)
- - [The YouTube app could finally get a sleep timer &lpar;Update: Live as a Premium experiment&rpar;](https://www.androidauthority.com/youtube-app-sleep-timer-teardown-3453749/)
- - [Keir Starmer confirms UK&#39;s Online Safety Act will be reviewed after London mayor Sadiq Khan said the law was &quot;not fit for purpose&quot; after far-right riots &lpar;The Guardian&rpar;](http://www.techmeme.com/240809/p8#a240809p8)<!-- TECH:END -->
+ - [30 Best Mac Apps You Should Download Now &lpar;2024&rpar;: Free and Paid](https://www.wired.com/story/best-mac-apps/)
+ - [Price war: Apple&#39;s M3 14-inch MacBook Pro drops to record low $1,299](https://appleinsider.com/articles/24/08/09/price-war-apples-m3-14-inch-macbook-pro-drops-to-record-low-1299?utm_medium=rss)
+ - [How to Build a PC &lpar;2024&rpar;: Hardware Suggestions, Instructions, and More](https://www.wired.com/story/how-to-build-a-pc/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
