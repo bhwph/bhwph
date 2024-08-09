@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Whisper CEO Michael Heyward&#39;s Medialab, which acquired Imgur and Genius and was sued by their founders and others for allegedly failing to honor deals &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/240809/p1#a240809p1)
- - [The Google monopoly ruling dealt a blow to one of Big Tech&#39;s arguments against regulation: that 19th-century antitrust laws can&#39;t address modern tech innovation &lpar;Washington Post&rpar;](http://www.techmeme.com/240808/p40#a240808p40)
- - [One UI 6.1.1 makes streaming apps to your Windows PC less annoying](https://www.androidauthority.com/one-ui-6-1-1-streaming-apps-windows-3469490/)<!-- TECH:END -->
+ - [Cambridge Audio Evo One Review: A Gorgeous High-End Speaker](https://www.wired.com/review/review-cambridge-audio-evo-one/)
+ - [Judging Breaking At the Olympics Is an Art, Not a Science](https://www.wired.com/story/judging-breaking-at-the-olympics-is-an-art-not-a-science/)
+ - [Olympic Drag Artist Nicky Doll Hits Back at Online Hate Mob](https://www.wired.com/story/olympics-opening-ceremony-drag-artist-nicky-doll-harassment/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
