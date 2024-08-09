@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Security breach at ADT exposes customer information](https://www.androidauthority.com/security-breach-adt-3469736/)
- - [You can get the first six Final Fantasy games for around $10 a piece on this weekend deal](https://www.theverge.com/good-deals/2024/8/9/24216891/final-fantasy-1-6-pixel-remaster-bundle-nintendo-playstation-steam-deal-sale)
- - [Netflix’s Arcane, Terminator Zero, and other anime series leak](https://www.theverge.com/2024/8/9/24216863/netflix-arcane-terminator-zero-anime-series-leak)<!-- TECH:END -->
+ - [D23 2024: all the biggest trailers and news out of Disney’s biennial showcase](https://www.theverge.com/2024/8/9/24216962/d23-2024-all-the-biggest-trailers-and-news)
+ - [Steve Jobs&#39; mega yacht bashed a billionaire&#39;s boat in Italy](https://appleinsider.com/articles/24/08/09/steve-jobs-mega-yacht-bashed-a-billionaires-boat-in-italy?utm_medium=rss)
+ - [Here’s one way Google Messages might fix its image compression problem &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-image-compression-3469773/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
