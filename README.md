@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter fans are so hungry for Wilds gameplay that Capcom&#39;s new 60-second weapon clips are racking up millions of views](https://www.pcgamer.com/games/rpg/monster-hunter-fans-are-so-hungry-for-wilds-gameplay-that-capcom-s-new-60-second-weapon-clips-are-racking-up-millions-of-views)
- - [MrBeast Calls For &#39;Full Assessment&#39; Of Company Culture After Recent Allegations](https://kotaku.com/mrbeast-youtube-amazon-prime-ava-tyson-beast-games-1851618563)
- - [Fortnite Player Remakes 20 Seconds Of Deadpool &amp; Wolverine In-Game And Fans Wants The Full Scene](https://kotaku.com/fortnite-remake-deadpool-wolverine-opening-fight-nsync-1851618534)<!-- GAME:END -->
+ - [The Runaways’ Jackie Fox is reimagining her rock ‘n’ roll story in tabletop form](https://www.polygon.com/24216836/jackie-fox-rock-hard-1977-board-game-interview)
+ - [You can get every Dragon Age game yet made for just $10 in EA&#39;s August Steam sale](https://www.pcgamer.com/games/dragon-age/you-can-get-every-dragon-age-game-yet-made-for-just-dollar10-in-eas-august-steam-sale)
+ - [Fallout London&#39;s First Big Update Finally Nerfs Its Deadliest Enemy: Foxes](https://kotaku.com/fallout-london-fox-foxes-nerf-update-bugs-quests-gog-1851618664)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
