@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OLED displays might be coming to the iPad Air and Mini as early as 2026](https://www.androidauthority.com/oled-display-ipad-air-mini-2026-3469389/)
- - [Epic Games &amp; Spotify unsurprisingly unhappy with Apple&#39;s latest DMA update](https://appleinsider.com/articles/24/08/08/epic-games-spotify-unsurprisingly-unhappy-with-apples-latest-dma-update?utm_medium=rss)
- - [Google is already testing Wear OS 5.1, could be based on Android 15](https://www.androidauthority.com/wear-os-5-1-android-15-3469455/)<!-- TECH:END -->
+ - [TikTok and Pinterest partner with Amazon to let users buy items from Amazon ads without leaving the social media apps &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/240808/p38#a240808p38)
+ - [Torras Ostand MagSafe Power Bank review: 2-in-1 charging and stand convenience](https://appleinsider.com/articles/24/08/09/torras-ostand-magsafe-power-bank-review-2-in-1-charging-and-stand-convenience?utm_medium=rss)
+ - [NYC-based Cents, which provides business management and payments services for the laundry industry, raised a $40M Series B, taking its total funding to $77M+ &lpar;AlleyWatch&rpar;](http://www.techmeme.com/240808/p37#a240808p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
