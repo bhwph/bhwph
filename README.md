@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [D23 2024: all the biggest trailers and news out of Disney’s biennial showcase](https://www.theverge.com/2024/8/9/24216962/d23-2024-all-the-biggest-trailers-and-news)
  - [Steve Jobs&#39; mega yacht bashed a billionaire&#39;s boat in Italy](https://appleinsider.com/articles/24/08/09/steve-jobs-mega-yacht-bashed-a-billionaires-boat-in-italy?utm_medium=rss)
- - [Here’s one way Google Messages might fix its image compression problem &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-image-compression-3469773/)<!-- TECH:END -->
+ - [Humble Bundle Capcom sale: Donate $30 and get 12 amazing games](https://www.androidauthority.com/humble-bundle-capcom-sale-3469787/)
+ - [Sony’s adorable Astro Bot controller is now available for preorder](https://www.theverge.com/24215774/astro-bot-limited-edition-dualsense-wireless-controller-preorder-price-release-date-ps5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
