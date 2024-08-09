@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Crush House&#39; Is a Game For People Who Love Drama](https://www.wired.com/story/crush-house-is-the-sims-for-people-who-like-drama/)
- - [Intel details a microcode patch, available through BIOS updates, to address the elevated voltage issues that were damaging some of its 13th- and 14th-gen CPUs &lpar;Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240809/p14#a240809p14)
- - [YouTube’s latest experiment is a sleep timer](https://www.androidauthority.com/youtube-sleep-timer-experiment-3469668/)<!-- TECH:END -->
+ - [Security breach at ADT exposes customer information](https://www.androidauthority.com/security-breach-adt-3469736/)
+ - [You can get the first six Final Fantasy games for around $10 a piece on this weekend deal](https://www.theverge.com/good-deals/2024/8/9/24216891/final-fantasy-1-6-pixel-remaster-bundle-nintendo-playstation-steam-deal-sale)
+ - [Netflix’s Arcane, Terminator Zero, and other anime series leak](https://www.theverge.com/2024/8/9/24216863/netflix-arcane-terminator-zero-anime-series-leak)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
