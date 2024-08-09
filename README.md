@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reconstruction video of East Coast Jets Flight 81](http://9gag.com/gag/aD2jZON)
- - 😝 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
- - 👉 [I did thinking about her](http://9gag.com/gag/axygRVL)<!-- MEMES:END -->
+ - 6️⃣ [You failed one community duty today](http://9gag.com/gag/an7yx8z)
+ - 😝 [Reconstruction video of East Coast Jets Flight 81](http://9gag.com/gag/aD2jZON)
+ - 👉 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)<!-- MEMES:END -->
 
 --- 
 
