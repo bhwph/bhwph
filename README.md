@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Venezuelan President Nicolas Maduro bans X in the country for ten days, accusing Elon Musk of using X to promote hatred after Venezuela&#39;s disputed election &lpar;Reuters&rpar;](http://www.techmeme.com/240809/p4#a240809p4)
- - [Google Photos’ Library is dead — say hello to Collections](https://www.theverge.com/2024/8/9/24216637/google-photos-collections-library-update-ios-android)
- - [The Olympics&#39; Hostile Architecture Is a Preview of What&#39;s to Come](https://www.wired.com/story/paris-los-angeles-olympics-hostile-architecture-homeless/)<!-- TECH:END -->
+ - [AT&amp;T changes its ‘Bad Golf Day’ ad after T-Mobile complained](https://www.theverge.com/2024/8/9/24216664/att-satellite-calling-ad-updated-tmobile-complained)
+ - [The YouTube app could finally get a sleep timer &lpar;Update: Live as a Premium experiment&rpar;](https://www.androidauthority.com/youtube-app-sleep-timer-teardown-3453749/)
+ - [Keir Starmer confirms UK&#39;s Online Safety Act will be reviewed after London mayor Sadiq Khan said the law was &quot;not fit for purpose&quot; after far-right riots &lpar;The Guardian&rpar;](http://www.techmeme.com/240809/p8#a240809p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
