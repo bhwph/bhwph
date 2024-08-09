@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reconstruction video of East Coast Jets Flight 81](http://9gag.com/gag/aD2jZON)
- - 😝 [Suits and ties](http://9gag.com/gag/aE0RWXx)
- - 👉 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)<!-- MEMES:END -->
+ - 6️⃣ [You failed one community duty today](http://9gag.com/gag/an7yx8z)
+ - 😝 [Husband and wife tag team](http://9gag.com/gag/aMVwvAP)
+ - 👉 [Suits and ties](http://9gag.com/gag/aE0RWXx)<!-- MEMES:END -->
 
 --- 
 
