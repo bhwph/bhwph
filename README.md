@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [AMD keeps chipping away at Intel as latest figures show increased market share in PCs, laptops and servers](https://www.pcgamer.com/hardware/processors/amd-keeps-chipping-away-at-intel-as-latest-figures-show-increased-market-share-in-pcs-laptops-and-servers)
  - [Today&#39;s Wordle answer for Friday, August 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-9-2024)
- - [Grand Theft Auto 6 is still on track for fall 2025, and there&#39;s still no sign of a PC version](https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-still-on-track-for-fall-2025-and-theres-still-no-sign-of-a-pc-version)
- - [Arrowhead boss says he&#39;s not upset by the latest Helldivers 2 balance uproar: &#39;I&#39;d take this ANY day of the week over nobody giving a s**t&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-boss-says-hes-not-upset-by-the-latest-helldivers-2-balance-uproar-id-take-this-any-day-of-the-week-over-nobody-giving-a-st)<!-- GAME:END -->
+ - [Grand Theft Auto 6 is still on track for fall 2025, and there&#39;s still no sign of a PC version](https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-still-on-track-for-fall-2025-and-theres-still-no-sign-of-a-pc-version)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
