@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney’s limited edition Star Tours playset just activated the nostalgia center of my brain.](https://www.polygon.com/24216914/d23-disney-star-tours-starspeeder-playset-pre-order-where-to-buy)
- - [The Internet Reacts To Breakdancing &#39;Abomination&#39; At Summer Olympics](https://kotaku.com/olympics-2024-breakdancing-raygun-rachael-gunn-1851618427)
- - [Fallout 4&#39;s best modder is bringing Doom to Starfield and bards to Skyrim](https://www.pcgamer.com/games/rpg/fallout-4s-best-modder-is-bringing-doom-to-starfield-and-bards-to-skyrim)<!-- GAME:END -->
+ - [Monster Hunter fans are so hungry for Wilds gameplay that Capcom&#39;s new 60-second weapon clips are racking up millions of views](https://www.pcgamer.com/games/rpg/monster-hunter-fans-are-so-hungry-for-wilds-gameplay-that-capcom-s-new-60-second-weapon-clips-are-racking-up-millions-of-views)
+ - [MrBeast Calls For &#39;Full Assessment&#39; Of Company Culture After Recent Allegations](https://kotaku.com/mrbeast-youtube-amazon-prime-ava-tyson-beast-games-1851618563)
+ - [Fortnite Player Remakes 20 Seconds Of Deadpool &amp; Wolverine In-Game And Fans Wants The Full Scene](https://kotaku.com/fortnite-remake-deadpool-wolverine-opening-fight-nsync-1851618534)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
