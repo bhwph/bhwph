@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Do You Get Drugs to the Brain? Maybe Try a Parasite](https://www.wired.com/story/parasite-drug-delivery/)
  - [How to Watch Billie Eilish and Snoop Dogg at the Summer Olympics Closing Ceremony](https://www.wired.com/story/how-to-watch-billie-eilish-and-snoop-dogg-at-summer-olympics-closing-ceremony/)
- - [Long-time Google exec Susan Wojcicki has died at 56](https://www.theverge.com/2024/8/10/24217307/susan-wojcicki-youtube-ceo-google-exec-dies)
- - [Susan Wojcicki, former YouTube CEO and a key figure in Google&#39;s creation, dies at age 56, after two years of living with cancer &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240810/p2#a240810p2)<!-- TECH:END -->
+ - [Long-time Google exec Susan Wojcicki has died at 56](https://www.theverge.com/2024/8/10/24217307/susan-wojcicki-youtube-ceo-google-exec-dies)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
