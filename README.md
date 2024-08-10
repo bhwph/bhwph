@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Avatar: Fire and Ash hits theaters next December](https://www.theverge.com/2024/8/9/24217252/avatar-fire-and-ash-release-date)
- - [New &#39;Moana 2&#39; Trailer Teases a Splashy Legend in the Making](https://www.cnet.com/tech/services-and-software/new-moana-2-trailer-teases-a-splashy-legend-in-the-making/#ftag=CAD590a51e)
- - [Best Phone to Buy for 2024](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Susan Wojcicki, former YouTube CEO and a key figure in Google&#39;s creation, dies at age 56, after two years of living with cancer &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240810/p2#a240810p2)
+ - [Unbelievably saddened by the loss of my dear friend @SusanWojcicki after two years of living with cancer. She is as core to the history of Google as anyone, and it&#39;s hard to imagine the world without her. She was an incredible person, leader and friend who had a tremendous &lpar;Sundar Pichai/@sundarpichai&rpar;](http://www.techmeme.com/240810/p1#a240810p1)
+ - [D23 2024: all the biggest trailers and news out of Disney’s biennial showcase](https://www.theverge.com/2024/8/9/24216962/d23-2024-all-the-biggest-trailers-and-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
