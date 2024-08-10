@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s time boys. It&#39;s time for some big tity goth girlfriend. Post it in comments](http://9gag.com/gag/an7yrmq)
- - 😝 [Title](http://9gag.com/gag/a87pKbd)
- - 👉 [Tokyo Vice](http://9gag.com/gag/aZZBdLp)<!-- MEMES:END -->
+ - 6️⃣ [Title](http://9gag.com/gag/a87pKbd)
+ - 😝 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
+ - 👉 [5 suits every man should have](http://9gag.com/gag/adBq2M9)<!-- MEMES:END -->
 
 --- 
 
