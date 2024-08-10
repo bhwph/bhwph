@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
- - 😝 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
- - 👉 [5 suits every man should have](http://9gag.com/gag/adBq2M9)<!-- MEMES:END -->
+ - 6️⃣ [Lone 9 gager waiting for us](http://9gag.com/gag/aD2jNq9)
+ - 😝 [Check if the body still warm](http://9gag.com/gag/aXPAQ9g)
+ - 👉 [Perfection](http://9gag.com/gag/axygALL)<!-- MEMES:END -->
 
 --- 
 
