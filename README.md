@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: Skeleton Crew trailer gives us our first look at Jude Law as a Jedi](https://www.polygon.com/star-wars/23709316/star-wars-skeleton-crew-trailer-d23)
- - [Frozen 3 is on for 2027, and it’s throwing back to... Sleeping Beauty?](https://www.polygon.com/20831223/frozen-3-art-release-date-d23)
- - [Pixar is making Incredibles 3](https://www.polygon.com/2024/8/9/24217034/pixar-is-making-incredibles-3)<!-- GAME:END -->
+ - [Disney’s live-action Snow White remake trailer is still heavy on the animation](https://www.polygon.com/24216163/snow-white-trailer-2025-disney-d23)
+ - [‘Live-action’ Stitch revealed in first look at Disney’s remake](https://www.polygon.com/24217117/lilo-stitch-remake-photo-release-d23)
+ - [Star Wars: Skeleton Crew trailer gives us our first look at Jude Law as a Jedi](https://www.polygon.com/star-wars/23709316/star-wars-skeleton-crew-trailer-d23)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
