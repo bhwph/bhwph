@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lone 9 gager waiting for us](http://9gag.com/gag/aD2jNq9)
- - 😝 [Check if the body still warm](http://9gag.com/gag/aXPAQ9g)
- - 👉 [Perfection](http://9gag.com/gag/axygALL)<!-- MEMES:END -->
+ - 6️⃣ [Trust the $cience! Not that Science!](http://9gag.com/gag/aqyrBRM)
+ - 😝 [Just lines.](http://9gag.com/gag/aQzMNNK)
+ - 👉 [Such a waste](http://9gag.com/gag/aMVwNDM)<!-- MEMES:END -->
 
 --- 
 
