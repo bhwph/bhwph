@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trust the $cience! Not that Science!](http://9gag.com/gag/aqyrBRM)
- - 😝 [Just lines.](http://9gag.com/gag/aQzMNNK)
- - 👉 [Such a waste](http://9gag.com/gag/aMVwNDM)<!-- MEMES:END -->
+ - 6️⃣ [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)
+ - 😝 [Tokyo Vice](http://9gag.com/gag/aZZBdLp)
+ - 👉 [Holy cow it\u2019s happening. A fully white Serbian team beating a fully black US allstar team.](http://9gag.com/gag/aQzMOg8)<!-- MEMES:END -->
 
 --- 
 
