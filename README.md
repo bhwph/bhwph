@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney’s live-action Snow White remake trailer is still heavy on the animation](https://www.polygon.com/24216163/snow-white-trailer-2025-disney-d23)
- - [‘Live-action’ Stitch revealed in first look at Disney’s remake](https://www.polygon.com/24217117/lilo-stitch-remake-photo-release-d23)
- - [Star Wars: Skeleton Crew trailer gives us our first look at Jude Law as a Jedi](https://www.polygon.com/star-wars/23709316/star-wars-skeleton-crew-trailer-d23)<!-- GAME:END -->
+ - [When does video game music get too repetitive?](https://www.polygon.com/24216350/composers-on-repetitive-video-game-music)
+ - [Behold The Fastest, Most Badass Roller Coasters In The World](https://kotaku.com/behold-the-fastest-most-badass-roller-coasters-in-the-1851618682)
+ - [The best thrillers to watch on Netflix this August](https://www.polygon.com/what-to-watch/2024/8/10/24213671/best-thriller-movies-netflix-watch-august-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
