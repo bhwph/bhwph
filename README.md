@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to reclaim wetlands near its Iowa data center](https://appleinsider.com/articles/24/08/10/apple-to-reclaim-wetlands-near-its-iowa-data-center?utm_medium=rss)
- - [X adds the ability to sort replies, letting users choose most relevant, most recent, or most liked replies; it is unclear how the most relevant option works &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/240810/p5#a240810p5)
- - [I’ve been reviewing phones for 17 years and I’d never buy an Android flagship at full price](https://www.androidauthority.com/never-buy-flagship-android-full-price-3468416/)<!-- TECH:END -->
+ - [Samsung forgot about the Galaxy Watch 7, but I still think you should buy it](https://www.androidauthority.com/samsung-galaxy-watch-7-review-3466155/)
+ - [Former YouTube CEO Susan Wojcicki Dies at 56](https://www.wired.com/story/susan-wojcicki-former-youtube-ceo-dies-at-56/)
+ - [Former Xbox head credits Apple watch with life-saving low heart rate alerts](https://appleinsider.com/articles/24/08/10/tech-exec-credits-apple-watch-with-life-saving-alerts-over-low-heart-rate?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
