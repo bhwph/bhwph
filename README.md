@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [5 suits every man should have](http://9gag.com/gag/adBq2M9)
- - 😝 [NO 1st place for you!!](http://9gag.com/gag/a0edEKQ)
- - 👉 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)<!-- MEMES:END -->
+ - 6️⃣ [Now who is going to collect remaining cotton&#39;s?](http://9gag.com/gag/aZZB2dW)
+ - 😝 [Not a single one of you degenerates showed up? Dissapointed](http://9gag.com/gag/a0edwKL)
+ - 👉 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)<!-- MEMES:END -->
 
 --- 
 
