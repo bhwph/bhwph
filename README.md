@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When does video game music get too repetitive?](https://www.polygon.com/24216350/composers-on-repetitive-video-game-music)
- - [Behold The Fastest, Most Badass Roller Coasters In The World](https://kotaku.com/behold-the-fastest-most-badass-roller-coasters-in-the-1851618682)
- - [The best thrillers to watch on Netflix this August](https://www.polygon.com/what-to-watch/2024/8/10/24213671/best-thriller-movies-netflix-watch-august-2024)<!-- GAME:END -->
+ - [Jesper Kyd composed Assassin’s Creed Valhalla’s soundtrack using 100-year-old instruments](https://www.polygon.com/24214163/jesper-kyd-interview-assassins-creed-influences)
+ - [Destiny 2 Pointers, How To Nab Fallout 76&#39;s Union Power Armor, And More Of The Week&#39;s Top Tips](https://kotaku.com/destiny-2-tips-fallout-76-union-power-armor-1851618211)
+ - [Ryan Reynolds had very specific tech &lpar;and humor&rpar; requirements for Wolverine’s corpse](https://www.polygon.com/24217046/ryan-reynolds-vfx-behind-the-scenes-deadpool-wolverine-corpse-fight)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
