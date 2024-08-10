@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Raj for the win!](http://9gag.com/gag/aQzMN9q)
- - 😝 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
- - 👉 [Do your best](http://9gag.com/gag/azxrQKp)<!-- MEMES:END -->
+ - 6️⃣ [The coach of the year award goes to..](http://9gag.com/gag/a0edDMv)
+ - 😝 [Do your best](http://9gag.com/gag/azxrQKp)
+ - 👉 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)<!-- MEMES:END -->
 
 --- 
 
