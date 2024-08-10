@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title](http://9gag.com/gag/a87pKbd)
- - 😝 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
- - 👉 [5 suits every man should have](http://9gag.com/gag/adBq2M9)<!-- MEMES:END -->
+ - 6️⃣ [I don&#39;t live in England so I can legally upload this without being put in jail for 10 years. It&#39;s been scrubbed everywhere I looked for it. Enjoy](http://9gag.com/gag/aMVwyx1)
+ - 😝 [The Man. The Myth. The Legend. The new Disappointment-Meme?](http://9gag.com/gag/ae9YdXB)
+ - 👉 [Perfection](http://9gag.com/gag/axygALL)<!-- MEMES:END -->
 
 --- 
 
