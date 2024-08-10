@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Every game soundtrack is a ‘try and fail’ journey for Payday’s Simon Viklund](https://www.polygon.com/24214630/payday-soundtrack-simon-viklund-interview)
  - [Jesper Kyd composed Assassin’s Creed Valhalla’s soundtrack using 100-year-old instruments](https://www.polygon.com/24214163/jesper-kyd-interview-assassins-creed-influences)
- - [Destiny 2 Pointers, How To Nab Fallout 76&#39;s Union Power Armor, And More Of The Week&#39;s Top Tips](https://kotaku.com/destiny-2-tips-fallout-76-union-power-armor-1851618211)
- - [Ryan Reynolds had very specific tech &lpar;and humor&rpar; requirements for Wolverine’s corpse](https://www.polygon.com/24217046/ryan-reynolds-vfx-behind-the-scenes-deadpool-wolverine-corpse-fight)<!-- GAME:END -->
+ - [Destiny 2 Pointers, How To Nab Fallout 76&#39;s Union Power Armor, And More Of The Week&#39;s Top Tips](https://kotaku.com/destiny-2-tips-fallout-76-union-power-armor-1851618211)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
