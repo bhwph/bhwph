@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Do You Get Drugs to the Brain? Maybe Try a Parasite](https://www.wired.com/story/parasite-drug-delivery/)
- - [How to Watch Billie Eilish and Snoop Dogg at the Summer Olympics Closing Ceremony](https://www.wired.com/story/how-to-watch-billie-eilish-and-snoop-dogg-at-summer-olympics-closing-ceremony/)
- - [Long-time Google exec Susan Wojcicki has died at 56](https://www.theverge.com/2024/8/10/24217307/susan-wojcicki-youtube-ceo-google-exec-dies)<!-- TECH:END -->
+ - [A Russian Chess Player Allegedly Poisoned Her Opponent With Mercury](https://www.wired.com/story/russian-chess-player-poison-board-mercury/)
+ - [Acer Chromebook Plus 516 GE Review: A Game-Streaming Laptop](https://www.wired.com/review/acer-chromebook-plus-516-ge-2024/)
+ - [Google Pixel 9 and 9 Pro: Coming Aug. 13 With New Design and Fold 2](https://www.cnet.com/tech/mobile/google-pixel-9-and-9-pro-rumors-coming-aug-13-with-new-design-fold-2-confirmed/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
