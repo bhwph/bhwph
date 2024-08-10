@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Disney’s D23 2024: The biggest trailers and news](https://www.polygon.com/24217230/d23-news-trailers-disney-marvel-star-wars-2024)
  - [Bungie promises to address the &#39;uncertainty&#39; surrounding the future of Destiny 2 following massive layoffs last week](https://www.pcgamer.com/games/fps/bungie-promises-to-address-the-uncertainty-about-the-future-of-destiny-2-following-massive-layoffs-last-week)
- - [Scientist survival in Abiotic Factor gets the obligatory water area next week, complete with fishing](https://www.pcgamer.com/games/survival-crafting/scientist-survival-in-abiotic-factor-gets-the-obligatory-water-area-next-week-complete-with-fishing)
- - [Despicable Me 4, The Bikeriders, and every movie new to streaming this week](https://www.polygon.com/2024/8/9/24211563/new-movies-despicable-me-4-the-bikeriders-the-instigators)<!-- GAME:END -->
+ - [Scientist survival in Abiotic Factor gets the obligatory water area next week, complete with fishing](https://www.pcgamer.com/games/survival-crafting/scientist-survival-in-abiotic-factor-gets-the-obligatory-water-area-next-week-complete-with-fishing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
