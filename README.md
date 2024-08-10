@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney’s D23 2024: The biggest trailers and news](https://www.polygon.com/24217230/d23-news-trailers-disney-marvel-star-wars-2024)
- - [Bungie promises to address the &#39;uncertainty&#39; surrounding the future of Destiny 2 following massive layoffs last week](https://www.pcgamer.com/games/fps/bungie-promises-to-address-the-uncertainty-about-the-future-of-destiny-2-following-massive-layoffs-last-week)
- - [Scientist survival in Abiotic Factor gets the obligatory water area next week, complete with fishing](https://www.pcgamer.com/games/survival-crafting/scientist-survival-in-abiotic-factor-gets-the-obligatory-water-area-next-week-complete-with-fishing)<!-- GAME:END -->
+ - [Star Wars: Skeleton Crew trailer gives us our first look at Jude Law as a Jedi](https://www.polygon.com/star-wars/23709316/star-wars-skeleton-crew-trailer-d23)
+ - [Frozen 3 is on for 2027, and it’s throwing back to... Sleeping Beauty?](https://www.polygon.com/20831223/frozen-3-art-release-date-d23)
+ - [Pixar is making Incredibles 3](https://www.polygon.com/2024/8/9/24217034/pixar-is-making-incredibles-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
