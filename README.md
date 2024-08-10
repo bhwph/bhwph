@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Simps are cancer](http://9gag.com/gag/aVvDVXM)
- - 😝 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
- - 👉 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)<!-- MEMES:END -->
+ - 6️⃣ [5 suits every man should have](http://9gag.com/gag/adBq2M9)
+ - 😝 [NO 1st place for you!!](http://9gag.com/gag/a0edEKQ)
+ - 👉 [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)<!-- MEMES:END -->
 
 --- 
 
