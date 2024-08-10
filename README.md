@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)
- - 😝 [Tokyo Vice](http://9gag.com/gag/aZZBdLp)
- - 👉 [Holy cow it\u2019s happening. A fully white Serbian team beating a fully black US allstar team.](http://9gag.com/gag/aQzMOg8)<!-- MEMES:END -->
+ - 6️⃣ [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
+ - 😝 [ATR-72-500 Crash](http://9gag.com/gag/ae9YdA5)
+ - 👉 [Unethiccal](http://9gag.com/gag/aqyrDG7)<!-- MEMES:END -->
 
 --- 
 
