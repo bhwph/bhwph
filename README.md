@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Portable Solar Panels of 2024](https://www.cnet.com/home/energy-and-utilities/best-portable-solar-panels/#ftag=CAD590a51e)
  - [Trump Media, Truth Social&#39;s parent company that has a ~$5B market cap, reports Q2 revenue down 30% YoY to $837K; Trump owns 59.9% of Trump Media&#39;s common stock &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240809/p23#a240809p23)
- - [Sources: Anysphere, a GitHub Copilot rival, has raised a $60M Series A co-led by a16z and Thrive at a $400M post-money valuation &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240809/p22#a240809p22)
- - [Best USB-C Monitor Deals: Snag a Top-Rated Monitor at a Low Price](https://www.cnet.com/deals/best-usb-c-monitor-deals-save-up-to-100-on-top-brands-like-lg-asus-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Anysphere, a GitHub Copilot rival, has raised a $60M Series A co-led by a16z and Thrive at a $400M post-money valuation &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240809/p22#a240809p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
