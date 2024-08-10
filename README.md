@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
- - 😝 [ATR-72-500 Crash](http://9gag.com/gag/ae9YdA5)
- - 👉 [Unethiccal](http://9gag.com/gag/aqyrDG7)<!-- MEMES:END -->
+ - 6️⃣ [Raj for the win!](http://9gag.com/gag/aQzMN9q)
+ - 😝 [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
+ - 👉 [Do your best](http://9gag.com/gag/azxrQKp)<!-- MEMES:END -->
 
 --- 
 
