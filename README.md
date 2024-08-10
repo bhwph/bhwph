@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HexClad Cookware Review: Unjustifiably Expensive](https://www.wired.com/review/hexclad/)
- - [This is the Pixel prison: I can check out any time, but I can never leave](https://www.androidauthority.com/google-pixel-prison-3468597/)
- - [Google’s Pixel Fold one year later: I can’t wait for the sequel](https://www.theverge.com/24211366/google-pixel-fold-one-year-later-review)<!-- TECH:END -->
+ - [Apple to reclaim wetlands near its Iowa data center](https://appleinsider.com/articles/24/08/10/apple-to-reclaim-wetlands-near-its-iowa-data-center?utm_medium=rss)
+ - [X adds the ability to sort replies, letting users choose most relevant, most recent, or most liked replies; it is unclear how the most relevant option works &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/240810/p5#a240810p5)
+ - [I’ve been reviewing phones for 17 years and I’d never buy an Android flagship at full price](https://www.androidauthority.com/never-buy-flagship-android-full-price-3468416/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
