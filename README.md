@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Lorelei and the Laser Eyes’ Daniel Olsén channeled Twin Peaks’ moody music](https://www.polygon.com/24216942/lorelei-and-the-laser-eyes-daniel-olsen-music-interview)
  - [Polygon’s favorite audiobooks](https://www.polygon.com/24213728/best-audiobooks-listen-list)
- - [Helldivers 2 Is Flailing, Barbarian Games Are Back, And More Of The Week&#39;s Takes](https://kotaku.com/helldivers-2-marvel-rivals-crush-house-1851618213)
- - [Elden Ring composer Yuka Kitamura used Zelda songs to motivate her piano practice](https://www.polygon.com/24214704/elden-ring-yuka-kitamura-composer-music-zelda)<!-- GAME:END -->
+ - [Helldivers 2 Is Flailing, Barbarian Games Are Back, And More Of The Week&#39;s Takes](https://kotaku.com/helldivers-2-marvel-rivals-crush-house-1851618213)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
