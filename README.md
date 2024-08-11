@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Maybe we can remove breakdancing from Olympics?](http://9gag.com/gag/aoy2dRe)
- - 😝 [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)
- - 👉 [The effects of CTE in a brain over a decade of fighting](http://9gag.com/gag/ayNLAoV)<!-- MEMES:END -->
+ - 6️⃣ [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)
+ - 😝 [I encourage you all to do the same](http://9gag.com/gag/amorOEo)
+ - 👉 [This guy posted about nobody coming when he was too early and then these 2 madlads showed up with him on their t-shirts](http://9gag.com/gag/abA6d29)<!-- MEMES:END -->
 
 --- 
 
