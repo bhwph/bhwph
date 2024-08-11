@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixar takes an old Apple Watch face to make its &quot;Toy Story 5&quot; trailer](https://appleinsider.com/articles/24/08/10/pixar-takes-an-old-apple-watch-face-to-make-its-toy-story-5-trailer?utm_medium=rss)
- - [The Hacker Who Hunts Video Game Speedrunning Cheaters](https://www.wired.com/story/the-hacker-who-hunts-video-game-speedrunning-cheaters/)
- - [Around 200 nations approved the UN Convention against Cybercrime, expected to win General Assembly approval; critics say it could be used to justify repression &lpar;Michael Weissenstein/Associated Press&rpar;](http://www.techmeme.com/240810/p11#a240810p11)<!-- TECH:END -->
+ - [This Vision Pro Virtual Boy emulator isn’t fancy, but it gets the job done](https://www.theverge.com/2024/8/10/24217643/vision-pro-nintendo-virtual-boy-emulator-virtualfriend-impressions)
+ - [Best iPhone 15 and iPhone 15 Pro Cases for 2024](https://www.cnet.com/tech/mobile/best-iphone-15-and-iphone-15-pro-cases/#ftag=CAD590a51e)
+ - [A look at the consequences of Spotify&#39;s disinvestment in podcasts in Latin America, where one survey found 90% of podcast listeners used Spotify &lpar;Stan Alcorn/Rest of World&rpar;](http://www.techmeme.com/240810/p12#a240810p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
