@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
- - 😝 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
- - 👉 [Don&#39;t try so hard!!!](http://9gag.com/gag/aKG2Zjb)<!-- MEMES:END -->
+ - 6️⃣ [This dude dressed up as Kim Jong-un in front of North Koreans at the olympics.](http://9gag.com/gag/abA6oDX)
+ - 😝 [THANK YOU for humiliating Australia!](http://9gag.com/gag/aPAML5q)
+ - 👉 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)<!-- MEMES:END -->
 
 --- 
 
