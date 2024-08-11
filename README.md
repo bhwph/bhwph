@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 years of Pixel: How the Google phone changed the industry](https://www.androidauthority.com/8-years-of-google-pixel-3463537/)
- - [What Google rivals want after DOJ’s antitrust trial win](https://www.theverge.com/2024/8/11/24216760/google-trial-monopoly-remedies-rivals)
- - [Celsius sued Tether on Friday in an attempt to claw back ~40K bitcoins, now worth ~$2.4B, that Celsius claims Tether sold improperly at the bottom of the market &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/240811/p2#a240811p2)<!-- TECH:END -->
+ - [A year later, I finally love my Google Pixel Watch 2](https://www.androidauthority.com/google-pixel-watch-2-year-later-3468445/)
+ - [Best Protein Shakes for an Effortless Boost](https://www.cnet.com/health/fitness/best-protein-shakes/#ftag=CAD590a51e)
+ - [Best Internet Providers in Bridgeport, Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-bridgeport-ct/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
