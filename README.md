@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Princess Kate Middleton wearing a hijab was refused her outstretched hand. What do you think?](http://9gag.com/gag/ayNLz9y)
- - 😝 [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)
- - 👉 [Do your best](http://9gag.com/gag/azxrQKp)<!-- MEMES:END -->
+ - 6️⃣ [Nature&#39;s Other elite runners to Humans `Look What They Need To Mimic A Fraction Of Our Power`](http://9gag.com/gag/aGy0r5z)
+ - 😝 [Raj for the win!](http://9gag.com/gag/aQzMN9q)
+ - 👉 [If you know the relationship between these two, you have excellent taste in literature.](http://9gag.com/gag/aRBK80B)<!-- MEMES:END -->
 
 --- 
 
