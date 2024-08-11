@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Despite imminent deslisting, Sega says Sonic Generations will still be available via a bundle](https://www.pcgamer.com/games/despite-imminent-deslisting-sega-says-sonic-generations-will-still-be-available-via-a-bundle)
  - [The original Doom-inspired roguelike will return this year as Jupiter Hell Classic](https://www.pcgamer.com/games/roguelike/the-original-doom-inspired-roguelike-will-return-this-year-as-jupiter-hell-classic)
- - [Lorelei and the Laser Eyes’ Daniel Olsén channeled Twin Peaks’ moody music](https://www.polygon.com/24216942/lorelei-and-the-laser-eyes-daniel-olsen-music-interview)
- - [Polygon’s favorite audiobooks](https://www.polygon.com/24213728/best-audiobooks-listen-list)<!-- GAME:END -->
+ - [Lorelei and the Laser Eyes’ Daniel Olsén channeled Twin Peaks’ moody music](https://www.polygon.com/24216942/lorelei-and-the-laser-eyes-daniel-olsen-music-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
