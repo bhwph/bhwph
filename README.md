@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A year later, I finally love my Google Pixel Watch 2](https://www.androidauthority.com/google-pixel-watch-2-year-later-3468445/)
- - [Best Protein Shakes for an Effortless Boost](https://www.cnet.com/health/fitness/best-protein-shakes/#ftag=CAD590a51e)
- - [Best Internet Providers in Bridgeport, Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-bridgeport-ct/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nova Launcher founder addresses app’s status and future after layoffs](https://www.androidauthority.com/nova-launcher-status-after-layoffs-3470026/)
+ - [This telescopic gamepad is my new dream Bluetooth controller for mobile, PC, Switch, and way more](https://www.androidauthority.com/gamesir-g8-plus-review-3463391/)
+ - [Best Noise-Canceling Headphones Under $100 for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
