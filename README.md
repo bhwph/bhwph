@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Geralt&#39;s voice actor confirms he&#39;ll be in the next Witcher, but not as the main character: &#39;Geralt will be part of the game&#39;](https://www.pcgamer.com/games/rpg/geralts-voice-actor-confirms-hell-be-in-the-next-witcher-game-but-not-as-the-main-character-geralt-will-be-part-of-the-game)
  - [Plop tiles to make flourishing ecosystems in placement puzzler Preserve](https://www.pcgamer.com/games/puzzle/plop-tiles-to-make-flourishing-ecosystems-in-placement-puzzler-preserve)
- - [Be a cute platypus, solve some Zelda-style puzzles, in Ogu and the Secret Forest](https://www.pcgamer.com/games/be-a-cute-platypus-solve-some-zelda-style-puzzles-in-ogu-and-the-secret-forest)
- - [Every game soundtrack is a ‘try and fail’ journey for Payday’s Simon Viklund](https://www.polygon.com/24214630/payday-soundtrack-simon-viklund-interview)<!-- GAME:END -->
+ - [Be a cute platypus, solve some Zelda-style puzzles, in Ogu and the Secret Forest](https://www.pcgamer.com/games/be-a-cute-platypus-solve-some-zelda-style-puzzles-in-ogu-and-the-secret-forest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
