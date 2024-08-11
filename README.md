@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every game soundtrack is a ‘try and fail’ journey for Payday’s Simon Viklund](https://www.polygon.com/24214630/payday-soundtrack-simon-viklund-interview)
- - [Jesper Kyd composed Assassin’s Creed Valhalla’s soundtrack using 100-year-old instruments](https://www.polygon.com/24214163/jesper-kyd-interview-assassins-creed-influences)
- - [Destiny 2 Pointers, How To Nab Fallout 76&#39;s Union Power Armor, And More Of The Week&#39;s Top Tips](https://kotaku.com/destiny-2-tips-fallout-76-union-power-armor-1851618211)<!-- GAME:END -->
+ - [Plop tiles to make flourishing ecosystems in placement puzzler Preserve](https://www.pcgamer.com/games/puzzle/plop-tiles-to-make-flourishing-ecosystems-in-placement-puzzler-preserve)
+ - [Be a cute platypus, solve some Zelda-style puzzles, in Ogu and the Secret Forest](https://www.pcgamer.com/games/be-a-cute-platypus-solve-some-zelda-style-puzzles-in-ogu-and-the-secret-forest)
+ - [Every game soundtrack is a ‘try and fail’ journey for Payday’s Simon Viklund](https://www.polygon.com/24214630/payday-soundtrack-simon-viklund-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
