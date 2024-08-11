@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 4: Everything we know about CD Projekt Red’s new Witcher saga](https://www.polygon.com/23027037/witcher-4-details-release-date-cd-projekt-red-polaris)
- - [A Short Hike’s composer might never have gotten into games if not for The Binding of Isaac](https://www.polygon.com/24214164/a-short-hike-composer-interview)
- - [Tesla’s Cybertruck Causes A Maddening Bug In Fortnite](https://kotaku.com/tesla-s-cybertruck-causes-a-maddening-bug-in-fortnite-1851618706)<!-- GAME:END -->
+ - [Polygon’s favorite audiobooks](https://www.polygon.com/24213728/best-audiobooks-listen-list)
+ - [Helldivers 2 Is Flailing, Barbarian Games Are Back, And More Of The Week&#39;s Takes](https://kotaku.com/helldivers-2-marvel-rivals-crush-house-1851618213)
+ - [Elden Ring composer Yuka Kitamura used Zelda songs to motivate her piano practice](https://www.polygon.com/24214704/elden-ring-yuka-kitamura-composer-music-zelda)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
