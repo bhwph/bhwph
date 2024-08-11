@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nature&#39;s Other elite runners to Humans `Look What They Need To Mimic A Fraction Of Our Power`](http://9gag.com/gag/aGy0r5z)
- - 😝 [Raj for the win!](http://9gag.com/gag/aQzMN9q)
- - 👉 [If you know the relationship between these two, you have excellent taste in literature.](http://9gag.com/gag/aRBK80B)<!-- MEMES:END -->
+ - 6️⃣ [Can something be oddly terrifying, oddly satisfying and sweaty palms at the same time?](http://9gag.com/gag/awy5vL4)
+ - 😝 [If you know the relationship between these two, you have excellent taste in literature.](http://9gag.com/gag/aRBK80B)
+ - 👉 [Maybe we can remove breakdancing from Olympics?](http://9gag.com/gag/aoy2dRe)<!-- MEMES:END -->
 
 --- 
 
