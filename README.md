@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some longtime users of LinkedIn lament the barrage of performative content from hustle-culture influencers and AI-generated &quot;thought leadership&quot; on the site &lpar;Charlie Wells/Bloomberg&rpar;](http://www.techmeme.com/240811/p6#a240811p6)
- - [Apple’s last-gen iPad has dropped to $224 for a limited time](https://www.theverge.com/2024/8/8/24215380/apple-ipad-ninth-gen-zendure-supermini-portable-charger-deal-sale)
- - [Another Blow for Student Loan Forgiveness. What SAVE Borrowers Should Know](https://www.cnet.com/personal-finance/another-blow-for-student-loan-forgiveness-what-save-borrowers-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After Kamala Harris held a rally in Detroit with thousands in attendance, Donald Trump falsely claimed the crowd was &quot;fake&quot; and a picture of it was AI-generated &lpar;Peter Wade/Rolling Stone&rpar;](http://www.techmeme.com/240811/p8#a240811p8)
+ - [The iPhone 15 doesn’t have Apple Intelligence, but the next iPhone SE might](https://www.androidauthority.com/iphone-se-apple-intelligence-3470045/)
+ - [How Elon Musk is diverting talent, data, and GPUs from his other businesses to xAI, leading to lawsuits that such resource shifting is hurting Tesla investors &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/240811/p7#a240811p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
