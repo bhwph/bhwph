@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The original Doom-inspired roguelike will return this year as Jupiter Hell Classic](https://www.pcgamer.com/games/roguelike/the-original-doom-inspired-roguelike-will-return-this-year-as-jupiter-hell-classic)
  - [Lorelei and the Laser Eyes’ Daniel Olsén channeled Twin Peaks’ moody music](https://www.polygon.com/24216942/lorelei-and-the-laser-eyes-daniel-olsen-music-interview)
- - [Polygon’s favorite audiobooks](https://www.polygon.com/24213728/best-audiobooks-listen-list)
- - [Helldivers 2 Is Flailing, Barbarian Games Are Back, And More Of The Week&#39;s Takes](https://kotaku.com/helldivers-2-marvel-rivals-crush-house-1851618213)<!-- GAME:END -->
+ - [Polygon’s favorite audiobooks](https://www.polygon.com/24213728/best-audiobooks-listen-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
