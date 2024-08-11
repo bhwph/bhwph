@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Next time someone tells you `what she&#39;s doing, it&#39;s hard` send him this.](http://9gag.com/gag/ae9YzEv)
- - 😝 [Drinking competition Slovakia - Hungary - Austria.](http://9gag.com/gag/aBywjpA)
+ - 6️⃣ [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)
+ - 😝 [Persecuted Hindus of Bangladesh are trying to cross the border after mass killing by Islamist](http://9gag.com/gag/aVvD8bv)
  - 👉 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)<!-- MEMES:END -->
 
 --- 
