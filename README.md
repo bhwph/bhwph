@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nova Launcher founder addresses app’s status and future after layoffs](https://www.androidauthority.com/nova-launcher-status-after-layoffs-3470026/)
- - [This telescopic gamepad is my new dream Bluetooth controller for mobile, PC, Switch, and way more](https://www.androidauthority.com/gamesir-g8-plus-review-3463391/)
- - [Best Noise-Canceling Headphones Under $100 for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some longtime users of LinkedIn lament the barrage of performative content from hustle-culture influencers and AI-generated &quot;thought leadership&quot; on the site &lpar;Charlie Wells/Bloomberg&rpar;](http://www.techmeme.com/240811/p6#a240811p6)
+ - [Apple’s last-gen iPad has dropped to $224 for a limited time](https://www.theverge.com/2024/8/8/24215380/apple-ipad-ninth-gen-zendure-supermini-portable-charger-deal-sale)
+ - [Another Blow for Student Loan Forgiveness. What SAVE Borrowers Should Know](https://www.cnet.com/personal-finance/another-blow-for-student-loan-forgiveness-what-save-borrowers-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
