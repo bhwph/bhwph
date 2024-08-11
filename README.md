@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)
- - 😝 [Persecuted Hindus of Bangladesh are trying to cross the border after mass killing by Islamist](http://9gag.com/gag/aVvD8bv)
- - 👉 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)<!-- MEMES:END -->
+ - 6️⃣ [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
+ - 😝 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
+ - 👉 [Don&#39;t try so hard!!!](http://9gag.com/gag/aKG2Zjb)<!-- MEMES:END -->
 
 --- 
 
