@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How cybersecurity researcher Jon DiMaggio used fake personas to infiltrate LockBit and trick its alleged administrator into revealing operation details &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240810/p13#a240810p13)
- - [Best Internet Providers in Buffalo, New York](https://www.cnet.com/home/internet/best-internet-providers-in-buffalo-ny/#ftag=CAD590a51e)
- - [Best Phone Plan Deals: Save on Recurring Plans or Prepaid Deals](https://www.cnet.com/deals/best-phone-plan-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Hasbro CEO Chris Cocks on the toymaker&#39;s gaming push, licensing deals, and more; Monopoly GO! has earned $3B+ in revenue since its April 2023 launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/240811/p1#a240811p1)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 11 #427](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-11-427/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 11, #1149](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-11-1149/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
