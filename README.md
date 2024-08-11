@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Nord Buds 3 Pro Review: AirPods Pro Vibes for the Cheap Seats](https://www.wired.com/review/oneplus-nord-buds-3-pro/)
- - [14 Best Laptops &lpar;2024&rpar;: MacBooks, Windows, Chromebooks, Copilot+ PCs](https://www.wired.com/gallery/best-laptops/)
- - [Olympics 2024 Closing Ceremony: How to Watch Tom Cruise, H.E.R. and France&#39;s AIR](https://www.cnet.com/tech/services-and-software/olympics-2024-closing-ceremony-how-to-watch-tom-cruise-h-e-r-and-frances-air/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 years of Pixel: How the Google phone changed the industry](https://www.androidauthority.com/8-years-of-google-pixel-3463537/)
+ - [What Google rivals want after DOJ’s antitrust trial win](https://www.theverge.com/2024/8/11/24216760/google-trial-monopoly-remedies-rivals)
+ - [Celsius sued Tether on Friday in an attempt to claw back ~40K bitcoins, now worth ~$2.4B, that Celsius claims Tether sold improperly at the bottom of the market &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/240811/p2#a240811p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
