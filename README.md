@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)
- - 😝 [I encourage you all to do the same](http://9gag.com/gag/amorOEo)
- - 👉 [This guy posted about nobody coming when he was too early and then these 2 madlads showed up with him on their t-shirts](http://9gag.com/gag/abA6d29)<!-- MEMES:END -->
+ - 6️⃣ [Next time someone tells you `what she&#39;s doing, it&#39;s hard` send him this.](http://9gag.com/gag/ae9YzEv)
+ - 😝 [Drinking competition Slovakia - Hungary - Austria.](http://9gag.com/gag/aBywjpA)
+ - 👉 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)<!-- MEMES:END -->
 
 --- 
 
