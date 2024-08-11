@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This dude dressed up as Kim Jong-un in front of North Koreans at the olympics.](http://9gag.com/gag/abA6oDX)
- - 😝 [THANK YOU for humiliating Australia!](http://9gag.com/gag/aPAML5q)
- - 👉 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)<!-- MEMES:END -->
+ - 6️⃣ [Well well well...](http://9gag.com/gag/a0edDYn)
+ - 😝 [If this is not love, I don\u2019t know what is &lpar;39s&rpar;](http://9gag.com/gag/aryOwE0)
+ - 👉 [THANK YOU for humiliating Australia!](http://9gag.com/gag/aPAML5q)<!-- MEMES:END -->
 
 --- 
 
