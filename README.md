@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can something be oddly terrifying, oddly satisfying and sweaty palms at the same time?](http://9gag.com/gag/awy5vL4)
- - 😝 [If you know the relationship between these two, you have excellent taste in literature.](http://9gag.com/gag/aRBK80B)
- - 👉 [Maybe we can remove breakdancing from Olympics?](http://9gag.com/gag/aoy2dRe)<!-- MEMES:END -->
+ - 6️⃣ [So proud of this community](http://9gag.com/gag/aryOdeV)
+ - 😝 [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)
+ - 👉 [Not a single one of you degenerates showed up? Dissapointed](http://9gag.com/gag/a0edwKL)<!-- MEMES:END -->
 
 --- 
 
