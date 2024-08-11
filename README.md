@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Cheap Laptops &lpar;2024&rpar;: Our Picks for $800 or Less](https://www.wired.com/gallery/best-cheap-laptops/)
- - [Q&amp;A with Hasbro CEO Chris Cocks on the toymaker&#39;s gaming push, licensing deals, and more; Monopoly GO! has earned $3B+ in revenue since its April 2023 launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/240811/p1#a240811p1)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 11 #427](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-11-427/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus Nord Buds 3 Pro Review: AirPods Pro Vibes for the Cheap Seats](https://www.wired.com/review/oneplus-nord-buds-3-pro/)
+ - [14 Best Laptops &lpar;2024&rpar;: MacBooks, Windows, Chromebooks, Copilot+ PCs](https://www.wired.com/gallery/best-laptops/)
+ - [Olympics 2024 Closing Ceremony: How to Watch Tom Cruise, H.E.R. and France&#39;s AIR](https://www.cnet.com/tech/services-and-software/olympics-2024-closing-ceremony-how-to-watch-tom-cruise-h-e-r-and-frances-air/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
