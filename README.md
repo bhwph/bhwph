@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Robert Downey Jr. returns as Iron Man — for a giant expansion to Disney’s Avengers land](https://www.polygon.com/24217880/robert-downey-jr-iron-man-avengers-campus-rides)
  - [Today&#39;s Wordle answer for Sunday, August 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-11-2024)
- - [Arkane founder says Skyrim is an immersive sim, and Baldur&#39;s Gate 3 is &#39;immersive sim-adjacent&#39;](https://www.pcgamer.com/games/rpg/arkane-founder-says-skyrim-is-an-immersive-sim-and-baldurs-gate-3-is-immersive-sim-adjacent)
- - [Geralt&#39;s voice actor confirms he&#39;ll be in the next Witcher, but not as the main character: &#39;Geralt will be part of the game&#39;](https://www.pcgamer.com/games/rpg/geralts-voice-actor-confirms-hell-be-in-the-next-witcher-game-but-not-as-the-main-character-geralt-will-be-part-of-the-game)<!-- GAME:END -->
+ - [Arkane founder says Skyrim is an immersive sim, and Baldur&#39;s Gate 3 is &#39;immersive sim-adjacent&#39;](https://www.pcgamer.com/games/rpg/arkane-founder-says-skyrim-is-an-immersive-sim-and-baldurs-gate-3-is-immersive-sim-adjacent)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
