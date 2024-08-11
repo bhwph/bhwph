@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So proud of this community](http://9gag.com/gag/aryOdeV)
- - 😝 [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)
- - 👉 [Not a single one of you degenerates showed up? Dissapointed](http://9gag.com/gag/a0edwKL)<!-- MEMES:END -->
+ - 6️⃣ [Stop scrolling for a bit and enjoy a minute of peace](http://9gag.com/gag/aW48eVK)
+ - 😝 [Removing barnacles off a sea turtle](http://9gag.com/gag/aqyrBLL)
+ - 👉 [Italian coach complaining about the score they receive](http://9gag.com/gag/aVvDdB8)<!-- MEMES:END -->
 
 --- 
 
