@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best horror to watch on Netflix this August](https://www.polygon.com/what-to-watch/2024/8/12/24213687/best-horror-movies-netflix-watch-august-2024)
- - [Tom Cruise Wraps Up Olympics With Mission: Impossible Stunt](https://kotaku.com/tom-cruise-olympics-mission-impossible-la-2028-1851619363)
- - [Arrowhead CEO says &#39;we need to do better&#39; after incendiary response to flamethrower nerfs in Helldivers 2: &#39;Me just talking about it isn&#39;t enough, actions matter&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-ceo-says-we-need-to-do-better-after-incendiary-response-to-flamethrower-nerfs-in-helldivers-2-me-just-talking-about-it-isn-t-enough-actions-matter)<!-- GAME:END -->
+ - [Borderlands Might Be 2024&#39;s Biggest Box Office Flop](https://kotaku.com/borderlands-movie-box-office-flop-bomb-2024-gearbox-1851619588)
+ - [Shadows of Doubt, the procgen private-eye immersive sim, is leaving early access next month](https://www.pcgamer.com/games/sim/shadows-of-doubt-the-procgen-private-eye-immersive-sim-is-leaving-early-access-next-month)
+ - [Cause Co-op Chaos in Cult of the Lamb’s Free Unholy Alliance Update](https://news.xbox.com/en-us/2024/08/12/cult-of-the-lamb-unholy-alliance-update-co-op/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
