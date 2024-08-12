@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Next level driving](http://9gag.com/gag/abA6w4X)
- - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
- - 👉 [Correct!](http://9gag.com/gag/a2vdXWp)<!-- MEMES:END -->
+ - 6️⃣ [Names and their IQ from the danish military draft](http://9gag.com/gag/aAyw5Mo)
+ - 😝 [Birthday surprise](http://9gag.com/gag/avyrwmd)
+ - 👉 [He asked his wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMVw7e1)<!-- MEMES:END -->
 
 --- 
 
