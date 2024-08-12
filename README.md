@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They are like siblings](http://9gag.com/gag/an7ywYB)
- - 😝 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)
- - 👉 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)<!-- MEMES:END -->
+ - 6️⃣ [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
+ - 😝 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
+ - 👉 [Correct!](http://9gag.com/gag/a2vdXWp)<!-- MEMES:END -->
 
 --- 
 
