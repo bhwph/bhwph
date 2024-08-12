@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Favorite Cosplay From Japan Expo Paris 2024](https://kotaku.com/japan-expo-paris-2024-cosplay-costumes-best-anime-1851618291)
- - [Millions of AMD CPUs found vulnerable to 18-year-old &#39;Sinkclose&#39; deep-system flaw but it&#39;s pretty difficult to exploit](https://www.pcgamer.com/hardware/processors/millions-of-amd-cpus-found-vulnerable-to-18-year-old-sinkclose-deep-system-flaw-but-its-pretty-difficult-to-exploit)
- - [Minisforum AtomMan G7 PT review](https://www.pcgamer.com/hardware/gaming-pcs/minisforum-atomman-g7-pt-mini-pc-review)<!-- GAME:END -->
+ - [The best horror to watch on Netflix this August](https://www.polygon.com/what-to-watch/2024/8/12/24213687/best-horror-movies-netflix-watch-august-2024)
+ - [Tom Cruise Wraps Up Olympics With Mission: Impossible Stunt](https://kotaku.com/tom-cruise-olympics-mission-impossible-la-2028-1851619363)
+ - [Arrowhead CEO says &#39;we need to do better&#39; after incendiary response to flamethrower nerfs in Helldivers 2: &#39;Me just talking about it isn&#39;t enough, actions matter&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-ceo-says-we-need-to-do-better-after-incendiary-response-to-flamethrower-nerfs-in-helldivers-2-me-just-talking-about-it-isn-t-enough-actions-matter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
