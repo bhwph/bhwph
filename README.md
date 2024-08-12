@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Chromebooks of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-chromebooks/)
- - [This 1TB Mac Studio is discounted to $1,999, plus get 3 years of AppleCare for $139](https://appleinsider.com/articles/24/08/12/this-1tb-mac-studio-is-discounted-to-1999-plus-get-3-years-of-applecare-for-139?utm_medium=rss)
- - [Meta and UMG sign a &quot;global, multi-year agreement&quot; for artists on Meta&#39;s apps, including WhatsApp for the first time, covering AI, monetization, and more &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240812/p10#a240812p10)<!-- TECH:END -->
+ - [PlayStation VR2 PC Adapter review: a robust VR experience, but the setup is a headache, especially with the Bluetooth dependency and the lack of included cables &lpar;Gabriel Moss/IGN&rpar;](http://www.techmeme.com/240812/p14#a240812p14)
+ - [LG Display wants compensation for Apple Watch MicroLED project closure](https://appleinsider.com/articles/24/08/12/lg-display-wants-compensation-for-apple-watch-microled-project-closure?utm_medium=rss)
+ - [NBC Sent 27 Creators to Paris. It Only Needed Snoop and Olympic Athletes](https://www.wired.com/story/nbc-sent-creators-to-paris-it-only-needed-snoop-and-some-hip-athletes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
