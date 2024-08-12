@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Names and their IQ from the danish military draft](http://9gag.com/gag/aAyw5Mo)
- - 😝 [Birthday surprise](http://9gag.com/gag/avyrwmd)
+ - 6️⃣ [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
+ - 😝 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)
  - 👉 [He asked his wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMVw7e1)<!-- MEMES:END -->
 
 --- 
