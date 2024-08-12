@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation VR2 PC Adapter review: a robust VR experience, but the setup is a headache, especially with the Bluetooth dependency and the lack of included cables &lpar;Gabriel Moss/IGN&rpar;](http://www.techmeme.com/240812/p14#a240812p14)
- - [LG Display wants compensation for Apple Watch MicroLED project closure](https://appleinsider.com/articles/24/08/12/lg-display-wants-compensation-for-apple-watch-microled-project-closure?utm_medium=rss)
- - [NBC Sent 27 Creators to Paris. It Only Needed Snoop and Olympic Athletes](https://www.wired.com/story/nbc-sent-creators-to-paris-it-only-needed-snoop-and-some-hip-athletes/)<!-- TECH:END -->
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [Patreon says it has begun a migration process to move all creators to Apple&#39;s subscription billing by November 2025, after Apple threatened to remove the app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240812/p17#a240812p17)
+ - [Microsoft confirms its Paint 3D app is being discontinued in November](https://www.theverge.com/2024/8/12/24218450/microsoft-paint-3d-deprecated-end-of-support-november)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
