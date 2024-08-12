@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Kamala Harris fundraiser in San Francisco on Sunday drew ~700 people and raised $13M as Harris returns to SF for the first time since clinching the nomination &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/240811/p10#a240811p10)
- - [9 Houseplants Even Beginners Can&#39;t Kill, According to Plant Experts](https://www.cnet.com/news/easiest-houseplants-to-keep-alive/#ftag=CAD590a51e)
- - [As 19 Chinese cities run robotaxi and robobus trials, a look at autonomous mass transit growth in China and the safety and job loss concerns from rapid adoption &lpar;Reuters&rpar;](http://www.techmeme.com/240811/p9#a240811p9)<!-- TECH:END -->
+ - [Balderton Capital raises $1.3B for EU startups across two funds: a $615M early-stage fund and a $685M fund for &quot;growth&quot; investing in more mature startups &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240812/p2#a240812p2)
+ - [PUBG publisher Krafton acquires former Xbox game studio Tango Gameworks and its Hi-Fi Rush IP; Microsoft had planned to shut down Tango Gameworks in May 2024 &lpar;Michael McWhertor/Polygon&rpar;](http://www.techmeme.com/240812/p1#a240812p1)
+ - [Best Chef&#39;s Knives for 2024, Tested and Reviewed](https://www.cnet.com/news/best-chefs-knife/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
