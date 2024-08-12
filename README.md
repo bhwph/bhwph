@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
- - 😝 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
- - 👉 [Correct!](http://9gag.com/gag/a2vdXWp)<!-- MEMES:END -->
+ - 6️⃣ [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
+ - 😝 [Recognize the building?](http://9gag.com/gag/aLnM59v)
+ - 👉 [\ud83c\udde6\ud83c\uddfa Breakdance studies paid by your taxes.](http://9gag.com/gag/a5QZ05O)<!-- MEMES:END -->
 
 --- 
 
