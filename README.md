@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
- - 😝 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
- - 👉 [If this is not love, I don\u2019t know what is &lpar;39s&rpar;](http://9gag.com/gag/aryOwE0)<!-- MEMES:END -->
+ - 6️⃣ [Don&#39;t try so hard!!!](http://9gag.com/gag/aKG2Zjb)
+ - 😝 [TRANSformation](http://9gag.com/gag/an7y0e5)
+ - 👉 [Miss South Africa 2024 Mia le Roux](http://9gag.com/gag/aD2jLRZ)<!-- MEMES:END -->
 
 --- 
 
