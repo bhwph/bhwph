@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3&#39;s rarest ending has only been unlocked by 34 players, and it requires an obscenely specific sequence of poor decisions](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3s-rarest-ending-has-only-been-unlocked-by-34-players-and-it-requires-an-obscenely-specific-sequence-of-poor-decisions)
- - [Hunt: Showdown is going offline for 48 hours to prepare for its biggest update ever](https://www.pcgamer.com/games/fps/hunt-showdown-is-going-offline-for-48-hours-to-prepare-for-its-biggest-update-ever)
- - [Pick up the definitive Borderlands collection for its lowest price ever on Steam](https://www.polygon.com/24218856/borderlands-movie-pandoras-box-collection-deal-sale-steam)<!-- GAME:END -->
+ - [We can all see that Valve&#39;s unannounced shooter Deadlock just hit over 18,000 concurrent players, Gabe](https://www.pcgamer.com/games/fps/we-can-all-see-that-valves-unannounced-shooter-deadlock-just-hit-over-18000-concurrent-players-gabe)
+ - [All new Helldivers 2 enemies should be revealed in-game](https://www.polygon.com/24219000/helldivers-2-impaler-new-enemies-surprise)
+ - [Valve&#39;s Yet-To-Be-Announced Multiplayer Game Already Has Thousands Of Players On Steam](https://kotaku.com/valve-next-game-deadlock-early-access-beta-steamdb-pc-1851620354)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
