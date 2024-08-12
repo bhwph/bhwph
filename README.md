@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Kamala Harris held a rally in Detroit with thousands in attendance, Donald Trump falsely claimed the crowd was &quot;fake&quot; and a picture of it was AI-generated &lpar;Peter Wade/Rolling Stone&rpar;](http://www.techmeme.com/240811/p8#a240811p8)
- - [The iPhone 15 doesn’t have Apple Intelligence, but the next iPhone SE might](https://www.androidauthority.com/iphone-se-apple-intelligence-3470045/)
- - [How Elon Musk is diverting talent, data, and GPUs from his other businesses to xAI, leading to lawsuits that such resource shifting is hurting Tesla investors &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/240811/p7#a240811p7)<!-- TECH:END -->
+ - [As 19 Chinese cities run robotaxi and robobus trials, a look at autonomous mass transit growth in China and the safety and job loss concerns from rapid adoption &lpar;Reuters&rpar;](http://www.techmeme.com/240811/p9#a240811p9)
+ - [A nightly Waymo robotaxi parking lot honkfest is waking San Francisco neighbors](https://www.theverge.com/2024/8/11/24218134/waymo-parking-lot-livestream-honking-4am-san-francisco)
+ - [After Kamala Harris held a rally in Detroit with thousands in attendance, Donald Trump falsely claimed the crowd was &quot;fake&quot; and a picture of it was AI-generated &lpar;Peter Wade/Rolling Stone&rpar;](http://www.techmeme.com/240811/p8#a240811p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
