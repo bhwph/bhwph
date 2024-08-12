@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford offers free home EV charging for some Texas residents in first-of-its-kind deal](https://www.theverge.com/2024/8/12/24218702/ford-free-ev-charging-txu-energy-texas)
- - [Save 34% on the ASUS Chromebook Plus CX34 today only!](https://www.androidauthority.com/asus-chromebook-plus-cx34-deal-3470478/)
- - [States push back on classroom distractions with smartphone bans](https://www.androidauthority.com/states-smartphone-bans-3470437/)<!-- TECH:END -->
+ - [Google Wallet’s new tool that turns anything into a digital pass rolls out widely](https://www.androidauthority.com/google-wallet-pass-creator-us-3470502/)
+ - [Google Wallet can make digital passes for nearly anything now](https://www.theverge.com/2024/8/12/24218932/google-wallet-photo-everything-else-id-ticket-ai)
+ - [The FBI says it is investigating an alleged Trump campaign hack, after the campaign claimed a hack by Iran led to the leak of sensitive internal documents &lpar;Washington Post&rpar;](http://www.techmeme.com/240812/p24#a240812p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
