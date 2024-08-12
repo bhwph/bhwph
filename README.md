@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3&#39;s lead mocap choreographer reveals Lae&#39;zel&#39;s combat stance is based on a real technique that came to an ancient samurai master in a dream](https://www.pcgamer.com/games/rpg/baldurs-gate-3s-lead-mocap-choreographer-reveals-laezels-combat-stance-is-based-on-a-real-technique-that-came-to-an-ancient-samurai-master-in-a-dream)
- - [The best deals from GOG’s massive RPG sale](https://www.polygon.com/deals/2024/8/12/24216951/gog-rpg-sale)
- - [Two New Halloween Games Announced, John Carpenter &#39;Intimately Involved&#39;](https://kotaku.com/new-ign-halloween-games-michael-myers-john-carpenter-1851619732)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3&#39;s rarest ending has only been unlocked by 34 players, and it requires an obscenely specific sequence of poor decisions](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3s-rarest-ending-has-only-been-unlocked-by-34-players-and-it-requires-an-obscenely-specific-sequence-of-poor-decisions)
+ - [Hunt: Showdown is going offline for 48 hours to prepare for its biggest update ever](https://www.pcgamer.com/games/fps/hunt-showdown-is-going-offline-for-48-hours-to-prepare-for-its-biggest-update-ever)
+ - [Pick up the definitive Borderlands collection for its lowest price ever on Steam](https://www.polygon.com/24218856/borderlands-movie-pandoras-box-collection-deal-sale-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
