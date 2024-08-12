@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I love speedway](http://9gag.com/gag/aLnMEnx)
- - 😝 [Former CEO of YouTube Susan Wojcicki died. F**k her and her Legacy for trashing YouTube into platform full of censorship, ads and trash conent](http://9gag.com/gag/aqyrB5L)
- - 👉 [That one cockroach that just wouldn&#39;t die](http://9gag.com/gag/a6ZM65b)<!-- MEMES:END -->
+ - 6️⃣ [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
+ - 😝 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
+ - 👉 [If this is not love, I don\u2019t know what is &lpar;39s&rpar;](http://9gag.com/gag/aryOwE0)<!-- MEMES:END -->
 
 --- 
 
