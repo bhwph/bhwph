@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well well well...](http://9gag.com/gag/a0edDYn)
- - 😝 [If this is not love, I don\u2019t know what is &lpar;39s&rpar;](http://9gag.com/gag/aryOwE0)
- - 👉 [THANK YOU for humiliating Australia!](http://9gag.com/gag/aPAML5q)<!-- MEMES:END -->
+ - 6️⃣ [I love speedway](http://9gag.com/gag/aLnMEnx)
+ - 😝 [Former CEO of YouTube Susan Wojcicki died. F**k her and her Legacy for trashing YouTube into platform full of censorship, ads and trash conent](http://9gag.com/gag/aqyrB5L)
+ - 👉 [That one cockroach that just wouldn&#39;t die](http://9gag.com/gag/a6ZM65b)<!-- MEMES:END -->
 
 --- 
 
