@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands Might Be 2024&#39;s Biggest Box Office Flop](https://kotaku.com/borderlands-movie-box-office-flop-bomb-2024-gearbox-1851619588)
- - [Shadows of Doubt, the procgen private-eye immersive sim, is leaving early access next month](https://www.pcgamer.com/games/sim/shadows-of-doubt-the-procgen-private-eye-immersive-sim-is-leaving-early-access-next-month)
- - [Cause Co-op Chaos in Cult of the Lamb’s Free Unholy Alliance Update](https://news.xbox.com/en-us/2024/08/12/cult-of-the-lamb-unholy-alliance-update-co-op/)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3&#39;s lead mocap choreographer reveals Lae&#39;zel&#39;s combat stance is based on a real technique that came to an ancient samurai master in a dream](https://www.pcgamer.com/games/rpg/baldurs-gate-3s-lead-mocap-choreographer-reveals-laezels-combat-stance-is-based-on-a-real-technique-that-came-to-an-ancient-samurai-master-in-a-dream)
+ - [The best deals from GOG’s massive RPG sale](https://www.polygon.com/deals/2024/8/12/24216951/gog-rpg-sale)
+ - [Two New Halloween Games Announced, John Carpenter &#39;Intimately Involved&#39;](https://kotaku.com/new-ign-halloween-games-michael-myers-john-carpenter-1851619732)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
