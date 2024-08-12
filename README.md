@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Patreon says it has begun a migration process to move all creators to Apple&#39;s subscription billing by November 2025, after Apple threatened to remove the app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240812/p17#a240812p17)
- - [Microsoft confirms its Paint 3D app is being discontinued in November](https://www.theverge.com/2024/8/12/24218450/microsoft-paint-3d-deprecated-end-of-support-november)<!-- TECH:END -->
+ - [Waymo’s Chinese-made robotaxis face new headwinds thanks to Biden’s tariffs](https://www.theverge.com/2024/8/12/24218528/waymo-zeekr-geely-robotaxi-china-biden-tariff-ev-import)
+ - [Apple approves iDOS 3 following emulator rule change](https://www.theverge.com/2024/8/12/24218754/apple-idos-3-app-store-pc-emulator-rule-change)
+ - [Researchers: in the 30 US states which legalized access to online betting, citizens&#39; likelihood of filing for bankruptcy went up 25-30% after about three years &lpar;Slow Boring&rpar;](http://www.techmeme.com/240812/p20#a240812p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
