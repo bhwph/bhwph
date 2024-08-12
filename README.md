@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo’s Chinese-made robotaxis face new headwinds thanks to Biden’s tariffs](https://www.theverge.com/2024/8/12/24218528/waymo-zeekr-geely-robotaxi-china-biden-tariff-ev-import)
- - [Apple approves iDOS 3 following emulator rule change](https://www.theverge.com/2024/8/12/24218754/apple-idos-3-app-store-pc-emulator-rule-change)
- - [Researchers: in the 30 US states which legalized access to online betting, citizens&#39; likelihood of filing for bankruptcy went up 25-30% after about three years &lpar;Slow Boring&rpar;](http://www.techmeme.com/240812/p20#a240812p20)<!-- TECH:END -->
+ - [Ford offers free home EV charging for some Texas residents in first-of-its-kind deal](https://www.theverge.com/2024/8/12/24218702/ford-free-ev-charging-txu-energy-texas)
+ - [Save 34% on the ASUS Chromebook Plus CX34 today only!](https://www.androidauthority.com/asus-chromebook-plus-cx34-deal-3470478/)
+ - [States push back on classroom distractions with smartphone bans](https://www.androidauthority.com/states-smartphone-bans-3470437/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
