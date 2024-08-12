@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women](http://9gag.com/gag/aPAMVdG)
- - 😝 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
- - 👉 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)<!-- MEMES:END -->
+ - 6️⃣ [If this is not love, I don\u2019t know what is &lpar;39s&rpar;](http://9gag.com/gag/aryOwE0)
+ - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
+ - 👉 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)<!-- MEMES:END -->
 
 --- 
 
