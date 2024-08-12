@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
- - 😝 [Recognize the building?](http://9gag.com/gag/aLnM59v)
- - 👉 [\ud83c\udde6\ud83c\uddfa Breakdance studies paid by your taxes.](http://9gag.com/gag/a5QZ05O)<!-- MEMES:END -->
+ - 6️⃣ [Next level driving](http://9gag.com/gag/abA6w4X)
+ - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
+ - 👉 [Correct!](http://9gag.com/gag/a2vdXWp)<!-- MEMES:END -->
 
 --- 
 
