@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A researcher finds 15K+ hardcoded secrets and 66K vulnerable websites, including details on accessing Stanford&#39;s Slack, by searching overlooked data sources &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240812/p6#a240812p6)
- - [Amazfit Helio Review: Woefully Behind and Lacking Features](https://www.wired.com/review/amazfit-helio/)
- - [Flush With Cash, Tether Has Got Microsoft, Google, and Amazon in Its Crosshairs](https://www.wired.com/story/tether-ceo-paolo-ardoino-crypto-ai-interview/)<!-- TECH:END -->
+ - [7 Best Chromebooks of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-chromebooks/)
+ - [This 1TB Mac Studio is discounted to $1,999, plus get 3 years of AppleCare for $139](https://appleinsider.com/articles/24/08/12/this-1tb-mac-studio-is-discounted-to-1999-plus-get-3-years-of-applecare-for-139?utm_medium=rss)
+ - [Meta and UMG sign a &quot;global, multi-year agreement&quot; for artists on Meta&#39;s apps, including WhatsApp for the first time, covering AI, monetization, and more &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240812/p10#a240812p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
