@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anime Girl Kicking&lpar;Gone Wrong&rpar;](http://9gag.com/gag/aD2j58K)
- - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
- - 👉 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)<!-- MEMES:END -->
+ - 6️⃣ [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
+ - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
+ - 👉 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)<!-- MEMES:END -->
 
 --- 
 
