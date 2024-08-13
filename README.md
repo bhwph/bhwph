@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet’s new tool that turns anything into a digital pass rolls out widely](https://www.androidauthority.com/google-wallet-pass-creator-us-3470502/)
- - [Google Wallet can make digital passes for nearly anything now](https://www.theverge.com/2024/8/12/24218932/google-wallet-photo-everything-else-id-ticket-ai)
- - [The FBI says it is investigating an alleged Trump campaign hack, after the campaign claimed a hack by Iran led to the leak of sensitive internal documents &lpar;Washington Post&rpar;](http://www.techmeme.com/240812/p24#a240812p24)<!-- TECH:END -->
+ - [A source at X says there wasn&#39;t actually a DDoS attack that crashed the Trump interview; another X employee said there was a &quot;99 percent&quot; chance Musk was lying &lpar;The Verge&rpar;](http://www.techmeme.com/240812/p27#a240812p27)
+ - [Poll result: Your ideal Google One ‘Lite’ plan is just no-frills cloud storage](https://www.androidauthority.com/google-one-lite-plan-3470530/)
+ - [We played Valve’s secret new shooter: Deadlock](https://www.theverge.com/2024/8/12/24219016/valve-deadlock-hands-on-secret-new-game)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
