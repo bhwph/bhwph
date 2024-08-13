@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Seriously tho?](http://9gag.com/gag/a0ed3Ln)
- - 😝 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
- - 👉 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)<!-- MEMES:END -->
+ - 6️⃣ [Correct!](http://9gag.com/gag/a2vdXWp)
+ - 😝 [Good old days.](http://9gag.com/gag/aD2jy2d)
+ - 👉 [Names and their IQ from the danish military draft](http://9gag.com/gag/aAyw5Mo)<!-- MEMES:END -->
 
 --- 
 
