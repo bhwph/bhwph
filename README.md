@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I hope you&#39;re all happy. Because I am.](http://9gag.com/gag/a347g5e)
- - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
- - 👉 [Recognize the building?](http://9gag.com/gag/aLnM59v)<!-- MEMES:END -->
+ - 6️⃣ [He asked his wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMVw7e1)
+ - 😝 [What if](http://9gag.com/gag/a87pxyZ)
+ - 👉 [Correct!](http://9gag.com/gag/a2vdXWp)<!-- MEMES:END -->
 
 --- 
 
