@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
- - 😝 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
- - 👉 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)<!-- MEMES:END -->
+ - 6️⃣ [Seriously tho?](http://9gag.com/gag/a0ed3Ln)
+ - 😝 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
+ - 👉 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)<!-- MEMES:END -->
 
 --- 
 
