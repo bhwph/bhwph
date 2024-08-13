@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Lileep be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24215469/can-lileep-be-shiny-cradily)
- - [Today&#39;s Wordle answer for Tuesday, August 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-13-2024)
- - [Promise Mascot Agency, the &#39;world&#39;s first open world mascot management crime drama,&#39; is all that and somehow more](https://www.pcgamer.com/games/sim/promise-mascot-agency-the-worlds-first-open-world-mascot-management-crime-drama-is-all-that-and-somehow-more)<!-- GAME:END -->
+ - [How tech limitations actually made Silent Hill and Crash Bandicoot better games](https://www.polygon.com/playstation/24196061/silent-hill-crash-bandicoot-tech-limitations)
+ - [Doom running on a Def Con attendee badge at 50 fps is the highlight of the otherwise messy backstory to this year&#39;s popular hacking conference](https://www.pcgamer.com/hardware/doom-running-on-a-def-con-attendee-badge-at-50-fps-is-the-highlight-of-the-otherwise-messy-backstory-to-this-years-popular-hacking-conference)
+ - [Black Myth: Wukong&#39;s most-wishlisted status means its new benchmarking tool is the 18th most played &#39;game&#39; on Steam right now](https://www.pcgamer.com/hardware/black-myth-wukongs-most-wishlisted-status-means-its-new-benchmarking-tool-is-the-18th-most-played-game-on-steam-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
