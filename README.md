@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Otter asks for help and kind strangers help reunite the pair; they receive a thoughtful gift at the end](http://9gag.com/gag/azxrWRb)
- - 😝 [No title](http://9gag.com/gag/avyrKgO)
- - 👉 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)<!-- MEMES:END -->
+ - 6️⃣ [Anime Girl Kicking&lpar;Gone Wrong&rpar;](http://9gag.com/gag/aD2j58K)
+ - 😝 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
+ - 👉 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)<!-- MEMES:END -->
 
 --- 
 
