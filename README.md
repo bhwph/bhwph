@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A source at X says there wasn&#39;t actually a DDoS attack that crashed the Trump interview; another X employee said there was a &quot;99 percent&quot; chance Musk was lying &lpar;The Verge&rpar;](http://www.techmeme.com/240812/p27#a240812p27)
- - [Poll result: Your ideal Google One ‘Lite’ plan is just no-frills cloud storage](https://www.androidauthority.com/google-one-lite-plan-3470530/)
- - [We played Valve’s secret new shooter: Deadlock](https://www.theverge.com/2024/8/12/24219016/valve-deadlock-hands-on-secret-new-game)<!-- TECH:END -->
+ - [Elon Musk tells Donald Trump ‘we shouldn’t vilify the oil and gas industry’](https://www.theverge.com/2024/8/12/24219183/elon-musk-donald-trump-oil-gas-vilify-tesla-x-interview)
+ - [Hackers leaked ~2.7B data records of people in the US containing SSNs, names, more on Aug. 6, allegedly from National Public Data, which collects and sells data &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240812/p28#a240812p28)
+ - [Samsung deals: Here are a bunch of discounts for students!](https://www.androidauthority.com/samsung-student-discounts-3470476/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
