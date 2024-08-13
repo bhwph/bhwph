@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Correct!](http://9gag.com/gag/a2vdXWp)
- - 😝 [Good old days.](http://9gag.com/gag/aD2jy2d)
- - 👉 [Names and their IQ from the danish military draft](http://9gag.com/gag/aAyw5Mo)<!-- MEMES:END -->
+ - 6️⃣ [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
+ - 😝 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
+ - 👉 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)<!-- MEMES:END -->
 
 --- 
 
