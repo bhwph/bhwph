@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [16-Bit Halloween And Evil Dead Games Launching This October](https://kotaku.com/retrorealms-halloween-ash-evil-dead-horror-16-bit-retro-1851620847)
- - [Everyday Racers Line Up at the Starting Line in High-Performance Dailies](https://forza.net/news/forza-horizon-5-high-performance-dailies/#new_tab)
- - [Astarion’s Thirst cards revealed for MTG’s 50th Anniversary D&amp;#038;D Secret Lair](https://www.polygon.com/mtg-magic-the-gathering/24218600/dungeons-and-dragons-astarion-secret-lair-where-to-buy)<!-- GAME:END -->
+ - [My biggest question about Dragon Age: The Veilguard is actually &#39;Which of these mages is going to lie right to my face and stab me in the back after 80 hours?&#39;](https://www.pcgamer.com/games/dragon-age/my-biggest-question-about-dragon-age-the-veilguard-is-actually-which-of-these-mages-is-going-to-lie-right-to-my-face-and-stab-me-in-the-back-after-80-hours)
+ - [Josh Sawyer doesn&#39;t like Baldur Gate 3-style romances and that&#39;s part of why he doubts a new Pillars of Eternity would be a hit: &#39;I feel like I&#39;m kind of out of touch with that audience&#39;](https://www.pcgamer.com/games/rpg/josh-sawyer-doesnt-like-baldur-gate-3-style-romances-and-thats-part-of-why-he-doubts-a-new-pillars-of-eternity-would-be-a-hit-i-feel-like-im-kind-of-out-of-touch-with-that-audience)
+ - [Get This Diabolical And Hilarious Cult Game On Sale ASAP](https://kotaku.com/cult-of-the-lamb-anniversary-dlc-sale-1851621198)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
