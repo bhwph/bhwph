@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mark Hamill’s Missing Joker Voice Was Just Quietly Added To Crisis on Infinite Earths Part 3](https://kotaku.com/crisis-infinite-earths-part-3-mark-hamill-joker-voice-1851620770)
- - [The 14-Year Wait For Red Dead Redemption On PC Is Nearly Over, PlayStation Leak Suggests](https://kotaku.com/red-dead-redemption-pc-steam-release-date-port-1851620728)
- - [Everything You Need To Know About The Visions Of Mana Demo](https://kotaku.com/visions-of-manner-demo-guide-does-it-carry-over-1851618271)<!-- GAME:END -->
+ - [16-Bit Halloween And Evil Dead Games Launching This October](https://kotaku.com/retrorealms-halloween-ash-evil-dead-horror-16-bit-retro-1851620847)
+ - [Everyday Racers Line Up at the Starting Line in High-Performance Dailies](https://forza.net/news/forza-horizon-5-high-performance-dailies/#new_tab)
+ - [Astarion’s Thirst cards revealed for MTG’s 50th Anniversary D&amp;#038;D Secret Lair](https://www.polygon.com/mtg-magic-the-gathering/24218600/dungeons-and-dragons-astarion-secret-lair-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
