@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to save your online writing from disappearing forever](https://www.theverge.com/24218943/archive-article-writing-authory-journalist)
- - [Best Internet Providers in Centennial, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-centennial-co/#ftag=CAD590a51e)
- - [Donald Trump Doesn’t Need X—but Elon Musk Desperately Needs Him Back](https://www.wired.com/story/elon-musk-needs-donald-trump-back-on-x/)<!-- TECH:END -->
+ - [After Thierry Breton&#39;s letter to X before the Trump interview, the EU says the &quot;timing and the wording of the letter were neither co-ordinated or agreed&quot; upon &lpar;Alice Hancock/Financial Times&rpar;](http://www.techmeme.com/240813/p20#a240813p20)
+ - [Twitch rolls out video stories, which can be 60 seconds long and set to expire after 1, 12, 24, or 48 hours, to challenge Instagram &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240813/p19#a240813p19)
+ - [How to create reminders in Calendar in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-create-reminders-in-calendar-in-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
