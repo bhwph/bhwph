@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Court of Appeals for the Fifth Circuit ruled that geofence warrants are &quot;prohibited by the Fourth Amendment&quot;, at odds with a recent Fourth Circuit ruling &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240813/p33#a240813p33)
- - [Hands-on with Gemini Live: conversationally, a big step forward, but functionally, a step back in some ways, largely because it works entirely in the cloud &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240813/p32#a240813p32)
- - [Google debuts Pixel Studio AI image-making app](https://www.theverge.com/2024/8/13/24219655/google-pixel-studio-ai-image-generation-app)<!-- TECH:END -->
+ - [Google’s finally rolling out the Zoom Enhance camera trick it announced last year](https://www.theverge.com/2024/8/13/24219750/google-zoom-enhance-pixel-8-9-pro-feature)
+ - [UAW Files Federal Labor Charges Against Donald Trump and Elon Musk, Alleging They Tried to ‘Threaten and Intimidate Workers’](https://www.wired.com/story/uaw-donald-trump-elon-musk-labor-charges/)
+ - [Here’s how the Pixel 9 phones talk to satellites](https://www.androidauthority.com/pixel-9-satellite-communication-3471190/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
