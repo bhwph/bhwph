@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How tech limitations actually made Silent Hill and Crash Bandicoot better games](https://www.polygon.com/playstation/24196061/silent-hill-crash-bandicoot-tech-limitations)
- - [Doom running on a Def Con attendee badge at 50 fps is the highlight of the otherwise messy backstory to this year&#39;s popular hacking conference](https://www.pcgamer.com/hardware/doom-running-on-a-def-con-attendee-badge-at-50-fps-is-the-highlight-of-the-otherwise-messy-backstory-to-this-years-popular-hacking-conference)
- - [Black Myth: Wukong&#39;s most-wishlisted status means its new benchmarking tool is the 18th most played &#39;game&#39; on Steam right now](https://www.pcgamer.com/hardware/black-myth-wukongs-most-wishlisted-status-means-its-new-benchmarking-tool-is-the-18th-most-played-game-on-steam-right-now)<!-- GAME:END -->
+ - [Mark Hamill’s Missing Joker Voice Was Just Quietly Added To Crisis on Infinite Earths Part 3](https://kotaku.com/crisis-infinite-earths-part-3-mark-hamill-joker-voice-1851620770)
+ - [The 14-Year Wait For Red Dead Redemption On PC Is Nearly Over, PlayStation Leak Suggests](https://kotaku.com/red-dead-redemption-pc-steam-release-date-port-1851620728)
+ - [Everything You Need To Know About The Visions Of Mana Demo](https://kotaku.com/visions-of-manner-demo-guide-does-it-carry-over-1851618271)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
