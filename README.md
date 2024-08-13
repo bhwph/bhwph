@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We can all see that Valve&#39;s unannounced shooter Deadlock just hit over 18,000 concurrent players, Gabe](https://www.pcgamer.com/games/fps/we-can-all-see-that-valves-unannounced-shooter-deadlock-just-hit-over-18000-concurrent-players-gabe)
- - [All new Helldivers 2 enemies should be revealed in-game](https://www.polygon.com/24219000/helldivers-2-impaler-new-enemies-surprise)
- - [Valve&#39;s Yet-To-Be-Announced Multiplayer Game Already Has Thousands Of Players On Steam](https://kotaku.com/valve-next-game-deadlock-early-access-beta-steamdb-pc-1851620354)<!-- GAME:END -->
+ - [Promise Mascot Agency, the &#39;world&#39;s first open world mascot management crime drama,&#39; is all that and somehow more](https://www.pcgamer.com/games/sim/promise-mascot-agency-the-worlds-first-open-world-mascot-management-crime-drama-is-all-that-and-somehow-more)
+ - [Stalker 2 devs&#39; 35-minute in-depth gameplay video and promise of an &#39;authentic&#39; experience that&#39;ll kill you dead finally has me fully on board the hype train to The Zone](https://www.pcgamer.com/games/fps/stalker-2-devs-35-minute-in-depth-video-and-promise-of-an-authentic-experience-that-ll-kill-you-dead-finally-have-me-fully-on-board-the-hype-train-to-the-zone)
+ - [We can all see that Valve&#39;s unannounced shooter Deadlock just hit over 18,000 concurrent players, Gabe](https://www.pcgamer.com/games/fps/we-can-all-see-that-valves-unannounced-shooter-deadlock-just-hit-over-18000-concurrent-players-gabe)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
