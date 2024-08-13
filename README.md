@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Thierry Breton&#39;s letter to X before the Trump interview, the EU says the &quot;timing and the wording of the letter were neither co-ordinated or agreed&quot; upon &lpar;Alice Hancock/Financial Times&rpar;](http://www.techmeme.com/240813/p20#a240813p20)
- - [Twitch rolls out video stories, which can be 60 seconds long and set to expire after 1, 12, 24, or 48 hours, to challenge Instagram &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240813/p19#a240813p19)
- - [How to create reminders in Calendar in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-create-reminders-in-calendar-in-ios-18?utm_medium=rss)<!-- TECH:END -->
+ - [The US Court of Appeals for the Fifth Circuit ruled that geofence warrants are &quot;prohibited by the Fourth Amendment&quot;, at odds with a recent Fourth Circuit ruling &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240813/p33#a240813p33)
+ - [Hands-on with Gemini Live: conversationally, a big step forward, but functionally, a step back in some ways, largely because it works entirely in the cloud &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240813/p32#a240813p32)
+ - [Google debuts Pixel Studio AI image-making app](https://www.theverge.com/2024/8/13/24219655/google-pixel-studio-ai-image-generation-app)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
