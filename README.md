@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Politico, the NYT, the WaPo, and others say they received hacked Trump campaign materials, but gave few details, a marked contrast to Clinton&#39;s emails in 2016 &lpar;David Bauder/Associated Press&rpar;](http://www.techmeme.com/240813/p14#a240813p14)
- - [The 11 Best Travel Adapters, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-adapters/)
- - [Epic Games Store, &#39;Fortnite&#39; submitted for EU notarization one more time](https://appleinsider.com/articles/24/08/13/epic-games-store-fortnite-submitted-for-eu-notarization-one-more-time?utm_medium=rss)<!-- TECH:END -->
+ - [How to save your online writing from disappearing forever](https://www.theverge.com/24218943/archive-article-writing-authory-journalist)
+ - [Best Internet Providers in Centennial, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-centennial-co/#ftag=CAD590a51e)
+ - [Donald Trump Doesn’t Need X—but Elon Musk Desperately Needs Him Back](https://www.wired.com/story/elon-musk-needs-donald-trump-back-on-x/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
