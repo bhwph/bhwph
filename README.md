@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He asked his wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMVw7e1)
- - 😝 [What if](http://9gag.com/gag/a87pxyZ)
- - 👉 [Correct!](http://9gag.com/gag/a2vdXWp)<!-- MEMES:END -->
+ - 6️⃣ [Otter asks for help and kind strangers help reunite the pair; they receive a thoughtful gift at the end](http://9gag.com/gag/azxrWRb)
+ - 😝 [No title](http://9gag.com/gag/avyrKgO)
+ - 👉 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)<!-- MEMES:END -->
 
 --- 
 
