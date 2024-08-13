@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My biggest question about Dragon Age: The Veilguard is actually &#39;Which of these mages is going to lie right to my face and stab me in the back after 80 hours?&#39;](https://www.pcgamer.com/games/dragon-age/my-biggest-question-about-dragon-age-the-veilguard-is-actually-which-of-these-mages-is-going-to-lie-right-to-my-face-and-stab-me-in-the-back-after-80-hours)
- - [Josh Sawyer doesn&#39;t like Baldur Gate 3-style romances and that&#39;s part of why he doubts a new Pillars of Eternity would be a hit: &#39;I feel like I&#39;m kind of out of touch with that audience&#39;](https://www.pcgamer.com/games/rpg/josh-sawyer-doesnt-like-baldur-gate-3-style-romances-and-thats-part-of-why-he-doubts-a-new-pillars-of-eternity-would-be-a-hit-i-feel-like-im-kind-of-out-of-touch-with-that-audience)
- - [Get This Diabolical And Hilarious Cult Game On Sale ASAP](https://kotaku.com/cult-of-the-lamb-anniversary-dlc-sale-1851621198)<!-- GAME:END -->
+ - [Call of Duty 4 is one of the best-selling Steam games right now, but only because you need it to play an ambitious Modern Warfare 2 multiplayer mod launching this week](https://www.pcgamer.com/games/call-of-duty/call-of-duty-4-is-one-of-the-best-selling-steam-games-right-now-but-only-because-you-need-it-to-play-an-ambitious-modern-warfare-2-multiplayer-mod-launching-this-week)
+ - [Report: Developers Told Not To Expect Switch 2 Before April 2025](https://kotaku.com/nintendo-direct-switch-2-release-date-1851621426)
+ - [Deborah Ann Woll gives the perfect D&amp;#038;D pitch on Jon Bernthal’s podcast](https://www.polygon.com/culture/439961/deborah-ann-woll-dungeons-dragons-jon-bernthal-explainer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
