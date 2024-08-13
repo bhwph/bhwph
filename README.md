@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty 4 is one of the best-selling Steam games right now, but only because you need it to play an ambitious Modern Warfare 2 multiplayer mod launching this week](https://www.pcgamer.com/games/call-of-duty/call-of-duty-4-is-one-of-the-best-selling-steam-games-right-now-but-only-because-you-need-it-to-play-an-ambitious-modern-warfare-2-multiplayer-mod-launching-this-week)
- - [Report: Developers Told Not To Expect Switch 2 Before April 2025](https://kotaku.com/nintendo-direct-switch-2-release-date-1851621426)
- - [Deborah Ann Woll gives the perfect D&amp;#038;D pitch on Jon Bernthal’s podcast](https://www.polygon.com/culture/439961/deborah-ann-woll-dungeons-dragons-jon-bernthal-explainer)<!-- GAME:END -->
+ - [Apple to add 30% fee on all Patreon subscriptions made through iOS](https://www.polygon.com/news/439878/apple-patreon-30-percent-ios-fee-creators)
+ - [Alien: Romulus Took Inspiration From This One Small Thing In Alien: Isolation](https://kotaku.com/alien-romulus-isolation-emergency-phone-save-stations-1851621510)
+ - [Elite Dangerous added only its second new starship in five years](https://www.polygon.com/gaming/439987/elite-dangerous-added-only-its-second-new-starship-in-five-years)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
