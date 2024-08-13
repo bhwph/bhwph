@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chipmakers are facing a labor crisis despite huge investments; McKinsey says US plans need 160K+ new workers, and only 1,500 engineers join the industry yearly &lpar;June Yoon/Financial Times&rpar;](http://www.techmeme.com/240813/p9#a240813p9)
- - [Apple makes India withdraw its antitrust accusations](https://appleinsider.com/articles/24/08/13/apple-makes-india-withdraw-its-antitrust-accusations?utm_medium=rss)
- - [Made by Google Live Blog: New Pixel Phones, Smartwatches, Gemini, and More](https://www.wired.com/live/made-by-google-2024-live-blog/)<!-- TECH:END -->
+ - [Politico, the NYT, the WaPo, and others say they received hacked Trump campaign materials, but gave few details, a marked contrast to Clinton&#39;s emails in 2016 &lpar;David Bauder/Associated Press&rpar;](http://www.techmeme.com/240813/p14#a240813p14)
+ - [The 11 Best Travel Adapters, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-adapters/)
+ - [Epic Games Store, &#39;Fortnite&#39; submitted for EU notarization one more time](https://appleinsider.com/articles/24/08/13/epic-games-store-fortnite-submitted-for-eu-notarization-one-more-time?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
