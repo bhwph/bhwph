@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
- - 😝 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
- - 👉 [Unexpected twist](http://9gag.com/gag/an7ypXq)<!-- MEMES:END -->
+ - 6️⃣ [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
+ - 😝 [Just your average Japanese father &amp; daughter\u2026 Oh.](http://9gag.com/gag/a7oZznr)
+ - 👉 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)<!-- MEMES:END -->
 
 --- 
 
