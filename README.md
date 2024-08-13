@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s finally rolling out the Zoom Enhance camera trick it announced last year](https://www.theverge.com/2024/8/13/24219750/google-zoom-enhance-pixel-8-9-pro-feature)
- - [UAW Files Federal Labor Charges Against Donald Trump and Elon Musk, Alleging They Tried to ‘Threaten and Intimidate Workers’](https://www.wired.com/story/uaw-donald-trump-elon-musk-labor-charges/)
- - [Here’s how the Pixel 9 phones talk to satellites](https://www.androidauthority.com/pixel-9-satellite-communication-3471190/)<!-- TECH:END -->
+ - [Google announces Android accessibility updates, including an easier-to-use Guided Frame for photos, AI features for Magnifier, and new Live Caption languages &lpar;Abrar Al-Heeti/CNET&rpar;](http://www.techmeme.com/240813/p40#a240813p40)
+ - [Every time Google dinged Apple during its Pixel 9 launch event](https://www.theverge.com/2024/8/13/24219764/google-dinged-apple-pixel-9-launch-event)
+ - [Researchers describe now-fixed vulnerabilities in Microsoft&#39;s Azure Health Bot Service that allowed a user to access and manage other customers&#39; resources &lpar;Nathan Eddy/Dark Reading&rpar;](http://www.techmeme.com/240813/p39#a240813p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
