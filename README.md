@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good old days.](http://9gag.com/gag/aD2jy2d)
- - 😝 [Hitting a car battery at 88 MPH](http://9gag.com/gag/avyrMPX)
- - 👉 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)<!-- MEMES:END -->
+ - 6️⃣ [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
+ - 😝 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
+ - 👉 [Unexpected twist](http://9gag.com/gag/an7ypXq)<!-- MEMES:END -->
 
 --- 
 
