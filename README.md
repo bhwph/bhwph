@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good old days.](http://9gag.com/gag/aD2jy2d)
- - 😝 [Unexpected twist](http://9gag.com/gag/an7ypXq)
- - 👉 [:D...](http://9gag.com/gag/a4PZvRp)<!-- MEMES:END -->
+ - 6️⃣ [Nice job](http://9gag.com/gag/aGy0WBK)
+ - 😝 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
+ - 👉 [Gone but not forgotten.](http://9gag.com/gag/azxr6Gz)<!-- MEMES:END -->
 
 --- 
 
