@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice job](http://9gag.com/gag/aGy0WBK)
- - 😝 [Peter dropped a diamond](http://9gag.com/gag/azx879p)
- - 👉 [We don\u2019t deserve Danny](http://9gag.com/gag/avyrbYZ)<!-- MEMES:END -->
+ - 6️⃣ [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
+ - 😝 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
+ - 👉 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)<!-- MEMES:END -->
 
 --- 
 
