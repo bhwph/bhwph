@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X’s new AI image generator will make anything from Taylor Swift in lingerie to Kamala Harris with a gun](https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges)
- - [Apple grants US developers the same NFC features it was forced to provide in Europe](https://appleinsider.com/articles/24/08/14/apple-grants-us-developers-the-same-nfc-features-it-was-forced-to-provide-in-europe?utm_medium=rss)
- - [Google Classroom turns 10, and it’s got new AI-powered presents for everyone](https://www.androidauthority.com/google-classroom-ai-3471667/)<!-- TECH:END -->
+ - [High-end racing bikes are now vulnerable to hacking](https://www.theverge.com/2024/8/14/24220390/bike-hack-wireless-gear-shifters)
+ - [Your Gym Locker May Be Hackable](https://www.wired.com/story/electronic-locker-vulnerability/)
+ - [Instagram Isn’t Protecting Women Politicians From Hate Speech](https://www.wired.com/story/instagram-gendered-abuse/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
