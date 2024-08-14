@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces Android accessibility updates, including an easier-to-use Guided Frame for photos, AI features for Magnifier, and new Live Caption languages &lpar;Abrar Al-Heeti/CNET&rpar;](http://www.techmeme.com/240813/p40#a240813p40)
- - [Every time Google dinged Apple during its Pixel 9 launch event](https://www.theverge.com/2024/8/13/24219764/google-dinged-apple-pixel-9-launch-event)
- - [Researchers describe now-fixed vulnerabilities in Microsoft&#39;s Azure Health Bot Service that allowed a user to access and manage other customers&#39; resources &lpar;Nathan Eddy/Dark Reading&rpar;](http://www.techmeme.com/240813/p39#a240813p39)<!-- TECH:END -->
+ - [The Narwal Freo X Ultra robot vacuum is $400 off right now!](https://www.androidauthority.com/narwal-freo-x-ultra-deal-2-3471126/)
+ - [Google and Peloton team up to offer Peloton classes to Fitbit users](https://www.androidauthority.com/fitbit-peloton-partnership-3471374/)
+ - [Google officially discontinues the Pixel Fold, Pixel 7, and Pixel 7 Pro](https://www.androidauthority.com/google-pixel-fold-discontinued-3471380/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
