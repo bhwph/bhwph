@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Guidewheel, which offers plug-and-play sensors to make factory machines smarter, raised a $31M Series B led by BlackRock and Temasek&#39;s Decarbonization Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240813/p46#a240813p46)
- - [How to create widgets for personal &amp; emergency contacts on iPhone](https://appleinsider.com/inside/ios/tips/how-to-create-widgets-for-personal-emergency-contacts-on-iphone?utm_medium=rss)
- - [Chinese self-driving startup WeRide gets permission to test its robotaxis with passengers in California after testing without passengers in San Jose since 2021 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240813/p45#a240813p45)<!-- TECH:END -->
+ - [Google Pixel 9 vs Pixel 7: Should you upgrade?](https://www.androidauthority.com/google-pixel-9-vs-pixel-7-3470839/)
+ - [Google Pixel Watch 3 vs Samsung Galaxy Watch Ultra: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-3-vs-samsung-galaxy-watch-ultra-3470666/)
+ - [Google says Gemini will replace Google Assistant as the default on the Google Pixel 9 lineup, but &quot;users can go back to the classic Google Assistant&quot; &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240814/p2#a240814p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
