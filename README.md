@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a time to be alive!](http://9gag.com/gag/a9yWQE0)
- - 😝 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
- - 👉 [Britain is the new North Korea. But if they can&#39;t speak, the rest of Europe will. You&#39;re not alone, stand against distopia. Peacefully, without rest, without fear.](http://9gag.com/gag/adBqZWQ)<!-- MEMES:END -->
+ - 6️⃣ [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
+ - 😝 [:D...](http://9gag.com/gag/a4PZvRp)
+ - 👉 [Tight enough?](http://9gag.com/gag/aD2jB0x)<!-- MEMES:END -->
 
 --- 
 
