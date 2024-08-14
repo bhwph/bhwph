@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
- - 😝 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)
- - 👉 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)<!-- MEMES:END -->
+ - 6️⃣ [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
+ - 😝 [Man yelling at his own kids gets yelled at by another guy](http://9gag.com/gag/aKG2Reg)
+ - 👉 [What?](http://9gag.com/gag/amoYNjd)<!-- MEMES:END -->
 
 --- 
 
