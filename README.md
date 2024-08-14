@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you want to have fun while looking silly, check out the Roto VR Explorer, a super spinny chair that aims to solve motion sickness while VR gaming](https://www.pcgamer.com/hardware/vr-hardware/if-you-want-to-have-fun-while-looking-silly-check-out-the-roto-vr-explorer-a-super-spinny-chair-that-aims-to-solve-motion-sickness-while-vr-gaming)
- - [PlayStation Store: July 2024’s top downloads](https://blog.playstation.com/2024/08/14/playstation-store-july-2024s-top-downloads/)
- - [Fast rounds, forgiving combat, and bad weather: Hands-on with extraction shooter Exoborne](https://www.pcgamer.com/games/fast-rounds-forgiving-combat-and-bad-weather-hands-on-with-extraction-shooter-exoborne)<!-- GAME:END -->
+ - [Dr Disrespect Deletes Statement Admitting To &#39;Inappropriate&#39; Behavior With A Minor](https://kotaku.com/dr-disrespect-beahm-twitch-youtube-sexting-ban-1851622149)
+ - [Get Ready For Monster Hunter Wilds With A Huge Sale On Past Games](https://kotaku.com/monster-hunter-world-rise-sunbreak-sale-playstation-pc-1851622090)
+ - [The international chess world is having a shocking month](https://www.polygon.com/gaming/440094/international-chess-scandals-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
