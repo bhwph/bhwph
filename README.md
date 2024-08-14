@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
- - 😝 [:D...](http://9gag.com/gag/a4PZvRp)
- - 👉 [Tight enough?](http://9gag.com/gag/aD2jB0x)<!-- MEMES:END -->
+ - 6️⃣ [Nice job](http://9gag.com/gag/aGy0WBK)
+ - 😝 [Peter dropped a diamond](http://9gag.com/gag/azx879p)
+ - 👉 [We don\u2019t deserve Danny](http://9gag.com/gag/avyrbYZ)<!-- MEMES:END -->
 
 --- 
 
