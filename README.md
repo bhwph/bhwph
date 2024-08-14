@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tight enough?](http://9gag.com/gag/aD2jB0x)
- - 😝 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)
- - 👉 [Onlyfans](http://9gag.com/gag/aAywoLE)<!-- MEMES:END -->
+ - 6️⃣ [The last inhabitant of an abandoned town in the far north. Imagine what it&#39;s like there at night](http://9gag.com/gag/aQzMwze)
+ - 😝 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
+ - 👉 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)<!-- MEMES:END -->
 
 --- 
 
