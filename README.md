@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The English Premier League Has a New, iPhone-Powered Offside Detection System](https://www.wired.com/story/the-english-premier-league-has-a-new-iphone-powered-offside-detection-system/)
- - [The US could forcibly break up Android, Chrome from Google](https://www.androidauthority.com/us-doj-forcibly-break-up-android-chrome-google-3471468/)
- - [The best Pixel 9 chargers to spend your money on](https://www.androidauthority.com/best-pixel-9-chargers-3468671/)<!-- TECH:END -->
+ - [Apple approves Spotify updating its app to show in-app pricing information for iPhone users in the EU starting today, after Spotify&#39;s yearslong legal battle &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240814/p8#a240814p8)
+ - [HMD Skyline Review: The First Qi2 Android Smartphone](https://www.wired.com/review/hmd-skyline/)
+ - [AI demand boosts Apple supplier Foxconn&#39;s profits](https://appleinsider.com/articles/24/08/14/ai-demand-boosts-apple-supplier-foxconns-profits?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
