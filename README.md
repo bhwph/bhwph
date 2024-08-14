@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
- - 😝 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
- - 👉 [The last inhabitant of an abandoned town in the far north. Imagine what it&#39;s like there at night](http://9gag.com/gag/aQzMwze)<!-- MEMES:END -->
+ - 6️⃣ [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
+ - 😝 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)
+ - 👉 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)<!-- MEMES:END -->
 
 --- 
 
