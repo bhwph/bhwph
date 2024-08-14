@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Internet Is Obsessed With This Horse From Florence Pugh and Andrew Garfield&#39;s We Live In Time](https://kotaku.com/we-live-in-time-horse-florence-pugh-andrew-garfield-1851622476)
- - [Valve issues new rules outlawing links in Steam page descriptions, hopefully bringing an end to the plague of demos pretending they&#39;re &#39;prologue games&#39;](https://www.pcgamer.com/games/valve-issues-new-rules-outlawing-links-in-steam-page-descriptions-hopefully-bringing-an-end-to-the-plague-of-demos-pretending-theyre-prologue-games)
- - [Amazon Orders Animated Series Featuring Spelunky, New World, And PlayStation Games](https://kotaku.com/amazon-love-death-robots-series-secret-level-spelunky-1851622420)<!-- GAME:END -->
+ - [World of Warcraft&amp;#8217;s pre-patch event pits evil knife wife against our wizard dad](https://www.polygon.com/world-of-warcraft/440455/world-of-warcraft-khadgar-xelatath-dalaran-teaser-animation)
+ - [Josh Sawyer says Fallout: New Vegas has deathclaws in Cazador as a warning to Fallout 3 players expecting another easy ride: &#39;You can&#39;t just slide all over the map and not feel the heat&#39;](https://www.pcgamer.com/games/rpg/josh-sawyer-says-fallout-new-vegas-has-deathclaws-in-cazador-as-a-warning-to-fallout-3-players-expecting-another-easy-ride-you-cant-just-slide-all-over-the-map-and-not-feel-the-heat)
+ - [Valve Cracking Down On Joke Reviews Flooding Steam](https://kotaku.com/valve-joke-meme-reviews-unhelpful-steam-update-changes-1851622567)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
