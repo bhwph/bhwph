@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Taiwan&#39;s military deploys F-16s to escort Olympic gold-medalist boxer Lin Yu-ting as she arrives back in Taiwan.](http://9gag.com/gag/a6ZMvz9)
- - 😝 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
- - 👉 [Britain is the new North Korea. But if they can&#39;t speak, the rest of Europe will. You&#39;re not alone, stand against distopia. Peacefully, without rest, without fear.](http://9gag.com/gag/adBqZWQ)<!-- MEMES:END -->
+ - 6️⃣ [Tight enough?](http://9gag.com/gag/aD2jB0x)
+ - 😝 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)
+ - 👉 [Onlyfans](http://9gag.com/gag/aAywoLE)<!-- MEMES:END -->
 
 --- 
 
