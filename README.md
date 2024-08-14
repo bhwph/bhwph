@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
- - 😝 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
- - 👉 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)<!-- MEMES:END -->
+ - 6️⃣ [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
+ - 😝 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
+ - 👉 [The last inhabitant of an abandoned town in the far north. Imagine what it&#39;s like there at night](http://9gag.com/gag/aQzMwze)<!-- MEMES:END -->
 
 --- 
 
