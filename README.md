@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with 48+ people detail Snowflake and Databricks&#39; intense rivalry, jockeying to be the dominant platform to organize AI data, and fear of Microsoft &lpar;Bloomberg&rpar;](http://www.techmeme.com/240814/p20#a240814p20)
- - [Apple&#39;s budget iPhone SE 4: what the rumor mill says is on the way](https://appleinsider.com/articles/24/08/14/apples-budget-iphone-se-4-what-the-rumor-mill-says-is-on-the-way?utm_medium=rss)
- - [Google Messages could soon start paying more attention to color and animations &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-button-color-chat-animation-apk-teardown-3471625/)<!-- TECH:END -->
+ - [X’s new AI image generator will make anything from Taylor Swift in lingerie to Kamala Harris with a gun](https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges)
+ - [Apple grants US developers the same NFC features it was forced to provide in Europe](https://appleinsider.com/articles/24/08/14/apple-grants-us-developers-the-same-nfc-features-it-was-forced-to-provide-in-europe?utm_medium=rss)
+ - [Google Classroom turns 10, and it’s got new AI-powered presents for everyone](https://www.androidauthority.com/google-classroom-ai-3471667/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
