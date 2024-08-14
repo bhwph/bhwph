@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The cheapest countries to buy the Google Pixel 9 Pro XL](https://www.androidauthority.com/cheapest-place-to-buy-pixel-9-pro-xl-3469779/)
- - [LA-based Sahara AI, which uses AI to recognize copyrights and track assets, raised a $43M Series A led by Pantera and Polychain, and claims 200K contributors &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240814/p16#a240814p16)
- - [Access Now and Citizen Lab: Russian spy agencies are using deep knowledge about opponents, reporters, and human rights groups to target them via phishing emails &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240814/p15#a240814p15)<!-- TECH:END -->
+ - [Interviews with 48+ people detail Snowflake and Databricks&#39; intense rivalry, jockeying to be the dominant platform to organize AI data, and fear of Microsoft &lpar;Bloomberg&rpar;](http://www.techmeme.com/240814/p20#a240814p20)
+ - [Apple&#39;s budget iPhone SE 4: what the rumor mill says is on the way](https://appleinsider.com/articles/24/08/14/apples-budget-iphone-se-4-what-the-rumor-mill-says-is-on-the-way?utm_medium=rss)
+ - [Google Messages could soon start paying more attention to color and animations &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-button-color-chat-animation-apk-teardown-3471625/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
