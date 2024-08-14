@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice job](http://9gag.com/gag/aGy0WBK)
+ - 6️⃣ [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
  - 😝 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
- - 👉 [Gone but not forgotten.](http://9gag.com/gag/azxr6Gz)<!-- MEMES:END -->
+ - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
 
 --- 
 
