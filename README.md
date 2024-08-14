@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dr Disrespect Deletes Statement Admitting To &#39;Inappropriate&#39; Behavior With A Minor](https://kotaku.com/dr-disrespect-beahm-twitch-youtube-sexting-ban-1851622149)
- - [Get Ready For Monster Hunter Wilds With A Huge Sale On Past Games](https://kotaku.com/monster-hunter-world-rise-sunbreak-sale-playstation-pc-1851622090)
- - [The international chess world is having a shocking month](https://www.polygon.com/gaming/440094/international-chess-scandals-2024)<!-- GAME:END -->
+ - [J.D. Vance’s favorite Magic: The Gathering card was banned for good reason](https://www.polygon.com/mtg-magic-the-gathering/440149/mtg-jd-vance-yawgmoths-bargain-trump-banned)
+ - [Twelve Tips &amp; Tricks to Help You Become the Best Dinosaur Fossil Hunter](https://news.xbox.com/en-us/2024/08/14/twelve-tips-tricks-to-help-you-become-the-best-dinosaur-fossil-hunter/)
+ - [Rockstar Dev Explains Why GTA 3 Was Filled With Trash, But San Andreas Wasn&#39;t](https://kotaku.com/gta-3-vice-city-ps2-trash-san-andreas-manhunt-rockstar-1851622227)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
