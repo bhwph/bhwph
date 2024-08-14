@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve is &#39;continuing to work on adding support&#39; for other handhelds, but &#39;SteamOS isn&#39;t ready to run out of the box&#39; just yet](https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-continuing-to-work-on-adding-support-for-other-handhelds-but-steamos-isnt-ready-to-run-out-of-the-box-just-yet)
- - [Today&#39;s Wordle answer for Wednesday, August 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-14-2024)
- - [Natsu-Mon: 20th Century Summer Kid review](https://www.pcgamer.com/games/life-sim/natsu-mon-20th-century-summer-kid-review)<!-- GAME:END -->
+ - [Until Dawn, rebuilt and enhanced for PS5 and PC, launches October 4](https://blog.playstation.com/2024/08/14/until-dawn-rebuilt-and-enhanced-for-ps5-and-pc-launches-october-4/)
+ - [Rumoured new AMD Ryzen 5 5500X3D could be our first sub-$200 3D V-cache gaming CPU](https://www.pcgamer.com/hardware/processors/rumoured-new-amd-ryzen-5-5500x3d-could-be-our-first-sub-dollar200-3d-v-cache-gaming-cpu)
+ - [Unsurprisingly, the AMD Ryzen 5 9600X and Ryzen 7 9700X don&#39;t seem to be selling very well right now](https://www.pcgamer.com/hardware/processors/unsurprisingly-the-amd-ryzen-5-9600x-and-ryzen-7-9700x-dont-seem-to-be-selling-very-well-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
