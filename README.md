@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Until Dawn, rebuilt and enhanced for PS5 and PC, launches October 4](https://blog.playstation.com/2024/08/14/until-dawn-rebuilt-and-enhanced-for-ps5-and-pc-launches-october-4/)
- - [Rumoured new AMD Ryzen 5 5500X3D could be our first sub-$200 3D V-cache gaming CPU](https://www.pcgamer.com/hardware/processors/rumoured-new-amd-ryzen-5-5500x3d-could-be-our-first-sub-dollar200-3d-v-cache-gaming-cpu)
- - [Unsurprisingly, the AMD Ryzen 5 9600X and Ryzen 7 9700X don&#39;t seem to be selling very well right now](https://www.pcgamer.com/hardware/processors/unsurprisingly-the-amd-ryzen-5-9600x-and-ryzen-7-9700x-dont-seem-to-be-selling-very-well-right-now)<!-- GAME:END -->
+ - [If you want to have fun while looking silly, check out the Roto VR Explorer, a super spinny chair that aims to solve motion sickness while VR gaming](https://www.pcgamer.com/hardware/vr-hardware/if-you-want-to-have-fun-while-looking-silly-check-out-the-roto-vr-explorer-a-super-spinny-chair-that-aims-to-solve-motion-sickness-while-vr-gaming)
+ - [PlayStation Store: July 2024’s top downloads](https://blog.playstation.com/2024/08/14/playstation-store-july-2024s-top-downloads/)
+ - [Fast rounds, forgiving combat, and bad weather: Hands-on with extraction shooter Exoborne](https://www.pcgamer.com/games/fast-rounds-forgiving-combat-and-bad-weather-hands-on-with-extraction-shooter-exoborne)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
