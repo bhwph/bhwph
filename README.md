@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The last inhabitant of an abandoned town in the far north. Imagine what it&#39;s like there at night](http://9gag.com/gag/aQzMwze)
- - 😝 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
- - 👉 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)<!-- MEMES:END -->
+ - 6️⃣ [Good old days.](http://9gag.com/gag/aD2jy2d)
+ - 😝 [Unexpected twist](http://9gag.com/gag/an7ypXq)
+ - 👉 [:D...](http://9gag.com/gag/a4PZvRp)<!-- MEMES:END -->
 
 --- 
 
