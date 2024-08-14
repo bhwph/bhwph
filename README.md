@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [J.D. Vance’s favorite Magic: The Gathering card was banned for good reason](https://www.polygon.com/mtg-magic-the-gathering/440149/mtg-jd-vance-yawgmoths-bargain-trump-banned)
- - [Twelve Tips &amp; Tricks to Help You Become the Best Dinosaur Fossil Hunter](https://news.xbox.com/en-us/2024/08/14/twelve-tips-tricks-to-help-you-become-the-best-dinosaur-fossil-hunter/)
- - [Rockstar Dev Explains Why GTA 3 Was Filled With Trash, But San Andreas Wasn&#39;t](https://kotaku.com/gta-3-vice-city-ps2-trash-san-andreas-manhunt-rockstar-1851622227)<!-- GAME:END -->
+ - [The Internet Is Obsessed With This Horse From Florence Pugh and Andrew Garfield&#39;s We Live In Time](https://kotaku.com/we-live-in-time-horse-florence-pugh-andrew-garfield-1851622476)
+ - [Valve issues new rules outlawing links in Steam page descriptions, hopefully bringing an end to the plague of demos pretending they&#39;re &#39;prologue games&#39;](https://www.pcgamer.com/games/valve-issues-new-rules-outlawing-links-in-steam-page-descriptions-hopefully-bringing-an-end-to-the-plague-of-demos-pretending-theyre-prologue-games)
+ - [Amazon Orders Animated Series Featuring Spelunky, New World, And PlayStation Games](https://kotaku.com/amazon-love-death-robots-series-secret-level-spelunky-1851622420)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
