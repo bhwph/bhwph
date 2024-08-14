@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
- - 😝 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
- - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
+ - 6️⃣ [What a time to be alive!](http://9gag.com/gag/a9yWQE0)
+ - 😝 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
+ - 👉 [Britain is the new North Korea. But if they can&#39;t speak, the rest of Europe will. You&#39;re not alone, stand against distopia. Peacefully, without rest, without fear.](http://9gag.com/gag/adBqZWQ)<!-- MEMES:END -->
 
 --- 
 
