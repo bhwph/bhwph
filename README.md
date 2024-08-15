@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of 430 first-time Gen Z voters: 60%+ oppose requiring kids under 16 to get parental consent to use social media and 85% oppose notification time limits &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240815/p10#a240815p10)
- - [Google Has Unleashed Its Legal Fury on Hackers and Scammers](https://www.wired.com/story/google-affirmative-litigation-hacker-scammer-lawsuits/)
- - [This Is the Most Detailed Map of Brain Connections Ever Made](https://www.wired.com/story/this-is-the-most-detailed-map-of-brain-connections-ever-made-google-harvard/)<!-- TECH:END -->
+ - [Q&amp;A with Google SVP Rick Osterloh on the new Pixel devices, Android, the history of the smartphone, integration, AI smartphones, Pixel trade-offs, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240815/p18#a240815p18)
+ - [Thankfully, Google isn’t copying Apple’s dumb SIM strategy](https://www.androidauthority.com/google-apple-dumb-sim-strategy-3468098/)
+ - [Your Photos Aren’t Real](https://www.wired.com/story/gadget-lab-podcast-655/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
