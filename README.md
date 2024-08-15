@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
- - 😝 [Man yelling at his own kids gets yelled at by another guy](http://9gag.com/gag/aKG2Reg)
- - 👉 [What?](http://9gag.com/gag/amoYNjd)<!-- MEMES:END -->
+ - 6️⃣ [How to lose a guy in 5 minutes](http://9gag.com/gag/a4PbKmw)
+ - 😝 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
+ - 👉 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)<!-- MEMES:END -->
 
 --- 
 
