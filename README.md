@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, August 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-15-2024)
- - [Skyblivion shows off some gorgeous Oblivion locations and some boring Oblivion quests in its latest trailer](https://www.pcgamer.com/games/rpg/skyblivion-shows-off-some-gorgeous-oblivion-locations-and-some-boring-oblivion-quests-in-its-latest-trailer)
- - [GitHub, the go-to site for open source software, is currently down](https://www.pcgamer.com/gaming-industry/github-is-down-august-14-2024)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard release date seemingly leaks, set to launch on Halloween](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-release-date-seemingly-leaks-set-to-launch-on-halloween)
+ - [Framework 13 &lpar;Intel Core Ultra Series 1&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/framework-13-intel-core-ultra-series-1-laptop-review)
+ - [PC Gamer magazine&#39;s landmark 400th issue is on sale now: Warhammer 40,000: Space Marine 2](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-landmark-400th-issue-is-on-sale-now-warhammer-40000-space-marine-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
