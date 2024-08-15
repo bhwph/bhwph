@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Beach volley was nice](http://9gag.com/gag/azx878m)
- - 😝 [I\u2019m the captain now](http://9gag.com/gag/ae9bN7b)
- - 👉 [You only had one job](http://9gag.com/gag/adB70zD)<!-- MEMES:END -->
+ - 6️⃣ [Mood](http://9gag.com/gag/a9yrj2K)
+ - 😝 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)
+ - 👉 [Call an ambulance but not for me](http://9gag.com/gag/aXPq0Xz)<!-- MEMES:END -->
 
 --- 
 
