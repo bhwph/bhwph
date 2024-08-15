@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
- - 😝 [True](http://9gag.com/gag/aQz96Gd)
+ - 6️⃣ [True](http://9gag.com/gag/aQz96Gd)
+ - 😝 [Dvd butter](http://9gag.com/gag/avyG0yn)
  - 👉 [What?](http://9gag.com/gag/amoYNjd)<!-- MEMES:END -->
 
 --- 
