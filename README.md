@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital IDs in Apple Wallet now confirmed for California residents](https://appleinsider.com/articles/24/08/15/digital-ids-in-apple-wallet-now-confirmed-for-california-residents?utm_medium=rss)
- - [Woot is taking up to $200 off the Sonos Arc and second-gen Sonos Beam](https://www.theverge.com/2024/8/15/24221106/woot-sonos-arc-sonos-beam-soundbar-random-audio-deal-sale)
- - [California announces support for adding driver&#39;s licenses or state IDs to Apple Wallet and Google Wallet, rolling out &quot;in the coming weeks&quot; &lpar;Shawna Chen/Axios&rpar;](http://www.techmeme.com/240815/p25#a240815p25)<!-- TECH:END -->
+ - [You can now use the Meta Quest as a screen for HDMI devices](https://www.theverge.com/2024/8/15/24221146/meta-quest-hdmi-link-app-displayport-usb-c)
+ - [The San Francisco City Attorney David Chiu files a lawsuit that seeks to shut down 16 popular websites used to create nonconsensual deepfake pornography &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/240815/p26#a240815p26)
+ - [Deal: The Moto G Play 2023 is just $100 right now!](https://www.androidauthority.com/moto-g-play-2023-deal-2-3454182/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
