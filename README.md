@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can pick up this Robotech Blu-ray box set for its lowest price ever &lpar;update: now even cheaper&rpar;](https://www.polygon.com/24216285/robotech-blu-ray-box-set-deal-sale)
- - [Trippy-Looking Zelda-Like Arriving On PS Plus Day One](https://kotaku.com/ps-plus-the-plucky-squire-2d-3d-zelda-trailer-launch-1851623031)
- - [GTA Online update for the week of August 15](https://www.polygon.com/gta-online-guides/440604/august-15-weekly-update-events-bounty-bonuses)<!-- GAME:END -->
+ - [The best action movies of the year so far](https://www.polygon.com/24091121/best-action-movies-2024-watch)
+ - [Pikachu wants to keep you safe in this Pokémon-themed flight-safety video](https://www.polygon.com/news/440687/pokemon-flight-safety-video-ana-pikachu)
+ - [Call Of Duty&#39;s Ungodly Download Sizes Are Finally Getting Smaller](https://kotaku.com/call-duty-hq-black-ops-6-download-size-warzone-ps5-1851623319)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
