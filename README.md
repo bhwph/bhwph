@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Frock your Islamophobia.](http://9gag.com/gag/aZZmWPX)
- - 😝 [Minerva McGonagall spittin facts](http://9gag.com/gag/axyVEo2)
- - 👉 [She&#39;s not done yet](http://9gag.com/gag/aMV8eGx)<!-- MEMES:END -->
+ - 6️⃣ [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)
+ - 😝 [Liz Truss leaves stage as lettuce banner unfurls](http://9gag.com/gag/aqybmwY)
+ - 👉 [After posting this, the Internet had identified all 3 men in under 3 hours.](http://9gag.com/gag/a87yWnV)<!-- MEMES:END -->
 
 --- 
 
