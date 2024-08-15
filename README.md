@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Chinese self-driving startup WeRide, which is set for a US IPO as soon as this week; PitchBook: WeRide has raised $1.4B and was last valued at ~$5B &lpar;Daisuke Wakabayashi/New York Times&rpar;](http://www.techmeme.com/240815/p4#a240815p4)
- - [It’s taken a while, but Gemini can now start Google Assistant Routines](https://www.androidauthority.com/gemini-start-google-assistant-routines-3471484/)
- - [Amsterdam-based payments giant Adyen reports H1 2024 net revenue up 24% YoY to &amp;euro;913.4M, vs. &amp;euro;908.9M est., and processed volume up 45% YoY to &amp;euro;619.5B &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240815/p3#a240815p3)<!-- TECH:END -->
+ - [A survey of 430 first-time Gen Z voters: 60%+ oppose requiring kids under 16 to get parental consent to use social media and 85% oppose notification time limits &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240815/p10#a240815p10)
+ - [Google Has Unleashed Its Legal Fury on Hackers and Scammers](https://www.wired.com/story/google-affirmative-litigation-hacker-scammer-lawsuits/)
+ - [This Is the Most Detailed Map of Brain Connections Ever Made](https://www.wired.com/story/this-is-the-most-detailed-map-of-brain-connections-ever-made-google-harvard/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
