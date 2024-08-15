@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now use the Meta Quest as a screen for HDMI devices](https://www.theverge.com/2024/8/15/24221146/meta-quest-hdmi-link-app-displayport-usb-c)
- - [The San Francisco City Attorney David Chiu files a lawsuit that seeks to shut down 16 popular websites used to create nonconsensual deepfake pornography &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/240815/p26#a240815p26)
- - [Deal: The Moto G Play 2023 is just $100 right now!](https://www.androidauthority.com/moto-g-play-2023-deal-2-3454182/)<!-- TECH:END -->
+ - [Google makes Imagen 3 available to all US users via ImageFX, after unveiling the text-to-image AI model in May; some users criticize its strict content filters &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240815/p28#a240815p28)
+ - [These amazing UGREEN power banks are at record-low prices](https://www.androidauthority.com/ugreen-power-banks-deals-3472097/)
+ - [This Mpox Outbreak Isn&#39;t Like the Last One](https://www.wired.com/story/mpox-outbreak-global-public-health-emergency/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
