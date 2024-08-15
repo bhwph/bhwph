@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [True](http://9gag.com/gag/aQz96Gd)
- - 😝 [Dvd butter](http://9gag.com/gag/avyG0yn)
- - 👉 [What?](http://9gag.com/gag/amoYNjd)<!-- MEMES:END -->
+ - 6️⃣ [Beach volley was nice](http://9gag.com/gag/azx878m)
+ - 😝 [I\u2019m the captain now](http://9gag.com/gag/ae9bN7b)
+ - 👉 [You only had one job](http://9gag.com/gag/adB70zD)<!-- MEMES:END -->
 
 --- 
 
