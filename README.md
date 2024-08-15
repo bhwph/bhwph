@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stunning and brave](http://9gag.com/gag/agmL36q)
- - 😝 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
- - 👉 [Beach volley was nice](http://9gag.com/gag/azx878m)<!-- MEMES:END -->
+ - 6️⃣ [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
+ - 😝 [True](http://9gag.com/gag/aQz96Gd)
+ - 👉 [What?](http://9gag.com/gag/amoYNjd)<!-- MEMES:END -->
 
 --- 
 
