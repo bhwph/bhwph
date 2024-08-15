@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our 9 Favorite Pizza Ovens: Wood, Gas, and Electric &lpar;2024&rpar;](https://www.wired.com/gallery/best-pizza-ovens-1/)
- - [Pixels are like Pringles: Once you pop, you can’t stop](https://www.androidauthority.com/pixel-brand-loyalty-3471970/)
- - [Shhhh, everyone pretend the Pixel 9 Pro temperature sensor isn’t there](https://www.androidauthority.com/pixel-9-pro-temperature-sensor-3470830/)<!-- TECH:END -->
+ - [Digital IDs in Apple Wallet now confirmed for California residents](https://appleinsider.com/articles/24/08/15/digital-ids-in-apple-wallet-now-confirmed-for-california-residents?utm_medium=rss)
+ - [Woot is taking up to $200 off the Sonos Arc and second-gen Sonos Beam](https://www.theverge.com/2024/8/15/24221106/woot-sonos-arc-sonos-beam-soundbar-random-audio-deal-sale)
+ - [California announces support for adding driver&#39;s licenses or state IDs to Apple Wallet and Google Wallet, rolling out &quot;in the coming weeks&quot; &lpar;Shawna Chen/Axios&rpar;](http://www.techmeme.com/240815/p25#a240815p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
