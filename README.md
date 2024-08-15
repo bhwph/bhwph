@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I\u2019m the captain now](http://9gag.com/gag/ae9bN7b)
- - 😝 [Lovely!](http://9gag.com/gag/a1mbpND)
- - 👉 [It&#39;s over, lads! Time to leave the UK. Source in comments.](http://9gag.com/gag/ayND0Ry)<!-- MEMES:END -->
+ - 6️⃣ [Did you know snails like beer?](http://9gag.com/gag/avyGZ35)
+ - 😝 [Oj was og](http://9gag.com/gag/ayNLyrb)
+ - 👉 [The instructor got the nerve of steel.](http://9gag.com/gag/aPABy9Q)<!-- MEMES:END -->
 
 --- 
 
