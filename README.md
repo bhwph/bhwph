@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best action movies of the year so far](https://www.polygon.com/24091121/best-action-movies-2024-watch)
- - [Pikachu wants to keep you safe in this Pokémon-themed flight-safety video](https://www.polygon.com/news/440687/pokemon-flight-safety-video-ana-pikachu)
- - [Call Of Duty&#39;s Ungodly Download Sizes Are Finally Getting Smaller](https://kotaku.com/call-duty-hq-black-ops-6-download-size-warzone-ps5-1851623319)<!-- GAME:END -->
+ - [The Most Painful Mario Kart Finish Ever Gets The Perfect Sequel 10 Years Later](https://kotaku.com/mario-karted-mk8-mk9-dlc-peachette-nintendo-switch-1851623511)
+ - [Dredge’s Iron Rig update is a good reason to jump back into one of 2023’s best games](https://www.polygon.com/gaming/440779/dredges-iron-rig-update-is-a-good-reason-to-jump-back-into-one-of-2023s-best-games)
+ - [The Crush House wanted me to make a steamy reality show, but I got tired of being told to film butts and made a nature documentary instead](https://www.pcgamer.com/games/sim/the-crush-house-wanted-me-to-make-a-steamy-reality-show-but-i-got-tired-of-being-told-to-film-butts-and-made-a-nature-documentary-instead)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
