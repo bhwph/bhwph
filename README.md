@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The biggest WTF of the year](http://9gag.com/gag/a9yrbE1)
- - 😝 [The full video](http://9gag.com/gag/aoy2b93)
- - 👉 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)<!-- MEMES:END -->
+ - 6️⃣ [Stunning and brave](http://9gag.com/gag/agmL36q)
+ - 😝 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
+ - 👉 [Beach volley was nice](http://9gag.com/gag/azx878m)<!-- MEMES:END -->
 
 --- 
 
