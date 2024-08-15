@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic judge says he’ll ‘tear the barriers down’ on Google’s app store monopoly](https://www.theverge.com/2024/8/14/24220491/epic-google-android-app-store-monopoly-remedies-hearing)
- - [Sick of AI-enhanced everything? ‘Process Zero’ might be just what your photos need](https://www.androidauthority.com/process-zero-3471789/)
- - [President Biden hosts the first White House Creator Economy Conference, with about 100 startup founders, industry stakeholders, and creators in attendance &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240814/p33#a240814p33)<!-- TECH:END -->
+ - [Best Internet Providers in Conroe, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-conroe-tx/#ftag=CAD590a51e)
+ - [A look at Germany-based Black Forest Labs, which recently emerged from stealth with a $31M seed led by a16z and whose FLUX.1 model powers Grok&#39;s image generator &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240814/p37#a240814p37)
+ - [Borrowers May Have to Wait for Supreme Court to Weigh In on Student Loan Forgiveness Plan](https://www.cnet.com/personal-finance/loans/borrowers-may-have-to-wait-for-supreme-court-to-weigh-in-on-student-loan-forgiveness-plan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
