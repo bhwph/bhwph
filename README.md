@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mood](http://9gag.com/gag/a9yrj2K)
- - 😝 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)
- - 👉 [Call an ambulance but not for me](http://9gag.com/gag/aXPq0Xz)<!-- MEMES:END -->
+ - 6️⃣ [Frock your Islamophobia.](http://9gag.com/gag/aZZmWPX)
+ - 😝 [Minerva McGonagall spittin facts](http://9gag.com/gag/axyVEo2)
+ - 👉 [She&#39;s not done yet](http://9gag.com/gag/aMV8eGx)<!-- MEMES:END -->
 
 --- 
 
