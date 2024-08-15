@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Google SVP Rick Osterloh on the new Pixel devices, Android, the history of the smartphone, integration, AI smartphones, Pixel trade-offs, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240815/p18#a240815p18)
- - [Thankfully, Google isn’t copying Apple’s dumb SIM strategy](https://www.androidauthority.com/google-apple-dumb-sim-strategy-3468098/)
- - [Your Photos Aren’t Real](https://www.wired.com/story/gadget-lab-podcast-655/)<!-- TECH:END -->
+ - [Samsung S90D QD-OLED TV Review: Flagship Picture for Less](https://www.wired.com/review/samsung-s90d-qd-oled/)
+ - [128GB baseline storage for the Pixel 9 Pro XL feels stingy, huh?](https://www.androidauthority.com/128gb-pixel-9-pro-xl-no-3469620/)
+ - [Apple has a strange plan to power future Vision Pro with AirPods](https://appleinsider.com/articles/24/08/15/apple-has-a-strange-plan-to-power-future-vision-pro-with-airpods?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
