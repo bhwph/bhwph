@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)
- - 😝 [Liz Truss leaves stage as lettuce banner unfurls](http://9gag.com/gag/aqybmwY)
- - 👉 [After posting this, the Internet had identified all 3 men in under 3 hours.](http://9gag.com/gag/a87yWnV)<!-- MEMES:END -->
+ - 6️⃣ [I\u2019m the captain now](http://9gag.com/gag/ae9bN7b)
+ - 😝 [Lovely!](http://9gag.com/gag/a1mbpND)
+ - 👉 [It&#39;s over, lads! Time to leave the UK. Source in comments.](http://9gag.com/gag/ayND0Ry)<!-- MEMES:END -->
 
 --- 
 
