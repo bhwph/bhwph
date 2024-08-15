@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung S90D QD-OLED TV Review: Flagship Picture for Less](https://www.wired.com/review/samsung-s90d-qd-oled/)
- - [128GB baseline storage for the Pixel 9 Pro XL feels stingy, huh?](https://www.androidauthority.com/128gb-pixel-9-pro-xl-no-3469620/)
- - [Apple has a strange plan to power future Vision Pro with AirPods](https://appleinsider.com/articles/24/08/15/apple-has-a-strange-plan-to-power-future-vision-pro-with-airpods?utm_medium=rss)<!-- TECH:END -->
+ - [Our 9 Favorite Pizza Ovens: Wood, Gas, and Electric &lpar;2024&rpar;](https://www.wired.com/gallery/best-pizza-ovens-1/)
+ - [Pixels are like Pringles: Once you pop, you can’t stop](https://www.androidauthority.com/pixel-brand-loyalty-3471970/)
+ - [Shhhh, everyone pretend the Pixel 9 Pro temperature sensor isn’t there](https://www.androidauthority.com/pixel-9-pro-temperature-sensor-3470830/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
