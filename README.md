@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Most Painful Mario Kart Finish Ever Gets The Perfect Sequel 10 Years Later](https://kotaku.com/mario-karted-mk8-mk9-dlc-peachette-nintendo-switch-1851623511)
- - [Dredge’s Iron Rig update is a good reason to jump back into one of 2023’s best games](https://www.polygon.com/gaming/440779/dredges-iron-rig-update-is-a-good-reason-to-jump-back-into-one-of-2023s-best-games)
- - [The Crush House wanted me to make a steamy reality show, but I got tired of being told to film butts and made a nature documentary instead](https://www.pcgamer.com/games/sim/the-crush-house-wanted-me-to-make-a-steamy-reality-show-but-i-got-tired-of-being-told-to-film-butts-and-made-a-nature-documentary-instead)<!-- GAME:END -->
+ - [2024 is going to be the best year ever for factory games](https://www.pcgamer.com/games/sim/2024-is-going-to-be-the-best-year-ever-for-factory-games)
+ - [Hyped Modern Warfare 2 Remastered Multiplayer Mod Killed One Day Before Launch](https://kotaku.com/mw2-h2m-mod-activision-cease-and-desist-killed-steam-pc-1851623649)
+ - [Dragon Age: The Veilguard&#39;s latest trailer is the best showing the game&#39;s gotten yet—BioWare really should have led with this months ago](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguards-latest-trailer-is-the-best-showing-the-games-gotten-yetbioware-really-should-have-led-with-this-months-ago)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
