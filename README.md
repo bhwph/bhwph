@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming shows this week: Bad Monkey and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [Huawei’s triple-screen folding phone leaked — again](https://www.theverge.com/2024/8/16/24221720/huawei-triple-screen-foldable-leak-rumor)
- - [Microsoft Phone Link finally sorts out Android file sharing](https://www.androidauthority.com/microsoft-phone-link-3472309/)<!-- TECH:END -->
+ - [What happened to all the temporary air conditioning units at the Olympic Village?](https://www.theverge.com/2024/8/16/24221826/olympics-paris-what-happened-air-conditioning-heat)
+ - [Circle to Search is learning to handle your full-screen queries &lpar;APK teardown&rpar;](https://www.androidauthority.com/circle-to-search-full-screen-3472342/)
+ - [Apple warns of February store changes for EU developers, authors](https://appleinsider.com/articles/24/08/16/apple-warns-of-february-store-changes-for-eu-developers-authors?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
