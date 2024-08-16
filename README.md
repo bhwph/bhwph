@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel chief says ‘very few’ Pixel users are coming from Samsung phones](https://www.androidauthority.com/few-google-pixel-users-coming-samsung-3471904/)
- - [Chainalysis: the value of crypto hacks increased by ~84% to $1.58B in the first seven months of 2024, likely due in large part to the rise in crypto prices &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240816/p2#a240816p2)
- - [Danish officials say Margrethe Vestager, known for hitting Big Tech with multibillion-euro fines, is not being considered as EU antitrust chief for a third term &lpar;Financial Times&rpar;](http://www.techmeme.com/240816/p1#a240816p1)<!-- TECH:END -->
+ - [EQT agrees to buy PropertyGuru, which runs real estate rental and sale listing sites in SE Asia, for $1.1B in cash; the deal is expected to close by early 2025 &lpar;Will Davies/Bloomberg&rpar;](http://www.techmeme.com/240816/p7#a240816p7)
+ - [Chinese chip equipment maker AMEC sues the Pentagon for linking AMEC to the Chinese military, seeks to get off a blacklist that bars business with US firms &lpar;Bloomberg&rpar;](http://www.techmeme.com/240816/p6#a240816p6)
+ - [EVs Are Losing Up to 50 Percent of Their Value in One Year](https://www.wired.com/story/evs-are-losing-up-to-50-percent-of-their-value-in-one-year/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
