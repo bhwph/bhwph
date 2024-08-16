@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadpool &amp; Wolverine Is Now The Most Successful R-Rated Movie Ever Made](https://kotaku.com/deadpool-wolverine-joker-box-office-record-r-rated-1851624482)
- - [Hey look, Morrigan’s back in Dragon Age: The Veilguard](https://www.polygon.com/gaming/441234/dragon-age-the-veilguard-morrigan-back-who)
- - [Hunt: Showdown enjoys highest-ever player count after 1896 update, but player complaints about UI are pushing down its Steam review score: &#39;I&#39;ve never seen such a bizarre reaction to so much amazing content&#39;](https://www.pcgamer.com/games/fps/hunt-showdown-enjoys-highest-ever-player-count-after-1896-update-but-player-complaints-about-ui-are-pushing-down-its-steam-review-score-ive-never-seen-such-a-bizarre-reaction-to-so-much-amazing-content)<!-- GAME:END -->
+ - [The spiritual successor to old school pick-up-and-play Call of Duty Zombies is out now, on sale for $10 and gloriously free of battle pass nonsense](https://www.pcgamer.com/games/fps/if-you-have-friends-you-want-to-play-fpses-with-but-theyre-allergic-to-battle-pass-this-is-your-life-now-nonsense-my-go-to-cod-zombies-alike-just-released-out-of-early-access-and-is-on-sale-for-dollar10)
+ - [PowerWash Simulator meets Pulp Fiction in this first-person scrubber where you clean up after horrific murders](https://www.pcgamer.com/games/sim/powerwash-simulator-meets-pulp-fiction-in-this-first-person-scrubber-where-you-clean-up-after-horrific-murders)
+ - [Black Myth: Wukong Sounds Like A Pretty, But Repetitive And Buggy, Action Game](https://kotaku.com/black-myth-wukong-pc-ps5-review-round-up-is-it-good-1851624656)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
