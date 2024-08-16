@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
- - 😝 [Fresh Cut](http://9gag.com/gag/aoy1pzw)
- - 👉 [People like who they like, kids are just honest about it..](http://9gag.com/gag/azx8AAj)<!-- MEMES:END -->
+ - 6️⃣ [Kind Man Leaves Ice Water For The Foxes](http://9gag.com/gag/aByW1N1)
+ - 😝 [Gymnast by day, helps parents in the restaurant by night](http://9gag.com/gag/aO8zVLy)
+ - 👉 [Why are there no gifts under the tree yet?](http://9gag.com/gag/aGy1x8n)<!-- MEMES:END -->
 
 --- 
 
