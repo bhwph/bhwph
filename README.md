@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EQT agrees to buy PropertyGuru, which runs real estate rental and sale listing sites in SE Asia, for $1.1B in cash; the deal is expected to close by early 2025 &lpar;Will Davies/Bloomberg&rpar;](http://www.techmeme.com/240816/p7#a240816p7)
- - [Chinese chip equipment maker AMEC sues the Pentagon for linking AMEC to the Chinese military, seeks to get off a blacklist that bars business with US firms &lpar;Bloomberg&rpar;](http://www.techmeme.com/240816/p6#a240816p6)
- - [EVs Are Losing Up to 50 Percent of Their Value in One Year](https://www.wired.com/story/evs-are-losing-up-to-50-percent-of-their-value-in-one-year/)<!-- TECH:END -->
+ - [Epic says its games are available on AltStore for iOS in the EU and plans to bring them to Aptoide&#39;s iOS store in the EU and ONE Store on Android &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240816/p10#a240816p10)
+ - [Consumers prefer Apple Watch Series 9 over SE and Ultra models](https://appleinsider.com/articles/24/08/16/consumers-prefer-apple-watch-series-9-over-se-and-ultra-models?utm_medium=rss)
+ - [8 Best Bike Locks &lpar;2024&rpar;: Litelok, Abus, Hiplok, KryptoLok Compared](https://www.wired.com/gallery/best-bike-lock/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
