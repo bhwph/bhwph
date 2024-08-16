@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9/11 call confession](http://9gag.com/gag/agmLvmg)
- - 😝 [No Wonder He Is Goat](http://9gag.com/gag/aGy1xKK)
- - 👉 [Nature, you scary!](http://9gag.com/gag/avyGpmZ)<!-- MEMES:END -->
+ - 6️⃣ [Trajectory trick shot in breath of fire](http://9gag.com/gag/ae9bpxq)
+ - 😝 [Too big!](http://9gag.com/gag/axyVZQp)
+ - 👉 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)<!-- MEMES:END -->
 
 --- 
 
