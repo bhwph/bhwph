@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well damn.](http://9gag.com/gag/aPABDMG)
- - 😝 [Women are marching from every street demanding justice for the RG Kar Medical College r@pe-mu\u20b9der victim. People of Kolkata say that this is unprecedented, they have never seen people, especially women, marching on the streets in such anger.kolkata india.](http://9gag.com/gag/a87yWgp)
- - 👉 [That escalated quickly](http://9gag.com/gag/a34qBvN)<!-- MEMES:END -->
+ - 6️⃣ [9/11 call confession](http://9gag.com/gag/agmLvmg)
+ - 😝 [That escalated quickly](http://9gag.com/gag/a34qBvN)
+ - 👉 [God is scared of what he has created.](http://9gag.com/gag/azx8L8j)<!-- MEMES:END -->
 
 --- 
 
