@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The spiritual successor to old school pick-up-and-play Call of Duty Zombies is out now, on sale for $10 and gloriously free of battle pass nonsense](https://www.pcgamer.com/games/fps/if-you-have-friends-you-want-to-play-fpses-with-but-theyre-allergic-to-battle-pass-this-is-your-life-now-nonsense-my-go-to-cod-zombies-alike-just-released-out-of-early-access-and-is-on-sale-for-dollar10)
- - [PowerWash Simulator meets Pulp Fiction in this first-person scrubber where you clean up after horrific murders](https://www.pcgamer.com/games/sim/powerwash-simulator-meets-pulp-fiction-in-this-first-person-scrubber-where-you-clean-up-after-horrific-murders)
- - [Black Myth: Wukong Sounds Like A Pretty, But Repetitive And Buggy, Action Game](https://kotaku.com/black-myth-wukong-pc-ps5-review-round-up-is-it-good-1851624656)<!-- GAME:END -->
+ - [Twisters, Netflix’s The Union, and every movie new to streaming this week](https://www.polygon.com/movies/440083/twisters-netflixs-the-union-and-every-movie-new-to-streaming-this-week)
+ - [Arena Breakout: Infinite is a lightweight Tarkov clone that&#39;s fun to play but has some awful monetisation](https://www.pcgamer.com/games/fps/arena-breakout-infinite-is-a-lightweight-tarkov-clone-thats-fun-to-play-but-has-some-awful-monetisation)
+ - [Summer Spotlight: Celebrating the More Than 200 New Games Released on Xbox This Season](https://news.xbox.com/en-us/2024/08/16/summer-spotlight-more-than-200-new-games/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
