@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This tradition is dying late.. It must not. 9gaggers..njoi your Friday!](http://9gag.com/gag/an7bNK5)
- - 😝 [\u201cI need to rest.`](http://9gag.com/gag/aByWrm2)
- - 👉 [What part of &#39;He jumped out the plane&#39; do you not comprehend?](http://9gag.com/gag/aXPq9qz)<!-- MEMES:END -->
+ - 6️⃣ [Wait whaaat????](http://9gag.com/gag/aVvqXMn)
+ - 😝 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
+ - 👉 [Gymnast by day, helps parents in the restaurant by night](http://9gag.com/gag/aO8zVLy)<!-- MEMES:END -->
 
 --- 
 
