@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The secret ingredient to qualify for Olympic is crime](http://9gag.com/gag/a7or5Me)
- - 😝 [My brain at 2am when I&#39;m trying to sleep](http://9gag.com/gag/a7oryGw)
- - 👉 [Wait whaaat????](http://9gag.com/gag/aVvqXMn)<!-- MEMES:END -->
+ - 6️⃣ [Bro is so called super biker](http://9gag.com/gag/a2vrPBE)
+ - 😝 [\u201cI need to rest.`](http://9gag.com/gag/aByWrm2)
+ - 👉 [England, you\u2019re f**ked](http://9gag.com/gag/aZZmNLQ)<!-- MEMES:END -->
 
 --- 
 
