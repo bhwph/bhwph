@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9/11 call confession](http://9gag.com/gag/agmLvmg)
- - 😝 [That escalated quickly](http://9gag.com/gag/a34qBvN)
- - 👉 [God is scared of what he has created.](http://9gag.com/gag/azx8L8j)<!-- MEMES:END -->
+ - 6️⃣ [This tradition is dying late.. It must not. 9gaggers..njoi your Friday!](http://9gag.com/gag/an7bNK5)
+ - 😝 [\u201cI need to rest.`](http://9gag.com/gag/aByWrm2)
+ - 👉 [What part of &#39;He jumped out the plane&#39; do you not comprehend?](http://9gag.com/gag/aXPq9qz)<!-- MEMES:END -->
 
 --- 
 
