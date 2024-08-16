@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Without using these inventions, Western Digital would not be able to compete in the market&#39;: WD owes $262,000,000 in damages over a HDD patent dispute](https://www.pcgamer.com/hardware/storage/without-using-these-inventions-western-digital-would-not-be-able-to-compete-in-the-market-wd-owes-dollar262000000-in-damages-over-a-hdd-patent-dispute)
- - [Splitgate 2 Feels Way Faster And More Conventional, And Not In A Good Way](https://kotaku.com/splitgate-2-preview-impressions-1851624294)
- - [Wolverine’s live-action mask had to contend with VFX and the fandom](https://www.polygon.com/marvel/440409/wolverines-live-action-mask-had-to-contend-with-vfx-and-the-fandom)<!-- GAME:END -->
+ - [Deadpool &amp; Wolverine Is Now The Most Successful R-Rated Movie Ever Made](https://kotaku.com/deadpool-wolverine-joker-box-office-record-r-rated-1851624482)
+ - [Hey look, Morrigan’s back in Dragon Age: The Veilguard](https://www.polygon.com/gaming/441234/dragon-age-the-veilguard-morrigan-back-who)
+ - [Hunt: Showdown enjoys highest-ever player count after 1896 update, but player complaints about UI are pushing down its Steam review score: &#39;I&#39;ve never seen such a bizarre reaction to so much amazing content&#39;](https://www.pcgamer.com/games/fps/hunt-showdown-enjoys-highest-ever-player-count-after-1896-update-but-player-complaints-about-ui-are-pushing-down-its-steam-review-score-ive-never-seen-such-a-bizarre-reaction-to-so-much-amazing-content)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
