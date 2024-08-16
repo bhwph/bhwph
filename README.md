@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic says its games are available on AltStore for iOS in the EU and plans to bring them to Aptoide&#39;s iOS store in the EU and ONE Store on Android &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240816/p10#a240816p10)
- - [Consumers prefer Apple Watch Series 9 over SE and Ultra models](https://appleinsider.com/articles/24/08/16/consumers-prefer-apple-watch-series-9-over-se-and-ultra-models?utm_medium=rss)
- - [8 Best Bike Locks &lpar;2024&rpar;: Litelok, Abus, Hiplok, KryptoLok Compared](https://www.wired.com/gallery/best-bike-lock/)<!-- TECH:END -->
+ - [Google Contacts “Besties” label hints at new relationship options &lpar;Update: Pixel Besties&rpar;](https://www.androidauthority.com/google-contacts-besties-3467034/)
+ - [The Best Field Recorders for Portable Audio](https://www.wired.com/gallery/best-field-recorders/)
+ - [This is the best Nova Launcher alternative](https://www.androidauthority.com/nova-launcher-alternative-3472177/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
