@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nature, you scary!](http://9gag.com/gag/avyGpmZ)
- - 😝 [Get a tattoo that your friends choose](http://9gag.com/gag/aByW3ZD)
- - 👉 [Normal day in the third world country.](http://9gag.com/gag/axyV241)<!-- MEMES:END -->
+ - 6️⃣ [Well damn.](http://9gag.com/gag/aPABDMG)
+ - 😝 [Women are marching from every street demanding justice for the RG Kar Medical College r@pe-mu\u20b9der victim. People of Kolkata say that this is unprecedented, they have never seen people, especially women, marching on the streets in such anger.kolkata india.](http://9gag.com/gag/a87yWgp)
+ - 👉 [That escalated quickly](http://9gag.com/gag/a34qBvN)<!-- MEMES:END -->
 
 --- 
 
