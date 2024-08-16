@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Did you know snails like beer?](http://9gag.com/gag/avyGZ35)
- - 😝 [Oj was og](http://9gag.com/gag/ayNLyrb)
- - 👉 [The instructor got the nerve of steel.](http://9gag.com/gag/aPABy9Q)<!-- MEMES:END -->
+ - 6️⃣ [First Class Problems](http://9gag.com/gag/abApqgB)
+ - 😝 [Vampire](http://9gag.com/gag/a6Zbyy2)
+ - 👉 [Get a tattoo that your friends choose](http://9gag.com/gag/aByW3ZD)<!-- MEMES:END -->
 
 --- 
 
