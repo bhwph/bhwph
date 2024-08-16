@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro is so called super biker](http://9gag.com/gag/a2vrPBE)
- - 😝 [\u201cI need to rest.`](http://9gag.com/gag/aByWrm2)
- - 👉 [England, you\u2019re f**ked](http://9gag.com/gag/aZZmNLQ)<!-- MEMES:END -->
+ - 6️⃣ [Nature, you scary!](http://9gag.com/gag/avyGpmZ)
+ - 😝 [Get a tattoo that your friends choose](http://9gag.com/gag/aByW3ZD)
+ - 👉 [Normal day in the third world country.](http://9gag.com/gag/axyV241)<!-- MEMES:END -->
 
 --- 
 
