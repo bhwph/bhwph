@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Myth: Wukong review](https://www.pcgamer.com/games/rpg/black-myth-wukong-review)
- - [Next Week on Xbox: New Games for August 19 to 23](https://news.xbox.com/en-us/2024/08/16/next-week-on-xbox-new-games-for-august-19-to-23-2/)
- - [Black Myth: Wukong is an epic saga that’s both confounding and spectacular to behold](https://www.polygon.com/review/440941/black-myth-wukong-review)<!-- GAME:END -->
+ - [&#39;Without using these inventions, Western Digital would not be able to compete in the market&#39;: WD owes $262,000,000 in damages over a HDD patent dispute](https://www.pcgamer.com/hardware/storage/without-using-these-inventions-western-digital-would-not-be-able-to-compete-in-the-market-wd-owes-dollar262000000-in-damages-over-a-hdd-patent-dispute)
+ - [Splitgate 2 Feels Way Faster And More Conventional, And Not In A Good Way](https://kotaku.com/splitgate-2-preview-impressions-1851624294)
+ - [Wolverine’s live-action mask had to contend with VFX and the fandom](https://www.polygon.com/marvel/440409/wolverines-live-action-mask-had-to-contend-with-vfx-and-the-fandom)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
