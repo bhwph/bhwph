@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google makes Imagen 3 available to all US users via ImageFX, after unveiling the text-to-image AI model in May; some users criticize its strict content filters &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240815/p28#a240815p28)
- - [These amazing UGREEN power banks are at record-low prices](https://www.androidauthority.com/ugreen-power-banks-deals-3472097/)
- - [This Mpox Outbreak Isn&#39;t Like the Last One](https://www.wired.com/story/mpox-outbreak-global-public-health-emergency/)<!-- TECH:END -->
+ - [Primate Labs releases Geekbench AI 1.0, formerly Geekbench ML, to test CPU, GPU, and NPU performance, available on Android, iOS, and desktop &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240815/p32#a240815p32)
+ - [Lincoln’s massive digital dash fits right into the new Navigator](https://www.theverge.com/2024/8/15/24221242/lincoln-navigator-2025-panoramic-display-digital-dashboard)
+ - [Binance resumes services in India, after completing registration with India&#39;s Financial Intelligence Unit, which imposed a ~$2.2M fine on Binance in June 2024 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240815/p31#a240815p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
