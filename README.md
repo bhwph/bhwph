@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Contacts “Besties” label hints at new relationship options &lpar;Update: Pixel Besties&rpar;](https://www.androidauthority.com/google-contacts-besties-3467034/)
- - [The Best Field Recorders for Portable Audio](https://www.wired.com/gallery/best-field-recorders/)
- - [This is the best Nova Launcher alternative](https://www.androidauthority.com/nova-launcher-alternative-3472177/)<!-- TECH:END -->
+ - [The best new streaming shows this week: Bad Monkey and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [Huawei’s triple-screen folding phone leaked — again](https://www.theverge.com/2024/8/16/24221720/huawei-triple-screen-foldable-leak-rumor)
+ - [Microsoft Phone Link finally sorts out Android file sharing](https://www.androidauthority.com/microsoft-phone-link-3472309/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
