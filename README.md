@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can get 650 hours of classic RPG in Humble&#39;s latest bundle, featuring original Baldur&#39;s Gate, Pathfinder, and Warhammer 40K: Rogue Trader](https://www.pcgamer.com/games/baldurs-gate/you-can-get-650-hours-of-classic-rpg-in-humbles-latest-bundle-featuring-original-baldurs-gate-pathfinder-and-warhammer-40k-rogue-trader)
- - [Pokémon Go Twitch drop times for 2024 Pokémon World Championships codes](https://www.polygon.com/pokemon-go-guide/440559/twitch-drops-codes-times-partner-streams-world-championships)
- - [NYT Connections Hints: Friday, August 16](https://kotaku.com/nyt-connections-hints-and-answers-august-16-1851623869)<!-- GAME:END -->
+ - [Black Myth: Wukong review](https://www.pcgamer.com/games/rpg/black-myth-wukong-review)
+ - [Next Week on Xbox: New Games for August 19 to 23](https://news.xbox.com/en-us/2024/08/16/next-week-on-xbox-new-games-for-august-19-to-23-2/)
+ - [Black Myth: Wukong is an epic saga that’s both confounding and spectacular to behold](https://www.polygon.com/review/440941/black-myth-wukong-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
