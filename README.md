@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages is done with its YouTube player &lpar;APK teardown&rpar;](https://www.androidauthority.com/messages-youtube-player-3472368/)
- - [Acura’s Performance EV concept looks like an angry sports boat](https://www.theverge.com/2024/8/16/24221912/acura-performance-ev-concept-honda-electric-platform)
- - [Let this tiny bean bag chair for your lap hold your heavy handhelds](https://www.theverge.com/2024/8/16/24221940/gaming-pillow-handhelds-consoles-hands-free)<!-- TECH:END -->
+ - [Google says it &quot;missed the mark&quot; after leaked screenshots showed a Team Pixel program agreement threatened influencers who didn&#39;t showcase the Pixel over rivals &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240816/p19#a240816p19)
+ - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
+ - [Google is giving the Pixel Thermometer app some long-overdue attention](https://www.androidauthority.com/pixel-thermometer-update-3472430/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
