@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here Are Some Hints To The Groups Confounding Millions Of NYT Connections Players Today](https://kotaku.com/nyt-connections-hints-and-answers-august-17-1851625001)
  - [Today&#39;s Wordle answer for Saturday, August 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-17-2024)
- - [How to get into the Deadlock playtest](https://www.pcgamer.com/games/moba/deadlock-playtest-how-to-get-in)
- - [Twisters, Netflix’s The Union, and every movie new to streaming this week](https://www.polygon.com/movies/440083/twisters-netflixs-the-union-and-every-movie-new-to-streaming-this-week)<!-- GAME:END -->
+ - [How to get into the Deadlock playtest](https://www.pcgamer.com/games/moba/deadlock-playtest-how-to-get-in)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
