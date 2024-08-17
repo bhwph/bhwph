@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [SteamWorld Heist 2 is a multi-classing masterwork](https://www.polygon.com/gaming/440624/steamworld-heist-2-multiclassing-baldurs-gate-3)
- - [The Fastest Trains In The World Feel Like Amusement Park Rides](https://kotaku.com/worlds-fastest-trains-china-japan-1851624996)
- - [The best sci-fi movies to watch on Netflix this August](https://www.polygon.com/what-to-watch/440307/the-best-sci-fi-movies-to-watch-on-netflix-this-august)<!-- GAME:END -->
+ - [Justice League Unlimited does the ‘mature Batman cartoon’ job better than Caped Crusader](https://www.polygon.com/tv/441430/batman-caped-crusader-netflix-justice-league)
+ - [Breaking Down The New Dragon Age Trailer, Hating On Special Editions Without The Game, And More Of The Week&#39;s Takes](https://kotaku.com/dragon-age-veilguard-trailer-breakdown-persona-3-dlc-1851624378)
+ - [SteamWorld Heist 2 is a multi-classing masterwork](https://www.polygon.com/gaming/440624/steamworld-heist-2-multiclassing-baldurs-gate-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
