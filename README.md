@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: AT&amp;T and Verizon ask the FCC to deny SpaceX&#39;s request to waive rules, claiming Starlink&#39;s service with T-Mobile would interfere with existing networks &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240816/p20#a240816p20)
- - [Today Only: This Flash Sale on Samsung&#39;s Galaxy Watch 6 Classic Saves You $80](https://www.cnet.com/deals/today-only-this-flash-sale-on-samsungs-galaxy-watch-6-classic-saves-you-80/#ftag=CAD590a51e)
- - [Best Online Cheese Subscriptions and Delivery Services for 2024](https://www.cnet.com/news/best-place-to-buy-cheese-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amount, which provides digital lending services for credit unions and banks, raised $30M from Curql, Goldman Sachs, WestCap, Hanaco Ventures, QED, and others &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240816/p21#a240816p21)
+ - [The Best Teeth-Whitening Toothpaste for Sensitive Teeth](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/#ftag=CAD590a51e)
+ - [Filing: AT&amp;T and Verizon ask the FCC to deny SpaceX&#39;s request to waive rules, claiming Starlink&#39;s service with T-Mobile would interfere with existing networks &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240816/p20#a240816p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
