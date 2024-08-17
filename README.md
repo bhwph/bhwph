@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you can&#39;t even enjoy your jackpot winnings....](http://9gag.com/gag/agmLqZr)
- - 😝 [Looks like the real world](http://9gag.com/gag/a6ZbMML)
- - 👉 [Lacking in inclusivity and diversity. Say no more, take my money.](http://9gag.com/gag/axyVDm1)<!-- MEMES:END -->
+ - 6️⃣ [Gymnast by day, helps parents in the restaurant by night](http://9gag.com/gag/aO8zVLy)
+ - 😝 [Why are there no gifts under the tree yet?](http://9gag.com/gag/aGy1x8n)
+ - 👉 [Kind Man Leaves Ice Water For The Foxes](http://9gag.com/gag/aByW1N1)<!-- MEMES:END -->
 
 --- 
 
