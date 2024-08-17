@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, August 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-17-2024)
  - [How to get into the Deadlock playtest](https://www.pcgamer.com/games/moba/deadlock-playtest-how-to-get-in)
- - [Twisters, Netflix’s The Union, and every movie new to streaming this week](https://www.polygon.com/movies/440083/twisters-netflixs-the-union-and-every-movie-new-to-streaming-this-week)
- - [Arena Breakout: Infinite is a snack-sized Tarkov I can&#39;t stop playing, but has some awful monetisation](https://www.pcgamer.com/games/fps/arena-breakout-infinite-is-a-lightweight-tarkov-clone-thats-fun-to-play-but-has-some-awful-monetisation)<!-- GAME:END -->
+ - [Twisters, Netflix’s The Union, and every movie new to streaming this week](https://www.polygon.com/movies/440083/twisters-netflixs-the-union-and-every-movie-new-to-streaming-this-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
