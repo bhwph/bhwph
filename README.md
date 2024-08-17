@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Run of Record-Breaking Heat Has Ended, for Now](https://www.wired.com/story/13-month-heat-streak-ended-climate-change-global-warming-sea-surface-temperatures/)
- - [Premier League Soccer: Livestream Ipswich vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-ipswich-vs-liverpool-from-anywhere/#ftag=CAD590a51e)
- - [EcoFlow’s battery-powered A/C and heater combo is too overblown](https://www.theverge.com/24220892/ecoflow-wave-2-long-term-review-specs-price)<!-- TECH:END -->
+ - [Shame! Shame! Samsung and OnePlus have ruined my favorite smartwatch feature](https://www.androidauthority.com/samsung-oneplus-smartwatch-digital-crown-3468246/)
+ - [What the Electric Fiat 500e Is Like—From a Fiat 500 Owner](https://www.wired.com/story/what-the-electric-fiat-500e-is-like-from-a-fiat-500-owner/)
+ - [The 51 Best Movies on Netflix Right Now &lpar;August 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
