@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do you remember when we bullied an animation studio? It was hilarious.](http://9gag.com/gag/aQz980e)
- - 😝 [Won but at what cost](http://9gag.com/gag/ae9bG8B)
- - 👉 [I dont watch movies but i would if..](http://9gag.com/gag/aE0YzzK)<!-- MEMES:END -->
+ - 6️⃣ [This is Insane. RIP Dr Moumita. Cant believe 18 subhumans, left 113 bit mark, brut\u00e0lly killed her.](http://9gag.com/gag/aVvqD38)
+ - 😝 [Paralympic break dancing vs phd master](http://9gag.com/gag/a34qqNe)
+ - 👉 [9/11 call confession](http://9gag.com/gag/agmLvmg)<!-- MEMES:END -->
 
 --- 
 
