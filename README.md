@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)
+ - 6️⃣ [When you can&#39;t even enjoy your jackpot winnings....](http://9gag.com/gag/agmLqZr)
  - 😝 [Looks like the real world](http://9gag.com/gag/a6ZbMML)
- - 👉 [9/11 call confession](http://9gag.com/gag/agmLvmg)<!-- MEMES:END -->
+ - 👉 [Lacking in inclusivity and diversity. Say no more, take my money.](http://9gag.com/gag/axyVDm1)<!-- MEMES:END -->
 
 --- 
 
