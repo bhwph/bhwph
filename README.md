@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here Are Some Hints To The Groups Confounding Millions Of NYT Connections Players Today](https://kotaku.com/nyt-connections-hints-and-answers-august-17-1851625001)
- - [Today&#39;s Wordle answer for Saturday, August 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-17-2024)
- - [How to get into the Deadlock playtest](https://www.pcgamer.com/games/moba/deadlock-playtest-how-to-get-in)<!-- GAME:END -->
+ - [SteamWorld Heist 2 is a multi-classing masterwork](https://www.polygon.com/gaming/440624/steamworld-heist-2-multiclassing-baldurs-gate-3)
+ - [The Fastest Trains In The World Feel Like Amusement Park Rides](https://kotaku.com/worlds-fastest-trains-china-japan-1851624996)
+ - [The best sci-fi movies to watch on Netflix this August](https://www.polygon.com/what-to-watch/440307/the-best-sci-fi-movies-to-watch-on-netflix-this-august)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
