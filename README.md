@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gymnast by day, helps parents in the restaurant by night](http://9gag.com/gag/aO8zVLy)
- - 😝 [Why are there no gifts under the tree yet?](http://9gag.com/gag/aGy1x8n)
- - 👉 [Kind Man Leaves Ice Water For The Foxes](http://9gag.com/gag/aByW1N1)<!-- MEMES:END -->
+ - 6️⃣ [Comedian makes a joke sexualizing a 3 month old baby, the dad of the baby shows up at his show. &lpar;Context in comments&rpar;](http://9gag.com/gag/aZZmmWn)
+ - 😝 [People like who they like, kids are just honest about it..](http://9gag.com/gag/azx8AAj)
+ - 👉 [9/11 call confession](http://9gag.com/gag/agmLvmg)<!-- MEMES:END -->
 
 --- 
 
