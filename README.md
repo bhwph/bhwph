@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kind Man Leaves Ice Water For The Foxes](http://9gag.com/gag/aByW1N1)
- - 😝 [Gymnast by day, helps parents in the restaurant by night](http://9gag.com/gag/aO8zVLy)
- - 👉 [Why are there no gifts under the tree yet?](http://9gag.com/gag/aGy1x8n)<!-- MEMES:END -->
+ - 6️⃣ [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)
+ - 😝 [Looks like the real world](http://9gag.com/gag/a6ZbMML)
+ - 👉 [9/11 call confession](http://9gag.com/gag/agmLvmg)<!-- MEMES:END -->
 
 --- 
 
