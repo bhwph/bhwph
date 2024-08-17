@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Huh?](http://9gag.com/gag/axyVDrM)
- - 😝 [Well well\u2026 he\u2019s putting money where his mouth is.](http://9gag.com/gag/ae9bYRp)
- - 👉 [This is Insane. RIP Dr Moumita. Cant believe 18 subhumans, left 113 bit mark, brut\u00e0lly killed her.](http://9gag.com/gag/aVvqD38)<!-- MEMES:END -->
+ - 6️⃣ [Groomed to groom](http://9gag.com/gag/a7ord7q)
+ - 😝 [Most 80s thing ever](http://9gag.com/gag/aYQxxR0)
+ - 👉 [Scratch me! `Bonk`](http://9gag.com/gag/aZZmmyX)<!-- MEMES:END -->
 
 --- 
 
