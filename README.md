@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to get into the Deadlock playtest](https://www.pcgamer.com/games/moba/deadlock-playtest-how-to-get-in)
  - [Twisters, Netflix’s The Union, and every movie new to streaming this week](https://www.polygon.com/movies/440083/twisters-netflixs-the-union-and-every-movie-new-to-streaming-this-week)
- - [Arena Breakout: Infinite is a lightweight Tarkov clone that&#39;s fun to play but has some awful monetisation](https://www.pcgamer.com/games/fps/arena-breakout-infinite-is-a-lightweight-tarkov-clone-thats-fun-to-play-but-has-some-awful-monetisation)
- - [Summer Spotlight: Celebrating the More Than 200 New Games Released on Xbox This Season](https://news.xbox.com/en-us/2024/08/16/summer-spotlight-more-than-200-new-games/)<!-- GAME:END -->
+ - [Arena Breakout: Infinite is a snack-sized Tarkov I can&#39;t stop playing, but has some awful monetisation](https://www.pcgamer.com/games/fps/arena-breakout-infinite-is-a-lightweight-tarkov-clone-thats-fun-to-play-but-has-some-awful-monetisation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
