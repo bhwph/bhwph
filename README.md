@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Get a tattoo that your friends choose](http://9gag.com/gag/aByW3ZD)
- - 😝 [It is Friday my dudes](http://9gag.com/gag/awyn5Vr)
- - 👉 [Kind Man Leaves Ice Water For The Foxes](http://9gag.com/gag/aByW1N1)<!-- MEMES:END -->
+ - 6️⃣ [Do you remember when we bullied an animation studio? It was hilarious.](http://9gag.com/gag/aQz980e)
+ - 😝 [Won but at what cost](http://9gag.com/gag/ae9bG8B)
+ - 👉 [I dont watch movies but i would if..](http://9gag.com/gag/aE0YzzK)<!-- MEMES:END -->
 
 --- 
 
