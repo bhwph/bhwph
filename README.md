@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Asus ROG Ally is on sale for its lowest price to date this weekend](https://www.theverge.com/2024/8/17/24221765/asus-rog-ally-gaming-handheld-roborock-q-revo-robot-vacuum-deal-sale)
- - [The New Sonos App Is So Bad, the Company Might Bring Back the Old One](https://www.wired.com/story/new-sonos-app-is-bad-company-considers-bringing-back-the-old-one/)
- - [Geofence Warrants Ruled Unconstitutional—but That’s Not the End of It](https://www.wired.com/story/geofence-warrants-ruled-unconstitutional-tmobile-fine-deepfake-nudes-lawsuit/)<!-- TECH:END -->
+ - [Apple offers all-time high $300 welcome bonus for new Apple Card signups](https://appleinsider.com/articles/24/08/17/apple-offers-all-time-high-300-welcome-bonus-for-new-apple-card-signups?utm_medium=rss)
+ - [I didn’t want to like the Galaxy Z Flip 6, but it keeps winning me over](https://www.androidauthority.com/samsung-galaxy-z-flip-6-review-3466333/)
+ - [13 Best Bluetooth Speakers Our Testers Jammed With in 2024](https://www.wired.com/gallery/best-bluetooth-speakers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
