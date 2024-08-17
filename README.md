@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [After Helldivers 2 cheaters undercut its latest Major Order by turning in millions of bug bits at once, Arrowhead canceled the whole thing with an in-universe justification: &#39;The ones submitting false samples have had their pet fish summarily executed&#39;](https://www.pcgamer.com/games/third-person-shooter/after-helldivers-2-cheaters-undercut-its-latest-major-order-by-turning-in-millions-of-objectives-at-once-arrowhead-canceled-the-whole-thing-with-an-in-universe-justification-the-ones-submitting-false-samples-have-had-their-pet-fish-summarily-executed)
  - [List of the UK&#39;s richest game devs and influencers puts Garry&#39;s Mod creator neck-and-neck with Rockstar founders, but the richest of all is a different pair of gaming brothers worth £12.5 billion](https://www.pcgamer.com/gaming-industry/list-of-the-uk-s-richest-game-devs-and-influencers-puts-garry-s-mod-creator-neck-and-neck-with-rockstar-founders-but-the-richest-of-all-is-a-different-pair-of-brothers-worth-gbp12-5-billion)
- - [Justice League Unlimited does the ‘mature Batman cartoon’ job better than Caped Crusader](https://www.polygon.com/tv/441430/batman-caped-crusader-netflix-justice-league)
- - [Breaking Down The New Dragon Age Trailer, Hating On Special Editions Without The Game, And More Of The Week&#39;s Takes](https://kotaku.com/dragon-age-veilguard-trailer-breakdown-persona-3-dlc-1851624378)<!-- GAME:END -->
+ - [Justice League Unlimited does the ‘mature Batman cartoon’ job better than Caped Crusader](https://www.polygon.com/tv/441430/batman-caped-crusader-netflix-justice-league)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
