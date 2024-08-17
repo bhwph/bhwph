@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Groomed to groom](http://9gag.com/gag/a7ord7q)
- - 😝 [Most 80s thing ever](http://9gag.com/gag/aYQxxR0)
- - 👉 [Scratch me! `Bonk`](http://9gag.com/gag/aZZmmyX)<!-- MEMES:END -->
+ - 6️⃣ [Congrats Sweden. You are now the only country outside of Africa with an MPox outbreak. I wonder where it came from?](http://9gag.com/gag/aD2WjKd)
+ - 😝 [Well well\u2026 he\u2019s putting money where his mouth is.](http://9gag.com/gag/ae9bYRp)
+ - 👉 [The Elephant\u2019s Foot: A Lethal Mass of Radioactive Corium from Chernobyl\u2019s Nuclear Reactor Meltdown\u201d](http://9gag.com/gag/axyVgM2)<!-- MEMES:END -->
 
 --- 
 
