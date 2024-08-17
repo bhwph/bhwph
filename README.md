@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Comedian makes a joke sexualizing a 3 month old baby, the dad of the baby shows up at his show. &lpar;Context in comments&rpar;](http://9gag.com/gag/aZZmmWn)
- - 😝 [People like who they like, kids are just honest about it..](http://9gag.com/gag/azx8AAj)
- - 👉 [9/11 call confession](http://9gag.com/gag/agmLvmg)<!-- MEMES:END -->
+ - 6️⃣ [Get a tattoo that your friends choose](http://9gag.com/gag/aByW3ZD)
+ - 😝 [It is Friday my dudes](http://9gag.com/gag/awyn5Vr)
+ - 👉 [Kind Man Leaves Ice Water For The Foxes](http://9gag.com/gag/aByW1N1)<!-- MEMES:END -->
 
 --- 
 
