@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple offers all-time high $300 welcome bonus for new Apple Card signups](https://appleinsider.com/articles/24/08/17/apple-offers-all-time-high-300-welcome-bonus-for-new-apple-card-signups?utm_medium=rss)
- - [I didn’t want to like the Galaxy Z Flip 6, but it keeps winning me over](https://www.androidauthority.com/samsung-galaxy-z-flip-6-review-3466333/)
- - [13 Best Bluetooth Speakers Our Testers Jammed With in 2024](https://www.wired.com/gallery/best-bluetooth-speakers/)<!-- TECH:END -->
+ - [The 4 things prepaid carriers do better than postpaid in 2024](https://www.androidauthority.com/prepaid-better-postpaid-3468478/)
+ - [Runway debuts Gen-3 Alpha Turbo, a faster and cheaper model than Gen-3 Alpha, capable of generating 5- or 10-second-long video clips, available for all plans &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240817/p5#a240817p5)
+ - [Apple released the iMac 26 years ago and it&#39;s better than ever](https://appleinsider.com/articles/22/08/15/apple-released-the-imac-24-years-ago-and-its-better-than-ever?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
