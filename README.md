@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Apple&#39;s work on its in-house modem chip, which may debut in some niche models next year, with the full rollout taking a few years to complete &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240818/p5#a240818p5)
- - [It finally feels like Google is ready for a Pixel Flip… next year](https://www.androidauthority.com/google-pixel-flip-ready-3472258/)
- - [A Googler’s guide to getting things done](https://www.theverge.com/2024/8/18/24221860/laura-mae-martin-google-productivity-coach-uptime-vergecast)<!-- TECH:END -->
+ - [I’ve been using the Galaxy Ring and Watch together to see if it’s a synergistic or parasitic combo](https://www.androidauthority.com/samsung-galaxy-watch-ring-together-3465514/)
+ - [The 7 Best Projectors According to Our Reviewers &lpar;2024&rpar;](https://www.wired.com/gallery/best-projectors/)
+ - [Catan: New Energies Review—Climate Crisis Across the Board](https://www.wired.com/review/catan-new-energies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
