@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Ring Review: One Ring to Rule Them All](https://www.wired.com/review/samsung-galaxy-ring/)
- - [The app for taking better photos — with no AI](https://www.theverge.com/2024/8/18/24222043/halide-process-zero-google-gemini-podcast-installer)
- - [Think Twice: Now Is a Terrible Time to Upgrade Your iPhone](https://www.cnet.com/tech/mobile/think-twice-now-is-a-terrible-time-to-upgrade-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Apple&#39;s work on its in-house modem chip, which may debut in some niche models next year, with the full rollout taking a few years to complete &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240818/p5#a240818p5)
+ - [It finally feels like Google is ready for a Pixel Flip… next year](https://www.androidauthority.com/google-pixel-flip-ready-3472258/)
+ - [A Googler’s guide to getting things done](https://www.theverge.com/2024/8/18/24221860/laura-mae-martin-google-productivity-coach-uptime-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
