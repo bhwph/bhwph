@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [According to a creator of the ambitious H2M Modern Warfare 2 mod shuttered by Activision, the multi-billion dollar corporation was worried the free project would disrupt Black Ops 6&#39;s sales](https://www.pcgamer.com/games/call-of-duty/according-to-a-creator-of-the-ambitious-h2m-modern-warfare-2-mod-shuttered-by-activision-the-multi-billion-dollar-corporation-was-worried-the-free-project-would-disrupt-black-ops-6-s-sales)
  - [What to watch on Peacock now that the Olympics are over](https://www.polygon.com/what-to-watch/440831/best-shows-movies-peacock-olympics)
- - [Alien: Romulus: The Kotaku Review](https://kotaku.com/alien-romulus-movie-review-timeline-reddit-4dx-1851625237)
- - [The Alien Movies, Now Including Romulus, Ranked From Worst To Best [Update]](https://kotaku.com/alien-movies-ranked-aliens-prometheus-predator-avp-1851621200)<!-- GAME:END -->
+ - [Alien: Romulus: The Kotaku Review](https://kotaku.com/alien-romulus-movie-review-timeline-reddit-4dx-1851625237)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
