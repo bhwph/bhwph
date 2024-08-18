@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Received a suspicious link from T-Mobile? Here’s what’s going on](https://www.androidauthority.com/tmobile-khoros-links-3472521/)
- - [Best Meta Quest 2 Accessories for 2024](https://www.cnet.com/tech/gaming/best-oculus-quest-2-accessories/#ftag=CAD590a51e)
- - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Formula 1 is reportedly forcing some F1 creators to change their names](https://www.theverge.com/2024/8/18/24223039/formula-1-f1-cease-and-desist-letters-creators-name-change)
+ - [Best Cookware Sets for 2024](https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e)
+ - [Samsung Galaxy S24 FE spotted online, launch appears imminent](https://www.androidauthority.com/galaxy-s24-fe-bis-listing-3472529/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
