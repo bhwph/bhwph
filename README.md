@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best apartment in the world](http://9gag.com/gag/aO8zBM3)
- - 😝 [Floodwater bursts through window in Orem, Utah. 16th August 2024.](http://9gag.com/gag/aVvqDZv)
- - 👉 [Didn\u2018t take long.](http://9gag.com/gag/abApMWE)<!-- MEMES:END -->
+ - 6️⃣ [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
+ - 😝 [He `didn&#39;t do nuffin` ! It&#39;s THEM again Yogi, it&#39;s ALWAYS them](http://9gag.com/gag/aZZmL1n)
+ - 👉 [Back at it again](http://9gag.com/gag/a9yrpxK)<!-- MEMES:END -->
 
 --- 
 
