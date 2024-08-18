@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mill Food Recycler Review: Trendy and Spendy](https://www.wired.com/review/mill-food-recycler/)
- - [Best Gaming Gifts for 2024](https://www.cnet.com/tech/gaming/best-gaming-gifts/#ftag=CAD590a51e)
- - [A profile of Palmer Luckey, who sold Oculus to Facebook, was fired after donating to a pro-Trump troll group, and now imagines a new age of warfare at Anduril &lpar;Jeremy Stern/Tablet&rpar;](http://www.techmeme.com/240818/p3#a240818p3)<!-- TECH:END -->
+ - [Samsung Galaxy Ring Review: One Ring to Rule Them All](https://www.wired.com/review/samsung-galaxy-ring/)
+ - [The app for taking better photos — with no AI](https://www.theverge.com/2024/8/18/24222043/halide-process-zero-google-gemini-podcast-installer)
+ - [Think Twice: Now Is a Terrible Time to Upgrade Your iPhone](https://www.cnet.com/tech/mobile/think-twice-now-is-a-terrible-time-to-upgrade-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
