@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
- - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
- - 👉 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)<!-- MEMES:END -->
+ - 6️⃣ [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
+ - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
+ - 👉 [Deposit machine for plastic bottles and metal cans in Sweden](http://9gag.com/gag/axyV1oD)<!-- MEMES:END -->
 
 --- 
 
