@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Indies To Play This Summer, The Best Star Wars Games To Snag On Sale, And Other Tips And Recommendations](https://kotaku.com/helldivers-2-star-wars-bloodborne-game-tips-1851624377)
- - [Black powder, pink bows: How shooters got cuter](https://www.polygon.com/culture/440242/black-powder-pink-bows-how-shooters-got-cuter)
- - [There&#39;s A Surprising Difference Between &#39;Sleep&#39; And &#39;Snooze&#39; In Today&#39;s NYT Connections Groups](https://kotaku.com/nyt-connections-hints-and-answers-august-18-1851625197)<!-- GAME:END -->
+ - [Outlanders 2 makes the case for city builders on mobile](https://www.polygon.com/review/440878/outlanders-2-review)
+ - [The animated Watchmen replicates the comics to a T — but why?](https://www.polygon.com/movies/441286/watchmen-chapter-1-animated-interview)
+ - [The Best Indies To Play This Summer, The Best Star Wars Games To Snag On Sale, And Other Tips And Recommendations](https://kotaku.com/helldivers-2-star-wars-bloodborne-game-tips-1851624377)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
