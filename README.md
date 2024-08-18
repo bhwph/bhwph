@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Outlanders 2 makes the case for city builders on mobile](https://www.polygon.com/review/440878/outlanders-2-review)
- - [The animated Watchmen replicates the comics to a T — but why?](https://www.polygon.com/movies/441286/watchmen-chapter-1-animated-interview)
- - [The Best Indies To Play This Summer, The Best Star Wars Games To Snag On Sale, And Other Tips And Recommendations](https://kotaku.com/helldivers-2-star-wars-bloodborne-game-tips-1851624377)<!-- GAME:END -->
+ - [What to watch on Peacock now that the Olympics are over](https://www.polygon.com/what-to-watch/440831/best-shows-movies-peacock-olympics)
+ - [Alien: Romulus: The Kotaku Review](https://kotaku.com/alien-romulus-movie-review-timeline-reddit-4dx-1851625237)
+ - [The Alien Movies, Now Including Romulus, Ranked From Worst To Best [Update]](https://kotaku.com/alien-movies-ranked-aliens-prometheus-predator-avp-1851621200)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
