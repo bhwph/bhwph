@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Back at it again](http://9gag.com/gag/a9yrpxK)
- - 😝 [I wonder why](http://9gag.com/gag/aGy1DeZ)
- - 👉 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)<!-- MEMES:END -->
+ - 6️⃣ [Best apartment in the world](http://9gag.com/gag/aO8zBM3)
+ - 😝 [Floodwater bursts through window in Orem, Utah. 16th August 2024.](http://9gag.com/gag/aVvqDZv)
+ - 👉 [Didn\u2018t take long.](http://9gag.com/gag/abApMWE)<!-- MEMES:END -->
 
 --- 
 
