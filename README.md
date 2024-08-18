@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Y&#39;all have to see these gruesome starfish monsters coming in Factorio: Space Age](https://www.pcgamer.com/games/strategy/yall-have-to-see-these-gruesome-starfish-monsters-coming-in-factorio-space-age)
- - [It&#39;s no wonder Dragon Age: The Veilguard was Steam Deck Verified so quickly⁠: it&#39;ll run on a 10-year-old graphics card that was new when Inquisition came out](https://www.pcgamer.com/games/dragon-age/it-s-no-wonder-dragon-age-the-veilguard-was-steam-deck-verified-so-quickly-it-ll-run-on-a-10-year-old-graphics-card-that-was-new-when-inquisition-came-out)
- - [After Helldivers 2 cheaters undercut its latest Major Order by turning in millions of bug bits at once, Arrowhead canceled the whole thing with an in-universe justification: &#39;The ones submitting false samples have had their pet fish summarily executed&#39;](https://www.pcgamer.com/games/third-person-shooter/after-helldivers-2-cheaters-undercut-its-latest-major-order-by-turning-in-millions-of-objectives-at-once-arrowhead-canceled-the-whole-thing-with-an-in-universe-justification-the-ones-submitting-false-samples-have-had-their-pet-fish-summarily-executed)<!-- GAME:END -->
+ - [Total War: Warhammer 3&#39;s dwarfs will be able to turtle properly in the next update, and the other reworks seem decent too](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-dwarfs-will-be-able-to-turtle-properly-in-the-next-update-and-the-other-reworks-seem-decent-too)
+ - [Vampire Survivors update rolls out new dark arcanas, but the best part is a retired guy in his rocking chair](https://www.pcgamer.com/games/vampire-survivors-update-rolls-out-new-dark-arcanas-but-the-best-part-is-a-retired-guy-in-his-rocking-chair)
+ - [Y&#39;all have to see these gruesome starfish monsters coming in Factorio: Space Age](https://www.pcgamer.com/games/strategy/yall-have-to-see-these-gruesome-starfish-monsters-coming-in-factorio-space-age)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
