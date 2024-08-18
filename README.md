@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Mac mini drops to as low as $499, grab discounts up to $250 off](https://appleinsider.com/articles/24/08/17/apples-mac-mini-drops-to-as-low-as-499-grab-discounts-up-to-250-off?utm_medium=rss)
- - [An interview with Palantir CEO Alex Karp on co-founding the company, autonomous weapons systems, AI, supporting Kamala Harris, Silicon Valley critics, and more &lpar;Maureen Dowd/New York Times&rpar;](http://www.techmeme.com/240817/p6#a240817p6)
- - [Foxconn chief dodges accusation of discrimination in India hiring practices](https://appleinsider.com/articles/24/08/17/foxconn-chief-dodges-accusation-of-discrimination-in-india-hiring-practices?utm_medium=rss)<!-- TECH:END -->
+ - [Our Favorite Back-to-School Picks for 2024](https://www.cnet.com/tech/our-favorite-back-to-school-picks/#ftag=CAD590a51e)
+ - [19 Bridesmaid Gifts They&#39;ll Actually Want to Keep](https://www.cnet.com/news/best-bridesmaid-gifts/#ftag=CAD590a51e)
+ - [23 Epic Gifts for Dad in 2024](https://www.cnet.com/news/gifts-for-dad/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
