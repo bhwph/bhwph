@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korean AI chip makers Rebellions and Sapeon agree to merge; Rebellions has raised $225M+ and Sapeon&#39;s shareholders include SK Telecom and SK Hynix &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240818/p1#a240818p1)
  - [Dating apps are struggling as users seek organic ways to meet; Match Group reported a decline in the total number of paying users for seven straight quarters &lpar;Edward Helmore/The Guardian&rpar;](http://www.techmeme.com/240817/p7#a240817p7)
- - [Best Internet Providers in Louisville, Kentucky](https://www.cnet.com/home/internet/best-internet-providers-in-louisville-ky/#ftag=CAD590a51e)
- - [Our Favorite Back-to-School Picks for 2024](https://www.cnet.com/tech/our-favorite-back-to-school-picks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16 Cameras: Big Zooms, Better Wide-Angle and Lots of Reasons to Be Excited](https://www.cnet.com/tech/mobile/iphone-16-cameras-big-zooms-better-wide-angle-and-lots-of-reasons-to-be-excited/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
