@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve been using the Galaxy Ring and Watch together to see if it’s a synergistic or parasitic combo](https://www.androidauthority.com/samsung-galaxy-watch-ring-together-3465514/)
- - [The 7 Best Projectors According to Our Reviewers &lpar;2024&rpar;](https://www.wired.com/gallery/best-projectors/)
- - [Catan: New Energies Review—Climate Crisis Across the Board](https://www.wired.com/review/catan-new-energies/)<!-- TECH:END -->
+ - [Received a suspicious link from T-Mobile? Here’s what’s going on](https://www.androidauthority.com/tmobile-khoros-links-3472521/)
+ - [Best Meta Quest 2 Accessories for 2024](https://www.cnet.com/tech/gaming/best-oculus-quest-2-accessories/#ftag=CAD590a51e)
+ - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
