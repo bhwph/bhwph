@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well well\u2026 he\u2019s putting money where his mouth is.](http://9gag.com/gag/ae9bYRp)
- - 😝 [Typical Rammstein concert](http://9gag.com/gag/a9yr7wK)
- - 👉 [Save meeeee !!!](http://9gag.com/gag/amoYzy6)<!-- MEMES:END -->
+ - 6️⃣ [Back at it again](http://9gag.com/gag/a9yrpxK)
+ - 😝 [I wonder why](http://9gag.com/gag/aGy1DeZ)
+ - 👉 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)<!-- MEMES:END -->
 
 --- 
 
