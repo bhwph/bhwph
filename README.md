@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea&#39;s plan to introduce tablets with AI features in schools faces backlash from parents and academics concerned about children&#39;s overexposure to devices &lpar;Financial Times&rpar;](http://www.techmeme.com/240818/p2#a240818p2)
- - [South Korean AI chip makers Rebellions and Sapeon agree to merge; Rebellions has raised $225M+ and Sapeon&#39;s shareholders include SK Telecom and SK Hynix &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240818/p1#a240818p1)
- - [Best Cordless Stick Vacuums of 2024](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Palmer Luckey, who sold Oculus to Facebook, was fired after donating to a pro-Trump troll group, and now imagines a new age of warfare at Anduril &lpar;Jeremy Stern/Tablet&rpar;](http://www.techmeme.com/240818/p3#a240818p3)
+ - [8 Happiness-Boosting Foods to Brighten Your Day](https://www.cnet.com/health/mental/8-foods-for-a-happiness-boost/#ftag=CAD590a51e)
+ - [Best Smart Home Gifts for 2024](https://www.cnet.com/home/smart-home/best-smart-home-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
