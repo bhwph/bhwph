@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer 3&#39;s dwarfs will be able to turtle properly in the next update, and the other reworks seem decent too](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-dwarfs-will-be-able-to-turtle-properly-in-the-next-update-and-the-other-reworks-seem-decent-too)
- - [Vampire Survivors update rolls out new dark arcanas, but the best part is a retired guy in his rocking chair](https://www.pcgamer.com/games/vampire-survivors-update-rolls-out-new-dark-arcanas-but-the-best-part-is-a-retired-guy-in-his-rocking-chair)
- - [Y&#39;all have to see these gruesome starfish monsters coming in Factorio: Space Age](https://www.pcgamer.com/games/strategy/yall-have-to-see-these-gruesome-starfish-monsters-coming-in-factorio-space-age)<!-- GAME:END -->
+ - [Pokémon Go Beldum Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/441190/beldum-community-day-shiny-metang-metagross-moveset)
+ - [You can play the original and best version of Diablo in your browser &lpar;again&rpar;](https://www.pcgamer.com/games/rpg/you-can-play-the-original-and-best-version-of-diablo-in-your-browser-again)
+ - [Total War: Warhammer 3&#39;s dwarfs will be able to turtle properly in the next update, and the other reworks seem decent too](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-dwarfs-will-be-able-to-turtle-properly-in-the-next-update-and-the-other-reworks-seem-decent-too)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
