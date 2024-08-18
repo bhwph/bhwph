@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
- - 😝 [He `didn&#39;t do nuffin` ! It&#39;s THEM again Yogi, it&#39;s ALWAYS them](http://9gag.com/gag/aZZmL1n)
- - 👉 [Back at it again](http://9gag.com/gag/a9yrpxK)<!-- MEMES:END -->
+ - 6️⃣ [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - 😝 [Best apartment in the world](http://9gag.com/gag/aO8zBM3)
+ - 👉 [It is diverse!](http://9gag.com/gag/an7bM6B)<!-- MEMES:END -->
 
 --- 
 
