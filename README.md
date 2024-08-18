@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It seems i have nothing better to do today](http://9gag.com/gag/a34qQWQ)
- - 😝 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
- - 👉 [He `didn&#39;t do nuffin` ! It&#39;s THEM again Yogi, it&#39;s ALWAYS them](http://9gag.com/gag/aZZmL1n)<!-- MEMES:END -->
+ - 6️⃣ [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
+ - 😝 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - 👉 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)<!-- MEMES:END -->
 
 --- 
 
