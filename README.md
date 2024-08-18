@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our Favorite Back-to-School Picks for 2024](https://www.cnet.com/tech/our-favorite-back-to-school-picks/#ftag=CAD590a51e)
- - [19 Bridesmaid Gifts They&#39;ll Actually Want to Keep](https://www.cnet.com/news/best-bridesmaid-gifts/#ftag=CAD590a51e)
- - [23 Epic Gifts for Dad in 2024](https://www.cnet.com/news/gifts-for-dad/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dating apps are struggling as users seek organic ways to meet; Match Group reported a decline in the total number of paying users for seven straight quarters &lpar;Edward Helmore/The Guardian&rpar;](http://www.techmeme.com/240817/p7#a240817p7)
+ - [Best Internet Providers in Louisville, Kentucky](https://www.cnet.com/home/internet/best-internet-providers-in-louisville-ky/#ftag=CAD590a51e)
+ - [Our Favorite Back-to-School Picks for 2024](https://www.cnet.com/tech/our-favorite-back-to-school-picks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
