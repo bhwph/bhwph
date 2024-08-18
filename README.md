@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Palmer Luckey, who sold Oculus to Facebook, was fired after donating to a pro-Trump troll group, and now imagines a new age of warfare at Anduril &lpar;Jeremy Stern/Tablet&rpar;](http://www.techmeme.com/240818/p3#a240818p3)
- - [8 Happiness-Boosting Foods to Brighten Your Day](https://www.cnet.com/health/mental/8-foods-for-a-happiness-boost/#ftag=CAD590a51e)
- - [Best Smart Home Gifts for 2024](https://www.cnet.com/home/smart-home/best-smart-home-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mill Food Recycler Review: Trendy and Spendy](https://www.wired.com/review/mill-food-recycler/)
+ - [Best Gaming Gifts for 2024](https://www.cnet.com/tech/gaming/best-gaming-gifts/#ftag=CAD590a51e)
+ - [A profile of Palmer Luckey, who sold Oculus to Facebook, was fired after donating to a pro-Trump troll group, and now imagines a new age of warfare at Anduril &lpar;Jeremy Stern/Tablet&rpar;](http://www.techmeme.com/240818/p3#a240818p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
