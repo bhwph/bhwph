@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t even care about racism](http://9gag.com/gag/a87y873)
- - 😝 [Be grateful in the country you live or get out.](http://9gag.com/gag/avyGGyO)
- - 👉 [Fake crowd noise at the Billie Eilish concert at the Olympics](http://9gag.com/gag/amoY27V)<!-- MEMES:END -->
+ - 6️⃣ [Fake crowd noise at the Billie Eilish concert at the Olympics](http://9gag.com/gag/amoY27V)
+ - 😝 [In Minnesota, Crime is a civil right now..](http://9gag.com/gag/apRpQyn)
+ - 👉 [Funny animal photography contest &lpar;yes it&#39;s old but it still checks out and I had never seen it&rpar;. Some may be funny, some maybe aren&#39;t, but the reality is that it takes A LOT of effort to do this. Kudos to everyone involved in this who made me laugh](http://9gag.com/gag/azx88jK)<!-- MEMES:END -->
 
 --- 
 
