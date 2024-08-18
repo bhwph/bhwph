@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let&#39;s go camping](http://9gag.com/gag/aQz939W)
- - 😝 [Xi Jinping publicly denounced Maoist violence at a conference of CCP leaders. Hmm, who&#39;s that guy at 00:30? He doesn&#39;t look Chinese...](http://9gag.com/gag/aQz9xbW)
- - 👉 [`Literally you`](http://9gag.com/gag/aMV8AY1)<!-- MEMES:END -->
+ - 6️⃣ [Poor girls](http://9gag.com/gag/azx88pZ)
+ - 😝 [I prefer spiders now](http://9gag.com/gag/aO8zVQR)
+ - 👉 [Slicing from a very fast slicing machine](http://9gag.com/gag/aVvqDeK)<!-- MEMES:END -->
 
 --- 
 
