@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I thought the immigration crisis was just an exaggeration.](http://9gag.com/gag/aXPqwNg)
- - 😝 [Won but at what cost](http://9gag.com/gag/ae9bG8B)
+ - 6️⃣ [Well well\u2026 he\u2019s putting money where his mouth is.](http://9gag.com/gag/ae9bYRp)
+ - 😝 [Typical Rammstein concert](http://9gag.com/gag/a9yr7wK)
  - 👉 [Save meeeee !!!](http://9gag.com/gag/amoYzy6)<!-- MEMES:END -->
 
 --- 
