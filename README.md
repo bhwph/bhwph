@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Poor girls](http://9gag.com/gag/azx88pZ)
- - 😝 [I prefer spiders now](http://9gag.com/gag/aO8zVQR)
- - 👉 [Slicing from a very fast slicing machine](http://9gag.com/gag/aVvqDeK)<!-- MEMES:END -->
+ - 6️⃣ [I thought the immigration crisis was just an exaggeration.](http://9gag.com/gag/aXPqwNg)
+ - 😝 [Won but at what cost](http://9gag.com/gag/ae9bG8B)
+ - 👉 [Save meeeee !!!](http://9gag.com/gag/amoYzy6)<!-- MEMES:END -->
 
 --- 
 
