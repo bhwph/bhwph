@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now that\u2019s a big pile of s#it!](http://9gag.com/gag/a9yrnLZ)
- - 😝 [What in the redneck is this !??](http://9gag.com/gag/an7bb60)
- - 👉 [No wrong choices please](http://9gag.com/gag/amoYB0o)<!-- MEMES:END -->
+ - 6️⃣ [POS streamer catcalls underage daughter, angry dad snaps](http://9gag.com/gag/arybG5V)
+ - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
+ - 👉 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)<!-- MEMES:END -->
 
 --- 
 
