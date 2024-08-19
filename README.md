@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [QA at vape factory](http://9gag.com/gag/azx8XYZ)
- - 😝 [What in the redneck is this !??](http://9gag.com/gag/an7bb60)
- - 👉 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)<!-- MEMES:END -->
+ - 6️⃣ [Top quality rebar in China.](http://9gag.com/gag/a34qE3N)
+ - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
+ - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
 
 --- 
 
