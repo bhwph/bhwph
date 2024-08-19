@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can confirm](http://9gag.com/gag/a9yrEvL)
- - 😝 [What men want](http://9gag.com/gag/arybnbV)
- - 👉 [Nuclear power meme](http://9gag.com/gag/aQz9ove)<!-- MEMES:END -->
+ - 6️⃣ [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
+ - 😝 [You can tell that question sent him back to his childhood trauma..Hope the dude is going well.](http://9gag.com/gag/amoYPPv)
+ - 👉 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)<!-- MEMES:END -->
 
 --- 
 
