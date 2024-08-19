@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Raspberry Pi launches a Raspberry Pi 5 with 2GB of RAM for $50, alongside the existing 4GB model for $60 and 8GB for $80, and may release a future 1GB model &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240819/p9#a240819p9)
- - [Dubious invite strongly hints at bronze iPhone 16 Pro at September Apple event](https://appleinsider.com/articles/24/08/19/dubious-invite-strongly-hints-at-bronze-iphone-16-pro-at-september-apple-event?utm_medium=rss)
- - [Source: GM is cutting over 1,000 software engineers, including 600+ in Michigan, as the automaker moves to lean up its software and services organization &lpar;David Welch/Bloomberg&rpar;](http://www.techmeme.com/240819/p8#a240819p8)<!-- TECH:END -->
+ - [Google app experiments with this potentially controversial UI change &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-search-button-3472703/)
+ - [GM reportedly cuts 1,000 jobs in its software and services division](https://www.theverge.com/2024/8/19/24223600/gm-layoffs-1000-jobs-software-and-services-super-cruise)
+ - [Frozen 3: Release date, plot, and other rumors](https://www.androidauthority.com/frozen-3-release-date-3472740/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
