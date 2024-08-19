@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox has grown rapidly and consistently since 2018 and now sees an estimated average of 80M+ daily and 380M+ monthly users, over 2x that of Steam or Minecraft &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/240819/p1#a240819p1)
- - [The new Sonos app is such a disaster, the old version may just return](https://www.androidauthority.com/sonos-app-old-version-return-3472308/)
- - [Best Internet Providers in Greenville, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-greenville-sc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch the 2024 Summer Paralympics: Streaming Schedule, Free Options](https://www.wired.com/story/how-to-watch-the-2024-paris-summer-paralympics/)
+ - [Google Play will no longer pay to discover vulnerabilities in popular Android apps](https://www.androidauthority.com/google-play-security-reward-program-winding-down-3472376/)
+ - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
