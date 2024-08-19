@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Top quality rebar in China.](http://9gag.com/gag/a34qE3N)
- - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
- - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
+ - 😝 [You know](http://9gag.com/gag/azx89dq)
+ - 👉 [What in the world is this creature](http://9gag.com/gag/abApYpp)<!-- MEMES:END -->
 
 --- 
 
