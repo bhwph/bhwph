@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Animal Crossing Switch Lite is back on sale for its lowest price ever](https://www.polygon.com/good-deals/441666/nintendo-switch-lite-animal-crossing-sale)
- - [Report: Indiana Jones Won&#39;t Be An Xbox Exclusive For Long, Coming To PS5 Shortly After](https://kotaku.com/indiana-jones-great-circle-game-pass-ps5-exclusive-1851626140)
- - [Mega Man Returns, But As A Digital Funko Pop](https://kotaku.com/mega-man-funko-pop-funko-fusion-demo-steam-trailer-pc-1851626112)<!-- GAME:END -->
+ - [Larian released a teaser for the new evil endings coming in Baldur&#39;s Gate 3&#39;s next patch, and they really weren&#39;t kidding about the evil part](https://www.pcgamer.com/games/rpg/larian-released-a-teaser-for-the-new-evil-endings-coming-in-baldur-s-gate-3-s-next-patch-and-they-really-weren-t-kidding-about-the-evil-part)
+ - [You Can Play The OG Diablo In Your Browser For Free Right Now](https://kotaku.com/diablo-1-browser-play-for-free-phone-blizzard-pc-1851626289)
+ - [James Gunn&#39;s Superman Done Filming A Whole Year Early To Make Sure The VFX Are Good](https://kotaku.com/superman-legion-vfx-james-gunn-costumes-leaks-1851626258)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
