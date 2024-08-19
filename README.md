@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S24 FE rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s24-fe-3440533/)
- - [Today is your last chance to save on Paramount Plus before its next price hike](https://www.theverge.com/2024/8/19/24221262/paramount-plus-essential-showtime-new-returning-subscriber-deal-sale)
- - [Google says the Pixel 9 series ‘supports’ Qi2 charging, but with one big drawback &lpar;Developing&rpar;](https://www.androidauthority.com/pixel-9-qi2-support-3472829/)<!-- TECH:END -->
+ - [Palo Alto Networks reports Q4 revenue up 12% YoY to $2.2B, vs. $2.16B est., FY 2025 revenue guidance above est., and increases its share buyback by $500M to $1B &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240819/p17#a240819p17)
+ - [Plain text passwords may have struck again](https://www.theverge.com/2024/8/19/24223858/national-public-data-breach-ssn-privacy)
+ - [Best Home Exercise Equipment for 2024](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
