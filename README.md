@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill 2 hands-on report](https://blog.playstation.com/2024/08/19/silent-hill-2-hands-on-report/)
- - [Silent Hill 2 hands-on report](https://blog.playstation.com/2024/08/19/silent-hill-2-hands-on-report/)
- - [Silent Hill 2 &lpar;2024&rpar; is most successful when it&amp;#8217;s doing its best Silent Hill 2 &lpar;2001&rpar; imitation](https://www.polygon.com/impressions/440977/silent-hill-2-2024-preview)<!-- GAME:END -->
+ - [Zotac Gaming officially launches its Zone handheld gaming PC with a super fancy AMOLED HDR screen](https://www.pcgamer.com/hardware/handheld-gaming-pcs/zotac-gaming-officially-launches-its-zone-handheld-gaming-pc-with-a-super-fancy-amoled-hdr-screen)
+ - [Inside Out 2 Is Finally Coming To Streaming And We’re Still Thinking About Anxiety](https://kotaku.com/inside-out-2-where-to-stream-date-streaming-disney-1851624475)
+ - [The Future Games Show at Gamescom promises Civ 7 deep dives and fresh Rings of Power news, here&#39;s how to watch it](https://www.pcgamer.com/gaming-industry/events-conferences/the-future-games-show-at-gamescom-promises-civ-7-deep-dives-and-fresh-rings-of-power-news-heres-how-to-watch-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
