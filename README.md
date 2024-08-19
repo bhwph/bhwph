@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zotac Gaming officially launches its Zone handheld gaming PC with a super fancy AMOLED HDR screen](https://www.pcgamer.com/hardware/handheld-gaming-pcs/zotac-gaming-officially-launches-its-zone-handheld-gaming-pc-with-a-super-fancy-amoled-hdr-screen)
- - [Inside Out 2 Is Finally Coming To Streaming And We’re Still Thinking About Anxiety](https://kotaku.com/inside-out-2-where-to-stream-date-streaming-disney-1851624475)
- - [The Future Games Show at Gamescom promises Civ 7 deep dives and fresh Rings of Power news, here&#39;s how to watch it](https://www.pcgamer.com/gaming-industry/events-conferences/the-future-games-show-at-gamescom-promises-civ-7-deep-dives-and-fresh-rings-of-power-news-heres-how-to-watch-it)<!-- GAME:END -->
+ - [You can finally pick different power modes for battery or plugged in with the latest Windows 11 Insider build, ending the tyranny of one power setting for all](https://www.pcgamer.com/software/windows/you-can-finally-pick-different-power-modes-for-battery-or-plugged-in-with-the-latest-windows-11-insider-build-ending-the-tyranny-of-one-power-setting-for-all)
+ - [The Ultimate March 7th &lpar;The Hunt&rpar; Build For Honkai: Star Rail](https://kotaku.com/honkai-star-rail-march-7th-the-hunt-path-build-guide-1851625301)
+ - [Silksong thirst is now so outrageously high that Geoff Keighley has to announce that it won&#39;t be at his show so people don&#39;t lose their minds](https://www.pcgamer.com/games/roguelike/silksong-thirst-is-now-so-outrageously-high-that-geoff-keighley-has-to-announce-that-it-wont-be-at-his-show-so-people-dont-lose-their-minds)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
