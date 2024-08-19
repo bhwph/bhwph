@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s officially Brat Summer in Roblox’s Dress to Impress](https://www.polygon.com/gaming/441531/roblox-dress-to-impress-charli-xcx-brat-summer-update)
- - [Some Black Myth: Wukong Content Creators Prohibited From Mentioning &#39;Feminist Propaganda&#39;](https://kotaku.com/black-myth-wukong-reviews-sexism-controversy-feminist-1851625743)
- - [Microsoft closes another door for bypassing the TPM 2.0 requirement in Windows 11](https://www.pcgamer.com/software/windows/microsoft-closes-another-door-for-bypassing-the-tpm-20-requirement-in-windows-11)<!-- GAME:END -->
+ - [Grab your friends and tell them about this Adventure Time Bundle](https://www.polygon.com/good-deals/441521/adventure-time-comic-humble-bundle-sale)
+ - [Tactical Breach Wizards Is A Sharp, Hilarious, And Brilliant Strategy Game](https://kotaku.com/tactical-breach-wizards-impressions-strategy-steam-1851626007)
+ - [Warhammer 40K: Speed Freeks is nearly the orky Mad Max of my dreams, but more variety and fewer bots might get it to the finish line](https://www.pcgamer.com/games/racing/warhammer-40k-speed-freeks-is-nearly-the-orky-mad-max-of-my-dreams-but-more-variety-and-fewer-bots-might-get-it-to-the-finish-line)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
