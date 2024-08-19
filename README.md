@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mohammed from Egypt wants to abuse a 13 year old British girl but is caught by British patriots. Mohammed does not want to go to jail and says: `Call the Home Office. Alhamdulillah, I am Muslim!\u201d](http://9gag.com/gag/aE0YPe9)
- - 😝 [That day\u2026 nobody had a good day](http://9gag.com/gag/a7or3WA)
- - 👉 [UK : Mohammed Sina, 30, illegal immigrant from Iran, attempted to rape 12-year-old British girls. Caught and arrested. Mohammed was previously in jail for assault and robbery.](http://9gag.com/gag/aZZm0x0)<!-- MEMES:END -->
+ - 6️⃣ [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
+ - 😝 [Not joking, worst days of my life](http://9gag.com/gag/aRBm1Oy)
+ - 👉 [No wrong choices please](http://9gag.com/gag/amoYB0o)<!-- MEMES:END -->
 
 --- 
 
