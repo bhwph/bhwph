@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Design little towns for adorable vegetable people in this cute sandbox](https://www.pcgamer.com/games/design-little-towns-for-adorable-vegetable-people-in-this-cute-sandbox)
- - [The FDA just cleared &#39;Traumagel,&#39; a wound-treating gel with &#39;the color and texture of hummus&#39; that sounds like a real-life FPS medkit](https://www.pcgamer.com/games/fps/the-fda-just-cleared-traumagel-a-wound-treating-gel-with-the-color-and-texture-of-hummus-that-sounds-like-a-real-life-fps-medkit)
- - [According to a creator of the ambitious H2M Modern Warfare 2 mod shuttered by Activision, the multi-billion dollar corporation was worried the free project would disrupt Black Ops 6&#39;s sales](https://www.pcgamer.com/games/call-of-duty/according-to-a-creator-of-the-ambitious-h2m-modern-warfare-2-mod-shuttered-by-activision-the-multi-billion-dollar-corporation-was-worried-the-free-project-would-disrupt-black-ops-6-s-sales)<!-- GAME:END -->
+ - [Great moments in PC gaming: Painting the map your color in a strategy game](https://www.pcgamer.com/games/strategy/great-moments-in-pc-gaming-painting-the-map-your-color-in-a-strategy-game)
+ - [You can now watch all 14 weapon previews for Monster Hunter Wilds](https://www.pcgamer.com/games/you-can-now-see-all-14-weapon-previews-for-monster-hunter-wilds)
+ - [&#39;Don&#39;t get lacerated!&#39; is a bullet-point feature in limb-lopping survival horror game The Lacerator](https://www.pcgamer.com/games/horror/dont-get-lacerated-is-a-bullet-point-feature-in-limb-lopping-survival-horror-game-the-lacerator)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
