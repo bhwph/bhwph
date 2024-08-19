@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
- - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
- - 👉 [Deposit machine for plastic bottles and metal cans in Sweden](http://9gag.com/gag/axyV1oD)<!-- MEMES:END -->
+ - 6️⃣ [Plane door close and final checks\u2026](http://9gag.com/gag/ajPX5WR)
+ - 😝 [Gynocentrism on disply](http://9gag.com/gag/ayNDo2Y)
+ - 👉 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)<!-- MEMES:END -->
 
 --- 
 
