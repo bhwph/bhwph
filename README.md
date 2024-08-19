@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch the 2024 Summer Paralympics: Streaming Schedule, Free Options](https://www.wired.com/story/how-to-watch-the-2024-paris-summer-paralympics/)
- - [Google Play will no longer pay to discover vulnerabilities in popular Android apps](https://www.androidauthority.com/google-play-security-reward-program-winding-down-3472376/)
- - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Security flaws in Microsoft Mac apps could let attackers spy on users](https://appleinsider.com/articles/24/08/19/security-flaws-in-microsoft-mac-apps-could-let-attackers-spy-on-users?utm_medium=rss)
+ - [AMD agrees to buy New Jersey-based ZT Systems, founded in 1994 to design and make servers, server racks, and other infrastructure, for $4.9B, closing in H1 2025 &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240819/p3#a240819p3)
+ - [The Pentagon Is Planning a Drone ‘Hellscape’ to Defend Taiwan](https://www.wired.com/story/china-taiwan-pentagon-drone-hellscape/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
