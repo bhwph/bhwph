@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google app experiments with this potentially controversial UI change &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-search-button-3472703/)
- - [GM reportedly cuts 1,000 jobs in its software and services division](https://www.theverge.com/2024/8/19/24223600/gm-layoffs-1000-jobs-software-and-services-super-cruise)
- - [Frozen 3: Release date, plot, and other rumors](https://www.androidauthority.com/frozen-3-release-date-3472740/)<!-- TECH:END -->
+ - [Fubu says Venu Sports app will be bad for everyone, US Judge blocks the new service in response](https://www.androidauthority.com/venu-sports-blocked-3472765/)
+ - [Apple Podcasts now has a web app](https://www.theverge.com/2024/8/19/24223811/apple-podcasts-web-app)
+ - [Ticketmaster’s nontransferrable ‘SafeTix’ are anti-competitive, DOJ suit claims](https://www.theverge.com/2024/8/19/24223774/ticketmaster-safetix-doj-antitrust-lawsuit-10-states-join)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
