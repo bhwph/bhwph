@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab your friends and tell them about this Adventure Time Bundle](https://www.polygon.com/good-deals/441521/adventure-time-comic-humble-bundle-sale)
- - [Tactical Breach Wizards Is A Sharp, Hilarious, And Brilliant Strategy Game](https://kotaku.com/tactical-breach-wizards-impressions-strategy-steam-1851626007)
- - [Warhammer 40K: Speed Freeks is nearly the orky Mad Max of my dreams, but more variety and fewer bots might get it to the finish line](https://www.pcgamer.com/games/racing/warhammer-40k-speed-freeks-is-nearly-the-orky-mad-max-of-my-dreams-but-more-variety-and-fewer-bots-might-get-it-to-the-finish-line)<!-- GAME:END -->
+ - [The Animal Crossing Switch Lite is back on sale for its lowest price ever](https://www.polygon.com/good-deals/441666/nintendo-switch-lite-animal-crossing-sale)
+ - [Report: Indiana Jones Won&#39;t Be An Xbox Exclusive For Long, Coming To PS5 Shortly After](https://kotaku.com/indiana-jones-great-circle-game-pass-ps5-exclusive-1851626140)
+ - [Mega Man Returns, But As A Digital Funko Pop](https://kotaku.com/mega-man-funko-pop-funko-fusion-demo-steam-trailer-pc-1851626112)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
