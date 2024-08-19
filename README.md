@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [POS streamer catcalls underage daughter, angry dad snaps](http://9gag.com/gag/arybG5V)
- - 😝 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
+ - 6️⃣ [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
+ - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
  - 👉 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)<!-- MEMES:END -->
 
 --- 
