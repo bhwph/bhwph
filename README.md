@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can finally pick different power modes for battery or plugged in with the latest Windows 11 Insider build, ending the tyranny of one power setting for all](https://www.pcgamer.com/software/windows/you-can-finally-pick-different-power-modes-for-battery-or-plugged-in-with-the-latest-windows-11-insider-build-ending-the-tyranny-of-one-power-setting-for-all)
- - [The Ultimate March 7th &lpar;The Hunt&rpar; Build For Honkai: Star Rail](https://kotaku.com/honkai-star-rail-march-7th-the-hunt-path-build-guide-1851625301)
- - [Silksong thirst is now so outrageously high that Geoff Keighley has to announce that it won&#39;t be at his show so people don&#39;t lose their minds](https://www.pcgamer.com/games/roguelike/silksong-thirst-is-now-so-outrageously-high-that-geoff-keighley-has-to-announce-that-it-wont-be-at-his-show-so-people-dont-lose-their-minds)<!-- GAME:END -->
+ - [It’s officially Brat Summer in Roblox’s Dress to Impress](https://www.polygon.com/gaming/441531/roblox-dress-to-impress-charli-xcx-brat-summer-update)
+ - [Some Black Myth: Wukong Content Creators Prohibited From Mentioning &#39;Feminist Propaganda&#39;](https://kotaku.com/black-myth-wukong-reviews-sexism-controversy-feminist-1851625743)
+ - [Microsoft closes another door for bypassing the TPM 2.0 requirement in Windows 11](https://www.pcgamer.com/software/windows/microsoft-closes-another-door-for-bypassing-the-tpm-20-requirement-in-windows-11)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
