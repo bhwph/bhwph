@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Star Wars Outlaws gets a new trailer — and PC hardware requirements](https://www.theverge.com/2024/8/18/24223015/ubisoft-star-wars-outlaws-pc-requirements-trailer)
- - [How Worldcoin is building its World ID identity system, trying to assuage government and privacy activists&#39; concerns about its iris scanning tech and data usage &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/240818/p7#a240818p7)
- - [The 8 Best Indoor Smart Gardens for 2024](https://www.cnet.com/home/smart-home/best-indoor-garden/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prescription Delivery Services: Amazon, CVS, PillPack and More](https://www.cnet.com/health/medical/best-prescription-delivery-services/#ftag=CAD590a51e)
+ - [Waymo’s robotaxi depot is still honking its San Francisco neighbors awake](https://www.theverge.com/2024/8/18/24223160/waymo-honking-san-francisco-parking-lot-depot-fix-not-working)
+ - [Best Internet Providers in Gulfport, Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-gulfport-ms/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
