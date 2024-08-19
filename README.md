@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prescription Delivery Services: Amazon, CVS, PillPack and More](https://www.cnet.com/health/medical/best-prescription-delivery-services/#ftag=CAD590a51e)
- - [Waymo’s robotaxi depot is still honking its San Francisco neighbors awake](https://www.theverge.com/2024/8/18/24223160/waymo-honking-san-francisco-parking-lot-depot-fix-not-working)
- - [Best Internet Providers in Gulfport, Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-gulfport-ms/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16 Pro Max leak shows off new gold-like bronze color &lpar;Update: Desert Titanium&rpar;](https://www.androidauthority.com/iphone-16-pro-max-leak-gold-like-color-3472229/)
+ - [Age of Empires Mobile is coming to Android and iOS in October](https://www.androidauthority.com/age-of-empires-mobile-october-launch-3472356/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 19 #435](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-19-435/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
