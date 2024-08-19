@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
- - 😝 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - 👉 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)<!-- MEMES:END -->
+ - 6️⃣ [QA at vape factory](http://9gag.com/gag/azx8XYZ)
+ - 😝 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
+ - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
 
 --- 
 
