@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
- - 😝 [Not joking, worst days of my life](http://9gag.com/gag/aRBm1Oy)
- - 👉 [No wrong choices please](http://9gag.com/gag/amoYB0o)<!-- MEMES:END -->
+ - 6️⃣ [Can confirm](http://9gag.com/gag/a9yrEvL)
+ - 😝 [What men want](http://9gag.com/gag/arybnbV)
+ - 👉 [Nuclear power meme](http://9gag.com/gag/aQz9ove)<!-- MEMES:END -->
 
 --- 
 
