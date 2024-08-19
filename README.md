@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Zoom Enhance will be on-device, and here are some of the first samples](https://www.androidauthority.com/pixel-zoom-enhance-3472637/)
- - [Apple&#39;s iPad 9th Generation plunges to record low $199 at Amazon &amp; Best Buy](https://appleinsider.com/articles/24/08/19/apples-ipad-9th-generation-plunges-to-record-low-199-at-amazon-best-buy?utm_medium=rss)
- - [10 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2024&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)<!-- TECH:END -->
+ - [Raspberry Pi launches a Raspberry Pi 5 with 2GB of RAM for $50, alongside the existing 4GB model for $60 and 8GB for $80, and may release a future 1GB model &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240819/p9#a240819p9)
+ - [Dubious invite strongly hints at bronze iPhone 16 Pro at September Apple event](https://appleinsider.com/articles/24/08/19/dubious-invite-strongly-hints-at-bronze-iphone-16-pro-at-september-apple-event?utm_medium=rss)
+ - [Source: GM is cutting over 1,000 software engineers, including 600+ in Michigan, as the automaker moves to lean up its software and services organization &lpar;David Welch/Bloomberg&rpar;](http://www.techmeme.com/240819/p8#a240819p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
