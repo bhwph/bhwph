@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fubu says Venu Sports app will be bad for everyone, US Judge blocks the new service in response](https://www.androidauthority.com/venu-sports-blocked-3472765/)
- - [Apple Podcasts now has a web app](https://www.theverge.com/2024/8/19/24223811/apple-podcasts-web-app)
- - [Ticketmaster’s nontransferrable ‘SafeTix’ are anti-competitive, DOJ suit claims](https://www.theverge.com/2024/8/19/24223774/ticketmaster-safetix-doj-antitrust-lawsuit-10-states-join)<!-- TECH:END -->
+ - [Samsung Galaxy S24 FE rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s24-fe-3440533/)
+ - [Today is your last chance to save on Paramount Plus before its next price hike](https://www.theverge.com/2024/8/19/24221262/paramount-plus-essential-showtime-new-returning-subscriber-deal-sale)
+ - [Google says the Pixel 9 series ‘supports’ Qi2 charging, but with one big drawback &lpar;Developing&rpar;](https://www.androidauthority.com/pixel-9-qi2-support-3472829/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
