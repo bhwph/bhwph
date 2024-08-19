@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, August 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-19-2024)
- - [Great moments in PC gaming: Painting the map your color in a strategy game](https://www.pcgamer.com/games/strategy/great-moments-in-pc-gaming-painting-the-map-your-color-in-a-strategy-game)
- - [You can now watch all 14 weapon previews for Monster Hunter Wilds](https://www.pcgamer.com/games/you-can-now-see-all-14-weapon-previews-for-monster-hunter-wilds)<!-- GAME:END -->
+ - [MSI&#39;s PBO Enhanced Modes take Ryzen 9000 series chips off the leash, giving you up to 15% extra performance](https://www.pcgamer.com/hardware/processors/msis-pbo-enhanced-modes-take-ryzen-9000-series-chips-off-the-leash-giving-you-up-to-15-extra-performance)
+ - [Go on roguelike dives to keep evil gods asleep in Feed the Deep](https://www.pcgamer.com/games/roguelike/go-on-roguelike-dives-to-keep-evil-gods-asleep-in-feed-the-deep)
+ - [Today&#39;s Wordle answer for Monday, August 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-19-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
