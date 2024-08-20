@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A guy defended his girlfriend after she was harassed by a streamer, which led to his retaliation.](http://9gag.com/gag/a1mbP3P)
- - 😝 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
- - 👉 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)<!-- MEMES:END -->
+ - 6️⃣ [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
+ - 😝 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)
+ - 👉 [When you mastered your job and it\u2019s time to move on](http://9gag.com/gag/aLnDvrW)<!-- MEMES:END -->
 
 --- 
 
