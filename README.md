@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Unrealistic standards?](http://9gag.com/gag/aNDAP4v)
- - 😝 [Are there any believers ?](http://9gag.com/gag/aLnDv8z)
- - 👉 [What in the world is this creature](http://9gag.com/gag/abApYpp)<!-- MEMES:END -->
+ - 6️⃣ [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)
+ - 😝 [What a big horse](http://9gag.com/gag/aVvqwV2)
+ - 👉 [Not again](http://9gag.com/gag/azx81KB)<!-- MEMES:END -->
 
 --- 
 
