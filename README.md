@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palo Alto Networks reports Q4 revenue up 12% YoY to $2.2B, vs. $2.16B est., FY 2025 revenue guidance above est., and increases its share buyback by $500M to $1B &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240819/p17#a240819p17)
- - [Plain text passwords may have struck again](https://www.theverge.com/2024/8/19/24223858/national-public-data-breach-ssn-privacy)
- - [Best Home Exercise Equipment for 2024](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Donald Trump shared AI-generated images on Truth Social that show Taylor Swift and her fans vowing their support for his campaign; Swift hasn&#39;t endorsed Trump &lpar;Nick Robins-Early/The Guardian&rpar;](http://www.techmeme.com/240819/p19#a240819p19)
+ - [You&#39;ve Got a Friend in... ChatGPT? I Tried Out the AI&#39;s New Voice Mode to Find Out](https://www.cnet.com/tech/services-and-software/youve-got-a-friend-in-chatgpt-i-tried-out-the-ais-new-voice-mode-to-find-out/#ftag=CAD590a51e)
+ - [The Anker 713 Charger is tiny, super fast, and 51% off!](https://www.androidauthority.com/anker-713-charger-deal-3472815/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
