@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PhonePe and Google Pay accounted for over 85% share of 14.4B UPI transactions in July; PhonePe led with 5.9B transactions, Google Pay 5.3B, and Paytm 1.1B &lpar;Digbijay Mishra/The Economic Times&rpar;](http://www.techmeme.com/240819/p22#a240819p22)
- - [Google could soon help you discover new and upcoming movies and TV shows &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-discover-movies-tv-shows-card-3472953/)
- - [Cisco Talos: eight vulnerabilities in Microsoft&#39;s macOS apps could be abused by attackers to record video/sound from a user&#39;s device, log user input, and more &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/240819/p21#a240819p21)<!-- TECH:END -->
+ - [Business groups including Asia Internet Coalition, which includes Amazon, Google, and Meta, criticize Hong Kong&#39;s new cyber rules, calling them &quot;unprecedented&quot; &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/240820/p2#a240820p2)
+ - [Sources: Apple plans to make the most expensive iPhone models in India for the first time as Foxconn rushes to produce iPhone 16 Pro and Pro Max in the country &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240820/p1#a240820p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Aug. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-20/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
