@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You can tell that question sent him back to his childhood trauma..Hope the dude is going well.](http://9gag.com/gag/amoYPPv)
- - 😝 [Why not both?](http://9gag.com/gag/ajPX9bG)
+ - 6️⃣ [A guy defended his girlfriend after she was harassed by a streamer, which led to his retaliation.](http://9gag.com/gag/a1mbP3P)
+ - 😝 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
  - 👉 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)<!-- MEMES:END -->
 
 --- 
