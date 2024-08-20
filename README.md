@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cond&amp;eacute; Nast makes a multiyear deal with OpenAI, letting ChatGPT and SearchGPT surface stories from The New Yorker, Vogue, Vanity Fair, Bon Appetit, and Wired &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240820/p22#a240820p22)
- - [Borderlands 4 is launching in 2025](https://www.theverge.com/2024/8/20/24224587/borderlands-4-2025-gearbox-studios)
- - [Deal: OnePlus Buds Pro 3 just launched and are already $30 off](https://www.androidauthority.com/oneplus-buds-pro-3-deal-3473375/)<!-- TECH:END -->
+ - [Civilization VII is coming to Mac in early 2025](https://appleinsider.com/articles/24/08/20/civilization-vii-is-coming-to-mac-in-early-2025?utm_medium=rss)
+ - [Gemini could get an ‘ask photos’ extension &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-gemini-extension-3473386/)
+ - [A US appeals court revives a class action suit by Google Chrome users who say Google collected personal info even if Chrome was not synced with a Google account &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240820/p23#a240820p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
