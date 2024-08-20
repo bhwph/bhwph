@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Civilization VII is coming to Mac in early 2025](https://appleinsider.com/articles/24/08/20/civilization-vii-is-coming-to-mac-in-early-2025?utm_medium=rss)
- - [Gemini could get an ‘ask photos’ extension &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-gemini-extension-3473386/)
- - [A US appeals court revives a class action suit by Google Chrome users who say Google collected personal info even if Chrome was not synced with a Google account &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240820/p23#a240820p23)<!-- TECH:END -->
+ - [A US district judge in Texas strikes down the FTC&#39;s ban on worker noncompete agreements, due to start September 4, after her temporary block of the rule in July &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/240820/p26#a240820p26)
+ - [An AWS Configuration Issue Could Expose Thousands of Web Apps](https://www.wired.com/story/aws-application-load-balancer-implementation-compromise/)
+ - [Google has to face a class action lawsuit over Chrome’s data collection](https://www.theverge.com/2024/8/20/24224686/google-class-action-lawsuit-chrome-sync-data-collection)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
