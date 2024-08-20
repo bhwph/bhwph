@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp usernames could come with an innovative twist](https://www.androidauthority.com/whatsapp-usernames-innovative-twist-3473014/)
- - [Q&amp;A with GitHub CEO Thomas Dohmke on AI, GitHub Copilot, letting developers test AI models in GitHub, open-source AI models, working within Microsoft, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240820/p3#a240820p3)
- - [Google Messages beta brings back dual-SIM support for RCS chats](https://www.androidauthority.com/google-messages-dual-sim-rcs-2-3472965/)<!-- TECH:END -->
+ - [India will assemble iPhone 16 Pro, iPhone 16 Pro Max for the first time](https://appleinsider.com/articles/24/08/20/india-will-assemble-iphone-16-pro-iphone-16-pro-max-for-the-first-time?utm_medium=rss)
+ - [TSMC breaks ground on its &amp;euro;10B chip fab in Dresden, Germany, its first European plant; the EU approves Germany&#39;s ~&amp;euro;5B subsidy for the project &lpar;Kamil Kowalcze/Bloomberg&rpar;](http://www.techmeme.com/240820/p6#a240820p6)
+ - [Big oof: The Google Pixel Watch 3 can’t be repaired, only replaced](https://www.androidauthority.com/google-pixel-watch-3-cant-be-repaired-3472994/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
