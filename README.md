@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Skills To Buy First In Black Myth: Wukong](https://kotaku.com/black-myth-wukong-skill-trees-guide-1851619233)
- - [Clash with legends of yore in Black Myth: Wukong](https://www.pcgamer.com/games/clash-with-legends-of-yore-in-black-myth-wukong)
- - [No other laptop maker would let me cannibalise the best bit of its new machine the way Framework does and that&#39;s a damned shame](https://www.pcgamer.com/hardware/gaming-laptops/no-other-laptop-maker-would-let-me-cannibalise-the-best-bit-of-its-new-machine-the-way-framework-does-and-thats-a-damned-shame)<!-- GAME:END -->
+ - [Dustborn offers perspective on the choices that shape us](https://www.polygon.com/review/441908/dustborn-quantic-dream-games-ps5-pc-xbox)
+ - [Vampire: The Masquerade – Bloodlines 2 has been delayed again, this time to &#39;add more endings to the game&#39; along with some extra polish](https://www.pcgamer.com/games/rpg/vampire-the-masquerade-bloodlines-2-has-been-delayed-again-this-time-to-add-more-endings-to-the-game-along-with-some-extra-polish)
+ - [Xbox Insiders: Everything You Need to Know About Xbox Game Pass Standard](https://news.xbox.com/en-us/2024/08/20/xbox-insiders-everything-you-need-to-know-about-xbox-game-pass-standard/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
