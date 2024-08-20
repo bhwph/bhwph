@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The big games, reveals, and trailers from Gamescom Opening Night Live 2024](https://www.polygon.com/gamescom/442015/gamescom-announcements-trailers-onl-2024)
- - [Buy 2 Nintendo Switch classics, get 1 free from Best Buy](https://www.polygon.com/good-deals/441980/buy-2-nintendo-switch-classics-get-1-free-from-best-buy)
- - [Batman: Arkham Shadow Looks Like The Batman Games You Love In First-Person](https://kotaku.com/batman-arkham-vr-looks-good-1851627260)<!-- GAME:END -->
+ - [Kingdom Come: Deliverance 2 imagines a medieval Europe that&#39;s mostly swords in its latest Gamescom gameplay teaser](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-imagines-a-medieval-europe-thats-mostly-swords-in-its-latest-gamescom-gameplay-teaser)
+ - [Stellar Blade studio says a PC version is coming &#39;in the near future&#39;](https://www.pcgamer.com/games/action/stellar-blade-studio-says-a-pc-version-is-coming-in-the-near-future)
+ - [2024’s franchise blockbusters, ranked by their value to the series](https://www.polygon.com/24171622/2024-movie-sequels-prequels-ranked-least-to-most-essential)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
