@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [17 Top New Android 15 Features &lpar;2024&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/how-to-download-android-15-and-features/)
- - [Apple Vision Pro review: six month stasis](https://appleinsider.com/articles/24/08/20/apple-vision-pro-review-six-month-stasis?utm_medium=rss)
- - [Back to School for High Schoolers &lpar;2024&rpar;: Backpacks, Laptops, Headphones](https://www.wired.com/gallery/back-to-school-high-school-gear/)<!-- TECH:END -->
+ - [HyperX has upgraded the recording quality of its USB gaming mics](https://www.theverge.com/2024/8/20/24224316/hyperx-microphones-gaming-quadcast-2-s-led)
+ - [Amazon clears out Apple Watch inventory, grab the Series 9 for $299 &amp; Ultra 2 for $699](https://appleinsider.com/articles/24/08/20/amazon-clears-out-apple-watch-inventory-grab-the-series-9-for-299-ultra-2-for-699?utm_medium=rss)
+ - [Modular and Non-Modular PC Power Supply: What&#39;s the Difference?](https://www.wired.com/story/pc-power-supply-explainer/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
