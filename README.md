@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alien: Romulus is Ready Player One for the Alien universe](https://www.polygon.com/entertainment/441159/alien-romulus-ready-player-ash-rain-ian-holm)
- - [Pokémon Worlds competitor gets disqualified straight after winning the quarter-finals, thanks to a rude hand gesture](https://www.pcgamer.com/games/card-games/pokemon-worlds-competitor-gets-disqualified-straight-after-winning-the-quarter-finals-thanks-to-a-rude-hand-gesture)
- - [Best mini-PCs in 2024: The compact computers I love the most](https://www.pcgamer.com/hardware/gaming-pcs/best-mini-pcs-for-gaming)<!-- GAME:END -->
+ - [The Best Skills To Buy First In Black Myth: Wukong](https://kotaku.com/black-myth-wukong-skill-trees-guide-1851619233)
+ - [Clash with legends of yore in Black Myth: Wukong](https://www.pcgamer.com/games/clash-with-legends-of-yore-in-black-myth-wukong)
+ - [No other laptop maker would let me cannibalise the best bit of its new machine the way Framework does and that&#39;s a damned shame](https://www.pcgamer.com/hardware/gaming-laptops/no-other-laptop-maker-would-let-me-cannibalise-the-best-bit-of-its-new-machine-the-way-framework-does-and-thats-a-damned-shame)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
