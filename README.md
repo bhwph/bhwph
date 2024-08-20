@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Writers and journalists Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson sue Anthropic, saying it misused books of theirs and others to train Claude &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240820/p17#a240820p17)
- - [Galaxy Z Fold 6 Slim could be Samsung’s first titanium foldable](https://www.androidauthority.com/galaxy-z-fold-6-slim-titanium-3473194/)
- - [Waymo co-CEO Tekedra Mawakana says Waymo is now giving 100K+ paid robotaxi rides every week in LA, San Francisco, and Phoenix, a few months after passing 50K+ &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240820/p16#a240820p16)<!-- TECH:END -->
+ - [Cond&amp;eacute; Nast makes a multiyear deal with OpenAI, letting ChatGPT and SearchGPT surface stories from The New Yorker, Vogue, Vanity Fair, Bon Appetit, and Wired &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240820/p22#a240820p22)
+ - [Borderlands 4 is launching in 2025](https://www.theverge.com/2024/8/20/24224587/borderlands-4-2025-gearbox-studios)
+ - [Deal: OnePlus Buds Pro 3 just launched and are already $30 off](https://www.androidauthority.com/oneplus-buds-pro-3-deal-3473375/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
