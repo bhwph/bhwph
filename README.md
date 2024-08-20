@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HyperX has upgraded the recording quality of its USB gaming mics](https://www.theverge.com/2024/8/20/24224316/hyperx-microphones-gaming-quadcast-2-s-led)
- - [Amazon clears out Apple Watch inventory, grab the Series 9 for $299 &amp; Ultra 2 for $699](https://appleinsider.com/articles/24/08/20/amazon-clears-out-apple-watch-inventory-grab-the-series-9-for-299-ultra-2-for-699?utm_medium=rss)
- - [Modular and Non-Modular PC Power Supply: What&#39;s the Difference?](https://www.wired.com/story/pc-power-supply-explainer/)<!-- TECH:END -->
+ - [Writers and journalists Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson sue Anthropic, saying it misused books of theirs and others to train Claude &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240820/p17#a240820p17)
+ - [Galaxy Z Fold 6 Slim could be Samsung’s first titanium foldable](https://www.androidauthority.com/galaxy-z-fold-6-slim-titanium-3473194/)
+ - [Waymo co-CEO Tekedra Mawakana says Waymo is now giving 100K+ paid robotaxi rides every week in LA, San Francisco, and Phoenix, a few months after passing 50K+ &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240820/p16#a240820p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
