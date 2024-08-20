@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dustborn offers perspective on the choices that shape us](https://www.polygon.com/review/441908/dustborn-quantic-dream-games-ps5-pc-xbox)
- - [Vampire: The Masquerade – Bloodlines 2 has been delayed again, this time to &#39;add more endings to the game&#39; along with some extra polish](https://www.pcgamer.com/games/rpg/vampire-the-masquerade-bloodlines-2-has-been-delayed-again-this-time-to-add-more-endings-to-the-game-along-with-some-extra-polish)
- - [Xbox Insiders: Everything You Need to Know About Xbox Game Pass Standard](https://news.xbox.com/en-us/2024/08/20/xbox-insiders-everything-you-need-to-know-about-xbox-game-pass-standard/)<!-- GAME:END -->
+ - [&#39;The greatest simulation game known to man and goat returns&#39;: Goat Simulator is back, and the first stop is Cash Grab Penitentiary](https://www.pcgamer.com/games/sim/the-greatest-simulation-game-known-to-man-and-goat-returns-goat-simulator-is-back-and-the-first-stop-is-cash-grab-penitentiary)
+ - [Borderlands 4 is happening, Gearbox announces at Gamescom](https://www.polygon.com/news/442046/borderlands-4-announced-2025-gamescom-2024)
+ - [Call of Duty: Black Ops 6 Most Wanted: Campaign Mission Revealed](https://www.callofduty.com/blog/2024/08/call-of-duty-black-ops-6-campaign-mission-reveal-most-wanted-intel#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
