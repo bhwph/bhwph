@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
- - 😝 [What in the world is this creature](http://9gag.com/gag/abApYpp)
- - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
+ - 6️⃣ [He faked not only the players but also the cameraman three times](http://9gag.com/gag/azx8egb)
+ - 😝 [I would walk 500 miles ..](http://9gag.com/gag/agmLBQ1)
+ - 👉 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)<!-- MEMES:END -->
 
 --- 
 
