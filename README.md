@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Are there any believers ?](http://9gag.com/gag/aLnDv8z)
- - 😝 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
- - 👉 [Fame shame](http://9gag.com/gag/a5QbQer)<!-- MEMES:END -->
+ - 6️⃣ [Fame shame](http://9gag.com/gag/a5QbQer)
+ - 😝 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
+ - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
 
 --- 
 
