@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Behind the scenes of every landscape post](http://9gag.com/gag/an7bgNn)
- - 😝 [So proud of this community.](http://9gag.com/gag/a7orq7L)
- - 👉 [Friendship is friendly](http://9gag.com/gag/aLnDpev)<!-- MEMES:END -->
+ - 6️⃣ [You can tell that question sent him back to his childhood trauma..Hope the dude is going well.](http://9gag.com/gag/amoYPPv)
+ - 😝 [Why not both?](http://9gag.com/gag/ajPX9bG)
+ - 👉 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)<!-- MEMES:END -->
 
 --- 
 
