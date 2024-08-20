@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;The greatest simulation game known to man and goat returns&#39;: Goat Simulator is back, and the first stop is Cash Grab Penitentiary](https://www.pcgamer.com/games/sim/the-greatest-simulation-game-known-to-man-and-goat-returns-goat-simulator-is-back-and-the-first-stop-is-cash-grab-penitentiary)
- - [Borderlands 4 is happening, Gearbox announces at Gamescom](https://www.polygon.com/news/442046/borderlands-4-announced-2025-gamescom-2024)
- - [Call of Duty: Black Ops 6 Most Wanted: Campaign Mission Revealed](https://www.callofduty.com/blog/2024/08/call-of-duty-black-ops-6-campaign-mission-reveal-most-wanted-intel#new_tab)<!-- GAME:END -->
+ - [The big games, reveals, and trailers from Gamescom Opening Night Live 2024](https://www.polygon.com/gamescom/442015/gamescom-announcements-trailers-onl-2024)
+ - [Buy 2 Nintendo Switch classics, get 1 free from Best Buy](https://www.polygon.com/good-deals/441980/buy-2-nintendo-switch-classics-get-1-free-from-best-buy)
+ - [Batman: Arkham Shadow Looks Like The Batman Games You Love In First-Person](https://kotaku.com/batman-arkham-vr-looks-good-1851627260)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
