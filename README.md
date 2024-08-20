@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)
- - 😝 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
- - 👉 [Based Nadal](http://9gag.com/gag/a7oro5z)<!-- MEMES:END -->
+ - 6️⃣ [Are there any believers ?](http://9gag.com/gag/aLnDv8z)
+ - 😝 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
+ - 👉 [Fame shame](http://9gag.com/gag/a5QbQer)<!-- MEMES:END -->
 
 --- 
 
