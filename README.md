@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - 😝 [You can tell that question sent him back to his childhood trauma..Hope the dude is going well.](http://9gag.com/gag/amoYPPv)
- - 👉 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)<!-- MEMES:END -->
+ - 6️⃣ [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
+ - 😝 [What in the world is this creature](http://9gag.com/gag/abApYpp)
+ - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
 
 --- 
 
