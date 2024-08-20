@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India will assemble iPhone 16 Pro, iPhone 16 Pro Max for the first time](https://appleinsider.com/articles/24/08/20/india-will-assemble-iphone-16-pro-iphone-16-pro-max-for-the-first-time?utm_medium=rss)
- - [TSMC breaks ground on its &amp;euro;10B chip fab in Dresden, Germany, its first European plant; the EU approves Germany&#39;s ~&amp;euro;5B subsidy for the project &lpar;Kamil Kowalcze/Bloomberg&rpar;](http://www.techmeme.com/240820/p6#a240820p6)
- - [Big oof: The Google Pixel Watch 3 can’t be repaired, only replaced](https://www.androidauthority.com/google-pixel-watch-3-cant-be-repaired-3472994/)<!-- TECH:END -->
+ - [17 Top New Android 15 Features &lpar;2024&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/how-to-download-android-15-and-features/)
+ - [Apple Vision Pro review: six month stasis](https://appleinsider.com/articles/24/08/20/apple-vision-pro-review-six-month-stasis?utm_medium=rss)
+ - [Back to School for High Schoolers &lpar;2024&rpar;: Backpacks, Laptops, Headphones](https://www.wired.com/gallery/back-to-school-high-school-gear/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
