@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch the Future Games Show&#39;s Gamescom showcase today](https://www.pcgamer.com/games/future-games-show-gamescom-2024-how-to-watch)
- - [Black Myth: Wukong should be your first soulslike if Elden Ring scared you away](https://www.pcgamer.com/games/rpg/black-myth-wukong-should-be-your-first-soulslike-if-elden-ring-scared-you-away)
- - [Lego Reveals Adorable Little Mario Kart Sets Coming In 2025](https://kotaku.com/mario-kart-8-lego-nintendo-switch-release-date-1851628089)<!-- GAME:END -->
+ - [Where to find silk in Black Myth: Wukong](https://www.polygon.com/guides/440631/black-myth-wukong-silk-how-to-get-where-to-find)
+ - [How to beat the Wandering Wight in Black Myth: Wukong](https://www.polygon.com/guides/442039/black-myth-wukong-wandering-wight-how-to-beat)
+ - [An Inside Peek At Indiana Jones&#39; Gameplay Looks Whip-Crackingly, Fist-Punchingly Fun](https://kotaku.com/indiana-jones-great-circle-bethesda-footage-1851628386)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
