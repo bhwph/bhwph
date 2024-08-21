@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
- - 😝 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)
- - 👉 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)<!-- MEMES:END -->
+ - 6️⃣ [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
+ - 😝 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
+ - 👉 [The poeple has spoken](http://9gag.com/gag/aW4m4BA)<!-- MEMES:END -->
 
 --- 
 
