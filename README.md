@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 21, #171](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-21-171/#ftag=CAD590a51e)
- - [Backbone One 2nd gen review: sleek upgrades to a classic iPhone controller](https://appleinsider.com/articles/24/08/21/backbone-one-2nd-gen-review-sleek-upgrades-to-a-classic-iphone-controller?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 21 #437](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-21-437/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Rockbridge, a Silicon Valley-backed right-wing donor group co-founded by JD Vance to influence US politics; docs and sources: its 2024 budget is ~$75M &lpar;Reuters&rpar;](http://www.techmeme.com/240821/p2#a240821p2)
+ - [The Galaxy S24 FE is a step closer to launch thanks to new listing](https://www.androidauthority.com/samsung-galaxy-s24-fe-bluetooth-listing-3472175/)
+ - [Following rivals&#39; criticism, CrowdStrike President says no vendor could &quot;technically&quot; guarantee their software won&#39;t cause an incident like the July outage &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240821/p1#a240821p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
