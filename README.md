@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I would walk 500 miles ..](http://9gag.com/gag/agmLBQ1)
- - 😝 [Damn it, Jp, clean your shit!](http://9gag.com/gag/agmLgXw)
- - 👉 [New York, New York](http://9gag.com/gag/an7b7n0)<!-- MEMES:END -->
+ - 6️⃣ [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
+ - 😝 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)
+ - 👉 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)<!-- MEMES:END -->
 
 --- 
 
