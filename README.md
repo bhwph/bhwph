@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to launch the $450 white discless Xbox Series X, a $600 2TB Galaxy Black special-edition Series X, and $350 1TB Series S on October 15 in the US &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240821/p16#a240821p16)
- - [Want Apple Music for free? Apple is extending its free trial, but there’s a catch](https://www.androidauthority.com/apple-music-free-trial-three-months-3473788/)
- - [Lego’s Super Mario: Mario Kart sets will cross the finish line early in 2025](https://www.theverge.com/2024/8/21/24225151/lego-super-mario-mario-kart-toys)<!-- TECH:END -->
+ - [An ‘AI Scientist’ Is Inventing and Running Its Own Experiments](https://www.wired.com/story/ai-scientist-ubc-lab/)
+ - [Nomad’s updated Stand One Max charger fixes an annoying design flaw](https://www.theverge.com/2024/8/21/24224358/nomad-stand-one-max-third-gen-magsafe-qi2-charger-price-specs)
+ - [Public Citizen: crypto companies have spent $119M+ in the 2024 election cycle through Q2, or 48% of all corporate money, an &quot;unprecedented&quot; spending spree &lpar;Brendan Pedersen/Punchbowl News&rpar;](http://www.techmeme.com/240821/p20#a240821p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
