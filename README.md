@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
- - 😝 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
- - 👉 [The poeple has spoken](http://9gag.com/gag/aW4m4BA)<!-- MEMES:END -->
+ - 6️⃣ [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)
+ - 😝 [New York, New York](http://9gag.com/gag/an7b7n0)
+ - 👉 [Ooof](http://9gag.com/gag/azx82Ez)<!-- MEMES:END -->
 
 --- 
 
