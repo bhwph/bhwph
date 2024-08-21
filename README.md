@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
- - 😝 [I GOT REJECTED FROM MCDONALDS](http://9gag.com/gag/aGy1p1G)
- - 👉 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)<!-- MEMES:END -->
+ - 6️⃣ [I would walk 500 miles ..](http://9gag.com/gag/agmLBQ1)
+ - 😝 [Damn it, Jp, clean your shit!](http://9gag.com/gag/agmLgXw)
+ - 👉 [New York, New York](http://9gag.com/gag/an7b7n0)<!-- MEMES:END -->
 
 --- 
 
