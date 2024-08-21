@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)
- - 😝 [New York, New York](http://9gag.com/gag/an7b7n0)
- - 👉 [Ooof](http://9gag.com/gag/azx82Ez)<!-- MEMES:END -->
+ - 6️⃣ [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)
+ - 😝 [Hilarious](http://9gag.com/gag/aD2W667)
+ - 👉 [Dude calmly walks into a store and deals with a bully](http://9gag.com/gag/apRp3MM)<!-- MEMES:END -->
 
 --- 
 
