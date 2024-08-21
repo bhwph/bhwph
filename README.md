@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
- - 😝 [Based Nadal](http://9gag.com/gag/a7oro5z)
- - 👉 [After S2 of Acolyte was cancelled, the Actress knows who to blame. Not her bad acting or the bad writing. Its racism not to watch the garbade. Sauce in comments.](http://9gag.com/gag/aLnDnmV)<!-- MEMES:END -->
+ - 6️⃣ [Absolute chad](http://9gag.com/gag/aO8z8pr)
+ - 😝 [Damn it, Jp, clean your shit!](http://9gag.com/gag/agmLgXw)
+ - 👉 [`My Lady Jane` shows a black, gay King Edward \u201cnavigating his queerness\u201d in 16th Century England. And if that wasn&#39;t enough, they also threw him in a wheelchair for good measure.](http://9gag.com/gag/aVvqg28)<!-- MEMES:END -->
 
 --- 
 
