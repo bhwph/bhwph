@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [7 Amazing Gems To Get For Cheap During Steam’s Big Rhythm Game Sale](https://kotaku.com/steam-rhythm-fest-sale-hi-fi-rush-trombone-champ-1851627903)
- - [There might soon be a new go-to cheap gaming CPU as AMD Ryzen 5 7600X3D is rumoured to launch early next month](https://www.pcgamer.com/hardware/processors/there-might-soon-be-a-new-go-to-cheap-gaming-cpu-as-amd-ryzen-5-7600x3d-is-rumoured-to-launch-early-next-month)
- - [All 15 Games Featured In Secret Level](https://kotaku.com/secret-level-amazon-armored-core-playstation-keanu-1851627812)<!-- GAME:END -->
+ - [How to watch the Future Games Show&#39;s Gamescom showcase today](https://www.pcgamer.com/games/future-games-show-gamescom-2024-how-to-watch)
+ - [Black Myth: Wukong should be your first soulslike if Elden Ring scared you away](https://www.pcgamer.com/games/rpg/black-myth-wukong-should-be-your-first-soulslike-if-elden-ring-scared-you-away)
+ - [Lego Reveals Adorable Little Mario Kart Sets Coming In 2025](https://kotaku.com/mario-kart-8-lego-nintendo-switch-release-date-1851628089)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
