@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Three Hours With Kingdom Come: Deliverance 2 Has Me Thinking It Might Be A Great Immersive RPG](https://kotaku.com/kingdom-come-deliverance-2-preview-medieval-rpg-1851626849)
- - [Kingdom Come: Deliverance 2 is a strange mixture of historical drama and The Hangover](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-is-a-strange-mixture-of-historical-drama-and-the-hangover)
- - [Games Workshop officially bans the use of AI in its Golden Demon painting competitions](https://www.pcgamer.com/games/board-games/games-workshop-officially-bans-the-use-of-ai-in-its-golden-demon-painting-competitions)<!-- GAME:END -->
+ - [Winter Burrow: The First Hands-on](https://news.xbox.com/en-us/2024/08/21/winter-burrow-the-first-hands-on/)
+ - [&#39;We won&#39;t see another game reach these heights until probably GTA 6&#39;: Palworld community manager congratulates Black Myth: Wukong for its continued success](https://www.pcgamer.com/games/rpg/we-wont-see-another-game-reach-these-heights-until-probably-gta-6-palworld-community-manager-congratulates-black-myth-wukong-for-its-continued-success)
+ - [MSI Crosshair 16 HX review](https://www.pcgamer.com/hardware/gaming-laptops/msi-crosshair-16-hx-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
