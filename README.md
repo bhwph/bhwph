@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US district judge in Texas strikes down the FTC&#39;s ban on worker noncompete agreements, due to start September 4, after her temporary block of the rule in July &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/240820/p26#a240820p26)
- - [An AWS Configuration Issue Could Expose Thousands of Web Apps](https://www.wired.com/story/aws-application-load-balancer-implementation-compromise/)
- - [Google has to face a class action lawsuit over Chrome’s data collection](https://www.theverge.com/2024/8/20/24224686/google-class-action-lawsuit-chrome-sync-data-collection)<!-- TECH:END -->
+ - [The Motorola Razr Plus 2024 is $100 off, only a month after its release](https://www.androidauthority.com/motorola-razr-plus-2024-deal-3473373/)
+ - [Sources: Walmart, JD.com&#39;s largest shareholder, is seeking to raise up to $3.74B by selling its stake in the Chinese e-commerce firm; JD falls 9%+ after hours &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240820/p29#a240820p29)
+ - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
