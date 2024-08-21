@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Absolute chad](http://9gag.com/gag/aO8z8pr)
- - 😝 [Damn it, Jp, clean your shit!](http://9gag.com/gag/agmLgXw)
- - 👉 [`My Lady Jane` shows a black, gay King Edward \u201cnavigating his queerness\u201d in 16th Century England. And if that wasn&#39;t enough, they also threw him in a wheelchair for good measure.](http://9gag.com/gag/aVvqg28)<!-- MEMES:END -->
+ - 6️⃣ [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
+ - 😝 [I GOT REJECTED FROM MCDONALDS](http://9gag.com/gag/aGy1p1G)
+ - 👉 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)<!-- MEMES:END -->
 
 --- 
 
