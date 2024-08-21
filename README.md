@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Rockbridge, a Silicon Valley-backed right-wing donor group co-founded by JD Vance to influence US politics; docs and sources: its 2024 budget is ~$75M &lpar;Reuters&rpar;](http://www.techmeme.com/240821/p2#a240821p2)
- - [The Galaxy S24 FE is a step closer to launch thanks to new listing](https://www.androidauthority.com/samsung-galaxy-s24-fe-bluetooth-listing-3472175/)
- - [Following rivals&#39; criticism, CrowdStrike President says no vendor could &quot;technically&quot; guarantee their software won&#39;t cause an incident like the July outage &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240821/p1#a240821p1)<!-- TECH:END -->
+ - [Samsung Galaxy S24 FE rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s24-fe-3440533/)
+ - [Bowers &amp; Wilkins Pi8 Earbuds Review: Soaring Sound, Clever Case](https://www.wired.com/review/review-bowers-and-wilkins-pi8-in-ear-headphones/)
+ - [A look at Rockbridge, a Silicon Valley-backed right-wing donor group co-founded by JD Vance to influence US politics; docs and sources: its 2024 budget is ~$75M &lpar;Reuters&rpar;](http://www.techmeme.com/240821/p2#a240821p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
