@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find silk in Black Myth: Wukong](https://www.polygon.com/guides/440631/black-myth-wukong-silk-how-to-get-where-to-find)
- - [How to beat the Wandering Wight in Black Myth: Wukong](https://www.polygon.com/guides/442039/black-myth-wukong-wandering-wight-how-to-beat)
- - [An Inside Peek At Indiana Jones&#39; Gameplay Looks Whip-Crackingly, Fist-Punchingly Fun](https://kotaku.com/indiana-jones-great-circle-bethesda-footage-1851628386)<!-- GAME:END -->
+ - [Let&#39;s all just pretend that the Borderlands 4 reveal came at a better time](https://www.pcgamer.com/games/fps/lets-all-just-pretend-that-the-borderlands-4-reveal-came-at-a-better-time)
+ - [Journey to the Savage Planet developer says Google only wanted &#39;monstrous&#39; games with major licenses for Stadia: &#39;They were very strange&#39;](https://www.pcgamer.com/games/journey-to-the-savage-planet-developer-says-google-only-wanted-monstrous-games-with-major-licenses-for-stadia-they-were-very-strange)
+ - [Riddlemaster Randy Pitchford says the Borderlands 4 teaser contains &#39;several secrets&#39;](https://www.pcgamer.com/games/fps/riddlemaster-randy-pitchford-says-the-borderlands-4-teaser-contains-several-secrets)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
