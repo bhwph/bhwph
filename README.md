@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Italian mob game Mafia: The Old Country, about the Italian origins of the Italian mafia in Italy, will launch in Czech, Russian, German, French, English, and not Italian](https://www.pcgamer.com/games/third-person-shooter/italian-mob-game-mafia-the-old-country-about-the-italian-origins-of-the-italian-mafia-in-italy-will-launch-in-czech-russian-german-french-english-and-not-italian)
- - [The Slay the Spire board game might be a little too faithful to the videogame, but its co-op mode offers a whole new perspective on the iconic roguelike](https://www.pcgamer.com/games/board-games/the-slay-the-spire-board-game-might-be-a-little-too-faithful-to-the-videogame-but-its-co-op-mode-offers-a-whole-new-perspective-on-the-iconic-roguelike)
- - [All-New Venom kicks off a high-stakes Marvel mystery later this year](https://www.polygon.com/comics/441953/all-new-venom-marvel-al-ewing-december-2024-reveal)<!-- GAME:END -->
+ - [7 Amazing Gems To Get For Cheap During Steam’s Big Rhythm Game Sale](https://kotaku.com/steam-rhythm-fest-sale-hi-fi-rush-trombone-champ-1851627903)
+ - [There might soon be a new go-to cheap gaming CPU as AMD Ryzen 5 7600X3D is rumoured to launch early next month](https://www.pcgamer.com/hardware/processors/there-might-soon-be-a-new-go-to-cheap-gaming-cpu-as-amd-ryzen-5-7600x3d-is-rumoured-to-launch-early-next-month)
+ - [All 15 Games Featured In Secret Level](https://kotaku.com/secret-level-amazon-armored-core-playstation-keanu-1851627812)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
