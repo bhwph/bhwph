@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese government data: China is unleashing billions in lending to tech startups using intellectual property as collateral, up 57% YoY to ~$58.8B in H1 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240821/p6#a240821p6)
- - [Xiaomi reports Q2 revenue up 32% YoY to ~$12.5B, above ~$12.2B est., and a ~$715M net income, above ~$533M est., as its core smartphone business recovers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240821/p5#a240821p5)
- - [The Covid-19 Summer Wave Is So Big, the FDA Might Release New Vaccines Early](https://www.wired.com/story/covid-summer-surge-fda-vaccine-approval/)<!-- TECH:END -->
+ - [Sources and docs: sales reps say Google&#39;s targeting of teen minors goes beyond Meta; Google lets advertisers target an &quot;unknown&quot; group that skews toward teens &lpar;Catherine Perloff/Adweek&rpar;](http://www.techmeme.com/240821/p14#a240821p14)
+ - [Volkswagen&#39;s electric ID Buzz van will start at $59,995 in the US](https://www.theverge.com/2024/8/21/24225132/vw-id-buzz-electric-van-us-price-details)
+ - [PIP Labs, which is developing the blockchain Story Protocol to track IP usage, raised an $80M Series B led by a16z Crypto, sources say at a $2.25B valuation &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240821/p13#a240821p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
