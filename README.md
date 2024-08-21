@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to freeze your credit after a data breach](https://www.theverge.com/24224789/data-breach-freeze-report-security-how-to)
- - [Senators want investigation of AI-enabled ammo vending machines](https://www.theverge.com/2024/8/21/24225431/ammunition-vending-machines-atf-markey-warren-letter-american-rounds)
- - [Pixel 9 Pro and 9 Pro XL review: great build quality, brighter screens, faster fingerprint sensors, but the AI features are inconsistent and all over the place &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240821/p22#a240821p22)<!-- TECH:END -->
+ - [Apple App Store vice president of the App Store is the first departure in regulatory shake-up](https://appleinsider.com/articles/24/08/21/apple-app-store-vice-president-of-the-app-store-is-the-first-departure-in-regulatory-shake-up?utm_medium=rss)
+ - [Stadiums Are Embracing Face Recognition. Privacy Advocates Say They Should Stick to Sports](https://www.wired.com/story/face-recognition-stadiums-protest/)
+ - [iPhone character entry glitch crashes search, but it&#39;s not a bad bug](https://appleinsider.com/articles/24/08/21/iphone-character-entry-glitch-crashes-search-but-its-not-a-bad-bug?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
