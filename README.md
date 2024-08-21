@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An ‘AI Scientist’ Is Inventing and Running Its Own Experiments](https://www.wired.com/story/ai-scientist-ubc-lab/)
- - [Nomad’s updated Stand One Max charger fixes an annoying design flaw](https://www.theverge.com/2024/8/21/24224358/nomad-stand-one-max-third-gen-magsafe-qi2-charger-price-specs)
- - [Public Citizen: crypto companies have spent $119M+ in the 2024 election cycle through Q2, or 48% of all corporate money, an &quot;unprecedented&quot; spending spree &lpar;Brendan Pedersen/Punchbowl News&rpar;](http://www.techmeme.com/240821/p20#a240821p20)<!-- TECH:END -->
+ - [How to freeze your credit after a data breach](https://www.theverge.com/24224789/data-breach-freeze-report-security-how-to)
+ - [Senators want investigation of AI-enabled ammo vending machines](https://www.theverge.com/2024/8/21/24225431/ammunition-vending-machines-atf-markey-warren-letter-american-rounds)
+ - [Pixel 9 Pro and 9 Pro XL review: great build quality, brighter screens, faster fingerprint sensors, but the AI features are inconsistent and all over the place &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240821/p22#a240821p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
