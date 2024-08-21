@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
- - 😝 [Ooof](http://9gag.com/gag/azx82Ez)
- - 👉 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)<!-- MEMES:END -->
+ - 6️⃣ [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)
+ - 😝 [I know Wednesday didn&#39;t come yet, still...](http://9gag.com/gag/a7oroyr)
+ - 👉 [Fame shame](http://9gag.com/gag/a5QbQer)<!-- MEMES:END -->
 
 --- 
 
