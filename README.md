@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple App Store vice president of the App Store is the first departure in regulatory shake-up](https://appleinsider.com/articles/24/08/21/apple-app-store-vice-president-of-the-app-store-is-the-first-departure-in-regulatory-shake-up?utm_medium=rss)
- - [Stadiums Are Embracing Face Recognition. Privacy Advocates Say They Should Stick to Sports](https://www.wired.com/story/face-recognition-stadiums-protest/)
- - [iPhone character entry glitch crashes search, but it&#39;s not a bad bug](https://appleinsider.com/articles/24/08/21/iphone-character-entry-glitch-crashes-search-but-its-not-a-bad-bug?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel 9 makes it easier to add important events to your calendar](https://www.androidauthority.com/google-pixel-9-add-to-calendar-3474094/)
+ - [Google Gemini AI Adds New Features for Polishing Emails](https://www.cnet.com/tech/services-and-software/google-gemini-ai-adds-new-features-for-polishing-emails/#ftag=CAD590a51e)
+ - [Most Efficient Solar Panels for 2024: New Record-Setting Panel Tops the List](https://www.cnet.com/home/energy-and-utilities/most-efficient-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
