@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Winter Burrow: The First Hands-on](https://news.xbox.com/en-us/2024/08/21/winter-burrow-the-first-hands-on/)
- - [&#39;We won&#39;t see another game reach these heights until probably GTA 6&#39;: Palworld community manager congratulates Black Myth: Wukong for its continued success](https://www.pcgamer.com/games/rpg/we-wont-see-another-game-reach-these-heights-until-probably-gta-6-palworld-community-manager-congratulates-black-myth-wukong-for-its-continued-success)
- - [MSI Crosshair 16 HX review](https://www.pcgamer.com/hardware/gaming-laptops/msi-crosshair-16-hx-review)<!-- GAME:END -->
+ - [Italian mob game Mafia: The Old Country, about the Italian origins of the Italian mafia in Italy, will launch in Czech, Russian, German, French, English, and not Italian](https://www.pcgamer.com/games/third-person-shooter/italian-mob-game-mafia-the-old-country-about-the-italian-origins-of-the-italian-mafia-in-italy-will-launch-in-czech-russian-german-french-english-and-not-italian)
+ - [The Slay the Spire board game might be a little too faithful to the videogame, but its co-op mode offers a whole new perspective on the iconic roguelike](https://www.pcgamer.com/games/board-games/the-slay-the-spire-board-game-might-be-a-little-too-faithful-to-the-videogame-but-its-co-op-mode-offers-a-whole-new-perspective-on-the-iconic-roguelike)
+ - [All-New Venom kicks off a high-stakes Marvel mystery later this year](https://www.polygon.com/comics/441953/all-new-venom-marvel-al-ewing-december-2024-reveal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
