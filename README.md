@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hilarious](http://9gag.com/gag/aD2W667)
- - 😝 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
- - 👉 [Mic drop](http://9gag.com/gag/ajPXLxw)<!-- MEMES:END -->
+ - 6️⃣ [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
+ - 😝 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)
+ - 👉 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)<!-- MEMES:END -->
 
 --- 
 
