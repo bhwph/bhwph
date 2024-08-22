@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s the phone that could bring back 10x optical zoom](https://www.androidauthority.com/oppo-find-x8-pro-zoom-3474480/)
- - [Save 50%on the Google Nest Audio smart speaker!](https://www.androidauthority.com/google-nest-audio-deal-3474499/)
- - [Donald Trump promotes his family&#39;s forthcoming crypto platform, The DeFiant Ones, in a post on Truth Social, mentioning a Telegram channel but few other details &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240822/p30#a240822p30)<!-- TECH:END -->
+ - [Do Not Disturb mode is being supercharged in Android 15: Here’s how](https://www.androidauthority.com/android-15-priority-modes-3474550/)
+ - [Nintendo ending &#39;Animal Crossing: Pocket Camp&#39;, plans offline relaunch](https://appleinsider.com/articles/24/08/22/nintendo-ending-animal-crossing-pocket-camp-plans-offline-relaunch?utm_medium=rss)
+ - [Uber teams up with Cruise to deliver more autonomous rides next year](https://www.theverge.com/2024/8/22/24226331/uber-cruise-autonomous-rides)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
