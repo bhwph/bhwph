@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)
- - 😝 [Mic drop](http://9gag.com/gag/ajPXLxw)
- - 👉 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)<!-- MEMES:END -->
+ - 6️⃣ [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
+ - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 👉 [No need to lick Japanese yogurt lids](http://9gag.com/gag/a0eb0Vz)<!-- MEMES:END -->
 
 --- 
 
