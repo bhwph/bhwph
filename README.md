@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Breaking in](http://9gag.com/gag/aVvqKWy)
- - 😝 [Bro thought he was John wick](http://9gag.com/gag/amoYGP2)
- - 👉 [Harsh indeed](http://9gag.com/gag/a6Zb9Nq)<!-- MEMES:END -->
+ - 6️⃣ [This Parasite Replaces A Fish&#39;s Tongue](http://9gag.com/gag/a4PbNwd)
+ - 😝 [No need to lick Japanese yogurt lids](http://9gag.com/gag/a0eb0Vz)
+ - 👉 [Breaking in](http://9gag.com/gag/aVvqKWy)<!-- MEMES:END -->
 
 --- 
 
