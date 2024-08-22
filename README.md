@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This Parasite Replaces A Fish&#39;s Tongue](http://9gag.com/gag/a4PbNwd)
- - 😝 [No need to lick Japanese yogurt lids](http://9gag.com/gag/a0eb0Vz)
- - 👉 [Breaking in](http://9gag.com/gag/aVvqKWy)<!-- MEMES:END -->
+ - 6️⃣ [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
+ - 😝 [Emma Watson&#39;s speech on `feminism`](http://9gag.com/gag/axyVyp1)
+ - 👉 [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)<!-- MEMES:END -->
 
 --- 
 
