@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Myth: Wukong: The Kotaku Review](https://kotaku.com/black-myth-wukong-review-soulslike-pc-ps5-1851629456)
- - [Hands-On: Marvel Rivals Does Right By Captain America And Winter Soldier](https://kotaku.com/marvel-rivals-captain-america-winter-soldier-bucky-1851629454)
- - [The Casting of Frank Stone’s Features: Everything to Know](https://news.xbox.com/en-us/2024/08/22/casting-of-frank-stone-features/)<!-- GAME:END -->
+ - [Tactical Breach Wizards is a near-perfect blend of wits and witchery](https://www.polygon.com/gaming/441617/tactical-breach-wizards-review)
+ - [The slickest superhero RPG I’ve ever seen is on sale for $20](https://www.polygon.com/tabletop-games/443031/the-slickest-superhero-rpg-ive-ever-seen-is-on-sale-for-20)
+ - [Warcraft VP on what Blizzard should&#39;ve done differently over the last 20 years: &#39;We should have listened more&#39;](https://www.pcgamer.com/games/world-of-warcraft/warcraft-vp-on-what-blizzard-should-have-done-differently-over-the-game-s-20-years-we-should-have-listened-more)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
