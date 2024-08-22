@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wear OS 5: Features, release date, and more](https://www.androidauthority.com/wear-os-5-3424860/)
- - [A look at the facial recognition systems becoming common at major league sporting venues, like the MLB&#39;s Go-Ahead Entry, as privacy advocates raise concerns &lpar;Caroline Haskins/Wired&rpar;](http://www.techmeme.com/240822/p4#a240822p4)
- - [Japan Launches a Development Project for Self-Driving EV Taxis](https://www.wired.com/story/japan-self-driving-ev-taxis-tier-iv/)<!-- TECH:END -->
+ - [Baidu reports Q2 revenue flat YoY to ~$4.67B, vs. ~$4.7B est., net income down 8% YoY to ~$1B, vs. ~$900M est., online marketing revenue down 2% YoY to ~$2.7B &lpar;Reuters&rpar;](http://www.techmeme.com/240822/p9#a240822p9)
+ - [AI terms explained: Here’s what important AI jargon really means](https://www.androidauthority.com/ai-terms-explained-3472277/)
+ - [The Green Economy Is Hungry for Copper—and People Are Stealing, Fighting, and Dying to Feed It](https://www.wired.com/story/power-metal-green-economy-is-hungry-for-copper/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
