@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Massive iPhone 16 leak reveals everything you need to know about the cameras](https://www.androidauthority.com/iphone-16-camera-details-3474342/)
- - [Apple unveils iOS 18 changes to comply with the EU&#39;s DMA: browser choice screen updates, more default app settings, and letting users delete some system apps &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240822/p23#a240822p23)
- - [Apple tweaking how default browsers are selected in EU](https://appleinsider.com/articles/24/08/22/apple-tweaking-how-default-browsers-are-selected-in-eu?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Stripe plans a tender offer to buy back shares held by current employees with its own cash; Stripe is offering $27.51/share, implying a $70B valuation &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240822/p28#a240822p28)
+ - [You won’t believe how many ways Google has improved the new-phone migration process](https://www.androidauthority.com/pixel-9-data-migration-3474407/)
+ - [The best new streaming movies this week: Nice Girls, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
