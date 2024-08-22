@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu reports Q2 revenue flat YoY to ~$4.67B, vs. ~$4.7B est., net income down 8% YoY to ~$1B, vs. ~$900M est., online marketing revenue down 2% YoY to ~$2.7B &lpar;Reuters&rpar;](http://www.techmeme.com/240822/p9#a240822p9)
- - [AI terms explained: Here’s what important AI jargon really means](https://www.androidauthority.com/ai-terms-explained-3472277/)
- - [The Green Economy Is Hungry for Copper—and People Are Stealing, Fighting, and Dying to Feed It](https://www.wired.com/story/power-metal-green-economy-is-hungry-for-copper/)<!-- TECH:END -->
+ - [Spotify shuffle isn’t shuffling? You’re not alone](https://www.androidauthority.com/spotify-shuffle-isnt-shuffling-3474262/)
+ - [Periphery Synthetic is a chill, accessible audio dream](https://www.theverge.com/24225210/periphery-synthetic-accessible-audio-game-steam)
+ - [Exclusive: every iPhone 16 &amp; iPhone 16 Pro camera spec &amp; Capture Button detail revealed](https://appleinsider.com/articles/24/08/22/exclusive-every-iphone-16-iphone-16-pro-camera-spec-capture-button-detail-revealed?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
