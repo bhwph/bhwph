@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
- - 😝 [Emma Watson&#39;s speech on `feminism`](http://9gag.com/gag/axyVyp1)
- - 👉 [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)<!-- MEMES:END -->
+ - 6️⃣ [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)
+ - 😝 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
+ - 👉 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)<!-- MEMES:END -->
 
 --- 
 
