@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation VR2 PC Adapter review](https://www.pcgamer.com/hardware/vr-hardware/playstation-vr2-pc-adapter-review)
- - [Overwatch 2 x World of Warcraft: Crossing Worlds for the Crossover Event](https://news.xbox.com/en-us/2024/08/22/overwatch-2-world-of-warcraft-widowmaker-sylvanas-skin/)
- - [Fortnite&#39;s Marvel-Based Season Has A Secret Gwenpool Quest!](https://kotaku.com/fortnite-chapter-5-season-4-secret-gwenpool-quest-1851625432)<!-- GAME:END -->
+ - [How To Beat The Early Wukong Boss That&#39;s Destroying Everyone, The Wandering Wight](https://kotaku.com/black-myth-wukong-wandering-wight-boss-guide-how-defeat-1851629253)
+ - [2023’s Magic: The Gathering heist spawned 2024&amp;#8217;s best Gen Con cosplay](https://www.polygon.com/gen-con/442814/2023s-magic-the-gathering-heist-spawned-2024s-best-gen-con-cosplay)
+ - [Monster Hunter Wilds: hands-on report](https://blog.playstation.com/2024/08/22/monster-hunter-wilds-hands-on-report/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
