@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD admits its chips actually have gaming &#39;parity&#39; with Intel&#39;s 14th Gen, suggests lacklustre Ryzen 9000 performance could be because we&#39;re not fiddling with Windows&#39; backend](https://www.pcgamer.com/hardware/processors/amd-admits-its-chips-actually-have-gaming-parity-with-intels-14th-gen-suggests-lacklustre-ryzen-9000-performance-could-be-because-were-not-fiddling-with-windows-backend)
- - [Starfield: Shattered Space Is a Narrative-Driven, Horror-Inflected Expansion to the Galaxy](https://news.xbox.com/en-us/2024/08/22/starfield-shattered-space-release-date-preview/)
- - [Concord dev reflects on the last 8 years of development, &#39;We don&#39;t get a lot of launch days in our careers&#39;](https://www.pcgamer.com/games/fps/concord-dev-reflects-on-the-last-8-years-of-development-we-dont-get-a-lot-of-launch-days-in-our-careers)<!-- GAME:END -->
+ - [PlayStation VR2 PC Adapter review](https://www.pcgamer.com/hardware/vr-hardware/playstation-vr2-pc-adapter-review)
+ - [Overwatch 2 x World of Warcraft: Crossing Worlds for the Crossover Event](https://news.xbox.com/en-us/2024/08/22/overwatch-2-world-of-warcraft-widowmaker-sylvanas-skin/)
+ - [Fortnite&#39;s Marvel-Based Season Has A Secret Gwenpool Quest!](https://kotaku.com/fortnite-chapter-5-season-4-secret-gwenpool-quest-1851625432)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
