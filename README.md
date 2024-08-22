@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Stripe plans a tender offer to buy back shares held by current employees with its own cash; Stripe is offering $27.51/share, implying a $70B valuation &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240822/p28#a240822p28)
- - [You won’t believe how many ways Google has improved the new-phone migration process](https://www.androidauthority.com/pixel-9-data-migration-3474407/)
- - [The best new streaming movies this week: Nice Girls, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
+ - [Here’s the phone that could bring back 10x optical zoom](https://www.androidauthority.com/oppo-find-x8-pro-zoom-3474480/)
+ - [Save 50%on the Google Nest Audio smart speaker!](https://www.androidauthority.com/google-nest-audio-deal-3474499/)
+ - [Donald Trump promotes his family&#39;s forthcoming crypto platform, The DeFiant Ones, in a post on Truth Social, mentioning a Telegram channel but few other details &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240822/p30#a240822p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
