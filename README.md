@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Eva about Britain](http://9gag.com/gag/aGy1800)
- - 😝 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
- - 👉 [Get your own sword](http://9gag.com/gag/avyGW5d)<!-- MEMES:END -->
+ - 6️⃣ [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)
+ - 😝 [Mic drop](http://9gag.com/gag/ajPXLxw)
+ - 👉 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)<!-- MEMES:END -->
 
 --- 
 
