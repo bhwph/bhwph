@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)
- - 😝 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
- - 👉 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)<!-- MEMES:END -->
+ - 6️⃣ [Take me home](http://9gag.com/gag/awynLbW)
+ - 😝 [Don&#39;t forget to use your paper straws!](http://9gag.com/gag/a4Pbzp1)
+ - 👉 [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)<!-- MEMES:END -->
 
 --- 
 
