@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Take me home](http://9gag.com/gag/awynLbW)
- - 😝 [Don&#39;t forget to use your paper straws!](http://9gag.com/gag/a4Pbzp1)
- - 👉 [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)<!-- MEMES:END -->
+ - 6️⃣ [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)
+ - 😝 [Emma Watson&#39;s speech on `feminism`](http://9gag.com/gag/axyVyp1)
+ - 👉 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)<!-- MEMES:END -->
 
 --- 
 
