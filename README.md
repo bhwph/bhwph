@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tactical Breach Wizards is a near-perfect blend of wits and witchery](https://www.polygon.com/gaming/441617/tactical-breach-wizards-review)
- - [The slickest superhero RPG I’ve ever seen is on sale for $20](https://www.polygon.com/tabletop-games/443031/the-slickest-superhero-rpg-ive-ever-seen-is-on-sale-for-20)
- - [Warcraft VP on what Blizzard should&#39;ve done differently over the last 20 years: &#39;We should have listened more&#39;](https://www.pcgamer.com/games/world-of-warcraft/warcraft-vp-on-what-blizzard-should-have-done-differently-over-the-game-s-20-years-we-should-have-listened-more)<!-- GAME:END -->
+ - [This upcoming &#39;survival-action game&#39; looks like Stalker crossed with an episode of your mom&#39;s favorite British murder-mystery show](https://www.pcgamer.com/games/fps/this-upcoming-survival-action-game-looks-like-stalker-crossed-with-an-episode-of-your-mom-s-favorite-british-murder-mystery-show)
+ - [11 Monster Hunter Wilds features from the Gamescom dev streams that have me hooting and hollering like an inbound Bazelgeuse](https://www.pcgamer.com/games/rpg/11-monster-hunter-wilds-features-from-the-gamescom-dev-streams-that-have-me-hooting-and-hollering-like-an-inbound-bazelgeuse)
+ - [Revenge Of The Savage Planet Is A Surprising Sequel To A Great Metroidvania](https://kotaku.com/return-to-the-savage-planet-preview-sequel-metroidvania-1851629714)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
