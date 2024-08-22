@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reaches a $250 million deal to skirt proposed journalism bill](https://www.theverge.com/2024/8/22/24225986/google-california-newsroom-deal-cjpa-journalism)
- - [Paramount’s merger: all the news on the drawn-out takeover drama](https://www.theverge.com/2024/3/12/24098476/paramount-merger-rumors-deals-news)
- - [Apple is still standing in the way of Epic’s app store](https://www.theverge.com/2024/8/22/24225634/apple-epic-games-store-ios-developers)<!-- TECH:END -->
+ - [Massive iPhone 16 leak reveals everything you need to know about the cameras](https://www.androidauthority.com/iphone-16-camera-details-3474342/)
+ - [Apple unveils iOS 18 changes to comply with the EU&#39;s DMA: browser choice screen updates, more default app settings, and letting users delete some system apps &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240822/p23#a240822p23)
+ - [Apple tweaking how default browsers are selected in EU](https://appleinsider.com/articles/24/08/22/apple-tweaking-how-default-browsers-are-selected-in-eu?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
