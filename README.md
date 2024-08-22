@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify shuffle isn’t shuffling? You’re not alone](https://www.androidauthority.com/spotify-shuffle-isnt-shuffling-3474262/)
- - [Periphery Synthetic is a chill, accessible audio dream](https://www.theverge.com/24225210/periphery-synthetic-accessible-audio-game-steam)
- - [Exclusive: every iPhone 16 &amp; iPhone 16 Pro camera spec &amp; Capture Button detail revealed](https://appleinsider.com/articles/24/08/22/exclusive-every-iphone-16-iphone-16-pro-camera-spec-capture-button-detail-revealed?utm_medium=rss)<!-- TECH:END -->
+ - [Google reaches a $250 million deal to skirt proposed journalism bill](https://www.theverge.com/2024/8/22/24225986/google-california-newsroom-deal-cjpa-journalism)
+ - [Paramount’s merger: all the news on the drawn-out takeover drama](https://www.theverge.com/2024/3/12/24098476/paramount-merger-rumors-deals-news)
+ - [Apple is still standing in the way of Epic’s app store](https://www.theverge.com/2024/8/22/24225634/apple-epic-games-store-ios-developers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
