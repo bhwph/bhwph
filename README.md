@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)
- - 😝 [I know Wednesday didn&#39;t come yet, still...](http://9gag.com/gag/a7oroyr)
- - 👉 [Fame shame](http://9gag.com/gag/a5QbQer)<!-- MEMES:END -->
+ - 6️⃣ [Breaking in](http://9gag.com/gag/aVvqKWy)
+ - 😝 [Bro thought he was John wick](http://9gag.com/gag/amoYGP2)
+ - 👉 [Harsh indeed](http://9gag.com/gag/a6Zb9Nq)<!-- MEMES:END -->
 
 --- 
 
