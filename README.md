@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
- - 😝 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)
- - 👉 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)<!-- MEMES:END -->
+ - 6️⃣ [\u201cOh sorry I bumped into you\u2026.\u201d](http://9gag.com/gag/aMV8nyW)
+ - 😝 [I&#39;m in!](http://9gag.com/gag/aXPq449)
+ - 👉 [When you arrest people for internet posts, they start posting in real life.](http://9gag.com/gag/a34q8j1)<!-- MEMES:END -->
 
 --- 
 
