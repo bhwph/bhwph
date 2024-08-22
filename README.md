@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)
- - 😝 [Emma Watson&#39;s speech on `feminism`](http://9gag.com/gag/axyVyp1)
- - 👉 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)<!-- MEMES:END -->
+ - 6️⃣ [Eva about Britain](http://9gag.com/gag/aGy1800)
+ - 😝 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
+ - 👉 [Get your own sword](http://9gag.com/gag/avyGW5d)<!-- MEMES:END -->
 
 --- 
 
