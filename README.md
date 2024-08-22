@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Beat The Early Wukong Boss That&#39;s Destroying Everyone, The Wandering Wight](https://kotaku.com/black-myth-wukong-wandering-wight-boss-guide-how-defeat-1851629253)
- - [2023’s Magic: The Gathering heist spawned 2024&amp;#8217;s best Gen Con cosplay](https://www.polygon.com/gen-con/442814/2023s-magic-the-gathering-heist-spawned-2024s-best-gen-con-cosplay)
- - [Monster Hunter Wilds: hands-on report](https://blog.playstation.com/2024/08/22/monster-hunter-wilds-hands-on-report/)<!-- GAME:END -->
+ - [Black Myth: Wukong: The Kotaku Review](https://kotaku.com/black-myth-wukong-review-soulslike-pc-ps5-1851629456)
+ - [Hands-On: Marvel Rivals Does Right By Captain America And Winter Soldier](https://kotaku.com/marvel-rivals-captain-america-winter-soldier-bucky-1851629454)
+ - [The Casting of Frank Stone’s Features: Everything to Know](https://news.xbox.com/en-us/2024/08/22/casting-of-frank-stone-features/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
