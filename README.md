@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study shows your smartwatch and fitness trackers are lying to you](https://www.androidauthority.com/fitness-health-tracking-devices-limitations-study-3474029/)
- - [LiteSpeed Cache, the top WordPress site acceleration plugin, had a critical flaw that left sites open to takeover attacks; 2M+ sites are likely still vulnerable &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240821/p32#a240821p32)
- - [Planning to Install a Solar Panel System? Here&#39;s How Much It May Cost](https://www.cnet.com/home/energy-and-utilities/solar-panel-cost/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s a neat trick to speed up your migration to the Google Pixel 9](https://www.androidauthority.com/speed-up-data-transfer-google-pixel-9-3473623/)
+ - [Neuralink says surgery for its second human implant &quot;went well&quot; and the patient, who had a spinal cord injury, can design 3D objects and play Counter-Strike 2 &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240822/p2#a240822p2)
+ - [The unsealed list of X Holdings shareholders names nearly 100 entities, including 8VC, Italy-based UnipolSai S.P.A., and a fund linked with Sean &quot;Diddy&quot; Combs &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240822/p1#a240822p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
