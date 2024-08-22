@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s a neat trick to speed up your migration to the Google Pixel 9](https://www.androidauthority.com/speed-up-data-transfer-google-pixel-9-3473623/)
- - [Neuralink says surgery for its second human implant &quot;went well&quot; and the patient, who had a spinal cord injury, can design 3D objects and play Counter-Strike 2 &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240822/p2#a240822p2)
- - [The unsealed list of X Holdings shareholders names nearly 100 entities, including 8VC, Italy-based UnipolSai S.P.A., and a fund linked with Sean &quot;Diddy&quot; Combs &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240822/p1#a240822p1)<!-- TECH:END -->
+ - [Google Wear OS 5: Features, release date, and more](https://www.androidauthority.com/wear-os-5-3424860/)
+ - [A look at the facial recognition systems becoming common at major league sporting venues, like the MLB&#39;s Go-Ahead Entry, as privacy advocates raise concerns &lpar;Caroline Haskins/Wired&rpar;](http://www.techmeme.com/240822/p4#a240822p4)
+ - [Japan Launches a Development Project for Self-Driving EV Taxis](https://www.wired.com/story/japan-self-driving-ev-taxis-tier-iv/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
