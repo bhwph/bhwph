@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9 makes it easier to add important events to your calendar](https://www.androidauthority.com/google-pixel-9-add-to-calendar-3474094/)
- - [Google Gemini AI Adds New Features for Polishing Emails](https://www.cnet.com/tech/services-and-software/google-gemini-ai-adds-new-features-for-polishing-emails/#ftag=CAD590a51e)
- - [Most Efficient Solar Panels for 2024: New Record-Setting Panel Tops the List](https://www.cnet.com/home/energy-and-utilities/most-efficient-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US district judge rules X Holdings should unseal its corporate disclosure statement by September 4, revealing X and xAI shareholders fully for the first time &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/240821/p30#a240821p30)
+ - [Reanimal Is Another Grotesquely Beautiful Platformer Demoed at Gamescom video](https://www.cnet.com/videos/reanimal-is-another-grotesquely-beautiful-platformer-demoed-at-gamescom/#ftag=CAD590a51e)
+ - [Deal: The best ANC headphones return to Amazon Prime Day prices](https://www.androidauthority.com/bose-quietcomfort-ultra-headphones-deal-3474019/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
