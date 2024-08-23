@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an email, Elon Musk says X plans to award stock options based on employees&#39; anticipated impact, and tells them to submit a summary of their contributions &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240823/p13#a240823p13)
- - [Ring’s flexible Pan-Tilt Indoor Cam is on sale for the first time today](https://www.theverge.com/2024/8/23/24225610/ring-pan-tilt-indoor-cam-animal-crossing-nintendo-switch-lite-deal-sale)
- - [Black Myth: Wukong is too mediocre for all this drama](https://www.theverge.com/2024/8/23/24226834/black-myth-wukong-hands-on-impression-game-science)<!-- TECH:END -->
+ - [Changing this setting could dramatically improve your Galaxy Watch 7’s battery](https://www.androidauthority.com/galaxy-watch-7-battery-3474710/)
+ - [Families can sue app developer for breaking its anti-bullying pledge, says court](https://www.theverge.com/2024/8/23/24226865/yolo-snap-lawsuit-section-230-bullying-appeals-court)
+ - [Online Action Movie Fandom Birthed a New Film Fest Era](https://www.wired.com/story/big-bad-film-fest/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
