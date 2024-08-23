@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wrestling Has Its Own Version Of A Console War And It&#39;s Screwing Things Up](https://kotaku.com/aew-wwe-professional-wrestling-cm-punk-mjf-cody-rhodes-1851630313)
- - [Share of the Week: Teachers](https://blog.playstation.com/2024/08/23/share-of-the-week-teachers/)
- - [Dustborn Has A Great Story To Tell When Bad Combat&#39;s Not Getting In The Way](https://kotaku.com/dustborn-impressions-preview-characters-combat-rhythm-1851630273)<!-- GAME:END -->
+ - [Diablo IV Is Cheap Ahead Of Vessel Of Hatred, And You Can Try It For Free If You Hurry](https://kotaku.com/diablo-4-free-trial-sale-steam-deck-pc-vessel-hatred-1851630535)
+ - [Using the D&amp;#038;D Beyond digital toolset is going to get worse before it gets better](https://www.polygon.com/dnd-dungeons-dragons/443394/dnd-beyond-changelog-phb-launch-date-character-sheets)
+ - [Black Myth: Wukong is already one of the fastest-selling games of all time, moving almost as many units in one week as Elden Ring and Cyberpunk did in their first months](https://www.pcgamer.com/games/action/black-myth-wukong-is-already-one-of-the-fastest-selling-games-of-all-time-moving-almost-as-many-units-in-one-week-as-elden-ring-and-cyberpunk-did-in-their-first-months)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
