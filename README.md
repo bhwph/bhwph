@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV Is Cheap Ahead Of Vessel Of Hatred, And You Can Try It For Free If You Hurry](https://kotaku.com/diablo-4-free-trial-sale-steam-deck-pc-vessel-hatred-1851630535)
- - [Using the D&amp;#038;D Beyond digital toolset is going to get worse before it gets better](https://www.polygon.com/dnd-dungeons-dragons/443394/dnd-beyond-changelog-phb-launch-date-character-sheets)
- - [Black Myth: Wukong is already one of the fastest-selling games of all time, moving almost as many units in one week as Elden Ring and Cyberpunk did in their first months](https://www.pcgamer.com/games/action/black-myth-wukong-is-already-one-of-the-fastest-selling-games-of-all-time-moving-almost-as-many-units-in-one-week-as-elden-ring-and-cyberpunk-did-in-their-first-months)<!-- GAME:END -->
+ - [Dying Light: The Beast is more of the same, but with superpowers](https://www.polygon.com/preview/443640/dying-light-the-beast-is-more-of-the-same-but-with-superpowers)
+ - [Kotaku’s Weekend Guide: 6 Games We Can&#39;t Wait To Get Back To](https://kotaku.com/what-to-play-recommendations-robcop-order-1886-1851630601)
+ - [9 Things We Learned About Monster Hunter Wilds At Gamescom](https://kotaku.com/monster-hunter-wilds-gamescom-new-features-1851630592)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
