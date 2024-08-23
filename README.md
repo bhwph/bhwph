@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Do Not Disturb mode is being supercharged in Android 15: Here’s how](https://www.androidauthority.com/android-15-priority-modes-3474550/)
- - [Nintendo ending &#39;Animal Crossing: Pocket Camp&#39;, plans offline relaunch](https://appleinsider.com/articles/24/08/22/nintendo-ending-animal-crossing-pocket-camp-plans-offline-relaunch?utm_medium=rss)
- - [Uber teams up with Cruise to deliver more autonomous rides next year](https://www.theverge.com/2024/8/22/24226331/uber-cruise-autonomous-rides)<!-- TECH:END -->
+ - [Shareholders approve upgrading Alibaba&#39;s Hong Kong listing, which expects to attract billions of dollars in Chinese investment, to primary status on August 28 &lpar;Edwin Chan/Bloomberg&rpar;](http://www.techmeme.com/240822/p36#a240822p36)
+ - [Microsoft confirms the Windows Control Panel, which debuted in 1985 with Windows 1.0, is &quot;in the process of being deprecated in favor of the Settings app&quot; &lpar;Sayan Sen/Neowin&rpar;](http://www.techmeme.com/240822/p35#a240822p35)
+ - [Silverbear, an investor named in Bolt&#39;s financial docs for a $450M raise, says it was &quot;never in this deal&quot;, as some investors consider legal action against Bolt &lpar;Forbes&rpar;](http://www.techmeme.com/240822/p34#a240822p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
