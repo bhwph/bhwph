@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Ring teardown: disposable tech built not to last over two years due to lithium ion batteries that can&#39;t be replaced without destroying the device &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240823/p2#a240823p2)
- - [This app lets you listen to any book, article or PDF thanks to AI](https://www.androidauthority.com/elevenlabs-reader-app-3474174/)
- - [Best Solar-Powered Home Security Cameras for 2024](https://www.cnet.com/home/security/best-solar-powered-home-security-camera/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Japanese chipmaker Kioxia applies for a Tokyo Stock Exchange listing; source: Kioxia plans to list as soon as October and raise $500M+ at a $10B+ valuation &lpar;Leo Lewis/Financial Times&rpar;](http://www.techmeme.com/240823/p3#a240823p3)
+ - [ElevenLabs’ AI Reader app can now narrate text in 32 languages](https://www.theverge.com/2024/8/23/24226643/elevenlabs-ai-reader-app-32-languages-global-release)
+ - [When War Came to Their Country, They Built a Map](https://www.wired.com/story/deep-state-ukraine-map/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
