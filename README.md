@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink says satellite internet kits purchased in one of six regions and activated in another may be subjected to a &quot;outside region fee&quot; of up to $300 &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240823/p8#a240823p8)
- - [Trump’s New Silicon Valley Supporters Really Want You to Forget He Called Nazis ‘Fine People’](https://www.wired.com/story/trump-silicon-valley-elon-musk-neo-nazis-fine-people/)
- - [Want to delete the App Store? Apple will soon let you delete core apps, and change its defaults](https://www.androidauthority.com/iphone-delete-stock-apps-3474624/)<!-- TECH:END -->
+ - [In an email, Elon Musk says X plans to award stock options based on employees&#39; anticipated impact, and tells them to submit a summary of their contributions &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240823/p13#a240823p13)
+ - [Ring’s flexible Pan-Tilt Indoor Cam is on sale for the first time today](https://www.theverge.com/2024/8/23/24225610/ring-pan-tilt-indoor-cam-animal-crossing-nintendo-switch-lite-deal-sale)
+ - [Black Myth: Wukong is too mediocre for all this drama](https://www.theverge.com/2024/8/23/24226834/black-myth-wukong-hands-on-impression-game-science)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
