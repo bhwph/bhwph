@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Redmagic Titan 16 Pro: A legend awakens](https://www.pcgamer.com/hardware/gaming-laptops/redmagic-titan-16-pro-a-legend-awakens)
- - [Yes, Black Myth: Wukong A Has New Game Plus Mode](https://kotaku.com/does-black-myth-wukong-have-new-game-plus-mode-1851629196)
- - [You can tell the new Heroes of Might and Magic game is meant to be a throwback to when the series was good because they&#39;re not insisting we call it Might and Magic: Heroes this time](https://www.pcgamer.com/games/strategy/you-can-tell-the-new-heroes-of-might-and-magic-game-is-meant-to-be-a-throwback-to-when-the-series-was-good-because-theyre-not-insisting-we-call-it-might-and-magic-heroes-this-time)<!-- GAME:END -->
+ - [Bungie&#39;s pre-Halo FPS Classic Marathon Infinity just launched on Steam for free, meaning you can now play the entire Marathon trilogy for the low price of nothing](https://www.pcgamer.com/games/fps/bungies-pre-halo-fps-classic-marathon-infinity-just-launched-on-steam-for-free-meaning-you-can-now-play-the-entire-marathon-trilogy-for-the-low-price-of-nothing)
+ - [Asus has finally come up with the easy-release GPU slot we&#39;ve all been crying out for](https://www.pcgamer.com/hardware/graphics-cards/asus-has-finally-come-up-with-the-easy-release-gpu-slot-weve-all-been-crying-out-for)
+ - [Elgato Facecam Neo review](https://www.pcgamer.com/hardware/webcams/elgato-facecam-neo-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
