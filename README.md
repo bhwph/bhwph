@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trump&#39;s Mic Drop &lpar;with good sound&rpar;](http://9gag.com/gag/aYQxMEw)
- - 😝 [She failed to captcha his heart](http://9gag.com/gag/aZZm8b6)
- - 👉 [I remember when my cousins and I went to play this game thinking it was just `Dolphin simulator`, but as wel played we wondered what the hell were the developers smoking when they did this.](http://9gag.com/gag/aE0YWme)<!-- MEMES:END -->
+ - 6️⃣ [The reason I love this community](http://9gag.com/gag/a9yrXyo)
+ - 😝 [When all the trans players quite the game.](http://9gag.com/gag/aNDARZ6)
+ - 👉 [Wake up companies. Yes they are the loudest crybabies, but they are a minority that don&#39;t even consume the product they cried for. Go woke, go broke](http://9gag.com/gag/agmL22g)<!-- MEMES:END -->
 
 --- 
 
