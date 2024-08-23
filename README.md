@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)
- - 😝 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
- - 👉 [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)<!-- MEMES:END -->
+ - 6️⃣ [Canon event](http://9gag.com/gag/aD2WVMB)
+ - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 👉 [It should have been me, not him!](http://9gag.com/gag/aAyd2qR)<!-- MEMES:END -->
 
 --- 
 
