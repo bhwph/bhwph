@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Like seriously over thinking](http://9gag.com/gag/abApWQO)
- - 😝 [When you arrest people for internet posts, they start posting in real life.](http://9gag.com/gag/a34q8j1)
- - 👉 [I&#39;m in!](http://9gag.com/gag/aXPq449)<!-- MEMES:END -->
+ - 6️⃣ [Every man before &amp; after seeing their girlfriend/wife](http://9gag.com/gag/aByWEYA)
+ - 😝 [It isn&#39;t that hard to understand](http://9gag.com/gag/aW4mvw6)
+ - 👉 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)<!-- MEMES:END -->
 
 --- 
 
