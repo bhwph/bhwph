@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Canon event](http://9gag.com/gag/aD2WVMB)
- - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
- - 👉 [It should have been me, not him!](http://9gag.com/gag/aAyd2qR)<!-- MEMES:END -->
+ - 6️⃣ [Trump&#39;s Mic Drop &lpar;with good sound&rpar;](http://9gag.com/gag/aYQxMEw)
+ - 😝 [She failed to captcha his heart](http://9gag.com/gag/aZZm8b6)
+ - 👉 [I remember when my cousins and I went to play this game thinking it was just `Dolphin simulator`, but as wel played we wondered what the hell were the developers smoking when they did this.](http://9gag.com/gag/aE0YWme)<!-- MEMES:END -->
 
 --- 
 
