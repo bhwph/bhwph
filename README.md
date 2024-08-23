@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dying Light: The Beast is more of the same, but with superpowers](https://www.polygon.com/preview/443640/dying-light-the-beast-is-more-of-the-same-but-with-superpowers)
- - [Kotaku’s Weekend Guide: 6 Games We Can&#39;t Wait To Get Back To](https://kotaku.com/what-to-play-recommendations-robcop-order-1886-1851630601)
- - [9 Things We Learned About Monster Hunter Wilds At Gamescom](https://kotaku.com/monster-hunter-wilds-gamescom-new-features-1851630592)<!-- GAME:END -->
+ - [Inside Out 2, Longlegs, Netflix’s Incoming, and every movie new to streaming this week](https://www.polygon.com/entertainment/441219/new-movies-watch-inside-out-2-netflix-incoming-longlegs)
+ - [Zoë Kravitz’s horror-thriller Blink Twice is blunt, obvious, and incandescently angry](https://www.polygon.com/review/443624/blink-twice-zoe-kravitz-channing-tatum)
+ - [After 20 years of patience and negotiations, RPG veteran Brian Fargo managed to buy back a lost haul of memorabilia from Fallout, Baldur&#39;s Gate, and more: &#39;It was like a very exciting version of Storage Wars&#39;](https://www.pcgamer.com/games/fallout/after-20-years-of-patience-and-negotiations-rpg-vet-brian-fargo-has-bought-back-his-haul-of-old-school-treasures-from-fallout-baldur-s-gate-and-more-it-was-like-a-very-exciting-version-of-storage-wars)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
