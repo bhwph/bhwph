@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Changing this setting could dramatically improve your Galaxy Watch 7’s battery](https://www.androidauthority.com/galaxy-watch-7-battery-3474710/)
- - [Families can sue app developer for breaking its anti-bullying pledge, says court](https://www.theverge.com/2024/8/23/24226865/yolo-snap-lawsuit-section-230-bullying-appeals-court)
- - [Online Action Movie Fandom Birthed a New Film Fest Era](https://www.wired.com/story/big-bad-film-fest/)<!-- TECH:END -->
+ - [Apple rumor points to an iPhone 16, Watch, and AirPods launch event next month](https://www.theverge.com/2024/8/23/24227030/apple-iphone-16-watch-series-10-airpods-launch-event-date-rumor)
+ - [Apple’s highly anticipated hardware event may be right around the corner](https://www.androidauthority.com/apple-iphone-16-launch-september-3474784/)
+ - [Keep your coffee hot and your wallet fat with this Ember Mug 2 40% deal](https://www.androidauthority.com/ember-mug-2-deal-3474823/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
