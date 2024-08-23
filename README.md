@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Eleventyone](http://9gag.com/gag/aryb3dp)
- - 😝 [Kidney stone. Drink water](http://9gag.com/gag/amoY10d)
- - 👉 [No need to lick Japanese yogurt lids](http://9gag.com/gag/a0eb0Vz)<!-- MEMES:END -->
+ - 6️⃣ [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 😝 [When you arrest people for internet posts, they start posting in real life.](http://9gag.com/gag/a34q8j1)
+ - 👉 [I&#39;m in!](http://9gag.com/gag/aXPq449)<!-- MEMES:END -->
 
 --- 
 
