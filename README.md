@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stop being wrong about Assassin’s Creed Unity](https://www.polygon.com/gaming/443162/assassins-creed-unity-notre-dame-cathedral-models-debunked)
- - [Steam just updated its reviews system to show when a user has &#39;played primarily on Steam Deck&#39;](https://www.pcgamer.com/games/steam-just-updated-its-reviews-system-to-show-when-a-user-has-played-primarily-on-steam-deck)
- - [Next Week on Xbox: New Games for August 26 to 30](https://news.xbox.com/en-us/2024/08/23/next-week-on-xbox-new-games-august-26-to-30/)<!-- GAME:END -->
+ - [Wrestling Has Its Own Version Of A Console War And It&#39;s Screwing Things Up](https://kotaku.com/aew-wwe-professional-wrestling-cm-punk-mjf-cody-rhodes-1851630313)
+ - [Share of the Week: Teachers](https://blog.playstation.com/2024/08/23/share-of-the-week-teachers/)
+ - [Dustborn Has A Great Story To Tell When Bad Combat&#39;s Not Getting In The Way](https://kotaku.com/dustborn-impressions-preview-characters-combat-rhythm-1851630273)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
