@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rumor points to an iPhone 16, Watch, and AirPods launch event next month](https://www.theverge.com/2024/8/23/24227030/apple-iphone-16-watch-series-10-airpods-launch-event-date-rumor)
- - [Apple’s highly anticipated hardware event may be right around the corner](https://www.androidauthority.com/apple-iphone-16-launch-september-3474784/)
- - [Keep your coffee hot and your wallet fat with this Ember Mug 2 40% deal](https://www.androidauthority.com/ember-mug-2-deal-3474823/)<!-- TECH:END -->
+ - [Google gives Android a speed boost after memory management upgrade](https://www.androidauthority.com/android-gains-16kb-page-support-3474807/)
+ - [Visible offers T-Mobile customers $15/mo plan, locks price for five years](https://www.androidauthority.com/visible-15-month-unlimited-t-mobile-transfer-3474822/)
+ - [Best Carpet Cleaners for 2024](https://www.cnet.com/news/best-carpet-cleaners/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
