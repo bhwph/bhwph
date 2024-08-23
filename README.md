@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie&#39;s pre-Halo FPS Classic Marathon Infinity just launched on Steam for free, meaning you can now play the entire Marathon trilogy for the low price of nothing](https://www.pcgamer.com/games/fps/bungies-pre-halo-fps-classic-marathon-infinity-just-launched-on-steam-for-free-meaning-you-can-now-play-the-entire-marathon-trilogy-for-the-low-price-of-nothing)
- - [Asus has finally come up with the easy-release GPU slot we&#39;ve all been crying out for](https://www.pcgamer.com/hardware/graphics-cards/asus-has-finally-come-up-with-the-easy-release-gpu-slot-weve-all-been-crying-out-for)
- - [Elgato Facecam Neo review](https://www.pcgamer.com/hardware/webcams/elgato-facecam-neo-review)<!-- GAME:END -->
+ - [Stop being wrong about Assassin’s Creed Unity](https://www.polygon.com/gaming/443162/assassins-creed-unity-notre-dame-cathedral-models-debunked)
+ - [Steam just updated its reviews system to show when a user has &#39;played primarily on Steam Deck&#39;](https://www.pcgamer.com/games/steam-just-updated-its-reviews-system-to-show-when-a-user-has-played-primarily-on-steam-deck)
+ - [Next Week on Xbox: New Games for August 26 to 30](https://news.xbox.com/en-us/2024/08/23/next-week-on-xbox-new-games-august-26-to-30/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
