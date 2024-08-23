@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m in!](http://9gag.com/gag/aXPq449)
- - 😝 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
- - 👉 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)<!-- MEMES:END -->
+ - 6️⃣ [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
+ - 😝 [9gaggers](http://9gag.com/gag/aYQxOwV)
+ - 👉 [Hodl the door](http://9gag.com/gag/aAydKLE)<!-- MEMES:END -->
 
 --- 
 
