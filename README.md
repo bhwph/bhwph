@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 9 is great – and a problem](https://www.theverge.com/2024/8/23/24226645/google-pixel-9-review-ai-photos-problem-vergecast)
- - [Apple Vision Pro exasperations and iPhone 16 anticipation on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/23/apple-vision-pro-exasperations-and-iphone-16-anticipation-on-the-appleinsider-podcast?utm_medium=rss)
- - [Reddit is winning over advertisers with interest-based targeting via subreddits, instead of personal data; analysis: Reddit&#39;s ad revenue to reach $1.1B+ in 2024 &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240823/p7#a240823p7)<!-- TECH:END -->
+ - [Starlink says satellite internet kits purchased in one of six regions and activated in another may be subjected to a &quot;outside region fee&quot; of up to $300 &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240823/p8#a240823p8)
+ - [Trump’s New Silicon Valley Supporters Really Want You to Forget He Called Nazis ‘Fine People’](https://www.wired.com/story/trump-silicon-valley-elon-musk-neo-nazis-fine-people/)
+ - [Want to delete the App Store? Apple will soon let you delete core apps, and change its defaults](https://www.androidauthority.com/iphone-delete-stock-apps-3474624/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
