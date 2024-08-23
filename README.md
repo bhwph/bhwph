@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
- - 😝 [9gaggers](http://9gag.com/gag/aYQxOwV)
- - 👉 [Hodl the door](http://9gag.com/gag/aAydKLE)<!-- MEMES:END -->
+ - 6️⃣ [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)
+ - 😝 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
+ - 👉 [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)<!-- MEMES:END -->
 
 --- 
 
