@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japanese chipmaker Kioxia applies for a Tokyo Stock Exchange listing; source: Kioxia plans to list as soon as October and raise $500M+ at a $10B+ valuation &lpar;Leo Lewis/Financial Times&rpar;](http://www.techmeme.com/240823/p3#a240823p3)
- - [ElevenLabs’ AI Reader app can now narrate text in 32 languages](https://www.theverge.com/2024/8/23/24226643/elevenlabs-ai-reader-app-32-languages-global-release)
- - [When War Came to Their Country, They Built a Map](https://www.wired.com/story/deep-state-ukraine-map/)<!-- TECH:END -->
+ - [The Pixel 9 is great – and a problem](https://www.theverge.com/2024/8/23/24226645/google-pixel-9-review-ai-photos-problem-vergecast)
+ - [Apple Vision Pro exasperations and iPhone 16 anticipation on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/23/apple-vision-pro-exasperations-and-iphone-16-anticipation-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Reddit is winning over advertisers with interest-based targeting via subreddits, instead of personal data; analysis: Reddit&#39;s ad revenue to reach $1.1B+ in 2024 &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240823/p7#a240823p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
