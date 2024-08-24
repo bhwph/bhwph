@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, August 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-24-2024)
  - [Valve&#39;s Deadlock has finally been announced, and it&#39;s as much a MOBA as it is a shooter](https://www.pcgamer.com/games/third-person-shooter/valves-deadlock-has-finally-been-announced-and-its-as-much-a-moba-as-it-is-a-shooter)
- - [After four months, hundreds of leaked gameplay videos, and everybody you know having played it, Valve finally admitted Deadlock exists](https://www.pcgamer.com/games/third-person-shooter/after-four-months-hundreds-of-leaked-gameplay-videos-and-everybody-you-know-having-played-it-valve-finally-admitted-deadlock-exists)
- - [Life Is Strange: Double Exposure is more of a puzzle game than I expected](https://www.polygon.com/preview/443719/life-is-strange-double-exposure-is-more-of-a-puzzle-game-than-i-expected)<!-- GAME:END -->
+ - [After four months, hundreds of leaked gameplay videos, and everybody you know having played it, Valve finally admitted Deadlock exists](https://www.pcgamer.com/games/third-person-shooter/after-four-months-hundreds-of-leaked-gameplay-videos-and-everybody-you-know-having-played-it-valve-finally-admitted-deadlock-exists)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
