@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Giant 2492 carat diamond found in Botswana. Here&#39;s the President inspecting it.](http://9gag.com/gag/aByW4K2)
- - 😝 [I remember when my cousins and I went to play this game thinking it was just `Dolphin simulator`, but as wel played we wondered what the hell were the developers smoking when they did this.](http://9gag.com/gag/aE0YWme)
- - 👉 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)<!-- MEMES:END -->
+ - 6️⃣ [The reason I love this community](http://9gag.com/gag/a9yrXyo)
+ - 😝 [At least is from Ikea and not Walmart](http://9gag.com/gag/a7orNDL)
+ - 👉 [Take me back](http://9gag.com/gag/arybBQ0)<!-- MEMES:END -->
 
 --- 
 
