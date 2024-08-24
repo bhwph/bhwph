@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I remember when my cousins and I went to play this game thinking it was just `Dolphin simulator`, but as wel played we wondered what the hell were the developers smoking when they did this.](http://9gag.com/gag/aE0YWme)
- - 😝 [It&#39;s always these guys..](http://9gag.com/gag/ae9bm8v)
- - 👉 [`I Understand His Choices`](http://9gag.com/gag/aD2WXYZ)<!-- MEMES:END -->
+ - 6️⃣ [At least is from Ikea and not Walmart](http://9gag.com/gag/a7orNDL)
+ - 😝 [The reason I love this community](http://9gag.com/gag/a9yrXyo)
+ - 👉 [Creativity at its finest](http://9gag.com/gag/aQz9Z8e)<!-- MEMES:END -->
 
 --- 
 
