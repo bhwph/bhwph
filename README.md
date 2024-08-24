@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies leaving Netflix, Max, and Prime at the end of August 2024](https://www.polygon.com/recommendations/443730/best-movies-netflix-amazon-hulu-leaving-august-2024)
- - [Every Kotaku Black Myth: Wukong Guide From The Game&#39;s First Week](https://kotaku.com/black-myth-wukong-guides-and-walkthroughs-1851630887)
- - [Keychron K2 HE review](https://www.pcgamer.com/hardware/gaming-keyboards/keychron-k2-he-review)<!-- GAME:END -->
+ - [Star Wars Outlaws might fulfill the promise of multiple Star Wars failures](https://www.polygon.com/star-wars/443422/star-wars-outlaws-underworld-video-games)
+ - [Indiana Jones Looks Thrilling, Tactical Breach Wizards Is Brilliant, And More Of The Week&#39;s Opinions](https://kotaku.com/gamescom-indiana-jones-great-circle-starfield-shattered-1851630380)
+ - [Every Big Announcement From Gamescom, Breaking Down The Borderlands 4 Trailer, And More Of The Week&#39;s Gaming News](https://kotaku.com/gamescom-borderlands-4-trailer-gaming-news-1851630378)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
