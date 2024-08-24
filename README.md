@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Indiana Jones and the Great Circle devs say an Indy game &#39;could never be a shooter, should never be a shooter,&#39; so they&#39;re embracing his signature whip, improvised brawls, and disguise-based stealth instead](https://www.pcgamer.com/games/fps/indiana-jones-and-the-great-circle-devs-say-an-indy-game-could-never-be-a-shooter-should-never-be-a-shooter-so-they-re-embracing-his-signature-whip-improvised-brawls-and-disguise-based-stealth-instead)
- - [Crimson Desert’s wild combat left me skeptical at Gamescom](https://www.polygon.com/gamescom/443884/crimson-desert-hands-on-gamescom)
- - [14 Things We Noticed In Dragon Age: The Veilguard’s Combat Showcase](https://kotaku.com/dragon-age-veilguard-warrior-combat-trailer-rook-davrin-1851630999)<!-- GAME:END -->
+ - [Players seem to like Concord, but its $40 price tag has led to a tepid first weekend on PC](https://www.pcgamer.com/games/fps/players-seem-to-like-concord-but-its-40-price-tag-has-led-to-a-tepid-first-weekend-on-pc)
+ - [Sekiro was so influential, even the next big BioWare and Obsidian RPGs are adding parries and stagger meters](https://www.pcgamer.com/games/rpg/sekiro-was-so-influential-even-the-next-big-bioware-and-obsidian-rpgs-are-adding-parries-and-stagger-meters)
+ - [Indiana Jones and the Great Circle devs say an Indy game &#39;could never be a shooter, should never be a shooter,&#39; so they&#39;re embracing his signature whip, improvised brawls, and disguise-based stealth instead](https://www.pcgamer.com/games/fps/indiana-jones-and-the-great-circle-devs-say-an-indy-game-could-never-be-a-shooter-should-never-be-a-shooter-so-they-re-embracing-his-signature-whip-improvised-brawls-and-disguise-based-stealth-instead)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
