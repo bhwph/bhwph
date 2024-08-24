@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ sues Georgia Tech and an affiliate company, alleging failures since at least 2019 to meet the DOD&#39;s cybersecurity standards for contract awardees &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/240823/p20#a240823p20)
- - [This amazing battery can power your home, EV, or RV, and it’s $1,300 off right now](https://www.androidauthority.com/anker-solix-f3800-portable-power-station-deal-3474820/)
- - [Best Internet Providers in Murfreesboro, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-murfreesboro-tn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in McKinney, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-mckinney-tx/#ftag=CAD590a51e)
+ - [Best Electric Lawn Mower of 2024](https://www.cnet.com/news/best-electric-lawn-mower/#ftag=CAD590a51e)
+ - [WazirX plans to start allowing limited Indian rupee withdrawals in two phases from August 26, after freezing them in the wake of a $230M exploit in July &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240824/p1#a240824p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
