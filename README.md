@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Determined Woman In Her 40&#39;s Becomes A Marathon Runner](http://9gag.com/gag/aW4mb3q)
- - 😝 [At least is from Ikea and not Walmart](http://9gag.com/gag/a7orNDL)
- - 👉 [Take me back](http://9gag.com/gag/arybBQ0)<!-- MEMES:END -->
+ - 6️⃣ [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
+ - 😝 [Dude just remembered that the cops can&#39;t chase him...](http://9gag.com/gag/avyGvXd)
+ - 👉 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)<!-- MEMES:END -->
 
 --- 
 
