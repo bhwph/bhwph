@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I never thought I’d carry a pink phone, but the Pixel 9 Pro changed my mind](https://www.androidauthority.com/pink-pixel-9-pro-3473346/)
- - [ANC controls in the Android 15 volume panel are likely coming back for the stable release](https://www.androidauthority.com/android-15-anc-controls-3474984/)
- - [Google Wallet now works for California driver’s licenses](https://www.theverge.com/2024/8/24/24227385/california-google-wallet-digital-ids-mobile-drivers-license-pilot)<!-- TECH:END -->
+ - [Labor Day deals hit Sonos speakers &amp; headphones, offering up to $280 off](https://appleinsider.com/articles/24/08/24/labor-day-deals-hit-sonos-speakers-headphones-offering-up-to-280-off?utm_medium=rss)
+ - [There should be no shortage of Ultra phones in 2025](https://www.androidauthority.com/android-ultra-phones-2025-3475003/)
+ - [Adaptive Touch quietly launches on the Google Pixel 9, works really well](https://www.androidauthority.com/google-pixel-9-adaptive-touch-feature-3474994/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
