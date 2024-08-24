@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google gives Android a speed boost after memory management upgrade](https://www.androidauthority.com/android-gains-16kb-page-support-3474807/)
- - [Visible offers T-Mobile customers $15/mo plan, locks price for five years](https://www.androidauthority.com/visible-15-month-unlimited-t-mobile-transfer-3474822/)
- - [Best Carpet Cleaners for 2024](https://www.cnet.com/news/best-carpet-cleaners/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Marshall Willen portable speaker is 46% off, the biggest discount we’ve seen on it](https://www.androidauthority.com/marshall-willen-deal-3474821/)
+ - [How to Right-Click on a Mac](https://www.cnet.com/tech/computing/how-to-right-click-on-a-mac/#ftag=CAD590a51e)
+ - [USPS Will Start Shipping Free COVID Tests Again in September. What You Need to Know](https://www.cnet.com/health/usps-will-start-shipping-free-covid-tests-again-in-september-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
