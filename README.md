@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll result: Years later, you’re still having issues with RCS messaging](https://www.androidauthority.com/rcs-android-iphone-poll-results-3474600/)
- - [How to Switch From iPhone to Android &lpar;2024&rpar;](https://www.wired.com/story/how-to-switch-from-iphone-to-android/)
- - [The one upside of the expensive Pixel 9 is that the 9a might be worth buying](https://www.androidauthority.com/9a-might-be-worth-buying-3471574/)<!-- TECH:END -->
+ - [I never thought I’d carry a pink phone, but the Pixel 9 Pro changed my mind](https://www.androidauthority.com/pink-pixel-9-pro-3473346/)
+ - [ANC controls in the Android 15 volume panel are likely coming back for the stable release](https://www.androidauthority.com/android-15-anc-controls-3474984/)
+ - [Google Wallet now works for California driver’s licenses](https://www.theverge.com/2024/8/24/24227385/california-google-wallet-digital-ids-mobile-drivers-license-pilot)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
