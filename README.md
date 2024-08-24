@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best Tablets &lpar;2024&rpar;: iPads, Androids, and More Tested and Compared](https://www.wired.com/gallery/the-best-tablets/)
- - [One of the smartest Pixel 9 Pro Fold camera tricks is actually kinda dumb](https://www.androidauthority.com/foldable-phone-flex-mode-camera-3471979/)
- - [Will the ‘Car-Free’ Los Angeles Olympics Work?](https://www.wired.com/story/how-the-car-free-los-angeles-olympics-will-work/)<!-- TECH:END -->
+ - [Poll result: Years later, you’re still having issues with RCS messaging](https://www.androidauthority.com/rcs-android-iphone-poll-results-3474600/)
+ - [How to Switch From iPhone to Android &lpar;2024&rpar;](https://www.wired.com/story/how-to-switch-from-iphone-to-android/)
+ - [The one upside of the expensive Pixel 9 is that the 9a might be worth buying](https://www.androidauthority.com/9a-might-be-worth-buying-3471574/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
