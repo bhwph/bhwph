@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some streamers say the Chinese game studio behind Black Myth: Wukong told them to avoid topics like &quot;feminist propaganda&quot; as part of an early access agreement &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/240823/p19#a240823p19)
  - [The Marshall Willen portable speaker is 46% off, the biggest discount we’ve seen on it](https://www.androidauthority.com/marshall-willen-deal-3474821/)
- - [How to Right-Click on a Mac](https://www.cnet.com/tech/computing/how-to-right-click-on-a-mac/#ftag=CAD590a51e)
- - [USPS Will Start Shipping Free COVID Tests Again in September. What You Need to Know](https://www.cnet.com/health/usps-will-start-shipping-free-covid-tests-again-in-september-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Right-Click on a Mac](https://www.cnet.com/tech/computing/how-to-right-click-on-a-mac/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
