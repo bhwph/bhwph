@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here’s Your Best Look At Dragon Age: The Veilguard’s Action Combat Yet](https://kotaku.com/dragon-age-veilguard-combat-warrior-rook-skill-tree-1851630988)
  - [Star Wars Outlaws might fulfill the promise of multiple Star Wars failures](https://www.polygon.com/star-wars/443422/star-wars-outlaws-underworld-video-games)
- - [Indiana Jones Looks Thrilling, Tactical Breach Wizards Is Brilliant, And More Of The Week&#39;s Opinions](https://kotaku.com/gamescom-indiana-jones-great-circle-starfield-shattered-1851630380)
- - [Every Big Announcement From Gamescom, Breaking Down The Borderlands 4 Trailer, And More Of The Week&#39;s Gaming News](https://kotaku.com/gamescom-borderlands-4-trailer-gaming-news-1851630378)<!-- GAME:END -->
+ - [Indiana Jones Looks Thrilling, Tactical Breach Wizards Is Brilliant, And More Of The Week&#39;s Opinions](https://kotaku.com/gamescom-indiana-jones-great-circle-starfield-shattered-1851630380)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
