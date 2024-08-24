@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Cheap Home Security Devices for 2024](https://www.cnet.com/home/security/best-cheap-home-security-devices/#ftag=CAD590a51e)
- - [A look at China&#39;s humanoids market, after the city of Beijing launched a $1.4B robotics fund in January and Shanghai announced in July plans for a $1.4B fund &lpar;Reuters&rpar;](http://www.techmeme.com/240824/p2#a240824p2)
- - [Best Google Pixel Deals: Pixel 9 Brings Price Drops on Older Pixel Phones](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [12 Best Tablets &lpar;2024&rpar;: iPads, Androids, and More Tested and Compared](https://www.wired.com/gallery/the-best-tablets/)
+ - [One of the smartest Pixel 9 Pro Fold camera tricks is actually kinda dumb](https://www.androidauthority.com/foldable-phone-flex-mode-camera-3471979/)
+ - [Will the ‘Car-Free’ Los Angeles Olympics Work?](https://www.wired.com/story/how-the-car-free-los-angeles-olympics-will-work/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
