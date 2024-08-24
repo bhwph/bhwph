@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The reason I love this community](http://9gag.com/gag/a9yrXyo)
- - 😝 [At least is from Ikea and not Walmart](http://9gag.com/gag/a7orNDL)
- - 👉 [Take me back](http://9gag.com/gag/arybBQ0)<!-- MEMES:END -->
+ - 6️⃣ [Giant 2492 carat diamond found in Botswana. Here&#39;s the President inspecting it.](http://9gag.com/gag/aByW4K2)
+ - 😝 [Boy caused parents to owe $132,000 in debt](http://9gag.com/gag/ae9bmdp)
+ - 👉 [600 people playing on the release date on Friday. Concord with a development time of 8 years and cost of hundreds of millions of $ is about to be one of the biggest gaming flops in history.](http://9gag.com/gag/a9yrDLo)<!-- MEMES:END -->
 
 --- 
 
