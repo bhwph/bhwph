@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Labor Day deals hit Sonos speakers &amp; headphones, offering up to $280 off](https://appleinsider.com/articles/24/08/24/labor-day-deals-hit-sonos-speakers-headphones-offering-up-to-280-off?utm_medium=rss)
- - [There should be no shortage of Ultra phones in 2025](https://www.androidauthority.com/android-ultra-phones-2025-3475003/)
- - [Adaptive Touch quietly launches on the Google Pixel 9, works really well](https://www.androidauthority.com/google-pixel-9-adaptive-touch-feature-3474994/)<!-- TECH:END -->
+ - [A look at Germany-based discount retailer Lidl&#39;s foray into offering cloud computing services, signing up clients like SAP and generating &amp;euro;1.9B in sales in 2023 &lpar;Olaf Storbeck/Financial Times&rpar;](http://www.techmeme.com/240824/p6#a240824p6)
+ - [Best Over-Ear Headphones for 2024](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
+ - [Best Internet Providers in Moreno Valley, California](https://www.cnet.com/home/internet/best-internet-providers-in-moreno-valley-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
