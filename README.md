@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside Out 2, Longlegs, Netflix’s Incoming, and every movie new to streaming this week](https://www.polygon.com/entertainment/441219/new-movies-watch-inside-out-2-netflix-incoming-longlegs)
- - [Zoë Kravitz’s horror-thriller Blink Twice is blunt, obvious, and incandescently angry](https://www.polygon.com/review/443624/blink-twice-zoe-kravitz-channing-tatum)
- - [After 20 years of patience and negotiations, RPG veteran Brian Fargo managed to buy back a lost haul of memorabilia from Fallout, Baldur&#39;s Gate, and more: &#39;It was like a very exciting version of Storage Wars&#39;](https://www.pcgamer.com/games/fallout/after-20-years-of-patience-and-negotiations-rpg-vet-brian-fargo-has-bought-back-his-haul-of-old-school-treasures-from-fallout-baldur-s-gate-and-more-it-was-like-a-very-exciting-version-of-storage-wars)<!-- GAME:END -->
+ - [Valve&#39;s Deadlock has finally been announced, and it&#39;s as much a MOBA as it is a shooter](https://www.pcgamer.com/games/third-person-shooter/valves-deadlock-has-finally-been-announced-and-its-as-much-a-moba-as-it-is-a-shooter)
+ - [After four months, hundreds of leaked gameplay videos, and everybody you know having played it, Valve finally admitted Deadlock exists](https://www.pcgamer.com/games/third-person-shooter/after-four-months-hundreds-of-leaked-gameplay-videos-and-everybody-you-know-having-played-it-valve-finally-admitted-deadlock-exists)
+ - [Life Is Strange: Double Exposure is more of a puzzle game than I expected](https://www.polygon.com/preview/443719/life-is-strange-double-exposure-is-more-of-a-puzzle-game-than-i-expected)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
