@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
- - 😝 [Dude just remembered that the cops can&#39;t chase him...](http://9gag.com/gag/avyGvXd)
- - 👉 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)<!-- MEMES:END -->
+ - 6️⃣ [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)
+ - 😝 [Apparently you can test whether a kid is sleeping or just pretending by doing this to their arms](http://9gag.com/gag/aYQx1y2)
+ - 👉 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)<!-- MEMES:END -->
 
 --- 
 
