@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, August 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-24-2024)
- - [Valve&#39;s Deadlock has finally been announced, and it&#39;s as much a MOBA as it is a shooter](https://www.pcgamer.com/games/third-person-shooter/valves-deadlock-has-finally-been-announced-and-its-as-much-a-moba-as-it-is-a-shooter)
- - [After four months, hundreds of leaked gameplay videos, and everybody you know having played it, Valve finally admitted Deadlock exists](https://www.pcgamer.com/games/third-person-shooter/after-four-months-hundreds-of-leaked-gameplay-videos-and-everybody-you-know-having-played-it-valve-finally-admitted-deadlock-exists)<!-- GAME:END -->
+ - [The best movies leaving Netflix, Max, and Prime at the end of August 2024](https://www.polygon.com/recommendations/443730/best-movies-netflix-amazon-hulu-leaving-august-2024)
+ - [Every Kotaku Black Myth: Wukong Guide From The Game&#39;s First Week](https://kotaku.com/black-myth-wukong-guides-and-walkthroughs-1851630887)
+ - [Keychron K2 HE review](https://www.pcgamer.com/hardware/gaming-keyboards/keychron-k2-he-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
