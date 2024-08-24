@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some streamers say the Chinese game studio behind Black Myth: Wukong told them to avoid topics like &quot;feminist propaganda&quot; as part of an early access agreement &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/240823/p19#a240823p19)
- - [The Marshall Willen portable speaker is 46% off, the biggest discount we’ve seen on it](https://www.androidauthority.com/marshall-willen-deal-3474821/)
- - [How to Right-Click on a Mac](https://www.cnet.com/tech/computing/how-to-right-click-on-a-mac/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US DOJ sues Georgia Tech and an affiliate company, alleging failures since at least 2019 to meet the DOD&#39;s cybersecurity standards for contract awardees &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/240823/p20#a240823p20)
+ - [This amazing battery can power your home, EV, or RV, and it’s $1,300 off right now](https://www.androidauthority.com/anker-solix-f3800-portable-power-station-deal-3474820/)
+ - [Best Internet Providers in Murfreesboro, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-murfreesboro-tn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
