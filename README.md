@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That escalated quickly](http://9gag.com/gag/awynvNQ)
- - 😝 [93-year-old Clint Eastwood](http://9gag.com/gag/a9yrOM6)
- - 👉 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)<!-- MEMES:END -->
+ - 6️⃣ [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
+ - 😝 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)
+ - 👉 [In case you don&#39;t know, sweet baby inc tried to extort Black Myth Wukong Devs to pay them $7 million to `fix` their `problematic` game.](http://9gag.com/gag/a34qW27)<!-- MEMES:END -->
 
 --- 
 
