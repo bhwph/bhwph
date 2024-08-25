@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Odyssey G6 OLED Review: More Frames Than Your Eye Can Handle](https://www.wired.com/review/samsung-odyssey-g6-oled-gaming-monitor/)
- - [AI was responsible for the fake quotes in the Megalopolis trailer](https://www.theverge.com/2024/8/25/24228003/megalopolis-trailer-fake-quotes-ai-generated-eddie-egan-dropped-lionsgate)
- - [Google would never: 4 Safari features I’d love to have on Chrome](https://www.androidauthority.com/safari-features-for-chrome-to-steal-3474380/)<!-- TECH:END -->
+ - [Best Internet Providers in Phoenix](https://www.cnet.com/home/internet/best-internet-providers-in-phoenix-az/#ftag=CAD590a51e)
+ - [How prominent games accessibility advocate Susan Banks, who worked with studios and raised awareness for accessibility in games, may never have existed at all &lpar;Grant Stoner/IGN&rpar;](http://www.techmeme.com/240825/p4#a240825p4)
+ - [Theragun Alternatives: Best Budget Massage Guns for 2024](https://www.cnet.com/health/fitness/best-budget-massage-guns/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
