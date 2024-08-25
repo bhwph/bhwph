@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard is getting a prequel in the form of an audio drama podcast](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-is-getting-a-prequel-in-the-form-of-an-audio-drama-podcast)
- - [Here&#39;s how a martial artist created the motions for Baldur&#39;s Gate 3 monks](https://www.pcgamer.com/games/baldurs-gate/heres-how-a-martial-artist-created-the-motions-for-baldurs-gate-3s-monks)
- - [After years of speculation about whether Avowed takes place before or after Pillars of Eternity, Obsidian casually revealed it&#39;s a sequel through a preview quest poking fun at the events of Pillars 2](https://www.pcgamer.com/games/rpg/after-years-of-speculation-about-whether-avowed-takes-place-before-or-after-pillars-of-eternity-obsidian-casually-revealed-it-s-a-sequel-through-a-preview-of-a-quest-poking-fun-at-the-events-of-pillars-2)<!-- GAME:END -->
+ - [What time does Star Wars Outlaws release in early access?](https://www.polygon.com/star-wars-outlaws-guides/442754/release-times-early-access-date-schedule-access)
+ - [This $10 bundle is incredible value on 7 modern detective games](https://www.pcgamer.com/games/this-dollar10-bundle-is-incredible-value-on-7-modern-detective-games)
+ - [Today&#39;s Wordle answer for Sunday, August 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-25-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
