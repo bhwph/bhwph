@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Sony Xperia 1 VI is the best Sony flagship in years &lpar;if you can buy it&rpar;](https://www.androidauthority.com/sony-xperia-1-vi-review-3467796/)
- - [What’s in a productivity system?](https://www.theverge.com/24226646/productivity-tools-tips-tricks-vergecast)
- - [First-world problems drives Apple&#39;s robotics development](https://appleinsider.com/articles/24/08/25/first-world-problems-drives-apples-robotics-development?utm_medium=rss)<!-- TECH:END -->
+ - [Klaris Clear Ice Maker Review: A Worthy Investment to Up Your Home Bartending Game](https://www.wired.com/review/review-klaris-clear-ice-maker/)
+ - [Microsoft’s Copilot is stupid, I replaced it with ChatGPT](https://www.androidauthority.com/how-to-remap-copilot-key-3470869/)
+ - [Best Internet Providers in Murray, Utah](https://www.cnet.com/home/internet/best-internet-providers-in-murray-ut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
