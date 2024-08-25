@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [That escalated quickly](http://9gag.com/gag/awynvNQ)
- - 😝 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
- - 👉 [Wtf](http://9gag.com/gag/a6ZbjVe)<!-- MEMES:END -->
+ - 😝 [93-year-old Clint Eastwood](http://9gag.com/gag/a9yrOM6)
+ - 👉 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)<!-- MEMES:END -->
 
 --- 
 
