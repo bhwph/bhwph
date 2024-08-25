@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The problem with Xbox&#39;s new vision isn&#39;t that it&#39;s moving away from console-exclusive games, but that its release strategy is confusing and inconsistent &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240825/p1#a240825p1)
  - [Some San Francisco city officials say they&#39;re not lamenting X&#39;s departure from the city, as X bears little resemblance to the company that SF welcomed in 2012 &lpar;New York Times&rpar;](http://www.techmeme.com/240824/p9#a240824p9)
- - [Astronauts Stranded in Space: What to Know, When They&#39;ll Be Home](https://www.cnet.com/science/astronauts-stranded-in-space-what-to-know-when-theyll-be-home/#ftag=CAD590a51e)
- - [Threads says it is testing ephemeral posts that disappear within 24 hours with a limited number of users, but doesn&#39;t say if the experiment is region-specific &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240824/p8#a240824p8)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 25 #441](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-25-441/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
