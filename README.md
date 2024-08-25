@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There&#39;s much bigger issue here. lol](http://9gag.com/gag/aYQxABq)
- - 😝 [Apparently you can test whether a kid is sleeping or just pretending by doing this to their arms](http://9gag.com/gag/aYQx1y2)
- - 👉 [Dude just remembered that the cops can&#39;t chase him...](http://9gag.com/gag/avyGvXd)<!-- MEMES:END -->
+ - 6️⃣ [Wtf](http://9gag.com/gag/a6ZbjVe)
+ - 😝 [Dude just remembered that the cops can&#39;t chase him...](http://9gag.com/gag/avyGvXd)
+ - 👉 [If you sleep in the afternoon](http://9gag.com/gag/aMV8vRW)<!-- MEMES:END -->
 
 --- 
 
