@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Apple AirTag Accessories of 2024](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)
- - [Best Immersion Blenders for 2024](https://www.cnet.com/news/best-immersion-blender/#ftag=CAD590a51e)
- - [The problem with Xbox&#39;s new vision isn&#39;t that it&#39;s moving away from console-exclusive games, but that its release strategy is confusing and inconsistent &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240825/p1#a240825p1)<!-- TECH:END -->
+ - [The best smartphone photos of the year](https://www.theverge.com/2024/8/25/24226795/best-smartphone-photos-2024-hollywood-hack-blink-twice-installer)
+ - [‘Unprecedented Times’ Is the New Normal](https://www.wired.com/story/unprecedented-times-is-our-new-normal/)
+ - [14 Best Hoodies for Style, Comfort, and Warmth](https://www.wired.com/gallery/best-hoodies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
