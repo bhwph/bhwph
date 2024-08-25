@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
- - 😝 [Shits on fire](http://9gag.com/gag/aZZmvb9)
- - 👉 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)<!-- MEMES:END -->
+ - 6️⃣ [Be glad he paid the fair](http://9gag.com/gag/a7orPVw)
+ - 😝 [Britain would like to announce no horn tooting allowed](http://9gag.com/gag/aZZm43W)
+ - 👉 [Friday night!](http://9gag.com/gag/aO8zA2y)<!-- MEMES:END -->
 
 --- 
 
