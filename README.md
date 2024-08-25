@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Phoenix](https://www.cnet.com/home/internet/best-internet-providers-in-phoenix-az/#ftag=CAD590a51e)
- - [How prominent games accessibility advocate Susan Banks, who worked with studios and raised awareness for accessibility in games, may never have existed at all &lpar;Grant Stoner/IGN&rpar;](http://www.techmeme.com/240825/p4#a240825p4)
- - [Theragun Alternatives: Best Budget Massage Guns for 2024](https://www.cnet.com/health/fitness/best-budget-massage-guns/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Telegram’s CEO was arrested in France, and now the country has extended his detention](https://www.androidauthority.com/telegram-ceo-extended-detention-3475065/)
+ - [Telegram says its CEO Pavel Durov has &quot;nothing to hide&quot; and that the messaging app &quot;abides by EU laws&quot;, including the Digital Services Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/240825/p6#a240825p6)
+ - [Pavel Durov&#39;s Arrest Leaves Telegram Hanging in the Balance](https://www.wired.com/story/telegram-ceo-pavel-durov-arrest/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
