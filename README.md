@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wtf](http://9gag.com/gag/a6ZbjVe)
- - 😝 [Dude just remembered that the cops can&#39;t chase him...](http://9gag.com/gag/avyGvXd)
- - 👉 [If you sleep in the afternoon](http://9gag.com/gag/aMV8vRW)<!-- MEMES:END -->
+ - 6️⃣ [That escalated quickly](http://9gag.com/gag/awynvNQ)
+ - 😝 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
+ - 👉 [Wtf](http://9gag.com/gag/a6ZbjVe)<!-- MEMES:END -->
 
 --- 
 
