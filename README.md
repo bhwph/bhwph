@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Isn&#39;t it interesting how politicians love this people so much?](http://9gag.com/gag/aKGVng1)
- - 😝 [The good old days](http://9gag.com/gag/aYQxn9V)
- - 👉 [Regulated osha screeching](http://9gag.com/gag/avyGXYn)<!-- MEMES:END -->
+ - 6️⃣ [European lives matter!](http://9gag.com/gag/a0ebWdn)
+ - 😝 [80s will never come back...](http://9gag.com/gag/aPABdNB)
+ - 👉 [Be Honest Now.](http://9gag.com/gag/amoYKLd)<!-- MEMES:END -->
 
 --- 
 
