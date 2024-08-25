@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Before the syrian terrorist turned himself in, the leading parties in germany collectively posted their usual bullshit on social media again.](http://9gag.com/gag/aqybpPL)
- - 😝 [In case you don&#39;t know, sweet baby inc tried to extort Black Myth Wukong Devs to pay them $7 million to `fix` their `problematic` game.](http://9gag.com/gag/a34qW27)
- - 👉 [Tinder picture vs real world](http://9gag.com/gag/azx8D8q)<!-- MEMES:END -->
+ - 6️⃣ [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
+ - 😝 [That escalated quickly](http://9gag.com/gag/awynvNQ)
+ - 👉 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)<!-- MEMES:END -->
 
 --- 
 
