@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canoo is down to one co-founder as its CTO reportedly leaves](https://www.theverge.com/2024/8/24/24227609/canoo-ev-startup-cto-sohel-merchant-founder)
- - [&#39;Ted Lasso&#39; season 4 is showing signs of life](https://appleinsider.com/articles/24/08/24/ted-lasso-season-4-is-showing-signs-of-life?utm_medium=rss)
- - [We Put the Saatva Classic Mattress &lpar;and Our Marriage&rpar; to the Test for 30 Nights](https://www.cnet.com/health/sleep/we-put-the-saatva-classic-mattress-and-our-marriage-to-the-test-for-30-nights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Astronauts Stranded in Space: What to Know, When They&#39;ll Be Home](https://www.cnet.com/science/astronauts-stranded-in-space-what-to-know-when-theyll-be-home/#ftag=CAD590a51e)
+ - [Threads says it is testing ephemeral posts that disappear within 24 hours with a limited number of users, but doesn&#39;t say if the experiment is region-specific &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240824/p8#a240824p8)
+ - [European iPhones are more fun now](https://www.theverge.com/2024/8/24/24226946/iphone-eu-regulation-app-stores-fortnite)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
