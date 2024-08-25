@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Click Click Dig is a charming little pixelated idler](https://www.pcgamer.com/games/click-click-dig-is-a-charming-little-pixelated-idler)
- - [I am so here for this zombie game set in a medieval market town](https://www.pcgamer.com/games/survival-crafting/i-am-so-here-for-this-zombie-game-set-in-a-medieval-market-town)
- - [9 movies like Black Myth: Wukong to continue your journey to the west](https://www.polygon.com/what-to-watch/442857/black-myth-wukong-movies-journey-west)<!-- GAME:END -->
+ - [Flip patties with friends to fill orders in cozy cook-em-up Galaxy Burger](https://www.pcgamer.com/games/flip-patties-with-friends-to-fill-orders-in-cozy-cook-em-up-galaxy-burger)
+ - [Doom E1M1 remade in Doom Eternal is honestly kind of quaint](https://www.pcgamer.com/games/fps/doom-e1m1-remade-in-doom-eternal-is-honestly-kind-of-quaint)
+ - [Splitgate 2 isn&#39;t &#39;Halo with portals&#39; anymore, but it may be something even better](https://www.pcgamer.com/games/fps/splitgate-2-isn-t-halo-with-portals-anymore-but-it-may-be-something-better)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
