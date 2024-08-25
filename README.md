@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
- - 😝 [That escalated quickly](http://9gag.com/gag/awynvNQ)
- - 👉 [Polish Hotel Social media ad](http://9gag.com/gag/aoy1YL0)<!-- MEMES:END -->
+ - 6️⃣ [Isn&#39;t it interesting how politicians love this people so much?](http://9gag.com/gag/aKGVng1)
+ - 😝 [The good old days](http://9gag.com/gag/aYQxn9V)
+ - 👉 [Regulated osha screeching](http://9gag.com/gag/avyGXYn)<!-- MEMES:END -->
 
 --- 
 
