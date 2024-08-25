@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I am so here for this zombie game set in a medieval market town](https://www.pcgamer.com/games/survival-crafting/i-am-so-here-for-this-zombie-game-set-in-a-medieval-market-town)
  - [9 movies like Black Myth: Wukong to continue your journey to the west](https://www.polygon.com/what-to-watch/442857/black-myth-wukong-movies-journey-west)
- - [Fields of Mistria players want to ‘fuck the dragon’](https://www.polygon.com/culture/443385/fields-of-mistria-caldarus-fuck-dragon)
- - [Deals On Amazing Games, Early Black Myth: Wukong Tips, And More Gaming Pointers](https://kotaku.com/black-myth-wukong-skills-game-deals-1851630379)<!-- GAME:END -->
+ - [Fields of Mistria players want to ‘fuck the dragon’](https://www.polygon.com/culture/443385/fields-of-mistria-caldarus-fuck-dragon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
