@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some San Francisco city officials say they&#39;re not lamenting X&#39;s departure from the city, as X bears little resemblance to the company that SF welcomed in 2012 &lpar;New York Times&rpar;](http://www.techmeme.com/240824/p9#a240824p9)
  - [Astronauts Stranded in Space: What to Know, When They&#39;ll Be Home](https://www.cnet.com/science/astronauts-stranded-in-space-what-to-know-when-theyll-be-home/#ftag=CAD590a51e)
- - [Threads says it is testing ephemeral posts that disappear within 24 hours with a limited number of users, but doesn&#39;t say if the experiment is region-specific &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240824/p8#a240824p8)
- - [European iPhones are more fun now](https://www.theverge.com/2024/8/24/24226946/iphone-eu-regulation-app-stores-fortnite)<!-- TECH:END -->
+ - [Threads says it is testing ephemeral posts that disappear within 24 hours with a limited number of users, but doesn&#39;t say if the experiment is region-specific &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240824/p8#a240824p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
