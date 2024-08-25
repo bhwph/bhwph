@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Players seem to like Concord, but its $40 price tag has led to a tepid first weekend on PC](https://www.pcgamer.com/games/fps/players-seem-to-like-concord-but-its-40-price-tag-has-led-to-a-tepid-first-weekend-on-pc)
- - [Sekiro was so influential, even the next big BioWare and Obsidian RPGs are adding parries and stagger meters](https://www.pcgamer.com/games/rpg/sekiro-was-so-influential-even-the-next-big-bioware-and-obsidian-rpgs-are-adding-parries-and-stagger-meters)
- - [Indiana Jones and the Great Circle devs say an Indy game &#39;could never be a shooter, should never be a shooter,&#39; so they&#39;re embracing his signature whip, improvised brawls, and disguise-based stealth instead](https://www.pcgamer.com/games/fps/indiana-jones-and-the-great-circle-devs-say-an-indy-game-could-never-be-a-shooter-should-never-be-a-shooter-so-they-re-embracing-his-signature-whip-improvised-brawls-and-disguise-based-stealth-instead)<!-- GAME:END -->
+ - [Here&#39;s how a martial artist created the motions for Baldur&#39;s Gate 3 monks](https://www.pcgamer.com/games/baldurs-gate/heres-how-a-martial-artist-created-the-motions-for-baldurs-gate-3s-monks)
+ - [After years of speculation about whether Avowed takes place before or after Pillars of Eternity, Obsidian casually revealed it&#39;s a sequel through a preview quest poking fun at the events of Pillars 2](https://www.pcgamer.com/games/rpg/after-years-of-speculation-about-whether-avowed-takes-place-before-or-after-pillars-of-eternity-obsidian-casually-revealed-it-s-a-sequel-through-a-preview-of-a-quest-poking-fun-at-the-events-of-pillars-2)
+ - [Players seem to like Concord, but its $40 price tag has led to a tepid first weekend on PC](https://www.pcgamer.com/games/fps/players-seem-to-like-concord-but-its-40-price-tag-has-led-to-a-tepid-first-weekend-on-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
