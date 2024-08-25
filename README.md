@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can&#39;t figure out what this creature is](http://9gag.com/gag/a4Pbw8A)
- - 😝 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)
- - 👉 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)<!-- MEMES:END -->
+ - 6️⃣ [What the hell is happening here?!?](http://9gag.com/gag/aQz9NrW)
+ - 😝 [Shits on fire](http://9gag.com/gag/aZZmvb9)
+ - 👉 [Beautiful night view of Chicago](http://9gag.com/gag/a0ebOKv)<!-- MEMES:END -->
 
 --- 
 
