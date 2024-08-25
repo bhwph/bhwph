@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [European lives matter!](http://9gag.com/gag/a0ebWdn)
- - 😝 [80s will never come back...](http://9gag.com/gag/aPABdNB)
- - 👉 [Be Honest Now.](http://9gag.com/gag/amoYKLd)<!-- MEMES:END -->
+ - 6️⃣ [Can&#39;t figure out what this creature is](http://9gag.com/gag/a4Pbw8A)
+ - 😝 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
+ - 👉 [9GAG comment section?](http://9gag.com/gag/axyVn7D)<!-- MEMES:END -->
 
 --- 
 
