@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Star Wars Outlaws release in early access?](https://www.polygon.com/star-wars-outlaws-guides/442754/release-times-early-access-date-schedule-access)
- - [This $10 bundle is incredible value on 7 modern detective games](https://www.pcgamer.com/games/this-dollar10-bundle-is-incredible-value-on-7-modern-detective-games)
- - [Today&#39;s Wordle answer for Sunday, August 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-25-2024)<!-- GAME:END -->
+ - [Fields of Mistria players want to ‘fuck the dragon’](https://www.polygon.com/culture/443385/fields-of-mistria-caldarus-fuck-dragon)
+ - [Deals On Amazing Games, Early Black Myth: Wukong Tips, And More Gaming Pointers](https://kotaku.com/black-myth-wukong-skills-game-deals-1851630379)
+ - [One of the best shows of the ’90s is finally available to stream](https://www.polygon.com/tv/443684/homicide-life-on-the-street-best-show-on-peacock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
