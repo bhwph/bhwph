@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Slow Horses built the perfect asshole](https://www.polygon.com/tv/444096/slow-horses-jackson-lamb-interview-showrunner)
- - [Everything you need to know before playing Space Marine 2](https://www.polygon.com/gaming/444179/everything-you-need-to-know-warhammer-40k-space-marine-2)
- - [Save 30% on this immaculate Lego Atari 2600 replica](https://www.polygon.com/good-deals/444114/lego-atari-2600-best-buy-sale)<!-- GAME:END -->
+ - [Report: Activision Canceled A Crash Bandicoot / Spyro Crossover Game](https://kotaku.com/crash-bandicoot-5-spyro-crossover-cancelled-activision-1851632213)
+ - [Report says well-known videogame accessibility advocate may not have actually existed](https://www.pcgamer.com/games/report-says-well-known-videogame-accessibility-advocate-may-not-have-actually-existed)
+ - [The Black Myth: Wukong map mod is here to make your Journey to the West a little easier](https://www.pcgamer.com/games/action/the-black-myth-wukong-map-mod-is-here-to-make-your-journey-to-the-west-a-little-easier)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
