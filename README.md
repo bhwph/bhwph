@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Outlaws performance analysis: Ray traced galaxies far, far away really, really demand upscaling and frame generation](https://www.pcgamer.com/hardware/star-wars-outlaws-performance-analysis-ray-traced-galaxies-far-far-away-really-really-demand-upscaling-and-frame-generation)
- - [Star Wars Outlaws proves you can still be Star Wars without the Jedi](https://www.polygon.com/star-wars/443727/star-wars-outlaws-proves-you-can-still-be-star-wars-without-the-jedi)
- - [Star Wars Outlaws: The Kotaku Review](https://kotaku.com/star-wars-outlaws-review-size-how-big-hours-xbox-ps5-pc-1851631123)<!-- GAME:END -->
+ - [Glen Powell, 2024 superstar, is thinking a lot about friendships and feelings](https://www.polygon.com/comedy/443349/glen-powell-interview-podcast-best-mans-ghostwriter)
+ - [The most anticipated new games of fall 2024](https://www.polygon.com/gaming/440201/best-new-games-fall-2024-release-calendar-schedule)
+ - [The most anticipated movies of fall 2024](https://www.polygon.com/movies/440258/best-new-movies-fall-2024-release-calendar-schedule)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
