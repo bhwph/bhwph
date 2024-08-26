@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Glen Powell, 2024 superstar, is thinking a lot about friendships and feelings](https://www.polygon.com/comedy/443349/glen-powell-interview-podcast-best-mans-ghostwriter)
- - [The most anticipated new games of fall 2024](https://www.polygon.com/gaming/440201/best-new-games-fall-2024-release-calendar-schedule)
- - [The most anticipated movies of fall 2024](https://www.polygon.com/movies/440258/best-new-movies-fall-2024-release-calendar-schedule)<!-- GAME:END -->
+ - [21 Things To Know Before Playing Star Wars Outlaws](https://kotaku.com/star-wars-outlaws-tips-tricks-things-to-know-guide-help-1851631126)
+ - [Valorant&#39;s Newest Agent Looks Like A Defensive Powerhouse](https://kotaku.com/valorants-newest-agent-looks-like-a-defensive-powerhous-1851631539)
+ - [A new Nintendo Direct is coming on Aug. 27](https://www.polygon.com/gaming/443998/nintendo-direct-august-2024-time-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
