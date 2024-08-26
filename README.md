@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Another obvious reason](http://9gag.com/gag/awynvjB)
- - 😝 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
- - 👉 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)<!-- MEMES:END -->
+ - 6️⃣ [And I want to know how much time they got.](http://9gag.com/gag/aKGVLOZ)
+ - 😝 [Reliability](http://9gag.com/gag/a0ebW2O)
+ - 👉 [Another obvious reason](http://9gag.com/gag/awynvjB)<!-- MEMES:END -->
 
 --- 
 
