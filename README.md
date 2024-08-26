@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)
- - 😝 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
- - 👉 [She wants a ring I guess](http://9gag.com/gag/aAydqnE)<!-- MEMES:END -->
+ - 6️⃣ [Upvote if you have opened your eyes.](http://9gag.com/gag/aVvq9Bn)
+ - 😝 [As a Swedish person, I have always wondered as well](http://9gag.com/gag/axyVQK2)
+ - 👉 [Sometimes you don&#39;t think you need something unless you see it.](http://9gag.com/gag/aMV86r6)<!-- MEMES:END -->
 
 --- 
 
