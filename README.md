@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Be glad he paid the fair](http://9gag.com/gag/a7orPVw)
- - 😝 [Britain would like to announce no horn tooting allowed](http://9gag.com/gag/aZZm43W)
- - 👉 [Friday night!](http://9gag.com/gag/aO8zA2y)<!-- MEMES:END -->
+ - 6️⃣ [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
+ - 😝 [One aged like wine, the others like milk](http://9gag.com/gag/aGy1rn5)
+ - 👉 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)<!-- MEMES:END -->
 
 --- 
 
