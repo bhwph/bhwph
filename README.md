@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can already de-Google your new Pixel 9 with the help of Graphene OS](https://www.androidauthority.com/pixel-9-graphene-os-3475356/)
- - [Best MacBook Air M2 Deals: Save With Direct Discounts and Trade-In Deals](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)
- - [Best Deals on E-Bikes: Upgrade Your Cycle With These Top Models at Low Prices](https://www.cnet.com/roadshow/news/best-e-bike-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SpaceX’s historic Polaris Dawn mission: how to watch the launch](https://www.theverge.com/2024/8/26/24228803/spacex-polaris-dawn-mission-launch-date-time-watch-live)
+ - [Minimalist browser fans could soon have a new Android option](https://www.androidauthority.com/arc-search-android-3475374/)
+ - [Viggle, developer of 3D-video foundation model JST-1, raised a $19M Series A led by a16z; Viggle says the model is trained on public sources, including YouTube &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240826/p22#a240826p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
