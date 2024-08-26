@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Dutch Data Protection Authority fines Uber a record &amp;euro;290M for failing to abide by European protection standards when sending sensitive driver data to the US &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240826/p7#a240826p7)
- - [This over-the-counter gadget could help the war against diabetes](https://www.theverge.com/2024/8/26/24226685/dexcom-stelo-hands-on-continuous-glucose-monitor-wearables)
- - [Sources: IBM shuts its China R&amp;D department, affecting 1,000+ employees, and plans to move some R&amp;D functions overseas, the latest company to retreat from China &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240826/p6#a240826p6)<!-- TECH:END -->
+ - [This is the lowest price we’ve seen the Motorola Razr Plus 2023 hit](https://www.androidauthority.com/motorola-razr-plus-2023-deal-2-3475185/)
+ - [The 14 Best Pillows We Found After Months of Night-Time Testing &lpar;2024&rpar;](https://www.wired.com/gallery/best-pillows/)
+ - [Google Messages is giving you another way to find your lost group chats](https://www.androidauthority.com/google-messages-group-chat-search-new-conversation-3475152/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
