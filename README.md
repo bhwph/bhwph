@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram’s CEO was arrested in France, and now the country has extended his detention](https://www.androidauthority.com/telegram-ceo-extended-detention-3475065/)
- - [Telegram says its CEO Pavel Durov has &quot;nothing to hide&quot; and that the messaging app &quot;abides by EU laws&quot;, including the Digital Services Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/240825/p6#a240825p6)
- - [Pavel Durov&#39;s Arrest Leaves Telegram Hanging in the Balance](https://www.wired.com/story/telegram-ceo-pavel-durov-arrest/)<!-- TECH:END -->
+ - [A deeper look at Google&#39;s shockingly good Reimagine feature for Pixel 9, which lets users add things to photos via prompts and lacks strong guardrails &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240825/p8#a240825p8)
+ - [Best Internet Providers in Orlando, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-orlando-fl/#ftag=CAD590a51e)
+ - [Formula 1’s new gyro camera adds a Dutch angle to the Dutch Grand Prix](https://www.theverge.com/2024/8/25/24228247/formula-1-f1-gyro-camera-dutch-grand-prix-zandvoort)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
