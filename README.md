@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
- - 😝 [One aged like wine, the others like milk](http://9gag.com/gag/aGy1rn5)
- - 👉 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)<!-- MEMES:END -->
+ - 6️⃣ [Another obvious reason](http://9gag.com/gag/awynvjB)
+ - 😝 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
+ - 👉 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)<!-- MEMES:END -->
 
 --- 
 
