@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the aftermath of the FCC ending the Affordable Connectivity Program for ~23M US households in May 2024; Spectrum says it lost 154K customers in Q2 &lpar;Joe Supan/CNET&rpar;](http://www.techmeme.com/240826/p5#a240826p5)
- - [Long-overdue: New Apple Macs could finally come with more RAM for all that cash](https://www.androidauthority.com/apple-macs-16gb-ram-3475105/)
- - [How some Chinese AI companies use brokers to access GPUs despite US sanctions, sometimes using cryptocurrency smart contracts to anonymously process orders &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240826/p4#a240826p4)<!-- TECH:END -->
+ - [The Dutch Data Protection Authority fines Uber a record &amp;euro;290M for failing to abide by European protection standards when sending sensitive driver data to the US &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240826/p7#a240826p7)
+ - [This over-the-counter gadget could help the war against diabetes](https://www.theverge.com/2024/8/26/24226685/dexcom-stelo-hands-on-continuous-glucose-monitor-wearables)
+ - [Sources: IBM shuts its China R&amp;D department, affecting 1,000+ employees, and plans to move some R&amp;D functions overseas, the latest company to retreat from China &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240826/p6#a240826p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
