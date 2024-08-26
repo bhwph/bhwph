@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at voice bots from Indian startups Sarvam AI, CoRover, and Gnani.ai; Samsung-backed Gnani now handles millions of voice conversations daily for companies &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240826/p1#a240826p1)
- - [Telegram says CEO has ‘nothing to hide’ after being arrested in France](https://www.theverge.com/2024/8/25/24228444/telegram-ceo-pavel-durov-arrest-france-company-response)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 26, #176](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-26-176/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google brings even more free channels to your Google TV device](https://www.androidauthority.com/google-tv-more-free-channels-3474584/)
+ - [Today only: get a 14-inch MacBook Pro with 1TB SSD, 19-core GPU for just $1,699](https://appleinsider.com/articles/24/08/26/today-only-get-a-14-inch-macbook-pro-with-1tb-ssd-19-core-gpu-for-just-1699?utm_medium=rss)
+ - [Chinese tech giants splurge on AI infrastructure, doubling their 2024 capex; Alibaba, Tencent, and Baidu had a combined capex of ~$7B in H1 2024, up 50%+ YoY &lpar;Financial Times&rpar;](http://www.techmeme.com/240826/p3#a240826p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
