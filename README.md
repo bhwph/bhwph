@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX’s historic Polaris Dawn mission: how to watch the launch](https://www.theverge.com/2024/8/26/24228803/spacex-polaris-dawn-mission-launch-date-time-watch-live)
- - [Minimalist browser fans could soon have a new Android option](https://www.androidauthority.com/arc-search-android-3475374/)
- - [Viggle, developer of 3D-video foundation model JST-1, raised a $19M Series A led by a16z; Viggle says the model is trained on public sources, including YouTube &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240826/p22#a240826p22)<!-- TECH:END -->
+ - [WhatsApp is working on its best Snapchat impression with new AR filters](https://www.androidauthority.com/whatsapp-ar-filters-3475448/)
+ - [Docs: Amazon plans to launch its delayed overhaul of Alexa in October for as much as $10/month, with AI-generated news summaries, a chatbot for kids, and more &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240826/p25#a240826p25)
+ - [Telegram CEO Pavel Durov’s Arrest Linked to Sweeping Criminal Investigation](https://www.wired.com/story/telegram-pavel-durov-arrest-investigation-allegations/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
