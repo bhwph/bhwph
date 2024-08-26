@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [21 Things To Know Before Playing Star Wars Outlaws](https://kotaku.com/star-wars-outlaws-tips-tricks-things-to-know-guide-help-1851631126)
- - [Valorant&#39;s Newest Agent Looks Like A Defensive Powerhouse](https://kotaku.com/valorants-newest-agent-looks-like-a-defensive-powerhous-1851631539)
- - [A new Nintendo Direct is coming on Aug. 27](https://www.polygon.com/gaming/443998/nintendo-direct-august-2024-time-date)<!-- GAME:END -->
+ - [In Dustborn, the quiet moments speak loudest](https://www.pcgamer.com/games/adventure/in-dustborn-the-quiet-moments-speak-loudest)
+ - [Towerborne Developer Diary: Fine-Tuning Fun](https://www.youtube.com/watch?v=rafOxHtpaZ4#new_tab)
+ - [What time does Genshin Impact 5.0 release?](https://www.polygon.com/genshin-impact-guides/444012/version-5-0-release-times-maintenance-end)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
