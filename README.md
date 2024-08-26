@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In Dustborn, the quiet moments speak loudest](https://www.pcgamer.com/games/adventure/in-dustborn-the-quiet-moments-speak-loudest)
- - [Towerborne Developer Diary: Fine-Tuning Fun](https://www.youtube.com/watch?v=rafOxHtpaZ4#new_tab)
- - [What time does Genshin Impact 5.0 release?](https://www.polygon.com/genshin-impact-guides/444012/version-5-0-release-times-maintenance-end)<!-- GAME:END -->
+ - [How Slow Horses built the perfect asshole](https://www.polygon.com/tv/444096/slow-horses-jackson-lamb-interview-showrunner)
+ - [Everything you need to know before playing Space Marine 2](https://www.polygon.com/gaming/444179/everything-you-need-to-know-warhammer-40k-space-marine-2)
+ - [Save 30% on this immaculate Lego Atari 2600 replica](https://www.polygon.com/good-deals/444114/lego-atari-2600-best-buy-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
