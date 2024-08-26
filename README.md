@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yamaha R-N1000A Review: Retro Style, Modern Convenience](https://www.wired.com/review/yamaha-r-n1000a/)
- - [Our two very favorite headphones are heavily discounted right now](https://www.androidauthority.com/apple-airpods-max-sony-wh-1000mx5-deals-3475183/)
- - [Your button-less phone dream might become a reality next year](https://www.androidauthority.com/xiaomi-button-less-phone-3475199/)<!-- TECH:END -->
+ - [This super-thin foldable is about to give the Z Fold 6 some fierce international competition](https://www.androidauthority.com/honor-magic-v3-2-3475271/)
+ - [Apple announces a September 9 event at Apple Park with the iPhone 16 lineup, new Apple Watch models, and AirPods 4 expected; the invitation says &quot;It&#39;s Glowtime&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240826/p16#a240826p16)
+ - [What to expect from Apple&#39;s September 9 iPhone 16 &#39;Glowtime&#39; event](https://appleinsider.com/articles/24/08/26/what-to-expect-from-apples-september-9-iphone-16-glowtime-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
