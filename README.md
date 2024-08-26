@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And I want to know how much time they got.](http://9gag.com/gag/aKGVLOZ)
- - 😝 [Reliability](http://9gag.com/gag/a0ebW2O)
- - 👉 [Another obvious reason](http://9gag.com/gag/awynvjB)<!-- MEMES:END -->
+ - 6️⃣ [Another obvious reason](http://9gag.com/gag/awynvjB)
+ - 😝 [AI is contributing to a better world, they say](http://9gag.com/gag/a34qnr1)
+ - 👉 [TATE Brothers - DllCOT of Romania seized all of Andrew &amp; Tristan Tates cars. They now have 32 supercars seized. Noooo, even the Lada\u2026 Insane!!](http://9gag.com/gag/aoy1qLg)<!-- MEMES:END -->
 
 --- 
 
