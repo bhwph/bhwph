@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This super-thin foldable is about to give the Z Fold 6 some fierce international competition](https://www.androidauthority.com/honor-magic-v3-2-3475271/)
- - [Apple announces a September 9 event at Apple Park with the iPhone 16 lineup, new Apple Watch models, and AirPods 4 expected; the invitation says &quot;It&#39;s Glowtime&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240826/p16#a240826p16)
- - [What to expect from Apple&#39;s September 9 iPhone 16 &#39;Glowtime&#39; event](https://appleinsider.com/articles/24/08/26/what-to-expect-from-apples-september-9-iphone-16-glowtime-event?utm_medium=rss)<!-- TECH:END -->
+ - [You can already de-Google your new Pixel 9 with the help of Graphene OS](https://www.androidauthority.com/pixel-9-graphene-os-3475356/)
+ - [Best MacBook Air M2 Deals: Save With Direct Discounts and Trade-In Deals](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)
+ - [Best Deals on E-Bikes: Upgrade Your Cycle With These Top Models at Low Prices](https://www.cnet.com/roadshow/news/best-e-bike-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
