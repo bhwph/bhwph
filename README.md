@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Flip patties with friends to fill orders in cozy cook-em-up Galaxy Burger](https://www.pcgamer.com/games/flip-patties-with-friends-to-fill-orders-in-cozy-cook-em-up-galaxy-burger)
- - [Doom E1M1 remade in Doom Eternal is honestly kind of quaint](https://www.pcgamer.com/games/fps/doom-e1m1-remade-in-doom-eternal-is-honestly-kind-of-quaint)
- - [Splitgate 2 isn&#39;t &#39;Halo with portals&#39; anymore, but it may be something even better](https://www.pcgamer.com/games/fps/splitgate-2-isn-t-halo-with-portals-anymore-but-it-may-be-something-better)<!-- GAME:END -->
+ - [MSI&#39;s X870 and X870E motherboards come with an auxiliary 8-pin power connector, which could indicate some scary next-gen GPU power consumption levels](https://www.pcgamer.com/hardware/motherboards/msis-x870-and-x870e-motherboards-come-with-an-auxiliary-8-pin-power-connector-which-could-indicate-some-scary-next-gen-gpu-power-consumption-levels)
+ - [Indiana Jones and the Great Circle will have challenging puzzles, but also a creative hint system through Indy&#39;s camera: &#39;We don&#39;t want you to go to YouTube to look up the solution, because that&#39;s immersion-breaking and bad&#39;](https://www.pcgamer.com/games/fps/indiana-jones-and-the-great-circle-will-have-challenging-puzzles-but-also-a-creative-hint-system-through-indys-camera-we-dont-want-you-to-go-to-youtube-to-look-up-the-solution-because-thats-immersion-breaking-and-bad)
+ - [Flip patties with friends to fill orders in cozy cook-em-up Galaxy Burger](https://www.pcgamer.com/games/flip-patties-with-friends-to-fill-orders-in-cozy-cook-em-up-galaxy-burger)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
