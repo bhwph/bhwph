@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is the lowest price we’ve seen the Motorola Razr Plus 2023 hit](https://www.androidauthority.com/motorola-razr-plus-2023-deal-2-3475185/)
- - [The 14 Best Pillows We Found After Months of Night-Time Testing &lpar;2024&rpar;](https://www.wired.com/gallery/best-pillows/)
- - [Google Messages is giving you another way to find your lost group chats](https://www.androidauthority.com/google-messages-group-chat-search-new-conversation-3475152/)<!-- TECH:END -->
+ - [Yamaha R-N1000A Review: Retro Style, Modern Convenience](https://www.wired.com/review/yamaha-r-n1000a/)
+ - [Our two very favorite headphones are heavily discounted right now](https://www.androidauthority.com/apple-airpods-max-sony-wh-1000mx5-deals-3475183/)
+ - [Your button-less phone dream might become a reality next year](https://www.androidauthority.com/xiaomi-button-less-phone-3475199/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
