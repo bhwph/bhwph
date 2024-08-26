@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hero dad](http://9gag.com/gag/aZZmV79)
- - 😝 [Speedy Gonzales on the loose again.](http://9gag.com/gag/a87ynD1)
- - 👉 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)<!-- MEMES:END -->
+ - 6️⃣ [Those two are doing well. Fame did not do harm to them](http://9gag.com/gag/aRBmGp5)
+ - 😝 [Nerds rejoice, we be happening!](http://9gag.com/gag/an7bZX5)
+ - 👉 [100 years ago this would be on every newspaper on the planet and this dude would be in history books. Now it&#39;s just a YouTube short.](http://9gag.com/gag/a0ebGZX)<!-- MEMES:END -->
 
 --- 
 
