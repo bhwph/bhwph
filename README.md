@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Another obvious reason](http://9gag.com/gag/awynvjB)
- - 😝 [AI is contributing to a better world, they say](http://9gag.com/gag/a34qnr1)
- - 👉 [TATE Brothers - DllCOT of Romania seized all of Andrew &amp; Tristan Tates cars. They now have 32 supercars seized. Noooo, even the Lada\u2026 Insane!!](http://9gag.com/gag/aoy1qLg)<!-- MEMES:END -->
+ - 6️⃣ [Zooming into iphone cpu die &lpar;5nm&rpar;](http://9gag.com/gag/aAydLWZ)
+ - 😝 [As a Swedish person, I have always wondered as well](http://9gag.com/gag/axyVQK2)
+ - 👉 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)<!-- MEMES:END -->
 
 --- 
 
