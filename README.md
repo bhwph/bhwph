@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)
- - 😝 [TroIIing them](http://9gag.com/gag/a6Zb49N)
- - 👉 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s crazy honestly..](http://9gag.com/gag/aYQxnDx)
+ - 😝 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
+ - 👉 [TroIIing them](http://9gag.com/gag/a6Zb49N)<!-- MEMES:END -->
 
 --- 
 
