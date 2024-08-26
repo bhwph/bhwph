@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Zooming into iphone cpu die &lpar;5nm&rpar;](http://9gag.com/gag/aAydLWZ)
- - 😝 [As a Swedish person, I have always wondered as well](http://9gag.com/gag/axyVQK2)
- - 👉 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)<!-- MEMES:END -->
+ - 6️⃣ [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)
+ - 😝 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
+ - 👉 [She wants a ring I guess](http://9gag.com/gag/aAydqnE)<!-- MEMES:END -->
 
 --- 
 
