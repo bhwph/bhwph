@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Those two are doing well. Fame did not do harm to them](http://9gag.com/gag/aRBmGp5)
- - 😝 [Nerds rejoice, we be happening!](http://9gag.com/gag/an7bZX5)
- - 👉 [100 years ago this would be on every newspaper on the planet and this dude would be in history books. Now it&#39;s just a YouTube short.](http://9gag.com/gag/a0ebGZX)<!-- MEMES:END -->
+ - 6️⃣ [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)
+ - 😝 [TroIIing them](http://9gag.com/gag/a6Zb49N)
+ - 👉 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)<!-- MEMES:END -->
 
 --- 
 
