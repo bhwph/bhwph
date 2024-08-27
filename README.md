@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Activision Canceled A Crash Bandicoot / Spyro Crossover Game](https://kotaku.com/crash-bandicoot-5-spyro-crossover-cancelled-activision-1851632213)
- - [Report says well-known videogame accessibility advocate may not have actually existed](https://www.pcgamer.com/games/report-says-well-known-videogame-accessibility-advocate-may-not-have-actually-existed)
- - [The Black Myth: Wukong map mod is here to make your Journey to the West a little easier](https://www.pcgamer.com/games/action/the-black-myth-wukong-map-mod-is-here-to-make-your-journey-to-the-west-a-little-easier)<!-- GAME:END -->
+ - [Star Wars Outlaws release time and release date](https://www.pcgamer.com/games/action/star-wars-outlaws-release-time-date)
+ - [The Olympics may be over, but I&#39;m still going for 40-year-old gold in the first licensed Olympic games](https://www.pcgamer.com/games/sports/the-olympics-may-be-over-but-im-still-going-for-40-year-old-gold-in-the-first-licensed-olympic-games)
+ - [&#39;A violation is upon you&#39;: Valve called out for breaking its own rules with Deadlock&#39;s Steam store page](https://www.pcgamer.com/games/a-violation-is-upon-you-valve-called-out-for-breaking-its-own-rules-with-deadlocks-steam-store-page)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
