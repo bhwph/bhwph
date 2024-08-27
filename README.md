@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There are still many more](https://www.reddit.com/r/memes/comments/1f2cny6/there_are_still_many_more/)
- - 😝 [Bro thought he over slept](https://www.reddit.com/r/funny/comments/1f2cbhy/bro_thought_he_over_slept/)
- - 👉 [In for a hard time](https://www.reddit.com/r/memes/comments/1f2bjro/in_for_a_hard_time/)<!-- MEMES:END -->
+ - 6️⃣ [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - 😝 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)
+ - 👉 [Extreme Culinary](http://9gag.com/gag/a0ebGjZ)<!-- MEMES:END -->
 
 --- 
 
