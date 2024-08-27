@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Grid Is Adding Batteries at a Much Faster Rate Than Natural Gas](https://www.wired.com/story/us-grid-battery-solar-wind-natural-gas-rate/)
- - [Limited outages are affecting Apple Books and Mac App Store](https://appleinsider.com/articles/24/08/27/limited-outages-are-affecting-apple-books-and-mac-app-store?utm_medium=rss)
- - [Google Gemini might soon handle your WhatsApp calls, notifications, and more &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-extensions-whatsapp-notifications-3475708/)<!-- TECH:END -->
+ - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
+ - [Solar Battery Buying Guide: Everything You Need to Know](https://www.cnet.com/home/energy-and-utilities/battery-backup-buying-guide-heres-everything-you-need-to-know/#ftag=CAD590a51e)
+ - [Best Rice Cookers of 2024](https://www.cnet.com/home/kitchen-and-household/best-rice-cooker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
