@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple research hints at how a Home Hub might be remotely controlled](https://appleinsider.com/articles/24/08/27/new-apple-research-hints-at-how-a-home-hub-might-be-remotely-controlled?utm_medium=rss)
- - [If you wanted Galaxy Ring pajamas for some reason, you just got your wish](https://www.androidauthority.com/galaxy-ring-inspired-pajamas-3475329/)
- - [Sony’s PlayStation PC push now includes a controller customization app](https://www.theverge.com/2024/8/27/24229509/sony-playstation-dualsense-edge-controller-app-pc)<!-- TECH:END -->
+ - [Instagram now lets users add text to photos right from its post editor, rather than needing a separate app, and add more photos as stickers on top of a photo &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240827/p17#a240827p17)
+ - [How to watch Apple&#39;s iPhone 16 &#39;Glowtime&#39; event](https://appleinsider.com/inside/iphone-16/tips/how-to-watch-apples-iphone-16-glowtime-event?utm_medium=rss)
+ - [Meta says it will shut down Meta Spark, its third-party AR tools and content platform that launched in 2017, effective January 14, 2025, angering some creators &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240827/p16#a240827p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
