@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet enhances picture-in-picture mode with this key change](https://www.androidauthority.com/google-meet-enhances-picture-in-picture-3475509/)
- - [A look at &quot;Terrorgram&quot;, a network of far-right Telegram channels posting info on power grid attacks, which the North American Reliability Corp. says have spiked &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/240827/p2#a240827p2)
- - [Best Internet Providers in Ontario, California](https://www.cnet.com/home/internet/best-internet-providers-in-ontario-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Pixel 9 Pro Fold isn’t on shelves yet, but someone got their hands on it](https://www.androidauthority.com/pixel-9-pro-fold-unboxed-early-3475534/)
+ - [In France, Telegram is avidly used within political and media circles, including by President Emmanuel Macron, who has used the app for nearly a decade &lpar;Politico&rpar;](http://www.techmeme.com/240827/p6#a240827p6)
+ - [Samsung’s new AI smart TVs are getting seven years of OS updates](https://www.theverge.com/2024/8/27/24229429/samsung-ai-smart-tvs-tizen-os-seven-years-updates)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
