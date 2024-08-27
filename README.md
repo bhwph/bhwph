@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s crazy honestly..](http://9gag.com/gag/aYQxnDx)
- - 😝 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
- - 👉 [TroIIing them](http://9gag.com/gag/a6Zb49N)<!-- MEMES:END -->
+ - 6️⃣ [A few seconds later and...](http://9gag.com/gag/aO8zn52)
+ - 😝 [All those millions of claims for not even 700 concurrent players. Hilarious](http://9gag.com/gag/aZZmVop)
+ - 👉 [That&#39;s crazy honestly..](http://9gag.com/gag/aYQxnDx)<!-- MEMES:END -->
 
 --- 
 
