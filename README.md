@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A few seconds later and...](http://9gag.com/gag/aO8zn52)
- - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - 👉 [That f**king boulder!](http://9gag.com/gag/aPABLmV)<!-- MEMES:END -->
+ - 6️⃣ [Pay it forward guys](http://9gag.com/gag/agmLwyn)
+ - 😝 [Refund didn\u2019t go as planned](http://9gag.com/gag/apRp7AM)
+ - 👉 [That escalated so quickly](http://9gag.com/gag/aKGVy1b)<!-- MEMES:END -->
 
 --- 
 
