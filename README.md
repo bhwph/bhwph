@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That would be something i`d pay to watch any time of the day](http://9gag.com/gag/aO8zWL6)
- - 😝 [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
- - 👉 [Feminism is cancer](http://9gag.com/gag/aByWenN)<!-- MEMES:END -->
+ - 6️⃣ [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)
+ - 😝 [Payload deployed](http://9gag.com/gag/amoYwEv)
+ - 👉 [Two days of seeing things](http://9gag.com/gag/azx83Vm)<!-- MEMES:END -->
 
 --- 
 
