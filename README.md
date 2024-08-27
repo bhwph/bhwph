@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pay it forward guys](http://9gag.com/gag/agmLwyn)
- - 😝 [Refund didn\u2019t go as planned](http://9gag.com/gag/apRp7AM)
- - 👉 [That escalated so quickly](http://9gag.com/gag/aKGVy1b)<!-- MEMES:END -->
+ - 6️⃣ [That would be something i`d pay to watch any time of the day](http://9gag.com/gag/aO8zWL6)
+ - 😝 [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
+ - 👉 [Feminism is cancer](http://9gag.com/gag/aByWenN)<!-- MEMES:END -->
 
 --- 
 
