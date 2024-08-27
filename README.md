@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not Sure If Troll or Serious.](http://9gag.com/gag/a1mbBww)
- - 😝 [Big things going in at BIC](http://9gag.com/gag/axyVe6L)
- - 👉 [My fellow asian 9gaggers](http://9gag.com/gag/aXPqQYv)<!-- MEMES:END -->
+ - 6️⃣ [Deep](http://9gag.com/gag/aVvq4M2)
+ - 😝 [All those millions of claims for not even 700 concurrent players. Hilarious](http://9gag.com/gag/aZZmVop)
+ - 👉 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)<!-- MEMES:END -->
 
 --- 
 
