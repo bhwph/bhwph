@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram now lets users add text to photos right from its post editor, rather than needing a separate app, and add more photos as stickers on top of a photo &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240827/p17#a240827p17)
- - [How to watch Apple&#39;s iPhone 16 &#39;Glowtime&#39; event](https://appleinsider.com/inside/iphone-16/tips/how-to-watch-apples-iphone-16-glowtime-event?utm_medium=rss)
- - [Meta says it will shut down Meta Spark, its third-party AR tools and content platform that launched in 2017, effective January 14, 2025, angering some creators &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240827/p16#a240827p16)<!-- TECH:END -->
+ - [The US Grid Is Adding Batteries at a Much Faster Rate Than Natural Gas](https://www.wired.com/story/us-grid-battery-solar-wind-natural-gas-rate/)
+ - [Limited outages are affecting Apple Books and Mac App Store](https://appleinsider.com/articles/24/08/27/limited-outages-are-affecting-apple-books-and-mac-app-store?utm_medium=rss)
+ - [Google Gemini might soon handle your WhatsApp calls, notifications, and more &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-extensions-whatsapp-notifications-3475708/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
