@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How VPNs protect you from governments, thieves, and your boss](https://appleinsider.com/inside/iphone/tips/how-vpns-protect-you-from-governments-thieves-and-your-boss?utm_medium=rss)
- - [Data infrastructure startup Cribl raised $200M led by GV, alongside a $119M secondary offering, at a $3.5B valuation, taking its total funding to $600M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240827/p11#a240827p11)
- - [Google’s new Quick Settings tile for Wallet is rolling out now](https://www.androidauthority.com/google-new-quick-access-wallet-tile-3475574/)<!-- TECH:END -->
+ - [New Apple research hints at how a Home Hub might be remotely controlled](https://appleinsider.com/articles/24/08/27/new-apple-research-hints-at-how-a-home-hub-might-be-remotely-controlled?utm_medium=rss)
+ - [If you wanted Galaxy Ring pajamas for some reason, you just got your wish](https://www.androidauthority.com/galaxy-ring-inspired-pajamas-3475329/)
+ - [Sony’s PlayStation PC push now includes a controller customization app](https://www.theverge.com/2024/8/27/24229509/sony-playstation-dualsense-edge-controller-app-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
