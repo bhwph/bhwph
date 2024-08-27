@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metal Gear Solid 3&#39;s Famous Salute Is Now A $430 Statue](https://kotaku.com/mgs3-delta-snake-eater-remake-statute-boss-salute-price-1851633084)
- - [Geralt and Dave the Diver are in Balatro now](https://www.pcgamer.com/games/card-games/geralt-and-dave-the-diver-are-in-balatro-now)
- - [Hands-On With Monster Hunter Wilds Shows The Series Is Bound For Even More Greatness](https://kotaku.com/monster-hunter-wilds-hands-on-preview-1851633107)<!-- GAME:END -->
+ - [Street Fighter 6’s Version Of Terry Looks And Feels Tremendous In Action](https://kotaku.com/street-fighter-6-terry-preview-replay-v-rivals-1851633356)
+ - [Nearly every essential Castlevania game is now on PC, with one glaring exception](https://www.pcgamer.com/games/action/nearly-every-essential-castlevania-game-is-now-on-pc-with-one-glaring-exception)
+ - [Ryan Reynolds’ deleted Deadpool &amp;#038; Wolverine clip suggests a future for its biggest cameo](https://www.polygon.com/movies/444921/deadpool-wolverine-deleted-gambit-scene)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
