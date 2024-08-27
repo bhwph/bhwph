@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Deep](http://9gag.com/gag/aVvq4M2)
- - 😝 [All those millions of claims for not even 700 concurrent players. Hilarious](http://9gag.com/gag/aZZmVop)
- - 👉 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)<!-- MEMES:END -->
+ - 6️⃣ [Conversation with harley](http://9gag.com/gag/aW4mP2K)
+ - 😝 [The Notting Hill Carnival in London, this weekend](http://9gag.com/gag/a7orgZe)
+ - 👉 [His own teammate and the referee looking like they just witnessed a hate crime lol](http://9gag.com/gag/aqybwXL)<!-- MEMES:END -->
 
 --- 
 
