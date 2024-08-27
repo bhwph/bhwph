@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 9 Pro Fold isn’t on shelves yet, but someone got their hands on it](https://www.androidauthority.com/pixel-9-pro-fold-unboxed-early-3475534/)
- - [In France, Telegram is avidly used within political and media circles, including by President Emmanuel Macron, who has used the app for nearly a decade &lpar;Politico&rpar;](http://www.techmeme.com/240827/p6#a240827p6)
- - [Samsung’s new AI smart TVs are getting seven years of OS updates](https://www.theverge.com/2024/8/27/24229429/samsung-ai-smart-tvs-tizen-os-seven-years-updates)<!-- TECH:END -->
+ - [How VPNs protect you from governments, thieves, and your boss](https://appleinsider.com/inside/iphone/tips/how-vpns-protect-you-from-governments-thieves-and-your-boss?utm_medium=rss)
+ - [Data infrastructure startup Cribl raised $200M led by GV, alongside a $119M secondary offering, at a $3.5B valuation, taking its total funding to $600M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240827/p11#a240827p11)
+ - [Google’s new Quick Settings tile for Wallet is rolling out now](https://www.androidauthority.com/google-new-quick-access-wallet-tile-3475574/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
