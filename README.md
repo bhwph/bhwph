@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
- - [Solar Battery Buying Guide: Everything You Need to Know](https://www.cnet.com/home/energy-and-utilities/battery-backup-buying-guide-heres-everything-you-need-to-know/#ftag=CAD590a51e)
- - [Best Rice Cookers of 2024](https://www.cnet.com/home/kitchen-and-household/best-rice-cooker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mark Zuckerberg&#39;s letter to Jim Jordan gave Republicans just enough to claim a political win, without getting Meta in more trouble amid its FTC antitrust suit &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/240827/p26#a240827p26)
+ - [The maker of the Palma has a new cheaper e-reader](https://www.theverge.com/2024/8/27/24229994/boox-go-6-palma-cheaper-e-reader)
+ - [Deal: This Belkin MagSafe 3-in-1 Wireless Charging Stand is $52 off](https://www.androidauthority.com/belkin-magsafe-3-in-1-wireless-charging-stand-deal-3475763/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
