@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pay it forward guys](http://9gag.com/gag/agmLwyn)
- - 😝 [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)
- - 👉 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)<!-- MEMES:END -->
+ - 6️⃣ [A few seconds later and...](http://9gag.com/gag/aO8zn52)
+ - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - 👉 [That f**king boulder!](http://9gag.com/gag/aPABLmV)<!-- MEMES:END -->
 
 --- 
 
