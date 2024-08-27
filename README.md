@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Watch your steps missy !](http://9gag.com/gag/a7orPrA)
- - 😝 [Now the silver and gold medals are also looking terrible after 2 weeks...](http://9gag.com/gag/aByWbAZ)
- - 👉 [Equal payment](http://9gag.com/gag/ayNDZMV)<!-- MEMES:END -->
+ - 6️⃣ [There are still many more](https://www.reddit.com/r/memes/comments/1f2cny6/there_are_still_many_more/)
+ - 😝 [Bro thought he over slept](https://www.reddit.com/r/funny/comments/1f2cbhy/bro_thought_he_over_slept/)
+ - 👉 [In for a hard time](https://www.reddit.com/r/memes/comments/1f2bjro/in_for_a_hard_time/)<!-- MEMES:END -->
 
 --- 
 
