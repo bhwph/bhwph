@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The most anticipated TV shows of fall 2024](https://www.polygon.com/tv/439924/best-new-tv-fall-2024-release-calendar-schedule-shows-series)
- - [Where to watch Tuesday’s D&amp;#038;D Direct presentation](https://www.polygon.com/dnd-dungeons-dragons/444183/dnd-direct-livestream-where-to-watch)
- - [Go Battle League ‘Max Out’ rewards and schedule in Pokémon Go](https://www.polygon.com/pokemon-go-guide/444432/go-battle-league-max-out-season-20-rewards-schedule)<!-- GAME:END -->
+ - [Sony&#39;s PC obsession continues with in-depth DualSense Edge customisation on your PC](https://www.pcgamer.com/hardware/controllers/sonys-pc-obsession-continues-with-in-depth-dualsense-edge-customisation-on-your-pc)
+ - [Quentin Tarantino Won&#39;t Watch Toy Story 4, Says Previous Film Had &#39;Perfect&#39; Ending](https://kotaku.com/quentin-tarantino-toy-story-3-4-perfect-wont-watch-1851632823)
+ - [WoW game director Ion Hazzikostas says they&#39;re already drafting up plans for The Last Titan&#39;s patches—that&#39;s 2 expansions after The War Within, in case you&#39;re keeping score](https://www.pcgamer.com/games/world-of-warcraft/wow-game-director-ion-hazzikostas-says-they-re-already-drafting-up-plans-for-the-last-titan-s-patches-that-s-2-expansions-after-the-war-within-in-case-you-re-keeping-score)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
