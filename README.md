@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Visions Of Mana: The Kotaku Review](https://kotaku.com/visions-of-mana-review-square-enix-1851632322)
- - [Call of Duty: Black Ops 6 system requirements have been revealed and you won&#39;t need a rig upgrade if you can run &lpar;all of&rpar; last year&#39;s COD](https://www.pcgamer.com/hardware/call-of-duty-black-ops-6-system-requirements-have-been-revealed-and-you-wont-need-a-rig-upgrade-if-you-can-run-all-of-last-years-cod)
- - [World of Warcraft: The War Within is out—kicking off with banger zones, stupendous side quests, and early access gripes](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-the-war-within-is-out-kicking-off-with-banger-zones-stupendous-side-quests-and-early-access-gripes)<!-- GAME:END -->
+ - [The most anticipated TV shows of fall 2024](https://www.polygon.com/tv/439924/best-new-tv-fall-2024-release-calendar-schedule-shows-series)
+ - [Where to watch Tuesday’s D&amp;#038;D Direct presentation](https://www.polygon.com/dnd-dungeons-dragons/444183/dnd-direct-livestream-where-to-watch)
+ - [Go Battle League ‘Max Out’ rewards and schedule in Pokémon Go](https://www.polygon.com/pokemon-go-guide/444432/go-battle-league-max-out-season-20-rewards-schedule)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
