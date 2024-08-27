@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp is working on its best Snapchat impression with new AR filters](https://www.androidauthority.com/whatsapp-ar-filters-3475448/)
- - [Docs: Amazon plans to launch its delayed overhaul of Alexa in October for as much as $10/month, with AI-generated news summaries, a chatbot for kids, and more &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240826/p25#a240826p25)
- - [Telegram CEO Pavel Durov’s Arrest Linked to Sweeping Criminal Investigation](https://www.wired.com/story/telegram-pavel-durov-arrest-investigation-allegations/)<!-- TECH:END -->
+ - [India&#39;s central bank says its CBDC pilot has 5M+ users and as many as 16 banks participating, but it&#39;s not rushing to roll out a full-scale implementation &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/240826/p30#a240826p30)
+ - [In a letter to US Rep. Jim Jordan, Mark Zuckerberg says he regrets Meta wasn&#39;t more outspoken about the Biden admin&#39;s pressure to restrict some COVID-19 content &lpar;Siobhan Hughes/Wall Street Journal&rpar;](http://www.techmeme.com/240826/p29#a240826p29)
+ - [&#39;Only Murders in the Building&#39;: Season 4 Release Date and Where to Stream](https://www.cnet.com/tech/services-and-software/only-murders-in-the-building-season-4-release-date-and-where-to-stream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
