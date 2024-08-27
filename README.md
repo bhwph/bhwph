@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Conversation with harley](http://9gag.com/gag/aW4mP2K)
- - 😝 [The Notting Hill Carnival in London, this weekend](http://9gag.com/gag/a7orgZe)
- - 👉 [His own teammate and the referee looking like they just witnessed a hate crime lol](http://9gag.com/gag/aqybwXL)<!-- MEMES:END -->
+ - 6️⃣ [Watch your steps missy !](http://9gag.com/gag/a7orPrA)
+ - 😝 [Now the silver and gold medals are also looking terrible after 2 weeks...](http://9gag.com/gag/aByWbAZ)
+ - 👉 [Equal payment](http://9gag.com/gag/ayNDZMV)<!-- MEMES:END -->
 
 --- 
 
