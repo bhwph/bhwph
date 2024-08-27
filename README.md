@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Street Fighter 6’s Version Of Terry Looks And Feels Tremendous In Action](https://kotaku.com/street-fighter-6-terry-preview-replay-v-rivals-1851633356)
- - [Nearly every essential Castlevania game is now on PC, with one glaring exception](https://www.pcgamer.com/games/action/nearly-every-essential-castlevania-game-is-now-on-pc-with-one-glaring-exception)
- - [Ryan Reynolds’ deleted Deadpool &amp;#038; Wolverine clip suggests a future for its biggest cameo](https://www.polygon.com/movies/444921/deadpool-wolverine-deleted-gambit-scene)<!-- GAME:END -->
+ - [Space Marine 2 reveals post-launch plans: 4 seasons of paid cosmetics and free gameplay updates including new maps, weapons, enemies, and a horde mode](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-reveals-post-launch-plans-4-seasons-of-paid-cosmetics-and-free-gameplay-updates-including-new-maps-weapons-enemies-and-a-horde-mode)
+ - [The eagerness to grave dance on unpopular games has become a bad habit](https://www.pcgamer.com/games/fps/the-eagerness-to-grave-dance-on-unpopular-games-has-become-a-bad-habit)
+ - [Deadlock wins the award for best placeholder UI text I&#39;ve ever read with this one-line character bio calling one of its heroes an a**hole](https://www.pcgamer.com/games/moba/deadlock-wins-the-award-for-best-placeholder-ui-text-ive-ever-read-with-this-one-line-character-bio-calling-one-of-its-heroes-an-ahole)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
