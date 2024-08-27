@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - 😝 [I had to make my own sandwiches when I was 5.](http://9gag.com/gag/aqybBYv)
- - 👉 [Extreme Culinary](http://9gag.com/gag/a0ebGjZ)<!-- MEMES:END -->
+ - 6️⃣ [Pay it forward guys](http://9gag.com/gag/agmLwyn)
+ - 😝 [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)
+ - 👉 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)<!-- MEMES:END -->
 
 --- 
 
