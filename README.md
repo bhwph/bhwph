@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Outlaws release time and release date](https://www.pcgamer.com/games/action/star-wars-outlaws-release-time-date)
- - [The Olympics may be over, but I&#39;m still going for 40-year-old gold in the first licensed Olympic games](https://www.pcgamer.com/games/sports/the-olympics-may-be-over-but-im-still-going-for-40-year-old-gold-in-the-first-licensed-olympic-games)
- - [&#39;A violation is upon you&#39;: Valve called out for breaking its own rules with Deadlock&#39;s Steam store page](https://www.pcgamer.com/games/a-violation-is-upon-you-valve-called-out-for-breaking-its-own-rules-with-deadlocks-steam-store-page)<!-- GAME:END -->
+ - [How to get into Gorak’s suite in Star Wars Outlaws](https://www.polygon.com/star-wars-outlaws-guides/442950/gorak-suite-how-to-enter)
+ - [13 beginners tips before starting Star Wars Outlaws](https://www.polygon.com/star-wars-outlaws-guides/444006/beginners-tips-tricks)
+ - [Can Magnemite be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/444073/can-magnemite-be-shiny-magneton-magnezone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
