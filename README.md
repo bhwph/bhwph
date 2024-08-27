@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony&#39;s PC obsession continues with in-depth DualSense Edge customisation on your PC](https://www.pcgamer.com/hardware/controllers/sonys-pc-obsession-continues-with-in-depth-dualsense-edge-customisation-on-your-pc)
- - [Quentin Tarantino Won&#39;t Watch Toy Story 4, Says Previous Film Had &#39;Perfect&#39; Ending](https://kotaku.com/quentin-tarantino-toy-story-3-4-perfect-wont-watch-1851632823)
- - [WoW game director Ion Hazzikostas says they&#39;re already drafting up plans for The Last Titan&#39;s patches—that&#39;s 2 expansions after The War Within, in case you&#39;re keeping score](https://www.pcgamer.com/games/world-of-warcraft/wow-game-director-ion-hazzikostas-says-they-re-already-drafting-up-plans-for-the-last-titan-s-patches-that-s-2-expansions-after-the-war-within-in-case-you-re-keeping-score)<!-- GAME:END -->
+ - [Metal Gear Solid 3&#39;s Famous Salute Is Now A $430 Statue](https://kotaku.com/mgs3-delta-snake-eater-remake-statute-boss-salute-price-1851633084)
+ - [Geralt and Dave the Diver are in Balatro now](https://www.pcgamer.com/games/card-games/geralt-and-dave-the-diver-are-in-balatro-now)
+ - [Hands-On With Monster Hunter Wilds Shows The Series Is Bound For Even More Greatness](https://kotaku.com/monster-hunter-wilds-hands-on-preview-1851633107)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
