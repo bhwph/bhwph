@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Emio – The Smiling Man is a captivating tale with a middling end](https://www.polygon.com/review/444764/emio-the-smiling-man-review-nintendo-switch)
- - [Deadlock&#39;s upcoming hero Astro, is a sign that players need to start learning better movement habits](https://www.pcgamer.com/games/moba/deadlocks-upcoming-hero-astro-is-a-sign-that-players-need-to-start-learning-better-movement-habits)
- - [Final Fantasy 14 director Yoshi-P talks about the Scion&#39;s &#39;half-hearted&#39; role in Dawntrail, says they&#39;ll likely use smaller, more selective groups of beloved NPCs in the future](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-s-yoshi-p-talks-about-the-scion-s-half-hearted-role-in-dawntrail-says-they-ll-likely-use-smaller-more-selective-groups-of-the-game-s-beloved-npcs-in-the-future)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 YouTuber uncovers 15 minutes of fully voiced &#39;impossible&#39; content, and it turns out Karlach&#39;s 4th-wall break is far from the game&#39;s only hidden scene](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-youtuber-uncovers-15-minutes-of-fully-voiced-impossible-content-and-it-turns-out-karlachs-4th-wall-break-isnt-the-games-only-hidden-scene)
+ - [You can now rent a &#39;minibrain&#39; for $500 a month and the potential implications are horrifying](https://www.pcgamer.com/hardware/you-can-now-rent-a-minibrain-for-dollar500-a-month-and-the-potential-implications-are-horrifying)
+ - [The 26 must-read books of fall 2024](https://www.polygon.com/books/444069/book-preview-fall-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
