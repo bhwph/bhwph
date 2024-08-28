@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)
- - 😝 [Payload deployed](http://9gag.com/gag/amoYwEv)
- - 👉 [Two days of seeing things](http://9gag.com/gag/azx83Vm)<!-- MEMES:END -->
+ - 6️⃣ [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
+ - 😝 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)
+ - 👉 [Pay it forward guys](http://9gag.com/gag/agmLwyn)<!-- MEMES:END -->
 
 --- 
 
