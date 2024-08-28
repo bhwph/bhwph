@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - 😝 [This Cop was Fired and is Facing a Million Dollar Lawsuit.](http://9gag.com/gag/aYQxX7x)
- - 👉 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)<!-- MEMES:END -->
+ - 6️⃣ [Gamestop return.](http://9gag.com/gag/abAp8OB)
+ - 😝 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
+ - 👉 [Payload deployed](http://9gag.com/gag/amoYwEv)<!-- MEMES:END -->
 
 --- 
 
