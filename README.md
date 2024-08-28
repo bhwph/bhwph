@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Mac mini doesn&#39;t sell in huge volumes, but is a crucial part of Apple&#39;s ecosystem](https://appleinsider.com/articles/24/08/28/the-mac-mini-doesnt-sell-in-huge-volumes-but-is-a-crucial-part-of-apples-ecosystem?utm_medium=rss)
- - [The Trump Campaign’s Rhetoric About Women Sounds a Lot Like Andrew Tate’s](https://www.wired.com/story/trump-vance-campaign-rhetoric-women-andrew-tate/)
- - [Amazon slashes Apple&#39;s M3 iMac to $1,099, matching record low price](https://appleinsider.com/articles/24/08/28/amazon-slashes-apples-m3-imac-to-1099-matching-record-low-price?utm_medium=rss)<!-- TECH:END -->
+ - [The 9th-generation Apple iPad is still only $199!](https://www.androidauthority.com/apple-ipad-9th-generation-deal-2-3476081/)
+ - [The best Labor Day deals you can already get](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)
+ - [Samsung Galaxy Z Fold 6 Slim rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-slim-3463278/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
