@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You&#39;re my sister! Only by blood..](http://9gag.com/gag/an7bPVz)
- - 😝 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - 👉 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)<!-- MEMES:END -->
+ - 6️⃣ [Best devil in a movie? I\u2019ll start](http://9gag.com/gag/aGy1mMK)
+ - 😝 [Unscrew yourself](http://9gag.com/gag/aZZmXmn)
+ - 👉 [Two days of seeing things](http://9gag.com/gag/azx83Vm)<!-- MEMES:END -->
 
 --- 
 
