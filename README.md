@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best devil in a movie? I\u2019ll start](http://9gag.com/gag/aGy1mMK)
- - 😝 [I knew about this through 9gag now I&#39;m returning the favour to innocent curious minds, those assholes definitely should have gotten death sentences Japan law system is a f**king joke](http://9gag.com/gag/agmLwoq)
- - 👉 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)<!-- MEMES:END -->
+ - 6️⃣ [Nice hummm spider costume.](http://9gag.com/gag/ae9b8dm)
+ - 😝 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
+ - 👉 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)<!-- MEMES:END -->
 
 --- 
 
