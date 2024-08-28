@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 range may increase RAM to 12GB](https://appleinsider.com/articles/24/08/28/iphone-17-range-may-increase-ram-to-12gb?utm_medium=rss)
- - [How Telegram CEO Pavel Durov miscalculated on moderation, saying earlier in 2024 that he did not expect &quot;significant challenges&quot; despite new laws targeting tech &lpar;Financial Times&rpar;](http://www.techmeme.com/240828/p6#a240828p6)
- - [The Big Interview Gets Even Bigger](https://www.wired.com/story/the-big-interview-gets-even-bigger/)<!-- TECH:END -->
+ - [An Illinois school completely lost a child, and AirTag found him](https://appleinsider.com/articles/24/08/28/an-illinois-school-completely-lost-a-child-and-airtag-found-him?utm_medium=rss)
+ - [Shokz’s new bone conduction headphones have a clever solution for bass](https://www.theverge.com/2024/8/28/24229891/shokz-openrun-pro-2-review-bone-conduction-headphones)
+ - [Uber tweaks its teen accounts to allow parents to book rides](https://www.theverge.com/2024/8/28/24229851/uber-teen-account-update-ride-booking-parent)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
