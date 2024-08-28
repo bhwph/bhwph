@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Stranger in Lord of the Rings: Rings of Power isn’t who you think](https://www.polygon.com/23327884/rings-power-meteor-stranger-who-is-character-lord-rings-explained)
- - [Konami Basically Confirms Metal Gear Solid 4 Is Coming To PS5 And Xbox](https://kotaku.com/mgs4-ps3-ps4-ps5-xbox-konami-vol-2-confirmed-dots-ign-1851634174)
- - [Indie Selects for August: End Summer with Some of Our Favorite New Launches](https://news.xbox.com/en-us/2024/08/28/indie-selects-id-xbox-august/)<!-- GAME:END -->
+ - [How To Beat Fortnite&#39;s Latest Marvel Quest, Heroes Assemble](https://kotaku.com/fortnite-heroes-assemble-guide-marvel-quests-1851634215)
+ - [Escape Room Madness: Which Mad Experiments Game is for You?](https://news.xbox.com/en-us/2024/08/28/escape-room-madness-which-mad-experiments-game-is-for-you/)
+ - [A Scene In The Sonic 3 Trailer Already Has Fans Theorizing About Sonic 4](https://kotaku.com/sonic-3-trailer-robotnik-metal-quill-theory-ending-1851634404)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
