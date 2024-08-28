@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)
+ - 6️⃣ [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
  - 😝 [Bro learned something that day](http://9gag.com/gag/agmLeQK)
- - 👉 [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)<!-- MEMES:END -->
+ - 👉 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)<!-- MEMES:END -->
 
 --- 
 
