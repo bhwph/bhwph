@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Illinois school completely lost a child, and AirTag found him](https://appleinsider.com/articles/24/08/28/an-illinois-school-completely-lost-a-child-and-airtag-found-him?utm_medium=rss)
- - [Shokz’s new bone conduction headphones have a clever solution for bass](https://www.theverge.com/2024/8/28/24229891/shokz-openrun-pro-2-review-bone-conduction-headphones)
- - [Uber tweaks its teen accounts to allow parents to book rides](https://www.theverge.com/2024/8/28/24229851/uber-teen-account-update-ride-booking-parent)<!-- TECH:END -->
+ - [Polestar CEO Thomas Ingenlath is stepping down amid flagging sales](https://www.theverge.com/2024/8/28/24230413/polestar-ceo-thomas-ingenlath-stepping-down)
+ - [The Galaxy S25 Ultra could be thinner and lighter than all its competitors](https://www.androidauthority.com/galaxy-s25-ultra-thinner-lighter-3475930/)
+ - [Brace yourselves: Flagship Android phones will get more expensive](https://www.androidauthority.com/expensive-smartphones-2025-xiaomi-3475935/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
