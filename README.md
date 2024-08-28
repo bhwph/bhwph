@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
- - 😝 [Bro learned something that day](http://9gag.com/gag/agmLeQK)
- - 👉 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)<!-- MEMES:END -->
+ - 6️⃣ [You&#39;re my sister! Only by blood..](http://9gag.com/gag/an7bPVz)
+ - 😝 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
+ - 👉 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)<!-- MEMES:END -->
 
 --- 
 
