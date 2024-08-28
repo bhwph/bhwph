@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slim or Ultra? Samsung’s thinner Z Fold 6 might have an all-new name](https://www.androidauthority.com/samsung-galaxy-z-fold-6-slim-ultra-new-name-3475891/)
- - [Google Photos could soon get video presets to make basic edits much easier](https://www.androidauthority.com/google-photos-video-presets-teardown-3475503/)
- - [Venezuelan journalists are using AI avatars to host daily newscasts without putting themselves at risk, as President Nicol&amp;aacute;s Maduro cracks down on the media &lpar;The Guardian&rpar;](http://www.techmeme.com/240828/p2#a240828p2)<!-- TECH:END -->
+ - [iPhone 17 range may increase RAM to 12GB](https://appleinsider.com/articles/24/08/28/iphone-17-range-may-increase-ram-to-12gb?utm_medium=rss)
+ - [How Telegram CEO Pavel Durov miscalculated on moderation, saying earlier in 2024 that he did not expect &quot;significant challenges&quot; despite new laws targeting tech &lpar;Financial Times&rpar;](http://www.techmeme.com/240828/p6#a240828p6)
+ - [The Big Interview Gets Even Bigger](https://www.wired.com/story/the-big-interview-gets-even-bigger/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
