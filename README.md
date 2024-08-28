@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
- - 😝 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)
- - 👉 [Pay it forward guys](http://9gag.com/gag/agmLwyn)<!-- MEMES:END -->
+ - 6️⃣ [One of the best](http://9gag.com/gag/amoYZno)
+ - 😝 [Afghanistan to Pakistan hashish and opium smuggling... Now this is a green company! No fossil fuel, just pure kinetic power....](http://9gag.com/gag/aVvq8BP)
+ - 👉 [Extreme Culinary](http://9gag.com/gag/a0ebGjZ)<!-- MEMES:END -->
 
 --- 
 
