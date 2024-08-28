@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)
- - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - 👉 [Why is this so accurate](http://9gag.com/gag/a9yre40)<!-- MEMES:END -->
+ - 6️⃣ [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)
+ - 😝 [Bro learned something that day](http://9gag.com/gag/agmLeQK)
+ - 👉 [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)<!-- MEMES:END -->
 
 --- 
 
