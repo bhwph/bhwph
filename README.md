@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One of the best](http://9gag.com/gag/amoYZno)
- - 😝 [Afghanistan to Pakistan hashish and opium smuggling... Now this is a green company! No fossil fuel, just pure kinetic power....](http://9gag.com/gag/aVvq8BP)
- - 👉 [Extreme Culinary](http://9gag.com/gag/a0ebGjZ)<!-- MEMES:END -->
+ - 6️⃣ [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)
+ - 😝 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - 👉 [Why is this so accurate](http://9gag.com/gag/a9yre40)<!-- MEMES:END -->
 
 --- 
 
