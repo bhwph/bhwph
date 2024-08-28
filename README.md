@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice hummm spider costume.](http://9gag.com/gag/ae9b8dm)
- - 😝 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
- - 👉 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)<!-- MEMES:END -->
+ - 6️⃣ [Pay it forward guys](http://9gag.com/gag/agmLwyn)
+ - 😝 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
+ - 👉 [A ride stalled at Six Flags Mexico during a rain storm](http://9gag.com/gag/a0ebgmB)<!-- MEMES:END -->
 
 --- 
 
