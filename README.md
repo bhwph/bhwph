@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg&#39;s letter to Jim Jordan gave Republicans just enough to claim a political win, without getting Meta in more trouble amid its FTC antitrust suit &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/240827/p26#a240827p26)
- - [The maker of the Palma has a new cheaper e-reader](https://www.theverge.com/2024/8/27/24229994/boox-go-6-palma-cheaper-e-reader)
- - [Deal: This Belkin MagSafe 3-in-1 Wireless Charging Stand is $52 off](https://www.androidauthority.com/belkin-magsafe-3-in-1-wireless-charging-stand-deal-3475763/)<!-- TECH:END -->
+ - [Kenya-based Wasoko and Egypt-based MaxAB, two of Africa&#39;s largest B2B e-commerce platforms, merge in an all-stock deal; the companies raised over $240M combined &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/240827/p30#a240827p30)
+ - [How call centers in the Philippines&#39; vast outsourcing industry are adopting AI tools to assist human operators, in an effort to stay competitive &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240827/p29#a240827p29)
+ - [AT&amp;T customers report wireless service has been down for hours](https://www.theverge.com/2024/8/27/24230144/att-outage-wireless-cellphone-service-down-sos-mode)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
