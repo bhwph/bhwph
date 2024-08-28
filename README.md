@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 YouTuber uncovers 15 minutes of fully voiced &#39;impossible&#39; content, and it turns out Karlach&#39;s 4th-wall break is far from the game&#39;s only hidden scene](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-youtuber-uncovers-15-minutes-of-fully-voiced-impossible-content-and-it-turns-out-karlachs-4th-wall-break-isnt-the-games-only-hidden-scene)
- - [You can now rent a &#39;minibrain&#39; for $500 a month and the potential implications are horrifying](https://www.pcgamer.com/hardware/you-can-now-rent-a-minibrain-for-dollar500-a-month-and-the-potential-implications-are-horrifying)
- - [The 26 must-read books of fall 2024](https://www.polygon.com/books/444069/book-preview-fall-2024)<!-- GAME:END -->
+ - [The Stranger in Lord of the Rings: Rings of Power isn’t who you think](https://www.polygon.com/23327884/rings-power-meteor-stranger-who-is-character-lord-rings-explained)
+ - [Konami Basically Confirms Metal Gear Solid 4 Is Coming To PS5 And Xbox](https://kotaku.com/mgs4-ps3-ps4-ps5-xbox-konami-vol-2-confirmed-dots-ign-1851634174)
+ - [Indie Selects for August: End Summer with Some of Our Favorite New Launches](https://news.xbox.com/en-us/2024/08/28/indie-selects-id-xbox-august/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
