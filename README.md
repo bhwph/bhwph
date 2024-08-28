@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Beat Fortnite&#39;s Latest Marvel Quest, Heroes Assemble](https://kotaku.com/fortnite-heroes-assemble-guide-marvel-quests-1851634215)
- - [Escape Room Madness: Which Mad Experiments Game is for You?](https://news.xbox.com/en-us/2024/08/28/escape-room-madness-which-mad-experiments-game-is-for-you/)
- - [A Scene In The Sonic 3 Trailer Already Has Fans Theorizing About Sonic 4](https://kotaku.com/sonic-3-trailer-robotnik-metal-quill-theory-ending-1851634404)<!-- GAME:END -->
+ - [With a mix of RTS and deckbuilding, Warcana is truly one of the strangest genre patchworks I&#39;ve ever seen](https://www.pcgamer.com/games/strategy/with-a-mix-of-rts-and-deckbuilding-warcana-is-truly-one-of-the-strangest-genre-patchworks-ive-ever-seen)
+ - [How to unlock the Choir of One Exotic Catalysts in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/445174/catalyst-quest-choir-of-one-encore-secret-chests)
+ - [How to complete the ‘Encore’ Exotic mission and earn Choir of One in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/444098/choir-of-one-exotic-encore-mission-walkthrough)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
