@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 9th-generation Apple iPad is still only $199!](https://www.androidauthority.com/apple-ipad-9th-generation-deal-2-3476081/)
- - [The best Labor Day deals you can already get](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)
- - [Samsung Galaxy Z Fold 6 Slim rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-slim-3463278/)<!-- TECH:END -->
+ - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
+ - [Pavel Durov is charged in France for alleged complicity in the spread of CSAM and other crimes on Telegram, and allegations he refused to help authorities &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/240828/p25#a240828p25)
+ - [Meta is working on mixed-reality glasses, but they’re probably years away](https://www.theverge.com/2024/8/28/24230746/meta-mixed-reality-glasses-years-away)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
