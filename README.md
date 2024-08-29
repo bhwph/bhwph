@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy Creator’s Pick For The ‘Most Complete’ Entry In The Series May Surprise You](https://kotaku.com/final-fantasy-creator-s-pick-for-the-most-complete-en-1851635714)
- - [GTA Online update for the week of August 29](https://www.polygon.com/gta-online-guides/445710/august-29-weekly-update-events-gunrunning)
- - [Call of Duty: Black Ops 6  — hands-on report](https://blog.playstation.com/2024/08/29/call-of-duty-black-ops-6-hands-on-report/)<!-- GAME:END -->
+ - [Here&#39;s Our First Look At The New Jurassic Park Movie](https://kotaku.com/jurassic-park-world-4-rebirth-trailer-screenshots-2025-1851636033)
+ - [MOBAs are suddenly back in fashion, and one dev says it might be because of soulslikes: &#39;Now that more players understand that it feels great to master a difficult game, I think more are willing to take that journey&#39;](https://www.pcgamer.com/games/moba/mobas-are-suddenly-back-in-fashion-and-one-dev-says-it-might-be-because-of-soulslikes-now-that-more-players-understand-that-it-feels-great-to-master-a-difficult-game-i-think-more-are-willing-to-take-that-journey)
+ - [Yakuza: Like A Dragon Already Has A Live-Action Adaptation That Nails The Game&#39;s Madcap Vibes](https://kotaku.com/yakuza-like-a-dragon-amazon-takashi-miike-kiryu-majima-1851636013)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
