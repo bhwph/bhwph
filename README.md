@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s Our First Look At The New Jurassic Park Movie](https://kotaku.com/jurassic-park-world-4-rebirth-trailer-screenshots-2025-1851636033)
- - [MOBAs are suddenly back in fashion, and one dev says it might be because of soulslikes: &#39;Now that more players understand that it feels great to master a difficult game, I think more are willing to take that journey&#39;](https://www.pcgamer.com/games/moba/mobas-are-suddenly-back-in-fashion-and-one-dev-says-it-might-be-because-of-soulslikes-now-that-more-players-understand-that-it-feels-great-to-master-a-difficult-game-i-think-more-are-willing-to-take-that-journey)
- - [Yakuza: Like A Dragon Already Has A Live-Action Adaptation That Nails The Game&#39;s Madcap Vibes](https://kotaku.com/yakuza-like-a-dragon-amazon-takashi-miike-kiryu-majima-1851636013)<!-- GAME:END -->
+ - [Diablo 4: Vessel of Hatred&#39;s new runewords system will let barbarians teleport like loud, massively muscled sorcerers](https://www.pcgamer.com/games/rpg/diablo-4-vessel-of-hatreds-new-runewords-system-will-let-barbarians-teleport-like-loud-massively-muscled-sorcerers)
+ - [Gearbox&#39;s first Risk of Rain 2 expansion gets hammered on Steam as developer admits the PC version &#39;is in a really bad place&#39;](https://www.pcgamer.com/games/third-person-shooter/gearboxs-first-risk-of-rain-2-expansion-gets-hammered-on-steam-as-developer-admits-the-pc-version-is-in-a-really-bad-place)
+ - [Randy Pitchford says Tiny Tina&#39;s Wonderlands didn&#39;t get DLC because there was &#39;no way to do that and put the focus on Borderlands 4 that we needed to&#39;](https://www.pcgamer.com/games/fps/randy-pitchford-says-tiny-tinas-wonderlands-didnt-get-dlc-because-there-was-no-way-to-do-that-and-put-the-focus-on-borderlands-4-that-we-needed-to)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
