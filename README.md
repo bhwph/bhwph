@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Osidion in WoW: The War Within](https://www.pcgamer.com/games/mmo/world-of-warcraft-wow-osidion-location)
- - [As the Borderlands movie crashes and burns as a box office megaflop, The Crow reboot says hold my beer, outflopping it at the box office so hard that it gets branded &#39;a cynical cash grab&#39; by the original film&#39;s director and annihilated by critics](https://www.pcgamer.com/games/fps/as-the-borderlands-movie-crashes-and-burns-as-a-box-office-megaflop-the-crow-reboot-says-hold-my-beer-outflopping-it-at-the-box-office-so-hard-that-it-gets-branded-a-cynical-cash-grab-by-the-original-films-director-and-annihilated-by-critics)
- - [Rings of Power&amp;#8217;s the Stranger actor digs into his own mystery and the Tom Bombadil of it all](https://www.polygon.com/lotr-rings-of-power/445177/lord-rings-powers-who-stranger-season-2-tom-bombadil-interview)<!-- GAME:END -->
+ - [Harry Potter: Quidditch Champions – new gameplay overview](https://blog.playstation.com/2024/08/29/harry-potter-quidditch-champions-new-gameplay-overview/)
+ - [How Hollowbody’s developer draws on Silent Hill’s legacy to craft a new generation of horrors](https://www.polygon.com/gaming/445539/how-hollowbodys-developer-draws-on-silent-hills-legacy-to-craft-a-new-generation-of-horrors)
+ - [This Lord of the Rings Middle-earth map will help you navigate The Rings of Power](https://www.polygon.com/23331136/lord-of-the-rings-middle-earth-map-rings-of-power)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
