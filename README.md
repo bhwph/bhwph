@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US says OpenAI and Anthropic agreed to let the US AI Safety Institute have early access to major new AI models to evaluate their capabilities and risks &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240829/p9#a240829p9)
- - [Sources: the EU is investigating if Telegram gave inaccurate user numbers to stay under the DSA&#39;s 45M threshold; Telegram reported 41M EU users in February 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240829/p8#a240829p8)
- - [Google, Apple, and Discord Let Harmful AI &#39;Undress&#39; Websites Use Their Sign-On Systems](https://www.wired.com/story/undress-app-ai-harm-google-apple-login/)<!-- TECH:END -->
+ - [Latest iOS beta makes it far easier to digest your friend’s long rant](https://www.androidauthority.com/ios-18-1-beta-3-notification-summaries-all-apps-3476322/)
+ - [In his upcoming book, Trump says Mark Zuckerberg plotted against him during the 2020 election and he&#39;d &quot;spend the rest of his life in prison&quot; if he did it again &lpar;Alex Isenstadt/Politico&rpar;](http://www.techmeme.com/240829/p17#a240829p17)
+ - [SpaceX’s Falcon 9 rocket is grounded after fiery landing failure](https://www.theverge.com/2024/8/29/24231253/spacex-falcon-9-rocket-grounded-faa-landing-failure)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
