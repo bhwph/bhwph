@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only in Thailand](http://9gag.com/gag/a34qmv3)
- - 😝 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)
- - 👉 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)<!-- MEMES:END -->
+ - 6️⃣ [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
+ - 😝 [Rapture on order](http://9gag.com/gag/aLnDyQW)
+ - 👉 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)<!-- MEMES:END -->
 
 --- 
 
