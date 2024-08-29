@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Affirm closed up ~32% on Thursday, its best day in almost three years and its third-biggest rally since Affirm&#39;s January 2021 IPO, after beating estimates in Q4 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240829/p28#a240829p28)
- - [Studios are cracking down on some of the internet’s most popular pirating sites](https://www.theverge.com/2024/8/29/24231552/fmovies-aniwave-alliance-for-creativity-and-entertainment-piracy)
- - [Google Tasks may soon make it even easier to procrastinate &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tasks-rescheduling-3476579/)<!-- TECH:END -->
+ - [Pixel 9 phones can now run Android 15 QPR1 with new Beta 1.1 release](https://www.androidauthority.com/android-15-qpr1-beta-1-1-3476638/)
+ - [Sony’s limited edition Astro Bot controller is up for preorder again](https://www.theverge.com/24215774/astro-bot-limited-edition-dualsense-wireless-controller-preorder-price-release-date-ps5)
+ - [ChatGPT’s weekly users have doubled in less than a year](https://www.theverge.com/2024/8/29/24231685/openai-chatgpt-200-million-weekly-users)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
