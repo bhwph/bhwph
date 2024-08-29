@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the AI-safety community&#39;s loss of prominence and lessons learned, such as not to trust AI companies&#39; promises to cooperate with regulators &lpar;Ross Andersen/The Atlantic&rpar;](http://www.techmeme.com/240829/p3#a240829p3)
- - [The Play Store finally lets you download multiple app updates at once](https://www.androidauthority.com/google-play-store-simultaneous-download-multiple-app-updates-3475868/)
- - [Russians, from Kremlin officials to Putin&#39;s harshest critics, see Telegram as a source of both uncensored info, including on Ukraine, and problematic content &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p2#a240829p2)<!-- TECH:END -->
+ - [The US says OpenAI and Anthropic agreed to let the US AI Safety Institute have early access to major new AI models to evaluate their capabilities and risks &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240829/p9#a240829p9)
+ - [Sources: the EU is investigating if Telegram gave inaccurate user numbers to stay under the DSA&#39;s 45M threshold; Telegram reported 41M EU users in February 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240829/p8#a240829p8)
+ - [Google, Apple, and Discord Let Harmful AI &#39;Undress&#39; Websites Use Their Sign-On Systems](https://www.wired.com/story/undress-app-ai-harm-google-apple-login/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
