@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - 😝 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
+ - 6️⃣ [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
+ - 😝 [See you in hell](http://9gag.com/gag/arybQeK)
  - 👉 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)<!-- MEMES:END -->
 
 --- 
