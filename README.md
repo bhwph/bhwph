@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Clean Neighbour](http://9gag.com/gag/apRpO1p)
- - 😝 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)
- - 👉 [Not funny](http://9gag.com/gag/aRBmpWM)<!-- MEMES:END -->
+ - 6️⃣ [Remember to empty your arms if you sit a lot](http://9gag.com/gag/ayNDg8W)
+ - 😝 [Gamestop return.](http://9gag.com/gag/abAp8OB)
+ - 👉 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)<!-- MEMES:END -->
 
 --- 
 
