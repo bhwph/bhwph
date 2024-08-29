@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4: Vessel of Hatred&#39;s new runewords system will let barbarians teleport like loud, massively muscled sorcerers](https://www.pcgamer.com/games/rpg/diablo-4-vessel-of-hatreds-new-runewords-system-will-let-barbarians-teleport-like-loud-massively-muscled-sorcerers)
- - [Gearbox&#39;s first Risk of Rain 2 expansion gets hammered on Steam as developer admits the PC version &#39;is in a really bad place&#39;](https://www.pcgamer.com/games/third-person-shooter/gearboxs-first-risk-of-rain-2-expansion-gets-hammered-on-steam-as-developer-admits-the-pc-version-is-in-a-really-bad-place)
- - [Randy Pitchford says Tiny Tina&#39;s Wonderlands didn&#39;t get DLC because there was &#39;no way to do that and put the focus on Borderlands 4 that we needed to&#39;](https://www.pcgamer.com/games/fps/randy-pitchford-says-tiny-tinas-wonderlands-didnt-get-dlc-because-there-was-no-way-to-do-that-and-put-the-focus-on-borderlands-4-that-we-needed-to)<!-- GAME:END -->
+ - [World of Warcraft: The War Within review](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-the-war-within-review)
+ - [Demonschool, the Persona-like tactical RPG about battling demons while getting a good education, has been delayed into 2025 so developers can add &#39;more life and liveliness&#39; to the game world](https://www.pcgamer.com/games/rpg/demonschool-the-persona-like-tactical-rpg-about-battling-demons-while-getting-a-good-education-has-been-delayed-into-2025-so-developers-can-add-more-life-and-liveliness-to-the-game-world)
+ - [PSA: Getting annoyed by fall damage in Star Wars Outlaws? Grab this early game charm](https://www.pcgamer.com/games/action/star-wars-outlaws-fall-damage-tooka-paw)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
