@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Remember to empty your arms if you sit a lot](http://9gag.com/gag/ayNDg8W)
- - 😝 [Gamestop return.](http://9gag.com/gag/abAp8OB)
- - 👉 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)<!-- MEMES:END -->
+ - 6️⃣ [If someone gives you warning, its better to listen to it](http://9gag.com/gag/aAydjxo)
+ - 😝 [One of the best](http://9gag.com/gag/amoYZno)
+ - 👉 [See you in hell](http://9gag.com/gag/arybQeK)<!-- MEMES:END -->
 
 --- 
 
