@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get ready for triple-screen foldables, as another OEM hints at launch plans](https://www.androidauthority.com/oppo-triple-screen-foldable-3476510/)
- - [PS5 Pro rumors and leaks: What we know so far about Sony’s next gaming console](https://www.androidauthority.com/sony-ps5-pro-3337407/)
- - [Sources: Apple is in talks to invest in OpenAI as part of a new fundraising round that would value the ChatGPT maker above $100B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240829/p25#a240829p25)<!-- TECH:END -->
+ - [Affirm closed up ~32% on Thursday, its best day in almost three years and its third-biggest rally since Affirm&#39;s January 2021 IPO, after beating estimates in Q4 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240829/p28#a240829p28)
+ - [Studios are cracking down on some of the internet’s most popular pirating sites](https://www.theverge.com/2024/8/29/24231552/fmovies-aniwave-alliance-for-creativity-and-entertainment-piracy)
+ - [Google Tasks may soon make it even easier to procrastinate &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tasks-rescheduling-3476579/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
