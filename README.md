@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If someone gives you warning, its better to listen to it](http://9gag.com/gag/aAydjxo)
- - 😝 [One of the best](http://9gag.com/gag/amoYZno)
- - 👉 [See you in hell](http://9gag.com/gag/arybQeK)<!-- MEMES:END -->
+ - 6️⃣ [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
+ - 😝 [Only in Thailand](http://9gag.com/gag/a34qmv3)
+ - 👉 [Good](http://9gag.com/gag/arybjL7)<!-- MEMES:END -->
 
 --- 
 
