@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
- - 😝 [See you in hell](http://9gag.com/gag/arybQeK)
- - 👉 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)<!-- MEMES:END -->
+ - 6️⃣ [Not funny](http://9gag.com/gag/aRBmpWM)
+ - 😝 [One of the best](http://9gag.com/gag/amoYZno)
+ - 👉 [Oh, long Johnson](http://9gag.com/gag/a1mb3Db)<!-- MEMES:END -->
 
 --- 
 
