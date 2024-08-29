@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest iOS beta makes it far easier to digest your friend’s long rant](https://www.androidauthority.com/ios-18-1-beta-3-notification-summaries-all-apps-3476322/)
- - [In his upcoming book, Trump says Mark Zuckerberg plotted against him during the 2020 election and he&#39;d &quot;spend the rest of his life in prison&quot; if he did it again &lpar;Alex Isenstadt/Politico&rpar;](http://www.techmeme.com/240829/p17#a240829p17)
- - [SpaceX’s Falcon 9 rocket is grounded after fiery landing failure](https://www.theverge.com/2024/8/29/24231253/spacex-falcon-9-rocket-grounded-faa-landing-failure)<!-- TECH:END -->
+ - [What’s small, cute, and has 12GB of RAM? Not the iPhone 17 Pro.](https://www.androidauthority.com/iphone-17-pro-max-12gb-ram-3476370/)
+ - [This 100W GaN charger is thin and foldable](https://www.theverge.com/2024/8/29/24231208/genki-turbocharger-100w-gan-charger-thin-foldable-price)
+ - [You can now use Gemini to analyze documents and create charts from spreadsheets](https://www.androidauthority.com/gemini-file-attachment-rollout-3476321/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
