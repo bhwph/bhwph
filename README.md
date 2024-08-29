@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Harry Potter: Quidditch Champions – new gameplay overview](https://blog.playstation.com/2024/08/29/harry-potter-quidditch-champions-new-gameplay-overview/)
- - [How Hollowbody’s developer draws on Silent Hill’s legacy to craft a new generation of horrors](https://www.polygon.com/gaming/445539/how-hollowbodys-developer-draws-on-silent-hills-legacy-to-craft-a-new-generation-of-horrors)
- - [This Lord of the Rings Middle-earth map will help you navigate The Rings of Power](https://www.polygon.com/23331136/lord-of-the-rings-middle-earth-map-rings-of-power)<!-- GAME:END -->
+ - [Final Fantasy Creator’s Pick For The ‘Most Complete’ Entry In The Series May Surprise You](https://kotaku.com/final-fantasy-creator-s-pick-for-the-most-complete-en-1851635714)
+ - [GTA Online update for the week of August 29](https://www.polygon.com/gta-online-guides/445710/august-29-weekly-update-events-gunrunning)
+ - [Call of Duty: Black Ops 6  — hands-on report](https://blog.playstation.com/2024/08/29/call-of-duty-black-ops-6-hands-on-report/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
