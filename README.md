@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gamestop return.](http://9gag.com/gag/abAp8OB)
- - 😝 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
- - 👉 [Payload deployed](http://9gag.com/gag/amoYwEv)<!-- MEMES:END -->
+ - 6️⃣ [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - 😝 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
+ - 👉 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)<!-- MEMES:END -->
 
 --- 
 
