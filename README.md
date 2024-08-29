@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
- - 😝 [Only in Thailand](http://9gag.com/gag/a34qmv3)
- - 👉 [Good](http://9gag.com/gag/arybjL7)<!-- MEMES:END -->
+ - 6️⃣ [\u0e3f\u0246 \u20a6\u00d8\u20ae \u20b3\u20a3\u2c64\u20b3\u0142\u0110](http://9gag.com/gag/axyVxXK)
+ - 😝 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)
+ - 👉 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)<!-- MEMES:END -->
 
 --- 
 
