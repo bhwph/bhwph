@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Who’s running a rooted smartphone?](https://www.androidauthority.com/android-root-poll-3476132/)
- - [Yelp sues Google for antitrust violations](https://www.theverge.com/2024/8/28/24230905/yelp-google-antitrust-lawsuit)
- - [Affirm reports Q4 revenue up 48% YoY to $659.2M, vs. $604M est., and says it expects to generate an operating profit by Q4 2025; AFRM jumps 14%+ after hours &lpar;Ciara Linnane/MarketWatch&rpar;](http://www.techmeme.com/240828/p30#a240828p30)<!-- TECH:END -->
+ - [LG’s new smart home hub has a built-in voice assistant](https://www.theverge.com/2024/8/28/24230692/lg-thinq-on-smart-home-hub-ai-voice-assistant)
+ - [Jensen Huang says Nvidia&#39;s new Blackwell chips will have &quot;lots and lots of supply&quot;, and the company expects billions of dollars in revenue from the chips in Q4 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240828/p35#a240828p35)
+ - [Samsung’s response to Z Fold 6 paint issue channels Apple’s ‘you’re holding it wrong’ energy](https://www.androidauthority.com/samsung-response-z-fold6-paint-peeling-3476180/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
