@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
+ - 6️⃣ [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)
  - 😝 [Rapture on order](http://9gag.com/gag/aLnDyQW)
- - 👉 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)<!-- MEMES:END -->
+ - 👉 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)<!-- MEMES:END -->
 
 --- 
 
