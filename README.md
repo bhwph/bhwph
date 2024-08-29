@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A perfect balance](http://9gag.com/gag/an7b6Y0)
- - 😝 [By digging such pits, people in Arusha, Tanzania, have managed to transform a desert area into a grassland](http://9gag.com/gag/arybQq7)
- - 👉 [A sega classic](http://9gag.com/gag/a7orYz2)<!-- MEMES:END -->
+ - 6️⃣ [A Clean Neighbour](http://9gag.com/gag/apRpO1p)
+ - 😝 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)
+ - 👉 [Not funny](http://9gag.com/gag/aRBmpWM)<!-- MEMES:END -->
 
 --- 
 
