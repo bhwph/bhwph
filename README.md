@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How finished is Deadlock?](https://www.pcgamer.com/games/moba/how-finished-is-deadlock)
- - [Wingspan swoops onto PlayStation on October 11](https://blog.playstation.com/2024/08/30/wingspan-swoops-onto-playstation-on-october-11/)
- - [Wingspan swoops onto PlayStation on October 11](https://blog.playstation.com/2024/08/30/wingspan-swoops-onto-playstation-on-october-11/)<!-- GAME:END -->
+ - [The 35 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Kotaku’s Weekend Guide: 5 Games To Enjoy This Labor Day](https://kotaku.com/kotaku-weekend-guide-star-wars-outlaws-sonic-1851637106)
+ - [Official PlayStation Podcast Episode 492: Puzzling Platforms](https://blog.playstation.com/2024/08/30/official-playstation-podcast-episode-492-puzzling-platforms/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
