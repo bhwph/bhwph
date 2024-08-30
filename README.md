@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How The Devs Behind The Age Of Mythology Remake Are Bringing It Into The Modern Era](https://kotaku.com/age-of-mythology-untold-remake-worlds-edge-microsoft-1851636612)
- - [Meet Astro Bot’s new monkey friend and go behind-the-scenes with Team Asobi](https://blog.playstation.com/2024/08/30/meet-astro-bots-new-monkey-friend-and-go-behind-the-scenes-with-team-asobi/)
- - [Next Week on Xbox: New Games for September 2 to 6](https://news.xbox.com/en-us/2024/08/30/next-week-on-xbox-new-games-for-september-2-to-6/)<!-- GAME:END -->
+ - [How finished is Deadlock?](https://www.pcgamer.com/games/moba/how-finished-is-deadlock)
+ - [Wingspan swoops onto PlayStation on October 11](https://blog.playstation.com/2024/08/30/wingspan-swoops-onto-playstation-on-october-11/)
+ - [Wingspan swoops onto PlayStation on October 11](https://blog.playstation.com/2024/08/30/wingspan-swoops-onto-playstation-on-october-11/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
