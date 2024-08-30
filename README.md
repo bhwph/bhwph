@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge orders X ban in Brazil](https://www.theverge.com/2024/8/30/24231286/x-brazil-ban-elon-musk-legal-representative)
- - [Brazilian Supreme Court justice Alexandre de Moraes orders X&#39;s suspension in Brazil after Elon Musk refused to name a legal representative in the country &lpar;Associated Press&rpar;](http://www.techmeme.com/240830/p18#a240830p18)
- - [Microsoft says a North Korean hacking group earlier in August exploited a now-patched zero-day in a Chromium core engine to steal crypto from organizations &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240830/p17#a240830p17)<!-- TECH:END -->
+ - [Google app’s colorful new icon shortcuts start hitting beta testers](https://www.androidauthority.com/google-app-carousel-redesign-3477080/)
+ - [Nest Learning Thermostat users frustrated by dim display, fix on the way](https://www.androidauthority.com/nest-learning-thermostat-dimness-3477077/)
+ - [Brazil’s X ban is sending lots of people to Bluesky](https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
