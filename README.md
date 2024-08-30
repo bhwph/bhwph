@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out Gmail Q&amp;A, a feature that allows users who pay for Gemini to chat with and use the AI assistant for their emails, on Android and soon on iOS &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240829/p35#a240829p35)
- - [A US district judge dismisses, with prejudice, a lawsuit accusing Elon Musk and Tesla of defrauding investors by hyping Dogecoin and conducting insider trading &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240829/p34#a240829p34)
- - [Bridge, which aims to build a global payment network around stablecoins, raised $40M led by Sequoia and Ribbit, taking its total funding to $58M &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240829/p33#a240829p33)<!-- TECH:END -->
+ - [Alibaba releases Qwen2-VL, a new AI model that it says can analyze videos longer than 20 minutes to summarize and answer questions about the videos&#39; content &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240829/p36#a240829p36)
+ - [Hyundai’s electrified N Vision 74 is headed for production someday soon](https://www.theverge.com/2024/8/29/24231878/hyundai-n-vision-74-concept-electrified-car-launch-2030)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
