@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LAION, a research org whose dataset was used to train Stable Diffusion and other models, releases a new dataset it claims has been &quot;thoroughly cleaned&quot; of CSAM &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240830/p14#a240830p14)
- - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
- - [Circle to Search now automatically scans barcodes and QR codes](https://www.androidauthority.com/circle-to-search-barcode-scanner-rollout-3476930/)<!-- TECH:END -->
+ - [Judge orders X ban in Brazil](https://www.theverge.com/2024/8/30/24231286/x-brazil-ban-elon-musk-legal-representative)
+ - [Brazilian Supreme Court justice Alexandre de Moraes orders X&#39;s suspension in Brazil after Elon Musk refused to name a legal representative in the country &lpar;Associated Press&rpar;](http://www.techmeme.com/240830/p18#a240830p18)
+ - [Microsoft says a North Korean hacking group earlier in August exploited a now-patched zero-day in a Chromium core engine to steal crypto from organizations &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240830/p17#a240830p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
