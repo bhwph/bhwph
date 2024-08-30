@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top Best Buy Labor Day Sales: Upgrade Your Appliances, TV, Home Security and More for Less](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-08-30/#ftag=CAD590a51e)
- - [Best Gaming TV for 2024: Low Input Lag and High Picture Quality](https://www.cnet.com/tech/home-entertainment/best-gaming-tv/#ftag=CAD590a51e)
- - [The Eureka J20’s RollRenew Moping System is groundbreaking](https://www.androidauthority.com/eureka-j20-robot-vacuum-and-mop-3476198/)<!-- TECH:END -->
+ - [LAION, a research org whose dataset was used to train Stable Diffusion and other models, releases a new dataset it claims has been &quot;thoroughly cleaned&quot; of CSAM &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240830/p14#a240830p14)
+ - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
+ - [Circle to Search now automatically scans barcodes and QR codes](https://www.androidauthority.com/circle-to-search-barcode-scanner-rollout-3476930/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
