@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ouch: The Pixel 9 Pro Fold can’t be charged with the Pixel Stand](https://www.androidauthority.com/google-pixel-9-pro-fold-pixel-stand-3476226/)
- - [The 17 Best Labor Day Sleep Deals of 2024: Sheets, Pillows, Tech and More](https://www.cnet.com/deals/best-labor-day-sleep-deals-2024/#ftag=CAD590a51e)
- - [Sources: Tencent and NetEase reconsider or scale back Japanese game studio investments, after the strategy yielded few hit games and the Chinese market revived &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240830/p1#a240830p1)<!-- TECH:END -->
+ - [A look at Google&#39;s HeAR, a bioacoustics healthcare AI model trained 300M sounds, including 100M cough sounds, to analyze users&#39; coughs and detect tuberculosis &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240830/p2#a240830p2)
+ - [Best Pixel 9 Deals: Save on Google&#39;s New Pixel 9 Series With These Current Offers](https://www.cnet.com/deals/best-pixel-9-deals/#ftag=CAD590a51e)
+ - [Ouch: The Pixel 9 Pro Fold can’t be charged with the Pixel Stand](https://www.androidauthority.com/google-pixel-9-pro-fold-pixel-stand-3476226/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
