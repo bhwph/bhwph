@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Black Ops 6 pre-order guide](https://www.polygon.com/pre-order/445874/call-of-duty-black-ops-6-vault-edition-where-to-buy)
- - [Black Ops 6 beta start time in early access, and how to get a beta code](https://www.polygon.com/black-ops-6-guides/445111/beta-times-dates-code-early-access)
- - [Space marines are so big the Space Marine 2 dev team had to spend a considerable amount of time just getting their walking and running animations right](https://www.pcgamer.com/games/third-person-shooter/space-marines-are-so-big-the-space-marine-2-dev-team-had-to-spend-a-considerable-amount-of-time-just-getting-their-walking-and-running-animations-right)<!-- GAME:END -->
+ - [Orcs Must Die! Deathtrap proves slaughtering orcs is like riding a bike, but way more fun](https://www.pcgamer.com/games/action/orcs-must-die-deathtrap-proves-slaughtering-orcs-is-like-riding-a-bike-but-way-more-fun)
+ - [Warhammer 40,000: Space Marine 2’s Photo Mode detailed](https://blog.playstation.com/2024/08/30/warhammer-40000-space-marine-2s-photo-mode-detailed/)
+ - [Warhammer 40,000: Space Marine 2’s Photo Mode detailed](https://blog.playstation.com/2024/08/30/warhammer-40000-space-marine-2s-photo-mode-detailed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
