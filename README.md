@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
- - 😝 [Just your turn...](http://9gag.com/gag/aqyb3wv)
- - 👉 [Funny coz](http://9gag.com/gag/aW4mwjZ)<!-- MEMES:END -->
+ - 6️⃣ [Game of the Year](http://9gag.com/gag/aLnDq2A)
+ - 😝 [Women](http://9gag.com/gag/adB73Od)
+ - 👉 [We&#39;re technically not racist on 9gag. We just hate bad people and like good people.](http://9gag.com/gag/aW4mVr4)<!-- MEMES:END -->
 
 --- 
 
