@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Google&#39;s HeAR, a bioacoustics healthcare AI model trained 300M sounds, including 100M cough sounds, to analyze users&#39; coughs and detect tuberculosis &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240830/p2#a240830p2)
- - [Best Pixel 9 Deals: Save on Google&#39;s New Pixel 9 Series With These Current Offers](https://www.cnet.com/deals/best-pixel-9-deals/#ftag=CAD590a51e)
- - [Ouch: The Pixel 9 Pro Fold can’t be charged with the Pixel Stand](https://www.androidauthority.com/google-pixel-9-pro-fold-pixel-stand-3476226/)<!-- TECH:END -->
+ - [Sources: Amazon&#39;s revamped &quot;Remarkable&quot; Alexa, due for release in October, will be powered by Anthropic&#39;s Claude, with plans to charge users $5 to $10/month &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/240830/p4#a240830p4)
+ - [Backpage co-founder sentenced to five years in prison](https://www.theverge.com/2024/8/30/24232069/backpage-founder-michael-lacey-sentenced-five-years-in-prison)
+ - [China&#39;s top antitrust regulator says it has seen &quot;effective results&quot; that Alibaba has ceased the monopolistic practices that prompted an investigation in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240830/p3#a240830p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
