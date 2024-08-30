@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 35 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Kotaku’s Weekend Guide: 5 Games To Enjoy This Labor Day](https://kotaku.com/kotaku-weekend-guide-star-wars-outlaws-sonic-1851637106)
- - [Official PlayStation Podcast Episode 492: Puzzling Platforms](https://blog.playstation.com/2024/08/30/official-playstation-podcast-episode-492-puzzling-platforms/)<!-- GAME:END -->
+ - [Official Xbox Podcast | Deep Dive Into Atomfall](https://news.xbox.com/en-us/podcast/deep-dive-into-atomfall-official-xbox-podcast/)
+ - [James Gunn Says &#39;No Truth&#39; To Recent Batman Game Rumor](https://kotaku.com/batman-matt-reeves-game-rumors-denied-james-gunn-1851637228)
+ - [Report: Ubisoft&#39;s Once-Popular FPS Is Running Out Of Time](https://kotaku.com/xdefiant-ubisoft-months-season-3-low-playercount-pc-ps5-1851637209)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
