@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Welcome to Berlin!](http://9gag.com/gag/amo2N56)
- - 😝 [The Sloth Bear, Native To India, is Known For Its Aggression Towards Humans And Is Considered One Of The Most Dangerous Animals In The Country](http://9gag.com/gag/a2vrnnw)
- - 👉 [It got deleted, here again](http://9gag.com/gag/avy7pRn)<!-- MEMES:END -->
+ - 6️⃣ [Look at those moves](http://9gag.com/gag/a9yr9GW)
+ - 😝 [Bypassing porch pirates](http://9gag.com/gag/aGyeKRK)
+ - 👉 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)<!-- MEMES:END -->
 
 --- 
 
