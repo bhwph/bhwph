@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon&#39;s revamped &quot;Remarkable&quot; Alexa, due for release in October, will be powered by Anthropic&#39;s Claude, with plans to charge users $5 to $10/month &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/240830/p4#a240830p4)
- - [Backpage co-founder sentenced to five years in prison](https://www.theverge.com/2024/8/30/24232069/backpage-founder-michael-lacey-sentenced-five-years-in-prison)
- - [China&#39;s top antitrust regulator says it has seen &quot;effective results&quot; that Alibaba has ceased the monopolistic practices that prompted an investigation in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240830/p3#a240830p3)<!-- TECH:END -->
+ - [The Galaxy Z Fold Special Edition might be everything the Fold 6 should have been](https://www.androidauthority.com/samsung-galaxy-z-fold-special-edition-s-pen-slot-3476769/)
+ - [The Best OTC Hearing Aids &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-hearing-aids/)
+ - [AnandTech shuts down after covering PC and mobile hardware for over 27 years; publisher Future plans to keep its website and articles live indefinitely &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240830/p8#a240830p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
