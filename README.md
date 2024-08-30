@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No one cares about light boy](http://9gag.com/gag/aAyDBed)
- - 😝 [Funny coz](http://9gag.com/gag/aW4mwjZ)
- - 👉 [HR Math](http://9gag.com/gag/aW4mwL3)<!-- MEMES:END -->
+ - 6️⃣ [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
+ - 😝 [Just your turn...](http://9gag.com/gag/aqyb3wv)
+ - 👉 [Funny coz](http://9gag.com/gag/aW4mwjZ)<!-- MEMES:END -->
 
 --- 
 
