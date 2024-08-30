@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s no wonder why people of the past acted like Venice was a world wonder. They were already living in the future!](http://9gag.com/gag/a6ZbA5m)
- - 😝 [Savage](http://9gag.com/gag/aMV8pEM)
- - 👉 [Based Latvia?](http://9gag.com/gag/avyGbxE)<!-- MEMES:END -->
+ - 6️⃣ [No one cares about light boy](http://9gag.com/gag/aAyDBed)
+ - 😝 [Funny coz](http://9gag.com/gag/aW4mwjZ)
+ - 👉 [HR Math](http://9gag.com/gag/aW4mwL3)<!-- MEMES:END -->
 
 --- 
 
