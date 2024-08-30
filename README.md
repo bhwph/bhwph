@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Orcs Must Die! Deathtrap proves slaughtering orcs is like riding a bike, but way more fun](https://www.pcgamer.com/games/action/orcs-must-die-deathtrap-proves-slaughtering-orcs-is-like-riding-a-bike-but-way-more-fun)
- - [Warhammer 40,000: Space Marine 2’s Photo Mode detailed](https://blog.playstation.com/2024/08/30/warhammer-40000-space-marine-2s-photo-mode-detailed/)
- - [Warhammer 40,000: Space Marine 2’s Photo Mode detailed](https://blog.playstation.com/2024/08/30/warhammer-40000-space-marine-2s-photo-mode-detailed/)<!-- GAME:END -->
+ - [How The Devs Behind The Age Of Mythology Remake Are Bringing It Into The Modern Era](https://kotaku.com/age-of-mythology-untold-remake-worlds-edge-microsoft-1851636612)
+ - [Meet Astro Bot’s new monkey friend and go behind-the-scenes with Team Asobi](https://blog.playstation.com/2024/08/30/meet-astro-bots-new-monkey-friend-and-go-behind-the-scenes-with-team-asobi/)
+ - [Next Week on Xbox: New Games for September 2 to 6](https://news.xbox.com/en-us/2024/08/30/next-week-on-xbox-new-games-for-september-2-to-6/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
