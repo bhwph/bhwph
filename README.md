@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This leaked chip could power cheaper Snapdragon PCs](https://www.androidauthority.com/snapdragon-x-plus-8-core-leak-3476827/)
- - [TikTok is adding new ways to fine tune your For You page algorithm](https://www.theverge.com/2024/8/30/24232154/tiktok-for-you-page-algorithm-content-preferencers-sliders)
- - [Once hesitant to openly comment about politics, German tech leaders publicly voice their opposition to the far-right AfD ahead of Sunday&#39;s state elections &lpar;J.D. Capelouto/Semafor&rpar;](http://www.techmeme.com/240830/p9#a240830p9)<!-- TECH:END -->
+ - [Top Best Buy Labor Day Sales: Upgrade Your Appliances, TV, Home Security and More for Less](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-08-30/#ftag=CAD590a51e)
+ - [Best Gaming TV for 2024: Low Input Lag and High Picture Quality](https://www.cnet.com/tech/home-entertainment/best-gaming-tv/#ftag=CAD590a51e)
+ - [The Eureka J20’s RollRenew Moping System is groundbreaking](https://www.androidauthority.com/eureka-j20-robot-vacuum-and-mop-3476198/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
