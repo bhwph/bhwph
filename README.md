@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba releases Qwen2-VL, a new AI model that it says can analyze videos longer than 20 minutes to summarize and answer questions about the videos&#39; content &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240829/p36#a240829p36)
- - [Hyundai’s electrified N Vision 74 is headed for production someday soon](https://www.theverge.com/2024/8/29/24231878/hyundai-n-vision-74-concept-electrified-car-launch-2030)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
+ - [Sources: Tencent and NetEase reconsider or scale back Japanese game studio investments, after the strategy yielded few hit games and the Chinese market revived &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240830/p1#a240830p1)
+ - [Sources: Intel explores options to cope with historic slump, including a split of its product and foundry units and potentially scrapping some factory projects &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p39#a240829p39)
+ - [Analysts and industry execs say Nvidia&#39;s Blackwell engineering challenges stem from combining two new processors and several memory components in a single chip &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240829/p38#a240829p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
