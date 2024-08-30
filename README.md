@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tencent and NetEase reconsider or scale back Japanese game studio investments, after the strategy yielded few hit games and the Chinese market revived &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240830/p1#a240830p1)
- - [Sources: Intel explores options to cope with historic slump, including a split of its product and foundry units and potentially scrapping some factory projects &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p39#a240829p39)
- - [Analysts and industry execs say Nvidia&#39;s Blackwell engineering challenges stem from combining two new processors and several memory components in a single chip &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240829/p38#a240829p38)<!-- TECH:END -->
+ - [Ouch: The Pixel 9 Pro Fold can’t be charged with the Pixel Stand](https://www.androidauthority.com/google-pixel-9-pro-fold-pixel-stand-3476226/)
+ - [The 17 Best Labor Day Sleep Deals of 2024: Sheets, Pillows, Tech and More](https://www.cnet.com/deals/best-labor-day-sleep-deals-2024/#ftag=CAD590a51e)
+ - [Sources: Tencent and NetEase reconsider or scale back Japanese game studio investments, after the strategy yielded few hit games and the Chinese market revived &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240830/p1#a240830p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
