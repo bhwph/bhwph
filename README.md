@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [It&#39;s no wonder why people of the past acted like Venice was a world wonder. They were already living in the future!](http://9gag.com/gag/a6ZbA5m)
- - 😝 [Based Latvia?](http://9gag.com/gag/avyGbxE)
- - 👉 [Savage](http://9gag.com/gag/aMV8pEM)<!-- MEMES:END -->
+ - 😝 [Savage](http://9gag.com/gag/aMV8pEM)
+ - 👉 [Based Latvia?](http://9gag.com/gag/avyGbxE)<!-- MEMES:END -->
 
 --- 
 
