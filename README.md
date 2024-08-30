@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [STAR WARS OUTLAWS. A Ubisoft game that cost $70-$120.00. Where Ubisoft executives say to shareholders is the `Next generation` of `Generation defining AI`... Also the game where `Games Journalists` from IGN, GamesRadar, Screenrant and etc claim is `Better` than Black Myth:Wukong](http://9gag.com/gag/aD2zReG)
- - 😝 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)
- - 👉 [How in the world?](http://9gag.com/gag/an7b6Dn)<!-- MEMES:END -->
+ - 6️⃣ [Memefy everything](http://9gag.com/gag/azxqg2N)
+ - 😝 [The game is amazing](http://9gag.com/gag/adB9yP2)
+ - 👉 [Post](http://9gag.com/gag/ary51m5)<!-- MEMES:END -->
 
 --- 
 
