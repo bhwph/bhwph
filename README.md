@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Fold Special Edition might be everything the Fold 6 should have been](https://www.androidauthority.com/samsung-galaxy-z-fold-special-edition-s-pen-slot-3476769/)
- - [The Best OTC Hearing Aids &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-hearing-aids/)
- - [AnandTech shuts down after covering PC and mobile hardware for over 27 years; publisher Future plans to keep its website and articles live indefinitely &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240830/p8#a240830p8)<!-- TECH:END -->
+ - [This leaked chip could power cheaper Snapdragon PCs](https://www.androidauthority.com/snapdragon-x-plus-8-core-leak-3476827/)
+ - [TikTok is adding new ways to fine tune your For You page algorithm](https://www.theverge.com/2024/8/30/24232154/tiktok-for-you-page-algorithm-content-preferencers-sliders)
+ - [Once hesitant to openly comment about politics, German tech leaders publicly voice their opposition to the far-right AfD ahead of Sunday&#39;s state elections &lpar;J.D. Capelouto/Semafor&rpar;](http://www.techmeme.com/240830/p9#a240830p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
