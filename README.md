@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Game of the Year](http://9gag.com/gag/aLnDq2A)
- - 😝 [Women](http://9gag.com/gag/adB73Od)
- - 👉 [We&#39;re technically not racist on 9gag. We just hate bad people and like good people.](http://9gag.com/gag/aW4mVr4)<!-- MEMES:END -->
+ - 6️⃣ [All natural](http://9gag.com/gag/aXPqBpd)
+ - 😝 [Funny coz](http://9gag.com/gag/aW4mwjZ)
+ - 👉 [Interesting Painting](http://9gag.com/gag/abAz3nB)<!-- MEMES:END -->
 
 --- 
 
