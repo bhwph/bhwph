@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Official Xbox Podcast | Deep Dive Into Atomfall](https://news.xbox.com/en-us/podcast/deep-dive-into-atomfall-official-xbox-podcast/)
- - [James Gunn Says &#39;No Truth&#39; To Recent Batman Game Rumor](https://kotaku.com/batman-matt-reeves-game-rumors-denied-james-gunn-1851637228)
- - [Report: Ubisoft&#39;s Once-Popular FPS Is Running Out Of Time](https://kotaku.com/xdefiant-ubisoft-months-season-3-low-playercount-pc-ps5-1851637209)<!-- GAME:END -->
+ - [Trap, A Quiet Place: Day One, Netflix’s The Deliverance, and every movie new to streaming this week](https://www.polygon.com/entertainment/443904/new-movies-watch-trap-a-quiet-place-day-one-netflix)
+ - [Black Ops 6 will let players talk directly to their meat shield hostages, and people are already bracing for heretofore unseen levels of toxicity and abuse](https://www.pcgamer.com/games/fps/black-ops-6-will-let-players-talk-directly-to-their-meat-shield-hostages-fans-are-already-bracing-for-heretofore-unseen-levels-of-toxicity-and-abuse)
+ - [The 8 best games from Nintendo’s blockbuster Switch sale](https://www.polygon.com/sales-guide/445917/nintendo-switch-blockbuster-sale-labor-day)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
