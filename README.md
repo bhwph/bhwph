@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Memefy everything](http://9gag.com/gag/azxqg2N)
- - 😝 [The game is amazing](http://9gag.com/gag/adB9yP2)
- - 👉 [Post](http://9gag.com/gag/ary51m5)<!-- MEMES:END -->
+ - 6️⃣ [Never late to the airport](http://9gag.com/gag/aAyDR7p)
+ - 😝 [Average Chinese working environment](http://9gag.com/gag/apRQEGB)
+ - 👉 [Keep sending them money EU..](http://9gag.com/gag/abAzXGX)<!-- MEMES:END -->
 
 --- 
 
