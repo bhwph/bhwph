@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Give In to Temperature-Controlling Tech and Unlock a New Kitchen Zen](https://www.wired.com/story/induction-by-the-degree-cooking-kitchen-zen/)
- - [How the Israeli army&#39;s Unit 8200 became an incubator for cybersecurity startups, with its alumni starting Wiz, Palo Alto Networks, and other companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240831/p3#a240831p3)
- - [With AI food recognition Samsung Food could be the ultimate meal-planning app](https://www.theverge.com/2024/8/31/24231740/samsung-food-plus-vision-ai-food-list-management-ifa-2024)<!-- TECH:END -->
+ - [The Pixel 9 Pro XL is everything I hoped Google could achieve, and then some](https://www.androidauthority.com/google-pixel-9-pro-xl-review-3476811/)
+ - [A reporter tries fixing his reputation with AI chatbots, including by adding a &quot;strategic text sequence&quot; to data sources, and via an AI optimization startup &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240831/p4#a240831p4)
+ - [SpaceX resumes Falcon 9 launches after the FAA clears it for flight](https://www.theverge.com/2024/8/31/24232928/spacex-falcon-9-cleared-to-launch-faa-two-starlink-flights)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
