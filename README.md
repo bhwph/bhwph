@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What does it really feel when fighting mosquitoes...](http://9gag.com/gag/aPA9ybB)
+ - 6️⃣ [I hope this doesn&#39;t sound like a brag, just wanted to share some motivation to y&#39;all.](http://9gag.com/gag/aD2z0MN)
  - 😝 [Crocheting the impossible](http://9gag.com/gag/a9yAdV0)
- - 👉 [I hope this doesn&#39;t sound like a brag, just wanted to share some motivation to y&#39;all.](http://9gag.com/gag/aD2z0MN)<!-- MEMES:END -->
+ - 👉 [What does it really feel when fighting mosquitoes...](http://9gag.com/gag/aPA9ybB)<!-- MEMES:END -->
 
 --- 
 
