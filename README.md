@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Look at those moves](http://9gag.com/gag/a9yr9GW)
- - 😝 [Bypassing porch pirates](http://9gag.com/gag/aGyeKRK)
- - 👉 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)<!-- MEMES:END -->
+ - 6️⃣ [Wildlife camera traps captures this Orangutan.](http://9gag.com/gag/a5QneVL)
+ - 😝 [So AI is redpilled and one of us](http://9gag.com/gag/aVvMO5K)
+ - 👉 [The UK \ud83c\uddec\ud83c\udde7](http://9gag.com/gag/a2v4N5p)<!-- MEMES:END -->
 
 --- 
 
