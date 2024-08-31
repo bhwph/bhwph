@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It&#39;s time for audio services like Spotify to deal with AI by using labels and banning or downweighting music made with AI tools that don&#39;t license training data &lpar;Ed Newton-Rex/Music Business Worldwide&rpar;](http://www.techmeme.com/240831/p2#a240831p2)
- - [Best Apple Labor Day Sales: Find Incredible Deals on iPads, AirPods, Apple Watches and MacBooks](https://www.cnet.com/deals/best-apple-labor-day-sales-2024-8-31/#ftag=CAD590a51e)
- - [Best Labor Day Sales: Top Discounts in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Star Wars walked away from the world’s first self-retracting lightsaber toy](https://www.theverge.com/2024/8/31/24226439/goliath-power-saber-star-wars-lightsaber-hasbro-disney)
+ - [Amazon could ditch its own AI for Claude in Alexa upgrade](https://www.androidauthority.com/amazon-claude-possible-alexa-upgrade-3476859/)
+ - [My Best Hatch Alarm Clock Is Still on Sale This Labor Day](https://www.cnet.com/deals/hatch-restore-labor-day-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
