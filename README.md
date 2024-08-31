@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Full kit wanker](http://9gag.com/gag/a878WRO)
- - 😝 [God is great](http://9gag.com/gag/aKGVbMO)
- - 👉 [Exposing Scammer.](http://9gag.com/gag/a5QnP2q)<!-- MEMES:END -->
+ - 6️⃣ [Wife of policeman killed in France by inm\u00a1grant: `France killed my husband. France. By its inadequacy, its laxity and its excessive tolerance`](http://9gag.com/gag/aLn8K3W)
+ - 😝 [The Paralympics just added even more shame to Raygun](http://9gag.com/gag/aLn8QzM)
+ - 👉 [Typical polish worker when boss is out for 2 minutes. Builder, plasterer, acrobat.... ... Circle pole dance?](http://9gag.com/gag/aBy8QqO)<!-- MEMES:END -->
 
 --- 
 
