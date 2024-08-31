@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Andrew C. Greenberg, co-creator of the influential Wizardry series of RPGs, has died](https://www.pcgamer.com/games/rpg/andrew-greenberg-co-creator-of-the-influential-wizardry-series-of-rpgs-has-died)
- - [With The Wild Robot, Chris Sanders finally set computer animation free](https://www.polygon.com/animation-cartoons/446701/with-the-wild-robot-chris-sanders-finally-set-computer-animation-free)
- - [Genshin Impact players are mad the devs improved the game](https://www.polygon.com/genshin-impact/446223/genshin-5-update-fan-reactions)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3&#39;s beefy patch 7 will finally drop next week](https://www.pcgamer.com/games/baldurs-gate/baldur-s-gate-3-s-beefy-patch-7-will-finally-drop-next-week)
+ - [Three Dudes Being Bros Played A 72-Hour Game Of Tag Across Europe](https://kotaku.com/72-hour-game-of-tag-across-europe-1851637644)
+ - [Andrew C. Greenberg, co-creator of the influential Wizardry series of RPGs, has died](https://www.pcgamer.com/games/rpg/andrew-greenberg-co-creator-of-the-influential-wizardry-series-of-rpgs-has-died)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
