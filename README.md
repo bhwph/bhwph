@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 9 Pro XL is everything I hoped Google could achieve, and then some](https://www.androidauthority.com/google-pixel-9-pro-xl-review-3476811/)
- - [A reporter tries fixing his reputation with AI chatbots, including by adding a &quot;strategic text sequence&quot; to data sources, and via an AI optimization startup &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240831/p4#a240831p4)
- - [SpaceX resumes Falcon 9 launches after the FAA clears it for flight](https://www.theverge.com/2024/8/31/24232928/spacex-falcon-9-cleared-to-launch-faa-two-starlink-flights)<!-- TECH:END -->
+ - [Intex PureSpa Inflatable Hot Tub Reviewed: Bubbles on a Budget](https://www.wired.com/review/intex-purespa-bubble-massage-inflatable-hot-tub/)
+ - [A profile of Alexandre de Moraes as even some supporters wonder if the Brazilian Supreme Court judge has become too powerful and gone too far by banning X &lpar;Nick Burns/Americas Quarterly&rpar;](http://www.techmeme.com/240831/p6#a240831p6)
+ - [How keep your laptop’s battery in good health](https://www.theverge.com/24232455/mac-windows-pc-battery-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
