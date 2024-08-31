@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky reports a record spike in usage as many X users in Brazil move to Bluesky and Threads; Brazil is X&#39;s fifth-largest international market, with 20M+ users &lpar;New York Times&rpar;](http://www.techmeme.com/240831/p8#a240831p8)
- - [Take Charge of Your Eye Health With These Vitamins and Supplements](https://www.cnet.com/health/personal-care/take-charge-of-your-eye-health-with-these-vitamins-and-supplements/#ftag=CAD590a51e)
- - [Best Labor Day Sales: 130+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trailers of the week: Sonic 3, Napoleon, and Agatha All Along](https://www.theverge.com/2024/8/31/24233095/trailers-of-the-week-sonic-the-hedgehog-3-napoleon-agatha-all-along-wallace-gromit)
+ - [Best Labor Day Sales: 120+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
+ - [Save a Massive $602 on HP&#39;s 15-Inch Touch Laptop at QVC This Labor Day](https://www.cnet.com/deals/save-a-massive-602-on-hps-15-inch-touch-laptop-at-qvc-this-labor-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
