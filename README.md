@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [You&#39;ll Literally Never Guess Which Group &quot;Crown&quot; Belongs To In Today&#39;s NYT Connections](https://kotaku.com/nyt-connections-groups-and-answers-saturday-august-31-1851637542)
  - [Today&#39;s Wordle answer for Saturday, August 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-31-2024)
- - [Pokémon Go Popplio Community Day guide](https://www.polygon.com/pokemon-go-guide/445907/popplio-community-day-event-shiny-brionne-primarina)
- - [The PC game releases we&#39;re most excited about in September](https://www.pcgamer.com/games/pc-game-release-dates-september-2024)<!-- GAME:END -->
+ - [Pokémon Go Popplio Community Day guide](https://www.polygon.com/pokemon-go-guide/445907/popplio-community-day-event-shiny-brionne-primarina)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
