@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google app’s colorful new icon shortcuts start hitting beta testers](https://www.androidauthority.com/google-app-carousel-redesign-3477080/)
- - [Nest Learning Thermostat users frustrated by dim display, fix on the way](https://www.androidauthority.com/nest-learning-thermostat-dimness-3477077/)
- - [Brazil’s X ban is sending lots of people to Bluesky](https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky)<!-- TECH:END -->
+ - [A Texas federal judge who held Tesla stock denies a motion to dismiss X&#39;s lawsuit accusing Media Matters of misrepresenting the amount of extremist content on X &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240830/p22#a240830p22)
+ - [You can’t beat this 20% discount on the Creative Pebble Plus desk speakers](https://www.androidauthority.com/creative-pebble-plus-deal-3477046/)
+ - [Sit Pretty This Labor Day With $50 Off This Sunny Yellow Outdoor Chair](https://www.cnet.com/deals/sit-pretty-this-labor-day-with-50-off-this-sunny-yellow-outdoor-chair/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
