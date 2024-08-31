@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It got deleted, here again](http://9gag.com/gag/avy7pRn)
- - 😝 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)
- - 👉 [She did ask twice thou](http://9gag.com/gag/a5Qnd1O)<!-- MEMES:END -->
+ - 6️⃣ [You what??!!](http://9gag.com/gag/aZZgWO3)
+ - 😝 [God is great](http://9gag.com/gag/aKGVbMO)
+ - 👉 [A teacher being arrested for not endorsing trans ideology. The Lost Island sure went full retard](http://9gag.com/gag/aLn8QxW)<!-- MEMES:END -->
 
 --- 
 
