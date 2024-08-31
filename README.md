@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Trap, A Quiet Place: Day One, Netflix’s The Deliverance, and every movie new to streaming this week](https://www.polygon.com/entertainment/443904/new-movies-watch-trap-a-quiet-place-day-one-netflix)
- - [Black Ops 6 will let players talk directly to their meat shield hostages, and people are already bracing for heretofore unseen levels of toxicity and abuse](https://www.pcgamer.com/games/fps/black-ops-6-will-let-players-talk-directly-to-their-meat-shield-hostages-fans-are-already-bracing-for-heretofore-unseen-levels-of-toxicity-and-abuse)
- - [The 8 best games from Nintendo’s blockbuster Switch sale](https://www.polygon.com/sales-guide/445917/nintendo-switch-blockbuster-sale-labor-day)<!-- GAME:END -->
+ - [The PC game releases we&#39;re most excited about in September](https://www.pcgamer.com/games/pc-game-release-dates-september-2024)
+ - [Marvel Rivals has won the popular vote, but can it stick the landing?](https://www.polygon.com/gamescom/446805/marvel-rivals-has-won-the-popular-vote-but-can-it-stick-the-landing)
+ - [This upcoming survival game promises an unusual twist: You&#39;re an alien botanist who&#39;s crash-landed on Earth 300,000 years ago](https://www.pcgamer.com/games/survival-crafting/this-upcoming-survival-game-promises-an-unusual-twist-youre-an-alien-botanist-whos-crash-landed-on-earth-300000-years-ago)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
