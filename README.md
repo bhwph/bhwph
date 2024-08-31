@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [With a fresh reinterpretation of The Killer, John Woo mints another action star](https://www.polygon.com/action/446226/the-killer-remake-john-woo-peacock-review)
- - [Avowed Feels Amazing, Monster Hunter Wilds Seems Incredible, And More Of The Week&#39;s Takes](https://kotaku.com/avowed-monster-hunter-wilds-hands-on-preview-1851637036)
- - [Everything Shown At The Latest Nintendo Direct, Fresh Details On Dragon Age: The Veilguard, And More Of The Week&#39;s Top Stories](https://kotaku.com/nintendo-direct-black-myth-wukong-ps5-pro-concord-1851637034)<!-- GAME:END -->
+ - [Genshin Impact players are mad the devs improved the game](https://www.polygon.com/genshin-impact/446223/genshin-5-update-fan-reactions)
+ - [The Never Stop Blowing Up cast breaks open their time in the Dimension 20 dome](https://www.polygon.com/actual-play/446227/never-stop-blowing-up-dimension-20-cast-interview)
+ - [With a fresh reinterpretation of The Killer, John Woo mints another action star](https://www.polygon.com/action/446226/the-killer-remake-john-woo-peacock-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
