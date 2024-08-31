@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shake ur thang, Galadriel](http://9gag.com/gag/ae9e0Mj)
- - 😝 [Sterile environment](http://9gag.com/gag/a1mKZbR)
- - 👉 [Nice](http://9gag.com/gag/aW4qWw6)<!-- MEMES:END -->
+ - 6️⃣ [Only the penitent crackhead may pass](http://9gag.com/gag/apRQBBE)
+ - 😝 [What&#39;s a movie that got bad reviews but you love anyway?](http://9gag.com/gag/an7jX3z)
+ - 👉 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)<!-- MEMES:END -->
 
 --- 
 
