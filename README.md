@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You&#39;ll Literally Never Guess Which Group &quot;Crown&quot; Belongs To In Today&#39;s NYT Connections](https://kotaku.com/nyt-connections-groups-and-answers-saturday-august-31-1851637542)
- - [Today&#39;s Wordle answer for Saturday, August 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-31-2024)
- - [Pokémon Go Popplio Community Day guide](https://www.polygon.com/pokemon-go-guide/445907/popplio-community-day-event-shiny-brionne-primarina)<!-- GAME:END -->
+ - [With a fresh reinterpretation of The Killer, John Woo mints another action star](https://www.polygon.com/action/446226/the-killer-remake-john-woo-peacock-review)
+ - [Avowed Feels Amazing, Monster Hunter Wilds Seems Incredible, And More Of The Week&#39;s Takes](https://kotaku.com/avowed-monster-hunter-wilds-hands-on-preview-1851637036)
+ - [Everything Shown At The Latest Nintendo Direct, Fresh Details On Dragon Age: The Veilguard, And More Of The Week&#39;s Top Stories](https://kotaku.com/nintendo-direct-black-myth-wukong-ps5-pro-concord-1851637034)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
