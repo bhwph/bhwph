@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Rare Coincidence of La Niña Events Will Weaken Hurricane Season](https://www.wired.com/story/a-rare-coincidence-of-la-nina-events-will-weaken-hurricane-season/)
- - [Best Labor Day Sales: Mega Savings From Amazon, Home Depot and More in Every Category](https://www.cnet.com/tech/best-labor-day-sales-2024-08-30/#ftag=CAD590a51e)
- - [Scientists Plan ‘Doomsday’ Vault on Moon](https://www.wired.com/story/scientists-want-to-build-a-doomsday-vault-on-the-moon/)<!-- TECH:END -->
+ - [It&#39;s time for audio services like Spotify to deal with AI by using labels and banning or downweighting music made with AI tools that don&#39;t license training data &lpar;Ed Newton-Rex/Music Business Worldwide&rpar;](http://www.techmeme.com/240831/p2#a240831p2)
+ - [Best Apple Labor Day Sales: Find Incredible Deals on iPads, AirPods, Apple Watches and MacBooks](https://www.cnet.com/deals/best-apple-labor-day-sales-2024-8-31/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: Top Discounts in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
