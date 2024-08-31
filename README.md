@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Star Wars walked away from the world’s first self-retracting lightsaber toy](https://www.theverge.com/2024/8/31/24226439/goliath-power-saber-star-wars-lightsaber-hasbro-disney)
- - [Amazon could ditch its own AI for Claude in Alexa upgrade](https://www.androidauthority.com/amazon-claude-possible-alexa-upgrade-3476859/)
- - [My Best Hatch Alarm Clock Is Still on Sale This Labor Day](https://www.cnet.com/deals/hatch-restore-labor-day-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Give In to Temperature-Controlling Tech and Unlock a New Kitchen Zen](https://www.wired.com/story/induction-by-the-degree-cooking-kitchen-zen/)
+ - [How the Israeli army&#39;s Unit 8200 became an incubator for cybersecurity startups, with its alumni starting Wiz, Palo Alto Networks, and other companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240831/p3#a240831p3)
+ - [With AI food recognition Samsung Food could be the ultimate meal-planning app](https://www.theverge.com/2024/8/31/24231740/samsung-food-plus-vision-ai-food-list-management-ifa-2024)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
