@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wildlife camera traps captures this Orangutan.](http://9gag.com/gag/a5QneVL)
- - 😝 [So AI is redpilled and one of us](http://9gag.com/gag/aVvMO5K)
- - 👉 [The UK \ud83c\uddec\ud83c\udde7](http://9gag.com/gag/a2v4N5p)<!-- MEMES:END -->
+ - 6️⃣ [Snow White and the Million Dislikes](http://9gag.com/gag/a878dm3)
+ - 😝 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
+ - 👉 [Witty title](http://9gag.com/gag/ae9bo1O)<!-- MEMES:END -->
 
 --- 
 
