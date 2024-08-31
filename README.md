@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Poor Guy](http://9gag.com/gag/a7oD5ve)
- - 😝 [Snow White and the Million Dislikes](http://9gag.com/gag/a878dm3)
- - 👉 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)<!-- MEMES:END -->
+ - 6️⃣ [It got deleted, here again](http://9gag.com/gag/avy7pRn)
+ - 😝 [A reported asks if Taliban will allow women to be voted as politicians, their response is LMAO](http://9gag.com/gag/aPA9v4K)
+ - 👉 [She did ask twice thou](http://9gag.com/gag/a5Qnd1O)<!-- MEMES:END -->
 
 --- 
 
