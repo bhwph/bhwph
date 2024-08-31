@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Snow White and the Million Dislikes](http://9gag.com/gag/a878dm3)
- - 😝 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)
+ - 6️⃣ [Hahaha, still, why is it that 9gag is not cancelled?](http://9gag.com/gag/aQze682)
+ - 😝 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
  - 👉 [Witty title](http://9gag.com/gag/ae9bo1O)<!-- MEMES:END -->
 
 --- 
