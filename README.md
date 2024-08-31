@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intex PureSpa Inflatable Hot Tub Reviewed: Bubbles on a Budget](https://www.wired.com/review/intex-purespa-bubble-massage-inflatable-hot-tub/)
- - [A profile of Alexandre de Moraes as even some supporters wonder if the Brazilian Supreme Court judge has become too powerful and gone too far by banning X &lpar;Nick Burns/Americas Quarterly&rpar;](http://www.techmeme.com/240831/p6#a240831p6)
- - [How keep your laptop’s battery in good health](https://www.theverge.com/24232455/mac-windows-pc-battery-how-to)<!-- TECH:END -->
+ - [Bluesky reports a record spike in usage as many X users in Brazil move to Bluesky and Threads; Brazil is X&#39;s fifth-largest international market, with 20M+ users &lpar;New York Times&rpar;](http://www.techmeme.com/240831/p8#a240831p8)
+ - [Take Charge of Your Eye Health With These Vitamins and Supplements](https://www.cnet.com/health/personal-care/take-charge-of-your-eye-health-with-these-vitamins-and-supplements/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: 130+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
