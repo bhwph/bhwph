@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go Popplio Community Day guide](https://www.polygon.com/pokemon-go-guide/445907/popplio-community-day-event-shiny-brionne-primarina)
  - [The PC game releases we&#39;re most excited about in September](https://www.pcgamer.com/games/pc-game-release-dates-september-2024)
- - [Marvel Rivals has won the popular vote, but can it stick the landing?](https://www.polygon.com/gamescom/446805/marvel-rivals-has-won-the-popular-vote-but-can-it-stick-the-landing)
- - [This upcoming survival game promises an unusual twist: You&#39;re an alien botanist who&#39;s crash-landed on Earth 300,000 years ago](https://www.pcgamer.com/games/survival-crafting/this-upcoming-survival-game-promises-an-unusual-twist-youre-an-alien-botanist-whos-crash-landed-on-earth-300000-years-ago)<!-- GAME:END -->
+ - [Marvel Rivals has won the popular vote, but can it stick the landing?](https://www.polygon.com/gamescom/446805/marvel-rivals-has-won-the-popular-vote-but-can-it-stick-the-landing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
