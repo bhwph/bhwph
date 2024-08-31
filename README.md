@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact players are mad the devs improved the game](https://www.polygon.com/genshin-impact/446223/genshin-5-update-fan-reactions)
- - [The Never Stop Blowing Up cast breaks open their time in the Dimension 20 dome](https://www.polygon.com/actual-play/446227/never-stop-blowing-up-dimension-20-cast-interview)
- - [With a fresh reinterpretation of The Killer, John Woo mints another action star](https://www.polygon.com/action/446226/the-killer-remake-john-woo-peacock-review)<!-- GAME:END -->
+ - [Andrew C. Greenberg, co-creator of the influential Wizardry series of RPGs, has died](https://www.pcgamer.com/games/rpg/andrew-greenberg-co-creator-of-the-influential-wizardry-series-of-rpgs-has-died)
+ - [With The Wild Robot, Chris Sanders finally set computer animation free](https://www.polygon.com/animation-cartoons/446701/with-the-wild-robot-chris-sanders-finally-set-computer-animation-free)
+ - [Genshin Impact players are mad the devs improved the game](https://www.polygon.com/genshin-impact/446223/genshin-5-update-fan-reactions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
