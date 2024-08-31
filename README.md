@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wife of policeman killed in France by inm\u00a1grant: `France killed my husband. France. By its inadequacy, its laxity and its excessive tolerance`](http://9gag.com/gag/aLn8K3W)
- - 😝 [The Paralympics just added even more shame to Raygun](http://9gag.com/gag/aLn8QzM)
- - 👉 [Typical polish worker when boss is out for 2 minutes. Builder, plasterer, acrobat.... ... Circle pole dance?](http://9gag.com/gag/aBy8QqO)<!-- MEMES:END -->
+ - 6️⃣ [Shake ur thang, Galadriel](http://9gag.com/gag/ae9e0Mj)
+ - 😝 [Sterile environment](http://9gag.com/gag/a1mKZbR)
+ - 👉 [Nice](http://9gag.com/gag/aW4qWw6)<!-- MEMES:END -->
 
 --- 
 
