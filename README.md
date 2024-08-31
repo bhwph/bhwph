@@ -128,8 +128,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Best Labor Day Sales: Mega Savings From Amazon, Home Depot and More in Every Category](https://www.cnet.com/tech/best-labor-day-sales-2024-08-30/#ftag=CAD590a51e)
- - [A Texas federal judge who held Tesla stock denies a motion to dismiss X&#39;s lawsuit accusing Media Matters of misrepresenting the amount of extremist content on X &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240830/p22#a240830p22)
- - [You can’t beat this 20% discount on the Creative Pebble Plus desk speakers](https://www.androidauthority.com/creative-pebble-plus-deal-3477046/)<!-- TECH:END -->
+ - [Amazon hires the founders of industrial robot maker Covariant and ~25% of its staff, and signs a non-exclusive license to Covariant&#39;s robotic foundation models &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240830/p23#a240830p23)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 31, #181](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-31-181/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
