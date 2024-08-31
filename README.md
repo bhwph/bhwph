@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Labor Day Sales: Mega Savings From Amazon, Home Depot and More in Every Category](https://www.cnet.com/tech/best-labor-day-sales-2024-08-30/#ftag=CAD590a51e)
  - [A Texas federal judge who held Tesla stock denies a motion to dismiss X&#39;s lawsuit accusing Media Matters of misrepresenting the amount of extremist content on X &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240830/p22#a240830p22)
- - [You can’t beat this 20% discount on the Creative Pebble Plus desk speakers](https://www.androidauthority.com/creative-pebble-plus-deal-3477046/)
- - [Sit Pretty This Labor Day With $50 Off This Sunny Yellow Outdoor Chair](https://www.cnet.com/deals/sit-pretty-this-labor-day-with-50-off-this-sunny-yellow-outdoor-chair/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You can’t beat this 20% discount on the Creative Pebble Plus desk speakers](https://www.androidauthority.com/creative-pebble-plus-deal-3477046/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
