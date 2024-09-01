@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Why Doom 3 is still an important and misunderstood game](https://www.pcgamer.com/games/fps/why-doom-3-is-still-an-important-and-misunderstood-game)
  - [Today&#39;s Wordle answer for Sunday, September 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-1-2024)
- - [Baldur&#39;s Gate 3 devs considered a first-person dialogue camera, weren&#39;t sure it would have cinematics: &#39;the next thing we know they&#39;re zooming in on a goblin toe&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-devs-considered-a-first-person-dialogue-camera-werent-sure-it-would-have-cinematics-the-next-thing-we-know-theyre-zooming-in-on-a-goblin-toe)
- - [With its 10th and final update, Silent Hill 2: Enhanced Edition is complete](https://www.pcgamer.com/games/horror/with-its-10th-and-final-update-silent-hill-2-enhanced-edition-is-complete)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 devs considered a first-person dialogue camera, weren&#39;t sure it would have cinematics: &#39;the next thing we know they&#39;re zooming in on a goblin toe&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-devs-considered-a-first-person-dialogue-camera-werent-sure-it-would-have-cinematics-the-next-thing-we-know-theyre-zooming-in-on-a-goblin-toe)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
