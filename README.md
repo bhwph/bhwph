@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bad cop.](http://9gag.com/gag/aRBjwb7)
- - 😝 [A restaurant in Japan conducted a unique experiment showing how fast a Virus spreads](http://9gag.com/gag/a878bjp)
- - 👉 [Poor Guy](http://9gag.com/gag/a7oD5ve)<!-- MEMES:END -->
+ - 6️⃣ [But what about Silicone ones?](http://9gag.com/gag/aMVA27V)
+ - 😝 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)
+ - 👉 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)<!-- MEMES:END -->
 
 --- 
 
