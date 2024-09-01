@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Snack Subscription Boxes We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-snack-subscription-boxes/)
- - [Best Internet Providers in Warren, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-warren-mi/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Man United vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-united-vs-liverpool-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Logitech PC Accessories Are up to 60% off Just Before Labor Day](https://www.cnet.com/deals/these-logitech-pc-accessories-are-up-to-60-off-just-before-labor-day/#ftag=CAD590a51e)
+ - [Home Depot Labor Day Sale: Price Slashes on Appliances, Lawn Care, Furniture, Grills and More](https://www.cnet.com/deals/home-depot-labor-day-sale-2024-09-01/#ftag=CAD590a51e)
+ - [My Favorite Do-It-All Multitool Is 20% Off This Labor Day Weekend](https://www.cnet.com/deals/my-favorite-do-it-all-multitool-is-20-off-this-labor-day-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
