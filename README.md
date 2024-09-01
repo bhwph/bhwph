@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can\u2019t blame him.](http://9gag.com/gag/a9yA7AD)
- - 😝 [Exposing Scammer.](http://9gag.com/gag/a5QnP2q)
- - 👉 [We don&#39;t do that here but..](http://9gag.com/gag/aoyOjK3)<!-- MEMES:END -->
+ - 6️⃣ [2nd time](http://9gag.com/gag/axy0Gjb)
+ - 😝 [Hate it when this happens](http://9gag.com/gag/a878jEZ)
+ - 👉 [Fan thanks singer for saving her life](http://9gag.com/gag/aVvMW7v)<!-- MEMES:END -->
 
 --- 
 
