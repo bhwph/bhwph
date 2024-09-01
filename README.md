@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trailers of the week: Sonic 3, Napoleon, and Agatha All Along](https://www.theverge.com/2024/8/31/24233095/trailers-of-the-week-sonic-the-hedgehog-3-napoleon-agatha-all-along-wallace-gromit)
- - [Best Labor Day Sales: 120+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
- - [Save a Massive $602 on HP&#39;s 15-Inch Touch Laptop at QVC This Labor Day](https://www.cnet.com/deals/save-a-massive-602-on-hps-15-inch-touch-laptop-at-qvc-this-labor-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Big YouTube shows including Hot Ones and Good Mythical Morning attract large audiences but aren&#39;t yet getting Primetime Emmy nominations and ensuing ad revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240831/p12#a240831p12)
+ - [Top Best Buy Labor Day Sales: Incredible Savings on TVs, Laptops, Video Games and More](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-08-31/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: 125+ Top Deals in Every Category From Amazon, Home Depot and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
