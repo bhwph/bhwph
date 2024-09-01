@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bad cop.](http://9gag.com/gag/aRBjwb7)
- - 😝 [Humans caring for other Humans always makes me smile.](http://9gag.com/gag/a9yAM4m)
- - 👉 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)<!-- MEMES:END -->
+ - 6️⃣ [Can\u2019t blame him.](http://9gag.com/gag/a9yA7AD)
+ - 😝 [Exposing Scammer.](http://9gag.com/gag/a5QnP2q)
+ - 👉 [We don&#39;t do that here but..](http://9gag.com/gag/aoyOjK3)<!-- MEMES:END -->
 
 --- 
 
