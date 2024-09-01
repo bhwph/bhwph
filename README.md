@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Logitech PC Accessories Are up to 60% off Just Before Labor Day](https://www.cnet.com/deals/these-logitech-pc-accessories-are-up-to-60-off-just-before-labor-day/#ftag=CAD590a51e)
- - [Home Depot Labor Day Sale: Price Slashes on Appliances, Lawn Care, Furniture, Grills and More](https://www.cnet.com/deals/home-depot-labor-day-sale-2024-09-01/#ftag=CAD590a51e)
- - [My Favorite Do-It-All Multitool Is 20% Off This Labor Day Weekend](https://www.cnet.com/deals/my-favorite-do-it-all-multitool-is-20-off-this-labor-day-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $200 on Samsung’s Freestyle Projector With This Limited Labor Day Deal](https://www.cnet.com/deals/save-200-on-samsung-freestyle-projector-labor-day-deal/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: 130+ Deals to Get Right Now From Amazon, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
+ - [The best new Android apps and games for September 2024](https://www.androidauthority.com/new-android-apps-658839/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
