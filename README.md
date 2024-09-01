@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grand Theft Auto Comes To Life In Punk Singer’s Alleged Crime Spree And High-Speed Chase](https://kotaku.com/real-life-grand-theft-auto-police-chase-1851637732)
- - [Ok, but why do certain languages spoken with American intonations sound exactly like Simlish?](https://www.polygon.com/the-sims/446366/simlish-japanese-french-valley-girl-frat-bro-accent)
- - [The Words &quot;Movie Set&quot; And &quot;Sable&quot; Are Driving Millions Of Players Crazy In Today&#39;s NYT Connections Groups](https://kotaku.com/nyt-connections-groups-and-answers-sunday-september-1-1851637728)<!-- GAME:END -->
+ - [Rings of Power is introducing moral grayness to a series that doesn’t need it](https://www.polygon.com/lotr-rings-of-power/446640/rings-power-trop-morality-lord-rings)
+ - [How Netflix’s Rebel Ridge navigated America’s two biggest taboos](https://www.polygon.com/movies/446789/netflix-rebel-ridge-preview-jeremy-saulnier-interview-aaron-pierre)
+ - [Grand Theft Auto Comes To Life In Punk Singer’s Alleged Crime Spree And High-Speed Chase](https://kotaku.com/real-life-grand-theft-auto-police-chase-1851637732)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
