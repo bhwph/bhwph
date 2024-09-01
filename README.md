@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Labor Day Sales: 125+ Stellar Deals From Amazon, Home Depot, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
- - [Best Apple Labor Day Deals: Incredible Discounts on iPads, Macs, AirPods and More](https://www.cnet.com/deals/best-apple-labor-day-sales-2024-08-31/#ftag=CAD590a51e)
- - [Big YouTube shows including Hot Ones and Good Mythical Morning attract large audiences but aren&#39;t yet getting Primetime Emmy nominations and ensuing ad revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240831/p12#a240831p12)<!-- TECH:END -->
+ - [Best Labor Day Sales: 128 Can&#39;t-Miss Deals From Amazon, Home Depot, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
+ - [Tinder, Hinge, Bumble, and Grindr are building or testing AI tools and chatbots to generate icebreakers, coach users, and more, in a bid to bring back users &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240831/p13#a240831p13)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 1, #182](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-1-182/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
