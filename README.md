@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [No, an actual Apple Watch Ultra does not have a hidden camera](https://appleinsider.com/articles/24/09/01/no-an-actual-apple-watch-ultra-does-not-have-a-hidden-camera?utm_medium=rss)
- - [A US court ordered Nigerian businessman Dozy Mmobuosi, founder of NJ-based Tingo, to pay $250M+ in fines after SEC alleged he inflated Tingo&#39;s financial records &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/240901/p5#a240901p5)
- - [Best Labor Day Sales: 120+ Top Deals to Get Right Now From Amazon, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Pat Gelsinger aims to present Intel&#39;s board ideas to cut capex spending and more, like halting the $32B chip plant project in Germany or selling Altera &lpar;Reuters&rpar;](http://www.techmeme.com/240901/p6#a240901p6)
+ - [Boeing’s Starliner started making a repeating ‘pulsing’ sound yesterday](https://www.theverge.com/2024/9/1/24233669/boeing-starliner-strange-noise-nasa-iss-sonar-ping)
+ - [Best Labor Day Sales: 120+ Top Discounts to Get Right Now From Amazon, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
