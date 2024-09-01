@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rings of Power is introducing moral grayness to a series that doesn’t need it](https://www.polygon.com/lotr-rings-of-power/446640/rings-power-trop-morality-lord-rings)
- - [How Netflix’s Rebel Ridge navigates America’s two biggest taboos](https://www.polygon.com/movies/446789/netflix-rebel-ridge-preview-jeremy-saulnier-interview-aaron-pierre)
- - [Grand Theft Auto Comes To Life In Punk Singer’s Alleged Crime Spree And High-Speed Chase](https://kotaku.com/real-life-grand-theft-auto-police-chase-1851637732)<!-- GAME:END -->
+ - [Frostpunk 2 will have official modding support](https://www.pcgamer.com/games/strategy/frostpunk-2-will-have-official-modding-support)
+ - [We&#39;re Begging You To Play Visions Of Mana, And Here&#39;s Every Reason Why](https://kotaku.com/reasons-to-play-visions-of-mana-1851637768)
+ - [Rings of Power is introducing moral grayness to a series that doesn’t need it](https://www.polygon.com/lotr-rings-of-power/446640/rings-power-trop-morality-lord-rings)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
