@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [2nd time](http://9gag.com/gag/axy0Gjb)
- - 😝 [Hate it when this happens](http://9gag.com/gag/a878jEZ)
- - 👉 [Fan thanks singer for saving her life](http://9gag.com/gag/aVvMW7v)<!-- MEMES:END -->
+ - 6️⃣ [Literally me](http://9gag.com/gag/axy0Zpn)
+ - 😝 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
+ - 👉 [A restaurant in Japan conducted a unique experiment showing how fast a Virus spreads](http://9gag.com/gag/a878bjp)<!-- MEMES:END -->
 
 --- 
 
