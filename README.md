@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget About Sheep. This New Sleep Hack Will Solve Your Sleep Troubles](https://www.cnet.com/health/sleep/forget-about-sheep-this-new-sleep-hack-youve-never-heard-of-will-solve-your-sleep-troubles/#ftag=CAD590a51e)
- - [Best Labor Day Sales: 130+ Top Deals to Get Right Now From Amazon, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [Walmart Labor Day Sale: 30+ Hot Deals on TVs, Gaming Essentials, Tech Gadgets and More](https://www.cnet.com/deals/walmart-labor-day-sale-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [No, an actual Apple Watch Ultra does not have a hidden camera](https://appleinsider.com/articles/24/09/01/no-an-actual-apple-watch-ultra-does-not-have-a-hidden-camera?utm_medium=rss)
+ - [A US court ordered Nigerian businessman Dozy Mmobuosi, founder of NJ-based Tingo, to pay $250M+ in fines after SEC alleged he inflated Tingo&#39;s financial records &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/240901/p5#a240901p5)
+ - [Best Labor Day Sales: 120+ Top Deals to Get Right Now From Amazon, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
