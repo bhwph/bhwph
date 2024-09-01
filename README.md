@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [But what about Silicone ones?](http://9gag.com/gag/aMVA27V)
- - 😝 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)
- - 👉 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)<!-- MEMES:END -->
+ - 6️⃣ [Poor Guy](http://9gag.com/gag/a7oD5ve)
+ - 😝 [Where else is she from?](http://9gag.com/gag/ayNx0KV)
+ - 👉 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)<!-- MEMES:END -->
 
 --- 
 
