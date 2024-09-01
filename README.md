@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Literally me](http://9gag.com/gag/axy0Zpn)
+ - 6️⃣ [Where else is she from?](http://9gag.com/gag/ayNx0KV)
  - 😝 [We never know](http://9gag.com/gag/aQzePp7)
- - 👉 [Some murican problems and delicious solutions](http://9gag.com/gag/aYQ4wy7)<!-- MEMES:END -->
+ - 👉 [The Clone Wars.](http://9gag.com/gag/aoyOzGx)<!-- MEMES:END -->
 
 --- 
 
