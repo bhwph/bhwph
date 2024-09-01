@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3&#39;s beefy patch 7 will finally drop next week](https://www.pcgamer.com/games/baldurs-gate/baldur-s-gate-3-s-beefy-patch-7-will-finally-drop-next-week)
- - [Three Dudes Being Bros Played A 72-Hour Game Of Tag Across Europe](https://kotaku.com/72-hour-game-of-tag-across-europe-1851637644)
- - [Andrew C. Greenberg, co-creator of the influential Wizardry series of RPGs, has died](https://www.pcgamer.com/games/rpg/andrew-greenberg-co-creator-of-the-influential-wizardry-series-of-rpgs-has-died)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 devs considered a first-person dialogue camera, weren&#39;t sure it would have cinematics: &#39;the next thing we know they&#39;re zooming in on a goblin toe&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-devs-considered-a-first-person-dialogue-camera-werent-sure-it-would-have-cinematics-the-next-thing-we-know-theyre-zooming-in-on-a-goblin-toe)
+ - [With its 10th and final update, Silent Hill 2: Enhanced Edition is complete](https://www.pcgamer.com/games/horror/with-its-10th-and-final-update-silent-hill-2-enhanced-edition-is-complete)
+ - [Goblin pachinko roguelike Peglin is finished, complete with some clutch reworks](https://www.pcgamer.com/games/goblin-pachinko-roguelike-peglin-is-finished-complete-with-some-clutch-reworks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
