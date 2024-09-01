@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Labor Day Sales: 128 Can&#39;t-Miss Deals From Amazon, Home Depot, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [Tinder, Hinge, Bumble, and Grindr are building or testing AI tools and chatbots to generate icebreakers, coach users, and more, in a bid to bring back users &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240831/p13#a240831p13)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 1, #182](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-1-182/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Students Find New Evidence of the Impossibility of Complete Disorder](https://www.wired.com/story/students-find-new-evidence-of-the-impossibility-of-complete-disorder/)
+ - [A look at France&#39;s J3 cybercrime unit behind Sky ECC and Encrochat prosecutions, which now leads the case against Telegram&#39;s Pavel Durov &lpar;Gabriel Stargardter/Reuters&rpar;](http://www.techmeme.com/240901/p1#a240901p1)
+ - [Best Labor Day Sales: 129 Can&#39;t-Miss Deals From Amazon, Home Depot, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
