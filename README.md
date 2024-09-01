@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Poor Guy](http://9gag.com/gag/a7oD5ve)
- - 😝 [Where else is she from?](http://9gag.com/gag/ayNx0KV)
- - 👉 [\u200e\u200e\u200e](http://9gag.com/gag/aqy1NvR)<!-- MEMES:END -->
+ - 6️⃣ [Bad cop.](http://9gag.com/gag/aRBjwb7)
+ - 😝 [Humans caring for other Humans always makes me smile.](http://9gag.com/gag/a9yAM4m)
+ - 👉 [Even at 84 years old, Chuck Norris keeping the meme alive](http://9gag.com/gag/awyQrbQ)<!-- MEMES:END -->
 
 --- 
 
