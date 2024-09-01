@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Where else is she from?](http://9gag.com/gag/ayNx0KV)
- - 😝 [We never know](http://9gag.com/gag/aQzePp7)
- - 👉 [The Clone Wars.](http://9gag.com/gag/aoyOzGx)<!-- MEMES:END -->
+ - 6️⃣ [Bad cop.](http://9gag.com/gag/aRBjwb7)
+ - 😝 [A restaurant in Japan conducted a unique experiment showing how fast a Virus spreads](http://9gag.com/gag/a878bjp)
+ - 👉 [Poor Guy](http://9gag.com/gag/a7oD5ve)<!-- MEMES:END -->
 
 --- 
 
