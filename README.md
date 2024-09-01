@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only the penitent crackhead may pass](http://9gag.com/gag/apRQBBE)
- - 😝 [What&#39;s a movie that got bad reviews but you love anyway?](http://9gag.com/gag/an7jX3z)
- - 👉 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)<!-- MEMES:END -->
+ - 6️⃣ [Linkin drunk](http://9gag.com/gag/aQzepnz)
+ - 😝 [Exactly](http://9gag.com/gag/amo2LKV)
+ - 👉 [`Cancers mask`](http://9gag.com/gag/aAyDp19)<!-- MEMES:END -->
 
 --- 
 
