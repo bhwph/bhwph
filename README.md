@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tips For Getting Started In Star Wars Outlaws, A Detailed Look At The Mass Effect Board Game, And More Of The Week&#39;s Top Pointers](https://kotaku.com/star-wars-outlaws-tips-start-visions-of-mana-1851637035)
  - [Why Doom 3 is still an important and misunderstood game](https://www.pcgamer.com/games/fps/why-doom-3-is-still-an-important-and-misunderstood-game)
- - [Today&#39;s Wordle answer for Sunday, September 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-1-2024)
- - [Baldur&#39;s Gate 3 devs considered a first-person dialogue camera, weren&#39;t sure it would have cinematics: &#39;the next thing we know they&#39;re zooming in on a goblin toe&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-devs-considered-a-first-person-dialogue-camera-werent-sure-it-would-have-cinematics-the-next-thing-we-know-theyre-zooming-in-on-a-goblin-toe)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, September 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-1-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
