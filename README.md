@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Linkin drunk](http://9gag.com/gag/aQzepnz)
- - 😝 [Exactly](http://9gag.com/gag/amo2LKV)
- - 👉 [`Cancers mask`](http://9gag.com/gag/aAyDp19)<!-- MEMES:END -->
+ - 6️⃣ [Literally me](http://9gag.com/gag/axy0Zpn)
+ - 😝 [We never know](http://9gag.com/gag/aQzePp7)
+ - 👉 [Some murican problems and delicious solutions](http://9gag.com/gag/aYQ4wy7)<!-- MEMES:END -->
 
 --- 
 
