@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Labor Day Mattress Deals: Snag Sweet Discounts From Nectar, Casper, Purple and Other Top Brands](https://www.cnet.com/deals/best-labor-day-mattress-deals-2024-09-01/#ftag=CAD590a51e)
- - [Home Depot Labor Day Sale: Deep Discounts on Appliances, Lawn Care and Vacuums](https://www.cnet.com/deals/home-depot-labor-day-sale-2024-09-01/#ftag=CAD590a51e)
- - [Best Labor Day Sales: 125+ Deals From Top Retailers You Don&#39;t Want to Miss](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [6 Best Snack Subscription Boxes We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-snack-subscription-boxes/)
+ - [Best Internet Providers in Warren, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-warren-mi/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Man United vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-united-vs-liverpool-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
