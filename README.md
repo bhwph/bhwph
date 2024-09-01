@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never forget...](http://9gag.com/gag/a4PGdLA)
+ - 6️⃣ [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
  - 😝 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
- - 👉 [Would you turn me in?](http://9gag.com/gag/aoyOjYx)<!-- MEMES:END -->
+ - 👉 [Never forget...](http://9gag.com/gag/a4PGdLA)<!-- MEMES:END -->
 
 --- 
 
