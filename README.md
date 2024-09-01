@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tips For Getting Started In Star Wars Outlaws, A Detailed Look At The Mass Effect Board Game, And More Of The Week&#39;s Top Pointers](https://kotaku.com/star-wars-outlaws-tips-start-visions-of-mana-1851637035)
- - [Why Doom 3 is still an important and misunderstood game](https://www.pcgamer.com/games/fps/why-doom-3-is-still-an-important-and-misunderstood-game)
- - [Today&#39;s Wordle answer for Sunday, September 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-1-2024)<!-- GAME:END -->
+ - [Grand Theft Auto Comes To Life In Punk Singer’s Alleged Crime Spree And High-Speed Chase](https://kotaku.com/real-life-grand-theft-auto-police-chase-1851637732)
+ - [Ok, but why do certain languages spoken with American intonations sound exactly like Simlish?](https://www.polygon.com/the-sims/446366/simlish-japanese-french-valley-girl-frat-bro-accent)
+ - [The Words &quot;Movie Set&quot; And &quot;Sable&quot; Are Driving Millions Of Players Crazy In Today&#39;s NYT Connections Groups](https://kotaku.com/nyt-connections-groups-and-answers-sunday-september-1-1851637728)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
