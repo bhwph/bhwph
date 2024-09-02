@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Game developers are waiting for Godot on iPad](https://appleinsider.com/articles/24/09/02/game-developers-are-waiting-for-godot-on-ipad?utm_medium=rss)
- - [The Best Smart Rings, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-smart-rings/)
- - [Tim Cook hangs out with George Clooney as &#39;Wolfs&#39; gets standing ovation](https://appleinsider.com/articles/24/09/02/tim-cook-hangs-out-with-george-clooney-as-wolfs-gets-standing-ovation?utm_medium=rss)<!-- TECH:END -->
+ - [The Samsung Galaxy Watch 4 Is All I Need in a Smartwatch. It&#39;s on Sale Today for Labor Day](https://www.cnet.com/deals/the-samsung-galaxy-watch-4-is-all-i-need-in-a-smartwatch-its-on-sale-today-for-labor-day/#ftag=CAD590a51e)
+ - [These Quality Bose QuietComfort Headphones Are Now Cheaper Than Ever, Thanks to Labor Day](https://www.cnet.com/deals/these-quality-bose-quietcomfort-headphones-are-now-cheaper-than-ever-thanks-to-labor-day/#ftag=CAD590a51e)
+ - [Is tennis the sport of the future?](https://www.theverge.com/c/24225103/tennis-ai-electronic-line-calling-hawk-eye-sports-betting-gambling)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
