@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t believe everything you see](http://9gag.com/gag/an7jyPz)
- - 😝 [Cops: do you recognize the robber?](http://9gag.com/gag/aqy1rjL)
- - 👉 [Perhaps one of the best 2 minute lesson on how to fix inflation.](http://9gag.com/gag/aD2zo3N)<!-- MEMES:END -->
+ - 6️⃣ [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
+ - 😝 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
+ - 👉 [Good old times](http://9gag.com/gag/adB978M)<!-- MEMES:END -->
 
 --- 
 
