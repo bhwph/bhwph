@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Penny wise](http://9gag.com/gag/a1mKXQ6)
- - 😝 [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)
- - 👉 [Jack Sparrow&#39;s dad.](http://9gag.com/gag/aoyOp6m)<!-- MEMES:END -->
+ - 6️⃣ [Hate it when this happens](http://9gag.com/gag/a878jEZ)
+ - 😝 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)
+ - 👉 [2nd time](http://9gag.com/gag/axy0Gjb)<!-- MEMES:END -->
 
 --- 
 
