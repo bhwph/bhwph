@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft might be planning to let AI loose on your local video and audio files with Windows 11 &#39;intelligent media search&#39;](https://www.pcgamer.com/software/windows/microsoft-might-be-planning-to-let-ai-loose-on-your-local-video-and-audio-files-with-windows-11-intelligent-media-search)
- - [OpenAI plans to build its own AI chips on TSMC&#39;s forthcoming 1.6 nm A16 process node](https://www.pcgamer.com/software/ai/openai-plans-to-build-its-own-ai-chips-on-tsmcs-forthcoming-16-nm-a16-process-node)
- - [Star Wars Outlaws: Where to find the market trader in the Counterfeit Credits quest](https://www.pcgamer.com/games/action/star-wars-outlaws-market-trader-counterfeit-credits)<!-- GAME:END -->
+ - [Pokémon Go Giovanni counters, team line-up in September 2024](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)
+ - [Mass Effect: The Board Game prioritizes tactical action over space opera](https://www.polygon.com/tabletop-games/446079/mass-effect-the-board-game-review)
+ - [The 50 Best Sci-Fi Movies Of The Last 50 Years](https://kotaku.com/best-sci-fi-movies-of-all-time-streaming-watch-rank-1851634001)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
