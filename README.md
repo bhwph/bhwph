@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Pat Gelsinger aims to present Intel&#39;s board ideas to cut capex spending and more, like halting the $32B chip plant project in Germany or selling Altera &lpar;Reuters&rpar;](http://www.techmeme.com/240901/p6#a240901p6)
- - [Boeing’s Starliner started making a repeating ‘pulsing’ sound yesterday](https://www.theverge.com/2024/9/1/24233669/boeing-starliner-strange-noise-nasa-iss-sonar-ping)
- - [Best Labor Day Sales: 120+ Top Discounts to Get Right Now From Amazon, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fidelity&#39;s latest valuation of X, 72% lower than when Musk took over, would mean top investor Prince Alwaleed bin Talal al Saud is down $1.4B and Ellison $720M &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/240901/p9#a240901p9)
+ - [Best Labor Day Sales: 127 Can&#39;t-Miss Deals Happening Right Now From Amazon, Walmart, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
+ - [Best Internet Providers in Waco, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-waco-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
