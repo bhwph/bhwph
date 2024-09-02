@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy Watch 4 Is All I Need in a Smartwatch. It&#39;s on Sale Today for Labor Day](https://www.cnet.com/deals/the-samsung-galaxy-watch-4-is-all-i-need-in-a-smartwatch-its-on-sale-today-for-labor-day/#ftag=CAD590a51e)
- - [These Quality Bose QuietComfort Headphones Are Now Cheaper Than Ever, Thanks to Labor Day](https://www.cnet.com/deals/these-quality-bose-quietcomfort-headphones-are-now-cheaper-than-ever-thanks-to-labor-day/#ftag=CAD590a51e)
- - [Is tennis the sport of the future?](https://www.theverge.com/c/24225103/tennis-ai-electronic-line-calling-hawk-eye-sports-betting-gambling)<!-- TECH:END -->
+ - [Starlink, which has 250K customers in Brazil, told Brazil&#39;s telecom agency that it would not comply with orders to block X until its frozen assets were released &lpar;Jack Nicas/New York Times&rpar;](http://www.techmeme.com/240902/p10#a240902p10)
+ - [Best Buy&#39;s $749 MacBook Air deal ends today](https://appleinsider.com/articles/24/09/02/best-buys-749-macbook-air-deal-ends-today?utm_medium=rss)
+ - [Best Labor Day TV Sales 2024: Over 50 Amazing Discounts on TVs From Sony, TCL and More](https://www.cnet.com/deals/best-labor-day-tv-sales-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
