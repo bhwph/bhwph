@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Labor Day Mattress Deals: Don&#39;t Sleep on Savings From Purple, Nectar, Casper and More](https://www.cnet.com/deals/best-labor-day-mattress-deals-2024-09-02/#ftag=CAD590a51e)
- - [Apple is gearing up for a battle with app makers and legislators over whether regulation of teen&#39;s social media use should happen in apps or at the device level &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240902/p4#a240902p4)
- - [Confirmed: The first triple-screen foldable phone is coming next week](https://www.androidauthority.com/first-triple-screen-foldable-phone-launch-date-3477306/)<!-- TECH:END -->
+ - [Game developers are waiting for Godot on iPad](https://appleinsider.com/articles/24/09/02/game-developers-are-waiting-for-godot-on-ipad?utm_medium=rss)
+ - [The Best Smart Rings, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-smart-rings/)
+ - [Tim Cook hangs out with George Clooney as &#39;Wolfs&#39; gets standing ovation](https://appleinsider.com/articles/24/09/02/tim-cook-hangs-out-with-george-clooney-as-wolfs-gets-standing-ovation?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
