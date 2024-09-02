@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Amazon&#39;s and Bezos Earth Fund&#39;s growing influence on the carbon credit market, as experts worry about how Big Tech aims to achieve tough climate goals &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/240902/p2#a240902p2)
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
- - [How I Use AI to Catch Cheaters at School](https://www.cnet.com/tech/services-and-software/how-i-use-ai-to-catch-cheaters-at-school/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Labor Day Mattress Deals: Don&#39;t Sleep on Savings From Purple, Nectar, Casper and More](https://www.cnet.com/deals/best-labor-day-mattress-deals-2024-09-02/#ftag=CAD590a51e)
+ - [Apple is gearing up for a battle with app makers and legislators over whether regulation of teen&#39;s social media use should happen in apps or at the device level &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240902/p4#a240902p4)
+ - [Confirmed: The first triple-screen foldable phone is coming next week](https://www.androidauthority.com/first-triple-screen-foldable-phone-launch-date-3477306/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
