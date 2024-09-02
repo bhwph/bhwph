@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Labor Day Sales: Over 120 Can&#39;t-Miss Deals Happening Right Now From Amazon, Walmart, Best Buy and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [Sources: China has threatened Japan of severe economic retaliation if Japan further restricts sales and servicing of chipmaking equipment to Chinese firms &lpar;Bloomberg&rpar;](http://www.techmeme.com/240902/p1#a240902p1)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 2, #183](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-2-183/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Amazon&#39;s and Bezos Earth Fund&#39;s growing influence on the carbon credit market, as experts worry about how Big Tech aims to achieve tough climate goals &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/240902/p2#a240902p2)
+ - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
+ - [How I Use AI to Catch Cheaters at School](https://www.cnet.com/tech/services-and-software/how-i-use-ai-to-catch-cheaters-at-school/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
