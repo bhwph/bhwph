@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Moaning Lisa](http://9gag.com/gag/aGye0DG)
- - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)
- - 👉 [Why would you behave that way?](http://9gag.com/gag/ae9e6gW)<!-- MEMES:END -->
+ - 6️⃣ [Times are tough for strippers](http://9gag.com/gag/a34M3xm)
+ - 😝 [Jack Sparrow&#39;s dad.](http://9gag.com/gag/aoyOp6m)
+ - 👉 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)<!-- MEMES:END -->
 
 --- 
 
