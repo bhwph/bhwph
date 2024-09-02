@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Times are tough for strippers](http://9gag.com/gag/a34M3xm)
- - 😝 [Jack Sparrow&#39;s dad.](http://9gag.com/gag/aoyOp6m)
- - 👉 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
+ - 😝 [When you are a Norwegian princess and want to piss off mom and dad. So you marry a self proclaimed Shaman. And people wonder what&#39;s wrong with the world today.](http://9gag.com/gag/aBy8YEx)
+ - 👉 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)<!-- MEMES:END -->
 
 --- 
 
