@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
- - 😝 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
- - 👉 [Good old times](http://9gag.com/gag/adB978M)<!-- MEMES:END -->
+ - 6️⃣ [Moaning Lisa](http://9gag.com/gag/aGye0DG)
+ - 😝 [Car thief shows how they steal a car](http://9gag.com/gag/ae9eeAO)
+ - 👉 [The mystery meatball man](http://9gag.com/gag/aD2zWeO)<!-- MEMES:END -->
 
 --- 
 
