@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
- - 😝 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
- - 👉 [Never forget...](http://9gag.com/gag/a4PGdLA)<!-- MEMES:END -->
+ - 6️⃣ [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
+ - 😝 [2nd time](http://9gag.com/gag/axy0Gjb)
+ - 👉 [Hate it when this happens](http://9gag.com/gag/a878jEZ)<!-- MEMES:END -->
 
 --- 
 
