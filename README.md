@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hate it when this happens](http://9gag.com/gag/a878jEZ)
- - 😝 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)
- - 👉 [2nd time](http://9gag.com/gag/axy0Gjb)<!-- MEMES:END -->
+ - 6️⃣ [Moaning Lisa](http://9gag.com/gag/aGye0DG)
+ - 😝 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)
+ - 👉 [Why would you behave that way?](http://9gag.com/gag/ae9e6gW)<!-- MEMES:END -->
 
 --- 
 
