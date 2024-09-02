@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [His own teammate and the referee looking like they just witnessed a hate crime lol](http://9gag.com/gag/a1mKb02)
- - 😝 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)
- - 👉 [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)<!-- MEMES:END -->
+ - 6️⃣ [Don&#39;t believe everything you see](http://9gag.com/gag/an7jyPz)
+ - 😝 [Cops: do you recognize the robber?](http://9gag.com/gag/aqy1rjL)
+ - 👉 [Perhaps one of the best 2 minute lesson on how to fix inflation.](http://9gag.com/gag/aD2zo3N)<!-- MEMES:END -->
 
 --- 
 
