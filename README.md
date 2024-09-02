@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What are Gemini Extensions? Make Google’s chatbot smarter than ChatGPT](https://www.androidauthority.com/gemini-extensions-3477277/)
- - [Top Best Buy Labor Day Sales: Unbeatable Deals on Headphones, Laptops, Appliances and More](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-09-01/#ftag=CAD590a51e)
- - [Best Labor Day Sales: Over 125 Can&#39;t-Miss Deals Happening Right Now From Amazon, Walmart, Best Buy and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Labor Day Sales: Over 125 Can&#39;t-Miss Deals Happening Right Now From Amazon, Walmart, Best Buy and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 2, #183](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-2-183/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 2 #449](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-2-449/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
