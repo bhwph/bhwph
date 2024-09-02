@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Giovanni counters, team line-up in September 2024](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)
- - [Mass Effect: The Board Game prioritizes tactical action over space opera](https://www.polygon.com/tabletop-games/446079/mass-effect-the-board-game-review)
- - [The 50 Best Sci-Fi Movies Of The Last 50 Years](https://kotaku.com/best-sci-fi-movies-of-all-time-streaming-watch-rank-1851634001)<!-- GAME:END -->
+ - [Capcom legend behind Dragon’s Dogma leaves after 30 years](https://www.polygon.com/news/446887/hideaki-itsuno-leaves-capcom-devil-may-cry-dragons-dogma)
+ - [We Ranked Every Tim Burton Movie From Worst To Best](https://kotaku.com/tim-burton-movies-ranked-beetlejuice-big-fish-halloween-1851637754)
+ - [Acer Predator Helios 18 review](https://www.pcgamer.com/hardware/gaming-laptops/acer-predator-helios-18-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
