@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
- - 😝 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
- - 👉 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)<!-- MEMES:END -->
+ - 6️⃣ [Hair color said it all](http://9gag.com/gag/axy0DLp)
+ - 😝 [3-Body-Problem](http://9gag.com/gag/apRQLvW)
+ - 👉 [Better than AI](http://9gag.com/gag/aZZgMe0)<!-- MEMES:END -->
 
 --- 
 
