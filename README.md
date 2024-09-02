@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jacob Wohl is running an AI lobbying company under a pseudonym, Politico reports](https://www.theverge.com/2024/9/2/24234231/jacob-wohl-jack-burkman-ai-lobbying-lobbymatic-politico)
- - [Elon Musk boosts a post that disparages the abilities of &quot;women and low T men&quot;, advocates a &quot;Republic of high status males&quot;, and mentions a &quot;Reich effect&quot; &lpar;Ellsworth Toohey/Boing Boing&rpar;](http://www.techmeme.com/240902/p12#a240902p12)
- - [Best Labor Day Sales: We Found 132 Incredible Deals Worth Shopping From Amazon and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the growing use of tablets in US prisons, letting inmates make calls, send messages, and more, as the FCC imposes price caps on voice and video calls &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](http://www.techmeme.com/240902/p13#a240902p13)
+ - [There’s a reason why Google Gemini’s feeling a lot more responsive](https://www.androidauthority.com/gemini-faster-3477482/)
+ - [Brazilian Supreme Court panel upholds X ban, while Starlink refuses to comply](https://www.theverge.com/2024/9/2/24234349/x-twitter-ban-brazil-supreme-court-elon-musk-moraes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
