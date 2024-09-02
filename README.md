@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hair color said it all](http://9gag.com/gag/axy0DLp)
- - 😝 [3-Body-Problem](http://9gag.com/gag/apRQLvW)
- - 👉 [Better than AI](http://9gag.com/gag/aZZgMe0)<!-- MEMES:END -->
+ - 6️⃣ [His own teammate and the referee looking like they just witnessed a hate crime lol](http://9gag.com/gag/a1mKb02)
+ - 😝 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)
+ - 👉 [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)<!-- MEMES:END -->
 
 --- 
 
