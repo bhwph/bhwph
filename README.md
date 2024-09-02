@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom legend behind Dragon’s Dogma leaves after 30 years](https://www.polygon.com/news/446887/hideaki-itsuno-leaves-capcom-devil-may-cry-dragons-dogma)
- - [We Ranked Every Tim Burton Movie From Worst To Best](https://kotaku.com/tim-burton-movies-ranked-beetlejuice-big-fish-halloween-1851637754)
- - [Acer Predator Helios 18 review](https://www.pcgamer.com/hardware/gaming-laptops/acer-predator-helios-18-review)<!-- GAME:END -->
+ - [Star Wars Outlaws Is A Crappy Masterpiece](https://kotaku.com/star-wars-outlaws-stealth-bugs-ubisoft-1851637931)
+ - [Cairn might be the best climbing game I&#39;ve ever played, and I wish it was released already](https://www.pcgamer.com/games/action/cairn-might-be-the-best-climbing-game-ive-ever-played-and-i-wish-it-was-released-already)
+ - [Capcom legend behind Dragon’s Dogma leaves after 30 years](https://www.polygon.com/news/446887/hideaki-itsuno-leaves-capcom-devil-may-cry-dragons-dogma)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
