@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
- - 😝 [2nd time](http://9gag.com/gag/axy0Gjb)
- - 👉 [Hate it when this happens](http://9gag.com/gag/a878jEZ)<!-- MEMES:END -->
+ - 6️⃣ [Penny wise](http://9gag.com/gag/a1mKXQ6)
+ - 😝 [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)
+ - 👉 [Jack Sparrow&#39;s dad.](http://9gag.com/gag/aoyOp6m)<!-- MEMES:END -->
 
 --- 
 
