@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I want to incorporate more changes, I don&#39;t want to take a conservative approach&#39;: Final Fantasy 14 game director Yoshi-P expresses a desire to shake things up in the future](https://www.pcgamer.com/games/final-fantasy/i-want-to-incorporate-more-changes-i-don-t-want-to-take-a-conservative-approach-final-fantasy-14-game-director-yoshi-p-expresses-a-desire-to-shake-things-up-in-the-future)
- - [Can Wooloo be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/446326/can-wooloo-be-shiny-dubwool)
- - [Nintendo Just Dropped A Bunch Of New Details About Mario &amp; Luigi: Brothership](https://kotaku.com/mario-luigi-brothership-rpg-story-combat-trailers-1851638287)<!-- GAME:END -->
+ - [Sony pulls Concord from sale, will refund customers](https://www.polygon.com/gaming/447033/concord-ps5-pc-pulled-refunds-sony-firewalk)
+ - [Pinch me! I&#39;m now prepping for my dream PC port of classic Nintendo 64 platformer Banjo-Kazooie as this fan-made decompilation project hits 100%](https://www.pcgamer.com/games/adventure/pinch-me-im-now-prepping-for-my-dream-pc-port-of-classic-nintendo-64-platformer-banjo-kazooie-as-this-fan-made-decompilation-project-hits-100)
+ - [MSI is the first to bundle Intel&#39;s new Lunar Lake chip inside a handheld gaming PC alongside a chunky 80 Whr battery](https://www.pcgamer.com/hardware/handheld-gaming-pcs/msi-is-the-first-to-bundle-intels-new-lunar-lake-chip-inside-a-handheld-gaming-pc-alongside-a-chunky-80-whr-battery)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
