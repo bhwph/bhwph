@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The church of Immaculate Conception of Saint Omer in Calais, France \ud83c\uddeb\ud83c\uddf7](http://9gag.com/gag/awyQX08)
- - 😝 [The 7\u20197\u201d basketball player Robert Bobroczkyi behind the scenes of Alien: Romulus](http://9gag.com/gag/aPA9WDn)
- - 👉 [The kingdom will last forever](http://9gag.com/gag/aqy1Ly7)<!-- MEMES:END -->
+ - 6️⃣ [Splinter Cell Conviction &lpar;2010 and Blacklist &lpar;2013&rpar; vs star wars outlaws.](http://9gag.com/gag/azxqrYj)
+ - 😝 [First Time I&#39;ve Ever Seen a Company Roast Themselves on Their Official Twitter Account.](http://9gag.com/gag/a9yAYQD)
+ - 👉 [The American Dream](http://9gag.com/gag/ae9e65p)<!-- MEMES:END -->
 
 --- 
 
