@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The most fox looking fox](http://9gag.com/gag/ayNxBn8)
- - 😝 [I came too fast...](http://9gag.com/gag/a2v4ZoE)
- - 👉 [Yesterday&#39;s solar activity. Banan\u2014 Earth for scale. Video credit: Andrew James McCarthy](http://9gag.com/gag/apRQQNM)<!-- MEMES:END -->
+ - 6️⃣ [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)
+ - 😝 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)
+ - 👉 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)<!-- MEMES:END -->
 
 --- 
 
