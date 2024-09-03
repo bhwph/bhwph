@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple won&#39;t let go of the idea of a touchscreen MacBook Pro](https://appleinsider.com/articles/24/09/03/apple-wont-let-go-of-the-idea-of-a-touchscreen-macbook-pro?utm_medium=rss)
- - [Cybex e-Gazelle S Review: Powers Up Hills and Gently Rocks](https://www.wired.com/review/cybex-e-gazelle-s/)
- - [Bang &amp; Olufsen’s $1,549 headphones bring improved noise-cancellation and repairability](https://www.theverge.com/2024/9/3/24234719/bang-olufsen-wireless-headphones-beoplay-h100-anc)<!-- TECH:END -->
+ - [The best Labor Day deals you can still get](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)
+ - [Capcom’s two upcoming fighting game collections are heading to Xbox too](https://www.theverge.com/2024/9/3/24234863/marvel-vs-capcom-fighting-collection-xbox-release-2025)
+ - [Sony is taking Concord offline on September 6th after disastrous launch](https://www.theverge.com/2024/9/3/24234909/sony-concord-ps5-shutdown-poor-sales-launch-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
