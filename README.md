@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I was shocked to find 9gagers on Insta comment.\u00a0](http://9gag.com/gag/aKGDxeb)
- - 😝 [I came too fast...](http://9gag.com/gag/a2v4ZoE)
- - 👉 [Japoreo lession](http://9gag.com/gag/a0e5Qzn)<!-- MEMES:END -->
+ - 6️⃣ [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)
+ - 😝 [Sorry for late BBQ photo](http://9gag.com/gag/aD2zxnw)
+ - 👉 [The mystery meatball man](http://9gag.com/gag/aD2zWeO)<!-- MEMES:END -->
 
 --- 
 
