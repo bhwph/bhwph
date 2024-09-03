@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox boss Phil Spencer says he&#39;s made the &#39;worst game choice decisions,&#39; letting exclusives like Destiny slip through his fingers](https://www.pcgamer.com/gaming-industry/xbox-boss-phil-spencer-says-hes-made-the-worst-game-choice-decisions-letting-exclusives-like-destiny-slip-through-his-fingers)
- - [Windows 11 is now the most popular OS for Steam users worldwide, though it took longer than Windows 10 did](https://www.pcgamer.com/software/windows/windows-11-is-now-the-most-popular-os-for-steam-users-worldwide-though-it-took-longer-than-windows-10-did)
- - [Rocksteady reportedly begins a round of layoffs after Suicide Squad: Kill the Justice League&#39;s shortcomings, slashes its QA team&#39;s numbers in half](https://www.pcgamer.com/games/third-person-shooter/rocksteady-reportedly-begins-a-round-of-layoffs-after-suicide-squad-kill-the-justice-league-s-shortcomings-slashes-its-qa-team-s-numbers-in-half)<!-- GAME:END -->
+ - [&#39;I want to incorporate more changes, I don&#39;t want to take a conservative approach&#39;: Final Fantasy 14 game director Yoshi-P expresses a desire to shake things up in the future](https://www.pcgamer.com/games/final-fantasy/i-want-to-incorporate-more-changes-i-don-t-want-to-take-a-conservative-approach-final-fantasy-14-game-director-yoshi-p-expresses-a-desire-to-shake-things-up-in-the-future)
+ - [Can Wooloo be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/446326/can-wooloo-be-shiny-dubwool)
+ - [Nintendo Just Dropped A Bunch Of New Details About Mario &amp; Luigi: Brothership](https://kotaku.com/mario-luigi-brothership-rpg-story-combat-trailers-1851638287)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
