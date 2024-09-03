@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Moaning Lisa](http://9gag.com/gag/aGye0DG)
- - 😝 [Car thief shows how they steal a car](http://9gag.com/gag/ae9eeAO)
- - 👉 [The mystery meatball man](http://9gag.com/gag/aD2zWeO)<!-- MEMES:END -->
+ - 6️⃣ [How to start world war 3](http://9gag.com/gag/aE0BnDe)
+ - 😝 [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
+ - 👉 [Penny wise](http://9gag.com/gag/a1mKXQ6)<!-- MEMES:END -->
 
 --- 
 
