@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)
- - 😝 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)
- - 👉 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)<!-- MEMES:END -->
+ - 6️⃣ [I was shocked to find 9gagers on Insta comment.\u00a0](http://9gag.com/gag/aKGDxeb)
+ - 😝 [I came too fast...](http://9gag.com/gag/a2v4ZoE)
+ - 👉 [Japoreo lession](http://9gag.com/gag/a0e5Qzn)<!-- MEMES:END -->
 
 --- 
 
