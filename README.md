@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 😝 [The American Dream](http://9gag.com/gag/ae9e65p)
- - 👉 [Rare? A drone could easily take this pic today](http://9gag.com/gag/agmYGvW)<!-- MEMES:END -->
+ - 6️⃣ [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
+ - 😝 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
+ - 👉 [The American Dream](http://9gag.com/gag/ae9e65p)<!-- MEMES:END -->
 
 --- 
 
