@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Labor Day deals you can still get](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)
- - [Capcom’s two upcoming fighting game collections are heading to Xbox too](https://www.theverge.com/2024/9/3/24234863/marvel-vs-capcom-fighting-collection-xbox-release-2025)
- - [Sony is taking Concord offline on September 6th after disastrous launch](https://www.theverge.com/2024/9/3/24234909/sony-concord-ps5-shutdown-poor-sales-launch-pc)<!-- TECH:END -->
+ - [Bluesky says that, as of September 2, it had added over 2M new users in the past week, in the wake of Brazil&#39;s ban on X &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240903/p20#a240903p20)
+ - [Starlink shares timeline for expanding satellite service to carriers beyond T-Mobile](https://www.androidauthority.com/starlink-satellite-t-mobile-3477849/)
+ - [Android 15 source code hits AOSP, stable rollout still a few weeks away](https://www.androidauthority.com/android-15-source-code-released-3477402/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
