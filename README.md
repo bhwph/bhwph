@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title](http://9gag.com/gag/a8788WQ)
- - 😝 [Something, something, consequences](http://9gag.com/gag/avy7rbn)
- - 👉 [Brazilian Highway simulator](http://9gag.com/gag/aW4qqd4)<!-- MEMES:END -->
+ - 6️⃣ [Italian is the best](http://9gag.com/gag/azxqXLq)
+ - 😝 [The American Dream](http://9gag.com/gag/ae9e65p)
+ - 👉 [Rare? A drone could easily take this pic today](http://9gag.com/gag/agmYGvW)<!-- MEMES:END -->
 
 --- 
 
