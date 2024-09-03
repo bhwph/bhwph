@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the growing use of tablets in US prisons, letting inmates make calls, send messages, and more, as the FCC imposes price caps on voice and video calls &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](http://www.techmeme.com/240902/p13#a240902p13)
- - [There’s a reason why Google Gemini’s feeling a lot more responsive](https://www.androidauthority.com/gemini-faster-3477482/)
- - [Brazilian Supreme Court panel upholds X ban, while Starlink refuses to comply](https://www.theverge.com/2024/9/2/24234349/x-twitter-ban-brazil-supreme-court-elon-musk-moraes)<!-- TECH:END -->
+ - [Heybike Hauler review: Hefty yet comfortable e-bike for errands](https://appleinsider.com/articles/24/09/03/heybike-hauler-review-hefty-yet-comfortable-e-bike-for-errands?utm_medium=rss)
+ - [Best Labor Day Mattress Deals: Last-Minute Savings from Helix, Purple, Nectar and Other Top Brands](https://www.cnet.com/deals/best-labor-day-mattress-deals-2024-09-02/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: We Found Over 125 Amazing Deals Worth Shopping From Amazon and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
