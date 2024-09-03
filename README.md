@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to start world war 3](http://9gag.com/gag/aE0BnDe)
- - 😝 [Buying first beer](http://9gag.com/gag/ajPNDdR)
- - 👉 [I can&#39;t see da difference](http://9gag.com/gag/aqy1L4Z)<!-- MEMES:END -->
+ - 6️⃣ [Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/aGye0oZ)
+ - 😝 [Well\u2026. Shit.](http://9gag.com/gag/a4PGZ71)
+ - 👉 [Penny wise](http://9gag.com/gag/a1mKXQ6)<!-- MEMES:END -->
 
 --- 
 
