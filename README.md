@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky says that, as of September 2, it had added over 2M new users in the past week, in the wake of Brazil&#39;s ban on X &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240903/p20#a240903p20)
- - [Starlink shares timeline for expanding satellite service to carriers beyond T-Mobile](https://www.androidauthority.com/starlink-satellite-t-mobile-3477849/)
- - [Android 15 source code hits AOSP, stable rollout still a few weeks away](https://www.androidauthority.com/android-15-source-code-released-3477402/)<!-- TECH:END -->
+ - [The US FTC says that the money lost to Bitcoin ATM scams increased from $12M in 2020 to $114M in 2023, and $65M has already been lost in the first half of 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240903/p22#a240903p22)
+ - [Next year’s best smartphone camera has already leaked](https://www.androidauthority.com/xiaomi-15-ultra-camera-specs-3477995/)
+ - [Google releases Pixel update to get rid of surveillance vulnerability](https://www.theverge.com/2024/9/3/24235127/google-pixel-showcase-vulnerability-patch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
