@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This illustrated copy of Children of Dune is the true Lisan al Gaib](https://www.polygon.com/sci-fi/447193/children-of-dune-folio-society-where-to-buy)
- - [10 major Sims 4 features you probably forgot it didn&#39;t have at launch 10 years ago](https://www.pcgamer.com/games/the-sims/10-major-sims-4-features-you-probably-forgot-it-didn-t-have-at-launch-10-years-ago)
- - [Court locks in Bungie&#39;s $4.4 million win against Destiny 2 cheat maker, refuses request for a new trial](https://www.pcgamer.com/games/fps/court-locks-in-bungies-dollar44-million-win-against-destiny-2-cheat-maker-refuses-request-for-a-new-trial)<!-- GAME:END -->
+ - [Spectre Divide launches with outrageous $90 gun skins out the gate, which only makes its broken matchmaking more annoying](https://www.pcgamer.com/games/fps/spectre-divide-launches-with-outrageous-90-gun-skins-which-only-makes-its-broken-matchmaking-more-annoying)
+ - [A brand-new vocation is coming to Dragon Quest III HD-2D Remake](https://blog.playstation.com/2024/09/03/a-brand-new-vocation-is-coming-to-dragon-quest-iii-hd-2d-remake/)
+ - [Two ways to save a video game industry on fire](https://www.polygon.com/opinion/446844/two-ways-to-save-a-video-game-industry-on-fire)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
