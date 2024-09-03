@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to start world war 3](http://9gag.com/gag/aE0BnDe)
- - 😝 [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
- - 👉 [Penny wise](http://9gag.com/gag/a1mKXQ6)<!-- MEMES:END -->
+ - 6️⃣ [The church of Immaculate Conception of Saint Omer in Calais, France \ud83c\uddeb\ud83c\uddf7](http://9gag.com/gag/awyQX08)
+ - 😝 [The 7\u20197\u201d basketball player Robert Bobroczkyi behind the scenes of Alien: Romulus](http://9gag.com/gag/aPA9WDn)
+ - 👉 [The kingdom will last forever](http://9gag.com/gag/aqy1Ly7)<!-- MEMES:END -->
 
 --- 
 
