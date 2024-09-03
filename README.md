@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony pulls Concord from sale, will refund customers](https://www.polygon.com/gaming/447033/concord-ps5-pc-pulled-refunds-sony-firewalk)
- - [Pinch me! I&#39;m now prepping for my dream PC port of classic Nintendo 64 platformer Banjo-Kazooie as this fan-made decompilation project hits 100%](https://www.pcgamer.com/games/adventure/pinch-me-im-now-prepping-for-my-dream-pc-port-of-classic-nintendo-64-platformer-banjo-kazooie-as-this-fan-made-decompilation-project-hits-100)
- - [MSI is the first to bundle Intel&#39;s new Lunar Lake chip inside a handheld gaming PC alongside a chunky 80 Whr battery](https://www.pcgamer.com/hardware/handheld-gaming-pcs/msi-is-the-first-to-bundle-intels-new-lunar-lake-chip-inside-a-handheld-gaming-pc-alongside-a-chunky-80-whr-battery)<!-- GAME:END -->
+ - [This reimagined NES game reminded me that remakes can be awesome, actually](https://www.pcgamer.com/games/action/this-reimagined-nes-game-reminded-me-that-remakes-can-be-awesome-actually)
+ - [World Of Warcraft&#39;s Famous Neutral Panda Player Hits Max Level In New Expansion](https://kotaku.com/world-of-warcraft-neutral-panda-neutralagent-wow-lvl-80-1851638703)
+ - [11 Of The Best Games At PAX West 2024](https://kotaku.com/pax-best-games-life-strange-ritas-rewind-1851638757)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
