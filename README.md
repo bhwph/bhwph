@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canva announces price raises, including hikes of 300% for some users, citing its new generative AI features, as it prepares for a US IPO &lpar;Denham Sadler/Information Age&rpar;](http://www.techmeme.com/240903/p10#a240903p10)
- - [The 13 Best Messenger Bags, Crossbody Bags, Slings, and Shoulder Bags &lpar;2024&rpar;](https://www.wired.com/gallery/best-messenger-bags/)
- - [EcoFlow launches four new batteries for phones, homes, and RVs](https://www.theverge.com/2024/9/3/24234116/ecoflow-power-kit-river-3-delta-3-rapid-specs-date)<!-- TECH:END -->
+ - [Apple won&#39;t let go of the idea of a touchscreen MacBook Pro](https://appleinsider.com/articles/24/09/03/apple-wont-let-go-of-the-idea-of-a-touchscreen-macbook-pro?utm_medium=rss)
+ - [Cybex e-Gazelle S Review: Powers Up Hills and Gently Rocks](https://www.wired.com/review/cybex-e-gazelle-s/)
+ - [Bang &amp; Olufsen’s $1,549 headphones bring improved noise-cancellation and repairability](https://www.theverge.com/2024/9/3/24234719/bang-olufsen-wireless-headphones-beoplay-h100-anc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
