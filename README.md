@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/aGye0oZ)
- - 😝 [Well\u2026. Shit.](http://9gag.com/gag/a4PGZ71)
- - 👉 [Penny wise](http://9gag.com/gag/a1mKXQ6)<!-- MEMES:END -->
+ - 6️⃣ [Title](http://9gag.com/gag/a8788WQ)
+ - 😝 [Something, something, consequences](http://9gag.com/gag/avy7rbn)
+ - 👉 [Brazilian Highway simulator](http://9gag.com/gag/aW4qqd4)<!-- MEMES:END -->
 
 --- 
 
