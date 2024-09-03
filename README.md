@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Splinter Cell Conviction &lpar;2010 and Blacklist &lpar;2013&rpar; vs star wars outlaws.](http://9gag.com/gag/azxqrYj)
- - 😝 [First Time I&#39;ve Ever Seen a Company Roast Themselves on Their Official Twitter Account.](http://9gag.com/gag/a9yAYQD)
- - 👉 [The American Dream](http://9gag.com/gag/ae9e65p)<!-- MEMES:END -->
+ - 6️⃣ [How to start world war 3](http://9gag.com/gag/aE0BnDe)
+ - 😝 [Buying first beer](http://9gag.com/gag/ajPNDdR)
+ - 👉 [I can&#39;t see da difference](http://9gag.com/gag/aqy1L4Z)<!-- MEMES:END -->
 
 --- 
 
