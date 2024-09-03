@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US FTC says that the money lost to Bitcoin ATM scams increased from $12M in 2020 to $114M in 2023, and $65M has already been lost in the first half of 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240903/p22#a240903p22)
- - [Next year’s best smartphone camera has already leaked](https://www.androidauthority.com/xiaomi-15-ultra-camera-specs-3477995/)
- - [Google releases Pixel update to get rid of surveillance vulnerability](https://www.theverge.com/2024/9/3/24235127/google-pixel-showcase-vulnerability-patch)<!-- TECH:END -->
+ - [In an internal letter, Snap CEO tries to rally staff amid a 48% stock price drop this year, says Snap will test new ad formats in the chat inbox and on Snap Map &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240903/p29#a240903p29)
+ - [Windows 11’s new gamepad keyboard lets you type with an Xbox controller](https://www.theverge.com/2024/9/3/24235291/microsoft-windows-11-gamepad-keyboard-xbox-controller)
+ - [Starlink says it will block X in Brazil](https://www.theverge.com/2024/9/3/24235204/starlink-block-x-brazil-comply-elon-musk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
