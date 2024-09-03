@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S24 FE rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s24-fe-3440533/)
- - [The Galaxy S24 FE will have the same charging speed as the first FE phone](https://www.androidauthority.com/samsung-galaxy-s24-fe-charging-speed-3477283/)
- - [Best Labor Day Sales: Over 100 Deals Still Available from Amazon, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The use of AI techniques has accelerated and improved drug discovery efforts, in the face of rising antibiotic resistance due to drug overuse &lpar;Dhruv Khullar/New Yorker&rpar;](http://www.techmeme.com/240903/p4#a240903p4)
+ - [Love Samsung Messages? Too bad, Samsung is pushing more phones to Google Messages](https://www.androidauthority.com/samsung-messages-google-messages-older-phones-3477632/)
+ - [Best Labor Day Sales: Big Savings Still Available from Amazon, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-03/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
