@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This reimagined NES game reminded me that remakes can be awesome, actually](https://www.pcgamer.com/games/action/this-reimagined-nes-game-reminded-me-that-remakes-can-be-awesome-actually)
- - [World Of Warcraft&#39;s Famous Neutral Panda Player Hits Max Level In New Expansion](https://kotaku.com/world-of-warcraft-neutral-panda-neutralagent-wow-lvl-80-1851638703)
- - [11 Of The Best Games At PAX West 2024](https://kotaku.com/pax-best-games-life-strange-ritas-rewind-1851638757)<!-- GAME:END -->
+ - [This illustrated copy of Children of Dune is the true Lisan al Gaib](https://www.polygon.com/sci-fi/447193/children-of-dune-folio-society-where-to-buy)
+ - [10 major Sims 4 features you probably forgot it didn&#39;t have at launch 10 years ago](https://www.pcgamer.com/games/the-sims/10-major-sims-4-features-you-probably-forgot-it-didn-t-have-at-launch-10-years-ago)
+ - [Court locks in Bungie&#39;s $4.4 million win against Destiny 2 cheat maker, refuses request for a new trial](https://www.pcgamer.com/games/fps/court-locks-in-bungies-dollar44-million-win-against-destiny-2-cheat-maker-refuses-request-for-a-new-trial)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
