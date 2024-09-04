@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google releases Android 15, making its source code available on the Android Open Source Project; supported Pixel devices will get the new OS in the coming weeks &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240904/p40#a240904p40)
- - [Roku’s new Backdrops feature is blatantly inspired by Samsung’s Frame TV](https://www.theverge.com/2024/9/4/24235866/roku-backdrop-feature-artwork-screensavers)
- - [Nothing OS 3.0 leak offers first look at new animations and big changes](https://www.androidauthority.com/nothing-os-3-leaked-features-3478320/)<!-- TECH:END -->
+ - [X wins block on part of California’s content moderation law](https://www.theverge.com/2024/9/4/24236180/x-wins-block-california-content-moderation-law-ab-587)
+ - [The NSA’s podcast will have you listening in on them this time](https://www.theverge.com/2024/9/4/24236109/nsa-no-such-podcast-surveillance)
+ - [Deal: The Nothing Ear &lpar;a&rpar; earbuds reach an all-time low price](https://www.androidauthority.com/nothing-ear-a-deal-3478358/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
