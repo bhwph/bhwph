@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an internal letter, Snap CEO tries to rally staff amid a 48% stock price drop this year, says Snap will test new ad formats in the chat inbox and on Snap Map &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240903/p29#a240903p29)
- - [Windows 11’s new gamepad keyboard lets you type with an Xbox controller](https://www.theverge.com/2024/9/3/24235291/microsoft-windows-11-gamepad-keyboard-xbox-controller)
- - [Starlink says it will block X in Brazil](https://www.theverge.com/2024/9/3/24235204/starlink-block-x-brazil-comply-elon-musk)<!-- TECH:END -->
+ - [China-based MiniMax launches video-01, its text-to-video AI model that generates six-second clips with 1280x720 resolution at 25 fps &lpar;Ryan Morrison/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240903/p34#a240903p34)
+ - [Snapchat is going to put ads next to messages from your friends](https://www.theverge.com/2024/9/3/24235341/snapchat-sponsored-ads-messages-chat-tab-with-friends)
+ - [You’ll soon be able to leave comments on Instagram Stories posts](https://www.theverge.com/2024/9/3/24235292/instagram-stories-disappearing-comments-from-friends)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
