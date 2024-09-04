@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Space Marine 2 performance analysis—Blurry upscaling, mushy graphics, and so-so frame rates](https://www.pcgamer.com/hardware/warhammer-40000-space-marine-2-performance-analysisblurry-upscaling-mushy-graphics-and-so-so-frame-rates)
- - [Warhammer 40,000: Space Marine 2 review](https://www.pcgamer.com/games/action/warhammer-40-000-space-marine-2-review)
- - [Warhammer 40K: Space Marine 2: The Kotaku Review](https://kotaku.com/space-marine-2-warhammer-40k-review-how-long-review-ps5-1851639029)<!-- GAME:END -->
+ - [Save the Kingdom: Epic Battles Await in Bunny Battle Nemesis](https://news.xbox.com/en-us/2024/09/04/save-the-kingdom-epic-battles-await-in-bunny-battle-nemesis/)
+ - [Steam&#39;s approval process dinged this indie game remake for being a remake of the game it&#39;s remaking: &#39;Seems identical to the game you put out 11 years ago&#39;](https://www.pcgamer.com/games/puzzle/steams-approval-process-dinged-this-indie-game-remake-for-being-a-remake-of-the-game-its-remaking-seems-identical-to-the-game-you-put-out-11-years-ago)
+ - [Misfits and Magic season 2 tackles the future of magic](https://www.polygon.com/tabletop-games/447782/dimension-20-misfits-and-magic-season-2-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
