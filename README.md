@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best dad ever](http://9gag.com/gag/aZZgyq9)
- - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 👉 [Why are they like this? this poor man.](http://9gag.com/gag/aqy1jKp)<!-- MEMES:END -->
+ - 6️⃣ [This train in Japan is on a whole new level!](http://9gag.com/gag/a7oDWzz)
+ - 😝 [Mazda](http://9gag.com/gag/avy755b)
+ - 👉 [Climate emergency catastrophist goblin shows true colors](http://9gag.com/gag/a5QnW0O)<!-- MEMES:END -->
 
 --- 
 
