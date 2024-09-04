@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Most iPhone buyers prioritize need over new features in latest upgrades](https://appleinsider.com/articles/24/09/04/most-iphone-buyers-prioritize-need-over-new-features-in-latest-upgrades?utm_medium=rss)
- - [Beats by Dre teases new PowerBeats Pro 2 headphones for 2025](https://appleinsider.com/articles/24/09/04/beats-by-dre-teases-new-powerbeats-pro-2-headphones-for-2025?utm_medium=rss)
- - [Here are three Anker portable battery deals for all kinds of users](https://www.androidauthority.com/deals-anker-733-548-c1000-batteries-3477992/)<!-- TECH:END -->
+ - [Sources: SpaceX has moved to evacuate employees from Brazil and warned others against traveling to the country, as Elon Musk battles Brazil&#39;s top court over X &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240904/p37#a240904p37)
+ - [Audio transcription compared -- Cloud-based vs. on-device](https://appleinsider.com/articles/24/09/04/audio-transcription-compared----cloud-based-vs-on-device?utm_medium=rss)
+ - [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
