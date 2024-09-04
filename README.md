@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The end is the best](http://9gag.com/gag/aBy88WO)
- - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 👉 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)<!-- MEMES:END -->
+ - 6️⃣ [Keep smiling!](http://9gag.com/gag/aPA9Yjn)
+ - 😝 [I was shocked to find 9gagers on Insta comment.\u00a0](http://9gag.com/gag/aKGDxeb)
+ - 👉 [Slav home renovation simulator](http://9gag.com/gag/aGyeeEG)<!-- MEMES:END -->
 
 --- 
 
