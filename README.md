@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
- - 😝 [Poor guy](http://9gag.com/gag/aE0B2ze)
- - 👉 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)<!-- MEMES:END -->
+ - 6️⃣ [When you have to let homie win](http://9gag.com/gag/aZZgg5W)
+ - 😝 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
+ - 👉 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)<!-- MEMES:END -->
 
 --- 
 
