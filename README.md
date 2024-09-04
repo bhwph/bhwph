@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX has moved to evacuate employees from Brazil and warned others against traveling to the country, as Elon Musk battles Brazil&#39;s top court over X &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240904/p37#a240904p37)
- - [Audio transcription compared -- Cloud-based vs. on-device](https://appleinsider.com/articles/24/09/04/audio-transcription-compared----cloud-based-vs-on-device?utm_medium=rss)
- - [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/)<!-- TECH:END -->
+ - [Google releases Android 15, making its source code available on the Android Open Source Project; supported Pixel devices will get the new OS in the coming weeks &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240904/p40#a240904p40)
+ - [Roku’s new Backdrops feature is blatantly inspired by Samsung’s Frame TV](https://www.theverge.com/2024/9/4/24235866/roku-backdrop-feature-artwork-screensavers)
+ - [Nothing OS 3.0 leak offers first look at new animations and big changes](https://www.androidauthority.com/nothing-os-3-leaked-features-3478320/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
