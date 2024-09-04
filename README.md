@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify expands daylist, a personalized playlist that evolves through the day depending on listening habits, globally for free and adds support for 14 languages &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240904/p13#a240904p13)
- - [Alibaba will let shoppers check out via Tencent&#39;s WeChat Pay on its Taobao and Tmall shopping platforms, as Chinese government crackdown on Alibaba ends &lpar;Bloomberg&rpar;](http://www.techmeme.com/240904/p12#a240904p12)
- - [The best gimbals for iPhone or Android in 2024](https://www.androidauthority.com/best-smartphone-gimbals-1039527/)<!-- TECH:END -->
+ - [Suffering from the broken shuffle button? Spotify now has a playlist that endlessly shuffles](https://www.androidauthority.com/spotify-playlist-shuffles-throughout-day-3478180/)
+ - [Robinhood launches a new feature in the UK to let retail investors lend stocks they own to interested borrowers, in a bid to grow its international footprint &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240904/p21#a240904p21)
+ - [Concord was worse than bad — it was forgettable](https://www.theverge.com/2024/9/4/24235163/concord-cancellation-live-service-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
