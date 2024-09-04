@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Safe Superintelligence, co-founded by ex-OpenAI chief scientist Ilya Sutskever, raised $1B from a16z, Sequoia, and others, sources say at a $5B valuation &lpar;Reuters&rpar;](http://www.techmeme.com/240904/p27#a240904p27)
- - [Sorry Samsung, I’m not a fan of the Galaxy Watch FE — here’s why](https://www.androidauthority.com/samsung-galaxy-watch-fe-review-3474668/)
- - [Tado’s Matter-compliant heating products are coming to the UK](https://www.theverge.com/2024/9/4/24234392/tado-x-matter-thread-heatpump-europe-uk-price-specs)<!-- TECH:END -->
+ - [Most iPhone buyers prioritize need over new features in latest upgrades](https://appleinsider.com/articles/24/09/04/most-iphone-buyers-prioritize-need-over-new-features-in-latest-upgrades?utm_medium=rss)
+ - [Beats by Dre teases new PowerBeats Pro 2 headphones for 2025](https://appleinsider.com/articles/24/09/04/beats-by-dre-teases-new-powerbeats-pro-2-headphones-for-2025?utm_medium=rss)
+ - [Here are three Anker portable battery deals for all kinds of users](https://www.androidauthority.com/deals-anker-733-548-c1000-batteries-3477992/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
