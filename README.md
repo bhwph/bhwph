@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spectre Divide launches with outrageous $90 gun skins out the gate, which only makes its broken matchmaking more annoying](https://www.pcgamer.com/games/fps/spectre-divide-launches-with-outrageous-90-gun-skins-which-only-makes-its-broken-matchmaking-more-annoying)
- - [A brand-new vocation is coming to Dragon Quest III HD-2D Remake](https://blog.playstation.com/2024/09/03/a-brand-new-vocation-is-coming-to-dragon-quest-iii-hd-2d-remake/)
- - [Two ways to save a video game industry on fire](https://www.polygon.com/opinion/446844/two-ways-to-save-a-video-game-industry-on-fire)<!-- GAME:END -->
+ - [Is there any chance of a Concord comeback? Here are 5 other times major PC games failed to launch, and what happened next](https://www.pcgamer.com/gaming-industry/is-there-any-chance-of-a-concord-comeback-here-are-5-other-times-major-pc-games-failed-to-launch-and-what-happened-next)
+ - [Oof, I forgot that Concord has an episode in upcoming TV series Secret Level](https://www.pcgamer.com/games/fps/oof-i-forgot-that-concord-has-an-episode-in-upcoming-tv-series-secret-level)
+ - [Fresh off a cozy fuzzy animal set, Magic: The Gathering is going full horror again](https://www.pcgamer.com/games/card-games/fresh-off-a-cozy-fuzzy-animal-set-magic-the-gathering-is-going-full-horror-again)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
