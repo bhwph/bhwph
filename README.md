@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)
- - 😝 [Sorry for late BBQ photo](http://9gag.com/gag/aD2zxnw)
- - 👉 [The mystery meatball man](http://9gag.com/gag/aD2zWeO)<!-- MEMES:END -->
+ - 6️⃣ [The end is the best](http://9gag.com/gag/aBy88WO)
+ - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
+ - 👉 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)<!-- MEMES:END -->
 
 --- 
 
