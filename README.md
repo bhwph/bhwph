@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Save the Kingdom: Epic Battles Await in Bunny Battle Nemesis](https://news.xbox.com/en-us/2024/09/04/save-the-kingdom-epic-battles-await-in-bunny-battle-nemesis/)
- - [Steam&#39;s approval process dinged this indie game remake for being a remake of the game it&#39;s remaking: &#39;Seems identical to the game you put out 11 years ago&#39;](https://www.pcgamer.com/games/puzzle/steams-approval-process-dinged-this-indie-game-remake-for-being-a-remake-of-the-game-its-remaking-seems-identical-to-the-game-you-put-out-11-years-ago)
- - [Misfits and Magic season 2 tackles the future of magic](https://www.polygon.com/tabletop-games/447782/dimension-20-misfits-and-magic-season-2-trailer)<!-- GAME:END -->
+ - [All expert locations and abilities in Star Wars Outlaws](https://www.polygon.com/star-wars-outlaws-guides/445441/all-abilities-experts-locations-where-to-find)
+ - [You Have One Day Left To Get These Amazing RPGs For Cheap](https://kotaku.com/steam-sale-tales-of-series-rpg-arise-symphonia-1851639995)
+ - [Where To Find Miriam&#39;s Vanishing Sorcery In Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-miriams-vanishing-guide-1851639701)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
