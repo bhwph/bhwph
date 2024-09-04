@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you have to let homie win](http://9gag.com/gag/aZZgg5W)
- - 😝 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
- - 👉 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)<!-- MEMES:END -->
+ - 6️⃣ [Best dad ever](http://9gag.com/gag/aZZgyq9)
+ - 😝 [Italian is the best](http://9gag.com/gag/azxqXLq)
+ - 👉 [Why are they like this? this poor man.](http://9gag.com/gag/aqy1jKp)<!-- MEMES:END -->
 
 --- 
 
