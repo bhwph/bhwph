@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This train in Japan is on a whole new level!](http://9gag.com/gag/a7oDWzz)
- - 😝 [Mazda](http://9gag.com/gag/avy755b)
- - 👉 [Climate emergency catastrophist goblin shows true colors](http://9gag.com/gag/a5QnW0O)<!-- MEMES:END -->
+ - 6️⃣ [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
+ - 😝 [Grandpa chill](http://9gag.com/gag/aVvM7dv)
+ - 👉 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)<!-- MEMES:END -->
 
 --- 
 
