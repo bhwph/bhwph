@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
- - 😝 [Na-na na-na na-na baby give it up](http://9gag.com/gag/ayNxx8r)
- - 👉 [When your boss finds out what you&#39;ve been doing](http://9gag.com/gag/aoyONxX)<!-- MEMES:END -->
+ - 6️⃣ [Bro choose the worst possible project to show off](http://9gag.com/gag/aXPvqR9)
+ - 😝 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
+ - 👉 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)<!-- MEMES:END -->
 
 --- 
 
