@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neko Health, which offers AI-based full-body scans and was co-founded by Daniel Ek and Hjalmar Nilsonne, launches in London, its first city outside Sweden &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240903/p35#a240903p35)
- - [Shure MV7+ microphone review: an excellent midrange workhorse](https://appleinsider.com/articles/24/09/04/shure-mv7-microphone-review-an-excellent-midrange-workhorse?utm_medium=rss)
- - [China-based MiniMax launches video-01, its text-to-video AI model that generates six-second clips with 1280x720 resolution at 25 fps &lpar;Ryan Morrison/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240903/p34#a240903p34)<!-- TECH:END -->
+ - [A test of ~1,300 top games on Microsoft&#39;s new Copilot+ PCs finds only about half ran smoothly; Microsoft says some titles with demanding graphics may not play &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/240903/p36#a240903p36)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 4 #451](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-4-451/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 4, #185](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-4-185/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
