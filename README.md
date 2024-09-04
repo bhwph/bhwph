@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All expert locations and abilities in Star Wars Outlaws](https://www.polygon.com/star-wars-outlaws-guides/445441/all-abilities-experts-locations-where-to-find)
- - [You Have One Day Left To Get These Amazing RPGs For Cheap](https://kotaku.com/steam-sale-tales-of-series-rpg-arise-symphonia-1851639995)
- - [Where To Find Miriam&#39;s Vanishing Sorcery In Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-miriams-vanishing-guide-1851639701)<!-- GAME:END -->
+ - [Huh, we’re getting a Twilight animated series from Edward Cullen’s perspective](https://www.polygon.com/tv/448082/twilight-animated-series-edward-cullen-midnight-sun)
+ - [World of Warcraft’s 20-year anniversary will be a full patch of celebration](https://www.polygon.com/world-of-warcraft/448020/world-of-warcrafts-20-year-anniversary-will-be-a-full-patch-of-celebration)
+ - [Harebrained reveals its first game following split from Paradox: A survival-horror RPG where you blast limbs off your enemies and then attach them to your own body](https://www.pcgamer.com/games/horror/harebrained-reveals-its-first-game-following-split-from-paradox-a-survival-horror-rpg-where-you-blast-limbs-off-your-enemies-and-then-attach-them-to-your-own-body)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
