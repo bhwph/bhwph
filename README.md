@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Slav home renovation simulator](http://9gag.com/gag/aGyeeEG)
- - 😝 [Gary Oldman](http://9gag.com/gag/aZZgLN6)
- - 👉 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)<!-- MEMES:END -->
+ - 6️⃣ [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
+ - 😝 [Na-na na-na na-na baby give it up](http://9gag.com/gag/ayNxx8r)
+ - 👉 [When your boss finds out what you&#39;ve been doing](http://9gag.com/gag/aoyONxX)<!-- MEMES:END -->
 
 --- 
 
