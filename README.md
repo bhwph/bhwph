@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chewin&#39; The Fat....Scottish Comedy Show](http://9gag.com/gag/aGyeZqw)
+ - 6️⃣ [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
  - 😝 [Poor guy](http://9gag.com/gag/aE0B2ze)
  - 👉 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)<!-- MEMES:END -->
 
