@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Poor guy](http://9gag.com/gag/aE0B2ze)
- - 😝 [This really happened?](http://9gag.com/gag/a5Qnoyo)
- - 👉 [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)<!-- MEMES:END -->
+ - 6️⃣ [Slav home renovation simulator](http://9gag.com/gag/aGyeeEG)
+ - 😝 [Gary Oldman](http://9gag.com/gag/aZZgLN6)
+ - 👉 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)<!-- MEMES:END -->
 
 --- 
 
