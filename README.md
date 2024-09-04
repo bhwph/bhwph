@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A test of ~1,300 top games on Microsoft&#39;s new Copilot+ PCs finds only about half ran smoothly; Microsoft says some titles with demanding graphics may not play &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/240903/p36#a240903p36)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 4 #451](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-4-451/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 4, #185](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-4-185/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amid poor sales, Sony halts sales and offers refunds for its FPS game Concord, which launched as a $40 PS5 and PC title on August 23 after years of development &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240904/p4#a240904p4)
+ - [Google may have just removed an unsafe Verizon demo app from Pixels](https://www.androidauthority.com/google-pixel-september-updates-vulnerable-verizon-showcase-app-3477844/)
+ - [Financial analysis: Reed O&#39;Connor, a Texas federal judge overseeing X v. Media Matters, has at least three potential connections with Elon Musk-related entities &lpar;Chris Geidner/Law Dork&rpar;](http://www.techmeme.com/240904/p3#a240904p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
