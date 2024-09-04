@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel should spin off its foundry business, and the US government should subsidize cutting-edge chipmaking in the US via purchase guarantees for US-made chips &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240904/p6#a240904p6)
- - [This cheaper Fairphone 5 is basically a Google Pixel 8a rival](https://www.androidauthority.com/fairphone-5-cheaper-variant-3477293/)
- - [The OnePlus Open 2 could be the new thinnest foldable](https://www.androidauthority.com/oneplus-open-2-thin-leak-3478093/)<!-- TECH:END -->
+ - [Spotify expands daylist, a personalized playlist that evolves through the day depending on listening habits, globally for free and adds support for 14 languages &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240904/p13#a240904p13)
+ - [Alibaba will let shoppers check out via Tencent&#39;s WeChat Pay on its Taobao and Tmall shopping platforms, as Chinese government crackdown on Alibaba ends &lpar;Bloomberg&rpar;](http://www.techmeme.com/240904/p12#a240904p12)
+ - [The best gimbals for iPhone or Android in 2024](https://www.androidauthority.com/best-smartphone-gimbals-1039527/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
