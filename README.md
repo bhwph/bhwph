@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amid poor sales, Sony halts sales and offers refunds for its FPS game Concord, which launched as a $40 PS5 and PC title on August 23 after years of development &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240904/p4#a240904p4)
- - [Google may have just removed an unsafe Verizon demo app from Pixels](https://www.androidauthority.com/google-pixel-september-updates-vulnerable-verizon-showcase-app-3477844/)
- - [Financial analysis: Reed O&#39;Connor, a Texas federal judge overseeing X v. Media Matters, has at least three potential connections with Elon Musk-related entities &lpar;Chris Geidner/Law Dork&rpar;](http://www.techmeme.com/240904/p3#a240904p3)<!-- TECH:END -->
+ - [Intel should spin off its foundry business, and the US government should subsidize cutting-edge chipmaking in the US via purchase guarantees for US-made chips &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240904/p6#a240904p6)
+ - [This cheaper Fairphone 5 is basically a Google Pixel 8a rival](https://www.androidauthority.com/fairphone-5-cheaper-variant-3477293/)
+ - [The OnePlus Open 2 could be the new thinnest foldable](https://www.androidauthority.com/oneplus-open-2-thin-leak-3478093/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
