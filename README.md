@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [US Department of Justice gets serious with Nvidia as it issues subpoenas in anti-competitive AI practices probe](https://www.pcgamer.com/software/ai/us-department-of-justice-gets-serious-with-nvidia-as-it-issues-subpoenas-in-anti-competitive-ai-practices-probe)
- - [&#39;Worse than horse armour&#39;—Age of Mythology: Retold is charging $6 for 22-year-old jpegs, giving the DLC &#39;very negative&#39; Steam reviews before the game&#39;s even out](https://www.pcgamer.com/games/rts/worse-than-horse-armour-age-of-mythology-retold-is-charging-6-for-22-year-old-jpegs-giving-the-dlc-very-negative-steam-reviews-before-the-game-s-even-out)
- - [A new Cyberpunk 2077 board game crowdfunding campaign hit its goal in 10 minutes and is now well past a million dollars](https://www.pcgamer.com/games/rpg/a-new-cyberpunk-2077-board-game-crowdfunding-campaign-hit-its-goal-in-10-minutes-and-is-now-well-past-a-million-dollars)<!-- GAME:END -->
+ - [Warhammer 40,000: Space Marine 2 performance analysis—Blurry upscaling, mushy graphics, and so-so frame rates](https://www.pcgamer.com/hardware/warhammer-40000-space-marine-2-performance-analysisblurry-upscaling-mushy-graphics-and-so-so-frame-rates)
+ - [Warhammer 40,000: Space Marine 2 review](https://www.pcgamer.com/games/action/warhammer-40-000-space-marine-2-review)
+ - [Warhammer 40K: Space Marine 2: The Kotaku Review](https://kotaku.com/space-marine-2-warhammer-40k-review-how-long-review-ps5-1851639029)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
