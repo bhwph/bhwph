@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Suffering from the broken shuffle button? Spotify now has a playlist that endlessly shuffles](https://www.androidauthority.com/spotify-playlist-shuffles-throughout-day-3478180/)
- - [Robinhood launches a new feature in the UK to let retail investors lend stocks they own to interested borrowers, in a bid to grow its international footprint &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240904/p21#a240904p21)
- - [Concord was worse than bad — it was forgettable](https://www.theverge.com/2024/9/4/24235163/concord-cancellation-live-service-games)<!-- TECH:END -->
+ - [Safe Superintelligence, co-founded by ex-OpenAI chief scientist Ilya Sutskever, raised $1B from a16z, Sequoia, and others, sources say at a $5B valuation &lpar;Reuters&rpar;](http://www.techmeme.com/240904/p27#a240904p27)
+ - [Sorry Samsung, I’m not a fan of the Galaxy Watch FE — here’s why](https://www.androidauthority.com/samsung-galaxy-watch-fe-review-3474668/)
+ - [Tado’s Matter-compliant heating products are coming to the UK](https://www.theverge.com/2024/9/4/24234392/tado-x-matter-thread-heatpump-europe-uk-price-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
