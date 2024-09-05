@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some tech and crypto firms, and Wyoming rush to launch their own stablecoins to profit from a recovering crypto market, as experts say tokens are of little use &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/240905/p4#a240905p4)
- - [Watch: This is our first official look at the world’s first triple-screen foldable](https://www.androidauthority.com/huawei-mate-xt-triple-screen-foldable-phone-video-3478090/)
- - [Ki is bringing wireless power to kitchen appliances](https://www.theverge.com/2024/9/5/24234822/wireless-charging-ki-kitchen-power-appliance)<!-- TECH:END -->
+ - [Germany-based Aleph Alpha, which raised $500M+ in 2023, is pivoting to focus on helping clients use AI tools, instead of trying to outperform OpenAI and others &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240905/p8#a240905p8)
+ - [Samsung One UI 6.1.1 is now trickling out to Galaxy S24 phones](https://www.androidauthority.com/samsung-one-ui-6-1-1-galaxy-s24-series-launch-3478501/)
+ - [Anker’s new MagGo lineup of power accessories is for busy travelers who still value convenience](https://www.androidauthority.com/anker-maggo-3478296/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
