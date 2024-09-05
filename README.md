@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Improvise adapt overcome!](http://9gag.com/gag/avy7y0n)
- - 😝 [Wanted to share my passion: Pizza](http://9gag.com/gag/axy0oAK)
- - 👉 [Stop propaganda, here come the cats](http://9gag.com/gag/aO8Bx7E)<!-- MEMES:END -->
+ - 6️⃣ [Wanted to share my passion: Pizza](http://9gag.com/gag/axy0oAK)
+ - 😝 [Stop propaganda, here come the cats](http://9gag.com/gag/aO8Bx7E)
+ - 👉 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)<!-- MEMES:END -->
 
 --- 
 
