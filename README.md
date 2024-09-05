@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
- - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
- - 👉 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)<!-- MEMES:END -->
+ - 6️⃣ [Improvise adapt overcome!](http://9gag.com/gag/avy7y0n)
+ - 😝 [Wanted to share my passion: Pizza](http://9gag.com/gag/axy0oAK)
+ - 👉 [Stop propaganda, here come the cats](http://9gag.com/gag/aO8Bx7E)<!-- MEMES:END -->
 
 --- 
 
