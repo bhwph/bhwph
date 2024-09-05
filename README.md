@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube expands its existing parental controls to let parents link their account to their teens&#39; account and gain insight into the teens&#39; activity &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240904/p54#a240904p54)
- - [An analysis of OpenAI&#39;s GPT Store finds 100+ custom GPTs that appear to violate OpenAI&#39;s policies regarding sexual content, legal and medical advice, and more &lpar;Todd Feathers/Gizmodo&rpar;](http://www.techmeme.com/240904/p53#a240904p53)
- - [The nonprofit Cosmos Institute launches to cultivate AI technologists &quot;equipped with deep philosophical thinking&quot;, with plans for an AI lab, a VC arm, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240904/p52#a240904p52)<!-- TECH:END -->
+ - [Some tech and crypto firms, and Wyoming rush to launch their own stablecoins to profit from a recovering crypto market, as experts say tokens are of little use &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/240905/p4#a240905p4)
+ - [Watch: This is our first official look at the world’s first triple-screen foldable](https://www.androidauthority.com/huawei-mate-xt-triple-screen-foldable-phone-video-3478090/)
+ - [Ki is bringing wireless power to kitchen appliances](https://www.theverge.com/2024/9/5/24234822/wireless-charging-ki-kitchen-power-appliance)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
