@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HMD’s latest phone offers customizable ‘outfits’ that add new functions](https://www.androidauthority.com/hmd-fusion-modular-phone-3478739/)
- - [The Best Paper Notebooks and Journals, Tested and Reviewed &lpar;2024&rpar;: Leuchttherm, Moleskine, Midori](https://www.wired.com/gallery/the-best-paper-notebook-and-journals/)
- - [Flic is ready to control all your Matter devices](https://www.theverge.com/2024/9/5/24236183/flic-matter-controller-hub-lr-mini-twist-smart-buttons)<!-- TECH:END -->
+ - [YouTube is making new tools to protect creators from AI copycats](https://www.theverge.com/2024/9/5/24236841/youtube-ai-detection-tools-creators-singing-deepfakes)
+ - [FCC filing: Larry Ellison will own 77.5% of Paramount Global parent company National Amusements after his son David completes the purchase of Paramount &lpar;Christopher Palmeri/Bloomberg&rpar;](http://www.techmeme.com/240905/p30#a240905p30)
+ - [Google tests its ‘Ask Photos’ AI assistant that understands what’s in your pictures](https://www.theverge.com/2024/9/5/24236817/google-ask-photos-ai-assistant-test)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
