@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kantar: 26% of marketers plan to cut back ad spending on X in 2025 and 14% say they will pull budgets this year, due to concerns about content on the platform &lpar;Mark Sweney/The Guardian&rpar;](http://www.techmeme.com/240904/p49#a240904p49)
- - [How to sideload iOS apps to the iPhone with AltStore](https://appleinsider.com/inside/ios/tips/how-to-sideload-ios-apps-to-the-iphone-with-altstore?utm_medium=rss)
- - [Best Google Pixel Phone to Buy in 2024](https://www.cnet.com/tech/mobile/best-google-pixel-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Seattle-based Revefi, which seeks to automatically detect and troubleshoot companies&#39; data-related issues, raised a $20M Series A led by Icon Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240904/p50#a240904p50)
+ - [iPhone 16 Cameras: I&#39;m a Professional Photographer, Here&#39;s What I&#39;m Excited About](https://www.cnet.com/tech/mobile/iphone-16-cameras-im-a-professional-photographer-heres-what-im-excited-about/#ftag=CAD590a51e)
+ - [Kantar: 26% of marketers plan to cut back ad spending on X in 2025 and 14% say they will pull budgets this year, due to concerns about content on the platform &lpar;Mark Sweney/The Guardian&rpar;](http://www.techmeme.com/240904/p49#a240904p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
