@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube announces AI detection tools to protect creators from having their likeness copied and plans to give creators controls over AI scraping &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240905/p23#a240905p23)
- - [Target customers can now use CarPlay to make Drive Up orders more convenient](https://appleinsider.com/articles/24/09/05/target-customers-can-now-use-carplay-to-make-drive-up-orders-more-convenient?utm_medium=rss)
- - [OpenAI says it now has 1M+ paid users for the corporate versions of ChatGPT, including ChatGPT Team, Enterprise, and Edu &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240905/p22#a240905p22)<!-- TECH:END -->
+ - [HMD’s latest phone offers customizable ‘outfits’ that add new functions](https://www.androidauthority.com/hmd-fusion-modular-phone-3478739/)
+ - [The Best Paper Notebooks and Journals, Tested and Reviewed &lpar;2024&rpar;: Leuchttherm, Moleskine, Midori](https://www.wired.com/gallery/the-best-paper-notebook-and-journals/)
+ - [Flic is ready to control all your Matter devices](https://www.theverge.com/2024/9/5/24236183/flic-matter-controller-hub-lr-mini-twist-smart-buttons)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
