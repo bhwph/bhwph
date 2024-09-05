@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
- - 😝 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)
+ - 6️⃣ [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
+ - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
  - 👉 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)<!-- MEMES:END -->
 
 --- 
