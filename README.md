@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s Oversight Board rules that users should be allowed to post &quot;aspirational&quot; statements for Venezuelan state-supported paramilitary groups to be killed &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240905/p11#a240905p11)
- - [The US Needs Deepfake Porn Laws. These States Are Leading the Way](https://www.wired.com/story/deepfake-ai-porn-laws/)
- - [SharkNinja’s latest robot vacuum and mop combo gives itself a big lift to save your rugs](https://www.theverge.com/2024/9/5/24236248/sharkninja-nevertouch-pro-robot-vacuum-mop-stick)<!-- TECH:END -->
+ - [New Bluetooth 6 with Find My improvements could arrive on the iPhone 17](https://appleinsider.com/articles/24/09/05/new-bluetooth-6-with-find-my-improvements-could-arrive-on-the-iphone-17?utm_medium=rss)
+ - [Ray-Ban Meta now lets you upload stories to more social media sites without using your hands](https://www.androidauthority.com/ray-ban-meta-post-stories-voice-3478598/)
+ - [TCL’s newest phone takes its NXTPAPER display to a whole new level](https://www.androidauthority.com/tcl-50-pro-nxtpaper-5g-3478237/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
