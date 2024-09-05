@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This custom Warhammer 40K PS5 is a monument to the hubris of the Imperium](https://www.polygon.com/news/448402/warhammer-40k-custom-ps5-space-marine-2)
- - [Ubisoft&#39;s slump continues: Star Wars Outlaws fails to turn things around, XDefiant numbers are sliding, and we still don&#39;t know where The Sands of Time is](https://www.pcgamer.com/gaming-industry/despite-high-hopes-for-star-wars-outlaws-and-xdefiant-ubisofts-share-price-is-now-sitting-at-a-10-year-low)
- - [Playing Concord at the end of its world](https://www.polygon.com/playstation/448419/concord-gameplay-final-hours-close-servers-offline-time-date)<!-- GAME:END -->
+ - [Some of Baldur&#39;s Gate 3&#39;s new evil endings are so nasty they&#39;re hard to watch, and there&#39;s a unique variation for each origin character](https://www.pcgamer.com/games/baldurs-gate/baldur-s-gate-3-s-new-evil-endings-are-so-nasty-they-re-hard-to-watch-and-there-s-a-unique-variation-for-each-origin-character)
+ - [If your favorite Baldur&#39;s Gate 3 mods don&#39;t work with the new update yet, Larian will let you stick with the older version instead](https://www.pcgamer.com/games/rpg/if-your-favorite-baldurs-gate-3-mods-dont-work-with-the-new-update-yet-larian-will-let-you-stick-with-the-older-version-instead)
+ - [The Labyrinth and The Dark Crystal limited edition 4K Blu-rays are coming this fall](https://www.polygon.com/pre-order/448455/the-labyrinth-dark-crystal-4k-blu-ray-limited-edition-steelbook-pre-order-walmart)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
