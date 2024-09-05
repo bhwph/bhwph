@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is making new tools to protect creators from AI copycats](https://www.theverge.com/2024/9/5/24236841/youtube-ai-detection-tools-creators-singing-deepfakes)
- - [FCC filing: Larry Ellison will own 77.5% of Paramount Global parent company National Amusements after his son David completes the purchase of Paramount &lpar;Christopher Palmeri/Bloomberg&rpar;](http://www.techmeme.com/240905/p30#a240905p30)
- - [Google tests its ‘Ask Photos’ AI assistant that understands what’s in your pictures](https://www.theverge.com/2024/9/5/24236817/google-ask-photos-ai-assistant-test)<!-- TECH:END -->
+ - [Osom Products, the phone company founded by ex-Essential employees, is shutting down](https://www.theverge.com/2024/9/5/24236852/essential-phone-osom-company-shutting-down)
+ - [Sony might have confirmed the PS5 Pro while it was busy celebrating](https://www.theverge.com/2024/9/5/24236967/sony-ps5-pro-design-leak-image)
+ - [Verizon looks to expand its fiber footprint, announces acquistion of Frontier](https://www.androidauthority.com/verizon-frontier-3478924/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
