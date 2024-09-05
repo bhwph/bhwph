@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seattle-based Revefi, which seeks to automatically detect and troubleshoot companies&#39; data-related issues, raised a $20M Series A led by Icon Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240904/p50#a240904p50)
- - [iPhone 16 Cameras: I&#39;m a Professional Photographer, Here&#39;s What I&#39;m Excited About](https://www.cnet.com/tech/mobile/iphone-16-cameras-im-a-professional-photographer-heres-what-im-excited-about/#ftag=CAD590a51e)
- - [Kantar: 26% of marketers plan to cut back ad spending on X in 2025 and 14% say they will pull budgets this year, due to concerns about content on the platform &lpar;Mark Sweney/The Guardian&rpar;](http://www.techmeme.com/240904/p49#a240904p49)<!-- TECH:END -->
+ - [YouTube expands its existing parental controls to let parents link their account to their teens&#39; account and gain insight into the teens&#39; activity &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240904/p54#a240904p54)
+ - [An analysis of OpenAI&#39;s GPT Store finds 100+ custom GPTs that appear to violate OpenAI&#39;s policies regarding sexual content, legal and medical advice, and more &lpar;Todd Feathers/Gizmodo&rpar;](http://www.techmeme.com/240904/p53#a240904p53)
+ - [The nonprofit Cosmos Institute launches to cultivate AI technologists &quot;equipped with deep philosophical thinking&quot;, with plans for an AI lab, a VC arm, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240904/p52#a240904p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
