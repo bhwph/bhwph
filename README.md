@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany-based Aleph Alpha, which raised $500M+ in 2023, is pivoting to focus on helping clients use AI tools, instead of trying to outperform OpenAI and others &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240905/p8#a240905p8)
- - [Samsung One UI 6.1.1 is now trickling out to Galaxy S24 phones](https://www.androidauthority.com/samsung-one-ui-6-1-1-galaxy-s24-series-launch-3478501/)
- - [Anker’s new MagGo lineup of power accessories is for busy travelers who still value convenience](https://www.androidauthority.com/anker-maggo-3478296/)<!-- TECH:END -->
+ - [Meta&#39;s Oversight Board rules that users should be allowed to post &quot;aspirational&quot; statements for Venezuelan state-supported paramilitary groups to be killed &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240905/p11#a240905p11)
+ - [The US Needs Deepfake Porn Laws. These States Are Leading the Way](https://www.wired.com/story/deepfake-ai-porn-laws/)
+ - [SharkNinja’s latest robot vacuum and mop combo gives itself a big lift to save your rugs](https://www.theverge.com/2024/9/5/24236248/sharkninja-nevertouch-pro-robot-vacuum-mop-stick)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
