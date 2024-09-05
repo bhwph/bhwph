@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Space Marine 2 early access and global release times](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-early-access-release-times)
- - [Today&#39;s Wordle answer for Thursday, September 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-5-2024)
- - [The latest gameplay videos for Dragon Age: The Veilguard make me think I should play something other than a mage this one time](https://www.pcgamer.com/games/rpg/the-latest-gameplay-videos-for-dragon-age-the-veilguard-make-me-think-i-should-play-something-other-than-a-mage-this-one-time)<!-- GAME:END -->
+ - [LG’s 34-inch curved OLED gaming monitor is almost half off](https://www.polygon.com/good-deals/447797/lg-curved-oled-sale-best-buy)
+ - [How to find all Astro’s Playroom special bots and import them in Astro Bot](https://www.polygon.com/astro-bot-guides/447440/how-to-find-all-astros-playroom-special-bots-and-import-them-in-astro-bot)
+ - [Astro Bot finally gives PlayStation a Nintendo-tier platformer after 30 years](https://www.polygon.com/review/447564/astro-bot-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
