@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
- - 😝 [Grandpa chill](http://9gag.com/gag/aVvM7dv)
- - 👉 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)<!-- MEMES:END -->
+ - 6️⃣ [WTF Sony??!!](http://9gag.com/gag/aMVAxGX)
+ - 😝 [Pepsi](http://9gag.com/gag/adB9gpQ)
+ - 👉 [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)<!-- MEMES:END -->
 
 --- 
 
