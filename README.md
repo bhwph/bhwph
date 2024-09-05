@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scalpers swarm eBay as Concord kicks the bucket, charging punters up to $25,000 for physical copies of the PS5 edition—and some are spending hundreds](https://www.pcgamer.com/games/fps/scalpers-swarm-ebay-as-concord-kicks-the-bucket-charging-punters-up-to-dollar25000-for-physical-copies-of-the-ps5-editionand-some-are-spending-hundreds)
- - [Arcane: Season 2 gets the mother of all trailers in the lead-up to its release in November—teases an explosive finale to the war between Piltover and Zaun](https://www.pcgamer.com/movies-tv/arcane-season-2-gets-the-mother-of-all-trailers-in-the-lead-up-to-its-release-in-november-teases-an-explosive-finale-to-the-war-between-piltover-and-zaun)
- - [Sorry, The Minecraft Movie Isn&#39;t Meant To Be For You](https://kotaku.com/a-minecraft-movie-trailer-jack-black-kids-1851640395)<!-- GAME:END -->
+ - [Shure MV6 USB Gaming Microphone review](https://www.pcgamer.com/hardware/microphones/shure-mv6-usb-gaming-microphone-review)
+ - [Warhammer 40,000: Space Marine 2 – Making a Sequel to a 13-Year Old Game &lpar;and How It Could Lead to More&rpar;](https://news.xbox.com/en-us/2024/09/05/warhammer-40000-space-marine-2-making-a-sequel/)
+ - [The Rings of Power episode 4 finds some footing amid its trust issues](https://www.polygon.com/lotr-rings-of-power/447801/trop-episode-4-review-bombadil-tolkien-lore)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
