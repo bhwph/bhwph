@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Some of Baldur&#39;s Gate 3&#39;s new evil endings are so nasty they&#39;re hard to watch, and there&#39;s a unique variation for each origin character](https://www.pcgamer.com/games/baldurs-gate/baldur-s-gate-3-s-new-evil-endings-are-so-nasty-they-re-hard-to-watch-and-there-s-a-unique-variation-for-each-origin-character)
- - [If your favorite Baldur&#39;s Gate 3 mods don&#39;t work with the new update yet, Larian will let you stick with the older version instead](https://www.pcgamer.com/games/rpg/if-your-favorite-baldurs-gate-3-mods-dont-work-with-the-new-update-yet-larian-will-let-you-stick-with-the-older-version-instead)
- - [The Labyrinth and The Dark Crystal limited edition 4K Blu-rays are coming this fall](https://www.polygon.com/pre-order/448455/the-labyrinth-dark-crystal-4k-blu-ray-limited-edition-steelbook-pre-order-walmart)<!-- GAME:END -->
+ - [Slork](https://www.pcgamer.com/games/third-person-shooter/slork)
+ - [You can buy every RPG Larian ever made before Baldur&#39;s Gate 3 for around $30 on Steam right now](https://www.pcgamer.com/games/rpg/you-can-buy-every-rpg-larian-ever-made-before-baldurs-gate-3-for-around-dollar30-on-steam-right-now)
+ - [The worst Castlevania game just got a lot better](https://www.polygon.com/gaming/448559/castlevania-dominus-collection-impressions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
