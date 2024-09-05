@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pepsi](http://9gag.com/gag/adB9gpQ)
- - 😝 [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)
- - 👉 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)<!-- MEMES:END -->
+ - 6️⃣ [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)
+ - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
+ - 👉 [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)<!-- MEMES:END -->
 
 --- 
 
