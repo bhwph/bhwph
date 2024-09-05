@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Bluetooth 6 with Find My improvements could arrive on the iPhone 17](https://appleinsider.com/articles/24/09/05/new-bluetooth-6-with-find-my-improvements-could-arrive-on-the-iphone-17?utm_medium=rss)
- - [Ray-Ban Meta now lets you upload stories to more social media sites without using your hands](https://www.androidauthority.com/ray-ban-meta-post-stories-voice-3478598/)
- - [TCL’s newest phone takes its NXTPAPER display to a whole new level](https://www.androidauthority.com/tcl-50-pro-nxtpaper-5g-3478237/)<!-- TECH:END -->
+ - [YouTube announces AI detection tools to protect creators from having their likeness copied and plans to give creators controls over AI scraping &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240905/p23#a240905p23)
+ - [Target customers can now use CarPlay to make Drive Up orders more convenient](https://appleinsider.com/articles/24/09/05/target-customers-can-now-use-carplay-to-make-drive-up-orders-more-convenient?utm_medium=rss)
+ - [OpenAI says it now has 1M+ paid users for the corporate versions of ChatGPT, including ChatGPT Team, Enterprise, and Edu &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240905/p22#a240905p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
