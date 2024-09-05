@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shure MV6 USB Gaming Microphone review](https://www.pcgamer.com/hardware/microphones/shure-mv6-usb-gaming-microphone-review)
- - [Warhammer 40,000: Space Marine 2 – Making a Sequel to a 13-Year Old Game &lpar;and How It Could Lead to More&rpar;](https://news.xbox.com/en-us/2024/09/05/warhammer-40000-space-marine-2-making-a-sequel/)
- - [The Rings of Power episode 4 finds some footing amid its trust issues](https://www.polygon.com/lotr-rings-of-power/447801/trop-episode-4-review-bombadil-tolkien-lore)<!-- GAME:END -->
+ - [This custom Warhammer 40K PS5 is a monument to the hubris of the Imperium](https://www.polygon.com/news/448402/warhammer-40k-custom-ps5-space-marine-2)
+ - [Ubisoft&#39;s slump continues: Star Wars Outlaws fails to turn things around, XDefiant numbers are sliding, and we still don&#39;t know where The Sands of Time is](https://www.pcgamer.com/gaming-industry/despite-high-hopes-for-star-wars-outlaws-and-xdefiant-ubisofts-share-price-is-now-sitting-at-a-10-year-low)
+ - [Playing Concord at the end of its world](https://www.polygon.com/playstation/448419/concord-gameplay-final-hours-close-servers-offline-time-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
