@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LG’s 34-inch curved OLED gaming monitor is almost half off](https://www.polygon.com/good-deals/447797/lg-curved-oled-sale-best-buy)
- - [How to find all Astro’s Playroom special bots and import them in Astro Bot](https://www.polygon.com/astro-bot-guides/447440/how-to-find-all-astros-playroom-special-bots-and-import-them-in-astro-bot)
- - [Astro Bot finally gives PlayStation a Nintendo-tier platformer after 30 years](https://www.polygon.com/review/447564/astro-bot-review)<!-- GAME:END -->
+ - [Scalpers swarm eBay as Concord kicks the bucket, charging punters up to $25,000 for physical copies of the PS5 edition—and some are spending hundreds](https://www.pcgamer.com/games/fps/scalpers-swarm-ebay-as-concord-kicks-the-bucket-charging-punters-up-to-dollar25000-for-physical-copies-of-the-ps5-editionand-some-are-spending-hundreds)
+ - [Arcane: Season 2 gets the mother of all trailers in the lead-up to its release in November—teases an explosive finale to the war between Piltover and Zaun](https://www.pcgamer.com/movies-tv/arcane-season-2-gets-the-mother-of-all-trailers-in-the-lead-up-to-its-release-in-november-teases-an-explosive-finale-to-the-war-between-piltover-and-zaun)
+ - [Sorry, The Minecraft Movie Isn&#39;t Meant To Be For You](https://kotaku.com/a-minecraft-movie-trailer-jack-black-kids-1851640395)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
