@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [WTF Sony??!!](http://9gag.com/gag/aMVAxGX)
- - 😝 [Pepsi](http://9gag.com/gag/adB9gpQ)
- - 👉 [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)<!-- MEMES:END -->
+ - 😝 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
+ - 👉 [I wouldn&#39;t come too close to a legendary gator like this. Give him a name.](http://9gag.com/gag/azxq9QB)<!-- MEMES:END -->
 
 --- 
 
