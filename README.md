@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Osom Products, the phone company founded by ex-Essential employees, is shutting down](https://www.theverge.com/2024/9/5/24236852/essential-phone-osom-company-shutting-down)
- - [Sony might have confirmed the PS5 Pro while it was busy celebrating](https://www.theverge.com/2024/9/5/24236967/sony-ps5-pro-design-leak-image)
- - [Verizon looks to expand its fiber footprint, announces acquistion of Frontier](https://www.androidauthority.com/verizon-frontier-3478924/)<!-- TECH:END -->
+ - [Salesforce agrees to acquire Own Company, which provides data management and protection services, for ~$1.9B in cash; Own was valued at $3.35B as of August 2021 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240905/p37#a240905p37)
+ - [Sources: Intel is considering selling part of its 88% stake in Mobileye, and is also exploring options for its Network and Edge enterprise networking division &lpar;Bloomberg&rpar;](http://www.techmeme.com/240905/p36#a240905p36)
+ - [&#39;The Boy and the Heron&#39;: How to Watch the Oscar Winner on Max](https://www.cnet.com/tech/services-and-software/the-boy-and-the-heron-how-to-watch-the-oscar-winner-on-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
