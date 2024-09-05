@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wanted to share my passion: Pizza](http://9gag.com/gag/axy0oAK)
- - 😝 [Stop propaganda, here come the cats](http://9gag.com/gag/aO8Bx7E)
- - 👉 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)<!-- MEMES:END -->
+ - 6️⃣ [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)
+ - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
+ - 👉 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)<!-- MEMES:END -->
 
 --- 
 
