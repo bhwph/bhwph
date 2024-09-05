@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X wins block on part of California’s content moderation law](https://www.theverge.com/2024/9/4/24236180/x-wins-block-california-content-moderation-law-ab-587)
- - [The NSA’s podcast will have you listening in on them this time](https://www.theverge.com/2024/9/4/24236109/nsa-no-such-podcast-surveillance)
- - [Deal: The Nothing Ear &lpar;a&rpar; earbuds reach an all-time low price](https://www.androidauthority.com/nothing-ear-a-deal-3478358/)<!-- TECH:END -->
+ - [Kantar: 26% of marketers plan to cut back ad spending on X in 2025 and 14% say they will pull budgets this year, due to concerns about content on the platform &lpar;Mark Sweney/The Guardian&rpar;](http://www.techmeme.com/240904/p49#a240904p49)
+ - [How to sideload iOS apps to the iPhone with AltStore](https://appleinsider.com/inside/ios/tips/how-to-sideload-ios-apps-to-the-iphone-with-altstore?utm_medium=rss)
+ - [Best Google Pixel Phone to Buy in 2024](https://www.cnet.com/tech/mobile/best-google-pixel-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
