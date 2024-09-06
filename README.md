@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce agrees to acquire Own Company, which provides data management and protection services, for ~$1.9B in cash; Own was valued at $3.35B as of August 2021 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240905/p37#a240905p37)
- - [Sources: Intel is considering selling part of its 88% stake in Mobileye, and is also exploring options for its Network and Edge enterprise networking division &lpar;Bloomberg&rpar;](http://www.techmeme.com/240905/p36#a240905p36)
- - [&#39;The Boy and the Heron&#39;: How to Watch the Oscar Winner on Max](https://www.cnet.com/tech/services-and-software/the-boy-and-the-heron-how-to-watch-the-oscar-winner-on-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Telegram CEO says he’ll moderate better after getting arrested in France](https://www.theverge.com/2024/9/5/24237174/telegram-ceo-pavel-durov-statement-following-arrest)
+ - [Pavel Durov calls his arrest by French authorities &quot;misguided&quot; and denies Telegram is an &quot;anarchic paradise&quot;, in his first public comments since the detention &lpar;The Guardian&rpar;](http://www.techmeme.com/240905/p40#a240905p40)
+ - [Analysts raise questions over Brazilian digital bank Nubank&#39;s rising default rate, even as loans grow 28% YoY; ~60% of all Brazilian adults have Nubank&#39;s app &lpar;Bloomberg&rpar;](http://www.techmeme.com/240905/p39#a240905p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
