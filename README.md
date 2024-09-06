@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All secret exits in Astro Bot and how to unlock them](https://www.polygon.com/astro-bot-guides/447099/secret-exits-levels-locations-how-to-unlock)
- - [All hidden levels in Astro Bot and how to unlock them](https://www.polygon.com/astro-bot-guides/447107/hidden-levels-planets-all-locations-how-to-unlock)
- - [Today&#39;s Wordle answer for Friday, September 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-6-2024)<!-- GAME:END -->
+ - [Senior crew on a US warship installed an unauthorised Starlink dish attached to a wooden pallet and were discovered because the network was named &#39;STINKY&#39;](https://www.pcgamer.com/hardware/senior-crew-on-a-us-warship-installed-an-unauthorised-starlink-dish-attached-to-a-wooden-pallet-and-were-discovered-because-the-network-was-named-stinky)
+ - [The Sims 4 is now a decade old, the longest-running game in the series, and its age is seriously showing](https://www.pcgamer.com/games/life-sim/the-sims-4-is-now-a-decade-old-the-longest-running-game-in-the-series-and-its-age-is-seriously-showing)
+ - [All secret exits in Astro Bot and how to unlock them](https://www.polygon.com/astro-bot-guides/447099/secret-exits-levels-locations-how-to-unlock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
