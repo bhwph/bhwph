@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Slork](https://www.pcgamer.com/games/third-person-shooter/slork)
- - [You can buy every RPG Larian ever made before Baldur&#39;s Gate 3 for around $30 on Steam right now](https://www.pcgamer.com/games/rpg/you-can-buy-every-rpg-larian-ever-made-before-baldurs-gate-3-for-around-dollar30-on-steam-right-now)
- - [The worst Castlevania game just got a lot better](https://www.polygon.com/gaming/448559/castlevania-dominus-collection-impressions)<!-- GAME:END -->
+ - [Asian Games in the Spotlight: The Xbox Broadcast Returns to TGS 2024](https://news.xbox.com/en-us/2024/09/05/xbox-tokyo-game-show-2024/)
+ - [Baldur&#39;s Gate 3&#39;s Patch 7 tweaked one of the game&#39;s most brutal scenes to twist the knife even more](https://www.pcgamer.com/games/baldurs-gate/baldur-s-gate-3-s-patch-7-tweaked-one-of-the-game-s-most-brutal-scenes-to-twist-the-knife-even-more)
+ - [Slork](https://www.pcgamer.com/games/third-person-shooter/slork)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
