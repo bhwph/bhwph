@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chaotic scamp hijacks Deadlock&#39;s official Discord bot, announces a fake shutdown, immediately accuses mods of lying, and plunges chat into anarchy](https://www.pcgamer.com/games/moba/chaotic-scamp-hijacks-deadlock-s-official-discord-bot-announces-a-fake-shutdown-immediately-accuses-mods-of-lying-plunges-chat-into-anarchy)
- - [Next Week on Xbox: New Games for September 9 to 13](https://news.xbox.com/en-us/2024/09/06/next-week-on-xbox-new-games-for-september-9-to-13/)
- - [Bluetooth 6 announced with Apple-like device tracking, lower latency, and improved efficiency](https://www.pcgamer.com/hardware/bluetooth-6-announced-with-apple-like-device-tracking-lower-latency-and-improved-efficiency)<!-- GAME:END -->
+ - [Concord will reportedly still get its Secret Level episode, which feels grimly fitting given how this past year has gone](https://www.pcgamer.com/games/fps/concord-will-reportedly-still-get-its-secret-level-episode-which-feels-grimly-fitting-given-how-this-past-year-has-gone)
+ - [Everyone assumes it&#39;s game over, but Intel&#39;s huge bet on 18A is still very much game on](https://www.pcgamer.com/hardware/processors/everyone-assumes-its-game-over-but-intels-huge-bet-on-18a-is-still-very-much-game-on)
+ - [Get Baldur’s Gate 3 for its lowest price yet this weekend](https://www.polygon.com/good-deals/448744/baldurs-gate-3-sale-pc-steam-larian-studios)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
