@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)
- - 😝 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
+ - 6️⃣ [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
+ - 😝 [Big ant train](http://9gag.com/gag/aYQ4o3x)
  - 👉 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)<!-- MEMES:END -->
 
 --- 
