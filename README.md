@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Are you happy?](http://9gag.com/gag/aO8Bxrr)
- - 😝 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
- - 👉 [The sad truth.](http://9gag.com/gag/an7j7nB)<!-- MEMES:END -->
+ - 6️⃣ [Legend says they&#39;re still blowing up to this day](http://9gag.com/gag/a4PG1yw)
+ - 😝 [I&#39;m not sure what I hoped to find...](http://9gag.com/gag/aO8BxLD)
+ - 👉 [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)<!-- MEMES:END -->
 
 --- 
 
