@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s over](http://9gag.com/gag/aPA9mxV)
- - 😝 [We all know how this strategy plays out.](http://9gag.com/gag/a9yAzgD)
- - 👉 [I don&#39;t know](http://9gag.com/gag/a6ZVXRN)<!-- MEMES:END -->
+ - 6️⃣ [Made in](http://9gag.com/gag/aPA9AyB)
+ - 😝 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
+ - 👉 [\u00a0](http://9gag.com/gag/a1mKmrb)<!-- MEMES:END -->
 
 --- 
 
