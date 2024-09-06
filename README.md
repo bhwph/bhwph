@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airbnb says New York City&#39;s law on short-term rentals has had &quot;predictable&quot; outcomes one year later, as rent prices remain high and housing availability low &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/240906/p5#a240906p5)
- - [Reolink’s battery-powered security camera can record for days without subscription fees](https://www.theverge.com/2024/9/6/24235858/reolink-atlas-pt-ultra-security-camera-battery-smart-home-doorbell)
- - [Amazfit T-Rex 3 announced: A brighter, longer lasting smartwatch](https://www.androidauthority.com/amazfit-t-rex-3-3479069/)<!-- TECH:END -->
+ - [Could AI and Deepfakes Sway the US Election?](https://www.wired.com/story/deepfake-porn-election/)
+ - [Elon Musk Has Backed Himself Into a Corner in Brazil](https://www.wired.com/story/x-starlink-brazil-suspension-musk/)
+ - [Xgimi’s new ultra-short throw projector keeps dust and dirt off its lens](https://www.theverge.com/2024/9/6/24236669/xgimi-projector-aura-2-home-theater-mogo-3-pro-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
