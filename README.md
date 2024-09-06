@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Drive’s homepage is getting an intuitive design change](https://www.androidauthority.com/google-drive-unified-file-folder-suggestions-3479144/)
- - [CUKTECH 20: The perfect high-capacity power bank for fast charging anywhere](https://www.androidauthority.com/cuktech-20-ifa-3478481/)
- - [Dreame’s L20 Ultra hybrid robot vacuum and mop is at a new low of $699](https://www.theverge.com/2024/9/6/24237420/dreame-l20-ultra-hybrid-robot-vacuum-apple-watch-ultra-2-deal-sale)<!-- TECH:END -->
+ - [Telegram disables ‘misused’ features as CEO faces criminal charges](https://www.theverge.com/2024/9/6/24237526/telegram-pavel-durov-telegraph-location-features-moderation)
+ - [Filing: OnlyFans revenue rose 20% YoY to ~$1.31B for the FY ending November 2023; creator accounts grew 29% to ~4.1M, while fan accounts rose 28% to 305M &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/240906/p15#a240906p15)
+ - [Best Overlanding Gear &lpar;2024&rpar;: Tried and Tested Storage, Shovels, and Coolers](https://www.wired.com/gallery/overlanding-guide/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
