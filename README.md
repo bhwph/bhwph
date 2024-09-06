@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Legend says they&#39;re still blowing up to this day](http://9gag.com/gag/a4PG1yw)
- - 😝 [I&#39;m not sure what I hoped to find...](http://9gag.com/gag/aO8BxLD)
- - 👉 [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)<!-- MEMES:END -->
+ - 6️⃣ [Turkish airlines here I come](http://9gag.com/gag/aE0B0Gp)
+ - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
+ - 👉 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)<!-- MEMES:END -->
 
 --- 
 
