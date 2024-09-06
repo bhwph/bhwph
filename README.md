@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Could AI and Deepfakes Sway the US Election?](https://www.wired.com/story/deepfake-porn-election/)
- - [Elon Musk Has Backed Himself Into a Corner in Brazil](https://www.wired.com/story/x-starlink-brazil-suspension-musk/)
- - [Xgimi’s new ultra-short throw projector keeps dust and dirt off its lens](https://www.theverge.com/2024/9/6/24236669/xgimi-projector-aura-2-home-theater-mogo-3-pro-price)<!-- TECH:END -->
+ - [Google Pixel 9 problems and how to fix them](https://www.androidauthority.com/google-pixel-9-problems-fixes-3478075/)
+ - [iPhone 16 and Apple Watch Series 10 rumors, plus hysterical phishing emails on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/06/iphone-16-and-apple-watch-series-10-rumors-plus-hysterical-phishing-emails-on-the-appleinsider-podcast?utm_medium=rss)
+ - [An interview with Bill Gates about What&#39;s Next? The Future with Bill Gates, an upcoming five-part Netflix docuseries examining issues like AI, misinfo, and more &lpar;Kourtnee Jackson/CNET&rpar;](http://www.techmeme.com/240906/p9#a240906p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
