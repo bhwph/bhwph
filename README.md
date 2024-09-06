@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak: Here’s our first look at the Galaxy Z Fold Special Edition](https://www.androidauthority.com/samsung-galaxy-z-fold-special-edition-leak-render-3478491/)
- - [Threads is trading trust for growth via Meta&#39;s creator program, which pays people to post without disclosing, making users assume everyone is engagement farming &lpar;Ben Werdmuller/Werd I/O&rpar;](http://www.techmeme.com/240906/p4#a240906p4)
- - [Sources: Qualcomm has explored acquiring portions of Intel&#39;s design business, including Intel&#39;s client PC design business, as Intel struggles to generate cash &lpar;Reuters&rpar;](http://www.techmeme.com/240906/p3#a240906p3)<!-- TECH:END -->
+ - [Airbnb says New York City&#39;s law on short-term rentals has had &quot;predictable&quot; outcomes one year later, as rent prices remain high and housing availability low &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/240906/p5#a240906p5)
+ - [Reolink’s battery-powered security camera can record for days without subscription fees](https://www.theverge.com/2024/9/6/24235858/reolink-atlas-pt-ultra-security-camera-battery-smart-home-doorbell)
+ - [Amazfit T-Rex 3 announced: A brighter, longer lasting smartwatch](https://www.androidauthority.com/amazfit-t-rex-3-3479069/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
