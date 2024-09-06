@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Replit launches Replit Agent, an AI agent that can build entire apps from scratch based on prompts, available in beta to Replit Core and Teams subscribers &lpar;Chris McKay/Maginative&rpar;](http://www.techmeme.com/240906/p18#a240906p18)
- - [Roblox plans to let creators keep 50% to 70% of revenue when their titles are purchased in real currency on desktop computers vs. 30% for purchases with Robux &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240906/p17#a240906p17)
- - [GoPro Hero 13 Black review: Big changes come for the popular action cam](https://appleinsider.com/articles/24/09/06/gopro-hero-13-black-review-big-changes-come-for-the-popular-action-cam?utm_medium=rss)<!-- TECH:END -->
+ - [Roblox plans a generative AI tool to let creators make 3D scenes using text prompts, and announces new social features like Party and Music Charts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240906/p21#a240906p21)
+ - [WhatsApp will send messages to other apps soon — here’s how it will look](https://www.theverge.com/2024/9/6/24237753/whatsapp-messenger-third-party-chat-eu-dma)
+ - [The DOJ wants info on Google’s AI strategy to bust up its search monopoly](https://www.theverge.com/2024/9/6/24237760/doj-google-search-antitrust-remedies-artificial-intelligence)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
