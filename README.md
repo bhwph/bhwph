@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Humble’s Latest Bundle Includes A Discount On 2024’s Most Impressive Indie](https://kotaku.com/humble-bundle-summer-narrative-1000xresistsale-1851642286)
- - [The Baldur&amp;#8217;s Gate 3 team isn&amp;#8217;t finished with the game yet](https://www.polygon.com/news/448917/baldurs-gate-3-final-update-bg3)
- - [The Starfield Planet At The Center Of Its Shattered Space DLC Sounds Like It Has A Lot Going On](https://kotaku.com/starfield-shattered-space-dlc-varuun-size-1851642222)<!-- GAME:END -->
+ - [Dr Disrespect returns with 20-minute rant on Twitch ban, denies wrongdoing and says he&#39;s the victim of a conspiracy: &#39;They wanted to cut down the Doc, plain and simple&#39;](https://www.pcgamer.com/hardware/streaming/dr-disrespect-returns-with-20-minute-rant-on-twitch-ban-denies-wrongdoing-and-says-hes-the-victim-of-a-conspiracy-they-wanted-to-cut-down-the-doc-plain-and-simple)
+ - [Beetlejuice Beetlejuice Is Too Much Nostalgia And Too Little Substance](https://kotaku.com/beetlejuice-beetlejuice-movie-review-cast-2024-new-1851642373)
+ - [The 15 deepest cuts in Astro Bot, and where they came from](https://www.polygon.com/playstation/448757/astro-bot-characters-deep-cuts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
