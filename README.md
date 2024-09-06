@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)
- - 😝 [\u00a0](http://9gag.com/gag/a1mKmrb)
- - 👉 [Something I saved 8 years ago](http://9gag.com/gag/aAyDyGZ)<!-- MEMES:END -->
+ - 6️⃣ [Who let the bugs out](http://9gag.com/gag/aD2z287)
+ - 😝 [Giving them what they deserve](http://9gag.com/gag/ajPNVAx)
+ - 👉 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)<!-- MEMES:END -->
 
 --- 
 
