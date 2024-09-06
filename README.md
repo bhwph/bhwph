@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Turkish airlines here I come](http://9gag.com/gag/aE0B0Gp)
- - 😝 [Magician at the table](http://9gag.com/gag/aD2z2OB)
- - 👉 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)<!-- MEMES:END -->
+ - 6️⃣ [Cosplay of the year](http://9gag.com/gag/axy0WQW)
+ - 😝 [Wouldn\u2019t it be nice?](http://9gag.com/gag/aAyD03o)
+ - 👉 [The sad truth.](http://9gag.com/gag/an7j7nB)<!-- MEMES:END -->
 
 --- 
 
