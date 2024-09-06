@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
- - 😝 [Asking the real questions](http://9gag.com/gag/a2v4vbD)
- - 👉 [\u00a0](http://9gag.com/gag/a1mKmrb)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m The Cat Man!](http://9gag.com/gag/a4PGP8p)
+ - 😝 [You don&#39;t hate Concord enough, so glad it flopped](http://9gag.com/gag/abAz1Op)
+ - 👉 [90.](http://9gag.com/gag/awyQyD4)<!-- MEMES:END -->
 
 --- 
 
