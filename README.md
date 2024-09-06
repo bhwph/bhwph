@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Something I saved 8 years ago](http://9gag.com/gag/aAyDyGZ)
- - 😝 [Asking the real questions](http://9gag.com/gag/a2v4vbD)
- - 👉 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)<!-- MEMES:END -->
+ - 6️⃣ [Are you happy?](http://9gag.com/gag/aO8Bxrr)
+ - 😝 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
+ - 👉 [The sad truth.](http://9gag.com/gag/an7j7nB)<!-- MEMES:END -->
 
 --- 
 
