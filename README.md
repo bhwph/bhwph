@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox plans a generative AI tool to let creators make 3D scenes using text prompts, and announces new social features like Party and Music Charts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240906/p21#a240906p21)
- - [WhatsApp will send messages to other apps soon — here’s how it will look](https://www.theverge.com/2024/9/6/24237753/whatsapp-messenger-third-party-chat-eu-dma)
- - [The DOJ wants info on Google’s AI strategy to bust up its search monopoly](https://www.theverge.com/2024/9/6/24237760/doj-google-search-antitrust-remedies-artificial-intelligence)<!-- TECH:END -->
+ - [S&amp;P Global announces that Dell and Palantir will join the S&amp;P 500, effective on September 23, 2024; DELL jumps 5%+ and PLTR jumps 7%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240906/p25#a240906p25)
+ - [Apple Watch Series 10 rumored to add sleep apnea detection](https://www.theverge.com/2024/9/6/24237873/apple-watch-series-10-rumor-sleep-apnea)
+ - [Telegram says the app&#39;s source code has not changed, and its FAQ has been changed only to make it clearer how to report content on Telegram, including via DSA &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240906/p24#a240906p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
