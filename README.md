@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;What a sad existence&#39;: The first cheaters in Deadlock have been spotted, giving players some pretty bad flashbacks to TF2 and CS](https://www.pcgamer.com/games/moba/what-a-sad-existence-the-first-cheaters-in-deadlock-have-been-spotted-giving-players-some-pretty-bad-flashbacks-to-tf2-and-cs)
- - [Baldur&#39;s Gate 3&#39;s new patch has a forbidden evil ending where you get bored and peace out, just before your moment of bloody triumph](https://www.pcgamer.com/games/baldurs-gate/baldur-s-gate-3-s-new-patch-has-a-forbidden-evil-ending-where-you-get-bored-and-peace-out-just-before-your-moment-of-bloody-triumph)
- - [Glintstone Nails Are The Best Sorcery In Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-glintstone-nails-guide-1851639749)<!-- GAME:END -->
+ - [Chaotic scamp hijacks Deadlock&#39;s official Discord bot, announces a fake shutdown, immediately accuses mods of lying, and plunges chat into anarchy](https://www.pcgamer.com/games/moba/chaotic-scamp-hijacks-deadlock-s-official-discord-bot-announces-a-fake-shutdown-immediately-accuses-mods-of-lying-plunges-chat-into-anarchy)
+ - [Next Week on Xbox: New Games for September 9 to 13](https://news.xbox.com/en-us/2024/09/06/next-week-on-xbox-new-games-for-september-9-to-13/)
+ - [Bluetooth 6 announced with Apple-like device tracking, lower latency, and improved efficiency](https://www.pcgamer.com/hardware/bluetooth-6-announced-with-apple-like-device-tracking-lower-latency-and-improved-efficiency)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
