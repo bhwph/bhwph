@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Concord will reportedly still get its Secret Level episode, which feels grimly fitting given how this past year has gone](https://www.pcgamer.com/games/fps/concord-will-reportedly-still-get-its-secret-level-episode-which-feels-grimly-fitting-given-how-this-past-year-has-gone)
- - [Everyone assumes it&#39;s game over, but Intel&#39;s huge bet on 18A is still very much game on](https://www.pcgamer.com/hardware/processors/everyone-assumes-its-game-over-but-intels-huge-bet-on-18a-is-still-very-much-game-on)
- - [Get Baldur’s Gate 3 for its lowest price yet this weekend](https://www.polygon.com/good-deals/448744/baldurs-gate-3-sale-pc-steam-larian-studios)<!-- GAME:END -->
+ - [Humble’s Latest Bundle Includes A Discount On 2024’s Most Impressive Indie](https://kotaku.com/humble-bundle-summer-narrative-1000xresistsale-1851642286)
+ - [The Baldur&amp;#8217;s Gate 3 team isn&amp;#8217;t finished with the game yet](https://www.polygon.com/news/448917/baldurs-gate-3-final-update-bg3)
+ - [The Starfield Planet At The Center Of Its Shattered Space DLC Sounds Like It Has A Lot Going On](https://kotaku.com/starfield-shattered-space-dlc-varuun-size-1851642222)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
