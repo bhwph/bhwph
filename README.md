@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who let the bugs out](http://9gag.com/gag/aD2z287)
- - 😝 [Giving them what they deserve](http://9gag.com/gag/ajPNVAx)
- - 👉 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)<!-- MEMES:END -->
+ - 6️⃣ [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
+ - 😝 [Asking the real questions](http://9gag.com/gag/a2v4vbD)
+ - 👉 [\u00a0](http://9gag.com/gag/a1mKmrb)<!-- MEMES:END -->
 
 --- 
 
