@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram radically alters its stance on &quot;illegal&quot; use of its platform by letting users in private chats &quot;flag illegal content&quot; for review by its moderators &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240905/p41#a240905p41)
- - [Coffee or tea? You can make both and save with the GoveeLife Smart Wi-Fi Electric Kettle](https://www.androidauthority.com/goveelife-smart-wi-fi-electric-kettle-deal-3478784/)
- - [Telegram CEO says he’ll moderate better after getting arrested in France](https://www.theverge.com/2024/9/5/24237174/telegram-ceo-pavel-durov-statement-following-arrest)<!-- TECH:END -->
+ - [Potentially devastating typhoon approaching the core of iPhone 16 manufacture &amp; delivery](https://appleinsider.com/articles/24/09/06/potentially-devastating-typhoon-approaching-hong-kong-disrupting-life-and-business?utm_medium=rss)
+ - [Flexispot E7 Plus Standing Desk review: A worthy ergonomic investment](https://appleinsider.com/articles/24/09/06/flexispot-e7-plus-standing-desk-review-a-worthy-ergonomic-investment?utm_medium=rss)
+ - [X&#39;s VP of Global Affairs Nick Pickles is leaving the company after a decade in which he fought multiple political battles and engaged with regulators worldwide &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/240906/p1#a240906p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
