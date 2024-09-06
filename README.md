@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9 problems and how to fix them](https://www.androidauthority.com/google-pixel-9-problems-fixes-3478075/)
- - [iPhone 16 and Apple Watch Series 10 rumors, plus hysterical phishing emails on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/06/iphone-16-and-apple-watch-series-10-rumors-plus-hysterical-phishing-emails-on-the-appleinsider-podcast?utm_medium=rss)
- - [An interview with Bill Gates about What&#39;s Next? The Future with Bill Gates, an upcoming five-part Netflix docuseries examining issues like AI, misinfo, and more &lpar;Kourtnee Jackson/CNET&rpar;](http://www.techmeme.com/240906/p9#a240906p9)<!-- TECH:END -->
+ - [Google Drive’s homepage is getting an intuitive design change](https://www.androidauthority.com/google-drive-unified-file-folder-suggestions-3479144/)
+ - [CUKTECH 20: The perfect high-capacity power bank for fast charging anywhere](https://www.androidauthority.com/cuktech-20-ifa-3478481/)
+ - [Dreame’s L20 Ultra hybrid robot vacuum and mop is at a new low of $699](https://www.theverge.com/2024/9/6/24237420/dreame-l20-ultra-hybrid-robot-vacuum-apple-watch-ultra-2-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
