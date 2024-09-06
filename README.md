@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dr Disrespect returns with 20-minute rant on Twitch ban, denies wrongdoing and says he&#39;s the victim of a conspiracy: &#39;They wanted to cut down the Doc, plain and simple&#39;](https://www.pcgamer.com/hardware/streaming/dr-disrespect-returns-with-20-minute-rant-on-twitch-ban-denies-wrongdoing-and-says-hes-the-victim-of-a-conspiracy-they-wanted-to-cut-down-the-doc-plain-and-simple)
- - [Beetlejuice Beetlejuice Is Too Much Nostalgia And Too Little Substance](https://kotaku.com/beetlejuice-beetlejuice-movie-review-cast-2024-new-1851642373)
- - [The 15 deepest cuts in Astro Bot, and where they came from](https://www.polygon.com/playstation/448757/astro-bot-characters-deep-cuts)<!-- GAME:END -->
+ - [Kotaku&#39;s Weekend Guide: 5 Games We&#39;ll Be Spending More Time With](https://kotaku.com/star-wars-outlaws-space-marine-2-astro-bot-1851642561)
+ - [Streamers captured Concord&#39;s final moments as the servers went offline: &#39;What a huge f***ing honor&#39;](https://www.pcgamer.com/games/fps/streamers-captured-concords-final-moments-as-the-servers-went-offline-what-a-huge-fing-honor)
+ - [Visions of Mana review](https://www.pcgamer.com/games/rpg/visions-of-mana-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
