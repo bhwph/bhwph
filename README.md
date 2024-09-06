@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram disables ‘misused’ features as CEO faces criminal charges](https://www.theverge.com/2024/9/6/24237526/telegram-pavel-durov-telegraph-location-features-moderation)
- - [Filing: OnlyFans revenue rose 20% YoY to ~$1.31B for the FY ending November 2023; creator accounts grew 29% to ~4.1M, while fan accounts rose 28% to 305M &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/240906/p15#a240906p15)
- - [Best Overlanding Gear &lpar;2024&rpar;: Tried and Tested Storage, Shovels, and Coolers](https://www.wired.com/gallery/overlanding-guide/)<!-- TECH:END -->
+ - [Replit launches Replit Agent, an AI agent that can build entire apps from scratch based on prompts, available in beta to Replit Core and Teams subscribers &lpar;Chris McKay/Maginative&rpar;](http://www.techmeme.com/240906/p18#a240906p18)
+ - [Roblox plans to let creators keep 50% to 70% of revenue when their titles are purchased in real currency on desktop computers vs. 30% for purchases with Robux &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240906/p17#a240906p17)
+ - [GoPro Hero 13 Black review: Big changes come for the popular action cam](https://appleinsider.com/articles/24/09/06/gopro-hero-13-black-review-big-changes-come-for-the-popular-action-cam?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
