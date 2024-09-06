@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cosplay of the year](http://9gag.com/gag/axy0WQW)
- - 😝 [Wouldn\u2019t it be nice?](http://9gag.com/gag/aAyD03o)
- - 👉 [The sad truth.](http://9gag.com/gag/an7j7nB)<!-- MEMES:END -->
+ - 6️⃣ [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)
+ - 😝 [\u00a0](http://9gag.com/gag/a1mKmrb)
+ - 👉 [Something I saved 8 years ago](http://9gag.com/gag/aAyDyGZ)<!-- MEMES:END -->
 
 --- 
 
