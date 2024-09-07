@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
- - 😝 [The King under the mountain](http://9gag.com/gag/aMVAB76)
- - 👉 [Swiped](http://9gag.com/gag/aPA9mYK)<!-- MEMES:END -->
+ - 6️⃣ [Greatest flex](http://9gag.com/gag/a9yA8eL)
+ - 😝 [9gag tier 1 vide imho](http://9gag.com/gag/apRQDM9)
+ - 👉 [You walked into the wrong room bro.](http://9gag.com/gag/a5QnwnO)<!-- MEMES:END -->
 
 --- 
 
