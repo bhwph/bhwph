@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Look twice](http://9gag.com/gag/a0e5XZB)
- - 😝 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
- - 👉 [Crazy lady..](http://9gag.com/gag/aBy8ZoP)<!-- MEMES:END -->
+ - 6️⃣ [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
+ - 😝 [The King under the mountain](http://9gag.com/gag/aMVAB76)
+ - 👉 [Swiped](http://9gag.com/gag/aPA9mYK)<!-- MEMES:END -->
 
 --- 
 
