@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Do You Solve a Problem Like Polestar?](https://www.wired.com/story/how-do-you-solve-a-problem-like-polestar/)
- - [Best iPhone in 2024: Which Apple Phone Should You Buy?](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
- - [Our Bonkers Camera Clash: We Put the iPhone 15 Pro Max Against the Galaxy S24 Ultra](https://www.cnet.com/tech/mobile/our-bonkers-camera-clash-we-put-the-iphone-15-pro-max-against-the-galaxy-s24-ultra/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Ring will soon be able to trigger smart home routines](https://www.androidauthority.com/samsung-galaxy-ring-smart-home-3479532/)
+ - [Qualcomm Snapdragon X Plus benchmarked: Faster than a MacBook Air?](https://www.androidauthority.com/snapdragon-x-plus-benchmarks-3479221/)
+ - [Govee at IFA 2024: Create beautiful lighting scenes with Govee’s new LED strip lights](https://www.androidauthority.com/govee-ifa-2024-3479208/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
