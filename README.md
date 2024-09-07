@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Magician at the table](http://9gag.com/gag/aD2z2OB)
- - 😝 [Who let the bugs out](http://9gag.com/gag/aD2z287)
- - 👉 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)<!-- MEMES:END -->
+ - 6️⃣ [Look twice](http://9gag.com/gag/a0e5XZB)
+ - 😝 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)
+ - 👉 [Crazy lady..](http://9gag.com/gag/aBy8ZoP)<!-- MEMES:END -->
 
 --- 
 
