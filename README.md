@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Android devices can now share an instant hotspot or a call; here’s how to turn it on](https://www.androidauthority.com/android-cross-device-services-how-to-instant-hotspot-3478597/)
- - [New Mac malware strain uses remote access tools to steal data](https://appleinsider.com/articles/24/09/07/new-mac-malware-strain-uses-remote-access-tools-to-steal-data?utm_medium=rss)
- - [A profile of Pavel Durov&#39;s older brother Nikolai, who is reportedly still in Russia and is responsible for Telegram&#39;s encryption standard MTProto protocol &lpar;Eva Hartog/Politico&rpar;](http://www.techmeme.com/240907/p5#a240907p5)<!-- TECH:END -->
+ - [You should download your offline Google maps on your Pixel Watch right away](https://www.androidauthority.com/download-offline-google-maps-now-3477925/)
+ - [Disney and DirecTV head into a big sports weekend with no carriage deal](https://www.theverge.com/2024/9/7/24238351/disney-directv-carriage-dispute-nfl-monday-night-football-us-open-tennis-alternatives-hulu-spectrum)
+ - [Analysis of 3.2M+ Telegram messages from 16K+ channels shows how the app is inundated with criminal activity, CSAM, drug dealers, white nationalists, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240907/p6#a240907p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
