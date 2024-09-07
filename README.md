@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Concord Gets Shut Down, Switch 2 Rumors Heat Up, And More Of The Week&#39;s Top Stories](https://kotaku.com/concord-shut-down-switch-2-dr-disrespect-1851642076)
- - [Rebel Ridge needed ‘sloppy, awkward’ action, says director Jeremy Saulnier](https://www.polygon.com/movies/449003/rebel-ridge-behind-the-scenes-sloppy-action)
- - [Grid&amp;#8217;s tastefully destroyed Game Boys make for great art, and they&amp;#8217;re 40% off now](https://www.polygon.com/good-deals/449005/grid-gameboy-anniversary-gaming-deal-sale)<!-- GAME:END -->
+ - [Here&#39;s a little social deduction game about figuring out who&#39;s slacking off at work](https://www.pcgamer.com/games/heres-a-little-social-deduction-game-about-figuring-out-whos-slacking-off-at-work)
+ - [Just a few days in and people have already installed millions of mods for Baldur&#39;s Gate 3](https://www.pcgamer.com/games/rpg/just-a-few-days-in-and-people-have-already-installed-millions-of-mods-for-baldurs-gate-3)
+ - [Star Wars Outlaws Is Simultaneously Astounding And Busted, The Minecraft Movie Knows Its Audience, And More Of The Week&#39;s Takes](https://kotaku.com/is-star-wars-outlaws-good-minecraft-movie-astro-bot-1851642081)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
