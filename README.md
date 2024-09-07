@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [90.](http://9gag.com/gag/awyQyD4)
- - 😝 [151 DNA samples were taken from mummies. A grand total of 0 came back as...](http://9gag.com/gag/aPA9PBq)
- - 👉 [WE ARE SO BACK BOYS](http://9gag.com/gag/aGyenVG)<!-- MEMES:END -->
+ - 6️⃣ [Giving them what they deserve](http://9gag.com/gag/ajPNVAx)
+ - 😝 [The plot is so dynamic Quentin Tarantino want to adapt it.](http://9gag.com/gag/aBy8ZZZ)
+ - 👉 [A self-heating bento box](http://9gag.com/gag/amo2A5X)<!-- MEMES:END -->
 
 --- 
 
