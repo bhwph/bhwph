@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If You&#39;ve Never Noticed The Logo On A Godiva Wrapper, Today&#39;s NYT Connections Groups Will Be Tough](https://kotaku.com/nyt-connections-groups-and-answers-saturday-september-1851642734)
- - [The best movies new to streaming this September](https://www.polygon.com/what-to-watch/447029/best-new-movies-netflix-amazon-prime-max-hulu-september-2024)
- - [Monster Hunter Wilds made me a believer in its ecosystem](https://www.polygon.com/preview/449206/monster-hunter-wilds-ecosystem-preview)<!-- GAME:END -->
+ - [Rebel Ridge needed ‘sloppy, awkward’ action, says director Jeremy Saulnier](https://www.polygon.com/movies/449003/rebel-ridge-behind-the-scenes-sloppy-action)
+ - [Grid&amp;#8217;s tastefully destroyed Game Boys make for great art, and they&amp;#8217;re 40% off now](https://www.polygon.com/good-deals/449005/grid-gameboy-anniversary-gaming-deal-sale)
+ - [Closer the Distance replicates grief so well that I couldn’t finish playing it](https://www.polygon.com/review/449133/closer-distance-grief-life-sim)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
