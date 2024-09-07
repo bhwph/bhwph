@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [S&amp;P Global announces that Dell and Palantir will join the S&amp;P 500, effective on September 23, 2024; DELL jumps 5%+ and PLTR jumps 7%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240906/p25#a240906p25)
- - [Apple Watch Series 10 rumored to add sleep apnea detection](https://www.theverge.com/2024/9/6/24237873/apple-watch-series-10-rumor-sleep-apnea)
- - [Telegram says the app&#39;s source code has not changed, and its FAQ has been changed only to make it clearer how to report content on Telegram, including via DSA &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240906/p24#a240906p24)<!-- TECH:END -->
+ - [A look at LMSYS&#39; Chatbot Arena and the issues surrounding the crowdsourced LLM benchmark platform, including biases, lack of transparency, and commercial ties &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240906/p26#a240906p26)
+ - [The man who put Doom in a Lego brick is now playing it on a volumetric voxel display](https://www.theverge.com/2024/9/6/24238004/doom-volumetric-voxel-display-ancient-james-brown)
+ - [Instacart Is Doing Away With Delivery Fees on Certain Orders](https://www.cnet.com/news/instacart-just-got-a-whole-lot-cheaper/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
