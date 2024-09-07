@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
- - 😝 [Maybe repost](http://9gag.com/gag/a6ZVZKA)
- - 👉 [Gravity](http://9gag.com/gag/a5QnX6G)<!-- MEMES:END -->
+ - 6️⃣ [Who let the bugs out](http://9gag.com/gag/aD2z287)
+ - 😝 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
+ - 👉 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)<!-- MEMES:END -->
 
 --- 
 
