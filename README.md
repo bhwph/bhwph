@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Wilds made me a believer in its ecosystem](https://www.polygon.com/preview/449206/monster-hunter-wilds-ecosystem-preview)
- - [Steam Sales, Star Wars Outlaws Guides, And More Tips And Tricks For The Week](https://kotaku.com/steam-sales-star-wars-outlaws-guides-and-more-tips-an-1851642077)
- - [Today&#39;s Wordle answer for Saturday, September 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-7-2024)<!-- GAME:END -->
+ - [If You&#39;ve Never Noticed The Logo On A Godiva Wrapper, Today&#39;s NYT Connections Groups Will Be Tough](https://kotaku.com/nyt-connections-groups-and-answers-saturday-september-1851642734)
+ - [The best movies new to streaming this September](https://www.polygon.com/what-to-watch/447029/best-new-movies-netflix-amazon-prime-max-hulu-september-2024)
+ - [Monster Hunter Wilds made me a believer in its ecosystem](https://www.polygon.com/preview/449206/monster-hunter-wilds-ecosystem-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
