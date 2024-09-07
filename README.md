@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 16 series could grab a handy video feature from Android](https://www.androidauthority.com/apple-iphone-16-series-4k-120fps-android-3479064/)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-7/#ftag=CAD590a51e)
- - [Companies and customers say the cost of renting cloud services using Nvidia&#39;s A100 and H100 chips is lower in China than in the US despite the export controls &lpar;Financial Times&rpar;](http://www.techmeme.com/240907/p1#a240907p1)<!-- TECH:END -->
+ - [A ton of Galaxy S24 FE renders just leaked, showing off all the colors](https://www.androidauthority.com/samsung-galaxy-s24-fe-renders-colors-3479489/)
+ - [The world’s first triple-screen foldable looks bonkers in this new image](https://www.androidauthority.com/huawei-triple-screen-foldable-official-image-3479481/)
+ - [A look at the DOJ&#39;s and multiple states&#39; antitrust lawsuit against Google&#39;s ad business, as its trial is set to begin on September 9 &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240907/p2#a240907p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
