@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Companies and customers say the cost of renting cloud services using Nvidia&#39;s A100 and H100 chips is lower in China than in the US despite the export controls &lpar;Financial Times&rpar;](http://www.techmeme.com/240907/p1#a240907p1)
- - [Human Bird Flu Case Reported in US Without Known Animal Contact](https://www.cnet.com/health/medical/human-bird-flu-case-reported-in-us-without-known-animal-contact/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 7, #188](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-7-188/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The iPhone 16 series could grab a handy video feature from Android](https://www.androidauthority.com/apple-iphone-16-series-4k-120fps-android-3479064/)
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-7/#ftag=CAD590a51e)
+ - [Companies and customers say the cost of renting cloud services using Nvidia&#39;s A100 and H100 chips is lower in China than in the US despite the export controls &lpar;Financial Times&rpar;](http://www.techmeme.com/240907/p1#a240907p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
