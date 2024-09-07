@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Concord Gets Shut Down, Switch 2 Rumors Heat Up, And More Of The Week&#39;s Top Stories](https://kotaku.com/concord-shut-down-switch-2-dr-disrespect-1851642076)
  - [Rebel Ridge needed ‘sloppy, awkward’ action, says director Jeremy Saulnier](https://www.polygon.com/movies/449003/rebel-ridge-behind-the-scenes-sloppy-action)
- - [Grid&amp;#8217;s tastefully destroyed Game Boys make for great art, and they&amp;#8217;re 40% off now](https://www.polygon.com/good-deals/449005/grid-gameboy-anniversary-gaming-deal-sale)
- - [Closer the Distance replicates grief so well that I couldn’t finish playing it](https://www.polygon.com/review/449133/closer-distance-grief-life-sim)<!-- GAME:END -->
+ - [Grid&amp;#8217;s tastefully destroyed Game Boys make for great art, and they&amp;#8217;re 40% off now](https://www.polygon.com/good-deals/449005/grid-gameboy-anniversary-gaming-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
