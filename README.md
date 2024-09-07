@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You should download your offline Google maps on your Pixel Watch right away](https://www.androidauthority.com/download-offline-google-maps-now-3477925/)
- - [Disney and DirecTV head into a big sports weekend with no carriage deal](https://www.theverge.com/2024/9/7/24238351/disney-directv-carriage-dispute-nfl-monday-night-football-us-open-tennis-alternatives-hulu-spectrum)
- - [Analysis of 3.2M+ Telegram messages from 16K+ channels shows how the app is inundated with criminal activity, CSAM, drug dealers, white nationalists, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240907/p6#a240907p6)<!-- TECH:END -->
+ - [Nanoleaf finally launches a smart switch after eight years of trying](https://www.theverge.com/2024/9/7/24235620/nanoleaf-sense-plus-smart-switch-thread-matter-litewave)
+ - [Large WHO-Backed Study Revives Cell Phone and Cancer Risk Conversation](https://www.cnet.com/health/medical/large-who-backed-study-revives-cell-phone-and-cancer-risk-conversation/#ftag=CAD590a51e)
+ - [Keep an Eye on the Sky: Don&#39;t Miss the Imminent &#39;Blaze Star&#39; Explosion This Month](https://www.cnet.com/science/keep-an-eye-on-the-sky-dont-miss-the-imminent-blaze-star-explosion-this-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
