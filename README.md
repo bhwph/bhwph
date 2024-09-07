@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Ring will soon be able to trigger smart home routines](https://www.androidauthority.com/samsung-galaxy-ring-smart-home-3479532/)
- - [Qualcomm Snapdragon X Plus benchmarked: Faster than a MacBook Air?](https://www.androidauthority.com/snapdragon-x-plus-benchmarks-3479221/)
- - [Govee at IFA 2024: Create beautiful lighting scenes with Govee’s new LED strip lights](https://www.androidauthority.com/govee-ifa-2024-3479208/)<!-- TECH:END -->
+ - [I will never update to Android 16 if this notification change is real](https://www.androidauthority.com/never-update-android-16-notification-change-3479078/)
+ - [Grid’s framed old-school gadgets are over 40 percent off](https://www.theverge.com/2024/9/7/24237525/grid-studio-framed-tech-paramount-plus-deal-sale)
+ - [5 Ways Amazon Alexa Can Help on Laundry Day](https://www.cnet.com/home/smart-home/5-ways-amazon-alexa-can-help-on-laundry-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
