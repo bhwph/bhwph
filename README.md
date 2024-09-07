@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who let the bugs out](http://9gag.com/gag/aD2z287)
- - 😝 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
- - 👉 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)<!-- MEMES:END -->
+ - 6️⃣ [Magician at the table](http://9gag.com/gag/aD2z2OB)
+ - 😝 [Please don&#39;t](http://9gag.com/gag/aKGDAXg)
+ - 👉 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)<!-- MEMES:END -->
 
 --- 
 
