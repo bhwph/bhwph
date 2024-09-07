@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Giving them what they deserve](http://9gag.com/gag/ajPNVAx)
- - 😝 [The plot is so dynamic Quentin Tarantino want to adapt it.](http://9gag.com/gag/aBy8ZZZ)
- - 👉 [A self-heating bento box](http://9gag.com/gag/amo2A5X)<!-- MEMES:END -->
+ - 6️⃣ [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
+ - 😝 [Maybe repost](http://9gag.com/gag/a6ZVZKA)
+ - 👉 [Gravity](http://9gag.com/gag/a5QnX6G)<!-- MEMES:END -->
 
 --- 
 
