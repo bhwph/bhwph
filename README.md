@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I will never update to Android 16 if this notification change is real](https://www.androidauthority.com/never-update-android-16-notification-change-3479078/)
- - [Grid’s framed old-school gadgets are over 40 percent off](https://www.theverge.com/2024/9/7/24237525/grid-studio-framed-tech-paramount-plus-deal-sale)
- - [5 Ways Amazon Alexa Can Help on Laundry Day](https://www.cnet.com/home/smart-home/5-ways-amazon-alexa-can-help-on-laundry-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Your Android devices can now share an instant hotspot or a call; here’s how to turn it on](https://www.androidauthority.com/android-cross-device-services-how-to-instant-hotspot-3478597/)
+ - [New Mac malware strain uses remote access tools to steal data](https://appleinsider.com/articles/24/09/07/new-mac-malware-strain-uses-remote-access-tools-to-steal-data?utm_medium=rss)
+ - [A profile of Pavel Durov&#39;s older brother Nikolai, who is reportedly still in Russia and is responsible for Telegram&#39;s encryption standard MTProto protocol &lpar;Eva Hartog/Politico&rpar;](http://www.techmeme.com/240907/p5#a240907p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
