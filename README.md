@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
- - 😝 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
- - 👉 [Has it ever bothered anyone else that the balcony railings in Rivendell are, like, shin high for the elves?](http://9gag.com/gag/a5QnQ8V)<!-- MEMES:END -->
+ - 6️⃣ [Cosplay of the year](http://9gag.com/gag/axy0WQW)
+ - 😝 [Waiiiit a minute..](http://9gag.com/gag/aRBjMD5)
+ - 👉 [Can I mail order a geisha](http://9gag.com/gag/aBy8VOQ)<!-- MEMES:END -->
 
 --- 
 
