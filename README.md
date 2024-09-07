@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Is Apple Intelligence? Everything To Know About iPhone 16 AI Features](https://www.cnet.com/tech/mobile/what-is-apple-intelligence-everything-to-know-about-iphone-16-ai-features/#ftag=CAD590a51e)
- - [In a letter, Kamala Harris is endorsed for president by 88 corporate leaders, including Yelp CEO Jeremy Stoppelman and Ripple co-founder Chris Larsen &lpar;Megan Cassella/CNBC&rpar;](http://www.techmeme.com/240906/p27#a240906p27)
- - [A look at LMSYS&#39; Chatbot Arena and the issues surrounding the crowdsourced LLM benchmark platform, including biases, lack of transparency, and commercial ties &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240906/p26#a240906p26)<!-- TECH:END -->
+ - [Companies and customers say the cost of renting cloud services using Nvidia&#39;s A100 and H100 chips is lower in China than in the US despite the export controls &lpar;Financial Times&rpar;](http://www.techmeme.com/240907/p1#a240907p1)
+ - [Human Bird Flu Case Reported in US Without Known Animal Contact](https://www.cnet.com/health/medical/human-bird-flu-case-reported-in-us-without-known-animal-contact/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 7, #188](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-7-188/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
