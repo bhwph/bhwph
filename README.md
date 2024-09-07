@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Made in](http://9gag.com/gag/aPA9AyB)
- - 😝 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
- - 👉 [\u00a0](http://9gag.com/gag/a1mKmrb)<!-- MEMES:END -->
+ - 6️⃣ [Examples of types of blindness](http://9gag.com/gag/aVvMgzP)
+ - 😝 [Dutch politician Geert Wilder showing a drawing of Mohammed. Guess how many death threats he got so far?](http://9gag.com/gag/a0e5VYz)
+ - 👉 [Their people gave up?](http://9gag.com/gag/aBy8yRz)<!-- MEMES:END -->
 
 --- 
 
