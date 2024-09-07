@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, September 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-7-2024)
- - [Baldur&#39;s Gate 3&#39;s latest patch is not the final update, Larian says: &#39;The chefs must cook&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3s-latest-patch-is-not-the-final-update-larian-says-the-chefs-must-cook)
- - [Once Human dev says some recent player feedback &#39;has been quite demoralizing&#39;](https://www.pcgamer.com/games/survival-crafting/once-human-devs-says-some-recent-player-feedback-has-been-quite-demoralizing)<!-- GAME:END -->
+ - [Monster Hunter Wilds made me a believer in its ecosystem](https://www.polygon.com/preview/449206/monster-hunter-wilds-ecosystem-preview)
+ - [Steam Sales, Star Wars Outlaws Guides, And More Tips And Tricks For The Week](https://kotaku.com/steam-sales-star-wars-outlaws-guides-and-more-tips-an-1851642077)
+ - [Today&#39;s Wordle answer for Saturday, September 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-7-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
