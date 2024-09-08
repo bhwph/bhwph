@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What does the future of Vtubing look like? Cover’s Yagoo has the answer](https://www.polygon.com/q-and-a/448035/vtubers-cover-yagoo-interview)
  - [Fan-favorite stunty teams are coming to Blood Bowl 3 at last](https://www.pcgamer.com/games/board-games/fan-favorite-stunty-teams-are-coming-to-blood-bowl-3-at-last)
- - [Free DLC for Pathfinder: Wrath of the Righteous adds a crossover with indie dungeon crawler Children of Morta](https://www.pcgamer.com/games/rpg/free-dlc-for-pathfinder-wrath-of-the-righteous-adds-a-crossover-with-indie-dungeon-crawler-children-of-morta)
- - [Today&#39;s Wordle answer for Sunday, September 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-8-2024)<!-- GAME:END -->
+ - [Free DLC for Pathfinder: Wrath of the Righteous adds a crossover with indie dungeon crawler Children of Morta](https://www.pcgamer.com/games/rpg/free-dlc-for-pathfinder-wrath-of-the-righteous-adds-a-crossover-with-indie-dungeon-crawler-children-of-morta)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
