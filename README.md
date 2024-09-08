@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Synchronicity](http://9gag.com/gag/aKGDe7g)
- - 😝 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)
- - 👉 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)<!-- MEMES:END -->
+ - 6️⃣ [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
+ - 😝 [Quishing](http://9gag.com/gag/agmY4m1)
+ - 👉 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)<!-- MEMES:END -->
 
 --- 
 
