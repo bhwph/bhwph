@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Texas-based Tyler Tech, which has become a dominant US local government software provider, despite a history of software flaws and release delays &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240908/p3#a240908p3)
- - [Best Coffee Makers for 2024](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)
- - [The Galaxy S25 Ultra could be even thinner than first claimed](https://www.androidauthority.com/samsung-galaxy-s25-ultra-dimensions-leak-3479599/)<!-- TECH:END -->
+ - [Alien Spaceships Could Be Detected Using Gravitational Waves](https://www.wired.com/story/alien-spaceships-could-be-detected-using-gravitational-waves/)
+ - [The Apple Watch made smartwatches the wearable of choice](https://www.theverge.com/2024/9/8/24237890/apple-watch-10-years-smartwatch-wearables)
+ - [An all-in-one app for the internet](https://www.theverge.com/2024/9/8/24237639/reeder-app-internet-feeds-astro-bot-gopro-dji-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
