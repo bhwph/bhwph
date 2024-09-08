@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is thinking about a rival to Meta Ray-Ban glasses](https://www.androidauthority.com/apple-non-ar-smart-glasses-meta-glasses-3479479/)
- - [Some creators move from unpredictable algorithm-driven platforms to subscription services; YouTube group The Try Guys launched 2nd Try, a $5/month streamer &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/240908/p4#a240908p4)
- - [I recently caved and subscribed to YouTube Premium, and I don’t hate it](https://www.androidauthority.com/caved-subscribed-youtube-premium-3473723/)<!-- TECH:END -->
+ - [How to Buy an Electric Bike &lpar;2024&rpar;: Classes, Range, Repairs](https://www.wired.com/story/how-to-buy-an-electric-bike/)
+ - [Watch UEFA Nations League Soccer: Livestream Portugal vs. Scotland From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-portugal-vs-scotland-from-anywhere/#ftag=CAD590a51e)
+ - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
