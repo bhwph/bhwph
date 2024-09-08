@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best games to play on Netflix right now](https://www.polygon.com/what-to-play/448049/the-best-games-to-play-on-netflix-right-now)
- - [Watch the Never Stop Blowing Up cast’s favorite action movies to keep the ridiculous good times going](https://www.polygon.com/action/448493/watch-the-never-stop-blowing-up-casts-favorite-action-movies-to-keep-the-ridiculous-good-times-going)
- - [You Can Be A Chipotle Bag For Halloween This Year If You’re Perpetually Stuck In 2022](https://kotaku.com/chipotle-burrito-bag-halloween-costume-bodysuit-1851642860)<!-- GAME:END -->
+ - [Stealth strategy takes a particularly demonic bent with this game of commando scientists vs Nazi occultists](https://www.pcgamer.com/games/stealth-strategy-takes-a-particularly-demonic-bent-with-this-game-of-commando-scientists-vs-nazi-occultists)
+ - [It only took two days for someone to unlock a developer mode in Baldur&#39;s Gate 3&#39;s modding tools, opening up the possibility of custom levels and campaigns](https://www.pcgamer.com/games/baldurs-gate/it-only-took-two-days-for-someone-to-unlock-a-developer-mode-in-baldur-s-gate-3-s-mod-toolset-opening-up-the-possibility-of-custom-levels-and-campaigns)
+ - [The best games to play on Netflix right now](https://www.polygon.com/what-to-play/448049/the-best-games-to-play-on-netflix-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
