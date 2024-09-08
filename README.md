@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Poor Lydia Deetz gets the rawest deal in Beetlejuice 2](https://www.polygon.com/opinion/449228/beetlejuice-2-lydia-deetz-problem-winona-ryder)
- - [Lots Of People Are Learning The Religious Definition Of &quot;Prior&quot; Thanks To Today&#39;s NYT Connections Groups](https://kotaku.com/nyt-connections-groups-and-answers-sunday-september-8-1851642867)
- - [15 Years Ago, The Beatles: Rock Band Made Me A Fab Four Fan For Life](https://kotaku.com/the-beatles-rock-band-harmonix-anniversary-1851642490)<!-- GAME:END -->
+ - [Watch the Never Stop Blowing Up cast’s favorite action movies to keep the ridiculous good times going](https://www.polygon.com/action/448493/watch-the-never-stop-blowing-up-casts-favorite-action-movies-to-keep-the-ridiculous-good-times-going)
+ - [You Can Be A Chipotle Bag For Halloween This Year If You’re Perpetually Stuck In 2022](https://kotaku.com/chipotle-burrito-bag-halloween-costume-bodysuit-1851642860)
+ - [If It Seems Like We’re Obsessed With Sonic 3, It’s Because We Are — Here’s Why](https://kotaku.com/sonic-3-shadow-the-hedgehog-explained-1851642394)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
