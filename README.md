@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These new Aukey wireless chargers come with cooling fans](https://www.theverge.com/2024/9/8/24239204/aukey-omnia-frez-wireless-charger-cooling-fans-iphone-magsafe)
- - [Best of IFA 2024 Awards: All the very best products](https://www.androidauthority.com/best-of-ifa-2024-awards-3479544/)
- - [London&#39;s e-bike boom is frustrating local councils over parking issues, as Lime and Forest expand; Lime trips during peak hours have grown 91% YoY in 2024 &lpar;Joshua Gabert-Doyon/Financial Times&rpar;](http://www.techmeme.com/240908/p6#a240908p6)<!-- TECH:END -->
+ - [Kendrick Lamar to headline Apple&#39;s 2025 Super Bowl half-time show](https://appleinsider.com/articles/24/09/08/kendrick-lamar-to-headline-apples-2025-super-bowl-half-time-show?utm_medium=rss)
+ - [Grab a 16% cash bonus for your used iPhone or Apple Watch](https://appleinsider.com/articles/24/09/08/grab-a-16-cash-bonus-for-your-used-iphone-or-apple-watch?utm_medium=rss)
+ - [Best Treadmills of 2024](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
