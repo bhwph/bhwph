@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Heads-up: Space Marine 2 has a photo mode and it rules](https://www.pcgamer.com/games/action/heads-up-space-marine-2-has-a-photo-mode-and-it-rules)
- - [Wild Bastards is channeling its creators&#39; previous work on BioShock with its powers and combos, and even its most normal, &#39;all rounder&#39; character is a cyborg horse with a lever rifle](https://www.pcgamer.com/games/roguelike/wild-bastards-is-channeling-its-creators-previous-work-on-bioshock-with-its-powers-and-combos-and-even-its-most-normal-all-rounder-character-is-a-cyborg-horse-with-a-lever-rifle)
- - [Here&#39;s a little social deduction game about figuring out who&#39;s slacking off at work](https://www.pcgamer.com/games/heres-a-little-social-deduction-game-about-figuring-out-whos-slacking-off-at-work)<!-- GAME:END -->
+ - [Fan-favorite stunty teams are coming to Blood Bowl 3 at last](https://www.pcgamer.com/games/board-games/fan-favorite-stunty-teams-are-coming-to-blood-bowl-3-at-last)
+ - [Free DLC for Pathfinder: Wrath of the Righteous adds a crossover with indie dungeon crawler Children of Morta](https://www.pcgamer.com/games/rpg/free-dlc-for-pathfinder-wrath-of-the-righteous-adds-a-crossover-with-indie-dungeon-crawler-children-of-morta)
+ - [Today&#39;s Wordle answer for Sunday, September 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-8-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
