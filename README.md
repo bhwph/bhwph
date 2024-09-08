@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s not like in the movies!](http://9gag.com/gag/azxqO2m)
- - 😝 [When you&#39;re late for work and you have to deal with your morning snake](http://9gag.com/gag/aqy1QKv)
- - 👉 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)<!-- MEMES:END -->
+ - 6️⃣ [Swiped](http://9gag.com/gag/aPA9mYK)
+ - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)
+ - 👉 [Please do not the cat](http://9gag.com/gag/aLn8z35)<!-- MEMES:END -->
 
 --- 
 
