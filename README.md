@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jump rope](http://9gag.com/gag/a1mKVpb)
- - 😝 [I guess it pays to be him](http://9gag.com/gag/a6ZVBGb)
- - 👉 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)<!-- MEMES:END -->
+ - 6️⃣ [The real Michael Jackson](http://9gag.com/gag/an7j24E)
+ - 😝 [He&#39;s one-sixteenth Irish](http://9gag.com/gag/aD2zZ49)
+ - 👉 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)<!-- MEMES:END -->
 
 --- 
 
