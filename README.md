@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Heads-up: Space Marine 2 has a photo mode and it rules](https://www.pcgamer.com/games/action/heads-up-space-marine-2-has-a-photo-mode-and-it-rules)
  - [Wild Bastards is channeling its creators&#39; previous work on BioShock with its powers and combos, and even its most normal, &#39;all rounder&#39; character is a cyborg horse with a lever rifle](https://www.pcgamer.com/games/roguelike/wild-bastards-is-channeling-its-creators-previous-work-on-bioshock-with-its-powers-and-combos-and-even-its-most-normal-all-rounder-character-is-a-cyborg-horse-with-a-lever-rifle)
- - [Here&#39;s a little social deduction game about figuring out who&#39;s slacking off at work](https://www.pcgamer.com/games/heres-a-little-social-deduction-game-about-figuring-out-whos-slacking-off-at-work)
- - [Just a few days in and people have already installed millions of mods for Baldur&#39;s Gate 3](https://www.pcgamer.com/games/rpg/just-a-few-days-in-and-people-have-already-installed-millions-of-mods-for-baldurs-gate-3)<!-- GAME:END -->
+ - [Here&#39;s a little social deduction game about figuring out who&#39;s slacking off at work](https://www.pcgamer.com/games/heres-a-little-social-deduction-game-about-figuring-out-whos-slacking-off-at-work)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
