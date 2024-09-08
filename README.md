@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9gag tier 1 vide imho](http://9gag.com/gag/apRQDM9)
- - 😝 [Passing thru a wormhole like](http://9gag.com/gag/aBy8V42)
- - 👉 [You walked into the wrong room bro.](http://9gag.com/gag/a5QnwnO)<!-- MEMES:END -->
+ - 6️⃣ [Gotta clean the babies](http://9gag.com/gag/aXPv4BP)
+ - 😝 [This video will make your day better. Watch the dog&#39;s reaction when he feels the baby kick](http://9gag.com/gag/aNDzBK3)
+ - 👉 [This might save your life one day \ud83e\udd0d](http://9gag.com/gag/adB9xOd)<!-- MEMES:END -->
 
 --- 
 
