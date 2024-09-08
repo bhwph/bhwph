@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Swiped](http://9gag.com/gag/aPA9mYK)
- - 😝 [Look twice](http://9gag.com/gag/a0e5XZB)
- - 👉 [New challenge](http://9gag.com/gag/aVvMENv)<!-- MEMES:END -->
+ - 6️⃣ [Husband and Wife Tara Davis-Woodhall &amp; Hunter Woodhall are now both Olympic and Paralympic Gold Medalists](http://9gag.com/gag/a34MAnN)
+ - 😝 [Schipol Clock - The illusion of a man is standing behind this giant airport clock, painting the hands in real time, is actually a 12 hours video loop.](http://9gag.com/gag/abAzOKL)
+ - 👉 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)<!-- MEMES:END -->
 
 --- 
 
