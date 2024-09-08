@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Social Security September 2024: The Second Round of Payments Are Headed Out Soon](https://www.cnet.com/personal-finance/social-security-september-2024-the-second-round-of-payments-are-headed-out-soon/#ftag=CAD590a51e)
  - [Bluesky says it had over 9M users as of September 6, after adding 3M new users in the week or so since Brazil blocked X, and that video support is &quot;coming soon&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240907/p9#a240907p9)
- - [How to watch Apple’s ‘Glowtime’ iPhone 16 event](https://www.theverge.com/2024/9/7/24238537/apples-glowtime-iphone-16-event-how-to-watch-ios-18-apple-intelligence-ai)
- - [Payroll startup Warp, part of YC&#39;s W23 batch, disavows a racist post from an affiliate X account, amid claims its affiliates on X are posting &quot;engagement bait&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240907/p8#a240907p8)<!-- TECH:END -->
+ - [How to watch Apple’s ‘Glowtime’ iPhone 16 event](https://www.theverge.com/2024/9/7/24238537/apples-glowtime-iphone-16-event-how-to-watch-ios-18-apple-intelligence-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
