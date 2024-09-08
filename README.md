@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What does the future of Vtubing look like? Cover’s Yagoo has the answer](https://www.polygon.com/q-and-a/448035/vtubers-cover-yagoo-interview)
- - [Fan-favorite stunty teams are coming to Blood Bowl 3 at last](https://www.pcgamer.com/games/board-games/fan-favorite-stunty-teams-are-coming-to-blood-bowl-3-at-last)
- - [Free DLC for Pathfinder: Wrath of the Righteous adds a crossover with indie dungeon crawler Children of Morta](https://www.pcgamer.com/games/rpg/free-dlc-for-pathfinder-wrath-of-the-righteous-adds-a-crossover-with-indie-dungeon-crawler-children-of-morta)<!-- GAME:END -->
+ - [Poor Lydia Deetz gets the rawest deal in Beetlejuice 2](https://www.polygon.com/opinion/449228/beetlejuice-2-lydia-deetz-problem-winona-ryder)
+ - [Lots Of People Are Learning The Religious Definition Of &quot;Prior&quot; Thanks To Today&#39;s NYT Connections Groups](https://kotaku.com/nyt-connections-groups-and-answers-sunday-september-8-1851642867)
+ - [15 Years Ago, The Beatles: Rock Band Made Me A Fab Four Fan For Life](https://kotaku.com/the-beatles-rock-band-harmonix-anniversary-1851642490)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
