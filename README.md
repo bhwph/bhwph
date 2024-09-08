@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Swiped](http://9gag.com/gag/aPA9mYK)
- - 😝 [Forget Guns! GET A SHOVEL!!!!](http://9gag.com/gag/apRQ6vE)
- - 👉 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s not like in the movies!](http://9gag.com/gag/azxqO2m)
+ - 😝 [When you&#39;re late for work and you have to deal with your morning snake](http://9gag.com/gag/aqy1QKv)
+ - 👉 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)<!-- MEMES:END -->
 
 --- 
 
