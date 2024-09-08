@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The real Michael Jackson](http://9gag.com/gag/an7j24E)
- - 😝 [He&#39;s one-sixteenth Irish](http://9gag.com/gag/aD2zZ49)
- - 👉 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)<!-- MEMES:END -->
+ - 6️⃣ [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
+ - 😝 [Schipol Clock - The illusion of a man is standing behind this giant airport clock, painting the hands in real time, is actually a 12 hours video loop.](http://9gag.com/gag/abAzOKL)
+ - 👉 [`I wish we can back to middle age` Middle age:](http://9gag.com/gag/axy0R5D)<!-- MEMES:END -->
 
 --- 
 
