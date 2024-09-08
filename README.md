@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Greatest flex](http://9gag.com/gag/a9yA8eL)
- - 😝 [9gag tier 1 vide imho](http://9gag.com/gag/apRQDM9)
- - 👉 [You walked into the wrong room bro.](http://9gag.com/gag/a5QnwnO)<!-- MEMES:END -->
+ - 6️⃣ [Swiped](http://9gag.com/gag/aPA9mYK)
+ - 😝 [Forget Guns! GET A SHOVEL!!!!](http://9gag.com/gag/apRQ6vE)
+ - 👉 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)<!-- MEMES:END -->
 
 --- 
 
