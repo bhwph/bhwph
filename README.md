@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: xAI discussed a deal that would give Tesla access to its AI models to help power Full Self-Driving in exchange for a share of Tesla&#39;s software revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240907/p10#a240907p10)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 8, #1177](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-8-1177/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 8 #455](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-8-455/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the 2nd Circuit&#39;s incredibly damaging ruling favoring publishers in a copyright dispute over The Internet Archive&#39;s ebook lending program &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/240908/p2#a240908p2)
+ - [The handy Google Play Collections widget is now widely available in the US](https://www.androidauthority.com/google-play-collections-widget-us-3479597/)
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-8/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
