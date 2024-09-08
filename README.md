@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Swiped](http://9gag.com/gag/aPA9mYK)
- - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/aPA9mNP)
- - 👉 [Please do not the cat](http://9gag.com/gag/aLn8z35)<!-- MEMES:END -->
+ - 6️⃣ [9gag tier 1 vide imho](http://9gag.com/gag/apRQDM9)
+ - 😝 [Passing thru a wormhole like](http://9gag.com/gag/aBy8V42)
+ - 👉 [You walked into the wrong room bro.](http://9gag.com/gag/a5QnwnO)<!-- MEMES:END -->
 
 --- 
 
