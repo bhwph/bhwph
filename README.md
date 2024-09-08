@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alien Spaceships Could Be Detected Using Gravitational Waves](https://www.wired.com/story/alien-spaceships-could-be-detected-using-gravitational-waves/)
- - [The Apple Watch made smartwatches the wearable of choice](https://www.theverge.com/2024/9/8/24237890/apple-watch-10-years-smartwatch-wearables)
- - [An all-in-one app for the internet](https://www.theverge.com/2024/9/8/24237639/reeder-app-internet-feeds-astro-bot-gopro-dji-installer)<!-- TECH:END -->
+ - [Apple is thinking about a rival to Meta Ray-Ban glasses](https://www.androidauthority.com/apple-non-ar-smart-glasses-meta-glasses-3479479/)
+ - [Some creators move from unpredictable algorithm-driven platforms to subscription services; YouTube group The Try Guys launched 2nd Try, a $5/month streamer &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/240908/p4#a240908p4)
+ - [I recently caved and subscribed to YouTube Premium, and I don’t hate it](https://www.androidauthority.com/caved-subscribed-youtube-premium-3473723/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
