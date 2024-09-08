@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Galaxy S25 Ultra could be even thinner than first claimed](https://www.androidauthority.com/samsung-galaxy-s25-ultra-dimensions-leak-3479599/)
  - [A look at the 2nd Circuit&#39;s incredibly damaging ruling favoring publishers in a copyright dispute over The Internet Archive&#39;s ebook lending program &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/240908/p2#a240908p2)
- - [The handy Google Play Collections widget is now widely available in the US](https://www.androidauthority.com/google-play-collections-widget-us-3479597/)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-8/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The handy Google Play Collections widget is now widely available in the US](https://www.androidauthority.com/google-play-collections-widget-us-3479597/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
