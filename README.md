@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Glowtime: One of Apple’s flagship devices may be a no-show at the event](https://www.androidauthority.com/apple-watch-ultra-3-launch-canceled-3479734/)
- - [Australia-based SafetyCulture, which offers a suite of risk management tools, raised AU$165M led by Airtree at a AU$2.5B valuation, down from AU$2.7B in 2023 &lpar;David Adams/SmartCompany&rpar;](http://www.techmeme.com/240909/p2#a240909p2)
- - [South Korea is hosting a summit in Seoul on September 9-10, seeking to establish a blueprint for the responsible military use of AI; 90+ countries are attending &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240909/p1#a240909p1)<!-- TECH:END -->
+ - [I got hate for not using the S Pen on my Galaxy S24 Ultra, so I used it for a few weeks](https://www.androidauthority.com/s-pen-features-3478670/)
+ - [An interview with Iconiq Capital&#39;s Matthew Jacobson on the firm&#39;s focus on M&amp;A and secondary markets, investing in startups creating AI &quot;applications&quot;, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240909/p3#a240909p3)
+ - [7 AI Tricks for Work Productivity That You Should Try and 1 You Shouldn&#39;t](https://www.cnet.com/tech/services-and-software/7-ai-tricks-for-work-productivity-that-you-should-try-and-1-you-shouldnt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
