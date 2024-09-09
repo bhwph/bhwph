@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imma watch it them](http://9gag.com/gag/a1mKEe2)
- - 😝 [New fear unlocked](http://9gag.com/gag/aKGDYN1)
- - 👉 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)<!-- MEMES:END -->
+ - 6️⃣ [What do you use?](http://9gag.com/gag/a34Myom)
+ - 😝 [Imma watch it them](http://9gag.com/gag/a1mKEe2)
+ - 👉 [New fear unlocked](http://9gag.com/gag/aKGDYN1)<!-- MEMES:END -->
 
 --- 
 
