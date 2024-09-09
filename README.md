@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, September 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-9-2024)
- - [Five new Steam games you probably missed &lpar;September 9, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-9-2024)
- - [This horny cyberpunk vampire RPG has already hit its goal on Kickstarter](https://www.pcgamer.com/games/rpg/this-horny-cyberpunk-vampire-rpg-has-already-hit-its-goal-on-kickstarter)<!-- GAME:END -->
+ - [The best Space Marine 2 weapons and how to upgrade them](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-best-weapons-tier-list)
+ - [Space Marine 2 classes explained and best class overall](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-classes-best-class)
+ - [10 Space Marine 2 tips to turn yourself into a flawless killing machine](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-tips-and-tricks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
