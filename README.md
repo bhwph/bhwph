@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I got hate for not using the S Pen on my Galaxy S24 Ultra, so I used it for a few weeks](https://www.androidauthority.com/s-pen-features-3478670/)
- - [An interview with Iconiq Capital&#39;s Matthew Jacobson on the firm&#39;s focus on M&amp;A and secondary markets, investing in startups creating AI &quot;applications&quot;, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240909/p3#a240909p3)
- - [7 AI Tricks for Work Productivity That You Should Try and 1 You Shouldn&#39;t](https://www.cnet.com/tech/services-and-software/7-ai-tricks-for-work-productivity-that-you-should-try-and-1-you-shouldnt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [11,000mAh and 120W fast charging mean this beast of a phone can top up in 45 minutes](https://www.androidauthority.com/oukitel-wp30-11000mah-120w-3479584/)
+ - [Apple is not expecting an iPhone 16 upgrade super cycle, says analyst](https://appleinsider.com/articles/24/09/09/apple-is-not-expecting-an-iphone-16-upgrade-super-cycle-says-analyst?utm_medium=rss)
+ - [A writer on working for a tech company, writing pretend responses to hypothetical chatbot questions, to help train AI models and teach chatbots how to write &lpar;Jack Apollo George/The Guardian&rpar;](http://www.techmeme.com/240909/p4#a240909p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
