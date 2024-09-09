@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In 1961, eleven year old Terry Jo Dupperault was discovered floating out at sea near the Bahamas, leading to the catch of her family&#39;s murder.](http://9gag.com/gag/ae9e2Zm)
- - 😝 [Easy money](http://9gag.com/gag/aE0BOdo)
- - 👉 [-Help me, gymbro!](http://9gag.com/gag/a7oDpB2)<!-- MEMES:END -->
+ - 6️⃣ [Update. I&#39;ve now lost 112kg. For me, it took surgeries, hard work, and more surgeries. But it&#39;s all actually possible. Now mock me, you beautiful c*nts.](http://9gag.com/gag/aRBjopq)
+ - 😝 [Just a regular bike](http://9gag.com/gag/amo2pej)
+ - 👉 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)<!-- MEMES:END -->
 
 --- 
 
