@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
- - 😝 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
- - 👉 [Easy money](http://9gag.com/gag/aE0BOdo)<!-- MEMES:END -->
+ - 6️⃣ [Me or this white rock?](http://9gag.com/gag/aO8B1Zy)
+ - 😝 [Run it Crysis can](http://9gag.com/gag/ae9e7yp)
+ - 👉 [The snow outside your window!](http://9gag.com/gag/abAzQ6E)<!-- MEMES:END -->
 
 --- 
 
