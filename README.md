@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
- - 😝 [Weird religion](http://9gag.com/gag/a5Qn2QG)
- - 👉 [Imma watch it them](http://9gag.com/gag/a1mKEe2)<!-- MEMES:END -->
+ - 6️⃣ [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
+ - 😝 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
+ - 👉 [Easy money](http://9gag.com/gag/aE0BOdo)<!-- MEMES:END -->
 
 --- 
 
