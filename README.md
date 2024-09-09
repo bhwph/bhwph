@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Observatory is Apple Park&#39;s picturesque new event space](https://appleinsider.com/articles/24/09/09/the-observatory-is-apple-parks-picturesque-new-event-space?utm_medium=rss)
- - [IFA 2024: The best smart home, Find My, and Qi2 devices to debut](https://appleinsider.com/articles/24/09/09/ifa-2024-the-best-smart-home-find-my-and-qi2-devices-to-debut?utm_medium=rss)
- - [Anthropic’s Mike Krieger wants to build AI products that are worth the hype](https://www.theverge.com/24237562/anthropic-mike-krieger-claude-ai-chatbot-artifact-web-decoder-podcast-interview)<!-- TECH:END -->
+ - [Sony could finally take the wraps off the PS5 Pro tomorrow, and you can tune in here](https://www.androidauthority.com/sony-ps5-pro-technical-presentation-announcement-3479987/)
+ - [What to Expect in the Trump-Harris Presidential Debate and How to Watch It](https://www.wired.com/story/what-to-expect-trump-harris-presidential-debate-how-to-watch/)
+ - [Automation and IT monitoring company Progress agrees to acquire Raleigh-based file management platform ShareFile for $875M in cash and credit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240909/p11#a240909p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
