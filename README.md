@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me or this white rock?](http://9gag.com/gag/aO8B1Zy)
- - 😝 [Run it Crysis can](http://9gag.com/gag/ae9e7yp)
- - 👉 [The snow outside your window!](http://9gag.com/gag/abAzQ6E)<!-- MEMES:END -->
+ - 6️⃣ [In 1961, eleven year old Terry Jo Dupperault was discovered floating out at sea near the Bahamas, leading to the catch of her family&#39;s murder.](http://9gag.com/gag/ae9e2Zm)
+ - 😝 [Easy money](http://9gag.com/gag/aE0BOdo)
+ - 👉 [-Help me, gymbro!](http://9gag.com/gag/a7oDpB2)<!-- MEMES:END -->
 
 --- 
 
