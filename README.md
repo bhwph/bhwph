@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A new emotion.](http://9gag.com/gag/abAzxwb)
- - 😝 [I guess it pays to be him](http://9gag.com/gag/a6ZVBGb)
- - 👉 [Easy money](http://9gag.com/gag/aE0BOdo)<!-- MEMES:END -->
+ - 6️⃣ [Imma watch it them](http://9gag.com/gag/a1mKEe2)
+ - 😝 [What do you use?](http://9gag.com/gag/a34Myom)
+ - 👉 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)<!-- MEMES:END -->
 
 --- 
 
