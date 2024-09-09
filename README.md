@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Month without alcohol](http://9gag.com/gag/aBy8XbA)
- - 😝 [If you look closely, you can see that the dinosaurs aren\u2019t real although we need a Scottish rendition of Jurassic Park.](http://9gag.com/gag/a5Qn20L)
- - 👉 [Accurate](http://9gag.com/gag/aKGDYeQ)<!-- MEMES:END -->
+ - 6️⃣ [How fast do neutron stars rotate](http://9gag.com/gag/a5QnGzy)
+ - 😝 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
+ - 👉 [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)<!-- MEMES:END -->
 
 --- 
 
