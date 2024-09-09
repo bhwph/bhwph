@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [11,000mAh and 120W fast charging mean this beast of a phone can top up in 45 minutes](https://www.androidauthority.com/oukitel-wp30-11000mah-120w-3479584/)
- - [Apple is not expecting an iPhone 16 upgrade super cycle, says analyst](https://appleinsider.com/articles/24/09/09/apple-is-not-expecting-an-iphone-16-upgrade-super-cycle-says-analyst?utm_medium=rss)
- - [A writer on working for a tech company, writing pretend responses to hypothetical chatbot questions, to help train AI models and teach chatbots how to write &lpar;Jack Apollo George/The Guardian&rpar;](http://www.techmeme.com/240909/p4#a240909p4)<!-- TECH:END -->
+ - [Miami-based finally, which offers bookkeeping, accounting, and finance tools for SMBs, raised a $50M Series B from PeakSpan and a $150M credit line &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240909/p7#a240909p7)
+ - [Sources: Japanese chip startup Rapidus seeks to raise ~$696M from existing and new investors by issuing new shares to finance its chip development efforts &lpar;Taro Fuse/Bloomberg&rpar;](http://www.techmeme.com/240909/p6#a240909p6)
+ - [Apple Intelligence&#39;s Image Playground, Genmoji delayed until iOS 18.2](https://appleinsider.com/articles/24/09/08/apple-intelligences-image-playground-genmoji-to-wait-until-ios-182?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
