@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AirPods 4 launched: You’re gonna see these two models a lot](https://www.androidauthority.com/apple-headphones-earbuds-announcement-3479983/)
- - [The AirPods Pro 2 will soon double as hearing aids](https://www.theverge.com/2024/9/9/24236881/apple-airpods-pro-second-gen-hearing-aid-protection-features-update)
- - [iPhone 16, iPhone 16 Plus launched: Apple Intelligence and a cool camera button](https://www.androidauthority.com/apple-iphone-16-iphone-16-plus-3479799/)<!-- TECH:END -->
+ - [iPhone 16 Pro gets bigger and better with improved cameras and Apple Intelligence](https://appleinsider.com/articles/24/09/09/apples-new-iphone-16-pro-and-pro-max-are-bigger-and-better?utm_medium=rss)
+ - [Apple discontinues FineWoven iPhone cases, introduced last year to replace leather cases, and emphasizes its Clear and Silicone cases for the iPhone 16 lineup &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240909/p27#a240909p27)
+ - [Here’s our first look at the iPhone 16 and 16 Plus](https://www.theverge.com/24237940/iphone-16-hands-on-pictures-price-features-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
