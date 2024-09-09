@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate Sega Dreamcast&amp;#8217;s 25th birthday with new must-have merch from Limited Run](https://www.polygon.com/pre-order/449460/sega-dreamcast-25-anniversary-limited-run-merch)
- - [World Of Warcraft: The War Within: The Kotaku Review](https://kotaku.com/wow-war-within-review-expansion-is-it-good-1851643832)
- - [Sony Reveals Surprise 9-Minute Tech Showcase For What Sounds Like A PS5 Pro [Update: Yup]](https://kotaku.com/ps5-pro-sony-showcase-mark-cerny-price-release-date-1851643308)<!-- GAME:END -->
+ - [All ‘Free Big Brother!’ bots and puzzle pieces in Astro Bot](https://www.polygon.com/astro-bot-guides/449393/free-big-brother-all-bots-puzzle-pieces-collectables-locations)
+ - [All ‘Trapped In Time’ bots and puzzle pieces in Astro Bot](https://www.polygon.com/astro-bot-guides/449482/trapped-in-time-bots-puzzle-pieces-collectables-locations)
+ - [The new Mobile Gaming Show will be broadcast on September 26](https://www.pcgamer.com/games/the-new-mobile-gaming-show-will-be-broadcast-on-september-26)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
