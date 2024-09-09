@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung and SK Hynix spend billions more on DRAM production to feed the never-ending hunger for AI servers](https://www.pcgamer.com/hardware/memory/samsung-and-sk-hynix-spend-billions-more-on-dram-production-to-feed-the-never-ending-hunger-for-ai-servers)
- - [Sony makes a personal heatsink for the back of your neck and it&#39;s got a toasty-looking warming option, too](https://www.pcgamer.com/hardware/sony-makes-a-personal-heatsink-for-the-back-of-your-neck-and-its-got-a-toasty-looking-warming-option-too)
- - [Deadpool &amp;#038; Wolverine bids farewell to the experimental superhero movie era](https://www.polygon.com/analysis/449126/deadpool-wolverine-future-of-mcu-dcu-superhero-movies)<!-- GAME:END -->
+ - [Last chance to grab this seven-game Yakuza bundle for 70% off](https://www.polygon.com/good-deals/443977/yakuza-complete-series-sale-kiyru-0-kiwami-gog)
+ - [Astro Bot Has One Level That Puts Mario To Shame](https://kotaku.com/astro-bot-downsize-surprise-level-nintendo-mario-1851643385)
+ - [A book with names from a 340,000-player TF2 petition has been hardbound and sent to Valve, as part of the #SaveTF2 campaign](https://www.pcgamer.com/games/fps/a-book-with-names-from-a-340-000-player-strong-tf2-petition-has-been-hardbound-and-sent-to-valve-as-part-of-the-savetf2-campaign)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
