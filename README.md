@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Miami-based finally, which offers bookkeeping, accounting, and finance tools for SMBs, raised a $50M Series B from PeakSpan and a $150M credit line &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240909/p7#a240909p7)
- - [Sources: Japanese chip startup Rapidus seeks to raise ~$696M from existing and new investors by issuing new shares to finance its chip development efforts &lpar;Taro Fuse/Bloomberg&rpar;](http://www.techmeme.com/240909/p6#a240909p6)
- - [Apple Intelligence&#39;s Image Playground, Genmoji delayed until iOS 18.2](https://appleinsider.com/articles/24/09/08/apple-intelligences-image-playground-genmoji-to-wait-until-ios-182?utm_medium=rss)<!-- TECH:END -->
+ - [The Observatory is Apple Park&#39;s picturesque new event space](https://appleinsider.com/articles/24/09/09/the-observatory-is-apple-parks-picturesque-new-event-space?utm_medium=rss)
+ - [IFA 2024: The best smart home, Find My, and Qi2 devices to debut](https://appleinsider.com/articles/24/09/09/ifa-2024-the-best-smart-home-find-my-and-qi2-devices-to-debut?utm_medium=rss)
+ - [Anthropic’s Mike Krieger wants to build AI products that are worth the hype](https://www.theverge.com/24237562/anthropic-mike-krieger-claude-ai-chatbot-artifact-web-decoder-podcast-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
