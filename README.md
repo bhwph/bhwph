@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Space Marine 2 weapons and how to upgrade them](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-best-weapons-tier-list)
- - [Space Marine 2 classes explained and best class overall](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-classes-best-class)
- - [10 Space Marine 2 tips to turn yourself into a flawless killing machine](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-tips-and-tricks)<!-- GAME:END -->
+ - [10 Soulslike &lpar;And Not So Soulslike&rpar; Games To Play After Black Myth: Wukong](https://kotaku.com/god-of-war-elden-ring-games-like-black-myth-wukong-1851642869)
+ - [7 Things To Know Before Starting Astro Bot](https://kotaku.com/astro-bot-tips-guides-collectibles-photo-mode-1851642300)
+ - [The best Space Marine 2 PvP Builds](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-pvp-builds)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
