@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Update. I&#39;ve now lost 112kg. For me, it took surgeries, hard work, and more surgeries. But it&#39;s all actually possible. Now mock me, you beautiful c*nts.](http://9gag.com/gag/aRBjopq)
- - 😝 [Just a regular bike](http://9gag.com/gag/amo2pej)
+ - 😝 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
  - 👉 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)<!-- MEMES:END -->
 
 --- 
