@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro gets bigger and better with improved cameras and Apple Intelligence](https://appleinsider.com/articles/24/09/09/apples-new-iphone-16-pro-and-pro-max-are-bigger-and-better?utm_medium=rss)
- - [Apple discontinues FineWoven iPhone cases, introduced last year to replace leather cases, and emphasizes its Clear and Silicone cases for the iPhone 16 lineup &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240909/p27#a240909p27)
- - [Here’s our first look at the iPhone 16 and 16 Plus](https://www.theverge.com/24237940/iphone-16-hands-on-pictures-price-features-apple)<!-- TECH:END -->
+ - [Google Pixel Watch 3 review: solid battery life, improved display, and comprehensive health-tracking features, but slightly bulky with some software quirks &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240909/p33#a240909p33)
+ - [Samsung’s attempt to troll Apple for lazy designs immediately backfires](https://www.androidauthority.com/samsung-criticize-apple-3480262/)
+ - [James Earl Jones, voice of Darth Vader, has died at 93](https://www.theverge.com/2024/9/9/24240301/james-earl-jones-darth-vader-voice-died)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
