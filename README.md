@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Soulslike &lpar;And Not So Soulslike&rpar; Games To Play After Black Myth: Wukong](https://kotaku.com/god-of-war-elden-ring-games-like-black-myth-wukong-1851642869)
- - [7 Things To Know Before Starting Astro Bot](https://kotaku.com/astro-bot-tips-guides-collectibles-photo-mode-1851642300)
- - [The best Space Marine 2 PvP Builds](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-pvp-builds)<!-- GAME:END -->
+ - [Samsung and SK Hynix spend billions more on DRAM production to feed the never-ending hunger for AI servers](https://www.pcgamer.com/hardware/memory/samsung-and-sk-hynix-spend-billions-more-on-dram-production-to-feed-the-never-ending-hunger-for-ai-servers)
+ - [Sony makes a personal heatsink for the back of your neck and it&#39;s got a toasty-looking warming option, too](https://www.pcgamer.com/hardware/sony-makes-a-personal-heatsink-for-the-back-of-your-neck-and-its-got-a-toasty-looking-warming-option-too)
+ - [Deadpool &amp;#038; Wolverine bids farewell to the experimental superhero movie era](https://www.polygon.com/analysis/449126/deadpool-wolverine-future-of-mcu-dcu-superhero-movies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
