@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Imma watch it them](http://9gag.com/gag/a1mKEe2)
- - 😝 [What do you use?](http://9gag.com/gag/a34Myom)
- - 👉 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)<!-- MEMES:END -->
+ - 😝 [New fear unlocked](http://9gag.com/gag/aKGDYN1)
+ - 👉 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)<!-- MEMES:END -->
 
 --- 
 
