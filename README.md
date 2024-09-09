@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Honkai: Star Rail 2.5 release?](https://www.polygon.com/honkai-star-rail-guides/448932/patch-2-5-release-time-maintenance-end)
- - [Stealth strategy takes a particularly demonic bent with this game of commando scientists vs Nazi occultists](https://www.pcgamer.com/games/stealth-strategy-takes-a-particularly-demonic-bent-with-this-game-of-commando-scientists-vs-nazi-occultists)
- - [It only took two days for someone to unlock a developer mode in Baldur&#39;s Gate 3&#39;s modding tools, opening up the possibility of custom levels and campaigns](https://www.pcgamer.com/games/baldurs-gate/it-only-took-two-days-for-someone-to-unlock-a-developer-mode-in-baldur-s-gate-3-s-mod-toolset-opening-up-the-possibility-of-custom-levels-and-campaigns)<!-- GAME:END -->
+ - [This horny cyberpunk vampire RPG has already hit its goal on Kickstarter](https://www.pcgamer.com/games/rpg/this-horny-cyberpunk-vampire-rpg-has-already-hit-its-goal-on-kickstarter)
+ - [I was always mod-skeptical with Baldur&#39;s Gate 3, but being able to install them with one click has completely changed my mind](https://www.pcgamer.com/games/baldurs-gate/i-was-always-mod-skeptical-with-baldur-s-gate-3-but-being-able-to-install-them-with-one-click-has-completely-changed-my-mind)
+ - [What time does Honkai: Star Rail 2.5 release?](https://www.polygon.com/honkai-star-rail-guides/448932/patch-2-5-release-time-maintenance-end)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
