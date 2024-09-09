@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How fast do neutron stars rotate](http://9gag.com/gag/a5QnGzy)
- - 😝 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
- - 👉 [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)<!-- MEMES:END -->
+ - 6️⃣ [A new emotion.](http://9gag.com/gag/abAzxwb)
+ - 😝 [I guess it pays to be him](http://9gag.com/gag/a6ZVBGb)
+ - 👉 [Easy money](http://9gag.com/gag/aE0BOdo)<!-- MEMES:END -->
 
 --- 
 
