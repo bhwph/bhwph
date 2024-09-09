@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
- - 😝 [Quishing](http://9gag.com/gag/agmY4m1)
- - 👉 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)<!-- MEMES:END -->
+ - 6️⃣ [Month without alcohol](http://9gag.com/gag/aBy8XbA)
+ - 😝 [If you look closely, you can see that the dinosaurs aren\u2019t real although we need a Scottish rendition of Jurassic Park.](http://9gag.com/gag/a5Qn20L)
+ - 👉 [Accurate](http://9gag.com/gag/aKGDYeQ)<!-- MEMES:END -->
 
 --- 
 
