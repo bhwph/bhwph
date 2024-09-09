@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Last chance to grab this seven-game Yakuza bundle for 70% off](https://www.polygon.com/good-deals/443977/yakuza-complete-series-sale-kiyru-0-kiwami-gog)
- - [Astro Bot Has One Level That Puts Mario To Shame](https://kotaku.com/astro-bot-downsize-surprise-level-nintendo-mario-1851643385)
- - [A book with names from a 340,000-player TF2 petition has been hardbound and sent to Valve, as part of the #SaveTF2 campaign](https://www.pcgamer.com/games/fps/a-book-with-names-from-a-340-000-player-strong-tf2-petition-has-been-hardbound-and-sent-to-valve-as-part-of-the-savetf2-campaign)<!-- GAME:END -->
+ - [Destiny 2 is abandoning big annual expansions and linear campaigns in favour of more frequent releases that are &#39;mysterious, weird, and not afraid to try new things&#39;](https://www.pcgamer.com/games/fps/destiny-2-is-abandoning-big-annual-expansions-and-linear-campaigns-in-favour-of-more-frequent-releases-that-are-mysterious-weird-and-not-afraid-to-try-new-things)
+ - [Astro Bot Has An Amazing Uncharted Level, With A Bunch Of Secret Eggs](https://kotaku.com/astro-bot-has-an-amazing-uncharted-level-with-a-bunch-1851643485)
+ - [Literal rock star tells Rockstar &#39;go f*** yourself&#39; over measly GTA 6 offer](https://www.pcgamer.com/games/grand-theft-auto/literal-rock-star-tells-rockstar-go-f-yourself-over-measly-gta-6-offer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
