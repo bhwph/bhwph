@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony could finally take the wraps off the PS5 Pro tomorrow, and you can tune in here](https://www.androidauthority.com/sony-ps5-pro-technical-presentation-announcement-3479987/)
- - [What to Expect in the Trump-Harris Presidential Debate and How to Watch It](https://www.wired.com/story/what-to-expect-trump-harris-presidential-debate-how-to-watch/)
- - [Automation and IT monitoring company Progress agrees to acquire Raleigh-based file management platform ShareFile for $875M in cash and credit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240909/p11#a240909p11)<!-- TECH:END -->
+ - [Apple AirPods 4 launched: You’re gonna see these two models a lot](https://www.androidauthority.com/apple-headphones-earbuds-announcement-3479983/)
+ - [The AirPods Pro 2 will soon double as hearing aids](https://www.theverge.com/2024/9/9/24236881/apple-airpods-pro-second-gen-hearing-aid-protection-features-update)
+ - [iPhone 16, iPhone 16 Plus launched: Apple Intelligence and a cool camera button](https://www.androidauthority.com/apple-iphone-16-iphone-16-plus-3479799/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
