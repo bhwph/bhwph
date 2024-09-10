@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 player achieves &#39;infinite damage&#39; by hitting so hard the game gives up on doing math](https://www.pcgamer.com/games/rpg/diablo-4-player-achieves-infinite-damage-by-hitting-so-hard-the-game-gives-up-on-doing-the-math)
- - [Satisfactory breaks 100,000 concurrent players on Steam for the first time ever after its long-awaited 1.0 release](https://www.pcgamer.com/games/sim/satisfactory-breaks-100000-concurrent-players-on-steam-for-the-first-time-ever-after-its-long-awaited-10-release)
- - [Minecraft is retiring the yearly &lpar;and much-maligned&rpar; mob vote](https://www.polygon.com/news/449905/minecraft-retire-mob-vote)<!-- GAME:END -->
+ - [World of Warcraft launches the first season for The War Within](https://www.polygon.com/gaming/450151/world-warcraft-war-within-season-1-launch-nerubar-palace)
+ - [Honkai: Star Rail codes for September 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [After eating it for killing The Crew, Ubisoft promises to bring offline support to The Crew 2 and The Crew Motorfest](https://www.pcgamer.com/games/racing/after-eating-it-for-killing-the-crew-ubisoft-promises-to-bring-offline-support-to-the-crew-2-and-the-crew-motorfest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
