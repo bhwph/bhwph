@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Watch 3 review: solid battery life, improved display, and comprehensive health-tracking features, but slightly bulky with some software quirks &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240909/p33#a240909p33)
- - [Samsung’s attempt to troll Apple for lazy designs immediately backfires](https://www.androidauthority.com/samsung-criticize-apple-3480262/)
- - [James Earl Jones, voice of Darth Vader, has died at 93](https://www.theverge.com/2024/9/9/24240301/james-earl-jones-darth-vader-voice-died)<!-- TECH:END -->
+ - [iPhone 16 and iPhone 16 Plus: First Look video](https://www.cnet.com/videos/iphone-16-and-iphone-16-plus-first-look/#ftag=CAD590a51e)
+ - [James Earl Jones&#39; Darth Vader Has Already Been Immortalized With AI](https://www.wired.com/story/james-earl-jones-darth-vader-death-artificial-intelligence/)
+ - [iPhone 16 has a new Camera Control button -- Here&#39;s everything it can do](https://appleinsider.com/articles/24/09/10/iphone-16-has-a-new-camera-control-button----heres-everything-it-can-do?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
