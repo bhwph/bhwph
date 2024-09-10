@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Looks like a downgrade to me.](http://9gag.com/gag/aNDzqYK)
- - 😝 [Do you see what I see, my fellow degenerates?](http://9gag.com/gag/ary5Bny)
- - 👉 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)<!-- MEMES:END -->
+ - 6️⃣ [Confidence is key!](http://9gag.com/gag/abAz27X)
+ - 😝 [Have you noticed that climate emergency catastrophist goblin Greta Thunberg never criticizes polluting companies that aren\u2019t in the West? Interesting, isn\u2019t it?](http://9gag.com/gag/a4PGWp1)
+ - 👉 [They really did him dirty!](http://9gag.com/gag/aNDzRVv)<!-- MEMES:END -->
 
 --- 
 
