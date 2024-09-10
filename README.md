@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple blesses iPhone 16 users with more RAM, keeps USB speeds limited](https://www.androidauthority.com/iphone-16-more-ram-3480401/)
- - [Alibaba&#39;s stock rises 5%+ after being made directly accessible to mainland China investors for the first time, following an upgrade to Hong Kong primary listing &lpar;Financial Times&rpar;](http://www.techmeme.com/240910/p7#a240910p7)
- - [Apple Watch Series 10 vs Apple Watch Series 9: Should you upgrade?](https://www.androidauthority.com/apple-watch-series-10-vs-apple-watch-series-9-3479989/)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S10 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-tab-s10-3389280/)
+ - [South Korean police arrest two former Samsung officials on suspicion of stealing tech worth $3.2B+ to build a chipmaking plant in China &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240910/p9#a240910p9)
+ - [HMD’s latest Android phone reminded me of both Fairphone… and CMF?!](https://www.androidauthority.com/hmd-fusion-hands-on-fairphone-cmf-3479586/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
