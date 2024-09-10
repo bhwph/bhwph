@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PS5 Pro rumors and leaks: What we know so far about Sony’s next gaming console](https://www.androidauthority.com/sony-ps5-pro-3337407/)
- - [&#39;The Elder Scrolls: Castles&#39; now available on iPhone, Mac](https://appleinsider.com/articles/24/09/10/the-elder-scrolls-castles-now-available-on-iphone-mac?utm_medium=rss)
- - [Don&#39;t Buy an iPhone 16 Case Yet. Here&#39;s What to Look for First](https://www.cnet.com/tech/mobile/dont-buy-an-iphone-16-case-yet-heres-what-to-look-for-first/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An excerpt from the book Character Limit on Musk&#39;s acquisition of Twitter and how his inner circle employed hardball tactics in a touch-and-go transaction &lpar;Vanity Fair&rpar;](http://www.techmeme.com/240910/p2#a240910p2)
+ - [Crispr-Enhanced Viruses Are Being Deployed Against UTIs](https://www.wired.com/story/crispr-enhanced-viruses-are-being-deployed-against-utis/)
+ - [Samsung Galaxy Tab S10 price leak offers a pleasant surprise](https://www.androidauthority.com/samsung-galaxy-tab-s10-price-leak-3480337/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
