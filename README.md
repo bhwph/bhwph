@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The yearly Minecraft mob vote is dead, players celebrate the death of mob democracy](https://www.pcgamer.com/games/survival-crafting/the-yearly-minecraft-mob-vote-is-dead-players-celebrate-the-death-of-mob-democracy)
- - [The 25 best Nintendo Switch games](https://www.polygon.com/nintendo-switch/2018/9/4/17549714/best-nintendo-switch-games)
- - [Minecraft is ditching yearly summer updates in favor of smaller, more frequent ones: &#39;We know that you want new Minecraft content more often&#39;](https://www.pcgamer.com/games/survival-crafting/minecraft-is-ditching-yearly-summer-updates-in-favor-of-smaller-more-frequent-ones-we-know-that-you-want-new-minecraft-content-more-often)<!-- GAME:END -->
+ - [Diablo 4 player achieves &#39;infinite damage&#39; by hitting so hard the game gives up on doing math](https://www.pcgamer.com/games/rpg/diablo-4-player-achieves-infinite-damage-by-hitting-so-hard-the-game-gives-up-on-doing-the-math)
+ - [Satisfactory breaks 100,000 concurrent players on Steam for the first time ever after its long-awaited 1.0 release](https://www.pcgamer.com/games/sim/satisfactory-breaks-100000-concurrent-players-on-steam-for-the-first-time-ever-after-its-long-awaited-10-release)
+ - [Minecraft is retiring the yearly &lpar;and much-maligned&rpar; mob vote](https://www.polygon.com/news/449905/minecraft-retire-mob-vote)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
