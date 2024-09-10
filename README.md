@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Flawlessly executed prank](http://9gag.com/gag/axy0RWn)
- - 😝 [Bridge collapse in Vietnam &lpar;09/09/2024&rpar;](http://9gag.com/gag/amo2pd4)
- - 👉 [I know what I have to do now, but man I&#39;m crushed](http://9gag.com/gag/amo2Myy)<!-- MEMES:END -->
+ - 6️⃣ [Men are simple](http://9gag.com/gag/aGye2bn)
+ - 😝 [Cat sees his friend after a long time!](http://9gag.com/gag/a878V0Y)
+ - 👉 [Good bye Darth Vader R.I.P](http://9gag.com/gag/aAyDZnR)<!-- MEMES:END -->
 
 --- 
 
