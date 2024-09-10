@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S10 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-tab-s10-3389280/)
- - [South Korean police arrest two former Samsung officials on suspicion of stealing tech worth $3.2B+ to build a chipmaking plant in China &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240910/p9#a240910p9)
- - [HMD’s latest Android phone reminded me of both Fairphone… and CMF?!](https://www.androidauthority.com/hmd-fusion-hands-on-fairphone-cmf-3479586/)<!-- TECH:END -->
+ - [This 140W USB-C station with Qi2 and retractable cable is the most practical charger I’ve seen](https://www.androidauthority.com/baseus-nomos-5-in-1-140w-usb-c-qi2-charging-station-3479525/)
+ - [Qi2 is nice, but this genius trick makes it cooler by adding fans to the chargers](https://www.androidauthority.com/esr-qi2-magsafe-charger-cooling-fan-3479582/)
+ - [How to watch the first presidential debate between Harris and Trump](https://www.theverge.com/2024/9/10/24237704/presidential-debate-harris-trump-how-to-watch-streaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
