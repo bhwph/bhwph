@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Europe&#39;s top court orders Apple to fork over $14 billion in unpaid taxes to Ireland, even though the Irish tried to let the tech giant wriggle out of it](https://www.pcgamer.com/gaming-industry/europes-top-court-orders-apple-to-fork-over-dollar14-billion-in-unpaid-taxes-to-ireland-even-though-the-irish-tried-to-let-the-tech-giant-wriggle-out-of-it)
- - [After 5 years in early access, Satisfactory is finally out—here&#39;s what&#39;s new in 1.0](https://www.pcgamer.com/games/sim/after-5-years-in-early-access-satisfactory-is-finally-outheres-whats-new-in-10)
- - [Helldivers 2 heralds the flamethrower&#39;s return to its former glory, and will be releasing previews of its buff-filled September update every day until it drops](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-heralds-the-flamethrower-s-return-to-its-former-glory-and-will-be-releasing-previews-of-its-buff-filled-september-update-every-day)<!-- GAME:END -->
+ - [The yearly Minecraft mob vote is dead, players celebrate the death of mob democracy](https://www.pcgamer.com/games/survival-crafting/the-yearly-minecraft-mob-vote-is-dead-players-celebrate-the-death-of-mob-democracy)
+ - [The 25 best Nintendo Switch games](https://www.polygon.com/nintendo-switch/2018/9/4/17549714/best-nintendo-switch-games)
+ - [Minecraft is ditching yearly summer updates in favor of smaller, more frequent ones: &#39;We know that you want new Minecraft content more often&#39;](https://www.pcgamer.com/games/survival-crafting/minecraft-is-ditching-yearly-summer-updates-in-favor-of-smaller-more-frequent-ones-we-know-that-you-want-new-minecraft-content-more-often)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
