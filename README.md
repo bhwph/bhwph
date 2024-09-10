@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Men are simple](http://9gag.com/gag/aGye2bn)
- - 😝 [Cat sees his friend after a long time!](http://9gag.com/gag/a878V0Y)
- - 👉 [Good bye Darth Vader R.I.P](http://9gag.com/gag/aAyDZnR)<!-- MEMES:END -->
+ - 6️⃣ [Looks like a downgrade to me.](http://9gag.com/gag/aNDzqYK)
+ - 😝 [Do you see what I see, my fellow degenerates?](http://9gag.com/gag/ary5Bny)
+ - 👉 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)<!-- MEMES:END -->
 
 --- 
 
