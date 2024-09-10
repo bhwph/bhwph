@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources describe how Stripe was forced to scramble after its payments partnership with Wells Fargo ended and Goldman Sachs decided against taking up the role &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/240910/p22#a240910p22)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
- - [SolarEdge&#39;s Newest Residential Solar Battery Is a Big Step Up From Its Previous Model](https://www.cnet.com/home/energy-and-utilities/solaredges-newest-residential-solar-battery-is-a-big-step-up-from-its-previous-model/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Flipper Zero 1.0 firmware update supercharges the hacking handheld](https://www.theverge.com/2024/9/10/24241081/flipper-zero-1-0-major-firmware-update-2024)
+ - [Google plans to buy carbon removal credits from direct air capture provider Holocene for $100 per ton, far below current prices, for delivery by the early 2030s &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240910/p23#a240910p23)
+ - [ChatGPT is about to get a berry good upgrade very soon](https://www.androidauthority.com/chatgpt-strawberry-launch-september-3480750/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
