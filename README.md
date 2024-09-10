@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Dewpider be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/447739/can-dewpider-be-shiny-araquanid)
- - [Today&#39;s Wordle answer for Tuesday, September 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-10-2024)
- - [I played some Little Nightmares 3, and it&#39;s the best horror about being lost and tiny in an unfathomable hellscape since Little Nightmares 2](https://www.pcgamer.com/games/horror/i-played-some-little-nightmares-3-and-its-the-best-horror-about-being-lost-and-tiny-in-an-unfathomable-hellscape-since-little-nightmares-2)<!-- GAME:END -->
+ - [Notch thinks the Minecraft movie looks pretty neat, actually: &#39;I was expecting way worse&#39;](https://www.pcgamer.com/movies-tv/notch-thinks-the-minecraft-movie-looks-pretty-neat-actually-i-was-expecting-way-worse)
+ - [Watching Doom being played on a hologram-like volumetric display is like taking a peek at the future of gaming](https://www.pcgamer.com/hardware/watching-doom-being-played-on-a-hologram-like-volumetric-display-is-like-taking-a-peek-at-the-future-of-gaming)
+ - [Acer says it has &#39;no business relationship with the company&#39; that designed essentially the same handheld gaming PC 8 months prior](https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-says-it-has-no-business-relationship-with-the-company-that-designed-essentially-the-same-handheld-gaming-pc-8-months-prior)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
