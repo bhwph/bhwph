@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Confidence is key!](http://9gag.com/gag/abAz27X)
- - 😝 [Have you noticed that climate emergency catastrophist goblin Greta Thunberg never criticizes polluting companies that aren\u2019t in the West? Interesting, isn\u2019t it?](http://9gag.com/gag/a4PGWp1)
- - 👉 [They really did him dirty!](http://9gag.com/gag/aNDzRVv)<!-- MEMES:END -->
+ - 6️⃣ [Swiss tourist agency never mentions this stuff...](http://9gag.com/gag/azxqZpx)
+ - 😝 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
+ - 👉 [Have you noticed that climate emergency catastrophist goblin Greta Thunberg never criticizes polluting companies that aren\u2019t in the West? Interesting, isn\u2019t it?](http://9gag.com/gag/a4PGWp1)<!-- MEMES:END -->
 
 --- 
 
