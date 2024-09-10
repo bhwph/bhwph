@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Notch thinks the Minecraft movie looks pretty neat, actually: &#39;I was expecting way worse&#39;](https://www.pcgamer.com/movies-tv/notch-thinks-the-minecraft-movie-looks-pretty-neat-actually-i-was-expecting-way-worse)
- - [Watching Doom being played on a hologram-like volumetric display is like taking a peek at the future of gaming](https://www.pcgamer.com/hardware/watching-doom-being-played-on-a-hologram-like-volumetric-display-is-like-taking-a-peek-at-the-future-of-gaming)
- - [Acer says it has &#39;no business relationship with the company&#39; that designed essentially the same handheld gaming PC 8 months prior](https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-says-it-has-no-business-relationship-with-the-company-that-designed-essentially-the-same-handheld-gaming-pc-8-months-prior)<!-- GAME:END -->
+ - [Mortal Kombat 1: Khaos Reigns — unleashing Sektor’s vicious new Brutality](https://blog.playstation.com/2024/09/10/mortal-kombat-1-khaos-reigns-unleashing-sektors-vicious-new-brutality/)
+ - [Mortal Kombat 1: Khaos Reigns — unleashing Sektor’s vicious new Brutality](https://blog.playstation.com/2024/09/10/mortal-kombat-1-khaos-reigns-unleashing-sektors-vicious-new-brutality/)
+ - [Persona 3 Reload and Episode Aigis The Answer: A Deeply Personal Journey](https://news.xbox.com/en-us/2024/09/10/persona-3-reload-episode-aigis-the-answer-dlc/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
