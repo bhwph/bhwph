@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Honesty is a quality of good people. No matter where you come from, what you believe in or how much money you have](http://9gag.com/gag/aAyD2mp)
+ - 6️⃣ [Flawlessly executed prank](http://9gag.com/gag/axy0RWn)
  - 😝 [Bridge collapse in Vietnam &lpar;09/09/2024&rpar;](http://9gag.com/gag/amo2pd4)
- - 👉 [Taking off bra at the end of day](http://9gag.com/gag/aPA9ryG)<!-- MEMES:END -->
+ - 👉 [I know what I have to do now, but man I&#39;m crushed](http://9gag.com/gag/amo2Myy)<!-- MEMES:END -->
 
 --- 
 
