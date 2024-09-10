@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mortal Kombat 1: Khaos Reigns — unleashing Sektor’s vicious new Brutality](https://blog.playstation.com/2024/09/10/mortal-kombat-1-khaos-reigns-unleashing-sektors-vicious-new-brutality/)
- - [Mortal Kombat 1: Khaos Reigns — unleashing Sektor’s vicious new Brutality](https://blog.playstation.com/2024/09/10/mortal-kombat-1-khaos-reigns-unleashing-sektors-vicious-new-brutality/)
- - [Persona 3 Reload and Episode Aigis The Answer: A Deeply Personal Journey](https://news.xbox.com/en-us/2024/09/10/persona-3-reload-episode-aigis-the-answer-dlc/)<!-- GAME:END -->
+ - [Europe&#39;s top court orders Apple to fork over $14 billion in unpaid taxes to Ireland, even though the Irish tried to let the tech giant wriggle out of it](https://www.pcgamer.com/gaming-industry/europes-top-court-orders-apple-to-fork-over-dollar14-billion-in-unpaid-taxes-to-ireland-even-though-the-irish-tried-to-let-the-tech-giant-wriggle-out-of-it)
+ - [After 5 years in early access, Satisfactory is finally out—here&#39;s what&#39;s new in 1.0](https://www.pcgamer.com/games/sim/after-5-years-in-early-access-satisfactory-is-finally-outheres-whats-new-in-10)
+ - [Helldivers 2 heralds the flamethrower&#39;s return to its former glory, and will be releasing previews of its buff-filled September update every day until it drops](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-heralds-the-flamethrower-s-return-to-its-former-glory-and-will-be-releasing-previews-of-its-buff-filled-september-update-every-day)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
