@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Life of Chuck dances through the end of the world](https://www.theverge.com/24241044/the-life-of-chuck-review-tiff-stephen-king-mike-flanagan)
- - [What to do before you trade in your old iPhone for an iPhone 16](https://appleinsider.com/inside/iphone/tips/what-to-do-before-you-trade-in-your-old-iphone-for-an-iphone-16?utm_medium=rss)
- - [Waymo: its cars in Phoenix and SF had 48% fewer crashes/mile than humans and 73% fewer injury-causing ones; humans rear-ended Waymos in 16 of the 23 worst ones &lpar;Timothy B Lee/Understanding AI&rpar;](http://www.techmeme.com/240910/p19#a240910p19)<!-- TECH:END -->
+ - [Sources describe how Stripe was forced to scramble after its payments partnership with Wells Fargo ended and Goldman Sachs decided against taking up the role &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/240910/p22#a240910p22)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
+ - [SolarEdge&#39;s Newest Residential Solar Battery Is a Big Step Up From Its Previous Model](https://www.cnet.com/home/energy-and-utilities/solaredges-newest-residential-solar-battery-is-a-big-step-up-from-its-previous-model/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
