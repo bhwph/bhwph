@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Exstreamly Large Alligator](http://9gag.com/gag/a6ZV2BL)
- - 😝 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
- - 👉 [A highschool lesson about how to pick up and carry a wounded person, Vietnam](http://9gag.com/gag/aLn8Xmv)<!-- MEMES:END -->
+ - 6️⃣ [Audience member has seizure in the front row and bro didn&#39;t even hesitate](http://9gag.com/gag/azxq42Z)
+ - 😝 [Cat sees his friend after a long time!](http://9gag.com/gag/a878V0Y)
+ - 👉 [Men are simple](http://9gag.com/gag/aGye2bn)<!-- MEMES:END -->
 
 --- 
 
