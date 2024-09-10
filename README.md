@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google loses its bid to reverse a &amp;euro;2.4B EU fine for abusing its monopoly power to crush rival shopping services, as EU&#39;s Court of Justice backs a 2017 decision &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240910/p4#a240910p4)
- - [The European Court of Justice rules against Apple over a record &amp;euro;13B Irish tax bill, backing a landmark decision from 2016 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240910/p3#a240910p3)
- - [SpaceX’s historic Polaris Dawn mission: how to watch the launch](https://www.theverge.com/2024/8/26/24228803/spacex-polaris-dawn-mission-launch-date-time-watch-live)<!-- TECH:END -->
+ - [Apple blesses iPhone 16 users with more RAM, keeps USB speeds limited](https://www.androidauthority.com/iphone-16-more-ram-3480401/)
+ - [Alibaba&#39;s stock rises 5%+ after being made directly accessible to mainland China investors for the first time, following an upgrade to Hong Kong primary listing &lpar;Financial Times&rpar;](http://www.techmeme.com/240910/p7#a240910p7)
+ - [Apple Watch Series 10 vs Apple Watch Series 9: Should you upgrade?](https://www.androidauthority.com/apple-watch-series-10-vs-apple-watch-series-9-3479989/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
