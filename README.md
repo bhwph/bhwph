@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This 140W USB-C station with Qi2 and retractable cable is the most practical charger I’ve seen](https://www.androidauthority.com/baseus-nomos-5-in-1-140w-usb-c-qi2-charging-station-3479525/)
- - [Qi2 is nice, but this genius trick makes it cooler by adding fans to the chargers](https://www.androidauthority.com/esr-qi2-magsafe-charger-cooling-fan-3479582/)
- - [How to watch the first presidential debate between Harris and Trump](https://www.theverge.com/2024/9/10/24237704/presidential-debate-harris-trump-how-to-watch-streaming)<!-- TECH:END -->
+ - [Nearly 40 states back surgeon general’s social media warning labels](https://www.theverge.com/2024/9/10/24240920/state-ags-back-surgeon-general-social-media-warning-labels)
+ - [Samsung Galaxy S25 Ultra renders take a page from Sony’s design book](https://www.androidauthority.com/galaxy-s25-ultra-renders-3480571/)
+ - [All the carriers that will give you an iPhone 16 for free](https://www.androidauthority.com/free-iphone-16-3480066/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
