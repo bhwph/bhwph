@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nearly 40 states back surgeon general’s social media warning labels](https://www.theverge.com/2024/9/10/24240920/state-ags-back-surgeon-general-social-media-warning-labels)
- - [Samsung Galaxy S25 Ultra renders take a page from Sony’s design book](https://www.androidauthority.com/galaxy-s25-ultra-renders-3480571/)
- - [All the carriers that will give you an iPhone 16 for free](https://www.androidauthority.com/free-iphone-16-3480066/)<!-- TECH:END -->
+ - [The Life of Chuck dances through the end of the world](https://www.theverge.com/24241044/the-life-of-chuck-review-tiff-stephen-king-mike-flanagan)
+ - [What to do before you trade in your old iPhone for an iPhone 16](https://appleinsider.com/inside/iphone/tips/what-to-do-before-you-trade-in-your-old-iphone-for-an-iphone-16?utm_medium=rss)
+ - [Waymo: its cars in Phoenix and SF had 48% fewer crashes/mile than humans and 73% fewer injury-causing ones; humans rear-ended Waymos in 16 of the 23 worst ones &lpar;Timothy B Lee/Understanding AI&rpar;](http://www.techmeme.com/240910/p19#a240910p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
