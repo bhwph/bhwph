@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Blue lagoon boat tour](http://9gag.com/gag/aO8BPPv)
- - 😝 [This aged poorly](http://9gag.com/gag/aD2zVYN)
+ - 6️⃣ [Honesty is a quality of good people. No matter where you come from, what you believe in or how much money you have](http://9gag.com/gag/aAyD2mp)
+ - 😝 [Bridge collapse in Vietnam &lpar;09/09/2024&rpar;](http://9gag.com/gag/amo2pd4)
  - 👉 [Taking off bra at the end of day](http://9gag.com/gag/aPA9ryG)<!-- MEMES:END -->
 
 --- 
