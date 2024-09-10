@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Audience member has seizure in the front row and bro didn&#39;t even hesitate](http://9gag.com/gag/azxq42Z)
- - 😝 [Cat sees his friend after a long time!](http://9gag.com/gag/a878V0Y)
- - 👉 [Men are simple](http://9gag.com/gag/aGye2bn)<!-- MEMES:END -->
+ - 6️⃣ [Blue lagoon boat tour](http://9gag.com/gag/aO8BPPv)
+ - 😝 [This aged poorly](http://9gag.com/gag/aD2zVYN)
+ - 👉 [Taking off bra at the end of day](http://9gag.com/gag/aPA9ryG)<!-- MEMES:END -->
 
 --- 
 
