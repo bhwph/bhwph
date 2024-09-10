@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
- - 😝 [Confidence is key!](http://9gag.com/gag/abAz27X)
+ - 6️⃣ [What does King Arthur use to see in the dark? Knight lights.](http://9gag.com/gag/aO8BjZ3)
+ - 😝 [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
  - 👉 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)<!-- MEMES:END -->
 
 --- 
