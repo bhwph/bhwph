@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: AirPods 4 vs AirPods Pro 2 -- ANC without ear tips could tip the scales](https://appleinsider.com/articles/24/09/09/compared-airpods-4-vs-airpods-pro-2----anc-without-ear-tips-could-tip-the-scales?utm_medium=rss)
- - [Wearable weigh-in -- Apple Watch Series 10 vs Apple Watch Series 9 compared](https://appleinsider.com/inside/apple-watch-series-10/vs/wearable-weigh-in----apple-watch-series-10-vs-apple-watch-series-9-compared?utm_medium=rss)
- - [The Broadway play about content moderation](https://www.theverge.com/2024/9/11/24241105/job-max-wolf-friedlich-interview-broadway-play)<!-- TECH:END -->
+ - [Google Search starts offering easy access to old versions of web pages](https://www.androidauthority.com/google-search-internet-archive-3480964/)
+ - [How to Back Up Your iPhone to iCloud, MacOS, or Windows &lpar;2024&rpar;](https://www.wired.com/story/how-to-backup-your-iphone/)
+ - [Adobe says generative AI features powered by its Firefly Video model will be available before the end of 2024 on the Premiere Pro beta app and on a free website &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240911/p16#a240911p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
