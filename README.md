@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Winner](http://9gag.com/gag/aLn8N1V)
- - 😝 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)
- - 👉 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)<!-- MEMES:END -->
+ - 6️⃣ [`They&#39;re eating the dogs. They&#39;re eating the cats. They&#39;re eating the pets.` - Former President Trump](http://9gag.com/gag/ayNxZR8)
+ - 😝 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)
+ - 👉 [Winner](http://9gag.com/gag/aLn8N1V)<!-- MEMES:END -->
 
 --- 
 
