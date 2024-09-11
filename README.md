@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After iPhone 16, at least two Android brands are working on camera buttons](https://www.androidauthority.com/iphone-16-android-camera-buttons-3480341/)
- - [CTIA: Americans used over 100T MB of wireless data in 2023, up 36% YoY, the largest single-year increase; the number of wireless connections rose 6% YoY to 558M &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240911/p4#a240911p4)
- - [In a memo to commemorate Alibaba&#39;s 25th anniversary, Jack Ma said the competition will make the company stronger, urging trust &quot;in the power of market forces&quot; &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240911/p3#a240911p3)<!-- TECH:END -->
+ - [The former CEO of Everyday Robotics, Alphabet&#39;s AI robotics moonshot that was shut down in January 2023, reflects on its start and efforts to give AI a body &lpar;Hans Peter Brondmo/Wired&rpar;](http://www.techmeme.com/240911/p6#a240911p6)
+ - [Samsung Galaxy S24 FE rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s24-fe-3440533/)
+ - [Samsung could pull a Pixel 9 and bring satellite support to S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-charging-speed-satellite-3480824/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
