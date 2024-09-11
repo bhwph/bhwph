@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
- - 😝 [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
- - 👉 [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)<!-- MEMES:END -->
+ - 6️⃣ [Let&#39;s all point and laugh](http://9gag.com/gag/aYQ4mO2)
+ - 😝 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)
+ - 👉 [Missing your cruise ship](http://9gag.com/gag/agmY6jW)<!-- MEMES:END -->
 
 --- 
 
