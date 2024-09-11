@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Preselection Rule](http://9gag.com/gag/abAzdpO)
- - 😝 [Let&#39;s all point and laugh](http://9gag.com/gag/aYQ4mO2)
- - 👉 [Anti theft measures](http://9gag.com/gag/aXPvK8D)<!-- MEMES:END -->
+ - 6️⃣ [Anyone remember this](http://9gag.com/gag/a9yAZ7m)
+ - 😝 [A normal dev team](http://9gag.com/gag/axy04LD)
+ - 👉 [Somewhere in Pakistan](http://9gag.com/gag/avy795W)<!-- MEMES:END -->
 
 --- 
 
