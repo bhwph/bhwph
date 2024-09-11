@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty: Modern Warfare 3, Diablo IV, Starfield And More Missing From Game Pass&#39; Newest Tier](https://kotaku.com/xbox-game-pass-standard-library-starfield-diablo-4-1851645117)
- - [My Old Ass dodges the usual time-travel movie problems, with good reason](https://www.polygon.com/movies/450370/my-old-ass-review-aubrey-plaza)
- - [Space Marine 2&#39;s First Big Update Will Add Private Lobbies, Ultrawide Support, And More](https://kotaku.com/space-marine-2-warhammer-40k-first-update-private-lobby-1851645793)<!-- GAME:END -->
+ - [New Xbox Friends and Followers Experience](https://news.xbox.com/en-us/2024/09/11/new-xbox-friends-and-followers-experience/)
+ - [Grab These Great Post-Apocalyptic Games On Sale And Learn How To Survive The End Days](https://kotaku.com/apocalypse-game-sale-fallout-dying-light-walking-dead-1851645992)
+ - [This Month&#39;s PS Plus Freebies Include Plucky Squire And Uh...Mister Mosquito](https://kotaku.com/ps-plus-premium-extra-games-september-plucky-squire-ps5-1851645955)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
