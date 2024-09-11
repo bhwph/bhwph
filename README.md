@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Somewhere in Pakistan](http://9gag.com/gag/avy795W)
- - 😝 [Thanks god. He carried auto revive.](http://9gag.com/gag/aNDzjvb)
- - 👉 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)<!-- MEMES:END -->
+ - 6️⃣ [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
+ - 😝 [Let&#39;s all point and laugh](http://9gag.com/gag/aYQ4mO2)
+ - 👉 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)<!-- MEMES:END -->
 
 --- 
 
