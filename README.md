@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Game And Movie Jokes About Last Night’s Presidential Debate](https://kotaku.com/presidential-debate-kamala-harris-donald-trump-jokes-1851646179)
- - [Glorious heralds its return with the launch of the GMMK 3 Hall Effect keyboard](https://www.polygon.com/deals/450038/glorious-gmmk-3-hall-effect-gaming-keyboard)
- - [Astro Bot&#39;s Earlier Game Astro&#39;s Playroom Now Has An Ape Escape Bot!](https://kotaku.com/astro-bot-playroom-ape-escape-bot-guide-1851645859)<!-- GAME:END -->
+ - [Sea of Thieves developer acknowledges harassment surge, promises fixes](https://www.polygon.com/gaming/450632/sea-of-thieves-security-harassment-hacking-rare-response)
+ - [Deadlock gives me the same feeling Dota 2 and Team Fortress 2 did before they consumed my life](https://www.pcgamer.com/games/moba/deadlock-gives-me-the-same-feeling-dota-2-and-team-fortress-2-did-before-they-consumed-my-life)
+ - [Payday 3&#39;s game director is stepping down after a hard first year for the heist game sequel](https://www.pcgamer.com/games/fps/payday-3s-game-director-is-stepping-down-after-a-hard-first-year-for-the-heist-game-sequel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
