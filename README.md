@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Need a charge? The Anker 747 150W Charger is 45% off!](https://www.androidauthority.com/anker-747-charger-deal-3481012/)
- - [Sources: OpenAI is in talks to raise $6.5B in equity financing at a $150B valuation and raise $5B in debt from banks in the form of a revolving credit facility &lpar;Bloomberg&rpar;](http://www.techmeme.com/240911/p19#a240911p19)
- - [AMD’s new Variable Graphics Memory lets laptop users reassign their RAM to gaming](https://www.theverge.com/2024/9/11/24242123/amd-variable-graphics-memory-afmf-2-strix-point-ai-300)<!-- TECH:END -->
+ - [Vancouver-based Spare, whose software helps transit agencies offer transport services based on riders&#39; own needs, raised a CA$42M Series B led by Inovia Capital &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/240911/p22#a240911p22)
+ - [Google Wallet is getting hungry for your cards, with work on bulk import tool &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-bulk-import-3481029/)
+ - [Google is using AI to make fake podcasts from your notes](https://www.theverge.com/2024/9/11/24242138/google-notebook-llm-ai-fake-podcasts-research)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
