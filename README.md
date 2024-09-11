@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ray tracing has taken its first steps at becoming the rendering norm for triple-A games but that just makes upscaling and frame generation a Hobson&#39;s choice](https://www.pcgamer.com/hardware/graphics-cards/ray-tracing-has-taken-its-first-steps-at-becoming-the-rendering-norm-for-triple-a-games-but-that-just-makes-upscaling-and-frame-generation-a-hobsons-choice)
- - [FromSoft hands out a mega-nerf to Shadow of the Erdtree&#39;s final boss, players begin printing their &#39;I beat him pre-patch&#39; t-shirts to lord it over the rest of us](https://www.pcgamer.com/games/rpg/fromsoft-hands-out-a-mega-nerf-to-shadow-of-the-erdtrees-final-boss-players-begin-printing-their-i-beat-him-pre-patch-t-shirts-to-lord-it-over-the-rest-of-us)
- - [World of Warcraft: The War Within&#39;s Season 1 is live—with Mythic dungeons, raids, and the new endgame activity Delves released in full](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-the-war-within-s-season-1-is-live-with-mythic-dungeons-raids-and-the-new-endgame-activity-delves-released-in-full)<!-- GAME:END -->
+ - [Helldivers 2 devs casually reveal they&#39;re quadrupling the Railgun&#39;s durable damage, while CCO Pilestedt says kit like the Recoilless Rifle will become a &#39;delete key&#39;, and oh, do I like the sound of that](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-devs-casually-reveal-they-re-quadrupling-the-railgun-s-durable-damage-while-cco-pilestedt-says-kit-like-the-recoilless-rifle-will-become-a-delete-key-and-oh-do-i-like-the-sound-of-that)
+ - [The best video games of 2024 so far](https://www.polygon.com/what-to-play/24078256/best-video-games-2024)
+ - [Yeah, at $700 the PS5 Pro is expensive for a console, but I spent more than double that on my GPU alone](https://www.pcgamer.com/hardware/yeah-at-dollar700-the-ps5-pro-is-expensive-for-a-console-but-i-spent-more-than-double-that-on-my-gpu-alone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
