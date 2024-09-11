@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, September 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-11-2024)
- - [How to make your factory way better than satisfactory in Satisfactory](https://www.pcgamer.com/games/sim/satisfactory-game-tips-getting-started-guide)
- - [Holy cow, The Crew 2 is on sale for $1 on Steam](https://www.pcgamer.com/games/racing/holy-cow-the-crew-2-is-on-sale-for-dollar1-on-steam)<!-- GAME:END -->
+ - [Life Is Strange: Double Exposure Brings Back Max Caulfield By Taking on a Whole New Gaming Genre](https://news.xbox.com/en-us/2024/09/11/life-is-strange-double-exposure-puzzle-game/)
+ - [World of Warcraft: The War Within](https://www.pcgamer.com/games/world-of-warcraft-the-war-within)
+ - [Today&#39;s Wordle answer for Wednesday, September 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-11-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
