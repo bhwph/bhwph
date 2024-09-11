@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This, this is beautiful](http://9gag.com/gag/aXPvGw6)
- - 😝 [My wife asked me to connect more with my feminine side - so I crashed the car!](http://9gag.com/gag/amo2bWy)
- - 👉 [A funny comedian?](http://9gag.com/gag/a4PGrOp)<!-- MEMES:END -->
+ - 6️⃣ [Hold the door.](http://9gag.com/gag/a6ZVGR2)
+ - 😝 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)
+ - 👉 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)<!-- MEMES:END -->
 
 --- 
 
