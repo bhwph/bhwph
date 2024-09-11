@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This year’s missing Apple Watches are now expected to launch next year](https://www.androidauthority.com/apple-watch-ultra-3-se-3-expected-launch-2025-3480856/)
- - [A surge in scams poses a serious image problem for Revolut, which faces more complaints than its large UK rivals about authorized push payment scams &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240911/p8#a240911p8)
- - [The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town](https://www.wired.com/story/the-worlds-biggest-bitcoin-mine-is-rattling-this-texas-oil-town/)<!-- TECH:END -->
+ - [Will California flip the AI industry on its head?](https://www.theverge.com/2024/9/11/24226251/california-sb-1047-ai-industry-regulation-backlash)
+ - [Mistral releases its first multimodal model, Pixtral 12B, available on GitHub and Hugging Face, and via API &quot;soon&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240911/p10#a240911p10)
+ - [The cheapest countries to buy the iPhone 16](https://www.androidauthority.com/cheapest-place-to-buy-iphone-16-3480732/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
