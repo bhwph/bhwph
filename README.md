@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search starts offering easy access to old versions of web pages](https://www.androidauthority.com/google-search-internet-archive-3480964/)
- - [How to Back Up Your iPhone to iCloud, MacOS, or Windows &lpar;2024&rpar;](https://www.wired.com/story/how-to-backup-your-iphone/)
- - [Adobe says generative AI features powered by its Firefly Video model will be available before the end of 2024 on the Premiere Pro beta app and on a free website &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240911/p16#a240911p16)<!-- TECH:END -->
+ - [Need a charge? The Anker 747 150W Charger is 45% off!](https://www.androidauthority.com/anker-747-charger-deal-3481012/)
+ - [Sources: OpenAI is in talks to raise $6.5B in equity financing at a $150B valuation and raise $5B in debt from banks in the form of a revolving credit facility &lpar;Bloomberg&rpar;](http://www.techmeme.com/240911/p19#a240911p19)
+ - [AMD’s new Variable Graphics Memory lets laptop users reassign their RAM to gaming](https://www.theverge.com/2024/9/11/24242123/amd-variable-graphics-memory-afmf-2-strix-point-ai-300)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
