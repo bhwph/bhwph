@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home starts work on the highly requested Vacation mode &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-home-vacation-mode-3480901/)
- - [Utah social media law requiring age verification blocked by judge](https://www.theverge.com/2024/9/11/24241685/utah-netchoice-social-media-child-safety-law-blocked)
- - [How to Watch the 2024 MTV VMAs Tonight Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2024-mtv-vmas-tonight-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Compared: AirPods 4 vs AirPods Pro 2 -- ANC without ear tips could tip the scales](https://appleinsider.com/articles/24/09/09/compared-airpods-4-vs-airpods-pro-2----anc-without-ear-tips-could-tip-the-scales?utm_medium=rss)
+ - [Wearable weigh-in -- Apple Watch Series 10 vs Apple Watch Series 9 compared](https://appleinsider.com/inside/apple-watch-series-10/vs/wearable-weigh-in----apple-watch-series-10-vs-apple-watch-series-9-compared?utm_medium=rss)
+ - [The Broadway play about content moderation](https://www.theverge.com/2024/9/11/24241105/job-max-wolf-friedlich-interview-broadway-play)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
