@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Xbox Friends and Followers Experience](https://news.xbox.com/en-us/2024/09/11/new-xbox-friends-and-followers-experience/)
- - [Grab These Great Post-Apocalyptic Games On Sale And Learn How To Survive The End Days](https://kotaku.com/apocalypse-game-sale-fallout-dying-light-walking-dead-1851645992)
- - [This Month&#39;s PS Plus Freebies Include Plucky Squire And Uh...Mister Mosquito](https://kotaku.com/ps-plus-premium-extra-games-september-plucky-squire-ps5-1851645955)<!-- GAME:END -->
+ - [The Best Game And Movie Jokes About Last Night’s Presidential Debate](https://kotaku.com/presidential-debate-kamala-harris-donald-trump-jokes-1851646179)
+ - [Glorious heralds its return with the launch of the GMMK 3 Hall Effect keyboard](https://www.polygon.com/deals/450038/glorious-gmmk-3-hall-effect-gaming-keyboard)
+ - [Astro Bot&#39;s Earlier Game Astro&#39;s Playroom Now Has An Ape Escape Bot!](https://kotaku.com/astro-bot-playroom-ape-escape-bot-guide-1851645859)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
