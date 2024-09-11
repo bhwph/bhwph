@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taylor Swift endorses Kamala Harris in response to fake AI Trump endorsement](https://www.theverge.com/2024/9/10/24241538/taylor-swift-endorses-kamala-harris-donald-trump-ai-endorsement-deepfake)
- - [Best Gas Grills of 2024](https://www.cnet.com/home/yard-and-outdoors/best-gas-grill/#ftag=CAD590a51e)
- - [Taylor Swift says she&#39;s voting for Kamala Harris, noting that Donald Trump sharing an AI-generated image of her &quot;endorsing&quot; him prompted her to reveal her plans &lpar;Taylor Swift/Taylor Swift on Instagram&rpar;](http://www.techmeme.com/240910/p29#a240910p29)<!-- TECH:END -->
+ - [After iPhone 16, at least two Android brands are working on camera buttons](https://www.androidauthority.com/iphone-16-android-camera-buttons-3480341/)
+ - [CTIA: Americans used over 100T MB of wireless data in 2023, up 36% YoY, the largest single-year increase; the number of wireless connections rose 6% YoY to 558M &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240911/p4#a240911p4)
+ - [In a memo to commemorate Alibaba&#39;s 25th anniversary, Jack Ma said the competition will make the company stronger, urging trust &quot;in the power of market forces&quot; &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240911/p3#a240911p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
