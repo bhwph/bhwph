@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [This is amazing!](http://9gag.com/gag/avy7X0d)
- - 😝 [The Earth&#39;s magnetic field deflecting 1.5 million tons of solar material shoot off the sun at 100 miles per second.](http://9gag.com/gag/aLn8rgA)
- - 👉 [Thanks god. He carried auto revive.](http://9gag.com/gag/aNDzjvb)<!-- MEMES:END -->
+ - 😝 [The century of the left taking L&#39;s like a mf](http://9gag.com/gag/a34Mn21)
+ - 👉 [Every man has his weakness](http://9gag.com/gag/aQzerEz)<!-- MEMES:END -->
 
 --- 
 
