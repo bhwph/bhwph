@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flipper Zero 1.0 firmware update supercharges the hacking handheld](https://www.theverge.com/2024/9/10/24241081/flipper-zero-1-0-major-firmware-update-2024)
- - [Google plans to buy carbon removal credits from direct air capture provider Holocene for $100 per ton, far below current prices, for delivery by the early 2030s &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240910/p23#a240910p23)
- - [ChatGPT is about to get a berry good upgrade very soon](https://www.androidauthority.com/chatgpt-strawberry-launch-september-3480750/)<!-- TECH:END -->
+ - [AWS plans to spend &amp;pound;8B in the UK to grow its cloud business, expecting to support up to 14,000 jobs and contribute &amp;pound;14B to the UK GDP between 2024 and 2028 &lpar;Joe Mayes/Bloomberg&rpar;](http://www.techmeme.com/240910/p27#a240910p27)
+ - [California Solar Panel Incentives: Tax Credits, Rebates, Financing and More](https://www.cnet.com/home/energy-and-utilities/california-solar-panel-incentives-tax-credits-rebates-financing-and-more/#ftag=CAD590a51e)
+ - [Maryland-based Forterra, which develops autonomous driving tech for military and commercial vehicles, raised a $75M Series B &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/240910/p26#a240910p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
