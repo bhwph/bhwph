@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anyone remember this](http://9gag.com/gag/a9yAZ7m)
- - 😝 [A normal dev team](http://9gag.com/gag/axy04LD)
- - 👉 [Somewhere in Pakistan](http://9gag.com/gag/avy795W)<!-- MEMES:END -->
+ - 6️⃣ [Somewhere in Pakistan](http://9gag.com/gag/avy795W)
+ - 😝 [Thanks god. He carried auto revive.](http://9gag.com/gag/aNDzjvb)
+ - 👉 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)<!-- MEMES:END -->
 
 --- 
 
