@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is amazing!](http://9gag.com/gag/avy7X0d)
- - 😝 [The century of the left taking L&#39;s like a mf](http://9gag.com/gag/a34Mn21)
- - 👉 [Every man has his weakness](http://9gag.com/gag/aQzerEz)<!-- MEMES:END -->
+ - 6️⃣ [This, this is beautiful](http://9gag.com/gag/aXPvGw6)
+ - 😝 [My wife asked me to connect more with my feminine side - so I crashed the car!](http://9gag.com/gag/amo2bWy)
+ - 👉 [A funny comedian?](http://9gag.com/gag/a4PGrOp)<!-- MEMES:END -->
 
 --- 
 
