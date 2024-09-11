@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let&#39;s all point and laugh](http://9gag.com/gag/aYQ4mO2)
- - 😝 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)
- - 👉 [Missing your cruise ship](http://9gag.com/gag/agmY6jW)<!-- MEMES:END -->
+ - 6️⃣ [Winner](http://9gag.com/gag/aLn8N1V)
+ - 😝 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)
+ - 👉 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)<!-- MEMES:END -->
 
 --- 
 
