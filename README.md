@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 devs casually reveal they&#39;re quadrupling the Railgun&#39;s durable damage, while CCO Pilestedt says kit like the Recoilless Rifle will become a &#39;delete key&#39;, and oh, do I like the sound of that](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-devs-casually-reveal-they-re-quadrupling-the-railgun-s-durable-damage-while-cco-pilestedt-says-kit-like-the-recoilless-rifle-will-become-a-delete-key-and-oh-do-i-like-the-sound-of-that)
- - [The best video games of 2024 so far](https://www.polygon.com/what-to-play/24078256/best-video-games-2024)
- - [Yeah, at $700 the PS5 Pro is expensive for a console, but I spent more than double that on my GPU alone](https://www.pcgamer.com/hardware/yeah-at-dollar700-the-ps5-pro-is-expensive-for-a-console-but-i-spent-more-than-double-that-on-my-gpu-alone)<!-- GAME:END -->
+ - [Call Of Duty: Modern Warfare 3, Diablo IV, Starfield And More Missing From Game Pass&#39; Newest Tier](https://kotaku.com/xbox-game-pass-standard-library-starfield-diablo-4-1851645117)
+ - [My Old Ass dodges the usual time-travel movie problems, with good reason](https://www.polygon.com/movies/450370/my-old-ass-review-aubrey-plaza)
+ - [Space Marine 2&#39;s First Big Update Will Add Private Lobbies, Ultrawide Support, And More](https://kotaku.com/space-marine-2-warhammer-40k-first-update-private-lobby-1851645793)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
