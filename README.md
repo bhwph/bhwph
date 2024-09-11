@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
- - 😝 [Let&#39;s all point and laugh](http://9gag.com/gag/aYQ4mO2)
- - 👉 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)<!-- MEMES:END -->
+ - 6️⃣ [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
+ - 😝 [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
+ - 👉 [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)<!-- MEMES:END -->
 
 --- 
 
