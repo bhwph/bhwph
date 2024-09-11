@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Will California flip the AI industry on its head?](https://www.theverge.com/2024/9/11/24226251/california-sb-1047-ai-industry-regulation-backlash)
- - [Mistral releases its first multimodal model, Pixtral 12B, available on GitHub and Hugging Face, and via API &quot;soon&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240911/p10#a240911p10)
- - [The cheapest countries to buy the iPhone 16](https://www.androidauthority.com/cheapest-place-to-buy-iphone-16-3480732/)<!-- TECH:END -->
+ - [Google Home starts work on the highly requested Vacation mode &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-home-vacation-mode-3480901/)
+ - [Utah social media law requiring age verification blocked by judge](https://www.theverge.com/2024/9/11/24241685/utah-netchoice-social-media-child-safety-law-blocked)
+ - [How to Watch the 2024 MTV VMAs Tonight Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2024-mtv-vmas-tonight-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
