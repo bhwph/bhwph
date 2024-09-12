@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)
- - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 👉 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)<!-- MEMES:END -->
+ - 6️⃣ [IPhone the smartest phone !](http://9gag.com/gag/aD2zLdK)
+ - 😝 [There is hope gentlemen](http://9gag.com/gag/a7oDX6m)
+ - 👉 [They\u2019re not signs of depression and a dire warning, Linda. They\u2019re Blues clues!](http://9gag.com/gag/aKGDZbW)<!-- MEMES:END -->
 
 --- 
 
