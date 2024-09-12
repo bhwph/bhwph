@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who would like to join this group?](http://9gag.com/gag/a4PGmNA)
- - 😝 [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)
- - 👉 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)<!-- MEMES:END -->
+ - 6️⃣ [X-23](http://9gag.com/gag/aE0BbyM)
+ - 😝 [I am not polish but i understand him](http://9gag.com/gag/aZZgXpQ)
+ - 👉 [Again, because of 9gag, it&#39;s taking down. Polish ppl patrolling streets because of brutal attack on Polish citizens](http://9gag.com/gag/a9yAe4W)<!-- MEMES:END -->
 
 --- 
 
