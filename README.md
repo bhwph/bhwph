@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Until Dawn PC features and specs revealed, out October 4](https://blog.playstation.com/2024/09/12/until-dawn-pc-features-and-specs-revealed-out-october-4/)
- - [Wild Bastards review](https://www.pcgamer.com/games/fps/wild-bastards-review)
- - [US Dept of Justice claims Google &#39;corrupted legitimate competition in the ad tech industry by engaging in a systematic campaign to seize control&#39;](https://www.pcgamer.com/software/platforms/us-dept-of-justice-claims-google-corrupted-legitimate-competition-in-the-ad-tech-industry-by-engaging-in-a-systematic-campaign-to-seize-control)<!-- GAME:END -->
+ - [Exploring the picturesque city of Artia in The Plucky Squire](https://blog.playstation.com/2024/09/12/exploring-the-picturesque-city-of-artia-in-the-plucky-squire/)
+ - [Microsoft Promises No Games Cancelled Amid 650 More Xbox Jobs Cut](https://kotaku.com/xbox-layoffs-activision-blizzard-phil-spencer-microsoft-1851646757)
+ - [The new EVE survival MMO is using blockchain tech to create a &#39;boiling financial hellscape,&#39; but don&#39;t call it a blockchain game](https://www.pcgamer.com/games/mmo/the-new-eve-survival-mmo-is-using-blockchain-tech-to-create-a-boiling-financial-hellscape-but-dont-call-it-a-blockchain-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
