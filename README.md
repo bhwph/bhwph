@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At an Acquired podcast event, Zuckerberg said he&#39;s done with apologizing and his biggest mistake was taking too much ownership for issues out of Meta&#39;s control &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240912/p33#a240912p33)
- - [Right-wingers can’t get enough of anti-Haitian AI disinformation](https://www.theverge.com/2024/9/12/24243021/springfield-ohio-haitians-ai-generated-misinformation-trump)
- - [Elgato has supersized the Stream Deck for broadcasters](https://www.theverge.com/2024/9/12/24242942/elgato-stream-deck-studio-broadcast-streaming)<!-- TECH:END -->
+ - [Source: OpenAI&#39;s ChatGPT has 11M+ paying subscribers, including 1M for its higher-priced business plans, implying it&#39;s generating $225M+ in revenue per month &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/240912/p37#a240912p37)
+ - [Android 15 QPR1 lets you customize the mouse pointer so you can see it better](https://www.androidauthority.com/android-15-qpr1-mouse-pointer-customization-3481480/)
+ - [The White House says Adobe, Cohere, Microsoft, Anthropic, OpenAI, and Common Crawl made voluntary commitments to fight AI-generated image-based sexual abuse &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240912/p36#a240912p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
