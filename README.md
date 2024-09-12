@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Exploring the picturesque city of Artia in The Plucky Squire](https://blog.playstation.com/2024/09/12/exploring-the-picturesque-city-of-artia-in-the-plucky-squire/)
- - [Microsoft Promises No Games Cancelled Amid 650 More Xbox Jobs Cut](https://kotaku.com/xbox-layoffs-activision-blizzard-phil-spencer-microsoft-1851646757)
- - [The new EVE survival MMO is using blockchain tech to create a &#39;boiling financial hellscape,&#39; but don&#39;t call it a blockchain game](https://www.pcgamer.com/games/mmo/the-new-eve-survival-mmo-is-using-blockchain-tech-to-create-a-boiling-financial-hellscape-but-dont-call-it-a-blockchain-game)<!-- GAME:END -->
+ - [The Rings of Power episode 5 finally does something with its Rings of Power](https://www.polygon.com/lotr-rings-of-power/450477/trop-episode-5-review-sauron-celebrimbor-why)
+ - [Tony Hawk Confirms He And Activision Are &#39;Working On Something&#39;](https://kotaku.com/tony-hawk-pro-skater-activision-new-game-confirmed-thps-1851646946)
+ - [The PC Gaming Show returns December 5 with a sleigh full of the latest and greatest PC games](https://www.pcgamer.com/gaming-industry/events-conferences/the-pc-gaming-show-returns-december-5-with-a-sleigh-full-of-the-latest-and-greatest-pc-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
