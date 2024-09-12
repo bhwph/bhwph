@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Rings of Power episode 5 finally does something with its Rings of Power](https://www.polygon.com/lotr-rings-of-power/450477/trop-episode-5-review-sauron-celebrimbor-why)
- - [Tony Hawk Confirms He And Activision Are &#39;Working On Something&#39;](https://kotaku.com/tony-hawk-pro-skater-activision-new-game-confirmed-thps-1851646946)
- - [The PC Gaming Show returns December 5 with a sleigh full of the latest and greatest PC games](https://www.pcgamer.com/gaming-industry/events-conferences/the-pc-gaming-show-returns-december-5-with-a-sleigh-full-of-the-latest-and-greatest-pc-games)<!-- GAME:END -->
+ - [9 PlayStation Classics And Hidden Gems To Delve Into After Astro Bot](https://kotaku.com/astro-bot-sly-cooper-tearaway-ico-ape-escape-medievil-1851647194)
+ - [Fields of Mistria marriage candidates and gift guide](https://www.pcgamer.com/games/life-sim/fields-of-mistria-marriage-candidates-gift-guide)
+ - [A full year later, Unity fully revokes maligned runtime fee](https://www.polygon.com/news/450804/unity-runtime-fee-canceled-sept-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
