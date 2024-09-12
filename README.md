@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Both New Apple AirPods 4 Models Are Available for Preorder. Find the Best Deals](https://www.cnet.com/deals/both-new-apple-airpods-4-models-are-available-for-preorder-find-the-best-deals/#ftag=CAD590a51e)
- - [Breaking! Galaxy S23, Galaxy Z Fold 5, Galaxy Z Flip 5 start getting One UI 6.1.1 update](https://www.androidauthority.com/samsung-galaxy-s23-one-ui-6-1-1-update-3481154/)
- - [You Can Already Preorder the Apple Watch Series 10. Find All the Best Deals So Far](https://www.cnet.com/deals/you-can-already-preorder-the-apple-watch-series-10-find-all-the-best-deals-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the tough options before Intel&#39;s board, including scaling back factory projects, selling off subsidiaries, or splitting Intel&#39;s core operations &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240912/p8#a240912p8)
+ - [After Shark Tank, Mark Cuban Just Wants to Break Shit—Especially the Prescription Drug Industry](https://www.wired.com/story/big-interview-after-shark-tank-mark-cuban-just-wants-to-break-shit-especially-the-prescription-drug-industry/)
+ - [Apple Vision Pro’s Eye Tracking Exposed What People Type](https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
