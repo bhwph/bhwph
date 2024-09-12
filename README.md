@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the tough options before Intel&#39;s board, including scaling back factory projects, selling off subsidiaries, or splitting Intel&#39;s core operations &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240912/p8#a240912p8)
- - [After Shark Tank, Mark Cuban Just Wants to Break Shit—Especially the Prescription Drug Industry](https://www.wired.com/story/big-interview-after-shark-tank-mark-cuban-just-wants-to-break-shit-especially-the-prescription-drug-industry/)
- - [Apple Vision Pro’s Eye Tracking Exposed What People Type](https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/)<!-- TECH:END -->
+ - [Novatus, which helps financial companies like Revolut manage their data to comply with regulations, raised $40M at a ~$150M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240912/p11#a240912p11)
+ - [After ditching August, Assa Abloy snaps up another smart lock startup](https://www.theverge.com/2024/9/12/24241750/level-home-assa-abloy-purchase-smart-lock-aliro)
+ - [Apple Watch Series 10 vs Apple Watch Ultra 2 - comparing the biggest wearables](https://appleinsider.com/inside/apple-watch-series-10/vs/apple-watch-series-10-vs-apple-watch-ultra-2---comparing-the-biggest-wearables?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
