@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you get kicked out of your Steam Family, the slot is locked for a year, so you&#39;d better get along—here&#39;s how Steam&#39;s new family sharing system works](https://www.pcgamer.com/software/platforms/steam-families-launch-faq)
- - [Flappy Bird to return a decade after its viral rise and fall](https://www.polygon.com/gaming/451035/flappy-bird-returns-2024-ios-android)
- - [Cyberpunk 2077 finally has official support for AMD&#39;s FSR 3](https://www.pcgamer.com/games/rpg/cyberpunk-2077-finally-has-official-support-for-amds-fsr3)<!-- GAME:END -->
+ - [European Consumer Organization alleges game companies including Activision, Electronic Arts, Epic, and Ubisoft are &#39;tricking&#39; consumers with premium in-game currencies](https://www.pcgamer.com/gaming-industry/european-consumer-organization-alleges-game-companies-including-activision-electronic-arts-epic-and-ubisoft-are-tricking-consumers-with-premium-in-game-currencies)
+ - [A Year Later, Unity Cancels Controversial Runtime Fees Completely](https://kotaku.com/unity-install-runtime-fees-canceled-ceo-blog-post-price-1851647405)
+ - [The Latest Dragon Ball: Sparking Zero Trailer Has Shocked Fans In The Best Way](https://kotaku.com/dragon-ball-sparking-zero-gt-ss4-baby-super-17-roster-1851647395)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
