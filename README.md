@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 16 series got a big charging upgrade that Apple didn’t talk about](https://www.androidauthority.com/apple-iphone-16-series-charging-speed-certification-3481125/)
- - [Infineon says it has developed 300mm gallium nitride wafers, which can produce 2.3x more chips than 200mm wafers and speed their adoption for AI applications &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/240911/p27#a240911p27)
- - [Best Buy issues first material discount on the new black Apple Watch Ultra 2](https://appleinsider.com/articles/24/09/12/best-buy-issues-first-material-discount-on-the-new-black-apple-watch-ultra-2?utm_medium=rss)<!-- TECH:END -->
+ - [Google is getting ready to bring exclusive Pixel 9 features to older Pixels &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-pixel-9-camera-features-older-pixel-phones-3481138/)
+ - [Centricity, a digital wealth management service for financial advisers and asset managers, raised a $20M seed led by Lightspeed India at a $125M valuation &lpar;The Economic Times&rpar;](http://www.techmeme.com/240912/p2#a240912p2)
+ - [Tune.fm, a music streaming service with an integrated NFT marketplace that offers blockchain micropayments to artists, raised $50M from Global Emerging Markets &lpar;Ana Paula Pereira/Cointelegraph&rpar;](http://www.techmeme.com/240912/p1#a240912p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
