@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Again, because of 9gag, it&#39;s taking down. Polish ppl patrolling streets because of brutal attack on Polish citizens](http://9gag.com/gag/a9yAe4W)
- - 😝 [X-23](http://9gag.com/gag/aE0BbyM)
- - 👉 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;ve never seen so much stupid in one video](http://9gag.com/gag/aD2zq0w)
+ - 😝 [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)
+ - 👉 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)<!-- MEMES:END -->
 
 --- 
 
