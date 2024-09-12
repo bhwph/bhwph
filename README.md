@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 system update adds Welcome hub, Party Share, personalized 3D audio profiles, adaptive controller charging, and more](https://blog.playstation.com/2024/09/12/ps5-system-update-adds-welcome-hub-party-share-personalized-3d-audio-profiles-adaptive-controller-charging-and-more/)
- - [PS5 system update adds Welcome hub, Party Share, personalized 3D audio profiles, adaptive controller charging, and more](https://blog.playstation.com/2024/09/12/ps5-system-update-adds-welcome-hub-party-share-personalized-3d-audio-profiles-adaptive-controller-charging-and-more/)
- - [Today&#39;s Wordle answer for Thursday, September 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-12-2024)<!-- GAME:END -->
+ - [Until Dawn PC features and specs revealed, out October 4](https://blog.playstation.com/2024/09/12/until-dawn-pc-features-and-specs-revealed-out-october-4/)
+ - [Wild Bastards review](https://www.pcgamer.com/games/fps/wild-bastards-review)
+ - [US Dept of Justice claims Google &#39;corrupted legitimate competition in the ad tech industry by engaging in a systematic campaign to seize control&#39;](https://www.pcgamer.com/software/platforms/us-dept-of-justice-claims-google-corrupted-legitimate-competition-in-the-ad-tech-industry-by-engaging-in-a-systematic-campaign-to-seize-control)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
