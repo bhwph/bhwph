@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Novatus, which helps financial companies like Revolut manage their data to comply with regulations, raised $40M at a ~$150M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240912/p11#a240912p11)
- - [After ditching August, Assa Abloy snaps up another smart lock startup](https://www.theverge.com/2024/9/12/24241750/level-home-assa-abloy-purchase-smart-lock-aliro)
- - [Apple Watch Series 10 vs Apple Watch Ultra 2 - comparing the biggest wearables](https://appleinsider.com/inside/apple-watch-series-10/vs/apple-watch-series-10-vs-apple-watch-ultra-2---comparing-the-biggest-wearables?utm_medium=rss)<!-- TECH:END -->
+ - [Ikea adds Matter support to Dirigera hub, for real this time](https://appleinsider.com/articles/24/09/12/ikea-adds-matter-support-to-dirigera-hub-for-real-this-time?utm_medium=rss)
+ - [There’s more to this year’s smartphones than AI](https://www.theverge.com/2024/9/12/24219823/apple-intelligence-gemini-copilot-ai-iphone-16-pro-pixel-9-ram)
+ - [Best VPN Deals: Extra Online Security for as Low as $2 a Month](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
