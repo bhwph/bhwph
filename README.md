@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the hearing aid feature in AirPods Pro 2 could change the hearing aid industry, where most devices range from $799 into the thousands of dollars &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240912/p23#a240912p23)
- - [Google Wallet can now store your passport, but you still have to carry the real thing](https://www.androidauthority.com/google-wallet-passport-support-3481234/)
- - [Google rolls out Gemini Live to free users with Android devices set to English, following its release to Gemini Advanced subscribers last month &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240912/p22#a240912p22)<!-- TECH:END -->
+ - [Flappy Bird is flapping its way back to mobile stores](https://www.androidauthority.com/flappy-bird-game-returns-3481307/)
+ - [Google Pixel 9 Pro Fold problems and how to fix them](https://www.androidauthority.com/pixel-9-pro-fold-problems-3480470/)
+ - [AT&amp;T users are unable to connect to Microsoft services &lpar;Update: Microsoft and AT&amp;T statements&rpar;](https://www.androidauthority.com/its-not-just-you-att-users-are-unable-to-connect-to-microsoft-services-3481220/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
