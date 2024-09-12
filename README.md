@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flappy Bird is flapping its way back to mobile stores](https://www.androidauthority.com/flappy-bird-game-returns-3481307/)
- - [Google Pixel 9 Pro Fold problems and how to fix them](https://www.androidauthority.com/pixel-9-pro-fold-problems-3480470/)
- - [AT&amp;T users are unable to connect to Microsoft services &lpar;Update: Microsoft and AT&amp;T statements&rpar;](https://www.androidauthority.com/its-not-just-you-att-users-are-unable-to-connect-to-microsoft-services-3481220/)<!-- TECH:END -->
+ - [At an Acquired podcast event, Zuckerberg said he&#39;s done with apologizing and his biggest mistake was taking too much ownership for issues out of Meta&#39;s control &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240912/p33#a240912p33)
+ - [Right-wingers can’t get enough of anti-Haitian AI disinformation](https://www.theverge.com/2024/9/12/24243021/springfield-ohio-haitians-ai-generated-misinformation-trump)
+ - [Elgato has supersized the Stream Deck for broadcasters](https://www.theverge.com/2024/9/12/24242942/elgato-stream-deck-studio-broadcast-streaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
