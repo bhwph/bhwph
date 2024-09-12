@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 😝 [Riyal RIP high school DXD](http://9gag.com/gag/azxqBBZ)
+ - 6️⃣ [All hole already used](http://9gag.com/gag/avy741O)
+ - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
  - 👉 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)<!-- MEMES:END -->
 
 --- 
