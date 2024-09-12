@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
- - 😝 [It it really true ??](http://9gag.com/gag/aXPvz9P)
- - 👉 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)<!-- MEMES:END -->
+ - 6️⃣ [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)
+ - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - 👉 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)<!-- MEMES:END -->
 
 --- 
 
