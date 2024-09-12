@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vancouver-based Spare, whose software helps transit agencies offer transport services based on riders&#39; own needs, raised a CA$42M Series B led by Inovia Capital &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/240911/p22#a240911p22)
- - [Google Wallet is getting hungry for your cards, with work on bulk import tool &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-bulk-import-3481029/)
- - [Google is using AI to make fake podcasts from your notes](https://www.theverge.com/2024/9/11/24242138/google-notebook-llm-ai-fake-podcasts-research)<!-- TECH:END -->
+ - [iPhone 16 receives Apple Intelligence features via iOS 18.1 beta 3](https://appleinsider.com/articles/24/09/11/phone-16-receives-apple-intelligence-features-via-ios-181-beta-3?utm_medium=rss)
+ - [AST SpaceMobile&#39;s stock is up ~1,300% since a record low in April 2024 and following deals with AT&amp;T and Verizon in May to provide wireless service from space &lpar;Bloomberg&rpar;](http://www.techmeme.com/240911/p24#a240911p24)
+ - [Apple Shared Its First Public AI-Generated Image. It’s Craig Federighi’s Dog](https://www.wired.com/story/apple-image-playground-craig-federighi-dog/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
