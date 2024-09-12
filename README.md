@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [IPhone the smartest phone !](http://9gag.com/gag/aD2zLdK)
- - 😝 [There is hope gentlemen](http://9gag.com/gag/a7oDX6m)
- - 👉 [They\u2019re not signs of depression and a dire warning, Linda. They\u2019re Blues clues!](http://9gag.com/gag/aKGDZbW)<!-- MEMES:END -->
+ - 6️⃣ [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
+ - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - 👉 [X-23](http://9gag.com/gag/aE0BbyM)<!-- MEMES:END -->
 
 --- 
 
