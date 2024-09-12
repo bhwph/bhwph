@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 😝 [Riyal RIP high school DXD](http://9gag.com/gag/azxqBBZ)
- - 👉 [Driver said `rather you than me` smh \ud83d\ude02](http://9gag.com/gag/aRBjydQ)<!-- MEMES:END -->
+ - 6️⃣ [Who would like to join this group?](http://9gag.com/gag/a4PGmNA)
+ - 😝 [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)
+ - 👉 [Love for the Art of sex](http://9gag.com/gag/aoyOq50)<!-- MEMES:END -->
 
 --- 
 
