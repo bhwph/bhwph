@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
- - 😝 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 👉 [X-23](http://9gag.com/gag/aE0BbyM)<!-- MEMES:END -->
+ - 😝 [Monkey](http://9gag.com/gag/a9yA01o)
+ - 👉 [It it really true ??](http://9gag.com/gag/aXPvz9P)<!-- MEMES:END -->
 
 --- 
 
