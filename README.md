@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Adam Neumann&#39;s Flowcarbon, which raised $70M in 2022 from a16z and others, is refunding investors after failing to launch its Goddess Nature Token &lpar;Sarah Emerson/Forbes&rpar;](http://www.techmeme.com/240911/p25#a240911p25)
- - [iPhone 16 models see faster 5G downloads with new Snapdragon X75 modem](https://appleinsider.com/articles/24/09/12/iphone-16-models-see-faster-5g-downloads-with-new-snapdragon-x75-modem?utm_medium=rss)
- - [Best Immunity Supplements for 2024](https://www.cnet.com/health/nutrition/best-immunity-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The iPhone 16 series got a big charging upgrade that Apple didn’t talk about](https://www.androidauthority.com/apple-iphone-16-series-charging-speed-certification-3481125/)
+ - [Infineon says it has developed 300mm gallium nitride wafers, which can produce 2.3x more chips than 200mm wafers and speed their adoption for AI applications &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/240911/p27#a240911p27)
+ - [Best Buy issues first material discount on the new black Apple Watch Ultra 2](https://appleinsider.com/articles/24/09/12/best-buy-issues-first-material-discount-on-the-new-black-apple-watch-ultra-2?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
