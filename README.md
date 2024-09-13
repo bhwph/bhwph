@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alienware AW2725QF review](https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw2725qf-review)
- - [Hollowbody is an English cyberpunk Silent Hill, for better and worse](https://www.pcgamer.com/games/horror/hollowbody-is-an-english-cyberpunk-silent-hill-for-better-and-worse)
- - [Today&#39;s Wordle answer for Friday, September 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-13-2024)<!-- GAME:END -->
+ - [Acer responds to claims its gaming laptop intro was misogynistic: &#39;Acer makes no difference in gender, our objective is to make technology available to everybody&#39;](https://www.pcgamer.com/hardware/acer-responds-to-claims-its-gaming-laptop-intro-was-misogynistic-acer-makes-no-difference-in-gender-our-objective-is-to-make-technology-available-to-everybody)
+ - [These Horror Movie Children Keep Us Up At Night](https://kotaku.com/horror-movie-children-creepy-m3gan-babadook-1851645971)
+ - [All Zenless Zone Zero codes from the 1.2 livestream](https://www.pcgamer.com/games/action/zenless-zone-zero-1-2-livestream-codes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
