@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple still has a lot of new hardware to release before the end of 2024](https://appleinsider.com/articles/24/09/13/apple-still-has-a-lot-of-new-hardware-to-release-before-the-end-of-2024?utm_medium=rss)
- - [Best Buy drops M3 MacBook Pro to record low $1,199 with Plus](https://appleinsider.com/articles/24/09/13/best-buy-drops-m3-macbook-pro-to-record-low-1199-with-plus?utm_medium=rss)
- - [German prosecutors open a sexual harassment probe into SAP CTO J&amp;uuml;rgen M&amp;uuml;ller, after SAP said he&#39;d resign at the end of September due to &quot;inappropriate&quot; behavior &lpar;Bloomberg&rpar;](http://www.techmeme.com/240913/p21#a240913p21)<!-- TECH:END -->
+ - [Alternative iPad app stores are coming on September 16](https://appleinsider.com/articles/24/09/13/alternative-ipad-app-stores-are-coming-to-ipad-on-september-16?utm_medium=rss)
+ - [&#39;Flappy Bird&#39; resurrection is likely a ploy to push crypto](https://appleinsider.com/articles/24/09/13/flappy-bird-resurrection-is-likely-a-ploy-to-push-crypto?utm_medium=rss)
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
