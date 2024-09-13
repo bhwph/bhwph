@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
- - 😝 [Testing the durability of a Toyota Hilux](http://9gag.com/gag/aRBjpDQ)
+ - 😝 [The Punisher play D&amp;D](http://9gag.com/gag/abAzNwp)
  - 👉 [Happy Halloween](http://9gag.com/gag/aO8BMnv)<!-- MEMES:END -->
 
 --- 
