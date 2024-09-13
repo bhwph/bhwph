@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
- - 😝 [I agree](http://9gag.com/gag/aZZg5Pp)
- - 👉 [Don&#39;t let the boss know](http://9gag.com/gag/an7j335)<!-- MEMES:END -->
+ - 6️⃣ [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)
+ - 😝 [A childhood horror classic](http://9gag.com/gag/aQze5zq)
+ - 👉 [911](http://9gag.com/gag/aRBj9xM)<!-- MEMES:END -->
 
 --- 
 
