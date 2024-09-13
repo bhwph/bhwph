@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a 3 years old tadpole that didn&#39;t turned into a frog &lpar;banana for scale&rpar;](http://9gag.com/gag/a9yA0LK)
- - 😝 [Its not just a phase, MOM.](http://9gag.com/gag/a2v46qO)
- - 👉 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)<!-- MEMES:END -->
+ - 6️⃣ [Cute Dog](http://9gag.com/gag/ayNxj6W)
+ - 😝 [Time to watch it again!](http://9gag.com/gag/ayNxjzM)
+ - 👉 [I\u2019m actively dying of cancer. My brother took this picture. My days are near an end I fear my friends.](http://9gag.com/gag/aQzebVe)<!-- MEMES:END -->
 
 --- 
 
