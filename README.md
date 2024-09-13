@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)
- - 😝 [A childhood horror classic](http://9gag.com/gag/aQze5zq)
- - 👉 [911](http://9gag.com/gag/aRBj9xM)<!-- MEMES:END -->
+ - 6️⃣ [Tables are turned](http://9gag.com/gag/aKGDXeN)
+ - 😝 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
+ - 👉 [Smooth](http://9gag.com/gag/a34Mger)<!-- MEMES:END -->
 
 --- 
 
