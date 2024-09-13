@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [European Consumer Organization alleges game companies including Activision, Electronic Arts, Epic, and Ubisoft are &#39;tricking&#39; consumers with premium in-game currencies](https://www.pcgamer.com/gaming-industry/european-consumer-organization-alleges-game-companies-including-activision-electronic-arts-epic-and-ubisoft-are-tricking-consumers-with-premium-in-game-currencies)
- - [A Year Later, Unity Cancels Controversial Runtime Fees Completely](https://kotaku.com/unity-install-runtime-fees-canceled-ceo-blog-post-price-1851647405)
- - [The Latest Dragon Ball: Sparking Zero Trailer Has Shocked Fans In The Best Way](https://kotaku.com/dragon-ball-sparking-zero-gt-ss4-baby-super-17-roster-1851647395)<!-- GAME:END -->
+ - [Sure, not every space game needs them, but just for the record: seamless planetary landings are cool as hell](https://www.pcgamer.com/games/sim/sure-not-every-space-game-needs-them-but-just-for-the-record-seamless-planetary-landings-are-really-cool)
+ - [Until Dawn system requirements are here, and support for ultrawide and Dualsense haptics are in](https://www.pcgamer.com/games/horror/until-dawn-system-requirements-are-here-and-support-for-ultrawide-and-dualsense-haptics-are-in)
+ - [Space Marine 2 is a 2007 game in the best way possible](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-is-a-2007-game-in-the-best-way-possible)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
