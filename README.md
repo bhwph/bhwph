@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
+ - 6️⃣ [This is toxic](http://9gag.com/gag/aAyD5Zd)
  - 😝 [Monkey](http://9gag.com/gag/a9yA01o)
- - 👉 [It it really true ??](http://9gag.com/gag/aXPvz9P)<!-- MEMES:END -->
+ - 👉 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)<!-- MEMES:END -->
 
 --- 
 
