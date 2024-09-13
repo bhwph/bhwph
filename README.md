@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alternative iPad app stores are coming on September 16](https://appleinsider.com/articles/24/09/13/alternative-ipad-app-stores-are-coming-to-ipad-on-september-16?utm_medium=rss)
- - [&#39;Flappy Bird&#39; resurrection is likely a ploy to push crypto](https://appleinsider.com/articles/24/09/13/flappy-bird-resurrection-is-likely-a-ploy-to-push-crypto?utm_medium=rss)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
+ - [Sale: The Apple MacBook Air M1 is too good for $649](https://www.androidauthority.com/apple-macbook-air-m1-deal-3-3481756/)
+ - [Google Meet’s ‘take notes with Gemini’ feature may soon go mobile &lpar;APK Teardown&rpar;](https://www.androidauthority.com/gemini-meeting-notes-mobile-3481808/)
+ - [MicroStrategy stock jumped 8%+ on Friday after founder Michael Saylor said it purchased another $1.1B worth of bitcoin, taking its bitcoin holdings to $14.6B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240913/p26#a240913p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
