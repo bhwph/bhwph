@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Look out, OpenAI&#39;s latest chatbot hallucinates less and might even count to three](https://www.pcgamer.com/software/ai/look-out-openais-latest-chatbot-hallucinates-less-and-might-even-count-to-three)
- - [Share of the Week: Astro Bot](https://blog.playstation.com/2024/09/13/share-of-the-week-astro-bot/)
- - [Share of the Week: Astro Bot](https://blog.playstation.com/2024/09/13/share-of-the-week-astro-bot/)<!-- GAME:END -->
+ - [Pick Up PlayStation’s Biggest Hits On PC During Its Latest Sale](https://kotaku.com/playstation-pc-sale-steam-gog-helldivers-2-god-of-war-1851648098)
+ - [How Jackbox Games Took a Beloved Party Game and Made a New Remote Play Version](https://news.xbox.com/en-us/2024/09/13/how-jackbox-games-took-a-beloved-party-game-and-made-a-new-remote-play-version/)
+ - [Frostpunk 2&amp;#8217;s co-director on curbing players’ power fantasy &amp;#8216;while still not making them hate it&amp;#8217;](https://www.polygon.com/gaming/451037/frostpunk-2-interview-jakub-stokalski-11-bit-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
