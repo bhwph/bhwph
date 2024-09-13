@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pick Up PlayStation’s Biggest Hits On PC During Its Latest Sale](https://kotaku.com/playstation-pc-sale-steam-gog-helldivers-2-god-of-war-1851648098)
- - [How Jackbox Games Took a Beloved Party Game and Made a New Remote Play Version](https://news.xbox.com/en-us/2024/09/13/how-jackbox-games-took-a-beloved-party-game-and-made-a-new-remote-play-version/)
- - [Frostpunk 2&amp;#8217;s co-director on curbing players’ power fantasy &amp;#8216;while still not making them hate it&amp;#8217;](https://www.polygon.com/gaming/451037/frostpunk-2-interview-jakub-stokalski-11-bit-games)<!-- GAME:END -->
+ - [&#39;There&#39;s an alternate universe where Half-Life disappeared after release&#39;: Valve&#39;s first marketing strategist Monica Harrington says she helped navigate its way out of early disaster](https://www.pcgamer.com/games/fps/theres-an-alternate-universe-where-half-life-disappeared-after-release-valves-first-marketing-strategist-monica-harrington-says-she-helped-navigate-its-way-out-of-early-disaster)
+ - [Immortals of Aveum developers find a new home at Rockstar co-founder Dan Houser&#39;s Absurd Ventures studio](https://www.pcgamer.com/gaming-industry/immortals-of-aveum-developers-find-a-new-home-at-rockstar-co-founder-dan-housers-absurd-ventures-studio)
+ - [Call Of Duty: Modern Warfare 3, Starfield, And More Missing From Game Pass Standard](https://kotaku.com/xbox-game-pass-standard-library-starfield-diablo-4-1851645117)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
