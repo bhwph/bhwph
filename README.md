@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Alibaba.com president Kuo Zhang on the enduring importance of the US market, navigating geopolitical tensions, competing with Shein and Temu, and more &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/240913/p2#a240913p2)
- - [The Galaxy S24 FE might not have a big price hike, but it’s not all good news](https://www.androidauthority.com/samsung-galaxy-s24-fe-smaller-price-hike-3480818/)
- - [Android 15’s latest QPR beta makes your Pixel Tablet more of a desktop than ever before](https://www.androidauthority.com/android-15-qpr-2-beta-1-desktop-windowing-3481557/)<!-- TECH:END -->
+ - [From specs to pricing: Xiaomi’s upcoming Galaxy S24, Pixel 9 rival leaks in full](https://www.androidauthority.com/xiaomi-14t-series-leak-3481589/)
+ - [TECNO PHANTOM V Fold 2 and V Flip 2 launch alongside new PHANTOM V Pen](https://www.androidauthority.com/tecno-phantom-v-fold-2-3481369/)
+ - [This Is How Johnnie Walker Made the World’s Lightest Whisky Bottle](https://www.wired.com/story/this-is-how-johnnie-walker-made-the-worlds-lightest-whisky-bottle/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
