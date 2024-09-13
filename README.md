@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16: You Can Preorder Apple&#39;s New Phone Now. Trade-In Details and Today&#39;s Best Deals](https://www.cnet.com/deals/iphone-16-you-can-preorder-apples-new-phone-now-trade-in-details-and-todays-best-deals/#ftag=CAD590a51e)
- - [‘Terrorgram’ Charges Show US Has Had Tools to Crack Down on Far-Right Terrorism All Along](https://www.wired.com/story/terrorgram-collective-indictments/)
- - [Clear Your iPhone Cache Before You Upgrade to iOS 18](https://www.cnet.com/tech/services-and-software/clear-your-iphone-cache-before-you-upgrade-to-ios-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple still has a lot of new hardware to release before the end of 2024](https://appleinsider.com/articles/24/09/13/apple-still-has-a-lot-of-new-hardware-to-release-before-the-end-of-2024?utm_medium=rss)
+ - [Best Buy drops M3 MacBook Pro to record low $1,199 with Plus](https://appleinsider.com/articles/24/09/13/best-buy-drops-m3-macbook-pro-to-record-low-1199-with-plus?utm_medium=rss)
+ - [German prosecutors open a sexual harassment probe into SAP CTO J&amp;uuml;rgen M&amp;uuml;ller, after SAP said he&#39;d resign at the end of September due to &quot;inappropriate&quot; behavior &lpar;Bloomberg&rpar;](http://www.techmeme.com/240913/p21#a240913p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
