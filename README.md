@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [To all 9 gagers](http://9gag.com/gag/apRQw2D)
- - 😝 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
- - 👉 [Patient](http://9gag.com/gag/aKGD5VO)<!-- MEMES:END -->
+ - 6️⃣ [Just a 3 years old tadpole that didn&#39;t turned into a frog &lpar;banana for scale&rpar;](http://9gag.com/gag/a9yA0LK)
+ - 😝 [Its not just a phase, MOM.](http://9gag.com/gag/a2v46qO)
+ - 👉 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)<!-- MEMES:END -->
 
 --- 
 
