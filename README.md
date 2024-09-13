@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;There&#39;s an alternate universe where Half-Life disappeared after release&#39;: Valve&#39;s first marketing strategist Monica Harrington says she helped navigate its way out of early disaster](https://www.pcgamer.com/games/fps/theres-an-alternate-universe-where-half-life-disappeared-after-release-valves-first-marketing-strategist-monica-harrington-says-she-helped-navigate-its-way-out-of-early-disaster)
- - [Immortals of Aveum developers find a new home at Rockstar co-founder Dan Houser&#39;s Absurd Ventures studio](https://www.pcgamer.com/gaming-industry/immortals-of-aveum-developers-find-a-new-home-at-rockstar-co-founder-dan-housers-absurd-ventures-studio)
- - [Call Of Duty: Modern Warfare 3, Starfield, And More Missing From Game Pass Standard](https://kotaku.com/xbox-game-pass-standard-library-starfield-diablo-4-1851645117)<!-- GAME:END -->
+ - [Civil War, The Crow, Netflix’s Uglies, and every movie new to streaming this week](https://www.polygon.com/entertainment/449256/new-movies-civil-war-the-crow-uglies-netflix-watch-streaming)
+ - [The &#39;reverse localization&#39; of PC classic MechWarrior shows just how far ahead Japanese PC tech was in the early &#39;90s](https://www.pcgamer.com/games/action/the-reverse-localization-of-pc-classic-mechwarrior-shows-just-how-far-ahead-japanese-pc-tech-was-in-the-early-90s)
+ - [Control 2 isn&#39;t affected by the collapse of Annapurna Interactive because the deal was signed by the other Annapurna](https://www.pcgamer.com/games/action/control-2-isnt-affected-by-the-collapse-of-annapurna-interactive-because-the-deal-was-signed-by-the-other-annapurna)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
