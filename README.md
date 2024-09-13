@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Fei-Fei Li&#39;s World Labs, which aims to create &quot;spatial intelligence&quot; in AI and raised $230M from a16z and others, reportedly at a $1B valuation &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240913/p7#a240913p7)
- - [Sources: Microsoft has pitched its AI to ExxonMobil, Chevron, and others to find and develop oil and gas reserves while publicly committing to reduce emissions &lpar;Karen Hao/The Atlantic&rpar;](http://www.techmeme.com/240913/p6#a240913p6)
- - [United Airlines is adding free Starlink Wi-Fi to all of its planes](https://www.theverge.com/2024/9/13/24243594/united-airlines-free-starlink-wi-fi-connectivity)<!-- TECH:END -->
+ - [Sources detail a bleak picture for startup founders in China; report: only 1,202 startups were founded in 2023 in the country compared to 51,302 in 2018 &lpar;Financial Times&rpar;](http://www.techmeme.com/240913/p12#a240913p12)
+ - [Waymo and Uber plan to expand their robotaxi partnership in Phoenix, Arizona, to Austin and Atlanta, starting in early 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240913/p11#a240913p11)
+ - [Are Meal Kits Cheaper Than Groceries in 2024? I Priced Out 6 to See](https://www.cnet.com/health/nutrition/are-meal-kits-cheaper-than-groceries-in-2024-i-priced-out-6-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
