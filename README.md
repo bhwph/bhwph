@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [From the Archiv for my fellow Excel slaves](http://9gag.com/gag/a9yAGAK)
- - 😝 [Cute Dog](http://9gag.com/gag/ayNxj6W)
- - 👉 [Yoink](http://9gag.com/gag/aMVA7oV)<!-- MEMES:END -->
+ - 6️⃣ [To all 9 gagers](http://9gag.com/gag/apRQw2D)
+ - 😝 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
+ - 👉 [Patient](http://9gag.com/gag/aKGD5VO)<!-- MEMES:END -->
 
 --- 
 
