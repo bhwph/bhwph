@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will soon let you add more favorite contacts to your phone’s home screen](https://www.androidauthority.com/google-contacts-widget-favorites-update-3481546/)
- - [Google Pixel 9 Pro XL vs Apple iPhone 16 Pro Max: Which should you buy?](https://www.androidauthority.com/google-pixel-9-pro-xl-vs-iphone-16-pro-max-3481142/)
- - [Researchers detail GAZEploit, a now-fixed Vision Pro vulnerability allowing hackers to determine which key a user is typing based on the user&#39;s eye movement &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240912/p43#a240912p43)<!-- TECH:END -->
+ - [Q&amp;A with Alibaba.com president Kuo Zhang on the enduring importance of the US market, navigating geopolitical tensions, competing with Shein and Temu, and more &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/240913/p2#a240913p2)
+ - [The Galaxy S24 FE might not have a big price hike, but it’s not all good news](https://www.androidauthority.com/samsung-galaxy-s24-fe-smaller-price-hike-3480818/)
+ - [Android 15’s latest QPR beta makes your Pixel Tablet more of a desktop than ever before](https://www.androidauthority.com/android-15-qpr-2-beta-1-desktop-windowing-3481557/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
