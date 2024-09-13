@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [From specs to pricing: Xiaomi’s upcoming Galaxy S24, Pixel 9 rival leaks in full](https://www.androidauthority.com/xiaomi-14t-series-leak-3481589/)
- - [TECNO PHANTOM V Fold 2 and V Flip 2 launch alongside new PHANTOM V Pen](https://www.androidauthority.com/tecno-phantom-v-fold-2-3481369/)
- - [This Is How Johnnie Walker Made the World’s Lightest Whisky Bottle](https://www.wired.com/story/this-is-how-johnnie-walker-made-the-worlds-lightest-whisky-bottle/)<!-- TECH:END -->
+ - [Beautiful 1.7-Liter Electric Kettle Review: When Form and Function Make Sense](https://www.wired.com/review/beautiful-by-drew-barrymore-electric-kettle-one-touch/)
+ - [Apple’s AirPods Pro 2 just got FDA approval to double-up as hearing aids](https://www.androidauthority.com/apple-airpods-hearing-aid-fda-approval-3481587/)
+ - [Best CD Rates Today, Sept. 13, 2024: Don&#39;t Sleep on These High APYs. A Fed Rate Cut Is Looming](https://www.cnet.com/personal-finance/banking/cd-rates-today-sept-13-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
