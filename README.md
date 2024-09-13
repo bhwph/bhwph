@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Acer responds to claims its gaming laptop intro was misogynistic: &#39;Acer makes no difference in gender, our objective is to make technology available to everybody&#39;](https://www.pcgamer.com/hardware/acer-responds-to-claims-its-gaming-laptop-intro-was-misogynistic-acer-makes-no-difference-in-gender-our-objective-is-to-make-technology-available-to-everybody)
- - [These Horror Movie Children Keep Us Up At Night](https://kotaku.com/horror-movie-children-creepy-m3gan-babadook-1851645971)
- - [All Zenless Zone Zero codes from the 1.2 livestream](https://www.pcgamer.com/games/action/zenless-zone-zero-1-2-livestream-codes)<!-- GAME:END -->
+ - [Annapurna Interactive&amp;#8217;s mass resignation won&amp;#8217;t affect Control 2 or Remedy adaptations](https://www.polygon.com/gaming/451240/control-2-remedy-annapurna-interactive-resignations)
+ - [Next Week on Xbox: New Games for September 16 to 20](https://news.xbox.com/en-us/2024/09/13/next-week-on-xbox-new-games-for-september-16-to-20/)
+ - [Rings of Power is speedrunning its most tragic plotline](https://www.polygon.com/lotr-rings-of-power/450415/numenor-tolkien-history-plot-why)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
