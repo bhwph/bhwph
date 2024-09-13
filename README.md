@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is toxic](http://9gag.com/gag/aAyD5Zd)
- - 😝 [Monkey](http://9gag.com/gag/a9yA01o)
- - 👉 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)<!-- MEMES:END -->
+ - 6️⃣ [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
+ - 😝 [I agree](http://9gag.com/gag/aZZg5Pp)
+ - 👉 [Don&#39;t let the boss know](http://9gag.com/gag/an7j335)<!-- MEMES:END -->
 
 --- 
 
