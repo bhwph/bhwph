@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Annapurna Interactive&amp;#8217;s mass resignation won&amp;#8217;t affect Control 2 or Remedy adaptations](https://www.polygon.com/gaming/451240/control-2-remedy-annapurna-interactive-resignations)
- - [Next Week on Xbox: New Games for September 16 to 20](https://news.xbox.com/en-us/2024/09/13/next-week-on-xbox-new-games-for-september-16-to-20/)
- - [Rings of Power is speedrunning its most tragic plotline](https://www.polygon.com/lotr-rings-of-power/450415/numenor-tolkien-history-plot-why)<!-- GAME:END -->
+ - [Look out, OpenAI&#39;s latest chatbot hallucinates less and might even count to three](https://www.pcgamer.com/software/ai/look-out-openais-latest-chatbot-hallucinates-less-and-might-even-count-to-three)
+ - [Share of the Week: Astro Bot](https://blog.playstation.com/2024/09/13/share-of-the-week-astro-bot/)
+ - [Share of the Week: Astro Bot](https://blog.playstation.com/2024/09/13/share-of-the-week-astro-bot/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
