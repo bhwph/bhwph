@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail a bleak picture for startup founders in China; report: only 1,202 startups were founded in 2023 in the country compared to 51,302 in 2018 &lpar;Financial Times&rpar;](http://www.techmeme.com/240913/p12#a240913p12)
- - [Waymo and Uber plan to expand their robotaxi partnership in Phoenix, Arizona, to Austin and Atlanta, starting in early 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240913/p11#a240913p11)
- - [Are Meal Kits Cheaper Than Groceries in 2024? I Priced Out 6 to See](https://www.cnet.com/health/nutrition/are-meal-kits-cheaper-than-groceries-in-2024-i-priced-out-6-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16: You Can Preorder Apple&#39;s New Phone Now. Trade-In Details and Today&#39;s Best Deals](https://www.cnet.com/deals/iphone-16-you-can-preorder-apples-new-phone-now-trade-in-details-and-todays-best-deals/#ftag=CAD590a51e)
+ - [‘Terrorgram’ Charges Show US Has Had Tools to Crack Down on Far-Right Terrorism All Along](https://www.wired.com/story/terrorgram-collective-indictments/)
+ - [Clear Your iPhone Cache Before You Upgrade to iOS 18](https://www.cnet.com/tech/services-and-software/clear-your-iphone-cache-before-you-upgrade-to-ios-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
