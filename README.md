@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: OpenAI&#39;s ChatGPT has 11M+ paying subscribers, including 1M for its higher-priced business plans, implying it&#39;s generating $225M+ in revenue per month &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/240912/p37#a240912p37)
- - [Android 15 QPR1 lets you customize the mouse pointer so you can see it better](https://www.androidauthority.com/android-15-qpr1-mouse-pointer-customization-3481480/)
- - [The White House says Adobe, Cohere, Microsoft, Anthropic, OpenAI, and Common Crawl made voluntary commitments to fight AI-generated image-based sexual abuse &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240912/p36#a240912p36)<!-- TECH:END -->
+ - [Every, which offers startups an all-in-one finance and human resources suite that combines banking, cards, tax, payroll, and more, raised a $22.5M Series A &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240912/p41#a240912p41)
+ - [Come pixel-peep what the PS5 Pro can maybe actually do](https://www.theverge.com/2024/9/12/24243216/playstation-5-pro-ps5-big-4k-screenshots)
+ - [Should you buy an iPhone 16 or wait for the Galaxy S25?](https://www.androidauthority.com/iphone-16-vs-galaxy-s25-3480473/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
