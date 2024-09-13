@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beautiful 1.7-Liter Electric Kettle Review: When Form and Function Make Sense](https://www.wired.com/review/beautiful-by-drew-barrymore-electric-kettle-one-touch/)
- - [Apple’s AirPods Pro 2 just got FDA approval to double-up as hearing aids](https://www.androidauthority.com/apple-airpods-hearing-aid-fda-approval-3481587/)
- - [Best CD Rates Today, Sept. 13, 2024: Don&#39;t Sleep on These High APYs. A Fed Rate Cut Is Looming](https://www.cnet.com/personal-finance/banking/cd-rates-today-sept-13-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Fei-Fei Li&#39;s World Labs, which aims to create &quot;spatial intelligence&quot; in AI and raised $230M from a16z and others, reportedly at a $1B valuation &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240913/p7#a240913p7)
+ - [Sources: Microsoft has pitched its AI to ExxonMobil, Chevron, and others to find and develop oil and gas reserves while publicly committing to reduce emissions &lpar;Karen Hao/The Atlantic&rpar;](http://www.techmeme.com/240913/p6#a240913p6)
+ - [United Airlines is adding free Starlink Wi-Fi to all of its planes](https://www.theverge.com/2024/9/13/24243594/united-airlines-free-starlink-wi-fi-connectivity)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
