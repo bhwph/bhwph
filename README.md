@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every, which offers startups an all-in-one finance and human resources suite that combines banking, cards, tax, payroll, and more, raised a $22.5M Series A &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240912/p41#a240912p41)
- - [Come pixel-peep what the PS5 Pro can maybe actually do](https://www.theverge.com/2024/9/12/24243216/playstation-5-pro-ps5-big-4k-screenshots)
- - [Should you buy an iPhone 16 or wait for the Galaxy S25?](https://www.androidauthority.com/iphone-16-vs-galaxy-s25-3480473/)<!-- TECH:END -->
+ - [Google will soon let you add more favorite contacts to your phone’s home screen](https://www.androidauthority.com/google-contacts-widget-favorites-update-3481546/)
+ - [Google Pixel 9 Pro XL vs Apple iPhone 16 Pro Max: Which should you buy?](https://www.androidauthority.com/google-pixel-9-pro-xl-vs-iphone-16-pro-max-3481142/)
+ - [Researchers detail GAZEploit, a now-fixed Vision Pro vulnerability allowing hackers to determine which key a user is typing based on the user&#39;s eye movement &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240912/p43#a240912p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
