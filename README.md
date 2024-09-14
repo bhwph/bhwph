@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I love the Pixel 9 Pro Fold, even though it can’t fix the same old foldable foibles](https://www.androidauthority.com/google-pixel-9-pro-fold-review-3481366/)
- - [A new auction has a classic Apple II cassette tape signed by Steve Jobs](https://appleinsider.com/articles/24/09/14/a-new-auction-has-a-classic-apple-ii-cassette-tape-signed-by-steve-jobs?utm_medium=rss)
- - [Samsung’s massive OLED monitor is on sale with a free 24-inch display thrown in](https://www.theverge.com/2024/9/14/24243769/samsung-g9-odyssey-oled-gaming-monitor-god-of-war-ragnarok-deal-sale)<!-- TECH:END -->
+ - [Check out this Android tablet’s display that looks and feels like E-Ink, but is an LCD panel](https://www.androidauthority.com/hannspree-android-tablets-lcd-reflective-display-3479957/)
+ - [OpenAI should&#39;ve stuck with the name Strawberry for o1, avoiding user confusion between models named 4o and o1, and helping humanize the tech &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240914/p7#a240914p7)
+ - [Adobe Firefly&#39;s Newest Feature Will Be AI Video Generation](https://www.cnet.com/tech/services-and-software/adobe-fireflys-newest-feature-will-be-ai-video-generation/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
