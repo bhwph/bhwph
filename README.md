@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nani](http://9gag.com/gag/aKGDReZ)
- - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
- - 👉 [Can you imagine?](http://9gag.com/gag/agmYW96)<!-- MEMES:END -->
+ - 6️⃣ [Poor gets .5 seconds with God. Rich owns the God](http://9gag.com/gag/aNDz7d0)
+ - 😝 [Can you imagine?](http://9gag.com/gag/agmYW96)
+ - 👉 [Nani](http://9gag.com/gag/aKGDReZ)<!-- MEMES:END -->
 
 --- 
 
