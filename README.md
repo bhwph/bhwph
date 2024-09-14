@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sale: The Apple MacBook Air M1 is too good for $649](https://www.androidauthority.com/apple-macbook-air-m1-deal-3-3481756/)
- - [Google Meet’s ‘take notes with Gemini’ feature may soon go mobile &lpar;APK Teardown&rpar;](https://www.androidauthority.com/gemini-meeting-notes-mobile-3481808/)
- - [MicroStrategy stock jumped 8%+ on Friday after founder Michael Saylor said it purchased another $1.1B worth of bitcoin, taking its bitcoin holdings to $14.6B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240913/p26#a240913p26)<!-- TECH:END -->
+ - [Google ad trial: an ex-Facebook ad exec testifies the company signed the 2018 Jedi Blue deal with Google because it couldn&#39;t compete against Google&#39;s &quot;monopoly&quot; &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240913/p29#a240913p29)
+ - [Sources: Sam Altman told OpenAI&#39;s staff that the company plans to move away from being controlled by a nonprofit sometime in 2025 &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/240913/p28#a240913p28)
+ - [Google is testing hiding the AI origins of a new Search feature &lpar;Updated&rpar;](https://www.androidauthority.com/google-tests-ai-overviews-layout-3481683/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
