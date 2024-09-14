@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Has Helped Shein Become Fast Fashion’s Biggest Polluter](https://www.wired.com/story/shein-is-officially-the-biggest-polluter-in-fast-fashion-ai-is-making-things-worse/)
- - [Doctor Web: malware dubbed Android.Vo1d has infected ~1.3M TV boxes running OSes based on Android Open Source Project in almost 200 countries, forming a botnet &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240914/p3#a240914p3)
- - [In reports dated August 9, Indian antitrust regulator CCI found that Amazon and Flipkart violated local competition laws by giving preference to select sellers &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240914/p2#a240914p2)<!-- TECH:END -->
+ - [Before You Install iOS 18, Back Up Your iPhone the Right Way](https://www.cnet.com/tech/mobile/before-you-install-ios-18-back-up-your-iphone-the-right-way/#ftag=CAD590a51e)
+ - [Best Teeth Whitening Strips of 2024](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)
+ - [Best Chef&#39;s Knives for 2024, Tested and Reviewed](https://www.cnet.com/news/best-chefs-knife/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
