@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A childhood horror classic](http://9gag.com/gag/aQze5zq)
- - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
- - 👉 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)<!-- MEMES:END -->
+ - 6️⃣ [Owned](http://9gag.com/gag/aZZg6G6)
+ - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
+ - 👉 [All over...](http://9gag.com/gag/aD2zeyG)<!-- MEMES:END -->
 
 --- 
 
