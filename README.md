@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check out this Android tablet’s display that looks and feels like E-Ink, but is an LCD panel](https://www.androidauthority.com/hannspree-android-tablets-lcd-reflective-display-3479957/)
- - [OpenAI should&#39;ve stuck with the name Strawberry for o1, avoiding user confusion between models named 4o and o1, and helping humanize the tech &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240914/p7#a240914p7)
- - [Adobe Firefly&#39;s Newest Feature Will Be AI Video Generation](https://www.cnet.com/tech/services-and-software/adobe-fireflys-newest-feature-will-be-ai-video-generation/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8BitDo’s new Bluetooth mod kit puts GameCube controllers back into play](https://www.theverge.com/2024/9/14/24244670/8bitdo-mod-kit-gamecube-controller-bluetooth-hall-effects-joystick)
+ - [Pixel 9 Pro Fold has an unexpected advantage over its rivals](https://www.androidauthority.com/pixel-9-pro-fold-repairability-3481884/)
+ - [Streaming on Max: The 23 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-on-max-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
