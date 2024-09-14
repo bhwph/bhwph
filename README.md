@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
- - 😝 [The Punisher play D&amp;D](http://9gag.com/gag/abAzNwp)
- - 👉 [Happy Halloween](http://9gag.com/gag/aO8BMnv)<!-- MEMES:END -->
+ - 6️⃣ [I just went through your profile and laughed at some of your memes from a decade ago. Sleep well my friend](http://9gag.com/gag/a878xN1)
+ - 😝 [`A surprise I&#39;m sure, but a welcome one.`](http://9gag.com/gag/agmYDZr)
+ - 👉 [Double face](http://9gag.com/gag/a0e5rbd)<!-- MEMES:END -->
 
 --- 
 
