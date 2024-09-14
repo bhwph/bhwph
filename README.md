@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Have you ever seen a water-resistant Google TV made for the outdoors?](https://www.androidauthority.com/sylvox-water-resistant-outdoor-google-tv-3479971/)
- - [The Best Sex Toys &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
- - [Apple’s Visual Intelligence could be a step toward Apple glasses](https://www.theverge.com/2024/9/14/24243814/apple-iphone-16-visual-intelligence-glasses)<!-- TECH:END -->
+ - [I love the Pixel 9 Pro Fold, even though it can’t fix the same old foldable foibles](https://www.androidauthority.com/google-pixel-9-pro-fold-review-3481366/)
+ - [A new auction has a classic Apple II cassette tape signed by Steve Jobs](https://appleinsider.com/articles/24/09/14/a-new-auction-has-a-classic-apple-ii-cassette-tape-signed-by-steve-jobs?utm_medium=rss)
+ - [Samsung’s massive OLED monitor is on sale with a free 24-inch display thrown in](https://www.theverge.com/2024/9/14/24243769/samsung-g9-odyssey-oled-gaming-monitor-god-of-war-ragnarok-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
