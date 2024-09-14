@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8BitDo’s new Bluetooth mod kit puts GameCube controllers back into play](https://www.theverge.com/2024/9/14/24244670/8bitdo-mod-kit-gamecube-controller-bluetooth-hall-effects-joystick)
- - [Pixel 9 Pro Fold has an unexpected advantage over its rivals](https://www.androidauthority.com/pixel-9-pro-fold-repairability-3481884/)
- - [Streaming on Max: The 23 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-on-max-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA’s Starliner astronauts don’t feel ‘let down’ by Boeing’s spacecraft](https://www.theverge.com/2024/9/14/24244790/nasa-starliner-astronauts-suni-williams-butch-wilmore-press-conference-boeing)
+ - [Best Internet Providers in Jacksonville, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-nc/#ftag=CAD590a51e)
+ - [Apple&#39;s Activation Lock for iPhone components will make a huge dent in the market for stolen iPhones, though it introduces another barrier to DIY repairs &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240914/p9#a240914p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
