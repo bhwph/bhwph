@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can you imagine?](http://9gag.com/gag/agmYW96)
- - 😝 [How&#39;s your country&#39;s trash management?](http://9gag.com/gag/aZZg6q9)
- - 👉 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)<!-- MEMES:END -->
+ - 6️⃣ [A family](http://9gag.com/gag/aYQ43Xv)
+ - 😝 [Louis is one of the best characters in the series](http://9gag.com/gag/aqy10bR)
+ - 👉 [Double face](http://9gag.com/gag/a0e5rbd)<!-- MEMES:END -->
 
 --- 
 
