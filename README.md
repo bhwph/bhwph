@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google ad trial: an ex-Facebook ad exec testifies the company signed the 2018 Jedi Blue deal with Google because it couldn&#39;t compete against Google&#39;s &quot;monopoly&quot; &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240913/p29#a240913p29)
- - [Sources: Sam Altman told OpenAI&#39;s staff that the company plans to move away from being controlled by a nonprofit sometime in 2025 &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/240913/p28#a240913p28)
- - [Google is testing hiding the AI origins of a new Search feature &lpar;Updated&rpar;](https://www.androidauthority.com/google-tests-ai-overviews-layout-3481683/)<!-- TECH:END -->
+ - [You have until Sunday to save big on the Samsung Galaxy Z Fold 6 and Z Flip 6](https://www.androidauthority.com/samsung-galaxy-z-flold-6-galaxy-z-flip-6-deals-3481755/)
+ - [Sources: OpenAI&#39;s $150B valuation in a $6.5B funding round hinges on whether the company can upend its corporate structure and remove a profit cap for investors &lpar;Reuters&rpar;](http://www.techmeme.com/240913/p31#a240913p31)
+ - [Best Cordless Drill of 2024](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
