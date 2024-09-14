@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Two Very Intense Disney Adults Spent $400,000 Trying To Get Back Into The Park&#39;s Exclusive Club 33 After Being Banned](https://kotaku.com/disney-adults-club-33-intoxication-lawsuit-1851648600)
  - [PS5 Pro Reactions, Destiny Anniversary Feels, And More Of This Week&#39;s Spiciest Takes](https://kotaku.com/ps5-pro-reactions-destiny-anniversary-feels-and-more-1851647997)
- - [Tips To Get You Started Strong In Astro Bot, Games To Play After Black Myth: Wukong And More Pointers For The Week](https://kotaku.com/tips-to-get-you-started-strong-in-astro-bot-games-to-p-1851647996)
- - [The Killer’s Game director J.J. Perry wants to be Dave Bautista &amp;#8216;so bad it makes my damn teeth hurt&amp;#8217;](https://www.polygon.com/action/450970/the-killers-game-dave-bautista-movie-director-jj-perry-interview)<!-- GAME:END -->
+ - [Tips To Get You Started Strong In Astro Bot, Games To Play After Black Myth: Wukong And More Pointers For The Week](https://kotaku.com/tips-to-get-you-started-strong-in-astro-bot-games-to-p-1851647996)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
