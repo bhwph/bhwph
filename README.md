@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go Ponyta and Galarian Ponyta Community Day guide](https://www.polygon.com/pokemon-go-guide/448417/ponyta-community-day-galarian-shiny-rapidash)
  - [Penny&#39;s Big Breakaway studio announces layoffs: &#39;Evening Star has been swept up in the same turbulence that has affected so many of our peers in the games industry&#39;](https://www.pcgamer.com/games/action/pennys-big-breakaway-studio-announces-layoffs-evening-star-has-been-swept-up-in-the-same-turbulence-that-has-affected-so-many-of-our-peers-in-the-games-industry)
- - [Civil War, The Crow, Netflix’s Uglies, and every movie new to streaming this week](https://www.polygon.com/entertainment/449256/new-movies-civil-war-the-crow-uglies-netflix-watch-streaming)
- - [The &#39;reverse&#39; localization of PC classic MechWarrior shows just how far ahead Japanese PC tech was in the early &#39;90s](https://www.pcgamer.com/games/action/the-reverse-localization-of-pc-classic-mechwarrior-shows-just-how-far-ahead-japanese-pc-tech-was-in-the-early-90s)<!-- GAME:END -->
+ - [Civil War, The Crow, Netflix’s Uglies, and every movie new to streaming this week](https://www.polygon.com/entertainment/449256/new-movies-civil-war-the-crow-uglies-netflix-watch-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
