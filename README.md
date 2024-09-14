@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An ER Doctor’s Cure for America’s Gun Epidemic](https://www.wired.com/story/an-er-doctors-cure-for-americas-gun-epidemic/)
- - [Security News This Week: A Creative Trick Makes ChatGPT Spit Out Bomb-Making Instructions](https://www.wired.com/story/chatgpt-jailbreak-homemade-bomb-instructions/)
- - [What Is Wi-Fi 7? Everything to Know About the Next Standard](https://www.wired.com/story/what-is-wi-fi-7/)<!-- TECH:END -->
+ - [JD Vance sells himself to Silicon Valley](https://www.theverge.com/2024/9/14/24244137/jd-vance-all-in-david-sacks-trump)
+ - [I checked out a Ki-compatible blender, and I’m still skeptical about the wireless kitchen](https://www.androidauthority.com/midea-ki-kitchen-blender-3479617/)
+ - [South Sudan May See the First Permanent Mass Displacement Due to Climate Change](https://www.wired.com/story/south-sudan-floods-the-first-example-of-a-mass-population-permanently-displaced-by-climate-change/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
