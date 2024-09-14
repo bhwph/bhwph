@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Owned](http://9gag.com/gag/aZZg6G6)
- - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
- - 👉 [All over...](http://9gag.com/gag/aD2zeyG)<!-- MEMES:END -->
+ - 6️⃣ [Can you imagine?](http://9gag.com/gag/agmYW96)
+ - 😝 [How&#39;s your country&#39;s trash management?](http://9gag.com/gag/aZZg6q9)
+ - 👉 [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)<!-- MEMES:END -->
 
 --- 
 
