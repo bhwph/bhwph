@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2001’s Black &amp;#038; White is finally playable again &lpar;kind of&rpar;](https://www.polygon.com/impressions/448593/black-white-2001-playable-game-preservation)
- - [Today&#39;s Wordle answer for Saturday, September 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-14-2024)
- - [Pokémon Go Ponyta and Galarian Ponyta Community Day guide](https://www.polygon.com/pokemon-go-guide/448417/ponyta-community-day-galarian-shiny-rapidash)<!-- GAME:END -->
+ - [Dress to Impress is invading IRL fashion looks](https://www.polygon.com/culture/451404/dress-to-impress-fashion-roblox-tiktok-trend)
+ - [The Difference Between &quot;Vintage&quot; And &quot;Retro&quot; Has Tons Of NYT Connections Players Stumped Today](https://kotaku.com/nyt-connections-groups-and-answers-september-14-1851648547)
+ - [The best thrillers to watch on Netflix this September](https://www.polygon.com/what-to-watch/451107/best-thriller-movies-netflix-watch-september-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
