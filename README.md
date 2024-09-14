@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Poor gets .5 seconds with God. Rich owns the God](http://9gag.com/gag/aNDz7d0)
- - 😝 [Can you imagine?](http://9gag.com/gag/agmYW96)
+ - 6️⃣ [What are they doing?](http://9gag.com/gag/aqy13xp)
+ - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
  - 👉 [Nani](http://9gag.com/gag/aKGDReZ)<!-- MEMES:END -->
 
 --- 
