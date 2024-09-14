@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [PS5 Pro Reactions, Destiny Anniversary Feels, And More Of This Week&#39;s Spiciest Takes](https://kotaku.com/ps5-pro-reactions-destiny-anniversary-feels-and-more-1851647997)
  - [Tips To Get You Started Strong In Astro Bot, Games To Play After Black Myth: Wukong And More Pointers For The Week](https://kotaku.com/tips-to-get-you-started-strong-in-astro-bot-games-to-p-1851647996)
- - [The Killer’s Game director J.J. Perry wants to be Dave Bautista &amp;#8216;so bad it makes my damn teeth hurt&amp;#8217;](https://www.polygon.com/action/450970/the-killers-game-dave-bautista-movie-director-jj-perry-interview)
- - [The PS5 Pro&#39;s Power &lpar;And Its Price&rpar; Are Finally Revealed, Star Wars Outlaws&#39; Start Gets Less Frustrating, And More Of The Week&#39;s Top Stories](https://kotaku.com/ps5-pro-price-star-wars-outlaws-stealth-missions-1851647995)<!-- GAME:END -->
+ - [The Killer’s Game director J.J. Perry wants to be Dave Bautista &amp;#8216;so bad it makes my damn teeth hurt&amp;#8217;](https://www.polygon.com/action/450970/the-killers-game-dave-bautista-movie-director-jj-perry-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
