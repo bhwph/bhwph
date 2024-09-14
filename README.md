@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Before You Install iOS 18, Back Up Your iPhone the Right Way](https://www.cnet.com/tech/mobile/before-you-install-ios-18-back-up-your-iphone-the-right-way/#ftag=CAD590a51e)
- - [Best Teeth Whitening Strips of 2024](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)
- - [Best Chef&#39;s Knives for 2024, Tested and Reviewed](https://www.cnet.com/news/best-chefs-knife/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An ER Doctor’s Cure for America’s Gun Epidemic](https://www.wired.com/story/an-er-doctors-cure-for-americas-gun-epidemic/)
+ - [Security News This Week: A Creative Trick Makes ChatGPT Spit Out Bomb-Making Instructions](https://www.wired.com/story/chatgpt-jailbreak-homemade-bomb-instructions/)
+ - [What Is Wi-Fi 7? Everything to Know About the Next Standard](https://www.wired.com/story/what-is-wi-fi-7/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
