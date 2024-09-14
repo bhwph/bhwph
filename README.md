@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JD Vance sells himself to Silicon Valley](https://www.theverge.com/2024/9/14/24244137/jd-vance-all-in-david-sacks-trump)
- - [I checked out a Ki-compatible blender, and I’m still skeptical about the wireless kitchen](https://www.androidauthority.com/midea-ki-kitchen-blender-3479617/)
- - [South Sudan May See the First Permanent Mass Displacement Due to Climate Change](https://www.wired.com/story/south-sudan-floods-the-first-example-of-a-mass-population-permanently-displaced-by-climate-change/)<!-- TECH:END -->
+ - [Have you ever seen a water-resistant Google TV made for the outdoors?](https://www.androidauthority.com/sylvox-water-resistant-outdoor-google-tv-3479971/)
+ - [The Best Sex Toys &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
+ - [Apple’s Visual Intelligence could be a step toward Apple glasses](https://www.theverge.com/2024/9/14/24243814/apple-iphone-16-visual-intelligence-glasses)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
