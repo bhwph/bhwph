@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You have until Sunday to save big on the Samsung Galaxy Z Fold 6 and Z Flip 6](https://www.androidauthority.com/samsung-galaxy-z-flold-6-galaxy-z-flip-6-deals-3481755/)
- - [Sources: OpenAI&#39;s $150B valuation in a $6.5B funding round hinges on whether the company can upend its corporate structure and remove a profit cap for investors &lpar;Reuters&rpar;](http://www.techmeme.com/240913/p31#a240913p31)
- - [Best Cordless Drill of 2024](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In reports dated August 9, Indian antitrust regulator CCI found that Amazon and Flipkart violated local competition laws by giving preference to select sellers &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240914/p2#a240914p2)
+ - [India&#39;s new M&amp;A rule for deals exceeding ~$240M could create hurdles for startups that hope to be acquired in their early years to access funding and scale &lpar;Menaka Doshi/Bloomberg&rpar;](http://www.techmeme.com/240914/p1#a240914p1)
+ - [Samsung Galaxy Ring tips and tricks: Get the most out of your device](https://www.androidauthority.com/samsung-galaxy-ring-tips-3475051/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
