@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What are they doing?](http://9gag.com/gag/aqy13xp)
+ - 6️⃣ [All over...](http://9gag.com/gag/aD2zeyG)
  - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
- - 👉 [Nani](http://9gag.com/gag/aKGDReZ)<!-- MEMES:END -->
+ - 👉 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)<!-- MEMES:END -->
 
 --- 
 
