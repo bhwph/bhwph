@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not today](http://9gag.com/gag/aoyOvDe)
- - 😝 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
- - 👉 [Tips and tricks for landlord](http://9gag.com/gag/avy7NPd)<!-- MEMES:END -->
+ - 6️⃣ [A childhood horror classic](http://9gag.com/gag/aQze5zq)
+ - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
+ - 👉 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)<!-- MEMES:END -->
 
 --- 
 
