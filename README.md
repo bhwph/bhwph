@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Louis is one of the best characters in the series](http://9gag.com/gag/aqy10bR)
- - 😝 [An islamic immigrant beating police cop in London, I think you imported a very wrong group of immigrants Europe!!](http://9gag.com/gag/aNDz7Yb)
- - 👉 [I just went through your profile and laughed at some of your memes from a decade ago. Sleep well my friend](http://9gag.com/gag/a878xN1)<!-- MEMES:END -->
+ - 6️⃣ [Nani](http://9gag.com/gag/aKGDReZ)
+ - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
+ - 👉 [Can you imagine?](http://9gag.com/gag/agmYW96)<!-- MEMES:END -->
 
 --- 
 
