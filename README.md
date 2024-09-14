@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dress to Impress is invading IRL fashion looks](https://www.polygon.com/culture/451404/dress-to-impress-fashion-roblox-tiktok-trend)
- - [The Difference Between &quot;Vintage&quot; And &quot;Retro&quot; Has Tons Of NYT Connections Players Stumped Today](https://kotaku.com/nyt-connections-groups-and-answers-september-14-1851648547)
- - [The best thrillers to watch on Netflix this September](https://www.polygon.com/what-to-watch/451107/best-thriller-movies-netflix-watch-september-2024)<!-- GAME:END -->
+ - [Tips To Get You Started Strong In Astro Bot, Games To Play After Black Myth: Wukong And More Pointers For The Week](https://kotaku.com/tips-to-get-you-started-strong-in-astro-bot-games-to-p-1851647996)
+ - [The Killer’s Game director J.J. Perry wants to be Dave Bautista &amp;#8216;so bad it makes my damn teeth hurt&amp;#8217;](https://www.polygon.com/action/450970/the-killers-game-dave-bautista-movie-director-jj-perry-interview)
+ - [The PS5 Pro&#39;s Power &lpar;And Its Price&rpar; Are Finally Revealed, Star Wars Outlaws&#39; Start Gets Less Frustrating, And More Of The Week&#39;s Top Stories](https://kotaku.com/ps5-pro-price-star-wars-outlaws-stealth-missions-1851647995)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
