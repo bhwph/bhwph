@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)
- - [Latest Galaxy S25 Ultra render leak compares it to the Galaxy S24 Ultra](https://www.androidauthority.com/galaxy-s25-ultra-render-comparison-3481903/)
- - [Bengals vs. Chiefs: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/bengals-vs-chiefs-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Original Flappy Bird creator wants you to know he does not support the new game](https://www.androidauthority.com/flappy-bird-creator-speaks-3481908/)
+ - [The Port of Seattle says the Rhysida ransomware operation was behind an August 24 cyberattack and that it appears &quot;some Port data was obtained by the actor&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240915/p5#a240915p5)
+ - [Apple will charge more to swap your iPhone 16 Pro battery](https://www.theverge.com/2024/9/15/24245431/iphone-16-pro-max-battery-replacement-price-increase-apple-repair)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
