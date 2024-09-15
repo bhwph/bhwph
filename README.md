@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All over...](http://9gag.com/gag/aD2zeyG)
- - 😝 [Power of friendship](http://9gag.com/gag/avy7KZX)
- - 👉 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)<!-- MEMES:END -->
+ - 6️⃣ [From accuser to victim](http://9gag.com/gag/a7oD46q)
+ - 😝 [Can you imagine?](http://9gag.com/gag/agmYW96)
+ - 👉 [Poor gets .5 seconds with God. Rich owns the God](http://9gag.com/gag/aNDz7d0)<!-- MEMES:END -->
 
 --- 
 
