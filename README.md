@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Natural Sleep Aids &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-natural-sleep-aids/)
- - [The Best Vibrators &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)
- - [iPhone Buttons Are Back, Baby! Apple&#39;s About-Face Is All for the Sake of AI](https://www.cnet.com/tech/mobile/iphone-buttons-are-back-baby-apples-about-face-is-all-for-the-sake-of-ai/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crime blotter: iPhone thefts from children, and AirTags to the rescue](https://appleinsider.com/articles/24/09/15/crime-blotter-iphone-thefts-from-children-and-airtags-to-the-rescue?utm_medium=rss)
+ - [The Best Audiophile Gear &lpar;2024&rpar;: Headphones, Speakers, Amps, DACs](https://www.wired.com/story/audiophile-gear-guide/)
+ - [Shogun Showdown makes you feel like a genius by showing you the future](https://www.theverge.com/2024/9/15/24243908/shogun-showdown-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
