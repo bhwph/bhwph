@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: iPhone thefts from children, and AirTags to the rescue](https://appleinsider.com/articles/24/09/15/crime-blotter-iphone-thefts-from-children-and-airtags-to-the-rescue?utm_medium=rss)
- - [The Best Audiophile Gear &lpar;2024&rpar;: Headphones, Speakers, Amps, DACs](https://www.wired.com/story/audiophile-gear-guide/)
- - [Shogun Showdown makes you feel like a genius by showing you the future](https://www.theverge.com/2024/9/15/24243908/shogun-showdown-review)<!-- TECH:END -->
+ - [Shark PowerDetect 2-in-1 Robot Vacuum and Mop Review &lpar;2024&rpar;](https://www.wired.com/review/review-shark-powerdetect-2-in-1-robot-vacuum/)
+ - [40 Acres is a gruesome parable about finding hope in the apocalypse](https://www.theverge.com/2024/9/15/24243913/40-acres-review)
+ - [The great Evernote reboot](https://www.theverge.com/2024/9/15/24242764/evernote-future-productivity-app-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
