@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Watch Dogs movie has finished filming, probably can&#39;t do worse than the Borderlands movie did](https://www.pcgamer.com/movies-tv/the-watch-dogs-movie-has-finished-filming-probably-cant-do-worse-than-the-borderlands-movie-did)
- - [Overwatch 2 gets a set of World of Warcraft 20th anniversary crossover skins](https://www.pcgamer.com/games/fps/overwatch-2-gets-a-set-of-world-of-warcraft-20th-anniversary-crossover-skins)
- - [Disco Elysium&#39;s narrator is going to stream Disco Elysium to raise funds for Palestine](https://www.pcgamer.com/games/rpg/disco-elysiums-narrator-is-going-to-stream-disco-elysium-to-raise-funds-for-palestine)<!-- GAME:END -->
+ - [Pocketpair confirms Palworld isn&#39;t turning into a live-service game and won&#39;t be free-to-play: &#39;We are not changing our game&#39;s business model&#39;](https://www.pcgamer.com/games/survival-crafting/pocketpair-confirms-palworld-isnt-turning-into-a-live-service-game-and-wont-be-free-to-play-we-are-not-changing-our-games-business-model)
+ - [Deadlock has picked up some vital tools for policing bad player behavior](https://www.pcgamer.com/games/moba/deadlock-has-picked-up-some-vital-tools-for-policing-bad-player-behavior)
+ - [The Watch Dogs movie has finished filming, probably can&#39;t do worse than the Borderlands movie did](https://www.pcgamer.com/movies-tv/the-watch-dogs-movie-has-finished-filming-probably-cant-do-worse-than-the-borderlands-movie-did)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
