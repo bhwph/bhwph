@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Noche UFC Deserved Our Reservation, Now It Deserves Our Praise](https://kotaku.com/noche-ufc-deserved-our-reservation-now-it-deserves-our-1851648725)
  - [7 great games under 5 hours long to play this weekend](https://www.polygon.com/what-to-play/450384/best-short-games-nintendo-switch-windows-pc)
- - [No Amount Of Non-Astro Bot News From Sony Can Keep Us From Talking About This Delightful Game](https://kotaku.com/astro-bot-sony-concord-ps5-pro-1851648360)
- - [Our Staff Has Wildly Differing Opinions On The PS5 Pro — Here&#39;s Why](https://kotaku.com/ps5-pro-price-graphics-opinions-1851648372)<!-- GAME:END -->
+ - [No Amount Of Non-Astro Bot News From Sony Can Keep Us From Talking About This Delightful Game](https://kotaku.com/astro-bot-sony-concord-ps5-pro-1851648360)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
