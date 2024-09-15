@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Staff Has Wildly Differing Opinions On The PS5 Pro — Here&#39;s Why](https://kotaku.com/ps5-pro-price-graphics-opinions-1851648372)
- - [If You Struggled With Today&#39;s NYT Connections Answers, The Group That Includes &quot;Clown&quot; May Be Describing You](https://kotaku.com/nyt-connections-groups-and-answers-sunday-september-15-1851648676)
- - [An oral history of the action classic Blood and Bone](https://www.polygon.com/action/450051/an-oral-history-of-the-action-classic-blood-and-bone)<!-- GAME:END -->
+ - [7 great games under 5 hours long to play this weekend](https://www.polygon.com/what-to-play/450384/best-short-games-nintendo-switch-windows-pc)
+ - [No Amount Of Non-Astro Bot News From Sony Can Keep Us From Talking About This Delightful Game](https://kotaku.com/astro-bot-sony-concord-ps5-pro-1851648360)
+ - [Our Staff Has Wildly Differing Opinions On The PS5 Pro — Here&#39;s Why](https://kotaku.com/ps5-pro-price-graphics-opinions-1851648372)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
