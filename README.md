@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [232 million years ago the Carnian Pluvial Period took place, it was an intense rain that lasted 2 million years and changed life on earth.](http://9gag.com/gag/a878PKO)
- - 😝 [She came out to defend her man](http://9gag.com/gag/a6ZVPqq)
- - 👉 [Never Be The 2nd Option](http://9gag.com/gag/awyQWm1)<!-- MEMES:END -->
+ - 6️⃣ [All over...](http://9gag.com/gag/aD2zeyG)
+ - 😝 [Understandable](http://9gag.com/gag/aZZgGZQ)
+ - 👉 [A Pakistani was arrested for sexually assaulting a high Japanese schoolgirl on a train](http://9gag.com/gag/a0e52jn)<!-- MEMES:END -->
 
 --- 
 
