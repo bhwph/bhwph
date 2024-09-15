@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Time flies my dudes...](http://9gag.com/gag/axy0p1K)
- - 😝 [XAVEIR STRIKES AGAIN.. MIC DROP BOOM](http://9gag.com/gag/aKGDbeO)
- - 👉 [Scotland forever](http://9gag.com/gag/aXPv8d6)<!-- MEMES:END -->
+ - 6️⃣ [Lolololol](http://9gag.com/gag/a5Qn8oo)
+ - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
+ - 👉 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)<!-- MEMES:END -->
 
 --- 
 
