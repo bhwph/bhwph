@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She came out to defend her man](http://9gag.com/gag/a6ZVPqq)
- - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
- - 👉 [Can you imagine?](http://9gag.com/gag/agmYW96)<!-- MEMES:END -->
+ - 6️⃣ [Time flies my dudes...](http://9gag.com/gag/axy0p1K)
+ - 😝 [XAVEIR STRIKES AGAIN.. MIC DROP BOOM](http://9gag.com/gag/aKGDbeO)
+ - 👉 [Scotland forever](http://9gag.com/gag/aXPv8d6)<!-- MEMES:END -->
 
 --- 
 
