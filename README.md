@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA’s Starliner astronauts don’t feel ‘let down’ by Boeing’s spacecraft](https://www.theverge.com/2024/9/14/24244790/nasa-starliner-astronauts-suni-williams-butch-wilmore-press-conference-boeing)
- - [Best Internet Providers in Jacksonville, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-nc/#ftag=CAD590a51e)
- - [Apple&#39;s Activation Lock for iPhone components will make a huge dent in the market for stolen iPhones, though it introduces another barrier to DIY repairs &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240914/p9#a240914p9)<!-- TECH:END -->
+ - [Maryland-based Aembit, a non-human identity and access management provider, raised a $25M Series A led by Acrew Capital, bringing its total raised to ~$45M &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/240914/p10#a240914p10)
+ - [Best Nonstick Frying Pan for 2024](https://www.cnet.com/news/best-nonstick-frying-pans/#ftag=CAD590a51e)
+ - [Megalopolis could have let audiences ask Adam Driver questions during showings](https://www.theverge.com/2024/9/14/24244876/megalopolis-voice-recognition-tech-amazon-adam-driver-questions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
