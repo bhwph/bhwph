@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Confused by Warhammer 40,000? Now you can learn 40K lore with Space Marine 2&#39;s lead voice actor](https://www.pcgamer.com/games/third-person-shooter/confused-by-warhammer-40000-now-you-can-learn-40k-lore-with-space-marine-2s-lead-voice-actor)
- - [Today&#39;s Wordle answer for Sunday, September 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-15-2024)
- - [Pocketpair confirms Palworld isn&#39;t turning into a live-service game and won&#39;t be free-to-play: &#39;We are not changing our game&#39;s business model&#39;](https://www.pcgamer.com/games/survival-crafting/pocketpair-confirms-palworld-isnt-turning-into-a-live-service-game-and-wont-be-free-to-play-we-are-not-changing-our-games-business-model)<!-- GAME:END -->
+ - [Our Staff Has Wildly Differing Opinions On The PS5 Pro — Here&#39;s Why](https://kotaku.com/ps5-pro-price-graphics-opinions-1851648372)
+ - [If You Struggled With Today&#39;s NYT Connections Answers, The Group That Includes &quot;Clown&quot; May Be Describing You](https://kotaku.com/nyt-connections-groups-and-answers-sunday-september-15-1851648676)
+ - [An oral history of the action classic Blood and Bone](https://www.polygon.com/action/450051/an-oral-history-of-the-action-classic-blood-and-bone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
