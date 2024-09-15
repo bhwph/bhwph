@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Two Very Intense Disney Adults Spent $400,000 Trying To Get Back Into The Park&#39;s Exclusive Club 33 After Being Banned](https://kotaku.com/disney-adults-club-33-intoxication-lawsuit-1851648600)
- - [PS5 Pro Reactions, Destiny Anniversary Feels, And More Of This Week&#39;s Spiciest Takes](https://kotaku.com/ps5-pro-reactions-destiny-anniversary-feels-and-more-1851647997)
- - [Tips To Get You Started Strong In Astro Bot, Games To Play After Black Myth: Wukong And More Pointers For The Week](https://kotaku.com/tips-to-get-you-started-strong-in-astro-bot-games-to-p-1851647996)<!-- GAME:END -->
+ - [The Watch Dogs movie has finished filming, probably can&#39;t do worse than the Borderlands movie did](https://www.pcgamer.com/movies-tv/the-watch-dogs-movie-has-finished-filming-probably-cant-do-worse-than-the-borderlands-movie-did)
+ - [Overwatch 2 gets a set of World of Warcraft 20th anniversary crossover skins](https://www.pcgamer.com/games/fps/overwatch-2-gets-a-set-of-world-of-warcraft-20th-anniversary-crossover-skins)
+ - [Disco Elysium&#39;s narrator is going to stream Disco Elysium to raise funds for Palestine](https://www.pcgamer.com/games/rpg/disco-elysiums-narrator-is-going-to-stream-disco-elysium-to-raise-funds-for-palestine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
