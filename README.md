@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All over...](http://9gag.com/gag/aD2zeyG)
- - 😝 [Understandable](http://9gag.com/gag/aZZgGZQ)
- - 👉 [A Pakistani was arrested for sexually assaulting a high Japanese schoolgirl on a train](http://9gag.com/gag/a0e52jn)<!-- MEMES:END -->
+ - 6️⃣ [She came out to defend her man](http://9gag.com/gag/a6ZVPqq)
+ - 😝 [Not today](http://9gag.com/gag/aoyOvDe)
+ - 👉 [Can you imagine?](http://9gag.com/gag/agmYW96)<!-- MEMES:END -->
 
 --- 
 
