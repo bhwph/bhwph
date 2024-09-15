@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shark PowerDetect 2-in-1 Robot Vacuum and Mop Review &lpar;2024&rpar;](https://www.wired.com/review/review-shark-powerdetect-2-in-1-robot-vacuum/)
- - [40 Acres is a gruesome parable about finding hope in the apocalypse](https://www.theverge.com/2024/9/15/24243913/40-acres-review)
- - [The great Evernote reboot](https://www.theverge.com/2024/9/15/24242764/evernote-future-productivity-app-vergecast)<!-- TECH:END -->
+ - [No Samsung, no subscription fees: Is the Ultrahuman Ring Air a good Galaxy Ring alternative?](https://www.androidauthority.com/ultrahuman-ring-air-review-3472552/)
+ - [4 Tools That Make It Easier to Write While Traveling—Wherever You Go](https://www.wired.com/story/4-tools-tips-easy-write-work-remotely/)
+ - [Flappy Bird’s original creator says he has nothing to do with the new game](https://www.theverge.com/2024/9/15/24245216/flappy-bird-creator-dong-nguyen-not-involved-new-game)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
