@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [From accuser to victim](http://9gag.com/gag/a7oD46q)
- - 😝 [Can you imagine?](http://9gag.com/gag/agmYW96)
- - 👉 [Poor gets .5 seconds with God. Rich owns the God](http://9gag.com/gag/aNDz7d0)<!-- MEMES:END -->
+ - 6️⃣ [How&#39;s your country&#39;s trash management?](http://9gag.com/gag/aZZg6q9)
+ - 😝 [Salute for this kind of guy.](http://9gag.com/gag/aGyeWpX)
+ - 👉 [Sir please step out the vehicle](http://9gag.com/gag/a34M9X5)<!-- MEMES:END -->
 
 --- 
 
