@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, September 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-15-2024)
  - [Pocketpair confirms Palworld isn&#39;t turning into a live-service game and won&#39;t be free-to-play: &#39;We are not changing our game&#39;s business model&#39;](https://www.pcgamer.com/games/survival-crafting/pocketpair-confirms-palworld-isnt-turning-into-a-live-service-game-and-wont-be-free-to-play-we-are-not-changing-our-games-business-model)
- - [Deadlock has picked up some vital tools for policing bad player behavior](https://www.pcgamer.com/games/moba/deadlock-has-picked-up-some-vital-tools-for-policing-bad-player-behavior)
- - [The Watch Dogs movie has finished filming, probably can&#39;t do worse than the Borderlands movie did](https://www.pcgamer.com/movies-tv/the-watch-dogs-movie-has-finished-filming-probably-cant-do-worse-than-the-borderlands-movie-did)<!-- GAME:END -->
+ - [Deadlock has picked up some vital tools for policing bad player behavior](https://www.pcgamer.com/games/moba/deadlock-has-picked-up-some-vital-tools-for-policing-bad-player-behavior)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
