@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Computer knows](http://9gag.com/gag/a34M6r1)
- - 😝 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)
- - 👉 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)<!-- MEMES:END -->
+ - 6️⃣ [A Swedish politician is being investigated by police for reposting a drawing on X.](http://9gag.com/gag/a5QopMN)
+ - 😝 [Scotland forever](http://9gag.com/gag/aXPv8d6)
+ - 👉 [Jennifer Connelly](http://9gag.com/gag/amo2DAy)<!-- MEMES:END -->
 
 --- 
 
