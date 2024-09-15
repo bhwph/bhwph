@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Somewhere between Death Stranding and A Short Hike, there&#39;s Caravan SandWitch](https://www.pcgamer.com/games/somewhere-between-death-stranding-and-a-short-hike-theres-caravan-sandwitch)
  - [Noche UFC Deserved Our Reservation, Now It Deserves Our Praise](https://kotaku.com/noche-ufc-deserved-our-reservation-now-it-deserves-our-1851648725)
- - [7 great games under 5 hours long to play this weekend](https://www.polygon.com/what-to-play/450384/best-short-games-nintendo-switch-windows-pc)
- - [No Amount Of Non-Astro Bot News From Sony Can Keep Us From Talking About This Delightful Game](https://kotaku.com/astro-bot-sony-concord-ps5-pro-1851648360)<!-- GAME:END -->
+ - [7 great games under 5 hours long to play this weekend](https://www.polygon.com/what-to-play/450384/best-short-games-nintendo-switch-windows-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
