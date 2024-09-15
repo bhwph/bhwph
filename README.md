@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Totally changed](http://9gag.com/gag/a0eKvpZ)
- - 😝 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)
- - 👉 [When the day finally &#39;came&#39;](http://9gag.com/gag/aAyDnz0)<!-- MEMES:END -->
+ - 😝 [Understandable](http://9gag.com/gag/aZZgGZQ)
+ - 👉 [A map showcasing all 10,624 battles recorded on Wikipedia since 2500 BC](http://9gag.com/gag/agmYP4w)<!-- MEMES:END -->
 
 --- 
 
