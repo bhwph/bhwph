@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lolololol](http://9gag.com/gag/a5Qn8oo)
- - 😝 [Nani](http://9gag.com/gag/aKGDReZ)
+ - 6️⃣ [Computer knows](http://9gag.com/gag/a34M6r1)
+ - 😝 [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)
  - 👉 [Never booking Air Bnb again!](http://9gag.com/gag/aO8Bw8N)<!-- MEMES:END -->
 
 --- 
