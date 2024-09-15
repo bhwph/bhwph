@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Luckily none of them died, but they were close.](http://9gag.com/gag/aO8Bwjy)
+ - 6️⃣ [Totally changed](http://9gag.com/gag/a0eKvpZ)
  - 😝 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)
- - 👉 [Nani](http://9gag.com/gag/aKGDReZ)<!-- MEMES:END -->
+ - 👉 [When the day finally &#39;came&#39;](http://9gag.com/gag/aAyDnz0)<!-- MEMES:END -->
 
 --- 
 
