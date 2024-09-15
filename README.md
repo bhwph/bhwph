@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-15/#ftag=CAD590a51e)
  - [A look at the US DOJ&#39;s divestment case against TikTok, which relies on classified material that TikTok can&#39;t review, as oral arguments begin on September 16 &lpar;The Verge&rpar;](http://www.techmeme.com/240915/p2#a240915p2)
- - [Nirvana, which provides insurance verification and cost estimates to healthcare providers and their patients, raised a $24.2M Series A led by Northzone &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240915/p1#a240915p1)
- - [Regulatory reports: India&#39;s CCI accuses Samsung, Xiaomi, and other smartphone makers of collusion for exclusively launching products on Amazon and Flipkart &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240914/p13#a240914p13)<!-- TECH:END -->
+ - [Nirvana, which provides insurance verification and cost estimates to healthcare providers and their patients, raised a $24.2M Series A led by Northzone &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240915/p1#a240915p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
