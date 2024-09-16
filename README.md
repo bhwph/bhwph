@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What kind of sport is this](http://9gag.com/gag/arygp97)
- - 😝 [Marie](http://9gag.com/gag/a6ZVWYA)
- - 👉 [I choose the Bear](http://9gag.com/gag/arygvG5)<!-- MEMES:END -->
+ - 6️⃣ [The current situation in Sinaloa Mexico \ud83c\uddf2\ud83c\uddfd](http://9gag.com/gag/amo2j2y)
+ - 😝 [Marathon Girl](http://9gag.com/gag/avy7bRM)
+ - 👉 [And act like strangers](http://9gag.com/gag/agmXrq6)<!-- MEMES:END -->
 
 --- 
 
