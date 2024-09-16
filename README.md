@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who not?](http://9gag.com/gag/aByxRyO)
- - 😝 [Marathon Girl](http://9gag.com/gag/avy7bRM)
- - 👉 [Marie](http://9gag.com/gag/a6ZVWYA)<!-- MEMES:END -->
+ - 6️⃣ [India is Dark Souls for western women](http://9gag.com/gag/a9ypbg0)
+ - 😝 [A man with rare antigens that cure Rhesus disease donate plasma every week for 60 years saving 2.4 million babies.](http://9gag.com/gag/aZZgG79)
+ - 👉 [Speed was not bad though](http://9gag.com/gag/aLnjRLx)<!-- MEMES:END -->
 
 --- 
 
