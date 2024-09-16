@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You might start seeing Instagram comments on Threads soon](https://www.theverge.com/2024/9/15/24245679/meta-share-instagram-comments-threads-feature-rumor)
- - [Best Electric Kettles of 2024](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)
- - [iPhone 16 Reportedly Delivers 30% More Power for Gamers](https://www.cnet.com/tech/mobile/iphone-16-reportedly-delivers-30-more-power-for-gamers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16, iPhone 16 Plus may have been the bestsellers in debut weekend](https://appleinsider.com/articles/24/09/16/iphone-16-iphone-16-plus-may-have-been-the-bestsellers-in-debut-weekend?utm_medium=rss)
+ - [Best Internet Providers in Redding, California](https://www.cnet.com/home/internet/best-internet-providers-in-redding-ca/#ftag=CAD590a51e)
+ - [Stop Vacuuming Back and Forth and Try This Method for a Cleaner Home](https://www.cnet.com/home/kitchen-and-household/stop-vacuuming-back-and-forth-and-try-this-method-for-a-cleaner-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
