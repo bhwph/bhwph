@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Totally changed](http://9gag.com/gag/a0eKvpZ)
- - 😝 [Understandable](http://9gag.com/gag/aZZgGZQ)
- - 👉 [A map showcasing all 10,624 battles recorded on Wikipedia since 2500 BC](http://9gag.com/gag/agmYP4w)<!-- MEMES:END -->
+ - 6️⃣ [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
+ - 😝 [Marathon Girl](http://9gag.com/gag/avy7bRM)
+ - 👉 [Salute for this kind of guy.](http://9gag.com/gag/aGyeWpX)<!-- MEMES:END -->
 
 --- 
 
