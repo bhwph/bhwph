@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon CEO Andy Jassy tells employees to return to the office five days a week, citing the importance of the policy to the company&#39;s culture &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240916/p20#a240916p20)
- - [Gmail’s AI tricks will also work directly in the Gemini Assistant &lpar;APK Teardown&rpar;](https://www.androidauthority.com/gemini-window-gmail-features-3482141/)
- - [7 Best Bassinets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bassinets/)<!-- TECH:END -->
+ - [Intel announces it will coinvest with AWS in a custom AI chip in a &quot;multiyear, multibillion-dollar framework&quot; and is delaying plants in Germany and Poland &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240916/p24#a240916p24)
+ - [OpenAI says Sam Altman will no longer serve on its board&#39;s safety and security committee, which will now be fully composed of independent board members &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240916/p23#a240916p23)
+ - [Save $250 on the Apple AirPods Max only today &lpar;refurbished&rpar;](https://www.androidauthority.com/refurbished-apple-airpods-max-deal-3482155/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
