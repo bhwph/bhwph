@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Concord Platinum Trophy hunter came back from the grave to destroy the meme of 69 &lpar;nice&rpar; players achieving plat](https://www.pcgamer.com/games/fps/a-concord-platinum-trophy-hunter-came-back-from-the-grave-to-destroy-the-meme-of-69-nice-players-achieving-plat)
- - [Valve developer has to keep reminding players that Deadlock&#39;s anti-cheat system is coming and &#39;very high priority&#39;, since it&#39;s leaning mostly on player reports right now](https://www.pcgamer.com/games/moba/valve-developer-has-to-keep-reminding-players-that-deadlock-s-anti-cheat-system-is-coming-and-very-high-priority-since-it-s-leaning-mostly-on-player-reports-right-now)
- - [Flappy Bird creator says he&#39;s got nothing to do with the game&#39;s zombie comeback—&#39;I did not sell anything&#39;](https://www.pcgamer.com/gaming-industry/flappy-bird-creator-says-he-s-got-nothing-to-do-with-the-game-s-zombie-comeback-i-did-not-sell-anything)<!-- GAME:END -->
+ - [Here&#39;s what you need to know before picking up Star Wars Outlaws](https://www.pcgamer.com/games/heres-what-you-need-to-know-before-picking-up-star-wars-outlaws)
+ - [Report: PlayStation 6&#39;s Chip Choice Will Help With Backward Compatibility](https://kotaku.com/ps6-chip-release-date-backwards-compatibility-ps5-1851648868)
+ - [The 27 best retro games for Nintendo Switch Online + Expansion Pack subscribers](https://www.polygon.com/nintendo-switch/22752182/nintendo-switch-online-expansion-pack-best-retro-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
