@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 16 Plus is cannibalizing Pro models’ sales](https://www.androidauthority.com/iphone-16-plus-cannibalizing-pro-sales-3482027/)
- - [Samsung could score a first with rollable phone launch in 2025](https://www.androidauthority.com/samsung-rollable-phone-leak-3482026/)
- - [Google Contacts simplifies contact creation with fresh redesign](https://www.androidauthority.com/google-contacts-new-contact-redesign-3482007/)<!-- TECH:END -->
+ - [How Philips CEO Roy Jakobs is turning the company around after a major recall](https://www.theverge.com/24242833/philips-ceo-roy-jakobs-ai-healthcare-fda-cpap-recall-decoder-podcast-interview)
+ - [FDA approves Apple Watch sleep apnea detection &amp; notification](https://appleinsider.com/articles/24/09/16/fda-approves-apple-watch-sleep-apnea-detection-notification?utm_medium=rss)
+ - [Netflix Geeked Week 2024: all the news and trailers](https://www.theverge.com/2024/9/16/24246099/netflix-geeked-week-2024-news-trailers-stranger-things-squid-game)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
