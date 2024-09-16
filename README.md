@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Somehow, the Dog Situation on Airplanes Has Gotten Even Wilder](https://www.wired.com/story/dogs-on-planes-new-rabies-rules-august-2024/)
- - [Analysis: new iPhone first weekend pre-orders were down 12.7% to ~37M units; the iPhone 16 Pro declined 27% and iPhone 16 Pro Max 16% compared to the iPhone 15 &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/240916/p4#a240916p4)
- - [A plastic Apple Watch may debut next year](https://www.androidauthority.com/plastic-apple-watch-next-year-3481988/)<!-- TECH:END -->
+ - [The iPhone 16 Plus is cannibalizing Pro models’ sales](https://www.androidauthority.com/iphone-16-plus-cannibalizing-pro-sales-3482027/)
+ - [Samsung could score a first with rollable phone launch in 2025](https://www.androidauthority.com/samsung-rollable-phone-leak-3482026/)
+ - [Google Contacts simplifies contact creation with fresh redesign](https://www.androidauthority.com/google-contacts-new-contact-redesign-3482007/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
