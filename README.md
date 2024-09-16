@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Marie](http://9gag.com/gag/a6ZVWYA)
- - 😝 [My future](http://9gag.com/gag/aoyObnX)
- - 👉 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)<!-- MEMES:END -->
+ - 6️⃣ [Simple truth](http://9gag.com/gag/a7oM5dA)
+ - 😝 [The moment of realization](http://9gag.com/gag/aGyjKo7)
+ - 👉 [Who not?](http://9gag.com/gag/aByxRyO)<!-- MEMES:END -->
 
 --- 
 
