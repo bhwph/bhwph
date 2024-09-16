@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel announces it will coinvest with AWS in a custom AI chip in a &quot;multiyear, multibillion-dollar framework&quot; and is delaying plants in Germany and Poland &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240916/p24#a240916p24)
- - [OpenAI says Sam Altman will no longer serve on its board&#39;s safety and security committee, which will now be fully composed of independent board members &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240916/p23#a240916p23)
- - [Save $250 on the Apple AirPods Max only today &lpar;refurbished&rpar;](https://www.androidauthority.com/refurbished-apple-airpods-max-deal-3482155/)<!-- TECH:END -->
+ - [OpenAI is launching an ‘independent’ safety board that can stop its model releases](https://www.theverge.com/2024/9/16/24246617/openai-independent-safety-board-stop-model-releases)
+ - [JD Vance doesn’t care that his viral story about Haitian migrants is false](https://www.theverge.com/2024/9/16/24246598/jd-vance-cnn-dana-bash-haitians-springfield-ohio)
+ - [Intel’s big turnaround plan includes spinning off its chipmaking business](https://www.theverge.com/2024/9/16/24246599/intel-foundry-independent-spinoff)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
