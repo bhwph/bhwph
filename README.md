@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Simple truth](http://9gag.com/gag/a7oM5dA)
- - 😝 [The moment of realization](http://9gag.com/gag/aGyjKo7)
- - 👉 [Who not?](http://9gag.com/gag/aByxRyO)<!-- MEMES:END -->
+ - 6️⃣ [What kind of sport is this](http://9gag.com/gag/arygp97)
+ - 😝 [Marie](http://9gag.com/gag/a6ZVWYA)
+ - 👉 [I choose the Bear](http://9gag.com/gag/arygvG5)<!-- MEMES:END -->
 
 --- 
 
