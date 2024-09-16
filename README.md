@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)
- - 😝 [That\u2019s what friends are for.](http://9gag.com/gag/a7oD4dA)
- - 👉 [Forget about the guy in the black Tesla.](http://9gag.com/gag/awyXNx1)<!-- MEMES:END -->
+ - 6️⃣ [Marie](http://9gag.com/gag/a6ZVWYA)
+ - 😝 [My future](http://9gag.com/gag/aoyObnX)
+ - 👉 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)<!-- MEMES:END -->
 
 --- 
 
