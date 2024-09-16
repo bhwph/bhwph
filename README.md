@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [11xAI, which builds AI bots that help automate end-to-end workflows, raised a $24M Series A led by Benchmark and says it is nearing ARR of $10M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240916/p17#a240916p17)
- - [Grab Apple AirPods for as low as $89, with deals of up to $250 off](https://appleinsider.com/articles/24/09/16/grab-apple-airpods-for-as-low-as-89-with-deals-of-up-to-250-off?utm_medium=rss)
- - [Musk posted &quot;no one is even trying to assassinate Biden/Kamala &amp;#129300;&quot; after Trump&#39;s apparent assassination attempt, then deleted the false claim, calling it a joke &lpar;Flynn Nicholls/Newsweek&rpar;](http://www.techmeme.com/240916/p16#a240916p16)<!-- TECH:END -->
+ - [Amazon CEO Andy Jassy tells employees to return to the office five days a week, citing the importance of the policy to the company&#39;s culture &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240916/p20#a240916p20)
+ - [Gmail’s AI tricks will also work directly in the Gemini Assistant &lpar;APK Teardown&rpar;](https://www.androidauthority.com/gemini-window-gmail-features-3482141/)
+ - [7 Best Bassinets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bassinets/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
