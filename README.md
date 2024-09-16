@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT Glossary: 46 AI Terms That Everyone Should Know](https://www.cnet.com/tech/services-and-software/chatgpt-glossary-46-ai-terms-that-everyone-should-know/#ftag=CAD590a51e)
- - [Suspected Trump Gunman Was Once Charged With Possession of a Weapon of Mass Destruction](https://www.wired.com/story/ryan-routh-donald-trump-gunman-weapon-of-mass-destruction-criminal-record/)
- - [iPhone 16, iPhone 16 Plus may have been the bestsellers in debut weekend](https://appleinsider.com/articles/24/09/16/iphone-16-iphone-16-plus-may-have-been-the-bestsellers-in-debut-weekend?utm_medium=rss)<!-- TECH:END -->
+ - [Groq partners with Aramco to build a data center in Saudi Arabia by 2024, says it will be the world&#39;s largest AI inferencing center with 19K Groq&#39;s custom GPUs &lpar;Matthew Martin/Bloomberg&rpar;](http://www.techmeme.com/240916/p1#a240916p1)
+ - [Android 15 will give users more control over their Health Connect data &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-15-health-connect-backup-and-restroe-data-3481951/)
+ - [After iPhone 16, two Android brands are working on camera keys &lpar;Update: Three&rpar;](https://www.androidauthority.com/iphone-16-android-camera-buttons-3480341/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
