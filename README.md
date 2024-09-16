@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [India is Dark Souls for western women](http://9gag.com/gag/a9ypbg0)
- - 😝 [A man with rare antigens that cure Rhesus disease donate plasma every week for 60 years saving 2.4 million babies.](http://9gag.com/gag/aZZgG79)
- - 👉 [Speed was not bad though](http://9gag.com/gag/aLnjRLx)<!-- MEMES:END -->
+ - 6️⃣ [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)
+ - 😝 [That\u2019s what friends are for.](http://9gag.com/gag/a7oD4dA)
+ - 👉 [Forget about the guy in the black Tesla.](http://9gag.com/gag/awyXNx1)<!-- MEMES:END -->
 
 --- 
 
