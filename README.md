@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead by Daylight spinoff The Casting of Frank Stone needed to go harder](https://www.polygon.com/review/451854/dead-by-daylight-casting-of-frank-stone-story-franchise)
- - [Diablo 4 Players Have Spent $150 Million On Skins And Microtransactions](https://kotaku.com/diablo-4-players-skins-cosmetics-profits-150-million-1851649018)
- - [When does Modern Warfare 3 season 6 and The Haunting release?](https://www.polygon.com/modern-warfare-3-guides/451705/season-6-release-time-edt-pdt-bst-haunting-date)<!-- GAME:END -->
+ - [PlayStation 6 chip chosen back in 2022, partly over backward compatibility](https://www.polygon.com/playstation/451896/ps6-amd-cpu-gpu-backward-compatibility-sony)
+ - [A new sequel to Batman 1989 brings Clayface into the Burtonverse — here’s a taste](https://www.polygon.com/books/451732/batman-resurrection-book-batman-returns-sequel-john-jackson-miller-excerpt)
+ - [There&#39;s A Way To Play Cult Of The Lamb With Online Co-Op](https://kotaku.com/cult-of-the-lamb-online-co-op-devolver-1851649020)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
