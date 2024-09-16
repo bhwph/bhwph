@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The current situation in Sinaloa Mexico \ud83c\uddf2\ud83c\uddfd](http://9gag.com/gag/amo2j2y)
- - 😝 [Marathon Girl](http://9gag.com/gag/avy7bRM)
- - 👉 [And act like strangers](http://9gag.com/gag/agmXrq6)<!-- MEMES:END -->
+ - 6️⃣ [Revenge of the cat ladies! &lpar;Ubisoft staff then and now&rpar;](http://9gag.com/gag/aZZ3PqX)
+ - 😝 [Ah yes](http://9gag.com/gag/ae9MNxQ)
+ - 👉 [Marie](http://9gag.com/gag/a6ZVWYA)<!-- MEMES:END -->
 
 --- 
 
