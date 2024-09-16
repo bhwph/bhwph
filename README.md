@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Revenge of the cat ladies! &lpar;Ubisoft staff then and now&rpar;](http://9gag.com/gag/aZZ3PqX)
- - 😝 [Ah yes](http://9gag.com/gag/ae9MNxQ)
- - 👉 [Marie](http://9gag.com/gag/a6ZVWYA)<!-- MEMES:END -->
+ - 6️⃣ [Peak Old Days](http://9gag.com/gag/awyXbN1)
+ - 😝 [Tobacco company CEOs swearing under oath that nicotine is not addictive &lpar;1994&rpar;](http://9gag.com/gag/aZZgAX6)
+ - 👉 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)<!-- MEMES:END -->
 
 --- 
 
