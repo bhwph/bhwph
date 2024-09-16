@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Philips CEO Roy Jakobs is turning the company around after a major recall](https://www.theverge.com/24242833/philips-ceo-roy-jakobs-ai-healthcare-fda-cpap-recall-decoder-podcast-interview)
- - [FDA approves Apple Watch sleep apnea detection &amp; notification](https://appleinsider.com/articles/24/09/16/fda-approves-apple-watch-sleep-apnea-detection-notification?utm_medium=rss)
- - [Netflix Geeked Week 2024: all the news and trailers](https://www.theverge.com/2024/9/16/24246099/netflix-geeked-week-2024-news-trailers-stranger-things-squid-game)<!-- TECH:END -->
+ - [11xAI, which builds AI bots that help automate end-to-end workflows, raised a $24M Series A led by Benchmark and says it is nearing ARR of $10M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240916/p17#a240916p17)
+ - [Grab Apple AirPods for as low as $89, with deals of up to $250 off](https://appleinsider.com/articles/24/09/16/grab-apple-airpods-for-as-low-as-89-with-deals-of-up-to-250-off?utm_medium=rss)
+ - [Musk posted &quot;no one is even trying to assassinate Biden/Kamala &amp;#129300;&quot; after Trump&#39;s apparent assassination attempt, then deleted the false claim, calling it a joke &lpar;Flynn Nicholls/Newsweek&rpar;](http://www.techmeme.com/240916/p16#a240916p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
