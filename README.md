@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peak Old Days](http://9gag.com/gag/awyXbN1)
- - 😝 [Tobacco company CEOs swearing under oath that nicotine is not addictive &lpar;1994&rpar;](http://9gag.com/gag/aZZgAX6)
- - 👉 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)<!-- MEMES:END -->
+ - 6️⃣ [What is SHE smoking](http://9gag.com/gag/aXPxbM2)
+ - 😝 [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)
+ - 👉 [India is Dark Souls for western women](http://9gag.com/gag/a9ypbg0)<!-- MEMES:END -->
 
 --- 
 
