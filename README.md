@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And act like strangers](http://9gag.com/gag/agmXrq6)
- - 😝 [Peak Old Days](http://9gag.com/gag/awyXbN1)
- - 👉 [What is SHE smoking](http://9gag.com/gag/aXPxbM2)<!-- MEMES:END -->
+ - 6️⃣ [Peak Old Days](http://9gag.com/gag/awyXbN1)
+ - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
+ - 👉 [And act like strangers](http://9gag.com/gag/agmXrq6)<!-- MEMES:END -->
 
 --- 
 
