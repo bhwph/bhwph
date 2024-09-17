@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [People who annoy you](http://9gag.com/gag/aqy79QQ)
+ - 6️⃣ [What is SHE smoking](http://9gag.com/gag/aXPxbM2)
  - 😝 [Who not?](http://9gag.com/gag/aByxRyO)
- - 👉 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)<!-- MEMES:END -->
+ - 👉 [People who annoy you](http://9gag.com/gag/aqy79QQ)<!-- MEMES:END -->
 
 --- 
 
