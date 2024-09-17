@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the activity of some members of The Com, an online community linked to the Scattered Spider hacking group, and their involvement in extortion groups &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240916/p34#a240916p34)
- - [A US federal jury finds Zynga infringed on two IBM patents related to web-based communications and orders the game maker to pay $44.9M; Zynga plans to appeal &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240916/p33#a240916p33)
- - [‘I Told Him I’m Not Getting in It’: Former Titan Submersible Engineer Testifies](https://www.wired.com/story/oceangate-hearings-day-one-witness-tony-nissen-coast-guard/)<!-- TECH:END -->
+ - [The Trumps Have Gone Full Crypto With World Liberty Financial](https://www.wired.com/story/trump-world-liberty-financial-crypto-defi/)
+ - [How to compress folders on iPad to save on storage space](https://appleinsider.com/inside/ipad/tips/how-to-compress-folders-on-ipad-to-save-on-storage-space?utm_medium=rss)
+ - [Trump launches World Liberty Financial, a DeFi lending project on Ethereum underpinned by the WLFI governance token; up to 63% of WLFI to be sold to the public &lpar;Jason Shubnell/The Block&rpar;](http://www.techmeme.com/240916/p35#a240916p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
