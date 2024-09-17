@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU picks veteran Finnish lawmaker Henna Virkkunen to take over from Thierry Breton, pending her confirmation; Virkkunen was central in creating the DSA &lpar;Bloomberg&rpar;](http://www.techmeme.com/240917/p18#a240917p18)
- - [Exploding pagers kill at least eight and injure thousands in an attack on Hezbollah](https://www.theverge.com/2024/9/17/24247200/exploding-pager-attack-hezbollah-lebanon-syria)
- - [The US FDIC proposes rules for banks holding customer funds for money management apps, to track customers&#39; balances, citing harms done when Synapse cratered &lpar;Emily Flitter/New York Times&rpar;](http://www.techmeme.com/240917/p17#a240917p17)<!-- TECH:END -->
+ - [Workday acquires Evisort, an AI-powered contract management service that had raised $155.6M in capital and debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240917/p24#a240917p24)
+ - [Snap unveils new Spectacles it will lease to devs creating Snapchat AR lenses, with a more immersive display, longer battery life, and a more lightweight design &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240917/p23#a240917p23)
+ - [Eufy’s new smart lock may Matter to Apple Home users](https://www.theverge.com/2024/9/17/24243714/eufy-smart-lock-e30-matter-thread-apple-home)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
