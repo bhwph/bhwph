@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trumps Have Gone Full Crypto With World Liberty Financial](https://www.wired.com/story/trump-world-liberty-financial-crypto-defi/)
- - [How to compress folders on iPad to save on storage space](https://appleinsider.com/inside/ipad/tips/how-to-compress-folders-on-ipad-to-save-on-storage-space?utm_medium=rss)
- - [Trump launches World Liberty Financial, a DeFi lending project on Ethereum underpinned by the WLFI governance token; up to 63% of WLFI to be sold to the public &lpar;Jason Shubnell/The Block&rpar;](http://www.techmeme.com/240916/p35#a240916p35)<!-- TECH:END -->
+ - [Q&amp;A with Philips CEO Roy Jakobs on evolving the company, a three-year restructuring plan, laying off 10,000 staff, FDA litigation, AI in healthcare, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240917/p2#a240917p2)
+ - [The new Google TV Streamer is already on store shelves but you can’t buy it](https://www.androidauthority.com/google-tv-streamer-home-depot-3482260/)
+ - [Google could soon make it easier to manage Trusted places for Extend Unlock &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-trusted-places-toggle-apk-teardown-3482250/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
