@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple Watch sleep apnea detection works in watchOS 11](https://appleinsider.com/articles/24/09/17/how-apple-watch-sleep-apnea-detection-works-in-watchos-11?utm_medium=rss)
- - [Galaxy S25 Plus battery size revealed, almost matches the S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-plus-battery-size-3482314/)
- - [EssilorLuxottica and Meta agree a 10-year deal to continue developing smart eyewear, after creating two generations of Ray-Ban glasses since 2019 &lpar;Reuters&rpar;](http://www.techmeme.com/240917/p7#a240917p7)<!-- TECH:END -->
+ - [Apple wants to add a flashlight to future Apple Watches](https://appleinsider.com/articles/23/12/07/apple-wants-to-add-a-flashlight-to-future-apple-watches?utm_medium=rss)
+ - [Microsoft calls for &quot;clarity and consistency&quot; over US export controls that have held up shipping AI chips to UAE-based G42, in which Microsoft invested $1.5B &lpar;Financial Times&rpar;](http://www.techmeme.com/240917/p11#a240917p11)
+ - [Samsung opens Galaxy Tab S10 series reservations, but there’s some bad news](https://www.androidauthority.com/samsung-pre-reserve-galaxy-tab-s10-series-3482326/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
