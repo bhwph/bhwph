@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Specialists will not be coming back&#39;: The next Battlefield will emulate Battlefields 3 and 4, &#39;the pinnacle&#39; of the series, says EA](https://www.pcgamer.com/games/fps/specialists-will-not-be-coming-back-the-next-battlefield-will-emulate-battlefields-3-and-4-the-pinnacle-of-the-series-says-ea)
- - [Original Flappy Bird developer not involved with rerelease](https://www.polygon.com/news/452008/flappy-bird-original-developer-not-involved)
- - [Final Fantasy 16&#39;s Producer Says Please Don&#39;t Make &#39;Inappropriate&#39; Mods](https://kotaku.com/ff16-pc-port-offensive-inappropriate-mods-nude-ps5-1851649334)<!-- GAME:END -->
+ - [There are weird games, and then there&#39;s Judero: a delectably Scottish adventure made out of action figures and Harryhausenesque claymation where you fight faeries, lizards, and Englishmen](https://www.pcgamer.com/games/action/there-are-weird-games-and-then-there-s-judero-a-delectably-scottish-adventure-made-out-of-action-figures-and-harryhausenesque-claymation-where-you-fight-faeries-lizards-and-englishmen)
+ - [Unknown 9: Awakening feels like a AA videogame from the late 2000s, and so far that isn&#39;t a bad thing](https://www.pcgamer.com/games/action/unknown-9-awakening-feels-like-a-aa-videogame-from-the-late-2000s-and-so-far-that-isnt-a-bad-thing)
+ - [Helldivers 2 devs took fan outcry to heart and made the new Napalm Barrage an absolute monstrosity](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-devs-took-fan-outcry-to-heart-and-made-the-new-napalm-barrage-an-absolute-monstrosity)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
