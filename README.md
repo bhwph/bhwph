@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
- - 😝 [Ah yes](http://9gag.com/gag/ae9MNxQ)
- - 👉 [Wonder Woman replacement](http://9gag.com/gag/azxXbGm)<!-- MEMES:END -->
+ - 6️⃣ [And act like strangers](http://9gag.com/gag/agmXrq6)
+ - 😝 [Peak Old Days](http://9gag.com/gag/awyXbN1)
+ - 👉 [What is SHE smoking](http://9gag.com/gag/aXPxbM2)<!-- MEMES:END -->
 
 --- 
 
