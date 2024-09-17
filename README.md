@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skate will frontside pop shuvit into early access in 2025](https://www.pcgamer.com/games/sports/skate-will-frontside-pop-shuvit-into-early-access-in-2025)
- - [New GTA Online Update Breaks Steam Deck Support](https://kotaku.com/gta-online-update-steam-deck-gta-6-rdr-pc-port-leak-ps5-1851650625)
- - [Overwatch 2 Celebrates World Of Warcraft With New Crossover Event](https://kotaku.com/overwatch-2-world-of-warcraft-event-skins-widowmaker-1851650621)<!-- GAME:END -->
+ - [Blizzard reveals new Diablo 4: Vessel of Hatred story details — It&#39;s more than just disgusting body horror](https://www.pcgamer.com/games/rpg/diablo-4-vessel-of-hatred-reveals-new-campaign-details-it-s-more-than-just-disgusting-body-horror)
+ - [&#39;The game is absolutely not dying&#39;: XDefiant boss rejects claims that Ubisoft&#39;s shooter is struggling to find players](https://www.pcgamer.com/games/fps/the-game-is-absolutely-not-dying-xdefiant-boss-rejects-claims-that-ubisofts-shooter-is-struggling-to-find-players)
+ - [How to get cores in Frostpunk 2](https://www.pcgamer.com/frostpunk-2-cores)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
