@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Singapore&rpar; Welcome PlayStation 5 Pro, the most visually impressive way to play games on PlayStation](https://blog.playstation.com/2024/09/16/20240917-ps5pro/)
- - [&lpar;For Singapore&rpar; Welcome PlayStation 5 Pro, the most visually impressive way to play games on PlayStation](https://blog.playstation.com/2024/09/16/20240917-ps5pro/)
- - [Today&#39;s Wordle answer for Tuesday, September 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-17-2024)<!-- GAME:END -->
+ - [Zotac Zbox Magnus One review](https://www.pcgamer.com/hardware/gaming-pcs/zotac-zbox-magnus-one-review)
+ - [Modders are rejecting FromSoft&#39;s recent Elden Ring: Shadow of the Erdtree nerf by restoring the final boss to his former strength](https://www.pcgamer.com/games/rpg/modders-are-rejecting-fromsofts-recent-elden-ring-shadow-of-the-erdtree-nerf-by-restoring-the-final-boss-to-his-former-strength)
+ - [Jason Momoa was &#39;really mad and yelling&#39; on the Minecraft movie set, says Valkyrae: &#39;I just saw him mistreat some of the crew&#39;](https://www.pcgamer.com/movies-tv/jason-momoa-was-really-mad-and-yelling-on-the-minecraft-movie-set-says-valkyrae-i-just-saw-him-mistreat-some-of-the-crew)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
