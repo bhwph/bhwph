@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s new model is better at reasoning and, occasionally, deceiving](https://www.theverge.com/2024/9/17/24243884/openai-o1-model-research-safety-alignment)
- - [Discord says it is beginning to roll out end-to-end encryption to voice and video chats in DMs, Group DMs, voice channels, and Go Live streams &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240917/p28#a240917p28)
- - [RCS texts on the iPhone aren’t encrypted now, but that could change](https://www.theverge.com/2024/9/17/24247414/rcs-texts-iphone-e2ee-android-gsma)<!-- TECH:END -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [California governor signs rules limiting AI actor clones](https://www.theverge.com/2024/9/17/24247583/california-governor-newsom-signs-ai-digital-replica-bills)
+ - [Sources: Apple&#39;s A16 SoC is currently being manufactured at Phase 1 of TSMC&#39;s Fab 21 in Arizona in small, but significant, numbers &lpar;Tim Culpan/Tim Culpan&#39;s Position&rpar;](http://www.techmeme.com/240917/p34#a240917p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
