@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
- - 😝 [I was afraid of nothing, until i saw this picture](http://9gag.com/gag/aRB3A6j)
- - 👉 [Iranian Ambassador reported to be holding a Hezbollab beeper](http://9gag.com/gag/a0eKpZL)<!-- MEMES:END -->
+ - 6️⃣ [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
+ - 😝 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
+ - 👉 [Ah yes](http://9gag.com/gag/ae9MNxQ)<!-- MEMES:END -->
 
 --- 
 
