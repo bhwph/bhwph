@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thanks, google.](http://9gag.com/gag/aVv3Oxv)
- - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
- - 👉 [Chin](http://9gag.com/gag/aByx3Nz)<!-- MEMES:END -->
+ - 6️⃣ [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
+ - 😝 [I was afraid of nothing, until i saw this picture](http://9gag.com/gag/aRB3A6j)
+ - 👉 [Iranian Ambassador reported to be holding a Hezbollab beeper](http://9gag.com/gag/a0eKpZL)<!-- MEMES:END -->
 
 --- 
 
