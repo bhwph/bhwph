@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Workday acquires Evisort, an AI-powered contract management service that had raised $155.6M in capital and debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240917/p24#a240917p24)
- - [Snap unveils new Spectacles it will lease to devs creating Snapchat AR lenses, with a more immersive display, longer battery life, and a more lightweight design &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240917/p23#a240917p23)
- - [Eufy’s new smart lock may Matter to Apple Home users](https://www.theverge.com/2024/9/17/24243714/eufy-smart-lock-e30-matter-thread-apple-home)<!-- TECH:END -->
+ - [OpenAI’s new model is better at reasoning and, occasionally, deceiving](https://www.theverge.com/2024/9/17/24243884/openai-o1-model-research-safety-alignment)
+ - [Discord says it is beginning to roll out end-to-end encryption to voice and video chats in DMs, Group DMs, voice channels, and Go Live streams &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240917/p28#a240917p28)
+ - [RCS texts on the iPhone aren’t encrypted now, but that could change](https://www.theverge.com/2024/9/17/24247414/rcs-texts-iphone-e2ee-android-gsma)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
