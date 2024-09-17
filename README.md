@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Simple truth](http://9gag.com/gag/a7oM5dA)
- - 😝 [No black samurai. What a Bummer!](http://9gag.com/gag/aAyxpDE)
- - 👉 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)<!-- MEMES:END -->
+ - 6️⃣ [Thanks, google.](http://9gag.com/gag/aVv3Oxv)
+ - 😝 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
+ - 👉 [Chin](http://9gag.com/gag/aByx3Nz)<!-- MEMES:END -->
 
 --- 
 
