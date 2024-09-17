@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
- - 😝 [People who annoy you](http://9gag.com/gag/aqy79QQ)
- - 👉 [Who not?](http://9gag.com/gag/aByxRyO)<!-- MEMES:END -->
+ - 6️⃣ [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
+ - 😝 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
+ - 👉 [Peak Old Days](http://9gag.com/gag/awyXbN1)<!-- MEMES:END -->
 
 --- 
 
