@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [See how hard Space Marine 2&#39;s photo mode goes in the hands of an expert Warhammer 40,000 painter](https://www.pcgamer.com/games/action/see-how-hard-space-marine-2s-photo-mode-goes-in-the-hands-of-an-expert-warhammer-40000-painter)
- - [What if every movie with a grim ending got a Speak No Evil-style remake?](https://www.polygon.com/movies/452170/sad-endings-remake-speak-no-evil)
- - [Rubik’s Cube inventor collaborated on new Rubik’s Match mobile game](https://www.polygon.com/news/452176/rubiks-cube-match-3-mobile-game-reveal)<!-- GAME:END -->
+ - [Get Street Fighter 6 on Steam for its lowest price yet](https://www.polygon.com/good-deals/452239/street-fighter-6-sale-deluxe-ultimate-steam-pc)
+ - [Donald Glover Says Star Wars Can Be &#39;Too Serious&#39;, Wants Lando Movie To Be &#39;Fun&#39;](https://kotaku.com/donald-glover-lando-movie-series-update-fun-serious-tv-1851650156)
+ - [Dragon’s Dogma 2 now has a ‘casual mode’ that softens the experience](https://www.polygon.com/news/452336/dragons-dogma-2-patch-casual-mode-bakbattahl-portcrystal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
