@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
- - 😝 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
- - 👉 [Peak Old Days](http://9gag.com/gag/awyXbN1)<!-- MEMES:END -->
+ - 6️⃣ [Simple truth](http://9gag.com/gag/a7oM5dA)
+ - 😝 [No black samurai. What a Bummer!](http://9gag.com/gag/aAyxpDE)
+ - 👉 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)<!-- MEMES:END -->
 
 --- 
 
