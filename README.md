@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants to add a flashlight to future Apple Watches](https://appleinsider.com/articles/23/12/07/apple-wants-to-add-a-flashlight-to-future-apple-watches?utm_medium=rss)
- - [Microsoft calls for &quot;clarity and consistency&quot; over US export controls that have held up shipping AI chips to UAE-based G42, in which Microsoft invested $1.5B &lpar;Financial Times&rpar;](http://www.techmeme.com/240917/p11#a240917p11)
- - [Samsung opens Galaxy Tab S10 series reservations, but there’s some bad news](https://www.androidauthority.com/samsung-pre-reserve-galaxy-tab-s10-series-3482326/)<!-- TECH:END -->
+ - [Apple Watch Series 10 review roundup: A strong annual upgrade](https://appleinsider.com/articles/24/09/17/apple-watch-series-10-review-roundup-a-strong-annual-upgrade?utm_medium=rss)
+ - [What Is a Copilot+ PC? Explaining Microsoft’s AI Term for Windows Laptops](https://www.wired.com/story/what-is-copilot-plus-pc/)
+ - [Microsoft Copilot Gets Faster, Smarter and More Collaborative](https://www.cnet.com/tech/services-and-software/microsoft-copilot-gets-faster-smarter-and-more-collaborative/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
