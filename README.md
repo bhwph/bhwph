@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is launching an ‘independent’ safety board that can stop its model releases](https://www.theverge.com/2024/9/16/24246617/openai-independent-safety-board-stop-model-releases)
- - [JD Vance doesn’t care that his viral story about Haitian migrants is false](https://www.theverge.com/2024/9/16/24246598/jd-vance-cnn-dana-bash-haitians-springfield-ohio)
- - [Intel’s big turnaround plan includes spinning off its chipmaking business](https://www.theverge.com/2024/9/16/24246599/intel-foundry-independent-spinoff)<!-- TECH:END -->
+ - [A US federal jury finds Zynga infringed on two IBM patents related to web-based communications and orders the game maker to pay $44.9M; Zynga plans to appeal &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240916/p33#a240916p33)
+ - [‘I Told Him I’m Not Getting in It’: Former Titan Submersible Engineer Testifies](https://www.wired.com/story/oceangate-hearings-day-one-witness-tony-nissen-coast-guard/)
+ - [Meta says it&#39;s banning Russian media outlet RT from its apps globally, days after the Biden admin accused RT of acting as an arm of Moscow&#39;s spy agencies &lpar;NBC News&rpar;](http://www.techmeme.com/240916/p32#a240916p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
