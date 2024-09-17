@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie Dev Announces Switch 2 Game As More Rumors Swirl](https://kotaku.com/switch-2-rumors-nintendo-direct-release-date-1851650486)
- - [Logitech&#39;s new wheels and shifter accessories look to turn its &#39;Pro&#39; wheelbase into a more serious racing kit](https://www.pcgamer.com/hardware/steering-wheels/logitechs-new-wheel-and-shifter-accessories-look-to-turn-its-pro-wheelbase-into-a-more-serious-racing-kit)
- - [Logitech&#39;s newest Superlight mouse won&#39;t replace the excellent Superlight 2 but its tweaked design has earned it an even longer name](https://www.pcgamer.com/hardware/gaming-mice/logitechs-newest-superlight-mouse-wont-replace-the-excellent-superlight-2-but-its-tweaked-shape-has-earned-it-an-even-longer-name)<!-- GAME:END -->
+ - [Skate will frontside pop shuvit into early access in 2025](https://www.pcgamer.com/games/sports/skate-will-frontside-pop-shuvit-into-early-access-in-2025)
+ - [New GTA Online Update Breaks Steam Deck Support](https://kotaku.com/gta-online-update-steam-deck-gta-6-rdr-pc-port-leak-ps5-1851650625)
+ - [Overwatch 2 Celebrates World Of Warcraft With New Crossover Event](https://kotaku.com/overwatch-2-world-of-warcraft-event-skins-widowmaker-1851650621)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
