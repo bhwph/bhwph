@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peak Old Days](http://9gag.com/gag/awyXbN1)
- - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
- - 👉 [And act like strangers](http://9gag.com/gag/agmXrq6)<!-- MEMES:END -->
+ - 6️⃣ [So many books](http://9gag.com/gag/azxXbYp)
+ - 😝 [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location](http://9gag.com/gag/aMVj1PX)
+ - 👉 [C U Next Time](http://9gag.com/gag/aYQgbD2)<!-- MEMES:END -->
 
 --- 
 
