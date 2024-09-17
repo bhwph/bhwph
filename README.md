@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So many books](http://9gag.com/gag/azxXbYp)
- - 😝 [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location](http://9gag.com/gag/aMVj1PX)
- - 👉 [C U Next Time](http://9gag.com/gag/aYQgbD2)<!-- MEMES:END -->
+ - 6️⃣ [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
+ - 😝 [People who annoy you](http://9gag.com/gag/aqy79QQ)
+ - 👉 [Who not?](http://9gag.com/gag/aByxRyO)<!-- MEMES:END -->
 
 --- 
 
