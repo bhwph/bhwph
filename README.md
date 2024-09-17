@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Street Fighter 6 on Steam for its lowest price yet](https://www.polygon.com/good-deals/452239/street-fighter-6-sale-deluxe-ultimate-steam-pc)
- - [Donald Glover Says Star Wars Can Be &#39;Too Serious&#39;, Wants Lando Movie To Be &#39;Fun&#39;](https://kotaku.com/donald-glover-lando-movie-series-update-fun-serious-tv-1851650156)
- - [Dragon’s Dogma 2 now has a ‘casual mode’ that softens the experience](https://www.polygon.com/news/452336/dragons-dogma-2-patch-casual-mode-bakbattahl-portcrystal)<!-- GAME:END -->
+ - [Indie Dev Announces Switch 2 Game As More Rumors Swirl](https://kotaku.com/switch-2-rumors-nintendo-direct-release-date-1851650486)
+ - [Logitech&#39;s new wheels and shifter accessories look to turn its &#39;Pro&#39; wheelbase into a more serious racing kit](https://www.pcgamer.com/hardware/steering-wheels/logitechs-new-wheel-and-shifter-accessories-look-to-turn-its-pro-wheelbase-into-a-more-serious-racing-kit)
+ - [Logitech&#39;s newest Superlight mouse won&#39;t replace the excellent Superlight 2 but its tweaked design has earned it an even longer name](https://www.pcgamer.com/hardware/gaming-mice/logitechs-newest-superlight-mouse-wont-replace-the-excellent-superlight-2-but-its-tweaked-shape-has-earned-it-an-even-longer-name)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
