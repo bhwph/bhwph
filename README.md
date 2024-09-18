@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Satisfied clients](http://9gag.com/gag/a9ypWbm)
- - 😝 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
- - 👉 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)<!-- MEMES:END -->
+ - 😝 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
+ - 👉 [They are eating the geese](http://9gag.com/gag/aND1deA)<!-- MEMES:END -->
 
 --- 
 
