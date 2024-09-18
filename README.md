@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I was afraid of nothing, until i saw this picture](http://9gag.com/gag/aRB3A6j)
- - 😝 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
- - 👉 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)<!-- MEMES:END -->
+ - 6️⃣ [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
+ - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
+ - 👉 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)<!-- MEMES:END -->
 
 --- 
 
