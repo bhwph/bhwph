@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mickey 17’s first trailer is light in tone, heavy on dead Robert Pattinsons](https://www.theverge.com/2024/9/17/24138113/mickey-17-trailer-bong-joon-ho-robert-pattinson)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [You’ll be able to use an iPhone to wirelessly restore an iPhone 16](https://www.theverge.com/2024/9/17/24247702/apple-iphone-16-pro-wireless-restore)<!-- TECH:END -->
+ - [Sources: the US is urging Vietnam to avoid cable-laying firm HMN Technologies and other Chinese companies in Vietnam&#39;s plans for 10 new subsea cables by 2030 &lpar;Reuters&rpar;](http://www.techmeme.com/240917/p38#a240917p38)
+ - [Average Electricity Bill in New Jersey &lpar;and How to Save&rpar;](https://www.cnet.com/how-to/average-electricity-bill-in-new-jersey-and-how-to-save/#ftag=CAD590a51e)
+ - [Best Coffee Makers for 2024](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
