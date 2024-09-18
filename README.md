@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
- - 😝 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
- - 👉 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)<!-- MEMES:END -->
+ - 6️⃣ [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
+ - 😝 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
+ - 👉 [Something about fishermen running out of nets or something, I don&#39;t know](http://9gag.com/gag/apR2o6W)<!-- MEMES:END -->
 
 --- 
 
