@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If they installed one of these, would you return to the office](http://9gag.com/gag/aO8rVPv)
- - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
- - 👉 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)<!-- MEMES:END -->
+ - 6️⃣ [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
+ - 😝 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
+ - 👉 [Iranian Ambassador reported to be holding a Hezbollab beeper](http://9gag.com/gag/a0eKpZL)<!-- MEMES:END -->
 
 --- 
 
