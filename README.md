@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [California governor signs rules limiting AI actor clones](https://www.theverge.com/2024/9/17/24247583/california-governor-newsom-signs-ai-digital-replica-bills)
- - [Sources: Apple&#39;s A16 SoC is currently being manufactured at Phase 1 of TSMC&#39;s Fab 21 in Arizona in small, but significant, numbers &lpar;Tim Culpan/Tim Culpan&#39;s Position&rpar;](http://www.techmeme.com/240917/p34#a240917p34)<!-- TECH:END -->
+ - [Mickey 17’s first trailer is light in tone, heavy on dead Robert Pattinsons](https://www.theverge.com/2024/9/17/24138113/mickey-17-trailer-bong-joon-ho-robert-pattinson)
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [You’ll be able to use an iPhone to wirelessly restore an iPhone 16](https://www.theverge.com/2024/9/17/24247702/apple-iphone-16-pro-wireless-restore)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
