@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Satisfied clients](http://9gag.com/gag/a9ypWbm)
+ - 6️⃣ [I was afraid of nothing, until i saw this picture](http://9gag.com/gag/aRB3A6j)
  - 😝 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
- - 👉 [They are eating the geese](http://9gag.com/gag/aND1deA)<!-- MEMES:END -->
+ - 👉 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)<!-- MEMES:END -->
 
 --- 
 
