@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [God of War Ragnarok release date and launch times](https://www.pcgamer.com/games/rpg/god-of-war-ragnarok-release-date-time)
- - [Can Wobbuffet be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/447836/can-wobbuffet-be-shiny-wynaut)
- - [Tiny Glade review](https://www.pcgamer.com/games/city-builder/tiny-glade-review)<!-- GAME:END -->
+ - [AMD&#39;s new Ryzen 9000 CPUs are reportedly suffering the &#39;worst launch since Bulldozer&#39; thanks to &#39;disastrous&#39; sales](https://www.pcgamer.com/hardware/processors/amds-new-ryzen-9000-cpus-are-reportedly-suffering-the-worst-launch-since-bulldozer-thanks-to-disastrous-sales)
+ - [HTC&#39;s next VR headset is a little less Meta Quest and a little more Apple Vision Pro in its bid to be the everything device](https://www.pcgamer.com/hardware/vr-hardware/htcs-next-vr-headset-is-a-little-less-meta-quest-and-a-little-more-apple-vision-pro-in-its-bid-to-be-the-everything-device)
+ - [Games industry hurtles further into self-parody as ESRB leaks existence of a Horizon Zero Dawn Remaster](https://www.pcgamer.com/games/action/games-industry-hurtles-further-into-self-parody-as-esrb-leaks-existence-of-a-horizon-zero-dawn-remaster)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
