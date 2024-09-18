@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Final Joker 2 Trailer Is Here](https://kotaku.com/joker-2-folie-deux-lady-gaga-frank-sinatra-trailer-1851651895)
- - [Humble&amp;#8217;s $18 Warhammer 40K book bundle is the perfect chaser for Space Marine 2](https://www.polygon.com/good-deals/452668/space-marine-book-black-library-humble-bundle-sale)
- - [Rogue Class build guide for Dungeons &amp;#038; Dragons 5e 2024](https://www.polygon.com/dungeons-and-dragons-dnd-guide/452935/rogue-class-build-guide)<!-- GAME:END -->
+ - [Friendship restored with Steam: Valve has fixed the screenshot manager and all is right with the world](https://www.pcgamer.com/gaming-industry/friendship-restored-with-steam-valve-has-fixed-the-screenshot-manager-and-all-is-right-with-the-world)
+ - [Space Marine 2 devs will adjust Veteran difficulty to make it &#39;slightly more fair,&#39; but they really don&#39;t want to do an FOV slider—and you can just forget about shoulder swapping](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-devs-will-adjust-veteran-difficult-to-make-it-slightly-more-fair-but-they-really-dont-want-to-do-an-fov-sliderand-you-can-just-forget-about-shoulder-swapping)
+ - [Wizard Class build guide for Dungeons &amp;#038; Dragons 5e 2024](https://www.polygon.com/dungeons-and-dragons-dnd-guide/452996/wizard-class-build-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
