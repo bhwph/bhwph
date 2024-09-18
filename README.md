@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a trademark fight led to a new version of Flappy Bird by a crypto-adjacent game developer, ten years after the original was pulled from app stores &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/240918/p13#a240918p13)
- - [Did a Chinese University Hacking Competition Target a Real Victim?](https://www.wired.com/story/china-hacking-competition-real-victim/)
- - [India, which has set aside $11B for its semiconductor mission, is obsessing over self-reliance instead of focusing on areas that can be scaled up quickly &lpar;Mihir Sharma/Bloomberg&rpar;](http://www.techmeme.com/240918/p12#a240918p12)<!-- TECH:END -->
+ - [Researchers: GPT-4 generating a 100-word email uses 1,468ml of water at its Washington data center, 925ml in Arizona, 464ml in Illinois, and 235ml in Texas &lpar;Washington Post&rpar;](http://www.techmeme.com/240918/p18#a240918p18)
+ - [This Apple iOS Feature Makes iPhone Calls Sound Much Better](https://www.cnet.com/tech/services-and-software/this-apple-ios-feature-makes-your-iphone-calls-much-better/#ftag=CAD590a51e)
+ - [First Zero-Emission Hydrogen Train Launching in the US Later This Year](https://www.cnet.com/tech/first-zero-emission-hydrogen-train-launching-in-the-us-later-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
