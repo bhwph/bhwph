@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s new Ryzen 9000 CPUs are reportedly suffering the &#39;worst launch since Bulldozer&#39; thanks to &#39;disastrous&#39; sales](https://www.pcgamer.com/hardware/processors/amds-new-ryzen-9000-cpus-are-reportedly-suffering-the-worst-launch-since-bulldozer-thanks-to-disastrous-sales)
- - [HTC&#39;s next VR headset is a little less Meta Quest and a little more Apple Vision Pro in its bid to be the everything device](https://www.pcgamer.com/hardware/vr-hardware/htcs-next-vr-headset-is-a-little-less-meta-quest-and-a-little-more-apple-vision-pro-in-its-bid-to-be-the-everything-device)
- - [Games industry hurtles further into self-parody as ESRB leaks existence of a Horizon Zero Dawn Remaster](https://www.pcgamer.com/games/action/games-industry-hurtles-further-into-self-parody-as-esrb-leaks-existence-of-a-horizon-zero-dawn-remaster)<!-- GAME:END -->
+ - [A year later, a Bungie fan artist is still waiting on compensation for the accidental use of their work, though they say the studio&#39;s &#39;working to expedite the process as we speak&#39;](https://www.pcgamer.com/games/fps/a-year-later-a-bungie-fan-artist-is-still-waiting-on-compensation-for-the-accidental-use-of-their-work-though-they-say-the-studio-s-working-to-expedite-the-process-as-we-speak)
+ - [Is This What The New Switch 2 Looks Like?](https://kotaku.com/switch-2-specs-leaks-nintendo-screen-release-date-price-1851651185)
+ - [Castlevania Dominus Collection: How Konami Recreated DS and Arcade Games for Xbox](https://news.xbox.com/en-us/2024/09/18/castlevania-dominus-collection-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
