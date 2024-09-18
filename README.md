@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
- - 😝 [Chin](http://9gag.com/gag/aByx3Nz)
- - 👉 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)<!-- MEMES:END -->
+ - 6️⃣ [Satisfied clients](http://9gag.com/gag/a9ypWbm)
+ - 😝 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
+ - 👉 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)<!-- MEMES:END -->
 
 --- 
 
