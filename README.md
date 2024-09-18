@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skyrim lead designer says it will be &#39;almost impossible&#39; for Elder Scrolls 6 to meet fan expectations: &#39;Marketing departments just put their heads in their hands and weep&#39;](https://www.pcgamer.com/games/rpg/skyrim-lead-designer-says-it-will-be-almost-impossible-for-elder-scrolls-6-to-meet-fan-expectations-marketing-departments-just-put-their-heads-in-their-hands-and-weep)
- - [Overwatch 2: Creating Sound for Support Hero Juno That is Out of this World](https://news.xbox.com/en-us/2024/09/18/overwatch-2-juno-sound-design/)
- - [Long-Lost Vita Exclusive Will Get A Second Life On PS5 And Switch Over 10 Years Later](https://kotaku.com/freedom-wars-remastered-vita-ps5-switch-scifi-rpg-1851651681)<!-- GAME:END -->
+ - [The Final Joker 2 Trailer Is Here](https://kotaku.com/joker-2-folie-deux-lady-gaga-frank-sinatra-trailer-1851651895)
+ - [Humble&amp;#8217;s $18 Warhammer 40K book bundle is the perfect chaser for Space Marine 2](https://www.polygon.com/good-deals/452668/space-marine-book-black-library-humble-bundle-sale)
+ - [Rogue Class build guide for Dungeons &amp;#038; Dragons 5e 2024](https://www.polygon.com/dungeons-and-dragons-dnd-guide/452935/rogue-class-build-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
