@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Backup by BioLite is a beefy emergency battery for your big appliances](https://www.theverge.com/2024/9/18/24243688/backup-biolite-power-battery-emergency)
- - [How to use UTM to run almost any version of macOS -- even very old ones](https://appleinsider.com/inside/macos/tips/how-to-use-utm-to-run-almost-any-version-of-macos----even-very-old-ones?utm_medium=rss)
- - [Exploding pagers kill nine and injure thousands in an attack on Hezbollah](https://www.theverge.com/2024/9/17/24247200/exploding-pager-attack-hezbollah-lebanon-syria)<!-- TECH:END -->
+ - [New Snapchat AR spectacles are here, but not for you](https://www.androidauthority.com/snapchat-ar-spectacles-fifth-generation-3482569/)
+ - [BHP, the world&#39;s largest mining company by market cap, warns the rise of data centers and AI could exacerbate a looming shortage of copper by increasing demand &lpar;Leslie Hook/Financial Times&rpar;](http://www.techmeme.com/240918/p8#a240918p8)
+ - [CEO Anne Wojcicki says she remains committed to taking 23andMe private and is &quot;surprised and disappointed&quot; after all seven independent board directors resigned &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240918/p7#a240918p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
