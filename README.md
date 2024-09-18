@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Snapchat AR spectacles are here, but not for you](https://www.androidauthority.com/snapchat-ar-spectacles-fifth-generation-3482569/)
- - [BHP, the world&#39;s largest mining company by market cap, warns the rise of data centers and AI could exacerbate a looming shortage of copper by increasing demand &lpar;Leslie Hook/Financial Times&rpar;](http://www.techmeme.com/240918/p8#a240918p8)
- - [CEO Anne Wojcicki says she remains committed to taking 23andMe private and is &quot;surprised and disappointed&quot; after all seven independent board directors resigned &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240918/p7#a240918p7)<!-- TECH:END -->
+ - [How a trademark fight led to a new version of Flappy Bird by a crypto-adjacent game developer, ten years after the original was pulled from app stores &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/240918/p13#a240918p13)
+ - [Did a Chinese University Hacking Competition Target a Real Victim?](https://www.wired.com/story/china-hacking-competition-real-victim/)
+ - [India, which has set aside $11B for its semiconductor mission, is obsessing over self-reliance instead of focusing on areas that can be scaled up quickly &lpar;Mihir Sharma/Bloomberg&rpar;](http://www.techmeme.com/240918/p12#a240918p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
