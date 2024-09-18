@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GOG is delisting 29 games this September—you have 12 days to grab the ones you care about and 2 days to grab the ones you probably don&#39;t](https://www.pcgamer.com/software/platforms/gog-is-delisting-29-games-this-septemberyou-have-12-days-to-grab-the-ones-you-care-about-and-2-days-to-grab-the-ones-you-probably-dont)
- - [These Pokémon Nature Docs Are The Best Thing You&#39;ll See All Week](https://kotaku.com/pokemon-nature-documentary-pokearth-1851651144)
- - [God of War Ragnarök brings a host of new features to PC, available tomorrow](https://blog.playstation.com/2024/09/18/god-of-war-ragnarok-brings-a-host-of-new-features-to-pc-available-tomorrow/)<!-- GAME:END -->
+ - [Skyrim lead designer says it will be &#39;almost impossible&#39; for Elder Scrolls 6 to meet fan expectations: &#39;Marketing departments just put their heads in their hands and weep&#39;](https://www.pcgamer.com/games/rpg/skyrim-lead-designer-says-it-will-be-almost-impossible-for-elder-scrolls-6-to-meet-fan-expectations-marketing-departments-just-put-their-heads-in-their-hands-and-weep)
+ - [Overwatch 2: Creating Sound for Support Hero Juno That is Out of this World](https://news.xbox.com/en-us/2024/09/18/overwatch-2-juno-sound-design/)
+ - [Long-Lost Vita Exclusive Will Get A Second Life On PS5 And Switch Over 10 Years Later](https://kotaku.com/freedom-wars-remastered-vita-ps5-switch-scifi-rpg-1851651681)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
