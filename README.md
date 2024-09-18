@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard reveals new Diablo 4: Vessel of Hatred story details — It&#39;s more than just disgusting body horror](https://www.pcgamer.com/games/rpg/diablo-4-vessel-of-hatred-reveals-new-campaign-details-it-s-more-than-just-disgusting-body-horror)
- - [&#39;The game is absolutely not dying&#39;: XDefiant boss rejects claims that Ubisoft&#39;s shooter is struggling to find players](https://www.pcgamer.com/games/fps/the-game-is-absolutely-not-dying-xdefiant-boss-rejects-claims-that-ubisofts-shooter-is-struggling-to-find-players)
- - [How to get cores in Frostpunk 2](https://www.pcgamer.com/frostpunk-2-cores)<!-- GAME:END -->
+ - [EA says giving videogame characters &#39;life and persistence&#39; outside of games is a &#39;profound opportunity,&#39; which is the kind of talk that leads to dangerous Holodeck malfunctions](https://www.pcgamer.com/gaming-industry/ea-says-giving-videogame-characters-life-and-persistence-outside-of-games-is-a-profound-opportunity-which-is-the-kind-of-talk-that-leads-to-dangerous-holodeck-malfunctions)
+ - [Arrowhead creative director agrees Helldivers 2 needs a harder difficulty mode after the &#39;buff everything&#39; patch](https://www.pcgamer.com/games/third-person-shooter/arrowhead-creative-director-agrees-helldivers-2-needs-a-harder-difficulty-mode-after-the-buff-everything-patch)
+ - [For the first time in 20 years, World of Warcraft will let solo players fight its hardest boss in a new &#39;Story Mode&#39; raid difficulty](https://www.pcgamer.com/games/world-of-warcraft/for-the-first-time-in-20-years-world-of-warcraft-will-let-solo-players-fight-its-hardest-boss-in-a-new-story-mode-raid-difficulty)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
