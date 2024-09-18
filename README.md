@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin’s satellite communicator can now send photo and voice messages](https://www.theverge.com/2024/9/18/24247972/garmin-satellite-inreach-messenger-plus-sos)
- - [Wooting’s 80HE makes the best gaming keyboard even better](https://www.theverge.com/2024/9/18/24247911/wooting-80he-keyboard-gaming-hands-on)
- - [This retro mechanical keyboard kit is all modern on the inside](https://www.theverge.com/24247498/classic-tkl-mechanical-keyboard-review)<!-- TECH:END -->
+ - [Apple enables direct Thread control for smart home devices with iOS 18](https://appleinsider.com/articles/24/09/18/apple-enables-direct-thread-control-for-smart-home-devices-with-ios-18?utm_medium=rss)
+ - [Judge dismisses suit against Facebook over iOS privacy settings](https://appleinsider.com/articles/24/09/18/judge-dismisses-suit-against-facebook-over-ios-privacy-settings?utm_medium=rss)
+ - [House committee approves bill requiring new cars to have AM radio](https://www.theverge.com/2024/9/18/24248137/am-radio-bill-house-energy-commerce-ev-interference)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
