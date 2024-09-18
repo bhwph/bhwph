@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US is urging Vietnam to avoid cable-laying firm HMN Technologies and other Chinese companies in Vietnam&#39;s plans for 10 new subsea cables by 2030 &lpar;Reuters&rpar;](http://www.techmeme.com/240917/p38#a240917p38)
- - [Average Electricity Bill in New Jersey &lpar;and How to Save&rpar;](https://www.cnet.com/how-to/average-electricity-bill-in-new-jersey-and-how-to-save/#ftag=CAD590a51e)
- - [Best Coffee Makers for 2024](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Backup by BioLite is a beefy emergency battery for your big appliances](https://www.theverge.com/2024/9/18/24243688/backup-biolite-power-battery-emergency)
+ - [How to use UTM to run almost any version of macOS -- even very old ones](https://appleinsider.com/inside/macos/tips/how-to-use-utm-to-run-almost-any-version-of-macos----even-very-old-ones?utm_medium=rss)
+ - [Exploding pagers kill nine and injure thousands in an attack on Hezbollah](https://www.theverge.com/2024/9/17/24247200/exploding-pager-attack-hezbollah-lebanon-syria)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
