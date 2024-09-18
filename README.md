@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube confirms your pause screen is now fair game for ads](https://www.theverge.com/2024/9/18/24248391/youtube-pause-ads-widely-rolling-out)
- - [Get 3 Months of Access to Adobe Creative Cloud for Just $90](https://www.cnet.com/deals/get-3-months-of-access-to-adobe-creative-cloud-for-just-90/#ftag=CAD590a51e)
- - [If you’ve struggled to see your new Nest Thermostat’s screen, a fix is on the way](https://www.theverge.com/2024/9/18/24248291/google-nest-learning-thermostat-4th-gen-software-update-fix)<!-- TECH:END -->
+ - [Playtika agrees to buy Tel Aviv-based mobile game maker SuperPlay for $700M, and up to an additional $1.25B if SuperPlay hits financial targets over three years &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240918/p43#a240918p43)
+ - [Google Workspace users will see their Calendars front and center in Chrome](https://www.theverge.com/2024/9/18/24248416/google-workspace-chrome-calendar-new0tabs)
+ - [Sources: the hackers behind the February data breach of drug distributor Cencora received a record ransom of $75M through three bitcoin installments in March &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/240918/p42#a240918p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
