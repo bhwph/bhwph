@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases updates to improve iPhone 16 repairability, including changes to the battery, TrueDepth Camera, and Face ID, and launches a Repair Assistant &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/240918/p25#a240918p25)
- - [Apple says Apple Intelligence will support German, Italian, Korean, Portuguese, Vietnamese, and other languages in 2025, and is in talks with the EU and China &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240918/p24#a240918p24)
- - [Apple iPhone 16 and 16 Plus review: reliable camera, Action Button, more RAM, and A18 chip, but standard refresh rate screen and Camera Control is a mixed bag &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240918/p23#a240918p23)<!-- TECH:END -->
+ - [Garmin’s satellite communicator can now send photo and voice messages](https://www.theverge.com/2024/9/18/24247972/garmin-satellite-inreach-messenger-plus-sos)
+ - [Wooting’s 80HE makes the best gaming keyboard even better](https://www.theverge.com/2024/9/18/24247911/wooting-80he-keyboard-gaming-hands-on)
+ - [This retro mechanical keyboard kit is all modern on the inside](https://www.theverge.com/24247498/classic-tkl-mechanical-keyboard-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
