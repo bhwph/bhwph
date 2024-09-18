@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A year later, a Bungie fan artist is still waiting on compensation for the accidental use of their work, though they say the studio&#39;s &#39;working to expedite the process as we speak&#39;](https://www.pcgamer.com/games/fps/a-year-later-a-bungie-fan-artist-is-still-waiting-on-compensation-for-the-accidental-use-of-their-work-though-they-say-the-studio-s-working-to-expedite-the-process-as-we-speak)
- - [Is This What The New Switch 2 Looks Like?](https://kotaku.com/switch-2-specs-leaks-nintendo-screen-release-date-price-1851651185)
- - [Castlevania Dominus Collection: How Konami Recreated DS and Arcade Games for Xbox](https://news.xbox.com/en-us/2024/09/18/castlevania-dominus-collection-interview/)<!-- GAME:END -->
+ - [GOG is delisting 29 games this September—you have 12 days to grab the ones you care about and 2 days to grab the ones you probably don&#39;t](https://www.pcgamer.com/software/platforms/gog-is-delisting-29-games-this-septemberyou-have-12-days-to-grab-the-ones-you-care-about-and-2-days-to-grab-the-ones-you-probably-dont)
+ - [These Pokémon Nature Docs Are The Best Thing You&#39;ll See All Week](https://kotaku.com/pokemon-nature-documentary-pokearth-1851651144)
+ - [God of War Ragnarök brings a host of new features to PC, available tomorrow](https://blog.playstation.com/2024/09/18/god-of-war-ragnarok-brings-a-host-of-new-features-to-pc-available-tomorrow/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
