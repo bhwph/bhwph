@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ah yes](http://9gag.com/gag/ae9MNxQ)
- - 😝 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
- - 👉 [Chin](http://9gag.com/gag/aByx3Nz)<!-- MEMES:END -->
+ - 6️⃣ [If they installed one of these, would you return to the office](http://9gag.com/gag/aO8rVPv)
+ - 😝 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
+ - 👉 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)<!-- MEMES:END -->
 
 --- 
 
