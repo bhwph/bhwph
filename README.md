@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches an AI-powered video generator, available for some US advertisers in beta, which turns a single product image into a few-seconds-long video clip &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240919/p23#a240919p23)
- - [Everything You Need to Know About the WIRED &amp; Octopus Energy Tech Summit 2024](https://www.wired.com/story/everything-you-need-to-know-about-the-wired-and-octopus-energy-tech-summit-2024/)
- - [HUAWEI Watch GT 5 series launched: Long-lasting, fast-charging watches](https://www.androidauthority.com/huawei-watch-gt5-series-3483004/)<!-- TECH:END -->
+ - [Google announces Password Manager PIN to let users sync passkeys across Windows, macOS, Linux, and Android devices, with iOS support coming soon &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240919/p28#a240919p28)
+ - [Project 2025 would ‘essentially eviscerate EPA,’ former staff warn](https://www.theverge.com/2024/9/19/24248267/epa-air-pollution-report-biden-trump-project-2025)
+ - [Censorship accusations loom over Big Tech hearing on election threats](https://www.theverge.com/2024/9/19/24248501/senate-intelligence-committee-election-threats-hearing-meta-google-microsoft)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
