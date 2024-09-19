@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s official: OPPO Color OS 15 has a launch date](https://www.androidauthority.com/oppo-color-os-15-release-date-3483005/)
- - [Online Casino Workers Went on Hunger Strike Over Working Conditions](https://www.wired.com/story/online-casino-workers-went-on-hunger-strike-over-working-conditions/)
- - [The Outrageous Scheme to Capture and Sell Greenland’s Meltwater](https://www.wired.com/story/the-outrageous-scheme-to-capture-and-sell-greenlands-meltwater/)<!-- TECH:END -->
+ - [High costs mean Apple will limit 2nm processors to iPhone 18 Pro models](https://appleinsider.com/articles/24/09/19/high-costs-mean-apple-will-limit-2nm-processors-to-iphone-18-pro-models?utm_medium=rss)
+ - [Alibaba releases 100+ open-source models from its Qwen 2.5 family, its LLM released in May 2024, ranging from 0.5B to 72B parameters, and text-to-video AI tech &lpar;Reuters&rpar;](http://www.techmeme.com/240919/p14#a240919p14)
+ - [A Game Designer Just Hid a Gold Trophy in the Woods for a Real-Life Treasure Hunt. It Starts Now](https://www.wired.com/story/project-skydrop-jason-rohrer-treasure-hunt-begins/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
