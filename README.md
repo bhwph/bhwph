@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Playtika agrees to buy Tel Aviv-based mobile game maker SuperPlay for $700M, and up to an additional $1.25B if SuperPlay hits financial targets over three years &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240918/p43#a240918p43)
- - [Google Workspace users will see their Calendars front and center in Chrome](https://www.theverge.com/2024/9/18/24248416/google-workspace-chrome-calendar-new0tabs)
- - [Sources: the hackers behind the February data breach of drug distributor Cencora received a record ransom of $75M through three bitcoin installments in March &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/240918/p42#a240918p42)<!-- TECH:END -->
+ - [Agatha All Along is a whimsical road trip through Marvel’s world of witchcraft](https://www.theverge.com/2024/9/18/24246402/agatha-all-along-review)
+ - [Nintendo and The Pok&amp;eacute;mon Company sue Pocketpair, accusing the Palworld developer of infringing on &quot;multiple patent rights&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240918/p45#a240918p45)
+ - [Pokémon with guns? All the latest on viral gaming hit Palworld](https://www.theverge.com/24048972/palworld-news-trailers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
