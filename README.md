@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why is it so on beat](http://9gag.com/gag/avyOPwZ)
- - 😝 [Only one Concord player left online.](http://9gag.com/gag/aoyNpjw)
- - 👉 [Boyfriend, I&#39;ve \u0441um to bargain.](http://9gag.com/gag/a34KBxm)<!-- MEMES:END -->
+ - 6️⃣ [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
+ - 😝 [Help, i had a problem !!!](http://9gag.com/gag/aD2xGdO)
+ - 👉 [Outstanding move](http://9gag.com/gag/apR2LED)<!-- MEMES:END -->
 
 --- 
 
