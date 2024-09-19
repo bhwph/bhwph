@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Elon Musk, apparently unaware of Tenet Media&#39;s alleged Russian funding, replied to or reposted content from accounts tied to Tenet at least 60 times &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240919/p6#a240919p6)
- - [WhatsApp could soon let you theme your chats. Here’s how it would look](https://www.androidauthority.com/whatsapp-preset-chat-themes-demo-3482957/)
- - [In an open letter coordinated by Meta, more than two dozen companies warned that the EU might reap fewer rewards of AI because of the bloc&#39;s tech regulations &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/240919/p5#a240919p5)<!-- TECH:END -->
+ - [It’s official: OPPO Color OS 15 has a launch date](https://www.androidauthority.com/oppo-color-os-15-release-date-3483005/)
+ - [Online Casino Workers Went on Hunger Strike Over Working Conditions](https://www.wired.com/story/online-casino-workers-went-on-hunger-strike-over-working-conditions/)
+ - [The Outrageous Scheme to Capture and Sell Greenland’s Meltwater](https://www.wired.com/story/the-outrageous-scheme-to-capture-and-sell-greenlands-meltwater/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
