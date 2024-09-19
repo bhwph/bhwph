@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only one Concord player left online.](http://9gag.com/gag/aoyNpjw)
- - 😝 [High definition too](http://9gag.com/gag/aQz3ME2)
- - 👉 [He won and she knows it.](http://9gag.com/gag/apR2LPp)<!-- MEMES:END -->
+ - 6️⃣ [Brooke Shields over the years : 1978 - 2024](http://9gag.com/gag/aND1AGA)
+ - 😝 [Outstanding move](http://9gag.com/gag/apR2LED)
+ - 👉 [Yea `world&#39;s strongest lock` my ass](http://9gag.com/gag/aAyxxgZ)<!-- MEMES:END -->
 
 --- 
 
