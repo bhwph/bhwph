@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wireless charging](http://9gag.com/gag/azxXEWp)
- - 😝 [Sped up footage from the interrogation of Stephen McDaniel, a stalker who murdered his neighbor. He stunned his interrogators by remaining completely rigid and emotionless during the 2h interview, even when left alone in the room. He only moved his head to gaze straight into the](http://9gag.com/gag/aZZ3N59)
- - 👉 [Cargasm](http://9gag.com/gag/a2vo5AO)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s Wednesday , my dudes](http://9gag.com/gag/a4P7jVm)
+ - 😝 [Dude casually found windows 10 wallpaper](http://9gag.com/gag/aRB3KVB)
+ - 👉 [Singer Nick Patera has the ability to switch between both male and female vocals at will](http://9gag.com/gag/axy1g4W)<!-- MEMES:END -->
 
 --- 
 
