@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘The Broken Prison’ walkthrough, puzzle solutions in God of War Ragnarök](https://www.polygon.com/god-of-war-ragnarok-guide/23484073/the-broken-prison-niflheim-walkthrough-puzzle-solutions-tyr-locations)
- - [Don’t accidentally skip God of War Ragnarök’s first good side quest](https://www.polygon.com/god-of-war-ragnarok-guide/23433030/weight-of-chains-watchtower-lyngbakr-side-quest-favor-guide-bay-bounty-svartalfheim)
- - [Nintendo&amp;#8217;s Pokémon patents may shed light on the Palworld lawsuit](https://www.polygon.com/news/453508/pokemon-palworld-lawsuit-patent-infringement)<!-- GAME:END -->
+ - [D&amp;#038;D’s new Player’s Handbook unlocks smart options for thickheaded tanks](https://www.polygon.com/dnd-dungeons-dragons/452893/new-weapon-mastery-rules-players-handbook)
+ - [Dragon Age: The Veilguard’s Character Creator Is Incredible, But It Could Be Even Better](https://kotaku.com/dragon-age-veilguard-character-creator-hair-body-types-1851651794)
+ - [Agatha All Along Star Sasheer Zamata On Witchcraft And Star Trek](https://kotaku.com/agatha-all-along-sasheer-zamata-star-trek-snl-1851652795)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
