@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard pre-order guide](https://www.polygon.com/pre-order/440713/dragon-age-the-veilguard-pre-order-guide)
- - [Concord Director Steps Down As Studio Behind Historic PlayStation Flop Waits For Sony&#39;s Decision](https://kotaku.com/concord-firewalk-studios-relaunch-ps5-sony-playstation-1851652811)
- - [It’s Always A Good Time To Return To Return To Monkey Island](https://kotaku.com/return-to-monkey-island-lucasarts-anniversary-1851653030)<!-- GAME:END -->
+ - [Concord game director reportedly steps down as Firewalk developers fear layoffs or a possible closure](https://www.pcgamer.com/games/fps/concord-game-director-reportedly-steps-down-as-firewalk-developers-fear-layoffs-or-a-possible-closure)
+ - [The Adventure Zone’s new season mixes dice with Saturday morning cartoons](https://www.polygon.com/comedy/445805/adventure-zone-new-season-abnimals-premiere-interview)
+ - [A year after extraction shooter The Cycle: Frontier was shut down, it&#39;s back—well, in Fortnite at least](https://www.pcgamer.com/games/fps/a-year-after-extraction-shooter-the-cycle-frontier-was-shut-down-its-backwell-in-fortnite-at-least)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
